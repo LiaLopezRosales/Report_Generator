@@ -8,6 +8,7 @@ dependencies = [
     "ipykernel>=7.1.0",
     "logging>=0.4.9.6",
     "nltk>=3.9.2",
+    "pip>=25.3",
     "scikit-learn>=1.7.2",
     "spacy>=3.8.11",
     "typing>=3.10.0.0",
