@@ -1,13 +1,9 @@
-"""
-Patrones de expresiones regulares para categorización de noticias
-Basado en el análisis exploratorio de datos
-"""
-import re
-from typing import Dict, List
 
-# Patrones de eventos
+import re
+
 regex_eventos = {
     "PROTESTAS_CONFLICTOS_SOCIALES": [
+        # Conflictos laborales + Protestas movilizaciones
         r'\b(huelga|paro|conflicto|protesta|manifestación|marcha|movilización|bloquearon|disturbios)\b.*?\b(laboral|sindical|trabajadores|gobierno|presidente|ley|reforma|recorte|construcción)\b',
         r'\b(negociación|convenio|acuerdo)\b.*?\b(colectivo|salarial|laboral)\b',
         r'\b(estudiantes|organizaciones|sociales|indígenas|comunidades|sindicatos|gremios|trabajadores)\b.*?\b(protestan|marchan|movilizan|bloquean|convocan|llaman|anuncian)\b',
@@ -31,7 +27,9 @@ regex_eventos = {
         r'\b(ocupó|tomó|ingresó)\b.*?\b(edificio|instalación)\b',
         r'\b(convocó|llamó|citó|invitó)\b.*?\b(movilización|protesta)\b'
     ],
+
     "CONFLICTOS_ARMADOS_OPERACIONES": [
+        # Conflictos bélicos + Operaciones militares/policiales
         r'\b(misil|ataque|bombardeo|ofensiva|captura|detención|operación|aprehensión)\b.*?\b(lanzó|impactó|derribó|interceptó|alias|líder|disidencia|grupo armado)\b',
         r'\b(ejército|fuerzas|guardia|policía)\b.*?\b(liberó|rescató|detuvo|capturó|desactivó|controló|tomó)\b',
         r'\b(secuestro|rapto|liberación|rescate)\b.*?\b(parlamentaria|político|líder)\b',
@@ -59,22 +57,24 @@ regex_eventos = {
         r'\b(impactaron?|afectaron?|dañaron?)\b.*?\b(hospital|escuela|infraestructura civil)\b',
         r'\b(genocidio|crímenes de guerra|limpieza étnica)\b.*?\b(denunci[ao]|acus[ao]|señal[ao])\b',
         r'\b(guerra híbrida|ciberataque|fuego de artillería|municiones|vehículos? blindados?)\b',
-        r'\b(enfrentaron|confrontaron|disputaron|rivalizaron)\b',
-        r'\b(acusó|denunció|culpó|responsabilizó)\b.*?\b(a|al|a la)\b',
-        r'\b(conflicto|disputa|controversia|pleito)\b.*?\b(entre)\b.*?\b(y)\b',
-        r'\b(tensión|desacuerdo|divergencia|oposición)\b.*?\b(entre)\b',
-        r'\b(asedio|sitio|cerco|bloqueo)\b.*?\b(genocida|genocidio)\b.*?\b(israelí|israel)\b',
-        r'\b(gobierno|estado|ejército)\b.*?\b(israelí|israel)\b.*?\b(contra|sobre|en)\b.*?\b(territorios?|población|civil)\b',
-        r'\b(genocidio|genocida)\b.*?\b(israelí|israel)\b.*?\b(palestina|gaza|libano)\b',
-        r'\b(detenidos?|arrestados?)\b.*?\b(desorden\s+público|disturbios?)\b',
-        r'\b(fuerzas?\s+del\s+orden|policía|agentes?)\b.*?\b(ataques?|objeto)\b',
-        r'\b(vehículo|automóvil)\s+(policial|patrulla)\b',
-        r'\b(atacó|bombardeó|disparó|impactó)\b',
-        r'\b(desplegó|movilizó|desplazó|trasladó)\b.*?\b(tropas|efectivos)\b',
-        r'\b(intervino|incursionó|penetró|ingresó)\b',
-        r'\b(defendió|protegió|resguardó|custodió)\b'
+              r'\b(enfrentaron|confrontaron|disputaron|rivalizaron)\b',
+            r'\b(acusó|denunció|culpó|responsabilizó)\b.*?\b(a|al|a la)\b',
+            r'\b(conflicto|disputa|controversia|pleito)\b.*?\b(entre)\b.*?\b(y)\b',
+            r'\b(tensión|desacuerdo|divergencia|oposición)\b.*?\b(entre)\b',
+            r'\b(asedio|sitio|cerco|bloqueo)\b.*?\b(genocida|genocidio)\b.*?\b(israelí|israel)\b',
+            r'\b(gobierno|estado|ejército)\b.*?\b(israelí|israel)\b.*?\b(contra|sobre|en)\b.*?\b(territorios?|población|civil)\b',
+            r'\b(genocidio|genocida)\b.*?\b(israelí|israel)\b.*?\b(palestina|gaza|libano)\b',
+            r'\b(detenidos?|arrestados?)\b.*?\b(desorden\s+público|disturbios?)\b',
+            r'\b(fuerzas?\s+del\s+orden|policía|agentes?)\b.*?\b(ataques?|objeto)\b',
+            r'\b(vehículo|automóvil)\s+(policial|patrulla)\b',
+            r'\b(atacó|bombardeó|disparó|impactó)\b',
+            r'\b(desplegó|movilizó|desplazó|trasladó)\b.*?\b(tropas|efectivos)\b',
+            r'\b(intervino|incursionó|penetró|ingresó)\b',
+            r'\b(defendió|protegió|resguardó|custodió)\b'
     ],
+
     "DESASTRES_ACCIDENTES_EMERGENCIAS": [
+        # Desastres naturales + Accidentes tragedias
         r'\b(sismo|terremoto|temblor)\b.*?\b(magnitud|escala|grados)\b.*?\b(\d+\.?\d*)\b',
         r'\b(inundaciones?|lluvias?|precipitaciones?)\b.*?\b(afectan|dañan|anegan)\b',
         r'\b(sequía|emergencia ambiental|incendios?)\b.*?\b(declaró|afecta|azota)\b',
@@ -96,7 +96,9 @@ regex_eventos = {
         r'\b(intoxicación|envenenamiento)\b.*?\b(masivo|colectivo|alimentos)\b',
         r'\b(conservación|protección|preservación)\b.*?\b(ambiental|ecológica|natural)\b.*?\b(programa|proyecto|plan)\b'
     ],
+
     "ECONOMIA_COMERCIO_FINANZAS": [
+        # Crisis económica comercial + elementos económicos
         r'\b(arancel|impuesto|tasa)\b.*?\b(\d+%|\d+\s*por\s*ciento)\b.*?\b(importaciones|exportaciones)\b',
         r'\b(tensiones? comerciales?|guerra comercial|medidas económicas)\b.*?\b(China|EE\.UU|Estados Unidos)\b',
         r'\b(restricciones?|sanciones?|prohibiciones?)\b.*?\b(exportación|comercio|empresas)\b',
@@ -117,15 +119,17 @@ regex_eventos = {
         r'\b(producción|manufactura|industria)\b.*?\b(aumenta|crece|disminuye)\b.*?\b(porcentaje|tasa|índice)\b',
         r'\b(mercado|bolsa|valores)\b.*?\b(crece|sube|baja)\b.*?\b(puntos|porcentaje|índice)\b',
         r'\b(riesgo país|fuga de capitales|default|cesación de pagos|corralito|FMI|Banco Mundial)\b',
-        r'\b(inflación|deflación|precios|costo de vida)\b',
-        r'\b(impuesto|tasa|contribución|gravamen)\b',
-        r'\b(salario|sueldo|remuneración|ingreso)\b',
-        r'\b(empleo|trabajo|ocupación|desempleo)\b',
-        r'\b(inversión|capital|financiamiento|crédito)\b',
-        r'\b(crecimiento económico inclusivo|desarrollo económico)\b',
-        r'\b(países? en desarrollo|naciones? en desarrollo)\b.*?\b(costo|impacto)\b',
+              r'\b(inflación|deflación|precios|costo de vida)\b',
+            r'\b(impuesto|tasa|contribución|gravamen)\b',
+            r'\b(salario|sueldo|remuneración|ingreso)\b',
+            r'\b(empleo|trabajo|ocupación|desempleo)\b',
+            r'\b(inversión|capital|financiamiento|crédito)\b',
+            r'\b(crecimiento económico inclusivo|desarrollo económico)\b',
+r'\b(países? en desarrollo|naciones? en desarrollo)\b.*?\b(costo|impacto)\b',
     ],
+
     "RELACIONES_INTERNACIONALES": [
+        # Acuerdos internacionales + Cooperación internacional + Relaciones diplomáticas
         r'\b(tratado|acuerdo|convenio|cooperación|alianza|entendimiento|memorando)\b.*?\b(internacional|bilateral|multilateral)\b',
         r'\b(firma|ratificación|adhesión|suscribión)\b.*?\b(convención|protocolo|acuerdo)\b',
         r'\b(cumbre|reunión|encuentro|visita|gira)\b.*?\b(presidencial|ministerial|diplomática|oficial)\b',
@@ -151,13 +155,22 @@ regex_eventos = {
         r'\b(aniversario|conmemoración|natalicio)\b.*?\b(histórico|patriótico|nacional)\b.*?\b(entre|con)\b',
         r'\b(retiro|salida|abandono)\b.*?\b(organización|consejo|organismo internacional)\b',
         r'\b(visita|gira)\b.*?\b(oficial|diplomática)\b.*?\b(país|nación)\b',
-        r'\b(acordaron|convencieron|pactaron|concordaron)\b.*?\b(cooperar|colaborar|trabajar juntos)\b',
-        r'\b(alianza|asociación|consorcio)\b.*?\b(estratégica|estratégico)\b',
-        r'\b(firma|suscribión)\b.*?\b(convenio|acuerdo|memorándum)\b.*?\b(entre)\b.*?\b(y)\b',
-        r'\b(a favor de|en apoyo a|solidaridad con)\b.*?\b(palestina|libano|gaza)\b',
-        r'\b(manifestaciones?|protestas?)\b.*?\b(en|desde)\b.*?\b([A-Z][a-z]+)\b.*?\b(a favor de|en apoyo)\b',
+        r'\b(embajada|consulado|misisión)\b.*?\b(abrió|cerró|reabrió)\b',
+        r'\b(visita|gira|encuentro)\b.*?\b(presidencial|ministerial|diplomática)\b.*?\b(país|nación)\b',
+        r'\b(retiro|salida|abandono)\b.*?\b(organización|consejo|organismo internacional)\b',
+        r'\b(solidaridad|apoyo|respaldo)\b.*?\b(país|nación|gobierno)\b',
+        r'\b(hermandad|cooperación|colaboración)\b.*?\b(entre|con)\b.*?\b(pueblos?|países?)\b',
+        r'\b(rechazo|condena|repudio)\b.*?\b(declaraciones?|acciones?|políticas?)\b',
+        r'\b(aniversario|conmemoración)\b.*?\b(histórico|batalla|evento)\b.*?\b(entre|con)\b.*?\b(países?)\b',
+         r'\b(acordaron|convencieron|pactaron|concordaron)\b.*?\b(cooperar|colaborar|trabajar juntos)\b',
+            r'\b(alianza|asociación|consorcio|consorcio)\b.*?\b(estratégica|estratégico)\b',
+            r'\b(firma|suscribión)\b.*?\b(convenio|acuerdo|memorándum)\b.*?\b(entre)\b.*?\b(y)\b',
+            r'\b(a favor de|en apoyo a|solidaridad con)\b.*?\b(palestina|libano|gaza)\b',
+r'\b(manifestaciones?|protestas?)\b.*?\b(en|desde)\b.*?\b([A-Z][a-z]+)\b.*?\b(a favor de|en apoyo)\b',
     ],
+
     "ELECCIONES_PROCESOS_POLITICOS": [
+        # Elecciones + Declaraciones políticas
         r'\b(elecciones?|comicios?|votaciones?|sufragio)\b.*?\b(ganó|perdió|triunfó|venció|reelección)\b',
         r'\b(candidato|presidente|mandatario)\b.*?\b(electo|reelegido|ganador|apoyo)\b',
         r'\b(recuento|votos|irregularidades|fraude)\b.*?\b(elecciones?|comicios?)\b',
@@ -186,7 +199,9 @@ regex_eventos = {
         r'\b(anunció|informó|comunicó|divulgó|difundió)\b',
         r'\b(advirtió|alertó|precisó|aclaró|explicó)\b'
     ],
+
     "CIENCIA_TECNOLOGIA_SALUD": [
+        # Avances científicos + Ciencia tecnología + Salud emergencia
         r'\b(descubrimiento|hallazgo|investigación|innovación|desarrollo|creación)\b.*?\b(científico|tecnológico)\b',
         r'\b(estudio|análisis|experimento)\b.*?\b(publicado|presentado)\b',
         r'\b(premio|reconocimiento|galardón)\b.*?\b(científico|investigación)\b',
@@ -214,8 +229,10 @@ regex_eventos = {
         r'\b(universidad|instituto)\s+de\s+([A-Z][a-z]+)\b.*?\b(astronomía|ciencias?)\b',
         r'\b(centro|departamento)\s+de\s+estudios\s+de\s+objetos\s+cercanos\b',
     ],
+
     "JURIDICO_LEGISLATIVO_CORRUPCION": [
-        r'\b(aprobó|rechazó|presentó|promulgó)\b.*?\b(reforma|ley|proyecto|decreto|constitución)\b',
+        # Reforma legislativa + Procesos judiciales + Corrupción
+        r'\b(aprobó|aprobó|rechazó|presentó|promulgó)\b.*?\b(reforma|ley|proyecto|decreto|constitución)\b',
         r'\b(cámara|senado|congreso|asamblea|parlamento)\b.*?\b(votó|aprobó|rechazó)\b',
         r'\b(legislación|normativa|reglamentación)\b.*?\b(nueva|modificada|actualizada)\b',
         r'\b(diputados?|senadores?|legisladores?)\b.*?\b(proyecto|iniciativa|propuesta)\b',
@@ -239,9 +256,12 @@ regex_eventos = {
         r'\b(derecho|garantía)\b.*?\b(constitucional|fundamental|humano)\b',
         r'\b(debido proceso|defensa|tutela judicial efectiva)\b',
         r'\b(igualdad|no discriminación|integridad)\b.*?\b(personal|física|moral)\b',
-        r'\b(sentencia|fallo|resolución)\b.*?\b(condenatoria|absolutoria|definitiva)\b',
+        r'\b(sentencia|fallo|resolución)\b.*?\b(condenatoria|absolutoria|definitiva)\b',    
+            r'\b(abuso|negligencia|omisión|comisión)\b.*?\b(funciones?|deberes?)\b'           
     ],
+
     "VIOLENCIA_CRIMEN_DERECHOS_HUMANOS": [
+        # Violencia crimen organizado + Derechos humanos
         r'\b(narcotráfico|drogas|cocaína)\b.*?\b(empresa|compañía|vinculada)\b.*?\b(presidente|gobierno)\b',
         r'\b(violencia|inseguridad|criminalidad)\b.*?\b(aumento|crecimiento|ola)\b.*?\b(país|nación)\b',
         r'\b(homicidios?|asesinatos?|masacre)\b.*?\b(líder social|activista|defensor)\b',
@@ -264,6 +284,7 @@ regex_eventos = {
         r'\b(tortura|trato cruel|inhumano)\b.*?\b(denuncia|acusación|señalamiento)\b.*?\b(organización|institución)\b',
         r'\b(desaparición|secuestro)\b.*?\b(forzada|forzado)\b.*?\b(caso|instancia|situación)\b',
         r'\b(periodistas?|comunicadores?|prensa)\b.*?\b(asesinados?|atacados?|amenazados?)\b',
+        r'\b(periodistas?|comunicadores?|prensa)\b.*?\b(asesinados?|atacados?|amenazados?)\b',
         r'\b(derecho internacional|derechos humanos)\b.*?\b(violación|incumplimiento|respeto)\b',
         r'\b(medidas? coercitivas|sanciones?|bloqueos?)\b.*?\b(afectan|impactan|dañan)\b.*?\b(población|pueblo)\b',
         r'\b(soberanía|libre determinación)\b.*?\b(principio|derecho|respeto)\b',
@@ -278,8 +299,12 @@ regex_eventos = {
         r'\b(derecho|garantía|libertad)\b.*?\b(humano|fundamental|constitucional)\b',
         r'\b(educación|salud|vivienda|trabajo)\b.*?\b(derecho|acceso)\b',
         r'\b(igualdad|equidad|no discriminación|inclusión)\b'
+
+
     ],
+
     "CRISIS_HUMANITARIA_SERVICIOS": [
+        # Crisis humanitaria + Servicios públicos + Medio ambiente
         r'\b(genocidio|crisis humanitaria|hambruna|bloqueo)\b.*?\b(Gaza|Palestina|Ucrania)\b',
         r'\b(desplazados|refugiados|hambruna|escasez)\b.*?\b(miles|millones|cientos)\b',
         r'\b(ayuda|asistencia|socorro)\b.*?\b(humanitaria|humanitario)\b',
@@ -302,7 +327,9 @@ regex_eventos = {
         r'\b(objetivos? de desarrollo sostenible|ods)\b',
         r'\b(fin de la pobreza|hambre cero|salud y bienestar)\b',
     ],
+
     "CULTURA_DEPORTE_SOCIEDAD": [
+        # Cultura + Deporte + Sociedad
         r'\b(identidad|cultura)\b.*?\b(nacional|regional|local)\b',
         r'\b(patrimonio|tradición|costumbre)\b.*?\b(cultural|inmaterial)\b',
         r'\b(diversidad|multiculturalidad|interculturalidad)\b',
@@ -318,264 +345,252 @@ regex_eventos = {
         r'\b(equipo|delegación|selección)\b.*?\b(nacional|internacional)\b.*?\b(victoria|derrota|empate)\b',
         r'\b(festival|celebración|conmemoración)\b.*?\b(cultural|artístico|tradicional)\b.*?\b(realiza|organiza|celebra)\b',
         r'\b(premio|reconocimiento|galardón)\b.*?\b(cultural|artístico|deportivo)\b.*?\b(otorga|recibe|gana)\b',
-        r'\b(copa|mundial|campeonato)\b.*?\b(béisbol|deporte|competencia)\b',
-        r'\b(debut|participación|presentación)\b.*?\b(deportiva|cultural|artística)\b',
-        r'\b(evento|actividad|jornada)\b.*?\b(deportivo|cultural|recreativo)\b',
-        r'\b(equipo|delegación|selección)\b.*?\b(nacional|internacional)\b'
+          r'\b(premio|reconocimiento|galardón)\b.*?\b(cultural|artístico|deportivo)\b.*?\b(otorga|recibe|gana)\b',
+    r'\b(copa|mundial|campeonato)\b.*?\b(béisbol|deporte|competencia)\b',
+    r'\b(debut|participación|presentación)\b.*?\b(deportiva|cultural|artística)\b',
+    r'\b(evento|actividad|jornada)\b.*?\b(deportivo|cultural|recreativo)\b',
+    r'\b(equipo|delegación|selección)\b.*?\b(nacional|internacional)\b'
     ]
 }
 
-# Patrones de actores
 regex_actores = {
     "GOBIERNOS_OFICIALES": [
-        r'\b(gobierno (de|del|de la)\s+[A-ZÁÉÍÓÚÑ][a-záéíóúñ]+\s*(?:[A-ZÁÉÍÓÚÑ][a-záéíóúñ]*)*)\b',
-        r'\b(presidente|presidenta)\s+([A-ZÁÉÍÓÚÑ][a-záéíóúñ]+\s*[A-ZÁÉÍÓÚÑ]?[a-záéíóúñ]*)\b',
-        r'\b(ministro|ministra|viceministro|viceministra)\s+(de|del)\s+([A-ZÁÉÍÓÚÑ][a-záéíóúñ]+\s*[A-ZÁÉÍÓÚÑ]?[a-záéíóúñ]*)\b',
-        r'\b(congreso|parlamento|asamblea|senado|cámara)\s+(?:nacional|federal|legislativo)\b',
-        r'\b(corte|tribunal|suprema|constitucional)\s+(?:de justicia|nacional)\b',
-        r'\b(gobierno)\s+(de\s+)?(reconciliación|unidad|solidaridad)\b',
-        r'\b(copresidente|copresidenta)\b.*?\b([A-Z][a-z]+\s+[A-Z][a-z]+)\b',
-        r'\b(canciller|ministro)\s+de\s+relaciones\s+exteriores\b',
-    ],
-    "ORGANISMOS_INTERNACIONALES": [
-        r'\b(ONU|Naciones Unidas|Organización de las Naciones Unidas)\b',
-        r'\b(OEA|Organización de Estados Americanos)\b',
-        r'\b(UE|Unión Europea)\b',
-        r'\b(UNESCO|UNICEF|OMS|FAO|OIT|FMI|Banco Mundial)\b',
-        r'\b(OTAN|Mercosur|CELAC|ALBA|Alianza del Pacífico)\b'
-    ],
-    "ORGANIZACIONES_SOCIALES": [
-        r'\b(sindicato|gremio|asociación)\b.*?\b(trabajadores|empleados|profesionales)\b',
-        r'\b(organización|movimiento|colectivo)\b.*?\b(social|popular|comunitario)\b',
-        r'\b(ONG|organización no gubernamental|fundación|asociación civil)\b',
-        r'\b(central|federación|confederación)\b.*?\b(obrera|trabajadores)\b'
-    ],
-    "GRUPOS_ESPECIFICOS": [
-        r'\b(estudiantes?|universitarios?|docentes?|maestros?|profesores?)\b',
-        r'\b(campesinos?|agricultores?|productores?)\b.*?\b(rurales?|agrarios?)\b',
-        r'\b(indígenas?|pueblos originarios|comunidades nativas)\b',
-        r'\b(mujeres|feministas|colectivo feminista)\b',
-        r'\b(jóvenes|adultos mayores|tercera edad)\b',
-        r'\b(empresarios?|industriales?|comerciantes?)\b',
-        r'\b(extrema\s+derecha|derecha\s+radical)\b',
-        r'\b(grupos?|organizaciones?)\b.*?\b(antiinmigrantes?|antiracistas?)\b',
-        r'\b(leales|nacionalistas)\b.*?\b(irlandeses?)\b',
-        r'\b(refugiados?|musulmanes?)\b.*?\b(comunidades?|minorías?)\b',
-    ],
-    "INSTITUCIONES_EDUCATIVAS": [
-        r'\b(universidad|colegio|escuela|instituto)\b.*?\b([A-ZÁÉÍÓÚÑ][a-záéíóúñ]+\s*[A-ZÁÉÍÓÚÑ]?[a-záéíóúñ]*)\b',
-        r'\b(facultad|departamento)\b.*?\b(de|del)\s+([A-ZÁÉÍÓÚÑ][a-záéíóúñ]+)\b'
-    ],
-    "MEDIOS_COMUNICACION": [
-        r'\b(diario|periódico|revista|canal|emisora)\b.*?\b([A-ZÁÉÍÓÚÑ][a-záéíóúñ]+\s*[A-ZÁÉÍÓÚÑ]?[a-záéíóúñ]*)\b',
-        r'\b(medio|prensa)\b.*?\b(comunicación|información)\b',
-        r'\b(periodista|reportero|corresponsal|comunicador)\b.*?\b([A-ZÁÉÍÓÚÑ][a-záéíóúñ]+\s+[A-ZÁÉÍÓÚÑ][a-záéíóúñ]+)\b'
-    ],
-}
+            r'\b(gobierno (de|del|de la)\s+[A-ZÁÉÍÓÚÑ][a-záéíóúñ]+\s*(?:[A-ZÁÉÍÓÚÑ][a-záéíóúñ]*)*)\b',
+            r'\b(presidente|presidenta)\s+([A-ZÁÉÍÓÚÑ][a-záéíóúñ]+\s*[A-ZÁÉÍÓÚÑ]?[a-záéíóúñ]*)\b',
+            r'\b(ministro|ministra|viceministro|viceministra)\s+(de|del)\s+([A-ZÁÉÍÓÚÑ][a-záéíóúñ]+\s*[A-ZÁÉÍÓÚÑ]?[a-záéíóúñ]*)\b',
+            r'\b(congreso|parlamento|asamblea|senado|cámara)\s+(?:nacional|federal|legislativo)\b',
+            r'\b(corte|tribunal|suprema|constitucional)\s+(?:de justicia|nacional)\b',
+            r'\b(gobierno)\s+(de\s+)?(reconciliación|unidad|solidaridad)\b',
+            r'\b(copresidente|copresidenta)\b.*?\b([A-Z][a-z]+\s+[A-Z][a-z]+)\b',
+            r'\b(canciller|ministro)\s+de\s+relaciones\s+exteriores\b',
+        ],
+        "ORGANISMOS_INTERNACIONALES": [
+            r'\b(ONU|Naciones Unidas|Organización de las Naciones Unidas)\b',
+            r'\b(OEA|Organización de Estados Americanos)\b',
+            r'\b(UE|Unión Europea)\b',
+            r'\b(UNESCO|UNICEF|OMS|FAO|OIT|FMI|Banco Mundial)\b',
+            r'\b(OTAN|Mercosur|CELAC|ALBA|Alianza del Pacífico)\b'
+        ],
+        "ORGANIZACIONES_SOCIALES": [
+            r'\b(sindicato|gremio|asociación)\b.*?\b(trabajadores|empleados|profesionales)\b',
+            r'\b(organización|movimiento|colectivo)\b.*?\b(social|popular|comunitario)\b',
+            r'\b(ONG|organización no gubernamental|fundación|asociación civil)\b',
+            r'\b(central|federación|confederación)\b.*?\b(obrera|trabajadores)\b'
+        ],
+        "GRUPOS_ESPECIFICOS": [
+            r'\b(estudiantes?|universitarios?|docentes?|maestros?|profesores?)\b',
+            r'\b(campesinos?|agricultores?|productores?)\b.*?\b(rurales?|agrarios?)\b',
+            r'\b(indígenas?|pueblos originarios|comunidades nativas)\b',
+            r'\b(mujeres|feministas|colectivo feminista)\b',
+            r'\b(jóvenes|adultos mayores|tercera edad)\b',
+            r'\b(empresarios?|industriales?|comerciantes?)\b',
+            r'\b(extrema\s+derecha|derecha\s+radical)\b',
+r'\b(grupos?|organizaciones?)\b.*?\b(antiinmigrantes?|antiracistas?)\b',
+r'\b(leales|nacionalistas)\b.*?\b(irlandeses?)\b',
+r'\b(refugiados?|musulmanes?)\b.*?\b(comunidades?|minorías?)\b',
+        ],
+        "INSTITUCIONES_EDUCATIVAS": [
+            r'\b(universidad|colegio|escuela|instituto)\b.*?\b([A-ZÁÉÍÓÚÑ][a-záéíóúñ]+\s*[A-ZÁÉÍÓÚÑ]?[a-záéíóúñ]*)\b',
+            r'\b(facultad|departamento)\b.*?\b(de|del)\s+([A-ZÁÉÍÓÚÑ][a-záéíóúñ]+)\b'
+        ],
+        "MEDIOS_COMUNICACION": [
+            r'\b(diario|periódico|revista|canal|emisora)\b.*?\b([A-ZÁÉÍÓÚÑ][a-záéíóúñ]+\s*[A-ZÁÉÍÓÚÑ]?[a-záéíóúñ]*)\b',
+            r'\b(medio|prensa)\b.*?\b(comunicación|información)\b',
+            r'\b(periodista|reportero|corresponsal|comunicador)\b.*?\b([A-ZÁÉÍÓÚÑ][a-záéíóúñ]+\s+[A-ZÁÉÍÓÚÑ][a-záéíóúñ]+)\b'
 
-# Patrones de acciones
-regex_acciones = {
-    "APROBACION_RECHAZO": [
-        r'\b(aprobó|autorizó|ratificó|sancionó|promulgó)\b',
-        r'\b(rechazó|negó|desestimó|denegó|vetó)\b',
-        r'\b(apoyó|respaldó|avaló|endosó|secundó)\b',
-        r'\b(condenó|criticó|cuestionó|impugnó|objecionó)\b',
-        r'\b(ratificó|reafirmó|subrayó|destacó|honr[oa])\b',
-    ],
-    "ACCIONES_LEGALES": [
-        r'\b(demandó|demandaron|denunció|denunciaron|acusó|acusaron)\b',
-        r'\b(interpuso|presentó|radicó|ingresó)\b.*?\b(demanda|denuncia|querella)\b',
-        r'\b(procesó|imputó|indició|encausó)\b',
-        r'\b(absolvió|sobreseyó|archivó|desestió)\b',
-        r'\b(ceder|transferir|delegar)\s+(el|al)\s+control\s+(de|del)\b',
-    ],
-    "NEGOCIACION_ACUERDOS": [
-        r'\b(negoció|dialogó|conversó|deliberó)\b',
-        r'\b(acordó|convenció|pactó|concordó)\b',
-        r'\b(firmó|suscribió|rubricó|estamó)\b.*?\b(acuerdo|convenio|tratado)\b',
-        r'\b(medió|intermedió|concertó|concilió)\b'
-    ],
-}
+        ],}
 
-# Patrones de objetivos
-regex_objetivos = {
+regex_acciones ={
+        "APROBACION_RECHAZO": [
+            r'\b(aprobó|autorizó|ratificó|sancionó|promulgó)\b',
+            r'\b(rechazó|negó|desestimó|denegó|vetó)\b',
+            r'\b(apoyó|respaldó|avaló|endosó|secundó)\b',
+            r'\b(condenó|criticó|cuestionó|impugnó|objecionó)\b',
+            r'\b(ratificó|reafirmó|subrayó|destacó|honr[oa])\b',
+            r'\b(ratificó|reafirmó|subrayó|destacó|honr[oa])\b',
+        ],
+        "ACCIONES_LEGALES": [
+            r'\b(demandó|demandaron|denunció|denunciaron|acusó|acusaron)\b',
+            r'\b(interpuso|presentó|radicó|ingresó)\b.*?\b(demanda|denuncia|querella)\b',
+            r'\b(procesó|imputó|indició|encausó)\b',
+            r'\b(absolvió|sobreseyó|archivó|desestió)\b',
+            r'\b(ceder|transferir|delegar)\s+(el|al)\s+control\s+(de|del)\b',
+        ],
+        "NEGOCIACION_ACUERDOS": [
+            r'\b(negoció|dialogó|conversó|deliberó)\b',
+            r'\b(acordó|convenció|pactó|concordó)\b',
+            r'\b(firmó|suscribió|rubricó|estamó)\b.*?\b(acuerdo|convenio|tratado)\b',
+            r'\b(medió|intermedió|concertó|concilió)\b'
+        ],
+        }
+
+regex_objetivos = { 
     "LEYES_NORMATIVAS": [
-        r'\b(ley|decreto|resolución|acuerdo|disposición)\b.*?\b(\d+[-]?\d*)\b',
-        r'\b(proyecto|iniciativa|propuesta)\b.*?\b(legislativa|de ley)\b',
-        r'\b(reglamento|normativa|regulación|directriz)\b',
-        r'\b(constitución|carta magna|carta fundamental)\b',
-        r'\b(reforma|modificación)\s+(constitucional|legal|legislativa)\b.*?\b(aprobó|ratificó|rechazó)\b'
-    ],
-    "POLITICAS_PUBLICAS": [
-        r'\b(política|programa|plan|estrategia)\b.*?\b(pública|gubernamental|estatal)\b',
-        r'\b(presupuesto|asignación|financiamiento|recursos)\b.*?\b(público|estatal)\b',
-        r'\b(subsidio|ayuda|apoyo|asistencia)\b.*?\b(social|gubernamental)\b'
-    ],
-    "RECURSOS_NATURALES": [
-        r'\b(petróleo|gas|mineral|recurso)\b.*?\b(natural|energético)\b',
-        r'\b(agua|acuífero|río|laguna|mar)\b',
-        r'\b(bosque|selva|flora|fauna|biodiversidad)\b',
-        r'\b(tierra|suelo|territorio|área)\b.*?\b(protegida|conservación)\b'
-    ],
-    "INFRAESTRUCTURA_SERVICIOS": [
-        r'\b(carretera|ruta|autopista|avenida|calle)\b',
-        r'\b(hospital|clínica|centro de salud|posta médica)\b',
-        r'\b(escuela|colegio|universidad|instituto educativo)\b',
-        r'\b(aeropuerto|puerto|terminal|estación)\b',
-        r'\b(energía|electricidad|luz|servicio eléctrico)\b',
-        r'\b(agua potable|alcantarillado|saneamiento)\b'
-    ],
-}
+            r'\b(ley|decreto|resolución|acuerdo|disposición)\b.*?\b(\d+[-]?\d*)\b',
+            r'\b(proyecto|iniciativa|propuesta)\b.*?\b(legislativa|de ley)\b',
+            r'\b(reglamento|normativa|regulación|directriz)\b',
+            r'\b(constitución|carta magna|carta fundamental)\b',
+            r'\b(reforma|modificación)\s+(constitucional|legal|legislativa)\b.*?\b(aprobó|ratificó|rechazó)\b'
+        ],
+        "POLITICAS_PUBLICAS": [
+            r'\b(política|programa|plan|estrategia)\b.*?\b(pública|gubernamental|estatal)\b',
+            r'\b(presupuesto|asignación|financiamiento|recursos)\b.*?\b(público|estatal)\b',
+            r'\b(subsidio|ayuda|apoyo|asistencia)\b.*?\b(social|gubernamental)\b'
+        ],
 
-# Patrones de lugares
+        "RECURSOS_NATURALES": [
+            r'\b(petróleo|gas|mineral|recurso)\b.*?\b(natural|energético)\b',
+            r'\b(agua|acuífero|río|laguna|mar)\b',
+            r'\b(bosque|selva|flora|fauna|biodiversidad)\b',
+            r'\b(tierra|suelo|territorio|área)\b.*?\b(protegida|conservación)\b'
+        ],
+        "INFRAESTRUCTURA_SERVICIOS": [
+            r'\b(carretera|ruta|autopista|avenida|calle)\b',
+            r'\b(hospital|clínica|centro de salud|posta médica)\b',
+            r'\b(escuela|colegio|universidad|instituto educativo)\b',
+            r'\b(aeropuerto|puerto|terminal|estación)\b',
+            r'\b(energía|electricidad|luz|servicio eléctrico)\b',
+            r'\b(agua potable|alcantarillado|saneamiento)\b'
+        ],
+        }
+
 regex_lugares = {
-    "PAISES": [
-        r'\b(Argentina|Bolivia|Brasil|Chile|Colombia|Costa Rica|Cuba)\b',
-        r'\b(Ecuador|El Salvador|España|Estados Unidos|Guatemala|Honduras)\b',
-        r'\b(México|Nicaragua|Panamá|Paraguay|Perú|Puerto Rico|República Dominicana)\b',
-        r'\b(Uruguay|Venezuela|Canadá|Rusia|China|Francia|Alemania|Italia|ucrania|israelí|palestina|líbano|zimbabue)\b',
-        r'\b(usa|estados unidos|canadá)\b'
-    ],
-    "CIUDADES_CAPITALES": [
-        r'\b(Buenos Aires|La Paz|Sucre|Brasilia|Santiago|Bogotá|San José|guayaquil)\b',
-        r'\b(La Habana|Quito|San Salvador|Guatemala|Tegucigalpa|Ciudad de México)\b',
-        r'\b(Managua|Panamá|Asunción|Lima|San Juan|Santo Domingo|Montevideo)\b',
-        r'\b(Caracas|Ottawa|Moscú|Pekín|París|Berlín|Roma|Madrid|kiev|zúrich)\b'
-    ],
-    "REGIONES_PROVINCIAS": [
-        r'\b(Amazonas|Andes|Caribe|Pacífico|Patagonia|Pampa|Selva)\b',
-        r'\b(provincia|departamento|estado|región|zona|área)\b.*?\b([A-ZÁÉÍÓÚÑ][a-záéíóúñ]+)\b'
-    ],
-    "LOCALIZACIONES_ESPECIFICAS": [
-        r'\b(plaza|parque|avenida|calle|barrio|comuna)\b.*?\b([A-ZÁÉÍÓÚÑ][a-záéíóúñ]+)\b',
-        r'\b(edificio|torre|complejo|centro)\b.*?\b([A-ZÁÉÍÓÚÑ][a-záéíóúñ]+)\b',
-        r'\b(universidad|hospital|escuela|colegio)\b.*?\b([A-ZÁÉÍÓÚÑ][a-záéíóúñ]+)\b'
-    ]
+"PAISES": [
+            r'\b(Argentina|Bolivia|Brasil|Chile|Colombia|Costa Rica|Cuba)\b',
+            r'\b(Ecuador|El Salvador|España|Estados Unidos|Guatemala|Honduras)\b',
+            r'\b(México|Nicaragua|Panamá|Paraguay|Perú|Puerto Rico|República Dominicana)\b',
+            r'\b(Uruguay|Venezuela|Canadá|Rusia|China|Francia|Alemania|Italia|ucrania|israelí|palestina|líbano|zimbabue)\b',
+            r'\b(usa|estados unidos|canadá)\b'
+            
+        ],
+        "CIUDADES_CAPITALES": [
+            r'\b(Buenos Aires|La Paz|Sucre|Brasilia|Santiago|Bogotá|San José|guayaquil)\b',
+            r'\b(La Habana|Quito|San Salvador|Guatemala|Tegucigalpa|Ciudad de México)\b',
+            r'\b(Managua|Panamá|Asunción|Lima|San Juan|Santo Domingo|Montevideo)\b',
+            r'\b(Caracas|Ottawa|Moscú|Pekín|París|Berlín|Roma|Madrid|kiev|zúrich)\b'
+        ],
+        "REGIONES_PROVINCIAS": [
+            r'\b(Amazonas|Andes|Caribe|Pacífico|Patagonia|Pampa|Selva)\b',
+            r'\b(provincia|departamento|estado|región|zona|área)\b.*?\b([A-ZÁÉÍÓÚÑ][a-záéíóúñ]+)\b'
+        ],
+        "LOCALIZACIONES_ESPECIFICAS": [
+            r'\b(plaza|parque|avenida|calle|barrio|comuna)\b.*?\b([A-ZÁÉÍÓÚÑ][a-záéíóúñ]+)\b',
+            r'\b(edificio|torre|complejo|centro)\b.*?\b([A-ZÁÉÍÓÚÑ][a-záéíóúñ]+)\b',
+            r'\b(universidad|hospital|escuela|colegio)\b.*?\b([A-ZÁÉÍÓÚÑ][a-záéíóúñ]+)\b'
+        ]
 }
 
-# Patrones de temporalidad
+
 regex_temporalidad = {
     "FECHAS_ESPECIFICAS": [
-        r'\b(\d{1,2})\s+de\s+(enero|febrero|marzo|abril|mayo|junio|julio|agosto|septiembre|octubre|noviembre|diciembre)\s+de\s+(\d{4})\b',
-        r'\b(\d{1,2})[/-](\d{1,2})[/-](\d{4})\b',
-        r'\b(\d{4})[/-](\d{1,2})[/-](\d{1,2})\b',
-        r'\b((?:lunes|martes|miércoles|jueves|viernes|sábado|domingo)\s+\d{1,2}\s+de\s+\w+)\b',
-        r'\b(días?\s+\d+\s+y\s+\d+\s+de\s+(enero|febrero|marzo|abril|mayo|junio|julio|agosto|septiembre|octubre|noviembre|diciembre))\b',
-        r'\b(años?\s+\d{4})\b.*?\b(y\s+\d{4})?\b',
-    ],
-    "PERIODOS_TEMPORALES": [
-        r'\b(en|durante|a lo largo de)\s+(el|la)\s+(año|mes|semana|día)\b',
-        r'\b(próximo|pasado|actual|siguiente|anterior)\s+(año|mes|semana|día)\b',
-        r'\b(primero|último)\s+(trimestre|semestre|cuatrimestre)\b',
-        r'\b(durante|en)\s+(la|el)\s+(mañana|tarde|noche|madrugada)\b'
-    ],
-    "TIEMPO_RELATIVO": [
-        r'\b(ayer|hoy|mañana|anteayer|pasado mañana)\b',
-        r'\b(esta|esta misma)\s+(semana|mañana|tarde|noche)\b',
-        r'\b(la semana|el mes|el año)\s+(pasado|próximo|que viene|anterior)\b',
-        r'\b(recientemente|últimamente|actualmente|hace poco)\b',
-        r'\b(próximamente|dentro de poco|en breve|más tarde)\b'
-    ]
-}
+            r'\b(\d{1,2})\s+de\s+(enero|febrero|marzo|abril|mayo|junio|julio|agosto|septiembre|octubre|noviembre|diciembre)\s+de\s+(\d{4})\b',
+            r'\b(\d{1,2})[/-](\d{1,2})[/-](\d{4})\b',
+            r'\b(\d{4})[/-](\d{1,2})[/-](\d{1,2})\b',
+            r'\b((?:lunes|martes|miércoles|jueves|viernes|sábado|domingo)\s+\d{1,2}\s+de\s+\w+)\b',
+            r'\b(días?\s+\d+\s+y\s+\d+\s+de\s+(enero|febrero|marzo|abril|mayo|junio|julio|agosto|septiembre|octubre|noviembre|diciembre))\b',
+            r'\b(años?\s+\d{4})\b.*?\b(y\s+\d{4})?\b',
+        ],
+        "PERIODOS_TEMPORALES": [
+            r'\b(en|durante|a lo largo de)\s+(el|la)\s+(año|mes|semana|día)\b',
+            r'\b(próximo|pasado|actual|siguiente|anterior)\s+(año|mes|semana|día)\b',
+            r'\b(primero|último)\s+(trimestre|semestre|cuatrimestre)\b',
+            r'\b(durante|en)\s+(la|el)\s+(mañana|tarde|noche|madrugada)\b'
+        ],
+        "TIEMPO_RELATIVO": [
+            r'\b(ayer|hoy|mañana|anteayer|pasado mañana)\b',
+            r'\b(esta|esta misma)\s+(semana|mañana|tarde|noche)\b',
+            r'\b(la semana|el mes|el año)\s+(pasado|próximo|que viene|anterior)\b',
+            r'\b(recientemente|últimamente|actualmente|hace poco)\b',
+            r'\b(próximamente|dentro de poco|en breve|más tarde)\b'
+        ]}
 
-# Patrones de discursos
 regex_discursos = {
-    "ANTIIMPERIALISMO_SOBERANIA": [
-        r'\b(imperialismo|imperialista|neocolonialismo|neocolonial)\b',
-        r'\b(soberanía|soberano|independencia|autodeterminación)\b.*?\b(nacional|patria)\b',
-        r'\b(bloqueo|embargo|sanción|medida coercitiva)\b',
-        r'\b(resistencia|lucha|combate|confrontación)\b.*?\b(imperial)\b',
-        r'\b(medidas? coercitivas?|sanciones? unilaterales?|bloqueos?)\b.*?\b(soberanía|libre determinación)\b',
-        r'\b(multilateralismo|cooperación internacional)\b.*?\b(principios?|derechos?)\b',
-        r'\b(dignidad humana|solidaridad internacional)\b',
-        r'\b(interdependencia|interconectado)\b.*?\b(mundo|global)\b',
-    ],
-    "INTEGRACION_LATINOAMERICANA": [
-        r'\b(integración|unidad|patria grande)\b.*?\b(latinoamericana|suramericana)\b',
-        r'\b(regionalismo|cooperación)\b.*?\b(regional|internacional)\b',
-        r'\b(ALBA|CELAC|UNASUR|Mercosur)\b.*?\b(proceso|mecanismo)\b'
-    ],
-    "JUSTICIA_SOCIAL": [
-        r'\b(justicia social|equidad|igualdad|redistribución)\b',
-        r'\b(derechos sociales|derechos humanos|derechos del pueblo)\b',
-        r'\b(exclusión|marginación|pobreza|desigualdad)\b.*?\b(combatir|erradicar)\b',
-        r'\b(bienestar|desarrollo|progreso)\b.*?\b(social|colectivo)\b'
-    ],
-    "NEOLIBERALISMO_MERCADO": [
-        r'\b(mercado libre|libre mercado|economía de mercado)\b',
-        r'\b(privatización|desregulación|liberalización)\b',
-        r'\b(ajuste fiscal|austeridad|disciplina fiscal)\b',
-        r'\b(competitividad|productividad|eficiencia)\b.*?\b(económica)\b'
-    ]
+     "ANTIIMPERIALISMO_SOBERANIA": [
+            r'\b(imperialismo|imperialista|neocolonialismo|neocolonial)\b',
+            r'\b(soberanía|soberano|independencia|autodeterminación)\b.*?\b(nacional|patria)\b',
+            r'\b(bloqueo|embargo|sanción|medida coercitiva)\b',
+            r'\b(resistencia|lucha|combate|confrontación)\b.*?\b(imperial)\b',
+            r'\b(medidas? coercitivas?|sanciones? unilaterales?|bloqueos?)\b.*?\b(soberanía|libre determinación)\b',
+            r'\b(multilateralismo|cooperación internacional)\b.*?\b(principios?|derechos?)\b',
+            r'\b(dignidad humana|solidaridad internacional)\b',
+            r'\b(interdependencia|interconectado)\b.*?\b(mundo|global)\b',
+        ],
+        "INTEGRACION_LATINOAMERICANA": [
+            r'\b(integración|unidad|patria grande)\b.*?\b(latinoamericana|suramericana)\b',
+            r'\b(regionalismo|cooperación)\b.*?\b(regional|internacional)\b',
+            r'\b(ALBA|CELAC|UNASUR|Mercosur)\b.*?\b(proceso|mecanismo)\b'
+        ],
+        "JUSTICIA_SOCIAL": [
+            r'\b(justicia social|equidad|igualdad|redistribución)\b',
+            r'\b(derechos sociales|derechos humanos|derechos del pueblo)\b',
+            r'\b(exclusión|marginación|pobreza|desigualdad)\b.*?\b(combatir|erradicar)\b',
+            r'\b(bienestar|desarrollo|progreso)\b.*?\b(social|colectivo)\b'
+        ],
+        "NEOLIBERALISMO_MERCADO": [
+            r'\b(mercado libre|libre mercado|economía de mercado)\b',
+            r'\b(privatización|desregulación|liberalización)\b',
+            r'\b(ajuste fiscal|austeridad|disciplina fiscal)\b',
+            r'\b(competitividad|productividad|eficiencia)\b.*?\b(económica)\b'
+        ]
 }
 
-# Patrones de cifras y datos
-regex_cifras_datos = {
-    "CANTIDADES_NUMERICAS": [
-        r'\b(más de una tercera parte|tercio de la población)\b',
-        r'\b(cientos de millones|millones de personas)\b.*?\b(afectados?|impactados?)\b',
-        r'\b(\d+)\s*(personas|manifestantes|trabajadores|estudiantes)\b',
-        r'\b(\d+)\s*(millones|mil|cientos|miles)\b',
-        r'\b(aumentó|disminuyó|creció|cayó)\s+en\s+(\d+\.?\d*%?)\b',
-        r'\b(porcentaje|tasa|índice)\s+(de|del)\s+(\d+\.?\d*%?)\b',
-        r'\b(\d{1,3}(?:\.\d{3})*(?:,\d+)?)\s*(elementos|miembros|integrantes|personas|votos|diputados|senadores)\b',
-        r'\b(\d+)\s*(a favor|en contra|abstenciones?|votos?)\b',
-        r'\b(\d+)\s*(artículos?|leyes?|reformas?|puntos?)\b.*?\b(constitución|ley|código)\b',
-        r'\b(más de|sobre|alrededor de|aproximadamente)\s*(\d{1,3}(?:\.\d{3})*)\b',
-        r'\b(\d{1,3}(?:\.\d{3})*)\s*(integrantes|elementos|miembros|efectivos)\b',
-        r'\b(\d+)\s*(años|meses|días|semanas)\b.*?\b(próxima|pasada|siguiente|anterior)\b',
-        r'\b(aprobado con|con)\s*(\d+)\s*(votos?)\s*(a favor|en contra)\b',
-        r'\b(\d+)\s*(abstenciones?|ausencias?)\b',
-        r'\b(\d+)\s*(victorias?|triunfos?|derrotas?)\s*(legislativas?|electorales?|políticas?)\b',
-        r'\b(mayoría|minoría)\s+(oficialista|opositora|parlamentaria)\b.*?\b(\d+)\s*(diputados?|senadores?|escaños?)\b',
-        r'\b(reforma|modificación)\s+de\s+(\d+)\s*(artículos?|puntos?|incisos?)\b',
-        r'\b(personal|efectivos|integrantes)\s+(de|con)\s+(\d+)\s*(elementos|miembros)\b',
-        r'\b(\d{1,3}(?:\.\d{3})*)\s*(votos?|votaciones?|sufragios?)\b',
-        r'\b(\d+)\s*(a favor|en contra|abstenciones?|afirmativos?|negativos?)\b',
-        r'\b(\d+)\s*(a favor)\s*,\s*(\d+)\s*(en contra)\s*(?:y\s*(\d+)\s*(abstenciones?))?\b',
-        r'\b(\d+)\s*(elementos|miembros|artículos|puntos|reformas|leyes|diputados|senadores)\b',
-        r'\b(más de|sobre|alrededor de|aproximadamente|cerca de)\s*(\d{1,3}(?:\.\d{3})*)\b',
-        r'\b(\d{1,3}(?:\.\d{3})+(?:,\d+)?)\s*(elementos|personas|miembros|integrantes)\b',
-        r'\b(aprobado con|con)\s*(\d+)\s*(votos?)\s*(a favor)\s*(?:,\s*(\d+)\s*(en contra))?\s*(?:y\s*(\d+)\s*(abstenciones?))?\b',
-        r'(\d+)\s*fallecidos\s*y\s*(\d+)\s*heridos',
-        r'(hace\s+\d+\s+años?|siglo\s+(xxi|\d+)(\s+[a-d-c-])?)'
-    ],
-    "MONETARIOS": [
-        r'\b(\$|USD|EUR|pesos?|dólares?|euros?)\s*(\d+(?:\.\d+)?(?:,\d+)?(?:\.\d+)?)\b',
-        r'\b(\d+(?:\.\d+)?(?:,\d+)?(?:\.\d+)?)\s*(millones|mil|billones?)\s*(de\s+)?(dólares?|pesos?|euros?)\b',
-        r'\b(presupuesto|inversión|financiamiento)\s+(de|por)\s+(\d+)\b'
-    ],
-    "FECHAS_HORAS": [
-        r'\b(a las|a la)\s+(\d{1,2}:\d{2})\s*(horas?|hs)?\b',
-        r'\b(entre las?\s+(\d{1,2})\s+y\s+(\d{1,2})\s+(horas?|hs))\b',
-        r'\b(durante\s+(\d+)\s+(horas?|días?|semanas?|meses?|años?))\b',
-        r'\b(\d{1,2})\s+de\s+(junio|julio|agosto|septiembre|octubre|noviembre|diciembre|enero|febrero|marzo|abril|mayo)\s+de?\s*(\d{4})?\b',
-        r'\b(en|el|durante)\s+(el\s+)?año\s+(\d{4})\b',
-        r'\b(semana|mes|año)\s+(próxima|siguiente|pasada|anterior|que viene)\b',
-        r'\b(cambio|transición|transferencia)\s+de\s+gobierno\b',
-        r'\b(vísperas|antes|después)\s+(del|de|al)\s+(cambio|evento|suceso)\b',
-        r'\b(mandato|gobierno|administración)\s+de\s+(\d+)\s+(años|meses)\b'
-    ]
+regex_cifras_datos= {
+"CANTIDADES_NUMERICAS": [
+            r'\b(más de una tercera parte|tercio de la población)\b',
+            r'\b(cientos de millones|millones de personas)\b.*?\b(afectados?|impactados?)\b',
+            r'\b(\d+)\s*(personas|manifestantes|trabajadores|estudiantes)\b',
+            r'\b(\d+)\s*(millones|mil|cientos|miles)\b',
+            r'\b(aumentó|disminuyó|creció|cayó)\s+en\s+(\d+\.?\d*%?)\b',
+            r'\b(porcentaje|tasa|índice)\s+(de|del)\s+(\d+\.?\d*%?)\b',
+            r'\b(\d{1,3}(?:\.\d{3})*(?:,\d+)?)\s*(elementos|miembros|integrantes|personas|votos|diputados|senadores)\b',
+            r'\b(\d+)\s*(a favor|en contra|abstenciones?|votos?)\b',
+            r'\b(\d+)\s*(artículos?|leyes?|reformas?|puntos?)\b.*?\b(constitución|ley|código)\b',
+            r'\b(más de|sobre|alrededor de|aproximadamente)\s*(\d{1,3}(?:\.\d{3})*)\b',
+            r'\b(\d{1,3}(?:\.\d{3})*)\s*(integrantes|elementos|miembros|efectivos)\b',
+            r'\b(\d+)\s*(años|meses|días|semanas)\b.*?\b(próxima|pasada|siguiente|anterior)\b',
+            r'\b(aprobado con|con)\s*(\d+)\s*(votos?)\s*(a favor|en contra)\b',
+            r'\b(\d+)\s*(abstenciones?|ausencias?)\b',
+            r'\b(\d+)\s*(victorias?|triunfos?|derrotas?)\s*(legislativas?|electorales?|políticas?)\b',
+            r'\b(mayoría|minoría)\s+(oficialista|opositora|parlamentaria)\b.*?\b(\d+)\s*(diputados?|senadores?|escaños?)\b',
+            r'\b(reforma|modificación)\s+de\s+(\d+)\s*(artículos?|puntos?|incisos?)\b',
+            r'\b(personal|efectivos|integrantes)\s+(de|con)\s+(\d+)\s*(elementos|miembros)\b',
+            r'\b(\d{1,3}(?:\.\d{3})*)\s*(votos?|votaciones?|sufragios?)\b',
+            r'\b(\d+)\s*(a favor|en contra|abstenciones?|afirmativos?|negativos?)\b',
+            r'\b(\d+)\s*(a favor)\s*,\s*(\d+)\s*(en contra)\s*(?:y\s*(\d+)\s*(abstenciones?))?\b',
+            r'\b(\d+)\s*(elementos|miembros|artículos|puntos|reformas|leyes|diputados|senadores)\b',
+            r'\b(más de|sobre|alrededor de|aproximadamente|cerca de)\s*(\d{1,3}(?:\.\d{3})*)\b',
+            r'\b(\d{1,3}(?:\.\d{3})+(?:,\d+)?)\s*(elementos|personas|miembros|integrantes)\b',
+            r'\b(aprobado con|con)\s*(\d+)\s*(votos?)\s*(a favor)\s*(?:,\s*(\d+)\s*(en contra))?\s*(?:y\s*(\d+)\s*(abstenciones?))?\b',
+            r'(\d+)\s*fallecidos\s*y\s*(\d+)\s*heridos',
+            r'(hace\s+\d+\s+años?|siglo\s+(xxi|\d+)(\s+[a-d-c-])?)'
+        ],
+        "MONETARIOS": [
+            r'\b(\$|USD|EUR|pesos?|dólares?|euros?)\s*(\d+(?:\.\d+)?(?:,\d+)?(?:\.\d+)?)\b',
+            r'\b(\d+(?:\.\d+)?(?:,\d+)?(?:\.\d+)?)\s*(millones|mil|billones?)\s*(de\s+)?(dólares?|pesos?|euros?)\b',
+            r'\b(presupuesto|inversión|financiamiento)\s+(de|por)\s+(\d+)\b'
+        ],
+        "FECHAS_HORAS": [
+            r'\b(a las|a la)\s+(\d{1,2}:\d{2})\s*(horas?|hs)?\b',
+            r'\b(entre las?\s+(\d{1,2})\s+y\s+(\d{1,2})\s+(horas?|hs))\b',
+            r'\b(durante\s+(\d+)\s+(horas?|días?|semanas?|meses?|años?))\b',
+            r'\b(\d{1,2})\s+de\s+(junio|julio|agosto|septiembre|octubre|noviembre|diciembre|enero|febrero|marzo|abril|mayo)\s+de?\s*(\d{4})?\b',
+    r'\b(en|el|durante)\s+(el\s+)?año\s+(\d{4})\b',
+    r'\b(semana|mes|año)\s+(próxima|siguiente|pasada|anterior|que viene)\b',
+    r'\b(cambio|transición|transferencia)\s+de\s+gobierno\b',
+    r'\b(vísperas|antes|después)\s+(del|de|al)\s+(cambio|evento|suceso)\b',
+    r'\b(mandato|gobierno|administración)\s+de\s+(\d+)\s+(años|meses)\b'
+        ]
 }
 
 
-def compilar_regex(patrones_dict: Dict[str, List[str]]) -> Dict[str, List[re.Pattern]]:
-    """
-    Compila todos los patrones regex
-    
-    Args:
-        patrones_dict: Diccionario con categorías y listas de patrones
-        
-    Returns:
-        Diccionario con categorías y listas de patrones compilados
-    """
+def compilar_regex(patrones_dict):
+    """Compila todos los patrones regex"""
     return {
         categoria: [re.compile(patron, re.IGNORECASE) for patron in patrones]
         for categoria, patrones in patrones_dict.items()
     }
 
-
-# Compilar todos los regex
+# Compilar todos los regex 
 regex_eventos_compilados = compilar_regex(regex_eventos)
 regex_actores_compilados = compilar_regex(regex_actores)
 regex_acciones_compilados = compilar_regex(regex_acciones)
@@ -585,7 +600,6 @@ regex_temporalidad_compilados = compilar_regex(regex_temporalidad)
 regex_discursos_compilados = compilar_regex(regex_discursos)
 regex_cifras_datos_compilados = compilar_regex(regex_cifras_datos)
 
-# Diccionario unificado con todos los patrones compilados
 regex_extraccion = {
     **regex_eventos_compilados,
     **regex_actores_compilados,
@@ -596,6 +610,3 @@ regex_extraccion = {
     **regex_discursos_compilados,
     **regex_cifras_datos_compilados
 }
-
-
-

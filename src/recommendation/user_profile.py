@@ -5,7 +5,7 @@ import logging
 from typing import Dict, List, Optional
 from src.nlp.regex_annotator import RegexAnnotator
 from src.nlp.preprocessing import TextPreprocessor
-from vectorizer import UserProfileVectorizer
+from src.recommendation.vectorizer import UserProfileVectorizer
 
 logger = logging.getLogger(__name__)
 

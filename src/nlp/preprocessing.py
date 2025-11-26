@@ -109,8 +109,6 @@ class TextPreprocessor:
         
         try:
             tokens = word_tokenize(text, language=language)
-            # Filtrar tokens vacíos y muy cortos
-            tokens = [t for t in tokens if len(t) > 1]
             return tokens
         except Exception as e:
             logger.error(f"Error en tokenización: {e}")

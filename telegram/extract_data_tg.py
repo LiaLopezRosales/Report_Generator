@@ -250,9 +250,3 @@ class ScraperT:
                 results = await asyncio.gather(*save_tasks)
                 for result in results:
                     print(result)
-
-api_id = os.getenv("api_id")
-api_hash = os.getenv("api_hash")
-
-s = ScraperT("teleSUR_tv", api_id=api_id, api_hash=api_hash, max_workers=8)
-asyncio.run(s.extract_group_sms(extract_all=True, batch_size=50))
