@@ -62,6 +62,7 @@ class NewsVectorizer:
         Returns:
             Matriz de vectores
         """
+        self.fitted = True
         return self.vectorizer.fit_transform(texts).toarray()
     
     def vectorize_article(self, text: str, metadata: Optional[Dict] = None) -> np.ndarray:
@@ -75,15 +76,15 @@ class NewsVectorizer:
         Returns:
             Vector del artículo
         """
-        vector = self.fit0([text])
-        vector = self.transform0([text])[0]
-
+       
         if not self.fitted:
             raise ValueError("El vectorizador debe ser ajustado primero con fit()")
         
         # Si hay metadatos, podrían agregarse como features adicionales
         # Por ahora, solo retornamos el vector TF-IDF
         
+        vector = self.transform0([text])[0]
+
         return vector
     
     def get_feature_names(self) -> List[str]:

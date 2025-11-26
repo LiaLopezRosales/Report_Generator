@@ -5,6 +5,7 @@ import logging
 from typing import List, Dict, Tuple, Optional
 import numpy as np
 from sklearn.metrics.pairwise import cosine_similarity
+from datetime import datetime, timezone
 
 logger = logging.getLogger(__name__)
 
@@ -25,7 +26,8 @@ class NewsMatcher:
         article_sentiment: Optional[Dict] = None,
         user_sentiment_preference: Optional[str] = None,
         article_section: Optional[str] = None,
-        user_section_preference: Optional[List[str]] = None
+        user_section_preference: Optional[List[str]] = None,
+        article_date: Optional[str] = None
     ) -> float:
         """
         Calcula la relevancia de un artículo para un usuario
@@ -39,6 +41,7 @@ class NewsMatcher:
             user_sentiment_preference: Preferencia de sentimiento del usuario
             article_section: Sección del artículo
             user_section_preference: Secciones preferidas del usuario
+            article_date: Fecha del artículo (formato ISO 8601)
             
         Returns:
             Score de relevancia (0-1)
@@ -75,8 +78,11 @@ class NewsMatcher:
             if article_section in user_section_preference:
                 section_bonus = 0.1
         
-        # Calcular score final
-        final_score = base_score * 0.6 + category_bonus * 0.3 + sentiment_bonus + section_bonus
+        
+        
+        # Calcular score final con factor de recencia
+        # El factor de recencia multiplica el score base para dar más peso a artículos recientes
+        final_score = base_score * 0.5 + category_bonus * 0.3 + sentiment_bonus + section_bonus
         
         # Asegurar que esté en rango 0-1
         final_score = min(1.0, max(0.0, final_score))
@@ -110,6 +116,7 @@ class NewsMatcher:
             article_categories = article.get('categories', [])
             article_sentiment = article.get('sentiment')
             article_section = article.get('section')
+            article_date = article.get('source_metadata', {}).get('date')
             
             score = self.calculate_relevance(
                 user_vector=user_vector,
@@ -117,7 +124,8 @@ class NewsMatcher:
                 article_categories=article_categories,
                 user_categories=user_categories,
                 article_sentiment=article_sentiment,
-                article_section=article_section
+                article_section=article_section,
+                article_date=article_date
             )
             
             # Crear justificación
