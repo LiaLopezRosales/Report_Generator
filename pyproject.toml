@@ -11,6 +11,7 @@ dependencies = [
     "nltk>=3.9.2",
     "pip>=25.3",
     "pytz>=2025.2",
+    "reportlab>=4.4.5",
     "scikit-learn>=1.7.2",
     "spacy>=3.8.11",
     "telethon>=1.42.0",

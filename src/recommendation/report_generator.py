@@ -2,9 +2,21 @@
 Generador de reportes personalizados
 """
 import logging
-from typing import List, Dict
+from typing import List, Dict, Optional
 from datetime import datetime
+from pathlib import Path
 from ..summarization.summarizer import PersonalizedSummarizer
+
+try:
+    from reportlab.lib.pagesizes import letter, A4
+    from reportlab.lib.styles import getSampleStyleSheet, ParagraphStyle
+    from reportlab.lib.units import inch
+    from reportlab.platypus import SimpleDocTemplate, Paragraph, Spacer, PageBreak, Table, TableStyle
+    from reportlab.lib import colors
+    from reportlab.lib.enums import TA_CENTER, TA_LEFT, TA_JUSTIFY
+    REPORTLAB_AVAILABLE = True
+except ImportError:
+    REPORTLAB_AVAILABLE = False
 
 logger = logging.getLogger(__name__)
 
@@ -119,6 +131,207 @@ class ReportGenerator:
             lines.append("-" * 80)
         
         return "\n".join(lines)
+    
+    def generate_pdf(self, report: Dict, output_path: str, user_name: Optional[str] = None) -> bool:
+        """
+        Genera un reporte en formato PDF
+        
+        Args:
+            report: Diccionario del reporte
+            output_path: Ruta donde guardar el PDF
+            user_name: Nombre del usuario (opcional)
+            
+        Returns:
+            True si se generó exitosamente, False en caso contrario
+        """
+        if not REPORTLAB_AVAILABLE:
+            logger.error("reportlab no está instalado. Instálalo con: pip install reportlab")
+            return False
+        
+        try:
+            # Crear directorio si no existe
+            Path(output_path).parent.mkdir(parents=True, exist_ok=True)
+            
+            # Crear documento
+            doc = SimpleDocTemplate(
+                output_path,
+                pagesize=A4,
+                rightMargin=72,
+                leftMargin=72,
+                topMargin=72,
+                bottomMargin=18,
+            )
+            
+            # Contenedor de elementos
+            story = []
+            
+            # Estilos
+            styles = getSampleStyleSheet()
+            
+            # Estilo personalizado para título
+            title_style = ParagraphStyle(
+                'CustomTitle',
+                parent=styles['Heading1'],
+                fontSize=24,
+                textColor=colors.HexColor('#1a1a1a'),
+                spaceAfter=30,
+                alignment=TA_CENTER,
+                fontName='Helvetica-Bold'
+            )
+            
+            # Estilo para subtítulos
+            subtitle_style = ParagraphStyle(
+                'Subtitle',
+                parent=styles['Heading2'],
+                fontSize=14,
+                textColor=colors.HexColor('#555555'),
+                spaceAfter=12,
+                alignment=TA_CENTER,
+            )
+            
+            # Estilo para títulos de artículos
+            article_title_style = ParagraphStyle(
+                'ArticleTitle',
+                parent=styles['Heading2'],
+                fontSize=14,
+                textColor=colors.HexColor('#2c3e50'),
+                spaceAfter=6,
+                spaceBefore=12,
+                fontName='Helvetica-Bold'
+            )
+            
+            # Estilo para metadata
+            meta_style = ParagraphStyle(
+                'Meta',
+                parent=styles['Normal'],
+                fontSize=9,
+                textColor=colors.HexColor('#7f8c8d'),
+                spaceAfter=6,
+            )
+            
+            # Estilo para resumen
+            summary_style = ParagraphStyle(
+                'Summary',
+                parent=styles['Normal'],
+                fontSize=11,
+                textColor=colors.HexColor('#2c3e50'),
+                spaceAfter=12,
+                alignment=TA_JUSTIFY,
+                leading=14,
+            )
+            
+            # Estilo para perfil de usuario
+            profile_style = ParagraphStyle(
+                'Profile',
+                parent=styles['Normal'],
+                fontSize=10,
+                textColor=colors.HexColor('#34495e'),
+                spaceAfter=8,
+                alignment=TA_JUSTIFY,
+                leading=13,
+                leftIndent=20,
+                rightIndent=20,
+            )
+            
+            # Estilo para categorías
+            category_style = ParagraphStyle(
+                'Category',
+                parent=styles['Normal'],
+                fontSize=9,
+                textColor=colors.HexColor('#16a085'),
+                spaceAfter=6,
+            )
+            
+            # Encabezado
+            story.append(Paragraph("REPORTE PERSONALIZADO DE NOTICIAS", title_style))
+            
+            # Información del usuario
+            if user_name:
+                story.append(Paragraph(f"Usuario: {user_name}", subtitle_style))
+            
+            # Fecha de generación
+            generated_date = datetime.fromisoformat(report['generated_at']).strftime('%d/%m/%Y %H:%M')
+            story.append(Paragraph(f"Generado: {generated_date}", meta_style))
+            story.append(Spacer(1, 12))
+            
+            # Perfil del usuario - Gustos e Intereses
+            user_profile = report.get('user_profile', {})
+            if user_profile:
+                story.append(Paragraph("<b>📋 Perfil de Intereses del Usuario</b>", article_title_style))
+                
+                # Texto del perfil
+                profile_text = user_profile.get('profile_text', '')
+                if profile_text:
+                    story.append(Paragraph(f"<i>{profile_text}</i>", profile_style))
+                    story.append(Spacer(1, 8))
+                
+                # Categorías de interés
+                categories = user_profile.get('categories', [])
+                if categories:
+                    story.append(Paragraph("<b>Categorías de Interés:</b>", category_style))
+                    # Mostrar las primeras 15 categorías más relevantes
+                    categories_display = categories[:15]
+                    categories_text = ", ".join(categories_display)
+                    if len(categories) > 15:
+                        categories_text += f" <i>(+{len(categories) - 15} más)</i>"
+                    story.append(Paragraph(categories_text, category_style))
+                    story.append(Spacer(1, 12))
+            
+            
+            story.append(Spacer(1, 20))
+            
+            # Título de la sección de artículos
+            story.append(Paragraph("<b>📰 Artículos Recomendados</b>", article_title_style))
+            story.append(Spacer(1, 10))
+            
+            # Artículos
+            for i, article in enumerate(report['articles'], 1):
+                # Título del artículo
+                title_text = f"{i}. {article['title']}"
+                story.append(Paragraph(title_text, article_title_style))
+                
+                # Metadata
+                meta_info = []
+                meta_info.append(f"<b>Sección:</b> {article['section']}")
+                meta_info.append(f"<b>Score de relevancia:</b> {article['score']:.3f}")
+                
+                if article.get('date'):
+                    try:
+                        article_date = datetime.fromisoformat(article['date'].replace('Z', '+00:00'))
+                        meta_info.append(f"<b>Fecha:</b> {article_date.strftime('%d/%m/%Y')}")
+                    except:
+                        pass
+                
+                story.append(Paragraph(" | ".join(meta_info), meta_style))
+                story.append(Spacer(1, 8))
+                
+                # Resumen
+                story.append(Paragraph("<b>Resumen:</b>", summary_style))
+                story.append(Paragraph(article['summary'], summary_style))
+                
+                # Categorías coincidentes
+                if article['justification']['matching_categories']:
+                    categories_text = ", ".join(article['justification']['matching_categories'])
+                    story.append(Paragraph(f"<b>Categorías coincidentes:</b> {categories_text}", meta_style))
+                
+                # URL
+                url_text = f"<b>URL:</b> <link href='{article['url']}'>{article['url']}</link>"
+                story.append(Paragraph(url_text, meta_style))
+                
+                # Separador entre artículos
+                if i < len(report['articles']):
+                    story.append(Spacer(1, 20))
+                    story.append(Paragraph("─" * 80, meta_style))
+                    story.append(Spacer(1, 10))
+            
+            # Generar PDF
+            doc.build(story)
+            logger.info(f"PDF generado exitosamente en: {output_path}")
+            return True
+            
+        except Exception as e:
+            logger.error(f"Error generando PDF: {e}")
+            return False
 
 
 

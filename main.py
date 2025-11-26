@@ -70,6 +70,7 @@ def prepare_articles(raw_data, text_processor, annotator, news_vectorizer):
                 'section': article_data.get('section', 'General'),
                 'tags': article_data.get('tags', []),
                 'url': article_data.get('url', ''),
+                'source_metadata': article_data.get('source_metadata', {}),
             })
             
         except Exception as e:
@@ -93,7 +94,7 @@ def create_simulated_users():
     """Crea perfiles de usuarios simulados con diferentes intereses basados en categorías regex"""
     users = [
         {
-            'name': 'Ana - Activista DDHH',
+            'name': 'Ana - Activista',
             'profile_text': (
                 'Me dedico a defender los derechos humanos y seguir las crisis humanitarias '
                 'en Gaza, Palestina y Líbano. Denuncio el genocidio, crímenes de guerra y '
@@ -138,6 +139,7 @@ def create_simulated_users():
 
 
 def main():
+
     print("=" * 80)
     print("SISTEMA DE RECOMENDACIÓN DE NOTICIAS PERSONALIZADO")
     print("=" * 80)
@@ -180,6 +182,10 @@ def main():
     
     all_reports = []
     
+    # Crear directorio para PDFs
+    pdf_output_dir = "reportes_pdf"
+    os.makedirs(pdf_output_dir, exist_ok=True)
+    
     for user in simulated_users:
         print(f"\n{'='*80}")
         print(f"👤 Usuario: {user['name']}")
@@ -202,8 +208,16 @@ def main():
             'report': report
         })
         
-        # Mostrar reporte formateado
-        print(f"\n{report_generator.format_report_text(report)}")
+        # Generar PDF
+        # Crear nombre de archivo seguro
+        safe_name = user['name'].replace(' ', '_').replace('-', '_').replace('/', '_')
+        pdf_filename = f"{pdf_output_dir}/reporte_{safe_name}.pdf"
+        
+        print(f"\n📄 Generando PDF...")
+        if report_generator.generate_pdf(report, pdf_filename, user['name']):
+            print(f"✅ PDF guardado en: {pdf_filename}")
+        else:
+            print(f"⚠️  No se pudo generar el PDF (instala reportlab: pip install reportlab)")
         
         print(f"\n{'='*80}\n")
     
@@ -223,6 +237,7 @@ def main():
     for cat, count in sorted_cats:
         print(f"   {cat}: {count} artículos")
     
+    print(f"\n📁 Reportes PDF guardados en: {pdf_output_dir}/")
     print("\n✅ Sistema completado exitosamente!")
 
 
