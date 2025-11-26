@@ -90,50 +90,86 @@ def prepare_articles(raw_data, text_processor, annotator, news_vectorizer):
     return articles
 
 
+def save_processed_articles(articles, filepath='processed_articles.json'):
+    """Guarda los artículos procesados en un archivo JSON"""
+    print(f"\n💾 Guardando artículos procesados en {filepath}...")
+    with open(filepath, 'w', encoding='utf-8') as f:
+        json.dump(articles, f, ensure_ascii=False, indent=2)
+    print(f"✅ Artículos guardados exitosamente")
+
+
+def load_processed_articles(filepath='processed_articles.json'):
+    """Carga los artículos procesados desde un archivo JSON"""
+    if os.path.exists(filepath):
+        print(f"\n📂 Cargando artículos procesados desde {filepath}...")
+        with open(filepath, 'r', encoding='utf-8') as f:
+            articles = json.load(f)
+        print(f"✅ {len(articles)} artículos cargados desde cache")
+        return articles
+    return None
+
+
 def create_simulated_users():
     """Crea perfiles de usuarios simulados con diferentes intereses basados en categorías regex"""
     users = [
         {
-            'name': 'Ana - Activista',
+            'name': 'Sofía - Crítica de Arte',
             'profile_text': (
-                'Me dedico a defender los derechos humanos y seguir las crisis humanitarias '
-                'en Gaza, Palestina y Líbano. Denuncio el genocidio, crímenes de guerra y '
-                'violaciones a la libertad de prensa. Me preocupan los periodistas asesinados, '
-                'la discriminación racial, tortura y desapariciones forzadas. Sigo protestas '
-                'contra represión policial y bloqueos humanitarios que afectan civiles.'
+                'Soy una apasionada del arte contemporáneo, las exposiciones y las galerías. '
+                'Me interesan las obras de artistas emergentes, el muralismo, la escultura y '
+                'la fotografía artística. Sigo festivales culturales, bienales de arte, '
+                'inauguraciones de museos y eventos de patrimonio cultural. Me fascina el '
+                'teatro, la danza, el cine de autor y las manifestaciones artísticas urbanas. '
+                'Disfruto la música clásica, jazz, y expresiones folclóricas tradicionales.'
             )
         },
         {
-            'name': 'Carlos - Analista Político',
+            'name': 'Diego - Ambientalista',
             'profile_text': (
-                'Analizo elecciones, campañas electorales y procesos políticos en América Latina. '
-                'Sigo reformas legislativas, aprobación de leyes y decisiones judiciales. '
-                'Me interesan las relaciones internacionales, ALBA, CELAC, UNASUR, cumbres '
-                'presidenciales, tratados bilaterales y cooperación multilateral. Estudio el '
-                'antiimperialismo, soberanía nacional y declaraciones políticas.'
+                'Me dedico a la conservación ambiental y protección de ecosistemas. '
+                'Sigo temas de biodiversidad, especies en peligro de extinción, reservas naturales '
+                'y parques nacionales. Me preocupan los desastres naturales como terremotos, '
+                'inundaciones y huracanes. Denuncio la deforestación, contaminación de ríos, '
+                'derrames de petróleo y el cambio climático. Apoyo energías renovables, '
+                'reciclaje y desarrollo sostenible. Me interesan proyectos de reforestación '
+                'y la protección de océanos y recursos hídricos.'
             )
         },
         {
-            'name': 'María - Economista',
+            'name': 'Laura - Educadora Cultural',
             'profile_text': (
-                'Analizo crisis económicas, inflación, desempleo, recesión y deuda externa. '
-                'Sigo tensiones comerciales, aranceles, sanciones económicas y el FMI. '
-                'Me interesan ajustes fiscales, privatización, poder adquisitivo y crecimiento '
-                'económico en países en desarrollo. Monitoreo mercados financieros, inversión '
-                'extranjera y políticas de redistribución económica.'
+                'Me apasiona la educación, la literatura y la promoción cultural. '
+                'Sigo lanzamientos de libros, ferias literarias, conciertos y recitales de poesía. '
+                'Me interesan programas educativos, becas, talleres artísticos y actividades '
+                'para niños y jóvenes. Apoyo bibliotecas comunitarias, centros culturales '
+                'y espacios de creación artística. Me gusta el teatro comunitario, '
+                'la música folclórica y las tradiciones ancestrales. Valoro la preservación '
+                'del patrimonio inmaterial y las lenguas indígenas.'
             )
         },
         {
-            'name': 'Pedro - Ambientalista',
+            'name': 'Martín - Fotógrafo de Naturaleza',
             'profile_text': (
-                'Me dedico a conservación ambiental y sigo desastres naturales: terremotos, '
-                'inundaciones, huracanes, erupciones volcánicas. Denuncio deforestación, '
-                'contaminación, derrames petroleros y cambio climático. Me preocupan emergencias '
-                'sanitarias, epidemias, escasez de agua. Apoyo objetivos de desarrollo sostenible '
-                'y protección de biodiversidad y recursos naturales.'
+                'Soy fotógrafo especializado en naturaleza, paisajes y vida silvestre. '
+                'Me apasionan los parques naturales, santuarios de fauna, volcanes y montañas. '
+                'Documento especies animales, aves migratorias, flora endémica y ecosistemas únicos. '
+                'Me interesan expediciones científicas, descubrimientos de nuevas especies '
+                'y proyectos de conservación de hábitats. Sigo fenómenos naturales, auroras, '
+                'eclipses y eventos astronómicos. Apoyo el turismo ecológico y responsable.'
             )
         },
-    
+        {
+            'name': 'Carmen - Historiadora del Arte',
+            'profile_text': (
+                'Investigo historia del arte latinoamericano, arquitectura colonial y '
+                'patrimonio histórico. Me fascinan las restauraciones de monumentos, '
+                'excavaciones arqueológicas y descubrimientos de sitios históricos. '
+                'Estudio arte prehispánico, culturas indígenas y tradiciones artesanales. '
+                'Me interesan museos, archivos históricos, documentales culturales '
+                'y la preservación de arte sacro. Valoro el arte popular, textiles tradicionales '
+                'y técnicas ancestrales de pintura y cerámica.'
+            )
+        },
     ]
     return users
 
@@ -148,16 +184,25 @@ def main():
     text_processor = TextPreprocessor(use_spacy=False)
     annotator = RegexAnnotator()
     
-    # Cargar artículos 
-    print("\n📂 Cargando artículos...")
-    raw_data = load_raw_data()  # Cambia el limit o quítalo para cargar todos
-    print(f"✅ {len(raw_data)} artículos cargados")
+    # Intentar cargar artículos procesados desde cache
+    processed_cache_file = 'processed_articles.json'
+    articles = load_processed_articles(processed_cache_file)
     
-    # Inicializar vectorizador de noticias
-    news_vectorizer = NewsVectorizer(max_features=3000, ngram_range=(1, 2))
+    if articles is None:
+        # No existe cache, procesar artículos desde cero
+        print("\n📂 Cargando artículos crudos...")
+        raw_data = load_raw_data()  # Cambia el limit o quítalo para cargar todos
+        print(f"✅ {len(raw_data)} artículos crudos cargados")
+        
+        # Inicializar vectorizador de noticias
+        news_vectorizer = NewsVectorizer(max_features=3000, ngram_range=(1, 2))
+        
+        # Preparar artículos: categorizar, limpiar y vectorizar
+        articles = prepare_articles(raw_data, text_processor, annotator, news_vectorizer)
+        
+        # Guardar en cache para futuras ejecuciones
+        save_processed_articles(articles, processed_cache_file)
     
-    # Preparar artículos: categorizar, limpiar y vectorizar
-    articles = prepare_articles(raw_data, text_processor, annotator, news_vectorizer)
     
     # Crear perfiles de usuarios simulados
     print("\n👥 Creando usuarios simulados...")
