@@ -6,12 +6,20 @@ dist/
 wheels/
 *.egg-info
 .env 
+
 # Virtual environments
 .venv
 uv.lock
+*.toml
 
 # Data files
 Data_articles/
 data_example/
 *.session
 processed_articles.json
+
+# Backups
+*.backup
+
+# CSpell
+cspell.json
