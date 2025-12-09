@@ -59,6 +59,38 @@ except Exception:  # pragma: no cover - optional dependency
     logger.warning("spaCy spanish model not found; entities will be empty.")
 
 
+def _try_auto_update_news() -> None:
+    """
+    Intenta ejecutar la actualización automática de noticias al iniciar la API.
+    Se ejecuta en background sin bloquear el inicio del servidor.
+    """
+    import threading
+    import importlib.util
+    from pathlib import Path
+    
+    def _run_update():
+        try:
+            update_script = ROOT_DIR / "src" / "process" / "news_update_&_process.py"
+            if not update_script.exists():
+                return
+            
+            spec = importlib.util.spec_from_file_location("news_update_process", update_script)
+            if not spec or not spec.loader:
+                return
+            
+            module = importlib.util.module_from_spec(spec)
+            spec.loader.exec_module(module)
+            
+            if hasattr(module, "run_news_update"):
+                module.run_news_update()
+        except Exception as e:
+            logger.debug(f"No se pudo ejecutar actualización automática: {e}")
+    
+    # Ejecutar en thread separado para no bloquear el startup
+    thread = threading.Thread(target=_run_update, daemon=True)
+    thread.start()
+
+
 def _ensure_base_files() -> None:
     """Create users/session files if they do not exist."""
     USERS_FILE.parent.mkdir(parents=True, exist_ok=True)
@@ -304,6 +336,8 @@ app.add_middleware(
 @app.on_event("startup")
 def startup_event() -> None:
     _ensure_base_files()
+    # Ejecutar actualización automática de noticias en background (best-effort)
+    _try_auto_update_news()
 
 
 @app.get("/health")

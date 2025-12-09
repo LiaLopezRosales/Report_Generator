@@ -6,7 +6,7 @@ What you get
 
 - FastAPI backend that reads/writes JSON files (no database needed).
 - Frontend in TypeScript/HTML/CSS (already built to `app.js`, `auth.js`, `login.js`).
-- Data lives in `Data_users/users.json`, `current_session.json`, and `Data_articles/**.json`.
+- Data lives in `Data/Data_users/users.json`, `Data/current_session.json`, and `Data/Data_articles/**.json`.
 
 Prereqs
 ---
@@ -24,6 +24,27 @@ uv sync
 uv run python scripts/setup_nltk.py
 uv run python -m spacy download es_core_news_sm
 ```
+
+Configure Telegram credentials (optional)
+---
+
+To enable automatic news updates from Telegram, create a `.env` file in the project root with:
+
+```bash
+api_id=YOUR_TELEGRAM_API_ID
+api_hash=YOUR_TELEGRAM_API_HASH
+tg_group_username=teleSURtv  # optional, defaults to "teleSURtv"
+```
+
+**How to get Telegram API credentials:**
+1. Go to https://my.telegram.org/apps
+2. Log in with your phone number
+3. Create a new application (or use existing)
+4. Copy the `api_id` and `api_hash` to your `.env` file
+
+**Note:** You don't need a bot token - these are user API credentials. The system will use your Telegram account to read messages from public groups/channels.
+
+If credentials are not configured, the automatic update will be skipped silently.
 
 Run the API
 ---
@@ -47,12 +68,11 @@ How data flows
 ---
 
 - Register/login hits `/api/users/register` and `/api/users/login`.
-- Session messages use `/api/session`, `/api/session/message`, `/api/session/clear` and are stored in `current_session.json`.
+- Session messages use `/api/session`, `/api/session/message`, `/api/session/clear` and are stored in `Data/current_session.json`.
 - Report requests go to `/recommendations/generate`; PDF downloads hit `/reports/generate-pdf` and are saved to `reportes_pdf/`.
 
 Notes
 ---
 
-- If you change `Data_articles/`, restart the API so it rebuilds its cache.
-- Passwords are stored in plain text in `Data_users/users.json` for simplicity; do not use real credentials.
-
+- If you change `Data/Data_articles/`, restart the API so it rebuilds its cache.
+- Passwords are stored in plain text in `Data/Data_users/users.json` for simplicity; do not use real credentials.

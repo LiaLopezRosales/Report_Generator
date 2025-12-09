@@ -11,13 +11,21 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
+
+def _get_env(key: str, default: str | None = None):
+    """Lee variables de entorno en minúsculas o mayúsculas."""
+    return os.environ.get(key) or os.environ.get(key.upper()) or default
+
+
 class ScraperT:
-    def __init__(self, group_username: str, api_id: str = None, api_hash: str = None, max_workers: int = 5):
-        self.group_username = group_username
-        if not api_hash or not api_id:
-            raise ValueError("Configura correctamente el API_ID y el API_HASH")
-        self.api_id = api_id
-        self.api_hash = api_hash
+    def __init__(self, group_username: str | None = None, api_id: str | None = None, api_hash: str | None = None, max_workers: int = 5):
+        # Compatibilidad con .env: claves esperadas api_id / api_hash
+        self.api_id = api_id or _get_env("api_id")
+        self.api_hash = api_hash or _get_env("api_hash")
+        if not self.api_id or not self.api_hash:
+            raise ValueError("Configura api_id y api_hash en .env")
+
+        self.group_username = group_username or _get_env("tg_group_username", "teleSURtv")
         self.max_workers = max_workers
         self.semaphore = asyncio.Semaphore(max_workers)
 
