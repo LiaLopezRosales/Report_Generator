@@ -32,9 +32,9 @@ logger = logging.getLogger(__name__)
 
 # Paths and constants
 ROOT_DIR = Path(__file__).resolve().parents[2]
-USERS_FILE = ROOT_DIR / "Data_users" / "users.json"
-SESSION_FILE = ROOT_DIR / "current_session.json"
-ARTICLES_DIR = ROOT_DIR / "Data_articles"
+USERS_FILE = ROOT_DIR / "Data" / "Data_users" / "users.json"
+SESSION_FILE = ROOT_DIR / "Data" / "current_session.json"
+ARTICLES_DIR = ROOT_DIR / "Data" / "Data_articles"
 PDF_OUTPUT_DIR = ROOT_DIR / "reportes_pdf"
 
 # Locks for thread safety

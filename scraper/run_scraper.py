@@ -6,7 +6,7 @@ def main():
     max_workers = 10
     scraper = Scraper(max_workers=max_workers)
     
-    output_dir = "Data_articles"
+    output_dir = "Data/Data_articles"
     
     print("Iniciando scraping concurrente de URLs de teleSUR...")
     print(f"Usando {max_workers} workers concurrentes")
