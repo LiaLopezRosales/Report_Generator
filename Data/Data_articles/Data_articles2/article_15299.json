@@ -1,0 +1,796 @@
+{
+  "url": "https://www.telesurtv.net/lula-espera-disculpas-de-javier-milei-antes-de-mantener-alguna-conversacion-con-el/",
+  "title": "Lula espera disculpas de Javier Milei antes de mantener alguna conversación con él - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "controversias",
+    "diplomacia"
+  ],
+  "text": "\nEl presidente de Brasil, Luiz Inácio Lula da Silva, afirmó este miércoles que aún no ha conversado con su homólogo argentino, Javier Milei, pues considera que este aún le debe “disculpas por las tonterías” que dijo sobre él.\n\n\nLas declaraciones de Lula, las cuales tuvieron lugar durante una entrevista matutina le permitieron explicar que “no conversé con el presidente de Argentina porque creo que debe pedirle disculpas a Brasil y a mí”, aunque matizó que eso tampoco obstaculizará las relaciones institucionales con el país vecino.\nAsimismo, dejó calro que “quiere mucho a Argentina” y “no es un presidente el que va a crear cizañas” en la relación bilateral, al tiempo que precisó que “los pueblos son mayores que los gobernantes”.\nLas declaraciones de Lula también se producen en el contexto de la controversia alrededor de los fugitivos del intento de golpe de Estado del 8 de enero, ante lo cual dijo que su Gobierno trata “con mucha diplomacia” el caso de decenas de activistas de ultraderecha que participaron en la asonada golpista del 8 de enero de 2003 en Brasil y huyeron hacia Argentina en los últimos meses, después de que Milei asumió la presidencia en ese país.\nDijo, en esa direccón, que existen informaciones de que sobre algunos de los fugados existen ya sentencias firmes y que el Gobierno brasileño analiza si pedirá formalmente la extradición o exigirá que, “en caso de que no quieran venir, que vayan presos en Argentina”.\nEl Gobierno argentino, a través de su vocero, Manuel Adorni, respondió que el mandatario Javier Milei “no tiene nada de qué arrepentirse”. El portavoz de la Casa Rosada comentó que los dos mandatarios no han hablado de manera bilateral en el contexto del G7, realizado hace dos semanas, sino que se han encontrado y saludado “cordialmente, como deben hacer dos presidentes”.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/lula-espera-disculpas-de-javier-milei-antes-de-mantener-alguna-conversacion-con-el/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-06.json",
+    "message_index": 173,
+    "message_id": 72570,
+    "date": "2024-06-26T16:55:12+00:00",
+    "text": "teleSUR\nLula espera disculpas de Javier Milei antes de mantener alguna conversación con él\nhttps://www.telesurtv.net/lula-espera-disculpas-de-javier-milei-antes-de-mantener-alguna-conversacion-con-el/",
+    "photo_path": null,
+    "views": 1398,
+    "reactions": {},
+    "total_reactions": 0
+  },
+  "preprocessing": {
+    "cleaned": "el presidente de brasil, luiz inácio lula da silva, afirmó este miércoles que aún no ha conversado con su homólogo argentino, javier milei, pues considera que este aún le debe “disculpas por las tonterías” que dijo sobre él. las declaraciones de lula, las cuales tuvieron lugar durante una entrevista matutina le permitieron explicar que “no conversé con el presidente de argentina porque creo que debe pedirle disculpas a brasil y a mí”, aunque matizó que eso tampoco obstaculizará las relaciones institucionales con el país vecino. asimismo, dejó calro que “quiere mucho a argentina” y “no es un presidente el que va a crear cizañas” en la relación bilateral, al tiempo que precisó que “los pueblos son mayores que los gobernantes”. las declaraciones de lula también se producen en el contexto de la controversia alrededor de los fugitivos del intento de golpe de estado del 8 de enero, ante lo cual dijo que su gobierno trata “con mucha diplomacia” el caso de decenas de activistas de ultraderecha que participaron en la asonada golpista del 8 de enero de 2003 en brasil y huyeron hacia argentina en los últimos meses, después de que milei asumió la presidencia en ese país. dijo, en esa direccón, que existen informaciones de que sobre algunos de los fugados existen ya sentencias firmes y que el gobierno brasileño analiza si pedirá formalmente la extradición o exigirá que, “en caso de que no quieran venir, que vayan presos en argentina”. el gobierno argentino, a través de su vocero, manuel adorni, respondió que el mandatario javier milei “no tiene nada de qué arrepentirse”. el portavoz de la casa rosada comentó que los dos mandatarios no han hablado de manera bilateral en el contexto del g7, realizado hace dos semanas, sino que se han encontrado y saludado “cordialmente, como deben hacer dos presidentes”.",
+    "tokens": [
+      "presidente",
+      "brasil",
+      ",",
+      "luiz",
+      "inácio",
+      "lula",
+      "da",
+      "silva",
+      ",",
+      "afirmó",
+      "miércoles",
+      "aún",
+      "conversado",
+      "homólogo",
+      "argentino",
+      ",",
+      "javier",
+      "milei",
+      ",",
+      "pues",
+      "considera",
+      "aún",
+      "debe",
+      "“",
+      "disculpas",
+      "tonterías",
+      "”",
+      "dijo",
+      ".",
+      "declaraciones",
+      "lula",
+      ",",
+      "cuales",
+      "lugar",
+      "entrevista",
+      "matutina",
+      "permitieron",
+      "explicar",
+      "“",
+      "conversé",
+      "presidente",
+      "argentina",
+      "creo",
+      "debe",
+      "pedirle",
+      "disculpas",
+      "brasil",
+      "”",
+      ",",
+      "aunque",
+      "matizó",
+      "tampoco",
+      "obstaculizará",
+      "relaciones",
+      "institucionales",
+      "país",
+      "vecino",
+      ".",
+      "asimismo",
+      ",",
+      "dejó",
+      "calro",
+      "“",
+      "quiere",
+      "argentina",
+      "”",
+      "“",
+      "presidente",
+      "va",
+      "crear",
+      "cizañas",
+      "”",
+      "relación",
+      "bilateral",
+      ",",
+      "tiempo",
+      "precisó",
+      "“",
+      "pueblos",
+      "mayores",
+      "gobernantes",
+      "”",
+      ".",
+      "declaraciones",
+      "lula",
+      "producen",
+      "contexto",
+      "controversia",
+      "alrededor",
+      "fugitivos",
+      "intento",
+      "golpe",
+      "8",
+      "enero",
+      ",",
+      "dijo",
+      "gobierno",
+      "trata",
+      "“",
+      "mucha",
+      "diplomacia",
+      "”",
+      "caso",
+      "decenas",
+      "activistas",
+      "ultraderecha",
+      "participaron",
+      "asonada",
+      "golpista",
+      "8",
+      "enero",
+      "2003",
+      "brasil",
+      "huyeron",
+      "hacia",
+      "argentina",
+      "últimos",
+      "meses",
+      ",",
+      "después",
+      "milei",
+      "asumió",
+      "presidencia",
+      "país",
+      ".",
+      "dijo",
+      ",",
+      "direccón",
+      ",",
+      "existen",
+      "informaciones",
+      "fugados",
+      "existen",
+      "sentencias",
+      "firmes",
+      "gobierno",
+      "brasileño",
+      "analiza",
+      "si",
+      "pedirá",
+      "formalmente",
+      "extradición",
+      "exigirá",
+      ",",
+      "“",
+      "caso",
+      "quieran",
+      "venir",
+      ",",
+      "vayan",
+      "presos",
+      "argentina",
+      "”",
+      ".",
+      "gobierno",
+      "argentino",
+      ",",
+      "través",
+      "vocero",
+      ",",
+      "manuel",
+      "adorni",
+      ",",
+      "respondió",
+      "mandatario",
+      "javier",
+      "milei",
+      "“",
+      "arrepentirse",
+      "”",
+      ".",
+      "portavoz",
+      "casa",
+      "rosada",
+      "comentó",
+      "dos",
+      "mandatarios",
+      "hablado",
+      "manera",
+      "bilateral",
+      "contexto",
+      "g7",
+      ",",
+      "realizado",
+      "hace",
+      "dos",
+      "semanas",
+      ",",
+      "sino",
+      "encontrado",
+      "saludado",
+      "“",
+      "cordialmente",
+      ",",
+      "deben",
+      "hacer",
+      "dos",
+      "presidentes",
+      "”",
+      "."
+    ],
+    "token_count": 200,
+    "sentence_count": 7
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 35,
+      "NN": 119,
+      "FW": 61,
+      "VBZ": 6,
+      "NNS": 12,
+      "VBP": 9,
+      "JJ": 24,
+      "DT": 6,
+      "CC": 1,
+      "IN": 14,
+      "RB": 2,
+      "CD": 1
+    },
+    "bigram_freq": {
+      "NNP-NN": 14,
+      "NN-FW": 7,
+      "FW-NNP": 8,
+      "NNP-NNP": 10,
+      "NN-NNP": 11,
+      "NNP-VBZ": 4,
+      "VBZ-NN": 2,
+      "NN-NNS": 4,
+      "NNS-VBP": 7,
+      "VBP-JJ": 6,
+      "JJ-DT": 1,
+      "DT-NN": 5,
+      "NN-VBZ": 1,
+      "VBZ-JJ": 1,
+      "JJ-NN": 13,
+      "NN-NN": 76,
+      "VBZ-FW": 2,
+      "NNP-CC": 1,
+      "CC-NNS": 1,
+      "NN-JJ": 5,
+      "NN-DT": 1,
+      "FW-NN": 7,
+      "NN-IN": 10,
+      "IN-NNP": 2,
+      "IN-JJ": 2,
+      "JJ-NNS": 4,
+      "NNS-NNS": 1,
+      "NN-RB": 2,
+      "RB-JJ": 2,
+      "JJ-NNP": 2,
+      "NNP-DT": 2,
+      "NN-VBP": 2,
+      "VBP-NN": 2,
+      "FW-FW": 36,
+      "FW-JJ": 7,
+      "NNS-NNP": 1,
+      "NNP-NNS": 1,
+      "NNS-FW": 1,
+      "IN-FW": 9,
+      "NNP-FW": 2,
+      "FW-IN": 1,
+      "IN-CD": 1,
+      "CD-FW": 1,
+      "NNP-IN": 1,
+      "VBP-IN": 1,
+      "NNS-IN": 1,
+      "JJ-FW": 3,
+      "FW-NNS": 1,
+      "FW-DT": 1,
+      "JJ-VBZ": 1,
+      "VBZ-DT": 1,
+      "DT-JJ": 1
+    },
+    "trigram_freq": {
+      "NNP-NN-FW": 1,
+      "NN-FW-NNP": 1,
+      "FW-NNP-NNP": 2,
+      "NNP-NNP-NNP": 3,
+      "NNP-NNP-NN": 4,
+      "NNP-NN-NNP": 1,
+      "NN-NNP-VBZ": 2,
+      "NNP-VBZ-NN": 2,
+      "VBZ-NN-NNS": 1,
+      "NN-NNS-VBP": 3,
+      "NNS-VBP-JJ": 6,
+      "VBP-JJ-DT": 1,
+      "JJ-DT-NN": 1,
+      "DT-NN-VBZ": 1,
+      "NN-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 1,
+      "JJ-NN-NN": 8,
+      "NN-NN-NN": 49,
+      "NN-NN-NNP": 8,
+      "NN-NNP-NNP": 4,
+      "NNP-NNP-VBZ": 2,
+      "VBZ-NN-NN": 1,
+      "NN-NN-NNS": 2,
+      "VBP-JJ-NN": 3,
+      "NNP-VBZ-FW": 2,
+      "VBZ-FW-NNP": 1,
+      "FW-NNP-CC": 1,
+      "NNP-CC-NNS": 1,
+      "CC-NNS-VBP": 1,
+      "JJ-NN-JJ": 1,
+      "NN-JJ-NN": 3,
+      "NN-NN-DT": 1,
+      "NN-DT-NN": 1,
+      "DT-NN-NN": 2,
+      "NN-NN-FW": 3,
+      "NN-FW-NN": 2,
+      "FW-NN-IN": 2,
+      "NN-IN-NNP": 2,
+      "IN-NNP-NN": 1,
+      "NNP-NN-NN": 12,
+      "NN-NNP-NN": 4,
+      "NN-NN-IN": 6,
+      "NN-IN-JJ": 2,
+      "IN-JJ-NNS": 1,
+      "JJ-NNS-NNS": 1,
+      "NNS-NNS-VBP": 1,
+      "NN-NN-RB": 1,
+      "NN-RB-JJ": 2,
+      "RB-JJ-NNP": 1,
+      "JJ-NNP-DT": 1,
+      "NNP-DT-NN": 2,
+      "DT-NN-RB": 1,
+      "RB-JJ-NN": 1,
+      "NN-NN-VBP": 2,
+      "NN-VBP-NN": 2,
+      "VBP-NN-FW": 1,
+      "NN-FW-FW": 4,
+      "FW-FW-FW": 24,
+      "FW-FW-JJ": 4,
+      "FW-JJ-NN": 3,
+      "NN-NN-JJ": 4,
+      "JJ-NN-NNS": 1,
+      "VBP-JJ-NNS": 1,
+      "JJ-NNS-NNP": 1,
+      "NNS-NNP-NNS": 1,
+      "NNP-NNS-FW": 1,
+      "NNS-FW-NNP": 1,
+      "FW-NNP-NN": 3,
+      "NN-IN-FW": 6,
+      "IN-FW-FW": 3,
+      "FW-FW-NNP": 3,
+      "FW-NNP-FW": 2,
+      "NNP-FW-FW": 2,
+      "FW-FW-NN": 3,
+      "FW-NN-NN": 3,
+      "FW-FW-IN": 1,
+      "FW-IN-CD": 1,
+      "IN-CD-FW": 1,
+      "CD-FW-NNP": 1,
+      "NN-NNP-IN": 1,
+      "NNP-IN-FW": 1,
+      "IN-FW-JJ": 3,
+      "FW-JJ-NNS": 1,
+      "JJ-NNS-VBP": 1,
+      "NNS-VBP-IN": 1,
+      "VBP-IN-FW": 1,
+      "IN-FW-NNP": 1,
+      "IN-JJ-NN": 1,
+      "JJ-NN-NNP": 1,
+      "VBZ-FW-NN": 1,
+      "NN-JJ-NNS": 1,
+      "JJ-NNS-IN": 1,
+      "NNS-IN-FW": 1,
+      "FW-JJ-FW": 3,
+      "JJ-FW-FW": 3,
+      "FW-FW-NNS": 1,
+      "FW-NNS-VBP": 1,
+      "VBP-JJ-NNP": 1,
+      "JJ-NNP-NN": 1,
+      "FW-NN-FW": 1,
+      "IN-FW-DT": 1,
+      "FW-DT-NN": 1,
+      "JJ-NN-IN": 2,
+      "IN-NNP-NNP": 1,
+      "IN-FW-NN": 1,
+      "FW-NN-NNP": 1,
+      "NNP-NNP-DT": 1,
+      "DT-NN-FW": 1,
+      "NN-JJ-VBZ": 1,
+      "JJ-VBZ-DT": 1,
+      "VBZ-DT-JJ": 1,
+      "DT-JJ-NN": 1,
+      "VBP-NN-NN": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 119,
+        "FW": 61,
+        "NNP": 35,
+        "JJ": 24,
+        "IN": 14
+      },
+      "top_bigrams": {
+        "NN-NN": 76,
+        "FW-FW": 36,
+        "NNP-NN": 14,
+        "JJ-NN": 13,
+        "NN-NNP": 11
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 49,
+        "FW-FW-FW": 24,
+        "NNP-NN-NN": 12,
+        "JJ-NN-NN": 8,
+        "NN-NN-NNP": 8
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 7,
+    "chunk_counts": {
+      "NP": 71,
+      "VP": 19,
+      "PP": 4,
+      "ADJP": 4
+    },
+    "top_rules": [
+      {
+        "rule": "NP -> ('Las', 'NNP') ('declaraciones', 'NNS')",
+        "frequency": 2,
+        "weight": 0.019
+      },
+      {
+        "rule": "NP -> ('caso', 'NN')",
+        "frequency": 2,
+        "weight": 0.019
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.019
+      },
+      {
+        "rule": "NP -> ('que', 'NN')",
+        "frequency": 2,
+        "weight": 0.019
+      },
+      {
+        "rule": "S -> NP ('de', 'FW') NP (',', ',') NP (',', ',') NP VP VP (',', ',') NP (',', ',') VP VP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0095
+      },
+      {
+        "rule": "NP -> ('El', 'NNP') ('presidente', 'NN')",
+        "frequency": 1,
+        "weight": 0.0095
+      },
+      {
+        "rule": "NP -> ('Brasil', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0095
+      },
+      {
+        "rule": "NP -> ('Luiz', 'NNP') ('Inácio', 'NNP') ('Lula', 'NNP') ('da', 'NN') ('Silva', 'NN')",
+        "frequency": 1,
+        "weight": 0.0095
+      },
+      {
+        "rule": "NP -> ('afirmó', 'JJ') ('este', 'NN') ('miércoles', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0095
+      },
+      {
+        "rule": "VP -> ('que', 'VBP') ('aún', 'JJ') NP",
+        "frequency": 1,
+        "weight": 0.0095
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El presidente"
+      },
+      {
+        "label": "NP",
+        "text": "Brasil"
+      },
+      {
+        "label": "NP",
+        "text": "Luiz Inácio Lula da Silva"
+      },
+      {
+        "label": "NP",
+        "text": "afirmó este miércoles"
+      },
+      {
+        "label": "VP",
+        "text": "que aún no ha"
+      },
+      {
+        "label": "NP",
+        "text": "no ha"
+      },
+      {
+        "label": "VP",
+        "text": "conversado con su homólogo argentino"
+      },
+      {
+        "label": "NP",
+        "text": "con su homólogo argentino"
+      },
+      {
+        "label": "NP",
+        "text": "Javier Milei"
+      },
+      {
+        "label": "VP",
+        "text": "pues considera que este aún le debe “ disculpas por las"
+      },
+      {
+        "label": "NP",
+        "text": "considera que este aún le debe “ disculpas por las"
+      },
+      {
+        "label": "VP",
+        "text": "tonterías ” que dijo sobre él"
+      },
+      {
+        "label": "NP",
+        "text": "” que dijo sobre él"
+      },
+      {
+        "label": "NP",
+        "text": "Las declaraciones"
+      },
+      {
+        "label": "NP",
+        "text": "Lula"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP El/NNP presidente/NN)\n  de/FW\n  (NP Brasil/NNP)\n  ,/,\n  (NP Luiz/NNP Inácio/NNP Lula/NNP da/NN Silva/NN)\n  ,/,\n  (NP afirmó/JJ este/NN miércoles/NNS)\n  (VP que/VBP aún/JJ (NP no/DT ha/NN))\n  (VP conversado/VBZ (NP con/JJ su/NN homólogo/NN argentino/NN))\n  ,/,\n  (NP Javier/NNP Milei/NNP)\n  ,/,\n  (VP\n    pues/VBZ\n    (NP\n      considera/NN\n      que/NN\n      este/NN\n      aún/NN\n      le/NN\n      debe/NN\n      “/NNP\n      disculpas/NN\n      por/NN\n      las/NNS))\n  (VP tonterías/VBP (NP ”/JJ que/NN dijo/NN sobre/NN él/NN))\n  ./.)",
+      "(S\n  (NP Las/NNP declaraciones/NNS)\n  de/FW\n  (NP Lula/NNP)\n  ,/,\n  (NP las/JJ cuales/NNS)\n  (VP\n    tuvieron/VBP\n    (NP lugar/JJ durante/NN)\n    (NP\n      una/JJ\n      entrevista/NN\n      matutina/NN\n      le/NN\n      permitieron/NN\n      explicar/NN\n      que/NN))\n  (VP “/VBZ (NP no/DT conversé/JJ con/NN el/NN presidente/NN))\n  (PP\n    de/IN\n    (NP Argentina/NNP porque/NN creo/NN que/NN debe/NN pedirle/NN))\n  (VP disculpas/VBZ (NP a/DT Brasil/NNP y/NN) (NP a/DT mí/NN ”/NN))\n  ,/,\n  (NP aunque/JJ matizó/NN que/NN eso/NN tampoco/NN)\n  (PP\n    obstaculizará/IN\n    (NP las/JJ relaciones/NNS institucionales/NNS))\n  (VP con/VBP (NP el/JJ país/NN vecino/NN))\n  ./.)",
+      "(S\n  (NP Asimismo/NNP)\n  ,/,\n  (NP dejó/NN calro/NN que/NN “/NNP)\n  quiere/RB\n  (VP\n    mucho/VBZ\n    (NP a/DT Argentina/NNP ”/NNP y/NNP “/NNP)\n    (NP no/DT es/NN)\n    un/RB\n    (NP presidente/JJ el/NN que/NN))\n  (VP va/VBZ (NP a/DT crear/JJ cizañas/NN ”/NNP))\n  (VP en/VBZ)\n  la/FW\n  (NP relación/JJ bilateral/NN)\n  ,/,\n  (NP al/JJ tiempo/NN que/NN precisó/NN que/NN “/NNP)\n  (VP los/VBZ (NP pueblos/JJ son/NN mayores/NNS))\n  (VP que/VBP (NP los/JJ gobernantes/NNS))\n  (VP ”/VBP)\n  ./.)",
+      "(S\n  (NP Las/NNP declaraciones/NNS)\n  de/FW\n  (NP Lula/NNP también/NN se/NN producen/NN)\n  en/IN\n  el/FW\n  contexto/FW\n  de/FW\n  la/FW\n  controversia/FW\n  alrededor/FW\n  de/FW\n  los/FW\n  (NP fugitivos/JJ del/NN intento/NN)\n  de/FW\n  golpe/FW\n  de/FW\n  (NP Estado/NNP)\n  del/FW\n  8/CD\n  de/FW\n  enero/FW\n  ,/,\n  ante/FW\n  lo/FW\n  (NP\n    cual/JJ\n    dijo/NN\n    que/NN\n    su/NN\n    Gobierno/NNP\n    trata/NN\n    “/NNP\n    con/NN\n    mucha/NN\n    diplomacia/NN\n    ”/NNP)\n  (VP el/VBZ (NP caso/NN))\n  de/FW\n  decenas/FW\n  de/FW\n  activistas/FW\n  de/FW\n  ultraderecha/FW\n  (NP que/NN participaron/NN)\n  en/IN\n  la/FW\n  asonada/FW\n  (NP golpista/NN)\n  del/FW\n  8/CD\n  de/FW\n  enero/FW\n  de/IN\n  2003/CD\n  en/FW\n  (NP Brasil/NNP y/NNP huyeron/NN hacia/NN Argentina/NNP)\n  en/IN\n  los/FW\n  (NP últimos/JJ meses/NNS)\n  ,/,\n  después/FW\n  de/FW\n  que/FW\n  (NP Milei/NNP asumió/NN la/NN presidencia/NN)\n  (PP en/IN (NP ese/JJ país/NN))\n  ./.)",
+      "(S\n  (NP Dijo/NNP)\n  ,/,\n  en/FW\n  esa/FW\n  (NP direccón/NN)\n  ,/,\n  (NP que/NN)\n  (NP existen/JJ informaciones/NNS)\n  de/IN\n  que/FW\n  (ADJP sobre/JJ)\n  algunos/FW\n  de/FW\n  los/FW\n  (ADJP fugados/JJ)\n  existen/FW\n  ya/FW\n  sentencias/FW\n  (NP firmes/NNS)\n  (VP\n    y/VBP\n    (NP\n      que/JJ\n      el/NN\n      Gobierno/NNP\n      brasileño/NN\n      analiza/NN\n      si/NN\n      pedirá/NN\n      formalmente/NN))\n  la/FW\n  extradición/FW\n  o/FW\n  exigirá/FW\n  (NP que/NN)\n  ,/,\n  (NP “/NNP)\n  en/FW\n  (NP caso/NN)\n  de/IN\n  que/FW\n  (NP no/DT quieran/NN venir/NN)\n  ,/,\n  (NP que/JJ vayan/NN presos/NN)\n  (PP en/IN (NP Argentina/NNP ”/NNP))\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "GOBIERNOS_OFICIALES",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "REGIONES_PROVINCIAS",
+      "PAISES",
+      "FECHAS_ESPECIFICAS"
+    ],
+    "matches": [
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "afirmó",
+        "position": [
+          53,
+          59
+        ],
+        "start": 53,
+        "end": 59
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "precisó",
+        "position": [
+          679,
+          686
+        ],
+        "start": 679,
+        "end": 686
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente de brasil",
+        "position": [
+          4,
+          24
+        ],
+        "start": 4,
+        "end": 24
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "brasil",
+        "position": [
+          18,
+          24
+        ],
+        "start": 18,
+        "end": 24
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "estado del",
+        "position": [
+          869,
+          879
+        ],
+        "start": 869,
+        "end": 879
+      },
+      {
+        "category": "FECHAS_ESPECIFICAS",
+        "matched_text": "8 de enero de 2003",
+        "position": [
+          1048,
+          1066
+        ],
+        "start": 1048,
+        "end": 1066
+      }
+    ],
+    "match_count": 6
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Lula",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Gobierno brasileño",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Argentina",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "G7",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Manuel Adorni",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Gobierno argentino",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Gobierno",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Brasil",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Luiz Inácio Lula da Silva",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Milei",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Javier Milei",
+        "tipo": "Persona"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Brasil",
+        "relacion": "DA_AFIRMAR",
+        "objeto": "Luiz Inácio Lula da Silva"
+      },
+      {
+        "sujeto": "Brasil",
+        "relacion": "DA_AFIRMAR",
+        "objeto": "Javier Milei"
+      },
+      {
+        "sujeto": "Luiz Inácio Lula da Silva",
+        "relacion": "DA_AFIRMAR",
+        "objeto": "Javier Milei"
+      },
+      {
+        "sujeto": "Lula",
+        "relacion": "PERMITIR",
+        "objeto": "Argentina"
+      },
+      {
+        "sujeto": "Lula",
+        "relacion": "PERMITIR",
+        "objeto": "Brasil"
+      },
+      {
+        "sujeto": "Argentina",
+        "relacion": "CONVERSAR_EXPLICAR_PERMITIR",
+        "objeto": "Brasil"
+      },
+      {
+        "sujeto": "Gobierno",
+        "relacion": "PRODUCIR",
+        "objeto": "Lula"
+      },
+      {
+        "sujeto": "Lula",
+        "relacion": "PRODUCIR",
+        "objeto": "Brasil"
+      },
+      {
+        "sujeto": "Lula",
+        "relacion": "PRODUCIR",
+        "objeto": "Argentina"
+      },
+      {
+        "sujeto": "Milei",
+        "relacion": "PRODUCIR",
+        "objeto": "Lula"
+      },
+      {
+        "sujeto": "Gobierno",
+        "relacion": "TRATAR_DECIR_PRODUCIR",
+        "objeto": "Brasil"
+      },
+      {
+        "sujeto": "Gobierno",
+        "relacion": "TRATAR_DECIR_PRODUCIR",
+        "objeto": "Argentina"
+      },
+      {
+        "sujeto": "Gobierno",
+        "relacion": "TRATAR_DECIR_PRODUCIR",
+        "objeto": "Milei"
+      },
+      {
+        "sujeto": "Brasil",
+        "relacion": "PARTICIPAR_TRATAR_DECIR_PRODUCIR",
+        "objeto": "Argentina"
+      },
+      {
+        "sujeto": "Milei",
+        "relacion": "PARTICIPAR_TRATAR_DECIR_PRODUCIR",
+        "objeto": "Brasil"
+      },
+      {
+        "sujeto": "Milei",
+        "relacion": "HUIR_PARTICIPAR_TRATAR_DECIR_PRODUCIR",
+        "objeto": "Argentina"
+      },
+      {
+        "sujeto": "Gobierno brasileño",
+        "relacion": "ANALIZAR_EXISTIR_EXISTIR_DECIR",
+        "objeto": "Argentina"
+      },
+      {
+        "sujeto": "Gobierno argentino",
+        "relacion": "RESPONDER",
+        "objeto": "Manuel Adorni"
+      },
+      {
+        "sujeto": "Gobierno argentino",
+        "relacion": "RESPONDER",
+        "objeto": "Javier Milei"
+      },
+      {
+        "sujeto": "Manuel Adorni",
+        "relacion": "RESPONDER",
+        "objeto": "Javier Milei"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.4939,
+    "pos": 0.008,
+    "neu": 0.969,
+    "neg": 0.022,
+    "label": "negative"
+  }
+}

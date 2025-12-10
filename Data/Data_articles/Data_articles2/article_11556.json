@@ -1,0 +1,673 @@
+{
+  "url": "https://www.telesurtv.net/nueva-masacre-cometida-por-sicarios-deja-siete-muertos-en-ecuador/",
+  "title": "Nueva masacre cometida por sicarios deja siete muertos en Ecuador - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "Ecuador",
+    "masacre"
+  ],
+  "text": "Siete personas perdieron la vida en un ataque perpetrado este domingo en la ciudad de Guayaquil, Ecuador. Los agresores, a bordo de motocicletas, abrieron fuego indiscriminadamente contra sus víctimas. El saldo fue de cinco hombres y dos mujeres fallecidos, además de dos menores heridos.\nEl ataque tuvo como objetivo una barbería, una panadería y una vivienda ubicadas en la misma calle. Según informes de la Policía Nacional, cinco miembros de una misma familia fueron asesinados dentro de la casa. Una persona más murió en la barbería y otra en la panadería. Las autoridades informaron que una de las víctimas tenía antecedentes penales por posesión ilícita.\nTestigos del sector relataron que el ataque se produjo alrededor de las 11:30, coincidiendo con la llegada de visitantes a la vivienda. Tras la balacera, los sicarios escaparon realizando disparos al aire para disuadir cualquier intento de persecución por parte de los vecinos.\nLa Policía Nacional aún no ha esclarecido los motivos detrás de este nuevo ataque. Sin embargo, un despliegue de uniformados ha sido enviado a la zona para garantizar la seguridad, dada la reciente ola de violencia en el distrito Nueva Prosperina.\nLa principal hipótesis apunta a un ajuste de cuentas entre la banda criminal Tiguerones Fénix y los Tiguerones Igualitos, quienes mantienen una disputa por el control territorial.\nEl distrito Nueva Prosperina se posiciona como el segundo más violento de la Zona 8, superado únicamente por Durán, con un total de 360 homicidios registrados en lo que va del año.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/nueva-masacre-cometida-por-sicarios-deja-siete-muertos-en-ecuador/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-12.json",
+    "message_index": 888,
+    "message_id": 82475,
+    "date": "2024-12-16T07:55:12+00:00",
+    "text": "teleSUR\nNueva masacre cometida por sicarios deja siete muertos en Ecuador\nhttps://www.telesurtv.net/nueva-masacre-cometida-por-sicarios-deja-siete-muertos-en-ecuador/",
+    "photo_path": null,
+    "views": 2240,
+    "reactions": {
+      "🤬": 29,
+      "🙏": 2,
+      "😱": 1
+    },
+    "total_reactions": 32
+  },
+  "preprocessing": {
+    "cleaned": "siete personas perdieron la vida en un ataque perpetrado este domingo en la ciudad de guayaquil, ecuador. los agresores, a bordo de motocicletas, abrieron fuego indiscriminadamente contra sus víctimas. el saldo fue de cinco hombres y dos mujeres fallecidos, además de dos menores heridos. el ataque tuvo como objetivo una barbería, una panadería y una vivienda ubicadas en la misma calle. según informes de la policía nacional, cinco miembros de una misma familia fueron asesinados dentro de la casa. una persona más murió en la barbería y otra en la panadería. las autoridades informaron que una de las víctimas tenía antecedentes penales por posesión ilícita. testigos del sector relataron que el ataque se produjo alrededor de las 11:30, coincidiendo con la llegada de visitantes a la vivienda. tras la balacera, los sicarios escaparon realizando disparos al aire para disuadir cualquier intento de persecución por parte de los vecinos. la policía nacional aún no ha esclarecido los motivos detrás de este nuevo ataque. sin embargo, un despliegue de uniformados ha sido enviado a la zona para garantizar la seguridad, dada la reciente ola de violencia en el distrito nueva prosperina. la principal hipótesis apunta a un ajuste de cuentas entre la banda criminal tiguerones fénix y los tiguerones igualitos, quienes mantienen una disputa por el control territorial. el distrito nueva prosperina se posiciona como el segundo más violento de la zona 8, superado únicamente por durán, con un total de 360 homicidios registrados en lo que va del año.",
+    "tokens": [
+      "siete",
+      "personas",
+      "perdieron",
+      "vida",
+      "ataque",
+      "perpetrado",
+      "domingo",
+      "ciudad",
+      "guayaquil",
+      ",",
+      "ecuador",
+      ".",
+      "agresores",
+      ",",
+      "bordo",
+      "motocicletas",
+      ",",
+      "abrieron",
+      "fuego",
+      "indiscriminadamente",
+      "víctimas",
+      ".",
+      "saldo",
+      "cinco",
+      "hombres",
+      "dos",
+      "mujeres",
+      "fallecidos",
+      ",",
+      "además",
+      "dos",
+      "menores",
+      "heridos",
+      ".",
+      "ataque",
+      "objetivo",
+      "barbería",
+      ",",
+      "panadería",
+      "vivienda",
+      "ubicadas",
+      "misma",
+      "calle",
+      ".",
+      "según",
+      "informes",
+      "policía",
+      "nacional",
+      ",",
+      "cinco",
+      "miembros",
+      "misma",
+      "familia",
+      "asesinados",
+      "dentro",
+      "casa",
+      ".",
+      "persona",
+      "murió",
+      "barbería",
+      "panadería",
+      ".",
+      "autoridades",
+      "informaron",
+      "víctimas",
+      "antecedentes",
+      "penales",
+      "posesión",
+      "ilícita",
+      ".",
+      "testigos",
+      "sector",
+      "relataron",
+      "ataque",
+      "produjo",
+      "alrededor",
+      "11:30",
+      ",",
+      "coincidiendo",
+      "llegada",
+      "visitantes",
+      "vivienda",
+      ".",
+      "tras",
+      "balacera",
+      ",",
+      "sicarios",
+      "escaparon",
+      "realizando",
+      "disparos",
+      "aire",
+      "disuadir",
+      "cualquier",
+      "intento",
+      "persecución",
+      "parte",
+      "vecinos",
+      ".",
+      "policía",
+      "nacional",
+      "aún",
+      "esclarecido",
+      "motivos",
+      "detrás",
+      "nuevo",
+      "ataque",
+      ".",
+      "embargo",
+      ",",
+      "despliegue",
+      "uniformados",
+      "sido",
+      "enviado",
+      "zona",
+      "garantizar",
+      "seguridad",
+      ",",
+      "dada",
+      "reciente",
+      "ola",
+      "violencia",
+      "distrito",
+      "nueva",
+      "prosperina",
+      ".",
+      "principal",
+      "hipótesis",
+      "apunta",
+      "ajuste",
+      "cuentas",
+      "banda",
+      "criminal",
+      "tiguerones",
+      "fénix",
+      "tiguerones",
+      "igualitos",
+      ",",
+      "mantienen",
+      "disputa",
+      "control",
+      "territorial",
+      ".",
+      "distrito",
+      "nueva",
+      "prosperina",
+      "posiciona",
+      "segundo",
+      "violento",
+      "zona",
+      "8",
+      ",",
+      "superado",
+      "únicamente",
+      "durán",
+      ",",
+      "total",
+      "360",
+      "homicidios",
+      "registrados",
+      "va",
+      "año",
+      "."
+    ],
+    "token_count": 162,
+    "sentence_count": 13
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 32,
+      "NN": 91,
+      "FW": 51,
+      "JJ": 27,
+      "IN": 14,
+      "VBZ": 6,
+      "NNS": 8,
+      "VBP": 6,
+      "CD": 2,
+      "DT": 1,
+      "VBD": 1
+    },
+    "bigram_freq": {
+      "NNP-NN": 14,
+      "NN-NN": 49,
+      "NN-FW": 6,
+      "FW-FW": 32,
+      "FW-JJ": 6,
+      "JJ-NN": 18,
+      "NN-IN": 13,
+      "IN-FW": 9,
+      "FW-NNP": 7,
+      "NNP-NNP": 11,
+      "NNP-VBZ": 5,
+      "VBZ-FW": 3,
+      "FW-NN": 4,
+      "NN-JJ": 10,
+      "NN-NNP": 8,
+      "IN-NN": 2,
+      "NN-NNS": 3,
+      "NNS-VBP": 6,
+      "VBP-NNS": 1,
+      "NNS-JJ": 1,
+      "JJ-FW": 1,
+      "FW-NNS": 1,
+      "VBP-NNP": 1,
+      "JJ-JJ": 3,
+      "IN-JJ": 2,
+      "VBZ-NN": 1,
+      "NNS-NNS": 1,
+      "VBP-JJ": 2,
+      "JJ-NNP": 4,
+      "FW-CD": 1,
+      "CD-NN": 1,
+      "JJ-NNS": 1,
+      "VBP-NN": 1,
+      "VBZ-DT": 1,
+      "DT-NN": 1,
+      "NN-VBZ": 1,
+      "VBZ-JJ": 1,
+      "NNP-JJ": 1,
+      "NNP-VBD": 1,
+      "VBD-JJ": 1,
+      "IN-CD": 1,
+      "CD-NNS": 1,
+      "VBP-IN": 1
+    },
+    "trigram_freq": {
+      "NNP-NN-NN": 8,
+      "NN-NN-NN": 28,
+      "NN-NN-FW": 5,
+      "NN-FW-FW": 4,
+      "FW-FW-JJ": 2,
+      "FW-JJ-NN": 4,
+      "JJ-NN-NN": 8,
+      "NN-NN-IN": 7,
+      "NN-IN-FW": 9,
+      "IN-FW-FW": 5,
+      "FW-FW-FW": 20,
+      "FW-FW-NNP": 7,
+      "FW-NNP-NNP": 4,
+      "NNP-NNP-NNP": 3,
+      "NNP-NNP-VBZ": 3,
+      "NNP-VBZ-FW": 3,
+      "VBZ-FW-FW": 2,
+      "FW-FW-NN": 2,
+      "FW-NN-NN": 1,
+      "NN-NN-JJ": 5,
+      "NN-JJ-NN": 8,
+      "NN-NN-NNP": 2,
+      "NN-NNP-NN": 5,
+      "NN-IN-NN": 1,
+      "IN-NN-NNS": 1,
+      "NN-NNS-VBP": 2,
+      "NNS-VBP-NNS": 1,
+      "VBP-NNS-JJ": 1,
+      "NNS-JJ-FW": 1,
+      "JJ-FW-FW": 1,
+      "FW-FW-NNS": 1,
+      "FW-NNS-VBP": 1,
+      "NNS-VBP-NNP": 1,
+      "VBP-NNP-NN": 1,
+      "NN-JJ-JJ": 1,
+      "JJ-JJ-NN": 2,
+      "JJ-NN-JJ": 3,
+      "NN-FW-NN": 2,
+      "FW-NN-NNP": 1,
+      "NN-NNP-VBZ": 1,
+      "NNP-NNP-NN": 3,
+      "NN-IN-JJ": 2,
+      "IN-JJ-NN": 2,
+      "JJ-NN-IN": 6,
+      "FW-NNP-NN": 2,
+      "FW-NNP-VBZ": 1,
+      "NNP-VBZ-NN": 1,
+      "VBZ-NN-NN": 1,
+      "FW-NN-NNS": 1,
+      "NN-NNS-NNS": 1,
+      "NNS-NNS-VBP": 1,
+      "NNS-VBP-JJ": 2,
+      "VBP-JJ-JJ": 1,
+      "JJ-JJ-NNP": 1,
+      "JJ-NNP-NN": 2,
+      "IN-FW-CD": 1,
+      "FW-CD-NN": 1,
+      "CD-NN-NN": 1,
+      "NN-NN-NNS": 1,
+      "VBP-JJ-NNS": 1,
+      "JJ-NNS-VBP": 1,
+      "NNS-VBP-NN": 1,
+      "VBP-NN-NN": 1,
+      "IN-FW-JJ": 3,
+      "FW-JJ-NNP": 2,
+      "JJ-NNP-NNP": 2,
+      "NNP-VBZ-DT": 1,
+      "VBZ-DT-NN": 1,
+      "DT-NN-VBZ": 1,
+      "NN-VBZ-JJ": 1,
+      "VBZ-JJ-JJ": 1,
+      "JJ-NN-NNP": 1,
+      "NNP-NN-JJ": 2,
+      "FW-NN-FW": 1,
+      "NNP-NNP-JJ": 1,
+      "NNP-JJ-NN": 1,
+      "NNP-NN-NNP": 4,
+      "NN-NNP-NNP": 2,
+      "VBZ-FW-JJ": 1,
+      "NN-JJ-NNP": 1,
+      "NNP-NNP-VBD": 1,
+      "NNP-VBD-JJ": 1,
+      "VBD-JJ-NN": 1,
+      "NN-IN-CD": 1,
+      "IN-CD-NNS": 1,
+      "CD-NNS-VBP": 1,
+      "NNS-VBP-IN": 1,
+      "VBP-IN-NN": 1,
+      "IN-NN-NN": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 91,
+        "FW": 51,
+        "NNP": 32,
+        "JJ": 27,
+        "IN": 14
+      },
+      "top_bigrams": {
+        "NN-NN": 49,
+        "FW-FW": 32,
+        "JJ-NN": 18,
+        "NNP-NN": 14,
+        "NN-IN": 13
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 28,
+        "FW-FW-FW": 20,
+        "NN-IN-FW": 9,
+        "NNP-NN-NN": 8,
+        "JJ-NN-NN": 8
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 13,
+    "chunk_counts": {
+      "NP": 60,
+      "VP": 16,
+      "PP": 2
+    },
+    "top_rules": [
+      {
+        "rule": "S -> NP ('vida', 'FW') ('en', 'FW') NP ('en', 'IN') ('la', 'FW') ('ciudad', 'FW') ('de', 'FW') NP (',', ',') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.011
+      },
+      {
+        "rule": "NP -> ('Siete', 'NNP') ('personas', 'NN') ('perdieron', 'NN') ('la', 'NN')",
+        "frequency": 1,
+        "weight": 0.011
+      },
+      {
+        "rule": "NP -> ('un', 'JJ') ('ataque', 'NN') ('perpetrado', 'NN') ('este', 'NN') ('domingo', 'NN')",
+        "frequency": 1,
+        "weight": 0.011
+      },
+      {
+        "rule": "NP -> ('Guayaquil', 'NNP')",
+        "frequency": 1,
+        "weight": 0.011
+      },
+      {
+        "rule": "NP -> ('Ecuador', 'NNP')",
+        "frequency": 1,
+        "weight": 0.011
+      },
+      {
+        "rule": "S -> NP (',', ',') NP ('de', 'IN') ('motocicletas', 'FW') (',', ',') ('abrieron', 'FW') NP NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.011
+      },
+      {
+        "rule": "NP -> ('Los', 'NNP') ('agresores', 'NNS')",
+        "frequency": 1,
+        "weight": 0.011
+      },
+      {
+        "rule": "NP -> ('a', 'DT') ('bordo', 'NN')",
+        "frequency": 1,
+        "weight": 0.011
+      },
+      {
+        "rule": "NP -> ('fuego', 'NN') ('indiscriminadamente', 'NN')",
+        "frequency": 1,
+        "weight": 0.011
+      },
+      {
+        "rule": "NP -> ('contra', 'JJ') ('sus', 'NN') ('víctimas', 'NN')",
+        "frequency": 1,
+        "weight": 0.011
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Siete personas perdieron la"
+      },
+      {
+        "label": "NP",
+        "text": "un ataque perpetrado este domingo"
+      },
+      {
+        "label": "NP",
+        "text": "Guayaquil"
+      },
+      {
+        "label": "NP",
+        "text": "Ecuador"
+      },
+      {
+        "label": "NP",
+        "text": "Los agresores"
+      },
+      {
+        "label": "NP",
+        "text": "a bordo"
+      },
+      {
+        "label": "NP",
+        "text": "fuego indiscriminadamente"
+      },
+      {
+        "label": "NP",
+        "text": "contra sus víctimas"
+      },
+      {
+        "label": "NP",
+        "text": "El"
+      },
+      {
+        "label": "VP",
+        "text": "saldo"
+      },
+      {
+        "label": "NP",
+        "text": "hombres"
+      },
+      {
+        "label": "VP",
+        "text": "y dos mujeres"
+      },
+      {
+        "label": "NP",
+        "text": "dos mujeres"
+      },
+      {
+        "label": "VP",
+        "text": "fallecidos"
+      },
+      {
+        "label": "NP",
+        "text": "menores"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Siete/NNP personas/NN perdieron/NN la/NN)\n  vida/FW\n  en/FW\n  (NP un/JJ ataque/NN perpetrado/NN este/NN domingo/NN)\n  en/IN\n  la/FW\n  ciudad/FW\n  de/FW\n  (NP Guayaquil/NNP)\n  ,/,\n  (NP Ecuador/NNP)\n  ./.)",
+      "(S\n  (NP Los/NNP agresores/NNS)\n  ,/,\n  (NP a/DT bordo/NN)\n  de/IN\n  motocicletas/FW\n  ,/,\n  abrieron/FW\n  (NP fuego/NN indiscriminadamente/NN)\n  (NP contra/JJ sus/NN víctimas/NN)\n  ./.)",
+      "(S\n  (NP El/NNP)\n  (VP saldo/VBD)\n  fue/FW\n  de/FW\n  cinco/FW\n  (NP hombres/NNS)\n  (VP y/VBP (NP dos/JJ mujeres/NNS))\n  (VP fallecidos/VBP)\n  ,/,\n  además/FW\n  de/FW\n  dos/FW\n  (NP menores/NNS)\n  (VP heridos/VBP)\n  ./.)",
+      "(S\n  (NP El/NNP ataque/NN tuvo/NN como/NN)\n  (NP objetivo/JJ una/JJ barbería/NN)\n  ,/,\n  (NP una/JJ panadería/NN y/NN)\n  (NP una/JJ vivienda/NN)\n  (NP ubicadas/JJ en/NN la/NN)\n  misma/FW\n  (NP calle/NN)\n  ./.)",
+      "(S\n  (NP Según/NNP)\n  (VP informes/VBZ)\n  de/FW\n  la/FW\n  (NP Policía/NNP Nacional/NNP)\n  ,/,\n  (NP cinco/NN)\n  miembros/FW\n  de/FW\n  una/FW\n  misma/FW\n  familia/FW\n  (NP fueron/NN)\n  asesinados/FW\n  dentro/FW\n  de/FW\n  la/FW\n  (NP casa/NN)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "CIUDADES_CAPITALES",
+      "GRUPOS_ESPECIFICOS",
+      "ANTIIMPERIALISMO_SOBERANIA",
+      "REGIONES_PROVINCIAS",
+      "PAISES",
+      "LOCALIZACIONES_ESPECIFICAS",
+      "INFRAESTRUCTURA_SERVICIOS",
+      "CONFLICTOS_ARMADOS_OPERACIONES",
+      "VIOLENCIA_CRIMEN_DERECHOS_HUMANOS"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "policía nacional aún no ha esclarecido los motivos detrás de este nuevo ataque",
+        "position": [
+          943,
+          1021
+        ],
+        "start": 943,
+        "end": 1021
+      },
+      {
+        "category": "VIOLENCIA_CRIMEN_DERECHOS_HUMANOS",
+        "matched_text": "banda criminal",
+        "position": [
+          1250,
+          1264
+        ],
+        "start": 1250,
+        "end": 1264
+      },
+      {
+        "category": "VIOLENCIA_CRIMEN_DERECHOS_HUMANOS",
+        "matched_text": "ajuste de cuentas",
+        "position": [
+          1223,
+          1240
+        ],
+        "start": 1223,
+        "end": 1240
+      },
+      {
+        "category": "GRUPOS_ESPECIFICOS",
+        "matched_text": "mujeres",
+        "position": [
+          238,
+          245
+        ],
+        "start": 238,
+        "end": 245
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "calle",
+        "position": [
+          382,
+          387
+        ],
+        "start": 382,
+        "end": 387
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "ecuador",
+        "position": [
+          97,
+          104
+        ],
+        "start": 97,
+        "end": 104
+      },
+      {
+        "category": "CIUDADES_CAPITALES",
+        "matched_text": "guayaquil",
+        "position": [
+          86,
+          95
+        ],
+        "start": 86,
+        "end": 95
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "zona para",
+        "position": [
+          1086,
+          1095
+        ],
+        "start": 1086,
+        "end": 1095
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "calle. según",
+        "position": [
+          382,
+          394
+        ],
+        "start": 382,
+        "end": 394
+      },
+      {
+        "category": "ANTIIMPERIALISMO_SOBERANIA",
+        "matched_text": "embargo",
+        "position": [
+          1027,
+          1034
+        ],
+        "start": 1027,
+        "end": 1034
+      }
+    ],
+    "match_count": 10
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Ecuador",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Tiguerones Igualitos",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Guayaquil",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Durán",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Testigos",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Tiguerones Fénix",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Zona 8",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Policía Nacional",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Nueva Prosperina",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Nueva Prosperina",
+        "relacion": "POSICIONAR",
+        "objeto": "Zona 8"
+      },
+      {
+        "sujeto": "Nueva Prosperina",
+        "relacion": "POSICIONAR",
+        "objeto": "Durán"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.6597,
+    "pos": 0.019,
+    "neu": 0.944,
+    "neg": 0.037,
+    "label": "negative"
+  }
+}

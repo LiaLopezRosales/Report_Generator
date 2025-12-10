@@ -1,0 +1,857 @@
+{
+  "url": "https://www.telesurtv.net/estados-unidos-bombardea-supuestas-posiciones-huties-en-la-capital-de-yemen/",
+  "title": "Estados Unidos bombardea supuestas posiciones hutíes en la capital de Yemen - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Bombardeo EEUU",
+    "Capital Yemení",
+    "hutíes",
+    "Saná"
+  ],
+  "text": "Aviones cazas estadounidenses atacaron el sábado la capital de Yemen, Saná en respuesta al lanzamiento de un misil por parte de las fuerzas yemeníes contra la ciudad israelí de Tel Aviv, en el marco de sus operaciones de apoyo al pueblo palestino.\nSegún medios locales, los residentes de la capital yemení reportaron haber escuchado a aviones militares sobrevolando la zona durante el bombardeo, generando pánico entre la población.\nEn un principio, surgieron especulaciones sobre la posible autoría del bombardeo a Israel. Sin embargo, desde Tel Aviv negaron cualquier participación en la agresión. Además, fuentes citadas por el diario israelí The Times of Israel señalaron que los ataques fueron llevados a cabo por Estados Unidos.\nPosteriormente, la televisión yemení Al-Masirah indicó que la agresión militar fue llevada a cabo por EE.UU. y el Reino Unido contra el área de Attan, en las afueras de la capital, Saná.\nMinutos después del ataque, el Ministerio de Información del gobierno yemení indicó en un mensaje por Telegram: “Está claro que los estadounidenses no han aprendido de sus errores y seguirán cosechando humillaciones a manos de nosotros, los yemenitas”.\nDesde el Comando Central de EE.UU. (Centcom, por sus siglas en inglés) explicó que los ataques fueron realizados en una operación conjunta que contó con la participación de la Fuerza Aérea y la Marina del país norteamericano, incluyendo aviones militares F-18.\nEl Centcom señaló que el ataque buscaba diezmar las operaciones de los hutíes como ataques contra buques de guerra y buques mercantes de la Armada de EE.UU. en el sur del mar Rojo.\nHasta el momento, se desconoce si hay víctimas por esta acción, que se produce tres días después de que el Ejército israelí atacará tres puertos yemeníes en el mar Rojo.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/estados-unidos-bombardea-supuestas-posiciones-huties-en-la-capital-de-yemen/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-12.json",
+    "message_index": 528,
+    "message_id": 82855,
+    "date": "2024-12-22T06:55:07+00:00",
+    "text": "teleSUR\nEstados Unidos bombardea supuestas posiciones hutíes en la capital de Yemen\nhttps://www.telesurtv.net/estados-unidos-bombardea-supuestas-posiciones-huties-en-la-capital-de-yemen/",
+    "photo_path": null,
+    "views": 2195,
+    "reactions": {
+      "🤬": 48,
+      "👎": 3,
+      "👍": 2,
+      "🔥": 2
+    },
+    "total_reactions": 55
+  },
+  "preprocessing": {
+    "cleaned": "aviones cazas estadounidenses atacaron el sábado la capital de yemen, saná en respuesta al lanzamiento de un misil por parte de las fuerzas yemeníes contra la ciudad israelí de tel aviv, en el marco de sus operaciones de apoyo al pueblo palestino. según medios locales, los residentes de la capital yemení reportaron haber escuchado a aviones militares sobrevolando la zona durante el bombardeo, generando pánico entre la población. en un principio, surgieron especulaciones sobre la posible autoría del bombardeo a israel. sin embargo, desde tel aviv negaron cualquier participación en la agresión. además, fuentes citadas por el diario israelí the times of israel señalaron que los ataques fueron llevados a cabo por estados unidos. posteriormente, la televisión yemení al-masirah indicó que la agresión militar fue llevada a cabo por ee.uu. y el reino unido contra el área de attan, en las afueras de la capital, saná. minutos después del ataque, el ministerio de información del gobierno yemení indicó en un mensaje por telegram: “está claro que los estadounidenses no han aprendido de sus errores y seguirán cosechando humillaciones a manos de nosotros, los yemenitas”. desde el comando central de ee.uu. (centcom, por sus siglas en inglés) explicó que los ataques fueron realizados en una operación conjunta que contó con la participación de la fuerza aérea y la marina del país norteamericano, incluyendo aviones militares f-18. el centcom señaló que el ataque buscaba diezmar las operaciones de los hutíes como ataques contra buques de guerra y buques mercantes de la armada de ee.uu. en el sur del mar rojo. hasta el momento, se desconoce si hay víctimas por esta acción, que se produce tres días después de que el ejército israelí atacará tres puertos yemeníes en el mar rojo.",
+    "tokens": [
+      "aviones",
+      "cazas",
+      "estadounidenses",
+      "atacaron",
+      "sábado",
+      "capital",
+      "yemen",
+      ",",
+      "saná",
+      "respuesta",
+      "lanzamiento",
+      "misil",
+      "parte",
+      "fuerzas",
+      "yemeníes",
+      "ciudad",
+      "israelí",
+      "tel",
+      "aviv",
+      ",",
+      "marco",
+      "operaciones",
+      "apoyo",
+      "pueblo",
+      "palestino",
+      ".",
+      "según",
+      "medios",
+      "locales",
+      ",",
+      "residentes",
+      "capital",
+      "yemení",
+      "reportaron",
+      "haber",
+      "escuchado",
+      "aviones",
+      "militares",
+      "sobrevolando",
+      "zona",
+      "bombardeo",
+      ",",
+      "generando",
+      "pánico",
+      "población",
+      ".",
+      "principio",
+      ",",
+      "surgieron",
+      "especulaciones",
+      "posible",
+      "autoría",
+      "bombardeo",
+      "israel",
+      ".",
+      "embargo",
+      ",",
+      "tel",
+      "aviv",
+      "negaron",
+      "cualquier",
+      "participación",
+      "agresión",
+      ".",
+      "además",
+      ",",
+      "fuentes",
+      "citadas",
+      "diario",
+      "israelí",
+      "the",
+      "times",
+      "of",
+      "israel",
+      "señalaron",
+      "ataques",
+      "llevados",
+      "cabo",
+      "unidos",
+      ".",
+      "posteriormente",
+      ",",
+      "televisión",
+      "yemení",
+      "al-masirah",
+      "indicó",
+      "agresión",
+      "militar",
+      "llevada",
+      "cabo",
+      "ee.uu.",
+      "reino",
+      "unido",
+      "área",
+      "attan",
+      ",",
+      "afueras",
+      "capital",
+      ",",
+      "saná",
+      ".",
+      "minutos",
+      "después",
+      "ataque",
+      ",",
+      "ministerio",
+      "información",
+      "gobierno",
+      "yemení",
+      "indicó",
+      "mensaje",
+      "telegram",
+      ":",
+      "“",
+      "claro",
+      "estadounidenses",
+      "aprendido",
+      "errores",
+      "seguirán",
+      "cosechando",
+      "humillaciones",
+      "manos",
+      ",",
+      "yemenitas",
+      "”",
+      ".",
+      "comando",
+      "central",
+      "ee.uu.",
+      "(",
+      "centcom",
+      ",",
+      "siglas",
+      "inglés",
+      ")",
+      "explicó",
+      "ataques",
+      "realizados",
+      "operación",
+      "conjunta",
+      "contó",
+      "participación",
+      "fuerza",
+      "aérea",
+      "marina",
+      "país",
+      "norteamericano",
+      ",",
+      "incluyendo",
+      "aviones",
+      "militares",
+      "f-18",
+      ".",
+      "centcom",
+      "señaló",
+      "ataque",
+      "buscaba",
+      "diezmar",
+      "operaciones",
+      "hutíes",
+      "ataques",
+      "buques",
+      "guerra",
+      "buques",
+      "mercantes",
+      "armada",
+      "ee.uu.",
+      "sur",
+      "mar",
+      "rojo",
+      ".",
+      "momento",
+      ",",
+      "desconoce",
+      "si",
+      "víctimas",
+      "acción",
+      ",",
+      "produce",
+      "tres",
+      "días",
+      "después",
+      "ejército",
+      "israelí",
+      "atacará",
+      "tres",
+      "puertos",
+      "yemeníes",
+      "mar",
+      "rojo",
+      "."
+    ],
+    "token_count": 191,
+    "sentence_count": 10
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNS": 19,
+      "VBP": 12,
+      "JJ": 24,
+      "NN": 87,
+      "IN": 11,
+      "NNP": 48,
+      "FW": 64,
+      "VBZ": 8,
+      "RB": 2,
+      "JJR": 1,
+      "DT": 2,
+      "VBD": 1
+    },
+    "bigram_freq": {
+      "NNS-VBP": 9,
+      "VBP-NNS": 3,
+      "VBP-JJ": 4,
+      "JJ-NN": 12,
+      "NN-JJ": 5,
+      "NN-IN": 6,
+      "IN-NNP": 3,
+      "NNP-NNP": 19,
+      "NNP-FW": 9,
+      "FW-NN": 9,
+      "NN-NN": 50,
+      "NN-FW": 6,
+      "FW-FW": 39,
+      "FW-JJ": 4,
+      "JJ-FW": 2,
+      "NN-NNP": 10,
+      "NNP-NNS": 1,
+      "NNS-VBZ": 3,
+      "VBZ-JJ": 2,
+      "JJ-NNS": 4,
+      "NNS-IN": 2,
+      "IN-FW": 4,
+      "NNS-NNS": 1,
+      "JJ-NNP": 2,
+      "NNP-NN": 10,
+      "NN-NNS": 6,
+      "VBP-NN": 4,
+      "JJ-JJ": 2,
+      "NNP-RB": 1,
+      "RB-JJR": 1,
+      "JJR-NN": 1,
+      "FW-NNP": 10,
+      "NNP-VBZ": 3,
+      "VBZ-NNS": 1,
+      "NNS-JJ": 1,
+      "JJ-VBP": 1,
+      "NN-DT": 1,
+      "DT-NNP": 1,
+      "NNP-IN": 1,
+      "NNP-VBD": 1,
+      "VBD-JJ": 1,
+      "NNP-JJ": 1,
+      "VBZ-FW": 2,
+      "IN-JJ": 3,
+      "NN-VBZ": 2,
+      "VBZ-DT": 1,
+      "DT-JJ": 1,
+      "IN-NN": 1,
+      "NNS-FW": 2,
+      "FW-NNS": 2,
+      "NNS-NNP": 1,
+      "NNP-VBP": 1,
+      "VBP-NNP": 1,
+      "VBZ-NNP": 1,
+      "VBZ-IN": 1,
+      "NN-VBP": 1,
+      "JJ-RB": 1,
+      "RB-IN": 1
+    },
+    "trigram_freq": {
+      "NNS-VBP-NNS": 2,
+      "VBP-NNS-VBP": 2,
+      "NNS-VBP-JJ": 4,
+      "VBP-JJ-NN": 2,
+      "JJ-NN-JJ": 1,
+      "NN-JJ-NN": 2,
+      "JJ-NN-IN": 3,
+      "NN-IN-NNP": 2,
+      "IN-NNP-NNP": 3,
+      "NNP-NNP-FW": 4,
+      "NNP-FW-NN": 3,
+      "FW-NN-NN": 5,
+      "NN-NN-FW": 2,
+      "NN-FW-FW": 3,
+      "FW-FW-FW": 28,
+      "FW-FW-JJ": 1,
+      "FW-JJ-FW": 1,
+      "JJ-FW-JJ": 1,
+      "FW-JJ-NN": 3,
+      "NNP-FW-FW": 3,
+      "FW-FW-NN": 3,
+      "NN-NN-NNP": 7,
+      "NN-NNP-NNS": 1,
+      "NNP-NNS-VBZ": 1,
+      "NNS-VBZ-JJ": 1,
+      "VBZ-JJ-NNS": 1,
+      "JJ-NNS-IN": 2,
+      "NNS-IN-FW": 2,
+      "IN-FW-NN": 1,
+      "NN-NN-NN": 29,
+      "NN-NN-JJ": 3,
+      "NN-JJ-NNS": 2,
+      "JJ-NNS-NNS": 1,
+      "NNS-NNS-VBP": 1,
+      "VBP-JJ-NNP": 1,
+      "JJ-NNP-NN": 2,
+      "NNP-NN-NN": 9,
+      "NN-NNP-NN": 2,
+      "NN-NN-NNS": 3,
+      "NN-NNS-VBP": 5,
+      "NNS-VBP-NN": 3,
+      "VBP-NN-JJ": 1,
+      "NN-JJ-JJ": 1,
+      "JJ-JJ-NN": 1,
+      "JJ-NN-NN": 6,
+      "NN-NNP-NNP": 6,
+      "NNP-NNP-NN": 5,
+      "NNP-NNP-RB": 1,
+      "NNP-RB-JJR": 1,
+      "RB-JJR-NN": 1,
+      "JJR-NN-IN": 1,
+      "NN-IN-FW": 1,
+      "IN-FW-FW": 1,
+      "FW-FW-NNP": 5,
+      "FW-NNP-VBZ": 1,
+      "NNP-VBZ-NNS": 1,
+      "VBZ-NNS-JJ": 1,
+      "NNS-JJ-VBP": 1,
+      "JJ-VBP-NN": 1,
+      "VBP-NN-NN": 1,
+      "NN-NN-DT": 1,
+      "NN-DT-NNP": 1,
+      "DT-NNP-IN": 1,
+      "NNP-IN-NNP": 1,
+      "NNP-NNP-NNP": 5,
+      "NNP-NNP-VBD": 1,
+      "NNP-VBD-JJ": 1,
+      "VBD-JJ-NNP": 1,
+      "NNP-NN-NNP": 1,
+      "NNP-NNP-JJ": 1,
+      "NNP-JJ-JJ": 1,
+      "JJ-JJ-FW": 1,
+      "JJ-FW-FW": 1,
+      "FW-NNP-FW": 5,
+      "FW-NN-NNP": 1,
+      "NNP-NNP-VBZ": 2,
+      "NNP-VBZ-FW": 2,
+      "VBZ-FW-NN": 1,
+      "FW-NN-FW": 2,
+      "NN-FW-NNP": 1,
+      "NNP-FW-NNP": 3,
+      "NN-NN-IN": 2,
+      "NN-IN-JJ": 2,
+      "IN-JJ-NN": 3,
+      "NN-NN-VBZ": 2,
+      "NN-VBZ-DT": 1,
+      "VBZ-DT-JJ": 1,
+      "DT-JJ-NN": 1,
+      "NN-IN-NN": 1,
+      "IN-NN-NNS": 1,
+      "VBP-JJ-NNS": 1,
+      "JJ-NNS-FW": 1,
+      "NNS-FW-FW": 2,
+      "FW-FW-NNS": 2,
+      "FW-NNS-NNP": 1,
+      "NNS-NNP-VBP": 1,
+      "NNP-VBP-NNP": 1,
+      "VBP-NNP-NNP": 1,
+      "FW-NNP-NNP": 3,
+      "VBP-NN-FW": 2,
+      "NN-FW-JJ": 1,
+      "NN-FW-NN": 1,
+      "FW-NN-NNS": 1,
+      "NN-NNS-VBZ": 1,
+      "NNS-VBZ-NNP": 1,
+      "VBZ-NNP-NNP": 1,
+      "IN-FW-JJ": 1,
+      "JJ-NN-NNS": 1,
+      "VBP-NNS-FW": 1,
+      "FW-NNS-VBZ": 1,
+      "NNS-VBZ-IN": 1,
+      "VBZ-IN-FW": 1,
+      "IN-FW-NNP": 1,
+      "VBZ-FW-FW": 1,
+      "NN-NN-VBP": 1,
+      "NN-VBP-NNS": 1,
+      "FW-NNP-NN": 1,
+      "NN-VBZ-JJ": 1,
+      "VBZ-JJ-RB": 1,
+      "JJ-RB-IN": 1,
+      "RB-IN-JJ": 1,
+      "JJ-NN-NNP": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 87,
+        "FW": 64,
+        "NNP": 48,
+        "JJ": 24,
+        "NNS": 19
+      },
+      "top_bigrams": {
+        "NN-NN": 50,
+        "FW-FW": 39,
+        "NNP-NNP": 19,
+        "JJ-NN": 12,
+        "NN-NNP": 10
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 29,
+        "FW-FW-FW": 28,
+        "NNP-NN-NN": 9,
+        "NN-NN-NNP": 7,
+        "JJ-NN-NN": 6
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 10,
+    "chunk_counts": {
+      "NP": 81,
+      "VP": 23,
+      "PP": 8,
+      "ADJP": 2
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 4,
+        "weight": 0.0323
+      },
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 3,
+        "weight": 0.0242
+      },
+      {
+        "rule": "NP -> ('Saná', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0161
+      },
+      {
+        "rule": "NP -> ('la', 'NN')",
+        "frequency": 2,
+        "weight": 0.0161
+      },
+      {
+        "rule": "NP -> ('EE.UU.', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0161
+      },
+      {
+        "rule": "NP -> ('buques', 'NNS')",
+        "frequency": 2,
+        "weight": 0.0161
+      },
+      {
+        "rule": "S -> NP VP VP PP (',', ',') NP ('en', 'FW') NP ('lanzamiento', 'FW') ('de', 'FW') ('un', 'FW') ('misil', 'FW') ('por', 'FW') ('parte', 'FW') ('de', 'FW') ('las', 'FW') ('fuerzas', 'FW') ('yemeníes', 'FW') ADJP ('la', 'FW') NP PP (',', ',') ('en', 'FW') ('el', 'FW') ('marco', 'FW') ('de', 'FW') ('sus', 'FW') ('operaciones', 'FW') ('de', 'FW') ('apoyo', 'FW') ('al', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0081
+      },
+      {
+        "rule": "NP -> ('Aviones', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0081
+      },
+      {
+        "rule": "VP -> ('cazas', 'VBP') NP",
+        "frequency": 1,
+        "weight": 0.0081
+      },
+      {
+        "rule": "NP -> ('estadounidenses', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0081
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Aviones"
+      },
+      {
+        "label": "VP",
+        "text": "cazas estadounidenses"
+      },
+      {
+        "label": "NP",
+        "text": "estadounidenses"
+      },
+      {
+        "label": "VP",
+        "text": "atacaron el sábado la capital"
+      },
+      {
+        "label": "NP",
+        "text": "el sábado"
+      },
+      {
+        "label": "NP",
+        "text": "la capital"
+      },
+      {
+        "label": "PP",
+        "text": "de Yemen"
+      },
+      {
+        "label": "NP",
+        "text": "Yemen"
+      },
+      {
+        "label": "NP",
+        "text": "Saná"
+      },
+      {
+        "label": "NP",
+        "text": "respuesta al"
+      },
+      {
+        "label": "ADJP",
+        "text": "contra"
+      },
+      {
+        "label": "NP",
+        "text": "ciudad israelí"
+      },
+      {
+        "label": "PP",
+        "text": "de Tel Aviv"
+      },
+      {
+        "label": "NP",
+        "text": "Tel Aviv"
+      },
+      {
+        "label": "NP",
+        "text": "pueblo palestino"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Aviones/NNS)\n  (VP cazas/VBP (NP estadounidenses/NNS))\n  (VP atacaron/VBP (NP el/JJ sábado/NN) (NP la/JJ capital/NN))\n  (PP de/IN (NP Yemen/NNP))\n  ,/,\n  (NP Saná/NNP)\n  en/FW\n  (NP respuesta/NN al/NN)\n  lanzamiento/FW\n  de/FW\n  un/FW\n  misil/FW\n  por/FW\n  parte/FW\n  de/FW\n  las/FW\n  fuerzas/FW\n  yemeníes/FW\n  (ADJP contra/JJ)\n  la/FW\n  (NP ciudad/JJ israelí/NN)\n  (PP de/IN (NP Tel/NNP Aviv/NNP))\n  ,/,\n  en/FW\n  el/FW\n  marco/FW\n  de/FW\n  sus/FW\n  operaciones/FW\n  de/FW\n  apoyo/FW\n  al/FW\n  (NP pueblo/NN palestino/NN)\n  ./.)",
+      "(S\n  (NP Según/NNP medios/NNS locales/NNS)\n  ,/,\n  (NP los/JJ residentes/NNS)\n  de/IN\n  la/FW\n  (NP capital/NN yemení/NN reportaron/NN haber/NN)\n  (VP escuchado/VBZ (NP a/DT aviones/JJ militares/NNS))\n  (VP\n    sobrevolando/VBP\n    (NP la/JJ zona/NNP durante/NN el/NN bombardeo/NN))\n  ,/,\n  (NP generando/NN pánico/NN entre/NN la/NN población/NN)\n  ./.)",
+      "(S\n  (NP En/NNP)\n  (NP un/JJ principio/NN)\n  ,/,\n  (NP surgieron/NN especulaciones/NNS)\n  (VP\n    sobre/VBP\n    (NP la/NN)\n    (NP posible/JJ autoría/JJ del/NN bombardeo/NN)\n    (NP a/DT Israel/NNP))\n  ./.)",
+      "(S\n  (NP Sin/NNP embargo/NN)\n  ,/,\n  (NP desde/JJ Tel/NNP Aviv/NNP)\n  negaron/RB\n  (NP cualquier/JJR participación/NN)\n  (PP en/IN (NP la/NN agresión/NN))\n  ./.)",
+      "(S\n  (NP Además/NNP)\n  ,/,\n  (VP fuentes/VBZ (NP citadas/NNS) por/JJ)\n  (VP el/VBP (NP diario/NN israelí/NN) (NP The/DT Times/NNP))\n  (PP of/IN (NP Israel/NNP señalaron/NNP que/NN los/NN ataques/NNS))\n  (VP fueron/VBP)\n  (VP llevados/VBZ (NP a/DT cabo/NN por/NN Estados/NNP Unidos/NNP))\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "RECURSOS_NATURALES",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "MEDIOS_COMUNICACION",
+      "ANTIIMPERIALISMO_SOBERANIA",
+      "REGIONES_PROVINCIAS",
+      "PAISES",
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "CONFLICTOS_ARMADOS_OPERACIONES"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "agresión militar",
+        "position": [
+          797,
+          813
+        ],
+        "start": 797,
+        "end": 813
+      },
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "guerra y buques mercantes de la armada de ee.uu. en el",
+        "position": [
+          1544,
+          1598
+        ],
+        "start": 1544,
+        "end": 1598
+      },
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "capital",
+        "position": [
+          52,
+          59
+        ],
+        "start": 52,
+        "end": 59
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "señaló",
+        "position": [
+          1447,
+          1453
+        ],
+        "start": 1447,
+        "end": 1453
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "explicó",
+        "position": [
+          1246,
+          1253
+        ],
+        "start": 1246,
+        "end": 1253
+      },
+      {
+        "category": "MEDIOS_COMUNICACION",
+        "matched_text": "diario israelí the",
+        "position": [
+          631,
+          649
+        ],
+        "start": 631,
+        "end": 649
+      },
+      {
+        "category": "RECURSOS_NATURALES",
+        "matched_text": "mar",
+        "position": [
+          1607,
+          1610
+        ],
+        "start": 1607,
+        "end": 1610
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "estados unidos",
+        "position": [
+          719,
+          733
+        ],
+        "start": 719,
+        "end": 733
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "israelí",
+        "position": [
+          166,
+          173
+        ],
+        "start": 166,
+        "end": 173
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "zona durante",
+        "position": [
+          369,
+          381
+        ],
+        "start": 369,
+        "end": 381
+      },
+      {
+        "category": "ANTIIMPERIALISMO_SOBERANIA",
+        "matched_text": "embargo",
+        "position": [
+          528,
+          535
+        ],
+        "start": 528,
+        "end": 535
+      }
+    ],
+    "match_count": 11
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "EE.UU.",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Fuerza Aérea",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Marina",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Saná",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Estados Unidos",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "El Centcom",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "mar Rojo",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Israel",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "The Times of Israel",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Reino Unido",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Centcom",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Ministerio de Información",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Comando Central",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Yemen",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Tel Aviv",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Attan",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Yemen",
+        "relacion": "ATACAR",
+        "objeto": "Tel Aviv"
+      },
+      {
+        "sujeto": "Saná",
+        "relacion": "ATACAR",
+        "objeto": "Tel Aviv"
+      },
+      {
+        "sujeto": "The Times of Israel",
+        "relacion": "SE_ALAR",
+        "objeto": "Estados Unidos"
+      },
+      {
+        "sujeto": "EE.UU.",
+        "relacion": "LLEVAR_INDICAR",
+        "objeto": "Attan"
+      },
+      {
+        "sujeto": "EE.UU.",
+        "relacion": "LLEVAR_INDICAR",
+        "objeto": "Saná"
+      },
+      {
+        "sujeto": "Reino Unido",
+        "relacion": "LLEVAR_INDICAR",
+        "objeto": "Attan"
+      },
+      {
+        "sujeto": "Reino Unido",
+        "relacion": "LLEVAR_INDICAR",
+        "objeto": "Saná"
+      },
+      {
+        "sujeto": "Attan",
+        "relacion": "LLEVAR_INDICAR",
+        "objeto": "Saná"
+      },
+      {
+        "sujeto": "Comando Central",
+        "relacion": "EXPLICAR",
+        "objeto": "Fuerza Aérea"
+      },
+      {
+        "sujeto": "Comando Central",
+        "relacion": "EXPLICAR",
+        "objeto": "Marina"
+      },
+      {
+        "sujeto": "EE.UU.",
+        "relacion": "EXPLICAR",
+        "objeto": "Fuerza Aérea"
+      },
+      {
+        "sujeto": "EE.UU.",
+        "relacion": "EXPLICAR",
+        "objeto": "Marina"
+      },
+      {
+        "sujeto": "Centcom",
+        "relacion": "EXPLICAR",
+        "objeto": "Fuerza Aérea"
+      },
+      {
+        "sujeto": "Centcom",
+        "relacion": "EXPLICAR",
+        "objeto": "Marina"
+      },
+      {
+        "sujeto": "El Centcom",
+        "relacion": "SE_ALAR",
+        "objeto": "mar Rojo"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.7003,
+    "pos": 0.0,
+    "neu": 0.979,
+    "neg": 0.021,
+    "label": "negative"
+  }
+}

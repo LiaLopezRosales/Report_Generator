@@ -1,0 +1,779 @@
+{
+  "url": "https://www.telesurtv.net/fuerzas-israelies-asesinan-a-jovenes-palestinos-en-cisjordania/",
+  "title": "Fuerzas israelíes asesinan a jóvenes palestinos en Cisjordania - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Asesinados",
+    "Cisjordania",
+    "genocidio",
+    "Palestina"
+  ],
+  "text": "Autoridades y medios palestinos informaron este jueves que tres jóvenes fueron asesinados por las fuerzas de ocupación israelíes en la ciudad de Qabatiya, al norte de la Cisjordania ocupada.\nAl irrumpir en la ciudad, las fuerzas israelíes violentaron una casa y la bombardearon con misiles antes de demolerla, asesinando a dos palestinos que se encontraban dentro, quienes aún no han sido identificados.\nEl ataque israelí también provocó enfrentamientos violentos en la zona, durante los cuales las fuerzas israelíes dispararon con munición real contra la casa y contra los transeúntes.\nDe acuerdo con WAFA, la topadora del Ejército israelí profanó el cuerpo de uno de los asesinados, sacándolo del interior de la casa sitiada “de una manera extremadamente humillante”.\nEntre tanto, el gobernador de Jenin, Kamel Abu al-Rob, precisó a WAFA que el ejército de ocupación retuvo los cuerpos de dos de los tres mártires, mientras que la Media Luna Roja Palestina declaró que sus equipos en Jenin transportaron al hospital a una tercera persona asesinada por tropas israelíes en Qabatiya.\nPor otra parte, el director del Hospital Al-Razi en Jenin, Fawaz Hamad, identificó a la víctima como Qais Mohammed Zakarneh, un joven de 21 años de edad que había recibido un disparo en la cabeza.\nDurante los enfrentamientos en Qabatiya, un cuarto joven sufrió heridas por metralla de munición real en la espalda.\nLa actual agresión israelí contra el pueblo palestino en Gaza, que comenzó el 7 de octubre de 2023, ha dejado también 544 personas asesinadas en Cisjordania, incluida Jerusalén ocupada.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/fuerzas-israelies-asesinan-a-jovenes-palestinos-en-cisjordania/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-06.json",
+    "message_index": 586,
+    "message_id": 72157,
+    "date": "2024-06-14T01:55:07+00:00",
+    "text": "teleSURtv.net\nFuerzas israelíes asesinan a jóvenes palestinos en Cisjordania\nhttps://www.telesurtv.net/fuerzas-israelies-asesinan-a-jovenes-palestinos-en-cisjordania/",
+    "photo_path": null,
+    "views": 1505,
+    "reactions": {},
+    "total_reactions": 0
+  },
+  "preprocessing": {
+    "cleaned": "autoridades y medios palestinos informaron este jueves que tres jóvenes fueron asesinados por las fuerzas de ocupación israelíes en la ciudad de qabatiya, al norte de la cisjordania ocupada. al irrumpir en la ciudad, las fuerzas israelíes violentaron una casa y la bombardearon con misiles antes de demolerla, asesinando a dos palestinos que se encontraban dentro, quienes aún no han sido identificados. el ataque israelí también provocó enfrentamientos violentos en la zona, durante los cuales las fuerzas israelíes dispararon con munición real contra la casa y contra los transeúntes. de acuerdo con wafa, la topadora del ejército israelí profanó el cuerpo de uno de los asesinados, sacándolo del interior de la casa sitiada “de una manera extremadamente humillante”. entre tanto, el gobernador de jenin, kamel abu al-rob, precisó a wafa que el ejército de ocupación retuvo los cuerpos de dos de los tres mártires, mientras que la media luna roja palestina declaró que sus equipos en jenin transportaron al hospital a una tercera persona asesinada por tropas israelíes en qabatiya. por otra parte, el director del hospital al-razi en jenin, fawaz hamad, identificó a la víctima como qais mohammed zakarneh, un joven de 21 años de edad que había recibido un disparo en la cabeza. durante los enfrentamientos en qabatiya, un cuarto joven sufrió heridas por metralla de munición real en la espalda. la actual agresión israelí contra el pueblo palestino en gaza, que comenzó el 7 de octubre de 2023, ha dejado también 544 personas asesinadas en cisjordania, incluida jerusalén ocupada.",
+    "tokens": [
+      "autoridades",
+      "medios",
+      "palestinos",
+      "informaron",
+      "jueves",
+      "tres",
+      "jóvenes",
+      "asesinados",
+      "fuerzas",
+      "ocupación",
+      "israelíes",
+      "ciudad",
+      "qabatiya",
+      ",",
+      "norte",
+      "cisjordania",
+      "ocupada",
+      ".",
+      "irrumpir",
+      "ciudad",
+      ",",
+      "fuerzas",
+      "israelíes",
+      "violentaron",
+      "casa",
+      "bombardearon",
+      "misiles",
+      "demolerla",
+      ",",
+      "asesinando",
+      "dos",
+      "palestinos",
+      "encontraban",
+      "dentro",
+      ",",
+      "aún",
+      "sido",
+      "identificados",
+      ".",
+      "ataque",
+      "israelí",
+      "provocó",
+      "enfrentamientos",
+      "violentos",
+      "zona",
+      ",",
+      "cuales",
+      "fuerzas",
+      "israelíes",
+      "dispararon",
+      "munición",
+      "real",
+      "casa",
+      "transeúntes",
+      ".",
+      "acuerdo",
+      "wafa",
+      ",",
+      "topadora",
+      "ejército",
+      "israelí",
+      "profanó",
+      "cuerpo",
+      "asesinados",
+      ",",
+      "sacándolo",
+      "interior",
+      "casa",
+      "sitiada",
+      "“",
+      "manera",
+      "extremadamente",
+      "humillante",
+      "”",
+      ".",
+      ",",
+      "gobernador",
+      "jenin",
+      ",",
+      "kamel",
+      "abu",
+      "al-rob",
+      ",",
+      "precisó",
+      "wafa",
+      "ejército",
+      "ocupación",
+      "retuvo",
+      "cuerpos",
+      "dos",
+      "tres",
+      "mártires",
+      ",",
+      "mientras",
+      "media",
+      "luna",
+      "roja",
+      "palestina",
+      "declaró",
+      "equipos",
+      "jenin",
+      "transportaron",
+      "hospital",
+      "tercera",
+      "persona",
+      "asesinada",
+      "tropas",
+      "israelíes",
+      "qabatiya",
+      ".",
+      "parte",
+      ",",
+      "director",
+      "hospital",
+      "al-razi",
+      "jenin",
+      ",",
+      "fawaz",
+      "hamad",
+      ",",
+      "identificó",
+      "víctima",
+      "qais",
+      "mohammed",
+      "zakarneh",
+      ",",
+      "joven",
+      "21",
+      "años",
+      "edad",
+      "recibido",
+      "disparo",
+      "cabeza",
+      ".",
+      "enfrentamientos",
+      "qabatiya",
+      ",",
+      "cuarto",
+      "joven",
+      "sufrió",
+      "heridas",
+      "metralla",
+      "munición",
+      "real",
+      "espalda",
+      ".",
+      "actual",
+      "agresión",
+      "israelí",
+      "pueblo",
+      "palestino",
+      "gaza",
+      ",",
+      "comenzó",
+      "7",
+      "octubre",
+      "2023",
+      ",",
+      "dejado",
+      "544",
+      "personas",
+      "asesinadas",
+      "cisjordania",
+      ",",
+      "incluida",
+      "jerusalén",
+      "ocupada",
+      "."
+    ],
+    "token_count": 168,
+    "sentence_count": 8
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 34,
+      "NNS": 13,
+      "VBP": 7,
+      "JJ": 30,
+      "NN": 84,
+      "IN": 12,
+      "FW": 50,
+      "MD": 2,
+      "VB": 2,
+      "VBZ": 3,
+      "DT": 1,
+      "CD": 3,
+      "VBD": 2,
+      "RB": 1
+    },
+    "bigram_freq": {
+      "NNP-NNS": 1,
+      "NNS-VBP": 6,
+      "VBP-JJ": 4,
+      "JJ-NN": 19,
+      "NN-NNS": 5,
+      "NNS-JJ": 2,
+      "JJ-NNS": 2,
+      "NNS-NNS": 1,
+      "VBP-IN": 1,
+      "IN-FW": 6,
+      "FW-NN": 7,
+      "NN-FW": 8,
+      "FW-FW": 31,
+      "FW-NNP": 6,
+      "NNP-FW": 4,
+      "NNP-MD": 2,
+      "MD-NNP": 1,
+      "NNP-VB": 1,
+      "VB-JJ": 2,
+      "NN-NN": 44,
+      "NN-JJ": 8,
+      "NNS-VBZ": 2,
+      "VBZ-IN": 1,
+      "FW-JJ": 3,
+      "JJ-JJ": 5,
+      "VBP-DT": 1,
+      "DT-NN": 1,
+      "NN-VBZ": 1,
+      "VBZ-JJ": 1,
+      "JJ-NNP": 3,
+      "NNP-NN": 11,
+      "NN-IN": 9,
+      "FW-NNS": 2,
+      "NNS-NNP": 1,
+      "NN-NNP": 6,
+      "IN-NNP": 4,
+      "NNP-NNP": 11,
+      "NNP-JJ": 4,
+      "VBZ-NNS": 1,
+      "MD-VB": 1,
+      "IN-CD": 2,
+      "CD-NN": 2,
+      "NN-VBD": 2,
+      "VBD-JJ": 1,
+      "JJ-FW": 1,
+      "FW-IN": 1,
+      "VBD-CD": 1,
+      "CD-NNS": 1,
+      "NNS-RB": 1,
+      "RB-VBP": 1,
+      "VBP-NNP": 1
+    },
+    "trigram_freq": {
+      "NNP-NNS-VBP": 1,
+      "NNS-VBP-JJ": 4,
+      "VBP-JJ-NN": 4,
+      "JJ-NN-NNS": 3,
+      "NN-NNS-JJ": 1,
+      "NNS-JJ-NNS": 1,
+      "JJ-NNS-NNS": 1,
+      "NNS-NNS-VBP": 1,
+      "NN-NNS-VBP": 3,
+      "NNS-VBP-IN": 1,
+      "VBP-IN-FW": 1,
+      "IN-FW-NN": 1,
+      "FW-NN-FW": 3,
+      "NN-FW-FW": 5,
+      "FW-FW-FW": 21,
+      "FW-FW-NNP": 4,
+      "FW-NNP-FW": 2,
+      "NNP-FW-FW": 1,
+      "FW-NNP-MD": 1,
+      "NNP-MD-NNP": 1,
+      "MD-NNP-VB": 1,
+      "NNP-VB-JJ": 1,
+      "VB-JJ-NN": 2,
+      "JJ-NN-NN": 10,
+      "NN-NN-NNS": 2,
+      "JJ-NN-JJ": 2,
+      "NN-JJ-NN": 4,
+      "NN-NN-NN": 22,
+      "NN-NNS-VBZ": 1,
+      "NNS-VBZ-IN": 1,
+      "VBZ-IN-FW": 1,
+      "IN-FW-JJ": 2,
+      "FW-JJ-NN": 2,
+      "NN-NN-JJ": 6,
+      "NN-JJ-JJ": 3,
+      "JJ-JJ-NN": 3,
+      "NNS-VBP-DT": 1,
+      "VBP-DT-NN": 1,
+      "DT-NN-VBZ": 1,
+      "NN-VBZ-JJ": 1,
+      "VBZ-JJ-NNP": 1,
+      "JJ-NNP-NN": 1,
+      "NNP-NN-NN": 9,
+      "NN-NN-IN": 6,
+      "NN-IN-FW": 4,
+      "IN-FW-FW": 3,
+      "FW-FW-NNS": 2,
+      "FW-NNS-VBP": 1,
+      "JJ-JJ-NNS": 1,
+      "JJ-NNS-NNP": 1,
+      "NNS-NNP-FW": 1,
+      "NNP-FW-NN": 2,
+      "FW-NN-NNP": 2,
+      "NN-NNP-NN": 5,
+      "NN-NN-NNP": 2,
+      "NN-NN-FW": 4,
+      "NN-FW-NN": 2,
+      "FW-FW-JJ": 1,
+      "FW-FW-NN": 2,
+      "FW-NN-NN": 2,
+      "NN-IN-NNP": 4,
+      "IN-NNP-NNP": 2,
+      "NNP-NNP-NNP": 5,
+      "NNP-NNP-JJ": 2,
+      "NNP-JJ-NN": 4,
+      "JJ-NN-NNP": 1,
+      "FW-NNS-VBZ": 1,
+      "NNS-VBZ-NNS": 1,
+      "VBZ-NNS-JJ": 1,
+      "NNS-JJ-JJ": 1,
+      "JJ-JJ-NNP": 1,
+      "JJ-NNP-NNP": 2,
+      "NNP-NNP-NN": 2,
+      "IN-NNP-NN": 2,
+      "NNP-NNP-MD": 1,
+      "NNP-MD-VB": 1,
+      "MD-VB-JJ": 1,
+      "NN-JJ-NNP": 1,
+      "NNP-NNP-FW": 1,
+      "NNP-FW-NNP": 1,
+      "FW-NNP-NNP": 1,
+      "NN-NNP-NNP": 1,
+      "JJ-NN-IN": 3,
+      "NN-IN-CD": 1,
+      "IN-CD-NN": 2,
+      "CD-NN-FW": 1,
+      "NN-FW-NNP": 1,
+      "FW-NNP-JJ": 2,
+      "NN-NN-VBD": 2,
+      "NN-VBD-JJ": 1,
+      "VBD-JJ-JJ": 1,
+      "FW-JJ-FW": 1,
+      "JJ-FW-FW": 1,
+      "FW-FW-IN": 1,
+      "FW-IN-CD": 1,
+      "CD-NN-NN": 1,
+      "NN-VBD-CD": 1,
+      "VBD-CD-NNS": 1,
+      "CD-NNS-RB": 1,
+      "NNS-RB-VBP": 1,
+      "RB-VBP-NNP": 1,
+      "VBP-NNP-NN": 1,
+      "NNP-NN-NNP": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 84,
+        "FW": 50,
+        "NNP": 34,
+        "JJ": 30,
+        "NNS": 13
+      },
+      "top_bigrams": {
+        "NN-NN": 44,
+        "FW-FW": 31,
+        "JJ-NN": 19,
+        "NNP-NN": 11,
+        "NNP-NNP": 11
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 22,
+        "FW-FW-FW": 21,
+        "JJ-NN-NN": 10,
+        "NNP-NN-NN": 9,
+        "NN-NN-JJ": 6
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 8,
+    "chunk_counts": {
+      "NP": 64,
+      "VP": 16,
+      "ADJP": 3,
+      "PP": 7
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 5,
+        "weight": 0.051
+      },
+      {
+        "rule": "NP -> ('Qabatiya', 'NNP')",
+        "frequency": 3,
+        "weight": 0.0306
+      },
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0204
+      },
+      {
+        "rule": "S -> NP ('y', 'CC') NP VP VP VP ('de', 'IN') ('ocupación', 'FW') NP ('en', 'FW') ('la', 'FW') ('ciudad', 'FW') ('de', 'FW') NP (',', ',') ADJP ('norte', 'FW') ('de', 'FW') ('la', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0102
+      },
+      {
+        "rule": "NP -> ('Autoridades', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0102
+      },
+      {
+        "rule": "NP -> ('medios', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0102
+      },
+      {
+        "rule": "VP -> ('palestinos', 'VBP') NP NP",
+        "frequency": 1,
+        "weight": 0.0102
+      },
+      {
+        "rule": "NP -> ('informaron', 'JJ') ('este', 'NN') ('jueves', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0102
+      },
+      {
+        "rule": "NP -> ('que', 'JJ') ('tres', 'NNS') ('jóvenes', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0102
+      },
+      {
+        "rule": "VP -> ('fueron', 'VBP') NP",
+        "frequency": 1,
+        "weight": 0.0102
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Autoridades"
+      },
+      {
+        "label": "NP",
+        "text": "medios"
+      },
+      {
+        "label": "VP",
+        "text": "palestinos informaron este jueves que tres jóvenes"
+      },
+      {
+        "label": "NP",
+        "text": "informaron este jueves"
+      },
+      {
+        "label": "NP",
+        "text": "que tres jóvenes"
+      },
+      {
+        "label": "VP",
+        "text": "fueron asesinados por las"
+      },
+      {
+        "label": "NP",
+        "text": "asesinados por las"
+      },
+      {
+        "label": "VP",
+        "text": "fuerzas"
+      },
+      {
+        "label": "NP",
+        "text": "israelíes"
+      },
+      {
+        "label": "NP",
+        "text": "Qabatiya"
+      },
+      {
+        "label": "ADJP",
+        "text": "al"
+      },
+      {
+        "label": "NP",
+        "text": "Cisjordania ocupada"
+      },
+      {
+        "label": "NP",
+        "text": "Al irrumpir en la ciudad"
+      },
+      {
+        "label": "NP",
+        "text": "las fuerzas israelíes violentaron"
+      },
+      {
+        "label": "NP",
+        "text": "una casa y la bombardearon con misiles"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Autoridades/NNP)\n  y/CC\n  (NP medios/NNS)\n  (VP\n    palestinos/VBP\n    (NP informaron/JJ este/NN jueves/NNS)\n    (NP que/JJ tres/NNS jóvenes/NNS))\n  (VP fueron/VBP (NP asesinados/JJ por/NN las/NNS))\n  (VP fuerzas/VBP)\n  de/IN\n  ocupación/FW\n  (NP israelíes/NN)\n  en/FW\n  la/FW\n  ciudad/FW\n  de/FW\n  (NP Qabatiya/NNP)\n  ,/,\n  (ADJP al/JJ)\n  norte/FW\n  de/FW\n  la/FW\n  (NP Cisjordania/NNP ocupada/NN)\n  ./.)",
+      "(S\n  (NP Al/NNP irrumpir/NN en/NN la/NN ciudad/NN)\n  ,/,\n  (NP las/JJ fuerzas/NN israelíes/NN violentaron/NN)\n  (NP una/JJ casa/NN y/NN la/NN bombardearon/NN con/NN misiles/NNS)\n  (VP antes/VBZ)\n  (PP de/IN (NP demolerla/NN))\n  ,/,\n  (VP\n    asesinando/VBZ\n    (NP a/DT dos/JJ palestinos/NN que/NN)\n    (NP se/JJ encontraban/NN dentro/NN))\n  ,/,\n  (NP quienes/NNS)\n  (VP aún/VBP (NP no/DT han/NN))\n  (VP sido/VBZ (NP identificados/NN))\n  ./.)",
+      "(S\n  (NP\n    El/NNP\n    ataque/NN\n    israelí/NN\n    también/NN\n    provocó/NN\n    enfrentamientos/NN\n    violentos/NN)\n  en/IN\n  la/FW\n  zona/FW\n  ,/,\n  durante/FW\n  los/FW\n  (NP cuales/NNS)\n  (VP\n    las/VBP\n    (NP fuerzas/JJ israelíes/NN dispararon/NN con/NN munición/NN)\n    (NP real/JJ contra/JJ la/NN casa/NN y/NN)\n    (NP contra/JJ los/NN transeúntes/NNS))\n  ./.)",
+      "(S\n  (NP De/NNP)\n  acuerdo/FW\n  (NP con/NN WAFA/NNP)\n  ,/,\n  (NP la/NN topadora/NNS)\n  (VP del/VBP (NP Ejército/NNP israelí/NN profanó/NN))\n  el/FW\n  (NP cuerpo/NN)\n  de/FW\n  uno/FW\n  de/FW\n  los/FW\n  (NP asesinados/NN)\n  ,/,\n  (ADJP sacándolo/JJ)\n  del/FW\n  interior/FW\n  de/FW\n  la/FW\n  casa/FW\n  sitiada/FW\n  “/FW\n  de/FW\n  una/FW\n  (NP manera/NN extremadamente/NN humillante/NN ”/NNP)\n  ./.)",
+      "(S\n  (NP Entre/NNP tanto/NN)\n  ,/,\n  (NP el/JJ gobernador/NN)\n  (PP de/IN (NP Jenin/NNP))\n  ,/,\n  (NP Kamel/NNP Abu/NNP al-Rob/NN)\n  ,/,\n  (VP precisó/VB (NP a/DT WAFA/NNP que/NN el/NN))\n  ejército/FW\n  de/FW\n  ocupación/FW\n  retuvo/FW\n  los/FW\n  cuerpos/FW\n  de/FW\n  dos/FW\n  de/FW\n  los/FW\n  (NP tres/NNS mártires/NNS)\n  ,/,\n  mientras/FW\n  (NP que/NN)\n  la/FW\n  (NP\n    Media/NNP\n    Luna/NNP\n    Roja/NNP\n    Palestina/NNP\n    declaró/NN\n    que/NN\n    sus/NN\n    equipos/NN)\n  (PP en/IN (NP Jenin/NNP transportaron/NN al/NN hospital/NN))\n  (NP\n    a/DT\n    una/JJ\n    tercera/NN\n    persona/NN\n    asesinada/NN\n    por/NN\n    tropas/NN\n    israelíes/NN)\n  (PP en/IN (NP Qabatiya/NNP))\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "GRUPOS_ESPECIFICOS",
+      "CANTIDADES_NUMERICAS",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "REGIONES_PROVINCIAS",
+      "PAISES",
+      "PROTESTAS_CONFLICTOS_SOCIALES",
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "CONFLICTOS_ARMADOS_OPERACIONES",
+      "INFRAESTRUCTURA_SERVICIOS",
+      "LOCALIZACIONES_ESPECIFICAS",
+      "FECHAS_ESPECIFICAS"
+    ],
+    "matches": [
+      {
+        "category": "PROTESTAS_CONFLICTOS_SOCIALES",
+        "matched_text": "enfrentamientos violentos en la zona, durante los cuales las fuerzas",
+        "position": [
+          438,
+          506
+        ],
+        "start": 438,
+        "end": 506
+      },
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "ocupación israelíes en la ciudad",
+        "position": [
+          109,
+          141
+        ],
+        "start": 109,
+        "end": 141
+      },
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "ataque israelí también provocó enfrentamientos violentos en la zona, durante los cuales las fuerzas",
+        "position": [
+          407,
+          506
+        ],
+        "start": 407,
+        "end": 506
+      },
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "ataque israelí también provocó enfrentamientos violentos en la zona, durante los cuales las fuerzas israelíes",
+        "position": [
+          407,
+          516
+        ],
+        "start": 407,
+        "end": 516
+      },
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "ocupación",
+        "position": [
+          109,
+          118
+        ],
+        "start": 109,
+        "end": 118
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "declaró",
+        "position": [
+          959,
+          966
+        ],
+        "start": 959,
+        "end": 966
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "precisó",
+        "position": [
+          825,
+          832
+        ],
+        "start": 825,
+        "end": 832
+      },
+      {
+        "category": "GRUPOS_ESPECIFICOS",
+        "matched_text": "jóvenes",
+        "position": [
+          64,
+          71
+        ],
+        "start": 64,
+        "end": 71
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "hospital",
+        "position": [
+          1009,
+          1017
+        ],
+        "start": 1009,
+        "end": 1017
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "israelí",
+        "position": [
+          414,
+          421
+        ],
+        "start": 414,
+        "end": 421
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "zona, durante",
+        "position": [
+          470,
+          483
+        ],
+        "start": 470,
+        "end": 483
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "hospital a una",
+        "position": [
+          1009,
+          1023
+        ],
+        "start": 1009,
+        "end": 1023
+      },
+      {
+        "category": "FECHAS_ESPECIFICAS",
+        "matched_text": "7 de octubre de 2023",
+        "position": [
+          1476,
+          1496
+        ],
+        "start": 1476,
+        "end": 1496
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "544 personas",
+        "position": [
+          1516,
+          1528
+        ],
+        "start": 1516,
+        "end": 1528
+      }
+    ],
+    "match_count": 14
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Jenin",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Qabatiya",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Qais Mohammed Zakarneh",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Cisjordania",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Fawaz Hamad",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Kamel Abu al-Rob",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Media Luna Roja Palestina",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Hospital Al-Razi",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Jerusalén",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Media Luna Roja Palestina",
+        "relacion": "DECLARAR",
+        "objeto": "Jenin"
+      },
+      {
+        "sujeto": "Media Luna Roja Palestina",
+        "relacion": "DECLARAR",
+        "objeto": "Qabatiya"
+      },
+      {
+        "sujeto": "Jenin",
+        "relacion": "TRANSPORTAR_DECLARAR",
+        "objeto": "Qabatiya"
+      },
+      {
+        "sujeto": "Hospital Al-Razi",
+        "relacion": "IDENTIFICAR",
+        "objeto": "Qais Mohammed Zakarneh"
+      },
+      {
+        "sujeto": "Jenin",
+        "relacion": "IDENTIFICAR",
+        "objeto": "Qais Mohammed Zakarneh"
+      },
+      {
+        "sujeto": "Fawaz Hamad",
+        "relacion": "IDENTIFICAR",
+        "objeto": "Qais Mohammed Zakarneh"
+      },
+      {
+        "sujeto": "Gaza",
+        "relacion": "DEJAR",
+        "objeto": "Cisjordania"
+      },
+      {
+        "sujeto": "Gaza",
+        "relacion": "DEJAR",
+        "objeto": "Jerusalén"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.0516,
+    "pos": 0.01,
+    "neu": 0.981,
+    "neg": 0.009,
+    "label": "positive"
+  }
+}

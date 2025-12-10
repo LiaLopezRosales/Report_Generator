@@ -1,0 +1,667 @@
+{
+  "url": "https://www.telesurtv.net/egipto-y-ee-uu-intensificaran-esfuerzos-para-alcanzar-un-acuerdo-en-gaza/",
+  "title": "Egipto y EE.UU. intensificarán esfuerzos para alcanzar un acuerdo en Gaza - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Asedio militar israelí",
+    "EE.UU.",
+    "Egipto",
+    "Franja de Gaza"
+  ],
+  "text": "El presidente egipcio, Abdel Fattah al-Sisi, y el secretario de Estado estadounidense, Antony Blinken, acordaron el lunes intensificar los esfuerzos para alcanzar un acuerdo de alto el fuego en Gaza.\nUnrwa califica de indescriptible destrucción en Gaza\nBlinken se reunió con el líder egipcio en El Cairo en su primera escala de una gira regional que lo llevará también a Jordania y Qatar, su octava gira por Oriente Medio desde el 7 de octubre de 2023.\nLas dos partes revisaron los últimos acontecimientos de sus esfuerzos conjuntos para alcanzar un alto el fuego en Gaza y un acuerdo de intercambio de prisioneros, dijo la presidencia egipcia en un comunicado.\nTambién discutieron los esfuerzos egipcios para brindar acceso a la ayuda humanitaria al pueblo de Gaza, agregó.\nBlinken, por su parte, transmitió el agradecimiento de la administración estadounidense por los esfuerzos en curso de Egipto a nivel político y humanitario, y la coordinación bilateral para restaurar la seguridad y la paz en la región, según el comunicado.\nIsrael ha enfrentado la condena internacional en medio de su continua y brutal ofensiva contra Gaza desde el ataque del 7 de octubre por parte del grupo palestino Hamas, a pesar de una resolución del Consejo de Seguridad de la ONU que exige un alto el fuego inmediato.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/egipto-y-ee-uu-intensificaran-esfuerzos-para-alcanzar-un-acuerdo-en-gaza/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-06.json",
+    "message_index": 703,
+    "message_id": 72040,
+    "date": "2024-06-10T18:55:19+00:00",
+    "text": "teleSUR\nEgipto y EE.UU. intensificarán esfuerzos para alcanzar un acuerdo en Gaza\nhttps://www.telesurtv.net/egipto-y-ee-uu-intensificaran-esfuerzos-para-alcanzar-un-acuerdo-en-gaza/",
+    "photo_path": null,
+    "views": 1578,
+    "reactions": {},
+    "total_reactions": 0
+  },
+  "preprocessing": {
+    "cleaned": "el presidente egipcio, abdel fattah al-sisi, y el secretario de estado estadounidense, antony blinken, acordaron el lunes intensificar los esfuerzos para alcanzar un acuerdo de alto el fuego en gaza. unrwa califica de indescriptible destrucción en gaza blinken se reunió con el líder egipcio en el cairo en su primera escala de una gira regional que lo llevará también a jordania y qatar, su octava gira por oriente medio desde el 7 de octubre de 2023. las dos partes revisaron los últimos acontecimientos de sus esfuerzos conjuntos para alcanzar un alto el fuego en gaza y un acuerdo de intercambio de prisioneros, dijo la presidencia egipcia en un comunicado. también discutieron los esfuerzos egipcios para brindar acceso a la ayuda humanitaria al pueblo de gaza, agregó. blinken, por su parte, transmitió el agradecimiento de la administración estadounidense por los esfuerzos en curso de egipto a nivel político y humanitario, y la coordinación bilateral para restaurar la seguridad y la paz en la región, según el comunicado. israel ha enfrentado la condena internacional en medio de su continua y brutal ofensiva contra gaza desde el ataque del 7 de octubre por parte del grupo palestino hamas, a pesar de una resolución del consejo de seguridad de la onu que exige un alto el fuego inmediato.",
+    "tokens": [
+      "presidente",
+      "egipcio",
+      ",",
+      "abdel",
+      "fattah",
+      "al-sisi",
+      ",",
+      "secretario",
+      "estadounidense",
+      ",",
+      "antony",
+      "blinken",
+      ",",
+      "acordaron",
+      "lunes",
+      "intensificar",
+      "esfuerzos",
+      "alcanzar",
+      "acuerdo",
+      "alto",
+      "fuego",
+      "gaza",
+      ".",
+      "unrwa",
+      "califica",
+      "indescriptible",
+      "destrucción",
+      "gaza",
+      "blinken",
+      "reunió",
+      "líder",
+      "egipcio",
+      "cairo",
+      "primera",
+      "escala",
+      "gira",
+      "regional",
+      "llevará",
+      "jordania",
+      "qatar",
+      ",",
+      "octava",
+      "gira",
+      "oriente",
+      "medio",
+      "7",
+      "octubre",
+      "2023.",
+      "dos",
+      "partes",
+      "revisaron",
+      "últimos",
+      "acontecimientos",
+      "esfuerzos",
+      "conjuntos",
+      "alcanzar",
+      "alto",
+      "fuego",
+      "gaza",
+      "acuerdo",
+      "intercambio",
+      "prisioneros",
+      ",",
+      "dijo",
+      "presidencia",
+      "egipcia",
+      "comunicado",
+      ".",
+      "discutieron",
+      "esfuerzos",
+      "egipcios",
+      "brindar",
+      "acceso",
+      "ayuda",
+      "humanitaria",
+      "pueblo",
+      "gaza",
+      ",",
+      "agregó",
+      ".",
+      "blinken",
+      ",",
+      "parte",
+      ",",
+      "transmitió",
+      "agradecimiento",
+      "administración",
+      "estadounidense",
+      "esfuerzos",
+      "curso",
+      "egipto",
+      "nivel",
+      "político",
+      "humanitario",
+      ",",
+      "coordinación",
+      "bilateral",
+      "restaurar",
+      "seguridad",
+      "paz",
+      "región",
+      ",",
+      "según",
+      "comunicado",
+      ".",
+      "israel",
+      "enfrentado",
+      "condena",
+      "internacional",
+      "medio",
+      "continua",
+      "brutal",
+      "ofensiva",
+      "gaza",
+      "ataque",
+      "7",
+      "octubre",
+      "parte",
+      "grupo",
+      "palestino",
+      "hamas",
+      ",",
+      "pesar",
+      "resolución",
+      "consejo",
+      "seguridad",
+      "onu",
+      "exige",
+      "alto",
+      "fuego",
+      "inmediato",
+      "."
+    ],
+    "token_count": 132,
+    "sentence_count": 6
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 29,
+      "NN": 77,
+      "FW": 53,
+      "JJ": 23,
+      "IN": 10,
+      "NNS": 2,
+      "VBP": 4,
+      "CD": 1,
+      "VBZ": 1,
+      "CC": 1
+    },
+    "bigram_freq": {
+      "NNP-NN": 15,
+      "NN-FW": 9,
+      "FW-NNP": 5,
+      "NNP-NNP": 7,
+      "NNP-JJ": 2,
+      "JJ-NN": 13,
+      "NN-NN": 41,
+      "NN-IN": 10,
+      "IN-NNP": 5,
+      "NN-NNP": 7,
+      "NN-NNS": 1,
+      "NNS-VBP": 2,
+      "VBP-JJ": 2,
+      "JJ-JJ": 6,
+      "NN-JJ": 7,
+      "IN-FW": 4,
+      "FW-FW": 36,
+      "FW-NN": 6,
+      "FW-JJ": 5,
+      "NNP-FW": 3,
+      "IN-JJ": 1,
+      "FW-CD": 1,
+      "CD-NNP": 1,
+      "NN-VBZ": 1,
+      "VBZ-VBP": 1,
+      "JJ-NNP": 2,
+      "JJ-NNS": 1,
+      "VBP-NN": 1,
+      "NNP-VBP": 1,
+      "VBP-NNP": 1,
+      "NNP-CC": 1,
+      "CC-NN": 1,
+      "JJ-FW": 1
+    },
+    "trigram_freq": {
+      "NNP-NN-FW": 4,
+      "NN-FW-NNP": 2,
+      "FW-NNP-NNP": 2,
+      "NNP-NNP-JJ": 1,
+      "NNP-JJ-NN": 2,
+      "JJ-NN-NN": 8,
+      "NN-NN-IN": 7,
+      "NN-IN-NNP": 5,
+      "IN-NNP-NN": 1,
+      "NNP-NN-NNP": 1,
+      "NN-NNP-NNP": 3,
+      "NNP-NNP-NN": 5,
+      "NNP-NN-NN": 9,
+      "NN-NN-NNS": 1,
+      "NN-NNS-VBP": 1,
+      "NNS-VBP-JJ": 1,
+      "VBP-JJ-JJ": 1,
+      "JJ-JJ-NN": 5,
+      "NN-NN-JJ": 6,
+      "NN-JJ-NN": 3,
+      "JJ-NN-IN": 3,
+      "NN-IN-FW": 4,
+      "IN-FW-FW": 3,
+      "FW-FW-NN": 4,
+      "FW-NN-FW": 1,
+      "NN-FW-JJ": 3,
+      "FW-JJ-NN": 3,
+      "IN-NNP-NNP": 2,
+      "NN-NN-NN": 18,
+      "NNP-NNP-FW": 1,
+      "NNP-FW-NN": 1,
+      "FW-NN-NN": 4,
+      "NN-IN-JJ": 1,
+      "IN-JJ-JJ": 1,
+      "JJ-JJ-JJ": 1,
+      "NN-NN-NNP": 4,
+      "FW-FW-CD": 1,
+      "FW-CD-NNP": 1,
+      "CD-NNP-NN": 1,
+      "NNP-NN-VBZ": 1,
+      "NN-VBZ-VBP": 1,
+      "VBZ-VBP-JJ": 1,
+      "VBP-JJ-NNP": 1,
+      "JJ-NNP-NN": 2,
+      "NN-FW-FW": 3,
+      "FW-FW-FW": 28,
+      "IN-NNP-JJ": 1,
+      "FW-FW-JJ": 1,
+      "JJ-NN-NNP": 1,
+      "NN-NNP-NN": 3,
+      "NN-JJ-NNS": 1,
+      "JJ-NNS-VBP": 1,
+      "NNS-VBP-NN": 1,
+      "VBP-NN-NN": 1,
+      "NN-NN-FW": 4,
+      "NN-FW-NN": 1,
+      "IN-NNP-VBP": 1,
+      "NNP-VBP-NNP": 1,
+      "VBP-NNP-NN": 1,
+      "FW-FW-NNP": 2,
+      "FW-NNP-CC": 1,
+      "NNP-CC-NN": 1,
+      "CC-NN-NN": 1,
+      "NN-JJ-JJ": 1,
+      "FW-NN-NNP": 1,
+      "FW-JJ-JJ": 2,
+      "IN-FW-JJ": 1,
+      "JJ-NN-JJ": 1,
+      "NN-JJ-NNP": 1,
+      "NN-JJ-FW": 1,
+      "JJ-FW-FW": 1,
+      "NN-NNP-FW": 1,
+      "NNP-FW-NNP": 1,
+      "FW-NNP-FW": 1,
+      "NNP-FW-FW": 1,
+      "FW-NNP-NN": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 77,
+        "FW": 53,
+        "NNP": 29,
+        "JJ": 23,
+        "IN": 10
+      },
+      "top_bigrams": {
+        "NN-NN": 41,
+        "FW-FW": 36,
+        "NNP-NN": 15,
+        "JJ-NN": 13,
+        "NN-IN": 10
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 28,
+        "NN-NN-NN": 18,
+        "NNP-NN-NN": 9,
+        "JJ-NN-NN": 8,
+        "NN-NN-IN": 7
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 6,
+    "chunk_counts": {
+      "NP": 48,
+      "PP": 8,
+      "VP": 6,
+      "ADJP": 1
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 4,
+        "weight": 0.058
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 4,
+        "weight": 0.058
+      },
+      {
+        "rule": "NP -> ('un', 'JJ') ('acuerdo', 'NN')",
+        "frequency": 2,
+        "weight": 0.029
+      },
+      {
+        "rule": "NP -> ('Gaza', 'NNP')",
+        "frequency": 2,
+        "weight": 0.029
+      },
+      {
+        "rule": "S -> NP (',', ',') NP (',', ',') ('y', 'CC') NP PP (',', ',') NP (',', ',') NP VP ('de', 'IN') ('alto', 'FW') ('el', 'FW') NP PP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0145
+      },
+      {
+        "rule": "NP -> ('El', 'NNP') ('presidente', 'NN') ('egipcio', 'NN')",
+        "frequency": 1,
+        "weight": 0.0145
+      },
+      {
+        "rule": "NP -> ('Abdel', 'NNP') ('Fattah', 'NNP') ('al-Sisi', 'NN')",
+        "frequency": 1,
+        "weight": 0.0145
+      },
+      {
+        "rule": "NP -> ('el', 'JJ') ('secretario', 'NN')",
+        "frequency": 1,
+        "weight": 0.0145
+      },
+      {
+        "rule": "NP -> ('Estado', 'NNP') ('estadounidense', 'NN')",
+        "frequency": 1,
+        "weight": 0.0145
+      },
+      {
+        "rule": "NP -> ('Antony', 'NNP') ('Blinken', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0145
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El presidente egipcio"
+      },
+      {
+        "label": "NP",
+        "text": "Abdel Fattah al-Sisi"
+      },
+      {
+        "label": "NP",
+        "text": "el secretario"
+      },
+      {
+        "label": "PP",
+        "text": "de Estado estadounidense"
+      },
+      {
+        "label": "NP",
+        "text": "Estado estadounidense"
+      },
+      {
+        "label": "NP",
+        "text": "Antony Blinken"
+      },
+      {
+        "label": "NP",
+        "text": "acordaron el lunes"
+      },
+      {
+        "label": "VP",
+        "text": "intensificar los esfuerzos para alcanzar un acuerdo"
+      },
+      {
+        "label": "NP",
+        "text": "los esfuerzos para alcanzar"
+      },
+      {
+        "label": "NP",
+        "text": "un acuerdo"
+      },
+      {
+        "label": "NP",
+        "text": "fuego"
+      },
+      {
+        "label": "PP",
+        "text": "en Gaza"
+      },
+      {
+        "label": "NP",
+        "text": "Gaza"
+      },
+      {
+        "label": "NP",
+        "text": "Unrwa califica"
+      },
+      {
+        "label": "NP",
+        "text": "indescriptible destrucción"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP El/NNP presidente/NN egipcio/NN)\n  ,/,\n  (NP Abdel/NNP Fattah/NNP al-Sisi/NN)\n  ,/,\n  y/CC\n  (NP el/JJ secretario/NN)\n  (PP de/IN (NP Estado/NNP estadounidense/NN))\n  ,/,\n  (NP Antony/NNP Blinken/NNP)\n  ,/,\n  (NP acordaron/NN el/NN lunes/NNS)\n  (VP\n    intensificar/VBP\n    (NP los/JJ esfuerzos/JJ para/NN alcanzar/NN)\n    (NP un/JJ acuerdo/NN))\n  de/IN\n  alto/FW\n  el/FW\n  (NP fuego/NN)\n  (PP en/IN (NP Gaza/NNP))\n  ./.)",
+      "(S\n  (NP Unrwa/NNP califica/NN)\n  de/FW\n  (NP indescriptible/JJ destrucción/NN)\n  (PP\n    en/IN\n    (NP\n      Gaza/NNP\n      Blinken/NNP\n      se/NN\n      reunió/NN\n      con/NN\n      el/NN\n      líder/NN\n      egipcio/NN))\n  (PP en/IN (NP El/NNP Cairo/NNP))\n  en/FW\n  (NP su/NN primera/NN escala/NN)\n  (PP de/IN (NP una/JJ gira/JJ regional/JJ que/NN lo/NN llevará/NN))\n  (VP también/VBD (NP a/DT Jordania/NNP y/NN Qatar/NNP))\n  ,/,\n  (NP su/NN octava/NN gira/NN por/NN Oriente/NNP Medio/NNP desde/NN)\n  (VP el/VBD)\n  7/CD\n  de/FW\n  octubre/FW\n  de/IN\n  2023/CD\n  ./.)",
+      "(S\n  (NP Las/NNP dos/NN)\n  (VP partes/VBZ)\n  (VP revisaron/VBP (NP los/JJ últimos/NNP acontecimientos/NN))\n  de/FW\n  sus/FW\n  esfuerzos/FW\n  (NP conjuntos/NN para/NN alcanzar/NN)\n  (NP un/JJ alto/NN el/NN fuego/NN)\n  (PP en/IN (NP Gaza/NNP y/NNP))\n  (NP un/JJ acuerdo/NN)\n  de/IN\n  intercambio/FW\n  de/FW\n  prisioneros/FW\n  ,/,\n  dijo/FW\n  la/FW\n  presidencia/FW\n  egipcia/FW\n  en/FW\n  (NP un/JJ comunicado/NN)\n  ./.)",
+      "(S\n  (NP También/NNP discutieron/NN los/NN)\n  (NP esfuerzos/JJ egipcios/NNS)\n  (VP para/VBP (NP brindar/NN acceso/NN) (NP a/DT la/NN))\n  ayuda/FW\n  (NP humanitaria/NN al/NN pueblo/NN)\n  (PP de/IN (NP Gaza/NNP))\n  ,/,\n  (NP agregó/NN)\n  ./.)",
+      "(S\n  (NP Blinken/NNP)\n  ,/,\n  (NP por/NN su/NN parte/NN)\n  ,/,\n  (ADJP transmitió/JJ)\n  el/FW\n  agradecimiento/FW\n  de/FW\n  la/FW\n  administración/FW\n  estadounidense/FW\n  por/FW\n  los/FW\n  esfuerzos/FW\n  en/FW\n  curso/FW\n  de/FW\n  Egipto/FW\n  (NP a/DT nivel/JJ político/NN y/NN humanitario/NN)\n  ,/,\n  y/CC\n  la/FW\n  (NP coordinación/JJ bilateral/JJ para/NN restaurar/NN la/NN)\n  seguridad/FW\n  (NP y/NN)\n  la/FW\n  paz/FW\n  en/FW\n  la/FW\n  región/FW\n  ,/,\n  según/FW\n  el/FW\n  (NP comunicado/NN)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "CIUDADES_CAPITALES",
+      "GOBIERNOS_OFICIALES",
+      "ORGANISMOS_INTERNACIONALES",
+      "REGIONES_PROVINCIAS",
+      "CRISIS_HUMANITARIA_SERVICIOS",
+      "FECHAS_ESPECIFICAS"
+    ],
+    "matches": [
+      {
+        "category": "CRISIS_HUMANITARIA_SERVICIOS",
+        "matched_text": "ayuda humanitaria",
+        "position": [
+          730,
+          747
+        ],
+        "start": 730,
+        "end": 747
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente egipcio",
+        "position": [
+          3,
+          21
+        ],
+        "start": 3,
+        "end": 21
+      },
+      {
+        "category": "ORGANISMOS_INTERNACIONALES",
+        "matched_text": "onu",
+        "position": [
+          1259,
+          1262
+        ],
+        "start": 1259,
+        "end": 1262
+      },
+      {
+        "category": "CIUDADES_CAPITALES",
+        "matched_text": "la paz",
+        "position": [
+          990,
+          996
+        ],
+        "start": 990,
+        "end": 996
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "estado estadounidense",
+        "position": [
+          64,
+          85
+        ],
+        "start": 64,
+        "end": 85
+      },
+      {
+        "category": "FECHAS_ESPECIFICAS",
+        "matched_text": "7 de octubre de 2023",
+        "position": [
+          431,
+          451
+        ],
+        "start": 431,
+        "end": 451
+      }
+    ],
+    "match_count": 6
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "El Cairo",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Blinken",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Hamas",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Qatar",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Egipto",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Consejo de Seguridad de la ONU",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Jordania",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Israel",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Antony Blinken",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Estado estadounidense",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Abdel Fattah al-Sisi",
+        "tipo": "Persona"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Abdel Fattah al-Sisi",
+        "relacion": "ACORDAR",
+        "objeto": "Gaza"
+      },
+      {
+        "sujeto": "Estado estadounidense",
+        "relacion": "ACORDAR",
+        "objeto": "Gaza"
+      },
+      {
+        "sujeto": "Antony Blinken",
+        "relacion": "ACORDAR",
+        "objeto": "Gaza"
+      },
+      {
+        "sujeto": "Gaza",
+        "relacion": "CALIFICAR",
+        "objeto": "El Cairo"
+      },
+      {
+        "sujeto": "Gaza",
+        "relacion": "CALIFICAR",
+        "objeto": "Jordania"
+      },
+      {
+        "sujeto": "Gaza",
+        "relacion": "CALIFICAR",
+        "objeto": "Qatar"
+      },
+      {
+        "sujeto": "Blinken",
+        "relacion": "CALIFICAR",
+        "objeto": "El Cairo"
+      },
+      {
+        "sujeto": "Blinken",
+        "relacion": "CALIFICAR",
+        "objeto": "Jordania"
+      },
+      {
+        "sujeto": "Blinken",
+        "relacion": "CALIFICAR",
+        "objeto": "Qatar"
+      },
+      {
+        "sujeto": "El Cairo",
+        "relacion": "REUNIR_CALIFICAR",
+        "objeto": "Jordania"
+      },
+      {
+        "sujeto": "El Cairo",
+        "relacion": "REUNIR_CALIFICAR",
+        "objeto": "Qatar"
+      },
+      {
+        "sujeto": "Blinken",
+        "relacion": "TRANSMITIR",
+        "objeto": "Egipto"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "ENFRENTAR",
+        "objeto": "Gaza"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "ENFRENTAR",
+        "objeto": "Hamas"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "ENFRENTAR",
+        "objeto": "Consejo de Seguridad de la ONU"
+      },
+      {
+        "sujeto": "Gaza",
+        "relacion": "ENFRENTAR",
+        "objeto": "Hamas"
+      },
+      {
+        "sujeto": "Gaza",
+        "relacion": "ENFRENTAR",
+        "objeto": "Consejo de Seguridad de la ONU"
+      },
+      {
+        "sujeto": "Hamas",
+        "relacion": "ENFRENTAR",
+        "objeto": "Consejo de Seguridad de la ONU"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.4019,
+    "pos": 0.012,
+    "neu": 0.968,
+    "neg": 0.02,
+    "label": "negative"
+  }
+}

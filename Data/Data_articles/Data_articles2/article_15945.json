@@ -1,0 +1,698 @@
+{
+  "url": "https://www.telesurtv.net/unicef-nueve-de-cada-10-ninos-en-gaza-sufren-pobreza-alimentaria-grave/",
+  "title": "Unicef: nueve de cada 10 niños en Gaza sufren pobreza alimentaria grave - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Gaza",
+    "hambre",
+    "niños",
+    "Unicef"
+  ],
+  "text": "El Fondo de las Naciones Unidas para la Infancia (Unicef) detalló en un informe divulgado este jueves que nueve de cada 10 niños en la Franja de Gaza sufren pobreza alimentaria grave.\n“Cinco rondas de datos recopilados entre diciembre de 2023 y abril de 2024 han encontrado consistentemente que nueve de cada 10 niños en la Franja de Gaza sufren pobreza alimentaria severa y sobreviven con dos o menos grupos de alimentos por día”, señaló el ente.Asimismo, el Unicef apunta que la causa de esta situación tiene que ver con “meses de hostilidades y restricciones a la ayuda humanitaria”, por parte de Israel, que han provocado el colapsado de la esfera alimentaria y de salud, catalogando las consecuencias de estas interrupciones como “catastróficas”.“Esto es evidencia del terrible impacto que el conflicto y las restricciones están teniendo en la capacidad de las familias para satisfacer las necesidades alimentarias de los niños, y la velocidad con la que los coloca en riesgo de desnutrición que pone en peligro sus vidas”, añadió.\nPor otro lado, según el documento, alrededor de 181 millones de niños menores de cinco años en todo el mundo sufren pobreza alimentaria infantil grave.\nEn tanto, la directora ejecutiva de Unicef, Catherine Russell, puntualizó que “los niños que viven en una pobreza alimentaria grave son niños que viven al borde del abismo. En este momento, esa es la realidad para millones de niños pequeños, y esto puede tener un impacto negativo irreversible en su supervivencia, crecimiento y desarrollo cerebral”.\nAdemás dijo que solo los menores que consumen dos grupos de alimentos al día, “por ejemplo arroz y algo de leche, tienen hasta un 50 por ciento más de probabilidades de experimentar formas graves de desnutrición”.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/unicef-nueve-de-cada-10-ninos-en-gaza-sufren-pobreza-alimentaria-grave/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-06.json",
+    "message_index": 824,
+    "message_id": 71919,
+    "date": "2024-06-07T07:57:12+00:00",
+    "text": "teleSUR\nUnicef: nueve de cada 10 niños en Gaza sufren pobreza alimentaria grave\nhttps://www.telesurtv.net/unicef-nueve-de-cada-10-ninos-en-gaza-sufren-pobreza-alimentaria-grave/",
+    "photo_path": null,
+    "views": 1139,
+    "reactions": {},
+    "total_reactions": 0
+  },
+  "preprocessing": {
+    "cleaned": "el fondo de las naciones unidas para la infancia (unicef) detalló en un informe divulgado este jueves que nueve de cada 10 niños en la franja de gaza sufren pobreza alimentaria grave. “cinco rondas de datos recopilados entre diciembre de 2023 y abril de 2024 han encontrado consistentemente que nueve de cada 10 niños en la franja de gaza sufren pobreza alimentaria severa y sobreviven con dos o menos grupos de alimentos por día”, señaló el ente.asimismo, el unicef apunta que la causa de esta situación tiene que ver con “meses de hostilidades y restricciones a la ayuda humanitaria”, por parte de israel, que han provocado el colapsado de la esfera alimentaria y de salud, catalogando las consecuencias de estas interrupciones como “catastróficas”.“esto es evidencia del terrible impacto que el conflicto y las restricciones están teniendo en la capacidad de las familias para satisfacer las necesidades alimentarias de los niños, y la velocidad con la que los coloca en riesgo de desnutrición que pone en peligro sus vidas”, añadió. por otro lado, según el documento, alrededor de 181 millones de niños menores de cinco años en todo el mundo sufren pobreza alimentaria infantil grave. en tanto, la directora ejecutiva de unicef, catherine russell, puntualizó que “los niños que viven en una pobreza alimentaria grave son niños que viven al borde del abismo. en este momento, esa es la realidad para millones de niños pequeños, y esto puede tener un impacto negativo irreversible en su supervivencia, crecimiento y desarrollo cerebral”. además dijo que solo los menores que consumen dos grupos de alimentos al día, “por ejemplo arroz y algo de leche, tienen hasta un 50 por ciento más de probabilidades de experimentar formas graves de desnutrición”.",
+    "tokens": [
+      "fondo",
+      "naciones",
+      "unidas",
+      "infancia",
+      "(",
+      "unicef",
+      ")",
+      "detalló",
+      "informe",
+      "divulgado",
+      "jueves",
+      "nueve",
+      "cada",
+      "10",
+      "niños",
+      "franja",
+      "gaza",
+      "sufren",
+      "pobreza",
+      "alimentaria",
+      "grave",
+      ".",
+      "“",
+      "cinco",
+      "rondas",
+      "datos",
+      "recopilados",
+      "diciembre",
+      "2023",
+      "abril",
+      "2024",
+      "encontrado",
+      "consistentemente",
+      "nueve",
+      "cada",
+      "10",
+      "niños",
+      "franja",
+      "gaza",
+      "sufren",
+      "pobreza",
+      "alimentaria",
+      "severa",
+      "sobreviven",
+      "dos",
+      "menos",
+      "grupos",
+      "alimentos",
+      "día",
+      "”",
+      ",",
+      "señaló",
+      "ente.asimismo",
+      ",",
+      "unicef",
+      "apunta",
+      "causa",
+      "situación",
+      "ver",
+      "“",
+      "meses",
+      "hostilidades",
+      "restricciones",
+      "ayuda",
+      "humanitaria",
+      "”",
+      ",",
+      "parte",
+      "israel",
+      ",",
+      "provocado",
+      "colapsado",
+      "esfera",
+      "alimentaria",
+      "salud",
+      ",",
+      "catalogando",
+      "consecuencias",
+      "interrupciones",
+      "“",
+      "catastróficas",
+      "”",
+      ".",
+      "“",
+      "evidencia",
+      "terrible",
+      "impacto",
+      "conflicto",
+      "restricciones",
+      "capacidad",
+      "familias",
+      "satisfacer",
+      "necesidades",
+      "alimentarias",
+      "niños",
+      ",",
+      "velocidad",
+      "coloca",
+      "riesgo",
+      "desnutrición",
+      "pone",
+      "peligro",
+      "vidas",
+      "”",
+      ",",
+      "añadió",
+      ".",
+      "lado",
+      ",",
+      "según",
+      "documento",
+      ",",
+      "alrededor",
+      "181",
+      "millones",
+      "niños",
+      "menores",
+      "cinco",
+      "años",
+      "mundo",
+      "sufren",
+      "pobreza",
+      "alimentaria",
+      "infantil",
+      "grave",
+      ".",
+      ",",
+      "directora",
+      "ejecutiva",
+      "unicef",
+      ",",
+      "catherine",
+      "russell",
+      ",",
+      "puntualizó",
+      "“",
+      "niños",
+      "viven",
+      "pobreza",
+      "alimentaria",
+      "grave",
+      "niños",
+      "viven",
+      "borde",
+      "abismo",
+      ".",
+      "momento",
+      ",",
+      "realidad",
+      "millones",
+      "niños",
+      "pequeños",
+      ",",
+      "puede",
+      "tener",
+      "impacto",
+      "negativo",
+      "irreversible",
+      "supervivencia",
+      ",",
+      "crecimiento",
+      "desarrollo",
+      "cerebral",
+      "”",
+      ".",
+      "además",
+      "dijo",
+      "solo",
+      "menores",
+      "consumen",
+      "dos",
+      "grupos",
+      "alimentos",
+      "día",
+      ",",
+      "“",
+      "ejemplo",
+      "arroz",
+      "leche",
+      ",",
+      "50",
+      "ciento",
+      "probabilidades",
+      "experimentar",
+      "formas",
+      "graves",
+      "desnutrición",
+      "”",
+      "."
+    ],
+    "token_count": 189,
+    "sentence_count": 6
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 22,
+      "IN": 11,
+      "FW": 88,
+      "NN": 79,
+      "JJ": 21,
+      "VBZ": 4,
+      "CD": 6,
+      "NNS": 22,
+      "VBP": 16,
+      "CC": 1,
+      "VB": 1,
+      "RB": 3,
+      "VBD": 1
+    },
+    "bigram_freq": {
+      "NNP-NNP": 6,
+      "NNP-IN": 1,
+      "IN-FW": 5,
+      "FW-NNP": 7,
+      "NNP-NN": 8,
+      "NN-NN": 36,
+      "NN-NNP": 3,
+      "NN-FW": 18,
+      "FW-JJ": 4,
+      "JJ-NN": 11,
+      "NN-VBZ": 2,
+      "VBZ-JJ": 3,
+      "JJ-FW": 2,
+      "FW-FW": 57,
+      "FW-CD": 3,
+      "CD-NN": 5,
+      "NNP-FW": 3,
+      "NNP-NNS": 2,
+      "NNS-VBP": 15,
+      "VBP-NNS": 4,
+      "VBP-NNP": 2,
+      "NN-IN": 5,
+      "IN-CD": 2,
+      "NN-CC": 1,
+      "CC-NN": 1,
+      "FW-IN": 1,
+      "NNS-VB": 1,
+      "VB-RB": 1,
+      "RB-JJ": 2,
+      "JJ-NNS": 3,
+      "VBP-NN": 4,
+      "VBZ-FW": 1,
+      "FW-NNS": 5,
+      "NNS-FW": 2,
+      "IN-NNP": 1,
+      "NNP-VBD": 1,
+      "VBD-JJ": 1,
+      "JJ-JJ": 2,
+      "FW-NN": 11,
+      "NN-NNS": 5,
+      "VBP-IN": 2,
+      "VBP-JJ": 3,
+      "JJ-NNP": 2,
+      "NN-JJ": 6,
+      "NNS-NNS": 2,
+      "NNP-VBZ": 1,
+      "CD-NNS": 1,
+      "NNS-IN": 2,
+      "IN-NN": 3,
+      "VBP-VBP": 1,
+      "NN-RB": 2,
+      "RB-VBZ": 1,
+      "JJ-CD": 1
+    },
+    "trigram_freq": {
+      "NNP-NNP-IN": 1,
+      "NNP-IN-FW": 1,
+      "IN-FW-NNP": 1,
+      "FW-NNP-NNP": 2,
+      "NNP-NNP-NN": 3,
+      "NNP-NN-NN": 7,
+      "NN-NN-NNP": 2,
+      "NN-NNP-NNP": 1,
+      "NNP-NN-FW": 1,
+      "NN-FW-JJ": 1,
+      "FW-JJ-NN": 3,
+      "JJ-NN-NN": 7,
+      "NN-NN-NN": 14,
+      "NN-NN-VBZ": 2,
+      "NN-VBZ-JJ": 1,
+      "VBZ-JJ-FW": 1,
+      "JJ-FW-FW": 2,
+      "FW-FW-FW": 40,
+      "FW-FW-CD": 2,
+      "FW-CD-NN": 3,
+      "CD-NN-FW": 2,
+      "NN-FW-FW": 10,
+      "FW-FW-NNP": 4,
+      "FW-NNP-FW": 2,
+      "NNP-FW-NNP": 2,
+      "FW-NNP-NNS": 2,
+      "NNP-NNS-VBP": 2,
+      "NNS-VBP-NNS": 4,
+      "VBP-NNS-VBP": 3,
+      "NNS-VBP-NNP": 1,
+      "VBP-NNP-FW": 1,
+      "NNP-FW-FW": 1,
+      "CD-NN-IN": 1,
+      "NN-IN-CD": 2,
+      "IN-CD-NN": 1,
+      "CD-NN-CC": 1,
+      "NN-CC-NN": 1,
+      "CC-NN-NN": 1,
+      "NN-NN-FW": 8,
+      "NN-FW-IN": 1,
+      "FW-IN-FW": 1,
+      "IN-FW-CD": 1,
+      "VBP-NNS-VB": 1,
+      "NNS-VB-RB": 1,
+      "VB-RB-JJ": 1,
+      "RB-JJ-NNS": 1,
+      "JJ-NNS-VBP": 1,
+      "NNS-VBP-NN": 4,
+      "VBP-NN-FW": 2,
+      "FW-NNP-NN": 1,
+      "FW-FW-JJ": 2,
+      "NN-VBZ-FW": 1,
+      "VBZ-FW-FW": 1,
+      "FW-FW-NNS": 4,
+      "FW-NNS-FW": 1,
+      "NNS-FW-FW": 2,
+      "FW-NNS-VBP": 3,
+      "VBP-NN-IN": 1,
+      "NN-IN-NNP": 1,
+      "IN-NNP-NNP": 1,
+      "NNP-NNP-VBD": 1,
+      "NNP-VBD-JJ": 1,
+      "VBD-JJ-JJ": 1,
+      "JJ-JJ-NN": 1,
+      "JJ-NN-IN": 1,
+      "NN-IN-FW": 1,
+      "IN-FW-FW": 1,
+      "FW-FW-NN": 5,
+      "FW-NN-NNS": 3,
+      "NN-NNS-VBP": 4,
+      "NNS-VBP-IN": 2,
+      "VBP-IN-FW": 2,
+      "IN-FW-NNS": 1,
+      "NNS-VBP-JJ": 3,
+      "VBP-JJ-NNP": 1,
+      "JJ-NNP-NN": 2,
+      "NN-NN-JJ": 6,
+      "NN-JJ-NN": 4,
+      "NN-FW-NN": 6,
+      "NN-NNS-NNS": 1,
+      "NNS-NNS-VBP": 2,
+      "VBP-JJ-FW": 1,
+      "VBP-JJ-NNS": 1,
+      "JJ-NNS-NNS": 1,
+      "IN-FW-JJ": 1,
+      "JJ-NN-FW": 1,
+      "FW-NN-NN": 4,
+      "FW-NN-FW": 3,
+      "FW-NN-NNP": 1,
+      "NN-NNP-VBZ": 1,
+      "NNP-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 2,
+      "NN-NN-IN": 2,
+      "IN-CD-NNS": 1,
+      "CD-NNS-FW": 1,
+      "FW-NNS-IN": 1,
+      "NNS-IN-NN": 2,
+      "IN-NN-NN": 1,
+      "NN-IN-NN": 1,
+      "IN-NN-FW": 1,
+      "NNS-VBP-VBP": 1,
+      "VBP-VBP-NNP": 1,
+      "VBP-NNP-NN": 1,
+      "NNP-NNP-NNP": 1,
+      "JJ-NN-RB": 1,
+      "NN-RB-VBZ": 1,
+      "RB-VBZ-JJ": 1,
+      "JJ-NN-NNS": 1,
+      "VBP-NN-NN": 1,
+      "NN-NN-RB": 1,
+      "NN-RB-JJ": 1,
+      "RB-JJ-NN": 1,
+      "NN-NNP-NN": 1,
+      "NN-JJ-JJ": 1,
+      "JJ-JJ-NNP": 1,
+      "NN-NN-NNS": 1,
+      "NN-JJ-CD": 1,
+      "JJ-CD-NN": 1,
+      "CD-NN-NN": 1,
+      "FW-JJ-NNS": 1,
+      "JJ-NNS-IN": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "FW": 88,
+        "NN": 79,
+        "NNP": 22,
+        "NNS": 22,
+        "JJ": 21
+      },
+      "top_bigrams": {
+        "FW-FW": 57,
+        "NN-NN": 36,
+        "NN-FW": 18,
+        "NNS-VBP": 15,
+        "JJ-NN": 11
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 40,
+        "NN-NN-NN": 14,
+        "NN-FW-FW": 10,
+        "NN-NN-FW": 8,
+        "NNP-NN-NN": 7
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 6,
+    "chunk_counts": {
+      "NP": 78,
+      "VP": 22,
+      "PP": 6,
+      "ADJP": 2
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 4,
+        "weight": 0.0351
+      },
+      {
+        "rule": "NP -> ('alimentaria', 'NNS')",
+        "frequency": 3,
+        "weight": 0.0263
+      },
+      {
+        "rule": "NP -> ('Unicef', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0175
+      },
+      {
+        "rule": "NP -> ('niños', 'NN')",
+        "frequency": 2,
+        "weight": 0.0175
+      },
+      {
+        "rule": "NP -> ('Franja', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0175
+      },
+      {
+        "rule": "NP -> ('Gaza', 'NNP') ('sufren', 'NNS')",
+        "frequency": 2,
+        "weight": 0.0175
+      },
+      {
+        "rule": "VP -> ('pobreza', 'VBP') NP",
+        "frequency": 2,
+        "weight": 0.0175
+      },
+      {
+        "rule": "VP -> ('grave', 'VBP')",
+        "frequency": 2,
+        "weight": 0.0175
+      },
+      {
+        "rule": "S -> NP ('de', 'IN') ('las', 'FW') NP ('(', '(') NP (')', ')') NP ('en', 'FW') NP VP ('nueve', 'FW') ('de', 'FW') ('cada', 'FW') ('10', 'CD') NP ('en', 'FW') ('la', 'FW') NP ('de', 'FW') NP VP VP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0088
+      },
+      {
+        "rule": "NP -> ('El', 'NNP') ('Fondo', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0088
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El Fondo"
+      },
+      {
+        "label": "NP",
+        "text": "Naciones Unidas para la Infancia"
+      },
+      {
+        "label": "NP",
+        "text": "Unicef"
+      },
+      {
+        "label": "NP",
+        "text": "detalló"
+      },
+      {
+        "label": "NP",
+        "text": "un informe divulgado este"
+      },
+      {
+        "label": "VP",
+        "text": "jueves que"
+      },
+      {
+        "label": "NP",
+        "text": "niños"
+      },
+      {
+        "label": "NP",
+        "text": "Franja"
+      },
+      {
+        "label": "NP",
+        "text": "Gaza sufren"
+      },
+      {
+        "label": "VP",
+        "text": "pobreza alimentaria"
+      },
+      {
+        "label": "NP",
+        "text": "alimentaria"
+      },
+      {
+        "label": "VP",
+        "text": "grave"
+      },
+      {
+        "label": "NP",
+        "text": "“ Cinco rondas"
+      },
+      {
+        "label": "NP",
+        "text": "y abril"
+      },
+      {
+        "label": "NP",
+        "text": "han"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP El/NNP Fondo/NNP)\n  de/IN\n  las/FW\n  (NP Naciones/NNP Unidas/NNP para/NN la/NN Infancia/NNP)\n  (/(\n  (NP Unicef/NNP)\n  )/)\n  (NP detalló/NN)\n  en/FW\n  (NP un/JJ informe/NN divulgado/NN este/NN)\n  (VP jueves/VBZ que/JJ)\n  nueve/FW\n  de/FW\n  cada/FW\n  10/CD\n  (NP niños/NN)\n  en/FW\n  la/FW\n  (NP Franja/NNP)\n  de/FW\n  (NP Gaza/NNP sufren/NNS)\n  (VP pobreza/VBP (NP alimentaria/NNS))\n  (VP grave/VBP)\n  ./.)",
+      "(S\n  (NP “/NN Cinco/NNP rondas/NN)\n  de/FW\n  datos/FW\n  recopilados/FW\n  entre/FW\n  diciembre/FW\n  de/FW\n  2023/CD\n  (NP y/NN abril/NN)\n  de/IN\n  2024/CD\n  (NP han/NN)\n  encontrado/CC\n  (NP consistentemente/NN que/NN)\n  nueve/FW\n  de/IN\n  cada/FW\n  10/CD\n  (NP niños/NN)\n  en/FW\n  la/FW\n  (NP Franja/NNP)\n  de/FW\n  (NP Gaza/NNP sufren/NNS)\n  (VP pobreza/VBP (NP alimentaria/NNS))\n  (VP severa/VBP y/RB (NP sobreviven/JJ con/NN dos/NN))\n  (PP o/IN (NP menos/JJ grupos/NN))\n  de/IN\n  alimentos/FW\n  por/FW\n  (NP día/NN ”/NN)\n  ,/,\n  (NP señaló/JJ el/NN ente.Asimismo/NN)\n  ,/,\n  el/FW\n  (NP Unicef/NNP apunta/NN que/NN)\n  la/FW\n  causa/FW\n  de/FW\n  esta/FW\n  (NP situación/JJ tiene/NN que/NN ver/NN con/NN)\n  (NP “/JJ meses/NNS)\n  de/FW\n  hostilidades/FW\n  y/FW\n  (VP\n    restricciones/VBZ\n    (NP a/DT la/NN ayuda/NN humanitaria/NN ”/NNP))\n  ,/,\n  (NP por/JJ parte/NN)\n  (PP de/IN (NP Israel/NNP))\n  ,/,\n  (NP que/NN han/NN provocado/NN)\n  el/FW\n  (NP colapsado/NN)\n  de/IN\n  la/FW\n  esfera/FW\n  alimentaria/FW\n  y/FW\n  de/FW\n  salud/FW\n  ,/,\n  (VP catalogando/VBP (NP las/JJ consecuencias/NN))\n  de/IN\n  estas/FW\n  (NP interrupciones/NNS)\n  (VP como/VBP (NP “/JJ catastróficas/NN ”/NNP))\n  ./.\n  (VP “/VB (NP Esto/NNP))\n  es/FW\n  evidencia/FW\n  del/FW\n  (NP terrible/JJ impacto/NN que/NN)\n  el/FW\n  (NP conflicto/NN y/NN las/NN restricciones/NNS)\n  (VP están/VBP teniendo/JJ)\n  en/FW\n  la/FW\n  capacidad/FW\n  de/FW\n  las/FW\n  (NP familias/NNS)\n  (VP para/VBP (NP satisfacer/JJ las/NNS necesidades/NNS))\n  (VP alimentarias/VBP)\n  de/IN\n  los/FW\n  (ADJP niños/JJ)\n  ,/,\n  (NP y/JJ la/NN)\n  velocidad/FW\n  (NP con/NN la/NN)\n  que/FW\n  los/FW\n  (NP coloca/NN)\n  en/FW\n  riesgo/FW\n  de/FW\n  desnutrición/FW\n  que/FW\n  (NP pone/NN)\n  en/FW\n  (NP peligro/NN sus/NN vidas/NN ”/NNP)\n  ,/,\n  (NP añadió/NN)\n  ./.)",
+      "(S\n  (NP Por/NNP)\n  otro/MD\n  (VP lado/VB)\n  ,/,\n  (VP según/VB (NP el/NN documento/NN))\n  ,/,\n  (NP alrededor/NN)\n  de/FW\n  181/CD\n  (NP millones/NNS)\n  de/FW\n  niños/FW\n  (NP menores/NNS)\n  (PP de/IN (NP cinco/NN años/NN))\n  (PP en/IN (NP todo/NN))\n  el/FW\n  (NP mundo/NN sufren/NNS)\n  (VP pobreza/VBP (NP alimentaria/NNS) infantil/JJ)\n  (VP grave/VBP)\n  ./.)",
+      "(S\n  (NP En/NNP tanto/NN)\n  ,/,\n  la/FW\n  directora/FW\n  ejecutiva/FW\n  de/FW\n  (NP Unicef/NNP)\n  ,/,\n  (NP Catherine/NNP Russell/NNP)\n  ,/,\n  (NP puntualizó/NN que/NN “/NNP)\n  (VP los/VBZ (NP niños/JJ que/NN) viven/RB)\n  (VP en/VBZ (NP una/JJ pobreza/NN alimentaria/NNS))\n  (VP\n    grave/VBP\n    (NP son/NN niños/NN que/NN)\n    viven/RB\n    (NP al/JJ borde/NN del/NN abismo/NN))\n  ./.)",
+      "(S\n  (NP En/NNP este/NN momento/NN)\n  ,/,\n  esa/FW\n  es/FW\n  la/FW\n  realidad/FW\n  para/FW\n  millones/FW\n  de/FW\n  niños/FW\n  (NP pequeños/NN)\n  ,/,\n  y/CC\n  (NP esto/JJ puede/NN tener/NN)\n  (NP un/JJ impacto/NN negativo/NN)\n  (NP irreversible/JJ en/NN su/NN supervivencia/NN)\n  ,/,\n  (NP crecimiento/NN y/NN)\n  (NP desarrollo/JJ cerebral/JJ ”/NN)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "ORGANISMOS_INTERNACIONALES",
+      "CANTIDADES_NUMERICAS",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "CRISIS_HUMANITARIA_SERVICIOS",
+      "CONFLICTOS_ARMADOS_OPERACIONES"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "conflicto y las restricciones están teniendo en la",
+        "position": [
+          798,
+          848
+        ],
+        "start": 798,
+        "end": 848
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "señaló",
+        "position": [
+          432,
+          438
+        ],
+        "start": 432,
+        "end": 438
+      },
+      {
+        "category": "CRISIS_HUMANITARIA_SERVICIOS",
+        "matched_text": "ayuda humanitaria",
+        "position": [
+          567,
+          584
+        ],
+        "start": 567,
+        "end": 584
+      },
+      {
+        "category": "ORGANISMOS_INTERNACIONALES",
+        "matched_text": "naciones unidas",
+        "position": [
+          16,
+          31
+        ],
+        "start": 16,
+        "end": 31
+      },
+      {
+        "category": "ORGANISMOS_INTERNACIONALES",
+        "matched_text": "unicef",
+        "position": [
+          50,
+          56
+        ],
+        "start": 50,
+        "end": 56
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "181 millones",
+        "position": [
+          1085,
+          1097
+        ],
+        "start": 1085,
+        "end": 1097
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "alrededor de 181",
+        "position": [
+          1072,
+          1088
+        ],
+        "start": 1072,
+        "end": 1088
+      }
+    ],
+    "match_count": 7
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Franja de Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Fondo de las Naciones Unidas para la Infancia",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Catherine Russell",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Israel",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Unicef",
+        "tipo": "Organizacion"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Fondo de las Naciones Unidas para la Infancia",
+        "relacion": "DETALLAR",
+        "objeto": "Franja de Gaza"
+      },
+      {
+        "sujeto": "Unicef",
+        "relacion": "DETALLAR",
+        "objeto": "Franja de Gaza"
+      },
+      {
+        "sujeto": "Unicef",
+        "relacion": "APUNTAR",
+        "objeto": "Israel"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.9169,
+    "pos": 0.0,
+    "neu": 0.947,
+    "neg": 0.053,
+    "label": "negative"
+  }
+}

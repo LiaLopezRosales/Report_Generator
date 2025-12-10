@@ -1,0 +1,536 @@
+{
+  "url": "https://www.telesurtv.net/asciende-a-71-numero-de-muertos-por-accidente-automovilistico-en-etiopia/",
+  "title": "Asciende a 71 número de muertos por accidente automovilístico en Etiopía - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Accidente",
+    "Etiopía",
+    "Muertos"
+  ],
+  "text": "Al menos 71 personas murieron tras la caída de un camión por un despeñadero hacia un río en el sur de Etiopía este domingo.\nLa información fue proporcionada por las autoridades locales, quienes también reportaron que el incidente dejó cuatro personas heridas, que ya están recibiendo atención médica.\nLas víctimas se dirigían a una boda cuando ocurrió el incidente en el puente Gelana, en la localidad de Bona Zuria Woreda, ubicada aproximadamente a 300 kilómetros al sur de la capital etíope, Addis Abeba.\nHasta el momento, se ha determinado que las deficientes normas de conducción y el mal estado de mantenimiento de muchos vehículos son las principales causas de los accidentes en el país africano.\nEn este contexto, el gobierno de Sidama ha expresado sus condolencias a los familiares de las víctimas.\nEste no es el primer incidente de este tipo; el más reciente ocurrió en septiembre pasado, cuando 28 personas perdieron la vida y otras 19 resultaron heridas tras la caída de un autobús en un río en Wolaita.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/asciende-a-71-numero-de-muertos-por-accidente-automovilistico-en-etiopia/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-12.json",
+    "message_index": 103,
+    "message_id": 83288,
+    "date": "2024-12-30T10:55:19+00:00",
+    "text": "teleSUR\nAsciende a 71 número de muertos por accidente automovilístico en Etiopía\nhttps://www.telesurtv.net/asciende-a-71-numero-de-muertos-por-accidente-automovilistico-en-etiopia/",
+    "photo_path": null,
+    "views": 2455,
+    "reactions": {
+      "😢": 25,
+      "🙏": 4,
+      "👍": 2,
+      "😱": 1
+    },
+    "total_reactions": 32
+  },
+  "preprocessing": {
+    "cleaned": "al menos 71 personas murieron tras la caída de un camión por un despeñadero hacia un río en el sur de etiopía este domingo. la información fue proporcionada por las autoridades locales, quienes también reportaron que el incidente dejó cuatro personas heridas, que ya están recibiendo atención médica. las víctimas se dirigían a una boda cuando ocurrió el incidente en el puente gelana, en la localidad de bona zuria woreda, ubicada aproximadamente a 300 kilómetros al sur de la capital etíope, addis abeba. hasta el momento, se ha determinado que las deficientes normas de conducción y el mal estado de mantenimiento de muchos vehículos son las principales causas de los accidentes en el país africano. en este contexto, el gobierno de sidama ha expresado sus condolencias a los familiares de las víctimas. este no es el primer incidente de este tipo; el más reciente ocurrió en septiembre pasado, cuando 28 personas perdieron la vida y otras 19 resultaron heridas tras la caída de un autobús en un río en wolaita.",
+    "tokens": [
+      "menos",
+      "71",
+      "personas",
+      "murieron",
+      "tras",
+      "caída",
+      "camión",
+      "despeñadero",
+      "hacia",
+      "río",
+      "sur",
+      "etiopía",
+      "domingo",
+      ".",
+      "información",
+      "proporcionada",
+      "autoridades",
+      "locales",
+      ",",
+      "reportaron",
+      "incidente",
+      "dejó",
+      "cuatro",
+      "personas",
+      "heridas",
+      ",",
+      "recibiendo",
+      "atención",
+      "médica",
+      ".",
+      "víctimas",
+      "dirigían",
+      "boda",
+      "ocurrió",
+      "incidente",
+      "puente",
+      "gelana",
+      ",",
+      "localidad",
+      "bona",
+      "zuria",
+      "woreda",
+      ",",
+      "ubicada",
+      "aproximadamente",
+      "300",
+      "kilómetros",
+      "sur",
+      "capital",
+      "etíope",
+      ",",
+      "addis",
+      "abeba",
+      ".",
+      "momento",
+      ",",
+      "determinado",
+      "deficientes",
+      "normas",
+      "conducción",
+      "mal",
+      "mantenimiento",
+      "vehículos",
+      "principales",
+      "causas",
+      "accidentes",
+      "país",
+      "africano",
+      ".",
+      "contexto",
+      ",",
+      "gobierno",
+      "sidama",
+      "expresado",
+      "condolencias",
+      "familiares",
+      "víctimas",
+      ".",
+      "primer",
+      "incidente",
+      "tipo",
+      ";",
+      "reciente",
+      "ocurrió",
+      "septiembre",
+      "pasado",
+      ",",
+      "28",
+      "personas",
+      "perdieron",
+      "vida",
+      "19",
+      "resultaron",
+      "heridas",
+      "tras",
+      "caída",
+      "autobús",
+      "río",
+      "wolaita",
+      "."
+    ],
+    "token_count": 100,
+    "sentence_count": 6
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 16,
+      "VBD": 3,
+      "CD": 4,
+      "NNS": 10,
+      "NN": 59,
+      "VBP": 5,
+      "FW": 46,
+      "JJ": 10,
+      "IN": 7,
+      "VBZ": 3,
+      "DT": 1,
+      "RB": 1
+    },
+    "bigram_freq": {
+      "NNP-VBD": 2,
+      "VBD-CD": 3,
+      "CD-NNS": 2,
+      "NNS-NN": 1,
+      "NN-NNS": 5,
+      "NNS-VBP": 5,
+      "VBP-FW": 2,
+      "FW-FW": 30,
+      "FW-NN": 6,
+      "NN-NN": 35,
+      "NN-JJ": 3,
+      "JJ-NN": 7,
+      "NN-IN": 4,
+      "IN-FW": 3,
+      "FW-NNP": 5,
+      "NNP-NN": 4,
+      "NN-NNP": 4,
+      "NNS-IN": 2,
+      "IN-NNS": 1,
+      "NNS-NNS": 1,
+      "VBP-NN": 1,
+      "NN-FW": 4,
+      "VBP-JJ": 1,
+      "NNP-FW": 2,
+      "FW-JJ": 4,
+      "NNP-NNP": 5,
+      "NNS-JJ": 1,
+      "JJ-FW": 2,
+      "NNP-VBZ": 1,
+      "VBZ-FW": 3,
+      "NN-VBZ": 1,
+      "VBP-IN": 1,
+      "FW-NNS": 1,
+      "IN-NN": 2,
+      "JJ-VBZ": 1,
+      "NNP-DT": 1,
+      "DT-NN": 1,
+      "NN-RB": 1,
+      "RB-JJ": 1,
+      "NN-CD": 1,
+      "CD-NN": 2,
+      "NN-VBD": 1,
+      "IN-NNP": 1
+    },
+    "trigram_freq": {
+      "NNP-VBD-CD": 2,
+      "VBD-CD-NNS": 2,
+      "CD-NNS-NN": 1,
+      "NNS-NN-NNS": 1,
+      "NN-NNS-VBP": 4,
+      "NNS-VBP-FW": 2,
+      "VBP-FW-FW": 2,
+      "FW-FW-FW": 18,
+      "FW-FW-NN": 4,
+      "FW-NN-NN": 5,
+      "NN-NN-JJ": 3,
+      "NN-JJ-NN": 2,
+      "JJ-NN-NN": 3,
+      "JJ-NN-IN": 3,
+      "NN-IN-FW": 2,
+      "IN-FW-FW": 1,
+      "FW-FW-NNP": 5,
+      "FW-NNP-NN": 2,
+      "NNP-NN-NN": 4,
+      "NN-NN-NNP": 4,
+      "NN-NNP-NN": 2,
+      "NN-NN-NN": 18,
+      "NN-NN-NNS": 3,
+      "NN-NNS-IN": 1,
+      "NNS-IN-NNS": 1,
+      "IN-NNS-NNS": 1,
+      "NNS-NNS-VBP": 1,
+      "NNS-VBP-NN": 1,
+      "VBP-NN-NN": 1,
+      "NN-NN-FW": 3,
+      "NN-FW-NN": 2,
+      "FW-NN-NNS": 1,
+      "NNS-VBP-JJ": 1,
+      "VBP-JJ-NN": 1,
+      "JJ-NN-FW": 1,
+      "NN-NNP-FW": 1,
+      "NNP-FW-FW": 2,
+      "FW-FW-JJ": 3,
+      "FW-JJ-NN": 3,
+      "NN-FW-FW": 2,
+      "FW-NNP-FW": 1,
+      "FW-NNP-NNP": 1,
+      "NNP-NNP-NNP": 3,
+      "NNP-NNP-VBD": 1,
+      "CD-NNS-JJ": 1,
+      "NNS-JJ-FW": 1,
+      "JJ-FW-FW": 2,
+      "NN-NNP-NNP": 1,
+      "NNP-NNP-VBZ": 1,
+      "NNP-VBZ-FW": 1,
+      "VBZ-FW-FW": 3,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-FW": 1,
+      "FW-JJ-FW": 1,
+      "NNS-VBP-IN": 1,
+      "VBP-IN-FW": 1,
+      "IN-FW-NNS": 1,
+      "FW-NNS-IN": 1,
+      "NNS-IN-NN": 1,
+      "IN-NN-NN": 2,
+      "NN-JJ-VBZ": 1,
+      "JJ-VBZ-FW": 1,
+      "FW-NNP-DT": 1,
+      "NNP-DT-NN": 1,
+      "DT-NN-RB": 1,
+      "NN-RB-JJ": 1,
+      "RB-JJ-NN": 1,
+      "IN-FW-JJ": 1,
+      "NN-NN-IN": 1,
+      "NN-IN-NN": 1,
+      "NN-NN-CD": 1,
+      "NN-CD-NN": 1,
+      "CD-NN-NN": 2,
+      "NN-NN-VBD": 1,
+      "NN-VBD-CD": 1,
+      "VBD-CD-NN": 1,
+      "NN-IN-NNP": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 59,
+        "FW": 46,
+        "NNP": 16,
+        "NNS": 10,
+        "JJ": 10
+      },
+      "top_bigrams": {
+        "NN-NN": 35,
+        "FW-FW": 30,
+        "JJ-NN": 7,
+        "FW-NN": 6,
+        "NN-NNS": 5
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 18,
+        "NN-NN-NN": 18,
+        "FW-NN-NN": 5,
+        "FW-FW-NNP": 5,
+        "NN-NNS-VBP": 4
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 6,
+    "chunk_counts": {
+      "NP": 43,
+      "VP": 12,
+      "PP": 5,
+      "ADJP": 3
+    },
+    "top_rules": [
+      {
+        "rule": "VP -> ('la', 'VBP')",
+        "frequency": 2,
+        "weight": 0.029
+      },
+      {
+        "rule": "NP -> ('un', 'JJ') ('río', 'NN')",
+        "frequency": 2,
+        "weight": 0.029
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.029
+      },
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.029
+      },
+      {
+        "rule": "S -> NP VP ('71', 'CD') NP VP ('caída', 'FW') ('de', 'FW') ('un', 'FW') NP NP NP ('en', 'IN') ('el', 'FW') ('sur', 'FW') ('de', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0145
+      },
+      {
+        "rule": "NP -> ('Al', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0145
+      },
+      {
+        "rule": "VP -> ('menos', 'VBD')",
+        "frequency": 1,
+        "weight": 0.0145
+      },
+      {
+        "rule": "NP -> ('personas', 'NNS') ('murieron', 'NN') ('tras', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0145
+      },
+      {
+        "rule": "NP -> ('camión', 'NN') ('por', 'NN')",
+        "frequency": 1,
+        "weight": 0.0145
+      },
+      {
+        "rule": "NP -> ('un', 'JJ') ('despeñadero', 'NN') ('hacia', 'NN')",
+        "frequency": 1,
+        "weight": 0.0145
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Al"
+      },
+      {
+        "label": "VP",
+        "text": "menos"
+      },
+      {
+        "label": "NP",
+        "text": "personas murieron tras"
+      },
+      {
+        "label": "VP",
+        "text": "la"
+      },
+      {
+        "label": "NP",
+        "text": "camión por"
+      },
+      {
+        "label": "NP",
+        "text": "un despeñadero hacia"
+      },
+      {
+        "label": "NP",
+        "text": "un río"
+      },
+      {
+        "label": "NP",
+        "text": "Etiopía este domingo"
+      },
+      {
+        "label": "NP",
+        "text": "La"
+      },
+      {
+        "label": "VP",
+        "text": "información fue proporcionada por las"
+      },
+      {
+        "label": "NP",
+        "text": "fue proporcionada por las"
+      },
+      {
+        "label": "PP",
+        "text": "autoridades locales"
+      },
+      {
+        "label": "NP",
+        "text": "locales"
+      },
+      {
+        "label": "NP",
+        "text": "quienes"
+      },
+      {
+        "label": "VP",
+        "text": "también reportaron que el incidente"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Al/NNP)\n  (VP menos/VBD)\n  71/CD\n  (NP personas/NNS murieron/NN tras/NNS)\n  (VP la/VBP)\n  caída/FW\n  de/FW\n  un/FW\n  (NP camión/NN por/NN)\n  (NP un/JJ despeñadero/NN hacia/NN)\n  (NP un/JJ río/NN)\n  en/IN\n  el/FW\n  sur/FW\n  de/FW\n  (NP Etiopía/NNP este/NN domingo/NN)\n  ./.)",
+      "(S\n  (NP La/NNP)\n  (VP información/VBZ (NP fue/JJ proporcionada/NN por/NN las/NNS))\n  (PP autoridades/IN (NP locales/NNS))\n  ,/,\n  (NP quienes/NNS)\n  (VP también/VBP (NP reportaron/NN que/NN el/NN incidente/NN))\n  dejó/FW\n  (NP cuatro/NN personas/NN heridas/NN)\n  ,/,\n  (NP que/JJ ya/NN)\n  están/FW\n  (NP recibiendo/NN atención/NN médica/NN)\n  ./.)",
+      "(S\n  (NP Las/NNP)\n  víctimas/FW\n  se/FW\n  dirigían/FW\n  (NP a/DT una/JJ boda/NN cuando/NN ocurrió/NN el/NN incidente/NN)\n  en/FW\n  el/FW\n  puente/FW\n  (NP Gelana/NNP)\n  ,/,\n  en/FW\n  la/FW\n  localidad/FW\n  de/FW\n  (NP Bona/NNP Zuria/NNP Woreda/NNP)\n  ,/,\n  (ADJP ubicada/JJ)\n  (VP aproximadamente/VBD)\n  a/DT\n  300/CD\n  (NP kilómetros/NNS)\n  (ADJP al/JJ)\n  sur/FW\n  de/FW\n  la/FW\n  (NP capital/NN etíope/NN)\n  ,/,\n  (NP Addis/NNP Abeba/NNP)\n  ./.)",
+      "(S\n  (NP Hasta/NNP el/NN momento/NN)\n  ,/,\n  se/FW\n  (NP ha/NN determinado/NN que/NN las/NN)\n  (VP deficientes/VBZ)\n  normas/FW\n  de/FW\n  conducción/FW\n  y/FW\n  el/FW\n  (ADJP mal/JJ)\n  estado/FW\n  de/FW\n  mantenimiento/FW\n  de/FW\n  muchos/FW\n  vehículos/FW\n  (NP son/NN las/NN principales/NNS)\n  (VP causas/VBP)\n  de/IN\n  los/FW\n  (NP accidentes/NNS)\n  (PP en/IN (NP el/NN país/NN africano/NN))\n  ./.)",
+      "(S\n  (NP En/NNP este/NN contexto/NN)\n  ,/,\n  (NP el/JJ gobierno/NN)\n  (PP de/IN (NP Sidama/NNP ha/NN expresado/NN sus/NN))\n  (VP condolencias/VBD (NP a/DT los/JJ familiares/NNS))\n  de/IN\n  las/FW\n  (NP víctimas/NN)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "GOBIERNOS_OFICIALES",
+      "RECURSOS_NATURALES",
+      "CANTIDADES_NUMERICAS",
+      "REGIONES_PROVINCIAS",
+      "ECONOMIA_COMERCIO_FINANZAS"
+    ],
+    "matches": [
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "capital",
+        "position": [
+          478,
+          485
+        ],
+        "start": 478,
+        "end": 485
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "gobierno de sidama ha",
+        "position": [
+          724,
+          745
+        ],
+        "start": 724,
+        "end": 745
+      },
+      {
+        "category": "RECURSOS_NATURALES",
+        "matched_text": "río",
+        "position": [
+          85,
+          88
+        ],
+        "start": 85,
+        "end": 88
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "estado de",
+        "position": [
+          593,
+          602
+        ],
+        "start": 593,
+        "end": 602
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "71 personas",
+        "position": [
+          9,
+          20
+        ],
+        "start": 9,
+        "end": 20
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "28 personas",
+        "position": [
+          905,
+          916
+        ],
+        "start": 905,
+        "end": 916
+      }
+    ],
+    "match_count": 6
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "puente Gelana",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Bona Zuria Woreda",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Wolaita",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Sidama",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Etiopía",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Addis Abeba",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": []
+  },
+  "sentiment": {
+    "compound": 0.3818,
+    "pos": 0.028,
+    "neu": 0.959,
+    "neg": 0.013,
+    "label": "positive"
+  }
+}

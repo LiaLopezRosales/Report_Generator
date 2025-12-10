@@ -1,0 +1,594 @@
+{
+  "url": "https://www.telesurtv.net/gobierno-de-bolivia-y-transportistas-firman-acuerdo-para-evitar-huelga-nacional/",
+  "title": "Gobierno de Bolivia y transportistas firman acuerdo para evitar huelga nacional - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "Acuerdo",
+    "Bolivia",
+    "Gobierno",
+    "Transportistas"
+  ],
+  "text": "\nTransportistas de Bolivia suspendieron el bloqueo anunciado para este jueves a partir de un acuerdo que firmaron con el Gobierno este miércoles, informó el presidente de la Cámara Boliviana de Transporte (CBT), Héctor Mercado.\n\n\nEl ministro de Economía boliviano, Marcelo Montenegro, y el dirigente del transporte pesado, Héctor Mercado, rubricaron el convenio para trabajar en sus demandas por tiempo y materia.\n\n“Se ha llegado a buenos acuerdos e importantes consensos que demuestran que el pueblo boliviano llega a buenos puertos dialogando, esa es la filosofía que tiene el gobierno del presidente Luis Arce”, declaró Montenegro.\nMercado señaló que el acuerdo establece que se efectuarán “reuniones técnicas” que empezarán este jueves para solucionar los temas pendientes lo antes posible.\nAsimismo, destacó que existe el compromiso por parte del Gobierno para dotar divisas a su sector por medio del Banco Central de Bolivia (BCB), dando resolución a demanda relacionada con la escasez de dólares.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/gobierno-de-bolivia-y-transportistas-firman-acuerdo-para-evitar-huelga-nacional/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-06.json",
+    "message_index": 165,
+    "message_id": 72578,
+    "date": "2024-06-26T17:55:07+00:00",
+    "text": "teleSUR\nGobierno de Bolivia y transportistas firman acuerdo para evitar huelga nacional\nhttps://www.telesurtv.net/gobierno-de-bolivia-y-transportistas-firman-acuerdo-para-evitar-huelga-nacional/",
+    "photo_path": null,
+    "views": 1430,
+    "reactions": {},
+    "total_reactions": 0
+  },
+  "preprocessing": {
+    "cleaned": "transportistas de bolivia suspendieron el bloqueo anunciado para este jueves a partir de un acuerdo que firmaron con el gobierno este miércoles, informó el presidente de la cámara boliviana de transporte (cbt), héctor mercado. el ministro de economía boliviano, marcelo montenegro, y el dirigente del transporte pesado, héctor mercado, rubricaron el convenio para trabajar en sus demandas por tiempo y materia. “se ha llegado a buenos acuerdos e importantes consensos que demuestran que el pueblo boliviano llega a buenos puertos dialogando, esa es la filosofía que tiene el gobierno del presidente luis arce”, declaró montenegro. mercado señaló que el acuerdo establece que se efectuarán “reuniones técnicas” que empezarán este jueves para solucionar los temas pendientes lo antes posible. asimismo, destacó que existe el compromiso por parte del gobierno para dotar divisas a su sector por medio del banco central de bolivia (bcb), dando resolución a demanda relacionada con la escasez de dólares.",
+    "tokens": [
+      "transportistas",
+      "bolivia",
+      "suspendieron",
+      "bloqueo",
+      "anunciado",
+      "jueves",
+      "partir",
+      "acuerdo",
+      "firmaron",
+      "gobierno",
+      "miércoles",
+      ",",
+      "informó",
+      "presidente",
+      "cámara",
+      "boliviana",
+      "transporte",
+      "(",
+      "cbt",
+      ")",
+      ",",
+      "héctor",
+      "mercado",
+      ".",
+      "ministro",
+      "economía",
+      "boliviano",
+      ",",
+      "marcelo",
+      "montenegro",
+      ",",
+      "dirigente",
+      "transporte",
+      "pesado",
+      ",",
+      "héctor",
+      "mercado",
+      ",",
+      "rubricaron",
+      "convenio",
+      "trabajar",
+      "demandas",
+      "tiempo",
+      "materia",
+      ".",
+      "“",
+      "llegado",
+      "buenos",
+      "acuerdos",
+      "importantes",
+      "consensos",
+      "demuestran",
+      "pueblo",
+      "boliviano",
+      "llega",
+      "buenos",
+      "puertos",
+      "dialogando",
+      ",",
+      "filosofía",
+      "gobierno",
+      "presidente",
+      "luis",
+      "arce",
+      "”",
+      ",",
+      "declaró",
+      "montenegro",
+      ".",
+      "mercado",
+      "señaló",
+      "acuerdo",
+      "establece",
+      "efectuarán",
+      "“",
+      "reuniones",
+      "técnicas",
+      "”",
+      "empezarán",
+      "jueves",
+      "solucionar",
+      "temas",
+      "pendientes",
+      "posible",
+      ".",
+      "asimismo",
+      ",",
+      "destacó",
+      "existe",
+      "compromiso",
+      "parte",
+      "gobierno",
+      "dotar",
+      "divisas",
+      "sector",
+      "medio",
+      "banco",
+      "central",
+      "bolivia",
+      "(",
+      "bcb",
+      ")",
+      ",",
+      "dando",
+      "resolución",
+      "demanda",
+      "relacionada",
+      "escasez",
+      "dólares",
+      "."
+    ],
+    "token_count": 110,
+    "sentence_count": 5
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 26,
+      "FW": 15,
+      "NN": 70,
+      "NNS": 9,
+      "VBP": 7,
+      "IN": 4,
+      "JJ": 11,
+      "VBZ": 2
+    },
+    "bigram_freq": {
+      "NNP-FW": 3,
+      "FW-NNP": 4,
+      "NNP-NN": 10,
+      "NN-NN": 51,
+      "NN-NNS": 5,
+      "NNS-VBP": 7,
+      "VBP-IN": 1,
+      "IN-JJ": 1,
+      "JJ-NN": 5,
+      "NN-NNP": 8,
+      "VBP-JJ": 5,
+      "NN-IN": 2,
+      "IN-FW": 1,
+      "NNP-NNP": 11,
+      "NNP-IN": 1,
+      "IN-NNP": 1,
+      "FW-FW": 7,
+      "NNP-VBZ": 1,
+      "VBZ-JJ": 2,
+      "JJ-FW": 2,
+      "FW-NN": 3,
+      "IN-NN": 1,
+      "VBP-NNS": 1,
+      "NN-JJ": 1,
+      "JJ-NNS": 2,
+      "NN-FW": 2,
+      "JJ-JJ": 1,
+      "NN-VBZ": 1,
+      "NNS-JJ": 1,
+      "JJ-NNP": 1,
+      "FW-NNS": 1
+    },
+    "trigram_freq": {
+      "NNP-FW-NNP": 2,
+      "FW-NNP-NN": 2,
+      "NNP-NN-NN": 7,
+      "NN-NN-NN": 38,
+      "NN-NN-NNS": 3,
+      "NN-NNS-VBP": 5,
+      "NNS-VBP-IN": 1,
+      "VBP-IN-JJ": 1,
+      "IN-JJ-NN": 1,
+      "JJ-NN-NN": 3,
+      "NN-NN-NNP": 6,
+      "NN-NNP-NN": 3,
+      "NNP-NN-NNS": 1,
+      "NNS-VBP-JJ": 5,
+      "VBP-JJ-NN": 3,
+      "JJ-NN-IN": 1,
+      "NN-IN-FW": 1,
+      "IN-FW-NNP": 1,
+      "FW-NNP-NNP": 2,
+      "NNP-NNP-IN": 1,
+      "NNP-IN-NNP": 1,
+      "IN-NNP-NNP": 1,
+      "NNP-NNP-NNP": 3,
+      "NNP-NNP-FW": 2,
+      "NNP-FW-FW": 1,
+      "FW-FW-NNP": 1,
+      "NNP-NN-NNP": 2,
+      "NN-NNP-NNP": 5,
+      "NNP-NNP-VBZ": 1,
+      "NNP-VBZ-JJ": 1,
+      "VBZ-JJ-FW": 1,
+      "JJ-FW-NN": 1,
+      "FW-NN-NN": 2,
+      "NNP-NNP-NN": 4,
+      "NN-NN-IN": 1,
+      "NN-IN-NN": 1,
+      "IN-NN-NN": 1,
+      "NNS-VBP-NNS": 1,
+      "VBP-NNS-VBP": 1,
+      "NN-NN-JJ": 1,
+      "NN-JJ-NNS": 1,
+      "JJ-NNS-VBP": 1,
+      "VBP-JJ-FW": 1,
+      "JJ-FW-FW": 1,
+      "FW-FW-FW": 4,
+      "FW-FW-NN": 1,
+      "FW-NN-FW": 1,
+      "NN-FW-NN": 1,
+      "VBP-JJ-JJ": 1,
+      "JJ-JJ-NN": 1,
+      "JJ-NN-NNS": 1,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-JJ": 1,
+      "VBZ-JJ-NNS": 1,
+      "JJ-NNS-JJ": 1,
+      "NNS-JJ-NNP": 1,
+      "JJ-NNP-NN": 1,
+      "NN-NN-FW": 1,
+      "NN-FW-FW": 1,
+      "FW-FW-NNS": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 70,
+        "NNP": 26,
+        "FW": 15,
+        "JJ": 11,
+        "NNS": 9
+      },
+      "top_bigrams": {
+        "NN-NN": 51,
+        "NNP-NNP": 11,
+        "NNP-NN": 10,
+        "NN-NNP": 8,
+        "NNS-VBP": 7
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 38,
+        "NNP-NN-NN": 7,
+        "NN-NN-NNP": 6,
+        "NN-NNS-VBP": 5,
+        "NNS-VBP-JJ": 5
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 5,
+    "chunk_counts": {
+      "NP": 34,
+      "VP": 10,
+      "PP": 2,
+      "ADJP": 2
+    },
+    "top_rules": [
+      {
+        "rule": "NP -> ('Héctor', 'NNP') ('Mercado', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0377
+      },
+      {
+        "rule": "S -> NP ('de', 'FW') NP VP PP (',', ',') ADJP ('el', 'FW') ('presidente', 'FW') ('de', 'FW') ('la', 'FW') NP ('de', 'FW') NP ('(', '(') NP (')', ')') (',', ',') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0189
+      },
+      {
+        "rule": "NP -> ('Transportistas', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0189
+      },
+      {
+        "rule": "NP -> ('Bolivia', 'NNP') ('suspendieron', 'NN') ('el', 'NN') ('bloqueo', 'NN') ('anunciado', 'NN') ('para', 'NN') ('este', 'NN')",
+        "frequency": 1,
+        "weight": 0.0189
+      },
+      {
+        "rule": "VP -> ('jueves', 'VBZ') NP",
+        "frequency": 1,
+        "weight": 0.0189
+      },
+      {
+        "rule": "NP -> ('a', 'DT') ('partir', 'NN')",
+        "frequency": 1,
+        "weight": 0.0189
+      },
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 1,
+        "weight": 0.0189
+      },
+      {
+        "rule": "NP -> ('un', 'JJ') ('acuerdo', 'NN') ('que', 'NN') ('firmaron', 'NN') ('con', 'NN') ('el', 'NN') ('Gobierno', 'NNP') ('este', 'NN') ('miércoles', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0189
+      },
+      {
+        "rule": "ADJP -> ('informó', 'JJ')",
+        "frequency": 1,
+        "weight": 0.0189
+      },
+      {
+        "rule": "NP -> ('Cámara', 'NNP') ('Boliviana', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0189
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Transportistas"
+      },
+      {
+        "label": "NP",
+        "text": "Bolivia suspendieron el bloqueo anunciado para este"
+      },
+      {
+        "label": "VP",
+        "text": "jueves a partir"
+      },
+      {
+        "label": "NP",
+        "text": "a partir"
+      },
+      {
+        "label": "PP",
+        "text": "de un acuerdo que firmaron con el Gobierno este miércoles"
+      },
+      {
+        "label": "NP",
+        "text": "un acuerdo que firmaron con el Gobierno este miércoles"
+      },
+      {
+        "label": "ADJP",
+        "text": "informó"
+      },
+      {
+        "label": "NP",
+        "text": "Cámara Boliviana"
+      },
+      {
+        "label": "NP",
+        "text": "Transporte"
+      },
+      {
+        "label": "NP",
+        "text": "CBT"
+      },
+      {
+        "label": "NP",
+        "text": "Héctor Mercado"
+      },
+      {
+        "label": "NP",
+        "text": "El ministro"
+      },
+      {
+        "label": "NP",
+        "text": "Economía boliviano"
+      },
+      {
+        "label": "NP",
+        "text": "Marcelo Montenegro"
+      },
+      {
+        "label": "NP",
+        "text": "y"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Transportistas/NNP)\n  de/FW\n  (NP\n    Bolivia/NNP\n    suspendieron/NN\n    el/NN\n    bloqueo/NN\n    anunciado/NN\n    para/NN\n    este/NN)\n  (VP jueves/VBZ (NP a/DT partir/NN))\n  (PP\n    de/IN\n    (NP\n      un/JJ\n      acuerdo/NN\n      que/NN\n      firmaron/NN\n      con/NN\n      el/NN\n      Gobierno/NNP\n      este/NN\n      miércoles/NNS))\n  ,/,\n  (ADJP informó/JJ)\n  el/FW\n  presidente/FW\n  de/FW\n  la/FW\n  (NP Cámara/NNP Boliviana/NNP)\n  de/FW\n  (NP Transporte/NNP)\n  (/(\n  (NP CBT/NNP)\n  )/)\n  ,/,\n  (NP Héctor/NNP Mercado/NNP)\n  ./.)",
+      "(S\n  (NP El/NNP ministro/NN)\n  de/FW\n  (NP Economía/NNP boliviano/NN)\n  ,/,\n  (NP Marcelo/NNP Montenegro/NNP)\n  ,/,\n  (NP y/NNP)\n  (VP el/VBZ dirigente/JJ)\n  del/FW\n  (NP transporte/NN pesado/NN)\n  ,/,\n  (NP Héctor/NNP Mercado/NNP)\n  ,/,\n  (NP rubricaron/NN el/NN convenio/NN para/NN trabajar/NN)\n  (PP en/IN (NP sus/NN demandas/NN por/NN tiempo/NN y/NN materia/NN))\n  ./.)",
+      "(S\n  (NP “/JJ Se/NNP ha/NN)\n  (VP llegado/VBD (NP a/DT buenos/JJ acuerdos/NN e/NN))\n  (VP\n    importantes/VBZ\n    (NP\n      consensos/JJ\n      que/NN\n      demuestran/NN\n      que/NN\n      el/NN\n      pueblo/NN\n      boliviano/NN))\n  (VP llega/VBZ (NP a/DT buenos/JJ puertos/NN dialogando/NN))\n  ,/,\n  esa/FW\n  es/FW\n  la/FW\n  filosofía/FW\n  que/FW\n  (NP tiene/NN)\n  el/FW\n  (NP gobierno/NN del/NN presidente/NN Luis/NNP Arce/NNP ”/NNP)\n  ,/,\n  (NP declaró/NN Montenegro/NNP)\n  ./.)",
+      "(S\n  (NP\n    Mercado/NNP\n    señaló/NN\n    que/NN\n    el/NN\n    acuerdo/NN\n    establece/NN\n    que/NN\n    se/NN\n    efectuarán/NN\n    “/NNP)\n  (VP\n    reuniones/VBZ\n    (NP técnicas/NN ”/NNP que/NN empezarán/NN este/NN jueves/NNS))\n  (VP para/VBP (NP solucionar/JJ los/NN temas/NN))\n  (VP pendientes/VBZ (NP lo/JJ antes/NNS) posible/JJ)\n  ./.)",
+      "(S\n  (NP Asimismo/NNP)\n  ,/,\n  (NP\n    destacó/NN\n    que/NN\n    existe/NN\n    el/NN\n    compromiso/NN\n    por/NN\n    parte/NN\n    del/NN\n    Gobierno/NNP\n    para/NN\n    dotar/NN)\n  (VP\n    divisas/VBZ\n    (NP\n      a/DT\n      su/NN\n      sector/NN\n      por/NN\n      medio/NN\n      del/NN\n      Banco/NNP\n      Central/NNP))\n  de/FW\n  (NP Bolivia/NNP)\n  (/(\n  (NP BCB/NNP)\n  )/)\n  ,/,\n  (ADJP dando/JJ)\n  (VP resolución/VBP (NP a/DT demanda/NN relacionada/NN con/NN))\n  la/FW\n  escasez/FW\n  de/FW\n  (NP dólares/NNS)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "GOBIERNOS_OFICIALES",
+      "APROBACION_RECHAZO",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "ANTIIMPERIALISMO_SOBERANIA",
+      "PAISES"
+    ],
+    "matches": [
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "declaró",
+        "position": [
+          615,
+          622
+        ],
+        "start": 615,
+        "end": 622
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "informó",
+        "position": [
+          146,
+          153
+        ],
+        "start": 146,
+        "end": 153
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "gobierno del presidente luis",
+        "position": [
+          579,
+          607
+        ],
+        "start": 579,
+        "end": 607
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente de la",
+        "position": [
+          157,
+          173
+        ],
+        "start": 157,
+        "end": 173
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "ministro de economía boliviano",
+        "position": [
+          233,
+          263
+        ],
+        "start": 233,
+        "end": 263
+      },
+      {
+        "category": "APROBACION_RECHAZO",
+        "matched_text": "destacó",
+        "position": [
+          805,
+          812
+        ],
+        "start": 805,
+        "end": 812
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "bolivia",
+        "position": [
+          19,
+          26
+        ],
+        "start": 19,
+        "end": 26
+      },
+      {
+        "category": "ANTIIMPERIALISMO_SOBERANIA",
+        "matched_text": "bloqueo",
+        "position": [
+          43,
+          50
+        ],
+        "start": 43,
+        "end": 50
+      }
+    ],
+    "match_count": 8
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "BCB",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Banco Central de Bolivia",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Luis Arce",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Montenegro",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "CBT",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Marcelo Montenegro",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Gobierno",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Héctor Mercado",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Mercado",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Economía boliviano",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Transportistas de Bolivia",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Cámara Boliviana de Transporte",
+        "tipo": "Organizacion"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Transportistas de Bolivia",
+        "relacion": "SUSPENDER_INFORMAR",
+        "objeto": "Gobierno"
+      },
+      {
+        "sujeto": "Transportistas de Bolivia",
+        "relacion": "SUSPENDER_INFORMAR",
+        "objeto": "Cámara Boliviana de Transporte"
+      },
+      {
+        "sujeto": "Transportistas de Bolivia",
+        "relacion": "SUSPENDER_INFORMAR",
+        "objeto": "CBT"
+      },
+      {
+        "sujeto": "Transportistas de Bolivia",
+        "relacion": "SUSPENDER_INFORMAR",
+        "objeto": "Héctor Mercado"
+      },
+      {
+        "sujeto": "Gobierno",
+        "relacion": "FIRMAR_SUSPENDER_INFORMAR",
+        "objeto": "Cámara Boliviana de Transporte"
+      },
+      {
+        "sujeto": "Gobierno",
+        "relacion": "FIRMAR_SUSPENDER_INFORMAR",
+        "objeto": "CBT"
+      },
+      {
+        "sujeto": "Gobierno",
+        "relacion": "FIRMAR_SUSPENDER_INFORMAR",
+        "objeto": "Héctor Mercado"
+      },
+      {
+        "sujeto": "Montenegro",
+        "relacion": "TENER_LLEGAR_DECLARAR",
+        "objeto": "Luis Arce"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.34,
+    "pos": 0.017,
+    "neu": 0.983,
+    "neg": 0.0,
+    "label": "positive"
+  }
+}

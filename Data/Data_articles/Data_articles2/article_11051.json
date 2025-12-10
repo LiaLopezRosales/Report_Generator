@@ -1,0 +1,848 @@
+{
+  "url": "https://www.telesurtv.net/venezuela-lamenta-deceso-de-jimmy-carter-y-destaca-sus-aportes-a-la-paz-global/",
+  "title": "Venezuela lamenta deceso de Jimmy Carter y destaca sus aportes a la paz global - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "Centro Carter",
+    "Democracia",
+    "Hugo Chávez",
+    "Jimmy Carter",
+    "participación",
+    "Proceso electoral venezolano",
+    "Venezuela"
+  ],
+  "text": "\nEl Gobierno de Venezuela lamentó el fallecimiento del expresidente de los Estados Unidos, Jimmy Carter (1977-1981), ocurrido este domingo a la edad de cien años, y extendió a sus familiares y allegados sus más sinceras condolencias.\nA través de un comunicado emitido por la Cancillería venezolana, se manifestó que “el expresidente Carter fue un hombre de demostrado compromiso con la paz y con el diálogo, tal y como demostró a través de sus lazos de amistad con los presidentes Hugo Chávez y Nicolás Maduro“.\nDe acuerdo con el texto, “su visión y compromiso con la democracia en momentos sensibles para Venezuela contribuyeron a desmontar los intentos desestabilizadores y la intolerancia de la ultraderecha y del golpismo, razón por la cual Venezuela lo recordará con agradecimiento“.\n“En un momento en que el mundo se enfrenta a una crisis de liderazgos globales, la memoria de Jimmy Carter debe servir como recordatorio de que los valores de paz, democracia, libre autodeterminación de los pueblos y justicia siempre deben prevalecer“, enfatiza la nota, que sostiene que los aportes de Jimmy Carter “a la política global y su dedicación a la paz han dejado una huella imborrable en el mundo“.\nCarter murió este domingo a la edad de cien años en la localidad de Plains, al sur del estado de Georgia (sureste).\nEl Centro Carter informó que el 39° Presidente de los EE.UU. será honrado en ceremonias públicas que tendrán lugar en la ciudad de Washington y en Georgia. A continuación será enterrado en Plains, confirmó uno de sus hijos, Chip Carter.\nEn 2012, Carter elogió a la nación bolivariana por su sistema de votación electrónico respaldado por papeletas, y afirmó que a partir de “las 92 elecciones que hemos monitoreado [Centro Carter], yo diría que el proceso electoral en Venezuela es el mejor en el mundo”.\nEl fundador de dicho centro, el cual posee prestigio en numerosos países, reconoció que un sistema donde se vota de manera directa, secreta y universal, sin intermediarios, y que permite verificar la identidad del elector de forma inequívoca era uno de los mejores en su momento.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/venezuela-lamenta-deceso-de-jimmy-carter-y-destaca-sus-aportes-a-la-paz-global/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-12.json",
+    "message_index": 113,
+    "message_id": 83278,
+    "date": "2024-12-30T01:55:13+00:00",
+    "text": "teleSUR\nVenezuela lamenta deceso de Jimmy Carter y destaca sus aportes a la paz global\nhttps://www.telesurtv.net/venezuela-lamenta-deceso-de-jimmy-carter-y-destaca-sus-aportes-a-la-paz-global/",
+    "photo_path": null,
+    "views": 2997,
+    "reactions": {
+      "👍": 48,
+      "🤔": 6,
+      "🙏": 5
+    },
+    "total_reactions": 59
+  },
+  "preprocessing": {
+    "cleaned": "el gobierno de venezuela lamentó el fallecimiento del expresidente de los estados unidos, jimmy carter (1977-1981), ocurrido este domingo a la edad de cien años, y extendió a sus familiares y allegados sus más sinceras condolencias. a través de un comunicado emitido por la cancillería venezolana, se manifestó que “el expresidente carter fue un hombre de demostrado compromiso con la paz y con el diálogo, tal y como demostró a través de sus lazos de amistad con los presidentes hugo chávez y nicolás maduro“. de acuerdo con el texto, “su visión y compromiso con la democracia en momentos sensibles para venezuela contribuyeron a desmontar los intentos desestabilizadores y la intolerancia de la ultraderecha y del golpismo, razón por la cual venezuela lo recordará con agradecimiento“. “en un momento en que el mundo se enfrenta a una crisis de liderazgos globales, la memoria de jimmy carter debe servir como recordatorio de que los valores de paz, democracia, libre autodeterminación de los pueblos y justicia siempre deben prevalecer“, enfatiza la nota, que sostiene que los aportes de jimmy carter “a la política global y su dedicación a la paz han dejado una huella imborrable en el mundo“. carter murió este domingo a la edad de cien años en la localidad de plains, al sur del estado de georgia (sureste). el centro carter informó que el 39° presidente de los ee.uu. será honrado en ceremonias públicas que tendrán lugar en la ciudad de washington y en georgia. a continuación será enterrado en plains, confirmó uno de sus hijos, chip carter. en 2012, carter elogió a la nación bolivariana por su sistema de votación electrónico respaldado por papeletas, y afirmó que a partir de “las 92 elecciones que hemos monitoreado [centro carter], yo diría que el proceso electoral en venezuela es el mejor en el mundo”. el fundador de dicho centro, el cual posee prestigio en numerosos países, reconoció que un sistema donde se vota de manera directa, secreta y universal, sin intermediarios, y que permite verificar la identidad del elector de forma inequívoca era uno de los mejores en su momento.",
+    "tokens": [
+      "gobierno",
+      "venezuela",
+      "lamentó",
+      "fallecimiento",
+      "expresidente",
+      "unidos",
+      ",",
+      "jimmy",
+      "carter",
+      "(",
+      "1977-1981",
+      ")",
+      ",",
+      "ocurrido",
+      "domingo",
+      "edad",
+      "cien",
+      "años",
+      ",",
+      "extendió",
+      "familiares",
+      "allegados",
+      "sinceras",
+      "condolencias",
+      ".",
+      "través",
+      "comunicado",
+      "emitido",
+      "cancillería",
+      "venezolana",
+      ",",
+      "manifestó",
+      "“",
+      "expresidente",
+      "carter",
+      "hombre",
+      "demostrado",
+      "compromiso",
+      "paz",
+      "diálogo",
+      ",",
+      "tal",
+      "demostró",
+      "través",
+      "lazos",
+      "amistad",
+      "presidentes",
+      "hugo",
+      "chávez",
+      "nicolás",
+      "maduro",
+      "“",
+      ".",
+      "acuerdo",
+      "texto",
+      ",",
+      "“",
+      "visión",
+      "compromiso",
+      "democracia",
+      "momentos",
+      "sensibles",
+      "venezuela",
+      "contribuyeron",
+      "desmontar",
+      "intentos",
+      "desestabilizadores",
+      "intolerancia",
+      "ultraderecha",
+      "golpismo",
+      ",",
+      "razón",
+      "venezuela",
+      "recordará",
+      "agradecimiento",
+      "“",
+      ".",
+      "“",
+      "momento",
+      "mundo",
+      "enfrenta",
+      "crisis",
+      "liderazgos",
+      "globales",
+      ",",
+      "memoria",
+      "jimmy",
+      "carter",
+      "debe",
+      "servir",
+      "recordatorio",
+      "valores",
+      "paz",
+      ",",
+      "democracia",
+      ",",
+      "libre",
+      "autodeterminación",
+      "pueblos",
+      "justicia",
+      "siempre",
+      "deben",
+      "prevalecer",
+      "“",
+      ",",
+      "enfatiza",
+      "nota",
+      ",",
+      "sostiene",
+      "aportes",
+      "jimmy",
+      "carter",
+      "“",
+      "política",
+      "global",
+      "dedicación",
+      "paz",
+      "dejado",
+      "huella",
+      "imborrable",
+      "mundo",
+      "“",
+      ".",
+      "carter",
+      "murió",
+      "domingo",
+      "edad",
+      "cien",
+      "años",
+      "localidad",
+      "plains",
+      ",",
+      "sur",
+      "georgia",
+      "(",
+      "sureste",
+      ")",
+      ".",
+      "centro",
+      "carter",
+      "informó",
+      "39°",
+      "presidente",
+      "ee.uu.",
+      "honrado",
+      "ceremonias",
+      "públicas",
+      "lugar",
+      "ciudad",
+      "washington",
+      "georgia",
+      ".",
+      "continuación",
+      "enterrado",
+      "plains",
+      ",",
+      "confirmó",
+      "hijos",
+      ",",
+      "chip",
+      "carter",
+      ".",
+      "2012",
+      ",",
+      "carter",
+      "elogió",
+      "nación",
+      "bolivariana",
+      "sistema",
+      "votación",
+      "electrónico",
+      "respaldado",
+      "papeletas",
+      ",",
+      "afirmó",
+      "partir",
+      "“",
+      "92",
+      "elecciones",
+      "monitoreado",
+      "[",
+      "centro",
+      "carter",
+      "]",
+      ",",
+      "diría",
+      "proceso",
+      "electoral",
+      "venezuela",
+      "mejor",
+      "mundo",
+      "”",
+      ".",
+      "fundador",
+      "dicho",
+      "centro",
+      ",",
+      "posee",
+      "prestigio",
+      "numerosos",
+      "países",
+      ",",
+      "reconoció",
+      "sistema",
+      "vota",
+      "manera",
+      "directa",
+      ",",
+      "secreta",
+      "universal",
+      ",",
+      "intermediarios",
+      ",",
+      "permite",
+      "verificar",
+      "identidad",
+      "elector",
+      "forma",
+      "inequívoca",
+      "mejores",
+      "momento",
+      "."
+    ],
+    "token_count": 222,
+    "sentence_count": 9
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 42,
+      "FW": 83,
+      "CC": 2,
+      "VB": 1,
+      "JJ": 28,
+      "NN": 121,
+      "IN": 18,
+      "NNS": 11,
+      "VBP": 10,
+      "VBZ": 2,
+      "VBD": 1,
+      "CD": 3
+    },
+    "bigram_freq": {
+      "NNP-NNP": 17,
+      "NNP-FW": 7,
+      "FW-NNP": 11,
+      "NNP-CC": 2,
+      "CC-VB": 1,
+      "VB-JJ": 1,
+      "JJ-NN": 19,
+      "NN-NN": 74,
+      "NN-IN": 16,
+      "IN-FW": 13,
+      "NNP-JJ": 1,
+      "NN-FW": 8,
+      "FW-FW": 49,
+      "FW-NN": 11,
+      "NN-NNS": 4,
+      "NNS-VBP": 7,
+      "VBP-NN": 2,
+      "VBP-FW": 1,
+      "NN-NNP": 5,
+      "NNP-NN": 13,
+      "NN-VBP": 2,
+      "VBP-NNP": 2,
+      "NN-JJ": 8,
+      "FW-JJ": 7,
+      "FW-NNS": 4,
+      "NNS-NNP": 1,
+      "IN-NN": 2,
+      "NN-VBZ": 2,
+      "VBZ-JJ": 1,
+      "JJ-FW": 3,
+      "JJ-NNP": 1,
+      "IN-NNP": 2,
+      "NNS-FW": 1,
+      "JJ-NNS": 2,
+      "NNS-IN": 1,
+      "VBZ-IN": 1,
+      "NNP-VBP": 1,
+      "VBP-JJ": 5,
+      "NN-VBD": 1,
+      "VBD-CD": 1,
+      "CD-NNP": 2,
+      "NNP-CD": 1,
+      "CC-FW": 1,
+      "FW-CD": 1,
+      "CD-NNS": 1,
+      "NNS-JJ": 1,
+      "JJ-JJ": 3,
+      "IN-JJ": 1
+    },
+    "trigram_freq": {
+      "NNP-NNP-FW": 3,
+      "NNP-FW-NNP": 2,
+      "FW-NNP-CC": 1,
+      "NNP-CC-VB": 1,
+      "CC-VB-JJ": 1,
+      "VB-JJ-NN": 1,
+      "JJ-NN-NN": 12,
+      "NN-NN-IN": 13,
+      "NN-IN-FW": 12,
+      "IN-FW-NNP": 1,
+      "FW-NNP-NNP": 3,
+      "NNP-NNP-NNP": 9,
+      "NNP-NNP-JJ": 1,
+      "NNP-JJ-NN": 1,
+      "NN-NN-NN": 43,
+      "NN-NN-FW": 4,
+      "NN-FW-FW": 4,
+      "FW-FW-FW": 35,
+      "FW-FW-NN": 3,
+      "FW-NN-NNS": 1,
+      "NN-NNS-VBP": 4,
+      "NNS-VBP-NN": 2,
+      "VBP-NN-NN": 2,
+      "NN-NN-NNS": 1,
+      "NNS-VBP-FW": 1,
+      "VBP-FW-FW": 1,
+      "FW-NN-NN": 6,
+      "NN-NN-NNP": 2,
+      "NN-NNP-NN": 3,
+      "NNP-NN-NN": 10,
+      "NN-NN-VBP": 1,
+      "NN-VBP-NNP": 1,
+      "VBP-NNP-NN": 2,
+      "NNP-NN-JJ": 1,
+      "NN-JJ-NN": 7,
+      "JJ-NN-IN": 3,
+      "IN-FW-JJ": 3,
+      "FW-JJ-NN": 5,
+      "NN-FW-NN": 3,
+      "NN-NN-JJ": 6,
+      "IN-FW-FW": 3,
+      "FW-FW-NNS": 2,
+      "FW-NNS-NNP": 1,
+      "NNS-NNP-NNP": 1,
+      "NNP-FW-NN": 2,
+      "NN-IN-NN": 2,
+      "IN-NN-NNS": 1,
+      "NNS-VBP-NNP": 1,
+      "NN-NN-VBZ": 2,
+      "NN-VBZ-JJ": 1,
+      "VBZ-JJ-FW": 1,
+      "JJ-FW-FW": 2,
+      "FW-FW-JJ": 2,
+      "NN-FW-JJ": 1,
+      "FW-JJ-NNP": 1,
+      "JJ-NNP-NN": 1,
+      "NN-IN-NNP": 1,
+      "IN-NNP-FW": 1,
+      "FW-NN-FW": 2,
+      "IN-FW-NNS": 2,
+      "FW-NNS-FW": 1,
+      "NNS-FW-FW": 1,
+      "FW-FW-NNP": 7,
+      "NNP-NNP-NN": 3,
+      "FW-JJ-NNS": 1,
+      "JJ-NNS-IN": 1,
+      "NNS-IN-FW": 1,
+      "IN-FW-NN": 3,
+      "NN-VBZ-IN": 1,
+      "VBZ-IN-NNP": 1,
+      "IN-NNP-NNP": 1,
+      "NNP-FW-JJ": 1,
+      "JJ-NN-JJ": 1,
+      "JJ-NN-FW": 1,
+      "FW-NN-NNP": 1,
+      "FW-NNP-VBP": 1,
+      "NNP-VBP-JJ": 1,
+      "VBP-JJ-FW": 1,
+      "FW-NNP-NN": 4,
+      "NNP-NN-NNP": 1,
+      "NN-NNP-NNP": 2,
+      "NN-NN-VBD": 1,
+      "NN-VBD-CD": 1,
+      "VBD-CD-NNP": 1,
+      "CD-NNP-FW": 1,
+      "NNP-FW-FW": 2,
+      "IN-NN-NN": 1,
+      "FW-NNP-FW": 2,
+      "NNP-NNP-CD": 1,
+      "NNP-CD-NNP": 1,
+      "CD-NNP-CC": 1,
+      "NNP-CC-FW": 1,
+      "CC-FW-FW": 1,
+      "FW-NNS-VBP": 2,
+      "NNS-VBP-JJ": 3,
+      "VBP-JJ-NN": 3,
+      "IN-FW-CD": 1,
+      "FW-CD-NNS": 1,
+      "CD-NNS-JJ": 1,
+      "NNS-JJ-JJ": 1,
+      "JJ-JJ-NN": 2,
+      "JJ-NN-NNP": 1,
+      "NN-JJ-JJ": 1,
+      "JJ-JJ-FW": 1,
+      "JJ-FW-NNP": 1,
+      "NNP-NN-FW": 1,
+      "FW-NN-VBP": 1,
+      "NN-VBP-JJ": 1,
+      "NN-IN-JJ": 1,
+      "IN-JJ-NNS": 1,
+      "JJ-NNS-VBP": 1,
+      "VBP-JJ-JJ": 1,
+      "JJ-NN-NNS": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 121,
+        "FW": 83,
+        "NNP": 42,
+        "JJ": 28,
+        "IN": 18
+      },
+      "top_bigrams": {
+        "NN-NN": 74,
+        "FW-FW": 49,
+        "JJ-NN": 19,
+        "NNP-NNP": 17,
+        "NN-IN": 16
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 43,
+        "FW-FW-FW": 35,
+        "NN-NN-IN": 13,
+        "JJ-NN-NN": 12,
+        "NN-IN-FW": 12
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 9,
+    "chunk_counts": {
+      "NP": 91,
+      "VP": 23,
+      "PP": 8,
+      "ADJP": 1
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 4,
+        "weight": 0.0303
+      },
+      {
+        "rule": "NP -> ('Venezuela', 'NNP')",
+        "frequency": 3,
+        "weight": 0.0227
+      },
+      {
+        "rule": "NP -> ('a', 'DT') ('la', 'NN')",
+        "frequency": 3,
+        "weight": 0.0227
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 3,
+        "weight": 0.0227
+      },
+      {
+        "rule": "NP -> ('Jimmy', 'NNP') ('Carter', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0152
+      },
+      {
+        "rule": "NP -> ('“', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0152
+      },
+      {
+        "rule": "NP -> ('Carter', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0152
+      },
+      {
+        "rule": "S -> NP ('de', 'FW') NP ('lamentó', 'CC') VP ('de', 'IN') ('los', 'FW') NP (',', ',') NP ('(', '(') ('1977-1981', 'CD') (')', ')') (',', ',') NP VP ('edad', 'FW') ('de', 'FW') ('cien', 'FW') NP (',', ',') ('y', 'PRP') VP VP VP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0076
+      },
+      {
+        "rule": "NP -> ('El', 'NNP') ('Gobierno', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0076
+      },
+      {
+        "rule": "VP -> ('el', 'VB') NP",
+        "frequency": 1,
+        "weight": 0.0076
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El Gobierno"
+      },
+      {
+        "label": "NP",
+        "text": "Venezuela"
+      },
+      {
+        "label": "VP",
+        "text": "el fallecimiento del expresidente"
+      },
+      {
+        "label": "NP",
+        "text": "fallecimiento del expresidente"
+      },
+      {
+        "label": "NP",
+        "text": "Estados Unidos"
+      },
+      {
+        "label": "NP",
+        "text": "Jimmy Carter"
+      },
+      {
+        "label": "NP",
+        "text": "ocurrido este"
+      },
+      {
+        "label": "VP",
+        "text": "domingo a la"
+      },
+      {
+        "label": "NP",
+        "text": "a la"
+      },
+      {
+        "label": "NP",
+        "text": "años"
+      },
+      {
+        "label": "VP",
+        "text": "extendió a sus"
+      },
+      {
+        "label": "NP",
+        "text": "a sus"
+      },
+      {
+        "label": "VP",
+        "text": "familiares y allegados"
+      },
+      {
+        "label": "NP",
+        "text": "y allegados"
+      },
+      {
+        "label": "VP",
+        "text": "sus más sinceras condolencias"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP El/NNP Gobierno/NNP)\n  de/FW\n  (NP Venezuela/NNP)\n  lamentó/CC\n  (VP el/VB (NP fallecimiento/JJ del/NN expresidente/NN))\n  de/IN\n  los/FW\n  (NP Estados/NNP Unidos/NNP)\n  ,/,\n  (NP Jimmy/NNP Carter/NNP)\n  (/(\n  1977-1981/CD\n  )/)\n  ,/,\n  (NP ocurrido/JJ este/NN)\n  (VP domingo/VBZ (NP a/DT la/NN))\n  edad/FW\n  de/FW\n  cien/FW\n  (NP años/NN)\n  ,/,\n  y/PRP\n  (VP extendió/VBP (NP a/DT sus/NN))\n  (VP familiares/VBZ (NP y/JJ allegados/NNS))\n  (VP sus/VBP (NP más/JJ sinceras/NNS condolencias/NNS))\n  ./.)",
+      "(S\n  (NP A/DT través/NN)\n  (PP\n    de/IN\n    (NP\n      un/JJ\n      comunicado/NN\n      emitido/NN\n      por/NN\n      la/NN\n      Cancillería/NNP\n      venezolana/NN))\n  ,/,\n  se/FW\n  manifestó/FW\n  que/FW\n  “/FW\n  el/FW\n  expresidente/FW\n  (NP Carter/NNP fue/NN)\n  (NP un/JJ hombre/NN)\n  de/IN\n  demostrado/FW\n  (NP compromiso/JJ con/NN la/NN paz/NN y/NN con/NN el/NN diálogo/NN)\n  ,/,\n  (NP tal/JJ y/NN como/NN)\n  (VP demostró/VBZ (NP a/DT través/NN))\n  de/IN\n  sus/FW\n  lazos/FW\n  de/FW\n  amistad/FW\n  con/FW\n  los/FW\n  (NP\n    presidentes/NNS\n    Hugo/NNP\n    Chávez/NNP\n    y/NNP\n    Nicolás/NNP\n    Maduro/NNP\n    “/NNP)\n  ./.)",
+      "(S\n  (NP De/NNP)\n  acuerdo/FW\n  (NP con/NN el/NN texto/NN)\n  ,/,\n  (NP “/NNP)\n  (VP\n    su/VBD\n    (NP visión/JJ y/NN compromiso/NN con/NN la/NN democracia/NN))\n  (PP en/IN (NP momentos/NN sensibles/NNS))\n  (VP para/VBP (NP Venezuela/NNP))\n  (VP contribuyeron/VBP (NP a/DT desmontar/NN los/NN intentos/NN))\n  (VP desestabilizadores/VBZ y/JJ)\n  la/FW\n  intolerancia/FW\n  de/FW\n  la/FW\n  (NP ultraderecha/JJ y/NN del/NN golpismo/NN)\n  ,/,\n  (NP razón/NN por/NN)\n  la/FW\n  (NP cual/JJ Venezuela/NNP lo/NN recordará/NN con/NN)\n  (PP agradecimiento/IN (NP “/NN))\n  ./.)",
+      "(S\n  (NP “/NN En/NNP un/NN momento/NN)\n  en/FW\n  (NP que/NN)\n  el/FW\n  mundo/FW\n  se/FW\n  enfrenta/FW\n  (NP a/DT una/JJ crisis/NN)\n  de/IN\n  liderazgos/FW\n  (NP globales/NNS)\n  ,/,\n  la/FW\n  memoria/FW\n  de/FW\n  (NP Jimmy/NNP Carter/NNP debe/NN servir/NN como/NN recordatorio/NN)\n  de/IN\n  que/FW\n  (NP los/JJ valores/NNS)\n  (PP de/IN (NP paz/NN))\n  ,/,\n  (NP democracia/NN)\n  ,/,\n  (NP libre/JJ autodeterminación/NN)\n  de/IN\n  los/FW\n  (NP\n    pueblos/JJ\n    y/NN\n    justicia/NN\n    siempre/NN\n    deben/NN\n    prevalecer/NN\n    “/NNP)\n  ,/,\n  (VP enfatiza/VBZ)\n  la/FW\n  nota/FW\n  ,/,\n  (NP que/JJ sostiene/NN que/NN los/NN)\n  (VP aportes/VBZ)\n  (PP de/IN (NP Jimmy/NNP Carter/NNP))\n  (VP “/VBD (NP a/DT la/NN política/NN) (NP global/JJ y/NN su/NN))\n  (VP\n    dedicación/VBZ\n    (NP a/DT la/NN paz/NN han/NN dejado/NN)\n    (NP una/JJ huella/NN)\n    (NP imborrable/JJ en/NN))\n  el/FW\n  (NP mundo/NN “/NN)\n  ./.)",
+      "(S\n  (NP Carter/NNP)\n  murió/PRP\n  (VP este/VBP)\n  (VP domingo/VB (NP a/DT la/NN))\n  edad/FW\n  de/FW\n  cien/FW\n  años/FW\n  en/FW\n  la/FW\n  localidad/FW\n  de/FW\n  (NP Plains/NNP)\n  ,/,\n  (NP al/JJ sur/NN del/NN)\n  estado/FW\n  de/FW\n  (NP Georgia/NNP)\n  (/(\n  (NP sureste/NN)\n  )/)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "CIUDADES_CAPITALES",
+      "GOBIERNOS_OFICIALES",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "REGIONES_PROVINCIAS",
+      "PAISES",
+      "PROTESTAS_CONFLICTOS_SOCIALES",
+      "LOCALIZACIONES_ESPECIFICAS",
+      "RELACIONES_INTERNACIONALES"
+    ],
+    "matches": [
+      {
+        "category": "PROTESTAS_CONFLICTOS_SOCIALES",
+        "matched_text": "manifestó",
+        "position": [
+          302,
+          311
+        ],
+        "start": 302,
+        "end": 311
+      },
+      {
+        "category": "RELACIONES_INTERNACIONALES",
+        "matched_text": "acuerdo con el texto, “su visión y compromiso",
+        "position": [
+          515,
+          560
+        ],
+        "start": 515,
+        "end": 560
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "afirmó",
+        "position": [
+          1666,
+          1672
+        ],
+        "start": 1666,
+        "end": 1672
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "informó",
+        "position": [
+          1332,
+          1339
+        ],
+        "start": 1332,
+        "end": 1339
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "gobierno de venezuela lamentó",
+        "position": [
+          4,
+          33
+        ],
+        "start": 4,
+        "end": 33
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente de los",
+        "position": [
+          1351,
+          1368
+        ],
+        "start": 1351,
+        "end": 1368
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "estados unidos",
+        "position": [
+          75,
+          89
+        ],
+        "start": 75,
+        "end": 89
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "venezuela",
+        "position": [
+          16,
+          25
+        ],
+        "start": 16,
+        "end": 25
+      },
+      {
+        "category": "CIUDADES_CAPITALES",
+        "matched_text": "la paz",
+        "position": [
+          383,
+          389
+        ],
+        "start": 383,
+        "end": 389
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "estado de",
+        "position": [
+          1286,
+          1295
+        ],
+        "start": 1286,
+        "end": 1295
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "centro carter",
+        "position": [
+          1318,
+          1331
+        ],
+        "start": 1318,
+        "end": 1331
+      }
+    ],
+    "match_count": 11
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Nicolás Maduro",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Venezuela",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "EE.UU.",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "los Estados Unidos",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Georgia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Gobierno de Venezuela",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Washington",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Jimmy Carter",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Chip Carter",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Carter",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Hugo Chávez",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Centro Carter",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Plains",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Centro Carter",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Gobierno de Venezuela",
+        "relacion": "LAMENTAR",
+        "objeto": "los Estados Unidos"
+      },
+      {
+        "sujeto": "Gobierno de Venezuela",
+        "relacion": "LAMENTAR",
+        "objeto": "Jimmy Carter"
+      },
+      {
+        "sujeto": "Carter",
+        "relacion": "MORIR",
+        "objeto": "Plains"
+      },
+      {
+        "sujeto": "Carter",
+        "relacion": "MORIR",
+        "objeto": "Georgia"
+      },
+      {
+        "sujeto": "Centro Carter",
+        "relacion": "INFORMAR",
+        "objeto": "EE.UU."
+      },
+      {
+        "sujeto": "Centro Carter",
+        "relacion": "INFORMAR",
+        "objeto": "Washington"
+      },
+      {
+        "sujeto": "Centro Carter",
+        "relacion": "INFORMAR",
+        "objeto": "Georgia"
+      },
+      {
+        "sujeto": "EE.UU.",
+        "relacion": "HONRAR_INFORMAR",
+        "objeto": "Washington"
+      },
+      {
+        "sujeto": "EE.UU.",
+        "relacion": "HONRAR_INFORMAR",
+        "objeto": "Georgia"
+      },
+      {
+        "sujeto": "Carter",
+        "relacion": "ELOGIAR",
+        "objeto": "Centro Carter"
+      },
+      {
+        "sujeto": "Carter",
+        "relacion": "ELOGIAR",
+        "objeto": "Venezuela"
+      },
+      {
+        "sujeto": "Centro Carter",
+        "relacion": "DECIR_AFIRMAR_ELOGIAR",
+        "objeto": "Venezuela"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.8271,
+    "pos": 0.0,
+    "neu": 0.977,
+    "neg": 0.023,
+    "label": "negative"
+  }
+}

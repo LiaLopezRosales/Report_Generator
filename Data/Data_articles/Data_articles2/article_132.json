@@ -1,0 +1,750 @@
+{
+  "url": "https://www.telesurtv.net/ataques-de-ee-uu-contra-un-centro-de-migrantes-en-yemen-dejaron-mas-de-65-muertos/",
+  "title": "Ataques de EE.UU. contra un centro de migrantes en Yemen dejaron más de 65 muertos - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Bombardeos EEUU",
+    "Centro de Migrantes",
+    "Fuerzas Hutíes",
+    "Gobierno Yemení",
+    "Migrantes africanos muertos"
+  ],
+  "text": "En un nuevo hecho de Estados Unidos que podría ser calificado como crimen de guerra contra Yemen, los nuevos ataques aéreos estadounidenses a la capital, Saná, dejaron un saldo de al menos 68 personas muertas y alrededor de 47 heridos.\nDe acuerdo a medios locales, los bombardeos estadounidenses de este lunes se concentraron contra un centro de migrantes en el norte de la capital yemení.\nEl canal de televisión Al Masira, difundió imágenes de decenas de cadáveres, así como de personas heridas, entre las ruinas del centro de retención, que alberga migrantes africanos que entraron irregularmente al país.\nFuentes médicas citadas por la televisora, indicaron que al menos 55 personas habían sido trasladadas a un hospital de Sadá, de los cuales dos fallecieron tras ser internados. La cadena también había informado de que alrededor de 30 personas seguían desaparecidas tras el ataque.\nSegún fuentes del ministerio de Interior de Yemen, el centro de inmigrantes bombardeado está supervisado por la Organización Internacional de Migraciones y la Cruz Roja.\nEn un comunicado, el ministerio del Interior yemeni señaló que al momento del bombardeó la instalación albergaba a 115 personas y añadió que atacar a civiles inocentes y a migrantes es un crimen que se suma al historial de crímenes de EE.UU. contra el pueblo de Yemen.\nAsimismo, las fuerzas hutíes denunciaron que este ataque contra un “refugio” bajo supervisión de organismos internacionales constituye “un crimen de guerra en toda regla“.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/ataques-de-ee-uu-contra-un-centro-de-migrantes-en-yemen-dejaron-mas-de-65-muertos/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-04.json",
+    "message_index": 181,
+    "message_id": 92905,
+    "date": "2025-04-28T09:55:07+00:00",
+    "text": "teleSUR\nAtaques de EE.UU. contra un centro de migrantes en Yemen dejaron más de 65 muertos\nhttps://www.telesurtv.net/ataques-de-ee-uu-contra-un-centro-de-migrantes-en-yemen-dejaron-mas-de-65-muertos/",
+    "photo_path": null,
+    "views": 2283,
+    "reactions": {
+      "🤬": 54,
+      "💩": 8,
+      "😢": 3,
+      "👍": 1
+    },
+    "total_reactions": 66
+  },
+  "preprocessing": {
+    "cleaned": "en un nuevo hecho de estados unidos que podría ser calificado como crimen de guerra contra yemen, los nuevos ataques aéreos estadounidenses a la capital, saná, dejaron un saldo de al menos 68 personas muertas y alrededor de 47 heridos. de acuerdo a medios locales, los bombardeos estadounidenses de este lunes se concentraron contra un centro de migrantes en el norte de la capital yemení. el canal de televisión al masira, difundió imágenes de decenas de cadáveres, así como de personas heridas, entre las ruinas del centro de retención, que alberga migrantes africanos que entraron irregularmente al país. fuentes médicas citadas por la televisora, indicaron que al menos 55 personas habían sido trasladadas a un hospital de sadá, de los cuales dos fallecieron tras ser internados. la cadena también había informado de que alrededor de 30 personas seguían desaparecidas tras el ataque. según fuentes del ministerio de interior de yemen, el centro de inmigrantes bombardeado está supervisado por la organización internacional de migraciones y la cruz roja. en un comunicado, el ministerio del interior yemeni señaló que al momento del bombardeó la instalación albergaba a 115 personas y añadió que atacar a civiles inocentes y a migrantes es un crimen que se suma al historial de crímenes de ee.uu. contra el pueblo de yemen. asimismo, las fuerzas hutíes denunciaron que este ataque contra un “refugio” bajo supervisión de organismos internacionales constituye “un crimen de guerra en toda regla“.",
+    "tokens": [
+      "nuevo",
+      "hecho",
+      "unidos",
+      "podría",
+      "ser",
+      "calificado",
+      "crimen",
+      "guerra",
+      "yemen",
+      ",",
+      "nuevos",
+      "ataques",
+      "aéreos",
+      "estadounidenses",
+      "capital",
+      ",",
+      "saná",
+      ",",
+      "dejaron",
+      "saldo",
+      "menos",
+      "68",
+      "personas",
+      "muertas",
+      "alrededor",
+      "47",
+      "heridos",
+      ".",
+      "acuerdo",
+      "medios",
+      "locales",
+      ",",
+      "bombardeos",
+      "estadounidenses",
+      "lunes",
+      "concentraron",
+      "centro",
+      "migrantes",
+      "norte",
+      "capital",
+      "yemení",
+      ".",
+      "canal",
+      "televisión",
+      "masira",
+      ",",
+      "difundió",
+      "imágenes",
+      "decenas",
+      "cadáveres",
+      ",",
+      "así",
+      "personas",
+      "heridas",
+      ",",
+      "ruinas",
+      "centro",
+      "retención",
+      ",",
+      "alberga",
+      "migrantes",
+      "africanos",
+      "entraron",
+      "irregularmente",
+      "país",
+      ".",
+      "fuentes",
+      "médicas",
+      "citadas",
+      "televisora",
+      ",",
+      "indicaron",
+      "menos",
+      "55",
+      "personas",
+      "sido",
+      "trasladadas",
+      "hospital",
+      "sadá",
+      ",",
+      "cuales",
+      "dos",
+      "fallecieron",
+      "tras",
+      "ser",
+      "internados",
+      ".",
+      "cadena",
+      "informado",
+      "alrededor",
+      "30",
+      "personas",
+      "seguían",
+      "desaparecidas",
+      "tras",
+      "ataque",
+      ".",
+      "según",
+      "fuentes",
+      "ministerio",
+      "interior",
+      "yemen",
+      ",",
+      "centro",
+      "inmigrantes",
+      "bombardeado",
+      "supervisado",
+      "organización",
+      "internacional",
+      "migraciones",
+      "cruz",
+      "roja",
+      ".",
+      "comunicado",
+      ",",
+      "ministerio",
+      "interior",
+      "yemeni",
+      "señaló",
+      "momento",
+      "bombardeó",
+      "instalación",
+      "albergaba",
+      "115",
+      "personas",
+      "añadió",
+      "atacar",
+      "civiles",
+      "inocentes",
+      "migrantes",
+      "crimen",
+      "suma",
+      "historial",
+      "crímenes",
+      "ee.uu.",
+      "pueblo",
+      "yemen",
+      ".",
+      "asimismo",
+      ",",
+      "fuerzas",
+      "hutíes",
+      "denunciaron",
+      "ataque",
+      "“",
+      "refugio",
+      "”",
+      "bajo",
+      "supervisión",
+      "organismos",
+      "internacionales",
+      "constituye",
+      "“",
+      "crimen",
+      "guerra",
+      "toda",
+      "regla",
+      "“",
+      "."
+    ],
+    "token_count": 159,
+    "sentence_count": 8
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 24,
+      "JJ": 27,
+      "NN": 77,
+      "IN": 18,
+      "NNS": 22,
+      "FW": 34,
+      "VBP": 13,
+      "CD": 5,
+      "VBZ": 5,
+      "VBD": 1,
+      "$": 1,
+      "RB": 1
+    },
+    "bigram_freq": {
+      "NNP-JJ": 2,
+      "JJ-JJ": 4,
+      "JJ-NN": 14,
+      "NN-IN": 12,
+      "IN-NNP": 4,
+      "NNP-NNP": 6,
+      "NNP-NN": 8,
+      "NN-NN": 40,
+      "NN-JJ": 6,
+      "JJ-NNS": 7,
+      "NNS-IN": 5,
+      "IN-FW": 8,
+      "FW-JJ": 1,
+      "NNS-VBP": 12,
+      "VBP-JJ": 7,
+      "VBP-NNS": 1,
+      "VBP-NN": 4,
+      "NN-NNP": 7,
+      "FW-FW": 14,
+      "FW-CD": 1,
+      "CD-NNS": 3,
+      "NNS-JJ": 3,
+      "IN-CD": 2,
+      "CD-NN": 2,
+      "NNP-FW": 6,
+      "FW-NNS": 4,
+      "NNS-NNS": 1,
+      "IN-NN": 1,
+      "NN-NNS": 4,
+      "IN-NNS": 1,
+      "IN-JJ": 2,
+      "JJ-FW": 1,
+      "FW-NN": 8,
+      "NN-FW": 4,
+      "FW-NNP": 5,
+      "NN-VBZ": 1,
+      "VBZ-JJ": 2,
+      "NN-VBD": 1,
+      "VBD-$": 1,
+      "$-CD": 1,
+      "JJ-NNP": 1,
+      "NNP-VBZ": 2,
+      "VBZ-FW": 1,
+      "FW-VBZ": 1,
+      "VBZ-IN": 1,
+      "NN-VBP": 1,
+      "VBP-RB": 1,
+      "RB-CD": 1,
+      "NNS-VBZ": 1,
+      "VBZ-NNS": 1
+    },
+    "trigram_freq": {
+      "NNP-JJ-JJ": 1,
+      "JJ-JJ-NN": 3,
+      "JJ-NN-IN": 6,
+      "NN-IN-NNP": 4,
+      "IN-NNP-NNP": 2,
+      "NNP-NNP-NN": 2,
+      "NNP-NN-NN": 5,
+      "NN-NN-NN": 24,
+      "NN-NN-JJ": 4,
+      "NN-JJ-NNS": 1,
+      "JJ-NNS-IN": 3,
+      "NNS-IN-FW": 3,
+      "IN-FW-JJ": 1,
+      "FW-JJ-NNS": 1,
+      "JJ-NNS-VBP": 4,
+      "NNS-VBP-JJ": 7,
+      "VBP-JJ-NNS": 4,
+      "NNS-VBP-NNS": 1,
+      "VBP-NNS-VBP": 1,
+      "NNS-VBP-NN": 4,
+      "VBP-NN-NNP": 1,
+      "NN-NNP-NN": 4,
+      "NNP-NN-JJ": 1,
+      "NN-JJ-NN": 4,
+      "NN-IN-FW": 5,
+      "IN-FW-FW": 4,
+      "FW-FW-CD": 1,
+      "FW-CD-NNS": 1,
+      "CD-NNS-JJ": 3,
+      "NNS-JJ-NN": 1,
+      "NN-IN-CD": 2,
+      "IN-CD-NN": 1,
+      "CD-NN-NNP": 1,
+      "NN-NNP-FW": 1,
+      "NNP-FW-NNS": 1,
+      "FW-NNS-NNS": 1,
+      "NNS-NNS-VBP": 1,
+      "NNS-IN-NN": 1,
+      "IN-NN-NNS": 1,
+      "NN-NNS-VBP": 2,
+      "VBP-NN-NN": 1,
+      "NN-IN-NNS": 1,
+      "IN-NNS-IN": 1,
+      "NNS-IN-JJ": 1,
+      "IN-JJ-FW": 1,
+      "JJ-FW-FW": 1,
+      "FW-FW-FW": 6,
+      "FW-FW-NN": 3,
+      "FW-NN-NN": 4,
+      "NN-NN-NNP": 4,
+      "NNP-NN-FW": 1,
+      "NN-FW-FW": 2,
+      "FW-FW-NNP": 2,
+      "FW-NNP-NNP": 2,
+      "NNP-NN-NNS": 1,
+      "NN-NNS-IN": 1,
+      "FW-FW-NNS": 2,
+      "FW-NNS-VBP": 3,
+      "VBP-NN-IN": 1,
+      "IN-FW-NN": 2,
+      "FW-NN-FW": 2,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 2,
+      "JJ-NN-NN": 5,
+      "NN-NN-FW": 1,
+      "NN-FW-NN": 1,
+      "NN-NN-VBD": 1,
+      "NN-VBD-$": 1,
+      "VBD-$-CD": 1,
+      "$-CD-NN": 1,
+      "CD-NN-NN": 1,
+      "IN-NNP-FW": 2,
+      "NNP-FW-FW": 1,
+      "VBP-NN-NNS": 1,
+      "VBP-JJ-NNP": 1,
+      "JJ-NNP-NN": 1,
+      "NN-NN-IN": 3,
+      "FW-NN-IN": 2,
+      "IN-CD-NNS": 1,
+      "NNS-JJ-NNS": 1,
+      "VBP-JJ-NN": 2,
+      "JJ-NN-NNP": 1,
+      "NN-NNP-VBZ": 1,
+      "NNP-VBZ-FW": 1,
+      "VBZ-FW-NN": 1,
+      "NNP-FW-NNP": 3,
+      "FW-NNP-FW": 2,
+      "NNP-FW-NN": 1,
+      "NN-FW-VBZ": 1,
+      "FW-VBZ-IN": 1,
+      "VBZ-IN-JJ": 1,
+      "IN-JJ-NN": 1,
+      "NN-NNP-NNP": 1,
+      "NNP-NNP-FW": 1,
+      "NNP-NNP-NNP": 1,
+      "NNP-NNP-JJ": 1,
+      "NNP-JJ-NN": 1,
+      "NN-NN-VBP": 1,
+      "NN-VBP-RB": 1,
+      "VBP-RB-CD": 1,
+      "RB-CD-NNS": 1,
+      "NNS-JJ-JJ": 1,
+      "JJ-NN-NNS": 1,
+      "NN-NNS-VBZ": 1,
+      "NNS-VBZ-NNS": 1,
+      "VBZ-NNS-VBP": 1,
+      "JJ-NN-JJ": 1,
+      "FW-NNP-NN": 1,
+      "NNP-NNP-VBZ": 1,
+      "NNP-VBZ-JJ": 1,
+      "NN-JJ-JJ": 1,
+      "JJ-JJ-JJ": 1,
+      "IN-FW-NNS": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 77,
+        "FW": 34,
+        "JJ": 27,
+        "NNP": 24,
+        "NNS": 22
+      },
+      "top_bigrams": {
+        "NN-NN": 40,
+        "JJ-NN": 14,
+        "FW-FW": 14,
+        "NN-IN": 12,
+        "NNS-VBP": 12
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 24,
+        "NNS-VBP-JJ": 7,
+        "JJ-NN-IN": 6,
+        "FW-FW-FW": 6,
+        "NNP-NN-NN": 5
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 8,
+    "chunk_counts": {
+      "NP": 70,
+      "PP": 7,
+      "VP": 23,
+      "ADJP": 1
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 7,
+        "weight": 0.0642
+      },
+      {
+        "rule": "NP -> ('En', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0183
+      },
+      {
+        "rule": "VP -> ('y', 'VBP') NP",
+        "frequency": 2,
+        "weight": 0.0183
+      },
+      {
+        "rule": "NP -> ('alrededor', 'NN')",
+        "frequency": 2,
+        "weight": 0.0183
+      },
+      {
+        "rule": "NP -> ('ministerio', 'NN')",
+        "frequency": 2,
+        "weight": 0.0183
+      },
+      {
+        "rule": "NP -> ('Interior', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0183
+      },
+      {
+        "rule": "NP -> ('Yemen', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0183
+      },
+      {
+        "rule": "S -> NP NP PP NP ('de', 'IN') ('guerra', 'FW') NP (',', ',') VP VP VP (',', ',') NP (',', ',') NP NP ('de', 'IN') ('al', 'FW') ('menos', 'FW') ('68', 'CD') NP VP ('de', 'IN') ('47', 'CD') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0092
+      },
+      {
+        "rule": "NP -> ('un', 'JJ') ('nuevo', 'JJ') ('hecho', 'NN')",
+        "frequency": 1,
+        "weight": 0.0092
+      },
+      {
+        "rule": "NP -> ('Estados', 'NNP') ('Unidos', 'NNP') ('que', 'NN') ('podría', 'NN') ('ser', 'NN') ('calificado', 'NN')",
+        "frequency": 1,
+        "weight": 0.0092
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "En"
+      },
+      {
+        "label": "NP",
+        "text": "un nuevo hecho"
+      },
+      {
+        "label": "PP",
+        "text": "de Estados Unidos que podría ser calificado"
+      },
+      {
+        "label": "NP",
+        "text": "Estados Unidos que podría ser calificado"
+      },
+      {
+        "label": "NP",
+        "text": "como crimen"
+      },
+      {
+        "label": "NP",
+        "text": "contra Yemen"
+      },
+      {
+        "label": "VP",
+        "text": "los nuevos ataques"
+      },
+      {
+        "label": "NP",
+        "text": "nuevos ataques"
+      },
+      {
+        "label": "VP",
+        "text": "aéreos"
+      },
+      {
+        "label": "VP",
+        "text": "estadounidenses a la capital"
+      },
+      {
+        "label": "NP",
+        "text": "a la capital"
+      },
+      {
+        "label": "NP",
+        "text": "Saná"
+      },
+      {
+        "label": "NP",
+        "text": "dejaron"
+      },
+      {
+        "label": "NP",
+        "text": "un saldo"
+      },
+      {
+        "label": "NP",
+        "text": "personas muertas"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP En/NNP)\n  (NP un/JJ nuevo/JJ hecho/NN)\n  (PP\n    de/IN\n    (NP Estados/NNP Unidos/NNP que/NN podría/NN ser/NN calificado/NN))\n  (NP como/JJ crimen/NNS)\n  de/IN\n  guerra/FW\n  (NP contra/JJ Yemen/NNP)\n  ,/,\n  (VP los/VBZ (NP nuevos/JJ ataques/NNS))\n  (VP aéreos/VBP)\n  (VP estadounidenses/VBZ (NP a/DT la/JJ capital/NN))\n  ,/,\n  (NP Saná/NNP)\n  ,/,\n  (NP dejaron/NN)\n  (NP un/JJ saldo/NN)\n  de/IN\n  al/FW\n  menos/FW\n  68/CD\n  (NP personas/NNS muertas/NNS)\n  (VP y/VBP (NP alrededor/NN))\n  de/IN\n  47/CD\n  (NP heridos/NNS)\n  ./.)",
+      "(S\n  (NP De/NNP)\n  (VP acuerdo/VBZ (NP a/DT medios/JJ locales/NNS))\n  ,/,\n  (NP los/JJ bombardeos/JJ estadounidenses/NNS)\n  (PP de/IN (NP este/NN lunes/NNS))\n  (VP se/VBP (NP concentraron/NN contra/NN) (NP un/JJ centro/NN))\n  (PP de/IN (NP migrantes/NNS))\n  en/IN\n  (ADJP el/JJ)\n  norte/FW\n  de/FW\n  la/FW\n  (NP capital/NN yemení/NN)\n  ./.)",
+      "(S\n  (NP El/NNP canal/NN)\n  de/FW\n  televisión/FW\n  (NP Al/NNP Masira/NNP)\n  ,/,\n  (NP difundió/JJ imágenes/NNS)\n  de/IN\n  decenas/FW\n  de/FW\n  (NP cadáveres/NNS)\n  ,/,\n  (NP así/JJ como/NN)\n  de/IN\n  personas/FW\n  (NP heridas/NNS)\n  ,/,\n  entre/FW\n  las/FW\n  ruinas/FW\n  del/FW\n  centro/FW\n  de/FW\n  retención/FW\n  ,/,\n  que/FW\n  (NP alberga/NN migrantes/NNS)\n  (VP\n    africanos/VBP\n    (NP que/JJ entraron/NN irregularmente/NN al/NN país/NN))\n  ./.)",
+      "(S\n  (NP Fuentes/NNS)\n  (VP médicas/VBP (NP citadas/JJ por/NN la/NN televisora/NN))\n  ,/,\n  (NP indicaron/NN que/NN)\n  (VP al/VBD)\n  menos/$\n  55/CD\n  (NP personas/NN habían/NN sido/NN)\n  (VP trasladadas/VBD (NP a/DT un/JJ hospital/NN))\n  (PP de/IN (NP Sadá/NNP))\n  ,/,\n  de/FW\n  los/FW\n  (NP cuales/NNS)\n  (VP dos/VBP (NP fallecieron/NN tras/NNS))\n  (VP ser/VBP (NP internados/NN))\n  ./.)",
+      "(S\n  (NP La/NNP)\n  (VP cadena/VBZ (NP también/JJ había/JJ informado/NN))\n  de/IN\n  que/FW\n  (NP alrededor/NN)\n  de/IN\n  30/CD\n  (NP personas/NNS)\n  (NP seguían/JJ desaparecidas/NNS)\n  (VP tras/VBP (NP el/JJ ataque/NN))\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "CANTIDADES_NUMERICAS",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "ACCIONES_LEGALES",
+      "MEDIOS_COMUNICACION",
+      "PAISES",
+      "LOCALIZACIONES_ESPECIFICAS",
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "CONFLICTOS_ARMADOS_OPERACIONES",
+      "INFRAESTRUCTURA_SERVICIOS"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "guerra contra yemen",
+        "position": [
+          77,
+          96
+        ],
+        "start": 77,
+        "end": 96
+      },
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "bombardeó",
+        "position": [
+          1136,
+          1145
+        ],
+        "start": 1136,
+        "end": 1145
+      },
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "capital",
+        "position": [
+          145,
+          152
+        ],
+        "start": 145,
+        "end": 152
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "señaló",
+        "position": [
+          1110,
+          1116
+        ],
+        "start": 1110,
+        "end": 1116
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "difundió",
+        "position": [
+          424,
+          432
+        ],
+        "start": 424,
+        "end": 432
+      },
+      {
+        "category": "MEDIOS_COMUNICACION",
+        "matched_text": "canal de televisión",
+        "position": [
+          393,
+          412
+        ],
+        "start": 393,
+        "end": 412
+      },
+      {
+        "category": "ACCIONES_LEGALES",
+        "matched_text": "denunciaron",
+        "position": [
+          1356,
+          1367
+        ],
+        "start": 1356,
+        "end": 1367
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "hospital",
+        "position": [
+          715,
+          723
+        ],
+        "start": 715,
+        "end": 723
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "estados unidos",
+        "position": [
+          21,
+          35
+        ],
+        "start": 21,
+        "end": 35
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "centro de",
+        "position": [
+          336,
+          345
+        ],
+        "start": 336,
+        "end": 345
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "hospital de",
+        "position": [
+          715,
+          726
+        ],
+        "start": 715,
+        "end": 726
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "68 personas",
+        "position": [
+          189,
+          200
+        ],
+        "start": 189,
+        "end": 200
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "55 personas",
+        "position": [
+          674,
+          685
+        ],
+        "start": 674,
+        "end": 685
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "alrededor de 47",
+        "position": [
+          211,
+          226
+        ],
+        "start": 211,
+        "end": 226
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "alrededor de 30",
+        "position": [
+          825,
+          840
+        ],
+        "start": 825,
+        "end": 840
+      }
+    ],
+    "match_count": 15
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "EE.UU.",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Sadá",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Interior de Yemen",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Estados Unidos",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Saná",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Organización Internacional de Migraciones y la Cruz Roja",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Yemen",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Estados Unidos",
+        "relacion": "DEJAR",
+        "objeto": "Saná"
+      },
+      {
+        "sujeto": "Yemen",
+        "relacion": "CALIFICAR_DEJAR",
+        "objeto": "Saná"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.0,
+    "pos": 0.0,
+    "neu": 1.0,
+    "neg": 0.0,
+    "label": "neutral"
+  }
+}

@@ -1,0 +1,816 @@
+{
+  "url": "https://www.telesurtv.net/ataque-de-ucrania-contra-provincia-rusa-de-jerson-deja-22-muertos/",
+  "title": "Ataque de Ucrania contra provincia rusa de Jersón deja 22 muertos - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Ataque de Ucrania",
+    "Muertos",
+    "provincia de Jersón",
+    "Rusia"
+  ],
+  "text": "El gobernador de la región rusa de Jersón, Vladimir Saldo, confirmó este viernes que Ucrania cometió un crimen contra habitantes de la aldea de Sadovoe, en el distrito municipal de Golopristansky, que dejó un saldo de 22 muertos.\nDe acuerdo con un mensaje difundido en el canal de Telegram del gobernador, como consecuencia del ataque ucraniano, “fue destruida una tienda en la que se encontraba un número importante de visitantes y empleados”.\nTambién informaron que los servicios de emergencia continúan en el área del incidente asumiendo las precauciones; mientras, “los heridos reciben la atención médica necesaria”.\n“Este vil asesinato de civiles reveló la vil esencia fascista de Zelensky. Con los ataques terroristas en la región de Jersón y Lugansk, hizo un regalo sangriento a sus supuestos patrocinadores, que ahora se encuentran en Francia, justo en el Palacio del Elíseo: Macron y otros líderes indignos de países occidentales como él”, refirió el gobernador local.\nDe igual  forma, las autoridades indicaron que inicialmente el número de muertos como resultado del ataque fue de 19 personas, mientras 15 resultaron heridas, cinco de ellas en estado grave.\nEn este sentido, informaron que un ataque inicial se realizó con una bomba aérea de elaboración francesa y, el segundo, desde un sistema de lanzamisiles múltiple Himars. Momentos antes, las fuerzas ucranianas bombardearon la ciudad rusa de Lugansk, en una agresión que provocó la vida a cuatro personas y al menos 50 heridos.\nEl  Ministerio ruso de Defensa  expresó que las tropas de Kiev arrojaron cinco misiles Atacms de fabricación estadounidense, de los cuales cuatro fueron interceptados, mientras que el quinto chocó contra dos edificios residenciales.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/ataque-de-ucrania-contra-provincia-rusa-de-jerson-deja-22-muertos/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-06.json",
+    "message_index": 801,
+    "message_id": 71942,
+    "date": "2024-06-07T23:55:13+00:00",
+    "text": "teleSUR\nAtaque de Ucrania contra provincia rusa de Jersón deja 22 muertos\nhttps://www.telesurtv.net/ataque-de-ucrania-contra-provincia-rusa-de-jerson-deja-22-muertos/",
+    "photo_path": null,
+    "views": 1601,
+    "reactions": {},
+    "total_reactions": 0
+  },
+  "preprocessing": {
+    "cleaned": "el gobernador de la región rusa de jersón, vladimir saldo, confirmó este viernes que ucrania cometió un crimen contra habitantes de la aldea de sadovoe, en el distrito municipal de golopristansky, que dejó un saldo de 22 muertos. de acuerdo con un mensaje difundido en el canal de telegram del gobernador, como consecuencia del ataque ucraniano, “fue destruida una tienda en la que se encontraba un número importante de visitantes y empleados”. también informaron que los servicios de emergencia continúan en el área del incidente asumiendo las precauciones; mientras, “los heridos reciben la atención médica necesaria”. “este vil asesinato de civiles reveló la vil esencia fascista de zelensky. con los ataques terroristas en la región de jersón y lugansk, hizo un regalo sangriento a sus supuestos patrocinadores, que ahora se encuentran en francia, justo en el palacio del elíseo: macron y otros líderes indignos de países occidentales como él”, refirió el gobernador local. de igual forma, las autoridades indicaron que inicialmente el número de muertos como resultado del ataque fue de 19 personas, mientras 15 resultaron heridas, cinco de ellas en estado grave. en este sentido, informaron que un ataque inicial se realizó con una bomba aérea de elaboración francesa y, el segundo, desde un sistema de lanzamisiles múltiple himars. momentos antes, las fuerzas ucranianas bombardearon la ciudad rusa de lugansk, en una agresión que provocó la vida a cuatro personas y al menos 50 heridos. el ministerio ruso de defensa expresó que las tropas de kiev arrojaron cinco misiles atacms de fabricación estadounidense, de los cuales cuatro fueron interceptados, mientras que el quinto chocó contra dos edificios residenciales.",
+    "tokens": [
+      "gobernador",
+      "región",
+      "rusa",
+      "jersón",
+      ",",
+      "vladimir",
+      "saldo",
+      ",",
+      "confirmó",
+      "viernes",
+      "ucrania",
+      "cometió",
+      "crimen",
+      "habitantes",
+      "aldea",
+      "sadovoe",
+      ",",
+      "distrito",
+      "municipal",
+      "golopristansky",
+      ",",
+      "dejó",
+      "saldo",
+      "22",
+      "muertos",
+      ".",
+      "acuerdo",
+      "mensaje",
+      "difundido",
+      "canal",
+      "telegram",
+      "gobernador",
+      ",",
+      "consecuencia",
+      "ataque",
+      "ucraniano",
+      ",",
+      "“",
+      "destruida",
+      "tienda",
+      "encontraba",
+      "número",
+      "importante",
+      "visitantes",
+      "empleados",
+      "”",
+      ".",
+      "informaron",
+      "servicios",
+      "emergencia",
+      "continúan",
+      "área",
+      "incidente",
+      "asumiendo",
+      "precauciones",
+      ";",
+      "mientras",
+      ",",
+      "“",
+      "heridos",
+      "reciben",
+      "atención",
+      "médica",
+      "necesaria",
+      "”",
+      ".",
+      "“",
+      "vil",
+      "asesinato",
+      "civiles",
+      "reveló",
+      "vil",
+      "esencia",
+      "fascista",
+      "zelensky",
+      ".",
+      "ataques",
+      "terroristas",
+      "región",
+      "jersón",
+      "lugansk",
+      ",",
+      "hizo",
+      "regalo",
+      "sangriento",
+      "supuestos",
+      "patrocinadores",
+      ",",
+      "ahora",
+      "encuentran",
+      "francia",
+      ",",
+      "justo",
+      "palacio",
+      "elíseo",
+      ":",
+      "macron",
+      "líderes",
+      "indignos",
+      "países",
+      "occidentales",
+      "”",
+      ",",
+      "refirió",
+      "gobernador",
+      "local",
+      ".",
+      "igual",
+      "forma",
+      ",",
+      "autoridades",
+      "indicaron",
+      "inicialmente",
+      "número",
+      "muertos",
+      "resultado",
+      "ataque",
+      "19",
+      "personas",
+      ",",
+      "mientras",
+      "15",
+      "resultaron",
+      "heridas",
+      ",",
+      "cinco",
+      "grave",
+      ".",
+      ",",
+      "informaron",
+      "ataque",
+      "inicial",
+      "realizó",
+      "bomba",
+      "aérea",
+      "elaboración",
+      "francesa",
+      ",",
+      "segundo",
+      ",",
+      "sistema",
+      "lanzamisiles",
+      "múltiple",
+      "himars",
+      ".",
+      "momentos",
+      ",",
+      "fuerzas",
+      "ucranianas",
+      "bombardearon",
+      "ciudad",
+      "rusa",
+      "lugansk",
+      ",",
+      "agresión",
+      "provocó",
+      "vida",
+      "cuatro",
+      "personas",
+      "menos",
+      "50",
+      "heridos",
+      ".",
+      "ministerio",
+      "ruso",
+      "defensa",
+      "expresó",
+      "tropas",
+      "kiev",
+      "arrojaron",
+      "cinco",
+      "misiles",
+      "atacms",
+      "fabricación",
+      "estadounidense",
+      ",",
+      "cuales",
+      "cuatro",
+      "interceptados",
+      ",",
+      "mientras",
+      "quinto",
+      "chocó",
+      "dos",
+      "edificios",
+      "residenciales",
+      "."
+    ],
+    "token_count": 187,
+    "sentence_count": 9
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 29,
+      "NN": 78,
+      "IN": 17,
+      "FW": 63,
+      "NNS": 21,
+      "VBP": 10,
+      "JJ": 30,
+      "CD": 4,
+      "RB": 2,
+      "VBZ": 3,
+      "MD": 1,
+      "VB": 1,
+      "VBD": 1,
+      "$": 1,
+      "CC": 1
+    },
+    "bigram_freq": {
+      "NNP-NN": 11,
+      "NN-IN": 12,
+      "IN-FW": 9,
+      "FW-FW": 34,
+      "FW-NNP": 11,
+      "NNP-NNP": 7,
+      "NN-NN": 37,
+      "NN-NNS": 6,
+      "NNS-VBP": 9,
+      "VBP-NNP": 2,
+      "NN-JJ": 13,
+      "JJ-NNS": 5,
+      "VBP-NNS": 1,
+      "NNS-IN": 3,
+      "NNP-FW": 6,
+      "FW-NN": 10,
+      "NN-FW": 8,
+      "JJ-NN": 17,
+      "IN-CD": 2,
+      "CD-NNS": 2,
+      "NNS-NNP": 2,
+      "IN-JJ": 1,
+      "IN-NNP": 3,
+      "FW-JJ": 4,
+      "JJ-FW": 3,
+      "FW-NNS": 3,
+      "NNS-FW": 2,
+      "IN-NNS": 1,
+      "VBP-RB": 2,
+      "RB-JJ": 2,
+      "VBP-IN": 1,
+      "NN-VBZ": 1,
+      "VBZ-JJ": 1,
+      "VBP-JJ": 3,
+      "NNP-MD": 1,
+      "MD-VBZ": 1,
+      "VBZ-VB": 1,
+      "VB-FW": 1,
+      "NNS-NNS": 2,
+      "JJ-NNP": 2,
+      "NNP-JJ": 1,
+      "IN-NN": 1,
+      "NNS-VBD": 1,
+      "VBD-CD": 1,
+      "CD-NN": 2,
+      "FW-VBP": 1,
+      "JJ-JJ": 3,
+      "NNP-VBZ": 1,
+      "VBZ-NNS": 1,
+      "NNS-JJ": 1,
+      "VBP-$": 1,
+      "$-CD": 1,
+      "NN-NNP": 1,
+      "NNP-CC": 1,
+      "CC-JJ": 1,
+      "NNP-IN": 1
+    },
+    "trigram_freq": {
+      "NNP-NN-IN": 1,
+      "NN-IN-FW": 5,
+      "IN-FW-FW": 6,
+      "FW-FW-FW": 20,
+      "FW-FW-NNP": 8,
+      "FW-NNP-NNP": 3,
+      "NNP-NNP-NNP": 1,
+      "NNP-NNP-NN": 4,
+      "NNP-NN-NN": 5,
+      "NN-NN-NNS": 2,
+      "NN-NNS-VBP": 4,
+      "NNS-VBP-NNP": 1,
+      "VBP-NNP-NN": 2,
+      "NNP-NN-JJ": 2,
+      "NN-JJ-NNS": 3,
+      "JJ-NNS-VBP": 2,
+      "NNS-VBP-NNS": 1,
+      "VBP-NNS-IN": 1,
+      "NNS-IN-FW": 2,
+      "FW-NNP-FW": 3,
+      "NNP-FW-NN": 4,
+      "FW-NN-NN": 4,
+      "NN-NN-FW": 3,
+      "NN-FW-FW": 6,
+      "FW-NNP-NN": 4,
+      "NN-NN-JJ": 10,
+      "NN-JJ-NN": 8,
+      "JJ-NN-IN": 5,
+      "NN-IN-CD": 2,
+      "IN-CD-NNS": 2,
+      "CD-NNS-NNP": 1,
+      "NNS-NNP-FW": 1,
+      "FW-NN-JJ": 1,
+      "JJ-NN-NN": 10,
+      "NN-NN-IN": 5,
+      "NN-IN-JJ": 1,
+      "IN-JJ-NN": 1,
+      "NN-IN-NNP": 3,
+      "IN-NNP-FW": 2,
+      "NN-NN-NN": 16,
+      "FW-FW-JJ": 1,
+      "FW-JJ-FW": 2,
+      "JJ-FW-NN": 2,
+      "FW-NN-FW": 3,
+      "JJ-NNS-IN": 1,
+      "IN-FW-NN": 1,
+      "FW-FW-NNS": 2,
+      "FW-NNS-FW": 1,
+      "NNS-FW-FW": 2,
+      "FW-FW-NN": 2,
+      "FW-NN-IN": 1,
+      "NN-IN-NNS": 1,
+      "IN-NNS-VBP": 1,
+      "NNS-VBP-RB": 2,
+      "VBP-RB-JJ": 2,
+      "RB-JJ-NN": 2,
+      "IN-NNP-NNP": 1,
+      "NNP-NN-NNS": 1,
+      "NNS-VBP-IN": 1,
+      "VBP-IN-FW": 1,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-JJ": 1,
+      "VBZ-JJ-NNS": 1,
+      "NNS-VBP-JJ": 3,
+      "VBP-JJ-FW": 1,
+      "JJ-FW-NNP": 1,
+      "NNP-NN-FW": 2,
+      "NNP-FW-NNP": 1,
+      "NNP-NNP-MD": 1,
+      "NNP-MD-VBZ": 1,
+      "MD-VBZ-VB": 1,
+      "VBZ-VB-FW": 1,
+      "VB-FW-NNS": 1,
+      "FW-NNS-NNS": 1,
+      "NNS-NNS-VBP": 1,
+      "VBP-JJ-NN": 2,
+      "NN-JJ-NNP": 1,
+      "JJ-NNP-JJ": 1,
+      "NNP-JJ-NN": 1,
+      "JJ-NN-NNS": 2,
+      "NN-NNS-IN": 1,
+      "NNS-IN-NN": 1,
+      "IN-NN-NN": 1,
+      "CD-NNS-VBD": 1,
+      "NNS-VBD-CD": 1,
+      "VBD-CD-NN": 1,
+      "CD-NN-NN": 1,
+      "FW-FW-VBP": 1,
+      "FW-VBP-NNP": 1,
+      "NN-JJ-JJ": 1,
+      "JJ-JJ-JJ": 1,
+      "JJ-JJ-NN": 2,
+      "IN-FW-JJ": 2,
+      "FW-JJ-NNP": 1,
+      "JJ-NNP-NNP": 1,
+      "NNP-NNP-VBZ": 1,
+      "NNP-VBZ-NNS": 1,
+      "VBZ-NNS-JJ": 1,
+      "NNS-JJ-JJ": 1,
+      "NNP-FW-JJ": 1,
+      "FW-JJ-NN": 1,
+      "NN-FW-NN": 1,
+      "FW-NN-NNS": 1,
+      "NNS-VBP-$": 1,
+      "VBP-$-CD": 1,
+      "$-CD-NN": 1,
+      "CD-NN-NNP": 1,
+      "NN-NNP-NNP": 1,
+      "NN-FW-NNP": 1,
+      "FW-NNP-CC": 1,
+      "NNP-CC-JJ": 1,
+      "CC-JJ-NNS": 1,
+      "JJ-NNS-FW": 1,
+      "NN-NNS-NNP": 1,
+      "NNS-NNP-IN": 1,
+      "NNP-IN-FW": 1,
+      "FW-NNS-VBP": 1,
+      "JJ-NNS-NNS": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 78,
+        "FW": 63,
+        "JJ": 30,
+        "NNP": 29,
+        "NNS": 21
+      },
+      "top_bigrams": {
+        "NN-NN": 37,
+        "FW-FW": 34,
+        "JJ-NN": 17,
+        "NN-JJ": 13,
+        "NN-IN": 12
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 20,
+        "NN-NN-NN": 16,
+        "NN-NN-JJ": 10,
+        "JJ-NN-NN": 10,
+        "FW-FW-NNP": 8
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 9,
+    "chunk_counts": {
+      "NP": 86,
+      "VP": 14,
+      "PP": 6,
+      "ADJP": 2
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 5,
+        "weight": 0.0427
+      },
+      {
+        "rule": "NP -> ('Jersón', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0171
+      },
+      {
+        "rule": "NP -> ('De', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0171
+      },
+      {
+        "rule": "NP -> ('“', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0171
+      },
+      {
+        "rule": "NP -> ('mientras', 'NNS')",
+        "frequency": 2,
+        "weight": 0.0171
+      },
+      {
+        "rule": "NP -> ('Lugansk', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0171
+      },
+      {
+        "rule": "S -> NP ('de', 'IN') ('la', 'FW') ('región', 'FW') ('rusa', 'FW') ('de', 'FW') NP (',', ',') NP (',', ',') NP VP VP ('de', 'IN') ('la', 'FW') ('aldea', 'FW') ('de', 'FW') NP (',', ',') ('en', 'FW') ('el', 'FW') ('distrito', 'FW') ('municipal', 'FW') ('de', 'FW') NP (',', ',') NP NP ('de', 'IN') ('22', 'CD') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0085
+      },
+      {
+        "rule": "NP -> ('El', 'NNP') ('gobernador', 'NN')",
+        "frequency": 1,
+        "weight": 0.0085
+      },
+      {
+        "rule": "NP -> ('Vladimir', 'NNP') ('Saldo', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0085
+      },
+      {
+        "rule": "NP -> ('confirmó', 'NN') ('este', 'NN') ('viernes', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0085
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El gobernador"
+      },
+      {
+        "label": "NP",
+        "text": "Jersón"
+      },
+      {
+        "label": "NP",
+        "text": "Vladimir Saldo"
+      },
+      {
+        "label": "NP",
+        "text": "confirmó este viernes"
+      },
+      {
+        "label": "VP",
+        "text": "que Ucrania cometió un crimen"
+      },
+      {
+        "label": "NP",
+        "text": "Ucrania cometió"
+      },
+      {
+        "label": "NP",
+        "text": "un crimen"
+      },
+      {
+        "label": "VP",
+        "text": "contra habitantes"
+      },
+      {
+        "label": "NP",
+        "text": "habitantes"
+      },
+      {
+        "label": "NP",
+        "text": "Sadovoe"
+      },
+      {
+        "label": "NP",
+        "text": "Golopristansky"
+      },
+      {
+        "label": "NP",
+        "text": "que dejó"
+      },
+      {
+        "label": "NP",
+        "text": "un saldo"
+      },
+      {
+        "label": "NP",
+        "text": "muertos"
+      },
+      {
+        "label": "NP",
+        "text": "De"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP El/NNP gobernador/NN)\n  de/IN\n  la/FW\n  región/FW\n  rusa/FW\n  de/FW\n  (NP Jersón/NNP)\n  ,/,\n  (NP Vladimir/NNP Saldo/NNP)\n  ,/,\n  (NP confirmó/NN este/NN viernes/NNS)\n  (VP que/VBP (NP Ucrania/NNP cometió/NN) (NP un/JJ crimen/NNS))\n  (VP contra/VBP (NP habitantes/NNS))\n  de/IN\n  la/FW\n  aldea/FW\n  de/FW\n  (NP Sadovoe/NNP)\n  ,/,\n  en/FW\n  el/FW\n  distrito/FW\n  municipal/FW\n  de/FW\n  (NP Golopristansky/NNP)\n  ,/,\n  (NP que/NN dejó/NN)\n  (NP un/JJ saldo/NN)\n  de/IN\n  22/CD\n  (NP muertos/NNS)\n  ./.)",
+      "(S\n  (NP De/NNP)\n  acuerdo/FW\n  (NP con/NN)\n  (NP un/JJ mensaje/NN difundido/NN)\n  (PP en/IN (NP el/JJ canal/NN))\n  (PP de/IN (NP Telegram/NNP))\n  del/FW\n  (NP gobernador/NN)\n  ,/,\n  (NP como/NN consecuencia/NN del/NN ataque/NN ucraniano/NN)\n  ,/,\n  (NP “/NNP)\n  (VP fue/VBZ (NP destruida/JJ una/JJ tienda/NN))\n  en/IN\n  la/FW\n  que/FW\n  se/FW\n  encontraba/FW\n  (ADJP un/JJ)\n  número/FW\n  (NP importante/NN)\n  de/FW\n  visitantes/FW\n  y/FW\n  empleados/FW\n  (NP ”/NN)\n  ./.)",
+      "(S\n  (NP También/NNP informaron/NN que/NN)\n  (NP los/JJ servicios/NNS)\n  de/IN\n  emergencia/FW\n  (NP continúan/NN)\n  en/FW\n  el/FW\n  área/FW\n  del/FW\n  incidente/FW\n  asumiendo/FW\n  las/FW\n  (NP precauciones/NNS)\n  ;/:\n  (NP mientras/NNS)\n  ,/,\n  (NP “/NNP)\n  (VP\n    los/VBZ\n    (NP\n      heridos/JJ\n      reciben/NN\n      la/NN\n      atención/NN\n      médica/NN\n      necesaria/NN\n      ”/NN))\n  ./.)",
+      "(S\n  (NP “/JJ Este/NNP vil/NN asesinato/NN)\n  (PP de/IN (NP civiles/NNS))\n  (VP reveló/VBP la/RB (NP vil/JJ esencia/NN fascista/NN))\n  (PP de/IN (NP Zelensky/NNP))\n  ./.)",
+      "(S\n  (NP Con/NNP los/NN ataques/NNS)\n  (VP terroristas/VBP)\n  en/IN\n  la/FW\n  región/FW\n  de/FW\n  (NP Jersón/NNP)\n  y/CC\n  (NP Lugansk/NNP)\n  ,/,\n  (NP hizo/NN)\n  (NP un/JJ regalo/NN)\n  (VP\n    sangriento/VBD\n    (NP a/DT sus/NN supuestos/NN patrocinadores/NNS))\n  ,/,\n  (NP que/NN ahora/NNS)\n  (VP se/VBP encuentran/JJ)\n  en/FW\n  (NP Francia/NNP)\n  ,/,\n  (NP justo/NN)\n  en/FW\n  el/FW\n  (NP Palacio/NNP)\n  del/FW\n  (NP Elíseo/NNP)\n  :/:\n  (NP Macron/NNP)\n  y/CC\n  (NP otros/JJ líderes/NNS)\n  (VP indignos/VBP)\n  (PP de/IN (NP países/NNS occidentales/NNS))\n  (VP como/VBP (NP él/JJ ”/NNP))\n  ,/,\n  (NP refirió/NN el/NN gobernador/NN)\n  (ADJP local/JJ)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "CIUDADES_CAPITALES",
+      "CANTIDADES_NUMERICAS",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "MEDIOS_COMUNICACION",
+      "REGIONES_PROVINCIAS",
+      "PAISES",
+      "CONFLICTOS_ARMADOS_OPERACIONES",
+      "RELACIONES_INTERNACIONALES",
+      "JURIDICO_LEGISLATIVO_CORRUPCION",
+      "VIOLENCIA_CRIMEN_DERECHOS_HUMANOS"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "ataque inicial se realizó con una bomba aérea de elaboración francesa y, el segundo, desde un sistema de lanzamisiles múltiple himars. momentos antes, las fuerzas",
+        "position": [
+          1204,
+          1366
+        ],
+        "start": 1204,
+        "end": 1366
+      },
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "ataque ucraniano",
+        "position": [
+          328,
+          344
+        ],
+        "start": 328,
+        "end": 344
+      },
+      {
+        "category": "RELACIONES_INTERNACIONALES",
+        "matched_text": "acuerdo con un mensaje difundido en el canal de telegram del gobernador, como consecuencia del ataque ucraniano, “fue destruida una tienda en la que se encontraba un número importante de visitantes y empleados",
+        "position": [
+          233,
+          442
+        ],
+        "start": 233,
+        "end": 442
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "expresó",
+        "position": [
+          1527,
+          1534
+        ],
+        "start": 1527,
+        "end": 1534
+      },
+      {
+        "category": "JURIDICO_LEGISLATIVO_CORRUPCION",
+        "matched_text": "defensa",
+        "position": [
+          1518,
+          1525
+        ],
+        "start": 1518,
+        "end": 1525
+      },
+      {
+        "category": "VIOLENCIA_CRIMEN_DERECHOS_HUMANOS",
+        "matched_text": "ataque inicial se realizó con una bomba aérea de elaboración francesa y, el segundo, desde un sistema de lanzamisiles múltiple",
+        "position": [
+          1204,
+          1330
+        ],
+        "start": 1204,
+        "end": 1330
+      },
+      {
+        "category": "MEDIOS_COMUNICACION",
+        "matched_text": "canal de telegram",
+        "position": [
+          272,
+          289
+        ],
+        "start": 272,
+        "end": 289
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "ucrania",
+        "position": [
+          85,
+          92
+        ],
+        "start": 85,
+        "end": 92
+      },
+      {
+        "category": "CIUDADES_CAPITALES",
+        "matched_text": "kiev",
+        "position": [
+          1553,
+          1557
+        ],
+        "start": 1553,
+        "end": 1557
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "región rusa",
+        "position": [
+          20,
+          31
+        ],
+        "start": 20,
+        "end": 31
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "19 personas",
+        "position": [
+          1092,
+          1103
+        ],
+        "start": 1092,
+        "end": 1103
+      }
+    ],
+    "match_count": 11
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Lugansk",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Palacio del Elíseo",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Sadovoe",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Macron",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Francia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Vladimir Saldo",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Golopristansky",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Ucrania",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Kiev",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Ministerio ruso de Defensa",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Jersón",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Zelensky",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Ucrania",
+        "relacion": "CONFIRMAR",
+        "objeto": "Jersón"
+      },
+      {
+        "sujeto": "Jersón",
+        "relacion": "CONFIRMAR",
+        "objeto": "Sadovoe"
+      },
+      {
+        "sujeto": "Jersón",
+        "relacion": "CONFIRMAR",
+        "objeto": "Golopristansky"
+      },
+      {
+        "sujeto": "Ucrania",
+        "relacion": "CONFIRMAR",
+        "objeto": "Vladimir Saldo"
+      },
+      {
+        "sujeto": "Vladimir Saldo",
+        "relacion": "CONFIRMAR",
+        "objeto": "Sadovoe"
+      },
+      {
+        "sujeto": "Vladimir Saldo",
+        "relacion": "CONFIRMAR",
+        "objeto": "Golopristansky"
+      },
+      {
+        "sujeto": "Ucrania",
+        "relacion": "COMETER_CONFIRMAR",
+        "objeto": "Sadovoe"
+      },
+      {
+        "sujeto": "Ucrania",
+        "relacion": "COMETER_CONFIRMAR",
+        "objeto": "Golopristansky"
+      },
+      {
+        "sujeto": "Francia",
+        "relacion": "ENCONTRAR_HACER_REFERIR",
+        "objeto": "Palacio del Elíseo"
+      },
+      {
+        "sujeto": "Francia",
+        "relacion": "ENCONTRAR_HACER_REFERIR",
+        "objeto": "Macron"
+      },
+      {
+        "sujeto": "Palacio del Elíseo",
+        "relacion": "JUSTO_HACER_REFERIR",
+        "objeto": "Macron"
+      },
+      {
+        "sujeto": "Ministerio ruso de Defensa",
+        "relacion": "EXPRESAR",
+        "objeto": "Kiev"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.3818,
+    "pos": 0.0,
+    "neu": 0.99,
+    "neg": 0.01,
+    "label": "negative"
+  }
+}

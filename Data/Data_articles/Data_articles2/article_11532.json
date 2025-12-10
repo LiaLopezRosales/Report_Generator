@@ -1,0 +1,838 @@
+{
+  "url": "https://www.telesurtv.net/onu-condena-ataque-de-israel-contra-escuela-de-la-unrwa-en-khan-yunis-gaza/",
+  "title": "ONU condena ataque de Israel contra escuela de la Unrwa en Khan Yunis, Gaza - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "Gaza",
+    "Khan Yunis",
+    "ONU"
+  ],
+  "text": "La organización de las Naciones Unidas (ONU) condenó este lunes el ataque aéreo del Ejército de ocupación de Israel que tuvo lugar el domingo contra una escuela de Agencia de las Naciones Unidas para los Refugiados de Palestina en Oriente Medio (Unrwa), en Khan Yunis, localidad del sur de Gaza.\nEl portavoz de la ONU, Stéphane Dujarric, corroboró que la escuela de Khan Younis hospedaba a una multitud de personas desplazadas, entre ellos niños, mujeres y ancianos, y declaró que el incidente bélico ocasionó la muerte de civiles.\nLa Unrwa denunció que el domingo por la noche una agresión aéreo israelí a la escuela Sheikh Jamil, al oeste de Khan Yunis, y mató al menos a 20 civiles a la vez que causó destrucción a la infraestructura.\nAsimismo, refirió que Israel se negó a todos los pedidos realizados por la ONU para la aceptar la realización de tres operaciones humanitarias para entregar alimentos y agua al norte de Gaza, al tiempo que recordó la obligación de la ONU de ofrecer ayuda donde sea necesario.\nLas fuerzas de ocupación israelíes lanzaron, el pasado 5 de octubre de 2024, una invasión al norte de Gaza, junto a intensos bombardeos y un bloqueo que imposibilitó la entrada de suministros esenciales como alimentos, agua y medicinas.\nDesde el 7 de octubre de 2023, Israel agredió la Franja de Gaza, y causó hasta el momento 151.990 víctimas (45.028 muertos y 106.962 heridos), la mayoría de las cuales son mujeres y niños.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/onu-condena-ataque-de-israel-contra-escuela-de-la-unrwa-en-khan-yunis-gaza/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-12.json",
+    "message_index": 840,
+    "message_id": 82526,
+    "date": "2024-12-17T01:55:07+00:00",
+    "text": "teleSUR\nONU condena ataque de Israel contra escuela de la Unrwa en Khan Yunis, Gaza\nhttps://www.telesurtv.net/onu-condena-ataque-de-israel-contra-escuela-de-la-unrwa-en-khan-yunis-gaza/",
+    "photo_path": null,
+    "views": 2019,
+    "reactions": {
+      "👍": 21,
+      "👏": 10,
+      "🔥": 5,
+      "😱": 3,
+      "🥱": 2
+    },
+    "total_reactions": 41
+  },
+  "preprocessing": {
+    "cleaned": "la organización de las naciones unidas (onu) condenó este lunes el ataque aéreo del ejército de ocupación de israel que tuvo lugar el domingo contra una escuela de agencia de las naciones unidas para los refugiados de palestina en oriente medio (unrwa), en khan yunis, localidad del sur de gaza. el portavoz de la onu, stéphane dujarric, corroboró que la escuela de khan younis hospedaba a una multitud de personas desplazadas, entre ellos niños, mujeres y ancianos, y declaró que el incidente bélico ocasionó la muerte de civiles. la unrwa denunció que el domingo por la noche una agresión aéreo israelí a la escuela sheikh jamil, al oeste de khan yunis, y mató al menos a 20 civiles a la vez que causó destrucción a la infraestructura. asimismo, refirió que israel se negó a todos los pedidos realizados por la onu para la aceptar la realización de tres operaciones humanitarias para entregar alimentos y agua al norte de gaza, al tiempo que recordó la obligación de la onu de ofrecer ayuda donde sea necesario. las fuerzas de ocupación israelíes lanzaron, el pasado 5 de octubre de 2024, una invasión al norte de gaza, junto a intensos bombardeos y un bloqueo que imposibilitó la entrada de suministros esenciales como alimentos, agua y medicinas. desde el 7 de octubre de 2023, israel agredió la franja de gaza, y causó hasta el momento 151.990 víctimas (45.028 muertos y 106.962 heridos), la mayoría de las cuales son mujeres y niños.",
+    "tokens": [
+      "organización",
+      "naciones",
+      "unidas",
+      "(",
+      "onu",
+      ")",
+      "condenó",
+      "lunes",
+      "ataque",
+      "aéreo",
+      "ejército",
+      "ocupación",
+      "israel",
+      "lugar",
+      "domingo",
+      "escuela",
+      "agencia",
+      "naciones",
+      "unidas",
+      "refugiados",
+      "palestina",
+      "oriente",
+      "medio",
+      "(",
+      "unrwa",
+      ")",
+      ",",
+      "khan",
+      "yunis",
+      ",",
+      "localidad",
+      "sur",
+      "gaza",
+      ".",
+      "portavoz",
+      "onu",
+      ",",
+      "stéphane",
+      "dujarric",
+      ",",
+      "corroboró",
+      "escuela",
+      "khan",
+      "younis",
+      "hospedaba",
+      "multitud",
+      "personas",
+      "desplazadas",
+      ",",
+      "niños",
+      ",",
+      "mujeres",
+      "ancianos",
+      ",",
+      "declaró",
+      "incidente",
+      "bélico",
+      "ocasionó",
+      "muerte",
+      "civiles",
+      ".",
+      "unrwa",
+      "denunció",
+      "domingo",
+      "noche",
+      "agresión",
+      "aéreo",
+      "israelí",
+      "escuela",
+      "sheikh",
+      "jamil",
+      ",",
+      "oeste",
+      "khan",
+      "yunis",
+      ",",
+      "mató",
+      "menos",
+      "20",
+      "civiles",
+      "vez",
+      "causó",
+      "destrucción",
+      "infraestructura",
+      ".",
+      "asimismo",
+      ",",
+      "refirió",
+      "israel",
+      "negó",
+      "pedidos",
+      "realizados",
+      "onu",
+      "aceptar",
+      "realización",
+      "tres",
+      "operaciones",
+      "humanitarias",
+      "entregar",
+      "alimentos",
+      "agua",
+      "norte",
+      "gaza",
+      ",",
+      "tiempo",
+      "recordó",
+      "obligación",
+      "onu",
+      "ofrecer",
+      "ayuda",
+      "necesario",
+      ".",
+      "fuerzas",
+      "ocupación",
+      "israelíes",
+      "lanzaron",
+      ",",
+      "pasado",
+      "5",
+      "octubre",
+      "2024",
+      ",",
+      "invasión",
+      "norte",
+      "gaza",
+      ",",
+      "junto",
+      "intensos",
+      "bombardeos",
+      "bloqueo",
+      "imposibilitó",
+      "entrada",
+      "suministros",
+      "esenciales",
+      "alimentos",
+      ",",
+      "agua",
+      "medicinas",
+      ".",
+      "7",
+      "octubre",
+      "2023",
+      ",",
+      "israel",
+      "agredió",
+      "franja",
+      "gaza",
+      ",",
+      "causó",
+      "momento",
+      "151.990",
+      "víctimas",
+      "(",
+      "45.028",
+      "muertos",
+      "106.962",
+      "heridos",
+      ")",
+      ",",
+      "mayoría",
+      "cuales",
+      "mujeres",
+      "niños",
+      "."
+    ],
+    "token_count": 164,
+    "sentence_count": 6
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 40,
+      "FW": 60,
+      "NN": 73,
+      "NNS": 12,
+      "VBP": 9,
+      "JJ": 15,
+      "IN": 6,
+      "VBZ": 1,
+      "VBD": 4,
+      "CD": 6,
+      "RBR": 1,
+      "$": 1
+    },
+    "bigram_freq": {
+      "NNP-FW": 9,
+      "FW-FW": 37,
+      "FW-NNP": 13,
+      "NNP-NNP": 13,
+      "NNP-NN": 13,
+      "NN-NN": 44,
+      "NN-NNS": 3,
+      "NNS-VBP": 8,
+      "VBP-JJ": 6,
+      "JJ-NN": 10,
+      "NN-NNP": 6,
+      "NN-JJ": 3,
+      "JJ-JJ": 2,
+      "NN-IN": 3,
+      "IN-NNP": 3,
+      "NNP-IN": 1,
+      "NNP-VBZ": 1,
+      "VBZ-FW": 1,
+      "NN-FW": 10,
+      "NNP-VBD": 3,
+      "VBD-JJ": 2,
+      "IN-FW": 1,
+      "FW-NNS": 5,
+      "JJ-NNS": 1,
+      "NNS-NNP": 2,
+      "FW-JJ": 1,
+      "VBD-NN": 1,
+      "NN-VBD": 1,
+      "VBD-CD": 1,
+      "CD-NNS": 1,
+      "NNS-RBR": 1,
+      "RBR-FW": 1,
+      "FW-NN": 2,
+      "NNS-NNS": 1,
+      "JJ-FW": 1,
+      "FW-IN": 2,
+      "IN-CD": 2,
+      "CD-JJ": 1,
+      "CD-NNP": 1,
+      "JJ-NNP": 1,
+      "NN-VBP": 1,
+      "VBP-$": 1,
+      "$-CD": 1,
+      "CD-NN": 3,
+      "NN-CD": 2,
+      "VBP-NNS": 1
+    },
+    "trigram_freq": {
+      "NNP-FW-FW": 6,
+      "FW-FW-FW": 21,
+      "FW-FW-NNP": 9,
+      "FW-NNP-NNP": 8,
+      "NNP-NNP-NNP": 3,
+      "NNP-NNP-NN": 5,
+      "NNP-NN-NN": 12,
+      "NN-NN-NNS": 1,
+      "NN-NNS-VBP": 2,
+      "NNS-VBP-JJ": 6,
+      "VBP-JJ-NN": 4,
+      "JJ-NN-NN": 6,
+      "NN-NN-NNP": 6,
+      "NN-NNP-FW": 1,
+      "FW-NNP-NN": 4,
+      "NN-NN-NN": 23,
+      "NN-NN-JJ": 3,
+      "NN-JJ-JJ": 1,
+      "JJ-JJ-NN": 1,
+      "JJ-NN-IN": 2,
+      "NN-IN-NNP": 2,
+      "IN-NNP-FW": 2,
+      "NN-NNP-IN": 1,
+      "NNP-IN-NNP": 1,
+      "NNP-FW-NNP": 3,
+      "NNP-NNP-FW": 2,
+      "NNP-NNP-VBZ": 1,
+      "NNP-VBZ-FW": 1,
+      "VBZ-FW-FW": 1,
+      "NN-NN-FW": 9,
+      "NN-FW-FW": 8,
+      "NNP-NNP-VBD": 2,
+      "NNP-VBD-JJ": 2,
+      "VBD-JJ-NN": 1,
+      "NN-IN-FW": 1,
+      "IN-FW-NNS": 1,
+      "FW-NNS-VBP": 3,
+      "VBP-JJ-JJ": 1,
+      "JJ-JJ-NNS": 1,
+      "JJ-NNS-VBP": 1,
+      "FW-FW-NNS": 4,
+      "FW-NNS-NNP": 1,
+      "NNS-NNP-NNP": 1,
+      "NN-FW-JJ": 1,
+      "FW-JJ-NN": 1,
+      "NN-FW-NNP": 1,
+      "NNP-VBD-NN": 1,
+      "VBD-NN-IN": 1,
+      "IN-NNP-NNP": 1,
+      "NN-NN-VBD": 1,
+      "NN-VBD-CD": 1,
+      "VBD-CD-NNS": 1,
+      "CD-NNS-RBR": 1,
+      "NNS-RBR-FW": 1,
+      "RBR-FW-NN": 1,
+      "FW-NN-NN": 2,
+      "NN-NNP-NN": 4,
+      "NN-JJ-NN": 2,
+      "FW-NNS-NNS": 1,
+      "NNS-NNS-VBP": 1,
+      "JJ-NN-NNS": 2,
+      "VBP-JJ-FW": 1,
+      "JJ-FW-FW": 1,
+      "FW-NNP-FW": 1,
+      "FW-FW-NN": 1,
+      "NNP-NN-FW": 1,
+      "FW-FW-IN": 2,
+      "FW-IN-CD": 2,
+      "IN-CD-JJ": 1,
+      "CD-JJ-NN": 1,
+      "NN-NNS-NNP": 1,
+      "NNS-NNP-FW": 1,
+      "IN-CD-NNP": 1,
+      "CD-NNP-VBD": 1,
+      "VBD-JJ-NNP": 1,
+      "JJ-NNP-FW": 1,
+      "NN-NN-VBP": 1,
+      "NN-VBP-$": 1,
+      "VBP-$-CD": 1,
+      "$-CD-NN": 1,
+      "CD-NN-CD": 2,
+      "NN-CD-NN": 2,
+      "CD-NN-NN": 1,
+      "NNS-VBP-NNS": 1,
+      "VBP-NNS-VBP": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 73,
+        "FW": 60,
+        "NNP": 40,
+        "JJ": 15,
+        "NNS": 12
+      },
+      "top_bigrams": {
+        "NN-NN": 44,
+        "FW-FW": 37,
+        "FW-NNP": 13,
+        "NNP-NNP": 13,
+        "NNP-NN": 13
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 23,
+        "FW-FW-FW": 21,
+        "NNP-NN-NN": 12,
+        "FW-FW-NNP": 9,
+        "NN-NN-FW": 9
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 6,
+    "chunk_counts": {
+      "NP": 65,
+      "VP": 19,
+      "PP": 4,
+      "ADJP": 1
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 4,
+        "weight": 0.0421
+      },
+      {
+        "rule": "NP -> ('Gaza', 'NNP')",
+        "frequency": 4,
+        "weight": 0.0421
+      },
+      {
+        "rule": "NP -> ('ONU', 'NNP')",
+        "frequency": 3,
+        "weight": 0.0316
+      },
+      {
+        "rule": "NP -> ('Khan', 'NNP') ('Yunis', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0211
+      },
+      {
+        "rule": "NP -> ('mujeres', 'NNS')",
+        "frequency": 2,
+        "weight": 0.0211
+      },
+      {
+        "rule": "NP -> ('civiles', 'NNS')",
+        "frequency": 2,
+        "weight": 0.0211
+      },
+      {
+        "rule": "S -> NP ('organización', 'FW') ('de', 'FW') ('las', 'FW') NP ('(', '(') NP (')', ')') VP VP ('de', 'FW') ('ocupación', 'FW') ('de', 'FW') NP NP PP ('de', 'FW') ('las', 'FW') NP PP ('en', 'FW') NP ('(', '(') NP (')', ')') (',', ',') ('en', 'FW') NP (',', ',') ADJP ('del', 'FW') NP PP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0105
+      },
+      {
+        "rule": "NP -> ('La', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0105
+      },
+      {
+        "rule": "NP -> ('Naciones', 'NNP') ('Unidas', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0105
+      },
+      {
+        "rule": "VP -> ('condenó', 'VBP') NP",
+        "frequency": 1,
+        "weight": 0.0105
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "La"
+      },
+      {
+        "label": "NP",
+        "text": "Naciones Unidas"
+      },
+      {
+        "label": "NP",
+        "text": "ONU"
+      },
+      {
+        "label": "VP",
+        "text": "condenó este lunes"
+      },
+      {
+        "label": "NP",
+        "text": "este lunes"
+      },
+      {
+        "label": "VP",
+        "text": "el ataque aéreo del Ejército"
+      },
+      {
+        "label": "NP",
+        "text": "ataque aéreo del Ejército"
+      },
+      {
+        "label": "NP",
+        "text": "Israel que tuvo lugar el domingo"
+      },
+      {
+        "label": "NP",
+        "text": "contra una escuela"
+      },
+      {
+        "label": "PP",
+        "text": "de Agencia"
+      },
+      {
+        "label": "NP",
+        "text": "Agencia"
+      },
+      {
+        "label": "NP",
+        "text": "Naciones Unidas para los Refugiados"
+      },
+      {
+        "label": "PP",
+        "text": "de Palestina"
+      },
+      {
+        "label": "NP",
+        "text": "Palestina"
+      },
+      {
+        "label": "NP",
+        "text": "Oriente Medio"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP La/NNP)\n  organización/FW\n  de/FW\n  las/FW\n  (NP Naciones/NNP Unidas/NNP)\n  (/(\n  (NP ONU/NNP)\n  )/)\n  (VP condenó/VBP (NP este/NN lunes/NNS))\n  (VP el/VBP (NP ataque/JJ aéreo/NN del/NN Ejército/NNP))\n  de/FW\n  ocupación/FW\n  de/FW\n  (NP Israel/NNP que/NN tuvo/NN lugar/NN el/NN domingo/NN)\n  (NP contra/JJ una/JJ escuela/NN)\n  (PP de/IN (NP Agencia/NNP))\n  de/FW\n  las/FW\n  (NP Naciones/NNP Unidas/NNP para/NN los/NN Refugiados/NNP)\n  (PP de/IN (NP Palestina/NNP))\n  en/FW\n  (NP Oriente/NNP Medio/NNP)\n  (/(\n  (NP Unrwa/NNP)\n  )/)\n  ,/,\n  en/FW\n  (NP Khan/NNP Yunis/NNP)\n  ,/,\n  (ADJP localidad/JJ)\n  del/FW\n  (NP sur/NN)\n  (PP de/IN (NP Gaza/NNP))\n  ./.)",
+      "(S\n  (NP El/NNP portavoz/NN)\n  de/IN\n  la/FW\n  (NP ONU/NNP)\n  ,/,\n  (NP Stéphane/NNP Dujarric/NNP)\n  ,/,\n  (NP corroboró/NN que/NN)\n  la/FW\n  escuela/FW\n  de/FW\n  (NP Khan/NNP Younis/NNP)\n  (VP hospedaba/VBD (NP a/DT una/JJ multitud/NN))\n  de/IN\n  personas/FW\n  (NP desplazadas/NNS)\n  ,/,\n  entre/FW\n  ellos/FW\n  niños/FW\n  ,/,\n  (NP mujeres/NNS)\n  (VP y/VBP (NP ancianos/NNS))\n  ,/,\n  y/CC\n  (NP declaró/NN que/NN el/NN incidente/NN bélico/NN ocasionó/NN)\n  la/FW\n  muerte/FW\n  de/FW\n  (NP civiles/NNS)\n  ./.)",
+      "(S\n  (NP\n    La/NNP\n    Unrwa/NNP\n    denunció/NN\n    que/NN\n    el/NN\n    domingo/NN\n    por/NN\n    la/NN)\n  noche/FW\n  (NP una/JJ agresión/NN aéreo/NN)\n  (VP israelí/VBZ (NP a/DT la/NN))\n  escuela/FW\n  (NP Sheikh/NNP Jamil/NNP)\n  ,/,\n  (NP al/JJ oeste/NN)\n  (PP de/IN (NP Khan/NNP Yunis/NNP))\n  ,/,\n  (NP y/NNP mató/NNP)\n  (VP al/VBZ)\n  (VP menos/VB)\n  a/DT\n  20/CD\n  (NP civiles/NNS)\n  (NP a/DT la/NN vez/NN que/NN causó/NN)\n  (VP destrucción/VBZ (NP a/DT la/NN infraestructura/NN))\n  ./.)",
+      "(S\n  (NP Asimismo/NNP)\n  ,/,\n  (NP refirió/NN que/NN Israel/NNP)\n  (VP se/VBZ)\n  negó/FW\n  (NP a/DT todos/NN los/NN)\n  (NP\n    pedidos/JJ\n    realizados/NN\n    por/NN\n    la/NN\n    ONU/NNP\n    para/NN\n    la/NN\n    aceptar/NN)\n  la/FW\n  realización/FW\n  de/FW\n  (NP tres/NNS operaciones/NNS)\n  (VP humanitarias/VBP (NP para/JJ entregar/NN alimentos/NNS))\n  (VP y/VBP agua/JJ al/JJ)\n  norte/FW\n  de/FW\n  (NP Gaza/NNP)\n  ,/,\n  (VP al/VBZ (NP tiempo/JJ que/NN recordó/NN))\n  la/FW\n  obligación/FW\n  de/FW\n  la/FW\n  (NP ONU/NNP)\n  de/FW\n  ofrecer/FW\n  ayuda/FW\n  donde/FW\n  (NP sea/NN necesario/NN)\n  ./.)",
+      "(S\n  (NP Las/NNP fuerzas/NN)\n  de/FW\n  ocupación/FW\n  (NP israelíes/NN lanzaron/NN)\n  ,/,\n  (VP el/VBP pasado/JJ)\n  5/CD\n  de/FW\n  octubre/FW\n  de/IN\n  2024/CD\n  ,/,\n  (NP una/JJ invasión/NN al/NN)\n  norte/FW\n  de/FW\n  (NP Gaza/NNP)\n  ,/,\n  (VP\n    junto/VBZ\n    (NP a/DT intensos/JJ bombardeos/NN y/NN)\n    (NP un/JJ bloqueo/NN que/NN imposibilitó/NN))\n  la/FW\n  entrada/FW\n  de/FW\n  suministros/FW\n  (NP esenciales/NNS)\n  (VP como/VBP (NP alimentos/NNS))\n  ,/,\n  (NP agua/JJ y/NN medicinas/NNS)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "FECHAS_HORAS",
+      "GRUPOS_ESPECIFICOS",
+      "ORGANISMOS_INTERNACIONALES",
+      "APROBACION_RECHAZO",
+      "RECURSOS_NATURALES",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "ACCIONES_LEGALES",
+      "ANTIIMPERIALISMO_SOBERANIA",
+      "INSTITUCIONES_EDUCATIVAS",
+      "PAISES",
+      "LOCALIZACIONES_ESPECIFICAS",
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "CONFLICTOS_ARMADOS_OPERACIONES",
+      "INFRAESTRUCTURA_SERVICIOS",
+      "FECHAS_ESPECIFICAS"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "ataque aéreo",
+        "position": [
+          67,
+          79
+        ],
+        "start": 67,
+        "end": 79
+      },
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "denunció que el domingo por la noche una agresión aéreo israelí a",
+        "position": [
+          541,
+          606
+        ],
+        "start": 541,
+        "end": 606
+      },
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "ocupación",
+        "position": [
+          96,
+          105
+        ],
+        "start": 96,
+        "end": 105
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "declaró",
+        "position": [
+          469,
+          476
+        ],
+        "start": 469,
+        "end": 476
+      },
+      {
+        "category": "ORGANISMOS_INTERNACIONALES",
+        "matched_text": "organización de las naciones unidas",
+        "position": [
+          3,
+          38
+        ],
+        "start": 3,
+        "end": 38
+      },
+      {
+        "category": "GRUPOS_ESPECIFICOS",
+        "matched_text": "mujeres",
+        "position": [
+          447,
+          454
+        ],
+        "start": 447,
+        "end": 454
+      },
+      {
+        "category": "INSTITUCIONES_EDUCATIVAS",
+        "matched_text": "escuela de agencia",
+        "position": [
+          153,
+          171
+        ],
+        "start": 153,
+        "end": 171
+      },
+      {
+        "category": "APROBACION_RECHAZO",
+        "matched_text": "negó",
+        "position": [
+          770,
+          774
+        ],
+        "start": 770,
+        "end": 774
+      },
+      {
+        "category": "APROBACION_RECHAZO",
+        "matched_text": "condenó",
+        "position": [
+          45,
+          52
+        ],
+        "start": 45,
+        "end": 52
+      },
+      {
+        "category": "ACCIONES_LEGALES",
+        "matched_text": "denunció",
+        "position": [
+          541,
+          549
+        ],
+        "start": 541,
+        "end": 549
+      },
+      {
+        "category": "RECURSOS_NATURALES",
+        "matched_text": "agua",
+        "position": [
+          907,
+          911
+        ],
+        "start": 907,
+        "end": 911
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "escuela",
+        "position": [
+          153,
+          160
+        ],
+        "start": 153,
+        "end": 160
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "palestina",
+        "position": [
+          218,
+          227
+        ],
+        "start": 218,
+        "end": 227
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "escuela de",
+        "position": [
+          153,
+          163
+        ],
+        "start": 153,
+        "end": 163
+      },
+      {
+        "category": "FECHAS_ESPECIFICAS",
+        "matched_text": "5 de octubre de 2024",
+        "position": [
+          1069,
+          1089
+        ],
+        "start": 1069,
+        "end": 1089
+      },
+      {
+        "category": "ANTIIMPERIALISMO_SOBERANIA",
+        "matched_text": "bloqueo",
+        "position": [
+          1155,
+          1162
+        ],
+        "start": 1155,
+        "end": 1162
+      },
+      {
+        "category": "FECHAS_HORAS",
+        "matched_text": "7 de octubre de 2023",
+        "position": [
+          1260,
+          1280
+        ],
+        "start": 1260,
+        "end": 1280
+      }
+    ],
+    "match_count": 17
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Sheikh Jamil",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Franja de Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "La Unrwa",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Naciones Unidas",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Agencia de las Naciones Unidas para los Refugiados de Palestina",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Khan Younis",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "ONU",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Israel",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Stéphane Dujarric",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Khan Yunis",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Gaza",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Naciones Unidas",
+        "relacion": "CONDENAR",
+        "objeto": "Israel"
+      },
+      {
+        "sujeto": "Naciones Unidas",
+        "relacion": "CONDENAR",
+        "objeto": "Agencia de las Naciones Unidas para los Refugiados de Palestina"
+      },
+      {
+        "sujeto": "Naciones Unidas",
+        "relacion": "CONDENAR",
+        "objeto": "Khan Yunis"
+      },
+      {
+        "sujeto": "Naciones Unidas",
+        "relacion": "CONDENAR",
+        "objeto": "Gaza"
+      },
+      {
+        "sujeto": "ONU",
+        "relacion": "CONDENAR",
+        "objeto": "Israel"
+      },
+      {
+        "sujeto": "ONU",
+        "relacion": "CONDENAR",
+        "objeto": "Agencia de las Naciones Unidas para los Refugiados de Palestina"
+      },
+      {
+        "sujeto": "ONU",
+        "relacion": "CONDENAR",
+        "objeto": "Khan Yunis"
+      },
+      {
+        "sujeto": "ONU",
+        "relacion": "CONDENAR",
+        "objeto": "Gaza"
+      },
+      {
+        "sujeto": "ONU",
+        "relacion": "CORROBORAR",
+        "objeto": "Khan Younis"
+      },
+      {
+        "sujeto": "Stéphane Dujarric",
+        "relacion": "CORROBORAR",
+        "objeto": "Khan Younis"
+      },
+      {
+        "sujeto": "La Unrwa",
+        "relacion": "DENUNCIAR",
+        "objeto": "Sheikh Jamil"
+      },
+      {
+        "sujeto": "La Unrwa",
+        "relacion": "DENUNCIAR",
+        "objeto": "Khan Yunis"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "NEGAR_REFERIR",
+        "objeto": "ONU"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "NEGAR_REFERIR",
+        "objeto": "Gaza"
+      },
+      {
+        "sujeto": "ONU",
+        "relacion": "NEGAR_REFERIR",
+        "objeto": "Gaza"
+      },
+      {
+        "sujeto": "Gaza",
+        "relacion": "ENTREGAR_ACEPTAR_NEGAR_REFERIR",
+        "objeto": "ONU"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "AGREDIR",
+        "objeto": "Franja de Gaza"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.0,
+    "pos": 0.0,
+    "neu": 1.0,
+    "neg": 0.0,
+    "label": "neutral"
+  }
+}

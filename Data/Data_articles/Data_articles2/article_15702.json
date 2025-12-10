@@ -1,0 +1,686 @@
+{
+  "url": "https://www.telesurtv.net/israel-bombardeo-la-ciudad-de-janata-en-el-sur-del-libano/",
+  "title": "Israel bombardea la ciudad de Janata en el sur del Líbano - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "asesinatos",
+    "Fuerzas israelíes",
+    "Líbano"
+  ],
+  "text": "\nLas Fuerzas de Defensa de Israel (FDI) bombardearon este jueves el Líbano, específicamente la ciudad de Janata, en la región de Tiro, al sur del país.\nDe este hecho resultaron dos personas asesinadas y 14 heridas “en un número infinito de víctimas del ataque enemigo a la ciudad de Janata” como lo declara la plataforma Almayadeen.\nEntre tanto otros medios como Al Arabiya declararon que en el ataque israelí contra un edificio al este de la ciudad falleció una mujer y más de una docena de personas sufrieron heridas, muchas de ellos niños.\nPor su parte, la portavoz adjunta del Pentágono, Sabrina Singh, confirmó el aumento de las actividades militares en la frontera libanesa.\nAsimismo, el movimiento de resistencia libanés Hezbolá lanzó el miércoles pasado más de 160 cohetes contra Israel.  En este sentido, las FDI precisaron que “algunos de los proyectiles fueron interceptados y otros cayeron en varias zonas del norte del país”.\nDe acuerdo a Almayadeen los lanzamientos desde el territorio libanés han sido calificados como los “más grandes en número y tipo”.\nPor otro lado, la plataforma RT insistió que el ataque se produjo en respuesta a una acción israelí contra una zona en el sur del Líbano realizada el martes, en la que murió el comandante de más alto rango del movimiento en ser asesinado por Israel en los últimos ocho meses, Taleb Abdullah.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/israel-bombardeo-la-ciudad-de-janata-en-el-sur-del-libano/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-06.json",
+    "message_index": 577,
+    "message_id": 72166,
+    "date": "2024-06-14T04:55:13+00:00",
+    "text": "teleSUR\nIsrael bombardea la ciudad de Janata en el sur del Líbano\nhttps://www.telesurtv.net/israel-bombardeo-la-ciudad-de-janata-en-el-sur-del-libano/",
+    "photo_path": null,
+    "views": 1198,
+    "reactions": {},
+    "total_reactions": 0
+  },
+  "preprocessing": {
+    "cleaned": "las fuerzas de defensa de israel (fdi) bombardearon este jueves el líbano, específicamente la ciudad de janata, en la región de tiro, al sur del país. de este hecho resultaron dos personas asesinadas y 14 heridas “en un número infinito de víctimas del ataque enemigo a la ciudad de janata” como lo declara la plataforma almayadeen. entre tanto otros medios como al arabiya declararon que en el ataque israelí contra un edificio al este de la ciudad falleció una mujer y más de una docena de personas sufrieron heridas, muchas de ellos niños. por su parte, la portavoz adjunta del pentágono, sabrina singh, confirmó el aumento de las actividades militares en la frontera libanesa. asimismo, el movimiento de resistencia libanés hezbolá lanzó el miércoles pasado más de 160 cohetes contra israel. en este sentido, las fdi precisaron que “algunos de los proyectiles fueron interceptados y otros cayeron en varias zonas del norte del país”. de acuerdo a almayadeen los lanzamientos desde el territorio libanés han sido calificados como los “más grandes en número y tipo”. por otro lado, la plataforma rt insistió que el ataque se produjo en respuesta a una acción israelí contra una zona en el sur del líbano realizada el martes, en la que murió el comandante de más alto rango del movimiento en ser asesinado por israel en los últimos ocho meses, taleb abdullah.",
+    "tokens": [
+      "fuerzas",
+      "defensa",
+      "israel",
+      "(",
+      "fdi",
+      ")",
+      "bombardearon",
+      "jueves",
+      "líbano",
+      ",",
+      "específicamente",
+      "ciudad",
+      "janata",
+      ",",
+      "región",
+      "tiro",
+      ",",
+      "sur",
+      "país",
+      ".",
+      "hecho",
+      "resultaron",
+      "dos",
+      "personas",
+      "asesinadas",
+      "14",
+      "heridas",
+      "“",
+      "número",
+      "infinito",
+      "víctimas",
+      "ataque",
+      "enemigo",
+      "ciudad",
+      "janata",
+      "”",
+      "declara",
+      "plataforma",
+      "almayadeen",
+      ".",
+      "medios",
+      "arabiya",
+      "declararon",
+      "ataque",
+      "israelí",
+      "edificio",
+      "ciudad",
+      "falleció",
+      "mujer",
+      "docena",
+      "personas",
+      "sufrieron",
+      "heridas",
+      ",",
+      "muchas",
+      "niños",
+      ".",
+      "parte",
+      ",",
+      "portavoz",
+      "adjunta",
+      "pentágono",
+      ",",
+      "sabrina",
+      "singh",
+      ",",
+      "confirmó",
+      "aumento",
+      "actividades",
+      "militares",
+      "frontera",
+      "libanesa",
+      ".",
+      "asimismo",
+      ",",
+      "movimiento",
+      "resistencia",
+      "libanés",
+      "hezbolá",
+      "lanzó",
+      "miércoles",
+      "pasado",
+      "160",
+      "cohetes",
+      "israel",
+      ".",
+      ",",
+      "fdi",
+      "precisaron",
+      "“",
+      "proyectiles",
+      "interceptados",
+      "cayeron",
+      "varias",
+      "zonas",
+      "norte",
+      "país",
+      "”",
+      ".",
+      "acuerdo",
+      "almayadeen",
+      "lanzamientos",
+      "territorio",
+      "libanés",
+      "sido",
+      "calificados",
+      "“",
+      "grandes",
+      "número",
+      "tipo",
+      "”",
+      ".",
+      "lado",
+      ",",
+      "plataforma",
+      "rt",
+      "insistió",
+      "ataque",
+      "produjo",
+      "respuesta",
+      "acción",
+      "israelí",
+      "zona",
+      "sur",
+      "líbano",
+      "realizada",
+      "martes",
+      ",",
+      "murió",
+      "comandante",
+      "alto",
+      "rango",
+      "movimiento",
+      "ser",
+      "asesinado",
+      "israel",
+      "últimos",
+      "ocho",
+      "meses",
+      ",",
+      "taleb",
+      "abdullah",
+      "."
+    ],
+    "token_count": 143,
+    "sentence_count": 8
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 32,
+      "FW": 60,
+      "IN": 13,
+      "NN": 72,
+      "NNS": 13,
+      "VBP": 8,
+      "CC": 1,
+      "JJ": 17,
+      "VBD": 1,
+      "CD": 2,
+      "VBZ": 2
+    },
+    "bigram_freq": {
+      "NNP-NNP": 8,
+      "NNP-FW": 6,
+      "FW-NNP": 11,
+      "NNP-IN": 3,
+      "IN-NNP": 1,
+      "NNP-NN": 10,
+      "NN-NN": 41,
+      "NN-NNS": 5,
+      "NNS-VBP": 6,
+      "VBP-NNP": 3,
+      "NNP-VBP": 1,
+      "VBP-FW": 2,
+      "FW-FW": 35,
+      "NNP-CC": 1,
+      "CC-JJ": 1,
+      "JJ-NN": 10,
+      "NN-NNP": 5,
+      "NN-VBD": 1,
+      "VBD-CD": 1,
+      "CD-NNS": 2,
+      "NNS-FW": 1,
+      "FW-JJ": 4,
+      "NN-IN": 8,
+      "IN-FW": 6,
+      "FW-NN": 7,
+      "NN-FW": 7,
+      "NN-VBP": 1,
+      "IN-JJ": 2,
+      "JJ-NNS": 2,
+      "NN-JJ": 4,
+      "JJ-JJ": 2,
+      "JJ-FW": 2,
+      "FW-NNS": 3,
+      "NNS-NNS": 1,
+      "VBP-NN": 1,
+      "IN-CD": 1,
+      "NNS-JJ": 1,
+      "JJ-NNP": 1,
+      "NNS-NNP": 2,
+      "VBP-JJ": 2,
+      "NNS-IN": 2,
+      "IN-NN": 3,
+      "NNP-VBZ": 2,
+      "VBZ-JJ": 1,
+      "VBZ-FW": 1
+    },
+    "trigram_freq": {
+      "NNP-NNP-FW": 1,
+      "NNP-FW-NNP": 2,
+      "FW-NNP-IN": 1,
+      "NNP-IN-NNP": 1,
+      "IN-NNP-NNP": 1,
+      "NNP-NNP-NN": 4,
+      "NNP-NN-NN": 9,
+      "NN-NN-NNS": 3,
+      "NN-NNS-VBP": 2,
+      "NNS-VBP-NNP": 2,
+      "VBP-NNP-VBP": 1,
+      "NNP-VBP-FW": 1,
+      "VBP-FW-FW": 2,
+      "FW-FW-FW": 22,
+      "FW-FW-NNP": 7,
+      "FW-NNP-FW": 5,
+      "NNP-FW-FW": 2,
+      "FW-NNP-CC": 1,
+      "NNP-CC-JJ": 1,
+      "CC-JJ-NN": 1,
+      "JJ-NN-NN": 7,
+      "NN-NN-NNP": 3,
+      "NN-NNP-NN": 2,
+      "NN-NN-NN": 20,
+      "NN-NN-VBD": 1,
+      "NN-VBD-CD": 1,
+      "VBD-CD-NNS": 1,
+      "CD-NNS-FW": 1,
+      "NNS-FW-JJ": 1,
+      "FW-JJ-NN": 3,
+      "NN-NN-IN": 5,
+      "NN-IN-FW": 5,
+      "IN-FW-FW": 3,
+      "FW-FW-NN": 4,
+      "FW-NN-NN": 3,
+      "NN-NN-FW": 6,
+      "NN-FW-FW": 5,
+      "FW-NNP-NN": 3,
+      "NN-NN-VBP": 1,
+      "NN-VBP-NNP": 1,
+      "VBP-NNP-NNP": 2,
+      "NNP-NNP-IN": 1,
+      "NNP-IN-JJ": 1,
+      "IN-JJ-NNS": 1,
+      "JJ-NNS-VBP": 2,
+      "NN-NN-JJ": 2,
+      "NN-JJ-JJ": 2,
+      "JJ-JJ-NN": 2,
+      "FW-NN-JJ": 1,
+      "NN-JJ-NN": 2,
+      "NN-IN-JJ": 1,
+      "IN-JJ-NN": 1,
+      "JJ-NN-IN": 2,
+      "IN-FW-NN": 1,
+      "NN-FW-JJ": 1,
+      "FW-JJ-FW": 1,
+      "JJ-FW-NNP": 1,
+      "FW-NNP-NNP": 1,
+      "NNP-NNP-NNP": 1,
+      "FW-FW-NNS": 2,
+      "FW-NNS-NNS": 1,
+      "NNS-NNS-VBP": 1,
+      "NNS-VBP-FW": 1,
+      "NNP-FW-NN": 1,
+      "FW-NN-NNS": 1,
+      "NNS-VBP-NN": 1,
+      "VBP-NN-IN": 1,
+      "NN-IN-CD": 1,
+      "IN-CD-NNS": 1,
+      "CD-NNS-JJ": 1,
+      "NNS-JJ-NNP": 1,
+      "JJ-NNP-NNP": 1,
+      "NN-NNS-NNP": 2,
+      "NNS-NNP-NN": 1,
+      "FW-NNS-VBP": 1,
+      "NNS-VBP-JJ": 2,
+      "VBP-JJ-NNS": 1,
+      "VBP-JJ-FW": 1,
+      "JJ-FW-FW": 1,
+      "NNP-FW-JJ": 1,
+      "NN-NNS-IN": 1,
+      "NNS-IN-NN": 2,
+      "IN-NN-NN": 2,
+      "NN-NNP-VBZ": 2,
+      "NNP-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 1,
+      "NN-IN-NN": 1,
+      "IN-NN-JJ": 1,
+      "IN-FW-JJ": 1,
+      "JJ-NN-NNP": 1,
+      "NNP-VBZ-FW": 1,
+      "VBZ-FW-NNS": 1,
+      "FW-NNS-IN": 1,
+      "NN-FW-NN": 1,
+      "FW-NN-FW": 1,
+      "FW-NN-NNP": 1,
+      "NN-NNP-IN": 1,
+      "NNP-IN-FW": 1,
+      "IN-FW-NNP": 1,
+      "NNP-NN-NNS": 1,
+      "NNS-NNP-NNP": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 72,
+        "FW": 60,
+        "NNP": 32,
+        "JJ": 17,
+        "IN": 13
+      },
+      "top_bigrams": {
+        "NN-NN": 41,
+        "FW-FW": 35,
+        "FW-NNP": 11,
+        "NNP-NN": 10,
+        "JJ-NN": 10
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 22,
+        "NN-NN-NN": 20,
+        "NNP-NN-NN": 9,
+        "FW-FW-NNP": 7,
+        "JJ-NN-NN": 7
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 8,
+    "chunk_counts": {
+      "NP": 53,
+      "PP": 3,
+      "VP": 11,
+      "ADJP": 1
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0263
+      },
+      {
+        "rule": "S -> NP ('de', 'FW') NP PP ('(', '(') NP (')', ')') NP VP (',', ',') VP ('la', 'FW') ('ciudad', 'FW') ('de', 'FW') NP (',', ',') ('en', 'FW') ('la', 'FW') ('región', 'FW') ('de', 'FW') NP (',', ',') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0132
+      },
+      {
+        "rule": "NP -> ('Las', 'NNP') ('Fuerzas', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0132
+      },
+      {
+        "rule": "NP -> ('Defensa', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0132
+      },
+      {
+        "rule": "NP -> ('Israel', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0132
+      },
+      {
+        "rule": "NP -> ('FDI', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0132
+      },
+      {
+        "rule": "NP -> ('bombardearon', 'NN') ('este', 'NN') ('jueves', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0132
+      },
+      {
+        "rule": "VP -> ('el', 'VBP') NP",
+        "frequency": 1,
+        "weight": 0.0132
+      },
+      {
+        "rule": "NP -> ('Líbano', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0132
+      },
+      {
+        "rule": "VP -> ('específicamente', 'VBZ')",
+        "frequency": 1,
+        "weight": 0.0132
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Las Fuerzas"
+      },
+      {
+        "label": "NP",
+        "text": "Defensa"
+      },
+      {
+        "label": "PP",
+        "text": "de Israel"
+      },
+      {
+        "label": "NP",
+        "text": "Israel"
+      },
+      {
+        "label": "NP",
+        "text": "FDI"
+      },
+      {
+        "label": "NP",
+        "text": "bombardearon este jueves"
+      },
+      {
+        "label": "VP",
+        "text": "el Líbano"
+      },
+      {
+        "label": "NP",
+        "text": "Líbano"
+      },
+      {
+        "label": "VP",
+        "text": "específicamente"
+      },
+      {
+        "label": "NP",
+        "text": "Janata"
+      },
+      {
+        "label": "NP",
+        "text": "Tiro"
+      },
+      {
+        "label": "NP",
+        "text": "al sur del país"
+      },
+      {
+        "label": "NP",
+        "text": "De este hecho resultaron dos personas"
+      },
+      {
+        "label": "VP",
+        "text": "asesinadas y"
+      },
+      {
+        "label": "NP",
+        "text": "heridas"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Las/NNP Fuerzas/NNP)\n  de/FW\n  (NP Defensa/NNP)\n  (PP de/IN (NP Israel/NNP))\n  (/(\n  (NP FDI/NNP)\n  )/)\n  (NP bombardearon/NN este/NN jueves/NNS)\n  (VP el/VBP (NP Líbano/NNP))\n  ,/,\n  (VP específicamente/VBZ)\n  la/FW\n  ciudad/FW\n  de/FW\n  (NP Janata/NNP)\n  ,/,\n  en/FW\n  la/FW\n  región/FW\n  de/FW\n  (NP Tiro/NNP)\n  ,/,\n  (NP al/JJ sur/NN del/NN país/NN)\n  ./.)",
+      "(S\n  (NP De/NNP este/NN hecho/NN resultaron/NN dos/NN personas/NN)\n  (VP asesinadas/VBD y/RB)\n  14/CD\n  (NP heridas/NNS)\n  (ADJP “/JJ)\n  en/FW\n  (NP un/JJ número/NN infinito/NN)\n  de/IN\n  víctimas/FW\n  del/FW\n  (NP ataque/NN)\n  enemigo/FW\n  a/DT\n  la/FW\n  ciudad/FW\n  de/FW\n  (NP\n    Janata/NNP\n    ”/NNP\n    como/NN\n    lo/NN\n    declara/NN\n    la/NN\n    plataforma/NN\n    Almayadeen/NNP)\n  ./.)",
+      "(S\n  (NP Entre/NNP tanto/NN otros/NN medios/NNS)\n  (VP como/VBP (NP Al/NNP Arabiya/NNP declararon/NN que/NN))\n  en/FW\n  el/FW\n  (NP ataque/NN israelí/NN)\n  (NP contra/JJ un/JJ edificio/NN al/NN este/NN)\n  de/IN\n  la/FW\n  ciudad/FW\n  (NP falleció/NN)\n  (NP una/JJ mujer/NN y/NN más/NN)\n  (PP de/IN (NP una/JJ docena/NN))\n  de/IN\n  personas/FW\n  (NP sufrieron/NN heridas/NN)\n  ,/,\n  muchas/FW\n  de/FW\n  ellos/FW\n  (NP niños/NN)\n  ./.)",
+      "(S\n  (NP Por/NNP su/NN parte/NN)\n  ,/,\n  la/FW\n  portavoz/FW\n  adjunta/FW\n  del/FW\n  (NP Pentágono/NNP)\n  ,/,\n  (NP Sabrina/NNP Singh/NNP)\n  ,/,\n  (NP confirmó/NN el/NN)\n  aumento/IN\n  de/FW\n  las/FW\n  (NP actividades/NNS militares/NNS)\n  (VP en/VBP)\n  la/FW\n  (NP frontera/NN libanesa/NN)\n  ./.)",
+      "(S\n  (NP Asimismo/NNP)\n  ,/,\n  el/FW\n  movimiento/FW\n  de/FW\n  resistencia/FW\n  libanés/FW\n  (NP Hezbolá/NNP)\n  lanzó/FW\n  (NP el/NN miércoles/NNS)\n  (VP pasado/VBP (NP más/NN))\n  de/IN\n  160/CD\n  (NP cohetes/NNS)\n  (NP contra/JJ Israel/NNP)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "CANTIDADES_NUMERICAS",
+      "REGIONES_PROVINCIAS",
+      "PAISES",
+      "LOCALIZACIONES_ESPECIFICAS",
+      "JURIDICO_LEGISLATIVO_CORRUPCION"
+    ],
+    "matches": [
+      {
+        "category": "JURIDICO_LEGISLATIVO_CORRUPCION",
+        "matched_text": "defensa",
+        "position": [
+          16,
+          23
+        ],
+        "start": 16,
+        "end": 23
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "líbano",
+        "position": [
+          68,
+          74
+        ],
+        "start": 68,
+        "end": 74
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "región de",
+        "position": [
+          119,
+          128
+        ],
+        "start": 119,
+        "end": 128
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "edificio al",
+        "position": [
+          420,
+          431
+        ],
+        "start": 420,
+        "end": 431
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "más de 160",
+        "position": [
+          762,
+          772
+        ],
+        "start": 762,
+        "end": 772
+      }
+    ],
+    "match_count": 5
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Pentágono",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Hezbolá",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Janata",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Sabrina Singh",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Tiro",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Al Arabiya",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Fuerzas de Defensa de Israel",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Israel",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "el Líbano",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Janata",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Almayadeen",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Líbano",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Taleb Abdullah",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "FDI",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "RT",
+        "tipo": "Organizacion"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Fuerzas de Defensa de Israel",
+        "relacion": "BOMBARDEAR",
+        "objeto": "el Líbano"
+      },
+      {
+        "sujeto": "Fuerzas de Defensa de Israel",
+        "relacion": "BOMBARDEAR",
+        "objeto": "Janata"
+      },
+      {
+        "sujeto": "Fuerzas de Defensa de Israel",
+        "relacion": "BOMBARDEAR",
+        "objeto": "Tiro"
+      },
+      {
+        "sujeto": "FDI",
+        "relacion": "BOMBARDEAR",
+        "objeto": "el Líbano"
+      },
+      {
+        "sujeto": "FDI",
+        "relacion": "BOMBARDEAR",
+        "objeto": "Janata"
+      },
+      {
+        "sujeto": "FDI",
+        "relacion": "BOMBARDEAR",
+        "objeto": "Tiro"
+      },
+      {
+        "sujeto": "el Líbano",
+        "relacion": "BOMBARDEAR",
+        "objeto": "Janata"
+      },
+      {
+        "sujeto": "el Líbano",
+        "relacion": "BOMBARDEAR",
+        "objeto": "Tiro"
+      },
+      {
+        "sujeto": "Hezbolá",
+        "relacion": "LANZAR",
+        "objeto": "Israel"
+      },
+      {
+        "sujeto": "RT",
+        "relacion": "INSISTIR",
+        "objeto": "Líbano"
+      },
+      {
+        "sujeto": "RT",
+        "relacion": "INSISTIR",
+        "objeto": "Israel"
+      },
+      {
+        "sujeto": "RT",
+        "relacion": "INSISTIR",
+        "objeto": "Taleb Abdullah"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.0,
+    "pos": 0.0,
+    "neu": 1.0,
+    "neg": 0.0,
+    "label": "neutral"
+  }
+}

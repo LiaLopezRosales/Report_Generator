@@ -1,0 +1,687 @@
+{
+  "url": "https://www.telesurtv.net/alerta-india-aumentan-casos-muertes-covid/",
+  "title": "Alerta en India: Aumentan casos y muertes por Covid-19 - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Covid-19",
+    "India",
+    "Nueva Delhi"
+  ],
+  "text": "Las autoridades sanitarias de Nueva Delhi reportaron este sábado un preocupante aumento de casos y muertes por Covid-19 en la capital india, en medio de una alerta sanitaria nacional por una subida repentina de contagios en todo el país.\nLas primeras muertes relacionadas con el coronavirus en Nueva Delhi en lo que va de año corresponden a una mujer de 60 años con una condición preexistente de obstrucción intestinal aguda tras una cirugía abdominal, y un hombre de 71 años que padecía neumonía. A nivel nacional, la cifra de fallecidos ya asciende a al menos 10 personas.\n\nEn el conjunto de la India, el número de casos activos superan los 3.000, lo que representa un aumento significativo al triplicar los confirmados hace apenas una semana, según datos del Ministerio de Sanidad.\nAnte esta situación, el Gobierno indio emitió alertas a varios hospitales el pasado lunes, cuando se reportaron 1.000 casos de coronavirus a nivel nacional.\nLas autoridades instaron a una preparación hospitalaria exhaustiva para enfrentar una posible nueva ola en las principales ciudades del país. Esta medida busca evitar la dramática situación vivida durante la segunda ola de Covid-19 en 2021, cuando el país llegó a contabilizar más de 400.000 contagios y 4.000 muertes diarias, lo cual hizo colapsar por completo el sistema de salud.\n\n\nUno de los países más afectados a nivel mundial fue India, que registra oficialmente más de 45 millones de casos desde el inicio de la emergencia sanitaria y 533.673 muertes confirmadas. Sin embargo, la Organización Mundial de la Salud (OMS) estimó que la cifra real de fallecidos en el país podría ascender a 4.7 millones de personas.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/alerta-india-aumentan-casos-muertes-covid/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-05.json",
+    "message_index": 18,
+    "message_id": 95326,
+    "date": "2025-05-31T19:55:07+00:00",
+    "text": "teleSUR\nAlerta en India: Aumentan casos y muertes por Covid-19\nhttps://www.telesurtv.net/alerta-india-aumentan-casos-muertes-covid/",
+    "photo_path": null,
+    "views": 1580,
+    "reactions": {
+      "🙏": 23,
+      "😱": 11,
+      "👍": 1,
+      "😁": 1
+    },
+    "total_reactions": 36
+  },
+  "preprocessing": {
+    "cleaned": "las autoridades sanitarias de nueva delhi reportaron este sábado un preocupante aumento de casos y muertes por covid-19 en la capital india, en medio de una alerta sanitaria nacional por una subida repentina de contagios en todo el país. las primeras muertes relacionadas con el coronavirus en nueva delhi en lo que va de año corresponden a una mujer de 60 años con una condición preexistente de obstrucción intestinal aguda tras una cirugía abdominal, y un hombre de 71 años que padecía neumonía. a nivel nacional, la cifra de fallecidos ya asciende a al menos 10 personas. en el conjunto de la india, el número de casos activos superan los 3.000, lo que representa un aumento significativo al triplicar los confirmados hace apenas una semana, según datos del ministerio de sanidad. ante esta situación, el gobierno indio emitió alertas a varios hospitales el pasado lunes, cuando se reportaron 1.000 casos de coronavirus a nivel nacional. las autoridades instaron a una preparación hospitalaria exhaustiva para enfrentar una posible nueva ola en las principales ciudades del país. esta medida busca evitar la dramática situación vivida durante la segunda ola de covid-19 en 2021, cuando el país llegó a contabilizar más de 400.000 contagios y 4.000 muertes diarias, lo cual hizo colapsar por completo el sistema de salud. uno de los países más afectados a nivel mundial fue india, que registra oficialmente más de 45 millones de casos desde el inicio de la emergencia sanitaria y 533.673 muertes confirmadas. sin embargo, la organización mundial de la salud (oms) estimó que la cifra real de fallecidos en el país podría ascender a 4.7 millones de personas.",
+    "tokens": [
+      "autoridades",
+      "sanitarias",
+      "nueva",
+      "delhi",
+      "reportaron",
+      "sábado",
+      "preocupante",
+      "aumento",
+      "casos",
+      "muertes",
+      "covid-19",
+      "capital",
+      "india",
+      ",",
+      "medio",
+      "alerta",
+      "sanitaria",
+      "nacional",
+      "subida",
+      "repentina",
+      "contagios",
+      "país",
+      ".",
+      "primeras",
+      "muertes",
+      "relacionadas",
+      "coronavirus",
+      "nueva",
+      "delhi",
+      "va",
+      "año",
+      "corresponden",
+      "mujer",
+      "60",
+      "años",
+      "condición",
+      "preexistente",
+      "obstrucción",
+      "intestinal",
+      "aguda",
+      "tras",
+      "cirugía",
+      "abdominal",
+      ",",
+      "hombre",
+      "71",
+      "años",
+      "padecía",
+      "neumonía",
+      ".",
+      "nivel",
+      "nacional",
+      ",",
+      "cifra",
+      "fallecidos",
+      "asciende",
+      "menos",
+      "10",
+      "personas",
+      ".",
+      "conjunto",
+      "india",
+      ",",
+      "número",
+      "casos",
+      "activos",
+      "superan",
+      "3.000",
+      ",",
+      "representa",
+      "aumento",
+      "significativo",
+      "triplicar",
+      "confirmados",
+      "hace",
+      "apenas",
+      "semana",
+      ",",
+      "según",
+      "datos",
+      "ministerio",
+      "sanidad",
+      ".",
+      "situación",
+      ",",
+      "gobierno",
+      "indio",
+      "emitió",
+      "alertas",
+      "varios",
+      "hospitales",
+      "pasado",
+      "lunes",
+      ",",
+      "reportaron",
+      "1.000",
+      "casos",
+      "coronavirus",
+      "nivel",
+      "nacional",
+      ".",
+      "autoridades",
+      "instaron",
+      "preparación",
+      "hospitalaria",
+      "exhaustiva",
+      "enfrentar",
+      "posible",
+      "nueva",
+      "ola",
+      "principales",
+      "ciudades",
+      "país",
+      ".",
+      "medida",
+      "busca",
+      "evitar",
+      "dramática",
+      "situación",
+      "vivida",
+      "segunda",
+      "ola",
+      "covid-19",
+      "2021",
+      ",",
+      "país",
+      "llegó",
+      "contabilizar",
+      "400.000",
+      "contagios",
+      "4.000",
+      "muertes",
+      "diarias",
+      ",",
+      "hizo",
+      "colapsar",
+      "completo",
+      "sistema",
+      "salud",
+      ".",
+      "países",
+      "afectados",
+      "nivel",
+      "mundial",
+      "india",
+      ",",
+      "registra",
+      "oficialmente",
+      "45",
+      "millones",
+      "casos",
+      "inicio",
+      "emergencia",
+      "sanitaria",
+      "533.673",
+      "muertes",
+      "confirmadas",
+      ".",
+      "embargo",
+      ",",
+      "organización",
+      "mundial",
+      "salud",
+      "(",
+      "oms",
+      ")",
+      "estimó",
+      "cifra",
+      "real",
+      "fallecidos",
+      "país",
+      "podría",
+      "ascender",
+      "4.7",
+      "millones",
+      "personas",
+      "."
+    ],
+    "token_count": 177,
+    "sentence_count": 9
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 24,
+      "VBZ": 1,
+      "FW": 51,
+      "NN": 82,
+      "JJ": 42,
+      "IN": 16,
+      "NNS": 20,
+      "VBP": 9,
+      "CD": 11,
+      "VBD": 1,
+      "$": 1,
+      "CC": 1
+    },
+    "bigram_freq": {
+      "NNP-VBZ": 1,
+      "VBZ-FW": 1,
+      "FW-FW": 27,
+      "FW-NNP": 7,
+      "NNP-NNP": 6,
+      "NNP-NN": 8,
+      "NN-NN": 39,
+      "NN-JJ": 9,
+      "JJ-NN": 20,
+      "NN-IN": 13,
+      "IN-FW": 5,
+      "FW-NNS": 2,
+      "NNS-VBP": 9,
+      "VBP-NNP": 2,
+      "IN-NN": 1,
+      "NN-FW": 9,
+      "FW-JJ": 5,
+      "JJ-JJ": 15,
+      "IN-NNS": 2,
+      "VBP-JJ": 6,
+      "NN-NNP": 4,
+      "NN-NNS": 4,
+      "VBP-NN": 1,
+      "IN-NNP": 1,
+      "NNP-FW": 7,
+      "FW-NN": 9,
+      "IN-CD": 5,
+      "CD-JJ": 2,
+      "NNS-JJ": 3,
+      "NNS-CD": 2,
+      "CD-NNS": 6,
+      "NNS-NNP": 1,
+      "NN-VBD": 1,
+      "VBD-$": 1,
+      "$-CD": 1,
+      "CD-NN": 3,
+      "JJ-IN": 1,
+      "IN-JJ": 2,
+      "JJ-NNS": 3,
+      "NNS-NNS": 2,
+      "NN-CD": 2,
+      "JJ-NNP": 2,
+      "NNP-NNS": 1,
+      "NNP-IN": 1,
+      "NN-CC": 1,
+      "CC-NN": 1,
+      "NNS-FW": 1,
+      "FW-CD": 1,
+      "JJ-FW": 1,
+      "NNS-IN": 1
+    },
+    "trigram_freq": {
+      "NNP-VBZ-FW": 1,
+      "VBZ-FW-FW": 1,
+      "FW-FW-NNP": 3,
+      "FW-NNP-NNP": 3,
+      "NNP-NNP-NN": 1,
+      "NNP-NN-NN": 7,
+      "NN-NN-NN": 16,
+      "NN-NN-JJ": 7,
+      "NN-JJ-NN": 4,
+      "JJ-NN-IN": 5,
+      "NN-IN-FW": 5,
+      "IN-FW-FW": 2,
+      "FW-FW-NNS": 2,
+      "FW-NNS-VBP": 2,
+      "NNS-VBP-NNP": 2,
+      "VBP-NNP-NN": 2,
+      "NN-NN-IN": 7,
+      "NN-IN-NN": 1,
+      "IN-NN-FW": 1,
+      "NN-FW-FW": 5,
+      "FW-FW-FW": 16,
+      "FW-FW-JJ": 3,
+      "FW-JJ-NN": 2,
+      "JJ-NN-JJ": 2,
+      "NN-JJ-JJ": 3,
+      "JJ-JJ-NN": 8,
+      "NN-IN-NNS": 1,
+      "IN-NNS-VBP": 1,
+      "NNS-VBP-JJ": 6,
+      "VBP-JJ-NN": 3,
+      "JJ-NN-NN": 9,
+      "NN-NN-NNP": 3,
+      "NN-NNP-NN": 3,
+      "NNP-NN-NNS": 1,
+      "NN-NNS-VBP": 1,
+      "NNS-VBP-NN": 1,
+      "VBP-NN-NN": 1,
+      "NN-IN-NNP": 1,
+      "IN-NNP-NNP": 1,
+      "NNP-NNP-FW": 4,
+      "NNP-FW-NN": 4,
+      "FW-NN-NN": 4,
+      "NN-NN-FW": 5,
+      "FW-JJ-JJ": 3,
+      "NN-IN-CD": 4,
+      "IN-CD-JJ": 2,
+      "CD-JJ-NN": 2,
+      "IN-FW-JJ": 1,
+      "JJ-NN-NNS": 2,
+      "NN-NNS-JJ": 2,
+      "NNS-JJ-JJ": 3,
+      "JJ-JJ-JJ": 5,
+      "FW-FW-NN": 2,
+      "FW-NN-NNS": 1,
+      "NN-NNS-CD": 1,
+      "NNS-CD-NNS": 2,
+      "CD-NNS-NNP": 1,
+      "NNS-NNP-FW": 1,
+      "FW-NN-FW": 2,
+      "FW-NNP-NN": 1,
+      "IN-FW-NN": 1,
+      "FW-NN-VBD": 1,
+      "NN-VBD-$": 1,
+      "VBD-$-CD": 1,
+      "$-CD-NN": 1,
+      "CD-NN-NN": 1,
+      "NN-JJ-IN": 1,
+      "JJ-IN-JJ": 1,
+      "IN-JJ-NN": 1,
+      "NN-FW-NNP": 1,
+      "FW-NNP-FW": 2,
+      "NNP-FW-NNP": 2,
+      "NN-JJ-NNS": 1,
+      "JJ-NNS-NNS": 2,
+      "NNS-NNS-VBP": 2,
+      "VBP-JJ-NNS": 1,
+      "JJ-NNS-VBP": 1,
+      "JJ-NN-CD": 1,
+      "NN-CD-NN": 1,
+      "CD-NN-FW": 1,
+      "JJ-JJ-NNP": 1,
+      "JJ-NNP-NNS": 1,
+      "NNP-NNS-VBP": 1,
+      "NN-FW-NN": 2,
+      "NN-IN-JJ": 1,
+      "IN-JJ-NNS": 1,
+      "VBP-JJ-NNP": 1,
+      "JJ-NNP-NN": 1,
+      "FW-NNP-IN": 1,
+      "NNP-IN-CD": 1,
+      "IN-CD-NN": 1,
+      "CD-NN-CC": 1,
+      "NN-CC-NN": 1,
+      "CC-NN-NN": 1,
+      "IN-CD-NNS": 2,
+      "CD-NNS-CD": 1,
+      "CD-NNS-JJ": 1,
+      "FW-NN-IN": 1,
+      "IN-FW-NNP": 1,
+      "NNP-FW-FW": 1,
+      "VBP-JJ-JJ": 1,
+      "JJ-NN-NNP": 1,
+      "CD-NNS-FW": 1,
+      "NNS-FW-FW": 1,
+      "FW-FW-CD": 1,
+      "FW-CD-NNS": 1,
+      "CD-NNS-VBP": 1,
+      "NN-NNP-NNP": 1,
+      "NNP-NNP-NNP": 1,
+      "NN-FW-JJ": 1,
+      "JJ-JJ-FW": 1,
+      "JJ-FW-FW": 1,
+      "NN-NN-CD": 1,
+      "NN-CD-NNS": 1,
+      "CD-NNS-IN": 1,
+      "NNS-IN-NNS": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 82,
+        "FW": 51,
+        "JJ": 42,
+        "NNP": 24,
+        "NNS": 20
+      },
+      "top_bigrams": {
+        "NN-NN": 39,
+        "FW-FW": 27,
+        "JJ-NN": 20,
+        "JJ-JJ": 15,
+        "NN-IN": 13
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 16,
+        "FW-FW-FW": 16,
+        "JJ-NN-NN": 9,
+        "JJ-JJ-NN": 8,
+        "NNP-NN-NN": 7
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 9,
+    "chunk_counts": {
+      "NP": 68,
+      "VP": 18,
+      "PP": 8,
+      "ADJP": 7
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 4,
+        "weight": 0.0364
+      },
+      {
+        "rule": "NP -> ('Las', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0182
+      },
+      {
+        "rule": "VP -> ('autoridades', 'VBZ')",
+        "frequency": 2,
+        "weight": 0.0182
+      },
+      {
+        "rule": "NP -> ('muertes', 'NNS')",
+        "frequency": 2,
+        "weight": 0.0182
+      },
+      {
+        "rule": "NP -> ('contagios', 'NNS')",
+        "frequency": 2,
+        "weight": 0.0182
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0182
+      },
+      {
+        "rule": "NP -> ('millones', 'NNS')",
+        "frequency": 2,
+        "weight": 0.0182
+      },
+      {
+        "rule": "S -> NP VP ('sanitarias', 'FW') ('de', 'FW') NP NP ('aumento', 'IN') ('de', 'FW') ('casos', 'FW') ('y', 'FW') NP VP (',', ',') ('en', 'FW') ('medio', 'FW') ('de', 'FW') ('una', 'FW') ('alerta', 'FW') ('sanitaria', 'FW') NP NP PP VP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0091
+      },
+      {
+        "rule": "NP -> ('Nueva', 'NNP') ('Delhi', 'NNP') ('reportaron', 'NN') ('este', 'NN') ('sábado', 'NN')",
+        "frequency": 1,
+        "weight": 0.0091
+      },
+      {
+        "rule": "NP -> ('un', 'JJ') ('preocupante', 'NN')",
+        "frequency": 1,
+        "weight": 0.0091
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Las"
+      },
+      {
+        "label": "VP",
+        "text": "autoridades"
+      },
+      {
+        "label": "NP",
+        "text": "Nueva Delhi reportaron este sábado"
+      },
+      {
+        "label": "NP",
+        "text": "un preocupante"
+      },
+      {
+        "label": "NP",
+        "text": "muertes"
+      },
+      {
+        "label": "VP",
+        "text": "por Covid-19 en la capital india"
+      },
+      {
+        "label": "NP",
+        "text": "Covid-19 en la capital india"
+      },
+      {
+        "label": "NP",
+        "text": "nacional por"
+      },
+      {
+        "label": "NP",
+        "text": "una subida repentina"
+      },
+      {
+        "label": "PP",
+        "text": "de contagios"
+      },
+      {
+        "label": "NP",
+        "text": "contagios"
+      },
+      {
+        "label": "VP",
+        "text": "en todo el país"
+      },
+      {
+        "label": "NP",
+        "text": "todo el país"
+      },
+      {
+        "label": "NP",
+        "text": "Las primeras muertes"
+      },
+      {
+        "label": "VP",
+        "text": "relacionadas con el coronavirus"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Las/NNP)\n  (VP autoridades/VBZ)\n  sanitarias/FW\n  de/FW\n  (NP Nueva/NNP Delhi/NNP reportaron/NN este/NN sábado/NN)\n  (NP un/JJ preocupante/NN)\n  aumento/IN\n  de/FW\n  casos/FW\n  y/FW\n  (NP muertes/NNS)\n  (VP por/VBP (NP Covid-19/NNP en/NN la/NN capital/NN india/NN))\n  ,/,\n  en/FW\n  medio/FW\n  de/FW\n  una/FW\n  alerta/FW\n  sanitaria/FW\n  (NP nacional/JJ por/NN)\n  (NP una/JJ subida/JJ repentina/NN)\n  (PP de/IN (NP contagios/NNS))\n  (VP en/VBP (NP todo/JJ el/NN país/NN))\n  ./.)",
+      "(S\n  (NP Las/NNP primeras/NN muertes/NNS)\n  (VP relacionadas/VBP (NP con/NN el/NN coronavirus/NN))\n  (PP en/IN (NP Nueva/NNP Delhi/NNP))\n  en/FW\n  (NP lo/NN que/NN)\n  va/FW\n  de/FW\n  año/FW\n  (VP corresponden/VB (NP a/DT una/JJ mujer/NN))\n  de/IN\n  60/CD\n  (NP años/JJ con/NN)\n  (NP una/JJ condición/NN preexistente/NN)\n  de/IN\n  obstrucción/FW\n  (NP intestinal/JJ aguda/NN tras/NNS)\n  (NP una/JJ cirugía/JJ abdominal/NN)\n  ,/,\n  y/CC\n  (NP un/JJ hombre/NN)\n  de/IN\n  71/CD\n  (NP años/JJ que/NN padecía/NN neumonía/NN)\n  ./.)",
+      "(S\n  A/DT\n  (ADJP nivel/JJ)\n  (ADJP nacional/JJ)\n  ,/,\n  (ADJP la/JJ)\n  cifra/FW\n  de/FW\n  fallecidos/FW\n  ya/FW\n  (VP asciende/VB (NP a/DT al/JJ menos/NN))\n  10/CD\n  (NP personas/NN)\n  ./.)",
+      "(S\n  (NP En/NNP)\n  el/FW\n  (NP conjunto/NN)\n  de/FW\n  la/FW\n  (NP India/NNP)\n  ,/,\n  (ADJP el/JJ)\n  número/FW\n  de/FW\n  casos/FW\n  (NP activos/NN)\n  (VP superan/VBD los/RB)\n  3.000/CD\n  ,/,\n  (NP lo/NN que/NN representa/NN)\n  (ADJP un/JJ)\n  (PP aumento/IN (NP significativo/JJ al/NN triplicar/NN los/NN))\n  (NP confirmados/JJ hace/NN apenas/NNS)\n  (NP una/JJ semana/NN)\n  ,/,\n  (NP según/JJ datos/NN del/NN Ministerio/NNP)\n  (PP de/IN (NP Sanidad/NNP))\n  ./.)",
+      "(S\n  (NP Ante/NNP esta/NN situación/NN)\n  ,/,\n  el/FW\n  (NP Gobierno/NNP indio/NN emitió/NN)\n  (VP alertas/VBZ (NP a/DT varios/JJ hospitales/NNS))\n  (VP el/VBP (NP pasado/JJ lunes/NNS))\n  ,/,\n  (NP cuando/NN)\n  (VP se/VBD)\n  reportaron/$\n  1.000/CD\n  (NP casos/NN)\n  de/FW\n  coronavirus/FW\n  (NP a/DT nivel/JJ nacional/NN)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "CANTIDADES_NUMERICAS",
+      "ANTIIMPERIALISMO_SOBERANIA",
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "ORGANISMOS_INTERNACIONALES"
+    ],
+    "matches": [
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "capital",
+        "position": [
+          126,
+          133
+        ],
+        "start": 126,
+        "end": 133
+      },
+      {
+        "category": "ORGANISMOS_INTERNACIONALES",
+        "matched_text": "oms",
+        "position": [
+          1564,
+          1567
+        ],
+        "start": 1564,
+        "end": 1567
+      },
+      {
+        "category": "ANTIIMPERIALISMO_SOBERANIA",
+        "matched_text": "embargo",
+        "position": [
+          1518,
+          1525
+        ],
+        "start": 1518,
+        "end": 1525
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "10 personas",
+        "position": [
+          562,
+          573
+        ],
+        "start": 562,
+        "end": 573
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "45 millones",
+        "position": [
+          1419,
+          1430
+        ],
+        "start": 1419,
+        "end": 1430
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "más de 400.000",
+        "position": [
+          1219,
+          1233
+        ],
+        "start": 1219,
+        "end": 1233
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "más de 45",
+        "position": [
+          1412,
+          1421
+        ],
+        "start": 1412,
+        "end": 1421
+      }
+    ],
+    "match_count": 7
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "India",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Ministerio de Sanidad",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Covid-19",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Organización Mundial de la Salud",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "OMS",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Nueva Delhi",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Gobierno indio",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "la India",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Nueva Delhi",
+        "relacion": "REPORTAR",
+        "objeto": "Covid-19"
+      },
+      {
+        "sujeto": "la India",
+        "relacion": "SUPERAR",
+        "objeto": "Ministerio de Sanidad"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.5574,
+    "pos": 0.0,
+    "neu": 0.986,
+    "neg": 0.014,
+    "label": "negative"
+  }
+}

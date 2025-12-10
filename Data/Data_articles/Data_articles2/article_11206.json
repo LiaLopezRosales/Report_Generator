@@ -1,0 +1,595 @@
+{
+  "url": "https://www.telesurtv.net/explosion-en-planta-de-asfalto-de-sancti-spiritus-cuba-deja-un-trabajador-en-estado-critico/",
+  "title": "Explosión en planta de asfalto de Sancti Spíritus, Cuba, deja un trabajador en estado crítico - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "Cuba",
+    "incendio",
+    "planta de asfalto",
+    "Sancti Spíritus"
+  ],
+  "text": "En horas de la noche de este martes tuvo lugar en la planta de asfalto de la central provincia de Sancti Spíritus una explosión en la que resultó herida de gravedad una persona.\nDe acuerdo con información del periódico local Escambray, el incendio se originó en uno de los tres tanques que almacenan el líquido conocido como RC, que se utiliza en la fabricación del asfalto.\nEn el incidente resultó lesionado Alexey Díaz Salas, un trabajador de 48 años, quien fue trasladado de inmediato al Hospital General Provincial Camilo Cienfuegos.\nEl director de esa institución de salud, el doctor Aliosky Polo Santana, informó que el estado de salud de Díaz es crítico.\nAsimismo, dio a conocer que el paciente presenta quemaduras que cubren el 50 por ciento de la parte superior de su cuerpo, así como presenta un trauma craneal.\nEl médico destacó que Díaz fue valorado por un grupo de neurocirujanos, pero por el momento la mayor preocupación en la recuperación del paciente radica en las quemaduras.\nPor otra parte, el teniente coronel Alexander Ávalo Jorge, jefe del Cuerpo de Bomberos de Sancti Spíritus, indicó que todavía no se ha podido identificar la causa del siniestro.\nÁvalo resaltó que los daños materiales son significativos, especialmente en el área del tanque donde inició el incendio, así como en los dos tanques contiguos.\n",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/explosion-en-planta-de-asfalto-de-sancti-spiritus-cuba-deja-un-trabajador-en-estado-critico/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-12.json",
+    "message_index": 345,
+    "message_id": 83040,
+    "date": "2024-12-25T15:55:07+00:00",
+    "text": "teleSUR\nExplosión en planta de asfalto de Sancti Spíritus, Cuba, deja un trabajador en estado crítico\nhttps://www.telesurtv.net/explosion-en-planta-de-asfalto-de-sancti-spiritus-cuba-deja-un-trabajador-en-estado-critico/",
+    "photo_path": null,
+    "views": 2725,
+    "reactions": {
+      "😱": 31,
+      "🙏": 5,
+      "😢": 4,
+      "🙈": 2,
+      "🤬": 1
+    },
+    "total_reactions": 43
+  },
+  "preprocessing": {
+    "cleaned": "en horas de la noche de este martes tuvo lugar en la planta de asfalto de la central provincia de sancti spíritus una explosión en la que resultó herida de gravedad una persona. de acuerdo con información del periódico local escambray, el incendio se originó en uno de los tres tanques que almacenan el líquido conocido como rc, que se utiliza en la fabricación del asfalto. en el incidente resultó lesionado alexey díaz salas, un trabajador de 48 años, quien fue trasladado de inmediato al hospital general provincial camilo cienfuegos. el director de esa institución de salud, el doctor aliosky polo santana, informó que el estado de salud de díaz es crítico. asimismo, dio a conocer que el paciente presenta quemaduras que cubren el 50 por ciento de la parte superior de su cuerpo, así como presenta un trauma craneal. el médico destacó que díaz fue valorado por un grupo de neurocirujanos, pero por el momento la mayor preocupación en la recuperación del paciente radica en las quemaduras. por otra parte, el teniente coronel alexander ávalo jorge, jefe del cuerpo de bomberos de sancti spíritus, indicó que todavía no se ha podido identificar la causa del siniestro. ávalo resaltó que los daños materiales son significativos, especialmente en el área del tanque donde inició el incendio, así como en los dos tanques contiguos.",
+    "tokens": [
+      "horas",
+      "noche",
+      "martes",
+      "lugar",
+      "planta",
+      "asfalto",
+      "central",
+      "provincia",
+      "sancti",
+      "spíritus",
+      "explosión",
+      "resultó",
+      "herida",
+      "gravedad",
+      "persona",
+      ".",
+      "acuerdo",
+      "información",
+      "periódico",
+      "local",
+      "escambray",
+      ",",
+      "incendio",
+      "originó",
+      "tres",
+      "tanques",
+      "almacenan",
+      "líquido",
+      "conocido",
+      "rc",
+      ",",
+      "utiliza",
+      "fabricación",
+      "asfalto",
+      ".",
+      "incidente",
+      "resultó",
+      "lesionado",
+      "alexey",
+      "díaz",
+      "salas",
+      ",",
+      "trabajador",
+      "48",
+      "años",
+      ",",
+      "trasladado",
+      "inmediato",
+      "hospital",
+      "general",
+      "provincial",
+      "camilo",
+      "cienfuegos",
+      ".",
+      "director",
+      "institución",
+      "salud",
+      ",",
+      "doctor",
+      "aliosky",
+      "polo",
+      "santana",
+      ",",
+      "informó",
+      "salud",
+      "díaz",
+      "crítico",
+      ".",
+      "asimismo",
+      ",",
+      "dio",
+      "conocer",
+      "paciente",
+      "presenta",
+      "quemaduras",
+      "cubren",
+      "50",
+      "ciento",
+      "parte",
+      "superior",
+      "cuerpo",
+      ",",
+      "así",
+      "presenta",
+      "trauma",
+      "craneal",
+      ".",
+      "médico",
+      "destacó",
+      "díaz",
+      "valorado",
+      "grupo",
+      "neurocirujanos",
+      ",",
+      "momento",
+      "mayor",
+      "preocupación",
+      "recuperación",
+      "paciente",
+      "radica",
+      "quemaduras",
+      ".",
+      "parte",
+      ",",
+      "teniente",
+      "coronel",
+      "alexander",
+      "ávalo",
+      "jorge",
+      ",",
+      "jefe",
+      "cuerpo",
+      "bomberos",
+      "sancti",
+      "spíritus",
+      ",",
+      "indicó",
+      "todavía",
+      "podido",
+      "identificar",
+      "causa",
+      "siniestro",
+      ".",
+      "ávalo",
+      "resaltó",
+      "daños",
+      "materiales",
+      "significativos",
+      ",",
+      "especialmente",
+      "área",
+      "tanque",
+      "inició",
+      "incendio",
+      ",",
+      "así",
+      "dos",
+      "tanques",
+      "contiguos",
+      "."
+    ],
+    "token_count": 140,
+    "sentence_count": 8
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 32,
+      "FW": 54,
+      "NNS": 6,
+      "VBP": 5,
+      "JJ": 18,
+      "NN": 89,
+      "IN": 10,
+      "CD": 2,
+      "CC": 1,
+      "MD": 1,
+      "VB": 1,
+      "VBZ": 1,
+      "DT": 1
+    },
+    "bigram_freq": {
+      "NNP-FW": 4,
+      "FW-FW": 37,
+      "FW-NNS": 2,
+      "NNS-VBP": 5,
+      "VBP-JJ": 3,
+      "JJ-FW": 1,
+      "FW-JJ": 4,
+      "JJ-NN": 14,
+      "NN-IN": 10,
+      "IN-NNP": 1,
+      "NNP-NNP": 13,
+      "NNP-JJ": 2,
+      "IN-FW": 7,
+      "NN-NNP": 11,
+      "FW-NN": 7,
+      "NN-NN": 55,
+      "NN-JJ": 5,
+      "JJ-NNP": 2,
+      "NNP-NN": 11,
+      "NN-FW": 5,
+      "NNS-NNS": 1,
+      "IN-CD": 1,
+      "CD-JJ": 1,
+      "FW-NNP": 4,
+      "NNP-CC": 1,
+      "CC-NN": 1,
+      "JJ-NNS": 1,
+      "VBP-CD": 1,
+      "CD-NN": 1,
+      "NNP-MD": 1,
+      "MD-VB": 1,
+      "VB-JJ": 1,
+      "NN-VBZ": 1,
+      "VBZ-DT": 1,
+      "DT-JJ": 1,
+      "NN-NNS": 2,
+      "IN-JJ": 1
+    },
+    "trigram_freq": {
+      "NNP-FW-FW": 1,
+      "FW-FW-FW": 27,
+      "FW-FW-NNS": 2,
+      "FW-NNS-VBP": 1,
+      "NNS-VBP-JJ": 3,
+      "VBP-JJ-FW": 1,
+      "JJ-FW-FW": 1,
+      "FW-FW-JJ": 2,
+      "FW-JJ-NN": 2,
+      "JJ-NN-IN": 4,
+      "NN-IN-NNP": 1,
+      "IN-NNP-NNP": 1,
+      "NNP-NNP-JJ": 2,
+      "NNP-JJ-NN": 2,
+      "NN-IN-FW": 7,
+      "IN-FW-FW": 5,
+      "JJ-NN-NNP": 1,
+      "NN-NNP-FW": 2,
+      "NNP-FW-NN": 1,
+      "FW-NN-NN": 5,
+      "NN-NN-NN": 32,
+      "NN-NN-JJ": 5,
+      "NN-JJ-NNP": 1,
+      "JJ-NNP-NN": 1,
+      "NNP-NN-NN": 10,
+      "NN-NN-FW": 4,
+      "NN-FW-FW": 3,
+      "FW-NNS-NNS": 1,
+      "NNS-NNS-VBP": 1,
+      "VBP-JJ-NN": 2,
+      "JJ-NN-NN": 7,
+      "NN-NN-NNP": 7,
+      "NN-NNP-NN": 6,
+      "NN-JJ-NN": 4,
+      "NN-NNP-NNP": 3,
+      "NNP-NNP-NNP": 7,
+      "NN-IN-CD": 1,
+      "IN-CD-JJ": 1,
+      "CD-JJ-NN": 1,
+      "NN-NN-IN": 5,
+      "IN-FW-JJ": 1,
+      "FW-JJ-NNP": 1,
+      "JJ-NNP-NNP": 1,
+      "NNP-NNP-NN": 4,
+      "NNP-NN-IN": 1,
+      "FW-FW-NN": 4,
+      "FW-NN-NNP": 2,
+      "FW-FW-NNP": 2,
+      "FW-NNP-CC": 1,
+      "NNP-CC-NN": 1,
+      "CC-NN-NNP": 1,
+      "NN-FW-JJ": 1,
+      "FW-JJ-NNS": 1,
+      "JJ-NNS-VBP": 1,
+      "NNS-VBP-CD": 1,
+      "VBP-CD-NN": 1,
+      "CD-NN-NN": 1,
+      "IN-FW-NN": 1,
+      "FW-NNP-MD": 1,
+      "NNP-MD-VB": 1,
+      "MD-VB-JJ": 1,
+      "VB-JJ-NN": 1,
+      "NNP-FW-NNP": 2,
+      "FW-NNP-FW": 1,
+      "FW-NNP-NNP": 1,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-DT": 1,
+      "VBZ-DT-JJ": 1,
+      "DT-JJ-NN": 1,
+      "NN-FW-NN": 1,
+      "NN-NN-NNS": 1,
+      "NN-NNS-VBP": 2,
+      "JJ-NN-FW": 1,
+      "NN-IN-JJ": 1,
+      "IN-JJ-NN": 1,
+      "JJ-NN-NNS": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 89,
+        "FW": 54,
+        "NNP": 32,
+        "JJ": 18,
+        "IN": 10
+      },
+      "top_bigrams": {
+        "NN-NN": 55,
+        "FW-FW": 37,
+        "JJ-NN": 14,
+        "NNP-NNP": 13,
+        "NN-NNP": 11
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 32,
+        "FW-FW-FW": 27,
+        "NNP-NN-NN": 10,
+        "NN-IN-FW": 7,
+        "JJ-NN-NN": 7
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 8,
+    "chunk_counts": {
+      "NP": 51,
+      "VP": 9,
+      "PP": 3
+    },
+    "top_rules": [
+      {
+        "rule": "NP -> ('Sancti', 'NNP') ('Spíritus', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0282
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0282
+      },
+      {
+        "rule": "S -> NP ('horas', 'FW') ('de', 'FW') ('la', 'FW') ('noche', 'FW') ('de', 'FW') ('este', 'FW') NP VP ('en', 'FW') ('la', 'FW') ('planta', 'FW') ('de', 'FW') ('asfalto', 'FW') ('de', 'FW') ('la', 'FW') NP PP NP ('en', 'IN') ('la', 'FW') ('que', 'FW') ('resultó', 'FW') ('herida', 'FW') ('de', 'FW') ('gravedad', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0141
+      },
+      {
+        "rule": "NP -> ('En', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0141
+      },
+      {
+        "rule": "NP -> ('martes', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0141
+      },
+      {
+        "rule": "VP -> ('tuvo', 'VBP') ('lugar', 'JJ')",
+        "frequency": 1,
+        "weight": 0.0141
+      },
+      {
+        "rule": "NP -> ('central', 'JJ') ('provincia', 'NN')",
+        "frequency": 1,
+        "weight": 0.0141
+      },
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 1,
+        "weight": 0.0141
+      },
+      {
+        "rule": "NP -> ('una', 'JJ') ('explosión', 'NN')",
+        "frequency": 1,
+        "weight": 0.0141
+      },
+      {
+        "rule": "NP -> ('una', 'JJ') ('persona', 'NN')",
+        "frequency": 1,
+        "weight": 0.0141
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "En"
+      },
+      {
+        "label": "NP",
+        "text": "martes"
+      },
+      {
+        "label": "VP",
+        "text": "tuvo lugar"
+      },
+      {
+        "label": "NP",
+        "text": "central provincia"
+      },
+      {
+        "label": "PP",
+        "text": "de Sancti Spíritus"
+      },
+      {
+        "label": "NP",
+        "text": "Sancti Spíritus"
+      },
+      {
+        "label": "NP",
+        "text": "una explosión"
+      },
+      {
+        "label": "NP",
+        "text": "una persona"
+      },
+      {
+        "label": "NP",
+        "text": "De"
+      },
+      {
+        "label": "NP",
+        "text": "con información del periódico"
+      },
+      {
+        "label": "NP",
+        "text": "local Escambray"
+      },
+      {
+        "label": "VP",
+        "text": "el incendio se originó"
+      },
+      {
+        "label": "NP",
+        "text": "incendio se originó"
+      },
+      {
+        "label": "NP",
+        "text": "tres tanques"
+      },
+      {
+        "label": "VP",
+        "text": "que almacenan el líquido conocido como RC"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP En/NNP)\n  horas/FW\n  de/FW\n  la/FW\n  noche/FW\n  de/FW\n  este/FW\n  (NP martes/NNS)\n  (VP tuvo/VBP lugar/JJ)\n  en/FW\n  la/FW\n  planta/FW\n  de/FW\n  asfalto/FW\n  de/FW\n  la/FW\n  (NP central/JJ provincia/NN)\n  (PP de/IN (NP Sancti/NNP Spíritus/NNP))\n  (NP una/JJ explosión/NN)\n  en/IN\n  la/FW\n  que/FW\n  resultó/FW\n  herida/FW\n  de/FW\n  gravedad/FW\n  (NP una/JJ persona/NN)\n  ./.)",
+      "(S\n  (NP De/NNP)\n  acuerdo/FW\n  (NP con/NN información/NN del/NN periódico/NN)\n  (NP local/JJ Escambray/NNP)\n  ,/,\n  (VP el/VBZ (NP incendio/JJ se/NN originó/NN))\n  en/FW\n  uno/FW\n  de/FW\n  los/FW\n  (NP tres/NNS tanques/NNS)\n  (VP\n    que/VBP\n    (NP almacenan/JJ el/NN líquido/NN conocido/NN como/NN RC/NNP))\n  ,/,\n  (NP que/NN se/NN)\n  (NP utiliza/JJ en/NN la/NN)\n  (NP fabricación/JJ del/NN asfalto/NN)\n  ./.)",
+      "(S\n  (NP\n    En/NNP\n    el/NN\n    incidente/NN\n    resultó/NN\n    lesionado/NN\n    Alexey/NNP\n    Díaz/NNP\n    Salas/NNP)\n  ,/,\n  (NP un/JJ trabajador/NN)\n  de/IN\n  48/CD\n  (NP años/NNS)\n  ,/,\n  (NP quien/JJ fue/NN trasladado/NN)\n  de/IN\n  inmediato/FW\n  (NP\n    al/JJ\n    Hospital/NNP\n    General/NNP\n    Provincial/NNP\n    Camilo/NNP\n    Cienfuegos/NNP)\n  ./.)",
+      "(S\n  (NP El/NNP director/NN)\n  de/IN\n  esa/FW\n  institución/FW\n  de/FW\n  salud/FW\n  ,/,\n  el/FW\n  (NP doctor/NN Aliosky/NNP Polo/NNP Santana/NNP)\n  ,/,\n  (NP informó/NN que/NN)\n  el/FW\n  estado/FW\n  de/FW\n  salud/FW\n  de/FW\n  (NP Díaz/NNP es/NN crítico/NN)\n  ./.)",
+      "(S\n  (NP Asimismo/NNP)\n  ,/,\n  (VP\n    dio/VBZ\n    (NP a/DT conocer/NN que/NN el/NN paciente/NN presenta/NN))\n  quemaduras/FW\n  (NP que/JJ cubren/NNS)\n  (VP el/VBP)\n  50/CD\n  (NP por/NN ciento/NN)\n  de/IN\n  la/FW\n  parte/FW\n  superior/FW\n  de/FW\n  su/FW\n  (NP cuerpo/NN)\n  ,/,\n  (NP así/JJ como/NN presenta/NN)\n  (NP un/JJ trauma/NN craneal/NN)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "APROBACION_RECHAZO",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "MEDIOS_COMUNICACION",
+      "REGIONES_PROVINCIAS",
+      "LOCALIZACIONES_ESPECIFICAS",
+      "INFRAESTRUCTURA_SERVICIOS"
+    ],
+    "matches": [
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "informó",
+        "position": [
+          611,
+          618
+        ],
+        "start": 611,
+        "end": 618
+      },
+      {
+        "category": "MEDIOS_COMUNICACION",
+        "matched_text": "periódico local escambray",
+        "position": [
+          209,
+          234
+        ],
+        "start": 209,
+        "end": 234
+      },
+      {
+        "category": "APROBACION_RECHAZO",
+        "matched_text": "destacó",
+        "position": [
+          832,
+          839
+        ],
+        "start": 832,
+        "end": 839
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "hospital",
+        "position": [
+          491,
+          499
+        ],
+        "start": 491,
+        "end": 499
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "provincia de",
+        "position": [
+          85,
+          97
+        ],
+        "start": 85,
+        "end": 97
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "hospital general",
+        "position": [
+          491,
+          507
+        ],
+        "start": 491,
+        "end": 507
+      }
+    ],
+    "match_count": 6
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "RC",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Escambray",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Hospital General Provincial Camilo Cienfuegos",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Alexey Díaz Salas",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Aliosky Polo Santana",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Díaz",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Alexander Ávalo Jorge",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Cuerpo de Bomberos de Sancti Spíritus",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "provincia de Sancti Spíritus",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Escambray",
+        "relacion": "ORIGINAR",
+        "objeto": "RC"
+      },
+      {
+        "sujeto": "Aliosky Polo Santana",
+        "relacion": "INFORMAR",
+        "objeto": "Díaz"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.2263,
+    "pos": 0.026,
+    "neu": 0.952,
+    "neg": 0.022,
+    "label": "positive"
+  }
+}

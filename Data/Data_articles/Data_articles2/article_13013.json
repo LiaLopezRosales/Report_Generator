@@ -1,0 +1,787 @@
+{
+  "url": "https://www.telesurtv.net/policias-federales-reprimen-a-trabajadores-judiciales-argentinos-durante-protesta/",
+  "title": "Policías federales reprimen a trabajadores judiciales argentinos durante protesta - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "Argentina",
+    "Recompensación salarial",
+    "Trabajadores judiciales"
+  ],
+  "text": "Policías federales de Argentina, fuerza a cargo de la ministra de Seguridad, Patricia Bullrich, arremetieron con palos y gas pimienta la víspera contra trabajadores judiciales que realizaban una protesta pacífica en demanda de recompensaciones salariales.\nLa acción represiva dejó saldo de un detenido y 15 trabajadores heridos en los ojos a causa del gas pimienta, entre ellos el titular de la Unión de Empleados de Justicia de la Nación (UEJN), Julio Piumato.\nLos agentes atacaron a los trabajadores cuando estos finalizaron la protesta en el cuarto piso del Palacio de Justicia y abandonaban el sitio.\nEn declaraciones a medios locales, Piumato contó que, como cada martes, se reúnen en el Palacio de Justicia para rechazar la implementación del Impuesto a las Ganancias y exigir la recuperación del poder adquisitivo de sus ingresos.\nDetalló que los efectivos nunca los intimaron, sino que los agredieron directamente y sin que se hubiese registrado ningún incidente. “Fue una provocación y una represión injustificada”, denunció.\nLa secretaria adjunta de la UEJN, Maia Volcovinsky, subrayó que su estilo de protesta es pacífico. Explicó que dentro del Palacio de Justicia operan policías federales, pero dependen de la Corte. Sin embargo, alertó que desde hace varias semanas se desplegaron alllí guardias de infantería y fueron estos los que arremetieron violentamente contra los manifestantes.\nVolcovinsky dio a conocer que este miércoles habrá una nueva protesta a partir de las 10H00 hora local frente a la sede del Consejo de la Magistratura.\nEl acto represivo fue repudiado por la Confederación General del Trabajo (CGT). En un comunicado, el gremio acusó que “mientras la policía de Bullrich se dedica a reprimir trabajadores y jubilados, a los que se les ofrecen aumentos negativos, los verdaderos delincuentes caminan tranquilamente por las calles”.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/policias-federales-reprimen-a-trabajadores-judiciales-argentinos-durante-protesta/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-09.json",
+    "message_index": 1496,
+    "message_id": 75769,
+    "date": "2024-09-04T15:55:26+00:00",
+    "text": "teleSUR\nPolicías federales reprimen a trabajadores judiciales argentinos durante protesta\nhttps://www.telesurtv.net/policias-federales-reprimen-a-trabajadores-judiciales-argentinos-durante-protesta/",
+    "photo_path": null,
+    "views": 2847,
+    "reactions": {
+      "🤬": 69,
+      "👍": 4,
+      "😡": 4
+    },
+    "total_reactions": 77
+  },
+  "preprocessing": {
+    "cleaned": "policías federales de argentina, fuerza a cargo de la ministra de seguridad, patricia bullrich, arremetieron con palos y gas pimienta la víspera contra trabajadores judiciales que realizaban una protesta pacífica en demanda de recompensaciones salariales. la acción represiva dejó saldo de un detenido y 15 trabajadores heridos en los ojos a causa del gas pimienta, entre ellos el titular de la unión de empleados de justicia de la nación (uejn), julio piumato. los agentes atacaron a los trabajadores cuando estos finalizaron la protesta en el cuarto piso del palacio de justicia y abandonaban el sitio. en declaraciones a medios locales, piumato contó que, como cada martes, se reúnen en el palacio de justicia para rechazar la implementación del impuesto a las ganancias y exigir la recuperación del poder adquisitivo de sus ingresos. detalló que los efectivos nunca los intimaron, sino que los agredieron directamente y sin que se hubiese registrado ningún incidente. “fue una provocación y una represión injustificada”, denunció. la secretaria adjunta de la uejn, maia volcovinsky, subrayó que su estilo de protesta es pacífico. explicó que dentro del palacio de justicia operan policías federales, pero dependen de la corte. sin embargo, alertó que desde hace varias semanas se desplegaron alllí guardias de infantería y fueron estos los que arremetieron violentamente contra los manifestantes. volcovinsky dio a conocer que este miércoles habrá una nueva protesta a partir de las 10h00 hora local frente a la sede del consejo de la magistratura. el acto represivo fue repudiado por la confederación general del trabajo (cgt). en un comunicado, el gremio acusó que “mientras la policía de bullrich se dedica a reprimir trabajadores y jubilados, a los que se les ofrecen aumentos negativos, los verdaderos delincuentes caminan tranquilamente por las calles”.",
+    "tokens": [
+      "policías",
+      "federales",
+      "argentina",
+      ",",
+      "fuerza",
+      "cargo",
+      "ministra",
+      "seguridad",
+      ",",
+      "patricia",
+      "bullrich",
+      ",",
+      "arremetieron",
+      "palos",
+      "gas",
+      "pimienta",
+      "víspera",
+      "trabajadores",
+      "judiciales",
+      "realizaban",
+      "protesta",
+      "pacífica",
+      "demanda",
+      "recompensaciones",
+      "salariales",
+      ".",
+      "acción",
+      "represiva",
+      "dejó",
+      "saldo",
+      "detenido",
+      "15",
+      "trabajadores",
+      "heridos",
+      "ojos",
+      "causa",
+      "gas",
+      "pimienta",
+      ",",
+      "titular",
+      "unión",
+      "empleados",
+      "justicia",
+      "nación",
+      "(",
+      "uejn",
+      ")",
+      ",",
+      "julio",
+      "piumato",
+      ".",
+      "agentes",
+      "atacaron",
+      "trabajadores",
+      "finalizaron",
+      "protesta",
+      "cuarto",
+      "piso",
+      "palacio",
+      "justicia",
+      "abandonaban",
+      "sitio",
+      ".",
+      "declaraciones",
+      "medios",
+      "locales",
+      ",",
+      "piumato",
+      "contó",
+      ",",
+      "cada",
+      "martes",
+      ",",
+      "reúnen",
+      "palacio",
+      "justicia",
+      "rechazar",
+      "implementación",
+      "impuesto",
+      "ganancias",
+      "exigir",
+      "recuperación",
+      "poder",
+      "adquisitivo",
+      "ingresos",
+      ".",
+      "detalló",
+      "efectivos",
+      "nunca",
+      "intimaron",
+      ",",
+      "sino",
+      "agredieron",
+      "directamente",
+      "registrado",
+      "ningún",
+      "incidente",
+      ".",
+      "“",
+      "provocación",
+      "represión",
+      "injustificada",
+      "”",
+      ",",
+      "denunció",
+      ".",
+      "secretaria",
+      "adjunta",
+      "uejn",
+      ",",
+      "maia",
+      "volcovinsky",
+      ",",
+      "subrayó",
+      "estilo",
+      "protesta",
+      "pacífico",
+      ".",
+      "explicó",
+      "dentro",
+      "palacio",
+      "justicia",
+      "operan",
+      "policías",
+      "federales",
+      ",",
+      "dependen",
+      "corte",
+      ".",
+      "embargo",
+      ",",
+      "alertó",
+      "hace",
+      "varias",
+      "semanas",
+      "desplegaron",
+      "alllí",
+      "guardias",
+      "infantería",
+      "arremetieron",
+      "violentamente",
+      "manifestantes",
+      ".",
+      "volcovinsky",
+      "dio",
+      "conocer",
+      "miércoles",
+      "nueva",
+      "protesta",
+      "partir",
+      "10h00",
+      "hora",
+      "local",
+      "frente",
+      "sede",
+      "consejo",
+      "magistratura",
+      ".",
+      "acto",
+      "represivo",
+      "repudiado",
+      "confederación",
+      "general",
+      "trabajo",
+      "(",
+      "cgt",
+      ")",
+      ".",
+      "comunicado",
+      ",",
+      "gremio",
+      "acusó",
+      "“",
+      "mientras",
+      "policía",
+      "bullrich",
+      "dedica",
+      "reprimir",
+      "trabajadores",
+      "jubilados",
+      ",",
+      "ofrecen",
+      "aumentos",
+      "negativos",
+      ",",
+      "verdaderos",
+      "delincuentes",
+      "caminan",
+      "tranquilamente",
+      "calles",
+      "”",
+      "."
+    ],
+    "token_count": 192,
+    "sentence_count": 12
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 43,
+      "VBZ": 10,
+      "FW": 47,
+      "VBD": 3,
+      "NN": 97,
+      "IN": 11,
+      "NNS": 18,
+      "JJ": 29,
+      "VBP": 10,
+      "CD": 2,
+      "RB": 1
+    },
+    "bigram_freq": {
+      "NNP-VBZ": 7,
+      "VBZ-FW": 2,
+      "FW-NNP": 19,
+      "NNP-VBD": 3,
+      "VBD-NN": 1,
+      "NN-IN": 8,
+      "IN-FW": 6,
+      "FW-FW": 23,
+      "NNP-NNP": 13,
+      "VBZ-NN": 1,
+      "NN-NN": 59,
+      "NN-NNS": 8,
+      "NNS-VBZ": 1,
+      "VBZ-JJ": 4,
+      "JJ-NN": 19,
+      "NN-JJ": 7,
+      "IN-NN": 2,
+      "IN-NNS": 1,
+      "NNS-NNS": 3,
+      "NNS-NNP": 3,
+      "NNP-VBP": 1,
+      "VBP-NN": 3,
+      "IN-JJ": 2,
+      "NN-CD": 1,
+      "CD-NNS": 1,
+      "NNS-JJ": 2,
+      "JJ-IN": 1,
+      "JJ-JJ": 5,
+      "NN-FW": 6,
+      "NNP-FW": 9,
+      "VBZ-IN": 1,
+      "NNS-VBP": 7,
+      "VBP-JJ": 5,
+      "FW-NN": 4,
+      "NNP-NN": 8,
+      "NN-NNP": 5,
+      "VBZ-NNS": 1,
+      "NN-VBZ": 2,
+      "VBZ-NNP": 1,
+      "JJ-NNS": 3,
+      "JJ-NNP": 1,
+      "VBD-JJ": 2,
+      "FW-CD": 1,
+      "CD-JJ": 1,
+      "NN-VBP": 1,
+      "NNP-IN": 1,
+      "NNP-JJ": 1,
+      "VBP-FW": 1,
+      "VBP-NNS": 1,
+      "NNS-RB": 1,
+      "RB-VBP": 1
+    },
+    "trigram_freq": {
+      "NNP-VBZ-FW": 2,
+      "VBZ-FW-NNP": 1,
+      "FW-NNP-VBD": 3,
+      "NNP-VBD-NN": 1,
+      "VBD-NN-IN": 1,
+      "NN-IN-FW": 5,
+      "IN-FW-FW": 2,
+      "FW-FW-FW": 14,
+      "FW-FW-NNP": 8,
+      "FW-NNP-NNP": 6,
+      "NNP-NNP-NNP": 6,
+      "NNP-NNP-VBZ": 3,
+      "NNP-VBZ-NN": 1,
+      "VBZ-NN-NN": 1,
+      "NN-NN-NN": 36,
+      "NN-NN-NNS": 3,
+      "NN-NNS-VBZ": 1,
+      "NNS-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 3,
+      "JJ-NN-JJ": 1,
+      "NN-JJ-NN": 6,
+      "JJ-NN-NN": 10,
+      "NN-NN-IN": 4,
+      "NN-IN-NN": 1,
+      "IN-NN-IN": 1,
+      "NN-IN-NNS": 1,
+      "IN-NNS-NNS": 1,
+      "NNS-NNS-NNP": 2,
+      "NNS-NNP-VBP": 1,
+      "NNP-VBP-NN": 1,
+      "VBP-NN-NN": 1,
+      "NN-IN-JJ": 1,
+      "IN-JJ-NN": 1,
+      "JJ-NN-CD": 1,
+      "NN-CD-NNS": 1,
+      "CD-NNS-JJ": 1,
+      "NNS-JJ-IN": 1,
+      "JJ-IN-JJ": 1,
+      "IN-JJ-JJ": 1,
+      "JJ-JJ-NN": 4,
+      "NN-NN-FW": 4,
+      "NN-FW-FW": 3,
+      "FW-NNP-FW": 7,
+      "NNP-FW-NNP": 6,
+      "NNP-FW-FW": 2,
+      "NNP-VBZ-IN": 1,
+      "VBZ-IN-NN": 1,
+      "IN-NN-NNS": 1,
+      "NN-NNS-VBP": 5,
+      "NNS-VBP-JJ": 4,
+      "VBP-JJ-NN": 3,
+      "FW-FW-NN": 1,
+      "FW-NN-NN": 3,
+      "NN-FW-NNP": 2,
+      "FW-NNP-NN": 3,
+      "NNP-NN-NN": 8,
+      "NN-NN-NNP": 3,
+      "NN-NNP-VBZ": 3,
+      "NNP-VBZ-NNS": 1,
+      "VBZ-NNS-NNS": 1,
+      "NNS-NNP-NN": 2,
+      "NN-NN-VBZ": 2,
+      "NN-VBZ-JJ": 2,
+      "JJ-NN-IN": 2,
+      "IN-FW-NNP": 2,
+      "NN-NN-JJ": 6,
+      "JJ-NN-NNP": 1,
+      "NNP-VBZ-NNP": 1,
+      "VBZ-NNP-FW": 1,
+      "NN-JJ-JJ": 1,
+      "VBZ-JJ-NNS": 1,
+      "JJ-NNS-JJ": 1,
+      "NNS-JJ-JJ": 1,
+      "JJ-JJ-NNP": 1,
+      "JJ-NNP-NN": 1,
+      "VBZ-FW-FW": 1,
+      "NNP-NNP-NN": 2,
+      "NNP-FW-NN": 1,
+      "FW-NN-FW": 1,
+      "NNP-VBD-JJ": 2,
+      "VBD-JJ-NNS": 1,
+      "JJ-NNS-VBP": 2,
+      "NNS-VBP-NN": 1,
+      "VBP-NN-FW": 1,
+      "NN-FW-NN": 1,
+      "IN-FW-NN": 1,
+      "JJ-NN-NNS": 4,
+      "NN-NNS-NNP": 1,
+      "IN-FW-CD": 1,
+      "FW-CD-JJ": 1,
+      "CD-JJ-JJ": 1,
+      "NN-NN-VBP": 1,
+      "NN-VBP-NN": 1,
+      "VBP-NN-NNP": 1,
+      "NN-NNP-IN": 1,
+      "NNP-IN-FW": 1,
+      "NNP-VBZ-JJ": 1,
+      "NN-NNP-NNP": 1,
+      "NNP-NNP-FW": 1,
+      "NNP-NNP-JJ": 1,
+      "NNP-JJ-NN": 1,
+      "NNS-VBP-FW": 1,
+      "VBP-FW-FW": 1,
+      "VBD-JJ-NN": 1,
+      "VBP-JJ-JJ": 1,
+      "NNS-VBP-NNS": 1,
+      "VBP-NNS-RB": 1,
+      "NNS-RB-VBP": 1,
+      "RB-VBP-JJ": 1,
+      "VBP-JJ-NNS": 1,
+      "NN-NNS-NNS": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 97,
+        "FW": 47,
+        "NNP": 43,
+        "JJ": 29,
+        "NNS": 18
+      },
+      "top_bigrams": {
+        "NN-NN": 59,
+        "FW-FW": 23,
+        "FW-NNP": 19,
+        "JJ-NN": 19,
+        "NNP-NNP": 13
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 36,
+        "FW-FW-FW": 14,
+        "JJ-NN-NN": 10,
+        "FW-FW-NNP": 8,
+        "NNP-NN-NN": 8
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 12,
+    "chunk_counts": {
+      "NP": 87,
+      "VP": 22,
+      "PP": 4,
+      "ADJP": 1
+    },
+    "top_rules": [
+      {
+        "rule": "NP -> ('Justicia', 'NNP')",
+        "frequency": 3,
+        "weight": 0.0238
+      },
+      {
+        "rule": "NP -> ('Palacio', 'NNP')",
+        "frequency": 3,
+        "weight": 0.0238
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0159
+      },
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0159
+      },
+      {
+        "rule": "NP -> ('La', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0159
+      },
+      {
+        "rule": "NP -> ('UEJN', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0159
+      },
+      {
+        "rule": "VP -> ('trabajadores', 'VBZ') NP",
+        "frequency": 2,
+        "weight": 0.0159
+      },
+      {
+        "rule": "NP -> ('En', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0159
+      },
+      {
+        "rule": "S -> NP VP ('de', 'FW') NP (',', ',') VP ('de', 'IN') ('la', 'FW') ('ministra', 'FW') ('de', 'FW') NP (',', ',') NP (',', ',') NP VP PP PP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0079
+      },
+      {
+        "rule": "NP -> ('Policías', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0079
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Policías"
+      },
+      {
+        "label": "VP",
+        "text": "federales"
+      },
+      {
+        "label": "NP",
+        "text": "Argentina"
+      },
+      {
+        "label": "VP",
+        "text": "fuerza a cargo"
+      },
+      {
+        "label": "NP",
+        "text": "a cargo"
+      },
+      {
+        "label": "NP",
+        "text": "Seguridad"
+      },
+      {
+        "label": "NP",
+        "text": "Patricia Bullrich"
+      },
+      {
+        "label": "NP",
+        "text": "arremetieron con palos y gas pimienta la víspera contra trabajadores"
+      },
+      {
+        "label": "VP",
+        "text": "judiciales que realizaban una protesta pacífica"
+      },
+      {
+        "label": "NP",
+        "text": "que realizaban"
+      },
+      {
+        "label": "NP",
+        "text": "una protesta pacífica"
+      },
+      {
+        "label": "PP",
+        "text": "en demanda"
+      },
+      {
+        "label": "NP",
+        "text": "demanda"
+      },
+      {
+        "label": "PP",
+        "text": "de recompensaciones salariales"
+      },
+      {
+        "label": "NP",
+        "text": "recompensaciones salariales"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Policías/NNP)\n  (VP federales/VBZ)\n  de/FW\n  (NP Argentina/NNP)\n  ,/,\n  (VP fuerza/VBZ (NP a/DT cargo/NN))\n  de/IN\n  la/FW\n  ministra/FW\n  de/FW\n  (NP Seguridad/NNP)\n  ,/,\n  (NP Patricia/NNP Bullrich/NNP)\n  ,/,\n  (NP\n    arremetieron/NN\n    con/NN\n    palos/NN\n    y/NNP\n    gas/NN\n    pimienta/NN\n    la/NN\n    víspera/NN\n    contra/NN\n    trabajadores/NNS)\n  (VP\n    judiciales/VBZ\n    (NP que/JJ realizaban/NN)\n    (NP una/JJ protesta/NN pacífica/NN))\n  (PP en/IN (NP demanda/NN))\n  (PP de/IN (NP recompensaciones/NNS salariales/NNS))\n  ./.)",
+      "(S\n  (NP La/NNP)\n  (VP acción/VBZ)\n  represiva/FW\n  (NP dejó/JJ saldo/NN)\n  (PP de/IN (NP un/JJ detenido/NN y/NN))\n  15/CD\n  (NP trabajadores/NNS)\n  (ADJP heridos/JJ)\n  (PP en/IN (NP los/NN))\n  (VP ojos/VBP (NP a/DT causa/NN del/NN gas/NN pimienta/NN))\n  ,/,\n  entre/FW\n  ellos/FW\n  el/FW\n  titular/FW\n  de/FW\n  la/FW\n  (NP Unión/NNP)\n  de/FW\n  (NP Empleados/NNP)\n  de/FW\n  (NP Justicia/NNP)\n  de/FW\n  la/FW\n  (NP Nación/NNP)\n  (/(\n  (NP UEJN/NNP)\n  )/)\n  ,/,\n  (NP Julio/NNP Piumato/NNP)\n  ./.)",
+      "(S\n  (NP Los/NNP)\n  (VP agentes/VBZ)\n  (VP atacaron/VBP (NP a/DT los/NN))\n  (VP trabajadores/VBZ (NP cuando/JJ estos/NNS))\n  (VP finalizaron/VBP (NP la/NN protesta/NN))\n  en/FW\n  el/FW\n  (NP cuarto/NN piso/NN)\n  del/FW\n  (NP Palacio/NNP)\n  de/FW\n  (NP Justicia/NNP)\n  y/CC\n  (NP abandonaban/JJ el/NN sitio/NN)\n  ./.)",
+      "(S\n  (NP En/NNP)\n  (VP declaraciones/VBZ (NP a/DT medios/JJ locales/NNS))\n  ,/,\n  (NP Piumato/NNP contó/NN que/NN)\n  ,/,\n  (NP como/NN cada/NN martes/NNS)\n  ,/,\n  (NP se/JJ reúnen/NN)\n  en/IN\n  el/FW\n  (NP Palacio/NNP)\n  de/FW\n  (NP Justicia/NNP para/NN rechazar/NN la/NN)\n  (NP implementación/JJ del/NN Impuesto/NNP)\n  (NP a/DT las/NN Ganancias/NNP y/NNP)\n  (VP exigir/VBZ)\n  la/FW\n  recuperación/FW\n  del/FW\n  poder/FW\n  adquisitivo/FW\n  de/FW\n  sus/FW\n  (NP ingresos/NN)\n  ./.)",
+      "(S\n  (NP Detalló/NNP que/NN los/NN)\n  (NP efectivos/JJ nunca/JJ los/NN intimaron/NN)\n  ,/,\n  (NP\n    sino/NN\n    que/NN\n    los/NN\n    agredieron/NN\n    directamente/NN\n    y/NN\n    sin/NN\n    que/NN)\n  (VP\n    se/VBZ\n    (NP hubiese/JJ registrado/NNS)\n    (NP ningún/JJ incidente/NN))\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "GOBIERNOS_OFICIALES",
+      "APROBACION_RECHAZO",
+      "CANTIDADES_NUMERICAS",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "ACCIONES_LEGALES",
+      "ANTIIMPERIALISMO_SOBERANIA",
+      "REGIONES_PROVINCIAS",
+      "ORGANIZACIONES_SOCIALES",
+      "PAISES",
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "CONFLICTOS_ARMADOS_OPERACIONES"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "acusó que “mientras la policía de bullrich se dedica a",
+        "position": [
+          1661,
+          1715
+        ],
+        "start": 1661,
+        "end": 1715
+      },
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "impuesto",
+        "position": [
+          749,
+          757
+        ],
+        "start": 749,
+        "end": 757
+      },
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "trabajo",
+        "position": [
+          1618,
+          1625
+        ],
+        "start": 1618,
+        "end": 1625
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "explicó",
+        "position": [
+          1134,
+          1141
+        ],
+        "start": 1134,
+        "end": 1141
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "ministra de seguridad",
+        "position": [
+          54,
+          75
+        ],
+        "start": 54,
+        "end": 75
+      },
+      {
+        "category": "ORGANIZACIONES_SOCIALES",
+        "matched_text": "gremio acusó que “mientras la policía de bullrich se dedica a reprimir trabajadores",
+        "position": [
+          1654,
+          1737
+        ],
+        "start": 1654,
+        "end": 1737
+      },
+      {
+        "category": "ORGANIZACIONES_SOCIALES",
+        "matched_text": "confederación general del trabajo (cgt). en un comunicado, el gremio acusó que “mientras la policía de bullrich se dedica a reprimir trabajadores",
+        "position": [
+          1592,
+          1737
+        ],
+        "start": 1592,
+        "end": 1737
+      },
+      {
+        "category": "APROBACION_RECHAZO",
+        "matched_text": "subrayó",
+        "position": [
+          1087,
+          1094
+        ],
+        "start": 1087,
+        "end": 1094
+      },
+      {
+        "category": "ACCIONES_LEGALES",
+        "matched_text": "denunció",
+        "position": [
+          1025,
+          1033
+        ],
+        "start": 1025,
+        "end": 1033
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "argentina",
+        "position": [
+          22,
+          31
+        ],
+        "start": 22,
+        "end": 31
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "pacífico",
+        "position": [
+          1124,
+          1132
+        ],
+        "start": 1124,
+        "end": 1132
+      },
+      {
+        "category": "ANTIIMPERIALISMO_SOBERANIA",
+        "matched_text": "embargo",
+        "position": [
+          1235,
+          1242
+        ],
+        "start": 1235,
+        "end": 1242
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "15 trabajadores",
+        "position": [
+          304,
+          319
+        ],
+        "start": 304,
+        "end": 319
+      }
+    ],
+    "match_count": 13
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Julio Piumato",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Corte",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Patricia Bullrich",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Unión de Empleados de Justicia de la Nación",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Piumato",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "UEJN",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Argentina",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Volcovinsky",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "CGT",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Confederación General del Trabajo",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Consejo de la Magistratura",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Bullrich",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Maia Volcovinsky",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Palacio de Justicia",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Piumato",
+        "relacion": "CONTAR",
+        "objeto": "Palacio de Justicia"
+      },
+      {
+        "sujeto": "Volcovinsky",
+        "relacion": "DAR",
+        "objeto": "Consejo de la Magistratura"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.802,
+    "pos": 0.0,
+    "neu": 0.974,
+    "neg": 0.026,
+    "label": "negative"
+  }
+}

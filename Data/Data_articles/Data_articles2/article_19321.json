@@ -1,0 +1,658 @@
+{
+  "url": "https://www.telesurtv.net/confirman-121-muertos-tras-estampida-humana-registrada-en-la-india/",
+  "title": "Confirman 121 muertos tras estampida humana registrada en la India - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "estampida",
+    "India",
+    "Sucesos"
+  ],
+  "text": "Las autoridades de la India han confirmado este miércoles que el trágico incidente de la estampida registrada durante una ceremonia religiosa en el estado norteño de Uttar Pradesh ha dejado un total de 121 personas fallecidas.\nEl viceministro de Educación de la región norteña, Sandeep Singh, informó a la agencia de noticias ANI sobre el número de víctimas y destacó que los heridos están siendo atendidos.\nAsimismo, se comprometió con la población a que se tomarán medidas estrictas contra los responsables del incidente.\nPor su parte, el jefe de Gobierno de Uttar Pradesh, Yogi Adityanath, anunció una visita al distrito de Hathras, donde ocurrió la tragedia.\nEl incidente ocurrió durante una ceremonia religiosa, que fue organizada por el gurú local Bhole Baba y que tuvo lugar en Hathras, Uttar Pradesh; donde se había instalado una estructura temporal para recibir a los miles de asistentes.\nSegún reportes, la estampida se desencadenó cuando una gran cantidad de personas intentaron abandonar el lugar al mismo tiempo, resultando en numerosas víctimas asfixiadas y heridas.\nLas investigaciones sobre las causas exactas del trágico suceso continúan en curso, mientras que se señala la falta de gestión en eventos multitudinarios y las deficiencias en las infraestructuras como factores que contribuyen a este tipo de tragedias.\nNo obstante, es importante mencionar que este incidente se convierte en uno de los más mortíferos en la historia reciente de India, recordando a la tragedia de 2008 en Jodhpur, donde perdieron la vida al menos 150 personas en una avalancha humana.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/confirman-121-muertos-tras-estampida-humana-registrada-en-la-india/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-07.json",
+    "message_index": 1003,
+    "message_id": 72834,
+    "date": "2024-07-03T08:55:07+00:00",
+    "text": "teleSUR\nConfirman 121 muertos tras estampida humana registrada en la India\nhttps://www.telesurtv.net/confirman-121-muertos-tras-estampida-humana-registrada-en-la-india/",
+    "photo_path": null,
+    "views": 1438,
+    "reactions": {},
+    "total_reactions": 0
+  },
+  "preprocessing": {
+    "cleaned": "las autoridades de la india han confirmado este miércoles que el trágico incidente de la estampida registrada durante una ceremonia religiosa en el estado norteño de uttar pradesh ha dejado un total de 121 personas fallecidas. el viceministro de educación de la región norteña, sandeep singh, informó a la agencia de noticias ani sobre el número de víctimas y destacó que los heridos están siendo atendidos. asimismo, se comprometió con la población a que se tomarán medidas estrictas contra los responsables del incidente. por su parte, el jefe de gobierno de uttar pradesh, yogi adityanath, anunció una visita al distrito de hathras, donde ocurrió la tragedia. el incidente ocurrió durante una ceremonia religiosa, que fue organizada por el gurú local bhole baba y que tuvo lugar en hathras, uttar pradesh; donde se había instalado una estructura temporal para recibir a los miles de asistentes. según reportes, la estampida se desencadenó cuando una gran cantidad de personas intentaron abandonar el lugar al mismo tiempo, resultando en numerosas víctimas asfixiadas y heridas. las investigaciones sobre las causas exactas del trágico suceso continúan en curso, mientras que se señala la falta de gestión en eventos multitudinarios y las deficiencias en las infraestructuras como factores que contribuyen a este tipo de tragedias. no obstante, es importante mencionar que este incidente se convierte en uno de los más mortíferos en la historia reciente de india, recordando a la tragedia de 2008 en jodhpur, donde perdieron la vida al menos 150 personas en una avalancha humana.",
+    "tokens": [
+      "autoridades",
+      "india",
+      "confirmado",
+      "miércoles",
+      "trágico",
+      "incidente",
+      "estampida",
+      "registrada",
+      "ceremonia",
+      "religiosa",
+      "norteño",
+      "uttar",
+      "pradesh",
+      "dejado",
+      "total",
+      "121",
+      "personas",
+      "fallecidas",
+      ".",
+      "viceministro",
+      "educación",
+      "región",
+      "norteña",
+      ",",
+      "sandeep",
+      "singh",
+      ",",
+      "informó",
+      "agencia",
+      "noticias",
+      "ani",
+      "número",
+      "víctimas",
+      "destacó",
+      "heridos",
+      "siendo",
+      "atendidos",
+      ".",
+      "asimismo",
+      ",",
+      "comprometió",
+      "población",
+      "tomarán",
+      "medidas",
+      "estrictas",
+      "responsables",
+      "incidente",
+      ".",
+      "parte",
+      ",",
+      "jefe",
+      "gobierno",
+      "uttar",
+      "pradesh",
+      ",",
+      "yogi",
+      "adityanath",
+      ",",
+      "anunció",
+      "visita",
+      "distrito",
+      "hathras",
+      ",",
+      "ocurrió",
+      "tragedia",
+      ".",
+      "incidente",
+      "ocurrió",
+      "ceremonia",
+      "religiosa",
+      ",",
+      "organizada",
+      "gurú",
+      "local",
+      "bhole",
+      "baba",
+      "lugar",
+      "hathras",
+      ",",
+      "uttar",
+      "pradesh",
+      ";",
+      "instalado",
+      "estructura",
+      "temporal",
+      "recibir",
+      "miles",
+      "asistentes",
+      ".",
+      "según",
+      "reportes",
+      ",",
+      "estampida",
+      "desencadenó",
+      "gran",
+      "cantidad",
+      "personas",
+      "intentaron",
+      "abandonar",
+      "lugar",
+      "mismo",
+      "tiempo",
+      ",",
+      "resultando",
+      "numerosas",
+      "víctimas",
+      "asfixiadas",
+      "heridas",
+      ".",
+      "investigaciones",
+      "causas",
+      "exactas",
+      "trágico",
+      "suceso",
+      "continúan",
+      "curso",
+      ",",
+      "mientras",
+      "señala",
+      "falta",
+      "gestión",
+      "eventos",
+      "multitudinarios",
+      "deficiencias",
+      "infraestructuras",
+      "factores",
+      "contribuyen",
+      "tipo",
+      "tragedias",
+      ".",
+      "obstante",
+      ",",
+      "importante",
+      "mencionar",
+      "incidente",
+      "convierte",
+      "mortíferos",
+      "historia",
+      "reciente",
+      "india",
+      ",",
+      "recordando",
+      "tragedia",
+      "2008",
+      "jodhpur",
+      ",",
+      "perdieron",
+      "vida",
+      "menos",
+      "150",
+      "personas",
+      "avalancha",
+      "humana",
+      "."
+    ],
+    "token_count": 154,
+    "sentence_count": 8
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 28,
+      "VBZ": 3,
+      "FW": 55,
+      "NN": 96,
+      "NNS": 11,
+      "VBP": 8,
+      "JJ": 23,
+      "IN": 13,
+      "CD": 3,
+      "RB": 1
+    },
+    "bigram_freq": {
+      "NNP-VBZ": 3,
+      "VBZ-FW": 2,
+      "FW-FW": 33,
+      "FW-NNP": 10,
+      "NNP-NN": 14,
+      "NN-NN": 59,
+      "NN-NNS": 4,
+      "NNS-VBP": 6,
+      "VBP-JJ": 8,
+      "JJ-NN": 13,
+      "NN-IN": 10,
+      "IN-FW": 5,
+      "FW-NN": 9,
+      "NNP-NNP": 8,
+      "NN-JJ": 7,
+      "IN-CD": 2,
+      "CD-NNS": 2,
+      "NNS-JJ": 1,
+      "JJ-NNP": 3,
+      "NN-FW": 10,
+      "NNP-FW": 3,
+      "NN-NNP": 2,
+      "NN-VBP": 2,
+      "JJ-JJ": 3,
+      "JJ-NNS": 3,
+      "IN-NNP": 3,
+      "NNS-FW": 1,
+      "FW-NNS": 2,
+      "NNS-NNP": 1,
+      "IN-JJ": 2,
+      "VBZ-JJ": 1,
+      "IN-NN": 1,
+      "JJ-FW": 1,
+      "NN-RB": 1,
+      "RB-JJ": 1,
+      "FW-IN": 1,
+      "CD-IN": 1,
+      "NNS-CD": 1,
+      "NNS-IN": 1
+    },
+    "trigram_freq": {
+      "NNP-VBZ-FW": 2,
+      "VBZ-FW-FW": 2,
+      "FW-FW-NNP": 6,
+      "FW-NNP-NN": 5,
+      "NNP-NN-NN": 11,
+      "NN-NN-NN": 32,
+      "NN-NN-NNS": 1,
+      "NN-NNS-VBP": 3,
+      "NNS-VBP-JJ": 6,
+      "VBP-JJ-NN": 5,
+      "JJ-NN-NN": 12,
+      "NN-NN-IN": 9,
+      "NN-IN-FW": 5,
+      "IN-FW-FW": 2,
+      "FW-FW-FW": 23,
+      "FW-FW-NN": 3,
+      "FW-NN-NN": 4,
+      "FW-NNP-NNP": 3,
+      "NNP-NNP-NN": 5,
+      "NN-NN-JJ": 6,
+      "NN-JJ-NN": 4,
+      "JJ-NN-IN": 1,
+      "NN-IN-CD": 1,
+      "IN-CD-NNS": 1,
+      "CD-NNS-JJ": 1,
+      "NNS-JJ-NNP": 1,
+      "JJ-NNP-NN": 2,
+      "NNP-NN-FW": 1,
+      "NN-FW-NNP": 2,
+      "FW-NNP-FW": 2,
+      "NNP-FW-FW": 1,
+      "NN-NN-FW": 6,
+      "NN-FW-FW": 4,
+      "IN-FW-NN": 2,
+      "NN-NN-NNP": 2,
+      "NN-NNP-NN": 1,
+      "NN-NN-VBP": 2,
+      "NN-VBP-JJ": 2,
+      "VBP-JJ-JJ": 1,
+      "JJ-JJ-NNS": 1,
+      "JJ-NNS-VBP": 2,
+      "VBP-JJ-NNP": 1,
+      "NN-FW-NN": 3,
+      "FW-NN-FW": 3,
+      "NNP-FW-NNP": 1,
+      "NNP-NNP-NNP": 3,
+      "NNP-NN-JJ": 1,
+      "NN-IN-NNP": 2,
+      "IN-NNP-FW": 1,
+      "NNP-FW-NN": 1,
+      "NN-JJ-NNP": 1,
+      "JJ-NNP-NNP": 1,
+      "IN-NNP-NNP": 1,
+      "NN-JJ-JJ": 1,
+      "JJ-JJ-JJ": 1,
+      "JJ-JJ-NN": 1,
+      "NN-JJ-NNS": 1,
+      "JJ-NNS-FW": 1,
+      "NNS-FW-NNS": 1,
+      "FW-NNS-NNP": 1,
+      "NNS-NNP-VBZ": 1,
+      "NN-IN-JJ": 1,
+      "IN-JJ-NN": 2,
+      "NN-NNP-VBZ": 1,
+      "NNP-VBZ-JJ": 1,
+      "VBZ-JJ-NNS": 1,
+      "NN-IN-NN": 1,
+      "IN-NN-NNS": 1,
+      "FW-FW-NNS": 1,
+      "FW-NNS-VBP": 1,
+      "VBP-JJ-FW": 1,
+      "JJ-FW-FW": 1,
+      "FW-NN-NNS": 2,
+      "IN-FW-NNP": 1,
+      "NNP-NN-RB": 1,
+      "NN-RB-JJ": 1,
+      "RB-JJ-NN": 1,
+      "NN-FW-IN": 1,
+      "FW-IN-CD": 1,
+      "IN-CD-IN": 1,
+      "CD-IN-NNP": 1,
+      "IN-NNP-NN": 1,
+      "NN-NNS-CD": 1,
+      "NNS-CD-NNS": 1,
+      "CD-NNS-IN": 1,
+      "NNS-IN-JJ": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 96,
+        "FW": 55,
+        "NNP": 28,
+        "JJ": 23,
+        "IN": 13
+      },
+      "top_bigrams": {
+        "NN-NN": 59,
+        "FW-FW": 33,
+        "NNP-NN": 14,
+        "JJ-NN": 13,
+        "FW-NNP": 10
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 32,
+        "FW-FW-FW": 23,
+        "JJ-NN-NN": 12,
+        "NNP-NN-NN": 11,
+        "NN-NN-IN": 9
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 8,
+    "chunk_counts": {
+      "NP": 61,
+      "VP": 14,
+      "PP": 6
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 3,
+        "weight": 0.0337
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 3,
+        "weight": 0.0337
+      },
+      {
+        "rule": "NP -> ('Uttar', 'NNP') ('Pradesh', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0225
+      },
+      {
+        "rule": "NP -> ('Hathras', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0225
+      },
+      {
+        "rule": "S -> NP VP ('de', 'FW') ('la', 'FW') NP VP ('de', 'IN') ('la', 'FW') ('estampida', 'FW') ('registrada', 'FW') ('durante', 'FW') ('una', 'FW') NP ('en', 'IN') ('el', 'FW') ('estado', 'FW') ('norteño', 'FW') ('de', 'FW') NP NP ('de', 'IN') ('121', 'CD') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0112
+      },
+      {
+        "rule": "NP -> ('Las', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0112
+      },
+      {
+        "rule": "VP -> ('autoridades', 'VBZ')",
+        "frequency": 1,
+        "weight": 0.0112
+      },
+      {
+        "rule": "NP -> ('India', 'NNP') ('han', 'NN') ('confirmado', 'NN') ('este', 'NN') ('miércoles', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0112
+      },
+      {
+        "rule": "VP -> ('que', 'VBP') NP",
+        "frequency": 1,
+        "weight": 0.0112
+      },
+      {
+        "rule": "NP -> ('el', 'JJ') ('trágico', 'NN') ('incidente', 'NN')",
+        "frequency": 1,
+        "weight": 0.0112
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Las"
+      },
+      {
+        "label": "VP",
+        "text": "autoridades"
+      },
+      {
+        "label": "NP",
+        "text": "India han confirmado este miércoles"
+      },
+      {
+        "label": "VP",
+        "text": "que el trágico incidente"
+      },
+      {
+        "label": "NP",
+        "text": "el trágico incidente"
+      },
+      {
+        "label": "NP",
+        "text": "ceremonia religiosa"
+      },
+      {
+        "label": "NP",
+        "text": "Uttar Pradesh ha dejado"
+      },
+      {
+        "label": "NP",
+        "text": "un total"
+      },
+      {
+        "label": "NP",
+        "text": "personas fallecidas"
+      },
+      {
+        "label": "NP",
+        "text": "El viceministro"
+      },
+      {
+        "label": "NP",
+        "text": "Educación"
+      },
+      {
+        "label": "NP",
+        "text": "Sandeep Singh"
+      },
+      {
+        "label": "VP",
+        "text": "informó a la"
+      },
+      {
+        "label": "NP",
+        "text": "a la"
+      },
+      {
+        "label": "NP",
+        "text": "ANI sobre el número"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Las/NNP)\n  (VP autoridades/VBZ)\n  de/FW\n  la/FW\n  (NP India/NNP han/NN confirmado/NN este/NN miércoles/NNS)\n  (VP que/VBP (NP el/JJ trágico/NN incidente/NN))\n  de/IN\n  la/FW\n  estampida/FW\n  registrada/FW\n  durante/FW\n  una/FW\n  (NP ceremonia/NN religiosa/NN)\n  en/IN\n  el/FW\n  estado/FW\n  norteño/FW\n  de/FW\n  (NP Uttar/NNP Pradesh/NNP ha/NN dejado/NN)\n  (NP un/JJ total/NN)\n  de/IN\n  121/CD\n  (NP personas/NNS fallecidas/NNS)\n  ./.)",
+      "(S\n  (NP El/NNP viceministro/NN)\n  de/FW\n  (NP Educación/NNP)\n  de/FW\n  la/FW\n  región/FW\n  norteña/FW\n  ,/,\n  (NP Sandeep/NNP Singh/NNP)\n  ,/,\n  (VP informó/VBZ (NP a/DT la/NN))\n  agencia/FW\n  de/FW\n  noticias/FW\n  (NP ANI/NNP sobre/NN el/NN número/NN)\n  de/IN\n  víctimas/FW\n  y/FW\n  (NP destacó/NN que/NN los/NN)\n  (NP heridos/JJ están/NN siendo/NN atendidos/NN)\n  ./.)",
+      "(S\n  (NP Asimismo/NNP)\n  ,/,\n  (VP se/VBD (NP comprometió/JJ con/NN la/NN))\n  (VP población/VBZ (NP a/DT que/NN se/NN tomarán/NN medidas/NN))\n  (VP estrictas/VBP (NP contra/JJ los/JJ responsables/NNS))\n  del/FW\n  (NP incidente/NN)\n  ./.)",
+      "(S\n  (NP Por/NNP su/NN parte/NN)\n  ,/,\n  (NP el/JJ jefe/NN)\n  (PP de/IN (NP Gobierno/NNP))\n  de/FW\n  (NP Uttar/NNP Pradesh/NNP)\n  ,/,\n  (NP Yogi/NNP Adityanath/NNP)\n  ,/,\n  (NP anunció/NN)\n  (NP una/JJ visita/NN al/NN distrito/NN)\n  (PP de/IN (NP Hathras/NNP))\n  ,/,\n  (NP donde/NN ocurrió/NN la/NN tragedia/NN)\n  ./.)",
+      "(S\n  (NP El/NNP incidente/NN ocurrió/NN durante/NN)\n  (NP una/JJ ceremonia/NN religiosa/NN)\n  ,/,\n  (NP que/JJ fue/NN organizada/NN por/NN el/NN gurú/NN)\n  (NP local/JJ Bhole/NNP Baba/NNP y/NNP que/NN tuvo/NN lugar/NN)\n  (PP en/IN (NP Hathras/NNP))\n  ,/,\n  (NP Uttar/NNP Pradesh/NNP)\n  ;/:\n  (VP donde/VBZ)\n  se/FW\n  (NP había/NN instalado/NN)\n  (NP una/JJ estructura/JJ temporal/JJ para/NN)\n  (VP\n    recibir/VBD\n    (NP a/DT los/JJ miles/NNS)\n    de/RB\n    (NP asistentes/NNS))\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "GOBIERNOS_OFICIALES",
+      "APROBACION_RECHAZO",
+      "CANTIDADES_NUMERICAS",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "REGIONES_PROVINCIAS"
+    ],
+    "matches": [
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "informó",
+        "position": [
+          293,
+          300
+        ],
+        "start": 293,
+        "end": 300
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "gobierno de uttar pradesh",
+        "position": [
+          549,
+          574
+        ],
+        "start": 549,
+        "end": 574
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "viceministro de educación de",
+        "position": [
+          230,
+          258
+        ],
+        "start": 230,
+        "end": 258
+      },
+      {
+        "category": "APROBACION_RECHAZO",
+        "matched_text": "destacó",
+        "position": [
+          360,
+          367
+        ],
+        "start": 360,
+        "end": 367
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "estado norteño",
+        "position": [
+          148,
+          162
+        ],
+        "start": 148,
+        "end": 162
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "121 personas",
+        "position": [
+          202,
+          214
+        ],
+        "start": 202,
+        "end": 214
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "150 personas",
+        "position": [
+          1544,
+          1556
+        ],
+        "start": 1544,
+        "end": 1556
+      }
+    ],
+    "match_count": 7
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Yogi Adityanath",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "India",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Sandeep Singh",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Uttar Pradesh",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Gobierno de Uttar Pradesh",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Hathras",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "ANI",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Bhole Baba",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Jodhpur",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Educación",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "la India",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "la India",
+        "relacion": "CONFIRMAR",
+        "objeto": "Uttar Pradesh"
+      },
+      {
+        "sujeto": "Educación",
+        "relacion": "INFORMAR",
+        "objeto": "ANI"
+      },
+      {
+        "sujeto": "Sandeep Singh",
+        "relacion": "INFORMAR",
+        "objeto": "ANI"
+      },
+      {
+        "sujeto": "Gobierno de Uttar Pradesh",
+        "relacion": "ANUNCIAR",
+        "objeto": "Hathras"
+      },
+      {
+        "sujeto": "Yogi Adityanath",
+        "relacion": "ANUNCIAR",
+        "objeto": "Hathras"
+      },
+      {
+        "sujeto": "Bhole Baba",
+        "relacion": "ORGANIZAR_OCURRIR",
+        "objeto": "Hathras"
+      },
+      {
+        "sujeto": "Bhole Baba",
+        "relacion": "ORGANIZAR_OCURRIR",
+        "objeto": "Uttar Pradesh"
+      },
+      {
+        "sujeto": "India",
+        "relacion": "CONVERTIR_MENCIONAR",
+        "objeto": "Jodhpur"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.0516,
+    "pos": 0.01,
+    "neu": 0.981,
+    "neg": 0.009,
+    "label": "positive"
+  }
+}

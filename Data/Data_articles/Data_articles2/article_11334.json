@@ -1,0 +1,815 @@
+{
+  "url": "https://www.telesurtv.net/papa-francisco-denuncia-bombardeos-israelies-en-gaza-esto-es-crueldad-no-guerra/",
+  "title": "Papa Francisco denuncia bombardeos israelíes en Gaza: “Esto es crueldad, no guerra” - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "bombardeos",
+    "genocidio",
+    "Iglesia",
+    "Israel",
+    "Muertos",
+    "Palestina",
+    "Papa Francisco",
+    "pontífice",
+    "Vaticano"
+  ],
+  "text": "En su discurso anual de Navidad ante los cardenales católicos, el sumo pontífice, papa Francisco, calificó de “crueldad” los bombardeos de Israel en la Franja de Gaza, que han resultado en la muerte de miles de niños palestinos.\n“Ayer al patriarca no lo dejaron entrar a Gaza como habían prometido. Y ayer fueron bombardeados niños. Esto es crueldad, esto no es guerra. Quiero decirlo porque toca el corazón”, afirmó el pontífice argentino.\nEn su declaración hizo alusión a la prohibición, por parte del Ejército sionista, de la entrada a Gaza del cardenal Pierbattista Pizzaballa, máximo representante de la Iglesia católica en Tierra Santa.\nAdemás, el papa Francisco denunció el ataque aéreo israelí en Yabalia, en el norte de la Franja de Gaza, el pasado viernes, en el que murieron menos 25 palestinos, entre ellos diez miembros de una misma familia, incluidos siete niños, según reportaron los servicios de rescate locales.\nAsimismo, recordó en sus palabras que “Gaza, ciudad en la que Doroteo ha edificado la Iglesia con instrucciones y cartas llenas de sabiduría evangélica, es hoy día es sinónimo de muerte y destrucción”.\nAunque el papa logra mantener al margen de los conflictos en el mundo, recientemente también instó a la comunidad global investigar un genocidio en Gaza. “Según algunos expertos, lo que está sucediendo en Gaza tiene características de genocidio”, escribió el pontífice en su obra próxima a ser lanzada La esperanza nunca decepciona: peregrinos hacia un mundo mejor.\nA lo que agregó: “Esto debe estudiarse con cuidado para determinar si corresponde a la definición técnica formulada por juristas y organismos internacionales”.\nIsrael desató su guerra genocida contra Gaza el 7 de octubre de 2023. Desde entonces, ha asesinado, hasta ahora, al menos 45.227 palestinos, en su mayoría mujeres y niños, según el Ministerio de Salud en el enclave.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/papa-francisco-denuncia-bombardeos-israelies-en-gaza-esto-es-crueldad-no-guerra/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-12.json",
+    "message_index": 535,
+    "message_id": 82848,
+    "date": "2024-12-22T01:55:08+00:00",
+    "text": "teleSUR\nPapa Francisco denuncia bombardeos israelíes en Gaza: “Esto es crueldad, no guerra”\nhttps://www.telesurtv.net/papa-francisco-denuncia-bombardeos-israelies-en-gaza-esto-es-crueldad-no-guerra/",
+    "photo_path": null,
+    "views": 2655,
+    "reactions": {
+      "👍": 48,
+      "🙏": 12
+    },
+    "total_reactions": 60
+  },
+  "preprocessing": {
+    "cleaned": "en su discurso anual de navidad ante los cardenales católicos, el sumo pontífice, papa francisco, calificó de “crueldad” los bombardeos de israel en la franja de gaza, que han resultado en la muerte de miles de niños palestinos. “ayer al patriarca no lo dejaron entrar a gaza como habían prometido. y ayer fueron bombardeados niños. esto es crueldad, esto no es guerra. quiero decirlo porque toca el corazón”, afirmó el pontífice argentino. en su declaración hizo alusión a la prohibición, por parte del ejército sionista, de la entrada a gaza del cardenal pierbattista pizzaballa, máximo representante de la iglesia católica en tierra santa. además, el papa francisco denunció el ataque aéreo israelí en yabalia, en el norte de la franja de gaza, el pasado viernes, en el que murieron menos 25 palestinos, entre ellos diez miembros de una misma familia, incluidos siete niños, según reportaron los servicios de rescate locales. asimismo, recordó en sus palabras que “gaza, ciudad en la que doroteo ha edificado la iglesia con instrucciones y cartas llenas de sabiduría evangélica, es hoy día es sinónimo de muerte y destrucción”. aunque el papa logra mantener al margen de los conflictos en el mundo, recientemente también instó a la comunidad global investigar un genocidio en gaza. “según algunos expertos, lo que está sucediendo en gaza tiene características de genocidio”, escribió el pontífice en su obra próxima a ser lanzada la esperanza nunca decepciona: peregrinos hacia un mundo mejor. a lo que agregó: “esto debe estudiarse con cuidado para determinar si corresponde a la definición técnica formulada por juristas y organismos internacionales”. israel desató su guerra genocida contra gaza el 7 de octubre de 2023. desde entonces, ha asesinado, hasta ahora, al menos 45.227 palestinos, en su mayoría mujeres y niños, según el ministerio de salud en el enclave.",
+    "tokens": [
+      "discurso",
+      "anual",
+      "navidad",
+      "cardenales",
+      "católicos",
+      ",",
+      "sumo",
+      "pontífice",
+      ",",
+      "papa",
+      "francisco",
+      ",",
+      "calificó",
+      "“",
+      "crueldad",
+      "”",
+      "bombardeos",
+      "israel",
+      "franja",
+      "gaza",
+      ",",
+      "resultado",
+      "muerte",
+      "miles",
+      "niños",
+      "palestinos",
+      ".",
+      "“",
+      "ayer",
+      "patriarca",
+      "dejaron",
+      "entrar",
+      "gaza",
+      "prometido",
+      ".",
+      "ayer",
+      "bombardeados",
+      "niños",
+      ".",
+      "crueldad",
+      ",",
+      "guerra",
+      ".",
+      "quiero",
+      "decirlo",
+      "toca",
+      "corazón",
+      "”",
+      ",",
+      "afirmó",
+      "pontífice",
+      "argentino",
+      ".",
+      "declaración",
+      "hizo",
+      "alusión",
+      "prohibición",
+      ",",
+      "parte",
+      "ejército",
+      "sionista",
+      ",",
+      "entrada",
+      "gaza",
+      "cardenal",
+      "pierbattista",
+      "pizzaballa",
+      ",",
+      "máximo",
+      "representante",
+      "iglesia",
+      "católica",
+      "tierra",
+      "santa",
+      ".",
+      "además",
+      ",",
+      "papa",
+      "francisco",
+      "denunció",
+      "ataque",
+      "aéreo",
+      "israelí",
+      "yabalia",
+      ",",
+      "norte",
+      "franja",
+      "gaza",
+      ",",
+      "pasado",
+      "viernes",
+      ",",
+      "murieron",
+      "menos",
+      "25",
+      "palestinos",
+      ",",
+      "diez",
+      "miembros",
+      "misma",
+      "familia",
+      ",",
+      "incluidos",
+      "siete",
+      "niños",
+      ",",
+      "según",
+      "reportaron",
+      "servicios",
+      "rescate",
+      "locales",
+      ".",
+      "asimismo",
+      ",",
+      "recordó",
+      "palabras",
+      "“",
+      "gaza",
+      ",",
+      "ciudad",
+      "doroteo",
+      "edificado",
+      "iglesia",
+      "instrucciones",
+      "cartas",
+      "llenas",
+      "sabiduría",
+      "evangélica",
+      ",",
+      "hoy",
+      "día",
+      "sinónimo",
+      "muerte",
+      "destrucción",
+      "”",
+      ".",
+      "aunque",
+      "papa",
+      "logra",
+      "mantener",
+      "margen",
+      "conflictos",
+      "mundo",
+      ",",
+      "recientemente",
+      "instó",
+      "comunidad",
+      "global",
+      "investigar",
+      "genocidio",
+      "gaza",
+      ".",
+      "“",
+      "según",
+      "expertos",
+      ",",
+      "sucediendo",
+      "gaza",
+      "características",
+      "genocidio",
+      "”",
+      ",",
+      "escribió",
+      "pontífice",
+      "obra",
+      "próxima",
+      "ser",
+      "lanzada",
+      "esperanza",
+      "nunca",
+      "decepciona",
+      ":",
+      "peregrinos",
+      "hacia",
+      "mundo",
+      "mejor",
+      ".",
+      "agregó",
+      ":",
+      "“",
+      "debe",
+      "estudiarse",
+      "cuidado",
+      "determinar",
+      "si",
+      "corresponde",
+      "definición",
+      "técnica",
+      "formulada",
+      "juristas",
+      "organismos",
+      "internacionales",
+      "”",
+      ".",
+      "israel",
+      "desató",
+      "guerra",
+      "genocida",
+      "gaza",
+      "7",
+      "octubre",
+      "2023.",
+      "entonces",
+      ",",
+      "asesinado",
+      ",",
+      "ahora",
+      ",",
+      "menos",
+      "45.227",
+      "palestinos",
+      ",",
+      "mayoría",
+      "mujeres",
+      "niños",
+      ",",
+      "según",
+      "ministerio",
+      "salud",
+      "enclave",
+      "."
+    ],
+    "token_count": 221,
+    "sentence_count": 13
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 40,
+      "NN": 115,
+      "JJ": 27,
+      "FW": 55,
+      "CC": 2,
+      "NNS": 15,
+      "VBP": 9,
+      "IN": 11,
+      "VBZ": 7,
+      "DT": 2,
+      "CD": 3,
+      "$": 1
+    },
+    "bigram_freq": {
+      "NNP-NN": 18,
+      "NN-NN": 68,
+      "NN-JJ": 9,
+      "JJ-FW": 3,
+      "FW-NNP": 12,
+      "NNP-CC": 2,
+      "CC-JJ": 2,
+      "JJ-NNS": 4,
+      "NNS-VBP": 7,
+      "VBP-JJ": 5,
+      "JJ-NN": 13,
+      "NN-NNP": 11,
+      "NN-IN": 9,
+      "IN-FW": 5,
+      "FW-JJ": 4,
+      "IN-NNP": 3,
+      "NNP-NNP": 5,
+      "NNP-FW": 8,
+      "FW-FW": 24,
+      "FW-NNS": 2,
+      "NNS-FW": 4,
+      "NNP-VBP": 1,
+      "VBP-VBZ": 1,
+      "VBZ-DT": 2,
+      "DT-NN": 1,
+      "JJ-NNP": 5,
+      "NN-VBZ": 1,
+      "DT-JJ": 1,
+      "NN-FW": 10,
+      "FW-NN": 12,
+      "NNP-VBZ": 5,
+      "VBZ-JJ": 3,
+      "NNS-IN": 1,
+      "IN-NN": 1,
+      "VBZ-CD": 1,
+      "CD-NN": 2,
+      "IN-JJ": 1,
+      "NN-NNS": 6,
+      "NNS-NNP": 2,
+      "NNS-NNS": 1,
+      "JJ-JJ": 2,
+      "VBZ-FW": 1,
+      "VBP-NNS": 1,
+      "FW-IN": 1,
+      "IN-CD": 1,
+      "CD-NNP": 1,
+      "NNP-NNS": 1,
+      "VBP-$": 1,
+      "$-CD": 1,
+      "NN-VBP": 1
+    },
+    "trigram_freq": {
+      "NNP-NN-NN": 12,
+      "NN-NN-JJ": 7,
+      "NN-JJ-FW": 1,
+      "JJ-FW-NNP": 2,
+      "FW-NNP-CC": 2,
+      "NNP-CC-JJ": 2,
+      "CC-JJ-NNS": 2,
+      "JJ-NNS-VBP": 2,
+      "NNS-VBP-JJ": 5,
+      "VBP-JJ-NN": 3,
+      "JJ-NN-NN": 2,
+      "NN-NN-NN": 45,
+      "NN-NN-NNP": 9,
+      "NN-NNP-NN": 8,
+      "NNP-NN-IN": 1,
+      "NN-IN-FW": 5,
+      "IN-FW-JJ": 1,
+      "FW-JJ-NN": 2,
+      "JJ-NN-IN": 5,
+      "NN-IN-NNP": 3,
+      "IN-NNP-NNP": 2,
+      "NNP-NNP-FW": 2,
+      "NNP-FW-NNP": 4,
+      "FW-NNP-FW": 5,
+      "FW-NNP-NN": 3,
+      "NN-NN-IN": 3,
+      "IN-FW-FW": 2,
+      "FW-FW-FW": 15,
+      "FW-FW-NNS": 1,
+      "FW-NNS-FW": 2,
+      "NNS-FW-FW": 3,
+      "FW-FW-NNP": 4,
+      "FW-NNP-VBP": 1,
+      "NNP-VBP-VBZ": 1,
+      "VBP-VBZ-DT": 1,
+      "VBZ-DT-NN": 1,
+      "DT-NN-NN": 1,
+      "NN-JJ-NNP": 2,
+      "JJ-NNP-NN": 4,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-DT": 1,
+      "VBZ-DT-JJ": 1,
+      "DT-JJ-NN": 1,
+      "JJ-NN-NNP": 1,
+      "NN-NN-FW": 1,
+      "NN-FW-NN": 5,
+      "FW-NN-NN": 6,
+      "NNP-NN-FW": 4,
+      "NN-FW-FW": 2,
+      "NNP-FW-JJ": 1,
+      "FW-JJ-NNP": 2,
+      "JJ-NNP-NNP": 1,
+      "NNP-FW-FW": 2,
+      "NN-FW-NNP": 2,
+      "FW-NNP-NNP": 1,
+      "NNP-NNP-NNP": 1,
+      "NNP-NNP-VBZ": 2,
+      "NNP-VBZ-JJ": 3,
+      "VBZ-JJ-NNP": 1,
+      "IN-NNP-FW": 1,
+      "JJ-NNS-IN": 1,
+      "NNS-IN-NN": 1,
+      "IN-NN-NN": 1,
+      "NN-NNP-VBZ": 3,
+      "NNP-VBZ-CD": 1,
+      "VBZ-CD-NN": 1,
+      "CD-NN-NN": 1,
+      "NN-JJ-NN": 5,
+      "NN-IN-JJ": 1,
+      "IN-JJ-NN": 1,
+      "JJ-NN-NNS": 2,
+      "NN-NNS-VBP": 4,
+      "VBP-JJ-FW": 2,
+      "JJ-FW-NN": 1,
+      "NN-JJ-NNS": 1,
+      "JJ-NNS-FW": 1,
+      "NNS-FW-NN": 1,
+      "FW-NN-NNS": 1,
+      "NN-NNS-NNP": 1,
+      "NNS-NNP-NN": 2,
+      "FW-NN-FW": 3,
+      "NN-FW-JJ": 1,
+      "NNP-NN-NNS": 1,
+      "NN-NNS-NNS": 1,
+      "NNS-NNS-FW": 1,
+      "FW-FW-NN": 3,
+      "IN-FW-NN": 1,
+      "FW-NN-NNP": 1,
+      "VBZ-JJ-JJ": 2,
+      "JJ-JJ-NN": 1,
+      "JJ-NN-JJ": 2,
+      "IN-FW-NNS": 1,
+      "NNP-VBZ-FW": 1,
+      "VBZ-FW-JJ": 1,
+      "JJ-NN-FW": 1,
+      "JJ-JJ-NNS": 1,
+      "NN-NN-NNS": 2,
+      "NNS-VBP-NNS": 1,
+      "VBP-NNS-NNP": 1,
+      "FW-FW-IN": 1,
+      "FW-IN-CD": 1,
+      "IN-CD-NNP": 1,
+      "CD-NNP-NNS": 1,
+      "NNP-NNS-VBP": 1,
+      "NNS-VBP-$": 1,
+      "VBP-$-CD": 1,
+      "$-CD-NN": 1,
+      "CD-NN-FW": 1,
+      "NNP-FW-NN": 1,
+      "FW-NN-VBP": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 115,
+        "FW": 55,
+        "NNP": 40,
+        "JJ": 27,
+        "NNS": 15
+      },
+      "top_bigrams": {
+        "NN-NN": 68,
+        "FW-FW": 24,
+        "NNP-NN": 18,
+        "JJ-NN": 13,
+        "FW-NNP": 12
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 45,
+        "FW-FW-FW": 15,
+        "NNP-NN-NN": 12,
+        "NN-NN-NNP": 9,
+        "NN-NNP-NN": 8
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 13,
+    "chunk_counts": {
+      "NP": 89,
+      "ADJP": 2,
+      "VP": 19,
+      "PP": 5
+    },
+    "top_rules": [
+      {
+        "rule": "NP -> ('Gaza', 'NNP')",
+        "frequency": 3,
+        "weight": 0.0234
+      },
+      {
+        "rule": "NP -> ('palestinos', 'NNS')",
+        "frequency": 3,
+        "weight": 0.0234
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 3,
+        "weight": 0.0234
+      },
+      {
+        "rule": "VP -> ('el', 'VBP') NP",
+        "frequency": 2,
+        "weight": 0.0156
+      },
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0156
+      },
+      {
+        "rule": "NP -> ('Franja', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0156
+      },
+      {
+        "rule": "S -> NP ADJP ('de', 'FW') NP ('ante', 'CC') NP (',', ',') VP (',', ',') NP (',', ',') NP ('de', 'FW') ('“', 'FW') NP PP ('la', 'FW') NP ('de', 'FW') NP (',', ',') NP ('en', 'IN') ('la', 'FW') ('muerte', 'FW') ('de', 'FW') NP ('de', 'FW') ('niños', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0078
+      },
+      {
+        "rule": "NP -> ('En', 'NNP') ('su', 'NN') ('discurso', 'NN')",
+        "frequency": 1,
+        "weight": 0.0078
+      },
+      {
+        "rule": "ADJP -> ('anual', 'JJ')",
+        "frequency": 1,
+        "weight": 0.0078
+      },
+      {
+        "rule": "NP -> ('Navidad', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0078
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "En su discurso"
+      },
+      {
+        "label": "ADJP",
+        "text": "anual"
+      },
+      {
+        "label": "NP",
+        "text": "Navidad"
+      },
+      {
+        "label": "NP",
+        "text": "los cardenales católicos"
+      },
+      {
+        "label": "VP",
+        "text": "el sumo pontífice"
+      },
+      {
+        "label": "NP",
+        "text": "sumo pontífice"
+      },
+      {
+        "label": "NP",
+        "text": "papa Francisco"
+      },
+      {
+        "label": "NP",
+        "text": "calificó"
+      },
+      {
+        "label": "NP",
+        "text": "crueldad ” los bombardeos"
+      },
+      {
+        "label": "PP",
+        "text": "de Israel en"
+      },
+      {
+        "label": "NP",
+        "text": "Israel en"
+      },
+      {
+        "label": "NP",
+        "text": "Franja"
+      },
+      {
+        "label": "NP",
+        "text": "Gaza"
+      },
+      {
+        "label": "NP",
+        "text": "que han resultado"
+      },
+      {
+        "label": "NP",
+        "text": "miles"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP En/NNP su/NN discurso/NN)\n  (ADJP anual/JJ)\n  de/FW\n  (NP Navidad/NNP)\n  ante/CC\n  (NP los/JJ cardenales/NNS católicos/NNS)\n  ,/,\n  (VP el/VBP (NP sumo/JJ pontífice/NN))\n  ,/,\n  (NP papa/NN Francisco/NNP)\n  ,/,\n  (NP calificó/NN)\n  de/FW\n  “/FW\n  (NP crueldad/NN ”/NNP los/NN bombardeos/NN)\n  (PP de/IN (NP Israel/NNP en/NNP))\n  la/FW\n  (NP Franja/NNP)\n  de/FW\n  (NP Gaza/NNP)\n  ,/,\n  (NP que/NN han/NN resultado/NN)\n  en/IN\n  la/FW\n  muerte/FW\n  de/FW\n  (NP miles/NNS)\n  de/FW\n  niños/FW\n  (NP palestinos/NNS)\n  ./.)",
+      "(S\n  (NP “/JJ Ayer/NNP al/NN patriarca/NN)\n  (NP no/DT lo/NN)\n  (VP dejaron/VBZ)\n  (VP entrar/VBZ (NP a/DT Gaza/NNP como/NN habían/NN prometido/NN))\n  ./.)",
+      "(S (NP Y/NNP ayer/NN fueron/NN bombardeados/NN niños/NN) ./.)",
+      "(S\n  (NP Esto/NNP es/NN crueldad/NN)\n  ,/,\n  (VP esto/VBZ (NP no/DT es/JJ guerra/NN))\n  ./.)",
+      "(S\n  (NP Quiero/NNP decirlo/NN porque/NN toca/NN el/NN corazón/NN ”/NNP)\n  ,/,\n  (NP afirmó/NN el/NN pontífice/NN argentino/NN)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "GRUPOS_ESPECIFICOS",
+      "TIEMPO_RELATIVO",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "ACCIONES_LEGALES",
+      "CRISIS_HUMANITARIA_SERVICIOS",
+      "PAISES",
+      "CONFLICTOS_ARMADOS_OPERACIONES",
+      "FECHAS_ESPECIFICAS"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "ataque aéreo",
+        "position": [
+          681,
+          693
+        ],
+        "start": 681,
+        "end": 693
+      },
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "guerra genocida contra gaza",
+        "position": [
+          1674,
+          1701
+        ],
+        "start": 1674,
+        "end": 1701
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "afirmó",
+        "position": [
+          410,
+          416
+        ],
+        "start": 410,
+        "end": 416
+      },
+      {
+        "category": "CRISIS_HUMANITARIA_SERVICIOS",
+        "matched_text": "genocidio en gaza",
+        "position": [
+          1266,
+          1283
+        ],
+        "start": 1266,
+        "end": 1283
+      },
+      {
+        "category": "GRUPOS_ESPECIFICOS",
+        "matched_text": "mujeres",
+        "position": [
+          1812,
+          1819
+        ],
+        "start": 1812,
+        "end": 1819
+      },
+      {
+        "category": "ACCIONES_LEGALES",
+        "matched_text": "denunció",
+        "position": [
+          669,
+          677
+        ],
+        "start": 669,
+        "end": 677
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "israelí",
+        "position": [
+          694,
+          701
+        ],
+        "start": 694,
+        "end": 701
+      },
+      {
+        "category": "FECHAS_ESPECIFICAS",
+        "matched_text": "7 de octubre de 2023",
+        "position": [
+          1705,
+          1725
+        ],
+        "start": 1705,
+        "end": 1725
+      },
+      {
+        "category": "TIEMPO_RELATIVO",
+        "matched_text": "ayer",
+        "position": [
+          230,
+          234
+        ],
+        "start": 230,
+        "end": 234
+      },
+      {
+        "category": "TIEMPO_RELATIVO",
+        "matched_text": "recientemente",
+        "position": [
+          1202,
+          1215
+        ],
+        "start": 1202,
+        "end": 1215
+      }
+    ],
+    "match_count": 10
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Franja de Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Yabalia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Tierra Santa",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Doroteo",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Israel",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "papa Francisco",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Iglesia",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Ejército sionista",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Ministerio de Salud",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Pierbattista Pizzaballa",
+        "tipo": "Persona"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "papa Francisco",
+        "relacion": "CALIFICAR",
+        "objeto": "Israel"
+      },
+      {
+        "sujeto": "papa Francisco",
+        "relacion": "CALIFICAR",
+        "objeto": "Franja de Gaza"
+      },
+      {
+        "sujeto": "Ejército sionista",
+        "relacion": "HACER",
+        "objeto": "Gaza"
+      },
+      {
+        "sujeto": "Ejército sionista",
+        "relacion": "HACER",
+        "objeto": "Pierbattista Pizzaballa"
+      },
+      {
+        "sujeto": "Ejército sionista",
+        "relacion": "HACER",
+        "objeto": "Iglesia"
+      },
+      {
+        "sujeto": "Ejército sionista",
+        "relacion": "HACER",
+        "objeto": "Tierra Santa"
+      },
+      {
+        "sujeto": "papa Francisco",
+        "relacion": "DENUNCIAR",
+        "objeto": "Yabalia"
+      },
+      {
+        "sujeto": "papa Francisco",
+        "relacion": "DENUNCIAR",
+        "objeto": "Franja de Gaza"
+      },
+      {
+        "sujeto": "Doroteo",
+        "relacion": "EDIFICAR_RECORDAR",
+        "objeto": "Iglesia"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "DESATAR",
+        "objeto": "Gaza"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.1027,
+    "pos": 0.016,
+    "neu": 0.969,
+    "neg": 0.015,
+    "label": "positive"
+  }
+}

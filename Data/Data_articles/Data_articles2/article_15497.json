@@ -1,0 +1,780 @@
+{
+  "url": "https://www.telesurtv.net/las-ventas-en-supermercados-en-argentina-caen-mas-de-un-17-en-abril/",
+  "title": "Las ventas en supermercados en Argentina caen más de un 17 % en abril - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "Argentina",
+    "supermercados"
+  ],
+  "text": "El Instituto Nacional de Estadística y Censos (Indec) de Argentina informó este miércoles que las ventas en los supermercados cayeron un 17,6 por ciento en abril pasado en comparación con el mismo mes del año anterior.\nLos datos confirman la situación de recesión en el país suramericano debido a las medidas económicas de ajuste implementadas por el Gobierno del presidente Javier Milei, las cuales tienen un impacto en el consumo y la producción.\nA pesar de que la inflación disminuyó en mayo por quinto mes consecutivo, sigue siendo elevada (276,4 por ciento), mientras que las tarifas de servicios públicos se han disparado debido a la quita de subsidios y los ingresos de trabajadores y jubilados no han sido actualizados a la par, lo que ha provocado una disminución del poder adquisitivo.\nLa Unión Industrial Argentina (UIA) indicó en su informe más reciente que la actividad industrial en el país cayó un 14,2 por ciento en abril en comparación con el mismo mes de 2023, y se produjeron 15.000 despidos en el sector.\nNo obstante, según una investigación realizada por una empresa de consultoría privada, en abril se registró una disminución del 4,5 por ciento en el consumo de bienes y servicios por parte de los hogares en comparación con el año anterior.\nLas políticas implementadas por Milei y Caputo, en línea con las directrices del FMI, reducen la economía y provocan una caída en el consumo debido a la disminución del poder de compra del salario. Con el aumento de la pobreza e indigencia, también se incrementan las suspensiones y despidos debido a la disminución de la actividad económica, junto con la desregulación que permite a los empresarios flexibilizar los contratos laborales.\nSegún un informe chequeado de los primeros seis meses del gobierno de Milei, la jubilación mínima disminuyó un 17,5 por ciento anual, el salario mínimo disminuyó un 29 por ciento; y el salario de los ocupados registrados disminuyó un 25 por ciento anual. En el mismo reporte se destaca la disminución del 17,6 por ciento en el consumo de leche por parte de los hogares.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/las-ventas-en-supermercados-en-argentina-caen-mas-de-un-17-en-abril/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-06.json",
+    "message_index": 371,
+    "message_id": 72372,
+    "date": "2024-06-20T09:55:13+00:00",
+    "text": "teleSUR\nLas ventas en supermercados en Argentina caen más de un 17 % en abril\nhttps://www.telesurtv.net/las-ventas-en-supermercados-en-argentina-caen-mas-de-un-17-en-abril/",
+    "photo_path": null,
+    "views": 1733,
+    "reactions": {},
+    "total_reactions": 0
+  },
+  "preprocessing": {
+    "cleaned": "el instituto nacional de estadística y censos (indec) de argentina informó este miércoles que las ventas en los supermercados cayeron un 17,6 por ciento en abril pasado en comparación con el mismo mes del año anterior. los datos confirman la situación de recesión en el país suramericano debido a las medidas económicas de ajuste implementadas por el gobierno del presidente javier milei, las cuales tienen un impacto en el consumo y la producción. a pesar de que la inflación disminuyó en mayo por quinto mes consecutivo, sigue siendo elevada (276,4 por ciento), mientras que las tarifas de servicios públicos se han disparado debido a la quita de subsidios y los ingresos de trabajadores y jubilados no han sido actualizados a la par, lo que ha provocado una disminución del poder adquisitivo. la unión industrial argentina (uia) indicó en su informe más reciente que la actividad industrial en el país cayó un 14,2 por ciento en abril en comparación con el mismo mes de 2023, y se produjeron 15.000 despidos en el sector. no obstante, según una investigación realizada por una empresa de consultoría privada, en abril se registró una disminución del 4,5 por ciento en el consumo de bienes y servicios por parte de los hogares en comparación con el año anterior. las políticas implementadas por milei y caputo, en línea con las directrices del fmi, reducen la economía y provocan una caída en el consumo debido a la disminución del poder de compra del salario. con el aumento de la pobreza e indigencia, también se incrementan las suspensiones y despidos debido a la disminución de la actividad económica, junto con la desregulación que permite a los empresarios flexibilizar los contratos laborales. según un informe chequeado de los primeros seis meses del gobierno de milei, la jubilación mínima disminuyó un 17,5 por ciento anual, el salario mínimo disminuyó un 29 por ciento; y el salario de los ocupados registrados disminuyó un 25 por ciento anual. en el mismo reporte se destaca la disminución del 17,6 por ciento en el consumo de leche por parte de los hogares.",
+    "tokens": [
+      "instituto",
+      "nacional",
+      "estadística",
+      "censos",
+      "(",
+      "indec",
+      ")",
+      "argentina",
+      "informó",
+      "miércoles",
+      "ventas",
+      "supermercados",
+      "cayeron",
+      "17,6",
+      "ciento",
+      "abril",
+      "pasado",
+      "comparación",
+      "mismo",
+      "mes",
+      "año",
+      "anterior",
+      ".",
+      "datos",
+      "confirman",
+      "situación",
+      "recesión",
+      "país",
+      "suramericano",
+      "debido",
+      "medidas",
+      "económicas",
+      "ajuste",
+      "implementadas",
+      "gobierno",
+      "presidente",
+      "javier",
+      "milei",
+      ",",
+      "cuales",
+      "impacto",
+      "consumo",
+      "producción",
+      ".",
+      "pesar",
+      "inflación",
+      "disminuyó",
+      "mayo",
+      "quinto",
+      "mes",
+      "consecutivo",
+      ",",
+      "sigue",
+      "siendo",
+      "elevada",
+      "(",
+      "276,4",
+      "ciento",
+      ")",
+      ",",
+      "mientras",
+      "tarifas",
+      "servicios",
+      "públicos",
+      "disparado",
+      "debido",
+      "quita",
+      "subsidios",
+      "ingresos",
+      "trabajadores",
+      "jubilados",
+      "sido",
+      "actualizados",
+      "par",
+      ",",
+      "provocado",
+      "disminución",
+      "poder",
+      "adquisitivo",
+      ".",
+      "unión",
+      "industrial",
+      "argentina",
+      "(",
+      "uia",
+      ")",
+      "indicó",
+      "informe",
+      "reciente",
+      "actividad",
+      "industrial",
+      "país",
+      "cayó",
+      "14,2",
+      "ciento",
+      "abril",
+      "comparación",
+      "mismo",
+      "mes",
+      "2023",
+      ",",
+      "produjeron",
+      "15.000",
+      "despidos",
+      "sector",
+      ".",
+      "obstante",
+      ",",
+      "según",
+      "investigación",
+      "realizada",
+      "empresa",
+      "consultoría",
+      "privada",
+      ",",
+      "abril",
+      "registró",
+      "disminución",
+      "4,5",
+      "ciento",
+      "consumo",
+      "bienes",
+      "servicios",
+      "parte",
+      "hogares",
+      "comparación",
+      "año",
+      "anterior",
+      ".",
+      "políticas",
+      "implementadas",
+      "milei",
+      "caputo",
+      ",",
+      "línea",
+      "directrices",
+      "fmi",
+      ",",
+      "reducen",
+      "economía",
+      "provocan",
+      "caída",
+      "consumo",
+      "debido",
+      "disminución",
+      "poder",
+      "compra",
+      "salario",
+      ".",
+      "aumento",
+      "pobreza",
+      "indigencia",
+      ",",
+      "incrementan",
+      "suspensiones",
+      "despidos",
+      "debido",
+      "disminución",
+      "actividad",
+      "económica",
+      ",",
+      "junto",
+      "desregulación",
+      "permite",
+      "empresarios",
+      "flexibilizar",
+      "contratos",
+      "laborales",
+      ".",
+      "según",
+      "informe",
+      "chequeado",
+      "primeros",
+      "seis",
+      "meses",
+      "gobierno",
+      "milei",
+      ",",
+      "jubilación",
+      "mínima",
+      "disminuyó",
+      "17,5",
+      "ciento",
+      "anual",
+      ",",
+      "salario",
+      "mínimo",
+      "disminuyó",
+      "29",
+      "ciento",
+      ";",
+      "salario",
+      "ocupados",
+      "registrados",
+      "disminuyó",
+      "25",
+      "ciento",
+      "anual",
+      ".",
+      "mismo",
+      "reporte",
+      "destaca",
+      "disminución",
+      "17,6",
+      "ciento",
+      "consumo",
+      "leche",
+      "parte",
+      "hogares",
+      "."
+    ],
+    "token_count": 210,
+    "sentence_count": 9
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 26,
+      "FW": 94,
+      "IN": 14,
+      "JJ": 34,
+      "NN": 113,
+      "NNS": 17,
+      "VBP": 14,
+      "CD": 10,
+      "VBD": 3,
+      "VB": 1,
+      "DT": 1,
+      "VBZ": 2
+    },
+    "bigram_freq": {
+      "NNP-NNP": 11,
+      "NNP-FW": 4,
+      "FW-NNP": 2,
+      "NNP-IN": 1,
+      "IN-NNP": 1,
+      "NNP-JJ": 2,
+      "JJ-NN": 19,
+      "NN-NNS": 8,
+      "NNS-VBP": 13,
+      "VBP-JJ": 8,
+      "JJ-NNS": 1,
+      "NNS-IN": 2,
+      "IN-JJ": 3,
+      "JJ-JJ": 3,
+      "NN-JJ": 10,
+      "JJ-CD": 5,
+      "CD-NN": 10,
+      "NN-NN": 58,
+      "NN-IN": 10,
+      "JJ-NNP": 4,
+      "NNP-NN": 6,
+      "NN-FW": 16,
+      "FW-FW": 64,
+      "FW-NN": 16,
+      "VBP-FW": 1,
+      "FW-NNS": 6,
+      "NN-NNP": 5,
+      "NNP-VBD": 2,
+      "VBD-NNS": 1,
+      "NNS-VB": 1,
+      "VB-JJ": 1,
+      "IN-FW": 7,
+      "NN-VBD": 1,
+      "VBD-CD": 1,
+      "VBP-IN": 1,
+      "IN-NNS": 1,
+      "VBP-DT": 1,
+      "DT-NN": 1,
+      "NN-VBZ": 2,
+      "VBZ-JJ": 1,
+      "NN-VBP": 1,
+      "JJ-FW": 2,
+      "IN-NN": 1,
+      "IN-CD": 1,
+      "NN-CD": 2,
+      "VBD-JJ": 1,
+      "FW-JJ": 5,
+      "VBP-NN": 2,
+      "VBP-NNP": 1,
+      "VBZ-NNP": 1,
+      "FW-CD": 1
+    },
+    "trigram_freq": {
+      "NNP-NNP-NNP": 5,
+      "NNP-NNP-FW": 2,
+      "NNP-FW-NNP": 1,
+      "FW-NNP-NNP": 1,
+      "NNP-NNP-IN": 1,
+      "NNP-IN-NNP": 1,
+      "IN-NNP-JJ": 1,
+      "NNP-JJ-NN": 2,
+      "JJ-NN-NNS": 3,
+      "NN-NNS-VBP": 7,
+      "NNS-VBP-JJ": 7,
+      "VBP-JJ-NNS": 1,
+      "JJ-NNS-IN": 1,
+      "NNS-IN-JJ": 1,
+      "IN-JJ-JJ": 1,
+      "JJ-JJ-NN": 2,
+      "JJ-NN-JJ": 1,
+      "NN-JJ-CD": 5,
+      "JJ-CD-NN": 5,
+      "CD-NN-NN": 9,
+      "NN-NN-IN": 5,
+      "NN-IN-JJ": 2,
+      "IN-JJ-NN": 2,
+      "JJ-NN-IN": 4,
+      "JJ-NN-NN": 10,
+      "NN-NN-NN": 26,
+      "NN-NN-NNS": 4,
+      "VBP-JJ-JJ": 1,
+      "JJ-JJ-NNP": 1,
+      "JJ-NNP-NN": 3,
+      "NNP-NN-NN": 5,
+      "NN-NN-FW": 8,
+      "NN-FW-FW": 9,
+      "FW-FW-FW": 50,
+      "FW-FW-NN": 6,
+      "FW-NN-NN": 8,
+      "NNS-VBP-FW": 1,
+      "VBP-FW-FW": 1,
+      "FW-FW-NNS": 5,
+      "FW-NNS-VBP": 5,
+      "VBP-JJ-NNP": 1,
+      "JJ-NNP-FW": 1,
+      "NNP-FW-NN": 3,
+      "FW-NN-NNP": 2,
+      "NN-NNP-NNP": 4,
+      "NNP-NNP-VBD": 2,
+      "NNP-VBD-NNS": 1,
+      "VBD-NNS-VB": 1,
+      "NNS-VB-JJ": 1,
+      "VB-JJ-NN": 1,
+      "NN-IN-FW": 7,
+      "IN-FW-NN": 2,
+      "FW-NN-FW": 4,
+      "VBP-JJ-NN": 3,
+      "JJ-NN-VBD": 1,
+      "NN-VBD-CD": 1,
+      "VBD-CD-NN": 1,
+      "NN-FW-NN": 5,
+      "FW-NN-NNS": 1,
+      "NNS-VBP-IN": 1,
+      "VBP-IN-NNS": 1,
+      "IN-NNS-VBP": 1,
+      "NNS-VBP-DT": 1,
+      "VBP-DT-NN": 1,
+      "DT-NN-VBZ": 1,
+      "NN-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 1,
+      "NN-NN-JJ": 8,
+      "NN-JJ-NN": 3,
+      "NN-NN-NNP": 3,
+      "NNP-NNP-NN": 1,
+      "NNP-NN-FW": 1,
+      "NN-NN-VBP": 1,
+      "NN-VBP-JJ": 1,
+      "VBP-JJ-FW": 2,
+      "JJ-FW-FW": 2,
+      "FW-NN-JJ": 1,
+      "NN-IN-NN": 1,
+      "IN-NN-FW": 1,
+      "NN-NNS-IN": 1,
+      "NNS-IN-CD": 1,
+      "IN-CD-NN": 1,
+      "NN-NN-CD": 2,
+      "NN-CD-NN": 2,
+      "CD-NN-FW": 1,
+      "NNP-VBD-JJ": 1,
+      "VBD-JJ-NN": 1,
+      "IN-FW-FW": 2,
+      "FW-FW-JJ": 2,
+      "FW-JJ-NN": 4,
+      "NNS-VBP-NN": 2,
+      "VBP-NN-IN": 1,
+      "IN-FW-NNS": 1,
+      "NN-JJ-NNP": 2,
+      "NNS-VBP-NNP": 1,
+      "VBP-NNP-NN": 1,
+      "NN-FW-JJ": 1,
+      "FW-JJ-JJ": 1,
+      "NN-NNP-NN": 1,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-NNP": 1,
+      "VBZ-NNP-JJ": 1,
+      "IN-FW-JJ": 2,
+      "VBP-NN-FW": 1,
+      "NN-FW-NNP": 1,
+      "FW-NNP-FW": 1,
+      "FW-FW-CD": 1,
+      "FW-CD-NN": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 113,
+        "FW": 94,
+        "JJ": 34,
+        "NNP": 26,
+        "NNS": 17
+      },
+      "top_bigrams": {
+        "FW-FW": 64,
+        "NN-NN": 58,
+        "JJ-NN": 19,
+        "NN-FW": 16,
+        "FW-NN": 16
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 50,
+        "NN-NN-NN": 26,
+        "JJ-NN-NN": 10,
+        "CD-NN-NN": 9,
+        "NN-FW-FW": 9
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 9,
+    "chunk_counts": {
+      "NP": 84,
+      "VP": 20,
+      "PP": 5,
+      "ADJP": 7
+    },
+    "top_rules": [
+      {
+        "rule": "NP -> ('por', 'NN') ('ciento', 'NN')",
+        "frequency": 7,
+        "weight": 0.056
+      },
+      {
+        "rule": "ADJP -> ('un', 'JJ')",
+        "frequency": 5,
+        "weight": 0.04
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 4,
+        "weight": 0.032
+      },
+      {
+        "rule": "VP -> ('del', 'VBP') NP",
+        "frequency": 3,
+        "weight": 0.024
+      },
+      {
+        "rule": "VP -> ('debido', 'VBZ') NP",
+        "frequency": 3,
+        "weight": 0.024
+      },
+      {
+        "rule": "VP -> ('por', 'VBP') NP",
+        "frequency": 2,
+        "weight": 0.016
+      },
+      {
+        "rule": "NP -> ('a', 'DT') ('la', 'NN')",
+        "frequency": 2,
+        "weight": 0.016
+      },
+      {
+        "rule": "NP -> ('hogares', 'NNS')",
+        "frequency": 2,
+        "weight": 0.016
+      },
+      {
+        "rule": "NP -> ('salario', 'NN')",
+        "frequency": 2,
+        "weight": 0.016
+      },
+      {
+        "rule": "ADJP -> ('anual', 'JJ')",
+        "frequency": 2,
+        "weight": 0.016
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El Instituto Nacional"
+      },
+      {
+        "label": "NP",
+        "text": "Estadística"
+      },
+      {
+        "label": "NP",
+        "text": "Censos"
+      },
+      {
+        "label": "NP",
+        "text": "Indec"
+      },
+      {
+        "label": "NP",
+        "text": "Argentina informó este"
+      },
+      {
+        "label": "VP",
+        "text": "miércoles que las ventas"
+      },
+      {
+        "label": "NP",
+        "text": "que las ventas"
+      },
+      {
+        "label": "PP",
+        "text": "en los supermercados cayeron"
+      },
+      {
+        "label": "NP",
+        "text": "los supermercados cayeron"
+      },
+      {
+        "label": "ADJP",
+        "text": "un"
+      },
+      {
+        "label": "NP",
+        "text": "por ciento"
+      },
+      {
+        "label": "PP",
+        "text": "en abril pasado"
+      },
+      {
+        "label": "NP",
+        "text": "abril pasado"
+      },
+      {
+        "label": "PP",
+        "text": "en comparación con el mismo mes"
+      },
+      {
+        "label": "NP",
+        "text": "comparación con el mismo mes"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP El/NNP Instituto/NNP Nacional/NNP)\n  de/FW\n  (NP Estadística/NNP)\n  y/CC\n  (NP Censos/NNP)\n  (/(\n  (NP Indec/NNP)\n  )/)\n  de/FW\n  (NP Argentina/NNP informó/NN este/NN)\n  (VP miércoles/VBZ (NP que/JJ las/NNS ventas/NNS))\n  (PP en/IN (NP los/JJ supermercados/JJ cayeron/NN))\n  (ADJP un/JJ)\n  17,6/CD\n  (NP por/NN ciento/NN)\n  (PP en/IN (NP abril/JJ pasado/NN))\n  (PP en/IN (NP comparación/JJ con/NN el/NN mismo/NN mes/NNS))\n  (VP del/VBP (NP año/JJ anterior/NN))\n  ./.)",
+      "(S\n  (NP Los/NNP datos/NN confirman/NN)\n  la/FW\n  situación/FW\n  de/FW\n  recesión/FW\n  en/FW\n  el/FW\n  país/FW\n  (NP suramericano/NN)\n  (VP debido/VBZ (NP a/DT las/JJ medidas/NN económicas/NN))\n  (PP de/IN (NP ajuste/NN implementadas/NNS))\n  (VP por/VBP (NP el/JJ Gobierno/NNP))\n  del/FW\n  (NP presidente/NN Javier/NNP Milei/NNP)\n  ,/,\n  (NP las/JJ cuales/NNS)\n  (VP tienen/VBP (NP un/JJ impacto/NN))\n  en/IN\n  el/FW\n  (NP consumo/NN y/NN la/NN producción/NN)\n  ./.)",
+      "(S\n  (NP A/DT pesar/NN)\n  de/FW\n  que/FW\n  la/FW\n  inflación/FW\n  (NP disminuyó/NN)\n  en/FW\n  mayo/FW\n  por/FW\n  quinto/FW\n  (NP mes/NNS)\n  (VP consecutivo/VBP)\n  ,/,\n  (NP sigue/JJ siendo/NN elevada/NN)\n  (/(\n  276,4/CD\n  por/RB\n  (NP ciento/NN)\n  )/)\n  ,/,\n  mientras/FW\n  que/FW\n  las/FW\n  tarifas/FW\n  de/FW\n  servicios/FW\n  públicos/FW\n  se/FW\n  (NP han/NN disparado/NN)\n  (VP debido/VBZ (NP a/DT la/NN))\n  quita/FW\n  de/FW\n  subsidios/FW\n  y/FW\n  los/FW\n  ingresos/FW\n  de/FW\n  (NP trabajadores/NNS)\n  (VP y/VBP jubilados/JJ (NP no/DT han/NN))\n  (VP sido/VBZ)\n  actualizados/RP\n  (NP a/DT la/NN par/NN)\n  ,/,\n  (NP lo/JJ que/NN ha/NN provocado/NN)\n  (NP una/JJ disminución/NN del/NN poder/NN adquisitivo/NN)\n  ./.)",
+      "(S\n  (NP La/NNP Unión/NNP Industrial/NNP Argentina/NNP)\n  (/(\n  (NP UIA/NNP)\n  )/)\n  (NP indicó/NN)\n  en/FW\n  (NP su/NN informe/NN más/NN reciente/NN que/NN la/NN)\n  (VP actividad/VBP industrial/JJ)\n  en/FW\n  el/FW\n  país/FW\n  (NP cayó/NN)\n  (ADJP un/JJ)\n  14,2/CD\n  (NP por/NN ciento/NN)\n  (PP en/IN (NP abril/NN))\n  en/FW\n  (NP comparación/NN con/NN el/NN mismo/NN mes/NNS)\n  de/IN\n  2023/CD\n  ,/,\n  y/FW\n  se/FW\n  produjeron/FW\n  15.000/CD\n  (NP despidos/NNS)\n  (NP en/JJ el/NN sector/NN)\n  ./.)",
+      "(S\n  (NP No/DT obstante/NN)\n  ,/,\n  (NP según/JJ una/JJ investigación/NN realizada/NN por/NN)\n  (NP una/JJ empresa/NN)\n  de/IN\n  consultoría/FW\n  (NP privada/NN)\n  ,/,\n  en/FW\n  abril/FW\n  se/FW\n  registró/FW\n  (NP una/JJ disminución/NN del/NN)\n  4,5/CD\n  (NP por/NN ciento/NN)\n  en/FW\n  el/FW\n  consumo/FW\n  de/FW\n  bienes/FW\n  y/FW\n  (NP servicios/NNS)\n  (VP por/VBP (NP parte/NN))\n  de/IN\n  los/FW\n  (NP hogares/NNS)\n  (VP en/VBP (NP comparación/JJ con/NN el/NN año/NN anterior/NN))\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "FECHAS_HORAS",
+      "GOBIERNOS_OFICIALES",
+      "GRUPOS_ESPECIFICOS",
+      "TIEMPO_RELATIVO",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "INSTITUCIONES_EDUCATIVAS",
+      "PAISES",
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "NEOLIBERALISMO_MERCADO"
+    ],
+    "matches": [
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "inflación disminuyó en mayo por quinto mes consecutivo, sigue siendo elevada (276",
+        "position": [
+          467,
+          548
+        ],
+        "start": 467,
+        "end": 548
+      },
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "fmi",
+        "position": [
+          1346,
+          1349
+        ],
+        "start": 1346,
+        "end": 1349
+      },
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "inflación",
+        "position": [
+          467,
+          476
+        ],
+        "start": 467,
+        "end": 476
+      },
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "salario",
+        "position": [
+          1454,
+          1461
+        ],
+        "start": 1454,
+        "end": 1461
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "informó",
+        "position": [
+          67,
+          74
+        ],
+        "start": 67,
+        "end": 74
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "gobierno del presidente javier",
+        "position": [
+          351,
+          381
+        ],
+        "start": 351,
+        "end": 381
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente javier milei",
+        "position": [
+          364,
+          387
+        ],
+        "start": 364,
+        "end": 387
+      },
+      {
+        "category": "GRUPOS_ESPECIFICOS",
+        "matched_text": "empresarios",
+        "position": [
+          1653,
+          1664
+        ],
+        "start": 1653,
+        "end": 1664
+      },
+      {
+        "category": "INSTITUCIONES_EDUCATIVAS",
+        "matched_text": "instituto nacional de",
+        "position": [
+          3,
+          24
+        ],
+        "start": 3,
+        "end": 24
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "argentina",
+        "position": [
+          57,
+          66
+        ],
+        "start": 57,
+        "end": 66
+      },
+      {
+        "category": "TIEMPO_RELATIVO",
+        "matched_text": "el año anterior",
+        "position": [
+          1248,
+          1263
+        ],
+        "start": 1248,
+        "end": 1263
+      },
+      {
+        "category": "NEOLIBERALISMO_MERCADO",
+        "matched_text": "desregulación",
+        "position": [
+          1621,
+          1634
+        ],
+        "start": 1621,
+        "end": 1634
+      },
+      {
+        "category": "FECHAS_HORAS",
+        "matched_text": "año anterior",
+        "position": [
+          205,
+          217
+        ],
+        "start": 205,
+        "end": 217
+      }
+    ],
+    "match_count": 13
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "La Unión Industrial Argentina",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Argentina",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "UIA",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Caputo",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Gobierno del presidente",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "FMI",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Milei",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Javier Milei",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Indec",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Instituto Nacional de Estadística y Censos",
+        "tipo": "Organizacion"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Milei",
+        "relacion": "REDUCIR",
+        "objeto": "FMI"
+      },
+      {
+        "sujeto": "Caputo",
+        "relacion": "REDUCIR",
+        "objeto": "FMI"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.25,
+    "pos": 0.007,
+    "neu": 0.98,
+    "neg": 0.013,
+    "label": "negative"
+  }
+}

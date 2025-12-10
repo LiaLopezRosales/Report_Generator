@@ -1,0 +1,474 @@
+{
+  "url": "https://www.telesurtv.net/reportan-sismo-de-magnitud-5-2-en-el-este-de-venezuela/",
+  "title": "Reportan sismo de magnitud 5.2 en el este de Venezuela  - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "Estado Sucre",
+    "Sismo",
+    "Temblor",
+    "Trinidad y Tobago"
+  ],
+  "text": "Un sismo de magnitud 5.2 sacudió este domingo varios estados del este venezolano y a varias islas caribeñas cercanas al país suramericano.\n\nEl movimiento telúrico se sintió en varias zonas de la capital venezolana y en los estados Bolívar, Sucre, Nueva Esparta, Anzoátegui, entre otros.\nPor su parte, medios de Trinidad y Tobago indicaron que el sismo se sintió con mayor intensidad y fuerzas afectó varias zonas de la isla.\nMuchas partes del norte y noroeste de Trinidad han visto interrumpido el suministro de electricidad, posiblemente a causa del sismo.\nA través de redes sociales, algunas personas en las islas de Granada y San Vicente y las Granadinas y en el país de Guyana también dijeron que sintieron el sismo reportado en el oriente venezolano.\nHasta el momento, no se han reportado heridos ni daños debido al temblor.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/reportan-sismo-de-magnitud-5-2-en-el-este-de-venezuela/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-06.json",
+    "message_index": 289,
+    "message_id": 72454,
+    "date": "2024-06-23T05:55:07+00:00",
+    "text": "teleSUR\nReportan sismo de magnitud 5.2 en el este de Venezuela\nhttps://www.telesurtv.net/reportan-sismo-de-magnitud-5-2-en-el-este-de-venezuela/",
+    "photo_path": null,
+    "views": 1495,
+    "reactions": {},
+    "total_reactions": 0
+  },
+  "preprocessing": {
+    "cleaned": "un sismo de magnitud 5.2 sacudió este domingo varios estados del este venezolano y a varias islas caribeñas cercanas al país suramericano. el movimiento telúrico se sintió en varias zonas de la capital venezolana y en los estados bolívar, sucre, nueva esparta, anzoátegui, entre otros. por su parte, medios de trinidad y tobago indicaron que el sismo se sintió con mayor intensidad y fuerzas afectó varias zonas de la isla. muchas partes del norte y noroeste de trinidad han visto interrumpido el suministro de electricidad, posiblemente a causa del sismo. a través de redes sociales, algunas personas en las islas de granada y san vicente y las granadinas y en el país de guyana también dijeron que sintieron el sismo reportado en el oriente venezolano. hasta el momento, no se han reportado heridos ni daños debido al temblor.",
+    "tokens": [
+      "sismo",
+      "magnitud",
+      "5.2",
+      "sacudió",
+      "domingo",
+      "varios",
+      "venezolano",
+      "varias",
+      "islas",
+      "caribeñas",
+      "cercanas",
+      "país",
+      "suramericano",
+      ".",
+      "movimiento",
+      "telúrico",
+      "sintió",
+      "varias",
+      "zonas",
+      "capital",
+      "venezolana",
+      "bolívar",
+      ",",
+      "sucre",
+      ",",
+      "nueva",
+      "esparta",
+      ",",
+      "anzoátegui",
+      ",",
+      ".",
+      "parte",
+      ",",
+      "medios",
+      "trinidad",
+      "tobago",
+      "indicaron",
+      "sismo",
+      "sintió",
+      "mayor",
+      "intensidad",
+      "fuerzas",
+      "afectó",
+      "varias",
+      "zonas",
+      "isla",
+      ".",
+      "muchas",
+      "partes",
+      "norte",
+      "noroeste",
+      "trinidad",
+      "visto",
+      "interrumpido",
+      "suministro",
+      "electricidad",
+      ",",
+      "posiblemente",
+      "causa",
+      "sismo",
+      ".",
+      "través",
+      "redes",
+      "sociales",
+      ",",
+      "personas",
+      "islas",
+      "granada",
+      "san",
+      "vicente",
+      "granadinas",
+      "país",
+      "guyana",
+      "dijeron",
+      "sintieron",
+      "sismo",
+      "reportado",
+      "oriente",
+      "venezolano",
+      ".",
+      "momento",
+      ",",
+      "reportado",
+      "heridos",
+      "daños",
+      "debido",
+      "temblor",
+      "."
+    ],
+    "token_count": 88,
+    "sentence_count": 6
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 18,
+      "NN": 47,
+      "IN": 5,
+      "FW": 37,
+      "CD": 1,
+      "NNS": 4,
+      "VBP": 4,
+      "JJ": 8,
+      "VBZ": 2,
+      "DT": 1
+    },
+    "bigram_freq": {
+      "NNP-NN": 7,
+      "NN-IN": 5,
+      "IN-FW": 3,
+      "FW-CD": 1,
+      "CD-NN": 1,
+      "NN-NN": 32,
+      "NN-NNS": 1,
+      "NNS-VBP": 4,
+      "VBP-JJ": 3,
+      "JJ-NN": 5,
+      "NN-FW": 4,
+      "FW-NNS": 2,
+      "VBP-NNS": 1,
+      "NN-NNP": 2,
+      "FW-FW": 25,
+      "FW-NN": 1,
+      "IN-JJ": 1,
+      "JJ-JJ": 1,
+      "JJ-NNP": 1,
+      "NNP-NNP": 7,
+      "NNP-FW": 3,
+      "FW-NNP": 6,
+      "NNP-VBZ": 1,
+      "VBZ-FW": 1,
+      "FW-JJ": 2,
+      "IN-NNP": 1,
+      "JJ-FW": 1,
+      "NN-DT": 1,
+      "DT-NN": 1,
+      "NN-VBZ": 1,
+      "VBZ-JJ": 1
+    },
+    "trigram_freq": {
+      "NNP-NN-IN": 1,
+      "NN-IN-FW": 3,
+      "IN-FW-CD": 1,
+      "FW-CD-NN": 1,
+      "CD-NN-NN": 1,
+      "NN-NN-NN": 22,
+      "NN-NN-NNS": 1,
+      "NN-NNS-VBP": 1,
+      "NNS-VBP-JJ": 3,
+      "VBP-JJ-NN": 2,
+      "JJ-NN-NN": 2,
+      "NN-NN-FW": 4,
+      "NN-FW-NNS": 1,
+      "FW-NNS-VBP": 2,
+      "NNS-VBP-NNS": 1,
+      "VBP-NNS-VBP": 1,
+      "JJ-NN-NNP": 2,
+      "NN-NNP-NN": 2,
+      "NNP-NN-NN": 6,
+      "NN-NN-IN": 3,
+      "IN-FW-FW": 1,
+      "FW-FW-FW": 18,
+      "FW-FW-NN": 1,
+      "FW-NN-NN": 1,
+      "NN-IN-JJ": 1,
+      "IN-JJ-JJ": 1,
+      "JJ-JJ-NNP": 1,
+      "JJ-NNP-NNP": 1,
+      "NNP-NNP-NNP": 4,
+      "NNP-NNP-FW": 2,
+      "NNP-FW-FW": 2,
+      "FW-FW-NNP": 5,
+      "FW-NNP-NN": 2,
+      "NN-FW-FW": 3,
+      "FW-NNP-NNP": 2,
+      "NNP-NNP-NN": 1,
+      "FW-NNP-VBZ": 1,
+      "NNP-VBZ-FW": 1,
+      "VBZ-FW-JJ": 1,
+      "FW-JJ-NN": 2,
+      "JJ-NN-IN": 1,
+      "NN-IN-NNP": 1,
+      "IN-NNP-NN": 1,
+      "FW-FW-NNS": 1,
+      "VBP-JJ-FW": 1,
+      "JJ-FW-FW": 1,
+      "NNP-FW-NNP": 1,
+      "FW-NNP-FW": 1,
+      "IN-FW-JJ": 1,
+      "NN-NN-DT": 1,
+      "NN-DT-NN": 1,
+      "DT-NN-VBZ": 1,
+      "NN-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 47,
+        "FW": 37,
+        "NNP": 18,
+        "JJ": 8,
+        "IN": 5
+      },
+      "top_bigrams": {
+        "NN-NN": 32,
+        "FW-FW": 25,
+        "NNP-NN": 7,
+        "NNP-NNP": 7,
+        "FW-NNP": 6
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 22,
+        "FW-FW-FW": 18,
+        "NNP-NN-NN": 6,
+        "FW-FW-NNP": 5,
+        "NN-NN-FW": 4
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 6,
+    "chunk_counts": {
+      "NP": 30,
+      "VP": 7,
+      "PP": 2,
+      "ADJP": 1
+    },
+    "top_rules": [
+      {
+        "rule": "S -> NP ('de', 'IN') ('magnitud', 'FW') ('5.2', 'CD') NP VP VP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0217
+      },
+      {
+        "rule": "NP -> ('Un', 'NNP') ('sismo', 'NN')",
+        "frequency": 1,
+        "weight": 0.0217
+      },
+      {
+        "rule": "NP -> ('sacudió', 'NN') ('este', 'NN') ('domingo', 'NN') ('varios', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0217
+      },
+      {
+        "rule": "VP -> ('estados', 'VBP') NP",
+        "frequency": 1,
+        "weight": 0.0217
+      },
+      {
+        "rule": "NP -> ('del', 'JJ') ('este', 'NN') ('venezolano', 'NN')",
+        "frequency": 1,
+        "weight": 0.0217
+      },
+      {
+        "rule": "VP -> ('y', 'VBZ') NP",
+        "frequency": 1,
+        "weight": 0.0217
+      },
+      {
+        "rule": "NP -> ('a', 'DT') ('varias', 'JJ') ('islas', 'NN') ('caribeñas', 'NN') ('cercanas', 'NN') ('al', 'NN') ('país', 'NN') ('suramericano', 'NN')",
+        "frequency": 1,
+        "weight": 0.0217
+      },
+      {
+        "rule": "S -> NP ('en', 'IN') ('varias', 'FW') ('zonas', 'FW') ('de', 'FW') ('la', 'FW') NP PP (',', ',') NP (',', ',') NP (',', ',') NP (',', ',') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0217
+      },
+      {
+        "rule": "NP -> ('El', 'NNP') ('movimiento', 'NN') ('telúrico', 'NN') ('se', 'NN') ('sintió', 'NN')",
+        "frequency": 1,
+        "weight": 0.0217
+      },
+      {
+        "rule": "NP -> ('capital', 'NN') ('venezolana', 'NN') ('y', 'NN')",
+        "frequency": 1,
+        "weight": 0.0217
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Un sismo"
+      },
+      {
+        "label": "NP",
+        "text": "sacudió este domingo varios"
+      },
+      {
+        "label": "VP",
+        "text": "estados del este venezolano"
+      },
+      {
+        "label": "NP",
+        "text": "del este venezolano"
+      },
+      {
+        "label": "VP",
+        "text": "y a varias islas caribeñas cercanas al país suramericano"
+      },
+      {
+        "label": "NP",
+        "text": "a varias islas caribeñas cercanas al país suramericano"
+      },
+      {
+        "label": "NP",
+        "text": "El movimiento telúrico se sintió"
+      },
+      {
+        "label": "NP",
+        "text": "capital venezolana y"
+      },
+      {
+        "label": "PP",
+        "text": "en los estados Bolívar"
+      },
+      {
+        "label": "NP",
+        "text": "los estados Bolívar"
+      },
+      {
+        "label": "NP",
+        "text": "Sucre"
+      },
+      {
+        "label": "NP",
+        "text": "Nueva Esparta"
+      },
+      {
+        "label": "NP",
+        "text": "Anzoátegui"
+      },
+      {
+        "label": "NP",
+        "text": "entre otros"
+      },
+      {
+        "label": "NP",
+        "text": "Por su parte"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Un/NNP sismo/NN)\n  de/IN\n  magnitud/FW\n  5.2/CD\n  (NP sacudió/NN este/NN domingo/NN varios/NNS)\n  (VP estados/VBP (NP del/JJ este/NN venezolano/NN))\n  (VP\n    y/VBZ\n    (NP\n      a/DT\n      varias/JJ\n      islas/NN\n      caribeñas/NN\n      cercanas/NN\n      al/NN\n      país/NN\n      suramericano/NN))\n  ./.)",
+      "(S\n  (NP El/NNP movimiento/NN telúrico/NN se/NN sintió/NN)\n  en/IN\n  varias/FW\n  zonas/FW\n  de/FW\n  la/FW\n  (NP capital/NN venezolana/NN y/NN)\n  (PP en/IN (NP los/JJ estados/JJ Bolívar/NNP))\n  ,/,\n  (NP Sucre/NNP)\n  ,/,\n  (NP Nueva/NNP Esparta/NNP)\n  ,/,\n  (NP Anzoátegui/NNP)\n  ,/,\n  (NP entre/JJ otros/NN)\n  ./.)",
+      "(S\n  (NP Por/NNP su/NN parte/NN)\n  ,/,\n  medios/FW\n  de/FW\n  (NP Trinidad/NNP)\n  y/CC\n  (NP\n    Tobago/NNP\n    indicaron/NN\n    que/NN\n    el/NN\n    sismo/NN\n    se/NN\n    sintió/NN\n    con/NN\n    mayor/NN\n    intensidad/NN\n    y/NN\n    fuerzas/NN\n    afectó/NN)\n  varias/FW\n  zonas/FW\n  de/FW\n  la/FW\n  (NP isla/NN)\n  ./.)",
+      "(S\n  (NP Muchas/NNP)\n  (VP partes/VBZ)\n  del/FW\n  (ADJP norte/JJ)\n  y/FW\n  (NP noroeste/NN)\n  (PP de/IN (NP Trinidad/NNP han/NN visto/NN interrumpido/NN))\n  el/FW\n  suministro/FW\n  de/FW\n  electricidad/FW\n  ,/,\n  (VP posiblemente/VB (NP a/DT causa/NN del/NN sismo/NN))\n  ./.)",
+      "(S\n  (NP A/DT través/NN)\n  de/FW\n  redes/FW\n  (NP sociales/NNS)\n  ,/,\n  (NP algunas/NNS)\n  (VP personas/VBP)\n  en/IN\n  las/FW\n  islas/FW\n  de/FW\n  (NP Granada/NNP)\n  y/CC\n  (NP San/NNP Vicente/NNP y/NNP)\n  (VP las/VBZ (NP Granadinas/NNP y/NNP))\n  en/FW\n  el/FW\n  país/FW\n  de/FW\n  (NP\n    Guyana/NNP\n    también/NN\n    dijeron/NN\n    que/NN\n    sintieron/NN\n    el/NN\n    sismo/NN\n    reportado/NN)\n  en/IN\n  el/FW\n  (NP oriente/JJ venezolano/NN)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "CIUDADES_CAPITALES",
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "INFRAESTRUCTURA_SERVICIOS",
+      "DESASTRES_ACCIDENTES_EMERGENCIAS"
+    ],
+    "matches": [
+      {
+        "category": "DESASTRES_ACCIDENTES_EMERGENCIAS",
+        "matched_text": "sismo de magnitud 5.2",
+        "position": [
+          3,
+          24
+        ],
+        "start": 3,
+        "end": 24
+      },
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "capital",
+        "position": [
+          195,
+          202
+        ],
+        "start": 195,
+        "end": 202
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "electricidad",
+        "position": [
+          512,
+          524
+        ],
+        "start": 512,
+        "end": 524
+      },
+      {
+        "category": "CIUDADES_CAPITALES",
+        "matched_text": "sucre",
+        "position": [
+          240,
+          245
+        ],
+        "start": 240,
+        "end": 245
+      }
+    ],
+    "match_count": 4
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Trinidad",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "islas de Granada",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Trinidad y Tobago",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "San Vicente y las Granadinas",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Nueva Esparta",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Anzoátegui",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Guyana",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Sucre",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "estados Bolívar",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": []
+  },
+  "sentiment": {
+    "compound": -0.296,
+    "pos": 0.0,
+    "neu": 0.983,
+    "neg": 0.017,
+    "label": "negative"
+  }
+}

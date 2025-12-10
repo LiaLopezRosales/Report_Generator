@@ -1,0 +1,926 @@
+{
+  "url": "https://www.telesurtv.net/egipto-exige-a-la-comunidad-internacional-evitar-guerra-entre-israel-y-el-libano/",
+  "title": "Egipto exige a la comunidad internacional evitar guerra entre Israel y El Líbano - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Comunidad Internacional",
+    "Egipto",
+    "guerra regional",
+    "Líbano"
+  ],
+  "text": "\nEl Ministerio de Exteriores y Migraciones egipcio exigió este domingo la intervención de la comunidad internacional para evitar el conflicto entre Israel y Hezbolá tras el ataque de la víspera que provocó al menos 12 muertos en la ciudad de Majdal Shams, en los Altos del Golán ocupados.\nLa cartera egipcia advirtió sobre los peligros de que se extienda una guerra regional entre el Líbano e Israel, luego de que su Gobierno responsabilizara del ataque al grupo chií.\n“La República Árabe de Egipto advierte de los peligros de abrir un nuevo frente de guerra en el Líbano, en el marco de los recientes acontecimientos en la población de Majdal Shams, en el Golán sirio ocupado, que podría llevar a la región a caer en una guerra regional integral”, aseveró el ente egipcio.\nAsimismo, subrayó necesidad de priorizar el apoyo “al Líbano, su pueblo y sus instituciones, y evitar la guerra”.\n“Egipto renovó su advertencia de los peligros de que Israel continúe su guerra contra la Franja de Gaza, exigiendo la necesidad de alcanzar un alto el fuego inmediato y un fin al sufrimiento humano en la Franja de Gaza lo antes posible”, resaltó el comunicado.\nDurante esta jornada se realiza en Roma, capital de Italia, el encuentro entre los jefes de Inteligencia de Israel, Estados Unidos, Egipto y Qatar para negociar un pacto de tregua en la Franja de Gaza.\nHezbolá negó ser el autor de este ataque y el Gobierno libanés descartó que la formación armada realizara un ataque de forma intencionada contra Majdal Shams.\nPor su parte, Israel aseguró que el lanzamiento se realizó desde una localidad en el área de las disputadas Granjas de Chebaa, en el sur de Líbano y a escasos kilómetros de Majdal Shams, y refirió que “Hizbulá pagará un alto precio”.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/egipto-exige-a-la-comunidad-internacional-evitar-guerra-entre-israel-y-el-libano/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-07.json",
+    "message_index": 111,
+    "message_id": 73726,
+    "date": "2024-07-28T23:55:13+00:00",
+    "text": "teleSUR\nEgipto exige a la comunidad internacional evitar guerra entre Israel y El Líbano\nhttps://www.telesurtv.net/egipto-exige-a-la-comunidad-internacional-evitar-guerra-entre-israel-y-el-libano/",
+    "photo_path": null,
+    "views": 3851,
+    "reactions": {},
+    "total_reactions": 0
+  },
+  "preprocessing": {
+    "cleaned": "el ministerio de exteriores y migraciones egipcio exigió este domingo la intervención de la comunidad internacional para evitar el conflicto entre israel y hezbolá tras el ataque de la víspera que provocó al menos 12 muertos en la ciudad de majdal shams, en los altos del golán ocupados. la cartera egipcia advirtió sobre los peligros de que se extienda una guerra regional entre el líbano e israel, luego de que su gobierno responsabilizara del ataque al grupo chií. “la república árabe de egipto advierte de los peligros de abrir un nuevo frente de guerra en el líbano, en el marco de los recientes acontecimientos en la población de majdal shams, en el golán sirio ocupado, que podría llevar a la región a caer en una guerra regional integral”, aseveró el ente egipcio. asimismo, subrayó necesidad de priorizar el apoyo “al líbano, su pueblo y sus instituciones, y evitar la guerra”. “egipto renovó su advertencia de los peligros de que israel continúe su guerra contra la franja de gaza, exigiendo la necesidad de alcanzar un alto el fuego inmediato y un fin al sufrimiento humano en la franja de gaza lo antes posible”, resaltó el comunicado. durante esta jornada se realiza en roma, capital de italia, el encuentro entre los jefes de inteligencia de israel, estados unidos, egipto y qatar para negociar un pacto de tregua en la franja de gaza. hezbolá negó ser el autor de este ataque y el gobierno libanés descartó que la formación armada realizara un ataque de forma intencionada contra majdal shams. por su parte, israel aseguró que el lanzamiento se realizó desde una localidad en el área de las disputadas granjas de chebaa, en el sur de líbano y a escasos kilómetros de majdal shams, y refirió que “hizbulá pagará un alto precio”.",
+    "tokens": [
+      "ministerio",
+      "exteriores",
+      "migraciones",
+      "egipcio",
+      "exigió",
+      "domingo",
+      "intervención",
+      "comunidad",
+      "internacional",
+      "evitar",
+      "conflicto",
+      "israel",
+      "hezbolá",
+      "tras",
+      "ataque",
+      "víspera",
+      "provocó",
+      "menos",
+      "12",
+      "muertos",
+      "ciudad",
+      "majdal",
+      "shams",
+      ",",
+      "altos",
+      "golán",
+      "ocupados",
+      ".",
+      "cartera",
+      "egipcia",
+      "advirtió",
+      "peligros",
+      "extienda",
+      "guerra",
+      "regional",
+      "líbano",
+      "israel",
+      ",",
+      "luego",
+      "gobierno",
+      "responsabilizara",
+      "ataque",
+      "grupo",
+      "chií",
+      ".",
+      "“",
+      "república",
+      "árabe",
+      "egipto",
+      "advierte",
+      "peligros",
+      "abrir",
+      "nuevo",
+      "frente",
+      "guerra",
+      "líbano",
+      ",",
+      "marco",
+      "recientes",
+      "acontecimientos",
+      "población",
+      "majdal",
+      "shams",
+      ",",
+      "golán",
+      "sirio",
+      "ocupado",
+      ",",
+      "podría",
+      "llevar",
+      "región",
+      "caer",
+      "guerra",
+      "regional",
+      "integral",
+      "”",
+      ",",
+      "aseveró",
+      "ente",
+      "egipcio",
+      ".",
+      "asimismo",
+      ",",
+      "subrayó",
+      "necesidad",
+      "priorizar",
+      "apoyo",
+      "“",
+      "líbano",
+      ",",
+      "pueblo",
+      "instituciones",
+      ",",
+      "evitar",
+      "guerra",
+      "”",
+      ".",
+      "“",
+      "egipto",
+      "renovó",
+      "advertencia",
+      "peligros",
+      "israel",
+      "continúe",
+      "guerra",
+      "franja",
+      "gaza",
+      ",",
+      "exigiendo",
+      "necesidad",
+      "alcanzar",
+      "alto",
+      "fuego",
+      "inmediato",
+      "fin",
+      "sufrimiento",
+      "humano",
+      "franja",
+      "gaza",
+      "posible",
+      "”",
+      ",",
+      "resaltó",
+      "comunicado",
+      ".",
+      "jornada",
+      "realiza",
+      "roma",
+      ",",
+      "capital",
+      "italia",
+      ",",
+      "encuentro",
+      "jefes",
+      "inteligencia",
+      "israel",
+      ",",
+      "unidos",
+      ",",
+      "egipto",
+      "qatar",
+      "negociar",
+      "pacto",
+      "tregua",
+      "franja",
+      "gaza",
+      ".",
+      "hezbolá",
+      "negó",
+      "ser",
+      "autor",
+      "ataque",
+      "gobierno",
+      "libanés",
+      "descartó",
+      "formación",
+      "armada",
+      "realizara",
+      "ataque",
+      "forma",
+      "intencionada",
+      "majdal",
+      "shams",
+      ".",
+      "parte",
+      ",",
+      "israel",
+      "aseguró",
+      "lanzamiento",
+      "realizó",
+      "localidad",
+      "área",
+      "disputadas",
+      "granjas",
+      "chebaa",
+      ",",
+      "sur",
+      "líbano",
+      "escasos",
+      "kilómetros",
+      "majdal",
+      "shams",
+      ",",
+      "refirió",
+      "“",
+      "hizbulá",
+      "pagará",
+      "alto",
+      "precio",
+      "”",
+      "."
+    ],
+    "token_count": 191,
+    "sentence_count": 8
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 54,
+      "IN": 15,
+      "FW": 88,
+      "NN": 83,
+      "JJ": 30,
+      "VBD": 3,
+      "$": 1,
+      "CD": 1,
+      "VBZ": 3,
+      "NNS": 2,
+      "VBP": 4,
+      "CC": 1
+    },
+    "bigram_freq": {
+      "NNP-NNP": 18,
+      "NNP-IN": 4,
+      "IN-NNP": 5,
+      "NNP-FW": 15,
+      "FW-NN": 8,
+      "NN-NN": 44,
+      "NN-FW": 9,
+      "FW-FW": 51,
+      "FW-JJ": 8,
+      "JJ-NN": 18,
+      "NN-NNP": 7,
+      "NNP-VBD": 2,
+      "VBD-JJ": 2,
+      "NN-IN": 11,
+      "IN-FW": 8,
+      "NN-VBD": 1,
+      "VBD-$": 1,
+      "$-CD": 1,
+      "CD-NN": 1,
+      "FW-NNP": 20,
+      "NNP-VBZ": 2,
+      "VBZ-NNP": 1,
+      "NNP-NN": 11,
+      "NN-JJ": 7,
+      "JJ-JJ": 5,
+      "FW-NNS": 1,
+      "NNS-VBP": 2,
+      "VBP-JJ": 3,
+      "JJ-FW": 5,
+      "IN-JJ": 2,
+      "NN-NNS": 1,
+      "NNP-CC": 1,
+      "CC-JJ": 1,
+      "NN-VBZ": 1,
+      "VBZ-JJ": 2,
+      "NN-VBP": 1,
+      "VBP-NN": 1,
+      "JJ-NNP": 2,
+      "NNP-VBP": 1
+    },
+    "trigram_freq": {
+      "NNP-NNP-IN": 2,
+      "NNP-IN-NNP": 4,
+      "IN-NNP-NNP": 2,
+      "NNP-NNP-FW": 5,
+      "NNP-FW-NN": 5,
+      "FW-NN-NN": 4,
+      "NN-NN-NN": 24,
+      "NN-NN-FW": 4,
+      "NN-FW-FW": 3,
+      "FW-FW-FW": 33,
+      "FW-FW-JJ": 5,
+      "FW-JJ-NN": 6,
+      "JJ-NN-NN": 7,
+      "NN-FW-NN": 2,
+      "NN-NN-NNP": 4,
+      "NN-NNP-NNP": 4,
+      "NNP-NNP-VBD": 2,
+      "NNP-VBD-JJ": 2,
+      "VBD-JJ-NN": 1,
+      "JJ-NN-IN": 7,
+      "NN-IN-FW": 8,
+      "IN-FW-FW": 5,
+      "FW-FW-NN": 1,
+      "NN-NN-VBD": 1,
+      "NN-VBD-$": 1,
+      "VBD-$-CD": 1,
+      "$-CD-NN": 1,
+      "CD-NN-FW": 1,
+      "FW-FW-NNP": 11,
+      "FW-NNP-NNP": 4,
+      "FW-NN-NNP": 1,
+      "NN-NNP-VBZ": 2,
+      "NNP-VBZ-NNP": 1,
+      "VBZ-NNP-NNP": 1,
+      "NNP-NNP-NNP": 6,
+      "NNP-NNP-NN": 2,
+      "NNP-NN-NN": 8,
+      "NN-NN-JJ": 5,
+      "NN-JJ-NN": 7,
+      "JJ-NN-JJ": 1,
+      "NNP-FW-FW": 7,
+      "FW-NNP-NN": 7,
+      "IN-NNP-FW": 1,
+      "FW-JJ-JJ": 1,
+      "JJ-JJ-NN": 3,
+      "FW-NNP-FW": 9,
+      "FW-FW-NNS": 1,
+      "FW-NNS-VBP": 1,
+      "NNS-VBP-JJ": 2,
+      "VBP-JJ-FW": 2,
+      "JJ-FW-FW": 3,
+      "NN-NN-IN": 3,
+      "NN-IN-JJ": 2,
+      "IN-JJ-JJ": 1,
+      "JJ-JJ-JJ": 2,
+      "NN-FW-NNP": 3,
+      "NN-NN-NNS": 1,
+      "NN-NNS-VBP": 1,
+      "JJ-FW-NNP": 2,
+      "JJ-NN-NNP": 2,
+      "NN-NNP-IN": 1,
+      "IN-NNP-CC": 1,
+      "NNP-CC-JJ": 1,
+      "CC-JJ-FW": 1,
+      "IN-FW-NNP": 1,
+      "NNP-FW-NNP": 3,
+      "NNP-NN-VBZ": 1,
+      "NN-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 1,
+      "NNP-VBZ-JJ": 1,
+      "VBZ-JJ-JJ": 1,
+      "JJ-NN-FW": 1,
+      "NNP-NN-FW": 1,
+      "FW-NN-FW": 2,
+      "NN-FW-JJ": 1,
+      "NN-IN-NNP": 1,
+      "IN-NNP-IN": 1,
+      "FW-NN-IN": 1,
+      "IN-FW-JJ": 2,
+      "FW-JJ-FW": 1,
+      "NN-NN-VBP": 1,
+      "NN-VBP-NN": 1,
+      "VBP-NN-NN": 1,
+      "VBD-JJ-NNP": 1,
+      "JJ-NNP-NN": 2,
+      "IN-JJ-FW": 1,
+      "NNP-NNP-VBP": 1,
+      "NNP-VBP-JJ": 1,
+      "VBP-JJ-NNP": 1,
+      "NNP-NN-JJ": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "FW": 88,
+        "NN": 83,
+        "NNP": 54,
+        "JJ": 30,
+        "IN": 15
+      },
+      "top_bigrams": {
+        "FW-FW": 51,
+        "NN-NN": 44,
+        "FW-NNP": 20,
+        "NNP-NNP": 18,
+        "JJ-NN": 18
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 33,
+        "NN-NN-NN": 24,
+        "FW-FW-NNP": 11,
+        "FW-NNP-FW": 9,
+        "NN-IN-FW": 8
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 8,
+    "chunk_counts": {
+      "NP": 75,
+      "PP": 7,
+      "VP": 13,
+      "ADJP": 2
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 6,
+        "weight": 0.0571
+      },
+      {
+        "rule": "NP -> ('Majdal', 'NNP') ('Shams', 'NNP')",
+        "frequency": 3,
+        "weight": 0.0286
+      },
+      {
+        "rule": "NP -> ('Líbano', 'NNP')",
+        "frequency": 2,
+        "weight": 0.019
+      },
+      {
+        "rule": "NP -> ('Gaza', 'NNP')",
+        "frequency": 2,
+        "weight": 0.019
+      },
+      {
+        "rule": "NP -> ('Franja', 'NNP')",
+        "frequency": 2,
+        "weight": 0.019
+      },
+      {
+        "rule": "NP -> ('Israel', 'NNP')",
+        "frequency": 2,
+        "weight": 0.019
+      },
+      {
+        "rule": "S -> NP PP ('egipcio', 'FW') NP ('la', 'FW') ('intervención', 'FW') ('de', 'FW') ('la', 'FW') ('comunidad', 'FW') NP ('el', 'FW') NP VP ('de', 'IN') ('la', 'FW') ('víspera', 'FW') NP VP ('menos', '$') ('12', 'CD') NP ('en', 'FW') ('la', 'FW') ('ciudad', 'FW') ('de', 'FW') NP (',', ',') ('en', 'FW') ('los', 'FW') NP ('del', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0095
+      },
+      {
+        "rule": "NP -> ('El', 'NNP') ('Ministerio', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0095
+      },
+      {
+        "rule": "NP -> ('Exteriores', 'NNP') ('y', 'NNP') ('Migraciones', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0095
+      },
+      {
+        "rule": "NP -> ('exigió', 'NN') ('este', 'NN') ('domingo', 'NN')",
+        "frequency": 1,
+        "weight": 0.0095
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El Ministerio"
+      },
+      {
+        "label": "PP",
+        "text": "de Exteriores y Migraciones"
+      },
+      {
+        "label": "NP",
+        "text": "Exteriores y Migraciones"
+      },
+      {
+        "label": "NP",
+        "text": "exigió este domingo"
+      },
+      {
+        "label": "NP",
+        "text": "internacional para evitar"
+      },
+      {
+        "label": "NP",
+        "text": "conflicto entre Israel y Hezbolá"
+      },
+      {
+        "label": "VP",
+        "text": "tras el ataque"
+      },
+      {
+        "label": "NP",
+        "text": "el ataque"
+      },
+      {
+        "label": "NP",
+        "text": "que provocó"
+      },
+      {
+        "label": "VP",
+        "text": "al"
+      },
+      {
+        "label": "NP",
+        "text": "muertos"
+      },
+      {
+        "label": "NP",
+        "text": "Majdal Shams"
+      },
+      {
+        "label": "NP",
+        "text": "Altos"
+      },
+      {
+        "label": "NP",
+        "text": "Golán ocupados"
+      },
+      {
+        "label": "NP",
+        "text": "La cartera egipcia advirtió sobre"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP El/NNP Ministerio/NNP)\n  (PP de/IN (NP Exteriores/NNP y/NNP Migraciones/NNP))\n  egipcio/FW\n  (NP exigió/NN este/NN domingo/NN)\n  la/FW\n  intervención/FW\n  de/FW\n  la/FW\n  comunidad/FW\n  (NP internacional/JJ para/NN evitar/NN)\n  el/FW\n  (NP conflicto/NN entre/NN Israel/NNP y/NNP Hezbolá/NNP)\n  (VP tras/VBD (NP el/JJ ataque/NN))\n  de/IN\n  la/FW\n  víspera/FW\n  (NP que/NN provocó/NN)\n  (VP al/VBD)\n  menos/$\n  12/CD\n  (NP muertos/NN)\n  en/FW\n  la/FW\n  ciudad/FW\n  de/FW\n  (NP Majdal/NNP Shams/NNP)\n  ,/,\n  en/FW\n  los/FW\n  (NP Altos/NNP)\n  del/FW\n  (NP Golán/NNP ocupados/NN)\n  ./.)",
+      "(S\n  (NP La/NNP cartera/NN egipcia/NN advirtió/NN sobre/NN)\n  (NP los/JJ peligros/NN)\n  de/IN\n  que/FW\n  se/FW\n  extienda/FW\n  (NP una/JJ guerra/NN)\n  (NP regional/JJ entre/NN el/NN Líbano/NNP e/NN Israel/NNP)\n  ,/,\n  (NP luego/NN)\n  de/FW\n  que/FW\n  su/FW\n  (NP\n    Gobierno/NNP\n    responsabilizara/NN\n    del/NN\n    ataque/NN\n    al/NN\n    grupo/NN\n    chií/NN)\n  ./.)",
+      "(S\n  (NP “/JJ La/NNP República/NNP Árabe/NNP)\n  (PP de/IN (NP Egipto/NNP))\n  advierte/FW\n  de/FW\n  los/FW\n  peligros/FW\n  de/FW\n  abrir/FW\n  (NP un/JJ nuevo/JJ frente/NN)\n  de/IN\n  guerra/FW\n  en/FW\n  el/FW\n  (NP Líbano/NNP)\n  ,/,\n  en/FW\n  el/FW\n  marco/FW\n  de/FW\n  los/FW\n  (NP recientes/NNS)\n  (VP acontecimientos/VBP en/JJ)\n  la/FW\n  población/FW\n  de/FW\n  (NP Majdal/NNP Shams/NNP)\n  ,/,\n  en/FW\n  el/FW\n  (NP Golán/NNP sirio/NN ocupado/NN)\n  ,/,\n  (NP que/JJ podría/NN)\n  (VP llevar/VBZ (NP a/DT la/NN))\n  (VP región/VBZ (NP a/DT caer/NN))\n  (PP en/IN (NP una/JJ guerra/JJ regional/JJ integral/JJ ”/NN))\n  ,/,\n  (NP aseveró/JJ el/NN ente/NN egipcio/NN)\n  ./.)",
+      "(S\n  (NP Asimismo/NNP)\n  ,/,\n  (ADJP subrayó/JJ)\n  necesidad/FW\n  de/FW\n  priorizar/FW\n  el/FW\n  apoyo/FW\n  “/FW\n  (NP al/NN Líbano/NNP)\n  ,/,\n  (NP su/NN pueblo/NN y/NN sus/NN instituciones/NNS)\n  ,/,\n  y/FW\n  evitar/FW\n  la/FW\n  guerra/FW\n  (NP ”/NN)\n  ./.)",
+      "(S\n  (NP “/JJ Egipto/NNP renovó/NN su/NN advertencia/NN)\n  de/IN\n  los/FW\n  peligros/FW\n  de/FW\n  que/FW\n  (NP Israel/NNP continúe/NN su/NN guerra/NN)\n  (NP contra/JJ la/NN Franja/NNP)\n  (PP de/IN (NP Gaza/NNP))\n  ,/,\n  (VP exigiendo/VBP la/JJ)\n  necesidad/FW\n  de/FW\n  alcanzar/FW\n  (NP un/JJ alto/NN el/NN fuego/NN inmediato/NN y/NN)\n  (NP un/JJ fin/NN al/NN sufrimiento/NN humano/NN)\n  en/IN\n  la/FW\n  (NP Franja/NNP)\n  de/FW\n  (NP Gaza/NNP lo/NN)\n  (VP antes/VBZ (NP posible/JJ ”/NN))\n  ,/,\n  (VP resaltó/VB (NP el/JJ comunicado/NN))\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "CIUDADES_CAPITALES",
+      "APROBACION_RECHAZO",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "REGIONES_PROVINCIAS",
+      "PAISES",
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "CONFLICTOS_ARMADOS_OPERACIONES"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "conflicto entre israel",
+        "position": [
+          132,
+          154
+        ],
+        "start": 132,
+        "end": 154
+      },
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "intervención de la comunidad internacional",
+        "position": [
+          74,
+          116
+        ],
+        "start": 74,
+        "end": 116
+      },
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "conflicto entre israel y",
+        "position": [
+          132,
+          156
+        ],
+        "start": 132,
+        "end": 156
+      },
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "capital",
+        "position": [
+          1190,
+          1197
+        ],
+        "start": 1190,
+        "end": 1197
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "advirtió",
+        "position": [
+          308,
+          316
+        ],
+        "start": 308,
+        "end": 316
+      },
+      {
+        "category": "APROBACION_RECHAZO",
+        "matched_text": "negó",
+        "position": [
+          1359,
+          1363
+        ],
+        "start": 1359,
+        "end": 1363
+      },
+      {
+        "category": "APROBACION_RECHAZO",
+        "matched_text": "subrayó",
+        "position": [
+          784,
+          791
+        ],
+        "start": 784,
+        "end": 791
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "estados unidos",
+        "position": [
+          1265,
+          1279
+        ],
+        "start": 1265,
+        "end": 1279
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "líbano",
+        "position": [
+          384,
+          390
+        ],
+        "start": 384,
+        "end": 390
+      },
+      {
+        "category": "CIUDADES_CAPITALES",
+        "matched_text": "roma",
+        "position": [
+          1184,
+          1188
+        ],
+        "start": 1184,
+        "end": 1188
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "región a caer",
+        "position": [
+          701,
+          714
+        ],
+        "start": 701,
+        "end": 714
+      }
+    ],
+    "match_count": 11
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Roma",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Franja de Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Gobierno libanés",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Granjas de Chebaa",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Ministerio de Exteriores y Migraciones",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Gobierno",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Inteligencia de Israel",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Egipto",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "el Líbano",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Majdal Shams",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Altos del Golán",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Qatar",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Estados Unidos",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Italia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Majdal Shams",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "República Árabe de",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Hezbolá",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Líbano",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Israel",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Golán sirio",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Ministerio de Exteriores y Migraciones",
+        "relacion": "EXIGIR",
+        "objeto": "Israel"
+      },
+      {
+        "sujeto": "Ministerio de Exteriores y Migraciones",
+        "relacion": "EXIGIR",
+        "objeto": "Hezbolá"
+      },
+      {
+        "sujeto": "Ministerio de Exteriores y Migraciones",
+        "relacion": "EXIGIR",
+        "objeto": "Majdal Shams"
+      },
+      {
+        "sujeto": "Ministerio de Exteriores y Migraciones",
+        "relacion": "EXIGIR",
+        "objeto": "Altos del Golán"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "EVITAR_EXIGIR",
+        "objeto": "Majdal Shams"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "EVITAR_EXIGIR",
+        "objeto": "Altos del Golán"
+      },
+      {
+        "sujeto": "Hezbolá",
+        "relacion": "EVITAR_EXIGIR",
+        "objeto": "Majdal Shams"
+      },
+      {
+        "sujeto": "Hezbolá",
+        "relacion": "EVITAR_EXIGIR",
+        "objeto": "Altos del Golán"
+      },
+      {
+        "sujeto": "Gobierno",
+        "relacion": "EXTENDER_ADVERTIR",
+        "objeto": "Líbano"
+      },
+      {
+        "sujeto": "Gobierno",
+        "relacion": "EXTENDER_ADVERTIR",
+        "objeto": "Israel"
+      },
+      {
+        "sujeto": "República Árabe de",
+        "relacion": "ADVERTIR_ASEVERAR",
+        "objeto": "el Líbano"
+      },
+      {
+        "sujeto": "República Árabe de",
+        "relacion": "ADVERTIR_ASEVERAR",
+        "objeto": "Majdal Shams"
+      },
+      {
+        "sujeto": "República Árabe de",
+        "relacion": "ADVERTIR_ASEVERAR",
+        "objeto": "Golán sirio"
+      },
+      {
+        "sujeto": "Egipto",
+        "relacion": "ADVERTIR_ASEVERAR",
+        "objeto": "el Líbano"
+      },
+      {
+        "sujeto": "Egipto",
+        "relacion": "ADVERTIR_ASEVERAR",
+        "objeto": "Majdal Shams"
+      },
+      {
+        "sujeto": "Egipto",
+        "relacion": "ADVERTIR_ASEVERAR",
+        "objeto": "Golán sirio"
+      },
+      {
+        "sujeto": "el Líbano",
+        "relacion": "ABRIR_ADVERTIR_ASEVERAR",
+        "objeto": "Majdal Shams"
+      },
+      {
+        "sujeto": "el Líbano",
+        "relacion": "ABRIR_ADVERTIR_ASEVERAR",
+        "objeto": "Golán sirio"
+      },
+      {
+        "sujeto": "Egipto",
+        "relacion": "RENOVAR_RESALTAR",
+        "objeto": "Israel"
+      },
+      {
+        "sujeto": "Egipto",
+        "relacion": "RENOVAR_RESALTAR",
+        "objeto": "Franja de Gaza"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "CONTINUAR_RENOVAR_RESALTAR",
+        "objeto": "Franja de Gaza"
+      },
+      {
+        "sujeto": "Roma",
+        "relacion": "REALIZAR",
+        "objeto": "Inteligencia de Israel"
+      },
+      {
+        "sujeto": "Roma",
+        "relacion": "REALIZAR",
+        "objeto": "Estados Unidos"
+      },
+      {
+        "sujeto": "Roma",
+        "relacion": "REALIZAR",
+        "objeto": "Egipto"
+      },
+      {
+        "sujeto": "Roma",
+        "relacion": "REALIZAR",
+        "objeto": "Qatar"
+      },
+      {
+        "sujeto": "Roma",
+        "relacion": "REALIZAR",
+        "objeto": "Franja de Gaza"
+      },
+      {
+        "sujeto": "Italia",
+        "relacion": "REALIZAR",
+        "objeto": "Inteligencia de Israel"
+      },
+      {
+        "sujeto": "Italia",
+        "relacion": "REALIZAR",
+        "objeto": "Estados Unidos"
+      },
+      {
+        "sujeto": "Italia",
+        "relacion": "REALIZAR",
+        "objeto": "Egipto"
+      },
+      {
+        "sujeto": "Italia",
+        "relacion": "REALIZAR",
+        "objeto": "Qatar"
+      },
+      {
+        "sujeto": "Italia",
+        "relacion": "REALIZAR",
+        "objeto": "Franja de Gaza"
+      },
+      {
+        "sujeto": "Hezbolá",
+        "relacion": "NEGAR",
+        "objeto": "Gobierno libanés"
+      },
+      {
+        "sujeto": "Hezbolá",
+        "relacion": "NEGAR",
+        "objeto": "Majdal Shams"
+      },
+      {
+        "sujeto": "Gobierno libanés",
+        "relacion": "NEGAR",
+        "objeto": "Majdal Shams"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "ASEGURAR",
+        "objeto": "Granjas de Chebaa"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "ASEGURAR",
+        "objeto": "Líbano"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "ASEGURAR",
+        "objeto": "Majdal Shams"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.0,
+    "pos": 0.0,
+    "neu": 1.0,
+    "neg": 0.0,
+    "label": "neutral"
+  }
+}

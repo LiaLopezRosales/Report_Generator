@@ -1,0 +1,619 @@
+{
+  "url": "https://www.telesurtv.net/bombardeos-a-las-ciudades-de-gaza-y-rafah-dejan-al-menos-cinco-muertos/",
+  "title": "Bombardeos a las ciudades de Gaza y Rafah dejan al menos cinco muertos - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "bombardeos",
+    "Gaza",
+    "Israel",
+    "Palestina",
+    "Rafah"
+  ],
+  "text": "Al menos cinco civiles murieron el viernes por la noche a causa de los ataques y bombardeos israelíes contra las ciudades palestinas de Gaza y Rafah.\nFuentes palestinas informaron que aviones israelíes bombardearon un barrio en el sureste de la ciudad de Gaza, dejando un saldo de cuatro civiles muertos y al menos diez heridos.\nLas autoridades de la capital gazatí afirmaron que drones israelíes atacaron a un grupo de niños, hiriendo a varios menores de edad.\nLos ataques aéreos al barrio de Zeitoun causaron daños a varias casas del sector de la capital gazatí.\nSegún fuentes médicas, decenas de cadáveres se encuentran esparcidos en las carreteras de la ciudad palestina de Rafah en el sur de la Franja de Gaza.\nLos equipos médicos informaron de que no habían podido llegar hasta muchos heridos debido a los continuos bombardeos por parte de Israel contra la ciudad fronteriza con Egipto.\nEl hospital especializado kuwaití en Rafah también se incendió tras ser bombardeado por las fuerzas israelíes. ocupación. El centro de salud fue evacuado previamente tras quedar fuera de servicio.\nComo parte de los continuos ataques de Israel a la ciudad de Rafah, las fuerzas israelíes lanzaron bombas de fósforo blanco en el norte de la localidad del sur de la Franja de Gaza.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/bombardeos-a-las-ciudades-de-gaza-y-rafah-dejan-al-menos-cinco-muertos/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-06.json",
+    "message_index": 785,
+    "message_id": 71958,
+    "date": "2024-06-08T07:55:12+00:00",
+    "text": "teleSUR\nBombardeos a las ciudades de Gaza y Rafah dejan al menos cinco muertos\nhttps://www.telesurtv.net/bombardeos-a-las-ciudades-de-gaza-y-rafah-dejan-al-menos-cinco-muertos/",
+    "photo_path": null,
+    "views": 1307,
+    "reactions": {},
+    "total_reactions": 0
+  },
+  "preprocessing": {
+    "cleaned": "al menos cinco civiles murieron el viernes por la noche a causa de los ataques y bombardeos israelíes contra las ciudades palestinas de gaza y rafah. fuentes palestinas informaron que aviones israelíes bombardearon un barrio en el sureste de la ciudad de gaza, dejando un saldo de cuatro civiles muertos y al menos diez heridos. las autoridades de la capital gazatí afirmaron que drones israelíes atacaron a un grupo de niños, hiriendo a varios menores de edad. los ataques aéreos al barrio de zeitoun causaron daños a varias casas del sector de la capital gazatí. según fuentes médicas, decenas de cadáveres se encuentran esparcidos en las carreteras de la ciudad palestina de rafah en el sur de la franja de gaza. los equipos médicos informaron de que no habían podido llegar hasta muchos heridos debido a los continuos bombardeos por parte de israel contra la ciudad fronteriza con egipto. el hospital especializado kuwaití en rafah también se incendió tras ser bombardeado por las fuerzas israelíes. ocupación. el centro de salud fue evacuado previamente tras quedar fuera de servicio. como parte de los continuos ataques de israel a la ciudad de rafah, las fuerzas israelíes lanzaron bombas de fósforo blanco en el norte de la localidad del sur de la franja de gaza.",
+    "tokens": [
+      "menos",
+      "cinco",
+      "civiles",
+      "murieron",
+      "viernes",
+      "noche",
+      "causa",
+      "ataques",
+      "bombardeos",
+      "israelíes",
+      "ciudades",
+      "palestinas",
+      "gaza",
+      "rafah",
+      ".",
+      "fuentes",
+      "palestinas",
+      "informaron",
+      "aviones",
+      "israelíes",
+      "bombardearon",
+      "barrio",
+      "sureste",
+      "ciudad",
+      "gaza",
+      ",",
+      "dejando",
+      "saldo",
+      "cuatro",
+      "civiles",
+      "muertos",
+      "menos",
+      "diez",
+      "heridos",
+      ".",
+      "autoridades",
+      "capital",
+      "gazatí",
+      "afirmaron",
+      "drones",
+      "israelíes",
+      "atacaron",
+      "grupo",
+      "niños",
+      ",",
+      "hiriendo",
+      "varios",
+      "menores",
+      "edad",
+      ".",
+      "ataques",
+      "aéreos",
+      "barrio",
+      "zeitoun",
+      "causaron",
+      "daños",
+      "varias",
+      "casas",
+      "sector",
+      "capital",
+      "gazatí",
+      ".",
+      "según",
+      "fuentes",
+      "médicas",
+      ",",
+      "decenas",
+      "cadáveres",
+      "encuentran",
+      "esparcidos",
+      "carreteras",
+      "ciudad",
+      "palestina",
+      "rafah",
+      "sur",
+      "franja",
+      "gaza",
+      ".",
+      "equipos",
+      "médicos",
+      "informaron",
+      "podido",
+      "llegar",
+      "heridos",
+      "debido",
+      "continuos",
+      "bombardeos",
+      "parte",
+      "israel",
+      "ciudad",
+      "fronteriza",
+      "egipto",
+      ".",
+      "hospital",
+      "especializado",
+      "kuwaití",
+      "rafah",
+      "incendió",
+      "tras",
+      "ser",
+      "bombardeado",
+      "fuerzas",
+      "israelíes",
+      ".",
+      "ocupación",
+      ".",
+      "centro",
+      "salud",
+      "evacuado",
+      "previamente",
+      "tras",
+      "quedar",
+      "servicio",
+      ".",
+      "parte",
+      "continuos",
+      "ataques",
+      "israel",
+      "ciudad",
+      "rafah",
+      ",",
+      "fuerzas",
+      "israelíes",
+      "lanzaron",
+      "bombas",
+      "fósforo",
+      "blanco",
+      "norte",
+      "localidad",
+      "sur",
+      "franja",
+      "gaza",
+      "."
+    ],
+    "token_count": 133,
+    "sentence_count": 10
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 26,
+      "NNS": 18,
+      "VBP": 14,
+      "JJ": 21,
+      "FW": 51,
+      "NN": 53,
+      "IN": 15,
+      "RB": 1,
+      "VBZ": 2,
+      "DT": 1,
+      "CC": 1
+    },
+    "bigram_freq": {
+      "NNP-NNS": 2,
+      "NNS-VBP": 13,
+      "VBP-NNS": 1,
+      "VBP-JJ": 8,
+      "JJ-NNS": 6,
+      "JJ-FW": 2,
+      "FW-NN": 6,
+      "NN-IN": 12,
+      "IN-FW": 8,
+      "FW-NNS": 2,
+      "JJ-JJ": 1,
+      "NNS-NNS": 2,
+      "VBP-IN": 1,
+      "IN-NNP": 5,
+      "NNP-NNP": 7,
+      "NNP-VBP": 1,
+      "VBP-NN": 3,
+      "NN-NN": 27,
+      "NN-NNS": 5,
+      "NN-JJ": 3,
+      "JJ-NN": 11,
+      "IN-JJ": 2,
+      "FW-FW": 31,
+      "FW-NNP": 9,
+      "NNP-NN": 5,
+      "NN-FW": 3,
+      "JJ-NNP": 1,
+      "NNP-FW": 6,
+      "VBP-RB": 1,
+      "RB-JJ": 1,
+      "FW-JJ": 2,
+      "NNS-IN": 2,
+      "NN-NNP": 3,
+      "NNP-VBZ": 2,
+      "VBZ-JJ": 2,
+      "NNS-FW": 1,
+      "NNP-JJ": 1,
+      "FW-DT": 1,
+      "DT-NN": 1,
+      "NNP-CC": 1,
+      "CC-JJ": 1
+    },
+    "trigram_freq": {
+      "NNP-NNS-VBP": 2,
+      "NNS-VBP-NNS": 1,
+      "VBP-NNS-VBP": 1,
+      "NNS-VBP-JJ": 8,
+      "VBP-JJ-NNS": 2,
+      "JJ-NNS-VBP": 2,
+      "VBP-JJ-FW": 1,
+      "JJ-FW-NN": 1,
+      "FW-NN-IN": 2,
+      "NN-IN-FW": 7,
+      "IN-FW-NNS": 1,
+      "FW-NNS-VBP": 2,
+      "VBP-JJ-JJ": 1,
+      "JJ-JJ-NNS": 1,
+      "JJ-NNS-NNS": 2,
+      "NNS-NNS-VBP": 1,
+      "NNS-VBP-IN": 1,
+      "VBP-IN-NNP": 1,
+      "IN-NNP-NNP": 3,
+      "NNP-NNP-NNP": 2,
+      "NNP-NNP-VBP": 1,
+      "NNP-VBP-NN": 1,
+      "VBP-NN-NN": 2,
+      "NN-NN-NNS": 4,
+      "NN-NNS-VBP": 5,
+      "NNS-VBP-NN": 2,
+      "VBP-NN-JJ": 1,
+      "NN-JJ-NN": 3,
+      "JJ-NN-IN": 5,
+      "NN-IN-JJ": 2,
+      "IN-JJ-NN": 1,
+      "IN-FW-FW": 1,
+      "FW-FW-FW": 23,
+      "FW-FW-NNP": 5,
+      "FW-NNP-NN": 1,
+      "NNP-NN-JJ": 1,
+      "JJ-NN-FW": 1,
+      "NN-FW-NN": 1,
+      "FW-NN-NNS": 1,
+      "VBP-JJ-NNP": 1,
+      "JJ-NNP-FW": 1,
+      "NNP-FW-FW": 4,
+      "FW-FW-NN": 2,
+      "FW-NN-NN": 2,
+      "NN-NN-NN": 16,
+      "NNS-VBP-RB": 1,
+      "VBP-RB-JJ": 1,
+      "RB-JJ-NN": 1,
+      "IN-FW-JJ": 1,
+      "FW-JJ-NNS": 2,
+      "NNS-NNS-IN": 1,
+      "NNS-IN-FW": 1,
+      "IN-FW-NNP": 2,
+      "FW-NNP-NNS": 1,
+      "VBP-JJ-NN": 3,
+      "NN-IN-NNP": 3,
+      "IN-NNP-NN": 2,
+      "NNP-NN-NN": 3,
+      "NN-NN-JJ": 1,
+      "JJ-NN-NN": 3,
+      "NN-NN-IN": 5,
+      "IN-FW-NN": 2,
+      "NN-NN-NNP": 1,
+      "NN-NNP-VBZ": 1,
+      "NNP-VBZ-JJ": 2,
+      "VBZ-JJ-NNS": 1,
+      "JJ-NNS-FW": 1,
+      "NNS-FW-NNS": 1,
+      "IN-JJ-FW": 1,
+      "JJ-FW-FW": 1,
+      "FW-NNP-FW": 4,
+      "NNP-FW-NNP": 2,
+      "FW-NNP-NNP": 1,
+      "NNP-NNP-JJ": 1,
+      "NNP-JJ-NN": 1,
+      "IN-FW-DT": 1,
+      "FW-DT-NN": 1,
+      "DT-NN-NN": 1,
+      "NNP-NNP-VBZ": 1,
+      "VBZ-JJ-NN": 1,
+      "JJ-NN-NNP": 2,
+      "NN-NNP-NNP": 1,
+      "NNP-NNP-NN": 1,
+      "NN-NNP-NN": 1,
+      "NNP-NN-FW": 1,
+      "NN-FW-FW": 2,
+      "FW-FW-JJ": 1,
+      "JJ-NNS-IN": 1,
+      "NNS-IN-NNP": 1,
+      "NNP-NNP-FW": 1,
+      "FW-NNP-CC": 1,
+      "NNP-CC-JJ": 1,
+      "CC-JJ-NN": 1,
+      "FW-NN-FW": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 53,
+        "FW": 51,
+        "NNP": 26,
+        "JJ": 21,
+        "NNS": 18
+      },
+      "top_bigrams": {
+        "FW-FW": 31,
+        "NN-NN": 27,
+        "NNS-VBP": 13,
+        "NN-IN": 12,
+        "JJ-NN": 11
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 23,
+        "NN-NN-NN": 16,
+        "NNS-VBP-JJ": 8,
+        "NN-IN-FW": 7,
+        "NN-NNS-VBP": 5
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 10,
+    "chunk_counts": {
+      "NP": 55,
+      "VP": 19,
+      "PP": 9
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 6,
+        "weight": 0.0645
+      },
+      {
+        "rule": "NP -> ('Gaza', 'NNP')",
+        "frequency": 3,
+        "weight": 0.0323
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0215
+      },
+      {
+        "rule": "NP -> ('Rafah', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0215
+      },
+      {
+        "rule": "NP -> ('Franja', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0215
+      },
+      {
+        "rule": "S -> NP VP VP VP ('noche', 'FW') NP ('de', 'IN') ('los', 'FW') NP VP VP PP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0108
+      },
+      {
+        "rule": "NP -> ('Al', 'NNP') ('menos', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0108
+      },
+      {
+        "rule": "VP -> ('cinco', 'VBP') NP",
+        "frequency": 1,
+        "weight": 0.0108
+      },
+      {
+        "rule": "NP -> ('civiles', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0108
+      },
+      {
+        "rule": "VP -> ('murieron', 'VBP') NP",
+        "frequency": 1,
+        "weight": 0.0108
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Al menos"
+      },
+      {
+        "label": "VP",
+        "text": "cinco civiles"
+      },
+      {
+        "label": "NP",
+        "text": "civiles"
+      },
+      {
+        "label": "VP",
+        "text": "murieron el viernes"
+      },
+      {
+        "label": "NP",
+        "text": "el viernes"
+      },
+      {
+        "label": "VP",
+        "text": "por la"
+      },
+      {
+        "label": "NP",
+        "text": "a causa"
+      },
+      {
+        "label": "NP",
+        "text": "ataques"
+      },
+      {
+        "label": "VP",
+        "text": "y bombardeos israelíes contra las ciudades"
+      },
+      {
+        "label": "NP",
+        "text": "bombardeos israelíes contra las ciudades"
+      },
+      {
+        "label": "VP",
+        "text": "palestinas"
+      },
+      {
+        "label": "PP",
+        "text": "de Gaza y Rafah"
+      },
+      {
+        "label": "NP",
+        "text": "Gaza y Rafah"
+      },
+      {
+        "label": "NP",
+        "text": "Fuentes"
+      },
+      {
+        "label": "VP",
+        "text": "palestinas informaron que aviones"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Al/NNP menos/NNS)\n  (VP cinco/VBP (NP civiles/NNS))\n  (VP murieron/VBP (NP el/JJ viernes/NNS))\n  (VP por/VBP la/JJ)\n  noche/FW\n  (NP a/DT causa/NN)\n  de/IN\n  los/FW\n  (NP ataques/NNS)\n  (VP\n    y/VBP\n    (NP bombardeos/JJ israelíes/NN contra/NN las/NNS ciudades/NNS))\n  (VP palestinas/VBP)\n  (PP de/IN (NP Gaza/NNP y/NNP Rafah/NNP))\n  ./.)",
+      "(S\n  (NP Fuentes/NNS)\n  (VP palestinas/VBP (NP informaron/NN que/NN aviones/NNS))\n  (VP israelíes/VBP (NP bombardearon/NN) (NP un/JJ barrio/NN))\n  (PP en/IN (NP el/JJ sureste/NN))\n  de/IN\n  la/FW\n  ciudad/FW\n  de/FW\n  (NP Gaza/NNP)\n  ,/,\n  (NP dejando/NN)\n  (NP un/JJ saldo/NN)\n  de/FW\n  (NP cuatro/NN civiles/NNS)\n  (VP muertos/VBP y/RB (NP al/JJ menos/NNS))\n  (VP diez/VBP (NP heridos/NN))\n  ./.)",
+      "(S\n  (NP Las/NNP)\n  (VP autoridades/VBZ)\n  de/FW\n  la/FW\n  (NP capital/NN gazatí/NN afirmaron/NN que/NN drones/NNS)\n  (VP israelíes/VBP)\n  (PP atacaron/IN (NP a/DT un/JJ grupo/NN))\n  de/IN\n  niños/FW\n  ,/,\n  (VP hiriendo/VBZ (NP a/DT varios/JJ menores/NNS))\n  (PP de/IN (NP edad/NN))\n  ./.)",
+      "(S\n  (NP Los/NNP ataques/NNS)\n  (VP aéreos/VBP (NP al/JJ barrio/NN))\n  (PP de/IN (NP Zeitoun/NNP causaron/NN daños/NN))\n  (NP a/DT varias/JJ casas/NN del/NN sector/NN)\n  de/IN\n  la/FW\n  (NP capital/NN gazatí/NN)\n  ./.)",
+      "(S\n  (NP Según/NNP)\n  (VP fuentes/VBZ (NP médicas/NNS))\n  ,/,\n  decenas/FW\n  de/FW\n  cadáveres/FW\n  se/FW\n  encuentran/FW\n  esparcidos/FW\n  en/FW\n  las/FW\n  carreteras/FW\n  de/FW\n  la/FW\n  ciudad/FW\n  palestina/FW\n  de/FW\n  (NP Rafah/NNP)\n  en/FW\n  el/FW\n  sur/FW\n  de/FW\n  la/FW\n  (NP Franja/NNP)\n  de/FW\n  (NP Gaza/NNP)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "LOCALIZACIONES_ESPECIFICAS",
+      "PAISES",
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "INFRAESTRUCTURA_SERVICIOS",
+      "CONFLICTOS_ARMADOS_OPERACIONES"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "ataques y bombardeos israelíes",
+        "position": [
+          71,
+          101
+        ],
+        "start": 71,
+        "end": 101
+      },
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "ocupación",
+        "position": [
+          1004,
+          1013
+        ],
+        "start": 1004,
+        "end": 1013
+      },
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "capital",
+        "position": [
+          351,
+          358
+        ],
+        "start": 351,
+        "end": 358
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "hospital",
+        "position": [
+          896,
+          904
+        ],
+        "start": 896,
+        "end": 904
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "palestina",
+        "position": [
+          665,
+          674
+        ],
+        "start": 665,
+        "end": 674
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "barrio en",
+        "position": [
+          218,
+          227
+        ],
+        "start": 218,
+        "end": 227
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "centro de",
+        "position": [
+          1018,
+          1027
+        ],
+        "start": 1018,
+        "end": 1027
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "hospital especializado",
+        "position": [
+          896,
+          918
+        ],
+        "start": 896,
+        "end": 918
+      }
+    ],
+    "match_count": 8
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Franja de Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Egipto",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Rafah",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Fuentes palestinas",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Zeitoun",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Israel",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Gaza",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Fuentes palestinas",
+        "relacion": "INFORMAR",
+        "objeto": "Gaza"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "LANZAR",
+        "objeto": "Franja de Gaza"
+      },
+      {
+        "sujeto": "Rafah",
+        "relacion": "LANZAR",
+        "objeto": "Franja de Gaza"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.296,
+    "pos": 0.0,
+    "neu": 0.989,
+    "neg": 0.011,
+    "label": "negative"
+  }
+}

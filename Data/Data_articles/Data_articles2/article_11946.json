@@ -1,0 +1,761 @@
+{
+  "url": "https://www.telesurtv.net/ee-uu-registran-terremoto-de-magnitud-70-en-california-y-emiten-alerta-de-tsunami/",
+  "title": "EE.UU.: Cancelan alerta de tsunami tras terremoto de magnitud 7,0 en California - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "magnitud",
+    "Terremoto",
+    "Tsunami"
+  ],
+  "text": "El Servicio Geológico de los Estados Unidos (USGS, siglas en inglés) registró un terremoto de magnitud 7,0 perceptible en el norte de California, concretamente en el condado de Humboldt, tras lo cual se emitió una alerta de tsunami, que posteriormente fue cancelada.\nEl Centro Nacional de Alerta de Tsunamis en Estados Unidos (EE.UU.) confirmó que se canceló la alerta de tusnami, que se había dado para las regiones de la costa de California, Oregón y el sur de San Francisco.\nDe acuerdo con el USGS, cerca de 5,3 millones de personas en California estaban bajo alerta de tsunami, y se estima que más de 1,3 millones de personas se localizaban lo suficientemente cerca del área donde ocurrió el terremoto como para haberlo sentido.\nEl terremoto ocurrió a las 10H44 (hora local) y en un primer reporte del ente, se dijo que su magnitud era de 6,6.\nAunque no se ha informado sobre posibles daños, los residentes de la costa oeste, desde el norte de California hasta el sur de San Francisco, sintieron un movimiento ondulante que duró varios segundos y posteriormente, réplicas menores.\nEn ese sentido, se registraron temblores en áreas cercanas de magnitud 5,8, o tras comprendidas entre 2,5 y 4,2.\nTras el movimiento telúrico, fue suspendido el servicio de trenes a través del Transbay Tube submarino, por lo que el servicio de transporte del Área de la Bahía ha sufrido un importante atraso.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/ee-uu-registran-terremoto-de-magnitud-70-en-california-y-emiten-alerta-de-tsunami/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-12.json",
+    "message_index": 1492,
+    "message_id": 81830,
+    "date": "2024-12-05T20:55:09+00:00",
+    "text": "teleSUR\nEE.UU.: Cancelan alerta de tsunami tras terremoto de magnitud 7,0 en California\nhttps://www.telesurtv.net/ee-uu-registran-terremoto-de-magnitud-70-en-california-y-emiten-alerta-de-tsunami/",
+    "photo_path": null,
+    "views": 2283,
+    "reactions": {
+      "👍": 22,
+      "🤷‍♂": 8,
+      "🙏": 4,
+      "🔥": 3
+    },
+    "total_reactions": 37
+  },
+  "preprocessing": {
+    "cleaned": "el servicio geológico de los estados unidos (usgs, siglas en inglés) registró un terremoto de magnitud 7,0 perceptible en el norte de california, concretamente en el condado de humboldt, tras lo cual se emitió una alerta de tsunami, que posteriormente fue cancelada. el centro nacional de alerta de tsunamis en estados unidos (ee.uu.) confirmó que se canceló la alerta de tusnami, que se había dado para las regiones de la costa de california, oregón y el sur de san francisco. de acuerdo con el usgs, cerca de 5,3 millones de personas en california estaban bajo alerta de tsunami, y se estima que más de 1,3 millones de personas se localizaban lo suficientemente cerca del área donde ocurrió el terremoto como para haberlo sentido. el terremoto ocurrió a las 10h44 (hora local) y en un primer reporte del ente, se dijo que su magnitud era de 6,6. aunque no se ha informado sobre posibles daños, los residentes de la costa oeste, desde el norte de california hasta el sur de san francisco, sintieron un movimiento ondulante que duró varios segundos y posteriormente, réplicas menores. en ese sentido, se registraron temblores en áreas cercanas de magnitud 5,8, o tras comprendidas entre 2,5 y 4,2. tras el movimiento telúrico, fue suspendido el servicio de trenes a través del transbay tube submarino, por lo que el servicio de transporte del área de la bahía ha sufrido un importante atraso.",
+    "tokens": [
+      "servicio",
+      "geológico",
+      "unidos",
+      "(",
+      "usgs",
+      ",",
+      "siglas",
+      "inglés",
+      ")",
+      "registró",
+      "terremoto",
+      "magnitud",
+      "7,0",
+      "perceptible",
+      "norte",
+      "california",
+      ",",
+      "concretamente",
+      "condado",
+      "humboldt",
+      ",",
+      "tras",
+      "emitió",
+      "alerta",
+      "tsunami",
+      ",",
+      "posteriormente",
+      "cancelada",
+      ".",
+      "centro",
+      "nacional",
+      "alerta",
+      "tsunamis",
+      "unidos",
+      "(",
+      "ee.uu.",
+      ")",
+      "confirmó",
+      "canceló",
+      "alerta",
+      "tusnami",
+      ",",
+      "dado",
+      "regiones",
+      "costa",
+      "california",
+      ",",
+      "oregón",
+      "sur",
+      "san",
+      "francisco",
+      ".",
+      "acuerdo",
+      "usgs",
+      ",",
+      "cerca",
+      "5,3",
+      "millones",
+      "personas",
+      "california",
+      "bajo",
+      "alerta",
+      "tsunami",
+      ",",
+      "estima",
+      "1,3",
+      "millones",
+      "personas",
+      "localizaban",
+      "suficientemente",
+      "cerca",
+      "área",
+      "ocurrió",
+      "terremoto",
+      "haberlo",
+      ".",
+      "terremoto",
+      "ocurrió",
+      "10h44",
+      "(",
+      "hora",
+      "local",
+      ")",
+      "primer",
+      "reporte",
+      "ente",
+      ",",
+      "dijo",
+      "magnitud",
+      "6,6.",
+      "aunque",
+      "informado",
+      "posibles",
+      "daños",
+      ",",
+      "residentes",
+      "costa",
+      "oeste",
+      ",",
+      "norte",
+      "california",
+      "sur",
+      "san",
+      "francisco",
+      ",",
+      "sintieron",
+      "movimiento",
+      "ondulante",
+      "duró",
+      "varios",
+      "segundos",
+      "posteriormente",
+      ",",
+      "réplicas",
+      "menores",
+      ".",
+      ",",
+      "registraron",
+      "temblores",
+      "áreas",
+      "cercanas",
+      "magnitud",
+      "5,8",
+      ",",
+      "tras",
+      "comprendidas",
+      "2,5",
+      "4,2.",
+      "tras",
+      "movimiento",
+      "telúrico",
+      ",",
+      "suspendido",
+      "servicio",
+      "trenes",
+      "través",
+      "transbay",
+      "tube",
+      "submarino",
+      ",",
+      "servicio",
+      "transporte",
+      "área",
+      "bahía",
+      "sufrido",
+      "importante",
+      "atraso",
+      "."
+    ],
+    "token_count": 148,
+    "sentence_count": 7
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 34,
+      "IN": 13,
+      "FW": 64,
+      "VBD": 3,
+      "NN": 72,
+      "JJ": 15,
+      "CD": 8,
+      "NNS": 9,
+      "VBP": 6,
+      "DT": 1,
+      "VBZ": 1,
+      "RB": 1
+    },
+    "bigram_freq": {
+      "NNP-NNP": 13,
+      "NNP-IN": 1,
+      "IN-FW": 8,
+      "FW-NNP": 11,
+      "NNP-VBD": 2,
+      "VBD-FW": 1,
+      "FW-NN": 6,
+      "NN-NN": 42,
+      "NN-JJ": 5,
+      "JJ-NN": 10,
+      "NN-IN": 8,
+      "FW-CD": 3,
+      "CD-JJ": 2,
+      "JJ-FW": 1,
+      "FW-FW": 43,
+      "NNP-NN": 10,
+      "NN-FW": 7,
+      "NNP-NNS": 1,
+      "NNS-VBP": 4,
+      "VBP-JJ": 4,
+      "IN-NN": 1,
+      "NN-VBP": 1,
+      "VBP-NN": 1,
+      "NN-NNP": 3,
+      "NNP-FW": 4,
+      "JJ-NNS": 2,
+      "NNS-IN": 4,
+      "VBD-NN": 1,
+      "IN-NNP": 2,
+      "IN-CD": 2,
+      "CD-NNS": 3,
+      "NNP-VBP": 1,
+      "NN-VBD": 1,
+      "VBD-CD": 1,
+      "JJ-JJ": 1,
+      "CD-NNP": 2,
+      "NNP-DT": 1,
+      "DT-NN": 1,
+      "NN-NNS": 3,
+      "FW-JJ": 1,
+      "NNS-NNP": 1,
+      "NNP-JJ": 1,
+      "NN-VBZ": 1,
+      "VBZ-JJ": 1,
+      "JJ-NNP": 1,
+      "VBP-RB": 1,
+      "RB-CD": 1,
+      "CD-CD": 1
+    },
+    "trigram_freq": {
+      "NNP-NNP-NNP": 5,
+      "NNP-NNP-IN": 1,
+      "NNP-IN-FW": 1,
+      "IN-FW-NNP": 1,
+      "FW-NNP-NNP": 4,
+      "NNP-NNP-VBD": 2,
+      "NNP-VBD-FW": 1,
+      "VBD-FW-NN": 1,
+      "FW-NN-NN": 5,
+      "NN-NN-JJ": 4,
+      "NN-JJ-NN": 4,
+      "JJ-NN-IN": 3,
+      "NN-IN-FW": 3,
+      "IN-FW-CD": 2,
+      "FW-CD-JJ": 1,
+      "CD-JJ-FW": 1,
+      "JJ-FW-FW": 1,
+      "FW-FW-FW": 33,
+      "FW-FW-NNP": 7,
+      "FW-NNP-NN": 3,
+      "NNP-NN-FW": 1,
+      "NN-FW-FW": 5,
+      "FW-NNP-NNS": 1,
+      "NNP-NNS-VBP": 1,
+      "NNS-VBP-JJ": 3,
+      "VBP-JJ-NN": 3,
+      "JJ-NN-NN": 5,
+      "NN-IN-NN": 1,
+      "IN-NN-NN": 1,
+      "NN-NN-NN": 23,
+      "NN-NN-VBP": 1,
+      "NN-VBP-NN": 1,
+      "VBP-NN-NNP": 1,
+      "NN-NNP-NNP": 1,
+      "NNP-NNP-FW": 2,
+      "NNP-FW-NNP": 3,
+      "FW-NNP-FW": 2,
+      "NNP-NNP-NN": 3,
+      "NNP-NN-NN": 7,
+      "NN-NN-FW": 5,
+      "NN-FW-NN": 2,
+      "FW-NN-FW": 1,
+      "FW-FW-NN": 2,
+      "NN-JJ-NNS": 1,
+      "JJ-NNS-IN": 2,
+      "NNS-IN-FW": 4,
+      "IN-FW-FW": 4,
+      "NNP-VBD-NN": 1,
+      "VBD-NN-IN": 1,
+      "NN-IN-NNP": 2,
+      "IN-NNP-NNP": 2,
+      "NNP-FW-NN": 1,
+      "NN-NN-NNP": 2,
+      "NN-NNP-NN": 2,
+      "NNP-NN-IN": 2,
+      "NN-IN-CD": 2,
+      "IN-CD-NNS": 1,
+      "CD-NNS-IN": 2,
+      "FW-NNP-VBP": 1,
+      "NNP-VBP-JJ": 1,
+      "FW-FW-CD": 1,
+      "FW-CD-NNS": 2,
+      "NN-NN-VBD": 1,
+      "NN-VBD-CD": 1,
+      "VBD-CD-JJ": 1,
+      "CD-JJ-JJ": 1,
+      "JJ-JJ-NN": 1,
+      "JJ-NN-JJ": 1,
+      "NN-NN-IN": 2,
+      "IN-CD-NNP": 1,
+      "CD-NNP-DT": 1,
+      "NNP-DT-NN": 1,
+      "DT-NN-NN": 1,
+      "NN-NN-NNS": 2,
+      "NN-NNS-VBP": 2,
+      "VBP-JJ-NNS": 1,
+      "IN-FW-JJ": 1,
+      "FW-JJ-NN": 1,
+      "JJ-NN-NNS": 1,
+      "NN-NNS-NNP": 1,
+      "NNS-NNP-JJ": 1,
+      "NNP-JJ-NN": 1,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-JJ": 1,
+      "VBZ-JJ-NNP": 1,
+      "JJ-NNP-NN": 1,
+      "CD-NNS-VBP": 1,
+      "NNS-VBP-RB": 1,
+      "VBP-RB-CD": 1,
+      "RB-CD-CD": 1,
+      "CD-CD-NNP": 1,
+      "CD-NNP-NN": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 72,
+        "FW": 64,
+        "NNP": 34,
+        "JJ": 15,
+        "IN": 13
+      },
+      "top_bigrams": {
+        "FW-FW": 43,
+        "NN-NN": 42,
+        "NNP-NNP": 13,
+        "FW-NNP": 11,
+        "JJ-NN": 10
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 33,
+        "NN-NN-NN": 23,
+        "FW-FW-NNP": 7,
+        "NNP-NN-NN": 7,
+        "NNP-NNP-NNP": 5
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 7,
+    "chunk_counts": {
+      "NP": 62,
+      "VP": 9,
+      "PP": 5,
+      "ADJP": 2
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 4,
+        "weight": 0.0471
+      },
+      {
+        "rule": "NP -> ('California', 'NNP')",
+        "frequency": 3,
+        "weight": 0.0353
+      },
+      {
+        "rule": "NP -> ('Estados', 'NNP') ('Unidos', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0235
+      },
+      {
+        "rule": "NP -> ('tsunami', 'NN')",
+        "frequency": 2,
+        "weight": 0.0235
+      },
+      {
+        "rule": "NP -> ('San', 'NNP') ('Francisco', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0235
+      },
+      {
+        "rule": "NP -> ('millones', 'NNS')",
+        "frequency": 2,
+        "weight": 0.0235
+      },
+      {
+        "rule": "NP -> ('y', 'NN')",
+        "frequency": 2,
+        "weight": 0.0235
+      },
+      {
+        "rule": "S -> NP ('de', 'IN') ('los', 'FW') NP ('(', '(') NP (',', ',') VP PP (')', ')') NP NP ('de', 'IN') ('magnitud', 'FW') ('7,0', 'CD') ADJP ('en', 'FW') ('el', 'FW') ('norte', 'FW') ('de', 'FW') NP (',', ',') NP ('en', 'FW') ('el', 'FW') ('condado', 'FW') ('de', 'FW') NP (',', ',') VP PP (',', ',') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0118
+      },
+      {
+        "rule": "NP -> ('El', 'NNP') ('Servicio', 'NNP') ('Geológico', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0118
+      },
+      {
+        "rule": "NP -> ('USGS', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0118
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El Servicio Geológico"
+      },
+      {
+        "label": "NP",
+        "text": "Estados Unidos"
+      },
+      {
+        "label": "NP",
+        "text": "USGS"
+      },
+      {
+        "label": "VP",
+        "text": "siglas"
+      },
+      {
+        "label": "PP",
+        "text": "en inglés"
+      },
+      {
+        "label": "NP",
+        "text": "inglés"
+      },
+      {
+        "label": "NP",
+        "text": "registró"
+      },
+      {
+        "label": "NP",
+        "text": "un terremoto"
+      },
+      {
+        "label": "ADJP",
+        "text": "perceptible"
+      },
+      {
+        "label": "NP",
+        "text": "California"
+      },
+      {
+        "label": "NP",
+        "text": "concretamente"
+      },
+      {
+        "label": "NP",
+        "text": "Humboldt"
+      },
+      {
+        "label": "VP",
+        "text": "tras lo cual se emitió una alerta"
+      },
+      {
+        "label": "NP",
+        "text": "lo cual se emitió"
+      },
+      {
+        "label": "NP",
+        "text": "una alerta"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP El/NNP Servicio/NNP Geológico/NNP)\n  de/IN\n  los/FW\n  (NP Estados/NNP Unidos/NNP)\n  (/(\n  (NP USGS/NNP)\n  ,/,\n  (VP siglas/VBD)\n  (PP en/IN (NP inglés/NN))\n  )/)\n  (NP registró/NN)\n  (NP un/JJ terremoto/NN)\n  de/IN\n  magnitud/FW\n  7,0/CD\n  (ADJP perceptible/JJ)\n  en/FW\n  el/FW\n  norte/FW\n  de/FW\n  (NP California/NNP)\n  ,/,\n  (NP concretamente/NN)\n  en/FW\n  el/FW\n  condado/FW\n  de/FW\n  (NP Humboldt/NNP)\n  ,/,\n  (VP\n    tras/VBZ\n    (NP lo/JJ cual/JJ se/NN emitió/NN)\n    (NP una/JJ alerta/NN))\n  (PP de/IN (NP tsunami/NN))\n  ,/,\n  (NP que/JJ posteriormente/NN fue/NN cancelada/NN)\n  ./.)",
+      "(S\n  (NP El/NNP Centro/NNP Nacional/NNP)\n  de/FW\n  (NP Alerta/NNP)\n  de/FW\n  (NP Tsunamis/NNP)\n  en/FW\n  (NP Estados/NNP Unidos/NNP)\n  (/(\n  (NP EE.UU./NNP)\n  )/)\n  (NP confirmó/NN que/NN)\n  se/FW\n  (NP canceló/NN)\n  la/FW\n  alerta/FW\n  de/FW\n  tusnami/FW\n  ,/,\n  que/FW\n  se/FW\n  (NP había/NN dado/NN para/NN)\n  (NP las/JJ regiones/NNS)\n  de/IN\n  la/FW\n  costa/FW\n  de/FW\n  (NP California/NNP)\n  ,/,\n  (NP Oregón/NNP y/NNP)\n  el/FW\n  (NP sur/NN)\n  (PP de/IN (NP San/NNP Francisco/NNP))\n  ./.)",
+      "(S\n  (NP De/NNP)\n  acuerdo/FW\n  (NP con/NN el/NN USGS/NNP)\n  ,/,\n  (NP cerca/NN)\n  de/FW\n  5,3/CD\n  (NP millones/NNS)\n  de/IN\n  personas/FW\n  en/FW\n  (NP California/NNP)\n  (VP estaban/VBP (NP bajo/JJ alerta/NN))\n  (PP de/IN (NP tsunami/NN))\n  ,/,\n  y/FW\n  se/FW\n  estima/FW\n  que/FW\n  más/FW\n  de/FW\n  1,3/CD\n  (NP millones/NNS)\n  de/IN\n  personas/FW\n  se/FW\n  localizaban/FW\n  lo/FW\n  suficientemente/FW\n  cerca/FW\n  del/FW\n  área/FW\n  donde/FW\n  ocurrió/FW\n  el/FW\n  (NP terremoto/NN como/NN para/NN haberlo/NN sentido/NN)\n  ./.)",
+      "(S\n  (NP El/NNP terremoto/NN)\n  (VP ocurrió/VBZ)\n  a/DT\n  (ADJP las/JJ)\n  10H44/CD\n  (/(\n  (VP hora/VB local/JJ)\n  )/)\n  (NP y/NN)\n  en/FW\n  (NP un/JJ primer/NN reporte/NN del/NN ente/NN)\n  ,/,\n  se/FW\n  (NP dijo/NN que/NN su/NN magnitud/NN era/NN)\n  de/IN\n  6,6/CD\n  ./.)",
+      "(S\n  (NP Aunque/NNP)\n  (NP no/DT se/NN ha/NN informado/NN sobre/NN posibles/NNS)\n  (VP daños/VBP)\n  ,/,\n  (NP los/JJ residentes/NNS)\n  de/IN\n  la/FW\n  (NP costa/JJ oeste/NN)\n  ,/,\n  (NP desde/NN el/NN)\n  norte/FW\n  de/FW\n  (NP California/NNP hasta/NN el/NN sur/NN)\n  (PP de/IN (NP San/NNP Francisco/NNP))\n  ,/,\n  (NP sintieron/NN)\n  (NP un/JJ movimiento/NN ondulante/NN que/NN duró/NN varios/NNS)\n  (VP segundos/VBP (NP y/JJ posteriormente/NN))\n  ,/,\n  (NP réplicas/NN menores/NNS)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "LEYES_NORMATIVAS",
+      "DESASTRES_ACCIDENTES_EMERGENCIAS",
+      "CANTIDADES_NUMERICAS",
+      "REGIONES_PROVINCIAS",
+      "PAISES",
+      "LOCALIZACIONES_ESPECIFICAS",
+      "RELACIONES_INTERNACIONALES"
+    ],
+    "matches": [
+      {
+        "category": "DESASTRES_ACCIDENTES_EMERGENCIAS",
+        "matched_text": "terremoto de magnitud 7",
+        "position": [
+          81,
+          104
+        ],
+        "start": 81,
+        "end": 104
+      },
+      {
+        "category": "DESASTRES_ACCIDENTES_EMERGENCIAS",
+        "matched_text": "tsunamis en estados unidos (ee.uu.) confirmó que se canceló la alerta",
+        "position": [
+          299,
+          368
+        ],
+        "start": 299,
+        "end": 368
+      },
+      {
+        "category": "RELACIONES_INTERNACIONALES",
+        "matched_text": "acuerdo con el usgs, cerca de 5,3 millones de personas en california estaban bajo alerta de tsunami, y se",
+        "position": [
+          481,
+          586
+        ],
+        "start": 481,
+        "end": 586
+      },
+      {
+        "category": "LEYES_NORMATIVAS",
+        "matched_text": "acuerdo con el usgs, cerca de 5",
+        "position": [
+          481,
+          512
+        ],
+        "start": 481,
+        "end": 512
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "estados unidos",
+        "position": [
+          29,
+          43
+        ],
+        "start": 29,
+        "end": 43
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "área donde",
+        "position": [
+          674,
+          684
+        ],
+        "start": 674,
+        "end": 684
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "centro nacional",
+        "position": [
+          270,
+          285
+        ],
+        "start": 270,
+        "end": 285
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "3 millones",
+        "position": [
+          513,
+          523
+        ],
+        "start": 513,
+        "end": 523
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "más de 1",
+        "position": [
+          598,
+          606
+        ],
+        "start": 598,
+        "end": 606
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "cerca de 5",
+        "position": [
+          502,
+          512
+        ],
+        "start": 502,
+        "end": 512
+      }
+    ],
+    "match_count": 10
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "EE.UU.",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Servicio Geológico de los Estados Unidos",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Centro Nacional de Alerta de Tsunamis",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "San Francisco",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Área de la Bahía",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "USGS",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "condado de Humboldt",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Estados Unidos",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Transbay Tube",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "California",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "tusnami",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Oregón",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Servicio Geológico de los Estados Unidos",
+        "relacion": "REGISTRAR",
+        "objeto": "California"
+      },
+      {
+        "sujeto": "Servicio Geológico de los Estados Unidos",
+        "relacion": "REGISTRAR",
+        "objeto": "condado de Humboldt"
+      },
+      {
+        "sujeto": "USGS",
+        "relacion": "REGISTRAR",
+        "objeto": "California"
+      },
+      {
+        "sujeto": "USGS",
+        "relacion": "REGISTRAR",
+        "objeto": "condado de Humboldt"
+      },
+      {
+        "sujeto": "California",
+        "relacion": "REGISTRAR",
+        "objeto": "condado de Humboldt"
+      },
+      {
+        "sujeto": "Centro Nacional de Alerta de Tsunamis",
+        "relacion": "CONFIRMAR",
+        "objeto": "tusnami"
+      },
+      {
+        "sujeto": "Centro Nacional de Alerta de Tsunamis",
+        "relacion": "CONFIRMAR",
+        "objeto": "California"
+      },
+      {
+        "sujeto": "Centro Nacional de Alerta de Tsunamis",
+        "relacion": "CONFIRMAR",
+        "objeto": "Oregón"
+      },
+      {
+        "sujeto": "Centro Nacional de Alerta de Tsunamis",
+        "relacion": "CONFIRMAR",
+        "objeto": "San Francisco"
+      },
+      {
+        "sujeto": "Estados Unidos",
+        "relacion": "CONFIRMAR",
+        "objeto": "tusnami"
+      },
+      {
+        "sujeto": "Estados Unidos",
+        "relacion": "CONFIRMAR",
+        "objeto": "California"
+      },
+      {
+        "sujeto": "Estados Unidos",
+        "relacion": "CONFIRMAR",
+        "objeto": "Oregón"
+      },
+      {
+        "sujeto": "Estados Unidos",
+        "relacion": "CONFIRMAR",
+        "objeto": "San Francisco"
+      },
+      {
+        "sujeto": "EE.UU.",
+        "relacion": "CONFIRMAR",
+        "objeto": "tusnami"
+      },
+      {
+        "sujeto": "EE.UU.",
+        "relacion": "CONFIRMAR",
+        "objeto": "California"
+      },
+      {
+        "sujeto": "EE.UU.",
+        "relacion": "CONFIRMAR",
+        "objeto": "Oregón"
+      },
+      {
+        "sujeto": "EE.UU.",
+        "relacion": "CONFIRMAR",
+        "objeto": "San Francisco"
+      },
+      {
+        "sujeto": "Transbay Tube",
+        "relacion": "SUSPENDER",
+        "objeto": "Área de la Bahía"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.3818,
+    "pos": 0.021,
+    "neu": 0.97,
+    "neg": 0.01,
+    "label": "positive"
+  }
+}

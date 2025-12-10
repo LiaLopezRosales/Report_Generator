@@ -1,0 +1,827 @@
+{
+  "url": "https://www.telesurtv.net/venezuela-denuncia-a-agencia-ap-como-instrumento-desestabilizador-regional/",
+  "title": "Venezuela denuncia a agencia AP como instrumento desestabilizador regional - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "Agencia AP",
+    "Consejo Nacional Electoral",
+    "Elecciones presidenciales 2024",
+    "Elecciones Venezuela",
+    "Golpe de Estado"
+  ],
+  "text": "El canciller de la República Bolivariana de Venezuela, Yván Gil, denunció hoy el papel que intenta asumir la agencia de noticias estadounidense Asociated Press, como parte de la campaña liderada por la ultraderecha para desconocer los resultados electorales oficiales de los comicios del domingo pasado.\n\nCon un mensaje publicado en su cuenta de la red digital X, el jefe de la diplomacia venezolana calificó a AP como un instrumento para promover desestabilización en la región.\n\n“Ahora asume un estrafalario papel en el Golpe de Estado: ser el ‘CNE’ validador de la estafa y bufonada más grande conocida en la historia política de Venezuela. ¡Payasos!”, escribió el titular de Relaciones Exteriores en referencia a una publicación del medio de comunicación.\n\n\nPor su parte, el ministro de Comunicación e Información, Freddy Ñañez, también criticó la actitud de AP, en su afán por atribuirse las responsabilidades del Consejo Nacional Electoral en la nación suramericana.\nAl respecto, ratificó que esta postura responde a “la caricatura de país que la ultraderecha pretende vender en donde no existe la soberanía, las instituciones y las leyes”.\nPrevio a estas declaraciones, el presidente de la Asamblea Nacional, Jorge Rodríguez, presentó la víspera pruebas del fraude que adelanta la extrema derecha utilizando como argumento actas forjadas.\nEn conferencia de prensa ofrecida por el presidente Nicolás Maduro en el Palacio de Miraflores, el diputado informó que el dominio del portal www.resultadospresidencialesvenezuela2024.com se alquiló un día antes de los comicios. Esto explica la actitud de Edmundo González y su equipo al no reconocer los boletines emitidos por el CNE.\nAsimismo, Jorge Rodríguez dio a conocer los resultados de la revisión de datos publicados en el sitio web. Luego del análisis, detectaron 9.468 actas, sin firma del operador de la máquina, ni de los miembros de mesas o testigos.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/venezuela-denuncia-a-agencia-ap-como-instrumento-desestabilizador-regional/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-08.json",
+    "message_index": 1539,
+    "message_id": 73936,
+    "date": "2024-08-03T23:55:51+00:00",
+    "text": "teleSUR\nVenezuela denuncia a agencia AP como instrumento desestabilizador regional\nhttps://www.telesurtv.net/venezuela-denuncia-a-agencia-ap-como-instrumento-desestabilizador-regional/",
+    "photo_path": null,
+    "views": 2247,
+    "reactions": {},
+    "total_reactions": 0
+  },
+  "preprocessing": {
+    "cleaned": "el canciller de la república bolivariana de venezuela, yván gil, denunció hoy el papel que intenta asumir la agencia de noticias estadounidense asociated press, como parte de la campaña liderada por la ultraderecha para desconocer los resultados electorales oficiales de los comicios del domingo pasado. con un mensaje publicado en su cuenta de la red digital x, el jefe de la diplomacia venezolana calificó a ap como un instrumento para promover desestabilización en la región. “ahora asume un estrafalario papel en el golpe de estado: ser el ‘cne’ validador de la estafa y bufonada más grande conocida en la historia política de venezuela. ¡payasos!”, escribió el titular de relaciones exteriores en referencia a una publicación del medio de comunicación. por su parte, el ministro de comunicación e información, freddy ñañez, también criticó la actitud de ap, en su afán por atribuirse las responsabilidades del consejo nacional electoral en la nación suramericana. al respecto, ratificó que esta postura responde a “la caricatura de país que la ultraderecha pretende vender en donde no existe la soberanía, las instituciones y las leyes”. previo a estas declaraciones, el presidente de la asamblea nacional, jorge rodríguez, presentó la víspera pruebas del fraude que adelanta la extrema derecha utilizando como argumento actas forjadas. en conferencia de prensa ofrecida por el presidente nicolás maduro en el palacio de miraflores, el diputado informó que el dominio del portal www.resultadospresidencialesvenezuela2024.com se alquiló un día antes de los comicios. esto explica la actitud de edmundo gonzález y su equipo al no reconocer los boletines emitidos por el cne. asimismo, jorge rodríguez dio a conocer los resultados de la revisión de datos publicados en el sitio web. luego del análisis, detectaron 9.468 actas, sin firma del operador de la máquina, ni de los miembros de mesas o testigos.",
+    "tokens": [
+      "canciller",
+      "república",
+      "bolivariana",
+      "venezuela",
+      ",",
+      "yván",
+      "gil",
+      ",",
+      "denunció",
+      "hoy",
+      "papel",
+      "intenta",
+      "asumir",
+      "agencia",
+      "noticias",
+      "estadounidense",
+      "asociated",
+      "press",
+      ",",
+      "parte",
+      "campaña",
+      "liderada",
+      "ultraderecha",
+      "desconocer",
+      "resultados",
+      "electorales",
+      "oficiales",
+      "comicios",
+      "domingo",
+      "pasado",
+      ".",
+      "mensaje",
+      "publicado",
+      "cuenta",
+      "red",
+      "digital",
+      "x",
+      ",",
+      "jefe",
+      "diplomacia",
+      "venezolana",
+      "calificó",
+      "ap",
+      "instrumento",
+      "promover",
+      "desestabilización",
+      "región",
+      ".",
+      "“",
+      "ahora",
+      "asume",
+      "estrafalario",
+      "papel",
+      "golpe",
+      ":",
+      "ser",
+      "‘",
+      "cne",
+      "’",
+      "validador",
+      "estafa",
+      "bufonada",
+      "grande",
+      "conocida",
+      "historia",
+      "política",
+      "venezuela",
+      ".",
+      "¡payasos",
+      "!",
+      "”",
+      ",",
+      "escribió",
+      "titular",
+      "relaciones",
+      "exteriores",
+      "referencia",
+      "publicación",
+      "medio",
+      "comunicación",
+      ".",
+      "parte",
+      ",",
+      "ministro",
+      "comunicación",
+      "información",
+      ",",
+      "freddy",
+      "ñañez",
+      ",",
+      "criticó",
+      "actitud",
+      "ap",
+      ",",
+      "afán",
+      "atribuirse",
+      "responsabilidades",
+      "consejo",
+      "nacional",
+      "electoral",
+      "nación",
+      "suramericana",
+      ".",
+      "respecto",
+      ",",
+      "ratificó",
+      "postura",
+      "responde",
+      "“",
+      "caricatura",
+      "país",
+      "ultraderecha",
+      "pretende",
+      "vender",
+      "existe",
+      "soberanía",
+      ",",
+      "instituciones",
+      "leyes",
+      "”",
+      ".",
+      "previo",
+      "declaraciones",
+      ",",
+      "presidente",
+      "asamblea",
+      "nacional",
+      ",",
+      "jorge",
+      "rodríguez",
+      ",",
+      "presentó",
+      "víspera",
+      "pruebas",
+      "fraude",
+      "adelanta",
+      "extrema",
+      "derecha",
+      "utilizando",
+      "argumento",
+      "actas",
+      "forjadas",
+      ".",
+      "conferencia",
+      "prensa",
+      "ofrecida",
+      "presidente",
+      "nicolás",
+      "maduro",
+      "palacio",
+      "miraflores",
+      ",",
+      "diputado",
+      "informó",
+      "dominio",
+      "portal",
+      "www.resultadospresidencialesvenezuela2024.com",
+      "alquiló",
+      "día",
+      "comicios",
+      ".",
+      "explica",
+      "actitud",
+      "edmundo",
+      "gonzález",
+      "equipo",
+      "reconocer",
+      "boletines",
+      "emitidos",
+      "cne",
+      ".",
+      "asimismo",
+      ",",
+      "jorge",
+      "rodríguez",
+      "dio",
+      "conocer",
+      "resultados",
+      "revisión",
+      "datos",
+      "publicados",
+      "sitio",
+      "web",
+      ".",
+      "luego",
+      "análisis",
+      ",",
+      "detectaron",
+      "9.468",
+      "actas",
+      ",",
+      "firma",
+      "operador",
+      "máquina",
+      ",",
+      "miembros",
+      "mesas",
+      "testigos",
+      "."
+    ],
+    "token_count": 199,
+    "sentence_count": 11
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 46,
+      "NN": 96,
+      "IN": 17,
+      "FW": 79,
+      "JJ": 22,
+      "NNS": 9,
+      "VBZ": 5,
+      "VBP": 5,
+      "DT": 2,
+      "RB": 2,
+      "RBR": 1,
+      "VBD": 1,
+      "CD": 1
+    },
+    "bigram_freq": {
+      "NNP-NN": 12,
+      "NN-IN": 15,
+      "IN-FW": 13,
+      "FW-NNP": 16,
+      "NNP-NNP": 19,
+      "NNP-FW": 9,
+      "NN-NN": 54,
+      "NN-FW": 8,
+      "FW-FW": 45,
+      "FW-NN": 11,
+      "FW-JJ": 4,
+      "JJ-NN": 16,
+      "NN-NNS": 2,
+      "NNS-VBZ": 1,
+      "VBZ-IN": 2,
+      "FW-NNS": 3,
+      "NNS-VBP": 3,
+      "VBP-JJ": 3,
+      "NN-NNP": 5,
+      "NNP-JJ": 2,
+      "IN-JJ": 1,
+      "JJ-JJ": 2,
+      "NNP-VBP": 2,
+      "NNP-VBZ": 1,
+      "VBZ-JJ": 2,
+      "IN-NNP": 1,
+      "NN-JJ": 5,
+      "NN-VBZ": 3,
+      "JJ-NNP": 1,
+      "JJ-FW": 2,
+      "IN-NN": 1,
+      "NN-DT": 2,
+      "DT-NN": 2,
+      "NN-RB": 1,
+      "RB-JJ": 1,
+      "NNS-RBR": 1,
+      "RBR-RB": 1,
+      "RB-NNP": 1,
+      "JJ-NNS": 1,
+      "VBP-FW": 1,
+      "IN-NNS": 1,
+      "VBP-NNP": 1,
+      "NNS-NNP": 1,
+      "NNP-VBD": 1,
+      "VBD-JJ": 1,
+      "VBZ-NNS": 1,
+      "NNS-FW": 1,
+      "NN-CD": 1,
+      "CD-NNS": 1,
+      "NNS-JJ": 1
+    },
+    "trigram_freq": {
+      "NNP-NN-IN": 2,
+      "NN-IN-FW": 11,
+      "IN-FW-NNP": 3,
+      "FW-NNP-NNP": 7,
+      "NNP-NNP-FW": 4,
+      "NNP-FW-NNP": 3,
+      "NNP-NNP-NNP": 8,
+      "NNP-NNP-NN": 5,
+      "NNP-NN-NN": 9,
+      "NN-NN-NN": 31,
+      "NN-NN-FW": 5,
+      "NN-FW-FW": 5,
+      "FW-FW-FW": 30,
+      "FW-FW-NNP": 10,
+      "NN-NN-IN": 9,
+      "IN-FW-FW": 6,
+      "FW-FW-NN": 4,
+      "FW-NN-FW": 2,
+      "NN-FW-JJ": 1,
+      "FW-JJ-NN": 2,
+      "JJ-NN-NN": 8,
+      "NN-NN-NNS": 1,
+      "NN-NNS-VBZ": 1,
+      "NNS-VBZ-IN": 1,
+      "VBZ-IN-FW": 2,
+      "IN-FW-NNS": 2,
+      "FW-NNS-VBP": 1,
+      "NNS-VBP-JJ": 1,
+      "VBP-JJ-NN": 2,
+      "JJ-NN-NNP": 1,
+      "NN-NNP-JJ": 1,
+      "NNP-JJ-NN": 1,
+      "NN-IN-JJ": 1,
+      "IN-JJ-NN": 1,
+      "JJ-NN-IN": 4,
+      "IN-FW-JJ": 2,
+      "FW-JJ-JJ": 1,
+      "JJ-JJ-NN": 2,
+      "FW-NN-NNP": 1,
+      "NN-NNP-NN": 2,
+      "FW-NNP-VBP": 1,
+      "NNP-VBP-JJ": 2,
+      "FW-NNP-FW": 5,
+      "FW-NNP-NN": 3,
+      "NN-NN-NNP": 3,
+      "NNP-NNP-VBZ": 1,
+      "NNP-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 1,
+      "NN-IN-NNP": 1,
+      "IN-NNP-NNP": 1,
+      "NNP-FW-NN": 4,
+      "FW-NN-JJ": 2,
+      "NN-JJ-NN": 5,
+      "FW-NN-NN": 6,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-JJ": 1,
+      "VBZ-JJ-NNP": 1,
+      "JJ-NNP-NNP": 1,
+      "NNP-FW-FW": 2,
+      "FW-JJ-FW": 1,
+      "JJ-FW-JJ": 1,
+      "NN-IN-NN": 1,
+      "IN-NN-DT": 1,
+      "NN-DT-NN": 2,
+      "DT-NN-RB": 1,
+      "NN-RB-JJ": 1,
+      "RB-JJ-NN": 1,
+      "JJ-NN-NNS": 1,
+      "NN-NNS-RBR": 1,
+      "NNS-RBR-RB": 1,
+      "RBR-RB-NNP": 1,
+      "RB-NNP-JJ": 1,
+      "NNP-JJ-NNS": 1,
+      "JJ-NNS-VBP": 1,
+      "NNS-VBP-FW": 1,
+      "VBP-FW-FW": 1,
+      "NN-FW-NN": 2,
+      "NN-IN-NNS": 1,
+      "IN-NNS-VBP": 1,
+      "NNS-VBP-NNP": 1,
+      "VBP-NNP-NN": 1,
+      "NNP-NN-FW": 1,
+      "NN-NNP-NNP": 2,
+      "NN-NN-JJ": 3,
+      "JJ-NN-VBZ": 1,
+      "NN-VBZ-IN": 1,
+      "FW-NNS-NNP": 1,
+      "NNS-NNP-VBP": 1,
+      "VBP-JJ-FW": 1,
+      "JJ-FW-FW": 1,
+      "NNP-NNP-VBD": 1,
+      "NNP-VBD-JJ": 1,
+      "VBD-JJ-NN": 1,
+      "JJ-NN-DT": 1,
+      "DT-NN-VBZ": 1,
+      "NN-VBZ-NNS": 1,
+      "VBZ-NNS-FW": 1,
+      "NNS-FW-NN": 1,
+      "NN-NN-CD": 1,
+      "NN-CD-NNS": 1,
+      "CD-NNS-JJ": 1,
+      "NNS-JJ-JJ": 1,
+      "FW-FW-NNS": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 96,
+        "FW": 79,
+        "NNP": 46,
+        "JJ": 22,
+        "IN": 17
+      },
+      "top_bigrams": {
+        "NN-NN": 54,
+        "FW-FW": 45,
+        "NNP-NNP": 19,
+        "FW-NNP": 16,
+        "JJ-NN": 16
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 31,
+        "FW-FW-FW": 30,
+        "NN-IN-FW": 11,
+        "FW-FW-NNP": 10,
+        "NNP-NN-NN": 9
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 11,
+    "chunk_counts": {
+      "NP": 76,
+      "VP": 14,
+      "PP": 5,
+      "ADJP": 4
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 3,
+        "weight": 0.0273
+      },
+      {
+        "rule": "NP -> ('Venezuela', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0182
+      },
+      {
+        "rule": "NP -> ('comicios', 'NNS')",
+        "frequency": 2,
+        "weight": 0.0182
+      },
+      {
+        "rule": "VP -> ('del', 'VBP') NP",
+        "frequency": 2,
+        "weight": 0.0182
+      },
+      {
+        "rule": "NP -> ('Jorge', 'NNP') ('Rodríguez', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0182
+      },
+      {
+        "rule": "S -> NP ('de', 'IN') ('la', 'FW') NP ('de', 'FW') NP (',', ',') NP (',', ',') NP ('la', 'FW') ('agencia', 'FW') ('de', 'FW') ('noticias', 'FW') ('estadounidense', 'FW') NP (',', ',') NP ('de', 'IN') ('la', 'FW') ('campaña', 'FW') ('liderada', 'FW') NP ('la', 'FW') NP VP ('de', 'IN') ('los', 'FW') NP VP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0091
+      },
+      {
+        "rule": "NP -> ('El', 'NNP') ('canciller', 'NN')",
+        "frequency": 1,
+        "weight": 0.0091
+      },
+      {
+        "rule": "NP -> ('República', 'NNP') ('Bolivariana', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0091
+      },
+      {
+        "rule": "NP -> ('Yván', 'NNP') ('Gil', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0091
+      },
+      {
+        "rule": "NP -> ('denunció', 'NN') ('hoy', 'NN') ('el', 'NN') ('papel', 'NN') ('que', 'NN') ('intenta', 'NN') ('asumir', 'NN')",
+        "frequency": 1,
+        "weight": 0.0091
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El canciller"
+      },
+      {
+        "label": "NP",
+        "text": "República Bolivariana"
+      },
+      {
+        "label": "NP",
+        "text": "Venezuela"
+      },
+      {
+        "label": "NP",
+        "text": "Yván Gil"
+      },
+      {
+        "label": "NP",
+        "text": "denunció hoy el papel que intenta asumir"
+      },
+      {
+        "label": "NP",
+        "text": "Asociated Press"
+      },
+      {
+        "label": "NP",
+        "text": "como parte"
+      },
+      {
+        "label": "NP",
+        "text": "por"
+      },
+      {
+        "label": "NP",
+        "text": "ultraderecha para desconocer los resultados electorales"
+      },
+      {
+        "label": "VP",
+        "text": "oficiales"
+      },
+      {
+        "label": "NP",
+        "text": "comicios"
+      },
+      {
+        "label": "VP",
+        "text": "del domingo pasado"
+      },
+      {
+        "label": "NP",
+        "text": "domingo pasado"
+      },
+      {
+        "label": "NP",
+        "text": "Con"
+      },
+      {
+        "label": "NP",
+        "text": "un mensaje publicado"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP El/NNP canciller/NN)\n  de/IN\n  la/FW\n  (NP República/NNP Bolivariana/NNP)\n  de/FW\n  (NP Venezuela/NNP)\n  ,/,\n  (NP Yván/NNP Gil/NNP)\n  ,/,\n  (NP denunció/NN hoy/NN el/NN papel/NN que/NN intenta/NN asumir/NN)\n  la/FW\n  agencia/FW\n  de/FW\n  noticias/FW\n  estadounidense/FW\n  (NP Asociated/NNP Press/NNP)\n  ,/,\n  (NP como/JJ parte/NN)\n  de/IN\n  la/FW\n  campaña/FW\n  liderada/FW\n  (NP por/NN)\n  la/FW\n  (NP\n    ultraderecha/JJ\n    para/NN\n    desconocer/NN\n    los/NN\n    resultados/NN\n    electorales/NNS)\n  (VP oficiales/VBZ)\n  de/IN\n  los/FW\n  (NP comicios/NNS)\n  (VP del/VBP (NP domingo/JJ pasado/NN))\n  ./.)",
+      "(S\n  (NP Con/NNP)\n  (NP un/JJ mensaje/NN publicado/NN)\n  (PP en/IN (NP su/JJ cuenta/NN))\n  de/IN\n  la/FW\n  (NP red/JJ digital/JJ X/NN)\n  ,/,\n  (NP el/JJ jefe/NN)\n  de/IN\n  la/FW\n  diplomacia/FW\n  venezolana/FW\n  (VP\n    calificó/VBP\n    (NP\n      a/DT\n      AP/NNP\n      como/NN\n      un/NN\n      instrumento/NN\n      para/NN\n      promover/NN\n      desestabilización/NN))\n  (PP en/IN (NP la/NN región/NN))\n  ./.)",
+      "(S\n  (NP “/JJ Ahora/NNP asume/NN un/NN estrafalario/NN papel/NN)\n  en/IN\n  el/FW\n  (NP Golpe/NNP)\n  de/FW\n  (NP Estado/NNP)\n  :/:\n  (NP ser/NN el/NN ‘/NNP CNE/NNP ’/NNP)\n  validador/FW\n  de/FW\n  la/FW\n  estafa/FW\n  y/FW\n  bufonada/FW\n  más/FW\n  grande/FW\n  (NP conocida/NN)\n  en/FW\n  la/FW\n  historia/FW\n  política/FW\n  de/FW\n  (NP Venezuela/NNP)\n  ./.)",
+      "(S\n  (NP ¡Payasos/NN)\n  !/.\n  (NP ”/NN)\n  ,/,\n  (ADJP escribió/JJ)\n  el/FW\n  (ADJP titular/JJ)\n  de/FW\n  (NP Relaciones/NNP Exteriores/NNP)\n  en/FW\n  (VP referencia/VBZ (NP a/DT una/JJ publicación/NN del/NN medio/NN))\n  (PP de/IN (NP comunicación/NN))\n  ./.)",
+      "(S\n  (NP Por/NNP su/NN parte/NN)\n  ,/,\n  el/FW\n  ministro/FW\n  de/FW\n  (NP Comunicación/NNP e/NN Información/NNP)\n  ,/,\n  (NP Freddy/NNP Ñañez/NNP)\n  ,/,\n  (NP también/NN criticó/NN)\n  la/FW\n  actitud/FW\n  de/FW\n  (NP AP/NNP)\n  ,/,\n  en/FW\n  su/FW\n  afán/FW\n  por/FW\n  atribuirse/FW\n  las/FW\n  (NP responsabilidades/NNS)\n  (VP del/VBP (NP Consejo/NNP Nacional/NNP Electoral/NNP))\n  en/FW\n  la/FW\n  nación/FW\n  (NP suramericana/NN)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "GOBIERNOS_OFICIALES",
+      "GRUPOS_ESPECIFICOS",
+      "APROBACION_RECHAZO",
+      "TIEMPO_RELATIVO",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "MEDIOS_COMUNICACION",
+      "ACCIONES_LEGALES",
+      "REGIONES_PROVINCIAS",
+      "PAISES"
+    ],
+    "matches": [
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "resultados electorales oficiales",
+        "position": [
+          235,
+          267
+        ],
+        "start": 235,
+        "end": 267
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "conferencia de prensa",
+        "position": [
+          1349,
+          1370
+        ],
+        "start": 1349,
+        "end": 1370
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "informó",
+        "position": [
+          1454,
+          1461
+        ],
+        "start": 1454,
+        "end": 1461
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente de la",
+        "position": [
+          1180,
+          1196
+        ],
+        "start": 1180,
+        "end": 1196
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "ministro de comunicación e",
+        "position": [
+          779,
+          805
+        ],
+        "start": 779,
+        "end": 805
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "asamblea nacional",
+        "position": [
+          1197,
+          1214
+        ],
+        "start": 1197,
+        "end": 1214
+      },
+      {
+        "category": "GRUPOS_ESPECIFICOS",
+        "matched_text": "extrema derecha",
+        "position": [
+          1288,
+          1303
+        ],
+        "start": 1288,
+        "end": 1303
+      },
+      {
+        "category": "MEDIOS_COMUNICACION",
+        "matched_text": "medio de comunicación",
+        "position": [
+          737,
+          758
+        ],
+        "start": 737,
+        "end": 758
+      },
+      {
+        "category": "APROBACION_RECHAZO",
+        "matched_text": "ratificó",
+        "position": [
+          986,
+          994
+        ],
+        "start": 986,
+        "end": 994
+      },
+      {
+        "category": "APROBACION_RECHAZO",
+        "matched_text": "criticó",
+        "position": [
+          841,
+          848
+        ],
+        "start": 841,
+        "end": 848
+      },
+      {
+        "category": "ACCIONES_LEGALES",
+        "matched_text": "denunció",
+        "position": [
+          65,
+          73
+        ],
+        "start": 65,
+        "end": 73
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "venezuela",
+        "position": [
+          44,
+          53
+        ],
+        "start": 44,
+        "end": 53
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "estado: ser",
+        "position": [
+          531,
+          542
+        ],
+        "start": 531,
+        "end": 542
+      },
+      {
+        "category": "TIEMPO_RELATIVO",
+        "matched_text": "hoy",
+        "position": [
+          74,
+          77
+        ],
+        "start": 74,
+        "end": 77
+      }
+    ],
+    "match_count": 14
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Jorge Rodríguez",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Venezuela",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Nicolás Maduro",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "AP",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Asamblea Nacional",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "CNE",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Consejo Nacional Electoral",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Freddy Ñañez",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Yván Gil",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Asociated Press",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Relaciones Exteriores",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Palacio de Miraflores",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "República Bolivariana de Venezuela",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Comunicación e Información",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Edmundo González",
+        "tipo": "Persona"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "República Bolivariana de Venezuela",
+        "relacion": "DENUNCIAR",
+        "objeto": "Asociated Press"
+      },
+      {
+        "sujeto": "Yván Gil",
+        "relacion": "DENUNCIAR",
+        "objeto": "Asociated Press"
+      },
+      {
+        "sujeto": "Comunicación e Información",
+        "relacion": "CRITICAR",
+        "objeto": "AP"
+      },
+      {
+        "sujeto": "Comunicación e Información",
+        "relacion": "CRITICAR",
+        "objeto": "Consejo Nacional Electoral"
+      },
+      {
+        "sujeto": "Freddy Ñañez",
+        "relacion": "CRITICAR",
+        "objeto": "AP"
+      },
+      {
+        "sujeto": "Freddy Ñañez",
+        "relacion": "CRITICAR",
+        "objeto": "Consejo Nacional Electoral"
+      },
+      {
+        "sujeto": "AP",
+        "relacion": "CRITICAR",
+        "objeto": "Consejo Nacional Electoral"
+      },
+      {
+        "sujeto": "Edmundo González",
+        "relacion": "EXPLICAR",
+        "objeto": "CNE"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.807,
+    "pos": 0.0,
+    "neu": 0.972,
+    "neg": 0.028,
+    "label": "negative"
+  }
+}

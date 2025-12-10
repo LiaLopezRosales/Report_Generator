@@ -1,0 +1,746 @@
+{
+  "url": "https://www.telesurtv.net/protestas-en-valencia-espana-exigen-justicia-social/",
+  "title": "Protestas en Valencia, España, exigen justicia social - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "España",
+    "protestas",
+    "Valencia"
+  ],
+  "text": "Una nueva ola de protestas ha surgido en Valencia, España, convocando a unas 80.000 personas que exigieron este domingo la dimisión del presidente de la Comunidad Valenciana, Carlos Mazón, debido a su deficiente gestión en medio de las inundaciones y otros desastres provocados por las intensas lluvias de hace dos meses.\nHasta la fecha, esta es la tercera manifestación que se lleva a cabo en lo que va del año, organizada por diversas organizaciones cívicas, de izquierda y sociales, tras la muerte de 223 personas durante las devastadoras riadas. Sin embargo, se informa que cuatro personas continúan desaparecidas hasta hoy.\nEste acontecimiento se produce dos meses después de las mortales inundaciones y deslizamientos de tierra que afectaron a toda la región valenciana.\nLa protesta comenzó con la participación de tractores, representando al sector agrícola, que ha sufrido pérdidas significativas en sus cosechas tanto de este año como del siguiente ciclo.\nAdemás, los manifestantes exigieron justicia y reparaciones para las víctimas de Valencia, mientras dirigían insultos a Mazón, llamándolo criminal y asesino.\nLas denuncias en su contra no han prosperado, ya que el Tribunal Superior de Justicia de la región desestimó las acusaciones contra Mazón por su gestión durante las inundaciones, alegando falta de competencia en el asunto.\nEl tribunal indicó que los denunciantes podían solicitar una investigación preliminar ante un juez de instrucción.\nLa actual manifestación, a pesar de reunir a 80 mil participantes, sigue a las anteriores convocatorias, que atrajeron a 130 mil personas el 9 de noviembre y casi 100 mil el 30 del mismo mes, según datos oficiales del Gobierno español.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/protestas-en-valencia-espana-exigen-justicia-social/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-12.json",
+    "message_index": 101,
+    "message_id": 83290,
+    "date": "2024-12-30T11:55:10+00:00",
+    "text": "teleSUR\nProtestas en Valencia, España, exigen justicia social\nhttps://www.telesurtv.net/protestas-en-valencia-espana-exigen-justicia-social/",
+    "photo_path": null,
+    "views": 2607,
+    "reactions": {
+      "👏": 27,
+      "👍": 4,
+      "🔥": 1
+    },
+    "total_reactions": 32
+  },
+  "preprocessing": {
+    "cleaned": "una nueva ola de protestas ha surgido en valencia, españa, convocando a unas 80.000 personas que exigieron este domingo la dimisión del presidente de la comunidad valenciana, carlos mazón, debido a su deficiente gestión en medio de las inundaciones y otros desastres provocados por las intensas lluvias de hace dos meses. hasta la fecha, esta es la tercera manifestación que se lleva a cabo en lo que va del año, organizada por diversas organizaciones cívicas, de izquierda y sociales, tras la muerte de 223 personas durante las devastadoras riadas. sin embargo, se informa que cuatro personas continúan desaparecidas hasta hoy. este acontecimiento se produce dos meses después de las mortales inundaciones y deslizamientos de tierra que afectaron a toda la región valenciana. la protesta comenzó con la participación de tractores, representando al sector agrícola, que ha sufrido pérdidas significativas en sus cosechas tanto de este año como del siguiente ciclo. además, los manifestantes exigieron justicia y reparaciones para las víctimas de valencia, mientras dirigían insultos a mazón, llamándolo criminal y asesino. las denuncias en su contra no han prosperado, ya que el tribunal superior de justicia de la región desestimó las acusaciones contra mazón por su gestión durante las inundaciones, alegando falta de competencia en el asunto. el tribunal indicó que los denunciantes podían solicitar una investigación preliminar ante un juez de instrucción. la actual manifestación, a pesar de reunir a 80 mil participantes, sigue a las anteriores convocatorias, que atrajeron a 130 mil personas el 9 de noviembre y casi 100 mil el 30 del mismo mes, según datos oficiales del gobierno español.",
+    "tokens": [
+      "nueva",
+      "ola",
+      "protestas",
+      "surgido",
+      "valencia",
+      ",",
+      "españa",
+      ",",
+      "convocando",
+      "unas",
+      "80.000",
+      "personas",
+      "exigieron",
+      "domingo",
+      "dimisión",
+      "presidente",
+      "comunidad",
+      "valenciana",
+      ",",
+      "carlos",
+      "mazón",
+      ",",
+      "debido",
+      "deficiente",
+      "gestión",
+      "medio",
+      "inundaciones",
+      "desastres",
+      "provocados",
+      "intensas",
+      "lluvias",
+      "hace",
+      "dos",
+      "meses",
+      ".",
+      "fecha",
+      ",",
+      "tercera",
+      "manifestación",
+      "lleva",
+      "cabo",
+      "va",
+      "año",
+      ",",
+      "organizada",
+      "diversas",
+      "organizaciones",
+      "cívicas",
+      ",",
+      "izquierda",
+      "sociales",
+      ",",
+      "tras",
+      "muerte",
+      "223",
+      "personas",
+      "devastadoras",
+      "riadas",
+      ".",
+      "embargo",
+      ",",
+      "informa",
+      "cuatro",
+      "personas",
+      "continúan",
+      "desaparecidas",
+      "hoy",
+      ".",
+      "acontecimiento",
+      "produce",
+      "dos",
+      "meses",
+      "después",
+      "mortales",
+      "inundaciones",
+      "deslizamientos",
+      "tierra",
+      "afectaron",
+      "toda",
+      "región",
+      "valenciana",
+      ".",
+      "protesta",
+      "comenzó",
+      "participación",
+      "tractores",
+      ",",
+      "representando",
+      "sector",
+      "agrícola",
+      ",",
+      "sufrido",
+      "pérdidas",
+      "significativas",
+      "cosechas",
+      "año",
+      "siguiente",
+      "ciclo",
+      ".",
+      "además",
+      ",",
+      "manifestantes",
+      "exigieron",
+      "justicia",
+      "reparaciones",
+      "víctimas",
+      "valencia",
+      ",",
+      "mientras",
+      "dirigían",
+      "insultos",
+      "mazón",
+      ",",
+      "llamándolo",
+      "criminal",
+      "asesino",
+      ".",
+      "denuncias",
+      "prosperado",
+      ",",
+      "tribunal",
+      "superior",
+      "justicia",
+      "región",
+      "desestimó",
+      "acusaciones",
+      "mazón",
+      "gestión",
+      "inundaciones",
+      ",",
+      "alegando",
+      "falta",
+      "competencia",
+      "asunto",
+      ".",
+      "tribunal",
+      "indicó",
+      "denunciantes",
+      "podían",
+      "solicitar",
+      "investigación",
+      "preliminar",
+      "juez",
+      "instrucción",
+      ".",
+      "actual",
+      "manifestación",
+      ",",
+      "pesar",
+      "reunir",
+      "80",
+      "mil",
+      "participantes",
+      ",",
+      "sigue",
+      "anteriores",
+      "convocatorias",
+      ",",
+      "atrajeron",
+      "130",
+      "mil",
+      "personas",
+      "9",
+      "noviembre",
+      "casi",
+      "100",
+      "mil",
+      "30",
+      "mismo",
+      "mes",
+      ",",
+      "según",
+      "datos",
+      "oficiales",
+      "gobierno",
+      "español",
+      "."
+    ],
+    "token_count": 177,
+    "sentence_count": 9
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 22,
+      "JJ": 22,
+      "NN": 98,
+      "IN": 14,
+      "FW": 40,
+      "VBD": 2,
+      "CD": 6,
+      "NNS": 21,
+      "VBP": 15,
+      "MD": 1,
+      "VB": 1,
+      "VBZ": 5,
+      "DT": 1
+    },
+    "bigram_freq": {
+      "NNP-JJ": 3,
+      "JJ-NN": 14,
+      "NN-IN": 9,
+      "IN-FW": 7,
+      "FW-NN": 7,
+      "NN-NN": 57,
+      "IN-NNP": 2,
+      "NNP-NNP": 5,
+      "NNP-VBD": 1,
+      "VBD-JJ": 1,
+      "JJ-CD": 1,
+      "CD-NNS": 2,
+      "NNS-JJ": 2,
+      "JJ-VBP": 1,
+      "VBP-NN": 3,
+      "NN-FW": 7,
+      "FW-FW": 20,
+      "FW-NNP": 4,
+      "NNP-NN": 8,
+      "IN-NN": 4,
+      "FW-NNS": 5,
+      "NNS-MD": 1,
+      "MD-VB": 1,
+      "VB-JJ": 1,
+      "NN-NNS": 9,
+      "NNS-VBP": 14,
+      "VBP-FW": 1,
+      "NNS-NNP": 1,
+      "IN-JJ": 1,
+      "VBP-IN": 3,
+      "VBP-JJ": 6,
+      "JJ-FW": 2,
+      "FW-CD": 2,
+      "JJ-NNS": 3,
+      "JJ-NNP": 1,
+      "NN-NNP": 5,
+      "NNP-VBZ": 2,
+      "VBZ-JJ": 4,
+      "NNS-NNS": 2,
+      "NNS-IN": 1,
+      "NN-JJ": 3,
+      "FW-JJ": 1,
+      "NNP-FW": 3,
+      "NN-VBZ": 3,
+      "VBZ-DT": 1,
+      "DT-NN": 1,
+      "NN-VBD": 1,
+      "VBD-NNP": 1,
+      "VBP-NNP": 2,
+      "FW-IN": 1,
+      "CD-NN": 4,
+      "NN-CD": 3
+    },
+    "trigram_freq": {
+      "NNP-JJ-NN": 3,
+      "JJ-NN-IN": 2,
+      "NN-IN-FW": 4,
+      "IN-FW-NN": 2,
+      "FW-NN-NN": 3,
+      "NN-NN-IN": 7,
+      "NN-IN-NNP": 1,
+      "IN-NNP-NNP": 1,
+      "NNP-NNP-VBD": 1,
+      "NNP-VBD-JJ": 1,
+      "VBD-JJ-CD": 1,
+      "JJ-CD-NNS": 1,
+      "CD-NNS-JJ": 2,
+      "NNS-JJ-VBP": 1,
+      "JJ-VBP-NN": 1,
+      "VBP-NN-NN": 1,
+      "NN-NN-NN": 36,
+      "NN-NN-FW": 4,
+      "NN-FW-FW": 4,
+      "FW-FW-FW": 12,
+      "FW-FW-NNP": 2,
+      "FW-NNP-NNP": 1,
+      "NNP-NNP-NNP": 2,
+      "NNP-NNP-NN": 1,
+      "NNP-NN-NN": 5,
+      "NN-IN-NN": 3,
+      "IN-NN-FW": 1,
+      "FW-FW-NNS": 2,
+      "FW-NNS-MD": 1,
+      "NNS-MD-VB": 1,
+      "MD-VB-JJ": 1,
+      "VB-JJ-NN": 1,
+      "JJ-NN-NNS": 1,
+      "NN-NNS-VBP": 8,
+      "NNS-VBP-FW": 1,
+      "VBP-FW-FW": 1,
+      "FW-FW-NN": 2,
+      "FW-NN-NNS": 1,
+      "NN-NNS-NNP": 1,
+      "NNS-NNP-NN": 1,
+      "IN-NN-NN": 3,
+      "NN-IN-JJ": 1,
+      "IN-JJ-NN": 1,
+      "JJ-NN-NN": 7,
+      "NN-NN-NNS": 3,
+      "NNS-VBP-IN": 3,
+      "VBP-IN-FW": 3,
+      "IN-FW-NNS": 2,
+      "FW-NNS-VBP": 3,
+      "NNS-VBP-JJ": 6,
+      "VBP-JJ-FW": 2,
+      "JJ-FW-FW": 2,
+      "FW-FW-CD": 1,
+      "FW-CD-NNS": 1,
+      "NNS-JJ-NNS": 1,
+      "JJ-NNS-VBP": 3,
+      "VBP-JJ-NNP": 1,
+      "JJ-NNP-NN": 1,
+      "NN-NN-NNP": 3,
+      "NN-NNP-VBZ": 2,
+      "NNP-VBZ-JJ": 2,
+      "VBZ-JJ-NN": 4,
+      "FW-NNS-NNS": 1,
+      "NNS-NNS-NNS": 1,
+      "NNS-NNS-IN": 1,
+      "NNS-IN-NN": 1,
+      "NN-FW-NN": 2,
+      "FW-NN-NNP": 1,
+      "NN-NNP-NN": 3,
+      "NN-NN-JJ": 2,
+      "NN-JJ-NN": 3,
+      "IN-FW-JJ": 1,
+      "FW-JJ-NN": 1,
+      "NNP-NN-NNS": 1,
+      "NNS-VBP-NN": 2,
+      "VBP-NN-NNS": 1,
+      "FW-NNP-FW": 2,
+      "NNP-FW-NN": 1,
+      "JJ-NN-NNP": 1,
+      "NNP-NN-FW": 1,
+      "FW-NN-VBZ": 1,
+      "NN-VBZ-DT": 1,
+      "VBZ-DT-NN": 1,
+      "DT-NN-VBZ": 1,
+      "NN-VBZ-JJ": 2,
+      "JJ-NN-VBD": 1,
+      "NN-VBD-NNP": 1,
+      "VBD-NNP-NNP": 1,
+      "NNP-NNP-FW": 1,
+      "NNP-FW-NNP": 1,
+      "NNP-FW-FW": 1,
+      "NNS-VBP-NNP": 2,
+      "VBP-NNP-NN": 2,
+      "NN-FW-NNS": 1,
+      "VBP-NN-FW": 1,
+      "FW-FW-IN": 1,
+      "FW-IN-NNP": 1,
+      "IN-NNP-JJ": 1,
+      "NN-NN-VBZ": 1,
+      "JJ-NN-JJ": 1,
+      "IN-FW-NNP": 1,
+      "FW-NNP-JJ": 1,
+      "IN-FW-CD": 1,
+      "FW-CD-NN": 1,
+      "CD-NN-NNS": 2,
+      "VBP-JJ-NNS": 2,
+      "VBP-JJ-NN": 1,
+      "JJ-NN-CD": 1,
+      "NN-CD-NN": 3,
+      "FW-NN-CD": 1,
+      "CD-NN-NN": 2,
+      "NN-NN-CD": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 98,
+        "FW": 40,
+        "NNP": 22,
+        "JJ": 22,
+        "NNS": 21
+      },
+      "top_bigrams": {
+        "NN-NN": 57,
+        "FW-FW": 20,
+        "JJ-NN": 14,
+        "NNS-VBP": 14,
+        "NN-IN": 9
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 36,
+        "FW-FW-FW": 12,
+        "NN-NNS-VBP": 8,
+        "NN-NN-IN": 7,
+        "JJ-NN-NN": 7
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 9,
+    "chunk_counts": {
+      "NP": 71,
+      "PP": 5,
+      "VP": 25,
+      "ADJP": 2
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 4,
+        "weight": 0.0357
+      },
+      {
+        "rule": "NP -> ('Valencia', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0179
+      },
+      {
+        "rule": "NP -> ('personas', 'NNS')",
+        "frequency": 2,
+        "weight": 0.0179
+      },
+      {
+        "rule": "VP -> ('exigieron', 'VBP') NP",
+        "frequency": 2,
+        "weight": 0.0179
+      },
+      {
+        "rule": "NP -> ('que', 'NN')",
+        "frequency": 2,
+        "weight": 0.0179
+      },
+      {
+        "rule": "S -> NP NP ('de', 'IN') ('protestas', 'FW') NP PP (',', ',') NP (',', ',') VP ('a', 'DT') ADJP ('80.000', 'CD') NP ADJP VP ('dimisión', 'FW') ('del', 'FW') ('presidente', 'FW') ('de', 'FW') ('la', 'FW') NP (',', ',') NP (',', ',') VP PP ('de', 'FW') ('las', 'FW') NP ('y', 'CC') NP VP ('lluvias', 'FW') ('de', 'FW') ('hace', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0089
+      },
+      {
+        "rule": "NP -> ('Una', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0089
+      },
+      {
+        "rule": "NP -> ('nueva', 'JJ') ('ola', 'NN')",
+        "frequency": 1,
+        "weight": 0.0089
+      },
+      {
+        "rule": "NP -> ('ha', 'NN') ('surgido', 'NN')",
+        "frequency": 1,
+        "weight": 0.0089
+      },
+      {
+        "rule": "NP -> ('España', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0089
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Una"
+      },
+      {
+        "label": "NP",
+        "text": "nueva ola"
+      },
+      {
+        "label": "NP",
+        "text": "ha surgido"
+      },
+      {
+        "label": "PP",
+        "text": "en Valencia"
+      },
+      {
+        "label": "NP",
+        "text": "Valencia"
+      },
+      {
+        "label": "NP",
+        "text": "España"
+      },
+      {
+        "label": "VP",
+        "text": "convocando"
+      },
+      {
+        "label": "ADJP",
+        "text": "unas"
+      },
+      {
+        "label": "NP",
+        "text": "personas"
+      },
+      {
+        "label": "ADJP",
+        "text": "que"
+      },
+      {
+        "label": "VP",
+        "text": "exigieron este domingo la"
+      },
+      {
+        "label": "NP",
+        "text": "este domingo la"
+      },
+      {
+        "label": "NP",
+        "text": "Comunidad Valenciana"
+      },
+      {
+        "label": "NP",
+        "text": "Carlos Mazón"
+      },
+      {
+        "label": "VP",
+        "text": "debido a su deficiente gestión"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Una/NNP)\n  (NP nueva/JJ ola/NN)\n  de/IN\n  protestas/FW\n  (NP ha/NN surgido/NN)\n  (PP en/IN (NP Valencia/NNP))\n  ,/,\n  (NP España/NNP)\n  ,/,\n  (VP convocando/VBZ)\n  a/DT\n  (ADJP unas/JJ)\n  80.000/CD\n  (NP personas/NNS)\n  (ADJP que/JJ)\n  (VP exigieron/VBP (NP este/NN domingo/NN la/NN))\n  dimisión/FW\n  del/FW\n  presidente/FW\n  de/FW\n  la/FW\n  (NP Comunidad/NNP Valenciana/NNP)\n  ,/,\n  (NP Carlos/NNP Mazón/NNP)\n  ,/,\n  (VP debido/VBZ (NP a/DT su/JJ deficiente/NN gestión/NN))\n  (PP en/IN (NP medio/NN))\n  de/FW\n  las/FW\n  (NP inundaciones/NNS)\n  y/CC\n  (NP otros/JJ desastres/NNS)\n  (VP provocados/VBP (NP por/JJ las/NNS) intensas/JJ)\n  lluvias/FW\n  de/FW\n  hace/FW\n  (NP dos/NN meses/NNS)\n  ./.)",
+      "(S\n  (NP Hasta/NNP la/NN fecha/NN)\n  ,/,\n  (NP esta/JJ es/NN la/NN tercera/NN manifestación/NN que/NN se/NN)\n  (VP lleva/VBZ (NP a/DT cabo/NN))\n  (PP en/IN (NP lo/NN que/NN va/NN del/NN año/NN))\n  ,/,\n  (NP organizada/JJ por/NN diversas/NN organizaciones/NNS cívicas/NN)\n  ,/,\n  de/FW\n  izquierda/FW\n  (NP y/NN sociales/NNS)\n  ,/,\n  (NP tras/NNS)\n  (VP la/VBP)\n  muerte/FW\n  de/FW\n  223/CD\n  (NP personas/NNS)\n  (NP durante/JJ las/NNS)\n  (VP devastadoras/VBP (NP riadas/NNS))\n  ./.)",
+      "(S\n  (NP Sin/NNP embargo/NN)\n  ,/,\n  se/FW\n  (NP\n    informa/JJ\n    que/NN\n    cuatro/NN\n    personas/NN\n    continúan/NN\n    desaparecidas/NN\n    hasta/NN\n    hoy/NN)\n  ./.)",
+      "(S\n  (NP Este/NN acontecimiento/NNS)\n  (VP se/VBP)\n  (VP produce/VBP (NP dos/JJ meses/NNS))\n  (VP después/VBP)\n  de/IN\n  las/FW\n  (NP mortales/NNS inundaciones/NNS)\n  y/RB\n  (VP deslizamientos/VBP)\n  de/FW\n  tierra/FW\n  (NP que/NN)\n  (VP afectaron/VBZ (NP a/DT toda/NN la/NN región/NN valenciana/NN))\n  ./.)",
+      "(S\n  (NP La/NNP protesta/NN comenzó/NN con/NN)\n  la/FW\n  participación/FW\n  de/FW\n  (NP tractores/NNS)\n  ,/,\n  (NP representando/NN al/NN sector/NN agrícola/NN)\n  ,/,\n  (NP que/JJ ha/NN sufrido/NN pérdidas/NN significativas/NN)\n  (PP en/IN (NP sus/NN cosechas/NN tanto/NN))\n  de/IN\n  este/FW\n  (NP año/JJ como/NN del/NN siguiente/NN ciclo/NN)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "GOBIERNOS_OFICIALES",
+      "DESASTRES_ACCIDENTES_EMERGENCIAS",
+      "APROBACION_RECHAZO",
+      "TIEMPO_RELATIVO",
+      "CANTIDADES_NUMERICAS",
+      "ANTIIMPERIALISMO_SOBERANIA",
+      "REGIONES_PROVINCIAS",
+      "PAISES",
+      "PROTESTAS_CONFLICTOS_SOCIALES"
+    ],
+    "matches": [
+      {
+        "category": "PROTESTAS_CONFLICTOS_SOCIALES",
+        "matched_text": "manifestación, a pesar de reunir a 80 mil participantes, sigue a las anteriores convocatorias, que atrajeron a 130 mil personas el 9 de noviembre y casi 100 mil el 30 del mismo mes, según datos oficiales del gobierno",
+        "position": [
+          1471,
+          1687
+        ],
+        "start": 1471,
+        "end": 1687
+      },
+      {
+        "category": "DESASTRES_ACCIDENTES_EMERGENCIAS",
+        "matched_text": "deslizamientos de tierra",
+        "position": [
+          709,
+          733
+        ],
+        "start": 709,
+        "end": 733
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente de la",
+        "position": [
+          136,
+          152
+        ],
+        "start": 136,
+        "end": 152
+      },
+      {
+        "category": "APROBACION_RECHAZO",
+        "matched_text": "desestimó",
+        "position": [
+          1222,
+          1231
+        ],
+        "start": 1222,
+        "end": 1231
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "españa",
+        "position": [
+          51,
+          57
+        ],
+        "start": 51,
+        "end": 57
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "región valenciana",
+        "position": [
+          758,
+          775
+        ],
+        "start": 758,
+        "end": 775
+      },
+      {
+        "category": "TIEMPO_RELATIVO",
+        "matched_text": "hoy",
+        "position": [
+          624,
+          627
+        ],
+        "start": 624,
+        "end": 627
+      },
+      {
+        "category": "ANTIIMPERIALISMO_SOBERANIA",
+        "matched_text": "embargo",
+        "position": [
+          554,
+          561
+        ],
+        "start": 554,
+        "end": 561
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "000 personas",
+        "position": [
+          80,
+          92
+        ],
+        "start": 80,
+        "end": 92
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "80 mil",
+        "position": [
+          1506,
+          1512
+        ],
+        "start": 1506,
+        "end": 1512
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "80.000 personas",
+        "position": [
+          77,
+          92
+        ],
+        "start": 77,
+        "end": 92
+      }
+    ],
+    "match_count": 11
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "España",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Tribunal Superior de Justicia",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Gobierno español",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Valencia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Carlos Mazón",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Mazón",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Comunidad Valenciana",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Valencia",
+        "relacion": "SURGIR",
+        "objeto": "Comunidad Valenciana"
+      },
+      {
+        "sujeto": "Valencia",
+        "relacion": "SURGIR",
+        "objeto": "Carlos Mazón"
+      },
+      {
+        "sujeto": "España",
+        "relacion": "SURGIR",
+        "objeto": "Comunidad Valenciana"
+      },
+      {
+        "sujeto": "España",
+        "relacion": "SURGIR",
+        "objeto": "Carlos Mazón"
+      },
+      {
+        "sujeto": "Valencia",
+        "relacion": "EXIGIR",
+        "objeto": "Mazón"
+      },
+      {
+        "sujeto": "Tribunal Superior de Justicia",
+        "relacion": "DESESTIMAR_PROSPERAR",
+        "objeto": "Mazón"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.2263,
+    "pos": 0.032,
+    "neu": 0.933,
+    "neg": 0.035,
+    "label": "negative"
+  }
+}

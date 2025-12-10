@@ -1,0 +1,623 @@
+{
+  "url": "https://www.telesurtv.net/israel-causa-la-muerte-de-mas-990-trabajadores-sanitarios-en-gaza/",
+  "title": "Más de 990 trabajadores sanitarios mueren en Gaza por ataques israelíes - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Gaza",
+    "ocupación  de Israel",
+    "Palestina"
+  ],
+  "text": "El ministro de Salud de Palestina, Abu Ramadan, denunció este sábado que la cifra de trabajadores médicos muertos en la Franja de Gaza a causa de los ataques israelíes ha superado los 990.\nEl mismo día, Ramadan informó que cinco empleados del Ministerio de Salud fueron asesinados y otros resultaron heridos en un ataque contra los almacenes de la entidad en Musabah, Rafah, con el objetivo de agotar los recursos.El ministro también señaló que los bombardeos israelíes han dejado inoperativas 130 ambulancias y desencadenado una ola de agresiones que ha desestabilizado por completo el sistema de salud en la Cisjordania ocupada.Abu Ramadan enfatizó que los trabajadores de la salud, además de sufrir ataques deliberados, enfrentan una serie de crímenes y violencia por parte de la ocupación israelí.\nTodo ello unido a la posibilidad de que la ayuda humanitaria deje de llegar a Gaza debido al agravamiento del conflicto ensombrece aún más la situación para los civiles en la región.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/israel-causa-la-muerte-de-mas-990-trabajadores-sanitarios-en-gaza/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-09.json",
+    "message_index": 596,
+    "message_id": 76722,
+    "date": "2024-09-22T10:55:13+00:00",
+    "text": "teleSUR\nMás de 990 trabajadores sanitarios mueren en Gaza por ataques israelíes\nhttps://www.telesurtv.net/israel-causa-la-muerte-de-mas-990-trabajadores-sanitarios-en-gaza/",
+    "photo_path": null,
+    "views": 2943,
+    "reactions": {
+      "💔": 51,
+      "🤬": 23,
+      "👎": 5,
+      "😢": 4,
+      "🤮": 2,
+      "👍": 1,
+      "🔥": 1
+    },
+    "total_reactions": 87
+  },
+  "preprocessing": {
+    "cleaned": "el ministro de salud de palestina, abu ramadan, denunció este sábado que la cifra de trabajadores médicos muertos en la franja de gaza a causa de los ataques israelíes ha superado los 990. el mismo día, ramadan informó que cinco empleados del ministerio de salud fueron asesinados y otros resultaron heridos en un ataque contra los almacenes de la entidad en musabah, rafah, con el objetivo de agotar los recursos.el ministro también señaló que los bombardeos israelíes han dejado inoperativas 130 ambulancias y desencadenado una ola de agresiones que ha desestabilizado por completo el sistema de salud en la cisjordania ocupada.abu ramadan enfatizó que los trabajadores de la salud, además de sufrir ataques deliberados, enfrentan una serie de crímenes y violencia por parte de la ocupación israelí. todo ello unido a la posibilidad de que la ayuda humanitaria deje de llegar a gaza debido al agravamiento del conflicto ensombrece aún más la situación para los civiles en la región.",
+    "tokens": [
+      "ministro",
+      "salud",
+      "palestina",
+      ",",
+      "abu",
+      "ramadan",
+      ",",
+      "denunció",
+      "sábado",
+      "cifra",
+      "trabajadores",
+      "médicos",
+      "muertos",
+      "franja",
+      "gaza",
+      "causa",
+      "ataques",
+      "israelíes",
+      "superado",
+      "990.",
+      "mismo",
+      "día",
+      ",",
+      "ramadan",
+      "informó",
+      "cinco",
+      "empleados",
+      "ministerio",
+      "salud",
+      "asesinados",
+      "resultaron",
+      "heridos",
+      "ataque",
+      "almacenes",
+      "entidad",
+      "musabah",
+      ",",
+      "rafah",
+      ",",
+      "objetivo",
+      "agotar",
+      "recursos.el",
+      "ministro",
+      "señaló",
+      "bombardeos",
+      "israelíes",
+      "dejado",
+      "inoperativas",
+      "130",
+      "ambulancias",
+      "desencadenado",
+      "ola",
+      "agresiones",
+      "desestabilizado",
+      "completo",
+      "sistema",
+      "salud",
+      "cisjordania",
+      "ocupada.abu",
+      "ramadan",
+      "enfatizó",
+      "trabajadores",
+      "salud",
+      ",",
+      "además",
+      "sufrir",
+      "ataques",
+      "deliberados",
+      ",",
+      "enfrentan",
+      "serie",
+      "crímenes",
+      "violencia",
+      "parte",
+      "ocupación",
+      "israelí",
+      ".",
+      "ello",
+      "unido",
+      "posibilidad",
+      "ayuda",
+      "humanitaria",
+      "deje",
+      "llegar",
+      "gaza",
+      "debido",
+      "agravamiento",
+      "conflicto",
+      "ensombrece",
+      "aún",
+      "situación",
+      "civiles",
+      "región",
+      "."
+    ],
+    "token_count": 94,
+    "sentence_count": 3
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 17,
+      "NN": 45,
+      "FW": 45,
+      "IN": 10,
+      "NNS": 10,
+      "VBP": 5,
+      "JJ": 15,
+      "VBD": 1,
+      "CD": 2,
+      "VBZ": 1,
+      "MD": 1,
+      "VB": 1
+    },
+    "bigram_freq": {
+      "NNP-NN": 8,
+      "NN-FW": 5,
+      "FW-NNP": 9,
+      "NNP-IN": 1,
+      "IN-NNP": 1,
+      "NNP-NNP": 3,
+      "NN-NN": 25,
+      "FW-FW": 29,
+      "FW-NNS": 3,
+      "NNS-VBP": 5,
+      "VBP-NNS": 1,
+      "NNS-FW": 1,
+      "NNP-FW": 3,
+      "NN-IN": 7,
+      "IN-FW": 5,
+      "VBP-JJ": 2,
+      "JJ-NN": 7,
+      "NN-VBD": 1,
+      "VBD-CD": 1,
+      "CD-NNP": 1,
+      "NN-NNP": 1,
+      "IN-NN": 1,
+      "IN-JJ": 1,
+      "NN-JJ": 3,
+      "JJ-JJ": 4,
+      "JJ-NNS": 2,
+      "NNS-IN": 2,
+      "FW-NN": 3,
+      "NN-VBZ": 1,
+      "VBZ-JJ": 1,
+      "JJ-CD": 1,
+      "CD-JJ": 1,
+      "IN-NNS": 2,
+      "NNS-JJ": 1,
+      "NNP-MD": 1,
+      "MD-NNP": 1,
+      "NNP-VB": 1,
+      "VB-JJ": 1,
+      "NNS-NNS": 1,
+      "VBP-FW": 1,
+      "FW-JJ": 1,
+      "JJ-FW": 1,
+      "NN-NNS": 1,
+      "VBP-NN": 1
+    },
+    "trigram_freq": {
+      "NNP-NN-FW": 1,
+      "NN-FW-NNP": 2,
+      "FW-NNP-IN": 1,
+      "NNP-IN-NNP": 1,
+      "IN-NNP-NNP": 1,
+      "NNP-NNP-NNP": 1,
+      "NNP-NNP-NN": 2,
+      "NNP-NN-NN": 6,
+      "NN-NN-NN": 13,
+      "NN-NN-FW": 4,
+      "NN-FW-FW": 2,
+      "FW-FW-FW": 21,
+      "FW-FW-NNS": 2,
+      "FW-NNS-VBP": 3,
+      "NNS-VBP-NNS": 1,
+      "VBP-NNS-FW": 1,
+      "NNS-FW-FW": 1,
+      "FW-FW-NNP": 5,
+      "FW-NNP-FW": 3,
+      "NNP-FW-NNP": 2,
+      "FW-NNP-NN": 3,
+      "NNP-NN-IN": 1,
+      "NN-IN-FW": 3,
+      "IN-FW-NNS": 1,
+      "NNS-VBP-JJ": 2,
+      "VBP-JJ-NN": 1,
+      "JJ-NN-VBD": 1,
+      "NN-VBD-CD": 1,
+      "VBD-CD-NNP": 1,
+      "CD-NNP-NN": 1,
+      "NN-NN-NNP": 1,
+      "NN-NNP-NN": 1,
+      "NN-NN-IN": 3,
+      "NN-IN-NN": 1,
+      "IN-NN-NN": 1,
+      "NN-IN-JJ": 1,
+      "IN-JJ-NN": 1,
+      "JJ-NN-JJ": 2,
+      "NN-JJ-JJ": 1,
+      "JJ-JJ-NNS": 2,
+      "JJ-NNS-IN": 2,
+      "NNS-IN-FW": 2,
+      "IN-FW-FW": 3,
+      "FW-NNP-NNP": 1,
+      "FW-FW-NN": 1,
+      "FW-NN-NN": 2,
+      "NN-NN-JJ": 1,
+      "NN-JJ-NN": 2,
+      "JJ-NN-NN": 2,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-JJ": 1,
+      "VBZ-JJ-CD": 1,
+      "JJ-CD-JJ": 1,
+      "CD-JJ-NN": 1,
+      "JJ-NN-IN": 2,
+      "NN-IN-NNS": 2,
+      "IN-NNS-JJ": 1,
+      "NNS-JJ-JJ": 1,
+      "JJ-JJ-NN": 2,
+      "NN-FW-NN": 1,
+      "FW-NN-IN": 1,
+      "FW-NNP-MD": 1,
+      "NNP-MD-NNP": 1,
+      "MD-NNP-VB": 1,
+      "NNP-VB-JJ": 1,
+      "VB-JJ-JJ": 1,
+      "VBP-JJ-JJ": 1,
+      "IN-NNS-NNS": 1,
+      "NNS-NNS-VBP": 1,
+      "NNS-VBP-FW": 1,
+      "VBP-FW-FW": 1,
+      "NNP-FW-JJ": 1,
+      "FW-JJ-FW": 1,
+      "JJ-FW-FW": 1,
+      "IN-FW-NN": 1,
+      "NN-NN-NNS": 1,
+      "NN-NNS-VBP": 1,
+      "NNS-VBP-NN": 1,
+      "VBP-NN-NN": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 45,
+        "FW": 45,
+        "NNP": 17,
+        "JJ": 15,
+        "IN": 10
+      },
+      "top_bigrams": {
+        "FW-FW": 29,
+        "NN-NN": 25,
+        "FW-NNP": 9,
+        "NNP-NN": 8,
+        "NN-IN": 7
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 21,
+        "NN-NN-NN": 13,
+        "NNP-NN-NN": 6,
+        "FW-FW-NNP": 5,
+        "NN-NN-FW": 4
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 3,
+    "chunk_counts": {
+      "NP": 41,
+      "PP": 5,
+      "VP": 9
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 3,
+        "weight": 0.0517
+      },
+      {
+        "rule": "NP -> ('ataques', 'NNS')",
+        "frequency": 2,
+        "weight": 0.0345
+      },
+      {
+        "rule": "S -> NP ('de', 'FW') NP PP (',', ',') NP (',', ',') NP ('la', 'FW') ('cifra', 'FW') ('de', 'FW') NP VP ('en', 'FW') ('la', 'FW') NP ('de', 'FW') NP NP ('de', 'IN') ('los', 'FW') NP VP VP ('990', 'CD') ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0172
+      },
+      {
+        "rule": "NP -> ('El', 'NNP') ('ministro', 'NN')",
+        "frequency": 1,
+        "weight": 0.0172
+      },
+      {
+        "rule": "NP -> ('Salud', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0172
+      },
+      {
+        "rule": "NP -> ('Palestina', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0172
+      },
+      {
+        "rule": "NP -> ('Abu', 'NNP') ('Ramadan', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0172
+      },
+      {
+        "rule": "NP -> ('denunció', 'NN') ('este', 'NN') ('sábado', 'NN') ('que', 'NN')",
+        "frequency": 1,
+        "weight": 0.0172
+      },
+      {
+        "rule": "NP -> ('trabajadores', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0172
+      },
+      {
+        "rule": "VP -> ('médicos', 'VBP') NP",
+        "frequency": 1,
+        "weight": 0.0172
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El ministro"
+      },
+      {
+        "label": "NP",
+        "text": "Salud"
+      },
+      {
+        "label": "PP",
+        "text": "de Palestina"
+      },
+      {
+        "label": "NP",
+        "text": "Palestina"
+      },
+      {
+        "label": "NP",
+        "text": "Abu Ramadan"
+      },
+      {
+        "label": "NP",
+        "text": "denunció este sábado que"
+      },
+      {
+        "label": "NP",
+        "text": "trabajadores"
+      },
+      {
+        "label": "VP",
+        "text": "médicos muertos"
+      },
+      {
+        "label": "NP",
+        "text": "muertos"
+      },
+      {
+        "label": "NP",
+        "text": "Franja"
+      },
+      {
+        "label": "NP",
+        "text": "Gaza"
+      },
+      {
+        "label": "NP",
+        "text": "a causa"
+      },
+      {
+        "label": "NP",
+        "text": "ataques"
+      },
+      {
+        "label": "VP",
+        "text": "israelíes ha superado"
+      },
+      {
+        "label": "NP",
+        "text": "ha superado"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP El/NNP ministro/NN)\n  de/FW\n  (NP Salud/NNP)\n  (PP de/IN (NP Palestina/NNP))\n  ,/,\n  (NP Abu/NNP Ramadan/NNP)\n  ,/,\n  (NP denunció/NN este/NN sábado/NN que/NN)\n  la/FW\n  cifra/FW\n  de/FW\n  (NP trabajadores/NNS)\n  (VP médicos/VBP (NP muertos/NNS))\n  en/FW\n  la/FW\n  (NP Franja/NNP)\n  de/FW\n  (NP Gaza/NNP)\n  (NP a/DT causa/NN)\n  de/IN\n  los/FW\n  (NP ataques/NNS)\n  (VP israelíes/VBP (NP ha/JJ superado/NN))\n  (VP los/VBD)\n  990/CD\n  ./.)",
+      "(S\n  (NP El/NNP mismo/NN día/NN)\n  ,/,\n  (NP Ramadan/NNP informó/NN que/NN cinco/NN empleados/NN)\n  del/FW\n  (NP Ministerio/NNP)\n  de/FW\n  (NP Salud/NNP fueron/NN asesinados/NN y/NN)\n  (PP otros/IN (NP resultaron/NN heridos/NN))\n  (PP en/IN (NP un/JJ ataque/NN))\n  (NP contra/JJ los/JJ almacenes/NNS)\n  de/IN\n  la/FW\n  entidad/FW\n  en/FW\n  (NP Musabah/NNP)\n  ,/,\n  (NP Rafah/NNP)\n  ,/,\n  (NP con/NN el/NN)\n  objetivo/FW\n  de/FW\n  agotar/FW\n  los/FW\n  recursos.El/FW\n  ministro/FW\n  (NP también/NN señaló/NN que/NN los/NN)\n  (NP bombardeos/JJ israelíes/NN han/NN)\n  (VP dejado/VBZ inoperativas/JJ)\n  130/CD\n  (NP ambulancias/JJ y/NN desencadenado/NN)\n  (NP una/JJ ola/NN)\n  (PP de/IN (NP agresiones/NNS))\n  (NP que/JJ ha/JJ desestabilizado/NN por/NN completo/NN)\n  el/FW\n  (NP sistema/NN)\n  de/IN\n  salud/FW\n  en/FW\n  la/FW\n  (NP Cisjordania/NNP)\n  ocupada.Abu/MD\n  (NP Ramadan/NNP)\n  (VP enfatizó/VB (NP que/JJ los/JJ trabajadores/NNS))\n  de/IN\n  la/FW\n  salud/FW\n  ,/,\n  además/FW\n  de/FW\n  sufrir/FW\n  (NP ataques/NNS)\n  (VP deliberados/VBP)\n  ,/,\n  (NP enfrentan/JJ una/JJ serie/NN)\n  (PP de/IN (NP crímenes/NNS))\n  y/RB\n  (VP violencia/VBP (NP por/JJ parte/NN))\n  de/IN\n  la/FW\n  ocupación/FW\n  (NP israelí/NN)\n  ./.)",
+      "(S\n  (NP Todo/NNP)\n  (VP ello/VBZ)\n  unido/FW\n  a/DT\n  la/FW\n  posibilidad/FW\n  de/FW\n  que/FW\n  la/FW\n  ayuda/FW\n  humanitaria/FW\n  deje/FW\n  de/FW\n  llegar/FW\n  (NP a/DT Gaza/NNP debido/NN al/NN)\n  agravamiento/IN\n  del/FW\n  (NP\n    conflicto/NN\n    ensombrece/NN\n    aún/NN\n    más/NN\n    la/NN\n    situación/NN\n    para/NN\n    los/NN\n    civiles/NNS)\n  (VP en/VBP (NP la/NN región/NN))\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "GOBIERNOS_OFICIALES",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "ACCIONES_LEGALES",
+      "CRISIS_HUMANITARIA_SERVICIOS",
+      "PAISES",
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "CONFLICTOS_ARMADOS_OPERACIONES"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "conflicto ensombrece aún más la situación para los civiles en la",
+        "position": [
+          912,
+          976
+        ],
+        "start": 912,
+        "end": 976
+      },
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "ataques israelíes",
+        "position": [
+          150,
+          167
+        ],
+        "start": 150,
+        "end": 167
+      },
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "denunció este sábado que la cifra de trabajadores médicos muertos en la franja de gaza a",
+        "position": [
+          48,
+          136
+        ],
+        "start": 48,
+        "end": 136
+      },
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "ocupación",
+        "position": [
+          783,
+          792
+        ],
+        "start": 783,
+        "end": 792
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "señaló",
+        "position": [
+          434,
+          440
+        ],
+        "start": 434,
+        "end": 440
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "informó",
+        "position": [
+          211,
+          218
+        ],
+        "start": 211,
+        "end": 218
+      },
+      {
+        "category": "CRISIS_HUMANITARIA_SERVICIOS",
+        "matched_text": "ayuda humanitaria",
+        "position": [
+          845,
+          862
+        ],
+        "start": 845,
+        "end": 862
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "ministro de salud de",
+        "position": [
+          3,
+          23
+        ],
+        "start": 3,
+        "end": 23
+      },
+      {
+        "category": "ACCIONES_LEGALES",
+        "matched_text": "denunció",
+        "position": [
+          48,
+          56
+        ],
+        "start": 48,
+        "end": 56
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "palestina",
+        "position": [
+          24,
+          33
+        ],
+        "start": 24,
+        "end": 33
+      }
+    ],
+    "match_count": 10
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Franja de Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Ramadan",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Abu Ramadan",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Cisjordania",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Rafah",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Salud de Palestina",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Musabah",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Ministerio de Salud",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Salud de Palestina",
+        "relacion": "DENUNCIAR",
+        "objeto": "Franja de Gaza"
+      },
+      {
+        "sujeto": "Abu Ramadan",
+        "relacion": "DENUNCIAR",
+        "objeto": "Franja de Gaza"
+      },
+      {
+        "sujeto": "Ramadan",
+        "relacion": "INFORMAR",
+        "objeto": "Ministerio de Salud"
+      },
+      {
+        "sujeto": "Ramadan",
+        "relacion": "INFORMAR",
+        "objeto": "Musabah"
+      },
+      {
+        "sujeto": "Ramadan",
+        "relacion": "INFORMAR",
+        "objeto": "Rafah"
+      },
+      {
+        "sujeto": "Ministerio de Salud",
+        "relacion": "ASESINAR_INFORMAR",
+        "objeto": "Musabah"
+      },
+      {
+        "sujeto": "Ministerio de Salud",
+        "relacion": "ASESINAR_INFORMAR",
+        "objeto": "Rafah"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.5859,
+    "pos": 0.031,
+    "neu": 0.969,
+    "neg": 0.0,
+    "label": "positive"
+  }
+}

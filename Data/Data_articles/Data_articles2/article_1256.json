@@ -1,0 +1,602 @@
+{
+  "url": "https://www.telesurtv.net/sismo-magnitud-6-2-estremece-costa-japon/",
+  "title": "Sismo de magnitud 6.2 estremece la costa de Japón - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "6.2",
+    "Costa",
+    "Japón",
+    "magnitud",
+    "Nankai",
+    "Sismo"
+  ],
+  "text": "De acuerdo con el Servicio Geológico de Estados Unidos (USGS), el epicentro del terremoto se situó a una profundidad de 26 kilómetros bajo la plataforma del archipiélago. Hasta ahora, no se ha emitido ninguna alerta de tsunami, a pesar de que las autoridades se mantienen alertas a cualquier posibilidad. Dicho evento sísmico ocurrió a menos de una semana del devastador desastre en Myanmar.\nEs relevante señalar que este terremoto ocurre 24 horas después de que las autoridades de Japón alertaran acerca de la posible ocurrencia de un sismo significativo en la fosa de Nankai, un área reconocida por su alta actividad sísmica y situada en el eje de fuego del Pacífico.\n\n\nPor otro lado, los especialistas señalaron que esta zona sufre sismos considerables en periodos de entre 100 y 150 años. Asimismo, recordaron que el último importante suceso en esta zona tuvo lugar en 1946, lo que incrementa la preocupación acerca de posibles temblores futuros.\nPor su parte, la administración japonesa calcula que un terremoto en la fosa de Nankai podría provocar la muerte de cerca de 298 mil individuos. Igualmente, las autoridades siguen supervisando la actividad sísmica y proporcionarán actualizaciones a medida que se adquiera nueva información.\n",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/sismo-magnitud-6-2-estremece-costa-japon/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-04.json",
+    "message_index": 1914,
+    "message_id": 90894,
+    "date": "2025-04-02T23:55:34+00:00",
+    "text": "teleSUR\nSismo de magnitud 6.2 estremece la costa de Japón\nhttps://www.telesurtv.net/sismo-magnitud-6-2-estremece-costa-japon/",
+    "photo_path": null,
+    "views": 2042,
+    "reactions": {
+      "😱": 22,
+      "😢": 5,
+      "🥰": 1
+    },
+    "total_reactions": 28
+  },
+  "preprocessing": {
+    "cleaned": "de acuerdo con el servicio geológico de estados unidos (usgs), el epicentro del terremoto se situó a una profundidad de 26 kilómetros bajo la plataforma del archipiélago. hasta ahora, no se ha emitido ninguna alerta de tsunami, a pesar de que las autoridades se mantienen alertas a cualquier posibilidad. dicho evento sísmico ocurrió a menos de una semana del devastador desastre en myanmar. es relevante señalar que este terremoto ocurre 24 horas después de que las autoridades de japón alertaran acerca de la posible ocurrencia de un sismo significativo en la fosa de nankai, un área reconocida por su alta actividad sísmica y situada en el eje de fuego del pacífico. por otro lado, los especialistas señalaron que esta zona sufre sismos considerables en periodos de entre 100 y 150 años. asimismo, recordaron que el último importante suceso en esta zona tuvo lugar en 1946, lo que incrementa la preocupación acerca de posibles temblores futuros. por su parte, la administración japonesa calcula que un terremoto en la fosa de nankai podría provocar la muerte de cerca de 298 mil individuos. igualmente, las autoridades siguen supervisando la actividad sísmica y proporcionarán actualizaciones a medida que se adquiera nueva información.",
+    "tokens": [
+      "acuerdo",
+      "servicio",
+      "geológico",
+      "unidos",
+      "(",
+      "usgs",
+      ")",
+      ",",
+      "epicentro",
+      "terremoto",
+      "situó",
+      "profundidad",
+      "26",
+      "kilómetros",
+      "bajo",
+      "plataforma",
+      "archipiélago",
+      ".",
+      "ahora",
+      ",",
+      "emitido",
+      "ninguna",
+      "alerta",
+      "tsunami",
+      ",",
+      "pesar",
+      "autoridades",
+      "mantienen",
+      "alertas",
+      "cualquier",
+      "posibilidad",
+      ".",
+      "dicho",
+      "evento",
+      "sísmico",
+      "ocurrió",
+      "menos",
+      "semana",
+      "devastador",
+      "desastre",
+      "myanmar",
+      ".",
+      "relevante",
+      "señalar",
+      "terremoto",
+      "ocurre",
+      "24",
+      "horas",
+      "después",
+      "autoridades",
+      "japón",
+      "alertaran",
+      "acerca",
+      "posible",
+      "ocurrencia",
+      "sismo",
+      "significativo",
+      "fosa",
+      "nankai",
+      ",",
+      "área",
+      "reconocida",
+      "alta",
+      "actividad",
+      "sísmica",
+      "situada",
+      "eje",
+      "fuego",
+      "pacífico",
+      ".",
+      "lado",
+      ",",
+      "especialistas",
+      "señalaron",
+      "zona",
+      "sufre",
+      "sismos",
+      "considerables",
+      "periodos",
+      "100",
+      "150",
+      "años",
+      ".",
+      "asimismo",
+      ",",
+      "recordaron",
+      "último",
+      "importante",
+      "suceso",
+      "zona",
+      "lugar",
+      "1946",
+      ",",
+      "incrementa",
+      "preocupación",
+      "acerca",
+      "posibles",
+      "temblores",
+      "futuros",
+      ".",
+      "parte",
+      ",",
+      "administración",
+      "japonesa",
+      "calcula",
+      "terremoto",
+      "fosa",
+      "nankai",
+      "podría",
+      "provocar",
+      "muerte",
+      "cerca",
+      "298",
+      "mil",
+      "individuos",
+      ".",
+      "igualmente",
+      ",",
+      "autoridades",
+      "siguen",
+      "supervisando",
+      "actividad",
+      "sísmica",
+      "proporcionarán",
+      "actualizaciones",
+      "medida",
+      "adquiera",
+      "nueva",
+      "información",
+      "."
+    ],
+    "token_count": 130,
+    "sentence_count": 8
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 21,
+      "FW": 56,
+      "NN": 60,
+      "IN": 8,
+      "JJ": 18,
+      "CD": 6,
+      "NNS": 8,
+      "RB": 1,
+      "VBZ": 5,
+      "DT": 1,
+      "VBP": 5,
+      "VBD": 1
+    },
+    "bigram_freq": {
+      "NNP-FW": 2,
+      "FW-NN": 4,
+      "NN-FW": 4,
+      "FW-NNP": 5,
+      "NNP-NNP": 6,
+      "NNP-IN": 1,
+      "IN-NNP": 2,
+      "FW-FW": 41,
+      "NN-JJ": 5,
+      "JJ-NN": 10,
+      "NN-IN": 7,
+      "IN-CD": 2,
+      "CD-NNS": 2,
+      "NNS-JJ": 2,
+      "JJ-FW": 3,
+      "FW-RB": 1,
+      "RB-NNP": 1,
+      "NNP-VBZ": 4,
+      "VBZ-DT": 1,
+      "DT-JJ": 1,
+      "NN-NN": 37,
+      "IN-FW": 3,
+      "FW-NNS": 2,
+      "NNS-VBP": 5,
+      "VBP-JJ": 3,
+      "JJ-NNS": 1,
+      "JJ-NNP": 2,
+      "NNP-NN": 6,
+      "VBZ-JJ": 2,
+      "NN-VBZ": 1,
+      "VBZ-CD": 1,
+      "NNS-FW": 1,
+      "NNP-VBD": 1,
+      "VBD-FW": 1,
+      "FW-JJ": 1,
+      "NNP-JJ": 1,
+      "JJ-JJ": 2,
+      "NN-NNS": 2,
+      "VBP-FW": 1,
+      "FW-CD": 2,
+      "CD-CD": 1,
+      "CD-NN": 3,
+      "NN-NNP": 3,
+      "IN-JJ": 1,
+      "VBP-NNP": 1,
+      "VBZ-NNS": 1
+    },
+    "trigram_freq": {
+      "NNP-FW-NN": 1,
+      "FW-NN-FW": 2,
+      "NN-FW-NNP": 1,
+      "FW-NNP-NNP": 2,
+      "NNP-NNP-IN": 1,
+      "NNP-IN-NNP": 1,
+      "IN-NNP-NNP": 2,
+      "NNP-NNP-NNP": 2,
+      "NNP-NNP-FW": 1,
+      "NNP-FW-FW": 1,
+      "FW-FW-FW": 29,
+      "FW-FW-NN": 2,
+      "NN-FW-NN": 1,
+      "FW-NN-JJ": 1,
+      "NN-JJ-NN": 4,
+      "JJ-NN-IN": 3,
+      "NN-IN-CD": 2,
+      "IN-CD-NNS": 1,
+      "CD-NNS-JJ": 1,
+      "NNS-JJ-FW": 1,
+      "JJ-FW-FW": 3,
+      "FW-FW-RB": 1,
+      "FW-RB-NNP": 1,
+      "RB-NNP-VBZ": 1,
+      "NNP-VBZ-DT": 1,
+      "VBZ-DT-JJ": 1,
+      "DT-JJ-NN": 1,
+      "JJ-NN-NN": 7,
+      "NN-NN-JJ": 4,
+      "NN-IN-FW": 3,
+      "IN-FW-FW": 3,
+      "FW-FW-NNS": 2,
+      "FW-NNS-VBP": 2,
+      "NNS-VBP-JJ": 3,
+      "VBP-JJ-NNS": 1,
+      "JJ-NNS-VBP": 1,
+      "VBP-JJ-NNP": 1,
+      "JJ-NNP-NN": 2,
+      "NNP-NN-NN": 6,
+      "NN-JJ-FW": 1,
+      "FW-NN-NN": 1,
+      "NN-NN-IN": 4,
+      "NN-IN-NNP": 1,
+      "NNP-NNP-VBZ": 2,
+      "NNP-VBZ-JJ": 2,
+      "VBZ-JJ-NN": 1,
+      "NN-NN-NN": 21,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-CD": 1,
+      "VBZ-CD-NNS": 1,
+      "CD-NNS-FW": 1,
+      "NNS-FW-FW": 1,
+      "FW-FW-NNP": 4,
+      "FW-NNP-VBD": 1,
+      "NNP-VBD-FW": 1,
+      "VBD-FW-FW": 1,
+      "FW-FW-JJ": 1,
+      "FW-JJ-FW": 1,
+      "FW-NNP-JJ": 1,
+      "NNP-JJ-NNP": 1,
+      "VBZ-JJ-JJ": 1,
+      "JJ-JJ-NN": 2,
+      "NN-NN-NNS": 2,
+      "NN-NNS-VBP": 2,
+      "NNS-VBP-FW": 1,
+      "VBP-FW-FW": 1,
+      "FW-FW-CD": 2,
+      "FW-CD-CD": 1,
+      "CD-CD-NN": 1,
+      "CD-NN-NNP": 1,
+      "NN-NNP-NN": 2,
+      "NN-NN-NNP": 2,
+      "NN-IN-JJ": 1,
+      "IN-JJ-NN": 1,
+      "IN-CD-NN": 1,
+      "CD-NN-NN": 2,
+      "NN-NN-FW": 2,
+      "NN-FW-FW": 2,
+      "NNS-VBP-NNP": 1,
+      "VBP-NNP-NN": 1,
+      "FW-NNP-NN": 1,
+      "FW-CD-NN": 1,
+      "NN-NNP-VBZ": 1,
+      "NNP-VBZ-NNS": 1,
+      "VBZ-NNS-JJ": 1,
+      "NNS-JJ-JJ": 1,
+      "VBP-JJ-NN": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 60,
+        "FW": 56,
+        "NNP": 21,
+        "JJ": 18,
+        "IN": 8
+      },
+      "top_bigrams": {
+        "FW-FW": 41,
+        "NN-NN": 37,
+        "JJ-NN": 10,
+        "NN-IN": 7,
+        "NNP-NNP": 6
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 29,
+        "NN-NN-NN": 21,
+        "JJ-NN-NN": 7,
+        "NNP-NN-NN": 6,
+        "NN-JJ-NN": 4
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 8,
+    "chunk_counts": {
+      "NP": 45,
+      "PP": 6,
+      "ADJP": 3,
+      "VP": 12
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 3,
+        "weight": 0.0405
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.027
+      },
+      {
+        "rule": "S -> NP ('acuerdo', 'FW') NP ('el', 'FW') NP PP ('(', '(') NP (')', ')') (',', ',') ADJP ('epicentro', 'FW') ('del', 'FW') NP ('se', 'FW') VP ('de', 'IN') ('26', 'CD') NP ADJP ('la', 'FW') ('plataforma', 'FW') ('del', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0135
+      },
+      {
+        "rule": "NP -> ('De', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0135
+      },
+      {
+        "rule": "NP -> ('con', 'NN')",
+        "frequency": 1,
+        "weight": 0.0135
+      },
+      {
+        "rule": "NP -> ('Servicio', 'NNP') ('Geológico', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0135
+      },
+      {
+        "rule": "NP -> ('Estados', 'NNP') ('Unidos', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0135
+      },
+      {
+        "rule": "NP -> ('USGS', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0135
+      },
+      {
+        "rule": "ADJP -> ('el', 'JJ')",
+        "frequency": 1,
+        "weight": 0.0135
+      },
+      {
+        "rule": "NP -> ('terremoto', 'NN')",
+        "frequency": 1,
+        "weight": 0.0135
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "De"
+      },
+      {
+        "label": "NP",
+        "text": "con"
+      },
+      {
+        "label": "NP",
+        "text": "Servicio Geológico"
+      },
+      {
+        "label": "PP",
+        "text": "de Estados Unidos"
+      },
+      {
+        "label": "NP",
+        "text": "Estados Unidos"
+      },
+      {
+        "label": "NP",
+        "text": "USGS"
+      },
+      {
+        "label": "ADJP",
+        "text": "el"
+      },
+      {
+        "label": "NP",
+        "text": "terremoto"
+      },
+      {
+        "label": "VP",
+        "text": "situó a una profundidad"
+      },
+      {
+        "label": "NP",
+        "text": "a una profundidad"
+      },
+      {
+        "label": "NP",
+        "text": "kilómetros"
+      },
+      {
+        "label": "ADJP",
+        "text": "bajo"
+      },
+      {
+        "label": "NP",
+        "text": "archipiélago"
+      },
+      {
+        "label": "NP",
+        "text": "Hasta ahora"
+      },
+      {
+        "label": "NP",
+        "text": "no se ha emitido"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP De/NNP)\n  acuerdo/FW\n  (NP con/NN)\n  el/FW\n  (NP Servicio/NNP Geológico/NNP)\n  (PP de/IN (NP Estados/NNP Unidos/NNP))\n  (/(\n  (NP USGS/NNP)\n  )/)\n  ,/,\n  (ADJP el/JJ)\n  epicentro/FW\n  del/FW\n  (NP terremoto/NN)\n  se/FW\n  (VP situó/VBZ (NP a/DT una/JJ profundidad/NN))\n  de/IN\n  26/CD\n  (NP kilómetros/NNS)\n  (ADJP bajo/JJ)\n  la/FW\n  plataforma/FW\n  del/FW\n  (NP archipiélago/NN)\n  ./.)",
+      "(S\n  (NP Hasta/NNP ahora/NN)\n  ,/,\n  (NP no/DT se/NN ha/NN emitido/NN)\n  (NP ninguna/JJ alerta/NN)\n  (PP de/IN (NP tsunami/NN))\n  ,/,\n  (NP a/DT pesar/NN)\n  de/IN\n  que/FW\n  (NP las/NNS autoridades/NNS)\n  (VP se/VBP (NP mantienen/NN))\n  (VP alertas/VBP (NP a/DT cualquier/JJR posibilidad/NN))\n  ./.)",
+      "(S\n  (NP Dicho/NNP)\n  (VP evento/VBZ sísmico/JJ)\n  (PP ocurrió/IN (NP a/DT menos/NN))\n  (PP de/IN (NP una/JJ semana/NN del/NN devastador/NN desastre/NN))\n  (PP en/IN (NP Myanmar/NNP))\n  ./.)",
+      "(S\n  (NP Es/NNP)\n  (VP relevante/VBZ (NP señalar/JJ que/NN este/NN terremoto/NN))\n  (VP ocurre/VBZ)\n  24/CD\n  (NP horas/NNS)\n  después/FW\n  de/FW\n  que/FW\n  las/FW\n  autoridades/FW\n  de/FW\n  (NP Japón/NNP)\n  (VP alertaran/VBD)\n  acerca/FW\n  de/FW\n  la/FW\n  (ADJP posible/JJ)\n  ocurrencia/FW\n  de/FW\n  un/FW\n  sismo/FW\n  significativo/FW\n  en/FW\n  la/FW\n  fosa/FW\n  de/FW\n  (NP Nankai/NNP)\n  ,/,\n  (NP\n    un/JJ\n    área/NNP\n    reconocida/NN\n    por/NN\n    su/NN\n    alta/NN\n    actividad/NN\n    sísmica/NN\n    y/NN\n    situada/NN)\n  en/IN\n  el/FW\n  eje/FW\n  de/FW\n  fuego/FW\n  del/FW\n  (NP Pacífico/NNP)\n  ./.)",
+      "(S\n  (NP Por/NNP)\n  otro/MD\n  (VP lado/VB)\n  ,/,\n  los/FW\n  (NP\n    especialistas/JJ\n    señalaron/NN\n    que/NN\n    esta/NN\n    zona/NN\n    sufre/NN\n    sismos/NN\n    considerables/NNS)\n  (VP en/VBP)\n  periodos/FW\n  de/FW\n  entre/FW\n  100/CD\n  (NP y/NN)\n  150/CD\n  (NP años/NN)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "LEYES_NORMATIVAS",
+      "CANTIDADES_NUMERICAS",
+      "DESASTRES_ACCIDENTES_EMERGENCIAS",
+      "REGIONES_PROVINCIAS",
+      "PAISES"
+    ],
+    "matches": [
+      {
+        "category": "DESASTRES_ACCIDENTES_EMERGENCIAS",
+        "matched_text": "tsunami, a pesar de que las autoridades se mantienen alertas",
+        "position": [
+          219,
+          279
+        ],
+        "start": 219,
+        "end": 279
+      },
+      {
+        "category": "LEYES_NORMATIVAS",
+        "matched_text": "acuerdo con el servicio geológico de estados unidos (usgs), el epicentro del terremoto se situó a una profundidad de 26",
+        "position": [
+          3,
+          122
+        ],
+        "start": 3,
+        "end": 122
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "estados unidos",
+        "position": [
+          40,
+          54
+        ],
+        "start": 40,
+        "end": 54
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "pacífico",
+        "position": [
+          660,
+          668
+        ],
+        "start": 660,
+        "end": 668
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "área reconocida",
+        "position": [
+          581,
+          596
+        ],
+        "start": 581,
+        "end": 596
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "298 mil",
+        "position": [
+          1076,
+          1083
+        ],
+        "start": 1076,
+        "end": 1083
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "cerca de 298",
+        "position": [
+          1067,
+          1079
+        ],
+        "start": 1067,
+        "end": 1079
+      }
+    ],
+    "match_count": 7
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Pacífico",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Servicio Geológico de Estados Unidos",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "USGS",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Myanmar",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "fosa de Nankai",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Japón",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Japón",
+        "relacion": "ALERTAR_DESPU_S_OCURRIR_SE_ALAR",
+        "objeto": "fosa de Nankai"
+      },
+      {
+        "sujeto": "Japón",
+        "relacion": "ALERTAR_DESPU_S_OCURRIR_SE_ALAR",
+        "objeto": "Pacífico"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.0516,
+    "pos": 0.012,
+    "neu": 0.976,
+    "neg": 0.011,
+    "label": "positive"
+  }
+}

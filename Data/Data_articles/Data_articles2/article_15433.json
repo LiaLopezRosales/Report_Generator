@@ -1,0 +1,787 @@
+{
+  "url": "https://www.telesurtv.net/hamas-esta-dispuesto-a-negociar-acuerdo-de-paz/",
+  "title": "Hamás está dispuesto a negociar acuerdo de paz - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Acuerdo de Paz",
+    "Ejército israelí",
+    "Hamás",
+    "Israel",
+    "Palestina"
+  ],
+  "text": "\nLa resistencia palestina en Gaza está dispuesta a celebrar cualquier iniciativa de paz que recoja las principales demandas de Hamás para finalizar el asedio israelí en la Franja, así lo afirmó el líder político del grupo, Ismail Haniye, durante su intervención en un simposio celebrado en Beirut (capital del Líbano).\n\nAsimismo, explicó que la estrategia negociadora de Israel se basa en la presión internacional y regional sobre Hamás para que consiente la propuesta sionista.\nIsmail Haniye subrayó, como parte de su discurso, que los ataques de Hamás en octubre pasado contribuyeron a fortalecer la unidad del pueblo palestino.\nA finales de 2023, las partes alcanzaron un breve acuerdo de alto al fuego. El documento comprendía la liberación de una treintena de rehenes bajo la custodia de Hamás a cambio del triple de presos palestinos en prisiones israelíes.\nQatar y Estados Unidos, como líderes del proceso, continúan ejecutando acciones para lograr una propuesta de paz.\nLa idea del mandatario Joe Biden fue rechazada por la milicia islamita: contempla un plan progresivo para garantizar la estabilidad en la región, con la liberación de rehenes, la reorganización política de Gaza y la retirada de las fuerzas sionistas.\n“Israel está tendiendo una trampa política que impone ciertas condiciones”, refirió Haniye.\nPor ahora, ha rechazado las demandas principales de Hamás. No obstante, Rusia y otras naciones insisten en la necesidad de lograr un acuerdo y la solución de dos Estados, aprobada por la ONU en 1947, a fin de asegurar una paz duradera.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/hamas-esta-dispuesto-a-negociar-acuerdo-de-paz/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-06.json",
+    "message_index": 307,
+    "message_id": 72436,
+    "date": "2024-06-22T16:55:07+00:00",
+    "text": "teleSUR\nHamás está dispuesto a negociar acuerdo de paz\nhttps://www.telesurtv.net/hamas-esta-dispuesto-a-negociar-acuerdo-de-paz/",
+    "photo_path": null,
+    "views": 1521,
+    "reactions": {},
+    "total_reactions": 0
+  },
+  "preprocessing": {
+    "cleaned": "la resistencia palestina en gaza está dispuesta a celebrar cualquier iniciativa de paz que recoja las principales demandas de hamás para finalizar el asedio israelí en la franja, así lo afirmó el líder político del grupo, ismail haniye, durante su intervención en un simposio celebrado en beirut (capital del líbano). asimismo, explicó que la estrategia negociadora de israel se basa en la presión internacional y regional sobre hamás para que consiente la propuesta sionista. ismail haniye subrayó, como parte de su discurso, que los ataques de hamás en octubre pasado contribuyeron a fortalecer la unidad del pueblo palestino. a finales de 2023, las partes alcanzaron un breve acuerdo de alto al fuego. el documento comprendía la liberación de una treintena de rehenes bajo la custodia de hamás a cambio del triple de presos palestinos en prisiones israelíes. qatar y estados unidos, como líderes del proceso, continúan ejecutando acciones para lograr una propuesta de paz. la idea del mandatario joe biden fue rechazada por la milicia islamita: contempla un plan progresivo para garantizar la estabilidad en la región, con la liberación de rehenes, la reorganización política de gaza y la retirada de las fuerzas sionistas. “israel está tendiendo una trampa política que impone ciertas condiciones”, refirió haniye. por ahora, ha rechazado las demandas principales de hamás. no obstante, rusia y otras naciones insisten en la necesidad de lograr un acuerdo y la solución de dos estados, aprobada por la onu en 1947, a fin de asegurar una paz duradera.",
+    "tokens": [
+      "resistencia",
+      "palestina",
+      "gaza",
+      "dispuesta",
+      "celebrar",
+      "cualquier",
+      "iniciativa",
+      "paz",
+      "recoja",
+      "principales",
+      "demandas",
+      "hamás",
+      "finalizar",
+      "asedio",
+      "israelí",
+      "franja",
+      ",",
+      "así",
+      "afirmó",
+      "líder",
+      "político",
+      "grupo",
+      ",",
+      "ismail",
+      "haniye",
+      ",",
+      "intervención",
+      "simposio",
+      "celebrado",
+      "beirut",
+      "(",
+      "capital",
+      "líbano",
+      ")",
+      ".",
+      "asimismo",
+      ",",
+      "explicó",
+      "estrategia",
+      "negociadora",
+      "israel",
+      "basa",
+      "presión",
+      "internacional",
+      "regional",
+      "hamás",
+      "consiente",
+      "propuesta",
+      "sionista",
+      ".",
+      "ismail",
+      "haniye",
+      "subrayó",
+      ",",
+      "parte",
+      "discurso",
+      ",",
+      "ataques",
+      "hamás",
+      "octubre",
+      "pasado",
+      "contribuyeron",
+      "fortalecer",
+      "unidad",
+      "pueblo",
+      "palestino",
+      ".",
+      "finales",
+      "2023",
+      ",",
+      "partes",
+      "alcanzaron",
+      "breve",
+      "acuerdo",
+      "alto",
+      "fuego",
+      ".",
+      "documento",
+      "comprendía",
+      "liberación",
+      "treintena",
+      "rehenes",
+      "bajo",
+      "custodia",
+      "hamás",
+      "cambio",
+      "triple",
+      "presos",
+      "palestinos",
+      "prisiones",
+      "israelíes",
+      ".",
+      "qatar",
+      "unidos",
+      ",",
+      "líderes",
+      "proceso",
+      ",",
+      "continúan",
+      "ejecutando",
+      "acciones",
+      "lograr",
+      "propuesta",
+      "paz",
+      ".",
+      "idea",
+      "mandatario",
+      "joe",
+      "biden",
+      "rechazada",
+      "milicia",
+      "islamita",
+      ":",
+      "contempla",
+      "plan",
+      "progresivo",
+      "garantizar",
+      "estabilidad",
+      "región",
+      ",",
+      "liberación",
+      "rehenes",
+      ",",
+      "reorganización",
+      "política",
+      "gaza",
+      "retirada",
+      "fuerzas",
+      "sionistas",
+      ".",
+      "“",
+      "israel",
+      "tendiendo",
+      "trampa",
+      "política",
+      "impone",
+      "ciertas",
+      "condiciones",
+      "”",
+      ",",
+      "refirió",
+      "haniye",
+      ".",
+      "ahora",
+      ",",
+      "rechazado",
+      "demandas",
+      "principales",
+      "hamás",
+      ".",
+      "obstante",
+      ",",
+      "rusia",
+      "naciones",
+      "insisten",
+      "necesidad",
+      "lograr",
+      "acuerdo",
+      "solución",
+      "dos",
+      ",",
+      "aprobada",
+      "onu",
+      "1947",
+      ",",
+      "fin",
+      "asegurar",
+      "paz",
+      "duradera",
+      "."
+    ],
+    "token_count": 170,
+    "sentence_count": 10
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 31,
+      "VBZ": 4,
+      "NN": 88,
+      "JJ": 18,
+      "FW": 63,
+      "NNS": 11,
+      "VBP": 6,
+      "IN": 11,
+      "VBD": 1,
+      "CD": 2,
+      "RB": 1,
+      "MD": 1,
+      "VB": 1
+    },
+    "bigram_freq": {
+      "NNP-VBZ": 2,
+      "VBZ-NN": 1,
+      "NN-JJ": 4,
+      "JJ-NNP": 2,
+      "NNP-NN": 12,
+      "NN-NN": 47,
+      "NN-FW": 14,
+      "FW-FW": 39,
+      "FW-NN": 12,
+      "NN-NNS": 7,
+      "NNS-VBP": 3,
+      "VBP-IN": 1,
+      "IN-NNP": 4,
+      "NN-IN": 5,
+      "IN-FW": 3,
+      "FW-NNP": 7,
+      "NN-NNP": 7,
+      "NNP-NNP": 8,
+      "IN-JJ": 1,
+      "JJ-NN": 11,
+      "NNP-FW": 5,
+      "FW-JJ": 4,
+      "JJ-JJ": 2,
+      "NNP-VBD": 1,
+      "VBD-JJ": 1,
+      "NNS-IN": 4,
+      "IN-CD": 2,
+      "CD-NN": 2,
+      "NN-VBZ": 2,
+      "VBZ-RB": 1,
+      "RB-JJ": 1,
+      "JJ-VBP": 1,
+      "VBP-NN": 3,
+      "FW-NNS": 1,
+      "IN-NNS": 1,
+      "NNS-JJ": 2,
+      "VBZ-FW": 1,
+      "VBP-JJ": 1,
+      "NN-VBP": 1,
+      "NNS-NNP": 1,
+      "NNP-VBP": 1,
+      "VBP-NNP": 1,
+      "VBZ-JJ": 1,
+      "JJ-NNS": 1,
+      "NNP-MD": 1,
+      "MD-NNS": 1,
+      "NNS-VB": 1,
+      "VB-JJ": 1,
+      "JJ-FW": 1,
+      "NNP-IN": 1
+    },
+    "trigram_freq": {
+      "NNP-VBZ-NN": 1,
+      "VBZ-NN-JJ": 1,
+      "NN-JJ-NNP": 1,
+      "JJ-NNP-NN": 1,
+      "NNP-NN-NN": 10,
+      "NN-NN-NN": 26,
+      "NN-NN-FW": 6,
+      "NN-FW-FW": 11,
+      "FW-FW-FW": 25,
+      "FW-FW-NN": 6,
+      "FW-NN-NN": 5,
+      "NN-NN-NNS": 5,
+      "NN-NNS-VBP": 3,
+      "NNS-VBP-IN": 1,
+      "VBP-IN-NNP": 1,
+      "IN-NNP-NN": 2,
+      "NN-NN-IN": 4,
+      "NN-IN-FW": 3,
+      "IN-FW-NNP": 1,
+      "FW-NNP-NN": 3,
+      "NN-NN-NNP": 4,
+      "NN-NNP-NNP": 4,
+      "NNP-NNP-NN": 4,
+      "NN-IN-JJ": 1,
+      "IN-JJ-NN": 1,
+      "JJ-NN-NN": 5,
+      "NN-IN-NNP": 1,
+      "NNP-NNP-FW": 1,
+      "NNP-FW-NN": 3,
+      "FW-NN-FW": 5,
+      "FW-FW-NNP": 5,
+      "FW-NNP-FW": 3,
+      "FW-FW-JJ": 3,
+      "FW-JJ-JJ": 1,
+      "JJ-JJ-NN": 2,
+      "JJ-NN-NNP": 1,
+      "NN-NNP-NN": 2,
+      "NN-FW-NN": 1,
+      "NNP-NNP-VBD": 1,
+      "NNP-VBD-JJ": 1,
+      "VBD-JJ-NN": 1,
+      "JJ-NN-IN": 1,
+      "IN-FW-NN": 1,
+      "NN-NNS-IN": 2,
+      "NNS-IN-NNP": 2,
+      "IN-NNP-FW": 1,
+      "NNP-FW-FW": 2,
+      "NN-NN-JJ": 1,
+      "NN-JJ-NN": 3,
+      "NNS-IN-CD": 1,
+      "IN-CD-NN": 2,
+      "CD-NN-VBZ": 1,
+      "NN-VBZ-RB": 1,
+      "VBZ-RB-JJ": 1,
+      "RB-JJ-VBP": 1,
+      "JJ-VBP-NN": 1,
+      "VBP-NN-FW": 1,
+      "FW-NN-NNP": 1,
+      "IN-FW-NNS": 1,
+      "FW-NNS-IN": 1,
+      "NNS-IN-NNS": 1,
+      "IN-NNS-JJ": 1,
+      "NNS-JJ-NNP": 1,
+      "JJ-NNP-NNP": 1,
+      "NNP-NNP-NNP": 1,
+      "NNP-NN-VBZ": 1,
+      "NN-VBZ-FW": 1,
+      "VBZ-FW-NN": 1,
+      "NNS-VBP-JJ": 1,
+      "VBP-JJ-JJ": 1,
+      "JJ-NN-FW": 1,
+      "NN-FW-JJ": 1,
+      "FW-JJ-NN": 3,
+      "JJ-NN-JJ": 1,
+      "JJ-NN-VBP": 1,
+      "NN-VBP-NN": 1,
+      "VBP-NN-NN": 1,
+      "FW-NN-NNS": 1,
+      "NN-NNS-NNP": 1,
+      "NNS-NNP-VBP": 1,
+      "NNP-VBP-NN": 1,
+      "VBP-NN-JJ": 1,
+      "NNS-VBP-NNP": 1,
+      "VBP-NNP-NNP": 1,
+      "NNP-NNP-VBZ": 1,
+      "NNP-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 1,
+      "JJ-NN-NNS": 1,
+      "NN-NNS-JJ": 1,
+      "NNS-JJ-NNS": 1,
+      "JJ-NNS-IN": 1,
+      "IN-NNP-NNP": 1,
+      "NNP-NN-NNP": 1,
+      "NN-NNP-MD": 1,
+      "NNP-MD-NNS": 1,
+      "MD-NNS-VB": 1,
+      "NNS-VB-JJ": 1,
+      "VB-JJ-FW": 1,
+      "JJ-FW-FW": 1,
+      "NN-FW-NNP": 1,
+      "FW-NNP-IN": 1,
+      "NNP-IN-CD": 1,
+      "CD-NN-FW": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 88,
+        "FW": 63,
+        "NNP": 31,
+        "JJ": 18,
+        "NNS": 11
+      },
+      "top_bigrams": {
+        "NN-NN": 47,
+        "FW-FW": 39,
+        "NN-FW": 14,
+        "NNP-NN": 12,
+        "FW-NN": 12
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 26,
+        "FW-FW-FW": 25,
+        "NN-FW-FW": 11,
+        "NNP-NN-NN": 10,
+        "NN-NN-FW": 6
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 10,
+    "chunk_counts": {
+      "NP": 66,
+      "VP": 10,
+      "PP": 7,
+      "ADJP": 1
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 4,
+        "weight": 0.0426
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 3,
+        "weight": 0.0319
+      },
+      {
+        "rule": "NP -> ('Hamás', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0213
+      },
+      {
+        "rule": "S -> NP VP ('iniciativa', 'FW') ('de', 'FW') ('paz', 'FW') NP VP PP ('en', 'IN') ('la', 'FW') NP (',', ',') NP (',', ',') NP (',', ',') NP PP PP ('(', '(') NP ('del', 'RB') NP (')', ')') ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0106
+      },
+      {
+        "rule": "NP -> ('La', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0106
+      },
+      {
+        "rule": "VP -> ('resistencia', 'VBZ') NP NP NP",
+        "frequency": 1,
+        "weight": 0.0106
+      },
+      {
+        "rule": "NP -> ('palestina', 'NN')",
+        "frequency": 1,
+        "weight": 0.0106
+      },
+      {
+        "rule": "NP -> ('en', 'JJ') ('Gaza', 'NNP') ('está', 'NN') ('dispuesta', 'NN')",
+        "frequency": 1,
+        "weight": 0.0106
+      },
+      {
+        "rule": "NP -> ('a', 'DT') ('celebrar', 'NN') ('cualquier', 'NN')",
+        "frequency": 1,
+        "weight": 0.0106
+      },
+      {
+        "rule": "NP -> ('que', 'NN') ('recoja', 'NN') ('las', 'NN') ('principales', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0106
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "La"
+      },
+      {
+        "label": "VP",
+        "text": "resistencia palestina en Gaza está dispuesta a celebrar cualquier"
+      },
+      {
+        "label": "NP",
+        "text": "palestina"
+      },
+      {
+        "label": "NP",
+        "text": "en Gaza está dispuesta"
+      },
+      {
+        "label": "NP",
+        "text": "a celebrar cualquier"
+      },
+      {
+        "label": "NP",
+        "text": "que recoja las principales"
+      },
+      {
+        "label": "VP",
+        "text": "demandas"
+      },
+      {
+        "label": "PP",
+        "text": "de Hamás para finalizar el asedio israelí"
+      },
+      {
+        "label": "NP",
+        "text": "Hamás para finalizar el asedio israelí"
+      },
+      {
+        "label": "NP",
+        "text": "Franja"
+      },
+      {
+        "label": "NP",
+        "text": "así lo afirmó el líder político del grupo"
+      },
+      {
+        "label": "NP",
+        "text": "Ismail Haniye"
+      },
+      {
+        "label": "NP",
+        "text": "durante su intervención"
+      },
+      {
+        "label": "PP",
+        "text": "en un simposio celebrado"
+      },
+      {
+        "label": "NP",
+        "text": "un simposio celebrado"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP La/NNP)\n  (VP\n    resistencia/VBZ\n    (NP palestina/NN)\n    (NP en/JJ Gaza/NNP está/NN dispuesta/NN)\n    (NP a/DT celebrar/NN cualquier/NN))\n  iniciativa/FW\n  de/FW\n  paz/FW\n  (NP que/NN recoja/NN las/NN principales/NNS)\n  (VP demandas/VBP)\n  (PP\n    de/IN\n    (NP Hamás/NNP para/NN finalizar/NN el/NN asedio/NN israelí/NN))\n  en/IN\n  la/FW\n  (NP Franja/NNP)\n  ,/,\n  (NP\n    así/NN\n    lo/NN\n    afirmó/NN\n    el/NN\n    líder/NN\n    político/NN\n    del/NN\n    grupo/NN)\n  ,/,\n  (NP Ismail/NNP Haniye/NNP)\n  ,/,\n  (NP durante/NN su/NN intervención/NN)\n  (PP en/IN (NP un/JJ simposio/NN celebrado/NN))\n  (PP en/IN (NP Beirut/NNP))\n  (/(\n  (NP capital/NN)\n  del/RB\n  (NP Líbano/NNP)\n  )/)\n  ./.)",
+      "(S\n  (NP Asimismo/NNP)\n  ,/,\n  (NP explicó/NN que/NN la/NN)\n  estrategia/FW\n  negociadora/FW\n  de/FW\n  (NP Israel/NNP)\n  se/FW\n  (NP basa/NN)\n  en/FW\n  la/FW\n  presión/FW\n  (ADJP internacional/JJ)\n  y/FW\n  (NP regional/JJ sobre/NN Hamás/NNP para/NN que/NN consiente/NN)\n  la/FW\n  (NP propuesta/NN sionista/NN)\n  ./.)",
+      "(S\n  (NP Ismail/NNP Haniye/NNP subrayó/NN)\n  ,/,\n  (NP como/JJ parte/NN)\n  de/IN\n  su/FW\n  (NP discurso/NN)\n  ,/,\n  (NP que/JJ los/NN ataques/NNS)\n  (PP de/IN (NP Hamás/NNP))\n  en/FW\n  octubre/FW\n  pasado/FW\n  (VP\n    contribuyeron/VBP\n    (NP a/DT fortalecer/NN la/NN)\n    (NP unidad/JJ del/NN pueblo/NN palestino/NN))\n  ./.)",
+      "(S\n  (NP A/DT finales/NNS)\n  de/IN\n  2023/CD\n  ,/,\n  las/FW\n  (NP partes/NNS)\n  (VP alcanzaron/VBP un/JJ)\n  (VP breve/VBP (NP acuerdo/NN))\n  de/FW\n  alto/FW\n  (NP al/NN fuego/NN)\n  ./.)",
+      "(S\n  (NP El/NNP documento/NN comprendía/NN)\n  la/FW\n  liberación/FW\n  de/FW\n  una/FW\n  treintena/FW\n  de/FW\n  rehenes/FW\n  (NP bajo/NN)\n  la/FW\n  custodia/FW\n  de/FW\n  Hamás/FW\n  (NP a/DT cambio/NN del/NN triple/NN)\n  de/IN\n  presos/FW\n  (NP palestinos/NNS)\n  (PP en/IN (NP prisiones/NNS israelíes/NNS))\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "LEYES_NORMATIVAS",
+      "APROBACION_RECHAZO",
+      "ORGANISMOS_INTERNACIONALES",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "REGIONES_PROVINCIAS",
+      "PAISES",
+      "ECONOMIA_COMERCIO_FINANZAS"
+    ],
+    "matches": [
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "capital",
+        "position": [
+          298,
+          305
+        ],
+        "start": 298,
+        "end": 305
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "afirmó",
+        "position": [
+          187,
+          193
+        ],
+        "start": 187,
+        "end": 193
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "explicó",
+        "position": [
+          330,
+          337
+        ],
+        "start": 330,
+        "end": 337
+      },
+      {
+        "category": "ORGANISMOS_INTERNACIONALES",
+        "matched_text": "onu",
+        "position": [
+          1508,
+          1511
+        ],
+        "start": 1508,
+        "end": 1511
+      },
+      {
+        "category": "APROBACION_RECHAZO",
+        "matched_text": "subrayó",
+        "position": [
+          493,
+          500
+        ],
+        "start": 493,
+        "end": 500
+      },
+      {
+        "category": "LEYES_NORMATIVAS",
+        "matched_text": "acuerdo y la solución de dos estados, aprobada por la onu en 1947",
+        "position": [
+          1454,
+          1519
+        ],
+        "start": 1454,
+        "end": 1519
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "estados unidos",
+        "position": [
+          872,
+          886
+        ],
+        "start": 872,
+        "end": 886
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "palestina",
+        "position": [
+          16,
+          25
+        ],
+        "start": 16,
+        "end": 25
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "región, con",
+        "position": [
+          1116,
+          1127
+        ],
+        "start": 1116,
+        "end": 1127
+      }
+    ],
+    "match_count": 9
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Qatar",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Hamás",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Rusia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Estados",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Franja",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Estados Unidos",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Líbano",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Israel",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "ONU",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Joe Biden",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Haniye",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Beirut",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Ismail Haniye",
+        "tipo": "Persona"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Gaza",
+        "relacion": "AFIRMAR",
+        "objeto": "Ismail Haniye"
+      },
+      {
+        "sujeto": "Gaza",
+        "relacion": "AFIRMAR",
+        "objeto": "Beirut"
+      },
+      {
+        "sujeto": "Gaza",
+        "relacion": "AFIRMAR",
+        "objeto": "Líbano"
+      },
+      {
+        "sujeto": "Hamás",
+        "relacion": "RECOGER_CELEBRAR_AFIRMAR",
+        "objeto": "Ismail Haniye"
+      },
+      {
+        "sujeto": "Hamás",
+        "relacion": "RECOGER_CELEBRAR_AFIRMAR",
+        "objeto": "Beirut"
+      },
+      {
+        "sujeto": "Hamás",
+        "relacion": "RECOGER_CELEBRAR_AFIRMAR",
+        "objeto": "Líbano"
+      },
+      {
+        "sujeto": "Franja",
+        "relacion": "FINALIZAR_RECOGER_CELEBRAR_AFIRMAR",
+        "objeto": "Ismail Haniye"
+      },
+      {
+        "sujeto": "Franja",
+        "relacion": "FINALIZAR_RECOGER_CELEBRAR_AFIRMAR",
+        "objeto": "Beirut"
+      },
+      {
+        "sujeto": "Franja",
+        "relacion": "FINALIZAR_RECOGER_CELEBRAR_AFIRMAR",
+        "objeto": "Líbano"
+      },
+      {
+        "sujeto": "Ismail Haniye",
+        "relacion": "AFIRMAR",
+        "objeto": "Beirut"
+      },
+      {
+        "sujeto": "Ismail Haniye",
+        "relacion": "AFIRMAR",
+        "objeto": "Líbano"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "BASAR_EXPLICAR",
+        "objeto": "Hamás"
+      },
+      {
+        "sujeto": "Ismail Haniye",
+        "relacion": "SUBRAYAR",
+        "objeto": "Hamás"
+      },
+      {
+        "sujeto": "Joe Biden",
+        "relacion": "RECHAZAR",
+        "objeto": "Gaza"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "TENDER_REFERIR",
+        "objeto": "Haniye"
+      },
+      {
+        "sujeto": "Rusia",
+        "relacion": "INSISTIR",
+        "objeto": "Estados"
+      },
+      {
+        "sujeto": "Rusia",
+        "relacion": "INSISTIR",
+        "objeto": "ONU"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.0516,
+    "pos": 0.01,
+    "neu": 0.981,
+    "neg": 0.009,
+    "label": "positive"
+  }
+}

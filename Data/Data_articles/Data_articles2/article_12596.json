@@ -1,0 +1,935 @@
+{
+  "url": "https://www.telesurtv.net/gobierno-de-brasil-solicita-apoyo-internacional-para-combatir-incendios-forestales/",
+  "title": "Gobierno de Brasil solicita apoyo internacional para combatir incendios forestales - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "Brasil",
+    "incendios"
+  ],
+  "text": "El presidente de Brasil, Luiz Inácio Lula da Silva, se reunió este martes con las autoridades del Estado para debatir medidas urgentes y definitivas contra el cambio climático, como solicitar ayuda internacional debido a los incendios que se expanden por el territorio nacional desde hace más de un mes.\nLEAN TAMBIÉN:\nUniversidad de Brasilia suspende clases presenciales tras incendio en el Parque Nacional de esa ciudad\nAl inicio de la reunión con las autoridades del Parlamento, la Corte Suprema y otros de los principales organismos del Estado brasileño, así como científicos y académicos que estudian el cambio climático, Lula expresó que “la naturaleza resolvió mostrar sus garras y nos dice que o la cuidamos correctamente o no va a soportar tanta falta de responsabilidad”.\nEl mandatario dijo que la principal causa de los incendios ocurridos en más del 50 por ciento del territorio es la mayor sequía registrada en décadas. Asimismo, explicó las sospechas con respecto a las llamas provocadas con carácter “delictivo”.\n“No se puede probar nada”, reconoció Lula, pero también declaró que encuentra anomalías en la situación, el hecho de la aparición de llamas en casi todos los territorios del país no es algo común.\n“En Río de Janeiro 20 personas fueron arrestadas por incendiar la vegetación. Estamos aquí firmando un pacto climático con los presidentes de la Cámara, Senado y STF”, añadió el mandatario en la reunión.\nSegún Lula, “el dato concreto” es que las ciudades no están 100 por ciento preparadas para combatir el cambio climático y existen pocos Estados con el personal suficiente para enfrentar los incendios.\nLa sequía es usual durante esta época del año en el centro de Brasil y en el bioma amazónico, pero en el 2024 ha afectado la mitad del territorio brasileño, en especial la sabana del Cerrado, la Amazonía, y el Pantanal, las dos últimas regiones al noroeste del país.\nEl encuentro se realizó debido a que el pasado fin de semana un juez de la Corte Suprema permitió al Gobierno a reestablecer los presupuestos sin que sea contabilizado en el cálculo fiscal y pactar créditos extraordinarios en aras de luchar en contra de la emergencia climática.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/gobierno-de-brasil-solicita-apoyo-internacional-para-combatir-incendios-forestales/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-09.json",
+    "message_index": 819,
+    "message_id": 76484,
+    "date": "2024-09-18T11:55:21+00:00",
+    "text": "teleSUR\nGobierno de Brasil solicita apoyo internacional para combatir incendios forestales\nhttps://www.telesurtv.net/gobierno-de-brasil-solicita-apoyo-internacional-para-combatir-incendios-forestales/",
+    "photo_path": null,
+    "views": 2141,
+    "reactions": {
+      "👍": 39,
+      "🤬": 3
+    },
+    "total_reactions": 42
+  },
+  "preprocessing": {
+    "cleaned": "el presidente de brasil, luiz inácio lula da silva, se reunió este martes con las autoridades del estado para debatir medidas urgentes y definitivas contra el cambio climático, como solicitar ayuda internacional debido a los incendios que se expanden por el territorio nacional desde hace más de un mes. lean también: universidad de brasilia suspende clases presenciales tras incendio en el parque nacional de esa ciudad al inicio de la reunión con las autoridades del parlamento, la corte suprema y otros de los principales organismos del estado brasileño, así como científicos y académicos que estudian el cambio climático, lula expresó que “la naturaleza resolvió mostrar sus garras y nos dice que o la cuidamos correctamente o no va a soportar tanta falta de responsabilidad”. el mandatario dijo que la principal causa de los incendios ocurridos en más del 50 por ciento del territorio es la mayor sequía registrada en décadas. asimismo, explicó las sospechas con respecto a las llamas provocadas con carácter “delictivo”. “no se puede probar nada”, reconoció lula, pero también declaró que encuentra anomalías en la situación, el hecho de la aparición de llamas en casi todos los territorios del país no es algo común. “en río de janeiro 20 personas fueron arrestadas por incendiar la vegetación. estamos aquí firmando un pacto climático con los presidentes de la cámara, senado y stf”, añadió el mandatario en la reunión. según lula, “el dato concreto” es que las ciudades no están 100 por ciento preparadas para combatir el cambio climático y existen pocos estados con el personal suficiente para enfrentar los incendios. la sequía es usual durante esta época del año en el centro de brasil y en el bioma amazónico, pero en el 2024 ha afectado la mitad del territorio brasileño, en especial la sabana del cerrado, la amazonía, y el pantanal, las dos últimas regiones al noroeste del país. el encuentro se realizó debido a que el pasado fin de semana un juez de la corte suprema permitió al gobierno a reestablecer los presupuestos sin que sea contabilizado en el cálculo fiscal y pactar créditos extraordinarios en aras de luchar en contra de la emergencia climática.",
+    "tokens": [
+      "presidente",
+      "brasil",
+      ",",
+      "luiz",
+      "inácio",
+      "lula",
+      "da",
+      "silva",
+      ",",
+      "reunió",
+      "martes",
+      "autoridades",
+      "debatir",
+      "medidas",
+      "urgentes",
+      "definitivas",
+      "cambio",
+      "climático",
+      ",",
+      "solicitar",
+      "ayuda",
+      "internacional",
+      "debido",
+      "incendios",
+      "expanden",
+      "territorio",
+      "nacional",
+      "hace",
+      "mes",
+      ".",
+      "lean",
+      ":",
+      "universidad",
+      "brasilia",
+      "suspende",
+      "clases",
+      "presenciales",
+      "tras",
+      "incendio",
+      "parque",
+      "nacional",
+      "ciudad",
+      "inicio",
+      "reunión",
+      "autoridades",
+      "parlamento",
+      ",",
+      "corte",
+      "suprema",
+      "principales",
+      "organismos",
+      "brasileño",
+      ",",
+      "así",
+      "científicos",
+      "académicos",
+      "estudian",
+      "cambio",
+      "climático",
+      ",",
+      "lula",
+      "expresó",
+      "“",
+      "naturaleza",
+      "resolvió",
+      "mostrar",
+      "garras",
+      "dice",
+      "cuidamos",
+      "correctamente",
+      "va",
+      "soportar",
+      "tanta",
+      "falta",
+      "responsabilidad",
+      "”",
+      ".",
+      "mandatario",
+      "dijo",
+      "principal",
+      "causa",
+      "incendios",
+      "ocurridos",
+      "50",
+      "ciento",
+      "territorio",
+      "mayor",
+      "sequía",
+      "registrada",
+      "décadas",
+      ".",
+      "asimismo",
+      ",",
+      "explicó",
+      "sospechas",
+      "respecto",
+      "llamas",
+      "provocadas",
+      "carácter",
+      "“",
+      "delictivo",
+      "”",
+      ".",
+      "“",
+      "puede",
+      "probar",
+      "”",
+      ",",
+      "reconoció",
+      "lula",
+      ",",
+      "declaró",
+      "encuentra",
+      "anomalías",
+      "situación",
+      ",",
+      "hecho",
+      "aparición",
+      "llamas",
+      "casi",
+      "territorios",
+      "país",
+      "común",
+      ".",
+      "“",
+      "río",
+      "janeiro",
+      "20",
+      "personas",
+      "arrestadas",
+      "incendiar",
+      "vegetación",
+      ".",
+      "aquí",
+      "firmando",
+      "pacto",
+      "climático",
+      "presidentes",
+      "cámara",
+      ",",
+      "senado",
+      "stf",
+      "”",
+      ",",
+      "añadió",
+      "mandatario",
+      "reunión",
+      ".",
+      "según",
+      "lula",
+      ",",
+      "“",
+      "dato",
+      "concreto",
+      "”",
+      "ciudades",
+      "100",
+      "ciento",
+      "preparadas",
+      "combatir",
+      "cambio",
+      "climático",
+      "existen",
+      "pocos",
+      "personal",
+      "suficiente",
+      "enfrentar",
+      "incendios",
+      ".",
+      "sequía",
+      "usual",
+      "época",
+      "año",
+      "centro",
+      "brasil",
+      "bioma",
+      "amazónico",
+      ",",
+      "2024",
+      "afectado",
+      "mitad",
+      "territorio",
+      "brasileño",
+      ",",
+      "especial",
+      "sabana",
+      "cerrado",
+      ",",
+      "amazonía",
+      ",",
+      "pantanal",
+      ",",
+      "dos",
+      "últimas",
+      "regiones",
+      "noroeste",
+      "país",
+      ".",
+      "encuentro",
+      "realizó",
+      "debido",
+      "pasado",
+      "fin",
+      "semana",
+      "juez",
+      "corte",
+      "suprema",
+      "permitió",
+      "gobierno",
+      "reestablecer",
+      "presupuestos",
+      "contabilizado",
+      "cálculo",
+      "fiscal",
+      "pactar",
+      "créditos",
+      "extraordinarios",
+      "aras",
+      "luchar",
+      "emergencia",
+      "climática",
+      "."
+    ],
+    "token_count": 222,
+    "sentence_count": 10
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 42,
+      "NN": 141,
+      "FW": 59,
+      "VBZ": 11,
+      "JJ": 38,
+      "NNS": 14,
+      "IN": 18,
+      "VBD": 3,
+      "VBP": 8,
+      "DT": 4,
+      "CD": 4
+    },
+    "bigram_freq": {
+      "NNP-NN": 13,
+      "NN-FW": 7,
+      "FW-NNP": 12,
+      "NNP-NNP": 12,
+      "NN-NNP": 8,
+      "NN-NN": 85,
+      "NN-VBZ": 5,
+      "VBZ-JJ": 6,
+      "JJ-NNS": 5,
+      "NNS-IN": 2,
+      "IN-JJ": 5,
+      "JJ-NNP": 4,
+      "JJ-JJ": 4,
+      "JJ-NN": 22,
+      "NN-IN": 13,
+      "NN-JJ": 10,
+      "NN-VBD": 2,
+      "VBD-JJ": 3,
+      "NNS-NNP": 2,
+      "NNP-IN": 2,
+      "IN-NNP": 2,
+      "NN-NNS": 5,
+      "NNS-VBZ": 2,
+      "VBZ-NNS": 1,
+      "NNS-JJ": 2,
+      "JJ-FW": 2,
+      "FW-FW": 31,
+      "NNP-FW": 7,
+      "FW-NN": 12,
+      "IN-FW": 10,
+      "FW-NNS": 2,
+      "NNS-VBP": 6,
+      "VBP-JJ": 5,
+      "NNP-VBZ": 4,
+      "NN-DT": 1,
+      "DT-NN": 3,
+      "NN-CD": 3,
+      "CD-NN": 4,
+      "VBZ-DT": 2,
+      "JJ-DT": 1,
+      "DT-JJ": 1,
+      "NNP-CD": 1,
+      "VBZ-IN": 1,
+      "VBZ-FW": 1,
+      "NN-VBP": 1,
+      "NNP-VBD": 1,
+      "IN-NN": 1,
+      "NNP-VBP": 1,
+      "VBP-NNP": 1,
+      "NNP-NNS": 1,
+      "VBP-NN": 1,
+      "FW-JJ": 2,
+      "VBP-FW": 1
+    },
+    "trigram_freq": {
+      "NNP-NN-FW": 1,
+      "NN-FW-NNP": 2,
+      "FW-NNP-NNP": 6,
+      "NNP-NNP-NNP": 4,
+      "NNP-NNP-NN": 2,
+      "NNP-NN-NNP": 1,
+      "NN-NNP-NN": 4,
+      "NNP-NN-NN": 8,
+      "NN-NN-NN": 49,
+      "NN-NN-VBZ": 5,
+      "NN-VBZ-JJ": 3,
+      "VBZ-JJ-NNS": 1,
+      "JJ-NNS-IN": 1,
+      "NNS-IN-JJ": 1,
+      "IN-JJ-NNP": 2,
+      "JJ-NNP-NN": 4,
+      "VBZ-JJ-JJ": 2,
+      "JJ-JJ-NN": 4,
+      "JJ-NN-NN": 16,
+      "NN-NN-IN": 7,
+      "NN-IN-JJ": 4,
+      "IN-JJ-NN": 2,
+      "NN-NN-JJ": 9,
+      "NN-JJ-NN": 8,
+      "JJ-NN-VBD": 1,
+      "NN-VBD-JJ": 2,
+      "VBD-JJ-NN": 2,
+      "IN-JJ-NNS": 1,
+      "JJ-NNS-NNP": 2,
+      "NNS-NNP-NNP": 1,
+      "NNP-NNP-IN": 2,
+      "NNP-IN-NNP": 2,
+      "IN-NNP-NN": 1,
+      "NNP-NN-NNS": 1,
+      "NN-NNS-VBZ": 2,
+      "NNS-VBZ-NNS": 1,
+      "VBZ-NNS-JJ": 1,
+      "NNS-JJ-FW": 1,
+      "JJ-FW-FW": 2,
+      "FW-FW-NNP": 4,
+      "NNP-NNP-FW": 2,
+      "NNP-FW-FW": 3,
+      "FW-FW-NN": 7,
+      "FW-NN-NNP": 1,
+      "NNP-NN-IN": 1,
+      "NN-IN-FW": 8,
+      "IN-FW-FW": 3,
+      "FW-NN-NNS": 2,
+      "NN-NNS-IN": 1,
+      "NNS-IN-FW": 1,
+      "IN-FW-NNP": 4,
+      "FW-NNP-FW": 4,
+      "NNP-FW-NNP": 2,
+      "FW-FW-FW": 19,
+      "FW-FW-NNS": 1,
+      "FW-NNS-VBP": 2,
+      "NNS-VBP-JJ": 4,
+      "VBP-JJ-NNP": 2,
+      "NN-NN-NNP": 6,
+      "NN-NNP-VBZ": 2,
+      "NNP-VBZ-JJ": 3,
+      "VBZ-JJ-FW": 1,
+      "NN-NNS-JJ": 1,
+      "NNS-JJ-NN": 1,
+      "NN-NN-FW": 4,
+      "NN-FW-NN": 2,
+      "FW-NN-NN": 5,
+      "NN-NN-DT": 1,
+      "NN-DT-NN": 1,
+      "DT-NN-NN": 2,
+      "JJ-NN-IN": 4,
+      "FW-NNP-NN": 1,
+      "IN-FW-NNS": 1,
+      "VBP-JJ-NN": 1,
+      "NN-NN-CD": 1,
+      "NN-CD-NN": 3,
+      "CD-NN-NN": 4,
+      "NN-VBZ-DT": 1,
+      "VBZ-DT-NN": 2,
+      "NN-JJ-NNS": 2,
+      "JJ-NNS-VBP": 2,
+      "VBP-JJ-DT": 1,
+      "JJ-DT-JJ": 1,
+      "DT-JJ-NN": 1,
+      "NN-NNP-NNP": 1,
+      "IN-NNP-CD": 1,
+      "NNP-CD-NN": 1,
+      "NNP-FW-NN": 2,
+      "FW-NN-JJ": 1,
+      "NN-VBZ-IN": 1,
+      "VBZ-IN-FW": 1,
+      "NNP-NNP-VBZ": 2,
+      "NNP-VBZ-FW": 1,
+      "VBZ-FW-NN": 1,
+      "FW-NN-IN": 1,
+      "VBZ-JJ-NN": 2,
+      "NN-NN-NNS": 2,
+      "NNS-VBZ-DT": 1,
+      "DT-NN-CD": 1,
+      "NN-NN-VBP": 1,
+      "NN-VBP-JJ": 1,
+      "NNP-NN-VBD": 1,
+      "NNS-NNP-VBD": 1,
+      "NNP-VBD-JJ": 1,
+      "VBD-JJ-JJ": 1,
+      "NN-NNP-FW": 1,
+      "FW-NN-FW": 1,
+      "NN-FW-FW": 3,
+      "NN-IN-NN": 1,
+      "IN-NN-CD": 1,
+      "JJ-NN-FW": 1,
+      "FW-NNP-VBP": 1,
+      "NNP-VBP-NNP": 1,
+      "VBP-NNP-NNS": 1,
+      "NNP-NNS-VBP": 1,
+      "VBP-JJ-NNS": 1,
+      "NNS-VBP-NN": 1,
+      "VBP-NN-NN": 1,
+      "IN-FW-JJ": 2,
+      "FW-JJ-NN": 1,
+      "FW-JJ-JJ": 1,
+      "NN-NNS-VBP": 1,
+      "NNS-VBP-FW": 1,
+      "VBP-FW-FW": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 141,
+        "FW": 59,
+        "NNP": 42,
+        "JJ": 38,
+        "IN": 18
+      },
+      "top_bigrams": {
+        "NN-NN": 85,
+        "FW-FW": 31,
+        "JJ-NN": 22,
+        "NNP-NN": 13,
+        "NN-IN": 13
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 49,
+        "FW-FW-FW": 19,
+        "JJ-NN-NN": 16,
+        "NN-NN-JJ": 9,
+        "NNP-NN-NN": 8
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 10,
+    "chunk_counts": {
+      "NP": 93,
+      "VP": 24,
+      "PP": 8
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 3,
+        "weight": 0.0222
+      },
+      {
+        "rule": "NP -> ('Brasil', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0148
+      },
+      {
+        "rule": "VP -> ('con', 'VBP') NP",
+        "frequency": 2,
+        "weight": 0.0148
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0148
+      },
+      {
+        "rule": "VP -> ('el', 'VBZ') NP",
+        "frequency": 2,
+        "weight": 0.0148
+      },
+      {
+        "rule": "S -> NP ('de', 'FW') NP (',', ',') NP (',', ',') ('se', 'FW') ('reunió', 'FW') NP VP VP VP (',', ',') NP PP NP VP PP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0074
+      },
+      {
+        "rule": "NP -> ('El', 'NNP') ('presidente', 'NN')",
+        "frequency": 1,
+        "weight": 0.0074
+      },
+      {
+        "rule": "NP -> ('Luiz', 'NNP') ('Inácio', 'NNP') ('Lula', 'NNP') ('da', 'NN') ('Silva', 'NN')",
+        "frequency": 1,
+        "weight": 0.0074
+      },
+      {
+        "rule": "NP -> ('este', 'NN') ('martes', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0074
+      },
+      {
+        "rule": "NP -> ('las', 'JJ') ('autoridades', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0074
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El presidente"
+      },
+      {
+        "label": "NP",
+        "text": "Brasil"
+      },
+      {
+        "label": "NP",
+        "text": "Luiz Inácio Lula da Silva"
+      },
+      {
+        "label": "NP",
+        "text": "este martes"
+      },
+      {
+        "label": "VP",
+        "text": "con las autoridades"
+      },
+      {
+        "label": "NP",
+        "text": "las autoridades"
+      },
+      {
+        "label": "VP",
+        "text": "del Estado para debatir medidas"
+      },
+      {
+        "label": "NP",
+        "text": "Estado para debatir medidas"
+      },
+      {
+        "label": "VP",
+        "text": "urgentes y definitivas contra el cambio climático"
+      },
+      {
+        "label": "NP",
+        "text": "y definitivas contra el cambio climático"
+      },
+      {
+        "label": "NP",
+        "text": "como solicitar"
+      },
+      {
+        "label": "PP",
+        "text": "ayuda internacional debido"
+      },
+      {
+        "label": "NP",
+        "text": "internacional debido"
+      },
+      {
+        "label": "NP",
+        "text": "a los incendios que"
+      },
+      {
+        "label": "VP",
+        "text": "se expanden por el territorio nacional desde hace más"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP El/NNP presidente/NN)\n  de/FW\n  (NP Brasil/NNP)\n  ,/,\n  (NP Luiz/NNP Inácio/NNP Lula/NNP da/NN Silva/NN)\n  ,/,\n  se/FW\n  reunió/FW\n  (NP este/NN martes/NNS)\n  (VP con/VBP (NP las/JJ autoridades/NNS))\n  (VP del/VBP (NP Estado/NNP para/NN debatir/NN medidas/NN))\n  (VP\n    urgentes/VBZ\n    (NP y/JJ definitivas/NN contra/NN el/NN cambio/NN climático/NN))\n  ,/,\n  (NP como/NN solicitar/NN)\n  (PP ayuda/IN (NP internacional/JJ debido/NN))\n  (NP a/DT los/JJ incendios/JJ que/NN)\n  (VP\n    se/VBD\n    (NP expanden/JJ por/NN el/NN territorio/NN)\n    (NP nacional/JJ desde/NN hace/NN más/NN))\n  (PP de/IN (NP un/JJ mes/NNS))\n  ./.)",
+      "(S\n  (NP LEAN/NNP TAMBIÉN/NNP)\n  :/:\n  (NP Universidad/NNP)\n  (PP de/IN (NP Brasilia/NNP suspende/NN clases/NNS))\n  (VP presenciales/VBZ (NP tras/NNS) incendio/JJ)\n  en/FW\n  el/FW\n  (NP Parque/NNP Nacional/NNP)\n  de/FW\n  esa/FW\n  (NP ciudad/NN Al/NNP inicio/NN)\n  de/IN\n  la/FW\n  reunión/FW\n  (NP con/NN las/NNS)\n  (PP autoridades/IN (NP del/NN Parlamento/NNP))\n  ,/,\n  (NP la/NN Corte/NNP Suprema/NNP y/NNP)\n  otros/FW\n  de/FW\n  los/FW\n  (NP principales/NNS)\n  (VP organismos/VBP (NP del/JJ Estado/NNP brasileño/NN))\n  ,/,\n  (NP así/JJ como/NN científicos/NN y/NN académicos/NN que/NN)\n  (NP estudian/JJ el/NN cambio/NN climático/NN)\n  ,/,\n  (NP Lula/NNP)\n  (VP expresó/VBZ (NP que/JJ “/NNP la/NN))\n  naturaleza/FW\n  (NP resolvió/NN mostrar/NN sus/NN)\n  garras/FW\n  y/CC\n  (NP nos/JJ dice/NN que/NN o/NN la/NN cuidamos/NN correctamente/NN)\n  (PP o/IN (NP no/DT va/NN))\n  (NP a/DT soportar/NN tanta/NN falta/NN)\n  de/IN\n  responsabilidad/FW\n  (NP ”/NN)\n  ./.)",
+      "(S\n  (NP El/NNP mandatario/NN dijo/NN que/NN la/NN)\n  (NP principal/JJ causa/NN)\n  de/IN\n  los/FW\n  (NP incendios/NNS)\n  (VP ocurridos/VBP (NP en/JJ más/NN del/NN))\n  50/CD\n  (NP por/NN ciento/NN del/NN territorio/NN es/NN)\n  la/FW\n  (NP mayor/NN sequía/NN registrada/NN)\n  (PP en/IN (NP décadas/NN))\n  ./.)",
+      "(S\n  (NP Asimismo/NNP)\n  ,/,\n  (VP explicó/VBZ (NP las/NNS) (NP sospechas/JJ con/NN))\n  (VP respecto/VBZ (NP a/DT las/JJ llamas/NN provocadas/NNS))\n  (VP con/VBP (NP carácter/NN “/NNP delictivo/NN ”/NN))\n  ./.)",
+      "(S\n  (NP “/JJ No/NNP se/NN puede/NN probar/NN nada/NN ”/NNP)\n  ,/,\n  (NP reconoció/NN Lula/NNP)\n  ,/,\n  (NP pero/NN también/NN declaró/NN que/NN)\n  (NP encuentra/JJ anomalías/NN)\n  en/IN\n  la/FW\n  situación/FW\n  ,/,\n  el/FW\n  hecho/FW\n  de/FW\n  la/FW\n  aparición/FW\n  de/FW\n  llamas/FW\n  en/FW\n  (NP casi/NN todos/NN)\n  (NP los/JJ territorios/NNS)\n  (VP del/VBP país/JJ (NP no/DT es/JJ algo/NN común/NN))\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "CIUDADES_CAPITALES",
+      "GOBIERNOS_OFICIALES",
+      "RECURSOS_NATURALES",
+      "CANTIDADES_NUMERICAS",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "REGIONES_PROVINCIAS",
+      "CRISIS_HUMANITARIA_SERVICIOS",
+      "INSTITUCIONES_EDUCATIVAS",
+      "PAISES",
+      "LOCALIZACIONES_ESPECIFICAS",
+      "INFRAESTRUCTURA_SERVICIOS"
+    ],
+    "matches": [
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "expresó",
+        "position": [
+          631,
+          638
+        ],
+        "start": 631,
+        "end": 638
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "explicó",
+        "position": [
+          942,
+          949
+        ],
+        "start": 942,
+        "end": 949
+      },
+      {
+        "category": "CRISIS_HUMANITARIA_SERVICIOS",
+        "matched_text": "cambio climático",
+        "position": [
+          159,
+          175
+        ],
+        "start": 159,
+        "end": 175
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente de brasil",
+        "position": [
+          3,
+          23
+        ],
+        "start": 3,
+        "end": 23
+      },
+      {
+        "category": "INSTITUCIONES_EDUCATIVAS",
+        "matched_text": "universidad de brasilia",
+        "position": [
+          318,
+          341
+        ],
+        "start": 318,
+        "end": 341
+      },
+      {
+        "category": "RECURSOS_NATURALES",
+        "matched_text": "río",
+        "position": [
+          1228,
+          1231
+        ],
+        "start": 1228,
+        "end": 1231
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "universidad",
+        "position": [
+          318,
+          329
+        ],
+        "start": 318,
+        "end": 329
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "brasil",
+        "position": [
+          17,
+          23
+        ],
+        "start": 17,
+        "end": 23
+      },
+      {
+        "category": "CIUDADES_CAPITALES",
+        "matched_text": "brasilia",
+        "position": [
+          333,
+          341
+        ],
+        "start": 333,
+        "end": 341
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "estado para",
+        "position": [
+          98,
+          109
+        ],
+        "start": 98,
+        "end": 109
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "parque nacional",
+        "position": [
+          391,
+          406
+        ],
+        "start": 391,
+        "end": 406
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "centro de",
+        "position": [
+          1681,
+          1690
+        ],
+        "start": 1681,
+        "end": 1690
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "universidad de",
+        "position": [
+          318,
+          332
+        ],
+        "start": 318,
+        "end": 332
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "20 personas",
+        "position": [
+          1243,
+          1254
+        ],
+        "start": 1243,
+        "end": 1254
+      }
+    ],
+    "match_count": 14
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Senado",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Parque Nacional",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Lula",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Estados",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Pantanal",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Parlamento",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "sabana del Cerrado",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Gobierno",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Cámara",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Estado",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "STF",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Estado brasileño",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Universidad de Brasilia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Río de Janeiro",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Luiz Inácio Lula da Silva",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Amazonía",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Brasil",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Corte Suprema",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Brasil",
+        "relacion": "DA_REUNIR",
+        "objeto": "Luiz Inácio Lula da Silva"
+      },
+      {
+        "sujeto": "Brasil",
+        "relacion": "DA_REUNIR",
+        "objeto": "Estado"
+      },
+      {
+        "sujeto": "Luiz Inácio Lula da Silva",
+        "relacion": "DA_REUNIR",
+        "objeto": "Estado"
+      },
+      {
+        "sujeto": "Universidad de Brasilia",
+        "relacion": "SUSPENDER_EXPRESAR",
+        "objeto": "Parque Nacional"
+      },
+      {
+        "sujeto": "Universidad de Brasilia",
+        "relacion": "SUSPENDER_EXPRESAR",
+        "objeto": "Parlamento"
+      },
+      {
+        "sujeto": "Universidad de Brasilia",
+        "relacion": "SUSPENDER_EXPRESAR",
+        "objeto": "Corte Suprema"
+      },
+      {
+        "sujeto": "Universidad de Brasilia",
+        "relacion": "SUSPENDER_EXPRESAR",
+        "objeto": "Estado brasileño"
+      },
+      {
+        "sujeto": "Universidad de Brasilia",
+        "relacion": "SUSPENDER_EXPRESAR",
+        "objeto": "Lula"
+      },
+      {
+        "sujeto": "Parque Nacional",
+        "relacion": "SUSPENDER_EXPRESAR",
+        "objeto": "Parlamento"
+      },
+      {
+        "sujeto": "Parque Nacional",
+        "relacion": "SUSPENDER_EXPRESAR",
+        "objeto": "Corte Suprema"
+      },
+      {
+        "sujeto": "Parque Nacional",
+        "relacion": "SUSPENDER_EXPRESAR",
+        "objeto": "Estado brasileño"
+      },
+      {
+        "sujeto": "Lula",
+        "relacion": "SUSPENDER_EXPRESAR",
+        "objeto": "Parque Nacional"
+      },
+      {
+        "sujeto": "Lula",
+        "relacion": "SUSPENDER_EXPRESAR",
+        "objeto": "Parlamento"
+      },
+      {
+        "sujeto": "Lula",
+        "relacion": "SUSPENDER_EXPRESAR",
+        "objeto": "Corte Suprema"
+      },
+      {
+        "sujeto": "Lula",
+        "relacion": "SUSPENDER_EXPRESAR",
+        "objeto": "Estado brasileño"
+      },
+      {
+        "sujeto": "Estados",
+        "relacion": "SER",
+        "objeto": "Lula"
+      },
+      {
+        "sujeto": "sabana del Cerrado",
+        "relacion": "ES",
+        "objeto": "Amazonía"
+      },
+      {
+        "sujeto": "Corte Suprema",
+        "relacion": "PERMITIR_REALIZAR",
+        "objeto": "Gobierno"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.7783,
+    "pos": 0.007,
+    "neu": 0.964,
+    "neg": 0.029,
+    "label": "negative"
+  }
+}

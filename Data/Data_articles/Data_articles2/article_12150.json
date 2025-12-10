@@ -1,0 +1,803 @@
+{
+  "url": "https://www.telesurtv.net/fallece-humberto-ortega-hermano-del-presidente-nicaraguense/",
+  "title": "Fallece Humberto Ortega, hermano del presidente nicaragüense - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "Daniel Ortega",
+    "Fallecimiento",
+    "Humberto Ortega",
+    "Nicaragua",
+    "parte médico"
+  ],
+  "text": "\nEl general retirado Humberto Ortega, hermano del presidente de Nicaragua, Daniel Ortega, falleció este lunes 30 de septiembre en el Hospital Militar Escuela “Dr. Alejandro Dávila Bolaños” de Managua, donde había sido internado días antes debido a un cuadro de salud grave.\nLa información fue confirmada a través de una nota de prensa emitida por el centro médico.\nHumberto Ortega, de 77 años, sufrió un paro cardiorrespiratorio en la madrugada y, a pesar de los esfuerzos de los médicos por reanimarlo, fue declarado fallecido a las 2:30 a.m. del mismo día.\nEl cuerpo médico informó que, aunque se realizaron maniobras de resucitación cardiopulmonar, el exjefe militar no logró superar el episodio.\nEl general retirado, quien desempeñó un papel clave en la historia militar de Nicaragua, fue ingresado de emergencia el pasado domingo debido a complicaciones relacionadas con varias condiciones preexistentes.\nOrtega sufría de hipertensión arterial crónica, diabetes tipo 2, portaba un marcapasos y presentaba insuficiencia cardíaca crónica, entre otras afecciones.\nEn su ingreso, el cuadro se agravó por una infección en el tejido blando del miembro inferior izquierdo, lo que derivó en sepsis y falla cardíaca.\nDurante su estancia en el Hospital Militar, los médicos lograron estabilizar su salud, permitiendo su traslado a una sala de hospitalización. Sin embargo, su condición empeoró, y el desenlace fatal se produjo en las primeras horas del 30 de septiembre.\nHumberto Ortega fue una figura destacada en el Ejército nicaragüense y tuvo un rol importante durante la Revolución Sandinista. A lo largo de su vida, fue un defensor de la soberanía nacional y desempeñó diversos cargos en la esfera militar del país.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/fallece-humberto-ortega-hermano-del-presidente-nicaraguense/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-09.json",
+    "message_index": 20,
+    "message_id": 77434,
+    "date": "2024-09-30T17:55:19+00:00",
+    "text": "teleSUR\nFallece Humberto Ortega, hermano del presidente nicaragüense\nhttps://www.telesurtv.net/fallece-humberto-ortega-hermano-del-presidente-nicaraguense/",
+    "photo_path": null,
+    "views": 2621,
+    "reactions": {
+      "😱": 22,
+      "😢": 18,
+      "🕊": 5,
+      "🫡": 2,
+      "👍": 1
+    },
+    "total_reactions": 48
+  },
+  "preprocessing": {
+    "cleaned": "el general retirado humberto ortega, hermano del presidente de nicaragua, daniel ortega, falleció este lunes 30 de septiembre en el hospital militar escuela “dr. alejandro dávila bolaños” de managua, donde había sido internado días antes debido a un cuadro de salud grave. la información fue confirmada a través de una nota de prensa emitida por el centro médico. humberto ortega, de 77 años, sufrió un paro cardiorrespiratorio en la madrugada y, a pesar de los esfuerzos de los médicos por reanimarlo, fue declarado fallecido a las 2:30 a.m. del mismo día. el cuerpo médico informó que, aunque se realizaron maniobras de resucitación cardiopulmonar, el exjefe militar no logró superar el episodio. el general retirado, quien desempeñó un papel clave en la historia militar de nicaragua, fue ingresado de emergencia el pasado domingo debido a complicaciones relacionadas con varias condiciones preexistentes. ortega sufría de hipertensión arterial crónica, diabetes tipo 2, portaba un marcapasos y presentaba insuficiencia cardíaca crónica, entre otras afecciones. en su ingreso, el cuadro se agravó por una infección en el tejido blando del miembro inferior izquierdo, lo que derivó en sepsis y falla cardíaca. durante su estancia en el hospital militar, los médicos lograron estabilizar su salud, permitiendo su traslado a una sala de hospitalización. sin embargo, su condición empeoró, y el desenlace fatal se produjo en las primeras horas del 30 de septiembre. humberto ortega fue una figura destacada en el ejército nicaragüense y tuvo un rol importante durante la revolución sandinista. a lo largo de su vida, fue un defensor de la soberanía nacional y desempeñó diversos cargos en la esfera militar del país.",
+    "tokens": [
+      "general",
+      "retirado",
+      "humberto",
+      "ortega",
+      ",",
+      "hermano",
+      "presidente",
+      "nicaragua",
+      ",",
+      "daniel",
+      "ortega",
+      ",",
+      "falleció",
+      "lunes",
+      "30",
+      "septiembre",
+      "hospital",
+      "militar",
+      "escuela",
+      "“",
+      "dr",
+      ".",
+      "alejandro",
+      "dávila",
+      "bolaños",
+      "”",
+      "managua",
+      ",",
+      "sido",
+      "internado",
+      "días",
+      "debido",
+      "cuadro",
+      "salud",
+      "grave",
+      ".",
+      "información",
+      "confirmada",
+      "través",
+      "nota",
+      "prensa",
+      "emitida",
+      "centro",
+      "médico",
+      ".",
+      "humberto",
+      "ortega",
+      ",",
+      "77",
+      "años",
+      ",",
+      "sufrió",
+      "paro",
+      "cardiorrespiratorio",
+      "madrugada",
+      ",",
+      "pesar",
+      "esfuerzos",
+      "médicos",
+      "reanimarlo",
+      ",",
+      "declarado",
+      "fallecido",
+      "2:30",
+      "a.m",
+      ".",
+      "mismo",
+      "día",
+      ".",
+      "cuerpo",
+      "médico",
+      "informó",
+      ",",
+      "aunque",
+      "realizaron",
+      "maniobras",
+      "resucitación",
+      "cardiopulmonar",
+      ",",
+      "exjefe",
+      "militar",
+      "logró",
+      "superar",
+      "episodio",
+      ".",
+      "general",
+      "retirado",
+      ",",
+      "desempeñó",
+      "papel",
+      "clave",
+      "historia",
+      "militar",
+      "nicaragua",
+      ",",
+      "ingresado",
+      "emergencia",
+      "pasado",
+      "domingo",
+      "debido",
+      "complicaciones",
+      "relacionadas",
+      "varias",
+      "condiciones",
+      "preexistentes",
+      ".",
+      "ortega",
+      "sufría",
+      "hipertensión",
+      "arterial",
+      "crónica",
+      ",",
+      "diabetes",
+      "tipo",
+      "2",
+      ",",
+      "portaba",
+      "marcapasos",
+      "presentaba",
+      "insuficiencia",
+      "cardíaca",
+      "crónica",
+      ",",
+      "afecciones",
+      ".",
+      "ingreso",
+      ",",
+      "cuadro",
+      "agravó",
+      "infección",
+      "tejido",
+      "blando",
+      "miembro",
+      "inferior",
+      "izquierdo",
+      ",",
+      "derivó",
+      "sepsis",
+      "falla",
+      "cardíaca",
+      ".",
+      "estancia",
+      "hospital",
+      "militar",
+      ",",
+      "médicos",
+      "lograron",
+      "estabilizar",
+      "salud",
+      ",",
+      "permitiendo",
+      "traslado",
+      "sala",
+      "hospitalización",
+      ".",
+      "embargo",
+      ",",
+      "condición",
+      "empeoró",
+      ",",
+      "desenlace",
+      "fatal",
+      "produjo",
+      "primeras",
+      "horas",
+      "30",
+      "septiembre",
+      ".",
+      "humberto",
+      "ortega",
+      "figura",
+      "destacada",
+      "ejército",
+      "nicaragüense",
+      "rol",
+      "importante",
+      "revolución",
+      "sandinista",
+      ".",
+      "largo",
+      "vida",
+      ",",
+      "defensor",
+      "soberanía",
+      "nacional",
+      "desempeñó",
+      "diversos",
+      "cargos",
+      "esfera",
+      "militar",
+      "país",
+      "."
+    ],
+    "token_count": 192,
+    "sentence_count": 13
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 31,
+      "JJ": 25,
+      "NN": 104,
+      "IN": 17,
+      "VBD": 3,
+      "NNS": 5,
+      "CD": 4,
+      "FW": 53,
+      "VBZ": 5,
+      "VBP": 5,
+      "DT": 1,
+      "VBN": 1
+    },
+    "bigram_freq": {
+      "NNP-JJ": 3,
+      "JJ-NN": 20,
+      "NN-NNP": 5,
+      "NNP-NNP": 13,
+      "NNP-NN": 9,
+      "NN-NN": 61,
+      "NN-IN": 14,
+      "IN-NNP": 2,
+      "NNP-VBD": 2,
+      "VBD-NN": 1,
+      "NN-NNS": 3,
+      "NNS-CD": 1,
+      "CD-IN": 1,
+      "IN-FW": 11,
+      "FW-FW": 33,
+      "FW-NNP": 6,
+      "NNP-IN": 2,
+      "NN-VBZ": 3,
+      "VBZ-JJ": 4,
+      "JJ-JJ": 2,
+      "FW-VBP": 1,
+      "VBP-NNP": 1,
+      "NNP-FW": 1,
+      "FW-NN": 9,
+      "IN-JJ": 2,
+      "JJ-FW": 1,
+      "NN-FW": 5,
+      "IN-CD": 1,
+      "CD-NNS": 1,
+      "NNS-JJ": 1,
+      "NN-VBD": 1,
+      "VBD-CD": 1,
+      "CD-JJ": 1,
+      "NN-VBP": 3,
+      "VBP-NN": 2,
+      "NN-DT": 1,
+      "DT-NN": 1,
+      "NN-JJ": 7,
+      "VBP-VBN": 1,
+      "VBN-FW": 1,
+      "NNS-VBP": 1,
+      "NNS-VBZ": 1,
+      "VBZ-NNP": 1,
+      "FW-JJ": 3,
+      "VBP-JJ": 1,
+      "JJ-NNS": 1,
+      "NNS-NNP": 1,
+      "IN-NN": 1,
+      "JJ-NNP": 1,
+      "NNP-VBZ": 1,
+      "FW-CD": 1,
+      "CD-FW": 1,
+      "VBD-JJ": 1
+    },
+    "trigram_freq": {
+      "NNP-JJ-NN": 3,
+      "JJ-NN-NNP": 2,
+      "NN-NNP-NNP": 2,
+      "NNP-NNP-NN": 1,
+      "NNP-NN-NN": 8,
+      "NN-NN-NN": 36,
+      "NN-NN-IN": 9,
+      "NN-IN-NNP": 1,
+      "IN-NNP-NNP": 1,
+      "NNP-NNP-NNP": 6,
+      "NNP-NNP-VBD": 2,
+      "NNP-VBD-NN": 1,
+      "VBD-NN-NNS": 1,
+      "NN-NNS-CD": 1,
+      "NNS-CD-IN": 1,
+      "CD-IN-FW": 1,
+      "IN-FW-FW": 8,
+      "FW-FW-FW": 20,
+      "FW-FW-NNP": 3,
+      "FW-NNP-NNP": 3,
+      "NNP-NNP-IN": 2,
+      "NNP-IN-NNP": 1,
+      "IN-NNP-NN": 1,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-JJ": 3,
+      "VBZ-JJ-JJ": 1,
+      "JJ-JJ-NN": 2,
+      "JJ-NN-IN": 5,
+      "NN-IN-FW": 10,
+      "IN-FW-VBP": 1,
+      "FW-VBP-NNP": 1,
+      "VBP-NNP-FW": 1,
+      "NNP-FW-NN": 1,
+      "FW-NN-NN": 5,
+      "NN-IN-JJ": 2,
+      "IN-JJ-FW": 1,
+      "JJ-FW-FW": 1,
+      "FW-FW-NN": 6,
+      "FW-NN-FW": 1,
+      "NN-FW-NN": 2,
+      "NN-NN-NNP": 3,
+      "NNP-IN-CD": 1,
+      "IN-CD-NNS": 1,
+      "CD-NNS-JJ": 1,
+      "NNS-JJ-JJ": 1,
+      "JJ-NN-NN": 10,
+      "NN-NN-VBD": 1,
+      "NN-VBD-CD": 1,
+      "VBD-CD-JJ": 1,
+      "CD-JJ-NN": 1,
+      "NN-NNP-NN": 2,
+      "NN-NN-FW": 3,
+      "NN-FW-FW": 2,
+      "NN-NN-VBP": 2,
+      "NN-VBP-NN": 1,
+      "VBP-NN-DT": 1,
+      "NN-DT-NN": 1,
+      "DT-NN-VBZ": 1,
+      "VBZ-JJ-NN": 3,
+      "NN-NNP-JJ": 1,
+      "NN-NN-JJ": 4,
+      "NN-JJ-NN": 7,
+      "JJ-NN-VBP": 1,
+      "NN-VBP-VBN": 1,
+      "VBP-VBN-FW": 1,
+      "VBN-FW-FW": 1,
+      "FW-NNP-NN": 3,
+      "FW-NN-NNS": 1,
+      "NN-NNS-VBP": 1,
+      "NNS-VBP-NN": 1,
+      "VBP-NN-NN": 1,
+      "NN-NN-NNS": 1,
+      "NN-NNS-VBZ": 1,
+      "NNS-VBZ-NNP": 1,
+      "VBZ-NNP-NN": 1,
+      "NNP-NN-FW": 1,
+      "FW-FW-JJ": 3,
+      "FW-JJ-NN": 3,
+      "JJ-NN-VBZ": 1,
+      "JJ-NN-JJ": 1,
+      "NN-VBP-JJ": 1,
+      "VBP-JJ-NNS": 1,
+      "JJ-NNS-NNP": 1,
+      "NNS-NNP-NN": 1,
+      "NN-IN-NN": 1,
+      "IN-NN-NN": 1,
+      "IN-JJ-NNP": 1,
+      "JJ-NNP-NNP": 1,
+      "NNP-NNP-VBZ": 1,
+      "NNP-VBZ-JJ": 1,
+      "IN-FW-NNP": 2,
+      "FW-NN-JJ": 2,
+      "FW-FW-CD": 1,
+      "FW-CD-FW": 1,
+      "CD-FW-FW": 1,
+      "NNP-VBD-JJ": 1,
+      "VBD-JJ-NN": 1,
+      "NN-FW-NNP": 1,
+      "NNP-NNP-JJ": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 104,
+        "FW": 53,
+        "NNP": 31,
+        "JJ": 25,
+        "IN": 17
+      },
+      "top_bigrams": {
+        "NN-NN": 61,
+        "FW-FW": 33,
+        "JJ-NN": 20,
+        "NN-IN": 14,
+        "NNP-NNP": 13
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 36,
+        "FW-FW-FW": 20,
+        "NN-IN-FW": 10,
+        "JJ-NN-NN": 10,
+        "NN-NN-IN": 9
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 13,
+    "chunk_counts": {
+      "NP": 73,
+      "VP": 13,
+      "ADJP": 3,
+      "PP": 4
+    },
+    "top_rules": [
+      {
+        "rule": "NP -> ('El', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0189
+      },
+      {
+        "rule": "NP -> ('Nicaragua', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0189
+      },
+      {
+        "rule": "NP -> ('Humberto', 'NNP') ('Ortega', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0189
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0189
+      },
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0189
+      },
+      {
+        "rule": "S -> NP NP (',', ',') NP ('del', 'FW') NP ('de', 'FW') NP (',', ',') NP (',', ',') NP ('30', 'CD') ('de', 'IN') ('septiembre', 'FW') ('en', 'FW') ('el', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0094
+      },
+      {
+        "rule": "NP -> ('general', 'JJ') ('retirado', 'NN') ('Humberto', 'NNP') ('Ortega', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0094
+      },
+      {
+        "rule": "NP -> ('hermano', 'NN')",
+        "frequency": 1,
+        "weight": 0.0094
+      },
+      {
+        "rule": "NP -> ('presidente', 'NN')",
+        "frequency": 1,
+        "weight": 0.0094
+      },
+      {
+        "rule": "NP -> ('Daniel', 'NNP') ('Ortega', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0094
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El"
+      },
+      {
+        "label": "NP",
+        "text": "general retirado Humberto Ortega"
+      },
+      {
+        "label": "NP",
+        "text": "hermano"
+      },
+      {
+        "label": "NP",
+        "text": "presidente"
+      },
+      {
+        "label": "NP",
+        "text": "Nicaragua"
+      },
+      {
+        "label": "NP",
+        "text": "Daniel Ortega"
+      },
+      {
+        "label": "NP",
+        "text": "falleció este lunes"
+      },
+      {
+        "label": "NP",
+        "text": "Hospital Militar Escuela “ Dr"
+      },
+      {
+        "label": "NP",
+        "text": "Alejandro Dávila Bolaños ”"
+      },
+      {
+        "label": "NP",
+        "text": "Managua"
+      },
+      {
+        "label": "NP",
+        "text": "donde había sido internado días"
+      },
+      {
+        "label": "VP",
+        "text": "antes"
+      },
+      {
+        "label": "VP",
+        "text": "debido a un cuadro"
+      },
+      {
+        "label": "NP",
+        "text": "a un cuadro"
+      },
+      {
+        "label": "NP",
+        "text": "grave"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP El/NNP)\n  (NP general/JJ retirado/NN Humberto/NNP Ortega/NNP)\n  ,/,\n  (NP hermano/NN)\n  del/FW\n  (NP presidente/NN)\n  de/FW\n  (NP Nicaragua/NNP)\n  ,/,\n  (NP Daniel/NNP Ortega/NNP)\n  ,/,\n  (NP falleció/JJ este/NN lunes/NNS)\n  30/CD\n  de/IN\n  septiembre/FW\n  en/FW\n  el/FW\n  (NP Hospital/NNP Militar/NNP Escuela/NNP “/NNP Dr/NNP)\n  ./.)",
+      "(S\n  (NP Alejandro/NNP Dávila/NNP Bolaños/NNP ”/NNP)\n  de/FW\n  (NP Managua/NNP)\n  ,/,\n  (NP donde/NN había/NN sido/NN internado/NN días/NN)\n  (VP antes/VBZ)\n  (VP debido/VBP (NP a/DT un/JJ cuadro/NN))\n  de/IN\n  salud/FW\n  (NP grave/NN)\n  ./.)",
+      "(S\n  (NP La/NNP)\n  (VP información/VBZ fue/RB)\n  (VP confirmada/VB (NP a/DT través/NN))\n  de/IN\n  (ADJP una/JJ)\n  nota/FW\n  de/FW\n  prensa/FW\n  emitida/FW\n  (NP por/NN)\n  el/FW\n  (NP centro/NN médico/NN)\n  ./.)",
+      "(S\n  (NP Humberto/NNP Ortega/NNP)\n  ,/,\n  de/FW\n  77/CD\n  (NP años/NN)\n  ,/,\n  (NP sufrió/JJ un/JJ paro/NN cardiorrespiratorio/NN)\n  en/IN\n  la/FW\n  madrugada/FW\n  (NP y/NN)\n  ,/,\n  (NP a/DT pesar/NN)\n  de/IN\n  los/FW\n  esfuerzos/FW\n  de/FW\n  los/FW\n  médicos/FW\n  (NP por/NN reanimarlo/NN)\n  ,/,\n  (NP fue/JJ declarado/NN)\n  (VP fallecido/VBD)\n  a/DT\n  (ADJP las/JJ)\n  2:30/CD\n  (NP a.m/NN)\n  ./.)",
+      "(S (NP del/NN mismo/NN día/NN) ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "FECHAS_HORAS",
+      "CIUDADES_CAPITALES",
+      "GOBIERNOS_OFICIALES",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "ANTIIMPERIALISMO_SOBERANIA",
+      "INSTITUCIONES_EDUCATIVAS",
+      "PERIODOS_TEMPORALES",
+      "PAISES",
+      "LOCALIZACIONES_ESPECIFICAS",
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "INFRAESTRUCTURA_SERVICIOS",
+      "FECHAS_ESPECIFICAS"
+    ],
+    "matches": [
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "ingreso",
+        "position": [
+          1072,
+          1079
+        ],
+        "start": 1072,
+        "end": 1079
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "informó",
+        "position": [
+          576,
+          583
+        ],
+        "start": 576,
+        "end": 583
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente de nicaragua",
+        "position": [
+          50,
+          73
+        ],
+        "start": 50,
+        "end": 73
+      },
+      {
+        "category": "INSTITUCIONES_EDUCATIVAS",
+        "matched_text": "escuela “dr",
+        "position": [
+          150,
+          161
+        ],
+        "start": 150,
+        "end": 161
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "hospital",
+        "position": [
+          133,
+          141
+        ],
+        "start": 133,
+        "end": 141
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "escuela",
+        "position": [
+          150,
+          157
+        ],
+        "start": 150,
+        "end": 157
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "nicaragua",
+        "position": [
+          64,
+          73
+        ],
+        "start": 64,
+        "end": 73
+      },
+      {
+        "category": "CIUDADES_CAPITALES",
+        "matched_text": "managua",
+        "position": [
+          192,
+          199
+        ],
+        "start": 192,
+        "end": 199
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "centro médico",
+        "position": [
+          350,
+          363
+        ],
+        "start": 350,
+        "end": 363
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "hospital militar",
+        "position": [
+          133,
+          149
+        ],
+        "start": 133,
+        "end": 149
+      },
+      {
+        "category": "FECHAS_ESPECIFICAS",
+        "matched_text": "lunes 30 de septiembre",
+        "position": [
+          104,
+          126
+        ],
+        "start": 104,
+        "end": 126
+      },
+      {
+        "category": "PERIODOS_TEMPORALES",
+        "matched_text": "en la madrugada",
+        "position": [
+          429,
+          444
+        ],
+        "start": 429,
+        "end": 444
+      },
+      {
+        "category": "ANTIIMPERIALISMO_SOBERANIA",
+        "matched_text": "soberanía nacional",
+        "position": [
+          1639,
+          1657
+        ],
+        "start": 1639,
+        "end": 1657
+      },
+      {
+        "category": "ANTIIMPERIALISMO_SOBERANIA",
+        "matched_text": "embargo",
+        "position": [
+          1359,
+          1366
+        ],
+        "start": 1359,
+        "end": 1366
+      },
+      {
+        "category": "FECHAS_HORAS",
+        "matched_text": "a las 2:30",
+        "position": [
+          528,
+          539
+        ],
+        "start": 528,
+        "end": 539
+      }
+    ],
+    "match_count": 15
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Hospital Militar",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Daniel Ortega",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Ortega",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Revolución Sandinista",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Hospital Militar Escuela “Dr. Alejandro Dávila Bolaños",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Nicaragua",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Humberto Ortega",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "A",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Managua",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Humberto Ortega",
+        "relacion": "FALLECER",
+        "objeto": "Hospital Militar Escuela “Dr. Alejandro Dávila Bolaños"
+      },
+      {
+        "sujeto": "Humberto Ortega",
+        "relacion": "FALLECER",
+        "objeto": "Managua"
+      },
+      {
+        "sujeto": "Nicaragua",
+        "relacion": "FALLECER",
+        "objeto": "Hospital Militar Escuela “Dr. Alejandro Dávila Bolaños"
+      },
+      {
+        "sujeto": "Nicaragua",
+        "relacion": "FALLECER",
+        "objeto": "Managua"
+      },
+      {
+        "sujeto": "Daniel Ortega",
+        "relacion": "FALLECER",
+        "objeto": "Hospital Militar Escuela “Dr. Alejandro Dávila Bolaños"
+      },
+      {
+        "sujeto": "Daniel Ortega",
+        "relacion": "FALLECER",
+        "objeto": "Managua"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.9274,
+    "pos": 0.0,
+    "neu": 0.945,
+    "neg": 0.055,
+    "label": "negative"
+  }
+}

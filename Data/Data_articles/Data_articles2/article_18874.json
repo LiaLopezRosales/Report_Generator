@@ -1,0 +1,484 @@
+{
+  "url": "https://www.telesurtv.net/ataques-israelies-dejan-al-menos-cinco-muertos-en-el-sur-del-libano/",
+  "title": "Ataques israelíes dejan al menos cinco muertos en el sur del Líbano - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Cinco muertos",
+    "Israel",
+    "Líbano",
+    "Tres niños"
+  ],
+  "text": "Tras ataques perpetrados por drones de las Fuerzas de Defensa de Israel en el sur del Líbano, al menos cinco personas resultaron muertos y entre ellas, las autoridades apuntan a tres menores de edad.\nLas autoridades sanitarias, citadas por el medio local ‘L’Orient-Le Jour’, confirmaron la muerte de estas dos personas, mientras que el Ejército dijo que trabajan para descifrar las identidades de esas dos personas fallecidas.\nEn el caso de los menores, la agencia de noticias NNA, apuntó que fueron alcanzados por un dron israelí en Um el Tut, localidad ubicada en el distrito de Tiro.\nMedios locales detallan que los tres niños se nombraban Mohamad Jerkes, Jean Jerkes y Jalil Jalil.\nAdemás, la prensa local apunta que los menores se encontraban jugando frente a sus casas, en una finca donde sus padres laboran, cuando fueron atacados.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/ataques-israelies-dejan-al-menos-cinco-muertos-en-el-sur-del-libano/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-07.json",
+    "message_index": 545,
+    "message_id": 73292,
+    "date": "2024-07-17T02:55:30+00:00",
+    "text": "teleSUR\nAtaques israelíes dejan al menos cinco muertos en el sur del Líbano\nhttps://www.telesurtv.net/ataques-israelies-dejan-al-menos-cinco-muertos-en-el-sur-del-libano/",
+    "photo_path": null,
+    "views": 1266,
+    "reactions": {},
+    "total_reactions": 0
+  },
+  "preprocessing": {
+    "cleaned": "tras ataques perpetrados por drones de las fuerzas de defensa de israel en el sur del líbano, al menos cinco personas resultaron muertos y entre ellas, las autoridades apuntan a tres menores de edad. las autoridades sanitarias, citadas por el medio local ‘l’orient-le jour’, confirmaron la muerte de estas dos personas, mientras que el ejército dijo que trabajan para descifrar las identidades de esas dos personas fallecidas. en el caso de los menores, la agencia de noticias nna, apuntó que fueron alcanzados por un dron israelí en um el tut, localidad ubicada en el distrito de tiro. medios locales detallan que los tres niños se nombraban mohamad jerkes, jean jerkes y jalil jalil. además, la prensa local apunta que los menores se encontraban jugando frente a sus casas, en una finca donde sus padres laboran, cuando fueron atacados.",
+    "tokens": [
+      "tras",
+      "ataques",
+      "perpetrados",
+      "drones",
+      "fuerzas",
+      "defensa",
+      "israel",
+      "sur",
+      "líbano",
+      ",",
+      "menos",
+      "cinco",
+      "personas",
+      "resultaron",
+      "muertos",
+      ",",
+      "autoridades",
+      "apuntan",
+      "tres",
+      "menores",
+      "edad",
+      ".",
+      "autoridades",
+      "sanitarias",
+      ",",
+      "citadas",
+      "medio",
+      "local",
+      "‘",
+      "l",
+      "’",
+      "orient-le",
+      "jour",
+      "’",
+      ",",
+      "confirmaron",
+      "muerte",
+      "dos",
+      "personas",
+      ",",
+      "mientras",
+      "ejército",
+      "dijo",
+      "trabajan",
+      "descifrar",
+      "identidades",
+      "dos",
+      "personas",
+      "fallecidas",
+      ".",
+      "caso",
+      "menores",
+      ",",
+      "agencia",
+      "noticias",
+      "nna",
+      ",",
+      "apuntó",
+      "alcanzados",
+      "dron",
+      "israelí",
+      "um",
+      "tut",
+      ",",
+      "localidad",
+      "ubicada",
+      "distrito",
+      "tiro",
+      ".",
+      "medios",
+      "locales",
+      "detallan",
+      "tres",
+      "niños",
+      "nombraban",
+      "mohamad",
+      "jerkes",
+      ",",
+      "jean",
+      "jerkes",
+      "jalil",
+      "jalil",
+      ".",
+      "además",
+      ",",
+      "prensa",
+      "local",
+      "apunta",
+      "menores",
+      "encontraban",
+      "jugando",
+      "frente",
+      "casas",
+      ",",
+      "finca",
+      "padres",
+      "laboran",
+      ",",
+      "atacados",
+      "."
+    ],
+    "token_count": 100,
+    "sentence_count": 5
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 23,
+      "NNS": 11,
+      "VBP": 7,
+      "JJ": 17,
+      "IN": 6,
+      "FW": 33,
+      "NN": 32,
+      "VBZ": 5
+    },
+    "bigram_freq": {
+      "NNP-NNS": 2,
+      "NNS-VBP": 6,
+      "VBP-JJ": 5,
+      "JJ-NNS": 3,
+      "NNS-IN": 1,
+      "IN-FW": 3,
+      "FW-NNP": 8,
+      "NNP-FW": 6,
+      "NNP-IN": 1,
+      "IN-NNP": 2,
+      "FW-FW": 20,
+      "NNP-VBP": 1,
+      "VBP-NNS": 1,
+      "JJ-NN": 9,
+      "NN-NN": 19,
+      "NN-VBZ": 2,
+      "VBZ-JJ": 3,
+      "NNS-NNS": 1,
+      "NNS-JJ": 1,
+      "NNS-VBZ": 1,
+      "VBZ-IN": 1,
+      "NN-JJ": 3,
+      "JJ-JJ": 2,
+      "JJ-NNP": 2,
+      "NNP-NNP": 9,
+      "NNP-NN": 2,
+      "NN-FW": 2,
+      "FW-NNS": 2,
+      "NNS-NNP": 1,
+      "FW-NN": 1,
+      "NN-IN": 3,
+      "VBP-FW": 1,
+      "NNP-VBZ": 2,
+      "FW-JJ": 2,
+      "JJ-FW": 1,
+      "VBZ-NN": 1,
+      "NN-NNS": 2,
+      "IN-JJ": 1
+    },
+    "trigram_freq": {
+      "NNP-NNS-VBP": 2,
+      "NNS-VBP-JJ": 5,
+      "VBP-JJ-NNS": 1,
+      "JJ-NNS-IN": 1,
+      "NNS-IN-FW": 1,
+      "IN-FW-NNP": 2,
+      "FW-NNP-FW": 2,
+      "NNP-FW-NNP": 2,
+      "FW-NNP-IN": 1,
+      "NNP-IN-NNP": 1,
+      "IN-NNP-FW": 2,
+      "NNP-FW-FW": 1,
+      "FW-FW-FW": 15,
+      "FW-FW-NNP": 4,
+      "FW-NNP-VBP": 1,
+      "NNP-VBP-NNS": 1,
+      "VBP-NNS-VBP": 1,
+      "VBP-JJ-NN": 3,
+      "JJ-NN-NN": 8,
+      "NN-NN-VBZ": 2,
+      "NN-VBZ-JJ": 2,
+      "VBZ-JJ-NNS": 1,
+      "JJ-NNS-NNS": 1,
+      "NNS-NNS-JJ": 1,
+      "NNS-JJ-NNS": 1,
+      "JJ-NNS-VBZ": 1,
+      "NNS-VBZ-IN": 1,
+      "VBZ-IN-FW": 1,
+      "FW-NNP-NNS": 1,
+      "NN-NN-JJ": 2,
+      "NN-JJ-JJ": 1,
+      "JJ-JJ-NNP": 2,
+      "JJ-NNP-NNP": 2,
+      "NNP-NNP-NN": 1,
+      "NNP-NN-NN": 2,
+      "NN-NN-FW": 2,
+      "NN-FW-FW": 2,
+      "FW-NNP-NN": 1,
+      "NN-NN-NN": 9,
+      "FW-FW-NNS": 1,
+      "FW-NNS-NNP": 1,
+      "NNS-NNP-FW": 1,
+      "NNP-FW-NN": 1,
+      "FW-NN-IN": 1,
+      "NN-IN-FW": 1,
+      "IN-FW-NNS": 1,
+      "FW-NNS-VBP": 1,
+      "NNS-VBP-FW": 1,
+      "VBP-FW-FW": 1,
+      "FW-NNP-VBZ": 1,
+      "NNP-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 2,
+      "NN-JJ-NN": 2,
+      "NN-NN-IN": 2,
+      "NN-IN-NNP": 1,
+      "NNP-FW-JJ": 2,
+      "FW-JJ-FW": 1,
+      "JJ-FW-FW": 1,
+      "FW-NNP-NNP": 1,
+      "NNP-NNP-VBZ": 1,
+      "NNP-VBZ-NN": 1,
+      "VBZ-NN-JJ": 1,
+      "JJ-NN-NNS": 1,
+      "NN-NNS-VBP": 2,
+      "VBP-JJ-JJ": 1,
+      "NNP-NNP-NNP": 6,
+      "NNP-NNP-FW": 1,
+      "FW-JJ-NN": 1,
+      "NN-NN-NNS": 1,
+      "NN-IN-JJ": 1,
+      "IN-JJ-NN": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "FW": 33,
+        "NN": 32,
+        "NNP": 23,
+        "JJ": 17,
+        "NNS": 11
+      },
+      "top_bigrams": {
+        "FW-FW": 20,
+        "NN-NN": 19,
+        "JJ-NN": 9,
+        "NNP-NNP": 9,
+        "FW-NNP": 8
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 15,
+        "NN-NN-NN": 9,
+        "JJ-NN-NN": 8,
+        "NNP-NNP-NNP": 6,
+        "NNS-VBP-JJ": 5
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 5,
+    "chunk_counts": {
+      "NP": 41,
+      "VP": 12,
+      "PP": 2
+    },
+    "top_rules": [
+      {
+        "rule": "S -> NP VP ('de', 'IN') ('las', 'FW') NP ('de', 'FW') NP PP ('en', 'FW') ('el', 'FW') ('sur', 'FW') ('del', 'FW') NP (',', ',') NP VP (',', ',') ('las', 'FW') NP VP VP ('de', 'IN') ('edad', 'FW') ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0167
+      },
+      {
+        "rule": "NP -> ('Tras', 'NNP') ('ataques', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0167
+      },
+      {
+        "rule": "VP -> ('perpetrados', 'VBP') NP",
+        "frequency": 1,
+        "weight": 0.0167
+      },
+      {
+        "rule": "NP -> ('por', 'JJ') ('drones', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0167
+      },
+      {
+        "rule": "NP -> ('Fuerzas', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0167
+      },
+      {
+        "rule": "NP -> ('Defensa', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0167
+      },
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 1,
+        "weight": 0.0167
+      },
+      {
+        "rule": "NP -> ('Israel', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0167
+      },
+      {
+        "rule": "NP -> ('Líbano', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0167
+      },
+      {
+        "rule": "NP -> ('al', 'JJ') ('menos', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0167
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Tras ataques"
+      },
+      {
+        "label": "VP",
+        "text": "perpetrados por drones"
+      },
+      {
+        "label": "NP",
+        "text": "por drones"
+      },
+      {
+        "label": "NP",
+        "text": "Fuerzas"
+      },
+      {
+        "label": "NP",
+        "text": "Defensa"
+      },
+      {
+        "label": "PP",
+        "text": "de Israel"
+      },
+      {
+        "label": "NP",
+        "text": "Israel"
+      },
+      {
+        "label": "NP",
+        "text": "Líbano"
+      },
+      {
+        "label": "NP",
+        "text": "al menos"
+      },
+      {
+        "label": "VP",
+        "text": "cinco personas resultaron muertos y entre ellas"
+      },
+      {
+        "label": "NP",
+        "text": "personas resultaron muertos y entre ellas"
+      },
+      {
+        "label": "NP",
+        "text": "autoridades"
+      },
+      {
+        "label": "VP",
+        "text": "apuntan a tres"
+      },
+      {
+        "label": "NP",
+        "text": "a tres"
+      },
+      {
+        "label": "VP",
+        "text": "menores"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Tras/NNP ataques/NNS)\n  (VP perpetrados/VBP (NP por/JJ drones/NNS))\n  de/IN\n  las/FW\n  (NP Fuerzas/NNP)\n  de/FW\n  (NP Defensa/NNP)\n  (PP de/IN (NP Israel/NNP))\n  en/FW\n  el/FW\n  sur/FW\n  del/FW\n  (NP Líbano/NNP)\n  ,/,\n  (NP al/JJ menos/NNS)\n  (VP\n    cinco/VBP\n    (NP personas/JJ resultaron/NN muertos/NN y/NN entre/NN ellas/NN))\n  ,/,\n  las/FW\n  (NP autoridades/NNS)\n  (VP apuntan/VBP (NP a/DT tres/NNS))\n  (VP menores/VBZ)\n  de/IN\n  edad/FW\n  ./.)",
+      "(S\n  (NP Las/NNP)\n  (VP autoridades/VBZ (NP sanitarias/NN))\n  ,/,\n  (NP citadas/JJ por/NN el/NN medio/NN)\n  (NP local/JJ ‘/NNP L/NNP ’/NNP Orient-Le/NNP Jour/NNP ’/NNP)\n  ,/,\n  (NP confirmaron/NN la/NN)\n  muerte/FW\n  de/FW\n  estas/FW\n  dos/FW\n  (NP personas/NNS)\n  ,/,\n  (NP mientras/NNS)\n  (VP\n    que/VBP\n    (NP\n      el/JJ\n      Ejército/NNP\n      dijo/NN\n      que/NN\n      trabajan/NN\n      para/NN\n      descifrar/NN))\n  las/FW\n  identidades/FW\n  de/FW\n  esas/FW\n  dos/FW\n  personas/FW\n  (NP fallecidas/NNS)\n  ./.)",
+      "(S\n  (NP En/NNP)\n  el/FW\n  (NP caso/NN)\n  de/IN\n  los/FW\n  (NP menores/NNS)\n  ,/,\n  la/FW\n  agencia/FW\n  de/FW\n  noticias/FW\n  (NP NNA/NNP)\n  ,/,\n  (NP apuntó/NN que/NN fueron/NN alcanzados/NN por/NN)\n  (NP un/JJ dron/NN israelí/NN)\n  (PP en/IN (NP Um/NNP))\n  el/FW\n  (NP Tut/NNP)\n  ,/,\n  (VP localidad/VBZ ubicada/JJ)\n  en/FW\n  el/FW\n  distrito/FW\n  de/FW\n  (NP Tiro/NNP)\n  ./.)",
+      "(S\n  (NP Medios/NNS)\n  (VP locales/VBZ (NP detallan/NN) (NP que/JJ los/NN tres/NNS))\n  (VP niños/VBP (NP se/JJ nombraban/JJ Mohamad/NNP Jerkes/NNP))\n  ,/,\n  (NP Jean/NNP Jerkes/NNP)\n  y/PRP\n  (NP Jalil/NNP Jalil/NNP)\n  ./.)",
+      "(S\n  (NP Además/NNP)\n  ,/,\n  (NP la/NNP)\n  prensa/FW\n  (NP local/JJ apunta/NN que/NN los/NN menores/NNS)\n  (VP se/VBP (NP encontraban/JJ jugando/NN))\n  (VP frente/VBD (NP a/DT sus/NN casas/NN))\n  ,/,\n  en/FW\n  (NP una/JJ finca/NN donde/NN sus/NN)\n  (VP padres/VBZ laboran/JJ)\n  ,/,\n  (NP cuando/JJ fueron/NN atacados/NN)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "JURIDICO_LEGISLATIVO_CORRUPCION",
+      "VIOLENCIA_CRIMEN_DERECHOS_HUMANOS",
+      "PAISES"
+    ],
+    "matches": [
+      {
+        "category": "JURIDICO_LEGISLATIVO_CORRUPCION",
+        "matched_text": "defensa",
+        "position": [
+          54,
+          61
+        ],
+        "start": 54,
+        "end": 61
+      },
+      {
+        "category": "VIOLENCIA_CRIMEN_DERECHOS_HUMANOS",
+        "matched_text": "prensa local apunta que los menores se encontraban jugando frente a sus casas, en una finca donde sus padres laboran, cuando fueron atacados",
+        "position": [
+          697,
+          837
+        ],
+        "start": 697,
+        "end": 837
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "líbano",
+        "position": [
+          86,
+          92
+        ],
+        "start": 86,
+        "end": 92
+      }
+    ],
+    "match_count": 3
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Jean Jerkes",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Tiro",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Fuerzas de Defensa de Israel",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Líbano",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Mohamad Jerkes",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Jalil Jalil",
+        "tipo": "Persona"
+      }
+    ],
+    "relaciones": []
+  },
+  "sentiment": {
+    "compound": 0.0,
+    "pos": 0.0,
+    "neu": 1.0,
+    "neg": 0.0,
+    "label": "neutral"
+  }
+}

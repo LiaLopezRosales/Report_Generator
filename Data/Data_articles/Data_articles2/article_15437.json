@@ -1,0 +1,808 @@
+{
+  "url": "https://www.telesurtv.net/al-menos-48-palestinos-muertos-en-ataques-israelies-en-la-ciudad-de-gaza/",
+  "title": "Al menos 48 palestinos muertos en ataques israelíes en la ciudad de Gaza - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "bombardeos",
+    "Ejército",
+    "Gaza",
+    "Israel"
+  ],
+  "text": "\nAl menos 48 palestinos murieron en ataques aéreos israelíes contra viviendas residenciales en el norte de la ciudad de Gaza, según fuentes médicas y de seguridad palestinas.\nDe acuerdo al reporte de las autoridades gazatíes al menos 24 personas murieron tras los bombardeos en siete viviendas en el campamento de refugiados de Shati y otras 17 murieron en el barrio de Tuffah, Además en el caserío de  Zeitun fallecieron al menos siete palestinos.\nEn el campo de refugiados de Shati hay varios edificios residenciales quedaron total y parcialmente destruidos.\nLos rescatistas, con la ayuda de civiles, están tratando de revisar entre los escombros para encontrar supervivientes. Las víctimas que están llegando al Hospital Al-Aqsa están aumentando ya que se ha informado de que varios palestinos han muerto y han resultado heridos.\nMientras tanto, el ejército israelí afirmó haber bombardeado edificios utilizados por Hamás como cuartel general militar en la ciudad de Gaza sin aportar ninguna prueba ni más detalles.\nIsrael está atacando zonas en las que había operado, a pesar de su anuncio previo de que logró controlar militarmente la parte norte de Gaza.\nAdemás, fuentes palestinas han denunciado en las últimas 24 horas ataques de artillería contra viviendas en el campamento de refugiados de Nuseirat, dejando varios heridos; así como disparos de tanques en en el eje de Netzarim, contra los barrios de Zeitun, Tal al Hawa, Sheikh Ejlin y Al Sabra, provocando múltiples heridos, incluidos niños y mujeres.\nPreviamente, un bombardeo israelí contra la oficina del Comité Internacional de la Cruz Roja (CICR) en la Franja de Gaza deja al menos 22 muertos y 45 heridos.\nSegún la entidad humanitaria, la ofensiva se produjo la noche del viernes y causó “una afluencia masiva de víctimas” al cercano hospital de campaña de la Cruz Roja, pues cientos de desplazados rodeaban la instalación.\n\n",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/al-menos-48-palestinos-muertos-en-ataques-israelies-en-la-ciudad-de-gaza/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-06.json",
+    "message_index": 311,
+    "message_id": 72432,
+    "date": "2024-06-22T13:55:13+00:00",
+    "text": "teleSUR\nAl menos 48 palestinos muertos en ataques israelíes en la ciudad de Gaza\nhttps://www.telesurtv.net/al-menos-48-palestinos-muertos-en-ataques-israelies-en-la-ciudad-de-gaza/",
+    "photo_path": null,
+    "views": 1552,
+    "reactions": {},
+    "total_reactions": 0
+  },
+  "preprocessing": {
+    "cleaned": "al menos 48 palestinos murieron en ataques aéreos israelíes contra viviendas residenciales en el norte de la ciudad de gaza, según fuentes médicas y de seguridad palestinas. de acuerdo al reporte de las autoridades gazatíes al menos 24 personas murieron tras los bombardeos en siete viviendas en el campamento de refugiados de shati y otras 17 murieron en el barrio de tuffah, además en el caserío de zeitun fallecieron al menos siete palestinos. en el campo de refugiados de shati hay varios edificios residenciales quedaron total y parcialmente destruidos. los rescatistas, con la ayuda de civiles, están tratando de revisar entre los escombros para encontrar supervivientes. las víctimas que están llegando al hospital al-aqsa están aumentando ya que se ha informado de que varios palestinos han muerto y han resultado heridos. mientras tanto, el ejército israelí afirmó haber bombardeado edificios utilizados por hamás como cuartel general militar en la ciudad de gaza sin aportar ninguna prueba ni más detalles. israel está atacando zonas en las que había operado, a pesar de su anuncio previo de que logró controlar militarmente la parte norte de gaza. además, fuentes palestinas han denunciado en las últimas 24 horas ataques de artillería contra viviendas en el campamento de refugiados de nuseirat, dejando varios heridos; así como disparos de tanques en en el eje de netzarim, contra los barrios de zeitun, tal al hawa, sheikh ejlin y al sabra, provocando múltiples heridos, incluidos niños y mujeres. previamente, un bombardeo israelí contra la oficina del comité internacional de la cruz roja (cicr) en la franja de gaza deja al menos 22 muertos y 45 heridos. según la entidad humanitaria, la ofensiva se produjo la noche del viernes y causó “una afluencia masiva de víctimas” al cercano hospital de campaña de la cruz roja, pues cientos de desplazados rodeaban la instalación.",
+    "tokens": [
+      "menos",
+      "48",
+      "palestinos",
+      "murieron",
+      "ataques",
+      "aéreos",
+      "israelíes",
+      "viviendas",
+      "residenciales",
+      "norte",
+      "ciudad",
+      "gaza",
+      ",",
+      "según",
+      "fuentes",
+      "médicas",
+      "seguridad",
+      "palestinas",
+      ".",
+      "acuerdo",
+      "reporte",
+      "autoridades",
+      "gazatíes",
+      "menos",
+      "24",
+      "personas",
+      "murieron",
+      "tras",
+      "bombardeos",
+      "siete",
+      "viviendas",
+      "campamento",
+      "refugiados",
+      "shati",
+      "17",
+      "murieron",
+      "barrio",
+      "tuffah",
+      ",",
+      "además",
+      "caserío",
+      "zeitun",
+      "fallecieron",
+      "menos",
+      "siete",
+      "palestinos",
+      ".",
+      "campo",
+      "refugiados",
+      "shati",
+      "varios",
+      "edificios",
+      "residenciales",
+      "quedaron",
+      "total",
+      "parcialmente",
+      "destruidos",
+      ".",
+      "rescatistas",
+      ",",
+      "ayuda",
+      "civiles",
+      ",",
+      "tratando",
+      "revisar",
+      "escombros",
+      "encontrar",
+      "supervivientes",
+      ".",
+      "víctimas",
+      "llegando",
+      "hospital",
+      "al-aqsa",
+      "aumentando",
+      "informado",
+      "varios",
+      "palestinos",
+      "muerto",
+      "resultado",
+      "heridos",
+      ".",
+      "mientras",
+      ",",
+      "ejército",
+      "israelí",
+      "afirmó",
+      "haber",
+      "bombardeado",
+      "edificios",
+      "utilizados",
+      "hamás",
+      "cuartel",
+      "general",
+      "militar",
+      "ciudad",
+      "gaza",
+      "aportar",
+      "ninguna",
+      "prueba",
+      "detalles",
+      ".",
+      "israel",
+      "atacando",
+      "zonas",
+      "operado",
+      ",",
+      "pesar",
+      "anuncio",
+      "previo",
+      "logró",
+      "controlar",
+      "militarmente",
+      "parte",
+      "norte",
+      "gaza",
+      ".",
+      "además",
+      ",",
+      "fuentes",
+      "palestinas",
+      "denunciado",
+      "últimas",
+      "24",
+      "horas",
+      "ataques",
+      "artillería",
+      "viviendas",
+      "campamento",
+      "refugiados",
+      "nuseirat",
+      ",",
+      "dejando",
+      "varios",
+      "heridos",
+      ";",
+      "así",
+      "disparos",
+      "tanques",
+      "eje",
+      "netzarim",
+      ",",
+      "barrios",
+      "zeitun",
+      ",",
+      "tal",
+      "hawa",
+      ",",
+      "sheikh",
+      "ejlin",
+      "sabra",
+      ",",
+      "provocando",
+      "múltiples",
+      "heridos",
+      ",",
+      "incluidos",
+      "niños",
+      "mujeres",
+      ".",
+      "previamente",
+      ",",
+      "bombardeo",
+      "israelí",
+      "oficina",
+      "comité",
+      "internacional",
+      "cruz",
+      "roja",
+      "(",
+      "cicr",
+      ")",
+      "franja",
+      "gaza",
+      "deja",
+      "menos",
+      "22",
+      "muertos",
+      "45",
+      "heridos",
+      ".",
+      "según",
+      "entidad",
+      "humanitaria",
+      ",",
+      "ofensiva",
+      "produjo",
+      "noche",
+      "viernes",
+      "causó",
+      "“",
+      "afluencia",
+      "masiva",
+      "víctimas",
+      "”",
+      "cercano",
+      "hospital",
+      "campaña",
+      "cruz",
+      "roja",
+      ",",
+      "pues",
+      "cientos",
+      "desplazados",
+      "rodeaban",
+      "instalación",
+      "."
+    ],
+    "token_count": 206,
+    "sentence_count": 10
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 39,
+      "VBD": 4,
+      "CD": 6,
+      "NNS": 30,
+      "VBP": 17,
+      "IN": 19,
+      "JJ": 32,
+      "FW": 77,
+      "NN": 67,
+      "VBZ": 3
+    },
+    "bigram_freq": {
+      "NNP-VBD": 2,
+      "VBD-CD": 2,
+      "CD-NNS": 5,
+      "NNS-VBP": 15,
+      "VBP-IN": 4,
+      "IN-NNS": 3,
+      "VBP-JJ": 10,
+      "JJ-JJ": 7,
+      "JJ-NNS": 7,
+      "NNS-NNS": 2,
+      "JJ-FW": 4,
+      "FW-FW": 46,
+      "FW-NNP": 14,
+      "NNP-NN": 12,
+      "NN-NNS": 8,
+      "IN-FW": 11,
+      "NNP-FW": 7,
+      "FW-JJ": 6,
+      "JJ-NN": 13,
+      "NN-IN": 11,
+      "FW-NNS": 2,
+      "NNS-CD": 2,
+      "NNS-NN": 2,
+      "NNS-IN": 4,
+      "FW-CD": 1,
+      "CD-NN": 1,
+      "NN-FW": 8,
+      "FW-NN": 8,
+      "IN-NNP": 3,
+      "NNP-NNP": 12,
+      "NN-NN": 29,
+      "NN-VBD": 2,
+      "VBD-JJ": 1,
+      "NNS-NNP": 4,
+      "VBP-NNS": 1,
+      "NN-NNP": 2,
+      "NNP-VBZ": 2,
+      "VBZ-NN": 1,
+      "NN-VBZ": 1,
+      "VBZ-NNP": 1,
+      "IN-NN": 1,
+      "NNS-JJ": 1,
+      "JJ-NNP": 1,
+      "NN-JJ": 4,
+      "NNP-VBP": 1,
+      "VBZ-NNS": 1,
+      "NN-VBP": 1,
+      "VBP-CD": 1,
+      "IN-JJ": 1,
+      "VBP-FW": 1,
+      "NNP-JJ": 2,
+      "VBD-NNP": 1,
+      "NNP-NNS": 1
+    },
+    "trigram_freq": {
+      "NNP-VBD-CD": 1,
+      "VBD-CD-NNS": 2,
+      "CD-NNS-VBP": 1,
+      "NNS-VBP-IN": 3,
+      "VBP-IN-NNS": 2,
+      "IN-NNS-VBP": 3,
+      "NNS-VBP-JJ": 9,
+      "VBP-JJ-JJ": 3,
+      "JJ-JJ-NNS": 4,
+      "JJ-NNS-NNS": 1,
+      "NNS-NNS-VBP": 1,
+      "VBP-JJ-FW": 2,
+      "JJ-FW-FW": 3,
+      "FW-FW-FW": 28,
+      "FW-FW-NNP": 13,
+      "FW-NNP-NN": 6,
+      "NNP-NN-NNS": 4,
+      "NN-NNS-VBP": 6,
+      "VBP-IN-FW": 2,
+      "IN-FW-FW": 6,
+      "FW-NNP-FW": 3,
+      "NNP-FW-JJ": 1,
+      "FW-JJ-NN": 5,
+      "JJ-NN-IN": 6,
+      "NN-IN-FW": 7,
+      "IN-FW-NNS": 2,
+      "FW-NNS-VBP": 2,
+      "VBP-JJ-NNS": 1,
+      "JJ-NNS-CD": 1,
+      "NNS-CD-NNS": 2,
+      "CD-NNS-NN": 1,
+      "NNS-NN-NNS": 1,
+      "JJ-FW-JJ": 1,
+      "FW-JJ-NNS": 1,
+      "JJ-NNS-IN": 3,
+      "NNS-IN-FW": 2,
+      "NNP-FW-CD": 1,
+      "FW-CD-NN": 1,
+      "CD-NN-FW": 1,
+      "NN-FW-FW": 5,
+      "FW-FW-NN": 3,
+      "FW-NN-IN": 2,
+      "NN-IN-NNP": 2,
+      "IN-NNP-NNP": 3,
+      "NNP-NNP-FW": 3,
+      "NNP-FW-FW": 3,
+      "NNP-NN-NN": 7,
+      "NN-NN-VBD": 2,
+      "NN-VBD-JJ": 1,
+      "VBD-JJ-NNS": 1,
+      "JJ-NNS-NNP": 2,
+      "NNS-NNP-FW": 1,
+      "NNP-FW-NN": 1,
+      "FW-NN-FW": 2,
+      "NNS-VBP-NNS": 1,
+      "VBP-NNS-VBP": 1,
+      "VBP-JJ-NN": 4,
+      "JJ-NN-NN": 7,
+      "NN-NN-NNP": 2,
+      "NN-NNP-VBZ": 1,
+      "NNP-VBZ-NN": 1,
+      "VBZ-NN-NN": 1,
+      "NN-NN-FW": 4,
+      "FW-NN-NN": 3,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-NNP": 1,
+      "VBZ-NNP-NN": 1,
+      "NN-FW-NN": 3,
+      "NNP-NNP-NN": 2,
+      "NN-NN-NN": 10,
+      "NN-NN-IN": 3,
+      "NN-NNP-NN": 1,
+      "NN-IN-NN": 1,
+      "IN-NN-NN": 1,
+      "NN-NN-NNS": 2,
+      "NN-NNS-JJ": 1,
+      "NNS-JJ-JJ": 1,
+      "JJ-JJ-NNP": 1,
+      "JJ-NNP-NN": 1,
+      "NN-NN-JJ": 4,
+      "NN-JJ-NN": 3,
+      "NN-NNS-NNP": 1,
+      "NNS-NNP-VBP": 1,
+      "NNP-VBP-JJ": 1,
+      "IN-FW-NN": 1,
+      "IN-FW-JJ": 2,
+      "FW-FW-JJ": 2,
+      "FW-NNP-NNP": 4,
+      "NNP-NNP-VBZ": 1,
+      "NNP-VBZ-NNS": 1,
+      "VBZ-NNS-NN": 1,
+      "NNS-NN-VBP": 1,
+      "NN-VBP-IN": 1,
+      "NNS-VBP-CD": 1,
+      "VBP-CD-NNS": 1,
+      "CD-NNS-NNS": 1,
+      "NNS-NNS-IN": 1,
+      "NNS-IN-JJ": 1,
+      "IN-JJ-JJ": 1,
+      "NN-IN-NNS": 1,
+      "NNS-VBP-FW": 1,
+      "VBP-FW-FW": 1,
+      "FW-NNP-JJ": 1,
+      "NNP-JJ-JJ": 1,
+      "NNS-IN-NNP": 1,
+      "NNP-NNP-VBD": 1,
+      "NNP-VBD-NNP": 1,
+      "VBD-NNP-NNP": 1,
+      "NNP-NNP-NNP": 4,
+      "NNS-NNP-JJ": 1,
+      "NNP-JJ-NN": 1,
+      "NN-JJ-JJ": 1,
+      "JJ-JJ-FW": 2,
+      "NNP-FW-NNP": 1,
+      "NN-VBD-CD": 1,
+      "CD-NNS-CD": 1,
+      "CD-NNS-NNP": 1,
+      "NNS-NNP-NN": 1,
+      "NNP-NN-FW": 1,
+      "FW-NN-NNS": 1,
+      "NNP-NNP-NNS": 1,
+      "NNP-NNS-VBP": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "FW": 77,
+        "NN": 67,
+        "NNP": 39,
+        "JJ": 32,
+        "NNS": 30
+      },
+      "top_bigrams": {
+        "FW-FW": 46,
+        "NN-NN": 29,
+        "NNS-VBP": 15,
+        "FW-NNP": 14,
+        "JJ-NN": 13
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 28,
+        "FW-FW-NNP": 13,
+        "NN-NN-NN": 10,
+        "NNS-VBP-JJ": 9,
+        "NN-IN-FW": 7
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 10,
+    "chunk_counts": {
+      "NP": 80,
+      "VP": 22,
+      "PP": 6,
+      "ADJP": 2
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 3,
+        "weight": 0.025
+      },
+      {
+        "rule": "VP -> ('menos', 'VBD')",
+        "frequency": 2,
+        "weight": 0.0167
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0167
+      },
+      {
+        "rule": "NP -> ('Gaza', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0167
+      },
+      {
+        "rule": "NP -> ('Además', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0167
+      },
+      {
+        "rule": "VP -> ('heridos', 'VBP')",
+        "frequency": 2,
+        "weight": 0.0167
+      },
+      {
+        "rule": "NP -> ('Cruz', 'NNP') ('Roja', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0167
+      },
+      {
+        "rule": "S -> NP VP ('48', 'CD') NP VP PP VP VP ('norte', 'FW') ('de', 'FW') ('la', 'FW') ('ciudad', 'FW') ('de', 'FW') NP (',', ',') NP VP ('y', 'FW') ('de', 'FW') ('seguridad', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0083
+      },
+      {
+        "rule": "NP -> ('Al', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0083
+      },
+      {
+        "rule": "NP -> ('palestinos', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0083
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Al"
+      },
+      {
+        "label": "VP",
+        "text": "menos"
+      },
+      {
+        "label": "NP",
+        "text": "palestinos"
+      },
+      {
+        "label": "VP",
+        "text": "murieron"
+      },
+      {
+        "label": "PP",
+        "text": "en ataques"
+      },
+      {
+        "label": "NP",
+        "text": "ataques"
+      },
+      {
+        "label": "VP",
+        "text": "aéreos israelíes contra viviendas residenciales"
+      },
+      {
+        "label": "NP",
+        "text": "israelíes contra viviendas residenciales"
+      },
+      {
+        "label": "VP",
+        "text": "en el"
+      },
+      {
+        "label": "NP",
+        "text": "Gaza"
+      },
+      {
+        "label": "NP",
+        "text": "según fuentes"
+      },
+      {
+        "label": "VP",
+        "text": "médicas"
+      },
+      {
+        "label": "NP",
+        "text": "palestinas"
+      },
+      {
+        "label": "NP",
+        "text": "De"
+      },
+      {
+        "label": "NP",
+        "text": "al reporte"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Al/NNP)\n  (VP menos/VBD)\n  48/CD\n  (NP palestinos/NNS)\n  (VP murieron/VBP)\n  (PP en/IN (NP ataques/NNS))\n  (VP\n    aéreos/VBP\n    (NP israelíes/JJ contra/JJ viviendas/NNS residenciales/NNS))\n  (VP en/VBP el/JJ)\n  norte/FW\n  de/FW\n  la/FW\n  ciudad/FW\n  de/FW\n  (NP Gaza/NNP)\n  ,/,\n  (NP según/NN fuentes/NNS)\n  (VP médicas/VBP)\n  y/FW\n  de/FW\n  seguridad/FW\n  (NP palestinas/NNS)\n  ./.)",
+      "(S\n  (NP De/NNP)\n  acuerdo/FW\n  (NP al/JJ reporte/NN)\n  de/IN\n  las/FW\n  (NP autoridades/NNS)\n  (VP gazatíes/VBP (NP al/JJ menos/NNS))\n  24/CD\n  (NP personas/NNS murieron/NN tras/NNS)\n  (VP los/VBP bombardeos/JJ)\n  en/FW\n  (NP siete/JJ viviendas/NNS)\n  en/IN\n  el/FW\n  campamento/FW\n  de/FW\n  refugiados/FW\n  de/FW\n  (NP Shati/NNP)\n  y/CC\n  otras/$\n  17/CD\n  (NP murieron/NN)\n  en/FW\n  el/FW\n  (NP barrio/NN)\n  (PP de/IN (NP Tuffah/NNP))\n  ,/,\n  (NP Además/NNP)\n  en/FW\n  el/FW\n  caserío/FW\n  de/FW\n  (NP Zeitun/NNP fallecieron/NN al/NN)\n  (VP menos/VBD (NP siete/JJ palestinos/NNS))\n  ./.)",
+      "(S\n  (NP En/NNP)\n  el/FW\n  (NP campo/NN)\n  de/FW\n  refugiados/FW\n  de/FW\n  (NP Shati/NNP hay/NN varios/NNS)\n  (VP edificios/VBP (NP residenciales/NNS))\n  (VP quedaron/VBP (NP total/JJ y/NN parcialmente/NN destruidos/NN))\n  ./.)",
+      "(S\n  (NP Los/NNP rescatistas/NNS)\n  ,/,\n  (NP con/NN)\n  la/FW\n  ayuda/FW\n  de/FW\n  (NP civiles/NNS)\n  ,/,\n  están/FW\n  tratando/FW\n  de/FW\n  revisar/FW\n  entre/FW\n  los/FW\n  escombros/FW\n  (NP para/NN encontrar/NN supervivientes/NNS)\n  ./.)",
+      "(S\n  (NP Las/NNP víctimas/NN que/NN)\n  están/FW\n  (NP llegando/NN)\n  (PP\n    al/IN\n    (NP\n      Hospital/NNP\n      Al-Aqsa/NNP\n      están/NN\n      aumentando/NN\n      ya/NN\n      que/NN\n      se/NN\n      ha/NN\n      informado/NN))\n  de/IN\n  que/FW\n  (NP varios/NNS)\n  (VP\n    palestinos/VBP\n    (NP han/JJ muerto/NN y/NN han/NN resultado/NN heridos/NN))\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "GRUPOS_ESPECIFICOS",
+      "LEYES_NORMATIVAS",
+      "CANTIDADES_NUMERICAS",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "PAISES",
+      "LOCALIZACIONES_ESPECIFICAS",
+      "CONFLICTOS_ARMADOS_OPERACIONES",
+      "INFRAESTRUCTURA_SERVICIOS",
+      "VIOLENCIA_CRIMEN_DERECHOS_HUMANOS"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "ataques aéreos israelíes",
+        "position": [
+          36,
+          60
+        ],
+        "start": 36,
+        "end": 60
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "afirmó",
+        "position": [
+          869,
+          875
+        ],
+        "start": 869,
+        "end": 875
+      },
+      {
+        "category": "VIOLENCIA_CRIMEN_DERECHOS_HUMANOS",
+        "matched_text": "ataques de artillería contra viviendas en el campamento de refugiados de nuseirat, dejando varios heridos; así como disparos de tanques en en el eje de netzarim, contra los barrios de zeitun, tal al hawa, sheikh ejlin y al sabra, provocando múltiples",
+        "position": [
+          1227,
+          1477
+        ],
+        "start": 1227,
+        "end": 1477
+      },
+      {
+        "category": "GRUPOS_ESPECIFICOS",
+        "matched_text": "mujeres",
+        "position": [
+          1505,
+          1512
+        ],
+        "start": 1505,
+        "end": 1512
+      },
+      {
+        "category": "LEYES_NORMATIVAS",
+        "matched_text": "acuerdo al reporte de las autoridades gazatíes al menos 24",
+        "position": [
+          178,
+          236
+        ],
+        "start": 178,
+        "end": 236
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "hospital",
+        "position": [
+          715,
+          723
+        ],
+        "start": 715,
+        "end": 723
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "israelí",
+        "position": [
+          861,
+          868
+        ],
+        "start": 861,
+        "end": 868
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "barrio de",
+        "position": [
+          360,
+          369
+        ],
+        "start": 360,
+        "end": 369
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "hospital al",
+        "position": [
+          715,
+          726
+        ],
+        "start": 715,
+        "end": 726
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "24 personas",
+        "position": [
+          234,
+          245
+        ],
+        "start": 234,
+        "end": 245
+      }
+    ],
+    "match_count": 10
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Zeitun",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Franja de Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Al Sabra",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Hamás",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Shati",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Israel",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Comité Internacional de la Cruz Roja",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "CICR",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Tuffah",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Netzarim",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Sheikh Ejlin",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Nuseirat",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Cruz Roja",
+        "tipo": "Organizacion"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Shati",
+        "relacion": "MORIR",
+        "objeto": "Tuffah"
+      },
+      {
+        "sujeto": "Shati",
+        "relacion": "MORIR",
+        "objeto": "Zeitun"
+      },
+      {
+        "sujeto": "Tuffah",
+        "relacion": "MORIR_MORIR",
+        "objeto": "Zeitun"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "ATACAR",
+        "objeto": "Gaza"
+      },
+      {
+        "sujeto": "Nuseirat",
+        "relacion": "DENUNCIAR",
+        "objeto": "Netzarim"
+      },
+      {
+        "sujeto": "Nuseirat",
+        "relacion": "DENUNCIAR",
+        "objeto": "Zeitun"
+      },
+      {
+        "sujeto": "Nuseirat",
+        "relacion": "DENUNCIAR",
+        "objeto": "Sheikh Ejlin"
+      },
+      {
+        "sujeto": "Nuseirat",
+        "relacion": "DENUNCIAR",
+        "objeto": "Al Sabra"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.296,
+    "pos": 0.008,
+    "neu": 0.98,
+    "neg": 0.012,
+    "label": "negative"
+  }
+}

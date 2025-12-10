@@ -1,0 +1,509 @@
+{
+  "url": "https://www.telesurtv.net/ataque-israeli-en-el-centro-de-gaza-deja-al-menos-tres-civiles-muertos/",
+  "title": "Ataque israelí en el centro de Gaza deja al menos tres civiles muertos - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Ataque israelí",
+    "Franja de Gaza"
+  ],
+  "text": "Al menos tres civiles palestinos murieron este viernes luego de un ataque aéreo israelí contra un edificio residencial en el centro de la Franja de Gaza.\n\nMedios palestinos indicaron además que varias personas heridas, incluida una niña, fueron trasladadas al Hospital Al-Awda en la localidad de Nuseirat como consecuencia del ataque aéreo.\nEn la víspera, las fuerzas israelíes cometieron dos masacres en la Franja de Gaza durante las últimas 24 horas, lo que resultó en la muerte confirmada de al menos 50 palestinos y otras 54 heridas.\nEl Ministerio de Salud de la Franja de Gaza confirmó que el número de palestinos muertos a causa de la operación genocida israelí ha aumentado a 38.345 víctimas mortales, además de otras 88.295 personas heridas.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/ataque-israeli-en-el-centro-de-gaza-deja-al-menos-tres-civiles-muertos/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-07.json",
+    "message_index": 704,
+    "message_id": 73133,
+    "date": "2024-07-12T08:55:07+00:00",
+    "text": "teleSUR\nAtaque israelí en el centro de Gaza deja al menos tres civiles muertos\nhttps://www.telesurtv.net/ataque-israeli-en-el-centro-de-gaza-deja-al-menos-tres-civiles-muertos/",
+    "photo_path": null,
+    "views": 1332,
+    "reactions": {},
+    "total_reactions": 0
+  },
+  "preprocessing": {
+    "cleaned": "al menos tres civiles palestinos murieron este viernes luego de un ataque aéreo israelí contra un edificio residencial en el centro de la franja de gaza. medios palestinos indicaron además que varias personas heridas, incluida una niña, fueron trasladadas al hospital al-awda en la localidad de nuseirat como consecuencia del ataque aéreo. en la víspera, las fuerzas israelíes cometieron dos masacres en la franja de gaza durante las últimas 24 horas, lo que resultó en la muerte confirmada de al menos 50 palestinos y otras 54 heridas. el ministerio de salud de la franja de gaza confirmó que el número de palestinos muertos a causa de la operación genocida israelí ha aumentado a 38.345 víctimas mortales, además de otras 88.295 personas heridas.",
+    "tokens": [
+      "menos",
+      "tres",
+      "civiles",
+      "palestinos",
+      "murieron",
+      "viernes",
+      "luego",
+      "ataque",
+      "aéreo",
+      "israelí",
+      "edificio",
+      "residencial",
+      "centro",
+      "franja",
+      "gaza",
+      ".",
+      "medios",
+      "palestinos",
+      "indicaron",
+      "además",
+      "varias",
+      "personas",
+      "heridas",
+      ",",
+      "incluida",
+      "niña",
+      ",",
+      "trasladadas",
+      "hospital",
+      "al-awda",
+      "localidad",
+      "nuseirat",
+      "consecuencia",
+      "ataque",
+      "aéreo",
+      ".",
+      "víspera",
+      ",",
+      "fuerzas",
+      "israelíes",
+      "cometieron",
+      "dos",
+      "masacres",
+      "franja",
+      "gaza",
+      "últimas",
+      "24",
+      "horas",
+      ",",
+      "resultó",
+      "muerte",
+      "confirmada",
+      "menos",
+      "50",
+      "palestinos",
+      "54",
+      "heridas",
+      ".",
+      "ministerio",
+      "salud",
+      "franja",
+      "gaza",
+      "confirmó",
+      "número",
+      "palestinos",
+      "muertos",
+      "causa",
+      "operación",
+      "genocida",
+      "israelí",
+      "aumentado",
+      "38.345",
+      "víctimas",
+      "mortales",
+      ",",
+      "además",
+      "88.295",
+      "personas",
+      "heridas",
+      "."
+    ],
+    "token_count": 80,
+    "sentence_count": 4
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 15,
+      "NN": 37,
+      "NNS": 11,
+      "VBZ": 1,
+      "FW": 29,
+      "JJ": 7,
+      "IN": 6,
+      "VBP": 5,
+      "VBD": 2,
+      "$": 1,
+      "CD": 5
+    },
+    "bigram_freq": {
+      "NNP-NN": 6,
+      "NN-NNS": 4,
+      "NNS-VBZ": 1,
+      "VBZ-NNS": 1,
+      "NNS-FW": 2,
+      "FW-NN": 4,
+      "FW-FW": 14,
+      "NN-NN": 21,
+      "NN-JJ": 3,
+      "JJ-JJ": 2,
+      "JJ-NN": 4,
+      "NN-FW": 3,
+      "NN-IN": 3,
+      "IN-FW": 5,
+      "FW-NNP": 7,
+      "NNP-FW": 4,
+      "NNP-NNP": 3,
+      "NNP-VBP": 1,
+      "VBP-NN": 1,
+      "FW-JJ": 1,
+      "JJ-NNP": 1,
+      "NN-NNP": 1,
+      "NNS-VBP": 4,
+      "VBP-FW": 1,
+      "NN-VBD": 2,
+      "VBD-$": 1,
+      "$-CD": 1,
+      "CD-NNS": 4,
+      "NNS-JJ": 1,
+      "FW-CD": 2,
+      "VBP-CD": 1,
+      "NNS-NNP": 1,
+      "NNP-IN": 1,
+      "IN-NNP": 1,
+      "FW-NNS": 1,
+      "VBP-IN": 2,
+      "VBD-CD": 1,
+      "CD-NN": 1,
+      "NNS-NNS": 1
+    },
+    "trigram_freq": {
+      "NNP-NN-NNS": 1,
+      "NN-NNS-VBZ": 1,
+      "NNS-VBZ-NNS": 1,
+      "VBZ-NNS-FW": 1,
+      "NNS-FW-NN": 1,
+      "FW-NN-NNS": 1,
+      "NN-NNS-FW": 1,
+      "NNS-FW-FW": 1,
+      "FW-FW-FW": 8,
+      "FW-FW-NN": 2,
+      "FW-NN-NN": 2,
+      "NN-NN-NN": 13,
+      "NN-NN-JJ": 2,
+      "NN-JJ-JJ": 1,
+      "JJ-JJ-NN": 2,
+      "JJ-NN-JJ": 1,
+      "NN-JJ-NN": 1,
+      "JJ-NN-FW": 1,
+      "NN-FW-NN": 1,
+      "FW-NN-IN": 1,
+      "NN-IN-FW": 3,
+      "IN-FW-NNP": 1,
+      "FW-NNP-FW": 3,
+      "NNP-FW-NNP": 3,
+      "FW-NNP-NNP": 1,
+      "NNP-NNP-VBP": 1,
+      "NNP-VBP-NN": 1,
+      "VBP-NN-NN": 1,
+      "NN-NN-FW": 2,
+      "NN-FW-FW": 2,
+      "FW-FW-JJ": 1,
+      "FW-JJ-NN": 1,
+      "JJ-NN-NN": 1,
+      "NN-JJ-NNP": 1,
+      "JJ-NNP-NNP": 1,
+      "NNP-NNP-NN": 1,
+      "NNP-NN-NN": 4,
+      "FW-FW-NNP": 2,
+      "FW-NNP-NN": 3,
+      "NN-NN-NNP": 1,
+      "NN-NNP-NN": 1,
+      "NN-NN-NNS": 1,
+      "NN-NNS-VBP": 2,
+      "NNS-VBP-FW": 1,
+      "VBP-FW-NNP": 1,
+      "NNP-NN-VBD": 1,
+      "NN-VBD-$": 1,
+      "VBD-$-CD": 1,
+      "$-CD-NNS": 1,
+      "CD-NNS-JJ": 1,
+      "NNS-JJ-JJ": 1,
+      "JJ-NN-IN": 1,
+      "IN-FW-FW": 2,
+      "FW-FW-CD": 1,
+      "FW-CD-NNS": 2,
+      "CD-NNS-VBP": 1,
+      "NNS-VBP-CD": 1,
+      "VBP-CD-NNS": 1,
+      "CD-NNS-NNP": 1,
+      "NNS-NNP-NNP": 1,
+      "NNP-NNP-IN": 1,
+      "NNP-IN-NNP": 1,
+      "IN-NNP-FW": 1,
+      "NNP-FW-FW": 1,
+      "NN-NN-IN": 1,
+      "IN-FW-NNS": 1,
+      "FW-NNS-VBP": 1,
+      "NNS-VBP-IN": 2,
+      "VBP-IN-FW": 2,
+      "NN-NN-VBD": 1,
+      "NN-VBD-CD": 1,
+      "VBD-CD-NN": 1,
+      "CD-NN-NNS": 1,
+      "IN-FW-CD": 1,
+      "CD-NNS-NNS": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 37,
+        "FW": 29,
+        "NNP": 15,
+        "NNS": 11,
+        "JJ": 7
+      },
+      "top_bigrams": {
+        "NN-NN": 21,
+        "FW-FW": 14,
+        "FW-NNP": 7,
+        "NNP-NN": 6,
+        "IN-FW": 5
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 13,
+        "FW-FW-FW": 8,
+        "NNP-NN-NN": 4,
+        "NN-IN-FW": 3,
+        "FW-NNP-FW": 3
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 4,
+    "chunk_counts": {
+      "NP": 32,
+      "VP": 7,
+      "PP": 1
+    },
+    "top_rules": [
+      {
+        "rule": "NP -> ('Franja', 'NNP')",
+        "frequency": 3,
+        "weight": 0.0682
+      },
+      {
+        "rule": "NP -> ('palestinos', 'NNS')",
+        "frequency": 2,
+        "weight": 0.0455
+      },
+      {
+        "rule": "S -> NP VP ('murieron', 'FW') NP ('luego', 'FW') ('de', 'FW') ('un', 'FW') NP NP NP ('el', 'FW') NP ('de', 'IN') ('la', 'FW') NP ('de', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0227
+      },
+      {
+        "rule": "NP -> ('Al', 'NNP') ('menos', 'NN') ('tres', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0227
+      },
+      {
+        "rule": "VP -> ('civiles', 'VBZ') NP",
+        "frequency": 1,
+        "weight": 0.0227
+      },
+      {
+        "rule": "NP -> ('este', 'NN') ('viernes', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0227
+      },
+      {
+        "rule": "NP -> ('ataque', 'NN') ('aéreo', 'NN') ('israelí', 'NN')",
+        "frequency": 1,
+        "weight": 0.0227
+      },
+      {
+        "rule": "NP -> ('contra', 'JJ') ('un', 'JJ') ('edificio', 'NN')",
+        "frequency": 1,
+        "weight": 0.0227
+      },
+      {
+        "rule": "NP -> ('residencial', 'JJ') ('en', 'NN')",
+        "frequency": 1,
+        "weight": 0.0227
+      },
+      {
+        "rule": "NP -> ('centro', 'NN')",
+        "frequency": 1,
+        "weight": 0.0227
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Al menos tres"
+      },
+      {
+        "label": "VP",
+        "text": "civiles palestinos"
+      },
+      {
+        "label": "NP",
+        "text": "palestinos"
+      },
+      {
+        "label": "NP",
+        "text": "este viernes"
+      },
+      {
+        "label": "NP",
+        "text": "ataque aéreo israelí"
+      },
+      {
+        "label": "NP",
+        "text": "contra un edificio"
+      },
+      {
+        "label": "NP",
+        "text": "residencial en"
+      },
+      {
+        "label": "NP",
+        "text": "centro"
+      },
+      {
+        "label": "NP",
+        "text": "Franja"
+      },
+      {
+        "label": "NP",
+        "text": "Gaza"
+      },
+      {
+        "label": "NP",
+        "text": "Medios"
+      },
+      {
+        "label": "VP",
+        "text": "palestinos indicaron además que"
+      },
+      {
+        "label": "NP",
+        "text": "indicaron además que"
+      },
+      {
+        "label": "NP",
+        "text": "heridas"
+      },
+      {
+        "label": "NP",
+        "text": "incluida una niña"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Al/NNP menos/NN tres/NNS)\n  (VP civiles/VBZ (NP palestinos/NNS))\n  murieron/FW\n  (NP este/NN viernes/NNS)\n  luego/FW\n  de/FW\n  un/FW\n  (NP ataque/NN aéreo/NN israelí/NN)\n  (NP contra/JJ un/JJ edificio/NN)\n  (NP residencial/JJ en/NN)\n  el/FW\n  (NP centro/NN)\n  de/IN\n  la/FW\n  (NP Franja/NNP)\n  de/FW\n  (NP Gaza/NNP)\n  ./.)",
+      "(S\n  (NP Medios/NNS)\n  (VP palestinos/VBP (NP indicaron/NN además/NN que/NN))\n  varias/FW\n  personas/FW\n  (NP heridas/NN)\n  ,/,\n  (NP incluida/JJ una/JJ niña/NN)\n  ,/,\n  (NP fueron/NN trasladadas/NNS)\n  (VP al/VBP (NP Hospital/NNP Al-Awda/NNP en/NN la/NN))\n  localidad/FW\n  de/FW\n  (NP Nuseirat/NNP como/NN consecuencia/NN del/NN ataque/NN aéreo/NN)\n  ./.)",
+      "(S\n  (NP En/NNP la/NN víspera/NN)\n  ,/,\n  (NP\n    las/JJ\n    fuerzas/NN\n    israelíes/NN\n    cometieron/NN\n    dos/NN\n    masacres/NNS)\n  (VP en/VBP)\n  la/FW\n  (NP Franja/NNP)\n  de/FW\n  (NP Gaza/NNP durante/NN)\n  (VP las/VBD)\n  últimas/$\n  24/CD\n  (NP horas/NNS)\n  ,/,\n  (NP lo/JJ que/NN resultó/NN)\n  en/IN\n  la/FW\n  muerte/FW\n  confirmada/FW\n  de/FW\n  al/FW\n  menos/FW\n  50/CD\n  (NP palestinos/NNS)\n  (VP y/VBP otras/RB)\n  54/CD\n  (NP heridas/NNS)\n  ./.)",
+      "(S\n  (NP El/NNP Ministerio/NNP)\n  (PP de/IN (NP Salud/NNP))\n  de/FW\n  la/FW\n  (NP Franja/NNP)\n  de/FW\n  (NP Gaza/NNP confirmó/NN que/NN el/NN número/NN)\n  de/IN\n  palestinos/FW\n  muertos/FW\n  (NP a/DT causa/NN)\n  de/IN\n  la/FW\n  operación/FW\n  genocida/FW\n  (NP israelí/NN ha/NN)\n  (VP aumentado/VBD)\n  a/DT\n  38.345/CD\n  (NP víctimas/NN mortales/NNS)\n  ,/,\n  además/FW\n  de/FW\n  otras/FW\n  88.295/CD\n  (NP personas/NNS heridas/NN)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "CANTIDADES_NUMERICAS",
+      "LOCALIZACIONES_ESPECIFICAS",
+      "PAISES",
+      "INFRAESTRUCTURA_SERVICIOS",
+      "CONFLICTOS_ARMADOS_OPERACIONES"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "ataque aéreo",
+        "position": [
+          67,
+          79
+        ],
+        "start": 67,
+        "end": 79
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "hospital",
+        "position": [
+          260,
+          268
+        ],
+        "start": 260,
+        "end": 268
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "israelí",
+        "position": [
+          80,
+          87
+        ],
+        "start": 80,
+        "end": 87
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "edificio residencial",
+        "position": [
+          98,
+          118
+        ],
+        "start": 98,
+        "end": 118
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "hospital al",
+        "position": [
+          260,
+          271
+        ],
+        "start": 260,
+        "end": 271
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "295 personas",
+        "position": [
+          728,
+          740
+        ],
+        "start": 728,
+        "end": 740
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "88.295 personas",
+        "position": [
+          725,
+          740
+        ],
+        "start": 725,
+        "end": 740
+      }
+    ],
+    "match_count": 7
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Franja de Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Ministerio de Salud de la Franja de Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Nuseirat",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Hospital Al-Awda",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Hospital Al-Awda",
+        "relacion": "TRASLADAR_INDICAR",
+        "objeto": "Nuseirat"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.34,
+    "pos": 0.02,
+    "neu": 0.98,
+    "neg": 0.0,
+    "label": "positive"
+  }
+}

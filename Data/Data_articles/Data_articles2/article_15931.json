@@ -1,0 +1,995 @@
+{
+  "url": "https://www.telesurtv.net/ataque-de-grupo-paramilitar-deja-al-menos-50-muertos-en-sudan/",
+  "title": "Ataque de grupo paramilitar deja al menos 50 muertos en Sudán - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Asesinato",
+    "Conflicto armado",
+    "masacre",
+    "rsf",
+    "Sudán"
+  ],
+  "text": "Karari es una de las principales localidades disputadas entre el grupo paramilitar RSF y el Ejército regular sudanés, que se enfrentan desde abril de 2023.\nEl grupo paramilitar Fuerzas de Apoyo Rápido (RSF) atacó este jueves un barrio residencial en la localidad de Karari, cerca de Jartum, la capital de Sudán, donde murieron al menos 40 personas y más de 50 resultaron heridas.\nLEA TAMBIÉN\nPMA amplía respuesta de emergencia para evitar hambruna en Sudán\nEl Comité de Resistencia informó en un comunicado a través de Facebook que la cifra responde a una estimación sobre el terreno y que no existe un recuento preciso de muertos, ya que algunas víctimas fueron trasladadas al Hospital Universitario Al Naw, otras a centros de salud privados, y un tercer grupo fueron enterradas inmediatamente por sus familiares.\nEsas acciones se producen horas después de una masacre en la aldea de Wad Al Nuraen, en el estado de Al-Jazira, donde murieron más de 150 personas, entre ellas niños, mujeres y ancianos.\nEl gobernador de la provincia de Darfur, Mini Arko Minawi, escribió este jueves en su cuenta en X: “La milicia de Apoyo Rápido comete una masacre y aniquila la aldea de Wad Al Nuraen, el estado de Al-Jazira. El número de víctimas supera las 150 personas, entre niños, mujeres y ancianos.\nPor otra parte, la directora ejecutiva del Fondo de Naciones Unidas para la Infancia (Unicef), Catherine Russell, condenó los ataques a civiles. “Este trágico suceso es otro recordatorio de cómo los niños y niñas en Sudán están pagando el precio de la violencia brutal. Durante el último año, miles de ellos han sido asesinados y han resultado heridos”.\nRussell también subrayó que “los ataques contra civiles y la infraestructura civil son inaceptables y deben detenerse de inmediato”.\nRecientemente, trabajadores de al menos 19 entes de la Organización de las Naciones Unidas (ONU) advirtieron que la hambruna en Sudán es inminente si se les sigue impidiendo a las agencias prestar servicios de ayuda.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/ataque-de-grupo-paramilitar-deja-al-menos-50-muertos-en-sudan/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-06.json",
+    "message_index": 810,
+    "message_id": 71933,
+    "date": "2024-06-07T18:55:24+00:00",
+    "text": "teleSUR\nAtaque de grupo paramilitar deja al menos 50 muertos en Sudán\nhttps://www.telesurtv.net/ataque-de-grupo-paramilitar-deja-al-menos-50-muertos-en-sudan/",
+    "photo_path": null,
+    "views": 1072,
+    "reactions": {},
+    "total_reactions": 0
+  },
+  "preprocessing": {
+    "cleaned": "karari es una de las principales localidades disputadas entre el grupo paramilitar rsf y el ejército regular sudanés, que se enfrentan desde abril de 2023. el grupo paramilitar fuerzas de apoyo rápido (rsf) atacó este jueves un barrio residencial en la localidad de karari, cerca de jartum, la capital de sudán, donde murieron al menos 40 personas y más de 50 resultaron heridas. el comité de resistencia informó en un comunicado a través de facebook que la cifra responde a una estimación sobre el terreno y que no existe un recuento preciso de muertos, ya que algunas víctimas fueron trasladadas al hospital universitario al naw, otras a centros de salud privados, y un tercer grupo fueron enterradas inmediatamente por sus familiares. esas acciones se producen horas después de una masacre en la aldea de wad al nuraen, en el estado de al-jazira, donde murieron más de 150 personas, entre ellas niños, mujeres y ancianos. el gobernador de la provincia de darfur, mini arko minawi, escribió este jueves en su cuenta en x: “la milicia de apoyo rápido comete una masacre y aniquila la aldea de wad al nuraen, el estado de al-jazira. el número de víctimas supera las 150 personas, entre niños, mujeres y ancianos. por otra parte, la directora ejecutiva del fondo de naciones unidas para la infancia (unicef), catherine russell, condenó los ataques a civiles. “este trágico suceso es otro recordatorio de cómo los niños y niñas en sudán están pagando el precio de la violencia brutal. durante el último año, miles de ellos han sido asesinados y han resultado heridos”. russell también subrayó que “los ataques contra civiles y la infraestructura civil son inaceptables y deben detenerse de inmediato”. recientemente, trabajadores de al menos 19 entes de la organización de las naciones unidas (onu) advirtieron que la hambruna en sudán es inminente si se les sigue impidiendo a las agencias prestar servicios de ayuda.",
+    "tokens": [
+      "karari",
+      "principales",
+      "localidades",
+      "disputadas",
+      "grupo",
+      "paramilitar",
+      "rsf",
+      "ejército",
+      "regular",
+      "sudanés",
+      ",",
+      "enfrentan",
+      "abril",
+      "2023.",
+      "grupo",
+      "paramilitar",
+      "fuerzas",
+      "apoyo",
+      "rápido",
+      "(",
+      "rsf",
+      ")",
+      "atacó",
+      "jueves",
+      "barrio",
+      "residencial",
+      "localidad",
+      "karari",
+      ",",
+      "cerca",
+      "jartum",
+      ",",
+      "capital",
+      "sudán",
+      ",",
+      "murieron",
+      "menos",
+      "40",
+      "personas",
+      "50",
+      "resultaron",
+      "heridas",
+      ".",
+      "comité",
+      "resistencia",
+      "informó",
+      "comunicado",
+      "través",
+      "facebook",
+      "cifra",
+      "responde",
+      "estimación",
+      "terreno",
+      "existe",
+      "recuento",
+      "preciso",
+      "muertos",
+      ",",
+      "víctimas",
+      "trasladadas",
+      "hospital",
+      "universitario",
+      "naw",
+      ",",
+      "centros",
+      "salud",
+      "privados",
+      ",",
+      "tercer",
+      "grupo",
+      "enterradas",
+      "inmediatamente",
+      "familiares",
+      ".",
+      "acciones",
+      "producen",
+      "horas",
+      "después",
+      "masacre",
+      "aldea",
+      "wad",
+      "nuraen",
+      ",",
+      "al-jazira",
+      ",",
+      "murieron",
+      "150",
+      "personas",
+      ",",
+      "niños",
+      ",",
+      "mujeres",
+      "ancianos",
+      ".",
+      "gobernador",
+      "provincia",
+      "darfur",
+      ",",
+      "mini",
+      "arko",
+      "minawi",
+      ",",
+      "escribió",
+      "jueves",
+      "cuenta",
+      "x",
+      ":",
+      "“",
+      "milicia",
+      "apoyo",
+      "rápido",
+      "comete",
+      "masacre",
+      "aniquila",
+      "aldea",
+      "wad",
+      "nuraen",
+      ",",
+      "al-jazira",
+      ".",
+      "número",
+      "víctimas",
+      "supera",
+      "150",
+      "personas",
+      ",",
+      "niños",
+      ",",
+      "mujeres",
+      "ancianos",
+      ".",
+      "parte",
+      ",",
+      "directora",
+      "ejecutiva",
+      "fondo",
+      "naciones",
+      "unidas",
+      "infancia",
+      "(",
+      "unicef",
+      ")",
+      ",",
+      "catherine",
+      "russell",
+      ",",
+      "condenó",
+      "ataques",
+      "civiles",
+      ".",
+      "“",
+      "trágico",
+      "suceso",
+      "recordatorio",
+      "cómo",
+      "niños",
+      "niñas",
+      "sudán",
+      "pagando",
+      "precio",
+      "violencia",
+      "brutal",
+      ".",
+      "último",
+      "año",
+      ",",
+      "miles",
+      "sido",
+      "asesinados",
+      "resultado",
+      "heridos",
+      "”",
+      ".",
+      "russell",
+      "subrayó",
+      "“",
+      "ataques",
+      "civiles",
+      "infraestructura",
+      "civil",
+      "inaceptables",
+      "deben",
+      "detenerse",
+      "inmediato",
+      "”",
+      ".",
+      "recientemente",
+      ",",
+      "trabajadores",
+      "menos",
+      "19",
+      "entes",
+      "organización",
+      "naciones",
+      "unidas",
+      "(",
+      "onu",
+      ")",
+      "advirtieron",
+      "hambruna",
+      "sudán",
+      "inminente",
+      "si",
+      "sigue",
+      "impidiendo",
+      "agencias",
+      "prestar",
+      "servicios",
+      "ayuda",
+      "."
+    ],
+    "token_count": 210,
+    "sentence_count": 11
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 60,
+      "JJ": 27,
+      "NN": 84,
+      "IN": 20,
+      "FW": 74,
+      "NNS": 20,
+      "VBZ": 8,
+      "CD": 6,
+      "VBD": 2,
+      "DT": 1,
+      "RB": 1,
+      "VBP": 9
+    },
+    "bigram_freq": {
+      "NNP-JJ": 3,
+      "JJ-NN": 15,
+      "NN-IN": 15,
+      "IN-FW": 8,
+      "FW-NNS": 1,
+      "NNS-VBZ": 1,
+      "VBZ-JJ": 3,
+      "JJ-FW": 1,
+      "FW-FW": 42,
+      "FW-NN": 11,
+      "NN-NNP": 7,
+      "NNP-NN": 14,
+      "NN-NN": 36,
+      "NN-JJ": 4,
+      "JJ-JJ": 3,
+      "IN-CD": 2,
+      "CD-NNP": 1,
+      "NNP-IN": 2,
+      "IN-NNP": 9,
+      "NNP-NNP": 24,
+      "NNP-VBZ": 5,
+      "VBZ-NN": 2,
+      "NN-NNS": 6,
+      "NNS-JJ": 3,
+      "NN-FW": 9,
+      "FW-NNP": 13,
+      "NNP-FW": 11,
+      "NN-VBD": 1,
+      "VBD-CD": 1,
+      "CD-NNS": 3,
+      "NNS-FW": 2,
+      "FW-CD": 2,
+      "CD-NN": 2,
+      "FW-JJ": 5,
+      "NN-DT": 1,
+      "DT-NN": 1,
+      "NN-RB": 1,
+      "RB-JJ": 1,
+      "NN-VBP": 1,
+      "VBP-NN": 2,
+      "NN-VBZ": 2,
+      "VBZ-NNP": 1,
+      "NNP-NNS": 1,
+      "NNS-VBD": 1,
+      "VBD-JJ": 1,
+      "JJ-NNS": 7,
+      "NNS-VBP": 8,
+      "VBP-NNP": 2,
+      "VBP-JJ": 4,
+      "VBZ-CD": 1,
+      "NNS-NNS": 1,
+      "NNS-NNP": 1,
+      "JJ-NNP": 1,
+      "NNS-IN": 3,
+      "VBP-NNS": 1,
+      "VBZ-FW": 1,
+      "IN-NN": 1
+    },
+    "trigram_freq": {
+      "NNP-JJ-NN": 2,
+      "JJ-NN-IN": 4,
+      "NN-IN-FW": 6,
+      "IN-FW-NNS": 1,
+      "FW-NNS-VBZ": 1,
+      "NNS-VBZ-JJ": 1,
+      "VBZ-JJ-FW": 1,
+      "JJ-FW-FW": 1,
+      "FW-FW-FW": 23,
+      "FW-FW-NN": 4,
+      "FW-NN-NNP": 1,
+      "NN-NNP-NN": 2,
+      "NNP-NN-NNP": 2,
+      "NN-NNP-JJ": 1,
+      "JJ-NN-NN": 8,
+      "NN-NN-JJ": 3,
+      "NN-JJ-JJ": 1,
+      "JJ-JJ-NN": 3,
+      "NN-NN-IN": 7,
+      "NN-IN-CD": 2,
+      "IN-CD-NNP": 1,
+      "CD-NNP-NN": 1,
+      "NNP-NN-NN": 8,
+      "NN-NN-NNP": 4,
+      "NN-NNP-IN": 1,
+      "NNP-IN-NNP": 2,
+      "IN-NNP-NNP": 3,
+      "NNP-NNP-NNP": 12,
+      "NNP-NNP-VBZ": 3,
+      "NNP-VBZ-NN": 2,
+      "VBZ-NN-NNS": 2,
+      "NN-NNS-JJ": 1,
+      "NNS-JJ-NN": 1,
+      "JJ-NN-JJ": 1,
+      "NN-JJ-NN": 2,
+      "JJ-NN-FW": 1,
+      "NN-FW-FW": 6,
+      "FW-FW-NNP": 10,
+      "FW-NNP-NN": 2,
+      "NNP-NN-FW": 2,
+      "NN-FW-NNP": 1,
+      "FW-NNP-FW": 3,
+      "NNP-FW-NN": 5,
+      "FW-NN-IN": 3,
+      "NN-IN-NNP": 7,
+      "IN-NNP-NN": 3,
+      "NN-NN-NN": 15,
+      "NN-NN-VBD": 1,
+      "NN-VBD-CD": 1,
+      "VBD-CD-NNS": 1,
+      "CD-NNS-FW": 1,
+      "NNS-FW-FW": 2,
+      "FW-FW-CD": 2,
+      "FW-CD-NN": 1,
+      "CD-NN-NN": 2,
+      "NN-NNP-NNP": 2,
+      "NNP-NNP-NN": 3,
+      "IN-FW-NN": 1,
+      "FW-NN-NN": 2,
+      "NNP-NNP-IN": 1,
+      "NN-FW-JJ": 1,
+      "FW-JJ-NN": 4,
+      "NN-NN-DT": 1,
+      "NN-DT-NN": 1,
+      "DT-NN-RB": 1,
+      "NN-RB-JJ": 1,
+      "RB-JJ-NN": 1,
+      "IN-FW-FW": 4,
+      "NNP-NNP-FW": 4,
+      "FW-FW-JJ": 3,
+      "NN-NN-VBP": 1,
+      "NN-VBP-NN": 1,
+      "VBP-NN-NN": 1,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-NNP": 1,
+      "VBZ-NNP-NNS": 1,
+      "NNP-NNS-VBD": 1,
+      "NNS-VBD-JJ": 1,
+      "VBD-JJ-NNS": 1,
+      "JJ-NNS-FW": 1,
+      "FW-NNP-NNP": 7,
+      "NNP-FW-FW": 5,
+      "IN-CD-NNS": 1,
+      "CD-NNS-JJ": 1,
+      "NNS-JJ-NNS": 2,
+      "JJ-NNS-JJ": 1,
+      "JJ-NNS-VBP": 3,
+      "NNS-VBP-NNP": 2,
+      "VBP-NNP-NN": 1,
+      "NNP-NN-IN": 1,
+      "NN-NNS-VBP": 4,
+      "NNS-VBP-JJ": 4,
+      "VBP-JJ-NN": 1,
+      "IN-NNP-FW": 3,
+      "NNP-NNP-JJ": 1,
+      "NNP-JJ-JJ": 1,
+      "NN-NN-FW": 2,
+      "FW-NN-VBZ": 1,
+      "NN-VBZ-CD": 1,
+      "VBZ-CD-NN": 1,
+      "NN-JJ-NNS": 1,
+      "VBP-NNP-FW": 1,
+      "FW-NN-FW": 3,
+      "NNP-FW-NNP": 1,
+      "NNP-VBZ-JJ": 2,
+      "VBZ-JJ-NNS": 1,
+      "JJ-NNS-NNS": 1,
+      "NNS-NNS-NNP": 1,
+      "NNS-NNP-NN": 1,
+      "FW-JJ-NNP": 1,
+      "JJ-NNP-NN": 1,
+      "NNP-NN-NNS": 1,
+      "NN-NNS-IN": 1,
+      "NNS-IN-FW": 2,
+      "IN-FW-JJ": 1,
+      "NN-NNP-VBZ": 1,
+      "VBZ-JJ-NN": 1,
+      "NN-NN-NNS": 1,
+      "NNS-VBP-NNS": 1,
+      "VBP-NNS-VBP": 1,
+      "VBP-JJ-JJ": 1,
+      "JJ-NN-NNS": 1,
+      "NNS-VBP-NN": 1,
+      "VBP-NN-FW": 1,
+      "FW-NNP-VBZ": 1,
+      "NNP-VBZ-FW": 1,
+      "VBZ-FW-FW": 1,
+      "FW-CD-NNS": 1,
+      "CD-NNS-IN": 1,
+      "IN-FW-NNP": 1,
+      "NN-FW-NN": 1,
+      "FW-NN-NNS": 1,
+      "VBP-JJ-NNS": 2,
+      "JJ-NNS-IN": 1,
+      "NNS-IN-NN": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 84,
+        "FW": 74,
+        "NNP": 60,
+        "JJ": 27,
+        "IN": 20
+      },
+      "top_bigrams": {
+        "FW-FW": 42,
+        "NN-NN": 36,
+        "NNP-NNP": 24,
+        "JJ-NN": 15,
+        "NN-IN": 15
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 23,
+        "NN-NN-NN": 15,
+        "NNP-NNP-NNP": 12,
+        "FW-FW-NNP": 10,
+        "JJ-NN-NN": 8
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 11,
+    "chunk_counts": {
+      "NP": 95,
+      "VP": 20,
+      "PP": 10,
+      "ADJP": 2
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 6,
+        "weight": 0.0435
+      },
+      {
+        "rule": "NP -> ('Sudán', 'NNP')",
+        "frequency": 3,
+        "weight": 0.0217
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 3,
+        "weight": 0.0217
+      },
+      {
+        "rule": "NP -> ('Karari', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0145
+      },
+      {
+        "rule": "NP -> ('Apoyo', 'NNP') ('Rápido', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0145
+      },
+      {
+        "rule": "NP -> ('personas', 'NNS')",
+        "frequency": 2,
+        "weight": 0.0145
+      },
+      {
+        "rule": "NP -> ('Wad', 'NNP') ('Al', 'NNP') ('Nuraen', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0145
+      },
+      {
+        "rule": "NP -> ('Al-Jazira', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0145
+      },
+      {
+        "rule": "NP -> ('mujeres', 'NNS')",
+        "frequency": 2,
+        "weight": 0.0145
+      },
+      {
+        "rule": "VP -> ('y', 'VBP') NP",
+        "frequency": 2,
+        "weight": 0.0145
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Karari"
+      },
+      {
+        "label": "NP",
+        "text": "es una"
+      },
+      {
+        "label": "NP",
+        "text": "principales"
+      },
+      {
+        "label": "VP",
+        "text": "localidades disputadas"
+      },
+      {
+        "label": "NP",
+        "text": "paramilitar RSF y el Ejército"
+      },
+      {
+        "label": "NP",
+        "text": "regular sudanés"
+      },
+      {
+        "label": "NP",
+        "text": "que se enfrentan desde abril"
+      },
+      {
+        "label": "NP",
+        "text": "El grupo paramilitar Fuerzas"
+      },
+      {
+        "label": "PP",
+        "text": "de Apoyo Rápido"
+      },
+      {
+        "label": "NP",
+        "text": "Apoyo Rápido"
+      },
+      {
+        "label": "NP",
+        "text": "RSF"
+      },
+      {
+        "label": "VP",
+        "text": "atacó este jueves un barrio residencial en"
+      },
+      {
+        "label": "NP",
+        "text": "este jueves"
+      },
+      {
+        "label": "NP",
+        "text": "un barrio"
+      },
+      {
+        "label": "NP",
+        "text": "residencial en"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Karari/NNP)\n  (NP es/JJ una/NN)\n  de/IN\n  las/FW\n  (NP principales/NNS)\n  (VP localidades/VBZ disputadas/JJ)\n  entre/FW\n  el/FW\n  grupo/FW\n  (NP paramilitar/NN RSF/NNP y/NNP el/NN Ejército/NNP)\n  (NP regular/JJ sudanés/NN)\n  ,/,\n  (NP que/JJ se/NN enfrentan/NN desde/NN abril/NN)\n  de/IN\n  2023/CD\n  ./.)",
+      "(S\n  (NP El/NNP grupo/NN paramilitar/NN Fuerzas/NNP)\n  (PP de/IN (NP Apoyo/NNP Rápido/NNP))\n  (/(\n  (NP RSF/NNP)\n  )/)\n  (VP\n    atacó/VBP\n    (NP este/NN jueves/NNS)\n    (NP un/JJ barrio/NN)\n    (NP residencial/JJ en/NN))\n  la/FW\n  localidad/FW\n  de/FW\n  (NP Karari/NNP)\n  ,/,\n  (NP cerca/NN)\n  de/FW\n  (NP Jartum/NNP)\n  ,/,\n  (NP la/JJ capital/NN)\n  (PP de/IN (NP Sudán/NNP))\n  ,/,\n  (NP donde/NN murieron/NN al/NN)\n  (VP menos/VBD)\n  40/CD\n  (NP personas/NNS)\n  (ADJP y/JJ)\n  más/FW\n  de/FW\n  50/CD\n  (NP resultaron/NN heridas/NN)\n  ./.)",
+      "(S\n  (NP LEA/NNP TAMBIÉN/NNP PMA/NNP amplía/NN respuesta/NN)\n  de/IN\n  emergencia/FW\n  (NP para/NN evitar/NN hambruna/NN)\n  (PP en/IN (NP Sudán/NNP El/NNP Comité/NNP))\n  (PP de/IN (NP Resistencia/NNP informó/NN))\n  en/FW\n  (NP un/JJ comunicado/NN)\n  (NP a/DT través/NN)\n  (PP de/IN (NP Facebook/NNP que/NN la/NN cifra/NN))\n  (VP\n    responde/VBZ\n    (NP\n      a/DT\n      una/JJ\n      estimación/NN\n      sobre/NN\n      el/NN\n      terreno/NN\n      y/NN\n      que/NN)\n    (NP no/DT existe/NN)\n    un/RB\n    (NP recuento/JJ preciso/NN))\n  de/IN\n  muertos/FW\n  ,/,\n  ya/PRP\n  (VP que/VBP (NP algunas/JJ víctimas/NN fueron/NN trasladadas/NN))\n  (PP al/IN (NP Hospital/NNP Universitario/NNP Al/NNP Naw/NNP))\n  ,/,\n  (VP otras/VBZ (NP a/DT centros/NN))\n  de/IN\n  salud/FW\n  (NP privados/NN)\n  ,/,\n  y/CC\n  (NP un/JJ tercer/NN grupo/NN fueron/NN)\n  (VP\n    enterradas/VBP\n    (NP inmediatamente/NN por/NN sus/NN familiares/NNS))\n  ./.)",
+      "(S\n  (NP Esas/NNP acciones/NNS)\n  (VP se/VBD (NP producen/JJ horas/NNS))\n  después/FW\n  de/FW\n  una/FW\n  masacre/FW\n  en/FW\n  la/FW\n  aldea/FW\n  de/FW\n  (NP Wad/NNP Al/NNP Nuraen/NNP)\n  ,/,\n  en/FW\n  el/FW\n  estado/FW\n  de/FW\n  (NP Al-Jazira/NNP)\n  ,/,\n  (NP donde/NN murieron/NN más/NN)\n  de/IN\n  150/CD\n  (NP personas/NNS)\n  ,/,\n  entre/FW\n  ellas/FW\n  niños/FW\n  ,/,\n  (NP mujeres/NNS)\n  (VP y/VBP (NP ancianos/NNS))\n  ./.)",
+      "(S\n  (NP El/NNP gobernador/NN)\n  de/IN\n  la/FW\n  provincia/FW\n  de/FW\n  (NP Darfur/NNP)\n  ,/,\n  (NP Mini/NNP Arko/NNP Minawi/NNP)\n  ,/,\n  (NP escribió/JJ este/NN jueves/NNS)\n  (VP en/VBP (NP su/JJ cuenta/NN))\n  en/FW\n  (NP X/NN)\n  :/:\n  (NP “/JJ La/NNP)\n  milicia/FW\n  de/FW\n  (NP Apoyo/NNP Rápido/NNP)\n  (NP comete/JJ una/JJ masacre/NN y/NN aniquila/NN)\n  la/FW\n  aldea/FW\n  de/FW\n  (NP Wad/NNP Al/NNP Nuraen/NNP)\n  ,/,\n  (ADJP el/JJ)\n  estado/FW\n  (PP de/IN (NP Al-Jazira/NNP))\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "GRUPOS_ESPECIFICOS",
+      "ORGANISMOS_INTERNACIONALES",
+      "APROBACION_RECHAZO",
+      "TIEMPO_RELATIVO",
+      "CANTIDADES_NUMERICAS",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "REGIONES_PROVINCIAS",
+      "LOCALIZACIONES_ESPECIFICAS",
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "CONFLICTOS_ARMADOS_OPERACIONES",
+      "INFRAESTRUCTURA_SERVICIOS"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "atacó",
+        "position": [
+          207,
+          212
+        ],
+        "start": 207,
+        "end": 212
+      },
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "capital",
+        "position": [
+          294,
+          301
+        ],
+        "start": 294,
+        "end": 301
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "informó",
+        "position": [
+          482,
+          489
+        ],
+        "start": 482,
+        "end": 489
+      },
+      {
+        "category": "ORGANISMOS_INTERNACIONALES",
+        "matched_text": "naciones unidas",
+        "position": [
+          1342,
+          1357
+        ],
+        "start": 1342,
+        "end": 1357
+      },
+      {
+        "category": "ORGANISMOS_INTERNACIONALES",
+        "matched_text": "unicef",
+        "position": [
+          1376,
+          1382
+        ],
+        "start": 1376,
+        "end": 1382
+      },
+      {
+        "category": "GRUPOS_ESPECIFICOS",
+        "matched_text": "universitario",
+        "position": [
+          687,
+          700
+        ],
+        "start": 687,
+        "end": 700
+      },
+      {
+        "category": "GRUPOS_ESPECIFICOS",
+        "matched_text": "mujeres",
+        "position": [
+          982,
+          989
+        ],
+        "start": 982,
+        "end": 989
+      },
+      {
+        "category": "APROBACION_RECHAZO",
+        "matched_text": "condenó",
+        "position": [
+          1404,
+          1411
+        ],
+        "start": 1404,
+        "end": 1411
+      },
+      {
+        "category": "APROBACION_RECHAZO",
+        "matched_text": "subrayó",
+        "position": [
+          1660,
+          1667
+        ],
+        "start": 1660,
+        "end": 1667
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "hospital",
+        "position": [
+          678,
+          686
+        ],
+        "start": 678,
+        "end": 686
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "estado de",
+        "position": [
+          906,
+          915
+        ],
+        "start": 906,
+        "end": 915
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "barrio residencial",
+        "position": [
+          228,
+          246
+        ],
+        "start": 228,
+        "end": 246
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "hospital universitario",
+        "position": [
+          678,
+          700
+        ],
+        "start": 678,
+        "end": 700
+      },
+      {
+        "category": "TIEMPO_RELATIVO",
+        "matched_text": "recientemente",
+        "position": [
+          1777,
+          1790
+        ],
+        "start": 1777,
+        "end": 1790
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "40 personas",
+        "position": [
+          336,
+          347
+        ],
+        "start": 336,
+        "end": 347
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "150 personas",
+        "position": [
+          949,
+          961
+        ],
+        "start": 949,
+        "end": 961
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "más de 50",
+        "position": [
+          350,
+          359
+        ],
+        "start": 350,
+        "end": 359
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "más de 150",
+        "position": [
+          942,
+          952
+        ],
+        "start": 942,
+        "end": 952
+      }
+    ],
+    "match_count": 18
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Darfur",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Catherine Russell",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "RSF",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "PMA",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Hospital Universitario Al Naw",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Sudán",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Mini Arko Minawi",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Apoyo Rápido",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Fondo de Naciones Unidas para la Infancia",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Russell",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Karari",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "ONU",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Organización de las Naciones Unidas",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Jartum",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Wad Al Nuraen",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Fuerzas de Apoyo Rápido",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Unicef",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Comité de Resistencia",
+        "tipo": "Organizacion"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Fuerzas de Apoyo Rápido",
+        "relacion": "ATACAR",
+        "objeto": "Karari"
+      },
+      {
+        "sujeto": "Fuerzas de Apoyo Rápido",
+        "relacion": "ATACAR",
+        "objeto": "Jartum"
+      },
+      {
+        "sujeto": "Fuerzas de Apoyo Rápido",
+        "relacion": "ATACAR",
+        "objeto": "Sudán"
+      },
+      {
+        "sujeto": "RSF",
+        "relacion": "ATACAR",
+        "objeto": "Karari"
+      },
+      {
+        "sujeto": "RSF",
+        "relacion": "ATACAR",
+        "objeto": "Jartum"
+      },
+      {
+        "sujeto": "RSF",
+        "relacion": "ATACAR",
+        "objeto": "Sudán"
+      },
+      {
+        "sujeto": "Karari",
+        "relacion": "ATACAR",
+        "objeto": "Sudán"
+      },
+      {
+        "sujeto": "Jartum",
+        "relacion": "CERCA_ATACAR",
+        "objeto": "Sudán"
+      },
+      {
+        "sujeto": "PMA",
+        "relacion": "AMPLIAR_INFORMAR",
+        "objeto": "Sudán"
+      },
+      {
+        "sujeto": "PMA",
+        "relacion": "AMPLIAR_INFORMAR",
+        "objeto": "Comité de Resistencia"
+      },
+      {
+        "sujeto": "PMA",
+        "relacion": "AMPLIAR_INFORMAR",
+        "objeto": "Hospital Universitario Al Naw"
+      },
+      {
+        "sujeto": "Comité de Resistencia",
+        "relacion": "EVITAR_AMPLIAR_INFORMAR",
+        "objeto": "Sudán"
+      },
+      {
+        "sujeto": "Sudán",
+        "relacion": "EVITAR_AMPLIAR_INFORMAR",
+        "objeto": "Hospital Universitario Al Naw"
+      },
+      {
+        "sujeto": "Comité de Resistencia",
+        "relacion": "INFORMAR",
+        "objeto": "Hospital Universitario Al Naw"
+      },
+      {
+        "sujeto": "Darfur",
+        "relacion": "ESCRIBIR",
+        "objeto": "Apoyo Rápido"
+      },
+      {
+        "sujeto": "Darfur",
+        "relacion": "ESCRIBIR",
+        "objeto": "Wad Al Nuraen"
+      },
+      {
+        "sujeto": "Mini Arko Minawi",
+        "relacion": "ESCRIBIR",
+        "objeto": "Apoyo Rápido"
+      },
+      {
+        "sujeto": "Mini Arko Minawi",
+        "relacion": "ESCRIBIR",
+        "objeto": "Wad Al Nuraen"
+      },
+      {
+        "sujeto": "Apoyo Rápido",
+        "relacion": "COMETER_ESCRIBIR",
+        "objeto": "Wad Al Nuraen"
+      },
+      {
+        "sujeto": "Organización de las Naciones Unidas",
+        "relacion": "ADVERTIR",
+        "objeto": "Sudán"
+      },
+      {
+        "sujeto": "ONU",
+        "relacion": "ADVERTIR",
+        "objeto": "Sudán"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.743,
+    "pos": 0.0,
+    "neu": 0.98,
+    "neg": 0.02,
+    "label": "negative"
+  }
+}

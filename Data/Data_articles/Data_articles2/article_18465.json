@@ -1,0 +1,775 @@
+{
+  "url": "https://www.telesurtv.net/celebra-rusia-aniversario-328-de-la-creacion-de-la-armada/",
+  "title": "Celebra Rusia aniversario 328 de la creación de la armada - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "armada",
+    "Desfile",
+    "Rusia"
+  ],
+  "text": "El presidente de Rusia, Vladímir Putin, asistió este domingo al Desfile Naval Principal en la ciudad de San Petersburgo en ocasión del aniversario 328 de la creación de la Armada Rusa.\nLEA TAMBIÉN\nRusia toma control de la localidad de Lozovatskoye, Donetsk\nDurante la ceremonia, Putin expresó ante los más de 2,500 militares presentes “Hoy quiero destacar especialmente que muchas tripulaciones navales luchan valientemente (…) en la zona de la operación militar especial (en Ucrania)”.\nEl mandatario ruso felicitó a los miembros de la Marina de Guerra y a toda la población por la efeméride.\nEl líder ruso afirmó “Siempre celebramos esta fiesta de una manera solemne, con respeto y amor a nuestra famosa flota, con orgullo por nuestro país, una potencia marítima”.\nAsimismo, recordó el Día de la Armada se celebra desde hace tres siglos, luego de su establecimiento en honor a una victoria de la joven flota rusa, creada por Pedro el Grande.\nEl jefe de estado ruso también advirtió a Estados Unidos contra el envío de misiles de largo alcance a Alemania.\nEn ese sentido aseveró “Si Estados Unidos implementa tales planes, nos consideraremos liberados de la moratoria unilateral previamente asumida sobre el despliegue de armas de mediano y corto alcance (…) El desarrollo de varios de estos sistemas se encuentra en la etapa final”.\nEn el desfile de San Petersburgo participaron el destructor chino “Jiao Zuo” del Gigante asiático, el buque escuela “La Summam” de Argelia y la fragata india “Tabar”.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/celebra-rusia-aniversario-328-de-la-creacion-de-la-armada/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-07.json",
+    "message_index": 135,
+    "message_id": 73702,
+    "date": "2024-07-28T15:55:18+00:00",
+    "text": "teleSUR\nCelebra Rusia aniversario 328 de la creación de la armada\nhttps://www.telesurtv.net/celebra-rusia-aniversario-328-de-la-creacion-de-la-armada/",
+    "photo_path": null,
+    "views": 1801,
+    "reactions": {},
+    "total_reactions": 0
+  },
+  "preprocessing": {
+    "cleaned": "el presidente de rusia, vladímir putin, asistió este domingo al desfile naval principal en la ciudad de san petersburgo en ocasión del aniversario 328 de la creación de la armada rusa. durante la ceremonia, putin expresó ante los más de 2,500 militares presentes “hoy quiero destacar especialmente que muchas tripulaciones navales luchan valientemente (…) en la zona de la operación militar especial (en ucrania)”. el mandatario ruso felicitó a los miembros de la marina de guerra y a toda la población por la efeméride. el líder ruso afirmó “siempre celebramos esta fiesta de una manera solemne, con respeto y amor a nuestra famosa flota, con orgullo por nuestro país, una potencia marítima”. asimismo, recordó el día de la armada se celebra desde hace tres siglos, luego de su establecimiento en honor a una victoria de la joven flota rusa, creada por pedro el grande. el jefe de estado ruso también advirtió a estados unidos contra el envío de misiles de largo alcance a alemania. en ese sentido aseveró “si estados unidos implementa tales planes, nos consideraremos liberados de la moratoria unilateral previamente asumida sobre el despliegue de armas de mediano y corto alcance (…) el desarrollo de varios de estos sistemas se encuentra en la etapa final”. en el desfile de san petersburgo participaron el destructor chino “jiao zuo” del gigante asiático, el buque escuela “la summam” de argelia y la fragata india “tabar”.",
+    "tokens": [
+      "presidente",
+      "rusia",
+      ",",
+      "vladímir",
+      "putin",
+      ",",
+      "asistió",
+      "domingo",
+      "desfile",
+      "naval",
+      "principal",
+      "ciudad",
+      "san",
+      "petersburgo",
+      "ocasión",
+      "aniversario",
+      "328",
+      "creación",
+      "armada",
+      "rusa",
+      ".",
+      "ceremonia",
+      ",",
+      "putin",
+      "expresó",
+      "2,500",
+      "militares",
+      "presentes",
+      "“",
+      "hoy",
+      "quiero",
+      "destacar",
+      "especialmente",
+      "muchas",
+      "tripulaciones",
+      "navales",
+      "luchan",
+      "valientemente",
+      "(",
+      "…",
+      ")",
+      "zona",
+      "operación",
+      "militar",
+      "especial",
+      "(",
+      "ucrania",
+      ")",
+      "”",
+      ".",
+      "mandatario",
+      "ruso",
+      "felicitó",
+      "miembros",
+      "marina",
+      "guerra",
+      "toda",
+      "población",
+      "efeméride",
+      ".",
+      "líder",
+      "ruso",
+      "afirmó",
+      "“",
+      "siempre",
+      "celebramos",
+      "fiesta",
+      "manera",
+      "solemne",
+      ",",
+      "respeto",
+      "amor",
+      "famosa",
+      "flota",
+      ",",
+      "orgullo",
+      "país",
+      ",",
+      "potencia",
+      "marítima",
+      "”",
+      ".",
+      "asimismo",
+      ",",
+      "recordó",
+      "día",
+      "armada",
+      "celebra",
+      "hace",
+      "tres",
+      "siglos",
+      ",",
+      "luego",
+      "establecimiento",
+      "honor",
+      "victoria",
+      "joven",
+      "flota",
+      "rusa",
+      ",",
+      "creada",
+      "pedro",
+      "grande",
+      ".",
+      "jefe",
+      "ruso",
+      "advirtió",
+      "unidos",
+      "envío",
+      "misiles",
+      "largo",
+      "alcance",
+      "alemania",
+      ".",
+      "aseveró",
+      "“",
+      "si",
+      "unidos",
+      "implementa",
+      "tales",
+      "planes",
+      ",",
+      "consideraremos",
+      "liberados",
+      "moratoria",
+      "unilateral",
+      "previamente",
+      "asumida",
+      "despliegue",
+      "armas",
+      "mediano",
+      "corto",
+      "alcance",
+      "(",
+      "…",
+      ")",
+      "desarrollo",
+      "varios",
+      "sistemas",
+      "encuentra",
+      "etapa",
+      "final",
+      "”",
+      ".",
+      "desfile",
+      "san",
+      "petersburgo",
+      "participaron",
+      "destructor",
+      "chino",
+      "“",
+      "jiao",
+      "zuo",
+      "”",
+      "gigante",
+      "asiático",
+      ",",
+      "buque",
+      "escuela",
+      "“",
+      "summam",
+      "”",
+      "argelia",
+      "fragata",
+      "india",
+      "“",
+      "tabar",
+      "”",
+      "."
+    ],
+    "token_count": 169,
+    "sentence_count": 8
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 49,
+      "NN": 69,
+      "FW": 77,
+      "JJ": 15,
+      "CD": 2,
+      "IN": 8,
+      "NNS": 6,
+      "VBZ": 3,
+      "VBP": 3,
+      "RB": 1
+    },
+    "bigram_freq": {
+      "NNP-NN": 15,
+      "NN-FW": 7,
+      "FW-NNP": 11,
+      "NNP-NNP": 21,
+      "NNP-JJ": 3,
+      "JJ-NN": 8,
+      "NN-NN": 36,
+      "NN-NNP": 11,
+      "NNP-FW": 8,
+      "FW-FW": 51,
+      "FW-NN": 9,
+      "NN-CD": 1,
+      "CD-IN": 1,
+      "IN-FW": 5,
+      "NN-IN": 6,
+      "FW-CD": 1,
+      "CD-NNS": 1,
+      "NNS-VBZ": 1,
+      "VBZ-NNP": 2,
+      "NN-NNS": 2,
+      "NNS-NNS": 2,
+      "NNS-VBP": 1,
+      "VBP-JJ": 1,
+      "JJ-FW": 5,
+      "FW-JJ": 4,
+      "NN-JJ": 3,
+      "IN-JJ": 2,
+      "JJ-JJ": 1,
+      "NNP-IN": 1,
+      "NN-VBZ": 1,
+      "VBZ-JJ": 1,
+      "NNP-VBZ": 1,
+      "NNS-RB": 1,
+      "RB-VBP": 1,
+      "VBP-FW": 1,
+      "FW-NNS": 1,
+      "NNS-NN": 1,
+      "JJ-NNP": 1,
+      "IN-NNP": 1,
+      "NN-VBP": 1,
+      "VBP-NNP": 1
+    },
+    "trigram_freq": {
+      "NNP-NN-FW": 3,
+      "NN-FW-NNP": 1,
+      "FW-NNP-NNP": 5,
+      "NNP-NNP-NNP": 8,
+      "NNP-NNP-JJ": 3,
+      "NNP-JJ-NN": 2,
+      "JJ-NN-NN": 6,
+      "NN-NN-NN": 15,
+      "NN-NN-NNP": 8,
+      "NN-NNP-NNP": 5,
+      "NNP-NNP-FW": 4,
+      "NNP-FW-FW": 3,
+      "FW-FW-FW": 35,
+      "FW-FW-NNP": 5,
+      "FW-FW-NN": 5,
+      "FW-NN-CD": 1,
+      "NN-CD-IN": 1,
+      "CD-IN-FW": 1,
+      "IN-FW-FW": 4,
+      "NNP-NNP-NN": 6,
+      "NNP-NN-NN": 10,
+      "NN-NN-IN": 4,
+      "NN-IN-FW": 3,
+      "NNP-NN-NNP": 1,
+      "NN-NNP-NN": 4,
+      "NN-NN-FW": 3,
+      "NN-FW-FW": 4,
+      "FW-FW-CD": 1,
+      "FW-CD-NNS": 1,
+      "CD-NNS-VBZ": 1,
+      "NNS-VBZ-NNP": 1,
+      "VBZ-NNP-NN": 1,
+      "NN-NN-NNS": 1,
+      "NN-NNS-NNS": 2,
+      "NNS-NNS-VBP": 1,
+      "NNS-VBP-JJ": 1,
+      "VBP-JJ-FW": 1,
+      "JJ-FW-FW": 4,
+      "FW-FW-JJ": 4,
+      "FW-JJ-FW": 2,
+      "JJ-FW-NNP": 1,
+      "NN-NN-JJ": 2,
+      "NN-JJ-FW": 1,
+      "FW-NNP-FW": 4,
+      "NNP-FW-NNP": 3,
+      "FW-NNP-NN": 2,
+      "NN-FW-NN": 2,
+      "FW-NN-FW": 1,
+      "NN-IN-JJ": 2,
+      "IN-JJ-NN": 1,
+      "NN-JJ-NN": 2,
+      "IN-JJ-JJ": 1,
+      "JJ-JJ-NN": 1,
+      "JJ-NN-JJ": 1,
+      "NN-NNP-IN": 1,
+      "NNP-IN-FW": 1,
+      "IN-FW-NNP": 1,
+      "NNP-FW-NN": 2,
+      "FW-NN-NN": 5,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 1,
+      "JJ-NN-IN": 1,
+      "NN-NNP-VBZ": 1,
+      "NNP-VBZ-NNP": 1,
+      "VBZ-NNP-NNP": 1,
+      "NNP-JJ-FW": 1,
+      "FW-NN-NNP": 1,
+      "NNP-NN-NNS": 1,
+      "NNS-NNS-RB": 1,
+      "NNS-RB-VBP": 1,
+      "RB-VBP-FW": 1,
+      "VBP-FW-FW": 1,
+      "FW-JJ-NN": 1,
+      "FW-NN-IN": 1,
+      "FW-FW-NNS": 1,
+      "FW-NNS-NN": 1,
+      "NNS-NN-NNP": 1,
+      "FW-JJ-NNP": 1,
+      "JJ-NNP-NN": 1,
+      "NN-IN-NNP": 1,
+      "IN-NNP-NNP": 1,
+      "NN-NN-VBP": 1,
+      "NN-VBP-NNP": 1,
+      "VBP-NNP-NNP": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "FW": 77,
+        "NN": 69,
+        "NNP": 49,
+        "JJ": 15,
+        "IN": 8
+      },
+      "top_bigrams": {
+        "FW-FW": 51,
+        "NN-NN": 36,
+        "NNP-NNP": 21,
+        "NNP-NN": 15,
+        "FW-NNP": 11
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 35,
+        "NN-NN-NN": 15,
+        "NNP-NN-NN": 10,
+        "NNP-NNP-NNP": 8,
+        "NN-NN-NNP": 8
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 8,
+    "chunk_counts": {
+      "NP": 58,
+      "VP": 7,
+      "ADJP": 2,
+      "PP": 5
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 3,
+        "weight": 0.0375
+      },
+      {
+        "rule": "NP -> ('…', 'NNP')",
+        "frequency": 2,
+        "weight": 0.025
+      },
+      {
+        "rule": "S -> NP ('de', 'FW') NP (',', ',') NP (',', ',') NP ('en', 'FW') ('la', 'FW') ('ciudad', 'FW') ('de', 'FW') NP ('en', 'FW') ('ocasión', 'FW') ('del', 'FW') NP ('328', 'CD') ('de', 'IN') ('la', 'FW') ('creación', 'FW') ('de', 'FW') ('la', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0125
+      },
+      {
+        "rule": "NP -> ('El', 'NNP') ('presidente', 'NN')",
+        "frequency": 1,
+        "weight": 0.0125
+      },
+      {
+        "rule": "NP -> ('Rusia', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0125
+      },
+      {
+        "rule": "NP -> ('Vladímir', 'NNP') ('Putin', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0125
+      },
+      {
+        "rule": "NP -> ('asistió', 'JJ') ('este', 'NN') ('domingo', 'NN') ('al', 'NN') ('Desfile', 'NNP') ('Naval', 'NNP') ('Principal', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0125
+      },
+      {
+        "rule": "NP -> ('San', 'NNP') ('Petersburgo', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0125
+      },
+      {
+        "rule": "NP -> ('aniversario', 'NN')",
+        "frequency": 1,
+        "weight": 0.0125
+      },
+      {
+        "rule": "NP -> ('Armada', 'NNP') ('Rusa', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0125
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El presidente"
+      },
+      {
+        "label": "NP",
+        "text": "Rusia"
+      },
+      {
+        "label": "NP",
+        "text": "Vladímir Putin"
+      },
+      {
+        "label": "NP",
+        "text": "asistió este domingo al Desfile Naval Principal"
+      },
+      {
+        "label": "NP",
+        "text": "San Petersburgo"
+      },
+      {
+        "label": "NP",
+        "text": "aniversario"
+      },
+      {
+        "label": "NP",
+        "text": "Armada Rusa"
+      },
+      {
+        "label": "NP",
+        "text": "LEA TAMBIÉN Rusia toma control"
+      },
+      {
+        "label": "NP",
+        "text": "Lozovatskoye"
+      },
+      {
+        "label": "NP",
+        "text": "Donetsk Durante la ceremonia"
+      },
+      {
+        "label": "NP",
+        "text": "Putin"
+      },
+      {
+        "label": "VP",
+        "text": "expresó ante"
+      },
+      {
+        "label": "NP",
+        "text": "militares"
+      },
+      {
+        "label": "VP",
+        "text": "presentes “ Hoy quiero destacar especialmente que muchas tripulaciones navales"
+      },
+      {
+        "label": "NP",
+        "text": "“ Hoy quiero destacar especialmente que muchas tripulaciones navales"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP El/NNP presidente/NN)\n  de/FW\n  (NP Rusia/NNP)\n  ,/,\n  (NP Vladímir/NNP Putin/NNP)\n  ,/,\n  (NP\n    asistió/JJ\n    este/NN\n    domingo/NN\n    al/NN\n    Desfile/NNP\n    Naval/NNP\n    Principal/NNP)\n  en/FW\n  la/FW\n  ciudad/FW\n  de/FW\n  (NP San/NNP Petersburgo/NNP)\n  en/FW\n  ocasión/FW\n  del/FW\n  (NP aniversario/NN)\n  328/CD\n  de/IN\n  la/FW\n  creación/FW\n  de/FW\n  la/FW\n  (NP Armada/NNP Rusa/NNP)\n  ./.)",
+      "(S\n  (NP LEA/NNP TAMBIÉN/NNP Rusia/NNP toma/NN control/NN)\n  de/IN\n  la/FW\n  localidad/FW\n  de/FW\n  (NP Lozovatskoye/NNP)\n  ,/,\n  (NP Donetsk/NNP Durante/NNP la/NNP ceremonia/NN)\n  ,/,\n  (NP Putin/NNP)\n  (VP expresó/VBZ ante/JJ)\n  los/FW\n  más/FW\n  de/FW\n  2,500/CD\n  (NP militares/NNS)\n  (VP\n    presentes/VBZ\n    (NP\n      “/JJ\n      Hoy/NNP\n      quiero/NN\n      destacar/NN\n      especialmente/NN\n      que/NN\n      muchas/NN\n      tripulaciones/NNS\n      navales/NNS))\n  (VP luchan/VBP (NP valientemente/NN))\n  (/(\n  (NP …/NNP)\n  )/)\n  en/FW\n  la/FW\n  zona/FW\n  de/FW\n  la/FW\n  operación/FW\n  militar/FW\n  (ADJP especial/JJ)\n  (/(\n  (PP en/IN (NP Ucrania/NNP))\n  )/)\n  (NP ”/NN)\n  ./.)",
+      "(S\n  (NP El/NNP mandatario/NN ruso/NN)\n  (VP felicitó/VBD (NP a/DT los/JJ miembros/NN))\n  de/IN\n  la/FW\n  (NP Marina/NNP)\n  de/FW\n  (NP Guerra/NNP)\n  y/CC\n  (NP a/DT toda/NN la/NN)\n  población/FW\n  (NP por/NN la/NN efeméride/NN)\n  ./.)",
+      "(S\n  (NP\n    El/NNP\n    líder/NN\n    ruso/NN\n    afirmó/NN\n    “/NNP\n    Siempre/NNP\n    celebramos/NN\n    esta/NN\n    fiesta/NN)\n  (PP de/IN (NP una/JJ manera/NN solemne/NN))\n  ,/,\n  (NP con/NN respeto/NN y/NN)\n  (VP amor/VBZ (NP a/DT nuestra/JJ famosa/NN flota/NN))\n  ,/,\n  (NP con/NN orgullo/NN por/NN)\n  (NP nuestro/JJ país/NN)\n  ,/,\n  (NP una/JJ potencia/NN marítima/NN ”/NN)\n  ./.)",
+      "(S\n  (NP Asimismo/NNP)\n  ,/,\n  (NP recordó/NN el/NN Día/NNP)\n  de/IN\n  la/FW\n  (NP Armada/NNP)\n  se/FW\n  (NP celebra/NN desde/NN hace/NN)\n  (VP tres/VBZ siglos/JJ)\n  ,/,\n  luego/FW\n  de/FW\n  su/FW\n  establecimiento/FW\n  en/FW\n  honor/FW\n  (NP a/DT una/JJ victoria/NN)\n  de/IN\n  la/FW\n  joven/FW\n  flota/FW\n  (NP rusa/NN)\n  ,/,\n  (NP creada/NN por/NN Pedro/NNP el/NN Grande/NNP)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "GOBIERNOS_OFICIALES",
+      "CANTIDADES_NUMERICAS",
+      "TIEMPO_RELATIVO",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "REGIONES_PROVINCIAS",
+      "INSTITUCIONES_EDUCATIVAS",
+      "PAISES",
+      "LOCALIZACIONES_ESPECIFICAS",
+      "INFRAESTRUCTURA_SERVICIOS"
+    ],
+    "matches": [
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "expresó",
+        "position": [
+          285,
+          292
+        ],
+        "start": 285,
+        "end": 292
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "advirtió",
+        "position": [
+          974,
+          982
+        ],
+        "start": 974,
+        "end": 982
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente de rusia",
+        "position": [
+          3,
+          22
+        ],
+        "start": 3,
+        "end": 22
+      },
+      {
+        "category": "INSTITUCIONES_EDUCATIVAS",
+        "matched_text": "escuela “la summam",
+        "position": [
+          1442,
+          1460
+        ],
+        "start": 1442,
+        "end": 1460
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "escuela",
+        "position": [
+          1442,
+          1449
+        ],
+        "start": 1442,
+        "end": 1449
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "estados unidos",
+        "position": [
+          985,
+          999
+        ],
+        "start": 985,
+        "end": 999
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "rusia",
+        "position": [
+          17,
+          22
+        ],
+        "start": 17,
+        "end": 22
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "zona de",
+        "position": [
+          434,
+          441
+        ],
+        "start": 434,
+        "end": 441
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "escuela “la",
+        "position": [
+          1442,
+          1453
+        ],
+        "start": 1442,
+        "end": 1453
+      },
+      {
+        "category": "TIEMPO_RELATIVO",
+        "matched_text": "hoy",
+        "position": [
+          336,
+          339
+        ],
+        "start": 336,
+        "end": 339
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "más de 2",
+        "position": [
+          302,
+          310
+        ],
+        "start": 302,
+        "end": 310
+      }
+    ],
+    "match_count": 11
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Putin",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Lozovatskoye",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Pedro el Grande",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Gigante asiático",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Marina de Guerra",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Rusia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Estados Unidos",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Ucrania",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Alemania",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Tabar",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Vladímir Putin",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Argelia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Donetsk",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "La Summam",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "San Petersburgo",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Rusia",
+        "relacion": "ASISTIR",
+        "objeto": "San Petersburgo"
+      },
+      {
+        "sujeto": "Vladímir Putin",
+        "relacion": "ASISTIR",
+        "objeto": "San Petersburgo"
+      },
+      {
+        "sujeto": "Rusia",
+        "relacion": "TOMAR_EXPRESAR",
+        "objeto": "Lozovatskoye"
+      },
+      {
+        "sujeto": "Rusia",
+        "relacion": "TOMAR_EXPRESAR",
+        "objeto": "Donetsk"
+      },
+      {
+        "sujeto": "Rusia",
+        "relacion": "TOMAR_EXPRESAR",
+        "objeto": "Putin"
+      },
+      {
+        "sujeto": "Rusia",
+        "relacion": "TOMAR_EXPRESAR",
+        "objeto": "Ucrania"
+      },
+      {
+        "sujeto": "Putin",
+        "relacion": "TOMAR_EXPRESAR",
+        "objeto": "Lozovatskoye"
+      },
+      {
+        "sujeto": "Lozovatskoye",
+        "relacion": "TOMAR_EXPRESAR",
+        "objeto": "Ucrania"
+      },
+      {
+        "sujeto": "Putin",
+        "relacion": "TOMAR_EXPRESAR",
+        "objeto": "Donetsk"
+      },
+      {
+        "sujeto": "Donetsk",
+        "relacion": "TOMAR_EXPRESAR",
+        "objeto": "Ucrania"
+      },
+      {
+        "sujeto": "Putin",
+        "relacion": "EXPRESAR",
+        "objeto": "Ucrania"
+      },
+      {
+        "sujeto": "Estados Unidos",
+        "relacion": "ADVERTIR",
+        "objeto": "Alemania"
+      },
+      {
+        "sujeto": "San Petersburgo",
+        "relacion": "PARTICIPAR",
+        "objeto": "Gigante asiático"
+      },
+      {
+        "sujeto": "San Petersburgo",
+        "relacion": "PARTICIPAR",
+        "objeto": "La Summam"
+      },
+      {
+        "sujeto": "San Petersburgo",
+        "relacion": "PARTICIPAR",
+        "objeto": "Argelia"
+      },
+      {
+        "sujeto": "San Petersburgo",
+        "relacion": "PARTICIPAR",
+        "objeto": "Tabar"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.8834,
+    "pos": 0.043,
+    "neu": 0.957,
+    "neg": 0.0,
+    "label": "positive"
+  }
+}

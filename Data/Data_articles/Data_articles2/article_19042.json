@@ -1,0 +1,587 @@
+{
+  "url": "https://www.telesurtv.net/presidente-nicolas-maduro-afirma-en-aragua-que-hay-mucho-por-hacer-para-consolidar-el-camino-de-los-cambios/",
+  "title": "Presidente Nicolás Maduro afirma en Aragua que hay mucho por hacer para consolidar el camino de los cambios - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "Aragua",
+    "Venezuela"
+  ],
+  "text": "“Hay muchas cosas por hacer”, fueron las palabras del presidente Nicolás Maduro como parte de su recorrido por el estado venezolano Aragua, pueblo que lo acompañó en la tarde de este jueves.\nEsto con el objetivo de “recuperar los derechos laborales, completamente la educación, la salud, construir las tres millones de viviendas nuevas que la gente necesita”, aseveró el dignatario.\nEl jefe de Estado ratificó que lo que viene de ahora en adelante es una etapa de cambios y transformaciones para enrumbar el milagro que habrá “en Venezuela de recuperación plena, de felicidad, de bienestar y de paz”.\nAl acotar que “sin paz es imposible”, Nicolás Maduro dijo que “este pueblo está en el camino correcto, defiende a Venezuela y va a la gran victoria de la vida, de la esperanza y del futuro”.\n“Ustedes jamás le han fallado a la Patria”, enfatizó el presidente venezolano al recalcar al pueblo de La Victoria, en el estado Aragua, que nadie entregará “nuestra Patria al extranjero ni traerá el fascismo a Venezuela”.\nAsimismo, el jefe de Estado reconoció los programas realizados por parte del Gobierno en la transformación social. Entre ellos la entrega al pueblo de La Victoria de su teatro totalmente recuperado por el 1×10 del Buen Gobierno.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/presidente-nicolas-maduro-afirma-en-aragua-que-hay-mucho-por-hacer-para-consolidar-el-camino-de-los-cambios/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-07.json",
+    "message_index": 713,
+    "message_id": 73124,
+    "date": "2024-07-12T02:55:13+00:00",
+    "text": "teleSUR\nPresidente Nicolás Maduro afirma en Aragua que hay mucho por hacer para consolidar el camino de los cambios\nhttps://www.telesurtv.net/presidente-nicolas-maduro-afirma-en-aragua-que-hay-mucho-por-hacer-para-consolidar-el-camino-de-los-cambios/",
+    "photo_path": null,
+    "views": 1469,
+    "reactions": {},
+    "total_reactions": 0
+  },
+  "preprocessing": {
+    "cleaned": "“hay muchas cosas por hacer”, fueron las palabras del presidente nicolás maduro como parte de su recorrido por el estado venezolano aragua, pueblo que lo acompañó en la tarde de este jueves. esto con el objetivo de “recuperar los derechos laborales, completamente la educación, la salud, construir las tres millones de viviendas nuevas que la gente necesita”, aseveró el dignatario. el jefe de estado ratificó que lo que viene de ahora en adelante es una etapa de cambios y transformaciones para enrumbar el milagro que habrá “en venezuela de recuperación plena, de felicidad, de bienestar y de paz”. al acotar que “sin paz es imposible”, nicolás maduro dijo que “este pueblo está en el camino correcto, defiende a venezuela y va a la gran victoria de la vida, de la esperanza y del futuro”. “ustedes jamás le han fallado a la patria”, enfatizó el presidente venezolano al recalcar al pueblo de la victoria, en el estado aragua, que nadie entregará “nuestra patria al extranjero ni traerá el fascismo a venezuela”. asimismo, el jefe de estado reconoció los programas realizados por parte del gobierno en la transformación social. entre ellos la entrega al pueblo de la victoria de su teatro totalmente recuperado por el 1×10 del buen gobierno.",
+    "tokens": [
+      "“",
+      "muchas",
+      "cosas",
+      "hacer",
+      "”",
+      ",",
+      "palabras",
+      "presidente",
+      "nicolás",
+      "maduro",
+      "parte",
+      "recorrido",
+      "venezolano",
+      "aragua",
+      ",",
+      "pueblo",
+      "acompañó",
+      "tarde",
+      "jueves",
+      ".",
+      "objetivo",
+      "“",
+      "recuperar",
+      "derechos",
+      "laborales",
+      ",",
+      "completamente",
+      "educación",
+      ",",
+      "salud",
+      ",",
+      "construir",
+      "tres",
+      "millones",
+      "viviendas",
+      "nuevas",
+      "gente",
+      "necesita",
+      "”",
+      ",",
+      "aseveró",
+      "dignatario",
+      ".",
+      "jefe",
+      "ratificó",
+      "viene",
+      "ahora",
+      "adelante",
+      "etapa",
+      "cambios",
+      "transformaciones",
+      "enrumbar",
+      "milagro",
+      "“",
+      "venezuela",
+      "recuperación",
+      "plena",
+      ",",
+      "felicidad",
+      ",",
+      "bienestar",
+      "paz",
+      "”",
+      ".",
+      "acotar",
+      "“",
+      "paz",
+      "imposible",
+      "”",
+      ",",
+      "nicolás",
+      "maduro",
+      "dijo",
+      "“",
+      "pueblo",
+      "camino",
+      "correcto",
+      ",",
+      "defiende",
+      "venezuela",
+      "va",
+      "gran",
+      "victoria",
+      "vida",
+      ",",
+      "esperanza",
+      "futuro",
+      "”",
+      ".",
+      "“",
+      "ustedes",
+      "jamás",
+      "fallado",
+      "patria",
+      "”",
+      ",",
+      "enfatizó",
+      "presidente",
+      "venezolano",
+      "recalcar",
+      "pueblo",
+      "victoria",
+      ",",
+      "aragua",
+      ",",
+      "nadie",
+      "entregará",
+      "“",
+      "patria",
+      "extranjero",
+      "traerá",
+      "fascismo",
+      "venezuela",
+      "”",
+      ".",
+      "asimismo",
+      ",",
+      "jefe",
+      "reconoció",
+      "programas",
+      "realizados",
+      "parte",
+      "gobierno",
+      "transformación",
+      "social",
+      ".",
+      "entrega",
+      "pueblo",
+      "victoria",
+      "teatro",
+      "totalmente",
+      "recuperado",
+      "1×10",
+      "buen",
+      "gobierno",
+      "."
+    ],
+    "token_count": 136,
+    "sentence_count": 7
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 27,
+      "PRP": 1,
+      "VBP": 4,
+      "JJ": 13,
+      "NN": 73,
+      "FW": 65,
+      "IN": 7,
+      "NNS": 4,
+      "VBD": 2,
+      "VB": 1,
+      "VBZ": 1,
+      "CD": 1
+    },
+    "bigram_freq": {
+      "NNP-PRP": 1,
+      "PRP-VBP": 1,
+      "VBP-JJ": 2,
+      "JJ-NN": 5,
+      "NN-NN": 45,
+      "NN-FW": 8,
+      "FW-FW": 43,
+      "FW-NNP": 7,
+      "NNP-NNP": 6,
+      "NNP-NN": 12,
+      "NN-IN": 6,
+      "IN-FW": 4,
+      "FW-NN": 8,
+      "NN-NNP": 7,
+      "FW-NNS": 2,
+      "NNS-NNP": 1,
+      "FW-JJ": 5,
+      "JJ-NNS": 1,
+      "NNS-VBP": 2,
+      "VBP-FW": 1,
+      "NN-NNS": 1,
+      "NNS-FW": 1,
+      "NN-JJ": 3,
+      "JJ-FW": 2,
+      "VBP-NN": 1,
+      "NNP-FW": 4,
+      "JJ-NNP": 3,
+      "IN-NN": 1,
+      "NN-VBD": 2,
+      "VBD-FW": 1,
+      "IN-NNP": 2,
+      "NN-VBP": 1,
+      "NNP-VB": 1,
+      "VB-JJ": 1,
+      "JJ-JJ": 2,
+      "NNP-VBZ": 1,
+      "VBZ-FW": 1,
+      "NNP-IN": 1,
+      "VBD-CD": 1,
+      "CD-NN": 1
+    },
+    "trigram_freq": {
+      "NNP-PRP-VBP": 1,
+      "PRP-VBP-JJ": 1,
+      "VBP-JJ-NN": 1,
+      "JJ-NN-NN": 4,
+      "NN-NN-NN": 25,
+      "NN-NN-FW": 5,
+      "NN-FW-FW": 3,
+      "FW-FW-FW": 30,
+      "FW-FW-NNP": 4,
+      "FW-NNP-NNP": 2,
+      "NNP-NNP-NN": 2,
+      "NNP-NN-NN": 11,
+      "NN-NN-IN": 4,
+      "NN-IN-FW": 3,
+      "IN-FW-NN": 1,
+      "FW-NN-NN": 3,
+      "NN-NN-NNP": 4,
+      "NN-NNP-NN": 4,
+      "IN-FW-FW": 2,
+      "FW-FW-NNS": 2,
+      "FW-NNS-NNP": 1,
+      "NNS-NNP-NN": 1,
+      "FW-FW-JJ": 2,
+      "FW-JJ-NNS": 1,
+      "JJ-NNS-VBP": 1,
+      "NNS-VBP-FW": 1,
+      "VBP-FW-FW": 1,
+      "FW-FW-NN": 5,
+      "NN-NN-NNS": 1,
+      "NN-NNS-FW": 1,
+      "NNS-FW-FW": 1,
+      "FW-NN-FW": 2,
+      "NN-FW-NN": 1,
+      "FW-NN-NNP": 2,
+      "NNP-NN-FW": 1,
+      "NN-FW-NNP": 3,
+      "FW-NNP-NN": 3,
+      "NN-NN-JJ": 3,
+      "NN-JJ-NN": 2,
+      "JJ-NN-IN": 1,
+      "FW-JJ-FW": 2,
+      "JJ-FW-FW": 2,
+      "FW-NNS-VBP": 1,
+      "NNS-VBP-NN": 1,
+      "VBP-NN-NN": 1,
+      "FW-NNP-FW": 2,
+      "NNP-FW-FW": 3,
+      "NN-JJ-NNP": 1,
+      "JJ-NNP-NNP": 1,
+      "NN-IN-NN": 1,
+      "IN-NN-NN": 1,
+      "NN-NN-VBD": 2,
+      "NN-VBD-FW": 1,
+      "VBD-FW-FW": 1,
+      "NN-IN-NNP": 2,
+      "IN-NNP-NNP": 1,
+      "NNP-NNP-FW": 2,
+      "NN-NN-VBP": 1,
+      "NN-VBP-JJ": 1,
+      "VBP-JJ-NNP": 1,
+      "JJ-NNP-NN": 2,
+      "NN-NNP-NNP": 2,
+      "NNP-FW-NN": 1,
+      "FW-NN-IN": 1,
+      "IN-NNP-VB": 1,
+      "NNP-VB-JJ": 1,
+      "VB-JJ-JJ": 1,
+      "JJ-JJ-NN": 1,
+      "NN-NNP-VBZ": 1,
+      "NNP-VBZ-FW": 1,
+      "VBZ-FW-JJ": 1,
+      "FW-JJ-JJ": 1,
+      "JJ-JJ-NNP": 1,
+      "NN-FW-JJ": 1,
+      "NNP-NNP-IN": 1,
+      "NNP-IN-FW": 1,
+      "IN-FW-JJ": 1,
+      "FW-JJ-NN": 1,
+      "NN-VBD-CD": 1,
+      "VBD-CD-NN": 1,
+      "CD-NN-NNP": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 73,
+        "FW": 65,
+        "NNP": 27,
+        "JJ": 13,
+        "IN": 7
+      },
+      "top_bigrams": {
+        "NN-NN": 45,
+        "FW-FW": 43,
+        "NNP-NN": 12,
+        "NN-FW": 8,
+        "FW-NN": 8
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 30,
+        "NN-NN-NN": 25,
+        "NNP-NN-NN": 11,
+        "NN-NN-FW": 5,
+        "FW-FW-NN": 5
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 7,
+    "chunk_counts": {
+      "NP": 48,
+      "VP": 11,
+      "ADJP": 3,
+      "PP": 4
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 3,
+        "weight": 0.0411
+      },
+      {
+        "rule": "NP -> ('que', 'NN')",
+        "frequency": 2,
+        "weight": 0.0274
+      },
+      {
+        "rule": "NP -> ('”', 'NN')",
+        "frequency": 2,
+        "weight": 0.0274
+      },
+      {
+        "rule": "NP -> ('La', 'NNP') ('Victoria', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0274
+      },
+      {
+        "rule": "S -> NP (',', ',') NP VP ('de', 'IN') ('su', 'FW') NP (',', ',') NP ('en', 'IN') ('la', 'FW') ('tarde', 'FW') ('de', 'FW') ('este', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0137
+      },
+      {
+        "rule": "NP -> ('“', 'JJ') ('Hay', 'NNP') ('muchas', 'NN') ('cosas', 'NN') ('por', 'NN') ('hacer', 'NN') ('”', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0137
+      },
+      {
+        "rule": "NP -> ('fueron', 'NN') ('las', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0137
+      },
+      {
+        "rule": "VP -> ('palabras', 'VBP') NP",
+        "frequency": 1,
+        "weight": 0.0137
+      },
+      {
+        "rule": "NP -> ('del', 'JJ') ('presidente', 'NN') ('Nicolás', 'NNP') ('Maduro', 'NNP') ('como', 'NN') ('parte', 'NN')",
+        "frequency": 1,
+        "weight": 0.0137
+      },
+      {
+        "rule": "NP -> ('recorrido', 'NN') ('por', 'NN') ('el', 'NN') ('estado', 'NN') ('venezolano', 'NN') ('Aragua', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0137
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "“ Hay muchas cosas por hacer ”"
+      },
+      {
+        "label": "NP",
+        "text": "fueron las"
+      },
+      {
+        "label": "VP",
+        "text": "palabras del presidente Nicolás Maduro como parte"
+      },
+      {
+        "label": "NP",
+        "text": "del presidente Nicolás Maduro como parte"
+      },
+      {
+        "label": "NP",
+        "text": "recorrido por el estado venezolano Aragua"
+      },
+      {
+        "label": "NP",
+        "text": "pueblo que lo acompañó"
+      },
+      {
+        "label": "NP",
+        "text": "jueves"
+      },
+      {
+        "label": "NP",
+        "text": "Esto con el"
+      },
+      {
+        "label": "NP",
+        "text": "derechos laborales"
+      },
+      {
+        "label": "NP",
+        "text": "completamente la"
+      },
+      {
+        "label": "VP",
+        "text": "construir las tres millones"
+      },
+      {
+        "label": "NP",
+        "text": "las tres millones"
+      },
+      {
+        "label": "NP",
+        "text": "que"
+      },
+      {
+        "label": "NP",
+        "text": "”"
+      },
+      {
+        "label": "NP",
+        "text": "aseveró el dignatario"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP “/JJ Hay/NNP muchas/NN cosas/NN por/NN hacer/NN ”/NNP)\n  ,/,\n  (NP fueron/NN las/NNS)\n  (VP\n    palabras/VBP\n    (NP del/JJ presidente/NN Nicolás/NNP Maduro/NNP como/NN parte/NN))\n  de/IN\n  su/FW\n  (NP recorrido/NN por/NN el/NN estado/NN venezolano/NN Aragua/NNP)\n  ,/,\n  (NP pueblo/NN que/NN lo/NN acompañó/NN)\n  en/IN\n  la/FW\n  tarde/FW\n  de/FW\n  este/FW\n  (NP jueves/NNS)\n  ./.)",
+      "(S\n  (NP Esto/NNP con/NN el/NN)\n  objetivo/FW\n  de/FW\n  “/FW\n  recuperar/FW\n  los/FW\n  (NP derechos/NN laborales/NNS)\n  ,/,\n  (NP completamente/NN la/NN)\n  educación/FW\n  ,/,\n  la/FW\n  salud/FW\n  ,/,\n  (VP construir/VBP (NP las/JJ tres/NNS millones/NNS))\n  de/IN\n  viviendas/FW\n  nuevas/FW\n  (NP que/NN)\n  la/FW\n  gente/FW\n  necesita/FW\n  (NP ”/NN)\n  ,/,\n  (NP aseveró/JJ el/NN dignatario/NN)\n  ./.)",
+      "(S\n  (NP El/NNP jefe/NN)\n  de/FW\n  (NP Estado/NNP ratificó/NN que/NN lo/NN)\n  (NP que/JJ viene/NN)\n  de/IN\n  ahora/FW\n  en/FW\n  adelante/FW\n  es/FW\n  (ADJP una/JJ)\n  etapa/FW\n  de/FW\n  cambios/FW\n  y/CC\n  (NP transformaciones/NNS)\n  (VP\n    para/VBP\n    (NP enrumbar/NN el/NN milagro/NN que/NN habrá/NN “/NNP))\n  en/FW\n  (NP Venezuela/NNP)\n  de/FW\n  recuperación/FW\n  (NP plena/NN)\n  ,/,\n  de/FW\n  felicidad/FW\n  ,/,\n  de/FW\n  bienestar/FW\n  y/FW\n  de/FW\n  paz/FW\n  (NP ”/NN)\n  ./.)",
+      "(S\n  (NP Al/NNP acotar/NN que/NN “/NNP sin/NN paz/NN es/NN)\n  (NP imposible/JJ ”/NN)\n  ,/,\n  (NP\n    Nicolás/NNP\n    Maduro/NNP\n    dijo/NN\n    que/NN\n    “/NNP\n    este/NN\n    pueblo/NN\n    está/NN)\n  (PP en/IN (NP el/NN camino/NN correcto/NN))\n  ,/,\n  (VP\n    defiende/VB\n    (NP a/DT Venezuela/NNP y/NN va/NN)\n    (NP a/DT la/NN gran/NN))\n  victoria/FW\n  de/FW\n  la/FW\n  vida/FW\n  ,/,\n  de/FW\n  la/FW\n  esperanza/FW\n  y/FW\n  del/FW\n  (NP futuro/NN ”/NN)\n  ./.)",
+      "(S\n  (NP “/NN Ustedes/NNP jamás/NN le/NN han/NN)\n  (VP fallado/VBD (NP a/DT la/NN Patria/NNP ”/NNP))\n  ,/,\n  (VP\n    enfatizó/VBZ\n    (NP\n      el/JJ\n      presidente/JJ\n      venezolano/NN\n      al/NN\n      recalcar/NN\n      al/NN\n      pueblo/NN))\n  (PP de/IN (NP La/NNP Victoria/NNP))\n  ,/,\n  en/FW\n  el/FW\n  estado/FW\n  (NP Aragua/NNP)\n  ,/,\n  (NP que/NN)\n  (NP nadie/JJ entregará/NN “/NNP)\n  (NP nuestra/JJ Patria/NNP al/NN extranjero/NN)\n  (NP ni/JJ traerá/NN el/NN)\n  (VP fascismo/VBD (NP a/DT Venezuela/NNP ”/NN))\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "GOBIERNOS_OFICIALES",
+      "APROBACION_RECHAZO",
+      "REGIONES_PROVINCIAS",
+      "PERIODOS_TEMPORALES",
+      "PAISES"
+    ],
+    "matches": [
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente nicolás maduro",
+        "position": [
+          54,
+          79
+        ],
+        "start": 54,
+        "end": 79
+      },
+      {
+        "category": "APROBACION_RECHAZO",
+        "matched_text": "ratificó",
+        "position": [
+          401,
+          409
+        ],
+        "start": 401,
+        "end": 409
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "venezuela",
+        "position": [
+          530,
+          539
+        ],
+        "start": 530,
+        "end": 539
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "estado venezolano",
+        "position": [
+          114,
+          131
+        ],
+        "start": 114,
+        "end": 131
+      },
+      {
+        "category": "PERIODOS_TEMPORALES",
+        "matched_text": "en la tarde",
+        "position": [
+          163,
+          174
+        ],
+        "start": 163,
+        "end": 174
+      }
+    ],
+    "match_count": 5
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Nicolás Maduro",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Venezuela",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "1×10 del Buen Gobierno",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "La Victoria",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Aragua",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Gobierno",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "estado Aragua",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Nicolás Maduro",
+        "relacion": "SER",
+        "objeto": "Aragua"
+      },
+      {
+        "sujeto": "Nicolás Maduro",
+        "relacion": "DECIR",
+        "objeto": "Venezuela"
+      },
+      {
+        "sujeto": "La Victoria",
+        "relacion": "RECALCAR_ENFATIZAR",
+        "objeto": "estado Aragua"
+      },
+      {
+        "sujeto": "La Victoria",
+        "relacion": "RECALCAR_ENFATIZAR",
+        "objeto": "Venezuela"
+      },
+      {
+        "sujeto": "estado Aragua",
+        "relacion": "RECALCAR_ENFATIZAR",
+        "objeto": "Venezuela"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.0,
+    "pos": 0.0,
+    "neu": 1.0,
+    "neg": 0.0,
+    "label": "neutral"
+  }
+}

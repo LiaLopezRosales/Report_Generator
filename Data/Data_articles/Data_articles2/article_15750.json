@@ -1,0 +1,713 @@
+{
+  "url": "https://www.telesurtv.net/policia-argentina-reprime-a-manifestantes-que-rechazan-la-ley-bases/",
+  "title": "Policía argentina reprime a manifestantes que rechazan la Ley Bases - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "Argentina",
+    "Ley Bases",
+    "Movilización",
+    "Policia",
+    "pueblo",
+    "represión"
+  ],
+  "text": "\nLa policía de Argentina reprimió este miércoles a manifestantes que se movilizaban para expresar su rechazo a la Ley Bases impulsada por el Gobierno de Javier Milei, que se debate en el Senado.\nManifestantes y diputados que se habían movilizado ante el Congreso de la Nación sufrieron ataques con gases lacrimógenos y debieron ser atendidos, principalmente en la intersección de las avenidas Callao y Rivadavia.\nHasta el momento, cinco diputados de Unión por la Patria fueron trasladados a centros de salud, de acuerdo con medios locales.\n\nPor su parte, el Sindicato de Prensa de Buenos Aires repudió la represión a la movilización por el No a la Ley Bases y los ataques a lo medios. Expresó su solidaridad “con todo el equipo de Cadena 3, los compañeros/as de Infonews, Radio Gráfica, Zorzal y con todos los afectados/as”.\n¡Exigimos libertad para informar y derecho a la protesta!, recalcó el gremio.\nA su vez, la diputada Cecilia Moreau informó que “el diputado Carlos Castagneto apenas podía respirar. Empezamos a caminar hacia la Plaza y la policía y gendarmería comenzó a rodearnos y a reprimir. Es un día muy triste para la democracia. Parece que quieren declararle la guerra al pueblo argentino”.\nEntre tanto, la Oficina del presidente felicitó “a las Fuerzas de Seguridad por su excelente accionar reprimiendo a los grupos terroristas que con palos, piedras e incluso granadas, intentaron perpetrar un golpe de Estado, atentando contra el normal funcionamiento del Congreso de la Nación Argentina”.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/policia-argentina-reprime-a-manifestantes-que-rechazan-la-ley-bases/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-06.json",
+    "message_index": 625,
+    "message_id": 72118,
+    "date": "2024-06-13T00:55:18+00:00",
+    "text": "teleSURtv.net\nPolicía argentina reprime a manifestantes que rechazan la Ley Bases\nhttps://www.telesurtv.net/policia-argentina-reprime-a-manifestantes-que-rechazan-la-ley-bases/",
+    "photo_path": null,
+    "views": 1380,
+    "reactions": {},
+    "total_reactions": 0
+  },
+  "preprocessing": {
+    "cleaned": "la policía de argentina reprimió este miércoles a manifestantes que se movilizaban para expresar su rechazo a la ley bases impulsada por el gobierno de javier milei, que se debate en el senado. manifestantes y diputados que se habían movilizado ante el congreso de la nación sufrieron ataques con gases lacrimógenos y debieron ser atendidos, principalmente en la intersección de las avenidas callao y rivadavia. hasta el momento, cinco diputados de unión por la patria fueron trasladados a centros de salud, de acuerdo con medios locales. por su parte, el sindicato de prensa de buenos aires repudió la represión a la movilización por el no a la ley bases y los ataques a lo medios. expresó su solidaridad “con todo el equipo de cadena 3, los compañeros/as de infonews, radio gráfica, zorzal y con todos los afectados/as”. ¡exigimos libertad para informar y derecho a la protesta!, recalcó el gremio. a su vez, la diputada cecilia moreau informó que “el diputado carlos castagneto apenas podía respirar. empezamos a caminar hacia la plaza y la policía y gendarmería comenzó a rodearnos y a reprimir. es un día muy triste para la democracia. parece que quieren declararle la guerra al pueblo argentino”. entre tanto, la oficina del presidente felicitó “a las fuerzas de seguridad por su excelente accionar reprimiendo a los grupos terroristas que con palos, piedras e incluso granadas, intentaron perpetrar un golpe de estado, atentando contra el normal funcionamiento del congreso de la nación argentina”.",
+    "tokens": [
+      "policía",
+      "argentina",
+      "reprimió",
+      "miércoles",
+      "manifestantes",
+      "movilizaban",
+      "expresar",
+      "rechazo",
+      "ley",
+      "bases",
+      "impulsada",
+      "gobierno",
+      "javier",
+      "milei",
+      ",",
+      "debate",
+      "senado",
+      ".",
+      "manifestantes",
+      "diputados",
+      "movilizado",
+      "congreso",
+      "nación",
+      "sufrieron",
+      "ataques",
+      "gases",
+      "lacrimógenos",
+      "debieron",
+      "ser",
+      "atendidos",
+      ",",
+      "principalmente",
+      "intersección",
+      "avenidas",
+      "callao",
+      "rivadavia",
+      ".",
+      "momento",
+      ",",
+      "cinco",
+      "diputados",
+      "unión",
+      "patria",
+      "trasladados",
+      "centros",
+      "salud",
+      ",",
+      "acuerdo",
+      "medios",
+      "locales",
+      ".",
+      "parte",
+      ",",
+      "sindicato",
+      "prensa",
+      "buenos",
+      "aires",
+      "repudió",
+      "represión",
+      "movilización",
+      "ley",
+      "bases",
+      "ataques",
+      "medios",
+      ".",
+      "expresó",
+      "solidaridad",
+      "“",
+      "equipo",
+      "cadena",
+      "3",
+      ",",
+      "compañeros/as",
+      "infonews",
+      ",",
+      "radio",
+      "gráfica",
+      ",",
+      "zorzal",
+      "afectados/as",
+      "”",
+      ".",
+      "¡exigimos",
+      "libertad",
+      "informar",
+      "derecho",
+      "protesta",
+      "!",
+      ",",
+      "recalcó",
+      "gremio",
+      ".",
+      "vez",
+      ",",
+      "diputada",
+      "cecilia",
+      "moreau",
+      "informó",
+      "“",
+      "diputado",
+      "carlos",
+      "castagneto",
+      "apenas",
+      "podía",
+      "respirar",
+      ".",
+      "empezamos",
+      "caminar",
+      "hacia",
+      "plaza",
+      "policía",
+      "gendarmería",
+      "comenzó",
+      "rodearnos",
+      "reprimir",
+      ".",
+      "día",
+      "triste",
+      "democracia",
+      ".",
+      "parece",
+      "quieren",
+      "declararle",
+      "guerra",
+      "pueblo",
+      "argentino",
+      "”",
+      ".",
+      ",",
+      "oficina",
+      "presidente",
+      "felicitó",
+      "“",
+      "fuerzas",
+      "seguridad",
+      "excelente",
+      "accionar",
+      "reprimiendo",
+      "grupos",
+      "terroristas",
+      "palos",
+      ",",
+      "piedras",
+      "incluso",
+      "granadas",
+      ",",
+      "intentaron",
+      "perpetrar",
+      "golpe",
+      ",",
+      "atentando",
+      "normal",
+      "funcionamiento",
+      "congreso",
+      "nación",
+      "argentina",
+      "”",
+      "."
+    ],
+    "token_count": 158,
+    "sentence_count": 11
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 48,
+      "FW": 37,
+      "NN": 94,
+      "NNS": 8,
+      "VBZ": 5,
+      "JJ": 14,
+      "VBP": 8,
+      "IN": 6
+    },
+    "bigram_freq": {
+      "NNP-FW": 8,
+      "FW-FW": 17,
+      "FW-NNP": 14,
+      "NNP-NN": 16,
+      "NN-NN": 60,
+      "NN-NNS": 6,
+      "NNS-VBZ": 2,
+      "VBZ-JJ": 1,
+      "JJ-JJ": 3,
+      "JJ-NN": 8,
+      "NN-NNP": 12,
+      "NNP-NNP": 14,
+      "NNP-VBP": 2,
+      "VBP-NN": 3,
+      "NNP-IN": 2,
+      "IN-NNP": 3,
+      "NN-IN": 4,
+      "IN-NN": 1,
+      "VBP-JJ": 3,
+      "NN-FW": 7,
+      "NNS-VBP": 5,
+      "VBP-NNS": 2,
+      "NNP-VBZ": 3,
+      "VBZ-FW": 2,
+      "FW-JJ": 1,
+      "IN-FW": 2,
+      "FW-NN": 5,
+      "VBZ-NNP": 1,
+      "NNS-NNP": 1,
+      "NN-JJ": 4,
+      "JJ-NNP": 2,
+      "VBZ-NN": 1,
+      "NN-VBP": 1,
+      "NNP-JJ": 2,
+      "JJ-FW": 1
+    },
+    "trigram_freq": {
+      "NNP-FW-FW": 2,
+      "FW-FW-NNP": 6,
+      "FW-NNP-NN": 5,
+      "NNP-NN-NN": 12,
+      "NN-NN-NNS": 2,
+      "NN-NNS-VBZ": 2,
+      "NNS-VBZ-JJ": 1,
+      "VBZ-JJ-JJ": 1,
+      "JJ-JJ-NN": 3,
+      "JJ-NN-NN": 4,
+      "NN-NN-NN": 38,
+      "NN-NN-NNP": 8,
+      "NN-NNP-NNP": 5,
+      "NNP-NNP-VBP": 2,
+      "NNP-VBP-NN": 1,
+      "VBP-NN-NN": 2,
+      "NN-NNP-IN": 2,
+      "NNP-IN-NNP": 1,
+      "IN-NNP-NNP": 1,
+      "NNP-NNP-NN": 4,
+      "NN-NN-IN": 2,
+      "NN-IN-NN": 1,
+      "IN-NN-NNP": 1,
+      "NNP-VBP-JJ": 1,
+      "VBP-JJ-NN": 2,
+      "NN-NN-FW": 6,
+      "NN-FW-NNP": 4,
+      "FW-NNP-FW": 4,
+      "NNP-NN-NNS": 3,
+      "NN-NNS-VBP": 4,
+      "NNS-VBP-NNS": 2,
+      "VBP-NNS-VBP": 1,
+      "NNS-VBP-NN": 1,
+      "NN-FW-FW": 3,
+      "FW-FW-FW": 10,
+      "FW-NNP-NNP": 5,
+      "NNP-NNP-NNP": 3,
+      "NNP-NNP-VBZ": 3,
+      "NNP-VBZ-FW": 2,
+      "VBZ-FW-JJ": 1,
+      "FW-JJ-NN": 1,
+      "JJ-NN-IN": 2,
+      "NN-IN-NNP": 2,
+      "IN-NNP-NN": 1,
+      "NN-NNP-NN": 3,
+      "NN-IN-FW": 1,
+      "IN-FW-FW": 1,
+      "FW-FW-NN": 1,
+      "FW-NN-NNS": 1,
+      "NNS-VBZ-NNP": 1,
+      "VBZ-NNP-NN": 1,
+      "NNP-FW-NNP": 3,
+      "VBZ-FW-FW": 1,
+      "NNP-NN-NNP": 1,
+      "VBP-NNS-NNP": 1,
+      "NNS-NNP-NN": 1,
+      "NNP-FW-NN": 3,
+      "FW-NN-FW": 1,
+      "NN-NN-JJ": 3,
+      "NN-JJ-NNP": 2,
+      "JJ-NNP-NN": 1,
+      "NNP-VBZ-NN": 1,
+      "VBZ-NN-NN": 1,
+      "NNP-NNP-FW": 1,
+      "FW-NN-NN": 3,
+      "NN-NN-VBP": 1,
+      "NN-VBP-NN": 1,
+      "VBP-NN-NNP": 1,
+      "NN-NNP-JJ": 1,
+      "NNP-JJ-NN": 1,
+      "NNS-VBP-JJ": 2,
+      "VBP-JJ-FW": 1,
+      "JJ-FW-NN": 1,
+      "NN-NNP-FW": 1,
+      "JJ-NNP-FW": 1,
+      "NN-JJ-NN": 1,
+      "IN-NNP-JJ": 1,
+      "NNP-JJ-JJ": 1,
+      "JJ-NN-JJ": 1,
+      "NN-JJ-JJ": 1,
+      "JJ-NN-NNP": 1,
+      "NNP-IN-FW": 1,
+      "IN-FW-NNP": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 94,
+        "NNP": 48,
+        "FW": 37,
+        "JJ": 14,
+        "NNS": 8
+      },
+      "top_bigrams": {
+        "NN-NN": 60,
+        "FW-FW": 17,
+        "NNP-NN": 16,
+        "FW-NNP": 14,
+        "NNP-NNP": 14
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 38,
+        "NNP-NN-NN": 12,
+        "FW-FW-FW": 10,
+        "NN-NN-NNP": 8,
+        "FW-FW-NNP": 6
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 11,
+    "chunk_counts": {
+      "NP": 67,
+      "VP": 20,
+      "PP": 4
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 3,
+        "weight": 0.0294
+      },
+      {
+        "rule": "S -> NP ('policía', 'FW') ('de', 'FW') NP VP VP VP PP (',', ',') NP NP PP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0098
+      },
+      {
+        "rule": "NP -> ('La', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0098
+      },
+      {
+        "rule": "NP -> ('Argentina', 'NNP') ('reprimió', 'NN') ('este', 'NN')",
+        "frequency": 1,
+        "weight": 0.0098
+      },
+      {
+        "rule": "VP -> ('miércoles', 'VBZ') NP NP",
+        "frequency": 1,
+        "weight": 0.0098
+      },
+      {
+        "rule": "NP -> ('a', 'DT') ('manifestantes', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0098
+      },
+      {
+        "rule": "NP -> ('que', 'JJ') ('se', 'JJ') ('movilizaban', 'NN') ('para', 'NN') ('expresar', 'NN') ('su', 'NN')",
+        "frequency": 1,
+        "weight": 0.0098
+      },
+      {
+        "rule": "VP -> ('rechazo', 'VBZ') NP",
+        "frequency": 1,
+        "weight": 0.0098
+      },
+      {
+        "rule": "NP -> ('a', 'DT') ('la', 'NN') ('Ley', 'NNP') ('Bases', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0098
+      },
+      {
+        "rule": "VP -> ('impulsada', 'VBP') NP",
+        "frequency": 1,
+        "weight": 0.0098
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "La"
+      },
+      {
+        "label": "NP",
+        "text": "Argentina reprimió este"
+      },
+      {
+        "label": "VP",
+        "text": "miércoles a manifestantes que se movilizaban para expresar su"
+      },
+      {
+        "label": "NP",
+        "text": "a manifestantes"
+      },
+      {
+        "label": "NP",
+        "text": "que se movilizaban para expresar su"
+      },
+      {
+        "label": "VP",
+        "text": "rechazo a la Ley Bases"
+      },
+      {
+        "label": "NP",
+        "text": "a la Ley Bases"
+      },
+      {
+        "label": "VP",
+        "text": "impulsada por el Gobierno"
+      },
+      {
+        "label": "NP",
+        "text": "por el Gobierno"
+      },
+      {
+        "label": "PP",
+        "text": "de Javier Milei"
+      },
+      {
+        "label": "NP",
+        "text": "Javier Milei"
+      },
+      {
+        "label": "NP",
+        "text": "que"
+      },
+      {
+        "label": "NP",
+        "text": "se debate"
+      },
+      {
+        "label": "PP",
+        "text": "en el Senado"
+      },
+      {
+        "label": "NP",
+        "text": "el Senado"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP La/NNP)\n  policía/FW\n  de/FW\n  (NP Argentina/NNP reprimió/NN este/NN)\n  (VP\n    miércoles/VBZ\n    (NP a/DT manifestantes/NNS)\n    (NP que/JJ se/JJ movilizaban/NN para/NN expresar/NN su/NN))\n  (VP rechazo/VBZ (NP a/DT la/NN Ley/NNP Bases/NNP))\n  (VP impulsada/VBP (NP por/NN el/NN Gobierno/NNP))\n  (PP de/IN (NP Javier/NNP Milei/NNP))\n  ,/,\n  (NP que/NN)\n  (NP se/JJ debate/NN)\n  (PP en/IN (NP el/NN Senado/NNP))\n  ./.)",
+      "(S\n  (NP Manifestantes/NNS)\n  (VP\n    y/VBP\n    (NP diputados/JJ que/NN se/NN habían/NN movilizado/NN ante/NN))\n  el/FW\n  (NP Congreso/NNP)\n  de/FW\n  la/FW\n  (NP Nación/NNP sufrieron/NN ataques/NNS)\n  (VP con/VBP (NP gases/NNS))\n  (VP lacrimógenos/VBP (NP y/JJ debieron/NN ser/NN atendidos/NN))\n  ,/,\n  (NP principalmente/NN)\n  en/FW\n  la/FW\n  intersección/FW\n  de/FW\n  las/FW\n  avenidas/FW\n  (NP Callao/NNP y/NN Rivadavia/NNP)\n  ./.)",
+      "(S\n  (NP Hasta/NNP el/NN momento/NN)\n  ,/,\n  (NP cinco/JJ diputados/NN)\n  (PP de/IN (NP Unión/NNP por/NN la/NN Patria/NNP fueron/NN))\n  (VP trasladados/VBD (NP a/DT centros/NN))\n  de/IN\n  salud/FW\n  ,/,\n  de/FW\n  acuerdo/FW\n  (NP con/NN medios/NNS locales/NNS)\n  ./.)",
+      "(S\n  (NP Por/NNP su/NN parte/NN)\n  ,/,\n  el/FW\n  (NP Sindicato/NNP)\n  de/FW\n  (NP Prensa/NNP)\n  de/FW\n  (NP Buenos/NNP Aires/NNP)\n  (VP repudió/VBZ)\n  la/FW\n  represión/FW\n  (NP a/DT la/NN)\n  movilización/FW\n  (NP por/NN)\n  (VP el/VBZ)\n  No/DT\n  (NP a/DT la/NN Ley/NNP Bases/NNP y/NNP)\n  (VP los/VBZ)\n  (VP ataques/VBZ (NP a/DT lo/JJ medios/NNS))\n  ./.)",
+      "(S\n  (NP Expresó/NNP su/NN solidaridad/NN “/NNP con/NN todo/NN)\n  el/FW\n  equipo/FW\n  de/FW\n  (NP Cadena/NNP)\n  3/CD\n  ,/,\n  los/FW\n  compañeros/as/FW\n  de/FW\n  (NP Infonews/NNP)\n  ,/,\n  (NP Radio/NNP Gráfica/NNP)\n  ,/,\n  (NP Zorzal/NNP y/NNP con/NN todos/NN los/NN)\n  (NP afectados/as/JJ ”/NN)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "CIUDADES_CAPITALES",
+      "GOBIERNOS_OFICIALES",
+      "LEYES_NORMATIVAS",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "REGIONES_PROVINCIAS",
+      "PAISES",
+      "PROTESTAS_CONFLICTOS_SOCIALES",
+      "LOCALIZACIONES_ESPECIFICAS"
+    ],
+    "matches": [
+      {
+        "category": "PROTESTAS_CONFLICTOS_SOCIALES",
+        "matched_text": "movilización por el no a la ley",
+        "position": [
+          620,
+          651
+        ],
+        "start": 620,
+        "end": 651
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "expresó",
+        "position": [
+          685,
+          692
+        ],
+        "start": 685,
+        "end": 692
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "informó",
+        "position": [
+          940,
+          947
+        ],
+        "start": 940,
+        "end": 947
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "gobierno de javier milei",
+        "position": [
+          141,
+          165
+        ],
+        "start": 141,
+        "end": 165
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente felicitó",
+        "position": [
+          1233,
+          1252
+        ],
+        "start": 1233,
+        "end": 1252
+      },
+      {
+        "category": "LEYES_NORMATIVAS",
+        "matched_text": "ley bases y los ataques a lo medios. expresó su solidaridad “con todo el equipo de cadena 3",
+        "position": [
+          648,
+          739
+        ],
+        "start": 648,
+        "end": 739
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "argentina",
+        "position": [
+          15,
+          24
+        ],
+        "start": 15,
+        "end": 24
+      },
+      {
+        "category": "CIUDADES_CAPITALES",
+        "matched_text": "buenos aires",
+        "position": [
+          581,
+          593
+        ],
+        "start": 581,
+        "end": 593
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "estado, atentando",
+        "position": [
+          1420,
+          1437
+        ],
+        "start": 1420,
+        "end": 1437
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "plaza y la",
+        "position": [
+          1035,
+          1045
+        ],
+        "start": 1035,
+        "end": 1045
+      }
+    ],
+    "match_count": 10
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Congreso de la Nación",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Gobierno de Javier Milei",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Senado",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Rivadavia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Infonews",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Radio Gráfica",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Carlos Castagneto",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Argentina",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Callao",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Plaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Sindicato de Prensa de Buenos Aires",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Fuerzas de Seguridad",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Unión por la Patria",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Oficina",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Cadena 3",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Congreso de la Nación Argentina",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Cecilia Moreau",
+        "tipo": "Persona"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Argentina",
+        "relacion": "REPRIME_R",
+        "objeto": "Gobierno de Javier Milei"
+      },
+      {
+        "sujeto": "Argentina",
+        "relacion": "REPRIME_R",
+        "objeto": "Senado"
+      },
+      {
+        "sujeto": "Congreso de la Nación",
+        "relacion": "MOVILIZAR_SUFRIR",
+        "objeto": "Callao"
+      },
+      {
+        "sujeto": "Congreso de la Nación",
+        "relacion": "MOVILIZAR_SUFRIR",
+        "objeto": "Rivadavia"
+      },
+      {
+        "sujeto": "Cecilia Moreau",
+        "relacion": "INFORMAR",
+        "objeto": "Carlos Castagneto"
+      },
+      {
+        "sujeto": "Oficina",
+        "relacion": "FELICITAR",
+        "objeto": "Fuerzas de Seguridad"
+      },
+      {
+        "sujeto": "Oficina",
+        "relacion": "FELICITAR",
+        "objeto": "Congreso de la Nación Argentina"
+      },
+      {
+        "sujeto": "Fuerzas de Seguridad",
+        "relacion": "FELICITAR",
+        "objeto": "Congreso de la Nación Argentina"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.3595,
+    "pos": 0.0,
+    "neu": 0.989,
+    "neg": 0.011,
+    "label": "negative"
+  }
+}

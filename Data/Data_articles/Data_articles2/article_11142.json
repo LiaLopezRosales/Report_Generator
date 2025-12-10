@@ -1,0 +1,799 @@
+{
+  "url": "https://www.telesurtv.net/ataques-israelies-contra-la-capital-de-la-franja-de-gaza-dejaron-15-personas-muertas/",
+  "title": "Ataques israelíes contra la capital de la Franja de Gaza dejaron 15 personas muertas - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Bombardeos Israelíes",
+    "ciudad de Gaza",
+    "Franja de Gaza"
+  ],
+  "text": "Los últimos ataques aéreos israelíes del miércoles contra la Franja de Gaza dejaron al menos 15 personas muertas y decenas de heridos.\nSegún la agencia de noticias palestina WAFA al menos 13 personas, incluidas mujeres y niños, murieron en un ataque israelí contra una casa en el barrio de Sheikh Radwan, en la ciudad de Gaza.\nMientras los equipos de rescate continúan buscando entre los escombros de una casa destruida durante los bombardeos, los informes sugieren que alrededor de 40 personas aún podrían estar atrapadas bajo los escombros.\nEn otro ataque aéreo en la parte sur de la capital de la Franja de Gaza, dos personas más murieron y otras 20 resultaron heridas cuando los aviones israelíes bombardearon el barrio de Al-Sabra.\nAlrededor de siete personas siguen atrapadas bajo los escombros del edificio destruido por el ataque y los equipos médicos han confirmado la recuperación de al menos un cuerpo en el lugar.\nAl momento de los bombardeos contra la ciudad de Gaza, las fuerzas militares israelíes continuaron disparando contra civiles en el barrio de al-Zaytoun y demolieron edificios residenciales en el norte de Gaza.\nLa continua agresión israelí contra la Franja de Gaza desde octubre de 2023 ha provocado al menos 45.399 muertes documentadas y más de 107.940 heridos.\nLos organismos de rescate palestinos estiman que miles de personas continúan sepultadas y atrapadas bajo los escombros, inaccesibles para los equipos de emergencia y de defensa civil debido a los continuos ataques israelíes.\nIsrael mantiene sus bombardeos y ataques contra la Franja de Gaza a pesar de los llamados del Consejo de Seguridad de las Naciones Unidas a un alto el fuego y de las directivas de la Corte Internacional de Justicia que instan a que se tomen medidas para prevenir el genocidio y aliviar la situación humanitaria en Gaza.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/ataques-israelies-contra-la-capital-de-la-franja-de-gaza-dejaron-15-personas-muertas/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-12.json",
+    "message_index": 250,
+    "message_id": 83135,
+    "date": "2024-12-27T04:55:09+00:00",
+    "text": "teleSUR\nAtaques israelíes contra la capital de la Franja de Gaza dejaron 15 personas muertas\nhttps://www.telesurtv.net/ataques-israelies-contra-la-capital-de-la-franja-de-gaza-dejaron-15-personas-muertas/",
+    "photo_path": null,
+    "views": 2075,
+    "reactions": {
+      "🤬": 32,
+      "❤": 2,
+      "👎": 1
+    },
+    "total_reactions": 35
+  },
+  "preprocessing": {
+    "cleaned": "los últimos ataques aéreos israelíes del miércoles contra la franja de gaza dejaron al menos 15 personas muertas y decenas de heridos. según la agencia de noticias palestina wafa al menos 13 personas, incluidas mujeres y niños, murieron en un ataque israelí contra una casa en el barrio de sheikh radwan, en la ciudad de gaza. mientras los equipos de rescate continúan buscando entre los escombros de una casa destruida durante los bombardeos, los informes sugieren que alrededor de 40 personas aún podrían estar atrapadas bajo los escombros. en otro ataque aéreo en la parte sur de la capital de la franja de gaza, dos personas más murieron y otras 20 resultaron heridas cuando los aviones israelíes bombardearon el barrio de al-sabra. alrededor de siete personas siguen atrapadas bajo los escombros del edificio destruido por el ataque y los equipos médicos han confirmado la recuperación de al menos un cuerpo en el lugar. al momento de los bombardeos contra la ciudad de gaza, las fuerzas militares israelíes continuaron disparando contra civiles en el barrio de al-zaytoun y demolieron edificios residenciales en el norte de gaza. la continua agresión israelí contra la franja de gaza desde octubre de 2023 ha provocado al menos 45.399 muertes documentadas y más de 107.940 heridos. los organismos de rescate palestinos estiman que miles de personas continúan sepultadas y atrapadas bajo los escombros, inaccesibles para los equipos de emergencia y de defensa civil debido a los continuos ataques israelíes. israel mantiene sus bombardeos y ataques contra la franja de gaza a pesar de los llamados del consejo de seguridad de las naciones unidas a un alto el fuego y de las directivas de la corte internacional de justicia que instan a que se tomen medidas para prevenir el genocidio y aliviar la situación humanitaria en gaza.",
+    "tokens": [
+      "últimos",
+      "ataques",
+      "aéreos",
+      "israelíes",
+      "miércoles",
+      "franja",
+      "gaza",
+      "dejaron",
+      "menos",
+      "15",
+      "personas",
+      "muertas",
+      "decenas",
+      "heridos",
+      ".",
+      "según",
+      "agencia",
+      "noticias",
+      "palestina",
+      "wafa",
+      "menos",
+      "13",
+      "personas",
+      ",",
+      "incluidas",
+      "mujeres",
+      "niños",
+      ",",
+      "murieron",
+      "ataque",
+      "israelí",
+      "casa",
+      "barrio",
+      "sheikh",
+      "radwan",
+      ",",
+      "ciudad",
+      "gaza",
+      ".",
+      "mientras",
+      "equipos",
+      "rescate",
+      "continúan",
+      "buscando",
+      "escombros",
+      "casa",
+      "destruida",
+      "bombardeos",
+      ",",
+      "informes",
+      "sugieren",
+      "alrededor",
+      "40",
+      "personas",
+      "aún",
+      "podrían",
+      "atrapadas",
+      "bajo",
+      "escombros",
+      ".",
+      "ataque",
+      "aéreo",
+      "parte",
+      "sur",
+      "capital",
+      "franja",
+      "gaza",
+      ",",
+      "dos",
+      "personas",
+      "murieron",
+      "20",
+      "resultaron",
+      "heridas",
+      "aviones",
+      "israelíes",
+      "bombardearon",
+      "barrio",
+      "al-sabra",
+      ".",
+      "alrededor",
+      "siete",
+      "personas",
+      "siguen",
+      "atrapadas",
+      "bajo",
+      "escombros",
+      "edificio",
+      "destruido",
+      "ataque",
+      "equipos",
+      "médicos",
+      "confirmado",
+      "recuperación",
+      "menos",
+      "cuerpo",
+      "lugar",
+      ".",
+      "momento",
+      "bombardeos",
+      "ciudad",
+      "gaza",
+      ",",
+      "fuerzas",
+      "militares",
+      "israelíes",
+      "continuaron",
+      "disparando",
+      "civiles",
+      "barrio",
+      "al-zaytoun",
+      "demolieron",
+      "edificios",
+      "residenciales",
+      "norte",
+      "gaza",
+      ".",
+      "continua",
+      "agresión",
+      "israelí",
+      "franja",
+      "gaza",
+      "octubre",
+      "2023",
+      "provocado",
+      "menos",
+      "45.399",
+      "muertes",
+      "documentadas",
+      "107.940",
+      "heridos",
+      ".",
+      "organismos",
+      "rescate",
+      "palestinos",
+      "estiman",
+      "miles",
+      "personas",
+      "continúan",
+      "sepultadas",
+      "atrapadas",
+      "bajo",
+      "escombros",
+      ",",
+      "inaccesibles",
+      "equipos",
+      "emergencia",
+      "defensa",
+      "civil",
+      "debido",
+      "continuos",
+      "ataques",
+      "israelíes",
+      ".",
+      "israel",
+      "mantiene",
+      "bombardeos",
+      "ataques",
+      "franja",
+      "gaza",
+      "pesar",
+      "llamados",
+      "consejo",
+      "seguridad",
+      "naciones",
+      "unidas",
+      "alto",
+      "fuego",
+      "directivas",
+      "corte",
+      "internacional",
+      "justicia",
+      "instan",
+      "tomen",
+      "medidas",
+      "prevenir",
+      "genocidio",
+      "aliviar",
+      "situación",
+      "humanitaria",
+      "gaza",
+      "."
+    ],
+    "token_count": 182,
+    "sentence_count": 9
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 35,
+      "VBZ": 2,
+      "JJ": 35,
+      "NN": 75,
+      "NNS": 21,
+      "VBP": 16,
+      "FW": 74,
+      "VBD": 4,
+      "CD": 7,
+      "$": 2,
+      "IN": 13,
+      "CC": 1
+    },
+    "bigram_freq": {
+      "NNP-NNP": 9,
+      "NNP-VBZ": 1,
+      "VBZ-JJ": 1,
+      "JJ-JJ": 5,
+      "JJ-NN": 18,
+      "NN-NNS": 9,
+      "NNS-VBP": 14,
+      "VBP-JJ": 11,
+      "JJ-NNP": 3,
+      "NNP-FW": 13,
+      "FW-NNP": 16,
+      "NNP-NN": 5,
+      "NN-NN": 39,
+      "NN-VBD": 3,
+      "VBD-CD": 2,
+      "CD-NNS": 4,
+      "NNS-JJ": 3,
+      "JJ-FW": 4,
+      "FW-FW": 41,
+      "NNP-VBP": 2,
+      "VBP-$": 1,
+      "$-CD": 2,
+      "CD-NN": 3,
+      "VBP-NN": 3,
+      "NN-FW": 6,
+      "FW-JJ": 5,
+      "NN-JJ": 7,
+      "NN-IN": 9,
+      "IN-FW": 9,
+      "FW-NN": 7,
+      "IN-NNP": 2,
+      "NNP-VBD": 1,
+      "VBD-FW": 1,
+      "FW-NNS": 3,
+      "IN-CD": 1,
+      "NNP-IN": 1,
+      "NN-NNP": 2,
+      "NNP-CC": 1,
+      "CC-JJ": 1,
+      "JJ-NNS": 5,
+      "NNS-IN": 2,
+      "IN-JJ": 1,
+      "NNS-VBZ": 1,
+      "VBZ-IN": 1,
+      "FW-CD": 2,
+      "VBD-$": 1,
+      "NNS-NNP": 1,
+      "VBP-NNP": 1,
+      "NNP-JJ": 1
+    },
+    "trigram_freq": {
+      "NNP-NNP-VBZ": 1,
+      "NNP-VBZ-JJ": 1,
+      "VBZ-JJ-JJ": 1,
+      "JJ-JJ-NN": 3,
+      "JJ-NN-NNS": 4,
+      "NN-NNS-VBP": 8,
+      "NNS-VBP-JJ": 10,
+      "VBP-JJ-NNP": 2,
+      "JJ-NNP-FW": 2,
+      "NNP-FW-NNP": 6,
+      "FW-NNP-NN": 3,
+      "NNP-NN-NN": 5,
+      "NN-NN-VBD": 3,
+      "NN-VBD-CD": 2,
+      "VBD-CD-NNS": 1,
+      "CD-NNS-JJ": 3,
+      "NNS-JJ-FW": 2,
+      "JJ-FW-FW": 4,
+      "FW-FW-FW": 24,
+      "FW-FW-NNP": 7,
+      "FW-NNP-FW": 6,
+      "NNP-FW-FW": 7,
+      "FW-NNP-VBP": 1,
+      "NNP-VBP-$": 1,
+      "VBP-$-CD": 1,
+      "$-CD-NN": 1,
+      "CD-NN-NN": 3,
+      "NN-NN-NNS": 4,
+      "NNS-VBP-NN": 3,
+      "VBP-NN-FW": 1,
+      "NN-FW-JJ": 1,
+      "FW-JJ-NN": 5,
+      "JJ-NN-NN": 8,
+      "NN-NN-JJ": 6,
+      "NN-JJ-JJ": 1,
+      "JJ-NN-IN": 3,
+      "NN-IN-FW": 5,
+      "IN-FW-NN": 4,
+      "FW-NN-IN": 3,
+      "NN-IN-NNP": 2,
+      "IN-NNP-NNP": 2,
+      "NNP-NNP-FW": 3,
+      "FW-NNP-NNP": 4,
+      "NNP-NNP-VBD": 1,
+      "NNP-VBD-FW": 1,
+      "VBD-FW-FW": 1,
+      "FW-FW-NNS": 2,
+      "FW-NNS-VBP": 3,
+      "VBP-JJ-JJ": 2,
+      "JJ-JJ-FW": 1,
+      "FW-FW-NN": 2,
+      "FW-NN-NN": 1,
+      "NN-NN-NN": 20,
+      "NN-JJ-NN": 3,
+      "VBP-JJ-NN": 5,
+      "NN-IN-CD": 1,
+      "IN-CD-NNS": 1,
+      "NNS-JJ-JJ": 1,
+      "JJ-JJ-NNP": 1,
+      "JJ-NNP-NN": 1,
+      "NN-NN-IN": 3,
+      "IN-FW-FW": 3,
+      "IN-FW-NNP": 1,
+      "VBD-CD-NN": 1,
+      "VBP-NN-NN": 2,
+      "NNP-NNP-IN": 1,
+      "NNP-IN-FW": 1,
+      "IN-FW-NNS": 1,
+      "NN-NN-FW": 3,
+      "NN-FW-FW": 2,
+      "FW-FW-JJ": 4,
+      "FW-NN-NNP": 1,
+      "NN-NNP-NNP": 1,
+      "JJ-NN-FW": 1,
+      "FW-NNP-CC": 1,
+      "NNP-CC-JJ": 1,
+      "CC-JJ-NNS": 1,
+      "JJ-NNS-VBP": 3,
+      "NN-JJ-NNS": 3,
+      "JJ-NNS-IN": 2,
+      "NNS-IN-FW": 2,
+      "NN-IN-JJ": 1,
+      "IN-JJ-NN": 1,
+      "NN-NNS-VBZ": 1,
+      "NNS-VBZ-IN": 1,
+      "VBZ-IN-FW": 1,
+      "NNP-NNP-VBP": 1,
+      "NNP-VBP-JJ": 1,
+      "NN-FW-NNP": 2,
+      "FW-FW-CD": 2,
+      "FW-CD-NN": 1,
+      "NN-VBD-$": 1,
+      "VBD-$-CD": 1,
+      "$-CD-NNS": 1,
+      "FW-CD-NNS": 1,
+      "CD-NNS-NNP": 1,
+      "NNS-NNP-FW": 1,
+      "VBP-JJ-NNS": 1,
+      "FW-NN-NNS": 1,
+      "JJ-NN-JJ": 1,
+      "VBP-JJ-FW": 1,
+      "NNS-VBP-NNP": 1,
+      "VBP-NNP-NNP": 1,
+      "NNP-NNP-NN": 1,
+      "JJ-NN-NNP": 1,
+      "NN-NNP-FW": 1,
+      "NNP-NNP-JJ": 1,
+      "NNP-JJ-NN": 1,
+      "NN-FW-NN": 1,
+      "FW-NN-FW": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 75,
+        "FW": 74,
+        "NNP": 35,
+        "JJ": 35,
+        "NNS": 21
+      },
+      "top_bigrams": {
+        "FW-FW": 41,
+        "NN-NN": 39,
+        "JJ-NN": 18,
+        "FW-NNP": 16,
+        "NNS-VBP": 14
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 24,
+        "NN-NN-NN": 20,
+        "NNS-VBP-JJ": 10,
+        "NN-NNS-VBP": 8,
+        "JJ-NN-NN": 8
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 9,
+    "chunk_counts": {
+      "NP": 76,
+      "VP": 27,
+      "PP": 6,
+      "ADJP": 1
+    },
+    "top_rules": [
+      {
+        "rule": "NP -> ('Gaza', 'NNP')",
+        "frequency": 7,
+        "weight": 0.0588
+      },
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 4,
+        "weight": 0.0336
+      },
+      {
+        "rule": "VP -> ('contra', 'VBP') NP",
+        "frequency": 2,
+        "weight": 0.0168
+      },
+      {
+        "rule": "NP -> ('la', 'JJ') ('Franja', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0168
+      },
+      {
+        "rule": "NP -> ('barrio', 'NN')",
+        "frequency": 2,
+        "weight": 0.0168
+      },
+      {
+        "rule": "NP -> ('personas', 'NNS')",
+        "frequency": 2,
+        "weight": 0.0168
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0168
+      },
+      {
+        "rule": "S -> NP VP VP ('de', 'FW') NP VP ('15', 'CD') NP VP ('decenas', 'FW') ('de', 'FW') ('heridos', 'FW') ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0084
+      },
+      {
+        "rule": "NP -> ('Los', 'NNP') ('últimos', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0084
+      },
+      {
+        "rule": "VP -> ('ataques', 'VBZ') NP",
+        "frequency": 1,
+        "weight": 0.0084
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Los últimos"
+      },
+      {
+        "label": "VP",
+        "text": "ataques aéreos israelíes del miércoles"
+      },
+      {
+        "label": "NP",
+        "text": "aéreos israelíes del miércoles"
+      },
+      {
+        "label": "VP",
+        "text": "contra la Franja"
+      },
+      {
+        "label": "NP",
+        "text": "la Franja"
+      },
+      {
+        "label": "NP",
+        "text": "Gaza dejaron al"
+      },
+      {
+        "label": "VP",
+        "text": "menos"
+      },
+      {
+        "label": "NP",
+        "text": "personas muertas"
+      },
+      {
+        "label": "VP",
+        "text": "y"
+      },
+      {
+        "label": "NP",
+        "text": "Según la"
+      },
+      {
+        "label": "NP",
+        "text": "WAFA"
+      },
+      {
+        "label": "VP",
+        "text": "al"
+      },
+      {
+        "label": "NP",
+        "text": "personas"
+      },
+      {
+        "label": "NP",
+        "text": "incluidas mujeres"
+      },
+      {
+        "label": "VP",
+        "text": "y niños"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Los/NNP últimos/NNP)\n  (VP ataques/VBZ (NP aéreos/JJ israelíes/JJ del/NN miércoles/NNS))\n  (VP contra/VBP (NP la/JJ Franja/NNP))\n  de/FW\n  (NP Gaza/NNP dejaron/NN al/NN)\n  (VP menos/VBD)\n  15/CD\n  (NP personas/NNS muertas/NNS)\n  (VP y/VBP)\n  decenas/FW\n  de/FW\n  heridos/FW\n  ./.)",
+      "(S\n  (NP Según/NNP la/NNP)\n  agencia/FW\n  de/FW\n  noticias/FW\n  palestina/FW\n  (NP WAFA/NNP)\n  (VP al/VBP)\n  menos/$\n  13/CD\n  (NP personas/NN)\n  ,/,\n  (NP incluidas/JJ mujeres/NNS)\n  (VP y/VBP niños/RB)\n  ,/,\n  (NP murieron/NN)\n  en/FW\n  (NP un/JJ ataque/NN israelí/NN)\n  (NP contra/JJ una/JJ casa/NN)\n  en/IN\n  el/FW\n  (NP barrio/NN)\n  (PP de/IN (NP Sheikh/NNP Radwan/NNP))\n  ,/,\n  en/FW\n  la/FW\n  ciudad/FW\n  de/FW\n  (NP Gaza/NNP)\n  ./.)",
+      "(S\n  (NP Mientras/NNP)\n  (VP los/VBD)\n  equipos/FW\n  de/FW\n  rescate/FW\n  (NP continúan/NNS)\n  (VP buscando/VBP entre/JJ los/JJ)\n  escombros/FW\n  de/FW\n  una/FW\n  (NP casa/NN destruida/NN durante/NN los/NN bombardeos/NN)\n  ,/,\n  (NP los/JJ informes/NNS)\n  (VP sugieren/VBP (NP que/JJ alrededor/NN))\n  de/IN\n  40/CD\n  (NP personas/NNS)\n  (NP aún/JJ podrían/JJ estar/NN atrapadas/NNS)\n  (VP bajo/VBP (NP los/JJ escombros/NNS))\n  ./.)",
+      "(S\n  (NP En/NNP)\n  otro/MD\n  (VP ataque/VB aéreo/JJ)\n  en/FW\n  la/FW\n  parte/FW\n  sur/FW\n  de/FW\n  la/FW\n  (NP capital/NN)\n  de/IN\n  la/FW\n  (NP Franja/NNP)\n  de/FW\n  (NP Gaza/NNP)\n  ,/,\n  (VP dos/VBZ (NP personas/JJ más/NN murieron/NN y/NN))\n  (VP otras/VBD)\n  20/CD\n  (NP resultaron/NN heridas/NN cuando/NN los/NN aviones/NNS)\n  (VP israelíes/VBP (NP bombardearon/NN el/NN barrio/NN))\n  (PP de/IN (NP Al-Sabra/NNP))\n  ./.)",
+      "(S\n  (NP Alrededor/NNP de/NNP)\n  siete/FW\n  (NP personas/NNS)\n  (VP\n    siguen/VBP\n    (NP atrapadas/JJ bajo/NN los/NN)\n    (NP\n      escombros/JJ\n      del/NN\n      edificio/NN\n      destruido/NN\n      por/NN\n      el/NN\n      ataque/NN\n      y/NN\n      los/NN)\n    (NP equipos/JJ médicos/NN han/NN confirmado/NN))\n  la/FW\n  recuperación/FW\n  de/FW\n  al/FW\n  menos/FW\n  (NP un/JJ cuerpo/NN)\n  (PP en/IN (NP el/NN lugar/NN))\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "GRUPOS_ESPECIFICOS",
+      "ORGANISMOS_INTERNACIONALES",
+      "CANTIDADES_NUMERICAS",
+      "CRISIS_HUMANITARIA_SERVICIOS",
+      "PAISES",
+      "LOCALIZACIONES_ESPECIFICAS",
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "CONFLICTOS_ARMADOS_OPERACIONES",
+      "JURIDICO_LEGISLATIVO_CORRUPCION"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "ataque aéreo",
+        "position": [
+          551,
+          563
+        ],
+        "start": 551,
+        "end": 563
+      },
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "ataques aéreos israelíes",
+        "position": [
+          12,
+          36
+        ],
+        "start": 12,
+        "end": 36
+      },
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "capital",
+        "position": [
+          586,
+          593
+        ],
+        "start": 586,
+        "end": 593
+      },
+      {
+        "category": "JURIDICO_LEGISLATIVO_CORRUPCION",
+        "matched_text": "defensa",
+        "position": [
+          1457,
+          1464
+        ],
+        "start": 1457,
+        "end": 1464
+      },
+      {
+        "category": "CRISIS_HUMANITARIA_SERVICIOS",
+        "matched_text": "genocidio y aliviar la situación humanitaria en gaza",
+        "position": [
+          1779,
+          1831
+        ],
+        "start": 1779,
+        "end": 1831
+      },
+      {
+        "category": "ORGANISMOS_INTERNACIONALES",
+        "matched_text": "naciones unidas",
+        "position": [
+          1635,
+          1650
+        ],
+        "start": 1635,
+        "end": 1650
+      },
+      {
+        "category": "GRUPOS_ESPECIFICOS",
+        "matched_text": "mujeres",
+        "position": [
+          211,
+          218
+        ],
+        "start": 211,
+        "end": 218
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "palestina",
+        "position": [
+          164,
+          173
+        ],
+        "start": 164,
+        "end": 173
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "barrio de",
+        "position": [
+          280,
+          289
+        ],
+        "start": 280,
+        "end": 289
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "edificio destruido",
+        "position": [
+          805,
+          823
+        ],
+        "start": 805,
+        "end": 823
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "15 personas",
+        "position": [
+          93,
+          104
+        ],
+        "start": 93,
+        "end": 104
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "13 personas",
+        "position": [
+          188,
+          199
+        ],
+        "start": 188,
+        "end": 199
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "alrededor de 40",
+        "position": [
+          470,
+          485
+        ],
+        "start": 470,
+        "end": 485
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "más de 107.940",
+        "position": [
+          1264,
+          1278
+        ],
+        "start": 1264,
+        "end": 1278
+      }
+    ],
+    "match_count": 14
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Franja de Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Sheikh Radwan",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Al-Sabra",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Israel",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Consejo de Seguridad de las Naciones Unidas",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "al-Zaytoun",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Corte Internacional de Justicia",
+        "tipo": "Organizacion"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Franja de Gaza",
+        "relacion": "MORIR",
+        "objeto": "Al-Sabra"
+      },
+      {
+        "sujeto": "Gaza",
+        "relacion": "CONTINUAR",
+        "objeto": "al-Zaytoun"
+      },
+      {
+        "sujeto": "al-Zaytoun",
+        "relacion": "CONTINUAR",
+        "objeto": "Gaza"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "MANTENER",
+        "objeto": "Franja de Gaza"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "MANTENER",
+        "objeto": "Consejo de Seguridad de las Naciones Unidas"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "MANTENER",
+        "objeto": "Corte Internacional de Justicia"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "MANTENER",
+        "objeto": "Gaza"
+      },
+      {
+        "sujeto": "Franja de Gaza",
+        "relacion": "MANTENER",
+        "objeto": "Consejo de Seguridad de las Naciones Unidas"
+      },
+      {
+        "sujeto": "Franja de Gaza",
+        "relacion": "MANTENER",
+        "objeto": "Corte Internacional de Justicia"
+      },
+      {
+        "sujeto": "Franja de Gaza",
+        "relacion": "MANTENER",
+        "objeto": "Gaza"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.34,
+    "pos": 0.008,
+    "neu": 0.992,
+    "neg": 0.0,
+    "label": "positive"
+  }
+}

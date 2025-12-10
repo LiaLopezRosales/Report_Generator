@@ -1,0 +1,837 @@
+{
+  "url": "https://www.telesurtv.net/ocupantes-israelies-asesinan-a-varios-palestinos-durante-el-dia-308-de-asedio-contra-gaza/",
+  "title": "Ocupantes israelíes asesinan a varios palestinos durante el día 308 de asedio contra Gaza - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "bombardeos",
+    "Gaza",
+    "Israel",
+    "Muertos"
+  ],
+  "text": "En el día 308 de la ofensiva israelí sobre la Franja de Gaza, los bombardeos de las fuerzas de ocupación israelíes dejaron al menos nueve palestinos asesinados y varios heridos en diferentes áreas del territorio.\nCuatro personas fueron masacradas y otras sufrieron impactos en medio de los ataques a una casa perteneciente a la familia Mattar en el campo de refugiados de Nuseirat, en el centro de Gaza.\nPor otro lado, un ataque israelí contra el campo de refugiados de Maghazi asesinó a dos palestinos y provocó varios heridos.\nAdemás, los equipos de emergencia recuperaron los cadáveres de otras dos víctimas, entre ellas un niño, en la localidad de Abasan, al este de Jan Yunis, en el sur de la Franja de Gaza. En este lugar también fue asesinado un joven por francotiradores israelíes.\nMientras, miles de personas continuaron huyendo de esta área a consecuencia de las órdenes de evacuación emitidas este jueves por las autoridades israelíes, preludio de nuevos bombardeos.\nEn ese sentido, la Organización de las Naciones Unidas (ONU) recordó a las partes en conflicto que deben respetar en todo momento el Derecho Internacional y proteger a la población civil.\nEl portavoz de la secretaría general de la ONU, Farhan Haq, confirmó en rueda de prensa que más de 15.500 personas viven en estas zonas y que se ha observado el desplazamiento de gran parte, principalmente, hacia Al Mawasi, en la costa sur.\nSegún la Oficina de la ONU para la Coordinación de Asuntos Humanitarios (OCHA), unas 200.000 personas fueron evacuadas de Jan Yunis entre el 22 y el 27 de julio pasado, durante la última incursión terrestre del Ejército israelí, que dejó gran parte de la localidad totalmente arrasada.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/ocupantes-israelies-asesinan-a-varios-palestinos-durante-el-dia-308-de-asedio-contra-gaza/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-08.json",
+    "message_index": 1227,
+    "message_id": 74255,
+    "date": "2024-08-09T15:55:34+00:00",
+    "text": "teleSUR\nOcupantes israelíes asesinan a varios palestinos durante el día 308 de asedio contra Gaza\nhttps://www.telesurtv.net/ocupantes-israelies-asesinan-a-varios-palestinos-durante-el-dia-308-de-asedio-contra-gaza/",
+    "photo_path": null,
+    "views": 2597,
+    "reactions": {
+      "🤬": 28,
+      "😡": 14,
+      "😭": 4,
+      "👍": 2
+    },
+    "total_reactions": 48
+  },
+  "preprocessing": {
+    "cleaned": "en el día 308 de la ofensiva israelí sobre la franja de gaza, los bombardeos de las fuerzas de ocupación israelíes dejaron al menos nueve palestinos asesinados y varios heridos en diferentes áreas del territorio. cuatro personas fueron masacradas y otras sufrieron impactos en medio de los ataques a una casa perteneciente a la familia mattar en el campo de refugiados de nuseirat, en el centro de gaza. por otro lado, un ataque israelí contra el campo de refugiados de maghazi asesinó a dos palestinos y provocó varios heridos. además, los equipos de emergencia recuperaron los cadáveres de otras dos víctimas, entre ellas un niño, en la localidad de abasan, al este de jan yunis, en el sur de la franja de gaza. en este lugar también fue asesinado un joven por francotiradores israelíes. mientras, miles de personas continuaron huyendo de esta área a consecuencia de las órdenes de evacuación emitidas este jueves por las autoridades israelíes, preludio de nuevos bombardeos. en ese sentido, la organización de las naciones unidas (onu) recordó a las partes en conflicto que deben respetar en todo momento el derecho internacional y proteger a la población civil. el portavoz de la secretaría general de la onu, farhan haq, confirmó en rueda de prensa que más de 15.500 personas viven en estas zonas y que se ha observado el desplazamiento de gran parte, principalmente, hacia al mawasi, en la costa sur. según la oficina de la onu para la coordinación de asuntos humanitarios (ocha), unas 200.000 personas fueron evacuadas de jan yunis entre el 22 y el 27 de julio pasado, durante la última incursión terrestre del ejército israelí, que dejó gran parte de la localidad totalmente arrasada.",
+    "tokens": [
+      "día",
+      "308",
+      "ofensiva",
+      "israelí",
+      "franja",
+      "gaza",
+      ",",
+      "bombardeos",
+      "fuerzas",
+      "ocupación",
+      "israelíes",
+      "dejaron",
+      "menos",
+      "nueve",
+      "palestinos",
+      "asesinados",
+      "varios",
+      "heridos",
+      "diferentes",
+      "áreas",
+      "territorio",
+      ".",
+      "cuatro",
+      "personas",
+      "masacradas",
+      "sufrieron",
+      "impactos",
+      "medio",
+      "ataques",
+      "casa",
+      "perteneciente",
+      "familia",
+      "mattar",
+      "campo",
+      "refugiados",
+      "nuseirat",
+      ",",
+      "centro",
+      "gaza",
+      ".",
+      "lado",
+      ",",
+      "ataque",
+      "israelí",
+      "campo",
+      "refugiados",
+      "maghazi",
+      "asesinó",
+      "dos",
+      "palestinos",
+      "provocó",
+      "varios",
+      "heridos",
+      ".",
+      "además",
+      ",",
+      "equipos",
+      "emergencia",
+      "recuperaron",
+      "cadáveres",
+      "dos",
+      "víctimas",
+      ",",
+      "niño",
+      ",",
+      "localidad",
+      "abasan",
+      ",",
+      "jan",
+      "yunis",
+      ",",
+      "sur",
+      "franja",
+      "gaza",
+      ".",
+      "lugar",
+      "asesinado",
+      "joven",
+      "francotiradores",
+      "israelíes",
+      ".",
+      "mientras",
+      ",",
+      "miles",
+      "personas",
+      "continuaron",
+      "huyendo",
+      "área",
+      "consecuencia",
+      "órdenes",
+      "evacuación",
+      "emitidas",
+      "jueves",
+      "autoridades",
+      "israelíes",
+      ",",
+      "preludio",
+      "nuevos",
+      "bombardeos",
+      ".",
+      ",",
+      "organización",
+      "naciones",
+      "unidas",
+      "(",
+      "onu",
+      ")",
+      "recordó",
+      "partes",
+      "conflicto",
+      "deben",
+      "respetar",
+      "momento",
+      "derecho",
+      "internacional",
+      "proteger",
+      "población",
+      "civil",
+      ".",
+      "portavoz",
+      "secretaría",
+      "general",
+      "onu",
+      ",",
+      "farhan",
+      "haq",
+      ",",
+      "confirmó",
+      "rueda",
+      "prensa",
+      "15.500",
+      "personas",
+      "viven",
+      "zonas",
+      "observado",
+      "desplazamiento",
+      "gran",
+      "parte",
+      ",",
+      "principalmente",
+      ",",
+      "hacia",
+      "mawasi",
+      ",",
+      "costa",
+      "sur",
+      ".",
+      "según",
+      "oficina",
+      "onu",
+      "coordinación",
+      "asuntos",
+      "humanitarios",
+      "(",
+      "ocha",
+      ")",
+      ",",
+      "unas",
+      "200.000",
+      "personas",
+      "evacuadas",
+      "jan",
+      "yunis",
+      "22",
+      "27",
+      "julio",
+      "pasado",
+      ",",
+      "última",
+      "incursión",
+      "terrestre",
+      "ejército",
+      "israelí",
+      ",",
+      "dejó",
+      "gran",
+      "parte",
+      "localidad",
+      "totalmente",
+      "arrasada",
+      "."
+    ],
+    "token_count": 181,
+    "sentence_count": 9
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 41,
+      "NN": 59,
+      "VBD": 3,
+      "CD": 6,
+      "IN": 10,
+      "FW": 100,
+      "NNS": 15,
+      "VBP": 10,
+      "JJ": 18,
+      "MD": 1,
+      "VB": 1,
+      "CC": 1,
+      "VBZ": 2,
+      "RB": 3
+    },
+    "bigram_freq": {
+      "NNP-NN": 10,
+      "NN-VBD": 2,
+      "VBD-CD": 1,
+      "CD-IN": 2,
+      "IN-FW": 5,
+      "FW-FW": 67,
+      "FW-NNP": 18,
+      "NNP-FW": 13,
+      "FW-NN": 9,
+      "NN-FW": 9,
+      "NN-NN": 30,
+      "NN-NNS": 2,
+      "NNS-VBP": 7,
+      "VBP-JJ": 3,
+      "JJ-JJ": 3,
+      "JJ-NNS": 3,
+      "VBP-NN": 2,
+      "NN-NNP": 4,
+      "NN-IN": 6,
+      "FW-NNS": 2,
+      "FW-JJ": 3,
+      "JJ-NNP": 3,
+      "NNP-NNP": 12,
+      "NNP-MD": 1,
+      "MD-VB": 1,
+      "VB-JJ": 1,
+      "JJ-NN": 4,
+      "NN-JJ": 2,
+      "NNP-CC": 1,
+      "CC-JJ": 1,
+      "VBP-NNS": 4,
+      "VBP-NNP": 1,
+      "NNS-FW": 2,
+      "JJ-FW": 3,
+      "IN-NNP": 2,
+      "NN-VBZ": 2,
+      "VBZ-JJ": 1,
+      "NNP-NNS": 1,
+      "NNS-RB": 2,
+      "RB-VBP": 2,
+      "NNS-NNS": 1,
+      "NNS-JJ": 2,
+      "VBZ-IN": 1,
+      "IN-NN": 3,
+      "NN-VBP": 1,
+      "FW-CD": 1,
+      "CD-NNS": 2,
+      "NNS-CD": 1,
+      "CD-NN": 1,
+      "NNP-IN": 1,
+      "NNP-JJ": 1,
+      "JJ-CD": 2,
+      "NNP-VBD": 1,
+      "VBD-RB": 1,
+      "RB-CD": 1,
+      "CD-JJ": 1,
+      "VBD-FW": 1
+    },
+    "trigram_freq": {
+      "NNP-NN-VBD": 1,
+      "NN-VBD-CD": 1,
+      "VBD-CD-IN": 1,
+      "CD-IN-FW": 1,
+      "IN-FW-FW": 3,
+      "FW-FW-FW": 48,
+      "FW-FW-NNP": 13,
+      "FW-NNP-FW": 9,
+      "NNP-FW-NNP": 3,
+      "NNP-FW-NN": 3,
+      "FW-NN-FW": 3,
+      "NN-FW-FW": 3,
+      "FW-FW-NN": 3,
+      "FW-NN-NN": 3,
+      "NN-NN-NNS": 1,
+      "NN-NNS-VBP": 2,
+      "NNS-VBP-JJ": 2,
+      "VBP-JJ-JJ": 1,
+      "JJ-JJ-NNS": 1,
+      "JJ-NNS-VBP": 3,
+      "VBP-JJ-NNS": 1,
+      "NNS-VBP-NN": 2,
+      "VBP-NN-NN": 2,
+      "NN-NN-NNP": 4,
+      "NN-NNP-NN": 2,
+      "NNP-NN-NN": 7,
+      "NN-NN-NN": 12,
+      "NN-NN-FW": 5,
+      "NN-FW-NN": 3,
+      "FW-NN-IN": 2,
+      "NN-IN-FW": 4,
+      "IN-FW-NNS": 1,
+      "FW-NNS-VBP": 1,
+      "NN-FW-JJ": 1,
+      "FW-JJ-NNP": 1,
+      "JJ-NNP-FW": 1,
+      "NNP-FW-FW": 7,
+      "FW-NNP-NNP": 6,
+      "NNP-NNP-MD": 1,
+      "NNP-MD-VB": 1,
+      "MD-VB-JJ": 1,
+      "VB-JJ-NN": 1,
+      "JJ-NN-NN": 2,
+      "NN-NN-JJ": 2,
+      "NN-JJ-JJ": 1,
+      "JJ-JJ-NN": 1,
+      "JJ-NN-IN": 2,
+      "FW-NNP-CC": 1,
+      "NNP-CC-JJ": 1,
+      "CC-JJ-NNS": 1,
+      "NNS-VBP-NNS": 2,
+      "VBP-NNS-VBP": 1,
+      "NNS-VBP-NNP": 1,
+      "VBP-NNP-FW": 1,
+      "FW-FW-NNS": 1,
+      "FW-NNS-FW": 1,
+      "NNS-FW-FW": 2,
+      "FW-FW-JJ": 1,
+      "FW-JJ-FW": 1,
+      "JJ-FW-FW": 3,
+      "NN-IN-NNP": 1,
+      "IN-NNP-NNP": 2,
+      "NNP-NNP-FW": 2,
+      "NNP-NNP-NN": 4,
+      "NN-JJ-NN": 1,
+      "NN-NN-VBZ": 2,
+      "NN-VBZ-JJ": 1,
+      "VBZ-JJ-NNP": 1,
+      "JJ-NNP-NNS": 1,
+      "NNP-NNS-RB": 1,
+      "NNS-RB-VBP": 2,
+      "RB-VBP-NNS": 2,
+      "VBP-NNS-FW": 1,
+      "FW-NN-NNS": 1,
+      "VBP-NNS-NNS": 1,
+      "NNS-NNS-JJ": 1,
+      "NNS-JJ-NN": 1,
+      "NN-FW-NNP": 2,
+      "NNP-NNP-NNP": 3,
+      "NN-VBZ-IN": 1,
+      "VBZ-IN-NN": 1,
+      "IN-NN-NN": 3,
+      "NN-NN-IN": 1,
+      "NN-IN-NN": 1,
+      "NN-NNP-NNP": 1,
+      "NN-NN-VBP": 1,
+      "NN-VBP-JJ": 1,
+      "VBP-JJ-NNP": 1,
+      "JJ-NNP-NN": 1,
+      "NNP-NN-IN": 1,
+      "IN-FW-JJ": 1,
+      "FW-JJ-JJ": 1,
+      "JJ-JJ-FW": 1,
+      "NNP-NN-FW": 1,
+      "FW-FW-CD": 1,
+      "FW-CD-NNS": 1,
+      "CD-NNS-RB": 1,
+      "VBP-NNS-CD": 1,
+      "NNS-CD-NN": 1,
+      "CD-NN-NN": 1,
+      "FW-NNP-NN": 2,
+      "NN-NNP-IN": 1,
+      "NNP-IN-NNP": 1,
+      "NNP-NNP-JJ": 1,
+      "NNP-JJ-CD": 1,
+      "JJ-CD-NNS": 1,
+      "CD-NNS-JJ": 1,
+      "NNS-JJ-FW": 1,
+      "NNP-NNP-VBD": 1,
+      "NNP-VBD-RB": 1,
+      "VBD-RB-CD": 1,
+      "RB-CD-JJ": 1,
+      "CD-JJ-CD": 1,
+      "JJ-CD-IN": 1,
+      "CD-IN-NN": 1,
+      "NN-NN-VBD": 1,
+      "NN-VBD-FW": 1,
+      "VBD-FW-FW": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "FW": 100,
+        "NN": 59,
+        "NNP": 41,
+        "JJ": 18,
+        "NNS": 15
+      },
+      "top_bigrams": {
+        "FW-FW": 67,
+        "NN-NN": 30,
+        "FW-NNP": 18,
+        "NNP-FW": 13,
+        "NNP-NNP": 12
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 48,
+        "FW-FW-NNP": 13,
+        "NN-NN-NN": 12,
+        "FW-NNP-FW": 9,
+        "NNP-NN-NN": 7
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 9,
+    "chunk_counts": {
+      "NP": 74,
+      "VP": 14,
+      "ADJP": 6,
+      "PP": 5
+    },
+    "top_rules": [
+      {
+        "rule": "NP -> ('Gaza', 'NNP')",
+        "frequency": 3,
+        "weight": 0.0278
+      },
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 3,
+        "weight": 0.0278
+      },
+      {
+        "rule": "NP -> ('Franja', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0185
+      },
+      {
+        "rule": "NP -> ('Jan', 'NNP') ('Yunis', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0185
+      },
+      {
+        "rule": "NP -> ('ONU', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0185
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0185
+      },
+      {
+        "rule": "NP -> ('personas', 'NNS')",
+        "frequency": 2,
+        "weight": 0.0185
+      },
+      {
+        "rule": "S -> NP VP ('308', 'CD') ('de', 'IN') ('la', 'FW') ('ofensiva', 'FW') ('israelí', 'FW') ('sobre', 'FW') ('la', 'FW') NP ('de', 'FW') NP (',', ',') NP ('de', 'IN') ('las', 'FW') ('fuerzas', 'FW') ('de', 'FW') ('ocupación', 'FW') ('israelíes', 'FW') NP VP VP VP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0093
+      },
+      {
+        "rule": "NP -> ('En', 'NNP') ('el', 'NN')",
+        "frequency": 1,
+        "weight": 0.0093
+      },
+      {
+        "rule": "VP -> ('día', 'VBD')",
+        "frequency": 1,
+        "weight": 0.0093
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "En el"
+      },
+      {
+        "label": "VP",
+        "text": "día"
+      },
+      {
+        "label": "NP",
+        "text": "Franja"
+      },
+      {
+        "label": "NP",
+        "text": "Gaza"
+      },
+      {
+        "label": "NP",
+        "text": "los bombardeos"
+      },
+      {
+        "label": "NP",
+        "text": "dejaron al menos"
+      },
+      {
+        "label": "VP",
+        "text": "nueve palestinos asesinados y varios"
+      },
+      {
+        "label": "NP",
+        "text": "palestinos asesinados y varios"
+      },
+      {
+        "label": "VP",
+        "text": "heridos en diferentes"
+      },
+      {
+        "label": "NP",
+        "text": "en diferentes"
+      },
+      {
+        "label": "VP",
+        "text": "áreas del territorio"
+      },
+      {
+        "label": "NP",
+        "text": "del territorio"
+      },
+      {
+        "label": "NP",
+        "text": "Cuatro personas fueron masacradas y"
+      },
+      {
+        "label": "NP",
+        "text": "sufrieron impactos"
+      },
+      {
+        "label": "NP",
+        "text": "medio"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP En/NNP el/NN)\n  (VP día/VBD)\n  308/CD\n  de/IN\n  la/FW\n  ofensiva/FW\n  israelí/FW\n  sobre/FW\n  la/FW\n  (NP Franja/NNP)\n  de/FW\n  (NP Gaza/NNP)\n  ,/,\n  (NP los/JJ bombardeos/NN)\n  de/IN\n  las/FW\n  fuerzas/FW\n  de/FW\n  ocupación/FW\n  israelíes/FW\n  (NP dejaron/NN al/NN menos/NNS)\n  (VP nueve/VBP (NP palestinos/JJ asesinados/NN y/NN varios/NNS))\n  (VP heridos/VBP (NP en/JJ diferentes/NNS))\n  (VP áreas/VBP (NP del/NN territorio/NN))\n  ./.)",
+      "(S\n  (NP Cuatro/NNP personas/NN fueron/NN masacradas/NN y/NN)\n  otras/FW\n  (NP sufrieron/NN impactos/NN)\n  en/FW\n  (NP medio/NN)\n  de/IN\n  los/FW\n  (NP ataques/NNS)\n  (NP a/DT una/JJ casa/NN)\n  (VP perteneciente/VBZ (NP a/DT la/NN) (NP familia/JJ Mattar/NNP))\n  en/FW\n  el/FW\n  campo/FW\n  de/FW\n  refugiados/FW\n  de/FW\n  (NP Nuseirat/NNP)\n  ,/,\n  en/FW\n  el/FW\n  centro/FW\n  de/FW\n  (NP Gaza/NNP)\n  ./.)",
+      "(S\n  (NP Por/NNP)\n  otro/MD\n  (VP lado/VB)\n  ,/,\n  (NP un/JJ ataque/NN israelí/NN)\n  (NP contra/JJ el/JJ campo/NN)\n  de/IN\n  refugiados/FW\n  de/FW\n  (NP Maghazi/NNP)\n  (VP\n    asesinó/VBZ\n    (NP\n      a/DT\n      dos/JJ\n      palestinos/NN\n      y/NN\n      provocó/NN\n      varios/NNS\n      heridos/NN))\n  ./.)",
+      "(S\n  (NP Además/NNP)\n  ,/,\n  (ADJP los/JJ)\n  equipos/FW\n  de/FW\n  emergencia/FW\n  recuperaron/FW\n  los/FW\n  (NP cadáveres/NNS)\n  de/FW\n  otras/FW\n  dos/FW\n  (NP víctimas/NN)\n  ,/,\n  entre/FW\n  ellas/FW\n  (NP un/JJ niño/NN)\n  ,/,\n  en/FW\n  la/FW\n  localidad/FW\n  de/FW\n  (NP Abasan/NNP)\n  ,/,\n  (NP al/JJ este/NN)\n  (PP de/IN (NP Jan/NNP Yunis/NNP))\n  ,/,\n  en/FW\n  el/FW\n  sur/FW\n  de/FW\n  la/FW\n  (NP Franja/NNP)\n  de/FW\n  (NP Gaza/NNP)\n  ./.)",
+      "(S\n  (NP En/NNP este/NN lugar/NN también/NN fue/NN asesinado/NN)\n  (NP un/JJ joven/NN por/NN)\n  (VP francotiradores/VBZ (NP israelíes/NNS))\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "ORGANISMOS_INTERNACIONALES",
+      "CANTIDADES_NUMERICAS",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "REGIONES_PROVINCIAS",
+      "PERIODOS_TEMPORALES",
+      "PAISES",
+      "LOCALIZACIONES_ESPECIFICAS",
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "CONFLICTOS_ARMADOS_OPERACIONES"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "ocupación israelíes dejaron al menos nueve palestinos asesinados y varios heridos en diferentes áreas del territorio",
+        "position": [
+          95,
+          211
+        ],
+        "start": 95,
+        "end": 211
+      },
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "ofensiva israelí sobre la franja de gaza, los bombardeos de las fuerzas",
+        "position": [
+          20,
+          91
+        ],
+        "start": 20,
+        "end": 91
+      },
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "conflicto que deben respetar en todo",
+        "position": [
+          1063,
+          1099
+        ],
+        "start": 1063,
+        "end": 1099
+      },
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "bombardeos de las fuerzas de ocupación israelíes",
+        "position": [
+          66,
+          114
+        ],
+        "start": 66,
+        "end": 114
+      },
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "ocupación",
+        "position": [
+          95,
+          104
+        ],
+        "start": 95,
+        "end": 104
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "rueda de prensa",
+        "position": [
+          1238,
+          1253
+        ],
+        "start": 1238,
+        "end": 1253
+      },
+      {
+        "category": "ORGANISMOS_INTERNACIONALES",
+        "matched_text": "organización de las naciones unidas",
+        "position": [
+          997,
+          1032
+        ],
+        "start": 997,
+        "end": 1032
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "israelí",
+        "position": [
+          29,
+          36
+        ],
+        "start": 29,
+        "end": 36
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "área a consecuencia",
+        "position": [
+          846,
+          865
+        ],
+        "start": 846,
+        "end": 865
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "centro de",
+        "position": [
+          388,
+          397
+        ],
+        "start": 388,
+        "end": 397
+      },
+      {
+        "category": "PERIODOS_TEMPORALES",
+        "matched_text": "en el día",
+        "position": [
+          0,
+          9
+        ],
+        "start": 0,
+        "end": 9
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "500 personas",
+        "position": [
+          1268,
+          1280
+        ],
+        "start": 1268,
+        "end": 1280
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "15.500 personas",
+        "position": [
+          1265,
+          1280
+        ],
+        "start": 1265,
+        "end": 1280
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "más de 15.500",
+        "position": [
+          1258,
+          1271
+        ],
+        "start": 1258,
+        "end": 1271
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "200.000 personas",
+        "position": [
+          1492,
+          1508
+        ],
+        "start": 1492,
+        "end": 1508
+      }
+    ],
+    "match_count": 15
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Franja de Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Jan Yunis",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Abasan",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Farhan Haq",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Maghazi",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "ONU",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Organización de las Naciones Unidas",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Nuseirat",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Mattar",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Oficina de la ONU",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Coordinación de Asuntos Humanitarios",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Al Mawasi",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "OCHA",
+        "tipo": "Organizacion"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Mattar",
+        "relacion": "SUFRIR_MASACRAR",
+        "objeto": "Nuseirat"
+      },
+      {
+        "sujeto": "Mattar",
+        "relacion": "SUFRIR_MASACRAR",
+        "objeto": "Gaza"
+      },
+      {
+        "sujeto": "ONU",
+        "relacion": "CONFIRMAR",
+        "objeto": "Al Mawasi"
+      },
+      {
+        "sujeto": "Farhan Haq",
+        "relacion": "CONFIRMAR",
+        "objeto": "Al Mawasi"
+      },
+      {
+        "sujeto": "Oficina de la ONU",
+        "relacion": "EVACUAR",
+        "objeto": "Jan Yunis"
+      },
+      {
+        "sujeto": "Coordinación de Asuntos Humanitarios",
+        "relacion": "EVACUAR",
+        "objeto": "Jan Yunis"
+      },
+      {
+        "sujeto": "OCHA",
+        "relacion": "EVACUAR",
+        "objeto": "Jan Yunis"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.34,
+    "pos": 0.009,
+    "neu": 0.991,
+    "neg": 0.0,
+    "label": "positive"
+  }
+}

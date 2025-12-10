@@ -1,0 +1,780 @@
+{
+  "url": "https://www.telesurtv.net/ataques-genocidas-de-israel-asesinan-a-decenas-de-palestinos-en-gaza/",
+  "title": "Ataques genocidas de Israel asesinan a decenas de palestinos en Gaza - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "ataques",
+    "Gaza",
+    "genocidio",
+    "Israel",
+    "Palestina"
+  ],
+  "text": "El Ejército sionista de Israel ha llevado a cabo durante las últimas horas una serie de bombardeos en varias zonas de la Franja de Gaza, en los que ha asesinado a decenas de civiles.\nLEA TAMBIÉN\nIsrael asesina a dos palestinos y deja a varios civiles heridos tras bombardeo en Gaza\nDurante la noche, en un ataque aéreo en el campo de refugiados de Al-Nusairat, en el centro de Gaza, 8 palestinos fueron asesinados y otros tantos resultaron heridos.\nEl bombardeo fue contra un edificio residencial de varias plantas, en el que vivían alrededor de 30 desplazados, y fue completamente destruido.\nEn otro de los ataques, perpetrado contra una vivienda en los alrededores del hospital Kamal Adwan, en el norte, 30 palestinos fueron asesinados.\nEl hospital Kamal Adwan ha sido objeto de constantes ataques en los últimos días, con el Ejército israelí intentando desalojar la zona.\nEl director de la Oficina de Medios del Gobierno en Gaza, Ismail Al-Thaweebta, dijo que cientos de cuerpos permanecen desde hace dos meses tirados en las calles del norte de Gaza.\nAl-Thaweebta expresó que los ataques de Tel Aviv bloquean el paso de los equipos de rescate y los trabajadores de emergencia.\nPor otra partes, la Oficina de la ONU para la Coordinación de Asuntos Humanitarios (OCHA) dio a conocer este martes que entre el 3 y el 7 de diciembre el centro de salud, que alberga a 90 pacientes y 66 integrantes del equipo médico, “recibió ataques con disparos, bombas y cohetes que causaron la muerte de siete personas, incluyendo cuatro médicos y un niño”.\nDesde el inicio de la agresión israelí contra Gaza el 7 de octubre de 2023, el número de víctimas mortales ha ascendido a 44.805 y el de heridos a 106.257.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/ataques-genocidas-de-israel-asesinan-a-decenas-de-palestinos-en-gaza/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-12.json",
+    "message_index": 1192,
+    "message_id": 82142,
+    "date": "2024-12-11T13:55:13+00:00",
+    "text": "teleSUR\nAtaques genocidas de Israel asesinan a decenas de palestinos en Gaza\nhttps://www.telesurtv.net/ataques-genocidas-de-israel-asesinan-a-decenas-de-palestinos-en-gaza/",
+    "photo_path": null,
+    "views": 2131,
+    "reactions": {
+      "🤬": 38,
+      "💩": 18
+    },
+    "total_reactions": 56
+  },
+  "preprocessing": {
+    "cleaned": "el ejército sionista de israel ha llevado a cabo durante las últimas horas una serie de bombardeos en varias zonas de la franja de gaza, en los que ha asesinado a decenas de civiles. durante la noche, en un ataque aéreo en el campo de refugiados de al-nusairat, en el centro de gaza, 8 palestinos fueron asesinados y otros tantos resultaron heridos. el bombardeo fue contra un edificio residencial de varias plantas, en el que vivían alrededor de 30 desplazados, y fue completamente destruido. en otro de los ataques, perpetrado contra una vivienda en los alrededores del hospital kamal adwan, en el norte, 30 palestinos fueron asesinados. el hospital kamal adwan ha sido objeto de constantes ataques en los últimos días, con el ejército israelí intentando desalojar la zona. el director de la oficina de medios del gobierno en gaza, ismail al-thaweebta, dijo que cientos de cuerpos permanecen desde hace dos meses tirados en las calles del norte de gaza. al-thaweebta expresó que los ataques de tel aviv bloquean el paso de los equipos de rescate y los trabajadores de emergencia. por otra partes, la oficina de la onu para la coordinación de asuntos humanitarios (ocha) dio a conocer este martes que entre el 3 y el 7 de diciembre el centro de salud, que alberga a 90 pacientes y 66 integrantes del equipo médico, “recibió ataques con disparos, bombas y cohetes que causaron la muerte de siete personas, incluyendo cuatro médicos y un niño”. desde el inicio de la agresión israelí contra gaza el 7 de octubre de 2023, el número de víctimas mortales ha ascendido a 44.805 y el de heridos a 106.257.",
+    "tokens": [
+      "ejército",
+      "sionista",
+      "israel",
+      "llevado",
+      "cabo",
+      "últimas",
+      "horas",
+      "serie",
+      "bombardeos",
+      "varias",
+      "zonas",
+      "franja",
+      "gaza",
+      ",",
+      "asesinado",
+      "decenas",
+      "civiles",
+      ".",
+      "noche",
+      ",",
+      "ataque",
+      "aéreo",
+      "campo",
+      "refugiados",
+      "al-nusairat",
+      ",",
+      "centro",
+      "gaza",
+      ",",
+      "8",
+      "palestinos",
+      "asesinados",
+      "tantos",
+      "resultaron",
+      "heridos",
+      ".",
+      "bombardeo",
+      "edificio",
+      "residencial",
+      "varias",
+      "plantas",
+      ",",
+      "vivían",
+      "alrededor",
+      "30",
+      "desplazados",
+      ",",
+      "completamente",
+      "destruido",
+      ".",
+      "ataques",
+      ",",
+      "perpetrado",
+      "vivienda",
+      "alrededores",
+      "hospital",
+      "kamal",
+      "adwan",
+      ",",
+      "norte",
+      ",",
+      "30",
+      "palestinos",
+      "asesinados",
+      ".",
+      "hospital",
+      "kamal",
+      "adwan",
+      "sido",
+      "objeto",
+      "constantes",
+      "ataques",
+      "últimos",
+      "días",
+      ",",
+      "ejército",
+      "israelí",
+      "intentando",
+      "desalojar",
+      "zona",
+      ".",
+      "director",
+      "oficina",
+      "medios",
+      "gobierno",
+      "gaza",
+      ",",
+      "ismail",
+      "al-thaweebta",
+      ",",
+      "dijo",
+      "cientos",
+      "cuerpos",
+      "permanecen",
+      "hace",
+      "dos",
+      "meses",
+      "tirados",
+      "calles",
+      "norte",
+      "gaza",
+      ".",
+      "al-thaweebta",
+      "expresó",
+      "ataques",
+      "tel",
+      "aviv",
+      "bloquean",
+      "paso",
+      "equipos",
+      "rescate",
+      "trabajadores",
+      "emergencia",
+      ".",
+      "partes",
+      ",",
+      "oficina",
+      "onu",
+      "coordinación",
+      "asuntos",
+      "humanitarios",
+      "(",
+      "ocha",
+      ")",
+      "dio",
+      "conocer",
+      "martes",
+      "3",
+      "7",
+      "diciembre",
+      "centro",
+      "salud",
+      ",",
+      "alberga",
+      "90",
+      "pacientes",
+      "66",
+      "integrantes",
+      "equipo",
+      "médico",
+      ",",
+      "“",
+      "recibió",
+      "ataques",
+      "disparos",
+      ",",
+      "bombas",
+      "cohetes",
+      "causaron",
+      "muerte",
+      "siete",
+      "personas",
+      ",",
+      "incluyendo",
+      "cuatro",
+      "médicos",
+      "niño",
+      "”",
+      ".",
+      "inicio",
+      "agresión",
+      "israelí",
+      "gaza",
+      "7",
+      "octubre",
+      "2023",
+      ",",
+      "número",
+      "víctimas",
+      "mortales",
+      "ascendido",
+      "44.805",
+      "heridos",
+      "106.257",
+      "."
+    ],
+    "token_count": 175,
+    "sentence_count": 9
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 44,
+      "NN": 63,
+      "IN": 18,
+      "FW": 72,
+      "JJ": 27,
+      "NNS": 21,
+      "VBZ": 4,
+      "VBP": 11,
+      "CC": 1,
+      "CD": 7,
+      "RB": 3
+    },
+    "bigram_freq": {
+      "NNP-NNP": 15,
+      "NNP-NN": 13,
+      "NN-IN": 11,
+      "IN-NNP": 4,
+      "NN-NN": 29,
+      "NN-FW": 4,
+      "FW-FW": 45,
+      "FW-JJ": 4,
+      "JJ-NN": 11,
+      "IN-FW": 7,
+      "FW-NNP": 10,
+      "NNP-FW": 12,
+      "FW-NN": 5,
+      "NN-JJ": 4,
+      "IN-NNS": 2,
+      "NNS-NNP": 1,
+      "NNP-VBZ": 1,
+      "VBZ-JJ": 3,
+      "NN-NNS": 4,
+      "NNS-VBZ": 1,
+      "VBZ-NNS": 1,
+      "NNS-NNS": 2,
+      "NNS-VBP": 10,
+      "VBP-JJ": 6,
+      "JJ-NNP": 5,
+      "FW-IN": 2,
+      "NNP-CC": 1,
+      "CC-VBP": 1,
+      "JJ-NNS": 3,
+      "VBP-NN": 3,
+      "NN-NNP": 7,
+      "JJ-JJ": 5,
+      "FW-NNS": 5,
+      "NNS-IN": 4,
+      "IN-NN": 1,
+      "IN-CD": 2,
+      "CD-NNS": 4,
+      "NNS-JJ": 1,
+      "IN-JJ": 2,
+      "NN-RB": 2,
+      "RB-CD": 3,
+      "NN-VBZ": 2,
+      "JJ-FW": 3,
+      "NNS-FW": 1,
+      "NNP-JJ": 1,
+      "VBP-NNP": 1,
+      "NNP-IN": 1,
+      "NNS-CD": 1,
+      "CD-JJ": 1,
+      "VBP-RB": 1,
+      "CD-NN": 1,
+      "FW-CD": 1
+    },
+    "trigram_freq": {
+      "NNP-NNP-NN": 6,
+      "NNP-NN-IN": 2,
+      "NN-IN-NNP": 1,
+      "IN-NNP-NN": 1,
+      "NNP-NN-NN": 9,
+      "NN-NN-NN": 10,
+      "NN-NN-FW": 2,
+      "NN-FW-FW": 4,
+      "FW-FW-FW": 28,
+      "FW-FW-JJ": 4,
+      "FW-JJ-NN": 2,
+      "JJ-NN-IN": 5,
+      "NN-IN-FW": 6,
+      "IN-FW-FW": 4,
+      "FW-FW-NNP": 4,
+      "FW-NNP-FW": 6,
+      "NNP-FW-NNP": 4,
+      "NNP-FW-NN": 2,
+      "FW-NN-NN": 3,
+      "NN-NN-JJ": 4,
+      "NN-JJ-NN": 2,
+      "NN-IN-NNS": 2,
+      "IN-NNS-NNP": 1,
+      "NNS-NNP-NNP": 1,
+      "NNP-NNP-NNP": 5,
+      "NNP-NNP-VBZ": 1,
+      "NNP-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 1,
+      "JJ-NN-NNS": 2,
+      "NN-NNS-VBZ": 1,
+      "NNS-VBZ-NNS": 1,
+      "VBZ-NNS-NNS": 1,
+      "NNS-NNS-VBP": 1,
+      "NNS-VBP-JJ": 5,
+      "VBP-JJ-NNP": 2,
+      "JJ-NNP-NNP": 1,
+      "NNP-NNP-FW": 2,
+      "NNP-FW-FW": 5,
+      "JJ-NN-NN": 4,
+      "NN-NN-IN": 4,
+      "FW-FW-IN": 2,
+      "FW-IN-NNP": 1,
+      "IN-NNP-FW": 1,
+      "FW-NNP-CC": 1,
+      "NNP-CC-VBP": 1,
+      "CC-VBP-JJ": 1,
+      "VBP-JJ-NNS": 1,
+      "JJ-NNS-VBP": 2,
+      "NNS-VBP-NN": 3,
+      "VBP-NN-NN": 2,
+      "NN-NN-NNP": 5,
+      "NN-NNP-NN": 2,
+      "NN-JJ-JJ": 2,
+      "JJ-JJ-JJ": 1,
+      "JJ-JJ-NN": 2,
+      "IN-FW-NNS": 1,
+      "FW-NNS-IN": 1,
+      "NNS-IN-NN": 1,
+      "IN-NN-NN": 1,
+      "NN-IN-CD": 1,
+      "IN-CD-NNS": 1,
+      "CD-NNS-JJ": 1,
+      "NNS-JJ-NN": 1,
+      "NN-NNP-FW": 1,
+      "FW-FW-NNS": 3,
+      "FW-NNS-VBP": 3,
+      "VBP-JJ-JJ": 1,
+      "NN-IN-JJ": 1,
+      "IN-JJ-NNS": 1,
+      "VBP-NN-NNP": 1,
+      "NN-NNP-NNP": 3,
+      "FW-NN-RB": 2,
+      "NN-RB-CD": 2,
+      "RB-CD-NNS": 2,
+      "CD-NNS-VBP": 2,
+      "JJ-NNP-NN": 3,
+      "NNP-NN-NNP": 1,
+      "IN-NNS-NNS": 1,
+      "NNS-NNS-IN": 1,
+      "NNS-IN-JJ": 1,
+      "IN-JJ-NNP": 1,
+      "IN-FW-NNP": 2,
+      "FW-NNP-NNP": 2,
+      "FW-FW-NN": 3,
+      "NN-NN-VBZ": 2,
+      "NN-VBZ-JJ": 2,
+      "VBZ-JJ-FW": 2,
+      "JJ-FW-FW": 3,
+      "FW-NNS-FW": 1,
+      "NNS-FW-FW": 1,
+      "NN-NN-NNS": 2,
+      "NN-NNS-IN": 1,
+      "NNS-IN-NNP": 1,
+      "IN-NNP-NNP": 2,
+      "NNP-NNP-JJ": 1,
+      "NNP-JJ-NN": 1,
+      "FW-JJ-NNS": 1,
+      "JJ-NNS-IN": 1,
+      "NNS-IN-FW": 1,
+      "NNP-FW-NNS": 1,
+      "NNS-VBP-NNP": 1,
+      "VBP-NNP-FW": 1,
+      "FW-NNP-NN": 1,
+      "NN-NNP-IN": 1,
+      "NNP-IN-NNP": 1,
+      "CD-NNS-CD": 1,
+      "NNS-CD-NNS": 1,
+      "VBP-JJ-NN": 2,
+      "NN-NNS-VBP": 2,
+      "JJ-JJ-NNP": 2,
+      "JJ-NNP-FW": 1,
+      "FW-JJ-JJ": 1,
+      "NNP-NN-FW": 1,
+      "FW-IN-CD": 1,
+      "IN-CD-JJ": 1,
+      "CD-JJ-FW": 1,
+      "NNS-VBP-RB": 1,
+      "VBP-RB-CD": 1,
+      "RB-CD-NN": 1,
+      "CD-NN-FW": 1,
+      "FW-FW-CD": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "FW": 72,
+        "NN": 63,
+        "NNP": 44,
+        "JJ": 27,
+        "NNS": 21
+      },
+      "top_bigrams": {
+        "FW-FW": 45,
+        "NN-NN": 29,
+        "NNP-NNP": 15,
+        "NNP-NN": 13,
+        "NNP-FW": 12
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 28,
+        "NN-NN-NN": 10,
+        "NNP-NN-NN": 9,
+        "NNP-NNP-NN": 6,
+        "NN-IN-FW": 6
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 9,
+    "chunk_counts": {
+      "NP": 78,
+      "PP": 9,
+      "VP": 18
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 6,
+        "weight": 0.0526
+      },
+      {
+        "rule": "NP -> ('Gaza', 'NNP')",
+        "frequency": 4,
+        "weight": 0.0351
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 3,
+        "weight": 0.0263
+      },
+      {
+        "rule": "NP -> ('palestinos', 'NNS')",
+        "frequency": 2,
+        "weight": 0.0175
+      },
+      {
+        "rule": "VP -> ('del', 'VBP') NP",
+        "frequency": 2,
+        "weight": 0.0175
+      },
+      {
+        "rule": "NP -> ('Oficina', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0175
+      },
+      {
+        "rule": "VP -> ('el', 'VBD')",
+        "frequency": 2,
+        "weight": 0.0175
+      },
+      {
+        "rule": "S -> NP PP VP ('las', 'FW') ('últimas', 'FW') ('horas', 'FW') NP ('de', 'IN') ('bombardeos', 'FW') ('en', 'FW') ('varias', 'FW') ('zonas', 'FW') ('de', 'FW') ('la', 'FW') NP ('de', 'FW') NP (',', ',') ('en', 'FW') ('los', 'FW') NP VP PP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0088
+      },
+      {
+        "rule": "NP -> ('El', 'NNP') ('Ejército', 'NNP') ('sionista', 'NN')",
+        "frequency": 1,
+        "weight": 0.0088
+      },
+      {
+        "rule": "NP -> ('Israel', 'NNP') ('ha', 'NN')",
+        "frequency": 1,
+        "weight": 0.0088
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El Ejército sionista"
+      },
+      {
+        "label": "PP",
+        "text": "de Israel ha"
+      },
+      {
+        "label": "NP",
+        "text": "Israel ha"
+      },
+      {
+        "label": "VP",
+        "text": "llevado a cabo durante"
+      },
+      {
+        "label": "NP",
+        "text": "a cabo durante"
+      },
+      {
+        "label": "NP",
+        "text": "una serie"
+      },
+      {
+        "label": "NP",
+        "text": "Franja"
+      },
+      {
+        "label": "NP",
+        "text": "Gaza"
+      },
+      {
+        "label": "NP",
+        "text": "que ha"
+      },
+      {
+        "label": "VP",
+        "text": "asesinado a decenas"
+      },
+      {
+        "label": "NP",
+        "text": "a decenas"
+      },
+      {
+        "label": "PP",
+        "text": "de civiles"
+      },
+      {
+        "label": "NP",
+        "text": "civiles"
+      },
+      {
+        "label": "NP",
+        "text": "LEA TAMBIÉN Israel"
+      },
+      {
+        "label": "VP",
+        "text": "asesina a dos palestinos y deja a varios civiles"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP El/NNP Ejército/NNP sionista/NN)\n  (PP de/IN (NP Israel/NNP ha/NN))\n  (VP llevado/VBD (NP a/DT cabo/NN durante/NN))\n  las/FW\n  últimas/FW\n  horas/FW\n  (NP una/JJ serie/NN)\n  de/IN\n  bombardeos/FW\n  en/FW\n  varias/FW\n  zonas/FW\n  de/FW\n  la/FW\n  (NP Franja/NNP)\n  de/FW\n  (NP Gaza/NNP)\n  ,/,\n  en/FW\n  los/FW\n  (NP que/JJ ha/NN)\n  (VP asesinado/VBZ (NP a/DT decenas/NN))\n  (PP de/IN (NP civiles/NNS))\n  ./.)",
+      "(S\n  (NP LEA/NNP TAMBIÉN/NNP Israel/NNP)\n  (VP\n    asesina/VBZ\n    (NP a/DT dos/JJ palestinos/NN y/NN deja/NN)\n    (NP a/DT varios/JJ civiles/NNS))\n  (VP heridos/VBP (NP tras/JJ bombardeo/NN))\n  (PP en/IN (NP Gaza/NNP Durante/NNP la/NNP noche/NN))\n  ,/,\n  en/FW\n  (NP un/JJ ataque/NN aéreo/NN)\n  en/IN\n  el/FW\n  campo/FW\n  de/FW\n  refugiados/FW\n  de/FW\n  (NP Al-Nusairat/NNP)\n  ,/,\n  en/FW\n  el/FW\n  centro/FW\n  de/FW\n  (NP Gaza/NNP)\n  ,/,\n  8/CD\n  (NP palestinos/NNS)\n  (VP fueron/VBP (NP asesinados/JJ y/NN otros/NNS))\n  (VP tantos/VBP (NP resultaron/NN heridos/NN))\n  ./.)",
+      "(S\n  (NP El/NNP bombardeo/NN fue/NN)\n  (NP contra/JJ un/JJ edificio/JJ residencial/NN)\n  de/IN\n  varias/FW\n  (NP plantas/NNS)\n  ,/,\n  en/FW\n  el/FW\n  (NP que/NN)\n  vivían/FW\n  (NP alrededor/NN)\n  de/IN\n  30/CD\n  (NP desplazados/NNS)\n  ,/,\n  y/CC\n  (NP fue/JJ completamente/NN destruido/NN)\n  ./.)",
+      "(S\n  (NP En/NNP)\n  otro/FW\n  de/FW\n  los/FW\n  (NP ataques/NNS)\n  ,/,\n  (NP perpetrado/JJ contra/JJ una/JJ vivienda/NN)\n  (PP en/IN (NP los/JJ alrededores/NNS))\n  (VP del/VBP (NP hospital/NN Kamal/NNP Adwan/NNP))\n  ,/,\n  en/FW\n  el/FW\n  (NP norte/NN)\n  ,/,\n  30/CD\n  (NP palestinos/NNS)\n  (NP fueron/JJ asesinados/NN)\n  ./.)",
+      "(S\n  (NP El/NNP hospital/NN Kamal/NNP Adwan/NNP ha/NN sido/NN objeto/NN)\n  (PP de/IN (NP constantes/NNS ataques/NNS))\n  (PP en/IN (NP los/JJ últimos/NNP días/NN))\n  ,/,\n  (NP\n    con/NN\n    el/NN\n    Ejército/NNP\n    israelí/NN\n    intentando/NN\n    desalojar/NN\n    la/NN\n    zona/NN)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "ORGANISMOS_INTERNACIONALES",
+      "CANTIDADES_NUMERICAS",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "PERIODOS_TEMPORALES",
+      "PAISES",
+      "LOCALIZACIONES_ESPECIFICAS",
+      "INFRAESTRUCTURA_SERVICIOS",
+      "CONFLICTOS_ARMADOS_OPERACIONES",
+      "FECHAS_ESPECIFICAS"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "ataque aéreo",
+        "position": [
+          306,
+          318
+        ],
+        "start": 306,
+        "end": 318
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "expresó",
+        "position": [
+          1068,
+          1075
+        ],
+        "start": 1068,
+        "end": 1075
+      },
+      {
+        "category": "ORGANISMOS_INTERNACIONALES",
+        "matched_text": "onu",
+        "position": [
+          1215,
+          1218
+        ],
+        "start": 1215,
+        "end": 1218
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "hospital",
+        "position": [
+          671,
+          679
+        ],
+        "start": 671,
+        "end": 679
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "israelí",
+        "position": [
+          837,
+          844
+        ],
+        "start": 837,
+        "end": 844
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "centro de",
+        "position": [
+          367,
+          376
+        ],
+        "start": 367,
+        "end": 376
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "hospital kamal",
+        "position": [
+          671,
+          685
+        ],
+        "start": 671,
+        "end": 685
+      },
+      {
+        "category": "FECHAS_ESPECIFICAS",
+        "matched_text": "7 de octubre de 2023",
+        "position": [
+          1597,
+          1617
+        ],
+        "start": 1597,
+        "end": 1617
+      },
+      {
+        "category": "PERIODOS_TEMPORALES",
+        "matched_text": "durante la noche",
+        "position": [
+          282,
+          298
+        ],
+        "start": 282,
+        "end": 298
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "66 integrantes",
+        "position": [
+          1381,
+          1395
+        ],
+        "start": 1381,
+        "end": 1395
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "alrededor de 30",
+        "position": [
+          533,
+          548
+        ],
+        "start": 533,
+        "end": 548
+      }
+    ],
+    "match_count": 11
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Franja de Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Al-Nusairat",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Al-Thaweebta",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Ismail Al-Thaweebta",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Israel",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "OCHA",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Coordinación de Asuntos Humanitarios",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Oficina de la ONU",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Kamal Adwan",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Ejército sionista de Israel",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Oficina de Medios del Gobierno",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Tel Aviv",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Ejército sionista de Israel",
+        "relacion": "LLEVAR",
+        "objeto": "Franja de Gaza"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "ASESINAR",
+        "objeto": "Gaza"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "ASESINAR",
+        "objeto": "Al-Nusairat"
+      },
+      {
+        "sujeto": "Gaza",
+        "relacion": "DEJAR_ASESINAR",
+        "objeto": "Al-Nusairat"
+      },
+      {
+        "sujeto": "Oficina de Medios del Gobierno",
+        "relacion": "DECIR",
+        "objeto": "Gaza"
+      },
+      {
+        "sujeto": "Ismail Al-Thaweebta",
+        "relacion": "DECIR",
+        "objeto": "Gaza"
+      },
+      {
+        "sujeto": "Al-Thaweebta",
+        "relacion": "EXPRESAR",
+        "objeto": "Tel Aviv"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.8225,
+    "pos": 0.035,
+    "neu": 0.965,
+    "neg": 0.0,
+    "label": "positive"
+  }
+}

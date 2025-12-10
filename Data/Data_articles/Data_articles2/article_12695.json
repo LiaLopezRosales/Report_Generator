@@ -1,0 +1,646 @@
+{
+  "url": "https://www.telesurtv.net/presidenta-de-honduras-llama-al-pueblo-a-mantenerse-firme-en-defensa-de-la-democracia/",
+  "title": "Presidenta de Honduras llama al pueblo a mantenerse firme en defensa de la Democracia - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "Honduras",
+    "intento de golpe",
+    "Partido Libre",
+    "Pueblo movilizado"
+  ],
+  "text": "Ante una multitud que se congregó en Tegucigalpa como gesto de respaldo y rechazo a intentos golpistas, la presidenta de Honduras, Xiomara Castro, pronunció un enérgico discurso en el cual destacó la importancia de la defensa democrática y resaltando los logros de su administración hasta la fecha.\n“Invito a la clase trabajadora a defender nuestra democracia”, proclamó la presidenta Castro, subrayando su determinación de no permitir que se organice un nuevo golpe de estado en el país centroamericano.\nAl tiempo que aseguró que las elecciones de 2025 serán “limpias y transparentes”, reafirmando su compromiso con la legitimidad electoral y la participación ciudadana.\nCastro también mencionó que más de un millón de campesinos han recibido semillas y fertilizantes gracias al impulso del polo tecnológico como parte de los esfuerzos por mejorar la producción agrícola y asegurar la alimentación de la población rural.\nLa educación y la salud también fueron puntos centrales de su alocución. Castro resaltó que más de un millón de niños ahora tienen acceso gratuito a la educación y que se están reparando numerosos centros de salud en todo el país.\nAdemás, la presidenta hondureña anunció la distribución de miles de becas y el apoyo a la juventud para acceder a instalaciones deportivas, buscando fortalecer el desarrollo integral de las nuevas generaciones hondureñas.\n\n“Los vencimos en las calles y los vencimos en las urnas, y los volveremos a derrotar en las urnas”, proclamó la presidenta, haciendo hincapié en la resistencia popular que ha marcado su mandato y su determinación de mantener el rumbo trazado por la voluntad democrática del pueblo hondureño.\nFinalmente, con un llamado a la memoria colectiva, cerró su intervención con un contundente “¡Prohibido olvidar que somos resistencia!”.\n",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/presidenta-de-honduras-llama-al-pueblo-a-mantenerse-firme-en-defensa-de-la-democracia/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-09.json",
+    "message_index": 992,
+    "message_id": 76303,
+    "date": "2024-09-14T17:55:07+00:00",
+    "text": "teleSUR\nPresidenta de Honduras llama al pueblo a mantenerse firme en defensa de la Democracia\nhttps://www.telesurtv.net/presidenta-de-honduras-llama-al-pueblo-a-mantenerse-firme-en-defensa-de-la-democracia/",
+    "photo_path": null,
+    "views": 2785,
+    "reactions": {
+      "👍": 63,
+      "👏": 12,
+      "❤": 7
+    },
+    "total_reactions": 82
+  },
+  "preprocessing": {
+    "cleaned": "ante una multitud que se congregó en tegucigalpa como gesto de respaldo y rechazo a intentos golpistas, la presidenta de honduras, xiomara castro, pronunció un enérgico discurso en el cual destacó la importancia de la defensa democrática y resaltando los logros de su administración hasta la fecha. “invito a la clase trabajadora a defender nuestra democracia”, proclamó la presidenta castro, subrayando su determinación de no permitir que se organice un nuevo golpe de estado en el país centroamericano. al tiempo que aseguró que las elecciones de 2025 serán “limpias y transparentes”, reafirmando su compromiso con la legitimidad electoral y la participación ciudadana. castro también mencionó que más de un millón de campesinos han recibido semillas y fertilizantes gracias al impulso del polo tecnológico como parte de los esfuerzos por mejorar la producción agrícola y asegurar la alimentación de la población rural. la educación y la salud también fueron puntos centrales de su alocución. castro resaltó que más de un millón de niños ahora tienen acceso gratuito a la educación y que se están reparando numerosos centros de salud en todo el país. además, la presidenta hondureña anunció la distribución de miles de becas y el apoyo a la juventud para acceder a instalaciones deportivas, buscando fortalecer el desarrollo integral de las nuevas generaciones hondureñas. “los vencimos en las calles y los vencimos en las urnas, y los volveremos a derrotar en las urnas”, proclamó la presidenta, haciendo hincapié en la resistencia popular que ha marcado su mandato y su determinación de mantener el rumbo trazado por la voluntad democrática del pueblo hondureño. finalmente, con un llamado a la memoria colectiva, cerró su intervención con un contundente “¡prohibido olvidar que somos resistencia!”.",
+    "tokens": [
+      "multitud",
+      "congregó",
+      "tegucigalpa",
+      "gesto",
+      "respaldo",
+      "rechazo",
+      "intentos",
+      "golpistas",
+      ",",
+      "presidenta",
+      "honduras",
+      ",",
+      "xiomara",
+      "castro",
+      ",",
+      "pronunció",
+      "enérgico",
+      "discurso",
+      "destacó",
+      "importancia",
+      "defensa",
+      "democrática",
+      "resaltando",
+      "logros",
+      "administración",
+      "fecha",
+      ".",
+      "“",
+      "invito",
+      "clase",
+      "trabajadora",
+      "defender",
+      "democracia",
+      "”",
+      ",",
+      "proclamó",
+      "presidenta",
+      "castro",
+      ",",
+      "subrayando",
+      "determinación",
+      "permitir",
+      "organice",
+      "nuevo",
+      "golpe",
+      "país",
+      "centroamericano",
+      ".",
+      "tiempo",
+      "aseguró",
+      "elecciones",
+      "2025",
+      "“",
+      "limpias",
+      "transparentes",
+      "”",
+      ",",
+      "reafirmando",
+      "compromiso",
+      "legitimidad",
+      "electoral",
+      "participación",
+      "ciudadana",
+      ".",
+      "castro",
+      "mencionó",
+      "millón",
+      "campesinos",
+      "recibido",
+      "semillas",
+      "fertilizantes",
+      "gracias",
+      "impulso",
+      "polo",
+      "tecnológico",
+      "parte",
+      "esfuerzos",
+      "mejorar",
+      "producción",
+      "agrícola",
+      "asegurar",
+      "alimentación",
+      "población",
+      "rural",
+      ".",
+      "educación",
+      "salud",
+      "puntos",
+      "centrales",
+      "alocución",
+      ".",
+      "castro",
+      "resaltó",
+      "millón",
+      "niños",
+      "ahora",
+      "acceso",
+      "gratuito",
+      "educación",
+      "reparando",
+      "numerosos",
+      "centros",
+      "salud",
+      "país",
+      ".",
+      "además",
+      ",",
+      "presidenta",
+      "hondureña",
+      "anunció",
+      "distribución",
+      "miles",
+      "becas",
+      "apoyo",
+      "juventud",
+      "acceder",
+      "instalaciones",
+      "deportivas",
+      ",",
+      "buscando",
+      "fortalecer",
+      "desarrollo",
+      "integral",
+      "nuevas",
+      "generaciones",
+      "hondureñas",
+      ".",
+      "“",
+      "vencimos",
+      "calles",
+      "vencimos",
+      "urnas",
+      ",",
+      "volveremos",
+      "derrotar",
+      "urnas",
+      "”",
+      ",",
+      "proclamó",
+      "presidenta",
+      ",",
+      "haciendo",
+      "hincapié",
+      "resistencia",
+      "popular",
+      "marcado",
+      "mandato",
+      "determinación",
+      "mantener",
+      "rumbo",
+      "trazado",
+      "voluntad",
+      "democrática",
+      "pueblo",
+      "hondureño",
+      ".",
+      "finalmente",
+      ",",
+      "llamado",
+      "memoria",
+      "colectiva",
+      ",",
+      "cerró",
+      "intervención",
+      "contundente",
+      "“",
+      "¡prohibido",
+      "olvidar",
+      "resistencia",
+      "!",
+      "”",
+      "."
+    ],
+    "token_count": 172,
+    "sentence_count": 9
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 15,
+      "JJ": 24,
+      "NN": 99,
+      "IN": 11,
+      "FW": 94,
+      "NNS": 7,
+      "VBP": 5,
+      "DT": 1,
+      "CD": 1,
+      "VBZ": 3,
+      "CC": 1
+    },
+    "bigram_freq": {
+      "NNP-JJ": 1,
+      "JJ-NN": 17,
+      "NN-NN": 56,
+      "NN-IN": 9,
+      "IN-NNP": 1,
+      "NNP-NN": 9,
+      "IN-FW": 8,
+      "FW-FW": 65,
+      "FW-NN": 15,
+      "NN-NNS": 3,
+      "NNS-VBP": 5,
+      "VBP-FW": 2,
+      "FW-NNP": 5,
+      "NNP-NNP": 2,
+      "NN-JJ": 10,
+      "FW-JJ": 7,
+      "NN-FW": 13,
+      "NNP-FW": 3,
+      "IN-DT": 1,
+      "DT-NN": 1,
+      "JJ-JJ": 2,
+      "NN-NNP": 4,
+      "JJ-NNS": 2,
+      "NNS-IN": 1,
+      "IN-CD": 1,
+      "CD-NN": 1,
+      "NN-VBZ": 3,
+      "VBZ-JJ": 2,
+      "JJ-NNP": 1,
+      "VBZ-IN": 1,
+      "FW-NNS": 1,
+      "NNS-FW": 1,
+      "VBP-JJ": 2,
+      "JJ-FW": 2,
+      "FW-CC": 1,
+      "CC-NNS": 1,
+      "VBP-NNP": 1
+    },
+    "trigram_freq": {
+      "NNP-JJ-NN": 1,
+      "JJ-NN-NN": 11,
+      "NN-NN-NN": 27,
+      "NN-NN-IN": 7,
+      "NN-IN-NNP": 1,
+      "IN-NNP-NN": 1,
+      "NNP-NN-NN": 7,
+      "NN-IN-FW": 7,
+      "IN-FW-FW": 5,
+      "FW-FW-NN": 9,
+      "FW-NN-NNS": 1,
+      "NN-NNS-VBP": 3,
+      "NNS-VBP-FW": 2,
+      "VBP-FW-FW": 1,
+      "FW-FW-NNP": 4,
+      "FW-NNP-NNP": 1,
+      "NNP-NNP-NNP": 1,
+      "NNP-NNP-NN": 1,
+      "NNP-NN-JJ": 2,
+      "NN-JJ-NN": 7,
+      "IN-FW-JJ": 3,
+      "FW-JJ-NN": 6,
+      "NN-NN-FW": 10,
+      "NN-FW-FW": 7,
+      "FW-FW-FW": 47,
+      "FW-NN-FW": 3,
+      "FW-NNP-FW": 2,
+      "NNP-FW-NN": 1,
+      "FW-NN-NN": 9,
+      "NN-NN-JJ": 5,
+      "NN-FW-NNP": 1,
+      "FW-NNP-NN": 2,
+      "NN-IN-DT": 1,
+      "IN-DT-NN": 1,
+      "DT-NN-NN": 1,
+      "JJ-NN-JJ": 3,
+      "NN-JJ-JJ": 2,
+      "JJ-JJ-NN": 1,
+      "JJ-NN-IN": 2,
+      "FW-NN-NNP": 2,
+      "NN-NNP-NN": 4,
+      "NN-JJ-NNS": 1,
+      "JJ-NNS-IN": 1,
+      "NNS-IN-CD": 1,
+      "IN-CD-NN": 1,
+      "CD-NN-NN": 1,
+      "NN-NN-VBZ": 3,
+      "NN-VBZ-JJ": 2,
+      "VBZ-JJ-NN": 1,
+      "NN-FW-JJ": 1,
+      "NN-NN-NNP": 1,
+      "VBZ-JJ-NNS": 1,
+      "JJ-NNS-VBP": 1,
+      "VBP-FW-NN": 1,
+      "NN-FW-NN": 4,
+      "FW-FW-JJ": 3,
+      "FW-JJ-NNP": 1,
+      "JJ-NNP-FW": 1,
+      "NNP-FW-FW": 2,
+      "NN-VBZ-IN": 1,
+      "VBZ-IN-FW": 1,
+      "FW-FW-NNS": 1,
+      "FW-NNS-FW": 1,
+      "NNS-FW-FW": 1,
+      "NN-NN-NNS": 2,
+      "NNS-VBP-JJ": 2,
+      "VBP-JJ-NN": 1,
+      "JJ-JJ-FW": 1,
+      "JJ-FW-FW": 2,
+      "FW-FW-CC": 1,
+      "FW-CC-NNS": 1,
+      "CC-NNS-VBP": 1,
+      "NNS-VBP-NNP": 1,
+      "VBP-NNP-NN": 1,
+      "VBP-JJ-FW": 1,
+      "JJ-NN-NNP": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 99,
+        "FW": 94,
+        "JJ": 24,
+        "NNP": 15,
+        "IN": 11
+      },
+      "top_bigrams": {
+        "FW-FW": 65,
+        "NN-NN": 56,
+        "JJ-NN": 17,
+        "FW-NN": 15,
+        "NN-FW": 13
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 47,
+        "NN-NN-NN": 27,
+        "JJ-NN-NN": 11,
+        "NN-NN-FW": 10,
+        "FW-FW-NN": 9
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 9,
+    "chunk_counts": {
+      "NP": 70,
+      "PP": 2,
+      "VP": 13,
+      "ADJP": 4
+    },
+    "top_rules": [
+      {
+        "rule": "VP -> ('y', 'VBP') NP",
+        "frequency": 2,
+        "weight": 0.0204
+      },
+      {
+        "rule": "S -> NP NP PP ('de', 'IN') ('respaldo', 'FW') ('y', 'FW') VP (',', ',') ('la', 'FW') ('presidenta', 'FW') ('de', 'FW') NP (',', ',') NP (',', ',') NP NP ('en', 'IN') ('el', 'FW') NP ('importancia', 'FW') ('de', 'FW') ('la', 'FW') ('defensa', 'FW') ('democrática', 'FW') ('y', 'FW') ('resaltando', 'FW') ('los', 'FW') ('logros', 'FW') ('de', 'FW') ('su', 'FW') ('administración', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0102
+      },
+      {
+        "rule": "NP -> ('Ante', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0102
+      },
+      {
+        "rule": "NP -> ('una', 'JJ') ('multitud', 'NN') ('que', 'NN') ('se', 'NN') ('congregó', 'NN')",
+        "frequency": 1,
+        "weight": 0.0102
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 1,
+        "weight": 0.0102
+      },
+      {
+        "rule": "NP -> ('Tegucigalpa', 'NNP') ('como', 'NN') ('gesto', 'NN')",
+        "frequency": 1,
+        "weight": 0.0102
+      },
+      {
+        "rule": "VP -> ('rechazo', 'VB') NP",
+        "frequency": 1,
+        "weight": 0.0102
+      },
+      {
+        "rule": "NP -> ('a', 'DT') ('intentos', 'NN') ('golpistas', 'NN')",
+        "frequency": 1,
+        "weight": 0.0102
+      },
+      {
+        "rule": "NP -> ('Honduras', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0102
+      },
+      {
+        "rule": "NP -> ('Xiomara', 'NNP') ('Castro', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0102
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Ante"
+      },
+      {
+        "label": "NP",
+        "text": "una multitud que se congregó"
+      },
+      {
+        "label": "PP",
+        "text": "en Tegucigalpa como gesto"
+      },
+      {
+        "label": "NP",
+        "text": "Tegucigalpa como gesto"
+      },
+      {
+        "label": "VP",
+        "text": "rechazo a intentos golpistas"
+      },
+      {
+        "label": "NP",
+        "text": "a intentos golpistas"
+      },
+      {
+        "label": "NP",
+        "text": "Honduras"
+      },
+      {
+        "label": "NP",
+        "text": "Xiomara Castro"
+      },
+      {
+        "label": "NP",
+        "text": "pronunció"
+      },
+      {
+        "label": "NP",
+        "text": "un enérgico discurso"
+      },
+      {
+        "label": "NP",
+        "text": "cual destacó la"
+      },
+      {
+        "label": "NP",
+        "text": "hasta la fecha"
+      },
+      {
+        "label": "NP",
+        "text": "“ Invito"
+      },
+      {
+        "label": "NP",
+        "text": "a la clase"
+      },
+      {
+        "label": "VP",
+        "text": "trabajadora a defender nuestra democracia ”"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Ante/NNP)\n  (NP una/JJ multitud/NN que/NN se/NN congregó/NN)\n  (PP en/IN (NP Tegucigalpa/NNP como/NN gesto/NN))\n  de/IN\n  respaldo/FW\n  y/FW\n  (VP rechazo/VB (NP a/DT intentos/NN golpistas/NN))\n  ,/,\n  la/FW\n  presidenta/FW\n  de/FW\n  (NP Honduras/NNP)\n  ,/,\n  (NP Xiomara/NNP Castro/NNP)\n  ,/,\n  (NP pronunció/NN)\n  (NP un/JJ enérgico/NN discurso/NN)\n  en/IN\n  el/FW\n  (NP cual/JJ destacó/NN la/NN)\n  importancia/FW\n  de/FW\n  la/FW\n  defensa/FW\n  democrática/FW\n  y/FW\n  resaltando/FW\n  los/FW\n  logros/FW\n  de/FW\n  su/FW\n  administración/FW\n  (NP hasta/NN la/NN fecha/NN)\n  ./.)",
+      "(S\n  (NP “/NN Invito/NNP)\n  (NP a/DT la/NN clase/NN)\n  (VP\n    trabajadora/VBD\n    (NP a/DT defender/NN)\n    (NP nuestra/JJ democracia/NN ”/NN))\n  ,/,\n  (NP proclamó/NN la/NN)\n  presidenta/FW\n  (NP Castro/NNP)\n  ,/,\n  (NP subrayando/NN su/NN determinación/NN)\n  (PP de/IN (NP no/DT permitir/NN que/NN))\n  (NP se/JJ organice/NN)\n  (NP un/JJ nuevo/JJ golpe/NN)\n  de/IN\n  estado/FW\n  en/FW\n  el/FW\n  (NP país/NN centroamericano/NN)\n  ./.)",
+      "(S\n  (NP Al/NNP tiempo/NN que/NN aseguró/NN que/NN)\n  (NP las/JJ elecciones/NNS)\n  de/IN\n  2025/CD\n  (NP serán/NN “/NNP)\n  (VP limpias/VBZ)\n  y/FW\n  (NP transparentes/NNS)\n  (VP ”/VBP)\n  ,/,\n  (VP\n    reafirmando/VBP\n    (NP su/JJ compromiso/NN con/NN la/NN)\n    (NP\n      legitimidad/JJ\n      electoral/JJ\n      y/NN\n      la/NN\n      participación/NN\n      ciudadana/NN))\n  ./.)",
+      "(S\n  (NP Castro/NNP también/NN mencionó/NN que/NN)\n  más/FW\n  de/FW\n  un/FW\n  millón/FW\n  de/FW\n  campesinos/FW\n  (NP han/NN recibido/NN semillas/NNS)\n  (VP y/VBP (NP fertilizantes/NNS))\n  (VP\n    gracias/VBP\n    al/RB\n    (NP impulso/JJ del/NN polo/NN tecnológico/NN como/NN parte/NN))\n  de/IN\n  los/FW\n  (NP esfuerzos/JJ por/NN mejorar/NN la/NN)\n  producción/FW\n  (NP agrícola/NN y/NN asegurar/NN)\n  la/FW\n  alimentación/FW\n  de/FW\n  la/FW\n  población/FW\n  (ADJP rural/JJ)\n  ./.)",
+      "(S\n  (NP La/NNP)\n  educación/FW\n  (NP y/NN)\n  la/FW\n  salud/FW\n  (NP también/NN fueron/NN puntos/NN)\n  (VP centrales/VBZ)\n  de/IN\n  su/FW\n  (NP alocución/NN)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "CULTURA_DEPORTE_SOCIEDAD",
+      "CIUDADES_CAPITALES",
+      "GOBIERNOS_OFICIALES",
+      "APROBACION_RECHAZO",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "REGIONES_PROVINCIAS",
+      "PAISES",
+      "JURIDICO_LEGISLATIVO_CORRUPCION",
+      "VIOLENCIA_CRIMEN_DERECHOS_HUMANOS"
+    ],
+    "matches": [
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "anunció",
+        "position": [
+          1185,
+          1192
+        ],
+        "start": 1185,
+        "end": 1192
+      },
+      {
+        "category": "JURIDICO_LEGISLATIVO_CORRUPCION",
+        "matched_text": "defensa",
+        "position": [
+          218,
+          225
+        ],
+        "start": 218,
+        "end": 225
+      },
+      {
+        "category": "VIOLENCIA_CRIMEN_DERECHOS_HUMANOS",
+        "matched_text": "educación y la salud también fueron puntos centrales de su alocución. castro resaltó que más de un millón de niños ahora tienen acceso",
+        "position": [
+          925,
+          1059
+        ],
+        "start": 925,
+        "end": 1059
+      },
+      {
+        "category": "CULTURA_DEPORTE_SOCIEDAD",
+        "matched_text": "participación ciudadana",
+        "position": [
+          647,
+          670
+        ],
+        "start": 647,
+        "end": 670
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidenta de honduras",
+        "position": [
+          107,
+          129
+        ],
+        "start": 107,
+        "end": 129
+      },
+      {
+        "category": "APROBACION_RECHAZO",
+        "matched_text": "destacó",
+        "position": [
+          189,
+          196
+        ],
+        "start": 189,
+        "end": 196
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "honduras",
+        "position": [
+          121,
+          129
+        ],
+        "start": 121,
+        "end": 129
+      },
+      {
+        "category": "CIUDADES_CAPITALES",
+        "matched_text": "tegucigalpa",
+        "position": [
+          37,
+          48
+        ],
+        "start": 37,
+        "end": 48
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "estado en",
+        "position": [
+          470,
+          479
+        ],
+        "start": 470,
+        "end": 479
+      }
+    ],
+    "match_count": 9
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Invito",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Honduras",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Tegucigalpa",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Castro",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Xiomara Castro",
+        "tipo": "Persona"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Tegucigalpa",
+        "relacion": "CONGREGAR_PRONUNCIAR",
+        "objeto": "Honduras"
+      },
+      {
+        "sujeto": "Tegucigalpa",
+        "relacion": "CONGREGAR_PRONUNCIAR",
+        "objeto": "Xiomara Castro"
+      },
+      {
+        "sujeto": "Invito",
+        "relacion": "PROCLAMAR",
+        "objeto": "Castro"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.5707,
+    "pos": 0.026,
+    "neu": 0.966,
+    "neg": 0.008,
+    "label": "positive"
+  }
+}

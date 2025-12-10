@@ -1,0 +1,751 @@
+{
+  "url": "https://www.telesurtv.net/rusia-informa-que-sistema-de-defensa-derribo-45-drones-ucranianos/",
+  "title": "Rusia informa que sistema de defensa derribó 45 drones ucranianos - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Ataques aéreos",
+    "Rusia"
+  ],
+  "text": "El Ministerio de Defensa de Rusia informó que, durante la noche del martes y las primeras horas de este miércoles los sistemas locales de defensa aérea derribaron 45 vehículos aéreos no tripulados (drones) ucranianos en varias provincias del país.\n“Anoche, durante otro intento del régimen de Kiev de perpetrar un ataque terrorista con el uso de vehículos aéreos no tripulados contra instalaciones en el territorio de la Federación de Rusia, los sistemas de defensa aérea abatieron 45 drones tipo avión”, señaló la dependencia en el comunicado.\nSegún la nota, se destruyeron 11 drones en la región de Moscú, 23 en la de Briansk, seis en la de Bélgorod, tres en la de Kaluga y dos en la de Kursk.\nSegún informó, los vehículos aéreos fueron derribados en las afueras de Moscú, sobre la ciudad de Podolsk. En el lugar de la caída de los restos no se registraron víctimas ni daños materiales, de acuerdo con los datos preliminares.\nDesde el 24 de febrero de 2022, Rusia lleva a cabo una operación militar especial en Ucrania con el propósito de salvaguardar a la población de un genocidio perpetrado por el Gobierno de Kiev y mitigar los peligros de seguridad nacional que conlleva el avance de la Organización del Tratado del Atlántico Norte (OTAN) hacia el este.\nEl impacto de proyectiles, las incursiones de drones y otros ataques desde el otro lado de la frontera, que obligan a la población a buscar refugio en otros lugares, son frecuentes en las provincias rusas limítrofes con Ucrania, como Bélgorod, Briansk, Kursk y Vorónezh.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/rusia-informa-que-sistema-de-defensa-derribo-45-drones-ucranianos/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-08.json",
+    "message_index": 639,
+    "message_id": 74887,
+    "date": "2024-08-21T10:55:07+00:00",
+    "text": "teleSUR\nRusia informa que sistema de defensa derribó 45 drones ucranianos\nhttps://www.telesurtv.net/rusia-informa-que-sistema-de-defensa-derribo-45-drones-ucranianos/",
+    "photo_path": null,
+    "views": 2953,
+    "reactions": {
+      "👍": 71,
+      "❤": 8,
+      "👏": 6
+    },
+    "total_reactions": 85
+  },
+  "preprocessing": {
+    "cleaned": "el ministerio de defensa de rusia informó que, durante la noche del martes y las primeras horas de este miércoles los sistemas locales de defensa aérea derribaron 45 vehículos aéreos no tripulados (drones) ucranianos en varias provincias del país. “anoche, durante otro intento del régimen de kiev de perpetrar un ataque terrorista con el uso de vehículos aéreos no tripulados contra instalaciones en el territorio de la federación de rusia, los sistemas de defensa aérea abatieron 45 drones tipo avión”, señaló la dependencia en el comunicado. según la nota, se destruyeron 11 drones en la región de moscú, 23 en la de briansk, seis en la de bélgorod, tres en la de kaluga y dos en la de kursk. según informó, los vehículos aéreos fueron derribados en las afueras de moscú, sobre la ciudad de podolsk. en el lugar de la caída de los restos no se registraron víctimas ni daños materiales, de acuerdo con los datos preliminares. desde el 24 de febrero de 2022, rusia lleva a cabo una operación militar especial en ucrania con el propósito de salvaguardar a la población de un genocidio perpetrado por el gobierno de kiev y mitigar los peligros de seguridad nacional que conlleva el avance de la organización del tratado del atlántico norte (otan) hacia el este. el impacto de proyectiles, las incursiones de drones y otros ataques desde el otro lado de la frontera, que obligan a la población a buscar refugio en otros lugares, son frecuentes en las provincias rusas limítrofes con ucrania, como bélgorod, briansk, kursk y vorónezh.",
+    "tokens": [
+      "ministerio",
+      "defensa",
+      "rusia",
+      "informó",
+      ",",
+      "noche",
+      "martes",
+      "primeras",
+      "horas",
+      "miércoles",
+      "sistemas",
+      "locales",
+      "defensa",
+      "aérea",
+      "derribaron",
+      "45",
+      "vehículos",
+      "aéreos",
+      "tripulados",
+      "(",
+      "drones",
+      ")",
+      "ucranianos",
+      "varias",
+      "provincias",
+      "país",
+      ".",
+      "“",
+      "anoche",
+      ",",
+      "intento",
+      "régimen",
+      "kiev",
+      "perpetrar",
+      "ataque",
+      "terrorista",
+      "uso",
+      "vehículos",
+      "aéreos",
+      "tripulados",
+      "instalaciones",
+      "territorio",
+      "federación",
+      "rusia",
+      ",",
+      "sistemas",
+      "defensa",
+      "aérea",
+      "abatieron",
+      "45",
+      "drones",
+      "tipo",
+      "avión",
+      "”",
+      ",",
+      "señaló",
+      "dependencia",
+      "comunicado",
+      ".",
+      "según",
+      "nota",
+      ",",
+      "destruyeron",
+      "11",
+      "drones",
+      "región",
+      "moscú",
+      ",",
+      "23",
+      "briansk",
+      ",",
+      "seis",
+      "bélgorod",
+      ",",
+      "tres",
+      "kaluga",
+      "dos",
+      "kursk",
+      ".",
+      "según",
+      "informó",
+      ",",
+      "vehículos",
+      "aéreos",
+      "derribados",
+      "afueras",
+      "moscú",
+      ",",
+      "ciudad",
+      "podolsk",
+      ".",
+      "lugar",
+      "caída",
+      "restos",
+      "registraron",
+      "víctimas",
+      "daños",
+      "materiales",
+      ",",
+      "acuerdo",
+      "datos",
+      "preliminares",
+      ".",
+      "24",
+      "febrero",
+      "2022",
+      ",",
+      "rusia",
+      "lleva",
+      "cabo",
+      "operación",
+      "militar",
+      "especial",
+      "ucrania",
+      "propósito",
+      "salvaguardar",
+      "población",
+      "genocidio",
+      "perpetrado",
+      "gobierno",
+      "kiev",
+      "mitigar",
+      "peligros",
+      "seguridad",
+      "nacional",
+      "conlleva",
+      "avance",
+      "organización",
+      "tratado",
+      "atlántico",
+      "norte",
+      "(",
+      "otan",
+      ")",
+      "hacia",
+      ".",
+      "impacto",
+      "proyectiles",
+      ",",
+      "incursiones",
+      "drones",
+      "ataques",
+      "lado",
+      "frontera",
+      ",",
+      "obligan",
+      "población",
+      "buscar",
+      "refugio",
+      "lugares",
+      ",",
+      "frecuentes",
+      "provincias",
+      "rusas",
+      "limítrofes",
+      "ucrania",
+      ",",
+      "bélgorod",
+      ",",
+      "briansk",
+      ",",
+      "kursk",
+      "vorónezh",
+      "."
+    ],
+    "token_count": 164,
+    "sentence_count": 7
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 35,
+      "IN": 19,
+      "FW": 69,
+      "NN": 67,
+      "NNS": 13,
+      "VBP": 5,
+      "JJ": 25,
+      "CD": 6,
+      "DT": 3,
+      "VBZ": 7,
+      "VBD": 1
+    },
+    "bigram_freq": {
+      "NNP-NNP": 9,
+      "NNP-IN": 1,
+      "IN-NNP": 2,
+      "NNP-FW": 10,
+      "FW-NNP": 15,
+      "NNP-NN": 11,
+      "NN-NN": 32,
+      "NN-FW": 7,
+      "FW-FW": 34,
+      "FW-NNS": 4,
+      "NNS-VBP": 4,
+      "VBP-JJ": 4,
+      "JJ-FW": 4,
+      "JJ-NNS": 3,
+      "NNS-IN": 5,
+      "IN-FW": 11,
+      "FW-JJ": 4,
+      "JJ-NN": 11,
+      "NN-CD": 3,
+      "CD-NN": 2,
+      "NN-DT": 1,
+      "DT-NN": 2,
+      "NN-VBZ": 3,
+      "VBZ-JJ": 2,
+      "JJ-IN": 1,
+      "IN-JJ": 3,
+      "JJ-JJ": 6,
+      "FW-NN": 8,
+      "NN-NNP": 6,
+      "NNS-FW": 1,
+      "FW-VBZ": 2,
+      "VBZ-DT": 2,
+      "DT-JJ": 1,
+      "NN-IN": 10,
+      "CD-NNS": 2,
+      "NNS-JJ": 1,
+      "NNP-CD": 1,
+      "NNP-VBZ": 1,
+      "VBZ-FW": 1,
+      "NN-NNS": 1,
+      "VBZ-NNP": 1,
+      "FW-CD": 1,
+      "CD-FW": 1,
+      "FW-IN": 1,
+      "IN-CD": 1,
+      "CD-NNP": 1,
+      "NNP-VBD": 1,
+      "VBD-JJ": 1,
+      "NN-JJ": 3,
+      "IN-NNS": 1,
+      "NNS-NNS": 2,
+      "VBP-VBZ": 1,
+      "VBZ-IN": 1,
+      "IN-NN": 1,
+      "NN-VBP": 1
+    },
+    "trigram_freq": {
+      "NNP-NNP-IN": 1,
+      "NNP-IN-NNP": 1,
+      "IN-NNP-FW": 1,
+      "NNP-FW-NNP": 5,
+      "FW-NNP-NN": 5,
+      "NNP-NN-NN": 7,
+      "NN-NN-NN": 14,
+      "NN-NN-FW": 4,
+      "NN-FW-FW": 5,
+      "FW-FW-FW": 18,
+      "FW-FW-NNS": 3,
+      "FW-NNS-VBP": 2,
+      "NNS-VBP-JJ": 3,
+      "VBP-JJ-FW": 1,
+      "JJ-FW-FW": 3,
+      "VBP-JJ-NNS": 1,
+      "JJ-NNS-IN": 2,
+      "NNS-IN-FW": 4,
+      "IN-FW-JJ": 2,
+      "FW-JJ-NN": 4,
+      "JJ-NN-CD": 2,
+      "NN-CD-NN": 1,
+      "CD-NN-NN": 1,
+      "NN-NN-DT": 1,
+      "NN-DT-NN": 1,
+      "DT-NN-VBZ": 2,
+      "NN-VBZ-JJ": 2,
+      "VBZ-JJ-IN": 1,
+      "JJ-IN-JJ": 1,
+      "IN-JJ-JJ": 1,
+      "JJ-JJ-FW": 1,
+      "JJ-FW-NN": 1,
+      "FW-NN-NNP": 2,
+      "NN-NNP-NN": 4,
+      "NN-FW-NNS": 1,
+      "FW-NNS-FW": 1,
+      "NNS-FW-NNP": 1,
+      "FW-NNP-FW": 6,
+      "NNP-FW-FW": 3,
+      "FW-FW-JJ": 2,
+      "JJ-NN-NN": 4,
+      "FW-FW-VBZ": 2,
+      "FW-VBZ-DT": 2,
+      "VBZ-DT-JJ": 1,
+      "DT-JJ-JJ": 1,
+      "JJ-JJ-NNS": 1,
+      "IN-FW-NN": 4,
+      "FW-NN-IN": 1,
+      "NN-IN-FW": 7,
+      "IN-FW-NNP": 2,
+      "NN-CD-NNS": 2,
+      "CD-NNS-JJ": 1,
+      "NNS-JJ-JJ": 1,
+      "JJ-JJ-NN": 4,
+      "NN-NN-IN": 6,
+      "NN-NNP-NNP": 2,
+      "NNP-NNP-FW": 2,
+      "NNP-FW-NN": 1,
+      "FW-NN-NN": 5,
+      "NN-NN-CD": 1,
+      "CD-NNS-IN": 1,
+      "IN-FW-FW": 3,
+      "FW-FW-NNP": 6,
+      "FW-NNP-CD": 1,
+      "NNP-CD-NN": 1,
+      "CD-NN-FW": 1,
+      "NNP-NN-FW": 2,
+      "FW-NNP-VBZ": 1,
+      "NNP-VBZ-FW": 1,
+      "VBZ-FW-FW": 1,
+      "FW-NNP-NNP": 2,
+      "NNP-NNP-NN": 2,
+      "NN-IN-JJ": 2,
+      "IN-JJ-FW": 1,
+      "NN-IN-NNP": 1,
+      "IN-NNP-NNP": 1,
+      "VBZ-DT-NN": 1,
+      "VBZ-JJ-JJ": 1,
+      "JJ-NN-NNS": 1,
+      "NN-NNS-IN": 1,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-NNP": 1,
+      "VBZ-NNP-FW": 1,
+      "NNP-FW-CD": 1,
+      "FW-CD-FW": 1,
+      "CD-FW-FW": 1,
+      "FW-FW-IN": 1,
+      "FW-IN-CD": 1,
+      "IN-CD-NNP": 1,
+      "CD-NNP-VBD": 1,
+      "NNP-VBD-JJ": 1,
+      "VBD-JJ-JJ": 1,
+      "NN-NN-JJ": 3,
+      "NN-JJ-NN": 2,
+      "JJ-NN-NNP": 2,
+      "FW-FW-NN": 2,
+      "NN-FW-NNP": 1,
+      "JJ-NN-IN": 2,
+      "NNP-NNP-NNP": 3,
+      "NN-NN-NNP": 1,
+      "NNP-NN-IN": 1,
+      "FW-NNS-IN": 1,
+      "NNS-IN-NNS": 1,
+      "IN-NNS-NNS": 1,
+      "NNS-NNS-NNS": 1,
+      "NNS-NNS-VBP": 1,
+      "VBP-JJ-JJ": 1,
+      "NN-JJ-FW": 1,
+      "IN-JJ-NNS": 1,
+      "JJ-NNS-VBP": 1,
+      "NNS-VBP-VBZ": 1,
+      "VBP-VBZ-IN": 1,
+      "VBZ-IN-NN": 1,
+      "IN-NN-NN": 1,
+      "NN-NN-VBP": 1,
+      "NN-VBP-JJ": 1,
+      "VBP-JJ-NN": 1,
+      "NNP-NN-NNP": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "FW": 69,
+        "NN": 67,
+        "NNP": 35,
+        "JJ": 25,
+        "IN": 19
+      },
+      "top_bigrams": {
+        "FW-FW": 34,
+        "NN-NN": 32,
+        "FW-NNP": 15,
+        "NNP-NN": 11,
+        "IN-FW": 11
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 18,
+        "NN-NN-NN": 14,
+        "NNP-NN-NN": 7,
+        "NN-IN-FW": 7,
+        "FW-NNP-FW": 6
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 7,
+    "chunk_counts": {
+      "NP": 82,
+      "PP": 5,
+      "VP": 15,
+      "ADJP": 4
+    },
+    "top_rules": [
+      {
+        "rule": "NP -> ('drones', 'NNS')",
+        "frequency": 4,
+        "weight": 0.0354
+      },
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 3,
+        "weight": 0.0265
+      },
+      {
+        "rule": "NP -> ('durante', 'NN')",
+        "frequency": 2,
+        "weight": 0.0177
+      },
+      {
+        "rule": "NP -> ('Kiev', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0177
+      },
+      {
+        "rule": "NP -> ('Rusia', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0177
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0177
+      },
+      {
+        "rule": "NP -> ('Moscú', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0177
+      },
+      {
+        "rule": "ADJP -> ('en', 'JJ')",
+        "frequency": 2,
+        "weight": 0.0177
+      },
+      {
+        "rule": "NP -> ('Briansk', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0177
+      },
+      {
+        "rule": "S -> NP PP ('de', 'FW') NP (',', ',') NP ('la', 'FW') ('noche', 'FW') ('del', 'FW') NP VP ('horas', 'FW') ('de', 'FW') ('este', 'FW') NP VP ('de', 'IN') ('defensa', 'FW') NP ('45', 'CD') NP NP ('(', '(') NP (')', ')') VP VP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0088
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El Ministerio"
+      },
+      {
+        "label": "PP",
+        "text": "de Defensa"
+      },
+      {
+        "label": "NP",
+        "text": "Defensa"
+      },
+      {
+        "label": "NP",
+        "text": "Rusia informó que"
+      },
+      {
+        "label": "NP",
+        "text": "durante"
+      },
+      {
+        "label": "NP",
+        "text": "martes"
+      },
+      {
+        "label": "VP",
+        "text": "y las primeras"
+      },
+      {
+        "label": "NP",
+        "text": "las primeras"
+      },
+      {
+        "label": "NP",
+        "text": "miércoles"
+      },
+      {
+        "label": "VP",
+        "text": "los sistemas locales"
+      },
+      {
+        "label": "NP",
+        "text": "sistemas locales"
+      },
+      {
+        "label": "NP",
+        "text": "aérea derribaron"
+      },
+      {
+        "label": "NP",
+        "text": "vehículos aéreos"
+      },
+      {
+        "label": "NP",
+        "text": "no tripulados"
+      },
+      {
+        "label": "NP",
+        "text": "drones"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP El/NNP Ministerio/NNP)\n  (PP de/IN (NP Defensa/NNP))\n  de/FW\n  (NP Rusia/NNP informó/NN que/NN)\n  ,/,\n  (NP durante/NN)\n  la/FW\n  noche/FW\n  del/FW\n  (NP martes/NNS)\n  (VP y/VBP (NP las/JJ primeras/NNS))\n  horas/FW\n  de/FW\n  este/FW\n  (NP miércoles/NNS)\n  (VP los/VBP (NP sistemas/JJ locales/NNS))\n  de/IN\n  defensa/FW\n  (NP aérea/JJ derribaron/NN)\n  45/CD\n  (NP vehículos/NN aéreos/NN)\n  (NP no/DT tripulados/NN)\n  (/(\n  (NP drones/NNS)\n  )/)\n  (VP ucranianos/VBP (NP en/JJ varias/NN provincias/NNS))\n  (VP del/VBP (NP país/NN))\n  ./.)",
+      "(S\n  (NP “/NN Anoche/NNP)\n  ,/,\n  (NP durante/NN)\n  otro/FW\n  (NP intento/NN)\n  del/FW\n  (NP régimen/NNS)\n  de/FW\n  (NP Kiev/NNP)\n  de/FW\n  perpetrar/FW\n  (NP un/JJ ataque/NN terrorista/NN con/NN)\n  el/FW\n  uso/FW\n  de/FW\n  vehículos/FW\n  (VP\n    aéreos/VBZ\n    (NP no/DT tripulados/JJ contra/JJ instalaciones/NNS))\n  en/IN\n  el/FW\n  (NP territorio/NN)\n  de/IN\n  la/FW\n  (NP Federación/NNP)\n  de/FW\n  (NP Rusia/NNP)\n  ,/,\n  (NP los/JJ sistemas/NN)\n  de/IN\n  defensa/FW\n  (NP aérea/JJ abatieron/NN)\n  45/CD\n  (NP drones/NNS)\n  (NP tipo/JJ avión/JJ ”/NN)\n  ,/,\n  (NP señaló/JJ la/NN dependencia/NN)\n  (PP en/IN (NP el/NN comunicado/NN))\n  ./.)",
+      "(S\n  (NP Según/NNP la/NN nota/NN)\n  ,/,\n  (NP se/JJ destruyeron/NN)\n  11/CD\n  (NP drones/NNS)\n  en/IN\n  la/FW\n  región/FW\n  de/FW\n  (NP Moscú/NNP)\n  ,/,\n  23/CD\n  (ADJP en/JJ)\n  la/FW\n  de/FW\n  (NP Briansk/NNP)\n  ,/,\n  (NP seis/NN)\n  en/FW\n  la/FW\n  de/FW\n  (NP Bélgorod/NNP)\n  ,/,\n  (VP tres/VBZ en/JJ)\n  la/FW\n  de/FW\n  (NP Kaluga/NNP)\n  y/CC\n  (ADJP dos/JJ)\n  (ADJP en/JJ)\n  la/FW\n  de/FW\n  (NP Kursk/NNP)\n  ./.)",
+      "(S\n  (NP Según/NNP informó/NN)\n  ,/,\n  (NP los/JJ vehículos/NN aéreos/NN fueron/NN derribados/NN)\n  en/IN\n  (ADJP las/JJ)\n  afueras/FW\n  de/FW\n  (NP Moscú/NNP)\n  ,/,\n  (NP sobre/NN)\n  la/FW\n  ciudad/FW\n  de/FW\n  (NP Podolsk/NNP)\n  ./.)",
+      "(S\n  (NP En/NNP el/NN lugar/NN)\n  de/IN\n  la/FW\n  caída/FW\n  de/FW\n  los/FW\n  (VP restos/VBZ (NP no/DT se/NN))\n  (VP registraron/VBZ (NP víctimas/JJ ni/JJ daños/NN materiales/NNS))\n  ,/,\n  de/FW\n  acuerdo/FW\n  (NP con/NN los/NN datos/NN preliminares/NNS)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "CIUDADES_CAPITALES",
+      "GOBIERNOS_OFICIALES",
+      "FECHAS_ESPECIFICAS",
+      "ORGANISMOS_INTERNACIONALES",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "REGIONES_PROVINCIAS",
+      "PERIODOS_TEMPORALES",
+      "PAISES",
+      "JURIDICO_LEGISLATIVO_CORRUPCION"
+    ],
+    "matches": [
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "señaló",
+        "position": [
+          505,
+          511
+        ],
+        "start": 505,
+        "end": 511
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "informó",
+        "position": [
+          34,
+          41
+        ],
+        "start": 34,
+        "end": 41
+      },
+      {
+        "category": "JURIDICO_LEGISLATIVO_CORRUPCION",
+        "matched_text": "defensa",
+        "position": [
+          17,
+          24
+        ],
+        "start": 17,
+        "end": 24
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "gobierno de kiev y",
+        "position": [
+          1103,
+          1121
+        ],
+        "start": 1103,
+        "end": 1121
+      },
+      {
+        "category": "ORGANISMOS_INTERNACIONALES",
+        "matched_text": "otan",
+        "position": [
+          1240,
+          1244
+        ],
+        "start": 1240,
+        "end": 1244
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "rusia",
+        "position": [
+          28,
+          33
+        ],
+        "start": 28,
+        "end": 33
+      },
+      {
+        "category": "CIUDADES_CAPITALES",
+        "matched_text": "kiev",
+        "position": [
+          293,
+          297
+        ],
+        "start": 293,
+        "end": 297
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "región de",
+        "position": [
+          591,
+          600
+        ],
+        "start": 591,
+        "end": 600
+      },
+      {
+        "category": "FECHAS_ESPECIFICAS",
+        "matched_text": "24 de febrero de 2022",
+        "position": [
+          937,
+          958
+        ],
+        "start": 937,
+        "end": 958
+      },
+      {
+        "category": "PERIODOS_TEMPORALES",
+        "matched_text": "durante la noche",
+        "position": [
+          47,
+          63
+        ],
+        "start": 47,
+        "end": 63
+      }
+    ],
+    "match_count": 10
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Ministerio de Defensa de Rusia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Gobierno de Kiev",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Kursk",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Organización del Tratado del Atlántico Norte",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Briansk",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Rusia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Podolsk",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "OTAN",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Ucrania",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Kiev",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Moscú",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Kaluga",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Bélgorod",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Vorónezh",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Federación de Rusia",
+        "tipo": "Organizacion"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Rusia",
+        "relacion": "LLEVAR",
+        "objeto": "Ucrania"
+      },
+      {
+        "sujeto": "Rusia",
+        "relacion": "LLEVAR",
+        "objeto": "Gobierno de Kiev"
+      },
+      {
+        "sujeto": "Rusia",
+        "relacion": "LLEVAR",
+        "objeto": "Organización del Tratado del Atlántico Norte"
+      },
+      {
+        "sujeto": "Rusia",
+        "relacion": "LLEVAR",
+        "objeto": "OTAN"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.6808,
+    "pos": 0.0,
+    "neu": 0.974,
+    "neg": 0.026,
+    "label": "negative"
+  }
+}

@@ -1,0 +1,526 @@
+{
+  "url": "https://www.telesurtv.net/ataque-con-dron-deja-al-menos-tres-palestinos-al-sureste-de-tubas-cisjordania/",
+  "title": "Ataque con dron deja al menos tres palestinos asesinados al sureste de Tubas, Cisjordania - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Ataque israelí",
+    "Cisjordania",
+    "Ciudad de Tamoun"
+  ],
+  "text": "Al menos tres civiles palestinos fallecieron este miércoles en la ciudad cisjordana de Tamoun por el ataque de un dron israelí.\nSegún fuentes de seguridad cisjordanas, los cuerpos de los tres fallecidos fueron retenidos por los soldados israelíes.\nLa Sociedad de la Media Luna Roja Palestina afirmó que las fuerzas israelíes impidieron que sus tripulaciones llegaran al lugar del ataque ubicado al sureste de la localidad de Tubas, Cisjordania.\nMedios palestinos reportaron el martes que al menos cinco personas han muerto en las ciudades de Anata, Tubas y Tamoun, elevando el número de muertos en Cisjordania a 629 personas desde el inicio de la operación genocida israelí contra la Franja de Gaza.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/ataque-con-dron-deja-al-menos-tres-palestinos-al-sureste-de-tubas-cisjordania/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-08.json",
+    "message_index": 987,
+    "message_id": 74514,
+    "date": "2024-08-14T09:55:07+00:00",
+    "text": "teleSUR\nAtaque con dron deja al menos tres palestinos al sureste de Tubas, Cisjordania\nhttps://www.telesurtv.net/ataque-con-dron-deja-al-menos-tres-palestinos-al-sureste-de-tubas-cisjordania/",
+    "photo_path": null,
+    "views": 3315,
+    "reactions": {
+      "🤬": 52,
+      "👍": 4
+    },
+    "total_reactions": 56
+  },
+  "preprocessing": {
+    "cleaned": "al menos tres civiles palestinos fallecieron este miércoles en la ciudad cisjordana de tamoun por el ataque de un dron israelí. según fuentes de seguridad cisjordanas, los cuerpos de los tres fallecidos fueron retenidos por los soldados israelíes. la sociedad de la media luna roja palestina afirmó que las fuerzas israelíes impidieron que sus tripulaciones llegaran al lugar del ataque ubicado al sureste de la localidad de tubas, cisjordania. medios palestinos reportaron el martes que al menos cinco personas han muerto en las ciudades de anata, tubas y tamoun, elevando el número de muertos en cisjordania a 629 personas desde el inicio de la operación genocida israelí contra la franja de gaza.",
+    "tokens": [
+      "menos",
+      "tres",
+      "civiles",
+      "palestinos",
+      "fallecieron",
+      "miércoles",
+      "ciudad",
+      "cisjordana",
+      "tamoun",
+      "ataque",
+      "dron",
+      "israelí",
+      ".",
+      "según",
+      "fuentes",
+      "seguridad",
+      "cisjordanas",
+      ",",
+      "cuerpos",
+      "tres",
+      "fallecidos",
+      "retenidos",
+      "soldados",
+      "israelíes",
+      ".",
+      "sociedad",
+      "media",
+      "luna",
+      "roja",
+      "palestina",
+      "afirmó",
+      "fuerzas",
+      "israelíes",
+      "impidieron",
+      "tripulaciones",
+      "llegaran",
+      "lugar",
+      "ataque",
+      "ubicado",
+      "sureste",
+      "localidad",
+      "tubas",
+      ",",
+      "cisjordania",
+      ".",
+      "medios",
+      "palestinos",
+      "reportaron",
+      "martes",
+      "menos",
+      "cinco",
+      "personas",
+      "muerto",
+      "ciudades",
+      "anata",
+      ",",
+      "tubas",
+      "tamoun",
+      ",",
+      "elevando",
+      "número",
+      "muertos",
+      "cisjordania",
+      "629",
+      "personas",
+      "inicio",
+      "operación",
+      "genocida",
+      "israelí",
+      "franja",
+      "gaza",
+      "."
+    ],
+    "token_count": 72,
+    "sentence_count": 4
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 18,
+      "NN": 24,
+      "NNS": 11,
+      "VBZ": 4,
+      "VBP": 8,
+      "FW": 22,
+      "IN": 6,
+      "JJ": 14,
+      "VBD": 1,
+      "RB": 1,
+      "CD": 1
+    },
+    "bigram_freq": {
+      "NNP-NN": 3,
+      "NN-NNS": 4,
+      "NNS-VBZ": 1,
+      "VBZ-NNS": 1,
+      "NNS-VBP": 7,
+      "VBP-NN": 3,
+      "VBP-FW": 1,
+      "FW-FW": 12,
+      "FW-NNP": 6,
+      "NN-NN": 11,
+      "NN-IN": 4,
+      "IN-JJ": 1,
+      "JJ-NN": 7,
+      "NN-NNP": 2,
+      "NNP-VBZ": 2,
+      "VBZ-FW": 1,
+      "FW-NNS": 3,
+      "IN-FW": 4,
+      "VBP-JJ": 2,
+      "NN-JJ": 2,
+      "NNP-NNP": 8,
+      "NNP-IN": 1,
+      "NNS-VBD": 1,
+      "VBD-JJ": 1,
+      "JJ-JJ": 3,
+      "NNP-VBP": 1,
+      "NN-VBZ": 1,
+      "VBZ-JJ": 2,
+      "JJ-NNS": 1,
+      "VBP-NNS": 1,
+      "VBP-RB": 1,
+      "RB-JJ": 1,
+      "JJ-FW": 3,
+      "NNS-IN": 1,
+      "IN-NNP": 1,
+      "NNP-CD": 1,
+      "CD-NNS": 1,
+      "NNS-JJ": 1,
+      "FW-JJ": 1,
+      "NNP-FW": 1
+    },
+    "trigram_freq": {
+      "NNP-NN-NNS": 1,
+      "NN-NNS-VBZ": 1,
+      "NNS-VBZ-NNS": 1,
+      "VBZ-NNS-VBP": 1,
+      "NNS-VBP-NN": 2,
+      "VBP-NN-NNS": 1,
+      "NN-NNS-VBP": 2,
+      "NNS-VBP-FW": 1,
+      "VBP-FW-FW": 1,
+      "FW-FW-FW": 7,
+      "FW-FW-NNP": 3,
+      "FW-NNP-NN": 1,
+      "NNP-NN-NN": 2,
+      "NN-NN-NN": 4,
+      "NN-NN-IN": 1,
+      "NN-IN-JJ": 1,
+      "IN-JJ-NN": 1,
+      "JJ-NN-NN": 4,
+      "NN-NN-NNP": 1,
+      "NN-NNP-VBZ": 1,
+      "NNP-VBZ-FW": 1,
+      "VBZ-FW-FW": 1,
+      "FW-FW-NNS": 1,
+      "FW-NNS-VBP": 2,
+      "VBP-NN-IN": 1,
+      "NN-IN-FW": 3,
+      "IN-FW-NNS": 1,
+      "NNS-VBP-JJ": 2,
+      "VBP-JJ-NN": 2,
+      "NN-NN-JJ": 2,
+      "NN-JJ-NN": 1,
+      "JJ-NN-NNP": 1,
+      "NN-NNP-NNP": 1,
+      "NNP-NNP-IN": 1,
+      "NNP-IN-FW": 1,
+      "IN-FW-NNP": 1,
+      "FW-NNP-NNP": 2,
+      "NNP-NNP-NNP": 4,
+      "NNP-NNP-NN": 1,
+      "NN-NN-NNS": 2,
+      "NN-NNS-VBD": 1,
+      "NNS-VBD-JJ": 1,
+      "VBD-JJ-NN": 1,
+      "NN-JJ-JJ": 1,
+      "JJ-JJ-NN": 2,
+      "JJ-NN-IN": 2,
+      "IN-FW-FW": 2,
+      "NNP-NNP-VBP": 1,
+      "NNP-VBP-NN": 1,
+      "VBP-NN-NN": 1,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-JJ": 1,
+      "VBZ-JJ-JJ": 1,
+      "JJ-JJ-NNS": 1,
+      "JJ-NNS-VBP": 1,
+      "NNS-VBP-NNS": 1,
+      "VBP-NNS-VBP": 1,
+      "NNS-VBP-RB": 1,
+      "VBP-RB-JJ": 1,
+      "RB-JJ-FW": 1,
+      "JJ-FW-NNS": 1,
+      "FW-NNS-IN": 1,
+      "NNS-IN-NNP": 1,
+      "IN-NNP-NNP": 1,
+      "NNP-NNP-VBZ": 1,
+      "NNP-VBZ-JJ": 1,
+      "VBZ-JJ-FW": 1,
+      "JJ-FW-FW": 1,
+      "FW-NNP-CD": 1,
+      "NNP-CD-NNS": 1,
+      "CD-NNS-JJ": 1,
+      "NNS-JJ-JJ": 1,
+      "FW-FW-JJ": 1,
+      "FW-JJ-FW": 1,
+      "JJ-FW-NNP": 1,
+      "FW-NNP-FW": 1,
+      "NNP-FW-NNP": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 24,
+        "FW": 22,
+        "NNP": 18,
+        "JJ": 14,
+        "NNS": 11
+      },
+      "top_bigrams": {
+        "FW-FW": 12,
+        "NN-NN": 11,
+        "NNP-NNP": 8,
+        "NNS-VBP": 7,
+        "JJ-NN": 7
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 7,
+        "NN-NN-NN": 4,
+        "JJ-NN-NN": 4,
+        "NNP-NNP-NNP": 4,
+        "FW-FW-NNP": 3
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 4,
+    "chunk_counts": {
+      "NP": 31,
+      "VP": 11,
+      "PP": 2,
+      "ADJP": 1
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0408
+      },
+      {
+        "rule": "NP -> ('Cisjordania', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0408
+      },
+      {
+        "rule": "NP -> ('personas', 'NNS')",
+        "frequency": 2,
+        "weight": 0.0408
+      },
+      {
+        "rule": "S -> NP VP VP VP ('la', 'FW') ('ciudad', 'FW') ('cisjordana', 'FW') ('de', 'FW') NP PP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0204
+      },
+      {
+        "rule": "NP -> ('Al', 'NNP') ('menos', 'NN') ('tres', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0204
+      },
+      {
+        "rule": "VP -> ('civiles', 'VBZ') NP",
+        "frequency": 1,
+        "weight": 0.0204
+      },
+      {
+        "rule": "NP -> ('palestinos', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0204
+      },
+      {
+        "rule": "VP -> ('fallecieron', 'VBP') NP",
+        "frequency": 1,
+        "weight": 0.0204
+      },
+      {
+        "rule": "NP -> ('este', 'NN') ('miércoles', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0204
+      },
+      {
+        "rule": "VP -> ('en', 'VBP')",
+        "frequency": 1,
+        "weight": 0.0204
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Al menos tres"
+      },
+      {
+        "label": "VP",
+        "text": "civiles palestinos"
+      },
+      {
+        "label": "NP",
+        "text": "palestinos"
+      },
+      {
+        "label": "VP",
+        "text": "fallecieron este miércoles"
+      },
+      {
+        "label": "NP",
+        "text": "este miércoles"
+      },
+      {
+        "label": "VP",
+        "text": "en"
+      },
+      {
+        "label": "NP",
+        "text": "Tamoun por el ataque"
+      },
+      {
+        "label": "PP",
+        "text": "de un dron israelí"
+      },
+      {
+        "label": "NP",
+        "text": "un dron israelí"
+      },
+      {
+        "label": "NP",
+        "text": "Según"
+      },
+      {
+        "label": "VP",
+        "text": "fuentes"
+      },
+      {
+        "label": "NP",
+        "text": "cisjordanas"
+      },
+      {
+        "label": "NP",
+        "text": "los cuerpos"
+      },
+      {
+        "label": "NP",
+        "text": "tres"
+      },
+      {
+        "label": "VP",
+        "text": "fallecidos fueron retenidos por los soldados israelíes"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Al/NNP menos/NN tres/NNS)\n  (VP civiles/VBZ (NP palestinos/NNS))\n  (VP fallecieron/VBP (NP este/NN miércoles/NNS))\n  (VP en/VBP)\n  la/FW\n  ciudad/FW\n  cisjordana/FW\n  de/FW\n  (NP Tamoun/NNP por/NN el/NN ataque/NN)\n  (PP de/IN (NP un/JJ dron/NN israelí/NN))\n  ./.)",
+      "(S\n  (NP Según/NNP)\n  (VP fuentes/VBZ)\n  de/FW\n  seguridad/FW\n  (NP cisjordanas/NNS)\n  ,/,\n  (NP los/JJ cuerpos/NN)\n  de/IN\n  los/FW\n  (NP tres/NNS)\n  (VP\n    fallecidos/VBP\n    (NP fueron/JJ retenidos/NN por/NN los/NN)\n    (NP soldados/JJ israelíes/NN))\n  ./.)",
+      "(S\n  (NP La/NNP Sociedad/NNP)\n  de/IN\n  la/FW\n  (NP\n    Media/NNP\n    Luna/NNP\n    Roja/NNP\n    Palestina/NNP\n    afirmó/NN\n    que/NN\n    las/NNS)\n  (VP\n    fuerzas/VBP\n    (NP israelíes/JJ impidieron/NN que/NN sus/NN tripulaciones/NNS))\n  (VP\n    llegaran/VBD\n    (NP al/JJ lugar/NN del/NN ataque/NN)\n    (NP ubicado/JJ al/JJ sureste/NN))\n  de/IN\n  la/FW\n  localidad/FW\n  de/FW\n  (NP Tubas/NNP)\n  ,/,\n  (NP Cisjordania/NNP)\n  ./.)",
+      "(S\n  (NP Medios/NNS)\n  (VP palestinos/VBP (NP reportaron/NN el/NN))\n  (VP martes/VBZ (NP que/JJ al/JJ menos/NNS))\n  (VP cinco/VBP (NP personas/NNS))\n  (VP han/VBP muerto/RB en/JJ)\n  las/FW\n  (NP ciudades/NNS)\n  (PP de/IN (NP Anata/NNP))\n  ,/,\n  (NP Tubas/NNP y/NNP Tamoun/NNP)\n  ,/,\n  (NP elevando/NN el/NN número/NN)\n  de/IN\n  muertos/FW\n  en/FW\n  (NP Cisjordania/NNP)\n  a/DT\n  629/CD\n  (NP personas/NNS)\n  (NP desde/JJ el/JJ inicio/NN)\n  de/IN\n  la/FW\n  operación/FW\n  genocida/FW\n  israelí/FW\n  (ADJP contra/JJ)\n  la/FW\n  (NP Franja/NNP)\n  de/FW\n  (NP Gaza/NNP)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "CANTIDADES_NUMERICAS",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "PAISES",
+      "CONFLICTOS_ARMADOS_OPERACIONES"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "genocida israelí contra la franja de gaza",
+        "position": [
+          657,
+          698
+        ],
+        "start": 657,
+        "end": 698
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "afirmó",
+        "position": [
+          292,
+          298
+        ],
+        "start": 292,
+        "end": 298
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "israelí",
+        "position": [
+          119,
+          126
+        ],
+        "start": 119,
+        "end": 126
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "629 personas",
+        "position": [
+          612,
+          624
+        ],
+        "start": 612,
+        "end": 624
+      }
+    ],
+    "match_count": 4
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Franja de Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Anata",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Tubas",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Cisjordania",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "La Sociedad de la Media Luna Roja Palestina",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Tamoun",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "La Sociedad de la Media Luna Roja Palestina",
+        "relacion": "AFIRMAR",
+        "objeto": "Tubas"
+      },
+      {
+        "sujeto": "La Sociedad de la Media Luna Roja Palestina",
+        "relacion": "AFIRMAR",
+        "objeto": "Cisjordania"
+      },
+      {
+        "sujeto": "Anata",
+        "relacion": "MORIR_REPORTAR",
+        "objeto": "Cisjordania"
+      },
+      {
+        "sujeto": "Anata",
+        "relacion": "MORIR_REPORTAR",
+        "objeto": "Franja de Gaza"
+      },
+      {
+        "sujeto": "Tubas",
+        "relacion": "MORIR_REPORTAR",
+        "objeto": "Cisjordania"
+      },
+      {
+        "sujeto": "Tubas",
+        "relacion": "MORIR_REPORTAR",
+        "objeto": "Franja de Gaza"
+      },
+      {
+        "sujeto": "Tamoun",
+        "relacion": "MORIR_REPORTAR",
+        "objeto": "Cisjordania"
+      },
+      {
+        "sujeto": "Tamoun",
+        "relacion": "MORIR_REPORTAR",
+        "objeto": "Franja de Gaza"
+      },
+      {
+        "sujeto": "Cisjordania",
+        "relacion": "ELEVAR_MORIR_REPORTAR",
+        "objeto": "Franja de Gaza"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.0,
+    "pos": 0.0,
+    "neu": 1.0,
+    "neg": 0.0,
+    "label": "neutral"
+  }
+}

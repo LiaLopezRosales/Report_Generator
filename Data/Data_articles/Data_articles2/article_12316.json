@@ -1,0 +1,618 @@
+{
+  "url": "https://www.telesurtv.net/mueren-seis-presidiarios-uruguayos-durante-incendio/",
+  "title": "Mueren seis presidiarios uruguayos durante incendio - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "incendio",
+    "Uruguay"
+  ],
+  "text": "Como parte de un ataque premeditado, seis presidiarios fallecieron durante un incendio en la cárcel del departamento de Montevideo, informaron este miércoles las autoridades uruguayas.\nLos medios locales confirmaron que el ataque fue llevado a cabo por otros presos en el módulo cuatro del centro de reclusión Santiago Vázquez (exComcar), el más grande del país, y que, además, en la celda contigua a la del suceso se encontraba un preso herido.\nEl Ministerio del Interior, a través de un comunicado, recalcó que “se produjo un foco ígneo, por causas que se tratan de establecer. De las primeras investigaciones surge que las celdas del sector estaban abiertas a excepción de la celda del incidente que estaba cerrada con seis cuerpos calcinados en su interior”.\nHasta la fecha, se registran “tratos crueles, inhumanos y degradantes” en el 43 por ciento de las cárceles existentes en el país, teniendo en cuenta un informe del Comisionado Parlamentario Penitenciario.\nUruguay se encuentra entre los diez países con mayor tasa de encarcelamiento a nivel mundial, ocupando el primer lugar en América del Sur con 458 presos por cada 100.000 habitantes, según datos del Comisionado Parlamentario Penitenciario hechos públicos el pasado 30 de abril.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/mueren-seis-presidiarios-uruguayos-durante-incendio/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-09.json",
+    "message_index": 333,
+    "message_id": 77059,
+    "date": "2024-09-26T07:55:13+00:00",
+    "text": "teleSUR\nMueren seis presidiarios uruguayos durante incendio\nhttps://www.telesurtv.net/mueren-seis-presidiarios-uruguayos-durante-incendio/",
+    "photo_path": null,
+    "views": 2103,
+    "reactions": {
+      "🕊": 20,
+      "🤯": 3
+    },
+    "total_reactions": 23
+  },
+  "preprocessing": {
+    "cleaned": "como parte de un ataque premeditado, seis presidiarios fallecieron durante un incendio en la cárcel del departamento de montevideo, informaron este miércoles las autoridades uruguayas. los medios locales confirmaron que el ataque fue llevado a cabo por otros presos en el módulo cuatro del centro de reclusión santiago vázquez (excomcar), el más grande del país, y que, además, en la celda contigua a la del suceso se encontraba un preso herido. el ministerio del interior, a través de un comunicado, recalcó que “se produjo un foco ígneo, por causas que se tratan de establecer. de las primeras investigaciones surge que las celdas del sector estaban abiertas a excepción de la celda del incidente que estaba cerrada con seis cuerpos calcinados en su interior”. hasta la fecha, se registran “tratos crueles, inhumanos y degradantes” en el 43 por ciento de las cárceles existentes en el país, teniendo en cuenta un informe del comisionado parlamentario penitenciario. uruguay se encuentra entre los diez países con mayor tasa de encarcelamiento a nivel mundial, ocupando el primer lugar en américa del sur con 458 presos por cada 100.000 habitantes, según datos del comisionado parlamentario penitenciario hechos públicos el pasado 30 de abril.",
+    "tokens": [
+      "parte",
+      "ataque",
+      "premeditado",
+      ",",
+      "seis",
+      "presidiarios",
+      "fallecieron",
+      "incendio",
+      "cárcel",
+      "departamento",
+      "montevideo",
+      ",",
+      "informaron",
+      "miércoles",
+      "autoridades",
+      "uruguayas",
+      ".",
+      "medios",
+      "locales",
+      "confirmaron",
+      "ataque",
+      "llevado",
+      "cabo",
+      "presos",
+      "módulo",
+      "cuatro",
+      "centro",
+      "reclusión",
+      "santiago",
+      "vázquez",
+      "(",
+      "excomcar",
+      ")",
+      ",",
+      "grande",
+      "país",
+      ",",
+      ",",
+      "además",
+      ",",
+      "celda",
+      "contigua",
+      "suceso",
+      "encontraba",
+      "preso",
+      "herido",
+      ".",
+      "ministerio",
+      "interior",
+      ",",
+      "través",
+      "comunicado",
+      ",",
+      "recalcó",
+      "“",
+      "produjo",
+      "foco",
+      "ígneo",
+      ",",
+      "causas",
+      "tratan",
+      "establecer",
+      ".",
+      "primeras",
+      "investigaciones",
+      "surge",
+      "celdas",
+      "sector",
+      "abiertas",
+      "excepción",
+      "celda",
+      "incidente",
+      "cerrada",
+      "seis",
+      "cuerpos",
+      "calcinados",
+      "interior",
+      "”",
+      ".",
+      "fecha",
+      ",",
+      "registran",
+      "“",
+      "tratos",
+      "crueles",
+      ",",
+      "inhumanos",
+      "degradantes",
+      "”",
+      "43",
+      "ciento",
+      "cárceles",
+      "existentes",
+      "país",
+      ",",
+      "cuenta",
+      "informe",
+      "comisionado",
+      "parlamentario",
+      "penitenciario",
+      ".",
+      "uruguay",
+      "encuentra",
+      "diez",
+      "países",
+      "mayor",
+      "tasa",
+      "encarcelamiento",
+      "nivel",
+      "mundial",
+      ",",
+      "ocupando",
+      "primer",
+      "lugar",
+      "américa",
+      "sur",
+      "458",
+      "presos",
+      "cada",
+      "100.000",
+      "habitantes",
+      ",",
+      "según",
+      "datos",
+      "comisionado",
+      "parlamentario",
+      "penitenciario",
+      "hechos",
+      "públicos",
+      "pasado",
+      "30",
+      "abril",
+      "."
+    ],
+    "token_count": 133,
+    "sentence_count": 6
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 20,
+      "NN": 71,
+      "FW": 38,
+      "NNS": 10,
+      "VBP": 7,
+      "JJ": 21,
+      "IN": 10,
+      "VBZ": 5,
+      "RB": 1,
+      "CD": 4,
+      "VBD": 3
+    },
+    "bigram_freq": {
+      "NNP-NN": 6,
+      "NN-FW": 6,
+      "FW-FW": 21,
+      "FW-NN": 8,
+      "NN-NN": 41,
+      "NN-NNS": 2,
+      "NNS-VBP": 6,
+      "VBP-JJ": 3,
+      "JJ-JJ": 4,
+      "JJ-NN": 11,
+      "NN-IN": 8,
+      "IN-FW": 6,
+      "FW-NNP": 5,
+      "VBP-NNS": 1,
+      "NNS-JJ": 2,
+      "JJ-NNP": 2,
+      "NNP-NNS": 1,
+      "NNS-VBZ": 2,
+      "VBZ-NN": 1,
+      "IN-NN": 2,
+      "NNP-NNP": 7,
+      "FW-JJ": 2,
+      "NN-NNP": 3,
+      "NNP-FW": 4,
+      "NN-JJ": 4,
+      "FW-NNS": 2,
+      "JJ-NNS": 3,
+      "VBP-NN": 1,
+      "JJ-FW": 1,
+      "NN-VBP": 1,
+      "IN-JJ": 1,
+      "NN-VBZ": 2,
+      "VBZ-JJ": 3,
+      "VBP-RB": 1,
+      "RB-CD": 1,
+      "CD-JJ": 1,
+      "VBZ-IN": 1,
+      "NNP-VBD": 1,
+      "VBD-JJ": 1,
+      "IN-NNP": 1,
+      "NN-CD": 1,
+      "CD-NN": 1,
+      "NN-VBD": 2,
+      "VBD-CD": 2,
+      "CD-NNS": 1,
+      "VBP-NNP": 1,
+      "NNP-VBZ": 1,
+      "CD-IN": 1
+    },
+    "trigram_freq": {
+      "NNP-NN-FW": 1,
+      "NN-FW-FW": 4,
+      "FW-FW-NN": 6,
+      "FW-NN-NN": 3,
+      "NN-NN-NN": 25,
+      "NN-NN-NNS": 2,
+      "NN-NNS-VBP": 2,
+      "NNS-VBP-JJ": 2,
+      "VBP-JJ-JJ": 1,
+      "JJ-JJ-NN": 3,
+      "JJ-NN-IN": 2,
+      "NN-IN-FW": 5,
+      "IN-FW-FW": 3,
+      "FW-FW-FW": 11,
+      "FW-FW-NNP": 2,
+      "FW-NNP-NN": 2,
+      "NNP-NN-NN": 4,
+      "NNS-VBP-NNS": 1,
+      "VBP-NNS-JJ": 1,
+      "NNS-JJ-NNP": 1,
+      "JJ-NNP-NNS": 1,
+      "NNP-NNS-VBZ": 1,
+      "NNS-VBZ-NN": 1,
+      "VBZ-NN-NN": 1,
+      "NN-NN-IN": 5,
+      "NN-IN-NN": 1,
+      "IN-NN-FW": 1,
+      "FW-NN-FW": 3,
+      "NN-FW-NN": 2,
+      "FW-NN-IN": 1,
+      "IN-FW-NNP": 1,
+      "FW-NNP-NNP": 1,
+      "NNP-NNP-NN": 1,
+      "FW-FW-JJ": 1,
+      "FW-JJ-NN": 1,
+      "JJ-NN-NN": 6,
+      "NN-NN-NNP": 2,
+      "NN-NNP-NNP": 2,
+      "NNP-NNP-FW": 1,
+      "NNP-FW-NNP": 2,
+      "FW-NNP-FW": 2,
+      "NNP-FW-FW": 2,
+      "NN-NN-JJ": 3,
+      "NN-JJ-NN": 3,
+      "JJ-NN-NNP": 1,
+      "NN-NNP-NN": 1,
+      "JJ-NN-FW": 1,
+      "FW-FW-NNS": 1,
+      "FW-NNS-VBP": 1,
+      "VBP-JJ-NNS": 1,
+      "JJ-NNS-VBP": 3,
+      "NNS-VBP-NN": 1,
+      "VBP-NN-NN": 1,
+      "NN-JJ-FW": 1,
+      "JJ-FW-FW": 1,
+      "NN-NN-VBP": 1,
+      "NN-VBP-JJ": 1,
+      "VBP-JJ-NN": 1,
+      "NN-IN-JJ": 1,
+      "IN-JJ-JJ": 1,
+      "JJ-JJ-NNP": 1,
+      "JJ-NNP-NN": 1,
+      "NN-NN-VBZ": 2,
+      "NN-VBZ-JJ": 2,
+      "VBZ-JJ-NNS": 1,
+      "NNS-VBP-RB": 1,
+      "VBP-RB-CD": 1,
+      "RB-CD-JJ": 1,
+      "CD-JJ-NN": 1,
+      "IN-FW-NNS": 1,
+      "FW-NNS-VBZ": 1,
+      "NNS-VBZ-IN": 1,
+      "VBZ-IN-FW": 1,
+      "FW-NN-JJ": 1,
+      "NNP-NNP-NNP": 3,
+      "NNP-NNP-VBD": 1,
+      "NNP-VBD-JJ": 1,
+      "VBD-JJ-JJ": 1,
+      "VBZ-JJ-NN": 2,
+      "IN-FW-JJ": 1,
+      "FW-JJ-JJ": 1,
+      "NN-IN-NNP": 1,
+      "IN-NNP-FW": 1,
+      "NNP-NN-CD": 1,
+      "NN-CD-NN": 1,
+      "CD-NN-NN": 1,
+      "NN-NN-VBD": 1,
+      "NN-VBD-CD": 2,
+      "VBD-CD-NNS": 1,
+      "CD-NNS-JJ": 1,
+      "NNS-JJ-NNS": 1,
+      "NNS-VBP-NNP": 1,
+      "VBP-NNP-NNP": 1,
+      "NNP-NNP-VBZ": 1,
+      "NNP-VBZ-JJ": 1,
+      "JJ-NN-VBD": 1,
+      "VBD-CD-IN": 1,
+      "CD-IN-NN": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 71,
+        "FW": 38,
+        "JJ": 21,
+        "NNP": 20,
+        "NNS": 10
+      },
+      "top_bigrams": {
+        "NN-NN": 41,
+        "FW-FW": 21,
+        "JJ-NN": 11,
+        "FW-NN": 8,
+        "NN-IN": 8
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 25,
+        "FW-FW-FW": 11,
+        "FW-FW-NN": 6,
+        "JJ-NN-NN": 6,
+        "NN-IN-FW": 5
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 6,
+    "chunk_counts": {
+      "NP": 58,
+      "VP": 16,
+      "PP": 7,
+      "ADJP": 1
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 3,
+        "weight": 0.0341
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 3,
+        "weight": 0.0341
+      },
+      {
+        "rule": "S -> NP ('de', 'FW') ('un', 'FW') NP (',', ',') NP VP ('en', 'IN') ('la', 'FW') ('cárcel', 'FW') ('del', 'FW') ('departamento', 'FW') ('de', 'FW') NP (',', ',') NP VP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0114
+      },
+      {
+        "rule": "NP -> ('Como', 'NNP') ('parte', 'NN')",
+        "frequency": 1,
+        "weight": 0.0114
+      },
+      {
+        "rule": "NP -> ('ataque', 'NN') ('premeditado', 'NN')",
+        "frequency": 1,
+        "weight": 0.0114
+      },
+      {
+        "rule": "NP -> ('seis', 'JJ') ('presidiarios', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0114
+      },
+      {
+        "rule": "VP -> ('fallecieron', 'VBP') NP",
+        "frequency": 1,
+        "weight": 0.0114
+      },
+      {
+        "rule": "NP -> ('durante', 'JJ') ('un', 'JJ') ('incendio', 'NN')",
+        "frequency": 1,
+        "weight": 0.0114
+      },
+      {
+        "rule": "NP -> ('Montevideo', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0114
+      },
+      {
+        "rule": "NP -> ('informaron', 'NN') ('este', 'NN') ('miércoles', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0114
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Como parte"
+      },
+      {
+        "label": "NP",
+        "text": "ataque premeditado"
+      },
+      {
+        "label": "NP",
+        "text": "seis presidiarios"
+      },
+      {
+        "label": "VP",
+        "text": "fallecieron durante un incendio"
+      },
+      {
+        "label": "NP",
+        "text": "durante un incendio"
+      },
+      {
+        "label": "NP",
+        "text": "Montevideo"
+      },
+      {
+        "label": "NP",
+        "text": "informaron este miércoles"
+      },
+      {
+        "label": "VP",
+        "text": "las autoridades uruguayas"
+      },
+      {
+        "label": "NP",
+        "text": "autoridades"
+      },
+      {
+        "label": "NP",
+        "text": "Los medios"
+      },
+      {
+        "label": "VP",
+        "text": "locales confirmaron que el ataque fue"
+      },
+      {
+        "label": "NP",
+        "text": "confirmaron que el ataque fue"
+      },
+      {
+        "label": "VP",
+        "text": "llevado a cabo por"
+      },
+      {
+        "label": "NP",
+        "text": "a cabo por"
+      },
+      {
+        "label": "PP",
+        "text": "otros presos"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Como/NNP parte/NN)\n  de/FW\n  un/FW\n  (NP ataque/NN premeditado/NN)\n  ,/,\n  (NP seis/JJ presidiarios/NNS)\n  (VP fallecieron/VBP (NP durante/JJ un/JJ incendio/NN))\n  en/IN\n  la/FW\n  cárcel/FW\n  del/FW\n  departamento/FW\n  de/FW\n  (NP Montevideo/NNP)\n  ,/,\n  (NP informaron/NN este/NN miércoles/NNS)\n  (VP las/VBP (NP autoridades/NNS) uruguayas/JJ)\n  ./.)",
+      "(S\n  (NP Los/NNP medios/NNS)\n  (VP locales/VBZ (NP confirmaron/NN que/NN el/NN ataque/NN fue/NN))\n  (VP llevado/VBZ (NP a/DT cabo/NN por/NN))\n  (PP otros/IN (NP presos/NN))\n  en/FW\n  el/FW\n  módulo/FW\n  (NP cuatro/NN)\n  del/FW\n  (NP centro/NN)\n  de/IN\n  reclusión/FW\n  (NP Santiago/NNP Vázquez/NNP)\n  (/(\n  (NP exComcar/NN)\n  )/)\n  ,/,\n  (NP el/JJ más/NN grande/NN del/NN país/NN)\n  ,/,\n  (NP y/NN que/NN)\n  ,/,\n  (NP además/NN)\n  ,/,\n  en/FW\n  la/FW\n  celda/FW\n  contigua/FW\n  a/DT\n  la/FW\n  del/FW\n  suceso/FW\n  se/FW\n  encontraba/FW\n  (NP un/JJ preso/NN herido/NN)\n  ./.)",
+      "(S\n  (NP El/NNP Ministerio/NNP)\n  del/FW\n  (NP Interior/NNP)\n  ,/,\n  (NP a/DT través/NN)\n  (PP de/IN (NP un/JJ comunicado/NN))\n  ,/,\n  (NP recalcó/NN que/NN “/NNP se/NN produjo/NN)\n  (NP un/JJ foco/NN ígneo/NN)\n  ,/,\n  (NP por/JJ causas/NN que/NN)\n  (NP se/JJ tratan/NN)\n  (PP de/IN (NP establecer/NN))\n  ./.)",
+      "(S\n  (NP De/NNP)\n  las/FW\n  primeras/FW\n  (NP investigaciones/NNS)\n  (VP surge/VBP (NP que/JJ las/NNS))\n  (VP celdas/VBP (NP del/NN sector/NN estaban/NN))\n  (VP abiertas/VBD (NP a/DT excepción/NN))\n  de/IN\n  la/FW\n  celda/FW\n  del/FW\n  (NP incidente/NN que/NN)\n  (VP\n    estaba/VBP\n    (NP cerrada/JJ con/NN seis/NN cuerpos/NN calcinados/NN))\n  (PP en/IN (NP su/JJ interior/JJ ”/NN))\n  ./.)",
+      "(S\n  (NP Hasta/NNP la/NN fecha/NN)\n  ,/,\n  se/FW\n  (NP registran/NN “/NNP tratos/NN crueles/NNS)\n  ,/,\n  (NP inhumanos/NNS)\n  (VP y/VBP (NP degradantes/NNS))\n  (VP ”/VBP)\n  en/IN\n  el/$\n  43/CD\n  (NP por/NN ciento/NN)\n  de/IN\n  las/FW\n  (NP cárceles/NNS)\n  (VP existentes/VBZ)\n  (PP en/IN (NP el/NN país/NN))\n  ,/,\n  (NP teniendo/NN)\n  en/FW\n  (NP cuenta/NN)\n  (NP\n    un/JJ\n    informe/NN\n    del/NN\n    Comisionado/NNP\n    Parlamentario/NNP\n    Penitenciario/NNP)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "CIUDADES_CAPITALES",
+      "REGIONES_PROVINCIAS",
+      "INSTITUCIONES_EDUCATIVAS",
+      "PAISES",
+      "LOCALIZACIONES_ESPECIFICAS",
+      "ECONOMIA_COMERCIO_FINANZAS"
+    ],
+    "matches": [
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "tasa",
+        "position": [
+          1021,
+          1025
+        ],
+        "start": 1021,
+        "end": 1025
+      },
+      {
+        "category": "INSTITUCIONES_EDUCATIVAS",
+        "matched_text": "departamento de montevideo",
+        "position": [
+          104,
+          130
+        ],
+        "start": 104,
+        "end": 130
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "uruguay",
+        "position": [
+          968,
+          975
+        ],
+        "start": 968,
+        "end": 975
+      },
+      {
+        "category": "CIUDADES_CAPITALES",
+        "matched_text": "santiago",
+        "position": [
+          310,
+          318
+        ],
+        "start": 310,
+        "end": 318
+      },
+      {
+        "category": "CIUDADES_CAPITALES",
+        "matched_text": "montevideo",
+        "position": [
+          120,
+          130
+        ],
+        "start": 120,
+        "end": 130
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "departamento de",
+        "position": [
+          104,
+          119
+        ],
+        "start": 104,
+        "end": 119
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "centro de",
+        "position": [
+          290,
+          299
+        ],
+        "start": 290,
+        "end": 299
+      }
+    ],
+    "match_count": 7
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "América del Sur",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Comisionado Parlamentario Penitenciario",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "departamento de Montevideo",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Uruguay",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Ministerio del Interior",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Santiago Vázquez",
+        "tipo": "Persona"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Uruguay",
+        "relacion": "ENCONTRAR",
+        "objeto": "América del Sur"
+      },
+      {
+        "sujeto": "Uruguay",
+        "relacion": "ENCONTRAR",
+        "objeto": "Comisionado Parlamentario Penitenciario"
+      },
+      {
+        "sujeto": "América del Sur",
+        "relacion": "OCUPAR_ENCONTRAR",
+        "objeto": "Comisionado Parlamentario Penitenciario"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.0,
+    "pos": 0.0,
+    "neu": 1.0,
+    "neg": 0.0,
+    "label": "neutral"
+  }
+}

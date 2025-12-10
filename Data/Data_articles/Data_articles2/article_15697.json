@@ -1,0 +1,567 @@
+{
+  "url": "https://www.telesurtv.net/ataque-con-arma-blanca-en-un-bar-en-mexico-deja-seis-personas-muertas/",
+  "title": "Ataque con arma blanca en un bar en México deja seis personas muertas - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "América Latina",
+    "Asesinato",
+    "Caribe",
+    "México",
+    "Tabasco"
+  ],
+  "text": "El jueves por la tarde, se registró un trágico incidente en el que seis personas perdieron la vida en un bar clandestino denominado “De Luci”, ubicado en la Villa San Carlos del municipio de Macuspana, Tabasco.\nSe trató de un ataque con arma blanca llevado a cabo por tres individuos aterrorizó a quienes se encontraban disfrutando en el establecimiento, dejando como resultado al menos seis personas fallecidas y nueve heridas, incluyendo dos en estado crítico y un policía estatal.\nSegún informes preliminares, los agresores ingresaron al bar a bordo de motocicletas y sin mediar palabra comenzaron a atacar a los presentes con navajas. Aunque existen versiones que sugieren que también estaban armados de fuego, tal información aún no ha sido confirmada por las autoridades.\nLas víctimas heridas fueron rápidamente trasladadas al hospital regional y a un centro médico en la capital del estado para recibir atención especializada. Hasta el momento, se mantiene reservada la identidad de los implicados y las circunstancias que motivaron este sangriento suceso.\nEn respuesta a este lamentable incidente, las autoridades han desplegado un operativo en la zona para esclarecer los hechos y garantizar la seguridad de la comunidad.\nA pesar de la ola de violencia que ha golpeado a la región, aún no se han emitido declaraciones oficiales respecto a este nuevo episodio, que se suma a los tres asesinatos ocurridos el pasado domingo en el mismo municipio.\nPor ahora las autoridades mexicanas están inmersas en la investigación para esclarecer este crimen.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/ataque-con-arma-blanca-en-un-bar-en-mexico-deja-seis-personas-muertas/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-06.json",
+    "message_index": 572,
+    "message_id": 72171,
+    "date": "2024-06-14T06:55:13+00:00",
+    "text": "teleSUR\nAtaque con arma blanca en un bar en México deja seis personas muertas\nhttps://www.telesurtv.net/ataque-con-arma-blanca-en-un-bar-en-mexico-deja-seis-personas-muertas/",
+    "photo_path": null,
+    "views": 1114,
+    "reactions": {},
+    "total_reactions": 0
+  },
+  "preprocessing": {
+    "cleaned": "el jueves por la tarde, se registró un trágico incidente en el que seis personas perdieron la vida en un bar clandestino denominado “de luci”, ubicado en la villa san carlos del municipio de macuspana, tabasco. se trató de un ataque con arma blanca llevado a cabo por tres individuos aterrorizó a quienes se encontraban disfrutando en el establecimiento, dejando como resultado al menos seis personas fallecidas y nueve heridas, incluyendo dos en estado crítico y un policía estatal. según informes preliminares, los agresores ingresaron al bar a bordo de motocicletas y sin mediar palabra comenzaron a atacar a los presentes con navajas. aunque existen versiones que sugieren que también estaban armados de fuego, tal información aún no ha sido confirmada por las autoridades. las víctimas heridas fueron rápidamente trasladadas al hospital regional y a un centro médico en la capital del estado para recibir atención especializada. hasta el momento, se mantiene reservada la identidad de los implicados y las circunstancias que motivaron este sangriento suceso. en respuesta a este lamentable incidente, las autoridades han desplegado un operativo en la zona para esclarecer los hechos y garantizar la seguridad de la comunidad. a pesar de la ola de violencia que ha golpeado a la región, aún no se han emitido declaraciones oficiales respecto a este nuevo episodio, que se suma a los tres asesinatos ocurridos el pasado domingo en el mismo municipio. por ahora las autoridades mexicanas están inmersas en la investigación para esclarecer este crimen.",
+    "tokens": [
+      "jueves",
+      "tarde",
+      ",",
+      "registró",
+      "trágico",
+      "incidente",
+      "seis",
+      "personas",
+      "perdieron",
+      "vida",
+      "bar",
+      "clandestino",
+      "denominado",
+      "“",
+      "luci",
+      "”",
+      ",",
+      "ubicado",
+      "villa",
+      "san",
+      "carlos",
+      "municipio",
+      "macuspana",
+      ",",
+      "tabasco",
+      ".",
+      "trató",
+      "ataque",
+      "arma",
+      "blanca",
+      "llevado",
+      "cabo",
+      "tres",
+      "individuos",
+      "aterrorizó",
+      "encontraban",
+      "disfrutando",
+      "establecimiento",
+      ",",
+      "dejando",
+      "resultado",
+      "menos",
+      "seis",
+      "personas",
+      "fallecidas",
+      "nueve",
+      "heridas",
+      ",",
+      "incluyendo",
+      "dos",
+      "crítico",
+      "policía",
+      "estatal",
+      ".",
+      "según",
+      "informes",
+      "preliminares",
+      ",",
+      "agresores",
+      "ingresaron",
+      "bar",
+      "bordo",
+      "motocicletas",
+      "mediar",
+      "palabra",
+      "comenzaron",
+      "atacar",
+      "presentes",
+      "navajas",
+      ".",
+      "aunque",
+      "existen",
+      "versiones",
+      "sugieren",
+      "armados",
+      "fuego",
+      ",",
+      "tal",
+      "información",
+      "aún",
+      "sido",
+      "confirmada",
+      "autoridades",
+      ".",
+      "víctimas",
+      "heridas",
+      "rápidamente",
+      "trasladadas",
+      "hospital",
+      "regional",
+      "centro",
+      "médico",
+      "capital",
+      "recibir",
+      "atención",
+      "especializada",
+      ".",
+      "momento",
+      ",",
+      "mantiene",
+      "reservada",
+      "identidad",
+      "implicados",
+      "circunstancias",
+      "motivaron",
+      "sangriento",
+      "suceso",
+      ".",
+      "respuesta",
+      "lamentable",
+      "incidente",
+      ",",
+      "autoridades",
+      "desplegado",
+      "operativo",
+      "zona",
+      "esclarecer",
+      "hechos",
+      "garantizar",
+      "seguridad",
+      "comunidad",
+      ".",
+      "pesar",
+      "ola",
+      "violencia",
+      "golpeado",
+      "región",
+      ",",
+      "aún",
+      "emitido",
+      "declaraciones",
+      "oficiales",
+      "respecto",
+      "nuevo",
+      "episodio",
+      ",",
+      "suma",
+      "tres",
+      "asesinatos",
+      "ocurridos",
+      "pasado",
+      "domingo",
+      "mismo",
+      "municipio",
+      ".",
+      "ahora",
+      "autoridades",
+      "mexicanas",
+      "inmersas",
+      "investigación",
+      "esclarecer",
+      "crimen",
+      "."
+    ],
+    "token_count": 153,
+    "sentence_count": 9
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 15,
+      "VBZ": 9,
+      "JJ": 35,
+      "NN": 92,
+      "FW": 40,
+      "NNS": 15,
+      "IN": 11,
+      "VBP": 10,
+      "DT": 2
+    },
+    "bigram_freq": {
+      "NNP-VBZ": 1,
+      "VBZ-JJ": 6,
+      "JJ-NN": 20,
+      "NN-NN": 55,
+      "NN-JJ": 7,
+      "NN-FW": 6,
+      "FW-FW": 24,
+      "FW-NN": 9,
+      "FW-JJ": 4,
+      "NN-NNP": 2,
+      "NNP-NNP": 5,
+      "NNP-JJ": 1,
+      "JJ-FW": 1,
+      "FW-NNP": 3,
+      "NNP-FW": 1,
+      "NNP-NN": 5,
+      "NN-VBZ": 6,
+      "JJ-JJ": 6,
+      "JJ-NNS": 5,
+      "NNS-JJ": 2,
+      "NN-IN": 10,
+      "IN-FW": 8,
+      "IN-NNS": 1,
+      "NNS-VBP": 8,
+      "VBP-JJ": 7,
+      "JJ-NNP": 3,
+      "NNP-NNS": 1,
+      "NNS-VBZ": 1,
+      "NN-NNS": 5,
+      "VBZ-DT": 2,
+      "DT-NN": 2,
+      "VBZ-NNP": 1,
+      "IN-JJ": 2,
+      "NNS-IN": 1,
+      "NN-VBP": 1,
+      "VBP-VBZ": 1,
+      "NNS-NNS": 2,
+      "VBP-NN": 1,
+      "NNP-VBP": 1,
+      "VBP-NNS": 1
+    },
+    "trigram_freq": {
+      "NNP-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 2,
+      "JJ-NN-NN": 12,
+      "NN-NN-NN": 34,
+      "NN-NN-JJ": 3,
+      "NN-JJ-NN": 6,
+      "NN-NN-FW": 4,
+      "NN-FW-FW": 5,
+      "FW-FW-NN": 5,
+      "FW-NN-NN": 6,
+      "FW-FW-JJ": 3,
+      "FW-JJ-NN": 4,
+      "NN-NN-NNP": 2,
+      "NN-NNP-NNP": 1,
+      "NNP-NNP-JJ": 1,
+      "NNP-JJ-FW": 1,
+      "JJ-FW-FW": 1,
+      "FW-FW-NNP": 2,
+      "FW-NNP-NNP": 2,
+      "NNP-NNP-NNP": 2,
+      "NNP-NNP-FW": 1,
+      "NNP-FW-NN": 1,
+      "FW-NN-FW": 1,
+      "NN-FW-NNP": 1,
+      "NNP-NNP-NN": 1,
+      "NNP-NN-FW": 1,
+      "NN-NN-VBZ": 3,
+      "NN-VBZ-JJ": 4,
+      "VBZ-JJ-JJ": 2,
+      "JJ-JJ-NNS": 1,
+      "JJ-NNS-JJ": 1,
+      "NNS-JJ-JJ": 1,
+      "JJ-JJ-NN": 3,
+      "JJ-NN-IN": 4,
+      "NN-IN-FW": 8,
+      "IN-FW-FW": 4,
+      "NN-NN-IN": 6,
+      "NN-IN-NNS": 1,
+      "IN-NNS-VBP": 1,
+      "NNS-VBP-JJ": 7,
+      "VBP-JJ-NNS": 1,
+      "JJ-NNS-VBP": 3,
+      "VBP-JJ-NN": 4,
+      "IN-FW-NN": 3,
+      "FW-NN-JJ": 1,
+      "JJ-NN-JJ": 2,
+      "NN-JJ-NNP": 1,
+      "JJ-NNP-NNS": 1,
+      "NNP-NNS-VBZ": 1,
+      "NNS-VBZ-JJ": 1,
+      "VBZ-JJ-NNS": 2,
+      "JJ-JJ-NNP": 1,
+      "JJ-NNP-NN": 2,
+      "NNP-NN-NNS": 1,
+      "NN-NNS-JJ": 1,
+      "NNS-JJ-NNS": 1,
+      "VBP-JJ-JJ": 2,
+      "IN-FW-JJ": 1,
+      "JJ-NN-VBZ": 1,
+      "NN-VBZ-DT": 1,
+      "VBZ-DT-NN": 2,
+      "DT-NN-VBZ": 2,
+      "NN-VBZ-NNP": 1,
+      "VBZ-NNP-NN": 1,
+      "NNP-NN-NN": 3,
+      "NN-NN-NNS": 2,
+      "NN-NNS-VBP": 2,
+      "JJ-JJ-JJ": 1,
+      "NN-IN-JJ": 1,
+      "IN-JJ-NNP": 1,
+      "FW-FW-FW": 14,
+      "NN-NNP-NN": 1,
+      "JJ-NN-NNS": 1,
+      "NN-NNS-IN": 1,
+      "NNS-IN-JJ": 1,
+      "IN-JJ-NN": 1,
+      "NN-NN-VBP": 1,
+      "NN-VBP-VBZ": 1,
+      "VBP-VBZ-DT": 1,
+      "JJ-NNS-NNS": 1,
+      "NNS-NNS-VBP": 2,
+      "NNS-VBP-NN": 1,
+      "VBP-NN-JJ": 1,
+      "FW-NNP-VBP": 1,
+      "NNP-VBP-NNS": 1,
+      "VBP-NNS-NNS": 1,
+      "FW-NN-NNS": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 92,
+        "FW": 40,
+        "JJ": 35,
+        "NNP": 15,
+        "NNS": 15
+      },
+      "top_bigrams": {
+        "NN-NN": 55,
+        "FW-FW": 24,
+        "JJ-NN": 20,
+        "NN-IN": 10,
+        "FW-NN": 9
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 34,
+        "FW-FW-FW": 14,
+        "JJ-NN-NN": 12,
+        "NN-IN-FW": 8,
+        "NNS-VBP-JJ": 7
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 9,
+    "chunk_counts": {
+      "NP": 67,
+      "VP": 23,
+      "ADJP": 2,
+      "PP": 5
+    },
+    "top_rules": [
+      {
+        "rule": "NP -> ('municipio', 'NN')",
+        "frequency": 2,
+        "weight": 0.0189
+      },
+      {
+        "rule": "NP -> ('a', 'DT') ('los', 'NN')",
+        "frequency": 2,
+        "weight": 0.0189
+      },
+      {
+        "rule": "VP -> ('aún', 'VBZ') NP",
+        "frequency": 2,
+        "weight": 0.0189
+      },
+      {
+        "rule": "S -> NP VP (',', ',') ('se', 'FW') ('registró', 'FW') NP ('en', 'FW') ('el', 'FW') NP ('vida', 'FW') ('en', 'FW') NP (',', ',') ADJP ('en', 'FW') ('la', 'FW') NP ('del', 'FW') NP ('de', 'FW') NP (',', ',') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0094
+      },
+      {
+        "rule": "NP -> ('El', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0094
+      },
+      {
+        "rule": "VP -> ('jueves', 'VBZ') NP",
+        "frequency": 1,
+        "weight": 0.0094
+      },
+      {
+        "rule": "NP -> ('por', 'JJ') ('la', 'NN') ('tarde', 'NN')",
+        "frequency": 1,
+        "weight": 0.0094
+      },
+      {
+        "rule": "NP -> ('un', 'JJ') ('trágico', 'NN') ('incidente', 'NN')",
+        "frequency": 1,
+        "weight": 0.0094
+      },
+      {
+        "rule": "NP -> ('que', 'NN') ('seis', 'NN') ('personas', 'NN') ('perdieron', 'NN') ('la', 'NN')",
+        "frequency": 1,
+        "weight": 0.0094
+      },
+      {
+        "rule": "NP -> ('un', 'JJ') ('bar', 'NN') ('clandestino', 'NN') ('denominado', 'NN') ('“', 'NNP') ('De', 'NNP') ('Luci', 'NNP') ('”', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0094
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El"
+      },
+      {
+        "label": "VP",
+        "text": "jueves por la tarde"
+      },
+      {
+        "label": "NP",
+        "text": "por la tarde"
+      },
+      {
+        "label": "NP",
+        "text": "un trágico incidente"
+      },
+      {
+        "label": "NP",
+        "text": "que seis personas perdieron la"
+      },
+      {
+        "label": "NP",
+        "text": "un bar clandestino denominado “ De Luci ”"
+      },
+      {
+        "label": "ADJP",
+        "text": "ubicado"
+      },
+      {
+        "label": "NP",
+        "text": "Villa San Carlos"
+      },
+      {
+        "label": "NP",
+        "text": "municipio"
+      },
+      {
+        "label": "NP",
+        "text": "Macuspana"
+      },
+      {
+        "label": "NP",
+        "text": "Tabasco"
+      },
+      {
+        "label": "NP",
+        "text": "Se trató"
+      },
+      {
+        "label": "NP",
+        "text": "ataque con arma blanca"
+      },
+      {
+        "label": "VP",
+        "text": "llevado a cabo por"
+      },
+      {
+        "label": "NP",
+        "text": "a cabo por"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP El/NNP)\n  (VP jueves/VBZ (NP por/JJ la/NN tarde/NN))\n  ,/,\n  se/FW\n  registró/FW\n  (NP un/JJ trágico/NN incidente/NN)\n  en/FW\n  el/FW\n  (NP que/NN seis/NN personas/NN perdieron/NN la/NN)\n  vida/FW\n  en/FW\n  (NP\n    un/JJ\n    bar/NN\n    clandestino/NN\n    denominado/NN\n    “/NNP\n    De/NNP\n    Luci/NNP\n    ”/NNP)\n  ,/,\n  (ADJP ubicado/JJ)\n  en/FW\n  la/FW\n  (NP Villa/NNP San/NNP Carlos/NNP)\n  del/FW\n  (NP municipio/NN)\n  de/FW\n  (NP Macuspana/NNP)\n  ,/,\n  (NP Tabasco/NNP)\n  ./.)",
+      "(S\n  (NP Se/NNP trató/NN)\n  de/FW\n  un/FW\n  (NP ataque/JJ con/NN arma/NN blanca/NN)\n  (VP llevado/VBZ (NP a/DT cabo/NN por/NN))\n  (VP tres/VBZ individuos/JJ)\n  (PP aterrorizó/IN (NP a/DT quienes/NNS))\n  se/FW\n  encontraban/FW\n  disfrutando/FW\n  en/FW\n  el/FW\n  establecimiento/FW\n  ,/,\n  dejando/FW\n  (NP como/NN resultado/NN)\n  (PP al/IN (NP menos/NNS))\n  (VP seis/VBP (NP personas/JJ fallecidas/NNS))\n  (VP y/VBP (NP nueve/JJ heridas/NN))\n  ,/,\n  (NP incluyendo/JJ dos/NN)\n  en/IN\n  estado/FW\n  (NP crítico/NN y/NN)\n  (NP un/JJ policía/NN estatal/NN)\n  ./.)",
+      "(S\n  (NP Según/NNP)\n  (VP informes/VBZ (NP preliminares/NNS))\n  ,/,\n  (NP los/JJ agresores/NNS)\n  (VP ingresaron/VBP (NP al/JJ bar/NN) (NP a/DT bordo/NN))\n  de/IN\n  motocicletas/FW\n  y/FW\n  (NP sin/NN mediar/NN palabra/NN)\n  (VP comenzaron/VBZ (NP a/DT atacar/NN) (NP a/DT los/NN))\n  (VP presentes/VBZ (NP con/JJ navajas/NN))\n  ./.)",
+      "(S\n  (NP Aunque/NNP)\n  existen/CC\n  (NP versiones/NNS)\n  (NP que/JJ sugieren/NNS)\n  (VP que/VBP (NP también/JJ estaban/JJ armados/NN))\n  (PP de/IN (NP fuego/NN))\n  ,/,\n  (NP tal/JJ información/NN)\n  (VP aún/VBZ (NP no/DT ha/NN))\n  (VP sido/VBZ (NP confirmada/JJ por/NN las/NNS autoridades/NNS))\n  ./.)",
+      "(S\n  (NP\n    Las/NNP\n    víctimas/NN\n    heridas/NN\n    fueron/NN\n    rápidamente/NN\n    trasladadas/NNS)\n  (VP\n    al/VBP\n    (NP hospital/JJ regional/JJ y/NN)\n    (NP a/DT un/JJ centro/NN médico/NN))\n  en/IN\n  la/FW\n  (NP capital/NN del/NN estado/NN para/NN recibir/NN)\n  (PP atención/IN (NP especializada/NN))\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "LOCALIZACIONES_ESPECIFICAS",
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "INFRAESTRUCTURA_SERVICIOS",
+      "REGIONES_PROVINCIAS"
+    ],
+    "matches": [
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "capital",
+        "position": [
+          878,
+          885
+        ],
+        "start": 878,
+        "end": 885
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "hospital",
+        "position": [
+          833,
+          841
+        ],
+        "start": 833,
+        "end": 841
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "estado crítico",
+        "position": [
+          447,
+          461
+        ],
+        "start": 447,
+        "end": 461
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "centro médico",
+        "position": [
+          858,
+          871
+        ],
+        "start": 858,
+        "end": 871
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "hospital regional",
+        "position": [
+          833,
+          850
+        ],
+        "start": 833,
+        "end": 850
+      }
+    ],
+    "match_count": 5
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Villa San Carlos",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Tabasco",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Macuspana",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": []
+  },
+  "sentiment": {
+    "compound": -0.6908,
+    "pos": 0.02,
+    "neu": 0.936,
+    "neg": 0.044,
+    "label": "negative"
+  }
+}

@@ -1,0 +1,774 @@
+{
+  "url": "https://www.telesurtv.net/indepaz-denuncia-asesinato-de-una-lideresa-social-en-boyaca-colombia/",
+  "title": "Indepaz denuncia asesinato de una lideresa social en Boyacá, Colombia - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "Colombia",
+    "Indepaz",
+    "Indepaz denuncia el asesinato de una lideresa social Puerto Boyacá"
+  ],
+  "text": "El Instituto de Estudios para el Desarrollo y la Paz (Indepaz) de Colombia denunció este martes el asesinato de la lideresa social Beyanid González Rojas, presidenta de la Junta de Acción Comunal del barrio Estanco de los Mangos en el municipio de Puerto Boyacá, ubicado en el departamento de Boyacá.\n“Beyanid González Rojas era una reconocida lideresa y actual presidenta de la Junta de Acción Comunal del barrio Estanco de los Mangos en el municipio de Puerto Boyacá, Boyacá”, informó Indepaz en su cuenta de X.\nDe acuerdo con la publicación de ese ente colombiano, la lideresa fue asesinada por dos hombres en el interior de su domicilio, quienes la atacaron con armas blancas.\nAnte el hecho, la Defensoría del Pueblo emitió “la Alerta 019/23 para lideres lideresas y defensores de DDHH, en las cuales señala el escenario de riesgo al que se enfrentan personas que se dedican a la defensa de los derechos humanos y el liderazgo social de manera individual y colectiva desde diversos ámbitos o sectores en el país”.\nAsimismo, Indepaz apunta que está presente “la imposición de normas y otras formas de control social por parte de los grupos armados” que “significan un permanente riesgo de violación de los derechos de la población”.\nEntre los grupos que hacen presencia en el departamento, figuran grupos armados sin identificar, jurisdicción del ejército colombiano.\nCon el asesinato de Beyanid González Rojas, en Colombia suman 104 líderes sociales asesinados en lo que va del año 2024.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/indepaz-denuncia-asesinato-de-una-lideresa-social-en-boyaca-colombia/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-08.json",
+    "message_index": 1002,
+    "message_id": 74499,
+    "date": "2024-08-14T03:55:37+00:00",
+    "text": "teleSUR\nIndepaz denuncia asesinato de una lideresa social en Boyacá, Colombia\nhttps://www.telesurtv.net/indepaz-denuncia-asesinato-de-una-lideresa-social-en-boyaca-colombia/",
+    "photo_path": null,
+    "views": 2837,
+    "reactions": {
+      "🤬": 31,
+      "🤯": 8,
+      "👍": 5,
+      "🔥": 2,
+      "💩": 2,
+      "😭": 2,
+      "❤": 1
+    },
+    "total_reactions": 51
+  },
+  "preprocessing": {
+    "cleaned": "el instituto de estudios para el desarrollo y la paz (indepaz) de colombia denunció este martes el asesinato de la lideresa social beyanid gonzález rojas, presidenta de la junta de acción comunal del barrio estanco de los mangos en el municipio de puerto boyacá, ubicado en el departamento de boyacá. “beyanid gonzález rojas era una reconocida lideresa y actual presidenta de la junta de acción comunal del barrio estanco de los mangos en el municipio de puerto boyacá, boyacá”, informó indepaz en su cuenta de x. de acuerdo con la publicación de ese ente colombiano, la lideresa fue asesinada por dos hombres en el interior de su domicilio, quienes la atacaron con armas blancas. ante el hecho, la defensoría del pueblo emitió “la alerta 019/23 para lideres lideresas y defensores de ddhh, en las cuales señala el escenario de riesgo al que se enfrentan personas que se dedican a la defensa de los derechos humanos y el liderazgo social de manera individual y colectiva desde diversos ámbitos o sectores en el país”. asimismo, indepaz apunta que está presente “la imposición de normas y otras formas de control social por parte de los grupos armados” que “significan un permanente riesgo de violación de los derechos de la población”. entre los grupos que hacen presencia en el departamento, figuran grupos armados sin identificar, jurisdicción del ejército colombiano. con el asesinato de beyanid gonzález rojas, en colombia suman 104 líderes sociales asesinados en lo que va del año 2024.",
+    "tokens": [
+      "instituto",
+      "estudios",
+      "desarrollo",
+      "paz",
+      "(",
+      "indepaz",
+      ")",
+      "colombia",
+      "denunció",
+      "martes",
+      "asesinato",
+      "lideresa",
+      "social",
+      "beyanid",
+      "gonzález",
+      "rojas",
+      ",",
+      "presidenta",
+      "junta",
+      "acción",
+      "comunal",
+      "barrio",
+      "estanco",
+      "mangos",
+      "municipio",
+      "puerto",
+      "boyacá",
+      ",",
+      "ubicado",
+      "departamento",
+      "boyacá",
+      ".",
+      "“",
+      "beyanid",
+      "gonzález",
+      "rojas",
+      "reconocida",
+      "lideresa",
+      "actual",
+      "presidenta",
+      "junta",
+      "acción",
+      "comunal",
+      "barrio",
+      "estanco",
+      "mangos",
+      "municipio",
+      "puerto",
+      "boyacá",
+      ",",
+      "boyacá",
+      "”",
+      ",",
+      "informó",
+      "indepaz",
+      "cuenta",
+      "x.",
+      "acuerdo",
+      "publicación",
+      "ente",
+      "colombiano",
+      ",",
+      "lideresa",
+      "asesinada",
+      "dos",
+      "hombres",
+      "interior",
+      "domicilio",
+      ",",
+      "atacaron",
+      "armas",
+      "blancas",
+      ".",
+      "hecho",
+      ",",
+      "defensoría",
+      "pueblo",
+      "emitió",
+      "“",
+      "alerta",
+      "019/23",
+      "lideres",
+      "lideresas",
+      "defensores",
+      "ddhh",
+      ",",
+      "cuales",
+      "señala",
+      "escenario",
+      "riesgo",
+      "enfrentan",
+      "personas",
+      "dedican",
+      "defensa",
+      "derechos",
+      "humanos",
+      "liderazgo",
+      "social",
+      "manera",
+      "individual",
+      "colectiva",
+      "diversos",
+      "ámbitos",
+      "sectores",
+      "país",
+      "”",
+      ".",
+      "asimismo",
+      ",",
+      "indepaz",
+      "apunta",
+      "presente",
+      "“",
+      "imposición",
+      "normas",
+      "formas",
+      "control",
+      "social",
+      "parte",
+      "grupos",
+      "armados",
+      "”",
+      "“",
+      "significan",
+      "permanente",
+      "riesgo",
+      "violación",
+      "derechos",
+      "población",
+      "”",
+      ".",
+      "grupos",
+      "hacen",
+      "presencia",
+      "departamento",
+      ",",
+      "figuran",
+      "grupos",
+      "armados",
+      "identificar",
+      ",",
+      "jurisdicción",
+      "ejército",
+      "colombiano",
+      ".",
+      "asesinato",
+      "beyanid",
+      "gonzález",
+      "rojas",
+      ",",
+      "colombia",
+      "suman",
+      "104",
+      "líderes",
+      "sociales",
+      "asesinados",
+      "va",
+      "año",
+      "2024",
+      "."
+    ],
+    "token_count": 160,
+    "sentence_count": 7
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 46,
+      "IN": 14,
+      "NN": 59,
+      "FW": 75,
+      "NNS": 9,
+      "VBP": 8,
+      "JJ": 19,
+      "VBZ": 3,
+      "CD": 3,
+      "VBD": 1
+    },
+    "bigram_freq": {
+      "NNP-NNP": 17,
+      "NNP-IN": 5,
+      "IN-NNP": 4,
+      "NNP-NN": 4,
+      "NN-NN": 27,
+      "NN-NNP": 8,
+      "NNP-FW": 14,
+      "FW-NN": 13,
+      "NN-NNS": 5,
+      "NNS-VBP": 6,
+      "VBP-NN": 2,
+      "NN-IN": 7,
+      "IN-FW": 9,
+      "FW-FW": 40,
+      "FW-JJ": 7,
+      "JJ-NNP": 1,
+      "FW-NNP": 15,
+      "NNP-JJ": 1,
+      "JJ-FW": 3,
+      "NN-VBP": 2,
+      "VBP-JJ": 5,
+      "JJ-NN": 11,
+      "NNP-VBZ": 3,
+      "VBZ-JJ": 1,
+      "NN-FW": 7,
+      "NNP-CD": 1,
+      "CD-NN": 1,
+      "NNS-JJ": 1,
+      "JJ-NNS": 2,
+      "NNS-IN": 1,
+      "JJ-JJ": 2,
+      "VBZ-FW": 2,
+      "NN-JJ": 2,
+      "NNP-VBD": 1,
+      "VBD-CD": 1,
+      "CD-NNS": 1,
+      "NNS-NNS": 1,
+      "VBP-IN": 1,
+      "IN-NN": 1,
+      "NN-CD": 1
+    },
+    "trigram_freq": {
+      "NNP-NNP-IN": 3,
+      "NNP-IN-NNP": 3,
+      "IN-NNP-NN": 1,
+      "NNP-NN-NN": 3,
+      "NN-NN-NNP": 3,
+      "NN-NNP-NNP": 1,
+      "NNP-NNP-NNP": 7,
+      "IN-NNP-FW": 2,
+      "NNP-FW-NN": 8,
+      "FW-NN-NNS": 4,
+      "NN-NNS-VBP": 4,
+      "NNS-VBP-NN": 1,
+      "VBP-NN-IN": 1,
+      "NN-IN-FW": 7,
+      "IN-FW-FW": 2,
+      "FW-FW-JJ": 4,
+      "FW-JJ-NNP": 1,
+      "JJ-NNP-NNP": 1,
+      "NNP-NNP-FW": 3,
+      "NNP-FW-FW": 3,
+      "FW-FW-FW": 27,
+      "FW-FW-NNP": 7,
+      "FW-NNP-FW": 8,
+      "NNP-FW-NNP": 3,
+      "FW-NNP-NNP": 7,
+      "FW-NN-NNP": 3,
+      "NN-NNP-IN": 2,
+      "NNP-IN-FW": 2,
+      "IN-FW-NNP": 3,
+      "NNP-NNP-JJ": 1,
+      "NNP-JJ-FW": 1,
+      "JJ-FW-FW": 3,
+      "NNP-NNP-NN": 3,
+      "NN-NN-NN": 14,
+      "NN-NN-VBP": 2,
+      "NN-VBP-JJ": 1,
+      "VBP-JJ-NN": 4,
+      "JJ-NN-IN": 3,
+      "NNP-NN-NNP": 1,
+      "NN-NNP-VBZ": 3,
+      "NNP-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 1,
+      "JJ-NN-FW": 1,
+      "NN-FW-NNP": 2,
+      "FW-NN-FW": 4,
+      "NN-FW-FW": 3,
+      "FW-FW-NN": 2,
+      "NNS-VBP-JJ": 4,
+      "IN-FW-NN": 2,
+      "JJ-NN-NN": 6,
+      "NN-NNP-FW": 1,
+      "NN-NNP-CD": 1,
+      "NNP-CD-NN": 1,
+      "CD-NN-NNS": 1,
+      "NN-NNS-JJ": 1,
+      "NNS-JJ-NNS": 1,
+      "JJ-NNS-IN": 1,
+      "NNS-IN-NNP": 1,
+      "IN-FW-JJ": 2,
+      "FW-JJ-NN": 4,
+      "NN-VBP-NN": 1,
+      "VBP-NN-NN": 1,
+      "NN-NN-FW": 2,
+      "NN-FW-JJ": 1,
+      "FW-JJ-FW": 1,
+      "FW-JJ-NNS": 1,
+      "JJ-NNS-VBP": 1,
+      "VBP-JJ-JJ": 1,
+      "JJ-JJ-FW": 1,
+      "NNP-VBZ-FW": 2,
+      "VBZ-FW-FW": 2,
+      "NN-FW-NN": 1,
+      "NN-NN-IN": 3,
+      "NN-NN-JJ": 2,
+      "NN-JJ-JJ": 1,
+      "JJ-JJ-NN": 1,
+      "FW-NN-NN": 2,
+      "NN-JJ-NN": 1,
+      "JJ-NN-NNP": 1,
+      "IN-NNP-VBD": 1,
+      "NNP-VBD-CD": 1,
+      "VBD-CD-NNS": 1,
+      "CD-NNS-NNS": 1,
+      "NNS-NNS-VBP": 1,
+      "NNS-VBP-IN": 1,
+      "VBP-IN-NN": 1,
+      "IN-NN-NN": 1,
+      "NN-NN-CD": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "FW": 75,
+        "NN": 59,
+        "NNP": 46,
+        "JJ": 19,
+        "IN": 14
+      },
+      "top_bigrams": {
+        "FW-FW": 40,
+        "NN-NN": 27,
+        "NNP-NNP": 17,
+        "FW-NNP": 15,
+        "NNP-FW": 14
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 27,
+        "NN-NN-NN": 14,
+        "NNP-FW-NN": 8,
+        "FW-NNP-FW": 8,
+        "NNP-NNP-NNP": 7
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 7,
+    "chunk_counts": {
+      "NP": 67,
+      "PP": 6,
+      "VP": 14,
+      "ADJP": 1
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 4,
+        "weight": 0.0421
+      },
+      {
+        "rule": "NP -> ('Indepaz', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0211
+      },
+      {
+        "rule": "NP -> ('Colombia', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0211
+      },
+      {
+        "rule": "NP -> ('asesinato', 'NN')",
+        "frequency": 2,
+        "weight": 0.0211
+      },
+      {
+        "rule": "NP -> ('Junta', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0211
+      },
+      {
+        "rule": "NP -> ('Acción', 'NNP') ('Comunal', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0211
+      },
+      {
+        "rule": "NP -> ('barrio', 'NN') ('Estanco', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0211
+      },
+      {
+        "rule": "NP -> ('Mangos', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0211
+      },
+      {
+        "rule": "NP -> ('Puerto', 'NNP') ('Boyacá', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0211
+      },
+      {
+        "rule": "VP -> ('en', 'VBP') NP",
+        "frequency": 2,
+        "weight": 0.0211
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El Instituto"
+      },
+      {
+        "label": "PP",
+        "text": "de Estudios para el Desarrollo y"
+      },
+      {
+        "label": "NP",
+        "text": "Estudios para el Desarrollo y"
+      },
+      {
+        "label": "NP",
+        "text": "Paz"
+      },
+      {
+        "label": "NP",
+        "text": "Indepaz"
+      },
+      {
+        "label": "NP",
+        "text": "Colombia"
+      },
+      {
+        "label": "NP",
+        "text": "este martes"
+      },
+      {
+        "label": "VP",
+        "text": "el asesinato"
+      },
+      {
+        "label": "NP",
+        "text": "asesinato"
+      },
+      {
+        "label": "NP",
+        "text": "social Beyanid González Rojas"
+      },
+      {
+        "label": "NP",
+        "text": "Junta"
+      },
+      {
+        "label": "NP",
+        "text": "Acción Comunal"
+      },
+      {
+        "label": "NP",
+        "text": "barrio Estanco"
+      },
+      {
+        "label": "NP",
+        "text": "Mangos"
+      },
+      {
+        "label": "NP",
+        "text": "Puerto Boyacá"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP El/NNP Instituto/NNP)\n  (PP de/IN (NP Estudios/NNP para/NN el/NN Desarrollo/NNP y/NNP))\n  la/FW\n  (NP Paz/NNP)\n  (/(\n  (NP Indepaz/NNP)\n  )/)\n  de/FW\n  (NP Colombia/NNP)\n  denunció/FW\n  (NP este/NN martes/NNS)\n  (VP el/VBP (NP asesinato/NN))\n  de/IN\n  la/FW\n  lideresa/FW\n  (NP social/JJ Beyanid/NNP González/NNP Rojas/NNP)\n  ,/,\n  presidenta/FW\n  de/FW\n  la/FW\n  (NP Junta/NNP)\n  de/FW\n  (NP Acción/NNP Comunal/NNP)\n  del/FW\n  (NP barrio/NN Estanco/NNP)\n  de/IN\n  los/FW\n  (NP Mangos/NNP)\n  en/FW\n  el/FW\n  municipio/FW\n  de/FW\n  (NP Puerto/NNP Boyacá/NNP)\n  ,/,\n  (ADJP ubicado/JJ)\n  en/FW\n  el/FW\n  departamento/FW\n  de/FW\n  (NP Boyacá/NNP)\n  ./.)",
+      "(S\n  (NP\n    “/JJ\n    Beyanid/NNP\n    González/NNP\n    Rojas/NNP\n    era/NN\n    una/NN\n    reconocida/NN\n    lideresa/NN)\n  (VP y/VBP (NP actual/JJ presidenta/NN))\n  de/IN\n  la/FW\n  (NP Junta/NNP)\n  de/FW\n  (NP Acción/NNP Comunal/NNP)\n  del/FW\n  (NP barrio/NN Estanco/NNP)\n  de/IN\n  los/FW\n  (NP Mangos/NNP)\n  en/FW\n  el/FW\n  municipio/FW\n  de/FW\n  (NP Puerto/NNP Boyacá/NNP)\n  ,/,\n  (NP Boyacá/NNP ”/NNP)\n  ,/,\n  (NP informó/JJ Indepaz/NNP)\n  en/FW\n  (NP su/NN cuenta/NN)\n  (PP de/IN (NP X/NNP))\n  ./.)",
+      "(S\n  (NP De/NNP)\n  acuerdo/FW\n  (NP con/NN)\n  la/FW\n  publicación/FW\n  de/FW\n  ese/FW\n  ente/FW\n  (NP colombiano/NN)\n  ,/,\n  la/FW\n  lideresa/FW\n  fue/FW\n  asesinada/FW\n  por/FW\n  (NP dos/NN hombres/NNS)\n  (VP en/VBP (NP el/JJ interior/NN))\n  de/IN\n  su/FW\n  (NP domicilio/NN)\n  ,/,\n  (NP quienes/NNS)\n  (VP la/VBP (NP atacaron/JJ con/NN armas/NN blancas/NN))\n  ./.)",
+      "(S\n  (NP Ante/NNP el/NN hecho/NN)\n  ,/,\n  la/FW\n  (NP Defensoría/NNP)\n  del/FW\n  (NP Pueblo/NNP)\n  emitió/FW\n  (NP “/NNP la/NNP Alerta/NNP)\n  019/23/CD\n  (NP para/NN lideres/NNS)\n  (VP lideresas/VBP (NP y/JJ defensores/NNS))\n  (PP de/IN (NP DDHH/NNP))\n  ,/,\n  en/FW\n  las/FW\n  (NP cuales/NNS)\n  (VP señala/VBP (NP el/JJ escenario/NN))\n  de/IN\n  riesgo/FW\n  (NP al/JJ que/NN se/NN)\n  (VP enfrentan/VBP (NP personas/NN que/NN) se/JJ)\n  (VP dedican/VBZ (NP a/DT la/NN defensa/NN))\n  de/IN\n  los/FW\n  (NP derechos/JJ humanos/NNS)\n  (VP y/VBP el/JJ liderazgo/JJ social/JJ)\n  de/FW\n  manera/FW\n  (NP\n    individual/JJ\n    y/NN\n    colectiva/NN\n    desde/NN\n    diversos/NN\n    ámbitos/NNP\n    o/NN\n    sectores/NNS)\n  (VP en/VBP (NP el/JJ país/NN ”/NN))\n  ./.)",
+      "(S\n  (NP Asimismo/NNP)\n  ,/,\n  (NP Indepaz/NNP)\n  (VP apunta/VBZ (NP que/JJ está/JJ presente/NN “/NNP la/NNP))\n  imposición/FW\n  de/FW\n  normas/FW\n  y/FW\n  otras/FW\n  formas/FW\n  de/FW\n  control/FW\n  (NP social/JJ por/NN parte/NN)\n  de/IN\n  los/FW\n  (NP grupos/JJ armados/NN ”/NNP que/NN “/NNP)\n  (NP significan/JJ un/JJ permanente/NN riesgo/NN)\n  de/IN\n  violación/FW\n  de/FW\n  los/FW\n  derechos/FW\n  de/FW\n  la/FW\n  población/FW\n  (NP ”/NN)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "CIUDADES_CAPITALES",
+      "GOBIERNOS_OFICIALES",
+      "FECHAS_ESPECIFICAS",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "ACCIONES_LEGALES",
+      "REGIONES_PROVINCIAS",
+      "INSTITUCIONES_EDUCATIVAS",
+      "JUSTICIA_SOCIAL",
+      "PAISES",
+      "LOCALIZACIONES_ESPECIFICAS",
+      "INFRAESTRUCTURA_SERVICIOS",
+      "JURIDICO_LEGISLATIVO_CORRUPCION"
+    ],
+    "matches": [
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "informó",
+        "position": [
+          479,
+          486
+        ],
+        "start": 479,
+        "end": 486
+      },
+      {
+        "category": "JURIDICO_LEGISLATIVO_CORRUPCION",
+        "matched_text": "defensoría del pueblo emitió “la alerta 019/23 para lideres lideresas y defensores de ddhh, en las cuales señala el escenario de riesgo",
+        "position": [
+          699,
+          834
+        ],
+        "start": 699,
+        "end": 834
+      },
+      {
+        "category": "JURIDICO_LEGISLATIVO_CORRUPCION",
+        "matched_text": "defensa",
+        "position": [
+          884,
+          891
+        ],
+        "start": 884,
+        "end": 891
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidenta de la",
+        "position": [
+          155,
+          171
+        ],
+        "start": 155,
+        "end": 171
+      },
+      {
+        "category": "INSTITUCIONES_EDUCATIVAS",
+        "matched_text": "instituto de estudios",
+        "position": [
+          3,
+          24
+        ],
+        "start": 3,
+        "end": 24
+      },
+      {
+        "category": "INSTITUCIONES_EDUCATIVAS",
+        "matched_text": "departamento de boyacá",
+        "position": [
+          277,
+          299
+        ],
+        "start": 277,
+        "end": 299
+      },
+      {
+        "category": "ACCIONES_LEGALES",
+        "matched_text": "denunció",
+        "position": [
+          75,
+          83
+        ],
+        "start": 75,
+        "end": 83
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "puerto",
+        "position": [
+          248,
+          254
+        ],
+        "start": 248,
+        "end": 254
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "colombia",
+        "position": [
+          66,
+          74
+        ],
+        "start": 66,
+        "end": 74
+      },
+      {
+        "category": "CIUDADES_CAPITALES",
+        "matched_text": "la paz",
+        "position": [
+          46,
+          52
+        ],
+        "start": 46,
+        "end": 52
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "departamento de",
+        "position": [
+          277,
+          292
+        ],
+        "start": 277,
+        "end": 292
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "barrio estanco",
+        "position": [
+          200,
+          214
+        ],
+        "start": 200,
+        "end": 214
+      },
+      {
+        "category": "FECHAS_ESPECIFICAS",
+        "matched_text": "año 2024",
+        "position": [
+          1482,
+          1490
+        ],
+        "start": 1482,
+        "end": 1490
+      },
+      {
+        "category": "JUSTICIA_SOCIAL",
+        "matched_text": "derechos humanos",
+        "position": [
+          899,
+          915
+        ],
+        "start": 899,
+        "end": 915
+      },
+      {
+        "category": "JUSTICIA_SOCIAL",
+        "matched_text": "desarrollo y la paz (indepaz) de colombia denunció este martes el asesinato de la lideresa social",
+        "position": [
+          33,
+          130
+        ],
+        "start": 33,
+        "end": 130
+      }
+    ],
+    "match_count": 15
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Puerto Boyacá",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "departamento de Boyacá",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Indepaz",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Instituto de Estudios para el Desarrollo y la Paz",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Beyanid González Rojas",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Boyacá",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Colombia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Defensoría del Pueblo",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Acción Comunal del barrio Estanco de los Mangos",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Junta de",
+        "tipo": "Organizacion"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Instituto de Estudios para el Desarrollo y la Paz",
+        "relacion": "DENUNCIAR",
+        "objeto": "Beyanid González Rojas"
+      },
+      {
+        "sujeto": "Instituto de Estudios para el Desarrollo y la Paz",
+        "relacion": "DENUNCIAR",
+        "objeto": "Junta de"
+      },
+      {
+        "sujeto": "Instituto de Estudios para el Desarrollo y la Paz",
+        "relacion": "DENUNCIAR",
+        "objeto": "Acción Comunal del barrio Estanco de los Mangos"
+      },
+      {
+        "sujeto": "Instituto de Estudios para el Desarrollo y la Paz",
+        "relacion": "DENUNCIAR",
+        "objeto": "Puerto Boyacá"
+      },
+      {
+        "sujeto": "Instituto de Estudios para el Desarrollo y la Paz",
+        "relacion": "DENUNCIAR",
+        "objeto": "departamento de Boyacá"
+      },
+      {
+        "sujeto": "Beyanid González Rojas",
+        "relacion": "INFORMAR",
+        "objeto": "Indepaz"
+      },
+      {
+        "sujeto": "Indepaz",
+        "relacion": "INFORMAR",
+        "objeto": "Junta de"
+      },
+      {
+        "sujeto": "Indepaz",
+        "relacion": "INFORMAR",
+        "objeto": "Acción Comunal del barrio Estanco de los Mangos"
+      },
+      {
+        "sujeto": "Indepaz",
+        "relacion": "INFORMAR",
+        "objeto": "Puerto Boyacá"
+      },
+      {
+        "sujeto": "Indepaz",
+        "relacion": "INFORMAR",
+        "objeto": "Boyacá"
+      },
+      {
+        "sujeto": "Beyanid González Rojas",
+        "relacion": "SUMAR",
+        "objeto": "Colombia"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.5574,
+    "pos": 0.0,
+    "neu": 0.985,
+    "neg": 0.015,
+    "label": "negative"
+  }
+}

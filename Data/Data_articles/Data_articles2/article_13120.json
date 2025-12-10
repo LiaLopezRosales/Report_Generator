@@ -1,0 +1,861 @@
+{
+  "url": "https://www.telesurtv.net/asesinan-a-dos-agentes-penitenciarias-en-ecuador/",
+  "title": "Asesinan a dos agentes penitenciarias en Ecuador - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "América Latina",
+    "cárceles",
+    "Ecuador",
+    "Noticias",
+    "Penitenciarios"
+  ],
+  "text": "Ambas se dirigían a comenzar su turno en la cárcel de mujeres de Guayaquil. Fueron victimadas a la altura de la cárcel Regional.\nEl sábado por la tarde, dos agentes del Cuerpo de Seguridad y Vigilancia Penitenciaria de Ecuador (CSVP) fueron asesinadas mientras se dirigían a su lugar de trabajo en el Centro de Privación de Libertad (CPL) Guayas N. 2.\nEl Servicio Nacional de Atención Integral a Personas Adultas Privadas de la Libertad y Adolescentes Infractores (SNAI) confirmó la noticia y expresó su profundo pesar por la pérdida de estas valientes servidoras públicas.\nLas dos agentes se encontraban en el trayecto a sus labores cuando fueron víctimas de un ataque violento en la vía a Daule, cerca del Centro de Rehabilitación Social (CRS) Guayas N. 4. El SNAI, en su comunicado, subrayó que se llevará a cabo una investigación para esclarecer los hechos y localizar a los responsables de este acto criminal. Además, expresó su solidaridad con las familias de las víctimas, reafirmando su compromiso con la justicia y la seguridad de todos los trabajadores penitenciarios.\nLa ciudad de Guayaquil, que es la capital de la provincia del Guayas, ha sido un epicentro de violencia en Ecuador, donde bandas organizadas han desatado una crisis de seguridad en los últimos tres años.\nEn enero, el presidente Daniel Noboa clasificó la lucha contra el crimen organizado como un “conflicto armado interno”, considerándolas grupos terroristas y actores no estatales en el ámbito de la violencia.\nDurante 2023, Ecuador ha alcanzado cifras alarmantes en materia de crimen, registrando 47,2 homicidios por cada 100.000 habitantes, lo que lo posiciona como el país con mayor tasa de homicidios per cápita en la región, según datos del Observatorio Ecuatoriano de Crimen Organizado (OECO).\nLas autoridades han señalado que las mafias involucradas están principalmente dedicadas al narcotráfico, pero sus operaciones también abarcan minería ilegal, extorsión y tráfico de armas.\nComo parte de su estrategia para enfrentar a estas bandas criminales, el Gobierno ecuatoriano ha implementado medidas de militarización en las cárceles, buscando así reforzar la seguridad y combatir la creciente ola de violencia que afecta a la nación.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/asesinan-a-dos-agentes-penitenciarias-en-ecuador/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-09.json",
+    "message_index": 1663,
+    "message_id": 75593,
+    "date": "2024-09-01T10:55:39+00:00",
+    "text": "teleSUR\nAsesinan a dos agentes penitenciarias en Ecuador\nhttps://www.telesurtv.net/asesinan-a-dos-agentes-penitenciarias-en-ecuador/",
+    "photo_path": null,
+    "views": 3473,
+    "reactions": {
+      "😱": 32,
+      "😡": 12,
+      "❤": 2,
+      "👍": 2,
+      "🤔": 1
+    },
+    "total_reactions": 49
+  },
+  "preprocessing": {
+    "cleaned": "ambas se dirigían a comenzar su turno en la cárcel de mujeres de guayaquil. fueron victimadas a la altura de la cárcel regional. el sábado por la tarde, dos agentes del cuerpo de seguridad y vigilancia penitenciaria de ecuador (csvp) fueron asesinadas mientras se dirigían a su lugar de trabajo en el centro de privación de libertad (cpl) guayas n. 2. el servicio nacional de atención integral a personas adultas privadas de la libertad y adolescentes infractores (snai) confirmó la noticia y expresó su profundo pesar por la pérdida de estas valientes servidoras públicas. las dos agentes se encontraban en el trayecto a sus labores cuando fueron víctimas de un ataque violento en la vía a daule, cerca del centro de rehabilitación social (crs) guayas n. 4. el snai, en su comunicado, subrayó que se llevará a cabo una investigación para esclarecer los hechos y localizar a los responsables de este acto criminal. además, expresó su solidaridad con las familias de las víctimas, reafirmando su compromiso con la justicia y la seguridad de todos los trabajadores penitenciarios. la ciudad de guayaquil, que es la capital de la provincia del guayas, ha sido un epicentro de violencia en ecuador, donde bandas organizadas han desatado una crisis de seguridad en los últimos tres años. en enero, el presidente daniel noboa clasificó la lucha contra el crimen organizado como un “conflicto armado interno”, considerándolas grupos terroristas y actores no estatales en el ámbito de la violencia. durante 2023, ecuador ha alcanzado cifras alarmantes en materia de crimen, registrando 47,2 homicidios por cada 100.000 habitantes, lo que lo posiciona como el país con mayor tasa de homicidios per cápita en la región, según datos del observatorio ecuatoriano de crimen organizado (oeco). las autoridades han señalado que las mafias involucradas están principalmente dedicadas al narcotráfico, pero sus operaciones también abarcan minería ilegal, extorsión y tráfico de armas. como parte de su estrategia para enfrentar a estas bandas criminales, el gobierno ecuatoriano ha implementado medidas de militarización en las cárceles, buscando así reforzar la seguridad y combatir la creciente ola de violencia que afecta a la nación.",
+    "tokens": [
+      "ambas",
+      "dirigían",
+      "comenzar",
+      "turno",
+      "cárcel",
+      "mujeres",
+      "guayaquil",
+      ".",
+      "victimadas",
+      "altura",
+      "cárcel",
+      "regional",
+      ".",
+      "sábado",
+      "tarde",
+      ",",
+      "dos",
+      "agentes",
+      "cuerpo",
+      "seguridad",
+      "vigilancia",
+      "penitenciaria",
+      "ecuador",
+      "(",
+      "csvp",
+      ")",
+      "asesinadas",
+      "mientras",
+      "dirigían",
+      "lugar",
+      "trabajo",
+      "centro",
+      "privación",
+      "libertad",
+      "(",
+      "cpl",
+      ")",
+      "guayas",
+      "n.",
+      "2.",
+      "servicio",
+      "nacional",
+      "atención",
+      "integral",
+      "personas",
+      "adultas",
+      "privadas",
+      "libertad",
+      "adolescentes",
+      "infractores",
+      "(",
+      "snai",
+      ")",
+      "confirmó",
+      "noticia",
+      "expresó",
+      "profundo",
+      "pesar",
+      "pérdida",
+      "valientes",
+      "servidoras",
+      "públicas",
+      ".",
+      "dos",
+      "agentes",
+      "encontraban",
+      "trayecto",
+      "labores",
+      "víctimas",
+      "ataque",
+      "violento",
+      "vía",
+      "daule",
+      ",",
+      "cerca",
+      "centro",
+      "rehabilitación",
+      "social",
+      "(",
+      "crs",
+      ")",
+      "guayas",
+      "n.",
+      "4.",
+      "snai",
+      ",",
+      "comunicado",
+      ",",
+      "subrayó",
+      "llevará",
+      "cabo",
+      "investigación",
+      "esclarecer",
+      "hechos",
+      "localizar",
+      "responsables",
+      "acto",
+      "criminal",
+      ".",
+      "además",
+      ",",
+      "expresó",
+      "solidaridad",
+      "familias",
+      "víctimas",
+      ",",
+      "reafirmando",
+      "compromiso",
+      "justicia",
+      "seguridad",
+      "trabajadores",
+      "penitenciarios",
+      ".",
+      "ciudad",
+      "guayaquil",
+      ",",
+      "capital",
+      "provincia",
+      "guayas",
+      ",",
+      "sido",
+      "epicentro",
+      "violencia",
+      "ecuador",
+      ",",
+      "bandas",
+      "organizadas",
+      "desatado",
+      "crisis",
+      "seguridad",
+      "últimos",
+      "tres",
+      "años",
+      ".",
+      "enero",
+      ",",
+      "presidente",
+      "daniel",
+      "noboa",
+      "clasificó",
+      "lucha",
+      "crimen",
+      "organizado",
+      "“",
+      "conflicto",
+      "armado",
+      "interno",
+      "”",
+      ",",
+      "considerándolas",
+      "grupos",
+      "terroristas",
+      "actores",
+      "estatales",
+      "ámbito",
+      "violencia",
+      ".",
+      "2023",
+      ",",
+      "ecuador",
+      "alcanzado",
+      "cifras",
+      "alarmantes",
+      "materia",
+      "crimen",
+      ",",
+      "registrando",
+      "47,2",
+      "homicidios",
+      "cada",
+      "100.000",
+      "habitantes",
+      ",",
+      "posiciona",
+      "país",
+      "mayor",
+      "tasa",
+      "homicidios",
+      "per",
+      "cápita",
+      "región",
+      ",",
+      "según",
+      "datos",
+      "observatorio",
+      "ecuatoriano",
+      "crimen",
+      "organizado",
+      "(",
+      "oeco",
+      ")",
+      ".",
+      "autoridades",
+      "señalado",
+      "mafias",
+      "involucradas",
+      "principalmente",
+      "dedicadas",
+      "narcotráfico",
+      ",",
+      "operaciones",
+      "abarcan",
+      "minería",
+      "ilegal",
+      ",",
+      "extorsión",
+      "tráfico",
+      "armas",
+      ".",
+      "parte",
+      "estrategia",
+      "enfrentar",
+      "bandas",
+      "criminales",
+      ",",
+      "gobierno",
+      "ecuatoriano",
+      "implementado",
+      "medidas",
+      "militarización",
+      "cárceles",
+      ",",
+      "buscando",
+      "así",
+      "reforzar",
+      "seguridad",
+      "combatir",
+      "creciente",
+      "ola",
+      "violencia",
+      "afecta",
+      "nación",
+      "."
+    ],
+    "token_count": 233,
+    "sentence_count": 12
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 58,
+      "NN": 93,
+      "IN": 15,
+      "FW": 93,
+      "VBD": 1,
+      "JJ": 30,
+      "VBZ": 6,
+      "NNS": 17,
+      "VBP": 13,
+      "DT": 1,
+      "RB": 1,
+      "CD": 3
+    },
+    "bigram_freq": {
+      "NNP-NN": 14,
+      "NN-NN": 54,
+      "NN-IN": 9,
+      "IN-FW": 10,
+      "FW-FW": 59,
+      "FW-NNP": 17,
+      "NNP-NNP": 29,
+      "NN-FW": 12,
+      "NNP-VBD": 1,
+      "VBD-JJ": 1,
+      "JJ-NN": 15,
+      "NN-VBZ": 4,
+      "VBZ-JJ": 4,
+      "JJ-NNP": 3,
+      "NNP-FW": 9,
+      "NNP-IN": 3,
+      "IN-NNP": 2,
+      "FW-NN": 7,
+      "FW-NNS": 5,
+      "NNS-VBP": 12,
+      "VBP-JJ": 7,
+      "JJ-JJ": 4,
+      "JJ-FW": 3,
+      "IN-JJ": 1,
+      "NN-JJ": 9,
+      "JJ-NNS": 3,
+      "NNS-IN": 1,
+      "FW-JJ": 3,
+      "VBP-NNP": 4,
+      "IN-NN": 2,
+      "NN-NNP": 1,
+      "NNS-NNS": 2,
+      "VBP-NN": 1,
+      "NN-NNS": 4,
+      "JJ-VBZ": 1,
+      "VBZ-DT": 1,
+      "DT-NNS": 1,
+      "NNS-RB": 1,
+      "RB-VBP": 1,
+      "NNP-CD": 1,
+      "CD-NNP": 1,
+      "VBZ-IN": 1,
+      "VBP-CD": 1,
+      "CD-NNS": 2,
+      "JJ-CD": 1,
+      "NNS-JJ": 1,
+      "FW-IN": 1,
+      "NNP-VBZ": 1
+    },
+    "trigram_freq": {
+      "NNP-NN-NN": 12,
+      "NN-NN-NN": 28,
+      "NN-NN-IN": 5,
+      "NN-IN-FW": 7,
+      "IN-FW-FW": 6,
+      "FW-FW-FW": 41,
+      "FW-FW-NNP": 9,
+      "FW-NNP-NNP": 8,
+      "NNP-NNP-NN": 4,
+      "NN-NN-FW": 8,
+      "NN-FW-FW": 6,
+      "NNP-NNP-VBD": 1,
+      "NNP-VBD-JJ": 1,
+      "VBD-JJ-NN": 1,
+      "JJ-NN-NN": 10,
+      "NN-NN-VBZ": 2,
+      "NN-VBZ-JJ": 3,
+      "VBZ-JJ-NNP": 1,
+      "JJ-NNP-FW": 1,
+      "NNP-FW-NNP": 5,
+      "NNP-NNP-NNP": 18,
+      "NNP-NNP-IN": 3,
+      "NNP-IN-NNP": 2,
+      "IN-NNP-NNP": 2,
+      "FW-NNP-FW": 4,
+      "NNP-NNP-FW": 2,
+      "NNP-IN-FW": 1,
+      "IN-FW-NNP": 2,
+      "NN-FW-NN": 4,
+      "FW-NN-NN": 2,
+      "FW-FW-NNS": 5,
+      "FW-NNS-VBP": 4,
+      "NNS-VBP-JJ": 7,
+      "VBP-JJ-NNP": 1,
+      "JJ-NNP-NN": 2,
+      "NNP-NN-VBZ": 1,
+      "VBZ-JJ-JJ": 1,
+      "JJ-JJ-FW": 1,
+      "JJ-FW-FW": 3,
+      "FW-FW-NN": 2,
+      "FW-NN-VBZ": 1,
+      "VBZ-JJ-NN": 2,
+      "NN-IN-JJ": 1,
+      "IN-JJ-NN": 1,
+      "FW-NNP-NN": 4,
+      "NNP-NN-FW": 1,
+      "NN-FW-NNP": 1,
+      "NNP-FW-NN": 1,
+      "NN-NN-JJ": 7,
+      "NN-JJ-NN": 6,
+      "NN-JJ-NNS": 1,
+      "JJ-NNS-IN": 1,
+      "NNS-IN-FW": 1,
+      "IN-FW-JJ": 1,
+      "FW-JJ-JJ": 1,
+      "JJ-JJ-NNP": 1,
+      "JJ-NN-IN": 3,
+      "FW-NN-FW": 3,
+      "NNS-VBP-NNP": 3,
+      "VBP-NNP-FW": 2,
+      "NNP-FW-FW": 3,
+      "FW-NN-IN": 1,
+      "NN-IN-NN": 1,
+      "IN-NN-NN": 2,
+      "FW-FW-JJ": 1,
+      "FW-JJ-NNS": 1,
+      "JJ-NNS-VBP": 1,
+      "VBP-NNP-NN": 2,
+      "NN-NN-NNP": 1,
+      "NN-NNP-NNP": 1,
+      "NN-JJ-JJ": 1,
+      "JJ-JJ-NNS": 1,
+      "JJ-NNS-NNS": 1,
+      "NNS-NNS-VBP": 2,
+      "NNS-VBP-NN": 1,
+      "VBP-NN-JJ": 1,
+      "NN-NN-NNS": 3,
+      "NN-NNS-VBP": 4,
+      "VBP-JJ-VBZ": 1,
+      "JJ-VBZ-DT": 1,
+      "VBZ-DT-NNS": 1,
+      "DT-NNS-RB": 1,
+      "NNS-RB-VBP": 1,
+      "RB-VBP-NNP": 1,
+      "FW-NNP-CD": 1,
+      "NNP-CD-NNP": 1,
+      "CD-NNP-NN": 1,
+      "NN-VBZ-IN": 1,
+      "VBZ-IN-FW": 1,
+      "NNS-VBP-CD": 1,
+      "VBP-CD-NNS": 1,
+      "CD-NNS-VBP": 1,
+      "VBP-JJ-CD": 1,
+      "JJ-CD-NNS": 1,
+      "CD-NNS-JJ": 1,
+      "NNS-JJ-JJ": 1,
+      "JJ-JJ-NN": 1,
+      "IN-FW-IN": 1,
+      "FW-IN-NN": 1,
+      "NNP-NNP-VBZ": 1,
+      "NNP-VBZ-JJ": 1,
+      "VBP-JJ-NN": 4,
+      "JJ-NN-NNS": 1,
+      "JJ-NN-JJ": 1,
+      "FW-NNS-NNS": 1,
+      "NN-JJ-FW": 1,
+      "NN-FW-JJ": 1,
+      "FW-JJ-FW": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 93,
+        "FW": 93,
+        "NNP": 58,
+        "JJ": 30,
+        "NNS": 17
+      },
+      "top_bigrams": {
+        "FW-FW": 59,
+        "NN-NN": 54,
+        "NNP-NNP": 29,
+        "FW-NNP": 17,
+        "JJ-NN": 15
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 41,
+        "NN-NN-NN": 28,
+        "NNP-NNP-NNP": 18,
+        "NNP-NN-NN": 12,
+        "JJ-NN-NN": 10
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 12,
+    "chunk_counts": {
+      "NP": 99,
+      "VP": 28,
+      "PP": 5,
+      "ADJP": 1
+    },
+    "top_rules": [
+      {
+        "rule": "NP -> ('Ecuador', 'NNP')",
+        "frequency": 3,
+        "weight": 0.0207
+      },
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 3,
+        "weight": 0.0207
+      },
+      {
+        "rule": "VP -> ('dirigían', 'VB') NP",
+        "frequency": 2,
+        "weight": 0.0138
+      },
+      {
+        "rule": "NP -> ('Guayaquil', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0138
+      },
+      {
+        "rule": "NP -> ('Centro', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0138
+      },
+      {
+        "rule": "NP -> ('Libertad', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0138
+      },
+      {
+        "rule": "NP -> ('Guayas', 'NNP') ('N.', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0138
+      },
+      {
+        "rule": "S -> NP VP VP ('en', 'IN') ('la', 'FW') ('cárcel', 'FW') ('de', 'FW') ('mujeres', 'FW') ('de', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0069
+      },
+      {
+        "rule": "NP -> ('Ambas', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0069
+      },
+      {
+        "rule": "VP -> ('se', 'VBZ')",
+        "frequency": 1,
+        "weight": 0.0069
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Ambas"
+      },
+      {
+        "label": "VP",
+        "text": "se"
+      },
+      {
+        "label": "VP",
+        "text": "dirigían a comenzar su turno"
+      },
+      {
+        "label": "NP",
+        "text": "a comenzar su turno"
+      },
+      {
+        "label": "NP",
+        "text": "Guayaquil"
+      },
+      {
+        "label": "NP",
+        "text": "Fueron"
+      },
+      {
+        "label": "VP",
+        "text": "victimadas a la"
+      },
+      {
+        "label": "NP",
+        "text": "a la"
+      },
+      {
+        "label": "NP",
+        "text": "cárcel Regional"
+      },
+      {
+        "label": "NP",
+        "text": "El sábado por la tarde"
+      },
+      {
+        "label": "NP",
+        "text": "dos agentes"
+      },
+      {
+        "label": "VP",
+        "text": "del Cuerpo"
+      },
+      {
+        "label": "NP",
+        "text": "Cuerpo"
+      },
+      {
+        "label": "NP",
+        "text": "Seguridad"
+      },
+      {
+        "label": "NP",
+        "text": "Vigilancia Penitenciaria"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Ambas/NNP)\n  (VP se/VBZ)\n  (VP dirigían/VB (NP a/DT comenzar/NN su/NN turno/NN))\n  en/IN\n  la/FW\n  cárcel/FW\n  de/FW\n  mujeres/FW\n  de/FW\n  (NP Guayaquil/NNP)\n  ./.)",
+      "(S\n  (NP Fueron/NNP)\n  (VP victimadas/VBZ (NP a/DT la/NN))\n  altura/FW\n  de/FW\n  la/FW\n  (NP cárcel/JJ Regional/NNP)\n  ./.)",
+      "(S\n  (NP El/NNP sábado/NN por/NN la/NN tarde/NN)\n  ,/,\n  (NP dos/JJ agentes/NNS)\n  (VP del/VBP (NP Cuerpo/NNP))\n  de/FW\n  (NP Seguridad/NNP)\n  y/CC\n  (NP Vigilancia/NNP Penitenciaria/NNP)\n  de/FW\n  (NP Ecuador/NNP)\n  (/(\n  (NP CSVP/NNP)\n  )/)\n  (NP fueron/NN)\n  (NP asesinadas/JJ mientras/NNS)\n  (VP se/VBP)\n  (VP dirigían/VB (NP a/DT su/JJ lugar/NN))\n  de/IN\n  trabajo/FW\n  en/FW\n  el/FW\n  (NP Centro/NNP)\n  de/FW\n  (NP Privación/NNP)\n  de/FW\n  (NP Libertad/NNP)\n  (/(\n  (NP CPL/NNP)\n  )/)\n  (NP Guayas/NNP N./NNP)\n  2/CD\n  ./.)",
+      "(S\n  (NP El/NNP Servicio/NNP Nacional/NNP)\n  de/FW\n  (NP Atención/NNP Integral/NNP)\n  (NP a/DT Personas/NNP Adultas/NNP Privadas/NNP)\n  de/IN\n  la/FW\n  (NP Libertad/NNP)\n  y/FW\n  (NP Adolescentes/NNP Infractores/NNP)\n  (/(\n  (NP SNAI/NNP)\n  )/)\n  (NP confirmó/NN la/NN)\n  noticia/FW\n  (NP y/NN expresó/NN su/NN profundo/NN pesar/NN por/NN)\n  la/FW\n  pérdida/FW\n  de/FW\n  estas/FW\n  (NP valientes/NNS)\n  (VP servidoras/VBP (NP públicas/NN))\n  ./.)",
+      "(S\n  (NP Las/NNP dos/NN)\n  (VP agentes/VBZ se/JJ encontraban/JJ)\n  en/FW\n  el/FW\n  trayecto/FW\n  (NP a/DT sus/NN)\n  (VP labores/VBZ (NP cuando/JJ fueron/NN víctimas/NN))\n  (PP de/IN (NP un/JJ ataque/NN violento/NN))\n  en/FW\n  la/FW\n  vía/FW\n  (NP a/DT Daule/NNP)\n  ,/,\n  (NP cerca/NN)\n  del/FW\n  (NP Centro/NNP)\n  de/FW\n  (NP Rehabilitación/NNP Social/NNP)\n  (/(\n  (NP CRS/NNP)\n  )/)\n  (NP Guayas/NNP N./NNP)\n  4/CD\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "CIUDADES_CAPITALES",
+      "GOBIERNOS_OFICIALES",
+      "GRUPOS_ESPECIFICOS",
+      "APROBACION_RECHAZO",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "REGIONES_PROVINCIAS",
+      "PAISES",
+      "LOCALIZACIONES_ESPECIFICAS",
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "CONFLICTOS_ARMADOS_OPERACIONES",
+      "VIOLENCIA_CRIMEN_DERECHOS_HUMANOS"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "conflicto armado interno”, considerándolas grupos terroristas y actores no estatales en el",
+        "position": [
+          1376,
+          1466
+        ],
+        "start": 1376,
+        "end": 1466
+      },
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "agentes se encontraban en el trayecto a sus labores cuando fueron víctimas de un ataque",
+        "position": [
+          582,
+          669
+        ],
+        "start": 582,
+        "end": 669
+      },
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "tasa",
+        "position": [
+          1666,
+          1670
+        ],
+        "start": 1666,
+        "end": 1670
+      },
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "trabajo",
+        "position": [
+          287,
+          294
+        ],
+        "start": 287,
+        "end": 294
+      },
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "capital",
+        "position": [
+          1113,
+          1120
+        ],
+        "start": 1113,
+        "end": 1120
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "expresó",
+        "position": [
+          493,
+          500
+        ],
+        "start": 493,
+        "end": 500
+      },
+      {
+        "category": "VIOLENCIA_CRIMEN_DERECHOS_HUMANOS",
+        "matched_text": "tráfico de armas",
+        "position": [
+          1950,
+          1966
+        ],
+        "start": 1950,
+        "end": 1966
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente daniel noboa",
+        "position": [
+          1296,
+          1319
+        ],
+        "start": 1296,
+        "end": 1319
+      },
+      {
+        "category": "GRUPOS_ESPECIFICOS",
+        "matched_text": "mujeres",
+        "position": [
+          54,
+          61
+        ],
+        "start": 54,
+        "end": 61
+      },
+      {
+        "category": "APROBACION_RECHAZO",
+        "matched_text": "subrayó",
+        "position": [
+          786,
+          793
+        ],
+        "start": 786,
+        "end": 793
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "ecuador",
+        "position": [
+          219,
+          226
+        ],
+        "start": 219,
+        "end": 226
+      },
+      {
+        "category": "CIUDADES_CAPITALES",
+        "matched_text": "guayaquil",
+        "position": [
+          65,
+          74
+        ],
+        "start": 65,
+        "end": 74
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "provincia del",
+        "position": [
+          1127,
+          1140
+        ],
+        "start": 1127,
+        "end": 1140
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "centro de",
+        "position": [
+          301,
+          310
+        ],
+        "start": 301,
+        "end": 310
+      }
+    ],
+    "match_count": 14
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Centro de Privación de Libertad",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Cuerpo de Seguridad y Vigilancia Penitenciaria de Ecuador",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Daule",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Ecuador",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Centro de Rehabilitación Social",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "CRS",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Guayaquil",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Servicio Nacional de Atención Integral a Personas Adultas Privadas de la Libertad",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Guayas",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "CSVP",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Daniel Noboa",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Gobierno ecuatoriano",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "SNAI",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "provincia del Guayas",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "CPL",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Cuerpo de Seguridad y Vigilancia Penitenciaria de Ecuador",
+        "relacion": "ASESINAR",
+        "objeto": "Centro de Privación de Libertad"
+      },
+      {
+        "sujeto": "Cuerpo de Seguridad y Vigilancia Penitenciaria de Ecuador",
+        "relacion": "ASESINAR",
+        "objeto": "CPL"
+      },
+      {
+        "sujeto": "Cuerpo de Seguridad y Vigilancia Penitenciaria de Ecuador",
+        "relacion": "ASESINAR",
+        "objeto": "Guayas"
+      },
+      {
+        "sujeto": "CSVP",
+        "relacion": "ASESINAR",
+        "objeto": "Centro de Privación de Libertad"
+      },
+      {
+        "sujeto": "CSVP",
+        "relacion": "ASESINAR",
+        "objeto": "CPL"
+      },
+      {
+        "sujeto": "CSVP",
+        "relacion": "ASESINAR",
+        "objeto": "Guayas"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.5423,
+    "pos": 0.021,
+    "neu": 0.951,
+    "neg": 0.028,
+    "label": "negative"
+  }
+}

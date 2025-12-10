@@ -1,0 +1,786 @@
+{
+  "url": "https://www.telesurtv.net/presidente-maduro-asegura-que-maria-corina-machado-regreso-a-venezuela/",
+  "title": "Presidente Maduro asegura que María Corina Machado regresó a Venezuela - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "María Corina Machado",
+    "regreso a Venezuela",
+    "Venezuela"
+  ],
+  "text": "El presidente de Venezuela, Nicolás Maduro aseguró que la ultraderechista María Corina Machado se encuentra en suelo venezolano, luego de planificar acciones terroristas y solicitar sanciones contra el país desde Panamá y Colombia.\nLas palabras del dignatario acontecieron en su programa Con Maduro Más, cuando comentaba que la campaña de descrédito que lleva a cabo la oposición contra la Revolución Bolivariana hace creer al mundo una Venezuela falsa.\n“¿En Venezuela hay edificios? ¿Hay centros comerciales?”, refirió Maduro, haciendo alusión a la impresión que se llevan los no nacionales cuando llegan al país, pensando en una Venezuela acabada y derrotada y sin ningún tipo de desarrollo.\n“Es tanta la campaña que hay en el mundo de esta gente sucia, a los que le dije ayer que si no van a ayudar, por lo menos que no molesten”, oposición que obstaculiza el normal desarrollo del país y a los que catalogó de “tóxicos, la campaña de la tóxica”, refiriéndose a la ultraderechista Machado.\nSobre Machado aseguró que “es tan tóxica que en Colombia no la quieren”, añadiendo que ella se está moviendo con la convocatoria de la cara pintada de roja.\n“Ella pensó que iba a movilizar como siempre a un millón de personas en Caracas e iba a aparecer diciendo —voy por ti, Maduro, pero el fracaso fue tan estrepitoso que cayó en depresión”, agregó.\nAdemás, dijo que a su llegada la resguardaron en la Embajada de los Países Bajos y luego estuvo durmiendo en la sede de la embajada de los Estados Unidos, resaltando que “está perfectamente cuidada y respetada, porque nosotros sí respetamos”, en cambio “a nuestra embajada en Estados Unidos, no, la asaltaron y nos la tienen secuestrada ilegalmente”.\n“Allí (en la embajada de EE.UU.) ella durmió varios días, pero la gente que está cuidando esa sede se obstinó porque la señora estaba amargada y más tóxica de lo normal: está aquí, volvió, aunque tienen la promesa de repente de que se va otra vez”, recalcó el dignatario.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/presidente-maduro-asegura-que-maria-corina-machado-regreso-a-venezuela/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-12.json",
+    "message_index": 1669,
+    "message_id": 81638,
+    "date": "2024-12-03T02:55:24+00:00",
+    "text": "teleSUR\nPresidente Maduro asegura que María Corina Machado regresó a Venezuela\nhttps://www.telesurtv.net/presidente-maduro-asegura-que-maria-corina-machado-regreso-a-venezuela/",
+    "photo_path": null,
+    "views": 2264,
+    "reactions": {
+      "🤬": 35,
+      "👍": 3,
+      "😁": 2,
+      "🤯": 2,
+      "👎": 1
+    },
+    "total_reactions": 43
+  },
+  "preprocessing": {
+    "cleaned": "el presidente de venezuela, nicolás maduro aseguró que la ultraderechista maría corina machado se encuentra en suelo venezolano, luego de planificar acciones terroristas y solicitar sanciones contra el país desde panamá y colombia. las palabras del dignatario acontecieron en su programa con maduro más, cuando comentaba que la campaña de descrédito que lleva a cabo la oposición contra la revolución bolivariana hace creer al mundo una venezuela falsa. “¿en venezuela hay edificios? ¿hay centros comerciales?”, refirió maduro, haciendo alusión a la impresión que se llevan los no nacionales cuando llegan al país, pensando en una venezuela acabada y derrotada y sin ningún tipo de desarrollo. “es tanta la campaña que hay en el mundo de esta gente sucia, a los que le dije ayer que si no van a ayudar, por lo menos que no molesten”, oposición que obstaculiza el normal desarrollo del país y a los que catalogó de “tóxicos, la campaña de la tóxica”, refiriéndose a la ultraderechista machado. sobre machado aseguró que “es tan tóxica que en colombia no la quieren”, añadiendo que ella se está moviendo con la convocatoria de la cara pintada de roja. “ella pensó que iba a movilizar como siempre a un millón de personas en caracas e iba a aparecer diciendo —voy por ti, maduro, pero el fracaso fue tan estrepitoso que cayó en depresión”, agregó. además, dijo que a su llegada la resguardaron en la embajada de los países bajos y luego estuvo durmiendo en la sede de la embajada de los estados unidos, resaltando que “está perfectamente cuidada y respetada, porque nosotros sí respetamos”, en cambio “a nuestra embajada en estados unidos, no, la asaltaron y nos la tienen secuestrada ilegalmente”. “allí (en la embajada de ee.uu.) ella durmió varios días, pero la gente que está cuidando esa sede se obstinó porque la señora estaba amargada y más tóxica de lo normal: está aquí, volvió, aunque tienen la promesa de repente de que se va otra vez”, recalcó el dignatario.",
+    "tokens": [
+      "presidente",
+      "venezuela",
+      ",",
+      "nicolás",
+      "maduro",
+      "aseguró",
+      "ultraderechista",
+      "maría",
+      "corina",
+      "machado",
+      "encuentra",
+      "suelo",
+      "venezolano",
+      ",",
+      "luego",
+      "planificar",
+      "acciones",
+      "terroristas",
+      "solicitar",
+      "sanciones",
+      "país",
+      "panamá",
+      "colombia",
+      ".",
+      "palabras",
+      "dignatario",
+      "acontecieron",
+      "programa",
+      "maduro",
+      ",",
+      "comentaba",
+      "campaña",
+      "descrédito",
+      "lleva",
+      "cabo",
+      "oposición",
+      "revolución",
+      "bolivariana",
+      "hace",
+      "creer",
+      "mundo",
+      "venezuela",
+      "falsa",
+      ".",
+      "“",
+      "¿en",
+      "venezuela",
+      "edificios",
+      "?",
+      "¿hay",
+      "centros",
+      "comerciales",
+      "?",
+      "”",
+      ",",
+      "refirió",
+      "maduro",
+      ",",
+      "haciendo",
+      "alusión",
+      "impresión",
+      "llevan",
+      "nacionales",
+      "llegan",
+      "país",
+      ",",
+      "pensando",
+      "venezuela",
+      "acabada",
+      "derrotada",
+      "ningún",
+      "tipo",
+      "desarrollo",
+      ".",
+      "“",
+      "tanta",
+      "campaña",
+      "mundo",
+      "gente",
+      "sucia",
+      ",",
+      "dije",
+      "ayer",
+      "si",
+      "van",
+      "ayudar",
+      ",",
+      "menos",
+      "molesten",
+      "”",
+      ",",
+      "oposición",
+      "obstaculiza",
+      "normal",
+      "desarrollo",
+      "país",
+      "catalogó",
+      "“",
+      "tóxicos",
+      ",",
+      "campaña",
+      "tóxica",
+      "”",
+      ",",
+      "refiriéndose",
+      "ultraderechista",
+      "machado",
+      ".",
+      "machado",
+      "aseguró",
+      "“",
+      "tan",
+      "tóxica",
+      "colombia",
+      "quieren",
+      "”",
+      ",",
+      "añadiendo",
+      "moviendo",
+      "convocatoria",
+      "cara",
+      "pintada",
+      "roja",
+      ".",
+      "“",
+      "pensó",
+      "iba",
+      "movilizar",
+      "siempre",
+      "millón",
+      "personas",
+      "caracas",
+      "iba",
+      "aparecer",
+      "diciendo",
+      "—voy",
+      ",",
+      "maduro",
+      ",",
+      "fracaso",
+      "tan",
+      "estrepitoso",
+      "cayó",
+      "depresión",
+      "”",
+      ",",
+      "agregó",
+      ".",
+      "además",
+      ",",
+      "dijo",
+      "llegada",
+      "resguardaron",
+      "embajada",
+      "países",
+      "bajos",
+      "luego",
+      "durmiendo",
+      "sede",
+      "embajada",
+      "unidos",
+      ",",
+      "resaltando",
+      "“",
+      "perfectamente",
+      "cuidada",
+      "respetada",
+      ",",
+      "respetamos",
+      "”",
+      ",",
+      "cambio",
+      "“",
+      "embajada",
+      "unidos",
+      ",",
+      ",",
+      "asaltaron",
+      "secuestrada",
+      "ilegalmente",
+      "”",
+      ".",
+      "“",
+      "allí",
+      "(",
+      "embajada",
+      "ee.uu.",
+      ")",
+      "durmió",
+      "varios",
+      "días",
+      ",",
+      "gente",
+      "cuidando",
+      "sede",
+      "obstinó",
+      "señora",
+      "amargada",
+      "tóxica",
+      "normal",
+      ":",
+      "aquí",
+      ",",
+      "volvió",
+      ",",
+      "aunque",
+      "promesa",
+      "repente",
+      "va",
+      "vez",
+      "”",
+      ",",
+      "recalcó",
+      "dignatario",
+      "."
+    ],
+    "token_count": 215,
+    "sentence_count": 9
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 39,
+      "NN": 127,
+      "FW": 76,
+      "JJ": 25,
+      "VBD": 1,
+      "IN": 13,
+      "NNS": 8,
+      "VBP": 8,
+      "VBZ": 4,
+      "DT": 5,
+      "RB": 3
+    },
+    "bigram_freq": {
+      "NNP-NN": 18,
+      "NN-FW": 12,
+      "FW-NNP": 9,
+      "NNP-NNP": 15,
+      "NN-NN": 79,
+      "NN-JJ": 7,
+      "JJ-NNP": 4,
+      "NNP-VBD": 1,
+      "VBD-JJ": 1,
+      "JJ-FW": 3,
+      "FW-NN": 10,
+      "NN-IN": 13,
+      "IN-NN": 4,
+      "NN-NNS": 3,
+      "NNS-NNS": 1,
+      "NNS-VBP": 6,
+      "VBP-NNS": 1,
+      "NNS-JJ": 1,
+      "JJ-JJ": 4,
+      "JJ-NN": 11,
+      "NN-NNP": 7,
+      "NNP-FW": 2,
+      "FW-FW": 51,
+      "FW-JJ": 5,
+      "VBP-JJ": 3,
+      "JJ-NNS": 2,
+      "VBP-NNP": 1,
+      "NN-VBZ": 3,
+      "VBZ-DT": 2,
+      "DT-NNS": 1,
+      "IN-JJ": 1,
+      "IN-FW": 6,
+      "DT-NN": 4,
+      "NN-RB": 2,
+      "RB-JJ": 2,
+      "VBP-DT": 1,
+      "VBZ-JJ": 1,
+      "JJ-RB": 1,
+      "RB-VBP": 1,
+      "FW-VBP": 1,
+      "VBP-FW": 1,
+      "IN-NNP": 2,
+      "NNP-DT": 2,
+      "NNP-VBZ": 1,
+      "VBZ-FW": 1,
+      "VBP-NN": 1
+    },
+    "trigram_freq": {
+      "NNP-NN-FW": 1,
+      "NN-FW-NNP": 1,
+      "FW-NNP-NNP": 4,
+      "NNP-NNP-NNP": 5,
+      "NNP-NNP-NN": 7,
+      "NNP-NN-NN": 15,
+      "NN-NN-NN": 50,
+      "NN-NN-JJ": 5,
+      "NN-JJ-NNP": 2,
+      "JJ-NNP-NNP": 2,
+      "NNP-NNP-VBD": 1,
+      "NNP-VBD-JJ": 1,
+      "VBD-JJ-FW": 1,
+      "JJ-FW-NN": 1,
+      "FW-NN-NN": 5,
+      "NN-NN-IN": 9,
+      "NN-IN-NN": 4,
+      "IN-NN-NNS": 1,
+      "NN-NNS-NNS": 1,
+      "NNS-NNS-VBP": 1,
+      "NNS-VBP-NNS": 1,
+      "VBP-NNS-JJ": 1,
+      "NNS-JJ-JJ": 1,
+      "JJ-JJ-NN": 3,
+      "JJ-NN-NN": 7,
+      "NN-NN-NNP": 6,
+      "NN-NNP-NNP": 3,
+      "NNP-NNP-FW": 1,
+      "NNP-FW-FW": 2,
+      "FW-FW-NN": 4,
+      "NN-NN-FW": 6,
+      "NN-FW-NN": 5,
+      "NN-FW-FW": 6,
+      "FW-FW-FW": 38,
+      "FW-NN-FW": 4,
+      "FW-FW-JJ": 3,
+      "FW-JJ-FW": 2,
+      "JJ-FW-NNP": 1,
+      "IN-NN-JJ": 2,
+      "JJ-NNP-NN": 2,
+      "NNP-NN-NNP": 1,
+      "NNP-NN-NNS": 1,
+      "NN-NNS-VBP": 2,
+      "NNS-VBP-JJ": 2,
+      "VBP-JJ-NNS": 1,
+      "JJ-NNS-VBP": 2,
+      "NNS-VBP-NNP": 1,
+      "VBP-NNP-NN": 1,
+      "NN-NN-VBZ": 2,
+      "NN-VBZ-DT": 2,
+      "VBZ-DT-NNS": 1,
+      "DT-NNS-VBP": 1,
+      "VBP-JJ-JJ": 2,
+      "NN-IN-JJ": 1,
+      "IN-JJ-NNP": 1,
+      "NN-JJ-NN": 5,
+      "JJ-NN-IN": 4,
+      "NN-IN-FW": 6,
+      "IN-FW-NNP": 2,
+      "FW-NNP-NN": 4,
+      "IN-FW-FW": 4,
+      "FW-JJ-NN": 2,
+      "VBZ-DT-NN": 1,
+      "DT-NN-RB": 2,
+      "NN-RB-JJ": 2,
+      "RB-JJ-JJ": 1,
+      "JJ-JJ-NNS": 1,
+      "NNS-VBP-DT": 1,
+      "VBP-DT-NN": 1,
+      "DT-NN-VBZ": 1,
+      "NN-VBZ-JJ": 1,
+      "VBZ-JJ-RB": 1,
+      "JJ-RB-VBP": 1,
+      "RB-VBP-JJ": 1,
+      "FW-FW-VBP": 1,
+      "FW-VBP-FW": 1,
+      "VBP-FW-JJ": 1,
+      "FW-JJ-NNP": 1,
+      "NN-IN-NNP": 2,
+      "IN-NNP-DT": 1,
+      "NNP-DT-NN": 2,
+      "DT-NN-FW": 1,
+      "FW-FW-NNP": 5,
+      "NN-NNP-NN": 3,
+      "IN-NN-NN": 1,
+      "FW-NNP-FW": 1,
+      "IN-NNP-NNP": 1,
+      "NNP-NNP-DT": 1,
+      "RB-JJ-NN": 1,
+      "NN-NNP-VBZ": 1,
+      "NNP-VBZ-FW": 1,
+      "VBZ-FW-FW": 1,
+      "NN-NN-NNS": 1,
+      "NNS-VBP-NN": 1,
+      "VBP-NN-NN": 1,
+      "JJ-FW-JJ": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 127,
+        "FW": 76,
+        "NNP": 39,
+        "JJ": 25,
+        "IN": 13
+      },
+      "top_bigrams": {
+        "NN-NN": 79,
+        "FW-FW": 51,
+        "NNP-NN": 18,
+        "NNP-NNP": 15,
+        "NN-IN": 13
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 50,
+        "FW-FW-FW": 38,
+        "NNP-NN-NN": 15,
+        "NN-NN-IN": 9,
+        "NNP-NNP-NN": 7
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 9,
+    "chunk_counts": {
+      "NP": 84,
+      "VP": 18,
+      "ADJP": 2,
+      "PP": 6
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 3,
+        "weight": 0.0252
+      },
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0168
+      },
+      {
+        "rule": "NP -> ('Estados', 'NNP') ('Unidos', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0168
+      },
+      {
+        "rule": "S -> NP ('de', 'FW') NP (',', ',') NP NP VP ('en', 'FW') NP (',', ',') ('luego', 'FW') ('de', 'FW') ('planificar', 'FW') NP VP VP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0084
+      },
+      {
+        "rule": "NP -> ('El', 'NNP') ('presidente', 'NN')",
+        "frequency": 1,
+        "weight": 0.0084
+      },
+      {
+        "rule": "NP -> ('Venezuela', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0084
+      },
+      {
+        "rule": "NP -> ('Nicolás', 'NNP') ('Maduro', 'NNP') ('aseguró', 'NN') ('que', 'NN') ('la', 'NN')",
+        "frequency": 1,
+        "weight": 0.0084
+      },
+      {
+        "rule": "NP -> ('ultraderechista', 'JJ') ('María', 'NNP') ('Corina', 'NNP') ('Machado', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0084
+      },
+      {
+        "rule": "VP -> ('se', 'VBD') ('encuentra', 'JJ')",
+        "frequency": 1,
+        "weight": 0.0084
+      },
+      {
+        "rule": "NP -> ('suelo', 'NN') ('venezolano', 'NN')",
+        "frequency": 1,
+        "weight": 0.0084
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El presidente"
+      },
+      {
+        "label": "NP",
+        "text": "Venezuela"
+      },
+      {
+        "label": "NP",
+        "text": "Nicolás Maduro aseguró que la"
+      },
+      {
+        "label": "NP",
+        "text": "ultraderechista María Corina Machado"
+      },
+      {
+        "label": "VP",
+        "text": "se encuentra"
+      },
+      {
+        "label": "NP",
+        "text": "suelo venezolano"
+      },
+      {
+        "label": "NP",
+        "text": "acciones terroristas"
+      },
+      {
+        "label": "VP",
+        "text": "y solicitar sanciones"
+      },
+      {
+        "label": "NP",
+        "text": "solicitar sanciones"
+      },
+      {
+        "label": "VP",
+        "text": "contra el país desde Panamá y Colombia"
+      },
+      {
+        "label": "NP",
+        "text": "el país desde Panamá y Colombia"
+      },
+      {
+        "label": "NP",
+        "text": "Las palabras"
+      },
+      {
+        "label": "VP",
+        "text": "del dignatario acontecieron"
+      },
+      {
+        "label": "NP",
+        "text": "dignatario acontecieron"
+      },
+      {
+        "label": "NP",
+        "text": "su programa Con Maduro Más"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP El/NNP presidente/NN)\n  de/FW\n  (NP Venezuela/NNP)\n  ,/,\n  (NP Nicolás/NNP Maduro/NNP aseguró/NN que/NN la/NN)\n  (NP ultraderechista/JJ María/NNP Corina/NNP Machado/NNP)\n  (VP se/VBD encuentra/JJ)\n  en/FW\n  (NP suelo/NN venezolano/NN)\n  ,/,\n  luego/FW\n  de/FW\n  planificar/FW\n  (NP acciones/NNS terroristas/NNS)\n  (VP y/VBP (NP solicitar/JJ sanciones/NNS))\n  (VP\n    contra/VBP\n    (NP el/JJ país/NN desde/NN Panamá/NNP y/NNP Colombia/NNP))\n  ./.)",
+      "(S\n  (NP Las/NNP palabras/NNS)\n  (VP del/VBP (NP dignatario/NN acontecieron/NN))\n  en/FW\n  (NP su/NN programa/NN Con/NNP Maduro/NNP Más/NNP)\n  ,/,\n  (NP cuando/NN comentaba/NN que/NN)\n  la/FW\n  campaña/FW\n  de/FW\n  descrédito/FW\n  (NP que/NN)\n  (VP lleva/VBZ (NP a/DT cabo/NN la/NN))\n  oposición/FW\n  (ADJP contra/JJ)\n  la/FW\n  (NP Revolución/NNP Bolivariana/NNP hace/NN creer/NN)\n  (PP al/IN (NP mundo/NN))\n  (NP una/JJ Venezuela/NNP falsa/NN)\n  ./.)",
+      "(S (NP “/JJ ¿En/NNP Venezuela/NNP hay/NN edificios/NNS) ?/.)",
+      "(S\n  (NP ¿Hay/JJ centros/NN comerciales/NNS)\n  ?/.\n  (NP ”/NN)\n  ,/,\n  (NP refirió/NN Maduro/NNP)\n  ,/,\n  (NP haciendo/NN)\n  (VP\n    alusión/VBD\n    (NP a/DT la/NN impresión/NN que/NN se/NN llevan/NN))\n  (VP los/VBZ (NP no/DT nacionales/NNS))\n  (VP cuando/VBP (NP llegan/JJ al/JJ país/NN))\n  ,/,\n  (NP pensando/NN)\n  en/FW\n  (NP una/JJ Venezuela/NNP acabada/NN y/NN derrotada/NN y/NN sin/NN)\n  (NP ningún/JJ tipo/NN)\n  (PP de/IN (NP desarrollo/NN))\n  ./.)",
+      "(S\n  (NP “/JJ Es/NNP tanta/NN la/NN campaña/NN que/NN hay/NN)\n  en/IN\n  el/FW\n  mundo/FW\n  de/FW\n  esta/FW\n  (NP gente/NN sucia/NN)\n  ,/,\n  (NP a/DT los/NN que/NN le/NN dije/NN ayer/NN que/NN)\n  (VP si/VBZ (NP no/DT van/NN) (NP a/DT ayudar/NN))\n  ,/,\n  (NP por/NN lo/NN menos/NNS)\n  (VP que/VBP (NP no/DT molesten/NN ”/NNP))\n  ,/,\n  (NP oposición/NN que/NN)\n  (NP obstaculiza/JJ el/NN)\n  (NP normal/JJ desarrollo/JJ del/NN país/NN)\n  (VP y/VBZ (NP a/DT los/NN) (NP que/JJ catalogó/NN))\n  (PP de/IN (NP “/NNP tóxicos/NN))\n  ,/,\n  la/FW\n  campaña/FW\n  de/FW\n  la/FW\n  tóxica/FW\n  ”/FW\n  ,/,\n  (VP\n    refiriéndose/VB\n    (NP a/DT la/NN)\n    (NP ultraderechista/JJ Machado/NNP))\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "CIUDADES_CAPITALES",
+      "PAISES",
+      "GOBIERNOS_OFICIALES",
+      "TIEMPO_RELATIVO"
+    ],
+    "matches": [
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente de venezuela",
+        "position": [
+          3,
+          26
+        ],
+        "start": 3,
+        "end": 26
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "colombia",
+        "position": [
+          222,
+          230
+        ],
+        "start": 222,
+        "end": 230
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "estados unidos",
+        "position": [
+          1484,
+          1498
+        ],
+        "start": 1484,
+        "end": 1498
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "panamá",
+        "position": [
+          213,
+          219
+        ],
+        "start": 213,
+        "end": 219
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "venezuela",
+        "position": [
+          17,
+          26
+        ],
+        "start": 17,
+        "end": 26
+      },
+      {
+        "category": "CIUDADES_CAPITALES",
+        "matched_text": "caracas",
+        "position": [
+          1222,
+          1229
+        ],
+        "start": 1222,
+        "end": 1229
+      },
+      {
+        "category": "TIEMPO_RELATIVO",
+        "matched_text": "ayer",
+        "position": [
+          774,
+          778
+        ],
+        "start": 774,
+        "end": 778
+      }
+    ],
+    "match_count": 7
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Nicolás Maduro",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Venezuela",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "EE.UU.",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Maduro",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "los Estados Unidos",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Embajada de los Países Bajos",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Revolución Bolivariana",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Machado",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Panamá",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Caracas",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "María Corina Machado",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Colombia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "en Estados Unidos",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "María Corina Machado",
+        "relacion": "ASEGURAR",
+        "objeto": "Venezuela"
+      },
+      {
+        "sujeto": "Venezuela",
+        "relacion": "ASEGURAR",
+        "objeto": "Panamá"
+      },
+      {
+        "sujeto": "Venezuela",
+        "relacion": "ASEGURAR",
+        "objeto": "Colombia"
+      },
+      {
+        "sujeto": "María Corina Machado",
+        "relacion": "ASEGURAR",
+        "objeto": "Nicolás Maduro"
+      },
+      {
+        "sujeto": "Nicolás Maduro",
+        "relacion": "ASEGURAR",
+        "objeto": "Panamá"
+      },
+      {
+        "sujeto": "Nicolás Maduro",
+        "relacion": "ASEGURAR",
+        "objeto": "Colombia"
+      },
+      {
+        "sujeto": "María Corina Machado",
+        "relacion": "ENCONTRAR_ASEGURAR",
+        "objeto": "Panamá"
+      },
+      {
+        "sujeto": "María Corina Machado",
+        "relacion": "ENCONTRAR_ASEGURAR",
+        "objeto": "Colombia"
+      },
+      {
+        "sujeto": "Revolución Bolivariana",
+        "relacion": "LLEVAR_HACER_COMENTAR_ACONTECER",
+        "objeto": "Venezuela"
+      },
+      {
+        "sujeto": "Maduro",
+        "relacion": "REFERIR",
+        "objeto": "Venezuela"
+      },
+      {
+        "sujeto": "Machado",
+        "relacion": "ASEGURAR",
+        "objeto": "Colombia"
+      },
+      {
+        "sujeto": "Caracas",
+        "relacion": "MOVILIZAR_PENSAR_AGREGAR",
+        "objeto": "Maduro"
+      },
+      {
+        "sujeto": "Embajada de los Países Bajos",
+        "relacion": "RESGUARDAR_DECIR",
+        "objeto": "los Estados Unidos"
+      },
+      {
+        "sujeto": "Embajada de los Países Bajos",
+        "relacion": "RESGUARDAR_DECIR",
+        "objeto": "en Estados Unidos"
+      },
+      {
+        "sujeto": "los Estados Unidos",
+        "relacion": "DORMIR_RESGUARDAR_DECIR",
+        "objeto": "en Estados Unidos"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.9179,
+    "pos": 0.0,
+    "neu": 0.953,
+    "neg": 0.047,
+    "label": "negative"
+  }
+}

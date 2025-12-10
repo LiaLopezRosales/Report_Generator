@@ -1,0 +1,482 @@
+{
+  "url": "https://www.telesurtv.net/registran-sismo-de-magnitud-48-en-turkiye/",
+  "title": "Registran sismo de magnitud 4,8 en Türkiye - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "magnitud 4",
+    "Sismo",
+    "Türkiye"
+  ],
+  "text": "La Autoridad de Gestión de Emergencias y Desastres de Türkiye (AFAD, por sus siglas en turco) informó este lunes de la ocurrencia de un sismo de magnitud 4,8 en la ciudad turca de Manisa, al oeste del país.\nAsimismo, informó que los seísmos se reportaron en el distrito de Soma, a las 01H36 (hora local).\nDe igual forma la agencia informó que el epicentro del sismo se localizó a una profundidad de 10,24 kilómetros.\nAunque existen reportes de perceptibilidad en el área, hasta el momento no hay referencias a daños ni pérdidas de vidas humanas.\nLa ciudad turca de Manisa cuenta con una población 244.000 habitantes y, de acuerdo con las autoridades, la escasa profundidad del sismo provocó que se sintiera más fuerte en el área cercana al epicentro.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/registran-sismo-de-magnitud-48-en-turkiye/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-06.json",
+    "message_index": 228,
+    "message_id": 72515,
+    "date": "2024-06-25T02:55:07+00:00",
+    "text": "teleSUR\nRegistran sismo de magnitud 4,8 en Türkiye\nhttps://www.telesurtv.net/registran-sismo-de-magnitud-48-en-turkiye/",
+    "photo_path": null,
+    "views": 1417,
+    "reactions": {},
+    "total_reactions": 0
+  },
+  "preprocessing": {
+    "cleaned": "la autoridad de gestión de emergencias y desastres de türkiye (afad, por sus siglas en turco) informó este lunes de la ocurrencia de un sismo de magnitud 4,8 en la ciudad turca de manisa, al oeste del país. asimismo, informó que los seísmos se reportaron en el distrito de soma, a las 01h36 (hora local). de igual forma la agencia informó que el epicentro del sismo se localizó a una profundidad de 10,24 kilómetros. aunque existen reportes de perceptibilidad en el área, hasta el momento no hay referencias a daños ni pérdidas de vidas humanas. la ciudad turca de manisa cuenta con una población 244.000 habitantes y, de acuerdo con las autoridades, la escasa profundidad del sismo provocó que se sintiera más fuerte en el área cercana al epicentro.",
+    "tokens": [
+      "autoridad",
+      "gestión",
+      "emergencias",
+      "desastres",
+      "türkiye",
+      "(",
+      "afad",
+      ",",
+      "siglas",
+      "turco",
+      ")",
+      "informó",
+      "lunes",
+      "ocurrencia",
+      "sismo",
+      "magnitud",
+      "4,8",
+      "ciudad",
+      "turca",
+      "manisa",
+      ",",
+      "oeste",
+      "país",
+      ".",
+      "asimismo",
+      ",",
+      "informó",
+      "seísmos",
+      "reportaron",
+      "distrito",
+      "soma",
+      ",",
+      "01h36",
+      "(",
+      "hora",
+      "local",
+      ")",
+      ".",
+      "igual",
+      "forma",
+      "agencia",
+      "informó",
+      "epicentro",
+      "sismo",
+      "localizó",
+      "profundidad",
+      "10,24",
+      "kilómetros",
+      ".",
+      "aunque",
+      "existen",
+      "reportes",
+      "perceptibilidad",
+      "área",
+      ",",
+      "momento",
+      "referencias",
+      "daños",
+      "pérdidas",
+      "vidas",
+      "humanas",
+      ".",
+      "ciudad",
+      "turca",
+      "manisa",
+      "cuenta",
+      "población",
+      "244.000",
+      "habitantes",
+      ",",
+      "acuerdo",
+      "autoridades",
+      ",",
+      "escasa",
+      "profundidad",
+      "sismo",
+      "provocó",
+      "sintiera",
+      "fuerte",
+      "área",
+      "cercana",
+      "epicentro",
+      "."
+    ],
+    "token_count": 83,
+    "sentence_count": 5
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 14,
+      "FW": 41,
+      "NN": 38,
+      "IN": 6,
+      "CD": 4,
+      "CC": 1,
+      "JJ": 8,
+      "VBD": 1,
+      "NNS": 4,
+      "VBP": 2,
+      "VBZ": 4,
+      "DT": 1
+    },
+    "bigram_freq": {
+      "NNP-NNP": 3,
+      "NNP-FW": 4,
+      "FW-NNP": 6,
+      "NNP-NN": 3,
+      "NN-NN": 21,
+      "NN-IN": 4,
+      "IN-NN": 1,
+      "NN-FW": 6,
+      "FW-FW": 25,
+      "FW-CD": 1,
+      "CD-FW": 1,
+      "NNP-CC": 1,
+      "CC-NN": 1,
+      "NN-NNP": 1,
+      "NN-JJ": 2,
+      "JJ-NN": 4,
+      "NNP-VBD": 1,
+      "VBD-CD": 1,
+      "CD-JJ": 1,
+      "JJ-JJ": 2,
+      "JJ-NNP": 1,
+      "FW-NN": 6,
+      "FW-JJ": 1,
+      "IN-CD": 1,
+      "CD-NNS": 2,
+      "NNS-NNP": 2,
+      "NNP-VBP": 2,
+      "VBP-VBZ": 1,
+      "VBZ-IN": 1,
+      "IN-FW": 4,
+      "FW-VBZ": 1,
+      "VBZ-DT": 1,
+      "DT-NN": 1,
+      "NN-VBZ": 1,
+      "VBZ-JJ": 2,
+      "FW-NNS": 1,
+      "VBP-NN": 1,
+      "NN-CD": 1,
+      "NNS-IN": 1,
+      "NN-NNS": 1,
+      "NNS-VBZ": 1,
+      "JJ-FW": 1
+    },
+    "trigram_freq": {
+      "NNP-NNP-FW": 2,
+      "NNP-FW-NNP": 3,
+      "FW-NNP-FW": 1,
+      "FW-NNP-NNP": 2,
+      "NNP-NNP-NN": 1,
+      "NNP-NN-NN": 3,
+      "NN-NN-NN": 12,
+      "NN-NN-IN": 2,
+      "NN-IN-NN": 1,
+      "IN-NN-NN": 1,
+      "NN-NN-FW": 3,
+      "NN-FW-FW": 4,
+      "FW-FW-FW": 18,
+      "FW-FW-CD": 1,
+      "FW-CD-FW": 1,
+      "CD-FW-FW": 1,
+      "FW-FW-NNP": 2,
+      "FW-NNP-CC": 1,
+      "NNP-CC-NN": 1,
+      "CC-NN-NN": 1,
+      "NN-NN-NNP": 1,
+      "NN-NNP-NN": 1,
+      "NN-NN-JJ": 2,
+      "NN-JJ-NN": 2,
+      "JJ-NN-NN": 1,
+      "FW-NNP-VBD": 1,
+      "NNP-VBD-CD": 1,
+      "VBD-CD-JJ": 1,
+      "CD-JJ-JJ": 1,
+      "JJ-JJ-NNP": 1,
+      "JJ-NNP-FW": 1,
+      "NNP-FW-NN": 1,
+      "FW-NN-FW": 2,
+      "FW-FW-NN": 3,
+      "FW-NN-NN": 3,
+      "FW-FW-JJ": 1,
+      "FW-JJ-NN": 1,
+      "JJ-NN-IN": 2,
+      "NN-IN-CD": 1,
+      "IN-CD-NNS": 1,
+      "CD-NNS-NNP": 1,
+      "NNS-NNP-VBP": 2,
+      "NNP-VBP-VBZ": 1,
+      "VBP-VBZ-IN": 1,
+      "VBZ-IN-FW": 1,
+      "IN-FW-FW": 2,
+      "NN-FW-VBZ": 1,
+      "FW-VBZ-DT": 1,
+      "VBZ-DT-NN": 1,
+      "DT-NN-VBZ": 1,
+      "NN-VBZ-JJ": 1,
+      "VBZ-JJ-JJ": 1,
+      "JJ-JJ-NN": 1,
+      "NN-IN-FW": 2,
+      "IN-FW-NNS": 1,
+      "FW-NNS-NNP": 1,
+      "NNP-VBP-NN": 1,
+      "VBP-NN-FW": 1,
+      "NN-FW-NNP": 1,
+      "FW-NNP-NN": 1,
+      "JJ-NN-CD": 1,
+      "NN-CD-NNS": 1,
+      "CD-NNS-IN": 1,
+      "NNS-IN-FW": 1,
+      "IN-FW-NN": 1,
+      "FW-NN-NNS": 1,
+      "NN-NNS-VBZ": 1,
+      "NNS-VBZ-JJ": 1,
+      "VBZ-JJ-FW": 1,
+      "JJ-FW-NN": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "FW": 41,
+        "NN": 38,
+        "NNP": 14,
+        "JJ": 8,
+        "IN": 6
+      },
+      "top_bigrams": {
+        "FW-FW": 25,
+        "NN-NN": 21,
+        "FW-NNP": 6,
+        "NN-FW": 6,
+        "FW-NN": 6
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 18,
+        "NN-NN-NN": 12,
+        "NN-FW-FW": 4,
+        "NNP-FW-NNP": 3,
+        "NNP-NN-NN": 3
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 5,
+    "chunk_counts": {
+      "NP": 34,
+      "PP": 3,
+      "ADJP": 2,
+      "VP": 4
+    },
+    "top_rules": [
+      {
+        "rule": "S -> NP ('de', 'FW') NP ('de', 'FW') NP ('y', 'FW') NP ('de', 'FW') NP ('(', '(') NP (',', ',') NP PP (')', ')') NP ('lunes', 'FW') ('de', 'FW') ('la', 'FW') ('ocurrencia', 'FW') ('de', 'FW') ('un', 'FW') ('sismo', 'FW') ('de', 'FW') ('magnitud', 'FW') ('4,8', 'CD') ('en', 'FW') ('la', 'FW') ('ciudad', 'FW') ('turca', 'FW') ('de', 'FW') NP (',', ',') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0208
+      },
+      {
+        "rule": "NP -> ('La', 'NNP') ('Autoridad', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0208
+      },
+      {
+        "rule": "NP -> ('Gestión', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0208
+      },
+      {
+        "rule": "NP -> ('Emergencias', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0208
+      },
+      {
+        "rule": "NP -> ('Desastres', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0208
+      },
+      {
+        "rule": "NP -> ('Türkiye', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0208
+      },
+      {
+        "rule": "NP -> ('AFAD', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0208
+      },
+      {
+        "rule": "NP -> ('por', 'NN') ('sus', 'NN') ('siglas', 'NN')",
+        "frequency": 1,
+        "weight": 0.0208
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 1,
+        "weight": 0.0208
+      },
+      {
+        "rule": "NP -> ('turco', 'NN')",
+        "frequency": 1,
+        "weight": 0.0208
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "La Autoridad"
+      },
+      {
+        "label": "NP",
+        "text": "Gestión"
+      },
+      {
+        "label": "NP",
+        "text": "Emergencias"
+      },
+      {
+        "label": "NP",
+        "text": "Desastres"
+      },
+      {
+        "label": "NP",
+        "text": "Türkiye"
+      },
+      {
+        "label": "NP",
+        "text": "AFAD"
+      },
+      {
+        "label": "NP",
+        "text": "por sus siglas"
+      },
+      {
+        "label": "PP",
+        "text": "en turco"
+      },
+      {
+        "label": "NP",
+        "text": "turco"
+      },
+      {
+        "label": "NP",
+        "text": "informó este"
+      },
+      {
+        "label": "NP",
+        "text": "Manisa"
+      },
+      {
+        "label": "NP",
+        "text": "al oeste del país"
+      },
+      {
+        "label": "NP",
+        "text": "Asimismo"
+      },
+      {
+        "label": "NP",
+        "text": "informó que los"
+      },
+      {
+        "label": "NP",
+        "text": "seísmos se reportaron"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP La/NNP Autoridad/NNP)\n  de/FW\n  (NP Gestión/NNP)\n  de/FW\n  (NP Emergencias/NNP)\n  y/FW\n  (NP Desastres/NNP)\n  de/FW\n  (NP Türkiye/NNP)\n  (/(\n  (NP AFAD/NNP)\n  ,/,\n  (NP por/NN sus/NN siglas/NN)\n  (PP en/IN (NP turco/NN))\n  )/)\n  (NP informó/NN este/NN)\n  lunes/FW\n  de/FW\n  la/FW\n  ocurrencia/FW\n  de/FW\n  un/FW\n  sismo/FW\n  de/FW\n  magnitud/FW\n  4,8/CD\n  en/FW\n  la/FW\n  ciudad/FW\n  turca/FW\n  de/FW\n  (NP Manisa/NNP)\n  ,/,\n  (NP al/JJ oeste/NN del/NN país/NN)\n  ./.)",
+      "(S\n  (NP Asimismo/NNP)\n  ,/,\n  (NP informó/NN que/NN los/NN)\n  (NP seísmos/JJ se/NN reportaron/NN)\n  en/FW\n  el/FW\n  distrito/FW\n  de/FW\n  (NP Soma/NNP)\n  ,/,\n  a/DT\n  (ADJP las/JJ)\n  01H36/CD\n  (/(\n  (VP hora/VB local/JJ)\n  )/)\n  ./.)",
+      "(S\n  (NP De/NNP)\n  (NP igual/JJ forma/NN la/NN)\n  (PP agencia/IN (NP informó/JJ que/NN))\n  el/FW\n  epicentro/FW\n  del/FW\n  sismo/FW\n  se/FW\n  localizó/FW\n  (NP a/DT una/JJ profundidad/NN)\n  de/IN\n  10,24/CD\n  (NP kilómetros/NNS)\n  ./.)",
+      "(S\n  (NP Aunque/NNP)\n  (ADJP existen/JJ)\n  (VP reportes/VBZ)\n  de/FW\n  perceptibilidad/FW\n  en/FW\n  el/FW\n  área/FW\n  ,/,\n  (NP hasta/NN el/NN)\n  (VP momento/VBZ (NP no/DT hay/NN))\n  (VP referencias/VBZ (NP a/DT daños/NN) (NP ni/JJ pérdidas/NN))\n  de/IN\n  vidas/FW\n  (NP humanas/NNS)\n  ./.)",
+      "(S\n  (NP La/NNP)\n  (NP ciudad/JJ turca/NN)\n  (PP de/IN (NP Manisa/NNP cuenta/NN con/NN))\n  (NP una/JJ población/NN)\n  244.000/CD\n  (NP habitantes/NNS)\n  y/RB\n  ,/,\n  de/FW\n  acuerdo/FW\n  (NP con/NN las/NNS autoridades/NNS)\n  ,/,\n  la/FW\n  escasa/FW\n  profundidad/FW\n  del/FW\n  sismo/FW\n  (NP provocó/NN que/NN se/NN sintiera/NN más/NN fuerte/NN)\n  en/IN\n  el/FW\n  área/FW\n  (NP cercana/NN al/NN epicentro/NN)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "REGIONES_PROVINCIAS",
+      "DESASTRES_ACCIDENTES_EMERGENCIAS"
+    ],
+    "matches": [
+      {
+        "category": "DESASTRES_ACCIDENTES_EMERGENCIAS",
+        "matched_text": "sismo de magnitud 4",
+        "position": [
+          136,
+          155
+        ],
+        "start": 136,
+        "end": 155
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "informó",
+        "position": [
+          94,
+          101
+        ],
+        "start": 94,
+        "end": 101
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "área, hasta",
+        "position": [
+          466,
+          477
+        ],
+        "start": 466,
+        "end": 477
+      }
+    ],
+    "match_count": 3
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "AFAD",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "distrito de Soma",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Autoridad de Gestión de Emergencias y Desastres de Türkiye",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Manisa",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Autoridad de Gestión de Emergencias y Desastres de Türkiye",
+        "relacion": "ES",
+        "objeto": "AFAD"
+      },
+      {
+        "sujeto": "Autoridad de Gestión de Emergencias y Desastres de Türkiye",
+        "relacion": "INFORMAR",
+        "objeto": "Manisa"
+      },
+      {
+        "sujeto": "AFAD",
+        "relacion": "INFORMAR",
+        "objeto": "Manisa"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.296,
+    "pos": 0.0,
+    "neu": 0.983,
+    "neg": 0.017,
+    "label": "negative"
+  }
+}

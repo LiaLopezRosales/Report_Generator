@@ -1,0 +1,785 @@
+{
+  "url": "https://www.telesurtv.net/controlan-incendio-en-termoelectrica-de-occidente-de-cuba/",
+  "title": "Controlan incendio en termoeléctrica de occidente de Cuba - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [],
+  "text": "Fuerzas especializadas controlaron un incendio ocurrido este viernes en áreas de la central termoeléctrica Antonio Guiteras, ubicada en la provincia de Matanzas, en el occidente de Cuba.\nDe acuerdo con medios de prensa cubanos, alrededor de las 10H50 hora local se avistó humo en uno de los tanques de almacenamiento de crudo que abastecen la planta, con capacidad de diseño de 10.000 metros cúbicos.\nVarios comandos de Bomberos se encuentran trabajando en la central, considerada la más eficiente del país, para extinguir el siniestro. Hasta el momento no se reportan lesionados.\nPese al incidente, el bloque opera con normalidad y genera de manera estable 260 Megavatios. En el sitio se encuentran las principales autoridades de la provincia, mientras que otro personal especializado intenta determinar las causas.\nEl ministro de Energía y Minas, Vicente de la O Levy, informó a través de la red social X que “se cuenta con todos los recursos necesarios para el control del incendio en el tanque de combustible de la CTE Guiteras. Suficiente espuma, agua. El cuerpo de bomberos está trabajando con su acostumbrada organización y altruismo”.\nAdemás, se activó el sistema contra incendios, se procedió al enfriamiento de los tanques de combustible aledaños y se creó un muro de contención en caso de derrame. Gran parte de los trabajadores fueron evacuados, mientras otros se mantienen en el lugar para brindar la ayuda necesaria.\nUn periodista local, José Miguel Solís, confirmó que “tropas combinadas contra incendios de la zona industrial matancera con similares de (la localidad de) Santa Cruz del Norte, cortan las posibles vías de propagación hacia otros depósitos y tratan con productos químicos, como espuma, el tanque que se incendió”. Otra periodista local, Yenli Lemus Domínguez, señaló que el humo va disminuyendo.\nEl primer secretario del Partido Comunista de Cuba en el territorio, Mario Sabines Lorenzo, confirmó que se controló el siniestro.\nEsta CTE se halla no lejos de la Base de Supertanqueros de Matanzas, afectada por un incendio de grandes proporciones en agosto de 2023.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/controlan-incendio-en-termoelectrica-de-occidente-de-cuba/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-06.json",
+    "message_index": 556,
+    "message_id": 72187,
+    "date": "2024-06-14T18:55:18+00:00",
+    "text": "teleSUR\nControlan incendio en termoeléctrica de occidente de Cuba\nhttps://www.telesurtv.net/controlan-incendio-en-termoelectrica-de-occidente-de-cuba/",
+    "photo_path": null,
+    "views": 1701,
+    "reactions": {},
+    "total_reactions": 0
+  },
+  "preprocessing": {
+    "cleaned": "fuerzas especializadas controlaron un incendio ocurrido este viernes en áreas de la central termoeléctrica antonio guiteras, ubicada en la provincia de matanzas, en el occidente de cuba. de acuerdo con medios de prensa cubanos, alrededor de las 10h50 hora local se avistó humo en uno de los tanques de almacenamiento de crudo que abastecen la planta, con capacidad de diseño de 10.000 metros cúbicos. varios comandos de bomberos se encuentran trabajando en la central, considerada la más eficiente del país, para extinguir el siniestro. hasta el momento no se reportan lesionados. pese al incidente, el bloque opera con normalidad y genera de manera estable 260 megavatios. en el sitio se encuentran las principales autoridades de la provincia, mientras que otro personal especializado intenta determinar las causas. el ministro de energía y minas, vicente de la o levy, informó a través de la red social x que “se cuenta con todos los recursos necesarios para el control del incendio en el tanque de combustible de la cte guiteras. suficiente espuma, agua. el cuerpo de bomberos está trabajando con su acostumbrada organización y altruismo”. además, se activó el sistema contra incendios, se procedió al enfriamiento de los tanques de combustible aledaños y se creó un muro de contención en caso de derrame. gran parte de los trabajadores fueron evacuados, mientras otros se mantienen en el lugar para brindar la ayuda necesaria. un periodista local, josé miguel solís, confirmó que “tropas combinadas contra incendios de la zona industrial matancera con similares de (la localidad de) santa cruz del norte, cortan las posibles vías de propagación hacia otros depósitos y tratan con productos químicos, como espuma, el tanque que se incendió”. otra periodista local, yenli lemus domínguez, señaló que el humo va disminuyendo. el primer secretario del partido comunista de cuba en el territorio, mario sabines lorenzo, confirmó que se controló el siniestro. esta cte se halla no lejos de la base de supertanqueros de matanzas, afectada por un incendio de grandes proporciones en agosto de 2023.",
+    "tokens": [
+      "fuerzas",
+      "especializadas",
+      "controlaron",
+      "incendio",
+      "ocurrido",
+      "viernes",
+      "áreas",
+      "central",
+      "termoeléctrica",
+      "antonio",
+      "guiteras",
+      ",",
+      "ubicada",
+      "provincia",
+      "matanzas",
+      ",",
+      "occidente",
+      "cuba",
+      ".",
+      "acuerdo",
+      "medios",
+      "prensa",
+      "cubanos",
+      ",",
+      "alrededor",
+      "10h50",
+      "hora",
+      "local",
+      "avistó",
+      "humo",
+      "tanques",
+      "almacenamiento",
+      "crudo",
+      "abastecen",
+      "planta",
+      ",",
+      "capacidad",
+      "diseño",
+      "10.000",
+      "metros",
+      "cúbicos",
+      ".",
+      "varios",
+      "comandos",
+      "bomberos",
+      "encuentran",
+      "trabajando",
+      "central",
+      ",",
+      "considerada",
+      "eficiente",
+      "país",
+      ",",
+      "extinguir",
+      "siniestro",
+      ".",
+      "momento",
+      "reportan",
+      "lesionados",
+      ".",
+      "pese",
+      "incidente",
+      ",",
+      "bloque",
+      "opera",
+      "normalidad",
+      "genera",
+      "manera",
+      "estable",
+      "260",
+      "megavatios",
+      ".",
+      "sitio",
+      "encuentran",
+      "principales",
+      "autoridades",
+      "provincia",
+      ",",
+      "mientras",
+      "personal",
+      "especializado",
+      "intenta",
+      "determinar",
+      "causas",
+      ".",
+      "ministro",
+      "energía",
+      "minas",
+      ",",
+      "vicente",
+      "levy",
+      ",",
+      "informó",
+      "través",
+      "red",
+      "social",
+      "x",
+      "“",
+      "cuenta",
+      "recursos",
+      "necesarios",
+      "control",
+      "incendio",
+      "tanque",
+      "combustible",
+      "cte",
+      "guiteras",
+      ".",
+      "suficiente",
+      "espuma",
+      ",",
+      "agua",
+      ".",
+      "cuerpo",
+      "bomberos",
+      "trabajando",
+      "acostumbrada",
+      "organización",
+      "altruismo",
+      "”",
+      ".",
+      "además",
+      ",",
+      "activó",
+      "sistema",
+      "incendios",
+      ",",
+      "procedió",
+      "enfriamiento",
+      "tanques",
+      "combustible",
+      "aledaños",
+      "creó",
+      "muro",
+      "contención",
+      "caso",
+      "derrame",
+      ".",
+      "gran",
+      "parte",
+      "trabajadores",
+      "evacuados",
+      ",",
+      "mientras",
+      "mantienen",
+      "lugar",
+      "brindar",
+      "ayuda",
+      "necesaria",
+      ".",
+      "periodista",
+      "local",
+      ",",
+      "josé",
+      "miguel",
+      "solís",
+      ",",
+      "confirmó",
+      "“",
+      "tropas",
+      "combinadas",
+      "incendios",
+      "zona",
+      "industrial",
+      "matancera",
+      "similares",
+      "(",
+      "localidad",
+      ")",
+      "santa",
+      "cruz",
+      "norte",
+      ",",
+      "cortan",
+      "posibles",
+      "vías",
+      "propagación",
+      "hacia",
+      "depósitos",
+      "tratan",
+      "productos",
+      "químicos",
+      ",",
+      "espuma",
+      ",",
+      "tanque",
+      "incendió",
+      "”",
+      ".",
+      "periodista",
+      "local",
+      ",",
+      "yenli",
+      "lemus",
+      "domínguez",
+      ",",
+      "señaló",
+      "humo",
+      "va",
+      "disminuyendo",
+      ".",
+      "primer",
+      "secretario",
+      "partido",
+      "comunista",
+      "cuba",
+      "territorio",
+      ",",
+      "mario",
+      "sabines",
+      "lorenzo",
+      ",",
+      "confirmó",
+      "controló",
+      "siniestro",
+      ".",
+      "cte",
+      "halla",
+      "lejos",
+      "base",
+      "supertanqueros",
+      "matanzas",
+      ",",
+      "afectada",
+      "incendio",
+      "grandes",
+      "proporciones",
+      "agosto",
+      "2023",
+      "."
+    ],
+    "token_count": 230,
+    "sentence_count": 15
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 48,
+      "CC": 2,
+      "NN": 102,
+      "JJ": 31,
+      "NNS": 18,
+      "IN": 16,
+      "FW": 90,
+      "VBP": 8,
+      "CD": 4,
+      "DT": 2,
+      "VBZ": 2,
+      "VBD": 2
+    },
+    "bigram_freq": {
+      "NNP-CC": 2,
+      "CC-NN": 1,
+      "NN-JJ": 8,
+      "JJ-NN": 17,
+      "NN-NN": 55,
+      "NN-NNS": 4,
+      "NNS-IN": 4,
+      "IN-FW": 12,
+      "FW-FW": 48,
+      "FW-JJ": 4,
+      "NN-NNP": 10,
+      "NNP-NNP": 17,
+      "NNP-FW": 14,
+      "FW-NNP": 14,
+      "FW-NN": 15,
+      "NN-FW": 12,
+      "FW-NNS": 6,
+      "NNS-VBP": 7,
+      "VBP-IN": 1,
+      "FW-CD": 2,
+      "CD-JJ": 1,
+      "JJ-JJ": 5,
+      "NNS-FW": 3,
+      "NN-IN": 9,
+      "CD-NNS": 1,
+      "NNS-JJ": 1,
+      "JJ-NNP": 3,
+      "NNP-NN": 11,
+      "IN-JJ": 2,
+      "NN-DT": 2,
+      "DT-JJ": 1,
+      "NNP-VBZ": 1,
+      "VBZ-JJ": 1,
+      "JJ-FW": 1,
+      "JJ-CD": 1,
+      "CD-NNP": 1,
+      "NN-VBD": 1,
+      "VBD-NNS": 1,
+      "NNS-NNS": 2,
+      "VBP-NNP": 1,
+      "JJ-NNS": 4,
+      "VBP-JJ": 6,
+      "IN-NN": 1,
+      "NNS-NNP": 1,
+      "NNP-VBP": 1,
+      "NNP-JJ": 1,
+      "NN-VBZ": 1,
+      "VBZ-IN": 1,
+      "NNP-VBD": 1,
+      "VBD-NN": 1,
+      "DT-NN": 1,
+      "CC-JJ": 1,
+      "FW-IN": 1,
+      "IN-CD": 1
+    },
+    "trigram_freq": {
+      "NNP-CC-NN": 1,
+      "CC-NN-JJ": 1,
+      "NN-JJ-NN": 4,
+      "JJ-NN-NN": 11,
+      "NN-NN-NN": 29,
+      "NN-NN-NNS": 3,
+      "NN-NNS-IN": 1,
+      "NNS-IN-FW": 3,
+      "IN-FW-FW": 5,
+      "FW-FW-FW": 28,
+      "FW-FW-JJ": 2,
+      "FW-JJ-NN": 2,
+      "JJ-NN-NNP": 1,
+      "NN-NNP-NNP": 4,
+      "NNP-NNP-NNP": 6,
+      "NNP-NNP-FW": 7,
+      "NNP-FW-FW": 6,
+      "FW-FW-NNP": 7,
+      "FW-NNP-FW": 6,
+      "FW-NNP-NNP": 4,
+      "NNP-FW-NN": 4,
+      "FW-NN-FW": 3,
+      "NN-FW-FW": 6,
+      "FW-FW-NNS": 4,
+      "FW-NNS-VBP": 2,
+      "NNS-VBP-IN": 1,
+      "VBP-IN-FW": 1,
+      "IN-FW-CD": 1,
+      "FW-CD-JJ": 1,
+      "CD-JJ-JJ": 1,
+      "JJ-JJ-NN": 5,
+      "NN-NN-FW": 6,
+      "FW-NNS-FW": 2,
+      "NNS-FW-FW": 3,
+      "FW-FW-NN": 5,
+      "FW-NN-NN": 6,
+      "NN-NN-IN": 5,
+      "NN-IN-FW": 7,
+      "FW-FW-CD": 1,
+      "FW-CD-NNS": 1,
+      "CD-NNS-JJ": 1,
+      "NNS-JJ-NNP": 1,
+      "JJ-NNP-NN": 1,
+      "NNP-NN-FW": 2,
+      "NN-FW-NNP": 1,
+      "NN-IN-JJ": 1,
+      "IN-JJ-JJ": 2,
+      "NN-FW-NN": 4,
+      "FW-NN-NNP": 5,
+      "NN-NNP-NN": 5,
+      "NNP-NN-NN": 8,
+      "NN-NN-DT": 1,
+      "NN-DT-JJ": 1,
+      "DT-JJ-NN": 1,
+      "NN-NN-NNP": 4,
+      "NN-NNP-VBZ": 1,
+      "NNP-VBZ-JJ": 1,
+      "VBZ-JJ-FW": 1,
+      "JJ-FW-NN": 1,
+      "NN-NN-JJ": 5,
+      "JJ-NN-IN": 3,
+      "IN-FW-JJ": 2,
+      "FW-JJ-CD": 1,
+      "JJ-CD-NNP": 1,
+      "CD-NNP-NNP": 1,
+      "NN-NN-VBD": 1,
+      "NN-VBD-NNS": 1,
+      "VBD-NNS-NNS": 1,
+      "NNS-NNS-NNS": 1,
+      "NNS-NNS-IN": 1,
+      "NN-NNS-VBP": 2,
+      "NNS-VBP-NNP": 1,
+      "VBP-NNP-FW": 1,
+      "FW-NNP-NN": 2,
+      "FW-JJ-JJ": 1,
+      "JJ-NN-JJ": 1,
+      "NN-JJ-NNS": 3,
+      "JJ-NNS-VBP": 3,
+      "NNS-VBP-JJ": 5,
+      "VBP-JJ-NN": 4,
+      "IN-FW-NN": 1,
+      "IN-FW-NNS": 1,
+      "FW-NNS-IN": 1,
+      "NNS-IN-JJ": 1,
+      "VBP-JJ-NNS": 1,
+      "NN-IN-NN": 1,
+      "IN-NN-NN": 1,
+      "NN-FW-NNS": 1,
+      "FW-NNS-NNP": 1,
+      "NNS-NNP-VBP": 1,
+      "NNP-VBP-JJ": 1,
+      "VBP-JJ-NNP": 1,
+      "JJ-NNP-NNP": 2,
+      "NNP-NNP-NN": 3,
+      "JJ-NNS-IN": 1,
+      "IN-FW-NNP": 2,
+      "FW-NNP-JJ": 1,
+      "NNP-JJ-NN": 1,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-IN": 1,
+      "VBZ-IN-FW": 1,
+      "NNP-FW-NNP": 4,
+      "NN-NNS-FW": 1,
+      "FW-NN-NNS": 1,
+      "NNP-NN-JJ": 1,
+      "NN-JJ-NNP": 1,
+      "NNP-NNP-VBD": 1,
+      "NNP-VBD-NN": 1,
+      "VBD-NN-DT": 1,
+      "NN-DT-NN": 1,
+      "DT-NN-IN": 1,
+      "FW-NNP-CC": 1,
+      "NNP-CC-JJ": 1,
+      "CC-JJ-JJ": 1,
+      "JJ-NN-FW": 1,
+      "FW-FW-IN": 1,
+      "FW-IN-CD": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 102,
+        "FW": 90,
+        "NNP": 48,
+        "JJ": 31,
+        "NNS": 18
+      },
+      "top_bigrams": {
+        "NN-NN": 55,
+        "FW-FW": 48,
+        "JJ-NN": 17,
+        "NNP-NNP": 17,
+        "FW-NN": 15
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 29,
+        "FW-FW-FW": 28,
+        "JJ-NN-NN": 11,
+        "NNP-NN-NN": 8,
+        "NNP-NNP-FW": 7
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 15,
+    "chunk_counts": {
+      "NP": 90,
+      "ADJP": 6,
+      "VP": 12,
+      "PP": 3
+    },
+    "top_rules": [
+      {
+        "rule": "NP -> ('Matanzas', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0159
+      },
+      {
+        "rule": "NP -> ('Cuba', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0159
+      },
+      {
+        "rule": "NP -> ('tanques', 'NNS')",
+        "frequency": 2,
+        "weight": 0.0159
+      },
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0159
+      },
+      {
+        "rule": "NP -> ('siniestro', 'NN')",
+        "frequency": 2,
+        "weight": 0.0159
+      },
+      {
+        "rule": "VP -> ('se', 'VBD') NP NP",
+        "frequency": 2,
+        "weight": 0.0159
+      },
+      {
+        "rule": "NP -> ('contra', 'JJ') ('incendios', 'NNS')",
+        "frequency": 2,
+        "weight": 0.0159
+      },
+      {
+        "rule": "ADJP -> ('local', 'JJ')",
+        "frequency": 2,
+        "weight": 0.0159
+      },
+      {
+        "rule": "S -> NP ('especializadas', 'CC') NP NP ('en', 'IN') ('áreas', 'FW') ('de', 'FW') ('la', 'FW') NP (',', ',') ADJP ('en', 'FW') ('la', 'FW') ('provincia', 'FW') ('de', 'FW') NP (',', ',') ('en', 'FW') ('el', 'FW') ('occidente', 'FW') ('de', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0079
+      },
+      {
+        "rule": "NP -> ('Fuerzas', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0079
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Fuerzas"
+      },
+      {
+        "label": "NP",
+        "text": "controlaron"
+      },
+      {
+        "label": "NP",
+        "text": "un incendio ocurrido este viernes"
+      },
+      {
+        "label": "NP",
+        "text": "central termoeléctrica Antonio Guiteras"
+      },
+      {
+        "label": "ADJP",
+        "text": "ubicada"
+      },
+      {
+        "label": "NP",
+        "text": "Matanzas"
+      },
+      {
+        "label": "NP",
+        "text": "Cuba"
+      },
+      {
+        "label": "NP",
+        "text": "De"
+      },
+      {
+        "label": "NP",
+        "text": "con"
+      },
+      {
+        "label": "NP",
+        "text": "cubanos"
+      },
+      {
+        "label": "NP",
+        "text": "alrededor"
+      },
+      {
+        "label": "NP",
+        "text": "hora local se avistó humo"
+      },
+      {
+        "label": "NP",
+        "text": "tanques"
+      },
+      {
+        "label": "NP",
+        "text": "con capacidad"
+      },
+      {
+        "label": "NP",
+        "text": "metros cúbicos"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Fuerzas/NNP)\n  especializadas/CC\n  (NP controlaron/NN)\n  (NP un/JJ incendio/NN ocurrido/NN este/NN viernes/NNS)\n  en/IN\n  áreas/FW\n  de/FW\n  la/FW\n  (NP central/JJ termoeléctrica/NN Antonio/NNP Guiteras/NNP)\n  ,/,\n  (ADJP ubicada/JJ)\n  en/FW\n  la/FW\n  provincia/FW\n  de/FW\n  (NP Matanzas/NNP)\n  ,/,\n  en/FW\n  el/FW\n  occidente/FW\n  de/FW\n  (NP Cuba/NNP)\n  ./.)",
+      "(S\n  (NP De/NNP)\n  acuerdo/FW\n  (NP con/NN)\n  medios/FW\n  de/FW\n  prensa/FW\n  (NP cubanos/NNS)\n  ,/,\n  (NP alrededor/NN)\n  de/IN\n  las/FW\n  10H50/CD\n  (NP hora/JJ local/JJ se/NN avistó/NN humo/NN)\n  en/FW\n  uno/FW\n  de/FW\n  los/FW\n  (NP tanques/NNS)\n  de/FW\n  almacenamiento/FW\n  de/FW\n  crudo/FW\n  que/FW\n  abastecen/FW\n  la/FW\n  planta/FW\n  ,/,\n  (NP con/JJ capacidad/NN)\n  de/IN\n  diseño/FW\n  de/FW\n  10.000/CD\n  (NP metros/NNS cúbicos/NN)\n  ./.)",
+      "(S\n  (NP Varios/NNS)\n  (VP comandos/VBP)\n  (PP de/IN (NP Bomberos/NNP))\n  se/FW\n  (NP encuentran/NN trabajando/NN)\n  en/IN\n  (ADJP la/JJ)\n  (ADJP central/JJ)\n  ,/,\n  (NP considerada/JJ la/NN)\n  más/FW\n  eficiente/FW\n  del/FW\n  (NP país/NN)\n  ,/,\n  (NP para/NN extinguir/NN)\n  el/FW\n  (NP siniestro/NN)\n  ./.)",
+      "(S\n  (NP Hasta/NNP)\n  el/CC\n  (VP momento/VBZ (NP no/DT se/JJ reportan/NN lesionados/NN))\n  ./.)",
+      "(S\n  (NP Pese/JJ al/NN incidente/NN)\n  ,/,\n  el/FW\n  (NP bloque/NN opera/NN con/NN)\n  (NP normalidad/JJ y/NN genera/NN)\n  de/IN\n  manera/FW\n  (ADJP estable/JJ)\n  260/CD\n  (NP Megavatios/NNS)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "GOBIERNOS_OFICIALES",
+      "RECURSOS_NATURALES",
+      "LEYES_NORMATIVAS",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "MEDIOS_COMUNICACION",
+      "REGIONES_PROVINCIAS",
+      "PAISES",
+      "INFRAESTRUCTURA_SERVICIOS"
+    ],
+    "matches": [
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "señaló",
+        "position": [
+          1791,
+          1797
+        ],
+        "start": 1791,
+        "end": 1797
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "informó",
+        "position": [
+          871,
+          878
+        ],
+        "start": 871,
+        "end": 878
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "ministro de energía y",
+        "position": [
+          820,
+          841
+        ],
+        "start": 820,
+        "end": 841
+      },
+      {
+        "category": "MEDIOS_COMUNICACION",
+        "matched_text": "periodista local, josé miguel",
+        "position": [
+          1434,
+          1463
+        ],
+        "start": 1434,
+        "end": 1463
+      },
+      {
+        "category": "LEYES_NORMATIVAS",
+        "matched_text": "acuerdo con medios de prensa cubanos, alrededor de las 10h50 hora local se avistó humo en uno de los tanques de almacenamiento de crudo que abastecen la planta, con capacidad de diseño de 10",
+        "position": [
+          190,
+          380
+        ],
+        "start": 190,
+        "end": 380
+      },
+      {
+        "category": "RECURSOS_NATURALES",
+        "matched_text": "agua",
+        "position": [
+          1052,
+          1056
+        ],
+        "start": 1052,
+        "end": 1056
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "energía",
+        "position": [
+          832,
+          839
+        ],
+        "start": 832,
+        "end": 839
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "cuba",
+        "position": [
+          181,
+          185
+        ],
+        "start": 181,
+        "end": 185
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "provincia de",
+        "position": [
+          139,
+          151
+        ],
+        "start": 139,
+        "end": 151
+      }
+    ],
+    "match_count": 9
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Partido Comunista de Cuba",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Matanzas",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Bomberos",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Energía y Minas",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Mario Sabines Lorenzo",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Vicente de la O Levy",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Santa Cruz del Norte",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Yenli Lemus Domínguez",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Antonio Guiteras",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "CTE Guiteras",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "José Miguel Solís",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Cuba",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Base de Supertanqueros de Matanzas",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Energía y Minas",
+        "relacion": "INFORMAR",
+        "objeto": "CTE Guiteras"
+      },
+      {
+        "sujeto": "Vicente de la O Levy",
+        "relacion": "INFORMAR",
+        "objeto": "CTE Guiteras"
+      },
+      {
+        "sujeto": "José Miguel Solís",
+        "relacion": "CONFIRMAR",
+        "objeto": "Santa Cruz del Norte"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.5267,
+    "pos": 0.0,
+    "neu": 0.987,
+    "neg": 0.013,
+    "label": "negative"
+  }
+}

@@ -1,0 +1,629 @@
+{
+  "url": "https://www.telesurtv.net/choque-entre-un-tren-y-un-autobus-deja-al-menos-seis-muertos-en-eslovaquia/",
+  "title": "Choque entre un tren y un autobús deja al menos seis muertos en Eslovaquia - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Accidente",
+    "Eslovaquia",
+    "Muertos",
+    "tren"
+  ],
+  "text": "Este jueves, un tren de alta velocidad que cubría la ruta entre la República Checa y Hungría impactó contra un autobús en las inmediaciones de la ciudad de Novéámky, localizada al sur de Eslovaquia.\nA bordo del tren iban otras 100 personas que, al parecer, no presentaron lesiones. En tanto, los que resultaron heridos se evacuaron de forma inmediata hacia los hospitales más cercanos en helicópteros.\nEl accidente ocurrió sobre las 17H00 (hora local), según informaron la policía y la compañía ferroviaria eslovaca ZSSK.\n“La Empresa Ferroviaria Nacional de Eslovaquia con profunda tristeza nos enteramos del trágico accidente de tráfico que ocurrió hoy entre Nové Zámky y Dvory nad Žitavou. Afortunadamente, todos los pasajeros y el personal a bordo de nuestro tren EC 279 están bien”, subrayó la ZSKK en su cuenta de X.\n“Nuestros corazones y pensamientos están con las familias y seres queridos de los pasajeros del autobús que resultaron heridos o fallecieron en este accidente. Queremos expresar nuestras más sinceras condolencias a todos los afectados por este suceso. Agradecemos a los equipos de rescate por su rápida y profesional respuesta y nos comprometemos a apoyar sus esfuerzos continuos en el manejo de esta situación”, añadió el ente del transporte.\nAnte cualquier contingencia, la empresa dijo que está preparada para “brindar toda la ayuda y apoyo necesarios”.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/choque-entre-un-tren-y-un-autobus-deja-al-menos-seis-muertos-en-eslovaquia/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-06.json",
+    "message_index": 113,
+    "message_id": 72630,
+    "date": "2024-06-28T02:55:18+00:00",
+    "text": "teleSUR\nChoque entre un tren y un autobús deja al menos seis muertos en Eslovaquia\nhttps://www.telesurtv.net/choque-entre-un-tren-y-un-autobus-deja-al-menos-seis-muertos-en-eslovaquia/",
+    "photo_path": null,
+    "views": 1138,
+    "reactions": {},
+    "total_reactions": 0
+  },
+  "preprocessing": {
+    "cleaned": "este jueves, un tren de alta velocidad que cubría la ruta entre la república checa y hungría impactó contra un autobús en las inmediaciones de la ciudad de novéámky, localizada al sur de eslovaquia. a bordo del tren iban otras 100 personas que, al parecer, no presentaron lesiones. en tanto, los que resultaron heridos se evacuaron de forma inmediata hacia los hospitales más cercanos en helicópteros. el accidente ocurrió sobre las 17h00 (hora local), según informaron la policía y la compañía ferroviaria eslovaca zssk. “la empresa ferroviaria nacional de eslovaquia con profunda tristeza nos enteramos del trágico accidente de tráfico que ocurrió hoy entre nové zámky y dvory nad žitavou. afortunadamente, todos los pasajeros y el personal a bordo de nuestro tren ec 279 están bien”, subrayó la zskk en su cuenta de x. “nuestros corazones y pensamientos están con las familias y seres queridos de los pasajeros del autobús que resultaron heridos o fallecieron en este accidente. queremos expresar nuestras más sinceras condolencias a todos los afectados por este suceso. agradecemos a los equipos de rescate por su rápida y profesional respuesta y nos comprometemos a apoyar sus esfuerzos continuos en el manejo de esta situación”, añadió el ente del transporte. ante cualquier contingencia, la empresa dijo que está preparada para “brindar toda la ayuda y apoyo necesarios”.",
+    "tokens": [
+      "jueves",
+      ",",
+      "tren",
+      "alta",
+      "velocidad",
+      "cubría",
+      "ruta",
+      "república",
+      "checa",
+      "hungría",
+      "impactó",
+      "autobús",
+      "inmediaciones",
+      "ciudad",
+      "novéámky",
+      ",",
+      "localizada",
+      "sur",
+      "eslovaquia",
+      ".",
+      "bordo",
+      "tren",
+      "iban",
+      "100",
+      "personas",
+      ",",
+      "parecer",
+      ",",
+      "presentaron",
+      "lesiones",
+      ".",
+      ",",
+      "resultaron",
+      "heridos",
+      "evacuaron",
+      "forma",
+      "inmediata",
+      "hacia",
+      "hospitales",
+      "cercanos",
+      "helicópteros",
+      ".",
+      "accidente",
+      "ocurrió",
+      "17h00",
+      "(",
+      "hora",
+      "local",
+      ")",
+      ",",
+      "según",
+      "informaron",
+      "policía",
+      "compañía",
+      "ferroviaria",
+      "eslovaca",
+      "zssk",
+      ".",
+      "“",
+      "empresa",
+      "ferroviaria",
+      "nacional",
+      "eslovaquia",
+      "profunda",
+      "tristeza",
+      "enteramos",
+      "trágico",
+      "accidente",
+      "tráfico",
+      "ocurrió",
+      "hoy",
+      "nové",
+      "zámky",
+      "dvory",
+      "nad",
+      "žitavou",
+      ".",
+      "afortunadamente",
+      ",",
+      "pasajeros",
+      "personal",
+      "bordo",
+      "tren",
+      "ec",
+      "279",
+      "bien",
+      "”",
+      ",",
+      "subrayó",
+      "zskk",
+      "cuenta",
+      "x",
+      ".",
+      "“",
+      "corazones",
+      "pensamientos",
+      "familias",
+      "seres",
+      "queridos",
+      "pasajeros",
+      "autobús",
+      "resultaron",
+      "heridos",
+      "fallecieron",
+      "accidente",
+      ".",
+      "queremos",
+      "expresar",
+      "sinceras",
+      "condolencias",
+      "afectados",
+      "suceso",
+      ".",
+      "agradecemos",
+      "equipos",
+      "rescate",
+      "rápida",
+      "profesional",
+      "respuesta",
+      "comprometemos",
+      "apoyar",
+      "esfuerzos",
+      "continuos",
+      "manejo",
+      "situación",
+      "”",
+      ",",
+      "añadió",
+      "ente",
+      "transporte",
+      ".",
+      "cualquier",
+      "contingencia",
+      ",",
+      "empresa",
+      "dijo",
+      "preparada",
+      "“",
+      "brindar",
+      "toda",
+      "ayuda",
+      "apoyo",
+      "necesarios",
+      "”",
+      "."
+    ],
+    "token_count": 145,
+    "sentence_count": 10
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NN": 77,
+      "NNS": 16,
+      "JJ": 28,
+      "IN": 10,
+      "FW": 27,
+      "NNP": 24,
+      "CC": 1,
+      "VBD": 3,
+      "CD": 3,
+      "DT": 1,
+      "VBZ": 2,
+      "VBP": 10,
+      "$": 1
+    },
+    "bigram_freq": {
+      "NN-NNS": 4,
+      "NNS-JJ": 3,
+      "JJ-NNS": 6,
+      "NNS-IN": 2,
+      "IN-JJ": 3,
+      "JJ-NN": 17,
+      "NN-NN": 42,
+      "NN-FW": 6,
+      "FW-FW": 15,
+      "FW-NNP": 4,
+      "NNP-NNP": 9,
+      "NNP-NN": 8,
+      "NN-JJ": 5,
+      "NN-IN": 8,
+      "IN-FW": 4,
+      "NNP-CC": 1,
+      "CC-JJ": 1,
+      "IN-NNP": 2,
+      "NN-VBD": 2,
+      "VBD-CD": 1,
+      "CD-NNS": 1,
+      "JJ-JJ": 3,
+      "NN-DT": 1,
+      "DT-NN": 1,
+      "NN-VBZ": 1,
+      "VBZ-NNP": 1,
+      "FW-NNS": 2,
+      "NNS-VBP": 7,
+      "VBP-JJ": 8,
+      "VBP-NNS": 1,
+      "JJ-NNP": 2,
+      "VBD-$": 1,
+      "$-CD": 1,
+      "CD-JJ": 1,
+      "NN-NNP": 5,
+      "NNP-FW": 1,
+      "FW-NN": 5,
+      "NNP-JJ": 1,
+      "NNP-VBD": 1,
+      "VBD-JJ": 1,
+      "NN-VBP": 3,
+      "NNS-NNP": 1,
+      "NNP-CD": 1,
+      "CD-NN": 1,
+      "NNP-VBZ": 1,
+      "VBZ-JJ": 1,
+      "NNP-NNS": 1,
+      "NNS-NNS": 1,
+      "NNS-FW": 1,
+      "FW-JJ": 1,
+      "IN-NN": 1,
+      "VBP-NN": 1
+    },
+    "trigram_freq": {
+      "NN-NNS-JJ": 1,
+      "NNS-JJ-NNS": 2,
+      "JJ-NNS-IN": 2,
+      "NNS-IN-JJ": 1,
+      "IN-JJ-NN": 1,
+      "JJ-NN-NN": 7,
+      "NN-NN-NN": 23,
+      "NN-NN-FW": 3,
+      "NN-FW-FW": 2,
+      "FW-FW-FW": 10,
+      "FW-FW-NNP": 2,
+      "FW-NNP-NNP": 2,
+      "NNP-NNP-NNP": 5,
+      "NNP-NNP-NN": 1,
+      "NNP-NN-NN": 7,
+      "NN-NN-JJ": 5,
+      "NN-JJ-NN": 4,
+      "JJ-NN-IN": 4,
+      "NN-IN-JJ": 2,
+      "IN-JJ-NNS": 2,
+      "NNS-IN-FW": 1,
+      "IN-FW-FW": 2,
+      "FW-NNP-CC": 1,
+      "NNP-CC-JJ": 1,
+      "CC-JJ-NN": 1,
+      "NN-IN-NNP": 2,
+      "IN-NNP-NN": 1,
+      "JJ-NN-VBD": 1,
+      "NN-VBD-CD": 1,
+      "VBD-CD-NNS": 1,
+      "CD-NNS-JJ": 1,
+      "NNS-JJ-JJ": 1,
+      "JJ-JJ-NN": 3,
+      "JJ-NN-DT": 1,
+      "NN-DT-NN": 1,
+      "DT-NN-VBZ": 1,
+      "NN-VBZ-NNP": 1,
+      "VBZ-NNP-NN": 1,
+      "NN-IN-FW": 3,
+      "IN-FW-NNS": 1,
+      "FW-NNS-VBP": 1,
+      "NNS-VBP-JJ": 6,
+      "VBP-JJ-NNS": 2,
+      "JJ-NNS-VBP": 1,
+      "NNS-VBP-NNS": 1,
+      "VBP-NNS-VBP": 1,
+      "VBP-JJ-NNP": 1,
+      "JJ-NNP-NN": 1,
+      "NN-NN-VBD": 1,
+      "NN-VBD-$": 1,
+      "VBD-$-CD": 1,
+      "$-CD-JJ": 1,
+      "CD-JJ-JJ": 1,
+      "NN-NN-NNP": 4,
+      "NN-NNP-NNP": 1,
+      "NNP-NNP-FW": 1,
+      "NNP-FW-NNP": 1,
+      "FW-NNP-NN": 1,
+      "NN-JJ-JJ": 1,
+      "NN-NN-IN": 4,
+      "IN-FW-NN": 1,
+      "FW-NN-FW": 2,
+      "NN-FW-NN": 3,
+      "NN-FW-NNP": 1,
+      "NNP-NNP-JJ": 1,
+      "NNP-JJ-NNP": 1,
+      "JJ-NNP-NNP": 1,
+      "NNP-NNP-VBD": 1,
+      "NNP-VBD-JJ": 1,
+      "VBD-JJ-NN": 1,
+      "JJ-NN-VBP": 1,
+      "NN-VBP-JJ": 2,
+      "VBP-JJ-NN": 5,
+      "JJ-NN-FW": 1,
+      "FW-FW-NNS": 1,
+      "FW-NNS-NNP": 1,
+      "NNS-NNP-CD": 1,
+      "NNP-CD-NN": 1,
+      "CD-NN-NN": 1,
+      "NN-NNP-VBZ": 1,
+      "NNP-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 1,
+      "IN-NNP-NNS": 1,
+      "NNP-NNS-NNS": 1,
+      "NNS-NNS-VBP": 1,
+      "JJ-NNS-JJ": 1,
+      "JJ-NNS-FW": 1,
+      "NNS-FW-FW": 1,
+      "FW-FW-JJ": 1,
+      "FW-JJ-NN": 1,
+      "FW-NN-NN": 2,
+      "NN-NNP-NN": 3,
+      "NNP-NN-NNS": 1,
+      "NN-NNS-VBP": 3,
+      "JJ-NN-NNS": 2,
+      "NN-IN-NN": 1,
+      "IN-NN-NN": 1,
+      "NN-NN-VBP": 2,
+      "FW-FW-NN": 1,
+      "FW-NN-NNP": 1,
+      "NN-VBP-NN": 1,
+      "VBP-NN-NN": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 77,
+        "JJ": 28,
+        "FW": 27,
+        "NNP": 24,
+        "NNS": 16
+      },
+      "top_bigrams": {
+        "NN-NN": 42,
+        "JJ-NN": 17,
+        "FW-FW": 15,
+        "NNP-NNP": 9,
+        "NNP-NN": 8
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 23,
+        "FW-FW-FW": 10,
+        "JJ-NN-NN": 7,
+        "NNP-NN-NN": 7,
+        "NNS-VBP-JJ": 6
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 10,
+    "chunk_counts": {
+      "NP": 61,
+      "PP": 6,
+      "VP": 17
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 3,
+        "weight": 0.0319
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0213
+      },
+      {
+        "rule": "VP -> ('más', 'VBP') NP",
+        "frequency": 2,
+        "weight": 0.0213
+      },
+      {
+        "rule": "S -> NP (',', ',') NP ('de', 'IN') ('alta', 'FW') ('velocidad', 'FW') ('que', 'FW') NP ('la', 'FW') ('ruta', 'FW') ('entre', 'FW') ('la', 'FW') NP NP PP ('de', 'IN') ('la', 'FW') ('ciudad', 'FW') ('de', 'FW') NP (',', ',') VP PP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0106
+      },
+      {
+        "rule": "NP -> ('Este', 'NN') ('jueves', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0106
+      },
+      {
+        "rule": "NP -> ('un', 'JJ') ('tren', 'NN')",
+        "frequency": 1,
+        "weight": 0.0106
+      },
+      {
+        "rule": "NP -> ('cubría', 'NN')",
+        "frequency": 1,
+        "weight": 0.0106
+      },
+      {
+        "rule": "NP -> ('República', 'NNP') ('Checa', 'NNP') ('y', 'NNP') ('Hungría', 'NNP') ('impactó', 'NN') ('contra', 'NN')",
+        "frequency": 1,
+        "weight": 0.0106
+      },
+      {
+        "rule": "NP -> ('un', 'JJ') ('autobús', 'NN')",
+        "frequency": 1,
+        "weight": 0.0106
+      },
+      {
+        "rule": "NP -> ('las', 'JJ') ('inmediaciones', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0106
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Este jueves"
+      },
+      {
+        "label": "NP",
+        "text": "un tren"
+      },
+      {
+        "label": "NP",
+        "text": "cubría"
+      },
+      {
+        "label": "NP",
+        "text": "República Checa y Hungría impactó contra"
+      },
+      {
+        "label": "NP",
+        "text": "un autobús"
+      },
+      {
+        "label": "PP",
+        "text": "en las inmediaciones"
+      },
+      {
+        "label": "NP",
+        "text": "las inmediaciones"
+      },
+      {
+        "label": "NP",
+        "text": "Novéámky"
+      },
+      {
+        "label": "VP",
+        "text": "localizada al sur"
+      },
+      {
+        "label": "NP",
+        "text": "al sur"
+      },
+      {
+        "label": "PP",
+        "text": "de Eslovaquia"
+      },
+      {
+        "label": "NP",
+        "text": "Eslovaquia"
+      },
+      {
+        "label": "NP",
+        "text": "A bordo del"
+      },
+      {
+        "label": "NP",
+        "text": "tren iban"
+      },
+      {
+        "label": "VP",
+        "text": "otras"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Este/NN jueves/NNS)\n  ,/,\n  (NP un/JJ tren/NN)\n  de/IN\n  alta/FW\n  velocidad/FW\n  que/FW\n  (NP cubría/NN)\n  la/FW\n  ruta/FW\n  entre/FW\n  la/FW\n  (NP República/NNP Checa/NNP y/NNP Hungría/NNP impactó/NN contra/NN)\n  (NP un/JJ autobús/NN)\n  (PP en/IN (NP las/JJ inmediaciones/NNS))\n  de/IN\n  la/FW\n  ciudad/FW\n  de/FW\n  (NP Novéámky/NNP)\n  ,/,\n  (VP localizada/VBZ (NP al/JJ sur/NN))\n  (PP de/IN (NP Eslovaquia/NNP))\n  ./.)",
+      "(S\n  (NP A/DT bordo/NN del/NN)\n  (NP tren/JJ iban/NN)\n  (VP otras/VBD)\n  100/CD\n  (NP personas/NNS que/NN)\n  ,/,\n  (NP al/JJ parecer/NN)\n  ,/,\n  (NP no/DT presentaron/NN lesiones/NNS)\n  ./.)",
+      "(S\n  (NP En/NNP tanto/NN)\n  ,/,\n  (NP los/JJ que/NN resultaron/NN heridos/NN)\n  (NP se/JJ evacuaron/NN)\n  de/IN\n  forma/FW\n  (NP inmediata/NNS)\n  (VP hacia/VBP (NP los/JJ hospitales/NNS))\n  (VP más/VBP (NP cercanos/NNS))\n  (PP en/IN (NP helicópteros/NN))\n  ./.)",
+      "(S\n  (NP El/NNP accidente/NN ocurrió/NN)\n  (VP sobre/VBD las/JJ)\n  17H00/CD\n  (/(\n  (VP hora/VB local/JJ)\n  )/)\n  ,/,\n  (NP según/JJ informaron/NN la/NN)\n  policía/FW\n  (NP y/NN)\n  la/FW\n  compañía/FW\n  (NP ferroviaria/NNS)\n  (VP eslovaca/VBP (NP ZSSK/NNP))\n  ./.)",
+      "(S\n  (NP “/JJ La/NNP Empresa/NNP Ferroviaria/NNP Nacional/NNP)\n  de/FW\n  (NP Eslovaquia/NNP con/NN profunda/NN tristeza/NN)\n  (NP nos/JJ enteramos/JJ del/NN trágico/NN accidente/NN)\n  de/IN\n  tráfico/FW\n  (NP que/NN)\n  ocurrió/FW\n  (NP hoy/NN)\n  entre/FW\n  (NP Nové/NNP Zámky/NNP y/NNP Dvory/NNP)\n  (NP nad/JJ Žitavou/NN)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "DESASTRES_ACCIDENTES_EMERGENCIAS",
+      "APROBACION_RECHAZO",
+      "TIEMPO_RELATIVO",
+      "CANTIDADES_NUMERICAS",
+      "INFRAESTRUCTURA_SERVICIOS",
+      "CONFLICTOS_ARMADOS_OPERACIONES"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "impactó",
+        "position": [
+          93,
+          100
+        ],
+        "start": 93,
+        "end": 100
+      },
+      {
+        "category": "DESASTRES_ACCIDENTES_EMERGENCIAS",
+        "matched_text": "heridos o fallecieron en este accidente",
+        "position": [
+          941,
+          980
+        ],
+        "start": 941,
+        "end": 980
+      },
+      {
+        "category": "APROBACION_RECHAZO",
+        "matched_text": "subrayó",
+        "position": [
+          787,
+          794
+        ],
+        "start": 787,
+        "end": 794
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "ruta",
+        "position": [
+          53,
+          57
+        ],
+        "start": 53,
+        "end": 57
+      },
+      {
+        "category": "TIEMPO_RELATIVO",
+        "matched_text": "hoy",
+        "position": [
+          650,
+          653
+        ],
+        "start": 650,
+        "end": 653
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "100 personas",
+        "position": [
+          227,
+          239
+        ],
+        "start": 227,
+        "end": 239
+      }
+    ],
+    "match_count": 6
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Empresa Ferroviaria Nacional de Eslovaquia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Eslovaquia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "República Checa",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Hungría",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Novéámky",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "República Checa",
+        "relacion": "CUBRIR_IMPACTAR",
+        "objeto": "Novéámky"
+      },
+      {
+        "sujeto": "República Checa",
+        "relacion": "CUBRIR_IMPACTAR",
+        "objeto": "Eslovaquia"
+      },
+      {
+        "sujeto": "Hungría",
+        "relacion": "CUBRIR_IMPACTAR",
+        "objeto": "Novéámky"
+      },
+      {
+        "sujeto": "Hungría",
+        "relacion": "CUBRIR_IMPACTAR",
+        "objeto": "Eslovaquia"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.296,
+    "pos": 0.0,
+    "neu": 0.989,
+    "neg": 0.011,
+    "label": "negative"
+  }
+}

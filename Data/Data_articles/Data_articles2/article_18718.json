@@ -1,0 +1,681 @@
+{
+  "url": "https://www.telesurtv.net/asciende-a-38-983-cifra-de-palestinos-asesinados-por-agresion-israeli/",
+  "title": "Asciende a 38.983 cifra de palestinos asesinados por agresión israelí - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Agresión israelí",
+    "Campo de Refugiados de Nuseirat",
+    "Gaza",
+    "Israel",
+    "Ministerio de Salud gazatí",
+    "Palestina"
+  ],
+  "text": "\nLas autoridades sanitarias locales confirmaron este domingo que el número de palestinos asesinados a causa de la ofensiva israelí desde el 7 de octubre ha aumentado a 38.983 víctimas mortales, además de otras 89.727 personas heridas. La mayoría de las víctimas son mujeres y niños.\n\nAl menos 10 palestinos perdieron la vida y varios heridos fueron trasladados a centros médicos luego de que las tropas sionistas bombardearan la zona este de Khan Yunis, en la Franja de Gaza.\n\n\nOtro ataque aéreo israelí ultimó a cuatro personas que habitaban el campo de refugiados de Al-Nuseirat. Uno de los asesinados como consecuencia de la agresión fue el periodista Moatasem Mahmoud Ghorab, cuya casa fue impactada. Con su muerte, se cuentan 162 pérdidas en el sector.\nLas fuerzas de ocupación también tuvieron como objetivo la residencia de la familia Khalifa, en el campo de Bureij (centro de la Franja). En esta ocasión, el número de víctimas mortales ascendió a siete, incluidos niños y mujeres.\nDesde el 7 de octubre de 2023, las autoridades sanitarias palestinas han registrado un total de 38.983 fallecidos y 89.727 personas lesionadas por la ofensiva israelí en los territorios ocupados.\nAunque miles de víctimas continúan atrapadas bajo los escombros o esparcidos por las carreteras de la ciudad, las fuerzas de ocupación de Israel dificultan las labores de salvamento y rescate de los cadáveres.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/asciende-a-38-983-cifra-de-palestinos-asesinados-por-agresion-israeli/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-07.json",
+    "message_index": 388,
+    "message_id": 73449,
+    "date": "2024-07-21T15:55:18+00:00",
+    "text": "teleSUR\nAsciende a 38.983 cifra de palestinos asesinados por agresión israelí\nhttps://www.telesurtv.net/asciende-a-38-983-cifra-de-palestinos-asesinados-por-agresion-israeli/",
+    "photo_path": null,
+    "views": 1542,
+    "reactions": {},
+    "total_reactions": 0
+  },
+  "preprocessing": {
+    "cleaned": "las autoridades sanitarias locales confirmaron este domingo que el número de palestinos asesinados a causa de la ofensiva israelí desde el 7 de octubre ha aumentado a 38.983 víctimas mortales, además de otras 89.727 personas heridas. la mayoría de las víctimas son mujeres y niños. al menos 10 palestinos perdieron la vida y varios heridos fueron trasladados a centros médicos luego de que las tropas sionistas bombardearan la zona este de khan yunis, en la franja de gaza. otro ataque aéreo israelí ultimó a cuatro personas que habitaban el campo de refugiados de al-nuseirat. uno de los asesinados como consecuencia de la agresión fue el periodista moatasem mahmoud ghorab, cuya casa fue impactada. con su muerte, se cuentan 162 pérdidas en el sector. las fuerzas de ocupación también tuvieron como objetivo la residencia de la familia khalifa, en el campo de bureij (centro de la franja). en esta ocasión, el número de víctimas mortales ascendió a siete, incluidos niños y mujeres. desde el 7 de octubre de 2023, las autoridades sanitarias palestinas han registrado un total de 38.983 fallecidos y 89.727 personas lesionadas por la ofensiva israelí en los territorios ocupados. aunque miles de víctimas continúan atrapadas bajo los escombros o esparcidos por las carreteras de la ciudad, las fuerzas de ocupación de israel dificultan las labores de salvamento y rescate de los cadáveres.",
+    "tokens": [
+      "autoridades",
+      "sanitarias",
+      "locales",
+      "confirmaron",
+      "domingo",
+      "número",
+      "palestinos",
+      "asesinados",
+      "causa",
+      "ofensiva",
+      "israelí",
+      "7",
+      "octubre",
+      "aumentado",
+      "38.983",
+      "víctimas",
+      "mortales",
+      ",",
+      "además",
+      "89.727",
+      "personas",
+      "heridas",
+      ".",
+      "mayoría",
+      "víctimas",
+      "mujeres",
+      "niños",
+      ".",
+      "menos",
+      "10",
+      "palestinos",
+      "perdieron",
+      "vida",
+      "varios",
+      "heridos",
+      "trasladados",
+      "centros",
+      "médicos",
+      "luego",
+      "tropas",
+      "sionistas",
+      "bombardearan",
+      "zona",
+      "khan",
+      "yunis",
+      ",",
+      "franja",
+      "gaza",
+      ".",
+      "ataque",
+      "aéreo",
+      "israelí",
+      "ultimó",
+      "cuatro",
+      "personas",
+      "habitaban",
+      "campo",
+      "refugiados",
+      "al-nuseirat",
+      ".",
+      "asesinados",
+      "consecuencia",
+      "agresión",
+      "periodista",
+      "moatasem",
+      "mahmoud",
+      "ghorab",
+      ",",
+      "cuya",
+      "casa",
+      "impactada",
+      ".",
+      "muerte",
+      ",",
+      "cuentan",
+      "162",
+      "pérdidas",
+      "sector",
+      ".",
+      "fuerzas",
+      "ocupación",
+      "objetivo",
+      "residencia",
+      "familia",
+      "khalifa",
+      ",",
+      "campo",
+      "bureij",
+      "(",
+      "centro",
+      "franja",
+      ")",
+      ".",
+      "ocasión",
+      ",",
+      "número",
+      "víctimas",
+      "mortales",
+      "ascendió",
+      "siete",
+      ",",
+      "incluidos",
+      "niños",
+      "mujeres",
+      ".",
+      "7",
+      "octubre",
+      "2023",
+      ",",
+      "autoridades",
+      "sanitarias",
+      "palestinas",
+      "registrado",
+      "total",
+      "38.983",
+      "fallecidos",
+      "89.727",
+      "personas",
+      "lesionadas",
+      "ofensiva",
+      "israelí",
+      "territorios",
+      "ocupados",
+      ".",
+      "aunque",
+      "miles",
+      "víctimas",
+      "continúan",
+      "atrapadas",
+      "bajo",
+      "escombros",
+      "esparcidos",
+      "carreteras",
+      "ciudad",
+      ",",
+      "fuerzas",
+      "ocupación",
+      "israel",
+      "dificultan",
+      "labores",
+      "salvamento",
+      "rescate",
+      "cadáveres",
+      "."
+    ],
+    "token_count": 144,
+    "sentence_count": 10
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 23,
+      "VBZ": 2,
+      "JJ": 21,
+      "NNS": 18,
+      "VBP": 9,
+      "NN": 55,
+      "IN": 15,
+      "FW": 54,
+      "RB": 3,
+      "CD": 7,
+      "$": 1,
+      "VBD": 2,
+      "VB": 1
+    },
+    "bigram_freq": {
+      "NNP-VBZ": 1,
+      "VBZ-JJ": 1,
+      "JJ-NNS": 3,
+      "NNS-VBP": 9,
+      "VBP-NN": 2,
+      "NN-NN": 23,
+      "NN-IN": 10,
+      "IN-FW": 9,
+      "FW-JJ": 2,
+      "JJ-NN": 13,
+      "FW-FW": 30,
+      "FW-NN": 10,
+      "NN-RB": 1,
+      "RB-CD": 1,
+      "CD-NN": 1,
+      "NN-NNS": 6,
+      "VBP-IN": 1,
+      "FW-CD": 1,
+      "CD-NNS": 5,
+      "NNS-JJ": 3,
+      "JJ-NNP": 2,
+      "NNP-FW": 6,
+      "VBP-NNP": 2,
+      "NNP-$": 1,
+      "$-CD": 1,
+      "CD-JJ": 1,
+      "NN-FW": 7,
+      "FW-NNS": 3,
+      "VBP-JJ": 3,
+      "NNS-VBD": 1,
+      "VBD-RB": 1,
+      "RB-JJ": 1,
+      "IN-NNP": 2,
+      "NNP-NNP": 7,
+      "FW-NNP": 6,
+      "NNP-NN": 6,
+      "NN-JJ": 4,
+      "FW-IN": 2,
+      "NNP-IN": 1,
+      "NN-NNP": 2,
+      "NN-VBD": 1,
+      "VBD-JJ": 1,
+      "JJ-CD": 1,
+      "NNS-NNP": 1,
+      "IN-CD": 2,
+      "NNS-IN": 1,
+      "IN-JJ": 2,
+      "VBP-VB": 1,
+      "VB-JJ": 1,
+      "NNS-CD": 1,
+      "JJ-JJ": 2,
+      "NNP-NNS": 1,
+      "NNS-RB": 1,
+      "RB-FW": 1,
+      "NN-VBZ": 1,
+      "VBZ-FW": 1
+    },
+    "trigram_freq": {
+      "NNP-VBZ-JJ": 1,
+      "VBZ-JJ-NNS": 1,
+      "JJ-NNS-VBP": 3,
+      "NNS-VBP-NN": 2,
+      "VBP-NN-NN": 1,
+      "NN-NN-NN": 10,
+      "NN-NN-IN": 3,
+      "NN-IN-FW": 7,
+      "IN-FW-JJ": 2,
+      "FW-JJ-NN": 2,
+      "JJ-NN-IN": 4,
+      "IN-FW-FW": 3,
+      "FW-FW-FW": 18,
+      "FW-FW-NN": 6,
+      "FW-NN-RB": 1,
+      "NN-RB-CD": 1,
+      "RB-CD-NN": 1,
+      "CD-NN-NNS": 1,
+      "NN-NNS-VBP": 4,
+      "NNS-VBP-IN": 1,
+      "VBP-IN-FW": 1,
+      "IN-FW-CD": 1,
+      "FW-CD-NNS": 1,
+      "CD-NNS-JJ": 3,
+      "NNS-JJ-NNP": 1,
+      "JJ-NNP-FW": 1,
+      "NNP-FW-FW": 4,
+      "FW-NN-NNS": 3,
+      "NNS-VBP-NNP": 2,
+      "VBP-NNP-$": 1,
+      "NNP-$-CD": 1,
+      "$-CD-JJ": 1,
+      "CD-JJ-NN": 1,
+      "JJ-NN-NN": 6,
+      "NN-NN-FW": 2,
+      "NN-FW-NNS": 1,
+      "FW-NNS-VBP": 2,
+      "NNS-VBP-JJ": 3,
+      "VBP-JJ-NN": 2,
+      "JJ-NN-NNS": 1,
+      "VBP-NN-FW": 1,
+      "NN-FW-FW": 4,
+      "NN-NNS-VBD": 1,
+      "NNS-VBD-RB": 1,
+      "VBD-RB-JJ": 1,
+      "RB-JJ-NN": 1,
+      "NN-IN-NNP": 1,
+      "IN-NNP-NNP": 2,
+      "NNP-NNP-FW": 2,
+      "FW-FW-NNP": 4,
+      "FW-NNP-FW": 2,
+      "NNP-FW-NNP": 1,
+      "FW-NNP-NNP": 3,
+      "NNP-NNP-NN": 3,
+      "NNP-NN-NN": 3,
+      "NN-NN-JJ": 4,
+      "NN-JJ-NN": 3,
+      "NN-FW-NN": 2,
+      "FW-NN-FW": 1,
+      "FW-FW-IN": 2,
+      "FW-IN-NNP": 1,
+      "NNP-NNP-IN": 1,
+      "NNP-IN-FW": 1,
+      "FW-NN-NN": 3,
+      "NN-NN-NNP": 2,
+      "NN-NNP-NNP": 1,
+      "NNP-NNP-NNP": 1,
+      "NN-JJ-NNP": 1,
+      "JJ-NNP-NN": 1,
+      "NN-NN-VBD": 1,
+      "NN-VBD-JJ": 1,
+      "VBD-JJ-CD": 1,
+      "JJ-CD-NNS": 1,
+      "NNS-JJ-NN": 1,
+      "NN-NNP-NN": 1,
+      "NNP-NN-FW": 1,
+      "JJ-NN-FW": 2,
+      "FW-NNP-NN": 1,
+      "NNP-NN-IN": 1,
+      "IN-FW-NNP": 1,
+      "NNP-FW-NN": 1,
+      "IN-FW-NNS": 2,
+      "NN-NN-NNS": 1,
+      "NN-NNS-NNP": 1,
+      "NNS-NNP-FW": 1,
+      "FW-IN-CD": 1,
+      "IN-CD-NNS": 2,
+      "CD-NNS-IN": 1,
+      "NNS-IN-JJ": 1,
+      "IN-JJ-NNS": 2,
+      "NNS-VBP-VB": 1,
+      "VBP-VB-JJ": 1,
+      "VB-JJ-NN": 1,
+      "NN-IN-CD": 1,
+      "CD-NNS-CD": 1,
+      "NNS-CD-NNS": 1,
+      "NNS-JJ-JJ": 1,
+      "JJ-JJ-NN": 2,
+      "FW-NN-IN": 2,
+      "NN-IN-JJ": 1,
+      "VBP-NNP-NNS": 1,
+      "NNP-NNS-RB": 1,
+      "NNS-RB-FW": 1,
+      "RB-FW-NN": 1,
+      "VBP-JJ-JJ": 1,
+      "NNP-NN-VBZ": 1,
+      "NN-VBZ-FW": 1,
+      "VBZ-FW-FW": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 55,
+        "FW": 54,
+        "NNP": 23,
+        "JJ": 21,
+        "NNS": 18
+      },
+      "top_bigrams": {
+        "FW-FW": 30,
+        "NN-NN": 23,
+        "JJ-NN": 13,
+        "NN-IN": 10,
+        "FW-NN": 10
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 18,
+        "NN-NN-NN": 10,
+        "NN-IN-FW": 7,
+        "FW-FW-NN": 6,
+        "JJ-NN-NN": 6
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 10,
+    "chunk_counts": {
+      "NP": 61,
+      "VP": 15,
+      "PP": 3,
+      "ADJP": 1
+    },
+    "top_rules": [
+      {
+        "rule": "NP -> ('Franja', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0222
+      },
+      {
+        "rule": "S -> NP VP VP ('de', 'IN') ('palestinos', 'FW') ('asesinados', 'FW') NP ('de', 'IN') ('la', 'FW') ('ofensiva', 'FW') ('israelí', 'FW') NP ('el', 'FW') ('7', 'CD') ('de', 'FW') ('octubre', 'FW') NP VP ('a', 'DT') ('38.983', 'CD') NP (',', ',') ('además', 'FW') ('de', 'FW') ('otras', 'FW') ('89.727', 'CD') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0111
+      },
+      {
+        "rule": "NP -> ('Las', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0111
+      },
+      {
+        "rule": "VP -> ('autoridades', 'VBZ') NP",
+        "frequency": 1,
+        "weight": 0.0111
+      },
+      {
+        "rule": "NP -> ('sanitarias', 'JJ') ('locales', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0111
+      },
+      {
+        "rule": "VP -> ('confirmaron', 'VBP') NP",
+        "frequency": 1,
+        "weight": 0.0111
+      },
+      {
+        "rule": "NP -> ('este', 'NN') ('domingo', 'NN') ('que', 'NN') ('el', 'NN') ('número', 'NN')",
+        "frequency": 1,
+        "weight": 0.0111
+      },
+      {
+        "rule": "NP -> ('a', 'DT') ('causa', 'NN')",
+        "frequency": 1,
+        "weight": 0.0111
+      },
+      {
+        "rule": "NP -> ('desde', 'NN')",
+        "frequency": 1,
+        "weight": 0.0111
+      },
+      {
+        "rule": "NP -> ('ha', 'NN')",
+        "frequency": 1,
+        "weight": 0.0111
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Las"
+      },
+      {
+        "label": "VP",
+        "text": "autoridades sanitarias locales"
+      },
+      {
+        "label": "NP",
+        "text": "sanitarias locales"
+      },
+      {
+        "label": "VP",
+        "text": "confirmaron este domingo que el número"
+      },
+      {
+        "label": "NP",
+        "text": "este domingo que el número"
+      },
+      {
+        "label": "NP",
+        "text": "a causa"
+      },
+      {
+        "label": "NP",
+        "text": "desde"
+      },
+      {
+        "label": "NP",
+        "text": "ha"
+      },
+      {
+        "label": "VP",
+        "text": "aumentado"
+      },
+      {
+        "label": "NP",
+        "text": "víctimas mortales"
+      },
+      {
+        "label": "NP",
+        "text": "personas heridas"
+      },
+      {
+        "label": "NP",
+        "text": "La"
+      },
+      {
+        "label": "NP",
+        "text": "son mujeres"
+      },
+      {
+        "label": "VP",
+        "text": "y niños"
+      },
+      {
+        "label": "NP",
+        "text": "Al"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Las/NNP)\n  (VP autoridades/VBZ (NP sanitarias/JJ locales/NNS))\n  (VP confirmaron/VBP (NP este/NN domingo/NN que/NN el/NN número/NN))\n  de/IN\n  palestinos/FW\n  asesinados/FW\n  (NP a/DT causa/NN)\n  de/IN\n  la/FW\n  ofensiva/FW\n  israelí/FW\n  (NP desde/NN)\n  el/FW\n  7/CD\n  de/FW\n  octubre/FW\n  (NP ha/NN)\n  (VP aumentado/VBD)\n  a/DT\n  38.983/CD\n  (NP víctimas/NN mortales/NNS)\n  ,/,\n  además/FW\n  de/FW\n  otras/FW\n  89.727/CD\n  (NP personas/NNS heridas/NN)\n  ./.)",
+      "(S\n  (NP La/NNP)\n  mayoría/FW\n  de/FW\n  las/FW\n  víctimas/FW\n  (NP son/NN mujeres/NNS)\n  (VP y/VBP niños/RB)\n  ./.)",
+      "(S\n  (NP Al/NNP)\n  (VP menos/VBD)\n  10/CD\n  (NP palestinos/NNS)\n  (VP perdieron/VBP (NP la/NN))\n  vida/FW\n  (NP y/NN varios/NNS)\n  (VP\n    heridos/VBP\n    (NP fueron/NN trasladados/NN)\n    (NP a/DT centros/NN médicos/NN luego/NN))\n  de/IN\n  que/FW\n  (NP las/NNS)\n  (VP\n    tropas/VBP\n    (NP sionistas/JJ bombardearan/NN la/NN zona/NNP este/NN))\n  de/FW\n  (NP Khan/NNP Yunis/NNP)\n  ,/,\n  en/FW\n  la/FW\n  (NP Franja/NNP)\n  de/FW\n  (NP Gaza/NNP)\n  ./.)",
+      "(S\n  (NP Otro/NNP ataque/NN aéreo/NN israelí/NN)\n  (PP ultimó/IN (NP a/DT cuatro/NN personas/NN que/NN habitaban/NN))\n  el/FW\n  (NP campo/NN)\n  de/FW\n  refugiados/FW\n  (PP de/IN (NP Al-Nuseirat/NNP))\n  ./.)",
+      "(S\n  (NP Uno/NNP)\n  de/FW\n  los/FW\n  (NP asesinados/JJ como/NN consecuencia/NN)\n  de/IN\n  la/FW\n  agresión/FW\n  (NP fue/NN el/NN periodista/NN Moatasem/NNP Mahmoud/NNP Ghorab/NNP)\n  ,/,\n  (NP cuya/NN casa/NN fue/NN impactada/NN)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "GRUPOS_ESPECIFICOS",
+      "CANTIDADES_NUMERICAS",
+      "MEDIOS_COMUNICACION",
+      "REGIONES_PROVINCIAS",
+      "PAISES",
+      "LOCALIZACIONES_ESPECIFICAS",
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "CONFLICTOS_ARMADOS_OPERACIONES",
+      "FECHAS_ESPECIFICAS"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "ataque aéreo",
+        "position": [
+          483,
+          495
+        ],
+        "start": 483,
+        "end": 495
+      },
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "ocupación",
+        "position": [
+          773,
+          782
+        ],
+        "start": 773,
+        "end": 782
+      },
+      {
+        "category": "GRUPOS_ESPECIFICOS",
+        "matched_text": "mujeres",
+        "position": [
+          266,
+          273
+        ],
+        "start": 266,
+        "end": 273
+      },
+      {
+        "category": "MEDIOS_COMUNICACION",
+        "matched_text": "periodista moatasem mahmoud",
+        "position": [
+          644,
+          671
+        ],
+        "start": 644,
+        "end": 671
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "israelí",
+        "position": [
+          123,
+          130
+        ],
+        "start": 123,
+        "end": 130
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "zona este",
+        "position": [
+          429,
+          438
+        ],
+        "start": 429,
+        "end": 438
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "centro de",
+        "position": [
+          874,
+          883
+        ],
+        "start": 874,
+        "end": 883
+      },
+      {
+        "category": "FECHAS_ESPECIFICAS",
+        "matched_text": "7 de octubre de 2023",
+        "position": [
+          998,
+          1018
+        ],
+        "start": 998,
+        "end": 1018
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "727 personas",
+        "position": [
+          213,
+          225
+        ],
+        "start": 213,
+        "end": 225
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "89.727 personas",
+        "position": [
+          210,
+          225
+        ],
+        "start": 210,
+        "end": 225
+      }
+    ],
+    "match_count": 10
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Franja de Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Bureij",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Moatasem Mahmoud Ghorab",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Franja",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Al-Nuseirat",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Khalifa",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Israel",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Khan Yunis",
+        "tipo": "Persona"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Khan Yunis",
+        "relacion": "BOMBARDEAR_LUEGO_TRASLADAR_PERDER",
+        "objeto": "Franja de Gaza"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.34,
+    "pos": 0.011,
+    "neu": 0.989,
+    "neg": 0.0,
+    "label": "positive"
+  }
+}

@@ -1,0 +1,938 @@
+{
+  "url": "https://www.telesurtv.net/israel-bombardea-yemen-tras-su-reapertura/",
+  "title": "Israel bombardeó el Aeropuerto Internacional de Saná después de su reapertura - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Ansarolá",
+    "Bombardeo",
+    "Israel",
+    "Yemen"
+  ],
+  "text": "Aviones de guerra israelíes bombardearon este miércoles el Aeropuerto Internacional de Saná, capital de Yemen. Los bombardeos alcanzaron un avión de pasajeros de Yemenia Airlines y el edificio de aduanas, apenas diez días después de que el aeropuerto reanudara vuelos civiles tras reparaciones por ataques anteriores del Estado sionista.\n\nLa cadena panárabe Al Mayadeen reportó que la agresión se produjo tras la reapertura parcial del aeropuerto, que había comenzado a operar cuatro vuelos entre Saná y Amán, la capital de Jordania.\nEl bombardeo actual sigue a los 30 ataques aéreos lanzados por Israel el 6 de mayo, los cuales ocasionaron graves daños en aviones civiles, terminales y pistas de aterrizaje. La destrucción de infraestructuras clave ha interrumpido las rutas humanitarias, sanitarias y económicas en una de las zonas más afectadas por la guerra y el bloqueo internacional.\n\n\nSe trata de un nuevo ataque que pretende afectar las conexiones de Yemen con sus vecinos árabes y el mundo. Desde el ministerio de Justicia y Derechos Humanos yemení indicaron que la agresión provocó la suspensión de todos los vuelos de la aerolínea afectada, lo cual privó a miles de civiles —incluidos enfermos— de viajar a Jordania.\nDesde la cartera declararon: “La República del Yemen, al tiempo que recuerda a las Naciones Unidas y al Consejo de Seguridad, incluida la Organización de Aviación Civil Internacional (OACI), sus responsabilidades jurídicas y morales, exige una condena explícita del Consejo de Seguridad y de la Asamblea General de estas violaciones, que los autores de estos crímenes sean llevados ante la Corte Penal Internacional”.\nInstaron a que se indemnice a la nación árabe por los daños materiales y humanitarios, así como al establecimiento de un mecanismo internacional para prevenir la repetición de estos ataques contra infraestructuras civiles.\nLas Fuerzas Armadas yemeníes reivindicaron dos ataques con misiles balísticos contra Israel el martes pasado como parte de su campaña de presión para que Tel Aviv ponga fin al bloqueo a la ayuda humanitaria y su campaña genocida en el territorio palestino ocupado de la Franja de Gaza.\n\n\n\n",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/israel-bombardea-yemen-tras-su-reapertura/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-05.json",
+    "message_index": 218,
+    "message_id": 95116,
+    "date": "2025-05-28T15:55:07+00:00",
+    "text": "teleSUR\nIsrael bombardeó el Aeropuerto Internacional de Saná después de su reapertura\nhttps://www.telesurtv.net/israel-bombardea-yemen-tras-su-reapertura/",
+    "photo_path": null,
+    "views": 1850,
+    "reactions": {
+      "🤬": 53,
+      "👍": 1
+    },
+    "total_reactions": 54
+  },
+  "preprocessing": {
+    "cleaned": "aviones de guerra israelíes bombardearon este miércoles el aeropuerto internacional de saná, capital de yemen. los bombardeos alcanzaron un avión de pasajeros de yemenia airlines y el edificio de aduanas, apenas diez días después de que el aeropuerto reanudara vuelos civiles tras reparaciones por ataques anteriores del estado sionista. la cadena panárabe al mayadeen reportó que la agresión se produjo tras la reapertura parcial del aeropuerto, que había comenzado a operar cuatro vuelos entre saná y amán, la capital de jordania. el bombardeo actual sigue a los 30 ataques aéreos lanzados por israel el 6 de mayo, los cuales ocasionaron graves daños en aviones civiles, terminales y pistas de aterrizaje. la destrucción de infraestructuras clave ha interrumpido las rutas humanitarias, sanitarias y económicas en una de las zonas más afectadas por la guerra y el bloqueo internacional. se trata de un nuevo ataque que pretende afectar las conexiones de yemen con sus vecinos árabes y el mundo. desde el ministerio de justicia y derechos humanos yemení indicaron que la agresión provocó la suspensión de todos los vuelos de la aerolínea afectada, lo cual privó a miles de civiles —incluidos enfermos— de viajar a jordania. desde la cartera declararon: “la república del yemen, al tiempo que recuerda a las naciones unidas y al consejo de seguridad, incluida la organización de aviación civil internacional (oaci), sus responsabilidades jurídicas y morales, exige una condena explícita del consejo de seguridad y de la asamblea general de estas violaciones, que los autores de estos crímenes sean llevados ante la corte penal internacional”. instaron a que se indemnice a la nación árabe por los daños materiales y humanitarios, así como al establecimiento de un mecanismo internacional para prevenir la repetición de estos ataques contra infraestructuras civiles. las fuerzas armadas yemeníes reivindicaron dos ataques con misiles balísticos contra israel el martes pasado como parte de su campaña de presión para que tel aviv ponga fin al bloqueo a la ayuda humanitaria y su campaña genocida en el territorio palestino ocupado de la franja de gaza.",
+    "tokens": [
+      "aviones",
+      "guerra",
+      "israelíes",
+      "bombardearon",
+      "miércoles",
+      "aeropuerto",
+      "internacional",
+      "saná",
+      ",",
+      "capital",
+      "yemen",
+      ".",
+      "bombardeos",
+      "alcanzaron",
+      "avión",
+      "pasajeros",
+      "yemenia",
+      "airlines",
+      "edificio",
+      "aduanas",
+      ",",
+      "apenas",
+      "diez",
+      "días",
+      "después",
+      "aeropuerto",
+      "reanudara",
+      "vuelos",
+      "civiles",
+      "tras",
+      "reparaciones",
+      "ataques",
+      "anteriores",
+      "sionista",
+      ".",
+      "cadena",
+      "panárabe",
+      "mayadeen",
+      "reportó",
+      "agresión",
+      "produjo",
+      "tras",
+      "reapertura",
+      "parcial",
+      "aeropuerto",
+      ",",
+      "comenzado",
+      "operar",
+      "cuatro",
+      "vuelos",
+      "saná",
+      "amán",
+      ",",
+      "capital",
+      "jordania",
+      ".",
+      "bombardeo",
+      "actual",
+      "sigue",
+      "30",
+      "ataques",
+      "aéreos",
+      "lanzados",
+      "israel",
+      "6",
+      "mayo",
+      ",",
+      "cuales",
+      "ocasionaron",
+      "graves",
+      "daños",
+      "aviones",
+      "civiles",
+      ",",
+      "terminales",
+      "pistas",
+      "aterrizaje",
+      ".",
+      "destrucción",
+      "infraestructuras",
+      "clave",
+      "interrumpido",
+      "rutas",
+      "humanitarias",
+      ",",
+      "sanitarias",
+      "económicas",
+      "zonas",
+      "afectadas",
+      "guerra",
+      "bloqueo",
+      "internacional",
+      ".",
+      "trata",
+      "nuevo",
+      "ataque",
+      "pretende",
+      "afectar",
+      "conexiones",
+      "yemen",
+      "vecinos",
+      "árabes",
+      "mundo",
+      ".",
+      "ministerio",
+      "justicia",
+      "derechos",
+      "humanos",
+      "yemení",
+      "indicaron",
+      "agresión",
+      "provocó",
+      "suspensión",
+      "vuelos",
+      "aerolínea",
+      "afectada",
+      ",",
+      "privó",
+      "miles",
+      "civiles",
+      "—incluidos",
+      "enfermos—",
+      "viajar",
+      "jordania",
+      ".",
+      "cartera",
+      "declararon",
+      ":",
+      "“",
+      "república",
+      "yemen",
+      ",",
+      "tiempo",
+      "recuerda",
+      "naciones",
+      "unidas",
+      "consejo",
+      "seguridad",
+      ",",
+      "incluida",
+      "organización",
+      "aviación",
+      "civil",
+      "internacional",
+      "(",
+      "oaci",
+      ")",
+      ",",
+      "responsabilidades",
+      "jurídicas",
+      "morales",
+      ",",
+      "exige",
+      "condena",
+      "explícita",
+      "consejo",
+      "seguridad",
+      "asamblea",
+      "general",
+      "violaciones",
+      ",",
+      "autores",
+      "crímenes",
+      "llevados",
+      "corte",
+      "penal",
+      "internacional",
+      "”",
+      ".",
+      "instaron",
+      "indemnice",
+      "nación",
+      "árabe",
+      "daños",
+      "materiales",
+      "humanitarios",
+      ",",
+      "así",
+      "establecimiento",
+      "mecanismo",
+      "internacional",
+      "prevenir",
+      "repetición",
+      "ataques",
+      "infraestructuras",
+      "civiles",
+      ".",
+      "fuerzas",
+      "armadas",
+      "yemeníes",
+      "reivindicaron",
+      "dos",
+      "ataques",
+      "misiles",
+      "balísticos",
+      "israel",
+      "martes",
+      "pasado",
+      "parte",
+      "campaña",
+      "presión",
+      "tel",
+      "aviv",
+      "ponga",
+      "fin",
+      "bloqueo",
+      "ayuda",
+      "humanitaria",
+      "campaña",
+      "genocida",
+      "territorio",
+      "palestino",
+      "ocupado",
+      "franja",
+      "gaza",
+      "."
+    ],
+    "token_count": 216,
+    "sentence_count": 10
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNS": 30,
+      "FW": 82,
+      "NN": 81,
+      "VBP": 20,
+      "NNP": 59,
+      "IN": 12,
+      "JJ": 26,
+      "NNPS": 1,
+      "VBZ": 2,
+      "VBD": 2,
+      "CD": 1,
+      "VBN": 1
+    },
+    "bigram_freq": {
+      "NNS-FW": 2,
+      "FW-FW": 49,
+      "FW-NN": 9,
+      "NN-NN": 40,
+      "NN-NNS": 6,
+      "NNS-VBP": 17,
+      "VBP-NNP": 2,
+      "NNP-NNP": 25,
+      "NNP-FW": 10,
+      "FW-NNP": 12,
+      "NNP-NN": 16,
+      "NN-IN": 7,
+      "IN-NNP": 4,
+      "NN-JJ": 3,
+      "JJ-NN": 14,
+      "IN-FW": 7,
+      "NNP-NNPS": 1,
+      "NNPS-FW": 1,
+      "FW-NNS": 7,
+      "VBP-JJ": 12,
+      "VBP-NNS": 3,
+      "NNS-NNS": 5,
+      "NN-NNP": 10,
+      "NNP-VBZ": 1,
+      "VBZ-NN": 1,
+      "NN-FW": 13,
+      "JJ-JJ": 3,
+      "JJ-NNP": 3,
+      "NNP-VBD": 2,
+      "VBD-JJ": 1,
+      "NN-CD": 1,
+      "CD-NNS": 1,
+      "NNS-JJ": 1,
+      "JJ-NNS": 6,
+      "VBP-IN": 1,
+      "FW-VBP": 1,
+      "VBP-VBN": 1,
+      "VBN-JJ": 1,
+      "FW-JJ": 4,
+      "NNS-IN": 3,
+      "NNP-VBP": 2,
+      "VBP-NN": 1,
+      "IN-NNS": 1,
+      "NNS-NNP": 2,
+      "VBD-NNP": 1,
+      "NNP-IN": 1,
+      "NN-VBZ": 1,
+      "VBZ-JJ": 1
+    },
+    "trigram_freq": {
+      "NNS-FW-FW": 1,
+      "FW-FW-FW": 32,
+      "FW-FW-NN": 3,
+      "FW-NN-NN": 6,
+      "NN-NN-NNS": 3,
+      "NN-NNS-VBP": 5,
+      "NNS-VBP-NNP": 2,
+      "VBP-NNP-NNP": 1,
+      "NNP-NNP-FW": 4,
+      "NNP-FW-NNP": 5,
+      "FW-NNP-NN": 3,
+      "NNP-NN-IN": 1,
+      "NN-IN-NNP": 2,
+      "IN-NNP-NNP": 3,
+      "NNP-NNP-NN": 9,
+      "NNP-NN-NN": 10,
+      "NN-NN-JJ": 3,
+      "NN-JJ-NN": 1,
+      "JJ-NN-IN": 3,
+      "NN-IN-FW": 5,
+      "IN-FW-FW": 2,
+      "FW-FW-NNP": 4,
+      "FW-NNP-NNPS": 1,
+      "NNP-NNPS-FW": 1,
+      "NNPS-FW-FW": 1,
+      "FW-FW-NNS": 6,
+      "FW-NNS-VBP": 6,
+      "NNS-VBP-JJ": 11,
+      "VBP-JJ-NN": 7,
+      "NNS-VBP-NNS": 3,
+      "VBP-NNS-NNS": 1,
+      "NNS-NNS-NNS": 3,
+      "NNS-NNS-VBP": 2,
+      "VBP-NNP-NN": 1,
+      "NNP-NN-NNP": 1,
+      "NN-NNP-VBZ": 1,
+      "NNP-VBZ-NN": 1,
+      "VBZ-NN-NNP": 1,
+      "NN-NNP-NNP": 6,
+      "NN-NN-NN": 17,
+      "NN-NN-FW": 8,
+      "NN-FW-FW": 8,
+      "VBP-JJ-JJ": 2,
+      "JJ-JJ-NN": 3,
+      "JJ-NN-NN": 7,
+      "NN-FW-NN": 3,
+      "NN-JJ-NNP": 1,
+      "JJ-NNP-NNP": 1,
+      "NNP-NNP-NNP": 10,
+      "NNP-NN-FW": 2,
+      "NN-FW-NNP": 2,
+      "FW-NNP-NNP": 3,
+      "NNP-NNP-VBD": 2,
+      "NNP-VBD-JJ": 1,
+      "VBD-JJ-NN": 1,
+      "NN-NN-CD": 1,
+      "NN-CD-NNS": 1,
+      "CD-NNS-JJ": 1,
+      "NNS-JJ-JJ": 1,
+      "JJ-NN-NNP": 2,
+      "NNP-FW-FW": 5,
+      "VBP-NNS-VBP": 2,
+      "VBP-JJ-NNS": 2,
+      "JJ-NNS-NNS": 1,
+      "NNS-VBP-IN": 1,
+      "VBP-IN-FW": 1,
+      "IN-FW-NNP": 1,
+      "FW-NNP-FW": 3,
+      "FW-FW-VBP": 1,
+      "FW-VBP-VBN": 1,
+      "VBP-VBN-JJ": 1,
+      "VBN-JJ-NNS": 1,
+      "JJ-NNS-VBP": 2,
+      "JJ-NN-FW": 1,
+      "FW-NN-FW": 2,
+      "FW-FW-JJ": 3,
+      "FW-JJ-NNP": 1,
+      "JJ-NNP-NN": 2,
+      "NN-JJ-NNS": 1,
+      "JJ-NNS-IN": 2,
+      "NNS-IN-NNP": 1,
+      "IN-NNP-VBP": 1,
+      "NNP-VBP-NN": 1,
+      "VBP-NN-NNS": 1,
+      "NN-NNP-NN": 1,
+      "NN-NN-IN": 2,
+      "FW-JJ-NN": 2,
+      "JJ-NN-NNS": 1,
+      "NN-NNS-IN": 1,
+      "NNS-IN-NNS": 1,
+      "IN-NNS-NNP": 1,
+      "NNS-NNP-FW": 1,
+      "NN-NN-NNP": 6,
+      "FW-NNP-VBP": 1,
+      "NNP-VBP-JJ": 1,
+      "NNP-VBD-NNP": 1,
+      "VBD-NNP-FW": 1,
+      "NN-NNP-IN": 1,
+      "NNP-IN-NNP": 1,
+      "NNP-NN-VBZ": 1,
+      "NN-VBZ-JJ": 1,
+      "VBZ-JJ-NNS": 1,
+      "NN-NNP-FW": 1,
+      "FW-NNS-FW": 1,
+      "NNS-FW-JJ": 1,
+      "FW-JJ-NNS": 1,
+      "NNS-IN-FW": 1,
+      "IN-FW-NNS": 1,
+      "JJ-NNS-NNP": 1,
+      "NNS-NNP-NNP": 1,
+      "VBP-JJ-NNP": 1,
+      "NNP-NN-NNS": 1,
+      "IN-FW-NN": 3,
+      "FW-NN-IN": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "FW": 82,
+        "NN": 81,
+        "NNP": 59,
+        "NNS": 30,
+        "JJ": 26
+      },
+      "top_bigrams": {
+        "FW-FW": 49,
+        "NN-NN": 40,
+        "NNP-NNP": 25,
+        "NNS-VBP": 17,
+        "NNP-NN": 16
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 32,
+        "NN-NN-NN": 17,
+        "NNS-VBP-JJ": 11,
+        "NNP-NN-NN": 10,
+        "NNP-NNP-NNP": 10
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 10,
+    "chunk_counts": {
+      "NP": 91,
+      "VP": 24,
+      "PP": 7,
+      "ADJP": 2
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 7,
+        "weight": 0.0522
+      },
+      {
+        "rule": "NP -> ('Yemen', 'NNP')",
+        "frequency": 3,
+        "weight": 0.0224
+      },
+      {
+        "rule": "NP -> ('La', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0149
+      },
+      {
+        "rule": "NP -> ('ataques', 'NNS')",
+        "frequency": 2,
+        "weight": 0.0149
+      },
+      {
+        "rule": "VP -> ('y', 'VBP') NP",
+        "frequency": 2,
+        "weight": 0.0149
+      },
+      {
+        "rule": "VP -> ('con', 'VBP') NP",
+        "frequency": 2,
+        "weight": 0.0149
+      },
+      {
+        "rule": "NP -> ('Seguridad', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0149
+      },
+      {
+        "rule": "S -> NP ('de', 'FW') ('guerra', 'FW') ('israelíes', 'FW') NP VP ('de', 'FW') NP (',', ',') NP PP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0075
+      },
+      {
+        "rule": "NP -> ('Aviones', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0075
+      },
+      {
+        "rule": "NP -> ('bombardearon', 'NN') ('este', 'NN') ('miércoles', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0075
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Aviones"
+      },
+      {
+        "label": "NP",
+        "text": "bombardearon este miércoles"
+      },
+      {
+        "label": "VP",
+        "text": "el Aeropuerto Internacional"
+      },
+      {
+        "label": "NP",
+        "text": "Aeropuerto Internacional"
+      },
+      {
+        "label": "NP",
+        "text": "Saná"
+      },
+      {
+        "label": "NP",
+        "text": "capital"
+      },
+      {
+        "label": "PP",
+        "text": "de Yemen"
+      },
+      {
+        "label": "NP",
+        "text": "Yemen"
+      },
+      {
+        "label": "NP",
+        "text": "Los bombardeos alcanzaron"
+      },
+      {
+        "label": "NP",
+        "text": "un avión"
+      },
+      {
+        "label": "NP",
+        "text": "Yemenia Airlines"
+      },
+      {
+        "label": "ADJP",
+        "text": "y el"
+      },
+      {
+        "label": "NP",
+        "text": "diez días después"
+      },
+      {
+        "label": "NP",
+        "text": "civiles"
+      },
+      {
+        "label": "VP",
+        "text": "tras reparaciones por ataques anteriores"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Aviones/NNS)\n  de/FW\n  guerra/FW\n  israelíes/FW\n  (NP bombardearon/NN este/NN miércoles/NNS)\n  (VP el/VBP (NP Aeropuerto/NNP Internacional/NNP))\n  de/FW\n  (NP Saná/NNP)\n  ,/,\n  (NP capital/NN)\n  (PP de/IN (NP Yemen/NNP))\n  ./.)",
+      "(S\n  (NP Los/NNP bombardeos/NN alcanzaron/NN)\n  (NP un/JJ avión/NN)\n  de/IN\n  pasajeros/FW\n  de/FW\n  (NP Yemenia/NNP Airlines/NNPS)\n  (ADJP y/RB el/JJ)\n  edificio/FW\n  de/FW\n  aduanas/FW\n  ,/,\n  apenas/FW\n  (NP diez/NN días/NN después/NN)\n  de/IN\n  que/FW\n  el/FW\n  aeropuerto/FW\n  reanudara/FW\n  vuelos/FW\n  (NP civiles/NNS)\n  (VP\n    tras/VBP\n    (NP reparaciones/NNS por/NNS ataques/NNS anteriores/NNS))\n  (VP del/VBP (NP Estado/NNP sionista/NN))\n  ./.)",
+      "(S\n  (NP La/NNP)\n  (VP\n    cadena/VBZ\n    (NP panárabe/NN Al/NNP Mayadeen/NNP reportó/NN que/NN la/NN))\n  agresión/FW\n  se/FW\n  produjo/FW\n  (NP tras/NNS)\n  (VP la/VBP (NP reapertura/JJ parcial/JJ del/NN aeropuerto/NN))\n  ,/,\n  (NP que/JJ había/NN)\n  (VP\n    comenzado/VBD\n    (NP a/DT operar/JJ cuatro/NN vuelos/NN)\n    (NP entre/JJ Saná/NNP y/NN Amán/NNP))\n  ,/,\n  (NP la/JJ capital/NN)\n  (PP de/IN (NP Jordania/NNP))\n  ./.)",
+      "(S\n  (NP El/NNP bombardeo/NN)\n  (NP actual/JJ sigue/NN)\n  (NP a/DT los/NN)\n  30/CD\n  (NP ataques/NNS)\n  (NP aéreos/JJ lanzados/JJ por/NN Israel/NNP)\n  (VP el/VBD)\n  6/CD\n  de/FW\n  mayo/FW\n  ,/,\n  (NP los/JJ cuales/NNS)\n  (VP ocasionaron/VBP (NP graves/NNS))\n  (VP daños/VBP (NP en/JJ aviones/NNS civiles/NNS))\n  ,/,\n  (NP terminales/NNS)\n  (VP y/VBP (NP pistas/NNS))\n  de/FW\n  aterrizaje/FW\n  ./.)",
+      "(S\n  (NP La/NNP)\n  destrucción/FW\n  de/FW\n  infraestructuras/FW\n  (VP clave/VBP)\n  (VP ha/VBN (NP interrumpido/JJ las/NNS))\n  (VP rutas/VBP (NP humanitarias/NN))\n  ,/,\n  (ADJP sanitarias/JJ)\n  y/FW\n  económicas/FW\n  en/FW\n  una/FW\n  de/FW\n  las/FW\n  zonas/FW\n  más/FW\n  afectadas/FW\n  (NP por/NN)\n  la/FW\n  guerra/FW\n  y/FW\n  el/FW\n  bloqueo/FW\n  (NP internacional/NN)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "ORGANISMOS_INTERNACIONALES",
+      "ANTIIMPERIALISMO_SOBERANIA",
+      "REGIONES_PROVINCIAS",
+      "CRISIS_HUMANITARIA_SERVICIOS",
+      "JUSTICIA_SOCIAL",
+      "LOCALIZACIONES_ESPECIFICAS",
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "INFRAESTRUCTURA_SERVICIOS"
+    ],
+    "matches": [
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "capital",
+        "position": [
+          93,
+          100
+        ],
+        "start": 93,
+        "end": 100
+      },
+      {
+        "category": "CRISIS_HUMANITARIA_SERVICIOS",
+        "matched_text": "bloqueo a la ayuda humanitaria y su campaña genocida en el territorio palestino ocupado de la franja de gaza",
+        "position": [
+          2045,
+          2153
+        ],
+        "start": 2045,
+        "end": 2153
+      },
+      {
+        "category": "CRISIS_HUMANITARIA_SERVICIOS",
+        "matched_text": "ayuda humanitaria",
+        "position": [
+          2058,
+          2075
+        ],
+        "start": 2058,
+        "end": 2075
+      },
+      {
+        "category": "ORGANISMOS_INTERNACIONALES",
+        "matched_text": "naciones unidas",
+        "position": [
+          1311,
+          1326
+        ],
+        "start": 1311,
+        "end": 1326
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "aeropuerto",
+        "position": [
+          59,
+          69
+        ],
+        "start": 59,
+        "end": 69
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "estado sionista",
+        "position": [
+          321,
+          336
+        ],
+        "start": 321,
+        "end": 336
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "edificio de",
+        "position": [
+          184,
+          195
+        ],
+        "start": 184,
+        "end": 195
+      },
+      {
+        "category": "ANTIIMPERIALISMO_SOBERANIA",
+        "matched_text": "bloqueo",
+        "position": [
+          867,
+          874
+        ],
+        "start": 867,
+        "end": 874
+      },
+      {
+        "category": "JUSTICIA_SOCIAL",
+        "matched_text": "derechos humanos",
+        "position": [
+          1034,
+          1050
+        ],
+        "start": 1034,
+        "end": 1050
+      }
+    ],
+    "match_count": 9
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Consejo de Seguridad",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Franja de Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Jordania",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Estado sionista",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "OACI",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Tel Aviv",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Aeropuerto Internacional de Saná",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Asamblea General",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "República del Yemen",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Saná",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Yemen",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Fuerzas Armadas",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Organización de Aviación Civil Internacional",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "las Naciones Unidas",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Corte Penal Internacional",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Al Mayadeen",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Amán",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Israel",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Yemenia Airlines",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Instaron",
+        "tipo": "Organizacion"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Yemenia Airlines",
+        "relacion": "ALCANZAR",
+        "objeto": "Estado sionista"
+      },
+      {
+        "sujeto": "Al Mayadeen",
+        "relacion": "REPORTAR",
+        "objeto": "Saná"
+      },
+      {
+        "sujeto": "Al Mayadeen",
+        "relacion": "REPORTAR",
+        "objeto": "Amán"
+      },
+      {
+        "sujeto": "Al Mayadeen",
+        "relacion": "REPORTAR",
+        "objeto": "Jordania"
+      },
+      {
+        "sujeto": "República del Yemen",
+        "relacion": "DECLARAR",
+        "objeto": "las Naciones Unidas"
+      },
+      {
+        "sujeto": "República del Yemen",
+        "relacion": "DECLARAR",
+        "objeto": "Consejo de Seguridad"
+      },
+      {
+        "sujeto": "Organización de Aviación Civil Internacional",
+        "relacion": "DECLARAR",
+        "objeto": "República del Yemen"
+      },
+      {
+        "sujeto": "República del Yemen",
+        "relacion": "DECLARAR",
+        "objeto": "OACI"
+      },
+      {
+        "sujeto": "República del Yemen",
+        "relacion": "DECLARAR",
+        "objeto": "Asamblea General"
+      },
+      {
+        "sujeto": "República del Yemen",
+        "relacion": "DECLARAR",
+        "objeto": "Corte Penal Internacional"
+      },
+      {
+        "sujeto": "Organización de Aviación Civil Internacional",
+        "relacion": "RECORDAR_DECLARAR",
+        "objeto": "las Naciones Unidas"
+      },
+      {
+        "sujeto": "las Naciones Unidas",
+        "relacion": "RECORDAR_DECLARAR",
+        "objeto": "OACI"
+      },
+      {
+        "sujeto": "las Naciones Unidas",
+        "relacion": "RECORDAR_DECLARAR",
+        "objeto": "Consejo de Seguridad"
+      },
+      {
+        "sujeto": "las Naciones Unidas",
+        "relacion": "RECORDAR_DECLARAR",
+        "objeto": "Asamblea General"
+      },
+      {
+        "sujeto": "las Naciones Unidas",
+        "relacion": "RECORDAR_DECLARAR",
+        "objeto": "Corte Penal Internacional"
+      },
+      {
+        "sujeto": "Organización de Aviación Civil Internacional",
+        "relacion": "RECORDAR_DECLARAR",
+        "objeto": "Consejo de Seguridad"
+      },
+      {
+        "sujeto": "Consejo de Seguridad",
+        "relacion": "RECORDAR_DECLARAR",
+        "objeto": "OACI"
+      },
+      {
+        "sujeto": "Consejo de Seguridad",
+        "relacion": "RECORDAR_DECLARAR",
+        "objeto": "Asamblea General"
+      },
+      {
+        "sujeto": "Consejo de Seguridad",
+        "relacion": "RECORDAR_DECLARAR",
+        "objeto": "Corte Penal Internacional"
+      },
+      {
+        "sujeto": "Organización de Aviación Civil Internacional",
+        "relacion": "INCLUIR_DECLARAR",
+        "objeto": "Consejo de Seguridad"
+      },
+      {
+        "sujeto": "Organización de Aviación Civil Internacional",
+        "relacion": "INCLUIR_DECLARAR",
+        "objeto": "Asamblea General"
+      },
+      {
+        "sujeto": "Organización de Aviación Civil Internacional",
+        "relacion": "INCLUIR_DECLARAR",
+        "objeto": "Corte Penal Internacional"
+      },
+      {
+        "sujeto": "OACI",
+        "relacion": "INCLUIR_DECLARAR",
+        "objeto": "Consejo de Seguridad"
+      },
+      {
+        "sujeto": "OACI",
+        "relacion": "INCLUIR_DECLARAR",
+        "objeto": "Asamblea General"
+      },
+      {
+        "sujeto": "OACI",
+        "relacion": "INCLUIR_DECLARAR",
+        "objeto": "Corte Penal Internacional"
+      },
+      {
+        "sujeto": "Fuerzas Armadas",
+        "relacion": "REIVINDICAR",
+        "objeto": "Israel"
+      },
+      {
+        "sujeto": "Fuerzas Armadas",
+        "relacion": "REIVINDICAR",
+        "objeto": "Tel Aviv"
+      },
+      {
+        "sujeto": "Fuerzas Armadas",
+        "relacion": "REIVINDICAR",
+        "objeto": "Franja de Gaza"
+      },
+      {
+        "sujeto": "Tel Aviv",
+        "relacion": "REIVINDICAR",
+        "objeto": "Israel"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "REIVINDICAR",
+        "objeto": "Franja de Gaza"
+      },
+      {
+        "sujeto": "Tel Aviv",
+        "relacion": "PONER_REIVINDICAR",
+        "objeto": "Franja de Gaza"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.0516,
+    "pos": 0.008,
+    "neu": 0.986,
+    "neg": 0.007,
+    "label": "positive"
+  }
+}

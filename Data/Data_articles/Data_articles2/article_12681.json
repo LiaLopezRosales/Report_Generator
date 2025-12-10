@@ -1,0 +1,618 @@
+{
+  "url": "https://www.telesurtv.net/accidente-ferroviario-en-egipto-deja-tres-muertos-y-49-heridos/",
+  "title": "Accidente ferroviario en Egipto deja tres muertos y 49 heridos - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Accidente",
+    "Egipto",
+    "Sucesos",
+    "trenes"
+  ],
+  "text": "El incidente tuvo lugar en la localidad de Al Zaqaziq, situada a aproximadamente 100 kilómetros al norte de El Cairo.\nEl Ministerio de Sanidad de Egipto confirmó que tras el accidente ferroviario ocurrido este sábado, tres personas fallecieron y otras 49 resultaron heridas, cinco de ellas en estado crítico.\nEn un comunicado oficial, el Ministerio de Sanidad indicó que el balance de víctimas es “semifinal”, destacando que 44 de los heridos presentan lesiones leves y se espera que puedan ser dados de alta en las próximas horas. Sin embargo, cinco personas se encuentran en condiciones críticas y requieren atención médica continua.\nEl accidente se produjo en la tarde del sábado, cuando dos trenes colisionaron en la mencionada ciudad de Al Zaqaziq, en la gobernación de Al Sharquíya. Las autoridades han movilizado 40 ambulancias para trasladar a los heridos a tres centros médicos cercanos, donde están recibiendo atención especializada.\nLa Fiscalía General de Egipto ordenó la detención de los conductores de ambos trenes y ha iniciado una “investigación urgente” para determinar las causas del accidente.\nEste tipo de incidentes no son infrecuentes en Egipto, donde los accidentes ferroviarios suelen ser atribuibles a errores humanos, así como al deterioro de la infraestructura ferroviaria y a la inadecuada señalización y sistemas de seguridad.\nEn respuesta a estos desafíos, las autoridades egipcias iniciaron un proceso de modernización de la red ferroviaria, con el objetivo de mejorar la seguridad y la eficiencia del transporte ferroviario en el país. Se espera que estas inversiones contribuyan a reducir la frecuencia de accidentes y a garantizar un servicio más seguro para los ciudadanos.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/accidente-ferroviario-en-egipto-deja-tres-muertos-y-49-heridos/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-09.json",
+    "message_index": 967,
+    "message_id": 76329,
+    "date": "2024-09-15T03:55:09+00:00",
+    "text": "teleSUR\nAccidente ferroviario en Egipto deja tres muertos y 49 heridos\nhttps://www.telesurtv.net/accidente-ferroviario-en-egipto-deja-tres-muertos-y-49-heridos/",
+    "photo_path": null,
+    "views": 2967,
+    "reactions": {
+      "😢": 45,
+      "😱": 6,
+      "👍": 4
+    },
+    "total_reactions": 55
+  },
+  "preprocessing": {
+    "cleaned": "el incidente tuvo lugar en la localidad de al zaqaziq, situada a aproximadamente 100 kilómetros al norte de el cairo. el ministerio de sanidad de egipto confirmó que tras el accidente ferroviario ocurrido este sábado, tres personas fallecieron y otras 49 resultaron heridas, cinco de ellas en estado crítico. en un comunicado oficial, el ministerio de sanidad indicó que el balance de víctimas es “semifinal”, destacando que 44 de los heridos presentan lesiones leves y se espera que puedan ser dados de alta en las próximas horas. sin embargo, cinco personas se encuentran en condiciones críticas y requieren atención médica continua. el accidente se produjo en la tarde del sábado, cuando dos trenes colisionaron en la mencionada ciudad de al zaqaziq, en la gobernación de al sharquíya. las autoridades han movilizado 40 ambulancias para trasladar a los heridos a tres centros médicos cercanos, donde están recibiendo atención especializada. la fiscalía general de egipto ordenó la detención de los conductores de ambos trenes y ha iniciado una “investigación urgente” para determinar las causas del accidente. este tipo de incidentes no son infrecuentes en egipto, donde los accidentes ferroviarios suelen ser atribuibles a errores humanos, así como al deterioro de la infraestructura ferroviaria y a la inadecuada señalización y sistemas de seguridad. en respuesta a estos desafíos, las autoridades egipcias iniciaron un proceso de modernización de la red ferroviaria, con el objetivo de mejorar la seguridad y la eficiencia del transporte ferroviario en el país. se espera que estas inversiones contribuyan a reducir la frecuencia de accidentes y a garantizar un servicio más seguro para los ciudadanos.",
+    "tokens": [
+      "incidente",
+      "lugar",
+      "localidad",
+      "zaqaziq",
+      ",",
+      "situada",
+      "aproximadamente",
+      "100",
+      "kilómetros",
+      "norte",
+      "cairo",
+      ".",
+      "ministerio",
+      "sanidad",
+      "egipto",
+      "confirmó",
+      "tras",
+      "accidente",
+      "ferroviario",
+      "ocurrido",
+      "sábado",
+      ",",
+      "tres",
+      "personas",
+      "fallecieron",
+      "49",
+      "resultaron",
+      "heridas",
+      ",",
+      "cinco",
+      "crítico",
+      ".",
+      "comunicado",
+      "oficial",
+      ",",
+      "ministerio",
+      "sanidad",
+      "indicó",
+      "balance",
+      "víctimas",
+      "“",
+      "semifinal",
+      "”",
+      ",",
+      "destacando",
+      "44",
+      "heridos",
+      "presentan",
+      "lesiones",
+      "leves",
+      "espera",
+      "puedan",
+      "ser",
+      "dados",
+      "alta",
+      "próximas",
+      "horas",
+      ".",
+      "embargo",
+      ",",
+      "cinco",
+      "personas",
+      "encuentran",
+      "condiciones",
+      "críticas",
+      "requieren",
+      "atención",
+      "médica",
+      "continua",
+      ".",
+      "accidente",
+      "produjo",
+      "tarde",
+      "sábado",
+      ",",
+      "dos",
+      "trenes",
+      "colisionaron",
+      "mencionada",
+      "ciudad",
+      "zaqaziq",
+      ",",
+      "gobernación",
+      "sharquíya",
+      ".",
+      "autoridades",
+      "movilizado",
+      "40",
+      "ambulancias",
+      "trasladar",
+      "heridos",
+      "tres",
+      "centros",
+      "médicos",
+      "cercanos",
+      ",",
+      "recibiendo",
+      "atención",
+      "especializada",
+      ".",
+      "fiscalía",
+      "general",
+      "egipto",
+      "ordenó",
+      "detención",
+      "conductores",
+      "ambos",
+      "trenes",
+      "iniciado",
+      "“",
+      "investigación",
+      "urgente",
+      "”",
+      "determinar",
+      "causas",
+      "accidente",
+      ".",
+      "tipo",
+      "incidentes",
+      "infrecuentes",
+      "egipto",
+      ",",
+      "accidentes",
+      "ferroviarios",
+      "suelen",
+      "ser",
+      "atribuibles",
+      "errores",
+      "humanos",
+      ",",
+      "así",
+      "deterioro",
+      "infraestructura",
+      "ferroviaria",
+      "inadecuada",
+      "señalización",
+      "sistemas",
+      "seguridad",
+      ".",
+      "respuesta",
+      "desafíos",
+      ",",
+      "autoridades",
+      "egipcias",
+      "iniciaron",
+      "proceso",
+      "modernización",
+      "red",
+      "ferroviaria",
+      ",",
+      "objetivo",
+      "mejorar",
+      "seguridad",
+      "eficiencia",
+      "transporte",
+      "ferroviario",
+      "país",
+      ".",
+      "espera",
+      "inversiones",
+      "contribuyan",
+      "reducir",
+      "frecuencia",
+      "accidentes",
+      "garantizar",
+      "servicio",
+      "seguro",
+      "ciudadanos",
+      "."
+    ],
+    "token_count": 169,
+    "sentence_count": 10
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 27,
+      "NN": 72,
+      "IN": 16,
+      "FW": 57,
+      "VBD": 2,
+      "RB": 2,
+      "CD": 4,
+      "NNS": 16,
+      "JJ": 32,
+      "VBP": 9,
+      "VBZ": 8,
+      "MD": 1,
+      "VB": 1,
+      "DT": 1,
+      "VBN": 1
+    },
+    "bigram_freq": {
+      "NNP-NN": 10,
+      "NN-NN": 37,
+      "NN-IN": 11,
+      "IN-FW": 10,
+      "FW-FW": 37,
+      "FW-NNP": 9,
+      "NNP-NNP": 9,
+      "NNP-VBD": 1,
+      "VBD-RB": 1,
+      "RB-CD": 2,
+      "CD-NNS": 2,
+      "NNS-JJ": 2,
+      "JJ-FW": 4,
+      "NNP-IN": 2,
+      "IN-NNP": 3,
+      "NNP-FW": 3,
+      "NN-NNS": 5,
+      "NNS-VBP": 9,
+      "VBP-JJ": 9,
+      "JJ-NN": 19,
+      "NN-VBZ": 4,
+      "VBZ-JJ": 5,
+      "NN-VBD": 1,
+      "VBD-CD": 1,
+      "CD-NN": 1,
+      "FW-NN": 3,
+      "NN-NNP": 4,
+      "NN-JJ": 7,
+      "FW-JJ": 4,
+      "NN-CD": 1,
+      "CD-IN": 1,
+      "NNS-VBZ": 2,
+      "IN-NNS": 1,
+      "JJ-NNS": 4,
+      "NNP-VBZ": 1,
+      "JJ-RB": 1,
+      "IN-JJ": 2,
+      "JJ-NNP": 1,
+      "NNP-MD": 1,
+      "MD-VB": 1,
+      "VB-FW": 1,
+      "FW-NNS": 3,
+      "NNS-FW": 1,
+      "JJ-JJ": 3,
+      "NN-FW": 1,
+      "FW-VBZ": 1,
+      "VBZ-DT": 1,
+      "DT-NN": 1,
+      "VBZ-IN": 1,
+      "VBZ-NNS": 1,
+      "NNS-VBN": 1,
+      "VBN-NN": 1,
+      "NNS-IN": 1
+    },
+    "trigram_freq": {
+      "NNP-NN-NN": 9,
+      "NN-NN-NN": 17,
+      "NN-NN-IN": 7,
+      "NN-IN-FW": 9,
+      "IN-FW-FW": 8,
+      "FW-FW-FW": 22,
+      "FW-FW-NNP": 6,
+      "FW-NNP-NNP": 4,
+      "NNP-NNP-VBD": 1,
+      "NNP-VBD-RB": 1,
+      "VBD-RB-CD": 1,
+      "RB-CD-NNS": 2,
+      "CD-NNS-JJ": 1,
+      "NNS-JJ-FW": 1,
+      "JJ-FW-FW": 4,
+      "NNP-NNP-NNP": 4,
+      "NNP-NNP-IN": 1,
+      "NNP-IN-NNP": 2,
+      "IN-NNP-FW": 1,
+      "NNP-FW-NNP": 2,
+      "FW-NNP-NN": 4,
+      "NN-NN-NNS": 3,
+      "NN-NNS-VBP": 2,
+      "NNS-VBP-JJ": 9,
+      "VBP-JJ-NN": 4,
+      "JJ-NN-NN": 8,
+      "NN-NN-VBZ": 3,
+      "NN-VBZ-JJ": 2,
+      "VBZ-JJ-NN": 2,
+      "JJ-NN-VBD": 1,
+      "NN-VBD-CD": 1,
+      "VBD-CD-NN": 1,
+      "CD-NN-NN": 1,
+      "FW-FW-NN": 3,
+      "FW-NN-NNP": 1,
+      "NN-NNP-NN": 3,
+      "NN-NN-JJ": 4,
+      "NN-JJ-NN": 6,
+      "JJ-NN-NNP": 2,
+      "NN-NNP-IN": 1,
+      "IN-NNP-NN": 2,
+      "JJ-NN-IN": 4,
+      "FW-FW-JJ": 3,
+      "FW-JJ-NN": 3,
+      "NN-NN-CD": 1,
+      "NN-CD-IN": 1,
+      "CD-IN-FW": 1,
+      "IN-FW-JJ": 1,
+      "JJ-NN-NNS": 1,
+      "NN-NNS-VBZ": 2,
+      "NNS-VBZ-JJ": 2,
+      "NN-IN-NNS": 1,
+      "IN-NNS-JJ": 1,
+      "NNS-JJ-NNS": 1,
+      "JJ-NNS-VBP": 4,
+      "FW-NN-NN": 2,
+      "VBP-JJ-FW": 3,
+      "NNP-NNP-FW": 2,
+      "NNP-FW-FW": 1,
+      "NNP-NNP-VBZ": 1,
+      "NNP-VBZ-JJ": 1,
+      "VBZ-JJ-RB": 1,
+      "JJ-RB-CD": 1,
+      "CD-NNS-VBP": 1,
+      "VBZ-JJ-NNS": 1,
+      "NN-IN-JJ": 1,
+      "IN-JJ-NNP": 1,
+      "JJ-NNP-NNP": 1,
+      "FW-NNP-MD": 1,
+      "NNP-MD-VB": 1,
+      "MD-VB-FW": 1,
+      "VB-FW-FW": 1,
+      "FW-FW-NNS": 3,
+      "FW-NNS-FW": 1,
+      "NNS-FW-FW": 1,
+      "FW-NNS-VBP": 2,
+      "VBP-JJ-JJ": 2,
+      "JJ-JJ-NN": 3,
+      "JJ-NN-JJ": 3,
+      "NN-NN-NNP": 1,
+      "NNP-NN-FW": 1,
+      "NN-FW-VBZ": 1,
+      "FW-VBZ-DT": 1,
+      "VBZ-DT-NN": 1,
+      "DT-NN-VBZ": 1,
+      "NN-VBZ-IN": 1,
+      "VBZ-IN-NNP": 1,
+      "NN-VBZ-NNS": 1,
+      "VBZ-NNS-VBN": 1,
+      "NNS-VBN-NN": 1,
+      "VBN-NN-NNS": 1,
+      "VBZ-JJ-JJ": 1,
+      "IN-FW-NNP": 1,
+      "NN-NNS-IN": 1,
+      "NNS-IN-JJ": 1,
+      "IN-JJ-NN": 1,
+      "FW-JJ-NNS": 1,
+      "NN-JJ-NNS": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 72,
+        "FW": 57,
+        "JJ": 32,
+        "NNP": 27,
+        "IN": 16
+      },
+      "top_bigrams": {
+        "NN-NN": 37,
+        "FW-FW": 37,
+        "JJ-NN": 19,
+        "NN-IN": 11,
+        "NNP-NN": 10
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 22,
+        "NN-NN-NN": 17,
+        "NNP-NN-NN": 9,
+        "NN-IN-FW": 9,
+        "NNS-VBP-JJ": 9
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 10,
+    "chunk_counts": {
+      "NP": 71,
+      "VP": 24,
+      "ADJP": 3,
+      "PP": 5
+    },
+    "top_rules": [
+      {
+        "rule": "NP -> ('Al', 'NNP') ('Zaqaziq', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0177
+      },
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0177
+      },
+      {
+        "rule": "NP -> ('En', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0177
+      },
+      {
+        "rule": "NP -> ('Egipto', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0177
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0177
+      },
+      {
+        "rule": "S -> NP ('en', 'IN') ('la', 'FW') ('localidad', 'FW') ('de', 'FW') NP (',', ',') VP ('a', 'DT') ADJP ('100', 'CD') NP ADJP ('norte', 'FW') ('de', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0088
+      },
+      {
+        "rule": "NP -> ('El', 'NNP') ('incidente', 'NN') ('tuvo', 'NN') ('lugar', 'NN')",
+        "frequency": 1,
+        "weight": 0.0088
+      },
+      {
+        "rule": "VP -> ('situada', 'VBD')",
+        "frequency": 1,
+        "weight": 0.0088
+      },
+      {
+        "rule": "ADJP -> ('aproximadamente', 'JJ')",
+        "frequency": 1,
+        "weight": 0.0088
+      },
+      {
+        "rule": "NP -> ('kilómetros', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0088
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El incidente tuvo lugar"
+      },
+      {
+        "label": "NP",
+        "text": "Al Zaqaziq"
+      },
+      {
+        "label": "VP",
+        "text": "situada"
+      },
+      {
+        "label": "ADJP",
+        "text": "aproximadamente"
+      },
+      {
+        "label": "NP",
+        "text": "kilómetros"
+      },
+      {
+        "label": "ADJP",
+        "text": "al"
+      },
+      {
+        "label": "NP",
+        "text": "El Cairo"
+      },
+      {
+        "label": "NP",
+        "text": "El Ministerio"
+      },
+      {
+        "label": "PP",
+        "text": "de Sanidad"
+      },
+      {
+        "label": "NP",
+        "text": "Sanidad"
+      },
+      {
+        "label": "NP",
+        "text": "Egipto confirmó que tras"
+      },
+      {
+        "label": "VP",
+        "text": "el accidente ferroviario ocurrido este sábado"
+      },
+      {
+        "label": "NP",
+        "text": "accidente ferroviario ocurrido este sábado"
+      },
+      {
+        "label": "VP",
+        "text": "tres personas fallecieron y"
+      },
+      {
+        "label": "NP",
+        "text": "personas fallecieron y"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP El/NNP incidente/NN tuvo/NN lugar/NN)\n  en/IN\n  la/FW\n  localidad/FW\n  de/FW\n  (NP Al/NNP Zaqaziq/NNP)\n  ,/,\n  (VP situada/VBD)\n  a/DT\n  (ADJP aproximadamente/JJ)\n  100/CD\n  (NP kilómetros/NNS)\n  (ADJP al/JJ)\n  norte/FW\n  de/FW\n  (NP El/NNP Cairo/NNP)\n  ./.)",
+      "(S\n  (NP El/NNP Ministerio/NNP)\n  (PP de/IN (NP Sanidad/NNP))\n  de/FW\n  (NP Egipto/NNP confirmó/NN que/NN tras/NNS)\n  (VP\n    el/VBP\n    (NP accidente/JJ ferroviario/NN ocurrido/NN este/NN sábado/NN))\n  ,/,\n  (VP tres/VBZ (NP personas/JJ fallecieron/NN y/NN))\n  (VP otras/VBD)\n  49/CD\n  (NP resultaron/NN heridas/NN)\n  ,/,\n  (NP cinco/NN)\n  de/FW\n  ellas/FW\n  en/FW\n  estado/FW\n  (NP crítico/NN)\n  ./.)",
+      "(S\n  (NP En/NNP)\n  (NP un/JJ comunicado/NN)\n  (ADJP oficial/JJ)\n  ,/,\n  (NP el/JJ Ministerio/NNP)\n  de/FW\n  (NP Sanidad/NNP indicó/NN que/NN)\n  (NP el/JJ balance/NN)\n  de/IN\n  víctimas/FW\n  es/FW\n  “/FW\n  (NP semifinal/JJ ”/NN)\n  ,/,\n  (NP destacando/NN que/NN)\n  44/CD\n  de/IN\n  los/FW\n  (NP heridos/JJ presentan/NN lesiones/NNS)\n  (VP\n    leves/VBZ\n    (NP y/JJ se/NN espera/NN que/NN puedan/NN ser/NN dados/NN))\n  de/IN\n  alta/FW\n  en/FW\n  las/FW\n  (NP próximas/NN horas/NNS)\n  ./.)",
+      "(S\n  (NP Sin/NNP embargo/NN)\n  ,/,\n  (NP cinco/NN personas/NNS)\n  (VP se/VBP encuentran/JJ)\n  en/FW\n  (NP condiciones/NNS)\n  (VP críticas/VBP (NP y/JJ requieren/NNS))\n  (VP atención/VBP (NP médica/JJ continua/NN))\n  ./.)",
+      "(S\n  (NP El/NNP accidente/NN se/NN produjo/NN)\n  en/IN\n  la/FW\n  tarde/FW\n  del/FW\n  (NP sábado/NN)\n  ,/,\n  (NP cuando/NN dos/NN trenes/NNS)\n  (VP colisionaron/VBP en/JJ)\n  la/FW\n  mencionada/FW\n  ciudad/FW\n  de/FW\n  (NP Al/NNP Zaqaziq/NNP)\n  ,/,\n  en/FW\n  la/FW\n  gobernación/FW\n  de/FW\n  (NP Al/NNP Sharquíya/NNP)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "CANTIDADES_NUMERICAS",
+      "PERIODOS_TEMPORALES",
+      "ANTIIMPERIALISMO_SOBERANIA",
+      "REGIONES_PROVINCIAS"
+    ],
+    "matches": [
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "estado crítico",
+        "position": [
+          293,
+          307
+        ],
+        "start": 293,
+        "end": 307
+      },
+      {
+        "category": "PERIODOS_TEMPORALES",
+        "matched_text": "en la tarde",
+        "position": [
+          660,
+          671
+        ],
+        "start": 660,
+        "end": 671
+      },
+      {
+        "category": "ANTIIMPERIALISMO_SOBERANIA",
+        "matched_text": "embargo",
+        "position": [
+          536,
+          543
+        ],
+        "start": 536,
+        "end": 543
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "aproximadamente 100",
+        "position": [
+          65,
+          84
+        ],
+        "start": 65,
+        "end": 84
+      }
+    ],
+    "match_count": 4
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "El Cairo",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Al Zaqaziq",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Ministerio de Sanidad",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Egipto",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Fiscalía General",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Al Sharquíya",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": []
+  },
+  "sentiment": {
+    "compound": -0.5267,
+    "pos": 0.009,
+    "neu": 0.968,
+    "neg": 0.023,
+    "label": "negative"
+  }
+}

@@ -1,0 +1,509 @@
+{
+  "url": "https://www.telesurtv.net/extienden-hasta-las-20h00-las-votaciones-para-jueces-y-juezas-de-paz-en-venezuela/",
+  "title": "Extienden hasta las 20H00 las votaciones para jueces y juezas de paz en Venezuela - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "Democracia",
+    "Estado comunal",
+    "Jueces de paz",
+    "participación",
+    "Poder Popular",
+    "Venezuela"
+  ],
+  "text": "\nEl vicepresidente del Consejo Nacional Electoral (CNE) de Venezuela, Carlos Quintero, anunció la extensión por espacio de dos horas de las votaciones para jueces y juezas de paz en la nación suramericana, inédito proceso comicial que coincide con el aniversario 25 de la Constitución de la República Bolivariana de Venezuela.\nQuintero precisó que el horario de trabajo de los centros de votación se extendió hasta las 20H00 hora local. En todo el país se habilitaron 4.817.\nValoró que la alta afluencia de electores a estos espacios aconsejó esta medida y puntualizó que los centros de votación permanecerán abiertos hasta que vote la última persona en fila.\nAdemás, felicitó al pueblo venezolano por su participación masiva en la elección de jueces y juezas de paz, luego de una jornada marcada por un clima de tranquilidad, dinamismo, alegría y compromiso con el futuro de Venezuela.\n",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/extienden-hasta-las-20h00-las-votaciones-para-jueces-y-juezas-de-paz-en-venezuela/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-12.json",
+    "message_index": 899,
+    "message_id": 82464,
+    "date": "2024-12-15T23:55:08+00:00",
+    "text": "teleSUR\nExtienden hasta las 20H00 las votaciones para jueces y juezas de paz en Venezuela\nhttps://www.telesurtv.net/extienden-hasta-las-20h00-las-votaciones-para-jueces-y-juezas-de-paz-en-venezuela/",
+    "photo_path": null,
+    "views": 2585,
+    "reactions": {
+      "👏": 38,
+      "👍": 6,
+      "🥰": 6,
+      "🤡": 2
+    },
+    "total_reactions": 52
+  },
+  "preprocessing": {
+    "cleaned": "el vicepresidente del consejo nacional electoral (cne) de venezuela, carlos quintero, anunció la extensión por espacio de dos horas de las votaciones para jueces y juezas de paz en la nación suramericana, inédito proceso comicial que coincide con el aniversario 25 de la constitución de la república bolivariana de venezuela. quintero precisó que el horario de trabajo de los centros de votación se extendió hasta las 20h00 hora local. en todo el país se habilitaron 4.817. valoró que la alta afluencia de electores a estos espacios aconsejó esta medida y puntualizó que los centros de votación permanecerán abiertos hasta que vote la última persona en fila. además, felicitó al pueblo venezolano por su participación masiva en la elección de jueces y juezas de paz, luego de una jornada marcada por un clima de tranquilidad, dinamismo, alegría y compromiso con el futuro de venezuela.",
+    "tokens": [
+      "vicepresidente",
+      "consejo",
+      "nacional",
+      "electoral",
+      "(",
+      "cne",
+      ")",
+      "venezuela",
+      ",",
+      "carlos",
+      "quintero",
+      ",",
+      "anunció",
+      "extensión",
+      "espacio",
+      "dos",
+      "horas",
+      "votaciones",
+      "jueces",
+      "juezas",
+      "paz",
+      "nación",
+      "suramericana",
+      ",",
+      "inédito",
+      "proceso",
+      "comicial",
+      "coincide",
+      "aniversario",
+      "25",
+      "constitución",
+      "república",
+      "bolivariana",
+      "venezuela",
+      ".",
+      "quintero",
+      "precisó",
+      "horario",
+      "trabajo",
+      "centros",
+      "votación",
+      "extendió",
+      "20h00",
+      "hora",
+      "local",
+      ".",
+      "país",
+      "habilitaron",
+      "4.817.",
+      "valoró",
+      "alta",
+      "afluencia",
+      "electores",
+      "espacios",
+      "aconsejó",
+      "medida",
+      "puntualizó",
+      "centros",
+      "votación",
+      "permanecerán",
+      "abiertos",
+      "vote",
+      "última",
+      "persona",
+      "fila",
+      ".",
+      "además",
+      ",",
+      "felicitó",
+      "pueblo",
+      "venezolano",
+      "participación",
+      "masiva",
+      "elección",
+      "jueces",
+      "juezas",
+      "paz",
+      ",",
+      "luego",
+      "jornada",
+      "marcada",
+      "clima",
+      "tranquilidad",
+      ",",
+      "dinamismo",
+      ",",
+      "alegría",
+      "compromiso",
+      "futuro",
+      "venezuela",
+      "."
+    ],
+    "token_count": 91,
+    "sentence_count": 5
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 18,
+      "NN": 43,
+      "FW": 48,
+      "NNS": 6,
+      "VBP": 4,
+      "JJ": 8,
+      "CD": 3,
+      "IN": 5,
+      "VBZ": 1,
+      "VBD": 1,
+      "$": 1
+    },
+    "bigram_freq": {
+      "NNP-NN": 7,
+      "NN-NN": 24,
+      "NN-NNP": 3,
+      "NNP-NNP": 7,
+      "NNP-FW": 3,
+      "FW-NNP": 5,
+      "NN-FW": 6,
+      "FW-FW": 33,
+      "FW-NNS": 3,
+      "NNS-VBP": 4,
+      "VBP-NNS": 2,
+      "NNS-FW": 2,
+      "FW-JJ": 1,
+      "JJ-NN": 6,
+      "NN-CD": 1,
+      "CD-IN": 1,
+      "IN-FW": 4,
+      "FW-NN": 6,
+      "NN-IN": 4,
+      "NN-VBZ": 1,
+      "VBZ-CD": 1,
+      "CD-JJ": 1,
+      "JJ-JJ": 1,
+      "JJ-NNP": 1,
+      "NN-VBD": 1,
+      "VBD-$": 1,
+      "$-CD": 1,
+      "CD-NNP": 1,
+      "NN-JJ": 3,
+      "IN-NNS": 1,
+      "VBP-JJ": 2
+    },
+    "trigram_freq": {
+      "NNP-NN-NN": 6,
+      "NN-NN-NNP": 2,
+      "NN-NNP-NNP": 1,
+      "NNP-NNP-NNP": 3,
+      "NNP-NNP-FW": 2,
+      "NNP-FW-NNP": 2,
+      "FW-NNP-NNP": 3,
+      "NNP-NNP-NN": 2,
+      "NN-NN-FW": 4,
+      "NN-FW-FW": 2,
+      "FW-FW-FW": 26,
+      "FW-FW-NNS": 3,
+      "FW-NNS-VBP": 2,
+      "NNS-VBP-NNS": 2,
+      "VBP-NNS-FW": 1,
+      "NNS-FW-FW": 2,
+      "FW-FW-JJ": 1,
+      "FW-JJ-NN": 1,
+      "JJ-NN-NN": 3,
+      "NN-NN-NN": 13,
+      "NN-NN-CD": 1,
+      "NN-CD-IN": 1,
+      "CD-IN-FW": 1,
+      "IN-FW-NNP": 1,
+      "FW-NNP-FW": 1,
+      "NNP-FW-FW": 1,
+      "FW-FW-NNP": 1,
+      "NN-FW-NN": 3,
+      "FW-NN-IN": 1,
+      "NN-IN-FW": 3,
+      "IN-FW-FW": 2,
+      "FW-FW-NN": 2,
+      "FW-NN-VBZ": 1,
+      "NN-VBZ-CD": 1,
+      "VBZ-CD-JJ": 1,
+      "CD-JJ-JJ": 1,
+      "JJ-JJ-NNP": 1,
+      "JJ-NNP-NN": 1,
+      "NN-NN-VBD": 1,
+      "NN-VBD-$": 1,
+      "VBD-$-CD": 1,
+      "$-CD-NNP": 1,
+      "CD-NNP-NN": 1,
+      "NN-NN-JJ": 3,
+      "NN-JJ-NN": 3,
+      "JJ-NN-IN": 3,
+      "NN-IN-NNS": 1,
+      "IN-NNS-VBP": 1,
+      "VBP-NNS-VBP": 1,
+      "NNS-VBP-JJ": 2,
+      "VBP-JJ-NN": 2,
+      "NN-NNP-NN": 2,
+      "NNP-NN-FW": 1,
+      "FW-NN-NNP": 1,
+      "FW-NNS-FW": 1,
+      "FW-NN-NN": 2,
+      "IN-FW-NN": 1,
+      "FW-NN-FW": 1,
+      "NN-FW-NNP": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "FW": 48,
+        "NN": 43,
+        "NNP": 18,
+        "JJ": 8,
+        "NNS": 6
+      },
+      "top_bigrams": {
+        "FW-FW": 33,
+        "NN-NN": 24,
+        "NNP-NN": 7,
+        "NNP-NNP": 7,
+        "NN-FW": 6
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 26,
+        "NN-NN-NN": 13,
+        "NNP-NN-NN": 6,
+        "NN-NN-FW": 4,
+        "NNP-NNP-NNP": 3
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 5,
+    "chunk_counts": {
+      "NP": 36,
+      "VP": 8,
+      "ADJP": 3,
+      "PP": 2
+    },
+    "top_rules": [
+      {
+        "rule": "NP -> ('Venezuela', 'NNP')",
+        "frequency": 3,
+        "weight": 0.0556
+      },
+      {
+        "rule": "NP -> ('jueces', 'NNS')",
+        "frequency": 2,
+        "weight": 0.037
+      },
+      {
+        "rule": "NP -> ('juezas', 'NN')",
+        "frequency": 2,
+        "weight": 0.037
+      },
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.037
+      },
+      {
+        "rule": "S -> NP ('(', '(') NP (')', ')') ('de', 'FW') NP (',', ',') NP (',', ',') NP ('extensión', 'FW') ('por', 'FW') ('espacio', 'FW') ('de', 'FW') ('dos', 'FW') ('horas', 'FW') ('de', 'FW') ('las', 'FW') NP VP VP ('de', 'FW') ('paz', 'FW') ('en', 'FW') ('la', 'FW') ('nación', 'FW') NP (',', ',') ADJP VP ('25', 'CD') ('de', 'IN') ('la', 'FW') NP ('de', 'FW') ('la', 'FW') NP ('de', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0185
+      },
+      {
+        "rule": "NP -> ('El', 'NNP') ('vicepresidente', 'NN') ('del', 'NN') ('Consejo', 'NNP') ('Nacional', 'NNP') ('Electoral', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0185
+      },
+      {
+        "rule": "NP -> ('CNE', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0185
+      },
+      {
+        "rule": "NP -> ('Carlos', 'NNP') ('Quintero', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0185
+      },
+      {
+        "rule": "NP -> ('anunció', 'NN') ('la', 'NN')",
+        "frequency": 1,
+        "weight": 0.0185
+      },
+      {
+        "rule": "NP -> ('votaciones', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0185
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El vicepresidente del Consejo Nacional Electoral"
+      },
+      {
+        "label": "NP",
+        "text": "CNE"
+      },
+      {
+        "label": "NP",
+        "text": "Venezuela"
+      },
+      {
+        "label": "NP",
+        "text": "Carlos Quintero"
+      },
+      {
+        "label": "NP",
+        "text": "anunció la"
+      },
+      {
+        "label": "NP",
+        "text": "votaciones"
+      },
+      {
+        "label": "VP",
+        "text": "para jueces"
+      },
+      {
+        "label": "NP",
+        "text": "jueces"
+      },
+      {
+        "label": "VP",
+        "text": "y juezas"
+      },
+      {
+        "label": "NP",
+        "text": "juezas"
+      },
+      {
+        "label": "NP",
+        "text": "suramericana"
+      },
+      {
+        "label": "ADJP",
+        "text": "inédito"
+      },
+      {
+        "label": "VP",
+        "text": "proceso comicial que coincide con el aniversario"
+      },
+      {
+        "label": "NP",
+        "text": "comicial que coincide con el aniversario"
+      },
+      {
+        "label": "NP",
+        "text": "Constitución"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP\n    El/NNP\n    vicepresidente/NN\n    del/NN\n    Consejo/NNP\n    Nacional/NNP\n    Electoral/NNP)\n  (/(\n  (NP CNE/NNP)\n  )/)\n  de/FW\n  (NP Venezuela/NNP)\n  ,/,\n  (NP Carlos/NNP Quintero/NNP)\n  ,/,\n  (NP anunció/NN la/NN)\n  extensión/FW\n  por/FW\n  espacio/FW\n  de/FW\n  dos/FW\n  horas/FW\n  de/FW\n  las/FW\n  (NP votaciones/NNS)\n  (VP para/VBP (NP jueces/NNS))\n  (VP y/VBP (NP juezas/NN))\n  de/FW\n  paz/FW\n  en/FW\n  la/FW\n  nación/FW\n  (NP suramericana/NN)\n  ,/,\n  (ADJP inédito/JJ)\n  (VP\n    proceso/VBP\n    (NP comicial/JJ que/NN coincide/NN con/NN el/NN aniversario/NN))\n  25/CD\n  de/IN\n  la/FW\n  (NP Constitución/NNP)\n  de/FW\n  la/FW\n  (NP República/NNP Bolivariana/NNP)\n  de/FW\n  (NP Venezuela/NNP)\n  ./.)",
+      "(S\n  (NP Quintero/NNP precisó/NN que/NN)\n  el/FW\n  (NP horario/NN)\n  de/IN\n  trabajo/FW\n  de/FW\n  los/FW\n  centros/FW\n  de/FW\n  votación/FW\n  se/FW\n  extendió/FW\n  (NP hasta/NN)\n  (VP las/VBZ)\n  20H00/CD\n  (ADJP hora/JJ)\n  (ADJP local/JJ)\n  ./.)",
+      "(S\n  (NP En/NNP todo/NN el/NN país/NN)\n  (VP se/VBD)\n  habilitaron/$\n  4.817/CD\n  ./.)",
+      "(S\n  (NP Valoró/NNP que/NN la/NN)\n  (NP alta/JJ afluencia/NN)\n  de/FW\n  (VP electores/VBZ (NP a/DT estos/JJ espacios/NNS))\n  (VP\n    aconsejó/VBP\n    (NP esta/JJ medida/NN y/NN puntualizó/NN que/NN)\n    (NP los/JJ centros/NN))\n  de/IN\n  votación/FW\n  permanecerán/FW\n  (NP abiertos/NNS)\n  (VP\n    hasta/VBP\n    (NP que/JJ vote/NN la/NN última/NNP persona/NN en/NN fila/NN))\n  ./.)",
+      "(S\n  (NP Además/NNP)\n  ,/,\n  (NP\n    felicitó/NN\n    al/NN\n    pueblo/NN\n    venezolano/NN\n    por/NN\n    su/NN\n    participación/NN)\n  masiva/FW\n  en/FW\n  la/FW\n  elección/FW\n  de/FW\n  (NP jueces/NNS)\n  y/CC\n  (NP juezas/NN)\n  (PP de/IN (NP paz/NN))\n  ,/,\n  luego/FW\n  de/FW\n  una/FW\n  (NP jornada/NN marcada/NN por/NN)\n  (NP un/JJ clima/NN)\n  (PP de/IN (NP tranquilidad/NN))\n  ,/,\n  (NP dinamismo/NN)\n  ,/,\n  (NP alegría/JJ y/NN compromiso/NN con/NN)\n  el/FW\n  (NP futuro/NN)\n  de/FW\n  (NP Venezuela/NNP)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "PAISES",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "LEYES_NORMATIVAS"
+    ],
+    "matches": [
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "trabajo",
+        "position": [
+          362,
+          369
+        ],
+        "start": 362,
+        "end": 369
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "anunció",
+        "position": [
+          87,
+          94
+        ],
+        "start": 87,
+        "end": 94
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "precisó",
+        "position": [
+          336,
+          343
+        ],
+        "start": 336,
+        "end": 343
+      },
+      {
+        "category": "LEYES_NORMATIVAS",
+        "matched_text": "constitución",
+        "position": [
+          272,
+          284
+        ],
+        "start": 272,
+        "end": 284
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "venezuela",
+        "position": [
+          59,
+          68
+        ],
+        "start": 59,
+        "end": 68
+      }
+    ],
+    "match_count": 5
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Venezuela",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Carlos Quintero",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "CNE",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Constitución de la República Bolivariana de Venezuela",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Consejo Nacional Electoral",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Quintero",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Consejo Nacional Electoral",
+        "relacion": "ANUNCIAR",
+        "objeto": "Constitución de la República Bolivariana de Venezuela"
+      },
+      {
+        "sujeto": "CNE",
+        "relacion": "ANUNCIAR",
+        "objeto": "Constitución de la República Bolivariana de Venezuela"
+      },
+      {
+        "sujeto": "Venezuela",
+        "relacion": "ANUNCIAR",
+        "objeto": "Constitución de la República Bolivariana de Venezuela"
+      },
+      {
+        "sujeto": "Carlos Quintero",
+        "relacion": "ANUNCIAR",
+        "objeto": "Constitución de la República Bolivariana de Venezuela"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.0,
+    "pos": 0.0,
+    "neu": 1.0,
+    "neg": 0.0,
+    "label": "neutral"
+  }
+}

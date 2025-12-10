@@ -1,0 +1,806 @@
+{
+  "url": "https://www.telesurtv.net/11-700-evacuados-en-filipinas-por-erupcion-del-volcan-canlaon/",
+  "title": "11.700 evacuados en Filipinas por erupción del volcán Canlaón - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Canlaón",
+    "Defensa Civil",
+    "Evacuados",
+    "Filipinas",
+    "Volcán"
+  ],
+  "text": "La Oficina de Defensa Civil de Filipinas (OCD por sus siglas en inglés) dio a conocer este martes que 11.700 personas fueron evacuadas luego de la erupción del volcán Canlaón, en la isla de Negros.\nLEA TAMBIÉN\nUn nuevo incendio destruye más de 200 hogares en un barrio de la capital de Filipinas\nDe acuerdo con un comunicado de la OCD, la mayoría de los evacuados provienen de la ciudad de La Castellana, en la provincia de Negros Occidental, así como de la ciudad de Bago, en Negros Oriental.\nPor otra parte, el Departamento de Salud (DOH) también emitió alertas sobre los posibles riesgos para la salud derivados de la erupción.\nEl secretario de Salud, Teodoro Herbosa, subrayó que las cenizas volcánicas pueden provocar graves consecuencias para la salud como enfermedades respiratorias, irritación ocular y cutánea, así como la contaminación del agua.\nPara enfrentar esos peligros, el DOH ordenó a los Centros para el Desarrollo de la Salud (CDH) a colaborar de manera más intensa con las autoridades locales y que se mantengan preparados para cualquier eventualidad.\nHerbosa instó a los residentes afectados a adoptar medidas de protección, como el uso de mascarillas N95, gafas de protección y evitar el uso de agua contaminada, además de lavarse las manos con frecuencia y preparar adecuadamente los alimentos.\nEn Filipinas la situación se ha visto agravada por la reciente actividad sísmica en la región, donde se registraron seis terremotos alrededor del volcán Canlaón.\nComo consecuencia de la erupción, varios vuelos nacionales han sido cancelados o retrasados, y se suspendieron las clases en varios centros educativos de algunas de las zonas afectadas.\nEl país asiático está situado en el llamado Anillo de Fuego del Pacífico, conocido por su alta actividad volcánica y sísmica, además, alberga más de la mitad de los volcanes activos del planeta.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/11-700-evacuados-en-filipinas-por-erupcion-del-volcan-canlaon/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-12.json",
+    "message_index": 1247,
+    "message_id": 82084,
+    "date": "2024-12-10T16:55:13+00:00",
+    "text": "teleSUR\n11.700 evacuados en Filipinas por erupción del volcán Canlaón\nhttps://www.telesurtv.net/11-700-evacuados-en-filipinas-por-erupcion-del-volcan-canlaon/",
+    "photo_path": null,
+    "views": 2094,
+    "reactions": {
+      "😢": 16,
+      "😱": 6,
+      "😁": 1
+    },
+    "total_reactions": 23
+  },
+  "preprocessing": {
+    "cleaned": "la oficina de defensa civil de filipinas (ocd por sus siglas en inglés) dio a conocer este martes que 11.700 personas fueron evacuadas luego de la erupción del volcán canlaón, en la isla de negros. de acuerdo con un comunicado de la ocd, la mayoría de los evacuados provienen de la ciudad de la castellana, en la provincia de negros occidental, así como de la ciudad de bago, en negros oriental. por otra parte, el departamento de salud (doh) también emitió alertas sobre los posibles riesgos para la salud derivados de la erupción. el secretario de salud, teodoro herbosa, subrayó que las cenizas volcánicas pueden provocar graves consecuencias para la salud como enfermedades respiratorias, irritación ocular y cutánea, así como la contaminación del agua. para enfrentar esos peligros, el doh ordenó a los centros para el desarrollo de la salud (cdh) a colaborar de manera más intensa con las autoridades locales y que se mantengan preparados para cualquier eventualidad. herbosa instó a los residentes afectados a adoptar medidas de protección, como el uso de mascarillas n95, gafas de protección y evitar el uso de agua contaminada, además de lavarse las manos con frecuencia y preparar adecuadamente los alimentos. en filipinas la situación se ha visto agravada por la reciente actividad sísmica en la región, donde se registraron seis terremotos alrededor del volcán canlaón. como consecuencia de la erupción, varios vuelos nacionales han sido cancelados o retrasados, y se suspendieron las clases en varios centros educativos de algunas de las zonas afectadas. el país asiático está situado en el llamado anillo de fuego del pacífico, conocido por su alta actividad volcánica y sísmica, además, alberga más de la mitad de los volcanes activos del planeta.",
+    "tokens": [
+      "oficina",
+      "defensa",
+      "civil",
+      "filipinas",
+      "(",
+      "ocd",
+      "siglas",
+      "inglés",
+      ")",
+      "dio",
+      "conocer",
+      "martes",
+      "11.700",
+      "personas",
+      "evacuadas",
+      "luego",
+      "erupción",
+      "volcán",
+      "canlaón",
+      ",",
+      "isla",
+      "negros",
+      ".",
+      "acuerdo",
+      "comunicado",
+      "ocd",
+      ",",
+      "mayoría",
+      "evacuados",
+      "provienen",
+      "ciudad",
+      "castellana",
+      ",",
+      "provincia",
+      "negros",
+      "occidental",
+      ",",
+      "así",
+      "ciudad",
+      "bago",
+      ",",
+      "negros",
+      "oriental",
+      ".",
+      "parte",
+      ",",
+      "departamento",
+      "salud",
+      "(",
+      "doh",
+      ")",
+      "emitió",
+      "alertas",
+      "posibles",
+      "riesgos",
+      "salud",
+      "derivados",
+      "erupción",
+      ".",
+      "secretario",
+      "salud",
+      ",",
+      "teodoro",
+      "herbosa",
+      ",",
+      "subrayó",
+      "cenizas",
+      "volcánicas",
+      "pueden",
+      "provocar",
+      "graves",
+      "consecuencias",
+      "salud",
+      "enfermedades",
+      "respiratorias",
+      ",",
+      "irritación",
+      "ocular",
+      "cutánea",
+      ",",
+      "así",
+      "contaminación",
+      "agua",
+      ".",
+      "enfrentar",
+      "peligros",
+      ",",
+      "doh",
+      "ordenó",
+      "centros",
+      "desarrollo",
+      "salud",
+      "(",
+      "cdh",
+      ")",
+      "colaborar",
+      "manera",
+      "intensa",
+      "autoridades",
+      "locales",
+      "mantengan",
+      "preparados",
+      "cualquier",
+      "eventualidad",
+      ".",
+      "herbosa",
+      "instó",
+      "residentes",
+      "afectados",
+      "adoptar",
+      "medidas",
+      "protección",
+      ",",
+      "uso",
+      "mascarillas",
+      "n95",
+      ",",
+      "gafas",
+      "protección",
+      "evitar",
+      "uso",
+      "agua",
+      "contaminada",
+      ",",
+      "además",
+      "lavarse",
+      "manos",
+      "frecuencia",
+      "preparar",
+      "adecuadamente",
+      "alimentos",
+      ".",
+      "filipinas",
+      "situación",
+      "visto",
+      "agravada",
+      "reciente",
+      "actividad",
+      "sísmica",
+      "región",
+      ",",
+      "registraron",
+      "seis",
+      "terremotos",
+      "alrededor",
+      "volcán",
+      "canlaón",
+      ".",
+      "consecuencia",
+      "erupción",
+      ",",
+      "varios",
+      "vuelos",
+      "nacionales",
+      "sido",
+      "cancelados",
+      "retrasados",
+      ",",
+      "suspendieron",
+      "clases",
+      "varios",
+      "centros",
+      "educativos",
+      "zonas",
+      "afectadas",
+      ".",
+      "país",
+      "asiático",
+      "situado",
+      "llamado",
+      "anillo",
+      "fuego",
+      "pacífico",
+      ",",
+      "conocido",
+      "alta",
+      "actividad",
+      "volcánica",
+      "sísmica",
+      ",",
+      "además",
+      ",",
+      "alberga",
+      "mitad",
+      "volcanes",
+      "activos",
+      "planeta",
+      "."
+    ],
+    "token_count": 188,
+    "sentence_count": 9
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 46,
+      "IN": 19,
+      "NN": 88,
+      "JJ": 24,
+      "VBZ": 4,
+      "CD": 2,
+      "NNS": 12,
+      "VBP": 11,
+      "FW": 79,
+      "VBD": 1,
+      "MD": 2,
+      "VB": 2
+    },
+    "bigram_freq": {
+      "NNP-NNP": 18,
+      "NNP-IN": 3,
+      "IN-NNP": 4,
+      "NNP-NN": 11,
+      "NN-NN": 53,
+      "NN-IN": 15,
+      "IN-JJ": 1,
+      "JJ-NN": 16,
+      "NN-VBZ": 4,
+      "VBZ-JJ": 4,
+      "JJ-CD": 1,
+      "CD-NNS": 2,
+      "NNS-VBP": 10,
+      "VBP-JJ": 7,
+      "IN-FW": 12,
+      "FW-FW": 52,
+      "FW-NNP": 15,
+      "NNP-FW": 10,
+      "NNP-JJ": 1,
+      "IN-CD": 1,
+      "NNS-FW": 1,
+      "FW-JJ": 4,
+      "FW-NN": 6,
+      "NN-JJ": 3,
+      "NNP-VBD": 1,
+      "VBD-NN": 1,
+      "NNP-MD": 2,
+      "MD-VB": 2,
+      "VB-JJ": 1,
+      "JJ-NNP": 2,
+      "NN-NNS": 4,
+      "JJ-NNS": 2,
+      "JJ-JJ": 3,
+      "NN-NNP": 4,
+      "NN-VBP": 1,
+      "VBP-NNP": 1,
+      "VB-NNP": 1,
+      "NN-FW": 3,
+      "NNS-IN": 1,
+      "IN-NNS": 1,
+      "FW-NNS": 2,
+      "VBP-NNS": 1,
+      "VBP-FW": 1,
+      "VBP-NN": 1
+    },
+    "trigram_freq": {
+      "NNP-NNP-IN": 2,
+      "NNP-IN-NNP": 2,
+      "IN-NNP-NNP": 4,
+      "NNP-NNP-NN": 5,
+      "NNP-NN-NN": 8,
+      "NN-NN-NN": 34,
+      "NN-NN-IN": 5,
+      "NN-IN-JJ": 1,
+      "IN-JJ-NN": 1,
+      "JJ-NN-NN": 7,
+      "NN-NN-VBZ": 4,
+      "NN-VBZ-JJ": 4,
+      "VBZ-JJ-CD": 1,
+      "JJ-CD-NNS": 1,
+      "CD-NNS-VBP": 1,
+      "NNS-VBP-JJ": 7,
+      "VBP-JJ-NN": 5,
+      "JJ-NN-IN": 6,
+      "NN-IN-FW": 11,
+      "IN-FW-FW": 8,
+      "FW-FW-FW": 35,
+      "FW-FW-NNP": 9,
+      "FW-NNP-FW": 6,
+      "NNP-FW-FW": 5,
+      "FW-NNP-NNP": 6,
+      "NNP-NNP-NNP": 5,
+      "NNP-NNP-JJ": 1,
+      "NNP-JJ-NN": 1,
+      "NN-IN-CD": 1,
+      "IN-CD-NNS": 1,
+      "CD-NNS-FW": 1,
+      "NNS-FW-JJ": 1,
+      "FW-JJ-NN": 3,
+      "IN-FW-NN": 1,
+      "FW-NN-IN": 1,
+      "NN-IN-NNP": 2,
+      "NNP-NNP-FW": 3,
+      "NNP-FW-NN": 1,
+      "FW-NN-JJ": 1,
+      "NN-JJ-NN": 3,
+      "IN-FW-NNP": 2,
+      "FW-FW-JJ": 2,
+      "NNP-NNP-VBD": 1,
+      "NNP-VBD-NN": 1,
+      "VBD-NN-IN": 1,
+      "NNP-FW-NNP": 4,
+      "NNP-NNP-MD": 1,
+      "NNP-MD-VB": 2,
+      "MD-VB-JJ": 1,
+      "VB-JJ-NNP": 1,
+      "JJ-NNP-FW": 1,
+      "NN-NN-NNS": 3,
+      "NN-NNS-VBP": 3,
+      "VBP-JJ-NNS": 1,
+      "JJ-NNS-VBP": 2,
+      "JJ-NN-JJ": 1,
+      "FW-NNP-NN": 3,
+      "NNP-NN-IN": 2,
+      "VBZ-JJ-JJ": 1,
+      "JJ-JJ-JJ": 1,
+      "JJ-JJ-NN": 2,
+      "NN-NN-NNP": 4,
+      "NN-NNP-NN": 2,
+      "NN-NN-VBP": 1,
+      "NN-VBP-NNP": 1,
+      "VBP-NNP-MD": 1,
+      "MD-VB-NNP": 1,
+      "VB-NNP-NN": 1,
+      "NN-NNP-IN": 1,
+      "NNP-IN-FW": 1,
+      "NNP-NN-FW": 1,
+      "NN-FW-FW": 3,
+      "JJ-NN-NNS": 1,
+      "NN-NNS-IN": 1,
+      "NNS-IN-NNS": 1,
+      "IN-NNS-VBP": 1,
+      "VBP-JJ-JJ": 1,
+      "VBZ-JJ-NN": 1,
+      "JJ-NN-FW": 1,
+      "FW-FW-NN": 4,
+      "FW-NN-FW": 1,
+      "FW-NN-NN": 3,
+      "IN-FW-JJ": 1,
+      "FW-JJ-NNP": 1,
+      "JJ-NNP-NNP": 1,
+      "NN-NNP-NNP": 1,
+      "FW-FW-NNS": 2,
+      "FW-NNS-VBP": 2,
+      "NNS-VBP-NNS": 1,
+      "VBP-NNS-VBP": 1,
+      "VBZ-JJ-NNS": 1,
+      "NNS-VBP-FW": 1,
+      "VBP-FW-FW": 1,
+      "NN-NN-JJ": 1,
+      "NNS-VBP-NN": 1,
+      "VBP-NN-NN": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 88,
+        "FW": 79,
+        "NNP": 46,
+        "JJ": 24,
+        "IN": 19
+      },
+      "top_bigrams": {
+        "NN-NN": 53,
+        "FW-FW": 52,
+        "NNP-NNP": 18,
+        "JJ-NN": 16,
+        "NN-IN": 15
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 35,
+        "NN-NN-NN": 34,
+        "NN-IN-FW": 11,
+        "FW-FW-NNP": 9,
+        "NNP-NN-NN": 8
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 9,
+    "chunk_counts": {
+      "NP": 81,
+      "PP": 8,
+      "VP": 19,
+      "ADJP": 1
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 4,
+        "weight": 0.0339
+      },
+      {
+        "rule": "NP -> ('Salud', 'NNP')",
+        "frequency": 3,
+        "weight": 0.0254
+      },
+      {
+        "rule": "NP -> ('OCD', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0169
+      },
+      {
+        "rule": "NP -> ('DOH', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0169
+      },
+      {
+        "rule": "NP -> ('varios', 'NNS')",
+        "frequency": 2,
+        "weight": 0.0169
+      },
+      {
+        "rule": "S -> NP PP ('de', 'FW') NP ('(', '(') NP VP PP (')', ')') VP VP ('11.700', 'CD') NP VP ('de', 'IN') ('la', 'FW') ('erupción', 'FW') ('del', 'FW') ('volcán', 'FW') NP (',', ',') ('en', 'FW') ('la', 'FW') ('isla', 'FW') ('de', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0085
+      },
+      {
+        "rule": "NP -> ('La', 'NNP') ('Oficina', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0085
+      },
+      {
+        "rule": "NP -> ('Defensa', 'NNP') ('Civil', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0085
+      },
+      {
+        "rule": "NP -> ('Filipinas', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0085
+      },
+      {
+        "rule": "VP -> ('por', 'VBZ') NP",
+        "frequency": 1,
+        "weight": 0.0085
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "La Oficina"
+      },
+      {
+        "label": "PP",
+        "text": "de Defensa Civil"
+      },
+      {
+        "label": "NP",
+        "text": "Defensa Civil"
+      },
+      {
+        "label": "NP",
+        "text": "Filipinas"
+      },
+      {
+        "label": "NP",
+        "text": "OCD"
+      },
+      {
+        "label": "VP",
+        "text": "por sus siglas"
+      },
+      {
+        "label": "NP",
+        "text": "sus siglas"
+      },
+      {
+        "label": "PP",
+        "text": "en inglés"
+      },
+      {
+        "label": "NP",
+        "text": "inglés"
+      },
+      {
+        "label": "VP",
+        "text": "dio a conocer este"
+      },
+      {
+        "label": "NP",
+        "text": "a conocer este"
+      },
+      {
+        "label": "VP",
+        "text": "martes que"
+      },
+      {
+        "label": "NP",
+        "text": "personas"
+      },
+      {
+        "label": "VP",
+        "text": "fueron evacuadas luego"
+      },
+      {
+        "label": "NP",
+        "text": "evacuadas luego"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP La/NNP Oficina/NNP)\n  (PP de/IN (NP Defensa/NNP Civil/NNP))\n  de/FW\n  (NP Filipinas/NNP)\n  (/(\n  (NP OCD/NNP)\n  (VP por/VBZ (NP sus/NN siglas/NNS))\n  (PP en/IN (NP inglés/NN))\n  )/)\n  (VP dio/VBZ (NP a/DT conocer/NN este/NN))\n  (VP martes/VBZ que/JJ)\n  11.700/CD\n  (NP personas/NNS)\n  (VP fueron/VBP (NP evacuadas/JJ luego/NN))\n  de/IN\n  la/FW\n  erupción/FW\n  del/FW\n  volcán/FW\n  (NP Canlaón/NNP)\n  ,/,\n  en/FW\n  la/FW\n  isla/FW\n  de/FW\n  (NP Negros/NNP)\n  ./.)",
+      "(S\n  (NP LEA/NNP TAMBIÉN/NNP Un/NNP)\n  (NP nuevo/JJ incendio/NN destruye/NN más/NN)\n  de/IN\n  200/CD\n  (NP hogares/NNS)\n  en/FW\n  (NP un/JJ barrio/NN)\n  de/IN\n  la/FW\n  (NP capital/NN)\n  (PP de/IN (NP Filipinas/NNP De/NNP))\n  acuerdo/FW\n  (NP con/NN)\n  (NP un/JJ comunicado/NN)\n  de/IN\n  la/FW\n  (NP OCD/NNP)\n  ,/,\n  la/FW\n  mayoría/FW\n  de/FW\n  los/FW\n  (NP evacuados/JJ provienen/NN)\n  de/IN\n  la/FW\n  ciudad/FW\n  de/FW\n  (NP La/NNP Castellana/NNP)\n  ,/,\n  en/FW\n  la/FW\n  provincia/FW\n  de/FW\n  (NP Negros/NNP Occidental/NNP)\n  ,/,\n  (NP así/JJ como/NN)\n  de/IN\n  la/FW\n  ciudad/FW\n  de/FW\n  (NP Bago/NNP)\n  ,/,\n  en/FW\n  (NP Negros/NNP Oriental/NNP)\n  ./.)",
+      "(S\n  (NP Por/NNP)\n  otra/MD\n  (VP parte/VB)\n  ,/,\n  el/FW\n  (NP Departamento/NNP)\n  de/FW\n  (NP Salud/NNP)\n  (/(\n  (NP DOH/NNP)\n  )/)\n  (NP también/NN emitió/NN alertas/NNS)\n  (VP sobre/VBP (NP los/JJ posibles/NNS))\n  (VP riesgos/VBP (NP para/JJ la/NN) (NP salud/JJ derivados/NN))\n  de/IN\n  la/FW\n  erupción/FW\n  ./.)",
+      "(S\n  (NP El/NNP secretario/NN)\n  (PP de/IN (NP Salud/NNP))\n  ,/,\n  (NP Teodoro/NNP Herbosa/NNP)\n  ,/,\n  (NP subrayó/NN que/NN las/NNS)\n  (VP\n    cenizas/VBP\n    (NP volcánicas/JJ pueden/NN provocar/NN graves/NNS))\n  (VP consecuencias/VBP (NP para/JJ la/NN salud/NN como/NN))\n  (VP enfermedades/VBZ (NP respiratorias/NNS))\n  ,/,\n  (NP irritación/JJ ocular/JJ y/NN cutánea/NN)\n  ,/,\n  (NP así/JJ como/NN la/NN contaminación/NN del/NN agua/NN)\n  ./.)",
+      "(S\n  (NP Para/NNP enfrentar/NN esos/NN peligros/NN)\n  ,/,\n  el/FW\n  (NP DOH/NNP)\n  (VP\n    ordenó/VBP\n    (NP a/DT los/NN Centros/NNP para/NN el/NN Desarrollo/NNP))\n  de/IN\n  la/FW\n  (NP Salud/NNP)\n  (/(\n  (NP CDH/NNP)\n  )/)\n  (NP a/DT colaborar/NN)\n  de/IN\n  manera/FW\n  (NP más/NN intensa/NN con/NN las/NNS)\n  (PP autoridades/IN (NP locales/NNS))\n  y/RB\n  (VP\n    que/VBP\n    (NP\n      se/JJ\n      mantengan/JJ\n      preparados/NN\n      para/NN\n      cualquier/NN\n      eventualidad/NN))\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "DESASTRES_ACCIDENTES_EMERGENCIAS",
+      "APROBACION_RECHAZO",
+      "RECURSOS_NATURALES",
+      "CANTIDADES_NUMERICAS",
+      "REGIONES_PROVINCIAS",
+      "INSTITUCIONES_EDUCATIVAS",
+      "CRISIS_HUMANITARIA_SERVICIOS",
+      "LOCALIZACIONES_ESPECIFICAS",
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "JURIDICO_LEGISLATIVO_CORRUPCION"
+    ],
+    "matches": [
+      {
+        "category": "DESASTRES_ACCIDENTES_EMERGENCIAS",
+        "matched_text": "actividad sísmica en la región, donde se registraron seis terremotos alrededor del volcán",
+        "position": [
+          1381,
+          1470
+        ],
+        "start": 1381,
+        "end": 1470
+      },
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "capital",
+        "position": [
+          275,
+          282
+        ],
+        "start": 275,
+        "end": 282
+      },
+      {
+        "category": "JURIDICO_LEGISLATIVO_CORRUPCION",
+        "matched_text": "defensa",
+        "position": [
+          14,
+          21
+        ],
+        "start": 14,
+        "end": 21
+      },
+      {
+        "category": "CRISIS_HUMANITARIA_SERVICIOS",
+        "matched_text": "contaminación",
+        "position": [
+          832,
+          845
+        ],
+        "start": 832,
+        "end": 845
+      },
+      {
+        "category": "INSTITUCIONES_EDUCATIVAS",
+        "matched_text": "departamento de salud",
+        "position": [
+          513,
+          534
+        ],
+        "start": 513,
+        "end": 534
+      },
+      {
+        "category": "APROBACION_RECHAZO",
+        "matched_text": "subrayó",
+        "position": [
+          672,
+          679
+        ],
+        "start": 672,
+        "end": 679
+      },
+      {
+        "category": "RECURSOS_NATURALES",
+        "matched_text": "agua",
+        "position": [
+          850,
+          854
+        ],
+        "start": 850,
+        "end": 854
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "pacífico",
+        "position": [
+          1730,
+          1738
+        ],
+        "start": 1730,
+        "end": 1738
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "provincia de",
+        "position": [
+          411,
+          423
+        ],
+        "start": 411,
+        "end": 423
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "barrio de",
+        "position": [
+          262,
+          271
+        ],
+        "start": 262,
+        "end": 271
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "700 personas",
+        "position": [
+          105,
+          117
+        ],
+        "start": 105,
+        "end": 117
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "11.700 personas",
+        "position": [
+          102,
+          117
+        ],
+        "start": 102,
+        "end": 117
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "más de 200",
+        "position": [
+          237,
+          247
+        ],
+        "start": 237,
+        "end": 247
+      }
+    ],
+    "match_count": 13
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Teodoro Herbosa",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "El país asiático",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Negros Oriental",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Negros Occidental",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "La Castellana",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Filipinas",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Bago",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "DOH",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Oficina de Defensa Civil",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Centros para el Desarrollo de la Salud",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Anillo de Fuego del Pacífico",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Canlaón",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Departamento de Salud",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "CDH",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Herbosa",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Negros",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Oficina de Defensa Civil",
+        "relacion": "DAR",
+        "objeto": "Canlaón"
+      },
+      {
+        "sujeto": "Oficina de Defensa Civil",
+        "relacion": "DAR",
+        "objeto": "Negros"
+      },
+      {
+        "sujeto": "Filipinas",
+        "relacion": "DAR",
+        "objeto": "Canlaón"
+      },
+      {
+        "sujeto": "Filipinas",
+        "relacion": "DAR",
+        "objeto": "Negros"
+      },
+      {
+        "sujeto": "Filipinas",
+        "relacion": "DESTRUIR",
+        "objeto": "La Castellana"
+      },
+      {
+        "sujeto": "Filipinas",
+        "relacion": "DESTRUIR",
+        "objeto": "Negros Occidental"
+      },
+      {
+        "sujeto": "Filipinas",
+        "relacion": "DESTRUIR",
+        "objeto": "Bago"
+      },
+      {
+        "sujeto": "Filipinas",
+        "relacion": "DESTRUIR",
+        "objeto": "Negros Oriental"
+      },
+      {
+        "sujeto": "Filipinas",
+        "relacion": "VER",
+        "objeto": "Canlaón"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.0516,
+    "pos": 0.008,
+    "neu": 0.984,
+    "neg": 0.008,
+    "label": "positive"
+  }
+}

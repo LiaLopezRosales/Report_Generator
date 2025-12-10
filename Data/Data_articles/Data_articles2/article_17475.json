@@ -1,0 +1,752 @@
+{
+  "url": "https://www.telesurtv.net/venezuela-agradece-a-bolivia-posicion-de-rechazo-a-injerencias/",
+  "title": "Venezuela agradece a Bolivia posición de rechazo a injerencias - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "Bolivia",
+    "Venezuela"
+  ],
+  "text": "El canciller de Venezuela, Yván Gil, agradeció este sábado en nombre del presidente Nicolás Maduro al mandatario de Bolivia, Luis Arce, su posición firme en defensa de los valores más sagrados en Latinoamérica.\nVenezuela rechaza declaraciones intervencionistas de Josep Borrell\nGil, asimismo, expresó el agradecimiento de su país a la canciller bolviana Celinda Sosa, quien externó “el respeto y la hermandad de Bolivia (…) siempre del lado de la lucha de los pueblos por su independencia y soberanía”.\nEl presidente de Bolivia, Luis Arce, declaró que su país “defiende el principio de la autodeterminación de los pueblos y el respeto a la soberanía. En ese sentido rechaza todo intento de injerencia en la política de nuestros países y respalda a las instituciones democráticas de la República Bolivariana de Venezuela”.\nLa ministra de Relaciones Exteriores del Estado Plurinacional de Bolivia, Celinda Sosa Lunda, defendió por su parte que “el TSJ de Venezuela ratificó a Nicolas Maduro como ganador de las elecciones del pasado 28/07”.\n“Saludamos y respetamos esa decisión soberana. Felicitamos al hermano presidente, le deseamos éxitos en su gestión y ratificamos nuestra voluntad de fortalecer nuestros lazos de amistad”, agregó la ministra.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/venezuela-agradece-a-bolivia-posicion-de-rechazo-a-injerencias/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-08.json",
+    "message_index": 413,
+    "message_id": 75123,
+    "date": "2024-08-25T11:55:12+00:00",
+    "text": "teleSUR\nVenezuela agradece a Bolivia posición de rechazo a injerencias\nhttps://www.telesurtv.net/venezuela-agradece-a-bolivia-posicion-de-rechazo-a-injerencias/",
+    "photo_path": null,
+    "views": 2677,
+    "reactions": {
+      "👍": 75,
+      "❤": 16,
+      "👏": 11
+    },
+    "total_reactions": 102
+  },
+  "preprocessing": {
+    "cleaned": "el canciller de venezuela, yván gil, agradeció este sábado en nombre del presidente nicolás maduro al mandatario de bolivia, luis arce, su posición firme en defensa de los valores más sagrados en latinoamérica. venezuela rechaza declaraciones intervencionistas de josep borrell gil, asimismo, expresó el agradecimiento de su país a la canciller bolviana celinda sosa, quien externó “el respeto y la hermandad de bolivia (…) siempre del lado de la lucha de los pueblos por su independencia y soberanía”. el presidente de bolivia, luis arce, declaró que su país “defiende el principio de la autodeterminación de los pueblos y el respeto a la soberanía. en ese sentido rechaza todo intento de injerencia en la política de nuestros países y respalda a las instituciones democráticas de la república bolivariana de venezuela”. la ministra de relaciones exteriores del estado plurinacional de bolivia, celinda sosa lunda, defendió por su parte que “el tsj de venezuela ratificó a nicolas maduro como ganador de las elecciones del pasado 28/07”. “saludamos y respetamos esa decisión soberana. felicitamos al hermano presidente, le deseamos éxitos en su gestión y ratificamos nuestra voluntad de fortalecer nuestros lazos de amistad”, agregó la ministra.",
+    "tokens": [
+      "canciller",
+      "venezuela",
+      ",",
+      "yván",
+      "gil",
+      ",",
+      "agradeció",
+      "sábado",
+      "nombre",
+      "presidente",
+      "nicolás",
+      "maduro",
+      "mandatario",
+      "bolivia",
+      ",",
+      "luis",
+      "arce",
+      ",",
+      "posición",
+      "firme",
+      "defensa",
+      "valores",
+      "sagrados",
+      "latinoamérica",
+      ".",
+      "venezuela",
+      "rechaza",
+      "declaraciones",
+      "intervencionistas",
+      "josep",
+      "borrell",
+      "gil",
+      ",",
+      "asimismo",
+      ",",
+      "expresó",
+      "agradecimiento",
+      "país",
+      "canciller",
+      "bolviana",
+      "celinda",
+      "sosa",
+      ",",
+      "externó",
+      "“",
+      "respeto",
+      "hermandad",
+      "bolivia",
+      "(",
+      "…",
+      ")",
+      "siempre",
+      "lado",
+      "lucha",
+      "pueblos",
+      "independencia",
+      "soberanía",
+      "”",
+      ".",
+      "presidente",
+      "bolivia",
+      ",",
+      "luis",
+      "arce",
+      ",",
+      "declaró",
+      "país",
+      "“",
+      "defiende",
+      "principio",
+      "autodeterminación",
+      "pueblos",
+      "respeto",
+      "soberanía",
+      ".",
+      "rechaza",
+      "intento",
+      "injerencia",
+      "política",
+      "países",
+      "respalda",
+      "instituciones",
+      "democráticas",
+      "república",
+      "bolivariana",
+      "venezuela",
+      "”",
+      ".",
+      "ministra",
+      "relaciones",
+      "exteriores",
+      "plurinacional",
+      "bolivia",
+      ",",
+      "celinda",
+      "sosa",
+      "lunda",
+      ",",
+      "defendió",
+      "parte",
+      "“",
+      "tsj",
+      "venezuela",
+      "ratificó",
+      "nicolas",
+      "maduro",
+      "ganador",
+      "elecciones",
+      "pasado",
+      "28/07",
+      "”",
+      ".",
+      "“",
+      "saludamos",
+      "respetamos",
+      "decisión",
+      "soberana",
+      ".",
+      "felicitamos",
+      "hermano",
+      "presidente",
+      ",",
+      "deseamos",
+      "éxitos",
+      "gestión",
+      "ratificamos",
+      "voluntad",
+      "fortalecer",
+      "lazos",
+      "amistad",
+      "”",
+      ",",
+      "agregó",
+      "ministra",
+      "."
+    ],
+    "token_count": 135,
+    "sentence_count": 7
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 42,
+      "NN": 52,
+      "FW": 60,
+      "VBZ": 4,
+      "IN": 6,
+      "JJ": 8,
+      "NNS": 5,
+      "VBP": 3,
+      "CD": 1
+    },
+    "bigram_freq": {
+      "NNP-NN": 11,
+      "NN-FW": 8,
+      "FW-NNP": 13,
+      "NNP-NNP": 20,
+      "NNP-VBZ": 4,
+      "VBZ-NN": 2,
+      "NN-NN": 30,
+      "NN-IN": 6,
+      "IN-JJ": 1,
+      "JJ-NN": 4,
+      "NN-NNP": 6,
+      "IN-NNP": 1,
+      "FW-NN": 5,
+      "IN-FW": 4,
+      "FW-NNS": 3,
+      "NNS-VBP": 3,
+      "VBP-JJ": 3,
+      "JJ-FW": 2,
+      "NN-NNS": 1,
+      "NNS-FW": 2,
+      "FW-FW": 37,
+      "VBZ-JJ": 1,
+      "NNP-FW": 6,
+      "NNP-JJ": 1,
+      "JJ-NNS": 1,
+      "JJ-CD": 1,
+      "CD-NNP": 1,
+      "VBZ-FW": 1,
+      "FW-JJ": 1,
+      "NN-JJ": 1
+    },
+    "trigram_freq": {
+      "NNP-NN-FW": 2,
+      "NN-FW-NNP": 3,
+      "FW-NNP-NNP": 9,
+      "NNP-NNP-NNP": 7,
+      "NNP-NNP-VBZ": 2,
+      "NNP-VBZ-NN": 2,
+      "VBZ-NN-NN": 2,
+      "NN-NN-IN": 5,
+      "NN-IN-JJ": 1,
+      "IN-JJ-NN": 1,
+      "JJ-NN-NN": 2,
+      "NN-NN-NNP": 5,
+      "NN-NNP-NNP": 3,
+      "NNP-NNP-NN": 6,
+      "NNP-NN-NN": 7,
+      "NN-IN-NNP": 1,
+      "IN-NNP-NNP": 1,
+      "NN-NN-NN": 17,
+      "NN-NN-FW": 3,
+      "NN-FW-NN": 1,
+      "FW-NN-IN": 1,
+      "NN-IN-FW": 4,
+      "IN-FW-NNS": 2,
+      "FW-NNS-VBP": 3,
+      "NNS-VBP-JJ": 3,
+      "VBP-JJ-FW": 1,
+      "JJ-FW-NNP": 1,
+      "NNP-NN-NNS": 1,
+      "NN-NNS-FW": 1,
+      "NNS-FW-FW": 2,
+      "FW-FW-NNP": 5,
+      "NNP-VBZ-JJ": 1,
+      "VBZ-JJ-FW": 1,
+      "JJ-FW-FW": 1,
+      "FW-FW-FW": 26,
+      "FW-FW-NN": 4,
+      "FW-NN-NN": 2,
+      "NNP-NNP-FW": 5,
+      "NNP-FW-FW": 2,
+      "FW-NN-FW": 2,
+      "NN-FW-FW": 4,
+      "FW-NNP-NN": 2,
+      "NN-NNP-NN": 1,
+      "IN-FW-FW": 2,
+      "FW-NNP-JJ": 1,
+      "NNP-JJ-NN": 1,
+      "FW-FW-NNS": 1,
+      "VBP-JJ-NNS": 1,
+      "JJ-NNS-FW": 1,
+      "NNP-FW-NNP": 4,
+      "FW-NNP-FW": 1,
+      "NNP-NN-NNP": 1,
+      "VBP-JJ-CD": 1,
+      "JJ-CD-NNP": 1,
+      "CD-NNP-NN": 1,
+      "NN-NNP-VBZ": 2,
+      "NNP-VBZ-FW": 1,
+      "VBZ-FW-JJ": 1,
+      "FW-JJ-NN": 1,
+      "JJ-NN-JJ": 1,
+      "NN-JJ-NN": 1,
+      "JJ-NN-FW": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "FW": 60,
+        "NN": 52,
+        "NNP": 42,
+        "JJ": 8,
+        "IN": 6
+      },
+      "top_bigrams": {
+        "FW-FW": 37,
+        "NN-NN": 30,
+        "NNP-NNP": 20,
+        "FW-NNP": 13,
+        "NNP-NN": 11
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 26,
+        "NN-NN-NN": 17,
+        "FW-NNP-NNP": 9,
+        "NNP-NNP-NNP": 7,
+        "NNP-NN-NN": 7
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 7,
+    "chunk_counts": {
+      "NP": 51,
+      "PP": 2,
+      "VP": 12,
+      "ADJP": 1
+    },
+    "top_rules": [
+      {
+        "rule": "NP -> ('Bolivia', 'NNP')",
+        "frequency": 4,
+        "weight": 0.0548
+      },
+      {
+        "rule": "NP -> ('Venezuela', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0274
+      },
+      {
+        "rule": "NP -> ('Luis', 'NNP') ('Arce', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0274
+      },
+      {
+        "rule": "VP -> ('el', 'VBZ') NP",
+        "frequency": 2,
+        "weight": 0.0274
+      },
+      {
+        "rule": "S -> NP ('de', 'FW') NP (',', ',') NP (',', ',') NP PP PP (',', ',') NP (',', ',') NP ('en', 'FW') NP ('de', 'IN') ('los', 'FW') NP VP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0137
+      },
+      {
+        "rule": "NP -> ('El', 'NNP') ('canciller', 'NN')",
+        "frequency": 1,
+        "weight": 0.0137
+      },
+      {
+        "rule": "NP -> ('Yván', 'NNP') ('Gil', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0137
+      },
+      {
+        "rule": "NP -> ('agradeció', 'JJ') ('este', 'NN') ('sábado', 'NN')",
+        "frequency": 1,
+        "weight": 0.0137
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 1,
+        "weight": 0.0137
+      },
+      {
+        "rule": "NP -> ('nombre', 'JJ') ('del', 'NN') ('presidente', 'NN') ('Nicolás', 'NNP') ('Maduro', 'NNP') ('al', 'NN') ('mandatario', 'NN')",
+        "frequency": 1,
+        "weight": 0.0137
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El canciller"
+      },
+      {
+        "label": "NP",
+        "text": "Venezuela"
+      },
+      {
+        "label": "NP",
+        "text": "Yván Gil"
+      },
+      {
+        "label": "NP",
+        "text": "agradeció este sábado"
+      },
+      {
+        "label": "PP",
+        "text": "en nombre del presidente Nicolás Maduro al mandatario"
+      },
+      {
+        "label": "NP",
+        "text": "nombre del presidente Nicolás Maduro al mandatario"
+      },
+      {
+        "label": "PP",
+        "text": "de Bolivia"
+      },
+      {
+        "label": "NP",
+        "text": "Bolivia"
+      },
+      {
+        "label": "NP",
+        "text": "Luis Arce"
+      },
+      {
+        "label": "NP",
+        "text": "su posición firme"
+      },
+      {
+        "label": "NP",
+        "text": "defensa"
+      },
+      {
+        "label": "NP",
+        "text": "valores"
+      },
+      {
+        "label": "VP",
+        "text": "más sagrados en Latinoamérica"
+      },
+      {
+        "label": "NP",
+        "text": "sagrados en Latinoamérica"
+      },
+      {
+        "label": "NP",
+        "text": "Venezuela rechaza declaraciones"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP El/NNP canciller/NN)\n  de/FW\n  (NP Venezuela/NNP)\n  ,/,\n  (NP Yván/NNP Gil/NNP)\n  ,/,\n  (NP agradeció/JJ este/NN sábado/NN)\n  (PP\n    en/IN\n    (NP\n      nombre/JJ\n      del/NN\n      presidente/NN\n      Nicolás/NNP\n      Maduro/NNP\n      al/NN\n      mandatario/NN))\n  (PP de/IN (NP Bolivia/NNP))\n  ,/,\n  (NP Luis/NNP Arce/NNP)\n  ,/,\n  (NP su/NN posición/NN firme/NN)\n  en/FW\n  (NP defensa/NN)\n  de/IN\n  los/FW\n  (NP valores/NNS)\n  (VP más/VBP (NP sagrados/JJ en/NN Latinoamérica/NNP))\n  ./.)",
+      "(S\n  (NP Venezuela/NNP rechaza/NN declaraciones/NNS)\n  intervencionistas/FW\n  de/FW\n  (NP Josep/NNP Borrell/NNP Gil/NNP)\n  ,/,\n  (NP asimismo/NN)\n  ,/,\n  (ADJP expresó/JJ)\n  el/FW\n  agradecimiento/FW\n  de/FW\n  su/FW\n  país/FW\n  a/DT\n  la/FW\n  (NP canciller/NN bolviana/NN Celinda/NNP Sosa/NNP)\n  ,/,\n  (NP quien/NN externó/NN “/NNP)\n  (VP el/VBZ (NP respeto/NN y/NN))\n  la/FW\n  hermandad/FW\n  de/FW\n  (NP Bolivia/NNP)\n  (/(\n  (NP …/NNP)\n  )/)\n  (VP siempre/VBD (NP del/JJ lado/NN))\n  de/IN\n  la/FW\n  lucha/FW\n  de/FW\n  los/FW\n  pueblos/FW\n  (NP por/NN su/NN independencia/NN y/NN soberanía/NN ”/NN)\n  ./.)",
+      "(S\n  (NP El/NNP presidente/NN)\n  de/FW\n  (NP Bolivia/NNP)\n  ,/,\n  (NP Luis/NNP Arce/NNP)\n  ,/,\n  (NP\n    declaró/NN\n    que/NN\n    su/NN\n    país/NN\n    “/NNP\n    defiende/NN\n    el/NN\n    principio/NN)\n  de/IN\n  la/FW\n  autodeterminación/FW\n  de/FW\n  los/FW\n  pueblos/FW\n  y/FW\n  el/FW\n  respeto/FW\n  (NP a/DT la/NN soberanía/NN)\n  ./.)",
+      "(S\n  (NP En/NNP)\n  (NP ese/JJ sentido/NN rechaza/NN todo/NN intento/NN)\n  de/IN\n  injerencia/FW\n  en/FW\n  la/FW\n  política/FW\n  de/FW\n  nuestros/FW\n  (NP países/NNS)\n  (VP y/VBP)\n  (VP respalda/VB (NP a/DT las/JJ instituciones/NNS))\n  democráticas/FW\n  de/FW\n  la/FW\n  (NP República/NNP Bolivariana/NNP)\n  de/FW\n  (NP Venezuela/NNP ”/NNP)\n  ./.)",
+      "(S\n  (NP La/NNP)\n  ministra/FW\n  de/FW\n  (NP Relaciones/NNP Exteriores/NNP)\n  del/FW\n  (NP Estado/NNP Plurinacional/NNP)\n  de/FW\n  (NP Bolivia/NNP)\n  ,/,\n  (NP Celinda/NNP Sosa/NNP Lunda/NNP)\n  ,/,\n  (NP defendió/NN por/NN su/NN parte/NN que/NN “/NNP)\n  (VP el/VBZ (NP TSJ/NNP))\n  de/FW\n  (NP Venezuela/NNP)\n  (VP\n    ratificó/VBZ\n    (NP a/DT Nicolas/NNP Maduro/NNP como/NN ganador/NN))\n  de/IN\n  las/FW\n  (NP elecciones/NNS)\n  (VP del/VBP pasado/JJ)\n  28/07/CD\n  (NP ”/NN)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "GOBIERNOS_OFICIALES",
+      "APROBACION_RECHAZO",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "REGIONES_PROVINCIAS",
+      "PAISES",
+      "CONFLICTOS_ARMADOS_OPERACIONES",
+      "JURIDICO_LEGISLATIVO_CORRUPCION"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "defendió",
+        "position": [
+          916,
+          924
+        ],
+        "start": 916,
+        "end": 924
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "expresó",
+        "position": [
+          293,
+          300
+        ],
+        "start": 293,
+        "end": 300
+      },
+      {
+        "category": "JURIDICO_LEGISLATIVO_CORRUPCION",
+        "matched_text": "defensa",
+        "position": [
+          157,
+          164
+        ],
+        "start": 157,
+        "end": 164
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente nicolás maduro",
+        "position": [
+          73,
+          98
+        ],
+        "start": 73,
+        "end": 98
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "ministra de relaciones exteriores",
+        "position": [
+          825,
+          858
+        ],
+        "start": 825,
+        "end": 858
+      },
+      {
+        "category": "APROBACION_RECHAZO",
+        "matched_text": "ratificó",
+        "position": [
+          963,
+          971
+        ],
+        "start": 963,
+        "end": 971
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "bolivia",
+        "position": [
+          116,
+          123
+        ],
+        "start": 116,
+        "end": 123
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "venezuela",
+        "position": [
+          16,
+          25
+        ],
+        "start": 16,
+        "end": 25
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "estado plurinacional",
+        "position": [
+          863,
+          883
+        ],
+        "start": 863,
+        "end": 883
+      }
+    ],
+    "match_count": 9
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Nicolás Maduro",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Venezuela",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Bolivia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Latinoamérica",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Estado Plurinacional de Bolivia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Felicitamos",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Luis Arce",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Yván Gil",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Celinda Sosa Lunda",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Relaciones Exteriores del",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "TSJ",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Nicolas Maduro",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Josep Borrell\nGil",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Celinda Sosa",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "República Bolivariana de Venezuela",
+        "tipo": "Organizacion"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Venezuela",
+        "relacion": "AGRADECER",
+        "objeto": "Nicolás Maduro"
+      },
+      {
+        "sujeto": "Venezuela",
+        "relacion": "AGRADECER",
+        "objeto": "Bolivia"
+      },
+      {
+        "sujeto": "Venezuela",
+        "relacion": "AGRADECER",
+        "objeto": "Luis Arce"
+      },
+      {
+        "sujeto": "Venezuela",
+        "relacion": "AGRADECER",
+        "objeto": "Latinoamérica"
+      },
+      {
+        "sujeto": "Yván Gil",
+        "relacion": "AGRADECER",
+        "objeto": "Nicolás Maduro"
+      },
+      {
+        "sujeto": "Yván Gil",
+        "relacion": "AGRADECER",
+        "objeto": "Bolivia"
+      },
+      {
+        "sujeto": "Yván Gil",
+        "relacion": "AGRADECER",
+        "objeto": "Luis Arce"
+      },
+      {
+        "sujeto": "Yván Gil",
+        "relacion": "AGRADECER",
+        "objeto": "Latinoamérica"
+      },
+      {
+        "sujeto": "Nicolás Maduro",
+        "relacion": "AGRADECER",
+        "objeto": "Bolivia"
+      },
+      {
+        "sujeto": "Nicolás Maduro",
+        "relacion": "AGRADECER",
+        "objeto": "Luis Arce"
+      },
+      {
+        "sujeto": "Nicolás Maduro",
+        "relacion": "AGRADECER",
+        "objeto": "Latinoamérica"
+      },
+      {
+        "sujeto": "Bolivia",
+        "relacion": "AGRADECER",
+        "objeto": "Latinoamérica"
+      },
+      {
+        "sujeto": "Luis Arce",
+        "relacion": "AGRADECER",
+        "objeto": "Latinoamérica"
+      },
+      {
+        "sujeto": "Venezuela",
+        "relacion": "RECHAZAR_EXPRESAR",
+        "objeto": "Josep Borrell\nGil"
+      },
+      {
+        "sujeto": "Venezuela",
+        "relacion": "RECHAZAR_EXPRESAR",
+        "objeto": "Celinda Sosa"
+      },
+      {
+        "sujeto": "Venezuela",
+        "relacion": "RECHAZAR_EXPRESAR",
+        "objeto": "Bolivia"
+      },
+      {
+        "sujeto": "Josep Borrell\nGil",
+        "relacion": "RECHAZAR_EXPRESAR",
+        "objeto": "Celinda Sosa"
+      },
+      {
+        "sujeto": "Josep Borrell\nGil",
+        "relacion": "RECHAZAR_EXPRESAR",
+        "objeto": "Bolivia"
+      },
+      {
+        "sujeto": "TSJ",
+        "relacion": "DEFENDER",
+        "objeto": "Relaciones Exteriores del"
+      },
+      {
+        "sujeto": "Relaciones Exteriores del",
+        "relacion": "DEFENDER",
+        "objeto": "Venezuela"
+      },
+      {
+        "sujeto": "Relaciones Exteriores del",
+        "relacion": "DEFENDER",
+        "objeto": "Nicolas Maduro"
+      },
+      {
+        "sujeto": "TSJ",
+        "relacion": "DEFENDER",
+        "objeto": "Estado Plurinacional de Bolivia"
+      },
+      {
+        "sujeto": "Estado Plurinacional de Bolivia",
+        "relacion": "DEFENDER",
+        "objeto": "Venezuela"
+      },
+      {
+        "sujeto": "Estado Plurinacional de Bolivia",
+        "relacion": "DEFENDER",
+        "objeto": "Nicolas Maduro"
+      },
+      {
+        "sujeto": "TSJ",
+        "relacion": "DEFENDER",
+        "objeto": "Celinda Sosa Lunda"
+      },
+      {
+        "sujeto": "Celinda Sosa Lunda",
+        "relacion": "DEFENDER",
+        "objeto": "Venezuela"
+      },
+      {
+        "sujeto": "Celinda Sosa Lunda",
+        "relacion": "DEFENDER",
+        "objeto": "Nicolas Maduro"
+      },
+      {
+        "sujeto": "TSJ",
+        "relacion": "RATIFICAR_DEFENDER",
+        "objeto": "Nicolas Maduro"
+      },
+      {
+        "sujeto": "Venezuela",
+        "relacion": "RATIFICAR_DEFENDER",
+        "objeto": "Nicolas Maduro"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.0,
+    "pos": 0.0,
+    "neu": 1.0,
+    "neg": 0.0,
+    "label": "neutral"
+  }
+}

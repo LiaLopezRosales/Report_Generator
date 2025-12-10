@@ -1,0 +1,758 @@
+{
+  "url": "https://www.telesurtv.net/ataque-aereo-israeli-sobre-gaza-deja-siete-muertos-y-varios-heridos/",
+  "title": "Ataque aéreo israelí sobre Gaza deja siete muertos y varios heridos - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Gaza",
+    "genocidio",
+    "Israel",
+    "Mundo",
+    "Palestina"
+  ],
+  "text": "La agresión israelí ha afectado desproporcionadamente a civiles, en particular mujeres y niños, quienes representan la mayoría de las víctimas reportadas.\nEn un nuevo trágico episodio de violencia por parte del ejército sionista de Israel contra la población civil en Gaza, se reportaron varios ataques aéreos israelíes durante la noche del martes, producto del ataque siete palestinos perdieron la vida y de momento hay un número indeterminado de heridos.\nLas fuerzas aéreas israelíes ejecutaron un bombardeo dirigido a un grupo de civiles en Mashrou’ Beit Lahia, resultando en la muerte de al menos dos personas e hiriendo a varios más. Asimismo, se reportó un ataque aéreo en un apartamento ubicado en el noroeste de la Franja, donde cinco civiles, entre ellos una mujer y dos niños, perdieron la vida.\nEstas acciones se producen en medio de una intensa campaña militar lanzada por Israel desde el 7 de octubre, que ha tenido un impacto devastador en la población palestina. Las cifras son alarmantes, con al menos 41,467 palestinos muertos y más de 95,921 heridos según organizaciones locales e internacionales. También se estima que alrededor de 10,000 personas están desaparecidas, presumiblemente atrapadas bajo los escombros de sus casas.\nLa situación ha llevado al desplazamiento forzado de casi dos millones de palestinos, muchos de los cuales se han visto obligados a buscar refugio en la ya sobrepoblada ciudad sureña de Rafah, cerca de la frontera con Egipto. Este éxodo masivo se considera uno de los más significativos desde la Nakba de 1948, marcando una nueva y sombría etapa en la historia del conflicto.\nA pesar de un fallo jurídicamente vinculante de la Corte Internacional de Justicia que exige el cese de la ofensiva militar en Rafah, Israel ha continuado con su accionar, lo que ha suscitado una creciente preocupación sobre posibles violaciones a la Convención contra el Genocidio.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/ataque-aereo-israeli-sobre-gaza-deja-siete-muertos-y-varios-heridos/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-09.json",
+    "message_index": 406,
+    "message_id": 76957,
+    "date": "2024-09-25T04:55:24+00:00",
+    "text": "teleSUR\nAtaque aéreo israelí sobre Gaza deja siete muertos y varios heridos\nhttps://www.telesurtv.net/ataque-aereo-israeli-sobre-gaza-deja-siete-muertos-y-varios-heridos/",
+    "photo_path": null,
+    "views": 2310,
+    "reactions": {
+      "🤬": 44,
+      "😢": 5
+    },
+    "total_reactions": 49
+  },
+  "preprocessing": {
+    "cleaned": "la agresión israelí ha afectado desproporcionadamente a civiles, en particular mujeres y niños, quienes representan la mayoría de las víctimas reportadas. en un nuevo trágico episodio de violencia por parte del ejército sionista de israel contra la población civil en gaza, se reportaron varios ataques aéreos israelíes durante la noche del martes, producto del ataque siete palestinos perdieron la vida y de momento hay un número indeterminado de heridos. las fuerzas aéreas israelíes ejecutaron un bombardeo dirigido a un grupo de civiles en mashrou’ beit lahia, resultando en la muerte de al menos dos personas e hiriendo a varios más. asimismo, se reportó un ataque aéreo en un apartamento ubicado en el noroeste de la franja, donde cinco civiles, entre ellos una mujer y dos niños, perdieron la vida. estas acciones se producen en medio de una intensa campaña militar lanzada por israel desde el 7 de octubre, que ha tenido un impacto devastador en la población palestina. las cifras son alarmantes, con al menos 41,467 palestinos muertos y más de 95,921 heridos según organizaciones locales e internacionales. también se estima que alrededor de 10,000 personas están desaparecidas, presumiblemente atrapadas bajo los escombros de sus casas. la situación ha llevado al desplazamiento forzado de casi dos millones de palestinos, muchos de los cuales se han visto obligados a buscar refugio en la ya sobrepoblada ciudad sureña de rafah, cerca de la frontera con egipto. este éxodo masivo se considera uno de los más significativos desde la nakba de 1948, marcando una nueva y sombría etapa en la historia del conflicto. a pesar de un fallo jurídicamente vinculante de la corte internacional de justicia que exige el cese de la ofensiva militar en rafah, israel ha continuado con su accionar, lo que ha suscitado una creciente preocupación sobre posibles violaciones a la convención contra el genocidio.",
+    "tokens": [
+      "agresión",
+      "israelí",
+      "afectado",
+      "desproporcionadamente",
+      "civiles",
+      ",",
+      "particular",
+      "mujeres",
+      "niños",
+      ",",
+      "representan",
+      "mayoría",
+      "víctimas",
+      "reportadas",
+      ".",
+      "nuevo",
+      "trágico",
+      "episodio",
+      "violencia",
+      "parte",
+      "ejército",
+      "sionista",
+      "israel",
+      "población",
+      "civil",
+      "gaza",
+      ",",
+      "reportaron",
+      "varios",
+      "ataques",
+      "aéreos",
+      "israelíes",
+      "noche",
+      "martes",
+      ",",
+      "producto",
+      "ataque",
+      "siete",
+      "palestinos",
+      "perdieron",
+      "vida",
+      "momento",
+      "número",
+      "indeterminado",
+      "heridos",
+      ".",
+      "fuerzas",
+      "aéreas",
+      "israelíes",
+      "ejecutaron",
+      "bombardeo",
+      "dirigido",
+      "grupo",
+      "civiles",
+      "mashrou",
+      "’",
+      "beit",
+      "lahia",
+      ",",
+      "resultando",
+      "muerte",
+      "menos",
+      "dos",
+      "personas",
+      "hiriendo",
+      "varios",
+      ".",
+      "asimismo",
+      ",",
+      "reportó",
+      "ataque",
+      "aéreo",
+      "apartamento",
+      "ubicado",
+      "noroeste",
+      "franja",
+      ",",
+      "cinco",
+      "civiles",
+      ",",
+      "mujer",
+      "dos",
+      "niños",
+      ",",
+      "perdieron",
+      "vida",
+      ".",
+      "acciones",
+      "producen",
+      "medio",
+      "intensa",
+      "campaña",
+      "militar",
+      "lanzada",
+      "israel",
+      "7",
+      "octubre",
+      ",",
+      "impacto",
+      "devastador",
+      "población",
+      "palestina",
+      ".",
+      "cifras",
+      "alarmantes",
+      ",",
+      "menos",
+      "41,467",
+      "palestinos",
+      "muertos",
+      "95,921",
+      "heridos",
+      "según",
+      "organizaciones",
+      "locales",
+      "internacionales",
+      ".",
+      "estima",
+      "alrededor",
+      "10,000",
+      "personas",
+      "desaparecidas",
+      ",",
+      "presumiblemente",
+      "atrapadas",
+      "bajo",
+      "escombros",
+      "casas",
+      ".",
+      "situación",
+      "llevado",
+      "desplazamiento",
+      "forzado",
+      "casi",
+      "dos",
+      "millones",
+      "palestinos",
+      ",",
+      "cuales",
+      "visto",
+      "obligados",
+      "buscar",
+      "refugio",
+      "sobrepoblada",
+      "ciudad",
+      "sureña",
+      "rafah",
+      ",",
+      "cerca",
+      "frontera",
+      "egipto",
+      ".",
+      "éxodo",
+      "masivo",
+      "considera",
+      "significativos",
+      "nakba",
+      "1948",
+      ",",
+      "marcando",
+      "nueva",
+      "sombría",
+      "etapa",
+      "historia",
+      "conflicto",
+      ".",
+      "pesar",
+      "fallo",
+      "jurídicamente",
+      "vinculante",
+      "corte",
+      "internacional",
+      "justicia",
+      "exige",
+      "cese",
+      "ofensiva",
+      "militar",
+      "rafah",
+      ",",
+      "israel",
+      "continuado",
+      "accionar",
+      ",",
+      "suscitado",
+      "creciente",
+      "preocupación",
+      "posibles",
+      "violaciones",
+      "convención",
+      "genocidio",
+      "."
+    ],
+    "token_count": 191,
+    "sentence_count": 10
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 29,
+      "VBZ": 3,
+      "JJ": 39,
+      "NN": 90,
+      "NNS": 24,
+      "IN": 20,
+      "VBP": 10,
+      "FW": 69,
+      "RB": 1,
+      "VBD": 2,
+      "CD": 4
+    },
+    "bigram_freq": {
+      "NNP-VBZ": 2,
+      "VBZ-JJ": 3,
+      "JJ-NN": 22,
+      "NN-NN": 45,
+      "NN-NNS": 7,
+      "NNS-IN": 3,
+      "IN-JJ": 4,
+      "JJ-NNS": 6,
+      "NNS-JJ": 4,
+      "NNS-VBP": 9,
+      "VBP-JJ": 7,
+      "JJ-FW": 5,
+      "FW-FW": 40,
+      "FW-NNP": 10,
+      "NNP-FW": 5,
+      "FW-NN": 13,
+      "NN-IN": 16,
+      "IN-FW": 10,
+      "FW-JJ": 4,
+      "IN-NNP": 3,
+      "NNP-NNP": 8,
+      "NNP-VBP": 1,
+      "NNS-NNS": 4,
+      "NN-FW": 9,
+      "NN-JJ": 8,
+      "JJ-JJ": 6,
+      "NNP-NN": 8,
+      "VBP-RB": 1,
+      "RB-JJ": 1,
+      "IN-NNS": 1,
+      "VBP-NNP": 2,
+      "NNP-NNS": 2,
+      "NNS-VBD": 1,
+      "VBD-JJ": 2,
+      "NN-NNP": 4,
+      "NNS-NN": 1,
+      "NN-VBZ": 1,
+      "NNS-CD": 1,
+      "CD-NNS": 3,
+      "FW-CD": 1,
+      "NNS-NNP": 1,
+      "NNP-VBD": 1,
+      "IN-CD": 2,
+      "FW-NNS": 1,
+      "NNP-IN": 1,
+      "CD-NN": 1
+    },
+    "trigram_freq": {
+      "NNP-VBZ-JJ": 2,
+      "VBZ-JJ-NN": 2,
+      "JJ-NN-NN": 16,
+      "NN-NN-NN": 19,
+      "NN-NN-NNS": 3,
+      "NN-NNS-IN": 1,
+      "NNS-IN-JJ": 1,
+      "IN-JJ-NNS": 1,
+      "JJ-NNS-JJ": 1,
+      "NNS-JJ-NNS": 3,
+      "JJ-NNS-VBP": 2,
+      "NNS-VBP-JJ": 6,
+      "VBP-JJ-FW": 2,
+      "JJ-FW-FW": 4,
+      "FW-FW-FW": 25,
+      "FW-FW-NNP": 4,
+      "FW-NNP-FW": 2,
+      "NNP-FW-FW": 2,
+      "FW-FW-NN": 9,
+      "FW-NN-NN": 4,
+      "NN-NN-IN": 11,
+      "NN-IN-FW": 9,
+      "IN-FW-JJ": 4,
+      "FW-JJ-NN": 3,
+      "NN-IN-NNP": 2,
+      "IN-NNP-NNP": 2,
+      "NNP-NNP-NNP": 3,
+      "NNP-NNP-VBP": 1,
+      "NNP-VBP-JJ": 1,
+      "JJ-FW-NNP": 1,
+      "NNP-FW-NN": 2,
+      "FW-NN-NNS": 3,
+      "NN-NNS-NNS": 2,
+      "NNS-NNS-VBP": 2,
+      "VBP-JJ-NN": 4,
+      "NN-NN-FW": 7,
+      "NN-FW-NN": 2,
+      "NN-NNS-VBP": 4,
+      "JJ-NN-JJ": 2,
+      "NN-JJ-NN": 5,
+      "NN-FW-FW": 4,
+      "FW-NN-JJ": 2,
+      "NN-JJ-JJ": 2,
+      "JJ-JJ-NN": 5,
+      "JJ-NN-IN": 4,
+      "IN-FW-NNP": 1,
+      "FW-NNP-NN": 3,
+      "NNP-NN-NNS": 1,
+      "NNS-VBP-RB": 1,
+      "VBP-RB-JJ": 1,
+      "RB-JJ-NN": 1,
+      "NN-NN-JJ": 3,
+      "NN-IN-NNS": 1,
+      "IN-NNS-IN": 1,
+      "NNS-IN-NNP": 1,
+      "NNP-NNP-NN": 2,
+      "NNP-NN-NN": 6,
+      "NNS-VBP-NNP": 2,
+      "VBP-NNP-FW": 1,
+      "NN-IN-JJ": 3,
+      "IN-JJ-NN": 2,
+      "NN-JJ-FW": 1,
+      "VBP-JJ-JJ": 1,
+      "NN-FW-NNP": 3,
+      "FW-NNP-NNS": 2,
+      "NNP-NNS-VBD": 1,
+      "NNS-VBD-JJ": 1,
+      "VBD-JJ-JJ": 2,
+      "NN-NN-NNP": 2,
+      "NN-NNP-NN": 1,
+      "IN-FW-FW": 5,
+      "NNP-NNS-NN": 1,
+      "NNS-NN-VBZ": 1,
+      "NN-VBZ-JJ": 1,
+      "VBZ-JJ-JJ": 1,
+      "JJ-JJ-NNS": 1,
+      "JJ-NNS-CD": 1,
+      "NNS-CD-NNS": 1,
+      "CD-NNS-JJ": 3,
+      "NNS-JJ-FW": 1,
+      "FW-FW-CD": 1,
+      "FW-CD-NNS": 1,
+      "JJ-NNS-NNS": 1,
+      "NNS-NNS-NNS": 1,
+      "NNS-NNS-NNP": 1,
+      "NNS-NNP-VBD": 1,
+      "NNP-VBD-JJ": 1,
+      "NN-IN-CD": 1,
+      "IN-CD-NNS": 1,
+      "FW-NN-NNP": 2,
+      "NN-NNP-VBZ": 1,
+      "FW-JJ-NNS": 1,
+      "JJ-NNS-IN": 1,
+      "NNS-IN-FW": 1,
+      "FW-FW-NNS": 1,
+      "FW-NNS-VBP": 1,
+      "IN-NNP-NN": 1,
+      "NNP-NN-IN": 1,
+      "NN-NNP-NNP": 1,
+      "NNP-NNP-FW": 2,
+      "FW-NNP-IN": 1,
+      "NNP-IN-CD": 1,
+      "IN-CD-NN": 1,
+      "CD-NN-JJ": 1,
+      "FW-NN-FW": 2,
+      "FW-NNP-NNP": 2,
+      "NNP-FW-NNP": 1,
+      "IN-JJ-FW": 1,
+      "VBP-NNP-NN": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 90,
+        "FW": 69,
+        "JJ": 39,
+        "NNP": 29,
+        "NNS": 24
+      },
+      "top_bigrams": {
+        "NN-NN": 45,
+        "FW-FW": 40,
+        "JJ-NN": 22,
+        "NN-IN": 16,
+        "FW-NN": 13
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 25,
+        "NN-NN-NN": 19,
+        "JJ-NN-NN": 16,
+        "NN-NN-IN": 11,
+        "FW-FW-NN": 9
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 10,
+    "chunk_counts": {
+      "NP": 79,
+      "VP": 20,
+      "PP": 10,
+      "ADJP": 2
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 7,
+        "weight": 0.0579
+      },
+      {
+        "rule": "VP -> ('se', 'VBD') NP",
+        "frequency": 4,
+        "weight": 0.0331
+      },
+      {
+        "rule": "NP -> ('La', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0165
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0165
+      },
+      {
+        "rule": "NP -> ('palestinos', 'NNS')",
+        "frequency": 2,
+        "weight": 0.0165
+      },
+      {
+        "rule": "NP -> ('Rafah', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0165
+      },
+      {
+        "rule": "S -> NP VP VP (',', ',') ('en', 'FW') NP VP (',', ',') NP VP ('mayoría', 'FW') ('de', 'FW') ('las', 'FW') ('víctimas', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0083
+      },
+      {
+        "rule": "VP -> ('agresión', 'VBZ') NP",
+        "frequency": 1,
+        "weight": 0.0083
+      },
+      {
+        "rule": "NP -> ('israelí', 'JJ') ('ha', 'NN') ('afectado', 'NN')",
+        "frequency": 1,
+        "weight": 0.0083
+      },
+      {
+        "rule": "VP -> ('desproporcionadamente', 'VBZ') NP",
+        "frequency": 1,
+        "weight": 0.0083
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "La"
+      },
+      {
+        "label": "VP",
+        "text": "agresión israelí ha afectado"
+      },
+      {
+        "label": "NP",
+        "text": "israelí ha afectado"
+      },
+      {
+        "label": "VP",
+        "text": "desproporcionadamente a civiles"
+      },
+      {
+        "label": "NP",
+        "text": "a civiles"
+      },
+      {
+        "label": "NP",
+        "text": "particular mujeres"
+      },
+      {
+        "label": "VP",
+        "text": "y niños"
+      },
+      {
+        "label": "NP",
+        "text": "quienes"
+      },
+      {
+        "label": "VP",
+        "text": "representan la"
+      },
+      {
+        "label": "NP",
+        "text": "reportadas"
+      },
+      {
+        "label": "NP",
+        "text": "En"
+      },
+      {
+        "label": "NP",
+        "text": "un nuevo trágico episodio"
+      },
+      {
+        "label": "NP",
+        "text": "por parte del ejército sionista"
+      },
+      {
+        "label": "PP",
+        "text": "de Israel contra la"
+      },
+      {
+        "label": "NP",
+        "text": "Israel contra la"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP La/NNP)\n  (VP agresión/VBZ (NP israelí/JJ ha/NN afectado/NN))\n  (VP desproporcionadamente/VBZ (NP a/DT civiles/NNS))\n  ,/,\n  en/FW\n  (NP particular/JJ mujeres/NNS)\n  (VP y/VBP niños/RB)\n  ,/,\n  (NP quienes/NNS)\n  (VP representan/VBP la/JJ)\n  mayoría/FW\n  de/FW\n  las/FW\n  víctimas/FW\n  (NP reportadas/NN)\n  ./.)",
+      "(S\n  (NP En/NNP)\n  (NP un/JJ nuevo/NN trágico/NN episodio/NN)\n  de/IN\n  violencia/FW\n  (NP por/JJ parte/NN del/NN ejército/NN sionista/NN)\n  (PP de/IN (NP Israel/NNP contra/NNP la/NNP))\n  (VP población/VBP (NP civil/JJ en/NN Gaza/NNP))\n  ,/,\n  (VP se/VBD (NP reportaron/NN varios/NNS ataques/NNS))\n  (VP aéreos/VBP (NP israelíes/JJ durante/NN la/NN))\n  noche/FW\n  (NP del/NN martes/NNS)\n  ,/,\n  producto/FW\n  del/FW\n  (NP ataque/NN)\n  (NP siete/JJ palestinos/NN perdieron/NN la/NN)\n  vida/FW\n  y/FW\n  de/FW\n  momento/FW\n  (NP hay/NN)\n  (NP un/JJ número/JJ indeterminado/NN)\n  (PP de/IN (NP heridos/NN))\n  ./.)",
+      "(S\n  (NP Las/NNP fuerzas/NN aéreas/NNS)\n  (VP israelíes/VBP ejecutaron/RB (NP un/JJ bombardeo/NN))\n  (VP dirigido/VBZ (NP a/DT un/JJ grupo/NN))\n  (PP de/IN (NP civiles/NNS))\n  (PP en/IN (NP Mashrou/NNP ’/NNP Beit/NNP Lahia/NNP))\n  ,/,\n  (NP resultando/NN)\n  en/FW\n  la/FW\n  muerte/FW\n  de/FW\n  al/FW\n  menos/FW\n  dos/FW\n  personas/FW\n  e/FW\n  hiriendo/FW\n  (NP a/DT varios/JJ más/NN)\n  ./.)",
+      "(S\n  (NP Asimismo/NNP)\n  ,/,\n  (VP se/VBD (NP reportó/JJ un/JJ ataque/NN aéreo/NN))\n  (PP en/IN (NP un/JJ apartamento/NN))\n  (ADJP ubicado/JJ)\n  en/FW\n  el/FW\n  noroeste/FW\n  de/FW\n  la/FW\n  (NP Franja/NNP)\n  ,/,\n  (NP donde/NN cinco/NN civiles/NNS)\n  ,/,\n  entre/FW\n  ellos/FW\n  (NP una/JJ mujer/NN y/NN dos/NN niños/NN)\n  ,/,\n  (NP perdieron/NN la/NN vida/NN)\n  ./.)",
+      "(S\n  (NP Estas/NNP acciones/NNS)\n  (VP se/VBD (NP producen/JJ en/JJ medio/NN))\n  (PP\n    de/IN\n    (NP\n      una/JJ\n      intensa/NN\n      campaña/NN\n      militar/NN\n      lanzada/NN\n      por/NN\n      Israel/NNP\n      desde/NN))\n  (VP el/VBD)\n  7/CD\n  de/FW\n  octubre/FW\n  ,/,\n  que/FW\n  ha/FW\n  (NP tenido/NN)\n  (NP un/JJ impacto/NN devastador/NN)\n  en/IN\n  la/FW\n  población/FW\n  (NP palestina/NN)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "GRUPOS_ESPECIFICOS",
+      "CANTIDADES_NUMERICAS",
+      "PERIODOS_TEMPORALES",
+      "PAISES",
+      "CONFLICTOS_ARMADOS_OPERACIONES"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "bombardeo dirigido a un grupo de civiles en mashrou’ beit lahia, resultando en la muerte de al menos dos personas e hiriendo a varios más. asimismo, se reportó un ataque aéreo",
+        "position": [
+          500,
+          675
+        ],
+        "start": 500,
+        "end": 675
+      },
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "ataques aéreos israelíes",
+        "position": [
+          295,
+          319
+        ],
+        "start": 295,
+        "end": 319
+      },
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "ejército sionista de israel contra la población",
+        "position": [
+          211,
+          258
+        ],
+        "start": 211,
+        "end": 258
+      },
+      {
+        "category": "GRUPOS_ESPECIFICOS",
+        "matched_text": "mujeres",
+        "position": [
+          79,
+          86
+        ],
+        "start": 79,
+        "end": 86
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "israelí",
+        "position": [
+          12,
+          19
+        ],
+        "start": 12,
+        "end": 19
+      },
+      {
+        "category": "PERIODOS_TEMPORALES",
+        "matched_text": "durante la noche",
+        "position": [
+          320,
+          336
+        ],
+        "start": 320,
+        "end": 336
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "000 personas",
+        "position": [
+          1154,
+          1166
+        ],
+        "start": 1154,
+        "end": 1166
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "10,000 personas",
+        "position": [
+          1151,
+          1166
+        ],
+        "start": 1151,
+        "end": 1166
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "más de 95",
+        "position": [
+          1046,
+          1055
+        ],
+        "start": 1046,
+        "end": 1055
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "alrededor de 10",
+        "position": [
+          1138,
+          1153
+        ],
+        "start": 1138,
+        "end": 1153
+      }
+    ],
+    "match_count": 10
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Genocidio",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Beit Lahia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Egipto",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Franja",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Rafah",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Mashrou",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Israel",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Corte Internacional de Justicia",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Convención",
+        "tipo": "Organizacion"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Israel",
+        "relacion": "CONTINUAR",
+        "objeto": "Corte Internacional de Justicia"
+      },
+      {
+        "sujeto": "Corte Internacional de Justicia",
+        "relacion": "CONTINUAR",
+        "objeto": "Convención"
+      },
+      {
+        "sujeto": "Corte Internacional de Justicia",
+        "relacion": "CONTINUAR",
+        "objeto": "Genocidio"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "EXIGIR_CONTINUAR",
+        "objeto": "Rafah"
+      },
+      {
+        "sujeto": "Rafah",
+        "relacion": "EXIGIR_CONTINUAR",
+        "objeto": "Convención"
+      },
+      {
+        "sujeto": "Rafah",
+        "relacion": "EXIGIR_CONTINUAR",
+        "objeto": "Genocidio"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "CONTINUAR",
+        "objeto": "Convención"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "CONTINUAR",
+        "objeto": "Genocidio"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.875,
+    "pos": 0.04,
+    "neu": 0.96,
+    "neg": 0.0,
+    "label": "positive"
+  }
+}

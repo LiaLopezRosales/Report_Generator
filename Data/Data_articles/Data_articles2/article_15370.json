@@ -1,0 +1,814 @@
+{
+  "url": "https://www.telesurtv.net/rusia-llama-a-embajadora-de-ee-uu-por-ataque-en-daguestan/",
+  "title": "Rusia llama a embajadora de EE.UU. por ataque en Sebastopol - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Ataque",
+    "Decesos",
+    "EE.UU.",
+    "terrorista"
+  ],
+  "text": "\nEl Ministerio de Relaciones Exteriores de Rusia convocó a la embajadora de Estados Unidos, Lynne Tracy, y presentó una protesta formal respecto al mortal ataque ucraniano del domingo en Sebastopol, indicó en un comunicado emitido este lunes.\n\n\nEn el texto se lee que al proporcionar a las fuerzas armadas ucranianas armamento avanzado, Estados Unidos se ha convertido en una parte del conflicto.\nLos misiles tácticos ATACMS suministrados por Estados Unidos con ojivas de racimo que fueron utilizados contra los residentes de Sebastopol estuvieron dirigidos y coordinados por especialistas militares estadounidenses, denuncia la cancillería.\nLa participación de Estados Unidos en las hostilidades en las que mueren civiles rusos no puede, sino tener consecuencias, declaran desde el Kremlin.\nEn el Ministerio de Exteriores aclaran que la implicación de EEUU en “este siniestro crimen” está fuera de toda duda” y agregan que Occidente sigue silenciando “los actos bárbaros” del presidente de Ucrania, Volodímir Zelenski.\nEl portavoz del Kremlin, Dmtri Peskov, calificó de “absolutamente bárbaro” el ataque con misiles contra la ciudad de Sebastopol, ubicada en el suroeste de la península de Crimea. El portavoz aseguró que Rusia entiende perfectamente quién está detrás del ataque.\n“La implicación directa de Estados Unidos en las hostilidades que provocan la muerte de civiles rusos, por supuesto, no puede sino tener consecuencias. El tiempo dirá cuáles serán”, señaló Peskov a los periodistas.\nEn dos ciudades y una localidad en la república rusa de Daguestán se produjeron varios ataques con armas extranjeras dirigidos contra instituciones religiosas y un puesto policial.\n",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/rusia-llama-a-embajadora-de-ee-uu-por-ataque-en-daguestan/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-06.json",
+    "message_index": 244,
+    "message_id": 72499,
+    "date": "2024-06-24T16:55:12+00:00",
+    "text": "teleSUR\nRusia llama a embajadora de EE.UU. por ataque en Daguestán\nhttps://www.telesurtv.net/rusia-llama-a-embajadora-de-ee-uu-por-ataque-en-daguestan/",
+    "photo_path": null,
+    "views": 1573,
+    "reactions": {},
+    "total_reactions": 0
+  },
+  "preprocessing": {
+    "cleaned": "el ministerio de relaciones exteriores de rusia convocó a la embajadora de estados unidos, lynne tracy, y presentó una protesta formal respecto al mortal ataque ucraniano del domingo en sebastopol, indicó en un comunicado emitido este lunes. en el texto se lee que al proporcionar a las fuerzas armadas ucranianas armamento avanzado, estados unidos se ha convertido en una parte del conflicto. los misiles tácticos atacms suministrados por estados unidos con ojivas de racimo que fueron utilizados contra los residentes de sebastopol estuvieron dirigidos y coordinados por especialistas militares estadounidenses, denuncia la cancillería. la participación de estados unidos en las hostilidades en las que mueren civiles rusos no puede, sino tener consecuencias, declaran desde el kremlin. en el ministerio de exteriores aclaran que la implicación de eeuu en “este siniestro crimen” está fuera de toda duda” y agregan que occidente sigue silenciando “los actos bárbaros” del presidente de ucrania, volodímir zelenski. el portavoz del kremlin, dmtri peskov, calificó de “absolutamente bárbaro” el ataque con misiles contra la ciudad de sebastopol, ubicada en el suroeste de la península de crimea. el portavoz aseguró que rusia entiende perfectamente quién está detrás del ataque. “la implicación directa de estados unidos en las hostilidades que provocan la muerte de civiles rusos, por supuesto, no puede sino tener consecuencias. el tiempo dirá cuáles serán”, señaló peskov a los periodistas. en dos ciudades y una localidad en la república rusa de daguestán se produjeron varios ataques con armas extranjeras dirigidos contra instituciones religiosas y un puesto policial.",
+    "tokens": [
+      "ministerio",
+      "relaciones",
+      "exteriores",
+      "rusia",
+      "convocó",
+      "embajadora",
+      "unidos",
+      ",",
+      "lynne",
+      "tracy",
+      ",",
+      "presentó",
+      "protesta",
+      "formal",
+      "respecto",
+      "mortal",
+      "ataque",
+      "ucraniano",
+      "domingo",
+      "sebastopol",
+      ",",
+      "indicó",
+      "comunicado",
+      "emitido",
+      "lunes",
+      ".",
+      "texto",
+      "lee",
+      "proporcionar",
+      "fuerzas",
+      "armadas",
+      "ucranianas",
+      "armamento",
+      "avanzado",
+      ",",
+      "unidos",
+      "convertido",
+      "parte",
+      "conflicto",
+      ".",
+      "misiles",
+      "tácticos",
+      "atacms",
+      "suministrados",
+      "unidos",
+      "ojivas",
+      "racimo",
+      "utilizados",
+      "residentes",
+      "sebastopol",
+      "dirigidos",
+      "coordinados",
+      "especialistas",
+      "militares",
+      "estadounidenses",
+      ",",
+      "denuncia",
+      "cancillería",
+      ".",
+      "participación",
+      "unidos",
+      "hostilidades",
+      "mueren",
+      "civiles",
+      "rusos",
+      "puede",
+      ",",
+      "sino",
+      "tener",
+      "consecuencias",
+      ",",
+      "declaran",
+      "kremlin",
+      ".",
+      "ministerio",
+      "exteriores",
+      "aclaran",
+      "implicación",
+      "eeuu",
+      "“",
+      "siniestro",
+      "crimen",
+      "”",
+      "toda",
+      "duda",
+      "”",
+      "agregan",
+      "occidente",
+      "sigue",
+      "silenciando",
+      "“",
+      "actos",
+      "bárbaros",
+      "”",
+      "presidente",
+      "ucrania",
+      ",",
+      "volodímir",
+      "zelenski",
+      ".",
+      "portavoz",
+      "kremlin",
+      ",",
+      "dmtri",
+      "peskov",
+      ",",
+      "calificó",
+      "“",
+      "absolutamente",
+      "bárbaro",
+      "”",
+      "ataque",
+      "misiles",
+      "ciudad",
+      "sebastopol",
+      ",",
+      "ubicada",
+      "suroeste",
+      "península",
+      "crimea",
+      ".",
+      "portavoz",
+      "aseguró",
+      "rusia",
+      "entiende",
+      "perfectamente",
+      "quién",
+      "detrás",
+      "ataque",
+      ".",
+      "“",
+      "implicación",
+      "directa",
+      "unidos",
+      "hostilidades",
+      "provocan",
+      "muerte",
+      "civiles",
+      "rusos",
+      ",",
+      "supuesto",
+      ",",
+      "puede",
+      "sino",
+      "tener",
+      "consecuencias",
+      ".",
+      "tiempo",
+      "dirá",
+      "cuáles",
+      "”",
+      ",",
+      "señaló",
+      "peskov",
+      "periodistas",
+      ".",
+      "dos",
+      "ciudades",
+      "localidad",
+      "república",
+      "rusa",
+      "daguestán",
+      "produjeron",
+      "varios",
+      "ataques",
+      "armas",
+      "extranjeras",
+      "dirigidos",
+      "instituciones",
+      "religiosas",
+      "puesto",
+      "policial",
+      "."
+    ],
+    "token_count": 173,
+    "sentence_count": 10
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 47,
+      "IN": 13,
+      "FW": 40,
+      "NN": 79,
+      "VBZ": 5,
+      "JJ": 28,
+      "NNS": 16,
+      "VBP": 9,
+      "VBD": 4,
+      "DT": 2
+    },
+    "bigram_freq": {
+      "NNP-NNP": 18,
+      "NNP-IN": 1,
+      "IN-NNP": 6,
+      "NNP-FW": 10,
+      "FW-NNP": 9,
+      "NNP-NN": 12,
+      "NN-NN": 39,
+      "NN-FW": 5,
+      "FW-FW": 21,
+      "NNP-VBZ": 3,
+      "VBZ-JJ": 2,
+      "JJ-NN": 17,
+      "NN-JJ": 5,
+      "NN-IN": 10,
+      "IN-JJ": 2,
+      "JJ-JJ": 4,
+      "FW-JJ": 3,
+      "NN-NNS": 8,
+      "NNS-NNP": 3,
+      "NNS-VBP": 9,
+      "VBP-JJ": 7,
+      "NN-NNP": 8,
+      "NNP-VBD": 3,
+      "VBD-JJ": 4,
+      "VBZ-NNS": 1,
+      "JJ-NNP": 2,
+      "IN-FW": 3,
+      "NN-VBZ": 1,
+      "VBZ-IN": 1,
+      "JJ-NNS": 4,
+      "NNS-VBZ": 1,
+      "FW-NNS": 2,
+      "NNS-IN": 1,
+      "IN-NN": 2,
+      "VBP-DT": 1,
+      "DT-NN": 2,
+      "NN-VBD": 1,
+      "JJ-FW": 1,
+      "FW-NN": 5,
+      "VBP-NN": 1,
+      "VBZ-NN": 1,
+      "NN-DT": 1,
+      "NNS-JJ": 1,
+      "NNS-NNS": 1
+    },
+    "trigram_freq": {
+      "NNP-NNP-IN": 1,
+      "NNP-IN-NNP": 1,
+      "IN-NNP-NNP": 5,
+      "NNP-NNP-FW": 5,
+      "NNP-FW-NNP": 3,
+      "FW-NNP-NN": 2,
+      "NNP-NN-NN": 8,
+      "NN-NN-FW": 1,
+      "NN-FW-FW": 4,
+      "FW-FW-NNP": 6,
+      "FW-NNP-NNP": 3,
+      "NNP-NNP-NNP": 5,
+      "NNP-NNP-VBZ": 1,
+      "NNP-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 2,
+      "JJ-NN-JJ": 2,
+      "NN-JJ-NN": 2,
+      "JJ-NN-IN": 4,
+      "NN-IN-JJ": 2,
+      "IN-JJ-JJ": 1,
+      "JJ-JJ-JJ": 1,
+      "JJ-JJ-NN": 3,
+      "JJ-NN-NN": 7,
+      "NN-NN-IN": 3,
+      "NN-IN-NNP": 4,
+      "IN-NNP-NN": 1,
+      "NNP-NN-FW": 2,
+      "NN-FW-JJ": 1,
+      "FW-JJ-NN": 3,
+      "NN-NN-NN": 20,
+      "NN-NN-NNS": 4,
+      "NN-NNS-NNP": 2,
+      "NNS-NNP-NN": 2,
+      "NN-NNS-VBP": 4,
+      "NNS-VBP-JJ": 7,
+      "VBP-JJ-JJ": 1,
+      "NN-NN-NNP": 7,
+      "NN-NNP-NNP": 3,
+      "NNP-NNP-VBD": 1,
+      "NNP-VBD-JJ": 3,
+      "VBD-JJ-NN": 2,
+      "IN-JJ-NN": 1,
+      "NN-NNP-VBZ": 2,
+      "NNP-VBZ-NNS": 1,
+      "VBZ-NNS-NNP": 1,
+      "NNS-NNP-VBD": 1,
+      "VBD-JJ-NNP": 1,
+      "JJ-NNP-NNP": 1,
+      "NNP-NNP-NN": 5,
+      "NN-IN-FW": 3,
+      "IN-FW-JJ": 1,
+      "NN-JJ-JJ": 1,
+      "JJ-NN-VBZ": 1,
+      "NN-VBZ-IN": 1,
+      "VBZ-IN-NNP": 1,
+      "NN-NN-JJ": 2,
+      "NN-JJ-NNS": 2,
+      "JJ-NNS-VBZ": 1,
+      "NNS-VBZ-JJ": 1,
+      "NN-NNP-FW": 2,
+      "NNP-FW-FW": 4,
+      "FW-FW-NNS": 2,
+      "FW-NNS-IN": 1,
+      "NNS-IN-NN": 1,
+      "IN-NN-NN": 1,
+      "NNS-VBP-DT": 1,
+      "VBP-DT-NN": 1,
+      "DT-NN-NN": 2,
+      "NN-NN-VBD": 1,
+      "NN-VBD-JJ": 1,
+      "JJ-NN-NNP": 1,
+      "FW-NNP-FW": 3,
+      "FW-NNP-VBD": 1,
+      "VBD-JJ-FW": 1,
+      "JJ-FW-FW": 1,
+      "FW-FW-FW": 10,
+      "NNP-FW-NN": 3,
+      "FW-NN-JJ": 1,
+      "JJ-NNS-VBP": 3,
+      "NNS-VBP-NN": 1,
+      "VBP-NN-IN": 1,
+      "IN-FW-FW": 2,
+      "FW-FW-JJ": 1,
+      "JJ-NN-NNS": 1,
+      "VBP-JJ-NN": 3,
+      "FW-FW-NN": 2,
+      "FW-NN-IN": 2,
+      "NNP-VBZ-NN": 1,
+      "VBZ-NN-NN": 1,
+      "FW-NNS-VBP": 1,
+      "JJ-NN-FW": 1,
+      "FW-NN-DT": 1,
+      "NN-DT-NN": 1,
+      "NN-NNP-NN": 1,
+      "VBP-JJ-NNP": 1,
+      "JJ-NNP-NN": 1,
+      "NNP-NN-NNS": 2,
+      "NN-NNS-JJ": 1,
+      "NNS-JJ-NN": 1,
+      "NN-IN-NN": 1,
+      "IN-NN-FW": 1,
+      "FW-NN-NNS": 1,
+      "NN-NNS-NNS": 1,
+      "NNS-NNS-VBP": 1,
+      "VBP-JJ-NNS": 2
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 79,
+        "NNP": 47,
+        "FW": 40,
+        "JJ": 28,
+        "NNS": 16
+      },
+      "top_bigrams": {
+        "NN-NN": 39,
+        "FW-FW": 21,
+        "NNP-NNP": 18,
+        "JJ-NN": 17,
+        "NNP-NN": 12
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 20,
+        "FW-FW-FW": 10,
+        "NNP-NN-NN": 8,
+        "JJ-NN-NN": 7,
+        "NNS-VBP-JJ": 7
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 10,
+    "chunk_counts": {
+      "NP": 74,
+      "PP": 11,
+      "VP": 19,
+      "ADJP": 1
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 5,
+        "weight": 0.0435
+      },
+      {
+        "rule": "NP -> ('Estados', 'NNP') ('Unidos', 'NNP')",
+        "frequency": 4,
+        "weight": 0.0348
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 4,
+        "weight": 0.0348
+      },
+      {
+        "rule": "NP -> ('Sebastopol', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0174
+      },
+      {
+        "rule": "NP -> ('hostilidades', 'NNS')",
+        "frequency": 2,
+        "weight": 0.0174
+      },
+      {
+        "rule": "VP -> ('”', 'VBP') NP",
+        "frequency": 2,
+        "weight": 0.0174
+      },
+      {
+        "rule": "S -> NP PP ('de', 'FW') NP VP ('embajadora', 'FW') ('de', 'FW') NP (',', ',') NP (',', ',') NP VP PP PP (',', ',') NP ('en', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0087
+      },
+      {
+        "rule": "NP -> ('El', 'NNP') ('Ministerio', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0087
+      },
+      {
+        "rule": "NP -> ('Relaciones', 'NNP') ('Exteriores', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0087
+      },
+      {
+        "rule": "NP -> ('Rusia', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0087
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El Ministerio"
+      },
+      {
+        "label": "PP",
+        "text": "de Relaciones Exteriores"
+      },
+      {
+        "label": "NP",
+        "text": "Relaciones Exteriores"
+      },
+      {
+        "label": "NP",
+        "text": "Rusia"
+      },
+      {
+        "label": "VP",
+        "text": "convocó a la"
+      },
+      {
+        "label": "NP",
+        "text": "a la"
+      },
+      {
+        "label": "NP",
+        "text": "Estados Unidos"
+      },
+      {
+        "label": "NP",
+        "text": "Lynne Tracy"
+      },
+      {
+        "label": "NP",
+        "text": "y"
+      },
+      {
+        "label": "VP",
+        "text": "presentó una protesta formal respecto"
+      },
+      {
+        "label": "NP",
+        "text": "una protesta"
+      },
+      {
+        "label": "NP",
+        "text": "formal respecto"
+      },
+      {
+        "label": "PP",
+        "text": "al mortal ataque ucraniano del domingo"
+      },
+      {
+        "label": "NP",
+        "text": "mortal ataque ucraniano del domingo"
+      },
+      {
+        "label": "PP",
+        "text": "en Sebastopol"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP El/NNP Ministerio/NNP)\n  (PP de/IN (NP Relaciones/NNP Exteriores/NNP))\n  de/FW\n  (NP Rusia/NNP)\n  (VP convocó/VBZ (NP a/DT la/NN))\n  embajadora/FW\n  de/FW\n  (NP Estados/NNP Unidos/NNP)\n  ,/,\n  (NP Lynne/NNP Tracy/NNP)\n  ,/,\n  (NP y/NNP)\n  (VP\n    presentó/VBZ\n    (NP una/JJ protesta/NN)\n    (NP formal/JJ respecto/NN))\n  (PP al/IN (NP mortal/JJ ataque/JJ ucraniano/JJ del/NN domingo/NN))\n  (PP en/IN (NP Sebastopol/NNP))\n  ,/,\n  (NP indicó/NN)\n  en/FW\n  (NP un/JJ comunicado/NN emitido/NN este/NN lunes/NNS)\n  ./.)",
+      "(S\n  (NP En/NNP el/NN texto/NN se/NN lee/NN que/NN al/NN)\n  (VP\n    proporcionar/VBZ\n    (NP a/DT las/JJ fuerzas/NN armadas/NNS)\n    ucranianas/JJ)\n  (PP armamento/IN (NP avanzado/NN))\n  ,/,\n  (NP Estados/NNP Unidos/NNP)\n  (VP se/VBD (NP ha/JJ convertido/NN))\n  (PP en/IN (NP una/JJ parte/NN del/NN conflicto/NN))\n  ./.)",
+      "(S\n  (NP Los/NNP misiles/NNS)\n  (VP\n    tácticos/VBP\n    (NP\n      ATACMS/NNP\n      suministrados/NN\n      por/NN\n      Estados/NNP\n      Unidos/NNP\n      con/NN\n      ojivas/NN))\n  de/IN\n  racimo/FW\n  (NP que/JJ fueron/NN)\n  (NP utilizados/JJ contra/JJ los/NN)\n  (VP residentes/VBZ)\n  (PP\n    de/IN\n    (NP\n      Sebastopol/NNP\n      estuvieron/NNP\n      dirigidos/NN\n      y/NN\n      coordinados/NN\n      por/NN))\n  (NP especialistas/JJ militares/NNS estadounidenses/NNS)\n  ,/,\n  (NP denuncia/NN la/NN cancillería/NN)\n  ./.)",
+      "(S\n  (NP La/NNP)\n  participación/FW\n  de/FW\n  (NP Estados/NNP Unidos/NNP)\n  en/FW\n  las/FW\n  (NP hostilidades/NNS)\n  (PP en/IN (NP las/NN que/NN mueren/NN civiles/NNS))\n  (VP rusos/VBP (NP no/DT puede/NN))\n  ,/,\n  (NP sino/NN tener/NN consecuencias/NN)\n  ,/,\n  (NP declaran/NN desde/NN el/NN Kremlin/NNP)\n  ./.)",
+      "(S\n  (NP En/NNP)\n  el/FW\n  (NP Ministerio/NNP)\n  de/FW\n  (NP Exteriores/NNP)\n  (VP aclaran/VBD que/JJ)\n  la/FW\n  implicación/FW\n  de/FW\n  (NP EEUU/NNP)\n  en/FW\n  (NP “/NNP este/NN siniestro/NN crimen/NNS)\n  (VP ”/VBP (NP está/JJ fuera/NN))\n  de/IN\n  toda/FW\n  duda/FW\n  ”/FW\n  y/FW\n  agregan/FW\n  que/FW\n  (NP Occidente/NNP)\n  sigue/FW\n  (NP silenciando/NN “/NNP)\n  (VP los/VBZ (NP actos/JJ bárbaros/NNS))\n  (VP ”/VBP (NP del/JJ presidente/NN))\n  (PP de/IN (NP Ucrania/NNP))\n  ,/,\n  (NP Volodímir/NNP Zelenski/NNP)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "GOBIERNOS_OFICIALES",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "PAISES",
+      "PROTESTAS_CONFLICTOS_SOCIALES",
+      "CONFLICTOS_ARMADOS_OPERACIONES"
+    ],
+    "matches": [
+      {
+        "category": "PROTESTAS_CONFLICTOS_SOCIALES",
+        "matched_text": "convocó a la embajadora de estados unidos, lynne tracy, y presentó una protesta",
+        "position": [
+          49,
+          128
+        ],
+        "start": 49,
+        "end": 128
+      },
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "ataque ucraniano",
+        "position": [
+          155,
+          171
+        ],
+        "start": 155,
+        "end": 171
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "señaló",
+        "position": [
+          1464,
+          1470
+        ],
+        "start": 1464,
+        "end": 1470
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente de ucrania",
+        "position": [
+          977,
+          998
+        ],
+        "start": 977,
+        "end": 998
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "estados unidos",
+        "position": [
+          76,
+          90
+        ],
+        "start": 76,
+        "end": 90
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "rusia",
+        "position": [
+          43,
+          48
+        ],
+        "start": 43,
+        "end": 48
+      }
+    ],
+    "match_count": 6
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "EEUU",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Ministerio de Relaciones Exteriores de Rusia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Sebastopol",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Ministerio de Exteriores",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Crimea",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Dmtri Peskov",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Rusia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Kremlin",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Estados Unidos",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Occidente",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Daguestán",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Volodímir Zelenski",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Ucrania",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Peskov",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Lynne Tracy",
+        "tipo": "Persona"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Ministerio de Relaciones Exteriores de Rusia",
+        "relacion": "CONVOCAR_INDICAR",
+        "objeto": "Estados Unidos"
+      },
+      {
+        "sujeto": "Ministerio de Relaciones Exteriores de Rusia",
+        "relacion": "CONVOCAR_INDICAR",
+        "objeto": "Lynne Tracy"
+      },
+      {
+        "sujeto": "Ministerio de Relaciones Exteriores de Rusia",
+        "relacion": "CONVOCAR_INDICAR",
+        "objeto": "Sebastopol"
+      },
+      {
+        "sujeto": "Estados Unidos",
+        "relacion": "CONVOCAR_INDICAR",
+        "objeto": "Sebastopol"
+      },
+      {
+        "sujeto": "Lynne Tracy",
+        "relacion": "CONVOCAR_INDICAR",
+        "objeto": "Sebastopol"
+      },
+      {
+        "sujeto": "Estados Unidos",
+        "relacion": "PODER",
+        "objeto": "Kremlin"
+      },
+      {
+        "sujeto": "Estados Unidos",
+        "relacion": "PODER",
+        "objeto": "Ministerio de Exteriores"
+      },
+      {
+        "sujeto": "Estados Unidos",
+        "relacion": "PODER",
+        "objeto": "EEUU"
+      },
+      {
+        "sujeto": "Occidente",
+        "relacion": "PODER",
+        "objeto": "Estados Unidos"
+      },
+      {
+        "sujeto": "Estados Unidos",
+        "relacion": "PODER",
+        "objeto": "Ucrania"
+      },
+      {
+        "sujeto": "Estados Unidos",
+        "relacion": "PODER",
+        "objeto": "Volodímir Zelenski"
+      },
+      {
+        "sujeto": "Kremlin",
+        "relacion": "DECLARAR_PODER",
+        "objeto": "Ministerio de Exteriores"
+      },
+      {
+        "sujeto": "Kremlin",
+        "relacion": "DECLARAR_PODER",
+        "objeto": "EEUU"
+      },
+      {
+        "sujeto": "Occidente",
+        "relacion": "DECLARAR_PODER",
+        "objeto": "Kremlin"
+      },
+      {
+        "sujeto": "Kremlin",
+        "relacion": "DECLARAR_PODER",
+        "objeto": "Ucrania"
+      },
+      {
+        "sujeto": "Kremlin",
+        "relacion": "DECLARAR_PODER",
+        "objeto": "Volodímir Zelenski"
+      },
+      {
+        "sujeto": "Ministerio de Exteriores",
+        "relacion": "ACLARAR_PODER",
+        "objeto": "EEUU"
+      },
+      {
+        "sujeto": "Occidente",
+        "relacion": "ACLARAR_PODER",
+        "objeto": "Ministerio de Exteriores"
+      },
+      {
+        "sujeto": "Ministerio de Exteriores",
+        "relacion": "ACLARAR_PODER",
+        "objeto": "Ucrania"
+      },
+      {
+        "sujeto": "Ministerio de Exteriores",
+        "relacion": "ACLARAR_PODER",
+        "objeto": "Volodímir Zelenski"
+      },
+      {
+        "sujeto": "Occidente",
+        "relacion": "ESTAR_FUERA_PODER",
+        "objeto": "EEUU"
+      },
+      {
+        "sujeto": "EEUU",
+        "relacion": "ESTAR_FUERA_PODER",
+        "objeto": "Ucrania"
+      },
+      {
+        "sujeto": "EEUU",
+        "relacion": "ESTAR_FUERA_PODER",
+        "objeto": "Volodímir Zelenski"
+      },
+      {
+        "sujeto": "Occidente",
+        "relacion": "SEGUIR_AGREGAR_PODER",
+        "objeto": "Ucrania"
+      },
+      {
+        "sujeto": "Occidente",
+        "relacion": "SEGUIR_AGREGAR_PODER",
+        "objeto": "Volodímir Zelenski"
+      },
+      {
+        "sujeto": "Kremlin",
+        "relacion": "CALIFICAR",
+        "objeto": "Sebastopol"
+      },
+      {
+        "sujeto": "Kremlin",
+        "relacion": "CALIFICAR",
+        "objeto": "Crimea"
+      },
+      {
+        "sujeto": "Dmtri Peskov",
+        "relacion": "CALIFICAR",
+        "objeto": "Sebastopol"
+      },
+      {
+        "sujeto": "Dmtri Peskov",
+        "relacion": "CALIFICAR",
+        "objeto": "Crimea"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.25,
+    "pos": 0.01,
+    "neu": 0.972,
+    "neg": 0.018,
+    "label": "negative"
+  }
+}

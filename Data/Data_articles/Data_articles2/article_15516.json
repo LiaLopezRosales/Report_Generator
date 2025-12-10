@@ -1,0 +1,659 @@
+{
+  "url": "https://www.telesurtv.net/aumentan-a-12-los-muertos-por-lluvias-en-el-salvador/",
+  "title": "Aumentan a 12 los muertos por lluvias en El Salvador - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "El Salvador",
+    "Inundaciones",
+    "lluvias"
+  ],
+  "text": "\nAutoridades de El Salvador informaron este miércoles que como consecuencia de las lluvias que afectan al país una persona murió arrastrada por una corriente de agua, lo que eleva a doce el número de víctimas.\n\nLos habitantes de la zona informaron que Pineda se encontraba buscando cangrejos en la zona del manglar cuando fue sorprendido por una corriente de agua.\n\nDurante un programa de entrevistas el director de Protección Civil, Luis Amaya, afirmó “tenemos que estar alerta debido a la cantidad de lluvia que hemos tenido en el país, esto aumenta las probabilidades de tener crecidas de ríos y movimientos de laderas por la saturación de los suelos”.\nAmaya dijo que se han registrado hasta el momento 331 vías obstruidas, 445 árboles caídos, 6 vehículos afectados, 5 ríos desbordados, 12 inundaciones urbanas, 61 viviendas anegadas, 111 viviendas con daños leves y 124 deslizamientos.\nEl funcionario aseveró “Quiero comentarles que la lluvia ha disminuido, pero no podemos confiarnos, tenemos que estar alerta debido a que los próximos días tendremos lluvias otra vez. Es importante mencionar que la zona más afectada de nuestro país debido a las lluvias ha sido la zona costera”.\nPor otra parte, el ministro de Medio Ambiente y Recursos Naturales (Marn), Fernando López, llamó a la población a seguir las indicaciones de las autoridades y a mantenerse informados con las actualizaciones del pronóstico del tiempo.\nLópez ratificó “Tenemos riesgo de inundaciones, deslizamientos, desbordamientos de ríos, no tomemos decisiones que pongan en riesgo nuestra vida. La emergencia no ha pasado”.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/aumentan-a-12-los-muertos-por-lluvias-en-el-salvador/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-06.json",
+    "message_index": 390,
+    "message_id": 72353,
+    "date": "2024-06-19T18:55:13+00:00",
+    "text": "teleSUR\nAumentan a 12 los muertos por lluvias en El Salvador\nhttps://www.telesurtv.net/aumentan-a-12-los-muertos-por-lluvias-en-el-salvador/",
+    "photo_path": null,
+    "views": 1435,
+    "reactions": {},
+    "total_reactions": 0
+  },
+  "preprocessing": {
+    "cleaned": "autoridades de el salvador informaron este miércoles que como consecuencia de las lluvias que afectan al país una persona murió arrastrada por una corriente de agua, lo que eleva a doce el número de víctimas. los habitantes de la zona informaron que pineda se encontraba buscando cangrejos en la zona del manglar cuando fue sorprendido por una corriente de agua. durante un programa de entrevistas el director de protección civil, luis amaya, afirmó “tenemos que estar alerta debido a la cantidad de lluvia que hemos tenido en el país, esto aumenta las probabilidades de tener crecidas de ríos y movimientos de laderas por la saturación de los suelos”. amaya dijo que se han registrado hasta el momento 331 vías obstruidas, 445 árboles caídos, 6 vehículos afectados, 5 ríos desbordados, 12 inundaciones urbanas, 61 viviendas anegadas, 111 viviendas con daños leves y 124 deslizamientos. el funcionario aseveró “quiero comentarles que la lluvia ha disminuido, pero no podemos confiarnos, tenemos que estar alerta debido a que los próximos días tendremos lluvias otra vez. es importante mencionar que la zona más afectada de nuestro país debido a las lluvias ha sido la zona costera”. por otra parte, el ministro de medio ambiente y recursos naturales (marn), fernando lópez, llamó a la población a seguir las indicaciones de las autoridades y a mantenerse informados con las actualizaciones del pronóstico del tiempo. lópez ratificó “tenemos riesgo de inundaciones, deslizamientos, desbordamientos de ríos, no tomemos decisiones que pongan en riesgo nuestra vida. la emergencia no ha pasado”.",
+    "tokens": [
+      "autoridades",
+      "salvador",
+      "informaron",
+      "miércoles",
+      "consecuencia",
+      "lluvias",
+      "afectan",
+      "país",
+      "persona",
+      "murió",
+      "arrastrada",
+      "corriente",
+      "agua",
+      ",",
+      "eleva",
+      "doce",
+      "número",
+      "víctimas",
+      ".",
+      "habitantes",
+      "zona",
+      "informaron",
+      "pineda",
+      "encontraba",
+      "buscando",
+      "cangrejos",
+      "zona",
+      "manglar",
+      "sorprendido",
+      "corriente",
+      "agua",
+      ".",
+      "programa",
+      "entrevistas",
+      "director",
+      "protección",
+      "civil",
+      ",",
+      "luis",
+      "amaya",
+      ",",
+      "afirmó",
+      "“",
+      "alerta",
+      "debido",
+      "cantidad",
+      "lluvia",
+      "país",
+      ",",
+      "aumenta",
+      "probabilidades",
+      "tener",
+      "crecidas",
+      "ríos",
+      "movimientos",
+      "laderas",
+      "saturación",
+      "suelos",
+      "”",
+      ".",
+      "amaya",
+      "dijo",
+      "registrado",
+      "momento",
+      "331",
+      "vías",
+      "obstruidas",
+      ",",
+      "445",
+      "árboles",
+      "caídos",
+      ",",
+      "6",
+      "vehículos",
+      "afectados",
+      ",",
+      "5",
+      "ríos",
+      "desbordados",
+      ",",
+      "12",
+      "inundaciones",
+      "urbanas",
+      ",",
+      "61",
+      "viviendas",
+      "anegadas",
+      ",",
+      "111",
+      "viviendas",
+      "daños",
+      "leves",
+      "124",
+      "deslizamientos",
+      ".",
+      "funcionario",
+      "aseveró",
+      "“",
+      "quiero",
+      "comentarles",
+      "lluvia",
+      "disminuido",
+      ",",
+      "podemos",
+      "confiarnos",
+      ",",
+      "alerta",
+      "debido",
+      "próximos",
+      "días",
+      "lluvias",
+      "vez",
+      ".",
+      "importante",
+      "mencionar",
+      "zona",
+      "afectada",
+      "país",
+      "debido",
+      "lluvias",
+      "sido",
+      "zona",
+      "costera",
+      "”",
+      ".",
+      "parte",
+      ",",
+      "ministro",
+      "medio",
+      "ambiente",
+      "recursos",
+      "naturales",
+      "(",
+      "marn",
+      ")",
+      ",",
+      "fernando",
+      "lópez",
+      ",",
+      "llamó",
+      "población",
+      "seguir",
+      "indicaciones",
+      "autoridades",
+      "mantenerse",
+      "informados",
+      "actualizaciones",
+      "pronóstico",
+      "tiempo",
+      ".",
+      "lópez",
+      "ratificó",
+      "“",
+      "riesgo",
+      "inundaciones",
+      ",",
+      "deslizamientos",
+      ",",
+      "desbordamientos",
+      "ríos",
+      ",",
+      "tomemos",
+      "decisiones",
+      "pongan",
+      "riesgo",
+      "vida",
+      ".",
+      "emergencia",
+      "pasado",
+      "”",
+      "."
+    ],
+    "token_count": 171,
+    "sentence_count": 9
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 27,
+      "FW": 62,
+      "NN": 80,
+      "NNS": 9,
+      "VBP": 6,
+      "JJ": 22,
+      "IN": 11,
+      "VBZ": 8,
+      "$": 1,
+      "CD": 6,
+      "VBD": 2,
+      "RB": 1,
+      "DT": 3
+    },
+    "bigram_freq": {
+      "NNP-FW": 2,
+      "FW-NNP": 4,
+      "NNP-NNP": 11,
+      "NNP-NN": 8,
+      "NN-NN": 43,
+      "NN-NNS": 2,
+      "NNS-VBP": 4,
+      "VBP-JJ": 3,
+      "JJ-NN": 13,
+      "NN-IN": 9,
+      "IN-FW": 9,
+      "FW-JJ": 3,
+      "JJ-JJ": 4,
+      "NN-JJ": 5,
+      "FW-FW": 42,
+      "FW-NN": 11,
+      "NN-FW": 5,
+      "NNP-VBZ": 5,
+      "VBZ-IN": 1,
+      "NN-NNP": 9,
+      "NNP-JJ": 1,
+      "IN-NNP": 1,
+      "JJ-NNP": 1,
+      "NN-VBP": 1,
+      "VBP-$": 1,
+      "$-CD": 1,
+      "CD-NN": 2,
+      "NN-VBD": 2,
+      "VBD-CD": 2,
+      "CD-NNS": 4,
+      "NNS-JJ": 2,
+      "JJ-CD": 1,
+      "NNS-RB": 1,
+      "RB-CD": 1,
+      "JJ-VBP": 1,
+      "VBP-VBZ": 1,
+      "VBZ-CD": 1,
+      "VBZ-JJ": 4,
+      "NN-DT": 1,
+      "DT-NN": 3,
+      "NN-VBZ": 2,
+      "JJ-FW": 2,
+      "VBZ-FW": 1,
+      "FW-NNS": 1,
+      "NNS-FW": 1,
+      "IN-NNS": 1,
+      "NNS-NNS": 1,
+      "VBP-IN": 1,
+      "FW-DT": 1,
+      "VBZ-DT": 1
+    },
+    "trigram_freq": {
+      "NNP-FW-NNP": 1,
+      "FW-NNP-NNP": 2,
+      "NNP-NNP-NN": 2,
+      "NNP-NN-NN": 6,
+      "NN-NN-NNS": 2,
+      "NN-NNS-VBP": 1,
+      "NNS-VBP-JJ": 3,
+      "VBP-JJ-NN": 2,
+      "JJ-NN-IN": 4,
+      "NN-IN-FW": 7,
+      "IN-FW-JJ": 1,
+      "FW-JJ-JJ": 1,
+      "JJ-JJ-NN": 3,
+      "JJ-NN-NN": 6,
+      "NN-NN-NN": 25,
+      "NN-NN-JJ": 5,
+      "NN-JJ-NN": 4,
+      "IN-FW-FW": 5,
+      "FW-FW-NN": 6,
+      "FW-NN-FW": 3,
+      "NN-FW-NN": 3,
+      "FW-NN-NN": 5,
+      "NN-NN-IN": 3,
+      "IN-FW-NNP": 2,
+      "FW-NNP-VBZ": 1,
+      "NNP-VBZ-IN": 1,
+      "VBZ-IN-FW": 1,
+      "NN-NN-NNP": 4,
+      "NN-NNP-NN": 5,
+      "FW-FW-FW": 32,
+      "FW-FW-JJ": 2,
+      "FW-JJ-NN": 1,
+      "FW-NNP-JJ": 1,
+      "NNP-JJ-NN": 1,
+      "FW-NN-IN": 1,
+      "NN-IN-NNP": 1,
+      "IN-NNP-NNP": 1,
+      "NNP-NNP-NNP": 7,
+      "NN-NN-FW": 1,
+      "NN-FW-FW": 2,
+      "FW-JJ-NNP": 1,
+      "JJ-NNP-NN": 1,
+      "NN-NN-VBP": 1,
+      "NN-VBP-$": 1,
+      "VBP-$-CD": 1,
+      "$-CD-NN": 1,
+      "CD-NN-VBD": 1,
+      "NN-VBD-CD": 2,
+      "VBD-CD-NNS": 2,
+      "CD-NNS-VBP": 1,
+      "VBP-JJ-JJ": 1,
+      "JJ-NN-VBD": 1,
+      "CD-NNS-JJ": 2,
+      "NNS-JJ-CD": 1,
+      "JJ-CD-NNS": 1,
+      "CD-NNS-RB": 1,
+      "NNS-RB-CD": 1,
+      "RB-CD-NNS": 1,
+      "NNS-JJ-VBP": 1,
+      "JJ-VBP-VBZ": 1,
+      "VBP-VBZ-CD": 1,
+      "VBZ-CD-NN": 1,
+      "CD-NN-NNP": 1,
+      "NN-NNP-VBZ": 3,
+      "NNP-VBZ-JJ": 2,
+      "VBZ-JJ-NN": 2,
+      "JJ-NN-FW": 1,
+      "NN-NN-DT": 1,
+      "NN-DT-NN": 1,
+      "DT-NN-VBZ": 2,
+      "NN-VBZ-JJ": 2,
+      "NN-JJ-JJ": 1,
+      "JJ-NN-NNP": 1,
+      "NN-NNP-NNP": 1,
+      "NNP-NNP-FW": 1,
+      "NNP-FW-FW": 1,
+      "FW-NN-NNP": 2,
+      "VBZ-JJ-FW": 1,
+      "JJ-FW-FW": 1,
+      "FW-FW-NNP": 1,
+      "NNP-NNP-VBZ": 1,
+      "NNP-VBZ-FW": 1,
+      "VBZ-FW-FW": 1,
+      "FW-FW-NNS": 1,
+      "FW-NNS-VBP": 1,
+      "NN-NNS-FW": 1,
+      "NNS-FW-NN": 1,
+      "NNP-NN-NNP": 1,
+      "NNP-NN-IN": 1,
+      "NN-IN-NNS": 1,
+      "IN-NNS-NNS": 1,
+      "NNS-NNS-VBP": 1,
+      "NNS-VBP-IN": 1,
+      "VBP-IN-FW": 1,
+      "IN-FW-DT": 1,
+      "FW-DT-NN": 1,
+      "VBZ-JJ-JJ": 1,
+      "JJ-JJ-FW": 1,
+      "JJ-FW-NN": 1,
+      "NNP-VBZ-DT": 1,
+      "VBZ-DT-NN": 1,
+      "DT-NN-NN": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 80,
+        "FW": 62,
+        "NNP": 27,
+        "JJ": 22,
+        "IN": 11
+      },
+      "top_bigrams": {
+        "NN-NN": 43,
+        "FW-FW": 42,
+        "JJ-NN": 13,
+        "NNP-NNP": 11,
+        "FW-NN": 11
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 32,
+        "NN-NN-NN": 25,
+        "NN-IN-FW": 7,
+        "NNP-NNP-NNP": 7,
+        "NNP-NN-NN": 6
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 9,
+    "chunk_counts": {
+      "NP": 61,
+      "VP": 15,
+      "PP": 4,
+      "ADJP": 1
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 3,
+        "weight": 0.0333
+      },
+      {
+        "rule": "NP -> ('una', 'JJ') ('corriente', 'NN')",
+        "frequency": 2,
+        "weight": 0.0222
+      },
+      {
+        "rule": "NP -> ('inundaciones', 'NNS')",
+        "frequency": 2,
+        "weight": 0.0222
+      },
+      {
+        "rule": "NP -> ('deslizamientos', 'NNS')",
+        "frequency": 2,
+        "weight": 0.0222
+      },
+      {
+        "rule": "S -> NP ('de', 'FW') NP VP ('de', 'IN') ('las', 'FW') NP NP NP ('de', 'IN') ('agua', 'FW') (',', ',') ('lo', 'FW') NP VP ('de', 'IN') ('víctimas', 'FW') ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0111
+      },
+      {
+        "rule": "NP -> ('Autoridades', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0111
+      },
+      {
+        "rule": "NP -> ('El', 'NNP') ('Salvador', 'NNP') ('informaron', 'NN') ('este', 'NN') ('miércoles', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0111
+      },
+      {
+        "rule": "VP -> ('que', 'VBP') NP",
+        "frequency": 1,
+        "weight": 0.0111
+      },
+      {
+        "rule": "NP -> ('como', 'JJ') ('consecuencia', 'NN')",
+        "frequency": 1,
+        "weight": 0.0111
+      },
+      {
+        "rule": "NP -> ('lluvias', 'JJ') ('que', 'JJ') ('afectan', 'NN') ('al', 'NN') ('país', 'NN')",
+        "frequency": 1,
+        "weight": 0.0111
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Autoridades"
+      },
+      {
+        "label": "NP",
+        "text": "El Salvador informaron este miércoles"
+      },
+      {
+        "label": "VP",
+        "text": "que como consecuencia"
+      },
+      {
+        "label": "NP",
+        "text": "como consecuencia"
+      },
+      {
+        "label": "NP",
+        "text": "lluvias que afectan al país"
+      },
+      {
+        "label": "NP",
+        "text": "una persona murió arrastrada por"
+      },
+      {
+        "label": "NP",
+        "text": "una corriente"
+      },
+      {
+        "label": "NP",
+        "text": "que"
+      },
+      {
+        "label": "VP",
+        "text": "eleva a doce el número"
+      },
+      {
+        "label": "NP",
+        "text": "a doce el número"
+      },
+      {
+        "label": "NP",
+        "text": "Los"
+      },
+      {
+        "label": "VP",
+        "text": "habitantes"
+      },
+      {
+        "label": "NP",
+        "text": "informaron que Pineda se encontraba buscando cangrejos"
+      },
+      {
+        "label": "NP",
+        "text": "manglar cuando fue sorprendido por"
+      },
+      {
+        "label": "NP",
+        "text": "una corriente"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Autoridades/NNP)\n  de/FW\n  (NP El/NNP Salvador/NNP informaron/NN este/NN miércoles/NNS)\n  (VP que/VBP (NP como/JJ consecuencia/NN))\n  de/IN\n  las/FW\n  (NP lluvias/JJ que/JJ afectan/NN al/NN país/NN)\n  (NP una/JJ persona/NN murió/NN arrastrada/NN por/NN)\n  (NP una/JJ corriente/NN)\n  de/IN\n  agua/FW\n  ,/,\n  lo/FW\n  (NP que/NN)\n  (VP eleva/VBZ (NP a/DT doce/NN el/NN número/NN))\n  de/IN\n  víctimas/FW\n  ./.)",
+      "(S\n  (NP Los/NNP)\n  (VP habitantes/VBZ)\n  de/IN\n  la/FW\n  zona/FW\n  (NP\n    informaron/NN\n    que/NN\n    Pineda/NNP\n    se/NN\n    encontraba/NN\n    buscando/NN\n    cangrejos/NN)\n  en/IN\n  la/FW\n  zona/FW\n  del/FW\n  (NP manglar/JJ cuando/NN fue/NN sorprendido/NN por/NN)\n  (NP una/JJ corriente/NN)\n  (PP de/IN (NP agua/NN))\n  ./.)",
+      "(S\n  (NP Durante/NNP)\n  (NP un/JJ programa/NN)\n  de/IN\n  entrevistas/FW\n  el/FW\n  (NP director/NN)\n  (PP de/IN (NP Protección/NNP Civil/NNP))\n  ,/,\n  (NP Luis/NNP Amaya/NNP)\n  ,/,\n  (NP afirmó/NN “/NNP tenemos/NN que/NN estar/NN alerta/NN)\n  (VP debido/VBZ (NP a/DT la/NN cantidad/NN))\n  de/IN\n  lluvia/FW\n  (NP que/JJ hemos/NN tenido/NN)\n  (PP en/IN (NP el/NN país/NN))\n  ,/,\n  (NP esto/JJ aumenta/NN las/NNS)\n  probabilidades/FW\n  de/FW\n  tener/FW\n  crecidas/FW\n  de/FW\n  ríos/FW\n  y/FW\n  movimientos/FW\n  de/FW\n  laderas/FW\n  por/FW\n  la/FW\n  saturación/FW\n  de/FW\n  los/FW\n  (NP suelos/JJ ”/NN)\n  ./.)",
+      "(S\n  (NP Amaya/NNP dijo/NN que/NN se/NN han/NN registrado/NN hasta/NN)\n  (VP el/VBP)\n  momento/$\n  331/CD\n  (NP vías/NN obstruidas/NNS)\n  ,/,\n  445/CD\n  (NP árboles/NNS)\n  caídos/RB\n  ,/,\n  6/CD\n  (NP vehículos/NN afectados/NN)\n  ,/,\n  5/CD\n  (NP ríos/NN desbordados/NN)\n  ,/,\n  12/CD\n  (NP inundaciones/NNS)\n  (ADJP urbanas/JJ)\n  ,/,\n  61/CD\n  (NP viviendas/NN anegadas/NNS)\n  ,/,\n  111/CD\n  (NP viviendas/NNS)\n  (NP con/JJ daños/JJ leves/NNS)\n  (VP y/VBP)\n  124/CD\n  (NP deslizamientos/NNS)\n  ./.)",
+      "(S\n  (NP El/NNP funcionario/NN aseveró/NN “/NNP Quiero/NNP)\n  (VP comentarles/VBZ (NP que/JJ la/NN))\n  lluvia/FW\n  (NP ha/NN disminuido/NN)\n  ,/,\n  (VP pero/VBZ (NP no/DT podemos/NN confiarnos/NN))\n  ,/,\n  (NP tenemos/JJ que/NN estar/NN alerta/NN)\n  (VP\n    debido/VBZ\n    (NP a/DT que/JJ los/NN próximos/NN días/NN tendremos/NN)\n    (NP lluvias/JJ otra/JJ vez/NN))\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "GOBIERNOS_OFICIALES",
+      "RECURSOS_NATURALES",
+      "APROBACION_RECHAZO",
+      "DESASTRES_ACCIDENTES_EMERGENCIAS",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "REGIONES_PROVINCIAS",
+      "PAISES"
+    ],
+    "matches": [
+      {
+        "category": "DESASTRES_ACCIDENTES_EMERGENCIAS",
+        "matched_text": "lluvias que afectan",
+        "position": [
+          83,
+          102
+        ],
+        "start": 83,
+        "end": 102
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "afirmó",
+        "position": [
+          446,
+          452
+        ],
+        "start": 446,
+        "end": 452
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "ministro de medio ambiente",
+        "position": [
+          1205,
+          1231
+        ],
+        "start": 1205,
+        "end": 1231
+      },
+      {
+        "category": "APROBACION_RECHAZO",
+        "matched_text": "ratificó",
+        "position": [
+          1426,
+          1434
+        ],
+        "start": 1426,
+        "end": 1434
+      },
+      {
+        "category": "RECURSOS_NATURALES",
+        "matched_text": "agua",
+        "position": [
+          161,
+          165
+        ],
+        "start": 161,
+        "end": 165
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "el salvador",
+        "position": [
+          16,
+          27
+        ],
+        "start": 16,
+        "end": 27
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "zona informaron",
+        "position": [
+          232,
+          247
+        ],
+        "start": 232,
+        "end": 247
+      }
+    ],
+    "match_count": 7
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Pineda",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Protección Civil",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Recursos Naturales",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "El Salvador",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Marn",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Fernando López",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Amaya",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Luis Amaya",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "López",
+        "tipo": "Persona"
+      }
+    ],
+    "relaciones": []
+  },
+  "sentiment": {
+    "compound": 0.1531,
+    "pos": 0.029,
+    "neu": 0.944,
+    "neg": 0.027,
+    "label": "positive"
+  }
+}

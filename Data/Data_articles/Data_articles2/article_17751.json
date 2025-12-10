@@ -1,0 +1,847 @@
+{
+  "url": "https://www.telesurtv.net/al-menos-11-muertos-y-decenas-de-heridos-dejan-ataques-israelies-en-la-franja-de-gaza/",
+  "title": "Al menos 11 muertos y decenas de heridos dejan ataques israelíes en la Franja de Gaza - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Bombardeos Israelíes",
+    "Franja de Gaza",
+    "Fuerzas de Defensa de Israel (FDI)"
+  ],
+  "text": "Estos ataques se producen después de que el Ejército de Israel ordenara una nueva evacuación forzada en una zona del centro-sur de Gaza.\nAutoridades sanitarias palestinas denunciaron que más de 11 personas perdieron la vida mientras decenas resultaron heridas, entre ella varios niños, tras una serie de ataques aéreos israelíes contra diversas zonas de la Franja de Gaza.\nEn la localidad de Al-Zawaida, en el centro de Gaza, diez personas fallecieron y otras resultaron heridas cuando aviones de combate israelíes bombardearon tiendas de campaña que alojaban desplazados.\nFuentes locales reportaron que los ataques aéreos incluyeron tres golpes separados cerca de la entrada sur de la ciudad.\nIgualmente, un niño resultó herido por disparos dirigidos también contra tiendas de campaña para desplazados cerca de Hamad City, al noroeste de Khan Younis. Posteriormente, ataques aéreos sionistas cobraron más víctimas al alcanzar una casa cerca del Hospital Europeo, al este de la ciudad palestina.\nAsimismo, fuentes médicas señalaron que un civil gazatí murió y varios más resultaron heridos tras el impacto de misiles disparados por cazas de las Fuerzas de Defensa de Israel (FDI) sobre un edificio residencial en el barrio de Sheikh Radwan.\nSe teme que miles de víctimas estén atrapadas bajo los escombros, inaccesibles para los equipos de emergencia.\nEstos ataques se producen después de que el Ejército de Israel ordenara esta jornada una nueva evacuación forzada en una zona del centro-sur de Gaza, que hasta ahora había sido declarada por los militares como “segura” para la población palestina. El jueves las FDI ordenaron evacuar antes de atacar en represalia a bombardeos perpetrados por Hamás.\nEse mismo día, el Ministerio de Sanidad de la Franja de Gaza elevaba por encima de 40.000 la cifra provisional de personas fallecidas por la ofensiva militar israelí, iniciada el 7 de octubre. “Un hito nefasto para el mundo” que desde la ONU han atribuido directamente a las “recurrentes” violaciones de las leyes de la guerra por parte de Israel.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/al-menos-11-muertos-y-decenas-de-heridos-dejan-ataques-israelies-en-la-franja-de-gaza/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-08.json",
+    "message_index": 829,
+    "message_id": 74686,
+    "date": "2024-08-17T10:55:13+00:00",
+    "text": "teleSUR\nAl menos 11 muertos y decenas de heridos dejan ataques israelíes en la Franja de Gaza\nhttps://www.telesurtv.net/al-menos-11-muertos-y-decenas-de-heridos-dejan-ataques-israelies-en-la-franja-de-gaza/",
+    "photo_path": null,
+    "views": 2985,
+    "reactions": {
+      "🤬": 36,
+      "🤮": 9,
+      "🤨": 4,
+      "😭": 2
+    },
+    "total_reactions": 51
+  },
+  "preprocessing": {
+    "cleaned": "estos ataques se producen después de que el ejército de israel ordenara una nueva evacuación forzada en una zona del centro-sur de gaza. autoridades sanitarias palestinas denunciaron que más de 11 personas perdieron la vida mientras decenas resultaron heridas, entre ella varios niños, tras una serie de ataques aéreos israelíes contra diversas zonas de la franja de gaza. en la localidad de al-zawaida, en el centro de gaza, diez personas fallecieron y otras resultaron heridas cuando aviones de combate israelíes bombardearon tiendas de campaña que alojaban desplazados. fuentes locales reportaron que los ataques aéreos incluyeron tres golpes separados cerca de la entrada sur de la ciudad. igualmente, un niño resultó herido por disparos dirigidos también contra tiendas de campaña para desplazados cerca de hamad city, al noroeste de khan younis. posteriormente, ataques aéreos sionistas cobraron más víctimas al alcanzar una casa cerca del hospital europeo, al este de la ciudad palestina. asimismo, fuentes médicas señalaron que un civil gazatí murió y varios más resultaron heridos tras el impacto de misiles disparados por cazas de las fuerzas de defensa de israel (fdi) sobre un edificio residencial en el barrio de sheikh radwan. se teme que miles de víctimas estén atrapadas bajo los escombros, inaccesibles para los equipos de emergencia. estos ataques se producen después de que el ejército de israel ordenara esta jornada una nueva evacuación forzada en una zona del centro-sur de gaza, que hasta ahora había sido declarada por los militares como “segura” para la población palestina. el jueves las fdi ordenaron evacuar antes de atacar en represalia a bombardeos perpetrados por hamás. ese mismo día, el ministerio de sanidad de la franja de gaza elevaba por encima de 40.000 la cifra provisional de personas fallecidas por la ofensiva militar israelí, iniciada el 7 de octubre. “un hito nefasto para el mundo” que desde la onu han atribuido directamente a las “recurrentes” violaciones de las leyes de la guerra por parte de israel.",
+    "tokens": [
+      "ataques",
+      "producen",
+      "después",
+      "ejército",
+      "israel",
+      "ordenara",
+      "nueva",
+      "evacuación",
+      "forzada",
+      "zona",
+      "centro-sur",
+      "gaza",
+      ".",
+      "autoridades",
+      "sanitarias",
+      "palestinas",
+      "denunciaron",
+      "11",
+      "personas",
+      "perdieron",
+      "vida",
+      "mientras",
+      "decenas",
+      "resultaron",
+      "heridas",
+      ",",
+      "varios",
+      "niños",
+      ",",
+      "tras",
+      "serie",
+      "ataques",
+      "aéreos",
+      "israelíes",
+      "diversas",
+      "zonas",
+      "franja",
+      "gaza",
+      ".",
+      "localidad",
+      "al-zawaida",
+      ",",
+      "centro",
+      "gaza",
+      ",",
+      "diez",
+      "personas",
+      "fallecieron",
+      "resultaron",
+      "heridas",
+      "aviones",
+      "combate",
+      "israelíes",
+      "bombardearon",
+      "tiendas",
+      "campaña",
+      "alojaban",
+      "desplazados",
+      ".",
+      "fuentes",
+      "locales",
+      "reportaron",
+      "ataques",
+      "aéreos",
+      "incluyeron",
+      "tres",
+      "golpes",
+      "separados",
+      "cerca",
+      "entrada",
+      "sur",
+      "ciudad",
+      ".",
+      "igualmente",
+      ",",
+      "niño",
+      "resultó",
+      "herido",
+      "disparos",
+      "dirigidos",
+      "tiendas",
+      "campaña",
+      "desplazados",
+      "cerca",
+      "hamad",
+      "city",
+      ",",
+      "noroeste",
+      "khan",
+      "younis",
+      ".",
+      "posteriormente",
+      ",",
+      "ataques",
+      "aéreos",
+      "sionistas",
+      "cobraron",
+      "víctimas",
+      "alcanzar",
+      "casa",
+      "cerca",
+      "hospital",
+      "europeo",
+      ",",
+      "ciudad",
+      "palestina",
+      ".",
+      "asimismo",
+      ",",
+      "fuentes",
+      "médicas",
+      "señalaron",
+      "civil",
+      "gazatí",
+      "murió",
+      "varios",
+      "resultaron",
+      "heridos",
+      "tras",
+      "impacto",
+      "misiles",
+      "disparados",
+      "cazas",
+      "fuerzas",
+      "defensa",
+      "israel",
+      "(",
+      "fdi",
+      ")",
+      "edificio",
+      "residencial",
+      "barrio",
+      "sheikh",
+      "radwan",
+      ".",
+      "teme",
+      "miles",
+      "víctimas",
+      "atrapadas",
+      "bajo",
+      "escombros",
+      ",",
+      "inaccesibles",
+      "equipos",
+      "emergencia",
+      ".",
+      "ataques",
+      "producen",
+      "después",
+      "ejército",
+      "israel",
+      "ordenara",
+      "jornada",
+      "nueva",
+      "evacuación",
+      "forzada",
+      "zona",
+      "centro-sur",
+      "gaza",
+      ",",
+      "ahora",
+      "sido",
+      "declarada",
+      "militares",
+      "“",
+      "segura",
+      "”",
+      "población",
+      "palestina",
+      ".",
+      "jueves",
+      "fdi",
+      "ordenaron",
+      "evacuar",
+      "atacar",
+      "represalia",
+      "bombardeos",
+      "perpetrados",
+      "hamás",
+      ".",
+      "mismo",
+      "día",
+      ",",
+      "ministerio",
+      "sanidad",
+      "franja",
+      "gaza",
+      "elevaba",
+      "encima",
+      "40.000",
+      "cifra",
+      "provisional",
+      "personas",
+      "fallecidas",
+      "ofensiva",
+      "militar",
+      "israelí",
+      ",",
+      "iniciada",
+      "7",
+      "octubre",
+      ".",
+      "“",
+      "hito",
+      "nefasto",
+      "mundo",
+      "”",
+      "onu",
+      "atribuido",
+      "directamente",
+      "“",
+      "recurrentes",
+      "”",
+      "violaciones",
+      "leyes",
+      "guerra",
+      "parte",
+      "israel",
+      "."
+    ],
+    "token_count": 219,
+    "sentence_count": 12
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 44,
+      "VBZ": 10,
+      "FW": 78,
+      "JJ": 34,
+      "NN": 88,
+      "IN": 20,
+      "VBP": 16,
+      "CD": 2,
+      "NNS": 22,
+      "VB": 2,
+      "RB": 1,
+      "MD": 1,
+      "CC": 1
+    },
+    "bigram_freq": {
+      "NNP-VBZ": 8,
+      "VBZ-FW": 4,
+      "FW-JJ": 4,
+      "JJ-NN": 21,
+      "NN-IN": 15,
+      "IN-FW": 8,
+      "FW-FW": 40,
+      "FW-NNP": 20,
+      "NNP-IN": 3,
+      "IN-NNP": 6,
+      "NNP-NNP": 12,
+      "NNP-JJ": 1,
+      "NN-NN": 42,
+      "IN-JJ": 2,
+      "NN-FW": 11,
+      "FW-NN": 12,
+      "NNP-VBP": 2,
+      "VBP-JJ": 8,
+      "IN-CD": 2,
+      "CD-NNS": 2,
+      "NNS-VBP": 13,
+      "VBP-NN": 6,
+      "NN-NNS": 9,
+      "VBP-NNS": 2,
+      "NNS-JJ": 2,
+      "IN-NNS": 1,
+      "JJ-JJ": 6,
+      "JJ-NNS": 4,
+      "NNS-FW": 2,
+      "NNP-FW": 9,
+      "NNP-NN": 6,
+      "FW-VBP": 1,
+      "NN-NNP": 4,
+      "VBZ-VB": 1,
+      "VB-JJ": 1,
+      "NNS-VBZ": 1,
+      "VBZ-JJ": 3,
+      "NN-JJ": 6,
+      "NNS-RB": 1,
+      "RB-FW": 1,
+      "JJ-FW": 3,
+      "VBZ-NNS": 2,
+      "NNS-NNP": 1,
+      "NNP-MD": 1,
+      "MD-VB": 1,
+      "VB-NNS": 1,
+      "NNS-IN": 2,
+      "IN-NN": 1,
+      "NNP-CC": 1,
+      "CC-JJ": 1,
+      "FW-NNS": 1,
+      "NN-VBZ": 1
+    },
+    "trigram_freq": {
+      "NNP-VBZ-FW": 4,
+      "VBZ-FW-JJ": 2,
+      "FW-JJ-NN": 3,
+      "JJ-NN-IN": 7,
+      "NN-IN-FW": 7,
+      "IN-FW-FW": 6,
+      "FW-FW-NNP": 12,
+      "FW-NNP-IN": 3,
+      "NNP-IN-NNP": 3,
+      "IN-NNP-NNP": 5,
+      "NNP-NNP-JJ": 1,
+      "NNP-JJ-NN": 1,
+      "JJ-NN-NN": 11,
+      "NN-NN-NN": 18,
+      "NN-NN-IN": 4,
+      "NN-IN-JJ": 2,
+      "IN-JJ-NN": 2,
+      "JJ-NN-FW": 2,
+      "NN-FW-NN": 8,
+      "FW-NN-IN": 3,
+      "NN-IN-NNP": 3,
+      "NNP-NNP-VBP": 2,
+      "NNP-VBP-JJ": 1,
+      "VBP-JJ-NN": 4,
+      "NN-IN-CD": 2,
+      "IN-CD-NNS": 2,
+      "CD-NNS-VBP": 1,
+      "NNS-VBP-NN": 5,
+      "VBP-NN-NN": 3,
+      "NN-NN-NNS": 5,
+      "NN-NNS-VBP": 7,
+      "NN-NN-FW": 6,
+      "FW-NN-NNS": 2,
+      "NNS-VBP-NNS": 2,
+      "VBP-NNS-JJ": 1,
+      "NNS-JJ-NN": 1,
+      "NN-IN-NNS": 1,
+      "IN-NNS-VBP": 1,
+      "NNS-VBP-JJ": 6,
+      "VBP-JJ-JJ": 2,
+      "JJ-JJ-NNS": 2,
+      "JJ-NNS-FW": 1,
+      "NNS-FW-FW": 1,
+      "FW-FW-FW": 26,
+      "FW-NNP-FW": 7,
+      "NNP-FW-NNP": 4,
+      "FW-NNP-NNP": 4,
+      "NNP-NNP-FW": 2,
+      "NNP-FW-FW": 4,
+      "FW-NNP-NN": 2,
+      "NNP-NN-NN": 5,
+      "VBP-NNS-FW": 1,
+      "NNS-FW-VBP": 1,
+      "FW-VBP-JJ": 1,
+      "IN-FW-JJ": 1,
+      "NN-NN-NNP": 3,
+      "NN-NNP-VBZ": 2,
+      "NNP-VBZ-VB": 1,
+      "VBZ-VB-JJ": 1,
+      "VB-JJ-NN": 1,
+      "JJ-NN-NNS": 1,
+      "VBP-NN-NNS": 1,
+      "NN-NNS-VBZ": 1,
+      "NNS-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 1,
+      "FW-FW-NN": 1,
+      "FW-NN-NN": 5,
+      "NN-NN-JJ": 5,
+      "NN-JJ-NN": 4,
+      "NNP-VBP-NN": 1,
+      "VBP-NN-FW": 1,
+      "NN-FW-NNP": 3,
+      "NNP-NNP-NNP": 2,
+      "NNP-NNP-VBZ": 3,
+      "NNP-VBZ-JJ": 2,
+      "VBZ-JJ-NNS": 1,
+      "JJ-NNS-VBP": 3,
+      "VBZ-FW-FW": 1,
+      "FW-NNP-VBZ": 2,
+      "VBZ-FW-NN": 1,
+      "NN-JJ-JJ": 2,
+      "JJ-JJ-NN": 3,
+      "VBP-NN-IN": 1,
+      "NNP-NNP-NN": 2,
+      "NNP-NN-JJ": 1,
+      "NN-NNS-RB": 1,
+      "NNS-RB-FW": 1,
+      "RB-FW-JJ": 1,
+      "FW-JJ-NNS": 1,
+      "VBP-JJ-FW": 2,
+      "JJ-FW-FW": 2,
+      "VBZ-JJ-JJ": 1,
+      "IN-NNP-NN": 1,
+      "FW-NN-NNP": 1,
+      "NNP-VBZ-NNS": 1,
+      "VBZ-NNS-NNP": 1,
+      "NNS-NNP-MD": 1,
+      "NNP-MD-VB": 1,
+      "MD-VB-NNS": 1,
+      "VB-NNS-IN": 1,
+      "NNS-IN-NN": 1,
+      "IN-NN-FW": 1,
+      "NN-NNP-NNP": 1,
+      "NNP-FW-NN": 1,
+      "FW-NN-FW": 1,
+      "FW-NNP-CC": 1,
+      "NNP-CC-JJ": 1,
+      "CC-JJ-NN": 1,
+      "CD-NNS-JJ": 1,
+      "NNS-JJ-JJ": 1,
+      "JJ-JJ-FW": 1,
+      "FW-FW-NNS": 1,
+      "FW-NNS-VBP": 1,
+      "JJ-FW-NN": 1,
+      "IN-FW-NNP": 1,
+      "NN-NNP-NN": 1,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-NNS": 1,
+      "VBZ-NNS-IN": 1,
+      "NNS-IN-FW": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 88,
+        "FW": 78,
+        "NNP": 44,
+        "JJ": 34,
+        "NNS": 22
+      },
+      "top_bigrams": {
+        "NN-NN": 42,
+        "FW-FW": 40,
+        "JJ-NN": 21,
+        "FW-NNP": 20,
+        "NN-IN": 15
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 26,
+        "NN-NN-NN": 18,
+        "FW-FW-NNP": 12,
+        "JJ-NN-NN": 11,
+        "NN-FW-NN": 8
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 12,
+    "chunk_counts": {
+      "NP": 94,
+      "VP": 28,
+      "PP": 12,
+      "ADJP": 3
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 10,
+        "weight": 0.0671
+      },
+      {
+        "rule": "NP -> ('Gaza', 'NNP')",
+        "frequency": 5,
+        "weight": 0.0336
+      },
+      {
+        "rule": "NP -> ('Estos', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0134
+      },
+      {
+        "rule": "VP -> ('ataques', 'VBZ')",
+        "frequency": 2,
+        "weight": 0.0134
+      },
+      {
+        "rule": "NP -> ('producen', 'JJ') ('después', 'NN')",
+        "frequency": 2,
+        "weight": 0.0134
+      },
+      {
+        "rule": "NP -> ('Ejército', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0134
+      },
+      {
+        "rule": "NP -> ('Israel', 'NNP') ('ordenara', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0134
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0134
+      },
+      {
+        "rule": "NP -> ('una', 'JJ') ('zona', 'NN')",
+        "frequency": 2,
+        "weight": 0.0134
+      },
+      {
+        "rule": "NP -> ('centro-sur', 'NN')",
+        "frequency": 2,
+        "weight": 0.0134
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Estos"
+      },
+      {
+        "label": "VP",
+        "text": "ataques"
+      },
+      {
+        "label": "NP",
+        "text": "producen después"
+      },
+      {
+        "label": "NP",
+        "text": "Ejército"
+      },
+      {
+        "label": "PP",
+        "text": "de Israel ordenara"
+      },
+      {
+        "label": "NP",
+        "text": "Israel ordenara"
+      },
+      {
+        "label": "NP",
+        "text": "una nueva evacuación forzada"
+      },
+      {
+        "label": "PP",
+        "text": "en una zona"
+      },
+      {
+        "label": "NP",
+        "text": "una zona"
+      },
+      {
+        "label": "NP",
+        "text": "centro-sur"
+      },
+      {
+        "label": "PP",
+        "text": "de Gaza"
+      },
+      {
+        "label": "NP",
+        "text": "Gaza"
+      },
+      {
+        "label": "NP",
+        "text": "Autoridades"
+      },
+      {
+        "label": "VP",
+        "text": "sanitarias palestinas denunciaron que más"
+      },
+      {
+        "label": "NP",
+        "text": "palestinas denunciaron que más"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Estos/NNP)\n  (VP ataques/VBZ)\n  se/FW\n  (NP producen/JJ después/NN)\n  de/IN\n  que/FW\n  el/FW\n  (NP Ejército/NNP)\n  (PP de/IN (NP Israel/NNP ordenara/NNP))\n  (NP una/JJ nueva/NN evacuación/NN forzada/NN)\n  (PP en/IN (NP una/JJ zona/NN))\n  del/FW\n  (NP centro-sur/NN)\n  (PP de/IN (NP Gaza/NNP))\n  ./.)",
+      "(S\n  (NP Autoridades/NNS)\n  (VP sanitarias/VBP (NP palestinas/JJ denunciaron/NN que/NN más/NN))\n  de/IN\n  11/CD\n  (NP personas/NNS)\n  (VP perdieron/VBP (NP la/NN vida/NN mientras/NNS))\n  (VP decenas/VBP (NP resultaron/NN heridas/NN))\n  ,/,\n  entre/FW\n  ella/FW\n  (NP varios/NNS)\n  niños/RB\n  ,/,\n  (NP tras/NNS)\n  (NP una/JJ serie/NN)\n  (PP de/IN (NP ataques/NNS))\n  (VP aéreos/VBP (NP israelíes/JJ contra/JJ diversas/NNS))\n  zonas/FW\n  de/FW\n  la/FW\n  (NP Franja/NNP)\n  de/FW\n  (NP Gaza/NNP)\n  ./.)",
+      "(S\n  (NP En/NNP)\n  la/FW\n  localidad/FW\n  de/FW\n  (NP Al-Zawaida/NNP)\n  ,/,\n  en/FW\n  el/FW\n  centro/FW\n  de/FW\n  (NP Gaza/NNP)\n  ,/,\n  (NP diez/NN personas/NNS)\n  (VP fallecieron/VBP (NP y/JJ otras/NNS))\n  (VP resultaron/VBP (NP heridas/JJ cuando/NN aviones/NNS))\n  de/FW\n  (VP combate/VBP (NP israelíes/JJ bombardearon/NN tiendas/NN))\n  de/IN\n  campaña/FW\n  (NP que/JJ alojaban/NN desplazados/NN)\n  ./.)",
+      "(S\n  (NP Fuentes/NNS locales/NNS)\n  (VP reportaron/VBP (NP que/JJ los/NN ataques/NNS))\n  (VP aéreos/VBP (NP incluyeron/NN tres/NNS))\n  (VP golpes/VBZ (NP separados/JJ cerca/NN))\n  de/IN\n  la/FW\n  entrada/FW\n  sur/FW\n  de/FW\n  la/FW\n  (NP ciudad/NN)\n  ./.)",
+      "(S\n  (NP Igualmente/NNP)\n  ,/,\n  (NP\n    un/JJ\n    niño/NN\n    resultó/NN\n    herido/NN\n    por/NN\n    disparos/NN\n    dirigidos/NN\n    también/NN)\n  (NP contra/JJ tiendas/NN)\n  de/IN\n  campaña/FW\n  para/FW\n  desplazados/FW\n  cerca/FW\n  de/FW\n  (NP Hamad/NNP City/NNP)\n  ,/,\n  (NP al/JJ noroeste/NN)\n  (PP de/IN (NP Khan/NNP Younis/NNP))\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "ORGANISMOS_INTERNACIONALES",
+      "CANTIDADES_NUMERICAS",
+      "ACCIONES_LEGALES",
+      "REGIONES_PROVINCIAS",
+      "CRISIS_HUMANITARIA_SERVICIOS",
+      "PAISES",
+      "LOCALIZACIONES_ESPECIFICAS",
+      "CONFLICTOS_ARMADOS_OPERACIONES",
+      "INFRAESTRUCTURA_SERVICIOS",
+      "JURIDICO_LEGISLATIVO_CORRUPCION"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "evacuación forzada",
+        "position": [
+          82,
+          100
+        ],
+        "start": 82,
+        "end": 100
+      },
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "ofensiva militar",
+        "position": [
+          1843,
+          1859
+        ],
+        "start": 1843,
+        "end": 1859
+      },
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "ataques aéreos israelíes",
+        "position": [
+          304,
+          328
+        ],
+        "start": 304,
+        "end": 328
+      },
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "ejército de israel ordenara esta jornada una nueva evacuación forzada en una zona del centro-sur de gaza, que hasta ahora había sido declarada por los militares como “segura” para la población",
+        "position": [
+          1396,
+          1588
+        ],
+        "start": 1396,
+        "end": 1588
+      },
+      {
+        "category": "JURIDICO_LEGISLATIVO_CORRUPCION",
+        "matched_text": "defensa",
+        "position": [
+          1156,
+          1163
+        ],
+        "start": 1156,
+        "end": 1163
+      },
+      {
+        "category": "CRISIS_HUMANITARIA_SERVICIOS",
+        "matched_text": "evacuación forzada en una zona del centro-sur de gaza, que hasta ahora había sido declarada por los militares como “segura” para la población",
+        "position": [
+          1447,
+          1588
+        ],
+        "start": 1447,
+        "end": 1588
+      },
+      {
+        "category": "ORGANISMOS_INTERNACIONALES",
+        "matched_text": "onu",
+        "position": [
+          1940,
+          1943
+        ],
+        "start": 1940,
+        "end": 1943
+      },
+      {
+        "category": "ACCIONES_LEGALES",
+        "matched_text": "denunciaron",
+        "position": [
+          171,
+          182
+        ],
+        "start": 171,
+        "end": 182
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "hospital",
+        "position": [
+          946,
+          954
+        ],
+        "start": 946,
+        "end": 954
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "palestina",
+        "position": [
+          985,
+          994
+        ],
+        "start": 985,
+        "end": 994
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "zona del",
+        "position": [
+          108,
+          116
+        ],
+        "start": 108,
+        "end": 116
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "barrio de",
+        "position": [
+          1216,
+          1225
+        ],
+        "start": 1216,
+        "end": 1225
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "centro-sur",
+        "position": [
+          117,
+          127
+        ],
+        "start": 117,
+        "end": 127
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "hospital europeo",
+        "position": [
+          946,
+          962
+        ],
+        "start": 946,
+        "end": 962
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "11 personas",
+        "position": [
+          194,
+          205
+        ],
+        "start": 194,
+        "end": 205
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "más de 11",
+        "position": [
+          187,
+          196
+        ],
+        "start": 187,
+        "end": 196
+      }
+    ],
+    "match_count": 16
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Franja de Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Al-Zawaida",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Khan Younis",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Hamás",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Ministerio de Sanidad de la Franja de Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Hamad City",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Hospital Europeo",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Sheikh Radwan",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Fuerzas de Defensa de Israel",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "ONU",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Israel",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "FDI",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Gaza",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "ONU",
+        "relacion": "ATRIBUIR",
+        "objeto": "Israel"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.0,
+    "pos": 0.0,
+    "neu": 1.0,
+    "neg": 0.0,
+    "label": "neutral"
+  }
+}

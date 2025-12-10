@@ -1,0 +1,745 @@
+{
+  "url": "https://www.telesurtv.net/dimite-lider-del-partido-gobernante-de-corea-del-sur/",
+  "title": "Dimite líder del partido gobernante de Corea del Sur - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Corea del Sur",
+    "Dimisión",
+    "Partido Popular del Pueblo"
+  ],
+  "text": "Ante el colapso del Consejo Supremo del gobernante Partido Popular del Pueblo (PPP) de Corea del Sur, el líder del colectivo político, Han Dong-hoon, decidió renunciar a su cargo tras la aprobación de la destitución del presidente del país, Yoon Suk Yeol.\nHan argumentó que no podía cumplir adecuadamente con sus funciones debido a la presión ejercida por la intención de dimitir de cinco miembros electos del Consejo Supremo, a pesar de que al inicio de la crisis política había prometido continuar con sus labores.\nSu renuncia se produce después de la destitución del expresidente Yoon, a la cual él mismo dio su apoyo, en días pasados.\nSegún sus propias palabras, “hice todo lo posible por encontrar un camino mejor para este país que no fuera la destitución”.\nSin embargo, subrayó que no se arrepiente de su decisión, ya que optó por no traicionar a su país y a su pueblo, pase lo que pase.\nDe acuerdo con la agencia de noticias Yonhap, la moción contra Yoon fue aprobada el sábado con 204 votos a favor y 85 en contra, lo que llevó a que doce legisladores del Partido del Pueblo (PPP) se apartaran de la directriz del líder del partido y votaran a favor de la destitución.\nEl cargo que ocupaba Han será asumido por el recién elegido líder del Parlamento, Kweon Seong Dong, quien actuará como dirigente interino del PPP.\nEl nuevo líder tendrá la facultad de nombrar al jefe de un comité de liderazgo de emergencia para la formación política.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/dimite-lider-del-partido-gobernante-de-corea-del-sur/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-12.json",
+    "message_index": 891,
+    "message_id": 82472,
+    "date": "2024-12-16T06:55:07+00:00",
+    "text": "teleSUR\nDimite líder del partido gobernante de Corea del Sur\nhttps://www.telesurtv.net/dimite-lider-del-partido-gobernante-de-corea-del-sur/",
+    "photo_path": null,
+    "views": 2228,
+    "reactions": {
+      "👍": 23,
+      "😁": 4,
+      "🤔": 2
+    },
+    "total_reactions": 29
+  },
+  "preprocessing": {
+    "cleaned": "ante el colapso del consejo supremo del gobernante partido popular del pueblo (ppp) de corea del sur, el líder del colectivo político, han dong-hoon, decidió renunciar a su cargo tras la aprobación de la destitución del presidente del país, yoon suk yeol. han argumentó que no podía cumplir adecuadamente con sus funciones debido a la presión ejercida por la intención de dimitir de cinco miembros electos del consejo supremo, a pesar de que al inicio de la crisis política había prometido continuar con sus labores. su renuncia se produce después de la destitución del expresidente yoon, a la cual él mismo dio su apoyo, en días pasados. según sus propias palabras, “hice todo lo posible por encontrar un camino mejor para este país que no fuera la destitución”. sin embargo, subrayó que no se arrepiente de su decisión, ya que optó por no traicionar a su país y a su pueblo, pase lo que pase. de acuerdo con la agencia de noticias yonhap, la moción contra yoon fue aprobada el sábado con 204 votos a favor y 85 en contra, lo que llevó a que doce legisladores del partido del pueblo (ppp) se apartaran de la directriz del líder del partido y votaran a favor de la destitución. el cargo que ocupaba han será asumido por el recién elegido líder del parlamento, kweon seong dong, quien actuará como dirigente interino del ppp. el nuevo líder tendrá la facultad de nombrar al jefe de un comité de liderazgo de emergencia para la formación política.",
+    "tokens": [
+      "colapso",
+      "consejo",
+      "supremo",
+      "gobernante",
+      "partido",
+      "popular",
+      "pueblo",
+      "(",
+      "ppp",
+      ")",
+      "corea",
+      "sur",
+      ",",
+      "líder",
+      "colectivo",
+      "político",
+      ",",
+      "dong-hoon",
+      ",",
+      "decidió",
+      "renunciar",
+      "cargo",
+      "tras",
+      "aprobación",
+      "destitución",
+      "presidente",
+      "país",
+      ",",
+      "yoon",
+      "suk",
+      "yeol",
+      ".",
+      "argumentó",
+      "podía",
+      "cumplir",
+      "adecuadamente",
+      "funciones",
+      "debido",
+      "presión",
+      "ejercida",
+      "intención",
+      "dimitir",
+      "cinco",
+      "miembros",
+      "electos",
+      "consejo",
+      "supremo",
+      ",",
+      "pesar",
+      "inicio",
+      "crisis",
+      "política",
+      "prometido",
+      "continuar",
+      "labores",
+      ".",
+      "renuncia",
+      "produce",
+      "después",
+      "destitución",
+      "expresidente",
+      "yoon",
+      ",",
+      "mismo",
+      "dio",
+      "apoyo",
+      ",",
+      "días",
+      "pasados",
+      ".",
+      "según",
+      "propias",
+      "palabras",
+      ",",
+      "“",
+      "hice",
+      "posible",
+      "encontrar",
+      "camino",
+      "mejor",
+      "país",
+      "destitución",
+      "”",
+      ".",
+      "embargo",
+      ",",
+      "subrayó",
+      "arrepiente",
+      "decisión",
+      ",",
+      "optó",
+      "traicionar",
+      "país",
+      "pueblo",
+      ",",
+      "pase",
+      "pase",
+      ".",
+      "acuerdo",
+      "agencia",
+      "noticias",
+      "yonhap",
+      ",",
+      "moción",
+      "yoon",
+      "aprobada",
+      "sábado",
+      "204",
+      "votos",
+      "favor",
+      "85",
+      ",",
+      "llevó",
+      "doce",
+      "legisladores",
+      "partido",
+      "pueblo",
+      "(",
+      "ppp",
+      ")",
+      "apartaran",
+      "directriz",
+      "líder",
+      "partido",
+      "votaran",
+      "favor",
+      "destitución",
+      ".",
+      "cargo",
+      "ocupaba",
+      "asumido",
+      "recién",
+      "elegido",
+      "líder",
+      "parlamento",
+      ",",
+      "kweon",
+      "seong",
+      "dong",
+      ",",
+      "actuará",
+      "dirigente",
+      "interino",
+      "ppp",
+      ".",
+      "nuevo",
+      "líder",
+      "facultad",
+      "nombrar",
+      "jefe",
+      "comité",
+      "liderazgo",
+      "emergencia",
+      "formación",
+      "política",
+      "."
+    ],
+    "token_count": 156,
+    "sentence_count": 8
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 36,
+      "CC": 1,
+      "JJ": 20,
+      "NN": 91,
+      "FW": 60,
+      "IN": 8,
+      "JJR": 2,
+      "NNS": 3,
+      "VBP": 4,
+      "VBD": 5,
+      "DT": 4,
+      "VBZ": 4,
+      "RBR": 1,
+      "CD": 2
+    },
+    "bigram_freq": {
+      "NNP-CC": 1,
+      "CC-JJ": 1,
+      "JJ-NN": 12,
+      "NN-NNP": 7,
+      "NNP-NNP": 13,
+      "NNP-FW": 8,
+      "FW-NN": 8,
+      "FW-NNP": 8,
+      "NNP-IN": 1,
+      "IN-NNP": 2,
+      "FW-JJR": 2,
+      "JJR-NN": 2,
+      "NN-NN": 54,
+      "NNP-NN": 9,
+      "NN-NNS": 2,
+      "NNS-VBP": 3,
+      "VBP-FW": 1,
+      "FW-FW": 40,
+      "NNP-VBD": 3,
+      "VBD-JJ": 3,
+      "JJ-DT": 2,
+      "DT-NN": 3,
+      "NN-JJ": 4,
+      "VBP-JJ": 1,
+      "JJ-FW": 1,
+      "NN-FW": 6,
+      "NN-VBZ": 4,
+      "VBZ-NNP": 1,
+      "NN-VBP": 1,
+      "VBP-NN": 1,
+      "FW-JJ": 2,
+      "JJ-NNP": 4,
+      "NN-IN": 7,
+      "IN-NN": 1,
+      "NN-RBR": 1,
+      "RBR-JJ": 1,
+      "NN-DT": 2,
+      "VBZ-JJ": 3,
+      "DT-JJ": 1,
+      "IN-FW": 3,
+      "IN-JJ": 2,
+      "NN-VBD": 2,
+      "JJ-CD": 1,
+      "CD-NNS": 1,
+      "VBP-CD": 1,
+      "CD-JJ": 1,
+      "VBD-FW": 1,
+      "VBD-NN": 1,
+      "NNP-JJ": 1
+    },
+    "trigram_freq": {
+      "NNP-CC-JJ": 1,
+      "CC-JJ-NN": 1,
+      "JJ-NN-NNP": 2,
+      "NN-NNP-NNP": 5,
+      "NNP-NNP-FW": 2,
+      "NNP-FW-NN": 2,
+      "FW-NN-NNP": 1,
+      "NNP-FW-NNP": 3,
+      "FW-NNP-NNP": 4,
+      "NNP-NNP-IN": 1,
+      "NNP-IN-NNP": 1,
+      "IN-NNP-FW": 1,
+      "FW-NNP-FW": 3,
+      "NNP-FW-JJR": 1,
+      "FW-JJR-NN": 2,
+      "JJR-NN-NN": 2,
+      "NN-NN-NN": 31,
+      "NN-NN-NNP": 4,
+      "NNP-NNP-NN": 3,
+      "NNP-NN-NN": 8,
+      "NN-NN-NNS": 2,
+      "NN-NNS-VBP": 2,
+      "NNS-VBP-FW": 1,
+      "VBP-FW-FW": 1,
+      "FW-FW-FW": 29,
+      "FW-FW-NNP": 5,
+      "NNP-NNP-NNP": 4,
+      "NNP-NNP-VBD": 2,
+      "NNP-VBD-JJ": 2,
+      "VBD-JJ-DT": 1,
+      "JJ-DT-NN": 2,
+      "DT-NN-NN": 1,
+      "NN-NN-JJ": 4,
+      "NN-JJ-NN": 4,
+      "JJ-NN-NN": 8,
+      "NNS-VBP-JJ": 1,
+      "VBP-JJ-FW": 1,
+      "JJ-FW-FW": 1,
+      "FW-FW-NN": 4,
+      "FW-NN-FW": 3,
+      "NN-FW-FW": 5,
+      "NNP-NN-FW": 1,
+      "FW-NN-NN": 3,
+      "NN-NN-VBZ": 2,
+      "NN-VBZ-NNP": 1,
+      "VBZ-NNP-NN": 1,
+      "NN-NN-VBP": 1,
+      "NN-VBP-NN": 1,
+      "VBP-NN-FW": 1,
+      "NNP-FW-JJ": 1,
+      "FW-JJ-NNP": 2,
+      "JJ-NNP-NN": 3,
+      "NN-NN-IN": 3,
+      "NN-IN-NN": 1,
+      "IN-NN-NN": 1,
+      "NN-NNP-NN": 1,
+      "NN-NN-RBR": 1,
+      "NN-RBR-JJ": 1,
+      "RBR-JJ-NN": 1,
+      "NN-NN-DT": 2,
+      "NN-DT-NN": 1,
+      "DT-NN-VBZ": 2,
+      "NN-VBZ-JJ": 3,
+      "VBZ-JJ-NNP": 2,
+      "NN-DT-JJ": 1,
+      "DT-JJ-NN": 1,
+      "JJ-NN-IN": 2,
+      "NN-IN-FW": 3,
+      "IN-FW-NN": 1,
+      "NN-IN-JJ": 2,
+      "IN-JJ-DT": 1,
+      "VBZ-JJ-NN": 1,
+      "NN-NNP-FW": 1,
+      "NNP-FW-FW": 1,
+      "FW-FW-JJ": 1,
+      "NN-NN-VBD": 2,
+      "NN-VBD-JJ": 1,
+      "VBD-JJ-CD": 1,
+      "JJ-CD-NNS": 1,
+      "CD-NNS-VBP": 1,
+      "NNS-VBP-CD": 1,
+      "VBP-CD-JJ": 1,
+      "CD-JJ-NN": 1,
+      "JJ-NNP-FW": 1,
+      "NNP-VBD-FW": 1,
+      "VBD-FW-FW": 1,
+      "FW-FW-JJR": 1,
+      "NN-VBD-NN": 1,
+      "VBD-NN-IN": 1,
+      "IN-FW-FW": 2,
+      "FW-NNP-NN": 1,
+      "NN-IN-NNP": 1,
+      "IN-NNP-VBD": 1,
+      "VBD-JJ-NN": 1,
+      "NNP-NNP-JJ": 1,
+      "NNP-JJ-NN": 1,
+      "NN-NN-FW": 1,
+      "FW-NN-IN": 1,
+      "IN-JJ-NN": 1,
+      "NN-FW-NN": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 91,
+        "FW": 60,
+        "NNP": 36,
+        "JJ": 20,
+        "IN": 8
+      },
+      "top_bigrams": {
+        "NN-NN": 54,
+        "FW-FW": 40,
+        "NNP-NNP": 13,
+        "JJ-NN": 12,
+        "NNP-NN": 9
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 31,
+        "FW-FW-FW": 29,
+        "NNP-NN-NN": 8,
+        "JJ-NN-NN": 8,
+        "NN-NNP-NNP": 5
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 8,
+    "chunk_counts": {
+      "NP": 68,
+      "VP": 15,
+      "ADJP": 1,
+      "PP": 2
+    },
+    "top_rules": [
+      {
+        "rule": "NP -> ('Pueblo', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0213
+      },
+      {
+        "rule": "NP -> ('PPP', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0213
+      },
+      {
+        "rule": "NP -> ('Han', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0213
+      },
+      {
+        "rule": "S -> NP ('el', 'CC') NP ('del', 'FW') NP ('del', 'FW') NP ('(', '(') NP (')', ')') ('de', 'FW') NP ('del', 'FW') NP (',', ',') NP (',', ',') NP (',', ',') NP VP VP ('aprobación', 'FW') ('de', 'FW') ('la', 'FW') ('destitución', 'FW') ('del', 'FW') ('presidente', 'FW') ('del', 'FW') NP (',', ',') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0106
+      },
+      {
+        "rule": "NP -> ('Ante', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0106
+      },
+      {
+        "rule": "NP -> ('colapso', 'JJ') ('del', 'NN') ('Consejo', 'NNP') ('Supremo', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0106
+      },
+      {
+        "rule": "NP -> ('gobernante', 'NN') ('Partido', 'NNP') ('Popular', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0106
+      },
+      {
+        "rule": "NP -> ('Corea', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0106
+      },
+      {
+        "rule": "NP -> ('Sur', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0106
+      },
+      {
+        "rule": "NP -> ('el', 'JJ') ('líder', 'NN') ('del', 'NN') ('colectivo', 'NN') ('político', 'NN')",
+        "frequency": 1,
+        "weight": 0.0106
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Ante"
+      },
+      {
+        "label": "NP",
+        "text": "colapso del Consejo Supremo"
+      },
+      {
+        "label": "NP",
+        "text": "gobernante Partido Popular"
+      },
+      {
+        "label": "NP",
+        "text": "Pueblo"
+      },
+      {
+        "label": "NP",
+        "text": "PPP"
+      },
+      {
+        "label": "NP",
+        "text": "Corea"
+      },
+      {
+        "label": "NP",
+        "text": "Sur"
+      },
+      {
+        "label": "NP",
+        "text": "el líder del colectivo político"
+      },
+      {
+        "label": "NP",
+        "text": "Han Dong-hoon"
+      },
+      {
+        "label": "NP",
+        "text": "decidió"
+      },
+      {
+        "label": "VP",
+        "text": "renunciar a su cargo tras"
+      },
+      {
+        "label": "NP",
+        "text": "a su cargo tras"
+      },
+      {
+        "label": "VP",
+        "text": "la"
+      },
+      {
+        "label": "NP",
+        "text": "país"
+      },
+      {
+        "label": "NP",
+        "text": "Yoon Suk Yeol"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Ante/NNP)\n  el/CC\n  (NP colapso/JJ del/NN Consejo/NNP Supremo/NNP)\n  del/FW\n  (NP gobernante/NN Partido/NNP Popular/NNP)\n  del/FW\n  (NP Pueblo/NNP)\n  (/(\n  (NP PPP/NNP)\n  )/)\n  de/FW\n  (NP Corea/NNP)\n  del/FW\n  (NP Sur/NNP)\n  ,/,\n  (NP el/JJ líder/NN del/NN colectivo/NN político/NN)\n  ,/,\n  (NP Han/NNP Dong-hoon/NNP)\n  ,/,\n  (NP decidió/NN)\n  (VP renunciar/VBD (NP a/DT su/NN cargo/NN tras/NNS))\n  (VP la/VBP)\n  aprobación/FW\n  de/FW\n  la/FW\n  destitución/FW\n  del/FW\n  presidente/FW\n  del/FW\n  (NP país/NN)\n  ,/,\n  (NP Yoon/NNP Suk/NNP Yeol/NNP)\n  ./.)",
+      "(S\n  (NP Han/NNP)\n  (VP\n    argumentó/VBZ\n    que/JJ\n    (NP no/DT podía/NN cumplir/NN)\n    (NP adecuadamente/JJ con/NN sus/NN funciones/NNS))\n  (VP debido/VBP (NP a/DT la/NN presión/NN ejercida/NN por/NN))\n  la/FW\n  intención/FW\n  de/FW\n  dimitir/FW\n  de/FW\n  cinco/FW\n  miembros/FW\n  electos/FW\n  del/FW\n  (NP Consejo/NNP Supremo/NNP)\n  ,/,\n  (NP a/DT pesar/NN)\n  de/IN\n  que/FW\n  (ADJP al/JJ)\n  inicio/FW\n  de/FW\n  la/FW\n  (NP\n    crisis/NN\n    política/NN\n    había/NN\n    prometido/NN\n    continuar/NN\n    con/NN\n    sus/NN)\n  (VP labores/VBZ)\n  ./.)",
+      "(S\n  (NP Su/NNP renuncia/NN se/NN)\n  (VP produce/VBP (NP después/NN))\n  de/FW\n  la/FW\n  destitución/FW\n  del/FW\n  expresidente/FW\n  (NP Yoon/NNP)\n  ,/,\n  a/DT\n  la/FW\n  (NP cual/JJ él/NNP mismo/NN dio/NN su/NN apoyo/NN)\n  ,/,\n  en/FW\n  (NP días/NN pasados/NN)\n  ./.)",
+      "(S\n  (NP Según/NNP sus/NN propias/NN palabras/NNS)\n  ,/,\n  (NP “/NNP hice/NN todo/NN)\n  lo/RBR\n  (NP posible/JJ por/NN encontrar/NN)\n  (NP un/JJ camino/NN mejor/NN para/NN este/NN país/NN que/NN)\n  (NP no/DT fuera/NN)\n  (VP la/VBZ (NP destitución/JJ ”/NN))\n  ./.)",
+      "(S\n  (NP Sin/NNP embargo/NN)\n  ,/,\n  (NP subrayó/NN que/NN)\n  (NP no/DT se/JJ arrepiente/NN)\n  de/IN\n  su/FW\n  (NP decisión/NN)\n  ,/,\n  ya/PRP\n  (VP\n    que/VBP\n    (NP optó/JJ por/NN)\n    (NP no/DT traicionar/NN)\n    (NP a/DT su/NN país/NN))\n  (VP y/VBZ (NP a/DT su/NN pueblo/NN))\n  ,/,\n  (NP pase/NN lo/NN que/NN pase/NN)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "GOBIERNOS_OFICIALES",
+      "LEYES_NORMATIVAS",
+      "APROBACION_RECHAZO",
+      "CANTIDADES_NUMERICAS",
+      "ANTIIMPERIALISMO_SOBERANIA",
+      "INSTITUCIONES_EDUCATIVAS",
+      "RELACIONES_INTERNACIONALES"
+    ],
+    "matches": [
+      {
+        "category": "RELACIONES_INTERNACIONALES",
+        "matched_text": "acuerdo con la agencia de noticias yonhap, la moción contra yoon fue aprobada el sábado con 204 votos a favor y 85 en",
+        "position": [
+          898,
+          1015
+        ],
+        "start": 898,
+        "end": 1015
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente del país",
+        "position": [
+          220,
+          239
+        ],
+        "start": 220,
+        "end": 239
+      },
+      {
+        "category": "INSTITUCIONES_EDUCATIVAS",
+        "matched_text": "facultad de nombrar",
+        "position": [
+          1350,
+          1369
+        ],
+        "start": 1350,
+        "end": 1369
+      },
+      {
+        "category": "APROBACION_RECHAZO",
+        "matched_text": "subrayó",
+        "position": [
+          777,
+          784
+        ],
+        "start": 777,
+        "end": 784
+      },
+      {
+        "category": "LEYES_NORMATIVAS",
+        "matched_text": "acuerdo con la agencia de noticias yonhap, la moción contra yoon fue aprobada el sábado con 204",
+        "position": [
+          898,
+          993
+        ],
+        "start": 898,
+        "end": 993
+      },
+      {
+        "category": "LEYES_NORMATIVAS",
+        "matched_text": "directriz",
+        "position": [
+          1109,
+          1118
+        ],
+        "start": 1109,
+        "end": 1118
+      },
+      {
+        "category": "ANTIIMPERIALISMO_SOBERANIA",
+        "matched_text": "embargo",
+        "position": [
+          768,
+          775
+        ],
+        "start": 768,
+        "end": 775
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "204 votos",
+        "position": [
+          990,
+          999
+        ],
+        "start": 990,
+        "end": 999
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "85 en contra",
+        "position": [
+          1010,
+          1022
+        ],
+        "start": 1010,
+        "end": 1022
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "con 204 votos a favor",
+        "position": [
+          986,
+          1007
+        ],
+        "start": 986,
+        "end": 1007
+      }
+    ],
+    "match_count": 10
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Consejo Supremo",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Han Dong-hoon",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Partido del Pueblo",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Parlamento",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Yoon",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Yoon Suk Yeol",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Kweon Seong Dong",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Partido Popular del Pueblo",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Yonhap",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Corea del Sur",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Han",
+        "tipo": "Persona"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Consejo Supremo",
+        "relacion": "DECIDIR",
+        "objeto": "Han Dong-hoon"
+      },
+      {
+        "sujeto": "Consejo Supremo",
+        "relacion": "DECIDIR",
+        "objeto": "Yoon Suk Yeol"
+      },
+      {
+        "sujeto": "Partido Popular del Pueblo",
+        "relacion": "DECIDIR",
+        "objeto": "Han Dong-hoon"
+      },
+      {
+        "sujeto": "Partido Popular del Pueblo",
+        "relacion": "DECIDIR",
+        "objeto": "Yoon Suk Yeol"
+      },
+      {
+        "sujeto": "Corea del Sur",
+        "relacion": "DECIDIR",
+        "objeto": "Han Dong-hoon"
+      },
+      {
+        "sujeto": "Corea del Sur",
+        "relacion": "DECIDIR",
+        "objeto": "Yoon Suk Yeol"
+      },
+      {
+        "sujeto": "Han Dong-hoon",
+        "relacion": "DECIDIR",
+        "objeto": "Yoon Suk Yeol"
+      },
+      {
+        "sujeto": "Yonhap",
+        "relacion": "APROBAR",
+        "objeto": "Yoon"
+      },
+      {
+        "sujeto": "Yonhap",
+        "relacion": "APROBAR",
+        "objeto": "Partido del Pueblo"
+      },
+      {
+        "sujeto": "Yoon",
+        "relacion": "APROBAR",
+        "objeto": "Partido del Pueblo"
+      },
+      {
+        "sujeto": "Han",
+        "relacion": "ASUMIR",
+        "objeto": "Parlamento"
+      },
+      {
+        "sujeto": "Han",
+        "relacion": "ASUMIR",
+        "objeto": "Kweon Seong Dong"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.3612,
+    "pos": 0.054,
+    "neu": 0.883,
+    "neg": 0.063,
+    "label": "negative"
+  }
+}

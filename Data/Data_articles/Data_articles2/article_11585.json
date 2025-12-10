@@ -1,0 +1,765 @@
+{
+  "url": "https://www.telesurtv.net/ataque-israeli-a-escuela-deja-15-fallecidos-en-el-norte-de-gaza/",
+  "title": "Ataque israelí a escuela deja 15 fallecidos en el norte de Gaza - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Beit Hanoon",
+    "Khalil Oweida",
+    "Masacre israelí",
+    "Ministerio de Salud gazatí",
+    "Muertos"
+  ],
+  "text": "La agencia de noticias palestina WAFA confirmó hoy 15 muertes, incluidas mujeres y niños refugiados, como saldo de un asalto este domingo de las fuerzas israelíes a la escuela Khalil Oweida en Beit Hanoon (al norte de Gaza), así como varios heridos en estado grave.\nLEA TAMBIÉN\nAumenta la cifra de niños palestinos asesinados por Israel\nDe acuerdo con el reporte, entre las víctimas mortales se incluye una familia de cuatro personas, incluidos dos niños, después de que el aula donde estaban refugiados recibiera un “impacto directo” de fuego de artillería.\nLas tropas sionistas rodearon la zona con tanques y vehículos blindados y bombardearon con artillería pesada el edificio, que funcionaba como refugio para gazatíes desplazados ante la ocupación israelí a territorio palestino, así lo informa el sitio web de Al Jazeera.\n“Muchos de los heridos se encuentran en el patio de la escuela y en el interior de otras aulas. No pueden recibir tratamiento porque ninguno de los hospitales de Beit Hanoon está operativo”, señaló el periodista Hani Mahmoud, del referido medio árabe.\nEl Ministerio de Salud gazatí ha registrado 46 palestinos asesinados en el enclave durante las últimas 24 horas, como saldo de cinco masacres sionistas. El mayor número de víctimas proviene del barrio Sheikh Radwan, al sur de la ciudad, con 14 reportados.\nPor su parte, el centro del territorio aportó cuatro mártires tras el ataque a una casa, mientras que Khan Younis sufrió igual número de víctimas fatales desde Shujayea. El balance más reciente agrega que 135 personas resultaron heridas en los ataques de las primeras horas de este domingo.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/ataque-israeli-a-escuela-deja-15-fallecidos-en-el-norte-de-gaza/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-12.json",
+    "message_index": 945,
+    "message_id": 82414,
+    "date": "2024-12-15T12:55:12+00:00",
+    "text": "teleSUR\nAtaque israelí a escuela deja 15 fallecidos en el norte de Gaza\nhttps://www.telesurtv.net/ataque-israeli-a-escuela-deja-15-fallecidos-en-el-norte-de-gaza/",
+    "photo_path": null,
+    "views": 2027,
+    "reactions": {
+      "🤬": 29,
+      "👎": 7,
+      "😢": 5,
+      "💩": 2,
+      "👍": 1
+    },
+    "total_reactions": 44
+  },
+  "preprocessing": {
+    "cleaned": "la agencia de noticias palestina wafa confirmó hoy 15 muertes, incluidas mujeres y niños refugiados, como saldo de un asalto este domingo de las fuerzas israelíes a la escuela khalil oweida en beit hanoon (al norte de gaza), así como varios heridos en estado grave. de acuerdo con el reporte, entre las víctimas mortales se incluye una familia de cuatro personas, incluidos dos niños, después de que el aula donde estaban refugiados recibiera un “impacto directo” de fuego de artillería. las tropas sionistas rodearon la zona con tanques y vehículos blindados y bombardearon con artillería pesada el edificio, que funcionaba como refugio para gazatíes desplazados ante la ocupación israelí a territorio palestino, así lo informa el sitio web de al jazeera. “muchos de los heridos se encuentran en el patio de la escuela y en el interior de otras aulas. no pueden recibir tratamiento porque ninguno de los hospitales de beit hanoon está operativo”, señaló el periodista hani mahmoud, del referido medio árabe. el ministerio de salud gazatí ha registrado 46 palestinos asesinados en el enclave durante las últimas 24 horas, como saldo de cinco masacres sionistas. el mayor número de víctimas proviene del barrio sheikh radwan, al sur de la ciudad, con 14 reportados. por su parte, el centro del territorio aportó cuatro mártires tras el ataque a una casa, mientras que khan younis sufrió igual número de víctimas fatales desde shujayea. el balance más reciente agrega que 135 personas resultaron heridas en los ataques de las primeras horas de este domingo.",
+    "tokens": [
+      "agencia",
+      "noticias",
+      "palestina",
+      "wafa",
+      "confirmó",
+      "hoy",
+      "15",
+      "muertes",
+      ",",
+      "incluidas",
+      "mujeres",
+      "niños",
+      "refugiados",
+      ",",
+      "saldo",
+      "asalto",
+      "domingo",
+      "fuerzas",
+      "israelíes",
+      "escuela",
+      "khalil",
+      "oweida",
+      "beit",
+      "hanoon",
+      "(",
+      "norte",
+      "gaza",
+      ")",
+      ",",
+      "así",
+      "varios",
+      "heridos",
+      "grave",
+      ".",
+      "acuerdo",
+      "reporte",
+      ",",
+      "víctimas",
+      "mortales",
+      "incluye",
+      "familia",
+      "cuatro",
+      "personas",
+      ",",
+      "incluidos",
+      "dos",
+      "niños",
+      ",",
+      "después",
+      "aula",
+      "refugiados",
+      "recibiera",
+      "“",
+      "impacto",
+      "directo",
+      "”",
+      "fuego",
+      "artillería",
+      ".",
+      "tropas",
+      "sionistas",
+      "rodearon",
+      "zona",
+      "tanques",
+      "vehículos",
+      "blindados",
+      "bombardearon",
+      "artillería",
+      "pesada",
+      "edificio",
+      ",",
+      "funcionaba",
+      "refugio",
+      "gazatíes",
+      "desplazados",
+      "ocupación",
+      "israelí",
+      "territorio",
+      "palestino",
+      ",",
+      "así",
+      "informa",
+      "sitio",
+      "web",
+      "jazeera",
+      ".",
+      "“",
+      "heridos",
+      "encuentran",
+      "patio",
+      "escuela",
+      "interior",
+      "aulas",
+      ".",
+      "pueden",
+      "recibir",
+      "tratamiento",
+      "ninguno",
+      "hospitales",
+      "beit",
+      "hanoon",
+      "operativo",
+      "”",
+      ",",
+      "señaló",
+      "periodista",
+      "hani",
+      "mahmoud",
+      ",",
+      "referido",
+      "medio",
+      "árabe",
+      ".",
+      "ministerio",
+      "salud",
+      "gazatí",
+      "registrado",
+      "46",
+      "palestinos",
+      "asesinados",
+      "enclave",
+      "últimas",
+      "24",
+      "horas",
+      ",",
+      "saldo",
+      "cinco",
+      "masacres",
+      "sionistas",
+      ".",
+      "mayor",
+      "número",
+      "víctimas",
+      "proviene",
+      "barrio",
+      "sheikh",
+      "radwan",
+      ",",
+      "sur",
+      "ciudad",
+      ",",
+      "14",
+      "reportados",
+      ".",
+      "parte",
+      ",",
+      "centro",
+      "territorio",
+      "aportó",
+      "cuatro",
+      "mártires",
+      "tras",
+      "ataque",
+      "casa",
+      ",",
+      "mientras",
+      "khan",
+      "younis",
+      "sufrió",
+      "igual",
+      "número",
+      "víctimas",
+      "fatales",
+      "shujayea",
+      ".",
+      "balance",
+      "reciente",
+      "agrega",
+      "135",
+      "personas",
+      "resultaron",
+      "heridas",
+      "ataques",
+      "primeras",
+      "horas",
+      "domingo",
+      "."
+    ],
+    "token_count": 177,
+    "sentence_count": 9
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 33,
+      "FW": 67,
+      "NN": 75,
+      "CD": 5,
+      "NNS": 16,
+      "JJ": 24,
+      "VBP": 14,
+      "IN": 13,
+      "VBD": 6,
+      "VBZ": 1,
+      "DT": 1,
+      "VBN": 1,
+      "$": 1
+    },
+    "bigram_freq": {
+      "NNP-FW": 5,
+      "FW-FW": 41,
+      "FW-NNP": 7,
+      "NNP-NN": 7,
+      "NN-NN": 40,
+      "NN-CD": 2,
+      "CD-NNS": 4,
+      "NNS-JJ": 3,
+      "JJ-NNS": 1,
+      "NNS-VBP": 11,
+      "VBP-JJ": 7,
+      "JJ-NN": 14,
+      "NN-IN": 10,
+      "IN-JJ": 1,
+      "JJ-JJ": 4,
+      "IN-FW": 7,
+      "FW-JJ": 3,
+      "NN-FW": 7,
+      "NNP-NNP": 15,
+      "NNP-VBD": 4,
+      "VBD-FW": 2,
+      "NN-NNS": 5,
+      "VBP-IN": 1,
+      "IN-NN": 3,
+      "NN-VBP": 2,
+      "VBP-NNP": 4,
+      "FW-NN": 9,
+      "FW-NNS": 5,
+      "NN-JJ": 2,
+      "VBP-NN": 1,
+      "IN-NNP": 2,
+      "NNP-IN": 2,
+      "FW-VBZ": 1,
+      "VBZ-DT": 1,
+      "DT-JJ": 1,
+      "NNS-FW": 1,
+      "VBD-JJ": 3,
+      "NN-NNP": 4,
+      "NN-VBD": 2,
+      "VBD-CD": 1,
+      "JJ-FW": 4,
+      "FW-VBP": 1,
+      "VBP-VBN": 1,
+      "VBN-NNS": 1,
+      "NNS-$": 1,
+      "$-CD": 1,
+      "CD-NN": 1,
+      "JJ-CD": 1
+    },
+    "trigram_freq": {
+      "NNP-FW-FW": 2,
+      "FW-FW-FW": 27,
+      "FW-FW-NNP": 4,
+      "FW-NNP-NN": 3,
+      "NNP-NN-NN": 6,
+      "NN-NN-CD": 1,
+      "NN-CD-NNS": 1,
+      "CD-NNS-JJ": 3,
+      "NNS-JJ-NNS": 1,
+      "JJ-NNS-VBP": 1,
+      "NNS-VBP-JJ": 6,
+      "VBP-JJ-NN": 4,
+      "JJ-NN-NN": 8,
+      "NN-NN-IN": 7,
+      "NN-IN-JJ": 1,
+      "IN-JJ-JJ": 1,
+      "JJ-JJ-NN": 4,
+      "NN-IN-FW": 6,
+      "IN-FW-JJ": 3,
+      "FW-JJ-NN": 2,
+      "NN-NN-FW": 5,
+      "NN-FW-NNP": 1,
+      "FW-NNP-NNP": 4,
+      "NNP-NNP-FW": 4,
+      "NNP-FW-NNP": 1,
+      "NNP-NNP-VBD": 4,
+      "NNP-VBD-FW": 2,
+      "VBD-FW-FW": 2,
+      "NN-NN-NNS": 1,
+      "NN-NNS-VBP": 5,
+      "NNS-VBP-IN": 1,
+      "VBP-IN-NN": 1,
+      "IN-NN-VBP": 1,
+      "NN-VBP-NNP": 1,
+      "VBP-NNP-NNP": 3,
+      "NNP-NNP-NNP": 4,
+      "NNP-FW-NN": 2,
+      "FW-NN-NN": 5,
+      "NN-NN-NN": 20,
+      "NN-FW-FW": 4,
+      "FW-FW-NNS": 4,
+      "FW-NNS-VBP": 4,
+      "VBP-JJ-JJ": 2,
+      "JJ-NN-FW": 1,
+      "JJ-NN-IN": 3,
+      "IN-FW-FW": 3,
+      "FW-FW-NN": 4,
+      "NN-NN-JJ": 1,
+      "NN-JJ-JJ": 1,
+      "NNP-NN-NNS": 1,
+      "NNS-VBP-NN": 1,
+      "VBP-NN-FW": 1,
+      "NN-FW-NN": 2,
+      "FW-NN-NNS": 1,
+      "NN-IN-NN": 2,
+      "IN-NN-NN": 1,
+      "NN-NN-VBP": 1,
+      "NN-VBP-JJ": 1,
+      "NN-IN-NNP": 1,
+      "IN-NNP-NNP": 1,
+      "NNP-NNP-IN": 2,
+      "NNP-IN-FW": 1,
+      "FW-FW-VBZ": 1,
+      "FW-VBZ-DT": 1,
+      "VBZ-DT-JJ": 1,
+      "DT-JJ-NN": 1,
+      "FW-NNS-FW": 1,
+      "NNS-FW-NNP": 1,
+      "NNP-VBD-JJ": 2,
+      "VBD-JJ-NN": 2,
+      "NN-NN-NNP": 2,
+      "NN-NNP-NNP": 3,
+      "NNP-IN-NNP": 1,
+      "IN-NNP-NN": 1,
+      "NN-NN-VBD": 2,
+      "NN-VBD-CD": 1,
+      "VBD-CD-NNS": 1,
+      "NNS-JJ-FW": 2,
+      "JJ-FW-FW": 3,
+      "FW-FW-VBP": 1,
+      "FW-VBP-VBN": 1,
+      "VBP-VBN-NNS": 1,
+      "VBN-NNS-$": 1,
+      "NNS-$-CD": 1,
+      "$-CD-NNS": 1,
+      "NNS-VBP-NNP": 3,
+      "VBP-NNP-NN": 1,
+      "FW-JJ-FW": 1,
+      "JJ-FW-NN": 1,
+      "FW-NN-NNP": 1,
+      "FW-NN-CD": 1,
+      "NN-CD-NN": 1,
+      "CD-NN-NNP": 1,
+      "NN-NNP-NN": 1,
+      "IN-NN-NNS": 1,
+      "JJ-NN-JJ": 1,
+      "NN-JJ-NN": 1,
+      "JJ-NN-NNS": 1,
+      "IN-FW-NNS": 1,
+      "NNP-NNP-NN": 1,
+      "NN-VBD-JJ": 1,
+      "VBD-JJ-CD": 1,
+      "JJ-CD-NNS": 1,
+      "CD-NNS-VBP": 1,
+      "VBP-JJ-FW": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 75,
+        "FW": 67,
+        "NNP": 33,
+        "JJ": 24,
+        "NNS": 16
+      },
+      "top_bigrams": {
+        "FW-FW": 41,
+        "NN-NN": 40,
+        "NNP-NNP": 15,
+        "JJ-NN": 14,
+        "NNS-VBP": 11
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 27,
+        "NN-NN-NN": 20,
+        "JJ-NN-NN": 8,
+        "NN-NN-IN": 7,
+        "NNP-NN-NN": 6
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 9,
+    "chunk_counts": {
+      "NP": 63,
+      "VP": 17,
+      "PP": 7,
+      "ADJP": 4
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 4,
+        "weight": 0.04
+      },
+      {
+        "rule": "VP -> ('y', 'VBP') NP",
+        "frequency": 2,
+        "weight": 0.02
+      },
+      {
+        "rule": "NP -> ('Beit', 'NNP') ('Hanoon', 'NNP')",
+        "frequency": 2,
+        "weight": 0.02
+      },
+      {
+        "rule": "NP -> ('personas', 'NNS')",
+        "frequency": 2,
+        "weight": 0.02
+      },
+      {
+        "rule": "S -> NP ('agencia', 'FW') ('de', 'FW') ('noticias', 'FW') ('palestina', 'FW') NP ('15', 'CD') NP (',', ',') NP VP (',', ',') NP PP ('de', 'IN') ('las', 'FW') ADJP ('israelíes', 'FW') NP ('escuela', 'FW') NP ('en', 'FW') NP ('(', '(') ADJP ('norte', 'FW') ('de', 'FW') NP (')', ')') (',', ',') NP VP PP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.01
+      },
+      {
+        "rule": "NP -> ('La', 'NNP')",
+        "frequency": 1,
+        "weight": 0.01
+      },
+      {
+        "rule": "NP -> ('WAFA', 'NNP') ('confirmó', 'NN') ('hoy', 'NN')",
+        "frequency": 1,
+        "weight": 0.01
+      },
+      {
+        "rule": "NP -> ('muertes', 'NNS')",
+        "frequency": 1,
+        "weight": 0.01
+      },
+      {
+        "rule": "NP -> ('incluidas', 'JJ') ('mujeres', 'NNS')",
+        "frequency": 1,
+        "weight": 0.01
+      },
+      {
+        "rule": "NP -> ('niños', 'JJ') ('refugiados', 'NN')",
+        "frequency": 1,
+        "weight": 0.01
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "La"
+      },
+      {
+        "label": "NP",
+        "text": "WAFA confirmó hoy"
+      },
+      {
+        "label": "NP",
+        "text": "muertes"
+      },
+      {
+        "label": "NP",
+        "text": "incluidas mujeres"
+      },
+      {
+        "label": "VP",
+        "text": "y niños refugiados"
+      },
+      {
+        "label": "NP",
+        "text": "niños refugiados"
+      },
+      {
+        "label": "NP",
+        "text": "como saldo"
+      },
+      {
+        "label": "PP",
+        "text": "de un asalto este domingo"
+      },
+      {
+        "label": "NP",
+        "text": "un asalto este domingo"
+      },
+      {
+        "label": "ADJP",
+        "text": "fuerzas"
+      },
+      {
+        "label": "NP",
+        "text": "a la"
+      },
+      {
+        "label": "NP",
+        "text": "Khalil Oweida"
+      },
+      {
+        "label": "NP",
+        "text": "Beit Hanoon"
+      },
+      {
+        "label": "ADJP",
+        "text": "al"
+      },
+      {
+        "label": "NP",
+        "text": "Gaza"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP La/NNP)\n  agencia/FW\n  de/FW\n  noticias/FW\n  palestina/FW\n  (NP WAFA/NNP confirmó/NN hoy/NN)\n  15/CD\n  (NP muertes/NNS)\n  ,/,\n  (NP incluidas/JJ mujeres/NNS)\n  (VP y/VBP (NP niños/JJ refugiados/NN))\n  ,/,\n  (NP como/JJ saldo/NN)\n  (PP de/IN (NP un/JJ asalto/JJ este/NN domingo/NN))\n  de/IN\n  las/FW\n  (ADJP fuerzas/JJ)\n  israelíes/FW\n  (NP a/DT la/NN)\n  escuela/FW\n  (NP Khalil/NNP Oweida/NNP)\n  en/FW\n  (NP Beit/NNP Hanoon/NNP)\n  (/(\n  (ADJP al/JJ)\n  norte/FW\n  de/FW\n  (NP Gaza/NNP)\n  )/)\n  ,/,\n  (NP así/JJ como/NN varios/NNS)\n  (VP heridos/VBP)\n  (PP en/IN (NP estado/NN grave/NN))\n  ./.)",
+      "(S\n  (NP LEA/NNP TAMBIÉN/NNP Aumenta/NNP la/NNP)\n  cifra/FW\n  de/FW\n  niños/FW\n  palestinos/FW\n  asesinados/FW\n  por/FW\n  (NP Israel/NNP De/NNP)\n  acuerdo/FW\n  (NP con/NN el/NN reporte/NN)\n  ,/,\n  entre/FW\n  las/FW\n  víctimas/FW\n  (NP mortales/NNS)\n  (VP se/VBP (NP incluye/JJ una/JJ familia/NN))\n  de/FW\n  cuatro/FW\n  (NP personas/NNS)\n  ,/,\n  (NP incluidos/JJ dos/NN niños/NN)\n  ,/,\n  después/FW\n  de/FW\n  que/FW\n  el/FW\n  (NP aula/NN donde/NN estaban/NN refugiados/NN recibiera/NN)\n  (NP un/JJ “/NNP impacto/NN directo/NN ”/NNP)\n  de/FW\n  fuego/FW\n  de/FW\n  artillería/FW\n  ./.)",
+      "(S\n  (NP Las/NNP tropas/NN sionistas/NNS)\n  (VP rodearon/VBP (NP la/NN))\n  zona/FW\n  (NP con/NN tanques/NNS)\n  (VP\n    y/VBP\n    (NP vehículos/JJ blindados/NN y/NN bombardearon/NN con/NN))\n  (PP artillería/IN (NP pesada/NN el/NN edificio/NN))\n  ,/,\n  (NP\n    que/JJ\n    funcionaba/NN\n    como/NN\n    refugio/NN\n    para/NN\n    gazatíes/NN\n    desplazados/NN\n    ante/NN)\n  la/FW\n  ocupación/FW\n  (VP israelí/VB (NP a/DT territorio/NN palestino/NN))\n  ,/,\n  (NP así/JJ lo/NN informa/NN el/NN sitio/NN web/NN)\n  (PP de/IN (NP Al/NNP Jazeera/NNP))\n  ./.)",
+      "(S\n  (NP “/JJ Muchos/NNP)\n  de/FW\n  los/FW\n  heridos/FW\n  se/FW\n  encuentran/FW\n  en/FW\n  el/FW\n  patio/FW\n  de/FW\n  la/FW\n  escuela/FW\n  y/FW\n  en/FW\n  el/FW\n  interior/FW\n  de/FW\n  otras/FW\n  (NP aulas/NNS)\n  ./.)",
+      "(S\n  (NP No/DT pueden/JJ recibir/NN tratamiento/NN porque/NN)\n  ninguno/FW\n  de/FW\n  los/FW\n  (NP hospitales/NNS)\n  de/FW\n  (NP Beit/NNP Hanoon/NNP)\n  (VP está/VBD (NP operativo/JJ ”/NNP))\n  ,/,\n  (NP señaló/NN el/NN periodista/NN Hani/NNP Mahmoud/NNP)\n  ,/,\n  (NP del/NN referido/NN medio/NN árabe/NN)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "GRUPOS_ESPECIFICOS",
+      "CANTIDADES_NUMERICAS",
+      "TIEMPO_RELATIVO",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "MEDIOS_COMUNICACION",
+      "REGIONES_PROVINCIAS",
+      "INSTITUCIONES_EDUCATIVAS",
+      "PAISES",
+      "LOCALIZACIONES_ESPECIFICAS",
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "CONFLICTOS_ARMADOS_OPERACIONES",
+      "INFRAESTRUCTURA_SERVICIOS"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "ocupación israelí a territorio",
+        "position": [
+          743,
+          773
+        ],
+        "start": 743,
+        "end": 773
+      },
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "fuego de artillería",
+        "position": [
+          538,
+          557
+        ],
+        "start": 538,
+        "end": 557
+      },
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "ocupación",
+        "position": [
+          743,
+          752
+        ],
+        "start": 743,
+        "end": 752
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "señaló",
+        "position": [
+          1019,
+          1025
+        ],
+        "start": 1019,
+        "end": 1025
+      },
+      {
+        "category": "GRUPOS_ESPECIFICOS",
+        "matched_text": "mujeres",
+        "position": [
+          73,
+          80
+        ],
+        "start": 73,
+        "end": 80
+      },
+      {
+        "category": "INSTITUCIONES_EDUCATIVAS",
+        "matched_text": "escuela khalil oweida",
+        "position": [
+          168,
+          189
+        ],
+        "start": 168,
+        "end": 189
+      },
+      {
+        "category": "MEDIOS_COMUNICACION",
+        "matched_text": "periodista hani mahmoud",
+        "position": [
+          1029,
+          1052
+        ],
+        "start": 1029,
+        "end": 1052
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "escuela",
+        "position": [
+          168,
+          175
+        ],
+        "start": 168,
+        "end": 175
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "palestina",
+        "position": [
+          23,
+          32
+        ],
+        "start": 23,
+        "end": 32
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "estado grave",
+        "position": [
+          252,
+          264
+        ],
+        "start": 252,
+        "end": 264
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "barrio sheikh",
+        "position": [
+          1274,
+          1287
+        ],
+        "start": 1274,
+        "end": 1287
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "edificio, que",
+        "position": [
+          671,
+          684
+        ],
+        "start": 671,
+        "end": 684
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "escuela khalil",
+        "position": [
+          168,
+          182
+        ],
+        "start": 168,
+        "end": 182
+      },
+      {
+        "category": "TIEMPO_RELATIVO",
+        "matched_text": "hoy",
+        "position": [
+          47,
+          50
+        ],
+        "start": 47,
+        "end": 50
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "135 personas",
+        "position": [
+          1541,
+          1553
+        ],
+        "start": 1541,
+        "end": 1553
+      }
+    ],
+    "match_count": 15
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Khalil Oweida",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Khan Younis",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Al Jazeera",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Hani Mahmoud",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Shujayea",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Israel",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Beit Hanoon",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Ministerio de Salud",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Khan Younis",
+        "relacion": "SUFRIR",
+        "objeto": "Shujayea"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.34,
+    "pos": 0.009,
+    "neu": 0.972,
+    "neg": 0.018,
+    "label": "negative"
+  }
+}

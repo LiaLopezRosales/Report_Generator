@@ -1,0 +1,742 @@
+{
+  "url": "https://www.telesurtv.net/nuevo-primer-ministro-de-haiti-asume-el-cargo/",
+  "title": "Nuevo primer ministro de Haití asume el cargo - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "Garry Conille",
+    "Haití",
+    "Primer ministro",
+    "Toma posesión"
+  ],
+  "text": "\nEl nuevo primer ministro de Haití, Garry Conille, tomó este miércoles posesión del cargo junto con su gabinete en un acto realizado en Puerto Príncipe (capital).\n\nLa investidura del primer ministro se realizó un día después de la publicación del decreto de nombramiento del gabinete en el diario oficial, Le Moniteur.\nEn la ceremonia, tanto Conille como el presidente del Consejo Presidencial de Transición, Edgard Leblanc Fils, expresaron su compromiso de celebrar elecciones honestas, democráticas y creíbles en el país.\nAdemás, manifestaron su disposición de establecer las instituciones necesarias y restablecer un clima de paz en la nación.\n\nEl Gobierno estará integrado por 18 carteras y contará con 14 ministros, algunos de ellos llevarán dos instancias, entre ellos cuatro mujeres.\nEl primer ministro también encabezará el ente de Interior y Comunidades Territoriales; asimismo, Carlos Hércule es el ministro de Justicia y Seguridad Pública; Dominique Dupuy dirigirá el Ministerio de Asuntos Exteriores y Asuntos Religiosos y la cartera de los Haitianos Residentes en el Extranjero; Ketleen Florestal liderará Economía y Finanzas, mientras que Jean Marc Berthier estará en la cartera de Defensa.\nConille fue designado en el cargo a finales de mayo pasado. Ya ejerció como primer ministro de Haití entre 2011 y 2012; y desde 2023 estuvo en la dirección regional del Fondo de Naciones Unidas para la Infancia (Unicef) para América Latina y el Caribe.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/nuevo-primer-ministro-de-haiti-asume-el-cargo/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-06.json",
+    "message_index": 629,
+    "message_id": 72114,
+    "date": "2024-06-12T23:55:07+00:00",
+    "text": "teleSURtv.net\nNuevo primer ministro de Haití asume el cargo\nhttps://www.telesurtv.net/nuevo-primer-ministro-de-haiti-asume-el-cargo/",
+    "photo_path": null,
+    "views": 1534,
+    "reactions": {},
+    "total_reactions": 0
+  },
+  "preprocessing": {
+    "cleaned": "el nuevo primer ministro de haití, garry conille, tomó este miércoles posesión del cargo junto con su gabinete en un acto realizado en puerto príncipe (capital). la investidura del primer ministro se realizó un día después de la publicación del decreto de nombramiento del gabinete en el diario oficial, le moniteur. en la ceremonia, tanto conille como el presidente del consejo presidencial de transición, edgard leblanc fils, expresaron su compromiso de celebrar elecciones honestas, democráticas y creíbles en el país. además, manifestaron su disposición de establecer las instituciones necesarias y restablecer un clima de paz en la nación. el gobierno estará integrado por 18 carteras y contará con 14 ministros, algunos de ellos llevarán dos instancias, entre ellos cuatro mujeres. el primer ministro también encabezará el ente de interior y comunidades territoriales; asimismo, carlos hércule es el ministro de justicia y seguridad pública; dominique dupuy dirigirá el ministerio de asuntos exteriores y asuntos religiosos y la cartera de los haitianos residentes en el extranjero; ketleen florestal liderará economía y finanzas, mientras que jean marc berthier estará en la cartera de defensa. conille fue designado en el cargo a finales de mayo pasado. ya ejerció como primer ministro de haití entre 2011 y 2012; y desde 2023 estuvo en la dirección regional del fondo de naciones unidas para la infancia (unicef) para américa latina y el caribe.",
+    "tokens": [
+      "nuevo",
+      "primer",
+      "ministro",
+      "haití",
+      ",",
+      "garry",
+      "conille",
+      ",",
+      "tomó",
+      "miércoles",
+      "posesión",
+      "cargo",
+      "junto",
+      "gabinete",
+      "acto",
+      "realizado",
+      "puerto",
+      "príncipe",
+      "(",
+      "capital",
+      ")",
+      ".",
+      "investidura",
+      "primer",
+      "ministro",
+      "realizó",
+      "día",
+      "después",
+      "publicación",
+      "decreto",
+      "nombramiento",
+      "gabinete",
+      "diario",
+      "oficial",
+      ",",
+      "moniteur",
+      ".",
+      "ceremonia",
+      ",",
+      "conille",
+      "presidente",
+      "consejo",
+      "presidencial",
+      "transición",
+      ",",
+      "edgard",
+      "leblanc",
+      "fils",
+      ",",
+      "expresaron",
+      "compromiso",
+      "celebrar",
+      "elecciones",
+      "honestas",
+      ",",
+      "democráticas",
+      "creíbles",
+      "país",
+      ".",
+      "además",
+      ",",
+      "manifestaron",
+      "disposición",
+      "establecer",
+      "instituciones",
+      "necesarias",
+      "restablecer",
+      "clima",
+      "paz",
+      "nación",
+      ".",
+      "gobierno",
+      "integrado",
+      "18",
+      "carteras",
+      "contará",
+      "14",
+      "ministros",
+      ",",
+      "llevarán",
+      "dos",
+      "instancias",
+      ",",
+      "cuatro",
+      "mujeres",
+      ".",
+      "primer",
+      "ministro",
+      "encabezará",
+      "ente",
+      "interior",
+      "comunidades",
+      "territoriales",
+      ";",
+      "asimismo",
+      ",",
+      "carlos",
+      "hércule",
+      "ministro",
+      "justicia",
+      "seguridad",
+      "pública",
+      ";",
+      "dominique",
+      "dupuy",
+      "dirigirá",
+      "ministerio",
+      "asuntos",
+      "exteriores",
+      "asuntos",
+      "religiosos",
+      "cartera",
+      "haitianos",
+      "residentes",
+      "extranjero",
+      ";",
+      "ketleen",
+      "florestal",
+      "liderará",
+      "economía",
+      "finanzas",
+      ",",
+      "mientras",
+      "jean",
+      "marc",
+      "berthier",
+      "cartera",
+      "defensa",
+      ".",
+      "conille",
+      "designado",
+      "cargo",
+      "finales",
+      "mayo",
+      "pasado",
+      ".",
+      "ejerció",
+      "primer",
+      "ministro",
+      "haití",
+      "2011",
+      "2012",
+      ";",
+      "2023",
+      "dirección",
+      "regional",
+      "fondo",
+      "naciones",
+      "unidas",
+      "infancia",
+      "(",
+      "unicef",
+      ")",
+      "américa",
+      "latina",
+      "caribe",
+      "."
+    ],
+    "token_count": 157,
+    "sentence_count": 8
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 61,
+      "CC": 1,
+      "JJ": 16,
+      "NN": 45,
+      "IN": 11,
+      "VBD": 8,
+      "NNS": 9,
+      "VBP": 5,
+      "FW": 51,
+      "VBZ": 2,
+      "CD": 5
+    },
+    "bigram_freq": {
+      "NNP-CC": 1,
+      "CC-JJ": 1,
+      "JJ-NN": 7,
+      "NN-IN": 7,
+      "IN-NNP": 4,
+      "NNP-NNP": 33,
+      "NNP-VBD": 7,
+      "VBD-NN": 2,
+      "NN-NNS": 4,
+      "NNS-VBP": 3,
+      "VBP-JJ": 2,
+      "NN-NN": 17,
+      "NN-VBD": 1,
+      "VBD-JJ": 3,
+      "JJ-FW": 5,
+      "FW-JJ": 5,
+      "NNP-NN": 9,
+      "NN-NNP": 5,
+      "NN-JJ": 2,
+      "IN-FW": 5,
+      "FW-FW": 27,
+      "FW-NN": 6,
+      "NN-FW": 6,
+      "JJ-NNP": 2,
+      "NNP-FW": 6,
+      "FW-NNP": 12,
+      "IN-NN": 2,
+      "NNS-NNS": 1,
+      "VBP-NNS": 1,
+      "NNS-FW": 1,
+      "VBD-FW": 1,
+      "FW-NNS": 1,
+      "NNS-JJ": 2,
+      "JJ-VBP": 2,
+      "NNP-VBZ": 2,
+      "VBZ-JJ": 1,
+      "NN-CD": 3,
+      "CD-NNS": 2,
+      "VBP-CD": 1,
+      "VBP-IN": 1,
+      "NNS-NNP": 1,
+      "VBZ-NNP": 1,
+      "NNP-IN": 2,
+      "VBD-NNP": 2,
+      "NNS-IN": 1,
+      "CD-CD": 1,
+      "CD-NN": 2
+    },
+    "trigram_freq": {
+      "NNP-CC-JJ": 1,
+      "CC-JJ-NN": 1,
+      "JJ-NN-IN": 2,
+      "NN-IN-NNP": 3,
+      "IN-NNP-NNP": 3,
+      "NNP-NNP-NNP": 14,
+      "NNP-NNP-VBD": 7,
+      "NNP-VBD-NN": 2,
+      "VBD-NN-NNS": 1,
+      "NN-NNS-VBP": 1,
+      "NNS-VBP-JJ": 1,
+      "VBP-JJ-NN": 2,
+      "JJ-NN-NN": 4,
+      "NN-NN-NN": 8,
+      "NN-NN-VBD": 1,
+      "NN-VBD-JJ": 1,
+      "VBD-JJ-FW": 3,
+      "JJ-FW-JJ": 1,
+      "FW-JJ-NN": 2,
+      "NN-NN-IN": 2,
+      "NNP-NNP-NN": 5,
+      "NNP-NN-NNP": 2,
+      "NN-NNP-NN": 1,
+      "NNP-NN-NN": 5,
+      "NN-NN-JJ": 1,
+      "NN-JJ-NN": 1,
+      "NN-IN-FW": 3,
+      "IN-FW-FW": 3,
+      "FW-FW-FW": 13,
+      "FW-FW-NN": 4,
+      "FW-NN-FW": 2,
+      "NN-FW-FW": 5,
+      "FW-FW-JJ": 2,
+      "FW-JJ-FW": 2,
+      "JJ-FW-FW": 3,
+      "FW-NN-JJ": 1,
+      "NN-JJ-NNP": 1,
+      "JJ-NNP-NNP": 2,
+      "NNP-NNP-FW": 4,
+      "NNP-FW-NN": 2,
+      "FW-NN-IN": 1,
+      "IN-NNP-NN": 1,
+      "NN-NN-FW": 3,
+      "NN-FW-NNP": 1,
+      "FW-NNP-NNP": 9,
+      "NNP-FW-NNP": 2,
+      "VBD-NN-IN": 1,
+      "NN-IN-NN": 1,
+      "IN-NN-NNS": 1,
+      "NN-NNS-NNS": 1,
+      "NNS-NNS-VBP": 1,
+      "NNS-VBP-NNS": 1,
+      "VBP-NNS-FW": 1,
+      "NNS-FW-FW": 1,
+      "FW-FW-NNP": 7,
+      "NNP-VBD-FW": 1,
+      "VBD-FW-FW": 1,
+      "FW-FW-NNS": 1,
+      "FW-NNS-JJ": 1,
+      "NNS-JJ-VBP": 2,
+      "JJ-VBP-JJ": 1,
+      "NNP-NNP-VBZ": 2,
+      "NNP-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 1,
+      "JJ-NN-CD": 1,
+      "NN-CD-NNS": 1,
+      "CD-NNS-JJ": 1,
+      "JJ-VBP-CD": 1,
+      "VBP-CD-NNS": 1,
+      "CD-NNS-VBP": 1,
+      "NNS-VBP-IN": 1,
+      "VBP-IN-FW": 1,
+      "IN-FW-JJ": 1,
+      "FW-NN-NNS": 2,
+      "NN-NNS-NNP": 1,
+      "NNS-NNP-NN": 1,
+      "NNP-VBZ-NNP": 1,
+      "VBZ-NNP-NNP": 1,
+      "NNP-VBD-JJ": 2,
+      "NN-NN-NNP": 2,
+      "NN-NNP-IN": 1,
+      "NNP-IN-NNP": 1,
+      "NNP-NN-IN": 1,
+      "IN-FW-NNP": 1,
+      "NNP-NNP-IN": 1,
+      "NNP-IN-NN": 1,
+      "IN-NN-NNP": 1,
+      "NN-NNP-NNP": 3,
+      "NNP-VBD-NNP": 2,
+      "VBD-NNP-NNP": 1,
+      "NNP-FW-JJ": 1,
+      "FW-JJ-NNP": 1,
+      "NNP-FW-FW": 1,
+      "NN-NNS-IN": 1,
+      "NNS-IN-FW": 1,
+      "FW-NNP-FW": 2,
+      "FW-NNP-NN": 1,
+      "NNP-NN-CD": 1,
+      "NN-CD-CD": 1,
+      "CD-CD-NN": 1,
+      "CD-NN-CD": 1,
+      "NN-CD-NN": 1,
+      "CD-NN-FW": 1,
+      "JJ-FW-NNP": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NNP": 61,
+        "FW": 51,
+        "NN": 45,
+        "JJ": 16,
+        "IN": 11
+      },
+      "top_bigrams": {
+        "NNP-NNP": 33,
+        "FW-FW": 27,
+        "NN-NN": 17,
+        "FW-NNP": 12,
+        "NNP-NN": 9
+      },
+      "top_trigrams": {
+        "NNP-NNP-NNP": 14,
+        "FW-FW-FW": 13,
+        "FW-NNP-NNP": 9,
+        "NN-NN-NN": 8,
+        "NNP-NNP-VBD": 7
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 8,
+    "chunk_counts": {
+      "NP": 61,
+      "PP": 7,
+      "VP": 12,
+      "ADJP": 2
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 4,
+        "weight": 0.0444
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0222
+      },
+      {
+        "rule": "S -> NP ('nuevo', 'CC') NP PP (',', ',') NP (',', ',') NP VP VP ('en', 'FW') NP PP ('(', '(') NP (')', ')') ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0111
+      },
+      {
+        "rule": "NP -> ('El', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0111
+      },
+      {
+        "rule": "NP -> ('primer', 'JJ') ('ministro', 'NN')",
+        "frequency": 1,
+        "weight": 0.0111
+      },
+      {
+        "rule": "NP -> ('Haití', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0111
+      },
+      {
+        "rule": "NP -> ('Garry', 'NNP') ('Conille', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0111
+      },
+      {
+        "rule": "NP -> ('tomó', 'JJ') ('este', 'NN') ('miércoles', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0111
+      },
+      {
+        "rule": "VP -> ('posesión', 'VBP') NP",
+        "frequency": 1,
+        "weight": 0.0111
+      },
+      {
+        "rule": "NP -> ('del', 'JJ') ('cargo', 'NN') ('junto', 'NN') ('con', 'NN')",
+        "frequency": 1,
+        "weight": 0.0111
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El"
+      },
+      {
+        "label": "NP",
+        "text": "primer ministro"
+      },
+      {
+        "label": "PP",
+        "text": "de Haití"
+      },
+      {
+        "label": "NP",
+        "text": "Haití"
+      },
+      {
+        "label": "NP",
+        "text": "Garry Conille"
+      },
+      {
+        "label": "NP",
+        "text": "tomó este miércoles"
+      },
+      {
+        "label": "VP",
+        "text": "posesión del cargo junto con"
+      },
+      {
+        "label": "NP",
+        "text": "del cargo junto con"
+      },
+      {
+        "label": "VP",
+        "text": "su gabinete"
+      },
+      {
+        "label": "NP",
+        "text": "un acto realizado"
+      },
+      {
+        "label": "PP",
+        "text": "en Puerto Príncipe"
+      },
+      {
+        "label": "NP",
+        "text": "Puerto Príncipe"
+      },
+      {
+        "label": "NP",
+        "text": "capital"
+      },
+      {
+        "label": "NP",
+        "text": "La investidura del primer ministro se realizó"
+      },
+      {
+        "label": "NP",
+        "text": "un día después"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP El/NNP)\n  nuevo/CC\n  (NP primer/JJ ministro/NN)\n  (PP de/IN (NP Haití/NNP))\n  ,/,\n  (NP Garry/NNP Conille/NNP)\n  ,/,\n  (NP tomó/JJ este/NN miércoles/NNS)\n  (VP posesión/VBP (NP del/JJ cargo/NN junto/NN con/NN))\n  (VP su/VBD gabinete/JJ)\n  en/FW\n  (NP un/JJ acto/NN realizado/NN)\n  (PP en/IN (NP Puerto/NNP Príncipe/NNP))\n  (/(\n  (NP capital/NN)\n  )/)\n  ./.)",
+      "(S\n  (NP\n    La/NNP\n    investidura/NN\n    del/NN\n    primer/NN\n    ministro/NN\n    se/NN\n    realizó/NN)\n  (NP un/JJ día/NN después/NN)\n  de/IN\n  la/FW\n  publicación/FW\n  del/FW\n  (NP decreto/NN)\n  de/FW\n  nombramiento/FW\n  del/FW\n  (ADJP gabinete/JJ)\n  en/FW\n  el/FW\n  (NP diario/NN oficial/NN)\n  ,/,\n  (NP Le/NNP Moniteur/NNP)\n  ./.)",
+      "(S\n  (NP En/NNP la/NN ceremonia/NN)\n  ,/,\n  (PP tanto/IN (NP Conille/NNP como/NN el/NN presidente/NN))\n  del/FW\n  (NP Consejo/NNP Presidencial/NNP)\n  de/FW\n  (NP Transición/NNP)\n  ,/,\n  (NP Edgard/NNP Leblanc/NNP Fils/NNP)\n  ,/,\n  (NP expresaron/NN su/NN compromiso/NN)\n  (PP de/IN (NP celebrar/NN elecciones/NNS honestas/NNS))\n  ,/,\n  (NP democráticas/NN y/NN creíbles/NNS)\n  (VP en/VBP (NP el/JJ país/NN))\n  ./.)",
+      "(S\n  (NP Además/NNP)\n  ,/,\n  (NP manifestaron/NNP)\n  (VP su/VBD)\n  disposición/FW\n  de/FW\n  establecer/FW\n  las/FW\n  (NP instituciones/NNS)\n  necesarias/RB\n  (VP y/VBP (NP restablecer/NN) (NP un/JJ clima/NN))\n  de/IN\n  paz/FW\n  en/FW\n  la/FW\n  nación/FW\n  ./.)",
+      "(S\n  (NP El/NNP Gobierno/NNP)\n  (VP estará/VBZ (NP integrado/JJ por/NN))\n  18/CD\n  (NP carteras/NNS)\n  y/RB\n  (VP contará/VBP con/JJ)\n  14/CD\n  (NP ministros/NNS)\n  ,/,\n  algunos/FW\n  de/FW\n  ellos/FW\n  llevarán/FW\n  (NP dos/NN instancias/NN)\n  ,/,\n  entre/FW\n  ellos/FW\n  (NP cuatro/NN mujeres/NNS)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "GOBIERNOS_OFICIALES",
+      "GRUPOS_ESPECIFICOS",
+      "ORGANISMOS_INTERNACIONALES",
+      "MEDIOS_COMUNICACION",
+      "REGIONES_PROVINCIAS",
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "INFRAESTRUCTURA_SERVICIOS",
+      "JURIDICO_LEGISLATIVO_CORRUPCION"
+    ],
+    "matches": [
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "capital",
+        "position": [
+          153,
+          160
+        ],
+        "start": 153,
+        "end": 160
+      },
+      {
+        "category": "JURIDICO_LEGISLATIVO_CORRUPCION",
+        "matched_text": "defensa",
+        "position": [
+          1196,
+          1203
+        ],
+        "start": 1196,
+        "end": 1203
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente del consejo",
+        "position": [
+          358,
+          380
+        ],
+        "start": 358,
+        "end": 380
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "ministro de haití",
+        "position": [
+          17,
+          34
+        ],
+        "start": 17,
+        "end": 34
+      },
+      {
+        "category": "ORGANISMOS_INTERNACIONALES",
+        "matched_text": "naciones unidas",
+        "position": [
+          1383,
+          1398
+        ],
+        "start": 1383,
+        "end": 1398
+      },
+      {
+        "category": "ORGANISMOS_INTERNACIONALES",
+        "matched_text": "unicef",
+        "position": [
+          1417,
+          1423
+        ],
+        "start": 1417,
+        "end": 1423
+      },
+      {
+        "category": "GRUPOS_ESPECIFICOS",
+        "matched_text": "mujeres",
+        "position": [
+          782,
+          789
+        ],
+        "start": 782,
+        "end": 789
+      },
+      {
+        "category": "MEDIOS_COMUNICACION",
+        "matched_text": "diario oficial",
+        "position": [
+          290,
+          304
+        ],
+        "start": 290,
+        "end": 304
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "puerto",
+        "position": [
+          136,
+          142
+        ],
+        "start": 136,
+        "end": 142
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "caribe",
+        "position": [
+          1450,
+          1456
+        ],
+        "start": 1450,
+        "end": 1456
+      }
+    ],
+    "match_count": 10
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "ministro de Justicia y Seguridad Pública",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Ketleen Florestal",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Consejo Presidencial de Transición",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Dominique Dupuy",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Haití",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Carlos Hércule",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Garry Conille",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Edgard Leblanc Fils",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Puerto Príncipe",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Gobierno",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Defensa",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Conille",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "América Latina y el Caribe",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Fondo de Naciones Unidas para la Infancia",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Jean Marc Berthier",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Ministerio de Asuntos Exteriores y Asuntos Religiosos",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Unicef",
+        "tipo": "Organizacion"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Haití",
+        "relacion": "TOMAR",
+        "objeto": "Puerto Príncipe"
+      },
+      {
+        "sujeto": "Garry Conille",
+        "relacion": "TOMAR",
+        "objeto": "Puerto Príncipe"
+      },
+      {
+        "sujeto": "Dominique Dupuy",
+        "relacion": "DIRIGIR",
+        "objeto": "Ministerio de Asuntos Exteriores y Asuntos Religiosos"
+      },
+      {
+        "sujeto": "Jean Marc Berthier",
+        "relacion": "ESTAR",
+        "objeto": "Defensa"
+      },
+      {
+        "sujeto": "Haití",
+        "relacion": "EJERCER",
+        "objeto": "Fondo de Naciones Unidas para la Infancia"
+      },
+      {
+        "sujeto": "Haití",
+        "relacion": "EJERCER",
+        "objeto": "Unicef"
+      },
+      {
+        "sujeto": "Haití",
+        "relacion": "EJERCER",
+        "objeto": "América Latina y el Caribe"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.0,
+    "pos": 0.0,
+    "neu": 1.0,
+    "neg": 0.0,
+    "label": "neutral"
+  }
+}

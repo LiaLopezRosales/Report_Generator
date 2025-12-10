@@ -1,0 +1,668 @@
+{
+  "url": "https://www.telesurtv.net/fuerzas-israelies-asesinan-a-un-nino-palestino-en-cisjordania-ocupada/",
+  "title": "Fuerzas israelíes asesinan a un niño palestino en Cisjordania ocupada - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Asesinato",
+    "genocidio",
+    "Israel",
+    "niño palestino",
+    "Palestina"
+  ],
+  "text": "Autoridades palestinas denunciaron este jueves el asesinato de un niño palestino de 15 años a tiros por las fuerzas de ocupación israelíes en la ciudad de Qalqilya, en la Cisjordania ocupada.\nLos reportes indicaron que murió a causa de las heridas aproximadamente una hora después. En primera instancia el niño fue trasladado al hospital, sin embargo no pudo sobrevivir tras el impacto de la agresión israelí.\nPor otra parte, un ciudadano palestino murió y otros dos resultaron heridos tras otro ataque aéreo israelí dirigido a un grupo de civiles en el barrio de Tal al-Hawa, en el suroeste de la ciudad de Gaza.\nLos heridos fueron trasladados al hospital árabe Al-Ahli de la ciudad para recibir tratamiento médico. Entre tanto otro ataque aéreo israelí en el barrio de Zaytoun en la ciudad de Gaza mató a ocho palestinos e hirió a otros.\nEsto se produjo cuando aviones de combate israelíes atacaron las cercanías del complejo médico Ash-Shifa, al oeste de Gaza, provocando la muerte de varias personas.\nLa agresión israelí contra los palestinos que viven en la Franja de Gaza ha causado hasta el momento 37.431 personas asesinadas desde el pasado 7 de octubre.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/fuerzas-israelies-asesinan-a-un-nino-palestino-en-cisjordania-ocupada/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-06.json",
+    "message_index": 349,
+    "message_id": 72394,
+    "date": "2024-06-21T04:55:07+00:00",
+    "text": "teleSUR\nFuerzas israelíes asesinan a un niño palestino en Cisjordania ocupada\nhttps://www.telesurtv.net/fuerzas-israelies-asesinan-a-un-nino-palestino-en-cisjordania-ocupada/",
+    "photo_path": null,
+    "views": 1549,
+    "reactions": {},
+    "total_reactions": 0
+  },
+  "preprocessing": {
+    "cleaned": "autoridades palestinas denunciaron este jueves el asesinato de un niño palestino de 15 años a tiros por las fuerzas de ocupación israelíes en la ciudad de qalqilya, en la cisjordania ocupada. los reportes indicaron que murió a causa de las heridas aproximadamente una hora después. en primera instancia el niño fue trasladado al hospital, sin embargo no pudo sobrevivir tras el impacto de la agresión israelí. por otra parte, un ciudadano palestino murió y otros dos resultaron heridos tras otro ataque aéreo israelí dirigido a un grupo de civiles en el barrio de tal al-hawa, en el suroeste de la ciudad de gaza. los heridos fueron trasladados al hospital árabe al-ahli de la ciudad para recibir tratamiento médico. entre tanto otro ataque aéreo israelí en el barrio de zaytoun en la ciudad de gaza mató a ocho palestinos e hirió a otros. esto se produjo cuando aviones de combate israelíes atacaron las cercanías del complejo médico ash-shifa, al oeste de gaza, provocando la muerte de varias personas. la agresión israelí contra los palestinos que viven en la franja de gaza ha causado hasta el momento 37.431 personas asesinadas desde el pasado 7 de octubre.",
+    "tokens": [
+      "autoridades",
+      "palestinas",
+      "denunciaron",
+      "jueves",
+      "asesinato",
+      "niño",
+      "palestino",
+      "15",
+      "años",
+      "tiros",
+      "fuerzas",
+      "ocupación",
+      "israelíes",
+      "ciudad",
+      "qalqilya",
+      ",",
+      "cisjordania",
+      "ocupada",
+      ".",
+      "reportes",
+      "indicaron",
+      "murió",
+      "causa",
+      "heridas",
+      "aproximadamente",
+      "hora",
+      "después",
+      ".",
+      "primera",
+      "instancia",
+      "niño",
+      "trasladado",
+      "hospital",
+      ",",
+      "embargo",
+      "pudo",
+      "sobrevivir",
+      "tras",
+      "impacto",
+      "agresión",
+      "israelí",
+      ".",
+      "parte",
+      ",",
+      "ciudadano",
+      "palestino",
+      "murió",
+      "dos",
+      "resultaron",
+      "heridos",
+      "tras",
+      "ataque",
+      "aéreo",
+      "israelí",
+      "dirigido",
+      "grupo",
+      "civiles",
+      "barrio",
+      "tal",
+      "al-hawa",
+      ",",
+      "suroeste",
+      "ciudad",
+      "gaza",
+      ".",
+      "heridos",
+      "trasladados",
+      "hospital",
+      "árabe",
+      "al-ahli",
+      "ciudad",
+      "recibir",
+      "tratamiento",
+      "médico",
+      ".",
+      "ataque",
+      "aéreo",
+      "israelí",
+      "barrio",
+      "zaytoun",
+      "ciudad",
+      "gaza",
+      "mató",
+      "ocho",
+      "palestinos",
+      "hirió",
+      ".",
+      "produjo",
+      "aviones",
+      "combate",
+      "israelíes",
+      "atacaron",
+      "cercanías",
+      "complejo",
+      "médico",
+      "ash-shifa",
+      ",",
+      "oeste",
+      "gaza",
+      ",",
+      "provocando",
+      "muerte",
+      "varias",
+      "personas",
+      ".",
+      "agresión",
+      "israelí",
+      "palestinos",
+      "viven",
+      "franja",
+      "gaza",
+      "causado",
+      "momento",
+      "37.431",
+      "personas",
+      "asesinadas",
+      "pasado",
+      "7",
+      "octubre",
+      "."
+    ],
+    "token_count": 120,
+    "sentence_count": 8
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 20,
+      "VBP": 11,
+      "NN": 58,
+      "NNS": 11,
+      "FW": 36,
+      "IN": 15,
+      "CD": 2,
+      "JJ": 22,
+      "MD": 2,
+      "VBZ": 4,
+      "DT": 1,
+      "VB": 1,
+      "VBD": 1,
+      "RB": 1,
+      "$": 1
+    },
+    "bigram_freq": {
+      "NNP-VBP": 2,
+      "VBP-NN": 2,
+      "NN-NN": 24,
+      "NN-NNS": 5,
+      "NNS-VBP": 6,
+      "NN-FW": 5,
+      "FW-FW": 18,
+      "FW-NN": 7,
+      "NN-IN": 14,
+      "IN-CD": 1,
+      "CD-NNS": 1,
+      "NNS-JJ": 1,
+      "JJ-VBP": 1,
+      "VBP-JJ": 8,
+      "JJ-NN": 15,
+      "IN-FW": 6,
+      "FW-NNP": 6,
+      "NNP-FW": 5,
+      "NNP-MD": 2,
+      "MD-NNP": 1,
+      "NNP-VBZ": 1,
+      "VBZ-NN": 1,
+      "FW-NNS": 2,
+      "NN-NNP": 2,
+      "NNP-NN": 5,
+      "NN-JJ": 3,
+      "IN-NN": 2,
+      "NN-VBZ": 2,
+      "VBZ-DT": 1,
+      "DT-NN": 1,
+      "VBZ-NNS": 1,
+      "NNS-FW": 2,
+      "MD-VB": 1,
+      "VB-JJ": 1,
+      "IN-JJ": 2,
+      "IN-NNS": 1,
+      "NNS-IN": 1,
+      "IN-NNP": 3,
+      "NNP-JJ": 3,
+      "NNP-NNP": 2,
+      "JJ-JJ": 2,
+      "JJ-NNP": 3,
+      "FW-JJ": 1,
+      "JJ-NNS": 1,
+      "FW-VBP": 1,
+      "NN-VBD": 1,
+      "VBD-NNP": 1,
+      "NNS-NNP": 1,
+      "NN-RB": 1,
+      "RB-VBZ": 1,
+      "VBZ-JJ": 1,
+      "NN-VBP": 1,
+      "VBP-$": 1,
+      "$-CD": 1,
+      "CD-NN": 1
+    },
+    "trigram_freq": {
+      "NNP-VBP-NN": 1,
+      "VBP-NN-NN": 1,
+      "NN-NN-NNS": 3,
+      "NN-NNS-VBP": 4,
+      "NNS-VBP-NN": 1,
+      "VBP-NN-FW": 1,
+      "NN-FW-FW": 3,
+      "FW-FW-FW": 11,
+      "FW-FW-NN": 1,
+      "FW-NN-IN": 5,
+      "NN-IN-CD": 1,
+      "IN-CD-NNS": 1,
+      "CD-NNS-JJ": 1,
+      "NNS-JJ-VBP": 1,
+      "JJ-VBP-JJ": 1,
+      "VBP-JJ-NN": 6,
+      "JJ-NN-IN": 4,
+      "NN-IN-FW": 5,
+      "IN-FW-NN": 3,
+      "FW-NN-FW": 1,
+      "FW-FW-NNP": 5,
+      "FW-NNP-FW": 2,
+      "NNP-FW-FW": 2,
+      "FW-NNP-MD": 2,
+      "NNP-MD-NNP": 1,
+      "MD-NNP-VBZ": 1,
+      "NNP-VBZ-NN": 1,
+      "VBZ-NN-NN": 1,
+      "NN-NN-FW": 2,
+      "NN-FW-NN": 2,
+      "IN-FW-NNS": 1,
+      "FW-NNS-VBP": 1,
+      "NNS-VBP-JJ": 5,
+      "JJ-NN-NN": 6,
+      "NN-NN-NNP": 1,
+      "NN-NNP-NN": 2,
+      "NNP-NN-NN": 5,
+      "NN-NN-NN": 9,
+      "NN-NN-JJ": 2,
+      "NN-JJ-NN": 3,
+      "NN-NN-IN": 5,
+      "NN-IN-NN": 2,
+      "IN-NN-NN": 1,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-DT": 1,
+      "VBZ-DT-NN": 1,
+      "DT-NN-VBZ": 1,
+      "NN-VBZ-NNS": 1,
+      "VBZ-NNS-FW": 1,
+      "NNS-FW-FW": 1,
+      "NNP-MD-VB": 1,
+      "MD-VB-JJ": 1,
+      "VB-JJ-NN": 1,
+      "NN-IN-JJ": 2,
+      "IN-JJ-NN": 1,
+      "NN-IN-NNS": 1,
+      "IN-NNS-IN": 1,
+      "NNS-IN-FW": 1,
+      "NN-IN-NNP": 3,
+      "IN-NNP-JJ": 1,
+      "NNP-JJ-NN": 3,
+      "JJ-NN-FW": 1,
+      "IN-FW-FW": 1,
+      "FW-NNP-NNP": 1,
+      "NNP-NNP-JJ": 1,
+      "IN-JJ-JJ": 1,
+      "JJ-JJ-NNP": 1,
+      "JJ-NNP-NNP": 1,
+      "NNP-NNP-FW": 1,
+      "NNP-FW-NN": 1,
+      "FW-NN-NN": 1,
+      "IN-NN-NNP": 1,
+      "IN-NNP-FW": 1,
+      "NNP-FW-JJ": 1,
+      "FW-JJ-NNS": 1,
+      "JJ-NNS-VBP": 1,
+      "VBP-JJ-NNP": 1,
+      "JJ-NNP-NN": 1,
+      "NN-NNS-FW": 1,
+      "NNS-FW-VBP": 1,
+      "FW-VBP-JJ": 1,
+      "JJ-NN-NNS": 1,
+      "JJ-NN-VBD": 1,
+      "NN-VBD-NNP": 1,
+      "VBD-NNP-JJ": 1,
+      "IN-NNP-NN": 1,
+      "FW-FW-NNS": 1,
+      "FW-NNS-NNP": 1,
+      "NNS-NNP-VBP": 1,
+      "NNP-VBP-JJ": 1,
+      "VBP-JJ-JJ": 1,
+      "JJ-JJ-NN": 1,
+      "JJ-NN-JJ": 1,
+      "JJ-NN-RB": 1,
+      "NN-RB-VBZ": 1,
+      "RB-VBZ-JJ": 1,
+      "VBZ-JJ-NNP": 1,
+      "JJ-NNP-FW": 1,
+      "NNP-FW-NNP": 1,
+      "FW-NNP-NN": 1,
+      "NN-NN-VBP": 1,
+      "NN-VBP-$": 1,
+      "VBP-$-CD": 1,
+      "$-CD-NN": 1,
+      "CD-NN-NNS": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 58,
+        "FW": 36,
+        "JJ": 22,
+        "NNP": 20,
+        "IN": 15
+      },
+      "top_bigrams": {
+        "NN-NN": 24,
+        "FW-FW": 18,
+        "JJ-NN": 15,
+        "NN-IN": 14,
+        "VBP-JJ": 8
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 11,
+        "NN-NN-NN": 9,
+        "VBP-JJ-NN": 6,
+        "JJ-NN-NN": 6,
+        "FW-NN-IN": 5
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 8,
+    "chunk_counts": {
+      "NP": 58,
+      "VP": 18,
+      "PP": 9
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 5,
+        "weight": 0.0538
+      },
+      {
+        "rule": "NP -> ('Gaza', 'NNP')",
+        "frequency": 3,
+        "weight": 0.0323
+      },
+      {
+        "rule": "PP -> ('al', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0215
+      },
+      {
+        "rule": "NP -> ('barrio', 'NN')",
+        "frequency": 2,
+        "weight": 0.0215
+      },
+      {
+        "rule": "S -> NP VP VP ('de', 'FW') ('un', 'FW') ('niño', 'FW') NP ('de', 'IN') ('15', 'CD') NP NP NP ('de', 'IN') ('ocupación', 'FW') NP ('en', 'FW') ('la', 'FW') ('ciudad', 'FW') ('de', 'FW') NP (',', ',') ('en', 'FW') ('la', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0108
+      },
+      {
+        "rule": "NP -> ('Autoridades', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0108
+      },
+      {
+        "rule": "VP -> ('palestinas', 'VBP') NP",
+        "frequency": 1,
+        "weight": 0.0108
+      },
+      {
+        "rule": "NP -> ('denunciaron', 'NN') ('este', 'NN') ('jueves', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0108
+      },
+      {
+        "rule": "VP -> ('el', 'VBP') NP",
+        "frequency": 1,
+        "weight": 0.0108
+      },
+      {
+        "rule": "NP -> ('asesinato', 'NN')",
+        "frequency": 1,
+        "weight": 0.0108
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Autoridades"
+      },
+      {
+        "label": "VP",
+        "text": "palestinas denunciaron este jueves"
+      },
+      {
+        "label": "NP",
+        "text": "denunciaron este jueves"
+      },
+      {
+        "label": "VP",
+        "text": "el asesinato"
+      },
+      {
+        "label": "NP",
+        "text": "asesinato"
+      },
+      {
+        "label": "NP",
+        "text": "palestino"
+      },
+      {
+        "label": "NP",
+        "text": "años"
+      },
+      {
+        "label": "NP",
+        "text": "a tiros por"
+      },
+      {
+        "label": "NP",
+        "text": "las fuerzas"
+      },
+      {
+        "label": "NP",
+        "text": "israelíes"
+      },
+      {
+        "label": "NP",
+        "text": "Qalqilya"
+      },
+      {
+        "label": "NP",
+        "text": "Cisjordania ocupada"
+      },
+      {
+        "label": "NP",
+        "text": "Los"
+      },
+      {
+        "label": "VP",
+        "text": "reportes indicaron que"
+      },
+      {
+        "label": "NP",
+        "text": "indicaron que"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Autoridades/NNP)\n  (VP palestinas/VBP (NP denunciaron/NN este/NN jueves/NNS))\n  (VP el/VBP (NP asesinato/NN))\n  de/FW\n  un/FW\n  niño/FW\n  (NP palestino/NN)\n  de/IN\n  15/CD\n  (NP años/NNS)\n  (NP a/DT tiros/NN por/NN)\n  (NP las/JJ fuerzas/NN)\n  de/IN\n  ocupación/FW\n  (NP israelíes/NN)\n  en/FW\n  la/FW\n  ciudad/FW\n  de/FW\n  (NP Qalqilya/NNP)\n  ,/,\n  en/FW\n  la/FW\n  (NP Cisjordania/NNP ocupada/NN)\n  ./.)",
+      "(S\n  (NP Los/NNP)\n  (VP reportes/VBZ (NP indicaron/NN que/NN))\n  (VP murió/VBD (NP a/DT causa/NN))\n  de/IN\n  las/FW\n  (NP heridas/NNS)\n  (VP aproximadamente/VBP (NP una/JJ hora/NN después/NN))\n  ./.)",
+      "(S\n  (NP En/NNP primera/NN instancia/NN el/NN)\n  (NP niño/JJ fue/NN trasladado/NN)\n  (PP al/IN (NP hospital/NN))\n  ,/,\n  (NP sin/NN embargo/NN)\n  (NP no/DT pudo/NN)\n  (VP sobrevivir/VBZ (NP tras/NNS))\n  el/FW\n  impacto/FW\n  de/FW\n  la/FW\n  agresión/FW\n  (NP israelí/NN)\n  ./.)",
+      "(S\n  (NP Por/NNP)\n  otra/MD\n  (VP parte/VB)\n  ,/,\n  (NP un/JJ ciudadano/NN palestino/NN murió/NN y/NN)\n  (PP otros/IN (NP dos/JJ resultaron/NN heridos/NN tras/NNS))\n  (VP otro/VBP (NP ataque/JJ aéreo/NN israelí/NN))\n  (VP dirigido/VBZ (NP a/DT un/JJ grupo/NN))\n  (PP de/IN (NP civiles/NNS))\n  en/IN\n  el/FW\n  (NP barrio/NN)\n  (PP de/IN (NP Tal/NNP al-Hawa/NN))\n  ,/,\n  en/FW\n  el/FW\n  (NP suroeste/NN)\n  de/IN\n  la/FW\n  ciudad/FW\n  de/FW\n  (NP Gaza/NNP)\n  ./.)",
+      "(S\n  (NP Los/NNP heridos/NN fueron/NN trasladados/NN)\n  (PP al/IN (NP hospital/JJ árabe/JJ Al-Ahli/NNP de/NNP))\n  la/FW\n  (NP ciudad/NN para/NN recibir/NN)\n  (PP tratamiento/IN (NP médico/NN))\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "CANTIDADES_NUMERICAS",
+      "ANTIIMPERIALISMO_SOBERANIA",
+      "ACCIONES_LEGALES",
+      "PAISES",
+      "LOCALIZACIONES_ESPECIFICAS",
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "INFRAESTRUCTURA_SERVICIOS",
+      "CONFLICTOS_ARMADOS_OPERACIONES"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "ocupación israelíes en la ciudad",
+        "position": [
+          119,
+          151
+        ],
+        "start": 119,
+        "end": 151
+      },
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "ataque aéreo",
+        "position": [
+          496,
+          508
+        ],
+        "start": 496,
+        "end": 508
+      },
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "ocupación",
+        "position": [
+          119,
+          128
+        ],
+        "start": 119,
+        "end": 128
+      },
+      {
+        "category": "ACCIONES_LEGALES",
+        "matched_text": "denunciaron",
+        "position": [
+          23,
+          34
+        ],
+        "start": 23,
+        "end": 34
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "hospital",
+        "position": [
+          329,
+          337
+        ],
+        "start": 329,
+        "end": 337
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "israelí",
+        "position": [
+          401,
+          408
+        ],
+        "start": 401,
+        "end": 408
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "barrio de",
+        "position": [
+          554,
+          563
+        ],
+        "start": 554,
+        "end": 563
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "complejo médico",
+        "position": [
+          919,
+          934
+        ],
+        "start": 919,
+        "end": 934
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "hospital, sin",
+        "position": [
+          329,
+          342
+        ],
+        "start": 329,
+        "end": 342
+      },
+      {
+        "category": "ANTIIMPERIALISMO_SOBERANIA",
+        "matched_text": "embargo",
+        "position": [
+          343,
+          350
+        ],
+        "start": 343,
+        "end": 350
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "431 personas",
+        "position": [
+          1109,
+          1121
+        ],
+        "start": 1109,
+        "end": 1121
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "37.431 personas",
+        "position": [
+          1106,
+          1121
+        ],
+        "start": 1106,
+        "end": 1121
+      }
+    ],
+    "match_count": 12
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Franja de Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Zaytoun",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Cisjordania",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Tal al-Hawa",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Qalqilya",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Ash-Shifa",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Gaza",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Tal al-Hawa",
+        "relacion": "RESULTAR_MORIR",
+        "objeto": "Gaza"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.5267,
+    "pos": 0.013,
+    "neu": 0.957,
+    "neg": 0.03,
+    "label": "negative"
+  }
+}

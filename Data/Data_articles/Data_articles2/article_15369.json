@@ -1,0 +1,558 @@
+{
+  "url": "https://www.telesurtv.net/aumento-a-37-676-los-palestinos-asesinados-por-israel-en-gaza/",
+  "title": "Aumentó a 37.676 los palestinos asesinados por Israel en Gaza - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Cifras",
+    "Muertos",
+    "Palestina"
+  ],
+  "text": "Ascendió a 37.626 la cifra de palestinos asesinados por Israel en la Franja de Gaza, en su mayoría mujeres y niños, desde comenzó la ofensiva israelí el 7 octubre pasado, informó el Ministerio de Salud del territorio asediado.\nLa cifra de fallecidos podría ser mayor, pues se estiman que unos 10.000 cuerpos permanecen bajo los escombros, sin que las ambulancias o los equipos de rescate puedan acceder a ellos.\nLas fuerzas de ocupación mantuvieron este lunes sus ataques al norte de la Franja, matando a al menos tres personas, así como los bombardeos contra el centro y el este de la capital.\nEn uno de estos ataques el director del Servicio de Ambulancias y del Departamento de Emergencias del Ministerio de Salud de la Franja de Gaza, Hani al Yaafrawi, murió tras un bombardeo del Ejército israelí contra la clínica de Al Daraj.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/aumento-a-37-676-los-palestinos-asesinados-por-israel-en-gaza/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-06.json",
+    "message_index": 243,
+    "message_id": 72500,
+    "date": "2024-06-24T17:55:07+00:00",
+    "text": "teleSUR\nAumentó a 37.676 los palestinos asesinados por Israel en Gaza\nhttps://www.telesurtv.net/aumento-a-37-676-los-palestinos-asesinados-por-israel-en-gaza/",
+    "photo_path": null,
+    "views": 1537,
+    "reactions": {},
+    "total_reactions": 0
+  },
+  "preprocessing": {
+    "cleaned": "ascendió a 37.626 la cifra de palestinos asesinados por israel en la franja de gaza, en su mayoría mujeres y niños, desde comenzó la ofensiva israelí el 7 octubre pasado, informó el ministerio de salud del territorio asediado. la cifra de fallecidos podría ser mayor, pues se estiman que unos 10.000 cuerpos permanecen bajo los escombros, sin que las ambulancias o los equipos de rescate puedan acceder a ellos. las fuerzas de ocupación mantuvieron este lunes sus ataques al norte de la franja, matando a al menos tres personas, así como los bombardeos contra el centro y el este de la capital. en uno de estos ataques el director del servicio de ambulancias y del departamento de emergencias del ministerio de salud de la franja de gaza, hani al yaafrawi, murió tras un bombardeo del ejército israelí contra la clínica de al daraj.",
+    "tokens": [
+      "ascendió",
+      "37.626",
+      "cifra",
+      "palestinos",
+      "asesinados",
+      "israel",
+      "franja",
+      "gaza",
+      ",",
+      "mayoría",
+      "mujeres",
+      "niños",
+      ",",
+      "comenzó",
+      "ofensiva",
+      "israelí",
+      "7",
+      "octubre",
+      "pasado",
+      ",",
+      "informó",
+      "ministerio",
+      "salud",
+      "territorio",
+      "asediado",
+      ".",
+      "cifra",
+      "fallecidos",
+      "podría",
+      "ser",
+      "mayor",
+      ",",
+      "pues",
+      "estiman",
+      "10.000",
+      "cuerpos",
+      "permanecen",
+      "bajo",
+      "escombros",
+      ",",
+      "ambulancias",
+      "equipos",
+      "rescate",
+      "puedan",
+      "acceder",
+      ".",
+      "fuerzas",
+      "ocupación",
+      "mantuvieron",
+      "lunes",
+      "ataques",
+      "norte",
+      "franja",
+      ",",
+      "matando",
+      "menos",
+      "tres",
+      "personas",
+      ",",
+      "así",
+      "bombardeos",
+      "centro",
+      "capital",
+      ".",
+      "ataques",
+      "director",
+      "servicio",
+      "ambulancias",
+      "departamento",
+      "emergencias",
+      "ministerio",
+      "salud",
+      "franja",
+      "gaza",
+      ",",
+      "hani",
+      "yaafrawi",
+      ",",
+      "murió",
+      "tras",
+      "bombardeo",
+      "ejército",
+      "israelí",
+      "clínica",
+      "daraj",
+      "."
+    ],
+    "token_count": 86,
+    "sentence_count": 4
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "$": 1,
+      "CD": 2,
+      "NN": 47,
+      "IN": 3,
+      "FW": 36,
+      "JJ": 9,
+      "NNP": 23,
+      "NNS": 6,
+      "VBP": 5,
+      "JJR": 1,
+      "VBZ": 2
+    },
+    "bigram_freq": {
+      "$-CD": 1,
+      "CD-NN": 2,
+      "NN-NN": 22,
+      "NN-IN": 3,
+      "IN-FW": 2,
+      "FW-JJ": 1,
+      "JJ-NN": 7,
+      "NN-NNP": 5,
+      "NNP-NNP": 3,
+      "NNP-FW": 12,
+      "FW-NNP": 14,
+      "FW-NN": 8,
+      "NN-NNS": 4,
+      "NNS-VBP": 5,
+      "VBP-JJ": 2,
+      "NN-FW": 9,
+      "NNP-NN": 6,
+      "FW-FW": 11,
+      "FW-JJR": 1,
+      "JJR-NN": 1,
+      "NN-JJ": 3,
+      "JJ-CD": 1,
+      "IN-JJ": 1,
+      "JJ-FW": 1,
+      "VBP-NNS": 1,
+      "VBP-FW": 1,
+      "NN-VBZ": 1,
+      "VBZ-JJ": 1,
+      "FW-NNS": 1,
+      "VBP-NN": 1,
+      "NNP-VBZ": 1,
+      "VBZ-NNP": 1,
+      "NNS-JJ": 1
+    },
+    "trigram_freq": {
+      "$-CD-NN": 1,
+      "CD-NN-NN": 2,
+      "NN-NN-IN": 2,
+      "NN-IN-FW": 2,
+      "IN-FW-JJ": 1,
+      "FW-JJ-NN": 1,
+      "JJ-NN-NNP": 1,
+      "NN-NNP-NNP": 1,
+      "NNP-NNP-FW": 1,
+      "NNP-FW-NNP": 9,
+      "FW-NNP-FW": 11,
+      "NNP-FW-NN": 2,
+      "FW-NN-NN": 4,
+      "NN-NN-NNS": 1,
+      "NN-NNS-VBP": 3,
+      "NNS-VBP-JJ": 2,
+      "VBP-JJ-NN": 2,
+      "JJ-NN-NN": 4,
+      "NN-NN-FW": 3,
+      "NN-FW-NN": 3,
+      "NN-NN-NN": 10,
+      "NN-FW-NNP": 2,
+      "NN-NN-NNP": 3,
+      "NN-NNP-NN": 4,
+      "NNP-NN-FW": 3,
+      "NN-FW-FW": 4,
+      "FW-FW-FW": 4,
+      "FW-FW-JJR": 1,
+      "FW-JJR-NN": 1,
+      "JJR-NN-NNS": 1,
+      "JJ-NN-JJ": 1,
+      "NN-JJ-CD": 1,
+      "JJ-CD-NN": 1,
+      "NN-NN-JJ": 2,
+      "NN-JJ-NN": 2,
+      "NN-IN-JJ": 1,
+      "IN-JJ-FW": 1,
+      "JJ-FW-FW": 1,
+      "FW-FW-NN": 2,
+      "FW-NN-NNS": 1,
+      "NNS-VBP-NNS": 1,
+      "VBP-NNS-VBP": 1,
+      "NNS-VBP-FW": 1,
+      "VBP-FW-FW": 1,
+      "FW-FW-NNP": 3,
+      "FW-NNP-NN": 1,
+      "NNP-NN-NN": 2,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 1,
+      "JJ-NN-FW": 1,
+      "FW-NN-FW": 1,
+      "FW-NN-IN": 1,
+      "IN-FW-NN": 1,
+      "FW-NN-NNP": 1,
+      "FW-FW-NNS": 1,
+      "FW-NNS-VBP": 1,
+      "NNS-VBP-NN": 1,
+      "VBP-NN-FW": 1,
+      "NNP-FW-FW": 1,
+      "FW-NNP-NNP": 2,
+      "NNP-NNP-VBZ": 1,
+      "NNP-VBZ-NNP": 1,
+      "VBZ-NNP-NN": 1,
+      "NNP-NN-NNS": 1,
+      "NN-NNS-JJ": 1,
+      "NNS-JJ-NN": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 47,
+        "FW": 36,
+        "NNP": 23,
+        "JJ": 9,
+        "NNS": 6
+      },
+      "top_bigrams": {
+        "NN-NN": 22,
+        "FW-NNP": 14,
+        "NNP-FW": 12,
+        "FW-FW": 11,
+        "NN-FW": 9
+      },
+      "top_trigrams": {
+        "FW-NNP-FW": 11,
+        "NN-NN-NN": 10,
+        "NNP-FW-NNP": 9,
+        "FW-NN-NN": 4,
+        "JJ-NN-NN": 4
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 4,
+    "chunk_counts": {
+      "NP": 47,
+      "VP": 11,
+      "ADJP": 1,
+      "PP": 1
+    },
+    "top_rules": [
+      {
+        "rule": "NP -> ('Franja', 'NNP')",
+        "frequency": 3,
+        "weight": 0.0469
+      },
+      {
+        "rule": "NP -> ('Gaza', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0312
+      },
+      {
+        "rule": "NP -> ('Ministerio', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0312
+      },
+      {
+        "rule": "NP -> ('Salud', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0312
+      },
+      {
+        "rule": "NP -> ('ataques', 'NNS')",
+        "frequency": 2,
+        "weight": 0.0312
+      },
+      {
+        "rule": "S -> NP ('a', 'DT') ('37.626', 'CD') NP ('de', 'IN') ('palestinos', 'FW') NP ('la', 'FW') NP ('de', 'FW') NP (',', ',') ('en', 'FW') ('su', 'FW') ('mayoría', 'FW') NP VP (',', ',') NP ('ofensiva', 'FW') NP VP ('7', 'CD') NP (',', ',') ADJP ('el', 'FW') NP ('de', 'FW') NP ('del', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0156
+      },
+      {
+        "rule": "NP -> ('Ascendió', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0156
+      },
+      {
+        "rule": "NP -> ('la', 'NN') ('cifra', 'NN')",
+        "frequency": 1,
+        "weight": 0.0156
+      },
+      {
+        "rule": "NP -> ('asesinados', 'JJ') ('por', 'NN') ('Israel', 'NNP') ('en', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0156
+      },
+      {
+        "rule": "NP -> ('mujeres', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0156
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Ascendió"
+      },
+      {
+        "label": "NP",
+        "text": "la cifra"
+      },
+      {
+        "label": "NP",
+        "text": "asesinados por Israel en"
+      },
+      {
+        "label": "NP",
+        "text": "Franja"
+      },
+      {
+        "label": "NP",
+        "text": "Gaza"
+      },
+      {
+        "label": "NP",
+        "text": "mujeres"
+      },
+      {
+        "label": "VP",
+        "text": "y niños"
+      },
+      {
+        "label": "NP",
+        "text": "desde comenzó la"
+      },
+      {
+        "label": "NP",
+        "text": "israelí"
+      },
+      {
+        "label": "VP",
+        "text": "el"
+      },
+      {
+        "label": "NP",
+        "text": "octubre pasado"
+      },
+      {
+        "label": "ADJP",
+        "text": "informó"
+      },
+      {
+        "label": "NP",
+        "text": "Ministerio"
+      },
+      {
+        "label": "NP",
+        "text": "Salud"
+      },
+      {
+        "label": "NP",
+        "text": "territorio asediado"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Ascendió/NNP)\n  a/DT\n  37.626/CD\n  (NP la/NN cifra/NN)\n  de/IN\n  palestinos/FW\n  (NP asesinados/JJ por/NN Israel/NNP en/NNP)\n  la/FW\n  (NP Franja/NNP)\n  de/FW\n  (NP Gaza/NNP)\n  ,/,\n  en/FW\n  su/FW\n  mayoría/FW\n  (NP mujeres/NNS)\n  (VP y/VBP niños/RB)\n  ,/,\n  (NP desde/JJ comenzó/NN la/NN)\n  ofensiva/FW\n  (NP israelí/NN)\n  (VP el/VBP)\n  7/CD\n  (NP octubre/JJ pasado/NN)\n  ,/,\n  (ADJP informó/JJ)\n  el/FW\n  (NP Ministerio/NNP)\n  de/FW\n  (NP Salud/NNP)\n  del/FW\n  (NP territorio/NN asediado/NN)\n  ./.)",
+      "(S\n  (NP La/NNP cifra/NN)\n  de/FW\n  fallecidos/FW\n  podría/FW\n  (NP ser/JJR mayor/NN)\n  ,/,\n  (NP pues/NNS)\n  (VP se/VBP (NP estiman/JJ que/NN) unos/JJ)\n  10.000/CD\n  (NP cuerpos/NN permanecen/NN bajo/NN los/NN escombros/NN)\n  ,/,\n  (NP sin/NN que/NN las/NNS)\n  (VP ambulancias/VBP (NP o/JJ los/JJ equipos/NN))\n  (PP de/IN (NP rescate/NN puedan/NN))\n  (VP acceder/VBP (NP a/DT ellos/NN))\n  ./.)",
+      "(S\n  (NP Las/NNP fuerzas/NN)\n  de/FW\n  ocupación/FW\n  mantuvieron/FW\n  (NP este/NN lunes/NNS)\n  (VP sus/VBP (NP ataques/NNS))\n  (VP al/VBP)\n  norte/FW\n  de/FW\n  la/FW\n  (NP Franja/NNP)\n  ,/,\n  (VP matando/VBZ (NP a/DT al/JJ menos/NN tres/NNS))\n  (VP personas/VBP)\n  ,/,\n  (NP así/JJ como/NN los/NN)\n  (NP bombardeos/JJ contra/NN)\n  el/FW\n  (NP centro/NN y/NN)\n  (NP el/JJ este/NN)\n  de/IN\n  la/FW\n  (NP capital/NN)\n  ./.)",
+      "(S\n  (NP En/NNP uno/NN)\n  de/FW\n  estos/FW\n  (NP ataques/NNS)\n  (VP el/VBP (NP director/NN))\n  del/FW\n  (NP Servicio/NNP)\n  de/FW\n  (NP Ambulancias/NNP)\n  y/CC\n  del/FW\n  (NP Departamento/NNP)\n  de/FW\n  (NP Emergencias/NNP)\n  del/FW\n  (NP Ministerio/NNP)\n  de/FW\n  (NP Salud/NNP)\n  de/FW\n  la/FW\n  (NP Franja/NNP)\n  de/FW\n  (NP Gaza/NNP)\n  ,/,\n  (NP Hani/NNP)\n  (VP al/VBZ (NP Yaafrawi/NNP))\n  ,/,\n  (NP murió/NN tras/NNS)\n  (NP\n    un/JJ\n    bombardeo/NN\n    del/NN\n    Ejército/NNP\n    israelí/NN\n    contra/NN\n    la/NN)\n  clínica/FW\n  de/FW\n  (NP Al/NNP Daraj/NNP)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "GRUPOS_ESPECIFICOS",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "REGIONES_PROVINCIAS",
+      "INSTITUCIONES_EDUCATIVAS",
+      "PAISES",
+      "LOCALIZACIONES_ESPECIFICAS",
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "CONFLICTOS_ARMADOS_OPERACIONES",
+      "INFRAESTRUCTURA_SERVICIOS"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "bombardeo del ejército",
+        "position": [
+          771,
+          793
+        ],
+        "start": 771,
+        "end": 793
+      },
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "ocupación",
+        "position": [
+          427,
+          436
+        ],
+        "start": 427,
+        "end": 436
+      },
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "capital",
+        "position": [
+          586,
+          593
+        ],
+        "start": 586,
+        "end": 593
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "informó",
+        "position": [
+          171,
+          178
+        ],
+        "start": 171,
+        "end": 178
+      },
+      {
+        "category": "GRUPOS_ESPECIFICOS",
+        "matched_text": "mujeres",
+        "position": [
+          99,
+          106
+        ],
+        "start": 99,
+        "end": 106
+      },
+      {
+        "category": "INSTITUCIONES_EDUCATIVAS",
+        "matched_text": "departamento de emergencias",
+        "position": [
+          665,
+          692
+        ],
+        "start": 665,
+        "end": 692
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "clínica",
+        "position": [
+          812,
+          819
+        ],
+        "start": 812,
+        "end": 819
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "israelí",
+        "position": [
+          142,
+          149
+        ],
+        "start": 142,
+        "end": 149
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "departamento de",
+        "position": [
+          665,
+          680
+        ],
+        "start": 665,
+        "end": 680
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "centro y el",
+        "position": [
+          563,
+          574
+        ],
+        "start": 563,
+        "end": 574
+      }
+    ],
+    "match_count": 10
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Franja de Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Servicio de Ambulancias",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Franja",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Hani",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Israel",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Departamento de Emergencias del Ministerio de Salud de la Franja de Gaza",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Yaafrawi",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Ministerio de Salud",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Ministerio de Salud",
+        "relacion": "ASCENDER_INFORMAR",
+        "objeto": "Israel"
+      },
+      {
+        "sujeto": "Ministerio de Salud",
+        "relacion": "ASCENDER_INFORMAR",
+        "objeto": "Franja de Gaza"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.5574,
+    "pos": 0.0,
+    "neu": 0.974,
+    "neg": 0.026,
+    "label": "negative"
+  }
+}

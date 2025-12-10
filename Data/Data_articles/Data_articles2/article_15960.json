@@ -1,0 +1,591 @@
+{
+  "url": "https://www.telesurtv.net/alcalde-chileno-jadue-emite-mensaje-a-sus-partidarios-desde-prision/",
+  "title": "Alcalde chileno Jadue emite mensaje a sus partidarios desde prisión - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "Alcalde chileno",
+    "Daniel Jadue",
+    "mensaje a  sus partidarios"
+  ],
+  "text": "El alcalde de Recoleta,  Daniel Jadue, del Partido Comunista de Chile, que permanece en prisión preventiva en el Anexo Penitenciario Capitán Yáber, emitió este miércoles un papel que contiene un mensaje a sus partidarios.\nEn el mensaje manuscrito agradeció “la solidaridad y el cariño, que me dan la fuerza para resistir este trance”.\nCon anterioridad en la red social X, el  alcalde había referido: “me juzgan por nuestra gestión transformadora. No hay ni un peso en mi bolsillo, pero me dan la máxima cautelar. Apelaremos a esta medida desproporcionada!”\nPor otra parte, el abogado defensor de Jadue, Ramón Sepúlveda, señaló que recurrirán a la Corte de Apelaciones para modificar la prisión preventiva.\n“Confiamos en que la Corte va a ocupar criterios objetivos, no tenemos ninguna duda en el sistema judicial chileno y, que se revocará la decisión”, aseguró.\nReiteró que la medida  además de injusta, es desproporcionada, también manifestó que el Ministerio Público pretende sustentar que el alcalde  de Recoleta constituye un peligro, “me pregunto por qué durante tres años no lo formalizó si en el delito de cohecho la denuncia fue en 2020″.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/alcalde-chileno-jadue-emite-mensaje-a-sus-partidarios-desde-prision/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-06.json",
+    "message_index": 839,
+    "message_id": 71904,
+    "date": "2024-06-07T00:58:45+00:00",
+    "text": "teleSUR\nAlcalde chileno Jadue emite mensaje a sus partidarios desde prisión\nhttps://www.telesurtv.net/alcalde-chileno-jadue-emite-mensaje-a-sus-partidarios-desde-prision/",
+    "photo_path": null,
+    "views": 968,
+    "reactions": {},
+    "total_reactions": 0
+  },
+  "preprocessing": {
+    "cleaned": "el alcalde de recoleta, daniel jadue, del partido comunista de chile, que permanece en prisión preventiva en el anexo penitenciario capitán yáber, emitió este miércoles un papel que contiene un mensaje a sus partidarios. en el mensaje manuscrito agradeció “la solidaridad y el cariño, que me dan la fuerza para resistir este trance”. con anterioridad en la red social x, el alcalde había referido: “me juzgan por nuestra gestión transformadora. no hay ni un peso en mi bolsillo, pero me dan la máxima cautelar. apelaremos a esta medida desproporcionada!” por otra parte, el abogado defensor de jadue, ramón sepúlveda, señaló que recurrirán a la corte de apelaciones para modificar la prisión preventiva. “confiamos en que la corte va a ocupar criterios objetivos, no tenemos ninguna duda en el sistema judicial chileno y, que se revocará la decisión”, aseguró. reiteró que la medida además de injusta, es desproporcionada, también manifestó que el ministerio público pretende sustentar que el alcalde de recoleta constituye un peligro, “me pregunto por qué durante tres años no lo formalizó si en el delito de cohecho la denuncia fue en 2020″.",
+    "tokens": [
+      "alcalde",
+      "recoleta",
+      ",",
+      "daniel",
+      "jadue",
+      ",",
+      "partido",
+      "comunista",
+      "chile",
+      ",",
+      "permanece",
+      "prisión",
+      "preventiva",
+      "anexo",
+      "penitenciario",
+      "capitán",
+      "yáber",
+      ",",
+      "emitió",
+      "miércoles",
+      "papel",
+      "contiene",
+      "mensaje",
+      "partidarios",
+      ".",
+      "mensaje",
+      "manuscrito",
+      "agradeció",
+      "“",
+      "solidaridad",
+      "cariño",
+      ",",
+      "dan",
+      "fuerza",
+      "resistir",
+      "trance",
+      "”",
+      ".",
+      "anterioridad",
+      "red",
+      "social",
+      "x",
+      ",",
+      "alcalde",
+      "referido",
+      ":",
+      "“",
+      "juzgan",
+      "gestión",
+      "transformadora",
+      ".",
+      "peso",
+      "bolsillo",
+      ",",
+      "dan",
+      "máxima",
+      "cautelar",
+      ".",
+      "apelaremos",
+      "medida",
+      "desproporcionada",
+      "!",
+      "”",
+      "parte",
+      ",",
+      "abogado",
+      "defensor",
+      "jadue",
+      ",",
+      "ramón",
+      "sepúlveda",
+      ",",
+      "señaló",
+      "recurrirán",
+      "corte",
+      "apelaciones",
+      "modificar",
+      "prisión",
+      "preventiva",
+      ".",
+      "“",
+      "confiamos",
+      "corte",
+      "va",
+      "ocupar",
+      "criterios",
+      "objetivos",
+      ",",
+      "ninguna",
+      "duda",
+      "sistema",
+      "judicial",
+      "chileno",
+      ",",
+      "revocará",
+      "decisión",
+      "”",
+      ",",
+      "aseguró",
+      ".",
+      "reiteró",
+      "medida",
+      "además",
+      "injusta",
+      ",",
+      "desproporcionada",
+      ",",
+      "manifestó",
+      "ministerio",
+      "público",
+      "pretende",
+      "sustentar",
+      "alcalde",
+      "recoleta",
+      "constituye",
+      "peligro",
+      ",",
+      "“",
+      "pregunto",
+      "tres",
+      "años",
+      "formalizó",
+      "si",
+      "delito",
+      "cohecho",
+      "denuncia",
+      "2020″",
+      "."
+    ],
+    "token_count": 128,
+    "sentence_count": 7
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 26,
+      "NN": 65,
+      "FW": 35,
+      "IN": 9,
+      "JJ": 19,
+      "NNS": 4,
+      "PRP": 4,
+      "VBP": 5,
+      "VB": 1,
+      "VBZ": 2,
+      "DT": 3,
+      "RB": 3,
+      "CD": 1
+    },
+    "bigram_freq": {
+      "NNP-NN": 10,
+      "NN-FW": 9,
+      "FW-NNP": 10,
+      "NNP-NNP": 9,
+      "NNP-FW": 5,
+      "NN-NN": 34,
+      "NN-IN": 9,
+      "IN-NN": 2,
+      "IN-FW": 2,
+      "NNP-JJ": 1,
+      "JJ-NN": 10,
+      "NN-NNS": 3,
+      "NNS-JJ": 1,
+      "JJ-JJ": 4,
+      "NN-JJ": 2,
+      "NNS-NNP": 1,
+      "FW-FW": 16,
+      "FW-NN": 6,
+      "IN-PRP": 3,
+      "PRP-VBP": 3,
+      "VBP-JJ": 3,
+      "NN-NNP": 3,
+      "NN-VB": 1,
+      "VB-PRP": 1,
+      "PRP-JJ": 1,
+      "NN-VBZ": 1,
+      "VBZ-DT": 1,
+      "DT-NN": 3,
+      "NN-RB": 3,
+      "RB-JJ": 3,
+      "JJ-FW": 3,
+      "FW-JJ": 3,
+      "JJ-NNP": 1,
+      "NNP-VBZ": 1,
+      "VBZ-JJ": 1,
+      "IN-NNP": 1,
+      "JJ-NNS": 1,
+      "NNS-VBP": 2,
+      "VBP-DT": 2,
+      "IN-CD": 1
+    },
+    "trigram_freq": {
+      "NNP-NN-FW": 1,
+      "NN-FW-NNP": 3,
+      "FW-NNP-NNP": 3,
+      "NNP-NNP-NNP": 4,
+      "NNP-NNP-FW": 2,
+      "NNP-FW-NNP": 3,
+      "FW-NNP-NN": 4,
+      "NNP-NN-NN": 9,
+      "NN-NN-IN": 5,
+      "NN-IN-NN": 2,
+      "IN-NN-NN": 2,
+      "NN-IN-FW": 2,
+      "IN-FW-NNP": 1,
+      "NNP-NNP-JJ": 1,
+      "NNP-JJ-NN": 1,
+      "JJ-NN-NNS": 1,
+      "NN-NNS-JJ": 1,
+      "NNS-JJ-JJ": 1,
+      "JJ-JJ-NN": 3,
+      "JJ-NN-NN": 7,
+      "NN-NN-JJ": 2,
+      "NN-JJ-NN": 1,
+      "NN-NN-NNS": 2,
+      "NN-NNS-NNP": 1,
+      "NNS-NNP-NN": 1,
+      "NN-NN-NN": 15,
+      "NN-NN-FW": 6,
+      "NN-FW-FW": 4,
+      "FW-FW-NN": 3,
+      "FW-NN-IN": 3,
+      "NN-IN-PRP": 3,
+      "IN-PRP-VBP": 3,
+      "PRP-VBP-JJ": 3,
+      "VBP-JJ-NN": 2,
+      "NN-NN-NNP": 3,
+      "NN-NNP-NN": 1,
+      "NN-JJ-JJ": 1,
+      "NN-NN-VB": 1,
+      "NN-VB-PRP": 1,
+      "VB-PRP-JJ": 1,
+      "PRP-JJ-JJ": 1,
+      "JJ-JJ-JJ": 1,
+      "JJ-NN-VBZ": 1,
+      "NN-VBZ-DT": 1,
+      "VBZ-DT-NN": 1,
+      "DT-NN-RB": 3,
+      "NN-RB-JJ": 3,
+      "RB-JJ-NN": 1,
+      "JJ-NN-IN": 1,
+      "VBP-JJ-FW": 1,
+      "JJ-FW-JJ": 1,
+      "FW-JJ-NNP": 1,
+      "JJ-NNP-NN": 1,
+      "NN-NNP-VBZ": 1,
+      "NNP-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 1,
+      "NN-IN-NNP": 1,
+      "IN-NNP-NNP": 1,
+      "NNP-NNP-NN": 2,
+      "FW-NNP-FW": 3,
+      "FW-FW-NNP": 3,
+      "NNP-FW-NN": 1,
+      "FW-NN-FW": 2,
+      "NNP-FW-JJ": 1,
+      "FW-JJ-NNS": 1,
+      "JJ-NNS-VBP": 1,
+      "NNS-VBP-DT": 2,
+      "VBP-DT-NN": 2,
+      "RB-JJ-FW": 2,
+      "JJ-FW-FW": 2,
+      "FW-FW-FW": 9,
+      "FW-FW-JJ": 1,
+      "FW-JJ-NN": 1,
+      "NN-FW-NN": 2,
+      "IN-FW-FW": 1,
+      "FW-NN-NN": 1,
+      "NN-NNP-NNP": 1,
+      "NN-NNS-VBP": 1,
+      "NN-IN-CD": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 65,
+        "FW": 35,
+        "NNP": 26,
+        "JJ": 19,
+        "IN": 9
+      },
+      "top_bigrams": {
+        "NN-NN": 34,
+        "FW-FW": 16,
+        "NNP-NN": 10,
+        "FW-NNP": 10,
+        "JJ-NN": 10
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 15,
+        "NNP-NN-NN": 9,
+        "FW-FW-FW": 9,
+        "JJ-NN-NN": 7,
+        "NN-NN-FW": 6
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 7,
+    "chunk_counts": {
+      "NP": 47,
+      "PP": 7,
+      "ADJP": 3,
+      "VP": 9
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 3,
+        "weight": 0.0411
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0274
+      },
+      {
+        "rule": "S -> NP ('de', 'FW') NP (',', ',') NP (',', ',') NP ('de', 'FW') NP (',', ',') NP PP ('en', 'IN') ('el', 'FW') NP (',', ',') NP NP ADJP VP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0137
+      },
+      {
+        "rule": "NP -> ('El', 'NNP') ('alcalde', 'NN')",
+        "frequency": 1,
+        "weight": 0.0137
+      },
+      {
+        "rule": "NP -> ('Recoleta', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0137
+      },
+      {
+        "rule": "NP -> ('Daniel', 'NNP') ('Jadue', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0137
+      },
+      {
+        "rule": "NP -> ('del', 'NN') ('Partido', 'NNP') ('Comunista', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0137
+      },
+      {
+        "rule": "NP -> ('Chile', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0137
+      },
+      {
+        "rule": "NP -> ('que', 'JJ') ('permanece', 'NN')",
+        "frequency": 1,
+        "weight": 0.0137
+      },
+      {
+        "rule": "NP -> ('prisión', 'NN') ('preventiva', 'NN')",
+        "frequency": 1,
+        "weight": 0.0137
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El alcalde"
+      },
+      {
+        "label": "NP",
+        "text": "Recoleta"
+      },
+      {
+        "label": "NP",
+        "text": "Daniel Jadue"
+      },
+      {
+        "label": "NP",
+        "text": "del Partido Comunista"
+      },
+      {
+        "label": "NP",
+        "text": "Chile"
+      },
+      {
+        "label": "NP",
+        "text": "que permanece"
+      },
+      {
+        "label": "PP",
+        "text": "en prisión preventiva"
+      },
+      {
+        "label": "NP",
+        "text": "prisión preventiva"
+      },
+      {
+        "label": "NP",
+        "text": "Anexo Penitenciario Capitán Yáber"
+      },
+      {
+        "label": "NP",
+        "text": "emitió este miércoles"
+      },
+      {
+        "label": "NP",
+        "text": "un papel que contiene"
+      },
+      {
+        "label": "ADJP",
+        "text": "un"
+      },
+      {
+        "label": "VP",
+        "text": "mensaje a sus partidarios"
+      },
+      {
+        "label": "NP",
+        "text": "a sus partidarios"
+      },
+      {
+        "label": "NP",
+        "text": "En el mensaje manuscrito agradeció “ la"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP El/NNP alcalde/NN)\n  de/FW\n  (NP Recoleta/NNP)\n  ,/,\n  (NP Daniel/NNP Jadue/NNP)\n  ,/,\n  (NP del/NN Partido/NNP Comunista/NNP)\n  de/FW\n  (NP Chile/NNP)\n  ,/,\n  (NP que/JJ permanece/NN)\n  (PP en/IN (NP prisión/NN preventiva/NN))\n  en/IN\n  el/FW\n  (NP Anexo/NNP Penitenciario/NNP Capitán/NNP Yáber/NNP)\n  ,/,\n  (NP emitió/JJ este/NN miércoles/NNS)\n  (NP un/JJ papel/JJ que/NN contiene/NN)\n  (ADJP un/JJ)\n  (VP mensaje/VBZ (NP a/DT sus/NN partidarios/NN))\n  ./.)",
+      "(S\n  (NP\n    En/NNP\n    el/NN\n    mensaje/NN\n    manuscrito/NN\n    agradeció/NN\n    “/NNP\n    la/NNP)\n  (VP solidaridad/VBD (NP y/JJ el/NN cariño/NN))\n  ,/,\n  (VP que/VB me/PRP dan/JJ)\n  la/FW\n  fuerza/FW\n  para/FW\n  resistir/FW\n  (NP este/NN trance/NN ”/NN)\n  ./.)",
+      "(S\n  (NP Con/NNP anterioridad/NN en/NN la/NN)\n  (NP red/JJ social/JJ X/NNP)\n  ,/,\n  (NP el/JJ alcalde/NN había/NN referido/NN)\n  :/:\n  (VP\n    “/VB\n    me/PRP\n    (NP juzgan/JJ por/JJ nuestra/JJ gestión/NN transformadora/NN))\n  ./.)",
+      "(S\n  (NP No/DT hay/NN)\n  ni/RB\n  (NP un/JJ peso/NN)\n  (PP en/IN (NP mi/NN bolsillo/NN))\n  ,/,\n  (VP pero/VB me/PRP dan/JJ)\n  la/FW\n  máxima/FW\n  (NP cautelar/NN)\n  ./.)",
+      "(S\n  (PP Apelaremos/IN (NP a/DT esta/JJ medida/NN desproporcionada/NN))\n  !/.\n  (NP ”/JJ Por/NNP)\n  otra/MD\n  (VP parte/VB)\n  ,/,\n  el/FW\n  (NP abogado/NN defensor/NN)\n  (PP de/IN (NP Jadue/NNP))\n  ,/,\n  (NP Ramón/NNP Sepúlveda/NNP)\n  ,/,\n  (NP señaló/NN que/NN)\n  (VP recurrirán/VBZ (NP a/DT la/NN Corte/NNP))\n  (PP\n    de/IN\n    (NP\n      Apelaciones/NNP\n      para/NN\n      modificar/NN\n      la/NN\n      prisión/NN\n      preventiva/NN))\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "JURIDICO_LEGISLATIVO_CORRUPCION",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "PROTESTAS_CONFLICTOS_SOCIALES",
+      "PAISES"
+    ],
+    "matches": [
+      {
+        "category": "PROTESTAS_CONFLICTOS_SOCIALES",
+        "matched_text": "manifestó",
+        "position": [
+          934,
+          943
+        ],
+        "start": 934,
+        "end": 943
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "señaló",
+        "position": [
+          620,
+          626
+        ],
+        "start": 620,
+        "end": 626
+      },
+      {
+        "category": "JURIDICO_LEGISLATIVO_CORRUPCION",
+        "matched_text": "prisión preventiva",
+        "position": [
+          88,
+          106
+        ],
+        "start": 88,
+        "end": 106
+      },
+      {
+        "category": "JURIDICO_LEGISLATIVO_CORRUPCION",
+        "matched_text": "cohecho",
+        "position": [
+          1114,
+          1121
+        ],
+        "start": 1114,
+        "end": 1121
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "chile",
+        "position": [
+          64,
+          69
+        ],
+        "start": 64,
+        "end": 69
+      }
+    ],
+    "match_count": 5
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Corte de Apelaciones",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Corte",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Partido Comunista de Chile",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Ramón Sepúlveda",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Ministerio Público",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Daniel Jadue",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Jadue",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Recoleta",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Apelaremos",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Apelaremos",
+        "relacion": "APELARER",
+        "objeto": "Jadue"
+      },
+      {
+        "sujeto": "Apelaremos",
+        "relacion": "APELARER",
+        "objeto": "Ramón Sepúlveda"
+      },
+      {
+        "sujeto": "Apelaremos",
+        "relacion": "APELARER",
+        "objeto": "Corte de Apelaciones"
+      },
+      {
+        "sujeto": "Jadue",
+        "relacion": "SE_ALAR_APELARER",
+        "objeto": "Corte de Apelaciones"
+      },
+      {
+        "sujeto": "Ramón Sepúlveda",
+        "relacion": "SE_ALAR_APELARER",
+        "objeto": "Corte de Apelaciones"
+      },
+      {
+        "sujeto": "Ministerio Público",
+        "relacion": "PRETENDER_MANIFESTAR_REITERAR",
+        "objeto": "Recoleta"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.7088,
+    "pos": 0.0,
+    "neu": 0.962,
+    "neg": 0.038,
+    "label": "negative"
+  }
+}

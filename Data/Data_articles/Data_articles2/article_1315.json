@@ -1,0 +1,637 @@
+{
+  "url": "https://www.telesurtv.net/ejercito-colombia-despliega-soldados-arauca/",
+  "title": "Ejército de Colombia despliega soldados en el departamento de Arauca - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "Arauca",
+    "Colombia",
+    "despliegue",
+    "Ejército"
+  ],
+  "text": "El Ejército de Colombia activó este martes a 1.700 soldados en el departamento de Arauca, implementando así la Fuerza de Despliegue Rápido número ocho.\nEn este sentido, el comandante del Ejército Nacional de Colombia, general Luis Emilio Cardozo informó acerca de la operación: “Activamos la Fuerza de Despliegue Rápido N.° 8 (FUDRA 8), Octava División del Ejército,  desplegando más de 1700 soldados en el departamento de Arauca, con el firme propósito de enfrentar a los grupos armados organizados que amenazan la seguridad de la Orinoquía colombiana”, manifestó.\nAsimismo la autoridad insiste que el objetivo de la unidad, la cual estará bajo la dirección del coronel David Felipe Ciro, es enfrentar a los grupos armados organizados que amenazan la seguridad.\nLa fuerza cuenta con tres batallones de despliegue rápido, otro de reconocimiento y acción directa, así como de capacidades en operaciones especiales como asalto aéreo, inteligencia y tecnología, con el uso de aeronaves tripuladas y no tripuladas.\nPor su parte, el ministro refirió que “estas tropas operarán con estricto respeto a los derechos humanos y acatamiento al derecho internacional humanitario, priorizando la estabilidad y protección de los 7 municipios del departamento”.\n",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/ejercito-colombia-despliega-soldados-arauca/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-04.json",
+    "message_index": 1993,
+    "message_id": 90804,
+    "date": "2025-04-02T00:55:29+00:00",
+    "text": "teleSUR\nEjército de Colombia despliega soldados en el departamento de Arauca\nhttps://www.telesurtv.net/ejercito-colombia-despliega-soldados-arauca/",
+    "photo_path": null,
+    "views": 1809,
+    "reactions": {
+      "👍": 32,
+      "🥰": 1
+    },
+    "total_reactions": 33
+  },
+  "preprocessing": {
+    "cleaned": "el ejército de colombia activó este martes a 1.700 soldados en el departamento de arauca, implementando así la fuerza de despliegue rápido número ocho. en este sentido, el comandante del ejército nacional de colombia, general luis emilio cardozo informó acerca de la operación: “activamos la fuerza de despliegue rápido n.° 8 (fudra 8), octava división del ejército, desplegando más de 1700 soldados en el departamento de arauca, con el firme propósito de enfrentar a los grupos armados organizados que amenazan la seguridad de la orinoquía colombiana”, manifestó. asimismo la autoridad insiste que el objetivo de la unidad, la cual estará bajo la dirección del coronel david felipe ciro, es enfrentar a los grupos armados organizados que amenazan la seguridad. la fuerza cuenta con tres batallones de despliegue rápido, otro de reconocimiento y acción directa, así como de capacidades en operaciones especiales como asalto aéreo, inteligencia y tecnología, con el uso de aeronaves tripuladas y no tripuladas. por su parte, el ministro refirió que “estas tropas operarán con estricto respeto a los derechos humanos y acatamiento al derecho internacional humanitario, priorizando la estabilidad y protección de los 7 municipios del departamento”.",
+    "tokens": [
+      "ejército",
+      "colombia",
+      "activó",
+      "martes",
+      "1.700",
+      "soldados",
+      "departamento",
+      "arauca",
+      ",",
+      "implementando",
+      "así",
+      "fuerza",
+      "despliegue",
+      "rápido",
+      "número",
+      "ocho",
+      ".",
+      ",",
+      "comandante",
+      "ejército",
+      "nacional",
+      "colombia",
+      ",",
+      "general",
+      "luis",
+      "emilio",
+      "cardozo",
+      "informó",
+      "acerca",
+      "operación",
+      ":",
+      "“",
+      "activamos",
+      "fuerza",
+      "despliegue",
+      "rápido",
+      "n.°",
+      "8",
+      "(",
+      "fudra",
+      "8",
+      ")",
+      ",",
+      "octava",
+      "división",
+      "ejército",
+      ",",
+      "desplegando",
+      "1700",
+      "soldados",
+      "departamento",
+      "arauca",
+      ",",
+      "firme",
+      "propósito",
+      "enfrentar",
+      "grupos",
+      "armados",
+      "organizados",
+      "amenazan",
+      "seguridad",
+      "orinoquía",
+      "colombiana",
+      "”",
+      ",",
+      "manifestó",
+      ".",
+      "asimismo",
+      "autoridad",
+      "insiste",
+      "objetivo",
+      "unidad",
+      ",",
+      "bajo",
+      "dirección",
+      "coronel",
+      "david",
+      "felipe",
+      "ciro",
+      ",",
+      "enfrentar",
+      "grupos",
+      "armados",
+      "organizados",
+      "amenazan",
+      "seguridad",
+      ".",
+      "fuerza",
+      "cuenta",
+      "tres",
+      "batallones",
+      "despliegue",
+      "rápido",
+      ",",
+      "reconocimiento",
+      "acción",
+      "directa",
+      ",",
+      "así",
+      "capacidades",
+      "operaciones",
+      "especiales",
+      "asalto",
+      "aéreo",
+      ",",
+      "inteligencia",
+      "tecnología",
+      ",",
+      "uso",
+      "aeronaves",
+      "tripuladas",
+      "tripuladas",
+      ".",
+      "parte",
+      ",",
+      "ministro",
+      "refirió",
+      "“",
+      "tropas",
+      "operarán",
+      "estricto",
+      "respeto",
+      "derechos",
+      "humanos",
+      "acatamiento",
+      "derecho",
+      "internacional",
+      "humanitario",
+      ",",
+      "priorizando",
+      "estabilidad",
+      "protección",
+      "7",
+      "municipios",
+      "departamento",
+      "”",
+      "."
+    ],
+    "token_count": 137,
+    "sentence_count": 5
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 33,
+      "IN": 7,
+      "VBP": 5,
+      "NN": 57,
+      "NNS": 7,
+      "CD": 2,
+      "FW": 53,
+      "JJ": 11,
+      "VBZ": 2,
+      "DT": 1
+    },
+    "bigram_freq": {
+      "NNP-NNP": 14,
+      "NNP-IN": 1,
+      "IN-NNP": 1,
+      "NNP-VBP": 1,
+      "VBP-NN": 2,
+      "NN-NNS": 3,
+      "NNS-CD": 1,
+      "CD-NNS": 1,
+      "NNS-FW": 1,
+      "FW-FW": 32,
+      "FW-NNP": 11,
+      "NNP-NN": 8,
+      "NN-NN": 31,
+      "NN-FW": 10,
+      "NNP-FW": 6,
+      "NN-NNP": 5,
+      "NNP-JJ": 2,
+      "JJ-NNP": 1,
+      "JJ-NN": 7,
+      "NN-IN": 5,
+      "IN-FW": 3,
+      "IN-CD": 1,
+      "CD-NN": 1,
+      "NNP-VBZ": 1,
+      "VBZ-NN": 1,
+      "FW-JJ": 2,
+      "JJ-FW": 1,
+      "FW-NN": 5,
+      "NN-JJ": 2,
+      "NNS-VBZ": 1,
+      "VBZ-IN": 1,
+      "IN-NN": 1,
+      "FW-NNS": 2,
+      "NNS-NNS": 1,
+      "NNS-VBP": 3,
+      "VBP-JJ": 2,
+      "FW-VBP": 1,
+      "VBP-DT": 1,
+      "DT-NN": 1,
+      "IN-JJ": 1,
+      "JJ-JJ": 2
+    },
+    "trigram_freq": {
+      "NNP-NNP-IN": 1,
+      "NNP-IN-NNP": 1,
+      "IN-NNP-VBP": 1,
+      "NNP-VBP-NN": 1,
+      "VBP-NN-NNS": 1,
+      "NN-NNS-CD": 1,
+      "NNS-CD-NNS": 1,
+      "CD-NNS-FW": 1,
+      "NNS-FW-FW": 1,
+      "FW-FW-FW": 22,
+      "FW-FW-NNP": 5,
+      "FW-NNP-NN": 4,
+      "NNP-NN-NN": 8,
+      "NN-NN-FW": 8,
+      "NN-FW-NNP": 1,
+      "FW-NNP-FW": 4,
+      "NNP-FW-NNP": 5,
+      "FW-NNP-NNP": 2,
+      "NNP-NNP-NN": 2,
+      "NN-NN-NNP": 3,
+      "NN-NNP-NN": 2,
+      "NN-NN-NN": 14,
+      "NN-NNP-NNP": 3,
+      "NNP-NNP-FW": 2,
+      "FW-NNP-JJ": 1,
+      "NNP-JJ-NNP": 1,
+      "JJ-NNP-NNP": 1,
+      "NNP-NNP-NNP": 7,
+      "NNP-NNP-JJ": 1,
+      "NNP-JJ-NN": 1,
+      "JJ-NN-IN": 2,
+      "NN-IN-FW": 3,
+      "IN-FW-FW": 2,
+      "NN-NN-IN": 2,
+      "NN-IN-CD": 1,
+      "IN-CD-NN": 1,
+      "CD-NN-FW": 1,
+      "NN-FW-FW": 7,
+      "NNP-NNP-VBZ": 1,
+      "NNP-VBZ-NN": 1,
+      "VBZ-NN-NN": 1,
+      "FW-FW-JJ": 1,
+      "FW-JJ-FW": 1,
+      "JJ-FW-JJ": 1,
+      "FW-JJ-NN": 1,
+      "JJ-NN-NN": 5,
+      "FW-FW-NN": 2,
+      "FW-NN-NNP": 1,
+      "NN-NN-JJ": 2,
+      "NN-JJ-NN": 2,
+      "NNP-FW-NN": 1,
+      "FW-NN-NN": 2,
+      "NN-NN-NNS": 2,
+      "NN-NNS-VBZ": 1,
+      "NNS-VBZ-IN": 1,
+      "VBZ-IN-NN": 1,
+      "IN-NN-NN": 1,
+      "FW-NN-FW": 1,
+      "FW-FW-NNS": 1,
+      "FW-NNS-NNS": 1,
+      "NNS-NNS-VBP": 1,
+      "NNS-VBP-JJ": 2,
+      "VBP-JJ-NN": 2,
+      "FW-FW-VBP": 1,
+      "FW-VBP-DT": 1,
+      "VBP-DT-NN": 1,
+      "DT-NN-NNP": 1,
+      "NN-FW-NN": 2,
+      "NN-NNS-VBP": 1,
+      "NN-IN-JJ": 1,
+      "IN-JJ-JJ": 1,
+      "JJ-JJ-JJ": 1,
+      "JJ-JJ-NN": 1,
+      "FW-NN-IN": 1,
+      "IN-FW-NNS": 1,
+      "FW-NNS-VBP": 1,
+      "NNS-VBP-NN": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 57,
+        "FW": 53,
+        "NNP": 33,
+        "JJ": 11,
+        "IN": 7
+      },
+      "top_bigrams": {
+        "FW-FW": 32,
+        "NN-NN": 31,
+        "NNP-NNP": 14,
+        "FW-NNP": 11,
+        "NN-FW": 10
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 22,
+        "NN-NN-NN": 14,
+        "NNP-NN-NN": 8,
+        "NN-NN-FW": 8,
+        "NNP-NNP-NNP": 7
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 5,
+    "chunk_counts": {
+      "NP": 48,
+      "PP": 3,
+      "VP": 9
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0308
+      },
+      {
+        "rule": "NP -> ('Colombia', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0308
+      },
+      {
+        "rule": "NP -> ('soldados', 'NN')",
+        "frequency": 2,
+        "weight": 0.0308
+      },
+      {
+        "rule": "NP -> ('Arauca', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0308
+      },
+      {
+        "rule": "S -> NP PP VP VP ('a', 'DT') ('1.700', 'CD') NP ('en', 'FW') ('el', 'FW') ('departamento', 'FW') ('de', 'FW') NP (',', ',') NP ('la', 'FW') NP ('de', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0154
+      },
+      {
+        "rule": "NP -> ('El', 'NNP') ('Ejército', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0154
+      },
+      {
+        "rule": "VP -> ('activó', 'VBP') NP",
+        "frequency": 1,
+        "weight": 0.0154
+      },
+      {
+        "rule": "NP -> ('este', 'NN')",
+        "frequency": 1,
+        "weight": 0.0154
+      },
+      {
+        "rule": "VP -> ('martes', 'VBZ')",
+        "frequency": 1,
+        "weight": 0.0154
+      },
+      {
+        "rule": "NP -> ('implementando', 'NN') ('así', 'NN')",
+        "frequency": 1,
+        "weight": 0.0154
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El Ejército"
+      },
+      {
+        "label": "PP",
+        "text": "de Colombia"
+      },
+      {
+        "label": "NP",
+        "text": "Colombia"
+      },
+      {
+        "label": "VP",
+        "text": "activó este"
+      },
+      {
+        "label": "NP",
+        "text": "este"
+      },
+      {
+        "label": "VP",
+        "text": "martes"
+      },
+      {
+        "label": "NP",
+        "text": "soldados"
+      },
+      {
+        "label": "NP",
+        "text": "Arauca"
+      },
+      {
+        "label": "NP",
+        "text": "implementando así"
+      },
+      {
+        "label": "NP",
+        "text": "Fuerza"
+      },
+      {
+        "label": "NP",
+        "text": "Despliegue Rápido número ocho"
+      },
+      {
+        "label": "NP",
+        "text": "En este sentido"
+      },
+      {
+        "label": "NP",
+        "text": "el comandante del Ejército Nacional"
+      },
+      {
+        "label": "NP",
+        "text": "Colombia"
+      },
+      {
+        "label": "NP",
+        "text": "general Luis Emilio Cardozo"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP El/NNP Ejército/NNP)\n  (PP de/IN (NP Colombia/NNP))\n  (VP activó/VBP (NP este/NN))\n  (VP martes/VBZ)\n  a/DT\n  1.700/CD\n  (NP soldados/NN)\n  en/FW\n  el/FW\n  departamento/FW\n  de/FW\n  (NP Arauca/NNP)\n  ,/,\n  (NP implementando/NN así/NN)\n  la/FW\n  (NP Fuerza/NNP)\n  de/FW\n  (NP Despliegue/NNP Rápido/NNP número/NN ocho/NN)\n  ./.)",
+      "(S\n  (NP En/NNP este/NN sentido/NN)\n  ,/,\n  (NP el/JJ comandante/NN del/NN Ejército/NNP Nacional/NNP)\n  de/FW\n  (NP Colombia/NNP)\n  ,/,\n  (NP general/JJ Luis/NNP Emilio/NNP Cardozo/NNP)\n  (NP informó/JJ acerca/NN)\n  de/IN\n  la/FW\n  (NP operación/NN)\n  :/:\n  (NP\n    “/JJ\n    Activamos/NNP\n    la/NN\n    Fuerza/NNP\n    de/NNP\n    Despliegue/NNP\n    Rápido/NNP\n    N.°/NNP)\n  8/CD\n  (/(\n  (NP FUDRA/NNP)\n  8/CD\n  )/)\n  ,/,\n  (NP Octava/NNP División/NNP)\n  del/FW\n  (NP Ejército/NNP)\n  ,/,\n  (NP desplegando/JJ más/NN)\n  de/IN\n  1700/CD\n  (NP soldados/NN)\n  en/FW\n  el/FW\n  departamento/FW\n  de/FW\n  (NP Arauca/NNP)\n  ,/,\n  (NP con/NN el/NN firme/NN propósito/NN)\n  de/IN\n  enfrentar/FW\n  (NP\n    a/DT\n    los/NN\n    grupos/NN\n    armados/NN\n    organizados/NN\n    que/NN\n    amenazan/NN)\n  la/FW\n  seguridad/FW\n  de/FW\n  la/FW\n  (NP Orinoquía/NNP colombiana/NN ”/NNP)\n  ,/,\n  (NP manifestó/NN)\n  ./.)",
+      "(S\n  (NP Asimismo/NNP la/NN autoridad/NN insiste/NN que/NN)\n  el/FW\n  objetivo/FW\n  de/FW\n  la/FW\n  unidad/FW\n  ,/,\n  la/FW\n  (NP cual/JJ estará/NN bajo/NN la/NN)\n  dirección/FW\n  del/FW\n  (NP coronel/NN David/NNP Felipe/NNP Ciro/NNP)\n  ,/,\n  (VP es/VBZ)\n  (VP\n    enfrentar/VBP\n    (NP\n      a/DT\n      los/NN\n      grupos/NN\n      armados/NN\n      organizados/NN\n      que/NN\n      amenazan/NN\n      la/NN\n      seguridad/NN))\n  ./.)",
+      "(S\n  (NP La/NNP)\n  (VP fuerza/VBZ (NP cuenta/JJ con/NN tres/NNS))\n  (VP batallones/VBZ)\n  (PP de/IN (NP despliegue/NN rápido/NN))\n  ,/,\n  otro/FW\n  de/FW\n  reconocimiento/FW\n  y/FW\n  (NP acción/NN directa/NN)\n  ,/,\n  (NP así/JJ como/NN)\n  de/FW\n  capacidades/FW\n  en/FW\n  (NP operaciones/NNS especiales/NNS)\n  (VP como/VBP (NP asalto/JJ aéreo/NN))\n  ,/,\n  (NP inteligencia/JJ y/NN tecnología/NN)\n  ,/,\n  (NP con/NN el/NN)\n  uso/FW\n  de/FW\n  aeronaves/FW\n  (NP tripuladas/NNS)\n  (VP y/VBP (NP no/DT tripuladas/NN))\n  ./.)",
+      "(S\n  (NP Por/NNP su/NN parte/NN)\n  ,/,\n  el/FW\n  ministro/FW\n  (NP refirió/NN que/NN “/NNP)\n  (VP\n    estas/VBZ\n    (NP tropas/JJ operarán/JJ con/NN estricto/NN respeto/NN)\n    (NP a/DT los/NN derechos/NN humanos/NN y/NN))\n  (PP\n    acatamiento/IN\n    (NP al/JJ derecho/JJ internacional/JJ humanitario/NN))\n  ,/,\n  (NP priorizando/NN la/NN)\n  estabilidad/FW\n  y/FW\n  protección/FW\n  de/FW\n  los/FW\n  7/CD\n  (NP municipios/NNS)\n  del/FW\n  (NP departamento/NN ”/NN)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "REGIONES_PROVINCIAS",
+      "INSTITUCIONES_EDUCATIVAS",
+      "JUSTICIA_SOCIAL",
+      "PAISES",
+      "PROTESTAS_CONFLICTOS_SOCIALES"
+    ],
+    "matches": [
+      {
+        "category": "PROTESTAS_CONFLICTOS_SOCIALES",
+        "matched_text": "manifestó",
+        "position": [
+          555,
+          564
+        ],
+        "start": 555,
+        "end": 564
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "informó",
+        "position": [
+          246,
+          253
+        ],
+        "start": 246,
+        "end": 253
+      },
+      {
+        "category": "INSTITUCIONES_EDUCATIVAS",
+        "matched_text": "departamento de arauca",
+        "position": [
+          66,
+          88
+        ],
+        "start": 66,
+        "end": 88
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "colombia",
+        "position": [
+          15,
+          23
+        ],
+        "start": 15,
+        "end": 23
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "departamento de",
+        "position": [
+          66,
+          81
+        ],
+        "start": 66,
+        "end": 81
+      },
+      {
+        "category": "JUSTICIA_SOCIAL",
+        "matched_text": "derechos humanos",
+        "position": [
+          1099,
+          1115
+        ],
+        "start": 1099,
+        "end": 1115
+      }
+    ],
+    "match_count": 6
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "David Felipe Ciro",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Fuerza de Despliegue Rápido N.° 8",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Ejército de Colombia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Orinoquía",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Luis Emilio Cardozo",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Arauca",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Fuerza de Despliegue Rápido",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Ejército Nacional de Colombia",
+        "tipo": "Organizacion"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Ejército de Colombia",
+        "relacion": "ACTIVAR",
+        "objeto": "Arauca"
+      },
+      {
+        "sujeto": "Ejército de Colombia",
+        "relacion": "ACTIVAR",
+        "objeto": "Fuerza de Despliegue Rápido"
+      },
+      {
+        "sujeto": "Arauca",
+        "relacion": "ACTIVAR",
+        "objeto": "Fuerza de Despliegue Rápido"
+      },
+      {
+        "sujeto": "Ejército Nacional de Colombia",
+        "relacion": "INFORMAR_MANIFESTAR",
+        "objeto": "Fuerza de Despliegue Rápido N.° 8"
+      },
+      {
+        "sujeto": "Ejército Nacional de Colombia",
+        "relacion": "INFORMAR_MANIFESTAR",
+        "objeto": "Arauca"
+      },
+      {
+        "sujeto": "Ejército Nacional de Colombia",
+        "relacion": "INFORMAR_MANIFESTAR",
+        "objeto": "Orinoquía"
+      },
+      {
+        "sujeto": "Luis Emilio Cardozo",
+        "relacion": "INFORMAR_MANIFESTAR",
+        "objeto": "Fuerza de Despliegue Rápido N.° 8"
+      },
+      {
+        "sujeto": "Luis Emilio Cardozo",
+        "relacion": "INFORMAR_MANIFESTAR",
+        "objeto": "Arauca"
+      },
+      {
+        "sujeto": "Luis Emilio Cardozo",
+        "relacion": "INFORMAR_MANIFESTAR",
+        "objeto": "Orinoquía"
+      },
+      {
+        "sujeto": "Fuerza de Despliegue Rápido N.° 8",
+        "relacion": "ACTIVAR_INFORMAR_MANIFESTAR",
+        "objeto": "Arauca"
+      },
+      {
+        "sujeto": "Fuerza de Despliegue Rápido N.° 8",
+        "relacion": "ACTIVAR_INFORMAR_MANIFESTAR",
+        "objeto": "Orinoquía"
+      },
+      {
+        "sujeto": "Arauca",
+        "relacion": "DESPLEGAR_ACTIVAR_INFORMAR_MANIFESTAR",
+        "objeto": "Orinoquía"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.296,
+    "pos": 0.0,
+    "neu": 0.988,
+    "neg": 0.012,
+    "label": "negative"
+  }
+}

@@ -1,0 +1,693 @@
+{
+  "url": "https://www.telesurtv.net/al-menos-24-muertos-deja-el-paso-del-huracan-john-por-el-sur-de-mexico/",
+  "title": "Al menos 24 muertos deja el paso del huracán John por el sur de México - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "acapulco",
+    "Damnificados",
+    "deslizamientos de tierra",
+    "Huracán John"
+  ],
+  "text": "El presidente Andrés Manuel López Obrador destacó el sábado las afectaciones en la ciudad de Acapulco y según la Coordinación Nacional de Protección Civil (CNPC)  de los más de 5.000 rescatados, 3.800 ingresaron en refugios temporales.\nLas autoridades mexicanas reportaron que el paso del huracán John por el sur de México dejó cerca de 24 muertos. El presidente Andrés Manuel López Obrador destacó el sábado las afectaciones en la ciudad de Acapulco y según la Coordinación Nacional de Protección Civil (CNPC)  de los más de 5.000 rescatados, 3.800 ingresaron en refugios temporales.\nEl CNPC ahondó en que al menos ocho personas fallecieron en las inundaciones provocadas por el huracán en la ciudad de Acapulco, en Guerrero, estado donde alrededor de 18 personas perdieron la vida, mientras que en Oaxaca se reportaron cinco muertes y una en Michoacán.\nEn Oaxaca, una persona mayor y un niño murieron tras quedar sepultados en su vivienda por un deslizamiento de tierra provocado por las intensas lluvias, lo que elevó a cinco los fallecidos registrados en el estado, luego de que el gobernador Salomón Jara reportara tres casos el pasado el jueves.\nPor su parte, en Michoacán se confirmó en la jornada de viernes la muerte de un niño de cuatro años que cayó accidentalmente en el río Grande, en Morelia. Asimismo, John ha causado daños significativos en infraestructura y carreteras, con caídas de muros, deslizamientos de tierra e inundaciones en varias regiones del país.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/al-menos-24-muertos-deja-el-paso-del-huracan-john-por-el-sur-de-mexico/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-09.json",
+    "message_index": 95,
+    "message_id": 77355,
+    "date": "2024-09-29T10:55:07+00:00",
+    "text": "teleSUR\nAl menos 24 muertos deja el paso del huracán John por el sur de México\nhttps://www.telesurtv.net/al-menos-24-muertos-deja-el-paso-del-huracan-john-por-el-sur-de-mexico/",
+    "photo_path": null,
+    "views": 2790,
+    "reactions": {
+      "😢": 43,
+      "👍": 3
+    },
+    "total_reactions": 46
+  },
+  "preprocessing": {
+    "cleaned": "el presidente andrés manuel lópez obrador destacó el sábado las afectaciones en la ciudad de acapulco y según la coordinación nacional de protección civil (cnpc) de los más de 5.000 rescatados, 3.800 ingresaron en refugios temporales. las autoridades mexicanas reportaron que el paso del huracán john por el sur de méxico dejó cerca de 24 muertos. el presidente andrés manuel lópez obrador destacó el sábado las afectaciones en la ciudad de acapulco y según la coordinación nacional de protección civil (cnpc) de los más de 5.000 rescatados, 3.800 ingresaron en refugios temporales. el cnpc ahondó en que al menos ocho personas fallecieron en las inundaciones provocadas por el huracán en la ciudad de acapulco, en guerrero, estado donde alrededor de 18 personas perdieron la vida, mientras que en oaxaca se reportaron cinco muertes y una en michoacán. en oaxaca, una persona mayor y un niño murieron tras quedar sepultados en su vivienda por un deslizamiento de tierra provocado por las intensas lluvias, lo que elevó a cinco los fallecidos registrados en el estado, luego de que el gobernador salomón jara reportara tres casos el pasado el jueves. por su parte, en michoacán se confirmó en la jornada de viernes la muerte de un niño de cuatro años que cayó accidentalmente en el río grande, en morelia. asimismo, john ha causado daños significativos en infraestructura y carreteras, con caídas de muros, deslizamientos de tierra e inundaciones en varias regiones del país.",
+    "tokens": [
+      "presidente",
+      "andrés",
+      "manuel",
+      "lópez",
+      "obrador",
+      "destacó",
+      "sábado",
+      "afectaciones",
+      "ciudad",
+      "acapulco",
+      "según",
+      "coordinación",
+      "nacional",
+      "protección",
+      "civil",
+      "(",
+      "cnpc",
+      ")",
+      "5.000",
+      "rescatados",
+      ",",
+      "3.800",
+      "ingresaron",
+      "refugios",
+      "temporales",
+      ".",
+      "autoridades",
+      "mexicanas",
+      "reportaron",
+      "paso",
+      "huracán",
+      "john",
+      "sur",
+      "méxico",
+      "dejó",
+      "cerca",
+      "24",
+      "muertos",
+      ".",
+      "presidente",
+      "andrés",
+      "manuel",
+      "lópez",
+      "obrador",
+      "destacó",
+      "sábado",
+      "afectaciones",
+      "ciudad",
+      "acapulco",
+      "según",
+      "coordinación",
+      "nacional",
+      "protección",
+      "civil",
+      "(",
+      "cnpc",
+      ")",
+      "5.000",
+      "rescatados",
+      ",",
+      "3.800",
+      "ingresaron",
+      "refugios",
+      "temporales",
+      ".",
+      "cnpc",
+      "ahondó",
+      "menos",
+      "ocho",
+      "personas",
+      "fallecieron",
+      "inundaciones",
+      "provocadas",
+      "huracán",
+      "ciudad",
+      "acapulco",
+      ",",
+      "guerrero",
+      ",",
+      "alrededor",
+      "18",
+      "personas",
+      "perdieron",
+      "vida",
+      ",",
+      "mientras",
+      "oaxaca",
+      "reportaron",
+      "cinco",
+      "muertes",
+      "michoacán",
+      ".",
+      "oaxaca",
+      ",",
+      "persona",
+      "mayor",
+      "niño",
+      "murieron",
+      "tras",
+      "quedar",
+      "sepultados",
+      "vivienda",
+      "deslizamiento",
+      "tierra",
+      "provocado",
+      "intensas",
+      "lluvias",
+      ",",
+      "elevó",
+      "cinco",
+      "fallecidos",
+      "registrados",
+      ",",
+      "luego",
+      "gobernador",
+      "salomón",
+      "jara",
+      "reportara",
+      "tres",
+      "casos",
+      "pasado",
+      "jueves",
+      ".",
+      "parte",
+      ",",
+      "michoacán",
+      "confirmó",
+      "jornada",
+      "viernes",
+      "muerte",
+      "niño",
+      "cuatro",
+      "años",
+      "cayó",
+      "accidentalmente",
+      "río",
+      "grande",
+      ",",
+      "morelia",
+      ".",
+      "asimismo",
+      ",",
+      "john",
+      "causado",
+      "daños",
+      "significativos",
+      "infraestructura",
+      "carreteras",
+      ",",
+      "caídas",
+      "muros",
+      ",",
+      "deslizamientos",
+      "tierra",
+      "inundaciones",
+      "varias",
+      "regiones",
+      "país",
+      "."
+    ],
+    "token_count": 159,
+    "sentence_count": 7
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 41,
+      "NN": 71,
+      "NNS": 17,
+      "IN": 12,
+      "FW": 67,
+      "CD": 6,
+      "VBZ": 2,
+      "JJ": 11,
+      "VBP": 6
+    },
+    "bigram_freq": {
+      "NNP-NN": 11,
+      "NN-NNP": 6,
+      "NNP-NNP": 18,
+      "NN-NN": 35,
+      "NN-NNS": 7,
+      "NNS-IN": 3,
+      "IN-FW": 5,
+      "FW-FW": 40,
+      "FW-NNP": 10,
+      "NNP-FW": 10,
+      "FW-CD": 2,
+      "CD-NNS": 4,
+      "NNS-CD": 2,
+      "CD-NN": 2,
+      "NN-FW": 9,
+      "FW-NN": 12,
+      "NNS-NNP": 4,
+      "NNP-VBZ": 1,
+      "VBZ-JJ": 2,
+      "JJ-NN": 8,
+      "NN-IN": 9,
+      "IN-NNP": 2,
+      "IN-CD": 2,
+      "FW-NNS": 3,
+      "NNS-NNS": 1,
+      "IN-NNS": 1,
+      "NNS-VBP": 6,
+      "VBP-JJ": 4,
+      "VBP-NN": 2,
+      "NN-VBZ": 1,
+      "JJ-FW": 2,
+      "NNP-JJ": 1,
+      "NN-JJ": 3,
+      "IN-NN": 1,
+      "IN-JJ": 1,
+      "JJ-NNS": 1,
+      "NNS-FW": 1
+    },
+    "trigram_freq": {
+      "NNP-NN-NNP": 2,
+      "NN-NNP-NNP": 5,
+      "NNP-NNP-NNP": 8,
+      "NNP-NNP-NN": 5,
+      "NNP-NN-NN": 8,
+      "NN-NN-NN": 16,
+      "NN-NN-NNS": 4,
+      "NN-NNS-IN": 2,
+      "NNS-IN-FW": 2,
+      "IN-FW-FW": 5,
+      "FW-FW-FW": 28,
+      "FW-FW-NNP": 4,
+      "FW-NNP-NN": 2,
+      "NN-NN-NNP": 3,
+      "NNP-NNP-FW": 4,
+      "NNP-FW-NNP": 4,
+      "FW-NNP-NNP": 4,
+      "NNP-FW-FW": 2,
+      "FW-FW-CD": 2,
+      "FW-CD-NNS": 2,
+      "CD-NNS-CD": 2,
+      "NNS-CD-NN": 2,
+      "CD-NN-FW": 2,
+      "NN-FW-NN": 2,
+      "FW-NN-NNS": 1,
+      "NN-NNS-NNP": 2,
+      "NNS-NNP-VBZ": 1,
+      "NNP-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 1,
+      "JJ-NN-NN": 5,
+      "NN-NNP-NN": 1,
+      "NN-NN-IN": 6,
+      "NN-IN-NNP": 2,
+      "IN-NNP-FW": 2,
+      "NNP-FW-NN": 4,
+      "FW-NN-IN": 1,
+      "NN-IN-CD": 2,
+      "IN-CD-NNS": 2,
+      "CD-NNS-NNP": 1,
+      "NNS-NNP-NN": 2,
+      "NN-FW-NNS": 1,
+      "FW-NNS-NNS": 1,
+      "NNS-NNS-NNP": 1,
+      "NNS-NNP-NNP": 1,
+      "NN-IN-NNS": 1,
+      "IN-NNS-VBP": 1,
+      "NNS-VBP-JJ": 4,
+      "VBP-JJ-NN": 3,
+      "JJ-NN-FW": 1,
+      "NN-FW-FW": 5,
+      "FW-FW-NNS": 2,
+      "FW-NNS-VBP": 1,
+      "NN-IN-FW": 3,
+      "FW-NNP-FW": 4,
+      "FW-NN-NN": 5,
+      "CD-NNS-VBP": 1,
+      "NNS-VBP-NN": 2,
+      "VBP-NN-NN": 1,
+      "NN-NN-FW": 2,
+      "FW-NN-FW": 3,
+      "NN-FW-NNP": 1,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-JJ": 1,
+      "VBZ-JJ-FW": 1,
+      "JJ-FW-NNP": 1,
+      "NNP-NNP-JJ": 1,
+      "NNP-JJ-NN": 1,
+      "NN-NN-JJ": 3,
+      "NN-JJ-NN": 3,
+      "NN-NNS-VBP": 3,
+      "VBP-JJ-FW": 1,
+      "JJ-FW-NN": 1,
+      "JJ-NN-IN": 2,
+      "FW-FW-NN": 4,
+      "FW-NN-NNP": 1,
+      "NNP-NN-NNS": 1,
+      "NN-IN-NN": 1,
+      "IN-NN-NNS": 1,
+      "VBP-NN-FW": 1,
+      "FW-NNS-IN": 1,
+      "NNS-IN-JJ": 1,
+      "IN-JJ-NNS": 1,
+      "JJ-NNS-FW": 1,
+      "NNS-FW-NN": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 71,
+        "FW": 67,
+        "NNP": 41,
+        "NNS": 17,
+        "IN": 12
+      },
+      "top_bigrams": {
+        "FW-FW": 40,
+        "NN-NN": 35,
+        "NNP-NNP": 18,
+        "FW-NN": 12,
+        "NNP-NN": 11
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 28,
+        "NN-NN-NN": 16,
+        "NNP-NNP-NNP": 8,
+        "NNP-NN-NN": 8,
+        "NN-NN-IN": 6
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 7,
+    "chunk_counts": {
+      "NP": 60,
+      "VP": 9,
+      "PP": 5
+    },
+    "top_rules": [
+      {
+        "rule": "NP -> ('Acapulco', 'NNP')",
+        "frequency": 3,
+        "weight": 0.037
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 3,
+        "weight": 0.037
+      },
+      {
+        "rule": "S -> NP ('en', 'IN') ('la', 'FW') ('ciudad', 'FW') ('de', 'FW') NP ('y', 'CC') NP ('de', 'FW') NP ('(', '(') NP (')', ')') ('de', 'FW') ('los', 'FW') ('más', 'FW') ('de', 'FW') ('5.000', 'CD') NP (',', ',') ('3.800', 'CD') NP ('en', 'FW') NP ('.', '.')",
+        "frequency": 2,
+        "weight": 0.0247
+      },
+      {
+        "rule": "NP -> ('El', 'NNP') ('presidente', 'NN') ('Andrés', 'NNP') ('Manuel', 'NNP') ('López', 'NNP') ('Obrador', 'NNP') ('destacó', 'NN') ('el', 'NN') ('sábado', 'NN') ('las', 'NN') ('afectaciones', 'NNS')",
+        "frequency": 2,
+        "weight": 0.0247
+      },
+      {
+        "rule": "NP -> ('según', 'JJ') ('la', 'NN') ('Coordinación', 'NNP') ('Nacional', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0247
+      },
+      {
+        "rule": "NP -> ('Protección', 'NNP') ('Civil', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0247
+      },
+      {
+        "rule": "NP -> ('CNPC', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0247
+      },
+      {
+        "rule": "NP -> ('rescatados', 'NN')",
+        "frequency": 2,
+        "weight": 0.0247
+      },
+      {
+        "rule": "NP -> ('ingresaron', 'NN')",
+        "frequency": 2,
+        "weight": 0.0247
+      },
+      {
+        "rule": "NP -> ('refugios', 'NN') ('temporales', 'NNS')",
+        "frequency": 2,
+        "weight": 0.0247
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El presidente Andrés Manuel López Obrador destacó el sábado las afectaciones"
+      },
+      {
+        "label": "NP",
+        "text": "Acapulco"
+      },
+      {
+        "label": "NP",
+        "text": "según la Coordinación Nacional"
+      },
+      {
+        "label": "NP",
+        "text": "Protección Civil"
+      },
+      {
+        "label": "NP",
+        "text": "CNPC"
+      },
+      {
+        "label": "NP",
+        "text": "rescatados"
+      },
+      {
+        "label": "NP",
+        "text": "ingresaron"
+      },
+      {
+        "label": "NP",
+        "text": "refugios temporales"
+      },
+      {
+        "label": "NP",
+        "text": "Las"
+      },
+      {
+        "label": "VP",
+        "text": "autoridades mexicanas reportaron que el paso del huracán John por el sur"
+      },
+      {
+        "label": "NP",
+        "text": "mexicanas reportaron que el paso del huracán John por el sur"
+      },
+      {
+        "label": "PP",
+        "text": "de México"
+      },
+      {
+        "label": "NP",
+        "text": "México"
+      },
+      {
+        "label": "NP",
+        "text": "cerca"
+      },
+      {
+        "label": "NP",
+        "text": "muertos"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP\n    El/NNP\n    presidente/NN\n    Andrés/NNP\n    Manuel/NNP\n    López/NNP\n    Obrador/NNP\n    destacó/NN\n    el/NN\n    sábado/NN\n    las/NN\n    afectaciones/NNS)\n  en/IN\n  la/FW\n  ciudad/FW\n  de/FW\n  (NP Acapulco/NNP)\n  y/CC\n  (NP según/JJ la/NN Coordinación/NNP Nacional/NNP)\n  de/FW\n  (NP Protección/NNP Civil/NNP)\n  (/(\n  (NP CNPC/NNP)\n  )/)\n  de/FW\n  los/FW\n  más/FW\n  de/FW\n  5.000/CD\n  (NP rescatados/NN)\n  ,/,\n  3.800/CD\n  (NP ingresaron/NN)\n  en/FW\n  (NP refugios/NN temporales/NNS)\n  ./.)",
+      "(S\n  (NP Las/NNP)\n  (VP\n    autoridades/VBZ\n    (NP\n      mexicanas/JJ\n      reportaron/NN\n      que/NN\n      el/NN\n      paso/NN\n      del/NN\n      huracán/NN\n      John/NNP\n      por/NN\n      el/NN\n      sur/NN))\n  (PP de/IN (NP México/NNP))\n  dejó/FW\n  (NP cerca/NN)\n  de/IN\n  24/CD\n  (NP muertos/NNS)\n  ./.)",
+      "(S\n  (NP\n    El/NNP\n    presidente/NN\n    Andrés/NNP\n    Manuel/NNP\n    López/NNP\n    Obrador/NNP\n    destacó/NN\n    el/NN\n    sábado/NN\n    las/NN\n    afectaciones/NNS)\n  en/IN\n  la/FW\n  ciudad/FW\n  de/FW\n  (NP Acapulco/NNP)\n  y/CC\n  (NP según/JJ la/NN Coordinación/NNP Nacional/NNP)\n  de/FW\n  (NP Protección/NNP Civil/NNP)\n  (/(\n  (NP CNPC/NNP)\n  )/)\n  de/FW\n  los/FW\n  más/FW\n  de/FW\n  5.000/CD\n  (NP rescatados/NN)\n  ,/,\n  3.800/CD\n  (NP ingresaron/NN)\n  en/FW\n  (NP refugios/NN temporales/NNS)\n  ./.)",
+      "(S\n  (NP El/NNP CNPC/NNP ahondó/NN en/NN que/NN)\n  (PP al/IN (NP menos/NNS))\n  (VP ocho/VBP (NP personas/JJ fallecieron/NN))\n  en/FW\n  las/FW\n  (NP inundaciones/NNS)\n  (VP provocadas/VBP (NP por/JJ el/NN huracán/NN))\n  en/IN\n  la/FW\n  ciudad/FW\n  de/FW\n  (NP Acapulco/NNP)\n  ,/,\n  en/FW\n  (NP Guerrero/NNP)\n  ,/,\n  (VP estado/VBZ (NP donde/JJ alrededor/NN))\n  de/IN\n  18/CD\n  (NP personas/NNS)\n  (VP perdieron/VBP (NP la/NN vida/NN))\n  ,/,\n  mientras/FW\n  (NP que/NN)\n  en/FW\n  (NP Oaxaca/NNP)\n  se/FW\n  (NP reportaron/NN cinco/NN)\n  (VP muertes/VBZ (NP y/JJ una/JJ en/NN Michoacán/NNP))\n  ./.)",
+      "(S\n  (NP En/NNP Oaxaca/NNP)\n  ,/,\n  (NP una/JJ persona/NN mayor/NN y/NN)\n  (NP un/JJ niño/JJ murieron/NN tras/NNS)\n  (VP quedar/VBP sepultados/JJ)\n  en/FW\n  (NP su/NN vivienda/NN por/NN)\n  (NP un/JJ deslizamiento/NN)\n  de/IN\n  tierra/FW\n  provocado/FW\n  por/FW\n  las/FW\n  (NP intensas/NN lluvias/NN)\n  ,/,\n  (NP lo/JJ que/NN)\n  (VP\n    elevó/VBZ\n    (NP a/DT cinco/NN los/NN)\n    (NP fallecidos/JJ registrados/NN))\n  (PP en/IN (NP el/NN estado/NN))\n  ,/,\n  luego/FW\n  de/FW\n  que/FW\n  el/FW\n  (NP gobernador/NN Salomón/NNP Jara/NNP reportara/NN tres/NNS)\n  (VP casos/VBP (NP el/JJ pasado/NN el/NN jueves/NNS))\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "GOBIERNOS_OFICIALES",
+      "RECURSOS_NATURALES",
+      "APROBACION_RECHAZO",
+      "DESASTRES_ACCIDENTES_EMERGENCIAS",
+      "CANTIDADES_NUMERICAS",
+      "REGIONES_PROVINCIAS",
+      "PAISES"
+    ],
+    "matches": [
+      {
+        "category": "DESASTRES_ACCIDENTES_EMERGENCIAS",
+        "matched_text": "deslizamiento de tierra",
+        "position": [
+          948,
+          971
+        ],
+        "start": 948,
+        "end": 971
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente andrés manuel",
+        "position": [
+          3,
+          27
+        ],
+        "start": 3,
+        "end": 27
+      },
+      {
+        "category": "APROBACION_RECHAZO",
+        "matched_text": "destacó",
+        "position": [
+          42,
+          49
+        ],
+        "start": 42,
+        "end": 49
+      },
+      {
+        "category": "RECURSOS_NATURALES",
+        "matched_text": "río",
+        "position": [
+          1283,
+          1286
+        ],
+        "start": 1283,
+        "end": 1286
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "méxico",
+        "position": [
+          316,
+          322
+        ],
+        "start": 316,
+        "end": 322
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "estado donde",
+        "position": [
+          727,
+          739
+        ],
+        "start": 727,
+        "end": 739
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "18 personas",
+        "position": [
+          753,
+          764
+        ],
+        "start": 753,
+        "end": 764
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "más de 5.000",
+        "position": [
+          170,
+          182
+        ],
+        "start": 170,
+        "end": 182
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "cerca de 24",
+        "position": [
+          328,
+          339
+        ],
+        "start": 328,
+        "end": 339
+      }
+    ],
+    "match_count": 9
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "John",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Coordinación Nacional de Protección Civil",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Andrés Manuel López Obrador",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Guerrero",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Oaxaca",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Morelia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Salomón Jara",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Acapulco",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "CNPC",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "río Grande",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Michoacán",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "México",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Andrés Manuel López Obrador",
+        "relacion": "DESTACAR",
+        "objeto": "Acapulco"
+      },
+      {
+        "sujeto": "Andrés Manuel López Obrador",
+        "relacion": "DESTACAR",
+        "objeto": "Coordinación Nacional de Protección Civil"
+      },
+      {
+        "sujeto": "Andrés Manuel López Obrador",
+        "relacion": "DESTACAR",
+        "objeto": "CNPC"
+      },
+      {
+        "sujeto": "CNPC",
+        "relacion": "AHONDAR",
+        "objeto": "Acapulco"
+      },
+      {
+        "sujeto": "CNPC",
+        "relacion": "AHONDAR",
+        "objeto": "Guerrero"
+      },
+      {
+        "sujeto": "Oaxaca",
+        "relacion": "REPORTAR",
+        "objeto": "Michoacán"
+      },
+      {
+        "sujeto": "Oaxaca",
+        "relacion": "MORIR",
+        "objeto": "Salomón Jara"
+      },
+      {
+        "sujeto": "Michoacán",
+        "relacion": "CONFIRMAR",
+        "objeto": "río Grande"
+      },
+      {
+        "sujeto": "Michoacán",
+        "relacion": "CONFIRMAR",
+        "objeto": "Morelia"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.34,
+    "pos": 0.01,
+    "neu": 0.99,
+    "neg": 0.0,
+    "label": "positive"
+  }
+}

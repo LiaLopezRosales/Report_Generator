@@ -1,0 +1,685 @@
+{
+  "url": "https://www.telesurtv.net/casi-300-muertos-y-hasta-89-desaparecidos-tras-inundaciones-en-birmania/",
+  "title": "Casi 300 muertos y hasta 89 desaparecidos tras inundaciones en Myanmar - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Inundaciones",
+    "lluvias",
+    "Mundo",
+    "myanmar",
+    "Sucesos"
+  ],
+  "text": "Según el reporte de este viernes de medios oficiales, más de 160,000 ciudadanos están ahora refugiados en 425 campamentos de emergencia establecidos para brindar ayuda a los afectados.\nLa junta militar de Myanmar confirmó  la trágica cifra de al menos 293 muertos y 89 personas desaparecidas debido a las inundaciones severas que azotan al país desde la semana pasada.\nLas autoridades militares han declarado que cerca de 169,000 viviendas han quedado sumergidas, lo que complica aún más la situación de muchas familias que han perdido todo en esta catástrofe.\nAunque algunas regiones del centro del país, como Naipyidó, han comenzado a ver una disminución en los niveles de agua, la atención se centra ahora en proporcionar asistencia sanitaria a las víctimas, así como en las labores de limpieza y restauración de las infraestructuras dañadas. Equipos de búsqueda y rescate continúan sus esfuerzos en comunidades aún afectadas por las inundaciones.\nEl Departamento de Meteorología ha emitido alertas sobre la llegada de nuevas precipitaciones intensas que podrían afectar aún más a la capital y otras áreas devastadas, incluyendo Mandalay, Magway, y Shan, hasta el próximo miércoles. Esta alerta eleva las tensiones en un país que ya enfrenta una crisis social y humanitaria agravada por la inestabilidad política.\nLas lluvias monzónicas provenientes de la bahía de Bengala han intensificado la crisis existente. La comunidad internacional observa con preocupación mientras Myanmar enfrenta uno de los momentos más desafiantes de su reciente historia, acentuando la necesidad de un apoyo humanitario urgente y efectivo.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/casi-300-muertos-y-hasta-89-desaparecidos-tras-inundaciones-en-birmania/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-09.json",
+    "message_index": 673,
+    "message_id": 76642,
+    "date": "2024-09-20T13:55:39+00:00",
+    "text": "teleSUR\nCasi 300 muertos y hasta 89 desaparecidos tras inundaciones en Myanmar\nhttps://www.telesurtv.net/casi-300-muertos-y-hasta-89-desaparecidos-tras-inundaciones-en-birmania/",
+    "photo_path": null,
+    "views": 2439,
+    "reactions": {
+      "😨": 26,
+      "🙏": 9,
+      "😱": 5,
+      "😢": 3,
+      "🎄": 1
+    },
+    "total_reactions": 44
+  },
+  "preprocessing": {
+    "cleaned": "según el reporte de este viernes de medios oficiales, más de 160,000 ciudadanos están ahora refugiados en 425 campamentos de emergencia establecidos para brindar ayuda a los afectados. la junta militar de myanmar confirmó la trágica cifra de al menos 293 muertos y 89 personas desaparecidas debido a las inundaciones severas que azotan al país desde la semana pasada. las autoridades militares han declarado que cerca de 169,000 viviendas han quedado sumergidas, lo que complica aún más la situación de muchas familias que han perdido todo en esta catástrofe. aunque algunas regiones del centro del país, como naipyidó, han comenzado a ver una disminución en los niveles de agua, la atención se centra ahora en proporcionar asistencia sanitaria a las víctimas, así como en las labores de limpieza y restauración de las infraestructuras dañadas. equipos de búsqueda y rescate continúan sus esfuerzos en comunidades aún afectadas por las inundaciones. el departamento de meteorología ha emitido alertas sobre la llegada de nuevas precipitaciones intensas que podrían afectar aún más a la capital y otras áreas devastadas, incluyendo mandalay, magway, y shan, hasta el próximo miércoles. esta alerta eleva las tensiones en un país que ya enfrenta una crisis social y humanitaria agravada por la inestabilidad política. las lluvias monzónicas provenientes de la bahía de bengala han intensificado la crisis existente. la comunidad internacional observa con preocupación mientras myanmar enfrenta uno de los momentos más desafiantes de su reciente historia, acentuando la necesidad de un apoyo humanitario urgente y efectivo.",
+    "tokens": [
+      "según",
+      "reporte",
+      "viernes",
+      "medios",
+      "oficiales",
+      ",",
+      "160,000",
+      "ciudadanos",
+      "ahora",
+      "refugiados",
+      "425",
+      "campamentos",
+      "emergencia",
+      "establecidos",
+      "brindar",
+      "ayuda",
+      "afectados",
+      ".",
+      "junta",
+      "militar",
+      "myanmar",
+      "confirmó",
+      "trágica",
+      "cifra",
+      "menos",
+      "293",
+      "muertos",
+      "89",
+      "personas",
+      "desaparecidas",
+      "debido",
+      "inundaciones",
+      "severas",
+      "azotan",
+      "país",
+      "semana",
+      "pasada",
+      ".",
+      "autoridades",
+      "militares",
+      "declarado",
+      "cerca",
+      "169,000",
+      "viviendas",
+      "quedado",
+      "sumergidas",
+      ",",
+      "complica",
+      "aún",
+      "situación",
+      "muchas",
+      "familias",
+      "perdido",
+      "catástrofe",
+      ".",
+      "aunque",
+      "regiones",
+      "centro",
+      "país",
+      ",",
+      "naipyidó",
+      ",",
+      "comenzado",
+      "ver",
+      "disminución",
+      "niveles",
+      "agua",
+      ",",
+      "atención",
+      "centra",
+      "ahora",
+      "proporcionar",
+      "asistencia",
+      "sanitaria",
+      "víctimas",
+      ",",
+      "así",
+      "labores",
+      "limpieza",
+      "restauración",
+      "infraestructuras",
+      "dañadas",
+      ".",
+      "equipos",
+      "búsqueda",
+      "rescate",
+      "continúan",
+      "esfuerzos",
+      "comunidades",
+      "aún",
+      "afectadas",
+      "inundaciones",
+      ".",
+      "departamento",
+      "meteorología",
+      "emitido",
+      "alertas",
+      "llegada",
+      "nuevas",
+      "precipitaciones",
+      "intensas",
+      "podrían",
+      "afectar",
+      "aún",
+      "capital",
+      "áreas",
+      "devastadas",
+      ",",
+      "incluyendo",
+      "mandalay",
+      ",",
+      "magway",
+      ",",
+      "shan",
+      ",",
+      "próximo",
+      "miércoles",
+      ".",
+      "alerta",
+      "eleva",
+      "tensiones",
+      "país",
+      "enfrenta",
+      "crisis",
+      "social",
+      "humanitaria",
+      "agravada",
+      "inestabilidad",
+      "política",
+      ".",
+      "lluvias",
+      "monzónicas",
+      "provenientes",
+      "bahía",
+      "bengala",
+      "intensificado",
+      "crisis",
+      "existente",
+      ".",
+      "comunidad",
+      "internacional",
+      "observa",
+      "preocupación",
+      "mientras",
+      "myanmar",
+      "enfrenta",
+      "momentos",
+      "desafiantes",
+      "reciente",
+      "historia",
+      ",",
+      "acentuando",
+      "necesidad",
+      "apoyo",
+      "humanitario",
+      "urgente",
+      "efectivo",
+      "."
+    ],
+    "token_count": 158,
+    "sentence_count": 9
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 18,
+      "CC": 1,
+      "NN": 79,
+      "IN": 15,
+      "FW": 43,
+      "NNS": 26,
+      "VBP": 10,
+      "CD": 5,
+      "JJ": 31,
+      "VBZ": 6,
+      "RB": 1,
+      "VBN": 1
+    },
+    "bigram_freq": {
+      "NNP-CC": 1,
+      "CC-NN": 1,
+      "NN-IN": 8,
+      "IN-FW": 5,
+      "FW-NNS": 5,
+      "NNS-IN": 5,
+      "IN-NNS": 1,
+      "NNS-NNS": 2,
+      "NNS-VBP": 8,
+      "VBP-IN": 1,
+      "IN-CD": 3,
+      "CD-NNS": 5,
+      "NNS-JJ": 4,
+      "JJ-JJ": 5,
+      "JJ-NN": 18,
+      "NNS-FW": 3,
+      "FW-FW": 26,
+      "FW-NN": 7,
+      "NN-NN": 45,
+      "NN-JJ": 6,
+      "JJ-NNP": 1,
+      "NNP-NN": 6,
+      "IN-NNP": 1,
+      "FW-CD": 1,
+      "NNS-CD": 1,
+      "NN-NNS": 7,
+      "VBP-JJ": 7,
+      "NN-FW": 5,
+      "NN-NNP": 6,
+      "NNP-VBZ": 4,
+      "VBZ-NNS": 2,
+      "JJ-RB": 1,
+      "RB-JJ": 1,
+      "FW-VBN": 1,
+      "VBN-NN": 1,
+      "IN-JJ": 4,
+      "JJ-NNS": 4,
+      "FW-JJ": 1,
+      "IN-NN": 1,
+      "NN-VBZ": 1,
+      "VBZ-JJ": 3,
+      "VBP-NNP": 1,
+      "NNP-FW": 2,
+      "NNS-NNP": 3,
+      "NNP-NNP": 3,
+      "FW-NNP": 2,
+      "JJ-FW": 2,
+      "NNP-VBP": 2,
+      "VBP-VBZ": 1,
+      "VBZ-IN": 1
+    },
+    "trigram_freq": {
+      "NNP-CC-NN": 1,
+      "CC-NN-IN": 1,
+      "NN-IN-FW": 2,
+      "IN-FW-NNS": 1,
+      "FW-NNS-IN": 1,
+      "NNS-IN-NNS": 1,
+      "IN-NNS-NNS": 1,
+      "NNS-NNS-VBP": 1,
+      "NNS-VBP-IN": 1,
+      "VBP-IN-CD": 1,
+      "IN-CD-NNS": 3,
+      "CD-NNS-JJ": 3,
+      "NNS-JJ-JJ": 2,
+      "JJ-JJ-NN": 5,
+      "JJ-NN-IN": 4,
+      "NN-IN-CD": 2,
+      "CD-NNS-FW": 1,
+      "NNS-FW-FW": 2,
+      "FW-FW-FW": 15,
+      "FW-FW-NN": 4,
+      "FW-NN-NN": 3,
+      "NN-NN-NN": 27,
+      "NN-NN-JJ": 4,
+      "NN-JJ-NNP": 1,
+      "JJ-NNP-NN": 1,
+      "NNP-NN-NN": 6,
+      "NN-NN-IN": 3,
+      "NN-IN-NNP": 1,
+      "IN-NNP-NN": 1,
+      "NN-JJ-NN": 5,
+      "IN-FW-FW": 4,
+      "FW-FW-CD": 1,
+      "FW-CD-NNS": 1,
+      "CD-NNS-CD": 1,
+      "NNS-CD-NNS": 1,
+      "JJ-NN-NNS": 3,
+      "NN-NNS-VBP": 3,
+      "NNS-VBP-JJ": 5,
+      "VBP-JJ-JJ": 1,
+      "JJ-NN-NN": 7,
+      "NN-NN-FW": 4,
+      "NN-FW-NN": 2,
+      "FW-NN-NNP": 1,
+      "NN-NNP-VBZ": 4,
+      "NNP-VBZ-NNS": 2,
+      "VBZ-NNS-JJ": 1,
+      "NNS-JJ-NN": 1,
+      "NNS-JJ-RB": 1,
+      "JJ-RB-JJ": 1,
+      "RB-JJ-NN": 1,
+      "NN-FW-FW": 2,
+      "FW-FW-VBN": 1,
+      "FW-VBN-NN": 1,
+      "VBN-NN-NN": 1,
+      "NN-IN-JJ": 3,
+      "IN-JJ-NN": 2,
+      "JJ-NN-NNP": 2,
+      "VBZ-NNS-FW": 1,
+      "NNS-FW-NN": 1,
+      "NN-NN-NNP": 3,
+      "NN-NNP-NN": 1,
+      "IN-JJ-NNS": 2,
+      "JJ-NNS-FW": 1,
+      "FW-FW-JJ": 1,
+      "FW-JJ-NNS": 1,
+      "JJ-NNS-IN": 3,
+      "NNS-IN-NN": 1,
+      "IN-NN-NN": 1,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-JJ": 1,
+      "VBZ-JJ-JJ": 2,
+      "NNS-IN-FW": 2,
+      "FW-FW-NNS": 3,
+      "FW-NNS-VBP": 4,
+      "NNS-VBP-NNP": 1,
+      "VBP-NNP-FW": 1,
+      "NNP-FW-FW": 1,
+      "NN-FW-NNS": 1,
+      "VBP-JJ-NN": 4,
+      "NN-NNS-NNS": 1,
+      "NNS-NNS-NNP": 1,
+      "NNS-NNP-NNP": 1,
+      "NNP-NNP-FW": 1,
+      "NNP-FW-NNP": 1,
+      "FW-NNP-NN": 2,
+      "NN-NN-NNS": 3,
+      "VBP-JJ-FW": 2,
+      "JJ-FW-FW": 2,
+      "FW-NN-NNS": 1,
+      "NN-NNP-NNP": 1,
+      "NNP-NNP-NNP": 1,
+      "NNP-NNP-NN": 1,
+      "NN-NNS-NNP": 2,
+      "NNS-NNP-VBP": 2,
+      "NNP-VBP-JJ": 2,
+      "NN-NNS-IN": 1,
+      "NNS-IN-JJ": 1,
+      "JJ-NN-JJ": 1,
+      "NNP-VBZ-JJ": 2,
+      "VBZ-JJ-NNS": 1,
+      "FW-FW-NNP": 1,
+      "NNS-VBP-VBZ": 1,
+      "VBP-VBZ-IN": 1,
+      "VBZ-IN-FW": 1,
+      "FW-NN-FW": 1,
+      "FW-NN-JJ": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 79,
+        "FW": 43,
+        "JJ": 31,
+        "NNS": 26,
+        "NNP": 18
+      },
+      "top_bigrams": {
+        "NN-NN": 45,
+        "FW-FW": 26,
+        "JJ-NN": 18,
+        "NN-IN": 8,
+        "NNS-VBP": 8
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 27,
+        "FW-FW-FW": 15,
+        "JJ-NN-NN": 7,
+        "NNP-NN-NN": 6,
+        "JJ-JJ-NN": 5
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 9,
+    "chunk_counts": {
+      "NP": 66,
+      "PP": 7,
+      "VP": 17,
+      "ADJP": 2
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 5,
+        "weight": 0.0495
+      },
+      {
+        "rule": "NP -> ('Las', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0198
+      },
+      {
+        "rule": "S -> NP ('el', 'CC') NP ('de', 'IN') ('este', 'FW') NP PP (',', ',') ('más', 'FW') ('de', 'FW') ('160,000', 'CD') NP NP ('en', 'IN') ('425', 'CD') NP ('de', 'FW') ('emergencia', 'FW') ('establecidos', 'FW') ('para', 'FW') NP PP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0099
+      },
+      {
+        "rule": "NP -> ('Según', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0099
+      },
+      {
+        "rule": "NP -> ('reporte', 'NN')",
+        "frequency": 1,
+        "weight": 0.0099
+      },
+      {
+        "rule": "NP -> ('viernes', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0099
+      },
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 1,
+        "weight": 0.0099
+      },
+      {
+        "rule": "NP -> ('medios', 'NNS') ('oficiales', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0099
+      },
+      {
+        "rule": "NP -> ('ciudadanos', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0099
+      },
+      {
+        "rule": "NP -> ('están', 'JJ') ('ahora', 'JJ') ('refugiados', 'NN')",
+        "frequency": 1,
+        "weight": 0.0099
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Según"
+      },
+      {
+        "label": "NP",
+        "text": "reporte"
+      },
+      {
+        "label": "NP",
+        "text": "viernes"
+      },
+      {
+        "label": "PP",
+        "text": "de medios oficiales"
+      },
+      {
+        "label": "NP",
+        "text": "medios oficiales"
+      },
+      {
+        "label": "NP",
+        "text": "ciudadanos"
+      },
+      {
+        "label": "NP",
+        "text": "están ahora refugiados"
+      },
+      {
+        "label": "NP",
+        "text": "campamentos"
+      },
+      {
+        "label": "NP",
+        "text": "brindar"
+      },
+      {
+        "label": "PP",
+        "text": "ayuda a los afectados"
+      },
+      {
+        "label": "NP",
+        "text": "a los afectados"
+      },
+      {
+        "label": "NP",
+        "text": "La junta militar"
+      },
+      {
+        "label": "NP",
+        "text": "Myanmar confirmó la"
+      },
+      {
+        "label": "NP",
+        "text": "trágica cifra"
+      },
+      {
+        "label": "NP",
+        "text": "muertos"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Según/NNP)\n  el/CC\n  (NP reporte/NN)\n  de/IN\n  este/FW\n  (NP viernes/NNS)\n  (PP de/IN (NP medios/NNS oficiales/NNS))\n  ,/,\n  más/FW\n  de/FW\n  160,000/CD\n  (NP ciudadanos/NNS)\n  (NP están/JJ ahora/JJ refugiados/NN)\n  en/IN\n  425/CD\n  (NP campamentos/NNS)\n  de/FW\n  emergencia/FW\n  establecidos/FW\n  para/FW\n  (NP brindar/NN)\n  (PP ayuda/IN (NP a/DT los/JJ afectados/NN))\n  ./.)",
+      "(S\n  (NP La/NNP junta/NNP militar/NN)\n  de/FW\n  (NP Myanmar/NNP confirmó/NN la/NN)\n  (NP trágica/JJ cifra/NN)\n  de/IN\n  al/FW\n  menos/FW\n  293/CD\n  (NP muertos/NNS)\n  y/RB\n  89/CD\n  (NP personas/NNS)\n  (VP desaparecidas/VBP)\n  (VP\n    debido/VB\n    (NP a/DT las/JJ inundaciones/NNS severas/NNS)\n    (NP que/JJ azotan/JJ al/NN país/NN desde/NN la/NN))\n  (VP semana/VBD (NP pasada/NN))\n  ./.)",
+      "(S\n  (NP Las/NNP)\n  (VP\n    autoridades/VBZ\n    (NP militares/NNS)\n    (NP han/JJ declarado/NN que/NN cerca/NN))\n  de/IN\n  169,000/CD\n  (NP viviendas/NNS)\n  (ADJP han/JJ)\n  quedado/RB\n  (NP sumergidas/NN)\n  ,/,\n  (NP lo/JJ que/NN complica/NN aún/NN más/NN)\n  la/FW\n  situación/FW\n  de/FW\n  muchas/FW\n  (VP familias/VBN (NP que/NN han/NN perdido/NN todo/NN))\n  (PP en/IN (NP esta/JJ catástrofe/NN))\n  ./.)",
+      "(S\n  (NP Aunque/NNP)\n  (NP algunas/JJ regiones/NNS)\n  del/FW\n  (NP centro/NN del/NN país/NN)\n  ,/,\n  (NP como/NN Naipyidó/NNP)\n  ,/,\n  (NP han/NN)\n  (VP comenzado/VBD (NP a/DT ver/NN) (NP una/JJ disminución/NN))\n  (PP en/IN (NP los/JJ niveles/NNS))\n  de/FW\n  agua/FW\n  ,/,\n  la/FW\n  atención/FW\n  se/FW\n  (NP centra/JJ ahora/NNS)\n  (PP en/IN (NP proporcionar/NN asistencia/NN))\n  (VP sanitaria/VBD (NP a/DT las/JJ víctimas/NN))\n  ,/,\n  (NP así/JJ como/NN)\n  (PP en/IN (NP las/JJ labores/NNS))\n  de/IN\n  limpieza/FW\n  y/FW\n  restauración/FW\n  de/FW\n  las/FW\n  (NP infraestructuras/NNS dañadas/NNS)\n  ./.)",
+      "(S\n  (NP Equipos/NNP)\n  de/FW\n  búsqueda/FW\n  y/FW\n  (NP rescate/NN continúan/NN sus/NN esfuerzos/NN)\n  en/FW\n  (NP comunidades/NNS)\n  (VP aún/VBP (NP afectadas/JJ por/NN las/NN inundaciones/NNS))\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "FECHAS_HORAS",
+      "RECURSOS_NATURALES",
+      "CANTIDADES_NUMERICAS",
+      "REGIONES_PROVINCIAS",
+      "INSTITUCIONES_EDUCATIVAS",
+      "LOCALIZACIONES_ESPECIFICAS",
+      "ECONOMIA_COMERCIO_FINANZAS"
+    ],
+    "matches": [
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "capital",
+        "position": [
+          1087,
+          1094
+        ],
+        "start": 1087,
+        "end": 1094
+      },
+      {
+        "category": "INSTITUCIONES_EDUCATIVAS",
+        "matched_text": "departamento de meteorología",
+        "position": [
+          954,
+          982
+        ],
+        "start": 954,
+        "end": 982
+      },
+      {
+        "category": "RECURSOS_NATURALES",
+        "matched_text": "agua",
+        "position": [
+          675,
+          679
+        ],
+        "start": 675,
+        "end": 679
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "departamento de",
+        "position": [
+          954,
+          969
+        ],
+        "start": 954,
+        "end": 969
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "centro del",
+        "position": [
+          589,
+          599
+        ],
+        "start": 589,
+        "end": 599
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "89 personas",
+        "position": [
+          266,
+          277
+        ],
+        "start": 266,
+        "end": 277
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "más de 160",
+        "position": [
+          54,
+          64
+        ],
+        "start": 54,
+        "end": 64
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "cerca de 169",
+        "position": [
+          413,
+          425
+        ],
+        "start": 413,
+        "end": 425
+      },
+      {
+        "category": "FECHAS_HORAS",
+        "matched_text": "semana pasada",
+        "position": [
+          354,
+          367
+        ],
+        "start": 354,
+        "end": 367
+      }
+    ],
+    "match_count": 9
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Naipyidó",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Shan",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Magway",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "bahía de Bengala",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Myanmar",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Departamento de Meteorología",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Mandalay",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Departamento de Meteorología",
+        "relacion": "EMITIR",
+        "objeto": "Mandalay"
+      },
+      {
+        "sujeto": "Departamento de Meteorología",
+        "relacion": "EMITIR",
+        "objeto": "Magway"
+      },
+      {
+        "sujeto": "Departamento de Meteorología",
+        "relacion": "EMITIR",
+        "objeto": "Shan"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.7783,
+    "pos": 0.01,
+    "neu": 0.956,
+    "neg": 0.034,
+    "label": "negative"
+  }
+}

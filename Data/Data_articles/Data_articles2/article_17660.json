@@ -1,0 +1,786 @@
+{
+  "url": "https://www.telesurtv.net/marchan-en-apoyo-a-palestina-y-en-rechazo-al-sionismo-en-el-marco-del-inicio-de-la-convencion-democrata-en-ee-uu/",
+  "title": "Marchan en apoyo a Palestina y en rechazo al sionismo en el marco del inicio de la Convención Demócrata en EE.UU. - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Marcha en apoyo a Palestina",
+    "Marcha en apoyo a Palestina en el marco del inicio de la Convención Nacional Demócrata en Chicago"
+  ],
+  "text": "Organizaciones en contra del sionismo y a favor de la causa palestina convocaron este lunes en el marco del inicio de la Convención Nacional Demócrata en Chicago, Estados Unidos (EE.UU.), para rechazar el sustento estadounidense a la ofensiva militar del ejército de ocupación de Israel contra la Franja de Gaza, que desde el 7 de octubre a la fecha ha asesinado a más de 40.100 civiles.\nAl menos 15.000 personas marcharon en Union Park, en las cercanías de donde se realiza la convención del Partido Demócrata, en el United Center, portando banderas palestinas y las kufiyas o pañuelos palestinos. Activistas realizaron intervenciones públicas.\n“La coalición Marcha Sobre la CND lucha por los derechos y la liberación del pueblo oprimido y contra la explotación de los obreros. Desde el 19 de agosto de 2024 marchamos sobre la Convención Nacional Demócrata de Chicago para dar visibilidad a las reivindicaciones populares ante la dirigencia del Partido Demócrata” refirieron en las redes sociales.\nAsimismo subrayaron que “el Partido Demócrata es una herramienta de los milmillonarios y de las grandes empresas”.\n“Hemos dejado claro desde el principio que no hay diferencia entre (Kamala) Harris y Joe Biden”, explicó el portavoz de la coalición, Hatem Abudayyeh.\nTambién el  portavoz de las organizaciones convocantes Faayani Aboma Mijana, afirmó que  “no hay mal menor cuando el mal menor ayuda a cometer un genocidio”.\n“No vamos a ser los responsables si Kamala Harris pierde las elecciones”, advirtió Faayani Aboma Mijana.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/marchan-en-apoyo-a-palestina-y-en-rechazo-al-sionismo-en-el-marco-del-inicio-de-la-convencion-democrata-en-ee-uu/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-08.json",
+    "message_index": 690,
+    "message_id": 74833,
+    "date": "2024-08-20T04:55:40+00:00",
+    "text": "teleSUR\nMarchan en apoyo a Palestina y en rechazo al sionismo en el marco del inicio de la Convención Demócrata en EE.UU.\nhttps://www.telesurtv.net/marchan-en-apoyo-a-palestina-y-en-rechazo-al-sionismo-en-el-marco-del-inicio-de-la-convencion-democrata-en-ee-uu/",
+    "photo_path": null,
+    "views": 3436,
+    "reactions": {
+      "👍": 82,
+      "❤": 12
+    },
+    "total_reactions": 94
+  },
+  "preprocessing": {
+    "cleaned": "organizaciones en contra del sionismo y a favor de la causa palestina convocaron este lunes en el marco del inicio de la convención nacional demócrata en chicago, estados unidos (ee.uu.), para rechazar el sustento estadounidense a la ofensiva militar del ejército de ocupación de israel contra la franja de gaza, que desde el 7 de octubre a la fecha ha asesinado a más de 40.100 civiles. al menos 15.000 personas marcharon en union park, en las cercanías de donde se realiza la convención del partido demócrata, en el united center, portando banderas palestinas y las kufiyas o pañuelos palestinos. activistas realizaron intervenciones públicas. “la coalición marcha sobre la cnd lucha por los derechos y la liberación del pueblo oprimido y contra la explotación de los obreros. desde el 19 de agosto de 2024 marchamos sobre la convención nacional demócrata de chicago para dar visibilidad a las reivindicaciones populares ante la dirigencia del partido demócrata” refirieron en las redes sociales. asimismo subrayaron que “el partido demócrata es una herramienta de los milmillonarios y de las grandes empresas”. “hemos dejado claro desde el principio que no hay diferencia entre (kamala) harris y joe biden”, explicó el portavoz de la coalición, hatem abudayyeh. también el portavoz de las organizaciones convocantes faayani aboma mijana, afirmó que “no hay mal menor cuando el mal menor ayuda a cometer un genocidio”. “no vamos a ser los responsables si kamala harris pierde las elecciones”, advirtió faayani aboma mijana.",
+    "tokens": [
+      "organizaciones",
+      "sionismo",
+      "favor",
+      "causa",
+      "palestina",
+      "convocaron",
+      "lunes",
+      "marco",
+      "inicio",
+      "convención",
+      "nacional",
+      "demócrata",
+      "chicago",
+      ",",
+      "unidos",
+      "(",
+      "ee.uu.",
+      ")",
+      ",",
+      "rechazar",
+      "sustento",
+      "estadounidense",
+      "ofensiva",
+      "militar",
+      "ejército",
+      "ocupación",
+      "israel",
+      "franja",
+      "gaza",
+      ",",
+      "7",
+      "octubre",
+      "fecha",
+      "asesinado",
+      "40.100",
+      "civiles",
+      ".",
+      "menos",
+      "15.000",
+      "personas",
+      "marcharon",
+      "union",
+      "park",
+      ",",
+      "cercanías",
+      "realiza",
+      "convención",
+      "partido",
+      "demócrata",
+      ",",
+      "united",
+      "center",
+      ",",
+      "portando",
+      "banderas",
+      "palestinas",
+      "kufiyas",
+      "pañuelos",
+      "palestinos",
+      ".",
+      "activistas",
+      "realizaron",
+      "intervenciones",
+      "públicas",
+      ".",
+      "“",
+      "coalición",
+      "marcha",
+      "cnd",
+      "lucha",
+      "derechos",
+      "liberación",
+      "pueblo",
+      "oprimido",
+      "explotación",
+      "obreros",
+      ".",
+      "19",
+      "agosto",
+      "2024",
+      "marchamos",
+      "convención",
+      "nacional",
+      "demócrata",
+      "chicago",
+      "dar",
+      "visibilidad",
+      "reivindicaciones",
+      "populares",
+      "dirigencia",
+      "partido",
+      "demócrata",
+      "”",
+      "refirieron",
+      "redes",
+      "sociales",
+      ".",
+      "asimismo",
+      "subrayaron",
+      "“",
+      "partido",
+      "demócrata",
+      "herramienta",
+      "milmillonarios",
+      "grandes",
+      "empresas",
+      "”",
+      ".",
+      "“",
+      "dejado",
+      "claro",
+      "principio",
+      "diferencia",
+      "(",
+      "kamala",
+      ")",
+      "harris",
+      "joe",
+      "biden",
+      "”",
+      ",",
+      "explicó",
+      "portavoz",
+      "coalición",
+      ",",
+      "hatem",
+      "abudayyeh",
+      ".",
+      "portavoz",
+      "organizaciones",
+      "convocantes",
+      "faayani",
+      "aboma",
+      "mijana",
+      ",",
+      "afirmó",
+      "“",
+      "mal",
+      "menor",
+      "mal",
+      "menor",
+      "ayuda",
+      "cometer",
+      "genocidio",
+      "”",
+      ".",
+      "“",
+      "vamos",
+      "ser",
+      "responsables",
+      "si",
+      "kamala",
+      "harris",
+      "pierde",
+      "elecciones",
+      "”",
+      ",",
+      "advirtió",
+      "faayani",
+      "aboma",
+      "mijana",
+      "."
+    ],
+    "token_count": 162,
+    "sentence_count": 9
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNS": 16,
+      "VBP": 6,
+      "JJ": 13,
+      "NN": 68,
+      "IN": 8,
+      "FW": 51,
+      "NNP": 52,
+      "CD": 4,
+      "VBD": 3,
+      "VB": 1,
+      "VBZ": 2,
+      "DT": 2
+    },
+    "bigram_freq": {
+      "NNS-VBP": 6,
+      "VBP-JJ": 1,
+      "JJ-NN": 7,
+      "NN-NN": 37,
+      "NN-IN": 6,
+      "IN-FW": 4,
+      "FW-JJ": 3,
+      "NN-NNS": 5,
+      "NNS-IN": 1,
+      "IN-JJ": 1,
+      "NN-FW": 7,
+      "FW-FW": 30,
+      "FW-NNP": 8,
+      "NNP-NNP": 27,
+      "NNP-FW": 7,
+      "NNP-NN": 14,
+      "FW-NN": 6,
+      "IN-CD": 2,
+      "CD-NNS": 2,
+      "NNS-NNP": 4,
+      "NNP-VBD": 3,
+      "VBD-CD": 2,
+      "NNS-NN": 1,
+      "IN-NNP": 1,
+      "NN-NNP": 6,
+      "VBP-NNS": 1,
+      "NNS-VB": 1,
+      "VB-JJ": 1,
+      "JJ-NNS": 2,
+      "VBP-NNP": 4,
+      "JJ-FW": 2,
+      "CD-FW": 1,
+      "FW-IN": 1,
+      "CD-NN": 1,
+      "NNS-VBZ": 1,
+      "VBZ-JJ": 2,
+      "FW-NNS": 3,
+      "NNS-NNS": 2,
+      "NN-JJ": 4,
+      "NN-DT": 2,
+      "DT-NN": 2,
+      "NN-VBZ": 1,
+      "JJ-NNP": 2,
+      "VBD-JJ": 1
+    },
+    "trigram_freq": {
+      "NNS-VBP-JJ": 1,
+      "VBP-JJ-NN": 1,
+      "JJ-NN-NN": 4,
+      "NN-NN-NN": 21,
+      "NN-NN-IN": 3,
+      "NN-IN-FW": 4,
+      "IN-FW-JJ": 2,
+      "FW-JJ-NN": 1,
+      "NN-NN-NNS": 3,
+      "NN-NNS-IN": 1,
+      "NNS-IN-JJ": 1,
+      "IN-JJ-NN": 1,
+      "JJ-NN-FW": 1,
+      "NN-FW-FW": 5,
+      "FW-FW-FW": 20,
+      "FW-FW-NNP": 4,
+      "FW-NNP-NNP": 4,
+      "NNP-NNP-NNP": 11,
+      "NNP-NNP-FW": 6,
+      "NNP-FW-NNP": 4,
+      "NNP-NNP-NN": 8,
+      "NNP-NN-NN": 9,
+      "NN-NN-FW": 3,
+      "NN-FW-NN": 2,
+      "FW-NN-FW": 2,
+      "FW-NNP-FW": 1,
+      "FW-NNP-NN": 2,
+      "FW-FW-NN": 2,
+      "FW-NN-NN": 2,
+      "NN-IN-CD": 1,
+      "IN-CD-NNS": 1,
+      "CD-NNS-NNP": 1,
+      "NNS-NNP-VBD": 1,
+      "NNP-VBD-CD": 2,
+      "VBD-CD-NNS": 1,
+      "CD-NNS-NN": 1,
+      "NNS-NN-IN": 1,
+      "NN-IN-NNP": 1,
+      "IN-NNP-NNP": 1,
+      "NNP-FW-FW": 1,
+      "NN-NN-NNP": 3,
+      "NN-NNP-NNP": 6,
+      "NNP-FW-NN": 2,
+      "FW-NN-NNP": 1,
+      "NNP-NN-NNS": 2,
+      "NN-NNS-VBP": 3,
+      "NNS-VBP-NNS": 1,
+      "VBP-NNS-VB": 1,
+      "NNS-VB-JJ": 1,
+      "VB-JJ-NNS": 1,
+      "JJ-NNS-NNP": 1,
+      "NNS-NNP-NN": 2,
+      "NNS-VBP-NNP": 4,
+      "VBP-NNP-NN": 2,
+      "NNP-NN-NNP": 1,
+      "FW-FW-JJ": 1,
+      "FW-JJ-FW": 1,
+      "JJ-FW-FW": 2,
+      "FW-NNP-VBD": 1,
+      "VBD-CD-FW": 1,
+      "CD-FW-FW": 1,
+      "FW-FW-IN": 1,
+      "FW-IN-CD": 1,
+      "IN-CD-NN": 1,
+      "CD-NN-NN": 1,
+      "NN-NNS-VBZ": 1,
+      "NNS-VBZ-JJ": 1,
+      "VBZ-JJ-FW": 1,
+      "NNP-NN-FW": 1,
+      "FW-FW-NNS": 2,
+      "FW-NNS-NNS": 2,
+      "NNS-NNS-NNP": 2,
+      "NNP-NN-JJ": 1,
+      "NN-JJ-NN": 4,
+      "JJ-NN-IN": 1,
+      "IN-FW-FW": 1,
+      "FW-NNS-VBP": 1,
+      "NN-NN-DT": 2,
+      "NN-DT-NN": 2,
+      "DT-NN-VBZ": 1,
+      "NN-VBZ-JJ": 1,
+      "VBZ-JJ-NNP": 1,
+      "JJ-NNP-NNP": 2,
+      "FW-JJ-NNP": 1,
+      "FW-NN-IN": 1,
+      "IN-FW-NNS": 1,
+      "NNS-NNP-NNP": 1,
+      "DT-NN-JJ": 1,
+      "NN-NN-JJ": 2,
+      "JJ-NN-NNP": 1,
+      "NNP-NNP-VBD": 1,
+      "NNP-VBD-JJ": 1,
+      "VBD-JJ-NNS": 1,
+      "JJ-NNS-VBP": 1,
+      "VBP-NNP-NNP": 2
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 68,
+        "NNP": 52,
+        "FW": 51,
+        "NNS": 16,
+        "JJ": 13
+      },
+      "top_bigrams": {
+        "NN-NN": 37,
+        "FW-FW": 30,
+        "NNP-NNP": 27,
+        "NNP-NN": 14,
+        "FW-NNP": 8
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 21,
+        "FW-FW-FW": 20,
+        "NNP-NNP-NNP": 11,
+        "NNP-NN-NN": 9,
+        "NNP-NNP-NN": 8
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 9,
+    "chunk_counts": {
+      "NP": 63,
+      "VP": 14,
+      "PP": 2,
+      "ADJP": 1
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0225
+      },
+      {
+        "rule": "VP -> ('el', 'VBD')",
+        "frequency": 2,
+        "weight": 0.0225
+      },
+      {
+        "rule": "S -> NP VP VP ('de', 'IN') ('la', 'FW') NP PP ('del', 'FW') ('inicio', 'FW') ('de', 'FW') ('la', 'FW') NP ('en', 'FW') NP (',', ',') NP ('(', '(') NP (')', ')') (',', ',') NP NP ('ofensiva', 'FW') NP ('del', 'FW') ('ejército', 'FW') ('de', 'FW') ('ocupación', 'FW') ('de', 'FW') NP ('la', 'FW') NP ('de', 'FW') NP (',', ',') NP VP ('7', 'CD') ('de', 'FW') ('octubre', 'FW') NP VP ('de', 'IN') ('40.100', 'CD') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0112
+      },
+      {
+        "rule": "NP -> ('Organizaciones', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0112
+      },
+      {
+        "rule": "VP -> ('en', 'VBP') NP",
+        "frequency": 1,
+        "weight": 0.0112
+      },
+      {
+        "rule": "NP -> ('contra', 'JJ') ('del', 'NN') ('sionismo', 'NN')",
+        "frequency": 1,
+        "weight": 0.0112
+      },
+      {
+        "rule": "VP -> ('y', 'VBZ') NP",
+        "frequency": 1,
+        "weight": 0.0112
+      },
+      {
+        "rule": "NP -> ('a', 'DT') ('favor', 'NN')",
+        "frequency": 1,
+        "weight": 0.0112
+      },
+      {
+        "rule": "NP -> ('causa', 'JJ') ('palestina', 'NN') ('convocaron', 'NN') ('este', 'NN') ('lunes', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0112
+      },
+      {
+        "rule": "NP -> ('el', 'JJ') ('marco', 'NN')",
+        "frequency": 1,
+        "weight": 0.0112
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Organizaciones"
+      },
+      {
+        "label": "VP",
+        "text": "en contra del sionismo"
+      },
+      {
+        "label": "NP",
+        "text": "contra del sionismo"
+      },
+      {
+        "label": "VP",
+        "text": "y a favor"
+      },
+      {
+        "label": "NP",
+        "text": "a favor"
+      },
+      {
+        "label": "NP",
+        "text": "causa palestina convocaron este lunes"
+      },
+      {
+        "label": "PP",
+        "text": "en el marco"
+      },
+      {
+        "label": "NP",
+        "text": "el marco"
+      },
+      {
+        "label": "NP",
+        "text": "Convención Nacional Demócrata"
+      },
+      {
+        "label": "NP",
+        "text": "Chicago"
+      },
+      {
+        "label": "NP",
+        "text": "Estados Unidos"
+      },
+      {
+        "label": "NP",
+        "text": "EE.UU."
+      },
+      {
+        "label": "NP",
+        "text": "para rechazar el sustento estadounidense"
+      },
+      {
+        "label": "NP",
+        "text": "a la"
+      },
+      {
+        "label": "NP",
+        "text": "militar"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Organizaciones/NNS)\n  (VP en/VBP (NP contra/JJ del/NN sionismo/NN))\n  (VP y/VBZ (NP a/DT favor/NN))\n  de/IN\n  la/FW\n  (NP causa/JJ palestina/NN convocaron/NN este/NN lunes/NNS)\n  (PP en/IN (NP el/JJ marco/NN))\n  del/FW\n  inicio/FW\n  de/FW\n  la/FW\n  (NP Convención/NNP Nacional/NNP Demócrata/NNP)\n  en/FW\n  (NP Chicago/NNP)\n  ,/,\n  (NP Estados/NNP Unidos/NNP)\n  (/(\n  (NP EE.UU./NNP)\n  )/)\n  ,/,\n  (NP para/JJ rechazar/NN el/NN sustento/NN estadounidense/NN)\n  (NP a/DT la/NN)\n  ofensiva/FW\n  (NP militar/NN)\n  del/FW\n  ejército/FW\n  de/FW\n  ocupación/FW\n  de/FW\n  (NP Israel/NNP contra/NNP)\n  la/FW\n  (NP Franja/NNP)\n  de/FW\n  (NP Gaza/NNP)\n  ,/,\n  (NP que/NN desde/NN)\n  (VP el/VBD)\n  7/CD\n  de/FW\n  octubre/FW\n  (NP a/DT la/NN fecha/NN ha/NN)\n  (VP asesinado/VBZ (NP a/DT más/NN))\n  de/IN\n  40.100/CD\n  (NP civiles/NNS)\n  ./.)",
+      "(S\n  (NP Al/NNP)\n  (VP menos/VBD)\n  15.000/CD\n  (NP personas/NNS marcharon/NN)\n  (PP en/IN (NP Union/NNP Park/NNP))\n  ,/,\n  en/FW\n  las/FW\n  cercanías/FW\n  de/FW\n  donde/FW\n  se/FW\n  (NP realiza/NN)\n  la/FW\n  (NP convención/NN del/NN Partido/NNP Demócrata/NNP)\n  ,/,\n  en/FW\n  el/FW\n  (NP United/NNP Center/NNP)\n  ,/,\n  (NP portando/NN banderas/NNS)\n  (VP\n    palestinas/VBP\n    y/RB\n    (NP las/JJ kufiyas/NN o/NN pañuelos/NN palestinos/NN))\n  ./.)",
+      "(S\n  (NP Activistas/NNP realizaron/NN intervenciones/NNS públicas/NN)\n  ./.)",
+      "(S\n  (NP\n    “/JJ\n    La/NNP\n    coalición/NN\n    Marcha/NNP\n    Sobre/NNP\n    la/NNP\n    CND/NNP\n    lucha/NN\n    por/NN\n    los/NN\n    derechos/NN\n    y/NN\n    la/NN)\n  liberación/FW\n  del/FW\n  pueblo/FW\n  oprimido/FW\n  y/FW\n  (ADJP contra/JJ)\n  la/FW\n  explotación/FW\n  de/FW\n  los/FW\n  (NP obreros/NNS)\n  ./.)",
+      "(S\n  (NP Desde/NNP)\n  (VP el/VBD)\n  19/CD\n  de/FW\n  agosto/FW\n  de/IN\n  2024/CD\n  (NP\n    marchamos/NN\n    sobre/NN\n    la/NN\n    Convención/NNP\n    Nacional/NNP\n    Demócrata/NNP)\n  de/FW\n  (NP Chicago/NNP para/NN dar/NN visibilidad/NN)\n  (NP a/DT las/JJ reivindicaciones/NNS populares/NNS)\n  (VP ante/VBP)\n  la/FW\n  dirigencia/FW\n  del/FW\n  (NP Partido/NNP Demócrata/NNP ”/NNP refirieron/NN)\n  en/FW\n  las/FW\n  (NP redes/NNS sociales/NNS)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "CANTIDADES_NUMERICAS",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "PAISES",
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "CONFLICTOS_ARMADOS_OPERACIONES",
+      "RELACIONES_INTERNACIONALES",
+      "FECHAS_ESPECIFICAS"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "ofensiva militar",
+        "position": [
+          234,
+          250
+        ],
+        "start": 234,
+        "end": 250
+      },
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "ocupación",
+        "position": [
+          267,
+          276
+        ],
+        "start": 267,
+        "end": 276
+      },
+      {
+        "category": "RELACIONES_INTERNACIONALES",
+        "matched_text": "a favor de la causa palestina",
+        "position": [
+          40,
+          69
+        ],
+        "start": 40,
+        "end": 69
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "afirmó",
+        "position": [
+          1342,
+          1348
+        ],
+        "start": 1342,
+        "end": 1348
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "explicó",
+        "position": [
+          1211,
+          1218
+        ],
+        "start": 1211,
+        "end": 1218
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "estados unidos",
+        "position": [
+          163,
+          177
+        ],
+        "start": 163,
+        "end": 177
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "palestina",
+        "position": [
+          60,
+          69
+        ],
+        "start": 60,
+        "end": 69
+      },
+      {
+        "category": "FECHAS_ESPECIFICAS",
+        "matched_text": "19 de agosto de 2024",
+        "position": [
+          788,
+          808
+        ],
+        "start": 788,
+        "end": 808
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "000 personas",
+        "position": [
+          400,
+          412
+        ],
+        "start": 400,
+        "end": 412
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "15.000 personas",
+        "position": [
+          397,
+          412
+        ],
+        "start": 397,
+        "end": 412
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "más de 40.100",
+        "position": [
+          365,
+          378
+        ],
+        "start": 365,
+        "end": 378
+      }
+    ],
+    "match_count": 11
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "EE.UU.",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Franja de Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Hatem Abudayyeh",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Partido Demócrata",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Activistas",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Convención Nacional Demócrata",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Estados Unidos",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Faayani Aboma Mijana",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Chicago",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Israel",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Kamala Harris",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Joe Biden",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Union Park",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Kamala",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Harris",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Convención Nacional Demócrata de Chicago",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "United Center",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Convención Nacional Demócrata",
+        "relacion": "CONVOCAR",
+        "objeto": "Israel"
+      },
+      {
+        "sujeto": "Convención Nacional Demócrata",
+        "relacion": "CONVOCAR",
+        "objeto": "Franja de Gaza"
+      },
+      {
+        "sujeto": "Chicago",
+        "relacion": "CONVOCAR",
+        "objeto": "Israel"
+      },
+      {
+        "sujeto": "Chicago",
+        "relacion": "CONVOCAR",
+        "objeto": "Franja de Gaza"
+      },
+      {
+        "sujeto": "Estados Unidos",
+        "relacion": "CONVOCAR",
+        "objeto": "Israel"
+      },
+      {
+        "sujeto": "Estados Unidos",
+        "relacion": "CONVOCAR",
+        "objeto": "Franja de Gaza"
+      },
+      {
+        "sujeto": "EE.UU.",
+        "relacion": "CONVOCAR",
+        "objeto": "Israel"
+      },
+      {
+        "sujeto": "EE.UU.",
+        "relacion": "CONVOCAR",
+        "objeto": "Franja de Gaza"
+      },
+      {
+        "sujeto": "Union Park",
+        "relacion": "MARCHAR",
+        "objeto": "Partido Demócrata"
+      },
+      {
+        "sujeto": "Union Park",
+        "relacion": "MARCHAR",
+        "objeto": "United Center"
+      },
+      {
+        "sujeto": "Convención Nacional Demócrata de Chicago",
+        "relacion": "MARCHAR",
+        "objeto": "Partido Demócrata"
+      },
+      {
+        "sujeto": "Kamala",
+        "relacion": "HABER_DEJAR_EXPLICAR",
+        "objeto": "Hatem Abudayyeh"
+      },
+      {
+        "sujeto": "Harris",
+        "relacion": "HABER_DEJAR_EXPLICAR",
+        "objeto": "Hatem Abudayyeh"
+      },
+      {
+        "sujeto": "Joe Biden",
+        "relacion": "HABER_DEJAR_EXPLICAR",
+        "objeto": "Hatem Abudayyeh"
+      },
+      {
+        "sujeto": "Kamala Harris",
+        "relacion": "PERDER_ADVERTIR",
+        "objeto": "Faayani Aboma Mijana"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.6908,
+    "pos": 0.034,
+    "neu": 0.956,
+    "neg": 0.009,
+    "label": "positive"
+  }
+}

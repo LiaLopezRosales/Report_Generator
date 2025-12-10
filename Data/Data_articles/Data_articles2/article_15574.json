@@ -1,0 +1,603 @@
+{
+  "url": "https://www.telesurtv.net/israel-asesina-a-nueve-palestinos-mas-tras-bombardeos-perpetrados-en-gaza/",
+  "title": "Israel asesina a nueve palestinos más tras bombardeos perpetrados en Gaza - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Gaza",
+    "genocidio",
+    "Israel",
+    "Palestina"
+  ],
+  "text": "Este lunes por la noche, nueve civiles perdieron la vida en ataques aéreos perpetrados por el ejército de Israel contra el este de la ciudad de Rafah, ubicada en el sur de la Franja de Gaza.\nSegún una fuente médica del Hospital Europeo de Gaza, nueve cuerpos sin vida y varios heridos, algunos en estado crítico, fueron trasladados al hospital de Khan Yunis, al sur de la Franja.\nAdemás, en los eventos de esta noche, dos civiles más fallecieron y otros resultaron heridos en un bombardeo con aviones no tripulados en Rafah.\nAsimismo, un civil murió y otro resultó herido en un ataque similar contra una vivienda en el barrio de Tell es-Sultan, al oeste de Rafah. Otro trágico incidente dejó a un civil sin vida y múltiples personas heridas, incluidos niños y mujeres, en un bombardeo en la zona de Khirbat al-Adas, al norte de la ciudad.\nEstos devastadores eventos elevan el número de civiles muertos en la Franja de Gaza desde el inicio de la actual agresión por parte de la ocupación el 7 de octubre de 2023 a 37,347, con 85,372 heridos, la mayoría de ellos niños y mujeres.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/israel-asesina-a-nueve-palestinos-mas-tras-bombardeos-perpetrados-en-gaza/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-06.json",
+    "message_index": 449,
+    "message_id": 72294,
+    "date": "2024-06-18T06:55:13+00:00",
+    "text": "teleSUR\nIsrael asesina a nueve palestinos más tras bombardeos perpetrados en Gaza\nhttps://www.telesurtv.net/israel-asesina-a-nueve-palestinos-mas-tras-bombardeos-perpetrados-en-gaza/",
+    "photo_path": null,
+    "views": 1277,
+    "reactions": {},
+    "total_reactions": 0
+  },
+  "preprocessing": {
+    "cleaned": "este lunes por la noche, nueve civiles perdieron la vida en ataques aéreos perpetrados por el ejército de israel contra el este de la ciudad de rafah, ubicada en el sur de la franja de gaza. según una fuente médica del hospital europeo de gaza, nueve cuerpos sin vida y varios heridos, algunos en estado crítico, fueron trasladados al hospital de khan yunis, al sur de la franja. además, en los eventos de esta noche, dos civiles más fallecieron y otros resultaron heridos en un bombardeo con aviones no tripulados en rafah. asimismo, un civil murió y otro resultó herido en un ataque similar contra una vivienda en el barrio de tell es-sultan, al oeste de rafah. otro trágico incidente dejó a un civil sin vida y múltiples personas heridas, incluidos niños y mujeres, en un bombardeo en la zona de khirbat al-adas, al norte de la ciudad. estos devastadores eventos elevan el número de civiles muertos en la franja de gaza desde el inicio de la actual agresión por parte de la ocupación el 7 de octubre de 2023 a 37,347, con 85,372 heridos, la mayoría de ellos niños y mujeres.",
+    "tokens": [
+      "lunes",
+      "noche",
+      ",",
+      "nueve",
+      "civiles",
+      "perdieron",
+      "vida",
+      "ataques",
+      "aéreos",
+      "perpetrados",
+      "ejército",
+      "israel",
+      "ciudad",
+      "rafah",
+      ",",
+      "ubicada",
+      "sur",
+      "franja",
+      "gaza",
+      ".",
+      "según",
+      "fuente",
+      "médica",
+      "hospital",
+      "europeo",
+      "gaza",
+      ",",
+      "nueve",
+      "cuerpos",
+      "vida",
+      "varios",
+      "heridos",
+      ",",
+      "crítico",
+      ",",
+      "trasladados",
+      "hospital",
+      "khan",
+      "yunis",
+      ",",
+      "sur",
+      "franja",
+      ".",
+      "además",
+      ",",
+      "eventos",
+      "noche",
+      ",",
+      "dos",
+      "civiles",
+      "fallecieron",
+      "resultaron",
+      "heridos",
+      "bombardeo",
+      "aviones",
+      "tripulados",
+      "rafah",
+      ".",
+      "asimismo",
+      ",",
+      "civil",
+      "murió",
+      "resultó",
+      "herido",
+      "ataque",
+      "similar",
+      "vivienda",
+      "barrio",
+      "tell",
+      "es-sultan",
+      ",",
+      "oeste",
+      "rafah",
+      ".",
+      "trágico",
+      "incidente",
+      "dejó",
+      "civil",
+      "vida",
+      "múltiples",
+      "personas",
+      "heridas",
+      ",",
+      "incluidos",
+      "niños",
+      "mujeres",
+      ",",
+      "bombardeo",
+      "zona",
+      "khirbat",
+      "al-adas",
+      ",",
+      "norte",
+      "ciudad",
+      ".",
+      "devastadores",
+      "eventos",
+      "elevan",
+      "número",
+      "civiles",
+      "muertos",
+      "franja",
+      "gaza",
+      "inicio",
+      "actual",
+      "agresión",
+      "parte",
+      "ocupación",
+      "7",
+      "octubre",
+      "2023",
+      "37,347",
+      ",",
+      "85,372",
+      "heridos",
+      ",",
+      "mayoría",
+      "niños",
+      "mujeres",
+      "."
+    ],
+    "token_count": 120,
+    "sentence_count": 6
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NN": 51,
+      "NNS": 8,
+      "VBP": 8,
+      "JJ": 19,
+      "FW": 52,
+      "IN": 13,
+      "NNP": 24,
+      "VBD": 1,
+      "VBZ": 3,
+      "DT": 1,
+      "CD": 3
+    },
+    "bigram_freq": {
+      "NN-NNS": 5,
+      "NNS-VBP": 7,
+      "VBP-JJ": 5,
+      "JJ-FW": 2,
+      "FW-JJ": 3,
+      "JJ-NNS": 2,
+      "VBP-NN": 3,
+      "NN-NN": 24,
+      "NN-IN": 10,
+      "IN-NNS": 1,
+      "JJ-NN": 14,
+      "NN-FW": 5,
+      "FW-IN": 2,
+      "IN-NNP": 4,
+      "NNP-NNP": 9,
+      "NNP-FW": 5,
+      "FW-NN": 4,
+      "IN-FW": 5,
+      "FW-FW": 33,
+      "FW-NNP": 10,
+      "NNP-JJ": 4,
+      "NNP-IN": 1,
+      "NNP-VBP": 1,
+      "NN-JJ": 4,
+      "NNP-VBD": 1,
+      "VBD-FW": 1,
+      "IN-JJ": 2,
+      "NN-VBZ": 2,
+      "VBZ-DT": 1,
+      "DT-NN": 1,
+      "VBZ-NNP": 1,
+      "NNP-NN": 2,
+      "JJ-JJ": 1,
+      "NNP-VBZ": 1,
+      "VBZ-FW": 1,
+      "IN-CD": 1,
+      "CD-CD": 1,
+      "CD-NN": 2,
+      "NN-CD": 1
+    },
+    "trigram_freq": {
+      "NN-NNS-VBP": 5,
+      "NNS-VBP-JJ": 5,
+      "VBP-JJ-FW": 2,
+      "JJ-FW-JJ": 1,
+      "FW-JJ-NNS": 2,
+      "JJ-NNS-VBP": 1,
+      "NNS-VBP-NN": 2,
+      "VBP-NN-NN": 3,
+      "NN-NN-IN": 6,
+      "NN-IN-NNS": 1,
+      "IN-NNS-VBP": 1,
+      "VBP-JJ-NN": 3,
+      "JJ-NN-NN": 8,
+      "NN-NN-FW": 3,
+      "NN-FW-IN": 1,
+      "FW-IN-NNP": 1,
+      "IN-NNP-NNP": 3,
+      "NNP-NNP-FW": 3,
+      "NNP-FW-NN": 1,
+      "FW-NN-IN": 1,
+      "NN-IN-FW": 5,
+      "IN-FW-FW": 3,
+      "FW-FW-FW": 23,
+      "FW-FW-NNP": 6,
+      "FW-NNP-NNP": 4,
+      "NNP-FW-FW": 2,
+      "FW-NNP-FW": 2,
+      "NNP-FW-NNP": 2,
+      "NNP-NNP-JJ": 2,
+      "NNP-JJ-NN": 4,
+      "NN-FW-NNP": 2,
+      "NNP-NNP-IN": 1,
+      "NNP-IN-NNP": 1,
+      "IN-NNP-VBP": 1,
+      "NNP-VBP-NN": 1,
+      "NN-NN-NN": 9,
+      "NN-NN-NNS": 3,
+      "JJ-FW-FW": 1,
+      "FW-FW-NN": 2,
+      "FW-NN-NN": 1,
+      "NN-NN-JJ": 2,
+      "NN-JJ-NN": 3,
+      "JJ-NN-IN": 3,
+      "NN-IN-NNP": 2,
+      "NNP-NNP-VBD": 1,
+      "NNP-VBD-FW": 1,
+      "VBD-FW-FW": 1,
+      "FW-NN-NNS": 1,
+      "NN-IN-JJ": 2,
+      "IN-JJ-NN": 2,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-DT": 1,
+      "VBZ-DT-NN": 1,
+      "DT-NN-VBZ": 1,
+      "NN-VBZ-NNP": 1,
+      "VBZ-NNP-NNP": 1,
+      "NNP-NNP-NNP": 1,
+      "JJ-NN-JJ": 2,
+      "IN-FW-NN": 1,
+      "FW-NN-FW": 1,
+      "FW-NNP-JJ": 2,
+      "NNP-NNP-NN": 1,
+      "NNP-NN-NN": 2,
+      "NN-JJ-JJ": 1,
+      "JJ-JJ-NN": 1,
+      "JJ-NN-FW": 1,
+      "NN-FW-FW": 2,
+      "FW-NNP-VBZ": 1,
+      "NNP-VBZ-FW": 1,
+      "VBZ-FW-FW": 1,
+      "FW-NNP-NN": 1,
+      "IN-FW-JJ": 1,
+      "FW-JJ-NN": 1,
+      "FW-FW-IN": 1,
+      "FW-IN-CD": 1,
+      "IN-CD-CD": 1,
+      "CD-CD-NN": 1,
+      "CD-NN-CD": 1,
+      "NN-CD-NN": 1,
+      "CD-NN-NN": 1,
+      "FW-FW-JJ": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "FW": 52,
+        "NN": 51,
+        "NNP": 24,
+        "JJ": 19,
+        "IN": 13
+      },
+      "top_bigrams": {
+        "FW-FW": 33,
+        "NN-NN": 24,
+        "JJ-NN": 14,
+        "NN-IN": 10,
+        "FW-NNP": 10
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 23,
+        "NN-NN-NN": 9,
+        "JJ-NN-NN": 8,
+        "NN-NN-IN": 6,
+        "FW-FW-NNP": 6
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 6,
+    "chunk_counts": {
+      "NP": 54,
+      "VP": 10,
+      "PP": 8,
+      "ADJP": 3
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 3,
+        "weight": 0.037
+      },
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 3,
+        "weight": 0.037
+      },
+      {
+        "rule": "NP -> ('Rafah', 'NNP')",
+        "frequency": 3,
+        "weight": 0.037
+      },
+      {
+        "rule": "NP -> ('Franja', 'NNP')",
+        "frequency": 3,
+        "weight": 0.037
+      },
+      {
+        "rule": "NP -> ('Gaza', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0247
+      },
+      {
+        "rule": "S -> NP VP (',', ',') NP VP PP VP ('ejército', 'FW') PP ('el', 'FW') NP ('de', 'IN') ('la', 'FW') ('ciudad', 'FW') ('de', 'FW') NP (',', ',') ADJP ('en', 'FW') ('el', 'FW') ('sur', 'FW') ('de', 'FW') ('la', 'FW') NP ('de', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0123
+      },
+      {
+        "rule": "NP -> ('Este', 'NN') ('lunes', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0123
+      },
+      {
+        "rule": "VP -> ('por', 'VBP') NP",
+        "frequency": 1,
+        "weight": 0.0123
+      },
+      {
+        "rule": "NP -> ('la', 'JJ') ('noche', 'NN')",
+        "frequency": 1,
+        "weight": 0.0123
+      },
+      {
+        "rule": "NP -> ('nueve', 'JJ') ('civiles', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0123
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Este lunes"
+      },
+      {
+        "label": "VP",
+        "text": "por la noche"
+      },
+      {
+        "label": "NP",
+        "text": "la noche"
+      },
+      {
+        "label": "NP",
+        "text": "nueve civiles"
+      },
+      {
+        "label": "VP",
+        "text": "perdieron la vida"
+      },
+      {
+        "label": "NP",
+        "text": "la vida"
+      },
+      {
+        "label": "PP",
+        "text": "en ataques"
+      },
+      {
+        "label": "NP",
+        "text": "ataques"
+      },
+      {
+        "label": "VP",
+        "text": "aéreos perpetrados por el"
+      },
+      {
+        "label": "NP",
+        "text": "perpetrados por el"
+      },
+      {
+        "label": "PP",
+        "text": "de Israel contra"
+      },
+      {
+        "label": "NP",
+        "text": "Israel contra"
+      },
+      {
+        "label": "NP",
+        "text": "este"
+      },
+      {
+        "label": "NP",
+        "text": "Rafah"
+      },
+      {
+        "label": "ADJP",
+        "text": "ubicada"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Este/NN lunes/NNS)\n  (VP por/VBP (NP la/JJ noche/NN))\n  ,/,\n  (NP nueve/JJ civiles/NNS)\n  (VP perdieron/VBP (NP la/NN vida/NN))\n  (PP en/IN (NP ataques/NNS))\n  (VP aéreos/VBP (NP perpetrados/JJ por/NN el/NN))\n  ejército/FW\n  (PP de/IN (NP Israel/NNP contra/NNP))\n  el/FW\n  (NP este/NN)\n  de/IN\n  la/FW\n  ciudad/FW\n  de/FW\n  (NP Rafah/NNP)\n  ,/,\n  (ADJP ubicada/JJ)\n  en/FW\n  el/FW\n  sur/FW\n  de/FW\n  la/FW\n  (NP Franja/NNP)\n  de/FW\n  (NP Gaza/NNP)\n  ./.)",
+      "(S\n  (NP Según/NNP)\n  (NP una/JJ fuente/NN médica/NN)\n  del/FW\n  (NP Hospital/NNP Europeo/NNP)\n  de/FW\n  (NP Gaza/NNP)\n  ,/,\n  (VP nueve/VBP (NP cuerpos/NN sin/NN vida/NN y/NN varios/NNS))\n  (VP heridos/VBP)\n  ,/,\n  (ADJP algunos/JJ)\n  en/FW\n  estado/FW\n  (NP crítico/NN)\n  ,/,\n  (NP fueron/NN trasladados/NN)\n  (NP al/JJ hospital/NN)\n  (PP de/IN (NP Khan/NNP Yunis/NNP))\n  ,/,\n  (NP al/JJ sur/NN)\n  de/IN\n  la/FW\n  (NP Franja/NNP)\n  ./.)",
+      "(S\n  (NP Además/NNP)\n  ,/,\n  en/FW\n  los/FW\n  eventos/FW\n  de/FW\n  esta/FW\n  (NP noche/NN)\n  ,/,\n  (NP dos/JJ civiles/NNS)\n  (VP más/VBP (NP fallecieron/NN y/NN))\n  (PP otros/IN (NP resultaron/NN heridos/NN))\n  (PP en/IN (NP un/JJ bombardeo/NN con/NN))\n  (VP aviones/VBZ (NP no/DT tripulados/NN) en/RB (NP Rafah/NNP))\n  ./.)",
+      "(S\n  (NP Asimismo/NNP)\n  ,/,\n  (NP un/JJ civil/JJ murió/NN y/NN)\n  (PP otro/IN (NP resultó/NN herido/NN))\n  (PP en/IN (NP un/JJ ataque/NN))\n  (NP similar/JJ contra/NN)\n  (NP una/JJ vivienda/NN)\n  en/IN\n  el/FW\n  (NP barrio/NN)\n  de/FW\n  (NP Tell/NNP es-Sultan/NN)\n  ,/,\n  (NP al/JJ oeste/NN)\n  (PP de/IN (NP Rafah/NNP))\n  ./.)",
+      "(S\n  (NP Otro/NNP trágico/NN incidente/NN)\n  (VP\n    dejó/VBZ\n    (NP a/DT un/JJ civil/JJ sin/NN vida/NN y/NN múltiples/NNS))\n  (VP personas/VBP (NP heridas/NNS))\n  ,/,\n  (NP incluidos/JJ niños/NN y/NN mujeres/NNS)\n  ,/,\n  en/FW\n  (NP un/JJ bombardeo/NN)\n  en/IN\n  la/FW\n  zona/FW\n  de/FW\n  (NP Khirbat/NNP al-Adas/NN)\n  ,/,\n  (ADJP al/JJ)\n  norte/FW\n  de/FW\n  la/FW\n  (NP ciudad/NN)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "GRUPOS_ESPECIFICOS",
+      "TIEMPO_RELATIVO",
+      "REGIONES_PROVINCIAS",
+      "LOCALIZACIONES_ESPECIFICAS",
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "INFRAESTRUCTURA_SERVICIOS",
+      "FECHAS_ESPECIFICAS",
+      "VIOLENCIA_CRIMEN_DERECHOS_HUMANOS"
+    ],
+    "matches": [
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "ocupación",
+        "position": [
+          977,
+          986
+        ],
+        "start": 977,
+        "end": 986
+      },
+      {
+        "category": "VIOLENCIA_CRIMEN_DERECHOS_HUMANOS",
+        "matched_text": "ataque similar contra una vivienda en el barrio de tell es-sultan, al oeste de rafah. otro trágico incidente dejó a un civil sin vida y múltiples",
+        "position": [
+          578,
+          723
+        ],
+        "start": 578,
+        "end": 723
+      },
+      {
+        "category": "GRUPOS_ESPECIFICOS",
+        "matched_text": "mujeres",
+        "position": [
+          760,
+          767
+        ],
+        "start": 760,
+        "end": 767
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "hospital",
+        "position": [
+          219,
+          227
+        ],
+        "start": 219,
+        "end": 227
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "estado crítico",
+        "position": [
+          297,
+          311
+        ],
+        "start": 297,
+        "end": 311
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "barrio de",
+        "position": [
+          619,
+          628
+        ],
+        "start": 619,
+        "end": 628
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "hospital europeo",
+        "position": [
+          219,
+          235
+        ],
+        "start": 219,
+        "end": 235
+      },
+      {
+        "category": "FECHAS_ESPECIFICAS",
+        "matched_text": "7 de octubre de 2023",
+        "position": [
+          990,
+          1010
+        ],
+        "start": 990,
+        "end": 1010
+      },
+      {
+        "category": "TIEMPO_RELATIVO",
+        "matched_text": "esta noche",
+        "position": [
+          406,
+          416
+        ],
+        "start": 406,
+        "end": 416
+      }
+    ],
+    "match_count": 9
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Franja de Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Tell es-Sultan",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Hospital Europeo de Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Franja",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Rafah",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Khan Yunis",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Israel",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Khirbat al-Adas",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Hospital Europeo de Gaza",
+        "relacion": "TRASLADAR",
+        "objeto": "Khan Yunis"
+      },
+      {
+        "sujeto": "Hospital Europeo de Gaza",
+        "relacion": "TRASLADAR",
+        "objeto": "Franja"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.8555,
+    "pos": 0.0,
+    "neu": 0.95,
+    "neg": 0.05,
+    "label": "negative"
+  }
+}

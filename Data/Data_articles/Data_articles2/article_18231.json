@@ -1,0 +1,668 @@
+{
+  "url": "https://www.telesurtv.net/depresion-tropical-evoluciona-a-cuarta-tormenta-tropical-debby-en-el-golfo-de-mexico/",
+  "title": "Depresión tropical evoluciona a cuarta tormenta tropical Debby en el golfo de México - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "cuarta tormenta tropical",
+    "Debby"
+  ],
+  "text": "El Centro Nacional de Huracanes (NHC, por sus siglas en inglés) informó este sábado que la tormenta tropical Debby se formó este sábado en el sureste del golfo de México y podría convertirse en huracán a medida que se aproxima a las costas de Florida, donde tocará tierra el domingo por la noche o el lunes.\n“Se pronostica que la tormenta tropical Debby se convertirá en un huracán a medida que se acerca a la región Big Bend de Florida”, informó NHC.\nEl ente también refirió que “se han emitido advertencias de huracán y marejada ciclónica. Es probable que se produzcan inundaciones repentinas considerables en partes del sureste de los Estados Unidos (EE. UU.).\nEl ente informó además que Debby, que se localiza a 115 kilómetros al norte de La Habana (Cuba) y a 160 kilómetros al oeste de Cayo Hueso (Florida), y se desplaza en dirección del noroeste a 24 kilómetros por hora con vientos máximos sostenidos de 65 kilómetros por hora.\nLa tormenta tropical Debby es el cuarto fenómeno meteorológico que se forma en la cuenca atlántica en lo que va de temporada, que comenzó el pasado 1 de junio.\nCon anterioridad, se formaron Alberto, Beryl y Chris, de las cuales la segunda llegó a convertirse en huracán de categoría 5, la máxima en la escala de intensidad Saffir-Simpson.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/depresion-tropical-evoluciona-a-cuarta-tormenta-tropical-debby-en-el-golfo-de-mexico/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-08.json",
+    "message_index": 1537,
+    "message_id": 73938,
+    "date": "2024-08-04T00:55:07+00:00",
+    "text": "teleSUR\nDepresión tropical evoluciona a cuarta tormenta tropical Debby en el golfo de México\nhttps://www.telesurtv.net/depresion-tropical-evoluciona-a-cuarta-tormenta-tropical-debby-en-el-golfo-de-mexico/",
+    "photo_path": null,
+    "views": 2296,
+    "reactions": {},
+    "total_reactions": 0
+  },
+  "preprocessing": {
+    "cleaned": "el centro nacional de huracanes (nhc, por sus siglas en inglés) informó este sábado que la tormenta tropical debby se formó este sábado en el sureste del golfo de méxico y podría convertirse en huracán a medida que se aproxima a las costas de florida, donde tocará tierra el domingo por la noche o el lunes. “se pronostica que la tormenta tropical debby se convertirá en un huracán a medida que se acerca a la región big bend de florida”, informó nhc. el ente también refirió que “se han emitido advertencias de huracán y marejada ciclónica. es probable que se produzcan inundaciones repentinas considerables en partes del sureste de los estados unidos (ee. uu.). el ente informó además que debby, que se localiza a 115 kilómetros al norte de la habana (cuba) y a 160 kilómetros al oeste de cayo hueso (florida), y se desplaza en dirección del noroeste a 24 kilómetros por hora con vientos máximos sostenidos de 65 kilómetros por hora. la tormenta tropical debby es el cuarto fenómeno meteorológico que se forma en la cuenca atlántica en lo que va de temporada, que comenzó el pasado 1 de junio. con anterioridad, se formaron alberto, beryl y chris, de las cuales la segunda llegó a convertirse en huracán de categoría 5, la máxima en la escala de intensidad saffir-simpson.",
+    "tokens": [
+      "centro",
+      "nacional",
+      "huracanes",
+      "(",
+      "nhc",
+      ",",
+      "siglas",
+      "inglés",
+      ")",
+      "informó",
+      "sábado",
+      "tormenta",
+      "tropical",
+      "debby",
+      "formó",
+      "sábado",
+      "sureste",
+      "golfo",
+      "méxico",
+      "podría",
+      "convertirse",
+      "huracán",
+      "medida",
+      "aproxima",
+      "costas",
+      "florida",
+      ",",
+      "tocará",
+      "tierra",
+      "domingo",
+      "noche",
+      "lunes",
+      ".",
+      "“",
+      "pronostica",
+      "tormenta",
+      "tropical",
+      "debby",
+      "convertirá",
+      "huracán",
+      "medida",
+      "acerca",
+      "región",
+      "big",
+      "bend",
+      "florida",
+      "”",
+      ",",
+      "informó",
+      "nhc",
+      ".",
+      "ente",
+      "refirió",
+      "“",
+      "emitido",
+      "advertencias",
+      "huracán",
+      "marejada",
+      "ciclónica",
+      ".",
+      "probable",
+      "produzcan",
+      "inundaciones",
+      "repentinas",
+      "considerables",
+      "partes",
+      "sureste",
+      "unidos",
+      "(",
+      "ee",
+      ".",
+      "uu.",
+      ")",
+      ".",
+      "ente",
+      "informó",
+      "además",
+      "debby",
+      ",",
+      "localiza",
+      "115",
+      "kilómetros",
+      "norte",
+      "habana",
+      "(",
+      "cuba",
+      ")",
+      "160",
+      "kilómetros",
+      "oeste",
+      "cayo",
+      "hueso",
+      "(",
+      "florida",
+      ")",
+      ",",
+      "desplaza",
+      "dirección",
+      "noroeste",
+      "24",
+      "kilómetros",
+      "hora",
+      "vientos",
+      "máximos",
+      "sostenidos",
+      "65",
+      "kilómetros",
+      "hora",
+      ".",
+      "tormenta",
+      "tropical",
+      "debby",
+      "cuarto",
+      "fenómeno",
+      "meteorológico",
+      "forma",
+      "cuenca",
+      "atlántica",
+      "va",
+      "temporada",
+      ",",
+      "comenzó",
+      "pasado",
+      "1",
+      "junio",
+      ".",
+      "anterioridad",
+      ",",
+      "formaron",
+      "alberto",
+      ",",
+      "beryl",
+      "chris",
+      ",",
+      "cuales",
+      "segunda",
+      "llegó",
+      "convertirse",
+      "huracán",
+      "categoría",
+      "5",
+      ",",
+      "máxima",
+      "escala",
+      "intensidad",
+      "saffir-simpson",
+      "."
+    ],
+    "token_count": 147,
+    "sentence_count": 8
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 35,
+      "FW": 36,
+      "NN": 74,
+      "IN": 13,
+      "JJ": 23,
+      "NNS": 11,
+      "VBP": 4,
+      "VBZ": 3,
+      "VBD": 2,
+      "CD": 4
+    },
+    "bigram_freq": {
+      "NNP-NNP": 15,
+      "NNP-FW": 3,
+      "FW-NNP": 6,
+      "NNP-NN": 10,
+      "NN-NN": 43,
+      "NN-IN": 12,
+      "IN-JJ": 3,
+      "JJ-JJ": 6,
+      "JJ-NN": 10,
+      "NN-JJ": 4,
+      "JJ-NNP": 3,
+      "IN-NNP": 3,
+      "NN-FW": 6,
+      "FW-NN": 9,
+      "NN-NNS": 2,
+      "NNS-NNP": 2,
+      "NN-VBP": 1,
+      "VBP-NNP": 1,
+      "NN-NNP": 4,
+      "NNP-VBZ": 2,
+      "VBZ-FW": 1,
+      "IN-FW": 5,
+      "FW-FW": 20,
+      "NNP-JJ": 1,
+      "JJ-NNS": 2,
+      "NNS-NNS": 2,
+      "NNS-VBP": 3,
+      "VBP-VBZ": 1,
+      "VBZ-JJ": 2,
+      "NN-VBD": 1,
+      "VBD-JJ": 2,
+      "JJ-CD": 1,
+      "CD-NNS": 4,
+      "NNS-JJ": 4,
+      "JJ-FW": 1,
+      "NNP-CD": 1,
+      "IN-NN": 1,
+      "NN-CD": 1,
+      "VBP-NN": 1,
+      "IN-CD": 1,
+      "NNP-VBD": 1,
+      "NNP-IN": 1,
+      "FW-NNS": 1,
+      "VBP-JJ": 1
+    },
+    "trigram_freq": {
+      "NNP-NNP-NNP": 7,
+      "NNP-NNP-FW": 2,
+      "NNP-FW-NNP": 2,
+      "FW-NNP-NNP": 3,
+      "NNP-NNP-NN": 2,
+      "NNP-NN-NN": 8,
+      "NN-NN-NN": 27,
+      "NN-NN-IN": 7,
+      "NN-IN-JJ": 3,
+      "IN-JJ-JJ": 1,
+      "JJ-JJ-NN": 3,
+      "JJ-NN-NN": 4,
+      "NN-NN-JJ": 3,
+      "NN-JJ-JJ": 3,
+      "JJ-JJ-NNP": 2,
+      "JJ-NNP-NN": 3,
+      "IN-JJ-NN": 2,
+      "NN-IN-NNP": 3,
+      "IN-NNP-NN": 2,
+      "NN-NN-FW": 3,
+      "NN-FW-NN": 5,
+      "FW-NN-NN": 3,
+      "NN-JJ-NN": 1,
+      "JJ-NN-IN": 3,
+      "FW-NN-NNS": 1,
+      "NN-NNS-NNP": 1,
+      "NNS-NNP-NN": 1,
+      "NN-NN-VBP": 1,
+      "NN-VBP-NNP": 1,
+      "VBP-NNP-NNP": 1,
+      "FW-NNP-NN": 1,
+      "NNP-NN-NNP": 1,
+      "NN-NNP-NNP": 2,
+      "NNP-NNP-VBZ": 2,
+      "NNP-VBZ-FW": 1,
+      "VBZ-FW-NN": 1,
+      "NN-IN-FW": 4,
+      "IN-FW-FW": 2,
+      "FW-FW-NN": 3,
+      "FW-NN-NNP": 2,
+      "NN-NNP-JJ": 1,
+      "NNP-JJ-NN": 1,
+      "JJ-NN-JJ": 1,
+      "JJ-JJ-NNS": 1,
+      "JJ-NNS-NNS": 1,
+      "NNS-NNS-NNS": 1,
+      "NNS-NNS-VBP": 1,
+      "NNS-VBP-VBZ": 1,
+      "VBP-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 2,
+      "IN-FW-NNP": 2,
+      "NNP-VBZ-JJ": 1,
+      "NN-NN-NNP": 1,
+      "NN-NNP-NN": 1,
+      "NNP-NN-VBD": 1,
+      "NN-VBD-JJ": 1,
+      "VBD-JJ-CD": 1,
+      "JJ-CD-NNS": 1,
+      "CD-NNS-JJ": 4,
+      "NNS-JJ-FW": 1,
+      "JJ-FW-FW": 1,
+      "FW-FW-NNP": 2,
+      "NNP-NNP-CD": 1,
+      "NNP-CD-NNS": 1,
+      "NNS-JJ-NN": 1,
+      "IN-NNP-NNP": 1,
+      "NN-IN-NN": 1,
+      "IN-NN-NN": 1,
+      "NN-NN-CD": 1,
+      "NN-CD-NNS": 1,
+      "NNS-JJ-JJ": 1,
+      "JJ-NN-NNS": 1,
+      "NN-NNS-VBP": 1,
+      "NNS-VBP-NN": 1,
+      "VBP-NN-IN": 1,
+      "NN-IN-CD": 1,
+      "IN-CD-NNS": 1,
+      "NNS-JJ-NNS": 1,
+      "JJ-NNS-NNP": 1,
+      "NNS-NNP-VBD": 1,
+      "NNP-VBD-JJ": 1,
+      "VBD-JJ-NNP": 1,
+      "FW-FW-FW": 15,
+      "FW-NN-FW": 2,
+      "FW-NN-IN": 1,
+      "FW-NNP-FW": 1,
+      "NNP-FW-FW": 1,
+      "NNP-NNP-IN": 1,
+      "NNP-IN-FW": 1,
+      "IN-FW-NNS": 1,
+      "FW-NNS-VBP": 1,
+      "NNS-VBP-JJ": 1,
+      "VBP-JJ-JJ": 1,
+      "JJ-NN-FW": 1,
+      "NN-FW-FW": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 74,
+        "FW": 36,
+        "NNP": 35,
+        "JJ": 23,
+        "IN": 13
+      },
+      "top_bigrams": {
+        "NN-NN": 43,
+        "FW-FW": 20,
+        "NNP-NNP": 15,
+        "NN-IN": 12,
+        "NNP-NN": 10
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 27,
+        "FW-FW-FW": 15,
+        "NNP-NN-NN": 8,
+        "NNP-NNP-NNP": 7,
+        "NN-NN-IN": 7
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 8,
+    "chunk_counts": {
+      "NP": 63,
+      "PP": 7,
+      "VP": 9,
+      "ADJP": 1
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 4,
+        "weight": 0.0455
+      },
+      {
+        "rule": "NP -> ('kilómetros', 'NNS')",
+        "frequency": 4,
+        "weight": 0.0455
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 3,
+        "weight": 0.0341
+      },
+      {
+        "rule": "NP -> ('huracán', 'NN')",
+        "frequency": 2,
+        "weight": 0.0227
+      },
+      {
+        "rule": "NP -> ('Florida', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0227
+      },
+      {
+        "rule": "NP -> ('El', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0227
+      },
+      {
+        "rule": "S -> NP ('de', 'FW') NP ('(', '(') NP (',', ',') NP PP (')', ')') NP NP PP PP ('y', 'CC') NP ('en', 'FW') NP NP ('se', 'FW') VP PP (',', ',') NP ('noche', 'FW') ('o', 'FW') ('el', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0114
+      },
+      {
+        "rule": "NP -> ('El', 'NNP') ('Centro', 'NNP') ('Nacional', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0114
+      },
+      {
+        "rule": "NP -> ('Huracanes', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0114
+      },
+      {
+        "rule": "NP -> ('NHC', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0114
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El Centro Nacional"
+      },
+      {
+        "label": "NP",
+        "text": "Huracanes"
+      },
+      {
+        "label": "NP",
+        "text": "NHC"
+      },
+      {
+        "label": "NP",
+        "text": "por sus siglas"
+      },
+      {
+        "label": "PP",
+        "text": "en inglés"
+      },
+      {
+        "label": "NP",
+        "text": "inglés"
+      },
+      {
+        "label": "NP",
+        "text": "informó este sábado que la"
+      },
+      {
+        "label": "NP",
+        "text": "tormenta tropical Debby se formó este sábado"
+      },
+      {
+        "label": "PP",
+        "text": "en el sureste del golfo"
+      },
+      {
+        "label": "NP",
+        "text": "el sureste del golfo"
+      },
+      {
+        "label": "PP",
+        "text": "de México"
+      },
+      {
+        "label": "NP",
+        "text": "México"
+      },
+      {
+        "label": "NP",
+        "text": "podría convertirse"
+      },
+      {
+        "label": "NP",
+        "text": "huracán"
+      },
+      {
+        "label": "NP",
+        "text": "a medida que"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP El/NNP Centro/NNP Nacional/NNP)\n  de/FW\n  (NP Huracanes/NNP)\n  (/(\n  (NP NHC/NNP)\n  ,/,\n  (NP por/NN sus/NN siglas/NN)\n  (PP en/IN (NP inglés/NN))\n  )/)\n  (NP informó/NN este/NN sábado/NN que/NN la/NN)\n  (NP\n    tormenta/JJ\n    tropical/JJ\n    Debby/NNP\n    se/NN\n    formó/NN\n    este/NN\n    sábado/NN)\n  (PP en/IN (NP el/JJ sureste/NN del/NN golfo/NN))\n  (PP de/IN (NP México/NNP))\n  y/CC\n  (NP podría/JJ convertirse/NN)\n  en/FW\n  (NP huracán/NN)\n  (NP a/DT medida/NN que/NN)\n  se/FW\n  (VP aproxima/VBZ (NP a/DT las/JJ costas/NN))\n  (PP de/IN (NP Florida/NNP))\n  ,/,\n  (NP donde/NN tocará/NN tierra/NN el/NN domingo/NN por/NN la/NN)\n  noche/FW\n  o/FW\n  el/FW\n  (NP lunes/NNS)\n  ./.)",
+      "(S\n  (NP “/JJ Se/NNP pronostica/NN que/NN la/NN)\n  (NP tormenta/JJ tropical/JJ Debby/NNP se/NN convertirá/NN)\n  (PP en/IN (NP un/JJ huracán/NN))\n  (NP a/DT medida/NN que/NN se/NN)\n  (VP acerca/VBZ (NP a/DT la/NN región/NN Big/NNP Bend/NNP))\n  de/FW\n  (NP Florida/NNP ”/NNP)\n  ,/,\n  (NP informó/JJ NHC/NNP)\n  ./.)",
+      "(S\n  (NP El/NNP)\n  ente/CC\n  (NP\n    también/JJ\n    refirió/NN\n    que/NN\n    “/NNP\n    se/NN\n    han/NN\n    emitido/NN\n    advertencias/NN)\n  de/IN\n  huracán/FW\n  y/FW\n  (NP marejada/NN ciclónica/NN)\n  ./.)",
+      "(S\n  (NP Es/NNP)\n  (NP probable/JJ que/NN)\n  (NP\n    se/JJ\n    produzcan/JJ\n    inundaciones/NNS\n    repentinas/NNS\n    considerables/NNS)\n  (VP en/VBP)\n  (VP partes/VBZ (NP del/JJ sureste/NN))\n  de/IN\n  los/FW\n  (NP Estados/NNP Unidos/NNP)\n  (/(\n  (NP EE/NNP)\n  ./.)",
+      "(S (NP UU./NNP) )/) ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "CIUDADES_CAPITALES",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "REGIONES_PROVINCIAS",
+      "PAISES",
+      "LOCALIZACIONES_ESPECIFICAS"
+    ],
+    "matches": [
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "informó",
+        "position": [
+          64,
+          71
+        ],
+        "start": 64,
+        "end": 71
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "cuba",
+        "position": [
+          754,
+          758
+        ],
+        "start": 754,
+        "end": 758
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "estados unidos",
+        "position": [
+          638,
+          652
+        ],
+        "start": 638,
+        "end": 652
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "méxico",
+        "position": [
+          163,
+          169
+        ],
+        "start": 163,
+        "end": 169
+      },
+      {
+        "category": "CIUDADES_CAPITALES",
+        "matched_text": "la habana",
+        "position": [
+          743,
+          752
+        ],
+        "start": 743,
+        "end": 752
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "región big",
+        "position": [
+          410,
+          420
+        ],
+        "start": 410,
+        "end": 420
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "centro nacional",
+        "position": [
+          3,
+          18
+        ],
+        "start": 3,
+        "end": 18
+      }
+    ],
+    "match_count": 7
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "golfo de México",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Cuba",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Centro Nacional de Huracanes",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "los Estados Unidos",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Big Bend",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Florida",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Cayo Hueso",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "NHC",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Beryl",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Chris",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Alberto",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "La Habana",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "EE. UU.",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Centro Nacional de Huracanes",
+        "relacion": "INFORMAR",
+        "objeto": "golfo de México"
+      },
+      {
+        "sujeto": "Centro Nacional de Huracanes",
+        "relacion": "INFORMAR",
+        "objeto": "Florida"
+      },
+      {
+        "sujeto": "NHC",
+        "relacion": "INFORMAR",
+        "objeto": "golfo de México"
+      },
+      {
+        "sujeto": "NHC",
+        "relacion": "INFORMAR",
+        "objeto": "Florida"
+      },
+      {
+        "sujeto": "golfo de México",
+        "relacion": "FORMAR_INFORMAR",
+        "objeto": "Florida"
+      },
+      {
+        "sujeto": "NHC",
+        "relacion": "ACERCAR_CONVERTIR_PRONOSTICAR_INFORMAR",
+        "objeto": "Big Bend"
+      },
+      {
+        "sujeto": "NHC",
+        "relacion": "ACERCAR_CONVERTIR_PRONOSTICAR_INFORMAR",
+        "objeto": "Florida"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.0,
+    "pos": 0.0,
+    "neu": 1.0,
+    "neg": 0.0,
+    "label": "neutral"
+  }
+}

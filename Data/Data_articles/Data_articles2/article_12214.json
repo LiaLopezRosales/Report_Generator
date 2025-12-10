@@ -1,0 +1,941 @@
+{
+  "url": "https://www.telesurtv.net/israel-ataca-zona-de-dahiyeh-de-beirut/",
+  "title": "Israel ataca zona de Dahiyeh de Beirut - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Ataques Israelíes",
+    "Ejército de Israel",
+    "Hassan Nasrallah",
+    "Hezbolá"
+  ],
+  "text": "El ejército israelí afirma en un comunicado que llevó a cabo otro ataque en la zona de Dahiyeh de Beirut, donde viven unas 700.000 personas. Israel destruyó varios edificios residenciales el viernes, asesinando al menos a 11 personas e hiriendo a más de 100.\nSe espera que el número de víctimas aumente, ya que los equipos de búsqueda luchan por encontrar cadáveres entre los escombros. Los ataques de los aviones de combate continuaron este sábado en la mañana después de que el ejército dijera que había ordenado a los residentes libaneses que evacuaran tres edificios en el área.\nLa ofensiva se realiza luego de que el Ejército israelí confirmara el asesinato del secretario general y principal fundador de Hezbolá («Partido de Dios», en árabe), al cual lideró por más de 30 años.\nEn una breve declaración, la agencia oficial de noticias Wafa dijo que Mahmud Abbas, el presidente de la Autoridad Palestina, “expresó sus más sinceras condolencias al gobierno libanés y al hermano pueblo del Líbano por las víctimas civiles resultantes de la actual agresión israelí”.\nPor su parte, el ministro de Asuntos Exteriores de China, Wang Yi, afirmó en la Asamblea General de la ONU que no debe haber demora en alcanzar un “alto el fuego integral”, mientras Israel continúa atacando tanto a Gaza como al Líbano.\nDe acuerdo con Wafa, la continua agresión de Israel contra el Líbano en octubre de 2023 ha provocado la trágica pérdida de 1.640 vidas, incluidos 104 niños y 194 mujeres. Muchas víctimas aún se encuentran sepultadas bajo los escombros. Asimismo, no se descarta la presencia de personas desaparecidas y restos que aún no han sido identificados.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/israel-ataca-zona-de-dahiyeh-de-beirut/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-09.json",
+    "message_index": 125,
+    "message_id": 77320,
+    "date": "2024-09-28T19:55:18+00:00",
+    "text": "teleSUR\nIsrael ataca zona de Dahiyeh de Beirut\nhttps://www.telesurtv.net/israel-ataca-zona-de-dahiyeh-de-beirut/",
+    "photo_path": null,
+    "views": 2007,
+    "reactions": {
+      "🤬": 42,
+      "👍": 5,
+      "👎": 3,
+      "💩": 2,
+      "🤨": 1
+    },
+    "total_reactions": 53
+  },
+  "preprocessing": {
+    "cleaned": "el ejército israelí afirma en un comunicado que llevó a cabo otro ataque en la zona de dahiyeh de beirut, donde viven unas 700.000 personas. israel destruyó varios edificios residenciales el viernes, asesinando al menos a 11 personas e hiriendo a más de 100. se espera que el número de víctimas aumente, ya que los equipos de búsqueda luchan por encontrar cadáveres entre los escombros. los ataques de los aviones de combate continuaron este sábado en la mañana después de que el ejército dijera que había ordenado a los residentes libaneses que evacuaran tres edificios en el área. la ofensiva se realiza luego de que el ejército israelí confirmara el asesinato del secretario general y principal fundador de hezbolá («partido de dios», en árabe), al cual lideró por más de 30 años. en una breve declaración, la agencia oficial de noticias wafa dijo que mahmud abbas, el presidente de la autoridad palestina, “expresó sus más sinceras condolencias al gobierno libanés y al hermano pueblo del líbano por las víctimas civiles resultantes de la actual agresión israelí”. por su parte, el ministro de asuntos exteriores de china, wang yi, afirmó en la asamblea general de la onu que no debe haber demora en alcanzar un “alto el fuego integral”, mientras israel continúa atacando tanto a gaza como al líbano. de acuerdo con wafa, la continua agresión de israel contra el líbano en octubre de 2023 ha provocado la trágica pérdida de 1.640 vidas, incluidos 104 niños y 194 mujeres. muchas víctimas aún se encuentran sepultadas bajo los escombros. asimismo, no se descarta la presencia de personas desaparecidas y restos que aún no han sido identificados.",
+    "tokens": [
+      "ejército",
+      "israelí",
+      "afirma",
+      "comunicado",
+      "llevó",
+      "cabo",
+      "ataque",
+      "zona",
+      "dahiyeh",
+      "beirut",
+      ",",
+      "viven",
+      "unas",
+      "700.000",
+      "personas",
+      ".",
+      "israel",
+      "destruyó",
+      "varios",
+      "edificios",
+      "residenciales",
+      "viernes",
+      ",",
+      "asesinando",
+      "menos",
+      "11",
+      "personas",
+      "hiriendo",
+      "100.",
+      "espera",
+      "número",
+      "víctimas",
+      "aumente",
+      ",",
+      "equipos",
+      "búsqueda",
+      "luchan",
+      "encontrar",
+      "cadáveres",
+      "escombros",
+      ".",
+      "ataques",
+      "aviones",
+      "combate",
+      "continuaron",
+      "sábado",
+      "mañana",
+      "después",
+      "ejército",
+      "dijera",
+      "ordenado",
+      "residentes",
+      "libaneses",
+      "evacuaran",
+      "tres",
+      "edificios",
+      "área",
+      ".",
+      "ofensiva",
+      "realiza",
+      "luego",
+      "ejército",
+      "israelí",
+      "confirmara",
+      "asesinato",
+      "secretario",
+      "general",
+      "principal",
+      "fundador",
+      "hezbolá",
+      "(",
+      "«",
+      "partido",
+      "dios",
+      "»",
+      ",",
+      "árabe",
+      ")",
+      ",",
+      "lideró",
+      "30",
+      "años",
+      ".",
+      "breve",
+      "declaración",
+      ",",
+      "agencia",
+      "oficial",
+      "noticias",
+      "wafa",
+      "dijo",
+      "mahmud",
+      "abbas",
+      ",",
+      "presidente",
+      "autoridad",
+      "palestina",
+      ",",
+      "“",
+      "expresó",
+      "sinceras",
+      "condolencias",
+      "gobierno",
+      "libanés",
+      "hermano",
+      "pueblo",
+      "líbano",
+      "víctimas",
+      "civiles",
+      "resultantes",
+      "actual",
+      "agresión",
+      "israelí",
+      "”",
+      ".",
+      "parte",
+      ",",
+      "ministro",
+      "asuntos",
+      "exteriores",
+      "china",
+      ",",
+      "wang",
+      "yi",
+      ",",
+      "afirmó",
+      "asamblea",
+      "general",
+      "onu",
+      "debe",
+      "haber",
+      "demora",
+      "alcanzar",
+      "“",
+      "alto",
+      "fuego",
+      "integral",
+      "”",
+      ",",
+      "mientras",
+      "israel",
+      "continúa",
+      "atacando",
+      "gaza",
+      "líbano",
+      ".",
+      "acuerdo",
+      "wafa",
+      ",",
+      "continua",
+      "agresión",
+      "israel",
+      "líbano",
+      "octubre",
+      "2023",
+      "provocado",
+      "trágica",
+      "pérdida",
+      "1.640",
+      "vidas",
+      ",",
+      "incluidos",
+      "104",
+      "niños",
+      "194",
+      "mujeres",
+      ".",
+      "muchas",
+      "víctimas",
+      "aún",
+      "encuentran",
+      "sepultadas",
+      "bajo",
+      "escombros",
+      ".",
+      "asimismo",
+      ",",
+      "descarta",
+      "presencia",
+      "personas",
+      "desaparecidas",
+      "restos",
+      "aún",
+      "sido",
+      "identificados",
+      "."
+    ],
+    "token_count": 186,
+    "sentence_count": 10
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 39,
+      "CC": 1,
+      "JJ": 34,
+      "NN": 78,
+      "IN": 14,
+      "FW": 50,
+      "VBD": 3,
+      "RB": 2,
+      "CD": 8,
+      "NNS": 18,
+      "VBP": 9,
+      "VBZ": 5,
+      "DT": 3
+    },
+    "bigram_freq": {
+      "NNP-CC": 1,
+      "CC-JJ": 1,
+      "JJ-NN": 16,
+      "NN-IN": 10,
+      "IN-JJ": 3,
+      "NN-NN": 42,
+      "IN-FW": 5,
+      "FW-FW": 27,
+      "FW-NNP": 10,
+      "NNP-FW": 8,
+      "NNP-VBD": 2,
+      "VBD-RB": 1,
+      "RB-JJ": 1,
+      "JJ-CD": 3,
+      "CD-NNS": 5,
+      "NNS-NNP": 4,
+      "NNP-NN": 12,
+      "NN-NNS": 4,
+      "NNS-VBP": 6,
+      "VBP-NNS": 4,
+      "NNS-RB": 1,
+      "RB-VBP": 1,
+      "NNS-CD": 1,
+      "NNS-JJ": 2,
+      "JJ-FW": 5,
+      "FW-CD": 2,
+      "CD-NNP": 1,
+      "FW-JJ": 4,
+      "NN-JJ": 7,
+      "NN-VBZ": 3,
+      "VBZ-JJ": 3,
+      "JJ-NNP": 4,
+      "NNP-NNS": 1,
+      "NNS-IN": 1,
+      "FW-NNS": 2,
+      "NNS-FW": 1,
+      "FW-VBP": 1,
+      "VBP-JJ": 5,
+      "FW-NN": 4,
+      "JJ-NNS": 2,
+      "NNS-VBZ": 2,
+      "JJ-JJ": 4,
+      "IN-NNP": 4,
+      "NNP-NNP": 10,
+      "NNP-IN": 2,
+      "NNP-VBP": 1,
+      "IN-CD": 2,
+      "NNP-JJ": 1,
+      "NN-NNP": 5,
+      "VBZ-IN": 1,
+      "NN-FW": 3,
+      "NN-DT": 2,
+      "DT-JJ": 1,
+      "VBD-FW": 1,
+      "CD-NN": 1,
+      "CD-JJ": 1,
+      "NN-VBD": 1,
+      "VBD-JJ": 1,
+      "NNP-DT": 1,
+      "DT-NN": 2,
+      "VBZ-NN": 1
+    },
+    "trigram_freq": {
+      "NNP-CC-JJ": 1,
+      "CC-JJ-NN": 1,
+      "JJ-NN-IN": 3,
+      "NN-IN-JJ": 3,
+      "IN-JJ-NN": 1,
+      "JJ-NN-NN": 10,
+      "NN-NN-NN": 20,
+      "NN-NN-IN": 6,
+      "NN-IN-FW": 3,
+      "IN-FW-FW": 1,
+      "FW-FW-FW": 17,
+      "FW-FW-NNP": 6,
+      "FW-NNP-FW": 1,
+      "NNP-FW-NNP": 3,
+      "FW-NNP-VBD": 1,
+      "NNP-VBD-RB": 1,
+      "VBD-RB-JJ": 1,
+      "RB-JJ-CD": 1,
+      "JJ-CD-NNS": 2,
+      "CD-NNS-NNP": 3,
+      "NNS-NNP-NN": 3,
+      "NNP-NN-NNS": 1,
+      "NN-NNS-VBP": 3,
+      "NNS-VBP-NNS": 2,
+      "VBP-NNS-VBP": 2,
+      "VBP-NNS-RB": 1,
+      "NNS-RB-VBP": 1,
+      "RB-VBP-NNS": 1,
+      "VBP-NNS-CD": 1,
+      "NNS-CD-NNS": 1,
+      "CD-NNS-JJ": 2,
+      "NNS-JJ-FW": 1,
+      "JJ-FW-FW": 4,
+      "FW-FW-CD": 2,
+      "FW-CD-NNP": 1,
+      "CD-NNP-NN": 1,
+      "NNP-NN-NN": 9,
+      "IN-FW-JJ": 3,
+      "FW-JJ-NN": 3,
+      "NN-NN-JJ": 5,
+      "NN-JJ-NN": 1,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-JJ": 2,
+      "VBZ-JJ-NN": 2,
+      "JJ-NN-JJ": 1,
+      "NN-JJ-NNP": 3,
+      "JJ-NNP-NNS": 1,
+      "NNP-NNS-IN": 1,
+      "NNS-IN-FW": 1,
+      "IN-FW-NNS": 1,
+      "FW-NNS-FW": 1,
+      "NNS-FW-VBP": 1,
+      "FW-VBP-NNS": 1,
+      "NNS-VBP-JJ": 4,
+      "VBP-JJ-FW": 2,
+      "FW-FW-NN": 1,
+      "FW-NN-NN": 2,
+      "IN-JJ-NNS": 1,
+      "JJ-NNS-VBZ": 1,
+      "NNS-VBZ-JJ": 1,
+      "JJ-NN-NNS": 1,
+      "JJ-FW-JJ": 1,
+      "FW-JJ-NNP": 1,
+      "JJ-NNP-FW": 1,
+      "NNP-FW-FW": 3,
+      "FW-NNP-NN": 4,
+      "NN-JJ-JJ": 3,
+      "JJ-JJ-NN": 2,
+      "NN-IN-NNP": 2,
+      "IN-NNP-NNP": 2,
+      "NNP-NNP-IN": 2,
+      "NNP-IN-NNP": 2,
+      "IN-NNP-FW": 1,
+      "FW-NNP-VBP": 1,
+      "NNP-VBP-JJ": 1,
+      "VBP-JJ-NN": 3,
+      "NN-IN-CD": 2,
+      "IN-CD-NNS": 2,
+      "NNS-NNP-JJ": 1,
+      "NNP-JJ-NN": 1,
+      "JJ-JJ-FW": 1,
+      "NN-NN-NNP": 4,
+      "NN-NNP-NNP": 2,
+      "NNP-NNP-FW": 4,
+      "FW-NNP-NNP": 3,
+      "NNP-FW-NN": 2,
+      "NN-NN-NNS": 2,
+      "NN-NNP-NN": 2,
+      "NN-NNS-VBZ": 1,
+      "NNS-VBZ-IN": 1,
+      "VBZ-IN-FW": 1,
+      "NN-NN-FW": 3,
+      "NN-FW-FW": 1,
+      "NNP-NNP-NNP": 2,
+      "NNP-NNP-NN": 1,
+      "NN-FW-NNP": 1,
+      "NNP-NN-DT": 1,
+      "NN-DT-JJ": 1,
+      "DT-JJ-NN": 1,
+      "IN-JJ-JJ": 1,
+      "JJ-JJ-NNS": 1,
+      "JJ-NNS-NNP": 1,
+      "IN-NNP-NN": 1,
+      "NNP-NN-JJ": 1,
+      "JJ-NNP-NNP": 1,
+      "FW-NN-NNP": 1,
+      "NNP-NNP-VBD": 1,
+      "NNP-VBD-FW": 1,
+      "VBD-FW-FW": 1,
+      "NN-NNP-FW": 1,
+      "FW-CD-NN": 1,
+      "CD-NN-NN": 1,
+      "NN-FW-NN": 1,
+      "FW-NN-IN": 1,
+      "NNS-JJ-CD": 1,
+      "JJ-CD-JJ": 1,
+      "CD-JJ-CD": 1,
+      "NN-NN-VBD": 1,
+      "NN-VBD-JJ": 1,
+      "VBD-JJ-NN": 1,
+      "JJ-NNP-DT": 1,
+      "NNP-DT-NN": 1,
+      "DT-NN-VBZ": 2,
+      "VBZ-JJ-FW": 1,
+      "FW-FW-NNS": 1,
+      "FW-NNS-VBP": 1,
+      "JJ-NN-DT": 1,
+      "NN-DT-NN": 1,
+      "NN-VBZ-NN": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 78,
+        "FW": 50,
+        "NNP": 39,
+        "JJ": 34,
+        "NNS": 18
+      },
+      "top_bigrams": {
+        "NN-NN": 42,
+        "FW-FW": 27,
+        "JJ-NN": 16,
+        "NNP-NN": 12,
+        "NN-IN": 10
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 20,
+        "FW-FW-FW": 17,
+        "JJ-NN-NN": 10,
+        "NNP-NN-NN": 9,
+        "NN-NN-IN": 6
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 10,
+    "chunk_counts": {
+      "NP": 73,
+      "PP": 8,
+      "VP": 24,
+      "ADJP": 3
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 3,
+        "weight": 0.0254
+      },
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 3,
+        "weight": 0.0254
+      },
+      {
+        "rule": "S -> NP ('ejército', 'CC') NP PP VP ('en', 'IN') ('la', 'FW') ('zona', 'FW') ('de', 'FW') NP ('de', 'FW') NP (',', ',') VP ('700.000', 'CD') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0085
+      },
+      {
+        "rule": "NP -> ('El', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0085
+      },
+      {
+        "rule": "NP -> ('israelí', 'JJ') ('afirma', 'NN')",
+        "frequency": 1,
+        "weight": 0.0085
+      },
+      {
+        "rule": "NP -> ('un', 'JJ') ('comunicado', 'NN') ('que', 'NN')",
+        "frequency": 1,
+        "weight": 0.0085
+      },
+      {
+        "rule": "VP -> ('llevó', 'VBZ') NP",
+        "frequency": 1,
+        "weight": 0.0085
+      },
+      {
+        "rule": "NP -> ('a', 'DT') ('cabo', 'NN') ('otro', 'NN') ('ataque', 'NN')",
+        "frequency": 1,
+        "weight": 0.0085
+      },
+      {
+        "rule": "NP -> ('Dahiyeh', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0085
+      },
+      {
+        "rule": "NP -> ('Beirut', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0085
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El"
+      },
+      {
+        "label": "NP",
+        "text": "israelí afirma"
+      },
+      {
+        "label": "PP",
+        "text": "en un comunicado que"
+      },
+      {
+        "label": "NP",
+        "text": "un comunicado que"
+      },
+      {
+        "label": "VP",
+        "text": "llevó a cabo otro ataque"
+      },
+      {
+        "label": "NP",
+        "text": "a cabo otro ataque"
+      },
+      {
+        "label": "NP",
+        "text": "Dahiyeh"
+      },
+      {
+        "label": "NP",
+        "text": "Beirut"
+      },
+      {
+        "label": "VP",
+        "text": "donde viven unas"
+      },
+      {
+        "label": "NP",
+        "text": "personas"
+      },
+      {
+        "label": "NP",
+        "text": "Israel destruyó varios"
+      },
+      {
+        "label": "VP",
+        "text": "edificios residenciales"
+      },
+      {
+        "label": "NP",
+        "text": "residenciales"
+      },
+      {
+        "label": "VP",
+        "text": "el viernes"
+      },
+      {
+        "label": "NP",
+        "text": "viernes"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP El/NNP)\n  ejército/CC\n  (NP israelí/JJ afirma/NN)\n  (PP en/IN (NP un/JJ comunicado/NN que/NN))\n  (VP llevó/VBZ (NP a/DT cabo/NN otro/NN ataque/NN))\n  en/IN\n  la/FW\n  zona/FW\n  de/FW\n  (NP Dahiyeh/NNP)\n  de/FW\n  (NP Beirut/NNP)\n  ,/,\n  (VP donde/VBD viven/RB unas/JJ)\n  700.000/CD\n  (NP personas/NNS)\n  ./.)",
+      "(S\n  (NP Israel/NNP destruyó/NN varios/NNS)\n  (VP edificios/VBP (NP residenciales/NNS))\n  (VP el/VBP (NP viernes/NNS))\n  ,/,\n  (NP asesinando/JJ al/NN)\n  (VP menos/VBD)\n  a/DT\n  11/CD\n  (NP personas/NN e/NN)\n  (VP hiriendo/VBD (NP a/DT más/NN))\n  de/IN\n  100/CD\n  ./.)",
+      "(S\n  (NP Se/NNP espera/NN que/NN el/NN número/NN)\n  de/IN\n  víctimas/FW\n  (NP aumente/NN)\n  ,/,\n  ya/PRP\n  (VP que/VBP los/JJ)\n  equipos/FW\n  de/FW\n  búsqueda/FW\n  luchan/FW\n  por/FW\n  encontrar/FW\n  (NP cadáveres/NNS)\n  (VP entre/VBP (NP los/JJ escombros/NNS))\n  ./.)",
+      "(S\n  (NP Los/NNP)\n  (VP ataques/VBZ)\n  de/FW\n  los/FW\n  (NP aviones/NNS)\n  de/FW\n  (VP combate/VBP (NP continuaron/NNS))\n  (VP este/VBP sábado/JJ)\n  en/FW\n  la/FW\n  mañana/FW\n  después/FW\n  de/FW\n  que/FW\n  el/FW\n  ejército/FW\n  (NP dijera/NN que/NN había/NN)\n  (PP ordenado/IN (NP a/DT los/NN))\n  (VP residentes/VBZ)\n  (VP libaneses/VBZ (NP que/NN evacuaran/NN))\n  (VP tres/VBZ (NP edificios/NNS))\n  (PP en/IN (NP el/JJ área/NN))\n  ./.)",
+      "(S\n  (NP La/NNP)\n  ofensiva/FW\n  se/FW\n  realiza/FW\n  luego/FW\n  de/FW\n  que/FW\n  el/FW\n  (NP\n    Ejército/NNP\n    israelí/NN\n    confirmara/NN\n    el/NN\n    asesinato/NN\n    del/NN\n    secretario/NN)\n  (NP general/JJ y/NN)\n  (NP principal/JJ fundador/NN)\n  (PP de/IN (NP Hezbolá/NNP))\n  (/(\n  (NP «/JJ Partido/NNP)\n  de/FW\n  (NP Dios/NNP »/NNP)\n  ,/,\n  en/FW\n  (NP árabe/NN)\n  )/)\n  ,/,\n  (NP al/JJ cual/JJ lideró/NN por/NN más/NN)\n  de/IN\n  30/CD\n  (NP años/NNS)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "GOBIERNOS_OFICIALES",
+      "GRUPOS_ESPECIFICOS",
+      "ORGANISMOS_INTERNACIONALES",
+      "LEYES_NORMATIVAS",
+      "TIEMPO_RELATIVO",
+      "CANTIDADES_NUMERICAS",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "REGIONES_PROVINCIAS",
+      "PERIODOS_TEMPORALES",
+      "PAISES",
+      "CONFLICTOS_ARMADOS_OPERACIONES",
+      "RELACIONES_INTERNACIONALES"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "ofensiva se realiza luego de que el ejército",
+        "position": [
+          586,
+          630
+        ],
+        "start": 586,
+        "end": 630
+      },
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "víctimas civiles",
+        "position": [
+          1008,
+          1024
+        ],
+        "start": 1008,
+        "end": 1024
+      },
+      {
+        "category": "RELACIONES_INTERNACIONALES",
+        "matched_text": "acuerdo con wafa, la continua agresión de israel contra el líbano en octubre de 2023 ha provocado la trágica pérdida de 1.640 vidas, incluidos 104 niños y 194 mujeres",
+        "position": [
+          1308,
+          1474
+        ],
+        "start": 1308,
+        "end": 1474
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "expresó",
+        "position": [
+          911,
+          918
+        ],
+        "start": 911,
+        "end": 918
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente de la",
+        "position": [
+          872,
+          888
+        ],
+        "start": 872,
+        "end": 888
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "ministro de asuntos exteriores",
+        "position": [
+          1086,
+          1116
+        ],
+        "start": 1086,
+        "end": 1116
+      },
+      {
+        "category": "ORGANISMOS_INTERNACIONALES",
+        "matched_text": "onu",
+        "position": [
+          1172,
+          1175
+        ],
+        "start": 1172,
+        "end": 1175
+      },
+      {
+        "category": "GRUPOS_ESPECIFICOS",
+        "matched_text": "mujeres",
+        "position": [
+          1467,
+          1474
+        ],
+        "start": 1467,
+        "end": 1474
+      },
+      {
+        "category": "LEYES_NORMATIVAS",
+        "matched_text": "acuerdo con wafa, la continua agresión de israel contra el líbano en octubre de 2023",
+        "position": [
+          1308,
+          1392
+        ],
+        "start": 1308,
+        "end": 1392
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "israelí",
+        "position": [
+          12,
+          19
+        ],
+        "start": 12,
+        "end": 19
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "zona de",
+        "position": [
+          79,
+          86
+        ],
+        "start": 79,
+        "end": 86
+      },
+      {
+        "category": "PERIODOS_TEMPORALES",
+        "matched_text": "en la mañana",
+        "position": [
+          449,
+          461
+        ],
+        "start": 449,
+        "end": 461
+      },
+      {
+        "category": "TIEMPO_RELATIVO",
+        "matched_text": "mañana",
+        "position": [
+          455,
+          461
+        ],
+        "start": 455,
+        "end": 461
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "000 personas",
+        "position": [
+          127,
+          139
+        ],
+        "start": 127,
+        "end": 139
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "700.000 personas",
+        "position": [
+          123,
+          139
+        ],
+        "start": 123,
+        "end": 139
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "más de 100",
+        "position": [
+          247,
+          257
+        ],
+        "start": 247,
+        "end": 257
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "más de 30",
+        "position": [
+          768,
+          777
+        ],
+        "start": 768,
+        "end": 777
+      }
+    ],
+    "match_count": 17
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Hezbolá",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Mahmud Abbas",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Wafa",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Líbano",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Israel",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Asuntos Exteriores de China",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Wang Yi",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Asamblea General de la ONU",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Beirut",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Partido de Dios",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Autoridad Palestina",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Dahiyeh",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Mahmud Abbas",
+        "relacion": "DECIR",
+        "objeto": "Wafa"
+      },
+      {
+        "sujeto": "Wafa",
+        "relacion": "DECIR",
+        "objeto": "Autoridad Palestina"
+      },
+      {
+        "sujeto": "Wafa",
+        "relacion": "DECIR",
+        "objeto": "Líbano"
+      },
+      {
+        "sujeto": "Mahmud Abbas",
+        "relacion": "EXPRESAR_DECIR",
+        "objeto": "Líbano"
+      },
+      {
+        "sujeto": "Autoridad Palestina",
+        "relacion": "EXPRESAR_DECIR",
+        "objeto": "Líbano"
+      },
+      {
+        "sujeto": "Asuntos Exteriores de China",
+        "relacion": "AFIRMAR",
+        "objeto": "Asamblea General de la ONU"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "AFIRMAR",
+        "objeto": "Asuntos Exteriores de China"
+      },
+      {
+        "sujeto": "Asuntos Exteriores de China",
+        "relacion": "AFIRMAR",
+        "objeto": "Gaza"
+      },
+      {
+        "sujeto": "Asuntos Exteriores de China",
+        "relacion": "AFIRMAR",
+        "objeto": "Líbano"
+      },
+      {
+        "sujeto": "Wang Yi",
+        "relacion": "AFIRMAR",
+        "objeto": "Asamblea General de la ONU"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "AFIRMAR",
+        "objeto": "Wang Yi"
+      },
+      {
+        "sujeto": "Wang Yi",
+        "relacion": "AFIRMAR",
+        "objeto": "Gaza"
+      },
+      {
+        "sujeto": "Wang Yi",
+        "relacion": "AFIRMAR",
+        "objeto": "Líbano"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "AFIRMAR",
+        "objeto": "Asamblea General de la ONU"
+      },
+      {
+        "sujeto": "Asamblea General de la ONU",
+        "relacion": "AFIRMAR",
+        "objeto": "Gaza"
+      },
+      {
+        "sujeto": "Asamblea General de la ONU",
+        "relacion": "AFIRMAR",
+        "objeto": "Líbano"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "CONTINUAR_AFIRMAR",
+        "objeto": "Gaza"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "CONTINUAR_AFIRMAR",
+        "objeto": "Líbano"
+      },
+      {
+        "sujeto": "Wafa",
+        "relacion": "PROVOCAR",
+        "objeto": "Israel"
+      },
+      {
+        "sujeto": "Wafa",
+        "relacion": "PROVOCAR",
+        "objeto": "Líbano"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.4939,
+    "pos": 0.009,
+    "neu": 0.967,
+    "neg": 0.025,
+    "label": "negative"
+  }
+}

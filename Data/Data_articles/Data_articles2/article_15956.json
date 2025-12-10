@@ -1,0 +1,660 @@
+{
+  "url": "https://www.telesurtv.net/presidente-lula-sostiene-conversacion-via-telefonica-con-su-homologo-de-venezuela/",
+  "title": "Presidente Lula sostiene conversación vía telefónica con su homólogo de Venezuela - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "Brasil",
+    "Lula",
+    "Nicolás Maduros",
+    "Venezuela"
+  ],
+  "text": "\nEl presidente de Brasil, Luiz Inácio Lula da Silva, sostuvo una conversación telefónica con su homólogo de Venezuela, Nicolás Maduro, en la que abordaron diversos temas de interés mutuo.\nEl mandatario de Brasil agradeció el apoyo del Gobierno de Venezuela con respecto a la elección de Sonia Guajajara como presidenta del Fondo para el Desarrollo de los Pueblos Indígenas de América Latina y el Caribe (Filac).\nOtro tema tratado por ambas autoridades fue la colaboración bilateral para la protección de las comunidades yanomami.\nPor su parte, el jefe de Estado brasileño reiteró su apoyo al Acuerdo de Barbados y enfatizó en la importancia de contar con una amplia participación de los observadores internacionales de cara a los comicios previstos para el próximo 28 de julio.\nDe acuerdo con un comunicado oficial difundido en la víspera por el Ministerio de Relaciones Exteriores de Brasil, Lula tiene expectativas sobre el levantamiento de las medidas coercitivas unilaterales impuestas contra Venezuela.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/presidente-lula-sostiene-conversacion-via-telefonica-con-su-homologo-de-venezuela/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-06.json",
+    "message_index": 835,
+    "message_id": 71908,
+    "date": "2024-06-07T02:57:18+00:00",
+    "text": "teleSUR\nPresidente Lula sostiene conversación vía telefónica con su homólogo de Venezuela\nhttps://www.telesurtv.net/presidente-lula-sostiene-conversacion-via-telefonica-con-su-homologo-de-venezuela/",
+    "photo_path": null,
+    "views": 826,
+    "reactions": {},
+    "total_reactions": 0
+  },
+  "preprocessing": {
+    "cleaned": "el presidente de brasil, luiz inácio lula da silva, sostuvo una conversación telefónica con su homólogo de venezuela, nicolás maduro, en la que abordaron diversos temas de interés mutuo. el mandatario de brasil agradeció el apoyo del gobierno de venezuela con respecto a la elección de sonia guajajara como presidenta del fondo para el desarrollo de los pueblos indígenas de américa latina y el caribe (filac). otro tema tratado por ambas autoridades fue la colaboración bilateral para la protección de las comunidades yanomami. por su parte, el jefe de estado brasileño reiteró su apoyo al acuerdo de barbados y enfatizó en la importancia de contar con una amplia participación de los observadores internacionales de cara a los comicios previstos para el próximo 28 de julio. de acuerdo con un comunicado oficial difundido en la víspera por el ministerio de relaciones exteriores de brasil, lula tiene expectativas sobre el levantamiento de las medidas coercitivas unilaterales impuestas contra venezuela.",
+    "tokens": [
+      "presidente",
+      "brasil",
+      ",",
+      "luiz",
+      "inácio",
+      "lula",
+      "da",
+      "silva",
+      ",",
+      "sostuvo",
+      "conversación",
+      "telefónica",
+      "homólogo",
+      "venezuela",
+      ",",
+      "nicolás",
+      "maduro",
+      ",",
+      "abordaron",
+      "diversos",
+      "temas",
+      "interés",
+      "mutuo",
+      ".",
+      "mandatario",
+      "brasil",
+      "agradeció",
+      "apoyo",
+      "gobierno",
+      "venezuela",
+      "respecto",
+      "elección",
+      "sonia",
+      "guajajara",
+      "presidenta",
+      "fondo",
+      "desarrollo",
+      "pueblos",
+      "indígenas",
+      "américa",
+      "latina",
+      "caribe",
+      "(",
+      "filac",
+      ")",
+      ".",
+      "tema",
+      "tratado",
+      "ambas",
+      "autoridades",
+      "colaboración",
+      "bilateral",
+      "protección",
+      "comunidades",
+      "yanomami",
+      ".",
+      "parte",
+      ",",
+      "jefe",
+      "brasileño",
+      "reiteró",
+      "apoyo",
+      "acuerdo",
+      "barbados",
+      "enfatizó",
+      "importancia",
+      "contar",
+      "amplia",
+      "participación",
+      "observadores",
+      "internacionales",
+      "cara",
+      "comicios",
+      "previstos",
+      "próximo",
+      "28",
+      "julio",
+      ".",
+      "acuerdo",
+      "comunicado",
+      "oficial",
+      "difundido",
+      "víspera",
+      "ministerio",
+      "relaciones",
+      "exteriores",
+      "brasil",
+      ",",
+      "lula",
+      "expectativas",
+      "levantamiento",
+      "medidas",
+      "coercitivas",
+      "unilaterales",
+      "impuestas",
+      "venezuela",
+      "."
+    ],
+    "token_count": 97,
+    "sentence_count": 5
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 36,
+      "NN": 47,
+      "FW": 39,
+      "JJ": 11,
+      "IN": 8,
+      "VBD": 2,
+      "NNS": 5,
+      "VBP": 4,
+      "CD": 1
+    },
+    "bigram_freq": {
+      "NNP-NN": 12,
+      "NN-FW": 8,
+      "FW-NNP": 11,
+      "NNP-NNP": 14,
+      "NN-NNP": 2,
+      "NN-JJ": 5,
+      "JJ-NN": 6,
+      "NN-NN": 23,
+      "NN-IN": 6,
+      "IN-NNP": 4,
+      "NNP-FW": 6,
+      "FW-NN": 6,
+      "IN-FW": 4,
+      "FW-FW": 19,
+      "NNP-IN": 2,
+      "NNP-VBD": 1,
+      "VBD-NNP": 1,
+      "NN-NNS": 2,
+      "NNS-VBP": 4,
+      "VBP-JJ": 3,
+      "JJ-JJ": 3,
+      "FW-NNS": 3,
+      "VBP-NNP": 1,
+      "JJ-NNP": 2,
+      "NNS-FW": 1,
+      "NN-VBD": 1,
+      "VBD-CD": 1,
+      "CD-FW": 1
+    },
+    "trigram_freq": {
+      "NNP-NN-FW": 1,
+      "NN-FW-NNP": 4,
+      "FW-NNP-NNP": 4,
+      "NNP-NNP-NNP": 7,
+      "NNP-NNP-NN": 4,
+      "NNP-NN-NNP": 1,
+      "NN-NNP-NN": 1,
+      "NNP-NN-JJ": 1,
+      "NN-JJ-NN": 3,
+      "JJ-NN-NN": 2,
+      "NN-NN-NN": 12,
+      "NN-NN-IN": 2,
+      "NN-IN-NNP": 3,
+      "IN-NNP-NNP": 2,
+      "NNP-NNP-FW": 2,
+      "NNP-FW-NN": 2,
+      "FW-NN-NN": 1,
+      "NN-IN-FW": 3,
+      "IN-FW-FW": 2,
+      "FW-FW-NNP": 3,
+      "FW-NNP-NN": 3,
+      "NNP-NN-IN": 1,
+      "IN-NNP-NN": 2,
+      "NNP-NN-NN": 8,
+      "NN-NN-FW": 6,
+      "FW-NNP-FW": 3,
+      "NNP-FW-NNP": 3,
+      "NN-FW-FW": 3,
+      "FW-FW-FW": 11,
+      "NN-NN-NNP": 1,
+      "NN-NNP-IN": 1,
+      "NNP-IN-FW": 1,
+      "IN-FW-NNP": 1,
+      "NNP-NNP-VBD": 1,
+      "NNP-VBD-NNP": 1,
+      "VBD-NNP-NNP": 1,
+      "NN-NN-NNS": 1,
+      "NN-NNS-VBP": 2,
+      "NNS-VBP-JJ": 3,
+      "VBP-JJ-JJ": 1,
+      "JJ-JJ-JJ": 1,
+      "JJ-JJ-NN": 2,
+      "FW-FW-NNS": 2,
+      "FW-NNS-VBP": 2,
+      "NNS-VBP-NNP": 1,
+      "VBP-NNP-NN": 1,
+      "NN-FW-NN": 1,
+      "FW-NN-IN": 1,
+      "NN-NN-JJ": 1,
+      "NN-JJ-NNP": 1,
+      "JJ-NNP-FW": 1,
+      "NNP-FW-FW": 1,
+      "FW-FW-NN": 3,
+      "FW-NN-JJ": 2,
+      "NN-JJ-JJ": 1,
+      "JJ-NN-IN": 2,
+      "IN-FW-NNS": 1,
+      "FW-NNS-FW": 1,
+      "NNS-FW-FW": 1,
+      "VBP-JJ-NN": 1,
+      "JJ-NN-VBD": 1,
+      "NN-VBD-CD": 1,
+      "VBD-CD-FW": 1,
+      "CD-FW-FW": 1,
+      "JJ-NN-JJ": 1,
+      "FW-NN-FW": 1,
+      "FW-NNP-IN": 1,
+      "NNP-IN-NNP": 1,
+      "FW-NN-NNS": 1,
+      "VBP-JJ-NNP": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 47,
+        "FW": 39,
+        "NNP": 36,
+        "JJ": 11,
+        "IN": 8
+      },
+      "top_bigrams": {
+        "NN-NN": 23,
+        "FW-FW": 19,
+        "NNP-NNP": 14,
+        "NNP-NN": 12,
+        "FW-NNP": 11
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 12,
+        "FW-FW-FW": 11,
+        "NNP-NN-NN": 8,
+        "NNP-NNP-NNP": 7,
+        "NN-NN-FW": 6
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 5,
+    "chunk_counts": {
+      "NP": 43,
+      "PP": 4,
+      "VP": 7
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 4,
+        "weight": 0.0678
+      },
+      {
+        "rule": "NP -> ('Brasil', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0339
+      },
+      {
+        "rule": "NP -> ('con', 'NN')",
+        "frequency": 2,
+        "weight": 0.0339
+      },
+      {
+        "rule": "S -> NP ('de', 'FW') NP (',', ',') NP (',', ',') NP ('de', 'FW') NP (',', ',') NP (',', ',') ('en', 'FW') ('la', 'FW') ('que', 'FW') ('abordaron', 'FW') ('diversos', 'FW') ('temas', 'FW') ('de', 'FW') ('interés', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0169
+      },
+      {
+        "rule": "NP -> ('El', 'NNP') ('presidente', 'NN')",
+        "frequency": 1,
+        "weight": 0.0169
+      },
+      {
+        "rule": "NP -> ('Luiz', 'NNP') ('Inácio', 'NNP') ('Lula', 'NNP') ('da', 'NN') ('Silva', 'NN')",
+        "frequency": 1,
+        "weight": 0.0169
+      },
+      {
+        "rule": "NP -> ('sostuvo', 'JJ') ('una', 'JJ') ('conversación', 'NN') ('telefónica', 'NN') ('con', 'NN') ('su', 'NN') ('homólogo', 'NN')",
+        "frequency": 1,
+        "weight": 0.0169
+      },
+      {
+        "rule": "NP -> ('Venezuela', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0169
+      },
+      {
+        "rule": "NP -> ('Nicolás', 'NNP') ('Maduro', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0169
+      },
+      {
+        "rule": "NP -> ('mutuo', 'NN')",
+        "frequency": 1,
+        "weight": 0.0169
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El presidente"
+      },
+      {
+        "label": "NP",
+        "text": "Brasil"
+      },
+      {
+        "label": "NP",
+        "text": "Luiz Inácio Lula da Silva"
+      },
+      {
+        "label": "NP",
+        "text": "sostuvo una conversación telefónica con su homólogo"
+      },
+      {
+        "label": "NP",
+        "text": "Venezuela"
+      },
+      {
+        "label": "NP",
+        "text": "Nicolás Maduro"
+      },
+      {
+        "label": "NP",
+        "text": "mutuo"
+      },
+      {
+        "label": "NP",
+        "text": "El mandatario"
+      },
+      {
+        "label": "PP",
+        "text": "de Brasil agradeció el apoyo"
+      },
+      {
+        "label": "NP",
+        "text": "Brasil agradeció el apoyo"
+      },
+      {
+        "label": "NP",
+        "text": "Gobierno"
+      },
+      {
+        "label": "NP",
+        "text": "Venezuela con"
+      },
+      {
+        "label": "VP",
+        "text": "respecto a la"
+      },
+      {
+        "label": "NP",
+        "text": "a la"
+      },
+      {
+        "label": "NP",
+        "text": "Sonia Guajajara como presidenta"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP El/NNP presidente/NN)\n  de/FW\n  (NP Brasil/NNP)\n  ,/,\n  (NP Luiz/NNP Inácio/NNP Lula/NNP da/NN Silva/NN)\n  ,/,\n  (NP\n    sostuvo/JJ\n    una/JJ\n    conversación/NN\n    telefónica/NN\n    con/NN\n    su/NN\n    homólogo/NN)\n  de/FW\n  (NP Venezuela/NNP)\n  ,/,\n  (NP Nicolás/NNP Maduro/NNP)\n  ,/,\n  en/FW\n  la/FW\n  que/FW\n  abordaron/FW\n  diversos/FW\n  temas/FW\n  de/FW\n  interés/FW\n  (NP mutuo/NN)\n  ./.)",
+      "(S\n  (NP El/NNP mandatario/NN)\n  (PP de/IN (NP Brasil/NNP agradeció/NN el/NN apoyo/NN))\n  del/FW\n  (NP Gobierno/NNP)\n  de/FW\n  (NP Venezuela/NNP con/NN)\n  (VP respecto/VBZ (NP a/DT la/NN))\n  elección/FW\n  de/FW\n  (NP Sonia/NNP Guajajara/NNP como/NN presidenta/NN)\n  del/FW\n  (NP Fondo/NNP para/NN el/NN Desarrollo/NNP)\n  de/IN\n  los/FW\n  (NP\n    Pueblos/NNP\n    Indígenas/NNP\n    de/NNP\n    América/NNP\n    Latina/NNP\n    y/NNP\n    el/NN\n    Caribe/NNP)\n  (/(\n  (NP Filac/NNP)\n  )/)\n  ./.)",
+      "(S\n  (NP Otro/NNP tema/NN tratado/NN por/NN ambas/NN autoridades/NNS)\n  (VP fue/VBP (NP la/JJ colaboración/JJ bilateral/JJ para/NN la/NN))\n  protección/FW\n  de/FW\n  las/FW\n  (NP comunidades/NNS)\n  (VP yanomami/VBP)\n  ./.)",
+      "(S\n  (NP Por/NNP su/NN parte/NN)\n  ,/,\n  (NP el/JJ jefe/NN)\n  (PP de/IN (NP Estado/NNP brasileño/NN reiteró/NN su/NN apoyo/NN))\n  (NP al/JJ Acuerdo/NNP)\n  de/FW\n  (NP Barbados/NNP)\n  y/CC\n  (NP enfatizó/JJ en/NN)\n  la/FW\n  importancia/FW\n  de/FW\n  contar/FW\n  (NP con/NN)\n  (NP una/JJ amplia/JJ participación/NN)\n  de/IN\n  los/FW\n  (NP observadores/NNS)\n  internacionales/FW\n  de/FW\n  cara/FW\n  (NP a/DT los/JJ comicios/NNS)\n  (VP previstos/VBP (NP para/JJ el/NN))\n  (VP próximo/VBD)\n  28/CD\n  (PP de/IN (NP julio/NN))\n  ./.)",
+      "(S\n  (NP De/NNP)\n  acuerdo/FW\n  (NP con/NN)\n  (NP un/JJ comunicado/NN)\n  (NP oficial/JJ difundido/NN)\n  en/IN\n  la/FW\n  víspera/FW\n  (NP por/NN)\n  el/FW\n  (NP Ministerio/NNP)\n  (PP de/IN (NP Relaciones/NNP Exteriores/NNP))\n  de/FW\n  (NP Brasil/NNP)\n  ,/,\n  (NP Lula/NNP)\n  (VP tiene/VBZ (NP expectativas/JJ sobre/NN el/NN levantamiento/NN))\n  de/IN\n  las/FW\n  medidas/FW\n  (NP coercitivas/NN unilaterales/NNS)\n  (VP impuestas/VBP (NP contra/JJ Venezuela/NNP))\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "GOBIERNOS_OFICIALES",
+      "GRUPOS_ESPECIFICOS",
+      "LEYES_NORMATIVAS",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "REGIONES_PROVINCIAS",
+      "PAISES",
+      "RELACIONES_INTERNACIONALES"
+    ],
+    "matches": [
+      {
+        "category": "RELACIONES_INTERNACIONALES",
+        "matched_text": "tratado por ambas autoridades fue la colaboración bilateral",
+        "position": [
+          422,
+          481
+        ],
+        "start": 422,
+        "end": 481
+      },
+      {
+        "category": "RELACIONES_INTERNACIONALES",
+        "matched_text": "apoyo del gobierno",
+        "position": [
+          225,
+          243
+        ],
+        "start": 225,
+        "end": 243
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "mandatario de brasil agradeció el apoyo",
+        "position": [
+          191,
+          230
+        ],
+        "start": 191,
+        "end": 230
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "observadores internacionales",
+        "position": [
+          687,
+          715
+        ],
+        "start": 687,
+        "end": 715
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "sostuvo",
+        "position": [
+          53,
+          60
+        ],
+        "start": 53,
+        "end": 60
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "gobierno de venezuela con",
+        "position": [
+          235,
+          260
+        ],
+        "start": 235,
+        "end": 260
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente de brasil",
+        "position": [
+          4,
+          24
+        ],
+        "start": 4,
+        "end": 24
+      },
+      {
+        "category": "GRUPOS_ESPECIFICOS",
+        "matched_text": "indígenas",
+        "position": [
+          363,
+          372
+        ],
+        "start": 363,
+        "end": 372
+      },
+      {
+        "category": "LEYES_NORMATIVAS",
+        "matched_text": "acuerdo de barbados y enfatizó en la importancia de contar con una amplia participación de los observadores internacionales de cara a los comicios previstos para el próximo 28",
+        "position": [
+          592,
+          767
+        ],
+        "start": 592,
+        "end": 767
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "brasil",
+        "position": [
+          18,
+          24
+        ],
+        "start": 18,
+        "end": 24
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "venezuela",
+        "position": [
+          108,
+          117
+        ],
+        "start": 108,
+        "end": 117
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "caribe",
+        "position": [
+          396,
+          402
+        ],
+        "start": 396,
+        "end": 402
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "estado brasileño",
+        "position": [
+          555,
+          571
+        ],
+        "start": 555,
+        "end": 571
+      }
+    ],
+    "match_count": 13
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Nicolás Maduro",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Venezuela",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Lula",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Acuerdo de Barbados",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Gobierno de Venezuela",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Fondo para el Desarrollo de los Pueblos Indígenas de América Latina y el Caribe",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Ministerio de Relaciones Exteriores de Brasil",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Filac",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Estado brasileño",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Luiz Inácio Lula da Silva",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Brasil",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Sonia Guajajara",
+        "tipo": "Persona"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Brasil",
+        "relacion": "DA",
+        "objeto": "Luiz Inácio Lula da Silva"
+      },
+      {
+        "sujeto": "Brasil",
+        "relacion": "AGRADECER",
+        "objeto": "Gobierno de Venezuela"
+      },
+      {
+        "sujeto": "Brasil",
+        "relacion": "AGRADECER",
+        "objeto": "Sonia Guajajara"
+      },
+      {
+        "sujeto": "Brasil",
+        "relacion": "AGRADECER",
+        "objeto": "Fondo para el Desarrollo de los Pueblos Indígenas de América Latina y el Caribe"
+      },
+      {
+        "sujeto": "Brasil",
+        "relacion": "AGRADECER",
+        "objeto": "Filac"
+      },
+      {
+        "sujeto": "Gobierno de Venezuela",
+        "relacion": "AGRADECER",
+        "objeto": "Sonia Guajajara"
+      },
+      {
+        "sujeto": "Gobierno de Venezuela",
+        "relacion": "AGRADECER",
+        "objeto": "Fondo para el Desarrollo de los Pueblos Indígenas de América Latina y el Caribe"
+      },
+      {
+        "sujeto": "Gobierno de Venezuela",
+        "relacion": "AGRADECER",
+        "objeto": "Filac"
+      },
+      {
+        "sujeto": "Estado brasileño",
+        "relacion": "REITERAR",
+        "objeto": "Acuerdo de Barbados"
+      },
+      {
+        "sujeto": "Lula",
+        "relacion": "TENER",
+        "objeto": "Ministerio de Relaciones Exteriores de Brasil"
+      },
+      {
+        "sujeto": "Ministerio de Relaciones Exteriores de Brasil",
+        "relacion": "TENER",
+        "objeto": "Venezuela"
+      },
+      {
+        "sujeto": "Lula",
+        "relacion": "TENER",
+        "objeto": "Venezuela"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.0,
+    "pos": 0.0,
+    "neu": 1.0,
+    "neg": 0.0,
+    "label": "neutral"
+  }
+}

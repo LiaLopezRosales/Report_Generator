@@ -1,0 +1,604 @@
+{
+  "url": "https://www.telesurtv.net/ataque-sionista-sobre-gaza-deja-47-muertos-en-menos-de-24-horas/",
+  "title": "Ataque sionista sobre Gaza deja 47 muertos en menos de 24 horas - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Ataque",
+    "Gaza",
+    "Israel",
+    "Palestina",
+    "Sionismo"
+  ],
+  "text": "Esta lamentable situación se ha visto agravada por el hecho de que una gran proporción de las víctimas son mujeres y niños, lo que plantea una grave crisis humanitaria.\nEn un nuevo incidente de violencia y terrorismo sionista, las fuerzas de ocupación israelíes han sido responsables de tres brutales ataques contra familias en la Franja de Gaza en un período de 24 horas, resultando en la muerte de al menos 47 personas y dejando a otros 94 heridos, según informes médicos locales.\nLas autoridades sanitarias de Gaza informaron que, desde el inicio de los ataques israelíes el 7 de octubre, la cifra total de palestinos fallecidos ha alcanzado las alarmantes 40,738 víctimas, con más de 94,154 personas heridas.\nLos servicios de emergencia enfrentan serias dificultades para acceder a muchas de las víctimas, así como a los cuerpos atrapados bajo los escombros, dispersos a lo largo de las carreteras del enclave asediado. Las acciones de las fuerzas de ocupación han interrumpido el movimiento de ambulancias y equipos de defensa civil, complicando enormemente los esfuerzos de rescate.\nLa comunidad internacional y las organizaciones de derechos humanos han expresado su preocupación por el creciente número de víctimas y el sufrimiento humano en Gaza, instando a una acción urgente para garantizar la seguridad de los civiles y el acceso humanitario a las áreas afectadas.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/ataque-sionista-sobre-gaza-deja-47-muertos-en-menos-de-24-horas/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-09.json",
+    "message_index": 1630,
+    "message_id": 75626,
+    "date": "2024-09-02T06:55:13+00:00",
+    "text": "teleSUR\nAtaque sionista sobre Gaza deja 47 muertos en menos de 24 horas\nhttps://www.telesurtv.net/ataque-sionista-sobre-gaza-deja-47-muertos-en-menos-de-24-horas/",
+    "photo_path": null,
+    "views": 3221,
+    "reactions": {
+      "🤬": 68,
+      "😢": 18,
+      "💩": 3
+    },
+    "total_reactions": 89
+  },
+  "preprocessing": {
+    "cleaned": "esta lamentable situación se ha visto agravada por el hecho de que una gran proporción de las víctimas son mujeres y niños, lo que plantea una grave crisis humanitaria. en un nuevo incidente de violencia y terrorismo sionista, las fuerzas de ocupación israelíes han sido responsables de tres brutales ataques contra familias en la franja de gaza en un período de 24 horas, resultando en la muerte de al menos 47 personas y dejando a otros 94 heridos, según informes médicos locales. las autoridades sanitarias de gaza informaron que, desde el inicio de los ataques israelíes el 7 de octubre, la cifra total de palestinos fallecidos ha alcanzado las alarmantes 40,738 víctimas, con más de 94,154 personas heridas. los servicios de emergencia enfrentan serias dificultades para acceder a muchas de las víctimas, así como a los cuerpos atrapados bajo los escombros, dispersos a lo largo de las carreteras del enclave asediado. las acciones de las fuerzas de ocupación han interrumpido el movimiento de ambulancias y equipos de defensa civil, complicando enormemente los esfuerzos de rescate. la comunidad internacional y las organizaciones de derechos humanos han expresado su preocupación por el creciente número de víctimas y el sufrimiento humano en gaza, instando a una acción urgente para garantizar la seguridad de los civiles y el acceso humanitario a las áreas afectadas.",
+    "tokens": [
+      "lamentable",
+      "situación",
+      "visto",
+      "agravada",
+      "hecho",
+      "gran",
+      "proporción",
+      "víctimas",
+      "mujeres",
+      "niños",
+      ",",
+      "plantea",
+      "grave",
+      "crisis",
+      "humanitaria",
+      ".",
+      "nuevo",
+      "incidente",
+      "violencia",
+      "terrorismo",
+      "sionista",
+      ",",
+      "fuerzas",
+      "ocupación",
+      "israelíes",
+      "sido",
+      "responsables",
+      "tres",
+      "brutales",
+      "ataques",
+      "familias",
+      "franja",
+      "gaza",
+      "período",
+      "24",
+      "horas",
+      ",",
+      "resultando",
+      "muerte",
+      "menos",
+      "47",
+      "personas",
+      "dejando",
+      "94",
+      "heridos",
+      ",",
+      "según",
+      "informes",
+      "médicos",
+      "locales",
+      ".",
+      "autoridades",
+      "sanitarias",
+      "gaza",
+      "informaron",
+      ",",
+      "inicio",
+      "ataques",
+      "israelíes",
+      "7",
+      "octubre",
+      ",",
+      "cifra",
+      "total",
+      "palestinos",
+      "fallecidos",
+      "alcanzado",
+      "alarmantes",
+      "40,738",
+      "víctimas",
+      ",",
+      "94,154",
+      "personas",
+      "heridas",
+      ".",
+      "servicios",
+      "emergencia",
+      "enfrentan",
+      "serias",
+      "dificultades",
+      "acceder",
+      "muchas",
+      "víctimas",
+      ",",
+      "así",
+      "cuerpos",
+      "atrapados",
+      "bajo",
+      "escombros",
+      ",",
+      "dispersos",
+      "largo",
+      "carreteras",
+      "enclave",
+      "asediado",
+      ".",
+      "acciones",
+      "fuerzas",
+      "ocupación",
+      "interrumpido",
+      "movimiento",
+      "ambulancias",
+      "equipos",
+      "defensa",
+      "civil",
+      ",",
+      "complicando",
+      "enormemente",
+      "esfuerzos",
+      "rescate",
+      ".",
+      "comunidad",
+      "internacional",
+      "organizaciones",
+      "derechos",
+      "humanos",
+      "expresado",
+      "preocupación",
+      "creciente",
+      "número",
+      "víctimas",
+      "sufrimiento",
+      "humano",
+      "gaza",
+      ",",
+      "instando",
+      "acción",
+      "urgente",
+      "garantizar",
+      "seguridad",
+      "civiles",
+      "acceso",
+      "humanitario",
+      "áreas",
+      "afectadas",
+      "."
+    ],
+    "token_count": 136,
+    "sentence_count": 6
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 10,
+      "JJ": 20,
+      "NN": 58,
+      "FW": 66,
+      "IN": 10,
+      "NNS": 20,
+      "VBP": 13,
+      "VBZ": 2,
+      "CD": 5,
+      "RB": 2
+    },
+    "bigram_freq": {
+      "NNP-JJ": 1,
+      "JJ-NN": 11,
+      "NN-NN": 34,
+      "NN-FW": 8,
+      "FW-NN": 8,
+      "NN-IN": 7,
+      "IN-FW": 7,
+      "FW-JJ": 4,
+      "FW-FW": 43,
+      "NN-NNS": 1,
+      "NNS-VBP": 11,
+      "VBP-JJ": 5,
+      "NN-JJ": 5,
+      "NN-NNP": 1,
+      "NNP-NN": 3,
+      "NN-VBZ": 2,
+      "VBZ-FW": 1,
+      "FW-NNS": 6,
+      "NNS-NNS": 3,
+      "JJ-FW": 2,
+      "FW-NNP": 4,
+      "NNP-FW": 3,
+      "IN-CD": 2,
+      "CD-NNS": 4,
+      "VBP-IN": 2,
+      "FW-CD": 1,
+      "NNS-JJ": 3,
+      "JJ-RB": 1,
+      "RB-CD": 1,
+      "JJ-NNS": 3,
+      "VBP-NNS": 1,
+      "NNS-NNP": 1,
+      "NNP-NNS": 2,
+      "IN-NNP": 1,
+      "VBP-FW": 1,
+      "VBZ-CD": 1,
+      "CD-NN": 1,
+      "JJ-NNP": 2,
+      "VBP-NN": 1,
+      "VBP-VBP": 1,
+      "NNS-FW": 1,
+      "NNP-VBP": 1,
+      "JJ-JJ": 1,
+      "NNS-IN": 1,
+      "VBP-RB": 1,
+      "RB-JJ": 1
+    },
+    "trigram_freq": {
+      "NNP-JJ-NN": 1,
+      "JJ-NN-NN": 8,
+      "NN-NN-NN": 18,
+      "NN-NN-FW": 6,
+      "NN-FW-NN": 1,
+      "FW-NN-IN": 1,
+      "NN-IN-FW": 5,
+      "IN-FW-JJ": 1,
+      "FW-JJ-NN": 3,
+      "NN-NN-IN": 4,
+      "IN-FW-FW": 2,
+      "FW-FW-NN": 5,
+      "FW-NN-NNS": 1,
+      "NN-NNS-VBP": 1,
+      "NNS-VBP-JJ": 3,
+      "VBP-JJ-NN": 2,
+      "NN-NN-JJ": 3,
+      "NN-JJ-NN": 5,
+      "NN-NN-NNP": 1,
+      "NN-NNP-NN": 1,
+      "NNP-NN-NN": 2,
+      "IN-FW-NN": 2,
+      "FW-NN-NN": 4,
+      "JJ-NN-IN": 2,
+      "NN-NN-VBZ": 2,
+      "NN-VBZ-FW": 1,
+      "VBZ-FW-NNS": 1,
+      "FW-NNS-NNS": 1,
+      "NNS-NNS-NNS": 1,
+      "NNS-NNS-VBP": 2,
+      "VBP-JJ-FW": 1,
+      "JJ-FW-FW": 2,
+      "FW-FW-NNP": 2,
+      "FW-NNP-FW": 2,
+      "NNP-FW-NNP": 1,
+      "NNP-FW-JJ": 1,
+      "NN-IN-CD": 2,
+      "IN-CD-NNS": 2,
+      "CD-NNS-VBP": 1,
+      "NNS-VBP-IN": 2,
+      "VBP-IN-FW": 1,
+      "FW-FW-FW": 30,
+      "FW-FW-CD": 1,
+      "FW-CD-NNS": 1,
+      "CD-NNS-JJ": 3,
+      "NNS-JJ-RB": 1,
+      "JJ-RB-CD": 1,
+      "RB-CD-NNS": 1,
+      "NNS-JJ-NNS": 1,
+      "JJ-NNS-VBP": 1,
+      "NNS-VBP-NNS": 1,
+      "VBP-NNS-NNP": 1,
+      "NNS-NNP-NNS": 1,
+      "NNP-NNS-VBP": 1,
+      "VBP-IN-NNP": 1,
+      "IN-NNP-NN": 1,
+      "NN-FW-FW": 6,
+      "FW-FW-NNS": 3,
+      "FW-NNS-VBP": 5,
+      "NNS-VBP-FW": 1,
+      "VBP-FW-FW": 1,
+      "FW-FW-JJ": 2,
+      "FW-JJ-FW": 1,
+      "NN-VBZ-CD": 1,
+      "VBZ-CD-NN": 1,
+      "CD-NN-NN": 1,
+      "NNS-JJ-NNP": 1,
+      "JJ-NNP-FW": 1,
+      "NNP-FW-FW": 1,
+      "NNS-VBP-NN": 1,
+      "VBP-NN-NN": 1,
+      "IN-FW-NNS": 2,
+      "NNS-VBP-VBP": 1,
+      "VBP-VBP-JJ": 1,
+      "VBP-JJ-NNP": 1,
+      "JJ-NNP-NNS": 1,
+      "NNP-NNS-FW": 1,
+      "NNS-FW-FW": 1,
+      "FW-NN-FW": 2,
+      "FW-NNP-VBP": 1,
+      "NNP-VBP-JJ": 1,
+      "VBP-JJ-JJ": 1,
+      "JJ-JJ-NNS": 1,
+      "JJ-NNS-IN": 1,
+      "NNS-IN-FW": 1,
+      "NN-FW-NNP": 1,
+      "FW-NNP-NN": 1,
+      "NNP-NN-JJ": 1,
+      "JJ-NN-JJ": 1,
+      "NNS-VBP-RB": 1,
+      "VBP-RB-JJ": 1,
+      "RB-JJ-NNS": 1,
+      "JJ-NNS-NNS": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "FW": 66,
+        "NN": 58,
+        "JJ": 20,
+        "NNS": 20,
+        "VBP": 13
+      },
+      "top_bigrams": {
+        "FW-FW": 43,
+        "NN-NN": 34,
+        "JJ-NN": 11,
+        "NNS-VBP": 11,
+        "NN-FW": 8
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 30,
+        "NN-NN-NN": 18,
+        "JJ-NN-NN": 8,
+        "NN-NN-FW": 6,
+        "NN-FW-FW": 6
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 6,
+    "chunk_counts": {
+      "NP": 53,
+      "VP": 18,
+      "ADJP": 3
+    },
+    "top_rules": [
+      {
+        "rule": "NP -> ('Gaza', 'NNP')",
+        "frequency": 2,
+        "weight": 0.025
+      },
+      {
+        "rule": "NP -> ('Las', 'NNP')",
+        "frequency": 2,
+        "weight": 0.025
+      },
+      {
+        "rule": "S -> NP NP ('el', 'FW') NP ('de', 'IN') ('que', 'FW') NP ('de', 'IN') ('las', 'FW') ('víctimas', 'FW') NP VP (',', ',') NP NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0125
+      },
+      {
+        "rule": "NP -> ('Esta', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0125
+      },
+      {
+        "rule": "NP -> ('lamentable', 'JJ') ('situación', 'NN') ('se', 'NN') ('ha', 'NN') ('visto', 'NN') ('agravada', 'NN') ('por', 'NN')",
+        "frequency": 1,
+        "weight": 0.0125
+      },
+      {
+        "rule": "NP -> ('hecho', 'NN')",
+        "frequency": 1,
+        "weight": 0.0125
+      },
+      {
+        "rule": "NP -> ('una', 'JJ') ('gran', 'NN') ('proporción', 'NN')",
+        "frequency": 1,
+        "weight": 0.0125
+      },
+      {
+        "rule": "NP -> ('son', 'NN') ('mujeres', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0125
+      },
+      {
+        "rule": "VP -> ('y', 'VBP') ('niños', 'RB')",
+        "frequency": 1,
+        "weight": 0.0125
+      },
+      {
+        "rule": "NP -> ('lo', 'JJ') ('que', 'NN') ('plantea', 'NN')",
+        "frequency": 1,
+        "weight": 0.0125
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Esta"
+      },
+      {
+        "label": "NP",
+        "text": "lamentable situación se ha visto agravada por"
+      },
+      {
+        "label": "NP",
+        "text": "hecho"
+      },
+      {
+        "label": "NP",
+        "text": "una gran proporción"
+      },
+      {
+        "label": "NP",
+        "text": "son mujeres"
+      },
+      {
+        "label": "VP",
+        "text": "y niños"
+      },
+      {
+        "label": "NP",
+        "text": "lo que plantea"
+      },
+      {
+        "label": "NP",
+        "text": "una grave crisis humanitaria"
+      },
+      {
+        "label": "NP",
+        "text": "En"
+      },
+      {
+        "label": "NP",
+        "text": "un nuevo incidente"
+      },
+      {
+        "label": "NP",
+        "text": "terrorismo sionista"
+      },
+      {
+        "label": "NP",
+        "text": "las fuerzas"
+      },
+      {
+        "label": "NP",
+        "text": "israelíes han sido"
+      },
+      {
+        "label": "VP",
+        "text": "responsables"
+      },
+      {
+        "label": "NP",
+        "text": "tres brutales ataques"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Esta/NNP)\n  (NP\n    lamentable/JJ\n    situación/NN\n    se/NN\n    ha/NN\n    visto/NN\n    agravada/NN\n    por/NN)\n  el/FW\n  (NP hecho/NN)\n  de/IN\n  que/FW\n  (NP una/JJ gran/NN proporción/NN)\n  de/IN\n  las/FW\n  víctimas/FW\n  (NP son/NN mujeres/NNS)\n  (VP y/VBP niños/RB)\n  ,/,\n  (NP lo/JJ que/NN plantea/NN)\n  (NP una/JJ grave/NN crisis/NN humanitaria/NN)\n  ./.)",
+      "(S\n  (NP En/NNP)\n  (NP un/JJ nuevo/JJ incidente/NN)\n  de/IN\n  violencia/FW\n  y/FW\n  (NP terrorismo/NN sionista/NN)\n  ,/,\n  (NP las/JJ fuerzas/NN)\n  de/IN\n  ocupación/FW\n  (NP israelíes/NN han/NN sido/NN)\n  (VP responsables/VBZ)\n  de/FW\n  (NP tres/NNS brutales/NNS ataques/NNS)\n  (VP contra/VBP familias/JJ)\n  en/FW\n  la/FW\n  (NP Franja/NNP)\n  de/FW\n  (NP Gaza/NNP)\n  en/FW\n  (NP un/JJ período/NN)\n  de/IN\n  24/CD\n  (NP horas/NNS)\n  ,/,\n  (NP resultando/NN)\n  en/FW\n  la/FW\n  muerte/FW\n  de/FW\n  al/FW\n  menos/FW\n  47/CD\n  (NP personas/NNS)\n  y/RB\n  (VP dejando/VBP)\n  a/DT\n  (ADJP otros/JJ)\n  94/CD\n  (NP heridos/NN)\n  ,/,\n  (NP según/JJ informes/NNS)\n  (NP médicos/JJ locales/NNS)\n  ./.)",
+      "(S\n  (NP Las/NNP)\n  (VP autoridades/VBZ)\n  sanitarias/FW\n  de/FW\n  (NP Gaza/NNP informaron/NN que/NN)\n  ,/,\n  (NP desde/NN)\n  el/FW\n  inicio/FW\n  de/FW\n  los/FW\n  (NP ataques/NNS)\n  (VP israelíes/VBP el/JJ)\n  7/CD\n  de/FW\n  octubre/FW\n  ,/,\n  la/FW\n  (NP cifra/JJ total/NN)\n  de/IN\n  palestinos/FW\n  (NP fallecidos/JJ ha/NN alcanzado/NN las/NN)\n  (VP alarmantes/VBZ)\n  40,738/CD\n  (NP víctimas/NN)\n  ,/,\n  (NP con/JJ más/NN)\n  de/IN\n  94,154/CD\n  (NP personas/NNS heridas/NN)\n  ./.)",
+      "(S\n  (NP Los/NNP servicios/NNS)\n  de/FW\n  emergencia/FW\n  enfrentan/FW\n  serias/FW\n  (NP dificultades/NNS)\n  (VP para/VBP)\n  (VP acceder/VB (NP a/DT muchas/NN))\n  de/FW\n  las/FW\n  víctimas/FW\n  ,/,\n  (VP así/VBP)\n  (VP\n    como/VB\n    (NP\n      a/DT\n      los/NN\n      cuerpos/NN\n      atrapados/NN\n      bajo/NN\n      los/NN\n      escombros/NN))\n  ,/,\n  (VP dispersos/VB (NP a/DT lo/JJ largo/NN))\n  de/IN\n  las/FW\n  (NP carreteras/NNS)\n  (VP del/VBP (NP enclave/JJ asediado/NN))\n  ./.)",
+      "(S\n  (NP Las/NNP)\n  (VP acciones/VBZ)\n  de/FW\n  las/FW\n  fuerzas/FW\n  de/FW\n  ocupación/FW\n  han/FW\n  (NP interrumpido/NN)\n  el/FW\n  movimiento/FW\n  de/FW\n  ambulancias/FW\n  y/FW\n  equipos/FW\n  de/FW\n  defensa/FW\n  (ADJP civil/JJ)\n  ,/,\n  (ADJP complicando/JJ)\n  enormemente/FW\n  los/FW\n  esfuerzos/FW\n  de/FW\n  (NP rescate/NN)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "GRUPOS_ESPECIFICOS",
+      "CANTIDADES_NUMERICAS",
+      "JUSTICIA_SOCIAL",
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "CONFLICTOS_ARMADOS_OPERACIONES",
+      "JURIDICO_LEGISLATIVO_CORRUPCION"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "víctimas y el sufrimiento humano en gaza, instando a una acción urgente para garantizar la seguridad de los civiles",
+        "position": [
+          1214,
+          1329
+        ],
+        "start": 1214,
+        "end": 1329
+      },
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "ataques israelíes",
+        "position": [
+          557,
+          574
+        ],
+        "start": 557,
+        "end": 574
+      },
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "ocupación",
+        "position": [
+          242,
+          251
+        ],
+        "start": 242,
+        "end": 251
+      },
+      {
+        "category": "JURIDICO_LEGISLATIVO_CORRUPCION",
+        "matched_text": "defensa",
+        "position": [
+          1024,
+          1031
+        ],
+        "start": 1024,
+        "end": 1031
+      },
+      {
+        "category": "GRUPOS_ESPECIFICOS",
+        "matched_text": "mujeres",
+        "position": [
+          107,
+          114
+        ],
+        "start": 107,
+        "end": 114
+      },
+      {
+        "category": "JUSTICIA_SOCIAL",
+        "matched_text": "derechos humanos",
+        "position": [
+          1140,
+          1156
+        ],
+        "start": 1140,
+        "end": 1156
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "47 personas",
+        "position": [
+          409,
+          420
+        ],
+        "start": 409,
+        "end": 420
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "94,154 personas",
+        "position": [
+          688,
+          703
+        ],
+        "start": 688,
+        "end": 703
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "más de 94",
+        "position": [
+          681,
+          690
+        ],
+        "start": 681,
+        "end": 690
+      }
+    ],
+    "match_count": 9
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Franja de Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Gaza",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": []
+  },
+  "sentiment": {
+    "compound": -0.6597,
+    "pos": 0.022,
+    "neu": 0.935,
+    "neg": 0.043,
+    "label": "negative"
+  }
+}

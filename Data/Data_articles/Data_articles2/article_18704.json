@@ -1,0 +1,592 @@
+{
+  "url": "https://www.telesurtv.net/accidente-vial-provoca-ocho-fallecidos-en-nuevo-leon-mexico/",
+  "title": "Accidente vial provoca ocho fallecidos en Nuevo León, México - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "Accidente",
+    "fallecidos",
+    "México"
+  ],
+  "text": "La Dirección de Protección Civil del estado de Nuevo León, al norte de México, informó este domingo que ocho personas perdieron la vida a consecuencia de la volcadura de un autobús de pasajeros en el municipio de Galeana (sur).\nDe acuerdo con la Policía, el chofer del bus -que salió de Morelia en dirección a la ciudad de Monterrey- presumiblemente se quedó dormido, perdió el control del vehículo y este se precipitó hacia una cuneta.\nDe los ocho fallecidos, siete murieron por aplastamiento, entre ellos dos menores de edad. Un pasajero, también fallecido, salió despedido fuera del vehículo por la fuerza del impacto. Del total de pasajeros con heridas, 19 fueron llevados al hospital general de Galeana. Otros 12, con lesiones menores, recibieron atenciones en el sitio.\nIntegrantes de la Fiscalía General del Estado y agentes de la Guardia Nacional, de la división de caminos, se encargaron de levantar el parte del accidente.\nDe acuerdo con medios locales, pasado el mediodía de este domingo aún continuaban las maniobras para retirar el ómnibus, por lo que se mantenía el cierre parcial de circulación con dirección a Saltillo.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/accidente-vial-provoca-ocho-fallecidos-en-nuevo-leon-mexico/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-07.json",
+    "message_index": 374,
+    "message_id": 73463,
+    "date": "2024-07-22T02:55:07+00:00",
+    "text": "teleSUR\nAccidente vial provoca ocho fallecidos en Nuevo León, México\nhttps://www.telesurtv.net/accidente-vial-provoca-ocho-fallecidos-en-nuevo-leon-mexico/",
+    "photo_path": null,
+    "views": 1813,
+    "reactions": {},
+    "total_reactions": 0
+  },
+  "preprocessing": {
+    "cleaned": "la dirección de protección civil del estado de nuevo león, al norte de méxico, informó este domingo que ocho personas perdieron la vida a consecuencia de la volcadura de un autobús de pasajeros en el municipio de galeana (sur). de acuerdo con la policía, el chofer del bus -que salió de morelia en dirección a la ciudad de monterrey- presumiblemente se quedó dormido, perdió el control del vehículo y este se precipitó hacia una cuneta. de los ocho fallecidos, siete murieron por aplastamiento, entre ellos dos menores de edad. un pasajero, también fallecido, salió despedido fuera del vehículo por la fuerza del impacto. del total de pasajeros con heridas, 19 fueron llevados al hospital general de galeana. otros 12, con lesiones menores, recibieron atenciones en el sitio. integrantes de la fiscalía general del estado y agentes de la guardia nacional, de la división de caminos, se encargaron de levantar el parte del accidente. de acuerdo con medios locales, pasado el mediodía de este domingo aún continuaban las maniobras para retirar el ómnibus, por lo que se mantenía el cierre parcial de circulación con dirección a saltillo.",
+    "tokens": [
+      "dirección",
+      "protección",
+      "civil",
+      "nuevo",
+      "león",
+      ",",
+      "norte",
+      "méxico",
+      ",",
+      "informó",
+      "domingo",
+      "ocho",
+      "personas",
+      "perdieron",
+      "vida",
+      "consecuencia",
+      "volcadura",
+      "autobús",
+      "pasajeros",
+      "municipio",
+      "galeana",
+      "(",
+      "sur",
+      ")",
+      ".",
+      "acuerdo",
+      "policía",
+      ",",
+      "chofer",
+      "bus",
+      "-que",
+      "salió",
+      "morelia",
+      "dirección",
+      "ciudad",
+      "monterrey-",
+      "presumiblemente",
+      "quedó",
+      "dormido",
+      ",",
+      "perdió",
+      "control",
+      "vehículo",
+      "precipitó",
+      "hacia",
+      "cuneta",
+      ".",
+      "ocho",
+      "fallecidos",
+      ",",
+      "siete",
+      "murieron",
+      "aplastamiento",
+      ",",
+      "dos",
+      "menores",
+      "edad",
+      ".",
+      "pasajero",
+      ",",
+      "fallecido",
+      ",",
+      "salió",
+      "despedido",
+      "vehículo",
+      "fuerza",
+      "impacto",
+      ".",
+      "total",
+      "pasajeros",
+      "heridas",
+      ",",
+      "19",
+      "llevados",
+      "hospital",
+      "general",
+      "galeana",
+      ".",
+      "12",
+      ",",
+      "lesiones",
+      "menores",
+      ",",
+      "recibieron",
+      "atenciones",
+      "sitio",
+      ".",
+      "integrantes",
+      "fiscalía",
+      "general",
+      "agentes",
+      "guardia",
+      "nacional",
+      ",",
+      "división",
+      "caminos",
+      ",",
+      "encargaron",
+      "levantar",
+      "parte",
+      "accidente",
+      ".",
+      "acuerdo",
+      "medios",
+      "locales",
+      ",",
+      "pasado",
+      "mediodía",
+      "domingo",
+      "aún",
+      "continuaban",
+      "maniobras",
+      "retirar",
+      "ómnibus",
+      ",",
+      "mantenía",
+      "cierre",
+      "parcial",
+      "circulación",
+      "dirección",
+      "saltillo",
+      "."
+    ],
+    "token_count": 122,
+    "sentence_count": 8
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 27,
+      "IN": 7,
+      "FW": 59,
+      "VBD": 2,
+      "NN": 60,
+      "JJ": 13,
+      "NNS": 7,
+      "CD": 2,
+      "VBP": 2,
+      "VBZ": 2
+    },
+    "bigram_freq": {
+      "NNP-NNP": 6,
+      "NNP-IN": 2,
+      "IN-NNP": 1,
+      "NNP-FW": 9,
+      "FW-FW": 35,
+      "FW-NNP": 14,
+      "NNP-VBD": 1,
+      "VBD-FW": 1,
+      "NNP-NN": 6,
+      "NN-NN": 36,
+      "NN-JJ": 6,
+      "JJ-NN": 7,
+      "NN-FW": 6,
+      "FW-NN": 9,
+      "NN-IN": 3,
+      "IN-FW": 4,
+      "NN-NNP": 5,
+      "FW-JJ": 1,
+      "IN-JJ": 2,
+      "JJ-NNS": 1,
+      "NNS-IN": 1,
+      "NN-VBD": 1,
+      "VBD-CD": 1,
+      "CD-NN": 2,
+      "JJ-JJ": 2,
+      "JJ-FW": 3,
+      "NNP-CD": 1,
+      "NN-NNS": 3,
+      "NNS-NNS": 1,
+      "NNS-VBP": 2,
+      "VBP-NNS": 1,
+      "NNS-FW": 1,
+      "NNP-VBZ": 1,
+      "VBZ-IN": 1,
+      "NNS-VBZ": 1,
+      "VBZ-NNS": 1,
+      "NNS-JJ": 1,
+      "VBP-JJ": 1
+    },
+    "trigram_freq": {
+      "NNP-NNP-IN": 1,
+      "NNP-IN-NNP": 1,
+      "IN-NNP-NNP": 1,
+      "NNP-NNP-FW": 3,
+      "NNP-FW-FW": 2,
+      "FW-FW-FW": 26,
+      "FW-FW-NNP": 6,
+      "FW-NNP-NNP": 4,
+      "NNP-NNP-VBD": 1,
+      "NNP-VBD-FW": 1,
+      "VBD-FW-FW": 1,
+      "FW-NNP-NN": 3,
+      "NNP-NN-NN": 4,
+      "NN-NN-NN": 24,
+      "NN-NN-JJ": 4,
+      "NN-JJ-NN": 4,
+      "JJ-NN-NN": 4,
+      "NN-NN-FW": 2,
+      "NN-FW-NN": 2,
+      "FW-NN-IN": 1,
+      "NN-IN-FW": 1,
+      "IN-FW-FW": 1,
+      "FW-NNP-FW": 5,
+      "NNP-FW-NNP": 2,
+      "NNP-FW-NN": 4,
+      "FW-NN-FW": 2,
+      "NN-FW-NNP": 2,
+      "FW-NN-NN": 3,
+      "NN-NN-NNP": 4,
+      "NN-NNP-NN": 3,
+      "NNP-NN-FW": 2,
+      "NN-FW-FW": 2,
+      "JJ-NN-NNP": 1,
+      "NN-NNP-FW": 1,
+      "NNP-FW-JJ": 1,
+      "FW-JJ-NN": 1,
+      "JJ-NN-JJ": 2,
+      "NN-NN-IN": 2,
+      "NN-IN-JJ": 2,
+      "IN-JJ-NN": 1,
+      "NN-JJ-NNS": 1,
+      "JJ-NNS-IN": 1,
+      "NNS-IN-FW": 1,
+      "IN-FW-NNP": 3,
+      "FW-FW-NN": 3,
+      "FW-NN-VBD": 1,
+      "NN-VBD-CD": 1,
+      "VBD-CD-NN": 1,
+      "CD-NN-NN": 1,
+      "IN-JJ-JJ": 1,
+      "JJ-JJ-FW": 2,
+      "JJ-FW-NNP": 1,
+      "NNP-NNP-CD": 1,
+      "NNP-CD-NN": 1,
+      "CD-NN-NNS": 1,
+      "NN-NNS-NNS": 1,
+      "NNS-NNS-VBP": 1,
+      "NNS-VBP-NNS": 1,
+      "VBP-NNS-FW": 1,
+      "NNS-FW-FW": 1,
+      "FW-NNP-IN": 1,
+      "NNP-IN-FW": 1,
+      "FW-NNP-VBZ": 1,
+      "NNP-VBZ-IN": 1,
+      "VBZ-IN-FW": 1,
+      "FW-NN-NNS": 2,
+      "NN-NNS-VBZ": 1,
+      "NNS-VBZ-NNS": 1,
+      "VBZ-NNS-JJ": 1,
+      "NNS-JJ-FW": 1,
+      "JJ-FW-FW": 2,
+      "NN-NNS-VBP": 1,
+      "NNS-VBP-JJ": 1,
+      "VBP-JJ-NN": 1,
+      "NN-JJ-JJ": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 60,
+        "FW": 59,
+        "NNP": 27,
+        "JJ": 13,
+        "IN": 7
+      },
+      "top_bigrams": {
+        "NN-NN": 36,
+        "FW-FW": 35,
+        "FW-NNP": 14,
+        "NNP-FW": 9,
+        "FW-NN": 9
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 26,
+        "NN-NN-NN": 24,
+        "FW-FW-NNP": 6,
+        "FW-NNP-FW": 5,
+        "FW-NNP-NNP": 4
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 8,
+    "chunk_counts": {
+      "NP": 47,
+      "PP": 3,
+      "ADJP": 6,
+      "VP": 4
+    },
+    "top_rules": [
+      {
+        "rule": "NP -> ('De', 'NNP')",
+        "frequency": 3,
+        "weight": 0.0441
+      },
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0294
+      },
+      {
+        "rule": "NP -> ('Galeana', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0294
+      },
+      {
+        "rule": "S -> NP PP ('del', 'FW') ('estado', 'FW') ('de', 'FW') NP (',', ',') ADJP ('norte', 'FW') ('de', 'FW') NP (',', ',') NP NP ('vida', 'FW') NP ('de', 'IN') ('la', 'FW') ('volcadura', 'FW') ('de', 'FW') ('un', 'FW') ('autobús', 'FW') ('de', 'FW') ('pasajeros', 'FW') ('en', 'FW') ('el', 'FW') ('municipio', 'FW') ('de', 'FW') NP ('(', '(') NP (')', ')') ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0147
+      },
+      {
+        "rule": "NP -> ('La', 'NNP') ('Dirección', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0147
+      },
+      {
+        "rule": "NP -> ('Protección', 'NNP') ('Civil', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0147
+      },
+      {
+        "rule": "NP -> ('Nuevo', 'NNP') ('León', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0147
+      },
+      {
+        "rule": "ADJP -> ('al', 'JJ')",
+        "frequency": 1,
+        "weight": 0.0147
+      },
+      {
+        "rule": "NP -> ('México', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0147
+      },
+      {
+        "rule": "NP -> ('informó', 'JJ') ('este', 'NN') ('domingo', 'NN') ('que', 'NN')",
+        "frequency": 1,
+        "weight": 0.0147
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "La Dirección"
+      },
+      {
+        "label": "PP",
+        "text": "de Protección Civil"
+      },
+      {
+        "label": "NP",
+        "text": "Protección Civil"
+      },
+      {
+        "label": "NP",
+        "text": "Nuevo León"
+      },
+      {
+        "label": "ADJP",
+        "text": "al"
+      },
+      {
+        "label": "NP",
+        "text": "México"
+      },
+      {
+        "label": "NP",
+        "text": "informó este domingo que"
+      },
+      {
+        "label": "NP",
+        "text": "ocho personas perdieron la"
+      },
+      {
+        "label": "NP",
+        "text": "a consecuencia"
+      },
+      {
+        "label": "NP",
+        "text": "Galeana"
+      },
+      {
+        "label": "NP",
+        "text": "sur"
+      },
+      {
+        "label": "NP",
+        "text": "De"
+      },
+      {
+        "label": "NP",
+        "text": "con la Policía"
+      },
+      {
+        "label": "NP",
+        "text": "el chofer del bus -que salió"
+      },
+      {
+        "label": "NP",
+        "text": "Morelia"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP La/NNP Dirección/NNP)\n  (PP de/IN (NP Protección/NNP Civil/NNP))\n  del/FW\n  estado/FW\n  de/FW\n  (NP Nuevo/NNP León/NNP)\n  ,/,\n  (ADJP al/JJ)\n  norte/FW\n  de/FW\n  (NP México/NNP)\n  ,/,\n  (NP informó/JJ este/NN domingo/NN que/NN)\n  (NP ocho/JJ personas/NN perdieron/NN la/NN)\n  vida/FW\n  (NP a/DT consecuencia/NN)\n  de/IN\n  la/FW\n  volcadura/FW\n  de/FW\n  un/FW\n  autobús/FW\n  de/FW\n  pasajeros/FW\n  en/FW\n  el/FW\n  municipio/FW\n  de/FW\n  (NP Galeana/NNP)\n  (/(\n  (NP sur/NN)\n  )/)\n  ./.)",
+      "(S\n  (NP De/NNP)\n  acuerdo/FW\n  (NP con/NN la/NN Policía/NNP)\n  ,/,\n  (NP el/NN chofer/NN del/NN bus/NN -que/NNP salió/NN)\n  de/FW\n  (NP Morelia/NNP)\n  en/FW\n  dirección/FW\n  a/DT\n  la/FW\n  ciudad/FW\n  de/FW\n  (NP Monterrey-/NNP presumiblemente/NN se/NN quedó/NN dormido/NN)\n  ,/,\n  (ADJP perdió/JJ)\n  el/FW\n  (NP control/NN)\n  del/FW\n  (NP vehículo/NN y/NN este/NN se/NN precipitó/NN hacia/NN)\n  (NP una/JJ cuneta/NN)\n  ./.)",
+      "(S\n  (NP De/NNP)\n  los/FW\n  (NP ocho/JJ fallecidos/NN)\n  ,/,\n  (NP siete/JJ murieron/NN por/NN aplastamiento/NN)\n  ,/,\n  entre/FW\n  ellos/FW\n  (NP dos/JJ menores/NNS)\n  (PP de/IN (NP edad/NN))\n  ./.)",
+      "(S\n  (NP Un/NNP pasajero/NN)\n  ,/,\n  (NP también/NN fallecido/NN)\n  ,/,\n  (NP salió/JJ despedido/NN fuera/NN del/NN vehículo/NN por/NN la/NN)\n  (NP fuerza/JJ del/NN impacto/NN)\n  ./.)",
+      "(S\n  (NP Del/NNP total/NN)\n  de/FW\n  pasajeros/FW\n  (NP con/NN heridas/NN)\n  ,/,\n  19/CD\n  (NP fueron/NN llevados/NN)\n  al/IN\n  (ADJP hospital/JJ)\n  (ADJP general/JJ)\n  de/FW\n  (NP Galeana/NNP)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "REGIONES_PROVINCIAS",
+      "PAISES",
+      "LOCALIZACIONES_ESPECIFICAS",
+      "INFRAESTRUCTURA_SERVICIOS",
+      "RELACIONES_INTERNACIONALES"
+    ],
+    "matches": [
+      {
+        "category": "RELACIONES_INTERNACIONALES",
+        "matched_text": "acuerdo con la policía, el chofer del bus -que salió de morelia en dirección a la ciudad de monterrey- presumiblemente se quedó dormido, perdió el control del vehículo y este",
+        "position": [
+          231,
+          405
+        ],
+        "start": 231,
+        "end": 405
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "informó",
+        "position": [
+          79,
+          86
+        ],
+        "start": 79,
+        "end": 86
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "hospital",
+        "position": [
+          680,
+          688
+        ],
+        "start": 680,
+        "end": 688
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "méxico",
+        "position": [
+          71,
+          77
+        ],
+        "start": 71,
+        "end": 77
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "estado de",
+        "position": [
+          37,
+          46
+        ],
+        "start": 37,
+        "end": 46
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "hospital general",
+        "position": [
+          680,
+          696
+        ],
+        "start": 680,
+        "end": 696
+      }
+    ],
+    "match_count": 6
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Morelia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Guardia Nacional",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Fiscalía General del Estado",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Monterrey-",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Nuevo León",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Galeana",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Dirección de Protección Civil",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Saltillo",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "México",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Policía",
+        "tipo": "Organizacion"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Dirección de Protección Civil",
+        "relacion": "INFORMAR",
+        "objeto": "Galeana"
+      },
+      {
+        "sujeto": "Nuevo León",
+        "relacion": "INFORMAR",
+        "objeto": "Galeana"
+      },
+      {
+        "sujeto": "México",
+        "relacion": "INFORMAR",
+        "objeto": "Galeana"
+      },
+      {
+        "sujeto": "Policía",
+        "relacion": "QUEDAR",
+        "objeto": "Morelia"
+      },
+      {
+        "sujeto": "Policía",
+        "relacion": "QUEDAR",
+        "objeto": "Monterrey-"
+      },
+      {
+        "sujeto": "Morelia",
+        "relacion": "SALIR_QUEDAR",
+        "objeto": "Monterrey-"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.0,
+    "pos": 0.0,
+    "neu": 1.0,
+    "neg": 0.0,
+    "label": "neutral"
+  }
+}

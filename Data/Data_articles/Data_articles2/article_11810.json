@@ -1,0 +1,811 @@
+{
+  "url": "https://www.telesurtv.net/edmundo-gonzalez-afirma-que-estara-en-venezuela-para-el-10e/",
+  "title": "Gonzáles Urrutia insiste en la vieja estrategia de gobierno paralelo en Venezuela - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "10 de enero",
+    "Desestabilización",
+    "Edmundo González",
+    "injerencia",
+    "Nicolás Maduro",
+    "Venezuela"
+  ],
+  "text": "\nEn una entrevista con el diario español El País, el opositor venezolano Edmundo González aseguró que regresará a Venezuela antes del próximo 10 de enero. Fecha en la cual se prevé la juramentación de Nicolás Maduro como presidente reelecto para el período 2025-2031.\n“Yo salí de Venezuela de manera temporal, sabía que iba a regresar en cualquier momento y el momento es el 10 de enero, fecha de la toma de posesión”, dijo González, en una narrativa ya utilizada anteriormente por Juan Guaidó, quien se autoproclamó presidente encargado de la nación bolivariana en el año 2019.\nEl candidato derrotado afirma que será presidente de Venezuela pese a que el pueblo determinó lo contrario. “No quiero entrar en eso. Mi objetivo es tomar posesión del cargo y, de ahí en adelante, tomar las decisiones que haya que tomar; entre otras, la designación del equipo de gobierno”, mencionó desde España quien firmó con su puño y letra el reconocimiento de los resultados electorales y de la instituciones de Venezuela.\nAnte la pregunta del diario español sobre si presidiría o no un gobierno en el exilio, a lo cual respondió: “No, no… Eso sí está claro: yo voy a estar en Venezuela”. Además aseguró que incluirá a María Corina Machado como vicepresidenta ejecutiva.\nEsto, a pocos días de que se revelara una trama en la cual participaron la propia Machado, redes de narcotráfico internacional y la Administración de Control de Drogas de Estados Unidos (DEA). Según las investigaciones, la dirigente de extrema derecha se comprometió con la agencia estadounidense a entregar rutas de tráfico de estupefaciente a cambio de recursos y apoyo político.\n\nGonzález Urrutia llegó a Madrid en septiembre y luego de hacer público el reconocimiento de su derrota. Sin embargo, en noviembre, tres meses después de la contienda electoral, el Secretario de Estado de Estados unidos, Antony Blinken, reconoció al personaje como presidente de Venezuela y desde entonces se a iniciado una campaña mediática y diplomática internacional para su instauración de facto en la presidencia de Venezuela.\n",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/edmundo-gonzalez-afirma-que-estara-en-venezuela-para-el-10e/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-12.json",
+    "message_index": 1291,
+    "message_id": 82039,
+    "date": "2024-12-09T20:55:13+00:00",
+    "text": "teleSUR\nGonzáles Urrutia insiste en la vieja estrategia de gobierno paralelo en Venezuela\nhttps://www.telesurtv.net/edmundo-gonzalez-afirma-que-estara-en-venezuela-para-el-10e/",
+    "photo_path": null,
+    "views": 2672,
+    "reactions": {
+      "🤡": 65,
+      "💩": 24,
+      "🔥": 4
+    },
+    "total_reactions": 93
+  },
+  "preprocessing": {
+    "cleaned": "en una entrevista con el diario español el país, el opositor venezolano edmundo gonzález aseguró que regresará a venezuela antes del próximo 10 de enero. fecha en la cual se prevé la juramentación de nicolás maduro como presidente reelecto para el período 2025-2031. “yo salí de venezuela de manera temporal, sabía que iba a regresar en cualquier momento y el momento es el 10 de enero, fecha de la toma de posesión”, dijo gonzález, en una narrativa ya utilizada anteriormente por juan guaidó, quien se autoproclamó presidente encargado de la nación bolivariana en el año 2019. el candidato derrotado afirma que será presidente de venezuela pese a que el pueblo determinó lo contrario. “no quiero entrar en eso. mi objetivo es tomar posesión del cargo y, de ahí en adelante, tomar las decisiones que haya que tomar; entre otras, la designación del equipo de gobierno”, mencionó desde españa quien firmó con su puño y letra el reconocimiento de los resultados electorales y de la instituciones de venezuela. ante la pregunta del diario español sobre si presidiría o no un gobierno en el exilio, a lo cual respondió: “no, no… eso sí está claro: yo voy a estar en venezuela”. además aseguró que incluirá a maría corina machado como vicepresidenta ejecutiva. esto, a pocos días de que se revelara una trama en la cual participaron la propia machado, redes de narcotráfico internacional y la administración de control de drogas de estados unidos (dea). según las investigaciones, la dirigente de extrema derecha se comprometió con la agencia estadounidense a entregar rutas de tráfico de estupefaciente a cambio de recursos y apoyo político. gonzález urrutia llegó a madrid en septiembre y luego de hacer público el reconocimiento de su derrota. sin embargo, en noviembre, tres meses después de la contienda electoral, el secretario de estado de estados unidos, antony blinken, reconoció al personaje como presidente de venezuela y desde entonces se a iniciado una campaña mediática y diplomática internacional para su instauración de facto en la presidencia de venezuela.",
+    "tokens": [
+      "entrevista",
+      "diario",
+      "español",
+      "país",
+      ",",
+      "opositor",
+      "venezolano",
+      "edmundo",
+      "gonzález",
+      "aseguró",
+      "regresará",
+      "venezuela",
+      "próximo",
+      "10",
+      "enero",
+      ".",
+      "fecha",
+      "prevé",
+      "juramentación",
+      "nicolás",
+      "maduro",
+      "presidente",
+      "reelecto",
+      "período",
+      "2025-2031",
+      ".",
+      "“",
+      "salí",
+      "venezuela",
+      "manera",
+      "temporal",
+      ",",
+      "sabía",
+      "iba",
+      "regresar",
+      "cualquier",
+      "momento",
+      "momento",
+      "10",
+      "enero",
+      ",",
+      "fecha",
+      "toma",
+      "posesión",
+      "”",
+      ",",
+      "dijo",
+      "gonzález",
+      ",",
+      "narrativa",
+      "utilizada",
+      "anteriormente",
+      "juan",
+      "guaidó",
+      ",",
+      "autoproclamó",
+      "presidente",
+      "encargado",
+      "nación",
+      "bolivariana",
+      "año",
+      "2019.",
+      "candidato",
+      "derrotado",
+      "afirma",
+      "presidente",
+      "venezuela",
+      "pese",
+      "pueblo",
+      "determinó",
+      "contrario",
+      ".",
+      "“",
+      "quiero",
+      "entrar",
+      ".",
+      "objetivo",
+      "tomar",
+      "posesión",
+      "cargo",
+      ",",
+      "ahí",
+      "adelante",
+      ",",
+      "tomar",
+      "decisiones",
+      "tomar",
+      ";",
+      ",",
+      "designación",
+      "equipo",
+      "gobierno",
+      "”",
+      ",",
+      "mencionó",
+      "españa",
+      "firmó",
+      "puño",
+      "letra",
+      "reconocimiento",
+      "resultados",
+      "electorales",
+      "instituciones",
+      "venezuela",
+      ".",
+      "pregunta",
+      "diario",
+      "español",
+      "si",
+      "presidiría",
+      "gobierno",
+      "exilio",
+      ",",
+      "respondió",
+      ":",
+      "“",
+      ",",
+      "no…",
+      "claro",
+      ":",
+      "voy",
+      "venezuela",
+      "”",
+      ".",
+      "además",
+      "aseguró",
+      "incluirá",
+      "maría",
+      "corina",
+      "machado",
+      "vicepresidenta",
+      "ejecutiva",
+      ".",
+      ",",
+      "pocos",
+      "días",
+      "revelara",
+      "trama",
+      "participaron",
+      "propia",
+      "machado",
+      ",",
+      "redes",
+      "narcotráfico",
+      "internacional",
+      "administración",
+      "control",
+      "drogas",
+      "unidos",
+      "(",
+      "dea",
+      ")",
+      ".",
+      "según",
+      "investigaciones",
+      ",",
+      "dirigente",
+      "extrema",
+      "derecha",
+      "comprometió",
+      "agencia",
+      "estadounidense",
+      "entregar",
+      "rutas",
+      "tráfico",
+      "estupefaciente",
+      "cambio",
+      "recursos",
+      "apoyo",
+      "político",
+      ".",
+      "gonzález",
+      "urrutia",
+      "llegó",
+      "madrid",
+      "septiembre",
+      "luego",
+      "hacer",
+      "público",
+      "reconocimiento",
+      "derrota",
+      ".",
+      "embargo",
+      ",",
+      "noviembre",
+      ",",
+      "tres",
+      "meses",
+      "después",
+      "contienda",
+      "electoral",
+      ",",
+      "secretario",
+      "unidos",
+      ",",
+      "antony",
+      "blinken",
+      ",",
+      "reconoció",
+      "personaje",
+      "presidente",
+      "venezuela",
+      "entonces",
+      "iniciado",
+      "campaña",
+      "mediática",
+      "diplomática",
+      "internacional",
+      "instauración",
+      "facto",
+      "presidencia",
+      "venezuela",
+      "."
+    ],
+    "token_count": 213,
+    "sentence_count": 12
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 49,
+      "JJ": 25,
+      "NN": 97,
+      "FW": 115,
+      "VBZ": 4,
+      "CD": 3,
+      "IN": 9,
+      "JJR": 1,
+      "VBD": 2,
+      "MD": 1,
+      "VB": 1,
+      "NNS": 4,
+      "VBP": 3,
+      "DT": 1
+    },
+    "bigram_freq": {
+      "NNP-JJ": 3,
+      "JJ-NN": 14,
+      "NN-NN": 59,
+      "NN-NNP": 9,
+      "NNP-NNP": 14,
+      "NNP-FW": 13,
+      "FW-NN": 8,
+      "NNP-NN": 14,
+      "NNP-VBZ": 2,
+      "VBZ-FW": 3,
+      "FW-JJ": 11,
+      "JJ-CD": 1,
+      "CD-IN": 2,
+      "IN-FW": 8,
+      "FW-NNP": 21,
+      "FW-FW": 73,
+      "NN-FW": 13,
+      "NN-JJ": 4,
+      "JJ-JJ": 3,
+      "JJ-NNP": 2,
+      "NN-IN": 7,
+      "IN-JJR": 1,
+      "JJR-NN": 1,
+      "NN-VBD": 1,
+      "VBD-CD": 1,
+      "JJ-FW": 4,
+      "NN-CD": 1,
+      "CD-NNP": 1,
+      "NNP-MD": 1,
+      "MD-VB": 1,
+      "VB-NN": 1,
+      "FW-NNS": 2,
+      "NNS-VBP": 2,
+      "VBP-JJ": 3,
+      "NN-VBZ": 1,
+      "VBZ-DT": 1,
+      "DT-JJ": 1,
+      "NNS-FW": 1,
+      "NNP-VBD": 1,
+      "VBD-NNP": 1,
+      "JJ-NNS": 1,
+      "NNS-VBZ": 1,
+      "NN-NNS": 1,
+      "NN-VBP": 1
+    },
+    "trigram_freq": {
+      "NNP-JJ-NN": 2,
+      "JJ-NN-NN": 10,
+      "NN-NN-NN": 34,
+      "NN-NN-NNP": 7,
+      "NN-NNP-NNP": 4,
+      "NNP-NNP-FW": 3,
+      "NNP-FW-NN": 3,
+      "FW-NN-NN": 3,
+      "NNP-NNP-NN": 6,
+      "NNP-NN-NN": 10,
+      "NN-NNP-VBZ": 2,
+      "NNP-VBZ-FW": 2,
+      "VBZ-FW-JJ": 1,
+      "FW-JJ-CD": 1,
+      "JJ-CD-IN": 1,
+      "CD-IN-FW": 2,
+      "IN-FW-NNP": 2,
+      "FW-NNP-FW": 9,
+      "NNP-FW-FW": 3,
+      "FW-FW-JJ": 6,
+      "FW-JJ-NN": 5,
+      "NN-NN-FW": 9,
+      "NN-FW-FW": 6,
+      "FW-FW-FW": 55,
+      "FW-FW-NNP": 7,
+      "FW-NNP-NNP": 5,
+      "NN-NN-JJ": 3,
+      "NN-JJ-JJ": 1,
+      "JJ-JJ-JJ": 1,
+      "JJ-JJ-NNP": 1,
+      "JJ-NNP-NN": 1,
+      "NNP-NN-FW": 2,
+      "NN-FW-NNP": 5,
+      "NN-NN-IN": 3,
+      "NN-IN-JJR": 1,
+      "IN-JJR-NN": 1,
+      "JJR-NN-NN": 1,
+      "NN-NN-VBD": 1,
+      "NN-VBD-CD": 1,
+      "VBD-CD-IN": 1,
+      "IN-FW-FW": 4,
+      "NNP-FW-JJ": 1,
+      "FW-JJ-FW": 4,
+      "JJ-FW-FW": 2,
+      "FW-FW-NN": 4,
+      "FW-NN-CD": 1,
+      "NN-CD-NNP": 1,
+      "CD-NNP-NN": 1,
+      "NN-JJ-NN": 3,
+      "JJ-NN-FW": 1,
+      "FW-NNP-JJ": 2,
+      "NN-NNP-NN": 3,
+      "NN-IN-FW": 6,
+      "FW-NNP-MD": 1,
+      "NNP-MD-VB": 1,
+      "MD-VB-NN": 1,
+      "VB-NN-NN": 1,
+      "NN-FW-NN": 1,
+      "FW-NN-IN": 2,
+      "FW-FW-NNS": 1,
+      "FW-NNS-VBP": 1,
+      "NNS-VBP-JJ": 2,
+      "VBP-JJ-NN": 2,
+      "FW-NNP-NN": 3,
+      "IN-FW-JJ": 2,
+      "NNP-NNP-NNP": 4,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-DT": 1,
+      "VBZ-DT-JJ": 1,
+      "DT-JJ-NN": 1,
+      "JJ-NN-IN": 2,
+      "JJ-NN-NNP": 1,
+      "NNP-NN-NNP": 1,
+      "FW-NN-JJ": 1,
+      "VBZ-FW-FW": 2,
+      "JJ-FW-NNP": 2,
+      "NNP-FW-NNP": 5,
+      "NNP-FW-NNS": 1,
+      "FW-NNS-FW": 1,
+      "NNS-FW-FW": 1,
+      "FW-NN-FW": 1,
+      "NNP-NNP-VBD": 1,
+      "NNP-VBD-NNP": 1,
+      "VBD-NNP-FW": 1,
+      "NN-FW-JJ": 1,
+      "FW-JJ-NNS": 1,
+      "JJ-NNS-VBZ": 1,
+      "NNS-VBZ-FW": 1,
+      "NNP-JJ-NNP": 1,
+      "JJ-NNP-NNP": 1,
+      "NNP-NN-NNS": 1,
+      "NN-NNS-VBP": 1,
+      "VBP-JJ-JJ": 1,
+      "JJ-JJ-NN": 1,
+      "NN-NN-VBP": 1,
+      "NN-VBP-JJ": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "FW": 115,
+        "NN": 97,
+        "NNP": 49,
+        "JJ": 25,
+        "IN": 9
+      },
+      "top_bigrams": {
+        "FW-FW": 73,
+        "NN-NN": 59,
+        "FW-NNP": 21,
+        "JJ-NN": 14,
+        "NNP-NNP": 14
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 55,
+        "NN-NN-NN": 34,
+        "JJ-NN-NN": 10,
+        "NNP-NN-NN": 10,
+        "FW-NNP-FW": 9
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 12,
+    "chunk_counts": {
+      "NP": 77,
+      "VP": 16,
+      "ADJP": 8,
+      "PP": 3
+    },
+    "top_rules": [
+      {
+        "rule": "NP -> ('Venezuela', 'NNP')",
+        "frequency": 5,
+        "weight": 0.0431
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0172
+      },
+      {
+        "rule": "S -> NP NP (',', ',') NP VP VP ('del', 'FW') ADJP ('10', 'CD') PP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0086
+      },
+      {
+        "rule": "NP -> ('En', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0086
+      },
+      {
+        "rule": "NP -> ('una', 'JJ') ('entrevista', 'NN') ('con', 'NN') ('el', 'NN') ('diario', 'NN') ('español', 'NN') ('El', 'NNP') ('País', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0086
+      },
+      {
+        "rule": "NP -> ('el', 'NN') ('opositor', 'NN') ('venezolano', 'NN') ('Edmundo', 'NNP') ('González', 'NNP') ('aseguró', 'NN') ('que', 'NN')",
+        "frequency": 1,
+        "weight": 0.0086
+      },
+      {
+        "rule": "VP -> ('regresará', 'VBZ') NP",
+        "frequency": 1,
+        "weight": 0.0086
+      },
+      {
+        "rule": "NP -> ('a', 'DT') ('Venezuela', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0086
+      },
+      {
+        "rule": "VP -> ('antes', 'VBZ')",
+        "frequency": 1,
+        "weight": 0.0086
+      },
+      {
+        "rule": "ADJP -> ('próximo', 'JJ')",
+        "frequency": 1,
+        "weight": 0.0086
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "En"
+      },
+      {
+        "label": "NP",
+        "text": "una entrevista con el diario español El País"
+      },
+      {
+        "label": "NP",
+        "text": "el opositor venezolano Edmundo González aseguró que"
+      },
+      {
+        "label": "VP",
+        "text": "regresará a Venezuela"
+      },
+      {
+        "label": "NP",
+        "text": "a Venezuela"
+      },
+      {
+        "label": "VP",
+        "text": "antes"
+      },
+      {
+        "label": "ADJP",
+        "text": "próximo"
+      },
+      {
+        "label": "PP",
+        "text": "de enero"
+      },
+      {
+        "label": "NP",
+        "text": "enero"
+      },
+      {
+        "label": "NP",
+        "text": "Fecha"
+      },
+      {
+        "label": "NP",
+        "text": "cual se prevé"
+      },
+      {
+        "label": "NP",
+        "text": "Nicolás Maduro como presidente reelecto para"
+      },
+      {
+        "label": "ADJP",
+        "text": "el"
+      },
+      {
+        "label": "ADJP",
+        "text": "período"
+      },
+      {
+        "label": "ADJP",
+        "text": "2025-2031"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP En/NNP)\n  (NP\n    una/JJ\n    entrevista/NN\n    con/NN\n    el/NN\n    diario/NN\n    español/NN\n    El/NNP\n    País/NNP)\n  ,/,\n  (NP\n    el/NN\n    opositor/NN\n    venezolano/NN\n    Edmundo/NNP\n    González/NNP\n    aseguró/NN\n    que/NN)\n  (VP regresará/VBZ (NP a/DT Venezuela/NNP))\n  (VP antes/VBZ)\n  del/FW\n  (ADJP próximo/JJ)\n  10/CD\n  (PP de/IN (NP enero/NN))\n  ./.)",
+      "(S\n  (NP Fecha/NNP)\n  en/CC\n  la/FW\n  (NP cual/JJ se/NN prevé/NN)\n  la/FW\n  juramentación/FW\n  de/FW\n  (NP\n    Nicolás/NNP\n    Maduro/NNP\n    como/NN\n    presidente/NN\n    reelecto/NN\n    para/NN)\n  (ADJP el/JJ)\n  (ADJP período/JJ)\n  (ADJP 2025-2031/JJ)\n  ./.)",
+      "(S\n  (NP “/JJ Yo/NNP salí/NN)\n  de/FW\n  (NP Venezuela/NNP)\n  de/FW\n  manera/FW\n  (ADJP temporal/JJ)\n  ,/,\n  (NP sabía/JJ que/NN)\n  (VP iba/VBZ (NP a/DT regresar/NN))\n  (PP\n    en/IN\n    (NP cualquier/JJR momento/NN y/NN el/NN momento/NN es/NN))\n  (VP el/VBD)\n  10/CD\n  de/FW\n  enero/FW\n  ,/,\n  fecha/FW\n  de/FW\n  la/FW\n  toma/FW\n  de/FW\n  posesión/FW\n  ”/FW\n  ,/,\n  dijo/FW\n  (NP González/NNP)\n  ,/,\n  en/FW\n  (ADJP una/JJ)\n  narrativa/FW\n  ya/FW\n  (NP utilizada/JJ anteriormente/NN por/NN Juan/NNP Guaidó/NNP)\n  ,/,\n  (NP quien/NN se/NN autoproclamó/NN presidente/NN)\n  encargado/FW\n  de/FW\n  la/FW\n  nación/FW\n  bolivariana/FW\n  en/FW\n  el/FW\n  (NP año/NN)\n  2019/CD\n  ./.)",
+      "(S\n  (NP El/NNP candidato/NN derrotado/NN afirma/NN que/NN)\n  (NP será/JJ presidente/NN)\n  de/FW\n  (NP Venezuela/NNP)\n  (VP\n    pese/VBZ\n    (NP a/DT que/NN el/NN pueblo/NN determinó/NN lo/NN contrario/NN))\n  ./.)",
+      "(S\n  (ADJP “/JJ)\n  (NP No/DT quiero/NN)\n  (VP entrar/VBZ (NP en/JJ eso/NN))\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "FECHAS_HORAS",
+      "CIUDADES_CAPITALES",
+      "GOBIERNOS_OFICIALES",
+      "GRUPOS_ESPECIFICOS",
+      "ANTIIMPERIALISMO_SOBERANIA",
+      "MEDIOS_COMUNICACION",
+      "REGIONES_PROVINCIAS",
+      "PERIODOS_TEMPORALES",
+      "PAISES",
+      "FECHAS_ESPECIFICAS"
+    ],
+    "matches": [
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente reelecto para",
+        "position": [
+          221,
+          245
+        ],
+        "start": 221,
+        "end": 245
+      },
+      {
+        "category": "GRUPOS_ESPECIFICOS",
+        "matched_text": "extrema derecha",
+        "position": [
+          1492,
+          1507
+        ],
+        "start": 1492,
+        "end": 1507
+      },
+      {
+        "category": "MEDIOS_COMUNICACION",
+        "matched_text": "diario español el",
+        "position": [
+          26,
+          43
+        ],
+        "start": 26,
+        "end": 43
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "españa",
+        "position": [
+          885,
+          891
+        ],
+        "start": 885,
+        "end": 891
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "venezuela",
+        "position": [
+          114,
+          123
+        ],
+        "start": 114,
+        "end": 123
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "estados unidos",
+        "position": [
+          1427,
+          1441
+        ],
+        "start": 1427,
+        "end": 1441
+      },
+      {
+        "category": "CIUDADES_CAPITALES",
+        "matched_text": "madrid",
+        "position": [
+          1664,
+          1670
+        ],
+        "start": 1664,
+        "end": 1670
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "estado de",
+        "position": [
+          1833,
+          1842
+        ],
+        "start": 1833,
+        "end": 1842
+      },
+      {
+        "category": "FECHAS_ESPECIFICAS",
+        "matched_text": "año 2019",
+        "position": [
+          569,
+          577
+        ],
+        "start": 569,
+        "end": 577
+      },
+      {
+        "category": "PERIODOS_TEMPORALES",
+        "matched_text": "en el año",
+        "position": [
+          563,
+          572
+        ],
+        "start": 563,
+        "end": 572
+      },
+      {
+        "category": "ANTIIMPERIALISMO_SOBERANIA",
+        "matched_text": "embargo",
+        "position": [
+          1747,
+          1754
+        ],
+        "start": 1747,
+        "end": 1754
+      },
+      {
+        "category": "FECHAS_HORAS",
+        "matched_text": "en el año 2019",
+        "position": [
+          563,
+          577
+        ],
+        "start": 563,
+        "end": 577
+      }
+    ],
+    "match_count": 12
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Nicolás Maduro",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Venezuela",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "DEA",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "España",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Juan Guaidó",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Machado",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Administración de Control de Drogas de Estados Unidos",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "María Corina Machado",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Madrid",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Secretario de Estado de Estados unidos",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "González",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "González Urrutia",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Antony Blinken",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Edmundo González",
+        "tipo": "Persona"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Edmundo González",
+        "relacion": "ASEGURAR",
+        "objeto": "Venezuela"
+      },
+      {
+        "sujeto": "González",
+        "relacion": "SALIR_DECIR",
+        "objeto": "Venezuela"
+      },
+      {
+        "sujeto": "Venezuela",
+        "relacion": "SALIR_DECIR",
+        "objeto": "Juan Guaidó"
+      },
+      {
+        "sujeto": "González",
+        "relacion": "DECIR",
+        "objeto": "Juan Guaidó"
+      },
+      {
+        "sujeto": "González Urrutia",
+        "relacion": "LLEGAR",
+        "objeto": "Madrid"
+      },
+      {
+        "sujeto": "Secretario de Estado de Estados unidos",
+        "relacion": "ES",
+        "objeto": "Antony Blinken"
+      },
+      {
+        "sujeto": "Secretario de Estado de Estados unidos",
+        "relacion": "RECONOCER",
+        "objeto": "Venezuela"
+      },
+      {
+        "sujeto": "Antony Blinken",
+        "relacion": "RECONOCER",
+        "objeto": "Venezuela"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.7003,
+    "pos": 0.0,
+    "neu": 0.982,
+    "neg": 0.018,
+    "label": "negative"
+  }
+}

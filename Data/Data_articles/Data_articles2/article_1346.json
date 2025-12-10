@@ -1,0 +1,656 @@
+{
+  "url": "https://www.telesurtv.net/ucrania-realiza-dos-nuevos-ataques-contra-infraestructura-energetica-rusa/",
+  "title": "Ucrania realiza dos nuevos ataques contra infraestructura energética rusa - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "ataques",
+    "bombardeos",
+    "Estructuras energéticas",
+    "Rusia",
+    "Ucrania"
+  ],
+  "text": "El Ministerio de Defensa de Rusia informó este martes que las Fuerzas Armadas de Ucrania han atacado instalaciones de infraestructura energética rusa en dos ocasiones durante las últimas 24 horas. Estos ataques, realizados con drones, provocaron cortes de electricidad en varias localidades.\nLEA TAMBIÉN:China y Rusia rechazan revisionismo histórico sobre la Segunda Guerra Mundial\nEstos ataques se producen a pesar de un acuerdo de alto el fuego de 30 días en ataques a infraestructuras energéticas, alcanzado el pasado 18 de marzo tras una conversación telefónica entre el presidente ruso, Vladímir Putin, y su homólogo estadounidense, Donald Trump.\nCabe señalar que, el presidente ucraniano, Vladímir Zelenski, expresó públicamente su apoyo al cese de fuego, sin embargo los ataques a la infraestructura energética rusa, continúan .\nEl comunicado del Ministerio de Defensa ruso subraya que, a pesar de las declaraciones de apoyo a una solución gradual del conflicto, Ucrania continúa atacando unilateralmente las instalaciones energéticas rusas.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/ucrania-realiza-dos-nuevos-ataques-contra-infraestructura-energetica-rusa/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-04.json",
+    "message_index": 2034,
+    "message_id": 90761,
+    "date": "2025-04-01T13:55:12+00:00",
+    "text": "teleSUR\nUcrania realiza dos nuevos ataques contra infraestructura energética rusa\nhttps://www.telesurtv.net/ucrania-realiza-dos-nuevos-ataques-contra-infraestructura-energetica-rusa/",
+    "photo_path": null,
+    "views": 2173,
+    "reactions": {
+      "🤬": 42,
+      "💩": 4,
+      "❤": 1,
+      "👍": 1,
+      "👏": 1,
+      "😈": 1
+    },
+    "total_reactions": 50
+  },
+  "preprocessing": {
+    "cleaned": "el ministerio de defensa de rusia informó este martes que las fuerzas armadas de ucrania han atacado instalaciones de infraestructura energética rusa en dos ocasiones durante las últimas 24 horas. estos ataques, realizados con drones, provocaron cortes de electricidad en varias localidades. estos ataques se producen a pesar de un acuerdo de alto el fuego de 30 días en ataques a infraestructuras energéticas, alcanzado el pasado 18 de marzo tras una conversación telefónica entre el presidente ruso, vladímir putin, y su homólogo estadounidense, donald trump. cabe señalar que, el presidente ucraniano, vladímir zelenski, expresó públicamente su apoyo al cese de fuego, sin embargo los ataques a la infraestructura energética rusa, continúan . el comunicado del ministerio de defensa ruso subraya que, a pesar de las declaraciones de apoyo a una solución gradual del conflicto, ucrania continúa atacando unilateralmente las instalaciones energéticas rusas.",
+    "tokens": [
+      "ministerio",
+      "defensa",
+      "rusia",
+      "informó",
+      "martes",
+      "fuerzas",
+      "armadas",
+      "ucrania",
+      "atacado",
+      "instalaciones",
+      "infraestructura",
+      "energética",
+      "rusa",
+      "dos",
+      "ocasiones",
+      "últimas",
+      "24",
+      "horas",
+      ".",
+      "ataques",
+      ",",
+      "realizados",
+      "drones",
+      ",",
+      "provocaron",
+      "cortes",
+      "electricidad",
+      "varias",
+      "localidades",
+      ".",
+      "ataques",
+      "producen",
+      "pesar",
+      "acuerdo",
+      "alto",
+      "fuego",
+      "30",
+      "días",
+      "ataques",
+      "infraestructuras",
+      "energéticas",
+      ",",
+      "alcanzado",
+      "pasado",
+      "18",
+      "marzo",
+      "tras",
+      "conversación",
+      "telefónica",
+      "presidente",
+      "ruso",
+      ",",
+      "vladímir",
+      "putin",
+      ",",
+      "homólogo",
+      "estadounidense",
+      ",",
+      "donald",
+      "trump",
+      ".",
+      "cabe",
+      "señalar",
+      ",",
+      "presidente",
+      "ucraniano",
+      ",",
+      "vladímir",
+      "zelenski",
+      ",",
+      "expresó",
+      "públicamente",
+      "apoyo",
+      "cese",
+      "fuego",
+      ",",
+      "embargo",
+      "ataques",
+      "infraestructura",
+      "energética",
+      "rusa",
+      ",",
+      "continúan",
+      ".",
+      "comunicado",
+      "ministerio",
+      "defensa",
+      "ruso",
+      "subraya",
+      ",",
+      "pesar",
+      "declaraciones",
+      "apoyo",
+      "solución",
+      "gradual",
+      "conflicto",
+      ",",
+      "ucrania",
+      "continúa",
+      "atacando",
+      "unilateralmente",
+      "instalaciones",
+      "energéticas",
+      "rusas",
+      "."
+    ],
+    "token_count": 105,
+    "sentence_count": 5
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 27,
+      "IN": 12,
+      "FW": 14,
+      "NN": 46,
+      "VBZ": 4,
+      "JJ": 16,
+      "NNS": 15,
+      "VBP": 7,
+      "$": 1,
+      "CD": 3,
+      "VB": 1,
+      "VBD": 1
+    },
+    "bigram_freq": {
+      "NNP-NNP": 12,
+      "NNP-IN": 3,
+      "IN-NNP": 3,
+      "NNP-FW": 1,
+      "FW-NNP": 2,
+      "NNP-NN": 7,
+      "NN-NN": 25,
+      "NN-VBZ": 1,
+      "VBZ-JJ": 2,
+      "JJ-NNS": 5,
+      "NNS-NNP": 2,
+      "NN-NNS": 2,
+      "NNS-IN": 3,
+      "IN-NN": 1,
+      "NN-IN": 5,
+      "IN-JJ": 2,
+      "NNS-VBP": 6,
+      "VBP-NNS": 2,
+      "NNS-$": 1,
+      "$-CD": 1,
+      "CD-NNS": 2,
+      "NNP-VBZ": 3,
+      "VBZ-VB": 1,
+      "VB-JJ": 1,
+      "IN-FW": 5,
+      "FW-FW": 5,
+      "NN-NNP": 6,
+      "VBZ-FW": 1,
+      "FW-JJ": 2,
+      "JJ-NN": 8,
+      "FW-NN": 2,
+      "IN-CD": 1,
+      "NNS-FW": 1,
+      "FW-NNS": 3,
+      "VBP-JJ": 2,
+      "NN-VBD": 1,
+      "VBD-CD": 1,
+      "CD-IN": 1,
+      "NNS-JJ": 1,
+      "NN-VBP": 1,
+      "VBP-NN": 3,
+      "NNP-JJ": 1,
+      "NN-JJ": 4,
+      "JJ-NNP": 1,
+      "JJ-JJ": 1,
+      "JJ-FW": 1,
+      "NNS-NNS": 1
+    },
+    "trigram_freq": {
+      "NNP-NNP-IN": 2,
+      "NNP-IN-NNP": 3,
+      "IN-NNP-FW": 1,
+      "NNP-FW-NNP": 1,
+      "FW-NNP-NN": 1,
+      "NNP-NN-NN": 7,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-JJ": 1,
+      "VBZ-JJ-NNS": 2,
+      "JJ-NNS-NNP": 1,
+      "NNS-NNP-NNP": 1,
+      "IN-NNP-NN": 2,
+      "NN-NN-NNS": 2,
+      "NN-NNS-IN": 1,
+      "NNS-IN-NN": 1,
+      "IN-NN-NN": 1,
+      "NN-NN-NN": 10,
+      "NN-NN-IN": 1,
+      "NN-IN-JJ": 2,
+      "IN-JJ-NNS": 1,
+      "JJ-NNS-VBP": 3,
+      "NNS-VBP-NNS": 2,
+      "VBP-NNS-$": 1,
+      "NNS-$-CD": 1,
+      "$-CD-NNS": 1,
+      "CD-NNS-NNP": 1,
+      "NNS-NNP-VBZ": 1,
+      "NNP-VBZ-VB": 1,
+      "VBZ-VB-JJ": 1,
+      "VB-JJ-NNS": 1,
+      "VBP-NNS-IN": 1,
+      "NNS-IN-FW": 2,
+      "IN-FW-FW": 2,
+      "FW-FW-FW": 2,
+      "FW-FW-NNP": 1,
+      "FW-NNP-NNP": 1,
+      "NNP-NNP-NNP": 5,
+      "NNP-NNP-NN": 2,
+      "NN-NN-NNP": 6,
+      "NN-NNP-NNP": 3,
+      "NNP-NNP-VBZ": 2,
+      "NNP-VBZ-FW": 1,
+      "VBZ-FW-JJ": 1,
+      "FW-JJ-NN": 2,
+      "JJ-NN-IN": 3,
+      "IN-JJ-NN": 1,
+      "NN-IN-FW": 2,
+      "FW-FW-NN": 2,
+      "FW-NN-IN": 1,
+      "NN-IN-CD": 1,
+      "IN-CD-NNS": 1,
+      "CD-NNS-FW": 1,
+      "NNS-FW-NNS": 1,
+      "FW-NNS-VBP": 1,
+      "NNS-VBP-JJ": 2,
+      "VBP-JJ-NN": 1,
+      "JJ-NN-NN": 4,
+      "NN-NN-VBD": 1,
+      "NN-VBD-CD": 1,
+      "VBD-CD-IN": 1,
+      "CD-IN-FW": 1,
+      "IN-FW-NNS": 2,
+      "FW-NNS-JJ": 1,
+      "NNS-JJ-NN": 1,
+      "NN-NN-VBP": 1,
+      "NN-VBP-NN": 1,
+      "VBP-NN-NN": 2,
+      "NNP-NNP-JJ": 1,
+      "NNP-JJ-NN": 1,
+      "NN-NN-JJ": 3,
+      "NN-JJ-NNP": 1,
+      "JJ-NNP-NNP": 1,
+      "NNP-VBZ-JJ": 1,
+      "VBP-JJ-JJ": 1,
+      "JJ-JJ-FW": 1,
+      "JJ-FW-FW": 1,
+      "FW-NN-NN": 1,
+      "NN-NNS-VBP": 1,
+      "NNS-VBP-NN": 2,
+      "NN-NNP-NN": 2,
+      "NN-NNP-IN": 1,
+      "NN-JJ-NN": 2,
+      "FW-NNS-IN": 1,
+      "IN-FW-JJ": 1,
+      "JJ-NN-JJ": 1,
+      "NN-JJ-NNS": 1,
+      "JJ-NNS-NNS": 1,
+      "NNS-NNS-VBP": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 46,
+        "NNP": 27,
+        "JJ": 16,
+        "NNS": 15,
+        "FW": 14
+      },
+      "top_bigrams": {
+        "NN-NN": 25,
+        "NNP-NNP": 12,
+        "JJ-NN": 8,
+        "NNP-NN": 7,
+        "NNS-VBP": 6
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 10,
+        "NNP-NN-NN": 7,
+        "NN-NN-NNP": 6,
+        "NNP-NNP-NNP": 5,
+        "JJ-NN-NN": 4
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 5,
+    "chunk_counts": {
+      "NP": 47,
+      "PP": 6,
+      "VP": 14
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 5,
+        "weight": 0.0694
+      },
+      {
+        "rule": "NP -> ('a', 'DT') ('pesar', 'NN')",
+        "frequency": 2,
+        "weight": 0.0278
+      },
+      {
+        "rule": "NP -> ('fuego', 'NN')",
+        "frequency": 2,
+        "weight": 0.0278
+      },
+      {
+        "rule": "VP -> ('ataques', 'VBZ') NP",
+        "frequency": 2,
+        "weight": 0.0278
+      },
+      {
+        "rule": "S -> NP PP ('de', 'FW') NP VP PP PP PP VP ('últimas', '$') ('24', 'CD') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0139
+      },
+      {
+        "rule": "NP -> ('El', 'NNP') ('Ministerio', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0139
+      },
+      {
+        "rule": "NP -> ('Defensa', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0139
+      },
+      {
+        "rule": "NP -> ('Rusia', 'NNP') ('informó', 'NN') ('este', 'NN')",
+        "frequency": 1,
+        "weight": 0.0139
+      },
+      {
+        "rule": "VP -> ('martes', 'VBZ') NP",
+        "frequency": 1,
+        "weight": 0.0139
+      },
+      {
+        "rule": "NP -> ('que', 'JJ') ('las', 'NNS') ('Fuerzas', 'NNP') ('Armadas', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0139
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El Ministerio"
+      },
+      {
+        "label": "PP",
+        "text": "de Defensa"
+      },
+      {
+        "label": "NP",
+        "text": "Defensa"
+      },
+      {
+        "label": "NP",
+        "text": "Rusia informó este"
+      },
+      {
+        "label": "VP",
+        "text": "martes que las Fuerzas Armadas"
+      },
+      {
+        "label": "NP",
+        "text": "que las Fuerzas Armadas"
+      },
+      {
+        "label": "PP",
+        "text": "de Ucrania han atacado instalaciones"
+      },
+      {
+        "label": "NP",
+        "text": "Ucrania han atacado instalaciones"
+      },
+      {
+        "label": "PP",
+        "text": "de infraestructura energética rusa"
+      },
+      {
+        "label": "NP",
+        "text": "infraestructura energética rusa"
+      },
+      {
+        "label": "PP",
+        "text": "en dos ocasiones"
+      },
+      {
+        "label": "NP",
+        "text": "dos ocasiones"
+      },
+      {
+        "label": "VP",
+        "text": "durante las"
+      },
+      {
+        "label": "NP",
+        "text": "las"
+      },
+      {
+        "label": "NP",
+        "text": "horas"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP El/NNP Ministerio/NNP)\n  (PP de/IN (NP Defensa/NNP))\n  de/FW\n  (NP Rusia/NNP informó/NN este/NN)\n  (VP martes/VBZ (NP que/JJ las/NNS Fuerzas/NNP Armadas/NNP))\n  (PP de/IN (NP Ucrania/NNP han/NN atacado/NN instalaciones/NNS))\n  (PP de/IN (NP infraestructura/NN energética/NN rusa/NN))\n  (PP en/IN (NP dos/JJ ocasiones/NNS))\n  (VP durante/VBP (NP las/NNS))\n  últimas/$\n  24/CD\n  (NP horas/NN)\n  ./.)",
+      "(S\n  (NP Estos/NNP ataques/NNS)\n  ,/,\n  (NP realizados/JJ con/NN drones/NNS)\n  ,/,\n  (NP provocaron/NN cortes/NNS)\n  de/IN\n  electricidad/FW\n  en/FW\n  varias/FW\n  (NP localidades/NNS)\n  ./.)",
+      "(S\n  (NP LEA/NNP TAMBIÉN/NNP)\n  :/:\n  (NP China/NNP)\n  y/CC\n  (NP Rusia/NNP)\n  (VP\n    rechazan/VBP\n    (NP\n      revisionismo/NN\n      histórico/NN\n      sobre/NN\n      la/NN\n      Segunda/NNP\n      Guerra/NNP\n      Mundial/NNP\n      Estos/NNP))\n  (VP ataques/VBZ)\n  se/FW\n  (VP producen/VB (NP a/DT pesar/NN))\n  (PP de/IN (NP un/JJ acuerdo/NN))\n  de/IN\n  alto/FW\n  el/FW\n  (NP fuego/NN)\n  de/IN\n  30/CD\n  (NP días/NNS)\n  en/FW\n  (VP ataques/VBZ (NP a/DT infraestructuras/JJ energéticas/NN))\n  ,/,\n  (NP alcanzado/JJ el/NN)\n  (VP pasado/VBD)\n  18/CD\n  de/IN\n  marzo/FW\n  (NP tras/NNS)\n  (NP una/JJ conversación/NN telefónica/NN)\n  (VP entre/VBP (NP el/NN presidente/NN ruso/NN))\n  ,/,\n  (NP Vladímir/NNP Putin/NNP)\n  ,/,\n  (NP y/NNP)\n  (VP su/VBD (NP homólogo/JJ estadounidense/NN))\n  ,/,\n  (NP Donald/NNP Trump/NNP)\n  ./.)",
+      "(S\n  (NP Cabe/NNP)\n  (NP señalar/JJ que/NN)\n  ,/,\n  el/FW\n  (NP presidente/NN ucraniano/NN)\n  ,/,\n  (NP Vladímir/NNP Zelenski/NNP)\n  ,/,\n  (VP expresó/VBZ (NP públicamente/JJ su/NNS))\n  (VP apoyo/VBP al/JJ cese/JJ)\n  de/FW\n  (NP fuego/NN)\n  ,/,\n  (NP sin/NN embargo/NN los/NN)\n  (VP\n    ataques/VBZ\n    (NP a/DT la/NN infraestructura/NN energética/NN rusa/NN))\n  ,/,\n  (NP continúan/NN)\n  ./.)",
+      "(S\n  (NP El/NNP comunicado/NN del/NN Ministerio/NNP)\n  (PP de/IN (NP Defensa/NNP ruso/NN subraya/NN que/NN))\n  ,/,\n  (NP a/DT pesar/NN)\n  de/IN\n  las/FW\n  (NP declaraciones/NNS)\n  de/FW\n  apoyo/FW\n  (NP a/DT una/JJ solución/NN)\n  (NP gradual/JJ del/NN conflicto/NN)\n  ,/,\n  (NP Ucrania/NNP)\n  (VP\n    continúa/VBZ\n    (NP atacando/JJ unilateralmente/JJ las/NNS instalaciones/NNS)\n    energéticas/RB)\n  (VP rusas/VBP)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "GOBIERNOS_OFICIALES",
+      "LEYES_NORMATIVAS",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "ANTIIMPERIALISMO_SOBERANIA",
+      "PAISES",
+      "CONFLICTOS_ARMADOS_OPERACIONES",
+      "RELACIONES_INTERNACIONALES",
+      "INFRAESTRUCTURA_SERVICIOS",
+      "JURIDICO_LEGISLATIVO_CORRUPCION"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "ataques se producen a pesar de un acuerdo de alto el fuego de 30 días en ataques a infraestructuras energéticas, alcanzado el pasado 18 de marzo tras una conversación telefónica entre el presidente ruso",
+        "position": [
+          388,
+          590
+        ],
+        "start": 388,
+        "end": 590
+      },
+      {
+        "category": "RELACIONES_INTERNACIONALES",
+        "matched_text": "acuerdo de alto el fuego de 30 días en ataques a infraestructuras energéticas, alcanzado el pasado 18 de marzo tras una conversación telefónica entre el presidente ruso, vladímir putin, y su",
+        "position": [
+          422,
+          612
+        ],
+        "start": 422,
+        "end": 612
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "presidente ucraniano, vladímir zelenski, expresó públicamente su apoyo",
+        "position": [
+          673,
+          743
+        ],
+        "start": 673,
+        "end": 743
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "expresó",
+        "position": [
+          714,
+          721
+        ],
+        "start": 714,
+        "end": 721
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "informó",
+        "position": [
+          34,
+          41
+        ],
+        "start": 34,
+        "end": 41
+      },
+      {
+        "category": "JURIDICO_LEGISLATIVO_CORRUPCION",
+        "matched_text": "defensa",
+        "position": [
+          17,
+          24
+        ],
+        "start": 17,
+        "end": 24
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente ruso",
+        "position": [
+          575,
+          590
+        ],
+        "start": 575,
+        "end": 590
+      },
+      {
+        "category": "LEYES_NORMATIVAS",
+        "matched_text": "acuerdo de alto el fuego de 30",
+        "position": [
+          422,
+          452
+        ],
+        "start": 422,
+        "end": 452
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "electricidad",
+        "position": [
+          256,
+          268
+        ],
+        "start": 256,
+        "end": 268
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "rusia",
+        "position": [
+          28,
+          33
+        ],
+        "start": 28,
+        "end": 33
+      },
+      {
+        "category": "ANTIIMPERIALISMO_SOBERANIA",
+        "matched_text": "embargo",
+        "position": [
+          766,
+          773
+        ],
+        "start": 766,
+        "end": 773
+      }
+    ],
+    "match_count": 11
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Ministerio de Defensa de Rusia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Rusia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Vladímir Zelenski",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "China",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Ucrania",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Donald Trump",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Fuerzas Armadas de Ucrania",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Ministerio de Defensa ruso",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Vladímir Putin",
+        "tipo": "Persona"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Ministerio de Defensa de Rusia",
+        "relacion": "INFORMAR",
+        "objeto": "Fuerzas Armadas de Ucrania"
+      },
+      {
+        "sujeto": "China",
+        "relacion": "RECHAZAR_PRODUCIR",
+        "objeto": "Vladímir Putin"
+      },
+      {
+        "sujeto": "China",
+        "relacion": "RECHAZAR_PRODUCIR",
+        "objeto": "Donald Trump"
+      },
+      {
+        "sujeto": "Rusia",
+        "relacion": "RECHAZAR_PRODUCIR",
+        "objeto": "Vladímir Putin"
+      },
+      {
+        "sujeto": "Rusia",
+        "relacion": "RECHAZAR_PRODUCIR",
+        "objeto": "Donald Trump"
+      },
+      {
+        "sujeto": "Ucrania",
+        "relacion": "SUBRAYAR",
+        "objeto": "Ministerio de Defensa ruso"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.5574,
+    "pos": 0.0,
+    "neu": 0.976,
+    "neg": 0.024,
+    "label": "negative"
+  }
+}

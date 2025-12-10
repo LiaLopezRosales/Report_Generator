@@ -1,0 +1,821 @@
+{
+  "url": "https://www.telesurtv.net/primer-ministro-frances-ultima-preparativos-de-nuevo-gobierno/",
+  "title": "Primer ministro francés ultima preparativos de nuevo Gobierno - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Emmanuel Macron",
+    "François Bayrou",
+    "Gobierno"
+  ],
+  "text": "Luego de regresar de su viaje por África a primera hora de esta mañana, el presidente de Francia, Emmanuel Macron, sostuvo tres reuniones con el primer ministro de su administración, François Bayrou, con el propósito de completar las propuestas del nuevo Gobierno galo.\nLEA TAMBIÉN\nPresidente de Francia nombra a François Bayrou como nuevo primer ministro\nAunque Bayrou pretende anunciar el gabinete antes de Navidad y se esperaba el comunicado para este domingo, la comitiva del Presidente de la República indicó que la presentación no ocurrirá antes de mañana.\nDe acuerdo con la agencia de noticias EFE, los observadores políticos apostaban por este 22 de diciembre, porque el lunes será jornada de duelo nacional debido a los azotes del ciclón Chido en Mayotte, isla francesa del Índico. En tanto, la televisora francesa BFMTV señala tres puntos que retrasan la nota oficial.\nLa discordia se centra en torno a los futuros ministros de Asuntos Exteriores, de Economía y de Justicia. El retraso de la nominación responde a desacuerdos entre Bayrou y Macron sobre algunos nombres.\nEl mandatario aspira a ubicar un “fiel” al frente de los asuntos económicos y prefiere como canciller a un político de menos peso que el extitular del Interior, Gerald Darmanin. Mientras que el derechista Xavier Bertrand exige una cartera de peso, como el de Justicia, pero tiene el rechazo frontal de la extrema derecha.\nEl resto del cuerpo gubernamental no será muy diferente del actual en funciones, de acuerdo con las informaciones que se han filtrado en medio de la polémica. No obstante, pronostican la entrada de la derecha moderada y algún exmiembro del Partido Socialista.\nEl nuevo jefe de Gobierno no ha logrado integrar a su equipo representantes de los ecologistas ni de las fuerzas progresistas.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/primer-ministro-frances-ultima-preparativos-de-nuevo-gobierno/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-12.json",
+    "message_index": 500,
+    "message_id": 82884,
+    "date": "2024-12-22T19:55:18+00:00",
+    "text": "teleSUR\nPrimer ministro francés ultima preparativos de nuevo Gobierno\nhttps://www.telesurtv.net/primer-ministro-frances-ultima-preparativos-de-nuevo-gobierno/",
+    "photo_path": null,
+    "views": 3098,
+    "reactions": {
+      "💩": 55,
+      "🤣": 11,
+      "👍": 3,
+      "❤": 1,
+      "🤔": 1
+    },
+    "total_reactions": 71
+  },
+  "preprocessing": {
+    "cleaned": "luego de regresar de su viaje por áfrica a primera hora de esta mañana, el presidente de francia, emmanuel macron, sostuvo tres reuniones con el primer ministro de su administración, françois bayrou, con el propósito de completar las propuestas del nuevo gobierno galo. aunque bayrou pretende anunciar el gabinete antes de navidad y se esperaba el comunicado para este domingo, la comitiva del presidente de la república indicó que la presentación no ocurrirá antes de mañana. de acuerdo con la agencia de noticias efe, los observadores políticos apostaban por este 22 de diciembre, porque el lunes será jornada de duelo nacional debido a los azotes del ciclón chido en mayotte, isla francesa del índico. en tanto, la televisora francesa bfmtv señala tres puntos que retrasan la nota oficial. la discordia se centra en torno a los futuros ministros de asuntos exteriores, de economía y de justicia. el retraso de la nominación responde a desacuerdos entre bayrou y macron sobre algunos nombres. el mandatario aspira a ubicar un “fiel” al frente de los asuntos económicos y prefiere como canciller a un político de menos peso que el extitular del interior, gerald darmanin. mientras que el derechista xavier bertrand exige una cartera de peso, como el de justicia, pero tiene el rechazo frontal de la extrema derecha. el resto del cuerpo gubernamental no será muy diferente del actual en funciones, de acuerdo con las informaciones que se han filtrado en medio de la polémica. no obstante, pronostican la entrada de la derecha moderada y algún exmiembro del partido socialista. el nuevo jefe de gobierno no ha logrado integrar a su equipo representantes de los ecologistas ni de las fuerzas progresistas.",
+    "tokens": [
+      "luego",
+      "regresar",
+      "viaje",
+      "áfrica",
+      "primera",
+      "hora",
+      "mañana",
+      ",",
+      "presidente",
+      "francia",
+      ",",
+      "emmanuel",
+      "macron",
+      ",",
+      "sostuvo",
+      "tres",
+      "reuniones",
+      "primer",
+      "ministro",
+      "administración",
+      ",",
+      "françois",
+      "bayrou",
+      ",",
+      "propósito",
+      "completar",
+      "propuestas",
+      "nuevo",
+      "gobierno",
+      "galo",
+      ".",
+      "aunque",
+      "bayrou",
+      "pretende",
+      "anunciar",
+      "gabinete",
+      "navidad",
+      "esperaba",
+      "comunicado",
+      "domingo",
+      ",",
+      "comitiva",
+      "presidente",
+      "república",
+      "indicó",
+      "presentación",
+      "ocurrirá",
+      "mañana",
+      ".",
+      "acuerdo",
+      "agencia",
+      "noticias",
+      "efe",
+      ",",
+      "observadores",
+      "políticos",
+      "apostaban",
+      "22",
+      "diciembre",
+      ",",
+      "lunes",
+      "jornada",
+      "duelo",
+      "nacional",
+      "debido",
+      "azotes",
+      "ciclón",
+      "chido",
+      "mayotte",
+      ",",
+      "isla",
+      "francesa",
+      "índico",
+      ".",
+      ",",
+      "televisora",
+      "francesa",
+      "bfmtv",
+      "señala",
+      "tres",
+      "puntos",
+      "retrasan",
+      "nota",
+      "oficial",
+      ".",
+      "discordia",
+      "centra",
+      "torno",
+      "futuros",
+      "ministros",
+      "asuntos",
+      "exteriores",
+      ",",
+      "economía",
+      "justicia",
+      ".",
+      "retraso",
+      "nominación",
+      "responde",
+      "desacuerdos",
+      "bayrou",
+      "macron",
+      "nombres",
+      ".",
+      "mandatario",
+      "aspira",
+      "ubicar",
+      "“",
+      "fiel",
+      "”",
+      "frente",
+      "asuntos",
+      "económicos",
+      "prefiere",
+      "canciller",
+      "político",
+      "menos",
+      "peso",
+      "extitular",
+      "interior",
+      ",",
+      "gerald",
+      "darmanin",
+      ".",
+      "mientras",
+      "derechista",
+      "xavier",
+      "bertrand",
+      "exige",
+      "cartera",
+      "peso",
+      ",",
+      "justicia",
+      ",",
+      "rechazo",
+      "frontal",
+      "extrema",
+      "derecha",
+      ".",
+      "resto",
+      "cuerpo",
+      "gubernamental",
+      "diferente",
+      "actual",
+      "funciones",
+      ",",
+      "acuerdo",
+      "informaciones",
+      "filtrado",
+      "medio",
+      "polémica",
+      ".",
+      "obstante",
+      ",",
+      "pronostican",
+      "entrada",
+      "derecha",
+      "moderada",
+      "algún",
+      "exmiembro",
+      "partido",
+      "socialista",
+      ".",
+      "nuevo",
+      "jefe",
+      "gobierno",
+      "logrado",
+      "integrar",
+      "equipo",
+      "representantes",
+      "ecologistas",
+      "fuerzas",
+      "progresistas",
+      "."
+    ],
+    "token_count": 174,
+    "sentence_count": 11
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 48,
+      "FW": 71,
+      "NN": 81,
+      "IN": 15,
+      "NNS": 9,
+      "VBP": 7,
+      "JJ": 31,
+      "CC": 1,
+      "VBD": 2,
+      "VBZ": 8,
+      "DT": 3,
+      "CD": 1,
+      "RB": 1
+    },
+    "bigram_freq": {
+      "NNP-FW": 9,
+      "FW-FW": 40,
+      "FW-NN": 10,
+      "NN-NNP": 8,
+      "NNP-NN": 15,
+      "NN-NN": 32,
+      "NN-IN": 11,
+      "IN-FW": 9,
+      "FW-NNP": 13,
+      "NNP-NNP": 17,
+      "NN-NNS": 7,
+      "NNS-VBP": 6,
+      "VBP-NN": 2,
+      "FW-JJ": 7,
+      "JJ-NNP": 3,
+      "IN-NN": 2,
+      "VBP-JJ": 5,
+      "JJ-JJ": 3,
+      "NNP-CC": 1,
+      "CC-NNP": 1,
+      "NN-JJ": 8,
+      "JJ-NN": 17,
+      "NN-VBD": 1,
+      "VBD-JJ": 2,
+      "JJ-NNS": 2,
+      "NNS-IN": 1,
+      "IN-NNP": 4,
+      "NN-FW": 7,
+      "FW-VBZ": 1,
+      "VBZ-DT": 1,
+      "DT-JJ": 1,
+      "JJ-VBZ": 1,
+      "VBZ-FW": 2,
+      "NN-CD": 1,
+      "CD-IN": 1,
+      "NN-VBZ": 4,
+      "NNP-IN": 1,
+      "NNP-JJ": 2,
+      "NNP-VBD": 1,
+      "NNS-NNP": 1,
+      "NN-RB": 1,
+      "RB-VBZ": 1,
+      "VBZ-NN": 1,
+      "NNP-VBZ": 1,
+      "VBZ-JJ": 3,
+      "JJ-FW": 4,
+      "NN-VBP": 1,
+      "JJ-DT": 1,
+      "DT-NN": 2,
+      "NNP-DT": 1,
+      "VBZ-IN": 1
+    },
+    "trigram_freq": {
+      "NNP-FW-FW": 4,
+      "FW-FW-FW": 24,
+      "FW-FW-NN": 6,
+      "FW-NN-NNP": 2,
+      "NN-NNP-NN": 2,
+      "NNP-NN-NN": 9,
+      "NN-NN-IN": 6,
+      "NN-IN-FW": 7,
+      "IN-FW-FW": 4,
+      "FW-FW-NNP": 9,
+      "FW-NNP-NNP": 4,
+      "NNP-NNP-NNP": 5,
+      "NNP-NNP-NN": 6,
+      "NNP-NN-NNS": 3,
+      "NN-NNS-VBP": 6,
+      "NNS-VBP-NN": 2,
+      "VBP-NN-NN": 1,
+      "NN-NN-NN": 10,
+      "IN-FW-JJ": 4,
+      "FW-JJ-NNP": 1,
+      "JJ-NNP-NNP": 1,
+      "NN-IN-NN": 2,
+      "IN-NN-NNS": 1,
+      "NNS-VBP-JJ": 4,
+      "VBP-JJ-JJ": 2,
+      "JJ-JJ-NNP": 2,
+      "JJ-NNP-NN": 1,
+      "NNP-NN-NNP": 1,
+      "NN-NNP-NNP": 5,
+      "NNP-NNP-FW": 3,
+      "NNP-FW-NNP": 3,
+      "FW-NNP-CC": 1,
+      "NNP-CC-NNP": 1,
+      "CC-NNP-NNP": 1,
+      "NNP-NN-JJ": 2,
+      "NN-JJ-NN": 6,
+      "JJ-NN-NN": 7,
+      "NN-NN-NNP": 3,
+      "NN-NN-VBD": 1,
+      "NN-VBD-JJ": 1,
+      "VBD-JJ-NNS": 2,
+      "JJ-NNS-IN": 1,
+      "NNS-IN-NNP": 1,
+      "IN-NNP-FW": 1,
+      "FW-NN-NN": 4,
+      "NN-NN-FW": 2,
+      "NN-FW-FW": 4,
+      "FW-NNP-FW": 3,
+      "FW-NNP-NN": 5,
+      "NN-FW-VBZ": 1,
+      "FW-VBZ-DT": 1,
+      "VBZ-DT-JJ": 1,
+      "DT-JJ-VBZ": 1,
+      "JJ-VBZ-FW": 1,
+      "VBZ-FW-FW": 1,
+      "NNP-FW-NN": 2,
+      "FW-NN-FW": 3,
+      "VBP-JJ-NN": 3,
+      "NN-NN-CD": 1,
+      "NN-CD-IN": 1,
+      "CD-IN-FW": 1,
+      "IN-FW-NN": 1,
+      "NN-NN-NNS": 2,
+      "VBP-NN-FW": 1,
+      "FW-FW-JJ": 1,
+      "FW-JJ-NN": 3,
+      "NN-NN-VBZ": 2,
+      "NN-VBZ-FW": 1,
+      "VBZ-FW-NN": 1,
+      "NN-NNP-IN": 1,
+      "NNP-IN-NNP": 1,
+      "IN-NNP-JJ": 1,
+      "NNP-JJ-NN": 2,
+      "NN-NN-JJ": 4,
+      "JJ-NN-NNP": 2,
+      "JJ-JJ-NN": 1,
+      "JJ-NN-JJ": 1,
+      "NN-JJ-JJ": 1,
+      "JJ-NNP-FW": 1,
+      "IN-NN-NN": 1,
+      "JJ-NN-IN": 5,
+      "NN-IN-NNP": 2,
+      "IN-NNP-NNP": 1,
+      "NN-FW-NNP": 1,
+      "NNP-NNP-VBD": 1,
+      "NNP-VBD-JJ": 1,
+      "JJ-NNS-NNP": 1,
+      "NNS-NNP-NN": 1,
+      "JJ-NN-RB": 1,
+      "NN-RB-VBZ": 1,
+      "RB-VBZ-NN": 1,
+      "VBZ-NN-JJ": 1,
+      "NN-FW-JJ": 1,
+      "NNP-NNP-VBZ": 1,
+      "NNP-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 2,
+      "FW-JJ-FW": 3,
+      "JJ-FW-FW": 3,
+      "NN-NN-VBP": 1,
+      "NN-VBP-JJ": 1,
+      "NN-JJ-DT": 1,
+      "JJ-DT-NN": 1,
+      "DT-NN-VBZ": 2,
+      "NN-VBZ-JJ": 2,
+      "VBZ-JJ-FW": 1,
+      "JJ-FW-JJ": 1,
+      "JJ-NN-FW": 1,
+      "NNP-NNP-JJ": 1,
+      "IN-NNP-DT": 1,
+      "NNP-DT-NN": 1,
+      "NN-VBZ-IN": 1,
+      "VBZ-IN-FW": 1,
+      "FW-NN-NNS": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 81,
+        "FW": 71,
+        "NNP": 48,
+        "JJ": 31,
+        "IN": 15
+      },
+      "top_bigrams": {
+        "FW-FW": 40,
+        "NN-NN": 32,
+        "NNP-NNP": 17,
+        "JJ-NN": 17,
+        "NNP-NN": 15
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 24,
+        "NN-NN-NN": 10,
+        "NNP-NN-NN": 9,
+        "FW-FW-NNP": 9,
+        "NN-IN-FW": 7
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 11,
+    "chunk_counts": {
+      "NP": 78,
+      "VP": 22,
+      "PP": 6,
+      "ADJP": 5
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 6,
+        "weight": 0.0492
+      },
+      {
+        "rule": "NP -> ('Francia', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0164
+      },
+      {
+        "rule": "NP -> ('a', 'DT') ('los', 'NN')",
+        "frequency": 2,
+        "weight": 0.0164
+      },
+      {
+        "rule": "NP -> ('Justicia', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0164
+      },
+      {
+        "rule": "S -> NP ('de', 'FW') ('regresar', 'FW') ('de', 'FW') ('su', 'FW') ('viaje', 'FW') NP VP ('de', 'IN') ('esta', 'FW') NP (',', ',') ('el', 'FW') ('presidente', 'FW') ('de', 'FW') NP (',', ',') NP (',', ',') NP VP ('de', 'IN') ('su', 'FW') NP (',', ',') NP (',', ',') NP PP VP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0082
+      },
+      {
+        "rule": "NP -> ('Luego', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0082
+      },
+      {
+        "rule": "NP -> ('por', 'NN')",
+        "frequency": 1,
+        "weight": 0.0082
+      },
+      {
+        "rule": "VP -> ('África', 'VBZ') NP",
+        "frequency": 1,
+        "weight": 0.0082
+      },
+      {
+        "rule": "NP -> ('a', 'DT') ('primera', 'NN') ('hora', 'NN')",
+        "frequency": 1,
+        "weight": 0.0082
+      },
+      {
+        "rule": "NP -> ('mañana', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0082
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Luego"
+      },
+      {
+        "label": "NP",
+        "text": "por"
+      },
+      {
+        "label": "VP",
+        "text": "África a primera hora"
+      },
+      {
+        "label": "NP",
+        "text": "a primera hora"
+      },
+      {
+        "label": "NP",
+        "text": "mañana"
+      },
+      {
+        "label": "NP",
+        "text": "Francia"
+      },
+      {
+        "label": "NP",
+        "text": "Emmanuel Macron"
+      },
+      {
+        "label": "NP",
+        "text": "sostuvo tres"
+      },
+      {
+        "label": "VP",
+        "text": "reuniones con el primer ministro"
+      },
+      {
+        "label": "NP",
+        "text": "con el primer ministro"
+      },
+      {
+        "label": "NP",
+        "text": "administración"
+      },
+      {
+        "label": "NP",
+        "text": "François Bayrou"
+      },
+      {
+        "label": "NP",
+        "text": "con el propósito"
+      },
+      {
+        "label": "PP",
+        "text": "de completar las"
+      },
+      {
+        "label": "NP",
+        "text": "completar las"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Luego/NNP)\n  de/FW\n  regresar/FW\n  de/FW\n  su/FW\n  viaje/FW\n  (NP por/NN)\n  (VP África/VBZ (NP a/DT primera/NN hora/NN))\n  de/IN\n  esta/FW\n  (NP mañana/NNS)\n  ,/,\n  el/FW\n  presidente/FW\n  de/FW\n  (NP Francia/NNP)\n  ,/,\n  (NP Emmanuel/NNP Macron/NNP)\n  ,/,\n  (NP sostuvo/NN tres/NNS)\n  (VP reuniones/VBP (NP con/NN el/NN primer/NN ministro/NN))\n  de/IN\n  su/FW\n  (NP administración/NN)\n  ,/,\n  (NP François/NNP Bayrou/NNP)\n  ,/,\n  (NP con/NN el/NN propósito/NN)\n  (PP de/IN (NP completar/NN las/NNS))\n  (VP propuestas/VBP (NP del/JJ nuevo/JJ Gobierno/NNP galo/NN))\n  ./.)",
+      "(S\n  (NP LEA/NNP TAMBIÉN/NNP Presidente/NNP)\n  de/FW\n  (NP Francia/NNP)\n  nombra/CC\n  (NP a/DT François/NNP Bayrou/NNP como/NN)\n  (NP\n    nuevo/JJ\n    primer/NN\n    ministro/NN\n    Aunque/NNP\n    Bayrou/NNP\n    pretende/NN\n    anunciar/NN)\n  (VP el/VBD (NP gabinete/JJ antes/NNS))\n  (PP de/IN (NP Navidad/NNP y/NNP))\n  (VP\n    se/VBD\n    (NP esperaba/JJ el/NN comunicado/NN para/NN este/NN domingo/NN))\n  ,/,\n  la/FW\n  comitiva/FW\n  del/FW\n  (NP Presidente/NNP)\n  de/FW\n  la/FW\n  (NP República/NNP indicó/NN que/NN)\n  la/FW\n  (VP presentación/VBZ)\n  no/DT\n  (ADJP ocurrirá/JJ)\n  (VP antes/VBZ)\n  de/IN\n  mañana/FW\n  ./.)",
+      "(S\n  (NP De/NNP)\n  acuerdo/FW\n  (NP con/NN)\n  la/FW\n  agencia/FW\n  de/FW\n  noticias/FW\n  (NP EFE/NNP)\n  ,/,\n  (NP los/NN observadores/NNS)\n  (VP políticos/VBP (NP apostaban/JJ por/NN este/NN))\n  22/CD\n  (PP de/IN (NP diciembre/NN))\n  ,/,\n  (NP porque/NN el/NN lunes/NNS)\n  (VP será/VBP (NP jornada/NN))\n  de/FW\n  duelo/FW\n  (NP nacional/JJ debido/NN)\n  (NP a/DT los/NN)\n  (VP azotes/VBZ)\n  del/FW\n  (NP ciclón/NN Chido/NNP)\n  en/FW\n  (NP Mayotte/NNP)\n  ,/,\n  (NP isla/JJ francesa/NN del/NN Índico/NN)\n  ./.)",
+      "(S\n  (NP En/NNP tanto/NN)\n  ,/,\n  la/FW\n  televisora/FW\n  francesa/FW\n  (NP BFMTV/NNP señala/NN tres/NNS)\n  (VP\n    puntos/VBP\n    (NP que/JJ retrasan/JJ la/NN)\n    (NP nota/JJ oficial/NN))\n  ./.)",
+      "(S\n  (NP La/NNP discordia/NNP se/NN centra/NN)\n  en/FW\n  (NP torno/NN)\n  (NP a/DT los/NN)\n  (NP futuros/JJ ministros/NN)\n  (PP de/IN (NP Asuntos/NNP Exteriores/NNP))\n  ,/,\n  de/FW\n  (NP Economía/NNP)\n  y/FW\n  de/FW\n  (NP Justicia/NNP)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "GOBIERNOS_OFICIALES",
+      "GRUPOS_ESPECIFICOS",
+      "LEYES_NORMATIVAS",
+      "TIEMPO_RELATIVO",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "PAISES",
+      "RELACIONES_INTERNACIONALES"
+    ],
+    "matches": [
+      {
+        "category": "RELACIONES_INTERNACIONALES",
+        "matched_text": "acuerdo con las informaciones que se han filtrado en medio de la polémica. no obstante, pronostican la entrada de la derecha moderada y algún exmiembro",
+        "position": [
+          1487,
+          1638
+        ],
+        "start": 1487,
+        "end": 1638
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "sostuvo",
+        "position": [
+          115,
+          122
+        ],
+        "start": 115,
+        "end": 122
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente de francia",
+        "position": [
+          75,
+          96
+        ],
+        "start": 75,
+        "end": 96
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "ministro de su administración",
+        "position": [
+          152,
+          181
+        ],
+        "start": 152,
+        "end": 181
+      },
+      {
+        "category": "GRUPOS_ESPECIFICOS",
+        "matched_text": "extrema derecha",
+        "position": [
+          1386,
+          1401
+        ],
+        "start": 1386,
+        "end": 1401
+      },
+      {
+        "category": "LEYES_NORMATIVAS",
+        "matched_text": "acuerdo con la agencia de noticias efe, los observadores políticos apostaban por este 22",
+        "position": [
+          566,
+          654
+        ],
+        "start": 566,
+        "end": 654
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "francia",
+        "position": [
+          89,
+          96
+        ],
+        "start": 89,
+        "end": 96
+      },
+      {
+        "category": "TIEMPO_RELATIVO",
+        "matched_text": "mañana",
+        "position": [
+          64,
+          70
+        ],
+        "start": 64,
+        "end": 70
+      },
+      {
+        "category": "TIEMPO_RELATIVO",
+        "matched_text": "esta mañana",
+        "position": [
+          59,
+          70
+        ],
+        "start": 59,
+        "end": 70
+      }
+    ],
+    "match_count": 9
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Emmanuel Macron",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Macron",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Gobierno galo",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Asuntos Exteriores",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Partido Socialista",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Francia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "EFE",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Mayotte",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "LEA",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Xavier Bertrand",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Bayrou",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Gerald Darmanin",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "África",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Índico",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "François Bayrou",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "BFMTV",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Justicia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Chido",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Gobierno",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "África",
+        "relacion": "REGRESAR_SOSTENER",
+        "objeto": "Francia"
+      },
+      {
+        "sujeto": "África",
+        "relacion": "REGRESAR_SOSTENER",
+        "objeto": "Emmanuel Macron"
+      },
+      {
+        "sujeto": "África",
+        "relacion": "REGRESAR_SOSTENER",
+        "objeto": "François Bayrou"
+      },
+      {
+        "sujeto": "África",
+        "relacion": "REGRESAR_SOSTENER",
+        "objeto": "Gobierno galo"
+      },
+      {
+        "sujeto": "Francia",
+        "relacion": "SOSTENER",
+        "objeto": "François Bayrou"
+      },
+      {
+        "sujeto": "Francia",
+        "relacion": "SOSTENER",
+        "objeto": "Gobierno galo"
+      },
+      {
+        "sujeto": "Emmanuel Macron",
+        "relacion": "SOSTENER",
+        "objeto": "François Bayrou"
+      },
+      {
+        "sujeto": "Emmanuel Macron",
+        "relacion": "SOSTENER",
+        "objeto": "Gobierno galo"
+      },
+      {
+        "sujeto": "François Bayrou",
+        "relacion": "SOSTENER",
+        "objeto": "Gobierno galo"
+      },
+      {
+        "sujeto": "LEA",
+        "relacion": "NOMBRAR",
+        "objeto": "François Bayrou"
+      },
+      {
+        "sujeto": "LEA",
+        "relacion": "NOMBRAR",
+        "objeto": "Bayrou"
+      },
+      {
+        "sujeto": "Bayrou",
+        "relacion": "NOMBRAR",
+        "objeto": "François Bayrou"
+      },
+      {
+        "sujeto": "EFE",
+        "relacion": "APOSTAR",
+        "objeto": "Chido"
+      },
+      {
+        "sujeto": "EFE",
+        "relacion": "APOSTAR",
+        "objeto": "Mayotte"
+      },
+      {
+        "sujeto": "EFE",
+        "relacion": "APOSTAR",
+        "objeto": "Índico"
+      },
+      {
+        "sujeto": "Justicia",
+        "relacion": "EXIGIR",
+        "objeto": "Xavier Bertrand"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.6597,
+    "pos": 0.008,
+    "neu": 0.961,
+    "neg": 0.031,
+    "label": "negative"
+  }
+}

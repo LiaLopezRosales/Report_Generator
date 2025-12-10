@@ -1,0 +1,728 @@
+{
+  "url": "https://www.telesurtv.net/centroamerica-celebra-aniversario-203-de-su-independencia/",
+  "title": "Centroamérica celebra aniversario 203 de su independencia - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "15 de septiembre",
+    "Acta de independencia",
+    "Aniversario de independencia",
+    "Xiomara Castro"
+  ],
+  "text": "Con actos cívicos, desfiles y presentaciones de música y danzas tradicionales que destacan la riqueza cultural de la región centroamericana, los pueblos de Guatemala, El Salvador, Honduras, Nicaragua y Costa Rica celebran este domingo el aniversario 203 de su independencia.\nDesde 1821, los habitantes de los cinco territorios asumieron el 15 de septiembre como fecha histórica, para conmemorar la firma del Acta de Independencia que significó el fin del colonialismo español en Centroamérica, así como el inicio de una nueva etapa para la zona.\nA propósito de la celebración, este domingo la presidenta de Honduras, Xiomara Castro, resonó el grito de independencia durante el acto celebrado en la Plaza de las Banderas. Mientras, el canciller guatemalteco lideró una ceremonia en la Plaza de la Federación Centroamericana, donde se izaron las banderas y se entonaron los himnos nacionales.\nHace justo 203 años, el debilitamiento del poder español por las guerras napoleónicas en Europa y el creciente deseo de los pueblos de gobernarse a sí mismos facilitaron el proceso independentista. La proclamación tuvo lugar en la ciudad de Guatemala, otrora capital de la Capitanía General de Guatemala, entidad administrativa que abarcaba gran parte de la región.\nAllí se dio lectura al Acta de Independencia de Centroamérica, documento histórico redactado por José Cecilio del Valle, un destacado intelectual y político hondureño. El texto sentó las bases para la formación de las Provincias Unidas de Centroamérica, una federación que existió entre 1823 y 1838.\nAunque la decisión política fue recibida con entusiasmo en la mayoría de las antiguas provincias, Nicaragua y Costa Rica mostraron reticencias a aceptar la autoridad de Guatemala. Un tiempo después, ambos territorios se unieron al proceso.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/centroamerica-celebra-aniversario-203-de-su-independencia/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-09.json",
+    "message_index": 946,
+    "message_id": 76350,
+    "date": "2024-09-15T15:55:07+00:00",
+    "text": "teleSUR\nCentroamérica celebra aniversario 203 de su independencia\nhttps://www.telesurtv.net/centroamerica-celebra-aniversario-203-de-su-independencia/",
+    "photo_path": null,
+    "views": 3500,
+    "reactions": {
+      "❤": 62,
+      "👍": 19,
+      "👏": 8
+    },
+    "total_reactions": 89
+  },
+  "preprocessing": {
+    "cleaned": "con actos cívicos, desfiles y presentaciones de música y danzas tradicionales que destacan la riqueza cultural de la región centroamericana, los pueblos de guatemala, el salvador, honduras, nicaragua y costa rica celebran este domingo el aniversario 203 de su independencia. desde 1821, los habitantes de los cinco territorios asumieron el 15 de septiembre como fecha histórica, para conmemorar la firma del acta de independencia que significó el fin del colonialismo español en centroamérica, así como el inicio de una nueva etapa para la zona. a propósito de la celebración, este domingo la presidenta de honduras, xiomara castro, resonó el grito de independencia durante el acto celebrado en la plaza de las banderas. mientras, el canciller guatemalteco lideró una ceremonia en la plaza de la federación centroamericana, donde se izaron las banderas y se entonaron los himnos nacionales. hace justo 203 años, el debilitamiento del poder español por las guerras napoleónicas en europa y el creciente deseo de los pueblos de gobernarse a sí mismos facilitaron el proceso independentista. la proclamación tuvo lugar en la ciudad de guatemala, otrora capital de la capitanía general de guatemala, entidad administrativa que abarcaba gran parte de la región. allí se dio lectura al acta de independencia de centroamérica, documento histórico redactado por josé cecilio del valle, un destacado intelectual y político hondureño. el texto sentó las bases para la formación de las provincias unidas de centroamérica, una federación que existió entre 1823 y 1838. aunque la decisión política fue recibida con entusiasmo en la mayoría de las antiguas provincias, nicaragua y costa rica mostraron reticencias a aceptar la autoridad de guatemala. un tiempo después, ambos territorios se unieron al proceso.",
+    "tokens": [
+      "actos",
+      "cívicos",
+      ",",
+      "desfiles",
+      "presentaciones",
+      "música",
+      "danzas",
+      "tradicionales",
+      "destacan",
+      "riqueza",
+      "cultural",
+      "región",
+      "centroamericana",
+      ",",
+      "pueblos",
+      "guatemala",
+      ",",
+      "salvador",
+      ",",
+      "honduras",
+      ",",
+      "nicaragua",
+      "costa",
+      "rica",
+      "celebran",
+      "domingo",
+      "aniversario",
+      "203",
+      "independencia",
+      ".",
+      "1821",
+      ",",
+      "habitantes",
+      "cinco",
+      "territorios",
+      "asumieron",
+      "15",
+      "septiembre",
+      "fecha",
+      "histórica",
+      ",",
+      "conmemorar",
+      "firma",
+      "acta",
+      "independencia",
+      "significó",
+      "fin",
+      "colonialismo",
+      "español",
+      "centroamérica",
+      ",",
+      "así",
+      "inicio",
+      "nueva",
+      "etapa",
+      "zona",
+      ".",
+      "propósito",
+      "celebración",
+      ",",
+      "domingo",
+      "presidenta",
+      "honduras",
+      ",",
+      "xiomara",
+      "castro",
+      ",",
+      "resonó",
+      "grito",
+      "independencia",
+      "acto",
+      "celebrado",
+      "plaza",
+      "banderas",
+      ".",
+      "mientras",
+      ",",
+      "canciller",
+      "guatemalteco",
+      "lideró",
+      "ceremonia",
+      "plaza",
+      "federación",
+      "centroamericana",
+      ",",
+      "izaron",
+      "banderas",
+      "entonaron",
+      "himnos",
+      "nacionales",
+      ".",
+      "hace",
+      "justo",
+      "203",
+      "años",
+      ",",
+      "debilitamiento",
+      "poder",
+      "español",
+      "guerras",
+      "napoleónicas",
+      "europa",
+      "creciente",
+      "deseo",
+      "pueblos",
+      "gobernarse",
+      "mismos",
+      "facilitaron",
+      "proceso",
+      "independentista",
+      ".",
+      "proclamación",
+      "lugar",
+      "ciudad",
+      "guatemala",
+      ",",
+      "otrora",
+      "capital",
+      "capitanía",
+      "general",
+      "guatemala",
+      ",",
+      "entidad",
+      "administrativa",
+      "abarcaba",
+      "gran",
+      "parte",
+      "región",
+      ".",
+      "allí",
+      "dio",
+      "lectura",
+      "acta",
+      "independencia",
+      "centroamérica",
+      ",",
+      "documento",
+      "histórico",
+      "redactado",
+      "josé",
+      "cecilio",
+      "valle",
+      ",",
+      "destacado",
+      "intelectual",
+      "político",
+      "hondureño",
+      ".",
+      "texto",
+      "sentó",
+      "bases",
+      "formación",
+      "provincias",
+      "unidas",
+      "centroamérica",
+      ",",
+      "federación",
+      "existió",
+      "1823",
+      "1838.",
+      "aunque",
+      "decisión",
+      "política",
+      "recibida",
+      "entusiasmo",
+      "mayoría",
+      "antiguas",
+      "provincias",
+      ",",
+      "nicaragua",
+      "costa",
+      "rica",
+      "mostraron",
+      "reticencias",
+      "aceptar",
+      "autoridad",
+      "guatemala",
+      ".",
+      "tiempo",
+      "después",
+      ",",
+      "ambos",
+      "territorios",
+      "unieron",
+      "proceso",
+      "."
+    ],
+    "token_count": 186,
+    "sentence_count": 10
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 47,
+      "NN": 92,
+      "VBZ": 3,
+      "NNS": 7,
+      "IN": 16,
+      "FW": 63,
+      "JJ": 21,
+      "VBP": 6,
+      "VBD": 2,
+      "CD": 6,
+      "RB": 1,
+      "CC": 1
+    },
+    "bigram_freq": {
+      "NNP-NN": 10,
+      "NN-NN": 56,
+      "NN-VBZ": 2,
+      "VBZ-NNS": 1,
+      "NNS-IN": 1,
+      "IN-FW": 11,
+      "FW-JJ": 4,
+      "JJ-NNS": 4,
+      "NNS-VBP": 4,
+      "VBP-JJ": 4,
+      "JJ-NN": 11,
+      "NN-JJ": 7,
+      "JJ-JJ": 2,
+      "JJ-FW": 2,
+      "FW-FW": 34,
+      "FW-NNP": 16,
+      "NNP-NNP": 17,
+      "NNP-VBD": 1,
+      "VBD-NN": 1,
+      "NN-CD": 3,
+      "CD-IN": 2,
+      "FW-NN": 9,
+      "NN-NNP": 6,
+      "NNP-CD": 1,
+      "CD-NN": 2,
+      "VBZ-IN": 1,
+      "JJ-CD": 1,
+      "NNP-IN": 3,
+      "IN-NNP": 3,
+      "NN-IN": 9,
+      "NNP-VBP": 1,
+      "VBP-NN": 1,
+      "IN-JJ": 1,
+      "NN-FW": 5,
+      "NNP-FW": 10,
+      "NNP-VBZ": 1,
+      "VBZ-NN": 1,
+      "NNS-NNP": 1,
+      "NN-NNS": 2,
+      "NNS-RB": 1,
+      "RB-VBP": 1,
+      "VBP-NNP": 1,
+      "NNP-CC": 1,
+      "CC-JJ": 1,
+      "NN-VBD": 1,
+      "VBD-FW": 1,
+      "JJ-NNP": 1,
+      "IN-NN": 1,
+      "NNP-JJ": 2,
+      "CD-CD": 1,
+      "CD-NNP": 1
+    },
+    "trigram_freq": {
+      "NNP-NN-NN": 8,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-NNS": 1,
+      "VBZ-NNS-IN": 1,
+      "NNS-IN-FW": 1,
+      "IN-FW-JJ": 3,
+      "FW-JJ-NNS": 3,
+      "JJ-NNS-VBP": 3,
+      "NNS-VBP-JJ": 4,
+      "VBP-JJ-NN": 2,
+      "JJ-NN-JJ": 2,
+      "NN-JJ-JJ": 1,
+      "JJ-JJ-FW": 1,
+      "JJ-FW-FW": 2,
+      "FW-FW-FW": 23,
+      "FW-FW-NNP": 9,
+      "FW-NNP-NNP": 8,
+      "NNP-NNP-NNP": 8,
+      "NNP-NNP-VBD": 1,
+      "NNP-VBD-NN": 1,
+      "VBD-NN-NN": 1,
+      "NN-NN-NN": 33,
+      "NN-NN-CD": 2,
+      "NN-CD-IN": 1,
+      "CD-IN-FW": 2,
+      "IN-FW-NN": 3,
+      "FW-NN-NNP": 1,
+      "NN-NNP-CD": 1,
+      "NNP-CD-NN": 1,
+      "CD-NN-VBZ": 1,
+      "NN-VBZ-IN": 1,
+      "VBZ-IN-FW": 1,
+      "VBP-JJ-CD": 1,
+      "JJ-CD-IN": 1,
+      "FW-NN-NN": 5,
+      "NN-NN-JJ": 4,
+      "NN-JJ-NN": 4,
+      "JJ-NN-NNP": 1,
+      "NN-NNP-IN": 1,
+      "NNP-IN-NNP": 2,
+      "IN-NNP-NN": 1,
+      "NN-NN-IN": 5,
+      "NN-IN-NNP": 1,
+      "IN-NNP-VBP": 1,
+      "NNP-VBP-NN": 1,
+      "VBP-NN-JJ": 1,
+      "JJ-NN-IN": 2,
+      "NN-IN-JJ": 1,
+      "IN-JJ-JJ": 1,
+      "JJ-JJ-NN": 1,
+      "JJ-NN-NN": 6,
+      "NN-NN-NNP": 4,
+      "NN-NNP-NN": 3,
+      "NNP-NN-IN": 1,
+      "NN-IN-FW": 7,
+      "FW-JJ-NN": 1,
+      "NN-NN-FW": 3,
+      "NN-FW-FW": 4,
+      "NNP-NNP-NN": 4,
+      "FW-NN-FW": 2,
+      "NN-FW-NN": 1,
+      "IN-FW-NNP": 3,
+      "FW-NNP-FW": 5,
+      "NNP-FW-FW": 2,
+      "NNP-NNP-VBZ": 1,
+      "NNP-VBZ-NN": 1,
+      "VBZ-NN-NN": 1,
+      "FW-FW-JJ": 1,
+      "JJ-NNS-NNP": 1,
+      "NNS-NNP-NN": 1,
+      "NNP-NN-CD": 1,
+      "NN-CD-NN": 1,
+      "CD-NN-NN": 1,
+      "NN-NN-NNS": 2,
+      "NN-NNS-RB": 1,
+      "NNS-RB-VBP": 1,
+      "RB-VBP-NNP": 1,
+      "VBP-NNP-FW": 1,
+      "NNP-FW-NN": 4,
+      "FW-FW-NN": 1,
+      "IN-FW-FW": 2,
+      "FW-NN-IN": 1,
+      "NNP-NNP-FW": 2,
+      "NNP-FW-NNP": 4,
+      "FW-NNP-CC": 1,
+      "NNP-CC-JJ": 1,
+      "CC-JJ-NN": 1,
+      "NN-NN-VBD": 1,
+      "NN-VBD-FW": 1,
+      "VBD-FW-FW": 1,
+      "NN-JJ-NNP": 1,
+      "JJ-NNP-FW": 1,
+      "FW-NNP-IN": 1,
+      "NNP-IN-NN": 1,
+      "IN-NN-NN": 1,
+      "NN-NNP-NNP": 1,
+      "FW-NNP-JJ": 1,
+      "NNP-JJ-NN": 2,
+      "NN-NNS-VBP": 1,
+      "VBP-JJ-FW": 1,
+      "NNP-NNP-IN": 1,
+      "IN-NNP-JJ": 1,
+      "NN-CD-CD": 1,
+      "CD-CD-NNP": 1,
+      "CD-NNP-FW": 1,
+      "NN-JJ-NNS": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 92,
+        "FW": 63,
+        "NNP": 47,
+        "JJ": 21,
+        "IN": 16
+      },
+      "top_bigrams": {
+        "NN-NN": 56,
+        "FW-FW": 34,
+        "NNP-NNP": 17,
+        "FW-NNP": 16,
+        "IN-FW": 11
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 33,
+        "FW-FW-FW": 23,
+        "FW-FW-NNP": 9,
+        "NNP-NN-NN": 8,
+        "FW-NNP-NNP": 8
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 10,
+    "chunk_counts": {
+      "NP": 71,
+      "VP": 13,
+      "PP": 5
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 4,
+        "weight": 0.0404
+      },
+      {
+        "rule": "NP -> ('Guatemala', 'NNP')",
+        "frequency": 3,
+        "weight": 0.0303
+      },
+      {
+        "rule": "NP -> ('Honduras', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0202
+      },
+      {
+        "rule": "NP -> ('Centroamérica', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0202
+      },
+      {
+        "rule": "NP -> ('Plaza', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0202
+      },
+      {
+        "rule": "S -> NP (',', ',') VP ('de', 'IN') ('música', 'FW') ('y', 'FW') NP VP ('de', 'FW') ('la', 'FW') ('región', 'FW') NP (',', ',') NP PP (',', ',') NP (',', ',') NP (',', ',') NP VP ('203', 'CD') PP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0101
+      },
+      {
+        "rule": "NP -> ('Con', 'NNP') ('actos', 'NN') ('cívicos', 'NN')",
+        "frequency": 1,
+        "weight": 0.0101
+      },
+      {
+        "rule": "VP -> ('desfiles', 'VBZ') NP",
+        "frequency": 1,
+        "weight": 0.0101
+      },
+      {
+        "rule": "NP -> ('y', 'JJ') ('presentaciones', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0101
+      },
+      {
+        "rule": "NP -> ('danzas', 'NN') ('tradicionales', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0101
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Con actos cívicos"
+      },
+      {
+        "label": "VP",
+        "text": "desfiles y presentaciones"
+      },
+      {
+        "label": "NP",
+        "text": "y presentaciones"
+      },
+      {
+        "label": "NP",
+        "text": "danzas tradicionales"
+      },
+      {
+        "label": "VP",
+        "text": "que destacan la riqueza cultural"
+      },
+      {
+        "label": "NP",
+        "text": "destacan la"
+      },
+      {
+        "label": "NP",
+        "text": "centroamericana"
+      },
+      {
+        "label": "NP",
+        "text": "los pueblos"
+      },
+      {
+        "label": "PP",
+        "text": "de Guatemala"
+      },
+      {
+        "label": "NP",
+        "text": "Guatemala"
+      },
+      {
+        "label": "NP",
+        "text": "El Salvador"
+      },
+      {
+        "label": "NP",
+        "text": "Honduras"
+      },
+      {
+        "label": "NP",
+        "text": "Nicaragua y Costa Rica"
+      },
+      {
+        "label": "VP",
+        "text": "celebran este domingo el aniversario"
+      },
+      {
+        "label": "NP",
+        "text": "este domingo el aniversario"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Con/NNP actos/NN cívicos/NN)\n  ,/,\n  (VP desfiles/VBZ (NP y/JJ presentaciones/NNS))\n  de/IN\n  música/FW\n  y/FW\n  (NP danzas/NN tradicionales/NNS)\n  (VP que/VBP (NP destacan/JJ la/NN) riqueza/JJ cultural/JJ)\n  de/FW\n  la/FW\n  región/FW\n  (NP centroamericana/NN)\n  ,/,\n  (NP los/JJ pueblos/NN)\n  (PP de/IN (NP Guatemala/NNP))\n  ,/,\n  (NP El/NNP Salvador/NNP)\n  ,/,\n  (NP Honduras/NNP)\n  ,/,\n  (NP Nicaragua/NNP y/NNP Costa/NNP Rica/NNP)\n  (VP celebran/VBD (NP este/NN domingo/NN el/NN aniversario/NN))\n  203/CD\n  (PP de/IN (NP su/NN independencia/NN))\n  ./.)",
+      "(S\n  (NP Desde/NN)\n  1821/CD\n  ,/,\n  los/FW\n  (NP habitantes/NNS)\n  de/IN\n  los/FW\n  (NP cinco/JJ territorios/NNS)\n  (VP asumieron/VBP el/JJ)\n  15/CD\n  de/IN\n  septiembre/FW\n  (NP como/NN fecha/NN histórica/NN)\n  ,/,\n  (NP para/NN conmemorar/NN la/NN)\n  (NP firma/JJ del/NN Acta/NNP)\n  (PP\n    de/IN\n    (NP\n      Independencia/NNP\n      que/NN\n      significó/NN\n      el/NN\n      fin/NN\n      del/NN\n      colonialismo/NN\n      español/NN))\n  (PP en/IN (NP Centroamérica/NNP))\n  ,/,\n  (NP así/JJ como/NN el/NN inicio/NN)\n  (PP de/IN (NP una/JJ nueva/JJ etapa/NN para/NN la/NN zona/NN))\n  ./.)",
+      "(S\n  (NP A/DT propósito/NN)\n  de/IN\n  la/FW\n  (NP celebración/NN)\n  ,/,\n  (NP este/NN domingo/NN)\n  la/FW\n  presidenta/FW\n  de/FW\n  (NP Honduras/NNP)\n  ,/,\n  (NP Xiomara/NNP Castro/NNP)\n  ,/,\n  (NP resonó/NN el/NN grito/NN)\n  de/IN\n  independencia/FW\n  (NP durante/NN)\n  el/FW\n  (NP acto/NN celebrado/NN)\n  en/IN\n  la/FW\n  (NP Plaza/NNP)\n  de/FW\n  las/FW\n  (NP Banderas/NNP)\n  ./.)",
+      "(S\n  (NP Mientras/NNP)\n  ,/,\n  (VP\n    el/VBZ\n    (NP canciller/NN guatemalteco/NN lideró/NN)\n    (NP una/JJ ceremonia/NN))\n  en/IN\n  la/FW\n  (NP Plaza/NNP)\n  de/FW\n  la/FW\n  (NP Federación/NNP Centroamericana/NNP)\n  ,/,\n  (NP donde/NN se/NN izaron/NN las/NN banderas/NNS)\n  (VP\n    y/VBP\n    (NP se/JJ entonaron/NN los/NN)\n    (NP himnos/JJ nacionales/NNS))\n  ./.)",
+      "(S\n  (NP Hace/NNP justo/NN)\n  203/CD\n  (NP años/NN)\n  ,/,\n  el/FW\n  debilitamiento/FW\n  del/FW\n  (NP poder/NN español/NN por/NN las/NN guerras/NNS)\n  napoleónicas/RB\n  (VP en/VBP (NP Europa/NNP y/NNP))\n  (VP el/VBZ (NP creciente/JJ deseo/NN))\n  de/IN\n  los/FW\n  pueblos/FW\n  de/FW\n  gobernarse/FW\n  (NP\n    a/DT\n    sí/NN\n    mismos/NN\n    facilitaron/NN\n    el/NN\n    proceso/NN\n    independentista/NN)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "CULTURA_DEPORTE_SOCIEDAD",
+      "GOBIERNOS_OFICIALES",
+      "REGIONES_PROVINCIAS",
+      "PAISES",
+      "LOCALIZACIONES_ESPECIFICAS",
+      "ECONOMIA_COMERCIO_FINANZAS"
+    ],
+    "matches": [
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "capital",
+        "position": [
+          1150,
+          1157
+        ],
+        "start": 1150,
+        "end": 1157
+      },
+      {
+        "category": "CULTURA_DEPORTE_SOCIEDAD",
+        "matched_text": "intelectual y político hondureño",
+        "position": [
+          1391,
+          1423
+        ],
+        "start": 1391,
+        "end": 1423
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidenta de honduras",
+        "position": [
+          593,
+          615
+        ],
+        "start": 593,
+        "end": 615
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "costa rica",
+        "position": [
+          202,
+          212
+        ],
+        "start": 202,
+        "end": 212
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "guatemala",
+        "position": [
+          156,
+          165
+        ],
+        "start": 156,
+        "end": 165
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "nicaragua",
+        "position": [
+          190,
+          199
+        ],
+        "start": 190,
+        "end": 199
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "región centroamericana",
+        "position": [
+          117,
+          139
+        ],
+        "start": 117,
+        "end": 139
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "plaza de",
+        "position": [
+          698,
+          706
+        ],
+        "start": 698,
+        "end": 706
+      }
+    ],
+    "match_count": 8
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Plaza de las Banderas",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Costa Rica",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Provincias Unidas de Centroamérica",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Guatemala",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Honduras",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "José Cecilio del Valle",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Centroamérica",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Plaza de la Federación Centroamericana",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "El Salvador",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Nicaragua",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Europa",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Capitanía General de Guatemala",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Xiomara Castro",
+        "tipo": "Persona"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Honduras",
+        "relacion": "RESONAR",
+        "objeto": "Plaza de las Banderas"
+      },
+      {
+        "sujeto": "Xiomara Castro",
+        "relacion": "RESONAR",
+        "objeto": "Plaza de las Banderas"
+      },
+      {
+        "sujeto": "Nicaragua",
+        "relacion": "RECIBIR_MOSTRAR",
+        "objeto": "Guatemala"
+      },
+      {
+        "sujeto": "Costa Rica",
+        "relacion": "RECIBIR_MOSTRAR",
+        "objeto": "Guatemala"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.0,
+    "pos": 0.0,
+    "neu": 1.0,
+    "neg": 0.0,
+    "label": "neutral"
+  }
+}

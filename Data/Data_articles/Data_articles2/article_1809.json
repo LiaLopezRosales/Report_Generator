@@ -1,0 +1,993 @@
+{
+  "url": "https://www.telesurtv.net/nicaragua-empezara-a-fabricar-vacunas-propias/",
+  "title": "Nicaragua comenzará a fabricar su vacuna anti-COVID-19 este año - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "Convacell",
+    "Mechnikov",
+    "vacuna anti-COVID-19"
+  ],
+  "text": "Este año, Nicaragua comenzará a producir localmente la vacuna contra el COVID-19, llamada Convacell. Así lo anunció el presidente del Instituto Nicaragüense de Seguridad Social (INSS), doctor Roberto López, quien calificó como exitosos los avances del Instituto Latinoamericano de Biotecnología Mechnikov.\n\nLEA TAMBIÉN\nNicaragua comercializará café nacional en China\n\n“La vacuna Convacell, que antes venía desde el Instituto de Vacunas y Sueros de San Petersburgo, ahora será fabricada en nuestro país”, explicó López durante la apertura del IX Congreso Farmacéutico Internacional Rusia-Nicaragua 2025.\nActualmente, el instituto Mechnikov produce más de 50 millones de dosis de vacunas al año. De acuerdo con el doctor López, esta planta forma parte del esfuerzo del Gobierno Sandinista para asegurar que los nicaragüenses tengan acceso a medicamentos seguros, eficaces y a precios accesibles.\nAdemás, destacó que Mechnikov está preparada para suministrar vacunas contra la influenza a toda Centroamérica y el Caribe en caso de una emergencia sanitaria.\nLópez también recordó que recientemente la Organización Mundial de la Salud aprobó un acuerdo internacional para mejorar la preparación frente a futuras pandemias. Este resalta la importancia de producir vacunas de forma local.\n\n\n“Con visión de futuro, hace 16 años el presidente Vladímir Putin y el comandante Daniel Ortega, con apoyo de Cuba, impulsaron la creación de esta planta de vacunas para asegurar el acceso a la salud no solo en Nicaragua, sino en toda la región”, señaló.\nDesde 2019, Mechnikov ha entregado más de 10 millones de dosis de vacunas contra la influenza a Nicaragua, a un costo cinco veces menor que antes. También, gracias a la colaboración internacional con Rusia y China, el país ha podido acceder a vacunas contra la fiebre amarilla, el Virus del Papiloma Humano (VPH) y, ahora, el Covid-19.\n",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/nicaragua-empezara-a-fabricar-vacunas-propias/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-05.json",
+    "message_index": 622,
+    "message_id": 94677,
+    "date": "2025-05-22T18:55:19+00:00",
+    "text": "teleSUR\nNicaragua comenzará a fabricar su vacuna anti-COVID-19 este año\nhttps://www.telesurtv.net/nicaragua-empezara-a-fabricar-vacunas-propias/",
+    "photo_path": null,
+    "views": 1708,
+    "reactions": {
+      "👏": 40,
+      "🤡": 1
+    },
+    "total_reactions": 41
+  },
+  "preprocessing": {
+    "cleaned": "este año, nicaragua comenzará a producir localmente la vacuna contra el covid-19, llamada convacell. así lo anunció el presidente del instituto nicaragüense de seguridad social (inss), doctor roberto lópez, quien calificó como exitosos los avances del instituto latinoamericano de biotecnología mechnikov. “la vacuna convacell, que antes venía desde el instituto de vacunas y sueros de san petersburgo, ahora será fabricada en nuestro país”, explicó lópez durante la apertura del ix congreso farmacéutico internacional rusia-nicaragua 2025. actualmente, el instituto mechnikov produce más de 50 millones de dosis de vacunas al año. de acuerdo con el doctor lópez, esta planta forma parte del esfuerzo del gobierno sandinista para asegurar que los nicaragüenses tengan acceso a medicamentos seguros, eficaces y a precios accesibles. además, destacó que mechnikov está preparada para suministrar vacunas contra la influenza a toda centroamérica y el caribe en caso de una emergencia sanitaria. lópez también recordó que recientemente la organización mundial de la salud aprobó un acuerdo internacional para mejorar la preparación frente a futuras pandemias. este resalta la importancia de producir vacunas de forma local. “con visión de futuro, hace 16 años el presidente vladímir putin y el comandante daniel ortega, con apoyo de cuba, impulsaron la creación de esta planta de vacunas para asegurar el acceso a la salud no solo en nicaragua, sino en toda la región”, señaló. desde 2019, mechnikov ha entregado más de 10 millones de dosis de vacunas contra la influenza a nicaragua, a un costo cinco veces menor que antes. también, gracias a la colaboración internacional con rusia y china, el país ha podido acceder a vacunas contra la fiebre amarilla, el virus del papiloma humano (vph) y, ahora, el covid-19.",
+    "tokens": [
+      "año",
+      ",",
+      "nicaragua",
+      "comenzará",
+      "producir",
+      "localmente",
+      "vacuna",
+      "covid-19",
+      ",",
+      "llamada",
+      "convacell",
+      ".",
+      "así",
+      "anunció",
+      "presidente",
+      "instituto",
+      "nicaragüense",
+      "seguridad",
+      "social",
+      "(",
+      "inss",
+      ")",
+      ",",
+      "doctor",
+      "roberto",
+      "lópez",
+      ",",
+      "calificó",
+      "exitosos",
+      "avances",
+      "instituto",
+      "latinoamericano",
+      "biotecnología",
+      "mechnikov",
+      ".",
+      "“",
+      "vacuna",
+      "convacell",
+      ",",
+      "venía",
+      "instituto",
+      "vacunas",
+      "sueros",
+      "san",
+      "petersburgo",
+      ",",
+      "ahora",
+      "fabricada",
+      "país",
+      "”",
+      ",",
+      "explicó",
+      "lópez",
+      "apertura",
+      "ix",
+      "congreso",
+      "farmacéutico",
+      "internacional",
+      "rusia-nicaragua",
+      "2025.",
+      "actualmente",
+      ",",
+      "instituto",
+      "mechnikov",
+      "produce",
+      "50",
+      "millones",
+      "dosis",
+      "vacunas",
+      "año",
+      ".",
+      "acuerdo",
+      "doctor",
+      "lópez",
+      ",",
+      "planta",
+      "forma",
+      "parte",
+      "esfuerzo",
+      "gobierno",
+      "sandinista",
+      "asegurar",
+      "nicaragüenses",
+      "acceso",
+      "medicamentos",
+      "seguros",
+      ",",
+      "eficaces",
+      "precios",
+      "accesibles",
+      ".",
+      "además",
+      ",",
+      "destacó",
+      "mechnikov",
+      "preparada",
+      "suministrar",
+      "vacunas",
+      "influenza",
+      "toda",
+      "centroamérica",
+      "caribe",
+      "caso",
+      "emergencia",
+      "sanitaria",
+      ".",
+      "lópez",
+      "recordó",
+      "recientemente",
+      "organización",
+      "mundial",
+      "salud",
+      "aprobó",
+      "acuerdo",
+      "internacional",
+      "mejorar",
+      "preparación",
+      "frente",
+      "futuras",
+      "pandemias",
+      ".",
+      "resalta",
+      "importancia",
+      "producir",
+      "vacunas",
+      "forma",
+      "local",
+      ".",
+      "“",
+      "visión",
+      "futuro",
+      ",",
+      "hace",
+      "16",
+      "años",
+      "presidente",
+      "vladímir",
+      "putin",
+      "comandante",
+      "daniel",
+      "ortega",
+      ",",
+      "apoyo",
+      "cuba",
+      ",",
+      "impulsaron",
+      "creación",
+      "planta",
+      "vacunas",
+      "asegurar",
+      "acceso",
+      "salud",
+      "solo",
+      "nicaragua",
+      ",",
+      "sino",
+      "toda",
+      "región",
+      "”",
+      ",",
+      "señaló",
+      ".",
+      "2019",
+      ",",
+      "mechnikov",
+      "entregado",
+      "10",
+      "millones",
+      "dosis",
+      "vacunas",
+      "influenza",
+      "nicaragua",
+      ",",
+      "costo",
+      "cinco",
+      "veces",
+      "menor",
+      ".",
+      ",",
+      "gracias",
+      "colaboración",
+      "internacional",
+      "rusia",
+      "china",
+      ",",
+      "país",
+      "podido",
+      "acceder",
+      "vacunas",
+      "fiebre",
+      "amarilla",
+      ",",
+      "virus",
+      "papiloma",
+      "humano",
+      "(",
+      "vph",
+      ")",
+      ",",
+      "ahora",
+      ",",
+      "covid-19",
+      "."
+    ],
+    "token_count": 203,
+    "sentence_count": 11
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NN": 78,
+      "NNP": 66,
+      "FW": 64,
+      "JJ": 27,
+      "VBZ": 7,
+      "NNS": 11,
+      "VBP": 8,
+      "VBD": 1,
+      "CD": 5,
+      "IN": 3,
+      "DT": 1
+    },
+    "bigram_freq": {
+      "NN-NN": 37,
+      "NN-NNP": 14,
+      "NNP-NN": 17,
+      "NN-FW": 12,
+      "FW-FW": 34,
+      "FW-JJ": 4,
+      "JJ-FW": 4,
+      "FW-NNP": 15,
+      "NNP-NNP": 26,
+      "NNP-VBZ": 5,
+      "VBZ-JJ": 5,
+      "JJ-JJ": 6,
+      "JJ-NN": 11,
+      "NNP-FW": 12,
+      "NN-JJ": 4,
+      "NN-NNS": 5,
+      "NNS-VBP": 7,
+      "VBP-NNP": 2,
+      "NN-VBZ": 2,
+      "JJ-NNP": 3,
+      "NNP-VBD": 1,
+      "VBD-JJ": 1,
+      "NNP-CD": 2,
+      "CD-NNP": 2,
+      "FW-NN": 9,
+      "NNP-VBP": 1,
+      "VBP-NN": 1,
+      "FW-CD": 1,
+      "CD-NNS": 2,
+      "NNS-FW": 2,
+      "VBP-JJ": 4,
+      "JJ-NNS": 3,
+      "NNS-JJ": 1,
+      "VBP-NNS": 1,
+      "NNS-NNP": 1,
+      "VBZ-NNP": 2,
+      "NN-IN": 3,
+      "IN-JJ": 1,
+      "NN-CD": 1,
+      "CD-NN": 1,
+      "IN-NNP": 1,
+      "FW-DT": 1,
+      "DT-NN": 1,
+      "IN-CD": 1,
+      "NNP-JJ": 1
+    },
+    "trigram_freq": {
+      "NN-NN-NNP": 9,
+      "NN-NNP-NN": 2,
+      "NNP-NN-NN": 11,
+      "NN-NN-NN": 16,
+      "NN-NN-FW": 5,
+      "NN-FW-FW": 6,
+      "FW-FW-JJ": 3,
+      "FW-JJ-FW": 2,
+      "JJ-FW-NNP": 2,
+      "FW-NNP-NN": 4,
+      "NNP-NN-NNP": 2,
+      "NN-NNP-NNP": 7,
+      "NNP-NNP-VBZ": 2,
+      "NNP-VBZ-JJ": 4,
+      "VBZ-JJ-JJ": 2,
+      "JJ-JJ-NN": 5,
+      "JJ-NN-FW": 2,
+      "NN-FW-NNP": 2,
+      "FW-NNP-NNP": 8,
+      "NNP-NNP-FW": 7,
+      "NNP-FW-NNP": 7,
+      "NNP-NNP-NNP": 9,
+      "NNP-NNP-NN": 6,
+      "NN-NN-JJ": 2,
+      "NN-JJ-NN": 1,
+      "JJ-NN-NNS": 1,
+      "NN-NNS-VBP": 5,
+      "NNS-VBP-NNP": 2,
+      "VBP-NNP-NNP": 1,
+      "NN-JJ-FW": 1,
+      "NNP-NN-VBZ": 1,
+      "NN-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 2,
+      "JJ-NN-JJ": 1,
+      "NN-JJ-NNP": 1,
+      "JJ-NNP-FW": 1,
+      "NNP-NNP-VBD": 1,
+      "NNP-VBD-JJ": 1,
+      "VBD-JJ-NN": 1,
+      "FW-FW-FW": 24,
+      "FW-FW-NNP": 4,
+      "NNP-NNP-CD": 1,
+      "NNP-CD-NNP": 2,
+      "CD-NNP-FW": 1,
+      "NNP-FW-NN": 4,
+      "FW-NN-NNP": 2,
+      "NN-NNP-VBP": 1,
+      "NNP-VBP-NN": 1,
+      "VBP-NN-FW": 1,
+      "NN-FW-CD": 1,
+      "FW-CD-NNS": 1,
+      "CD-NNS-FW": 2,
+      "NNS-FW-FW": 2,
+      "FW-NNP-FW": 1,
+      "FW-NN-NN": 2,
+      "NN-NNP-VBZ": 3,
+      "JJ-NN-NN": 6,
+      "NN-NN-NNS": 3,
+      "NNS-VBP-JJ": 4,
+      "VBP-JJ-NNS": 2,
+      "JJ-NNS-JJ": 1,
+      "NNS-JJ-NNS": 1,
+      "JJ-NNS-VBP": 2,
+      "NNS-VBP-NNS": 1,
+      "VBP-NNS-NNP": 1,
+      "NNS-NNP-NN": 1,
+      "NN-FW-NN": 3,
+      "FW-NN-FW": 2,
+      "FW-FW-NN": 2,
+      "NNP-VBZ-NNP": 1,
+      "VBZ-NNP-FW": 1,
+      "FW-NN-IN": 1,
+      "NN-IN-JJ": 1,
+      "IN-JJ-NN": 1,
+      "NNP-NN-JJ": 1,
+      "NN-JJ-JJ": 1,
+      "JJ-JJ-JJ": 1,
+      "FW-NN-NNS": 1,
+      "VBP-NNP-NN": 1,
+      "FW-JJ-NNP": 1,
+      "JJ-NNP-NN": 1,
+      "NNP-NN-FW": 2,
+      "FW-NN-CD": 1,
+      "NN-CD-NN": 1,
+      "CD-NN-NN": 1,
+      "NN-NN-IN": 2,
+      "NN-IN-NNP": 1,
+      "IN-NNP-NNP": 1,
+      "NNP-FW-FW": 1,
+      "FW-FW-DT": 1,
+      "FW-DT-NN": 1,
+      "DT-NN-VBZ": 1,
+      "NN-VBZ-NNP": 1,
+      "VBZ-NNP-NN": 1,
+      "FW-NNP-CD": 1,
+      "CD-NNP-NN": 1,
+      "NN-IN-CD": 1,
+      "IN-CD-NNS": 1,
+      "JJ-FW-FW": 1,
+      "FW-NNP-JJ": 1,
+      "NNP-JJ-NN": 1,
+      "VBP-JJ-FW": 1,
+      "JJ-FW-JJ": 1,
+      "FW-JJ-JJ": 1,
+      "JJ-NN-NNP": 1,
+      "VBP-JJ-JJ": 1,
+      "NN-NNP-FW": 1,
+      "VBZ-JJ-NNP": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 78,
+        "NNP": 66,
+        "FW": 64,
+        "JJ": 27,
+        "NNS": 11
+      },
+      "top_bigrams": {
+        "NN-NN": 37,
+        "FW-FW": 34,
+        "NNP-NNP": 26,
+        "NNP-NN": 17,
+        "FW-NNP": 15
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 24,
+        "NN-NN-NN": 16,
+        "NNP-NN-NN": 11,
+        "NN-NN-NNP": 9,
+        "NNP-NNP-NNP": 9
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 11,
+    "chunk_counts": {
+      "NP": 79,
+      "VP": 18,
+      "ADJP": 4,
+      "PP": 4
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 3,
+        "weight": 0.0259
+      },
+      {
+        "rule": "NP -> ('Nicaragua', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0172
+      },
+      {
+        "rule": "ADJP -> ('contra', 'JJ')",
+        "frequency": 2,
+        "weight": 0.0172
+      },
+      {
+        "rule": "NP -> ('millones', 'NNS')",
+        "frequency": 2,
+        "weight": 0.0172
+      },
+      {
+        "rule": "NP -> ('a', 'DT') ('la', 'NN')",
+        "frequency": 2,
+        "weight": 0.0172
+      },
+      {
+        "rule": "S -> NP (',', ',') NP VP ('la', 'FW') ('vacuna', 'FW') ADJP ('el', 'FW') NP (',', ',') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0086
+      },
+      {
+        "rule": "NP -> ('Este', 'NN') ('año', 'NN')",
+        "frequency": 1,
+        "weight": 0.0086
+      },
+      {
+        "rule": "VP -> ('comenzará', 'VBZ') NP",
+        "frequency": 1,
+        "weight": 0.0086
+      },
+      {
+        "rule": "NP -> ('a', 'DT') ('producir', 'NN') ('localmente', 'NN')",
+        "frequency": 1,
+        "weight": 0.0086
+      },
+      {
+        "rule": "NP -> ('COVID-19', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0086
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Este año"
+      },
+      {
+        "label": "NP",
+        "text": "Nicaragua"
+      },
+      {
+        "label": "VP",
+        "text": "comenzará a producir localmente"
+      },
+      {
+        "label": "NP",
+        "text": "a producir localmente"
+      },
+      {
+        "label": "ADJP",
+        "text": "contra"
+      },
+      {
+        "label": "NP",
+        "text": "COVID-19"
+      },
+      {
+        "label": "NP",
+        "text": "llamada Convacell"
+      },
+      {
+        "label": "NP",
+        "text": "Así"
+      },
+      {
+        "label": "VP",
+        "text": "lo anunció el presidente"
+      },
+      {
+        "label": "NP",
+        "text": "anunció el presidente"
+      },
+      {
+        "label": "NP",
+        "text": "Instituto Nicaragüense"
+      },
+      {
+        "label": "NP",
+        "text": "Seguridad Social"
+      },
+      {
+        "label": "NP",
+        "text": "INSS"
+      },
+      {
+        "label": "NP",
+        "text": "doctor Roberto López"
+      },
+      {
+        "label": "NP",
+        "text": "quien calificó como"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Este/NN año/NN)\n  ,/,\n  (NP Nicaragua/NNP)\n  (VP comenzará/VBZ (NP a/DT producir/NN localmente/NN))\n  la/FW\n  vacuna/FW\n  (ADJP contra/JJ)\n  el/FW\n  (NP COVID-19/NNP)\n  ,/,\n  (NP llamada/NN Convacell/NNP)\n  ./.)",
+      "(S\n  (NP Así/NNP)\n  (VP lo/VBZ (NP anunció/JJ el/JJ presidente/NN))\n  del/FW\n  (NP Instituto/NNP Nicaragüense/NNP)\n  de/FW\n  (NP Seguridad/NNP Social/NNP)\n  (/(\n  (NP INSS/NNP)\n  )/)\n  ,/,\n  (NP doctor/NN Roberto/NNP López/NNP)\n  ,/,\n  (NP quien/NN calificó/NN como/NN)\n  (NP exitosos/JJ los/NN avances/NNS)\n  (VP del/VBP (NP Instituto/NNP Latinoamericano/NNP))\n  de/FW\n  (NP Biotecnología/NNP Mechnikov/NNP)\n  ./.)",
+      "(S\n  (NP LEA/NNP TAMBIÉN/NNP Nicaragua/NNP comercializará/NN café/NN)\n  (ADJP nacional/JJ)\n  en/FW\n  (NP China/NNP “/NNP La/NNP vacuna/NNP Convacell/NNP)\n  ,/,\n  (NP que/NN antes/NNS)\n  (VP venía/VBP (NP desde/JJ el/JJ Instituto/NNP))\n  de/FW\n  (NP Vacunas/NNP)\n  y/CC\n  (NP Sueros/NNP)\n  (PP de/IN (NP San/NNP Petersburgo/NNP))\n  ,/,\n  (VP ahora/VBZ (NP será/JJ fabricada/NN))\n  en/FW\n  nuestro/FW\n  (NP país/NN ”/NN)\n  ,/,\n  (NP\n    explicó/JJ\n    López/NNP\n    durante/NN\n    la/NN\n    apertura/NN\n    del/NN\n    IX/NNP\n    Congreso/NNP\n    Farmacéutico/NNP\n    Internacional/NNP\n    Rusia-Nicaragua/NNP)\n  2025/CD\n  ./.)",
+      "(S\n  (NP Actualmente/NNP)\n  ,/,\n  (NP el/JJ instituto/NN Mechnikov/NNP)\n  (VP produce/VBP (NP más/NN))\n  de/FW\n  50/CD\n  (NP millones/NNS)\n  de/FW\n  dosis/FW\n  de/FW\n  vacunas/FW\n  (NP al/NN año/NN)\n  ./.)",
+      "(S\n  (NP De/NNP)\n  acuerdo/FW\n  (NP con/NN el/NN doctor/NN López/NNP)\n  ,/,\n  (VP\n    esta/VBZ\n    (NP\n      planta/JJ\n      forma/JJ\n      parte/NN\n      del/NN\n      esfuerzo/NN\n      del/NN\n      Gobierno/NNP\n      Sandinista/NNP\n      para/NN\n      asegurar/NN\n      que/NN\n      los/NN\n      nicaragüenses/NNS))\n  (VP tengan/VBP)\n  (PP acceso/IN (NP a/DT medicamentos/NN seguros/NN))\n  ,/,\n  (VP eficaces/VBZ y/JJR (NP a/DT precios/JJ accesibles/NNS))\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "GOBIERNOS_OFICIALES",
+      "APROBACION_RECHAZO",
+      "TIEMPO_RELATIVO",
+      "CANTIDADES_NUMERICAS",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "REGIONES_PROVINCIAS",
+      "INSTITUCIONES_EDUCATIVAS",
+      "PAISES",
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "RELACIONES_INTERNACIONALES"
+    ],
+    "matches": [
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "precios",
+        "position": [
+          874,
+          881
+        ],
+        "start": 874,
+        "end": 881
+      },
+      {
+        "category": "RELACIONES_INTERNACIONALES",
+        "matched_text": "acuerdo internacional",
+        "position": [
+          1140,
+          1161
+        ],
+        "start": 1140,
+        "end": 1161
+      },
+      {
+        "category": "RELACIONES_INTERNACIONALES",
+        "matched_text": "acuerdo con el doctor lópez, esta planta forma parte del esfuerzo del gobierno sandinista para asegurar que los nicaragüenses tengan acceso a medicamentos seguros, eficaces y a precios",
+        "position": [
+          697,
+          881
+        ],
+        "start": 697,
+        "end": 881
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "presidente vladímir putin y el comandante daniel ortega, con apoyo",
+        "position": [
+          1323,
+          1389
+        ],
+        "start": 1323,
+        "end": 1389
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "señaló",
+        "position": [
+          1530,
+          1536
+        ],
+        "start": 1530,
+        "end": 1536
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "anunció",
+        "position": [
+          108,
+          115
+        ],
+        "start": 108,
+        "end": 115
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "explicó",
+        "position": [
+          504,
+          511
+        ],
+        "start": 504,
+        "end": 511
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente del instituto",
+        "position": [
+          119,
+          143
+        ],
+        "start": 119,
+        "end": 143
+      },
+      {
+        "category": "INSTITUCIONES_EDUCATIVAS",
+        "matched_text": "instituto nicaragüense de seguridad",
+        "position": [
+          134,
+          169
+        ],
+        "start": 134,
+        "end": 169
+      },
+      {
+        "category": "APROBACION_RECHAZO",
+        "matched_text": "aprobó",
+        "position": [
+          1130,
+          1136
+        ],
+        "start": 1130,
+        "end": 1136
+      },
+      {
+        "category": "APROBACION_RECHAZO",
+        "matched_text": "destacó",
+        "position": [
+          902,
+          909
+        ],
+        "start": 902,
+        "end": 909
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "cuba",
+        "position": [
+          1393,
+          1397
+        ],
+        "start": 1393,
+        "end": 1397
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "nicaragua",
+        "position": [
+          10,
+          19
+        ],
+        "start": 10,
+        "end": 19
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "china",
+        "position": [
+          361,
+          366
+        ],
+        "start": 361,
+        "end": 366
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "caribe",
+        "position": [
+          1010,
+          1016
+        ],
+        "start": 1010,
+        "end": 1016
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "región”, señaló",
+        "position": [
+          1521,
+          1536
+        ],
+        "start": 1521,
+        "end": 1536
+      },
+      {
+        "category": "TIEMPO_RELATIVO",
+        "matched_text": "actualmente",
+        "position": [
+          603,
+          614
+        ],
+        "start": 603,
+        "end": 614
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "50 millones",
+        "position": [
+          654,
+          665
+        ],
+        "start": 654,
+        "end": 665
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "más de 50",
+        "position": [
+          647,
+          656
+        ],
+        "start": 647,
+        "end": 656
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "más de 10",
+        "position": [
+          1573,
+          1582
+        ],
+        "start": 1573,
+        "end": 1582
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "hace 16 años",
+        "position": [
+          1307,
+          1319
+        ],
+        "start": 1307,
+        "end": 1319
+      }
+    ],
+    "match_count": 21
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "en Nicaragua",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Convacell.",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Roberto López",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Centroamérica",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Organización Mundial de la Salud",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Nicaragua",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Sueros de San Petersburgo",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Gobierno Sandinista",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Daniel Ortega",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Instituto de Vacunas",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "China",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Instituto Latinoamericano de Biotecnología Mechnikov",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Rusia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Caribe",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "López",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "instituto Mechnikov",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Mechnikov",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Covid-19",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "INSS",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Vladímir Putin",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "COVID-19",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Cuba",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Instituto Nicaragüense de Seguridad Social",
+        "tipo": "Organizacion"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Nicaragua",
+        "relacion": "COMENZAR",
+        "objeto": "COVID-19"
+      },
+      {
+        "sujeto": "Nicaragua",
+        "relacion": "COMENZAR",
+        "objeto": "Convacell."
+      },
+      {
+        "sujeto": "Nicaragua",
+        "relacion": "COMERCIALIZAR_EXPLICAR",
+        "objeto": "China"
+      },
+      {
+        "sujeto": "Nicaragua",
+        "relacion": "COMERCIALIZAR_EXPLICAR",
+        "objeto": "Instituto de Vacunas"
+      },
+      {
+        "sujeto": "Nicaragua",
+        "relacion": "COMERCIALIZAR_EXPLICAR",
+        "objeto": "Sueros de San Petersburgo"
+      },
+      {
+        "sujeto": "Nicaragua",
+        "relacion": "COMERCIALIZAR_EXPLICAR",
+        "objeto": "López"
+      },
+      {
+        "sujeto": "China",
+        "relacion": "COMERCIALIZAR_EXPLICAR",
+        "objeto": "Instituto de Vacunas"
+      },
+      {
+        "sujeto": "China",
+        "relacion": "COMERCIALIZAR_EXPLICAR",
+        "objeto": "Sueros de San Petersburgo"
+      },
+      {
+        "sujeto": "López",
+        "relacion": "COMERCIALIZAR_EXPLICAR",
+        "objeto": "China"
+      },
+      {
+        "sujeto": "López",
+        "relacion": "VENIR_COMERCIALIZAR_EXPLICAR",
+        "objeto": "Instituto de Vacunas"
+      },
+      {
+        "sujeto": "López",
+        "relacion": "VENIR_COMERCIALIZAR_EXPLICAR",
+        "objeto": "Sueros de San Petersburgo"
+      },
+      {
+        "sujeto": "López",
+        "relacion": "RECORDAR",
+        "objeto": "Organización Mundial de la Salud"
+      },
+      {
+        "sujeto": "Vladímir Putin",
+        "relacion": "HACER_IMPULSAR_SE_ALAR",
+        "objeto": "Cuba"
+      },
+      {
+        "sujeto": "Vladímir Putin",
+        "relacion": "HACER_IMPULSAR_SE_ALAR",
+        "objeto": "en Nicaragua"
+      },
+      {
+        "sujeto": "Daniel Ortega",
+        "relacion": "HACER_IMPULSAR_SE_ALAR",
+        "objeto": "Cuba"
+      },
+      {
+        "sujeto": "Daniel Ortega",
+        "relacion": "HACER_IMPULSAR_SE_ALAR",
+        "objeto": "en Nicaragua"
+      },
+      {
+        "sujeto": "Cuba",
+        "relacion": "HACER_IMPULSAR_SE_ALAR",
+        "objeto": "en Nicaragua"
+      },
+      {
+        "sujeto": "Mechnikov",
+        "relacion": "ENTREGAR",
+        "objeto": "Nicaragua"
+      },
+      {
+        "sujeto": "Rusia",
+        "relacion": "ACCEDER",
+        "objeto": "Covid-19"
+      },
+      {
+        "sujeto": "China",
+        "relacion": "ACCEDER",
+        "objeto": "Covid-19"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.3818,
+    "pos": 0.017,
+    "neu": 0.975,
+    "neg": 0.008,
+    "label": "positive"
+  }
+}

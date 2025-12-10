@@ -1,0 +1,686 @@
+{
+  "url": "https://www.telesurtv.net/granada-explota-en-el-sur-de-bogota-capital-de-colombia/",
+  "title": "Granada explota en el sur de Bogotá, capital de Colombia - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "Bogotá",
+    "Colombia",
+    "Explosión",
+    "Granada",
+    "Sucesos"
+  ],
+  "text": "El hecho provocó retraso en las cotidianidades de la urbe colombiana.\nDurante la tarde de este martes, una explosión provocada por una granada estremeció a los residentes del sector Patio Bonito, ubicado en el sur de Bogotá, Capital de Colombia.\nLa detonación dejó un saldo de ocho civiles y dos policías heridos, según lo confirmado por el alcalde de Bogotá, Carlos Fernando Galán, quien se trasladó al lugar acompañado de otras autoridades locales.\nEl alcalde Galán indicó que el atentado parece haber sido dirigido específicamente contra las fuerzas del orden, en represalia por los recientes operativos que han desmantelado estructuras criminales en la zona.\n“Este territorio ha sido priorizado en nuestra lucha contra el terrorismo y el crimen organizado. Hemos realizado importantes avances en la reducción de homicidios, tráfico de drogas y extorsión”, afirmó el mandatario.\nEn los últimos meses, las acciones de seguridad han resultado en la captura de 90 presuntos delincuentes, entre ellos 15 cabecillas de bandas criminales. “Creemos que este ataque es una retaliación por los esfuerzos realizados, que han llevado a condenas significativas en los últimos días”, agregó Galán.\nDurante su visita a la zona, el alcalde, junto al comandante de la Policía Metropolitana y otros funcionarios, escuchó los testimonios de las familias afectadas por la explosión.\n“Estamos comprometidos a intensificar nuestras acciones en esta área. La reducción de la extorsión y el fortalecimiento de la presencia institucional son nuestras prioridades para garantizar la seguridad y tranquilidad de los habitantes de Kennedy y otras partes de Bogotá”, aseguró.\nEl sistema de transporte TransMilenio reportó que uno de sus buses del SITP fue impactado por la onda explosiva, resultando en daños materiales.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/granada-explota-en-el-sur-de-bogota-capital-de-colombia/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-09.json",
+    "message_index": 1192,
+    "message_id": 76091,
+    "date": "2024-09-11T07:55:32+00:00",
+    "text": "teleSUR\nGranada explota en el sur de Bogotá, capital de Colombia\nhttps://www.telesurtv.net/granada-explota-en-el-sur-de-bogota-capital-de-colombia/",
+    "photo_path": null,
+    "views": 2819,
+    "reactions": {
+      "🕊": 20,
+      "😱": 6,
+      "👍": 4,
+      "🔥": 4,
+      "🤯": 3
+    },
+    "total_reactions": 37
+  },
+  "preprocessing": {
+    "cleaned": "el hecho provocó retraso en las cotidianidades de la urbe colombiana. durante la tarde de este martes, una explosión provocada por una granada estremeció a los residentes del sector patio bonito, ubicado en el sur de bogotá, capital de colombia. la detonación dejó un saldo de ocho civiles y dos policías heridos, según lo confirmado por el alcalde de bogotá, carlos fernando galán, quien se trasladó al lugar acompañado de otras autoridades locales. el alcalde galán indicó que el atentado parece haber sido dirigido específicamente contra las fuerzas del orden, en represalia por los recientes operativos que han desmantelado estructuras criminales en la zona. “este territorio ha sido priorizado en nuestra lucha contra el terrorismo y el crimen organizado. hemos realizado importantes avances en la reducción de homicidios, tráfico de drogas y extorsión”, afirmó el mandatario. en los últimos meses, las acciones de seguridad han resultado en la captura de 90 presuntos delincuentes, entre ellos 15 cabecillas de bandas criminales. “creemos que este ataque es una retaliación por los esfuerzos realizados, que han llevado a condenas significativas en los últimos días”, agregó galán. durante su visita a la zona, el alcalde, junto al comandante de la policía metropolitana y otros funcionarios, escuchó los testimonios de las familias afectadas por la explosión. “estamos comprometidos a intensificar nuestras acciones en esta área. la reducción de la extorsión y el fortalecimiento de la presencia institucional son nuestras prioridades para garantizar la seguridad y tranquilidad de los habitantes de kennedy y otras partes de bogotá”, aseguró. el sistema de transporte transmilenio reportó que uno de sus buses del sitp fue impactado por la onda explosiva, resultando en daños materiales.",
+    "tokens": [
+      "hecho",
+      "provocó",
+      "retraso",
+      "cotidianidades",
+      "urbe",
+      "colombiana",
+      ".",
+      "tarde",
+      "martes",
+      ",",
+      "explosión",
+      "provocada",
+      "granada",
+      "estremeció",
+      "residentes",
+      "sector",
+      "patio",
+      "bonito",
+      ",",
+      "ubicado",
+      "sur",
+      "bogotá",
+      ",",
+      "capital",
+      "colombia",
+      ".",
+      "detonación",
+      "dejó",
+      "saldo",
+      "ocho",
+      "civiles",
+      "dos",
+      "policías",
+      "heridos",
+      ",",
+      "según",
+      "confirmado",
+      "alcalde",
+      "bogotá",
+      ",",
+      "carlos",
+      "fernando",
+      "galán",
+      ",",
+      "trasladó",
+      "lugar",
+      "acompañado",
+      "autoridades",
+      "locales",
+      ".",
+      "alcalde",
+      "galán",
+      "indicó",
+      "atentado",
+      "parece",
+      "haber",
+      "sido",
+      "dirigido",
+      "específicamente",
+      "fuerzas",
+      "orden",
+      ",",
+      "represalia",
+      "recientes",
+      "operativos",
+      "desmantelado",
+      "estructuras",
+      "criminales",
+      "zona",
+      ".",
+      "“",
+      "territorio",
+      "sido",
+      "priorizado",
+      "lucha",
+      "terrorismo",
+      "crimen",
+      "organizado",
+      ".",
+      "realizado",
+      "importantes",
+      "avances",
+      "reducción",
+      "homicidios",
+      ",",
+      "tráfico",
+      "drogas",
+      "extorsión",
+      "”",
+      ",",
+      "afirmó",
+      "mandatario",
+      ".",
+      "últimos",
+      "meses",
+      ",",
+      "acciones",
+      "seguridad",
+      "resultado",
+      "captura",
+      "90",
+      "presuntos",
+      "delincuentes",
+      ",",
+      "15",
+      "cabecillas",
+      "bandas",
+      "criminales",
+      ".",
+      "“",
+      "creemos",
+      "ataque",
+      "retaliación",
+      "esfuerzos",
+      "realizados",
+      ",",
+      "llevado",
+      "condenas",
+      "significativas",
+      "últimos",
+      "días",
+      "”",
+      ",",
+      "agregó",
+      "galán",
+      ".",
+      "visita",
+      "zona",
+      ",",
+      "alcalde",
+      ",",
+      "junto",
+      "comandante",
+      "policía",
+      "metropolitana",
+      "funcionarios",
+      ",",
+      "escuchó",
+      "testimonios",
+      "familias",
+      "afectadas",
+      "explosión",
+      ".",
+      "“",
+      "comprometidos",
+      "intensificar",
+      "acciones",
+      "área",
+      ".",
+      "reducción",
+      "extorsión",
+      "fortalecimiento",
+      "presencia",
+      "institucional",
+      "prioridades",
+      "garantizar",
+      "seguridad",
+      "tranquilidad",
+      "habitantes",
+      "kennedy",
+      "partes",
+      "bogotá",
+      "”",
+      ",",
+      "aseguró",
+      ".",
+      "sistema",
+      "transporte",
+      "transmilenio",
+      "reportó",
+      "buses",
+      "sitp",
+      "impactado",
+      "onda",
+      "explosiva",
+      ",",
+      "resultando",
+      "daños",
+      "materiales",
+      "."
+    ],
+    "token_count": 180,
+    "sentence_count": 12
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 33,
+      "NN": 81,
+      "IN": 15,
+      "FW": 60,
+      "JJ": 30,
+      "NNS": 20,
+      "VBP": 11,
+      "VBZ": 7,
+      "CD": 2,
+      "RB": 2,
+      "VBD": 1,
+      "MD": 1,
+      "VB": 1
+    },
+    "bigram_freq": {
+      "NNP-NN": 12,
+      "NN-NN": 45,
+      "NN-IN": 8,
+      "IN-FW": 9,
+      "FW-FW": 35,
+      "FW-JJ": 3,
+      "JJ-NN": 16,
+      "NN-NNP": 6,
+      "NNP-NNP": 9,
+      "NNP-FW": 4,
+      "FW-NNS": 7,
+      "NNS-VBP": 9,
+      "VBP-JJ": 4,
+      "NN-JJ": 7,
+      "NN-VBZ": 3,
+      "VBZ-FW": 1,
+      "FW-NN": 7,
+      "NNP-JJ": 1,
+      "JJ-FW": 2,
+      "FW-NNP": 6,
+      "NNP-IN": 1,
+      "IN-NNP": 3,
+      "NN-FW": 7,
+      "NNS-NNS": 2,
+      "NNS-NNP": 2,
+      "NNP-VBP": 2,
+      "VBP-NNP": 4,
+      "JJ-NNS": 5,
+      "JJ-JJ": 5,
+      "VBZ-JJ": 4,
+      "VBP-FW": 2,
+      "IN-JJ": 3,
+      "NN-NNS": 5,
+      "NNP-VBZ": 2,
+      "NNS-IN": 5,
+      "FW-CD": 1,
+      "CD-NN": 1,
+      "VBP-RB": 1,
+      "RB-CD": 1,
+      "CD-NNS": 1,
+      "JJ-NNP": 2,
+      "NNP-VBD": 1,
+      "VBD-JJ": 1,
+      "VBZ-RB": 1,
+      "RB-JJ": 1,
+      "NNP-MD": 1,
+      "MD-VB": 1,
+      "VB-JJ": 1,
+      "NNS-VBZ": 1,
+      "FW-VBZ": 1,
+      "VBZ-IN": 1
+    },
+    "trigram_freq": {
+      "NNP-NN-NN": 9,
+      "NN-NN-NN": 27,
+      "NN-NN-IN": 4,
+      "NN-IN-FW": 6,
+      "IN-FW-FW": 2,
+      "FW-FW-FW": 23,
+      "FW-FW-JJ": 2,
+      "FW-JJ-NN": 2,
+      "JJ-NN-NNP": 2,
+      "NN-NNP-NNP": 3,
+      "NNP-NNP-FW": 2,
+      "NNP-FW-FW": 2,
+      "FW-FW-NNS": 2,
+      "FW-NNS-VBP": 4,
+      "NNS-VBP-JJ": 4,
+      "VBP-JJ-NN": 2,
+      "JJ-NN-NN": 8,
+      "NN-NN-JJ": 6,
+      "NN-JJ-NN": 5,
+      "NN-NN-VBZ": 3,
+      "NN-VBZ-FW": 1,
+      "VBZ-FW-NN": 1,
+      "FW-NN-NNP": 2,
+      "NNP-NNP-JJ": 1,
+      "NNP-JJ-FW": 1,
+      "JJ-FW-FW": 1,
+      "FW-FW-NNP": 5,
+      "FW-NNP-NNP": 3,
+      "NNP-NNP-IN": 1,
+      "NNP-IN-NNP": 1,
+      "IN-NNP-NNP": 1,
+      "NNP-FW-NN": 1,
+      "FW-NN-JJ": 1,
+      "JJ-NN-IN": 4,
+      "IN-FW-NNS": 4,
+      "NN-NN-FW": 4,
+      "NN-FW-FW": 5,
+      "NNP-NNP-NNP": 2,
+      "NNP-NNP-NN": 1,
+      "FW-NNS-NNS": 1,
+      "NNS-NNS-NNP": 1,
+      "NNS-NNP-VBP": 1,
+      "NNP-VBP-NNP": 2,
+      "VBP-NNP-NN": 4,
+      "NN-JJ-NNS": 2,
+      "JJ-NNS-VBP": 2,
+      "VBP-JJ-JJ": 1,
+      "JJ-JJ-NN": 3,
+      "NN-VBZ-JJ": 2,
+      "VBZ-JJ-NN": 3,
+      "NN-FW-NNS": 1,
+      "NNS-VBP-FW": 2,
+      "VBP-FW-FW": 2,
+      "FW-NNP-NN": 3,
+      "NN-IN-JJ": 2,
+      "IN-JJ-JJ": 2,
+      "JJ-NN-NNS": 2,
+      "NN-NNS-VBP": 2,
+      "VBP-JJ-NNS": 1,
+      "NNS-VBP-NNP": 2,
+      "NNP-NN-NNS": 1,
+      "NN-NNS-NNS": 1,
+      "NNS-NNS-VBP": 1,
+      "FW-FW-NN": 2,
+      "NN-NNP-NN": 1,
+      "NNP-NN-NNP": 1,
+      "NN-NNP-VBZ": 2,
+      "NNP-VBZ-JJ": 1,
+      "VBZ-JJ-NNS": 1,
+      "JJ-NNS-IN": 3,
+      "NNS-IN-FW": 3,
+      "IN-FW-NN": 1,
+      "FW-NN-NN": 1,
+      "FW-FW-CD": 1,
+      "FW-CD-NN": 1,
+      "CD-NN-NNS": 1,
+      "NNS-VBP-RB": 1,
+      "VBP-RB-CD": 1,
+      "RB-CD-NNS": 1,
+      "CD-NNS-IN": 1,
+      "FW-NNS-NNP": 1,
+      "NNS-NNP-NN": 1,
+      "IN-JJ-NNP": 1,
+      "JJ-NNP-NN": 1,
+      "NN-NN-NNP": 1,
+      "NNP-NNP-VBD": 1,
+      "NNP-VBD-JJ": 1,
+      "VBD-JJ-NN": 1,
+      "NNP-VBZ-RB": 1,
+      "VBZ-RB-JJ": 1,
+      "RB-JJ-JJ": 1,
+      "IN-FW-NNP": 1,
+      "NNP-NNP-MD": 1,
+      "NNP-MD-VB": 1,
+      "MD-VB-JJ": 1,
+      "VB-JJ-JJ": 1,
+      "JJ-JJ-NNS": 1,
+      "IN-FW-JJ": 1,
+      "FW-JJ-FW": 1,
+      "JJ-FW-NN": 1,
+      "FW-NN-FW": 2,
+      "NNS-IN-JJ": 1,
+      "JJ-JJ-NNP": 1,
+      "JJ-NNP-FW": 1,
+      "NN-NNS-VBZ": 1,
+      "NNS-VBZ-JJ": 1,
+      "FW-NNS-IN": 1,
+      "NNS-IN-NNP": 1,
+      "IN-NNP-FW": 1,
+      "NNP-FW-VBZ": 1,
+      "FW-VBZ-IN": 1,
+      "VBZ-IN-NNP": 1,
+      "IN-NNP-VBP": 1,
+      "NNP-NN-FW": 1,
+      "NN-FW-NN": 1,
+      "FW-NN-NNS": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 81,
+        "FW": 60,
+        "NNP": 33,
+        "JJ": 30,
+        "NNS": 20
+      },
+      "top_bigrams": {
+        "NN-NN": 45,
+        "FW-FW": 35,
+        "JJ-NN": 16,
+        "NNP-NN": 12,
+        "IN-FW": 9
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 27,
+        "FW-FW-FW": 23,
+        "NNP-NN-NN": 9,
+        "JJ-NN-NN": 8,
+        "NN-IN-FW": 6
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 12,
+    "chunk_counts": {
+      "NP": 71,
+      "VP": 17,
+      "ADJP": 2,
+      "PP": 7
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 4,
+        "weight": 0.0367
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 3,
+        "weight": 0.0275
+      },
+      {
+        "rule": "NP -> ('Bogotá', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0183
+      },
+      {
+        "rule": "NP -> ('La', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0183
+      },
+      {
+        "rule": "S -> NP ('en', 'IN') ('las', 'FW') ('cotidianidades', 'FW') ('de', 'FW') ('la', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0092
+      },
+      {
+        "rule": "NP -> ('El', 'NNP') ('hecho', 'NN') ('provocó', 'NN') ('retraso', 'NN')",
+        "frequency": 1,
+        "weight": 0.0092
+      },
+      {
+        "rule": "NP -> ('urbe', 'JJ') ('colombiana', 'NN')",
+        "frequency": 1,
+        "weight": 0.0092
+      },
+      {
+        "rule": "S -> NP ('tarde', 'FW') ('de', 'FW') ('este', 'FW') NP (',', ',') NP NP VP VP ('del', 'FW') NP (',', ',') ADJP ('en', 'FW') ('el', 'FW') ('sur', 'FW') ('de', 'FW') NP (',', ',') NP PP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0092
+      },
+      {
+        "rule": "NP -> ('Durante', 'NNP') ('la', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0092
+      },
+      {
+        "rule": "NP -> ('martes', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0092
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El hecho provocó retraso"
+      },
+      {
+        "label": "NP",
+        "text": "urbe colombiana"
+      },
+      {
+        "label": "NP",
+        "text": "Durante la"
+      },
+      {
+        "label": "NP",
+        "text": "martes"
+      },
+      {
+        "label": "NP",
+        "text": "una explosión provocada por"
+      },
+      {
+        "label": "NP",
+        "text": "una granada"
+      },
+      {
+        "label": "VP",
+        "text": "estremeció a los"
+      },
+      {
+        "label": "NP",
+        "text": "a los"
+      },
+      {
+        "label": "VP",
+        "text": "residentes"
+      },
+      {
+        "label": "NP",
+        "text": "sector Patio Bonito"
+      },
+      {
+        "label": "ADJP",
+        "text": "ubicado"
+      },
+      {
+        "label": "NP",
+        "text": "Bogotá"
+      },
+      {
+        "label": "NP",
+        "text": "Capital"
+      },
+      {
+        "label": "PP",
+        "text": "de Colombia"
+      },
+      {
+        "label": "NP",
+        "text": "Colombia"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP El/NNP hecho/NN provocó/NN retraso/NN)\n  en/IN\n  las/FW\n  cotidianidades/FW\n  de/FW\n  la/FW\n  (NP urbe/JJ colombiana/NN)\n  ./.)",
+      "(S\n  (NP Durante/NNP la/NNP)\n  tarde/FW\n  de/FW\n  este/FW\n  (NP martes/NNS)\n  ,/,\n  (NP una/JJ explosión/NN provocada/NN por/NN)\n  (NP una/JJ granada/NN)\n  (VP estremeció/VBD (NP a/DT los/NN))\n  (VP residentes/VBZ)\n  del/FW\n  (NP sector/NN Patio/NNP Bonito/NNP)\n  ,/,\n  (ADJP ubicado/JJ)\n  en/FW\n  el/FW\n  sur/FW\n  de/FW\n  (NP Bogotá/NNP)\n  ,/,\n  (NP Capital/NNP)\n  (PP de/IN (NP Colombia/NNP))\n  ./.)",
+      "(S\n  (NP La/NNP)\n  (VP detonación/VBZ (NP dejó/JJ un/JJ saldo/NN))\n  de/IN\n  ocho/FW\n  (NP civiles/NNS)\n  (VP y/VBP (NP dos/JJ policías/NN heridos/NN))\n  ,/,\n  (NP según/JJ lo/NN confirmado/NN por/NN)\n  el/FW\n  alcalde/FW\n  de/FW\n  (NP Bogotá/NNP)\n  ,/,\n  (NP Carlos/NNP Fernando/NNP Galán/NNP)\n  ,/,\n  (NP quien/NN se/NN trasladó/NN al/NN lugar/NN acompañado/NN)\n  de/IN\n  otras/FW\n  (NP autoridades/NNS locales/NNS)\n  ./.)",
+      "(S\n  (NP\n    El/NNP\n    alcalde/NN\n    Galán/NNP\n    indicó/NN\n    que/NN\n    el/NN\n    atentado/NN\n    parece/NN\n    haber/NN\n    sido/NN\n    dirigido/NN\n    específicamente/NN)\n  (NP contra/JJ las/NNS)\n  (VP fuerzas/VBP (NP del/JJ orden/NN))\n  ,/,\n  en/FW\n  represalia/FW\n  por/FW\n  los/FW\n  (NP recientes/NNS)\n  (VP operativos/VBP (NP que/JJ han/NN desmantelado/NN))\n  estructuras/FW\n  (NP criminales/NNS)\n  (VP en/VBP (NP la/NN zona/NN))\n  ./.)",
+      "(S\n  (NP “/JJ Este/NNP territorio/NN ha/NN sido/NN priorizado/NN)\n  (PP\n    en/IN\n    (NP nuestra/JJ lucha/JJ contra/NN el/NN terrorismo/NN y/NN))\n  (NP el/JJ crimen/NNS)\n  (VP organizado/VBP)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "CIUDADES_CAPITALES",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "REGIONES_PROVINCIAS",
+      "PERIODOS_TEMPORALES",
+      "PAISES",
+      "ECONOMIA_COMERCIO_FINANZAS"
+    ],
+    "matches": [
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "capital",
+        "position": [
+          225,
+          232
+        ],
+        "start": 225,
+        "end": 232
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "afirmó",
+        "position": [
+          860,
+          866
+        ],
+        "start": 860,
+        "end": 866
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "colombia",
+        "position": [
+          236,
+          244
+        ],
+        "start": 236,
+        "end": 244
+      },
+      {
+        "category": "CIUDADES_CAPITALES",
+        "matched_text": "bogotá",
+        "position": [
+          217,
+          223
+        ],
+        "start": 217,
+        "end": 223
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "zona, el",
+        "position": [
+          1211,
+          1219
+        ],
+        "start": 1211,
+        "end": 1219
+      },
+      {
+        "category": "PERIODOS_TEMPORALES",
+        "matched_text": "durante la tarde",
+        "position": [
+          70,
+          86
+        ],
+        "start": 70,
+        "end": 86
+      }
+    ],
+    "match_count": 6
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Capital de Colombia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Kennedy",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Patio Bonito",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Policía Metropolitana",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Carlos Fernando Galán",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Galán",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Bogotá",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "TransMilenio",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "SITP",
+        "tipo": "Organizacion"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "TransMilenio",
+        "relacion": "REPORTAR",
+        "objeto": "SITP"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.34,
+    "pos": 0.009,
+    "neu": 0.991,
+    "neg": 0.0,
+    "label": "positive"
+  }
+}

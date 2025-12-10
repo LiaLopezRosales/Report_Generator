@@ -1,0 +1,715 @@
+{
+  "url": "https://www.telesurtv.net/al-menos-22-muertos-por-ataque-israeli-contra-una-escuela-de-desplazados-en-gaza/",
+  "title": "Al menos 22 muertos por ataque israelí contra una escuela de desplazados en Gaza - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "escuela",
+    "Gaza",
+    "genocidio",
+    "Israel",
+    "Palestina",
+    "refugiados"
+  ],
+  "text": "El ejército de Israel bombardeó este sábado un complejo escolar en el norte de Gaza en el que murieron al menos 22 palestinos, entre ellos 13 niños y seis mujeres.\nLa cartera de sanidad dio a conocer que alrededor de 30 personas resultaron heridas por los ataques de la entidad sionista.\nAsimismo, enfatizó que la entidad sionista continúa obstaculizando el trabajo de los equipos de rescate, quienes intentan acceder a los cuerpos atrapados bajo los escombros y esparcidos por las carreteras.\nEl lugar atacado es un complejo escolar que contiene tres escuelas de la agencia de la Organización de Naciones Unidas para los refugiados palestinos (Unrwa) en la ciudad de Gaza.\nEl portavoz de Defensa Civil, Mahmud Bassal, resaltó que miles de desplazados habían buscado refugio en esa escuela.\nComo ya es habitual, el ejército sionista de Israel informó, mediante un comunicado, que la fuerza aérea había “realizado un ataque preciso contra terroristas que operaban dentro de un centro de mando y control de Hamás en la ciudad de Gaza”.\nLa ocupación israelí bombardea constantemente colegios, viviendas y campos de refugiados bajo el argumento de que sirven de escondite a los milicianos de Hamás.\nDesde el 7 de octubre pasado, las fuerzas sionistas ha atacado a más de 500 centro educativos en el enclave palestino.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/al-menos-22-muertos-por-ataque-israeli-contra-una-escuela-de-desplazados-en-gaza/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-09.json",
+    "message_index": 639,
+    "message_id": 76679,
+    "date": "2024-09-21T19:55:20+00:00",
+    "text": "teleSUR\nAl menos 22 muertos por ataque israelí contra una escuela de desplazados en Gaza\nhttps://www.telesurtv.net/al-menos-22-muertos-por-ataque-israeli-contra-una-escuela-de-desplazados-en-gaza/",
+    "photo_path": null,
+    "views": 2377,
+    "reactions": {
+      "🤬": 59,
+      "😡": 6,
+      "❤": 1,
+      "👍": 1,
+      "🤔": 1
+    },
+    "total_reactions": 68
+  },
+  "preprocessing": {
+    "cleaned": "el ejército de israel bombardeó este sábado un complejo escolar en el norte de gaza en el que murieron al menos 22 palestinos, entre ellos 13 niños y seis mujeres. la cartera de sanidad dio a conocer que alrededor de 30 personas resultaron heridas por los ataques de la entidad sionista. asimismo, enfatizó que la entidad sionista continúa obstaculizando el trabajo de los equipos de rescate, quienes intentan acceder a los cuerpos atrapados bajo los escombros y esparcidos por las carreteras. el lugar atacado es un complejo escolar que contiene tres escuelas de la agencia de la organización de naciones unidas para los refugiados palestinos (unrwa) en la ciudad de gaza. el portavoz de defensa civil, mahmud bassal, resaltó que miles de desplazados habían buscado refugio en esa escuela. como ya es habitual, el ejército sionista de israel informó, mediante un comunicado, que la fuerza aérea había “realizado un ataque preciso contra terroristas que operaban dentro de un centro de mando y control de hamás en la ciudad de gaza”. la ocupación israelí bombardea constantemente colegios, viviendas y campos de refugiados bajo el argumento de que sirven de escondite a los milicianos de hamás. desde el 7 de octubre pasado, las fuerzas sionistas ha atacado a más de 500 centro educativos en el enclave palestino.",
+    "tokens": [
+      "ejército",
+      "israel",
+      "bombardeó",
+      "sábado",
+      "complejo",
+      "escolar",
+      "norte",
+      "gaza",
+      "murieron",
+      "menos",
+      "22",
+      "palestinos",
+      ",",
+      "13",
+      "niños",
+      "seis",
+      "mujeres",
+      ".",
+      "cartera",
+      "sanidad",
+      "dio",
+      "conocer",
+      "alrededor",
+      "30",
+      "personas",
+      "resultaron",
+      "heridas",
+      "ataques",
+      "entidad",
+      "sionista",
+      ".",
+      "asimismo",
+      ",",
+      "enfatizó",
+      "entidad",
+      "sionista",
+      "continúa",
+      "obstaculizando",
+      "trabajo",
+      "equipos",
+      "rescate",
+      ",",
+      "intentan",
+      "acceder",
+      "cuerpos",
+      "atrapados",
+      "bajo",
+      "escombros",
+      "esparcidos",
+      "carreteras",
+      ".",
+      "lugar",
+      "atacado",
+      "complejo",
+      "escolar",
+      "contiene",
+      "tres",
+      "escuelas",
+      "agencia",
+      "organización",
+      "naciones",
+      "unidas",
+      "refugiados",
+      "palestinos",
+      "(",
+      "unrwa",
+      ")",
+      "ciudad",
+      "gaza",
+      ".",
+      "portavoz",
+      "defensa",
+      "civil",
+      ",",
+      "mahmud",
+      "bassal",
+      ",",
+      "resaltó",
+      "miles",
+      "desplazados",
+      "buscado",
+      "refugio",
+      "escuela",
+      ".",
+      "habitual",
+      ",",
+      "ejército",
+      "sionista",
+      "israel",
+      "informó",
+      ",",
+      "mediante",
+      "comunicado",
+      ",",
+      "fuerza",
+      "aérea",
+      "“",
+      "realizado",
+      "ataque",
+      "preciso",
+      "terroristas",
+      "operaban",
+      "dentro",
+      "centro",
+      "mando",
+      "control",
+      "hamás",
+      "ciudad",
+      "gaza",
+      "”",
+      ".",
+      "ocupación",
+      "israelí",
+      "bombardea",
+      "constantemente",
+      "colegios",
+      ",",
+      "viviendas",
+      "campos",
+      "refugiados",
+      "bajo",
+      "argumento",
+      "sirven",
+      "escondite",
+      "milicianos",
+      "hamás",
+      ".",
+      "7",
+      "octubre",
+      "pasado",
+      ",",
+      "fuerzas",
+      "sionistas",
+      "atacado",
+      "500",
+      "centro",
+      "educativos",
+      "enclave",
+      "palestino",
+      "."
+    ],
+    "token_count": 140,
+    "sentence_count": 8
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 23,
+      "FW": 55,
+      "NN": 65,
+      "JJ": 21,
+      "NNS": 13,
+      "CD": 4,
+      "VBP": 9,
+      "RB": 2,
+      "IN": 11,
+      "VBZ": 2,
+      "PRP": 1
+    },
+    "bigram_freq": {
+      "NNP-FW": 7,
+      "FW-FW": 36,
+      "FW-NNP": 9,
+      "NNP-NN": 6,
+      "NN-NN": 32,
+      "NN-JJ": 9,
+      "JJ-NN": 18,
+      "NN-FW": 4,
+      "FW-NN": 7,
+      "NN-NNS": 8,
+      "NNS-CD": 1,
+      "CD-NNS": 3,
+      "NNS-VBP": 6,
+      "VBP-RB": 1,
+      "RB-CD": 1,
+      "CD-JJ": 1,
+      "NNS-NNP": 1,
+      "NN-IN": 9,
+      "IN-FW": 6,
+      "FW-JJ": 1,
+      "IN-CD": 2,
+      "VBP-JJ": 4,
+      "NNS-IN": 1,
+      "NN-NNP": 2,
+      "FW-NNS": 1,
+      "NNS-JJ": 3,
+      "VBP-NNP": 1,
+      "VBP-IN": 1,
+      "NNP-NNP": 7,
+      "NNP-VBZ": 2,
+      "VBZ-FW": 1,
+      "VBZ-JJ": 1,
+      "JJ-NNS": 1,
+      "NNS-RB": 1,
+      "RB-VBP": 1,
+      "NNP-PRP": 1,
+      "PRP-VBP": 1,
+      "IN-NNP": 2,
+      "JJ-JJ": 1,
+      "IN-JJ": 1,
+      "VBP-NN": 2,
+      "JJ-FW": 1,
+      "FW-VBP": 1
+    },
+    "trigram_freq": {
+      "NNP-FW-FW": 5,
+      "FW-FW-NNP": 8,
+      "FW-NNP-NN": 1,
+      "NNP-NN-NN": 5,
+      "NN-NN-NN": 14,
+      "NN-NN-JJ": 7,
+      "NN-JJ-NN": 9,
+      "JJ-NN-JJ": 2,
+      "JJ-NN-NN": 11,
+      "NN-NN-FW": 3,
+      "NN-FW-FW": 2,
+      "FW-NNP-FW": 2,
+      "FW-FW-FW": 23,
+      "FW-FW-NN": 3,
+      "FW-NN-NNS": 2,
+      "NN-NNS-CD": 1,
+      "NNS-CD-NNS": 1,
+      "CD-NNS-VBP": 2,
+      "NNS-VBP-RB": 1,
+      "VBP-RB-CD": 1,
+      "RB-CD-JJ": 1,
+      "CD-JJ-NN": 1,
+      "JJ-NN-NNS": 1,
+      "NN-NNS-NNP": 1,
+      "NNS-NNP-NN": 1,
+      "NNP-NN-IN": 1,
+      "NN-IN-FW": 4,
+      "IN-FW-JJ": 1,
+      "FW-JJ-NN": 1,
+      "NN-NN-IN": 3,
+      "NN-IN-CD": 2,
+      "IN-CD-NNS": 2,
+      "NNS-VBP-JJ": 2,
+      "VBP-JJ-NN": 4,
+      "NN-NN-NNS": 5,
+      "NN-NNS-IN": 1,
+      "NNS-IN-FW": 1,
+      "IN-FW-FW": 4,
+      "FW-NN-NNP": 1,
+      "NN-NNP-NN": 1,
+      "NN-FW-NN": 2,
+      "FW-NN-NN": 2,
+      "FW-NN-IN": 2,
+      "FW-FW-NNS": 1,
+      "FW-NNS-JJ": 1,
+      "NNS-JJ-NN": 1,
+      "NN-NNS-VBP": 4,
+      "NNS-VBP-NNP": 1,
+      "VBP-NNP-NN": 1,
+      "NNS-VBP-IN": 1,
+      "VBP-IN-FW": 1,
+      "NNP-FW-NNP": 1,
+      "FW-NNP-NNP": 5,
+      "NNP-NNP-NN": 1,
+      "JJ-NN-NNP": 1,
+      "NN-NNP-VBZ": 1,
+      "NNP-VBZ-FW": 1,
+      "VBZ-FW-FW": 1,
+      "NNP-NNP-FW": 3,
+      "NNP-NNP-NNP": 2,
+      "NNP-NNP-VBZ": 1,
+      "NNP-VBZ-JJ": 1,
+      "VBZ-JJ-NNS": 1,
+      "JJ-NNS-RB": 1,
+      "NNS-RB-VBP": 1,
+      "RB-VBP-JJ": 1,
+      "FW-NNP-PRP": 1,
+      "NNP-PRP-VBP": 1,
+      "PRP-VBP-JJ": 1,
+      "NN-IN-NNP": 2,
+      "IN-NNP-NN": 1,
+      "NN-NNS-JJ": 1,
+      "NNS-JJ-JJ": 1,
+      "JJ-JJ-NN": 1,
+      "JJ-NN-IN": 3,
+      "NN-IN-JJ": 1,
+      "IN-JJ-NN": 1,
+      "IN-FW-NN": 1,
+      "IN-NNP-FW": 1,
+      "NNP-FW-NN": 1,
+      "NNS-VBP-NN": 1,
+      "VBP-NN-FW": 1,
+      "CD-NNS-JJ": 1,
+      "NNS-JJ-FW": 1,
+      "JJ-FW-FW": 1,
+      "FW-FW-VBP": 1,
+      "FW-VBP-NN": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 65,
+        "FW": 55,
+        "NNP": 23,
+        "JJ": 21,
+        "NNS": 13
+      },
+      "top_bigrams": {
+        "FW-FW": 36,
+        "NN-NN": 32,
+        "JJ-NN": 18,
+        "FW-NNP": 9,
+        "NN-JJ": 9
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 23,
+        "NN-NN-NN": 14,
+        "JJ-NN-NN": 11,
+        "NN-JJ-NN": 9,
+        "FW-FW-NNP": 8
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 8,
+    "chunk_counts": {
+      "NP": 58,
+      "VP": 12,
+      "PP": 6,
+      "ADJP": 2
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 4,
+        "weight": 0.0465
+      },
+      {
+        "rule": "NP -> ('un', 'JJ') ('complejo', 'NN')",
+        "frequency": 2,
+        "weight": 0.0233
+      },
+      {
+        "rule": "NP -> ('Gaza', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0233
+      },
+      {
+        "rule": "NP -> ('Hamás', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0233
+      },
+      {
+        "rule": "S -> NP ('ejército', 'FW') ('de', 'FW') NP NP NP ('norte', 'FW') ('de', 'FW') NP ('en', 'FW') ('el', 'FW') ('que', 'FW') ('murieron', 'FW') NP ('22', 'CD') NP (',', ',') VP ('13', 'CD') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0116
+      },
+      {
+        "rule": "NP -> ('El', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0116
+      },
+      {
+        "rule": "NP -> ('Israel', 'NNP') ('bombardeó', 'NN') ('este', 'NN') ('sábado', 'NN')",
+        "frequency": 1,
+        "weight": 0.0116
+      },
+      {
+        "rule": "NP -> ('escolar', 'JJ') ('en', 'NN') ('el', 'NN')",
+        "frequency": 1,
+        "weight": 0.0116
+      },
+      {
+        "rule": "NP -> ('al', 'NN') ('menos', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0116
+      },
+      {
+        "rule": "NP -> ('palestinos', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0116
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El"
+      },
+      {
+        "label": "NP",
+        "text": "Israel bombardeó este sábado"
+      },
+      {
+        "label": "NP",
+        "text": "un complejo"
+      },
+      {
+        "label": "NP",
+        "text": "escolar en el"
+      },
+      {
+        "label": "NP",
+        "text": "Gaza"
+      },
+      {
+        "label": "NP",
+        "text": "al menos"
+      },
+      {
+        "label": "NP",
+        "text": "palestinos"
+      },
+      {
+        "label": "VP",
+        "text": "entre ellos"
+      },
+      {
+        "label": "NP",
+        "text": "niños y seis mujeres"
+      },
+      {
+        "label": "NP",
+        "text": "La cartera"
+      },
+      {
+        "label": "NP",
+        "text": "dio"
+      },
+      {
+        "label": "NP",
+        "text": "a conocer que alrededor"
+      },
+      {
+        "label": "NP",
+        "text": "personas"
+      },
+      {
+        "label": "VP",
+        "text": "resultaron heridas por los ataques"
+      },
+      {
+        "label": "NP",
+        "text": "heridas por los ataques"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP El/NNP)\n  ejército/FW\n  de/FW\n  (NP Israel/NNP bombardeó/NN este/NN sábado/NN)\n  (NP un/JJ complejo/NN)\n  (NP escolar/JJ en/NN el/NN)\n  norte/FW\n  de/FW\n  (NP Gaza/NNP)\n  en/FW\n  el/FW\n  que/FW\n  murieron/FW\n  (NP al/NN menos/NNS)\n  22/CD\n  (NP palestinos/NNS)\n  ,/,\n  (VP entre/VBP ellos/RB)\n  13/CD\n  (NP niños/JJ y/NN seis/NN mujeres/NNS)\n  ./.)",
+      "(S\n  (NP La/NNP cartera/NN)\n  de/IN\n  sanidad/FW\n  (NP dio/NN)\n  (NP a/DT conocer/NN que/NN alrededor/NN)\n  de/IN\n  30/CD\n  (NP personas/NNS)\n  (VP resultaron/VBP (NP heridas/JJ por/NN los/NN ataques/NNS))\n  de/IN\n  la/FW\n  entidad/FW\n  (NP sionista/NN)\n  ./.)",
+      "(S\n  (NP Asimismo/NNP)\n  ,/,\n  (NP enfatizó/NN que/NN la/NN)\n  entidad/FW\n  (NP sionista/NN continúa/NN obstaculizando/NN)\n  el/FW\n  (NP trabajo/NN)\n  de/IN\n  los/FW\n  equipos/FW\n  de/FW\n  (NP rescate/NN)\n  ,/,\n  (NP quienes/NNS)\n  (VP intentan/VBP)\n  (VP\n    acceder/VB\n    (NP a/DT los/NN cuerpos/NN atrapados/NN bajo/NN los/NN)\n    (NP escombros/JJ y/NN esparcidos/NN por/NN las/NN carreteras/NNS))\n  ./.)",
+      "(S\n  (NP El/NNP lugar/NN atacado/NN es/NN)\n  (NP un/JJ complejo/NN)\n  (NP escolar/JJ que/NN contiene/NN tres/NNS)\n  (VP escuelas/VBP)\n  de/IN\n  la/FW\n  agencia/FW\n  de/FW\n  la/FW\n  (NP Organización/NNP)\n  de/FW\n  (NP Naciones/NNP Unidas/NNP para/NN los/NN)\n  (NP refugiados/JJ palestinos/NN)\n  (/(\n  (NP Unrwa/NNP)\n  )/)\n  en/FW\n  la/FW\n  ciudad/FW\n  de/FW\n  (NP Gaza/NNP)\n  ./.)",
+      "(S\n  (NP El/NNP portavoz/NN)\n  de/FW\n  (NP Defensa/NNP Civil/NNP)\n  ,/,\n  (NP Mahmud/NNP Bassal/NNP)\n  ,/,\n  (NP resaltó/NN que/NN miles/NNS)\n  de/RB\n  (VP desplazados/VBP (NP habían/JJ buscado/NN refugio/NN))\n  (PP en/IN (NP esa/JJ escuela/NN))\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "GRUPOS_ESPECIFICOS",
+      "ORGANISMOS_INTERNACIONALES",
+      "CANTIDADES_NUMERICAS",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "PAISES",
+      "LOCALIZACIONES_ESPECIFICAS",
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "CONFLICTOS_ARMADOS_OPERACIONES",
+      "INFRAESTRUCTURA_SERVICIOS",
+      "JURIDICO_LEGISLATIVO_CORRUPCION"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "control de hamás en la ciudad",
+        "position": [
+          994,
+          1023
+        ],
+        "start": 994,
+        "end": 1023
+      },
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "bombardeó",
+        "position": [
+          22,
+          31
+        ],
+        "start": 22,
+        "end": 31
+      },
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "trabajo",
+        "position": [
+          358,
+          365
+        ],
+        "start": 358,
+        "end": 365
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "informó",
+        "position": [
+          843,
+          850
+        ],
+        "start": 843,
+        "end": 850
+      },
+      {
+        "category": "JURIDICO_LEGISLATIVO_CORRUPCION",
+        "matched_text": "defensa",
+        "position": [
+          689,
+          696
+        ],
+        "start": 689,
+        "end": 696
+      },
+      {
+        "category": "ORGANISMOS_INTERNACIONALES",
+        "matched_text": "naciones unidas",
+        "position": [
+          597,
+          612
+        ],
+        "start": 597,
+        "end": 612
+      },
+      {
+        "category": "GRUPOS_ESPECIFICOS",
+        "matched_text": "mujeres",
+        "position": [
+          155,
+          162
+        ],
+        "start": 155,
+        "end": 162
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "escuela",
+        "position": [
+          782,
+          789
+        ],
+        "start": 782,
+        "end": 789
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "israelí",
+        "position": [
+          1047,
+          1054
+        ],
+        "start": 1047,
+        "end": 1054
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "complejo escolar",
+        "position": [
+          47,
+          63
+        ],
+        "start": 47,
+        "end": 63
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "30 personas",
+        "position": [
+          217,
+          228
+        ],
+        "start": 217,
+        "end": 228
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "alrededor de 30",
+        "position": [
+          204,
+          219
+        ],
+        "start": 204,
+        "end": 219
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "más de 500",
+        "position": [
+          1260,
+          1270
+        ],
+        "start": 1260,
+        "end": 1270
+      }
+    ],
+    "match_count": 13
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Hamás",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Organización de Naciones Unidas",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Defensa Civil",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Israel",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Mahmud Bassal",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Gaza",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Israel",
+        "relacion": "BOMBARDEAR",
+        "objeto": "Gaza"
+      },
+      {
+        "sujeto": "Organización de Naciones Unidas",
+        "relacion": "CONTENER",
+        "objeto": "Gaza"
+      },
+      {
+        "sujeto": "Defensa Civil",
+        "relacion": "RESALTAR",
+        "objeto": "Israel"
+      },
+      {
+        "sujeto": "Defensa Civil",
+        "relacion": "RESALTAR",
+        "objeto": "Hamás"
+      },
+      {
+        "sujeto": "Defensa Civil",
+        "relacion": "RESALTAR",
+        "objeto": "Gaza"
+      },
+      {
+        "sujeto": "Mahmud Bassal",
+        "relacion": "RESALTAR",
+        "objeto": "Israel"
+      },
+      {
+        "sujeto": "Mahmud Bassal",
+        "relacion": "RESALTAR",
+        "objeto": "Hamás"
+      },
+      {
+        "sujeto": "Mahmud Bassal",
+        "relacion": "RESALTAR",
+        "objeto": "Gaza"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "INFORMAR_RESALTAR",
+        "objeto": "Hamás"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "INFORMAR_RESALTAR",
+        "objeto": "Gaza"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.34,
+    "pos": 0.012,
+    "neu": 0.988,
+    "neg": 0.0,
+    "label": "positive"
+  }
+}

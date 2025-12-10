@@ -1,0 +1,734 @@
+{
+  "url": "https://www.telesurtv.net/fuerza-militar-israeli-lanza-agresion-masiva-contra-bases-aereas-en-siria/",
+  "title": "Fuerza militar israelí lanza agresión masiva contra bases aéreas en Siria - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "bases aéreas",
+    "Israel",
+    "Siria"
+  ],
+  "text": "Fuentes de seguridad sirias informaron este lunes la destrucción de escuadrones de aviones de combate en los aeropuertos, así como radares y depósitos de armas, por parte del Ejército de ocupación de Israel.\nAsimismo, comunicó que las fuerzas armadas israelíes han realizado cerca de 150 ataques organizados en las últimas 24 horas, con la intensión de destruir la potencia militar siria.\nTambién se anunció que barcos del Ejército sirio fueron atacados en el puerto de Latakia. El informe detalló que la base aérea de Qamishli en el noreste de Siria, la base de Shinshar en el campo de Homs y el aeropuerto de Aqrba al suroeste de la capital, Damasco, también han sido atacadas.\nDe igual manera, se comunicó que se han realizado varias agresiones contra un centro de investigación en las afueras de Damasco y un centro de guerra electrónica cerca del área de Sayeda Zainab en esa capital.\nDesde el domingo aumentaron los ataques contra lugares estratégicos en Siria, diez días después de que iniciara el avance una amplia coalición de grupos terroristas armados.\nLas ciudades de Homs, Hama, Latakia, Tartous y Damasco están sujetas a continuos ataques aéreos israelíes las 24 horas del día, contra vehículos blindados, buques de guerra, defensas aéreas, radares e instalaciones de investigación.\nIsrael ha realizado cientos de ataques aéreos en Siria en los últimos años, enfocados a las instalaciones militares asociadas con Irán y Hezbolá, del Líbano.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/fuerza-militar-israeli-lanza-agresion-masiva-contra-bases-aereas-en-siria/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-12.json",
+    "message_index": 1281,
+    "message_id": 82049,
+    "date": "2024-12-09T23:55:13+00:00",
+    "text": "teleSUR\nFuerza militar israelí lanza agresión masiva contra bases aéreas en Siria\nhttps://www.telesurtv.net/fuerza-militar-israeli-lanza-agresion-masiva-contra-bases-aereas-en-siria/",
+    "photo_path": null,
+    "views": 2699,
+    "reactions": {
+      "🤬": 31,
+      "💩": 8,
+      "🤯": 3,
+      "👍": 1
+    },
+    "total_reactions": 43
+  },
+  "preprocessing": {
+    "cleaned": "fuentes de seguridad sirias informaron este lunes la destrucción de escuadrones de aviones de combate en los aeropuertos, así como radares y depósitos de armas, por parte del ejército de ocupación de israel. asimismo, comunicó que las fuerzas armadas israelíes han realizado cerca de 150 ataques organizados en las últimas 24 horas, con la intensión de destruir la potencia militar siria. también se anunció que barcos del ejército sirio fueron atacados en el puerto de latakia. el informe detalló que la base aérea de qamishli en el noreste de siria, la base de shinshar en el campo de homs y el aeropuerto de aqrba al suroeste de la capital, damasco, también han sido atacadas. de igual manera, se comunicó que se han realizado varias agresiones contra un centro de investigación en las afueras de damasco y un centro de guerra electrónica cerca del área de sayeda zainab en esa capital. desde el domingo aumentaron los ataques contra lugares estratégicos en siria, diez días después de que iniciara el avance una amplia coalición de grupos terroristas armados. las ciudades de homs, hama, latakia, tartous y damasco están sujetas a continuos ataques aéreos israelíes las 24 horas del día, contra vehículos blindados, buques de guerra, defensas aéreas, radares e instalaciones de investigación. israel ha realizado cientos de ataques aéreos en siria en los últimos años, enfocados a las instalaciones militares asociadas con irán y hezbolá, del líbano.",
+    "tokens": [
+      "fuentes",
+      "seguridad",
+      "sirias",
+      "informaron",
+      "lunes",
+      "destrucción",
+      "escuadrones",
+      "aviones",
+      "combate",
+      "aeropuertos",
+      ",",
+      "así",
+      "radares",
+      "depósitos",
+      "armas",
+      ",",
+      "parte",
+      "ejército",
+      "ocupación",
+      "israel",
+      ".",
+      "asimismo",
+      ",",
+      "comunicó",
+      "fuerzas",
+      "armadas",
+      "israelíes",
+      "realizado",
+      "cerca",
+      "150",
+      "ataques",
+      "organizados",
+      "últimas",
+      "24",
+      "horas",
+      ",",
+      "intensión",
+      "destruir",
+      "potencia",
+      "militar",
+      "siria",
+      ".",
+      "anunció",
+      "barcos",
+      "ejército",
+      "sirio",
+      "atacados",
+      "puerto",
+      "latakia",
+      ".",
+      "informe",
+      "detalló",
+      "base",
+      "aérea",
+      "qamishli",
+      "noreste",
+      "siria",
+      ",",
+      "base",
+      "shinshar",
+      "campo",
+      "homs",
+      "aeropuerto",
+      "aqrba",
+      "suroeste",
+      "capital",
+      ",",
+      "damasco",
+      ",",
+      "sido",
+      "atacadas",
+      ".",
+      "igual",
+      "manera",
+      ",",
+      "comunicó",
+      "realizado",
+      "varias",
+      "agresiones",
+      "centro",
+      "investigación",
+      "afueras",
+      "damasco",
+      "centro",
+      "guerra",
+      "electrónica",
+      "cerca",
+      "área",
+      "sayeda",
+      "zainab",
+      "capital",
+      ".",
+      "domingo",
+      "aumentaron",
+      "ataques",
+      "lugares",
+      "estratégicos",
+      "siria",
+      ",",
+      "diez",
+      "días",
+      "después",
+      "iniciara",
+      "avance",
+      "amplia",
+      "coalición",
+      "grupos",
+      "terroristas",
+      "armados",
+      ".",
+      "ciudades",
+      "homs",
+      ",",
+      "hama",
+      ",",
+      "latakia",
+      ",",
+      "tartous",
+      "damasco",
+      "sujetas",
+      "continuos",
+      "ataques",
+      "aéreos",
+      "israelíes",
+      "24",
+      "horas",
+      "día",
+      ",",
+      "vehículos",
+      "blindados",
+      ",",
+      "buques",
+      "guerra",
+      ",",
+      "defensas",
+      "aéreas",
+      ",",
+      "radares",
+      "instalaciones",
+      "investigación",
+      ".",
+      "israel",
+      "realizado",
+      "cientos",
+      "ataques",
+      "aéreos",
+      "siria",
+      "últimos",
+      "años",
+      ",",
+      "enfocados",
+      "instalaciones",
+      "militares",
+      "asociadas",
+      "irán",
+      "hezbolá",
+      ",",
+      "líbano",
+      "."
+    ],
+    "token_count": 159,
+    "sentence_count": 8
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNS": 23,
+      "VBP": 15,
+      "FW": 59,
+      "JJ": 17,
+      "NN": 62,
+      "IN": 16,
+      "NNP": 31,
+      "CD": 3,
+      "VBZ": 1
+    },
+    "bigram_freq": {
+      "NNS-VBP": 15,
+      "VBP-FW": 3,
+      "FW-JJ": 5,
+      "JJ-NN": 10,
+      "NN-NN": 34,
+      "NN-NNS": 8,
+      "FW-FW": 31,
+      "FW-NN": 8,
+      "NN-IN": 11,
+      "IN-JJ": 1,
+      "JJ-NNS": 3,
+      "VBP-NN": 2,
+      "VBP-IN": 3,
+      "IN-FW": 9,
+      "NN-NNP": 5,
+      "NNP-FW": 10,
+      "FW-NNP": 14,
+      "NNP-NNP": 8,
+      "NNP-NN": 8,
+      "VBP-JJ": 3,
+      "IN-CD": 1,
+      "CD-NNS": 3,
+      "IN-NNS": 2,
+      "VBP-CD": 1,
+      "NNS-JJ": 1,
+      "JJ-FW": 1,
+      "IN-NNP": 3,
+      "NN-FW": 3,
+      "NNP-JJ": 2,
+      "NNP-VBZ": 1,
+      "VBZ-JJ": 1,
+      "VBP-NNS": 2,
+      "NN-JJ": 1,
+      "JJ-JJ": 3,
+      "FW-NNS": 1,
+      "VBP-NNP": 1,
+      "NNP-NNS": 1,
+      "NNS-FW": 2,
+      "NNS-CD": 1,
+      "NNS-IN": 2,
+      "NNS-NNS": 2
+    },
+    "trigram_freq": {
+      "NNS-VBP-FW": 3,
+      "VBP-FW-JJ": 1,
+      "FW-JJ-NN": 3,
+      "JJ-NN-NN": 6,
+      "NN-NN-NNS": 6,
+      "NN-NNS-VBP": 6,
+      "VBP-FW-FW": 1,
+      "FW-FW-FW": 20,
+      "FW-FW-NN": 3,
+      "FW-NN-IN": 2,
+      "NN-IN-JJ": 1,
+      "IN-JJ-NNS": 1,
+      "JJ-NNS-VBP": 1,
+      "NNS-VBP-NN": 2,
+      "VBP-NN-NNS": 1,
+      "NNS-VBP-IN": 3,
+      "VBP-IN-FW": 1,
+      "IN-FW-JJ": 3,
+      "NN-NN-NNP": 2,
+      "NN-NNP-FW": 1,
+      "NNP-FW-FW": 5,
+      "FW-FW-NNP": 8,
+      "FW-NNP-NNP": 4,
+      "NNP-NNP-NN": 3,
+      "NNP-NN-NN": 7,
+      "NNS-VBP-JJ": 3,
+      "VBP-JJ-NN": 2,
+      "NN-NN-NN": 19,
+      "NN-NN-IN": 5,
+      "NN-IN-CD": 1,
+      "IN-CD-NNS": 1,
+      "CD-NNS-VBP": 1,
+      "VBP-IN-NNS": 1,
+      "IN-NNS-VBP": 2,
+      "NNS-VBP-CD": 1,
+      "VBP-CD-NNS": 1,
+      "CD-NNS-JJ": 1,
+      "NNS-JJ-FW": 1,
+      "JJ-FW-FW": 1,
+      "FW-NNP-FW": 6,
+      "NNP-FW-NN": 4,
+      "FW-NN-NN": 2,
+      "NN-NNP-NN": 2,
+      "NN-IN-FW": 6,
+      "IN-FW-FW": 3,
+      "NN-IN-NNP": 2,
+      "IN-NNP-FW": 1,
+      "FW-NN-FW": 2,
+      "NN-FW-NNP": 2,
+      "IN-NNP-JJ": 1,
+      "NNP-JJ-NN": 2,
+      "JJ-NN-IN": 4,
+      "IN-FW-NN": 1,
+      "FW-NN-NNP": 2,
+      "NN-NN-FW": 1,
+      "FW-NNP-JJ": 1,
+      "NN-FW-FW": 1,
+      "NNP-NNP-FW": 2,
+      "NN-NNP-VBZ": 1,
+      "NNP-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 1,
+      "NNS-VBP-NNS": 2,
+      "VBP-NNS-VBP": 2,
+      "VBP-IN-NNP": 1,
+      "IN-NNP-NN": 1,
+      "NN-NN-JJ": 1,
+      "NN-JJ-JJ": 1,
+      "JJ-JJ-NN": 2,
+      "IN-FW-NNS": 1,
+      "FW-NNS-VBP": 1,
+      "NNS-VBP-NNP": 1,
+      "VBP-NNP-NNS": 1,
+      "NNP-NNS-FW": 1,
+      "NNS-FW-NNP": 1,
+      "NNP-NNP-NNP": 3,
+      "NNP-NN-NNS": 1,
+      "VBP-JJ-NNS": 1,
+      "JJ-NNS-CD": 1,
+      "NNS-CD-NNS": 1,
+      "CD-NNS-FW": 1,
+      "NNS-FW-JJ": 1,
+      "FW-JJ-JJ": 2,
+      "NN-NNS-IN": 1,
+      "NNS-IN-FW": 2,
+      "JJ-JJ-NNS": 1,
+      "JJ-NNS-NNS": 1,
+      "NNS-NNS-IN": 1,
+      "IN-FW-NNP": 1,
+      "FW-NNP-NN": 2,
+      "NN-IN-NNS": 1,
+      "VBP-FW-NNP": 1,
+      "NN-NNS-NNS": 1,
+      "NNS-NNS-VBP": 1,
+      "VBP-NN-NNP": 1,
+      "NN-NNP-NNP": 1,
+      "NNP-FW-NNP": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 62,
+        "FW": 59,
+        "NNP": 31,
+        "NNS": 23,
+        "JJ": 17
+      },
+      "top_bigrams": {
+        "NN-NN": 34,
+        "FW-FW": 31,
+        "NNS-VBP": 15,
+        "FW-NNP": 14,
+        "NN-IN": 11
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 20,
+        "NN-NN-NN": 19,
+        "FW-FW-NNP": 8,
+        "NNP-NN-NN": 7,
+        "JJ-NN-NN": 6
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 8,
+    "chunk_counts": {
+      "NP": 69,
+      "VP": 19,
+      "PP": 9
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 6,
+        "weight": 0.0571
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 3,
+        "weight": 0.0286
+      },
+      {
+        "rule": "NP -> ('Siria', 'NNP')",
+        "frequency": 3,
+        "weight": 0.0286
+      },
+      {
+        "rule": "NP -> ('ataques', 'NNS')",
+        "frequency": 2,
+        "weight": 0.019
+      },
+      {
+        "rule": "NP -> ('horas', 'NNS')",
+        "frequency": 2,
+        "weight": 0.019
+      },
+      {
+        "rule": "NP -> ('Latakia', 'NNP')",
+        "frequency": 2,
+        "weight": 0.019
+      },
+      {
+        "rule": "NP -> ('Homs', 'NNP')",
+        "frequency": 2,
+        "weight": 0.019
+      },
+      {
+        "rule": "NP -> ('Damasco', 'NNP')",
+        "frequency": 2,
+        "weight": 0.019
+      },
+      {
+        "rule": "VP -> ('contra', 'VBP') NP",
+        "frequency": 2,
+        "weight": 0.019
+      },
+      {
+        "rule": "NP -> ('un', 'JJ') ('centro', 'NN')",
+        "frequency": 2,
+        "weight": 0.019
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Fuentes"
+      },
+      {
+        "label": "VP",
+        "text": "de"
+      },
+      {
+        "label": "NP",
+        "text": "sirias informaron este lunes"
+      },
+      {
+        "label": "VP",
+        "text": "la"
+      },
+      {
+        "label": "NP",
+        "text": "combate"
+      },
+      {
+        "label": "PP",
+        "text": "en los aeropuertos"
+      },
+      {
+        "label": "NP",
+        "text": "los aeropuertos"
+      },
+      {
+        "label": "NP",
+        "text": "así como radares"
+      },
+      {
+        "label": "VP",
+        "text": "y depósitos"
+      },
+      {
+        "label": "NP",
+        "text": "depósitos"
+      },
+      {
+        "label": "NP",
+        "text": "Ejército"
+      },
+      {
+        "label": "PP",
+        "text": "de Israel"
+      },
+      {
+        "label": "NP",
+        "text": "Israel"
+      },
+      {
+        "label": "NP",
+        "text": "Asimismo"
+      },
+      {
+        "label": "NP",
+        "text": "comunicó que las"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Fuentes/NNS)\n  (VP de/VBP)\n  seguridad/FW\n  (NP sirias/JJ informaron/NN este/NN lunes/NNS)\n  (VP la/VBP)\n  destrucción/FW\n  de/FW\n  escuadrones/FW\n  de/FW\n  aviones/FW\n  de/FW\n  (NP combate/NN)\n  (PP en/IN (NP los/NN aeropuertos/NN))\n  ,/,\n  (NP así/JJ como/NN radares/NNS)\n  (VP y/VBP (NP depósitos/NN))\n  de/FW\n  armas/FW\n  ,/,\n  por/FW\n  parte/FW\n  del/FW\n  (NP Ejército/NNP)\n  de/FW\n  ocupación/FW\n  (PP de/IN (NP Israel/NNP))\n  ./.)",
+      "(S\n  (NP Asimismo/NNP)\n  ,/,\n  (NP comunicó/NN que/NN las/NNS)\n  (VP\n    fuerzas/VBP\n    (NP armadas/JJ israelíes/NN han/NN realizado/NN cerca/NN))\n  de/IN\n  150/CD\n  (NP ataques/NNS)\n  (VP organizados/VBP)\n  (PP en/IN (NP las/NNS))\n  (VP últimas/VBP)\n  24/CD\n  (NP horas/NNS)\n  ,/,\n  (NP con/NN)\n  la/FW\n  intensión/FW\n  de/FW\n  destruir/FW\n  la/FW\n  potencia/FW\n  (NP militar/NN siria/NN)\n  ./.)",
+      "(S\n  (NP También/NNP)\n  (VP\n    se/VBD\n    (NP\n      anunció/JJ\n      que/NN\n      barcos/NN\n      del/NN\n      Ejército/NNP\n      sirio/NN\n      fueron/NN\n      atacados/NN))\n  en/IN\n  el/FW\n  puerto/FW\n  de/FW\n  (NP Latakia/NNP)\n  ./.)",
+      "(S\n  (NP El/NNP informe/NN detalló/NN que/NN la/NN base/NN aérea/NN)\n  (PP de/IN (NP Qamishli/NNP))\n  en/FW\n  el/FW\n  noreste/FW\n  de/FW\n  (NP Siria/NNP)\n  ,/,\n  (NP la/JJ base/NN)\n  (PP de/IN (NP Shinshar/NNP))\n  en/FW\n  el/FW\n  campo/FW\n  de/FW\n  (NP Homs/NNP)\n  y/CC\n  (NP el/JJ aeropuerto/NN)\n  (PP de/IN (NP Aqrba/NNP))\n  (NP al/JJ suroeste/NN)\n  de/IN\n  la/FW\n  (NP capital/NN)\n  ,/,\n  (NP Damasco/NNP)\n  ,/,\n  (NP también/NN han/NN sido/NN atacadas/NN)\n  ./.)",
+      "(S\n  (NP De/NNP)\n  (NP igual/JJ manera/NN)\n  ,/,\n  se/FW\n  (NP\n    comunicó/NN\n    que/NN\n    se/NN\n    han/NN\n    realizado/NN\n    varias/NN\n    agresiones/NNS)\n  (VP contra/VBP (NP un/JJ centro/NN))\n  de/IN\n  investigación/FW\n  en/FW\n  las/FW\n  afueras/FW\n  de/FW\n  (NP Damasco/NNP)\n  y/CC\n  (NP un/JJ centro/NN)\n  de/IN\n  guerra/FW\n  electrónica/FW\n  (NP cerca/NN)\n  del/FW\n  área/FW\n  de/FW\n  (NP Sayeda/NNP Zainab/NNP)\n  en/FW\n  (NP esa/JJ capital/NN)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "CANTIDADES_NUMERICAS",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "REGIONES_PROVINCIAS",
+      "PAISES",
+      "LOCALIZACIONES_ESPECIFICAS",
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "INFRAESTRUCTURA_SERVICIOS",
+      "CONFLICTOS_ARMADOS_OPERACIONES"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "guerra electrónica cerca del área de sayeda zainab en esa",
+        "position": [
+          823,
+          880
+        ],
+        "start": 823,
+        "end": 880
+      },
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "ataques aéreos israelíes",
+        "position": [
+          1145,
+          1169
+        ],
+        "start": 1145,
+        "end": 1169
+      },
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "vehículos blindados",
+        "position": [
+          1199,
+          1218
+        ],
+        "start": 1199,
+        "end": 1218
+      },
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "ocupación",
+        "position": [
+          187,
+          196
+        ],
+        "start": 187,
+        "end": 196
+      },
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "capital",
+        "position": [
+          635,
+          642
+        ],
+        "start": 635,
+        "end": 642
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "comunicó",
+        "position": [
+          218,
+          226
+        ],
+        "start": 218,
+        "end": 226
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "puerto",
+        "position": [
+          460,
+          466
+        ],
+        "start": 460,
+        "end": 466
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "líbano",
+        "position": [
+          1447,
+          1453
+        ],
+        "start": 1447,
+        "end": 1453
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "área de",
+        "position": [
+          852,
+          859
+        ],
+        "start": 852,
+        "end": 859
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "centro de",
+        "position": [
+          758,
+          767
+        ],
+        "start": 758,
+        "end": 767
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "cerca de 150",
+        "position": [
+          275,
+          287
+        ],
+        "start": 275,
+        "end": 287
+      }
+    ],
+    "match_count": 11
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Irán",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Qamishli",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "aeropuerto de Aqrba",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Damasco",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Hezbolá",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Latakia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Tartous",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Shinshar",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Homs",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Hama",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Líbano",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Israel",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Siria",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Sayeda Zainab",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "aeropuerto de Aqrba",
+        "relacion": "ES",
+        "objeto": "Damasco"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "REALIZAR",
+        "objeto": "Siria"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "REALIZAR",
+        "objeto": "Irán"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "REALIZAR",
+        "objeto": "Hezbolá"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "REALIZAR",
+        "objeto": "Líbano"
+      },
+      {
+        "sujeto": "Siria",
+        "relacion": "REALIZAR",
+        "objeto": "Irán"
+      },
+      {
+        "sujeto": "Siria",
+        "relacion": "REALIZAR",
+        "objeto": "Hezbolá"
+      },
+      {
+        "sujeto": "Siria",
+        "relacion": "REALIZAR",
+        "objeto": "Líbano"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.34,
+    "pos": 0.011,
+    "neu": 0.989,
+    "neg": 0.0,
+    "label": "positive"
+  }
+}

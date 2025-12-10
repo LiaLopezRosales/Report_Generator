@@ -1,0 +1,603 @@
+{
+  "url": "https://www.telesurtv.net/presidente-venezolano-augura-gran-victoria-para-el-pueblo-el-proximo-28-de-julio/",
+  "title": "Presidente venezolano augura \"gran victoria para el pueblo\" el próximo 28 de julio - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "Elecciones generales",
+    "Nicolás Maduro",
+    "victoria"
+  ],
+  "text": "“Consolidaremos una gran victoria para el pueblo”, aseguró el presidente de Venezuela, Nicolás Maduro, con respecto a las elecciones generales en el país sudamericano que se celebraran el próximo 28 de julio.\nEl mensaje estuvo acompañado de un audiovisual donde se muestra el recibimiento de este miércoles por el pueblo de ese territorio.\nEn este audiovisual se escucha parte del mensaje que el mandatario envió a los larenses: “Soy Nicolás Maduro, el presidente del pueblo, de los barrios y con la fuerza del pueblo y la voluntad de los hombres y mujeres humildes, el 28 de julio ustedes me elegirán presidente de la República Bolivariana de Venezuela”.\nDurante su visita a Lara, Maduro instruyó varias acciones para mejorar la calidad de vida del pueblo, entre ellas la activación del plan de asfaltado y el servicio de agua.\nDe acuerdo a lo establecido por el Consejo Nacional Electoral (CNE), las elecciones se celebrarán el 28 de julio, día en que Hugo Chávez habría cumplido 70 años. La campaña electoral se extenderá del 4 al 25 de julio.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/presidente-venezolano-augura-gran-victoria-para-el-pueblo-el-proximo-28-de-julio/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-06.json",
+    "message_index": 123,
+    "message_id": 72620,
+    "date": "2024-06-27T19:55:12+00:00",
+    "text": "teleSUR\nPresidente venezolano augura «gran victoria para el pueblo» el próximo 28 de julio\nhttps://www.telesurtv.net/presidente-venezolano-augura-gran-victoria-para-el-pueblo-el-proximo-28-de-julio/",
+    "photo_path": null,
+    "views": 1611,
+    "reactions": {},
+    "total_reactions": 0
+  },
+  "preprocessing": {
+    "cleaned": "“consolidaremos una gran victoria para el pueblo”, aseguró el presidente de venezuela, nicolás maduro, con respecto a las elecciones generales en el país sudamericano que se celebraran el próximo 28 de julio. el mensaje estuvo acompañado de un audiovisual donde se muestra el recibimiento de este miércoles por el pueblo de ese territorio. en este audiovisual se escucha parte del mensaje que el mandatario envió a los larenses: “soy nicolás maduro, el presidente del pueblo, de los barrios y con la fuerza del pueblo y la voluntad de los hombres y mujeres humildes, el 28 de julio ustedes me elegirán presidente de la república bolivariana de venezuela”. durante su visita a lara, maduro instruyó varias acciones para mejorar la calidad de vida del pueblo, entre ellas la activación del plan de asfaltado y el servicio de agua. de acuerdo a lo establecido por el consejo nacional electoral (cne), las elecciones se celebrarán el 28 de julio, día en que hugo chávez habría cumplido 70 años. la campaña electoral se extenderá del 4 al 25 de julio.",
+    "tokens": [
+      "“",
+      "consolidaremos",
+      "gran",
+      "victoria",
+      "pueblo",
+      "”",
+      ",",
+      "aseguró",
+      "presidente",
+      "venezuela",
+      ",",
+      "nicolás",
+      "maduro",
+      ",",
+      "respecto",
+      "elecciones",
+      "generales",
+      "país",
+      "sudamericano",
+      "celebraran",
+      "próximo",
+      "28",
+      "julio",
+      ".",
+      "mensaje",
+      "acompañado",
+      "audiovisual",
+      "muestra",
+      "recibimiento",
+      "miércoles",
+      "pueblo",
+      "territorio",
+      ".",
+      "audiovisual",
+      "escucha",
+      "parte",
+      "mensaje",
+      "mandatario",
+      "envió",
+      "larenses",
+      ":",
+      "“",
+      "nicolás",
+      "maduro",
+      ",",
+      "presidente",
+      "pueblo",
+      ",",
+      "barrios",
+      "fuerza",
+      "pueblo",
+      "voluntad",
+      "hombres",
+      "mujeres",
+      "humildes",
+      ",",
+      "28",
+      "julio",
+      "ustedes",
+      "elegirán",
+      "presidente",
+      "república",
+      "bolivariana",
+      "venezuela",
+      "”",
+      ".",
+      "visita",
+      "lara",
+      ",",
+      "maduro",
+      "instruyó",
+      "varias",
+      "acciones",
+      "mejorar",
+      "calidad",
+      "vida",
+      "pueblo",
+      ",",
+      "activación",
+      "plan",
+      "asfaltado",
+      "servicio",
+      "agua",
+      ".",
+      "acuerdo",
+      "establecido",
+      "consejo",
+      "nacional",
+      "electoral",
+      "(",
+      "cne",
+      ")",
+      ",",
+      "elecciones",
+      "celebrarán",
+      "28",
+      "julio",
+      ",",
+      "día",
+      "hugo",
+      "chávez",
+      "cumplido",
+      "70",
+      "años",
+      ".",
+      "campaña",
+      "electoral",
+      "extenderá",
+      "4",
+      "25",
+      "julio",
+      "."
+    ],
+    "token_count": 112,
+    "sentence_count": 6
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 23,
+      "JJ": 22,
+      "NN": 52,
+      "NNS": 12,
+      "VBP": 9,
+      "FW": 27,
+      "CD": 5,
+      "IN": 10,
+      "VBZ": 3,
+      "PRP": 1,
+      "VBD": 3
+    },
+    "bigram_freq": {
+      "NNP-JJ": 1,
+      "JJ-NN": 11,
+      "NN-NNS": 3,
+      "NNS-VBP": 7,
+      "VBP-JJ": 7,
+      "NN-NN": 26,
+      "NN-FW": 4,
+      "FW-NN": 5,
+      "FW-NNP": 4,
+      "NNP-NNP": 11,
+      "NNP-NN": 5,
+      "NN-JJ": 4,
+      "JJ-NNS": 2,
+      "NNS-NNS": 3,
+      "NN-VBP": 1,
+      "JJ-CD": 2,
+      "CD-IN": 3,
+      "IN-NN": 5,
+      "NN-NNP": 4,
+      "NN-IN": 7,
+      "IN-JJ": 2,
+      "JJ-JJ": 2,
+      "NN-VBZ": 1,
+      "VBZ-JJ": 2,
+      "NNS-NNP": 1,
+      "NNP-VBZ": 2,
+      "JJ-FW": 3,
+      "IN-FW": 2,
+      "FW-NNS": 3,
+      "FW-FW": 13,
+      "VBP-CD": 1,
+      "IN-PRP": 1,
+      "PRP-JJ": 1,
+      "NNP-FW": 2,
+      "NNP-VBD": 2,
+      "VBD-JJ": 2,
+      "JJ-NNP": 2,
+      "VBZ-NNS": 1,
+      "NNS-FW": 1,
+      "FW-VBP": 1,
+      "VBP-FW": 1,
+      "FW-CD": 1,
+      "CD-FW": 1,
+      "CD-JJ": 1,
+      "NN-VBD": 1,
+      "VBD-CD": 1
+    },
+    "trigram_freq": {
+      "NNP-JJ-NN": 1,
+      "JJ-NN-NNS": 1,
+      "NN-NNS-VBP": 3,
+      "NNS-VBP-JJ": 6,
+      "VBP-JJ-NN": 4,
+      "JJ-NN-NN": 8,
+      "NN-NN-FW": 2,
+      "NN-FW-NN": 1,
+      "FW-NN-FW": 2,
+      "NN-FW-NNP": 1,
+      "FW-NNP-NNP": 3,
+      "NNP-NNP-NNP": 4,
+      "NNP-NNP-NN": 2,
+      "NNP-NN-NN": 3,
+      "NN-NN-JJ": 2,
+      "NN-JJ-NNS": 1,
+      "JJ-NNS-NNS": 1,
+      "NNS-NNS-VBP": 2,
+      "NN-NN-NN": 13,
+      "NN-NN-VBP": 1,
+      "NN-VBP-JJ": 1,
+      "VBP-JJ-CD": 1,
+      "JJ-CD-IN": 1,
+      "CD-IN-NN": 3,
+      "IN-NN-NNP": 2,
+      "NN-NNP-NN": 2,
+      "NN-NN-IN": 4,
+      "NN-IN-JJ": 2,
+      "IN-JJ-JJ": 1,
+      "JJ-JJ-NN": 2,
+      "NN-JJ-NN": 3,
+      "NN-IN-NN": 2,
+      "IN-NN-NNS": 1,
+      "JJ-NN-IN": 1,
+      "IN-JJ-NN": 1,
+      "JJ-NN-NNP": 1,
+      "NNP-NN-JJ": 2,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-JJ": 1,
+      "VBZ-JJ-NNS": 1,
+      "JJ-NNS-NNP": 1,
+      "NNS-NNP-NNP": 1,
+      "NNP-NNP-VBZ": 2,
+      "NNP-VBZ-JJ": 1,
+      "VBZ-JJ-FW": 1,
+      "JJ-FW-NN": 1,
+      "FW-NN-IN": 1,
+      "NN-IN-FW": 2,
+      "IN-FW-NNS": 1,
+      "FW-NNS-VBP": 2,
+      "VBP-JJ-JJ": 1,
+      "NN-FW-FW": 1,
+      "FW-FW-FW": 9,
+      "FW-FW-NNS": 1,
+      "FW-NNS-NNS": 1,
+      "NNS-NNS-NNS": 1,
+      "NNS-VBP-CD": 1,
+      "VBP-CD-IN": 1,
+      "IN-NN-IN": 1,
+      "NN-IN-PRP": 1,
+      "IN-PRP-JJ": 1,
+      "PRP-JJ-FW": 1,
+      "JJ-FW-FW": 2,
+      "FW-FW-NNP": 2,
+      "NNP-NNP-FW": 1,
+      "NNP-FW-NNP": 1,
+      "NNP-NNP-VBD": 2,
+      "NNP-VBD-JJ": 2,
+      "VBD-JJ-NNP": 1,
+      "JJ-NNP-NNP": 1,
+      "NN-NN-NNS": 1,
+      "VBP-JJ-FW": 1,
+      "FW-FW-NN": 1,
+      "NN-FW-NNS": 1,
+      "IN-FW-FW": 1,
+      "FW-NNP-FW": 1,
+      "NNP-FW-NN": 1,
+      "FW-NN-NN": 2,
+      "NN-NN-NNP": 1,
+      "NN-NNP-NNP": 2,
+      "NNP-VBZ-NNS": 1,
+      "VBZ-NNS-FW": 1,
+      "NNS-FW-VBP": 1,
+      "FW-VBP-FW": 1,
+      "VBP-FW-CD": 1,
+      "FW-CD-FW": 1,
+      "CD-FW-NN": 1,
+      "VBD-JJ-CD": 1,
+      "JJ-CD-JJ": 1,
+      "CD-JJ-NNP": 1,
+      "JJ-NNP-NN": 1,
+      "NN-NN-VBD": 1,
+      "NN-VBD-CD": 1,
+      "VBD-CD-IN": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 52,
+        "FW": 27,
+        "NNP": 23,
+        "JJ": 22,
+        "NNS": 12
+      },
+      "top_bigrams": {
+        "NN-NN": 26,
+        "FW-FW": 13,
+        "JJ-NN": 11,
+        "NNP-NNP": 11,
+        "NNS-VBP": 7
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 13,
+        "FW-FW-FW": 9,
+        "JJ-NN-NN": 8,
+        "NNS-VBP-JJ": 6,
+        "VBP-JJ-NN": 4
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 6,
+    "chunk_counts": {
+      "NP": 43,
+      "VP": 17,
+      "ADJP": 3,
+      "PP": 6
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 6,
+        "weight": 0.08
+      },
+      {
+        "rule": "NP -> ('julio', 'NN')",
+        "frequency": 4,
+        "weight": 0.0533
+      },
+      {
+        "rule": "NP -> ('pueblo', 'NN')",
+        "frequency": 2,
+        "weight": 0.0267
+      },
+      {
+        "rule": "S -> NP VP (',', ',') ADJP ('el', 'FW') ('presidente', 'FW') ('de', 'FW') NP (',', ',') NP (',', ',') NP VP VP VP ('28', 'CD') PP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0133
+      },
+      {
+        "rule": "NP -> ('“', 'JJ') ('Consolidaremos', 'NNP') ('una', 'NN') ('gran', 'NN') ('victoria', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0133
+      },
+      {
+        "rule": "VP -> ('para', 'VBP') NP",
+        "frequency": 1,
+        "weight": 0.0133
+      },
+      {
+        "rule": "NP -> ('el', 'JJ') ('pueblo', 'NN') ('”', 'NN')",
+        "frequency": 1,
+        "weight": 0.0133
+      },
+      {
+        "rule": "ADJP -> ('aseguró', 'JJ')",
+        "frequency": 1,
+        "weight": 0.0133
+      },
+      {
+        "rule": "NP -> ('Venezuela', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0133
+      },
+      {
+        "rule": "NP -> ('Nicolás', 'NNP') ('Maduro', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0133
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "“ Consolidaremos una gran victoria"
+      },
+      {
+        "label": "VP",
+        "text": "para el pueblo ”"
+      },
+      {
+        "label": "NP",
+        "text": "el pueblo ”"
+      },
+      {
+        "label": "ADJP",
+        "text": "aseguró"
+      },
+      {
+        "label": "NP",
+        "text": "Venezuela"
+      },
+      {
+        "label": "NP",
+        "text": "Nicolás Maduro"
+      },
+      {
+        "label": "NP",
+        "text": "con"
+      },
+      {
+        "label": "VP",
+        "text": "respecto a las elecciones generales"
+      },
+      {
+        "label": "NP",
+        "text": "a las elecciones generales"
+      },
+      {
+        "label": "VP",
+        "text": "en el país sudamericano que se celebraran"
+      },
+      {
+        "label": "NP",
+        "text": "el país sudamericano que se celebraran"
+      },
+      {
+        "label": "VP",
+        "text": "el próximo"
+      },
+      {
+        "label": "PP",
+        "text": "de julio"
+      },
+      {
+        "label": "NP",
+        "text": "julio"
+      },
+      {
+        "label": "NP",
+        "text": "El mensaje estuvo acompañado"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP “/JJ Consolidaremos/NNP una/NN gran/NN victoria/NNS)\n  (VP para/VBP (NP el/JJ pueblo/NN ”/NN))\n  ,/,\n  (ADJP aseguró/JJ)\n  el/FW\n  presidente/FW\n  de/FW\n  (NP Venezuela/NNP)\n  ,/,\n  (NP Nicolás/NNP Maduro/NNP)\n  ,/,\n  (NP con/NN)\n  (VP respecto/VBD (NP a/DT las/JJ elecciones/NNS generales/NNS))\n  (VP\n    en/VBP\n    (NP el/JJ país/NN sudamericano/NN que/NN se/NN celebraran/NN))\n  (VP el/VBP próximo/JJ)\n  28/CD\n  (PP de/IN (NP julio/NN))\n  ./.)",
+      "(S\n  (NP El/NNP mensaje/NN estuvo/NN acompañado/NN)\n  (PP de/IN (NP un/JJ audiovisual/JJ donde/NN se/NN))\n  (NP muestra/JJ el/NN recibimiento/NN)\n  (PP de/IN (NP este/NN miércoles/NNS))\n  (VP por/VBP (NP el/JJ pueblo/NN))\n  (PP de/IN (NP ese/JJ territorio/NN))\n  ./.)",
+      "(S\n  (NP En/NNP este/NN)\n  (NP\n    audiovisual/JJ\n    se/NN\n    escucha/NN\n    parte/NN\n    del/NN\n    mensaje/NN\n    que/NN\n    el/NN\n    mandatario/NN)\n  (VP envió/VBZ (NP a/DT los/JJ larenses/NNS))\n  :/:\n  (NP “/NN Soy/NNP Nicolás/NNP Maduro/NNP)\n  ,/,\n  (VP el/VBZ presidente/JJ)\n  del/FW\n  (NP pueblo/NN)\n  ,/,\n  de/FW\n  los/FW\n  (NP barrios/NNS)\n  (VP y/VBP (NP con/NN la/NN) (NP fuerza/JJ del/NN pueblo/NN y/NN))\n  la/FW\n  voluntad/FW\n  de/FW\n  los/FW\n  (NP hombres/NNS)\n  (VP y/VBP (NP mujeres/NNS humildes/NNS))\n  ,/,\n  (VP el/VBP)\n  28/CD\n  (PP de/IN (NP julio/NN))\n  ustedes/IN\n  me/PRP\n  (ADJP elegirán/JJ)\n  presidente/FW\n  de/FW\n  la/FW\n  (NP República/NNP Bolivariana/NNP)\n  de/FW\n  (NP Venezuela/NNP ”/NNP)\n  ./.)",
+      "(S\n  (NP Durante/NNP su/NN)\n  (VP visita/VBD (NP a/DT Lara/NNP))\n  ,/,\n  (NP Maduro/NNP instruyó/NN varias/NN acciones/NNS)\n  (VP para/VBP mejorar/JJ)\n  la/FW\n  calidad/FW\n  de/FW\n  vida/FW\n  del/FW\n  (NP pueblo/NN)\n  ,/,\n  entre/FW\n  ellas/FW\n  la/FW\n  activación/FW\n  del/FW\n  (NP plan/NN)\n  de/IN\n  asfaltado/FW\n  y/FW\n  el/FW\n  servicio/FW\n  de/FW\n  agua/FW\n  ./.)",
+      "(S\n  (NP De/NNP)\n  (VP\n    acuerdo/VBZ\n    (NP\n      a/DT\n      lo/JJ\n      establecido/NN\n      por/NN\n      el/NN\n      Consejo/NNP\n      Nacional/NNP\n      Electoral/NNP))\n  (/(\n  (NP CNE/NNP)\n  )/)\n  ,/,\n  (NP las/JJ elecciones/NNS)\n  se/FW\n  (VP celebrarán/VBP)\n  el/FW\n  28/CD\n  de/FW\n  (NP julio/NN)\n  ,/,\n  (NP día/NN)\n  en/FW\n  (NP que/NN Hugo/NNP Chávez/NNP)\n  (VP habría/VBD cumplido/JJ)\n  70/CD\n  (NP años/NN)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "GOBIERNOS_OFICIALES",
+      "GRUPOS_ESPECIFICOS",
+      "LEYES_NORMATIVAS",
+      "RECURSOS_NATURALES",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "PAISES",
+      "RELACIONES_INTERNACIONALES"
+    ],
+    "matches": [
+      {
+        "category": "RELACIONES_INTERNACIONALES",
+        "matched_text": "mensaje que el mandatario envió a los larenses: “soy nicolás maduro, el presidente",
+        "position": [
+          381,
+          463
+        ],
+        "start": 381,
+        "end": 463
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "campaña electoral",
+        "position": [
+          994,
+          1011
+        ],
+        "start": 994,
+        "end": 1011
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente de venezuela",
+        "position": [
+          62,
+          85
+        ],
+        "start": 62,
+        "end": 85
+      },
+      {
+        "category": "GRUPOS_ESPECIFICOS",
+        "matched_text": "mujeres",
+        "position": [
+          549,
+          556
+        ],
+        "start": 549,
+        "end": 556
+      },
+      {
+        "category": "LEYES_NORMATIVAS",
+        "matched_text": "acuerdo a lo establecido por el consejo nacional electoral (cne), las elecciones se celebrarán el 28",
+        "position": [
+          832,
+          932
+        ],
+        "start": 832,
+        "end": 932
+      },
+      {
+        "category": "RECURSOS_NATURALES",
+        "matched_text": "agua",
+        "position": [
+          823,
+          827
+        ],
+        "start": 823,
+        "end": 827
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "venezuela",
+        "position": [
+          76,
+          85
+        ],
+        "start": 76,
+        "end": 85
+      }
+    ],
+    "match_count": 7
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Nicolás Maduro",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Venezuela",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Maduro",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "CNE",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Consejo Nacional Electoral",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Lara",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Hugo Chávez",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "República Bolivariana de Venezuela",
+        "tipo": "Organizacion"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Nicolás Maduro",
+        "relacion": "ESCUCHAR",
+        "objeto": "República Bolivariana de Venezuela"
+      },
+      {
+        "sujeto": "Maduro",
+        "relacion": "INSTRUIR",
+        "objeto": "Lara"
+      },
+      {
+        "sujeto": "Hugo Chávez",
+        "relacion": "CELEBRAR",
+        "objeto": "Consejo Nacional Electoral"
+      },
+      {
+        "sujeto": "Hugo Chávez",
+        "relacion": "CELEBRAR",
+        "objeto": "CNE"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.0,
+    "pos": 0.0,
+    "neu": 1.0,
+    "neg": 0.0,
+    "label": "neutral"
+  }
+}

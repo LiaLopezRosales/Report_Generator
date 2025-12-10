@@ -1,0 +1,695 @@
+{
+  "url": "https://www.telesurtv.net/tragedia-en-el-egeo-ocho-migrantes-mueren-tras-naufragio-cerca-de-rodas/",
+  "title": "Tragedia en el Egeo: ocho migrantes mueren tras naufragio cerca de Rodas - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Grecia",
+    "Inmigrantes",
+    "Migración"
+  ],
+  "text": "Ocho personas murieron ahogadas este viernes tras el naufragio de una lancha con al menos 26 inmigrantes a bordo frente a la isla de Rodas, Grecia. La embarcación, según informes del diario griego Kathimerini, navegaba a más de 56 kilómetros por hora intentando evadir una patrulla de guardacostas.\nLEA TAMBIÉN:Trabajadores en Grecia reclaman aumentos salariales y soluciones al alto coste de vida\nDurante las maniobras de evasión, el conductor perdió el control, impactando contra la patrulla y provocando la caída de los migrantes al agua.\nDieciocho personas fueron rescatadas, ocho de ellas con heridas de gravedad. Las autoridades griegas han iniciado una operación de búsqueda y rescate para encontrar a posibles sobrevivientes. Dos ciudadanos turcos han sido detenidos, acusados de tráfico de personas.\nEste incidente se suma a una serie de tragedias recientes en aguas griegas. El pasado fin de semana, al menos cinco inmigrantes murieron y decenas siguen desaparecidos tras el vuelco de una embarcación al sur de Creta. En total, más de 200 personas fueron rescatadas en cuatro operaciones de rescate separadas durante el mismo periodo.\nLas rutas migratorias más comunes hacia Grecia son desde la costa occidental de Türkiye hacia las islas de Samos, Leros, Lesbos, Kos y Chios, y desde la costa de Libia hacia Creta. Según el Alto Comisionado de las Naciones Unidas para los Refugiados (ACNUR), más de 59.000 migrantes llegaron a Grecia hasta el 15 de diciembre de 2023, un aumento en comparación con los 49.000 registrados en 2022.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/tragedia-en-el-egeo-ocho-migrantes-mueren-tras-naufragio-cerca-de-rodas/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-12.json",
+    "message_index": 593,
+    "message_id": 82785,
+    "date": "2024-12-20T19:55:07+00:00",
+    "text": "teleSUR\nTragedia en el Egeo: ocho migrantes mueren tras naufragio cerca de Rodas\nhttps://www.telesurtv.net/tragedia-en-el-egeo-ocho-migrantes-mueren-tras-naufragio-cerca-de-rodas/",
+    "photo_path": null,
+    "views": 1799,
+    "reactions": {
+      "😢": 21,
+      "👍": 4,
+      "😱": 4,
+      "🙏": 2
+    },
+    "total_reactions": 31
+  },
+  "preprocessing": {
+    "cleaned": "ocho personas murieron ahogadas este viernes tras el naufragio de una lancha con al menos 26 inmigrantes a bordo frente a la isla de rodas, grecia. la embarcación, según informes del diario griego kathimerini, navegaba a más de 56 kilómetros por hora intentando evadir una patrulla de guardacostas. durante las maniobras de evasión, el conductor perdió el control, impactando contra la patrulla y provocando la caída de los migrantes al agua. dieciocho personas fueron rescatadas, ocho de ellas con heridas de gravedad. las autoridades griegas han iniciado una operación de búsqueda y rescate para encontrar a posibles sobrevivientes. dos ciudadanos turcos han sido detenidos, acusados de tráfico de personas. este incidente se suma a una serie de tragedias recientes en aguas griegas. el pasado fin de semana, al menos cinco inmigrantes murieron y decenas siguen desaparecidos tras el vuelco de una embarcación al sur de creta. en total, más de 200 personas fueron rescatadas en cuatro operaciones de rescate separadas durante el mismo periodo. las rutas migratorias más comunes hacia grecia son desde la costa occidental de türkiye hacia las islas de samos, leros, lesbos, kos y chios, y desde la costa de libia hacia creta. según el alto comisionado de las naciones unidas para los refugiados (acnur), más de 59.000 migrantes llegaron a grecia hasta el 15 de diciembre de 2023, un aumento en comparación con los 49.000 registrados en 2022.",
+    "tokens": [
+      "ocho",
+      "personas",
+      "murieron",
+      "ahogadas",
+      "viernes",
+      "tras",
+      "naufragio",
+      "lancha",
+      "menos",
+      "26",
+      "inmigrantes",
+      "bordo",
+      "frente",
+      "isla",
+      "rodas",
+      ",",
+      "grecia",
+      ".",
+      "embarcación",
+      ",",
+      "según",
+      "informes",
+      "diario",
+      "griego",
+      "kathimerini",
+      ",",
+      "navegaba",
+      "56",
+      "kilómetros",
+      "hora",
+      "intentando",
+      "evadir",
+      "patrulla",
+      "guardacostas",
+      ".",
+      "maniobras",
+      "evasión",
+      ",",
+      "conductor",
+      "perdió",
+      "control",
+      ",",
+      "impactando",
+      "patrulla",
+      "provocando",
+      "caída",
+      "migrantes",
+      "agua",
+      ".",
+      "dieciocho",
+      "personas",
+      "rescatadas",
+      ",",
+      "ocho",
+      "heridas",
+      "gravedad",
+      ".",
+      "autoridades",
+      "griegas",
+      "iniciado",
+      "operación",
+      "búsqueda",
+      "rescate",
+      "encontrar",
+      "posibles",
+      "sobrevivientes",
+      ".",
+      "dos",
+      "ciudadanos",
+      "turcos",
+      "sido",
+      "detenidos",
+      ",",
+      "acusados",
+      "tráfico",
+      "personas",
+      ".",
+      "incidente",
+      "suma",
+      "serie",
+      "tragedias",
+      "recientes",
+      "aguas",
+      "griegas",
+      ".",
+      "pasado",
+      "fin",
+      "semana",
+      ",",
+      "menos",
+      "cinco",
+      "inmigrantes",
+      "murieron",
+      "decenas",
+      "siguen",
+      "desaparecidos",
+      "tras",
+      "vuelco",
+      "embarcación",
+      "sur",
+      "creta",
+      ".",
+      "total",
+      ",",
+      "200",
+      "personas",
+      "rescatadas",
+      "cuatro",
+      "operaciones",
+      "rescate",
+      "separadas",
+      "mismo",
+      "periodo",
+      ".",
+      "rutas",
+      "migratorias",
+      "comunes",
+      "hacia",
+      "grecia",
+      "costa",
+      "occidental",
+      "türkiye",
+      "hacia",
+      "islas",
+      "samos",
+      ",",
+      "leros",
+      ",",
+      "lesbos",
+      ",",
+      "kos",
+      "chios",
+      ",",
+      "costa",
+      "libia",
+      "hacia",
+      "creta",
+      ".",
+      "según",
+      "alto",
+      "comisionado",
+      "naciones",
+      "unidas",
+      "refugiados",
+      "(",
+      "acnur",
+      ")",
+      ",",
+      "59.000",
+      "migrantes",
+      "llegaron",
+      "grecia",
+      "15",
+      "diciembre",
+      "2023",
+      ",",
+      "aumento",
+      "comparación",
+      "49.000",
+      "registrados",
+      "2022",
+      "."
+    ],
+    "token_count": 162,
+    "sentence_count": 11
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 36,
+      "NN": 68,
+      "JJ": 22,
+      "NNS": 17,
+      "VBP": 12,
+      "FW": 48,
+      "VBD": 4,
+      "CD": 8,
+      "IN": 16,
+      "VBZ": 4
+    },
+    "bigram_freq": {
+      "NNP-NN": 12,
+      "NN-NN": 34,
+      "NN-JJ": 5,
+      "JJ-NN": 11,
+      "NN-NNS": 6,
+      "NNS-VBP": 12,
+      "VBP-JJ": 7,
+      "JJ-FW": 4,
+      "FW-FW": 27,
+      "FW-NN": 6,
+      "NN-VBD": 3,
+      "VBD-CD": 3,
+      "CD-NNS": 4,
+      "FW-NNP": 9,
+      "NNP-NNP": 14,
+      "NNP-FW": 4,
+      "VBP-NN": 2,
+      "NN-NNP": 4,
+      "NN-IN": 10,
+      "IN-CD": 4,
+      "NNS-JJ": 1,
+      "JJ-NNS": 2,
+      "JJ-JJ": 3,
+      "IN-FW": 7,
+      "NN-VBZ": 1,
+      "VBZ-NNS": 1,
+      "NNS-IN": 2,
+      "IN-JJ": 2,
+      "NN-FW": 4,
+      "FW-NNS": 3,
+      "JJ-NNP": 1,
+      "NNP-VBZ": 2,
+      "VBZ-NN": 1,
+      "NNS-VBZ": 1,
+      "VBZ-NNP": 2,
+      "FW-JJ": 2,
+      "IN-NN": 1,
+      "VBP-NNS": 1,
+      "NNP-JJ": 1,
+      "NNS-FW": 1,
+      "VBP-NNP": 2,
+      "IN-NNP": 2,
+      "NNP-VBD": 1,
+      "VBD-NNP": 1,
+      "NNP-IN": 2,
+      "CD-FW": 1,
+      "FW-IN": 1,
+      "CD-JJ": 1,
+      "JJ-IN": 1,
+      "CD-NN": 1,
+      "NN-CD": 1
+    },
+    "trigram_freq": {
+      "NNP-NN-NN": 11,
+      "NN-NN-JJ": 5,
+      "NN-JJ-NN": 3,
+      "JJ-NN-NNS": 1,
+      "NN-NNS-VBP": 4,
+      "NNS-VBP-JJ": 7,
+      "VBP-JJ-FW": 3,
+      "JJ-FW-FW": 2,
+      "FW-FW-FW": 16,
+      "FW-FW-NN": 3,
+      "FW-NN-NN": 3,
+      "NN-NN-VBD": 2,
+      "NN-VBD-CD": 3,
+      "VBD-CD-NNS": 1,
+      "CD-NNS-VBP": 3,
+      "FW-FW-NNP": 4,
+      "FW-NNP-NNP": 4,
+      "NNP-NNP-NNP": 6,
+      "NNP-NNP-FW": 2,
+      "NNP-FW-NN": 1,
+      "FW-NN-NNS": 2,
+      "NNS-VBP-NN": 2,
+      "VBP-NN-NN": 1,
+      "NN-NN-NNP": 4,
+      "NN-NNP-NN": 3,
+      "NN-NN-IN": 4,
+      "NN-IN-CD": 2,
+      "IN-CD-NNS": 3,
+      "CD-NNS-JJ": 1,
+      "NNS-JJ-NNS": 1,
+      "JJ-NNS-VBP": 2,
+      "VBP-JJ-JJ": 1,
+      "JJ-JJ-NN": 2,
+      "JJ-NN-IN": 6,
+      "NN-IN-FW": 6,
+      "IN-FW-NNP": 3,
+      "NNP-FW-NNP": 1,
+      "FW-NNP-NN": 2,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-NNS": 1,
+      "VBZ-NNS-IN": 1,
+      "NNS-IN-JJ": 1,
+      "IN-JJ-NN": 2,
+      "FW-NNP-FW": 2,
+      "NNP-FW-FW": 2,
+      "NN-NN-NN": 12,
+      "NN-JJ-JJ": 2,
+      "JJ-NN-NN": 4,
+      "NN-NN-FW": 2,
+      "NN-FW-FW": 4,
+      "FW-FW-NNS": 2,
+      "FW-NNS-VBP": 2,
+      "VBP-JJ-NNP": 1,
+      "JJ-NNP-NN": 1,
+      "FW-NN-FW": 1,
+      "FW-NNP-VBZ": 1,
+      "NNP-VBZ-NN": 1,
+      "VBZ-NN-NN": 1,
+      "IN-FW-NN": 1,
+      "NN-NN-NNS": 3,
+      "NN-NNS-VBZ": 1,
+      "NNS-VBZ-NNP": 1,
+      "VBZ-NNP-NN": 1,
+      "IN-FW-FW": 1,
+      "FW-FW-JJ": 1,
+      "FW-JJ-NN": 1,
+      "IN-FW-NNS": 1,
+      "FW-NNS-IN": 1,
+      "NNS-IN-NN": 1,
+      "IN-NN-NN": 1,
+      "IN-FW-JJ": 1,
+      "FW-JJ-NNS": 1,
+      "NNS-VBP-NNS": 1,
+      "VBP-NNS-VBP": 1,
+      "VBP-JJ-NN": 2,
+      "VBP-NN-FW": 1,
+      "NNP-NNP-JJ": 1,
+      "NNP-JJ-NN": 1,
+      "JJ-FW-NN": 1,
+      "NN-NNS-FW": 1,
+      "NNS-FW-FW": 1,
+      "NNS-VBP-NNP": 2,
+      "VBP-NNP-NN": 2,
+      "JJ-JJ-FW": 1,
+      "JJ-FW-NNP": 1,
+      "NN-IN-NNP": 2,
+      "IN-NNP-NNP": 1,
+      "NNP-NNP-NN": 2,
+      "IN-NNP-VBD": 1,
+      "NNP-VBD-NNP": 1,
+      "VBD-NNP-NNP": 1,
+      "NNP-NNP-VBZ": 1,
+      "NNP-VBZ-NNP": 1,
+      "VBZ-NNP-NNP": 1,
+      "NNP-NNP-IN": 2,
+      "NNP-IN-FW": 1,
+      "NN-NNP-NNP": 1,
+      "NNP-IN-CD": 1,
+      "NNP-NN-VBD": 1,
+      "VBD-CD-FW": 1,
+      "CD-FW-FW": 1,
+      "FW-FW-IN": 1,
+      "FW-IN-CD": 1,
+      "IN-CD-JJ": 1,
+      "CD-JJ-IN": 1,
+      "JJ-IN-JJ": 1,
+      "VBD-CD-NN": 1,
+      "CD-NN-NN": 1,
+      "NN-NN-CD": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 68,
+        "FW": 48,
+        "NNP": 36,
+        "JJ": 22,
+        "NNS": 17
+      },
+      "top_bigrams": {
+        "NN-NN": 34,
+        "FW-FW": 27,
+        "NNP-NNP": 14,
+        "NNP-NN": 12,
+        "NNS-VBP": 12
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 16,
+        "NN-NN-NN": 12,
+        "NNP-NN-NN": 11,
+        "NNS-VBP-JJ": 7,
+        "NNP-NNP-NNP": 6
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 11,
+    "chunk_counts": {
+      "NP": 69,
+      "VP": 23,
+      "PP": 7,
+      "ADJP": 1
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 4,
+        "weight": 0.036
+      },
+      {
+        "rule": "NP -> ('migrantes', 'NNS')",
+        "frequency": 2,
+        "weight": 0.018
+      },
+      {
+        "rule": "NP -> ('Creta', 'NNP')",
+        "frequency": 2,
+        "weight": 0.018
+      },
+      {
+        "rule": "S -> NP NP VP ('naufragio', 'FW') ('de', 'FW') ('una', 'FW') ('lancha', 'FW') NP VP ('26', 'CD') NP NP VP PP (',', ',') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.009
+      },
+      {
+        "rule": "NP -> ('Ocho', 'NNP') ('personas', 'NN') ('murieron', 'NN')",
+        "frequency": 1,
+        "weight": 0.009
+      },
+      {
+        "rule": "NP -> ('ahogadas', 'JJ') ('este', 'NN') ('viernes', 'NNS')",
+        "frequency": 1,
+        "weight": 0.009
+      },
+      {
+        "rule": "VP -> ('tras', 'VBP') ('el', 'JJ')",
+        "frequency": 1,
+        "weight": 0.009
+      },
+      {
+        "rule": "NP -> ('con', 'NN') ('al', 'NN')",
+        "frequency": 1,
+        "weight": 0.009
+      },
+      {
+        "rule": "VP -> ('menos', 'VBD')",
+        "frequency": 1,
+        "weight": 0.009
+      },
+      {
+        "rule": "NP -> ('inmigrantes', 'NNS')",
+        "frequency": 1,
+        "weight": 0.009
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Ocho personas murieron"
+      },
+      {
+        "label": "NP",
+        "text": "ahogadas este viernes"
+      },
+      {
+        "label": "VP",
+        "text": "tras el"
+      },
+      {
+        "label": "NP",
+        "text": "con al"
+      },
+      {
+        "label": "VP",
+        "text": "menos"
+      },
+      {
+        "label": "NP",
+        "text": "inmigrantes"
+      },
+      {
+        "label": "NP",
+        "text": "a bordo"
+      },
+      {
+        "label": "VP",
+        "text": "frente a la isla"
+      },
+      {
+        "label": "NP",
+        "text": "a la isla"
+      },
+      {
+        "label": "PP",
+        "text": "de Rodas"
+      },
+      {
+        "label": "NP",
+        "text": "Rodas"
+      },
+      {
+        "label": "NP",
+        "text": "Grecia"
+      },
+      {
+        "label": "NP",
+        "text": "La embarcación"
+      },
+      {
+        "label": "NP",
+        "text": "según informes"
+      },
+      {
+        "label": "VP",
+        "text": "del diario griego Kathimerini"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Ocho/NNP personas/NN murieron/NN)\n  (NP ahogadas/JJ este/NN viernes/NNS)\n  (VP tras/VBP el/JJ)\n  naufragio/FW\n  de/FW\n  una/FW\n  lancha/FW\n  (NP con/NN al/NN)\n  (VP menos/VBD)\n  26/CD\n  (NP inmigrantes/NNS)\n  (NP a/DT bordo/NN)\n  (VP frente/VBZ (NP a/DT la/NN isla/NN))\n  (PP de/IN (NP Rodas/NNP))\n  ,/,\n  (NP Grecia/NNP)\n  ./.)",
+      "(S\n  (NP La/NNP embarcación/NN)\n  ,/,\n  (NP según/JJ informes/NNS)\n  (VP del/VBP (NP diario/NN griego/NN Kathimerini/NNP))\n  ,/,\n  (VP navegaba/VBZ (NP a/DT más/NN))\n  de/IN\n  56/CD\n  (NP kilómetros/NNS)\n  (NP por/JJ hora/NNS)\n  (VP intentando/VBP (NP evadir/JJ una/JJ patrulla/NN))\n  (PP de/IN (NP guardacostas/NNS))\n  ./.)",
+      "(S\n  (NP LEA/NNP TAMBIÉN/NNP)\n  :/:\n  (NP Trabajadores/NNS)\n  (VP en/VBP (NP Grecia/NNP reclaman/NN aumentos/NN))\n  (VP salariales/VBZ (NP y/JJR soluciones/NNS))\n  (PP al/IN (NP alto/JJ coste/NN))\n  de/IN\n  vida/FW\n  (NP Durante/NNP)\n  las/FW\n  maniobras/FW\n  de/FW\n  evasión/FW\n  ,/,\n  el/FW\n  (NP conductor/NN perdió/NN el/NN control/NN)\n  ,/,\n  (NP impactando/JJ contra/JJ la/NN patrulla/NN)\n  y/FW\n  (NP provocando/NN)\n  la/FW\n  caída/FW\n  de/FW\n  los/FW\n  (NP migrantes/NNS)\n  (VP al/VBP (NP agua/NN))\n  ./.)",
+      "(S\n  (NP Dieciocho/NNP personas/NN fueron/NN rescatadas/NN)\n  ,/,\n  ocho/FW\n  de/FW\n  ellas/FW\n  (NP con/NN)\n  heridas/FW\n  de/FW\n  gravedad/FW\n  ./.)",
+      "(S\n  (NP Las/NNP)\n  (VP\n    autoridades/VBZ\n    (NP griegas/NN han/NN iniciado/NN)\n    (NP una/JJ operación/NN))\n  de/IN\n  búsqueda/FW\n  (NP y/JJ rescate/NN para/NN)\n  (VP encontrar/VBZ (NP a/DT posibles/JJ sobrevivientes/NNS))\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "RECURSOS_NATURALES",
+      "ORGANISMOS_INTERNACIONALES",
+      "CANTIDADES_NUMERICAS",
+      "MEDIOS_COMUNICACION",
+      "FECHAS_ESPECIFICAS",
+      "VIOLENCIA_CRIMEN_DERECHOS_HUMANOS"
+    ],
+    "matches": [
+      {
+        "category": "VIOLENCIA_CRIMEN_DERECHOS_HUMANOS",
+        "matched_text": "tráfico de personas",
+        "position": [
+          788,
+          807
+        ],
+        "start": 788,
+        "end": 807
+      },
+      {
+        "category": "ORGANISMOS_INTERNACIONALES",
+        "matched_text": "naciones unidas",
+        "position": [
+          1359,
+          1374
+        ],
+        "start": 1359,
+        "end": 1374
+      },
+      {
+        "category": "MEDIOS_COMUNICACION",
+        "matched_text": "diario griego kathimerini",
+        "position": [
+          183,
+          208
+        ],
+        "start": 183,
+        "end": 208
+      },
+      {
+        "category": "RECURSOS_NATURALES",
+        "matched_text": "agua",
+        "position": [
+          536,
+          540
+        ],
+        "start": 536,
+        "end": 540
+      },
+      {
+        "category": "FECHAS_ESPECIFICAS",
+        "matched_text": "15 de diciembre de 2023",
+        "position": [
+          1455,
+          1478
+        ],
+        "start": 1455,
+        "end": 1478
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "200 personas",
+        "position": [
+          1045,
+          1057
+        ],
+        "start": 1045,
+        "end": 1057
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "más de 56",
+        "position": [
+          221,
+          230
+        ],
+        "start": 221,
+        "end": 230
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "más de 200",
+        "position": [
+          1038,
+          1048
+        ],
+        "start": 1038,
+        "end": 1048
+      }
+    ],
+    "match_count": 8
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Grecia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Kos",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Lesbos",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "isla de",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "ACNUR",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Libia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Türkiye",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Samos",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Leros",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Rodas",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Kathimerini",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Dieciocho",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Creta",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Chios",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "ACNUR",
+        "relacion": "LLEGAR",
+        "objeto": "Grecia"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.0,
+    "pos": 0.0,
+    "neu": 1.0,
+    "neg": 0.0,
+    "label": "neutral"
+  }
+}

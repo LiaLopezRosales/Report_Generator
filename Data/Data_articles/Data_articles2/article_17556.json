@@ -1,0 +1,712 @@
+{
+  "url": "https://www.telesurtv.net/israel-asesina-a-cuatro-palestinos-incluyendo-un-nino-tras-bombardear-gaza/",
+  "title": "Israel asesina a cuatro palestinos, incluyendo un niño, tras bombardear Gaza - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Palestina",
+    "Sucesos",
+    "Terrorismo Sionista"
+  ],
+  "text": "Los bombardeos impactaron sobre campamentos civiles y un refugio para familias desplazadas, exacerbando la crisis humanitaria que vive la ya asediada Palestina.\nEn una nueva jornada de violencia sionista, cuatro palestinos, entre ellos un niño, Israel les arrebató la vida y dejó a varios más heridos durante la noche del jueves noche debido a los ataques aéreos lanzados en la Franja de Gaza.\nFuentes médicas del Complejo Médico Nasser, ubicado en Khan Younis, confirmaron la llegada de tres cuerpos, entre ellos el de un menor, tras un ataque que tuvo lugar en la ciudad de Abasan, donde se celebraba una reunión civil. Además, otro ataque aéreo en el barrio de Zaytoun, al este de la ciudad de Gaza, resultó en la muerte de un hombre e hirió a varias personas.\nLos bombardeos israelíes también afectaron un refugio en el campo de refugiados de Nuseirat, causando aún más heridos en medio de una situación de sobrecarga humanitaria. Desde las primeras horas de la mañana de este jueves, el total de muertos en Gaza se ha elevado a 44, a medida que las fuerzas israelíes continúan con una serie de ataques aéreos incesantes en todo el territorio.\nLa actual agresión israelí, que se intensificó a partir de octubre de 2023, ha dejado un saldo devastador de más de 40,265 muertes palestinas documentadas y más de 93,144 heridos. Organizaciones humanitarias temen que miles de víctimas se encuentren atrapadas bajo los escombros, imposibilitados para recibir asistencia debido al incesante asedio sionista en la región.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/israel-asesina-a-cuatro-palestinos-incluyendo-un-nino-tras-bombardear-gaza/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-08.json",
+    "message_index": 529,
+    "message_id": 75003,
+    "date": "2024-08-23T05:55:18+00:00",
+    "text": "teleSUR\nIsrael asesina a cuatro palestinos, incluyendo un niño, tras bombardear Gaza\nhttps://www.telesurtv.net/israel-asesina-a-cuatro-palestinos-incluyendo-un-nino-tras-bombardear-gaza/",
+    "photo_path": null,
+    "views": 2645,
+    "reactions": {
+      "🤬": 75,
+      "👎": 6,
+      "😢": 4,
+      "💩": 2
+    },
+    "total_reactions": 87
+  },
+  "preprocessing": {
+    "cleaned": "los bombardeos impactaron sobre campamentos civiles y un refugio para familias desplazadas, exacerbando la crisis humanitaria que vive la ya asediada palestina. en una nueva jornada de violencia sionista, cuatro palestinos, entre ellos un niño, israel les arrebató la vida y dejó a varios más heridos durante la noche del jueves noche debido a los ataques aéreos lanzados en la franja de gaza. fuentes médicas del complejo médico nasser, ubicado en khan younis, confirmaron la llegada de tres cuerpos, entre ellos el de un menor, tras un ataque que tuvo lugar en la ciudad de abasan, donde se celebraba una reunión civil. además, otro ataque aéreo en el barrio de zaytoun, al este de la ciudad de gaza, resultó en la muerte de un hombre e hirió a varias personas. los bombardeos israelíes también afectaron un refugio en el campo de refugiados de nuseirat, causando aún más heridos en medio de una situación de sobrecarga humanitaria. desde las primeras horas de la mañana de este jueves, el total de muertos en gaza se ha elevado a 44, a medida que las fuerzas israelíes continúan con una serie de ataques aéreos incesantes en todo el territorio. la actual agresión israelí, que se intensificó a partir de octubre de 2023, ha dejado un saldo devastador de más de 40,265 muertes palestinas documentadas y más de 93,144 heridos. organizaciones humanitarias temen que miles de víctimas se encuentren atrapadas bajo los escombros, imposibilitados para recibir asistencia debido al incesante asedio sionista en la región.",
+    "tokens": [
+      "bombardeos",
+      "impactaron",
+      "campamentos",
+      "civiles",
+      "refugio",
+      "familias",
+      "desplazadas",
+      ",",
+      "exacerbando",
+      "crisis",
+      "humanitaria",
+      "vive",
+      "asediada",
+      "palestina",
+      ".",
+      "nueva",
+      "jornada",
+      "violencia",
+      "sionista",
+      ",",
+      "cuatro",
+      "palestinos",
+      ",",
+      "niño",
+      ",",
+      "israel",
+      "arrebató",
+      "vida",
+      "dejó",
+      "varios",
+      "heridos",
+      "noche",
+      "jueves",
+      "noche",
+      "debido",
+      "ataques",
+      "aéreos",
+      "lanzados",
+      "franja",
+      "gaza",
+      ".",
+      "fuentes",
+      "médicas",
+      "complejo",
+      "médico",
+      "nasser",
+      ",",
+      "ubicado",
+      "khan",
+      "younis",
+      ",",
+      "confirmaron",
+      "llegada",
+      "tres",
+      "cuerpos",
+      ",",
+      "menor",
+      ",",
+      "tras",
+      "ataque",
+      "lugar",
+      "ciudad",
+      "abasan",
+      ",",
+      "celebraba",
+      "reunión",
+      "civil",
+      ".",
+      "además",
+      ",",
+      "ataque",
+      "aéreo",
+      "barrio",
+      "zaytoun",
+      ",",
+      "ciudad",
+      "gaza",
+      ",",
+      "resultó",
+      "muerte",
+      "hombre",
+      "hirió",
+      "varias",
+      "personas",
+      ".",
+      "bombardeos",
+      "israelíes",
+      "afectaron",
+      "refugio",
+      "campo",
+      "refugiados",
+      "nuseirat",
+      ",",
+      "causando",
+      "aún",
+      "heridos",
+      "medio",
+      "situación",
+      "sobrecarga",
+      "humanitaria",
+      ".",
+      "primeras",
+      "horas",
+      "mañana",
+      "jueves",
+      ",",
+      "total",
+      "muertos",
+      "gaza",
+      "elevado",
+      "44",
+      ",",
+      "medida",
+      "fuerzas",
+      "israelíes",
+      "continúan",
+      "serie",
+      "ataques",
+      "aéreos",
+      "incesantes",
+      "territorio",
+      ".",
+      "actual",
+      "agresión",
+      "israelí",
+      ",",
+      "intensificó",
+      "partir",
+      "octubre",
+      "2023",
+      ",",
+      "dejado",
+      "saldo",
+      "devastador",
+      "40,265",
+      "muertes",
+      "palestinas",
+      "documentadas",
+      "93,144",
+      "heridos",
+      ".",
+      "organizaciones",
+      "humanitarias",
+      "temen",
+      "miles",
+      "víctimas",
+      "encuentren",
+      "atrapadas",
+      "bajo",
+      "escombros",
+      ",",
+      "imposibilitados",
+      "recibir",
+      "asistencia",
+      "debido",
+      "incesante",
+      "asedio",
+      "sionista",
+      "región",
+      "."
+    ],
+    "token_count": 160,
+    "sentence_count": 8
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 22,
+      "NN": 81,
+      "VBZ": 4,
+      "JJ": 37,
+      "FW": 46,
+      "IN": 14,
+      "NNS": 16,
+      "VBP": 11,
+      "RB": 2,
+      "MD": 1,
+      "VB": 1,
+      "CD": 4,
+      "NNPS": 1
+    },
+    "bigram_freq": {
+      "NNP-NN": 5,
+      "NN-NN": 40,
+      "NN-VBZ": 1,
+      "VBZ-JJ": 2,
+      "JJ-NN": 22,
+      "NN-FW": 5,
+      "FW-NN": 9,
+      "NN-JJ": 8,
+      "NN-NNP": 5,
+      "NNP-VBZ": 3,
+      "VBZ-NNP": 1,
+      "NNP-NNP": 5,
+      "NNP-JJ": 4,
+      "NN-IN": 13,
+      "IN-FW": 8,
+      "FW-JJ": 3,
+      "NN-NNS": 7,
+      "NNS-VBP": 9,
+      "VBP-JJ": 8,
+      "JJ-JJ": 5,
+      "VBZ-RB": 1,
+      "RB-JJ": 1,
+      "JJ-FW": 6,
+      "FW-FW": 23,
+      "FW-NNP": 7,
+      "NNP-FW": 3,
+      "NNP-VBP": 1,
+      "VBP-NN": 1,
+      "FW-NNS": 2,
+      "IN-JJ": 1,
+      "NNS-JJ": 3,
+      "JJ-NNP": 1,
+      "NNP-MD": 1,
+      "MD-VB": 1,
+      "VB-JJ": 1,
+      "IN-NNP": 1,
+      "NNS-NNP": 1,
+      "IN-NN": 2,
+      "NN-VBP": 1,
+      "VBP-CD": 1,
+      "CD-NN": 2,
+      "IN-NNS": 1,
+      "VBP-NNS": 1,
+      "NNS-IN": 1,
+      "FW-CD": 2,
+      "CD-NNS": 1,
+      "IN-CD": 1,
+      "CD-JJ": 1,
+      "JJ-NNPS": 1,
+      "NNPS-NNS": 1,
+      "NNS-NNS": 1,
+      "JJ-NNS": 2,
+      "NNS-RB": 1,
+      "RB-FW": 1
+    },
+    "trigram_freq": {
+      "NNP-NN-NN": 5,
+      "NN-NN-NN": 22,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 1,
+      "JJ-NN-NN": 7,
+      "NN-NN-FW": 4,
+      "NN-FW-NN": 2,
+      "FW-NN-NN": 3,
+      "NN-NN-JJ": 6,
+      "NN-JJ-NN": 6,
+      "JJ-NN-NNP": 2,
+      "NN-NNP-VBZ": 3,
+      "NNP-VBZ-NNP": 1,
+      "VBZ-NNP-NNP": 1,
+      "NNP-NNP-JJ": 2,
+      "NNP-JJ-NN": 3,
+      "NN-NN-IN": 4,
+      "NN-IN-FW": 8,
+      "IN-FW-JJ": 1,
+      "FW-JJ-NN": 2,
+      "JJ-NN-NNS": 3,
+      "NN-NNS-VBP": 5,
+      "NNS-VBP-JJ": 8,
+      "VBP-JJ-JJ": 2,
+      "JJ-JJ-NN": 5,
+      "NNP-VBZ-RB": 1,
+      "VBZ-RB-JJ": 1,
+      "RB-JJ-FW": 1,
+      "JJ-FW-NN": 1,
+      "FW-NN-NNS": 2,
+      "VBP-JJ-NN": 4,
+      "VBP-JJ-FW": 2,
+      "JJ-FW-FW": 4,
+      "FW-FW-NNP": 5,
+      "FW-NNP-FW": 3,
+      "NNP-FW-NNP": 1,
+      "FW-NNP-NNP": 2,
+      "NNP-NNP-VBP": 1,
+      "NNP-VBP-NN": 1,
+      "VBP-NN-NNP": 1,
+      "NN-NNP-NNP": 1,
+      "NNP-NNP-NNP": 1,
+      "NNP-JJ-FW": 1,
+      "JJ-FW-NNP": 1,
+      "NNP-NNP-NN": 1,
+      "NN-FW-FW": 2,
+      "FW-FW-NNS": 2,
+      "FW-NNS-VBP": 2,
+      "JJ-NN-IN": 8,
+      "NN-IN-JJ": 1,
+      "IN-JJ-NN": 1,
+      "NN-NNS-JJ": 1,
+      "NNS-JJ-JJ": 2,
+      "IN-FW-FW": 5,
+      "FW-FW-FW": 12,
+      "NNP-FW-NN": 2,
+      "JJ-NN-JJ": 2,
+      "NN-JJ-NNP": 1,
+      "JJ-NNP-MD": 1,
+      "NNP-MD-VB": 1,
+      "MD-VB-JJ": 1,
+      "VB-JJ-FW": 1,
+      "FW-FW-NN": 2,
+      "FW-NN-IN": 1,
+      "NN-IN-NNP": 1,
+      "IN-NNP-JJ": 1,
+      "FW-NNP-NN": 2,
+      "NN-NN-NNS": 2,
+      "NN-NNS-NNP": 1,
+      "NNS-NNP-NN": 1,
+      "NN-IN-NN": 1,
+      "IN-NN-FW": 1,
+      "NN-FW-JJ": 1,
+      "IN-FW-NN": 2,
+      "FW-NN-NNP": 1,
+      "NNP-VBZ-JJ": 1,
+      "VBZ-JJ-FW": 1,
+      "FW-NN-VBP": 1,
+      "NN-VBP-CD": 1,
+      "VBP-CD-NN": 1,
+      "CD-NN-NN": 2,
+      "NN-IN-NNS": 1,
+      "IN-NNS-VBP": 1,
+      "NNS-VBP-NNS": 1,
+      "VBP-NNS-IN": 1,
+      "NNS-IN-NN": 1,
+      "IN-NN-NN": 1,
+      "NN-NN-NNP": 1,
+      "NN-NNP-JJ": 1,
+      "FW-FW-CD": 2,
+      "FW-CD-NN": 1,
+      "NN-JJ-JJ": 1,
+      "FW-CD-NNS": 1,
+      "CD-NNS-JJ": 1,
+      "NN-IN-CD": 1,
+      "IN-CD-JJ": 1,
+      "CD-JJ-NNPS": 1,
+      "JJ-NNPS-NNS": 1,
+      "NNPS-NNS-NNS": 1,
+      "NNS-NNS-JJ": 1,
+      "NNS-JJ-NNS": 1,
+      "JJ-NNS-RB": 1,
+      "NNS-RB-FW": 1,
+      "RB-FW-JJ": 1,
+      "FW-JJ-NNS": 1,
+      "JJ-NNS-VBP": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 81,
+        "FW": 46,
+        "JJ": 37,
+        "NNP": 22,
+        "NNS": 16
+      },
+      "top_bigrams": {
+        "NN-NN": 40,
+        "FW-FW": 23,
+        "JJ-NN": 22,
+        "NN-IN": 13,
+        "FW-NN": 9
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 22,
+        "FW-FW-FW": 12,
+        "NN-IN-FW": 8,
+        "NNS-VBP-JJ": 8,
+        "JJ-NN-IN": 8
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 8,
+    "chunk_counts": {
+      "NP": 68,
+      "VP": 18,
+      "ADJP": 4,
+      "PP": 5
+    },
+    "top_rules": [
+      {
+        "rule": "NP -> ('Gaza', 'NNP')",
+        "frequency": 3,
+        "weight": 0.0291
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 3,
+        "weight": 0.0291
+      },
+      {
+        "rule": "NP -> ('jueves', 'NNS')",
+        "frequency": 2,
+        "weight": 0.0194
+      },
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0194
+      },
+      {
+        "rule": "S -> NP VP (',', ',') NP NP VP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0097
+      },
+      {
+        "rule": "NP -> ('Los', 'NNP') ('bombardeos', 'NN') ('impactaron', 'NN') ('sobre', 'NN') ('campamentos', 'NN')",
+        "frequency": 1,
+        "weight": 0.0097
+      },
+      {
+        "rule": "VP -> ('civiles', 'VBZ') ('y', 'RB') NP",
+        "frequency": 1,
+        "weight": 0.0097
+      },
+      {
+        "rule": "NP -> ('un', 'JJ') ('refugio', 'NN') ('para', 'NN') ('familias', 'NN') ('desplazadas', 'NN')",
+        "frequency": 1,
+        "weight": 0.0097
+      },
+      {
+        "rule": "NP -> ('exacerbando', 'JJ') ('la', 'NN') ('crisis', 'NN') ('humanitaria', 'NN') ('que', 'NN')",
+        "frequency": 1,
+        "weight": 0.0097
+      },
+      {
+        "rule": "NP -> ('vive', 'JJ') ('la', 'NN') ('ya', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0097
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Los bombardeos impactaron sobre campamentos"
+      },
+      {
+        "label": "VP",
+        "text": "civiles y un refugio para familias desplazadas"
+      },
+      {
+        "label": "NP",
+        "text": "un refugio para familias desplazadas"
+      },
+      {
+        "label": "NP",
+        "text": "exacerbando la crisis humanitaria que"
+      },
+      {
+        "label": "NP",
+        "text": "vive la ya"
+      },
+      {
+        "label": "VP",
+        "text": "asediada Palestina"
+      },
+      {
+        "label": "NP",
+        "text": "Palestina"
+      },
+      {
+        "label": "NP",
+        "text": "En"
+      },
+      {
+        "label": "NP",
+        "text": "una nueva jornada"
+      },
+      {
+        "label": "NP",
+        "text": "sionista"
+      },
+      {
+        "label": "NP",
+        "text": "cuatro palestinos"
+      },
+      {
+        "label": "NP",
+        "text": "un niño"
+      },
+      {
+        "label": "NP",
+        "text": "Israel"
+      },
+      {
+        "label": "VP",
+        "text": "les arrebató la"
+      },
+      {
+        "label": "NP",
+        "text": "y"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Los/NNP bombardeos/NN impactaron/NN sobre/NN campamentos/NN)\n  (VP\n    civiles/VBZ\n    y/RB\n    (NP un/JJ refugio/NN para/NN familias/NN desplazadas/NN))\n  ,/,\n  (NP exacerbando/JJ la/NN crisis/NN humanitaria/NN que/NN)\n  (NP vive/JJ la/NN ya/NNP)\n  (VP asediada/VBZ (NP Palestina/NNP))\n  ./.)",
+      "(S\n  (NP En/NNP)\n  (NP una/JJ nueva/NN jornada/NN)\n  de/IN\n  violencia/FW\n  (NP sionista/NN)\n  ,/,\n  (NP cuatro/JJ palestinos/NN)\n  ,/,\n  entre/FW\n  ellos/FW\n  (NP un/JJ niño/NN)\n  ,/,\n  (NP Israel/NNP)\n  (VP les/VBZ arrebató/RB la/JJ)\n  vida/FW\n  (NP y/NN)\n  (VP dejó/VBZ (NP a/DT varios/JJ más/NN heridos/NN durante/NN))\n  la/FW\n  noche/FW\n  del/FW\n  (NP jueves/NNS)\n  (VP noche/VBP)\n  (VP debido/VB (NP a/DT los/NN))\n  (VP ataques/VBZ aéreos/JJ)\n  lanzados/FW\n  en/FW\n  la/FW\n  (NP Franja/NNP)\n  de/FW\n  (NP Gaza/NNP)\n  ./.)",
+      "(S\n  (NP Fuentes/NNS)\n  (VP médicas/VBP (NP del/JJ Complejo/NNP Médico/NNP Nasser/NNP))\n  ,/,\n  (ADJP ubicado/JJ)\n  en/FW\n  (NP Khan/NNP Younis/NNP)\n  ,/,\n  (NP confirmaron/NN)\n  la/FW\n  llegada/FW\n  de/FW\n  (NP tres/NNS)\n  (VP cuerpos/VBP)\n  ,/,\n  (ADJP entre/JJ)\n  ellos/FW\n  el/FW\n  de/FW\n  un/FW\n  (NP menor/NN)\n  ,/,\n  tras/EX\n  (NP un/JJ ataque/NN que/NN tuvo/NN lugar/NN)\n  en/IN\n  la/FW\n  ciudad/FW\n  de/FW\n  (NP Abasan/NNP)\n  ,/,\n  (NP donde/NN se/NN celebraba/NN)\n  (NP una/JJ reunión/NN)\n  (ADJP civil/JJ)\n  ./.)",
+      "(S\n  (NP Además/NNP)\n  ,/,\n  (NP otro/JJ ataque/NN aéreo/NN)\n  en/IN\n  el/FW\n  (NP barrio/NN)\n  (PP de/IN (NP Zaytoun/NNP))\n  ,/,\n  (NP al/JJ este/NN)\n  de/IN\n  la/FW\n  ciudad/FW\n  de/FW\n  (NP Gaza/NNP)\n  ,/,\n  (NP resultó/NN)\n  en/FW\n  la/FW\n  muerte/FW\n  de/FW\n  un/FW\n  (NP hombre/NN e/NN)\n  (VP hirió/VBD (NP a/DT varias/JJ personas/NN))\n  ./.)",
+      "(S\n  (NP Los/NNP bombardeos/NN israelíes/NN también/NN afectaron/NN)\n  (NP un/JJ refugio/NN)\n  en/IN\n  el/FW\n  campo/FW\n  de/FW\n  refugiados/FW\n  de/FW\n  (NP Nuseirat/NNP)\n  ,/,\n  (NP causando/NN aún/NN más/NN heridos/NN)\n  (PP en/IN (NP medio/NN))\n  de/FW\n  (NP una/JJ situación/NN)\n  de/IN\n  sobrecarga/FW\n  (NP humanitaria/NNS)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "CANTIDADES_NUMERICAS",
+      "TIEMPO_RELATIVO",
+      "CRISIS_HUMANITARIA_SERVICIOS",
+      "PERIODOS_TEMPORALES",
+      "LOCALIZACIONES_ESPECIFICAS",
+      "PAISES",
+      "CONFLICTOS_ARMADOS_OPERACIONES"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "ataque que tuvo lugar en la ciudad de abasan, donde se celebraba una reunión civil. además, otro ataque aéreo",
+        "position": [
+          538,
+          647
+        ],
+        "start": 538,
+        "end": 647
+      },
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "bombardeos israelíes",
+        "position": [
+          768,
+          788
+        ],
+        "start": 768,
+        "end": 788
+      },
+      {
+        "category": "CRISIS_HUMANITARIA_SERVICIOS",
+        "matched_text": "crisis humanitaria que vive la ya asediada palestina",
+        "position": [
+          107,
+          159
+        ],
+        "start": 107,
+        "end": 159
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "palestina",
+        "position": [
+          150,
+          159
+        ],
+        "start": 150,
+        "end": 159
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "barrio de",
+        "position": [
+          654,
+          663
+        ],
+        "start": 654,
+        "end": 663
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "complejo médico",
+        "position": [
+          414,
+          429
+        ],
+        "start": 414,
+        "end": 429
+      },
+      {
+        "category": "PERIODOS_TEMPORALES",
+        "matched_text": "durante la noche",
+        "position": [
+          301,
+          317
+        ],
+        "start": 301,
+        "end": 317
+      },
+      {
+        "category": "TIEMPO_RELATIVO",
+        "matched_text": "mañana",
+        "position": [
+          966,
+          972
+        ],
+        "start": 966,
+        "end": 972
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "más de 40",
+        "position": [
+          1257,
+          1266
+        ],
+        "start": 1257,
+        "end": 1266
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "más de 93",
+        "position": [
+          1305,
+          1314
+        ],
+        "start": 1305,
+        "end": 1314
+      }
+    ],
+    "match_count": 10
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Franja de Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Zaytoun",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Abasan",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Khan Younis",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Organizaciones humanitarias temen que miles de víctimas",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Israel",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Complejo Médico Nasser",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Nuseirat",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Palestina",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Gaza",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Israel",
+        "relacion": "ARREBATAR",
+        "objeto": "Franja de Gaza"
+      },
+      {
+        "sujeto": "Complejo Médico Nasser",
+        "relacion": "CONFIRMAR",
+        "objeto": "Abasan"
+      },
+      {
+        "sujeto": "Khan Younis",
+        "relacion": "CONFIRMAR",
+        "objeto": "Abasan"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.0772,
+    "pos": 0.02,
+    "neu": 0.964,
+    "neg": 0.017,
+    "label": "negative"
+  }
+}

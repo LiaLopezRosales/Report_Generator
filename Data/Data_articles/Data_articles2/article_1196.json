@@ -1,0 +1,698 @@
+{
+  "url": "https://www.telesurtv.net/mst-organiza-tomas-protesta-contra-reforma/",
+  "title": "MST organiza tomas a favor de una reforma agraria que luche contra el hambre - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "Abril Rojo",
+    "Brasil",
+    "MST",
+    "Protesta",
+    "Rechazo",
+    "Reforma Agraria"
+  ],
+  "text": "El propósito de Abril Rojo, la convocatoria anual del Movimiento de los Trabajadores Sin Tierra (MST), es presionar al Gobierno federal -cuyas políticas de reforma agraria son vistas como “menos que” lo imprescindible– y afirmar en el debate público que el modelo que se opone al agronegocio es el que puede, en realidad, proporcionar alimentos a la población. El lema de este año es “Ocupar para alimentar a Brasil”.\nEn este contexto, se anticipan ocupaciones de fincas,  junto a manifestaciones, así como distribución de alimentos y arengas en el lugar de origen del Instituto Nacional de Colonización y Reforma Agraria (Incra) en todas las regiones del país.\nSe tiene previsto que para el 17 de abril se lleven a cabo la mayor parte de las actividades, con motivo de conmemorarse el 29 aniversario de la Masacre de Eldorado do Carajás. Desde que en 1996, una marcha en Pará fue reprimida por la policía, resultando en 21 agricultores muertos y otros 69 mutilados, este día se estableció como el Día Internacional de Lucha por la Reforma Agraria.\n\n\nSegún Margarida Maria da Silva, miembro de la coordinación nacional del MST, es momento de ejercer presión para que se recomponga el presupuesto federal de la reforma agraria, con el fin de saldar esa deuda con el país.\n“La reforma agraria es un instrumento importante en la lucha contra el hambre, la desigualdad social y la crisis climática , pero también puede contribuir a reducir los precios de los alimentos”, señaló la líder sin tierra brasileña. Además señala que “a partir de esta jornada de lucha se puedan lograr victorias para nuestro pueblo”, indicó.\n",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/mst-organiza-tomas-protesta-contra-reforma/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-04.json",
+    "message_index": 1839,
+    "message_id": 90972,
+    "date": "2025-04-03T22:55:07+00:00",
+    "text": "teleSUR\nMST organiza tomas en protesta contra la reforma agraria\nhttps://www.telesurtv.net/mst-organiza-tomas-protesta-contra-reforma/",
+    "photo_path": null,
+    "views": 1637,
+    "reactions": {
+      "👍": 25,
+      "🔥": 1
+    },
+    "total_reactions": 26
+  },
+  "preprocessing": {
+    "cleaned": "el propósito de abril rojo, la convocatoria anual del movimiento de los trabajadores sin tierra (mst), es presionar al gobierno federal -cuyas políticas de reforma agraria son vistas como “menos que” lo imprescindible– y afirmar en el debate público que el modelo que se opone al agronegocio es el que puede, en realidad, proporcionar alimentos a la población. el lema de este año es “ocupar para alimentar a brasil”. en este contexto, se anticipan ocupaciones de fincas, junto a manifestaciones, así como distribución de alimentos y arengas en el lugar de origen del instituto nacional de colonización y reforma agraria (incra) en todas las regiones del país. se tiene previsto que para el 17 de abril se lleven a cabo la mayor parte de las actividades, con motivo de conmemorarse el 29 aniversario de la masacre de eldorado do carajás. desde que en 1996, una marcha en pará fue reprimida por la policía, resultando en 21 agricultores muertos y otros 69 mutilados, este día se estableció como el día internacional de lucha por la reforma agraria. según margarida maria da silva, miembro de la coordinación nacional del mst, es momento de ejercer presión para que se recomponga el presupuesto federal de la reforma agraria, con el fin de saldar esa deuda con el país. “la reforma agraria es un instrumento importante en la lucha contra el hambre, la desigualdad social y la crisis climática , pero también puede contribuir a reducir los precios de los alimentos”, señaló la líder sin tierra brasileña. además señala que “a partir de esta jornada de lucha se puedan lograr victorias para nuestro pueblo”, indicó.",
+    "tokens": [
+      "propósito",
+      "abril",
+      "rojo",
+      ",",
+      "convocatoria",
+      "anual",
+      "movimiento",
+      "trabajadores",
+      "tierra",
+      "(",
+      "mst",
+      ")",
+      ",",
+      "presionar",
+      "gobierno",
+      "federal",
+      "-cuyas",
+      "políticas",
+      "reforma",
+      "agraria",
+      "vistas",
+      "“",
+      "menos",
+      "”",
+      "imprescindible–",
+      "afirmar",
+      "debate",
+      "público",
+      "modelo",
+      "opone",
+      "agronegocio",
+      "puede",
+      ",",
+      "realidad",
+      ",",
+      "proporcionar",
+      "alimentos",
+      "población",
+      ".",
+      "lema",
+      "año",
+      "“",
+      "ocupar",
+      "alimentar",
+      "brasil",
+      "”",
+      ".",
+      "contexto",
+      ",",
+      "anticipan",
+      "ocupaciones",
+      "fincas",
+      ",",
+      "junto",
+      "manifestaciones",
+      ",",
+      "así",
+      "distribución",
+      "alimentos",
+      "arengas",
+      "lugar",
+      "origen",
+      "instituto",
+      "nacional",
+      "colonización",
+      "reforma",
+      "agraria",
+      "(",
+      "incra",
+      ")",
+      "todas",
+      "regiones",
+      "país",
+      ".",
+      "previsto",
+      "17",
+      "abril",
+      "lleven",
+      "cabo",
+      "mayor",
+      "parte",
+      "actividades",
+      ",",
+      "motivo",
+      "conmemorarse",
+      "29",
+      "aniversario",
+      "masacre",
+      "eldorado",
+      "do",
+      "carajás",
+      ".",
+      "1996",
+      ",",
+      "marcha",
+      "pará",
+      "reprimida",
+      "policía",
+      ",",
+      "resultando",
+      "21",
+      "agricultores",
+      "muertos",
+      "69",
+      "mutilados",
+      ",",
+      "día",
+      "estableció",
+      "día",
+      "internacional",
+      "lucha",
+      "reforma",
+      "agraria",
+      ".",
+      "según",
+      "margarida",
+      "maria",
+      "da",
+      "silva",
+      ",",
+      "miembro",
+      "coordinación",
+      "nacional",
+      "mst",
+      ",",
+      "momento",
+      "ejercer",
+      "presión",
+      "recomponga",
+      "presupuesto",
+      "federal",
+      "reforma",
+      "agraria",
+      ",",
+      "fin",
+      "saldar",
+      "deuda",
+      "país",
+      ".",
+      "“",
+      "reforma",
+      "agraria",
+      "instrumento",
+      "importante",
+      "lucha",
+      "hambre",
+      ",",
+      "desigualdad",
+      "social",
+      "crisis",
+      "climática",
+      ",",
+      "puede",
+      "contribuir",
+      "reducir",
+      "precios",
+      "alimentos",
+      "”",
+      ",",
+      "señaló",
+      "líder",
+      "tierra",
+      "brasileña",
+      ".",
+      "además",
+      "señala",
+      "“",
+      "partir",
+      "jornada",
+      "lucha",
+      "puedan",
+      "lograr",
+      "victorias",
+      "pueblo",
+      "”",
+      ",",
+      "indicó",
+      "."
+    ],
+    "token_count": 178,
+    "sentence_count": 8
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 38,
+      "NN": 88,
+      "IN": 14,
+      "FW": 71,
+      "VBP": 7,
+      "JJ": 18,
+      "VBZ": 2,
+      "NNS": 11,
+      "VBD": 2,
+      "CD": 6,
+      "RB": 1
+    },
+    "bigram_freq": {
+      "NNP-NN": 11,
+      "NN-IN": 9,
+      "IN-NNP": 3,
+      "NNP-NNP": 15,
+      "NNP-FW": 7,
+      "FW-VBP": 1,
+      "VBP-JJ": 4,
+      "JJ-NN": 10,
+      "NN-NNP": 8,
+      "NNP-IN": 1,
+      "IN-FW": 8,
+      "FW-NNP": 9,
+      "NNP-VBZ": 2,
+      "VBZ-JJ": 1,
+      "JJ-IN": 1,
+      "NNP-JJ": 1,
+      "JJ-NNP": 1,
+      "NN-FW": 11,
+      "FW-FW": 41,
+      "FW-NNS": 3,
+      "NNS-NN": 2,
+      "NN-NNS": 3,
+      "NNS-VBP": 5,
+      "NN-NN": 50,
+      "IN-JJ": 1,
+      "NN-VBD": 2,
+      "VBD-CD": 2,
+      "CD-NN": 2,
+      "IN-NN": 1,
+      "NN-JJ": 3,
+      "JJ-NNS": 2,
+      "NNS-IN": 2,
+      "FW-NN": 12,
+      "NNS-FW": 1,
+      "CD-IN": 1,
+      "VBP-FW": 1,
+      "FW-CD": 1,
+      "NNP-VBP": 1,
+      "VBP-NNP": 1,
+      "NN-CD": 1,
+      "CD-JJ": 1,
+      "IN-CD": 1,
+      "CD-NNS": 2,
+      "VBP-RB": 1,
+      "RB-CD": 1,
+      "FW-JJ": 4,
+      "JJ-JJ": 2,
+      "JJ-FW": 2,
+      "VBZ-NNS": 1,
+      "NNS-JJ": 1
+    },
+    "trigram_freq": {
+      "NNP-NN-IN": 1,
+      "NN-IN-NNP": 2,
+      "IN-NNP-NNP": 1,
+      "NNP-NNP-FW": 4,
+      "NNP-FW-VBP": 1,
+      "FW-VBP-JJ": 1,
+      "VBP-JJ-NN": 4,
+      "JJ-NN-NNP": 2,
+      "NN-NNP-IN": 1,
+      "NNP-IN-FW": 1,
+      "IN-FW-NNP": 2,
+      "FW-NNP-NNP": 3,
+      "NNP-NNP-NNP": 7,
+      "NNP-NNP-VBZ": 1,
+      "NNP-VBZ-JJ": 1,
+      "VBZ-JJ-IN": 1,
+      "JJ-IN-NNP": 1,
+      "IN-NNP-JJ": 1,
+      "NNP-JJ-NNP": 1,
+      "JJ-NNP-NN": 1,
+      "NNP-NN-FW": 1,
+      "NN-FW-FW": 6,
+      "FW-FW-NNS": 3,
+      "FW-NNS-NN": 1,
+      "NNS-NN-NNS": 1,
+      "NN-NNS-VBP": 2,
+      "NNS-VBP-JJ": 3,
+      "JJ-NN-NN": 5,
+      "NN-NN-NN": 29,
+      "NN-NN-IN": 3,
+      "NN-IN-JJ": 1,
+      "IN-JJ-NN": 1,
+      "NN-NN-VBD": 2,
+      "NN-VBD-CD": 2,
+      "VBD-CD-NN": 1,
+      "CD-NN-NN": 1,
+      "NN-IN-NN": 1,
+      "IN-NN-NN": 1,
+      "NN-NN-FW": 6,
+      "NN-FW-NNP": 1,
+      "FW-NNP-FW": 2,
+      "NNP-FW-FW": 2,
+      "FW-FW-FW": 27,
+      "FW-FW-NNP": 3,
+      "FW-NNP-NN": 3,
+      "NNP-NN-NN": 8,
+      "NN-NN-NNP": 4,
+      "NN-NNP-NNP": 3,
+      "NNP-NNP-NN": 3,
+      "NN-NN-JJ": 3,
+      "NN-JJ-NNS": 2,
+      "JJ-NNS-IN": 2,
+      "NNS-IN-FW": 2,
+      "IN-FW-NN": 2,
+      "FW-NN-NNS": 1,
+      "JJ-NN-IN": 3,
+      "NN-IN-FW": 4,
+      "FW-NN-FW": 4,
+      "NNP-FW-NNP": 3,
+      "NNP-FW-NN": 1,
+      "FW-NN-NN": 5,
+      "NN-NN-NNS": 1,
+      "NN-NNS-FW": 1,
+      "NNS-FW-FW": 1,
+      "VBD-CD-IN": 1,
+      "CD-IN-FW": 1,
+      "IN-FW-FW": 3,
+      "FW-FW-NN": 4,
+      "FW-NNS-VBP": 2,
+      "NNS-VBP-FW": 1,
+      "VBP-FW-FW": 1,
+      "FW-FW-CD": 1,
+      "FW-CD-NN": 1,
+      "CD-NN-IN": 1,
+      "FW-NNP-VBP": 1,
+      "NNP-VBP-NNP": 1,
+      "VBP-NNP-NNP": 1,
+      "NN-NN-CD": 1,
+      "NN-CD-JJ": 1,
+      "CD-JJ-NN": 1,
+      "IN-NNP-NN": 1,
+      "NN-FW-NN": 4,
+      "FW-NN-IN": 1,
+      "NN-IN-CD": 1,
+      "IN-CD-NNS": 1,
+      "CD-NNS-VBP": 1,
+      "NNS-VBP-RB": 1,
+      "VBP-RB-CD": 1,
+      "RB-CD-NNS": 1,
+      "CD-NNS-NN": 1,
+      "NNS-NN-NN": 1,
+      "NNP-NN-NNP": 1,
+      "NN-NNP-FW": 1,
+      "FW-FW-JJ": 3,
+      "FW-JJ-NN": 3,
+      "NN-NNP-NN": 2,
+      "NN-JJ-JJ": 1,
+      "JJ-JJ-FW": 1,
+      "JJ-FW-FW": 1,
+      "FW-NN-NNP": 1,
+      "NN-NNP-VBZ": 1,
+      "NNP-VBZ-NNS": 1,
+      "VBZ-NNS-JJ": 1,
+      "NNS-JJ-JJ": 1,
+      "JJ-JJ-NN": 1,
+      "FW-JJ-FW": 1,
+      "JJ-FW-NN": 1,
+      "IN-FW-JJ": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 88,
+        "FW": 71,
+        "NNP": 38,
+        "JJ": 18,
+        "IN": 14
+      },
+      "top_bigrams": {
+        "NN-NN": 50,
+        "FW-FW": 41,
+        "NNP-NNP": 15,
+        "FW-NN": 12,
+        "NNP-NN": 11
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 29,
+        "FW-FW-FW": 27,
+        "NNP-NN-NN": 8,
+        "NNP-NNP-NNP": 7,
+        "NN-FW-FW": 6
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 8,
+    "chunk_counts": {
+      "NP": 66,
+      "PP": 5,
+      "VP": 11,
+      "ADJP": 3
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 3,
+        "weight": 0.0323
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0215
+      },
+      {
+        "rule": "S -> NP PP (',', ',') ('la', 'FW') ('convocatoria', 'FW') NP ('de', 'IN') ('los', 'FW') NP ('(', '(') NP (')', ')') (',', ',') NP NP ('de', 'FW') ('reforma', 'FW') NP VP VP PP VP ('opone', 'CD') NP (',', ',') ('en', 'FW') NP (',', ',') NP VP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0108
+      },
+      {
+        "rule": "NP -> ('El', 'NNP') ('propósito', 'NN')",
+        "frequency": 1,
+        "weight": 0.0108
+      },
+      {
+        "rule": "NP -> ('Abril', 'NNP') ('Rojo', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0108
+      },
+      {
+        "rule": "NP -> ('anual', 'JJ') ('del', 'NN') ('Movimiento', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0108
+      },
+      {
+        "rule": "NP -> ('Trabajadores', 'NNP') ('Sin', 'NNP') ('Tierra', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0108
+      },
+      {
+        "rule": "NP -> ('MST', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0108
+      },
+      {
+        "rule": "NP -> ('es', 'JJ') ('presionar', 'NN') ('al', 'NN') ('Gobierno', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0108
+      },
+      {
+        "rule": "NP -> ('federal', 'JJ') ('-cuyas', 'NNP') ('políticas', 'NN')",
+        "frequency": 1,
+        "weight": 0.0108
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El propósito"
+      },
+      {
+        "label": "PP",
+        "text": "de Abril Rojo"
+      },
+      {
+        "label": "NP",
+        "text": "Abril Rojo"
+      },
+      {
+        "label": "NP",
+        "text": "anual del Movimiento"
+      },
+      {
+        "label": "NP",
+        "text": "Trabajadores Sin Tierra"
+      },
+      {
+        "label": "NP",
+        "text": "MST"
+      },
+      {
+        "label": "NP",
+        "text": "es presionar al Gobierno"
+      },
+      {
+        "label": "NP",
+        "text": "federal -cuyas políticas"
+      },
+      {
+        "label": "NP",
+        "text": "agraria son vistas"
+      },
+      {
+        "label": "VP",
+        "text": "como “ menos"
+      },
+      {
+        "label": "NP",
+        "text": "“ menos"
+      },
+      {
+        "label": "VP",
+        "text": "que ” lo imprescindible– y afirmar"
+      },
+      {
+        "label": "NP",
+        "text": "” lo imprescindible– y afirmar"
+      },
+      {
+        "label": "PP",
+        "text": "en el debate público que el modelo que"
+      },
+      {
+        "label": "NP",
+        "text": "el debate público que el modelo que"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP El/NNP propósito/NN)\n  (PP de/IN (NP Abril/NNP Rojo/NNP))\n  ,/,\n  la/FW\n  convocatoria/FW\n  (NP anual/JJ del/NN Movimiento/NNP)\n  de/IN\n  los/FW\n  (NP Trabajadores/NNP Sin/NNP Tierra/NNP)\n  (/(\n  (NP MST/NNP)\n  )/)\n  ,/,\n  (NP es/JJ presionar/NN al/NN Gobierno/NNP)\n  (NP federal/JJ -cuyas/NNP políticas/NN)\n  de/FW\n  reforma/FW\n  (NP agraria/NNS son/NN vistas/NNS)\n  (VP como/VBP (NP “/JJ menos/NNS))\n  (VP que/VBP (NP ”/JJ lo/NN imprescindible–/NN y/NN afirmar/NN))\n  (PP\n    en/IN\n    (NP el/JJ debate/NN público/NN que/NN el/NN modelo/NN que/NN))\n  (VP se/VBD)\n  opone/CD\n  (NP al/NN agronegocio/NN es/NN el/NN que/NN puede/NN)\n  ,/,\n  en/FW\n  (NP realidad/NN)\n  ,/,\n  (NP proporcionar/NN)\n  (VP alimentos/VBD (NP a/DT la/NN población/NN))\n  ./.)",
+      "(S\n  (NP El/NNP lema/NN)\n  de/FW\n  este/FW\n  año/FW\n  es/FW\n  “/FW\n  (NP Ocupar/NNP para/NN alimentar/NN)\n  (NP a/DT Brasil/NNP ”/NN)\n  ./.)",
+      "(S\n  (NP En/NNP este/NN contexto/NN)\n  ,/,\n  se/FW\n  (NP anticipan/JJ ocupaciones/NNS)\n  (PP de/IN (NP fincas/NN))\n  ,/,\n  (VP junto/VBZ (NP a/DT manifestaciones/NNS))\n  ,/,\n  (NP así/JJ como/NN distribución/NN)\n  de/IN\n  alimentos/FW\n  y/FW\n  arengas/FW\n  en/FW\n  el/FW\n  lugar/FW\n  de/FW\n  origen/FW\n  del/FW\n  (NP Instituto/NNP Nacional/NNP)\n  de/FW\n  (NP Colonización/NNP)\n  y/CC\n  (NP Reforma/NNP Agraria/NNP)\n  (/(\n  (NP Incra/NNP)\n  )/)\n  en/FW\n  todas/FW\n  las/FW\n  (NP regiones/NNS)\n  del/FW\n  (NP país/NN)\n  ./.)",
+      "(S\n  (NP Se/NNP tiene/NN previsto/NN que/NN para/NN)\n  (VP el/VBD)\n  17/CD\n  de/IN\n  abril/FW\n  se/FW\n  lleven/FW\n  (NP a/DT cabo/NN la/NN mayor/NN parte/NN)\n  de/IN\n  las/FW\n  (NP actividades/NNS)\n  ,/,\n  (NP con/NN motivo/NN)\n  (PP de/IN (NP conmemorarse/NN el/NN))\n  29/CD\n  (NP aniversario/NN)\n  de/IN\n  la/FW\n  (NP Masacre/NNP)\n  de/FW\n  (NP Eldorado/NNP)\n  (VP do/VBP (NP Carajás/NNP))\n  ./.)",
+      "(S\n  (NP Desde/NNP que/NN en/NN)\n  1996/CD\n  ,/,\n  (NP una/JJ marcha/NN)\n  (PP\n    en/IN\n    (NP Pará/NNP fue/NN reprimida/NN por/NN la/NN policía/NN))\n  ,/,\n  (NP resultando/NN)\n  (VP en/VBD)\n  21/CD\n  (NP agricultores/NNS)\n  (ADJP muertos/JJ)\n  y/RB\n  (VP otros/VBP)\n  69/CD\n  (NP mutilados/NNS)\n  ,/,\n  (NP\n    este/NN\n    día/NN\n    se/NN\n    estableció/NN\n    como/NN\n    el/NN\n    Día/NNP\n    Internacional/NNP)\n  de/FW\n  (NP Lucha/NNP por/NN la/NN Reforma/NNP Agraria/NNP)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "CULTURA_DEPORTE_SOCIEDAD",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "CRISIS_HUMANITARIA_SERVICIOS",
+      "INSTITUCIONES_EDUCATIVAS",
+      "PAISES",
+      "PROTESTAS_CONFLICTOS_SOCIALES",
+      "ECONOMIA_COMERCIO_FINANZAS"
+    ],
+    "matches": [
+      {
+        "category": "PROTESTAS_CONFLICTOS_SOCIALES",
+        "matched_text": "marcha en pará fue reprimida por la policía, resultando en 21 agricultores muertos y otros 69 mutilados, este día se estableció como el día internacional de lucha por la reforma",
+        "position": [
+          862,
+          1039
+        ],
+        "start": 862,
+        "end": 1039
+      },
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "precios",
+        "position": [
+          1440,
+          1447
+        ],
+        "start": 1440,
+        "end": 1447
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "señaló",
+        "position": [
+          1467,
+          1473
+        ],
+        "start": 1467,
+        "end": 1473
+      },
+      {
+        "category": "CRISIS_HUMANITARIA_SERVICIOS",
+        "matched_text": "hambre, la desigualdad social y la crisis climática , pero también puede contribuir a reducir los precios de los alimentos",
+        "position": [
+          1342,
+          1464
+        ],
+        "start": 1342,
+        "end": 1464
+      },
+      {
+        "category": "CRISIS_HUMANITARIA_SERVICIOS",
+        "matched_text": "crisis climática",
+        "position": [
+          1377,
+          1393
+        ],
+        "start": 1377,
+        "end": 1393
+      },
+      {
+        "category": "CULTURA_DEPORTE_SOCIEDAD",
+        "matched_text": "lucha contra el hambre, la desigualdad social",
+        "position": [
+          1326,
+          1371
+        ],
+        "start": 1326,
+        "end": 1371
+      },
+      {
+        "category": "INSTITUCIONES_EDUCATIVAS",
+        "matched_text": "instituto nacional de",
+        "position": [
+          569,
+          590
+        ],
+        "start": 569,
+        "end": 590
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "brasil",
+        "position": [
+          409,
+          415
+        ],
+        "start": 409,
+        "end": 415
+      }
+    ],
+    "match_count": 8
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Pará",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Movimiento de los Trabajadores Sin Tierra",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Instituto Nacional de Colonización y Reforma Agraria",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Abril Rojo",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Gobierno federal",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Margarida Maria da Silva",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Brasil",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "MST",
+        "tipo": "Organizacion"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Abril Rojo",
+        "relacion": "SER",
+        "objeto": "Gobierno federal"
+      },
+      {
+        "sujeto": "Movimiento de los Trabajadores Sin Tierra",
+        "relacion": "SER",
+        "objeto": "Gobierno federal"
+      },
+      {
+        "sujeto": "MST",
+        "relacion": "SER",
+        "objeto": "Gobierno federal"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.9062,
+    "pos": 0.0,
+    "neu": 0.958,
+    "neg": 0.042,
+    "label": "negative"
+  }
+}

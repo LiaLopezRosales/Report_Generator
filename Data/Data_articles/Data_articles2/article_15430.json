@@ -1,0 +1,631 @@
+{
+  "url": "https://www.telesurtv.net/invisten-a-normil-rameau-como-director-de-la-policia-nacional-haitiana/",
+  "title": "Invisten a Normil Rameau como director de la Policía Nacional Haitiana - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "bandas criminales",
+    "Consejo Presidencial de Transición",
+    "Haití",
+    "Normil Rameau",
+    "Policía Nacional Haitiana"
+  ],
+  "text": "\nLuego de dedicar un minuto de silencio a las víctimas de la violencia en la nación caribeña, Normil Rameau asumió el cargo de director de la Policía Nacional Haitiana, con la promesa de restablecer el orden y acabar con la crisis de violencia a nivel de bandas en el país.\n\n\nEl acto de investidura, que tuvo lugar en Puerto Príncipe, contó con la presencia del nuevo primer ministro de Haití, Garry Conille, y del presidente del Consejo Presidencial de Transición (CPT), Edgard Leblanc Fils.\n\nDurante su intervención, Normil Rameau se refirió a la trascendencia del apoyo gubernamental para hacer frente a las bandas armadas. Asimismo, insistió en la idea de ayudar al personal policial y a los familiares de los agentes fallecidos en prestación de servicios.\nEn tanto, el presidente del CPT, Edgard Leblanc Fils, aseguró que la toma de posesión llegó en un “momento decisivo” para el país. “El futuro de nuestro país es sombrío. Nuestros jóvenes están desanimados, han perdido la esperanza y abandonan el país”, afirmó. Además, señaló que las bandas ocupan más del 70 por ciento de la capital.\nPrevio a la ceremonia, el primer ministro, Garry Conille, asistió al funeral de tres policías de la Unidad Antipandillas, asesinado por delincuentes el pasado 9 de junio. La despedida se desarrolló en la Academia de Policía.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/invisten-a-normil-rameau-como-director-de-la-policia-nacional-haitiana/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-06.json",
+    "message_index": 304,
+    "message_id": 72439,
+    "date": "2024-06-22T18:55:07+00:00",
+    "text": "teleSUR\nInvisten a Normil Rameau como director de la Policía Nacional Haitiana\nhttps://www.telesurtv.net/invisten-a-normil-rameau-como-director-de-la-policia-nacional-haitiana/",
+    "photo_path": null,
+    "views": 1430,
+    "reactions": {},
+    "total_reactions": 0
+  },
+  "preprocessing": {
+    "cleaned": "luego de dedicar un minuto de silencio a las víctimas de la violencia en la nación caribeña, normil rameau asumió el cargo de director de la policía nacional haitiana, con la promesa de restablecer el orden y acabar con la crisis de violencia a nivel de bandas en el país. el acto de investidura, que tuvo lugar en puerto príncipe, contó con la presencia del nuevo primer ministro de haití, garry conille, y del presidente del consejo presidencial de transición (cpt), edgard leblanc fils. durante su intervención, normil rameau se refirió a la trascendencia del apoyo gubernamental para hacer frente a las bandas armadas. asimismo, insistió en la idea de ayudar al personal policial y a los familiares de los agentes fallecidos en prestación de servicios. en tanto, el presidente del cpt, edgard leblanc fils, aseguró que la toma de posesión llegó en un “momento decisivo” para el país. “el futuro de nuestro país es sombrío. nuestros jóvenes están desanimados, han perdido la esperanza y abandonan el país”, afirmó. además, señaló que las bandas ocupan más del 70 por ciento de la capital. previo a la ceremonia, el primer ministro, garry conille, asistió al funeral de tres policías de la unidad antipandillas, asesinado por delincuentes el pasado 9 de junio. la despedida se desarrolló en la academia de policía.",
+    "tokens": [
+      "luego",
+      "dedicar",
+      "minuto",
+      "silencio",
+      "víctimas",
+      "violencia",
+      "nación",
+      "caribeña",
+      ",",
+      "normil",
+      "rameau",
+      "asumió",
+      "cargo",
+      "director",
+      "policía",
+      "nacional",
+      "haitiana",
+      ",",
+      "promesa",
+      "restablecer",
+      "orden",
+      "acabar",
+      "crisis",
+      "violencia",
+      "nivel",
+      "bandas",
+      "país",
+      ".",
+      "acto",
+      "investidura",
+      ",",
+      "lugar",
+      "puerto",
+      "príncipe",
+      ",",
+      "contó",
+      "presencia",
+      "nuevo",
+      "primer",
+      "ministro",
+      "haití",
+      ",",
+      "garry",
+      "conille",
+      ",",
+      "presidente",
+      "consejo",
+      "presidencial",
+      "transición",
+      "(",
+      "cpt",
+      ")",
+      ",",
+      "edgard",
+      "leblanc",
+      "fils",
+      ".",
+      "intervención",
+      ",",
+      "normil",
+      "rameau",
+      "refirió",
+      "trascendencia",
+      "apoyo",
+      "gubernamental",
+      "hacer",
+      "frente",
+      "bandas",
+      "armadas",
+      ".",
+      "asimismo",
+      ",",
+      "insistió",
+      "idea",
+      "ayudar",
+      "personal",
+      "policial",
+      "familiares",
+      "agentes",
+      "fallecidos",
+      "prestación",
+      "servicios",
+      ".",
+      ",",
+      "presidente",
+      "cpt",
+      ",",
+      "edgard",
+      "leblanc",
+      "fils",
+      ",",
+      "aseguró",
+      "toma",
+      "posesión",
+      "llegó",
+      "“",
+      "momento",
+      "decisivo",
+      "”",
+      "país",
+      ".",
+      "“",
+      "futuro",
+      "país",
+      "sombrío",
+      ".",
+      "jóvenes",
+      "desanimados",
+      ",",
+      "perdido",
+      "esperanza",
+      "abandonan",
+      "país",
+      "”",
+      ",",
+      "afirmó",
+      ".",
+      "además",
+      ",",
+      "señaló",
+      "bandas",
+      "ocupan",
+      "70",
+      "ciento",
+      "capital",
+      ".",
+      "previo",
+      "ceremonia",
+      ",",
+      "primer",
+      "ministro",
+      ",",
+      "garry",
+      "conille",
+      ",",
+      "asistió",
+      "funeral",
+      "tres",
+      "policías",
+      "unidad",
+      "antipandillas",
+      ",",
+      "asesinado",
+      "delincuentes",
+      "pasado",
+      "9",
+      "junio",
+      ".",
+      "despedida",
+      "desarrolló",
+      "academia",
+      "policía",
+      "."
+    ],
+    "token_count": 153,
+    "sentence_count": 10
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 40,
+      "FW": 64,
+      "NN": 61,
+      "JJ": 17,
+      "IN": 11,
+      "VBD": 4,
+      "NNS": 6,
+      "VBP": 3,
+      "CD": 1,
+      "VBZ": 1
+    },
+    "bigram_freq": {
+      "NNP-FW": 6,
+      "FW-NN": 11,
+      "NN-JJ": 1,
+      "JJ-NN": 11,
+      "NN-IN": 9,
+      "IN-FW": 7,
+      "FW-FW": 37,
+      "NN-NNP": 6,
+      "NNP-NNP": 19,
+      "NNP-VBD": 4,
+      "VBD-JJ": 4,
+      "NN-FW": 12,
+      "FW-NNP": 11,
+      "NNP-NN": 9,
+      "NN-NN": 28,
+      "FW-JJ": 3,
+      "IN-NNP": 1,
+      "JJ-NNP": 2,
+      "IN-JJ": 2,
+      "NN-NNS": 3,
+      "NNS-VBP": 3,
+      "VBP-JJ": 3,
+      "JJ-JJ": 3,
+      "NNS-IN": 2,
+      "FW-NNS": 2,
+      "NNP-NNS": 1,
+      "NN-CD": 1,
+      "CD-NN": 1,
+      "JJ-FW": 1,
+      "NNS-FW": 1,
+      "NN-VBZ": 1,
+      "VBZ-JJ": 1,
+      "IN-NN": 1
+    },
+    "trigram_freq": {
+      "NNP-FW-NN": 3,
+      "FW-NN-JJ": 1,
+      "NN-JJ-NN": 1,
+      "JJ-NN-IN": 3,
+      "NN-IN-FW": 6,
+      "IN-FW-FW": 1,
+      "FW-FW-FW": 29,
+      "FW-FW-NN": 3,
+      "FW-NN-NNP": 2,
+      "NN-NNP-NNP": 3,
+      "NNP-NNP-VBD": 4,
+      "NNP-VBD-JJ": 4,
+      "VBD-JJ-NN": 2,
+      "JJ-NN-FW": 1,
+      "NN-FW-NN": 4,
+      "FW-NN-IN": 2,
+      "IN-FW-NNP": 3,
+      "FW-NNP-NNP": 6,
+      "NNP-NNP-NNP": 8,
+      "NNP-NNP-NN": 5,
+      "NNP-NN-NN": 8,
+      "NN-NN-FW": 7,
+      "NN-FW-FW": 5,
+      "FW-FW-JJ": 1,
+      "FW-JJ-NN": 2,
+      "JJ-NN-NN": 6,
+      "FW-NN-FW": 3,
+      "FW-FW-NNP": 4,
+      "FW-NNP-FW": 2,
+      "NNP-FW-FW": 1,
+      "FW-NN-NN": 3,
+      "NN-NN-IN": 4,
+      "NN-IN-NNP": 1,
+      "IN-NNP-NNP": 1,
+      "NN-NN-NN": 10,
+      "NNP-NNP-FW": 2,
+      "NN-FW-NNP": 2,
+      "NNP-FW-NNP": 2,
+      "VBD-JJ-NNP": 1,
+      "JJ-NNP-NNP": 1,
+      "NN-IN-JJ": 1,
+      "IN-JJ-NN": 2,
+      "NN-NN-NNS": 2,
+      "NN-NNS-VBP": 1,
+      "NNS-VBP-JJ": 3,
+      "VBP-JJ-NNP": 1,
+      "JJ-NNP-NN": 1,
+      "IN-FW-JJ": 1,
+      "FW-JJ-JJ": 1,
+      "JJ-JJ-JJ": 1,
+      "JJ-JJ-NN": 1,
+      "JJ-NN-NNS": 1,
+      "NN-NNS-IN": 2,
+      "NNS-IN-FW": 1,
+      "IN-FW-NNS": 1,
+      "FW-NNS-VBP": 1,
+      "VBP-JJ-NN": 2,
+      "FW-NNP-NN": 1,
+      "NN-NN-NNP": 3,
+      "NN-NNP-NN": 2,
+      "NNP-NN-FW": 1,
+      "FW-NNP-NNS": 1,
+      "NNP-NNS-VBP": 1,
+      "NN-FW-JJ": 1,
+      "NNS-IN-JJ": 1,
+      "NN-NN-CD": 1,
+      "NN-CD-NN": 1,
+      "CD-NN-NN": 1,
+      "IN-FW-NN": 1,
+      "VBD-JJ-JJ": 1,
+      "JJ-JJ-FW": 1,
+      "JJ-FW-NNS": 1,
+      "FW-NNS-FW": 1,
+      "NNS-FW-FW": 1,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 1,
+      "NN-IN-NN": 1,
+      "IN-NN-NNP": 1,
+      "NN-NNP-FW": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "FW": 64,
+        "NN": 61,
+        "NNP": 40,
+        "JJ": 17,
+        "IN": 11
+      },
+      "top_bigrams": {
+        "FW-FW": 37,
+        "NN-NN": 28,
+        "NNP-NNP": 19,
+        "NN-FW": 12,
+        "FW-NN": 11
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 29,
+        "NN-NN-NN": 10,
+        "NNP-NNP-NNP": 8,
+        "NNP-NN-NN": 8,
+        "NN-NN-FW": 7
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 10,
+    "chunk_counts": {
+      "NP": 69,
+      "VP": 10,
+      "PP": 5,
+      "ADJP": 2
+    },
+    "top_rules": [
+      {
+        "rule": "NP -> ('Normil', 'NNP') ('Rameau', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0208
+      },
+      {
+        "rule": "NP -> ('Garry', 'NNP') ('Conille', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0208
+      },
+      {
+        "rule": "NP -> ('Edgard', 'NNP') ('Leblanc', 'NNP') ('Fils', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0208
+      },
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0208
+      },
+      {
+        "rule": "S -> NP ('de', 'FW') NP NP ('de', 'FW') ('silencio', 'FW') NP ('de', 'IN') ('la', 'FW') ('violencia', 'FW') ('en', 'FW') ('la', 'FW') ('nación', 'FW') NP (',', ',') NP VP ('de', 'FW') NP ('de', 'IN') ('la', 'FW') NP (',', ',') NP ('la', 'FW') ('promesa', 'FW') ('de', 'FW') ('restablecer', 'FW') ('el', 'FW') ('orden', 'FW') ('y', 'FW') NP ('la', 'FW') NP ('de', 'FW') ('violencia', 'FW') NP ('de', 'IN') ('bandas', 'FW') ('en', 'FW') ('el', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0104
+      },
+      {
+        "rule": "NP -> ('Luego', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0104
+      },
+      {
+        "rule": "NP -> ('dedicar', 'NN')",
+        "frequency": 1,
+        "weight": 0.0104
+      },
+      {
+        "rule": "NP -> ('un', 'JJ') ('minuto', 'NN')",
+        "frequency": 1,
+        "weight": 0.0104
+      },
+      {
+        "rule": "NP -> ('a', 'DT') ('las', 'JJ') ('víctimas', 'NN')",
+        "frequency": 1,
+        "weight": 0.0104
+      },
+      {
+        "rule": "NP -> ('caribeña', 'NN')",
+        "frequency": 1,
+        "weight": 0.0104
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Luego"
+      },
+      {
+        "label": "NP",
+        "text": "dedicar"
+      },
+      {
+        "label": "NP",
+        "text": "un minuto"
+      },
+      {
+        "label": "NP",
+        "text": "a las víctimas"
+      },
+      {
+        "label": "NP",
+        "text": "caribeña"
+      },
+      {
+        "label": "NP",
+        "text": "Normil Rameau"
+      },
+      {
+        "label": "VP",
+        "text": "asumió el cargo"
+      },
+      {
+        "label": "NP",
+        "text": "el cargo"
+      },
+      {
+        "label": "NP",
+        "text": "director"
+      },
+      {
+        "label": "NP",
+        "text": "Policía Nacional Haitiana"
+      },
+      {
+        "label": "NP",
+        "text": "con"
+      },
+      {
+        "label": "NP",
+        "text": "acabar con"
+      },
+      {
+        "label": "NP",
+        "text": "crisis"
+      },
+      {
+        "label": "NP",
+        "text": "a nivel"
+      },
+      {
+        "label": "NP",
+        "text": "país"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Luego/NNP)\n  de/FW\n  (NP dedicar/NN)\n  (NP un/JJ minuto/NN)\n  de/FW\n  silencio/FW\n  (NP a/DT las/JJ víctimas/NN)\n  de/IN\n  la/FW\n  violencia/FW\n  en/FW\n  la/FW\n  nación/FW\n  (NP caribeña/NN)\n  ,/,\n  (NP Normil/NNP Rameau/NNP)\n  (VP asumió/VBD (NP el/JJ cargo/NN))\n  de/FW\n  (NP director/NN)\n  de/IN\n  la/FW\n  (NP Policía/NNP Nacional/NNP Haitiana/NNP)\n  ,/,\n  (NP con/NN)\n  la/FW\n  promesa/FW\n  de/FW\n  restablecer/FW\n  el/FW\n  orden/FW\n  y/FW\n  (NP acabar/NN con/NN)\n  la/FW\n  (NP crisis/NN)\n  de/FW\n  violencia/FW\n  (NP a/DT nivel/NN)\n  de/IN\n  bandas/FW\n  en/FW\n  el/FW\n  (NP país/NN)\n  ./.)",
+      "(S\n  (NP El/NNP acto/NN)\n  de/FW\n  (NP investidura/NN)\n  ,/,\n  (NP que/JJ tuvo/NN lugar/NN)\n  (PP en/IN (NP Puerto/NNP Príncipe/NNP))\n  ,/,\n  (NP contó/NN con/NN la/NN)\n  presencia/FW\n  (NP del/NN)\n  nuevo/FW\n  primer/FW\n  ministro/FW\n  de/FW\n  (NP Haití/NNP)\n  ,/,\n  (NP Garry/NNP Conille/NNP)\n  ,/,\n  (NP y/NNP)\n  del/FW\n  (NP presidente/NN)\n  del/FW\n  (NP Consejo/NNP Presidencial/NNP)\n  de/FW\n  (NP Transición/NNP)\n  (/(\n  (NP CPT/NNP)\n  )/)\n  ,/,\n  (NP Edgard/NNP Leblanc/NNP Fils/NNP)\n  ./.)",
+      "(S\n  (NP Durante/NNP su/NN intervención/NN)\n  ,/,\n  (NP Normil/NNP Rameau/NNP)\n  (VP se/VBD)\n  (VP refirió/VB (NP a/DT la/NN trascendencia/NN del/NN))\n  (PP apoyo/IN (NP gubernamental/JJ para/NN hacer/NN))\n  (VP frente/VBZ (NP a/DT las/JJ bandas/NN armadas/NNS))\n  ./.)",
+      "(S\n  (NP Asimismo/NNP)\n  ,/,\n  (NP insistió/NN)\n  en/FW\n  la/FW\n  (NP idea/NN)\n  de/IN\n  ayudar/FW\n  (NP al/JJ personal/JJ policial/NN y/NN)\n  (NP a/DT los/JJ familiares/NNS)\n  de/IN\n  los/FW\n  (NP agentes/NNS)\n  (VP fallecidos/VBP (NP en/JJ prestación/NN))\n  (PP de/IN (NP servicios/NNS))\n  ./.)",
+      "(S\n  (NP En/NNP tanto/NN)\n  ,/,\n  (NP el/JJ presidente/NN del/NN CPT/NNP)\n  ,/,\n  (NP Edgard/NNP Leblanc/NNP Fils/NNP)\n  ,/,\n  (NP aseguró/NN que/NN)\n  la/FW\n  toma/FW\n  de/FW\n  posesión/FW\n  llegó/FW\n  en/FW\n  (NP un/JJ “/NNP momento/NN decisivo/NN ”/NNP para/NN el/NN país/NN)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "GOBIERNOS_OFICIALES",
+      "GRUPOS_ESPECIFICOS",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "INFRAESTRUCTURA_SERVICIOS",
+      "POLITICAS_PUBLICAS"
+    ],
+    "matches": [
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "capital",
+        "position": [
+          1087,
+          1094
+        ],
+        "start": 1087,
+        "end": 1094
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "afirmó",
+        "position": [
+          1014,
+          1020
+        ],
+        "start": 1014,
+        "end": 1020
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente del consejo",
+        "position": [
+          415,
+          437
+        ],
+        "start": 415,
+        "end": 437
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "ministro de haití",
+        "position": [
+          375,
+          392
+        ],
+        "start": 375,
+        "end": 392
+      },
+      {
+        "category": "GRUPOS_ESPECIFICOS",
+        "matched_text": "jóvenes",
+        "position": [
+          940,
+          947
+        ],
+        "start": 940,
+        "end": 947
+      },
+      {
+        "category": "POLITICAS_PUBLICAS",
+        "matched_text": "apoyo gubernamental",
+        "position": [
+          567,
+          586
+        ],
+        "start": 567,
+        "end": 586
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "puerto",
+        "position": [
+          318,
+          324
+        ],
+        "start": 318,
+        "end": 324
+      }
+    ],
+    "match_count": 7
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Consejo Presidencial de Transición",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Haití",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Policía Nacional Haitiana",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Garry Conille",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Edgard Leblanc Fils",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Unidad Antipandillas",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Puerto Príncipe",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Normil Rameau",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Academia de Policía",
+        "tipo": "Organizacion"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Normil Rameau",
+        "relacion": "ASUMIR",
+        "objeto": "Policía Nacional Haitiana"
+      },
+      {
+        "sujeto": "Puerto Príncipe",
+        "relacion": "TENER_CONTAR",
+        "objeto": "Haití"
+      },
+      {
+        "sujeto": "Puerto Príncipe",
+        "relacion": "TENER_CONTAR",
+        "objeto": "Garry Conille"
+      },
+      {
+        "sujeto": "Puerto Príncipe",
+        "relacion": "TENER_CONTAR",
+        "objeto": "Consejo Presidencial de Transición"
+      },
+      {
+        "sujeto": "Puerto Príncipe",
+        "relacion": "TENER_CONTAR",
+        "objeto": "Edgard Leblanc Fils"
+      },
+      {
+        "sujeto": "Garry Conille",
+        "relacion": "ASISTIR",
+        "objeto": "Unidad Antipandillas"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.765,
+    "pos": 0.0,
+    "neu": 0.969,
+    "neg": 0.031,
+    "label": "negative"
+  }
+}

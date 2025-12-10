@@ -1,0 +1,689 @@
+{
+  "url": "https://www.telesurtv.net/celebran-en-ruanda-elecciones-presidenciales-y-legislativas/",
+  "title": "Celebran en Ruanda elecciones presidenciales y legislativas - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "elecciones parlamnetarias",
+    "Elecciones presidenciales",
+    "Ruanda"
+  ],
+  "text": "\nRuanda celebra este lunes elecciones presidenciales y parlamentarias, marcadas por la inhabilitación política de dos opositoras y denuncias por intervención gubernamental durante la campaña de los competidores restantes.\n\n\nA las 07H00 hora local (05.00 GMT) abrieron sus puertas un total de 2.591 colegios electorales, luego a las 15H00 hora local (13.00 GMT) cerrarán para elegir al presidente y a los miembros de la Cámara de Diputados.\n\nEste lunes en Ruanda se elegirán a 53 diputados por sufragio directo, el martes 16 de junio les tocará a los otros 27, de ellos 24 deben ser mujeres, quienes serán elegidos de forma indirecta por entidades locales y nacionales.\nKagame, del Frente Patriótico de Ruanda (FPR), en el poder desde el año 1994 tras derrocar al Gobierno extremista hutu, cuenta con amplio apoyo de la población.\nEric Ndushabandi, profesor de Ciencias Políticas en la Universidad Nacional de Ruanda aseveró “Los ruandeses creen y confían en Kagame como una persona responsable y que los ha salvado de la mala política que condujo al genocidio. Para muchos, Kagame es la garantía de que algo así no volverá a suceder”.\nLa NEC tiene hasta el 20 de julio para publicar los resultados provisionales, y hasta el 27 de julio para difundir los definitivos.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/celebran-en-ruanda-elecciones-presidenciales-y-legislativas/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-07.json",
+    "message_index": 616,
+    "message_id": 73221,
+    "date": "2024-07-15T13:55:18+00:00",
+    "text": "teleSUR\nCelebran en Ruanda elecciones presidenciales y legislativas\nhttps://www.telesurtv.net/celebran-en-ruanda-elecciones-presidenciales-y-legislativas/",
+    "photo_path": null,
+    "views": 1505,
+    "reactions": {},
+    "total_reactions": 0
+  },
+  "preprocessing": {
+    "cleaned": "ruanda celebra este lunes elecciones presidenciales y parlamentarias, marcadas por la inhabilitación política de dos opositoras y denuncias por intervención gubernamental durante la campaña de los competidores restantes. a las 07h00 hora local (05.00 gmt) abrieron sus puertas un total de 2.591 colegios electorales, luego a las 15h00 hora local (13.00 gmt) cerrarán para elegir al presidente y a los miembros de la cámara de diputados. este lunes en ruanda se elegirán a 53 diputados por sufragio directo, el martes 16 de junio les tocará a los otros 27, de ellos 24 deben ser mujeres, quienes serán elegidos de forma indirecta por entidades locales y nacionales. kagame, del frente patriótico de ruanda (fpr), en el poder desde el año 1994 tras derrocar al gobierno extremista hutu, cuenta con amplio apoyo de la población. eric ndushabandi, profesor de ciencias políticas en la universidad nacional de ruanda aseveró “los ruandeses creen y confían en kagame como una persona responsable y que los ha salvado de la mala política que condujo al genocidio. para muchos, kagame es la garantía de que algo así no volverá a suceder”. la nec tiene hasta el 20 de julio para publicar los resultados provisionales, y hasta el 27 de julio para difundir los definitivos.",
+    "tokens": [
+      "ruanda",
+      "celebra",
+      "lunes",
+      "elecciones",
+      "presidenciales",
+      "parlamentarias",
+      ",",
+      "marcadas",
+      "inhabilitación",
+      "política",
+      "dos",
+      "opositoras",
+      "denuncias",
+      "intervención",
+      "gubernamental",
+      "campaña",
+      "competidores",
+      "restantes",
+      ".",
+      "07h00",
+      "hora",
+      "local",
+      "(",
+      "05.00",
+      "gmt",
+      ")",
+      "abrieron",
+      "puertas",
+      "total",
+      "2.591",
+      "colegios",
+      "electorales",
+      ",",
+      "luego",
+      "15h00",
+      "hora",
+      "local",
+      "(",
+      "13.00",
+      "gmt",
+      ")",
+      "cerrarán",
+      "elegir",
+      "presidente",
+      "miembros",
+      "cámara",
+      "diputados",
+      ".",
+      "lunes",
+      "ruanda",
+      "elegirán",
+      "53",
+      "diputados",
+      "sufragio",
+      "directo",
+      ",",
+      "martes",
+      "16",
+      "junio",
+      "tocará",
+      "27",
+      ",",
+      "24",
+      "deben",
+      "ser",
+      "mujeres",
+      ",",
+      "elegidos",
+      "forma",
+      "indirecta",
+      "entidades",
+      "locales",
+      "nacionales",
+      ".",
+      "kagame",
+      ",",
+      "frente",
+      "patriótico",
+      "ruanda",
+      "(",
+      "fpr",
+      ")",
+      ",",
+      "poder",
+      "año",
+      "1994",
+      "tras",
+      "derrocar",
+      "gobierno",
+      "extremista",
+      "hutu",
+      ",",
+      "cuenta",
+      "amplio",
+      "apoyo",
+      "población",
+      ".",
+      "eric",
+      "ndushabandi",
+      ",",
+      "profesor",
+      "ciencias",
+      "políticas",
+      "universidad",
+      "nacional",
+      "ruanda",
+      "aseveró",
+      "“",
+      "ruandeses",
+      "creen",
+      "confían",
+      "kagame",
+      "persona",
+      "responsable",
+      "salvado",
+      "mala",
+      "política",
+      "condujo",
+      "genocidio",
+      ".",
+      ",",
+      "kagame",
+      "garantía",
+      "así",
+      "volverá",
+      "suceder",
+      "”",
+      ".",
+      "nec",
+      "20",
+      "julio",
+      "publicar",
+      "resultados",
+      "provisionales",
+      ",",
+      "27",
+      "julio",
+      "difundir",
+      "definitivos",
+      "."
+    ],
+    "token_count": 140,
+    "sentence_count": 7
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 26,
+      "NN": 55,
+      "NNS": 16,
+      "VBP": 5,
+      "JJ": 21,
+      "IN": 8,
+      "FW": 38,
+      "VBZ": 8,
+      "CD": 12,
+      "VBD": 1,
+      "RB": 1,
+      "JJR": 1,
+      "CC": 1,
+      "DT": 1
+    },
+    "bigram_freq": {
+      "NNP-NN": 7,
+      "NN-NN": 34,
+      "NN-NNS": 4,
+      "NNS-NNS": 5,
+      "NNS-VBP": 4,
+      "VBP-JJ": 3,
+      "JJ-NN": 7,
+      "NN-IN": 3,
+      "IN-FW": 4,
+      "FW-FW": 21,
+      "FW-JJ": 1,
+      "JJ-JJ": 7,
+      "NN-FW": 4,
+      "FW-NNS": 2,
+      "NNS-VBZ": 2,
+      "VBZ-VBP": 1,
+      "VBP-CD": 1,
+      "CD-JJ": 2,
+      "JJ-CD": 5,
+      "CD-NNP": 2,
+      "NNS-JJ": 2,
+      "JJ-FW": 1,
+      "FW-CD": 2,
+      "CD-NNS": 3,
+      "VBZ-JJ": 3,
+      "JJ-NNS": 1,
+      "NNS-CD": 1,
+      "FW-NNP": 9,
+      "NNP-FW": 5,
+      "NNP-NNP": 7,
+      "NNP-VBZ": 4,
+      "VBZ-FW": 2,
+      "NNP-VBD": 1,
+      "VBD-RB": 1,
+      "RB-CD": 1,
+      "NN-VBZ": 1,
+      "VBZ-CD": 1,
+      "CD-IN": 4,
+      "IN-NN": 3,
+      "NNS-JJR": 1,
+      "JJR-NNS": 1,
+      "VBP-FW": 1,
+      "NNS-NNP": 1,
+      "NNP-IN": 1,
+      "IN-NNP": 1,
+      "FW-NN": 2,
+      "NN-CD": 1,
+      "CD-NN": 1,
+      "NN-NNP": 4,
+      "NNP-CC": 1,
+      "CC-NNP": 1,
+      "NN-JJ": 3,
+      "FW-VBZ": 1,
+      "VBZ-DT": 1,
+      "DT-NN": 1
+    },
+    "trigram_freq": {
+      "NNP-NN-NN": 4,
+      "NN-NN-NNS": 3,
+      "NN-NNS-NNS": 1,
+      "NNS-NNS-NNS": 2,
+      "NNS-NNS-VBP": 2,
+      "NNS-VBP-JJ": 3,
+      "VBP-JJ-NN": 1,
+      "JJ-NN-NN": 3,
+      "NN-NN-NN": 21,
+      "NN-NN-IN": 2,
+      "NN-IN-FW": 3,
+      "IN-FW-FW": 3,
+      "FW-FW-FW": 12,
+      "FW-FW-JJ": 1,
+      "FW-JJ-JJ": 1,
+      "JJ-JJ-NN": 2,
+      "JJ-NN-FW": 2,
+      "NN-FW-FW": 2,
+      "FW-FW-NNS": 2,
+      "FW-NNS-VBZ": 1,
+      "NNS-VBZ-VBP": 1,
+      "VBZ-VBP-CD": 1,
+      "VBP-CD-JJ": 1,
+      "CD-JJ-JJ": 2,
+      "JJ-JJ-CD": 4,
+      "JJ-CD-NNP": 2,
+      "CD-NNP-NN": 2,
+      "NN-NNS-JJ": 1,
+      "NNS-JJ-JJ": 2,
+      "JJ-JJ-FW": 1,
+      "JJ-FW-CD": 1,
+      "FW-CD-NNS": 2,
+      "CD-NNS-VBZ": 1,
+      "NNS-VBZ-JJ": 1,
+      "VBZ-JJ-NNS": 1,
+      "JJ-NNS-CD": 1,
+      "NNS-CD-JJ": 1,
+      "NN-NN-FW": 1,
+      "FW-FW-NNP": 3,
+      "FW-NNP-FW": 1,
+      "NNP-FW-NNP": 3,
+      "FW-NNP-NNP": 5,
+      "NNP-NNP-VBZ": 2,
+      "NNP-VBZ-FW": 2,
+      "VBZ-FW-NNP": 1,
+      "FW-NNP-VBD": 1,
+      "NNP-VBD-RB": 1,
+      "VBD-RB-CD": 1,
+      "RB-CD-NNS": 1,
+      "CD-NNS-JJ": 1,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-CD": 1,
+      "VBZ-CD-IN": 1,
+      "CD-IN-NN": 3,
+      "IN-NN-NNS": 1,
+      "NN-NNS-VBP": 2,
+      "VBP-JJ-JJ": 1,
+      "JJ-CD-IN": 3,
+      "CD-IN-FW": 1,
+      "IN-FW-CD": 1,
+      "CD-NNS-JJR": 1,
+      "NNS-JJR-NNS": 1,
+      "JJR-NNS-NNS": 1,
+      "NNS-VBP-FW": 1,
+      "VBP-FW-FW": 1,
+      "FW-NNS-NNS": 1,
+      "NNS-NNS-NNP": 1,
+      "NNS-NNP-FW": 1,
+      "NNP-NNP-IN": 1,
+      "NNP-IN-NNP": 1,
+      "IN-NNP-NNP": 1,
+      "NNP-NNP-FW": 3,
+      "NNP-FW-FW": 2,
+      "FW-FW-NN": 2,
+      "FW-NN-NN": 2,
+      "NN-NN-CD": 1,
+      "NN-CD-NN": 1,
+      "CD-NN-NN": 1,
+      "NN-NN-NNP": 3,
+      "NN-NNP-NN": 2,
+      "NNP-NNP-NN": 1,
+      "NNP-NN-FW": 1,
+      "NN-FW-NNP": 2,
+      "FW-NNP-CC": 1,
+      "NNP-CC-NNP": 1,
+      "CC-NNP-VBZ": 1,
+      "NNP-VBZ-JJ": 2,
+      "VBZ-JJ-NN": 1,
+      "FW-NNP-NN": 1,
+      "NNP-NN-JJ": 1,
+      "NN-JJ-NN": 3,
+      "JJ-NN-JJ": 1,
+      "NN-NN-JJ": 1,
+      "JJ-NN-IN": 1,
+      "NNP-NN-NNP": 1,
+      "NN-NNP-VBZ": 1,
+      "VBZ-FW-FW": 1,
+      "FW-FW-VBZ": 1,
+      "FW-VBZ-DT": 1,
+      "VBZ-DT-NN": 1,
+      "DT-NN-NN": 1,
+      "NN-NNP-NNP": 1,
+      "VBZ-JJ-JJ": 1,
+      "IN-NN-NN": 2,
+      "VBP-JJ-CD": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 55,
+        "FW": 38,
+        "NNP": 26,
+        "JJ": 21,
+        "NNS": 16
+      },
+      "top_bigrams": {
+        "NN-NN": 34,
+        "FW-FW": 21,
+        "FW-NNP": 9,
+        "NNP-NN": 7,
+        "JJ-NN": 7
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 21,
+        "FW-FW-FW": 12,
+        "FW-NNP-NNP": 5,
+        "NNP-NN-NN": 4,
+        "JJ-JJ-CD": 4
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 7,
+    "chunk_counts": {
+      "NP": 50,
+      "VP": 14,
+      "ADJP": 6,
+      "PP": 5
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 4,
+        "weight": 0.0488
+      },
+      {
+        "rule": "ADJP -> ('las', 'JJ')",
+        "frequency": 2,
+        "weight": 0.0244
+      },
+      {
+        "rule": "ADJP -> ('hora', 'JJ')",
+        "frequency": 2,
+        "weight": 0.0244
+      },
+      {
+        "rule": "ADJP -> ('local', 'JJ')",
+        "frequency": 2,
+        "weight": 0.0244
+      },
+      {
+        "rule": "NP -> ('GMT', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0244
+      },
+      {
+        "rule": "NP -> ('Ruanda', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0244
+      },
+      {
+        "rule": "NP -> ('Kagame', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0244
+      },
+      {
+        "rule": "S -> NP ('y', 'RB') VP (',', ',') ('marcadas', 'FW') NP ('la', 'FW') ('inhabilitación', 'FW') ('política', 'FW') ('de', 'FW') ('dos', 'FW') ('opositoras', 'FW') ('y', 'FW') ('denuncias', 'FW') ('por', 'FW') NP ('la', 'FW') ('campaña', 'FW') ('de', 'FW') ('los', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0122
+      },
+      {
+        "rule": "NP -> ('Ruanda', 'NNP') ('celebra', 'NN') ('este', 'NN') ('lunes', 'NNS') ('elecciones', 'NNS') ('presidenciales', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0122
+      },
+      {
+        "rule": "VP -> ('parlamentarias', 'VBP')",
+        "frequency": 1,
+        "weight": 0.0122
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Ruanda celebra este lunes elecciones presidenciales"
+      },
+      {
+        "label": "VP",
+        "text": "parlamentarias"
+      },
+      {
+        "label": "NP",
+        "text": "por"
+      },
+      {
+        "label": "NP",
+        "text": "intervención gubernamental durante"
+      },
+      {
+        "label": "NP",
+        "text": "competidores restantes"
+      },
+      {
+        "label": "ADJP",
+        "text": "las"
+      },
+      {
+        "label": "ADJP",
+        "text": "hora"
+      },
+      {
+        "label": "ADJP",
+        "text": "local"
+      },
+      {
+        "label": "NP",
+        "text": "GMT"
+      },
+      {
+        "label": "VP",
+        "text": "abrieron sus puertas un total"
+      },
+      {
+        "label": "NP",
+        "text": "sus puertas"
+      },
+      {
+        "label": "NP",
+        "text": "colegios electorales"
+      },
+      {
+        "label": "VP",
+        "text": "luego"
+      },
+      {
+        "label": "ADJP",
+        "text": "las"
+      },
+      {
+        "label": "ADJP",
+        "text": "hora"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP\n    Ruanda/NNP\n    celebra/NN\n    este/NN\n    lunes/NNS\n    elecciones/NNS\n    presidenciales/NNS)\n  y/RB\n  (VP parlamentarias/VBP)\n  ,/,\n  marcadas/FW\n  (NP por/NN)\n  la/FW\n  inhabilitación/FW\n  política/FW\n  de/FW\n  dos/FW\n  opositoras/FW\n  y/FW\n  denuncias/FW\n  por/FW\n  (NP intervención/JJ gubernamental/JJ durante/NN)\n  la/FW\n  campaña/FW\n  de/FW\n  los/FW\n  (NP competidores/NNS restantes/NNS)\n  ./.)",
+      "(S\n  A/DT\n  (ADJP las/JJ)\n  07H00/CD\n  (ADJP hora/JJ)\n  (ADJP local/JJ)\n  (/(\n  05.00/CD\n  (NP GMT/NNP)\n  )/)\n  (VP abrieron/VBP (NP sus/NN puertas/NNS) un/JJ total/JJ)\n  de/FW\n  2.591/CD\n  (NP colegios/NNS electorales/NNS)\n  ,/,\n  (VP luego/VBZ)\n  a/DT\n  (ADJP las/JJ)\n  15H00/CD\n  (ADJP hora/JJ)\n  (ADJP local/JJ)\n  (/(\n  13.00/CD\n  (NP GMT/NNP)\n  )/)\n  (NP cerrarán/NN para/NN elegir/NN al/NN presidente/NN)\n  (VP y/VBZ (NP a/DT los/JJ miembros/NN))\n  de/IN\n  la/FW\n  (NP Cámara/NNP)\n  de/FW\n  (NP Diputados/NNP)\n  ./.)",
+      "(S\n  (NP Este/NN lunes/NNS)\n  (PP en/IN (NP Ruanda/NNP))\n  se/FW\n  (VP elegirán/VBZ)\n  a/DT\n  53/CD\n  (NP diputados/NN por/NN sufragio/NN directo/NN)\n  ,/,\n  (VP el/VB (NP martes/NNS))\n  16/CD\n  (PP de/IN (NP junio/NN les/NNS))\n  (VP tocará/VBP (NP a/DT los/NN) otros/JJ)\n  27/CD\n  ,/,\n  de/FW\n  ellos/FW\n  24/CD\n  (NP deben/NNS)\n  (NP ser/JJR mujeres/NNS)\n  ,/,\n  (NP quienes/NNS)\n  (VP serán/VBP)\n  elegidos/FW\n  de/FW\n  forma/FW\n  indirecta/FW\n  por/FW\n  (NP entidades/NNS locales/NNS)\n  (VP y/VBP (NP nacionales/NNS))\n  ./.)",
+      "(S\n  (NP Kagame/NNP)\n  ,/,\n  (NP del/NN Frente/NNP Patriótico/NNP)\n  (PP de/IN (NP Ruanda/NNP))\n  (/(\n  (NP FPR/NNP)\n  )/)\n  ,/,\n  en/FW\n  el/FW\n  (NP poder/NN desde/NN el/NN año/NN)\n  1994/CD\n  (NP tras/NN derrocar/NN al/NN Gobierno/NNP extremista/NN hutu/NN)\n  ,/,\n  (NP cuenta/JJ con/NN amplio/NN apoyo/NN)\n  de/IN\n  la/FW\n  (NP población/NN)\n  ./.)",
+      "(S\n  (NP Eric/NNP Ndushabandi/NNP)\n  ,/,\n  (NP profesor/NN)\n  de/FW\n  (NP Ciencias/NNP Políticas/NNP)\n  en/FW\n  la/FW\n  (NP Universidad/NNP Nacional/NNP)\n  de/FW\n  (NP Ruanda/NNP aseveró/NN “/NNP Los/NNP)\n  (VP ruandeses/VBZ (NP creen/JJ y/NN confían/NN))\n  en/FW\n  (NP Kagame/NNP como/NN)\n  (NP una/JJ persona/NN)\n  (NP responsable/JJ y/NN que/NN los/NN)\n  (NP ha/JJ salvado/NN)\n  de/IN\n  la/FW\n  mala/FW\n  (NP política/NN que/NN condujo/NN al/NN genocidio/NN)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "FECHAS_HORAS",
+      "GRUPOS_ESPECIFICOS",
+      "CANTIDADES_NUMERICAS",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "INSTITUCIONES_EDUCATIVAS",
+      "LOCALIZACIONES_ESPECIFICAS",
+      "INFRAESTRUCTURA_SERVICIOS",
+      "FECHAS_ESPECIFICAS",
+      "POLITICAS_PUBLICAS"
+    ],
+    "matches": [
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "resultados provisionales, y hasta el 27 de julio para difundir los definitivos",
+        "position": [
+          1187,
+          1265
+        ],
+        "start": 1187,
+        "end": 1265
+      },
+      {
+        "category": "GRUPOS_ESPECIFICOS",
+        "matched_text": "mujeres",
+        "position": [
+          582,
+          589
+        ],
+        "start": 582,
+        "end": 589
+      },
+      {
+        "category": "INSTITUCIONES_EDUCATIVAS",
+        "matched_text": "universidad nacional de",
+        "position": [
+          885,
+          908
+        ],
+        "start": 885,
+        "end": 908
+      },
+      {
+        "category": "POLITICAS_PUBLICAS",
+        "matched_text": "política de dos opositoras y denuncias por intervención gubernamental",
+        "position": [
+          102,
+          171
+        ],
+        "start": 102,
+        "end": 171
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "universidad",
+        "position": [
+          885,
+          896
+        ],
+        "start": 885,
+        "end": 896
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "universidad nacional",
+        "position": [
+          885,
+          905
+        ],
+        "start": 885,
+        "end": 905
+      },
+      {
+        "category": "FECHAS_ESPECIFICAS",
+        "matched_text": "martes 16 de junio",
+        "position": [
+          514,
+          532
+        ],
+        "start": 514,
+        "end": 532
+      },
+      {
+        "category": "FECHAS_ESPECIFICAS",
+        "matched_text": "año 1994",
+        "position": [
+          737,
+          745
+        ],
+        "start": 737,
+        "end": 745
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "53 diputados",
+        "position": [
+          476,
+          488
+        ],
+        "start": 476,
+        "end": 488
+      },
+      {
+        "category": "FECHAS_HORAS",
+        "matched_text": "el año 1994",
+        "position": [
+          734,
+          745
+        ],
+        "start": 734,
+        "end": 745
+      }
+    ],
+    "match_count": 10
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Ruanda",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Cámara de Diputados",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Eric Ndushabandi",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Ciencias Políticas",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Kagame",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "NEC",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Gobierno extremista",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "FPR",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Universidad Nacional de Ruanda",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Frente Patriótico de Ruanda",
+        "tipo": "Organizacion"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Eric Ndushabandi",
+        "relacion": "ASEVERAR",
+        "objeto": "Kagame"
+      },
+      {
+        "sujeto": "Ciencias Políticas",
+        "relacion": "ASEVERAR",
+        "objeto": "Kagame"
+      },
+      {
+        "sujeto": "Universidad Nacional de Ruanda",
+        "relacion": "ASEVERAR",
+        "objeto": "Kagame"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.0516,
+    "pos": 0.012,
+    "neu": 0.977,
+    "neg": 0.011,
+    "label": "positive"
+  }
+}

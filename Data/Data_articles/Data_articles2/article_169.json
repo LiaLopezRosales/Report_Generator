@@ -1,0 +1,621 @@
+{
+  "url": "https://www.telesurtv.net/abren-la-basilica-de-santa-maria-la-mayor-para-que-fieles-visiten-la-tumba-de-francisco/",
+  "title": "Abren la basílica de Santa María la Mayor para que fieles visiten la tumba de Francisco - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Basílica de Santa María la Mayor",
+    "Conclave",
+    "Funeral Papa Francisco",
+    "Vaticano"
+  ],
+  "text": "A primera hora de este domingo, el Vaticano ordenó abrir las puertas de la basílica de Santa María la Mayor para que los fieles puedan visitar la tumba del papa Francisco, quien fue enterrado en la víspera en este templo.\nLa tumba del pontífice consiste en una lápida de mármol de la región de Liguria, con la inscripción de ‘FRANCISCUS’, su nombre pontificio en latín.\nFrancisco eligió una tumba sencilla, a nivel del suelo y sin decoración en el interior del templo, al lado de la capilla de una imagen mariana del que Jorge Mario Bergoglio fue muy devoto, la ‘Salus Populi Romani’.\nDebido a su devoción al icono de la Virgen María, ante la que el religioso argentino iba a rezar a menudo, expresó en su testamento el deseo de ser enterrado en la basílica de Santa María Mayor.\nEstá basílica romana, es una de las cuatro papales junto a San Pedro del Vaticano, San Juan de Letrán y San Pablo Extramuros.\nEl funeral de Francisco marca el primer día de los nueve días de luto, antes de que los cardenales puedan comenzar el cónclave papal para seleccionar al próximo líder de la Iglesia Católica.\nDe acuerdo al Vaticano, el papa Francisco murió a los 88 años de edad a causa de un derrame cerebral que lo llevó a un coma y a una insuficiencia cardíaca irreversible.\n",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/abren-la-basilica-de-santa-maria-la-mayor-para-que-fieles-visiten-la-tumba-de-francisco/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-04.json",
+    "message_index": 241,
+    "message_id": 92820,
+    "date": "2025-04-27T06:55:12+00:00",
+    "text": "teleSUR\nAbren la basílica de Santa María la Mayor para que fieles visiten la tumba de Francisco\nhttps://www.telesurtv.net/abren-la-basilica-de-santa-maria-la-mayor-para-que-fieles-visiten-la-tumba-de-francisco/",
+    "photo_path": null,
+    "views": 1824,
+    "reactions": {
+      "👍": 38,
+      "❤": 7
+    },
+    "total_reactions": 45
+  },
+  "preprocessing": {
+    "cleaned": "a primera hora de este domingo, el vaticano ordenó abrir las puertas de la basílica de santa maría la mayor para que los fieles puedan visitar la tumba del papa francisco, quien fue enterrado en la víspera en este templo. la tumba del pontífice consiste en una lápida de mármol de la región de liguria, con la inscripción de ‘franciscus’, su nombre pontificio en latín. francisco eligió una tumba sencilla, a nivel del suelo y sin decoración en el interior del templo, al lado de la capilla de una imagen mariana del que jorge mario bergoglio fue muy devoto, la ‘salus populi romani’. debido a su devoción al icono de la virgen maría, ante la que el religioso argentino iba a rezar a menudo, expresó en su testamento el deseo de ser enterrado en la basílica de santa maría mayor. está basílica romana, es una de las cuatro papales junto a san pedro del vaticano, san juan de letrán y san pablo extramuros. el funeral de francisco marca el primer día de los nueve días de luto, antes de que los cardenales puedan comenzar el cónclave papal para seleccionar al próximo líder de la iglesia católica. de acuerdo al vaticano, el papa francisco murió a los 88 años de edad a causa de un derrame cerebral que lo llevó a un coma y a una insuficiencia cardíaca irreversible.",
+    "tokens": [
+      "primera",
+      "hora",
+      "domingo",
+      ",",
+      "vaticano",
+      "ordenó",
+      "abrir",
+      "puertas",
+      "basílica",
+      "santa",
+      "maría",
+      "mayor",
+      "fieles",
+      "puedan",
+      "visitar",
+      "tumba",
+      "papa",
+      "francisco",
+      ",",
+      "enterrado",
+      "víspera",
+      "templo",
+      ".",
+      "tumba",
+      "pontífice",
+      "consiste",
+      "lápida",
+      "mármol",
+      "región",
+      "liguria",
+      ",",
+      "inscripción",
+      "‘",
+      "franciscus",
+      "’",
+      ",",
+      "nombre",
+      "pontificio",
+      "latín",
+      ".",
+      "francisco",
+      "eligió",
+      "tumba",
+      "sencilla",
+      ",",
+      "nivel",
+      "suelo",
+      "decoración",
+      "interior",
+      "templo",
+      ",",
+      "lado",
+      "capilla",
+      "imagen",
+      "mariana",
+      "jorge",
+      "mario",
+      "bergoglio",
+      "devoto",
+      ",",
+      "‘",
+      "salus",
+      "populi",
+      "romani",
+      "’",
+      ".",
+      "debido",
+      "devoción",
+      "icono",
+      "virgen",
+      "maría",
+      ",",
+      "religioso",
+      "argentino",
+      "iba",
+      "rezar",
+      "menudo",
+      ",",
+      "expresó",
+      "testamento",
+      "deseo",
+      "ser",
+      "enterrado",
+      "basílica",
+      "santa",
+      "maría",
+      "mayor",
+      ".",
+      "basílica",
+      "romana",
+      ",",
+      "cuatro",
+      "papales",
+      "junto",
+      "san",
+      "pedro",
+      "vaticano",
+      ",",
+      "san",
+      "juan",
+      "letrán",
+      "san",
+      "pablo",
+      "extramuros",
+      ".",
+      "funeral",
+      "francisco",
+      "marca",
+      "primer",
+      "día",
+      "nueve",
+      "días",
+      "luto",
+      ",",
+      "cardenales",
+      "puedan",
+      "comenzar",
+      "cónclave",
+      "papal",
+      "seleccionar",
+      "próximo",
+      "líder",
+      "iglesia",
+      "católica",
+      ".",
+      "acuerdo",
+      "vaticano",
+      ",",
+      "papa",
+      "francisco",
+      "murió",
+      "88",
+      "años",
+      "edad",
+      "causa",
+      "derrame",
+      "cerebral",
+      "llevó",
+      "coma",
+      "insuficiencia",
+      "cardíaca",
+      "irreversible",
+      "."
+    ],
+    "token_count": 143,
+    "sentence_count": 7
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NN": 71,
+      "IN": 13,
+      "FW": 52,
+      "JJ": 24,
+      "NNP": 39,
+      "VBZ": 3,
+      "NNS": 5,
+      "VBP": 4,
+      "VBD": 3,
+      "CD": 1
+    },
+    "bigram_freq": {
+      "NN-NN": 35,
+      "NN-IN": 12,
+      "IN-FW": 10,
+      "FW-JJ": 6,
+      "JJ-NN": 16,
+      "NN-NNP": 7,
+      "NNP-VBZ": 3,
+      "VBZ-JJ": 2,
+      "JJ-NNS": 2,
+      "NNS-FW": 1,
+      "FW-FW": 30,
+      "FW-NNP": 9,
+      "NNP-NNP": 21,
+      "NNP-NN": 9,
+      "NN-NNS": 2,
+      "NNS-VBP": 3,
+      "VBP-NN": 1,
+      "NN-JJ": 9,
+      "FW-NN": 6,
+      "IN-JJ": 1,
+      "NN-FW": 4,
+      "NNP-VBD": 2,
+      "VBD-JJ": 2,
+      "IN-NN": 2,
+      "JJ-FW": 3,
+      "VBZ-FW": 1,
+      "VBP-NNP": 1,
+      "NNP-FW": 3,
+      "NNP-JJ": 1,
+      "FW-NNS": 1,
+      "NNS-IN": 1,
+      "VBP-JJ": 2,
+      "NN-VBP": 1,
+      "JJ-NNP": 1,
+      "NN-VBD": 1,
+      "VBD-CD": 1,
+      "CD-NN": 1,
+      "JJ-JJ": 1
+    },
+    "trigram_freq": {
+      "NN-NN-IN": 6,
+      "NN-IN-FW": 9,
+      "IN-FW-JJ": 4,
+      "FW-JJ-NN": 2,
+      "JJ-NN-NNP": 1,
+      "NN-NNP-VBZ": 2,
+      "NNP-VBZ-JJ": 2,
+      "VBZ-JJ-NNS": 1,
+      "JJ-NNS-FW": 1,
+      "NNS-FW-FW": 1,
+      "FW-FW-FW": 21,
+      "FW-FW-NNP": 5,
+      "FW-NNP-NNP": 6,
+      "NNP-NNP-NNP": 12,
+      "NNP-NNP-NN": 3,
+      "NNP-NN-NN": 7,
+      "NN-NN-NN": 14,
+      "NN-NN-NNS": 1,
+      "NN-NNS-VBP": 2,
+      "NNS-VBP-NN": 1,
+      "VBP-NN-NN": 1,
+      "NN-NN-JJ": 7,
+      "NN-JJ-NN": 8,
+      "JJ-NN-NN": 7,
+      "NN-NN-NNP": 5,
+      "NN-NNP-NN": 3,
+      "IN-FW-FW": 3,
+      "FW-FW-NN": 3,
+      "FW-NN-NN": 4,
+      "VBZ-JJ-NN": 1,
+      "NN-IN-JJ": 1,
+      "IN-JJ-NN": 1,
+      "JJ-NN-IN": 6,
+      "FW-NNP-NN": 2,
+      "NN-NN-FW": 2,
+      "NN-FW-FW": 3,
+      "FW-NNP-VBD": 1,
+      "NNP-VBD-JJ": 2,
+      "VBD-JJ-NN": 1,
+      "NN-IN-NN": 2,
+      "IN-NN-NNP": 1,
+      "NNP-NN-JJ": 1,
+      "FW-JJ-FW": 1,
+      "JJ-FW-NN": 1,
+      "FW-NN-FW": 1,
+      "NN-FW-NN": 1,
+      "NN-NNP-NNP": 2,
+      "NNP-NNP-VBD": 1,
+      "VBD-JJ-FW": 1,
+      "JJ-FW-FW": 1,
+      "NNP-NNP-VBZ": 1,
+      "NNP-VBZ-FW": 1,
+      "VBZ-FW-FW": 1,
+      "IN-NN-NN": 1,
+      "IN-FW-NN": 1,
+      "FW-NN-NNS": 1,
+      "NNS-VBP-NNP": 1,
+      "VBP-NNP-NNP": 1,
+      "NNP-NNP-FW": 3,
+      "NNP-FW-NNP": 2,
+      "NNP-NNP-JJ": 1,
+      "NNP-JJ-FW": 1,
+      "JJ-FW-NNP": 1,
+      "IN-FW-NNS": 1,
+      "FW-NNS-IN": 1,
+      "NNS-IN-FW": 1,
+      "FW-JJ-NNS": 1,
+      "JJ-NNS-VBP": 1,
+      "NNS-VBP-JJ": 1,
+      "VBP-JJ-NN": 2,
+      "JJ-NN-VBP": 1,
+      "NN-VBP-JJ": 1,
+      "IN-FW-NNP": 1,
+      "NNP-FW-JJ": 1,
+      "FW-JJ-NNP": 1,
+      "JJ-NNP-NN": 1,
+      "NNP-NN-VBD": 1,
+      "NN-VBD-CD": 1,
+      "VBD-CD-NN": 1,
+      "CD-NN-FW": 1,
+      "FW-FW-JJ": 1,
+      "FW-JJ-JJ": 1,
+      "JJ-JJ-NN": 1,
+      "JJ-NN-JJ": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 71,
+        "FW": 52,
+        "NNP": 39,
+        "JJ": 24,
+        "IN": 13
+      },
+      "top_bigrams": {
+        "NN-NN": 35,
+        "FW-FW": 30,
+        "NNP-NNP": 21,
+        "JJ-NN": 16,
+        "NN-IN": 12
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 21,
+        "NN-NN-NN": 14,
+        "NNP-NNP-NNP": 12,
+        "NN-IN-FW": 9,
+        "NN-JJ-NN": 8
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 7,
+    "chunk_counts": {
+      "NP": 57,
+      "PP": 6,
+      "VP": 11,
+      "ADJP": 2
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 4,
+        "weight": 0.0482
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0241
+      },
+      {
+        "rule": "S -> NP PP (',', ',') NP ('ordenó', 'MD') VP ('de', 'IN') ('la', 'FW') ('basílica', 'FW') ('de', 'FW') NP VP (',', ',') NP ('en', 'IN') ('la', 'FW') ('víspera', 'FW') ('en', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.012
+      },
+      {
+        "rule": "NP -> ('A', 'DT') ('primera', 'NN') ('hora', 'NN')",
+        "frequency": 1,
+        "weight": 0.012
+      },
+      {
+        "rule": "NP -> ('este', 'NN') ('domingo', 'NN')",
+        "frequency": 1,
+        "weight": 0.012
+      },
+      {
+        "rule": "NP -> ('el', 'JJ') ('Vaticano', 'NNP')",
+        "frequency": 1,
+        "weight": 0.012
+      },
+      {
+        "rule": "VP -> ('abrir', 'VB') NP",
+        "frequency": 1,
+        "weight": 0.012
+      },
+      {
+        "rule": "NP -> ('las', 'JJ') ('puertas', 'NNS')",
+        "frequency": 1,
+        "weight": 0.012
+      },
+      {
+        "rule": "NP -> ('Santa', 'NNP') ('María', 'NNP') ('la', 'NNP') ('Mayor', 'NNP') ('para', 'NN') ('que', 'NN') ('los', 'NN') ('fieles', 'NNS')",
+        "frequency": 1,
+        "weight": 0.012
+      },
+      {
+        "rule": "VP -> ('puedan', 'VBP') NP NP",
+        "frequency": 1,
+        "weight": 0.012
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "A primera hora"
+      },
+      {
+        "label": "PP",
+        "text": "de este domingo"
+      },
+      {
+        "label": "NP",
+        "text": "este domingo"
+      },
+      {
+        "label": "NP",
+        "text": "el Vaticano"
+      },
+      {
+        "label": "VP",
+        "text": "abrir las puertas"
+      },
+      {
+        "label": "NP",
+        "text": "las puertas"
+      },
+      {
+        "label": "NP",
+        "text": "Santa María la Mayor para que los fieles"
+      },
+      {
+        "label": "VP",
+        "text": "puedan visitar la tumba del papa Francisco"
+      },
+      {
+        "label": "NP",
+        "text": "visitar la"
+      },
+      {
+        "label": "NP",
+        "text": "tumba del papa Francisco"
+      },
+      {
+        "label": "NP",
+        "text": "quien fue enterrado"
+      },
+      {
+        "label": "NP",
+        "text": "este templo"
+      },
+      {
+        "label": "NP",
+        "text": "La"
+      },
+      {
+        "label": "NP",
+        "text": "pontífice consiste"
+      },
+      {
+        "label": "PP",
+        "text": "en una lápida"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP A/DT primera/NN hora/NN)\n  (PP de/IN (NP este/NN domingo/NN))\n  ,/,\n  (NP el/JJ Vaticano/NNP)\n  ordenó/MD\n  (VP abrir/VB (NP las/JJ puertas/NNS))\n  de/IN\n  la/FW\n  basílica/FW\n  de/FW\n  (NP\n    Santa/NNP\n    María/NNP\n    la/NNP\n    Mayor/NNP\n    para/NN\n    que/NN\n    los/NN\n    fieles/NNS)\n  (VP\n    puedan/VBP\n    (NP visitar/NN la/NN)\n    (NP tumba/JJ del/NN papa/NN Francisco/NNP))\n  ,/,\n  (NP quien/NN fue/NN enterrado/NN)\n  en/IN\n  la/FW\n  víspera/FW\n  en/FW\n  (NP este/NN templo/NN)\n  ./.)",
+      "(S\n  (NP La/NNP)\n  tumba/PRP\n  del/FW\n  (NP pontífice/NN consiste/NN)\n  (PP en/IN (NP una/JJ lápida/NN))\n  de/IN\n  mármol/FW\n  de/FW\n  la/FW\n  región/FW\n  de/FW\n  (NP Liguria/NNP)\n  ,/,\n  (NP con/NN)\n  la/FW\n  inscripción/FW\n  de/FW\n  ‘/FW\n  (NP FRANCISCUS/NNP ’/NNP)\n  ,/,\n  (NP su/NN nombre/NN pontificio/NN)\n  (PP en/IN (NP latín/NN))\n  ./.)",
+      "(S\n  (NP Francisco/NNP eligió/NN)\n  (NP una/JJ tumba/NN sencilla/NN)\n  ,/,\n  (NP a/DT nivel/JJ del/NN suelo/NN y/NN sin/NN decoración/NN)\n  en/IN\n  el/FW\n  (NP interior/JJ del/NN templo/NN)\n  ,/,\n  (ADJP al/JJ)\n  lado/FW\n  de/FW\n  la/FW\n  capilla/FW\n  de/FW\n  una/FW\n  (NP imagen/NN)\n  mariana/FW\n  (NP\n    del/NN\n    que/NN\n    Jorge/NNP\n    Mario/NNP\n    Bergoglio/NNP\n    fue/NN\n    muy/NN\n    devoto/NN)\n  ,/,\n  la/FW\n  ‘/FW\n  (NP Salus/NNP Populi/NNP Romani/NNP ’/NNP)\n  ./.)",
+      "(S\n  (VP Debido/VB (NP a/DT su/NN devoción/NN))\n  al/FW\n  icono/FW\n  de/FW\n  la/FW\n  (NP Virgen/NNP María/NNP)\n  ,/,\n  (NP ante/NN)\n  la/FW\n  que/FW\n  el/FW\n  (NP religioso/NN argentino/NN)\n  (VP iba/VBP (NP a/DT rezar/NN) (NP a/DT menudo/NN))\n  ,/,\n  expresó/FW\n  en/FW\n  su/FW\n  testamento/IN\n  el/FW\n  deseo/FW\n  de/FW\n  ser/FW\n  enterrado/FW\n  en/FW\n  la/FW\n  basílica/FW\n  de/FW\n  (NP Santa/NNP María/NNP Mayor/NNP)\n  ./.)",
+      "(S\n  (NP Está/NNP basílica/NN romana/NN)\n  ,/,\n  (NP es/JJ una/NN)\n  de/IN\n  las/FW\n  (NP cuatro/NN papales/NNS)\n  (VP junto/VBP (NP a/DT San/NNP Pedro/NNP))\n  del/FW\n  (NP Vaticano/NNP)\n  ,/,\n  (NP San/NNP Juan/NNP)\n  (PP de/IN (NP Letrán/NNP))\n  y/CC\n  (NP San/NNP Pablo/NNP Extramuros/NNP)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "CIUDADES_CAPITALES",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "REGIONES_PROVINCIAS",
+      "LEYES_NORMATIVAS"
+    ],
+    "matches": [
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "expresó",
+        "position": [
+          692,
+          699
+        ],
+        "start": 692,
+        "end": 699
+      },
+      {
+        "category": "LEYES_NORMATIVAS",
+        "matched_text": "acuerdo al vaticano, el papa francisco murió a los 88",
+        "position": [
+          1100,
+          1153
+        ],
+        "start": 1100,
+        "end": 1153
+      },
+      {
+        "category": "CIUDADES_CAPITALES",
+        "matched_text": "san juan",
+        "position": [
+          863,
+          871
+        ],
+        "start": 863,
+        "end": 871
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "región de",
+        "position": [
+          284,
+          293
+        ],
+        "start": 284,
+        "end": 293
+      }
+    ],
+    "match_count": 4
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "basílica de Santa María Mayor",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "basílica de Santa María la Mayor",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Virgen María",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "San Pedro",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "San Pablo Extramuros",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Iglesia Católica",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Vaticano",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "papa Francisco",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "San Juan de Letrán",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Jorge Mario Bergoglio",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Francisco",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Liguria",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "FRANCISCUS",
+        "tipo": "Organizacion"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Vaticano",
+        "relacion": "ORDENAR",
+        "objeto": "basílica de Santa María la Mayor"
+      },
+      {
+        "sujeto": "Vaticano",
+        "relacion": "ORDENAR",
+        "objeto": "papa Francisco"
+      },
+      {
+        "sujeto": "basílica de Santa María la Mayor",
+        "relacion": "ABRIR_ORDENAR",
+        "objeto": "papa Francisco"
+      },
+      {
+        "sujeto": "Francisco",
+        "relacion": "ELEGIR",
+        "objeto": "Jorge Mario Bergoglio"
+      },
+      {
+        "sujeto": "Virgen María",
+        "relacion": "EXPRESAR",
+        "objeto": "basílica de Santa María Mayor"
+      },
+      {
+        "sujeto": "Francisco",
+        "relacion": "MARCAR",
+        "objeto": "Iglesia Católica"
+      },
+      {
+        "sujeto": "Vaticano",
+        "relacion": "MORIR",
+        "objeto": "Francisco"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.7845,
+    "pos": 0.0,
+    "neu": 0.964,
+    "neg": 0.036,
+    "label": "negative"
+  }
+}

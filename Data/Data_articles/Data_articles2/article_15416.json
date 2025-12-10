@@ -1,0 +1,768 @@
+{
+  "url": "https://www.telesurtv.net/se-registra-sismo-de-5-7-en-el-sur-de-peru/",
+  "title": "Se registra sismo de 5.7 en el sur de Perú - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "arequipa",
+    "Perú",
+    "Sismo",
+    "Sismológico",
+    "Temblor"
+  ],
+  "text": "Un sismo de magnitud 5.7 estremeció la región de Arequipa, en el sur de Perú, siendo el segundo evento telúrico en cuestión de horas que sacude la zona. El Instituto Geofísico del Perú (IGP) informó que el temblor tuvo lugar a las 15H46 de este sábado, con epicentro en el océano Pacífico, a 41 kilómetros al sur de Yauca, en la provincia de Caravelí.\n\nTanto las autoridades de la Defensa Civil como la Dirección de Hidrografía y Navegación de la Marina de Guerra de Perú han confirmado la ausencia de alerta de tsunami en el litoral del país.\nEl Centro de Operaciones de Emergencia Nacional (COEN) se mantuvo vigilante ante la situación y emitió un mensaje de alerta a través de sus plataformas digitales, destacando la importancia de supervisar las zonas vulnerables. Según el COEN, el sismo fue sentido por la población de Yauca en una intensidad que osciló entre leve y moderada.\nEste incidente es el segundo de su tipo en la región de Arequipa durante el día, ya que horas antes se registró otro movimiento telúrico de magnitud 5, con epicentro también en el océano Pacífico, a 40 kilómetros al sur de Yauca.\nPerú, ubicado en el Cinturón de Fuego del Pacífico, experimenta constantemente actividad sísmica debido a su ubicación geográfica.\nRecordando la tragedia ocurrida en agosto de 2007 frente a la ciudad costera de Pisco, donde un terremoto de magnitud 7.9 dejó a su paso más de 500 fallecidos y cuantiosas pérdidas materiales, las autoridades y la población de Arequipa permanecen en alerta ante la posibilidad de réplicas y nuevos eventos sísmicos en la región.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/se-registra-sismo-de-5-7-en-el-sur-de-peru/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-06.json",
+    "message_index": 290,
+    "message_id": 72453,
+    "date": "2024-06-23T04:55:13+00:00",
+    "text": "teleSUR\nSe registra sismo de 5.7 en el sur de Perú\nhttps://www.telesurtv.net/se-registra-sismo-de-5-7-en-el-sur-de-peru/",
+    "photo_path": null,
+    "views": 1484,
+    "reactions": {},
+    "total_reactions": 0
+  },
+  "preprocessing": {
+    "cleaned": "un sismo de magnitud 5.7 estremeció la región de arequipa, en el sur de perú, siendo el segundo evento telúrico en cuestión de horas que sacude la zona. el instituto geofísico del perú (igp) informó que el temblor tuvo lugar a las 15h46 de este sábado, con epicentro en el océano pacífico, a 41 kilómetros al sur de yauca, en la provincia de caravelí. tanto las autoridades de la defensa civil como la dirección de hidrografía y navegación de la marina de guerra de perú han confirmado la ausencia de alerta de tsunami en el litoral del país. el centro de operaciones de emergencia nacional (coen) se mantuvo vigilante ante la situación y emitió un mensaje de alerta a través de sus plataformas digitales, destacando la importancia de supervisar las zonas vulnerables. según el coen, el sismo fue sentido por la población de yauca en una intensidad que osciló entre leve y moderada. este incidente es el segundo de su tipo en la región de arequipa durante el día, ya que horas antes se registró otro movimiento telúrico de magnitud 5, con epicentro también en el océano pacífico, a 40 kilómetros al sur de yauca. perú, ubicado en el cinturón de fuego del pacífico, experimenta constantemente actividad sísmica debido a su ubicación geográfica. recordando la tragedia ocurrida en agosto de 2007 frente a la ciudad costera de pisco, donde un terremoto de magnitud 7.9 dejó a su paso más de 500 fallecidos y cuantiosas pérdidas materiales, las autoridades y la población de arequipa permanecen en alerta ante la posibilidad de réplicas y nuevos eventos sísmicos en la región.",
+    "tokens": [
+      "sismo",
+      "magnitud",
+      "5.7",
+      "estremeció",
+      "región",
+      "arequipa",
+      ",",
+      "sur",
+      "perú",
+      ",",
+      "siendo",
+      "segundo",
+      "evento",
+      "telúrico",
+      "cuestión",
+      "horas",
+      "sacude",
+      "zona",
+      ".",
+      "instituto",
+      "geofísico",
+      "perú",
+      "(",
+      "igp",
+      ")",
+      "informó",
+      "temblor",
+      "lugar",
+      "15h46",
+      "sábado",
+      ",",
+      "epicentro",
+      "océano",
+      "pacífico",
+      ",",
+      "41",
+      "kilómetros",
+      "sur",
+      "yauca",
+      ",",
+      "provincia",
+      "caravelí",
+      ".",
+      "autoridades",
+      "defensa",
+      "civil",
+      "dirección",
+      "hidrografía",
+      "navegación",
+      "marina",
+      "guerra",
+      "perú",
+      "confirmado",
+      "ausencia",
+      "alerta",
+      "tsunami",
+      "litoral",
+      "país",
+      ".",
+      "centro",
+      "operaciones",
+      "emergencia",
+      "nacional",
+      "(",
+      "coen",
+      ")",
+      "mantuvo",
+      "vigilante",
+      "situación",
+      "emitió",
+      "mensaje",
+      "alerta",
+      "través",
+      "plataformas",
+      "digitales",
+      ",",
+      "destacando",
+      "importancia",
+      "supervisar",
+      "zonas",
+      "vulnerables",
+      ".",
+      "según",
+      "coen",
+      ",",
+      "sismo",
+      "población",
+      "yauca",
+      "intensidad",
+      "osciló",
+      "leve",
+      "moderada",
+      ".",
+      "incidente",
+      "segundo",
+      "tipo",
+      "región",
+      "arequipa",
+      "día",
+      ",",
+      "horas",
+      "registró",
+      "movimiento",
+      "telúrico",
+      "magnitud",
+      "5",
+      ",",
+      "epicentro",
+      "océano",
+      "pacífico",
+      ",",
+      "40",
+      "kilómetros",
+      "sur",
+      "yauca",
+      ".",
+      "perú",
+      ",",
+      "ubicado",
+      "cinturón",
+      "fuego",
+      "pacífico",
+      ",",
+      "experimenta",
+      "constantemente",
+      "actividad",
+      "sísmica",
+      "debido",
+      "ubicación",
+      "geográfica",
+      ".",
+      "recordando",
+      "tragedia",
+      "ocurrida",
+      "agosto",
+      "2007",
+      "frente",
+      "ciudad",
+      "costera",
+      "pisco",
+      ",",
+      "terremoto",
+      "magnitud",
+      "7.9",
+      "dejó",
+      "paso",
+      "500",
+      "fallecidos",
+      "cuantiosas",
+      "pérdidas",
+      "materiales",
+      ",",
+      "autoridades",
+      "población",
+      "arequipa",
+      "permanecen",
+      "alerta",
+      "posibilidad",
+      "réplicas",
+      "nuevos",
+      "eventos",
+      "sísmicos",
+      "región",
+      "."
+    ],
+    "token_count": 164,
+    "sentence_count": 8
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 42,
+      "NN": 73,
+      "IN": 14,
+      "FW": 85,
+      "CD": 7,
+      "JJ": 17,
+      "VBP": 6,
+      "VBD": 2,
+      "NNS": 7,
+      "VBZ": 1
+    },
+    "bigram_freq": {
+      "NNP-NN": 10,
+      "NN-IN": 10,
+      "IN-FW": 6,
+      "FW-CD": 2,
+      "CD-NN": 3,
+      "NN-NN": 35,
+      "NN-FW": 13,
+      "FW-FW": 49,
+      "FW-NNP": 17,
+      "NNP-FW": 11,
+      "IN-NN": 2,
+      "FW-NN": 11,
+      "FW-JJ": 5,
+      "JJ-NN": 10,
+      "NN-NNP": 6,
+      "NNP-NNP": 13,
+      "NN-VBP": 2,
+      "VBP-NN": 2,
+      "NN-VBD": 1,
+      "VBD-CD": 1,
+      "CD-IN": 1,
+      "NN-JJ": 3,
+      "IN-JJ": 1,
+      "NNP-CD": 2,
+      "CD-NNS": 3,
+      "NNS-JJ": 3,
+      "JJ-FW": 5,
+      "NNP-IN": 3,
+      "IN-NNP": 3,
+      "NNP-VBD": 1,
+      "VBD-JJ": 1,
+      "NN-NNS": 1,
+      "NNS-VBP": 3,
+      "VBP-JJ": 1,
+      "FW-NNS": 1,
+      "NNS-NNP": 1,
+      "NNP-VBP": 1,
+      "VBP-NNP": 1,
+      "NN-VBZ": 1,
+      "VBZ-JJ": 1,
+      "NNP-JJ": 1,
+      "IN-CD": 2,
+      "JJ-JJ": 1,
+      "JJ-NNS": 1,
+      "VBP-NNS": 1,
+      "VBP-FW": 1
+    },
+    "trigram_freq": {
+      "NNP-NN-IN": 1,
+      "NN-IN-FW": 5,
+      "IN-FW-CD": 2,
+      "FW-CD-NN": 2,
+      "CD-NN-NN": 2,
+      "NN-NN-FW": 6,
+      "NN-FW-FW": 7,
+      "FW-FW-NNP": 10,
+      "FW-NNP-FW": 7,
+      "NNP-FW-FW": 2,
+      "FW-FW-FW": 34,
+      "FW-NNP-NN": 4,
+      "NNP-NN-NN": 6,
+      "NN-NN-NN": 17,
+      "NN-NN-IN": 4,
+      "NN-IN-NN": 1,
+      "IN-NN-FW": 1,
+      "NN-FW-NN": 5,
+      "FW-NN-IN": 3,
+      "IN-FW-JJ": 1,
+      "FW-JJ-NN": 4,
+      "JJ-NN-NN": 6,
+      "NN-NN-NNP": 3,
+      "NN-NNP-NNP": 3,
+      "NNP-NNP-NNP": 4,
+      "NNP-NNP-FW": 2,
+      "NNP-FW-NNP": 6,
+      "FW-NNP-NNP": 5,
+      "NNP-NNP-NN": 3,
+      "NN-NN-VBP": 2,
+      "NN-VBP-NN": 2,
+      "VBP-NN-NN": 1,
+      "NN-NN-VBD": 1,
+      "NN-VBD-CD": 1,
+      "VBD-CD-IN": 1,
+      "CD-IN-NN": 1,
+      "IN-NN-JJ": 1,
+      "NN-JJ-NN": 3,
+      "NN-IN-JJ": 1,
+      "IN-JJ-NN": 1,
+      "JJ-NN-NNP": 2,
+      "NN-NNP-CD": 1,
+      "NNP-CD-NNS": 2,
+      "CD-NNS-JJ": 3,
+      "NNS-JJ-FW": 2,
+      "JJ-FW-FW": 5,
+      "NN-NNP-IN": 1,
+      "NNP-IN-NNP": 2,
+      "IN-NNP-NNP": 1,
+      "NNP-NNP-IN": 2,
+      "NNP-IN-FW": 1,
+      "IN-FW-NNP": 1,
+      "FW-FW-JJ": 2,
+      "IN-NNP-FW": 1,
+      "NNP-NNP-VBD": 1,
+      "NNP-VBD-JJ": 1,
+      "VBD-JJ-NN": 1,
+      "FW-JJ-FW": 1,
+      "FW-FW-NN": 2,
+      "FW-NN-NNS": 1,
+      "NN-NNS-VBP": 1,
+      "NNS-VBP-JJ": 1,
+      "VBP-JJ-FW": 1,
+      "FW-FW-NNS": 1,
+      "FW-NNS-NNP": 1,
+      "NNS-NNP-VBP": 1,
+      "NNP-VBP-NNP": 1,
+      "VBP-NNP-FW": 1,
+      "NNP-FW-NN": 2,
+      "FW-NN-NN": 3,
+      "NNP-FW-JJ": 1,
+      "VBP-NN-NNP": 1,
+      "NN-NNP-NN": 1,
+      "IN-FW-NN": 2,
+      "FW-NN-FW": 3,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 1,
+      "FW-NNP-CD": 1,
+      "NNP-NNP-JJ": 1,
+      "NNP-JJ-FW": 1,
+      "NN-NN-JJ": 1,
+      "NNP-NN-FW": 2,
+      "NN-IN-CD": 2,
+      "IN-CD-NN": 1,
+      "CD-NN-FW": 1,
+      "NN-FW-JJ": 1,
+      "JJ-NN-IN": 2,
+      "NN-IN-NNP": 1,
+      "IN-NNP-NN": 1,
+      "NNP-NN-JJ": 1,
+      "IN-CD-NNS": 1,
+      "NNS-JJ-JJ": 1,
+      "JJ-JJ-NNS": 1,
+      "JJ-NNS-VBP": 1,
+      "NNS-VBP-NNS": 1,
+      "VBP-NNS-VBP": 1,
+      "NNS-VBP-FW": 1,
+      "VBP-FW-FW": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "FW": 85,
+        "NN": 73,
+        "NNP": 42,
+        "JJ": 17,
+        "IN": 14
+      },
+      "top_bigrams": {
+        "FW-FW": 49,
+        "NN-NN": 35,
+        "FW-NNP": 17,
+        "NN-FW": 13,
+        "NNP-NNP": 13
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 34,
+        "NN-NN-NN": 17,
+        "FW-FW-NNP": 10,
+        "NN-FW-FW": 7,
+        "FW-NNP-FW": 7
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 8,
+    "chunk_counts": {
+      "NP": 70,
+      "PP": 7,
+      "VP": 12,
+      "ADJP": 5
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 4,
+        "weight": 0.0392
+      },
+      {
+        "rule": "NP -> ('Perú', 'NNP')",
+        "frequency": 3,
+        "weight": 0.0294
+      },
+      {
+        "rule": "NP -> ('Yauca', 'NNP')",
+        "frequency": 3,
+        "weight": 0.0294
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0196
+      },
+      {
+        "rule": "NP -> ('el', 'JJ') ('océano', 'NN') ('Pacífico', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0196
+      },
+      {
+        "rule": "NP -> ('kilómetros', 'NNS')",
+        "frequency": 2,
+        "weight": 0.0196
+      },
+      {
+        "rule": "ADJP -> ('al', 'JJ')",
+        "frequency": 2,
+        "weight": 0.0196
+      },
+      {
+        "rule": "S -> NP ('de', 'IN') ('magnitud', 'FW') ('5.7', 'CD') NP ('región', 'FW') ('de', 'FW') NP (',', ',') ('en', 'FW') ('el', 'FW') ('sur', 'FW') ('de', 'FW') NP (',', ',') NP ('el', 'FW') NP PP ('en', 'FW') NP ('de', 'IN') ('horas', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0098
+      },
+      {
+        "rule": "NP -> ('Un', 'NNP') ('sismo', 'NN')",
+        "frequency": 1,
+        "weight": 0.0098
+      },
+      {
+        "rule": "NP -> ('estremeció', 'NN') ('la', 'NN')",
+        "frequency": 1,
+        "weight": 0.0098
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Un sismo"
+      },
+      {
+        "label": "NP",
+        "text": "estremeció la"
+      },
+      {
+        "label": "NP",
+        "text": "Arequipa"
+      },
+      {
+        "label": "NP",
+        "text": "Perú"
+      },
+      {
+        "label": "NP",
+        "text": "siendo"
+      },
+      {
+        "label": "NP",
+        "text": "segundo"
+      },
+      {
+        "label": "PP",
+        "text": "evento telúrico"
+      },
+      {
+        "label": "NP",
+        "text": "telúrico"
+      },
+      {
+        "label": "NP",
+        "text": "cuestión"
+      },
+      {
+        "label": "NP",
+        "text": "que sacude la zona"
+      },
+      {
+        "label": "NP",
+        "text": "El Instituto Geofísico"
+      },
+      {
+        "label": "NP",
+        "text": "Perú"
+      },
+      {
+        "label": "NP",
+        "text": "IGP"
+      },
+      {
+        "label": "VP",
+        "text": "informó que"
+      },
+      {
+        "label": "NP",
+        "text": "temblor tuvo"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Un/NNP sismo/NN)\n  de/IN\n  magnitud/FW\n  5.7/CD\n  (NP estremeció/NN la/NN)\n  región/FW\n  de/FW\n  (NP Arequipa/NNP)\n  ,/,\n  en/FW\n  el/FW\n  sur/FW\n  de/FW\n  (NP Perú/NNP)\n  ,/,\n  (NP siendo/NN)\n  el/FW\n  (NP segundo/NN)\n  (PP evento/IN (NP telúrico/NN))\n  en/FW\n  (NP cuestión/NN)\n  de/IN\n  horas/FW\n  (NP que/JJ sacude/NN la/NN zona/NN)\n  ./.)",
+      "(S\n  (NP El/NNP Instituto/NNP Geofísico/NNP)\n  del/FW\n  (NP Perú/NNP)\n  (/(\n  (NP IGP/NNP)\n  )/)\n  (VP informó/VBP que/JJ)\n  el/FW\n  (NP temblor/NN tuvo/NN)\n  (VP lugar/VBD)\n  a/DT\n  (ADJP las/JJ)\n  15H46/CD\n  (PP de/IN (NP este/NN sábado/NN))\n  ,/,\n  (NP con/NN epicentro/NN)\n  (PP en/IN (NP el/JJ océano/NN Pacífico/NNP))\n  ,/,\n  a/DT\n  41/CD\n  (NP kilómetros/NNS)\n  (ADJP al/JJ)\n  sur/FW\n  de/FW\n  (NP Yauca/NNP)\n  ,/,\n  en/FW\n  la/FW\n  provincia/FW\n  de/FW\n  (NP Caravelí/NNP)\n  ./.)",
+      "(S\n  (NP Tanto/NNP)\n  (VP las/VBD (NP autoridades/NNS))\n  de/IN\n  la/FW\n  (NP Defensa/NNP Civil/NNP como/NN la/NN Dirección/NNP)\n  (PP de/IN (NP Hidrografía/NNP y/NNP Navegación/NNP))\n  de/IN\n  la/FW\n  (NP Marina/NNP)\n  de/FW\n  (NP Guerra/NNP)\n  de/FW\n  (NP Perú/NNP han/NN confirmado/NN)\n  la/FW\n  ausencia/FW\n  de/FW\n  alerta/FW\n  de/FW\n  tsunami/FW\n  en/FW\n  el/FW\n  (NP litoral/JJ del/NN país/NN)\n  ./.)",
+      "(S\n  (NP El/NNP Centro/NNP)\n  (PP de/IN (NP Operaciones/NNP))\n  de/FW\n  (NP Emergencia/NNP Nacional/NNP)\n  (/(\n  (NP COEN/NNP)\n  )/)\n  (VP se/VBD (NP mantuvo/JJ vigilante/NN ante/NN))\n  la/FW\n  situación/FW\n  y/FW\n  emitió/FW\n  (ADJP un/JJ)\n  mensaje/FW\n  de/FW\n  alerta/FW\n  (NP a/DT través/NN)\n  de/IN\n  sus/FW\n  (NP plataformas/NN digitales/NNS)\n  ,/,\n  (NP destacando/NN)\n  la/FW\n  importancia/FW\n  de/FW\n  supervisar/FW\n  las/FW\n  (NP zonas/NN vulnerables/NNS)\n  ./.)",
+      "(S\n  (NP Según/NNP el/NN COEN/NNP)\n  ,/,\n  (VP el/VBZ (NP sismo/JJ fue/NN sentido/NN por/NN))\n  la/FW\n  población/FW\n  de/FW\n  (NP Yauca/NNP)\n  en/FW\n  (NP una/JJ intensidad/NN que/NN osciló/NN entre/NN)\n  (VP leve/VBP (NP y/NN moderada/NN))\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "DESASTRES_ACCIDENTES_EMERGENCIAS",
+      "CANTIDADES_NUMERICAS",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "REGIONES_PROVINCIAS",
+      "INSTITUCIONES_EDUCATIVAS",
+      "PERIODOS_TEMPORALES",
+      "PAISES",
+      "LOCALIZACIONES_ESPECIFICAS",
+      "CONFLICTOS_ARMADOS_OPERACIONES",
+      "JURIDICO_LEGISLATIVO_CORRUPCION"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "guerra de perú han confirmado la ausencia de alerta de tsunami en el",
+        "position": [
+          457,
+          525
+        ],
+        "start": 457,
+        "end": 525
+      },
+      {
+        "category": "DESASTRES_ACCIDENTES_EMERGENCIAS",
+        "matched_text": "sismo de magnitud 5.7",
+        "position": [
+          3,
+          24
+        ],
+        "start": 3,
+        "end": 24
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "informó",
+        "position": [
+          191,
+          198
+        ],
+        "start": 191,
+        "end": 198
+      },
+      {
+        "category": "JURIDICO_LEGISLATIVO_CORRUPCION",
+        "matched_text": "defensa",
+        "position": [
+          381,
+          388
+        ],
+        "start": 381,
+        "end": 388
+      },
+      {
+        "category": "INSTITUCIONES_EDUCATIVAS",
+        "matched_text": "instituto geofísico del",
+        "position": [
+          156,
+          179
+        ],
+        "start": 156,
+        "end": 179
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "perú",
+        "position": [
+          72,
+          76
+        ],
+        "start": 72,
+        "end": 76
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "pacífico",
+        "position": [
+          280,
+          288
+        ],
+        "start": 280,
+        "end": 288
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "región de",
+        "position": [
+          39,
+          48
+        ],
+        "start": 39,
+        "end": 48
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "centro de",
+        "position": [
+          547,
+          556
+        ],
+        "start": 547,
+        "end": 556
+      },
+      {
+        "category": "PERIODOS_TEMPORALES",
+        "matched_text": "durante el día",
+        "position": [
+          949,
+          963
+        ],
+        "start": 949,
+        "end": 963
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "más de 500",
+        "position": [
+          1382,
+          1392
+        ],
+        "start": 1382,
+        "end": 1392
+      }
+    ],
+    "match_count": 11
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Yauca",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Pisco",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Cinturón de Fuego del Pacífico",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Instituto Geofísico del Perú",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Defensa Civil",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Centro",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Perú",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Arequipa",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Caravelí",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Recordando",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "océano Pacífico",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "IGP",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "COEN",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Dirección de Hidrografía y Navegación de la Marina de Guerra de Perú",
+        "tipo": "Organizacion"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Instituto Geofísico del Perú",
+        "relacion": "INFORMAR",
+        "objeto": "océano Pacífico"
+      },
+      {
+        "sujeto": "Instituto Geofísico del Perú",
+        "relacion": "INFORMAR",
+        "objeto": "Yauca"
+      },
+      {
+        "sujeto": "Instituto Geofísico del Perú",
+        "relacion": "INFORMAR",
+        "objeto": "Caravelí"
+      },
+      {
+        "sujeto": "IGP",
+        "relacion": "INFORMAR",
+        "objeto": "océano Pacífico"
+      },
+      {
+        "sujeto": "IGP",
+        "relacion": "INFORMAR",
+        "objeto": "Yauca"
+      },
+      {
+        "sujeto": "IGP",
+        "relacion": "INFORMAR",
+        "objeto": "Caravelí"
+      },
+      {
+        "sujeto": "océano Pacífico",
+        "relacion": "TENER_INFORMAR",
+        "objeto": "Caravelí"
+      },
+      {
+        "sujeto": "Yauca",
+        "relacion": "TENER_INFORMAR",
+        "objeto": "Caravelí"
+      },
+      {
+        "sujeto": "COEN",
+        "relacion": "SENTIR",
+        "objeto": "Yauca"
+      },
+      {
+        "sujeto": "Recordando",
+        "relacion": "RECORDAR_PERMANECER",
+        "objeto": "Pisco"
+      },
+      {
+        "sujeto": "Recordando",
+        "relacion": "RECORDAR_PERMANECER",
+        "objeto": "Arequipa"
+      },
+      {
+        "sujeto": "Pisco",
+        "relacion": "RECORDAR_PERMANECER",
+        "objeto": "Arequipa"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.0,
+    "pos": 0.0,
+    "neu": 1.0,
+    "neg": 0.0,
+    "label": "neutral"
+  }
+}

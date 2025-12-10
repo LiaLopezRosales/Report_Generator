@@ -1,0 +1,679 @@
+{
+  "url": "https://www.telesurtv.net/cuatro-palestinos-mas-asesinados-tras-21-dias-de-asalto-sionista-a-cisjordania/",
+  "title": "Cuatro palestinos más asesinados, tras 21 días de asalto sionista a Cisjordania - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Israel",
+    "Palestina"
+  ],
+  "text": "Las fuerzas sionistas han matado en las últimas horas al menos a cuatro palestinos en la Cisjordania ocupada, según informan los medios de comunicación, al entrar en su tercera semana la mayor operación militar de Israel en el territorio palestino desde principios de la década de 2000.\nDe acuerdo a fuentes médicas, tres personas murieron en un ataque con drones contra un vehículo en la ciudad de Tulkarem el miércoles por la noche, mientras que otra fue abatida por un francotirador israelí en el campo de refugiados de Far’a, cerca de la ciudad de Tubas.\nEl ataque con dron israelí en Tulkarem incendió el vehículo, así como una vivienda cercana, informaron medios de prensa locales.\nTodo ello sucedió al mismo tiempo que en Far’a, donde un francotirador israelí mató a Sufyan Jawad Fayez Abdul Jawad, de 46 años.\nEstos homicidios elevaron al menos a 50 el número total de víctimas mortales de la operación militarizada a gran escala, lanzada por Israel en Cisjordania el 28 de agosto. La cifra incluía a cinco personas que murieron en un ataque aéreo contra Tubas a primera hora del miércoles.\nAl mismo tiempo se conoció que las excavadoras de la ocupación sionista destruyeron  la infraestructura de la entrada al campamento de Nour Shams.\nMedios de prensa locales dieron cuenta de que dos bulldozers pesados de la ocupación, acompañados por varios vehículos militares, irrumpieron en la plaza de entrada del campamento y en el barrio de Manshiya y comenzaron a arrasar la infraestructura, extendiéndose a lo largo de la adyacente calle Nablus.\nLas fuerzas de ocupación también causaron daños en las redes de comunicación e Internet, lo que provocó un corte en los servicios de Internet en todo el campamento.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/cuatro-palestinos-mas-asesinados-tras-21-dias-de-asalto-sionista-a-cisjordania/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-09.json",
+    "message_index": 1101,
+    "message_id": 76188,
+    "date": "2024-09-12T22:55:18+00:00",
+    "text": "teleSUR\nCuatro palestinos más asesinados, tras 21 días de asalto sionista a Cisjordania\nhttps://www.telesurtv.net/cuatro-palestinos-mas-asesinados-tras-21-dias-de-asalto-sionista-a-cisjordania/",
+    "photo_path": null,
+    "views": 2666,
+    "reactions": {
+      "😡": 59,
+      "😢": 7,
+      "👎": 2,
+      "🔥": 1,
+      "🤬": 1
+    },
+    "total_reactions": 70
+  },
+  "preprocessing": {
+    "cleaned": "las fuerzas sionistas han matado en las últimas horas al menos a cuatro palestinos en la cisjordania ocupada, según informan los medios de comunicación, al entrar en su tercera semana la mayor operación militar de israel en el territorio palestino desde principios de la década de 2000. de acuerdo a fuentes médicas, tres personas murieron en un ataque con drones contra un vehículo en la ciudad de tulkarem el miércoles por la noche, mientras que otra fue abatida por un francotirador israelí en el campo de refugiados de far’a, cerca de la ciudad de tubas. el ataque con dron israelí en tulkarem incendió el vehículo, así como una vivienda cercana, informaron medios de prensa locales. todo ello sucedió al mismo tiempo que en far’a, donde un francotirador israelí mató a sufyan jawad fayez abdul jawad, de 46 años. estos homicidios elevaron al menos a 50 el número total de víctimas mortales de la operación militarizada a gran escala, lanzada por israel en cisjordania el 28 de agosto. la cifra incluía a cinco personas que murieron en un ataque aéreo contra tubas a primera hora del miércoles. al mismo tiempo se conoció que las excavadoras de la ocupación sionista destruyeron la infraestructura de la entrada al campamento de nour shams. medios de prensa locales dieron cuenta de que dos bulldozers pesados de la ocupación, acompañados por varios vehículos militares, irrumpieron en la plaza de entrada del campamento y en el barrio de manshiya y comenzaron a arrasar la infraestructura, extendiéndose a lo largo de la adyacente calle nablus. las fuerzas de ocupación también causaron daños en las redes de comunicación e internet, lo que provocó un corte en los servicios de internet en todo el campamento.",
+    "tokens": [
+      "fuerzas",
+      "sionistas",
+      "matado",
+      "últimas",
+      "horas",
+      "menos",
+      "cuatro",
+      "palestinos",
+      "cisjordania",
+      "ocupada",
+      ",",
+      "según",
+      "informan",
+      "medios",
+      "comunicación",
+      ",",
+      "entrar",
+      "tercera",
+      "semana",
+      "mayor",
+      "operación",
+      "militar",
+      "israel",
+      "territorio",
+      "palestino",
+      "principios",
+      "década",
+      "2000.",
+      "acuerdo",
+      "fuentes",
+      "médicas",
+      ",",
+      "tres",
+      "personas",
+      "murieron",
+      "ataque",
+      "drones",
+      "vehículo",
+      "ciudad",
+      "tulkarem",
+      "miércoles",
+      "noche",
+      ",",
+      "mientras",
+      "abatida",
+      "francotirador",
+      "israelí",
+      "campo",
+      "refugiados",
+      "far",
+      "’",
+      ",",
+      "cerca",
+      "ciudad",
+      "tubas",
+      ".",
+      "ataque",
+      "dron",
+      "israelí",
+      "tulkarem",
+      "incendió",
+      "vehículo",
+      ",",
+      "así",
+      "vivienda",
+      "cercana",
+      ",",
+      "informaron",
+      "medios",
+      "prensa",
+      "locales",
+      ".",
+      "ello",
+      "sucedió",
+      "mismo",
+      "tiempo",
+      "far",
+      "’",
+      ",",
+      "francotirador",
+      "israelí",
+      "mató",
+      "sufyan",
+      "jawad",
+      "fayez",
+      "abdul",
+      "jawad",
+      ",",
+      "46",
+      "años",
+      ".",
+      "homicidios",
+      "elevaron",
+      "menos",
+      "50",
+      "número",
+      "total",
+      "víctimas",
+      "mortales",
+      "operación",
+      "militarizada",
+      "gran",
+      "escala",
+      ",",
+      "lanzada",
+      "israel",
+      "cisjordania",
+      "28",
+      "agosto",
+      ".",
+      "cifra",
+      "incluía",
+      "cinco",
+      "personas",
+      "murieron",
+      "ataque",
+      "aéreo",
+      "tubas",
+      "primera",
+      "hora",
+      "miércoles",
+      ".",
+      "mismo",
+      "tiempo",
+      "conoció",
+      "excavadoras",
+      "ocupación",
+      "sionista",
+      "destruyeron",
+      "infraestructura",
+      "entrada",
+      "campamento",
+      "nour",
+      "shams",
+      ".",
+      "medios",
+      "prensa",
+      "locales",
+      "dieron",
+      "cuenta",
+      "dos",
+      "bulldozers",
+      "pesados",
+      "ocupación",
+      ",",
+      "acompañados",
+      "varios",
+      "vehículos",
+      "militares",
+      ",",
+      "irrumpieron",
+      "plaza",
+      "entrada",
+      "campamento",
+      "barrio",
+      "manshiya",
+      "comenzaron",
+      "arrasar",
+      "infraestructura",
+      ",",
+      "extendiéndose",
+      "largo",
+      "adyacente",
+      "calle",
+      "nablus",
+      ".",
+      "fuerzas",
+      "ocupación",
+      "causaron",
+      "daños",
+      "redes",
+      "comunicación",
+      "internet",
+      ",",
+      "provocó",
+      "corte",
+      "servicios",
+      "internet",
+      "campamento",
+      "."
+    ],
+    "token_count": 180,
+    "sentence_count": 9
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 32,
+      "NN": 81,
+      "NNS": 18,
+      "VBP": 13,
+      "RB": 1,
+      "JJ": 21,
+      "VBZ": 2,
+      "FW": 81,
+      "MD": 1,
+      "VB": 1,
+      "IN": 16,
+      "CD": 4,
+      "CC": 1,
+      "VBD": 1
+    },
+    "bigram_freq": {
+      "NNP-NN": 10,
+      "NN-NNS": 3,
+      "NNS-VBP": 11,
+      "VBP-RB": 1,
+      "RB-JJ": 1,
+      "JJ-NN": 10,
+      "NN-NNP": 3,
+      "NNP-VBZ": 1,
+      "VBZ-JJ": 2,
+      "JJ-NNS": 6,
+      "VBP-NNS": 2,
+      "VBP-FW": 1,
+      "FW-NNP": 9,
+      "NNP-MD": 1,
+      "MD-VB": 1,
+      "VB-JJ": 1,
+      "JJ-JJ": 1,
+      "NNS-IN": 2,
+      "IN-NN": 2,
+      "NN-NN": 44,
+      "NN-IN": 11,
+      "NN-FW": 10,
+      "FW-NN": 12,
+      "IN-NNP": 4,
+      "NNP-FW": 5,
+      "FW-FW": 52,
+      "NN-JJ": 8,
+      "IN-FW": 8,
+      "FW-CD": 1,
+      "CD-NNP": 1,
+      "FW-VBZ": 1,
+      "VBP-NN": 2,
+      "FW-JJ": 2,
+      "VBP-JJ": 5,
+      "NNP-CC": 1,
+      "CC-NNS": 1,
+      "JJ-FW": 3,
+      "NNP-NNP": 10,
+      "FW-NNS": 4,
+      "NNS-NNP": 3,
+      "NNP-VBP": 1,
+      "NNP-IN": 1,
+      "IN-CD": 1,
+      "CD-NNS": 1,
+      "NNP-NNS": 1,
+      "NNS-CD": 1,
+      "CD-NN": 1,
+      "NNP-VBD": 1,
+      "VBD-CD": 1,
+      "CD-FW": 1,
+      "JJ-NNP": 1,
+      "VBP-IN": 2,
+      "NN-VBP": 1,
+      "IN-JJ": 1,
+      "NNS-FW": 1
+    },
+    "trigram_freq": {
+      "NNP-NN-NNS": 1,
+      "NN-NNS-VBP": 2,
+      "NNS-VBP-RB": 1,
+      "VBP-RB-JJ": 1,
+      "RB-JJ-NN": 1,
+      "JJ-NN-NNP": 1,
+      "NN-NNP-VBZ": 1,
+      "NNP-VBZ-JJ": 1,
+      "VBZ-JJ-NNS": 2,
+      "JJ-NNS-VBP": 2,
+      "NNS-VBP-NNS": 2,
+      "VBP-NNS-VBP": 2,
+      "NNS-VBP-FW": 1,
+      "VBP-FW-NNP": 1,
+      "FW-NNP-MD": 1,
+      "NNP-MD-VB": 1,
+      "MD-VB-JJ": 1,
+      "VB-JJ-JJ": 1,
+      "JJ-JJ-NNS": 1,
+      "JJ-NNS-IN": 2,
+      "NNS-IN-NN": 1,
+      "IN-NN-NN": 2,
+      "NN-NN-NN": 24,
+      "NN-NN-IN": 5,
+      "NN-IN-NN": 1,
+      "NN-NN-FW": 3,
+      "NN-FW-NN": 3,
+      "FW-NN-FW": 4,
+      "FW-NN-IN": 2,
+      "NN-IN-NNP": 4,
+      "IN-NNP-FW": 1,
+      "NNP-FW-FW": 2,
+      "FW-FW-NN": 7,
+      "FW-NN-NN": 6,
+      "NN-NN-JJ": 6,
+      "NN-JJ-NNS": 1,
+      "NNS-IN-FW": 1,
+      "IN-FW-FW": 8,
+      "FW-FW-FW": 33,
+      "FW-FW-CD": 1,
+      "FW-CD-NNP": 1,
+      "CD-NNP-FW": 1,
+      "NNP-FW-VBZ": 1,
+      "FW-VBZ-JJ": 1,
+      "NNS-VBP-NN": 2,
+      "VBP-NN-FW": 2,
+      "NN-FW-JJ": 2,
+      "FW-JJ-NN": 2,
+      "JJ-NN-NN": 6,
+      "NN-NN-NNS": 2,
+      "NNS-VBP-JJ": 3,
+      "VBP-JJ-NN": 2,
+      "JJ-NN-IN": 3,
+      "NN-IN-FW": 5,
+      "FW-FW-NNP": 7,
+      "FW-NNP-CC": 1,
+      "NNP-CC-NNS": 1,
+      "CC-NNS-VBP": 1,
+      "VBP-JJ-FW": 2,
+      "JJ-FW-FW": 3,
+      "NN-JJ-NN": 5,
+      "FW-NNP-NN": 2,
+      "NNP-NN-IN": 1,
+      "FW-NNP-NNP": 3,
+      "NNP-NNP-NN": 2,
+      "NNP-NN-NN": 6,
+      "IN-NNP-NN": 3,
+      "NN-FW-FW": 5,
+      "FW-FW-NNS": 4,
+      "FW-NNS-NNP": 1,
+      "NNS-NNP-VBP": 1,
+      "NNP-VBP-JJ": 1,
+      "NNP-NN-JJ": 1,
+      "NN-NN-NNP": 2,
+      "NN-NNP-NNP": 2,
+      "NNP-NNP-NNP": 5,
+      "NNP-NNP-IN": 1,
+      "NNP-IN-CD": 1,
+      "IN-CD-NNS": 1,
+      "CD-NNS-NNP": 1,
+      "NNS-NNP-NNS": 1,
+      "NNP-NNS-VBP": 1,
+      "VBP-JJ-NNS": 1,
+      "JJ-NNS-CD": 1,
+      "NNS-CD-NN": 1,
+      "CD-NN-JJ": 1,
+      "NNP-NNP-VBD": 1,
+      "NNP-VBD-CD": 1,
+      "VBD-CD-FW": 1,
+      "CD-FW-FW": 1,
+      "FW-NNP-FW": 2,
+      "NNP-FW-NN": 2,
+      "NN-JJ-NNP": 1,
+      "JJ-NNP-NN": 1,
+      "NN-NNS-NNP": 1,
+      "NNS-NNP-NN": 1,
+      "NN-JJ-FW": 1,
+      "NNP-NNP-FW": 1,
+      "FW-NNS-VBP": 3,
+      "NNS-VBP-IN": 2,
+      "VBP-IN-FW": 2,
+      "NN-NN-VBP": 1,
+      "NN-VBP-JJ": 1,
+      "NNP-NN-FW": 1,
+      "NN-IN-JJ": 1,
+      "IN-JJ-NNS": 1,
+      "JJ-NNS-FW": 1,
+      "NNS-FW-NNP": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 81,
+        "FW": 81,
+        "NNP": 32,
+        "JJ": 21,
+        "NNS": 18
+      },
+      "top_bigrams": {
+        "FW-FW": 52,
+        "NN-NN": 44,
+        "FW-NN": 12,
+        "NNS-VBP": 11,
+        "NN-IN": 11
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 33,
+        "NN-NN-NN": 24,
+        "IN-FW-FW": 8,
+        "FW-FW-NN": 7,
+        "FW-FW-NNP": 7
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 9,
+    "chunk_counts": {
+      "NP": 71,
+      "VP": 19,
+      "PP": 6,
+      "ADJP": 2
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 3,
+        "weight": 0.028
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 3,
+        "weight": 0.028
+      },
+      {
+        "rule": "NP -> ('un', 'JJ') ('francotirador', 'NN') ('israelí', 'NN')",
+        "frequency": 2,
+        "weight": 0.0187
+      },
+      {
+        "rule": "NP -> ('Far', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0187
+      },
+      {
+        "rule": "VP -> ('’', 'VBZ')",
+        "frequency": 2,
+        "weight": 0.0187
+      },
+      {
+        "rule": "NP -> ('locales', 'NNS')",
+        "frequency": 2,
+        "weight": 0.0187
+      },
+      {
+        "rule": "NP -> ('Internet', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0187
+      },
+      {
+        "rule": "S -> NP VP VP VP ('en', 'IN') ('la', 'FW') NP (',', ',') NP NP ('de', 'FW') ('comunicación', 'FW') (',', ',') ('al', 'FW') ('entrar', 'FW') ('en', 'FW') ('su', 'FW') NP ('la', 'FW') NP ('operación', 'FW') NP PP ('en', 'FW') ('el', 'FW') NP NP ('de', 'IN') ('la', 'FW') ('década', 'FW') ('de', 'IN') ('2000', 'CD') ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0093
+      },
+      {
+        "rule": "NP -> ('Las', 'NNP') ('fuerzas', 'NN') ('sionistas', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0093
+      },
+      {
+        "rule": "VP -> ('han', 'VBP') ('matado', 'RB') NP",
+        "frequency": 1,
+        "weight": 0.0093
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Las fuerzas sionistas"
+      },
+      {
+        "label": "VP",
+        "text": "han matado en las últimas"
+      },
+      {
+        "label": "NP",
+        "text": "en las últimas"
+      },
+      {
+        "label": "VP",
+        "text": "horas al"
+      },
+      {
+        "label": "VP",
+        "text": "menos a cuatro palestinos"
+      },
+      {
+        "label": "NP",
+        "text": "a cuatro palestinos"
+      },
+      {
+        "label": "NP",
+        "text": "Cisjordania ocupada"
+      },
+      {
+        "label": "NP",
+        "text": "según informan"
+      },
+      {
+        "label": "NP",
+        "text": "los medios"
+      },
+      {
+        "label": "NP",
+        "text": "tercera semana"
+      },
+      {
+        "label": "NP",
+        "text": "mayor"
+      },
+      {
+        "label": "NP",
+        "text": "militar"
+      },
+      {
+        "label": "PP",
+        "text": "de Israel"
+      },
+      {
+        "label": "NP",
+        "text": "Israel"
+      },
+      {
+        "label": "NP",
+        "text": "territorio palestino"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Las/NNP fuerzas/NN sionistas/NNS)\n  (VP han/VBP matado/RB (NP en/JJ las/NN últimas/NNP))\n  (VP horas/VBZ al/RB)\n  (VP menos/VB (NP a/DT cuatro/NN palestinos/NN))\n  en/IN\n  la/FW\n  (NP Cisjordania/NNP ocupada/NN)\n  ,/,\n  (NP según/JJ informan/NN)\n  (NP los/JJ medios/NNS)\n  de/FW\n  comunicación/FW\n  ,/,\n  al/FW\n  entrar/FW\n  en/FW\n  su/FW\n  (NP tercera/NN semana/NN)\n  la/FW\n  (NP mayor/NN)\n  operación/FW\n  (NP militar/NN)\n  (PP de/IN (NP Israel/NNP))\n  en/FW\n  el/FW\n  (NP territorio/NN palestino/NN)\n  (NP desde/JJ principios/NNS)\n  de/IN\n  la/FW\n  década/FW\n  de/IN\n  2000/CD\n  ./.)",
+      "(S\n  (NP De/NNP)\n  (VP acuerdo/VBZ (NP a/DT fuentes/NNS médicas/NN))\n  ,/,\n  (VP tres/VBZ (NP personas/JJ murieron/NN))\n  en/FW\n  (NP un/JJ ataque/NN con/NN drones/NNS)\n  (VP contra/VBP (NP un/JJ vehículo/NN))\n  en/IN\n  la/FW\n  ciudad/FW\n  de/FW\n  (NP Tulkarem/NNP)\n  el/CC\n  (NP miércoles/NNS)\n  (VP por/VBP (NP la/JJ noche/NN))\n  ,/,\n  mientras/FW\n  (NP que/JJ otra/JJ fue/NN abatida/NN por/NN)\n  (NP un/JJ francotirador/NN israelí/NN)\n  en/IN\n  el/FW\n  campo/FW\n  de/FW\n  refugiados/FW\n  de/FW\n  (NP Far/NNP)\n  (VP ’/VBZ)\n  a/DT\n  ,/,\n  (NP cerca/NN)\n  de/FW\n  la/FW\n  ciudad/FW\n  de/FW\n  (NP Tubas/NNP)\n  ./.)",
+      "(S\n  (NP El/NNP ataque/NN con/NN dron/NN israelí/NN)\n  (PP en/IN (NP Tulkarem/NNP incendió/NN el/NN vehículo/NN))\n  ,/,\n  (NP así/JJ como/NN)\n  (NP una/JJ vivienda/NN cercana/NN)\n  ,/,\n  (ADJP informaron/JJ)\n  medios/FW\n  de/FW\n  prensa/FW\n  (NP locales/NNS)\n  ./.)",
+      "(S\n  (NP Todo/NNP)\n  ello/CC\n  (NP sucedió/JJ al/NN mismo/NN tiempo/NN que/NN)\n  (PP en/IN (NP Far/NNP))\n  (VP ’/VBZ)\n  a/DT\n  ,/,\n  (NP donde/NN)\n  (NP un/JJ francotirador/NN israelí/NN)\n  (VP\n    mató/VBD\n    (NP a/DT Sufyan/NNP Jawad/NNP Fayez/NNP Abdul/NNP Jawad/NNP))\n  ,/,\n  de/FW\n  46/CD\n  (NP años/NN)\n  ./.)",
+      "(S\n  (NP Estos/NNP homicidios/NNS)\n  (VP elevaron/VBP al/JJ)\n  (VP menos/VBP)\n  a/DT\n  50/CD\n  (NP el/NN)\n  (NP número/JJ total/NN)\n  de/IN\n  víctimas/FW\n  mortales/FW\n  de/FW\n  la/FW\n  operación/FW\n  militarizada/FW\n  (NP a/DT gran/NN escala/NN)\n  ,/,\n  (NP lanzada/JJ por/NN Israel/NNP en/NNP Cisjordania/NNP)\n  (VP el/VBD)\n  28/CD\n  (PP de/IN (NP agosto/NN))\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "LOCALIZACIONES_ESPECIFICAS",
+      "PAISES",
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "INFRAESTRUCTURA_SERVICIOS",
+      "CONFLICTOS_ARMADOS_OPERACIONES"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "ataque aéreo",
+        "position": [
+          1043,
+          1055
+        ],
+        "start": 1043,
+        "end": 1055
+      },
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "ocupación",
+        "position": [
+          1152,
+          1161
+        ],
+        "start": 1152,
+        "end": 1161
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "calle",
+        "position": [
+          1537,
+          1542
+        ],
+        "start": 1537,
+        "end": 1542
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "israelí",
+        "position": [
+          486,
+          493
+        ],
+        "start": 486,
+        "end": 493
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "plaza de",
+        "position": [
+          1394,
+          1402
+        ],
+        "start": 1394,
+        "end": 1402
+      }
+    ],
+    "match_count": 5
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Manshiya",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Far’a",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Tubas",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Sufyan Jawad Fayez Abdul Jawad",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Cisjordania",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Nablus",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Israel",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Nour Shams",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Tulkarem",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Cisjordania",
+        "relacion": "MATAR",
+        "objeto": "Israel"
+      },
+      {
+        "sujeto": "Far’a",
+        "relacion": "ABATIR",
+        "objeto": "Tubas"
+      },
+      {
+        "sujeto": "Manshiya",
+        "relacion": "IRRUMPIR_DAR",
+        "objeto": "Nablus"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.0,
+    "pos": 0.0,
+    "neu": 1.0,
+    "neg": 0.0,
+    "label": "neutral"
+  }
+}

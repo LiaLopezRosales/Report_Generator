@@ -1,0 +1,834 @@
+{
+  "url": "https://www.telesurtv.net/buque-escuela-simon-bolivar-de-venezuela-arriba-a-santiago-de-cuba/",
+  "title": "Buque Escuela Simón Bolívar de Venezuela arriba a Santiago de Cuba - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "Buque Escuela",
+    "Cuba",
+    "Simón Bolívar",
+    "Venezuela"
+  ],
+  "text": "\nEl Buque Escuela Simón Bolívar de Venezuela arribó este sábado a Santiago de Cuba en una visita que forma parte del XXXIV Crucero de Instrucción al Exterior en 2024.\n\nA través de su cuenta en la red social X, el ministro para la Defensa, Vladimir Padrino López, destacó que este buque lleva “el mensaje de paz y amistad entre nuestras naciones hermanas”.\n“Nuestro Buque Escuela AB “Simón Bolívar” (BE-11) continúa su crucero de Integración Caribeña y ha arribado hoy a Santiago de Cuba para llevar el mensaje de paz y amistad entre nuestras naciones hermanas, unidas por la causa justa de la dignidad”, destacó.\nEl buque permanecerá en Cuba entre el 15 y 19 de junio. Además, podrá ser visitado por la población los días 16, 17 y 18 de este mes, entre las 10H00 y las 18H00 (hora local).\nPor su parte, el embajador de la nación suramericana en Cuba, Orlando Maneiro, destacó que “Venezuela llegará seguro a puerto, en victoria, en batalla, en lucha”.\n“El pueblo venezolano, con la conciencia revolucionaria, a pesar de estar navegando en aguas turbulentas producto de las medidas coercitivas unilaterales que nos han impuesto los Estados Unidos y sus aliados, Venezuela llegará seguro a puerto, en victoria, en batalla, en lucha, bajo el liderazgo de nuestro presidente Nicolás Maduro, comandante en jefe de las Fuerzas Armadas”, aseveró.\nDe acuerdo con el Ministerio para la Defensa de Venezuela, está previsto que el Buque Escuela siga su travesía hacia Santa Marta, en Colombia, y luego a Willemstad, Curazao.\nFinalmente, llegará el próximo 13 de julio al puerto de La Guaira en Venezuela.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/buque-escuela-simon-bolivar-de-venezuela-arriba-a-santiago-de-cuba/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-06.json",
+    "message_index": 517,
+    "message_id": 72226,
+    "date": "2024-06-15T21:55:07+00:00",
+    "text": "teleSUR\nBuque Escuela Simón Bolívar de Venezuela arriba a Santiago de Cuba\nhttps://www.telesurtv.net/buque-escuela-simon-bolivar-de-venezuela-arriba-a-santiago-de-cuba/",
+    "photo_path": null,
+    "views": 1779,
+    "reactions": {},
+    "total_reactions": 0
+  },
+  "preprocessing": {
+    "cleaned": "el buque escuela simón bolívar de venezuela arribó este sábado a santiago de cuba en una visita que forma parte del xxxiv crucero de instrucción al exterior en 2024. a través de su cuenta en la red social x, el ministro para la defensa, vladimir padrino lópez, destacó que este buque lleva “el mensaje de paz y amistad entre nuestras naciones hermanas”. “nuestro buque escuela ab “simón bolívar” (be-11) continúa su crucero de integración caribeña y ha arribado hoy a santiago de cuba para llevar el mensaje de paz y amistad entre nuestras naciones hermanas, unidas por la causa justa de la dignidad”, destacó. el buque permanecerá en cuba entre el 15 y 19 de junio. además, podrá ser visitado por la población los días 16, 17 y 18 de este mes, entre las 10h00 y las 18h00 (hora local). por su parte, el embajador de la nación suramericana en cuba, orlando maneiro, destacó que “venezuela llegará seguro a puerto, en victoria, en batalla, en lucha”. “el pueblo venezolano, con la conciencia revolucionaria, a pesar de estar navegando en aguas turbulentas producto de las medidas coercitivas unilaterales que nos han impuesto los estados unidos y sus aliados, venezuela llegará seguro a puerto, en victoria, en batalla, en lucha, bajo el liderazgo de nuestro presidente nicolás maduro, comandante en jefe de las fuerzas armadas”, aseveró. de acuerdo con el ministerio para la defensa de venezuela, está previsto que el buque escuela siga su travesía hacia santa marta, en colombia, y luego a willemstad, curazao. finalmente, llegará el próximo 13 de julio al puerto de la guaira en venezuela.",
+    "tokens": [
+      "buque",
+      "escuela",
+      "simón",
+      "bolívar",
+      "venezuela",
+      "arribó",
+      "sábado",
+      "santiago",
+      "cuba",
+      "visita",
+      "forma",
+      "parte",
+      "xxxiv",
+      "crucero",
+      "instrucción",
+      "exterior",
+      "2024.",
+      "través",
+      "cuenta",
+      "red",
+      "social",
+      "x",
+      ",",
+      "ministro",
+      "defensa",
+      ",",
+      "vladimir",
+      "padrino",
+      "lópez",
+      ",",
+      "destacó",
+      "buque",
+      "lleva",
+      "“",
+      "mensaje",
+      "paz",
+      "amistad",
+      "naciones",
+      "hermanas",
+      "”",
+      ".",
+      "“",
+      "buque",
+      "escuela",
+      "ab",
+      "“",
+      "simón",
+      "bolívar",
+      "”",
+      "(",
+      "be-11",
+      ")",
+      "continúa",
+      "crucero",
+      "integración",
+      "caribeña",
+      "arribado",
+      "hoy",
+      "santiago",
+      "cuba",
+      "llevar",
+      "mensaje",
+      "paz",
+      "amistad",
+      "naciones",
+      "hermanas",
+      ",",
+      "unidas",
+      "causa",
+      "justa",
+      "dignidad",
+      "”",
+      ",",
+      "destacó",
+      ".",
+      "buque",
+      "permanecerá",
+      "cuba",
+      "15",
+      "19",
+      "junio",
+      ".",
+      "además",
+      ",",
+      "podrá",
+      "ser",
+      "visitado",
+      "población",
+      "días",
+      "16",
+      ",",
+      "17",
+      "18",
+      "mes",
+      ",",
+      "10h00",
+      "18h00",
+      "(",
+      "hora",
+      "local",
+      ")",
+      ".",
+      "parte",
+      ",",
+      "embajador",
+      "nación",
+      "suramericana",
+      "cuba",
+      ",",
+      "orlando",
+      "maneiro",
+      ",",
+      "destacó",
+      "“",
+      "venezuela",
+      "llegará",
+      "seguro",
+      "puerto",
+      ",",
+      "victoria",
+      ",",
+      "batalla",
+      ",",
+      "lucha",
+      "”",
+      ".",
+      "“",
+      "pueblo",
+      "venezolano",
+      ",",
+      "conciencia",
+      "revolucionaria",
+      ",",
+      "pesar",
+      "navegando",
+      "aguas",
+      "turbulentas",
+      "producto",
+      "medidas",
+      "coercitivas",
+      "unilaterales",
+      "impuesto",
+      "unidos",
+      "aliados",
+      ",",
+      "venezuela",
+      "llegará",
+      "seguro",
+      "puerto",
+      ",",
+      "victoria",
+      ",",
+      "batalla",
+      ",",
+      "lucha",
+      ",",
+      "bajo",
+      "liderazgo",
+      "presidente",
+      "nicolás",
+      "maduro",
+      ",",
+      "comandante",
+      "jefe",
+      "fuerzas",
+      "armadas",
+      "”",
+      ",",
+      "aseveró",
+      ".",
+      "acuerdo",
+      "ministerio",
+      "defensa",
+      "venezuela",
+      ",",
+      "previsto",
+      "buque",
+      "escuela",
+      "siga",
+      "travesía",
+      "hacia",
+      "santa",
+      "marta",
+      ",",
+      "colombia",
+      ",",
+      "luego",
+      "willemstad",
+      ",",
+      "curazao",
+      ".",
+      "finalmente",
+      ",",
+      "llegará",
+      "próximo",
+      "13",
+      "julio",
+      "puerto",
+      "guaira",
+      "venezuela",
+      "."
+    ],
+    "token_count": 201,
+    "sentence_count": 9
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 58,
+      "FW": 55,
+      "CC": 2,
+      "NN": 78,
+      "IN": 16,
+      "JJ": 14,
+      "VBP": 4,
+      "CD": 9,
+      "NNS": 9,
+      "VBZ": 3,
+      "RB": 2,
+      "VBD": 1
+    },
+    "bigram_freq": {
+      "NNP-NNP": 25,
+      "NNP-FW": 10,
+      "FW-NNP": 10,
+      "NNP-CC": 2,
+      "CC-NN": 1,
+      "NN-NN": 41,
+      "NN-NNP": 12,
+      "NNP-IN": 4,
+      "IN-NNP": 7,
+      "FW-JJ": 1,
+      "JJ-NN": 10,
+      "NN-JJ": 3,
+      "NNP-VBP": 2,
+      "VBP-NNP": 1,
+      "FW-CD": 1,
+      "CD-NN": 1,
+      "NN-FW": 8,
+      "FW-FW": 30,
+      "FW-NN": 10,
+      "NN-IN": 11,
+      "IN-NN": 4,
+      "JJ-JJ": 3,
+      "NNP-NN": 11,
+      "IN-FW": 5,
+      "FW-NNS": 3,
+      "NNS-NNS": 2,
+      "NNS-NNP": 1,
+      "NNS-JJ": 1,
+      "VBP-VBZ": 1,
+      "VBZ-CD": 1,
+      "CD-CD": 3,
+      "CD-NNS": 3,
+      "NNS-FW": 2,
+      "NN-CD": 2,
+      "NNS-VBP": 2,
+      "VBP-RB": 2,
+      "RB-CD": 1,
+      "NNS-CD": 1,
+      "CD-JJ": 1,
+      "JJ-NNP": 1,
+      "NNP-VBZ": 2,
+      "VBZ-JJ": 2,
+      "NN-NNS": 1,
+      "RB-JJ": 1,
+      "CC-JJ": 1,
+      "NNP-VBD": 1,
+      "VBD-JJ": 1,
+      "CD-IN": 1
+    },
+    "trigram_freq": {
+      "NNP-NNP-NNP": 12,
+      "NNP-NNP-FW": 4,
+      "NNP-FW-NNP": 5,
+      "FW-NNP-CC": 2,
+      "NNP-CC-NN": 1,
+      "CC-NN-NN": 1,
+      "NN-NN-NNP": 11,
+      "NN-NNP-IN": 2,
+      "NNP-IN-NNP": 4,
+      "IN-NNP-FW": 2,
+      "NNP-FW-JJ": 1,
+      "FW-JJ-NN": 1,
+      "JJ-NN-NN": 7,
+      "NN-NN-JJ": 2,
+      "NN-JJ-NN": 2,
+      "NN-NNP-NNP": 5,
+      "NNP-NNP-IN": 2,
+      "IN-NNP-VBP": 2,
+      "NNP-VBP-NNP": 1,
+      "VBP-NNP-FW": 1,
+      "NNP-FW-CD": 1,
+      "FW-CD-NN": 1,
+      "CD-NN-FW": 1,
+      "NN-FW-FW": 3,
+      "FW-FW-NN": 2,
+      "FW-NN-IN": 2,
+      "NN-IN-NN": 3,
+      "IN-NN-JJ": 1,
+      "NN-JJ-JJ": 1,
+      "JJ-JJ-NN": 2,
+      "NN-NN-NN": 18,
+      "NNP-NNP-NN": 6,
+      "NNP-NN-NN": 10,
+      "NN-NN-IN": 6,
+      "NN-IN-FW": 5,
+      "IN-FW-FW": 4,
+      "FW-FW-FW": 23,
+      "FW-FW-NNS": 2,
+      "FW-NNS-NNS": 2,
+      "NNS-NNS-NNP": 1,
+      "NNS-NNP-NNP": 1,
+      "NN-IN-NNP": 3,
+      "IN-NNP-NNP": 2,
+      "IN-NNP-NN": 1,
+      "NN-NN-FW": 2,
+      "NNS-NNS-JJ": 1,
+      "NNS-JJ-JJ": 1,
+      "FW-FW-NNP": 3,
+      "FW-NNP-NN": 1,
+      "NNP-VBP-VBZ": 1,
+      "VBP-VBZ-CD": 1,
+      "VBZ-CD-CD": 1,
+      "CD-CD-NNS": 2,
+      "CD-NNS-FW": 2,
+      "NNS-FW-NNP": 1,
+      "FW-NNP-FW": 2,
+      "NNP-FW-NN": 3,
+      "FW-NN-NN": 4,
+      "NN-FW-NN": 5,
+      "NN-NN-CD": 2,
+      "NN-CD-CD": 1,
+      "CD-CD-CD": 1,
+      "NNS-FW-NNS": 1,
+      "FW-NNS-VBP": 1,
+      "NNS-VBP-RB": 2,
+      "VBP-RB-CD": 1,
+      "RB-CD-NNS": 1,
+      "CD-NNS-CD": 1,
+      "NNS-CD-JJ": 1,
+      "CD-JJ-JJ": 1,
+      "JJ-JJ-NNP": 1,
+      "JJ-NNP-NN": 1,
+      "JJ-NN-IN": 3,
+      "FW-NNP-NNP": 4,
+      "NN-NNP-VBZ": 2,
+      "NNP-VBZ-JJ": 2,
+      "VBZ-JJ-NN": 2,
+      "IN-NN-FW": 2,
+      "FW-NN-FW": 2,
+      "FW-NN-NNP": 1,
+      "NN-NNP-NN": 2,
+      "FW-NN-NNS": 1,
+      "NN-NNS-VBP": 1,
+      "VBP-RB-JJ": 1,
+      "RB-JJ-NN": 1,
+      "NNP-NN-FW": 1,
+      "IN-FW-NNP": 1,
+      "NN-NNP-FW": 1,
+      "NNP-CC-JJ": 1,
+      "CC-JJ-NN": 1,
+      "NNP-NNP-VBD": 1,
+      "NNP-VBD-JJ": 1,
+      "VBD-JJ-NN": 1,
+      "NN-CD-IN": 1,
+      "CD-IN-NN": 1,
+      "IN-NN-NN": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 78,
+        "NNP": 58,
+        "FW": 55,
+        "IN": 16,
+        "JJ": 14
+      },
+      "top_bigrams": {
+        "NN-NN": 41,
+        "FW-FW": 30,
+        "NNP-NNP": 25,
+        "NN-NNP": 12,
+        "NN-IN": 11
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 23,
+        "NN-NN-NN": 18,
+        "NNP-NNP-NNP": 12,
+        "NN-NN-NNP": 11,
+        "NNP-NN-NN": 10
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 9,
+    "chunk_counts": {
+      "NP": 74,
+      "VP": 17,
+      "PP": 8,
+      "ADJP": 1
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 6,
+        "weight": 0.055
+      },
+      {
+        "rule": "NP -> ('Venezuela', 'NNP')",
+        "frequency": 4,
+        "weight": 0.0367
+      },
+      {
+        "rule": "NP -> ('Cuba', 'NNP')",
+        "frequency": 3,
+        "weight": 0.0275
+      },
+      {
+        "rule": "NP -> ('a', 'DT') ('Santiago', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0183
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0183
+      },
+      {
+        "rule": "VP -> ('llegará', 'VBZ')",
+        "frequency": 2,
+        "weight": 0.0183
+      },
+      {
+        "rule": "VP -> ('seguro', 'VB') NP",
+        "frequency": 2,
+        "weight": 0.0183
+      },
+      {
+        "rule": "NP -> ('a', 'DT') ('puerto', 'NN')",
+        "frequency": 2,
+        "weight": 0.0183
+      },
+      {
+        "rule": "NP -> ('victoria', 'NN')",
+        "frequency": 2,
+        "weight": 0.0183
+      },
+      {
+        "rule": "NP -> ('batalla', 'NN')",
+        "frequency": 2,
+        "weight": 0.0183
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El Buque Escuela Simón Bolívar"
+      },
+      {
+        "label": "NP",
+        "text": "Venezuela"
+      },
+      {
+        "label": "NP",
+        "text": "este"
+      },
+      {
+        "label": "VP",
+        "text": "sábado a Santiago"
+      },
+      {
+        "label": "NP",
+        "text": "a Santiago"
+      },
+      {
+        "label": "NP",
+        "text": "Cuba"
+      },
+      {
+        "label": "NP",
+        "text": "una visita que"
+      },
+      {
+        "label": "NP",
+        "text": "forma parte del XXXIV Crucero"
+      },
+      {
+        "label": "PP",
+        "text": "de Instrucción"
+      },
+      {
+        "label": "NP",
+        "text": "Instrucción"
+      },
+      {
+        "label": "VP",
+        "text": "al Exterior en"
+      },
+      {
+        "label": "NP",
+        "text": "Exterior en"
+      },
+      {
+        "label": "NP",
+        "text": "A través"
+      },
+      {
+        "label": "NP",
+        "text": "cuenta"
+      },
+      {
+        "label": "PP",
+        "text": "en la"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP El/NNP Buque/NNP Escuela/NNP Simón/NNP Bolívar/NNP)\n  de/FW\n  (NP Venezuela/NNP)\n  arribó/CC\n  (NP este/NN)\n  (VP sábado/VBP (NP a/DT Santiago/NNP))\n  de/FW\n  (NP Cuba/NNP)\n  en/FW\n  (NP una/JJ visita/NN que/NN)\n  (NP forma/JJ parte/NN del/NN XXXIV/NNP Crucero/NNP)\n  (PP de/IN (NP Instrucción/NNP))\n  (VP al/VBP (NP Exterior/NNP en/NN))\n  2024/CD\n  ./.)",
+      "(S\n  (NP A/DT través/NN)\n  de/IN\n  su/FW\n  (NP cuenta/NN)\n  (PP en/IN (NP la/NN))\n  (NP red/JJ social/JJ X/NNP)\n  ,/,\n  el/FW\n  ministro/FW\n  (NP para/NN la/NN Defensa/NNP)\n  ,/,\n  (NP Vladimir/NNP Padrino/NNP López/NNP)\n  ,/,\n  (NP destacó/NN que/NN este/NN buque/NN lleva/NN “/NNP)\n  (VP el/VBZ)\n  mensaje/FW\n  de/FW\n  paz/FW\n  y/FW\n  amistad/FW\n  entre/FW\n  nuestras/FW\n  (NP naciones/NNS hermanas/NNS ”/NNP)\n  ./.)",
+      "(S\n  (NP\n    “/JJ\n    Nuestro/NNP\n    Buque/NNP\n    Escuela/NNP\n    AB/NNP\n    “/NNP\n    Simón/NNP\n    Bolívar/NNP\n    ”/NNP)\n  (/(\n  (NP BE-11/NNP)\n  )/)\n  (NP continúa/NN)\n  (NP su/JJ crucero/NN)\n  (PP\n    de/IN\n    (NP Integración/NNP Caribeña/NNP y/NNP ha/NN arribado/NN))\n  (VP hoy/VBD (NP a/DT Santiago/NNP))\n  de/FW\n  (NP Cuba/NNP para/NN llevar/NN)\n  el/FW\n  mensaje/FW\n  de/FW\n  paz/FW\n  y/FW\n  amistad/FW\n  entre/FW\n  nuestras/FW\n  (NP naciones/NNS hermanas/NNS)\n  ,/,\n  (NP unidas/JJ por/NN la/NN causa/NN justa/NN)\n  de/IN\n  la/FW\n  dignidad/FW\n  ”/FW\n  ,/,\n  (NP destacó/NN)\n  ./.)",
+      "(S\n  (NP El/NNP buque/NN permanecerá/NN)\n  (PP en/IN (NP Cuba/NNP))\n  (VP entre/VBP el/RB)\n  15/CD\n  (ADJP y/JJ)\n  19/CD\n  (PP de/IN (NP junio/NN))\n  ./.)",
+      "(S\n  (NP Además/NNP)\n  ,/,\n  (VP podrá/VBZ (NP ser/JJR visitado/NN por/NN la/NN))\n  población/FW\n  (NP los/NN días/NN)\n  16/CD\n  ,/,\n  17/CD\n  (NP y/NN)\n  18/CD\n  (PP de/IN (NP este/NN mes/NNS))\n  ,/,\n  (VP entre/VBP las/JJ)\n  10H00/CD\n  (NP y/JJ las/NNS)\n  18H00/CD\n  (/(\n  (VP hora/VB local/JJ)\n  )/)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "CIUDADES_CAPITALES",
+      "GOBIERNOS_OFICIALES",
+      "APROBACION_RECHAZO",
+      "TIEMPO_RELATIVO",
+      "INSTITUCIONES_EDUCATIVAS",
+      "PAISES",
+      "LOCALIZACIONES_ESPECIFICAS",
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "INFRAESTRUCTURA_SERVICIOS",
+      "RELACIONES_INTERNACIONALES",
+      "JURIDICO_LEGISLATIVO_CORRUPCION"
+    ],
+    "matches": [
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "impuesto",
+        "position": [
+          1118,
+          1126
+        ],
+        "start": 1118,
+        "end": 1126
+      },
+      {
+        "category": "RELACIONES_INTERNACIONALES",
+        "matched_text": "acuerdo con el ministerio para la defensa de venezuela, está previsto que el buque escuela siga su travesía hacia santa marta, en colombia, y luego",
+        "position": [
+          1343,
+          1490
+        ],
+        "start": 1343,
+        "end": 1490
+      },
+      {
+        "category": "JURIDICO_LEGISLATIVO_CORRUPCION",
+        "matched_text": "defensa",
+        "position": [
+          230,
+          237
+        ],
+        "start": 230,
+        "end": 237
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente nicolás maduro",
+        "position": [
+          1260,
+          1285
+        ],
+        "start": 1260,
+        "end": 1285
+      },
+      {
+        "category": "INSTITUCIONES_EDUCATIVAS",
+        "matched_text": "escuela simón bolívar",
+        "position": [
+          10,
+          31
+        ],
+        "start": 10,
+        "end": 31
+      },
+      {
+        "category": "APROBACION_RECHAZO",
+        "matched_text": "destacó",
+        "position": [
+          263,
+          270
+        ],
+        "start": 263,
+        "end": 270
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "escuela",
+        "position": [
+          10,
+          17
+        ],
+        "start": 10,
+        "end": 17
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "puerto",
+        "position": [
+          908,
+          914
+        ],
+        "start": 908,
+        "end": 914
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "cuba",
+        "position": [
+          78,
+          82
+        ],
+        "start": 78,
+        "end": 82
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "estados unidos",
+        "position": [
+          1131,
+          1145
+        ],
+        "start": 1131,
+        "end": 1145
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "venezuela",
+        "position": [
+          35,
+          44
+        ],
+        "start": 35,
+        "end": 44
+      },
+      {
+        "category": "CIUDADES_CAPITALES",
+        "matched_text": "santiago",
+        "position": [
+          66,
+          74
+        ],
+        "start": 66,
+        "end": 74
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "escuela simón",
+        "position": [
+          10,
+          23
+        ],
+        "start": 10,
+        "end": 23
+      },
+      {
+        "category": "TIEMPO_RELATIVO",
+        "matched_text": "hoy",
+        "position": [
+          464,
+          467
+        ],
+        "start": 464,
+        "end": 467
+      }
+    ],
+    "match_count": 14
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Nicolás Maduro",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Venezuela",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "los Estados Unidos",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Integración Caribeña",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Orlando Maneiro",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "La Guaira",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Vladimir Padrino López",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Santiago de Cuba",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Curazao",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Colombia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Defensa",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Santa Marta",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Fuerzas Armadas",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Willemstad",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Ministerio para la Defensa de Venezuela",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Cuba",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Venezuela",
+        "relacion": "ARRIBAR",
+        "objeto": "Santiago de Cuba"
+      },
+      {
+        "sujeto": "Integración Caribeña",
+        "relacion": "CONTINUAR_DESTACAR",
+        "objeto": "Santiago de Cuba"
+      },
+      {
+        "sujeto": "Venezuela",
+        "relacion": "DESTACAR",
+        "objeto": "Cuba"
+      },
+      {
+        "sujeto": "Venezuela",
+        "relacion": "DESTACAR",
+        "objeto": "Orlando Maneiro"
+      },
+      {
+        "sujeto": "los Estados Unidos",
+        "relacion": "IMPONER_NAVEGAR_LLEGAR_ASEVERAR",
+        "objeto": "Venezuela"
+      },
+      {
+        "sujeto": "los Estados Unidos",
+        "relacion": "IMPONER_NAVEGAR_LLEGAR_ASEVERAR",
+        "objeto": "Nicolás Maduro"
+      },
+      {
+        "sujeto": "los Estados Unidos",
+        "relacion": "IMPONER_NAVEGAR_LLEGAR_ASEVERAR",
+        "objeto": "Fuerzas Armadas"
+      },
+      {
+        "sujeto": "Venezuela",
+        "relacion": "LLEGAR_ASEVERAR",
+        "objeto": "Nicolás Maduro"
+      },
+      {
+        "sujeto": "Venezuela",
+        "relacion": "LLEGAR_ASEVERAR",
+        "objeto": "Fuerzas Armadas"
+      },
+      {
+        "sujeto": "La Guaira",
+        "relacion": "LLEGAR",
+        "objeto": "Venezuela"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.34,
+    "pos": 0.009,
+    "neu": 0.991,
+    "neg": 0.0,
+    "label": "positive"
+  }
+}

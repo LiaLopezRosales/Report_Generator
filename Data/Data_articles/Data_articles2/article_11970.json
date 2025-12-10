@@ -1,0 +1,783 @@
+{
+  "url": "https://www.telesurtv.net/israel-perpreta-ataques-contra-la-franja-de-gaza-y-deja-numerosas-victimas/",
+  "title": "Israel perpetra ataques contra la Franja de Gaza y deja numerosas víctimas - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Ataque",
+    "Gaza",
+    "Israel"
+  ],
+  "text": "Israel perpetró varios ataques consecutivos contra zonas residenciales de la Franja de Gaza en la madrugada del jueves, causando la muerte de al menos 35 personas y dejando más de 50 heridos.\nUno de los ataques, contra la zona residencial de Yarmouk, dejó un saldo de 25 víctimas mortales, mientras que otra acción del grupo genocida se efectuó en la misma zona y causó 10 muertes adicionales.\nEn total, ambas agresiones causaron 35 víctimas mortales en Yarmouk, más 50 heridos.\nPosteriormente, los ataques continuaron en los barrios de Al-Sabra y Tal Al-Hawa, en el sur de la ciudad, así como en el campo de refugiados de Nuseirat, en el centro de Gaza, donde tres civiles murieron y varios resultaron heridos tras el bombardeo de una vivienda.\nLos aviones de combate israelíes también descargaron disparon contra las zonas central y oriental de Rafah, y las zonas orientales de Khuza’a y Al-Fakhari, al este de Khan Yunis, en el sur de Gaza.\nEl Hospital Al Awda reportó una gran cantidad de heridos, muchos de ellos niños y mujeres, tras un bombardeo contra una vivienda en la zona del Bloque cinco, cerca del hospital.\nSegún el Ministerio de Salud de Gaza, la agresión israelí, iniciada el 7 de octubre de 2023, ha dejado un saldo de 44.532 muertos y 105.538 heridos hasta la fecha.\nEl informe del Ministerio, correspondiente al día 425 de la agresión, detalla que en las últimas 24 horas se registraron tres masacres contra familias, resultando en 30 muertos y 84 heridos.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/israel-perpreta-ataques-contra-la-franja-de-gaza-y-deja-numerosas-victimas/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-12.json",
+    "message_index": 1530,
+    "message_id": 81791,
+    "date": "2024-12-05T11:55:11+00:00",
+    "text": "teleSUR\nIsrael perpetra ataques contra la Franja de Gaza y deja numerosas víctimas\nhttps://www.telesurtv.net/israel-perpreta-ataques-contra-la-franja-de-gaza-y-deja-numerosas-victimas/",
+    "photo_path": null,
+    "views": 1996,
+    "reactions": {
+      "🤬": 33,
+      "💩": 5,
+      "🤯": 1
+    },
+    "total_reactions": 39
+  },
+  "preprocessing": {
+    "cleaned": "israel perpetró varios ataques consecutivos contra zonas residenciales de la franja de gaza en la madrugada del jueves, causando la muerte de al menos 35 personas y dejando más de 50 heridos. uno de los ataques, contra la zona residencial de yarmouk, dejó un saldo de 25 víctimas mortales, mientras que otra acción del grupo genocida se efectuó en la misma zona y causó 10 muertes adicionales. en total, ambas agresiones causaron 35 víctimas mortales en yarmouk, más 50 heridos. posteriormente, los ataques continuaron en los barrios de al-sabra y tal al-hawa, en el sur de la ciudad, así como en el campo de refugiados de nuseirat, en el centro de gaza, donde tres civiles murieron y varios resultaron heridos tras el bombardeo de una vivienda. los aviones de combate israelíes también descargaron disparon contra las zonas central y oriental de rafah, y las zonas orientales de khuza’a y al-fakhari, al este de khan yunis, en el sur de gaza. el hospital al awda reportó una gran cantidad de heridos, muchos de ellos niños y mujeres, tras un bombardeo contra una vivienda en la zona del bloque cinco, cerca del hospital. según el ministerio de salud de gaza, la agresión israelí, iniciada el 7 de octubre de 2023, ha dejado un saldo de 44.532 muertos y 105.538 heridos hasta la fecha. el informe del ministerio, correspondiente al día 425 de la agresión, detalla que en las últimas 24 horas se registraron tres masacres contra familias, resultando en 30 muertos y 84 heridos.",
+    "tokens": [
+      "israel",
+      "perpetró",
+      "varios",
+      "ataques",
+      "consecutivos",
+      "zonas",
+      "residenciales",
+      "franja",
+      "gaza",
+      "madrugada",
+      "jueves",
+      ",",
+      "causando",
+      "muerte",
+      "menos",
+      "35",
+      "personas",
+      "dejando",
+      "50",
+      "heridos",
+      ".",
+      "ataques",
+      ",",
+      "zona",
+      "residencial",
+      "yarmouk",
+      ",",
+      "dejó",
+      "saldo",
+      "25",
+      "víctimas",
+      "mortales",
+      ",",
+      "mientras",
+      "acción",
+      "grupo",
+      "genocida",
+      "efectuó",
+      "misma",
+      "zona",
+      "causó",
+      "10",
+      "muertes",
+      "adicionales",
+      ".",
+      "total",
+      ",",
+      "ambas",
+      "agresiones",
+      "causaron",
+      "35",
+      "víctimas",
+      "mortales",
+      "yarmouk",
+      ",",
+      "50",
+      "heridos",
+      ".",
+      "posteriormente",
+      ",",
+      "ataques",
+      "continuaron",
+      "barrios",
+      "al-sabra",
+      "tal",
+      "al-hawa",
+      ",",
+      "sur",
+      "ciudad",
+      ",",
+      "así",
+      "campo",
+      "refugiados",
+      "nuseirat",
+      ",",
+      "centro",
+      "gaza",
+      ",",
+      "tres",
+      "civiles",
+      "murieron",
+      "varios",
+      "resultaron",
+      "heridos",
+      "tras",
+      "bombardeo",
+      "vivienda",
+      ".",
+      "aviones",
+      "combate",
+      "israelíes",
+      "descargaron",
+      "disparon",
+      "zonas",
+      "central",
+      "oriental",
+      "rafah",
+      ",",
+      "zonas",
+      "orientales",
+      "khuza",
+      "’",
+      "al-fakhari",
+      ",",
+      "khan",
+      "yunis",
+      ",",
+      "sur",
+      "gaza",
+      ".",
+      "hospital",
+      "awda",
+      "reportó",
+      "gran",
+      "cantidad",
+      "heridos",
+      ",",
+      "niños",
+      "mujeres",
+      ",",
+      "tras",
+      "bombardeo",
+      "vivienda",
+      "zona",
+      "bloque",
+      "cinco",
+      ",",
+      "cerca",
+      "hospital",
+      ".",
+      "según",
+      "ministerio",
+      "salud",
+      "gaza",
+      ",",
+      "agresión",
+      "israelí",
+      ",",
+      "iniciada",
+      "7",
+      "octubre",
+      "2023",
+      ",",
+      "dejado",
+      "saldo",
+      "44.532",
+      "muertos",
+      "105.538",
+      "heridos",
+      "fecha",
+      ".",
+      "informe",
+      "ministerio",
+      ",",
+      "correspondiente",
+      "día",
+      "425",
+      "agresión",
+      ",",
+      "detalla",
+      "últimas",
+      "24",
+      "horas",
+      "registraron",
+      "tres",
+      "masacres",
+      "familias",
+      ",",
+      "resultando",
+      "30",
+      "muertos",
+      "84",
+      "heridos",
+      "."
+    ],
+    "token_count": 174,
+    "sentence_count": 8
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 32,
+      "NN": 43,
+      "NNS": 29,
+      "VBP": 14,
+      "JJ": 23,
+      "VBZ": 4,
+      "IN": 14,
+      "FW": 66,
+      "CD": 13,
+      "$": 1,
+      "CC": 1,
+      "VBD": 1
+    },
+    "bigram_freq": {
+      "NNP-NN": 9,
+      "NN-NNS": 7,
+      "NNS-NNS": 3,
+      "NNS-VBP": 12,
+      "VBP-JJ": 6,
+      "JJ-NNS": 6,
+      "NNS-VBZ": 3,
+      "VBZ-IN": 1,
+      "IN-FW": 5,
+      "FW-NNP": 10,
+      "NNP-FW": 9,
+      "FW-FW": 43,
+      "FW-NNS": 2,
+      "JJ-FW": 3,
+      "FW-CD": 3,
+      "CD-NNS": 8,
+      "NNS-JJ": 4,
+      "CD-JJ": 1,
+      "JJ-NNP": 3,
+      "NN-FW": 5,
+      "NN-JJ": 3,
+      "JJ-NN": 9,
+      "NN-IN": 7,
+      "IN-CD": 4,
+      "JJ-JJ": 2,
+      "NN-NN": 16,
+      "FW-NN": 4,
+      "NN-CD": 1,
+      "NNS-NNP": 1,
+      "NNP-JJ": 2,
+      "VBP-CD": 1,
+      "CD-NN": 3,
+      "VBP-NNP": 1,
+      "NNP-$": 1,
+      "$-CD": 1,
+      "NN-NNP": 3,
+      "VBP-IN": 2,
+      "IN-JJ": 1,
+      "NNS-IN": 2,
+      "IN-NNP": 4,
+      "NNP-NNP": 8,
+      "VBZ-VBP": 1,
+      "VBP-NNS": 2,
+      "VBP-NN": 2,
+      "NNP-NNS": 1,
+      "NNS-FW": 1,
+      "FW-VBP": 1,
+      "NNP-CC": 1,
+      "CC-JJ": 1,
+      "FW-JJ": 2,
+      "NNP-VBZ": 1,
+      "VBZ-NNP": 1,
+      "FW-IN": 1,
+      "NNS-CD": 2,
+      "NN-VBD": 1,
+      "VBD-CD": 1,
+      "CD-IN": 1,
+      "VBZ-JJ": 1
+    },
+    "trigram_freq": {
+      "NNP-NN-NNS": 3,
+      "NN-NNS-NNS": 1,
+      "NNS-NNS-VBP": 2,
+      "NNS-VBP-JJ": 6,
+      "VBP-JJ-NNS": 2,
+      "JJ-NNS-VBZ": 1,
+      "NNS-VBZ-IN": 1,
+      "VBZ-IN-FW": 1,
+      "IN-FW-NNP": 1,
+      "FW-NNP-FW": 5,
+      "NNP-FW-NNP": 3,
+      "NNP-FW-FW": 6,
+      "FW-FW-FW": 28,
+      "FW-FW-NNS": 2,
+      "FW-NNS-VBP": 2,
+      "VBP-JJ-FW": 1,
+      "JJ-FW-FW": 2,
+      "FW-FW-CD": 3,
+      "FW-CD-NNS": 2,
+      "CD-NNS-JJ": 3,
+      "NNS-JJ-FW": 2,
+      "FW-CD-JJ": 1,
+      "CD-JJ-NNP": 1,
+      "JJ-NNP-FW": 1,
+      "VBP-JJ-NNP": 1,
+      "JJ-NNP-NN": 2,
+      "NNP-NN-FW": 1,
+      "NN-FW-NNP": 1,
+      "FW-NNP-NN": 3,
+      "NNP-NN-JJ": 1,
+      "NN-JJ-NN": 3,
+      "JJ-NN-IN": 5,
+      "NN-IN-CD": 2,
+      "IN-CD-NNS": 3,
+      "CD-NNS-NNS": 2,
+      "VBP-JJ-JJ": 1,
+      "JJ-JJ-NN": 2,
+      "JJ-NN-NN": 2,
+      "NN-NN-NN": 7,
+      "NN-NN-IN": 2,
+      "NN-IN-FW": 3,
+      "IN-FW-FW": 4,
+      "FW-FW-NN": 3,
+      "FW-NN-CD": 1,
+      "NN-CD-NNS": 1,
+      "NNS-NNS-NNP": 1,
+      "NNS-NNP-JJ": 1,
+      "NNP-JJ-NN": 2,
+      "JJ-NN-NNS": 2,
+      "NN-NNS-VBP": 3,
+      "NNS-VBP-CD": 1,
+      "VBP-CD-NN": 1,
+      "CD-NN-NNS": 1,
+      "NNS-VBP-NNP": 1,
+      "VBP-NNP-$": 1,
+      "NNP-$-CD": 1,
+      "$-CD-NN": 1,
+      "CD-NN-NNP": 1,
+      "NN-NNP-NN": 2,
+      "NNS-VBP-IN": 2,
+      "VBP-IN-JJ": 1,
+      "IN-JJ-NNS": 1,
+      "JJ-NNS-IN": 2,
+      "NNS-IN-NNP": 2,
+      "IN-NNP-NNP": 3,
+      "NNP-NNP-NNP": 4,
+      "NNP-NNP-FW": 2,
+      "FW-NN-FW": 1,
+      "NN-FW-FW": 3,
+      "FW-FW-NNP": 5,
+      "NN-NNS-VBZ": 2,
+      "NNS-VBZ-VBP": 1,
+      "VBZ-VBP-NNS": 1,
+      "VBP-NNS-VBP": 2,
+      "JJ-NNS-VBP": 3,
+      "NNS-VBP-NN": 2,
+      "VBP-NN-FW": 1,
+      "FW-NNP-NNS": 1,
+      "NNP-NNS-FW": 1,
+      "NNS-FW-VBP": 1,
+      "FW-VBP-NNS": 1,
+      "VBP-NN-NN": 1,
+      "NN-NN-NNS": 1,
+      "NN-NNS-JJ": 1,
+      "NNS-JJ-JJ": 1,
+      "NN-IN-NNP": 2,
+      "IN-NNP-CC": 1,
+      "NNP-CC-JJ": 1,
+      "CC-JJ-NNS": 1,
+      "NNP-NNP-JJ": 1,
+      "FW-NNP-NNP": 1,
+      "NNP-NNP-NN": 1,
+      "NNP-NN-NN": 4,
+      "FW-FW-JJ": 1,
+      "FW-JJ-NNS": 1,
+      "VBP-JJ-NN": 1,
+      "NN-NN-JJ": 2,
+      "NN-NN-FW": 2,
+      "NN-FW-NN": 1,
+      "FW-NN-NNP": 1,
+      "NN-NNP-VBZ": 1,
+      "NNP-VBZ-NNP": 1,
+      "VBZ-NNP-FW": 1,
+      "FW-FW-IN": 1,
+      "FW-IN-CD": 1,
+      "IN-CD-NN": 1,
+      "CD-NN-NN": 1,
+      "CD-NNS-CD": 2,
+      "NNS-CD-NNS": 2,
+      "JJ-FW-JJ": 1,
+      "FW-JJ-NNP": 1,
+      "NN-NN-NNP": 1,
+      "NN-NN-VBD": 1,
+      "NN-VBD-CD": 1,
+      "VBD-CD-IN": 1,
+      "CD-IN-FW": 1,
+      "FW-NN-NN": 1,
+      "NNS-JJ-NN": 1,
+      "NNS-VBZ-JJ": 1,
+      "VBZ-JJ-NNS": 1,
+      "VBP-IN-CD": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "FW": 66,
+        "NN": 43,
+        "NNP": 32,
+        "NNS": 29,
+        "JJ": 23
+      },
+      "top_bigrams": {
+        "FW-FW": 43,
+        "NN-NN": 16,
+        "NNS-VBP": 12,
+        "FW-NNP": 10,
+        "NNP-NN": 9
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 28,
+        "NN-NN-NN": 7,
+        "NNS-VBP-JJ": 6,
+        "NNP-FW-FW": 6,
+        "FW-NNP-FW": 5
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 8,
+    "chunk_counts": {
+      "NP": 75,
+      "VP": 19,
+      "ADJP": 2,
+      "PP": 8
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 6,
+        "weight": 0.0536
+      },
+      {
+        "rule": "NP -> ('Gaza', 'NNP')",
+        "frequency": 4,
+        "weight": 0.0357
+      },
+      {
+        "rule": "NP -> ('heridos', 'NN')",
+        "frequency": 3,
+        "weight": 0.0268
+      },
+      {
+        "rule": "NP -> ('heridos', 'NNS')",
+        "frequency": 2,
+        "weight": 0.0179
+      },
+      {
+        "rule": "NP -> ('Yarmouk', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0179
+      },
+      {
+        "rule": "NP -> ('víctimas', 'NN') ('mortales', 'NNS')",
+        "frequency": 2,
+        "weight": 0.0179
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0179
+      },
+      {
+        "rule": "NP -> ('muertos', 'NNS')",
+        "frequency": 2,
+        "weight": 0.0179
+      },
+      {
+        "rule": "S -> NP VP VP ('de', 'IN') ('la', 'FW') NP ('de', 'FW') NP ('en', 'FW') ('la', 'FW') ('madrugada', 'FW') ('del', 'FW') NP (',', ',') NP ('la', 'FW') ('muerte', 'FW') ('de', 'FW') ('al', 'FW') ('menos', 'FW') ('35', 'CD') NP ('y', 'RB') VP ('de', 'IN') ('50', 'CD') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0089
+      },
+      {
+        "rule": "NP -> ('Israel', 'NNP') ('perpetró', 'NN') ('varios', 'NNS') ('ataques', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0089
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Israel perpetró varios ataques"
+      },
+      {
+        "label": "VP",
+        "text": "consecutivos contra zonas"
+      },
+      {
+        "label": "NP",
+        "text": "contra zonas"
+      },
+      {
+        "label": "VP",
+        "text": "residenciales"
+      },
+      {
+        "label": "NP",
+        "text": "Franja"
+      },
+      {
+        "label": "NP",
+        "text": "Gaza"
+      },
+      {
+        "label": "NP",
+        "text": "jueves"
+      },
+      {
+        "label": "NP",
+        "text": "causando"
+      },
+      {
+        "label": "NP",
+        "text": "personas"
+      },
+      {
+        "label": "VP",
+        "text": "dejando más"
+      },
+      {
+        "label": "NP",
+        "text": "más"
+      },
+      {
+        "label": "NP",
+        "text": "heridos"
+      },
+      {
+        "label": "NP",
+        "text": "Uno"
+      },
+      {
+        "label": "NP",
+        "text": "ataques"
+      },
+      {
+        "label": "ADJP",
+        "text": "contra"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Israel/NNP perpetró/NN varios/NNS ataques/NNS)\n  (VP consecutivos/VBP (NP contra/JJ zonas/NNS))\n  (VP residenciales/VBZ)\n  de/IN\n  la/FW\n  (NP Franja/NNP)\n  de/FW\n  (NP Gaza/NNP)\n  en/FW\n  la/FW\n  madrugada/FW\n  del/FW\n  (NP jueves/NNS)\n  ,/,\n  (NP causando/NN)\n  la/FW\n  muerte/FW\n  de/FW\n  al/FW\n  menos/FW\n  35/CD\n  (NP personas/NNS)\n  y/RB\n  (VP dejando/VBP (NP más/NN))\n  de/IN\n  50/CD\n  (NP heridos/NNS)\n  ./.)",
+      "(S\n  (NP Uno/NNP)\n  de/FW\n  los/FW\n  (NP ataques/NNS)\n  ,/,\n  (ADJP contra/JJ)\n  la/FW\n  zona/FW\n  residencial/FW\n  de/FW\n  (NP Yarmouk/NNP)\n  ,/,\n  (NP dejó/NN)\n  (NP un/JJ saldo/NN)\n  de/IN\n  25/CD\n  (NP víctimas/NN mortales/NNS)\n  ,/,\n  (NP mientras/NNS)\n  (VP\n    que/VBP\n    (NP\n      otra/JJ\n      acción/JJ\n      del/NN\n      grupo/NN\n      genocida/NN\n      se/NN\n      efectuó/NN))\n  en/IN\n  la/FW\n  misma/FW\n  zona/FW\n  y/FW\n  (NP causó/NN)\n  10/CD\n  (NP muertes/NNS adicionales/NNS)\n  ./.)",
+      "(S\n  (NP En/NNP total/NN)\n  ,/,\n  (NP ambas/JJ agresiones/NNS)\n  (VP causaron/VBD)\n  35/CD\n  (NP víctimas/NN mortales/NNS)\n  (PP en/IN (NP Yarmouk/NNP))\n  ,/,\n  (VP más/VBD)\n  50/CD\n  (NP heridos/NN)\n  ./.)",
+      "(S\n  (NP Posteriormente/NNP)\n  ,/,\n  (NP los/NN ataques/NNS)\n  (VP continuaron/VBP)\n  (PP en/IN (NP los/JJ barrios/NNS))\n  (PP de/IN (NP Al-Sabra/NNP y/NNP Tal/NNP Al-Hawa/NNP))\n  ,/,\n  en/FW\n  el/FW\n  sur/FW\n  de/FW\n  la/FW\n  (NP ciudad/NN)\n  ,/,\n  (NP así/JJ como/NN)\n  en/IN\n  el/FW\n  campo/FW\n  de/FW\n  refugiados/FW\n  de/FW\n  (NP Nuseirat/NNP)\n  ,/,\n  en/FW\n  el/FW\n  centro/FW\n  de/FW\n  (NP Gaza/NNP)\n  ,/,\n  (NP donde/NN tres/NNS)\n  (VP civiles/VBZ (NP murieron/NNS) (NP y/JJ varios/NNS))\n  (VP resultaron/VBP (NP heridos/JJ tras/NNS))\n  (VP el/VBP (NP bombardeo/NN))\n  de/FW\n  (NP una/JJ vivienda/NN)\n  ./.)",
+      "(S\n  (NP Los/NNP aviones/NNS)\n  de/FW\n  (VP combate/VBP (NP israelíes/NNS))\n  (VP\n    también/VBP\n    (NP descargaron/NN disparon/NN contra/NN las/NNS)\n    (NP zonas/JJ central/JJ y/NN oriental/NN))\n  (PP de/IN (NP Rafah/NNP))\n  ,/,\n  (NP y/NNP)\n  (VP las/VBZ (NP zonas/JJ orientales/NNS))\n  (PP de/IN (NP Khuza/NNP))\n  (VP ’/VBD (NP a/DT y/JJ Al-Fakhari/NNP))\n  ,/,\n  (NP al/JJ este/NN)\n  (PP de/IN (NP Khan/NNP Yunis/NNP))\n  ,/,\n  en/FW\n  el/FW\n  sur/FW\n  de/FW\n  (NP Gaza/NNP)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "GRUPOS_ESPECIFICOS",
+      "CANTIDADES_NUMERICAS",
+      "REGIONES_PROVINCIAS",
+      "PERIODOS_TEMPORALES",
+      "LOCALIZACIONES_ESPECIFICAS",
+      "PAISES",
+      "INFRAESTRUCTURA_SERVICIOS",
+      "FECHAS_ESPECIFICAS"
+    ],
+    "matches": [
+      {
+        "category": "GRUPOS_ESPECIFICOS",
+        "matched_text": "mujeres",
+        "position": [
+          1026,
+          1033
+        ],
+        "start": 1026,
+        "end": 1033
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "hospital",
+        "position": [
+          947,
+          955
+        ],
+        "start": 947,
+        "end": 955
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "israelí",
+        "position": [
+          1172,
+          1179
+        ],
+        "start": 1172,
+        "end": 1179
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "zona residencial",
+        "position": [
+          222,
+          238
+        ],
+        "start": 222,
+        "end": 238
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "centro de",
+        "position": [
+          639,
+          648
+        ],
+        "start": 639,
+        "end": 648
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "hospital al",
+        "position": [
+          947,
+          958
+        ],
+        "start": 947,
+        "end": 958
+      },
+      {
+        "category": "FECHAS_ESPECIFICAS",
+        "matched_text": "7 de octubre de 2023",
+        "position": [
+          1193,
+          1213
+        ],
+        "start": 1193,
+        "end": 1213
+      },
+      {
+        "category": "PERIODOS_TEMPORALES",
+        "matched_text": "en la madrugada",
+        "position": [
+          92,
+          107
+        ],
+        "start": 92,
+        "end": 107
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "35 personas",
+        "position": [
+          151,
+          162
+        ],
+        "start": 151,
+        "end": 162
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "más de 50",
+        "position": [
+          173,
+          182
+        ],
+        "start": 173,
+        "end": 182
+      }
+    ],
+    "match_count": 10
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Franja de Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Tal Al-Hawa",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Ministerio de Salud de Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Ministerio",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Rafah",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Israel",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Al-Sabra",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Khuza’a",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Nuseirat",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Al-Fakhari",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Khan Yunis",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Hospital Al Awda",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Yarmouk",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Bloque",
+        "tipo": "Organizacion"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Israel",
+        "relacion": "PERPETRAR",
+        "objeto": "Franja de Gaza"
+      },
+      {
+        "sujeto": "Al-Sabra",
+        "relacion": "CONTINUAR",
+        "objeto": "Tal Al-Hawa"
+      },
+      {
+        "sujeto": "Al-Sabra",
+        "relacion": "CONTINUAR",
+        "objeto": "Nuseirat"
+      },
+      {
+        "sujeto": "Al-Sabra",
+        "relacion": "CONTINUAR",
+        "objeto": "Gaza"
+      },
+      {
+        "sujeto": "Tal Al-Hawa",
+        "relacion": "CONTINUAR",
+        "objeto": "Gaza"
+      },
+      {
+        "sujeto": "Nuseirat",
+        "relacion": "CONTINUAR",
+        "objeto": "Gaza"
+      },
+      {
+        "sujeto": "Hospital Al Awda",
+        "relacion": "REPORTAR",
+        "objeto": "Bloque"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.34,
+    "pos": 0.01,
+    "neu": 0.99,
+    "neg": 0.0,
+    "label": "positive"
+  }
+}

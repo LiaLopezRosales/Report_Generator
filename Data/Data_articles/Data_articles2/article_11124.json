@@ -1,0 +1,854 @@
+{
+  "url": "https://www.telesurtv.net/al-menos-69-migrantes-fallecen-tras-naufragar-una-embarcacion-frente-a-las-costas-de-marruecos/",
+  "title": "Al menos 69 migrantes fallecen tras naufragar una embarcación frente a las costas de Marruecos - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Malí",
+    "Marruecos",
+    "MIgrantes",
+    "Naufragio"
+  ],
+  "text": "El Gobierno de Malí informó este jueves sobre la muerte de al menos 69 migrantes que intentaban llegar de África Occidental a España en una embarcación improvisada, la cual naufragó frente a las costas de Marruecos el pasado 19 de diciembre.\nLEA TAMBIÉN\nMalí, Níger y Burkina Faso recalcan determinación de retirarse de la Cedeao\nA través de un comunicado, las autoridades malienses confirmaron que en el barco viajaban alrededor de 80 pasajeros, de los cuales solo 11 lograron sobrevivir, incluidos nueve malienses.\nDe acuerdo con las investigaciones, entre las víctimas se han identificado 25 jóvenes originarios de Malí.\nLas autoridades malienses anunciaron la creación de una unidad de crisis que les permitirá estar pendientes de cada actualización y dar a conocer cada los avances en las investigaciones sobre la tragedia.\n“El ministerio cruzó informaciones de varias fuentes, entre ellas las embajadas de Malí en Mauritania y en Marruecos, los familiares de las víctimas, los representantes electos de las localidades de origen y algunos supervivientes”, agregó.\nLa Organización No Gubernamental española Caminando Fronteras señaló que más de 10.400 migrantes han muerto o desaparecido en el mar durante 2024, “un año marcado por una afluencia migratoria récord en el archipiélago español de Canarias”.\nEn tanto, el grupo Walking Borders informó durante la primera mitad del año que casi 5.000 personas, una cifra récord, perdieron la vida en los primeros cinco meses de 2024.\nEl aumento de la migración en esta ruta del Atlántico está vinculado a factores como la violencia en el Sahel, el desempleo y los efectos del cambio climático, que han empujado a muchas comunidades agrícolas a buscar empleos y otras oportunidades en Europa.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/al-menos-69-migrantes-fallecen-tras-naufragar-una-embarcacion-frente-a-las-costas-de-marruecos/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-12.json",
+    "message_index": 226,
+    "message_id": 83161,
+    "date": "2024-12-27T15:55:07+00:00",
+    "text": "teleSUR\nAl menos 69 migrantes fallecen tras naufragar una embarcación frente a las costas de Marruecos\nhttps://www.telesurtv.net/al-menos-69-migrantes-fallecen-tras-naufragar-una-embarcacion-frente-a-las-costas-de-marruecos/",
+    "photo_path": null,
+    "views": 2157,
+    "reactions": {
+      "😢": 33,
+      "🤯": 5,
+      "👍": 2,
+      "👏": 1,
+      "😱": 1
+    },
+    "total_reactions": 42
+  },
+  "preprocessing": {
+    "cleaned": "el gobierno de malí informó este jueves sobre la muerte de al menos 69 migrantes que intentaban llegar de áfrica occidental a españa en una embarcación improvisada, la cual naufragó frente a las costas de marruecos el pasado 19 de diciembre. a través de un comunicado, las autoridades malienses confirmaron que en el barco viajaban alrededor de 80 pasajeros, de los cuales solo 11 lograron sobrevivir, incluidos nueve malienses. de acuerdo con las investigaciones, entre las víctimas se han identificado 25 jóvenes originarios de malí. las autoridades malienses anunciaron la creación de una unidad de crisis que les permitirá estar pendientes de cada actualización y dar a conocer cada los avances en las investigaciones sobre la tragedia. “el ministerio cruzó informaciones de varias fuentes, entre ellas las embajadas de malí en mauritania y en marruecos, los familiares de las víctimas, los representantes electos de las localidades de origen y algunos supervivientes”, agregó. la organización no gubernamental española caminando fronteras señaló que más de 10.400 migrantes han muerto o desaparecido en el mar durante 2024, “un año marcado por una afluencia migratoria récord en el archipiélago español de canarias”. en tanto, el grupo walking borders informó durante la primera mitad del año que casi 5.000 personas, una cifra récord, perdieron la vida en los primeros cinco meses de 2024. el aumento de la migración en esta ruta del atlántico está vinculado a factores como la violencia en el sahel, el desempleo y los efectos del cambio climático, que han empujado a muchas comunidades agrícolas a buscar empleos y otras oportunidades en europa.",
+    "tokens": [
+      "gobierno",
+      "malí",
+      "informó",
+      "jueves",
+      "muerte",
+      "menos",
+      "69",
+      "migrantes",
+      "intentaban",
+      "llegar",
+      "áfrica",
+      "occidental",
+      "españa",
+      "embarcación",
+      "improvisada",
+      ",",
+      "naufragó",
+      "frente",
+      "costas",
+      "marruecos",
+      "pasado",
+      "19",
+      "diciembre",
+      ".",
+      "través",
+      "comunicado",
+      ",",
+      "autoridades",
+      "malienses",
+      "confirmaron",
+      "barco",
+      "viajaban",
+      "alrededor",
+      "80",
+      "pasajeros",
+      ",",
+      "cuales",
+      "solo",
+      "11",
+      "lograron",
+      "sobrevivir",
+      ",",
+      "incluidos",
+      "nueve",
+      "malienses",
+      ".",
+      "acuerdo",
+      "investigaciones",
+      ",",
+      "víctimas",
+      "identificado",
+      "25",
+      "jóvenes",
+      "originarios",
+      "malí",
+      ".",
+      "autoridades",
+      "malienses",
+      "anunciaron",
+      "creación",
+      "unidad",
+      "crisis",
+      "permitirá",
+      "pendientes",
+      "cada",
+      "actualización",
+      "dar",
+      "conocer",
+      "cada",
+      "avances",
+      "investigaciones",
+      "tragedia",
+      ".",
+      "“",
+      "ministerio",
+      "cruzó",
+      "informaciones",
+      "varias",
+      "fuentes",
+      ",",
+      "embajadas",
+      "malí",
+      "mauritania",
+      "marruecos",
+      ",",
+      "familiares",
+      "víctimas",
+      ",",
+      "representantes",
+      "electos",
+      "localidades",
+      "origen",
+      "supervivientes",
+      "”",
+      ",",
+      "agregó",
+      ".",
+      "organización",
+      "gubernamental",
+      "española",
+      "caminando",
+      "fronteras",
+      "señaló",
+      "10.400",
+      "migrantes",
+      "muerto",
+      "desaparecido",
+      "mar",
+      "2024",
+      ",",
+      "“",
+      "año",
+      "marcado",
+      "afluencia",
+      "migratoria",
+      "récord",
+      "archipiélago",
+      "español",
+      "canarias",
+      "”",
+      ".",
+      ",",
+      "grupo",
+      "walking",
+      "borders",
+      "informó",
+      "primera",
+      "mitad",
+      "año",
+      "casi",
+      "5.000",
+      "personas",
+      ",",
+      "cifra",
+      "récord",
+      ",",
+      "perdieron",
+      "vida",
+      "primeros",
+      "cinco",
+      "meses",
+      "2024.",
+      "aumento",
+      "migración",
+      "ruta",
+      "atlántico",
+      "vinculado",
+      "factores",
+      "violencia",
+      "sahel",
+      ",",
+      "desempleo",
+      "efectos",
+      "cambio",
+      "climático",
+      ",",
+      "empujado",
+      "muchas",
+      "comunidades",
+      "agrícolas",
+      "buscar",
+      "empleos",
+      "oportunidades",
+      "europa",
+      "."
+    ],
+    "token_count": 165,
+    "sentence_count": 8
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 35,
+      "IN": 14,
+      "JJ": 27,
+      "NN": 63,
+      "NNS": 22,
+      "VBP": 15,
+      "FW": 66,
+      "CD": 9,
+      "CC": 1,
+      "VBZ": 6,
+      "VBD": 2,
+      "VBG": 1
+    },
+    "bigram_freq": {
+      "NNP-NNP": 15,
+      "NNP-IN": 1,
+      "IN-NNP": 3,
+      "NNP-JJ": 3,
+      "JJ-NN": 11,
+      "NN-NNS": 8,
+      "NNS-VBP": 12,
+      "VBP-JJ": 9,
+      "JJ-FW": 8,
+      "FW-FW": 35,
+      "FW-CD": 1,
+      "CD-NNS": 5,
+      "NNS-JJ": 3,
+      "JJ-JJ": 2,
+      "NN-IN": 5,
+      "NNP-FW": 7,
+      "FW-JJ": 3,
+      "FW-NN": 12,
+      "NN-FW": 7,
+      "NN-NN": 33,
+      "FW-NNP": 10,
+      "NNP-CC": 1,
+      "CC-JJ": 1,
+      "JJ-CD": 1,
+      "CD-IN": 1,
+      "IN-FW": 7,
+      "NNP-NN": 5,
+      "VBP-NNS": 1,
+      "IN-CD": 3,
+      "NNS-IN": 4,
+      "FW-NNS": 5,
+      "VBP-CD": 2,
+      "CD-NN": 1,
+      "NN-VBP": 2,
+      "VBP-VBZ": 1,
+      "VBZ-NNP": 1,
+      "NNS-FW": 2,
+      "NNP-VBZ": 1,
+      "VBZ-NNS": 1,
+      "IN-JJ": 1,
+      "NN-VBZ": 3,
+      "VBZ-JJ": 2,
+      "VBZ-IN": 2,
+      "JJ-NNS": 2,
+      "JJ-NNP": 2,
+      "VBP-IN": 1,
+      "NNS-VBZ": 1,
+      "NNP-VBD": 1,
+      "VBD-NNP": 1,
+      "JJ-VBP": 1,
+      "NN-CD": 1,
+      "CD-JJ": 1,
+      "NN-JJ": 2,
+      "NN-VBG": 1,
+      "VBG-NNP": 1,
+      "NN-VBD": 1,
+      "VBD-CD": 1,
+      "CD-NNP": 1,
+      "VBP-NN": 1
+    },
+    "trigram_freq": {
+      "NNP-NNP-IN": 1,
+      "NNP-IN-NNP": 1,
+      "IN-NNP-JJ": 1,
+      "NNP-JJ-NN": 3,
+      "JJ-NN-NNS": 1,
+      "NN-NNS-VBP": 6,
+      "NNS-VBP-JJ": 8,
+      "VBP-JJ-FW": 5,
+      "JJ-FW-FW": 6,
+      "FW-FW-FW": 19,
+      "FW-FW-CD": 1,
+      "FW-CD-NNS": 1,
+      "CD-NNS-JJ": 3,
+      "NNS-JJ-JJ": 1,
+      "JJ-JJ-NN": 1,
+      "JJ-NN-IN": 2,
+      "NN-IN-NNP": 1,
+      "IN-NNP-NNP": 1,
+      "NNP-NNP-NNP": 7,
+      "NNP-NNP-FW": 1,
+      "NNP-FW-JJ": 1,
+      "FW-JJ-FW": 2,
+      "JJ-FW-NN": 2,
+      "FW-NN-FW": 1,
+      "NN-FW-JJ": 1,
+      "FW-JJ-NN": 1,
+      "JJ-NN-NN": 6,
+      "NN-NN-FW": 4,
+      "NN-FW-FW": 4,
+      "FW-FW-NNP": 7,
+      "FW-NNP-CC": 1,
+      "NNP-CC-JJ": 1,
+      "CC-JJ-CD": 1,
+      "JJ-CD-IN": 1,
+      "CD-IN-FW": 1,
+      "IN-FW-NNP": 1,
+      "FW-NNP-NNP": 3,
+      "NNP-NNP-JJ": 1,
+      "JJ-NN-FW": 1,
+      "FW-NNP-NN": 2,
+      "NNP-NN-FW": 1,
+      "FW-FW-NN": 6,
+      "FW-NN-NNS": 3,
+      "NNS-VBP-NNS": 1,
+      "VBP-NNS-VBP": 1,
+      "FW-NN-IN": 1,
+      "NN-IN-CD": 2,
+      "IN-CD-NNS": 2,
+      "CD-NNS-IN": 1,
+      "NNS-IN-FW": 2,
+      "IN-FW-NNS": 2,
+      "FW-NNS-VBP": 3,
+      "NNS-VBP-CD": 1,
+      "VBP-CD-NN": 1,
+      "CD-NN-NN": 1,
+      "NN-NN-NN": 16,
+      "NN-NN-VBP": 1,
+      "NN-VBP-VBZ": 1,
+      "VBP-VBZ-NNP": 1,
+      "VBZ-NNP-FW": 1,
+      "NNP-FW-NN": 3,
+      "FW-NN-NN": 6,
+      "NN-NN-NNS": 4,
+      "FW-NN-VBP": 1,
+      "NN-VBP-CD": 1,
+      "VBP-CD-NNS": 1,
+      "CD-NNS-FW": 1,
+      "NNS-FW-FW": 2,
+      "NNP-NNP-VBZ": 1,
+      "NNP-VBZ-NNS": 1,
+      "VBZ-NNS-VBP": 1,
+      "VBP-JJ-NN": 1,
+      "NN-IN-JJ": 1,
+      "IN-JJ-JJ": 1,
+      "JJ-JJ-FW": 1,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 1,
+      "JJ-NN-VBZ": 1,
+      "NN-VBZ-IN": 2,
+      "VBZ-IN-FW": 2,
+      "IN-FW-FW": 3,
+      "VBP-JJ-NNS": 2,
+      "JJ-NNS-VBP": 1,
+      "VBP-JJ-NNP": 1,
+      "JJ-NNP-NNP": 2,
+      "NNP-NNP-NN": 3,
+      "NNP-NN-NN": 3,
+      "NN-NNS-IN": 2,
+      "JJ-NNS-FW": 1,
+      "FW-NNP-FW": 4,
+      "NNP-FW-NNP": 2,
+      "NNP-NN-VBZ": 1,
+      "FW-FW-NNS": 2,
+      "NNS-VBP-IN": 1,
+      "VBP-IN-FW": 1,
+      "FW-NNS-VBZ": 1,
+      "NNS-VBZ-JJ": 1,
+      "VBZ-JJ-NNP": 1,
+      "NNP-NNP-VBD": 1,
+      "NNP-VBD-NNP": 1,
+      "VBD-NNP-NNP": 1,
+      "NN-NN-IN": 2,
+      "NNS-JJ-VBP": 1,
+      "JJ-VBP-JJ": 1,
+      "NN-NN-CD": 1,
+      "NN-CD-JJ": 1,
+      "CD-JJ-NN": 1,
+      "NN-NN-JJ": 2,
+      "NN-JJ-NN": 2,
+      "NN-IN-FW": 1,
+      "IN-FW-JJ": 1,
+      "NN-NN-VBG": 1,
+      "NN-VBG-NNP": 1,
+      "VBG-NNP-JJ": 1,
+      "NN-FW-NN": 1,
+      "NN-NN-VBD": 1,
+      "NN-VBD-CD": 1,
+      "VBD-CD-NNS": 1,
+      "NNS-JJ-NN": 1,
+      "NNS-IN-CD": 1,
+      "IN-CD-NNP": 1,
+      "CD-NNP-FW": 1,
+      "NNP-FW-FW": 1,
+      "NNS-VBP-NN": 1,
+      "VBP-NN-NN": 1,
+      "NN-FW-NNS": 1,
+      "FW-NNS-IN": 1,
+      "NNS-IN-NNP": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "FW": 66,
+        "NN": 63,
+        "NNP": 35,
+        "JJ": 27,
+        "NNS": 22
+      },
+      "top_bigrams": {
+        "FW-FW": 35,
+        "NN-NN": 33,
+        "NNP-NNP": 15,
+        "NNS-VBP": 12,
+        "FW-NN": 12
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 19,
+        "NN-NN-NN": 16,
+        "NNS-VBP-JJ": 8,
+        "NNP-NNP-NNP": 7,
+        "FW-FW-NNP": 7
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 8,
+    "chunk_counts": {
+      "NP": 75,
+      "PP": 7,
+      "VP": 24,
+      "ADJP": 5
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 5,
+        "weight": 0.042
+      },
+      {
+        "rule": "NP -> ('Malí', 'NNP')",
+        "frequency": 3,
+        "weight": 0.0252
+      },
+      {
+        "rule": "NP -> ('migrantes', 'NNS')",
+        "frequency": 2,
+        "weight": 0.0168
+      },
+      {
+        "rule": "NP -> ('malienses', 'NNS')",
+        "frequency": 2,
+        "weight": 0.0168
+      },
+      {
+        "rule": "S -> NP PP NP VP ('muerte', 'FW') ('de', 'FW') ('al', 'FW') ('menos', 'FW') ('69', 'CD') NP NP PP NP ('en', 'FW') NP (',', ',') ('la', 'FW') NP VP PP VP ('19', 'CD') PP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0084
+      },
+      {
+        "rule": "NP -> ('El', 'NNP') ('Gobierno', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0084
+      },
+      {
+        "rule": "NP -> ('informó', 'JJ') ('este', 'NN') ('jueves', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0084
+      },
+      {
+        "rule": "VP -> ('sobre', 'VBP') ('la', 'JJ')",
+        "frequency": 1,
+        "weight": 0.0084
+      },
+      {
+        "rule": "NP -> ('que', 'JJ') ('intentaban', 'JJ') ('llegar', 'NN')",
+        "frequency": 1,
+        "weight": 0.0084
+      },
+      {
+        "rule": "NP -> ('África', 'NNP') ('Occidental', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0084
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El Gobierno"
+      },
+      {
+        "label": "PP",
+        "text": "de Malí"
+      },
+      {
+        "label": "NP",
+        "text": "Malí"
+      },
+      {
+        "label": "NP",
+        "text": "informó este jueves"
+      },
+      {
+        "label": "VP",
+        "text": "sobre la"
+      },
+      {
+        "label": "NP",
+        "text": "migrantes"
+      },
+      {
+        "label": "NP",
+        "text": "que intentaban llegar"
+      },
+      {
+        "label": "PP",
+        "text": "de África Occidental"
+      },
+      {
+        "label": "NP",
+        "text": "África Occidental"
+      },
+      {
+        "label": "NP",
+        "text": "a España"
+      },
+      {
+        "label": "NP",
+        "text": "una embarcación improvisada"
+      },
+      {
+        "label": "NP",
+        "text": "cual naufragó"
+      },
+      {
+        "label": "VP",
+        "text": "frente a las costas"
+      },
+      {
+        "label": "NP",
+        "text": "a las costas"
+      },
+      {
+        "label": "PP",
+        "text": "de Marruecos"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP El/NNP Gobierno/NNP)\n  (PP de/IN (NP Malí/NNP))\n  (NP informó/JJ este/NN jueves/NNS)\n  (VP sobre/VBP la/JJ)\n  muerte/FW\n  de/FW\n  al/FW\n  menos/FW\n  69/CD\n  (NP migrantes/NNS)\n  (NP que/JJ intentaban/JJ llegar/NN)\n  (PP de/IN (NP África/NNP Occidental/NNP))\n  (NP a/DT España/NNP)\n  en/FW\n  (NP una/JJ embarcación/NN improvisada/NN)\n  ,/,\n  la/FW\n  (NP cual/JJ naufragó/NN)\n  (VP frente/VBD (NP a/DT las/JJ costas/NN))\n  (PP de/IN (NP Marruecos/NNP))\n  (VP el/VBD pasado/JJ)\n  19/CD\n  (PP de/IN (NP diciembre/NN))\n  ./.)",
+      "(S\n  (NP LEA/NNP TAMBIÉN/NNP Malí/NNP)\n  ,/,\n  (NP Níger/NNP y/NNP Burkina/NNP Faso/NNP)\n  (NP recalcan/JJ determinación/NN)\n  de/FW\n  retirarse/FW\n  de/FW\n  la/FW\n  (NP Cedeao/NNP A/NNP través/NN)\n  (PP de/IN (NP un/JJ comunicado/NN))\n  ,/,\n  las/FW\n  (NP autoridades/NNS malienses/NNS)\n  (VP confirmaron/VBP que/JJ)\n  en/FW\n  el/FW\n  barco/FW\n  viajaban/FW\n  (NP alrededor/NN)\n  de/IN\n  80/CD\n  (NP pasajeros/NNS)\n  ,/,\n  de/FW\n  los/FW\n  (NP cuales/NNS)\n  (VP solo/VBP)\n  11/CD\n  (NP lograron/NN sobrevivir/NN)\n  ,/,\n  (ADJP incluidos/JJ)\n  (VP nueve/VBP (NP malienses/NNS))\n  ./.)",
+      "(S\n  (NP De/NNP)\n  acuerdo/FW\n  (NP con/NN las/NN investigaciones/NNS)\n  ,/,\n  entre/FW\n  las/FW\n  víctimas/FW\n  se/FW\n  (NP han/NN)\n  (VP identificado/VBP)\n  25/CD\n  (NP jóvenes/NNS)\n  originarios/FW\n  de/FW\n  (NP Malí/NNP)\n  ./.)",
+      "(S\n  (NP Las/NNP)\n  (VP autoridades/VBZ (NP malienses/NNS))\n  (VP anunciaron/VBP (NP la/JJ creación/NN))\n  de/IN\n  (ADJP una/JJ)\n  (ADJP unidad/JJ)\n  de/FW\n  (NP crisis/NN que/NN)\n  (VP les/VBZ (NP permitirá/JJ estar/NN))\n  (VP pendientes/VBZ)\n  de/IN\n  cada/FW\n  (NP actualización/JJ y/NN dar/NN)\n  (NP a/DT conocer/NN cada/NN los/NN avances/NNS)\n  (VP en/VBP (NP las/JJ investigaciones/NNS))\n  (VP sobre/VBP (NP la/JJ tragedia/NN))\n  ./.)",
+      "(S\n  (NP “/JJ El/NNP ministerio/NN cruzó/NN informaciones/NNS)\n  de/IN\n  varias/FW\n  (NP fuentes/NNS)\n  ,/,\n  entre/FW\n  ellas/FW\n  las/FW\n  embajadas/FW\n  de/FW\n  (NP Malí/NNP)\n  en/FW\n  (NP Mauritania/NNP y/NN en/NN Marruecos/NNP)\n  ,/,\n  (NP los/JJ familiares/NNS)\n  de/IN\n  las/FW\n  (NP víctimas/NN)\n  ,/,\n  (NP los/NN representantes/NNS)\n  (VP electos/VBP)\n  de/IN\n  las/FW\n  localidades/FW\n  de/FW\n  origen/FW\n  y/FW\n  algunos/FW\n  (NP supervivientes/NNS)\n  (VP ”/VBP)\n  ,/,\n  (NP agregó/NN)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "GOBIERNOS_OFICIALES",
+      "GRUPOS_ESPECIFICOS",
+      "LEYES_NORMATIVAS",
+      "RECURSOS_NATURALES",
+      "CANTIDADES_NUMERICAS",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "ORGANIZACIONES_SOCIALES",
+      "CRISIS_HUMANITARIA_SERVICIOS",
+      "PAISES",
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "INFRAESTRUCTURA_SERVICIOS"
+    ],
+    "matches": [
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "desempleo",
+        "position": [
+          1598,
+          1607
+        ],
+        "start": 1598,
+        "end": 1607
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "señaló",
+        "position": [
+          1132,
+          1138
+        ],
+        "start": 1132,
+        "end": 1138
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "informó",
+        "position": [
+          20,
+          27
+        ],
+        "start": 20,
+        "end": 27
+      },
+      {
+        "category": "CRISIS_HUMANITARIA_SERVICIOS",
+        "matched_text": "cambio climático",
+        "position": [
+          1626,
+          1642
+        ],
+        "start": 1626,
+        "end": 1642
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "gobierno de malí informó",
+        "position": [
+          3,
+          27
+        ],
+        "start": 3,
+        "end": 27
+      },
+      {
+        "category": "ORGANIZACIONES_SOCIALES",
+        "matched_text": "organización no gubernamental",
+        "position": [
+          1073,
+          1102
+        ],
+        "start": 1073,
+        "end": 1102
+      },
+      {
+        "category": "GRUPOS_ESPECIFICOS",
+        "matched_text": "jóvenes",
+        "position": [
+          595,
+          602
+        ],
+        "start": 595,
+        "end": 602
+      },
+      {
+        "category": "LEYES_NORMATIVAS",
+        "matched_text": "acuerdo con las investigaciones, entre las víctimas se han identificado 25",
+        "position": [
+          520,
+          594
+        ],
+        "start": 520,
+        "end": 594
+      },
+      {
+        "category": "RECURSOS_NATURALES",
+        "matched_text": "mar",
+        "position": [
+          1199,
+          1202
+        ],
+        "start": 1199,
+        "end": 1202
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "ruta",
+        "position": [
+          1519,
+          1523
+        ],
+        "start": 1519,
+        "end": 1523
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "españa",
+        "position": [
+          126,
+          132
+        ],
+        "start": 126,
+        "end": 132
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "000 personas",
+        "position": [
+          1397,
+          1409
+        ],
+        "start": 1397,
+        "end": 1409
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "5.000 personas",
+        "position": [
+          1395,
+          1409
+        ],
+        "start": 1395,
+        "end": 1409
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "alrededor de 80",
+        "position": [
+          420,
+          435
+        ],
+        "start": 420,
+        "end": 435
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "más de 10.400",
+        "position": [
+          1143,
+          1156
+        ],
+        "start": 1143,
+        "end": 1156
+      }
+    ],
+    "match_count": 15
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Organización No Gubernamental española",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Malí",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Europa",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Canarias",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "España",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Atlántico",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Burkina Faso",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Cedeao\nA",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "África Occidental",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Caminando Fronteras",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Sahel",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Marruecos",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Mauritania",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Níger",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Gobierno de Malí",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Gobierno de Malí",
+        "relacion": "INFORMAR",
+        "objeto": "África Occidental"
+      },
+      {
+        "sujeto": "Gobierno de Malí",
+        "relacion": "INFORMAR",
+        "objeto": "España"
+      },
+      {
+        "sujeto": "Gobierno de Malí",
+        "relacion": "INFORMAR",
+        "objeto": "Marruecos"
+      },
+      {
+        "sujeto": "África Occidental",
+        "relacion": "LLEGAR_INTENTAR_INFORMAR",
+        "objeto": "España"
+      },
+      {
+        "sujeto": "África Occidental",
+        "relacion": "LLEGAR_INTENTAR_INFORMAR",
+        "objeto": "Marruecos"
+      },
+      {
+        "sujeto": "España",
+        "relacion": "LLEGAR_INTENTAR_INFORMAR",
+        "objeto": "Marruecos"
+      },
+      {
+        "sujeto": "Níger",
+        "relacion": "RECALCAR_CONFIRMAR",
+        "objeto": "Cedeao\nA"
+      },
+      {
+        "sujeto": "Burkina Faso",
+        "relacion": "RECALCAR_CONFIRMAR",
+        "objeto": "Cedeao\nA"
+      },
+      {
+        "sujeto": "Organización No Gubernamental española",
+        "relacion": "SE_ALAR",
+        "objeto": "Canarias"
+      },
+      {
+        "sujeto": "Caminando Fronteras",
+        "relacion": "SE_ALAR",
+        "objeto": "Canarias"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.743,
+    "pos": 0.0,
+    "neu": 0.976,
+    "neg": 0.024,
+    "label": "negative"
+  }
+}

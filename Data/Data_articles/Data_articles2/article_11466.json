@@ -1,0 +1,748 @@
+{
+  "url": "https://www.telesurtv.net/grupo-armado-haitiano-ingresa-a-un-hospital-en-puerto-principe-y-causa-grandes-danos/",
+  "title": "Grupo armado haitiano ingresa a un hospital en Puerto Príncipe y causa grandes daños - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "Caribe",
+    "Haití",
+    "Haitianos",
+    "Sucesos"
+  ],
+  "text": "Este reciente ataque a un centro médico ilustra el deterioro de la seguridad y la precariedad del sistema de salud en Haití.\nHombres armados atacaron y causaron daños significativos al Hospital Bernard Mevs en Puerto Príncipe, la capital de Haití, la noche del lunes. Una fuente que pidió anonimato informó a Reuters que el ataque dejó cuatro quirófanos y todo el equipo de laboratorio en ruinas.\nJanvier Bessiere: Haití pide respeto y derecho a vivir sin injerencia, a 110 años del robo de EE.UU.\nAfortunadamente, ni pacientes ni personal resultaron heridos, ya que el establecimiento médico había sido evacuado previamente tras recibir amenazas de un líder de banda local.\nEl ataque se produce en un contexto de creciente violencia que ha llevado a la organización Médicos Sin Fronteras a suspender sus operaciones en el país el mes pasado. A principios de este año, la agencia de asuntos humanitarios de la ONU advirtió que el sistema sanitario de Haití se encontraba “al borde del colapso”, con la violencia afectando gravemente la seguridad de médicos y servicios de salud.\nMédicos Sin Fronteras, tras sufrir un ataque a una de sus ambulancias, detuvo temporalmente sus actividades en Puerto Príncipe, aunque reanudó parcialmente las operaciones la semana pasada. El hospital Bernard Mevs confirmó el asalto a través de un mensaje en su canal de WhatsApp.\nLa situación en Haití se ve agravada por la inestabilidad política y la incapacidad del gobierno para contener el creciente poder de las bandas armadas, que son acusadas de cometer asesinatos indiscriminados, violaciones colectivas, secuestros y contribuir a la crisis alimentaria en el país.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/grupo-armado-haitiano-ingresa-a-un-hospital-en-puerto-principe-y-causa-grandes-danos/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-12.json",
+    "message_index": 742,
+    "message_id": 82627,
+    "date": "2024-12-18T08:55:13+00:00",
+    "text": "teleSUR\nGrupo armado haitiano ingresa a un hospital en Puerto Príncipe y causa grandes daños\nhttps://www.telesurtv.net/grupo-armado-haitiano-ingresa-a-un-hospital-en-puerto-principe-y-causa-grandes-danos/",
+    "photo_path": null,
+    "views": 2149,
+    "reactions": {
+      "🤬": 31,
+      "🤯": 7,
+      "👍": 2
+    },
+    "total_reactions": 40
+  },
+  "preprocessing": {
+    "cleaned": "este reciente ataque a un centro médico ilustra el deterioro de la seguridad y la precariedad del sistema de salud en haití. hombres armados atacaron y causaron daños significativos al hospital bernard mevs en puerto príncipe, la capital de haití, la noche del lunes. una fuente que pidió anonimato informó a reuters que el ataque dejó cuatro quirófanos y todo el equipo de laboratorio en ruinas. janvier bessiere: haití pide respeto y derecho a vivir sin injerencia, a 110 años del robo de ee.uu. afortunadamente, ni pacientes ni personal resultaron heridos, ya que el establecimiento médico había sido evacuado previamente tras recibir amenazas de un líder de banda local. el ataque se produce en un contexto de creciente violencia que ha llevado a la organización médicos sin fronteras a suspender sus operaciones en el país el mes pasado. a principios de este año, la agencia de asuntos humanitarios de la onu advirtió que el sistema sanitario de haití se encontraba “al borde del colapso”, con la violencia afectando gravemente la seguridad de médicos y servicios de salud. médicos sin fronteras, tras sufrir un ataque a una de sus ambulancias, detuvo temporalmente sus actividades en puerto príncipe, aunque reanudó parcialmente las operaciones la semana pasada. el hospital bernard mevs confirmó el asalto a través de un mensaje en su canal de whatsapp. la situación en haití se ve agravada por la inestabilidad política y la incapacidad del gobierno para contener el creciente poder de las bandas armadas, que son acusadas de cometer asesinatos indiscriminados, violaciones colectivas, secuestros y contribuir a la crisis alimentaria en el país.",
+    "tokens": [
+      "reciente",
+      "ataque",
+      "centro",
+      "médico",
+      "ilustra",
+      "deterioro",
+      "seguridad",
+      "precariedad",
+      "sistema",
+      "salud",
+      "haití",
+      ".",
+      "hombres",
+      "armados",
+      "atacaron",
+      "causaron",
+      "daños",
+      "significativos",
+      "hospital",
+      "bernard",
+      "mevs",
+      "puerto",
+      "príncipe",
+      ",",
+      "capital",
+      "haití",
+      ",",
+      "noche",
+      "lunes",
+      ".",
+      "fuente",
+      "pidió",
+      "anonimato",
+      "informó",
+      "reuters",
+      "ataque",
+      "dejó",
+      "cuatro",
+      "quirófanos",
+      "equipo",
+      "laboratorio",
+      "ruinas",
+      ".",
+      "janvier",
+      "bessiere",
+      ":",
+      "haití",
+      "pide",
+      "respeto",
+      "derecho",
+      "vivir",
+      "injerencia",
+      ",",
+      "110",
+      "años",
+      "robo",
+      "ee.uu.",
+      "afortunadamente",
+      ",",
+      "pacientes",
+      "personal",
+      "resultaron",
+      "heridos",
+      ",",
+      "establecimiento",
+      "médico",
+      "sido",
+      "evacuado",
+      "previamente",
+      "tras",
+      "recibir",
+      "amenazas",
+      "líder",
+      "banda",
+      "local",
+      ".",
+      "ataque",
+      "produce",
+      "contexto",
+      "creciente",
+      "violencia",
+      "llevado",
+      "organización",
+      "médicos",
+      "fronteras",
+      "suspender",
+      "operaciones",
+      "país",
+      "mes",
+      "pasado",
+      ".",
+      "principios",
+      "año",
+      ",",
+      "agencia",
+      "asuntos",
+      "humanitarios",
+      "onu",
+      "advirtió",
+      "sistema",
+      "sanitario",
+      "haití",
+      "encontraba",
+      "“",
+      "borde",
+      "colapso",
+      "”",
+      ",",
+      "violencia",
+      "afectando",
+      "gravemente",
+      "seguridad",
+      "médicos",
+      "servicios",
+      "salud",
+      ".",
+      "médicos",
+      "fronteras",
+      ",",
+      "tras",
+      "sufrir",
+      "ataque",
+      "ambulancias",
+      ",",
+      "detuvo",
+      "temporalmente",
+      "actividades",
+      "puerto",
+      "príncipe",
+      ",",
+      "aunque",
+      "reanudó",
+      "parcialmente",
+      "operaciones",
+      "semana",
+      "pasada",
+      ".",
+      "hospital",
+      "bernard",
+      "mevs",
+      "confirmó",
+      "asalto",
+      "través",
+      "mensaje",
+      "canal",
+      "whatsapp",
+      ".",
+      "situación",
+      "haití",
+      "ve",
+      "agravada",
+      "inestabilidad",
+      "política",
+      "incapacidad",
+      "gobierno",
+      "contener",
+      "creciente",
+      "poder",
+      "bandas",
+      "armadas",
+      ",",
+      "acusadas",
+      "cometer",
+      "asesinatos",
+      "indiscriminados",
+      ",",
+      "violaciones",
+      "colectivas",
+      ",",
+      "secuestros",
+      "contribuir",
+      "crisis",
+      "alimentaria",
+      "país",
+      "."
+    ],
+    "token_count": 175,
+    "sentence_count": 10
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NN": 93,
+      "JJ": 19,
+      "IN": 17,
+      "FW": 62,
+      "NNP": 33,
+      "VBZ": 3,
+      "NNS": 10,
+      "VBP": 8,
+      "CD": 1,
+      "VBD": 2
+    },
+    "bigram_freq": {
+      "NN-NN": 56,
+      "NN-JJ": 3,
+      "JJ-NN": 14,
+      "JJ-JJ": 3,
+      "NN-IN": 13,
+      "IN-FW": 5,
+      "FW-FW": 39,
+      "FW-NNP": 10,
+      "NNP-NNP": 15,
+      "NNP-VBZ": 1,
+      "VBZ-NN": 1,
+      "IN-NNP": 4,
+      "NNP-FW": 5,
+      "NNP-NN": 9,
+      "NN-FW": 9,
+      "FW-NNS": 3,
+      "NNS-NNP": 1,
+      "NN-NNP": 2,
+      "NN-NNS": 5,
+      "NNS-VBP": 6,
+      "VBP-JJ": 4,
+      "JJ-FW": 1,
+      "NNP-IN": 1,
+      "IN-NN": 5,
+      "NN-CD": 1,
+      "CD-NN": 1,
+      "FW-VBZ": 1,
+      "VBZ-JJ": 1,
+      "VBP-NN": 1,
+      "FW-JJ": 4,
+      "JJ-NNP": 1,
+      "NN-VBP": 2,
+      "VBP-IN": 1,
+      "IN-JJ": 3,
+      "FW-NN": 5,
+      "NNS-IN": 1,
+      "VBP-NNS": 2,
+      "NNS-FW": 2,
+      "NNP-VBD": 2,
+      "VBD-JJ": 1,
+      "NN-VBZ": 1,
+      "VBZ-IN": 1,
+      "VBD-FW": 1
+    },
+    "trigram_freq": {
+      "NN-NN-NN": 32,
+      "NN-NN-JJ": 3,
+      "NN-JJ-NN": 2,
+      "JJ-NN-NN": 7,
+      "NN-JJ-JJ": 1,
+      "JJ-JJ-NN": 3,
+      "JJ-NN-IN": 6,
+      "NN-IN-FW": 5,
+      "IN-FW-FW": 2,
+      "FW-FW-FW": 29,
+      "FW-FW-NNP": 5,
+      "FW-NNP-NNP": 6,
+      "NNP-NNP-VBZ": 1,
+      "NNP-VBZ-NN": 1,
+      "VBZ-NN-NN": 1,
+      "NN-NN-IN": 7,
+      "NN-IN-NNP": 3,
+      "IN-NNP-NNP": 3,
+      "NNP-NNP-NNP": 5,
+      "NNP-NNP-FW": 2,
+      "NNP-FW-NNP": 1,
+      "NNP-NNP-NN": 4,
+      "NNP-NN-FW": 1,
+      "NN-FW-NNP": 3,
+      "FW-NNP-FW": 2,
+      "NNP-FW-FW": 3,
+      "FW-FW-NNS": 1,
+      "FW-NNS-NNP": 1,
+      "NNS-NNP-NN": 1,
+      "NNP-NN-NN": 7,
+      "NN-NN-NNP": 1,
+      "NN-NNP-NN": 1,
+      "NN-NN-NNS": 4,
+      "NN-NNS-VBP": 4,
+      "NNS-VBP-JJ": 3,
+      "VBP-JJ-FW": 1,
+      "JJ-FW-FW": 1,
+      "NNP-NNP-IN": 1,
+      "NNP-IN-NN": 1,
+      "IN-NN-NN": 4,
+      "NN-NN-CD": 1,
+      "NN-CD-NN": 1,
+      "CD-NN-NN": 1,
+      "NNP-FW-VBZ": 1,
+      "FW-VBZ-JJ": 1,
+      "VBZ-JJ-JJ": 1,
+      "NN-IN-NN": 3,
+      "NNS-VBP-NN": 1,
+      "VBP-NN-FW": 1,
+      "NN-FW-JJ": 2,
+      "FW-JJ-NN": 3,
+      "IN-FW-JJ": 2,
+      "FW-JJ-NNP": 1,
+      "JJ-NNP-NN": 1,
+      "NN-NN-VBP": 2,
+      "NN-VBP-IN": 1,
+      "VBP-IN-JJ": 1,
+      "IN-JJ-NN": 3,
+      "FW-FW-NN": 4,
+      "FW-NN-NN": 3,
+      "NN-NN-FW": 4,
+      "NN-NNS-IN": 1,
+      "NNS-IN-NN": 1,
+      "NNS-VBP-NNS": 2,
+      "VBP-NNS-FW": 1,
+      "NNS-FW-FW": 2,
+      "FW-NNP-NN": 2,
+      "IN-NNP-FW": 1,
+      "NN-FW-NN": 1,
+      "NN-FW-FW": 2,
+      "NNP-NNP-VBD": 2,
+      "NNP-VBD-JJ": 1,
+      "VBD-JJ-JJ": 1,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-IN": 1,
+      "VBZ-IN-NNP": 1,
+      "NN-FW-NNS": 1,
+      "FW-NNS-FW": 1,
+      "NNP-NN-NNP": 1,
+      "NN-NNP-NNP": 1,
+      "NN-IN-JJ": 2,
+      "JJ-NN-FW": 1,
+      "NNP-VBD-FW": 1,
+      "VBD-FW-NNP": 1,
+      "FW-NN-FW": 2,
+      "NN-VBP-JJ": 1,
+      "VBP-JJ-NN": 3,
+      "IN-FW-NNS": 1,
+      "FW-NNS-VBP": 1,
+      "IN-NN-NNS": 1,
+      "VBP-NNS-VBP": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 93,
+        "FW": 62,
+        "NNP": 33,
+        "JJ": 19,
+        "IN": 17
+      },
+      "top_bigrams": {
+        "NN-NN": 56,
+        "FW-FW": 39,
+        "NNP-NNP": 15,
+        "JJ-NN": 14,
+        "NN-IN": 13
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 32,
+        "FW-FW-FW": 29,
+        "JJ-NN-NN": 7,
+        "NN-NN-IN": 7,
+        "NNP-NN-NN": 7
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 10,
+    "chunk_counts": {
+      "NP": 68,
+      "PP": 15,
+      "VP": 17,
+      "ADJP": 2
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 7,
+        "weight": 0.0625
+      },
+      {
+        "rule": "NP -> ('Haití', 'NNP')",
+        "frequency": 5,
+        "weight": 0.0446
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 5,
+        "weight": 0.0446
+      },
+      {
+        "rule": "NP -> ('Puerto', 'NNP') ('Príncipe', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0179
+      },
+      {
+        "rule": "NP -> ('Médicos', 'NNP') ('Sin', 'NNP') ('Fronteras', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0179
+      },
+      {
+        "rule": "S -> NP PP NP ('de', 'IN') ('la', 'FW') ('seguridad', 'FW') ('y', 'FW') ('la', 'FW') ('precariedad', 'FW') ('del', 'FW') ('sistema', 'FW') ('de', 'FW') ('salud', 'FW') ('en', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0089
+      },
+      {
+        "rule": "NP -> ('Este', 'NN') ('reciente', 'NN')",
+        "frequency": 1,
+        "weight": 0.0089
+      },
+      {
+        "rule": "PP -> ('ataque', 'IN') NP",
+        "frequency": 1,
+        "weight": 0.0089
+      },
+      {
+        "rule": "NP -> ('a', 'DT') ('un', 'JJ') ('centro', 'NN') ('médico', 'NN')",
+        "frequency": 1,
+        "weight": 0.0089
+      },
+      {
+        "rule": "NP -> ('ilustra', 'JJ') ('el', 'JJ') ('deterioro', 'NN')",
+        "frequency": 1,
+        "weight": 0.0089
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Este reciente"
+      },
+      {
+        "label": "PP",
+        "text": "ataque a un centro médico"
+      },
+      {
+        "label": "NP",
+        "text": "a un centro médico"
+      },
+      {
+        "label": "NP",
+        "text": "ilustra el deterioro"
+      },
+      {
+        "label": "NP",
+        "text": "Haití"
+      },
+      {
+        "label": "NP",
+        "text": "Hombres"
+      },
+      {
+        "label": "VP",
+        "text": "armados atacaron y causaron daños significativos"
+      },
+      {
+        "label": "NP",
+        "text": "y causaron daños significativos"
+      },
+      {
+        "label": "PP",
+        "text": "al Hospital Bernard Mevs"
+      },
+      {
+        "label": "NP",
+        "text": "Hospital Bernard Mevs"
+      },
+      {
+        "label": "NP",
+        "text": "Puerto Príncipe"
+      },
+      {
+        "label": "NP",
+        "text": "la capital"
+      },
+      {
+        "label": "PP",
+        "text": "de Haití"
+      },
+      {
+        "label": "NP",
+        "text": "Haití"
+      },
+      {
+        "label": "NP",
+        "text": "la"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Este/NN reciente/NN)\n  (PP ataque/IN (NP a/DT un/JJ centro/NN médico/NN))\n  (NP ilustra/JJ el/JJ deterioro/NN)\n  de/IN\n  la/FW\n  seguridad/FW\n  y/FW\n  la/FW\n  precariedad/FW\n  del/FW\n  sistema/FW\n  de/FW\n  salud/FW\n  en/FW\n  (NP Haití/NNP)\n  ./.)",
+      "(S\n  (NP Hombres/NNS)\n  (VP\n    armados/VBP\n    atacaron/RB\n    (NP y/JJ causaron/NN daños/NN significativos/NN))\n  (PP al/IN (NP Hospital/NNP Bernard/NNP Mevs/NNP))\n  en/FW\n  (NP Puerto/NNP Príncipe/NNP)\n  ,/,\n  (NP la/JJ capital/NN)\n  (PP de/IN (NP Haití/NNP))\n  ,/,\n  (NP la/NN)\n  noche/FW\n  (NP del/NN lunes/NNS)\n  ./.)",
+      "(S\n  (NP Una/NNP fuente/NN que/NN pidió/NN anonimato/NN)\n  (VP\n    informó/VBZ\n    (NP\n      a/DT\n      Reuters/NNP\n      que/NN\n      el/NN\n      ataque/NN\n      dejó/NN\n      cuatro/NN\n      quirófanos/NNS))\n  (VP y/VBP (NP todo/JJ el/JJ equipo/NN))\n  de/IN\n  laboratorio/FW\n  en/FW\n  (NP ruinas/NN)\n  ./.)",
+      "(S\n  (NP Janvier/NNP Bessiere/NNP)\n  :/:\n  (NP Haití/NNP)\n  (PP pide/IN (NP respeto/NN y/NN))\n  (VP derecho/VBZ (NP a/DT vivir/NN sin/NN injerencia/NN))\n  ,/,\n  a/DT\n  110/CD\n  (NP años/NN del/NN robo/NN)\n  (PP de/IN (NP EE.UU/NNP))\n  ./.)",
+      "(S\n  (NP Afortunadamente/NNP)\n  ,/,\n  (NP ni/JJ pacientes/NNS)\n  (VP ni/VBP (NP personal/JJ resultaron/NN heridos/NN))\n  ,/,\n  ya/PRP\n  (VP\n    que/VBP\n    el/RB\n    (NP\n      establecimiento/JJ\n      médico/NN\n      había/NN\n      sido/NN\n      evacuado/NN\n      previamente/NN\n      tras/NNS))\n  (VP recibir/VBP (NP amenazas/NN))\n  de/FW\n  (NP un/JJ líder/NN)\n  de/IN\n  banda/FW\n  (ADJP local/JJ)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "FECHAS_HORAS",
+      "ORGANISMOS_INTERNACIONALES",
+      "TIEMPO_RELATIVO",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "MEDIOS_COMUNICACION",
+      "LOCALIZACIONES_ESPECIFICAS",
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "INFRAESTRUCTURA_SERVICIOS"
+    ],
+    "matches": [
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "capital",
+        "position": [
+          230,
+          237
+        ],
+        "start": 230,
+        "end": 237
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "informó",
+        "position": [
+          299,
+          306
+        ],
+        "start": 299,
+        "end": 306
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "advirtió",
+        "position": [
+          914,
+          922
+        ],
+        "start": 914,
+        "end": 922
+      },
+      {
+        "category": "ORGANISMOS_INTERNACIONALES",
+        "matched_text": "onu",
+        "position": [
+          910,
+          913
+        ],
+        "start": 910,
+        "end": 913
+      },
+      {
+        "category": "MEDIOS_COMUNICACION",
+        "matched_text": "canal de whatsapp",
+        "position": [
+          1342,
+          1359
+        ],
+        "start": 1342,
+        "end": 1359
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "hospital",
+        "position": [
+          185,
+          193
+        ],
+        "start": 185,
+        "end": 193
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "puerto",
+        "position": [
+          210,
+          216
+        ],
+        "start": 210,
+        "end": 216
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "centro médico",
+        "position": [
+          26,
+          39
+        ],
+        "start": 26,
+        "end": 39
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "hospital bernard",
+        "position": [
+          185,
+          201
+        ],
+        "start": 185,
+        "end": 201
+      },
+      {
+        "category": "TIEMPO_RELATIVO",
+        "matched_text": "el mes pasado",
+        "position": [
+          828,
+          841
+        ],
+        "start": 828,
+        "end": 841
+      },
+      {
+        "category": "FECHAS_HORAS",
+        "matched_text": "semana pasada",
+        "position": [
+          1254,
+          1267
+        ],
+        "start": 1254,
+        "end": 1267
+      }
+    ],
+    "match_count": 11
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "EE.UU.",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Haití",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Reuters",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "WhatsApp",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Hombres",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Janvier Bessiere",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "ONU",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Puerto Príncipe",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Hospital Bernard Mevs",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Médicos Sin Fronteras",
+        "tipo": "Organizacion"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Hombres",
+        "relacion": "ATACAR",
+        "objeto": "Hospital Bernard Mevs"
+      },
+      {
+        "sujeto": "Hombres",
+        "relacion": "ATACAR",
+        "objeto": "Puerto Príncipe"
+      },
+      {
+        "sujeto": "Hombres",
+        "relacion": "ATACAR",
+        "objeto": "Haití"
+      },
+      {
+        "sujeto": "Hospital Bernard Mevs",
+        "relacion": "CAUSAR_ATACAR",
+        "objeto": "Puerto Príncipe"
+      },
+      {
+        "sujeto": "Hospital Bernard Mevs",
+        "relacion": "CAUSAR_ATACAR",
+        "objeto": "Haití"
+      },
+      {
+        "sujeto": "Puerto Príncipe",
+        "relacion": "ATACAR",
+        "objeto": "Haití"
+      },
+      {
+        "sujeto": "Janvier Bessiere",
+        "relacion": "PEDIR",
+        "objeto": "Haití"
+      },
+      {
+        "sujeto": "Janvier Bessiere",
+        "relacion": "PEDIR",
+        "objeto": "EE.UU."
+      },
+      {
+        "sujeto": "Haití",
+        "relacion": "PEDIR",
+        "objeto": "EE.UU."
+      },
+      {
+        "sujeto": "ONU",
+        "relacion": "ADVERTIR",
+        "objeto": "Haití"
+      },
+      {
+        "sujeto": "Médicos Sin Fronteras",
+        "relacion": "DETENER",
+        "objeto": "Puerto Príncipe"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.926,
+    "pos": 0.009,
+    "neu": 0.934,
+    "neg": 0.057,
+    "label": "negative"
+  }
+}

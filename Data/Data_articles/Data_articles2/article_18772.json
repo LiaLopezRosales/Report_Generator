@@ -1,0 +1,656 @@
+{
+  "url": "https://www.telesurtv.net/asesinan-a-cinco-personas-en-un-autobus-interprovincial-en-los-rios-ecuador/",
+  "title": "Asesinan a cinco personas en un autobús interprovincial en Los Ríos, Ecuador   - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "Asesinan",
+    "personas"
+  ],
+  "text": "Autoridades policiales de Ecuador informaron este viernes que cinco integrantes de una familia resultaron asesinados en la noche del jueves, y otra persona resultó herida, mientras viajaban un bus interprovincial de ese país suramericano.\nSegún la fuente, los hechos ocurrieron cuando se dirigían al norte del país, y entre las personas que murieron se encuentraban cuatro adultos, entre ellos un hombre de nacionalidad venezolana, y un niño de cino años.\nLos atacantes dispararon contra el vehículo para impedir la marcha, y una de estas balas impactó la pierna del conductor que perdió el control del autobús, donde murieron cuatro de las víctimas; mientras, el menor falleció horas después en el hospital.\nEl jefe policial del distrito, Diego Villamarín, explicó que “se descarta que el hecho fuese un robo”, pues aseguró que los agresores que interceptaron al autobús, inicialmente identificaron a sus víctimas y luego les dispararon.\nEl acontecimiento ocurrió en el marco de los insistidos reclamos efectuados por el gremio de transportistas debido a la inseguridad en las vías del país.\nPor su parte, la Policía de Ecuador informó que detuvo dos presuntos implicados en el hecho por lo que, presuntamente, se trata de grupos delictivos.\n“En Pueblo Viejo se aprehendió a Edgar G. y Eusebio V., quien registra antecedentes por tráfico ilícito de sustancias sujetas a fiscalización. En cuyo poder se encontró 1 arma de fuego, 1 alimentadora y 50 cartuchos”, destacó el ente.\nTambién refirió que “preliminarmente este suceso se trataría de una disputa entre bandas delictivas, que dejó cinco fallecidos, uno de ellos con antecedentes por asesinato; así como otro resultó herido”.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/asesinan-a-cinco-personas-en-un-autobus-interprovincial-en-los-rios-ecuador/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-07.json",
+    "message_index": 442,
+    "message_id": 73395,
+    "date": "2024-07-19T22:55:07+00:00",
+    "text": "teleSUR\nAsesinan a cinco personas en un autobús interprovincial en Los Ríos, Ecuador\nhttps://www.telesurtv.net/asesinan-a-cinco-personas-en-un-autobus-interprovincial-en-los-rios-ecuador/",
+    "photo_path": null,
+    "views": 1546,
+    "reactions": {},
+    "total_reactions": 0
+  },
+  "preprocessing": {
+    "cleaned": "autoridades policiales de ecuador informaron este viernes que cinco integrantes de una familia resultaron asesinados en la noche del jueves, y otra persona resultó herida, mientras viajaban un bus interprovincial de ese país suramericano. según la fuente, los hechos ocurrieron cuando se dirigían al norte del país, y entre las personas que murieron se encuentraban cuatro adultos, entre ellos un hombre de nacionalidad venezolana, y un niño de cino años. los atacantes dispararon contra el vehículo para impedir la marcha, y una de estas balas impactó la pierna del conductor que perdió el control del autobús, donde murieron cuatro de las víctimas; mientras, el menor falleció horas después en el hospital. el jefe policial del distrito, diego villamarín, explicó que “se descarta que el hecho fuese un robo”, pues aseguró que los agresores que interceptaron al autobús, inicialmente identificaron a sus víctimas y luego les dispararon. el acontecimiento ocurrió en el marco de los insistidos reclamos efectuados por el gremio de transportistas debido a la inseguridad en las vías del país. por su parte, la policía de ecuador informó que detuvo dos presuntos implicados en el hecho por lo que, presuntamente, se trata de grupos delictivos. “en pueblo viejo se aprehendió a edgar g. y eusebio v., quien registra antecedentes por tráfico ilícito de sustancias sujetas a fiscalización. en cuyo poder se encontró 1 arma de fuego, 1 alimentadora y 50 cartuchos”, destacó el ente. también refirió que “preliminarmente este suceso se trataría de una disputa entre bandas delictivas, que dejó cinco fallecidos, uno de ellos con antecedentes por asesinato; así como otro resultó herido”.",
+    "tokens": [
+      "autoridades",
+      "policiales",
+      "ecuador",
+      "informaron",
+      "viernes",
+      "cinco",
+      "integrantes",
+      "familia",
+      "resultaron",
+      "asesinados",
+      "noche",
+      "jueves",
+      ",",
+      "persona",
+      "resultó",
+      "herida",
+      ",",
+      "mientras",
+      "viajaban",
+      "bus",
+      "interprovincial",
+      "país",
+      "suramericano",
+      ".",
+      "según",
+      "fuente",
+      ",",
+      "hechos",
+      "ocurrieron",
+      "dirigían",
+      "norte",
+      "país",
+      ",",
+      "personas",
+      "murieron",
+      "encuentraban",
+      "cuatro",
+      "adultos",
+      ",",
+      "hombre",
+      "nacionalidad",
+      "venezolana",
+      ",",
+      "niño",
+      "cino",
+      "años",
+      ".",
+      "atacantes",
+      "dispararon",
+      "vehículo",
+      "impedir",
+      "marcha",
+      ",",
+      "balas",
+      "impactó",
+      "pierna",
+      "conductor",
+      "perdió",
+      "control",
+      "autobús",
+      ",",
+      "murieron",
+      "cuatro",
+      "víctimas",
+      ";",
+      "mientras",
+      ",",
+      "menor",
+      "falleció",
+      "horas",
+      "después",
+      "hospital",
+      ".",
+      "jefe",
+      "policial",
+      "distrito",
+      ",",
+      "diego",
+      "villamarín",
+      ",",
+      "explicó",
+      "“",
+      "descarta",
+      "hecho",
+      "robo",
+      "”",
+      ",",
+      "pues",
+      "aseguró",
+      "agresores",
+      "interceptaron",
+      "autobús",
+      ",",
+      "inicialmente",
+      "identificaron",
+      "víctimas",
+      "luego",
+      "dispararon",
+      ".",
+      "acontecimiento",
+      "ocurrió",
+      "marco",
+      "insistidos",
+      "reclamos",
+      "efectuados",
+      "gremio",
+      "transportistas",
+      "debido",
+      "inseguridad",
+      "vías",
+      "país",
+      ".",
+      "parte",
+      ",",
+      "policía",
+      "ecuador",
+      "informó",
+      "detuvo",
+      "dos",
+      "presuntos",
+      "implicados",
+      "hecho",
+      ",",
+      "presuntamente",
+      ",",
+      "trata",
+      "grupos",
+      "delictivos",
+      ".",
+      "“",
+      "pueblo",
+      "viejo",
+      "aprehendió",
+      "edgar",
+      "g.",
+      "eusebio",
+      "v.",
+      ",",
+      "registra",
+      "antecedentes",
+      "tráfico",
+      "ilícito",
+      "sustancias",
+      "sujetas",
+      "fiscalización",
+      ".",
+      "cuyo",
+      "poder",
+      "encontró",
+      "1",
+      "arma",
+      "fuego",
+      ",",
+      "1",
+      "alimentadora",
+      "50",
+      "cartuchos",
+      "”",
+      ",",
+      "destacó",
+      "ente",
+      ".",
+      "refirió",
+      "“",
+      "preliminarmente",
+      "suceso",
+      "trataría",
+      "disputa",
+      "bandas",
+      "delictivas",
+      ",",
+      "dejó",
+      "cinco",
+      "fallecidos",
+      ",",
+      "antecedentes",
+      "asesinato",
+      ";",
+      "así",
+      "resultó",
+      "herido",
+      "”",
+      "."
+    ],
+    "token_count": 183,
+    "sentence_count": 9
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNS": 12,
+      "IN": 14,
+      "NNP": 20,
+      "NN": 105,
+      "VBP": 10,
+      "JJ": 31,
+      "FW": 49,
+      "VBD": 2,
+      "VBZ": 6,
+      "RB": 1,
+      "$": 1,
+      "CD": 1
+    },
+    "bigram_freq": {
+      "NNS-NNS": 1,
+      "NNS-IN": 2,
+      "IN-NNP": 2,
+      "NNP-NN": 7,
+      "NN-NN": 66,
+      "NN-NNS": 5,
+      "NNS-VBP": 9,
+      "VBP-JJ": 6,
+      "JJ-NNS": 2,
+      "IN-JJ": 4,
+      "JJ-JJ": 4,
+      "JJ-NN": 20,
+      "NN-IN": 10,
+      "IN-FW": 8,
+      "FW-FW": 28,
+      "FW-NNS": 3,
+      "VBP-NNP": 2,
+      "NNP-NNP": 7,
+      "NNP-VBD": 2,
+      "VBD-JJ": 2,
+      "NN-JJ": 7,
+      "NN-FW": 8,
+      "FW-NN": 10,
+      "FW-JJ": 4,
+      "JJ-FW": 4,
+      "NN-VBZ": 4,
+      "VBZ-JJ": 4,
+      "NNP-VBZ": 2,
+      "VBZ-VBP": 1,
+      "VBP-IN": 1,
+      "NN-NNP": 4,
+      "VBP-NN": 1,
+      "VBZ-RB": 1,
+      "RB-NNP": 1,
+      "NNP-IN": 1,
+      "FW-NNP": 3,
+      "NNP-FW": 1,
+      "JJ-NNP": 1,
+      "FW-$": 1,
+      "$-CD": 1,
+      "CD-NN": 1
+    },
+    "trigram_freq": {
+      "NNS-NNS-IN": 1,
+      "NNS-IN-NNP": 1,
+      "IN-NNP-NN": 1,
+      "NNP-NN-NN": 7,
+      "NN-NN-NNS": 2,
+      "NN-NNS-VBP": 5,
+      "NNS-VBP-JJ": 5,
+      "VBP-JJ-NNS": 1,
+      "JJ-NNS-IN": 1,
+      "NNS-IN-JJ": 1,
+      "IN-JJ-JJ": 1,
+      "JJ-JJ-NN": 4,
+      "JJ-NN-NN": 14,
+      "NN-NN-IN": 5,
+      "NN-IN-FW": 7,
+      "IN-FW-FW": 3,
+      "FW-FW-FW": 17,
+      "FW-FW-NNS": 2,
+      "FW-NNS-VBP": 3,
+      "VBP-JJ-NN": 4,
+      "NN-IN-JJ": 2,
+      "IN-JJ-NNS": 1,
+      "JJ-NNS-VBP": 1,
+      "NNS-VBP-NNP": 2,
+      "VBP-NNP-NNP": 1,
+      "NNP-NNP-VBD": 2,
+      "NNP-VBD-JJ": 2,
+      "VBD-JJ-JJ": 1,
+      "NN-NN-NN": 41,
+      "NN-NN-JJ": 7,
+      "NN-JJ-NN": 6,
+      "NN-NN-FW": 5,
+      "NN-FW-FW": 5,
+      "FW-FW-NN": 6,
+      "FW-NN-FW": 3,
+      "NN-FW-JJ": 1,
+      "FW-JJ-FW": 2,
+      "JJ-FW-NN": 1,
+      "FW-NN-NN": 2,
+      "NN-NN-VBZ": 3,
+      "NN-VBZ-JJ": 3,
+      "VBZ-JJ-JJ": 1,
+      "JJ-NN-IN": 4,
+      "FW-FW-JJ": 2,
+      "JJ-FW-FW": 3,
+      "FW-NN-IN": 1,
+      "NN-IN-NNP": 1,
+      "IN-NNP-VBZ": 1,
+      "NNP-VBZ-VBP": 1,
+      "VBZ-VBP-JJ": 1,
+      "VBP-JJ-FW": 1,
+      "FW-NN-NNS": 1,
+      "NNS-VBP-IN": 1,
+      "VBP-IN-FW": 1,
+      "IN-FW-NN": 2,
+      "FW-NN-NNP": 2,
+      "NN-NNP-VBZ": 1,
+      "NNP-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 3,
+      "NN-NN-NNP": 2,
+      "NN-NNP-NNP": 2,
+      "NNP-NNP-NN": 2,
+      "NN-JJ-JJ": 1,
+      "JJ-NN-NNS": 2,
+      "NNS-VBP-NN": 1,
+      "VBP-NN-NN": 1,
+      "NN-VBZ-RB": 1,
+      "VBZ-RB-NNP": 1,
+      "RB-NNP-IN": 1,
+      "NNP-IN-JJ": 1,
+      "IN-JJ-FW": 1,
+      "FW-JJ-NN": 2,
+      "FW-FW-NNP": 1,
+      "FW-NNP-NN": 2,
+      "NN-FW-NNP": 1,
+      "FW-NNP-FW": 1,
+      "NNP-FW-NNP": 1,
+      "IN-FW-JJ": 1,
+      "NN-FW-NN": 1,
+      "NNP-NNP-NNP": 3,
+      "VBD-JJ-NNP": 1,
+      "JJ-NNP-NNP": 1,
+      "IN-FW-NNS": 1,
+      "VBP-NNP-NN": 1,
+      "IN-FW-$": 1,
+      "FW-$-CD": 1,
+      "$-CD-NN": 1,
+      "CD-NN-NN": 1,
+      "NN-NNP-NN": 1,
+      "IN-JJ-NN": 1,
+      "FW-NN-VBZ": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 105,
+        "FW": 49,
+        "JJ": 31,
+        "NNP": 20,
+        "IN": 14
+      },
+      "top_bigrams": {
+        "NN-NN": 66,
+        "FW-FW": 28,
+        "JJ-NN": 20,
+        "NN-IN": 10,
+        "FW-NN": 10
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 41,
+        "FW-FW-FW": 17,
+        "JJ-NN-NN": 14,
+        "NNP-NN-NN": 7,
+        "NN-IN-FW": 7
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 9,
+    "chunk_counts": {
+      "NP": 69,
+      "PP": 7,
+      "VP": 16
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 5,
+        "weight": 0.0495
+      },
+      {
+        "rule": "VP -> ('que', 'VBP') NP",
+        "frequency": 2,
+        "weight": 0.0198
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0198
+      },
+      {
+        "rule": "VP -> ('antecedentes', 'VBZ') NP",
+        "frequency": 2,
+        "weight": 0.0198
+      },
+      {
+        "rule": "S -> NP PP VP PP ('en', 'IN') ('la', 'FW') ('noche', 'FW') ('del', 'FW') NP (',', ',') ('y', 'CC') NP (',', ',') ('mientras', 'FW') ('viajaban', 'FW') NP PP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0099
+      },
+      {
+        "rule": "NP -> ('Autoridades', 'NNS') ('policiales', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0099
+      },
+      {
+        "rule": "NP -> ('Ecuador', 'NNP') ('informaron', 'NN') ('este', 'NN') ('viernes', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0099
+      },
+      {
+        "rule": "NP -> ('cinco', 'JJ') ('integrantes', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0099
+      },
+      {
+        "rule": "NP -> ('una', 'JJ') ('familia', 'JJ') ('resultaron', 'NN') ('asesinados', 'NN')",
+        "frequency": 1,
+        "weight": 0.0099
+      },
+      {
+        "rule": "NP -> ('jueves', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0099
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Autoridades policiales"
+      },
+      {
+        "label": "PP",
+        "text": "de Ecuador informaron este viernes"
+      },
+      {
+        "label": "NP",
+        "text": "Ecuador informaron este viernes"
+      },
+      {
+        "label": "VP",
+        "text": "que cinco integrantes"
+      },
+      {
+        "label": "NP",
+        "text": "cinco integrantes"
+      },
+      {
+        "label": "PP",
+        "text": "de una familia resultaron asesinados"
+      },
+      {
+        "label": "NP",
+        "text": "una familia resultaron asesinados"
+      },
+      {
+        "label": "NP",
+        "text": "jueves"
+      },
+      {
+        "label": "NP",
+        "text": "otra persona resultó herida"
+      },
+      {
+        "label": "NP",
+        "text": "un bus interprovincial"
+      },
+      {
+        "label": "PP",
+        "text": "de ese país suramericano"
+      },
+      {
+        "label": "NP",
+        "text": "ese país suramericano"
+      },
+      {
+        "label": "NP",
+        "text": "Según la fuente"
+      },
+      {
+        "label": "NP",
+        "text": "los hechos ocurrieron cuando se dirigían al"
+      },
+      {
+        "label": "NP",
+        "text": "norte del país"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Autoridades/NNS policiales/NNS)\n  (PP de/IN (NP Ecuador/NNP informaron/NN este/NN viernes/NNS))\n  (VP que/VBP (NP cinco/JJ integrantes/NNS))\n  (PP de/IN (NP una/JJ familia/JJ resultaron/NN asesinados/NN))\n  en/IN\n  la/FW\n  noche/FW\n  del/FW\n  (NP jueves/NNS)\n  ,/,\n  y/CC\n  (NP otra/JJ persona/NN resultó/NN herida/NN)\n  ,/,\n  mientras/FW\n  viajaban/FW\n  (NP un/JJ bus/NN interprovincial/NN)\n  (PP de/IN (NP ese/JJ país/JJ suramericano/NN))\n  ./.)",
+      "(S\n  (NP Según/NNP la/NN fuente/NN)\n  ,/,\n  (NP\n    los/JJ\n    hechos/NN\n    ocurrieron/NN\n    cuando/NN\n    se/NN\n    dirigían/NN\n    al/NN)\n  (NP norte/JJ del/NN país/NN)\n  ,/,\n  y/CC\n  (NP entre/JJ las/NNS)\n  (VP\n    personas/VBP\n    (NP que/JJ murieron/NN se/NN)\n    (NP encuentraban/JJ cuatro/NN adultos/NN))\n  ,/,\n  entre/FW\n  ellos/FW\n  (NP un/JJ hombre/NN)\n  de/IN\n  nacionalidad/FW\n  (NP venezolana/NN)\n  ,/,\n  y/CC\n  (NP un/JJ niño/NN)\n  (PP de/IN (NP cino/NN años/NN))\n  ./.)",
+      "(S\n  (NP Los/NNP)\n  (VP atacantes/VBZ)\n  (VP\n    dispararon/VBP\n    (NP\n      contra/JJ\n      el/NN\n      vehículo/NN\n      para/NN\n      impedir/NN\n      la/NN\n      marcha/NN))\n  ,/,\n  (NP y/JJ una/NN)\n  de/IN\n  estas/FW\n  (NP balas/NNS)\n  (VP impactó/VBP la/JJ)\n  pierna/FW\n  del/FW\n  (NP conductor/NN que/NN)\n  (NP perdió/JJ el/NN control/NN del/NN autobús/NN)\n  ,/,\n  (NP donde/NN murieron/NN cuatro/NN)\n  de/IN\n  las/FW\n  (NP víctimas/NN)\n  ;/:\n  (NP mientras/NNS)\n  ,/,\n  (VP el/VBP (NP menor/JJ falleció/NN horas/NNS))\n  (VP después/VBP)\n  (PP en/IN (NP el/JJ hospital/NN))\n  ./.)",
+      "(S\n  (NP El/NNP jefe/NN)\n  (NP policial/JJ del/NN distrito/NN)\n  ,/,\n  (NP Diego/NNP Villamarín/NNP)\n  ,/,\n  (NP\n    explicó/NN\n    que/NN\n    “/NNP\n    se/NN\n    descarta/NN\n    que/NN\n    el/NN\n    hecho/NN)\n  (NP fuese/JJ un/JJ robo/NN ”/NN)\n  ,/,\n  (NP pues/NNS)\n  (VP aseguró/VBP (NP que/JJ los/NN agresores/NNS))\n  (VP que/VBP (NP interceptaron/NN al/NN autobús/NN))\n  ,/,\n  (NP inicialmente/JJ identificaron/NN)\n  (NP a/DT sus/NN víctimas/NN y/NN luego/NN)\n  (VP les/VBZ (NP dispararon/NN))\n  ./.)",
+      "(S\n  (NP El/NNP)\n  (VP acontecimiento/VBZ ocurrió/JJ)\n  en/FW\n  el/FW\n  marco/FW\n  de/FW\n  los/FW\n  (NP insistidos/JJ reclamos/NN efectuados/NN por/NN)\n  el/FW\n  gremio/FW\n  de/FW\n  transportistas/FW\n  debido/FW\n  (NP a/DT la/NN inseguridad/NN)\n  (PP en/IN (NP las/JJ vías/NN del/NN país/NN))\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "APROBACION_RECHAZO",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "PERIODOS_TEMPORALES",
+      "PAISES",
+      "INFRAESTRUCTURA_SERVICIOS",
+      "CONFLICTOS_ARMADOS_OPERACIONES"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "policía de ecuador informó que detuvo",
+        "position": [
+          1110,
+          1147
+        ],
+        "start": 1110,
+        "end": 1147
+      },
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "impactó",
+        "position": [
+          545,
+          552
+        ],
+        "start": 545,
+        "end": 552
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "informó",
+        "position": [
+          1129,
+          1136
+        ],
+        "start": 1129,
+        "end": 1136
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "explicó",
+        "position": [
+          758,
+          765
+        ],
+        "start": 758,
+        "end": 765
+      },
+      {
+        "category": "APROBACION_RECHAZO",
+        "matched_text": "destacó",
+        "position": [
+          1461,
+          1468
+        ],
+        "start": 1461,
+        "end": 1468
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "hospital",
+        "position": [
+          699,
+          707
+        ],
+        "start": 699,
+        "end": 707
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "ecuador",
+        "position": [
+          26,
+          33
+        ],
+        "start": 26,
+        "end": 33
+      },
+      {
+        "category": "PERIODOS_TEMPORALES",
+        "matched_text": "en la noche",
+        "position": [
+          117,
+          128
+        ],
+        "start": 117,
+        "end": 128
+      }
+    ],
+    "match_count": 8
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Ecuador",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Policía de Ecuador",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Pueblo Viejo",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Eusebio V.",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Diego Villamarín",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Edgar G.",
+        "tipo": "Persona"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Pueblo Viejo",
+        "relacion": "APREHENDE_R",
+        "objeto": "Edgar G."
+      },
+      {
+        "sujeto": "Pueblo Viejo",
+        "relacion": "APREHENDE_R",
+        "objeto": "Eusebio V."
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.0,
+    "pos": 0.0,
+    "neu": 1.0,
+    "neg": 0.0,
+    "label": "neutral"
+  }
+}

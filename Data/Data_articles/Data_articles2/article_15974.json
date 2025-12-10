@@ -1,0 +1,667 @@
+{
+  "url": "https://www.telesurtv.net/ataque-de-grupo-paramilitar-a-aldea-en-sudan-deja-al-menos-150-muertos/",
+  "title": "Ataque de grupo paramilitar a aldea en Sudán deja al menos 150 muertos - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "aldea",
+    "Ataque",
+    "militar",
+    "Sudán"
+  ],
+  "text": "Más de 150 personas murieron y decenas resultaron heridas producto a un ataque de paramilitares de las Fuerzas de Apoyo Rápido (RSF) este miércoles a una aldea en Wad Al Nura, en la provincia de Al-Jazira, en Sudán.\nLas FSR, en guerra con el ejército regular sudanés desde abril de 2023, “atacaron la aldea dos veces” con artillería pesada, de acuerdo al Comité de Resistencia.\n“La milicia de Apoyo Rápido comete una masacre y aniquila la aldea de Wad Al Nuraen el estado de Al-Jazira. El número de víctimas supera las 150 personas, entre niños, mujeres y ancianos”, escribió en su cuenta en X el gobernador de la provincia de Darfur, Mini Arko Minawi.\n¿Qué espera el mundo de estas milicias? qué esperan los países que las apoyan de estas milicias, y ¿por qué las Naciones Unidas guardan silencio ante estos crímenes cometidos por países que son miembros de su entidad?, declaró el funcionario.\nMientras que, en una declaración en su canal Telegram, el Gobierno de transición sudanés afirmó que “estos son actos criminales que reflejan el comportamiento sistemático de estas milicias (de RSF) al atacar a civiles, saquear sus propiedades y desplazarlos por la fuerza de sus áreas”.\nLa guerra en un poco más de un año ha dejado decenas de miles de fallecidos y el país en una grave crisis humanitaria.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/ataque-de-grupo-paramilitar-a-aldea-en-sudan-deja-al-menos-150-muertos/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-06.json",
+    "message_index": 853,
+    "message_id": 71890,
+    "date": "2024-06-07T00:57:29+00:00",
+    "text": "teleSUR\nAtaque de grupo paramilitar a aldea en Sudán deja al menos 150 muertos\nhttps://www.telesurtv.net/ataque-de-grupo-paramilitar-a-aldea-en-sudan-deja-al-menos-150-muertos/",
+    "photo_path": null,
+    "views": 734,
+    "reactions": {},
+    "total_reactions": 0
+  },
+  "preprocessing": {
+    "cleaned": "más de 150 personas murieron y decenas resultaron heridas producto a un ataque de paramilitares de las fuerzas de apoyo rápido (rsf) este miércoles a una aldea en wad al nura, en la provincia de al-jazira, en sudán. las fsr, en guerra con el ejército regular sudanés desde abril de 2023, “atacaron la aldea dos veces” con artillería pesada, de acuerdo al comité de resistencia. “la milicia de apoyo rápido comete una masacre y aniquila la aldea de wad al nuraen el estado de al-jazira. el número de víctimas supera las 150 personas, entre niños, mujeres y ancianos”, escribió en su cuenta en x el gobernador de la provincia de darfur, mini arko minawi. ¿qué espera el mundo de estas milicias? qué esperan los países que las apoyan de estas milicias, y ¿por qué las naciones unidas guardan silencio ante estos crímenes cometidos por países que son miembros de su entidad?, declaró el funcionario. mientras que, en una declaración en su canal telegram, el gobierno de transición sudanés afirmó que “estos son actos criminales que reflejan el comportamiento sistemático de estas milicias (de rsf) al atacar a civiles, saquear sus propiedades y desplazarlos por la fuerza de sus áreas”. la guerra en un poco más de un año ha dejado decenas de miles de fallecidos y el país en una grave crisis humanitaria.",
+    "tokens": [
+      "150",
+      "personas",
+      "murieron",
+      "decenas",
+      "resultaron",
+      "heridas",
+      "producto",
+      "ataque",
+      "paramilitares",
+      "fuerzas",
+      "apoyo",
+      "rápido",
+      "(",
+      "rsf",
+      ")",
+      "miércoles",
+      "aldea",
+      "wad",
+      "nura",
+      ",",
+      "provincia",
+      "al-jazira",
+      ",",
+      "sudán",
+      ".",
+      "fsr",
+      ",",
+      "guerra",
+      "ejército",
+      "regular",
+      "sudanés",
+      "abril",
+      "2023",
+      ",",
+      "“",
+      "atacaron",
+      "aldea",
+      "dos",
+      "veces",
+      "”",
+      "artillería",
+      "pesada",
+      ",",
+      "acuerdo",
+      "comité",
+      "resistencia",
+      ".",
+      "“",
+      "milicia",
+      "apoyo",
+      "rápido",
+      "comete",
+      "masacre",
+      "aniquila",
+      "aldea",
+      "wad",
+      "nuraen",
+      "al-jazira",
+      ".",
+      "número",
+      "víctimas",
+      "supera",
+      "150",
+      "personas",
+      ",",
+      "niños",
+      ",",
+      "mujeres",
+      "ancianos",
+      "”",
+      ",",
+      "escribió",
+      "cuenta",
+      "x",
+      "gobernador",
+      "provincia",
+      "darfur",
+      ",",
+      "mini",
+      "arko",
+      "minawi",
+      ".",
+      "¿qué",
+      "espera",
+      "mundo",
+      "milicias",
+      "?",
+      "esperan",
+      "países",
+      "apoyan",
+      "milicias",
+      ",",
+      "¿por",
+      "naciones",
+      "unidas",
+      "guardan",
+      "silencio",
+      "crímenes",
+      "cometidos",
+      "países",
+      "miembros",
+      "entidad",
+      "?",
+      ",",
+      "declaró",
+      "funcionario",
+      ".",
+      "mientras",
+      ",",
+      "declaración",
+      "canal",
+      "telegram",
+      ",",
+      "gobierno",
+      "transición",
+      "sudanés",
+      "afirmó",
+      "“",
+      "actos",
+      "criminales",
+      "reflejan",
+      "comportamiento",
+      "sistemático",
+      "milicias",
+      "(",
+      "rsf",
+      ")",
+      "atacar",
+      "civiles",
+      ",",
+      "saquear",
+      "propiedades",
+      "desplazarlos",
+      "fuerza",
+      "áreas",
+      "”",
+      ".",
+      "guerra",
+      "año",
+      "dejado",
+      "decenas",
+      "miles",
+      "fallecidos",
+      "país",
+      "grave",
+      "crisis",
+      "humanitaria",
+      "."
+    ],
+    "token_count": 148,
+    "sentence_count": 8
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 34,
+      "FW": 60,
+      "CD": 3,
+      "NNS": 10,
+      "VBP": 10,
+      "JJ": 25,
+      "NN": 55,
+      "IN": 13,
+      "VBZ": 2,
+      "RB": 1
+    },
+    "bigram_freq": {
+      "NNP-FW": 10,
+      "FW-CD": 1,
+      "CD-NNS": 1,
+      "NNS-VBP": 8,
+      "VBP-JJ": 9,
+      "JJ-NN": 15,
+      "NN-NN": 24,
+      "NN-JJ": 2,
+      "NN-FW": 5,
+      "FW-FW": 37,
+      "FW-NNP": 12,
+      "NNP-NNP": 16,
+      "NNP-NN": 6,
+      "NN-NNS": 6,
+      "NNS-JJ": 1,
+      "NN-IN": 12,
+      "IN-NNP": 1,
+      "FW-NN": 6,
+      "NN-VBP": 1,
+      "IN-CD": 1,
+      "CD-NN": 2,
+      "IN-NN": 1,
+      "IN-FW": 5,
+      "FW-JJ": 4,
+      "JJ-NNP": 2,
+      "NNP-JJ": 1,
+      "JJ-JJ": 3,
+      "NN-VBZ": 2,
+      "VBZ-CD": 1,
+      "JJ-NNS": 2,
+      "JJ-FW": 3,
+      "IN-JJ": 4,
+      "NN-NNP": 2,
+      "NNP-IN": 1,
+      "VBZ-JJ": 1,
+      "VBP-NN": 1,
+      "IN-NNS": 1,
+      "NNS-RB": 1,
+      "RB-VBP": 1
+    },
+    "trigram_freq": {
+      "NNP-FW-CD": 1,
+      "FW-CD-NNS": 1,
+      "CD-NNS-VBP": 1,
+      "NNS-VBP-JJ": 7,
+      "VBP-JJ-NN": 5,
+      "JJ-NN-NN": 8,
+      "NN-NN-NN": 9,
+      "NN-NN-JJ": 2,
+      "NN-JJ-NN": 1,
+      "JJ-NN-FW": 1,
+      "NN-FW-FW": 3,
+      "FW-FW-FW": 24,
+      "FW-FW-NNP": 9,
+      "FW-NNP-FW": 3,
+      "NNP-FW-NNP": 3,
+      "FW-NNP-NNP": 8,
+      "NNP-NNP-NNP": 7,
+      "NNP-NNP-NN": 3,
+      "NNP-NN-NNS": 1,
+      "NN-NNS-JJ": 1,
+      "NNS-JJ-NN": 1,
+      "JJ-NN-IN": 6,
+      "NN-IN-NNP": 1,
+      "IN-NNP-NNP": 1,
+      "NNP-NNP-FW": 5,
+      "NNP-FW-FW": 5,
+      "NNP-FW-NN": 1,
+      "FW-NN-NN": 3,
+      "NN-NN-VBP": 1,
+      "NN-VBP-JJ": 1,
+      "NN-NN-IN": 6,
+      "NN-IN-CD": 1,
+      "IN-CD-NN": 1,
+      "CD-NN-NN": 2,
+      "NN-IN-NN": 1,
+      "IN-NN-NNS": 1,
+      "NN-NNS-VBP": 5,
+      "NN-IN-FW": 4,
+      "IN-FW-JJ": 2,
+      "FW-JJ-NNP": 1,
+      "JJ-NNP-FW": 1,
+      "NNP-NNP-JJ": 1,
+      "NNP-JJ-JJ": 1,
+      "JJ-JJ-NN": 2,
+      "NN-NN-FW": 2,
+      "FW-FW-NN": 3,
+      "FW-NN-VBZ": 1,
+      "NN-VBZ-CD": 1,
+      "VBZ-CD-NN": 1,
+      "NN-JJ-NNS": 1,
+      "JJ-NNS-VBP": 2,
+      "VBP-JJ-FW": 3,
+      "JJ-FW-NN": 1,
+      "NN-IN-JJ": 4,
+      "IN-JJ-NN": 2,
+      "IN-FW-FW": 3,
+      "NNP-NN-FW": 2,
+      "FW-NN-NNS": 1,
+      "NNP-NN-NN": 2,
+      "NN-NN-NNS": 2,
+      "VBP-JJ-NNS": 1,
+      "JJ-FW-FW": 2,
+      "FW-NN-NNP": 1,
+      "NN-NNP-NN": 1,
+      "NN-FW-JJ": 1,
+      "FW-JJ-NN": 3,
+      "IN-JJ-JJ": 2,
+      "JJ-JJ-NNP": 1,
+      "JJ-NNP-NN": 1,
+      "NNP-NN-NNP": 1,
+      "NN-NNP-IN": 1,
+      "NNP-IN-FW": 1,
+      "NN-FW-NN": 1,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 1,
+      "FW-NNP-NN": 1,
+      "NNS-VBP-NN": 1,
+      "VBP-NN-NNS": 1,
+      "FW-FW-JJ": 1,
+      "NN-IN-NNS": 1,
+      "IN-NNS-RB": 1,
+      "NNS-RB-VBP": 1,
+      "RB-VBP-JJ": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "FW": 60,
+        "NN": 55,
+        "NNP": 34,
+        "JJ": 25,
+        "IN": 13
+      },
+      "top_bigrams": {
+        "FW-FW": 37,
+        "NN-NN": 24,
+        "NNP-NNP": 16,
+        "JJ-NN": 15,
+        "FW-NNP": 12
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 24,
+        "NN-NN-NN": 9,
+        "FW-FW-NNP": 9,
+        "JJ-NN-NN": 8,
+        "FW-NNP-NNP": 8
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 8,
+    "chunk_counts": {
+      "NP": 63,
+      "VP": 18,
+      "PP": 8
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 4,
+        "weight": 0.0412
+      },
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 4,
+        "weight": 0.0412
+      },
+      {
+        "rule": "NP -> ('Apoyo', 'NNP') ('Rápido', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0206
+      },
+      {
+        "rule": "NP -> ('RSF', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0206
+      },
+      {
+        "rule": "NP -> ('Al-Jazira', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0206
+      },
+      {
+        "rule": "VP -> ('y', 'VBP') NP",
+        "frequency": 2,
+        "weight": 0.0206
+      },
+      {
+        "rule": "NP -> ('milicias', 'NNS')",
+        "frequency": 2,
+        "weight": 0.0206
+      },
+      {
+        "rule": "S -> NP ('de', 'FW') ('150', 'CD') NP VP ('de', 'FW') ('paramilitares', 'FW') ('de', 'FW') ('las', 'FW') NP ('de', 'FW') NP ('(', '(') NP (')', ')') NP VP PP (',', ',') ('en', 'FW') ('la', 'FW') ('provincia', 'FW') ('de', 'FW') NP (',', ',') ('en', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0103
+      },
+      {
+        "rule": "NP -> ('Más', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0103
+      },
+      {
+        "rule": "NP -> ('personas', 'NNS') ('murieron', 'NN') ('y', 'NN') ('decenas', 'NN') ('resultaron', 'NN') ('heridas', 'NN')",
+        "frequency": 1,
+        "weight": 0.0103
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Más"
+      },
+      {
+        "label": "NP",
+        "text": "personas murieron y decenas resultaron heridas"
+      },
+      {
+        "label": "VP",
+        "text": "producto a un ataque"
+      },
+      {
+        "label": "NP",
+        "text": "a un ataque"
+      },
+      {
+        "label": "NP",
+        "text": "Fuerzas"
+      },
+      {
+        "label": "NP",
+        "text": "Apoyo Rápido"
+      },
+      {
+        "label": "NP",
+        "text": "RSF"
+      },
+      {
+        "label": "NP",
+        "text": "este"
+      },
+      {
+        "label": "VP",
+        "text": "miércoles a una aldea"
+      },
+      {
+        "label": "NP",
+        "text": "a una aldea"
+      },
+      {
+        "label": "PP",
+        "text": "en Wad Al Nura"
+      },
+      {
+        "label": "NP",
+        "text": "Wad Al Nura"
+      },
+      {
+        "label": "NP",
+        "text": "Al-Jazira"
+      },
+      {
+        "label": "NP",
+        "text": "Sudán"
+      },
+      {
+        "label": "NP",
+        "text": "Las FSR"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Más/NNP)\n  de/FW\n  150/CD\n  (NP\n    personas/NNS\n    murieron/NN\n    y/NN\n    decenas/NN\n    resultaron/NN\n    heridas/NN)\n  (VP producto/VBZ (NP a/DT un/JJ ataque/NN))\n  de/FW\n  paramilitares/FW\n  de/FW\n  las/FW\n  (NP Fuerzas/NNP)\n  de/FW\n  (NP Apoyo/NNP Rápido/NNP)\n  (/(\n  (NP RSF/NNP)\n  )/)\n  (NP este/NN)\n  (VP miércoles/VBZ (NP a/DT una/JJ aldea/NN))\n  (PP en/IN (NP Wad/NNP Al/NNP Nura/NNP))\n  ,/,\n  en/FW\n  la/FW\n  provincia/FW\n  de/FW\n  (NP Al-Jazira/NNP)\n  ,/,\n  en/FW\n  (NP Sudán/NNP)\n  ./.)",
+      "(S\n  (NP Las/NNP FSR/NNP)\n  ,/,\n  en/FW\n  guerra/FW\n  (NP con/NN el/NN)\n  (VP ejército/VBP (NP regular/JJ sudanés/NN desde/NN abril/NN))\n  de/IN\n  2023/CD\n  ,/,\n  (NP “/NNP)\n  (VP atacaron/VBZ)\n  la/FW\n  aldea/FW\n  (NP dos/NN veces/NNS)\n  (VP ”/VBP (NP con/NN artillería/NN pesada/NN))\n  ,/,\n  de/FW\n  acuerdo/FW\n  al/FW\n  (NP Comité/NNP)\n  de/FW\n  (NP Resistencia/NNP)\n  ./.)",
+      "(S\n  (NP “/JJ La/NNP)\n  milicia/FW\n  de/FW\n  (NP Apoyo/NNP Rápido/NNP)\n  (NP comete/JJ una/JJ masacre/NN y/NN aniquila/NN)\n  la/FW\n  aldea/FW\n  de/FW\n  (NP Wad/NNP Al/NNP Nuraen/NNP)\n  el/FW\n  estado/FW\n  (PP de/IN (NP Al-Jazira/NNP))\n  ./.)",
+      "(S\n  (NP El/NNP número/NN)\n  de/FW\n  víctimas/FW\n  (NP supera/NN)\n  (VP las/VBZ)\n  150/CD\n  (NP personas/NN)\n  ,/,\n  entre/FW\n  niños/FW\n  ,/,\n  (NP mujeres/NNS)\n  (VP y/VBP (NP ancianos/JJ ”/NNP))\n  ,/,\n  (NP escribió/NN)\n  en/FW\n  (NP su/NN cuenta/NN)\n  (PP en/IN (NP X/NNP))\n  el/FW\n  (NP gobernador/NN)\n  de/IN\n  la/FW\n  provincia/FW\n  de/FW\n  (NP Darfur/NNP)\n  ,/,\n  (NP Mini/NNP Arko/NNP Minawi/NNP)\n  ./.)",
+      "(S\n  (NP ¿Qué/JJ espera/NN)\n  el/FW\n  mundo/FW\n  de/FW\n  estas/FW\n  (NP milicias/NNS)\n  ?/.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "GOBIERNOS_OFICIALES",
+      "GRUPOS_ESPECIFICOS",
+      "ORGANISMOS_INTERNACIONALES",
+      "CANTIDADES_NUMERICAS",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "MEDIOS_COMUNICACION",
+      "REGIONES_PROVINCIAS",
+      "CONFLICTOS_ARMADOS_OPERACIONES"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "ataque de paramilitares de las fuerzas",
+        "position": [
+          72,
+          110
+        ],
+        "start": 72,
+        "end": 110
+      },
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "guerra en un",
+        "position": [
+          1186,
+          1198
+        ],
+        "start": 1186,
+        "end": 1198
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "declaró",
+        "position": [
+          872,
+          879
+        ],
+        "start": 872,
+        "end": 879
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "gobierno de transición sudanés",
+        "position": [
+          954,
+          984
+        ],
+        "start": 954,
+        "end": 984
+      },
+      {
+        "category": "ORGANISMOS_INTERNACIONALES",
+        "matched_text": "naciones unidas",
+        "position": [
+          765,
+          780
+        ],
+        "start": 765,
+        "end": 780
+      },
+      {
+        "category": "GRUPOS_ESPECIFICOS",
+        "matched_text": "mujeres",
+        "position": [
+          546,
+          553
+        ],
+        "start": 546,
+        "end": 553
+      },
+      {
+        "category": "MEDIOS_COMUNICACION",
+        "matched_text": "canal telegram",
+        "position": [
+          935,
+          949
+        ],
+        "start": 935,
+        "end": 949
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "provincia de",
+        "position": [
+          182,
+          194
+        ],
+        "start": 182,
+        "end": 194
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "150 personas",
+        "position": [
+          7,
+          19
+        ],
+        "start": 7,
+        "end": 19
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "más de 150",
+        "position": [
+          0,
+          10
+        ],
+        "start": 0,
+        "end": 10
+      }
+    ],
+    "match_count": 10
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Darfur",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "provincia de Al-Jazira",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "RSF",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Mini Arko Minawi",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Naciones Unidas",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Sudán",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "FSR",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Apoyo Rápido",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Wad Al Nura",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Gobierno",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Wad Al Nuraen",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Fuerzas de Apoyo Rápido",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Comité de Resistencia",
+        "tipo": "Organizacion"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "FSR",
+        "relacion": "ATACAR",
+        "objeto": "Comité de Resistencia"
+      },
+      {
+        "sujeto": "Apoyo Rápido",
+        "relacion": "COMETER",
+        "objeto": "Wad Al Nuraen"
+      },
+      {
+        "sujeto": "Gobierno",
+        "relacion": "AFIRMAR",
+        "objeto": "RSF"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.6868,
+    "pos": 0.011,
+    "neu": 0.957,
+    "neg": 0.032,
+    "label": "negative"
+  }
+}

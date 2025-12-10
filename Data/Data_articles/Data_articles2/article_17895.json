@@ -1,0 +1,848 @@
+{
+  "url": "https://www.telesurtv.net/juzgaran-a-mas-de-dos-mil-pandilleros-en-el-salvador/",
+  "title": "Juzgarán a más de dos mil pandilleros en El Salvador - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "El Salvador",
+    "estado de excepción",
+    "Nayib Bukele"
+  ],
+  "text": "Estos procesados fueron capturados en el marco de la “guerra contra pandillas” del presidente salvadoreño, Nayib Bukele.\nLa Fiscalía General de la República (FGR) de El Salvador anunció el  lunes el inicio de un proceso judicial conjunto contra más de 2,000 presuntos pandilleros de la Mara Salvatrucha (MS-13).\nEstos individuos, implicados en una serie de delitos, serán juzgados en los tribunales Contra el Crimen Organizado de Santa Ana, tras su detención bajo un régimen de excepción que ha estado vigente desde marzo de 2022.\nSegún la FGR, se han presentado tres solicitudes de agrupamiento que involucran a 2,074 presuntos miembros de MS-13, todos ellos operando en los departamentos occidentales de Ahuachapán, Sonsonate y Santa Ana. Entre los acusados se encuentran líderes de estructuras criminales, así como miembros de bajo rango y colaboradores encargados de actividades delictivas.\nLos cargos que enfrentarán incluyen la integración a “agrupaciones ilícitas”, lavado de dinero, amenazas, portación ilegal de armas y tráfico ilícito. Gracias a un decreto legislativo aprobado en agosto de 2023, la FGR ahora puede procesar a los imputados de manera conjunta por pertenecer a la misma organización criminal, optimizando así el sistema judicial.\nEl presidente Nayib Bukele ha implementado una activa “guerra” contra las pandillas, que ha resultado en la detención de más de 81,400 sospechosos desde que se instituyó el régimen de excepción, que fue solicitado por el mandatario tras un aumento alarmante de la violencia que culminó en la muerte de 87 personas entre el 25 y 27 de marzo de 2022.\nSin embargo, esta estrategia ha atraído críticas de organismos de derechos humanos, que han expresado preocupaciones sobre la detención de personas inocentes y las condiciones de reclusión en las que se encuentran los prisioneros.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/juzgaran-a-mas-de-dos-mil-pandilleros-en-el-salvador/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-08.json",
+    "message_index": 1041,
+    "message_id": 74454,
+    "date": "2024-08-13T06:55:23+00:00",
+    "text": "teleSUR\nJuzgarán a más de dos mil pandilleros en El Salvador\nhttps://www.telesurtv.net/juzgaran-a-mas-de-dos-mil-pandilleros-en-el-salvador/",
+    "photo_path": null,
+    "views": 3374,
+    "reactions": {
+      "👏": 44,
+      "🔥": 7,
+      "❤": 1
+    },
+    "total_reactions": 52
+  },
+  "preprocessing": {
+    "cleaned": "estos procesados fueron capturados en el marco de la “guerra contra pandillas” del presidente salvadoreño, nayib bukele. la fiscalía general de la república (fgr) de el salvador anunció el lunes el inicio de un proceso judicial conjunto contra más de 2,000 presuntos pandilleros de la mara salvatrucha (ms-13). estos individuos, implicados en una serie de delitos, serán juzgados en los tribunales contra el crimen organizado de santa ana, tras su detención bajo un régimen de excepción que ha estado vigente desde marzo de 2022. según la fgr, se han presentado tres solicitudes de agrupamiento que involucran a 2,074 presuntos miembros de ms-13, todos ellos operando en los departamentos occidentales de ahuachapán, sonsonate y santa ana. entre los acusados se encuentran líderes de estructuras criminales, así como miembros de bajo rango y colaboradores encargados de actividades delictivas. los cargos que enfrentarán incluyen la integración a “agrupaciones ilícitas”, lavado de dinero, amenazas, portación ilegal de armas y tráfico ilícito. gracias a un decreto legislativo aprobado en agosto de 2023, la fgr ahora puede procesar a los imputados de manera conjunta por pertenecer a la misma organización criminal, optimizando así el sistema judicial. el presidente nayib bukele ha implementado una activa “guerra” contra las pandillas, que ha resultado en la detención de más de 81,400 sospechosos desde que se instituyó el régimen de excepción, que fue solicitado por el mandatario tras un aumento alarmante de la violencia que culminó en la muerte de 87 personas entre el 25 y 27 de marzo de 2022. sin embargo, esta estrategia ha atraído críticas de organismos de derechos humanos, que han expresado preocupaciones sobre la detención de personas inocentes y las condiciones de reclusión en las que se encuentran los prisioneros.",
+    "tokens": [
+      "procesados",
+      "capturados",
+      "marco",
+      "“",
+      "guerra",
+      "pandillas",
+      "”",
+      "presidente",
+      "salvadoreño",
+      ",",
+      "nayib",
+      "bukele",
+      ".",
+      "fiscalía",
+      "general",
+      "república",
+      "(",
+      "fgr",
+      ")",
+      "salvador",
+      "anunció",
+      "lunes",
+      "inicio",
+      "proceso",
+      "judicial",
+      "conjunto",
+      "2,000",
+      "presuntos",
+      "pandilleros",
+      "mara",
+      "salvatrucha",
+      "(",
+      "ms-13",
+      ")",
+      ".",
+      "individuos",
+      ",",
+      "implicados",
+      "serie",
+      "delitos",
+      ",",
+      "juzgados",
+      "tribunales",
+      "crimen",
+      "organizado",
+      "santa",
+      "ana",
+      ",",
+      "tras",
+      "detención",
+      "bajo",
+      "régimen",
+      "excepción",
+      "vigente",
+      "marzo",
+      "2022.",
+      "según",
+      "fgr",
+      ",",
+      "presentado",
+      "tres",
+      "solicitudes",
+      "agrupamiento",
+      "involucran",
+      "2,074",
+      "presuntos",
+      "miembros",
+      "ms-13",
+      ",",
+      "operando",
+      "departamentos",
+      "occidentales",
+      "ahuachapán",
+      ",",
+      "sonsonate",
+      "santa",
+      "ana",
+      ".",
+      "acusados",
+      "encuentran",
+      "líderes",
+      "estructuras",
+      "criminales",
+      ",",
+      "así",
+      "miembros",
+      "bajo",
+      "rango",
+      "colaboradores",
+      "encargados",
+      "actividades",
+      "delictivas",
+      ".",
+      "cargos",
+      "enfrentarán",
+      "incluyen",
+      "integración",
+      "“",
+      "agrupaciones",
+      "ilícitas",
+      "”",
+      ",",
+      "lavado",
+      "dinero",
+      ",",
+      "amenazas",
+      ",",
+      "portación",
+      "ilegal",
+      "armas",
+      "tráfico",
+      "ilícito",
+      ".",
+      "gracias",
+      "decreto",
+      "legislativo",
+      "aprobado",
+      "agosto",
+      "2023",
+      ",",
+      "fgr",
+      "ahora",
+      "puede",
+      "procesar",
+      "imputados",
+      "manera",
+      "conjunta",
+      "pertenecer",
+      "misma",
+      "organización",
+      "criminal",
+      ",",
+      "optimizando",
+      "así",
+      "sistema",
+      "judicial",
+      ".",
+      "presidente",
+      "nayib",
+      "bukele",
+      "implementado",
+      "activa",
+      "“",
+      "guerra",
+      "”",
+      "pandillas",
+      ",",
+      "resultado",
+      "detención",
+      "81,400",
+      "sospechosos",
+      "instituyó",
+      "régimen",
+      "excepción",
+      ",",
+      "solicitado",
+      "mandatario",
+      "tras",
+      "aumento",
+      "alarmante",
+      "violencia",
+      "culminó",
+      "muerte",
+      "87",
+      "personas",
+      "25",
+      "27",
+      "marzo",
+      "2022.",
+      "embargo",
+      ",",
+      "estrategia",
+      "atraído",
+      "críticas",
+      "organismos",
+      "derechos",
+      "humanos",
+      ",",
+      "expresado",
+      "preocupaciones",
+      "detención",
+      "personas",
+      "inocentes",
+      "condiciones",
+      "reclusión",
+      "encuentran",
+      "prisioneros",
+      "."
+    ],
+    "token_count": 188,
+    "sentence_count": 9
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 35,
+      "NN": 73,
+      "IN": 23,
+      "FW": 65,
+      "JJ": 30,
+      "NNS": 21,
+      "VBP": 11,
+      "VBZ": 6,
+      "CD": 9,
+      "VBD": 1,
+      "RB": 1
+    },
+    "bigram_freq": {
+      "NNP-NN": 7,
+      "NN-NN": 36,
+      "NN-IN": 13,
+      "IN-FW": 11,
+      "FW-FW": 35,
+      "FW-JJ": 8,
+      "JJ-NNS": 5,
+      "NNS-VBP": 9,
+      "VBP-JJ": 6,
+      "JJ-NN": 16,
+      "NN-NNP": 4,
+      "NNP-NNP": 17,
+      "NNP-FW": 3,
+      "FW-NNP": 4,
+      "NNP-IN": 2,
+      "IN-NNP": 4,
+      "NNP-VBZ": 4,
+      "VBZ-JJ": 3,
+      "NNS-FW": 5,
+      "NN-JJ": 5,
+      "IN-CD": 4,
+      "CD-NNS": 3,
+      "IN-JJ": 2,
+      "IN-NN": 2,
+      "NN-NNS": 6,
+      "NNS-NNP": 1,
+      "NNP-VBP": 1,
+      "VBP-NNP": 1,
+      "NNS-IN": 2,
+      "CD-NNP": 2,
+      "FW-NN": 9,
+      "NNS-VBZ": 1,
+      "VBZ-IN": 2,
+      "NN-VBD": 1,
+      "VBD-CD": 1,
+      "FW-IN": 2,
+      "JJ-JJ": 4,
+      "NN-VBZ": 1,
+      "FW-NNS": 5,
+      "JJ-FW": 3,
+      "VBP-FW": 1,
+      "NN-FW": 6,
+      "NNS-NNS": 1,
+      "VBP-IN": 1,
+      "NNP-JJ": 1,
+      "CD-NN": 2,
+      "VBZ-NN": 1,
+      "NN-VBP": 1,
+      "JJ-NNP": 1,
+      "FW-CD": 2,
+      "NNS-JJ": 1,
+      "JJ-IN": 1,
+      "VBP-RB": 1,
+      "RB-CD": 1,
+      "CD-CD": 1,
+      "CD-FW": 1,
+      "VBP-NNS": 1
+    },
+    "trigram_freq": {
+      "NNP-NN-NN": 6,
+      "NN-NN-NN": 16,
+      "NN-NN-IN": 6,
+      "NN-IN-FW": 7,
+      "IN-FW-FW": 4,
+      "FW-FW-FW": 22,
+      "FW-FW-JJ": 2,
+      "FW-JJ-NNS": 2,
+      "JJ-NNS-VBP": 1,
+      "NNS-VBP-JJ": 5,
+      "VBP-JJ-NN": 3,
+      "JJ-NN-NNP": 1,
+      "NN-NNP-NNP": 2,
+      "NNP-NNP-NNP": 9,
+      "NNP-NNP-FW": 1,
+      "NNP-FW-NNP": 2,
+      "FW-NNP-NNP": 2,
+      "NNP-NNP-IN": 2,
+      "NNP-IN-NNP": 2,
+      "IN-NNP-NNP": 3,
+      "NNP-NNP-VBZ": 3,
+      "NNP-VBZ-JJ": 3,
+      "VBZ-JJ-NNS": 1,
+      "JJ-NNS-FW": 1,
+      "NNS-FW-FW": 4,
+      "FW-JJ-NN": 3,
+      "JJ-NN-JJ": 1,
+      "NN-JJ-NN": 3,
+      "JJ-NN-IN": 6,
+      "NN-IN-CD": 3,
+      "IN-CD-NNS": 1,
+      "CD-NNS-FW": 2,
+      "FW-FW-NNP": 2,
+      "NNP-NNP-NN": 2,
+      "NN-IN-JJ": 2,
+      "IN-JJ-NN": 1,
+      "IN-FW-JJ": 3,
+      "NN-IN-NN": 1,
+      "IN-NN-NNS": 1,
+      "NN-NNS-NNP": 1,
+      "NNS-NNP-VBP": 1,
+      "NNP-VBP-NNP": 1,
+      "VBP-NNP-NNP": 1,
+      "VBZ-JJ-NN": 2,
+      "JJ-NN-NN": 7,
+      "NN-NN-JJ": 4,
+      "NN-JJ-NNS": 1,
+      "JJ-NNS-IN": 2,
+      "NNS-IN-FW": 1,
+      "IN-CD-NNP": 2,
+      "CD-NNP-FW": 1,
+      "FW-NNP-FW": 1,
+      "NNP-FW-NN": 1,
+      "FW-NN-NN": 5,
+      "NN-NN-NNS": 3,
+      "NN-NNS-VBZ": 1,
+      "NNS-VBZ-IN": 1,
+      "VBZ-IN-FW": 2,
+      "IN-FW-NN": 3,
+      "FW-NN-VBD": 1,
+      "NN-VBD-CD": 1,
+      "VBD-CD-NNS": 1,
+      "NNS-FW-IN": 1,
+      "FW-IN-NNP": 1,
+      "IN-NNP-NN": 1,
+      "IN-JJ-JJ": 1,
+      "JJ-JJ-NNS": 1,
+      "NNS-IN-NNP": 1,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-IN": 1,
+      "IN-FW-NNS": 1,
+      "FW-NNS-VBP": 3,
+      "VBP-JJ-FW": 2,
+      "JJ-FW-FW": 2,
+      "FW-FW-NN": 3,
+      "FW-NN-NNS": 1,
+      "NN-NNS-VBP": 3,
+      "NNS-VBP-FW": 1,
+      "VBP-FW-FW": 1,
+      "FW-NNP-NN": 1,
+      "NN-NN-FW": 4,
+      "NN-FW-JJ": 2,
+      "FW-JJ-FW": 1,
+      "JJ-FW-JJ": 1,
+      "JJ-NNS-NNS": 1,
+      "NNS-NNS-VBP": 1,
+      "NNS-VBP-IN": 1,
+      "VBP-IN-FW": 1,
+      "FW-JJ-JJ": 2,
+      "JJ-JJ-NN": 3,
+      "NN-NN-NNP": 1,
+      "NN-NNP-JJ": 1,
+      "NNP-JJ-NN": 1,
+      "NN-FW-NN": 2,
+      "FW-NN-IN": 1,
+      "IN-CD-NN": 1,
+      "CD-NN-NNP": 1,
+      "NN-NNP-VBZ": 1,
+      "NNP-VBZ-NN": 1,
+      "VBZ-NN-NN": 1,
+      "NN-NN-VBP": 1,
+      "NN-VBP-JJ": 1,
+      "VBP-JJ-NNP": 1,
+      "JJ-NNP-NN": 1,
+      "NNP-NN-NNP": 1,
+      "NN-JJ-JJ": 1,
+      "FW-FW-CD": 2,
+      "FW-CD-NN": 1,
+      "CD-NN-NN": 1,
+      "FW-NN-FW": 1,
+      "NN-FW-NNS": 1,
+      "FW-NNS-FW": 1,
+      "NN-NNS-JJ": 1,
+      "NNS-JJ-IN": 1,
+      "JJ-IN-NN": 1,
+      "IN-NN-FW": 1,
+      "NN-FW-FW": 1,
+      "FW-CD-NNS": 1,
+      "CD-NNS-VBP": 1,
+      "NNS-VBP-RB": 1,
+      "VBP-RB-CD": 1,
+      "RB-CD-CD": 1,
+      "CD-CD-FW": 1,
+      "CD-FW-FW": 1,
+      "FW-FW-IN": 1,
+      "FW-IN-CD": 1,
+      "CD-NNP-NN": 1,
+      "FW-FW-NNS": 3,
+      "JJ-NN-NNS": 1,
+      "NNS-VBP-NNS": 1,
+      "VBP-NNS-FW": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 73,
+        "FW": 65,
+        "NNP": 35,
+        "JJ": 30,
+        "IN": 23
+      },
+      "top_bigrams": {
+        "NN-NN": 36,
+        "FW-FW": 35,
+        "NNP-NNP": 17,
+        "JJ-NN": 16,
+        "NN-IN": 13
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 22,
+        "NN-NN-NN": 16,
+        "NNP-NNP-NNP": 9,
+        "NN-IN-FW": 7,
+        "JJ-NN-NN": 7
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 9,
+    "chunk_counts": {
+      "NP": 74,
+      "VP": 17,
+      "ADJP": 5,
+      "PP": 6
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 3,
+        "weight": 0.027
+      },
+      {
+        "rule": "NP -> ('FGR', 'NNP')",
+        "frequency": 2,
+        "weight": 0.018
+      },
+      {
+        "rule": "NP -> ('MS-13', 'NNP')",
+        "frequency": 2,
+        "weight": 0.018
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.018
+      },
+      {
+        "rule": "NP -> ('Santa', 'NNP') ('Ana', 'NNP')",
+        "frequency": 2,
+        "weight": 0.018
+      },
+      {
+        "rule": "S -> NP ('en', 'IN') ('el', 'FW') ('marco', 'FW') ('de', 'FW') ('la', 'FW') ('“', 'FW') ('guerra', 'FW') NP VP (',', ',') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.009
+      },
+      {
+        "rule": "NP -> ('Estos', 'NNP') ('procesados', 'NN') ('fueron', 'NN') ('capturados', 'NN')",
+        "frequency": 1,
+        "weight": 0.009
+      },
+      {
+        "rule": "NP -> ('contra', 'JJ') ('pandillas', 'NNS')",
+        "frequency": 1,
+        "weight": 0.009
+      },
+      {
+        "rule": "VP -> ('”', 'VBP') NP",
+        "frequency": 1,
+        "weight": 0.009
+      },
+      {
+        "rule": "NP -> ('del', 'JJ') ('presidente', 'NN') ('salvadoreño', 'NN')",
+        "frequency": 1,
+        "weight": 0.009
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Estos procesados fueron capturados"
+      },
+      {
+        "label": "NP",
+        "text": "contra pandillas"
+      },
+      {
+        "label": "VP",
+        "text": "” del presidente salvadoreño"
+      },
+      {
+        "label": "NP",
+        "text": "del presidente salvadoreño"
+      },
+      {
+        "label": "NP",
+        "text": "Nayib Bukele"
+      },
+      {
+        "label": "NP",
+        "text": "La Fiscalía General de"
+      },
+      {
+        "label": "NP",
+        "text": "República"
+      },
+      {
+        "label": "NP",
+        "text": "FGR"
+      },
+      {
+        "label": "NP",
+        "text": "El Salvador"
+      },
+      {
+        "label": "VP",
+        "text": "anunció el lunes"
+      },
+      {
+        "label": "NP",
+        "text": "el lunes"
+      },
+      {
+        "label": "NP",
+        "text": "judicial conjunto"
+      },
+      {
+        "label": "NP",
+        "text": "contra más"
+      },
+      {
+        "label": "NP",
+        "text": "presuntos"
+      },
+      {
+        "label": "NP",
+        "text": "Mara Salvatrucha"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Estos/NNP procesados/NN fueron/NN capturados/NN)\n  en/IN\n  el/FW\n  marco/FW\n  de/FW\n  la/FW\n  “/FW\n  guerra/FW\n  (NP contra/JJ pandillas/NNS)\n  (VP ”/VBP (NP del/JJ presidente/NN salvadoreño/NN))\n  ,/,\n  (NP Nayib/NNP Bukele/NNP)\n  ./.)",
+      "(S\n  (NP La/NNP Fiscalía/NNP General/NNP de/NNP)\n  la/FW\n  (NP República/NNP)\n  (/(\n  (NP FGR/NNP)\n  )/)\n  de/FW\n  (NP El/NNP Salvador/NNP)\n  (VP anunció/VBZ (NP el/JJ lunes/NNS))\n  el/FW\n  inicio/FW\n  de/FW\n  un/FW\n  proceso/FW\n  (NP judicial/JJ conjunto/NN)\n  (NP contra/JJ más/NN)\n  de/IN\n  2,000/CD\n  (NP presuntos/NNS)\n  pandilleros/FW\n  de/FW\n  la/FW\n  (NP Mara/NNP Salvatrucha/NNP)\n  (/(\n  (NP MS-13/NNP)\n  )/)\n  ./.)",
+      "(S\n  (NP Estos/NNP individuos/NN)\n  ,/,\n  (ADJP implicados/JJ)\n  en/FW\n  (NP una/JJ serie/NN)\n  (PP de/IN (NP delitos/NN))\n  ,/,\n  (NP serán/JJ juzgados/NN)\n  (PP en/IN (NP los/NN tribunales/NNS Contra/NNP))\n  (VP el/VBP (NP Crimen/NNP Organizado/NNP))\n  (PP de/IN (NP Santa/NNP Ana/NNP))\n  ,/,\n  (VP\n    tras/VBZ\n    (NP su/JJ detención/NN bajo/NN)\n    (NP un/JJ régimen/NNS))\n  de/IN\n  excepción/FW\n  (NP que/JJ ha/NN estado/NN vigente/NN desde/NN marzo/NN)\n  de/IN\n  2022/CD\n  ./.)",
+      "(S\n  (NP Según/NNP la/NN FGR/NNP)\n  ,/,\n  (NP se/NN han/NN presentado/NN tres/NNS)\n  (VP solicitudes/VBZ)\n  de/IN\n  agrupamiento/FW\n  (NP que/NN)\n  (VP involucran/VBD)\n  a/DT\n  2,074/CD\n  (NP presuntos/NN)\n  miembros/FW\n  (PP de/IN (NP MS-13/NNP))\n  ,/,\n  (NP todos/NN)\n  ellos/FW\n  (NP operando/NN)\n  (PP en/IN (NP los/JJ departamentos/JJ occidentales/NNS))\n  de/FW\n  (NP Ahuachapán/NNP)\n  ,/,\n  (NP Sonsonate/NNP)\n  (VP y/VBZ (NP Santa/NNP Ana/NNP))\n  ./.)",
+      "(S\n  (NP Entre/NNP)\n  (VP los/VBZ (NP acusados/JJ se/NN encuentran/NN))\n  (VP líderes/VBZ)\n  de/IN\n  estructuras/FW\n  (NP criminales/NNS)\n  ,/,\n  (NP así/JJ como/NN)\n  miembros/FW\n  de/FW\n  bajo/FW\n  rango/FW\n  (NP y/NN colaboradores/NNS)\n  (VP encargados/VBP)\n  de/FW\n  actividades/FW\n  (NP delictivas/NN)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "GOBIERNOS_OFICIALES",
+      "FECHAS_ESPECIFICAS",
+      "LEYES_NORMATIVAS",
+      "CANTIDADES_NUMERICAS",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "ANTIIMPERIALISMO_SOBERANIA",
+      "REGIONES_PROVINCIAS",
+      "JUSTICIA_SOCIAL",
+      "PAISES",
+      "CONFLICTOS_ARMADOS_OPERACIONES",
+      "JURIDICO_LEGISLATIVO_CORRUPCION"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "guerra contra pandillas",
+        "position": [
+          54,
+          77
+        ],
+        "start": 54,
+        "end": 77
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "anunció",
+        "position": [
+          178,
+          185
+        ],
+        "start": 178,
+        "end": 185
+      },
+      {
+        "category": "JURIDICO_LEGISLATIVO_CORRUPCION",
+        "matched_text": "lavado de dinero",
+        "position": [
+          973,
+          989
+        ],
+        "start": 973,
+        "end": 989
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente salvadoreño",
+        "position": [
+          83,
+          105
+        ],
+        "start": 83,
+        "end": 105
+      },
+      {
+        "category": "LEYES_NORMATIVAS",
+        "matched_text": "decreto legislativo aprobado en agosto de 2023",
+        "position": [
+          1059,
+          1105
+        ],
+        "start": 1059,
+        "end": 1105
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "el salvador",
+        "position": [
+          166,
+          177
+        ],
+        "start": 166,
+        "end": 177
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "estado vigente",
+        "position": [
+          495,
+          509
+        ],
+        "start": 495,
+        "end": 509
+      },
+      {
+        "category": "FECHAS_ESPECIFICAS",
+        "matched_text": "27 de marzo de 2022",
+        "position": [
+          1584,
+          1603
+        ],
+        "start": 1584,
+        "end": 1603
+      },
+      {
+        "category": "ANTIIMPERIALISMO_SOBERANIA",
+        "matched_text": "embargo",
+        "position": [
+          1609,
+          1616
+        ],
+        "start": 1609,
+        "end": 1616
+      },
+      {
+        "category": "JUSTICIA_SOCIAL",
+        "matched_text": "derechos humanos",
+        "position": [
+          1671,
+          1687
+        ],
+        "start": 1671,
+        "end": 1687
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "87 personas",
+        "position": [
+          1558,
+          1569
+        ],
+        "start": 1558,
+        "end": 1569
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "más de 2",
+        "position": [
+          245,
+          253
+        ],
+        "start": 245,
+        "end": 253
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "más de 81",
+        "position": [
+          1377,
+          1386
+        ],
+        "start": 1377,
+        "end": 1386
+      }
+    ],
+    "match_count": 13
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Santa Ana",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Sonsonate",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Contra el Crimen Organizado de Santa Ana",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "FGR",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "MS-13",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "El Salvador",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Nayib Bukele",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Ahuachapán",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Fiscalía General de la República",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Mara Salvatrucha",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Fiscalía General de la República",
+        "relacion": "ANUNCIAR",
+        "objeto": "Mara Salvatrucha"
+      },
+      {
+        "sujeto": "Fiscalía General de la República",
+        "relacion": "ANUNCIAR",
+        "objeto": "MS-13"
+      },
+      {
+        "sujeto": "FGR",
+        "relacion": "ANUNCIAR",
+        "objeto": "Mara Salvatrucha"
+      },
+      {
+        "sujeto": "FGR",
+        "relacion": "ANUNCIAR",
+        "objeto": "MS-13"
+      },
+      {
+        "sujeto": "El Salvador",
+        "relacion": "ANUNCIAR",
+        "objeto": "Mara Salvatrucha"
+      },
+      {
+        "sujeto": "El Salvador",
+        "relacion": "ANUNCIAR",
+        "objeto": "MS-13"
+      },
+      {
+        "sujeto": "FGR",
+        "relacion": "PRESENTAR",
+        "objeto": "MS-13"
+      },
+      {
+        "sujeto": "FGR",
+        "relacion": "PRESENTAR",
+        "objeto": "Ahuachapán"
+      },
+      {
+        "sujeto": "FGR",
+        "relacion": "PRESENTAR",
+        "objeto": "Sonsonate"
+      },
+      {
+        "sujeto": "FGR",
+        "relacion": "PRESENTAR",
+        "objeto": "Santa Ana"
+      },
+      {
+        "sujeto": "MS-13",
+        "relacion": "INVOLUCRAR_PRESENTAR",
+        "objeto": "Ahuachapán"
+      },
+      {
+        "sujeto": "MS-13",
+        "relacion": "INVOLUCRAR_PRESENTAR",
+        "objeto": "Sonsonate"
+      },
+      {
+        "sujeto": "MS-13",
+        "relacion": "INVOLUCRAR_PRESENTAR",
+        "objeto": "Santa Ana"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.1531,
+    "pos": 0.034,
+    "neu": 0.942,
+    "neg": 0.025,
+    "label": "positive"
+  }
+}

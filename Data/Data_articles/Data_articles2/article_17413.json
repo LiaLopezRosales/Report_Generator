@@ -1,0 +1,583 @@
+{
+  "url": "https://www.telesurtv.net/inundaciones-dejan-22-personas-fallecidas-en-tailandia/",
+  "title": "Inundaciones dejan 22 personas fallecidas en Tailandia - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Alud",
+    "fallecidos",
+    "Tailandia"
+  ],
+  "text": "Las inundaciones y los deslizamientos de tierra tras las lluvias han dejado en Tailandia 22 personas fallecidas, mientras que 19 resultaron heridas.\nDe las personas fallecidas, nueve fueron por ahogamiento mientras que otras 13 fallecieron debido a un corrimiento de tierra registrado en la turística isla de Phuket.\nDe acuerdo al Departamento para Prevención y Mitigación de Desastres, los equipos de rescate están enfocados en cinco provincias del norte del país, incluida Chiang Mai, donde el agua sigue afectando más de 700 poblaciones y a casi 12.000 familias.\nEl Departamento agregó que las autoridades están intensificando esfuerzos por drenar las aguas de las inundaciones.\nVarias viviendas quedaron sepultadas bajo el alud que ocurrió el viernes, dejando varios heridos y decenas de afectados en un área residencial al sureste de la isla, tras días azotada por las lluvias.\nEntre tanto la primera ministra, Paetongtarn Shinawatra “este problema es grave y debe abordarse con seriedad. Mi equipo y yo debemos estudiar y planificar una política para prevenir el problema de inundaciones a largo plazo”.\n",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/inundaciones-dejan-22-personas-fallecidas-en-tailandia/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-08.json",
+    "message_index": 315,
+    "message_id": 75228,
+    "date": "2024-08-27T03:55:13+00:00",
+    "text": "teleSUR\nInundaciones dejan 22 personas fallecidas en Tailandia\nhttps://www.telesurtv.net/inundaciones-dejan-22-personas-fallecidas-en-tailandia/",
+    "photo_path": null,
+    "views": 2682,
+    "reactions": {
+      "😢": 50,
+      "😱": 8,
+      "🤯": 3,
+      "👍": 1
+    },
+    "total_reactions": 62
+  },
+  "preprocessing": {
+    "cleaned": "las inundaciones y los deslizamientos de tierra tras las lluvias han dejado en tailandia 22 personas fallecidas, mientras que 19 resultaron heridas. de las personas fallecidas, nueve fueron por ahogamiento mientras que otras 13 fallecieron debido a un corrimiento de tierra registrado en la turística isla de phuket. de acuerdo al departamento para prevención y mitigación de desastres, los equipos de rescate están enfocados en cinco provincias del norte del país, incluida chiang mai, donde el agua sigue afectando más de 700 poblaciones y a casi 12.000 familias. el departamento agregó que las autoridades están intensificando esfuerzos por drenar las aguas de las inundaciones. varias viviendas quedaron sepultadas bajo el alud que ocurrió el viernes, dejando varios heridos y decenas de afectados en un área residencial al sureste de la isla, tras días azotada por las lluvias. entre tanto la primera ministra, paetongtarn shinawatra “este problema es grave y debe abordarse con seriedad. mi equipo y yo debemos estudiar y planificar una política para prevenir el problema de inundaciones a largo plazo”.",
+    "tokens": [
+      "inundaciones",
+      "deslizamientos",
+      "tierra",
+      "tras",
+      "lluvias",
+      "dejado",
+      "tailandia",
+      "22",
+      "personas",
+      "fallecidas",
+      ",",
+      "mientras",
+      "19",
+      "resultaron",
+      "heridas",
+      ".",
+      "personas",
+      "fallecidas",
+      ",",
+      "nueve",
+      "ahogamiento",
+      "mientras",
+      "13",
+      "fallecieron",
+      "debido",
+      "corrimiento",
+      "tierra",
+      "registrado",
+      "turística",
+      "isla",
+      "phuket",
+      ".",
+      "acuerdo",
+      "departamento",
+      "prevención",
+      "mitigación",
+      "desastres",
+      ",",
+      "equipos",
+      "rescate",
+      "enfocados",
+      "cinco",
+      "provincias",
+      "norte",
+      "país",
+      ",",
+      "incluida",
+      "chiang",
+      "mai",
+      ",",
+      "agua",
+      "sigue",
+      "afectando",
+      "700",
+      "poblaciones",
+      "casi",
+      "12.000",
+      "familias",
+      ".",
+      "departamento",
+      "agregó",
+      "autoridades",
+      "intensificando",
+      "esfuerzos",
+      "drenar",
+      "aguas",
+      "inundaciones",
+      ".",
+      "varias",
+      "viviendas",
+      "quedaron",
+      "sepultadas",
+      "bajo",
+      "alud",
+      "ocurrió",
+      "viernes",
+      ",",
+      "dejando",
+      "varios",
+      "heridos",
+      "decenas",
+      "afectados",
+      "área",
+      "residencial",
+      "sureste",
+      "isla",
+      ",",
+      "tras",
+      "días",
+      "azotada",
+      "lluvias",
+      ".",
+      "primera",
+      "ministra",
+      ",",
+      "paetongtarn",
+      "shinawatra",
+      "“",
+      "problema",
+      "grave",
+      "debe",
+      "abordarse",
+      "seriedad",
+      ".",
+      "equipo",
+      "debemos",
+      "estudiar",
+      "planificar",
+      "política",
+      "prevenir",
+      "problema",
+      "inundaciones",
+      "largo",
+      "plazo",
+      "”",
+      "."
+    ],
+    "token_count": 116,
+    "sentence_count": 7
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 20,
+      "NNS": 16,
+      "VBD": 2,
+      "NN": 47,
+      "IN": 11,
+      "FW": 35,
+      "VBP": 9,
+      "JJ": 14,
+      "CD": 5,
+      "RB": 1,
+      "VBN": 1,
+      "VBZ": 1
+    },
+    "bigram_freq": {
+      "NNP-NNS": 1,
+      "NNS-VBD": 2,
+      "VBD-NN": 1,
+      "NN-IN": 9,
+      "IN-FW": 4,
+      "FW-NNS": 3,
+      "NNS-VBP": 8,
+      "VBP-JJ": 3,
+      "JJ-NN": 9,
+      "NN-NN": 24,
+      "IN-NNP": 2,
+      "NNP-CD": 1,
+      "CD-NNS": 3,
+      "NNS-JJ": 2,
+      "JJ-NNS": 2,
+      "VBP-CD": 1,
+      "CD-NN": 2,
+      "NN-NNP": 6,
+      "NNP-FW": 6,
+      "IN-NNS": 2,
+      "JJ-RB": 1,
+      "RB-CD": 1,
+      "NN-JJ": 2,
+      "FW-FW": 22,
+      "FW-NNP": 3,
+      "NNP-NNP": 5,
+      "FW-NN": 5,
+      "NNP-NN": 5,
+      "NN-FW": 2,
+      "FW-JJ": 2,
+      "IN-JJ": 2,
+      "JJ-JJ": 1,
+      "IN-CD": 1,
+      "VBD-CD": 1,
+      "NNS-NNP": 2,
+      "NN-NNS": 3,
+      "NNS-IN": 1,
+      "VBP-NNS": 1,
+      "VBP-FW": 1,
+      "JJ-NNP": 1,
+      "NNP-IN": 1,
+      "NN-VBP": 1,
+      "VBP-VBN": 1,
+      "VBN-JJ": 1,
+      "NNP-VBZ": 1,
+      "VBZ-JJ": 1,
+      "VBP-NN": 1,
+      "NNS-NNS": 1
+    },
+    "trigram_freq": {
+      "NNP-NNS-VBD": 1,
+      "NNS-VBD-NN": 1,
+      "VBD-NN-IN": 1,
+      "NN-IN-FW": 4,
+      "IN-FW-NNS": 2,
+      "FW-NNS-VBP": 2,
+      "NNS-VBP-JJ": 3,
+      "VBP-JJ-NN": 3,
+      "JJ-NN-NN": 6,
+      "NN-NN-IN": 4,
+      "NN-IN-NNP": 1,
+      "IN-NNP-CD": 1,
+      "NNP-CD-NNS": 1,
+      "CD-NNS-JJ": 1,
+      "NNS-JJ-NNS": 1,
+      "JJ-NNS-VBP": 2,
+      "NNS-VBP-CD": 1,
+      "VBP-CD-NN": 1,
+      "CD-NN-NN": 2,
+      "NN-NN-NNP": 3,
+      "NN-NNP-FW": 1,
+      "NNP-FW-NNS": 1,
+      "NN-IN-NNS": 2,
+      "IN-NNS-JJ": 1,
+      "NNS-JJ-RB": 1,
+      "JJ-RB-CD": 1,
+      "RB-CD-NN": 1,
+      "NN-NN-JJ": 2,
+      "NN-JJ-NN": 2,
+      "JJ-NN-IN": 3,
+      "IN-FW-FW": 2,
+      "FW-FW-FW": 18,
+      "FW-FW-NNP": 2,
+      "FW-NNP-NNP": 1,
+      "NNP-NNP-FW": 2,
+      "NNP-FW-NN": 3,
+      "FW-NN-NNP": 2,
+      "NN-NNP-NN": 1,
+      "NNP-NN-NNP": 1,
+      "NN-NNP-NNP": 3,
+      "NNP-FW-NNP": 1,
+      "FW-NNP-FW": 1,
+      "NNP-FW-FW": 1,
+      "FW-FW-NN": 1,
+      "FW-NN-NN": 1,
+      "NN-NN-FW": 2,
+      "NN-FW-JJ": 1,
+      "FW-JJ-NN": 1,
+      "NN-NN-NN": 10,
+      "NNP-NNP-NN": 3,
+      "NNP-NN-NN": 4,
+      "NN-IN-JJ": 1,
+      "IN-JJ-JJ": 1,
+      "JJ-JJ-NN": 1,
+      "NN-IN-CD": 1,
+      "IN-CD-NNS": 1,
+      "CD-NNS-VBD": 1,
+      "NNS-VBD-CD": 1,
+      "VBD-CD-NNS": 1,
+      "CD-NNS-NNP": 1,
+      "NNS-NNP-NNP": 1,
+      "NN-NN-NNS": 2,
+      "NN-NNS-IN": 1,
+      "NNS-IN-JJ": 1,
+      "IN-JJ-NN": 1,
+      "FW-NNS-NNP": 1,
+      "NNS-NNP-FW": 1,
+      "FW-NN-NNS": 1,
+      "NN-NNS-VBP": 2,
+      "NNS-VBP-NNS": 1,
+      "VBP-NNS-VBP": 1,
+      "NNS-VBP-FW": 1,
+      "VBP-FW-FW": 1,
+      "FW-FW-JJ": 1,
+      "FW-JJ-NNP": 1,
+      "JJ-NNP-NN": 1,
+      "FW-NNP-IN": 1,
+      "NNP-IN-NNP": 1,
+      "IN-NNP-FW": 1,
+      "NN-NN-VBP": 1,
+      "NN-VBP-VBN": 1,
+      "VBP-VBN-JJ": 1,
+      "VBN-JJ-NN": 1,
+      "NN-NNP-VBZ": 1,
+      "NNP-VBZ-JJ": 1,
+      "VBZ-JJ-NNS": 1,
+      "NNS-VBP-NN": 1,
+      "VBP-NN-NN": 1,
+      "NN-FW-NN": 1,
+      "FW-NN-IN": 1,
+      "IN-NNS-NNS": 1,
+      "NNS-NNS-VBP": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 47,
+        "FW": 35,
+        "NNP": 20,
+        "NNS": 16,
+        "JJ": 14
+      },
+      "top_bigrams": {
+        "NN-NN": 24,
+        "FW-FW": 22,
+        "NN-IN": 9,
+        "JJ-NN": 9,
+        "NNS-VBP": 8
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 18,
+        "NN-NN-NN": 10,
+        "JJ-NN-NN": 6,
+        "NN-IN-FW": 4,
+        "NN-NN-IN": 4
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 7,
+    "chunk_counts": {
+      "NP": 43,
+      "VP": 7,
+      "PP": 4,
+      "ADJP": 2
+    },
+    "top_rules": [
+      {
+        "rule": "NP -> ('personas', 'NN') ('fallecidas', 'NN')",
+        "frequency": 2,
+        "weight": 0.0317
+      },
+      {
+        "rule": "NP -> ('De', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0317
+      },
+      {
+        "rule": "S -> NP ('y', 'RB') VP ('de', 'FW') ('tierra', 'FW') NP VP PP ('22', 'CD') NP (',', ',') ('mientras', 'FW') ('que', 'RB') ('19', 'CD') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0159
+      },
+      {
+        "rule": "NP -> ('Las', 'NNP') ('inundaciones', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0159
+      },
+      {
+        "rule": "VP -> ('los', 'VBP') NP",
+        "frequency": 1,
+        "weight": 0.0159
+      },
+      {
+        "rule": "NP -> ('deslizamientos', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0159
+      },
+      {
+        "rule": "NP -> ('tras', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0159
+      },
+      {
+        "rule": "VP -> ('las', 'VBP') NP",
+        "frequency": 1,
+        "weight": 0.0159
+      },
+      {
+        "rule": "NP -> ('lluvias', 'JJ') ('han', 'NN') ('dejado', 'NN')",
+        "frequency": 1,
+        "weight": 0.0159
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 1,
+        "weight": 0.0159
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Las inundaciones"
+      },
+      {
+        "label": "VP",
+        "text": "los deslizamientos"
+      },
+      {
+        "label": "NP",
+        "text": "deslizamientos"
+      },
+      {
+        "label": "NP",
+        "text": "tras"
+      },
+      {
+        "label": "VP",
+        "text": "las lluvias han dejado"
+      },
+      {
+        "label": "NP",
+        "text": "lluvias han dejado"
+      },
+      {
+        "label": "PP",
+        "text": "en Tailandia"
+      },
+      {
+        "label": "NP",
+        "text": "Tailandia"
+      },
+      {
+        "label": "NP",
+        "text": "personas fallecidas"
+      },
+      {
+        "label": "NP",
+        "text": "resultaron heridas"
+      },
+      {
+        "label": "NP",
+        "text": "De"
+      },
+      {
+        "label": "NP",
+        "text": "personas fallecidas"
+      },
+      {
+        "label": "VP",
+        "text": "nueve fueron por"
+      },
+      {
+        "label": "NP",
+        "text": "fueron por"
+      },
+      {
+        "label": "PP",
+        "text": "ahogamiento mientras"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Las/NNP inundaciones/NNS)\n  y/RB\n  (VP los/VBP (NP deslizamientos/NNS))\n  de/FW\n  tierra/FW\n  (NP tras/NNS)\n  (VP las/VBP (NP lluvias/JJ han/NN dejado/NN))\n  (PP en/IN (NP Tailandia/NNP))\n  22/CD\n  (NP personas/NN fallecidas/NN)\n  ,/,\n  mientras/FW\n  que/RB\n  19/CD\n  (NP resultaron/NN heridas/NN)\n  ./.)",
+      "(S\n  (NP De/NNP)\n  las/FW\n  (NP personas/NN fallecidas/NN)\n  ,/,\n  (VP nueve/VBP (NP fueron/NN por/NN))\n  (PP ahogamiento/IN (NP mientras/NNS))\n  (ADJP que/JJ)\n  otras/RB\n  13/CD\n  (NP fallecieron/NN debido/NN)\n  (NP a/DT un/JJ corrimiento/NN)\n  de/IN\n  tierra/FW\n  registrado/FW\n  en/FW\n  la/FW\n  turística/FW\n  isla/FW\n  de/FW\n  (NP Phuket/NNP)\n  ./.)",
+      "(S\n  (NP De/NNP)\n  acuerdo/FW\n  (NP\n    al/NN\n    Departamento/NNP\n    para/NN\n    Prevención/NNP\n    y/NNP\n    Mitigación/NNP)\n  de/FW\n  (NP Desastres/NNP)\n  ,/,\n  (ADJP los/JJ)\n  equipos/FW\n  de/FW\n  rescate/FW\n  están/FW\n  enfocados/FW\n  en/FW\n  (NP cinco/NN provincias/NN)\n  del/FW\n  (NP norte/JJ del/NN país/NN)\n  ,/,\n  (NP incluida/NN Chiang/NNP Mai/NNP)\n  ,/,\n  (NP donde/NN el/NN)\n  (PP agua/IN (NP sigue/JJ afectando/JJ más/NN))\n  de/IN\n  700/CD\n  (NP poblaciones/NNS)\n  y/RB\n  (NP a/DT casi/NN)\n  12.000/CD\n  (NP familias/NN)\n  ./.)",
+      "(S\n  (NP El/NNP Departamento/NNP agregó/NN que/NN las/NNS)\n  (PP\n    autoridades/IN\n    (NP están/JJ intensificando/NN esfuerzos/NN por/NN drenar/NN))\n  (NP las/JJ aguas/NN)\n  de/IN\n  las/FW\n  (NP inundaciones/NNS)\n  ./.)",
+      "(S\n  (NP Varias/NNP)\n  viviendas/FW\n  (NP quedaron/NN sepultadas/NNS)\n  (VP\n    bajo/VBP\n    (NP el/JJ alud/NN que/NN ocurrió/NN el/NN viernes/NNS))\n  ,/,\n  (NP dejando/JJ varios/NNS)\n  (VP heridos/VBP (NP y/JJ decenas/NN))\n  de/IN\n  afectados/FW\n  en/FW\n  (NP un/JJ área/NNP residencial/NN al/NN sureste/NN)\n  de/IN\n  la/FW\n  isla/FW\n  ,/,\n  tras/FW\n  días/FW\n  azotada/FW\n  por/FW\n  las/FW\n  (NP lluvias/NN)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "LEYES_NORMATIVAS",
+      "RECURSOS_NATURALES",
+      "DESASTRES_ACCIDENTES_EMERGENCIAS",
+      "CANTIDADES_NUMERICAS",
+      "REGIONES_PROVINCIAS",
+      "INSTITUCIONES_EDUCATIVAS"
+    ],
+    "matches": [
+      {
+        "category": "DESASTRES_ACCIDENTES_EMERGENCIAS",
+        "matched_text": "deslizamientos de tierra",
+        "position": [
+          23,
+          47
+        ],
+        "start": 23,
+        "end": 47
+      },
+      {
+        "category": "INSTITUCIONES_EDUCATIVAS",
+        "matched_text": "departamento para prevención y mitigación de desastres",
+        "position": [
+          331,
+          385
+        ],
+        "start": 331,
+        "end": 385
+      },
+      {
+        "category": "LEYES_NORMATIVAS",
+        "matched_text": "acuerdo al departamento para prevención y mitigación de desastres, los equipos de rescate están enfocados en cinco provincias del norte del país, incluida chiang mai, donde el agua sigue afectando más de 700",
+        "position": [
+          320,
+          527
+        ],
+        "start": 320,
+        "end": 527
+      },
+      {
+        "category": "RECURSOS_NATURALES",
+        "matched_text": "agua",
+        "position": [
+          496,
+          500
+        ],
+        "start": 496,
+        "end": 500
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "departamento para",
+        "position": [
+          331,
+          348
+        ],
+        "start": 331,
+        "end": 348
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "22 personas",
+        "position": [
+          89,
+          100
+        ],
+        "start": 89,
+        "end": 100
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "más de 700",
+        "position": [
+          517,
+          527
+        ],
+        "start": 517,
+        "end": 527
+      }
+    ],
+    "match_count": 7
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Chiang Mai",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Departamento para Prevención y Mitigación de Desastres",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Paetongtarn Shinawatra",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Tailandia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Departamento",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Phuket",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": []
+  },
+  "sentiment": {
+    "compound": -0.3818,
+    "pos": 0.0,
+    "neu": 0.984,
+    "neg": 0.016,
+    "label": "negative"
+  }
+}

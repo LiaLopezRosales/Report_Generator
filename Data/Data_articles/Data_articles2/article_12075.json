@@ -1,0 +1,732 @@
+{
+  "url": "https://www.telesurtv.net/estampida-humana-en-estadio-de-guinea-deja-56-muertos-y-varias-heridos/",
+  "title": "Estampida humana en estadio de Guinea deja 56 muertos y varias heridos - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Africa",
+    "Deportes",
+    "Guinea",
+    "Tragedia",
+    "Violencia"
+  ],
+  "text": "Una estampida en un estadio de fútbol en el sur de Guinea causó la muerte de 56 personas y dejó a varias más heridas, según declaró el gobierno. El incidente ocurrió el domingo 1º de diciembre durante un partido, cuando estallaron enfrentamientos entre los aficionados, lo que provocó la intervención de las fuerzas de seguridad.\nLEA TAMBIÉN:Venezuela y Guinea Ecuatorial instalan II Comisión Mixta\nEl primer ministro Amadou Oury Bah no dio detalles concretos sobre el número de muertos, sin embargo, aseguró que las autoridades regionales están trabajando para restablecer el orden en la zona.\nLa ministra de Comunicaciones, Fana Soumah, anunció que se está llevando a cabo una investigación para identificar a los responsables de la tragedia.\nLa Alianza Nacional para la Alternancia y la Democracia, coalición de partidos políticos, confirmó en una declaración que el desastre causó numerosas muertes y lesiones. Este trágico acontecimiento pone de relieve los problemas actuales relacionados con la gestión de las multitudes y la seguridad en los estadios en Guinea.\nMedios locales informaron que las fuerzas de seguridad recurrieron al uso de gases lacrimógenos para sofocar el caos que se produjo después de una decisión controvertida de penalización, la cual enfureció a los aficionados.\nSegún Media Guinea, los aficionados comenzaron a lanzar piedras, lo que llevó al uso de gas lacrimógeno por parte de los servicios de seguridad. Varios de los que perdieron la vida eran niños y algunos de los heridos están recibiendo tratamiento en un hospital regional, muchos de ellos en estado crítico.\nLos vídeos de la escena muestran momentos caóticos en que los aficionados protestan contra las decisiones del árbitro antes de que se produzcan enfrentamientos y se precipiten hacia el campo. Se vio a muchos individuos huyendo del estadio, algunos tratando de saltar sobre vallas altas para estar seguros.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/estampida-humana-en-estadio-de-guinea-deja-56-muertos-y-varias-heridos/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-12.json",
+    "message_index": 1692,
+    "message_id": 81613,
+    "date": "2024-12-02T18:55:13+00:00",
+    "text": "teleSUR\nEstampida humana en estadio de Guinea deja 56 muertos y varias heridos\nhttps://www.telesurtv.net/estampida-humana-en-estadio-de-guinea-deja-56-muertos-y-varias-heridos/",
+    "photo_path": null,
+    "views": 2036,
+    "reactions": {
+      "👍": 15,
+      "🤯": 5,
+      "🤔": 4,
+      "🙏": 2
+    },
+    "total_reactions": 26
+  },
+  "preprocessing": {
+    "cleaned": "una estampida en un estadio de fútbol en el sur de guinea causó la muerte de 56 personas y dejó a varias más heridas, según declaró el gobierno. el incidente ocurrió el domingo 1º de diciembre durante un partido, cuando estallaron enfrentamientos entre los aficionados, lo que provocó la intervención de las fuerzas de seguridad. el primer ministro amadou oury bah no dio detalles concretos sobre el número de muertos, sin embargo, aseguró que las autoridades regionales están trabajando para restablecer el orden en la zona. la ministra de comunicaciones, fana soumah, anunció que se está llevando a cabo una investigación para identificar a los responsables de la tragedia. la alianza nacional para la alternancia y la democracia, coalición de partidos políticos, confirmó en una declaración que el desastre causó numerosas muertes y lesiones. este trágico acontecimiento pone de relieve los problemas actuales relacionados con la gestión de las multitudes y la seguridad en los estadios en guinea. medios locales informaron que las fuerzas de seguridad recurrieron al uso de gases lacrimógenos para sofocar el caos que se produjo después de una decisión controvertida de penalización, la cual enfureció a los aficionados. según media guinea, los aficionados comenzaron a lanzar piedras, lo que llevó al uso de gas lacrimógeno por parte de los servicios de seguridad. varios de los que perdieron la vida eran niños y algunos de los heridos están recibiendo tratamiento en un hospital regional, muchos de ellos en estado crítico. los vídeos de la escena muestran momentos caóticos en que los aficionados protestan contra las decisiones del árbitro antes de que se produzcan enfrentamientos y se precipiten hacia el campo. se vio a muchos individuos huyendo del estadio, algunos tratando de saltar sobre vallas altas para estar seguros.",
+    "tokens": [
+      "estampida",
+      "estadio",
+      "fútbol",
+      "sur",
+      "guinea",
+      "causó",
+      "muerte",
+      "56",
+      "personas",
+      "dejó",
+      "varias",
+      "heridas",
+      ",",
+      "según",
+      "declaró",
+      "gobierno",
+      ".",
+      "incidente",
+      "ocurrió",
+      "domingo",
+      "1º",
+      "diciembre",
+      "partido",
+      ",",
+      "estallaron",
+      "enfrentamientos",
+      "aficionados",
+      ",",
+      "provocó",
+      "intervención",
+      "fuerzas",
+      "seguridad",
+      ".",
+      "primer",
+      "ministro",
+      "amadou",
+      "oury",
+      "bah",
+      "dio",
+      "detalles",
+      "concretos",
+      "número",
+      "muertos",
+      ",",
+      "embargo",
+      ",",
+      "aseguró",
+      "autoridades",
+      "regionales",
+      "trabajando",
+      "restablecer",
+      "orden",
+      "zona",
+      ".",
+      "ministra",
+      "comunicaciones",
+      ",",
+      "fana",
+      "soumah",
+      ",",
+      "anunció",
+      "llevando",
+      "cabo",
+      "investigación",
+      "identificar",
+      "responsables",
+      "tragedia",
+      ".",
+      "alianza",
+      "nacional",
+      "alternancia",
+      "democracia",
+      ",",
+      "coalición",
+      "partidos",
+      "políticos",
+      ",",
+      "confirmó",
+      "declaración",
+      "desastre",
+      "causó",
+      "numerosas",
+      "muertes",
+      "lesiones",
+      ".",
+      "trágico",
+      "acontecimiento",
+      "pone",
+      "relieve",
+      "problemas",
+      "actuales",
+      "relacionados",
+      "gestión",
+      "multitudes",
+      "seguridad",
+      "estadios",
+      "guinea",
+      ".",
+      "medios",
+      "locales",
+      "informaron",
+      "fuerzas",
+      "seguridad",
+      "recurrieron",
+      "uso",
+      "gases",
+      "lacrimógenos",
+      "sofocar",
+      "caos",
+      "produjo",
+      "después",
+      "decisión",
+      "controvertida",
+      "penalización",
+      ",",
+      "enfureció",
+      "aficionados",
+      ".",
+      "según",
+      "media",
+      "guinea",
+      ",",
+      "aficionados",
+      "comenzaron",
+      "lanzar",
+      "piedras",
+      ",",
+      "llevó",
+      "uso",
+      "gas",
+      "lacrimógeno",
+      "parte",
+      "servicios",
+      "seguridad",
+      ".",
+      "varios",
+      "perdieron",
+      "vida",
+      "niños",
+      "heridos",
+      "recibiendo",
+      "tratamiento",
+      "hospital",
+      "regional",
+      ",",
+      "crítico",
+      ".",
+      "vídeos",
+      "escena",
+      "muestran",
+      "momentos",
+      "caóticos",
+      "aficionados",
+      "protestan",
+      "decisiones",
+      "árbitro",
+      "produzcan",
+      "enfrentamientos",
+      "precipiten",
+      "hacia",
+      "campo",
+      ".",
+      "vio",
+      "individuos",
+      "huyendo",
+      "estadio",
+      ",",
+      "tratando",
+      "saltar",
+      "vallas",
+      "altas",
+      "seguros",
+      "."
+    ],
+    "token_count": 173,
+    "sentence_count": 11
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 34,
+      "NN": 105,
+      "JJ": 34,
+      "IN": 15,
+      "FW": 60,
+      "NNS": 17,
+      "VBP": 12,
+      "CD": 2,
+      "VBZ": 7,
+      "DT": 1,
+      "RB": 1
+    },
+    "bigram_freq": {
+      "NNP-NN": 10,
+      "NN-NN": 57,
+      "NN-JJ": 9,
+      "JJ-NN": 22,
+      "NN-IN": 9,
+      "IN-NN": 4,
+      "NN-FW": 11,
+      "FW-FW": 33,
+      "FW-NNP": 5,
+      "NNP-NNS": 1,
+      "NNS-VBP": 10,
+      "VBP-FW": 1,
+      "FW-CD": 1,
+      "CD-NNS": 1,
+      "NNS-JJ": 2,
+      "JJ-JJ": 4,
+      "NN-NNP": 8,
+      "NN-VBP": 2,
+      "VBP-JJ": 7,
+      "JJ-CD": 1,
+      "CD-IN": 1,
+      "IN-FW": 9,
+      "FW-NN": 10,
+      "NN-VBZ": 4,
+      "VBZ-JJ": 3,
+      "NNP-NNP": 17,
+      "NNP-DT": 1,
+      "DT-NN": 1,
+      "VBZ-NNS": 2,
+      "NN-NNS": 5,
+      "NNS-IN": 2,
+      "IN-NNS": 1,
+      "NNP-FW": 3,
+      "JJ-NNS": 4,
+      "FW-JJ": 7,
+      "NNS-NNP": 1,
+      "VBP-NN": 1,
+      "FW-NNS": 3,
+      "JJ-FW": 2,
+      "VBP-NNP": 1,
+      "NNP-VBZ": 2,
+      "VBZ-RB": 1,
+      "RB-JJ": 1,
+      "VBP-IN": 2,
+      "IN-JJ": 1,
+      "JJ-NNP": 1,
+      "NNS-FW": 1,
+      "FW-VBZ": 1,
+      "VBZ-IN": 1
+    },
+    "trigram_freq": {
+      "NNP-NN-NN": 6,
+      "NN-NN-JJ": 7,
+      "NN-JJ-NN": 6,
+      "JJ-NN-IN": 4,
+      "NN-IN-NN": 3,
+      "IN-NN-FW": 2,
+      "NN-FW-FW": 7,
+      "FW-FW-FW": 16,
+      "FW-FW-NNP": 5,
+      "FW-NNP-NNS": 1,
+      "NNP-NNS-VBP": 1,
+      "NNS-VBP-FW": 1,
+      "VBP-FW-FW": 1,
+      "FW-FW-CD": 1,
+      "FW-CD-NNS": 1,
+      "CD-NNS-JJ": 1,
+      "NNS-JJ-JJ": 2,
+      "JJ-JJ-NN": 4,
+      "JJ-NN-NN": 16,
+      "NN-NN-NN": 27,
+      "NN-NN-NNP": 5,
+      "NN-NNP-NN": 4,
+      "NN-NN-VBP": 2,
+      "NN-VBP-JJ": 2,
+      "VBP-JJ-CD": 1,
+      "JJ-CD-IN": 1,
+      "CD-IN-FW": 1,
+      "IN-FW-NN": 3,
+      "FW-NN-JJ": 1,
+      "NN-NN-VBZ": 3,
+      "NN-VBZ-JJ": 2,
+      "VBZ-JJ-JJ": 1,
+      "NN-NN-FW": 6,
+      "FW-NNP-NNP": 3,
+      "NNP-NNP-NNP": 9,
+      "NNP-NNP-NN": 4,
+      "NNP-NN-NNP": 2,
+      "NN-NNP-NNP": 3,
+      "NNP-NNP-DT": 1,
+      "NNP-DT-NN": 1,
+      "DT-NN-VBZ": 1,
+      "NN-VBZ-NNS": 2,
+      "VBZ-NNS-JJ": 1,
+      "NN-IN-FW": 5,
+      "FW-NN-NN": 5,
+      "NN-NN-NNS": 3,
+      "NN-NNS-IN": 1,
+      "NNS-IN-NNS": 1,
+      "IN-NNS-VBP": 1,
+      "NNS-VBP-JJ": 5,
+      "VBP-JJ-NN": 5,
+      "VBZ-JJ-NN": 2,
+      "NNP-NNP-FW": 1,
+      "NNP-FW-FW": 3,
+      "NN-FW-NN": 2,
+      "NN-JJ-NNS": 2,
+      "JJ-NNS-IN": 1,
+      "NNS-IN-FW": 1,
+      "IN-FW-FW": 4,
+      "NNP-NN-FW": 1,
+      "FW-FW-NN": 4,
+      "FW-NN-FW": 2,
+      "NN-FW-JJ": 2,
+      "FW-JJ-NN": 4,
+      "VBZ-NNS-NNP": 1,
+      "NNS-NNP-NN": 1,
+      "NNP-NN-IN": 1,
+      "NN-NNS-VBP": 3,
+      "NNS-VBP-NN": 1,
+      "VBP-NN-NN": 1,
+      "FW-FW-NNS": 3,
+      "FW-NNS-VBP": 3,
+      "VBP-JJ-FW": 1,
+      "JJ-FW-FW": 1,
+      "NNS-VBP-NNP": 1,
+      "VBP-NNP-NNP": 1,
+      "NNP-NNP-VBZ": 2,
+      "NNP-VBZ-RB": 1,
+      "VBZ-RB-JJ": 1,
+      "RB-JJ-NNS": 1,
+      "JJ-NNS-VBP": 2,
+      "NNS-VBP-IN": 2,
+      "VBP-IN-FW": 1,
+      "NN-NN-IN": 4,
+      "NN-IN-JJ": 1,
+      "IN-JJ-NN": 1,
+      "FW-FW-JJ": 3,
+      "NN-JJ-NNP": 1,
+      "JJ-NNP-NNP": 1,
+      "NNP-VBZ-JJ": 1,
+      "IN-NN-NN": 2,
+      "FW-NNP-FW": 1,
+      "FW-JJ-FW": 1,
+      "JJ-FW-NN": 1,
+      "JJ-NN-JJ": 1,
+      "FW-NN-NNP": 1,
+      "NN-NNP-FW": 1,
+      "FW-NN-NNS": 1,
+      "VBP-IN-NN": 1,
+      "JJ-NNS-FW": 1,
+      "NNS-FW-FW": 1,
+      "FW-FW-VBZ": 1,
+      "FW-VBZ-IN": 1,
+      "VBZ-IN-FW": 1,
+      "IN-FW-JJ": 2,
+      "FW-JJ-JJ": 1,
+      "FW-JJ-NNS": 1,
+      "JJ-NN-NNS": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 105,
+        "FW": 60,
+        "NNP": 34,
+        "JJ": 34,
+        "NNS": 17
+      },
+      "top_bigrams": {
+        "NN-NN": 57,
+        "FW-FW": 33,
+        "JJ-NN": 22,
+        "NNP-NNP": 17,
+        "NN-FW": 11
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 27,
+        "FW-FW-FW": 16,
+        "JJ-NN-NN": 16,
+        "NNP-NNP-NNP": 9,
+        "NN-NN-JJ": 7
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 11,
+    "chunk_counts": {
+      "NP": 77,
+      "PP": 8,
+      "VP": 21,
+      "ADJP": 4
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 3,
+        "weight": 0.0248
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 3,
+        "weight": 0.0248
+      },
+      {
+        "rule": "S -> NP NP PP ('en', 'FW') ('el', 'FW') ('sur', 'FW') ('de', 'FW') NP VP ('muerte', 'FW') ('de', 'FW') ('56', 'CD') NP ('y', 'RB') VP (',', ',') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0083
+      },
+      {
+        "rule": "NP -> ('Una', 'NNP') ('estampida', 'NN') ('en', 'NN')",
+        "frequency": 1,
+        "weight": 0.0083
+      },
+      {
+        "rule": "NP -> ('un', 'JJ') ('estadio', 'NN')",
+        "frequency": 1,
+        "weight": 0.0083
+      },
+      {
+        "rule": "NP -> ('fútbol', 'NN')",
+        "frequency": 1,
+        "weight": 0.0083
+      },
+      {
+        "rule": "NP -> ('Guinea', 'NNP') ('causó', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0083
+      },
+      {
+        "rule": "VP -> ('la', 'VBP')",
+        "frequency": 1,
+        "weight": 0.0083
+      },
+      {
+        "rule": "NP -> ('personas', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0083
+      },
+      {
+        "rule": "VP -> ('dejó', 'VBP') NP",
+        "frequency": 1,
+        "weight": 0.0083
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Una estampida en"
+      },
+      {
+        "label": "NP",
+        "text": "un estadio"
+      },
+      {
+        "label": "PP",
+        "text": "de fútbol"
+      },
+      {
+        "label": "NP",
+        "text": "fútbol"
+      },
+      {
+        "label": "NP",
+        "text": "Guinea causó"
+      },
+      {
+        "label": "VP",
+        "text": "la"
+      },
+      {
+        "label": "NP",
+        "text": "personas"
+      },
+      {
+        "label": "VP",
+        "text": "dejó a varias más heridas"
+      },
+      {
+        "label": "NP",
+        "text": "a varias más heridas"
+      },
+      {
+        "label": "NP",
+        "text": "según declaró el gobierno"
+      },
+      {
+        "label": "NP",
+        "text": "El incidente ocurrió"
+      },
+      {
+        "label": "VP",
+        "text": "el domingo"
+      },
+      {
+        "label": "NP",
+        "text": "durante"
+      },
+      {
+        "label": "NP",
+        "text": "un partido"
+      },
+      {
+        "label": "NP",
+        "text": "cuando estallaron enfrentamientos"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Una/NNP estampida/NN en/NN)\n  (NP un/JJ estadio/NN)\n  (PP de/IN (NP fútbol/NN))\n  en/FW\n  el/FW\n  sur/FW\n  de/FW\n  (NP Guinea/NNP causó/NNS)\n  (VP la/VBP)\n  muerte/FW\n  de/FW\n  56/CD\n  (NP personas/NNS)\n  y/RB\n  (VP dejó/VBP (NP a/DT varias/NN más/NN heridas/NN))\n  ,/,\n  (NP según/JJ declaró/NN el/NN gobierno/NN)\n  ./.)",
+      "(S\n  (NP El/NNP incidente/NN ocurrió/NN)\n  (VP el/VBP domingo/JJ)\n  1º/CD\n  de/IN\n  diciembre/FW\n  (NP durante/NN)\n  (NP un/JJ partido/NN)\n  ,/,\n  (NP cuando/NN estallaron/NN enfrentamientos/NN)\n  (VP entre/VBZ (NP los/JJ aficionados/NN))\n  ,/,\n  (NP lo/JJ que/NN provocó/NN)\n  la/FW\n  intervención/FW\n  de/FW\n  las/FW\n  fuerzas/FW\n  de/FW\n  seguridad/FW\n  ./.)",
+      "(S\n  (NP LEA/NNP TAMBIÉN/NNP)\n  :/:\n  (NP Venezuela/NNP)\n  y/CC\n  (NP\n    Guinea/NNP\n    Ecuatorial/NNP\n    instalan/NN\n    II/NNP\n    Comisión/NNP\n    Mixta/NNP\n    El/NNP\n    primer/NN\n    ministro/NN\n    Amadou/NNP\n    Oury/NNP\n    Bah/NNP)\n  (NP no/DT dio/NN)\n  (VP detalles/VBZ (NP concretos/NNS) (NP sobre/JJ el/JJ número/NN))\n  de/IN\n  muertos/FW\n  ,/,\n  (NP sin/NN embargo/NN)\n  ,/,\n  (NP aseguró/JJ que/NN las/NNS)\n  (PP autoridades/IN (NP regionales/NNS))\n  (VP están/VBP (NP trabajando/JJ para/NN restablecer/NN))\n  (VP el/VBZ (NP orden/JJ en/NN la/NN zona/NN))\n  ./.)",
+      "(S\n  (NP La/NNP)\n  ministra/FW\n  de/FW\n  (NP Comunicaciones/NNP)\n  ,/,\n  (NP Fana/NNP Soumah/NNP)\n  ,/,\n  (NP anunció/NN que/NN se/NN)\n  (VP está/VBZ)\n  (VP\n    llevando/VBZ\n    (NP a/DT cabo/NN)\n    (NP una/JJ investigación/NN para/NN identificar/NN))\n  a/DT\n  (ADJP los/JJ)\n  responsables/FW\n  de/FW\n  la/FW\n  (NP tragedia/NN)\n  ./.)",
+      "(S\n  (NP\n    La/NNP\n    Alianza/NNP\n    Nacional/NNP\n    para/NN\n    la/NN\n    Alternancia/NNP\n    y/NNP\n    la/NNP\n    Democracia/NNP)\n  ,/,\n  (NP coalición/NN)\n  de/FW\n  partidos/FW\n  (NP políticos/NN)\n  ,/,\n  (NP confirmó/NN)\n  en/FW\n  (NP\n    una/JJ\n    declaración/NN\n    que/NN\n    el/NN\n    desastre/NN\n    causó/NN\n    numerosas/NN)\n  (VP muertes/VBZ (NP y/JJ lesiones/NNS))\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "GOBIERNOS_OFICIALES",
+      "CANTIDADES_NUMERICAS",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "ANTIIMPERIALISMO_SOBERANIA",
+      "REGIONES_PROVINCIAS",
+      "PAISES",
+      "PROTESTAS_CONFLICTOS_SOCIALES",
+      "LOCALIZACIONES_ESPECIFICAS",
+      "INFRAESTRUCTURA_SERVICIOS",
+      "RELACIONES_INTERNACIONALES"
+    ],
+    "matches": [
+      {
+        "category": "PROTESTAS_CONFLICTOS_SOCIALES",
+        "matched_text": "enfrentamientos entre los aficionados, lo que provocó la intervención de las fuerzas",
+        "position": [
+          231,
+          315
+        ],
+        "start": 231,
+        "end": 315
+      },
+      {
+        "category": "RELACIONES_INTERNACIONALES",
+        "matched_text": "alianza nacional para la alternancia y la democracia, coalición de partidos políticos, confirmó en una declaración que el desastre causó numerosas muertes y lesiones. este trágico acontecimiento pone de relieve los problemas actuales relacionados con la gestión de las multitudes y la",
+        "position": [
+          748,
+          1032
+        ],
+        "start": 748,
+        "end": 1032
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "declaró",
+        "position": [
+          124,
+          131
+        ],
+        "start": 124,
+        "end": 131
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "anunció",
+        "position": [
+          639,
+          646
+        ],
+        "start": 639,
+        "end": 646
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "ministra de comunicaciones",
+        "position": [
+          598,
+          624
+        ],
+        "start": 598,
+        "end": 624
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "hospital",
+        "position": [
+          1546,
+          1554
+        ],
+        "start": 1546,
+        "end": 1554
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "venezuela",
+        "position": [
+          342,
+          351
+        ],
+        "start": 342,
+        "end": 351
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "estado crítico",
+        "position": [
+          1584,
+          1598
+        ],
+        "start": 1584,
+        "end": 1598
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "hospital regional",
+        "position": [
+          1546,
+          1563
+        ],
+        "start": 1546,
+        "end": 1563
+      },
+      {
+        "category": "ANTIIMPERIALISMO_SOBERANIA",
+        "matched_text": "embargo",
+        "position": [
+          492,
+          499
+        ],
+        "start": 492,
+        "end": 499
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "56 personas",
+        "position": [
+          77,
+          88
+        ],
+        "start": 77,
+        "end": 88
+      }
+    ],
+    "match_count": 11
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Venezuela",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Comunicaciones",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "II Comisión Mixta\nEl primer ministro",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Amadou Oury Bah",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Fana Soumah",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Guinea Ecuatorial",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Guinea",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Venezuela",
+        "relacion": "INSTALAR_ASEGURAR",
+        "objeto": "II Comisión Mixta\nEl primer ministro"
+      },
+      {
+        "sujeto": "Venezuela",
+        "relacion": "INSTALAR_ASEGURAR",
+        "objeto": "Amadou Oury Bah"
+      },
+      {
+        "sujeto": "Guinea Ecuatorial",
+        "relacion": "INSTALAR_ASEGURAR",
+        "objeto": "II Comisión Mixta\nEl primer ministro"
+      },
+      {
+        "sujeto": "Guinea Ecuatorial",
+        "relacion": "INSTALAR_ASEGURAR",
+        "objeto": "Amadou Oury Bah"
+      },
+      {
+        "sujeto": "II Comisión Mixta\nEl primer ministro",
+        "relacion": "INSTALAR_ASEGURAR",
+        "objeto": "Amadou Oury Bah"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.5106,
+    "pos": 0.009,
+    "neu": 0.972,
+    "neg": 0.02,
+    "label": "negative"
+  }
+}

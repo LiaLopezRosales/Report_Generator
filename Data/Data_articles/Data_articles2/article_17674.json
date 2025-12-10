@@ -1,0 +1,768 @@
+{
+  "url": "https://www.telesurtv.net/presidente-de-mexico-exige-a-estados-unidos-detener-actitud-injerencista/",
+  "title": "Presidente de México exige a Estados Unidos detener actitud injerencista - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "Estados Unidos",
+    "Injerencismo",
+    "México"
+  ],
+  "text": "El presidente de México, Andrés Manuel López Obrador, instó este lunes por medio de una carta a su homólogo de Estados Unidos, Joe Biden, a detener la actitud injerencista de su gobierno al financiar a algunas organizaciones como Mexicanos Contra la Corrupción y la Impunidad (MCCI).\nLEA TAMBIÉN\nBalacera en México cobra la vida de un niño y deja ocho migrantes haitianos heridos\nDurante su habitual conferencia matutina en el Palacio Nacional, López Obrador el mandatario mexicano mencionó que las relaciones con Estados Unidos son buenas, pero “queremos dejar de manifiesto, que quede muy claro, que debemos respetarnos”.\nEl jefe de estado reasaltó “he venido denunciando públicamente a quienes desde el gobierno de Estados Unidos han mantenido una actitud, a todas luces, injerencista al financiar parte de las actividades que lleva a cabo la autollamada organización Mexicanos Contra la Corrupción y la Impunidad, A. C, cuyo propósito principal ha sido atacar a nuestro gobierno”.\nEl mandatario mexicano denunció que desde el año 2018 al 2023 la MCCI ha recibido 111 millones de pesos (5,92 millones de dólares)\nEn ese sentido, expresó “Aun cuando se trata de una cantidad relativamente menor, este proceder es completamente ofensivo y contrario a las relaciones de respeto a nuestras soberanías que tanto usted como yo hemos venido cultivando en bien de nuestras naciones”.\nLópez Obrador concluyó la misiva deseando que el presidente estadounidense pueda detener esas acciones que van en contra de la autodeterminación de los pueblos.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/presidente-de-mexico-exige-a-estados-unidos-detener-actitud-injerencista/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-08.json",
+    "message_index": 706,
+    "message_id": 74815,
+    "date": "2024-08-19T18:58:09+00:00",
+    "text": "Debes conocer estas tres noticias en nuestra web🌐  \n \n↕ ALBA-TCP rechaza resolución de la OEA sobre Venezuela\nhttps://www.telesurtv.net/alba-tcp-rechaza-resolucion-de-la-oea-sobre-venezuela\n\n↕ Presidente de México exige a Estados Unidos detener actitud injerencista\nhttps://www.telesurtv.net/presidente-de-mexico-exige-a-estados-unidos-detener-actitud-injerencista/\n\n↕ Plataforma Electoral Demócrata no contempla embargo en ventas de armas a Israel, a pesar de genocidio en Gaza https://www.telesurtv.net/plataforma-electoral-democrata-no-contempla-embargo-en-ventas-de-armas-a-israel-a-pesar-de-genocidio-en-gaza/",
+    "photo_path": null,
+    "views": 4048,
+    "reactions": {
+      "👍": 83,
+      "❤": 9,
+      "🔥": 3
+    },
+    "total_reactions": 95
+  },
+  "preprocessing": {
+    "cleaned": "el presidente de méxico, andrés manuel lópez obrador, instó este lunes por medio de una carta a su homólogo de estados unidos, joe biden, a detener la actitud injerencista de su gobierno al financiar a algunas organizaciones como mexicanos contra la corrupción y la impunidad (mcci). durante su habitual conferencia matutina en el palacio nacional, lópez obrador el mandatario mexicano mencionó que las relaciones con estados unidos son buenas, pero “queremos dejar de manifiesto, que quede muy claro, que debemos respetarnos”. el jefe de estado reasaltó “he venido denunciando públicamente a quienes desde el gobierno de estados unidos han mantenido una actitud, a todas luces, injerencista al financiar parte de las actividades que lleva a cabo la autollamada organización mexicanos contra la corrupción y la impunidad, a. c, cuyo propósito principal ha sido atacar a nuestro gobierno”. el mandatario mexicano denunció que desde el año 2018 al 2023 la mcci ha recibido 111 millones de pesos (5,92 millones de dólares) en ese sentido, expresó “aun cuando se trata de una cantidad relativamente menor, este proceder es completamente ofensivo y contrario a las relaciones de respeto a nuestras soberanías que tanto usted como yo hemos venido cultivando en bien de nuestras naciones”. lópez obrador concluyó la misiva deseando que el presidente estadounidense pueda detener esas acciones que van en contra de la autodeterminación de los pueblos.",
+    "tokens": [
+      "presidente",
+      "méxico",
+      ",",
+      "andrés",
+      "manuel",
+      "lópez",
+      "obrador",
+      ",",
+      "instó",
+      "lunes",
+      "medio",
+      "carta",
+      "homólogo",
+      "unidos",
+      ",",
+      "joe",
+      "biden",
+      ",",
+      "detener",
+      "actitud",
+      "injerencista",
+      "gobierno",
+      "financiar",
+      "organizaciones",
+      "mexicanos",
+      "corrupción",
+      "impunidad",
+      "(",
+      "mcci",
+      ")",
+      ".",
+      "habitual",
+      "conferencia",
+      "matutina",
+      "palacio",
+      "nacional",
+      ",",
+      "lópez",
+      "obrador",
+      "mandatario",
+      "mexicano",
+      "mencionó",
+      "relaciones",
+      "unidos",
+      "buenas",
+      ",",
+      "“",
+      "queremos",
+      "dejar",
+      "manifiesto",
+      ",",
+      "quede",
+      "claro",
+      ",",
+      "debemos",
+      "respetarnos",
+      "”",
+      ".",
+      "jefe",
+      "reasaltó",
+      "“",
+      "venido",
+      "denunciando",
+      "públicamente",
+      "gobierno",
+      "unidos",
+      "mantenido",
+      "actitud",
+      ",",
+      "todas",
+      "luces",
+      ",",
+      "injerencista",
+      "financiar",
+      "parte",
+      "actividades",
+      "lleva",
+      "cabo",
+      "autollamada",
+      "organización",
+      "mexicanos",
+      "corrupción",
+      "impunidad",
+      ",",
+      "a.",
+      "c",
+      ",",
+      "cuyo",
+      "propósito",
+      "principal",
+      "sido",
+      "atacar",
+      "gobierno",
+      "”",
+      ".",
+      "mandatario",
+      "mexicano",
+      "denunció",
+      "año",
+      "2018",
+      "2023",
+      "mcci",
+      "recibido",
+      "111",
+      "millones",
+      "pesos",
+      "(",
+      "5,92",
+      "millones",
+      "dólares",
+      ")",
+      ",",
+      "expresó",
+      "“",
+      "aun",
+      "trata",
+      "cantidad",
+      "relativamente",
+      "menor",
+      ",",
+      "proceder",
+      "completamente",
+      "ofensivo",
+      "contrario",
+      "relaciones",
+      "respeto",
+      "soberanías",
+      "usted",
+      "venido",
+      "cultivando",
+      "bien",
+      "naciones",
+      "”",
+      ".",
+      "lópez",
+      "obrador",
+      "concluyó",
+      "misiva",
+      "deseando",
+      "presidente",
+      "estadounidense",
+      "pueda",
+      "detener",
+      "acciones",
+      "van",
+      "autodeterminación",
+      "pueblos",
+      "."
+    ],
+    "token_count": 148,
+    "sentence_count": 6
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 39,
+      "NN": 91,
+      "FW": 32,
+      "NNS": 14,
+      "VBP": 8,
+      "IN": 12,
+      "JJ": 22,
+      "VBZ": 3,
+      "VBD": 1,
+      "PRP": 1,
+      "CD": 4
+    },
+    "bigram_freq": {
+      "NNP-NN": 12,
+      "NN-FW": 8,
+      "FW-NNP": 6,
+      "NNP-NNP": 19,
+      "NN-NN": 50,
+      "NN-NNS": 4,
+      "NNS-VBP": 8,
+      "VBP-NN": 1,
+      "FW-FW": 12,
+      "FW-NN": 9,
+      "NN-IN": 9,
+      "IN-NNP": 3,
+      "NN-JJ": 10,
+      "JJ-NN": 15,
+      "IN-FW": 6,
+      "JJ-NNS": 4,
+      "VBP-NNP": 2,
+      "NNP-FW": 4,
+      "NNP-IN": 1,
+      "NN-VBZ": 1,
+      "VBZ-JJ": 2,
+      "NN-NNP": 4,
+      "NNP-VBD": 1,
+      "VBD-JJ": 1,
+      "NNP-VBZ": 1,
+      "VBZ-NN": 1,
+      "NNS-NNP": 3,
+      "NN-PRP": 1,
+      "PRP-VBZ": 1,
+      "VBP-JJ": 5,
+      "JJ-JJ": 1,
+      "FW-NNS": 4,
+      "IN-JJ": 2,
+      "JJ-NNP": 1,
+      "NN-CD": 3,
+      "CD-NN": 2,
+      "CD-NNS": 2,
+      "NNS-IN": 2,
+      "FW-CD": 1,
+      "NNS-FW": 1,
+      "NNP-JJ": 1,
+      "IN-NN": 1,
+      "JJ-FW": 1
+    },
+    "trigram_freq": {
+      "NNP-NN-FW": 2,
+      "NN-FW-NNP": 1,
+      "FW-NNP-NNP": 3,
+      "NNP-NNP-NNP": 10,
+      "NNP-NNP-NN": 5,
+      "NNP-NN-NN": 10,
+      "NN-NN-NNS": 2,
+      "NN-NNS-VBP": 4,
+      "NNS-VBP-NN": 1,
+      "VBP-NN-FW": 1,
+      "NN-FW-FW": 3,
+      "FW-FW-NN": 5,
+      "FW-NN-NN": 5,
+      "NN-NN-NN": 27,
+      "NN-NN-IN": 4,
+      "NN-IN-NNP": 2,
+      "IN-NNP-NNP": 2,
+      "NN-NN-JJ": 9,
+      "NN-JJ-NN": 6,
+      "JJ-NN-IN": 4,
+      "NN-IN-FW": 5,
+      "IN-FW-FW": 1,
+      "NN-JJ-NNS": 4,
+      "JJ-NNS-VBP": 3,
+      "NNS-VBP-NNP": 2,
+      "VBP-NNP-NNP": 2,
+      "NNP-NNP-FW": 2,
+      "NNP-FW-NNP": 4,
+      "FW-NNP-FW": 2,
+      "NNP-NNP-IN": 1,
+      "NNP-IN-NNP": 1,
+      "IN-NNP-NN": 1,
+      "NN-NN-FW": 4,
+      "FW-FW-FW": 7,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 2,
+      "JJ-NN-NNP": 2,
+      "NN-NNP-VBD": 1,
+      "NNP-VBD-JJ": 1,
+      "VBD-JJ-NN": 1,
+      "JJ-NN-NN": 7,
+      "IN-FW-NNP": 1,
+      "NNP-NNP-VBZ": 1,
+      "NNP-VBZ-NN": 1,
+      "VBZ-NN-NN": 1,
+      "IN-FW-NN": 1,
+      "JJ-NNS-NNP": 1,
+      "NNS-NNP-NN": 1,
+      "FW-NN-PRP": 1,
+      "NN-PRP-VBZ": 1,
+      "PRP-VBZ-JJ": 1,
+      "JJ-NN-NNS": 1,
+      "NNS-VBP-JJ": 5,
+      "VBP-JJ-NN": 3,
+      "VBP-JJ-JJ": 1,
+      "JJ-JJ-NN": 1,
+      "IN-FW-NNS": 2,
+      "FW-NNS-VBP": 1,
+      "NN-IN-JJ": 2,
+      "IN-JJ-NNP": 1,
+      "JJ-NNP-NNP": 1,
+      "FW-NNP-NN": 1,
+      "NN-NNP-NN": 3,
+      "NN-NN-CD": 2,
+      "NN-CD-NN": 2,
+      "CD-NN-CD": 1,
+      "CD-NN-NNP": 1,
+      "NN-CD-NNS": 1,
+      "CD-NNS-IN": 1,
+      "NNS-IN-FW": 1,
+      "IN-FW-CD": 1,
+      "FW-CD-NNS": 1,
+      "CD-NNS-FW": 1,
+      "NNS-FW-NNS": 1,
+      "FW-NNS-NNP": 2,
+      "NNS-NNP-JJ": 1,
+      "NNP-JJ-NN": 1,
+      "NN-NN-NNP": 1,
+      "IN-JJ-NN": 1,
+      "NN-FW-NN": 3,
+      "FW-NN-FW": 1,
+      "NN-FW-NNS": 1,
+      "FW-NNS-IN": 1,
+      "NNS-IN-NN": 1,
+      "IN-NN-NNS": 1,
+      "JJ-NN-JJ": 1,
+      "FW-NN-IN": 1,
+      "NNS-NNP-NNP": 1,
+      "VBP-JJ-FW": 1,
+      "JJ-FW-FW": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 91,
+        "NNP": 39,
+        "FW": 32,
+        "JJ": 22,
+        "NNS": 14
+      },
+      "top_bigrams": {
+        "NN-NN": 50,
+        "NNP-NNP": 19,
+        "JJ-NN": 15,
+        "NNP-NN": 12,
+        "FW-FW": 12
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 27,
+        "NNP-NNP-NNP": 10,
+        "NNP-NN-NN": 10,
+        "NN-NN-JJ": 9,
+        "FW-FW-FW": 7
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 6,
+    "chunk_counts": {
+      "NP": 65,
+      "VP": 13,
+      "PP": 5
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0225
+      },
+      {
+        "rule": "NP -> ('al', 'NN')",
+        "frequency": 2,
+        "weight": 0.0225
+      },
+      {
+        "rule": "NP -> ('millones', 'NNS')",
+        "frequency": 2,
+        "weight": 0.0225
+      },
+      {
+        "rule": "S -> NP ('de', 'FW') NP (',', ',') NP (',', ',') NP VP ('de', 'FW') ('una', 'FW') VP PP (',', ',') NP (',', ',') NP NP ('de', 'IN') ('su', 'FW') ('gobierno', 'FW') NP VP VP ('(', '(') NP (')', ')') ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0112
+      },
+      {
+        "rule": "NP -> ('El', 'NNP') ('presidente', 'NN')",
+        "frequency": 1,
+        "weight": 0.0112
+      },
+      {
+        "rule": "NP -> ('México', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0112
+      },
+      {
+        "rule": "NP -> ('Andrés', 'NNP') ('Manuel', 'NNP') ('López', 'NNP') ('Obrador', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0112
+      },
+      {
+        "rule": "NP -> ('instó', 'JJ') ('este', 'NN') ('lunes', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0112
+      },
+      {
+        "rule": "VP -> ('por', 'VBP') NP",
+        "frequency": 1,
+        "weight": 0.0112
+      },
+      {
+        "rule": "NP -> ('medio', 'NN')",
+        "frequency": 1,
+        "weight": 0.0112
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El presidente"
+      },
+      {
+        "label": "NP",
+        "text": "México"
+      },
+      {
+        "label": "NP",
+        "text": "Andrés Manuel López Obrador"
+      },
+      {
+        "label": "NP",
+        "text": "instó este lunes"
+      },
+      {
+        "label": "VP",
+        "text": "por medio"
+      },
+      {
+        "label": "NP",
+        "text": "medio"
+      },
+      {
+        "label": "VP",
+        "text": "carta a su homólogo"
+      },
+      {
+        "label": "NP",
+        "text": "a su homólogo"
+      },
+      {
+        "label": "PP",
+        "text": "de Estados Unidos"
+      },
+      {
+        "label": "NP",
+        "text": "Estados Unidos"
+      },
+      {
+        "label": "NP",
+        "text": "Joe Biden"
+      },
+      {
+        "label": "NP",
+        "text": "a detener la"
+      },
+      {
+        "label": "NP",
+        "text": "actitud injerencista"
+      },
+      {
+        "label": "NP",
+        "text": "al"
+      },
+      {
+        "label": "VP",
+        "text": "financiar a algunas organizaciones"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP El/NNP presidente/NN)\n  de/FW\n  (NP México/NNP)\n  ,/,\n  (NP Andrés/NNP Manuel/NNP López/NNP Obrador/NNP)\n  ,/,\n  (NP instó/JJ este/NN lunes/NNS)\n  (VP por/VBP (NP medio/NN))\n  de/FW\n  una/FW\n  (VP carta/VB (NP a/DT su/JJ homólogo/NN))\n  (PP de/IN (NP Estados/NNP Unidos/NNP))\n  ,/,\n  (NP Joe/NNP Biden/NNP)\n  ,/,\n  (NP a/DT detener/NN la/NN)\n  (NP actitud/JJ injerencista/NN)\n  de/IN\n  su/FW\n  gobierno/FW\n  (NP al/NN)\n  (VP financiar/VBD (NP a/DT algunas/JJ organizaciones/NNS))\n  (VP\n    como/VBP\n    (NP\n      Mexicanos/NNP\n      Contra/NNP\n      la/NNP\n      Corrupción/NNP\n      y/NNP\n      la/NN\n      Impunidad/NNP))\n  (/(\n  (NP MCCI/NNP)\n  )/)\n  ./.)",
+      "(S\n  (NP LEA/NNP TAMBIÉN/NNP Balacera/NNP)\n  (PP en/IN (NP México/NNP cobra/NN la/NN))\n  vida/FW\n  de/FW\n  un/FW\n  niño/FW\n  y/FW\n  (NP deja/NN ocho/NN)\n  (VP migrantes/VBZ (NP haitianos/JJ heridos/NN Durante/NNP))\n  (VP su/VBD (NP habitual/JJ conferencia/NN matutina/NN))\n  en/IN\n  el/FW\n  (NP Palacio/NNP Nacional/NNP)\n  ,/,\n  (NP López/NNP Obrador/NNP)\n  (VP\n    el/VBZ\n    (NP mandatario/NN mexicano/NN mencionó/NN que/NN)\n    (NP las/JJ relaciones/NNS))\n  (VP con/VBP (NP Estados/NNP Unidos/NNP son/NN buenas/NN))\n  ,/,\n  (NP pero/NN “/NNP queremos/NN dejar/NN)\n  de/IN\n  manifiesto/FW\n  ,/,\n  que/FW\n  quede/FW\n  muy/FW\n  (NP claro/NN)\n  ,/,\n  (NP que/JJ debemos/NN respetarnos/NN ”/NN)\n  ./.)",
+      "(S\n  (NP El/NNP jefe/NN)\n  de/FW\n  estado/FW\n  (NP reasaltó/NN “/NN)\n  he/PRP\n  (VP venido/VBZ denunciando/JJ)\n  (PP públicamente/IN (NP a/DT quienes/NNS desde/NN))\n  (VP el/VBP (NP gobierno/NN))\n  de/FW\n  (NP Estados/NNP Unidos/NNP han/NN mantenido/NN)\n  (NP una/JJ actitud/NN)\n  ,/,\n  (NP a/DT todas/JJ luces/NNS)\n  ,/,\n  (NP injerencista/JJ al/NN)\n  (NP financiar/JJ parte/NN)\n  de/IN\n  las/FW\n  (NP actividades/NNS)\n  (VP que/VBP)\n  (VP lleva/VBZ (NP a/DT cabo/NN la/NN))\n  (PP\n    autollamada/IN\n    (NP\n      organización/JJ\n      Mexicanos/NNP\n      Contra/NNP\n      la/NNP\n      Corrupción/NNP\n      y/NNP\n      la/NNP\n      Impunidad/NNP))\n  ,/,\n  (NP A/NNP)\n  ./.)",
+      "(S\n  (NP C/NNP)\n  ,/,\n  (NP cuyo/NN propósito/NN)\n  (NP principal/JJ ha/NN sido/NN atacar/NN)\n  (NP a/DT nuestro/JJ gobierno/NN ”/NN)\n  ./.)",
+      "(S\n  (NP\n    El/NNP\n    mandatario/NN\n    mexicano/NN\n    denunció/NN\n    que/NN\n    desde/NN\n    el/NN\n    año/NN)\n  2018/CD\n  (NP al/NN)\n  2023/CD\n  (NP la/NN MCCI/NNP ha/NN recibido/NN)\n  111/CD\n  (NP millones/NNS)\n  de/FW\n  pesos/FW\n  (/(\n  5,92/CD\n  (NP millones/NNS)\n  de/FW\n  (NP dólares/NNS)\n  )/)\n  (NP En/NNP)\n  (NP ese/JJ sentido/NN)\n  ,/,\n  (NP expresó/JJ “/NNP Aun/NNP cuando/NN se/NN trata/NN)\n  (PP de/IN (NP una/JJ cantidad/NN relativamente/NN menor/NN))\n  ,/,\n  (NP este/NN proceder/NN es/NN completamente/NN)\n  ofensivo/FW\n  (NP y/NN contrario/NN)\n  (NP a/DT las/JJ relaciones/NNS)\n  de/FW\n  respeto/FW\n  (NP a/DT nuestras/JJ soberanías/NN que/NN tanto/NN)\n  (NP usted/JJ como/NN yo/NN hemos/NN venido/NN cultivando/NN)\n  en/FW\n  (NP bien/NN)\n  de/IN\n  nuestras/FW\n  (NP naciones/NNS ”/NNP)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "FECHAS_HORAS",
+      "GOBIERNOS_OFICIALES",
+      "FECHAS_ESPECIFICAS",
+      "CANTIDADES_NUMERICAS",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "ACCIONES_LEGALES",
+      "REGIONES_PROVINCIAS",
+      "PAISES",
+      "CONFLICTOS_ARMADOS_OPERACIONES",
+      "JURIDICO_LEGISLATIVO_CORRUPCION",
+      "MONETARIOS"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "denunció que desde el año 2018 al",
+        "position": [
+          1008,
+          1041
+        ],
+        "start": 1008,
+        "end": 1041
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "expresó",
+        "position": [
+          1132,
+          1139
+        ],
+        "start": 1132,
+        "end": 1139
+      },
+      {
+        "category": "JURIDICO_LEGISLATIVO_CORRUPCION",
+        "matched_text": "corrupción",
+        "position": [
+          250,
+          260
+        ],
+        "start": 250,
+        "end": 260
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "gobierno de estados unidos",
+        "position": [
+          706,
+          732
+        ],
+        "start": 706,
+        "end": 732
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente de méxico",
+        "position": [
+          3,
+          23
+        ],
+        "start": 3,
+        "end": 23
+      },
+      {
+        "category": "ACCIONES_LEGALES",
+        "matched_text": "denunció",
+        "position": [
+          1008,
+          1016
+        ],
+        "start": 1008,
+        "end": 1016
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "estados unidos",
+        "position": [
+          111,
+          125
+        ],
+        "start": 111,
+        "end": 125
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "méxico",
+        "position": [
+          17,
+          23
+        ],
+        "start": 17,
+        "end": 23
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "estado reasaltó",
+        "position": [
+          635,
+          650
+        ],
+        "start": 635,
+        "end": 650
+      },
+      {
+        "category": "FECHAS_ESPECIFICAS",
+        "matched_text": "año 2018",
+        "position": [
+          1030,
+          1038
+        ],
+        "start": 1030,
+        "end": 1038
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "111 millones",
+        "position": [
+          1067,
+          1079
+        ],
+        "start": 1067,
+        "end": 1079
+      },
+      {
+        "category": "MONETARIOS",
+        "matched_text": "111 millones de pesos",
+        "position": [
+          1067,
+          1088
+        ],
+        "start": 1067,
+        "end": 1088
+      },
+      {
+        "category": "FECHAS_HORAS",
+        "matched_text": "el año 2018",
+        "position": [
+          1027,
+          1038
+        ],
+        "start": 1027,
+        "end": 1038
+      }
+    ],
+    "match_count": 13
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "MCCI",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Andrés Manuel López Obrador",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Palacio Nacional",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "López Obrador",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Estados Unidos",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Balacera",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Joe Biden",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Mexicanos Contra la Corrupción",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "México",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "A. C",
+        "tipo": "Organizacion"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "México",
+        "relacion": "INSTAR",
+        "objeto": "Estados Unidos"
+      },
+      {
+        "sujeto": "México",
+        "relacion": "INSTAR",
+        "objeto": "Joe Biden"
+      },
+      {
+        "sujeto": "México",
+        "relacion": "INSTAR",
+        "objeto": "Mexicanos Contra la Corrupción"
+      },
+      {
+        "sujeto": "México",
+        "relacion": "INSTAR",
+        "objeto": "MCCI"
+      },
+      {
+        "sujeto": "Andrés Manuel López Obrador",
+        "relacion": "INSTAR",
+        "objeto": "Estados Unidos"
+      },
+      {
+        "sujeto": "Andrés Manuel López Obrador",
+        "relacion": "INSTAR",
+        "objeto": "Joe Biden"
+      },
+      {
+        "sujeto": "Andrés Manuel López Obrador",
+        "relacion": "INSTAR",
+        "objeto": "Mexicanos Contra la Corrupción"
+      },
+      {
+        "sujeto": "Andrés Manuel López Obrador",
+        "relacion": "INSTAR",
+        "objeto": "MCCI"
+      },
+      {
+        "sujeto": "Estados Unidos",
+        "relacion": "INSTAR",
+        "objeto": "Mexicanos Contra la Corrupción"
+      },
+      {
+        "sujeto": "Estados Unidos",
+        "relacion": "INSTAR",
+        "objeto": "MCCI"
+      },
+      {
+        "sujeto": "Joe Biden",
+        "relacion": "INSTAR",
+        "objeto": "Mexicanos Contra la Corrupción"
+      },
+      {
+        "sujeto": "Joe Biden",
+        "relacion": "INSTAR",
+        "objeto": "MCCI"
+      },
+      {
+        "sujeto": "Balacera",
+        "relacion": "COBRAR",
+        "objeto": "Palacio Nacional"
+      },
+      {
+        "sujeto": "México",
+        "relacion": "COBRAR",
+        "objeto": "Palacio Nacional"
+      },
+      {
+        "sujeto": "López Obrador",
+        "relacion": "MENCIONAR",
+        "objeto": "Estados Unidos"
+      },
+      {
+        "sujeto": "Estados Unidos",
+        "relacion": "MANTENER_DENUNCIAR_VENIR",
+        "objeto": "A. C"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.5859,
+    "pos": 0.021,
+    "neu": 0.979,
+    "neg": 0.0,
+    "label": "positive"
+  }
+}

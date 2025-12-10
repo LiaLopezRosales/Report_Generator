@@ -1,0 +1,619 @@
+{
+  "url": "https://www.telesurtv.net/al-menos-87-personas-mueren-en-estampida-durante-un-evento-religioso-en-india/",
+  "title": "Ascienden a 116 los muertos por estampida tras una ceremonia religiosa en India - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "India",
+    "Muertos"
+  ],
+  "text": "\nAl menos son 116 las personas muertas este martes por la estampida que se desató al término de un evento religioso en el norte de la India, reportó la policía local.\n\n\nPor otra parte, el director del hospital, Umesh Kumar Tripathi, dio a conocer que recibieron muchos heridos por el incidente.\n\nAsimismo, el portavoz de la policía del distrito de Hathras, Manish Chikara, afirmó “Las cifras pueden aumentar. La gente está siendo trasladada a hospitales en el distrito de Hathras y en el distrito vecino de Etah”.\nA través de la red social X, el jefe de Gobierno de Uttar Pradesh, Yogi Adityanath, transmitió sus condolencias a familiares y amigos de las víctimas.\nEn la India son frecuentes las avalanchas de personas durante celebraciones religiosas debido en gran medida a las deficiencias organizativas de los eventos o a la fragilidad de las infraestructuras.\n“Se ha confirmado la muerte de 116 personas. Los que resultaron heridos están recibiendo tratamiento médico y los cuerpos han sido enviados a diferentes lugares para su autopsia” dijo a los medios el inspector general de Policía Shalabh Mathur, del distrito de Aligarh, contiguo al de Hathras, en el estado de Uttar Pradesh donde sucedió el incidente.\n“Se presentarán cargos contra los organizadores que obtuvieron el permiso para el evento”, agregó el oficial de Aligarh, donde fueron trasladados varios cadáveres y heridos.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/al-menos-87-personas-mueren-en-estampida-durante-un-evento-religioso-en-india/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-07.json",
+    "message_index": 1037,
+    "message_id": 72800,
+    "date": "2024-07-02T14:55:08+00:00",
+    "text": "teleSUR\nAl menos 87 personas mueren en estampida durante un evento religioso en India\nhttps://www.telesurtv.net/al-menos-87-personas-mueren-en-estampida-durante-un-evento-religioso-en-india/",
+    "photo_path": null,
+    "views": 1504,
+    "reactions": {},
+    "total_reactions": 0
+  },
+  "preprocessing": {
+    "cleaned": "al menos son 116 las personas muertas este martes por la estampida que se desató al término de un evento religioso en el norte de la india, reportó la policía local. por otra parte, el director del hospital, umesh kumar tripathi, dio a conocer que recibieron muchos heridos por el incidente. asimismo, el portavoz de la policía del distrito de hathras, manish chikara, afirmó “las cifras pueden aumentar. la gente está siendo trasladada a hospitales en el distrito de hathras y en el distrito vecino de etah”. a través de la red social x, el jefe de gobierno de uttar pradesh, yogi adityanath, transmitió sus condolencias a familiares y amigos de las víctimas. en la india son frecuentes las avalanchas de personas durante celebraciones religiosas debido en gran medida a las deficiencias organizativas de los eventos o a la fragilidad de las infraestructuras. “se ha confirmado la muerte de 116 personas. los que resultaron heridos están recibiendo tratamiento médico y los cuerpos han sido enviados a diferentes lugares para su autopsia” dijo a los medios el inspector general de policía shalabh mathur, del distrito de aligarh, contiguo al de hathras, en el estado de uttar pradesh donde sucedió el incidente. “se presentarán cargos contra los organizadores que obtuvieron el permiso para el evento”, agregó el oficial de aligarh, donde fueron trasladados varios cadáveres y heridos.",
+    "tokens": [
+      "menos",
+      "116",
+      "personas",
+      "muertas",
+      "martes",
+      "estampida",
+      "desató",
+      "término",
+      "evento",
+      "religioso",
+      "norte",
+      "india",
+      ",",
+      "reportó",
+      "policía",
+      "local",
+      ".",
+      "parte",
+      ",",
+      "director",
+      "hospital",
+      ",",
+      "umesh",
+      "kumar",
+      "tripathi",
+      ",",
+      "dio",
+      "conocer",
+      "recibieron",
+      "heridos",
+      "incidente",
+      ".",
+      "asimismo",
+      ",",
+      "portavoz",
+      "policía",
+      "distrito",
+      "hathras",
+      ",",
+      "manish",
+      "chikara",
+      ",",
+      "afirmó",
+      "“",
+      "cifras",
+      "pueden",
+      "aumentar",
+      ".",
+      "gente",
+      "siendo",
+      "trasladada",
+      "hospitales",
+      "distrito",
+      "hathras",
+      "distrito",
+      "vecino",
+      "etah",
+      "”",
+      ".",
+      "través",
+      "red",
+      "social",
+      "x",
+      ",",
+      "jefe",
+      "gobierno",
+      "uttar",
+      "pradesh",
+      ",",
+      "yogi",
+      "adityanath",
+      ",",
+      "transmitió",
+      "condolencias",
+      "familiares",
+      "amigos",
+      "víctimas",
+      ".",
+      "india",
+      "frecuentes",
+      "avalanchas",
+      "personas",
+      "celebraciones",
+      "religiosas",
+      "debido",
+      "gran",
+      "medida",
+      "deficiencias",
+      "organizativas",
+      "eventos",
+      "fragilidad",
+      "infraestructuras",
+      ".",
+      "“",
+      "confirmado",
+      "muerte",
+      "116",
+      "personas",
+      ".",
+      "resultaron",
+      "heridos",
+      "recibiendo",
+      "tratamiento",
+      "médico",
+      "cuerpos",
+      "sido",
+      "enviados",
+      "diferentes",
+      "lugares",
+      "autopsia",
+      "”",
+      "dijo",
+      "medios",
+      "inspector",
+      "general",
+      "policía",
+      "shalabh",
+      "mathur",
+      ",",
+      "distrito",
+      "aligarh",
+      ",",
+      "contiguo",
+      "hathras",
+      ",",
+      "uttar",
+      "pradesh",
+      "sucedió",
+      "incidente",
+      ".",
+      "“",
+      "presentarán",
+      "cargos",
+      "organizadores",
+      "obtuvieron",
+      "permiso",
+      "evento",
+      "”",
+      ",",
+      "agregó",
+      "oficial",
+      "aligarh",
+      ",",
+      "trasladados",
+      "varios",
+      "cadáveres",
+      "heridos",
+      "."
+    ],
+    "token_count": 148,
+    "sentence_count": 9
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 32,
+      "VBD": 1,
+      "NN": 68,
+      "CD": 2,
+      "NNS": 11,
+      "JJ": 20,
+      "VBZ": 7,
+      "FW": 52,
+      "IN": 8,
+      "MD": 1,
+      "VB": 1,
+      "VBP": 6,
+      "RP": 1,
+      "RB": 1
+    },
+    "bigram_freq": {
+      "NNP-VBD": 1,
+      "VBD-NN": 1,
+      "NN-CD": 1,
+      "CD-NNS": 2,
+      "NNS-JJ": 1,
+      "JJ-NNS": 2,
+      "NNS-NN": 1,
+      "NN-VBZ": 4,
+      "VBZ-JJ": 2,
+      "JJ-NN": 8,
+      "NN-FW": 8,
+      "FW-NN": 10,
+      "NN-NN": 36,
+      "NN-IN": 8,
+      "IN-FW": 1,
+      "FW-FW": 30,
+      "FW-NNP": 9,
+      "NNP-NN": 11,
+      "FW-JJ": 2,
+      "JJ-NNP": 1,
+      "NNP-MD": 1,
+      "MD-VB": 1,
+      "VB-JJ": 1,
+      "NN-NNP": 4,
+      "NNP-NNP": 10,
+      "NNP-VBZ": 2,
+      "VBZ-FW": 1,
+      "VBZ-NNP": 1,
+      "NNP-NNS": 1,
+      "NNS-VBP": 6,
+      "VBP-NN": 1,
+      "NN-NNS": 4,
+      "VBP-JJ": 4,
+      "IN-NNP": 5,
+      "NNP-FW": 6,
+      "JJ-JJ": 4,
+      "VBZ-RP": 1,
+      "RP-FW": 1,
+      "JJ-FW": 5,
+      "NN-JJ": 3,
+      "FW-CD": 1,
+      "NNS-NNP": 1,
+      "IN-JJ": 2,
+      "VBZ-NNS": 2,
+      "VBP-RB": 1,
+      "RB-JJ": 1,
+      "NNS-VBZ": 1
+    },
+    "trigram_freq": {
+      "NNP-VBD-NN": 1,
+      "VBD-NN-CD": 1,
+      "NN-CD-NNS": 1,
+      "CD-NNS-JJ": 1,
+      "NNS-JJ-NNS": 1,
+      "JJ-NNS-NN": 1,
+      "NNS-NN-VBZ": 1,
+      "NN-VBZ-JJ": 2,
+      "VBZ-JJ-NN": 1,
+      "JJ-NN-FW": 2,
+      "NN-FW-NN": 5,
+      "FW-NN-FW": 2,
+      "FW-NN-NN": 4,
+      "NN-NN-NN": 19,
+      "NN-NN-IN": 5,
+      "NN-IN-FW": 1,
+      "IN-FW-FW": 1,
+      "FW-FW-NN": 2,
+      "NN-FW-FW": 2,
+      "FW-FW-FW": 21,
+      "FW-FW-NNP": 5,
+      "FW-NNP-NN": 4,
+      "NNP-NN-NN": 9,
+      "NN-NN-FW": 3,
+      "NN-FW-JJ": 1,
+      "FW-JJ-NNP": 1,
+      "JJ-NNP-MD": 1,
+      "NNP-MD-VB": 1,
+      "MD-VB-JJ": 1,
+      "VB-JJ-NN": 1,
+      "FW-NN-NNP": 1,
+      "NN-NNP-NNP": 1,
+      "NNP-NNP-NNP": 5,
+      "NNP-NNP-NN": 3,
+      "NN-NN-NNP": 2,
+      "NN-NNP-VBZ": 1,
+      "NNP-VBZ-FW": 1,
+      "VBZ-FW-FW": 1,
+      "FW-NNP-NNP": 4,
+      "NNP-NNP-VBZ": 1,
+      "NNP-VBZ-NNP": 1,
+      "VBZ-NNP-NNS": 1,
+      "NNP-NNS-VBP": 1,
+      "NNS-VBP-NN": 1,
+      "VBP-NN-NNP": 1,
+      "NN-NNP-NN": 2,
+      "NNP-NN-FW": 1,
+      "NN-NN-NNS": 2,
+      "NN-NNS-VBP": 3,
+      "NNS-VBP-JJ": 4,
+      "VBP-JJ-NN": 2,
+      "JJ-NN-IN": 1,
+      "NN-IN-NNP": 5,
+      "IN-NNP-FW": 4,
+      "NNP-FW-NN": 2,
+      "NNP-FW-FW": 2,
+      "FW-FW-JJ": 1,
+      "FW-JJ-JJ": 1,
+      "JJ-JJ-NN": 1,
+      "JJ-NN-NN": 4,
+      "NNP-FW-NNP": 2,
+      "NN-NN-VBZ": 2,
+      "NN-VBZ-RP": 1,
+      "VBZ-RP-FW": 1,
+      "RP-FW-FW": 1,
+      "FW-NNP-FW": 1,
+      "NNP-NN-VBZ": 1,
+      "VBZ-JJ-FW": 1,
+      "JJ-FW-FW": 2,
+      "FW-NN-NNS": 1,
+      "VBP-JJ-FW": 1,
+      "JJ-FW-NN": 1,
+      "NN-NN-JJ": 3,
+      "NN-JJ-FW": 1,
+      "FW-FW-CD": 1,
+      "FW-CD-NNS": 1,
+      "CD-NNS-NNP": 1,
+      "NNS-NNP-NN": 1,
+      "FW-NN-IN": 2,
+      "NN-IN-JJ": 2,
+      "IN-JJ-NN": 1,
+      "NN-VBZ-NNS": 1,
+      "VBZ-NNS-VBP": 1,
+      "NN-JJ-NNS": 1,
+      "JJ-NNS-VBP": 1,
+      "VBP-JJ-JJ": 1,
+      "JJ-JJ-FW": 2,
+      "JJ-FW-NNP": 2,
+      "NNP-NNP-FW": 1,
+      "IN-NNP-NN": 1,
+      "NN-JJ-NN": 1,
+      "JJ-NN-NNS": 1,
+      "NNS-VBP-RB": 1,
+      "VBP-RB-JJ": 1,
+      "RB-JJ-NN": 1,
+      "IN-JJ-JJ": 1,
+      "JJ-JJ-JJ": 1,
+      "NN-NNS-VBZ": 1,
+      "NNS-VBZ-NNS": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 68,
+        "FW": 52,
+        "NNP": 32,
+        "JJ": 20,
+        "NNS": 11
+      },
+      "top_bigrams": {
+        "NN-NN": 36,
+        "FW-FW": 30,
+        "NNP-NN": 11,
+        "FW-NN": 10,
+        "NNP-NNP": 10
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 21,
+        "NN-NN-NN": 19,
+        "NNP-NN-NN": 9,
+        "NN-FW-NN": 5,
+        "NN-NN-IN": 5
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 9,
+    "chunk_counts": {
+      "NP": 65,
+      "VP": 15,
+      "ADJP": 5,
+      "PP": 6
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 4,
+        "weight": 0.04
+      },
+      {
+        "rule": "NP -> ('Hathras', 'NNP')",
+        "frequency": 2,
+        "weight": 0.02
+      },
+      {
+        "rule": "NP -> ('Aligarh', 'NNP')",
+        "frequency": 2,
+        "weight": 0.02
+      },
+      {
+        "rule": "S -> NP VP ('116', 'CD') NP NP VP ('estampida', 'FW') NP ('se', 'FW') NP ('de', 'IN') ('un', 'FW') ('evento', 'FW') NP ('en', 'FW') ('el', 'FW') ('norte', 'FW') ('de', 'FW') ('la', 'FW') NP (',', ',') NP ADJP ADJP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.01
+      },
+      {
+        "rule": "NP -> ('Al', 'NNP')",
+        "frequency": 1,
+        "weight": 0.01
+      },
+      {
+        "rule": "VP -> ('menos', 'VBD') NP",
+        "frequency": 1,
+        "weight": 0.01
+      },
+      {
+        "rule": "NP -> ('son', 'NN')",
+        "frequency": 1,
+        "weight": 0.01
+      },
+      {
+        "rule": "NP -> ('las', 'NNS')",
+        "frequency": 1,
+        "weight": 0.01
+      },
+      {
+        "rule": "NP -> ('personas', 'JJ') ('muertas', 'NNS') ('este', 'NN')",
+        "frequency": 1,
+        "weight": 0.01
+      },
+      {
+        "rule": "VP -> ('martes', 'VBZ') NP",
+        "frequency": 1,
+        "weight": 0.01
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Al"
+      },
+      {
+        "label": "VP",
+        "text": "menos son"
+      },
+      {
+        "label": "NP",
+        "text": "son"
+      },
+      {
+        "label": "NP",
+        "text": "las"
+      },
+      {
+        "label": "NP",
+        "text": "personas muertas este"
+      },
+      {
+        "label": "VP",
+        "text": "martes por la"
+      },
+      {
+        "label": "NP",
+        "text": "por la"
+      },
+      {
+        "label": "NP",
+        "text": "que"
+      },
+      {
+        "label": "NP",
+        "text": "desató al término"
+      },
+      {
+        "label": "NP",
+        "text": "religioso"
+      },
+      {
+        "label": "NP",
+        "text": "India"
+      },
+      {
+        "label": "NP",
+        "text": "reportó la"
+      },
+      {
+        "label": "ADJP",
+        "text": "policía"
+      },
+      {
+        "label": "ADJP",
+        "text": "local"
+      },
+      {
+        "label": "NP",
+        "text": "Por"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Al/NNP)\n  (VP menos/VBD (NP son/NN))\n  116/CD\n  (NP las/NNS)\n  (NP personas/JJ muertas/NNS este/NN)\n  (VP martes/VBZ (NP por/JJ la/NN))\n  estampida/FW\n  (NP que/NN)\n  se/FW\n  (NP desató/NN al/NN término/NN)\n  de/IN\n  un/FW\n  evento/FW\n  (NP religioso/NN)\n  en/FW\n  el/FW\n  norte/FW\n  de/FW\n  la/FW\n  (NP India/NNP)\n  ,/,\n  (NP reportó/NN la/NN)\n  (ADJP policía/JJ)\n  (ADJP local/JJ)\n  ./.)",
+      "(S\n  (NP Por/NNP)\n  otra/MD\n  (VP parte/VB)\n  ,/,\n  el/FW\n  (NP director/NN)\n  del/FW\n  (NP hospital/NN)\n  ,/,\n  (NP Umesh/NNP Kumar/NNP Tripathi/NNP)\n  ,/,\n  (VP\n    dio/VBZ\n    (NP\n      a/DT\n      conocer/NN\n      que/NN\n      recibieron/NN\n      muchos/NN\n      heridos/NN\n      por/NN\n      el/NN\n      incidente/NN))\n  ./.)",
+      "(S\n  (NP Asimismo/NNP)\n  ,/,\n  (NP el/JJ portavoz/NN)\n  de/IN\n  la/FW\n  policía/FW\n  del/FW\n  distrito/FW\n  de/FW\n  (NP Hathras/NNP)\n  ,/,\n  (NP Manish/NNP Chikara/NNP)\n  ,/,\n  afirmó/RB\n  (NP “/NNP Las/NNP)\n  (VP cifras/VBD (NP pueden/JJ aumentar/NN))\n  ./.)",
+      "(S\n  (NP La/NNP gente/NN)\n  está/FW\n  (NP siendo/NN)\n  (VP trasladada/VBZ (NP a/DT hospitales/NNS))\n  (PP en/IN (NP el/JJ distrito/NN))\n  (PP de/IN (NP Hathras/NNP y/NNP))\n  en/FW\n  (NP el/NN distrito/NN vecino/NN)\n  (PP de/IN (NP Etah/NNP ”/NNP))\n  ./.)",
+      "(S\n  (NP A/DT través/NN)\n  de/IN\n  la/FW\n  (NP red/JJ social/JJ X/NNP)\n  ,/,\n  (NP el/JJ jefe/NN)\n  (PP de/IN (NP Gobierno/NNP))\n  de/FW\n  (NP Uttar/NNP Pradesh/NNP)\n  ,/,\n  (NP Yogi/NNP Adityanath/NNP)\n  ,/,\n  (NP transmitió/NN sus/NN)\n  (VP condolencias/VBZ (NP a/DT familiares/NNS))\n  y/CC\n  (NP amigos/NN)\n  de/IN\n  las/FW\n  (NP víctimas/NN)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "GOBIERNOS_OFICIALES",
+      "CANTIDADES_NUMERICAS",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "REGIONES_PROVINCIAS",
+      "LOCALIZACIONES_ESPECIFICAS",
+      "INFRAESTRUCTURA_SERVICIOS"
+    ],
+    "matches": [
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "afirmó",
+        "position": [
+          373,
+          379
+        ],
+        "start": 373,
+        "end": 379
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "gobierno de uttar pradesh",
+        "position": [
+          554,
+          579
+        ],
+        "start": 554,
+        "end": 579
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "hospital",
+        "position": [
+          201,
+          209
+        ],
+        "start": 201,
+        "end": 209
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "estado de",
+        "position": [
+          1165,
+          1174
+        ],
+        "start": 1165,
+        "end": 1174
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "hospital, umesh",
+        "position": [
+          201,
+          216
+        ],
+        "start": 201,
+        "end": 216
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "116 personas",
+        "position": [
+          896,
+          908
+        ],
+        "start": 896,
+        "end": 908
+      }
+    ],
+    "match_count": 6
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Yogi Adityanath",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Policía Shalabh Mathur",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Uttar Pradesh",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Umesh Kumar Tripathi",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Gobierno de Uttar Pradesh",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Hathras",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Aligarh",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Etah",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "la India",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": []
+  },
+  "sentiment": {
+    "compound": 0.34,
+    "pos": 0.011,
+    "neu": 0.989,
+    "neg": 0.0,
+    "label": "positive"
+  }
+}

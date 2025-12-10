@@ -1,0 +1,782 @@
+{
+  "url": "https://www.telesurtv.net/jefa-gobierno-impunidad-homicidio-mexico/",
+  "title": "Jefa de Gobierno de capital mexicana afirma que no habrá impunidad en homicidio de su secretaria y asesor - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "México"
+  ],
+  "text": "La jefa de Gobierno de la Ciudad de México (capital), Clara Brugada, afirmó este martes que no permitirá impunidad tras el asesinato de su secretaria particular, Ximena Guzmán, y confirmó que las autoridades investigan el homicidio sucedido en la Calzada de Tlalpan, donde también murió el asesor José Muñoz.\n\nLa titular del ejecutivo local, desde el Antiguo Palacio del Ayuntamiento, manifestó a los presentes que seguirá “con su lucha implacable contra la inseguridad y con el compromiso de todo el Gobierno de seguir trabajando intensamente para continuar con la transformación de esta gran ciudad”.\n“Estamos profundamente consternados y de luto al perder a dos compañeros entrañables“, subrayó, a la vez que recordó que compartió con ellos anhelos y luchas desde hace muchos años.\n\n\nBruguera calificó a Ximena como “una mujer maravillosa, incansable, buena, muy buena; y a Pepe lo conozco casi de niño, es una de las personas más inteligentes que he conocido y sumamente responsable”.\nEl titular del poder judicial, Rafael Guerra, la consejera jurídica del Gobierno federal, Ernestina Godoy; además de diputados locales y alcaldes, estuvieron presentes en el acto y guardaron un minuto de silencio en memoria de los fallecidos.\nAsimismo, agradeció a la presidenta Claudia Sheinbaum y a todo el gabinete federal, por el apoyo prestado.\nXimena Guzmán y José Muñoz fueron asesinados en esta jornada por agresores que, de acuerdo con información preliminar, iban a bordo de una moto. Las autoridades iniciaron las investigaciones y se procedió a analizar las cámaras de seguridad presentes en la zona para identificar a los agresores.\n",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/jefa-gobierno-impunidad-homicidio-mexico/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-05.json",
+    "message_index": 739,
+    "message_id": 94555,
+    "date": "2025-05-20T22:55:07+00:00",
+    "text": "teleSUR\nJefa de Gobierno de capital mexicana afirma que no habrá impunidad en homicidio de su secretaria y asesor\nhttps://www.telesurtv.net/jefa-gobierno-impunidad-homicidio-mexico/",
+    "photo_path": null,
+    "views": 2085,
+    "reactions": {
+      "👍": 31,
+      "🤬": 1,
+      "😭": 1
+    },
+    "total_reactions": 33
+  },
+  "preprocessing": {
+    "cleaned": "la jefa de gobierno de la ciudad de méxico (capital), clara brugada, afirmó este martes que no permitirá impunidad tras el asesinato de su secretaria particular, ximena guzmán, y confirmó que las autoridades investigan el homicidio sucedido en la calzada de tlalpan, donde también murió el asesor josé muñoz. la titular del ejecutivo local, desde el antiguo palacio del ayuntamiento, manifestó a los presentes que seguirá “con su lucha implacable contra la inseguridad y con el compromiso de todo el gobierno de seguir trabajando intensamente para continuar con la transformación de esta gran ciudad”. “estamos profundamente consternados y de luto al perder a dos compañeros entrañables“, subrayó, a la vez que recordó que compartió con ellos anhelos y luchas desde hace muchos años. bruguera calificó a ximena como “una mujer maravillosa, incansable, buena, muy buena; y a pepe lo conozco casi de niño, es una de las personas más inteligentes que he conocido y sumamente responsable”. el titular del poder judicial, rafael guerra, la consejera jurídica del gobierno federal, ernestina godoy; además de diputados locales y alcaldes, estuvieron presentes en el acto y guardaron un minuto de silencio en memoria de los fallecidos. asimismo, agradeció a la presidenta claudia sheinbaum y a todo el gabinete federal, por el apoyo prestado. ximena guzmán y josé muñoz fueron asesinados en esta jornada por agresores que, de acuerdo con información preliminar, iban a bordo de una moto. las autoridades iniciaron las investigaciones y se procedió a analizar las cámaras de seguridad presentes en la zona para identificar a los agresores.",
+    "tokens": [
+      "jefa",
+      "gobierno",
+      "ciudad",
+      "méxico",
+      "(",
+      "capital",
+      ")",
+      ",",
+      "clara",
+      "brugada",
+      ",",
+      "afirmó",
+      "martes",
+      "permitirá",
+      "impunidad",
+      "tras",
+      "asesinato",
+      "secretaria",
+      "particular",
+      ",",
+      "ximena",
+      "guzmán",
+      ",",
+      "confirmó",
+      "autoridades",
+      "investigan",
+      "homicidio",
+      "sucedido",
+      "calzada",
+      "tlalpan",
+      ",",
+      "murió",
+      "asesor",
+      "josé",
+      "muñoz",
+      ".",
+      "titular",
+      "ejecutivo",
+      "local",
+      ",",
+      "antiguo",
+      "palacio",
+      "ayuntamiento",
+      ",",
+      "manifestó",
+      "presentes",
+      "seguirá",
+      "“",
+      "lucha",
+      "implacable",
+      "inseguridad",
+      "compromiso",
+      "gobierno",
+      "seguir",
+      "trabajando",
+      "intensamente",
+      "continuar",
+      "transformación",
+      "gran",
+      "ciudad",
+      "”",
+      ".",
+      "“",
+      "profundamente",
+      "consternados",
+      "luto",
+      "perder",
+      "dos",
+      "compañeros",
+      "entrañables",
+      "“",
+      ",",
+      "subrayó",
+      ",",
+      "vez",
+      "recordó",
+      "compartió",
+      "anhelos",
+      "luchas",
+      "hace",
+      "años",
+      ".",
+      "bruguera",
+      "calificó",
+      "ximena",
+      "“",
+      "mujer",
+      "maravillosa",
+      ",",
+      "incansable",
+      ",",
+      "buena",
+      ",",
+      "buena",
+      ";",
+      "pepe",
+      "conozco",
+      "casi",
+      "niño",
+      ",",
+      "personas",
+      "inteligentes",
+      "conocido",
+      "sumamente",
+      "responsable",
+      "”",
+      ".",
+      "titular",
+      "poder",
+      "judicial",
+      ",",
+      "rafael",
+      "guerra",
+      ",",
+      "consejera",
+      "jurídica",
+      "gobierno",
+      "federal",
+      ",",
+      "ernestina",
+      "godoy",
+      ";",
+      "además",
+      "diputados",
+      "locales",
+      "alcaldes",
+      ",",
+      "presentes",
+      "acto",
+      "guardaron",
+      "minuto",
+      "silencio",
+      "memoria",
+      "fallecidos",
+      ".",
+      "asimismo",
+      ",",
+      "agradeció",
+      "presidenta",
+      "claudia",
+      "sheinbaum",
+      "gabinete",
+      "federal",
+      ",",
+      "apoyo",
+      "prestado",
+      ".",
+      "ximena",
+      "guzmán",
+      "josé",
+      "muñoz",
+      "asesinados",
+      "jornada",
+      "agresores",
+      ",",
+      "acuerdo",
+      "información",
+      "preliminar",
+      ",",
+      "iban",
+      "bordo",
+      "moto",
+      ".",
+      "autoridades",
+      "iniciaron",
+      "investigaciones",
+      "procedió",
+      "analizar",
+      "cámaras",
+      "seguridad",
+      "presentes",
+      "zona",
+      "identificar",
+      "agresores",
+      "."
+    ],
+    "token_count": 175,
+    "sentence_count": 8
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 37,
+      "NN": 88,
+      "FW": 38,
+      "IN": 13,
+      "VBZ": 6,
+      "NNS": 16,
+      "VBP": 9,
+      "DT": 1,
+      "JJ": 26,
+      "RBR": 1,
+      "PRP": 1
+    },
+    "bigram_freq": {
+      "NNP-NN": 12,
+      "NN-FW": 4,
+      "FW-NNP": 6,
+      "NNP-FW": 5,
+      "FW-FW": 20,
+      "NNP-IN": 2,
+      "IN-NNP": 2,
+      "NN-NNP": 11,
+      "NNP-NNP": 12,
+      "NNP-VBZ": 3,
+      "VBZ-NN": 1,
+      "NN-NNS": 6,
+      "NNS-VBP": 8,
+      "VBP-DT": 1,
+      "DT-NN": 1,
+      "NN-NN": 48,
+      "VBP-NN": 2,
+      "FW-NNS": 4,
+      "NNS-JJ": 1,
+      "JJ-NNP": 5,
+      "NNS-NNS": 3,
+      "VBP-JJ": 3,
+      "JJ-NN": 17,
+      "NN-IN": 7,
+      "IN-FW": 8,
+      "NNP-VBP": 1,
+      "NNP-JJ": 2,
+      "NN-JJ": 9,
+      "FW-NN": 6,
+      "NN-RBR": 1,
+      "RBR-JJ": 1,
+      "JJ-JJ": 3,
+      "FW-JJ": 2,
+      "NN-VBZ": 2,
+      "VBZ-JJ": 4,
+      "VBP-NNS": 2,
+      "NNS-IN": 3,
+      "IN-PRP": 1,
+      "PRP-VBZ": 1,
+      "VBZ-FW": 1,
+      "IN-JJ": 1,
+      "JJ-NNS": 1,
+      "VBP-IN": 1,
+      "IN-NN": 1
+    },
+    "trigram_freq": {
+      "NNP-NN-FW": 1,
+      "NN-FW-NNP": 2,
+      "FW-NNP-FW": 3,
+      "NNP-FW-FW": 3,
+      "FW-FW-NNP": 2,
+      "FW-NNP-IN": 2,
+      "NNP-IN-NNP": 2,
+      "IN-NNP-NN": 1,
+      "NNP-NN-NNP": 2,
+      "NN-NNP-NNP": 4,
+      "NNP-NNP-VBZ": 1,
+      "NNP-VBZ-NN": 1,
+      "VBZ-NN-NNS": 1,
+      "NN-NNS-VBP": 4,
+      "NNS-VBP-DT": 1,
+      "VBP-DT-NN": 1,
+      "DT-NN-NN": 1,
+      "NN-NN-NNS": 3,
+      "NNS-VBP-NN": 1,
+      "VBP-NN-FW": 1,
+      "NN-FW-FW": 2,
+      "FW-FW-NNS": 3,
+      "FW-NNS-JJ": 1,
+      "NNS-JJ-NNP": 1,
+      "JJ-NNP-NNP": 3,
+      "NNP-NNP-NN": 4,
+      "NNP-NN-NN": 8,
+      "NN-NNS-NNS": 1,
+      "NNS-NNS-VBP": 3,
+      "NNS-VBP-JJ": 3,
+      "VBP-JJ-NN": 3,
+      "JJ-NN-NN": 11,
+      "NN-NN-IN": 4,
+      "NN-IN-FW": 6,
+      "IN-FW-NNP": 1,
+      "IN-NNP-VBP": 1,
+      "NNP-VBP-NN": 1,
+      "VBP-NN-NN": 1,
+      "NN-NN-NN": 23,
+      "NN-NN-NNP": 7,
+      "NNP-NNP-NNP": 4,
+      "NNP-NNP-JJ": 1,
+      "NNP-JJ-NN": 1,
+      "NN-NN-JJ": 6,
+      "NN-JJ-NN": 7,
+      "NNP-NNP-FW": 2,
+      "NNP-FW-NNP": 1,
+      "NNP-FW-NN": 1,
+      "FW-NN-NNS": 1,
+      "NN-NN-RBR": 1,
+      "NN-RBR-JJ": 1,
+      "RBR-JJ-JJ": 1,
+      "JJ-JJ-NN": 2,
+      "JJ-NN-JJ": 1,
+      "IN-FW-FW": 4,
+      "FW-FW-NN": 4,
+      "FW-NN-NN": 4,
+      "NN-NN-FW": 2,
+      "FW-FW-FW": 10,
+      "NN-NNP-NN": 4,
+      "IN-FW-JJ": 1,
+      "FW-JJ-NN": 1,
+      "NN-NN-VBZ": 2,
+      "NN-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 2,
+      "NNP-NN-JJ": 1,
+      "NN-NNP-VBZ": 2,
+      "NNP-VBZ-JJ": 2,
+      "JJ-NN-IN": 3,
+      "FW-NNS-VBP": 1,
+      "NNS-VBP-NNS": 2,
+      "VBP-NNS-IN": 2,
+      "NNS-IN-PRP": 1,
+      "IN-PRP-VBZ": 1,
+      "PRP-VBZ-JJ": 1,
+      "VBZ-JJ-JJ": 1,
+      "JJ-JJ-NNP": 1,
+      "JJ-NNP-NN": 2,
+      "NN-JJ-NNP": 1,
+      "NN-NNP-JJ": 1,
+      "NNP-JJ-NNP": 1,
+      "FW-NNS-NNS": 1,
+      "NNS-IN-FW": 1,
+      "FW-NN-JJ": 1,
+      "FW-FW-JJ": 1,
+      "FW-JJ-NNP": 1,
+      "FW-NNP-NNP": 1,
+      "NN-JJ-JJ": 1,
+      "IN-FW-NN": 1,
+      "NN-VBZ-FW": 1,
+      "VBZ-FW-FW": 1,
+      "NN-IN-JJ": 1,
+      "IN-JJ-NN": 1,
+      "JJ-NN-NNP": 1,
+      "VBZ-JJ-NNS": 1,
+      "JJ-NNS-NNS": 1,
+      "JJ-NN-NNS": 1,
+      "NNS-VBP-IN": 1,
+      "VBP-IN-FW": 1,
+      "IN-FW-NNS": 1,
+      "FW-NNS-IN": 1,
+      "NNS-IN-NN": 1,
+      "IN-NN-NNP": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 88,
+        "FW": 38,
+        "NNP": 37,
+        "JJ": 26,
+        "NNS": 16
+      },
+      "top_bigrams": {
+        "NN-NN": 48,
+        "FW-FW": 20,
+        "JJ-NN": 17,
+        "NNP-NN": 12,
+        "NNP-NNP": 12
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 23,
+        "JJ-NN-NN": 11,
+        "FW-FW-FW": 10,
+        "NNP-NN-NN": 8,
+        "NN-NN-NNP": 7
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 8,
+    "chunk_counts": {
+      "NP": 69,
+      "VP": 17,
+      "ADJP": 4,
+      "PP": 3
+    },
+    "top_rules": [
+      {
+        "rule": "NP -> ('Gobierno', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0198
+      },
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0198
+      },
+      {
+        "rule": "S -> NP ('de', 'FW') NP ('de', 'FW') ('la', 'FW') NP ('de', 'FW') NP ('(', '(') NP (')', ')') (',', ',') NP (',', ',') NP VP VP ('de', 'FW') ('su', 'FW') NP ADJP (',', ',') NP (',', ',') NP VP ('en', 'IN') ('la', 'FW') NP PP (',', ',') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0099
+      },
+      {
+        "rule": "NP -> ('La', 'NNP') ('jefa', 'NN')",
+        "frequency": 1,
+        "weight": 0.0099
+      },
+      {
+        "rule": "NP -> ('Ciudad', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0099
+      },
+      {
+        "rule": "NP -> ('México', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0099
+      },
+      {
+        "rule": "NP -> ('capital', 'NN')",
+        "frequency": 1,
+        "weight": 0.0099
+      },
+      {
+        "rule": "NP -> ('Clara', 'NNP') ('Brugada', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0099
+      },
+      {
+        "rule": "NP -> ('afirmó', 'JJ') ('este', 'NN') ('martes', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0099
+      },
+      {
+        "rule": "VP -> ('que', 'VBP') NP",
+        "frequency": 1,
+        "weight": 0.0099
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "La jefa"
+      },
+      {
+        "label": "NP",
+        "text": "Gobierno"
+      },
+      {
+        "label": "NP",
+        "text": "Ciudad"
+      },
+      {
+        "label": "NP",
+        "text": "México"
+      },
+      {
+        "label": "NP",
+        "text": "capital"
+      },
+      {
+        "label": "NP",
+        "text": "Clara Brugada"
+      },
+      {
+        "label": "NP",
+        "text": "afirmó este martes"
+      },
+      {
+        "label": "VP",
+        "text": "que no permitirá impunidad tras"
+      },
+      {
+        "label": "NP",
+        "text": "no permitirá impunidad tras"
+      },
+      {
+        "label": "VP",
+        "text": "el asesinato"
+      },
+      {
+        "label": "NP",
+        "text": "asesinato"
+      },
+      {
+        "label": "NP",
+        "text": "secretaria"
+      },
+      {
+        "label": "ADJP",
+        "text": "particular"
+      },
+      {
+        "label": "NP",
+        "text": "Ximena Guzmán"
+      },
+      {
+        "label": "NP",
+        "text": "y confirmó que las autoridades"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP La/NNP jefa/NN)\n  de/FW\n  (NP Gobierno/NNP)\n  de/FW\n  la/FW\n  (NP Ciudad/NNP)\n  de/FW\n  (NP México/NNP)\n  (/(\n  (NP capital/NN)\n  )/)\n  ,/,\n  (NP Clara/NNP Brugada/NNP)\n  ,/,\n  (NP afirmó/JJ este/NN martes/NNS)\n  (VP que/VBP (NP no/DT permitirá/NN impunidad/NN tras/NNS))\n  (VP el/VBP (NP asesinato/NN))\n  de/FW\n  su/FW\n  (NP secretaria/NNS)\n  (ADJP particular/JJ)\n  ,/,\n  (NP Ximena/NNP Guzmán/NNP)\n  ,/,\n  (NP y/NNP confirmó/NN que/NN las/NNS autoridades/NNS)\n  (VP investigan/VBP (NP el/JJ homicidio/NN sucedido/NN))\n  en/IN\n  la/FW\n  (NP Calzada/NNP)\n  (PP de/IN (NP Tlalpan/NNP))\n  ,/,\n  (NP\n    donde/NN\n    también/NN\n    murió/NN\n    el/NN\n    asesor/NN\n    José/NNP\n    Muñoz/NNP)\n  ./.)",
+      "(S\n  (NP La/NNP)\n  (NP titular/JJ del/NN ejecutivo/NN)\n  (ADJP local/JJ)\n  ,/,\n  (NP desde/JJ el/NN Antiguo/NNP Palacio/NNP)\n  del/FW\n  (NP Ayuntamiento/NNP)\n  ,/,\n  (VP manifestó/VBD (NP a/DT los/NN))\n  (VP\n    presentes/VBZ\n    (NP que/JJ seguirá/NN “/NNP con/NN su/NN)\n    lucha/RBR\n    (NP implacable/JJ contra/JJ la/NN inseguridad/NN y/NN con/NN))\n  el/FW\n  (NP compromiso/NN)\n  de/IN\n  todo/FW\n  el/FW\n  (NP Gobierno/NNP)\n  de/FW\n  seguir/FW\n  (NP trabajando/NN intensamente/NN para/NN continuar/NN con/NN)\n  la/FW\n  transformación/FW\n  de/FW\n  esta/FW\n  (NP gran/NN ciudad/NN ”/NN)\n  ./.)",
+      "(S\n  (NP “/JJ Estamos/NNP profundamente/NN consternados/NN y/NN)\n  de/IN\n  luto/FW\n  (NP al/JJ perder/NN)\n  (NP a/DT dos/NN compañeros/NN)\n  (VP entrañables/VBZ (NP “/NNP))\n  ,/,\n  (NP subrayó/NN)\n  ,/,\n  (NP\n    a/DT\n    la/NN\n    vez/NN\n    que/NN\n    recordó/NN\n    que/NN\n    compartió/NN\n    con/NN\n    ellos/NN\n    anhelos/NN\n    y/NN\n    luchas/NN\n    desde/NN\n    hace/NN\n    muchos/NN\n    años/NN)\n  ./.)",
+      "(S\n  (NP Bruguera/NNP)\n  (VP\n    calificó/VBZ\n    (NP a/DT Ximena/NNP como/NN “/NNP)\n    (NP una/JJ mujer/NN maravillosa/NN))\n  ,/,\n  (ADJP incansable/JJ)\n  ,/,\n  (NP buena/NN)\n  ,/,\n  (NP muy/JJ buena/NN)\n  ;/:\n  y/CC\n  (NP a/DT Pepe/NNP lo/NN conozco/NN casi/NN)\n  de/IN\n  niño/FW\n  ,/,\n  es/FW\n  una/FW\n  de/FW\n  las/FW\n  (NP personas/NNS)\n  (VP más/VBP (NP inteligentes/NNS))\n  que/IN\n  he/PRP\n  (VP conocido/VBZ)\n  y/CC\n  (NP sumamente/JJ responsable/JJ ”/NN)\n  ./.)",
+      "(S\n  (NP El/NNP)\n  (NP titular/JJ del/NN poder/NN judicial/NN)\n  ,/,\n  (NP Rafael/NNP Guerra/NNP)\n  ,/,\n  (NP la/NN consejera/NN jurídica/NN del/NN Gobierno/NNP)\n  (ADJP federal/JJ)\n  ,/,\n  (NP Ernestina/NNP Godoy/NNP)\n  ;/:\n  además/FW\n  de/FW\n  diputados/FW\n  (NP locales/NNS)\n  y/RB\n  (NP alcaldes/NNS)\n  ,/,\n  (NP estuvieron/NN presentes/NNS)\n  (VP en/VBP)\n  el/FW\n  acto/FW\n  y/FW\n  (NP guardaron/NN)\n  (NP un/JJ minuto/NN)\n  de/IN\n  silencio/FW\n  en/FW\n  memoria/FW\n  de/FW\n  los/FW\n  (NP fallecidos/NN)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "CIUDADES_CAPITALES",
+      "GOBIERNOS_OFICIALES",
+      "APROBACION_RECHAZO",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "REGIONES_PROVINCIAS",
+      "PAISES",
+      "PROTESTAS_CONFLICTOS_SOCIALES",
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "CONFLICTOS_ARMADOS_OPERACIONES",
+      "RELACIONES_INTERNACIONALES"
+    ],
+    "matches": [
+      {
+        "category": "PROTESTAS_CONFLICTOS_SOCIALES",
+        "matched_text": "manifestó",
+        "position": [
+          385,
+          394
+        ],
+        "start": 385,
+        "end": 394
+      },
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "guerra, la consejera jurídica del gobierno federal, ernestina godoy; además de diputados locales y alcaldes, estuvieron presentes en el",
+        "position": [
+          1027,
+          1162
+        ],
+        "start": 1027,
+        "end": 1162
+      },
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "capital",
+        "position": [
+          44,
+          51
+        ],
+        "start": 44,
+        "end": 51
+      },
+      {
+        "category": "RELACIONES_INTERNACIONALES",
+        "matched_text": "acuerdo con información preliminar, iban a bordo de una moto. las autoridades iniciaron las investigaciones y se",
+        "position": [
+          1422,
+          1534
+        ],
+        "start": 1422,
+        "end": 1534
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "afirmó",
+        "position": [
+          69,
+          75
+        ],
+        "start": 69,
+        "end": 75
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "gobierno de la ciudad",
+        "position": [
+          11,
+          32
+        ],
+        "start": 11,
+        "end": 32
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidenta claudia sheinbaum",
+        "position": [
+          1257,
+          1285
+        ],
+        "start": 1257,
+        "end": 1285
+      },
+      {
+        "category": "APROBACION_RECHAZO",
+        "matched_text": "subrayó",
+        "position": [
+          690,
+          697
+        ],
+        "start": 690,
+        "end": 697
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "méxico",
+        "position": [
+          36,
+          42
+        ],
+        "start": 36,
+        "end": 42
+      },
+      {
+        "category": "CIUDADES_CAPITALES",
+        "matched_text": "ciudad de méxico",
+        "position": [
+          26,
+          42
+        ],
+        "start": 26,
+        "end": 42
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "zona para",
+        "position": [
+          1596,
+          1605
+        ],
+        "start": 1596,
+        "end": 1605
+      }
+    ],
+    "match_count": 11
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Ciudad de México",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Pepe",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Ximena",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Clara Brugada",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "José Muñoz",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Ximena Guzmán",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Bruguera",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Rafael Guerra",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Gobierno",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Antiguo Palacio del Ayuntamiento",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Calzada de Tlalpan",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Gobierno federal",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Ernestina Godoy",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Claudia Sheinbaum",
+        "tipo": "Persona"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Ciudad de México",
+        "relacion": "AFIRMAR",
+        "objeto": "Ximena Guzmán"
+      },
+      {
+        "sujeto": "Ciudad de México",
+        "relacion": "AFIRMAR",
+        "objeto": "Calzada de Tlalpan"
+      },
+      {
+        "sujeto": "Ciudad de México",
+        "relacion": "AFIRMAR",
+        "objeto": "José Muñoz"
+      },
+      {
+        "sujeto": "Clara Brugada",
+        "relacion": "AFIRMAR",
+        "objeto": "Ximena Guzmán"
+      },
+      {
+        "sujeto": "Clara Brugada",
+        "relacion": "AFIRMAR",
+        "objeto": "Calzada de Tlalpan"
+      },
+      {
+        "sujeto": "Clara Brugada",
+        "relacion": "AFIRMAR",
+        "objeto": "José Muñoz"
+      },
+      {
+        "sujeto": "Ximena Guzmán",
+        "relacion": "PERMITIR_AFIRMAR",
+        "objeto": "Calzada de Tlalpan"
+      },
+      {
+        "sujeto": "Ximena Guzmán",
+        "relacion": "PERMITIR_AFIRMAR",
+        "objeto": "José Muñoz"
+      },
+      {
+        "sujeto": "Antiguo Palacio del Ayuntamiento",
+        "relacion": "MANIFESTAR",
+        "objeto": "Gobierno"
+      },
+      {
+        "sujeto": "Bruguera",
+        "relacion": "CALIFICAR",
+        "objeto": "Ximena"
+      },
+      {
+        "sujeto": "Bruguera",
+        "relacion": "CALIFICAR",
+        "objeto": "Pepe"
+      },
+      {
+        "sujeto": "Ximena",
+        "relacion": "CALIFICAR",
+        "objeto": "Pepe"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.296,
+    "pos": 0.0,
+    "neu": 0.991,
+    "neg": 0.009,
+    "label": "negative"
+  }
+}

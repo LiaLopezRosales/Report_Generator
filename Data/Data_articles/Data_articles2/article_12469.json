@@ -1,0 +1,939 @@
+{
+  "url": "https://www.telesurtv.net/suspenderan-energia-electrica-en-12-de-las-24-provincias-de-ecuador-por-sequia/",
+  "title": "Suspenderán energía eléctrica en 12 de las 24 provincias de Ecuador por sequía - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "Apagones",
+    "Ecuador",
+    "sequía"
+  ],
+  "text": "Tras la sesión de este sábado del Comité de Operaciones de Emergencia (COE) de Ecuador, las autoridades decidieron que se efectuarán suspensiones del servicio eléctrico de nueve horas este domingo en 12 de las 24 provincias de país debido a la extrema sequía.\nEste domingo se suspenderá el servicio de electricidad desde las 08:00 a las 17:00 hora local (13:00 a 22:00 GMT) en las provincias andinas de Azuay, Bolívar, Cañar, Carchi, Cotopaxi e Imbabura; así como en las amazónicas de Morona Santiago, Napo, Orellana, Pastaza, Sucumbíos y Zamora Chinchipe, indicó en un comunicado la Secretaría General de Comunicación de la Presidencia.\nSegún el informe, el país suramericano enfrenta hasta el momento 71 días de sequía hidrológica y se considera la más intensa en los últimos 61 años.\nLa nota de prensa oficial agregó que el COE nacional evaluará la situación este domingo y anunciará “las mediadas complementarias que sean necesarias”.\nComo consecuencia del estado de seca en las tierras se han generado 1.330 incendios en el país ecuatoriano, con alrededor de 7.600 hectáreas afectadas, como muestran cálculos del Ministerio de Agricultura.\nEl territorio ecuatoriano además, sufre cortes de electricidad desde finales del 2023, muchos de ellos debido a la escasez de precipitaciones o medida al estiaje, al presentar un 75 por ciento de la generación de electricidad a través de centrales hidroeléctricas.\nLa medida de ahorro tomada por el Gobierno fue la aplicación de cortes de luz a escala nacional los pasados días 18 y 19 de este mes.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/suspenderan-energia-electrica-en-12-de-las-24-provincias-de-ecuador-por-sequia/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-09.json",
+    "message_index": 600,
+    "message_id": 76718,
+    "date": "2024-09-22T07:55:15+00:00",
+    "text": "teleSUR\nSuspenderán energía eléctrica en 12 de las 24 provincias de Ecuador por sequía\nhttps://www.telesurtv.net/suspenderan-energia-electrica-en-12-de-las-24-provincias-de-ecuador-por-sequia/",
+    "photo_path": null,
+    "views": 2900,
+    "reactions": {
+      "🤬": 51,
+      "🤔": 17,
+      "👍": 4,
+      "🔥": 2,
+      "👏": 2,
+      "🎉": 1
+    },
+    "total_reactions": 77
+  },
+  "preprocessing": {
+    "cleaned": "tras la sesión de este sábado del comité de operaciones de emergencia (coe) de ecuador, las autoridades decidieron que se efectuarán suspensiones del servicio eléctrico de nueve horas este domingo en 12 de las 24 provincias de país debido a la extrema sequía. este domingo se suspenderá el servicio de electricidad desde las 08:00 a las 17:00 hora local (13:00 a 22:00 gmt) en las provincias andinas de azuay, bolívar, cañar, carchi, cotopaxi e imbabura; así como en las amazónicas de morona santiago, napo, orellana, pastaza, sucumbíos y zamora chinchipe, indicó en un comunicado la secretaría general de comunicación de la presidencia. según el informe, el país suramericano enfrenta hasta el momento 71 días de sequía hidrológica y se considera la más intensa en los últimos 61 años. la nota de prensa oficial agregó que el coe nacional evaluará la situación este domingo y anunciará “las mediadas complementarias que sean necesarias”. como consecuencia del estado de seca en las tierras se han generado 1.330 incendios en el país ecuatoriano, con alrededor de 7.600 hectáreas afectadas, como muestran cálculos del ministerio de agricultura. el territorio ecuatoriano además, sufre cortes de electricidad desde finales del 2023, muchos de ellos debido a la escasez de precipitaciones o medida al estiaje, al presentar un 75 por ciento de la generación de electricidad a través de centrales hidroeléctricas. la medida de ahorro tomada por el gobierno fue la aplicación de cortes de luz a escala nacional los pasados días 18 y 19 de este mes.",
+    "tokens": [
+      "tras",
+      "sesión",
+      "sábado",
+      "comité",
+      "operaciones",
+      "emergencia",
+      "(",
+      "coe",
+      ")",
+      "ecuador",
+      ",",
+      "autoridades",
+      "decidieron",
+      "efectuarán",
+      "suspensiones",
+      "servicio",
+      "eléctrico",
+      "nueve",
+      "horas",
+      "domingo",
+      "12",
+      "24",
+      "provincias",
+      "país",
+      "debido",
+      "extrema",
+      "sequía",
+      ".",
+      "domingo",
+      "suspenderá",
+      "servicio",
+      "electricidad",
+      "08:00",
+      "17:00",
+      "hora",
+      "local",
+      "(",
+      "13:00",
+      "22:00",
+      "gmt",
+      ")",
+      "provincias",
+      "andinas",
+      "azuay",
+      ",",
+      "bolívar",
+      ",",
+      "cañar",
+      ",",
+      "carchi",
+      ",",
+      "cotopaxi",
+      "imbabura",
+      ";",
+      "así",
+      "amazónicas",
+      "morona",
+      "santiago",
+      ",",
+      "napo",
+      ",",
+      "orellana",
+      ",",
+      "pastaza",
+      ",",
+      "sucumbíos",
+      "zamora",
+      "chinchipe",
+      ",",
+      "indicó",
+      "comunicado",
+      "secretaría",
+      "general",
+      "comunicación",
+      "presidencia",
+      ".",
+      "según",
+      "informe",
+      ",",
+      "país",
+      "suramericano",
+      "enfrenta",
+      "momento",
+      "71",
+      "días",
+      "sequía",
+      "hidrológica",
+      "considera",
+      "intensa",
+      "últimos",
+      "61",
+      "años",
+      ".",
+      "nota",
+      "prensa",
+      "oficial",
+      "agregó",
+      "coe",
+      "nacional",
+      "evaluará",
+      "situación",
+      "domingo",
+      "anunciará",
+      "“",
+      "mediadas",
+      "complementarias",
+      "necesarias",
+      "”",
+      ".",
+      "consecuencia",
+      "seca",
+      "tierras",
+      "generado",
+      "1.330",
+      "incendios",
+      "país",
+      "ecuatoriano",
+      ",",
+      "alrededor",
+      "7.600",
+      "hectáreas",
+      "afectadas",
+      ",",
+      "muestran",
+      "cálculos",
+      "ministerio",
+      "agricultura",
+      ".",
+      "territorio",
+      "ecuatoriano",
+      "además",
+      ",",
+      "sufre",
+      "cortes",
+      "electricidad",
+      "finales",
+      "2023",
+      ",",
+      "debido",
+      "escasez",
+      "precipitaciones",
+      "medida",
+      "estiaje",
+      ",",
+      "presentar",
+      "75",
+      "ciento",
+      "generación",
+      "electricidad",
+      "través",
+      "centrales",
+      "hidroeléctricas",
+      ".",
+      "medida",
+      "ahorro",
+      "tomada",
+      "gobierno",
+      "aplicación",
+      "cortes",
+      "luz",
+      "escala",
+      "nacional",
+      "pasados",
+      "días",
+      "18",
+      "19",
+      "mes",
+      "."
+    ],
+    "token_count": 168,
+    "sentence_count": 7
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 36,
+      "FW": 92,
+      "IN": 7,
+      "NNS": 10,
+      "VBP": 4,
+      "JJ": 19,
+      "NN": 50,
+      "CD": 14,
+      "VBZ": 4,
+      "$": 1,
+      "VBD": 1
+    },
+    "bigram_freq": {
+      "NNP-NNP": 17,
+      "NNP-FW": 11,
+      "FW-FW": 62,
+      "FW-NNP": 12,
+      "NNP-IN": 1,
+      "IN-NNP": 1,
+      "FW-NNS": 2,
+      "NNS-VBP": 3,
+      "VBP-JJ": 2,
+      "JJ-NN": 7,
+      "NN-NN": 24,
+      "NN-NNS": 2,
+      "NNS-FW": 4,
+      "FW-JJ": 6,
+      "JJ-FW": 2,
+      "FW-NN": 9,
+      "NN-IN": 5,
+      "IN-CD": 2,
+      "CD-NNS": 4,
+      "FW-CD": 1,
+      "CD-NN": 5,
+      "NN-FW": 10,
+      "NN-VBZ": 2,
+      "VBZ-CD": 1,
+      "NN-CD": 2,
+      "CD-JJ": 2,
+      "JJ-JJ": 4,
+      "JJ-CD": 3,
+      "CD-CD": 2,
+      "CD-NNP": 1,
+      "NNP-VBZ": 2,
+      "VBZ-NN": 1,
+      "NNP-NN": 4,
+      "NN-NNP": 2,
+      "VBZ-JJ": 1,
+      "NN-VBP": 1,
+      "VBP-$": 1,
+      "$-CD": 1,
+      "IN-JJ": 1,
+      "JJ-NNP": 1,
+      "NNP-JJ": 1,
+      "JJ-NNS": 2,
+      "NNS-NNP": 1,
+      "NNS-JJ": 1,
+      "VBZ-IN": 1,
+      "IN-FW": 3,
+      "VBP-CD": 1,
+      "NN-JJ": 1,
+      "NN-VBD": 1,
+      "VBD-CD": 1
+    },
+    "trigram_freq": {
+      "NNP-NNP-FW": 2,
+      "NNP-FW-FW": 6,
+      "FW-FW-FW": 46,
+      "FW-FW-NNP": 7,
+      "FW-NNP-FW": 6,
+      "NNP-FW-NNP": 4,
+      "FW-NNP-NNP": 5,
+      "NNP-NNP-IN": 1,
+      "NNP-IN-NNP": 1,
+      "IN-NNP-FW": 1,
+      "NNP-FW-NNS": 1,
+      "FW-NNS-VBP": 1,
+      "NNS-VBP-JJ": 2,
+      "VBP-JJ-NN": 1,
+      "JJ-NN-NN": 7,
+      "NN-NN-NNS": 2,
+      "NN-NNS-FW": 1,
+      "NNS-FW-JJ": 1,
+      "FW-JJ-FW": 2,
+      "JJ-FW-FW": 2,
+      "FW-FW-NN": 7,
+      "FW-NN-NN": 5,
+      "NN-NN-IN": 3,
+      "NN-IN-CD": 2,
+      "IN-CD-NNS": 2,
+      "CD-NNS-FW": 3,
+      "NNS-FW-CD": 1,
+      "FW-CD-NN": 1,
+      "CD-NN-FW": 2,
+      "NN-FW-FW": 6,
+      "FW-NN-FW": 1,
+      "FW-NN-VBZ": 1,
+      "NN-VBZ-CD": 1,
+      "VBZ-CD-NN": 1,
+      "CD-NN-CD": 1,
+      "NN-CD-JJ": 1,
+      "CD-JJ-JJ": 1,
+      "JJ-JJ-CD": 2,
+      "JJ-CD-CD": 1,
+      "CD-CD-NNP": 1,
+      "CD-NNP-FW": 1,
+      "NNP-NNP-NNP": 10,
+      "NNP-NNP-VBZ": 2,
+      "NNP-VBZ-NN": 1,
+      "VBZ-NN-FW": 1,
+      "NNP-NNP-NN": 2,
+      "NNP-NN-FW": 1,
+      "NN-FW-JJ": 1,
+      "FW-JJ-NN": 3,
+      "NN-NN-NNP": 2,
+      "NN-NNP-NNP": 1,
+      "NNP-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 1,
+      "NN-NN-NN": 8,
+      "NN-NN-VBP": 1,
+      "NN-VBP-$": 1,
+      "VBP-$-CD": 1,
+      "$-CD-NN": 1,
+      "NN-NN-FW": 5,
+      "NN-FW-NN": 2,
+      "FW-NN-IN": 1,
+      "NN-IN-JJ": 1,
+      "IN-JJ-JJ": 1,
+      "JJ-CD-JJ": 1,
+      "CD-JJ-NNP": 1,
+      "JJ-NNP-FW": 1,
+      "FW-FW-JJ": 2,
+      "NN-NNP-JJ": 1,
+      "NNP-JJ-NN": 1,
+      "NN-NNS-VBP": 1,
+      "VBP-JJ-JJ": 1,
+      "JJ-JJ-JJ": 1,
+      "JJ-JJ-NNS": 1,
+      "JJ-NNS-NNP": 1,
+      "NNS-NNP-NN": 1,
+      "NNP-NN-NN": 3,
+      "NN-NN-CD": 1,
+      "NN-CD-NNS": 1,
+      "NNS-FW-FW": 1,
+      "CD-NNS-JJ": 1,
+      "NNS-JJ-NN": 1,
+      "NN-FW-NNP": 1,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-IN": 1,
+      "VBZ-IN-FW": 1,
+      "IN-FW-JJ": 2,
+      "FW-JJ-NNS": 1,
+      "JJ-NNS-VBP": 1,
+      "NNS-VBP-CD": 1,
+      "VBP-CD-NN": 1,
+      "CD-NN-IN": 1,
+      "NN-IN-FW": 2,
+      "FW-NN-JJ": 1,
+      "NN-JJ-CD": 1,
+      "JJ-CD-NN": 1,
+      "CD-NN-NN": 1,
+      "IN-FW-FW": 1,
+      "FW-NNP-NN": 1,
+      "NN-NN-VBD": 1,
+      "NN-VBD-CD": 1,
+      "VBD-CD-CD": 1,
+      "CD-CD-NNS": 1,
+      "NNS-FW-NNS": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "FW": 92,
+        "NN": 50,
+        "NNP": 36,
+        "JJ": 19,
+        "CD": 14
+      },
+      "top_bigrams": {
+        "FW-FW": 62,
+        "NN-NN": 24,
+        "NNP-NNP": 17,
+        "FW-NNP": 12,
+        "NNP-FW": 11
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 46,
+        "NNP-NNP-NNP": 10,
+        "NN-NN-NN": 8,
+        "FW-FW-NNP": 7,
+        "JJ-NN-NN": 7
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 7,
+    "chunk_counts": {
+      "NP": 66,
+      "VP": 5,
+      "ADJP": 6,
+      "PP": 5
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 4,
+        "weight": 0.0449
+      },
+      {
+        "rule": "VP -> ('las', 'VBZ')",
+        "frequency": 2,
+        "weight": 0.0225
+      },
+      {
+        "rule": "NP -> ('La', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0225
+      },
+      {
+        "rule": "S -> NP ('sesión', 'FW') ('de', 'FW') ('este', 'FW') ('sábado', 'FW') ('del', 'FW') NP ('de', 'FW') NP ('de', 'FW') NP ('(', '(') NP (')', ')') ('de', 'FW') NP (',', ',') VP ('del', 'FW') ADJP ('eléctrico', 'FW') ('de', 'FW') ('nueve', 'FW') ('horas', 'FW') NP ('en', 'IN') ('12', 'CD') NP ('las', 'FW') ('24', 'CD') NP ('de', 'FW') ('país', 'FW') ('debido', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0112
+      },
+      {
+        "rule": "NP -> ('Tras', 'NNP') ('la', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0112
+      },
+      {
+        "rule": "NP -> ('Comité', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0112
+      },
+      {
+        "rule": "NP -> ('Operaciones', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0112
+      },
+      {
+        "rule": "NP -> ('Emergencia', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0112
+      },
+      {
+        "rule": "NP -> ('COE', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0112
+      },
+      {
+        "rule": "NP -> ('Ecuador', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0112
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Tras la"
+      },
+      {
+        "label": "NP",
+        "text": "Comité"
+      },
+      {
+        "label": "NP",
+        "text": "Operaciones"
+      },
+      {
+        "label": "NP",
+        "text": "Emergencia"
+      },
+      {
+        "label": "NP",
+        "text": "COE"
+      },
+      {
+        "label": "NP",
+        "text": "Ecuador"
+      },
+      {
+        "label": "VP",
+        "text": "las autoridades decidieron que se efectuarán suspensiones"
+      },
+      {
+        "label": "NP",
+        "text": "autoridades decidieron que se efectuarán suspensiones"
+      },
+      {
+        "label": "ADJP",
+        "text": "servicio"
+      },
+      {
+        "label": "NP",
+        "text": "este domingo"
+      },
+      {
+        "label": "NP",
+        "text": "de"
+      },
+      {
+        "label": "NP",
+        "text": "provincias"
+      },
+      {
+        "label": "NP",
+        "text": "a la extrema sequía"
+      },
+      {
+        "label": "NP",
+        "text": "Este domingo se suspenderá"
+      },
+      {
+        "label": "NP",
+        "text": "desde"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Tras/NNP la/NNP)\n  sesión/FW\n  de/FW\n  este/FW\n  sábado/FW\n  del/FW\n  (NP Comité/NNP)\n  de/FW\n  (NP Operaciones/NNP)\n  de/FW\n  (NP Emergencia/NNP)\n  (/(\n  (NP COE/NNP)\n  )/)\n  de/FW\n  (NP Ecuador/NNP)\n  ,/,\n  (VP\n    las/VBZ\n    (NP\n      autoridades/NNS\n      decidieron/NN\n      que/NN\n      se/NN\n      efectuarán/NN\n      suspensiones/NNS))\n  del/FW\n  (ADJP servicio/JJ)\n  eléctrico/FW\n  de/FW\n  nueve/FW\n  horas/FW\n  (NP este/NN domingo/NN)\n  en/IN\n  12/CD\n  (NP de/NNS)\n  las/FW\n  24/CD\n  (NP provincias/NN)\n  de/FW\n  país/FW\n  debido/FW\n  (NP a/DT la/NN extrema/NN sequía/NN)\n  ./.)",
+      "(S\n  (NP Este/NN domingo/NN se/NN suspenderá/NN)\n  el/FW\n  servicio/FW\n  de/FW\n  electricidad/FW\n  (NP desde/NN)\n  (VP las/VBZ)\n  08:00/CD\n  (NP a/DT las/NN)\n  17:00/CD\n  (ADJP hora/JJ)\n  (ADJP local/JJ)\n  (/(\n  13:00/CD\n  a/DT\n  22:00/CD\n  (NP GMT/NNP)\n  )/)\n  en/FW\n  las/FW\n  provincias/FW\n  andinas/FW\n  de/FW\n  (NP Azuay/NNP)\n  ,/,\n  (NP Bolívar/NNP)\n  ,/,\n  (NP Cañar/NNP)\n  ,/,\n  (NP Carchi/NNP)\n  ,/,\n  (NP Cotopaxi/NNP)\n  (VP e/VBZ (NP Imbabura/NNP))\n  ;/:\n  (NP así/JJ como/NN)\n  (PP en/IN (NP las/JJ amazónicas/NN))\n  (PP de/IN (NP Morona/NNP Santiago/NNP))\n  ,/,\n  (NP Napo/NNP)\n  ,/,\n  (NP Orellana/NNP)\n  ,/,\n  (NP Pastaza/NNP)\n  ,/,\n  (NP Sucumbíos/NNP y/NNP Zamora/NNP Chinchipe/NNP)\n  ,/,\n  (NP indicó/NN)\n  en/FW\n  (NP un/JJ comunicado/NN la/NN Secretaría/NNP General/NNP)\n  de/FW\n  (NP Comunicación/NNP)\n  de/FW\n  la/FW\n  (NP Presidencia/NNP)\n  ./.)",
+      "(S\n  (NP Según/NNP el/NN informe/NN)\n  ,/,\n  el/FW\n  (NP país/JJ suramericano/NN enfrenta/NN hasta/NN)\n  (VP el/VBP)\n  momento/$\n  71/CD\n  (NP días/NN)\n  de/FW\n  sequía/FW\n  (NP hidrológica/NN)\n  y/FW\n  se/FW\n  (NP considera/NN la/NN)\n  más/FW\n  (NP intensa/NN)\n  en/IN\n  (ADJP los/JJ)\n  (ADJP últimos/JJ)\n  61/CD\n  (NP años/NN)\n  ./.)",
+      "(S\n  (NP La/NNP)\n  nota/FW\n  de/FW\n  prensa/FW\n  (NP oficial/JJ agregó/NN que/NN el/NN COE/NNP)\n  (NP nacional/JJ evaluará/NN la/NN)\n  situación/FW\n  (NP este/NN domingo/NN y/NN anunciará/NN “/NNP)\n  (VP las/VBZ)\n  mediadas/FW\n  (NP complementarias/JJ que/JJ sean/JJ necesarias/NN ”/NN)\n  ./.)",
+      "(S\n  (NP Como/NNP consecuencia/NN del/NN)\n  estado/FW\n  de/FW\n  seca/FW\n  en/FW\n  las/FW\n  tierras/FW\n  se/FW\n  (NP han/NN generado/NN)\n  1.330/CD\n  (NP incendios/NNS)\n  en/FW\n  el/FW\n  (NP país/NN ecuatoriano/NN)\n  ,/,\n  (NP con/JJ alrededor/NN)\n  de/IN\n  7.600/CD\n  (NP hectáreas/NNS)\n  afectadas/RB\n  ,/,\n  (NP como/NN muestran/NN cálculos/NN)\n  del/FW\n  (NP Ministerio/NNP)\n  (PP de/IN (NP Agricultura/NNP))\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "FECHAS_HORAS",
+      "CIUDADES_CAPITALES",
+      "CANTIDADES_NUMERICAS",
+      "REGIONES_PROVINCIAS",
+      "CRISIS_HUMANITARIA_SERVICIOS",
+      "PAISES",
+      "INFRAESTRUCTURA_SERVICIOS"
+    ],
+    "matches": [
+      {
+        "category": "CRISIS_HUMANITARIA_SERVICIOS",
+        "matched_text": "cortes de luz",
+        "position": [
+          1474,
+          1487
+        ],
+        "start": 1474,
+        "end": 1487
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "servicio eléctrico",
+        "position": [
+          150,
+          168
+        ],
+        "start": 150,
+        "end": 168
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "ecuador",
+        "position": [
+          79,
+          86
+        ],
+        "start": 79,
+        "end": 86
+      },
+      {
+        "category": "CIUDADES_CAPITALES",
+        "matched_text": "santiago",
+        "position": [
+          492,
+          500
+        ],
+        "start": 492,
+        "end": 500
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "estado de",
+        "position": [
+          961,
+          970
+        ],
+        "start": 961,
+        "end": 970
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "alrededor de 7.600",
+        "position": [
+          1051,
+          1069
+        ],
+        "start": 1051,
+        "end": 1069
+      },
+      {
+        "category": "FECHAS_HORAS",
+        "matched_text": "a las 17:00 hora",
+        "position": [
+          331,
+          347
+        ],
+        "start": 331,
+        "end": 347
+      }
+    ],
+    "match_count": 7
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Comité de Operaciones de Emergencia",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Ecuador",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Zamora Chinchipe",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Azuay",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Imbabura",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Sucumbíos",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Pastaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Secretaría General de Comunicación de la Presidencia",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Bolívar",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Napo",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Cotopaxi",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Cañar",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Orellana",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Gobierno",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Morona Santiago",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Carchi",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Ministerio de Agricultura",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "COE",
+        "tipo": "Organizacion"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Azuay",
+        "relacion": "SUSPENDER_INDICAR",
+        "objeto": "Morona Santiago"
+      },
+      {
+        "sujeto": "Azuay",
+        "relacion": "SUSPENDER_INDICAR",
+        "objeto": "Napo"
+      },
+      {
+        "sujeto": "Azuay",
+        "relacion": "SUSPENDER_INDICAR",
+        "objeto": "Orellana"
+      },
+      {
+        "sujeto": "Azuay",
+        "relacion": "SUSPENDER_INDICAR",
+        "objeto": "Pastaza"
+      },
+      {
+        "sujeto": "Azuay",
+        "relacion": "SUSPENDER_INDICAR",
+        "objeto": "Sucumbíos"
+      },
+      {
+        "sujeto": "Azuay",
+        "relacion": "SUSPENDER_INDICAR",
+        "objeto": "Zamora Chinchipe"
+      },
+      {
+        "sujeto": "Secretaría General de Comunicación de la Presidencia",
+        "relacion": "SUSPENDER_INDICAR",
+        "objeto": "Azuay"
+      },
+      {
+        "sujeto": "Bolívar",
+        "relacion": "SUSPENDER_INDICAR",
+        "objeto": "Morona Santiago"
+      },
+      {
+        "sujeto": "Bolívar",
+        "relacion": "SUSPENDER_INDICAR",
+        "objeto": "Napo"
+      },
+      {
+        "sujeto": "Bolívar",
+        "relacion": "SUSPENDER_INDICAR",
+        "objeto": "Orellana"
+      },
+      {
+        "sujeto": "Bolívar",
+        "relacion": "SUSPENDER_INDICAR",
+        "objeto": "Pastaza"
+      },
+      {
+        "sujeto": "Bolívar",
+        "relacion": "SUSPENDER_INDICAR",
+        "objeto": "Sucumbíos"
+      },
+      {
+        "sujeto": "Bolívar",
+        "relacion": "SUSPENDER_INDICAR",
+        "objeto": "Zamora Chinchipe"
+      },
+      {
+        "sujeto": "Secretaría General de Comunicación de la Presidencia",
+        "relacion": "SUSPENDER_INDICAR",
+        "objeto": "Bolívar"
+      },
+      {
+        "sujeto": "Cañar",
+        "relacion": "SUSPENDER_INDICAR",
+        "objeto": "Morona Santiago"
+      },
+      {
+        "sujeto": "Cañar",
+        "relacion": "SUSPENDER_INDICAR",
+        "objeto": "Napo"
+      },
+      {
+        "sujeto": "Cañar",
+        "relacion": "SUSPENDER_INDICAR",
+        "objeto": "Orellana"
+      },
+      {
+        "sujeto": "Cañar",
+        "relacion": "SUSPENDER_INDICAR",
+        "objeto": "Pastaza"
+      },
+      {
+        "sujeto": "Cañar",
+        "relacion": "SUSPENDER_INDICAR",
+        "objeto": "Sucumbíos"
+      },
+      {
+        "sujeto": "Cañar",
+        "relacion": "SUSPENDER_INDICAR",
+        "objeto": "Zamora Chinchipe"
+      },
+      {
+        "sujeto": "Secretaría General de Comunicación de la Presidencia",
+        "relacion": "SUSPENDER_INDICAR",
+        "objeto": "Cañar"
+      },
+      {
+        "sujeto": "Carchi",
+        "relacion": "SUSPENDER_INDICAR",
+        "objeto": "Morona Santiago"
+      },
+      {
+        "sujeto": "Carchi",
+        "relacion": "SUSPENDER_INDICAR",
+        "objeto": "Napo"
+      },
+      {
+        "sujeto": "Carchi",
+        "relacion": "SUSPENDER_INDICAR",
+        "objeto": "Orellana"
+      },
+      {
+        "sujeto": "Carchi",
+        "relacion": "SUSPENDER_INDICAR",
+        "objeto": "Pastaza"
+      },
+      {
+        "sujeto": "Carchi",
+        "relacion": "SUSPENDER_INDICAR",
+        "objeto": "Sucumbíos"
+      },
+      {
+        "sujeto": "Carchi",
+        "relacion": "SUSPENDER_INDICAR",
+        "objeto": "Zamora Chinchipe"
+      },
+      {
+        "sujeto": "Secretaría General de Comunicación de la Presidencia",
+        "relacion": "SUSPENDER_INDICAR",
+        "objeto": "Carchi"
+      },
+      {
+        "sujeto": "Cotopaxi",
+        "relacion": "SUSPENDER_INDICAR",
+        "objeto": "Morona Santiago"
+      },
+      {
+        "sujeto": "Cotopaxi",
+        "relacion": "SUSPENDER_INDICAR",
+        "objeto": "Napo"
+      },
+      {
+        "sujeto": "Cotopaxi",
+        "relacion": "SUSPENDER_INDICAR",
+        "objeto": "Orellana"
+      },
+      {
+        "sujeto": "Cotopaxi",
+        "relacion": "SUSPENDER_INDICAR",
+        "objeto": "Pastaza"
+      },
+      {
+        "sujeto": "Cotopaxi",
+        "relacion": "SUSPENDER_INDICAR",
+        "objeto": "Sucumbíos"
+      },
+      {
+        "sujeto": "Cotopaxi",
+        "relacion": "SUSPENDER_INDICAR",
+        "objeto": "Zamora Chinchipe"
+      },
+      {
+        "sujeto": "Secretaría General de Comunicación de la Presidencia",
+        "relacion": "SUSPENDER_INDICAR",
+        "objeto": "Cotopaxi"
+      },
+      {
+        "sujeto": "Imbabura",
+        "relacion": "SUSPENDER_INDICAR",
+        "objeto": "Morona Santiago"
+      },
+      {
+        "sujeto": "Imbabura",
+        "relacion": "SUSPENDER_INDICAR",
+        "objeto": "Napo"
+      },
+      {
+        "sujeto": "Imbabura",
+        "relacion": "SUSPENDER_INDICAR",
+        "objeto": "Orellana"
+      },
+      {
+        "sujeto": "Imbabura",
+        "relacion": "SUSPENDER_INDICAR",
+        "objeto": "Pastaza"
+      },
+      {
+        "sujeto": "Imbabura",
+        "relacion": "SUSPENDER_INDICAR",
+        "objeto": "Sucumbíos"
+      },
+      {
+        "sujeto": "Imbabura",
+        "relacion": "SUSPENDER_INDICAR",
+        "objeto": "Zamora Chinchipe"
+      },
+      {
+        "sujeto": "Secretaría General de Comunicación de la Presidencia",
+        "relacion": "SUSPENDER_INDICAR",
+        "objeto": "Imbabura"
+      },
+      {
+        "sujeto": "Secretaría General de Comunicación de la Presidencia",
+        "relacion": "SUSPENDER_INDICAR",
+        "objeto": "Morona Santiago"
+      },
+      {
+        "sujeto": "Secretaría General de Comunicación de la Presidencia",
+        "relacion": "SUSPENDER_INDICAR",
+        "objeto": "Napo"
+      },
+      {
+        "sujeto": "Secretaría General de Comunicación de la Presidencia",
+        "relacion": "SUSPENDER_INDICAR",
+        "objeto": "Orellana"
+      },
+      {
+        "sujeto": "Secretaría General de Comunicación de la Presidencia",
+        "relacion": "SUSPENDER_INDICAR",
+        "objeto": "Pastaza"
+      },
+      {
+        "sujeto": "Secretaría General de Comunicación de la Presidencia",
+        "relacion": "SUSPENDER_INDICAR",
+        "objeto": "Sucumbíos"
+      },
+      {
+        "sujeto": "Secretaría General de Comunicación de la Presidencia",
+        "relacion": "SUSPENDER_INDICAR",
+        "objeto": "Zamora Chinchipe"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.0,
+    "pos": 0.0,
+    "neu": 1.0,
+    "neg": 0.0,
+    "label": "neutral"
+  }
+}

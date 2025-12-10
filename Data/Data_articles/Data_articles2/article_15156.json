@@ -1,0 +1,541 @@
+{
+  "url": "https://www.telesurtv.net/policia-reprime-a-israelies-que-demandaban-la-renuncia-de-netanyahu/",
+  "title": "Policía reprime a israelíes que demandaban la renuncia de Netanyahu - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Israel",
+    "protestas"
+  ],
+  "text": "La policía israelí reprimió las multitudinarias protestas que se llevaron a cabo este sábado en Tel Aviv, en demanda de la renuncia del primer ministro del país, Benjamin Netanyahu.\nSegún Times of Israel, las manifestaciones en Tel Aviv provocaron enfrentamientos con la fuerza policial. Según la cuenta de la Policía israelí en la plataforma X, algunos manifestantes provocaron incendios y encendieron antorchas.\nLa diputada de la Knéset (Parlamento israelí), Naama Lazimi, participó en la protesta y afirmó que fue atacada por un oficial de policía. Mientras tanto, la autoridad policial israelí afirmó que la representante actuó de manera “desafiante” y “aprovechó su protección para evitar que los agentes cumplieran su función”.\nLos uniformados también usaron la fuerza para dispersar otra manifestación multitudinaria en Jerusalén.\nSegún Times of Israel, un video en el que un oficial de policía insultó a una persona encarcelada y le dijo que violaría a su “madre” se difundió en las redes sociales. La Policía afirmó que este comportamiento “no está en línea con el discurso y el comportamiento esperados de cada oficial”.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/policia-reprime-a-israelies-que-demandaban-la-renuncia-de-netanyahu/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-06.json",
+    "message_index": 29,
+    "message_id": 72714,
+    "date": "2024-06-30T10:55:07+00:00",
+    "text": "teleSUR\nPolicía reprime a israelíes que demandaban la renuncia de Netanyahu\nhttps://www.telesurtv.net/policia-reprime-a-israelies-que-demandaban-la-renuncia-de-netanyahu/",
+    "photo_path": null,
+    "views": 1681,
+    "reactions": {},
+    "total_reactions": 0
+  },
+  "preprocessing": {
+    "cleaned": "la policía israelí reprimió las multitudinarias protestas que se llevaron a cabo este sábado en tel aviv, en demanda de la renuncia del primer ministro del país, benjamin netanyahu. según times of israel, las manifestaciones en tel aviv provocaron enfrentamientos con la fuerza policial. según la cuenta de la policía israelí en la plataforma x, algunos manifestantes provocaron incendios y encendieron antorchas. la diputada de la knéset (parlamento israelí), naama lazimi, participó en la protesta y afirmó que fue atacada por un oficial de policía. mientras tanto, la autoridad policial israelí afirmó que la representante actuó de manera “desafiante” y “aprovechó su protección para evitar que los agentes cumplieran su función”. los uniformados también usaron la fuerza para dispersar otra manifestación multitudinaria en jerusalén. según times of israel, un video en el que un oficial de policía insultó a una persona encarcelada y le dijo que violaría a su “madre” se difundió en las redes sociales. la policía afirmó que este comportamiento “no está en línea con el discurso y el comportamiento esperados de cada oficial”.",
+    "tokens": [
+      "policía",
+      "israelí",
+      "reprimió",
+      "multitudinarias",
+      "protestas",
+      "llevaron",
+      "cabo",
+      "sábado",
+      "tel",
+      "aviv",
+      ",",
+      "demanda",
+      "renuncia",
+      "primer",
+      "ministro",
+      "país",
+      ",",
+      "benjamin",
+      "netanyahu",
+      ".",
+      "según",
+      "times",
+      "of",
+      "israel",
+      ",",
+      "manifestaciones",
+      "tel",
+      "aviv",
+      "provocaron",
+      "enfrentamientos",
+      "fuerza",
+      "policial",
+      ".",
+      "según",
+      "cuenta",
+      "policía",
+      "israelí",
+      "plataforma",
+      "x",
+      ",",
+      "manifestantes",
+      "provocaron",
+      "incendios",
+      "encendieron",
+      "antorchas",
+      ".",
+      "diputada",
+      "knéset",
+      "(",
+      "parlamento",
+      "israelí",
+      ")",
+      ",",
+      "naama",
+      "lazimi",
+      ",",
+      "participó",
+      "protesta",
+      "afirmó",
+      "atacada",
+      "oficial",
+      "policía",
+      ".",
+      "mientras",
+      ",",
+      "autoridad",
+      "policial",
+      "israelí",
+      "afirmó",
+      "representante",
+      "actuó",
+      "manera",
+      "“",
+      "desafiante",
+      "”",
+      "“",
+      "aprovechó",
+      "protección",
+      "evitar",
+      "agentes",
+      "cumplieran",
+      "función",
+      "”",
+      ".",
+      "uniformados",
+      "usaron",
+      "fuerza",
+      "dispersar",
+      "manifestación",
+      "multitudinaria",
+      "jerusalén",
+      ".",
+      "según",
+      "times",
+      "of",
+      "israel",
+      ",",
+      "video",
+      "oficial",
+      "policía",
+      "insultó",
+      "persona",
+      "encarcelada",
+      "dijo",
+      "violaría",
+      "“",
+      "madre",
+      "”",
+      "difundió",
+      "redes",
+      "sociales",
+      ".",
+      "policía",
+      "afirmó",
+      "comportamiento",
+      "“",
+      "línea",
+      "discurso",
+      "comportamiento",
+      "esperados",
+      "cada",
+      "oficial",
+      "”",
+      "."
+    ],
+    "token_count": 124,
+    "sentence_count": 8
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 27,
+      "NN": 69,
+      "NNS": 6,
+      "VBP": 5,
+      "JJ": 16,
+      "FW": 34,
+      "IN": 6,
+      "VBZ": 3,
+      "DT": 1
+    },
+    "bigram_freq": {
+      "NNP-NN": 8,
+      "NN-NN": 50,
+      "NN-NNS": 1,
+      "NNS-VBP": 3,
+      "VBP-JJ": 4,
+      "JJ-NN": 8,
+      "NN-FW": 5,
+      "FW-NNP": 6,
+      "NNP-NNP": 12,
+      "NNP-FW": 2,
+      "FW-FW": 21,
+      "NNP-IN": 3,
+      "IN-NNP": 3,
+      "NNP-NNS": 1,
+      "NNS-FW": 1,
+      "NN-VBP": 2,
+      "JJ-NNP": 2,
+      "NN-IN": 3,
+      "IN-FW": 3,
+      "FW-NNS": 2,
+      "VBP-NNS": 1,
+      "NN-NNP": 2,
+      "NN-JJ": 3,
+      "JJ-JJ": 3,
+      "JJ-FW": 2,
+      "FW-JJ": 3,
+      "FW-NN": 2,
+      "NN-VBZ": 3,
+      "VBZ-JJ": 2,
+      "NNP-JJ": 1,
+      "NNS-NNS": 1,
+      "NNS-NNP": 1,
+      "VBZ-DT": 1,
+      "DT-NN": 1
+    },
+    "trigram_freq": {
+      "NNP-NN-NN": 6,
+      "NN-NN-NN": 35,
+      "NN-NN-NNS": 1,
+      "NN-NNS-VBP": 1,
+      "NNS-VBP-JJ": 2,
+      "VBP-JJ-NN": 2,
+      "JJ-NN-NN": 7,
+      "NN-NN-FW": 4,
+      "NN-FW-NNP": 1,
+      "FW-NNP-NNP": 4,
+      "NNP-NNP-FW": 1,
+      "NNP-FW-FW": 2,
+      "FW-FW-FW": 14,
+      "FW-FW-NNP": 3,
+      "NNP-NNP-NNP": 3,
+      "NNP-NNP-IN": 2,
+      "NNP-IN-NNP": 2,
+      "IN-NNP-NNP": 3,
+      "NNP-NNP-NNS": 1,
+      "NNP-NNS-FW": 1,
+      "NNS-FW-NNP": 1,
+      "NNP-NNP-NN": 5,
+      "NN-NN-VBP": 2,
+      "NN-VBP-JJ": 2,
+      "VBP-JJ-NNP": 2,
+      "JJ-NNP-NN": 1,
+      "NN-NN-IN": 3,
+      "NN-IN-FW": 2,
+      "IN-FW-NNP": 1,
+      "FW-NNP-NN": 1,
+      "NN-FW-FW": 3,
+      "FW-FW-NNS": 1,
+      "FW-NNS-VBP": 1,
+      "NNS-VBP-NNS": 1,
+      "VBP-NNS-VBP": 1,
+      "JJ-NNP-FW": 1,
+      "NNP-NN-NNP": 1,
+      "NN-NNP-NNP": 1,
+      "JJ-NN-JJ": 1,
+      "NN-JJ-JJ": 2,
+      "JJ-JJ-FW": 2,
+      "JJ-FW-FW": 2,
+      "FW-NNP-IN": 1,
+      "NNP-IN-FW": 1,
+      "IN-FW-JJ": 1,
+      "FW-JJ-JJ": 1,
+      "JJ-JJ-NN": 1,
+      "FW-FW-NN": 1,
+      "FW-NN-NN": 2,
+      "NN-NN-VBZ": 2,
+      "NN-VBZ-JJ": 2,
+      "VBZ-JJ-NN": 2,
+      "NN-NN-NNP": 1,
+      "NN-NNP-JJ": 1,
+      "NNP-JJ-NN": 1,
+      "NN-NN-JJ": 2,
+      "NN-JJ-NN": 1,
+      "NN-IN-NNP": 1,
+      "NNP-NN-FW": 1,
+      "NN-FW-NN": 1,
+      "FW-FW-JJ": 2,
+      "FW-JJ-NN": 1,
+      "IN-FW-NNS": 1,
+      "FW-NNS-NNS": 1,
+      "NNS-NNS-NNP": 1,
+      "NNS-NNP-NNP": 1,
+      "NN-VBZ-DT": 1,
+      "VBZ-DT-NN": 1,
+      "DT-NN-VBZ": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 69,
+        "FW": 34,
+        "NNP": 27,
+        "JJ": 16,
+        "NNS": 6
+      },
+      "top_bigrams": {
+        "NN-NN": 50,
+        "FW-FW": 21,
+        "NNP-NNP": 12,
+        "NNP-NN": 8,
+        "JJ-NN": 8
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 35,
+        "FW-FW-FW": 14,
+        "JJ-NN-NN": 7,
+        "NNP-NN-NN": 6,
+        "NNP-NNP-NN": 5
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 8,
+    "chunk_counts": {
+      "NP": 43,
+      "VP": 8,
+      "PP": 5,
+      "ADJP": 4
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 3,
+        "weight": 0.0441
+      },
+      {
+        "rule": "NP -> ('Según', 'NNP') ('Times', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0294
+      },
+      {
+        "rule": "PP -> ('of', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0294
+      },
+      {
+        "rule": "NP -> ('Israel', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0294
+      },
+      {
+        "rule": "ADJP -> ('un', 'JJ')",
+        "frequency": 2,
+        "weight": 0.0294
+      },
+      {
+        "rule": "ADJP -> ('oficial', 'JJ')",
+        "frequency": 2,
+        "weight": 0.0294
+      },
+      {
+        "rule": "S -> NP VP ('en', 'FW') NP (',', ',') ('en', 'FW') ('demanda', 'FW') ('de', 'FW') ('la', 'FW') ('renuncia', 'FW') ('del', 'FW') ('primer', 'FW') ('ministro', 'FW') ('del', 'FW') NP (',', ',') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0147
+      },
+      {
+        "rule": "NP -> ('La', 'NNP') ('policía', 'NN') ('israelí', 'NN') ('reprimió', 'NN') ('las', 'NN') ('multitudinarias', 'NN') ('protestas', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0147
+      },
+      {
+        "rule": "VP -> ('que', 'VBP') NP NP",
+        "frequency": 1,
+        "weight": 0.0147
+      },
+      {
+        "rule": "NP -> ('se', 'JJ') ('llevaron', 'NN')",
+        "frequency": 1,
+        "weight": 0.0147
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "La policía israelí reprimió las multitudinarias protestas"
+      },
+      {
+        "label": "VP",
+        "text": "que se llevaron a cabo este sábado"
+      },
+      {
+        "label": "NP",
+        "text": "se llevaron"
+      },
+      {
+        "label": "NP",
+        "text": "a cabo este sábado"
+      },
+      {
+        "label": "NP",
+        "text": "Tel Aviv"
+      },
+      {
+        "label": "NP",
+        "text": "país"
+      },
+      {
+        "label": "NP",
+        "text": "Benjamin Netanyahu"
+      },
+      {
+        "label": "NP",
+        "text": "Según Times"
+      },
+      {
+        "label": "PP",
+        "text": "of Israel"
+      },
+      {
+        "label": "NP",
+        "text": "Israel"
+      },
+      {
+        "label": "NP",
+        "text": "las manifestaciones"
+      },
+      {
+        "label": "PP",
+        "text": "en Tel Aviv provocaron enfrentamientos con la"
+      },
+      {
+        "label": "NP",
+        "text": "Tel Aviv provocaron enfrentamientos con la"
+      },
+      {
+        "label": "NP",
+        "text": "fuerza policial"
+      },
+      {
+        "label": "NP",
+        "text": "Según"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP\n    La/NNP\n    policía/NN\n    israelí/NN\n    reprimió/NN\n    las/NN\n    multitudinarias/NN\n    protestas/NNS)\n  (VP\n    que/VBP\n    (NP se/JJ llevaron/NN)\n    (NP a/DT cabo/NN este/NN sábado/NN))\n  en/FW\n  (NP Tel/NNP Aviv/NNP)\n  ,/,\n  en/FW\n  demanda/FW\n  de/FW\n  la/FW\n  renuncia/FW\n  del/FW\n  primer/FW\n  ministro/FW\n  del/FW\n  (NP país/NN)\n  ,/,\n  (NP Benjamin/NNP Netanyahu/NNP)\n  ./.)",
+      "(S\n  (NP Según/NNP Times/NNP)\n  (PP of/IN (NP Israel/NNP))\n  ,/,\n  (NP las/JJ manifestaciones/NNS)\n  (PP\n    en/IN\n    (NP\n      Tel/NNP\n      Aviv/NNP\n      provocaron/NN\n      enfrentamientos/NN\n      con/NN\n      la/NN))\n  (NP fuerza/JJ policial/NN)\n  ./.)",
+      "(S\n  (NP Según/NNP)\n  (VP la/VBZ)\n  cuenta/FW\n  de/FW\n  la/FW\n  (NP Policía/NNP israelí/NN en/NN)\n  la/FW\n  plataforma/FW\n  (NP X/NNP)\n  ,/,\n  (NP algunos/JJ manifestantes/NNS)\n  (VP provocaron/VBP (NP incendios/NNS))\n  (VP y/VBP (NP encendieron/NN antorchas/NN))\n  ./.)",
+      "(S\n  (NP La/NNP)\n  diputada/FW\n  de/FW\n  la/FW\n  (NP Knéset/NNP)\n  (/(\n  (NP Parlamento/NNP israelí/NN)\n  )/)\n  ,/,\n  (NP Naama/NNP Lazimi/NNP)\n  ,/,\n  (NP participó/NN)\n  en/FW\n  la/FW\n  protesta/FW\n  y/FW\n  afirmó/FW\n  (NP que/NN fue/NN atacada/NN por/NN)\n  (ADJP un/JJ)\n  (ADJP oficial/JJ)\n  de/FW\n  (NP policía/NN)\n  ./.)",
+      "(S\n  (NP Mientras/NNP tanto/NN)\n  ,/,\n  la/FW\n  autoridad/FW\n  (NP policial/JJ israelí/NN afirmó/NN que/NN la/NN)\n  representante/FW\n  actuó/FW\n  de/FW\n  manera/FW\n  “/FW\n  desafiante/FW\n  ”/FW\n  y/FW\n  “/FW\n  aprovechó/FW\n  su/FW\n  protección/FW\n  para/FW\n  (NP evitar/NN que/NN los/NN)\n  (VP agentes/VBZ (NP cumplieran/JJ su/NN función/NN ”/NN))\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "PAISES",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "PROTESTAS_CONFLICTOS_SOCIALES",
+      "GOBIERNOS_OFICIALES"
+    ],
+    "matches": [
+      {
+        "category": "PROTESTAS_CONFLICTOS_SOCIALES",
+        "matched_text": "enfrentamientos con la fuerza policial. según la cuenta de la policía",
+        "position": [
+          248,
+          317
+        ],
+        "start": 248,
+        "end": 317
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "afirmó",
+        "position": [
+          502,
+          508
+        ],
+        "start": 502,
+        "end": 508
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "difundió",
+        "position": [
+          975,
+          983
+        ],
+        "start": 975,
+        "end": 983
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "ministro del país",
+        "position": [
+          143,
+          160
+        ],
+        "start": 143,
+        "end": 160
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "israelí",
+        "position": [
+          11,
+          18
+        ],
+        "start": 11,
+        "end": 18
+      }
+    ],
+    "match_count": 5
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Knéset",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Benjamin Netanyahu",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Parlamento israelí",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Naama Lazimi",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Según Times of Israel",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Jerusalén",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Policía israelí",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "La Policía",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Tel Aviv",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Según Times of Israel",
+        "relacion": "PROVOCAR",
+        "objeto": "Tel Aviv"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.0,
+    "pos": 0.0,
+    "neu": 1.0,
+    "neg": 0.0,
+    "label": "neutral"
+  }
+}

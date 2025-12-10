@@ -1,0 +1,881 @@
+{
+  "url": "https://www.telesurtv.net/tormenta-tropical-chris-toca-tierra-en-veracruz-mexico/",
+  "title": "Tormenta tropical Chris toca tierra en Veracruz, México - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "Chris",
+    "México",
+    "tormenta tropical"
+  ],
+  "text": "El Servicio Meteorológico Nacional (SMN) de México informó que la tormenta tropical Chris tocó tierra la noche de este domingo cerca de la localidad de Lechuguillas, municipio de Vega de Alatorre, en el estado de Veracruz, en el Golfo de México.\nLa noche del domingo, la depresión tropical Tres se transformó en la tormenta tropical Chris en el Golfo de México.\nSegún el Servicio Meteorológico mexicano, debido a su gran difusión, se registrarán lluvias excepcionales en Hidalgo, Puebla, Querétaro, San Luis Potosí y Veracruz.\nEl organismo gubernamental de México anticipó lluvias intensas en Oaxaca y Tamaulipas, así como en Campeche, Chiapas, Nuevo León y Tabasco. Además, pronosticó muy fuertes en los estados centrales y en la Península de Yucatán.\nEn cambio, predijo fuertes vientos de hasta 90 km/h, la posibilidad de la formación de trombas marinas y la presencia de oleaje de dos a cuatro metros de altura en las costas de Tabasco, Tamaulipas y Veracruz.\n“Se espera que las precipitaciones mencionadas sean con descargas eléctricas y posible caída de granizo”, señaló.\nAdemás, advirtió que las precipitaciones podrían causar deslaves, aumento en la profundidad de los ríos y arroyos, así como desbordamientos e inundaciones en áreas de los estados mencionados.\nEl SMN de la Conagua exhortó a la población, turistas y navegantes marítimos a prestar atención a los avisos de las autoridades meteorológicas, seguir las recomendaciones de Protección Civil y tomar precauciones ante las condiciones climáticas adversas como lluvias, viento y oleaje elevado.\nEste es el tercero de 21 ciclones tropicales previstos en el océano Atlántico para la temporada 2024. Se encuentra a la par del huracán Beryl y después del huracán Alberto, que causó daños en el norte de México por lluvias e inundaciones.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/tormenta-tropical-chris-toca-tierra-en-veracruz-mexico/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-07.json",
+    "message_index": 1082,
+    "message_id": 72755,
+    "date": "2024-07-01T08:55:12+00:00",
+    "text": "teleSUR\nTormenta tropical Chris toca tierra en Veracruz, México\nhttps://www.telesurtv.net/tormenta-tropical-chris-toca-tierra-en-veracruz-mexico/",
+    "photo_path": null,
+    "views": 1592,
+    "reactions": {},
+    "total_reactions": 0
+  },
+  "preprocessing": {
+    "cleaned": "el servicio meteorológico nacional (smn) de méxico informó que la tormenta tropical chris tocó tierra la noche de este domingo cerca de la localidad de lechuguillas, municipio de vega de alatorre, en el estado de veracruz, en el golfo de méxico. la noche del domingo, la depresión tropical tres se transformó en la tormenta tropical chris en el golfo de méxico. según el servicio meteorológico mexicano, debido a su gran difusión, se registrarán lluvias excepcionales en hidalgo, puebla, querétaro, san luis potosí y veracruz. el organismo gubernamental de méxico anticipó lluvias intensas en oaxaca y tamaulipas, así como en campeche, chiapas, nuevo león y tabasco. además, pronosticó muy fuertes en los estados centrales y en la península de yucatán. en cambio, predijo fuertes vientos de hasta 90 km/h, la posibilidad de la formación de trombas marinas y la presencia de oleaje de dos a cuatro metros de altura en las costas de tabasco, tamaulipas y veracruz. “se espera que las precipitaciones mencionadas sean con descargas eléctricas y posible caída de granizo”, señaló. además, advirtió que las precipitaciones podrían causar deslaves, aumento en la profundidad de los ríos y arroyos, así como desbordamientos e inundaciones en áreas de los estados mencionados. el smn de la conagua exhortó a la población, turistas y navegantes marítimos a prestar atención a los avisos de las autoridades meteorológicas, seguir las recomendaciones de protección civil y tomar precauciones ante las condiciones climáticas adversas como lluvias, viento y oleaje elevado. este es el tercero de 21 ciclones tropicales previstos en el océano atlántico para la temporada 2024. se encuentra a la par del huracán beryl y después del huracán alberto, que causó daños en el norte de méxico por lluvias e inundaciones.",
+    "tokens": [
+      "servicio",
+      "meteorológico",
+      "nacional",
+      "(",
+      "smn",
+      ")",
+      "méxico",
+      "informó",
+      "tormenta",
+      "tropical",
+      "chris",
+      "tocó",
+      "tierra",
+      "noche",
+      "domingo",
+      "cerca",
+      "localidad",
+      "lechuguillas",
+      ",",
+      "municipio",
+      "vega",
+      "alatorre",
+      ",",
+      "veracruz",
+      ",",
+      "golfo",
+      "méxico",
+      ".",
+      "noche",
+      "domingo",
+      ",",
+      "depresión",
+      "tropical",
+      "tres",
+      "transformó",
+      "tormenta",
+      "tropical",
+      "chris",
+      "golfo",
+      "méxico",
+      ".",
+      "según",
+      "servicio",
+      "meteorológico",
+      "mexicano",
+      ",",
+      "debido",
+      "gran",
+      "difusión",
+      ",",
+      "registrarán",
+      "lluvias",
+      "excepcionales",
+      "hidalgo",
+      ",",
+      "puebla",
+      ",",
+      "querétaro",
+      ",",
+      "san",
+      "luis",
+      "potosí",
+      "veracruz",
+      ".",
+      "organismo",
+      "gubernamental",
+      "méxico",
+      "anticipó",
+      "lluvias",
+      "intensas",
+      "oaxaca",
+      "tamaulipas",
+      ",",
+      "así",
+      "campeche",
+      ",",
+      "chiapas",
+      ",",
+      "nuevo",
+      "león",
+      "tabasco",
+      ".",
+      "además",
+      ",",
+      "pronosticó",
+      "fuertes",
+      "centrales",
+      "península",
+      "yucatán",
+      ".",
+      "cambio",
+      ",",
+      "predijo",
+      "fuertes",
+      "vientos",
+      "90",
+      "km/h",
+      ",",
+      "posibilidad",
+      "formación",
+      "trombas",
+      "marinas",
+      "presencia",
+      "oleaje",
+      "dos",
+      "cuatro",
+      "metros",
+      "altura",
+      "costas",
+      "tabasco",
+      ",",
+      "tamaulipas",
+      "veracruz",
+      ".",
+      "“",
+      "espera",
+      "precipitaciones",
+      "mencionadas",
+      "descargas",
+      "eléctricas",
+      "posible",
+      "caída",
+      "granizo",
+      "”",
+      ",",
+      "señaló",
+      ".",
+      "además",
+      ",",
+      "advirtió",
+      "precipitaciones",
+      "podrían",
+      "causar",
+      "deslaves",
+      ",",
+      "aumento",
+      "profundidad",
+      "ríos",
+      "arroyos",
+      ",",
+      "así",
+      "desbordamientos",
+      "inundaciones",
+      "áreas",
+      "mencionados",
+      ".",
+      "smn",
+      "conagua",
+      "exhortó",
+      "población",
+      ",",
+      "turistas",
+      "navegantes",
+      "marítimos",
+      "prestar",
+      "atención",
+      "avisos",
+      "autoridades",
+      "meteorológicas",
+      ",",
+      "seguir",
+      "recomendaciones",
+      "protección",
+      "civil",
+      "tomar",
+      "precauciones",
+      "condiciones",
+      "climáticas",
+      "adversas",
+      "lluvias",
+      ",",
+      "viento",
+      "oleaje",
+      "elevado",
+      ".",
+      "tercero",
+      "21",
+      "ciclones",
+      "tropicales",
+      "previstos",
+      "océano",
+      "atlántico",
+      "temporada",
+      "2024.",
+      "encuentra",
+      "par",
+      "huracán",
+      "beryl",
+      "después",
+      "huracán",
+      "alberto",
+      ",",
+      "causó",
+      "daños",
+      "norte",
+      "méxico",
+      "lluvias",
+      "inundaciones",
+      "."
+    ],
+    "token_count": 199,
+    "sentence_count": 11
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 58,
+      "IN": 13,
+      "NN": 64,
+      "JJ": 22,
+      "FW": 77,
+      "VBZ": 4,
+      "NNS": 16,
+      "CD": 3,
+      "VBP": 8
+    },
+    "bigram_freq": {
+      "NNP-NNP": 26,
+      "NNP-IN": 3,
+      "IN-NNP": 4,
+      "NNP-NN": 14,
+      "NN-NN": 37,
+      "NN-JJ": 6,
+      "JJ-JJ": 3,
+      "JJ-NNP": 5,
+      "NN-FW": 5,
+      "FW-FW": 49,
+      "FW-NNP": 18,
+      "NNP-FW": 13,
+      "FW-NN": 3,
+      "FW-JJ": 3,
+      "NN-VBZ": 3,
+      "VBZ-FW": 2,
+      "IN-JJ": 2,
+      "JJ-FW": 2,
+      "NN-IN": 6,
+      "NNP-VBZ": 1,
+      "VBZ-NN": 1,
+      "VBZ-IN": 1,
+      "IN-NN": 1,
+      "JJ-NNS": 6,
+      "NNS-IN": 3,
+      "IN-FW": 5,
+      "FW-CD": 1,
+      "CD-NN": 1,
+      "FW-NNS": 3,
+      "NNS-VBP": 8,
+      "VBP-FW": 1,
+      "NNS-NNS": 3,
+      "NNS-JJ": 1,
+      "JJ-NN": 6,
+      "VBP-JJ": 6,
+      "NN-NNS": 3,
+      "VBP-NN": 1,
+      "IN-CD": 1,
+      "CD-NNS": 1,
+      "NN-NNP": 3,
+      "NN-CD": 1,
+      "CD-NNP": 1,
+      "NNP-JJ": 1
+    },
+    "trigram_freq": {
+      "NNP-NNP-NNP": 15,
+      "NNP-NNP-IN": 3,
+      "NNP-IN-NNP": 1,
+      "IN-NNP-NN": 1,
+      "NNP-NN-NN": 13,
+      "NN-NN-NN": 17,
+      "NN-NN-JJ": 5,
+      "NN-JJ-JJ": 1,
+      "JJ-JJ-NNP": 2,
+      "JJ-NNP-NN": 3,
+      "NN-NN-FW": 2,
+      "NN-FW-FW": 4,
+      "FW-FW-FW": 34,
+      "FW-FW-NNP": 8,
+      "FW-NNP-FW": 8,
+      "NNP-FW-FW": 7,
+      "NNP-FW-NNP": 5,
+      "FW-NNP-NNP": 8,
+      "NNP-NNP-FW": 2,
+      "FW-FW-NN": 2,
+      "FW-NN-FW": 2,
+      "FW-FW-JJ": 2,
+      "FW-JJ-NNP": 3,
+      "JJ-NNP-FW": 2,
+      "NNP-FW-NN": 1,
+      "NNP-NNP-NN": 5,
+      "NN-NN-VBZ": 3,
+      "NN-VBZ-FW": 2,
+      "VBZ-FW-NNP": 1,
+      "NNP-IN-JJ": 1,
+      "IN-JJ-FW": 1,
+      "JJ-FW-NNP": 1,
+      "FW-NNP-NN": 2,
+      "NN-NN-IN": 4,
+      "NN-IN-NNP": 1,
+      "IN-NNP-NNP": 2,
+      "NNP-NNP-VBZ": 1,
+      "NNP-VBZ-NN": 1,
+      "VBZ-NN-FW": 1,
+      "NN-FW-NNP": 1,
+      "NN-VBZ-IN": 1,
+      "VBZ-IN-NN": 1,
+      "IN-NN-JJ": 1,
+      "NN-JJ-NNS": 3,
+      "JJ-NNS-IN": 2,
+      "NNS-IN-FW": 1,
+      "IN-FW-NNP": 2,
+      "VBZ-FW-FW": 1,
+      "FW-FW-CD": 1,
+      "FW-CD-NN": 1,
+      "CD-NN-NN": 1,
+      "FW-FW-NNS": 2,
+      "FW-NNS-VBP": 2,
+      "NNS-VBP-FW": 1,
+      "VBP-FW-FW": 1,
+      "JJ-NNS-NNS": 1,
+      "NNS-NNS-JJ": 1,
+      "NNS-JJ-NN": 1,
+      "JJ-NN-NN": 4,
+      "NN-JJ-NN": 2,
+      "JJ-NN-IN": 2,
+      "NN-IN-FW": 3,
+      "IN-FW-JJ": 1,
+      "JJ-NNS-VBP": 3,
+      "NNS-VBP-JJ": 6,
+      "VBP-JJ-NNS": 2,
+      "VBP-JJ-FW": 1,
+      "JJ-FW-FW": 1,
+      "FW-NN-NN": 1,
+      "NN-NN-NNS": 2,
+      "NN-NNS-IN": 1,
+      "NNS-IN-NNP": 2,
+      "IN-NNP-FW": 1,
+      "NNP-IN-FW": 1,
+      "FW-NNS-NNS": 1,
+      "NNS-NNS-VBP": 2,
+      "NNS-VBP-NN": 1,
+      "VBP-NN-NN": 1,
+      "IN-FW-NNS": 1,
+      "VBP-JJ-JJ": 1,
+      "JJ-JJ-NNS": 1,
+      "NNP-NN-NNS": 1,
+      "NN-NNS-VBP": 1,
+      "VBP-JJ-NN": 2,
+      "NN-IN-JJ": 1,
+      "IN-JJ-JJ": 1,
+      "NN-IN-CD": 1,
+      "IN-CD-NNS": 1,
+      "CD-NNS-NNS": 1,
+      "NN-NN-NNP": 3,
+      "NN-NNP-NN": 3,
+      "NN-NN-CD": 1,
+      "NN-CD-NNP": 1,
+      "CD-NNP-JJ": 1,
+      "NNP-JJ-NN": 1,
+      "IN-FW-FW": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "FW": 77,
+        "NN": 64,
+        "NNP": 58,
+        "JJ": 22,
+        "NNS": 16
+      },
+      "top_bigrams": {
+        "FW-FW": 49,
+        "NN-NN": 37,
+        "NNP-NNP": 26,
+        "FW-NNP": 18,
+        "NNP-NN": 14
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 34,
+        "NN-NN-NN": 17,
+        "NNP-NNP-NNP": 15,
+        "NNP-NN-NN": 13,
+        "FW-FW-NNP": 8
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 11,
+    "chunk_counts": {
+      "NP": 78,
+      "PP": 8,
+      "VP": 14,
+      "ADJP": 1
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 4,
+        "weight": 0.0357
+      },
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 3,
+        "weight": 0.0268
+      },
+      {
+        "rule": "NP -> ('Golfo', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0179
+      },
+      {
+        "rule": "NP -> ('México', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0179
+      },
+      {
+        "rule": "NP -> ('Además', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0179
+      },
+      {
+        "rule": "S -> NP ('(', '(') NP (')', ')') ('de', 'FW') NP NP ('la', 'FW') ('noche', 'FW') ('de', 'FW') ('este', 'FW') ('domingo', 'FW') ('cerca', 'FW') ('de', 'FW') ('la', 'FW') ('localidad', 'FW') ('de', 'FW') NP (',', ',') ('municipio', 'FW') ('de', 'FW') NP ('de', 'FW') NP (',', ',') ('en', 'FW') ('el', 'FW') ('estado', 'FW') ('de', 'FW') NP (',', ',') ('en', 'FW') ('el', 'FW') NP PP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0089
+      },
+      {
+        "rule": "NP -> ('El', 'NNP') ('Servicio', 'NNP') ('Meteorológico', 'NNP') ('Nacional', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0089
+      },
+      {
+        "rule": "NP -> ('SMN', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0089
+      },
+      {
+        "rule": "NP -> ('México', 'NNP') ('informó', 'NN') ('que', 'NN') ('la', 'NN')",
+        "frequency": 1,
+        "weight": 0.0089
+      },
+      {
+        "rule": "NP -> ('tormenta', 'JJ') ('tropical', 'JJ') ('Chris', 'NNP') ('tocó', 'NN') ('tierra', 'NN')",
+        "frequency": 1,
+        "weight": 0.0089
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El Servicio Meteorológico Nacional"
+      },
+      {
+        "label": "NP",
+        "text": "SMN"
+      },
+      {
+        "label": "NP",
+        "text": "México informó que la"
+      },
+      {
+        "label": "NP",
+        "text": "tormenta tropical Chris tocó tierra"
+      },
+      {
+        "label": "NP",
+        "text": "Lechuguillas"
+      },
+      {
+        "label": "NP",
+        "text": "Vega"
+      },
+      {
+        "label": "NP",
+        "text": "Alatorre"
+      },
+      {
+        "label": "NP",
+        "text": "Veracruz"
+      },
+      {
+        "label": "NP",
+        "text": "Golfo"
+      },
+      {
+        "label": "PP",
+        "text": "de México"
+      },
+      {
+        "label": "NP",
+        "text": "México"
+      },
+      {
+        "label": "NP",
+        "text": "La"
+      },
+      {
+        "label": "NP",
+        "text": "del domingo"
+      },
+      {
+        "label": "NP",
+        "text": "tropical Tres"
+      },
+      {
+        "label": "NP",
+        "text": "transformó"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP El/NNP Servicio/NNP Meteorológico/NNP Nacional/NNP)\n  (/(\n  (NP SMN/NNP)\n  )/)\n  de/FW\n  (NP México/NNP informó/NN que/NN la/NN)\n  (NP tormenta/JJ tropical/JJ Chris/NNP tocó/NN tierra/NN)\n  la/FW\n  noche/FW\n  de/FW\n  este/FW\n  domingo/FW\n  cerca/FW\n  de/FW\n  la/FW\n  localidad/FW\n  de/FW\n  (NP Lechuguillas/NNP)\n  ,/,\n  municipio/FW\n  de/FW\n  (NP Vega/NNP)\n  de/FW\n  (NP Alatorre/NNP)\n  ,/,\n  en/FW\n  el/FW\n  estado/FW\n  de/FW\n  (NP Veracruz/NNP)\n  ,/,\n  en/FW\n  el/FW\n  (NP Golfo/NNP)\n  (PP de/IN (NP México/NNP))\n  ./.)",
+      "(S\n  (NP La/NNP)\n  noche/CC\n  (NP del/NN domingo/NN)\n  ,/,\n  la/FW\n  depresión/FW\n  (NP tropical/JJ Tres/NNP)\n  se/FW\n  (NP transformó/NN)\n  en/FW\n  la/FW\n  tormenta/FW\n  (NP tropical/JJ Chris/NNP)\n  en/FW\n  el/FW\n  (NP Golfo/NNP)\n  (PP de/IN (NP México/NNP))\n  ./.)",
+      "(S\n  (NP Según/NNP)\n  el/CC\n  (NP Servicio/NNP Meteorológico/NNP mexicano/NN)\n  ,/,\n  (VP debido/VB (NP a/DT su/NN gran/NN difusión/NN))\n  ,/,\n  se/FW\n  (NP registrarán/NN lluvias/NN)\n  (VP excepcionales/VBZ)\n  en/FW\n  (NP Hidalgo/NNP)\n  ,/,\n  (NP Puebla/NNP)\n  ,/,\n  (NP Querétaro/NNP)\n  ,/,\n  (NP San/NNP Luis/NNP Potosí/NNP y/NN Veracruz/NNP)\n  ./.)",
+      "(S\n  (NP El/NNP)\n  organismo/MD\n  (VP gubernamental/VB)\n  de/FW\n  (NP México/NNP anticipó/NN lluvias/NN intensas/NN)\n  (PP en/IN (NP Oaxaca/NNP y/NNP Tamaulipas/NNP))\n  ,/,\n  (NP así/NN como/NN)\n  (PP en/IN (NP Campeche/NNP))\n  ,/,\n  (NP Chiapas/NNP)\n  ,/,\n  (NP Nuevo/NNP León/NNP y/NNP Tabasco/NNP)\n  ./.)",
+      "(S\n  (NP Además/NNP)\n  ,/,\n  (NP pronosticó/NN muy/NN)\n  (VP fuertes/VBZ)\n  (PP en/IN (NP los/NN))\n  (NP estados/JJ centrales/NNS)\n  (VP y/VBP)\n  en/IN\n  la/FW\n  (NP Península/NNP)\n  de/FW\n  (NP Yucatán/NNP)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "PAISES",
+      "REGIONES_PROVINCIAS"
+    ],
+    "matches": [
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "señaló",
+        "position": [
+          1069,
+          1075
+        ],
+        "start": 1069,
+        "end": 1075
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "informó",
+        "position": [
+          51,
+          58
+        ],
+        "start": 51,
+        "end": 58
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "advirtió",
+        "position": [
+          1085,
+          1093
+        ],
+        "start": 1085,
+        "end": 1093
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "méxico",
+        "position": [
+          44,
+          50
+        ],
+        "start": 44,
+        "end": 50
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "estado de",
+        "position": [
+          203,
+          212
+        ],
+        "start": 203,
+        "end": 212
+      }
+    ],
+    "match_count": 5
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "México",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Oaxaca",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Tamaulipas",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "San Luis Potosí",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Chris",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Alberto",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Servicio Meteorológico",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Campeche",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Chiapas",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Atlántico",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "SMN",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Querétaro",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Golfo de México",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Tabasco",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Hidalgo",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Puebla",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Nuevo León",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Lechuguillas",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Vega de Alatorre",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Veracruz",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Conagua",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Protección Civil",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Península de Yucatán",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Servicio Meteorológico Nacional",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "depresión tropical Tres",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Servicio Meteorológico Nacional",
+        "relacion": "INFORMAR",
+        "objeto": "Chris"
+      },
+      {
+        "sujeto": "Servicio Meteorológico Nacional",
+        "relacion": "INFORMAR",
+        "objeto": "Lechuguillas"
+      },
+      {
+        "sujeto": "Servicio Meteorológico Nacional",
+        "relacion": "INFORMAR",
+        "objeto": "Vega de Alatorre"
+      },
+      {
+        "sujeto": "Servicio Meteorológico Nacional",
+        "relacion": "INFORMAR",
+        "objeto": "Veracruz"
+      },
+      {
+        "sujeto": "Servicio Meteorológico Nacional",
+        "relacion": "INFORMAR",
+        "objeto": "Golfo de México"
+      },
+      {
+        "sujeto": "SMN",
+        "relacion": "INFORMAR",
+        "objeto": "Chris"
+      },
+      {
+        "sujeto": "SMN",
+        "relacion": "INFORMAR",
+        "objeto": "Lechuguillas"
+      },
+      {
+        "sujeto": "SMN",
+        "relacion": "INFORMAR",
+        "objeto": "Vega de Alatorre"
+      },
+      {
+        "sujeto": "SMN",
+        "relacion": "INFORMAR",
+        "objeto": "Veracruz"
+      },
+      {
+        "sujeto": "SMN",
+        "relacion": "INFORMAR",
+        "objeto": "Golfo de México"
+      },
+      {
+        "sujeto": "México",
+        "relacion": "INFORMAR",
+        "objeto": "Chris"
+      },
+      {
+        "sujeto": "México",
+        "relacion": "INFORMAR",
+        "objeto": "Lechuguillas"
+      },
+      {
+        "sujeto": "México",
+        "relacion": "INFORMAR",
+        "objeto": "Vega de Alatorre"
+      },
+      {
+        "sujeto": "México",
+        "relacion": "INFORMAR",
+        "objeto": "Veracruz"
+      },
+      {
+        "sujeto": "México",
+        "relacion": "INFORMAR",
+        "objeto": "Golfo de México"
+      },
+      {
+        "sujeto": "Chris",
+        "relacion": "TOCAR_INFORMAR",
+        "objeto": "Lechuguillas"
+      },
+      {
+        "sujeto": "Chris",
+        "relacion": "TOCAR_INFORMAR",
+        "objeto": "Vega de Alatorre"
+      },
+      {
+        "sujeto": "Chris",
+        "relacion": "TOCAR_INFORMAR",
+        "objeto": "Veracruz"
+      },
+      {
+        "sujeto": "Chris",
+        "relacion": "TOCAR_INFORMAR",
+        "objeto": "Golfo de México"
+      },
+      {
+        "sujeto": "depresión tropical Tres",
+        "relacion": "TRANSFORMAR",
+        "objeto": "Chris"
+      },
+      {
+        "sujeto": "depresión tropical Tres",
+        "relacion": "TRANSFORMAR",
+        "objeto": "Golfo de México"
+      },
+      {
+        "sujeto": "Chris",
+        "relacion": "TRANSFORMAR",
+        "objeto": "Golfo de México"
+      },
+      {
+        "sujeto": "Servicio Meteorológico",
+        "relacion": "REGISTRAR",
+        "objeto": "Hidalgo"
+      },
+      {
+        "sujeto": "Servicio Meteorológico",
+        "relacion": "REGISTRAR",
+        "objeto": "Puebla"
+      },
+      {
+        "sujeto": "Servicio Meteorológico",
+        "relacion": "REGISTRAR",
+        "objeto": "Querétaro"
+      },
+      {
+        "sujeto": "Servicio Meteorológico",
+        "relacion": "REGISTRAR",
+        "objeto": "San Luis Potosí"
+      },
+      {
+        "sujeto": "Servicio Meteorológico",
+        "relacion": "REGISTRAR",
+        "objeto": "Veracruz"
+      },
+      {
+        "sujeto": "México",
+        "relacion": "ANTICIPAR",
+        "objeto": "Oaxaca"
+      },
+      {
+        "sujeto": "México",
+        "relacion": "ANTICIPAR",
+        "objeto": "Tamaulipas"
+      },
+      {
+        "sujeto": "México",
+        "relacion": "ANTICIPAR",
+        "objeto": "Campeche"
+      },
+      {
+        "sujeto": "México",
+        "relacion": "ANTICIPAR",
+        "objeto": "Chiapas"
+      },
+      {
+        "sujeto": "México",
+        "relacion": "ANTICIPAR",
+        "objeto": "Nuevo León"
+      },
+      {
+        "sujeto": "México",
+        "relacion": "ANTICIPAR",
+        "objeto": "Tabasco"
+      },
+      {
+        "sujeto": "Conagua",
+        "relacion": "EXHORTAR",
+        "objeto": "Protección Civil"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.0,
+    "pos": 0.0,
+    "neu": 1.0,
+    "neg": 0.0,
+    "label": "neutral"
+  }
+}

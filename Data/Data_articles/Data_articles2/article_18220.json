@@ -1,0 +1,622 @@
+{
+  "url": "https://www.telesurtv.net/enfrentamiento-armado-deja-ocho-muertos-en-el-estado-mexicano-de-tamaulipas/",
+  "title": "Enfrentamiento armado deja ocho muertos en el estado mexicano de Tamaulipas - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "Balacera",
+    "Enfrentamiento Armado",
+    "Estado Tamaulipas"
+  ],
+  "text": "Al menos ocho personas fallecieron el sábado en el estado mexicano de Tamaulipas en un enfrentamiento armado entre las fuerzas de seguridad estatales y presuntos integrantes de un grupo criminal.\nEl enfrentamiento ocurrió entre la noche del viernes y la madrugada del sábado en el municipio de Abasolo, en la zona central del estado, detalló la Vocería de Seguridad del estado de Tamaulipas en un comunicado.\nSegún fuentes policiales, entre los fallecidos se encuentran cinco atacantes, dos militares y un agente de la Guardia Estatal; no obstante, la información no ha sido confirmada por las autoridades estatales.\nDe acuerdo con los primeros informes, la balacera se suscitó tras el arresto de la esposa de un líder delincuencial.\nEn respuesta a la detención de la pareja de un líder delincuencial, varios hombres armados llegaron al centro del municipio Abasolo, atacando el hotel donde se hospedaban los elementos de seguridad.\nEllo provocó varias horas de tiroteo y, al verse superados, los oficiales pidieron apoyo a la Guardia Nacional y al Ejército, revirtiendo la situación y arrestando a cinco civiles armados.\nAl término del enfrentamiento, las autoridades recuperaron armamento, chalecos antibalas y municiones.\nEl estado mexicano de Tamaulipas, es golpeado frecuentemente por la violencia de grupos del crimen organizado dedicados principalmente al trasiego de drogas y al tráfico de migrantes.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/enfrentamiento-armado-deja-ocho-muertos-en-el-estado-mexicano-de-tamaulipas/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-08.json",
+    "message_index": 1526,
+    "message_id": 73949,
+    "date": "2024-08-04T07:55:13+00:00",
+    "text": "teleSUR\nEnfrentamiento armado deja ocho muertos en el estado mexicano de Tamaulipas\nhttps://www.telesurtv.net/enfrentamiento-armado-deja-ocho-muertos-en-el-estado-mexicano-de-tamaulipas/",
+    "photo_path": null,
+    "views": 1941,
+    "reactions": {},
+    "total_reactions": 0
+  },
+  "preprocessing": {
+    "cleaned": "al menos ocho personas fallecieron el sábado en el estado mexicano de tamaulipas en un enfrentamiento armado entre las fuerzas de seguridad estatales y presuntos integrantes de un grupo criminal. el enfrentamiento ocurrió entre la noche del viernes y la madrugada del sábado en el municipio de abasolo, en la zona central del estado, detalló la vocería de seguridad del estado de tamaulipas en un comunicado. según fuentes policiales, entre los fallecidos se encuentran cinco atacantes, dos militares y un agente de la guardia estatal; no obstante, la información no ha sido confirmada por las autoridades estatales. de acuerdo con los primeros informes, la balacera se suscitó tras el arresto de la esposa de un líder delincuencial. en respuesta a la detención de la pareja de un líder delincuencial, varios hombres armados llegaron al centro del municipio abasolo, atacando el hotel donde se hospedaban los elementos de seguridad. ello provocó varias horas de tiroteo y, al verse superados, los oficiales pidieron apoyo a la guardia nacional y al ejército, revirtiendo la situación y arrestando a cinco civiles armados. al término del enfrentamiento, las autoridades recuperaron armamento, chalecos antibalas y municiones. el estado mexicano de tamaulipas, es golpeado frecuentemente por la violencia de grupos del crimen organizado dedicados principalmente al trasiego de drogas y al tráfico de migrantes.",
+    "tokens": [
+      "menos",
+      "ocho",
+      "personas",
+      "fallecieron",
+      "sábado",
+      "mexicano",
+      "tamaulipas",
+      "enfrentamiento",
+      "armado",
+      "fuerzas",
+      "seguridad",
+      "estatales",
+      "presuntos",
+      "integrantes",
+      "grupo",
+      "criminal",
+      ".",
+      "enfrentamiento",
+      "ocurrió",
+      "noche",
+      "viernes",
+      "madrugada",
+      "sábado",
+      "municipio",
+      "abasolo",
+      ",",
+      "zona",
+      "central",
+      ",",
+      "detalló",
+      "vocería",
+      "seguridad",
+      "tamaulipas",
+      "comunicado",
+      ".",
+      "según",
+      "fuentes",
+      "policiales",
+      ",",
+      "fallecidos",
+      "encuentran",
+      "cinco",
+      "atacantes",
+      ",",
+      "dos",
+      "militares",
+      "agente",
+      "guardia",
+      "estatal",
+      ";",
+      "obstante",
+      ",",
+      "información",
+      "sido",
+      "confirmada",
+      "autoridades",
+      "estatales",
+      ".",
+      "acuerdo",
+      "primeros",
+      "informes",
+      ",",
+      "balacera",
+      "suscitó",
+      "tras",
+      "arresto",
+      "esposa",
+      "líder",
+      "delincuencial",
+      ".",
+      "respuesta",
+      "detención",
+      "pareja",
+      "líder",
+      "delincuencial",
+      ",",
+      "varios",
+      "hombres",
+      "armados",
+      "llegaron",
+      "centro",
+      "municipio",
+      "abasolo",
+      ",",
+      "atacando",
+      "hotel",
+      "hospedaban",
+      "elementos",
+      "seguridad",
+      ".",
+      "ello",
+      "provocó",
+      "varias",
+      "horas",
+      "tiroteo",
+      ",",
+      "verse",
+      "superados",
+      ",",
+      "oficiales",
+      "pidieron",
+      "apoyo",
+      "guardia",
+      "nacional",
+      "ejército",
+      ",",
+      "revirtiendo",
+      "situación",
+      "arrestando",
+      "cinco",
+      "civiles",
+      "armados",
+      ".",
+      "término",
+      "enfrentamiento",
+      ",",
+      "autoridades",
+      "recuperaron",
+      "armamento",
+      ",",
+      "chalecos",
+      "antibalas",
+      "municiones",
+      ".",
+      "mexicano",
+      "tamaulipas",
+      ",",
+      "golpeado",
+      "frecuentemente",
+      "violencia",
+      "grupos",
+      "crimen",
+      "organizado",
+      "dedicados",
+      "principalmente",
+      "trasiego",
+      "drogas",
+      "tráfico",
+      "migrantes",
+      "."
+    ],
+    "token_count": 140,
+    "sentence_count": 8
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 20,
+      "NNS": 19,
+      "VBP": 10,
+      "JJ": 20,
+      "NN": 52,
+      "IN": 8,
+      "FW": 66,
+      "VBZ": 6,
+      "DT": 2,
+      "JJR": 2,
+      "CC": 1
+    },
+    "bigram_freq": {
+      "NNP-NNS": 1,
+      "NNS-VBP": 9,
+      "VBP-JJ": 3,
+      "JJ-NN": 11,
+      "NN-NN": 25,
+      "NN-IN": 5,
+      "IN-FW": 3,
+      "FW-JJ": 7,
+      "IN-NNP": 1,
+      "NNP-FW": 6,
+      "NN-FW": 10,
+      "FW-FW": 41,
+      "FW-NNS": 3,
+      "VBP-VBZ": 1,
+      "VBZ-IN": 1,
+      "JJ-JJ": 1,
+      "JJ-NNP": 2,
+      "NNP-NN": 6,
+      "NNS-FW": 2,
+      "FW-NNP": 8,
+      "JJ-FW": 3,
+      "FW-NN": 4,
+      "NN-NNP": 3,
+      "NNP-VBZ": 2,
+      "VBZ-NNS": 1,
+      "NN-VBZ": 2,
+      "VBZ-JJ": 3,
+      "JJ-NNS": 3,
+      "NNS-JJ": 1,
+      "NNP-NNP": 2,
+      "NNP-DT": 1,
+      "DT-NN": 2,
+      "FW-VBZ": 1,
+      "VBZ-DT": 1,
+      "NN-NNS": 5,
+      "NNS-IN": 1,
+      "IN-NNS": 3,
+      "NNS-NNP": 2,
+      "NN-JJ": 2,
+      "VBP-NN": 3,
+      "VBP-FW": 1,
+      "FW-JJR": 2,
+      "JJR-JJ": 2,
+      "NNS-NNS": 3,
+      "VBP-NNP": 1,
+      "VBP-IN": 1,
+      "IN-NN": 1,
+      "NNP-VBP": 1,
+      "NNP-CC": 1,
+      "CC-JJ": 1
+    },
+    "trigram_freq": {
+      "NNP-NNS-VBP": 1,
+      "NNS-VBP-JJ": 3,
+      "VBP-JJ-NN": 2,
+      "JJ-NN-NN": 7,
+      "NN-NN-NN": 9,
+      "NN-NN-IN": 3,
+      "NN-IN-FW": 2,
+      "IN-FW-JJ": 3,
+      "FW-JJ-NN": 5,
+      "JJ-NN-IN": 2,
+      "NN-IN-NNP": 1,
+      "IN-NNP-FW": 1,
+      "NNP-FW-JJ": 2,
+      "NN-NN-FW": 7,
+      "NN-FW-FW": 6,
+      "FW-FW-FW": 28,
+      "FW-FW-NNS": 3,
+      "FW-NNS-VBP": 2,
+      "NNS-VBP-VBZ": 1,
+      "VBP-VBZ-IN": 1,
+      "VBZ-IN-FW": 1,
+      "FW-JJ-JJ": 1,
+      "JJ-JJ-NNP": 1,
+      "JJ-NNP-NN": 2,
+      "NNP-NN-NN": 5,
+      "FW-NNS-FW": 1,
+      "NNS-FW-FW": 2,
+      "FW-FW-NNP": 4,
+      "FW-NNP-FW": 4,
+      "NNP-FW-FW": 2,
+      "FW-FW-JJ": 2,
+      "FW-JJ-FW": 1,
+      "JJ-FW-FW": 2,
+      "FW-FW-NN": 2,
+      "FW-NN-FW": 1,
+      "NN-FW-NNP": 2,
+      "NNP-FW-NNP": 1,
+      "JJ-NN-NNP": 1,
+      "NN-NNP-VBZ": 2,
+      "NNP-VBZ-NNS": 1,
+      "VBZ-NNS-FW": 1,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-JJ": 2,
+      "VBZ-JJ-NNS": 1,
+      "JJ-NNS-JJ": 1,
+      "NNS-JJ-FW": 1,
+      "FW-NNP-NNP": 2,
+      "NNP-NNP-DT": 1,
+      "NNP-DT-NN": 1,
+      "DT-NN-FW": 1,
+      "NN-FW-VBZ": 1,
+      "FW-VBZ-DT": 1,
+      "VBZ-DT-NN": 1,
+      "DT-NN-VBZ": 1,
+      "VBZ-JJ-NN": 2,
+      "JJ-NN-NNS": 1,
+      "NN-NNS-IN": 1,
+      "NNS-IN-NNS": 1,
+      "IN-NNS-NNP": 1,
+      "NNS-NNP-FW": 1,
+      "NNP-FW-NN": 1,
+      "FW-NN-NN": 2,
+      "NN-NN-JJ": 2,
+      "NN-JJ-NNS": 1,
+      "JJ-NNS-VBP": 1,
+      "NNS-VBP-NN": 2,
+      "VBP-NN-NN": 2,
+      "NN-NN-NNS": 2,
+      "NN-NNS-VBP": 3,
+      "NNS-VBP-FW": 1,
+      "VBP-FW-FW": 1,
+      "FW-FW-JJR": 2,
+      "FW-JJR-JJ": 2,
+      "JJR-JJ-NNP": 1,
+      "JJR-JJ-NNS": 1,
+      "JJ-NNS-NNS": 1,
+      "NNS-NNS-VBP": 2,
+      "NN-NN-NNP": 1,
+      "NNP-VBZ-JJ": 1,
+      "NN-JJ-NN": 1,
+      "FW-NNP-NN": 1,
+      "FW-NN-NNS": 1,
+      "VBP-JJ-FW": 1,
+      "JJ-FW-NNP": 1,
+      "NNP-NNP-NN": 1,
+      "NNP-NN-NNP": 1,
+      "NN-NNP-NN": 1,
+      "NN-FW-NN": 1,
+      "NNS-VBP-NNP": 1,
+      "VBP-NNP-NN": 1,
+      "NN-IN-NNS": 2,
+      "IN-NNS-NNS": 1,
+      "NNS-VBP-IN": 1,
+      "VBP-IN-NN": 1,
+      "IN-NN-NNS": 1,
+      "NN-NNS-NNS": 1,
+      "NNS-NNS-NNP": 1,
+      "NNS-NNP-VBP": 1,
+      "NNP-VBP-NN": 1,
+      "VBP-NN-FW": 1,
+      "FW-NNP-CC": 1,
+      "NNP-CC-JJ": 1,
+      "CC-JJ-NN": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "FW": 66,
+        "NN": 52,
+        "NNP": 20,
+        "JJ": 20,
+        "NNS": 19
+      },
+      "top_bigrams": {
+        "FW-FW": 41,
+        "NN-NN": 25,
+        "JJ-NN": 11,
+        "NN-FW": 10,
+        "NNS-VBP": 9
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 28,
+        "NN-NN-NN": 9,
+        "JJ-NN-NN": 7,
+        "NN-NN-FW": 7,
+        "NN-FW-FW": 6
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 8,
+    "chunk_counts": {
+      "NP": 58,
+      "VP": 15,
+      "PP": 5
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 3,
+        "weight": 0.0349
+      },
+      {
+        "rule": "NP -> ('Tamaulipas', 'NNP')",
+        "frequency": 3,
+        "weight": 0.0349
+      },
+      {
+        "rule": "VP -> ('y', 'VBP') NP",
+        "frequency": 3,
+        "weight": 0.0349
+      },
+      {
+        "rule": "NP -> ('estado', 'JJ') ('mexicano', 'NN')",
+        "frequency": 2,
+        "weight": 0.0233
+      },
+      {
+        "rule": "NP -> ('estatales', 'NNS')",
+        "frequency": 2,
+        "weight": 0.0233
+      },
+      {
+        "rule": "NP -> ('El', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0233
+      },
+      {
+        "rule": "NP -> ('líder', 'JJR') ('delincuencial', 'NN')",
+        "frequency": 2,
+        "weight": 0.0233
+      },
+      {
+        "rule": "S -> NP VP ('en', 'IN') ('el', 'FW') NP PP ('en', 'FW') NP ('entre', 'FW') ('las', 'FW') ('fuerzas', 'FW') ('de', 'FW') ('seguridad', 'FW') NP VP PP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0116
+      },
+      {
+        "rule": "NP -> ('Al', 'NNP') ('menos', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0116
+      },
+      {
+        "rule": "VP -> ('ocho', 'VBP') NP",
+        "frequency": 1,
+        "weight": 0.0116
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Al menos"
+      },
+      {
+        "label": "VP",
+        "text": "ocho personas fallecieron el sábado"
+      },
+      {
+        "label": "NP",
+        "text": "personas fallecieron el sábado"
+      },
+      {
+        "label": "NP",
+        "text": "estado mexicano"
+      },
+      {
+        "label": "PP",
+        "text": "de Tamaulipas"
+      },
+      {
+        "label": "NP",
+        "text": "Tamaulipas"
+      },
+      {
+        "label": "NP",
+        "text": "un enfrentamiento armado"
+      },
+      {
+        "label": "NP",
+        "text": "estatales"
+      },
+      {
+        "label": "VP",
+        "text": "y presuntos integrantes"
+      },
+      {
+        "label": "NP",
+        "text": "presuntos integrantes"
+      },
+      {
+        "label": "PP",
+        "text": "de un grupo criminal"
+      },
+      {
+        "label": "NP",
+        "text": "un grupo criminal"
+      },
+      {
+        "label": "NP",
+        "text": "El"
+      },
+      {
+        "label": "NP",
+        "text": "ocurrió entre la"
+      },
+      {
+        "label": "NP",
+        "text": "del viernes"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Al/NNP menos/NNS)\n  (VP ocho/VBP (NP personas/JJ fallecieron/NN el/NN sábado/NN))\n  en/IN\n  el/FW\n  (NP estado/JJ mexicano/NN)\n  (PP de/IN (NP Tamaulipas/NNP))\n  en/FW\n  (NP un/JJ enfrentamiento/NN armado/NN)\n  entre/FW\n  las/FW\n  fuerzas/FW\n  de/FW\n  seguridad/FW\n  (NP estatales/NNS)\n  (VP y/VBP (NP presuntos/JJ integrantes/NNS))\n  (PP de/IN (NP un/JJ grupo/JJ criminal/NN))\n  ./.)",
+      "(S\n  (NP El/NNP)\n  enfrentamiento/CC\n  (NP ocurrió/JJ entre/NN la/NN)\n  noche/FW\n  (NP del/NN viernes/NNS)\n  y/RB\n  (VP la/VBP (NP madrugada/JJ del/NN sábado/NN))\n  en/IN\n  el/FW\n  municipio/FW\n  de/FW\n  (NP Abasolo/NNP)\n  ,/,\n  en/FW\n  la/FW\n  zona/FW\n  (NP central/JJ del/NN estado/NN)\n  ,/,\n  (NP detalló/NN)\n  la/FW\n  (NP Vocería/NNP)\n  de/FW\n  (NP Seguridad/NNP)\n  del/FW\n  estado/FW\n  de/FW\n  (NP Tamaulipas/NNP)\n  en/FW\n  (NP un/JJ comunicado/NN)\n  ./.)",
+      "(S\n  (NP Según/NNP)\n  (VP fuentes/VBZ (NP policiales/NNS))\n  ,/,\n  entre/FW\n  los/FW\n  (NP fallecidos/JJ se/NN encuentran/NN cinco/NN atacantes/NNS)\n  ,/,\n  (NP dos/NN militares/NNS)\n  (VP y/VBP (NP un/JJ agente/NN))\n  de/IN\n  la/FW\n  (NP Guardia/NNP Estatal/NNP)\n  ;/:\n  (NP no/DT obstante/NN)\n  ,/,\n  la/FW\n  (VP información/VBZ (NP no/DT ha/NN))\n  (VP sido/VBZ (NP confirmada/JJ por/NN las/NNS))\n  (PP autoridades/IN (NP estatales/NNS))\n  ./.)",
+      "(S\n  (NP De/NNP)\n  acuerdo/FW\n  (NP con/NN los/NN primeros/NN informes/NNS)\n  ,/,\n  la/FW\n  balacera/FW\n  se/FW\n  suscitó/FW\n  tras/FW\n  el/FW\n  arresto/FW\n  de/FW\n  la/FW\n  esposa/FW\n  de/FW\n  un/FW\n  (NP líder/JJR delincuencial/NN)\n  ./.)",
+      "(S\n  (NP En/NNP)\n  (VP respuesta/VBZ (NP a/DT la/NN))\n  detención/FW\n  de/FW\n  la/FW\n  pareja/FW\n  de/FW\n  un/FW\n  (NP líder/JJR delincuencial/NN)\n  ,/,\n  (NP varios/JJ hombres/NNS)\n  (VP\n    armados/VBP\n    (NP llegaron/NN al/NN centro/NN del/NN municipio/NN Abasolo/NNP))\n  ,/,\n  (NP atacando/JJ el/JJ hotel/NN donde/NN)\n  (NP se/JJ hospedaban/NN los/NN)\n  elementos/FW\n  de/FW\n  seguridad/FW\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "LOCALIZACIONES_ESPECIFICAS",
+      "PROTESTAS_CONFLICTOS_SOCIALES",
+      "CONFLICTOS_ARMADOS_OPERACIONES",
+      "REGIONES_PROVINCIAS"
+    ],
+    "matches": [
+      {
+        "category": "PROTESTAS_CONFLICTOS_SOCIALES",
+        "matched_text": "enfrentamiento armado entre las fuerzas",
+        "position": [
+          87,
+          126
+        ],
+        "start": 87,
+        "end": 126
+      },
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "detención de la pareja de un líder",
+        "position": [
+          752,
+          786
+        ],
+        "start": 752,
+        "end": 786
+      },
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "enfrentamiento armado",
+        "position": [
+          87,
+          108
+        ],
+        "start": 87,
+        "end": 108
+      },
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "enfrentamiento armado entre las",
+        "position": [
+          87,
+          118
+        ],
+        "start": 87,
+        "end": 118
+      },
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "municiones",
+        "position": [
+          1213,
+          1223
+        ],
+        "start": 1213,
+        "end": 1223
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "estado mexicano",
+        "position": [
+          51,
+          66
+        ],
+        "start": 51,
+        "end": 66
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "centro del",
+        "position": [
+          837,
+          847
+        ],
+        "start": 837,
+        "end": 847
+      }
+    ],
+    "match_count": 7
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Guardia Nacional",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Tamaulipas",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Abasolo",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Vocería de Seguridad",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "estado de Tamaulipas",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Guardia Estatal",
+        "tipo": "Organizacion"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Vocería de Seguridad",
+        "relacion": "OCURRIR_DETALLAR",
+        "objeto": "Abasolo"
+      },
+      {
+        "sujeto": "Abasolo",
+        "relacion": "OCURRIR_DETALLAR",
+        "objeto": "estado de Tamaulipas"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.6597,
+    "pos": 0.011,
+    "neu": 0.952,
+    "neg": 0.037,
+    "label": "negative"
+  }
+}

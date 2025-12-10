@@ -1,0 +1,732 @@
+{
+  "url": "https://www.telesurtv.net/venezuela-alberga-la-exposicion-el-mundo-segun-mafalda/",
+  "title": "Venezuela alberga la exposición El mundo según Mafalda - teleSUR",
+  "section": "Cultura",
+  "tags": [
+    "cultura",
+    "Mafalda",
+    "Venezuela"
+  ],
+  "text": "Venezuela desarrolla la exposición El mundo según Mafalda en homenaje a los 60 años del personaje creado por el caricaturista argentino Joaquín Lavado, conocido como Quino.\nEl personaje de Mafalda relataba las contradicciones de la sociedad, pero también la esperanza de un mundo más humano y en paz, todo a través de los ojos de una niña de seis años a la que no le gusta la sopa.\nLa exposición, que estará abierta al público hasta el 16 de octubre, ha recorrido varios países latinoamericanos y europeos y fue llevada a Caracas por el Gobierno Bolivariano de Venezuela.\n“Esta exposición nace en el 2007 en el Museo de los Niños, en Barrilete, en Córdoba, Argentina. Tiene alrededor de 17 años girando por Latinoamérica y parte de Europa”, dijo Daniela Calderón, productora general de la muestra.\nLa experta recalcó que “la magnífica Mafalda, una niña de 6 años, que nos invita a reflexionar, a cuestionarnos, a indagar, a preguntar cosas que a veces son un poco incómodas para los adultos y que nos invita a recrearnos en todas sus etapas”.\nRocío Villarreal, profesora de la sala de la exposición El mundo según Mafalda, dijo por su parte que Mafalda sigue vigente, no solo en Venezuela, sino en el mundo entero.\n“Esto permite llevar a la reflexión, a disfrutarla, que todo el mundo se va contento, de alguna manera remontamos a algún recuerdo de la niñez”, externó.\nMafalda, que se emitió desde el 29 de septiembre de 1964 hasta el 25 de junio de 1973, muestra una tira cómica con mensajes de paz y una nueva humanidad de la mano de su creador Quino, oriundo de Argentina.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/venezuela-alberga-la-exposicion-el-mundo-segun-mafalda/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-09.json",
+    "message_index": 820,
+    "message_id": 76483,
+    "date": "2024-09-18T11:55:16+00:00",
+    "text": "teleSUR\nVenezuela alberga la exposición El mundo según Mafalda\nhttps://www.telesurtv.net/venezuela-alberga-la-exposicion-el-mundo-segun-mafalda/",
+    "photo_path": null,
+    "views": 2178,
+    "reactions": {
+      "🥰": 37,
+      "❤": 9,
+      "👍": 6,
+      "🤨": 1
+    },
+    "total_reactions": 53
+  },
+  "preprocessing": {
+    "cleaned": "venezuela desarrolla la exposición el mundo según mafalda en homenaje a los 60 años del personaje creado por el caricaturista argentino joaquín lavado, conocido como quino. el personaje de mafalda relataba las contradicciones de la sociedad, pero también la esperanza de un mundo más humano y en paz, todo a través de los ojos de una niña de seis años a la que no le gusta la sopa. la exposición, que estará abierta al público hasta el 16 de octubre, ha recorrido varios países latinoamericanos y europeos y fue llevada a caracas por el gobierno bolivariano de venezuela. “esta exposición nace en el 2007 en el museo de los niños, en barrilete, en córdoba, argentina. tiene alrededor de 17 años girando por latinoamérica y parte de europa”, dijo daniela calderón, productora general de la muestra. la experta recalcó que “la magnífica mafalda, una niña de 6 años, que nos invita a reflexionar, a cuestionarnos, a indagar, a preguntar cosas que a veces son un poco incómodas para los adultos y que nos invita a recrearnos en todas sus etapas”. rocío villarreal, profesora de la sala de la exposición el mundo según mafalda, dijo por su parte que mafalda sigue vigente, no solo en venezuela, sino en el mundo entero. “esto permite llevar a la reflexión, a disfrutarla, que todo el mundo se va contento, de alguna manera remontamos a algún recuerdo de la niñez”, externó. mafalda, que se emitió desde el 29 de septiembre de 1964 hasta el 25 de junio de 1973, muestra una tira cómica con mensajes de paz y una nueva humanidad de la mano de su creador quino, oriundo de argentina.",
+    "tokens": [
+      "venezuela",
+      "desarrolla",
+      "exposición",
+      "mundo",
+      "según",
+      "mafalda",
+      "homenaje",
+      "60",
+      "años",
+      "personaje",
+      "creado",
+      "caricaturista",
+      "argentino",
+      "joaquín",
+      "lavado",
+      ",",
+      "conocido",
+      "quino",
+      ".",
+      "personaje",
+      "mafalda",
+      "relataba",
+      "contradicciones",
+      "sociedad",
+      ",",
+      "esperanza",
+      "mundo",
+      "humano",
+      "paz",
+      ",",
+      "través",
+      "ojos",
+      "niña",
+      "seis",
+      "años",
+      "gusta",
+      "sopa",
+      ".",
+      "exposición",
+      ",",
+      "abierta",
+      "público",
+      "16",
+      "octubre",
+      ",",
+      "recorrido",
+      "varios",
+      "países",
+      "latinoamericanos",
+      "europeos",
+      "llevada",
+      "caracas",
+      "gobierno",
+      "bolivariano",
+      "venezuela",
+      ".",
+      "“",
+      "exposición",
+      "nace",
+      "2007",
+      "museo",
+      "niños",
+      ",",
+      "barrilete",
+      ",",
+      "córdoba",
+      ",",
+      "argentina",
+      ".",
+      "alrededor",
+      "17",
+      "años",
+      "girando",
+      "latinoamérica",
+      "parte",
+      "europa",
+      "”",
+      ",",
+      "dijo",
+      "daniela",
+      "calderón",
+      ",",
+      "productora",
+      "general",
+      "muestra",
+      ".",
+      "experta",
+      "recalcó",
+      "“",
+      "magnífica",
+      "mafalda",
+      ",",
+      "niña",
+      "6",
+      "años",
+      ",",
+      "invita",
+      "reflexionar",
+      ",",
+      "cuestionarnos",
+      ",",
+      "indagar",
+      ",",
+      "preguntar",
+      "cosas",
+      "veces",
+      "incómodas",
+      "adultos",
+      "invita",
+      "recrearnos",
+      "todas",
+      "etapas",
+      "”",
+      ".",
+      "rocío",
+      "villarreal",
+      ",",
+      "profesora",
+      "sala",
+      "exposición",
+      "mundo",
+      "según",
+      "mafalda",
+      ",",
+      "dijo",
+      "parte",
+      "mafalda",
+      "sigue",
+      "vigente",
+      ",",
+      "solo",
+      "venezuela",
+      ",",
+      "sino",
+      "mundo",
+      "entero",
+      ".",
+      "“",
+      "permite",
+      "llevar",
+      "reflexión",
+      ",",
+      "disfrutarla",
+      ",",
+      "mundo",
+      "va",
+      "contento",
+      ",",
+      "alguna",
+      "manera",
+      "remontamos",
+      "algún",
+      "recuerdo",
+      "niñez",
+      "”",
+      ",",
+      "externó",
+      ".",
+      "mafalda",
+      ",",
+      "emitió",
+      "29",
+      "septiembre",
+      "1964",
+      "25",
+      "junio",
+      "1973",
+      ",",
+      "muestra",
+      "tira",
+      "cómica",
+      "mensajes",
+      "paz",
+      "nueva",
+      "humanidad",
+      "mano",
+      "creador",
+      "quino",
+      ",",
+      "oriundo",
+      "argentina",
+      "."
+    ],
+    "token_count": 182,
+    "sentence_count": 9
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 36,
+      "NN": 83,
+      "FW": 74,
+      "VBZ": 3,
+      "CD": 8,
+      "IN": 15,
+      "VBP": 5,
+      "JJ": 18,
+      "NNS": 7,
+      "DT": 2,
+      "VBD": 4
+    },
+    "bigram_freq": {
+      "NNP-NN": 12,
+      "NN-NN": 42,
+      "NN-FW": 12,
+      "FW-NNP": 14,
+      "NNP-FW": 11,
+      "FW-NN": 14,
+      "NN-NNP": 10,
+      "NN-VBZ": 1,
+      "VBZ-CD": 1,
+      "CD-NN": 3,
+      "NNP-NNP": 8,
+      "NN-IN": 9,
+      "IN-NNP": 2,
+      "NNP-VBP": 1,
+      "VBP-JJ": 4,
+      "JJ-NNS": 4,
+      "NNS-IN": 1,
+      "IN-FW": 8,
+      "FW-FW": 41,
+      "FW-DT": 1,
+      "DT-NN": 2,
+      "NN-VBD": 3,
+      "VBD-CD": 3,
+      "CD-IN": 1,
+      "NN-NNS": 2,
+      "NNS-VBZ": 1,
+      "VBZ-JJ": 2,
+      "NNS-VBP": 4,
+      "JJ-NNP": 1,
+      "NNP-VBD": 1,
+      "VBD-JJ": 1,
+      "JJ-IN": 2,
+      "IN-NN": 1,
+      "NN-CD": 1,
+      "IN-CD": 3,
+      "CD-NNS": 1,
+      "NNS-JJ": 1,
+      "JJ-NN": 8,
+      "NNP-VBZ": 1,
+      "NNP-JJ": 1,
+      "FW-JJ": 2,
+      "VBP-NN": 1,
+      "NN-JJ": 2,
+      "JJ-JJ": 3,
+      "IN-JJ": 1,
+      "NN-DT": 1,
+      "CD-FW": 2,
+      "FW-IN": 2,
+      "CD-JJ": 1
+    },
+    "trigram_freq": {
+      "NNP-NN-NN": 6,
+      "NN-NN-FW": 5,
+      "NN-FW-NNP": 5,
+      "FW-NNP-FW": 8,
+      "NNP-FW-NN": 6,
+      "FW-NN-NNP": 3,
+      "NN-NNP-FW": 1,
+      "FW-NN-VBZ": 1,
+      "NN-VBZ-CD": 1,
+      "VBZ-CD-NN": 1,
+      "CD-NN-NN": 1,
+      "NN-NN-NN": 23,
+      "NN-NN-NNP": 5,
+      "NN-NNP-NNP": 5,
+      "NNP-NNP-NN": 3,
+      "NNP-NN-IN": 3,
+      "NN-IN-NNP": 2,
+      "IN-NNP-VBP": 1,
+      "NNP-VBP-JJ": 1,
+      "VBP-JJ-NNS": 2,
+      "JJ-NNS-IN": 1,
+      "NNS-IN-FW": 1,
+      "IN-FW-FW": 5,
+      "FW-FW-NN": 5,
+      "FW-NN-NN": 7,
+      "NN-FW-FW": 5,
+      "FW-FW-FW": 27,
+      "FW-NN-FW": 3,
+      "NN-FW-NN": 2,
+      "NN-NN-IN": 2,
+      "NN-IN-FW": 5,
+      "FW-FW-DT": 1,
+      "FW-DT-NN": 1,
+      "DT-NN-NN": 1,
+      "FW-FW-NNP": 6,
+      "NN-NN-VBD": 2,
+      "NN-VBD-CD": 3,
+      "VBD-CD-IN": 1,
+      "CD-IN-FW": 1,
+      "IN-FW-NN": 1,
+      "NN-NN-NNS": 2,
+      "NN-NNS-VBZ": 1,
+      "NNS-VBZ-JJ": 1,
+      "VBZ-JJ-NNS": 1,
+      "JJ-NNS-VBP": 3,
+      "NNS-VBP-JJ": 3,
+      "VBP-JJ-NNP": 1,
+      "JJ-NNP-NN": 1,
+      "NNP-NNP-FW": 2,
+      "NNP-FW-NNP": 3,
+      "FW-NNP-NNP": 2,
+      "NNP-NNP-VBD": 1,
+      "NNP-VBD-JJ": 1,
+      "VBD-JJ-IN": 1,
+      "JJ-IN-NN": 1,
+      "IN-NN-CD": 1,
+      "NN-CD-NN": 1,
+      "CD-NN-FW": 1,
+      "NNP-FW-FW": 2,
+      "NNP-NNP-NNP": 1,
+      "NN-IN-CD": 1,
+      "IN-CD-NNS": 1,
+      "CD-NNS-JJ": 1,
+      "NNS-JJ-NN": 1,
+      "JJ-NN-NNP": 1,
+      "NN-NNP-NN": 4,
+      "NNP-NN-FW": 2,
+      "FW-NNP-NN": 3,
+      "NNP-NN-NNP": 1,
+      "NNP-NNP-VBZ": 1,
+      "NNP-VBZ-JJ": 1,
+      "VBZ-JJ-IN": 1,
+      "JJ-IN-FW": 1,
+      "FW-NNP-JJ": 1,
+      "NNP-JJ-NN": 1,
+      "JJ-NN-IN": 4,
+      "IN-FW-JJ": 2,
+      "FW-JJ-NNS": 1,
+      "NNS-VBP-NN": 1,
+      "VBP-NN-NN": 1,
+      "NN-NNS-VBP": 1,
+      "VBP-JJ-NN": 1,
+      "JJ-NN-NN": 3,
+      "NN-NN-JJ": 2,
+      "NN-JJ-JJ": 1,
+      "JJ-JJ-NN": 3,
+      "NN-IN-JJ": 1,
+      "IN-JJ-NN": 1,
+      "NN-NN-DT": 1,
+      "NN-DT-NN": 1,
+      "DT-NN-FW": 1,
+      "NN-JJ-NN": 1,
+      "VBD-CD-FW": 2,
+      "CD-FW-FW": 2,
+      "FW-FW-IN": 2,
+      "FW-IN-CD": 2,
+      "IN-CD-NN": 1,
+      "CD-NN-VBD": 1,
+      "IN-CD-JJ": 1,
+      "CD-JJ-JJ": 1,
+      "FW-JJ-JJ": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 83,
+        "FW": 74,
+        "NNP": 36,
+        "JJ": 18,
+        "IN": 15
+      },
+      "top_bigrams": {
+        "NN-NN": 42,
+        "FW-FW": 41,
+        "FW-NNP": 14,
+        "FW-NN": 14,
+        "NNP-NN": 12
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 27,
+        "NN-NN-NN": 23,
+        "FW-NNP-FW": 8,
+        "FW-NN-NN": 7,
+        "NNP-NN-NN": 6
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 9,
+    "chunk_counts": {
+      "NP": 69,
+      "VP": 13,
+      "PP": 3,
+      "ADJP": 4
+    },
+    "top_rules": [
+      {
+        "rule": "VP -> ('el', 'VBD')",
+        "frequency": 3,
+        "weight": 0.0306
+      },
+      {
+        "rule": "NP -> ('El', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0204
+      },
+      {
+        "rule": "NP -> ('según', 'NN') ('Mafalda', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0204
+      },
+      {
+        "rule": "NP -> ('Mafalda', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0204
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0204
+      },
+      {
+        "rule": "ADJP -> ('que', 'JJ')",
+        "frequency": 2,
+        "weight": 0.0204
+      },
+      {
+        "rule": "NP -> ('Venezuela', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0204
+      },
+      {
+        "rule": "NP -> ('Argentina', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0204
+      },
+      {
+        "rule": "NP -> ('años', 'NNS')",
+        "frequency": 2,
+        "weight": 0.0204
+      },
+      {
+        "rule": "S -> NP ('exposición', 'FW') NP ('mundo', 'FW') NP VP ('homenaje', 'FW') NP ('60', 'CD') NP (',', ',') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0102
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Venezuela desarrolla la"
+      },
+      {
+        "label": "NP",
+        "text": "El"
+      },
+      {
+        "label": "NP",
+        "text": "según Mafalda"
+      },
+      {
+        "label": "VP",
+        "text": "en"
+      },
+      {
+        "label": "NP",
+        "text": "a los"
+      },
+      {
+        "label": "NP",
+        "text": "años del personaje creado por el caricaturista argentino Joaquín Lavado"
+      },
+      {
+        "label": "NP",
+        "text": "conocido como Quino"
+      },
+      {
+        "label": "NP",
+        "text": "El personaje"
+      },
+      {
+        "label": "PP",
+        "text": "de Mafalda"
+      },
+      {
+        "label": "NP",
+        "text": "Mafalda"
+      },
+      {
+        "label": "VP",
+        "text": "relataba las contradicciones"
+      },
+      {
+        "label": "NP",
+        "text": "las contradicciones"
+      },
+      {
+        "label": "NP",
+        "text": "también"
+      },
+      {
+        "label": "NP",
+        "text": "humano y"
+      },
+      {
+        "label": "PP",
+        "text": "en paz"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Venezuela/NNP desarrolla/NN la/NN)\n  exposición/FW\n  (NP El/NNP)\n  mundo/FW\n  (NP según/NN Mafalda/NNP)\n  (VP en/VBZ)\n  homenaje/FW\n  (NP a/DT los/NN)\n  60/CD\n  (NP\n    años/NN\n    del/NN\n    personaje/NN\n    creado/NN\n    por/NN\n    el/NN\n    caricaturista/NN\n    argentino/NN\n    Joaquín/NNP\n    Lavado/NNP)\n  ,/,\n  (NP conocido/NN como/NN Quino/NNP)\n  ./.)",
+      "(S\n  (NP El/NNP personaje/NN)\n  (PP de/IN (NP Mafalda/NNP))\n  (VP relataba/VBP (NP las/JJ contradicciones/NNS))\n  de/IN\n  la/FW\n  sociedad/FW\n  ,/,\n  pero/FW\n  (NP también/NN)\n  la/FW\n  esperanza/FW\n  de/FW\n  un/FW\n  mundo/FW\n  más/FW\n  (NP humano/NN y/NN)\n  (PP en/IN (NP paz/NN))\n  ,/,\n  (VP todo/VB (NP a/DT través/NN))\n  de/IN\n  los/FW\n  ojos/FW\n  de/FW\n  una/FW\n  niña/FW\n  de/FW\n  seis/FW\n  años/FW\n  (NP a/DT la/NN que/NN)\n  (NP no/DT le/NN gusta/NN la/NN sopa/NN)\n  ./.)",
+      "(S\n  (NP La/NNP exposición/NN)\n  ,/,\n  (ADJP que/JJ)\n  estará/FW\n  (NP abierta/NN al/NN público/NN hasta/NN)\n  (VP el/VBD)\n  16/CD\n  de/FW\n  octubre/FW\n  ,/,\n  ha/FW\n  (NP recorrido/NN varios/NNS)\n  (VP\n    países/VBZ\n    (NP latinoamericanos/JJ y/NN europeos/NN y/NN fue/NN))\n  (VP\n    llevada/VBZ\n    (NP a/DT Caracas/NNP por/NN el/NN Gobierno/NNP Bolivariano/NNP))\n  de/FW\n  (NP Venezuela/NNP)\n  ./.)",
+      "(S\n  (NP “/NN Esta/NNP)\n  (VP exposición/VBZ (NP nace/NN))\n  (PP en/IN (NP el/NN))\n  2007/CD\n  (NP en/NN)\n  el/FW\n  (NP Museo/NNP)\n  de/FW\n  los/FW\n  (NP Niños/NNP)\n  ,/,\n  en/FW\n  (NP Barrilete/NNP)\n  ,/,\n  en/FW\n  (NP Córdoba/NNP)\n  ,/,\n  (NP Argentina/NNP)\n  ./.)",
+      "(S\n  (NP Tiene/NNP alrededor/NN)\n  de/IN\n  17/CD\n  (NP años/NNS)\n  (NP girando/JJ por/NN Latinoamérica/NNP y/NNP parte/NN)\n  de/FW\n  (NP Europa/NNP ”/NNP)\n  ,/,\n  (NP dijo/NN Daniela/NNP Calderón/NNP)\n  ,/,\n  (ADJP productora/JJ)\n  (ADJP general/JJ)\n  de/FW\n  la/FW\n  muestra/FW\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "CULTURA_DEPORTE_SOCIEDAD",
+      "FECHAS_HORAS",
+      "CIUDADES_CAPITALES",
+      "CANTIDADES_NUMERICAS",
+      "PAISES",
+      "FECHAS_ESPECIFICAS"
+    ],
+    "matches": [
+      {
+        "category": "CULTURA_DEPORTE_SOCIEDAD",
+        "matched_text": "creador quino, oriundo de",
+        "position": [
+          1539,
+          1564
+        ],
+        "start": 1539,
+        "end": 1564
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "argentina",
+        "position": [
+          657,
+          666
+        ],
+        "start": 657,
+        "end": 666
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "venezuela",
+        "position": [
+          0,
+          9
+        ],
+        "start": 0,
+        "end": 9
+      },
+      {
+        "category": "CIUDADES_CAPITALES",
+        "matched_text": "caracas",
+        "position": [
+          522,
+          529
+        ],
+        "start": 522,
+        "end": 529
+      },
+      {
+        "category": "FECHAS_ESPECIFICAS",
+        "matched_text": "29 de septiembre de 1964",
+        "position": [
+          1401,
+          1425
+        ],
+        "start": 1401,
+        "end": 1425
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "alrededor de 17",
+        "position": [
+          674,
+          689
+        ],
+        "start": 674,
+        "end": 689
+      },
+      {
+        "category": "FECHAS_HORAS",
+        "matched_text": "25 de junio de 1973",
+        "position": [
+          1435,
+          1454
+        ],
+        "start": 1435,
+        "end": 1454
+      }
+    ],
+    "match_count": 7
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Gobierno Bolivariano de Venezuela",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Venezuela",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Quino",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Latinoamérica",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Argentina",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Daniela Calderón",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Caracas",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Joaquín Lavado",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Museo de los Niños",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Rocío Villarreal",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Córdoba",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Barrilete",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Europa",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Venezuela",
+        "relacion": "DESARROLLAR",
+        "objeto": "Joaquín Lavado"
+      },
+      {
+        "sujeto": "Venezuela",
+        "relacion": "DESARROLLAR",
+        "objeto": "Quino"
+      },
+      {
+        "sujeto": "Caracas",
+        "relacion": "LLEVAR_RECORRER",
+        "objeto": "Gobierno Bolivariano de Venezuela"
+      },
+      {
+        "sujeto": "Argentina",
+        "relacion": "NACER",
+        "objeto": "Museo de los Niños"
+      },
+      {
+        "sujeto": "Argentina",
+        "relacion": "NACER",
+        "objeto": "Barrilete"
+      },
+      {
+        "sujeto": "Argentina",
+        "relacion": "NACER",
+        "objeto": "Córdoba"
+      },
+      {
+        "sujeto": "Daniela Calderón",
+        "relacion": "GIRAR_TENER_DECIR",
+        "objeto": "Latinoamérica"
+      },
+      {
+        "sujeto": "Daniela Calderón",
+        "relacion": "GIRAR_TENER_DECIR",
+        "objeto": "Europa"
+      },
+      {
+        "sujeto": "Rocío Villarreal",
+        "relacion": "DECIR",
+        "objeto": "Venezuela"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.25,
+    "pos": 0.009,
+    "neu": 0.974,
+    "neg": 0.017,
+    "label": "negative"
+  }
+}

@@ -1,0 +1,737 @@
+{
+  "url": "https://www.telesurtv.net/presidente-maduro-celebra-decision-sobre-tps-y-condena-nuevas-deportaciones-de-migrantes/",
+  "title": "Presidente Maduro celebra decisión sobre TPS y condena nuevas deportaciones de migrantes - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "deportaciones",
+    "MIgrantes",
+    "TPS",
+    "Venezuela"
+  ],
+  "text": "El presidente de Venezuela, Nicolás Maduro, celebró este martes la decisión del juez federal de California, Edward Chen, quien bloqueó el lunes la intención del presidente estadounidense Donald Trump de acabar con el Estatus de Protección Temporal (TPS) para los ciudadanos venezolanos.\nJuez Federal revoca intención de Trump de eliminar el TPS a venezolanos emigrados\nAl señalar que sale en defensa de los migrantes venezolanos, el mandatario refirió que es una buena decisión de este juez que garantice el derecho a la permanencia, a juicio, a trabajo, a derechos.\n“En todos los sentidos de derechos humanos”, refirió el presidente, al tiempo de explicitar que la ley de enemigos extranjeros es muy lamentable. “Es muy lamentable, cruel, que el Gobierno de Estados Unidos haya deportado a 17 migrantes a pesar de la medida del juez” a El Salvador.\nEl jefe de Estado informó que incluso hay venezolanos con enfermedades físicas.\nRecordó que más de 170.000 venezolanos migraron por razones económicas, por la guerra económica contra Venezuela.\nTras la toma de posesión de Trump, el Gobierno de Joe Biden actualizó el TPS para que tuviera validez por otros 18 meses; sin embargo, el actual mandatario se opuso y solicitó la suspensión de esta prerrogativa.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/presidente-maduro-celebra-decision-sobre-tps-y-condena-nuevas-deportaciones-de-migrantes/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-04.json",
+    "message_index": 1994,
+    "message_id": 90803,
+    "date": "2025-04-02T00:55:24+00:00",
+    "text": "teleSUR\nPresidente Maduro celebra decisión sobre TPS y condena nuevas deportaciones de migrantes\nhttps://www.telesurtv.net/presidente-maduro-celebra-decision-sobre-tps-y-condena-nuevas-deportaciones-de-migrantes/",
+    "photo_path": null,
+    "views": 1668,
+    "reactions": {
+      "👍": 29,
+      "🫡": 5,
+      "🤷‍♀": 2,
+      "🤣": 1
+    },
+    "total_reactions": 37
+  },
+  "preprocessing": {
+    "cleaned": "el presidente de venezuela, nicolás maduro, celebró este martes la decisión del juez federal de california, edward chen, quien bloqueó el lunes la intención del presidente estadounidense donald trump de acabar con el estatus de protección temporal (tps) para los ciudadanos venezolanos. juez federal revoca intención de trump de eliminar el tps a venezolanos emigrados al señalar que sale en defensa de los migrantes venezolanos, el mandatario refirió que es una buena decisión de este juez que garantice el derecho a la permanencia, a juicio, a trabajo, a derechos. “en todos los sentidos de derechos humanos”, refirió el presidente, al tiempo de explicitar que la ley de enemigos extranjeros es muy lamentable. “es muy lamentable, cruel, que el gobierno de estados unidos haya deportado a 17 migrantes a pesar de la medida del juez” a el salvador. el jefe de estado informó que incluso hay venezolanos con enfermedades físicas. recordó que más de 170.000 venezolanos migraron por razones económicas, por la guerra económica contra venezuela. tras la toma de posesión de trump, el gobierno de joe biden actualizó el tps para que tuviera validez por otros 18 meses; sin embargo, el actual mandatario se opuso y solicitó la suspensión de esta prerrogativa.",
+    "tokens": [
+      "presidente",
+      "venezuela",
+      ",",
+      "nicolás",
+      "maduro",
+      ",",
+      "celebró",
+      "martes",
+      "decisión",
+      "juez",
+      "federal",
+      "california",
+      ",",
+      "edward",
+      "chen",
+      ",",
+      "bloqueó",
+      "lunes",
+      "intención",
+      "presidente",
+      "estadounidense",
+      "donald",
+      "trump",
+      "acabar",
+      "estatus",
+      "protección",
+      "temporal",
+      "(",
+      "tps",
+      ")",
+      "ciudadanos",
+      "venezolanos",
+      ".",
+      "juez",
+      "federal",
+      "revoca",
+      "intención",
+      "trump",
+      "eliminar",
+      "tps",
+      "venezolanos",
+      "emigrados",
+      "señalar",
+      "sale",
+      "defensa",
+      "migrantes",
+      "venezolanos",
+      ",",
+      "mandatario",
+      "refirió",
+      "buena",
+      "decisión",
+      "juez",
+      "garantice",
+      "derecho",
+      "permanencia",
+      ",",
+      "juicio",
+      ",",
+      "trabajo",
+      ",",
+      "derechos",
+      ".",
+      "“",
+      "derechos",
+      "humanos",
+      "”",
+      ",",
+      "refirió",
+      "presidente",
+      ",",
+      "tiempo",
+      "explicitar",
+      "ley",
+      "enemigos",
+      "extranjeros",
+      "lamentable",
+      ".",
+      "“",
+      "lamentable",
+      ",",
+      "cruel",
+      ",",
+      "gobierno",
+      "unidos",
+      "deportado",
+      "17",
+      "migrantes",
+      "pesar",
+      "medida",
+      "juez",
+      "”",
+      "salvador",
+      ".",
+      "jefe",
+      "informó",
+      "incluso",
+      "venezolanos",
+      "enfermedades",
+      "físicas",
+      ".",
+      "recordó",
+      "170.000",
+      "venezolanos",
+      "migraron",
+      "razones",
+      "económicas",
+      ",",
+      "guerra",
+      "económica",
+      "venezuela",
+      ".",
+      "tras",
+      "toma",
+      "posesión",
+      "trump",
+      ",",
+      "gobierno",
+      "joe",
+      "biden",
+      "actualizó",
+      "tps",
+      "validez",
+      "18",
+      "meses",
+      ";",
+      "embargo",
+      ",",
+      "actual",
+      "mandatario",
+      "opuso",
+      "solicitó",
+      "suspensión",
+      "prerrogativa",
+      "."
+    ],
+    "token_count": 135,
+    "sentence_count": 7
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 36,
+      "NN": 61,
+      "FW": 46,
+      "VBZ": 2,
+      "JJ": 19,
+      "NNS": 10,
+      "VBP": 8,
+      "IN": 5,
+      "VBD": 2,
+      "CD": 3,
+      "RB": 1
+    },
+    "bigram_freq": {
+      "NNP-NN": 12,
+      "NN-FW": 8,
+      "FW-NNP": 12,
+      "NNP-NNP": 14,
+      "NN-NN": 34,
+      "NN-VBZ": 1,
+      "VBZ-JJ": 2,
+      "JJ-JJ": 3,
+      "JJ-NN": 9,
+      "NN-JJ": 5,
+      "JJ-FW": 2,
+      "NNP-VBZ": 1,
+      "NN-NNS": 2,
+      "NNS-VBP": 8,
+      "VBP-JJ": 5,
+      "NN-NNP": 4,
+      "NNP-FW": 8,
+      "FW-FW": 24,
+      "FW-NN": 6,
+      "JJ-NNS": 2,
+      "NNS-NNP": 1,
+      "NN-IN": 5,
+      "IN-NNP": 1,
+      "FW-NNS": 2,
+      "IN-FW": 3,
+      "FW-JJ": 2,
+      "JJ-NNP": 2,
+      "NNP-VBD": 1,
+      "VBD-JJ": 1,
+      "JJ-CD": 1,
+      "CD-NNS": 3,
+      "NNS-FW": 1,
+      "VBP-NNS": 1,
+      "VBP-NNP": 1,
+      "IN-CD": 1,
+      "NN-VBD": 1,
+      "VBD-CD": 1,
+      "VBP-RB": 1,
+      "RB-JJ": 1
+    },
+    "trigram_freq": {
+      "NNP-NN-FW": 2,
+      "NN-FW-NNP": 4,
+      "FW-NNP-NNP": 5,
+      "NNP-NNP-NNP": 5,
+      "NNP-NNP-NN": 5,
+      "NNP-NN-NN": 9,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-JJ": 1,
+      "VBZ-JJ-JJ": 1,
+      "JJ-JJ-NN": 2,
+      "JJ-NN-JJ": 1,
+      "NN-JJ-JJ": 1,
+      "JJ-JJ-FW": 1,
+      "JJ-FW-NNP": 1,
+      "NNP-NNP-VBZ": 1,
+      "NNP-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 1,
+      "JJ-NN-NNS": 1,
+      "NN-NNS-VBP": 2,
+      "NNS-VBP-JJ": 5,
+      "VBP-JJ-NN": 4,
+      "JJ-NN-NN": 7,
+      "NN-NN-NN": 16,
+      "NN-NN-NNP": 3,
+      "NN-NNP-NNP": 2,
+      "NNP-NNP-FW": 2,
+      "NNP-FW-FW": 4,
+      "FW-FW-NN": 4,
+      "FW-NN-FW": 2,
+      "FW-NNP-FW": 5,
+      "NNP-FW-NNP": 4,
+      "NN-NN-JJ": 3,
+      "NN-JJ-NNS": 1,
+      "JJ-NNS-NNP": 1,
+      "NNS-NNP-NNP": 1,
+      "NN-NN-IN": 5,
+      "NN-IN-NNP": 1,
+      "IN-NNP-FW": 1,
+      "FW-FW-FW": 15,
+      "FW-FW-NNP": 3,
+      "FW-NNP-NN": 2,
+      "NN-NN-FW": 4,
+      "NN-FW-FW": 3,
+      "FW-FW-NNS": 1,
+      "FW-NNS-VBP": 2,
+      "NN-JJ-NN": 2,
+      "NN-IN-FW": 3,
+      "IN-FW-NN": 1,
+      "FW-NN-NN": 2,
+      "NN-FW-NN": 1,
+      "NN-NNP-NN": 2,
+      "IN-FW-NNS": 1,
+      "IN-FW-JJ": 1,
+      "FW-JJ-FW": 1,
+      "JJ-FW-FW": 1,
+      "FW-FW-JJ": 1,
+      "FW-JJ-NNP": 1,
+      "JJ-NNP-NN": 1,
+      "NNP-NN-JJ": 1,
+      "NNP-NNP-VBD": 1,
+      "NNP-VBD-JJ": 1,
+      "VBD-JJ-CD": 1,
+      "JJ-CD-NNS": 1,
+      "CD-NNS-FW": 1,
+      "NNS-FW-FW": 1,
+      "FW-NN-NNP": 1,
+      "NN-NN-NNS": 1,
+      "NNS-VBP-NNS": 1,
+      "VBP-NNS-VBP": 1,
+      "NNS-VBP-NNP": 1,
+      "VBP-NNP-NN": 1,
+      "NN-IN-CD": 1,
+      "IN-CD-NNS": 1,
+      "CD-NNS-VBP": 2,
+      "VBP-JJ-NNS": 1,
+      "JJ-NNS-VBP": 1,
+      "NN-JJ-NNP": 1,
+      "JJ-NNP-NNP": 1,
+      "NN-NN-VBD": 1,
+      "NN-VBD-CD": 1,
+      "VBD-CD-NNS": 1,
+      "NNS-VBP-RB": 1,
+      "VBP-RB-JJ": 1,
+      "RB-JJ-JJ": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 61,
+        "FW": 46,
+        "NNP": 36,
+        "JJ": 19,
+        "NNS": 10
+      },
+      "top_bigrams": {
+        "NN-NN": 34,
+        "FW-FW": 24,
+        "NNP-NNP": 14,
+        "NNP-NN": 12,
+        "FW-NNP": 12
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 16,
+        "FW-FW-FW": 15,
+        "NNP-NN-NN": 9,
+        "JJ-NN-NN": 7,
+        "FW-NNP-NNP": 5
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 7,
+    "chunk_counts": {
+      "NP": 52,
+      "VP": 13,
+      "PP": 1,
+      "ADJP": 6
+    },
+    "top_rules": [
+      {
+        "rule": "NP -> ('Trump', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0253
+      },
+      {
+        "rule": "ADJP -> ('que', 'JJ')",
+        "frequency": 2,
+        "weight": 0.0253
+      },
+      {
+        "rule": "ADJP -> ('lamentable', 'JJ')",
+        "frequency": 2,
+        "weight": 0.0253
+      },
+      {
+        "rule": "S -> NP ('de', 'FW') NP (',', ',') NP (',', ',') NP VP ('de', 'FW') NP (',', ',') NP (',', ',') NP VP ('de', 'FW') ('acabar', 'FW') NP ('el', 'FW') NP ('de', 'FW') NP ('(', '(') NP (')', ')') NP NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0127
+      },
+      {
+        "rule": "NP -> ('El', 'NNP') ('presidente', 'NN')",
+        "frequency": 1,
+        "weight": 0.0127
+      },
+      {
+        "rule": "NP -> ('Venezuela', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0127
+      },
+      {
+        "rule": "NP -> ('Nicolás', 'NNP') ('Maduro', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0127
+      },
+      {
+        "rule": "NP -> ('celebró', 'NN') ('este', 'NN')",
+        "frequency": 1,
+        "weight": 0.0127
+      },
+      {
+        "rule": "VP -> ('martes', 'VBZ') NP ('juez', 'JJ') ('federal', 'JJ')",
+        "frequency": 1,
+        "weight": 0.0127
+      },
+      {
+        "rule": "NP -> ('la', 'JJ') ('decisión', 'JJ') ('del', 'NN')",
+        "frequency": 1,
+        "weight": 0.0127
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El presidente"
+      },
+      {
+        "label": "NP",
+        "text": "Venezuela"
+      },
+      {
+        "label": "NP",
+        "text": "Nicolás Maduro"
+      },
+      {
+        "label": "NP",
+        "text": "celebró este"
+      },
+      {
+        "label": "VP",
+        "text": "martes la decisión del juez federal"
+      },
+      {
+        "label": "NP",
+        "text": "la decisión del"
+      },
+      {
+        "label": "NP",
+        "text": "California"
+      },
+      {
+        "label": "NP",
+        "text": "Edward Chen"
+      },
+      {
+        "label": "NP",
+        "text": "quien bloqueó el lunes"
+      },
+      {
+        "label": "VP",
+        "text": "la intención del presidente estadounidense Donald Trump"
+      },
+      {
+        "label": "NP",
+        "text": "intención del presidente estadounidense Donald Trump"
+      },
+      {
+        "label": "NP",
+        "text": "con"
+      },
+      {
+        "label": "NP",
+        "text": "Estatus"
+      },
+      {
+        "label": "NP",
+        "text": "Protección Temporal"
+      },
+      {
+        "label": "NP",
+        "text": "TPS"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP El/NNP presidente/NN)\n  de/FW\n  (NP Venezuela/NNP)\n  ,/,\n  (NP Nicolás/NNP Maduro/NNP)\n  ,/,\n  (NP celebró/NN este/NN)\n  (VP martes/VBZ (NP la/JJ decisión/JJ del/NN) juez/JJ federal/JJ)\n  de/FW\n  (NP California/NNP)\n  ,/,\n  (NP Edward/NNP Chen/NNP)\n  ,/,\n  (NP quien/NN bloqueó/NN el/NN lunes/NNS)\n  (VP\n    la/VBP\n    (NP\n      intención/JJ\n      del/NN\n      presidente/NN\n      estadounidense/NN\n      Donald/NNP\n      Trump/NNP))\n  de/FW\n  acabar/FW\n  (NP con/NN)\n  el/FW\n  (NP Estatus/NNP)\n  de/FW\n  (NP Protección/NNP Temporal/NNP)\n  (/(\n  (NP TPS/NNP)\n  )/)\n  (NP para/NN)\n  (NP los/JJ ciudadanos/JJ venezolanos/NN)\n  ./.)",
+      "(S\n  (NP Juez/NNP Federal/NNP revoca/NN intención/NN)\n  (PP de/IN (NP Trump/NNP))\n  de/FW\n  eliminar/FW\n  el/FW\n  TPS/FW\n  (NP\n    a/DT\n    venezolanos/JJ\n    emigrados/NN\n    Al/NNP\n    señalar/NN\n    que/NN\n    sale/NN)\n  en/FW\n  defensa/FW\n  de/FW\n  los/FW\n  (NP migrantes/NNS venezolanos/NNS)\n  ,/,\n  (VP\n    el/VBP\n    (NP mandatario/NN refirió/NN que/NN es/NN)\n    (NP una/JJ buena/NN decisión/NN))\n  de/IN\n  este/FW\n  (NP juez/NN que/NN garantice/NN el/NN)\n  (VP derecho/VBZ (NP a/DT la/NN permanencia/NN))\n  ,/,\n  (NP a/DT juicio/NN)\n  ,/,\n  (NP a/DT trabajo/NN)\n  ,/,\n  (NP a/DT derechos/NN)\n  ./.)",
+      "(S\n  (NP “/NN En/NNP todos/NN los/NN sentidos/NN)\n  de/IN\n  derechos/FW\n  (NP humanos/NNS)\n  (VP ”/VBP)\n  ,/,\n  (VP refirió/VBP (NP el/JJ presidente/NN))\n  ,/,\n  (NP al/JJ tiempo/NN)\n  de/IN\n  explicitar/FW\n  (ADJP que/JJ)\n  la/FW\n  ley/FW\n  de/FW\n  enemigos/FW\n  extranjeros/FW\n  es/FW\n  muy/FW\n  (ADJP lamentable/JJ)\n  ./.)",
+      "(S\n  (NP “/JJ Es/NNP muy/NN)\n  (ADJP lamentable/JJ)\n  ,/,\n  (ADJP cruel/JJ)\n  ,/,\n  (ADJP que/JJ)\n  el/FW\n  (NP Gobierno/NNP)\n  de/FW\n  (NP Estados/NNP Unidos/NNP haya/NN)\n  (VP deportado/VBD)\n  a/DT\n  17/CD\n  (NP migrantes/NNS)\n  (NP a/DT pesar/NN)\n  de/IN\n  la/FW\n  medida/FW\n  del/FW\n  (NP juez/NN)\n  (VP ”/VBZ (NP a/DT El/NNP Salvador/NNP))\n  ./.)",
+      "(S\n  (NP El/NNP jefe/NN)\n  de/FW\n  (NP Estado/NNP informó/NN que/NN incluso/NN hay/NN venezolanos/NNS)\n  (VP con/VBP (NP enfermedades/NNS))\n  (VP físicas/VBP)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "GOBIERNOS_OFICIALES",
+      "LEYES_NORMATIVAS",
+      "CANTIDADES_NUMERICAS",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "ANTIIMPERIALISMO_SOBERANIA",
+      "REGIONES_PROVINCIAS",
+      "JUSTICIA_SOCIAL",
+      "PAISES",
+      "PROTESTAS_CONFLICTOS_SOCIALES",
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "CONFLICTOS_ARMADOS_OPERACIONES",
+      "JURIDICO_LEGISLATIVO_CORRUPCION"
+    ],
+    "matches": [
+      {
+        "category": "PROTESTAS_CONFLICTOS_SOCIALES",
+        "matched_text": "bloqueó",
+        "position": [
+          127,
+          134
+        ],
+        "start": 127,
+        "end": 134
+      },
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "guerra económica contra venezuela",
+        "position": [
+          1009,
+          1042
+        ],
+        "start": 1009,
+        "end": 1042
+      },
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "trabajo",
+        "position": [
+          546,
+          553
+        ],
+        "start": 546,
+        "end": 553
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "informó",
+        "position": [
+          868,
+          875
+        ],
+        "start": 868,
+        "end": 875
+      },
+      {
+        "category": "JURIDICO_LEGISLATIVO_CORRUPCION",
+        "matched_text": "defensa",
+        "position": [
+          392,
+          399
+        ],
+        "start": 392,
+        "end": 399
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "gobierno de estados unidos",
+        "position": [
+          747,
+          773
+        ],
+        "start": 747,
+        "end": 773
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente de venezuela",
+        "position": [
+          3,
+          26
+        ],
+        "start": 3,
+        "end": 26
+      },
+      {
+        "category": "LEYES_NORMATIVAS",
+        "matched_text": "ley de enemigos extranjeros es muy lamentable. “es muy lamentable, cruel, que el gobierno de estados unidos haya deportado a 17",
+        "position": [
+          666,
+          793
+        ],
+        "start": 666,
+        "end": 793
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "estados unidos",
+        "position": [
+          759,
+          773
+        ],
+        "start": 759,
+        "end": 773
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "venezuela",
+        "position": [
+          17,
+          26
+        ],
+        "start": 17,
+        "end": 26
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "estado informó",
+        "position": [
+          861,
+          875
+        ],
+        "start": 861,
+        "end": 875
+      },
+      {
+        "category": "ANTIIMPERIALISMO_SOBERANIA",
+        "matched_text": "embargo",
+        "position": [
+          1170,
+          1177
+        ],
+        "start": 1170,
+        "end": 1177
+      },
+      {
+        "category": "JUSTICIA_SOCIAL",
+        "matched_text": "derechos humanos",
+        "position": [
+          593,
+          609
+        ],
+        "start": 593,
+        "end": 609
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "más de 170.000",
+        "position": [
+          942,
+          956
+        ],
+        "start": 942,
+        "end": 956
+      }
+    ],
+    "match_count": 14
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Edward Chen",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Nicolás Maduro",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Venezuela",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Juez Federal",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Trump",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Gobierno de Joe Biden",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Donald Trump",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "El Salvador",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "California",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "TPS",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Gobierno de Estados Unidos",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Venezuela",
+        "relacion": "CELEBRAR",
+        "objeto": "California"
+      },
+      {
+        "sujeto": "Venezuela",
+        "relacion": "CELEBRAR",
+        "objeto": "Edward Chen"
+      },
+      {
+        "sujeto": "Venezuela",
+        "relacion": "CELEBRAR",
+        "objeto": "Donald Trump"
+      },
+      {
+        "sujeto": "Venezuela",
+        "relacion": "CELEBRAR",
+        "objeto": "TPS"
+      },
+      {
+        "sujeto": "Nicolás Maduro",
+        "relacion": "CELEBRAR",
+        "objeto": "California"
+      },
+      {
+        "sujeto": "Nicolás Maduro",
+        "relacion": "CELEBRAR",
+        "objeto": "Edward Chen"
+      },
+      {
+        "sujeto": "Nicolás Maduro",
+        "relacion": "CELEBRAR",
+        "objeto": "Donald Trump"
+      },
+      {
+        "sujeto": "Nicolás Maduro",
+        "relacion": "CELEBRAR",
+        "objeto": "TPS"
+      },
+      {
+        "sujeto": "Juez Federal",
+        "relacion": "REVOCAR_REFERIR",
+        "objeto": "Trump"
+      },
+      {
+        "sujeto": "Gobierno de Estados Unidos",
+        "relacion": "DEPORTAR",
+        "objeto": "El Salvador"
+      },
+      {
+        "sujeto": "Gobierno de Joe Biden",
+        "relacion": "ACTUALIZAR",
+        "objeto": "Trump"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.9081,
+    "pos": 0.0,
+    "neu": 0.938,
+    "neg": 0.062,
+    "label": "negative"
+  }
+}

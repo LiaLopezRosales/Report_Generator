@@ -1,0 +1,908 @@
+{
+  "url": "https://www.telesurtv.net/indepaz-denuncia-asesinato-de-un-firmante-del-valle-del-cauca-colombia/",
+  "title": "Indepaz denuncia asesinato de un firmante del Valle del Cauca, Colombia - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "Acuerdo de Paz",
+    "Colombia",
+    "firmante",
+    "Indepaz"
+  ],
+  "text": "El Instituto de Estudios para el Desarrollo y la Paz (Indepaz) de Colombia denunció este martes el asesinato de un firmante del Acuerdo de Paz en el departamento colombiano de Valle del Cauca.\nLEA TANMBIÉN:\nGloria Flórez asume presidencia del partido Colombia Humana\n“Uber Noguera era firmante del acuerdo de paz, quien actualmente realizaba su proceso de reincorporación y comunitario en el departamento del Valle del Cauca”, refirió el ente colombiano.\nDe igual manera, Indepaz recalcó que era consejero de reincorporación del Partido Comunes del Municipio Dagua y representante legal de la Asociación Viviendista 26 de marzo, mientras acotó que este firmante fue secuestrado y asesinado en la vereda Digua del corregimiento Queramal de Dagua.\nLa Defensoría del Pueblo emitió la alerta AT 017/21 en la cual advierte que el riesgo para los firmantes también se fundamenta en el interés que los actores armados ilegales tienen sobre ciertos territorios; además de obstaculizar su proceso de reincorporación.\nEntre los grupos que actúan en la zona, Indepaz puntualizó al Frente Jaime Martínez del Bloque Occidental y bandas de carácter local.\nCon Uber Noguera ya son 20 firmantes los asesinados en 2024.\nEntre tanto, la dirección departamental del Valle del Cauca del Partido Comunes refirió que “con indignación denunciamos la negación de la Fuerza Pública, en particular de la Policía Nacional de acudir al sector a prestar el acompañamiento y la ayuda pertinente, y del Ejército Nacional que no garantizó el apoyo cuando Uber se encontraba herido, con vida, a la orilla de un río tras la labor de rescate de familia y comunidad”.\n“En la lucha por la paz estable y duradera no descansamos y, junto a infinidad de sectores sociales, la haremos realidad. Seguiremos sumando fuerzas y nos amilanarán y mucho menos nos callarán”, precisó Comunes.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/indepaz-denuncia-asesinato-de-un-firmante-del-valle-del-cauca-colombia/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-08.json",
+    "message_index": 655,
+    "message_id": 74871,
+    "date": "2024-08-21T01:55:23+00:00",
+    "text": "teleSUR\nIndepaz denuncia asesinato de un firmante del Valle del Cauca, Colombia\nhttps://www.telesurtv.net/indepaz-denuncia-asesinato-de-un-firmante-del-valle-del-cauca-colombia/",
+    "photo_path": null,
+    "views": 2577,
+    "reactions": {
+      "😢": 28,
+      "🤬": 11,
+      "🤔": 4,
+      "😱": 2,
+      "❤": 1,
+      "👍": 1
+    },
+    "total_reactions": 47
+  },
+  "preprocessing": {
+    "cleaned": "el instituto de estudios para el desarrollo y la paz (indepaz) de colombia denunció este martes el asesinato de un firmante del acuerdo de paz en el departamento colombiano de valle del cauca. lea tanmbién: gloria flórez asume presidencia del partido colombia humana “uber noguera era firmante del acuerdo de paz, quien actualmente realizaba su proceso de reincorporación y comunitario en el departamento del valle del cauca”, refirió el ente colombiano. de igual manera, indepaz recalcó que era consejero de reincorporación del partido comunes del municipio dagua y representante legal de la asociación viviendista 26 de marzo, mientras acotó que este firmante fue secuestrado y asesinado en la vereda digua del corregimiento queramal de dagua. la defensoría del pueblo emitió la alerta at 017/21 en la cual advierte que el riesgo para los firmantes también se fundamenta en el interés que los actores armados ilegales tienen sobre ciertos territorios; además de obstaculizar su proceso de reincorporación. entre los grupos que actúan en la zona, indepaz puntualizó al frente jaime martínez del bloque occidental y bandas de carácter local. con uber noguera ya son 20 firmantes los asesinados en 2024. entre tanto, la dirección departamental del valle del cauca del partido comunes refirió que “con indignación denunciamos la negación de la fuerza pública, en particular de la policía nacional de acudir al sector a prestar el acompañamiento y la ayuda pertinente, y del ejército nacional que no garantizó el apoyo cuando uber se encontraba herido, con vida, a la orilla de un río tras la labor de rescate de familia y comunidad”. “en la lucha por la paz estable y duradera no descansamos y, junto a infinidad de sectores sociales, la haremos realidad. seguiremos sumando fuerzas y nos amilanarán y mucho menos nos callarán”, precisó comunes.",
+    "tokens": [
+      "instituto",
+      "estudios",
+      "desarrollo",
+      "paz",
+      "(",
+      "indepaz",
+      ")",
+      "colombia",
+      "denunció",
+      "martes",
+      "asesinato",
+      "firmante",
+      "acuerdo",
+      "paz",
+      "departamento",
+      "colombiano",
+      "valle",
+      "cauca",
+      ".",
+      "lea",
+      "tanmbién",
+      ":",
+      "gloria",
+      "flórez",
+      "asume",
+      "presidencia",
+      "partido",
+      "colombia",
+      "humana",
+      "“",
+      "uber",
+      "noguera",
+      "firmante",
+      "acuerdo",
+      "paz",
+      ",",
+      "actualmente",
+      "realizaba",
+      "proceso",
+      "reincorporación",
+      "comunitario",
+      "departamento",
+      "valle",
+      "cauca",
+      "”",
+      ",",
+      "refirió",
+      "ente",
+      "colombiano",
+      ".",
+      "igual",
+      "manera",
+      ",",
+      "indepaz",
+      "recalcó",
+      "consejero",
+      "reincorporación",
+      "partido",
+      "comunes",
+      "municipio",
+      "dagua",
+      "representante",
+      "legal",
+      "asociación",
+      "viviendista",
+      "26",
+      "marzo",
+      ",",
+      "mientras",
+      "acotó",
+      "firmante",
+      "secuestrado",
+      "asesinado",
+      "vereda",
+      "digua",
+      "corregimiento",
+      "queramal",
+      "dagua",
+      ".",
+      "defensoría",
+      "pueblo",
+      "emitió",
+      "alerta",
+      "at",
+      "017/21",
+      "advierte",
+      "riesgo",
+      "firmantes",
+      "fundamenta",
+      "interés",
+      "actores",
+      "armados",
+      "ilegales",
+      "ciertos",
+      "territorios",
+      ";",
+      "además",
+      "obstaculizar",
+      "proceso",
+      "reincorporación",
+      ".",
+      "grupos",
+      "actúan",
+      "zona",
+      ",",
+      "indepaz",
+      "puntualizó",
+      "frente",
+      "jaime",
+      "martínez",
+      "bloque",
+      "occidental",
+      "bandas",
+      "carácter",
+      "local",
+      ".",
+      "uber",
+      "noguera",
+      "20",
+      "firmantes",
+      "asesinados",
+      "2024.",
+      ",",
+      "dirección",
+      "departamental",
+      "valle",
+      "cauca",
+      "partido",
+      "comunes",
+      "refirió",
+      "“",
+      "indignación",
+      "denunciamos",
+      "negación",
+      "fuerza",
+      "pública",
+      ",",
+      "particular",
+      "policía",
+      "nacional",
+      "acudir",
+      "sector",
+      "prestar",
+      "acompañamiento",
+      "ayuda",
+      "pertinente",
+      ",",
+      "ejército",
+      "nacional",
+      "garantizó",
+      "apoyo",
+      "uber",
+      "encontraba",
+      "herido",
+      ",",
+      "vida",
+      ",",
+      "orilla",
+      "río",
+      "tras",
+      "labor",
+      "rescate",
+      "familia",
+      "comunidad",
+      "”",
+      ".",
+      "“",
+      "lucha",
+      "paz",
+      "estable",
+      "duradera",
+      "descansamos",
+      ",",
+      "junto",
+      "infinidad",
+      "sectores",
+      "sociales",
+      ",",
+      "haremos",
+      "realidad",
+      ".",
+      "seguiremos",
+      "sumando",
+      "fuerzas",
+      "amilanarán",
+      "menos",
+      "callarán",
+      "”",
+      ",",
+      "precisó",
+      "comunes",
+      "."
+    ],
+    "token_count": 192,
+    "sentence_count": 9
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 62,
+      "IN": 17,
+      "NN": 81,
+      "FW": 71,
+      "NNS": 9,
+      "VBP": 7,
+      "JJ": 22,
+      "CD": 4,
+      "VBZ": 3,
+      "VBD": 1,
+      "RB": 1,
+      "DT": 2
+    },
+    "bigram_freq": {
+      "NNP-NNP": 26,
+      "NNP-IN": 3,
+      "IN-NNP": 3,
+      "NNP-NN": 11,
+      "NN-NN": 38,
+      "NN-NNP": 11,
+      "NNP-FW": 16,
+      "FW-NN": 12,
+      "NN-NNS": 4,
+      "NNS-VBP": 6,
+      "VBP-NN": 2,
+      "NN-FW": 9,
+      "FW-FW": 33,
+      "FW-NNP": 19,
+      "NN-IN": 10,
+      "NNP-VBP": 1,
+      "VBP-JJ": 4,
+      "JJ-NN": 15,
+      "IN-FW": 11,
+      "FW-JJ": 5,
+      "NN-JJ": 4,
+      "NNP-JJ": 2,
+      "JJ-JJ": 2,
+      "JJ-FW": 2,
+      "NNP-CD": 2,
+      "CD-IN": 1,
+      "CD-NN": 1,
+      "NN-VBZ": 3,
+      "VBZ-JJ": 3,
+      "JJ-NNS": 1,
+      "VBP-IN": 1,
+      "JJ-NNP": 1,
+      "NNP-VBD": 1,
+      "VBD-CD": 1,
+      "CD-NNS": 1,
+      "NNS-JJ": 1,
+      "JJ-RB": 1,
+      "RB-IN": 1,
+      "IN-CD": 1,
+      "CD-NNP": 1,
+      "IN-JJ": 1,
+      "FW-IN": 1,
+      "NN-DT": 2,
+      "DT-NN": 2,
+      "FW-NNS": 1,
+      "IN-NNS": 1,
+      "NNS-NNS": 1
+    },
+    "trigram_freq": {
+      "NNP-NNP-IN": 3,
+      "NNP-IN-NNP": 2,
+      "IN-NNP-NN": 1,
+      "NNP-NN-NN": 9,
+      "NN-NN-NNP": 3,
+      "NN-NNP-NNP": 3,
+      "NNP-NNP-NNP": 11,
+      "IN-NNP-FW": 2,
+      "NNP-FW-NN": 3,
+      "FW-NN-NNS": 1,
+      "NN-NNS-VBP": 3,
+      "NNS-VBP-NN": 2,
+      "VBP-NN-FW": 2,
+      "NN-FW-FW": 5,
+      "FW-FW-FW": 16,
+      "FW-FW-NNP": 9,
+      "FW-NNP-FW": 7,
+      "NNP-FW-NNP": 9,
+      "NNP-FW-FW": 4,
+      "FW-FW-NN": 5,
+      "FW-NN-IN": 3,
+      "NN-IN-NNP": 1,
+      "FW-NNP-NNP": 10,
+      "NNP-NNP-VBP": 1,
+      "NNP-VBP-JJ": 1,
+      "VBP-JJ-NN": 4,
+      "JJ-NN-NN": 5,
+      "NNP-NNP-NN": 3,
+      "NN-NN-FW": 4,
+      "NN-FW-NN": 2,
+      "NN-IN-FW": 8,
+      "IN-FW-JJ": 2,
+      "FW-JJ-NN": 4,
+      "NN-NN-JJ": 4,
+      "NN-JJ-NN": 3,
+      "JJ-NN-IN": 2,
+      "IN-FW-NN": 2,
+      "IN-FW-FW": 6,
+      "FW-NNP-NN": 2,
+      "JJ-NN-NNP": 5,
+      "NN-NNP-JJ": 1,
+      "NNP-JJ-NN": 1,
+      "NN-NNP-NN": 4,
+      "NN-NN-NN": 19,
+      "NN-NN-IN": 5,
+      "NNP-NNP-FW": 5,
+      "NNP-NNP-JJ": 1,
+      "NNP-JJ-JJ": 1,
+      "JJ-JJ-FW": 1,
+      "JJ-FW-FW": 2,
+      "NNP-NNP-CD": 1,
+      "NNP-CD-IN": 1,
+      "CD-IN-FW": 1,
+      "FW-NN-NN": 4,
+      "FW-NN-NNP": 3,
+      "NN-NNP-FW": 2,
+      "NN-NNP-CD": 1,
+      "NNP-CD-NN": 1,
+      "CD-NN-FW": 1,
+      "NN-FW-JJ": 1,
+      "NN-NN-VBZ": 2,
+      "NN-VBZ-JJ": 3,
+      "VBZ-JJ-NN": 2,
+      "VBZ-JJ-NNS": 1,
+      "JJ-NNS-VBP": 1,
+      "NNS-VBP-JJ": 3,
+      "JJ-NN-NNS": 2,
+      "NNS-VBP-IN": 1,
+      "VBP-IN-FW": 1,
+      "IN-FW-NNP": 1,
+      "FW-FW-JJ": 2,
+      "FW-JJ-NNP": 1,
+      "JJ-NNP-NNP": 1,
+      "NNP-NNP-VBD": 1,
+      "NNP-VBD-CD": 1,
+      "VBD-CD-NNS": 1,
+      "CD-NNS-JJ": 1,
+      "NNS-JJ-RB": 1,
+      "JJ-RB-IN": 1,
+      "RB-IN-CD": 1,
+      "IN-CD-NNP": 1,
+      "CD-NNP-NN": 1,
+      "NN-JJ-JJ": 1,
+      "JJ-JJ-NN": 1,
+      "NNP-IN-JJ": 1,
+      "IN-JJ-FW": 1,
+      "NN-FW-IN": 1,
+      "FW-IN-FW": 1,
+      "NNP-NN-DT": 1,
+      "NN-DT-NN": 2,
+      "DT-NN-VBZ": 1,
+      "FW-FW-NNS": 1,
+      "FW-NNS-VBP": 1,
+      "NNP-NN-FW": 1,
+      "FW-NN-FW": 1,
+      "JJ-NN-DT": 1,
+      "DT-NN-NN": 1,
+      "NN-IN-NNS": 1,
+      "IN-NNS-NNS": 1,
+      "NNS-NNS-VBP": 1,
+      "NN-NN-NNS": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 81,
+        "FW": 71,
+        "NNP": 62,
+        "JJ": 22,
+        "IN": 17
+      },
+      "top_bigrams": {
+        "NN-NN": 38,
+        "FW-FW": 33,
+        "NNP-NNP": 26,
+        "FW-NNP": 19,
+        "NNP-FW": 16
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 19,
+        "FW-FW-FW": 16,
+        "NNP-NNP-NNP": 11,
+        "FW-NNP-NNP": 10,
+        "NNP-NN-NN": 9
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 9,
+    "chunk_counts": {
+      "NP": 79,
+      "PP": 6,
+      "VP": 13,
+      "ADJP": 4
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 5,
+        "weight": 0.045
+      },
+      {
+        "rule": "NP -> ('Indepaz', 'NNP')",
+        "frequency": 3,
+        "weight": 0.027
+      },
+      {
+        "rule": "NP -> ('Paz', 'NNP')",
+        "frequency": 2,
+        "weight": 0.018
+      },
+      {
+        "rule": "NP -> ('Valle', 'NNP')",
+        "frequency": 2,
+        "weight": 0.018
+      },
+      {
+        "rule": "NP -> ('Cauca', 'NNP')",
+        "frequency": 2,
+        "weight": 0.018
+      },
+      {
+        "rule": "S -> NP PP ('la', 'FW') NP ('(', '(') NP (')', ')') ('de', 'FW') NP ('denunció', 'FW') NP VP ('de', 'FW') ('un', 'FW') ('firmante', 'FW') ('del', 'FW') NP ('de', 'FW') NP ('en', 'FW') ('el', 'FW') ('departamento', 'FW') NP PP ('del', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.009
+      },
+      {
+        "rule": "NP -> ('El', 'NNP') ('Instituto', 'NNP')",
+        "frequency": 1,
+        "weight": 0.009
+      },
+      {
+        "rule": "NP -> ('Estudios', 'NNP') ('para', 'NN') ('el', 'NN') ('Desarrollo', 'NNP') ('y', 'NNP')",
+        "frequency": 1,
+        "weight": 0.009
+      },
+      {
+        "rule": "NP -> ('Colombia', 'NNP')",
+        "frequency": 1,
+        "weight": 0.009
+      },
+      {
+        "rule": "NP -> ('este', 'NN') ('martes', 'NNS')",
+        "frequency": 1,
+        "weight": 0.009
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El Instituto"
+      },
+      {
+        "label": "PP",
+        "text": "de Estudios para el Desarrollo y"
+      },
+      {
+        "label": "NP",
+        "text": "Estudios para el Desarrollo y"
+      },
+      {
+        "label": "NP",
+        "text": "Paz"
+      },
+      {
+        "label": "NP",
+        "text": "Indepaz"
+      },
+      {
+        "label": "NP",
+        "text": "Colombia"
+      },
+      {
+        "label": "NP",
+        "text": "este martes"
+      },
+      {
+        "label": "VP",
+        "text": "el asesinato"
+      },
+      {
+        "label": "NP",
+        "text": "asesinato"
+      },
+      {
+        "label": "NP",
+        "text": "Acuerdo"
+      },
+      {
+        "label": "NP",
+        "text": "Paz"
+      },
+      {
+        "label": "NP",
+        "text": "colombiano"
+      },
+      {
+        "label": "PP",
+        "text": "de Valle"
+      },
+      {
+        "label": "NP",
+        "text": "Valle"
+      },
+      {
+        "label": "NP",
+        "text": "Cauca"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP El/NNP Instituto/NNP)\n  (PP de/IN (NP Estudios/NNP para/NN el/NN Desarrollo/NNP y/NNP))\n  la/FW\n  (NP Paz/NNP)\n  (/(\n  (NP Indepaz/NNP)\n  )/)\n  de/FW\n  (NP Colombia/NNP)\n  denunció/FW\n  (NP este/NN martes/NNS)\n  (VP el/VBP (NP asesinato/NN))\n  de/FW\n  un/FW\n  firmante/FW\n  del/FW\n  (NP Acuerdo/NNP)\n  de/FW\n  (NP Paz/NNP)\n  en/FW\n  el/FW\n  departamento/FW\n  (NP colombiano/NN)\n  (PP de/IN (NP Valle/NNP))\n  del/FW\n  (NP Cauca/NNP)\n  ./.)",
+      "(S\n  (NP LEA/NNP TANMBIÉN/NNP)\n  :/:\n  (NP Gloria/NNP Flórez/NNP)\n  (VP\n    asume/VBP\n    (NP\n      presidencia/JJ\n      del/NN\n      partido/NN\n      Colombia/NNP\n      Humana/NNP\n      “/NNP\n      Uber/NNP\n      Noguera/NNP\n      era/NN\n      firmante/NN))\n  del/FW\n  (NP acuerdo/NN)\n  (PP de/IN (NP paz/NN))\n  ,/,\n  (NP quien/JJ actualmente/NN realizaba/NN)\n  (NP su/JJ proceso/NN)\n  de/IN\n  reincorporación/FW\n  y/FW\n  (NP comunitario/NN)\n  en/IN\n  el/FW\n  departamento/FW\n  del/FW\n  (NP Valle/NNP)\n  del/FW\n  (NP Cauca/NNP ”/NNP)\n  ,/,\n  (NP refirió/NN el/NN)\n  (NP ente/JJ colombiano/NN)\n  ./.)",
+      "(S\n  (NP De/NNP)\n  (NP igual/JJ manera/NN)\n  ,/,\n  (NP Indepaz/NNP)\n  (VP recalcó/VBZ (NP que/JJ era/NN consejero/NN))\n  de/IN\n  reincorporación/FW\n  del/FW\n  (NP Partido/NNP Comunes/NNP)\n  del/FW\n  (NP Municipio/NNP Dagua/NNP)\n  y/PRP\n  (ADJP representante/JJ)\n  (ADJP legal/JJ)\n  de/FW\n  la/FW\n  (NP Asociación/NNP Viviendista/NNP)\n  26/CD\n  (PP de/IN (NP marzo/NN))\n  ,/,\n  mientras/FW\n  acotó/FW\n  que/FW\n  (NP este/NN firmante/NN fue/NN secuestrado/NN y/NN asesinado/NN)\n  en/IN\n  la/FW\n  vereda/FW\n  (NP Digua/NNP)\n  del/FW\n  (NP corregimiento/NN Queramal/NNP)\n  (PP de/IN (NP Dagua/NNP))\n  ./.)",
+      "(S\n  (NP La/NNP Defensoría/NNP)\n  del/FW\n  (NP Pueblo/NNP)\n  emitió/FW\n  la/FW\n  (NP alerta/NN AT/NNP)\n  017/21/CD\n  (NP en/NN)\n  la/FW\n  (NP cual/JJ advierte/NN que/NN el/NN riesgo/NN para/NN los/NN)\n  (VP firmantes/VBZ (NP también/JJ se/NN fundamenta/NN))\n  en/IN\n  el/FW\n  (NP interés/NN que/NN los/NN)\n  (VP actores/VBZ (NP armados/JJ ilegales/NNS))\n  (VP tienen/VBP (NP sobre/JJ ciertos/NN territorios/NNS))\n  ;/:\n  además/FW\n  de/FW\n  obstaculizar/FW\n  su/FW\n  proceso/FW\n  de/FW\n  reincorporación/FW\n  ./.)",
+      "(S\n  (NP Entre/NNP)\n  (VP los/VBZ (NP grupos/JJ que/NN actúan/NN))\n  en/IN\n  la/FW\n  zona/FW\n  ,/,\n  (NP Indepaz/NNP)\n  (VP puntualizó/VBZ (NP al/JJ Frente/NNP Jaime/NNP Martínez/NNP))\n  del/FW\n  (NP Bloque/NNP Occidental/NNP y/NNP)\n  bandas/FW\n  de/FW\n  carácter/FW\n  (ADJP local/JJ)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "CIUDADES_CAPITALES",
+      "RECURSOS_NATURALES",
+      "TIEMPO_RELATIVO",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "ACCIONES_LEGALES",
+      "REGIONES_PROVINCIAS",
+      "INSTITUCIONES_EDUCATIVAS",
+      "PAISES",
+      "JURIDICO_LEGISLATIVO_CORRUPCION"
+    ],
+    "matches": [
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "precisó",
+        "position": [
+          1827,
+          1834
+        ],
+        "start": 1827,
+        "end": 1834
+      },
+      {
+        "category": "JURIDICO_LEGISLATIVO_CORRUPCION",
+        "matched_text": "defensoría del pueblo emitió la alerta at 017/21 en la cual advierte que el riesgo",
+        "position": [
+          749,
+          831
+        ],
+        "start": 749,
+        "end": 831
+      },
+      {
+        "category": "INSTITUCIONES_EDUCATIVAS",
+        "matched_text": "instituto de estudios",
+        "position": [
+          3,
+          24
+        ],
+        "start": 3,
+        "end": 24
+      },
+      {
+        "category": "INSTITUCIONES_EDUCATIVAS",
+        "matched_text": "departamento colombiano de valle",
+        "position": [
+          149,
+          181
+        ],
+        "start": 149,
+        "end": 181
+      },
+      {
+        "category": "ACCIONES_LEGALES",
+        "matched_text": "denunció",
+        "position": [
+          75,
+          83
+        ],
+        "start": 75,
+        "end": 83
+      },
+      {
+        "category": "RECURSOS_NATURALES",
+        "matched_text": "río",
+        "position": [
+          1578,
+          1581
+        ],
+        "start": 1578,
+        "end": 1581
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "colombia",
+        "position": [
+          66,
+          74
+        ],
+        "start": 66,
+        "end": 74
+      },
+      {
+        "category": "CIUDADES_CAPITALES",
+        "matched_text": "la paz",
+        "position": [
+          46,
+          52
+        ],
+        "start": 46,
+        "end": 52
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "departamento colombiano",
+        "position": [
+          149,
+          172
+        ],
+        "start": 149,
+        "end": 172
+      },
+      {
+        "category": "TIEMPO_RELATIVO",
+        "matched_text": "actualmente",
+        "position": [
+          320,
+          331
+        ],
+        "start": 320,
+        "end": 331
+      }
+    ],
+    "match_count": 10
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Asociación Viviendista",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Digua",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Uber Noguera",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "AT",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Valle del Cauca",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Fuerza Pública",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Indepaz",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Instituto de Estudios para el Desarrollo y la Paz",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Gloria Flórez",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Ejército Nacional",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Partido Comunes",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Noguera",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Policía Nacional",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "La Defensoría del Pueblo",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Comunes",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Dagua",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "partido Colombia Humana\n“Uber",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Partido Comunes del Municipio Dagua",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Frente Jaime Martínez",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Uber",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Bloque Occidental",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "departamento del Valle del Cauca",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Instituto de Estudios para el Desarrollo y la Paz",
+        "relacion": "DENUNCIAR",
+        "objeto": "Valle del Cauca"
+      },
+      {
+        "sujeto": "Gloria Flórez",
+        "relacion": "ASUMIR_REFERIR",
+        "objeto": "partido Colombia Humana\n“Uber"
+      },
+      {
+        "sujeto": "Gloria Flórez",
+        "relacion": "ASUMIR_REFERIR",
+        "objeto": "Noguera"
+      },
+      {
+        "sujeto": "Gloria Flórez",
+        "relacion": "ASUMIR_REFERIR",
+        "objeto": "departamento del Valle del Cauca"
+      },
+      {
+        "sujeto": "partido Colombia Humana\n“Uber",
+        "relacion": "ASUMIR_REFERIR",
+        "objeto": "Noguera"
+      },
+      {
+        "sujeto": "partido Colombia Humana\n“Uber",
+        "relacion": "ASUMIR_REFERIR",
+        "objeto": "departamento del Valle del Cauca"
+      },
+      {
+        "sujeto": "Indepaz",
+        "relacion": "RECALCAR",
+        "objeto": "Partido Comunes del Municipio Dagua"
+      },
+      {
+        "sujeto": "Indepaz",
+        "relacion": "RECALCAR",
+        "objeto": "Asociación Viviendista"
+      },
+      {
+        "sujeto": "Indepaz",
+        "relacion": "RECALCAR",
+        "objeto": "Digua"
+      },
+      {
+        "sujeto": "Indepaz",
+        "relacion": "RECALCAR",
+        "objeto": "Dagua"
+      },
+      {
+        "sujeto": "Partido Comunes del Municipio Dagua",
+        "relacion": "RECALCAR",
+        "objeto": "Digua"
+      },
+      {
+        "sujeto": "Partido Comunes del Municipio Dagua",
+        "relacion": "RECALCAR",
+        "objeto": "Dagua"
+      },
+      {
+        "sujeto": "Asociación Viviendista",
+        "relacion": "RECALCAR",
+        "objeto": "Digua"
+      },
+      {
+        "sujeto": "Asociación Viviendista",
+        "relacion": "RECALCAR",
+        "objeto": "Dagua"
+      },
+      {
+        "sujeto": "La Defensoría del Pueblo",
+        "relacion": "EMITIR",
+        "objeto": "AT"
+      },
+      {
+        "sujeto": "Indepaz",
+        "relacion": "PUNTUALIZAR",
+        "objeto": "Frente Jaime Martínez"
+      },
+      {
+        "sujeto": "Indepaz",
+        "relacion": "PUNTUALIZAR",
+        "objeto": "Bloque Occidental"
+      },
+      {
+        "sujeto": "Frente Jaime Martínez",
+        "relacion": "PUNTUALIZAR",
+        "objeto": "Bloque Occidental"
+      },
+      {
+        "sujeto": "Valle del Cauca",
+        "relacion": "REFERIR",
+        "objeto": "Fuerza Pública"
+      },
+      {
+        "sujeto": "Valle del Cauca",
+        "relacion": "REFERIR",
+        "objeto": "Policía Nacional"
+      },
+      {
+        "sujeto": "Valle del Cauca",
+        "relacion": "REFERIR",
+        "objeto": "Ejército Nacional"
+      },
+      {
+        "sujeto": "Uber",
+        "relacion": "REFERIR",
+        "objeto": "Valle del Cauca"
+      },
+      {
+        "sujeto": "Partido Comunes",
+        "relacion": "REFERIR",
+        "objeto": "Fuerza Pública"
+      },
+      {
+        "sujeto": "Partido Comunes",
+        "relacion": "REFERIR",
+        "objeto": "Policía Nacional"
+      },
+      {
+        "sujeto": "Partido Comunes",
+        "relacion": "REFERIR",
+        "objeto": "Ejército Nacional"
+      },
+      {
+        "sujeto": "Uber",
+        "relacion": "REFERIR",
+        "objeto": "Partido Comunes"
+      },
+      {
+        "sujeto": "Policía Nacional",
+        "relacion": "EN_DENUNCIAR_REFERIR",
+        "objeto": "Ejército Nacional"
+      },
+      {
+        "sujeto": "Uber",
+        "relacion": "EN_DENUNCIAR_REFERIR",
+        "objeto": "Policía Nacional"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.4404,
+    "pos": 0.005,
+    "neu": 0.979,
+    "neg": 0.015,
+    "label": "negative"
+  }
+}

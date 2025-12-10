@@ -1,0 +1,904 @@
+{
+  "url": "https://www.telesurtv.net/policia-de-rio-negro-argentina-asesina-a-un-mapuche-y-hiere-a-otro/",
+  "title": "Policía de Río Negro, Argentina, asesina a un mapuche y hiere a otro - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "Argentina",
+    "Asesinato",
+    "mapuche"
+  ],
+  "text": "La Policía de El Bolsón, en la provincia de Río Negro, en la zona central de Argentina, mató este domingo al mapuche Juan Carlos Villa y hirió a otra persona cuando llevó a cabo un allanamiento, después de una supuesta denuncia de vecinos, en el marco del discurso de odio que habilitan los gobiernos, empresarios y la Justicia contra el pueblo Mapuche.\nEl hallamiento ocurrió en la casa de Villa en Rinconada Inalef, en el paraje Mallín Ahogado, y según la información que circula, en una situación confusa Villa fue asesinado por la Policía que hirió de gravedad a Emanuel Mol, quien fue trasladado al Hospital de Área El Bolsón, donde permanece internado.\nLa Rinconada Inalef ha recibido una serie de amenazas de desalojo y ataques desde la modificación del Código de Tierras de Río Negro y los intereses inmobiliarios promovidos por el ejecutivo municipal de Bruno Pogliano en la zona rural de Mallin Ahogado. Este hecho, aunque se trata de una zona cercana, no forma parte de la misma Lof.\nEl acceso al paraje rural fue pavimentado y se modificó el sistema de planificación territorial para favorecer los loteos particulares como parte del endeudamiento provincial del Plan Castelló. Debido a esto, los antiguos residentes fueron amenazados por supuestos dueños que poseían títulos de propiedad falsos. Uno de estos “propietarios” amenaza a la Lof Inalef, que ha logrado reconocer judicialmente su posesión territorial.\nLos gobiernos de Río Negro y Chubut han empeorado los discursos en contra de los mapuches, junto con una campaña mediática agresiva y una ofensiva judicial en el marco de la Ley Bases y el RIGI, lo que permite que las fuerzas represivas actúen de manera criminal en los territorios de las comunidades.\nEl asesinato de Villa debe entenderse en el contexto en el que se lleva a cabo el juicio de desalojo de la Lof Quemquemtrew en la Cuesta del Ternero, Río Negro, que se llevará a cabo el próximo 16 de agosto. Así como la decisión judicial que solicita el desalojo de la Lof Paillako en las cercanías de Esquel, dentro del Parque Nacional Los Alerces, Chubut.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/policia-de-rio-negro-argentina-asesina-a-un-mapuche-y-hiere-a-otro/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-08.json",
+    "message_index": 1104,
+    "message_id": 74385,
+    "date": "2024-08-12T06:55:07+00:00",
+    "text": "teleSUR\nPolicía de Río Negro, Argentina, asesina a un mapuche y hiere a otro\nhttps://www.telesurtv.net/policia-de-rio-negro-argentina-asesina-a-un-mapuche-y-hiere-a-otro/",
+    "photo_path": null,
+    "views": 3403,
+    "reactions": {
+      "🤬": 59,
+      "👎": 10,
+      "😡": 5,
+      "🔥": 2,
+      "👍": 1
+    },
+    "total_reactions": 77
+  },
+  "preprocessing": {
+    "cleaned": "la policía de el bolsón, en la provincia de río negro, en la zona central de argentina, mató este domingo al mapuche juan carlos villa y hirió a otra persona cuando llevó a cabo un allanamiento, después de una supuesta denuncia de vecinos, en el marco del discurso de odio que habilitan los gobiernos, empresarios y la justicia contra el pueblo mapuche. el hallamiento ocurrió en la casa de villa en rinconada inalef, en el paraje mallín ahogado, y según la información que circula, en una situación confusa villa fue asesinado por la policía que hirió de gravedad a emanuel mol, quien fue trasladado al hospital de área el bolsón, donde permanece internado. la rinconada inalef ha recibido una serie de amenazas de desalojo y ataques desde la modificación del código de tierras de río negro y los intereses inmobiliarios promovidos por el ejecutivo municipal de bruno pogliano en la zona rural de mallin ahogado. este hecho, aunque se trata de una zona cercana, no forma parte de la misma lof. el acceso al paraje rural fue pavimentado y se modificó el sistema de planificación territorial para favorecer los loteos particulares como parte del endeudamiento provincial del plan castelló. debido a esto, los antiguos residentes fueron amenazados por supuestos dueños que poseían títulos de propiedad falsos. uno de estos “propietarios” amenaza a la lof inalef, que ha logrado reconocer judicialmente su posesión territorial. los gobiernos de río negro y chubut han empeorado los discursos en contra de los mapuches, junto con una campaña mediática agresiva y una ofensiva judicial en el marco de la ley bases y el rigi, lo que permite que las fuerzas represivas actúen de manera criminal en los territorios de las comunidades. el asesinato de villa debe entenderse en el contexto en el que se lleva a cabo el juicio de desalojo de la lof quemquemtrew en la cuesta del ternero, río negro, que se llevará a cabo el próximo 16 de agosto. así como la decisión judicial que solicita el desalojo de la lof paillako en las cercanías de esquel, dentro del parque nacional los alerces, chubut.",
+    "tokens": [
+      "policía",
+      "bolsón",
+      ",",
+      "provincia",
+      "río",
+      "negro",
+      ",",
+      "zona",
+      "central",
+      "argentina",
+      ",",
+      "mató",
+      "domingo",
+      "mapuche",
+      "juan",
+      "carlos",
+      "villa",
+      "hirió",
+      "persona",
+      "llevó",
+      "cabo",
+      "allanamiento",
+      ",",
+      "después",
+      "supuesta",
+      "denuncia",
+      "vecinos",
+      ",",
+      "marco",
+      "discurso",
+      "odio",
+      "habilitan",
+      "gobiernos",
+      ",",
+      "empresarios",
+      "justicia",
+      "pueblo",
+      "mapuche",
+      ".",
+      "hallamiento",
+      "ocurrió",
+      "casa",
+      "villa",
+      "rinconada",
+      "inalef",
+      ",",
+      "paraje",
+      "mallín",
+      "ahogado",
+      ",",
+      "según",
+      "información",
+      "circula",
+      ",",
+      "situación",
+      "confusa",
+      "villa",
+      "asesinado",
+      "policía",
+      "hirió",
+      "gravedad",
+      "emanuel",
+      "mol",
+      ",",
+      "trasladado",
+      "hospital",
+      "área",
+      "bolsón",
+      ",",
+      "permanece",
+      "internado",
+      ".",
+      "rinconada",
+      "inalef",
+      "recibido",
+      "serie",
+      "amenazas",
+      "desalojo",
+      "ataques",
+      "modificación",
+      "código",
+      "tierras",
+      "río",
+      "negro",
+      "intereses",
+      "inmobiliarios",
+      "promovidos",
+      "ejecutivo",
+      "municipal",
+      "bruno",
+      "pogliano",
+      "zona",
+      "rural",
+      "mallin",
+      "ahogado",
+      ".",
+      "hecho",
+      ",",
+      "aunque",
+      "trata",
+      "zona",
+      "cercana",
+      ",",
+      "forma",
+      "parte",
+      "misma",
+      "lof",
+      ".",
+      "acceso",
+      "paraje",
+      "rural",
+      "pavimentado",
+      "modificó",
+      "sistema",
+      "planificación",
+      "territorial",
+      "favorecer",
+      "loteos",
+      "particulares",
+      "parte",
+      "endeudamiento",
+      "provincial",
+      "plan",
+      "castelló",
+      ".",
+      "debido",
+      ",",
+      "antiguos",
+      "residentes",
+      "amenazados",
+      "supuestos",
+      "dueños",
+      "poseían",
+      "títulos",
+      "propiedad",
+      "falsos",
+      ".",
+      "“",
+      "propietarios",
+      "”",
+      "amenaza",
+      "lof",
+      "inalef",
+      ",",
+      "logrado",
+      "reconocer",
+      "judicialmente",
+      "posesión",
+      "territorial",
+      ".",
+      "gobiernos",
+      "río",
+      "negro",
+      "chubut",
+      "empeorado",
+      "discursos",
+      "mapuches",
+      ",",
+      "junto",
+      "campaña",
+      "mediática",
+      "agresiva",
+      "ofensiva",
+      "judicial",
+      "marco",
+      "ley",
+      "bases",
+      "rigi",
+      ",",
+      "permite",
+      "fuerzas",
+      "represivas",
+      "actúen",
+      "manera",
+      "criminal",
+      "territorios",
+      "comunidades",
+      ".",
+      "asesinato",
+      "villa",
+      "debe",
+      "entenderse",
+      "contexto",
+      "lleva",
+      "cabo",
+      "juicio",
+      "desalojo",
+      "lof",
+      "quemquemtrew",
+      "cuesta",
+      "ternero",
+      ",",
+      "río",
+      "negro",
+      ",",
+      "llevará",
+      "cabo",
+      "próximo",
+      "16",
+      "agosto",
+      ".",
+      "así",
+      "decisión",
+      "judicial",
+      "solicita",
+      "desalojo",
+      "lof",
+      "paillako",
+      "cercanías",
+      "esquel",
+      ",",
+      "dentro",
+      "parque",
+      "nacional",
+      "alerces",
+      ",",
+      "chubut",
+      "."
+    ],
+    "token_count": 218,
+    "sentence_count": 10
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 68,
+      "IN": 17,
+      "FW": 87,
+      "JJ": 39,
+      "NN": 96,
+      "NNS": 9,
+      "VBP": 11,
+      "VBD": 2,
+      "VBZ": 5,
+      "DT": 1,
+      "CD": 1
+    },
+    "bigram_freq": {
+      "NNP-NNP": 30,
+      "NNP-IN": 1,
+      "IN-NNP": 3,
+      "NNP-FW": 13,
+      "FW-FW": 47,
+      "FW-NNP": 20,
+      "FW-JJ": 6,
+      "JJ-FW": 4,
+      "FW-NN": 9,
+      "NN-NN": 49,
+      "NN-NNP": 7,
+      "NNP-NN": 16,
+      "NN-JJ": 10,
+      "JJ-IN": 1,
+      "IN-NN": 1,
+      "NN-IN": 14,
+      "IN-JJ": 2,
+      "JJ-JJ": 7,
+      "JJ-NN": 19,
+      "IN-FW": 11,
+      "JJ-NNS": 3,
+      "NNS-VBP": 7,
+      "VBP-NNP": 2,
+      "NNP-VBD": 2,
+      "VBD-FW": 1,
+      "NN-FW": 11,
+      "JJ-NNP": 4,
+      "NNP-VBZ": 3,
+      "VBZ-NN": 1,
+      "FW-NNS": 4,
+      "VBP-JJ": 8,
+      "NN-VBZ": 1,
+      "VBZ-NNS": 1,
+      "NNS-JJ": 1,
+      "FW-VBZ": 1,
+      "VBZ-DT": 1,
+      "DT-JJ": 1,
+      "VBZ-JJ": 2,
+      "NN-VBP": 3,
+      "VBD-JJ": 1,
+      "VBP-NN": 1,
+      "NNP-VBP": 1,
+      "NN-NNS": 1,
+      "NNS-NNP": 1,
+      "NNP-JJ": 1,
+      "JJ-CD": 1,
+      "CD-IN": 1
+    },
+    "trigram_freq": {
+      "NNP-NNP-IN": 1,
+      "NNP-IN-NNP": 1,
+      "IN-NNP-NNP": 2,
+      "NNP-NNP-FW": 6,
+      "NNP-FW-FW": 8,
+      "FW-FW-FW": 26,
+      "FW-FW-NNP": 11,
+      "FW-NNP-NNP": 13,
+      "FW-FW-JJ": 2,
+      "FW-JJ-FW": 3,
+      "JJ-FW-NNP": 2,
+      "FW-NNP-FW": 5,
+      "NNP-FW-NN": 1,
+      "FW-NN-NN": 2,
+      "NN-NN-NN": 22,
+      "NN-NN-NNP": 7,
+      "NN-NNP-NNP": 5,
+      "NNP-NNP-NNP": 8,
+      "NNP-NNP-NN": 8,
+      "NNP-NN-NN": 13,
+      "NN-NN-JJ": 9,
+      "NN-JJ-IN": 1,
+      "JJ-IN-NN": 1,
+      "IN-NN-IN": 1,
+      "NN-IN-JJ": 2,
+      "IN-JJ-JJ": 1,
+      "JJ-JJ-NN": 4,
+      "JJ-NN-IN": 7,
+      "NN-IN-FW": 10,
+      "IN-FW-FW": 4,
+      "FW-FW-NN": 4,
+      "NN-JJ-NNS": 2,
+      "JJ-NNS-VBP": 3,
+      "NNS-VBP-NNP": 1,
+      "VBP-NNP-NN": 2,
+      "NN-NN-IN": 2,
+      "NNP-FW-NNP": 4,
+      "NNP-NNP-VBD": 2,
+      "NNP-VBD-FW": 1,
+      "VBD-FW-FW": 1,
+      "FW-NN-FW": 5,
+      "NN-FW-JJ": 1,
+      "FW-JJ-NN": 2,
+      "JJ-NN-NN": 11,
+      "NN-NNP-NN": 2,
+      "IN-FW-NNP": 3,
+      "NN-JJ-NNP": 1,
+      "JJ-NNP-FW": 2,
+      "NNP-NNP-VBZ": 3,
+      "NNP-VBZ-NN": 1,
+      "VBZ-NN-NN": 1,
+      "NN-JJ-NN": 5,
+      "FW-FW-NNS": 3,
+      "FW-NNS-VBP": 3,
+      "NNS-VBP-JJ": 5,
+      "VBP-JJ-FW": 1,
+      "JJ-FW-FW": 2,
+      "NNP-NN-VBZ": 1,
+      "NN-VBZ-NNS": 1,
+      "VBZ-NNS-JJ": 1,
+      "NNS-JJ-JJ": 1,
+      "NN-NN-FW": 5,
+      "NN-FW-FW": 6,
+      "NN-FW-NN": 4,
+      "FW-FW-VBZ": 1,
+      "FW-VBZ-DT": 1,
+      "VBZ-DT-JJ": 1,
+      "DT-JJ-NN": 1,
+      "NNP-VBZ-JJ": 2,
+      "VBZ-JJ-JJ": 2,
+      "JJ-JJ-JJ": 2,
+      "FW-NN-IN": 2,
+      "IN-FW-JJ": 3,
+      "VBP-JJ-NN": 4,
+      "IN-JJ-NN": 1,
+      "JJ-JJ-NNS": 1,
+      "FW-JJ-NNP": 1,
+      "VBP-JJ-NNP": 2,
+      "JJ-NNP-NNP": 1,
+      "NN-NN-VBP": 3,
+      "NN-VBP-JJ": 3,
+      "JJ-NNP-NN": 1,
+      "NNP-NN-IN": 2,
+      "NN-IN-NNP": 2,
+      "NNP-VBD-JJ": 1,
+      "VBD-JJ-NN": 1,
+      "IN-FW-NNS": 1,
+      "NNS-VBP-NN": 1,
+      "VBP-NN-JJ": 1,
+      "NN-JJ-JJ": 1,
+      "NNP-NNP-VBP": 1,
+      "NNP-VBP-NNP": 1,
+      "NN-NN-NNS": 1,
+      "NN-NNS-VBP": 1,
+      "FW-NNS-NNP": 1,
+      "NNS-NNP-NN": 1,
+      "IN-NNP-JJ": 1,
+      "NNP-JJ-NN": 1,
+      "JJ-NN-FW": 1,
+      "VBP-JJ-CD": 1,
+      "JJ-CD-IN": 1,
+      "CD-IN-FW": 1,
+      "FW-NNP-NN": 2
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 96,
+        "FW": 87,
+        "NNP": 68,
+        "JJ": 39,
+        "IN": 17
+      },
+      "top_bigrams": {
+        "NN-NN": 49,
+        "FW-FW": 47,
+        "NNP-NNP": 30,
+        "FW-NNP": 20,
+        "JJ-NN": 19
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 26,
+        "NN-NN-NN": 22,
+        "FW-NNP-NNP": 13,
+        "NNP-NN-NN": 13,
+        "FW-FW-NNP": 11
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 10,
+    "chunk_counts": {
+      "NP": 84,
+      "PP": 5,
+      "ADJP": 4,
+      "VP": 17
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 3,
+        "weight": 0.025
+      },
+      {
+        "rule": "NP -> ('El', 'NNP') ('Bolsón', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0167
+      },
+      {
+        "rule": "NP -> ('Río', 'NNP') ('Negro', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0167
+      },
+      {
+        "rule": "NP -> ('Villa', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0167
+      },
+      {
+        "rule": "S -> NP PP (',', ',') ('en', 'FW') ('la', 'FW') ('provincia', 'FW') ('de', 'FW') NP (',', ',') ('en', 'FW') ('la', 'FW') ('zona', 'FW') ADJP ('de', 'FW') NP (',', ',') NP VP VP (',', ',') ('después', 'FW') ('de', 'FW') ('una', 'FW') NP ('de', 'IN') ('vecinos', 'FW') (',', ',') ('en', 'FW') ('el', 'FW') ('marco', 'FW') ('del', 'FW') ('discurso', 'FW') ('de', 'FW') ('odio', 'FW') NP (',', ',') ('empresarios', 'FW') ('y', 'FW') ('la', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0083
+      },
+      {
+        "rule": "NP -> ('La', 'NNP') ('Policía', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0083
+      },
+      {
+        "rule": "ADJP -> ('central', 'JJ')",
+        "frequency": 1,
+        "weight": 0.0083
+      },
+      {
+        "rule": "NP -> ('Argentina', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0083
+      },
+      {
+        "rule": "NP -> ('mató', 'NN') ('este', 'NN') ('domingo', 'NN') ('al', 'NN') ('mapuche', 'NN') ('Juan', 'NNP') ('Carlos', 'NNP') ('Villa', 'NNP') ('y', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0083
+      },
+      {
+        "rule": "VP -> ('hirió', 'VBD') NP",
+        "frequency": 1,
+        "weight": 0.0083
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "La Policía"
+      },
+      {
+        "label": "PP",
+        "text": "de El Bolsón"
+      },
+      {
+        "label": "NP",
+        "text": "El Bolsón"
+      },
+      {
+        "label": "NP",
+        "text": "Río Negro"
+      },
+      {
+        "label": "ADJP",
+        "text": "central"
+      },
+      {
+        "label": "NP",
+        "text": "Argentina"
+      },
+      {
+        "label": "NP",
+        "text": "mató este domingo al mapuche Juan Carlos Villa y"
+      },
+      {
+        "label": "VP",
+        "text": "hirió a otra persona cuando"
+      },
+      {
+        "label": "NP",
+        "text": "a otra persona cuando"
+      },
+      {
+        "label": "VP",
+        "text": "llevó a cabo un allanamiento"
+      },
+      {
+        "label": "NP",
+        "text": "a cabo un allanamiento"
+      },
+      {
+        "label": "NP",
+        "text": "supuesta denuncia"
+      },
+      {
+        "label": "NP",
+        "text": "que habilitan los gobiernos"
+      },
+      {
+        "label": "NP",
+        "text": "Justicia contra el pueblo Mapuche"
+      },
+      {
+        "label": "NP",
+        "text": "El hallamiento ocurrió"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP La/NNP Policía/NNP)\n  (PP de/IN (NP El/NNP Bolsón/NNP))\n  ,/,\n  en/FW\n  la/FW\n  provincia/FW\n  de/FW\n  (NP Río/NNP Negro/NNP)\n  ,/,\n  en/FW\n  la/FW\n  zona/FW\n  (ADJP central/JJ)\n  de/FW\n  (NP Argentina/NNP)\n  ,/,\n  (NP\n    mató/NN\n    este/NN\n    domingo/NN\n    al/NN\n    mapuche/NN\n    Juan/NNP\n    Carlos/NNP\n    Villa/NNP\n    y/NNP)\n  (VP hirió/VBD (NP a/DT otra/JJ persona/NN cuando/NN))\n  (VP llevó/VBZ (NP a/DT cabo/NN un/NN allanamiento/NN))\n  ,/,\n  después/FW\n  de/FW\n  una/FW\n  (NP supuesta/JJ denuncia/NN)\n  de/IN\n  vecinos/FW\n  ,/,\n  en/FW\n  el/FW\n  marco/FW\n  del/FW\n  discurso/FW\n  de/FW\n  odio/FW\n  (NP que/NN habilitan/NN los/NN gobiernos/NN)\n  ,/,\n  empresarios/FW\n  y/FW\n  la/FW\n  (NP Justicia/NNP contra/NN el/NN pueblo/NN Mapuche/NNP)\n  ./.)",
+      "(S\n  (NP El/NNP hallamiento/NN ocurrió/NN)\n  en/IN\n  la/FW\n  casa/FW\n  de/FW\n  (NP Villa/NNP)\n  en/FW\n  (NP Rinconada/NNP Inalef/NNP)\n  ,/,\n  en/FW\n  el/FW\n  paraje/FW\n  (NP Mallín/NNP Ahogado/NNP)\n  ,/,\n  y/RB\n  (NP según/JJ la/NN información/NN que/NN circula/NN)\n  ,/,\n  en/FW\n  (NP\n    una/JJ\n    situación/NN\n    confusa/NN\n    Villa/NNP\n    fue/NN\n    asesinado/NN\n    por/NN\n    la/NN\n    Policía/NNP\n    que/NN\n    hirió/NN)\n  de/IN\n  gravedad/FW\n  (NP a/DT Emanuel/NNP Mol/NNP)\n  ,/,\n  (NP quien/NN fue/NN trasladado/NN)\n  (NP al/JJ Hospital/NNP)\n  de/FW\n  Área/FW\n  (NP El/NNP Bolsón/NNP)\n  ,/,\n  (VP donde/VBZ (NP permanece/NN internado/NN))\n  ./.)",
+      "(S\n  (NP La/NNP Rinconada/NNP Inalef/NNP ha/NN recibido/NN)\n  (NP una/JJ serie/NN)\n  de/IN\n  amenazas/FW\n  de/FW\n  desalojo/FW\n  y/FW\n  (NP ataques/NNS)\n  (VP desde/VBP la/JJ)\n  modificación/FW\n  del/FW\n  (NP Código/NNP)\n  de/FW\n  (NP Tierras/NNP)\n  de/FW\n  (NP Río/NNP Negro/NNP y/NNP los/NN)\n  (VP\n    intereses/VBZ\n    (NP inmobiliarios/NNS)\n    (NP promovidos/JJ por/JJ el/NN ejecutivo/NN))\n  municipal/FW\n  de/FW\n  (NP Bruno/NNP Pogliano/NNP)\n  en/FW\n  la/FW\n  zona/FW\n  (ADJP rural/JJ)\n  de/FW\n  (NP Mallin/NNP Ahogado/NNP)\n  ./.)",
+      "(S\n  (NP Este/NN hecho/NN)\n  ,/,\n  (ADJP aunque/JJ)\n  se/FW\n  (NP trata/NN)\n  de/FW\n  una/FW\n  (NP zona/NN cercana/NN)\n  ,/,\n  (NP no/DT forma/JJ parte/NN)\n  de/IN\n  la/FW\n  misma/FW\n  (NP Lof/NNP)\n  ./.)",
+      "(S\n  (NP El/NNP acceso/NN al/NN)\n  (NP\n    paraje/JJ\n    rural/JJ\n    fue/NN\n    pavimentado/NN\n    y/NN\n    se/NN\n    modificó/NN)\n  el/FW\n  (NP sistema/NN)\n  de/IN\n  planificación/FW\n  (NP territorial/JJ para/NN favorecer/NN los/NN)\n  (NP loteos/JJ particulares/NNS)\n  (VP como/VBP (NP parte/JJ del/NN))\n  (PP\n    endeudamiento/IN\n    (NP provincial/JJ del/NN Plan/NN Castelló/NNP))\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "GRUPOS_ESPECIFICOS",
+      "RECURSOS_NATURALES",
+      "REGIONES_PROVINCIAS",
+      "PAISES",
+      "LOCALIZACIONES_ESPECIFICAS",
+      "INFRAESTRUCTURA_SERVICIOS",
+      "CONFLICTOS_ARMADOS_OPERACIONES"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "ofensiva judicial en el marco de la ley bases y el rigi, lo que permite que las fuerzas",
+        "position": [
+          1563,
+          1650
+        ],
+        "start": 1563,
+        "end": 1650
+      },
+      {
+        "category": "GRUPOS_ESPECIFICOS",
+        "matched_text": "empresarios",
+        "position": [
+          302,
+          313
+        ],
+        "start": 302,
+        "end": 313
+      },
+      {
+        "category": "RECURSOS_NATURALES",
+        "matched_text": "río",
+        "position": [
+          44,
+          47
+        ],
+        "start": 44,
+        "end": 47
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "hospital",
+        "position": [
+          604,
+          612
+        ],
+        "start": 604,
+        "end": 612
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "argentina",
+        "position": [
+          77,
+          86
+        ],
+        "start": 77,
+        "end": 86
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "provincia de",
+        "position": [
+          31,
+          43
+        ],
+        "start": 31,
+        "end": 43
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "parque nacional",
+        "position": [
+          2048,
+          2063
+        ],
+        "start": 2048,
+        "end": 2063
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "hospital de",
+        "position": [
+          604,
+          615
+        ],
+        "start": 604,
+        "end": 615
+      }
+    ],
+    "match_count": 8
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Río Negro",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Villa",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Plan Castelló",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Rinconada Inalef",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Parque Nacional Los Alerces",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Lof Paillako",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Lof Quemquemtrew",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "RIGI",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Mallin Ahogado",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Lof",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Juan Carlos Villa",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "provincia de Río Negro",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Argentina",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Mallín Ahogado",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Mapuche",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Hospital de Área El Bolsón",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Chubut",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Policía de El Bolsón",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Esquel",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Bruno Pogliano",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Cuesta del Ternero",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Emanuel Mol",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Lof Inalef",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Policía",
+        "tipo": "Organizacion"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Policía de El Bolsón",
+        "relacion": "MATAR",
+        "objeto": "Juan Carlos Villa"
+      },
+      {
+        "sujeto": "Policía de El Bolsón",
+        "relacion": "MATAR",
+        "objeto": "Mapuche"
+      },
+      {
+        "sujeto": "provincia de Río Negro",
+        "relacion": "MATAR",
+        "objeto": "Juan Carlos Villa"
+      },
+      {
+        "sujeto": "provincia de Río Negro",
+        "relacion": "MATAR",
+        "objeto": "Mapuche"
+      },
+      {
+        "sujeto": "Argentina",
+        "relacion": "MATAR",
+        "objeto": "Juan Carlos Villa"
+      },
+      {
+        "sujeto": "Argentina",
+        "relacion": "MATAR",
+        "objeto": "Mapuche"
+      },
+      {
+        "sujeto": "Juan Carlos Villa",
+        "relacion": "MATAR",
+        "objeto": "Mapuche"
+      },
+      {
+        "sujeto": "Villa",
+        "relacion": "OCURRIR",
+        "objeto": "Rinconada Inalef"
+      },
+      {
+        "sujeto": "Rinconada Inalef",
+        "relacion": "OCURRIR",
+        "objeto": "Policía"
+      },
+      {
+        "sujeto": "Rinconada Inalef",
+        "relacion": "OCURRIR",
+        "objeto": "Emanuel Mol"
+      },
+      {
+        "sujeto": "Rinconada Inalef",
+        "relacion": "OCURRIR",
+        "objeto": "Hospital de Área El Bolsón"
+      },
+      {
+        "sujeto": "Villa",
+        "relacion": "OCURRIR",
+        "objeto": "Mallín Ahogado"
+      },
+      {
+        "sujeto": "Mallín Ahogado",
+        "relacion": "OCURRIR",
+        "objeto": "Policía"
+      },
+      {
+        "sujeto": "Mallín Ahogado",
+        "relacion": "OCURRIR",
+        "objeto": "Emanuel Mol"
+      },
+      {
+        "sujeto": "Mallín Ahogado",
+        "relacion": "OCURRIR",
+        "objeto": "Hospital de Área El Bolsón"
+      },
+      {
+        "sujeto": "Villa",
+        "relacion": "ASESINAR_OCURRIR",
+        "objeto": "Policía"
+      },
+      {
+        "sujeto": "Villa",
+        "relacion": "ASESINAR_OCURRIR",
+        "objeto": "Emanuel Mol"
+      },
+      {
+        "sujeto": "Villa",
+        "relacion": "ASESINAR_OCURRIR",
+        "objeto": "Hospital de Área El Bolsón"
+      },
+      {
+        "sujeto": "Río Negro",
+        "relacion": "EMPEORAR",
+        "objeto": "RIGI"
+      },
+      {
+        "sujeto": "Chubut",
+        "relacion": "EMPEORAR",
+        "objeto": "RIGI"
+      },
+      {
+        "sujeto": "Villa",
+        "relacion": "ENTENDER_L",
+        "objeto": "Lof Quemquemtrew"
+      },
+      {
+        "sujeto": "Villa",
+        "relacion": "ENTENDER_L",
+        "objeto": "Cuesta del Ternero"
+      },
+      {
+        "sujeto": "Villa",
+        "relacion": "ENTENDER_L",
+        "objeto": "Río Negro"
+      },
+      {
+        "sujeto": "Lof Paillako",
+        "relacion": "SOLICITAR",
+        "objeto": "Parque Nacional Los Alerces"
+      },
+      {
+        "sujeto": "Esquel",
+        "relacion": "SOLICITAR",
+        "objeto": "Parque Nacional Los Alerces"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.2023,
+    "pos": 0.014,
+    "neu": 0.97,
+    "neg": 0.016,
+    "label": "negative"
+  }
+}

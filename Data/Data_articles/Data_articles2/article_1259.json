@@ -1,0 +1,736 @@
+{
+  "url": "https://www.telesurtv.net/autoridades-birmania-anuncian-alto-al-fuego/",
+  "title": "Autoridades de Myanmar anuncian un alto al fuego temporal - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Alto al Fuego",
+    "Autoridades",
+    "myanmar",
+    "Temporal"
+  ],
+  "text": "La junta militar de Myanmar declaró este miércoles un alto al fuego temporal de tres semanas en el conflicto de la nación, con el objetivo de hacerle frente al devastador terremoto que azotó la nación el pasado 28 de marzo.\nMedios locales difundieron que “expresando su solidaridad y entendimiento a las personas afectadas por el terremoto en todo el país y con el fin de acelerar los esfuerzos de socorro y reconstrucción y mantener la paz y la estabilidad, las Fuerzas Armadas de Myanmar declaran un alto el fuego temporal del 2 al 22 de abril”.\n\n\nDurante el periodo que se extienda el alto al fuego de carácter temporal, se les impide a los grupos armados étnicos y otros grupos armados, impedir la libre circulación por las vías de tránsito usadas por la población, así como causar daños a la vida y bienes de la población, ó agredir las unidades de las fuerzas de seguridad que ejecutan acciones para garantizar la seguridad y el orden público, entre otros.\n\n“Si se adoptan esas medidas, las Fuerzas Armadas de Myanmar adoptarán las contramedidas necesarias para proteger a la población“, añadió la nota.\nCon anterioridad los grupos armados étnicos opuestos al Gobierno de Myanmar de la triple alianza, declararon un alto al fuego de 30 días en sus puntos de contacto con las tropas del gobierno, para enfrentar los daños del terremoto y posibilitar la libre circulación de los convoyes con ayuda humanitaria.\nLa Fuerza de Defensa del Pueblo, subordinada al grupo clandestino de oposición Gobierno de Unidad Nacional,  hasta el momento no había definido un alto al fuego en las zonas que controlan.\nDespués de que en 2021 los militares volvieran al poder y destituyeran al Gobierno civil, se originó el conflicto armado entre las fuerzas gubernamentales de Myanmar y la oposición armada, dichos grupos étnicos paramilitares se unieron a otros grupos armados juveniles y estudiantiles, contrarios a las autoridades militares.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/autoridades-birmania-anuncian-alto-al-fuego/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-04.json",
+    "message_index": 1917,
+    "message_id": 90891,
+    "date": "2025-04-02T23:55:18+00:00",
+    "text": "teleSUR\nAutoridades de Birmania anuncian un alto al fuego temporal\nhttps://www.telesurtv.net/autoridades-birmania-anuncian-alto-al-fuego/",
+    "photo_path": null,
+    "views": 1436,
+    "reactions": {
+      "🤔": 17,
+      "😢": 3,
+      "🥰": 1
+    },
+    "total_reactions": 21
+  },
+  "preprocessing": {
+    "cleaned": "la junta militar de myanmar declaró este miércoles un alto al fuego temporal de tres semanas en el conflicto de la nación, con el objetivo de hacerle frente al devastador terremoto que azotó la nación el pasado 28 de marzo. medios locales difundieron que “expresando su solidaridad y entendimiento a las personas afectadas por el terremoto en todo el país y con el fin de acelerar los esfuerzos de socorro y reconstrucción y mantener la paz y la estabilidad, las fuerzas armadas de myanmar declaran un alto el fuego temporal del 2 al 22 de abril”. durante el periodo que se extienda el alto al fuego de carácter temporal, se les impide a los grupos armados étnicos y otros grupos armados, impedir la libre circulación por las vías de tránsito usadas por la población, así como causar daños a la vida y bienes de la población, ó agredir las unidades de las fuerzas de seguridad que ejecutan acciones para garantizar la seguridad y el orden público, entre otros. “si se adoptan esas medidas, las fuerzas armadas de myanmar adoptarán las contramedidas necesarias para proteger a la población“, añadió la nota. con anterioridad los grupos armados étnicos opuestos al gobierno de myanmar de la triple alianza, declararon un alto al fuego de 30 días en sus puntos de contacto con las tropas del gobierno, para enfrentar los daños del terremoto y posibilitar la libre circulación de los convoyes con ayuda humanitaria. la fuerza de defensa del pueblo, subordinada al grupo clandestino de oposición gobierno de unidad nacional, hasta el momento no había definido un alto al fuego en las zonas que controlan. después de que en 2021 los militares volvieran al poder y destituyeran al gobierno civil, se originó el conflicto armado entre las fuerzas gubernamentales de myanmar y la oposición armada, dichos grupos étnicos paramilitares se unieron a otros grupos armados juveniles y estudiantiles, contrarios a las autoridades militares.",
+    "tokens": [
+      "junta",
+      "militar",
+      "myanmar",
+      "declaró",
+      "miércoles",
+      "alto",
+      "fuego",
+      "temporal",
+      "tres",
+      "semanas",
+      "conflicto",
+      "nación",
+      ",",
+      "objetivo",
+      "hacerle",
+      "frente",
+      "devastador",
+      "terremoto",
+      "azotó",
+      "nación",
+      "pasado",
+      "28",
+      "marzo",
+      ".",
+      "medios",
+      "locales",
+      "difundieron",
+      "“",
+      "expresando",
+      "solidaridad",
+      "entendimiento",
+      "personas",
+      "afectadas",
+      "terremoto",
+      "país",
+      "fin",
+      "acelerar",
+      "esfuerzos",
+      "socorro",
+      "reconstrucción",
+      "mantener",
+      "paz",
+      "estabilidad",
+      ",",
+      "fuerzas",
+      "armadas",
+      "myanmar",
+      "declaran",
+      "alto",
+      "fuego",
+      "temporal",
+      "2",
+      "22",
+      "abril",
+      "”",
+      ".",
+      "periodo",
+      "extienda",
+      "alto",
+      "fuego",
+      "carácter",
+      "temporal",
+      ",",
+      "impide",
+      "grupos",
+      "armados",
+      "étnicos",
+      "grupos",
+      "armados",
+      ",",
+      "impedir",
+      "libre",
+      "circulación",
+      "vías",
+      "tránsito",
+      "usadas",
+      "población",
+      ",",
+      "así",
+      "causar",
+      "daños",
+      "vida",
+      "bienes",
+      "población",
+      ",",
+      "ó",
+      "agredir",
+      "unidades",
+      "fuerzas",
+      "seguridad",
+      "ejecutan",
+      "acciones",
+      "garantizar",
+      "seguridad",
+      "orden",
+      "público",
+      ",",
+      ".",
+      "“",
+      "si",
+      "adoptan",
+      "medidas",
+      ",",
+      "fuerzas",
+      "armadas",
+      "myanmar",
+      "adoptarán",
+      "contramedidas",
+      "necesarias",
+      "proteger",
+      "población",
+      "“",
+      ",",
+      "añadió",
+      "nota",
+      ".",
+      "anterioridad",
+      "grupos",
+      "armados",
+      "étnicos",
+      "opuestos",
+      "gobierno",
+      "myanmar",
+      "triple",
+      "alianza",
+      ",",
+      "declararon",
+      "alto",
+      "fuego",
+      "30",
+      "días",
+      "puntos",
+      "contacto",
+      "tropas",
+      "gobierno",
+      ",",
+      "enfrentar",
+      "daños",
+      "terremoto",
+      "posibilitar",
+      "libre",
+      "circulación",
+      "convoyes",
+      "ayuda",
+      "humanitaria",
+      ".",
+      "fuerza",
+      "defensa",
+      "pueblo",
+      ",",
+      "subordinada",
+      "grupo",
+      "clandestino",
+      "oposición",
+      "gobierno",
+      "unidad",
+      "nacional",
+      ",",
+      "momento",
+      "definido",
+      "alto",
+      "fuego",
+      "zonas",
+      "controlan",
+      ".",
+      "después",
+      "2021",
+      "militares",
+      "volvieran",
+      "poder",
+      "destituyeran",
+      "gobierno",
+      "civil",
+      ",",
+      "originó",
+      "conflicto",
+      "armado",
+      "fuerzas",
+      "gubernamentales",
+      "myanmar",
+      "oposición",
+      "armada",
+      ",",
+      "dichos",
+      "grupos",
+      "étnicos",
+      "paramilitares",
+      "unieron",
+      "grupos",
+      "armados",
+      "juveniles",
+      "estudiantiles",
+      ",",
+      "contrarios",
+      "autoridades",
+      "militares",
+      "."
+    ],
+    "token_count": 197,
+    "sentence_count": 7
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 27,
+      "NN": 101,
+      "FW": 70,
+      "NNS": 20,
+      "JJ": 38,
+      "VBP": 12,
+      "IN": 18,
+      "CD": 4,
+      "VBZ": 5,
+      "VBD": 2,
+      "RB": 1,
+      "DT": 1
+    },
+    "bigram_freq": {
+      "NNP-NNP": 5,
+      "NNP-NN": 5,
+      "NN-FW": 13,
+      "FW-NNP": 9,
+      "NN-NN": 54,
+      "NN-NNS": 6,
+      "NNS-JJ": 2,
+      "JJ-JJ": 4,
+      "JJ-NN": 24,
+      "NN-JJ": 10,
+      "JJ-FW": 3,
+      "FW-NNS": 3,
+      "NNS-VBP": 10,
+      "VBP-IN": 1,
+      "IN-FW": 10,
+      "FW-FW": 35,
+      "FW-NN": 15,
+      "NN-CD": 1,
+      "CD-IN": 2,
+      "NNP-VBZ": 3,
+      "VBZ-FW": 1,
+      "NN-IN": 10,
+      "IN-JJ": 2,
+      "JJ-NNS": 5,
+      "VBP-JJ": 9,
+      "IN-NN": 1,
+      "FW-JJ": 7,
+      "NNP-IN": 4,
+      "IN-NNP": 4,
+      "NNP-VBD": 1,
+      "VBD-JJ": 1,
+      "NN-VBD": 1,
+      "VBD-CD": 1,
+      "NNP-FW": 7,
+      "NNS-RB": 1,
+      "RB-VBP": 1,
+      "NN-NNP": 5,
+      "VBZ-JJ": 2,
+      "NNS-IN": 1,
+      "VBP-NNP": 1,
+      "NNP-VBP": 1,
+      "VBP-NNS": 1,
+      "JJ-NNP": 2,
+      "IN-CD": 1,
+      "CD-NNS": 1,
+      "NN-VBZ": 1,
+      "VBZ-DT": 1,
+      "DT-NN": 1,
+      "FW-CD": 1,
+      "CD-NN": 1,
+      "NNP-JJ": 1,
+      "NNS-FW": 1,
+      "NNS-VBZ": 1,
+      "VBZ-NNS": 1,
+      "NNS-NNS": 3
+    },
+    "trigram_freq": {
+      "NNP-NNP-NN": 2,
+      "NNP-NN-FW": 1,
+      "NN-FW-NNP": 1,
+      "FW-NNP-NN": 2,
+      "NNP-NN-NN": 4,
+      "NN-NN-NNS": 2,
+      "NN-NNS-JJ": 1,
+      "NNS-JJ-JJ": 1,
+      "JJ-JJ-NN": 3,
+      "JJ-NN-JJ": 1,
+      "NN-JJ-JJ": 2,
+      "JJ-JJ-FW": 1,
+      "JJ-FW-NNS": 1,
+      "FW-NNS-VBP": 2,
+      "NNS-VBP-IN": 1,
+      "VBP-IN-FW": 1,
+      "IN-FW-FW": 4,
+      "FW-FW-FW": 24,
+      "FW-FW-NN": 6,
+      "FW-NN-FW": 3,
+      "NN-FW-FW": 4,
+      "FW-NN-NN": 9,
+      "NN-NN-NN": 23,
+      "NN-NN-FW": 9,
+      "NN-FW-NN": 6,
+      "NN-NN-CD": 1,
+      "NN-CD-IN": 1,
+      "CD-IN-FW": 2,
+      "IN-FW-NNP": 3,
+      "FW-NNP-VBZ": 1,
+      "NNP-VBZ-FW": 1,
+      "VBZ-FW-NN": 1,
+      "NN-NN-IN": 6,
+      "NN-IN-JJ": 2,
+      "IN-JJ-NNS": 1,
+      "JJ-NNS-VBP": 3,
+      "NNS-VBP-JJ": 8,
+      "VBP-JJ-NN": 6,
+      "JJ-NN-NN": 16,
+      "NN-IN-NN": 1,
+      "IN-NN-NN": 1,
+      "FW-NN-IN": 2,
+      "NN-IN-FW": 5,
+      "IN-FW-JJ": 3,
+      "FW-JJ-FW": 1,
+      "JJ-FW-FW": 1,
+      "FW-FW-NNP": 1,
+      "FW-NNP-NNP": 2,
+      "NNP-NNP-IN": 3,
+      "NNP-IN-NNP": 3,
+      "IN-NNP-VBD": 1,
+      "NNP-VBD-JJ": 1,
+      "VBD-JJ-NN": 1,
+      "NN-NN-JJ": 9,
+      "JJ-NN-VBD": 1,
+      "NN-VBD-CD": 1,
+      "VBD-CD-IN": 1,
+      "FW-NNP-FW": 4,
+      "NNP-FW-NN": 1,
+      "NN-JJ-NN": 8,
+      "JJ-NN-IN": 2,
+      "IN-JJ-JJ": 1,
+      "JJ-NN-NNS": 2,
+      "NN-NNS-RB": 1,
+      "NNS-RB-VBP": 1,
+      "RB-VBP-JJ": 1,
+      "JJ-NN-NNP": 2,
+      "NN-NNP-VBZ": 2,
+      "NNP-VBZ-JJ": 2,
+      "VBZ-JJ-NNS": 1,
+      "VBP-JJ-FW": 1,
+      "JJ-FW-NN": 1,
+      "FW-JJ-NN": 4,
+      "NN-FW-NNS": 1,
+      "FW-NNS-IN": 1,
+      "NNS-IN-FW": 1,
+      "NN-NNS-VBP": 4,
+      "NN-IN-NNP": 1,
+      "IN-NNP-FW": 2,
+      "NNP-FW-JJ": 1,
+      "NNS-VBP-NNP": 1,
+      "VBP-NNP-NNP": 1,
+      "IN-NNP-VBP": 1,
+      "NNP-VBP-NNS": 1,
+      "VBP-NNS-VBP": 1,
+      "NN-FW-JJ": 1,
+      "FW-JJ-NNP": 1,
+      "JJ-NNP-NN": 1,
+      "VBZ-JJ-NNP": 1,
+      "JJ-NNP-FW": 1,
+      "NNP-FW-NNP": 3,
+      "NNP-FW-FW": 2,
+      "FW-FW-JJ": 2,
+      "NN-IN-CD": 1,
+      "IN-CD-NNS": 1,
+      "CD-NNS-JJ": 1,
+      "NNS-JJ-NN": 1,
+      "FW-NN-NNS": 1,
+      "NN-NN-NNP": 3,
+      "NN-NNP-NNP": 1,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-DT": 1,
+      "VBZ-DT-NN": 1,
+      "DT-NN-NN": 1,
+      "NN-NNP-IN": 1,
+      "NNP-IN-FW": 1,
+      "FW-FW-CD": 1,
+      "FW-CD-NN": 1,
+      "CD-NN-NNS": 1,
+      "NN-NNP-JJ": 1,
+      "NNP-JJ-NN": 1,
+      "FW-JJ-NNS": 1,
+      "JJ-NNS-FW": 1,
+      "NNS-FW-NNP": 1,
+      "FW-FW-NNS": 1,
+      "VBP-JJ-NNS": 2,
+      "JJ-NNS-VBZ": 1,
+      "NNS-VBZ-NNS": 1,
+      "VBZ-NNS-NNS": 1,
+      "NNS-NNS-NNS": 2
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 101,
+        "FW": 70,
+        "JJ": 38,
+        "NNP": 27,
+        "NNS": 20
+      },
+      "top_bigrams": {
+        "NN-NN": 54,
+        "FW-FW": 35,
+        "JJ-NN": 24,
+        "FW-NN": 15,
+        "NN-FW": 13
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 24,
+        "NN-NN-NN": 23,
+        "JJ-NN-NN": 16,
+        "FW-NN-NN": 9,
+        "NN-NN-FW": 9
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 7,
+    "chunk_counts": {
+      "NP": 79,
+      "ADJP": 6,
+      "VP": 21,
+      "PP": 8
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 5,
+        "weight": 0.0413
+      },
+      {
+        "rule": "NP -> ('Myanmar', 'NNP')",
+        "frequency": 3,
+        "weight": 0.0248
+      },
+      {
+        "rule": "ADJP -> ('temporal', 'JJ')",
+        "frequency": 2,
+        "weight": 0.0165
+      },
+      {
+        "rule": "NP -> ('un', 'JJ') ('alto', 'NN') ('al', 'NN') ('fuego', 'NN')",
+        "frequency": 2,
+        "weight": 0.0165
+      },
+      {
+        "rule": "S -> NP ('de', 'FW') NP NP ADJP ADJP ('de', 'FW') NP VP ('en', 'IN') ('el', 'FW') ('conflicto', 'FW') ('de', 'FW') ('la', 'FW') ('nación', 'FW') (',', ',') NP ('objetivo', 'FW') ('de', 'FW') ('hacerle', 'FW') ('frente', 'FW') ('al', 'FW') NP ('nación', 'FW') NP ('28', 'CD') PP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0083
+      },
+      {
+        "rule": "NP -> ('La', 'NNP') ('junta', 'NNP') ('militar', 'NN')",
+        "frequency": 1,
+        "weight": 0.0083
+      },
+      {
+        "rule": "NP -> ('Myanmar', 'NNP') ('declaró', 'NN') ('este', 'NN') ('miércoles', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0083
+      },
+      {
+        "rule": "NP -> ('un', 'JJ') ('alto', 'JJ') ('al', 'NN')",
+        "frequency": 1,
+        "weight": 0.0083
+      },
+      {
+        "rule": "ADJP -> ('fuego', 'JJ')",
+        "frequency": 1,
+        "weight": 0.0083
+      },
+      {
+        "rule": "NP -> ('tres', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0083
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "La junta militar"
+      },
+      {
+        "label": "NP",
+        "text": "Myanmar declaró este miércoles"
+      },
+      {
+        "label": "NP",
+        "text": "un alto al"
+      },
+      {
+        "label": "ADJP",
+        "text": "fuego"
+      },
+      {
+        "label": "ADJP",
+        "text": "temporal"
+      },
+      {
+        "label": "NP",
+        "text": "tres"
+      },
+      {
+        "label": "VP",
+        "text": "semanas"
+      },
+      {
+        "label": "NP",
+        "text": "con el"
+      },
+      {
+        "label": "NP",
+        "text": "devastador terremoto que azotó la"
+      },
+      {
+        "label": "NP",
+        "text": "el pasado"
+      },
+      {
+        "label": "PP",
+        "text": "de marzo"
+      },
+      {
+        "label": "NP",
+        "text": "marzo"
+      },
+      {
+        "label": "NP",
+        "text": "Medios"
+      },
+      {
+        "label": "VP",
+        "text": "locales difundieron que “ expresando su solidaridad y"
+      },
+      {
+        "label": "NP",
+        "text": "difundieron que “ expresando su solidaridad y"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP La/NNP junta/NNP militar/NN)\n  de/FW\n  (NP Myanmar/NNP declaró/NN este/NN miércoles/NNS)\n  (NP un/JJ alto/JJ al/NN)\n  (ADJP fuego/JJ)\n  (ADJP temporal/JJ)\n  de/FW\n  (NP tres/NNS)\n  (VP semanas/VBP)\n  en/IN\n  el/FW\n  conflicto/FW\n  de/FW\n  la/FW\n  nación/FW\n  ,/,\n  (NP con/NN el/NN)\n  objetivo/FW\n  de/FW\n  hacerle/FW\n  frente/FW\n  al/FW\n  (NP devastador/NN terremoto/NN que/NN azotó/NN la/NN)\n  nación/FW\n  (NP el/NN pasado/NN)\n  28/CD\n  (PP de/IN (NP marzo/NN))\n  ./.)",
+      "(S\n  (NP Medios/NNS)\n  (VP\n    locales/VBZ\n    (NP\n      difundieron/NN\n      que/NN\n      “/NNP\n      expresando/NN\n      su/NN\n      solidaridad/NN\n      y/NN))\n  (PP entendimiento/IN (NP a/DT las/JJ personas/NN afectadas/NNS))\n  (VP por/VBP (NP el/JJ terremoto/NN))\n  (PP en/IN (NP todo/NN el/NN país/NN y/NN con/NN))\n  el/FW\n  (NP fin/NN)\n  de/IN\n  acelerar/FW\n  (ADJP los/JJ)\n  esfuerzos/FW\n  de/FW\n  socorro/FW\n  y/FW\n  reconstrucción/FW\n  y/FW\n  (NP mantener/NN)\n  la/FW\n  paz/FW\n  y/FW\n  la/FW\n  estabilidad/FW\n  ,/,\n  las/FW\n  (NP Fuerzas/NNP Armadas/NNP)\n  (PP de/IN (NP Myanmar/NNP))\n  (VP\n    declaran/VBD\n    (NP un/JJ alto/NN el/NN)\n    (NP fuego/JJ temporal/JJ del/NN))\n  2/CD\n  (ADJP al/JJ)\n  22/CD\n  de/IN\n  abril/FW\n  (NP ”/NN)\n  ./.)",
+      "(S\n  (NP Durante/NNP)\n  el/CC\n  (NP periodo/JJ que/NN se/NN extienda/NN el/NN alto/NN)\n  (NP al/JJ fuego/NN)\n  de/IN\n  (ADJP carácter/JJ)\n  (ADJP temporal/JJ)\n  ,/,\n  (NP se/JJ les/NNS)\n  (VP\n    impide/VBP\n    (NP a/DT los/NN grupos/NN armados/NN étnicos/NNP y/NNP))\n  otros/MD\n  (VP grupos/VB (NP armados/NN))\n  ,/,\n  (NP impedir/JJ la/NN)\n  libre/FW\n  (NP circulación/NN por/NN)\n  (NP las/JJ vías/NN)\n  de/IN\n  tránsito/FW\n  (NP usadas/JJ por/NN la/NN población/NN)\n  ,/,\n  (NP así/JJ como/NN causar/NN)\n  (VP daños/VBZ (NP a/DT la/NN vida/NN y/NN bienes/NNS))\n  de/IN\n  la/FW\n  población/FW\n  ,/,\n  ó/FW\n  agredir/FW\n  las/FW\n  unidades/FW\n  de/FW\n  las/FW\n  fuerzas/FW\n  de/FW\n  seguridad/FW\n  (NP que/NN ejecutan/NN acciones/NNS)\n  (VP\n    para/VBP\n    (NP garantizar/JJ la/NN seguridad/NN y/NN el/NN)\n    (NP orden/JJ público/NN))\n  ,/,\n  (NP entre/JJ otros/NN)\n  ./.)",
+      "(S\n  (NP “/JJ Si/NNP se/NN adoptan/NN esas/NN medidas/NN)\n  ,/,\n  (NP las/JJ Fuerzas/NNP Armadas/NNP)\n  (PP de/IN (NP Myanmar/NNP))\n  (VP adoptarán/VBP (NP las/NNS))\n  (VP\n    contramedidas/VBP\n    (NP necesarias/JJ para/NN proteger/NN)\n    (NP a/DT la/NN población/NN “/NNP))\n  ,/,\n  (NP añadió/NN la/NN nota/NN)\n  ./.)",
+      "(S\n  (NP Con/NNP)\n  (VP anterioridad/VBZ (NP los/JJ grupos/JJ armados/NN étnicos/NNP))\n  (VP opuestos/VBZ (NP al/JJ Gobierno/NNP))\n  de/FW\n  (NP Myanmar/NNP)\n  de/FW\n  la/FW\n  (NP triple/JJ alianza/NN)\n  ,/,\n  (NP declararon/NN)\n  (NP un/JJ alto/NN al/NN fuego/NN)\n  de/IN\n  30/CD\n  (NP días/NNS)\n  (NP en/JJ sus/NN puntos/NN)\n  de/FW\n  contacto/FW\n  (NP con/NN las/NNS)\n  (VP tropas/VBP (NP del/JJ gobierno/NN))\n  ,/,\n  (NP para/NN enfrentar/NN los/NN)\n  (NP daños/JJ del/NN terremoto/NN y/NN posibilitar/NN la/NN)\n  libre/FW\n  (NP circulación/NN)\n  de/IN\n  los/FW\n  (NP convoyes/JJ con/NN ayuda/NN humanitaria/NN)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "CIUDADES_CAPITALES",
+      "GOBIERNOS_OFICIALES",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "CRISIS_HUMANITARIA_SERVICIOS",
+      "CONFLICTOS_ARMADOS_OPERACIONES",
+      "RELACIONES_INTERNACIONALES",
+      "JURIDICO_LEGISLATIVO_CORRUPCION"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "conflicto armado entre las",
+        "position": [
+          1708,
+          1734
+        ],
+        "start": 1708,
+        "end": 1734
+      },
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "conflicto armado entre las fuerzas gubernamentales de myanmar y",
+        "position": [
+          1708,
+          1771
+        ],
+        "start": 1708,
+        "end": 1771
+      },
+      {
+        "category": "RELACIONES_INTERNACIONALES",
+        "matched_text": "alianza, declararon un alto al fuego de 30 días en sus puntos de contacto con las tropas del gobierno, para enfrentar los daños del terremoto y posibilitar",
+        "position": [
+          1199,
+          1354
+        ],
+        "start": 1199,
+        "end": 1354
+      },
+      {
+        "category": "RELACIONES_INTERNACIONALES",
+        "matched_text": "solidaridad y entendimiento a las personas afectadas por el terremoto en todo el país",
+        "position": [
+          270,
+          355
+        ],
+        "start": 270,
+        "end": 355
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "declaró",
+        "position": [
+          28,
+          35
+        ],
+        "start": 28,
+        "end": 35
+      },
+      {
+        "category": "JURIDICO_LEGISLATIVO_CORRUPCION",
+        "matched_text": "defensa",
+        "position": [
+          1428,
+          1435
+        ],
+        "start": 1428,
+        "end": 1435
+      },
+      {
+        "category": "CRISIS_HUMANITARIA_SERVICIOS",
+        "matched_text": "ayuda humanitaria",
+        "position": [
+          1396,
+          1413
+        ],
+        "start": 1396,
+        "end": 1413
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "gobierno de myanmar de",
+        "position": [
+          1166,
+          1188
+        ],
+        "start": 1166,
+        "end": 1188
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "gobierno de unidad",
+        "position": [
+          1494,
+          1512
+        ],
+        "start": 1494,
+        "end": 1512
+      },
+      {
+        "category": "CIUDADES_CAPITALES",
+        "matched_text": "la paz",
+        "position": [
+          434,
+          440
+        ],
+        "start": 434,
+        "end": 440
+      }
+    ],
+    "match_count": 10
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Gobierno civil",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Fuerzas Armadas de Myanmar",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Myanmar",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Gobierno de Unidad Nacional",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Gobierno de Myanmar",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "La Fuerza de Defensa del Pueblo",
+        "tipo": "Organizacion"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Gobierno civil",
+        "relacion": "DESTITUIR_VOLVER_DESPU_S_ORIGINAR_UNIR",
+        "objeto": "Myanmar"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.296,
+    "pos": 0.0,
+    "neu": 0.993,
+    "neg": 0.007,
+    "label": "negative"
+  }
+}

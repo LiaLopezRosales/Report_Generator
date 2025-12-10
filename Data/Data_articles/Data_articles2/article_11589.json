@@ -1,0 +1,790 @@
+{
+  "url": "https://www.telesurtv.net/israel-incrementa-sus-ataques-en-siria/",
+  "title": "Israel incrementa sus ataques en Siria - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "ataques",
+    "Israel",
+    "Siria"
+  ],
+  "text": "Varias incursiones terrestres y aéreas de Israel evidencian un incremento continuo en las operaciones de las fuerzas sionistas en Siria durante el resto del presente año, especialmente tras el derrocamiento del Gobierno del presidente Bashar al Assad.\nLEA TAMBIÉN:Policía israelí reprime a manifestantes que exigían un acuerdo para la liberación de retenidos\nLas fuerzas sionistas llevaron a cabo un ataque contra las instalaciones del batallón de radares en Al-Raheiba, en las cercanías de Damasco, mientras simultáneamente se realizaba otra incursión en la ciudad de Suwayda.\nAdemás, se bombardeó el centro de investigación y los laboratorios de Masya, situados en la provincia de Hama.\nA estos ataques en las zonas rurales de Homs, Hama y Damasco, se sumó un asalto a la capital siria, que resultó en la destrucción de depósitos modernos de misiles y lanzadores cerca de Al-Qastal, en el campo de Damasco.\nEn horas tempranas, aviones israelíes también atacaron depósitos de armas en la aldea de Mahaja, ubicada en el campo de Daraa.\nEs importante destacar que estos eventos se producen después de que, entre la noche del viernes y las primeras horas del sábado, aviones israelíes lanzaran otros 17 bombardeos contra objetivos similares, que incluían una base aérea y almacenes de misiles en las afueras de Damasco.\nEl pasado 11 de diciembre, las Fuerzas de Defensa de Israel (FDI) informaron sobre ataques a una amplia gama de objetivos, que abarcaban aeródromos, vehículos militares, sistemas de defensa aérea y sitios de producción de armamento en la capital siria, así como en Homs, Tartus y Palmira.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/israel-incrementa-sus-ataques-en-siria/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-12.json",
+    "message_index": 950,
+    "message_id": 82409,
+    "date": "2024-12-15T10:55:13+00:00",
+    "text": "teleSUR\nIsrael incrementa sus ataques en Siria\nhttps://www.telesurtv.net/israel-incrementa-sus-ataques-en-siria/",
+    "photo_path": null,
+    "views": 2057,
+    "reactions": {
+      "🤬": 32,
+      "👎": 17,
+      "😈": 1
+    },
+    "total_reactions": 50
+  },
+  "preprocessing": {
+    "cleaned": "varias incursiones terrestres y aéreas de israel evidencian un incremento continuo en las operaciones de las fuerzas sionistas en siria durante el resto del presente año, especialmente tras el derrocamiento del gobierno del presidente bashar al assad. las fuerzas sionistas llevaron a cabo un ataque contra las instalaciones del batallón de radares en al-raheiba, en las cercanías de damasco, mientras simultáneamente se realizaba otra incursión en la ciudad de suwayda. además, se bombardeó el centro de investigación y los laboratorios de masya, situados en la provincia de hama. a estos ataques en las zonas rurales de homs, hama y damasco, se sumó un asalto a la capital siria, que resultó en la destrucción de depósitos modernos de misiles y lanzadores cerca de al-qastal, en el campo de damasco. en horas tempranas, aviones israelíes también atacaron depósitos de armas en la aldea de mahaja, ubicada en el campo de daraa. es importante destacar que estos eventos se producen después de que, entre la noche del viernes y las primeras horas del sábado, aviones israelíes lanzaran otros 17 bombardeos contra objetivos similares, que incluían una base aérea y almacenes de misiles en las afueras de damasco. el pasado 11 de diciembre, las fuerzas de defensa de israel (fdi) informaron sobre ataques a una amplia gama de objetivos, que abarcaban aeródromos, vehículos militares, sistemas de defensa aérea y sitios de producción de armamento en la capital siria, así como en homs, tartus y palmira.",
+    "tokens": [
+      "varias",
+      "incursiones",
+      "terrestres",
+      "aéreas",
+      "israel",
+      "evidencian",
+      "incremento",
+      "continuo",
+      "operaciones",
+      "fuerzas",
+      "sionistas",
+      "siria",
+      "resto",
+      "presente",
+      "año",
+      ",",
+      "especialmente",
+      "tras",
+      "derrocamiento",
+      "gobierno",
+      "presidente",
+      "bashar",
+      "assad",
+      ".",
+      "fuerzas",
+      "sionistas",
+      "llevaron",
+      "cabo",
+      "ataque",
+      "instalaciones",
+      "batallón",
+      "radares",
+      "al-raheiba",
+      ",",
+      "cercanías",
+      "damasco",
+      ",",
+      "mientras",
+      "simultáneamente",
+      "realizaba",
+      "incursión",
+      "ciudad",
+      "suwayda",
+      ".",
+      "además",
+      ",",
+      "bombardeó",
+      "centro",
+      "investigación",
+      "laboratorios",
+      "masya",
+      ",",
+      "situados",
+      "provincia",
+      "hama",
+      ".",
+      "ataques",
+      "zonas",
+      "rurales",
+      "homs",
+      ",",
+      "hama",
+      "damasco",
+      ",",
+      "sumó",
+      "asalto",
+      "capital",
+      "siria",
+      ",",
+      "resultó",
+      "destrucción",
+      "depósitos",
+      "modernos",
+      "misiles",
+      "lanzadores",
+      "cerca",
+      "al-qastal",
+      ",",
+      "campo",
+      "damasco",
+      ".",
+      "horas",
+      "tempranas",
+      ",",
+      "aviones",
+      "israelíes",
+      "atacaron",
+      "depósitos",
+      "armas",
+      "aldea",
+      "mahaja",
+      ",",
+      "ubicada",
+      "campo",
+      "daraa",
+      ".",
+      "importante",
+      "destacar",
+      "eventos",
+      "producen",
+      "después",
+      ",",
+      "noche",
+      "viernes",
+      "primeras",
+      "horas",
+      "sábado",
+      ",",
+      "aviones",
+      "israelíes",
+      "lanzaran",
+      "17",
+      "bombardeos",
+      "objetivos",
+      "similares",
+      ",",
+      "incluían",
+      "base",
+      "aérea",
+      "almacenes",
+      "misiles",
+      "afueras",
+      "damasco",
+      ".",
+      "pasado",
+      "11",
+      "diciembre",
+      ",",
+      "fuerzas",
+      "defensa",
+      "israel",
+      "(",
+      "fdi",
+      ")",
+      "informaron",
+      "ataques",
+      "amplia",
+      "gama",
+      "objetivos",
+      ",",
+      "abarcaban",
+      "aeródromos",
+      ",",
+      "vehículos",
+      "militares",
+      ",",
+      "sistemas",
+      "defensa",
+      "aérea",
+      "sitios",
+      "producción",
+      "armamento",
+      "capital",
+      "siria",
+      ",",
+      "así",
+      "homs",
+      ",",
+      "tartus",
+      "palmira",
+      "."
+    ],
+    "token_count": 161,
+    "sentence_count": 7
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 35,
+      "NNS": 21,
+      "VBP": 10,
+      "IN": 15,
+      "JJ": 28,
+      "NN": 43,
+      "FW": 84,
+      "VBZ": 3,
+      "VBD": 3,
+      "CD": 2
+    },
+    "bigram_freq": {
+      "NNP-NNS": 1,
+      "NNS-NNS": 2,
+      "NNS-VBP": 10,
+      "VBP-IN": 2,
+      "IN-NNP": 5,
+      "NNP-JJ": 1,
+      "JJ-NN": 10,
+      "NN-NN": 24,
+      "NN-IN": 6,
+      "IN-JJ": 2,
+      "JJ-NNS": 8,
+      "NNS-IN": 4,
+      "IN-FW": 7,
+      "FW-JJ": 5,
+      "NNP-NN": 6,
+      "NN-NNS": 5,
+      "VBP-JJ": 7,
+      "NN-NNP": 2,
+      "NNP-FW": 8,
+      "FW-NN": 3,
+      "NNP-VBZ": 1,
+      "VBZ-NNP": 1,
+      "NNP-NNP": 13,
+      "NN-VBZ": 2,
+      "VBZ-JJ": 1,
+      "JJ-JJ": 7,
+      "NN-FW": 2,
+      "FW-FW": 61,
+      "FW-NNP": 13,
+      "NN-JJ": 2,
+      "NNS-FW": 3,
+      "NNP-VBD": 3,
+      "VBD-JJ": 2,
+      "JJ-FW": 3,
+      "VBZ-IN": 1,
+      "FW-NNS": 2,
+      "NNS-CD": 1,
+      "CD-NNS": 1,
+      "NNS-JJ": 1,
+      "IN-NNS": 1,
+      "VBD-CD": 1,
+      "CD-IN": 1,
+      "NNP-IN": 1,
+      "VBP-NNS": 1
+    },
+    "trigram_freq": {
+      "NNP-NNS-NNS": 1,
+      "NNS-NNS-VBP": 2,
+      "NNS-VBP-IN": 2,
+      "VBP-IN-NNP": 2,
+      "IN-NNP-JJ": 1,
+      "NNP-JJ-NN": 1,
+      "JJ-NN-NN": 5,
+      "NN-NN-NN": 14,
+      "NN-NN-IN": 4,
+      "NN-IN-JJ": 1,
+      "IN-JJ-NNS": 1,
+      "JJ-NNS-IN": 3,
+      "NNS-IN-FW": 1,
+      "IN-FW-JJ": 3,
+      "FW-JJ-NNS": 3,
+      "NNS-IN-NNP": 1,
+      "IN-NNP-NN": 1,
+      "NNP-NN-NN": 4,
+      "NN-NN-NNS": 3,
+      "NN-NNS-VBP": 5,
+      "NNS-VBP-JJ": 7,
+      "VBP-JJ-NN": 4,
+      "JJ-NN-NNP": 1,
+      "NN-NNP-FW": 1,
+      "NNP-FW-NN": 1,
+      "FW-NN-NNP": 1,
+      "NN-NNP-VBZ": 1,
+      "NNP-VBZ-NNP": 1,
+      "VBZ-NNP-NNP": 1,
+      "NNP-NNP-NNP": 4,
+      "NNP-NNP-NN": 3,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-JJ": 1,
+      "VBZ-JJ-JJ": 1,
+      "JJ-JJ-JJ": 1,
+      "JJ-JJ-NN": 4,
+      "NN-NN-FW": 2,
+      "NN-FW-FW": 2,
+      "FW-FW-FW": 45,
+      "FW-FW-NNP": 12,
+      "FW-NNP-NN": 2,
+      "NNP-NN-NNS": 1,
+      "VBP-JJ-JJ": 2,
+      "JJ-NN-JJ": 2,
+      "NN-JJ-JJ": 1,
+      "JJ-JJ-NNS": 2,
+      "JJ-NNS-FW": 2,
+      "NNS-FW-FW": 3,
+      "FW-NNP-FW": 4,
+      "NNP-FW-FW": 5,
+      "FW-NNP-NNP": 6,
+      "NNP-NNP-VBD": 3,
+      "NNP-VBD-JJ": 2,
+      "VBD-JJ-FW": 1,
+      "JJ-FW-NN": 1,
+      "FW-NN-IN": 1,
+      "NN-IN-FW": 4,
+      "FW-JJ-FW": 1,
+      "JJ-FW-FW": 2,
+      "NNP-NN-VBZ": 1,
+      "NN-VBZ-IN": 1,
+      "VBZ-IN-FW": 1,
+      "IN-FW-FW": 4,
+      "VBD-JJ-JJ": 1,
+      "FW-FW-NNS": 2,
+      "FW-NNS-VBP": 1,
+      "IN-NNP-FW": 1,
+      "NNP-NNP-FW": 2,
+      "NNP-FW-JJ": 1,
+      "JJ-NNS-VBP": 2,
+      "FW-NNS-NNS": 1,
+      "VBP-JJ-NNS": 1,
+      "JJ-NNS-CD": 1,
+      "NNS-CD-NNS": 1,
+      "CD-NNS-JJ": 1,
+      "NNS-JJ-JJ": 1,
+      "NN-JJ-NNS": 1,
+      "NNS-IN-NNS": 1,
+      "IN-NNS-IN": 1,
+      "NNS-IN-JJ": 1,
+      "IN-JJ-FW": 1,
+      "NNP-VBD-CD": 1,
+      "VBD-CD-IN": 1,
+      "CD-IN-FW": 1,
+      "NNP-FW-NNP": 1,
+      "FW-NNP-IN": 1,
+      "NNP-IN-NNP": 1,
+      "IN-NNP-NNP": 2,
+      "JJ-NN-IN": 1,
+      "FW-JJ-NN": 1,
+      "JJ-NN-NNS": 1,
+      "NNS-VBP-NNS": 1,
+      "VBP-NNS-FW": 1,
+      "FW-FW-JJ": 1,
+      "FW-FW-NN": 1,
+      "FW-NN-NN": 1,
+      "NN-IN-NNP": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "FW": 84,
+        "NN": 43,
+        "NNP": 35,
+        "JJ": 28,
+        "NNS": 21
+      },
+      "top_bigrams": {
+        "FW-FW": 61,
+        "NN-NN": 24,
+        "NNP-NNP": 13,
+        "FW-NNP": 13,
+        "NNS-VBP": 10
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 45,
+        "NN-NN-NN": 14,
+        "FW-FW-NNP": 12,
+        "NNS-VBP-JJ": 7,
+        "FW-NNP-NNP": 6
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 7,
+    "chunk_counts": {
+      "NP": 65,
+      "VP": 12,
+      "PP": 6,
+      "ADJP": 2
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 4,
+        "weight": 0.0435
+      },
+      {
+        "rule": "NP -> ('Damasco', 'NNP')",
+        "frequency": 3,
+        "weight": 0.0326
+      },
+      {
+        "rule": "NP -> ('Israel', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0217
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0217
+      },
+      {
+        "rule": "NP -> ('aviones', 'NNS')",
+        "frequency": 2,
+        "weight": 0.0217
+      },
+      {
+        "rule": "VP -> ('israelíes', 'VBP') NP",
+        "frequency": 2,
+        "weight": 0.0217
+      },
+      {
+        "rule": "S -> NP VP PP NP PP ('de', 'IN') ('las', 'FW') NP PP (',', ',') NP VP ('del', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0109
+      },
+      {
+        "rule": "NP -> ('Varias', 'NNP') ('incursiones', 'NNS') ('terrestres', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0109
+      },
+      {
+        "rule": "VP -> ('y', 'VBP') NP",
+        "frequency": 1,
+        "weight": 0.0109
+      },
+      {
+        "rule": "NP -> ('aéreas', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0109
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Varias incursiones terrestres"
+      },
+      {
+        "label": "VP",
+        "text": "y aéreas"
+      },
+      {
+        "label": "NP",
+        "text": "aéreas"
+      },
+      {
+        "label": "PP",
+        "text": "de Israel"
+      },
+      {
+        "label": "NP",
+        "text": "Israel"
+      },
+      {
+        "label": "NP",
+        "text": "evidencian un incremento continuo"
+      },
+      {
+        "label": "PP",
+        "text": "en las operaciones"
+      },
+      {
+        "label": "NP",
+        "text": "las operaciones"
+      },
+      {
+        "label": "NP",
+        "text": "fuerzas sionistas"
+      },
+      {
+        "label": "PP",
+        "text": "en Siria durante el resto del presente año"
+      },
+      {
+        "label": "NP",
+        "text": "Siria durante el resto del presente año"
+      },
+      {
+        "label": "NP",
+        "text": "especialmente tras"
+      },
+      {
+        "label": "VP",
+        "text": "el derrocamiento del Gobierno"
+      },
+      {
+        "label": "NP",
+        "text": "derrocamiento del Gobierno"
+      },
+      {
+        "label": "NP",
+        "text": "presidente Bashar al Assad"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Varias/NNP incursiones/NNS terrestres/NNS)\n  (VP y/VBP (NP aéreas/NNS))\n  (PP de/IN (NP Israel/NNP))\n  (NP evidencian/JJ un/NN incremento/NN continuo/NN)\n  (PP en/IN (NP las/JJ operaciones/NNS))\n  de/IN\n  las/FW\n  (NP fuerzas/JJ sionistas/NNS)\n  (PP\n    en/IN\n    (NP\n      Siria/NNP\n      durante/NN\n      el/NN\n      resto/NN\n      del/NN\n      presente/NN\n      año/NN))\n  ,/,\n  (NP especialmente/JJ tras/NNS)\n  (VP el/VBP (NP derrocamiento/JJ del/NN Gobierno/NNP))\n  del/FW\n  (NP presidente/NN Bashar/NNP al/NN Assad/NNP)\n  ./.)",
+      "(S\n  (NP LEA/NNP TAMBIÉN/NNP)\n  :/:\n  (NP Policía/NNP israelí/NN reprime/NN)\n  (NP a/DT manifestantes/NNS)\n  (NP que/JJ exigían/JJ un/JJ acuerdo/NN para/NN)\n  la/FW\n  liberación/FW\n  de/FW\n  retenidos/FW\n  (NP Las/NNP fuerzas/NN sionistas/NNS)\n  (VP\n    llevaron/VBP\n    (NP a/DT cabo/NN)\n    (NP un/JJ ataque/NN)\n    (NP contra/JJ las/JJ instalaciones/NNS))\n  del/FW\n  batallón/FW\n  de/FW\n  radares/FW\n  en/FW\n  (NP Al-Raheiba/NNP)\n  ,/,\n  en/FW\n  las/FW\n  cercanías/FW\n  de/FW\n  (NP Damasco/NNP)\n  ,/,\n  mientras/FW\n  simultáneamente/FW\n  se/FW\n  realizaba/FW\n  otra/FW\n  incursión/FW\n  en/FW\n  la/FW\n  ciudad/FW\n  de/FW\n  (NP Suwayda/NNP)\n  ./.)",
+      "(S\n  (NP Además/NNP)\n  ,/,\n  (VP se/VBD bombardeó/JJ)\n  el/FW\n  (NP centro/NN)\n  de/IN\n  investigación/FW\n  y/FW\n  los/FW\n  laboratorios/FW\n  de/FW\n  (NP Masya/NNP)\n  ,/,\n  (NP situados/NN)\n  en/FW\n  la/FW\n  provincia/FW\n  de/FW\n  (NP Hama/NNP)\n  ./.)",
+      "(S\n  (NP A/DT estos/NN)\n  (VP ataques/VBZ)\n  en/IN\n  las/FW\n  zonas/FW\n  rurales/FW\n  de/FW\n  (NP Homs/NNP)\n  ,/,\n  (NP Hama/NNP y/NNP Damasco/NNP)\n  ,/,\n  (VP\n    se/VBD\n    (NP sumó/JJ un/JJ asalto/NN)\n    (NP a/DT la/JJ capital/NN siria/NN))\n  ,/,\n  (NP que/JJ resultó/NN)\n  en/IN\n  la/FW\n  destrucción/FW\n  de/FW\n  depósitos/FW\n  modernos/FW\n  de/FW\n  misiles/FW\n  y/FW\n  (NP lanzadores/NNS)\n  (VP cerca/VBP)\n  (PP de/IN (NP Al-Qastal/NNP))\n  ,/,\n  en/FW\n  el/FW\n  campo/FW\n  de/FW\n  (NP Damasco/NNP)\n  ./.)",
+      "(S\n  (NP En/NNP)\n  horas/PRP\n  tempranas/RB\n  ,/,\n  (NP aviones/NNS)\n  (VP israelíes/VBP (NP también/JJ atacaron/NN depósitos/NN))\n  de/IN\n  armas/FW\n  en/FW\n  la/FW\n  aldea/FW\n  de/FW\n  (NP Mahaja/NNP)\n  ,/,\n  (ADJP ubicada/JJ)\n  en/FW\n  el/FW\n  campo/FW\n  de/FW\n  (NP Daraa/NNP)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "GOBIERNOS_OFICIALES",
+      "REGIONES_PROVINCIAS",
+      "PAISES",
+      "LOCALIZACIONES_ESPECIFICAS",
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "CONFLICTOS_ARMADOS_OPERACIONES",
+      "JURIDICO_LEGISLATIVO_CORRUPCION"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "bombardeó",
+        "position": [
+          589,
+          598
+        ],
+        "start": 589,
+        "end": 598
+      },
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "capital",
+        "position": [
+          774,
+          781
+        ],
+        "start": 774,
+        "end": 781
+      },
+      {
+        "category": "JURIDICO_LEGISLATIVO_CORRUPCION",
+        "matched_text": "defensa",
+        "position": [
+          1360,
+          1367
+        ],
+        "start": 1360,
+        "end": 1367
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "gobierno del presidente bashar",
+        "position": [
+          211,
+          241
+        ],
+        "start": 211,
+        "end": 241
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente bashar al",
+        "position": [
+          224,
+          244
+        ],
+        "start": 224,
+        "end": 244
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "israelí",
+        "position": [
+          272,
+          279
+        ],
+        "start": 272,
+        "end": 279
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "provincia de",
+        "position": [
+          670,
+          682
+        ],
+        "start": 670,
+        "end": 682
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "centro de",
+        "position": [
+          602,
+          611
+        ],
+        "start": 602,
+        "end": 611
+      }
+    ],
+    "match_count": 8
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "FDI",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Al-Qastal",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Al-Raheiba",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Tartus",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "provincia de Hama",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Assad",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Fuerzas de Defensa de Israel",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "LEA",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Mahaja",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Bashar",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Damasco",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Suwayda",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Palmira",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Homs",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Hama",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Israel",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Gobierno",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Daraa",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Siria",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Israel",
+        "relacion": "EVIDENCIAR",
+        "objeto": "Siria"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "EVIDENCIAR",
+        "objeto": "Gobierno"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "EVIDENCIAR",
+        "objeto": "Bashar"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "EVIDENCIAR",
+        "objeto": "Assad"
+      },
+      {
+        "sujeto": "Siria",
+        "relacion": "EVIDENCIAR",
+        "objeto": "Gobierno"
+      },
+      {
+        "sujeto": "Siria",
+        "relacion": "EVIDENCIAR",
+        "objeto": "Bashar"
+      },
+      {
+        "sujeto": "Siria",
+        "relacion": "EVIDENCIAR",
+        "objeto": "Assad"
+      },
+      {
+        "sujeto": "Al-Raheiba",
+        "relacion": "LLEVAR",
+        "objeto": "Suwayda"
+      },
+      {
+        "sujeto": "Damasco",
+        "relacion": "LLEVAR",
+        "objeto": "Suwayda"
+      },
+      {
+        "sujeto": "Homs",
+        "relacion": "SUMAR",
+        "objeto": "Al-Qastal"
+      },
+      {
+        "sujeto": "Homs",
+        "relacion": "SUMAR",
+        "objeto": "Damasco"
+      },
+      {
+        "sujeto": "Hama",
+        "relacion": "SUMAR",
+        "objeto": "Al-Qastal"
+      },
+      {
+        "sujeto": "Hama",
+        "relacion": "SUMAR",
+        "objeto": "Damasco"
+      },
+      {
+        "sujeto": "Damasco",
+        "relacion": "SUMAR",
+        "objeto": "Al-Qastal"
+      },
+      {
+        "sujeto": "Fuerzas de Defensa de Israel",
+        "relacion": "INFORMAR",
+        "objeto": "Homs"
+      },
+      {
+        "sujeto": "Fuerzas de Defensa de Israel",
+        "relacion": "INFORMAR",
+        "objeto": "Tartus"
+      },
+      {
+        "sujeto": "Fuerzas de Defensa de Israel",
+        "relacion": "INFORMAR",
+        "objeto": "Palmira"
+      },
+      {
+        "sujeto": "FDI",
+        "relacion": "INFORMAR",
+        "objeto": "Homs"
+      },
+      {
+        "sujeto": "FDI",
+        "relacion": "INFORMAR",
+        "objeto": "Tartus"
+      },
+      {
+        "sujeto": "FDI",
+        "relacion": "INFORMAR",
+        "objeto": "Palmira"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.0,
+    "pos": 0.0,
+    "neu": 1.0,
+    "neg": 0.0,
+    "label": "neutral"
+  }
+}

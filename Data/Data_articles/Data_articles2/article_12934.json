@@ -1,0 +1,753 @@
+{
+  "url": "https://www.telesurtv.net/nueva-caravana-por-palestina-en-argentina-marca-11-meses-de-conflicto/",
+  "title": "Nueva Caravana por Palestina en Argentina marca 11 meses de conflicto - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "Caravana",
+    "Conflicto",
+    "Palestina",
+    "protestas"
+  ],
+  "text": "Este viernes 6 de septiembre, las calles de Buenos Aires fueron testigo de una nueva manifestación de solidaridad con el pueblo palestino. La “Caravana por Palestina”, organizada por el Comité Argentino de Solidaridad con el Pueblo Palestino, marcó 11 meses desde el inicio del conflicto en Gaza y Cisjordania.\nLa movilización comenzó a las 17H00 (hora local) frente al Congreso de la Nación, desde donde los manifestantes se trasladaron hacia el emblemático Obelisco. Esta acción se suma a una ola de protestas internacionales que exigen el fin de las hostilidades y abogan por una Palestina libre.\nEl evento en Argentina refleja un movimiento global de rechazo al conflicto. Desde Estados Unidos hasta Europa, e incluso dentro de Israel, se han registrado manifestaciones masivas. Notablemente, en Israel, las organizaciones sindicales han llegado a convocar una huelga general, exigiendo al gobierno de Benjamín Netanyahu un alto el fuego inmediato.\nLos organizadores de la caravana en Argentina destacaron la importancia de mantener la atención sobre el conflicto, especialmente en un contexto donde, según afirman, los grandes medios de comunicación tienden a minimizar la situación que vive el pueblo palestino.\nAsimismo, señalaron el contraste entre estas manifestaciones populares y la posición oficial del Gobierno de Javier Milei, que mantiene una postura de apoyo a la entidad de Israel. Esta discrepancia entre la política gubernamental y el sentimiento de una parte significativa de la población argentina añade una dimensión adicional al debate nacional sobre el conflicto en Medio Oriente.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/nueva-caravana-por-palestina-en-argentina-marca-11-meses-de-conflicto/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-09.json",
+    "message_index": 1377,
+    "message_id": 75897,
+    "date": "2024-09-07T00:55:12+00:00",
+    "text": "teleSUR\nNueva Caravana por Palestina en Argentina marca 11 meses de conflicto\nhttps://www.telesurtv.net/nueva-caravana-por-palestina-en-argentina-marca-11-meses-de-conflicto/",
+    "photo_path": null,
+    "views": 3569,
+    "reactions": {
+      "👍": 48,
+      "👏": 16,
+      "❤": 9,
+      "👎": 1
+    },
+    "total_reactions": 74
+  },
+  "preprocessing": {
+    "cleaned": "este viernes 6 de septiembre, las calles de buenos aires fueron testigo de una nueva manifestación de solidaridad con el pueblo palestino. la “caravana por palestina”, organizada por el comité argentino de solidaridad con el pueblo palestino, marcó 11 meses desde el inicio del conflicto en gaza y cisjordania. la movilización comenzó a las 17h00 (hora local) frente al congreso de la nación, desde donde los manifestantes se trasladaron hacia el emblemático obelisco. esta acción se suma a una ola de protestas internacionales que exigen el fin de las hostilidades y abogan por una palestina libre. el evento en argentina refleja un movimiento global de rechazo al conflicto. desde estados unidos hasta europa, e incluso dentro de israel, se han registrado manifestaciones masivas. notablemente, en israel, las organizaciones sindicales han llegado a convocar una huelga general, exigiendo al gobierno de benjamín netanyahu un alto el fuego inmediato. los organizadores de la caravana en argentina destacaron la importancia de mantener la atención sobre el conflicto, especialmente en un contexto donde, según afirman, los grandes medios de comunicación tienden a minimizar la situación que vive el pueblo palestino. asimismo, señalaron el contraste entre estas manifestaciones populares y la posición oficial del gobierno de javier milei, que mantiene una postura de apoyo a la entidad de israel. esta discrepancia entre la política gubernamental y el sentimiento de una parte significativa de la población argentina añade una dimensión adicional al debate nacional sobre el conflicto en medio oriente.",
+    "tokens": [
+      "viernes",
+      "6",
+      "septiembre",
+      ",",
+      "calles",
+      "buenos",
+      "aires",
+      "testigo",
+      "nueva",
+      "manifestación",
+      "solidaridad",
+      "pueblo",
+      "palestino",
+      ".",
+      "“",
+      "caravana",
+      "palestina",
+      "”",
+      ",",
+      "organizada",
+      "comité",
+      "argentino",
+      "solidaridad",
+      "pueblo",
+      "palestino",
+      ",",
+      "marcó",
+      "11",
+      "meses",
+      "inicio",
+      "conflicto",
+      "gaza",
+      "cisjordania",
+      ".",
+      "movilización",
+      "comenzó",
+      "17h00",
+      "(",
+      "hora",
+      "local",
+      ")",
+      "frente",
+      "congreso",
+      "nación",
+      ",",
+      "manifestantes",
+      "trasladaron",
+      "hacia",
+      "emblemático",
+      "obelisco",
+      ".",
+      "acción",
+      "suma",
+      "ola",
+      "protestas",
+      "internacionales",
+      "exigen",
+      "fin",
+      "hostilidades",
+      "abogan",
+      "palestina",
+      "libre",
+      ".",
+      "evento",
+      "argentina",
+      "refleja",
+      "movimiento",
+      "global",
+      "rechazo",
+      "conflicto",
+      ".",
+      "unidos",
+      "europa",
+      ",",
+      "incluso",
+      "dentro",
+      "israel",
+      ",",
+      "registrado",
+      "manifestaciones",
+      "masivas",
+      ".",
+      "notablemente",
+      ",",
+      "israel",
+      ",",
+      "organizaciones",
+      "sindicales",
+      "llegado",
+      "convocar",
+      "huelga",
+      "general",
+      ",",
+      "exigiendo",
+      "gobierno",
+      "benjamín",
+      "netanyahu",
+      "alto",
+      "fuego",
+      "inmediato",
+      ".",
+      "organizadores",
+      "caravana",
+      "argentina",
+      "destacaron",
+      "importancia",
+      "mantener",
+      "atención",
+      "conflicto",
+      ",",
+      "especialmente",
+      "contexto",
+      ",",
+      "según",
+      "afirman",
+      ",",
+      "grandes",
+      "medios",
+      "comunicación",
+      "tienden",
+      "minimizar",
+      "situación",
+      "vive",
+      "pueblo",
+      "palestino",
+      ".",
+      "asimismo",
+      ",",
+      "señalaron",
+      "contraste",
+      "manifestaciones",
+      "populares",
+      "posición",
+      "oficial",
+      "gobierno",
+      "javier",
+      "milei",
+      ",",
+      "mantiene",
+      "postura",
+      "apoyo",
+      "entidad",
+      "israel",
+      ".",
+      "discrepancia",
+      "política",
+      "gubernamental",
+      "sentimiento",
+      "parte",
+      "significativa",
+      "población",
+      "argentina",
+      "añade",
+      "dimensión",
+      "adicional",
+      "debate",
+      "nacional",
+      "conflicto",
+      "medio",
+      "oriente",
+      "."
+    ],
+    "token_count": 161,
+    "sentence_count": 10
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 42,
+      "NNS": 11,
+      "FW": 40,
+      "IN": 14,
+      "VBD": 2,
+      "NN": 84,
+      "JJ": 29,
+      "CD": 2,
+      "VBZ": 4,
+      "VBP": 5
+    },
+    "bigram_freq": {
+      "NNP-NNS": 1,
+      "NNS-FW": 2,
+      "FW-FW": 23,
+      "FW-NNS": 4,
+      "NNS-IN": 1,
+      "IN-NNP": 7,
+      "NNP-NNP": 15,
+      "NNP-VBD": 2,
+      "VBD-NN": 1,
+      "NN-IN": 10,
+      "IN-JJ": 2,
+      "JJ-JJ": 5,
+      "JJ-NN": 21,
+      "IN-FW": 5,
+      "FW-NN": 4,
+      "NN-NN": 43,
+      "NN-NNP": 12,
+      "NNP-NN": 14,
+      "NNP-IN": 3,
+      "VBD-CD": 1,
+      "CD-NNS": 1,
+      "NNS-JJ": 1,
+      "NNP-FW": 3,
+      "NN-VBZ": 2,
+      "VBZ-CD": 1,
+      "CD-JJ": 1,
+      "FW-NNP": 5,
+      "VBZ-JJ": 2,
+      "NNP-VBZ": 2,
+      "NN-JJ": 10,
+      "NNS-VBP": 5,
+      "VBP-NN": 1,
+      "VBP-JJ": 3,
+      "JJ-NNP": 1,
+      "NN-FW": 5,
+      "JJ-FW": 1,
+      "NN-NNS": 2,
+      "VBP-NNP": 1,
+      "NNS-NNS": 2,
+      "NNP-JJ": 1,
+      "VBZ-FW": 1,
+      "FW-JJ": 4,
+      "JJ-NNS": 1
+    },
+    "trigram_freq": {
+      "NNP-NNS-FW": 1,
+      "NNS-FW-FW": 2,
+      "FW-FW-FW": 16,
+      "FW-FW-NNS": 1,
+      "FW-NNS-IN": 1,
+      "NNS-IN-NNP": 1,
+      "IN-NNP-NNP": 6,
+      "NNP-NNP-VBD": 2,
+      "NNP-VBD-NN": 1,
+      "VBD-NN-IN": 1,
+      "NN-IN-JJ": 2,
+      "IN-JJ-JJ": 1,
+      "JJ-JJ-NN": 4,
+      "JJ-NN-IN": 3,
+      "NN-IN-FW": 4,
+      "IN-FW-NN": 1,
+      "FW-NN-NN": 2,
+      "NN-NN-NN": 19,
+      "NN-NN-NNP": 7,
+      "NN-NNP-NNP": 6,
+      "NNP-NNP-NN": 6,
+      "NNP-NN-NNP": 3,
+      "NNP-NN-NN": 10,
+      "NNP-NNP-IN": 1,
+      "NNP-IN-NNP": 2,
+      "IN-NNP-NN": 1,
+      "NNP-VBD-CD": 1,
+      "VBD-CD-NNS": 1,
+      "CD-NNS-JJ": 1,
+      "NNS-JJ-JJ": 1,
+      "JJ-NN-NN": 11,
+      "NN-NN-IN": 6,
+      "NN-IN-NNP": 4,
+      "NNP-NNP-NNP": 2,
+      "NNP-NNP-FW": 1,
+      "NNP-FW-NN": 1,
+      "FW-NN-VBZ": 1,
+      "NN-VBZ-CD": 1,
+      "VBZ-CD-JJ": 1,
+      "CD-JJ-JJ": 1,
+      "NN-NNP-IN": 2,
+      "NNP-IN-FW": 1,
+      "IN-FW-NNP": 1,
+      "FW-NNP-NN": 3,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 2,
+      "NNP-NNP-VBZ": 1,
+      "NNP-VBZ-JJ": 1,
+      "JJ-NN-JJ": 4,
+      "NN-JJ-NN": 8,
+      "IN-FW-NNS": 2,
+      "FW-NNS-VBP": 2,
+      "NNS-VBP-NN": 1,
+      "VBP-NN-NN": 1,
+      "NNS-VBP-JJ": 3,
+      "VBP-JJ-JJ": 2,
+      "JJ-JJ-NNP": 1,
+      "JJ-NNP-NN": 1,
+      "NN-NNP-NN": 3,
+      "NNP-NN-FW": 1,
+      "NN-FW-NNP": 1,
+      "NN-NN-JJ": 6,
+      "NN-JJ-FW": 1,
+      "JJ-FW-FW": 1,
+      "FW-FW-NN": 2,
+      "FW-NN-NNP": 1,
+      "NN-NN-NNS": 1,
+      "NN-NNS-VBP": 1,
+      "NNS-VBP-NNP": 1,
+      "VBP-NNP-FW": 1,
+      "NNP-FW-NNP": 1,
+      "FW-NNP-FW": 1,
+      "NNP-FW-NNS": 1,
+      "FW-NNS-NNS": 1,
+      "NNS-NNS-VBP": 2,
+      "VBP-JJ-NN": 1,
+      "NNP-NNP-JJ": 1,
+      "NNP-JJ-NN": 1,
+      "NN-NNP-VBZ": 1,
+      "NNP-VBZ-FW": 1,
+      "VBZ-FW-FW": 1,
+      "FW-FW-NNP": 2,
+      "NN-NN-FW": 3,
+      "NN-FW-FW": 2,
+      "NN-FW-JJ": 2,
+      "FW-JJ-NN": 4,
+      "JJ-NN-NNS": 1,
+      "NN-NNS-FW": 1,
+      "FW-FW-JJ": 2,
+      "NN-JJ-NNS": 1,
+      "JJ-NNS-NNS": 1,
+      "JJ-NN-NNP": 1,
+      "IN-FW-FW": 1,
+      "FW-NNP-NNP": 1,
+      "IN-JJ-NN": 1,
+      "JJ-NN-FW": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 84,
+        "NNP": 42,
+        "FW": 40,
+        "JJ": 29,
+        "IN": 14
+      },
+      "top_bigrams": {
+        "NN-NN": 43,
+        "FW-FW": 23,
+        "JJ-NN": 21,
+        "NNP-NNP": 15,
+        "NNP-NN": 14
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 19,
+        "FW-FW-FW": 16,
+        "JJ-NN-NN": 11,
+        "NNP-NN-NN": 10,
+        "NN-JJ-NN": 8
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 10,
+    "chunk_counts": {
+      "NP": 64,
+      "PP": 10,
+      "VP": 15,
+      "ADJP": 2
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 8,
+        "weight": 0.0792
+      },
+      {
+        "rule": "NP -> ('Israel', 'NNP')",
+        "frequency": 3,
+        "weight": 0.0297
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0198
+      },
+      {
+        "rule": "VP -> ('y', 'VBP') NP",
+        "frequency": 2,
+        "weight": 0.0198
+      },
+      {
+        "rule": "NP -> ('conflicto', 'NN')",
+        "frequency": 2,
+        "weight": 0.0198
+      },
+      {
+        "rule": "S -> NP ('6', 'CD') PP (',', ',') NP PP VP PP ('de', 'IN') ('solidaridad', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0099
+      },
+      {
+        "rule": "NP -> ('Este', 'NNP') ('viernes', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0099
+      },
+      {
+        "rule": "NP -> ('septiembre', 'NN')",
+        "frequency": 1,
+        "weight": 0.0099
+      },
+      {
+        "rule": "NP -> ('las', 'JJ') ('calles', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0099
+      },
+      {
+        "rule": "NP -> ('Buenos', 'NNP') ('Aires', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0099
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Este viernes"
+      },
+      {
+        "label": "PP",
+        "text": "de septiembre"
+      },
+      {
+        "label": "NP",
+        "text": "septiembre"
+      },
+      {
+        "label": "NP",
+        "text": "las calles"
+      },
+      {
+        "label": "PP",
+        "text": "de Buenos Aires"
+      },
+      {
+        "label": "NP",
+        "text": "Buenos Aires"
+      },
+      {
+        "label": "VP",
+        "text": "fueron testigo"
+      },
+      {
+        "label": "NP",
+        "text": "testigo"
+      },
+      {
+        "label": "PP",
+        "text": "de una nueva manifestación"
+      },
+      {
+        "label": "NP",
+        "text": "una nueva manifestación"
+      },
+      {
+        "label": "NP",
+        "text": "con el pueblo palestino"
+      },
+      {
+        "label": "NP",
+        "text": "La “ Caravana por Palestina ”"
+      },
+      {
+        "label": "VP",
+        "text": "organizada por el Comité Argentino"
+      },
+      {
+        "label": "NP",
+        "text": "por el Comité Argentino"
+      },
+      {
+        "label": "PP",
+        "text": "de Solidaridad con el Pueblo Palestino"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Este/NNP viernes/NNS)\n  6/CD\n  (PP de/IN (NP septiembre/NN))\n  ,/,\n  (NP las/JJ calles/NNS)\n  (PP de/IN (NP Buenos/NNP Aires/NNP))\n  (VP fueron/VBD (NP testigo/NN))\n  (PP de/IN (NP una/JJ nueva/JJ manifestación/NN))\n  de/IN\n  solidaridad/FW\n  (NP con/NN el/NN pueblo/NN palestino/NN)\n  ./.)",
+      "(S\n  (NP La/NNP “/NNP Caravana/NNP por/NN Palestina/NNP ”/NNP)\n  ,/,\n  (VP organizada/VBZ (NP por/JJ el/NN Comité/NNP Argentino/NNP))\n  (PP\n    de/IN\n    (NP Solidaridad/NNP con/NN el/NN Pueblo/NNP Palestino/NNP))\n  ,/,\n  (VP marcó/VBD)\n  11/CD\n  (NP meses/NNS)\n  (NP desde/JJ el/JJ inicio/NN del/NN conflicto/NN)\n  (PP en/IN (NP Gaza/NNP y/NNP Cisjordania/NNP))\n  ./.)",
+      "(S\n  (NP La/NNP movilización/NNP)\n  (VP comenzó/VBZ)\n  a/DT\n  (ADJP las/JJ)\n  17H00/CD\n  (/(\n  (VP hora/VB local/JJ)\n  )/)\n  (NP frente/NN)\n  (NP al/JJ Congreso/NNP)\n  de/FW\n  la/FW\n  (NP Nación/NNP)\n  ,/,\n  (NP desde/NN donde/NN los/NN)\n  (VP\n    manifestantes/VBZ\n    (NP\n      se/JJ\n      trasladaron/NN\n      hacia/NN\n      el/NN\n      emblemático/NN\n      Obelisco/NNP))\n  ./.)",
+      "(S\n  (NP Esta/NNP acción/NN se/NN)\n  (VP suma/VBD (NP a/DT una/JJ ola/NN))\n  de/IN\n  protestas/FW\n  (NP internacionales/NNS)\n  (VP que/VBP (NP exigen/NN el/NN fin/NN))\n  de/IN\n  las/FW\n  (NP hostilidades/NNS)\n  (VP y/VBP (NP abogan/JJ por/JJ una/JJ Palestina/NNP libre/NN))\n  ./.)",
+      "(S\n  (NP El/NNP evento/NN)\n  en/FW\n  (NP Argentina/NNP refleja/NN un/NN movimiento/NN)\n  (ADJP global/JJ)\n  de/FW\n  rechazo/FW\n  al/FW\n  (NP conflicto/NN)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "CIUDADES_CAPITALES",
+      "GOBIERNOS_OFICIALES",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "PAISES",
+      "PROTESTAS_CONFLICTOS_SOCIALES",
+      "CONFLICTOS_ARMADOS_OPERACIONES",
+      "RELACIONES_INTERNACIONALES",
+      "FECHAS_ESPECIFICAS",
+      "POLITICAS_PUBLICAS"
+    ],
+    "matches": [
+      {
+        "category": "PROTESTAS_CONFLICTOS_SOCIALES",
+        "matched_text": "conflicto. desde estados unidos hasta europa, e incluso dentro de israel, se han registrado manifestaciones masivas. notablemente, en israel, las organizaciones sindicales han llegado a convocar una huelga general, exigiendo al gobierno",
+        "position": [
+          666,
+          902
+        ],
+        "start": 666,
+        "end": 902
+      },
+      {
+        "category": "PROTESTAS_CONFLICTOS_SOCIALES",
+        "matched_text": "protestas internacionales que exigen el fin de las hostilidades y abogan por una palestina",
+        "position": [
+          502,
+          592
+        ],
+        "start": 502,
+        "end": 592
+      },
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "conflicto en gaza",
+        "position": [
+          278,
+          295
+        ],
+        "start": 278,
+        "end": 295
+      },
+      {
+        "category": "RELACIONES_INTERNACIONALES",
+        "matched_text": "solidaridad con el pueblo palestino. la “caravana por palestina",
+        "position": [
+          102,
+          165
+        ],
+        "start": 102,
+        "end": 165
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "posición oficial",
+        "position": [
+          1294,
+          1310
+        ],
+        "start": 1294,
+        "end": 1310
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "gobierno de benjamín netanyahu",
+        "position": [
+          894,
+          924
+        ],
+        "start": 894,
+        "end": 924
+      },
+      {
+        "category": "POLITICAS_PUBLICAS",
+        "matched_text": "política gubernamental",
+        "position": [
+          1426,
+          1448
+        ],
+        "start": 1426,
+        "end": 1448
+      },
+      {
+        "category": "POLITICAS_PUBLICAS",
+        "matched_text": "apoyo a la entidad de israel. esta discrepancia entre la política gubernamental",
+        "position": [
+          1369,
+          1448
+        ],
+        "start": 1369,
+        "end": 1448
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "argentina",
+        "position": [
+          613,
+          622
+        ],
+        "start": 613,
+        "end": 622
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "estados unidos",
+        "position": [
+          683,
+          697
+        ],
+        "start": 683,
+        "end": 697
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "palestina",
+        "position": [
+          156,
+          165
+        ],
+        "start": 156,
+        "end": 165
+      },
+      {
+        "category": "CIUDADES_CAPITALES",
+        "matched_text": "buenos aires",
+        "position": [
+          44,
+          56
+        ],
+        "start": 44,
+        "end": 56
+      },
+      {
+        "category": "FECHAS_ESPECIFICAS",
+        "matched_text": "viernes 6 de septiembre",
+        "position": [
+          5,
+          28
+        ],
+        "start": 5,
+        "end": 28
+      }
+    ],
+    "match_count": 13
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Congreso de la Nación",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Obelisco",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Desde Estados Unidos",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Gobierno de Javier Milei",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Argentina",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "La “Caravana por Palestina",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Cisjordania",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Buenos Aires",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Israel",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Comité Argentino de Solidaridad con el Pueblo Palestino",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Palestina",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Europa",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Benjamín Netanyahu",
+        "tipo": "Persona"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "La “Caravana por Palestina",
+        "relacion": "MARCAR",
+        "objeto": "Gaza"
+      },
+      {
+        "sujeto": "La “Caravana por Palestina",
+        "relacion": "MARCAR",
+        "objeto": "Cisjordania"
+      },
+      {
+        "sujeto": "Comité Argentino de Solidaridad con el Pueblo Palestino",
+        "relacion": "MARCAR",
+        "objeto": "Gaza"
+      },
+      {
+        "sujeto": "Comité Argentino de Solidaridad con el Pueblo Palestino",
+        "relacion": "MARCAR",
+        "objeto": "Cisjordania"
+      },
+      {
+        "sujeto": "Congreso de la Nación",
+        "relacion": "COMENZAR",
+        "objeto": "Obelisco"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "LLEGAR",
+        "objeto": "Benjamín Netanyahu"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.0,
+    "pos": 0.0,
+    "neu": 1.0,
+    "neg": 0.0,
+    "label": "neutral"
+  }
+}

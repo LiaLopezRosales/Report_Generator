@@ -1,0 +1,665 @@
+{
+  "url": "https://www.telesurtv.net/canada-impide-participacion-de-iranies-en-elecciones-presidenciales/",
+  "title": "Canadá impide participación de iraníes en elecciones presidenciales - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Canadá",
+    "Elecciones generales",
+    "Irán"
+  ],
+  "text": "El canciller interino de Irán, Ali Baqeri Kani, denunció este viernes en Teherán que Canadá impidió abiertamente la participación de cientos de miles de ciudadanos iraníes en las elecciones presidenciales adelantadas del país persa, a pesar de los esfuerzos del viceconsulado en la nación norteamericana.\nAsimismo, el jefe de la diplomacia persa manifestó que el Gobierno canadiense  con esta acción emite otra señal de enemistad contra la nación iraní y demuestra al mundo que no es honesto en sus reclamos de defender la democracia.\nLas elecciones adelantadas, tras la muerte del anterior mandatario, Ebrahim Raisí, iniciaron este viernes a las 08H00 hora local.\nInicialmente se previó que concluyeran a las 18H00 hora local, pero debido a la alta participación popular la Comisión Electoral extendió su horario en dos ocasiones. Primero informó que “el plazo de votación se extendió dos horas, hasta las 20.00 hora local”, y con posterioridad dio a conocer que el sufragio concluirá a las 22H00.\nEstán convocadas para emitir el derecho al sufragio un poco más de 61 millones de personas en 58.640 colegios designados en todo el país. En tanto, se han reservado 340 lugares en 100 naciones para recoger los votos de los iraníes en el extranjero.\nLos votantes iraníes deben decidir entre Mohamad Baqer Qalibaf, Saeed Jalili y Masoud Pezeshkian.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/canada-impide-participacion-de-iranies-en-elecciones-presidenciales/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-06.json",
+    "message_index": 79,
+    "message_id": 72664,
+    "date": "2024-06-28T18:55:18+00:00",
+    "text": "teleSUR\nCanadá impide participación de iraníes en elecciones presidenciales\nhttps://www.telesurtv.net/canada-impide-participacion-de-iranies-en-elecciones-presidenciales/",
+    "photo_path": null,
+    "views": 1489,
+    "reactions": {},
+    "total_reactions": 0
+  },
+  "preprocessing": {
+    "cleaned": "el canciller interino de irán, ali baqeri kani, denunció este viernes en teherán que canadá impidió abiertamente la participación de cientos de miles de ciudadanos iraníes en las elecciones presidenciales adelantadas del país persa, a pesar de los esfuerzos del viceconsulado en la nación norteamericana. asimismo, el jefe de la diplomacia persa manifestó que el gobierno canadiense con esta acción emite otra señal de enemistad contra la nación iraní y demuestra al mundo que no es honesto en sus reclamos de defender la democracia. las elecciones adelantadas, tras la muerte del anterior mandatario, ebrahim raisí, iniciaron este viernes a las 08h00 hora local. inicialmente se previó que concluyeran a las 18h00 hora local, pero debido a la alta participación popular la comisión electoral extendió su horario en dos ocasiones. primero informó que “el plazo de votación se extendió dos horas, hasta las 20.00 hora local”, y con posterioridad dio a conocer que el sufragio concluirá a las 22h00. están convocadas para emitir el derecho al sufragio un poco más de 61 millones de personas en 58.640 colegios designados en todo el país. en tanto, se han reservado 340 lugares en 100 naciones para recoger los votos de los iraníes en el extranjero. los votantes iraníes deben decidir entre mohamad baqer qalibaf, saeed jalili y masoud pezeshkian.",
+    "tokens": [
+      "canciller",
+      "interino",
+      "irán",
+      ",",
+      "ali",
+      "baqeri",
+      "kani",
+      ",",
+      "denunció",
+      "viernes",
+      "teherán",
+      "canadá",
+      "impidió",
+      "abiertamente",
+      "participación",
+      "cientos",
+      "miles",
+      "ciudadanos",
+      "iraníes",
+      "elecciones",
+      "presidenciales",
+      "adelantadas",
+      "país",
+      "persa",
+      ",",
+      "pesar",
+      "esfuerzos",
+      "viceconsulado",
+      "nación",
+      "norteamericana",
+      ".",
+      "asimismo",
+      ",",
+      "jefe",
+      "diplomacia",
+      "persa",
+      "manifestó",
+      "gobierno",
+      "canadiense",
+      "acción",
+      "emite",
+      "señal",
+      "enemistad",
+      "nación",
+      "iraní",
+      "demuestra",
+      "mundo",
+      "honesto",
+      "reclamos",
+      "defender",
+      "democracia",
+      ".",
+      "elecciones",
+      "adelantadas",
+      ",",
+      "tras",
+      "muerte",
+      "anterior",
+      "mandatario",
+      ",",
+      "ebrahim",
+      "raisí",
+      ",",
+      "iniciaron",
+      "viernes",
+      "08h00",
+      "hora",
+      "local",
+      ".",
+      "inicialmente",
+      "previó",
+      "concluyeran",
+      "18h00",
+      "hora",
+      "local",
+      ",",
+      "debido",
+      "alta",
+      "participación",
+      "popular",
+      "comisión",
+      "electoral",
+      "extendió",
+      "horario",
+      "dos",
+      "ocasiones",
+      ".",
+      "primero",
+      "informó",
+      "“",
+      "plazo",
+      "votación",
+      "extendió",
+      "dos",
+      "horas",
+      ",",
+      "20.00",
+      "hora",
+      "local",
+      "”",
+      ",",
+      "posterioridad",
+      "dio",
+      "conocer",
+      "sufragio",
+      "concluirá",
+      "22h00",
+      ".",
+      "convocadas",
+      "emitir",
+      "derecho",
+      "sufragio",
+      "61",
+      "millones",
+      "personas",
+      "58.640",
+      "colegios",
+      "designados",
+      "país",
+      ".",
+      ",",
+      "reservado",
+      "340",
+      "lugares",
+      "100",
+      "naciones",
+      "recoger",
+      "votos",
+      "iraníes",
+      "extranjero",
+      ".",
+      "votantes",
+      "iraníes",
+      "deben",
+      "decidir",
+      "mohamad",
+      "baqer",
+      "qalibaf",
+      ",",
+      "saeed",
+      "jalili",
+      "masoud",
+      "pezeshkian",
+      "."
+    ],
+    "token_count": 144,
+    "sentence_count": 8
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 26,
+      "NN": 70,
+      "IN": 16,
+      "NNS": 12,
+      "FW": 40,
+      "VBP": 5,
+      "JJ": 20,
+      "DT": 1,
+      "RB": 2,
+      "VBD": 3,
+      "CD": 8,
+      "$": 1,
+      "VBZ": 3
+    },
+    "bigram_freq": {
+      "NNP-NN": 11,
+      "NN-NN": 40,
+      "NN-IN": 12,
+      "IN-NNP": 2,
+      "NNP-NNP": 11,
+      "NN-NNS": 3,
+      "NNS-IN": 3,
+      "NN-NNP": 5,
+      "NN-FW": 3,
+      "FW-FW": 24,
+      "FW-NNS": 1,
+      "IN-NNS": 1,
+      "NNS-VBP": 3,
+      "VBP-IN": 1,
+      "IN-NN": 2,
+      "NNS-NNS": 1,
+      "VBP-JJ": 3,
+      "JJ-NN": 10,
+      "IN-FW": 8,
+      "FW-JJ": 4,
+      "FW-NNP": 4,
+      "NNP-FW": 1,
+      "FW-NN": 6,
+      "IN-JJ": 2,
+      "JJ-JJ": 4,
+      "JJ-FW": 4,
+      "NN-DT": 1,
+      "DT-NN": 1,
+      "NNP-NNS": 1,
+      "NNS-RB": 2,
+      "RB-VBP": 2,
+      "NNS-VBD": 1,
+      "VBD-CD": 2,
+      "CD-JJ": 3,
+      "JJ-NNP": 1,
+      "NN-VBD": 2,
+      "VBD-$": 1,
+      "$-CD": 1,
+      "NN-JJ": 2,
+      "JJ-NNS": 1,
+      "NNS-NNP": 1,
+      "NN-VBZ": 2,
+      "VBZ-CD": 2,
+      "CD-NNP": 1,
+      "IN-CD": 1,
+      "CD-NNS": 4,
+      "FW-CD": 1,
+      "NNS-JJ": 1,
+      "VBP-CD": 1,
+      "NNP-VBZ": 1,
+      "VBZ-JJ": 1
+    },
+    "trigram_freq": {
+      "NNP-NN-NN": 10,
+      "NN-NN-IN": 8,
+      "NN-IN-NNP": 1,
+      "IN-NNP-NNP": 1,
+      "NNP-NNP-NNP": 7,
+      "NNP-NNP-NN": 3,
+      "NN-NN-NNS": 2,
+      "NN-NNS-IN": 1,
+      "NNS-IN-NNP": 1,
+      "IN-NNP-NN": 1,
+      "NNP-NN-NNP": 1,
+      "NN-NNP-NN": 2,
+      "NN-NN-FW": 2,
+      "NN-FW-FW": 1,
+      "FW-FW-FW": 15,
+      "FW-FW-NNS": 1,
+      "FW-NNS-IN": 1,
+      "NNS-IN-NNS": 1,
+      "IN-NNS-VBP": 1,
+      "NNS-VBP-IN": 1,
+      "VBP-IN-NN": 1,
+      "IN-NN-NNS": 1,
+      "NN-NNS-NNS": 1,
+      "NNS-NNS-VBP": 1,
+      "NNS-VBP-JJ": 1,
+      "VBP-JJ-NN": 2,
+      "JJ-NN-NN": 6,
+      "NN-NN-NN": 21,
+      "NN-IN-FW": 7,
+      "IN-FW-JJ": 3,
+      "FW-JJ-NN": 2,
+      "IN-FW-FW": 5,
+      "FW-FW-NNP": 3,
+      "FW-NNP-FW": 1,
+      "NNP-FW-NN": 1,
+      "FW-NN-IN": 2,
+      "FW-FW-NN": 3,
+      "FW-NN-FW": 1,
+      "NN-FW-NNP": 1,
+      "FW-NNP-NN": 1,
+      "NN-IN-JJ": 2,
+      "IN-JJ-JJ": 1,
+      "JJ-JJ-NN": 3,
+      "JJ-NN-IN": 2,
+      "FW-JJ-FW": 2,
+      "JJ-FW-FW": 3,
+      "FW-NN-DT": 1,
+      "NN-DT-NN": 1,
+      "DT-NN-NN": 1,
+      "NN-IN-NN": 1,
+      "IN-NN-NN": 1,
+      "FW-NNP-NNS": 1,
+      "NNP-NNS-RB": 1,
+      "NNS-RB-VBP": 2,
+      "RB-VBP-JJ": 2,
+      "VBP-JJ-FW": 1,
+      "FW-FW-JJ": 1,
+      "JJ-NN-NNP": 2,
+      "NN-NNP-NNP": 3,
+      "NN-NNS-VBD": 1,
+      "NNS-VBD-CD": 1,
+      "VBD-CD-JJ": 1,
+      "CD-JJ-JJ": 3,
+      "JJ-JJ-NNP": 1,
+      "JJ-NNP-NN": 1,
+      "NN-NN-VBD": 2,
+      "NN-VBD-$": 1,
+      "VBD-$-CD": 1,
+      "$-CD-JJ": 1,
+      "NN-NN-JJ": 2,
+      "NN-JJ-NN": 2,
+      "IN-JJ-NNS": 1,
+      "JJ-NNS-NNP": 1,
+      "NNS-NNP-NN": 1,
+      "NN-FW-NN": 1,
+      "FW-NN-VBZ": 1,
+      "NN-VBZ-CD": 2,
+      "VBZ-CD-JJ": 1,
+      "NN-VBD-CD": 1,
+      "VBD-CD-NNP": 1,
+      "CD-NNP-NN": 1,
+      "NN-IN-CD": 1,
+      "IN-CD-NNS": 1,
+      "CD-NNS-IN": 1,
+      "NNS-IN-FW": 1,
+      "FW-FW-CD": 1,
+      "FW-CD-NNS": 1,
+      "CD-NNS-JJ": 1,
+      "NNS-JJ-FW": 1,
+      "JJ-FW-NN": 1,
+      "FW-NN-NN": 1,
+      "NN-NN-NNP": 2,
+      "NN-NN-VBZ": 1,
+      "VBZ-CD-NNS": 1,
+      "CD-NNS-VBP": 1,
+      "NNS-VBP-CD": 1,
+      "VBP-CD-NNS": 1,
+      "CD-NNS-RB": 1,
+      "FW-NNP-VBZ": 1,
+      "NNP-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 70,
+        "FW": 40,
+        "NNP": 26,
+        "JJ": 20,
+        "IN": 16
+      },
+      "top_bigrams": {
+        "NN-NN": 40,
+        "FW-FW": 24,
+        "NN-IN": 12,
+        "NNP-NN": 11,
+        "NNP-NNP": 11
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 21,
+        "FW-FW-FW": 15,
+        "NNP-NN-NN": 10,
+        "NN-NN-IN": 8,
+        "NNP-NNP-NNP": 7
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 8,
+    "chunk_counts": {
+      "NP": 52,
+      "PP": 7,
+      "VP": 14,
+      "ADJP": 10
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 4,
+        "weight": 0.044
+      },
+      {
+        "rule": "ADJP -> ('las', 'JJ')",
+        "frequency": 3,
+        "weight": 0.033
+      },
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.022
+      },
+      {
+        "rule": "NP -> ('que', 'NN')",
+        "frequency": 2,
+        "weight": 0.022
+      },
+      {
+        "rule": "ADJP -> ('hora', 'JJ')",
+        "frequency": 2,
+        "weight": 0.022
+      },
+      {
+        "rule": "ADJP -> ('local', 'JJ')",
+        "frequency": 2,
+        "weight": 0.022
+      },
+      {
+        "rule": "S -> NP PP (',', ',') NP (',', ',') NP PP ('la', 'FW') ('participación', 'FW') ('de', 'FW') ('cientos', 'FW') ('de', 'FW') NP PP VP PP VP (',', ',') NP ('de', 'IN') ('los', 'FW') NP ('en', 'IN') ('la', 'FW') ('nación', 'FW') ('norteamericana', 'FW') ('.', '.')",
+        "frequency": 1,
+        "weight": 0.011
+      },
+      {
+        "rule": "NP -> ('El', 'NNP') ('canciller', 'NN') ('interino', 'NN')",
+        "frequency": 1,
+        "weight": 0.011
+      },
+      {
+        "rule": "NP -> ('Irán', 'NNP')",
+        "frequency": 1,
+        "weight": 0.011
+      },
+      {
+        "rule": "NP -> ('Ali', 'NNP') ('Baqeri', 'NNP') ('Kani', 'NNP')",
+        "frequency": 1,
+        "weight": 0.011
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El canciller interino"
+      },
+      {
+        "label": "PP",
+        "text": "de Irán"
+      },
+      {
+        "label": "NP",
+        "text": "Irán"
+      },
+      {
+        "label": "NP",
+        "text": "Ali Baqeri Kani"
+      },
+      {
+        "label": "NP",
+        "text": "denunció este viernes"
+      },
+      {
+        "label": "PP",
+        "text": "en Teherán que Canadá impidió abiertamente"
+      },
+      {
+        "label": "NP",
+        "text": "Teherán que Canadá impidió abiertamente"
+      },
+      {
+        "label": "NP",
+        "text": "miles"
+      },
+      {
+        "label": "PP",
+        "text": "de ciudadanos"
+      },
+      {
+        "label": "NP",
+        "text": "ciudadanos"
+      },
+      {
+        "label": "VP",
+        "text": "iraníes"
+      },
+      {
+        "label": "PP",
+        "text": "en las elecciones presidenciales"
+      },
+      {
+        "label": "NP",
+        "text": "las elecciones presidenciales"
+      },
+      {
+        "label": "VP",
+        "text": "adelantadas del país persa"
+      },
+      {
+        "label": "NP",
+        "text": "del país persa"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP El/NNP canciller/NN interino/NN)\n  (PP de/IN (NP Irán/NNP))\n  ,/,\n  (NP Ali/NNP Baqeri/NNP Kani/NNP)\n  ,/,\n  (NP denunció/NN este/NN viernes/NNS)\n  (PP\n    en/IN\n    (NP Teherán/NNP que/NN Canadá/NNP impidió/NN abiertamente/NN))\n  la/FW\n  participación/FW\n  de/FW\n  cientos/FW\n  de/FW\n  (NP miles/NNS)\n  (PP de/IN (NP ciudadanos/NNS))\n  (VP iraníes/VBP)\n  (PP en/IN (NP las/NN elecciones/NNS presidenciales/NNS))\n  (VP adelantadas/VBP (NP del/JJ país/NN persa/NN))\n  ,/,\n  (NP a/DT pesar/NN)\n  de/IN\n  los/FW\n  (NP esfuerzos/JJ del/NN viceconsulado/NN)\n  en/IN\n  la/FW\n  nación/FW\n  norteamericana/FW\n  ./.)",
+      "(S\n  (NP Asimismo/NNP)\n  ,/,\n  (NP el/JJ jefe/NN)\n  de/IN\n  la/FW\n  diplomacia/FW\n  persa/FW\n  manifestó/FW\n  (NP que/NN)\n  el/FW\n  (NP Gobierno/NNP canadiense/NN con/NN esta/NN)\n  (PP acción/IN (NP emite/JJ otra/JJ señal/NN))\n  de/IN\n  enemistad/FW\n  (ADJP contra/JJ)\n  la/FW\n  nación/FW\n  iraní/FW\n  y/FW\n  demuestra/FW\n  al/FW\n  mundo/FW\n  (NP que/NN)\n  (NP no/DT es/NN honesto/NN)\n  (PP en/IN (NP sus/NN reclamos/NN))\n  de/IN\n  defender/FW\n  la/FW\n  (NP democracia/NN)\n  ./.)",
+      "(S\n  (NP Las/NNP elecciones/NNS)\n  adelantadas/RB\n  ,/,\n  (NP tras/NNS)\n  (VP la/VBP (NP muerte/JJ del/NN) (NP anterior/JJ mandatario/NN))\n  ,/,\n  (NP Ebrahim/NNP Raisí/NNP)\n  ,/,\n  (NP iniciaron/NN este/NN)\n  (VP viernes/VBZ)\n  a/DT\n  (ADJP las/JJ)\n  08H00/CD\n  (ADJP hora/JJ)\n  (ADJP local/JJ)\n  ./.)",
+      "(S\n  (NP Inicialmente/NNP)\n  (VP se/VBD (NP previó/JJ que/NN))\n  (VP concluyeran/VBD)\n  a/DT\n  (ADJP las/JJ)\n  18H00/CD\n  (ADJP hora/JJ)\n  (ADJP local/JJ)\n  ,/,\n  (NP pero/JJ debido/NN)\n  (NP a/DT la/NN alta/NN participación/NN)\n  (NP\n    popular/JJ\n    la/NN\n    Comisión/NNP\n    Electoral/NNP\n    extendió/NN\n    su/NN\n    horario/NN)\n  (PP en/IN (NP dos/JJ ocasiones/NNS))\n  ./.)",
+      "(S\n  (NP Primero/NNP informó/NN que/NN “/NNP)\n  (VP el/VBZ)\n  plazo/FW\n  de/FW\n  votación/FW\n  se/FW\n  extendió/FW\n  (NP dos/NN horas/NNS)\n  ,/,\n  (NP hasta/NN)\n  (VP las/VBD)\n  20.00/CD\n  (NP hora/JJ local/JJ ”/NN)\n  ,/,\n  (NP y/JJ con/NN posterioridad/NN)\n  (VP dio/VBZ (NP a/DT conocer/NN que/NN el/NN sufragio/NN))\n  (VP concluirá/VBZ)\n  a/DT\n  (ADJP las/JJ)\n  22H00/CD\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "CANTIDADES_NUMERICAS",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "ACCIONES_LEGALES",
+      "PAISES",
+      "PROTESTAS_CONFLICTOS_SOCIALES",
+      "CONFLICTOS_ARMADOS_OPERACIONES"
+    ],
+    "matches": [
+      {
+        "category": "PROTESTAS_CONFLICTOS_SOCIALES",
+        "matched_text": "manifestó",
+        "position": [
+          346,
+          355
+        ],
+        "start": 346,
+        "end": 355
+      },
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "denunció este viernes en teherán que canadá impidió abiertamente la participación de cientos de miles de ciudadanos iraníes en las elecciones presidenciales adelantadas del país persa, a",
+        "position": [
+          48,
+          234
+        ],
+        "start": 48,
+        "end": 234
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "informó",
+        "position": [
+          840,
+          847
+        ],
+        "start": 840,
+        "end": 847
+      },
+      {
+        "category": "ACCIONES_LEGALES",
+        "matched_text": "denunció",
+        "position": [
+          48,
+          56
+        ],
+        "start": 48,
+        "end": 56
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "canadá",
+        "position": [
+          85,
+          91
+        ],
+        "start": 85,
+        "end": 91
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "61 millones",
+        "position": [
+          1066,
+          1077
+        ],
+        "start": 1066,
+        "end": 1077
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "más de 61",
+        "position": [
+          1059,
+          1068
+        ],
+        "start": 1059,
+        "end": 1068
+      }
+    ],
+    "match_count": 7
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Irán",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Masoud Pezeshkian",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Mohamad Baqer Qalibaf",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Saeed Jalili",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Comisión Electoral",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Ali Baqeri Kani",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Canadá",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Teherán",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Gobierno canadiense",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Ebrahim Raisí",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Primero",
+        "tipo": "Persona"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Irán",
+        "relacion": "DENUNCIAR",
+        "objeto": "Teherán"
+      },
+      {
+        "sujeto": "Canadá",
+        "relacion": "DENUNCIAR",
+        "objeto": "Irán"
+      },
+      {
+        "sujeto": "Ali Baqeri Kani",
+        "relacion": "DENUNCIAR",
+        "objeto": "Teherán"
+      },
+      {
+        "sujeto": "Canadá",
+        "relacion": "DENUNCIAR",
+        "objeto": "Ali Baqeri Kani"
+      },
+      {
+        "sujeto": "Canadá",
+        "relacion": "DENUNCIAR",
+        "objeto": "Teherán"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.25,
+    "pos": 0.02,
+    "neu": 0.97,
+    "neg": 0.01,
+    "label": "positive"
+  }
+}

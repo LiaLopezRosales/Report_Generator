@@ -1,0 +1,874 @@
+{
+  "url": "https://www.telesurtv.net/manifestantes-asaltan-el-parlamento-en-kenia-por-el-aumento-de-impuestos/",
+  "title": "Manifestantes asaltan el parlamento en Kenia por el aumento de impuestos - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Kenia",
+    "Manifestaciones"
+  ],
+  "text": "\nLa sede del Parlamento de Kenia en Nairobi fue asaltada este martes por cientos de manifestantes, mientras se debatía un proyecto de ley avalado por el Gobierno con el objetivo de subir impuestos y crear otros, lo que ha generado una ola de protestas en todo el país.\nLos manifestantes, quienes pudieron acceder al edificio a través del Senado (Cámara Alya), lanzaban gritos de “¡Ruto debe irse, Ruto debe irse!”, refiriéndose al presidente keniano, William Ruto, y su Gobierno.\n\nLos participantes llegaron incluso hasta una de las cafeterías y prendieron fuego a una de las instalaciones del recinto y también a la Oficina del Gobernador de Nairobi, Johnson Sakaja, ubicada en las inmediaciones.\nSegún medios de prensa, las fuerzas del orden intentaron en un primer momento dispersarlos con gases lacrimógenos y cañones de agua, pero después de las 14H30 (11:30 GMT) comenzó a disparar munición, dejando varios muertos y heridos.\nLos agentes de policía también dispararon contra algunos manifestantes heridos que buscaban tratamiento en una tienda médica en una iglesia cerca del parlamento.\nDurante la incursión al Parlamento, los manifestantes destrozaron el lugar y acusaron a los políticos de traidores, después de que 195 diputados votaran de manera preliminar a favor del polémico Proyecto de Ley de Finanzas de 2024, frente a 106 votos en contra, si bien falta la votación final.\nEn Nairobi más de 300 personas fueron detenidas el martes pasado, mientras el jueves se produjeron al menos 105 arrestos en todo el país, 200 personas resultaron heridas y dos manifestantes murieron.\nPor otra parte, la presidenta de la Sociedad Jurídica de Kenia, Faith Odhiambo, informó que 50 kenianos, incluido su asistente personal, fueron secuestrados por personas que se cree eran agentes de policía.El objetivo del gobierno con el proyecto de ley es recaudar 2.700 millones de dólares en impuestos adicionales para reducir el déficit presupuestario y el endeudamiento estatal.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/manifestantes-asaltan-el-parlamento-en-kenia-por-el-aumento-de-impuestos/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-06.json",
+    "message_index": 211,
+    "message_id": 72532,
+    "date": "2024-06-25T15:55:14+00:00",
+    "text": "teleSUR\nManifestantes asaltan el parlamento en Kenia por el aumento de impuestos\nhttps://www.telesurtv.net/manifestantes-asaltan-el-parlamento-en-kenia-por-el-aumento-de-impuestos/",
+    "photo_path": null,
+    "views": 1375,
+    "reactions": {},
+    "total_reactions": 0
+  },
+  "preprocessing": {
+    "cleaned": "la sede del parlamento de kenia en nairobi fue asaltada este martes por cientos de manifestantes, mientras se debatía un proyecto de ley avalado por el gobierno con el objetivo de subir impuestos y crear otros, lo que ha generado una ola de protestas en todo el país. los manifestantes, quienes pudieron acceder al edificio a través del senado (cámara alya), lanzaban gritos de “¡ruto debe irse, ruto debe irse!”, refiriéndose al presidente keniano, william ruto, y su gobierno. los participantes llegaron incluso hasta una de las cafeterías y prendieron fuego a una de las instalaciones del recinto y también a la oficina del gobernador de nairobi, johnson sakaja, ubicada en las inmediaciones. según medios de prensa, las fuerzas del orden intentaron en un primer momento dispersarlos con gases lacrimógenos y cañones de agua, pero después de las 14h30 (11:30 gmt) comenzó a disparar munición, dejando varios muertos y heridos. los agentes de policía también dispararon contra algunos manifestantes heridos que buscaban tratamiento en una tienda médica en una iglesia cerca del parlamento. durante la incursión al parlamento, los manifestantes destrozaron el lugar y acusaron a los políticos de traidores, después de que 195 diputados votaran de manera preliminar a favor del polémico proyecto de ley de finanzas de 2024, frente a 106 votos en contra, si bien falta la votación final. en nairobi más de 300 personas fueron detenidas el martes pasado, mientras el jueves se produjeron al menos 105 arrestos en todo el país, 200 personas resultaron heridas y dos manifestantes murieron. por otra parte, la presidenta de la sociedad jurídica de kenia, faith odhiambo, informó que 50 kenianos, incluido su asistente personal, fueron secuestrados por personas que se cree eran agentes de policía.el objetivo del gobierno con el proyecto de ley es recaudar 2.700 millones de dólares en impuestos adicionales para reducir el déficit presupuestario y el endeudamiento estatal.",
+    "tokens": [
+      "sede",
+      "parlamento",
+      "kenia",
+      "nairobi",
+      "asaltada",
+      "martes",
+      "cientos",
+      "manifestantes",
+      ",",
+      "mientras",
+      "debatía",
+      "proyecto",
+      "ley",
+      "avalado",
+      "gobierno",
+      "objetivo",
+      "subir",
+      "impuestos",
+      "crear",
+      ",",
+      "generado",
+      "ola",
+      "protestas",
+      "país",
+      ".",
+      "manifestantes",
+      ",",
+      "pudieron",
+      "acceder",
+      "edificio",
+      "través",
+      "senado",
+      "(",
+      "cámara",
+      "alya",
+      ")",
+      ",",
+      "lanzaban",
+      "gritos",
+      "“",
+      "¡ruto",
+      "debe",
+      "irse",
+      ",",
+      "ruto",
+      "debe",
+      "irse",
+      "!",
+      "”",
+      ",",
+      "refiriéndose",
+      "presidente",
+      "keniano",
+      ",",
+      "william",
+      "ruto",
+      ",",
+      "gobierno",
+      ".",
+      "participantes",
+      "llegaron",
+      "incluso",
+      "cafeterías",
+      "prendieron",
+      "fuego",
+      "instalaciones",
+      "recinto",
+      "oficina",
+      "gobernador",
+      "nairobi",
+      ",",
+      "johnson",
+      "sakaja",
+      ",",
+      "ubicada",
+      "inmediaciones",
+      ".",
+      "según",
+      "medios",
+      "prensa",
+      ",",
+      "fuerzas",
+      "orden",
+      "intentaron",
+      "primer",
+      "momento",
+      "dispersarlos",
+      "gases",
+      "lacrimógenos",
+      "cañones",
+      "agua",
+      ",",
+      "después",
+      "14h30",
+      "(",
+      "11:30",
+      "gmt",
+      ")",
+      "comenzó",
+      "disparar",
+      "munición",
+      ",",
+      "dejando",
+      "varios",
+      "muertos",
+      "heridos",
+      ".",
+      "agentes",
+      "policía",
+      "dispararon",
+      "manifestantes",
+      "heridos",
+      "buscaban",
+      "tratamiento",
+      "tienda",
+      "médica",
+      "iglesia",
+      "cerca",
+      "parlamento",
+      ".",
+      "incursión",
+      "parlamento",
+      ",",
+      "manifestantes",
+      "destrozaron",
+      "lugar",
+      "acusaron",
+      "políticos",
+      "traidores",
+      ",",
+      "después",
+      "195",
+      "diputados",
+      "votaran",
+      "manera",
+      "preliminar",
+      "favor",
+      "polémico",
+      "proyecto",
+      "ley",
+      "finanzas",
+      "2024",
+      ",",
+      "frente",
+      "106",
+      "votos",
+      ",",
+      "si",
+      "bien",
+      "falta",
+      "votación",
+      "final",
+      ".",
+      "nairobi",
+      "300",
+      "personas",
+      "detenidas",
+      "martes",
+      "pasado",
+      ",",
+      "mientras",
+      "jueves",
+      "produjeron",
+      "menos",
+      "105",
+      "arrestos",
+      "país",
+      ",",
+      "200",
+      "personas",
+      "resultaron",
+      "heridas",
+      "dos",
+      "manifestantes",
+      "murieron",
+      ".",
+      "parte",
+      ",",
+      "presidenta",
+      "sociedad",
+      "jurídica",
+      "kenia",
+      ",",
+      "faith",
+      "odhiambo",
+      ",",
+      "informó",
+      "50",
+      "kenianos",
+      ",",
+      "incluido",
+      "asistente",
+      "personal",
+      ",",
+      "secuestrados",
+      "personas",
+      "cree",
+      "agentes",
+      "policía.el",
+      "objetivo",
+      "gobierno",
+      "proyecto",
+      "ley",
+      "recaudar",
+      "2.700",
+      "millones",
+      "dólares",
+      "impuestos",
+      "adicionales",
+      "reducir",
+      "déficit",
+      "presupuestario",
+      "endeudamiento",
+      "estatal",
+      "."
+    ],
+    "token_count": 215,
+    "sentence_count": 8
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 38,
+      "VBP": 16,
+      "NN": 94,
+      "FW": 63,
+      "JJ": 30,
+      "NNS": 21,
+      "IN": 14,
+      "VBZ": 6,
+      "CD": 10,
+      "VBD": 2,
+      "RB": 1,
+      "RBS": 1
+    },
+    "bigram_freq": {
+      "NNP-VBP": 2,
+      "VBP-NN": 3,
+      "NN-NNP": 7,
+      "NNP-FW": 7,
+      "FW-NNP": 8,
+      "VBP-JJ": 10,
+      "JJ-NN": 19,
+      "NN-NNS": 5,
+      "NNS-VBP": 12,
+      "NN-FW": 10,
+      "FW-FW": 33,
+      "FW-JJ": 6,
+      "JJ-FW": 2,
+      "FW-NNS": 5,
+      "JJ-NNP": 4,
+      "NNP-NN": 6,
+      "NN-NN": 52,
+      "NN-JJ": 2,
+      "NN-IN": 9,
+      "IN-FW": 5,
+      "NNP-VBZ": 3,
+      "VBZ-NNS": 1,
+      "NNS-NN": 1,
+      "FW-NN": 9,
+      "NNP-NNP": 12,
+      "NNP-JJ": 4,
+      "IN-NNP": 3,
+      "JJ-JJ": 2,
+      "NN-VBP": 1,
+      "VBZ-FW": 2,
+      "NNS-FW": 4,
+      "NNS-NNP": 1,
+      "VBP-NNS": 3,
+      "FW-CD": 2,
+      "CD-CD": 1,
+      "CD-NNP": 1,
+      "JJ-NNS": 2,
+      "NNS-VBZ": 1,
+      "VBZ-JJ": 1,
+      "IN-JJ": 3,
+      "IN-NNS": 1,
+      "CD-NN": 4,
+      "NNP-IN": 4,
+      "IN-CD": 2,
+      "NN-CD": 4,
+      "CD-NNS": 4,
+      "NN-VBD": 2,
+      "VBD-CD": 1,
+      "NNS-RB": 1,
+      "RB-VBP": 1,
+      "NN-VBZ": 2,
+      "VBZ-RBS": 1,
+      "RBS-NNP": 1,
+      "NNS-JJ": 1,
+      "VBD-JJ": 1,
+      "VBZ-IN": 1
+    },
+    "trigram_freq": {
+      "NNP-VBP-NN": 1,
+      "VBP-NN-NNP": 1,
+      "NN-NNP-FW": 1,
+      "NNP-FW-NNP": 5,
+      "FW-NNP-FW": 3,
+      "FW-NNP-VBP": 1,
+      "NNP-VBP-JJ": 1,
+      "VBP-JJ-NN": 7,
+      "JJ-NN-NNS": 2,
+      "NN-NNS-VBP": 5,
+      "NNS-VBP-NN": 2,
+      "VBP-NN-FW": 1,
+      "NN-FW-FW": 4,
+      "FW-FW-FW": 21,
+      "FW-FW-JJ": 2,
+      "FW-JJ-FW": 1,
+      "JJ-FW-FW": 2,
+      "FW-FW-NNS": 3,
+      "FW-NNS-VBP": 3,
+      "NNS-VBP-JJ": 7,
+      "VBP-JJ-NNP": 2,
+      "JJ-NNP-NN": 2,
+      "NNP-NN-NN": 4,
+      "NN-NN-FW": 6,
+      "JJ-NN-NN": 11,
+      "NN-NN-NN": 27,
+      "NN-NN-JJ": 2,
+      "NN-JJ-NN": 1,
+      "JJ-NN-IN": 3,
+      "NN-IN-FW": 4,
+      "IN-FW-FW": 1,
+      "FW-FW-NNP": 2,
+      "FW-NNP-VBZ": 1,
+      "NNP-VBZ-NNS": 1,
+      "VBZ-NNS-NN": 1,
+      "NNS-NN-NN": 1,
+      "NN-FW-NN": 2,
+      "FW-NN-NN": 6,
+      "NN-NN-NNP": 4,
+      "NN-NNP-NNP": 4,
+      "NNP-NNP-NNP": 4,
+      "NNP-NNP-JJ": 2,
+      "NNP-JJ-NN": 2,
+      "NN-IN-NNP": 1,
+      "IN-NNP-JJ": 1,
+      "NNP-JJ-JJ": 1,
+      "JJ-JJ-NNP": 1,
+      "NN-NN-VBP": 1,
+      "NN-VBP-JJ": 1,
+      "NNP-NNP-NN": 2,
+      "NNP-NN-NNP": 1,
+      "NNP-NNP-VBZ": 1,
+      "NNP-VBZ-FW": 2,
+      "VBZ-FW-NN": 1,
+      "NN-NN-IN": 6,
+      "IN-FW-NN": 2,
+      "IN-FW-NNS": 1,
+      "FW-NNS-FW": 1,
+      "NNS-FW-FW": 3,
+      "FW-FW-NN": 3,
+      "FW-NN-FW": 1,
+      "NN-FW-NNP": 1,
+      "FW-NNP-NNP": 2,
+      "NNP-JJ-FW": 1,
+      "FW-NNS-NNP": 1,
+      "NNS-NNP-FW": 1,
+      "NNP-FW-FW": 1,
+      "FW-JJ-NN": 4,
+      "JJ-NN-FW": 1,
+      "NN-FW-JJ": 3,
+      "NN-NN-NNS": 2,
+      "NNS-VBP-NNS": 3,
+      "VBP-NNS-FW": 1,
+      "FW-FW-CD": 2,
+      "FW-CD-CD": 1,
+      "CD-CD-NNP": 1,
+      "CD-NNP-NN": 1,
+      "JJ-NNP-VBZ": 1,
+      "VBZ-FW-FW": 1,
+      "NN-JJ-NNS": 1,
+      "JJ-NNS-VBZ": 1,
+      "NNS-VBZ-JJ": 1,
+      "VBZ-JJ-JJ": 1,
+      "JJ-JJ-NN": 1,
+      "NN-IN-JJ": 3,
+      "IN-JJ-NN": 2,
+      "NNP-NNP-FW": 1,
+      "NNP-FW-NN": 1,
+      "FW-NN-NNP": 1,
+      "NN-NNP-NN": 1,
+      "NNP-NN-NNS": 1,
+      "NN-IN-NNS": 1,
+      "IN-NNS-FW": 1,
+      "FW-CD-NN": 1,
+      "CD-NN-NN": 2,
+      "NN-NNP-IN": 1,
+      "NNP-IN-NNP": 2,
+      "IN-NNP-FW": 1,
+      "FW-NNP-IN": 1,
+      "NNP-IN-CD": 2,
+      "IN-CD-NN": 1,
+      "CD-NN-CD": 1,
+      "NN-CD-NN": 2,
+      "CD-NN-FW": 1,
+      "FW-JJ-NNP": 1,
+      "JJ-NNP-NNP": 1,
+      "NNP-NNP-IN": 2,
+      "IN-CD-NNS": 1,
+      "CD-NNS-VBP": 1,
+      "VBP-NNS-VBP": 2,
+      "VBP-NN-NN": 1,
+      "NN-NN-VBD": 2,
+      "NN-VBD-CD": 1,
+      "VBD-CD-NNS": 1,
+      "CD-NNS-RB": 1,
+      "NNS-RB-VBP": 1,
+      "RB-VBP-JJ": 1,
+      "JJ-NN-CD": 1,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-RBS": 1,
+      "VBZ-RBS-NNP": 1,
+      "RBS-NNP-JJ": 1,
+      "IN-NNP-NNP": 1,
+      "NN-NN-CD": 1,
+      "NN-CD-NNS": 2,
+      "CD-NNS-JJ": 1,
+      "NNS-JJ-NN": 1,
+      "NN-VBD-JJ": 1,
+      "VBD-JJ-NN": 1,
+      "JJ-NN-VBZ": 1,
+      "NN-VBZ-IN": 1,
+      "VBZ-IN-FW": 1,
+      "IN-FW-JJ": 1,
+      "FW-NN-CD": 1,
+      "CD-NNS-FW": 1,
+      "NNS-FW-NNS": 1,
+      "VBP-JJ-NNS": 1,
+      "JJ-NNS-VBP": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 94,
+        "FW": 63,
+        "NNP": 38,
+        "JJ": 30,
+        "NNS": 21
+      },
+      "top_bigrams": {
+        "NN-NN": 52,
+        "FW-FW": 33,
+        "JJ-NN": 19,
+        "NNS-VBP": 12,
+        "NNP-NNP": 12
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 27,
+        "FW-FW-FW": 21,
+        "JJ-NN-NN": 11,
+        "VBP-JJ-NN": 7,
+        "NNS-VBP-JJ": 7
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 8,
+    "chunk_counts": {
+      "NP": 93,
+      "VP": 33,
+      "ADJP": 7,
+      "PP": 5
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 3,
+        "weight": 0.0205
+      },
+      {
+        "rule": "NP -> ('Kenia', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0137
+      },
+      {
+        "rule": "NP -> ('Nairobi', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0137
+      },
+      {
+        "rule": "VP -> ('por', 'VBP') NP",
+        "frequency": 2,
+        "weight": 0.0137
+      },
+      {
+        "rule": "NP -> ('Los', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0137
+      },
+      {
+        "rule": "VP -> ('agentes', 'VBZ')",
+        "frequency": 2,
+        "weight": 0.0137
+      },
+      {
+        "rule": "VP -> ('manifestantes', 'VBZ') NP",
+        "frequency": 2,
+        "weight": 0.0137
+      },
+      {
+        "rule": "NP -> ('personas', 'NNS')",
+        "frequency": 2,
+        "weight": 0.0137
+      },
+      {
+        "rule": "S -> NP VP ('de', 'FW') NP ('en', 'FW') NP VP VP ('de', 'FW') NP (',', ',') ('mientras', 'FW') ('se', 'FW') ('debatía', 'FW') ADJP ('proyecto', 'FW') ('de', 'FW') ('ley', 'FW') NP VP ('objetivo', 'FW') ('de', 'FW') ('subir', 'FW') NP VP (',', ',') NP NP ('de', 'IN') ('protestas', 'FW') ('en', 'FW') ('todo', 'FW') ('el', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0068
+      },
+      {
+        "rule": "NP -> ('La', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0068
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "La"
+      },
+      {
+        "label": "VP",
+        "text": "sede del Parlamento"
+      },
+      {
+        "label": "NP",
+        "text": "del Parlamento"
+      },
+      {
+        "label": "NP",
+        "text": "Kenia"
+      },
+      {
+        "label": "NP",
+        "text": "Nairobi"
+      },
+      {
+        "label": "VP",
+        "text": "fue asaltada este martes"
+      },
+      {
+        "label": "NP",
+        "text": "asaltada este martes"
+      },
+      {
+        "label": "VP",
+        "text": "por cientos"
+      },
+      {
+        "label": "NP",
+        "text": "cientos"
+      },
+      {
+        "label": "NP",
+        "text": "manifestantes"
+      },
+      {
+        "label": "ADJP",
+        "text": "un"
+      },
+      {
+        "label": "NP",
+        "text": "avalado"
+      },
+      {
+        "label": "VP",
+        "text": "por el Gobierno con el"
+      },
+      {
+        "label": "NP",
+        "text": "el Gobierno con el"
+      },
+      {
+        "label": "NP",
+        "text": "impuestos"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP La/NNP)\n  (VP sede/VBP (NP del/NN Parlamento/NNP))\n  de/FW\n  (NP Kenia/NNP)\n  en/FW\n  (NP Nairobi/NNP)\n  (VP fue/VBP (NP asaltada/JJ este/NN martes/NNS))\n  (VP por/VBP (NP cientos/NN))\n  de/FW\n  (NP manifestantes/NNS)\n  ,/,\n  mientras/FW\n  se/FW\n  debatía/FW\n  (ADJP un/JJ)\n  proyecto/FW\n  de/FW\n  ley/FW\n  (NP avalado/NNS)\n  (VP por/VBP (NP el/JJ Gobierno/NNP con/NN el/NN))\n  objetivo/FW\n  de/FW\n  subir/FW\n  (NP impuestos/NNS)\n  (VP y/VBP (NP crear/JJ otros/NNS))\n  ,/,\n  (NP lo/JJ que/NN ha/NN generado/NN)\n  (NP una/JJ ola/NN)\n  de/IN\n  protestas/FW\n  en/FW\n  todo/FW\n  el/FW\n  (NP país/NN)\n  ./.)",
+      "(S\n  (NP Los/NNP manifestantes/NNS)\n  ,/,\n  (NP quienes/NNS)\n  (VP pudieron/VBP (NP acceder/NN al/NN))\n  (VP edificio/VBZ (NP a/DT través/JJ del/NN Senado/NNP))\n  (/(\n  (NP Cámara/NNP Alya/NNP)\n  )/)\n  ,/,\n  (NP lanzaban/JJ gritos/NN)\n  (PP de/IN (NP “/NNP ¡Ruto/NNP debe/NN irse/NN))\n  ,/,\n  (NP Ruto/NNP)\n  (VP debe/VBZ (NP irse/NN))\n  !/.\n  (NP ”/NN)\n  ,/,\n  (VP refiriéndose/VB (NP al/JJ presidente/NN keniano/NN))\n  ,/,\n  (NP William/NNP Ruto/NNP)\n  ,/,\n  (NP y/NNP)\n  (VP su/VBD (NP Gobierno/NNP))\n  ./.)",
+      "(S\n  (NP Los/NNP)\n  (VP participantes/VBZ)\n  llegaron/FW\n  (NP incluso/NN hasta/NN una/NN)\n  de/IN\n  las/FW\n  (NP cafeterías/NN y/NN prendieron/NN)\n  (VP fuego/VBD)\n  a/DT\n  (ADJP una/JJ)\n  de/FW\n  las/FW\n  (NP instalaciones/NNS)\n  del/FW\n  (NP recinto/NN y/NN)\n  (VP también/VBD (NP a/DT la/NN Oficina/NNP))\n  del/FW\n  (NP Gobernador/NNP)\n  de/FW\n  (NP Nairobi/NNP)\n  ,/,\n  (NP Johnson/NNP Sakaja/NNP)\n  ,/,\n  (ADJP ubicada/JJ)\n  en/FW\n  las/FW\n  (NP inmediaciones/NNS)\n  ./.)",
+      "(S\n  (NP Según/NNP medios/NNS)\n  de/FW\n  prensa/FW\n  ,/,\n  las/FW\n  (ADJP fuerzas/JJ)\n  del/FW\n  (NP orden/JJ intentaron/NN)\n  en/FW\n  (NP un/JJ primer/NN momento/NN dispersarlos/NN con/NN gases/NNS)\n  (VP lacrimógenos/VBP (NP y/JJ cañones/NNS))\n  (PP de/IN (NP agua/NN))\n  ,/,\n  (NP pero/NN después/NN)\n  de/IN\n  las/FW\n  14H30/CD\n  (/(\n  11:30/CD\n  (NP GMT/NNP)\n  )/)\n  (VP comenzó/VBP (NP a/DT disparar/NN munición/NN))\n  ,/,\n  (NP dejando/JJ varios/NNS)\n  (VP muertos/VBP y/RB (NP heridos/NN))\n  ./.)",
+      "(S\n  (NP Los/NNP)\n  (VP agentes/VBZ)\n  de/FW\n  policía/FW\n  (NP también/NN dispararon/NN)\n  (NP contra/JJ algunos/NNS)\n  (VP\n    manifestantes/VBZ\n    (NP heridos/JJ que/JJ buscaban/NN tratamiento/NN))\n  en/FW\n  (NP una/JJ tienda/NN médica/NN)\n  (PP en/IN (NP una/JJ iglesia/NN cerca/NN del/NN parlamento/NN))\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "GOBIERNOS_OFICIALES",
+      "LEYES_NORMATIVAS",
+      "RECURSOS_NATURALES",
+      "CANTIDADES_NUMERICAS",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "ACCIONES_LEGALES",
+      "LOCALIZACIONES_ESPECIFICAS",
+      "JURIDICO_LEGISLATIVO_CORRUPCION",
+      "MONETARIOS"
+    ],
+    "matches": [
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "informó",
+        "position": [
+          1669,
+          1676
+        ],
+        "start": 1669,
+        "end": 1676
+      },
+      {
+        "category": "JURIDICO_LEGISLATIVO_CORRUPCION",
+        "matched_text": "diputados votaran de manera preliminar a favor del polémico proyecto",
+        "position": [
+          1229,
+          1297
+        ],
+        "start": 1229,
+        "end": 1297
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente keniano",
+        "position": [
+          431,
+          449
+        ],
+        "start": 431,
+        "end": 449
+      },
+      {
+        "category": "ACCIONES_LEGALES",
+        "matched_text": "acusaron",
+        "position": [
+          1171,
+          1179
+        ],
+        "start": 1171,
+        "end": 1179
+      },
+      {
+        "category": "LEYES_NORMATIVAS",
+        "matched_text": "ley de finanzas de 2024",
+        "position": [
+          1301,
+          1324
+        ],
+        "start": 1301,
+        "end": 1324
+      },
+      {
+        "category": "LEYES_NORMATIVAS",
+        "matched_text": "proyecto de ley",
+        "position": [
+          122,
+          137
+        ],
+        "start": 122,
+        "end": 137
+      },
+      {
+        "category": "RECURSOS_NATURALES",
+        "matched_text": "agua",
+        "position": [
+          825,
+          829
+        ],
+        "start": 825,
+        "end": 829
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "edificio a través",
+        "position": [
+          316,
+          333
+        ],
+        "start": 316,
+        "end": 333
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "300 personas",
+        "position": [
+          1407,
+          1419
+        ],
+        "start": 1407,
+        "end": 1419
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "700 millones",
+        "position": [
+          1857,
+          1869
+        ],
+        "start": 1857,
+        "end": 1869
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "195 diputados",
+        "position": [
+          1225,
+          1238
+        ],
+        "start": 1225,
+        "end": 1238
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "106 votos",
+        "position": [
+          1335,
+          1344
+        ],
+        "start": 1335,
+        "end": 1344
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "más de 300",
+        "position": [
+          1400,
+          1410
+        ],
+        "start": 1400,
+        "end": 1410
+      },
+      {
+        "category": "MONETARIOS",
+        "matched_text": "2.700 millones de dólares",
+        "position": [
+          1855,
+          1880
+        ],
+        "start": 1855,
+        "end": 1880
+      }
+    ],
+    "match_count": 14
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Senado",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Parlamento",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Sociedad Jurídica de Kenia",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Cámara Alya",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Ruto",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Gobierno",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Parlamento de Kenia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "William Ruto",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Oficina del Gobernador de Nairobi",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Johnson Sakaja",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Nairobi",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Parlamento de Kenia",
+        "relacion": "ASALTAR",
+        "objeto": "Gobierno"
+      },
+      {
+        "sujeto": "Nairobi",
+        "relacion": "ASALTAR",
+        "objeto": "Gobierno"
+      },
+      {
+        "sujeto": "Ruto",
+        "relacion": "ACCEDER_LANZAR",
+        "objeto": "Senado"
+      },
+      {
+        "sujeto": "Senado",
+        "relacion": "ACCEDER_LANZAR",
+        "objeto": "William Ruto"
+      },
+      {
+        "sujeto": "Senado",
+        "relacion": "ACCEDER_LANZAR",
+        "objeto": "Gobierno"
+      },
+      {
+        "sujeto": "Ruto",
+        "relacion": "ACCEDER_LANZAR",
+        "objeto": "Cámara Alya"
+      },
+      {
+        "sujeto": "Cámara Alya",
+        "relacion": "ACCEDER_LANZAR",
+        "objeto": "William Ruto"
+      },
+      {
+        "sujeto": "Cámara Alya",
+        "relacion": "ACCEDER_LANZAR",
+        "objeto": "Gobierno"
+      },
+      {
+        "sujeto": "Ruto",
+        "relacion": "IR_L_LANZAR",
+        "objeto": "William Ruto"
+      },
+      {
+        "sujeto": "Ruto",
+        "relacion": "IR_L_LANZAR",
+        "objeto": "Gobierno"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.8016,
+    "pos": 0.027,
+    "neu": 0.973,
+    "neg": 0.0,
+    "label": "positive"
+  }
+}

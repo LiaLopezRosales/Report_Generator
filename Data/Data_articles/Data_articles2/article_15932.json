@@ -1,0 +1,772 @@
+{
+  "url": "https://www.telesurtv.net/paises-del-sahel-central-presentan-mas-de-3-3-millones-de-desplazados-por-la-fuerza/",
+  "title": "Países del Sahel central presentan más de 3.3 millones de desplazados por la fuerza - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "ACNUR",
+    "Desplazados",
+    "sahel",
+    "Violencia"
+  ],
+  "text": "Estas personas sufren robos, ataques y la violencia de género como los principales riesgos.\nMás de 3.3 millones de personas se desplazaron por la fuerza en los países del Sahel central -Burkina Faso, Malí y Níger- debido a los conflictos armados contra grupos extremistas, situación exacerbada por el empeoramiento de los efectos de la crisis climática, según datos de abril de 2024, informó la Agencia de la ONU para los Refugiados (Acnur).\n“La situación de seguridad en el Sahel central es volátil y obliga a las personas a huir de sus hogares en busca de seguridad y protección. Los riesgos de protección están generalizados”, indicó el comunicado del ente.\nAsimismo, denunció que estas personas de tránsito sufren robos, ataques y la violencia de género como los principales riesgos. “Las mujeres y los niños son particularmente vulnerables a la explotación, el abuso y la trata”, señaló la agencia.\nAdemás, destacó la falta de alojamiento adecuado, agua potable y saneamiento como agravantes a su situación.\nDe acuerdo al documento, “si bien 2.8 millones de personas han sido desplazadas internamente en Burkina Faso, Malí y Níger en los últimos cuatro años, el número de refugiados de estos tres países se ha disparado a 550.000 durante el mismo período”.\nEn ese sentido, destacó que “el aumento del movimiento transfronterizo subraya la profundización de la crisis y la necesidad continua de responder a las necesidades en el Sahel invirtiendo en protección, asistencia y soluciones duraderas. Se están realizando enormes esfuerzos, pero aún queda mucho por hacer”.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/paises-del-sahel-central-presentan-mas-de-3-3-millones-de-desplazados-por-la-fuerza/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-06.json",
+    "message_index": 811,
+    "message_id": 71932,
+    "date": "2024-06-07T18:55:18+00:00",
+    "text": "teleSUR\nPaíses del Sahel central presentan más de 3.3 millones de desplazados por la fuerza\nhttps://www.telesurtv.net/paises-del-sahel-central-presentan-mas-de-3-3-millones-de-desplazados-por-la-fuerza/",
+    "photo_path": null,
+    "views": 1209,
+    "reactions": {},
+    "total_reactions": 0
+  },
+  "preprocessing": {
+    "cleaned": "estas personas sufren robos, ataques y la violencia de género como los principales riesgos. más de 3.3 millones de personas se desplazaron por la fuerza en los países del sahel central -burkina faso, malí y níger- debido a los conflictos armados contra grupos extremistas, situación exacerbada por el empeoramiento de los efectos de la crisis climática, según datos de abril de 2024, informó la agencia de la onu para los refugiados (acnur). “la situación de seguridad en el sahel central es volátil y obliga a las personas a huir de sus hogares en busca de seguridad y protección. los riesgos de protección están generalizados”, indicó el comunicado del ente. asimismo, denunció que estas personas de tránsito sufren robos, ataques y la violencia de género como los principales riesgos. “las mujeres y los niños son particularmente vulnerables a la explotación, el abuso y la trata”, señaló la agencia. además, destacó la falta de alojamiento adecuado, agua potable y saneamiento como agravantes a su situación. de acuerdo al documento, “si bien 2.8 millones de personas han sido desplazadas internamente en burkina faso, malí y níger en los últimos cuatro años, el número de refugiados de estos tres países se ha disparado a 550.000 durante el mismo período”. en ese sentido, destacó que “el aumento del movimiento transfronterizo subraya la profundización de la crisis y la necesidad continua de responder a las necesidades en el sahel invirtiendo en protección, asistencia y soluciones duraderas. se están realizando enormes esfuerzos, pero aún queda mucho por hacer”.",
+    "tokens": [
+      "personas",
+      "sufren",
+      "robos",
+      ",",
+      "ataques",
+      "violencia",
+      "género",
+      "principales",
+      "riesgos",
+      ".",
+      "3.3",
+      "millones",
+      "personas",
+      "desplazaron",
+      "fuerza",
+      "países",
+      "sahel",
+      "central",
+      "-burkina",
+      "faso",
+      ",",
+      "malí",
+      "níger-",
+      "debido",
+      "conflictos",
+      "armados",
+      "grupos",
+      "extremistas",
+      ",",
+      "situación",
+      "exacerbada",
+      "empeoramiento",
+      "efectos",
+      "crisis",
+      "climática",
+      ",",
+      "según",
+      "datos",
+      "abril",
+      "2024",
+      ",",
+      "informó",
+      "agencia",
+      "onu",
+      "refugiados",
+      "(",
+      "acnur",
+      ")",
+      ".",
+      "“",
+      "situación",
+      "seguridad",
+      "sahel",
+      "central",
+      "volátil",
+      "obliga",
+      "personas",
+      "huir",
+      "hogares",
+      "busca",
+      "seguridad",
+      "protección",
+      ".",
+      "riesgos",
+      "protección",
+      "generalizados",
+      "”",
+      ",",
+      "indicó",
+      "comunicado",
+      "ente",
+      ".",
+      "asimismo",
+      ",",
+      "denunció",
+      "personas",
+      "tránsito",
+      "sufren",
+      "robos",
+      ",",
+      "ataques",
+      "violencia",
+      "género",
+      "principales",
+      "riesgos",
+      ".",
+      "“",
+      "mujeres",
+      "niños",
+      "particularmente",
+      "vulnerables",
+      "explotación",
+      ",",
+      "abuso",
+      "trata",
+      "”",
+      ",",
+      "señaló",
+      "agencia",
+      ".",
+      "además",
+      ",",
+      "destacó",
+      "falta",
+      "alojamiento",
+      "adecuado",
+      ",",
+      "agua",
+      "potable",
+      "saneamiento",
+      "agravantes",
+      "situación",
+      ".",
+      "acuerdo",
+      "documento",
+      ",",
+      "“",
+      "si",
+      "bien",
+      "2.8",
+      "millones",
+      "personas",
+      "sido",
+      "desplazadas",
+      "internamente",
+      "burkina",
+      "faso",
+      ",",
+      "malí",
+      "níger",
+      "últimos",
+      "cuatro",
+      "años",
+      ",",
+      "número",
+      "refugiados",
+      "tres",
+      "países",
+      "disparado",
+      "550.000",
+      "mismo",
+      "período",
+      "”",
+      ".",
+      ",",
+      "destacó",
+      "“",
+      "aumento",
+      "movimiento",
+      "transfronterizo",
+      "subraya",
+      "profundización",
+      "crisis",
+      "necesidad",
+      "continua",
+      "responder",
+      "necesidades",
+      "sahel",
+      "invirtiendo",
+      "protección",
+      ",",
+      "asistencia",
+      "soluciones",
+      "duraderas",
+      ".",
+      "realizando",
+      "enormes",
+      "esfuerzos",
+      ",",
+      "aún",
+      "queda",
+      "hacer",
+      "”",
+      "."
+    ],
+    "token_count": 174,
+    "sentence_count": 10
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 24,
+      "VBZ": 3,
+      "JJ": 17,
+      "NNS": 18,
+      "VBP": 12,
+      "FW": 64,
+      "NN": 79,
+      "CD": 4,
+      "IN": 11,
+      "VBD": 1
+    },
+    "bigram_freq": {
+      "NNP-VBZ": 1,
+      "VBZ-JJ": 2,
+      "JJ-NNS": 2,
+      "NNS-NNS": 2,
+      "NNS-VBP": 11,
+      "VBP-FW": 2,
+      "FW-FW": 41,
+      "FW-NN": 12,
+      "NN-NN": 44,
+      "NN-NNS": 7,
+      "VBP-NNP": 2,
+      "NNP-FW": 7,
+      "FW-CD": 2,
+      "CD-NNS": 2,
+      "NNS-IN": 2,
+      "IN-FW": 5,
+      "NN-FW": 8,
+      "NN-IN": 8,
+      "IN-JJ": 1,
+      "VBP-JJ": 5,
+      "JJ-JJ": 1,
+      "JJ-NNP": 2,
+      "NNP-NNP": 8,
+      "NNP-NN": 5,
+      "NN-JJ": 3,
+      "JJ-NN": 12,
+      "CD-NN": 2,
+      "FW-NNP": 5,
+      "NN-NNP": 4,
+      "NNP-JJ": 2,
+      "IN-NNS": 1,
+      "NNS-JJ": 2,
+      "IN-NN": 2,
+      "VBP-NN": 2,
+      "FW-NNS": 2,
+      "NNP-NNS": 1,
+      "IN-NNP": 2,
+      "FW-JJ": 1,
+      "NN-VBZ": 1,
+      "NN-VBD": 1,
+      "VBD-CD": 1,
+      "FW-VBZ": 1,
+      "VBZ-NNS": 1,
+      "NN-CD": 1,
+      "NN-VBP": 1,
+      "VBP-IN": 1,
+      "NNS-FW": 1
+    },
+    "trigram_freq": {
+      "NNP-VBZ-JJ": 1,
+      "VBZ-JJ-NNS": 1,
+      "JJ-NNS-NNS": 1,
+      "NNS-NNS-VBP": 2,
+      "NNS-VBP-FW": 2,
+      "VBP-FW-FW": 2,
+      "FW-FW-FW": 27,
+      "FW-FW-NN": 7,
+      "FW-NN-NN": 9,
+      "NN-NN-NNS": 4,
+      "NN-NNS-VBP": 6,
+      "NNS-VBP-NNP": 2,
+      "VBP-NNP-FW": 1,
+      "NNP-FW-CD": 1,
+      "FW-CD-NNS": 1,
+      "CD-NNS-IN": 2,
+      "NNS-IN-FW": 2,
+      "IN-FW-FW": 3,
+      "FW-NN-FW": 1,
+      "NN-FW-NN": 2,
+      "FW-NN-IN": 1,
+      "NN-IN-JJ": 1,
+      "IN-JJ-NNS": 1,
+      "JJ-NNS-VBP": 1,
+      "NNS-VBP-JJ": 5,
+      "VBP-JJ-JJ": 1,
+      "JJ-JJ-NNP": 1,
+      "JJ-NNP-NNP": 1,
+      "NNP-NNP-NNP": 5,
+      "NNP-NNP-NN": 1,
+      "NNP-NN-NN": 4,
+      "NN-NN-NN": 21,
+      "NN-NN-JJ": 3,
+      "NN-JJ-NN": 3,
+      "JJ-NN-NNS": 1,
+      "VBP-JJ-NN": 3,
+      "JJ-NN-NN": 7,
+      "NN-NN-FW": 4,
+      "NN-FW-FW": 5,
+      "JJ-NN-IN": 3,
+      "NN-IN-FW": 3,
+      "FW-FW-CD": 1,
+      "FW-CD-NN": 1,
+      "CD-NN-FW": 1,
+      "NN-FW-NNP": 1,
+      "FW-NNP-FW": 3,
+      "NNP-FW-FW": 4,
+      "FW-FW-NNP": 3,
+      "FW-NNP-NN": 1,
+      "NN-NN-NNP": 3,
+      "NN-NNP-NNP": 1,
+      "NNP-NNP-FW": 2,
+      "FW-NNP-JJ": 1,
+      "NNP-JJ-NN": 2,
+      "NN-NN-IN": 4,
+      "NN-IN-NNS": 1,
+      "IN-NNS-JJ": 1,
+      "NNS-JJ-NN": 2,
+      "NN-IN-NN": 1,
+      "IN-NN-NNS": 1,
+      "NNS-VBP-NN": 2,
+      "VBP-NN-FW": 1,
+      "NN-NNP-NN": 1,
+      "FW-FW-NNS": 1,
+      "FW-NNS-VBP": 1,
+      "VBP-NNP-NNS": 1,
+      "NNP-NNS-VBP": 1,
+      "NN-IN-NNP": 2,
+      "IN-NNP-NN": 1,
+      "FW-FW-JJ": 1,
+      "FW-JJ-NN": 1,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 1,
+      "JJ-NN-NNP": 1,
+      "NN-NNP-FW": 1,
+      "NNP-FW-NN": 2,
+      "NN-NN-VBD": 1,
+      "NN-VBD-CD": 1,
+      "VBD-CD-NNS": 1,
+      "IN-FW-NN": 1,
+      "IN-NNP-NNP": 1,
+      "FW-FW-VBZ": 1,
+      "FW-VBZ-NNS": 1,
+      "VBZ-NNS-JJ": 1,
+      "NN-NN-CD": 1,
+      "NN-CD-NN": 1,
+      "CD-NN-NN": 1,
+      "NN-NNP-JJ": 1,
+      "NN-NN-VBP": 1,
+      "NN-VBP-IN": 1,
+      "VBP-IN-NN": 1,
+      "IN-NN-NN": 1,
+      "IN-FW-NNS": 1,
+      "FW-NNS-NNS": 1,
+      "VBP-JJ-NNP": 1,
+      "JJ-NNP-NN": 1,
+      "NNP-NN-FW": 1,
+      "NN-NNS-FW": 1,
+      "NNS-FW-NNP": 1,
+      "FW-NN-NNS": 1,
+      "VBP-NN-NN": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 79,
+        "FW": 64,
+        "NNP": 24,
+        "NNS": 18,
+        "JJ": 17
+      },
+      "top_bigrams": {
+        "NN-NN": 44,
+        "FW-FW": 41,
+        "FW-NN": 12,
+        "JJ-NN": 12,
+        "NNS-VBP": 11
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 27,
+        "NN-NN-NN": 21,
+        "FW-NN-NN": 9,
+        "FW-FW-NN": 7,
+        "JJ-NN-NN": 7
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 10,
+    "chunk_counts": {
+      "NP": 68,
+      "VP": 19,
+      "PP": 4,
+      "ADJP": 1
+    },
+    "top_rules": [
+      {
+        "rule": "NP -> ('ataques', 'NNS')",
+        "frequency": 2,
+        "weight": 0.0196
+      },
+      {
+        "rule": "VP -> ('y', 'VBP') ('la', 'JJ')",
+        "frequency": 2,
+        "weight": 0.0196
+      },
+      {
+        "rule": "NP -> ('como', 'NN') ('los', 'NN') ('principales', 'NNS')",
+        "frequency": 2,
+        "weight": 0.0196
+      },
+      {
+        "rule": "VP -> ('riesgos', 'VBP')",
+        "frequency": 2,
+        "weight": 0.0196
+      },
+      {
+        "rule": "NP -> ('millones', 'NNS')",
+        "frequency": 2,
+        "weight": 0.0196
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0196
+      },
+      {
+        "rule": "S -> NP VP (',', ',') NP VP ('violencia', 'FW') ('de', 'FW') ('género', 'FW') NP VP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0098
+      },
+      {
+        "rule": "NP -> ('Estas', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0098
+      },
+      {
+        "rule": "VP -> ('personas', 'VBZ') NP",
+        "frequency": 1,
+        "weight": 0.0098
+      },
+      {
+        "rule": "NP -> ('sufren', 'JJ') ('robos', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0098
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Estas"
+      },
+      {
+        "label": "VP",
+        "text": "personas sufren robos"
+      },
+      {
+        "label": "NP",
+        "text": "sufren robos"
+      },
+      {
+        "label": "NP",
+        "text": "ataques"
+      },
+      {
+        "label": "VP",
+        "text": "y la"
+      },
+      {
+        "label": "NP",
+        "text": "como los principales"
+      },
+      {
+        "label": "VP",
+        "text": "riesgos"
+      },
+      {
+        "label": "NP",
+        "text": "Más"
+      },
+      {
+        "label": "NP",
+        "text": "millones"
+      },
+      {
+        "label": "NP",
+        "text": "por"
+      },
+      {
+        "label": "NP",
+        "text": "fuerza"
+      },
+      {
+        "label": "PP",
+        "text": "en los países"
+      },
+      {
+        "label": "NP",
+        "text": "los países"
+      },
+      {
+        "label": "VP",
+        "text": "del Sahel central -Burkina Faso"
+      },
+      {
+        "label": "NP",
+        "text": "Sahel central -Burkina Faso"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Estas/NNP)\n  (VP personas/VBZ (NP sufren/JJ robos/NNS))\n  ,/,\n  (NP ataques/NNS)\n  (VP y/VBP la/JJ)\n  violencia/FW\n  de/FW\n  género/FW\n  (NP como/NN los/NN principales/NNS)\n  (VP riesgos/VBP)\n  ./.)",
+      "(S\n  (NP Más/NNP)\n  de/FW\n  3.3/CD\n  (NP millones/NNS)\n  de/IN\n  personas/FW\n  se/FW\n  desplazaron/FW\n  (NP por/NN)\n  la/FW\n  (NP fuerza/NN)\n  (PP en/IN (NP los/JJ países/NNS))\n  (VP del/VBP (NP Sahel/JJ central/JJ -Burkina/NNP Faso/NNP))\n  ,/,\n  (NP Malí/NNP)\n  y/POS\n  (NP Níger-/NNP debido/NN)\n  (NP a/DT los/NN conflictos/NN armados/NN)\n  (NP contra/JJ grupos/NN extremistas/NNS)\n  ,/,\n  (VP situación/VBP (NP exacerbada/JJ por/NN el/NN))\n  empeoramiento/FW\n  de/FW\n  los/FW\n  efectos/FW\n  de/FW\n  la/FW\n  (NP crisis/NN climática/NN)\n  ,/,\n  (NP según/JJ datos/NN)\n  de/IN\n  abril/FW\n  de/FW\n  2024/CD\n  ,/,\n  (VP informó/VBP (NP la/JJ Agencia/NNP))\n  de/FW\n  la/FW\n  (NP ONU/NNP para/NN los/NN Refugiados/NNP)\n  (/(\n  (NP Acnur/NNP)\n  )/)\n  ./.)",
+      "(S\n  (NP “/JJ La/NNP)\n  situación/FW\n  de/FW\n  seguridad/FW\n  en/FW\n  el/FW\n  (NP Sahel/NNP)\n  (NP central/JJ es/NN volátil/NN y/NNP)\n  (VP obliga/VBZ (NP a/DT las/JJ personas/NN) (NP a/DT huir/NN))\n  (PP de/IN (NP sus/NN hogares/NNS))\n  (VP en/VBP (NP busca/NN))\n  de/FW\n  seguridad/FW\n  y/FW\n  (NP protección/NN)\n  ./.)",
+      "(S\n  (NP Los/NNP riesgos/NN)\n  de/FW\n  protección/FW\n  están/FW\n  generalizados/FW\n  ”/FW\n  ,/,\n  (NP indicó/JJ el/NN comunicado/NN del/NN ente/NN)\n  ./.)",
+      "(S\n  (NP Asimismo/NNP)\n  ,/,\n  (NP denunció/NN que/NN)\n  estas/FW\n  personas/FW\n  de/FW\n  tránsito/FW\n  sufren/FW\n  (NP robos/NN)\n  ,/,\n  (NP ataques/NNS)\n  (VP y/VBP la/JJ)\n  violencia/FW\n  de/FW\n  género/FW\n  (NP como/NN los/NN principales/NNS)\n  (VP riesgos/VBP)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "GRUPOS_ESPECIFICOS",
+      "ORGANISMOS_INTERNACIONALES",
+      "APROBACION_RECHAZO",
+      "LEYES_NORMATIVAS",
+      "RECURSOS_NATURALES",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "ACCIONES_LEGALES",
+      "CANTIDADES_NUMERICAS",
+      "CRISIS_HUMANITARIA_SERVICIOS",
+      "CONFLICTOS_ARMADOS_OPERACIONES",
+      "INFRAESTRUCTURA_SERVICIOS"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "denunció que estas personas de tránsito sufren robos, ataques y la violencia de género como los principales riesgos. “las mujeres y los niños son particularmente vulnerables a",
+        "position": [
+          671,
+          846
+        ],
+        "start": 671,
+        "end": 846
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "señaló",
+        "position": [
+          885,
+          891
+        ],
+        "start": 885,
+        "end": 891
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "informó",
+        "position": [
+          384,
+          391
+        ],
+        "start": 384,
+        "end": 391
+      },
+      {
+        "category": "CRISIS_HUMANITARIA_SERVICIOS",
+        "matched_text": "falta de alojamiento adecuado, agua",
+        "position": [
+          923,
+          958
+        ],
+        "start": 923,
+        "end": 958
+      },
+      {
+        "category": "CRISIS_HUMANITARIA_SERVICIOS",
+        "matched_text": "crisis climática",
+        "position": [
+          336,
+          352
+        ],
+        "start": 336,
+        "end": 352
+      },
+      {
+        "category": "ORGANISMOS_INTERNACIONALES",
+        "matched_text": "onu",
+        "position": [
+          409,
+          412
+        ],
+        "start": 409,
+        "end": 412
+      },
+      {
+        "category": "GRUPOS_ESPECIFICOS",
+        "matched_text": "mujeres",
+        "position": [
+          793,
+          800
+        ],
+        "start": 793,
+        "end": 800
+      },
+      {
+        "category": "APROBACION_RECHAZO",
+        "matched_text": "destacó",
+        "position": [
+          912,
+          919
+        ],
+        "start": 912,
+        "end": 919
+      },
+      {
+        "category": "ACCIONES_LEGALES",
+        "matched_text": "denunció",
+        "position": [
+          671,
+          679
+        ],
+        "start": 671,
+        "end": 679
+      },
+      {
+        "category": "LEYES_NORMATIVAS",
+        "matched_text": "acuerdo al documento, “si bien 2",
+        "position": [
+          1016,
+          1048
+        ],
+        "start": 1016,
+        "end": 1048
+      },
+      {
+        "category": "RECURSOS_NATURALES",
+        "matched_text": "agua",
+        "position": [
+          954,
+          958
+        ],
+        "start": 954,
+        "end": 958
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "agua potable",
+        "position": [
+          954,
+          966
+        ],
+        "start": 954,
+        "end": 966
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "3 millones",
+        "position": [
+          101,
+          111
+        ],
+        "start": 101,
+        "end": 111
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "más de 3",
+        "position": [
+          92,
+          100
+        ],
+        "start": 92,
+        "end": 100
+      }
+    ],
+    "match_count": 14
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Níger-",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Agencia de la ONU para los Refugiados",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Malí",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Sahel",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Burkina Faso",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Faso",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Acnur",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Sahel central",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Níger",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Agencia de la ONU para los Refugiados",
+        "relacion": "DESPLAZAR_INFORMAR",
+        "objeto": "Sahel"
+      },
+      {
+        "sujeto": "Sahel",
+        "relacion": "DESPLAZAR_INFORMAR",
+        "objeto": "Acnur"
+      },
+      {
+        "sujeto": "Agencia de la ONU para los Refugiados",
+        "relacion": "DESPLAZAR_INFORMAR",
+        "objeto": "Faso"
+      },
+      {
+        "sujeto": "Faso",
+        "relacion": "DESPLAZAR_INFORMAR",
+        "objeto": "Acnur"
+      },
+      {
+        "sujeto": "Agencia de la ONU para los Refugiados",
+        "relacion": "DESPLAZAR_INFORMAR",
+        "objeto": "Malí"
+      },
+      {
+        "sujeto": "Malí",
+        "relacion": "DESPLAZAR_INFORMAR",
+        "objeto": "Acnur"
+      },
+      {
+        "sujeto": "Agencia de la ONU para los Refugiados",
+        "relacion": "DESPLAZAR_INFORMAR",
+        "objeto": "Níger-"
+      },
+      {
+        "sujeto": "Níger-",
+        "relacion": "DESPLAZAR_INFORMAR",
+        "objeto": "Acnur"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.7783,
+    "pos": 0.01,
+    "neu": 0.956,
+    "neg": 0.034,
+    "label": "negative"
+  }
+}

@@ -1,0 +1,801 @@
+{
+  "url": "https://www.telesurtv.net/ucrania-recibe-ataque-masivo-con-misiles-en-su-territorio/",
+  "title": "Ucrania recibe ataque masivo con misiles en su territorio - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Ataques aéreos",
+    "Drones",
+    "Kiev",
+    "Rusia"
+  ],
+  "text": "En la mañana de este viernes se reportaron varias explosiones en ciudades y provincias de Ucrania, declarándose el país en estado de alerta aérea, luego de que las defensas aéreas rusas destruyeran cuatro drones ucranianos en territorio de Rusia.\nEl Ministerio de Defensa de Rusia compartió en un comunicado que “el intento del régimen de Kiev de llevar a cabo un ataque terrorista contra objetivos en Rusia utilizando drones de ala fija fue frustrado entre las 5:05 am y las 5:40 am hora de Moscú (2:05 – 2:40 am GMT) del 13 de diciembre. Las defensas aéreas en servicio destruyeron cuatro vehículos aéreos no tripulados ucranianos sobre la región de Vladimir”.\nMedios locales ucranianos informaron de estallidos en las provincias de Járkov y Odesa, y en la ciudad de Zaporozhie, luego de un ataque masivo contra el territorio con misiles.\nEn Kiev, la administración militar confirmó que el sistema de defensa antiaérea se movilizó en dicho territorio.\nPor otra parte, en Odesa, el alcalde Guennadi Trujánov, corroboró que en la ciudad ocurrieron varias explosiones, pero no dio muchos detalles.\nEl ministro ucraniano de Energía, German Galushchenko ratificó que toda Ucrania está sufriendo un ataque masivo en el sector energético.\nLuego de los sucesos, Polonia movilizó la Aviación militar de su zona aérea y el Mando Operativo del Ejército polaco expresó que “ha activado todas las fuerzas y recursos disponibles”.\nLas parejas de cazas en servicio y los sistemas de defensa aérea terrestre y de reconocimiento radiolocalizado se encuentran a su máxima disponibilidad para cualquier movimiento.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/ucrania-recibe-ataque-masivo-con-misiles-en-su-territorio/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-12.json",
+    "message_index": 1081,
+    "message_id": 82260,
+    "date": "2024-12-13T10:55:12+00:00",
+    "text": "teleSUR\nUcrania recibe ataque masivo con misiles en su territorio\nhttps://www.telesurtv.net/ucrania-recibe-ataque-masivo-con-misiles-en-su-territorio/",
+    "photo_path": null,
+    "views": 2587,
+    "reactions": {
+      "👍": 44,
+      "🔥": 12,
+      "👏": 7,
+      "🫡": 1
+    },
+    "total_reactions": 64
+  },
+  "preprocessing": {
+    "cleaned": "en la mañana de este viernes se reportaron varias explosiones en ciudades y provincias de ucrania, declarándose el país en estado de alerta aérea, luego de que las defensas aéreas rusas destruyeran cuatro drones ucranianos en territorio de rusia. el ministerio de defensa de rusia compartió en un comunicado que “el intento del régimen de kiev de llevar a cabo un ataque terrorista contra objetivos en rusia utilizando drones de ala fija fue frustrado entre las 5:05 am y las 5:40 am hora de moscú (2:05 – 2:40 am gmt) del 13 de diciembre. las defensas aéreas en servicio destruyeron cuatro vehículos aéreos no tripulados ucranianos sobre la región de vladimir”. medios locales ucranianos informaron de estallidos en las provincias de járkov y odesa, y en la ciudad de zaporozhie, luego de un ataque masivo contra el territorio con misiles. en kiev, la administración militar confirmó que el sistema de defensa antiaérea se movilizó en dicho territorio. por otra parte, en odesa, el alcalde guennadi trujánov, corroboró que en la ciudad ocurrieron varias explosiones, pero no dio muchos detalles. el ministro ucraniano de energía, german galushchenko ratificó que toda ucrania está sufriendo un ataque masivo en el sector energético. luego de los sucesos, polonia movilizó la aviación militar de su zona aérea y el mando operativo del ejército polaco expresó que “ha activado todas las fuerzas y recursos disponibles”. las parejas de cazas en servicio y los sistemas de defensa aérea terrestre y de reconocimiento radiolocalizado se encuentran a su máxima disponibilidad para cualquier movimiento.",
+    "tokens": [
+      "mañana",
+      "viernes",
+      "reportaron",
+      "varias",
+      "explosiones",
+      "ciudades",
+      "provincias",
+      "ucrania",
+      ",",
+      "declarándose",
+      "país",
+      "alerta",
+      "aérea",
+      ",",
+      "luego",
+      "defensas",
+      "aéreas",
+      "rusas",
+      "destruyeran",
+      "cuatro",
+      "drones",
+      "ucranianos",
+      "territorio",
+      "rusia",
+      ".",
+      "ministerio",
+      "defensa",
+      "rusia",
+      "compartió",
+      "comunicado",
+      "“",
+      "intento",
+      "régimen",
+      "kiev",
+      "llevar",
+      "cabo",
+      "ataque",
+      "terrorista",
+      "objetivos",
+      "rusia",
+      "utilizando",
+      "drones",
+      "ala",
+      "fija",
+      "frustrado",
+      "5:05",
+      "am",
+      "5:40",
+      "am",
+      "hora",
+      "moscú",
+      "(",
+      "2:05",
+      "–",
+      "2:40",
+      "am",
+      "gmt",
+      ")",
+      "13",
+      "diciembre",
+      ".",
+      "defensas",
+      "aéreas",
+      "servicio",
+      "destruyeron",
+      "cuatro",
+      "vehículos",
+      "aéreos",
+      "tripulados",
+      "ucranianos",
+      "región",
+      "vladimir",
+      "”",
+      ".",
+      "medios",
+      "locales",
+      "ucranianos",
+      "informaron",
+      "estallidos",
+      "provincias",
+      "járkov",
+      "odesa",
+      ",",
+      "ciudad",
+      "zaporozhie",
+      ",",
+      "luego",
+      "ataque",
+      "masivo",
+      "territorio",
+      "misiles",
+      ".",
+      "kiev",
+      ",",
+      "administración",
+      "militar",
+      "confirmó",
+      "sistema",
+      "defensa",
+      "antiaérea",
+      "movilizó",
+      "dicho",
+      "territorio",
+      ".",
+      "parte",
+      ",",
+      "odesa",
+      ",",
+      "alcalde",
+      "guennadi",
+      "trujánov",
+      ",",
+      "corroboró",
+      "ciudad",
+      "ocurrieron",
+      "varias",
+      "explosiones",
+      ",",
+      "dio",
+      "detalles",
+      ".",
+      "ministro",
+      "ucraniano",
+      "energía",
+      ",",
+      "german",
+      "galushchenko",
+      "ratificó",
+      "toda",
+      "ucrania",
+      "sufriendo",
+      "ataque",
+      "masivo",
+      "sector",
+      "energético",
+      ".",
+      "luego",
+      "sucesos",
+      ",",
+      "polonia",
+      "movilizó",
+      "aviación",
+      "militar",
+      "zona",
+      "aérea",
+      "mando",
+      "operativo",
+      "ejército",
+      "polaco",
+      "expresó",
+      "“",
+      "activado",
+      "todas",
+      "fuerzas",
+      "recursos",
+      "disponibles",
+      "”",
+      ".",
+      "parejas",
+      "cazas",
+      "servicio",
+      "sistemas",
+      "defensa",
+      "aérea",
+      "terrestre",
+      "reconocimiento",
+      "radiolocalizado",
+      "encuentran",
+      "máxima",
+      "disponibilidad",
+      "cualquier",
+      "movimiento",
+      "."
+    ],
+    "token_count": 173,
+    "sentence_count": 9
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 35,
+      "FW": 69,
+      "NNS": 13,
+      "NN": 63,
+      "VBP": 10,
+      "JJ": 25,
+      "IN": 12,
+      "$": 1,
+      "CD": 5,
+      "RB": 1,
+      "VBZ": 5,
+      "DT": 2,
+      "VBD": 2,
+      "JJR": 1
+    },
+    "bigram_freq": {
+      "NNP-FW": 8,
+      "FW-FW": 38,
+      "FW-NNS": 5,
+      "NNS-FW": 4,
+      "FW-NN": 6,
+      "NN-NN": 29,
+      "NN-NNS": 6,
+      "FW-NNP": 11,
+      "NNP-VBP": 1,
+      "VBP-JJ": 5,
+      "JJ-NN": 14,
+      "NN-FW": 6,
+      "FW-JJ": 7,
+      "NN-IN": 9,
+      "IN-FW": 7,
+      "NNS-VBP": 4,
+      "NNS-JJ": 1,
+      "JJ-FW": 4,
+      "IN-NNP": 3,
+      "NNP-NNP": 8,
+      "NNP-IN": 2,
+      "NNP-NN": 9,
+      "NN-VBP": 2,
+      "NN-JJ": 3,
+      "NNP-JJ": 1,
+      "JJ-NNS": 2,
+      "NNS-IN": 1,
+      "VBP-$": 1,
+      "$-CD": 1,
+      "CD-VBP": 3,
+      "VBP-RB": 1,
+      "RB-CD": 1,
+      "VBP-FW": 1,
+      "NNP-CD": 1,
+      "CD-CD": 1,
+      "VBP-NNP": 1,
+      "FW-CD": 1,
+      "CD-FW": 1,
+      "NN-VBZ": 1,
+      "VBZ-DT": 1,
+      "DT-JJ": 1,
+      "JJ-JJ": 3,
+      "NNP-VBZ": 4,
+      "VBZ-JJ": 3,
+      "NNS-NNP": 3,
+      "VBZ-NN": 1,
+      "IN-NN": 2,
+      "NN-NNP": 5,
+      "VBP-DT": 1,
+      "DT-NN": 1,
+      "NNP-VBD": 1,
+      "VBD-JJ": 1,
+      "JJ-NNP": 2,
+      "NN-VBD": 1,
+      "VBD-NNP": 1,
+      "FW-JJR": 1,
+      "JJR-NN": 1
+    },
+    "trigram_freq": {
+      "NNP-FW-FW": 4,
+      "FW-FW-FW": 24,
+      "FW-FW-NNS": 2,
+      "FW-NNS-FW": 3,
+      "NNS-FW-NN": 1,
+      "FW-NN-NN": 2,
+      "NN-NN-NNS": 5,
+      "NN-NNS-FW": 1,
+      "NNS-FW-NNS": 1,
+      "NNS-FW-FW": 1,
+      "FW-FW-NNP": 7,
+      "FW-NNP-VBP": 1,
+      "NNP-VBP-JJ": 1,
+      "VBP-JJ-NN": 3,
+      "JJ-NN-FW": 1,
+      "NN-FW-FW": 4,
+      "FW-FW-JJ": 2,
+      "FW-JJ-NN": 5,
+      "JJ-NN-IN": 4,
+      "NN-IN-FW": 5,
+      "IN-FW-NNS": 1,
+      "FW-NNS-VBP": 2,
+      "NNS-VBP-JJ": 3,
+      "JJ-NN-NN": 9,
+      "NN-NN-NN": 9,
+      "NN-NNS-JJ": 1,
+      "NNS-JJ-FW": 1,
+      "JJ-FW-NN": 1,
+      "FW-NN-IN": 2,
+      "NN-IN-NNP": 2,
+      "IN-NNP-NNP": 1,
+      "NNP-NNP-NNP": 2,
+      "NNP-NNP-IN": 1,
+      "NNP-IN-NNP": 1,
+      "IN-NNP-FW": 1,
+      "NNP-FW-NNP": 2,
+      "FW-NNP-NN": 4,
+      "NNP-NN-FW": 3,
+      "NN-FW-JJ": 1,
+      "NN-NN-VBP": 2,
+      "NN-VBP-JJ": 1,
+      "VBP-JJ-FW": 1,
+      "JJ-FW-NNS": 1,
+      "NNS-FW-NNP": 1,
+      "FW-NNP-FW": 3,
+      "FW-FW-NN": 2,
+      "FW-NN-JJ": 1,
+      "NN-JJ-NN": 3,
+      "NN-NN-JJ": 2,
+      "IN-NNP-JJ": 1,
+      "NNP-JJ-NNS": 1,
+      "JJ-NNS-IN": 1,
+      "NNS-IN-FW": 1,
+      "IN-FW-JJ": 3,
+      "NN-VBP-$": 1,
+      "VBP-$-CD": 1,
+      "$-CD-VBP": 1,
+      "CD-VBP-RB": 1,
+      "VBP-RB-CD": 1,
+      "RB-CD-VBP": 1,
+      "CD-VBP-FW": 1,
+      "VBP-FW-FW": 1,
+      "FW-NNP-CD": 1,
+      "NNP-CD-CD": 1,
+      "CD-CD-VBP": 1,
+      "CD-VBP-NNP": 1,
+      "VBP-NNP-FW": 1,
+      "NNP-FW-CD": 1,
+      "FW-CD-FW": 1,
+      "CD-FW-FW": 1,
+      "NNP-NN-NNS": 1,
+      "NN-NNS-VBP": 2,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-DT": 1,
+      "VBZ-DT-JJ": 1,
+      "DT-JJ-JJ": 1,
+      "JJ-JJ-NN": 2,
+      "NN-NN-FW": 2,
+      "FW-NNP-NNP": 2,
+      "NNP-NNP-VBZ": 2,
+      "NNP-VBZ-JJ": 3,
+      "VBZ-JJ-NN": 1,
+      "IN-FW-FW": 3,
+      "NNP-NNP-FW": 2,
+      "NN-NNS-NNP": 2,
+      "NNS-NNP-NNP": 1,
+      "NNP-VBZ-NN": 1,
+      "VBZ-NN-NN": 1,
+      "NN-FW-NN": 1,
+      "NN-NN-IN": 3,
+      "NN-IN-NN": 2,
+      "IN-NN-NN": 2,
+      "NN-NN-NNP": 4,
+      "NN-NNP-VBZ": 2,
+      "VBZ-JJ-FW": 1,
+      "JJ-FW-NNP": 1,
+      "NNP-FW-NN": 1,
+      "FW-NN-NNP": 1,
+      "NN-NNP-NNP": 2,
+      "NNP-NNP-NN": 1,
+      "NNP-NN-NN": 5,
+      "NNS-VBP-DT": 1,
+      "VBP-DT-NN": 1,
+      "DT-NN-NN": 1,
+      "NNS-NNP-VBD": 1,
+      "NNP-VBD-JJ": 1,
+      "VBD-JJ-FW": 1,
+      "JJ-FW-JJ": 1,
+      "FW-JJ-JJ": 1,
+      "JJ-JJ-NNP": 1,
+      "JJ-NNP-NN": 2,
+      "VBZ-JJ-JJ": 1,
+      "NN-NN-VBD": 1,
+      "NN-VBD-NNP": 1,
+      "VBD-NNP-IN": 1,
+      "NNP-IN-FW": 1,
+      "FW-JJ-NNP": 1,
+      "NN-NNP-NN": 1,
+      "VBP-JJ-NNS": 1,
+      "JJ-NNS-NNP": 1,
+      "NNS-NNP-NN": 1,
+      "FW-FW-JJR": 1,
+      "FW-JJR-NN": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "FW": 69,
+        "NN": 63,
+        "NNP": 35,
+        "JJ": 25,
+        "NNS": 13
+      },
+      "top_bigrams": {
+        "FW-FW": 38,
+        "NN-NN": 29,
+        "JJ-NN": 14,
+        "FW-NNP": 11,
+        "NN-IN": 9
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 24,
+        "JJ-NN-NN": 9,
+        "NN-NN-NN": 9,
+        "FW-FW-NNP": 7,
+        "NN-NN-NNS": 5
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 9,
+    "chunk_counts": {
+      "NP": 67,
+      "VP": 16,
+      "PP": 7
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 4,
+        "weight": 0.0404
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 3,
+        "weight": 0.0303
+      },
+      {
+        "rule": "NP -> ('Rusia', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0202
+      },
+      {
+        "rule": "VP -> ('el', 'VBZ') NP",
+        "frequency": 2,
+        "weight": 0.0202
+      },
+      {
+        "rule": "NP -> ('Odesa', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0202
+      },
+      {
+        "rule": "S -> NP ('la', 'FW') ('mañana', 'FW') ('de', 'FW') ('este', 'FW') NP ('se', 'FW') NP ('en', 'FW') NP VP ('provincias', 'FW') ('de', 'FW') NP (',', ',') NP ('en', 'FW') ('estado', 'FW') ('de', 'FW') ('alerta', 'FW') NP (',', ',') ('luego', 'FW') ('de', 'FW') ('que', 'FW') ('las', 'FW') ('defensas', 'FW') NP VP ('en', 'FW') NP PP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0101
+      },
+      {
+        "rule": "NP -> ('En', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0101
+      },
+      {
+        "rule": "NP -> ('viernes', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0101
+      },
+      {
+        "rule": "NP -> ('reportaron', 'NN') ('varias', 'NN') ('explosiones', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0101
+      },
+      {
+        "rule": "NP -> ('ciudades', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0101
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "En"
+      },
+      {
+        "label": "NP",
+        "text": "viernes"
+      },
+      {
+        "label": "NP",
+        "text": "reportaron varias explosiones"
+      },
+      {
+        "label": "NP",
+        "text": "ciudades"
+      },
+      {
+        "label": "VP",
+        "text": "y"
+      },
+      {
+        "label": "NP",
+        "text": "Ucrania"
+      },
+      {
+        "label": "NP",
+        "text": "declarándose el país"
+      },
+      {
+        "label": "NP",
+        "text": "aérea"
+      },
+      {
+        "label": "NP",
+        "text": "aéreas"
+      },
+      {
+        "label": "VP",
+        "text": "rusas destruyeran cuatro drones ucranianos"
+      },
+      {
+        "label": "NP",
+        "text": "destruyeran cuatro drones"
+      },
+      {
+        "label": "NP",
+        "text": "territorio"
+      },
+      {
+        "label": "PP",
+        "text": "de Rusia"
+      },
+      {
+        "label": "NP",
+        "text": "Rusia"
+      },
+      {
+        "label": "NP",
+        "text": "El Ministerio"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP En/NNP)\n  la/FW\n  mañana/FW\n  de/FW\n  este/FW\n  (NP viernes/NNS)\n  se/FW\n  (NP reportaron/NN varias/NN explosiones/NNS)\n  en/FW\n  (NP ciudades/NNS)\n  (VP y/VBP)\n  provincias/FW\n  de/FW\n  (NP Ucrania/NNP)\n  ,/,\n  (NP declarándose/JJ el/NN país/NN)\n  en/FW\n  estado/FW\n  de/FW\n  alerta/FW\n  (NP aérea/NN)\n  ,/,\n  luego/FW\n  de/FW\n  que/FW\n  las/FW\n  defensas/FW\n  (NP aéreas/NNS)\n  (VP\n    rusas/VBP\n    (NP destruyeran/JJ cuatro/NN drones/NNS)\n    ucranianos/JJ)\n  en/FW\n  (NP territorio/NN)\n  (PP de/IN (NP Rusia/NNP))\n  ./.)",
+      "(S\n  (NP El/NNP Ministerio/NNP)\n  (PP de/IN (NP Defensa/NNP))\n  de/FW\n  (NP Rusia/NNP compartió/NN)\n  en/FW\n  (NP un/JJ comunicado/NN que/NN “/NNP)\n  (VP el/VBZ (NP intento/JJ del/JJ régimen/NNS))\n  de/FW\n  (NP Kiev/NNP)\n  de/FW\n  llevar/FW\n  (NP a/DT cabo/NN)\n  (NP un/JJ ataque/NN terrorista/NN)\n  (NP contra/JJ objetivos/NN)\n  (PP en/IN (NP Rusia/NNP))\n  (NP utilizando/JJ drones/NNS)\n  de/IN\n  ala/FW\n  (NP fija/JJ fue/NN frustrado/NN)\n  (VP entre/VBP)\n  las/$\n  5:05/CD\n  (VP am/VBP y/RB las/JJ)\n  5:40/CD\n  (VP am/VBP)\n  hora/FW\n  de/FW\n  (NP Moscú/NNP)\n  (/(\n  2:05/CD\n  –/RB\n  2:40/CD\n  (VP am/VBP (NP GMT/NNP))\n  )/)\n  (VP del/VBD)\n  13/CD\n  (PP de/IN (NP diciembre/NN))\n  ./.)",
+      "(S\n  (NP Las/NNP defensas/NN aéreas/NNS)\n  (VP en/VBP (NP servicio/JJ destruyeron/NN cuatro/NN vehículos/NN))\n  (VP\n    aéreos/VBZ\n    (NP no/DT tripulados/JJ ucranianos/JJ sobre/NN la/NN))\n  región/FW\n  de/FW\n  (NP Vladimir/NNP ”/NNP)\n  ./.)",
+      "(S\n  (NP Medios/NNS)\n  (VP locales/VBZ (NP ucranianos/JJ informaron/NN))\n  de/IN\n  estallidos/FW\n  en/FW\n  las/FW\n  provincias/FW\n  de/FW\n  (NP Járkov/NNP)\n  y/CC\n  (NP Odesa/NNP)\n  ,/,\n  (NP y/NN)\n  en/FW\n  la/FW\n  ciudad/FW\n  de/FW\n  (NP Zaporozhie/NNP)\n  ,/,\n  (NP luego/NN)\n  de/FW\n  un/FW\n  (NP ataque/NN masivo/NN)\n  (NP contra/JJ el/NN territorio/NN con/NN misiles/NNS)\n  ./.)",
+      "(S\n  (NP En/NNP Kiev/NNP)\n  ,/,\n  (NP la/NN)\n  (NP administración/JJ militar/NN confirmó/NN que/NN)\n  el/FW\n  (NP sistema/NN)\n  de/IN\n  defensa/FW\n  (NP antiaérea/JJ se/NN movilizó/NN)\n  (PP en/IN (NP dicho/NN territorio/NN))\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "CIUDADES_CAPITALES",
+      "APROBACION_RECHAZO",
+      "TIEMPO_RELATIVO",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "REGIONES_PROVINCIAS",
+      "PERIODOS_TEMPORALES",
+      "PAISES",
+      "PROTESTAS_CONFLICTOS_SOCIALES",
+      "CONFLICTOS_ARMADOS_OPERACIONES",
+      "INFRAESTRUCTURA_SERVICIOS",
+      "JURIDICO_LEGISLATIVO_CORRUPCION"
+    ],
+    "matches": [
+      {
+        "category": "PROTESTAS_CONFLICTOS_SOCIALES",
+        "matched_text": "movilizó",
+        "position": [
+          924,
+          932
+        ],
+        "start": 924,
+        "end": 932
+      },
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "ataque terrorista contra objetivos en rusia utilizando drones de ala fija fue frustrado entre las 5:05 am y las 5:40 am hora de moscú (2:05 – 2:40 am gmt) del 13 de diciembre. las defensas aéreas en servicio destruyeron cuatro vehículos aéreos no tripulados ucranianos",
+        "position": [
+          364,
+          632
+        ],
+        "start": 364,
+        "end": 632
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "expresó",
+        "position": [
+          1351,
+          1358
+        ],
+        "start": 1351,
+        "end": 1358
+      },
+      {
+        "category": "JURIDICO_LEGISLATIVO_CORRUPCION",
+        "matched_text": "defensa",
+        "position": [
+          264,
+          271
+        ],
+        "start": 264,
+        "end": 271
+      },
+      {
+        "category": "APROBACION_RECHAZO",
+        "matched_text": "ratificó",
+        "position": [
+          1151,
+          1159
+        ],
+        "start": 1151,
+        "end": 1159
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "energía",
+        "position": [
+          1122,
+          1129
+        ],
+        "start": 1122,
+        "end": 1129
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "ucrania",
+        "position": [
+          90,
+          97
+        ],
+        "start": 90,
+        "end": 97
+      },
+      {
+        "category": "CIUDADES_CAPITALES",
+        "matched_text": "kiev",
+        "position": [
+          339,
+          343
+        ],
+        "start": 339,
+        "end": 343
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "estado de",
+        "position": [
+          123,
+          132
+        ],
+        "start": 123,
+        "end": 132
+      },
+      {
+        "category": "PERIODOS_TEMPORALES",
+        "matched_text": "en la mañana",
+        "position": [
+          0,
+          12
+        ],
+        "start": 0,
+        "end": 12
+      },
+      {
+        "category": "TIEMPO_RELATIVO",
+        "matched_text": "mañana",
+        "position": [
+          6,
+          12
+        ],
+        "start": 6,
+        "end": 12
+      }
+    ],
+    "match_count": 11
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Ministerio de Defensa de Rusia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Aviación militar",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "German Galushchenko",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Rusia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Guennadi Trujánov",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Odesa",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Polonia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Ucrania",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Kiev",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Moscú",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Vladimir",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Járkov",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Zaporozhie",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Ucrania",
+        "relacion": "REPORTAR",
+        "objeto": "Rusia"
+      },
+      {
+        "sujeto": "Ministerio de Defensa de Rusia",
+        "relacion": "COMPARTIR",
+        "objeto": "Kiev"
+      },
+      {
+        "sujeto": "Ministerio de Defensa de Rusia",
+        "relacion": "COMPARTIR",
+        "objeto": "Rusia"
+      },
+      {
+        "sujeto": "Ministerio de Defensa de Rusia",
+        "relacion": "COMPARTIR",
+        "objeto": "Moscú"
+      },
+      {
+        "sujeto": "Kiev",
+        "relacion": "FRUSTRAR_COMPARTIR",
+        "objeto": "Moscú"
+      },
+      {
+        "sujeto": "Rusia",
+        "relacion": "LLEVAR_FRUSTRAR_COMPARTIR",
+        "objeto": "Moscú"
+      },
+      {
+        "sujeto": "Odesa",
+        "relacion": "CORROBORAR",
+        "objeto": "Guennadi Trujánov"
+      },
+      {
+        "sujeto": "German Galushchenko",
+        "relacion": "RATIFICAR",
+        "objeto": "Ucrania"
+      },
+      {
+        "sujeto": "Polonia",
+        "relacion": "MOVILIZAR",
+        "objeto": "Aviación militar"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.5267,
+    "pos": 0.0,
+    "neu": 0.982,
+    "neg": 0.018,
+    "label": "negative"
+  }
+}

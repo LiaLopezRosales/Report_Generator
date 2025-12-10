@@ -1,0 +1,810 @@
+{
+  "url": "https://www.telesurtv.net/movimiento-libanes-hezbola-ataca-sitios-militares-de-la-ocupacion-al-norte-de-palestina/",
+  "title": "Movimiento libanés Hezbolá ataca sitios militares de la ocupación al norte de Palestina - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Antisionismo",
+    "ataques",
+    "Hezbolá",
+    "ocupación sionista",
+    "Resistencia"
+  ],
+  "text": "El movimiento de resistencia islámica libanesa Hezbolá atacó este jueves varias posiciones militares de la entidad sionista al norte de los territorios palestinos ocupados.\nA través de una declaración, la milicia chií precisó que atacó el puesto militar de al-Malikiyah, causando bajas a las fuerzas israelíes, en tanto que lanzó cohetes contra los kibutzes Matzuva y Rosh HaNikra, en la región de Galilea Occidental.\nAdemás, atacó con cohetes posiciones de artillería israelí al norte del asentamiento de Ain Yaaqoub y el puesto militar de Bayyad Blida. Señaló que logró impactos directos. Medios israelíes refirieron que se produjeron varios incendios.\nHezbolá legitimó estas acciones militares contra la ocupación en solidaridad con la resistencia palestina en la Franja de Gaza y como respuesta a los bombardeos o ataques con misiles disparados desde aviones de la ocupación contra localidades al sur de Líbano.\nDurante esta jornada, la aviación de Tel Aviv atacó las afueras de la aldea de Yaroun y una casa en la aldea de Maroun al-Rass. Mientras, los atacantes abrieron fuego de artillería contra las afueras de la aldea de Alma al-Shaab.\nEn la noche del miércoles, Israel lanzó un ataque con drones contra una motocicleta en la carretera Al-Bayada, cerca de la ciudad de Tiro, y asesinó a sus dos ocupantes: Ali Alian (17 años) y su hermano Ishaq Alian (12).\nLa víspera, Hezbolá lanzó al menos nueve ataques con cohetes u otras armas contra emplazamientos militares israelíes.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/movimiento-libanes-hezbola-ataca-sitios-militares-de-la-ocupacion-al-norte-de-palestina/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-09.json",
+    "message_index": 1110,
+    "message_id": 76177,
+    "date": "2024-09-12T18:55:07+00:00",
+    "text": "teleSUR\nMovimiento libanés Hezbolá ataca sitios militares de la ocupación al norte de Palestina\nhttps://www.telesurtv.net/movimiento-libanes-hezbola-ataca-sitios-militares-de-la-ocupacion-al-norte-de-palestina/",
+    "photo_path": null,
+    "views": 3002,
+    "reactions": {
+      "👍": 64,
+      "👏": 8,
+      "❤": 2
+    },
+    "total_reactions": 74
+  },
+  "preprocessing": {
+    "cleaned": "el movimiento de resistencia islámica libanesa hezbolá atacó este jueves varias posiciones militares de la entidad sionista al norte de los territorios palestinos ocupados. a través de una declaración, la milicia chií precisó que atacó el puesto militar de al-malikiyah, causando bajas a las fuerzas israelíes, en tanto que lanzó cohetes contra los kibutzes matzuva y rosh hanikra, en la región de galilea occidental. además, atacó con cohetes posiciones de artillería israelí al norte del asentamiento de ain yaaqoub y el puesto militar de bayyad blida. señaló que logró impactos directos. medios israelíes refirieron que se produjeron varios incendios. hezbolá legitimó estas acciones militares contra la ocupación en solidaridad con la resistencia palestina en la franja de gaza y como respuesta a los bombardeos o ataques con misiles disparados desde aviones de la ocupación contra localidades al sur de líbano. durante esta jornada, la aviación de tel aviv atacó las afueras de la aldea de yaroun y una casa en la aldea de maroun al-rass. mientras, los atacantes abrieron fuego de artillería contra las afueras de la aldea de alma al-shaab. en la noche del miércoles, israel lanzó un ataque con drones contra una motocicleta en la carretera al-bayada, cerca de la ciudad de tiro, y asesinó a sus dos ocupantes: ali alian (17 años) y su hermano ishaq alian (12). la víspera, hezbolá lanzó al menos nueve ataques con cohetes u otras armas contra emplazamientos militares israelíes.",
+    "tokens": [
+      "movimiento",
+      "resistencia",
+      "islámica",
+      "libanesa",
+      "hezbolá",
+      "atacó",
+      "jueves",
+      "varias",
+      "posiciones",
+      "militares",
+      "entidad",
+      "sionista",
+      "norte",
+      "territorios",
+      "palestinos",
+      "ocupados",
+      ".",
+      "través",
+      "declaración",
+      ",",
+      "milicia",
+      "chií",
+      "precisó",
+      "atacó",
+      "puesto",
+      "militar",
+      "al-malikiyah",
+      ",",
+      "causando",
+      "bajas",
+      "fuerzas",
+      "israelíes",
+      ",",
+      "lanzó",
+      "cohetes",
+      "kibutzes",
+      "matzuva",
+      "rosh",
+      "hanikra",
+      ",",
+      "región",
+      "galilea",
+      "occidental",
+      ".",
+      "además",
+      ",",
+      "atacó",
+      "cohetes",
+      "posiciones",
+      "artillería",
+      "israelí",
+      "norte",
+      "asentamiento",
+      "ain",
+      "yaaqoub",
+      "puesto",
+      "militar",
+      "bayyad",
+      "blida",
+      ".",
+      "señaló",
+      "logró",
+      "impactos",
+      "directos",
+      ".",
+      "medios",
+      "israelíes",
+      "refirieron",
+      "produjeron",
+      "varios",
+      "incendios",
+      ".",
+      "hezbolá",
+      "legitimó",
+      "acciones",
+      "militares",
+      "ocupación",
+      "solidaridad",
+      "resistencia",
+      "palestina",
+      "franja",
+      "gaza",
+      "respuesta",
+      "bombardeos",
+      "ataques",
+      "misiles",
+      "disparados",
+      "aviones",
+      "ocupación",
+      "localidades",
+      "sur",
+      "líbano",
+      ".",
+      "jornada",
+      ",",
+      "aviación",
+      "tel",
+      "aviv",
+      "atacó",
+      "afueras",
+      "aldea",
+      "yaroun",
+      "casa",
+      "aldea",
+      "maroun",
+      "al-rass",
+      ".",
+      "mientras",
+      ",",
+      "atacantes",
+      "abrieron",
+      "fuego",
+      "artillería",
+      "afueras",
+      "aldea",
+      "alma",
+      "al-shaab",
+      ".",
+      "noche",
+      "miércoles",
+      ",",
+      "israel",
+      "lanzó",
+      "ataque",
+      "drones",
+      "motocicleta",
+      "carretera",
+      "al-bayada",
+      ",",
+      "cerca",
+      "ciudad",
+      "tiro",
+      ",",
+      "asesinó",
+      "dos",
+      "ocupantes",
+      ":",
+      "ali",
+      "alian",
+      "(",
+      "17",
+      "años",
+      ")",
+      "hermano",
+      "ishaq",
+      "alian",
+      "(",
+      "12",
+      ")",
+      ".",
+      "víspera",
+      ",",
+      "hezbolá",
+      "lanzó",
+      "menos",
+      "nueve",
+      "ataques",
+      "cohetes",
+      "u",
+      "armas",
+      "emplazamientos",
+      "militares",
+      "israelíes",
+      "."
+    ],
+    "token_count": 164,
+    "sentence_count": 10
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 35,
+      "NN": 60,
+      "FW": 51,
+      "VBP": 16,
+      "NNS": 21,
+      "JJ": 21,
+      "IN": 10,
+      "VBZ": 8,
+      "VBD": 1,
+      "CC": 1,
+      "CD": 2
+    },
+    "bigram_freq": {
+      "NNP-NN": 10,
+      "NN-FW": 7,
+      "FW-FW": 30,
+      "FW-NN": 6,
+      "FW-NNP": 11,
+      "NNP-VBP": 1,
+      "VBP-NN": 2,
+      "NN-NNS": 9,
+      "NNS-VBP": 15,
+      "VBP-NNS": 4,
+      "NNS-NNS": 3,
+      "VBP-FW": 1,
+      "NN-NN": 27,
+      "FW-NNS": 2,
+      "VBP-JJ": 6,
+      "JJ-NN": 12,
+      "NN-IN": 8,
+      "IN-JJ": 2,
+      "JJ-FW": 3,
+      "NN-VBZ": 4,
+      "VBZ-JJ": 5,
+      "VBZ-NNP": 2,
+      "NNP-NNP": 11,
+      "NNP-FW": 3,
+      "NNP-VBZ": 4,
+      "VBZ-NN": 1,
+      "VBP-IN": 1,
+      "IN-FW": 6,
+      "FW-JJ": 2,
+      "NN-JJ": 1,
+      "IN-NNP": 2,
+      "NN-NNP": 4,
+      "VBP-NNP": 1,
+      "JJ-NNS": 3,
+      "NNS-IN": 1,
+      "NNP-JJ": 2,
+      "NNS-FW": 1,
+      "JJ-NNP": 1,
+      "NNS-NNP": 1,
+      "NNP-VBD": 1,
+      "VBD-JJ": 1,
+      "JJ-JJ": 2,
+      "NNP-CC": 1,
+      "CC-NN": 1,
+      "NNP-CD": 2,
+      "CD-NN": 1,
+      "CD-NNP": 1
+    },
+    "trigram_freq": {
+      "NNP-NN-FW": 1,
+      "NN-FW-FW": 4,
+      "FW-FW-NN": 3,
+      "FW-NN-FW": 3,
+      "NN-FW-NNP": 2,
+      "FW-NNP-VBP": 1,
+      "NNP-VBP-NN": 1,
+      "VBP-NN-NNS": 1,
+      "NN-NNS-VBP": 7,
+      "NNS-VBP-NNS": 4,
+      "VBP-NNS-NNS": 1,
+      "NNS-NNS-VBP": 2,
+      "NNS-VBP-FW": 1,
+      "VBP-FW-FW": 1,
+      "FW-NN-NN": 3,
+      "NN-NN-FW": 3,
+      "FW-FW-FW": 17,
+      "FW-FW-NNS": 2,
+      "FW-NNS-VBP": 2,
+      "NNS-VBP-JJ": 6,
+      "VBP-JJ-NN": 2,
+      "JJ-NN-IN": 5,
+      "NN-IN-JJ": 2,
+      "IN-JJ-NN": 2,
+      "JJ-NN-NN": 3,
+      "NN-FW-NN": 1,
+      "NN-NN-NN": 15,
+      "NN-NN-IN": 1,
+      "NN-NN-NNS": 4,
+      "VBP-JJ-FW": 2,
+      "JJ-FW-NN": 1,
+      "NN-NN-VBZ": 2,
+      "NN-VBZ-JJ": 2,
+      "VBZ-JJ-NN": 3,
+      "JJ-NN-VBZ": 1,
+      "NN-VBZ-NNP": 2,
+      "VBZ-NNP-NNP": 2,
+      "NNP-NNP-NNP": 3,
+      "NNP-NNP-FW": 2,
+      "NNP-FW-FW": 1,
+      "FW-FW-NNP": 8,
+      "FW-NNP-NNP": 3,
+      "NNP-NNP-VBZ": 3,
+      "NNP-VBZ-NN": 1,
+      "VBZ-NN-NNS": 1,
+      "NNS-VBP-IN": 1,
+      "VBP-IN-FW": 1,
+      "IN-FW-JJ": 2,
+      "FW-JJ-NN": 1,
+      "JJ-NN-JJ": 1,
+      "NN-JJ-NN": 1,
+      "NNP-VBZ-JJ": 3,
+      "NN-IN-NNP": 2,
+      "IN-NNP-NNP": 2,
+      "NNP-NNP-NN": 1,
+      "NNP-NN-NN": 4,
+      "NN-NN-NNP": 2,
+      "NN-NNP-NN": 2,
+      "NNS-VBP-NNP": 1,
+      "VBP-NNP-NN": 1,
+      "NNP-NN-NNS": 1,
+      "NN-NNS-NNS": 1,
+      "NNS-NNS-NNS": 1,
+      "JJ-FW-FW": 2,
+      "FW-NNP-FW": 1,
+      "NNP-FW-NNP": 1,
+      "FW-NNP-NN": 3,
+      "VBP-NNS-VBP": 3,
+      "VBP-JJ-NNS": 1,
+      "JJ-NNS-IN": 1,
+      "NNS-IN-FW": 1,
+      "IN-FW-FW": 4,
+      "NNS-VBP-NN": 1,
+      "VBP-NN-IN": 1,
+      "NNP-FW-NN": 1,
+      "VBZ-JJ-FW": 1,
+      "FW-NNP-JJ": 2,
+      "NNP-JJ-NN": 1,
+      "NN-IN-FW": 4,
+      "NNP-NN-NNP": 2,
+      "NNP-NN-VBZ": 1,
+      "FW-JJ-NNS": 1,
+      "JJ-NNS-FW": 1,
+      "NNS-FW-FW": 1,
+      "NNP-JJ-NNP": 1,
+      "JJ-NNP-NN": 1,
+      "NN-NNS-NNP": 1,
+      "NNS-NNP-VBD": 1,
+      "NNP-VBD-JJ": 1,
+      "VBD-JJ-JJ": 1,
+      "JJ-JJ-NN": 2,
+      "JJ-NN-NNS": 2,
+      "NNP-NN-IN": 1,
+      "FW-NNP-CC": 1,
+      "NNP-CC-NN": 1,
+      "CC-NN-NN": 1,
+      "NNP-NNP-CD": 2,
+      "NNP-CD-NN": 1,
+      "CD-NN-NN": 1,
+      "NN-NNP-NNP": 1,
+      "NNP-CD-NNP": 1,
+      "CD-NNP-NN": 1,
+      "NN-NNP-VBZ": 1,
+      "VBZ-JJ-NNS": 1,
+      "JJ-NNS-VBP": 1,
+      "VBP-JJ-JJ": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 60,
+        "FW": 51,
+        "NNP": 35,
+        "NNS": 21,
+        "JJ": 21
+      },
+      "top_bigrams": {
+        "FW-FW": 30,
+        "NN-NN": 27,
+        "NNS-VBP": 15,
+        "JJ-NN": 12,
+        "FW-NNP": 11
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 17,
+        "NN-NN-NN": 15,
+        "FW-FW-NNP": 8,
+        "NN-NNS-VBP": 7,
+        "NNS-VBP-JJ": 6
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 10,
+    "chunk_counts": {
+      "NP": 69,
+      "VP": 25,
+      "PP": 4
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 4,
+        "weight": 0.037
+      },
+      {
+        "rule": "NP -> ('Hezbolá', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0185
+      },
+      {
+        "rule": "VP -> ('lanzó', 'VBZ') NP",
+        "frequency": 2,
+        "weight": 0.0185
+      },
+      {
+        "rule": "S -> NP ('de', 'FW') ('resistencia', 'FW') NP ('libanesa', 'FW') NP VP VP VP ('la', 'FW') ('entidad', 'FW') NP ('norte', 'FW') ('de', 'FW') ('los', 'FW') NP VP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0093
+      },
+      {
+        "rule": "NP -> ('El', 'NNP') ('movimiento', 'NN')",
+        "frequency": 1,
+        "weight": 0.0093
+      },
+      {
+        "rule": "NP -> ('islámica', 'NN')",
+        "frequency": 1,
+        "weight": 0.0093
+      },
+      {
+        "rule": "VP -> ('atacó', 'VBP') NP",
+        "frequency": 1,
+        "weight": 0.0093
+      },
+      {
+        "rule": "NP -> ('este', 'NN') ('jueves', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0093
+      },
+      {
+        "rule": "VP -> ('varias', 'VBP') NP",
+        "frequency": 1,
+        "weight": 0.0093
+      },
+      {
+        "rule": "NP -> ('posiciones', 'NNS') ('militares', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0093
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El movimiento"
+      },
+      {
+        "label": "NP",
+        "text": "islámica"
+      },
+      {
+        "label": "NP",
+        "text": "Hezbolá"
+      },
+      {
+        "label": "VP",
+        "text": "atacó este jueves"
+      },
+      {
+        "label": "NP",
+        "text": "este jueves"
+      },
+      {
+        "label": "VP",
+        "text": "varias posiciones militares"
+      },
+      {
+        "label": "NP",
+        "text": "posiciones militares"
+      },
+      {
+        "label": "VP",
+        "text": "de"
+      },
+      {
+        "label": "NP",
+        "text": "sionista al"
+      },
+      {
+        "label": "NP",
+        "text": "territorios"
+      },
+      {
+        "label": "VP",
+        "text": "palestinos ocupados"
+      },
+      {
+        "label": "NP",
+        "text": "ocupados"
+      },
+      {
+        "label": "NP",
+        "text": "A través"
+      },
+      {
+        "label": "PP",
+        "text": "de una declaración"
+      },
+      {
+        "label": "NP",
+        "text": "una declaración"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP El/NNP movimiento/NN)\n  de/FW\n  resistencia/FW\n  (NP islámica/NN)\n  libanesa/FW\n  (NP Hezbolá/NNP)\n  (VP atacó/VBP (NP este/NN jueves/NNS))\n  (VP varias/VBP (NP posiciones/NNS militares/NNS))\n  (VP de/VBP)\n  la/FW\n  entidad/FW\n  (NP sionista/NN al/NN)\n  norte/FW\n  de/FW\n  los/FW\n  (NP territorios/NNS)\n  (VP palestinos/VBP (NP ocupados/NN))\n  ./.)",
+      "(S\n  (NP A/DT través/NN)\n  (PP de/IN (NP una/JJ declaración/NN))\n  ,/,\n  la/FW\n  milicia/FW\n  (NP chií/NN precisó/NN que/NN atacó/NN el/NN puesto/NN militar/NN)\n  (PP de/IN (NP al-Malikiyah/NN))\n  ,/,\n  (NP causando/NN)\n  (VP bajas/VBD (NP a/DT las/JJ fuerzas/NN israelíes/NN))\n  ,/,\n  en/FW\n  (NP tanto/NN que/NN lanzó/NN)\n  (VP cohetes/VBZ (NP contra/JJ los/NN))\n  (VP kibutzes/VBZ (NP Matzuva/NNP y/NNP Rosh/NNP HaNikra/NNP))\n  ,/,\n  en/FW\n  la/FW\n  región/FW\n  de/FW\n  (NP Galilea/NNP Occidental/NNP)\n  ./.)",
+      "(S\n  (NP Además/NNP)\n  ,/,\n  (NP atacó/JJ con/NN cohetes/NNS)\n  (VP posiciones/VBP)\n  de/IN\n  artillería/FW\n  (NP israelí/JJ al/NN)\n  (NP norte/JJ del/NN asentamiento/NN)\n  de/FW\n  (NP Ain/NNP Yaaqoub/NNP y/NNP)\n  (VP el/VBZ (NP puesto/JJ militar/NN))\n  (PP de/IN (NP Bayyad/NNP Blida/NNP))\n  ./.)",
+      "(S (NP Señaló/NNP que/NN logró/NN impactos/NN directos/NN) ./.)",
+      "(S\n  (NP Medios/NNS)\n  (VP\n    israelíes/VBP\n    (NP\n      refirieron/NN\n      que/NN\n      se/NN\n      produjeron/NN\n      varios/NNS\n      incendios/NNS))\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "RELACIONES_INTERNACIONALES",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "REGIONES_PROVINCIAS",
+      "PERIODOS_TEMPORALES",
+      "PAISES",
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "INFRAESTRUCTURA_SERVICIOS",
+      "CONFLICTOS_ARMADOS_OPERACIONES"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "ataques con cohetes u otras armas contra emplazamientos militares israelíes",
+        "position": [
+          1408,
+          1483
+        ],
+        "start": 1408,
+        "end": 1483
+      },
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "fuego de artillería",
+        "position": [
+          1077,
+          1096
+        ],
+        "start": 1077,
+        "end": 1096
+      },
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "atacó",
+        "position": [
+          55,
+          60
+        ],
+        "start": 55,
+        "end": 60
+      },
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "ocupación",
+        "position": [
+          707,
+          716
+        ],
+        "start": 707,
+        "end": 716
+      },
+      {
+        "category": "RELACIONES_INTERNACIONALES",
+        "matched_text": "solidaridad con la resistencia palestina",
+        "position": [
+          720,
+          760
+        ],
+        "start": 720,
+        "end": 760
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "señaló",
+        "position": [
+          555,
+          561
+        ],
+        "start": 555,
+        "end": 561
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "precisó",
+        "position": [
+          218,
+          225
+        ],
+        "start": 218,
+        "end": 225
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "carretera",
+        "position": [
+          1236,
+          1245
+        ],
+        "start": 1236,
+        "end": 1245
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "israelí",
+        "position": [
+          469,
+          476
+        ],
+        "start": 469,
+        "end": 476
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "región de",
+        "position": [
+          388,
+          397
+        ],
+        "start": 388,
+        "end": 397
+      },
+      {
+        "category": "PERIODOS_TEMPORALES",
+        "matched_text": "en la noche",
+        "position": [
+          1146,
+          1157
+        ],
+        "start": 1146,
+        "end": 1157
+      }
+    ],
+    "match_count": 11
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Franja de Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Ali Alian",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Hezbolá",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Yaroun",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Ain Yaaqoub",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Matzuva",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Rosh HaNikra",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Alma al-Shaab",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Tiro",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Ishaq Alian",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Líbano",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Israel",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Bayyad Blida",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "al-Malikiyah",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Galilea Occidental",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Tel Aviv",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Al-Bayada",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "al-Malikiyah",
+        "relacion": "ATACAR_PRECISAR",
+        "objeto": "Matzuva"
+      },
+      {
+        "sujeto": "al-Malikiyah",
+        "relacion": "ATACAR_PRECISAR",
+        "objeto": "Rosh HaNikra"
+      },
+      {
+        "sujeto": "al-Malikiyah",
+        "relacion": "ATACAR_PRECISAR",
+        "objeto": "Galilea Occidental"
+      },
+      {
+        "sujeto": "Matzuva",
+        "relacion": "LANZAR_ATACAR_PRECISAR",
+        "objeto": "Galilea Occidental"
+      },
+      {
+        "sujeto": "Rosh HaNikra",
+        "relacion": "LANZAR_ATACAR_PRECISAR",
+        "objeto": "Galilea Occidental"
+      },
+      {
+        "sujeto": "Hezbolá",
+        "relacion": "LEGITIMAR",
+        "objeto": "Franja de Gaza"
+      },
+      {
+        "sujeto": "Hezbolá",
+        "relacion": "LEGITIMAR",
+        "objeto": "Líbano"
+      },
+      {
+        "sujeto": "Tel Aviv",
+        "relacion": "ATACAR",
+        "objeto": "Yaroun"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "LANZAR",
+        "objeto": "Al-Bayada"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "LANZAR",
+        "objeto": "Tiro"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "LANZAR",
+        "objeto": "Ali Alian"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "LANZAR",
+        "objeto": "Ishaq Alian"
+      },
+      {
+        "sujeto": "Al-Bayada",
+        "relacion": "LANZAR",
+        "objeto": "Ali Alian"
+      },
+      {
+        "sujeto": "Al-Bayada",
+        "relacion": "LANZAR",
+        "objeto": "Ishaq Alian"
+      },
+      {
+        "sujeto": "Tiro",
+        "relacion": "CERCA_LANZAR",
+        "objeto": "Ali Alian"
+      },
+      {
+        "sujeto": "Tiro",
+        "relacion": "CERCA_LANZAR",
+        "objeto": "Ishaq Alian"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.0,
+    "pos": 0.0,
+    "neu": 1.0,
+    "neg": 0.0,
+    "label": "neutral"
+  }
+}

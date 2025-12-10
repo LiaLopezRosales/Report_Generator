@@ -1,0 +1,705 @@
+{
+  "url": "https://www.telesurtv.net/rusia-zona-seguridad-frontera-ucrania/",
+  "title": "Rusia anunció la creación de una zona de seguridad en la frontera con Ucrania - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Frontera",
+    "Rusia",
+    "Ucrania",
+    "Vladimir Putin",
+    "zona de seguridad"
+  ],
+  "text": "\nEl mandatario ruso detalló que las Fuerzas Armadas de Rusia están trabajando activamente en esta tarea, suprimiendo los puntos de tiro enemigos. Putin precisó que esta medida busca proteger a las regiones rusas fronterizas de los constantes ataques y acciones violentas de las fuerzas ucranianas y “mercenarios extranjeros”, quienes según afirmó, están utilizando métodos terroristas, seleccionando objetivos sin importancia militar y atacando transporte civil, incluyendo ambulancias y maquinaria agrícola.\n“Durante la conversación directa con residentes de la región de Kursk, abordamos los problemas que más preocupan a los habitantes de pueblos y ciudades que sufrieron bombardeos, acciones militares y, francamente, los métodos terroristas que las formaciones ucranianas y los mercenarios extranjeros utilizaron y siguen utilizando”, relató Putin, quien subrayó además que “tanto mujeres como niños resultan muertos y heridos”.\n\n\nPutin detalló que las regiones de Kursk, Bélgorod y Briansk, necesitan apoyo adicional debido a los bombardeos sufridos, por ello, ordenó la preparación urgente de un programa integral de recuperación para las zonas afectadas.\nLos Ministerios de Defensa, del Interior, de Situaciones de Emergencia y otros organismos se unirán a los trabajos de restauración. Putin anunció una reunión especial para abordar este programa y solicitó actualizaciones periódicas al gobierno sobre su implementación.\n\n\n\n\nEntre las tareas prioritarias para garantizar la seguridad, Putin destacó el desminado de las zonas donde se produjeron acciones militares. Asimismo, enfatizó que la decisión de crear la zona de seguridad surge como respuesta directa a los ataques, que incluso después de la “completa liberación de la región de Kursk por el ejército ruso”, continúan con bombardeos y ataques con drones.\n",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/rusia-zona-seguridad-frontera-ucrania/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-05.json",
+    "message_index": 628,
+    "message_id": 94671,
+    "date": "2025-05-22T17:55:06+00:00",
+    "text": "teleSUR\nRusia anunció la creación de una zona de seguridad en la frontera con Ucrania\nhttps://www.telesurtv.net/rusia-zona-seguridad-frontera-ucrania/",
+    "photo_path": null,
+    "views": 1490,
+    "reactions": {
+      "❤": 24,
+      "👏": 10,
+      "👍": 3,
+      "🤡": 1
+    },
+    "total_reactions": 38
+  },
+  "preprocessing": {
+    "cleaned": "el mandatario ruso detalló que las fuerzas armadas de rusia están trabajando activamente en esta tarea, suprimiendo los puntos de tiro enemigos. putin precisó que esta medida busca proteger a las regiones rusas fronterizas de los constantes ataques y acciones violentas de las fuerzas ucranianas y “mercenarios extranjeros”, quienes según afirmó, están utilizando métodos terroristas, seleccionando objetivos sin importancia militar y atacando transporte civil, incluyendo ambulancias y maquinaria agrícola. “durante la conversación directa con residentes de la región de kursk, abordamos los problemas que más preocupan a los habitantes de pueblos y ciudades que sufrieron bombardeos, acciones militares y, francamente, los métodos terroristas que las formaciones ucranianas y los mercenarios extranjeros utilizaron y siguen utilizando”, relató putin, quien subrayó además que “tanto mujeres como niños resultan muertos y heridos”. putin detalló que las regiones de kursk, bélgorod y briansk, necesitan apoyo adicional debido a los bombardeos sufridos, por ello, ordenó la preparación urgente de un programa integral de recuperación para las zonas afectadas. los ministerios de defensa, del interior, de situaciones de emergencia y otros organismos se unirán a los trabajos de restauración. putin anunció una reunión especial para abordar este programa y solicitó actualizaciones periódicas al gobierno sobre su implementación. entre las tareas prioritarias para garantizar la seguridad, putin destacó el desminado de las zonas donde se produjeron acciones militares. asimismo, enfatizó que la decisión de crear la zona de seguridad surge como respuesta directa a los ataques, que incluso después de la “completa liberación de la región de kursk por el ejército ruso”, continúan con bombardeos y ataques con drones.",
+    "tokens": [
+      "mandatario",
+      "ruso",
+      "detalló",
+      "fuerzas",
+      "armadas",
+      "rusia",
+      "trabajando",
+      "activamente",
+      "tarea",
+      ",",
+      "suprimiendo",
+      "puntos",
+      "tiro",
+      "enemigos",
+      ".",
+      "putin",
+      "precisó",
+      "medida",
+      "busca",
+      "proteger",
+      "regiones",
+      "rusas",
+      "fronterizas",
+      "constantes",
+      "ataques",
+      "acciones",
+      "violentas",
+      "fuerzas",
+      "ucranianas",
+      "“",
+      "mercenarios",
+      "extranjeros",
+      "”",
+      ",",
+      "según",
+      "afirmó",
+      ",",
+      "utilizando",
+      "métodos",
+      "terroristas",
+      ",",
+      "seleccionando",
+      "objetivos",
+      "importancia",
+      "militar",
+      "atacando",
+      "transporte",
+      "civil",
+      ",",
+      "incluyendo",
+      "ambulancias",
+      "maquinaria",
+      "agrícola",
+      ".",
+      "“",
+      "conversación",
+      "directa",
+      "residentes",
+      "región",
+      "kursk",
+      ",",
+      "abordamos",
+      "problemas",
+      "preocupan",
+      "habitantes",
+      "pueblos",
+      "ciudades",
+      "sufrieron",
+      "bombardeos",
+      ",",
+      "acciones",
+      "militares",
+      ",",
+      "francamente",
+      ",",
+      "métodos",
+      "terroristas",
+      "formaciones",
+      "ucranianas",
+      "mercenarios",
+      "extranjeros",
+      "utilizaron",
+      "siguen",
+      "utilizando",
+      "”",
+      ",",
+      "relató",
+      "putin",
+      ",",
+      "subrayó",
+      "además",
+      "“",
+      "mujeres",
+      "niños",
+      "resultan",
+      "muertos",
+      "heridos",
+      "”",
+      ".",
+      "putin",
+      "detalló",
+      "regiones",
+      "kursk",
+      ",",
+      "bélgorod",
+      "briansk",
+      ",",
+      "necesitan",
+      "apoyo",
+      "adicional",
+      "debido",
+      "bombardeos",
+      "sufridos",
+      ",",
+      "ello",
+      ",",
+      "ordenó",
+      "preparación",
+      "urgente",
+      "programa",
+      "integral",
+      "recuperación",
+      "zonas",
+      "afectadas",
+      ".",
+      "ministerios",
+      "defensa",
+      ",",
+      "interior",
+      ",",
+      "situaciones",
+      "emergencia",
+      "organismos",
+      "unirán",
+      "trabajos",
+      "restauración",
+      ".",
+      "putin",
+      "anunció",
+      "reunión",
+      "especial",
+      "abordar",
+      "programa",
+      "solicitó",
+      "actualizaciones",
+      "periódicas",
+      "gobierno",
+      "implementación",
+      ".",
+      "tareas",
+      "prioritarias",
+      "garantizar",
+      "seguridad",
+      ",",
+      "putin",
+      "destacó",
+      "desminado",
+      "zonas",
+      "produjeron",
+      "acciones",
+      "militares",
+      ".",
+      "asimismo",
+      ",",
+      "enfatizó",
+      "decisión",
+      "crear",
+      "zona",
+      "seguridad",
+      "surge",
+      "respuesta",
+      "directa",
+      "ataques",
+      ",",
+      "incluso",
+      "después",
+      "“",
+      "completa",
+      "liberación",
+      "región",
+      "kursk",
+      "ejército",
+      "ruso",
+      "”",
+      ",",
+      "continúan",
+      "bombardeos",
+      "ataques",
+      "drones",
+      "."
+    ],
+    "token_count": 190,
+    "sentence_count": 8
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 24,
+      "NN": 85,
+      "NNS": 21,
+      "FW": 58,
+      "VBP": 15,
+      "VB": 2,
+      "IN": 7,
+      "JJ": 27,
+      "VBZ": 3,
+      "CC": 1,
+      "MD": 1
+    },
+    "bigram_freq": {
+      "NNP-NN": 8,
+      "NN-NN": 54,
+      "NN-NNS": 9,
+      "NNS-NNP": 2,
+      "NNP-NNP": 5,
+      "NNP-FW": 6,
+      "FW-NNP": 10,
+      "FW-NN": 4,
+      "NN-FW": 3,
+      "FW-FW": 39,
+      "NN-VBP": 2,
+      "VBP-NNS": 4,
+      "NNS-VB": 1,
+      "VB-NN": 1,
+      "NN-IN": 4,
+      "IN-FW": 6,
+      "FW-NNS": 2,
+      "NNS-VBP": 12,
+      "NNS-FW": 1,
+      "FW-JJ": 3,
+      "JJ-NNS": 4,
+      "VBP-JJ": 10,
+      "JJ-FW": 3,
+      "JJ-NN": 17,
+      "JJ-NNP": 1,
+      "NN-VBZ": 2,
+      "VBZ-IN": 2,
+      "NNP-CC": 1,
+      "CC-JJ": 1,
+      "VBP-NN": 1,
+      "NNS-NNS": 2,
+      "NN-JJ": 7,
+      "NNS-JJ": 1,
+      "JJ-JJ": 2,
+      "NN-NNP": 4,
+      "NNS-IN": 1,
+      "IN-NNP": 1,
+      "NNP-JJ": 1,
+      "NNP-MD": 1,
+      "MD-VB": 1,
+      "VB-JJ": 1,
+      "NNP-VBZ": 1,
+      "VBZ-JJ": 1,
+      "NNP-VBP": 1
+    },
+    "trigram_freq": {
+      "NNP-NN-NN": 7,
+      "NN-NN-NN": 34,
+      "NN-NN-NNS": 6,
+      "NN-NNS-NNP": 1,
+      "NNS-NNP-NNP": 1,
+      "NNP-NNP-FW": 2,
+      "NNP-FW-NNP": 5,
+      "FW-NNP-FW": 4,
+      "NNP-FW-NN": 1,
+      "FW-NN-NN": 2,
+      "NN-NN-FW": 2,
+      "NN-FW-FW": 2,
+      "FW-FW-FW": 31,
+      "FW-FW-NNP": 4,
+      "FW-NNP-NN": 3,
+      "NN-NN-VBP": 2,
+      "NN-VBP-NNS": 1,
+      "VBP-NNS-VB": 1,
+      "NNS-VB-NN": 1,
+      "VB-NN-IN": 1,
+      "NN-IN-FW": 4,
+      "IN-FW-NNS": 2,
+      "FW-NNS-VBP": 2,
+      "NNS-VBP-NNS": 3,
+      "VBP-NNS-FW": 1,
+      "NNS-FW-FW": 1,
+      "FW-FW-JJ": 2,
+      "FW-JJ-NNS": 1,
+      "JJ-NNS-VBP": 2,
+      "VBP-NNS-VBP": 1,
+      "NNS-VBP-JJ": 8,
+      "VBP-JJ-FW": 2,
+      "JJ-FW-JJ": 1,
+      "FW-JJ-NN": 1,
+      "JJ-NN-NNS": 2,
+      "NN-NNS-VBP": 6,
+      "VBP-JJ-NN": 7,
+      "JJ-NN-NN": 10,
+      "NN-VBP-JJ": 1,
+      "VBP-JJ-NNP": 1,
+      "JJ-NNP-NNP": 1,
+      "NNP-NNP-NN": 1,
+      "NN-NN-VBZ": 2,
+      "NN-VBZ-IN": 2,
+      "VBZ-IN-FW": 2,
+      "IN-FW-FW": 3,
+      "FW-NNP-CC": 1,
+      "NNP-CC-JJ": 1,
+      "CC-JJ-NN": 1,
+      "NNS-VBP-NN": 1,
+      "VBP-NN-NN": 1,
+      "NN-NNS-NNS": 2,
+      "NNS-NNS-VBP": 1,
+      "NN-NN-JJ": 3,
+      "NN-JJ-NNS": 2,
+      "JJ-NNS-JJ": 1,
+      "NNS-JJ-JJ": 1,
+      "JJ-JJ-NNS": 1,
+      "JJ-NN-JJ": 3,
+      "NN-JJ-NN": 5,
+      "JJ-NN-NNP": 1,
+      "NN-NNP-NN": 3,
+      "NN-NN-NNP": 3,
+      "JJ-NNS-IN": 1,
+      "NNS-IN-NNP": 1,
+      "IN-NNP-NNP": 1,
+      "NNP-NNP-NNP": 1,
+      "NNP-NNP-JJ": 1,
+      "NNP-JJ-NN": 1,
+      "NN-FW-NN": 1,
+      "FW-NN-FW": 1,
+      "FW-JJ-FW": 1,
+      "JJ-FW-FW": 2,
+      "FW-NNP-NNP": 1,
+      "FW-NNP-MD": 1,
+      "NNP-MD-VB": 1,
+      "MD-VB-JJ": 1,
+      "VB-JJ-JJ": 1,
+      "JJ-JJ-NN": 1,
+      "NN-NN-IN": 2,
+      "IN-FW-NNP": 1,
+      "NNP-NN-JJ": 1,
+      "NN-NNP-VBZ": 1,
+      "NNP-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 1,
+      "FW-FW-NN": 2,
+      "FW-NN-NNS": 1,
+      "NNS-NNS-NNP": 1,
+      "NNS-NNP-VBP": 1,
+      "NNP-VBP-JJ": 1,
+      "JJ-NN-IN": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 85,
+        "FW": 58,
+        "JJ": 27,
+        "NNP": 24,
+        "NNS": 21
+      },
+      "top_bigrams": {
+        "NN-NN": 54,
+        "FW-FW": 39,
+        "JJ-NN": 17,
+        "NNS-VBP": 12,
+        "FW-NNP": 10
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 34,
+        "FW-FW-FW": 31,
+        "JJ-NN-NN": 10,
+        "NNS-VBP-JJ": 8,
+        "NNP-NN-NN": 7
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 8,
+    "chunk_counts": {
+      "NP": 70,
+      "VP": 14,
+      "ADJP": 3,
+      "PP": 3
+    },
+    "top_rules": [
+      {
+        "rule": "NP -> ('Kursk', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0204
+      },
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0204
+      },
+      {
+        "rule": "S -> NP ('de', 'FW') NP ('están', 'FW') NP ('en', 'FW') NP (',', ',') NP ('de', 'IN') ('tiro', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0102
+      },
+      {
+        "rule": "NP -> ('El', 'NNP') ('mandatario', 'NN') ('ruso', 'NN') ('detalló', 'NN') ('que', 'NN') ('las', 'NNS') ('Fuerzas', 'NNP') ('Armadas', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0102
+      },
+      {
+        "rule": "NP -> ('Rusia', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0102
+      },
+      {
+        "rule": "NP -> ('trabajando', 'NN') ('activamente', 'NN')",
+        "frequency": 1,
+        "weight": 0.0102
+      },
+      {
+        "rule": "NP -> ('esta', 'NN') ('tarea', 'NN')",
+        "frequency": 1,
+        "weight": 0.0102
+      },
+      {
+        "rule": "NP -> ('suprimiendo', 'JJ') ('los', 'NN') ('puntos', 'NN')",
+        "frequency": 1,
+        "weight": 0.0102
+      },
+      {
+        "rule": "NP -> ('enemigos', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0102
+      },
+      {
+        "rule": "S -> NP NP VP ('de', 'IN') ('los', 'FW') NP VP ('violentas', 'FW') ('de', 'FW') ('las', 'FW') ('fuerzas', 'FW') NP VP (',', ',') NP VP (',', ',') ('están', 'FW') NP (',', ',') NP ADJP (',', ',') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0102
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El mandatario ruso detalló que las Fuerzas Armadas"
+      },
+      {
+        "label": "NP",
+        "text": "Rusia"
+      },
+      {
+        "label": "NP",
+        "text": "trabajando activamente"
+      },
+      {
+        "label": "NP",
+        "text": "esta tarea"
+      },
+      {
+        "label": "NP",
+        "text": "suprimiendo los puntos"
+      },
+      {
+        "label": "NP",
+        "text": "enemigos"
+      },
+      {
+        "label": "NP",
+        "text": "Putin precisó que esta medida busca proteger"
+      },
+      {
+        "label": "NP",
+        "text": "a las regiones"
+      },
+      {
+        "label": "VP",
+        "text": "rusas fronterizas"
+      },
+      {
+        "label": "NP",
+        "text": "fronterizas"
+      },
+      {
+        "label": "NP",
+        "text": "constantes ataques"
+      },
+      {
+        "label": "VP",
+        "text": "y acciones"
+      },
+      {
+        "label": "NP",
+        "text": "acciones"
+      },
+      {
+        "label": "NP",
+        "text": "ucranianas y “ mercenarios"
+      },
+      {
+        "label": "VP",
+        "text": "extranjeros ”"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP\n    El/NNP\n    mandatario/NN\n    ruso/NN\n    detalló/NN\n    que/NN\n    las/NNS\n    Fuerzas/NNP\n    Armadas/NNP)\n  de/FW\n  (NP Rusia/NNP)\n  están/FW\n  (NP trabajando/NN activamente/NN)\n  en/FW\n  (NP esta/NN tarea/NN)\n  ,/,\n  (NP suprimiendo/JJ los/NN puntos/NN)\n  de/IN\n  tiro/FW\n  (NP enemigos/NNS)\n  ./.)",
+      "(S\n  (NP\n    Putin/NNP\n    precisó/NN\n    que/NN\n    esta/NN\n    medida/NN\n    busca/NN\n    proteger/NN)\n  (NP a/DT las/JJ regiones/NNS)\n  (VP rusas/VBP (NP fronterizas/NN))\n  de/IN\n  los/FW\n  (NP constantes/NNS ataques/NNS)\n  (VP y/VBP (NP acciones/NNS))\n  violentas/FW\n  de/FW\n  las/FW\n  fuerzas/FW\n  (NP ucranianas/JJ y/NN “/NNP mercenarios/NNS)\n  (VP extranjeros/VBP (NP ”/NN))\n  ,/,\n  (NP quienes/NNS)\n  (VP según/VBP (NP afirmó/NN))\n  ,/,\n  están/FW\n  (NP utilizando/JJ métodos/NN terroristas/NNS)\n  ,/,\n  (NP\n    seleccionando/NN\n    objetivos/NN\n    sin/NN\n    importancia/NN\n    militar/NN\n    y/NNP\n    atacando/NN\n    transporte/NN)\n  (ADJP civil/JJ)\n  ,/,\n  (NP incluyendo/JJ ambulancias/NN y/NN maquinaria/NN agrícola/NN)\n  ./.)",
+      "(S\n  (NP “/JJ Durante/NNP la/NNP conversación/NN directa/NN con/NN)\n  (VP residentes/VBZ)\n  de/IN\n  la/FW\n  región/FW\n  de/FW\n  (NP Kursk/NNP)\n  ,/,\n  (NP abordamos/JJ los/NN problemas/NN que/NN más/NN)\n  (VP preocupan/VBP (NP a/DT los/JJ habitantes/NNS))\n  de/IN\n  pueblos/FW\n  y/FW\n  (NP ciudades/NNS)\n  (VP que/VBP (NP sufrieron/NN bombardeos/NN))\n  ,/,\n  (NP acciones/NNS militares/NNS)\n  y/RB\n  ,/,\n  (NP francamente/NN)\n  ,/,\n  (NP los/JJ métodos/NN terroristas/NN que/NN)\n  (NP las/JJ formaciones/NNS)\n  (ADJP ucranianas/JJ)\n  y/RB\n  (NP los/JJ mercenarios/NNS)\n  (VP\n    extranjeros/VBP\n    (NP utilizaron/JJ y/NN siguen/NN)\n    (NP utilizando/JJ ”/NNP))\n  ,/,\n  (NP relató/NN Putin/NNP)\n  ,/,\n  (NP\n    quien/NN\n    subrayó/NN\n    además/NN\n    que/NN\n    “/NNP\n    tanto/NN\n    mujeres/NNS)\n  (VP\n    como/VBP\n    (NP niños/JJ resultan/NN muertos/NN y/NN heridos/NN ”/NN))\n  ./.)",
+      "(S\n  (NP Putin/NNP detalló/NN que/NN)\n  (NP las/JJ regiones/NNS)\n  (PP de/IN (NP Kursk/NNP))\n  ,/,\n  (NP Bélgorod/NNP y/NNP Briansk/NNP)\n  ,/,\n  (NP necesitan/JJ apoyo/JJ adicional/JJ debido/NN)\n  (NP a/DT los/NN bombardeos/NN sufridos/NN)\n  ,/,\n  (NP por/NN ello/NN)\n  ,/,\n  (NP ordenó/JJ la/NN)\n  preparación/FW\n  urgente/FW\n  de/FW\n  un/FW\n  programa/FW\n  (ADJP integral/JJ)\n  de/FW\n  recuperación/FW\n  para/FW\n  las/FW\n  zonas/FW\n  (NP afectadas/NNS)\n  ./.)",
+      "(S\n  (NP Los/NNP Ministerios/NNP)\n  de/FW\n  (NP Defensa/NNP)\n  ,/,\n  (NP del/NN Interior/NNP)\n  ,/,\n  de/FW\n  (NP Situaciones/NNP)\n  de/FW\n  (NP Emergencia/NNP)\n  y/CC\n  (NP otros/JJ organismos/NN se/NN)\n  (PP unirán/IN (NP a/DT los/JJ trabajos/NN))\n  (PP de/IN (NP restauración/NN))\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "GRUPOS_ESPECIFICOS",
+      "APROBACION_RECHAZO",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "REGIONES_PROVINCIAS",
+      "PAISES",
+      "CONFLICTOS_ARMADOS_OPERACIONES",
+      "JURIDICO_LEGISLATIVO_CORRUPCION"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "ataques, que incluso después de la “completa liberación de la región de kursk por el ejército ruso",
+        "position": [
+          1676,
+          1774
+        ],
+        "start": 1676,
+        "end": 1774
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "afirmó",
+        "position": [
+          340,
+          346
+        ],
+        "start": 340,
+        "end": 346
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "anunció",
+        "position": [
+          1301,
+          1308
+        ],
+        "start": 1301,
+        "end": 1308
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "precisó",
+        "position": [
+          152,
+          159
+        ],
+        "start": 152,
+        "end": 159
+      },
+      {
+        "category": "JURIDICO_LEGISLATIVO_CORRUPCION",
+        "matched_text": "defensa",
+        "position": [
+          1182,
+          1189
+        ],
+        "start": 1182,
+        "end": 1189
+      },
+      {
+        "category": "GRUPOS_ESPECIFICOS",
+        "matched_text": "mujeres",
+        "position": [
+          886,
+          893
+        ],
+        "start": 886,
+        "end": 893
+      },
+      {
+        "category": "APROBACION_RECHAZO",
+        "matched_text": "subrayó",
+        "position": [
+          860,
+          867
+        ],
+        "start": 860,
+        "end": 867
+      },
+      {
+        "category": "APROBACION_RECHAZO",
+        "matched_text": "destacó",
+        "position": [
+          1502,
+          1509
+        ],
+        "start": 1502,
+        "end": 1509
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "rusia",
+        "position": [
+          55,
+          60
+        ],
+        "start": 55,
+        "end": 60
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "región de",
+        "position": [
+          563,
+          572
+        ],
+        "start": 563,
+        "end": 572
+      }
+    ],
+    "match_count": 10
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Putin",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Kursk",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Briansk",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Fuerzas Armadas de Rusia",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Bélgorod",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Los Ministerios de Defensa",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Putin",
+        "relacion": "ABORDAR_RELATAR",
+        "objeto": "Kursk"
+      },
+      {
+        "sujeto": "Putin",
+        "relacion": "DETALLAR",
+        "objeto": "Kursk"
+      },
+      {
+        "sujeto": "Putin",
+        "relacion": "DETALLAR",
+        "objeto": "Bélgorod"
+      },
+      {
+        "sujeto": "Putin",
+        "relacion": "DETALLAR",
+        "objeto": "Briansk"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.5574,
+    "pos": 0.0,
+    "neu": 0.985,
+    "neg": 0.015,
+    "label": "negative"
+  }
+}

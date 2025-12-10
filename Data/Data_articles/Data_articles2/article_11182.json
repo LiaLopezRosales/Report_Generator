@@ -1,0 +1,584 @@
+{
+  "url": "https://www.telesurtv.net/atentado-bomba-a-una-carcel-en-construccion-dejo-un-muerto-en-ecuador/",
+  "title": "Atentado bomba a una cárcel en construcción dejó un muerto en Ecuador - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "Atentado Bomba",
+    "Cárcel Máxima Seguridad",
+    "Provincia Santa Elena"
+  ],
+  "text": "Al menos una persona falleció el miércoles en un atentado bomba perpetrado donde se construye una cárcel de máxima seguridad en la provincia ecuatoriana de Santa Elena.\nSegún el Servicio Nacional de Atención Integral a Personas Adultas Privadas de la Libertad y a Adolescentes Infractores (SNAI) un grupo de hombres armados ingresó violentamente en el sitio de construcción del nuevo centro penitenciario, “donde detonaron artefactos explosivos”.\nEl ataque causó la muerte de un hombre que trabajaba en la construcción de la prisión e hirió a otro.\nEl SNAI calificó el hecho de “atentado terrorista”. La entidad también añadió que el acto pone en evidencia la alianza existente entre grupos delictivos y sectores políticos.\nA través de un comunicado el ente ecuatoriano señaló “que grupos de delincuencia organizada, utilizando explosivos, claramente buscan sembrar el terror, debilitar al Estado y frenar el compromiso del Gobierno por devolver la paz y la seguridad a todos los ecuatorianos”.\nLa prisión de máxima seguridad, denominada Cárcel del Encuentro, estaba construida en un 30 por ciento. Su construcción y emplazamiento en la provincia costera provocó protestas de los habitantes de las comunidades vecinas.\nLa construcción de la prisión es en respuesta a la crisis penitenciaria e inseguridad que atraviesa el país, donde entre 2021 y 2023 fueron asesinados más de 500 privados de libertad.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/atentado-bomba-a-una-carcel-en-construccion-dejo-un-muerto-en-ecuador/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-12.json",
+    "message_index": 308,
+    "message_id": 83077,
+    "date": "2024-12-26T06:55:08+00:00",
+    "text": "teleSUR\nAtentado bomba a una cárcel en construcción dejó un muerto en Ecuador\nhttps://www.telesurtv.net/atentado-bomba-a-una-carcel-en-construccion-dejo-un-muerto-en-ecuador/",
+    "photo_path": null,
+    "views": 2343,
+    "reactions": {
+      "🤬": 21,
+      "😱": 13,
+      "🤮": 3,
+      "🤔": 2,
+      "😁": 1
+    },
+    "total_reactions": 40
+  },
+  "preprocessing": {
+    "cleaned": "al menos una persona falleció el miércoles en un atentado bomba perpetrado donde se construye una cárcel de máxima seguridad en la provincia ecuatoriana de santa elena. según el servicio nacional de atención integral a personas adultas privadas de la libertad y a adolescentes infractores (snai) un grupo de hombres armados ingresó violentamente en el sitio de construcción del nuevo centro penitenciario, “donde detonaron artefactos explosivos”. el ataque causó la muerte de un hombre que trabajaba en la construcción de la prisión e hirió a otro. el snai calificó el hecho de “atentado terrorista”. la entidad también añadió que el acto pone en evidencia la alianza existente entre grupos delictivos y sectores políticos. a través de un comunicado el ente ecuatoriano señaló “que grupos de delincuencia organizada, utilizando explosivos, claramente buscan sembrar el terror, debilitar al estado y frenar el compromiso del gobierno por devolver la paz y la seguridad a todos los ecuatorianos”. la prisión de máxima seguridad, denominada cárcel del encuentro, estaba construida en un 30 por ciento. su construcción y emplazamiento en la provincia costera provocó protestas de los habitantes de las comunidades vecinas. la construcción de la prisión es en respuesta a la crisis penitenciaria e inseguridad que atraviesa el país, donde entre 2021 y 2023 fueron asesinados más de 500 privados de libertad.",
+    "tokens": [
+      "menos",
+      "persona",
+      "falleció",
+      "miércoles",
+      "atentado",
+      "bomba",
+      "perpetrado",
+      "construye",
+      "cárcel",
+      "máxima",
+      "seguridad",
+      "provincia",
+      "ecuatoriana",
+      "santa",
+      "elena",
+      ".",
+      "según",
+      "servicio",
+      "nacional",
+      "atención",
+      "integral",
+      "personas",
+      "adultas",
+      "privadas",
+      "libertad",
+      "adolescentes",
+      "infractores",
+      "(",
+      "snai",
+      ")",
+      "grupo",
+      "hombres",
+      "armados",
+      "ingresó",
+      "violentamente",
+      "sitio",
+      "construcción",
+      "nuevo",
+      "centro",
+      "penitenciario",
+      ",",
+      "“",
+      "detonaron",
+      "artefactos",
+      "explosivos",
+      "”",
+      ".",
+      "ataque",
+      "causó",
+      "muerte",
+      "hombre",
+      "trabajaba",
+      "construcción",
+      "prisión",
+      "hirió",
+      ".",
+      "snai",
+      "calificó",
+      "hecho",
+      "“",
+      "atentado",
+      "terrorista",
+      "”",
+      ".",
+      "entidad",
+      "añadió",
+      "acto",
+      "pone",
+      "evidencia",
+      "alianza",
+      "existente",
+      "grupos",
+      "delictivos",
+      "sectores",
+      "políticos",
+      ".",
+      "través",
+      "comunicado",
+      "ente",
+      "ecuatoriano",
+      "señaló",
+      "“",
+      "grupos",
+      "delincuencia",
+      "organizada",
+      ",",
+      "utilizando",
+      "explosivos",
+      ",",
+      "claramente",
+      "buscan",
+      "sembrar",
+      "terror",
+      ",",
+      "debilitar",
+      "frenar",
+      "compromiso",
+      "gobierno",
+      "devolver",
+      "paz",
+      "seguridad",
+      "ecuatorianos",
+      "”",
+      ".",
+      "prisión",
+      "máxima",
+      "seguridad",
+      ",",
+      "denominada",
+      "cárcel",
+      "encuentro",
+      ",",
+      "construida",
+      "30",
+      "ciento",
+      ".",
+      "construcción",
+      "emplazamiento",
+      "provincia",
+      "costera",
+      "provocó",
+      "protestas",
+      "habitantes",
+      "comunidades",
+      "vecinas",
+      ".",
+      "construcción",
+      "prisión",
+      "respuesta",
+      "crisis",
+      "penitenciaria",
+      "inseguridad",
+      "atraviesa",
+      "país",
+      ",",
+      "2021",
+      "2023",
+      "asesinados",
+      "500",
+      "privados",
+      "libertad",
+      "."
+    ],
+    "token_count": 142,
+    "sentence_count": 9
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 26,
+      "NNS": 5,
+      "JJ": 12,
+      "NN": 71,
+      "VBP": 5,
+      "IN": 9,
+      "FW": 71,
+      "CD": 4,
+      "VBZ": 1
+    },
+    "bigram_freq": {
+      "NNP-NNS": 1,
+      "NNS-JJ": 1,
+      "JJ-JJ": 1,
+      "JJ-NN": 9,
+      "NN-NN": 43,
+      "NN-NNS": 2,
+      "NNS-VBP": 4,
+      "VBP-JJ": 2,
+      "NN-JJ": 4,
+      "NN-IN": 7,
+      "IN-FW": 6,
+      "FW-FW": 49,
+      "FW-NNP": 8,
+      "NNP-NNP": 11,
+      "NNP-FW": 7,
+      "NNP-IN": 1,
+      "NNP-JJ": 1,
+      "IN-NNS": 1,
+      "NN-FW": 9,
+      "FW-NN": 9,
+      "NN-NNP": 4,
+      "NNP-NN": 5,
+      "FW-JJ": 2,
+      "JJ-NNP": 1,
+      "VBP-NN": 2,
+      "IN-JJ": 1,
+      "JJ-CD": 1,
+      "CD-NN": 3,
+      "FW-VBZ": 1,
+      "VBZ-IN": 1,
+      "FW-NNS": 1,
+      "VBP-NNP": 1,
+      "NN-VBP": 1,
+      "NN-CD": 1,
+      "CD-CD": 1,
+      "IN-CD": 1
+    },
+    "trigram_freq": {
+      "NNP-NNS-JJ": 1,
+      "NNS-JJ-JJ": 1,
+      "JJ-JJ-NN": 1,
+      "JJ-NN-NN": 5,
+      "NN-NN-NNS": 1,
+      "NN-NNS-VBP": 2,
+      "NNS-VBP-JJ": 2,
+      "VBP-JJ-NN": 2,
+      "NN-NN-NN": 24,
+      "NN-NN-JJ": 3,
+      "NN-JJ-NN": 4,
+      "JJ-NN-IN": 3,
+      "NN-IN-FW": 4,
+      "IN-FW-FW": 3,
+      "FW-FW-FW": 36,
+      "FW-FW-NNP": 4,
+      "FW-NNP-NNP": 5,
+      "NNP-NNP-NNP": 6,
+      "NNP-NNP-FW": 2,
+      "NNP-FW-NNP": 3,
+      "NNP-NNP-IN": 1,
+      "NNP-IN-FW": 1,
+      "IN-FW-NNP": 1,
+      "NNP-NNP-JJ": 1,
+      "NNP-JJ-NN": 1,
+      "NN-IN-NNS": 1,
+      "IN-NNS-VBP": 1,
+      "JJ-NN-FW": 1,
+      "NN-FW-FW": 8,
+      "FW-FW-NN": 6,
+      "FW-NN-NN": 7,
+      "NN-NN-NNP": 4,
+      "NN-NNP-NN": 4,
+      "NNP-NN-NN": 5,
+      "NN-NN-FW": 6,
+      "NN-NN-IN": 3,
+      "NNP-NNP-NN": 1,
+      "IN-FW-JJ": 1,
+      "FW-JJ-NNP": 1,
+      "JJ-NNP-FW": 1,
+      "NNP-FW-NN": 2,
+      "NN-FW-NN": 1,
+      "FW-NN-NNS": 1,
+      "NNS-VBP-NN": 1,
+      "VBP-NN-FW": 1,
+      "FW-FW-JJ": 1,
+      "FW-JJ-NN": 1,
+      "FW-NNP-FW": 3,
+      "NNP-FW-FW": 2,
+      "FW-NN-IN": 1,
+      "NN-IN-JJ": 1,
+      "IN-JJ-CD": 1,
+      "JJ-CD-NN": 1,
+      "CD-NN-NN": 1,
+      "FW-FW-VBZ": 1,
+      "FW-VBZ-IN": 1,
+      "VBZ-IN-FW": 1,
+      "IN-FW-NNS": 1,
+      "FW-NNS-VBP": 1,
+      "NNS-VBP-NNP": 1,
+      "VBP-NNP-FW": 1,
+      "NN-NN-VBP": 1,
+      "NN-VBP-NN": 1,
+      "VBP-NN-NN": 1,
+      "NN-NN-CD": 1,
+      "NN-CD-CD": 1,
+      "CD-CD-NN": 1,
+      "CD-NN-JJ": 1,
+      "NN-IN-CD": 1,
+      "IN-CD-NN": 1,
+      "CD-NN-FW": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 71,
+        "FW": 71,
+        "NNP": 26,
+        "JJ": 12,
+        "IN": 9
+      },
+      "top_bigrams": {
+        "FW-FW": 49,
+        "NN-NN": 43,
+        "NNP-NNP": 11,
+        "JJ-NN": 9,
+        "NN-FW": 9
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 36,
+        "NN-NN-NN": 24,
+        "NN-FW-FW": 8,
+        "FW-NN-NN": 7,
+        "NNP-NNP-NNP": 6
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 9,
+    "chunk_counts": {
+      "NP": 53,
+      "VP": 7,
+      "PP": 3
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 3,
+        "weight": 0.0417
+      },
+      {
+        "rule": "NP -> ('La', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0278
+      },
+      {
+        "rule": "S -> NP NP VP ('de', 'IN') ('máxima', 'FW') ('seguridad', 'FW') ('en', 'FW') ('la', 'FW') ('provincia', 'FW') ('ecuatoriana', 'FW') ('de', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0139
+      },
+      {
+        "rule": "NP -> ('Al', 'NNP') ('menos', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0139
+      },
+      {
+        "rule": "NP -> ('una', 'JJ') ('persona', 'JJ') ('falleció', 'NN') ('el', 'NN') ('miércoles', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0139
+      },
+      {
+        "rule": "VP -> ('en', 'VBP') NP NP",
+        "frequency": 1,
+        "weight": 0.0139
+      },
+      {
+        "rule": "NP -> ('un', 'JJ') ('atentado', 'NN') ('bomba', 'NN') ('perpetrado', 'NN') ('donde', 'NN') ('se', 'NN') ('construye', 'NN')",
+        "frequency": 1,
+        "weight": 0.0139
+      },
+      {
+        "rule": "NP -> ('una', 'JJ') ('cárcel', 'NN')",
+        "frequency": 1,
+        "weight": 0.0139
+      },
+      {
+        "rule": "NP -> ('Santa', 'NNP') ('Elena', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0139
+      },
+      {
+        "rule": "S -> NP ('el', 'CC') NP ('de', 'FW') NP NP ('de', 'IN') ('la', 'FW') NP ('y', 'FW') NP ('(', '(') NP (')', ')') NP PP VP ('en', 'FW') ('el', 'FW') ('sitio', 'FW') ('de', 'FW') ('construcción', 'FW') ('del', 'FW') ('nuevo', 'FW') NP (',', ',') NP VP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0139
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Al menos"
+      },
+      {
+        "label": "NP",
+        "text": "una persona falleció el miércoles"
+      },
+      {
+        "label": "VP",
+        "text": "en un atentado bomba perpetrado donde se construye una cárcel"
+      },
+      {
+        "label": "NP",
+        "text": "un atentado bomba perpetrado donde se construye"
+      },
+      {
+        "label": "NP",
+        "text": "una cárcel"
+      },
+      {
+        "label": "NP",
+        "text": "Santa Elena"
+      },
+      {
+        "label": "NP",
+        "text": "Según"
+      },
+      {
+        "label": "NP",
+        "text": "Servicio Nacional"
+      },
+      {
+        "label": "NP",
+        "text": "Atención Integral"
+      },
+      {
+        "label": "NP",
+        "text": "a Personas Adultas Privadas"
+      },
+      {
+        "label": "NP",
+        "text": "Libertad"
+      },
+      {
+        "label": "NP",
+        "text": "a Adolescentes Infractores"
+      },
+      {
+        "label": "NP",
+        "text": "SNAI"
+      },
+      {
+        "label": "NP",
+        "text": "un grupo"
+      },
+      {
+        "label": "PP",
+        "text": "de hombres"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Al/NNP menos/NNS)\n  (NP una/JJ persona/JJ falleció/NN el/NN miércoles/NNS)\n  (VP\n    en/VBP\n    (NP\n      un/JJ\n      atentado/NN\n      bomba/NN\n      perpetrado/NN\n      donde/NN\n      se/NN\n      construye/NN)\n    (NP una/JJ cárcel/NN))\n  de/IN\n  máxima/FW\n  seguridad/FW\n  en/FW\n  la/FW\n  provincia/FW\n  ecuatoriana/FW\n  de/FW\n  (NP Santa/NNP Elena/NNP)\n  ./.)",
+      "(S\n  (NP Según/NNP)\n  el/CC\n  (NP Servicio/NNP Nacional/NNP)\n  de/FW\n  (NP Atención/NNP Integral/NNP)\n  (NP a/DT Personas/NNP Adultas/NNP Privadas/NNP)\n  de/IN\n  la/FW\n  (NP Libertad/NNP)\n  y/FW\n  (NP a/DT Adolescentes/NNP Infractores/NNP)\n  (/(\n  (NP SNAI/NNP)\n  )/)\n  (NP un/JJ grupo/NN)\n  (PP de/IN (NP hombres/NNS))\n  (VP armados/VBP (NP ingresó/JJ violentamente/NN))\n  en/FW\n  el/FW\n  sitio/FW\n  de/FW\n  construcción/FW\n  del/FW\n  nuevo/FW\n  (NP centro/NN penitenciario/NN)\n  ,/,\n  (NP “/NNP)\n  (VP donde/VBZ (NP detonaron/NN artefactos/NN explosivos/NN ”/NN))\n  ./.)",
+      "(S\n  (NP El/NNP ataque/NN causó/NN)\n  la/FW\n  muerte/FW\n  de/FW\n  un/FW\n  (NP hombre/NN que/NN trabajaba/NN)\n  en/IN\n  la/FW\n  construcción/FW\n  de/FW\n  la/FW\n  prisión/FW\n  e/FW\n  hirió/FW\n  (NP a/DT otro/NN)\n  ./.)",
+      "(S\n  (NP El/NNP SNAI/NNP calificó/NN el/NN hecho/NN)\n  (PP de/IN (NP “/NNP atentado/NN terrorista/NN ”/NN))\n  ./.)",
+      "(S\n  (NP La/NNP)\n  entidad/CC\n  (NP también/JJ añadió/NN que/NN)\n  el/FW\n  (NP acto/NN pone/NN)\n  en/FW\n  evidencia/FW\n  la/FW\n  alianza/FW\n  existente/FW\n  entre/FW\n  grupos/FW\n  delictivos/FW\n  (NP y/NN sectores/NNS)\n  (VP políticos/VBP)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "CIUDADES_CAPITALES",
+      "CANTIDADES_NUMERICAS",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "REGIONES_PROVINCIAS",
+      "LOCALIZACIONES_ESPECIFICAS",
+      "CONFLICTOS_ARMADOS_OPERACIONES",
+      "RELACIONES_INTERNACIONALES"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "ingresó",
+        "position": [
+          324,
+          331
+        ],
+        "start": 324,
+        "end": 331
+      },
+      {
+        "category": "RELACIONES_INTERNACIONALES",
+        "matched_text": "alianza existente entre grupos delictivos y sectores",
+        "position": [
+          660,
+          712
+        ],
+        "start": 660,
+        "end": 712
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "señaló",
+        "position": [
+          770,
+          776
+        ],
+        "start": 770,
+        "end": 776
+      },
+      {
+        "category": "CIUDADES_CAPITALES",
+        "matched_text": "la paz",
+        "position": [
+          946,
+          952
+        ],
+        "start": 946,
+        "end": 952
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "provincia ecuatoriana",
+        "position": [
+          131,
+          152
+        ],
+        "start": 131,
+        "end": 152
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "centro penitenciario",
+        "position": [
+          384,
+          404
+        ],
+        "start": 384,
+        "end": 404
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "más de 500",
+        "position": [
+          1370,
+          1380
+        ],
+        "start": 1370,
+        "end": 1380
+      }
+    ],
+    "match_count": 7
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Cárcel del Encuentro",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Servicio Nacional de Atención Integral a Personas Adultas Privadas de la Libertad",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Adolescentes Infractores",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Santa Elena",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Estado",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Gobierno",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "SNAI",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Estado",
+        "relacion": "DEBILITAR_SEMBRAR_BUSCAR_SE_ALAR",
+        "objeto": "Gobierno"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.8176,
+    "pos": 0.0,
+    "neu": 0.964,
+    "neg": 0.036,
+    "label": "negative"
+  }
+}

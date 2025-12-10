@@ -1,0 +1,867 @@
+{
+  "url": "https://www.telesurtv.net/presidente-de-bolivia-designa-a-nuevo-ministro-de-justicia/",
+  "title": "Presidente de Bolivia designa a nuevo ministro de Justicia - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "Bolivia",
+    "César Siles"
+  ],
+  "text": "César Adalid Siles Bazán fue nombrado este jueves como ministro de Justicia y Transparencia Institucional por el presidente de Bolivia, Luis Arce, quien aceptó la renuncia de Iván Lima, quien había liderado esa cartera desde el inicio del actual gobierno.\nSiles Bazán, quien ocupaba el cargo de procurador General del Estado desde el 6 de septiembre de 2023, agradeció al presidente Arce y reafirmó su compromiso con la justicia y la defensa de la soberanía boliviana.\n“Apostaremos a cambiar la justicia”, señaló durante su discurso, donde además destacó su lealtad hacia el mandatario. “Somos parte de este gobierno de cambio, de industrialización, estamos en el lado correcto de la historia”, afirmó.\nSiles Bazán destacó su labor en la Procuraduría, destacando la “bolivianización de la defensa del Estado”, destacando la necesidad de tener abogados nacionales presentes. El nuevo ministro expresó su interés en proteger al Estado boliviano y defender la soberanía de la nación.\nEn su discurso de despedida, el exministro Iván Lima elogió la elección de Siles Bazán y lo describió como un “compañero de lucha” que ha acompañado al presidente en momentos de tensión. Lima destacó la decisión de Arce al elegir a Siles Bazán para el cargo y la calificó como acertada.\nLima aprovechó la ocasión para desmentir los rumores sobre su posible nombramiento como fiscal general del Estado.  “Para que quede claro, el presidente Arce y este Gobierno respetan la Constitución, el ministro de Justicia no va a pasar a fiscal general y no va a ser designado por decreto”, aclaró. Además, aseguró que seguirá su labor desde su rol de abogado.\nAl recibir a Siles Bazán, el presidente Arce enfatizó su habilidad y experiencia para enfrentar las dificultades del ministerio. El líder afirmó que, aunque sabe que el trabajo es difícil, también está seguro de que podrá enfrentarlo y alcanzar los mismos éxitos de Lima.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/presidente-de-bolivia-designa-a-nuevo-ministro-de-justicia/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-09.json",
+    "message_index": 250,
+    "message_id": 77166,
+    "date": "2024-09-27T06:55:07+00:00",
+    "text": "teleSUR\nPresidente de Bolivia designa a nuevo ministro de Justicia\nhttps://www.telesurtv.net/presidente-de-bolivia-designa-a-nuevo-ministro-de-justicia/",
+    "photo_path": null,
+    "views": 2245,
+    "reactions": {
+      "👍": 18,
+      "🔥": 15,
+      "😁": 5,
+      "❤": 1,
+      "🥴": 1
+    },
+    "total_reactions": 40
+  },
+  "preprocessing": {
+    "cleaned": "césar adalid siles bazán fue nombrado este jueves como ministro de justicia y transparencia institucional por el presidente de bolivia, luis arce, quien aceptó la renuncia de iván lima, quien había liderado esa cartera desde el inicio del actual gobierno. siles bazán, quien ocupaba el cargo de procurador general del estado desde el 6 de septiembre de 2023, agradeció al presidente arce y reafirmó su compromiso con la justicia y la defensa de la soberanía boliviana. “apostaremos a cambiar la justicia”, señaló durante su discurso, donde además destacó su lealtad hacia el mandatario. “somos parte de este gobierno de cambio, de industrialización, estamos en el lado correcto de la historia”, afirmó. siles bazán destacó su labor en la procuraduría, destacando la “bolivianización de la defensa del estado”, destacando la necesidad de tener abogados nacionales presentes. el nuevo ministro expresó su interés en proteger al estado boliviano y defender la soberanía de la nación. en su discurso de despedida, el exministro iván lima elogió la elección de siles bazán y lo describió como un “compañero de lucha” que ha acompañado al presidente en momentos de tensión. lima destacó la decisión de arce al elegir a siles bazán para el cargo y la calificó como acertada. lima aprovechó la ocasión para desmentir los rumores sobre su posible nombramiento como fiscal general del estado. “para que quede claro, el presidente arce y este gobierno respetan la constitución, el ministro de justicia no va a pasar a fiscal general y no va a ser designado por decreto”, aclaró. además, aseguró que seguirá su labor desde su rol de abogado. al recibir a siles bazán, el presidente arce enfatizó su habilidad y experiencia para enfrentar las dificultades del ministerio. el líder afirmó que, aunque sabe que el trabajo es difícil, también está seguro de que podrá enfrentarlo y alcanzar los mismos éxitos de lima.",
+    "tokens": [
+      "césar",
+      "adalid",
+      "siles",
+      "bazán",
+      "nombrado",
+      "jueves",
+      "ministro",
+      "justicia",
+      "transparencia",
+      "institucional",
+      "presidente",
+      "bolivia",
+      ",",
+      "luis",
+      "arce",
+      ",",
+      "aceptó",
+      "renuncia",
+      "iván",
+      "lima",
+      ",",
+      "liderado",
+      "cartera",
+      "inicio",
+      "actual",
+      "gobierno",
+      ".",
+      "siles",
+      "bazán",
+      ",",
+      "ocupaba",
+      "cargo",
+      "procurador",
+      "general",
+      "6",
+      "septiembre",
+      "2023",
+      ",",
+      "agradeció",
+      "presidente",
+      "arce",
+      "reafirmó",
+      "compromiso",
+      "justicia",
+      "defensa",
+      "soberanía",
+      "boliviana",
+      ".",
+      "“",
+      "apostaremos",
+      "cambiar",
+      "justicia",
+      "”",
+      ",",
+      "señaló",
+      "discurso",
+      ",",
+      "además",
+      "destacó",
+      "lealtad",
+      "hacia",
+      "mandatario",
+      ".",
+      "“",
+      "parte",
+      "gobierno",
+      "cambio",
+      ",",
+      "industrialización",
+      ",",
+      "lado",
+      "correcto",
+      "historia",
+      "”",
+      ",",
+      "afirmó",
+      ".",
+      "siles",
+      "bazán",
+      "destacó",
+      "labor",
+      "procuraduría",
+      ",",
+      "destacando",
+      "“",
+      "bolivianización",
+      "defensa",
+      "”",
+      ",",
+      "destacando",
+      "necesidad",
+      "tener",
+      "abogados",
+      "nacionales",
+      "presentes",
+      ".",
+      "nuevo",
+      "ministro",
+      "expresó",
+      "interés",
+      "proteger",
+      "boliviano",
+      "defender",
+      "soberanía",
+      "nación",
+      ".",
+      "discurso",
+      "despedida",
+      ",",
+      "exministro",
+      "iván",
+      "lima",
+      "elogió",
+      "elección",
+      "siles",
+      "bazán",
+      "describió",
+      "“",
+      "compañero",
+      "lucha",
+      "”",
+      "acompañado",
+      "presidente",
+      "momentos",
+      "tensión",
+      ".",
+      "lima",
+      "destacó",
+      "decisión",
+      "arce",
+      "elegir",
+      "siles",
+      "bazán",
+      "cargo",
+      "calificó",
+      "acertada",
+      ".",
+      "lima",
+      "aprovechó",
+      "ocasión",
+      "desmentir",
+      "rumores",
+      "posible",
+      "nombramiento",
+      "fiscal",
+      "general",
+      ".",
+      "“",
+      "quede",
+      "claro",
+      ",",
+      "presidente",
+      "arce",
+      "gobierno",
+      "respetan",
+      "constitución",
+      ",",
+      "ministro",
+      "justicia",
+      "va",
+      "pasar",
+      "fiscal",
+      "general",
+      "va",
+      "ser",
+      "designado",
+      "decreto",
+      "”",
+      ",",
+      "aclaró",
+      ".",
+      "además",
+      ",",
+      "aseguró",
+      "seguirá",
+      "labor",
+      "rol",
+      "abogado",
+      ".",
+      "recibir",
+      "siles",
+      "bazán",
+      ",",
+      "presidente",
+      "arce",
+      "enfatizó",
+      "habilidad",
+      "experiencia",
+      "enfrentar",
+      "dificultades",
+      "ministerio",
+      ".",
+      "líder",
+      "afirmó",
+      ",",
+      "aunque",
+      "sabe",
+      "trabajo",
+      "difícil",
+      ",",
+      "seguro",
+      "podrá",
+      "enfrentarlo",
+      "alcanzar",
+      "mismos",
+      "éxitos",
+      "lima",
+      "."
+    ],
+    "token_count": 208,
+    "sentence_count": 13
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 48,
+      "NN": 127,
+      "NNS": 3,
+      "VBP": 2,
+      "FW": 74,
+      "IN": 9,
+      "JJ": 17,
+      "CD": 1,
+      "VBZ": 7,
+      "DT": 2,
+      "RB": 1,
+      "VBD": 1
+    },
+    "bigram_freq": {
+      "NNP-NNP": 15,
+      "NNP-NN": 23,
+      "NN-NN": 81,
+      "NN-NNS": 2,
+      "NNS-VBP": 1,
+      "VBP-FW": 1,
+      "FW-FW": 50,
+      "FW-NNP": 15,
+      "NN-IN": 9,
+      "IN-NNP": 1,
+      "NN-FW": 10,
+      "NN-VBP": 1,
+      "VBP-NN": 1,
+      "NN-JJ": 7,
+      "JJ-NN": 11,
+      "NN-NNP": 14,
+      "FW-NN": 6,
+      "IN-FW": 7,
+      "NNP-FW": 4,
+      "FW-CD": 1,
+      "CD-NN": 1,
+      "FW-JJ": 2,
+      "JJ-NNS": 1,
+      "NNS-VBZ": 2,
+      "VBZ-NNP": 1,
+      "IN-NN": 1,
+      "NNP-VBZ": 4,
+      "VBZ-FW": 2,
+      "VBZ-JJ": 4,
+      "NN-VBZ": 1,
+      "JJ-JJ": 3,
+      "NNP-DT": 1,
+      "DT-NN": 2,
+      "NN-RB": 1,
+      "RB-JJ": 1,
+      "JJ-DT": 1,
+      "NN-VBD": 1,
+      "VBD-NN": 1,
+      "JJ-NNP": 1
+    },
+    "trigram_freq": {
+      "NNP-NNP-NNP": 4,
+      "NNP-NNP-NN": 8,
+      "NNP-NN-NN": 20,
+      "NN-NN-NN": 53,
+      "NN-NN-NNS": 2,
+      "NN-NNS-VBP": 1,
+      "NNS-VBP-FW": 1,
+      "VBP-FW-FW": 1,
+      "FW-FW-NNP": 11,
+      "FW-NNP-NNP": 4,
+      "NN-NN-IN": 4,
+      "NN-IN-NNP": 1,
+      "IN-NNP-NNP": 1,
+      "NN-NN-FW": 8,
+      "NN-FW-FW": 8,
+      "FW-FW-FW": 35,
+      "NN-NN-VBP": 1,
+      "NN-VBP-NN": 1,
+      "VBP-NN-NN": 1,
+      "NN-NN-JJ": 3,
+      "NN-JJ-NN": 5,
+      "JJ-NN-JJ": 4,
+      "JJ-NN-NNP": 3,
+      "NN-NNP-NNP": 5,
+      "NN-FW-NN": 2,
+      "FW-NN-IN": 2,
+      "NN-IN-FW": 7,
+      "IN-FW-NNP": 3,
+      "FW-NNP-FW": 2,
+      "NNP-FW-NNP": 1,
+      "FW-NNP-NN": 7,
+      "IN-FW-FW": 3,
+      "FW-FW-CD": 1,
+      "FW-CD-NN": 1,
+      "CD-NN-NN": 1,
+      "NN-NN-NNP": 8,
+      "NN-NNP-NN": 7,
+      "FW-NN-FW": 1,
+      "NNP-NN-FW": 1,
+      "FW-FW-NN": 2,
+      "FW-NN-NNP": 1,
+      "FW-FW-JJ": 1,
+      "FW-JJ-NNS": 1,
+      "JJ-NNS-VBZ": 1,
+      "NNS-VBZ-NNP": 1,
+      "VBZ-NNP-FW": 1,
+      "NNP-FW-NN": 2,
+      "FW-NN-NN": 2,
+      "NN-IN-NN": 1,
+      "IN-NN-NN": 1,
+      "NNP-NNP-VBZ": 3,
+      "NNP-VBZ-FW": 2,
+      "VBZ-FW-FW": 2,
+      "NNP-VBZ-JJ": 2,
+      "VBZ-JJ-NN": 3,
+      "JJ-NN-IN": 2,
+      "IN-FW-JJ": 1,
+      "FW-JJ-NN": 1,
+      "JJ-NN-NN": 2,
+      "NN-NNP-VBZ": 1,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-JJ": 1,
+      "NN-JJ-JJ": 2,
+      "JJ-JJ-NN": 2,
+      "NNP-NN-NNP": 2,
+      "NN-NNP-FW": 1,
+      "NNP-FW-FW": 1,
+      "FW-NNP-DT": 1,
+      "NNP-DT-NN": 1,
+      "DT-NN-RB": 1,
+      "NN-RB-JJ": 1,
+      "RB-JJ-JJ": 1,
+      "JJ-JJ-DT": 1,
+      "JJ-DT-NN": 1,
+      "DT-NN-NN": 1,
+      "NN-NN-VBD": 1,
+      "NN-VBD-NN": 1,
+      "VBD-NN-IN": 1,
+      "VBZ-JJ-NNP": 1,
+      "JJ-NNP-NN": 1,
+      "NN-NNS-VBZ": 1,
+      "NNS-VBZ-JJ": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 127,
+        "FW": 74,
+        "NNP": 48,
+        "JJ": 17,
+        "IN": 9
+      },
+      "top_bigrams": {
+        "NN-NN": 81,
+        "FW-FW": 50,
+        "NNP-NN": 23,
+        "NNP-NNP": 15,
+        "FW-NNP": 15
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 53,
+        "FW-FW-FW": 35,
+        "NNP-NN-NN": 20,
+        "FW-FW-NNP": 11,
+        "NNP-NNP-NN": 8
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 13,
+    "chunk_counts": {
+      "NP": 69,
+      "VP": 13,
+      "PP": 3,
+      "ADJP": 1
+    },
+    "top_rules": [
+      {
+        "rule": "NP -> ('Justicia', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0202
+      },
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0202
+      },
+      {
+        "rule": "NP -> ('Iván', 'NNP') ('Lima', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0202
+      },
+      {
+        "rule": "NP -> ('Lima', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0202
+      },
+      {
+        "rule": "NP -> ('no', 'DT') ('va', 'NN')",
+        "frequency": 2,
+        "weight": 0.0202
+      },
+      {
+        "rule": "S -> NP VP ('ministro', 'FW') ('de', 'FW') NP ('y', 'CC') NP PP (',', ',') NP (',', ',') NP ('la', 'FW') ('renuncia', 'FW') ('de', 'FW') NP (',', ',') NP VP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0101
+      },
+      {
+        "rule": "NP -> ('César', 'NNP') ('Adalid', 'NNP') ('Siles', 'NNP') ('Bazán', 'NNP') ('fue', 'NN') ('nombrado', 'NN') ('este', 'NN') ('jueves', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0101
+      },
+      {
+        "rule": "VP -> ('como', 'VBP')",
+        "frequency": 1,
+        "weight": 0.0101
+      },
+      {
+        "rule": "NP -> ('Transparencia', 'NNP') ('Institucional', 'NNP') ('por', 'NN') ('el', 'NN') ('presidente', 'NN')",
+        "frequency": 1,
+        "weight": 0.0101
+      },
+      {
+        "rule": "NP -> ('Bolivia', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0101
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "César Adalid Siles Bazán fue nombrado este jueves"
+      },
+      {
+        "label": "VP",
+        "text": "como"
+      },
+      {
+        "label": "NP",
+        "text": "Justicia"
+      },
+      {
+        "label": "NP",
+        "text": "Transparencia Institucional por el presidente"
+      },
+      {
+        "label": "PP",
+        "text": "de Bolivia"
+      },
+      {
+        "label": "NP",
+        "text": "Bolivia"
+      },
+      {
+        "label": "NP",
+        "text": "Luis Arce"
+      },
+      {
+        "label": "NP",
+        "text": "quien aceptó"
+      },
+      {
+        "label": "NP",
+        "text": "Iván Lima"
+      },
+      {
+        "label": "NP",
+        "text": "quien había liderado"
+      },
+      {
+        "label": "VP",
+        "text": "esa cartera desde el inicio del actual gobierno"
+      },
+      {
+        "label": "NP",
+        "text": "cartera desde el"
+      },
+      {
+        "label": "NP",
+        "text": "inicio del"
+      },
+      {
+        "label": "NP",
+        "text": "actual gobierno"
+      },
+      {
+        "label": "NP",
+        "text": "Siles Bazán"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP\n    César/NNP\n    Adalid/NNP\n    Siles/NNP\n    Bazán/NNP\n    fue/NN\n    nombrado/NN\n    este/NN\n    jueves/NNS)\n  (VP como/VBP)\n  ministro/FW\n  de/FW\n  (NP Justicia/NNP)\n  y/CC\n  (NP Transparencia/NNP Institucional/NNP por/NN el/NN presidente/NN)\n  (PP de/IN (NP Bolivia/NNP))\n  ,/,\n  (NP Luis/NNP Arce/NNP)\n  ,/,\n  (NP quien/NN aceptó/NN)\n  la/FW\n  renuncia/FW\n  de/FW\n  (NP Iván/NNP Lima/NNP)\n  ,/,\n  (NP quien/NN había/NN liderado/NN)\n  (VP\n    esa/VBP\n    (NP cartera/NN desde/NN el/NN)\n    (NP inicio/JJ del/NN)\n    (NP actual/JJ gobierno/NN))\n  ./.)",
+      "(S\n  (NP Siles/NNP Bazán/NNP)\n  ,/,\n  (NP quien/NN ocupaba/NN)\n  el/FW\n  (NP cargo/NN)\n  de/IN\n  procurador/FW\n  (NP General/NNP)\n  del/FW\n  (NP Estado/NNP desde/NN)\n  (VP el/VBD)\n  6/CD\n  de/FW\n  septiembre/FW\n  de/IN\n  2023/CD\n  ,/,\n  (VP\n    agradeció/VBZ\n    (NP\n      al/JJ\n      presidente/NN\n      Arce/NNP\n      y/NN\n      reafirmó/NN\n      su/NN\n      compromiso/NN\n      con/NN\n      la/NN\n      justicia/NN\n      y/NN))\n  la/FW\n  defensa/FW\n  de/FW\n  la/FW\n  soberanía/FW\n  (NP boliviana/NN)\n  ./.)",
+      "(S\n  (NP “/JJ Apostaremos/NNP)\n  (NP a/DT cambiar/NN la/NN justicia/NN ”/NNP)\n  ,/,\n  (NP señaló/NN durante/NN su/NN discurso/NN)\n  ,/,\n  (NP\n    donde/NN\n    además/NN\n    destacó/NN\n    su/NN\n    lealtad/NN\n    hacia/NN\n    el/NN\n    mandatario/NN)\n  ./.)",
+      "(S\n  (NP “/JJ Somos/NNP parte/NN)\n  de/FW\n  este/FW\n  gobierno/FW\n  de/FW\n  cambio/FW\n  ,/,\n  de/FW\n  industrialización/FW\n  ,/,\n  estamos/FW\n  en/FW\n  el/FW\n  lado/FW\n  correcto/FW\n  de/FW\n  la/FW\n  historia/FW\n  ”/FW\n  ,/,\n  (NP afirmó/NN)\n  ./.)",
+      "(S\n  (NP Siles/NNS Bazán/NNP destacó/NN su/NN labor/NN)\n  en/IN\n  la/FW\n  (NP Procuraduría/NNP)\n  ,/,\n  (NP destacando/NN la/NN “/NNP bolivianización/NN)\n  de/IN\n  la/FW\n  defensa/FW\n  del/FW\n  (NP Estado/NNP ”/NNP)\n  ,/,\n  (NP destacando/NN)\n  la/FW\n  necesidad/FW\n  de/FW\n  tener/FW\n  (NP abogados/JJ nacionales/NNS presentes/NNS)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "CIUDADES_CAPITALES",
+      "GOBIERNOS_OFICIALES",
+      "FECHAS_ESPECIFICAS",
+      "LEYES_NORMATIVAS",
+      "APROBACION_RECHAZO",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "REGIONES_PROVINCIAS",
+      "PAISES",
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "JURIDICO_LEGISLATIVO_CORRUPCION"
+    ],
+    "matches": [
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "trabajo",
+        "position": [
+          1800,
+          1807
+        ],
+        "start": 1800,
+        "end": 1807
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "señaló",
+        "position": [
+          506,
+          512
+        ],
+        "start": 506,
+        "end": 512
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "aclaró",
+        "position": [
+          1561,
+          1567
+        ],
+        "start": 1561,
+        "end": 1567
+      },
+      {
+        "category": "JURIDICO_LEGISLATIVO_CORRUPCION",
+        "matched_text": "defensa",
+        "position": [
+          434,
+          441
+        ],
+        "start": 434,
+        "end": 441
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "gobierno de cambio",
+        "position": [
+          608,
+          626
+        ],
+        "start": 608,
+        "end": 626
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente de bolivia",
+        "position": [
+          113,
+          134
+        ],
+        "start": 113,
+        "end": 134
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "ministro de justicia y",
+        "position": [
+          55,
+          77
+        ],
+        "start": 55,
+        "end": 77
+      },
+      {
+        "category": "APROBACION_RECHAZO",
+        "matched_text": "reafirmó",
+        "position": [
+          390,
+          398
+        ],
+        "start": 390,
+        "end": 398
+      },
+      {
+        "category": "APROBACION_RECHAZO",
+        "matched_text": "destacó",
+        "position": [
+          547,
+          554
+        ],
+        "start": 547,
+        "end": 554
+      },
+      {
+        "category": "LEYES_NORMATIVAS",
+        "matched_text": "constitución",
+        "position": [
+          1454,
+          1466
+        ],
+        "start": 1454,
+        "end": 1466
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "bolivia",
+        "position": [
+          127,
+          134
+        ],
+        "start": 127,
+        "end": 134
+      },
+      {
+        "category": "CIUDADES_CAPITALES",
+        "matched_text": "lima",
+        "position": [
+          180,
+          184
+        ],
+        "start": 180,
+        "end": 184
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "estado desde",
+        "position": [
+          318,
+          330
+        ],
+        "start": 318,
+        "end": 330
+      },
+      {
+        "category": "FECHAS_ESPECIFICAS",
+        "matched_text": "6 de septiembre de 2023",
+        "position": [
+          334,
+          357
+        ],
+        "start": 334,
+        "end": 357
+      }
+    ],
+    "match_count": 14
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Bolivia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Procuraduría",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Luis Arce",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Constitución",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "General del Estado",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Lima",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Iván Lima",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Arce",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Estado",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Gobierno",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "ministro de Justicia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "César Adalid Siles Bazán",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Estado boliviano",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Siles Bazán",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Transparencia Institucional",
+        "tipo": "Organizacion"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "César Adalid Siles Bazán",
+        "relacion": "NOMBRAR",
+        "objeto": "ministro de Justicia"
+      },
+      {
+        "sujeto": "César Adalid Siles Bazán",
+        "relacion": "NOMBRAR",
+        "objeto": "Transparencia Institucional"
+      },
+      {
+        "sujeto": "César Adalid Siles Bazán",
+        "relacion": "NOMBRAR",
+        "objeto": "Bolivia"
+      },
+      {
+        "sujeto": "César Adalid Siles Bazán",
+        "relacion": "NOMBRAR",
+        "objeto": "Luis Arce"
+      },
+      {
+        "sujeto": "César Adalid Siles Bazán",
+        "relacion": "NOMBRAR",
+        "objeto": "Iván Lima"
+      },
+      {
+        "sujeto": "Siles Bazán",
+        "relacion": "AGRADECER",
+        "objeto": "Arce"
+      },
+      {
+        "sujeto": "General del Estado",
+        "relacion": "OCUPAR_AGRADECER",
+        "objeto": "Arce"
+      },
+      {
+        "sujeto": "Siles Bazán",
+        "relacion": "DESTACAR",
+        "objeto": "Procuraduría"
+      },
+      {
+        "sujeto": "Siles Bazán",
+        "relacion": "DESTACAR",
+        "objeto": "Estado"
+      },
+      {
+        "sujeto": "Iván Lima",
+        "relacion": "ELOGIAR",
+        "objeto": "Siles Bazán"
+      },
+      {
+        "sujeto": "Lima",
+        "relacion": "DESTACAR",
+        "objeto": "Arce"
+      },
+      {
+        "sujeto": "Lima",
+        "relacion": "DESTACAR",
+        "objeto": "Siles Bazán"
+      },
+      {
+        "sujeto": "Arce",
+        "relacion": "DESTACAR",
+        "objeto": "Siles Bazán"
+      },
+      {
+        "sujeto": "Lima",
+        "relacion": "APROVECHAR",
+        "objeto": "Estado"
+      },
+      {
+        "sujeto": "Arce",
+        "relacion": "RESPETAR_ACLARAR",
+        "objeto": "Constitución"
+      },
+      {
+        "sujeto": "ministro de Justicia",
+        "relacion": "RESPETAR_ACLARAR",
+        "objeto": "Arce"
+      },
+      {
+        "sujeto": "Gobierno",
+        "relacion": "RESPETAR_ACLARAR",
+        "objeto": "Constitución"
+      },
+      {
+        "sujeto": "ministro de Justicia",
+        "relacion": "RESPETAR_ACLARAR",
+        "objeto": "Gobierno"
+      },
+      {
+        "sujeto": "ministro de Justicia",
+        "relacion": "RESPETAR_ACLARAR",
+        "objeto": "Constitución"
+      },
+      {
+        "sujeto": "Siles Bazán",
+        "relacion": "RECIBIR_ENFATIZAR",
+        "objeto": "Arce"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.1531,
+    "pos": 0.013,
+    "neu": 0.972,
+    "neg": 0.015,
+    "label": "negative"
+  }
+}

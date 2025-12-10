@@ -1,0 +1,798 @@
+{
+  "url": "https://www.telesurtv.net/asciende-a-39-400-el-numero-de-palestinos-asesinados-por-israel-en-gaza/",
+  "title": "Asciende a 39.400 el número de palestinos asesinados por Israel en Gaza - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "ataques",
+    "Gaza",
+    "genocidio",
+    "Israel",
+    "Palestina"
+  ],
+  "text": "\nEl Ministerio de Salud de la Franja de Gaza informó que desde el 7 de octubre pasado el Ejército israelí ha asesinado a 39,400 personas, mientras que 90,996 han resultado heridas.\nLEA TAMBIÉN\nEquipos médicos encuentran los cuerpos de 20 civiles en Rafah y Khan Younis, Gaza\nAsimismo, la cartera de salud dio a conocer que en las últimas 24 horas han muerto 37 personas y 73 han resultado heridas como consecuencia de los ataques de la ocupación israelí.\n\nEl Ejército israelí anunció este martes su retirada, luego de varios días de constantes ataques en Jan Yunis, en el sur, donde los servicios de Defensa Civil han rescatado alrededor de 300 cadáveres, la gran mayoría en estado de descomposición.\n\nPor otra parte, el Gobierno gazatí aseveró que, tras la ofensiva, 31 personas continúan desaparecidas, y resaltó que los equipos de rescate siguen buscando cuerpos de entre los escombros de las cerca de 320 viviendas bombardeadas durante esta semana.Mediante un comunicado, las fuerzas armadas aseguraron “Como parte de las operaciones del Ejército en el centro de Gaza, las tropas están llevando a cabo redadas, matando a milicianos y desmantelando sus infraestructuras”.Según medios de prensa, se han producido en las últimas horas varios ataques en los campos de refugiados de Bureij y Nuseirat.\nLos servicios de Defensa Civil informaron que cerca del campamento de Nuseirat otro bombardeo israelí mató a 12 personas.Los constantes bombardeos en la Franja de Gaza, la escasez de combustible, agua potable, comida y medicamentos, además de la proliferación de algunas enfermedades como la hepatitis, hacen que la situación de los gazatíes sea cada vez más complicada.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/asciende-a-39-400-el-numero-de-palestinos-asesinados-por-israel-en-gaza/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-07.json",
+    "message_index": 52,
+    "message_id": 73785,
+    "date": "2024-07-30T14:55:12+00:00",
+    "text": "teleSUR\nAsciende a 39.400 el número de palestinos asesinados por Israel en Gaza\nhttps://www.telesurtv.net/asciende-a-39-400-el-numero-de-palestinos-asesinados-por-israel-en-gaza/",
+    "photo_path": null,
+    "views": 2835,
+    "reactions": {},
+    "total_reactions": 0
+  },
+  "preprocessing": {
+    "cleaned": "el ministerio de salud de la franja de gaza informó que desde el 7 de octubre pasado el ejército israelí ha asesinado a 39,400 personas, mientras que 90,996 han resultado heridas. asimismo, la cartera de salud dio a conocer que en las últimas 24 horas han muerto 37 personas y 73 han resultado heridas como consecuencia de los ataques de la ocupación israelí. el ejército israelí anunció este martes su retirada, luego de varios días de constantes ataques en jan yunis, en el sur, donde los servicios de defensa civil han rescatado alrededor de 300 cadáveres, la gran mayoría en estado de descomposición. por otra parte, el gobierno gazatí aseveró que, tras la ofensiva, 31 personas continúan desaparecidas, y resaltó que los equipos de rescate siguen buscando cuerpos de entre los escombros de las cerca de 320 viviendas bombardeadas durante esta semana.mediante un comunicado, las fuerzas armadas aseguraron “como parte de las operaciones del ejército en el centro de gaza, las tropas están llevando a cabo redadas, matando a milicianos y desmantelando sus infraestructuras”.según medios de prensa, se han producido en las últimas horas varios ataques en los campos de refugiados de bureij y nuseirat. los servicios de defensa civil informaron que cerca del campamento de nuseirat otro bombardeo israelí mató a 12 personas.los constantes bombardeos en la franja de gaza, la escasez de combustible, agua potable, comida y medicamentos, además de la proliferación de algunas enfermedades como la hepatitis, hacen que la situación de los gazatíes sea cada vez más complicada.",
+    "tokens": [
+      "ministerio",
+      "salud",
+      "franja",
+      "gaza",
+      "informó",
+      "7",
+      "octubre",
+      "pasado",
+      "ejército",
+      "israelí",
+      "asesinado",
+      "39,400",
+      "personas",
+      ",",
+      "mientras",
+      "90,996",
+      "resultado",
+      "heridas",
+      ".",
+      "asimismo",
+      ",",
+      "cartera",
+      "salud",
+      "dio",
+      "conocer",
+      "últimas",
+      "24",
+      "horas",
+      "muerto",
+      "37",
+      "personas",
+      "73",
+      "resultado",
+      "heridas",
+      "consecuencia",
+      "ataques",
+      "ocupación",
+      "israelí",
+      ".",
+      "ejército",
+      "israelí",
+      "anunció",
+      "martes",
+      "retirada",
+      ",",
+      "luego",
+      "varios",
+      "días",
+      "constantes",
+      "ataques",
+      "jan",
+      "yunis",
+      ",",
+      "sur",
+      ",",
+      "servicios",
+      "defensa",
+      "civil",
+      "rescatado",
+      "alrededor",
+      "300",
+      "cadáveres",
+      ",",
+      "gran",
+      "mayoría",
+      "descomposición",
+      ".",
+      "parte",
+      ",",
+      "gobierno",
+      "gazatí",
+      "aseveró",
+      ",",
+      "tras",
+      "ofensiva",
+      ",",
+      "31",
+      "personas",
+      "continúan",
+      "desaparecidas",
+      ",",
+      "resaltó",
+      "equipos",
+      "rescate",
+      "siguen",
+      "buscando",
+      "cuerpos",
+      "escombros",
+      "cerca",
+      "320",
+      "viviendas",
+      "bombardeadas",
+      "semana.mediante",
+      "comunicado",
+      ",",
+      "fuerzas",
+      "armadas",
+      "aseguraron",
+      "“",
+      "parte",
+      "operaciones",
+      "ejército",
+      "centro",
+      "gaza",
+      ",",
+      "tropas",
+      "llevando",
+      "cabo",
+      "redadas",
+      ",",
+      "matando",
+      "milicianos",
+      "desmantelando",
+      "infraestructuras",
+      "”",
+      ".según",
+      "medios",
+      "prensa",
+      ",",
+      "producido",
+      "últimas",
+      "horas",
+      "varios",
+      "ataques",
+      "campos",
+      "refugiados",
+      "bureij",
+      "nuseirat",
+      ".",
+      "servicios",
+      "defensa",
+      "civil",
+      "informaron",
+      "cerca",
+      "campamento",
+      "nuseirat",
+      "bombardeo",
+      "israelí",
+      "mató",
+      "12",
+      "personas.los",
+      "constantes",
+      "bombardeos",
+      "franja",
+      "gaza",
+      ",",
+      "escasez",
+      "combustible",
+      ",",
+      "agua",
+      "potable",
+      ",",
+      "comida",
+      "medicamentos",
+      ",",
+      "además",
+      "proliferación",
+      "enfermedades",
+      "hepatitis",
+      ",",
+      "hacen",
+      "situación",
+      "gazatíes",
+      "cada",
+      "vez",
+      "complicada",
+      "."
+    ],
+    "token_count": 167,
+    "sentence_count": 5
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 34,
+      "IN": 14,
+      "FW": 70,
+      "NN": 66,
+      "VBD": 3,
+      "CD": 10,
+      "NNS": 22,
+      "JJ": 19,
+      "RB": 2,
+      "VBZ": 1,
+      "VBP": 11,
+      "MD": 2,
+      "VB": 2,
+      "CC": 1
+    },
+    "bigram_freq": {
+      "NNP-NNP": 14,
+      "NNP-IN": 1,
+      "IN-NNP": 1,
+      "NNP-FW": 7,
+      "FW-FW": 44,
+      "FW-NNP": 14,
+      "NNP-NN": 9,
+      "NN-NN": 32,
+      "NN-FW": 8,
+      "NN-VBD": 2,
+      "VBD-CD": 1,
+      "CD-NNS": 7,
+      "NNS-VBD": 1,
+      "VBD-JJ": 2,
+      "JJ-CD": 1,
+      "CD-NN": 3,
+      "NN-NNP": 2,
+      "JJ-NN": 14,
+      "NN-IN": 10,
+      "IN-CD": 3,
+      "NNS-FW": 3,
+      "IN-FW": 8,
+      "FW-JJ": 2,
+      "FW-CD": 1,
+      "NNS-JJ": 3,
+      "JJ-RB": 1,
+      "RB-CD": 2,
+      "NNS-CD": 1,
+      "FW-NNS": 5,
+      "NNS-IN": 2,
+      "NN-VBZ": 1,
+      "VBZ-JJ": 1,
+      "NNS-NNS": 2,
+      "NNS-VBP": 10,
+      "VBP-NNP": 1,
+      "VBP-JJ": 4,
+      "NNP-MD": 2,
+      "MD-VB": 2,
+      "VB-JJ": 2,
+      "JJ-NNP": 1,
+      "NN-NNS": 6,
+      "VBP-RB": 1,
+      "JJ-NNS": 1,
+      "JJ-JJ": 1,
+      "IN-NN": 1,
+      "VBP-NN": 3,
+      "FW-NN": 4,
+      "NN-JJ": 2,
+      "NNP-CC": 1,
+      "CC-JJ": 1,
+      "NN-VBP": 1,
+      "VBP-NNS": 1,
+      "IN-JJ": 1,
+      "NN-CD": 1,
+      "VBP-IN": 1
+    },
+    "trigram_freq": {
+      "NNP-NNP-IN": 1,
+      "NNP-IN-NNP": 1,
+      "IN-NNP-FW": 1,
+      "NNP-FW-FW": 5,
+      "FW-FW-NNP": 8,
+      "FW-NNP-FW": 4,
+      "NNP-FW-NNP": 2,
+      "FW-NNP-NN": 2,
+      "NNP-NN-NN": 6,
+      "NN-NN-NN": 16,
+      "NN-NN-FW": 4,
+      "NN-FW-FW": 6,
+      "FW-FW-FW": 27,
+      "NN-NN-VBD": 1,
+      "NN-VBD-CD": 1,
+      "VBD-CD-NNS": 1,
+      "CD-NNS-VBD": 1,
+      "NNS-VBD-JJ": 1,
+      "VBD-JJ-CD": 1,
+      "JJ-CD-NN": 1,
+      "CD-NN-NN": 2,
+      "NN-NN-NNP": 1,
+      "NN-NNP-NNP": 1,
+      "NNP-NNP-NNP": 6,
+      "NNP-NNP-NN": 5,
+      "NNP-NN-VBD": 1,
+      "NN-VBD-JJ": 1,
+      "VBD-JJ-NN": 1,
+      "JJ-NN-IN": 3,
+      "NN-IN-CD": 3,
+      "IN-CD-NNS": 3,
+      "CD-NNS-FW": 1,
+      "NNS-FW-NNP": 2,
+      "FW-NNP-NNP": 5,
+      "NNP-NN-IN": 1,
+      "NN-IN-FW": 6,
+      "IN-FW-JJ": 1,
+      "FW-JJ-NN": 2,
+      "JJ-NN-NN": 6,
+      "FW-FW-CD": 1,
+      "FW-CD-NNS": 1,
+      "CD-NNS-JJ": 3,
+      "NNS-JJ-RB": 1,
+      "JJ-RB-CD": 1,
+      "RB-CD-NNS": 2,
+      "CD-NNS-CD": 1,
+      "NNS-CD-NN": 1,
+      "NN-NN-IN": 5,
+      "IN-FW-NNS": 1,
+      "FW-NNS-IN": 1,
+      "NNS-IN-FW": 1,
+      "IN-FW-FW": 5,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 1,
+      "FW-FW-NNS": 4,
+      "FW-NNS-NNS": 2,
+      "NNS-NNS-VBP": 1,
+      "NNS-VBP-NNP": 1,
+      "VBP-NNP-NNP": 1,
+      "NNP-NNP-FW": 2,
+      "CD-NNS-VBP": 1,
+      "NNS-VBP-JJ": 4,
+      "VBP-JJ-NN": 3,
+      "JJ-NN-FW": 1,
+      "FW-NNP-MD": 2,
+      "NNP-MD-VB": 2,
+      "MD-VB-JJ": 2,
+      "VB-JJ-NNP": 1,
+      "JJ-NNP-NN": 1,
+      "NN-NN-NNS": 1,
+      "NN-NNS-VBP": 6,
+      "NNS-VBP-RB": 1,
+      "VBP-RB-CD": 1,
+      "NNS-JJ-NNS": 1,
+      "JJ-NNS-VBP": 1,
+      "VBP-JJ-JJ": 1,
+      "JJ-JJ-NN": 1,
+      "NN-IN-NN": 1,
+      "IN-NN-NNS": 1,
+      "NNS-VBP-NN": 2,
+      "VBP-NN-FW": 1,
+      "FW-FW-NN": 3,
+      "FW-NN-IN": 1,
+      "NNS-JJ-NN": 1,
+      "NN-NN-JJ": 1,
+      "NN-JJ-NN": 2,
+      "JJ-NN-NNS": 1,
+      "JJ-NN-NNP": 1,
+      "NN-NNP-NN": 1,
+      "NNP-NN-FW": 1,
+      "FW-NNS-FW": 1,
+      "FW-NNP-CC": 1,
+      "NNP-CC-JJ": 1,
+      "CC-JJ-NN": 1,
+      "NN-NN-VBP": 1,
+      "NN-VBP-NN": 1,
+      "VBP-NN-NNS": 2,
+      "NNS-VBP-NNS": 1,
+      "VBP-NNS-FW": 1,
+      "NNS-FW-FW": 1,
+      "FW-NN-NN": 2,
+      "NNS-NNS-IN": 1,
+      "NNS-IN-JJ": 1,
+      "IN-JJ-NN": 1,
+      "NN-FW-NN": 1,
+      "FW-NN-FW": 1,
+      "NN-FW-NNP": 1,
+      "VB-JJ-NN": 1,
+      "JJ-NN-CD": 1,
+      "NN-CD-NN": 1,
+      "CD-NN-NNS": 1,
+      "NNS-VBP-IN": 1,
+      "VBP-IN-FW": 1,
+      "IN-FW-NNP": 1,
+      "FW-FW-JJ": 1,
+      "JJ-NN-JJ": 1,
+      "FW-NNS-VBP": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "FW": 70,
+        "NN": 66,
+        "NNP": 34,
+        "NNS": 22,
+        "JJ": 19
+      },
+      "top_bigrams": {
+        "FW-FW": 44,
+        "NN-NN": 32,
+        "NNP-NNP": 14,
+        "FW-NNP": 14,
+        "JJ-NN": 14
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 27,
+        "NN-NN-NN": 16,
+        "FW-FW-NNP": 8,
+        "NNP-NN-NN": 6,
+        "NN-FW-FW": 6
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 5,
+    "chunk_counts": {
+      "NP": 64,
+      "PP": 4,
+      "VP": 16,
+      "ADJP": 2
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 3,
+        "weight": 0.033
+      },
+      {
+        "rule": "NP -> ('Franja', 'NNP')",
+        "frequency": 2,
+        "weight": 0.022
+      },
+      {
+        "rule": "NP -> ('personas', 'NNS')",
+        "frequency": 2,
+        "weight": 0.022
+      },
+      {
+        "rule": "NP -> ('Gaza', 'NNP')",
+        "frequency": 2,
+        "weight": 0.022
+      },
+      {
+        "rule": "NP -> ('Nuseirat', 'NNP')",
+        "frequency": 2,
+        "weight": 0.022
+      },
+      {
+        "rule": "S -> NP PP ('de', 'FW') ('la', 'FW') NP ('de', 'FW') NP VP ('7', 'CD') ('de', 'IN') ('octubre', 'FW') ('pasado', 'FW') ('el', 'FW') NP VP ('a', 'DT') ('39,400', 'CD') NP (',', ',') ('mientras', 'FW') ('que', 'RB') ('90,996', 'CD') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.011
+      },
+      {
+        "rule": "NP -> ('El', 'NNP') ('Ministerio', 'NNP')",
+        "frequency": 1,
+        "weight": 0.011
+      },
+      {
+        "rule": "NP -> ('Salud', 'NNP')",
+        "frequency": 1,
+        "weight": 0.011
+      },
+      {
+        "rule": "NP -> ('Gaza', 'NNP') ('informó', 'NN') ('que', 'NN') ('desde', 'NN')",
+        "frequency": 1,
+        "weight": 0.011
+      },
+      {
+        "rule": "VP -> ('el', 'VBD')",
+        "frequency": 1,
+        "weight": 0.011
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El Ministerio"
+      },
+      {
+        "label": "PP",
+        "text": "de Salud"
+      },
+      {
+        "label": "NP",
+        "text": "Salud"
+      },
+      {
+        "label": "NP",
+        "text": "Franja"
+      },
+      {
+        "label": "NP",
+        "text": "Gaza informó que desde"
+      },
+      {
+        "label": "VP",
+        "text": "el"
+      },
+      {
+        "label": "NP",
+        "text": "Ejército israelí ha"
+      },
+      {
+        "label": "VP",
+        "text": "asesinado"
+      },
+      {
+        "label": "NP",
+        "text": "personas"
+      },
+      {
+        "label": "NP",
+        "text": "han resultado heridas"
+      },
+      {
+        "label": "NP",
+        "text": "LEA TAMBIÉN Equipos médicos"
+      },
+      {
+        "label": "VP",
+        "text": "encuentran los cuerpos"
+      },
+      {
+        "label": "NP",
+        "text": "los cuerpos"
+      },
+      {
+        "label": "NP",
+        "text": "civiles"
+      },
+      {
+        "label": "NP",
+        "text": "Rafah y Khan Younis"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP El/NNP Ministerio/NNP)\n  (PP de/IN (NP Salud/NNP))\n  de/FW\n  la/FW\n  (NP Franja/NNP)\n  de/FW\n  (NP Gaza/NNP informó/NN que/NN desde/NN)\n  (VP el/VBD)\n  7/CD\n  de/IN\n  octubre/FW\n  pasado/FW\n  el/FW\n  (NP Ejército/NNP israelí/NN ha/NN)\n  (VP asesinado/VBD)\n  a/DT\n  39,400/CD\n  (NP personas/NN)\n  ,/,\n  mientras/FW\n  que/RB\n  90,996/CD\n  (NP han/NN resultado/NN heridas/NN)\n  ./.)",
+      "(S\n  (NP LEA/NNP TAMBIÉN/NNP Equipos/NNP médicos/NN)\n  (VP encuentran/VBD (NP los/JJ cuerpos/NN))\n  de/IN\n  20/CD\n  (NP civiles/NNS)\n  en/FW\n  (NP Rafah/NNP y/NNP Khan/NNP Younis/NNP)\n  ,/,\n  (NP Gaza/NNP Asimismo/NNP)\n  ,/,\n  la/FW\n  cartera/FW\n  de/FW\n  salud/FW\n  (VP dio/VB (NP a/DT conocer/NN que/NN))\n  en/FW\n  las/FW\n  últimas/FW\n  24/CD\n  (NP horas/NNS)\n  (ADJP han/JJ)\n  muerto/RB\n  37/CD\n  (NP personas/NNS)\n  y/RB\n  73/CD\n  (NP han/NN resultado/NN heridas/NN como/NN consecuencia/NN)\n  de/IN\n  los/FW\n  (NP ataques/NNS)\n  de/IN\n  la/FW\n  ocupación/FW\n  (NP israelí/NN)\n  ./.)",
+      "(S\n  (NP El/NNP Ejército/NNP israelí/NN anunció/NN este/NN)\n  (VP martes/VBZ (NP su/JJ retirada/NN))\n  ,/,\n  luego/FW\n  de/FW\n  varios/FW\n  días/FW\n  de/FW\n  (NP constantes/NNS ataques/NNS)\n  (VP en/VBP (NP Jan/NNP Yunis/NNP))\n  ,/,\n  en/FW\n  el/FW\n  (NP sur/NN)\n  ,/,\n  (VP donde/VB (NP los/JJ servicios/NNS))\n  (PP\n    de/IN\n    (NP Defensa/NNP Civil/NNP han/NN rescatado/NN alrededor/NN))\n  de/IN\n  300/CD\n  (NP cadáveres/NNS)\n  ,/,\n  la/FW\n  gran/FW\n  mayoría/FW\n  en/FW\n  estado/FW\n  de/FW\n  descomposición/FW\n  ./.)",
+      "(S\n  (NP Por/NNP)\n  otra/MD\n  (VP parte/VB)\n  ,/,\n  el/FW\n  (NP Gobierno/NNP gazatí/NN aseveró/NN que/NN)\n  ,/,\n  tras/EX\n  la/FW\n  ofensiva/FW\n  ,/,\n  31/CD\n  (NP personas/NNS)\n  (NP continúan/JJ desaparecidas/NNS)\n  ,/,\n  y/CC\n  (NP resaltó/NN que/NN)\n  (NP los/JJ equipos/NN)\n  (PP de/IN (NP rescate/NN siguen/NNS))\n  (VP buscando/VBP (NP cuerpos/NN))\n  de/FW\n  entre/FW\n  los/FW\n  escombros/FW\n  de/FW\n  las/FW\n  (NP cerca/NN)\n  de/IN\n  320/CD\n  (NP viviendas/NNS)\n  (NP bombardeadas/JJ durante/NN esta/NN semana.Mediante/NN)\n  (NP un/JJ comunicado/NN)\n  ,/,\n  (NP las/JJ fuerzas/NN armadas/NNS)\n  (VP aseguraron/VBP (NP “/JJ Como/NNP parte/NN))\n  de/FW\n  las/FW\n  (NP operaciones/NNS)\n  del/FW\n  (NP Ejército/NNP)\n  en/FW\n  el/FW\n  centro/FW\n  de/FW\n  (NP Gaza/NNP)\n  ,/,\n  (VP las/VBZ tropas/JJ)\n  están/FW\n  (VP llevando/VBZ (NP a/DT cabo/NN redadas/NN))\n  ,/,\n  (VP\n    matando/VB\n    (NP a/DT milicianos/JJ y/NN desmantelando/NN sus/NN)\n    (NP infraestructuras/JJ ”/NNP .Según/NNP))\n  medios/FW\n  de/FW\n  prensa/FW\n  ,/,\n  se/FW\n  (NP han/NN producido/NN)\n  en/IN\n  las/FW\n  últimas/FW\n  horas/FW\n  (NP varios/NNS ataques/NNS)\n  (PP en/IN (NP los/JJ campos/NN))\n  de/IN\n  refugiados/FW\n  de/FW\n  (NP Bureij/NNP)\n  y/CC\n  (NP Nuseirat/NNP)\n  ./.)",
+      "(S\n  (NP Los/NNP servicios/NNS)\n  de/FW\n  (NP Defensa/NNP Civil/NNP informaron/NN que/NN cerca/NN)\n  del/FW\n  (NP campamento/NN)\n  de/FW\n  (NP Nuseirat/NNP)\n  otro/MD\n  (VP bombardeo/VB (NP israelí/JJ mató/NN))\n  a/DT\n  12/CD\n  (NP personas.Los/NN constantes/NNS)\n  (VP bombardeos/VBP)\n  en/IN\n  la/FW\n  (NP Franja/NNP)\n  de/FW\n  (NP Gaza/NNP)\n  ,/,\n  la/FW\n  escasez/FW\n  de/FW\n  combustible/FW\n  ,/,\n  agua/FW\n  (ADJP potable/JJ)\n  ,/,\n  (NP comida/JJ y/NN medicamentos/NN)\n  ,/,\n  además/FW\n  de/FW\n  la/FW\n  proliferación/FW\n  de/FW\n  algunas/FW\n  (NP enfermedades/NNS)\n  (VP como/VBP (NP la/JJ hepatitis/NN))\n  ,/,\n  (NP hacen/NN que/NN)\n  la/FW\n  situación/FW\n  de/FW\n  los/FW\n  gazatíes/FW\n  (NP sea/NN cada/NN vez/NN más/NN complicada/NN)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "RECURSOS_NATURALES",
+      "CANTIDADES_NUMERICAS",
+      "TIEMPO_RELATIVO",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "REGIONES_PROVINCIAS",
+      "CRISIS_HUMANITARIA_SERVICIOS",
+      "PAISES",
+      "LOCALIZACIONES_ESPECIFICAS",
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "CONFLICTOS_ARMADOS_OPERACIONES",
+      "INFRAESTRUCTURA_SERVICIOS",
+      "JURIDICO_LEGISLATIVO_CORRUPCION"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "ofensiva, 31 personas continúan desaparecidas, y resaltó que los equipos de rescate siguen buscando cuerpos de entre los escombros de las cerca de 320 viviendas bombardeadas durante esta semana.mediante un comunicado, las fuerzas",
+        "position": [
+          758,
+          987
+        ],
+        "start": 758,
+        "end": 987
+      },
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "ejército israelí anunció este martes su retirada, luego de varios días de constantes ataques en jan yunis, en el sur, donde los servicios de defensa civil",
+        "position": [
+          459,
+          613
+        ],
+        "start": 459,
+        "end": 613
+      },
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "ocupación",
+        "position": [
+          436,
+          445
+        ],
+        "start": 436,
+        "end": 445
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "informó",
+        "position": [
+          45,
+          52
+        ],
+        "start": 45,
+        "end": 52
+      },
+      {
+        "category": "JURIDICO_LEGISLATIVO_CORRUPCION",
+        "matched_text": "defensa",
+        "position": [
+          600,
+          607
+        ],
+        "start": 600,
+        "end": 607
+      },
+      {
+        "category": "CRISIS_HUMANITARIA_SERVICIOS",
+        "matched_text": "escasez de combustible, agua potable, comida",
+        "position": [
+          1473,
+          1517
+        ],
+        "start": 1473,
+        "end": 1517
+      },
+      {
+        "category": "RECURSOS_NATURALES",
+        "matched_text": "agua",
+        "position": [
+          1497,
+          1501
+        ],
+        "start": 1497,
+        "end": 1501
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "agua potable",
+        "position": [
+          1497,
+          1509
+        ],
+        "start": 1497,
+        "end": 1509
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "israelí",
+        "position": [
+          98,
+          105
+        ],
+        "start": 98,
+        "end": 105
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "estado de",
+        "position": [
+          675,
+          684
+        ],
+        "start": 675,
+        "end": 684
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "centro de",
+        "position": [
+          1057,
+          1066
+        ],
+        "start": 1057,
+        "end": 1066
+      },
+      {
+        "category": "TIEMPO_RELATIVO",
+        "matched_text": "esta semana",
+        "position": [
+          940,
+          951
+        ],
+        "start": 940,
+        "end": 951
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "400 personas",
+        "position": [
+          124,
+          136
+        ],
+        "start": 124,
+        "end": 136
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "39,400 personas",
+        "position": [
+          121,
+          136
+        ],
+        "start": 121,
+        "end": 136
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "alrededor de 300",
+        "position": [
+          628,
+          644
+        ],
+        "start": 628,
+        "end": 644
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "cerca de 320",
+        "position": [
+          896,
+          908
+        ],
+        "start": 896,
+        "end": 908
+      }
+    ],
+    "match_count": 16
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Jan Yunis",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Bureij",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Gobierno gazatí",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Khan Younis",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Rafah",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Ejército israelí",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Defensa Civil",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Nuseirat",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Ministerio de Salud de la Franja de Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Gaza\nAsimismo",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Ministerio de Salud de la Franja de Gaza",
+        "relacion": "INFORMAR",
+        "objeto": "Ejército israelí"
+      },
+      {
+        "sujeto": "Rafah",
+        "relacion": "ENCONTRAR",
+        "objeto": "Gaza\nAsimismo"
+      },
+      {
+        "sujeto": "Khan Younis",
+        "relacion": "ENCONTRAR",
+        "objeto": "Gaza\nAsimismo"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.34,
+    "pos": 0.009,
+    "neu": 0.991,
+    "neg": 0.0,
+    "label": "positive"
+  }
+}

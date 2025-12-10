@@ -1,0 +1,721 @@
+{
+  "url": "https://www.telesurtv.net/pueblo-de-sucre-recibe-al-presidente-nicolas-maduro/",
+  "title": "Pueblo de Sucre recibe al presidente Nicolás Maduro - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "apoyo",
+    "Cumaná",
+    "Nicolás Maduro",
+    "Sucre",
+    "Venezuela"
+  ],
+  "text": "El pueblo del estado de Sucre recibió este martes al presidente venezolano, Nicolás Maduro, quien continúa sus visitas a diferentes territorios de la nación como parte de su plan de campaña de cara a los comicios presidenciales del 28 de julio.\n“Nos plantamos porque la Patria no se podía perder, enfrentamos sanciones, buscamos soluciones e hicimos los cambios para recuperar la economía. Creé el 1×10 del Buen Gobierno, a objeto de atender sus reclamos”, subrayó Maduro.\nAsimismo, refiriéndose a los diferentes cambios que ha tenido que implementar el país para combatir el cerco mediático y económico, el presidente Maduro recalcó que está preparado para proseguir en la búsqueda de esas trasformaciones.\n“Si fuimos capaces de hacer esos cambios y transformaciones en las peores circunstancias, estoy bien preparado para ir, en los meses y años que están por venir, por más cambios y transformaciones”, dijo.\nEn el mensaje del dirigente al pueblo de Sucre, también se solicita a la Fiscalía General de la República, el establecimiento de 30 años de cárcel a los protagonistas de la guerra eléctrica que se ha llevado cabo en la nación suramericana.\n“Guerra eléctrica contra los transformadores, las tanquillas, la transmisión en todo el país. Ya tenemos a varios presos, varios están en el pote”, apuntó el líder venezolano.\nSiguiendo esta línea, dijo que la derecha es sinónimo de odio, daño y engaño.\n“Por odio pidieron las sanciones contra la economía”, suspendieron “el 99% del ingreso al país”, desatando la “escasez” y apostando por  la “guerra eléctrica”.\nEl pueblo de la parroquia Altagracia, en Cumaná, Sucre, recibió de parte del presidente su compromiso enfilado hacia la aceleración de los planes y acciones, que buscan restaurar económicamente a Cumanacoa.\n“¡Así es que se gobierna!”, coreó el pueblo durante el contacto.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/pueblo-de-sucre-recibe-al-presidente-nicolas-maduro/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-07.json",
+    "message_index": 789,
+    "message_id": 73048,
+    "date": "2024-07-10T01:55:07+00:00",
+    "text": "teleSUR\nPueblo de Sucre recibe al presidente Nicolás Maduro\nhttps://www.telesurtv.net/pueblo-de-sucre-recibe-al-presidente-nicolas-maduro/",
+    "photo_path": null,
+    "views": 1531,
+    "reactions": {},
+    "total_reactions": 0
+  },
+  "preprocessing": {
+    "cleaned": "el pueblo del estado de sucre recibió este martes al presidente venezolano, nicolás maduro, quien continúa sus visitas a diferentes territorios de la nación como parte de su plan de campaña de cara a los comicios presidenciales del 28 de julio. “nos plantamos porque la patria no se podía perder, enfrentamos sanciones, buscamos soluciones e hicimos los cambios para recuperar la economía. creé el 1×10 del buen gobierno, a objeto de atender sus reclamos”, subrayó maduro. asimismo, refiriéndose a los diferentes cambios que ha tenido que implementar el país para combatir el cerco mediático y económico, el presidente maduro recalcó que está preparado para proseguir en la búsqueda de esas trasformaciones. “si fuimos capaces de hacer esos cambios y transformaciones en las peores circunstancias, estoy bien preparado para ir, en los meses y años que están por venir, por más cambios y transformaciones”, dijo. en el mensaje del dirigente al pueblo de sucre, también se solicita a la fiscalía general de la república, el establecimiento de 30 años de cárcel a los protagonistas de la guerra eléctrica que se ha llevado cabo en la nación suramericana. “guerra eléctrica contra los transformadores, las tanquillas, la transmisión en todo el país. ya tenemos a varios presos, varios están en el pote”, apuntó el líder venezolano. siguiendo esta línea, dijo que la derecha es sinónimo de odio, daño y engaño. “por odio pidieron las sanciones contra la economía”, suspendieron “el 99% del ingreso al país”, desatando la “escasez” y apostando por la “guerra eléctrica”. el pueblo de la parroquia altagracia, en cumaná, sucre, recibió de parte del presidente su compromiso enfilado hacia la aceleración de los planes y acciones, que buscan restaurar económicamente a cumanacoa. “¡así es que se gobierna!”, coreó el pueblo durante el contacto.",
+    "tokens": [
+      "pueblo",
+      "sucre",
+      "recibió",
+      "martes",
+      "presidente",
+      "venezolano",
+      ",",
+      "nicolás",
+      "maduro",
+      ",",
+      "continúa",
+      "visitas",
+      "diferentes",
+      "territorios",
+      "nación",
+      "parte",
+      "plan",
+      "campaña",
+      "cara",
+      "comicios",
+      "presidenciales",
+      "28",
+      "julio",
+      ".",
+      "“",
+      "plantamos",
+      "patria",
+      "podía",
+      "perder",
+      ",",
+      "enfrentamos",
+      "sanciones",
+      ",",
+      "buscamos",
+      "soluciones",
+      "hicimos",
+      "cambios",
+      "recuperar",
+      "economía",
+      ".",
+      "creé",
+      "1×10",
+      "buen",
+      "gobierno",
+      ",",
+      "objeto",
+      "atender",
+      "reclamos",
+      "”",
+      ",",
+      "subrayó",
+      "maduro",
+      ".",
+      "asimismo",
+      ",",
+      "refiriéndose",
+      "diferentes",
+      "cambios",
+      "implementar",
+      "país",
+      "combatir",
+      "cerco",
+      "mediático",
+      "económico",
+      ",",
+      "presidente",
+      "maduro",
+      "recalcó",
+      "preparado",
+      "proseguir",
+      "búsqueda",
+      "trasformaciones",
+      ".",
+      "“",
+      "si",
+      "capaces",
+      "hacer",
+      "cambios",
+      "transformaciones",
+      "peores",
+      "circunstancias",
+      ",",
+      "bien",
+      "preparado",
+      "ir",
+      ",",
+      "meses",
+      "años",
+      "venir",
+      ",",
+      "cambios",
+      "transformaciones",
+      "”",
+      ",",
+      "dijo",
+      ".",
+      "mensaje",
+      "dirigente",
+      "pueblo",
+      "sucre",
+      ",",
+      "solicita",
+      "fiscalía",
+      "general",
+      "república",
+      ",",
+      "establecimiento",
+      "30",
+      "años",
+      "cárcel",
+      "protagonistas",
+      "guerra",
+      "eléctrica",
+      "llevado",
+      "cabo",
+      "nación",
+      "suramericana",
+      ".",
+      "“",
+      "guerra",
+      "eléctrica",
+      "transformadores",
+      ",",
+      "tanquillas",
+      ",",
+      "transmisión",
+      "país",
+      ".",
+      "varios",
+      "presos",
+      ",",
+      "varios",
+      "pote",
+      "”",
+      ",",
+      "apuntó",
+      "líder",
+      "venezolano",
+      ".",
+      "siguiendo",
+      "línea",
+      ",",
+      "dijo",
+      "derecha",
+      "sinónimo",
+      "odio",
+      ",",
+      "daño",
+      "engaño",
+      ".",
+      "“",
+      "odio",
+      "pidieron",
+      "sanciones",
+      "economía",
+      "”",
+      ",",
+      "suspendieron",
+      "“",
+      "99",
+      "%",
+      "ingreso",
+      "país",
+      "”",
+      ",",
+      "desatando",
+      "“",
+      "escasez",
+      "”",
+      "apostando",
+      "“",
+      "guerra",
+      "eléctrica",
+      "”",
+      ".",
+      "pueblo",
+      "parroquia",
+      "altagracia",
+      ",",
+      "cumaná",
+      ",",
+      "sucre",
+      ",",
+      "recibió",
+      "parte",
+      "presidente",
+      "compromiso",
+      "enfilado",
+      "hacia",
+      "aceleración",
+      "planes",
+      "acciones",
+      ",",
+      "buscan",
+      "restaurar",
+      "económicamente",
+      "cumanacoa",
+      ".",
+      "“",
+      "¡así",
+      "gobierna",
+      "!",
+      "”",
+      ",",
+      "coreó",
+      "pueblo",
+      "contacto",
+      "."
+    ],
+    "token_count": 208,
+    "sentence_count": 12
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 30,
+      "NN": 107,
+      "FW": 66,
+      "NNS": 24,
+      "VBP": 15,
+      "JJ": 14,
+      "VBZ": 1,
+      "IN": 12,
+      "CD": 4,
+      "DT": 1,
+      "VBD": 2,
+      "VB": 1
+    },
+    "bigram_freq": {
+      "NNP-NN": 10,
+      "NN-NN": 66,
+      "NN-FW": 12,
+      "FW-FW": 37,
+      "FW-NNP": 7,
+      "NNP-FW": 7,
+      "FW-NN": 16,
+      "NN-NNS": 7,
+      "NNS-VBP": 14,
+      "VBP-JJ": 7,
+      "JJ-NN": 9,
+      "NN-NNP": 10,
+      "NNP-NNP": 9,
+      "NN-VBZ": 1,
+      "VBZ-NNS": 1,
+      "NNS-IN": 2,
+      "IN-FW": 7,
+      "NN-IN": 8,
+      "FW-NNS": 4,
+      "NNS-NNS": 5,
+      "VBP-CD": 2,
+      "CD-IN": 1,
+      "IN-NN": 2,
+      "NNP-DT": 1,
+      "DT-NN": 1,
+      "VBP-NNS": 4,
+      "NNP-VBD": 2,
+      "VBD-CD": 1,
+      "CD-NN": 3,
+      "NNP-VB": 1,
+      "VB-JJ": 1,
+      "JJ-NNS": 2,
+      "NNS-NNP": 1,
+      "VBD-NNS": 1,
+      "NNS-FW": 1,
+      "IN-JJ": 2,
+      "VBP-NNP": 1,
+      "IN-NNP": 1,
+      "FW-CD": 1,
+      "FW-JJ": 1,
+      "JJ-FW": 2,
+      "VBP-IN": 1,
+      "NN-JJ": 1,
+      "NN-VBP": 1,
+      "NNS-JJ": 1,
+      "JJ-JJ": 1
+    },
+    "trigram_freq": {
+      "NNP-NN-NN": 7,
+      "NN-NN-FW": 5,
+      "NN-FW-FW": 5,
+      "FW-FW-NNP": 4,
+      "FW-NNP-FW": 3,
+      "NNP-FW-NN": 2,
+      "FW-NN-NNS": 1,
+      "NN-NNS-VBP": 6,
+      "NNS-VBP-JJ": 7,
+      "VBP-JJ-NN": 5,
+      "JJ-NN-NNP": 1,
+      "NN-NNP-NNP": 4,
+      "NNP-NNP-NN": 3,
+      "NN-NN-NN": 45,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-NNS": 1,
+      "VBZ-NNS-IN": 1,
+      "NNS-IN-FW": 1,
+      "IN-FW-FW": 5,
+      "FW-FW-NN": 5,
+      "FW-NN-NN": 7,
+      "NN-NN-IN": 4,
+      "NN-IN-FW": 6,
+      "IN-FW-NN": 2,
+      "FW-NN-IN": 2,
+      "FW-FW-FW": 23,
+      "FW-FW-NNS": 4,
+      "FW-NNS-NNS": 3,
+      "NNS-NNS-VBP": 3,
+      "NNS-VBP-CD": 1,
+      "VBP-CD-IN": 1,
+      "CD-IN-NN": 1,
+      "IN-NN-NNP": 1,
+      "NN-NNP-NN": 6,
+      "NN-FW-NNP": 2,
+      "FW-NNP-DT": 1,
+      "NNP-DT-NN": 1,
+      "DT-NN-NN": 1,
+      "NN-NN-NNS": 3,
+      "NNS-VBP-NNS": 4,
+      "VBP-NNS-NNS": 1,
+      "VBP-NNS-VBP": 3,
+      "JJ-NN-FW": 1,
+      "FW-NNP-VBD": 1,
+      "NNP-VBD-CD": 1,
+      "VBD-CD-NN": 1,
+      "CD-NN-NNP": 1,
+      "NNP-NN-FW": 1,
+      "NN-NN-NNP": 7,
+      "NNP-NNP-VB": 1,
+      "NNP-VB-JJ": 1,
+      "VB-JJ-NNS": 1,
+      "JJ-NNS-VBP": 2,
+      "JJ-NN-NN": 5,
+      "FW-NNS-NNP": 1,
+      "NNS-NNP-VBD": 1,
+      "NNP-VBD-NNS": 1,
+      "VBD-NNS-FW": 1,
+      "NNS-FW-FW": 1,
+      "NNS-NNS-IN": 1,
+      "NNS-IN-JJ": 1,
+      "IN-JJ-NNS": 1,
+      "NN-IN-NN": 1,
+      "IN-NN-NNS": 1,
+      "NN-NNS-NNS": 1,
+      "NNS-VBP-NNP": 1,
+      "VBP-NNP-FW": 1,
+      "FW-NN-FW": 4,
+      "NN-FW-NN": 5,
+      "NN-IN-NNP": 1,
+      "IN-NNP-FW": 1,
+      "NNP-FW-FW": 3,
+      "FW-NNP-NNP": 2,
+      "NNP-NNP-NNP": 3,
+      "NNP-NNP-FW": 2,
+      "FW-FW-CD": 1,
+      "FW-CD-NN": 1,
+      "CD-NN-FW": 1,
+      "NNP-FW-JJ": 1,
+      "FW-JJ-NN": 1,
+      "JJ-NN-NNS": 1,
+      "VBP-JJ-FW": 2,
+      "JJ-FW-NN": 2,
+      "NNP-NN-NNS": 1,
+      "NNS-VBP-IN": 1,
+      "VBP-IN-JJ": 1,
+      "IN-JJ-NN": 1,
+      "NN-NN-JJ": 1,
+      "NN-JJ-NN": 1,
+      "JJ-NN-IN": 1,
+      "FW-NN-VBP": 1,
+      "NN-VBP-CD": 1,
+      "VBP-CD-NN": 1,
+      "CD-NN-NN": 1,
+      "NNP-NN-IN": 1,
+      "NNP-FW-NNP": 1,
+      "NNS-NNS-JJ": 1,
+      "NNS-JJ-JJ": 1,
+      "JJ-JJ-NN": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 107,
+        "FW": 66,
+        "NNP": 30,
+        "NNS": 24,
+        "VBP": 15
+      },
+      "top_bigrams": {
+        "NN-NN": 66,
+        "FW-FW": 37,
+        "FW-NN": 16,
+        "NNS-VBP": 14,
+        "NN-FW": 12
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 45,
+        "FW-FW-FW": 23,
+        "NNP-NN-NN": 7,
+        "NNS-VBP-JJ": 7,
+        "FW-NN-NN": 7
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 12,
+    "chunk_counts": {
+      "NP": 81,
+      "VP": 19,
+      "ADJP": 1,
+      "PP": 4
+    },
+    "top_rules": [
+      {
+        "rule": "NP -> ('Sucre', 'NNP')",
+        "frequency": 3,
+        "weight": 0.0256
+      },
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 3,
+        "weight": 0.0256
+      },
+      {
+        "rule": "VP -> ('y', 'VBP') NP",
+        "frequency": 3,
+        "weight": 0.0256
+      },
+      {
+        "rule": "VP -> ('el', 'VBZ')",
+        "frequency": 2,
+        "weight": 0.0171
+      },
+      {
+        "rule": "NP -> ('cambios', 'NNS')",
+        "frequency": 2,
+        "weight": 0.0171
+      },
+      {
+        "rule": "NP -> ('”', 'NN')",
+        "frequency": 2,
+        "weight": 0.0171
+      },
+      {
+        "rule": "S -> NP ('estado', 'FW') ('de', 'FW') NP ('recibió', 'FW') NP VP (',', ',') NP (',', ',') NP VP ('a', 'DT') ADJP ('territorios', 'FW') ('de', 'FW') ('la', 'FW') ('nación', 'FW') NP ('de', 'IN') ('su', 'FW') NP ('de', 'IN') ('campaña', 'FW') ('de', 'FW') ('cara', 'FW') NP VP ('28', 'CD') PP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0085
+      },
+      {
+        "rule": "NP -> ('El', 'NNP') ('pueblo', 'NN') ('del', 'NN')",
+        "frequency": 1,
+        "weight": 0.0085
+      },
+      {
+        "rule": "NP -> ('este', 'NN') ('martes', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0085
+      },
+      {
+        "rule": "VP -> ('al', 'VBP') NP",
+        "frequency": 1,
+        "weight": 0.0085
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El pueblo del"
+      },
+      {
+        "label": "NP",
+        "text": "Sucre"
+      },
+      {
+        "label": "NP",
+        "text": "este martes"
+      },
+      {
+        "label": "VP",
+        "text": "al presidente venezolano"
+      },
+      {
+        "label": "NP",
+        "text": "presidente venezolano"
+      },
+      {
+        "label": "NP",
+        "text": "Nicolás Maduro"
+      },
+      {
+        "label": "NP",
+        "text": "quien continúa sus"
+      },
+      {
+        "label": "VP",
+        "text": "visitas"
+      },
+      {
+        "label": "ADJP",
+        "text": "diferentes"
+      },
+      {
+        "label": "NP",
+        "text": "como parte"
+      },
+      {
+        "label": "NP",
+        "text": "plan"
+      },
+      {
+        "label": "NP",
+        "text": "a los comicios presidenciales"
+      },
+      {
+        "label": "VP",
+        "text": "del"
+      },
+      {
+        "label": "PP",
+        "text": "de julio"
+      },
+      {
+        "label": "NP",
+        "text": "julio"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP El/NNP pueblo/NN del/NN)\n  estado/FW\n  de/FW\n  (NP Sucre/NNP)\n  recibió/FW\n  (NP este/NN martes/NNS)\n  (VP al/VBP (NP presidente/JJ venezolano/NN))\n  ,/,\n  (NP Nicolás/NNP Maduro/NNP)\n  ,/,\n  (NP quien/NN continúa/NN sus/NN)\n  (VP visitas/VBZ)\n  a/DT\n  (ADJP diferentes/JJ)\n  territorios/FW\n  de/FW\n  la/FW\n  nación/FW\n  (NP como/NN parte/NN)\n  de/IN\n  su/FW\n  (NP plan/NN)\n  de/IN\n  campaña/FW\n  de/FW\n  cara/FW\n  (NP a/DT los/JJ comicios/JJ presidenciales/NNS)\n  (VP del/VBP)\n  28/CD\n  (PP de/IN (NP julio/NN))\n  ./.)",
+      "(S\n  (NP “/JJ Nos/NNP plantamos/NN porque/NN)\n  la/FW\n  (NP Patria/NNP)\n  (NP no/DT se/NN podía/NN perder/NN)\n  ,/,\n  (NP enfrentamos/JJ sanciones/NNS)\n  ,/,\n  (NP buscamos/NN soluciones/NNS)\n  (VP e/VBP (NP hicimos/JJ los/JJ cambios/NNS))\n  (VP para/VBP (NP recuperar/JJ la/NN economía/NN))\n  ./.)",
+      "(S\n  (NP Creé/NNP)\n  (VP el/VBZ)\n  1×10/CD\n  (NP del/NN Buen/NNP Gobierno/NNP)\n  ,/,\n  (NP a/DT objeto/NN)\n  de/IN\n  atender/FW\n  (NP sus/NN reclamos/NN ”/NNP)\n  ,/,\n  (NP subrayó/NN Maduro/NNP)\n  ./.)",
+      "(S\n  (NP Asimismo/NNP)\n  ,/,\n  (VP refiriéndose/VB (NP a/DT los/NN))\n  (VP\n    diferentes/VBZ\n    (NP cambios/NNS)\n    (NP\n      que/JJ\n      ha/JJ\n      tenido/NN\n      que/NN\n      implementar/NN\n      el/NN\n      país/NN\n      para/NN\n      combatir/NN\n      el/NN\n      cerco/NN\n      mediático/NN\n      y/NN\n      económico/NN))\n  ,/,\n  el/FW\n  presidente/FW\n  (NP\n    Maduro/NNP\n    recalcó/NN\n    que/NN\n    está/NN\n    preparado/NN\n    para/NN\n    proseguir/NN)\n  en/IN\n  la/FW\n  búsqueda/FW\n  de/FW\n  esas/FW\n  (NP trasformaciones/NNS)\n  ./.)",
+      "(S\n  (NP “/JJ Si/NNP fuimos/NN capaces/NNS)\n  de/FW\n  hacer/FW\n  esos/FW\n  (NP cambios/NNS)\n  (VP y/VBP (NP transformaciones/NNS))\n  en/FW\n  las/FW\n  (NP peores/NNS)\n  (VP circunstancias/VBP)\n  ,/,\n  (NP estoy/JJ bien/NN preparado/NN para/NN ir/NN)\n  ,/,\n  en/FW\n  (NP los/NN meses/NNS)\n  (VP y/VBP (NP años/JJ que/NN están/NN por/NN venir/NN))\n  ,/,\n  (NP por/NN más/NN cambios/NNS)\n  (VP y/VBP (NP transformaciones/NNS ”/NNP))\n  ,/,\n  (NP dijo/NN)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "CIUDADES_CAPITALES",
+      "GOBIERNOS_OFICIALES",
+      "APROBACION_RECHAZO",
+      "REGIONES_PROVINCIAS",
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "CONFLICTOS_ARMADOS_OPERACIONES"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "cerco mediático y económico",
+        "position": [
+          576,
+          603
+        ],
+        "start": 576,
+        "end": 603
+      },
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "guerra eléctrica que se ha llevado cabo en la",
+        "position": [
+          1085,
+          1130
+        ],
+        "start": 1085,
+        "end": 1130
+      },
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "ingreso",
+        "position": [
+          1485,
+          1492
+        ],
+        "start": 1485,
+        "end": 1492
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente venezolano",
+        "position": [
+          53,
+          74
+        ],
+        "start": 53,
+        "end": 74
+      },
+      {
+        "category": "APROBACION_RECHAZO",
+        "matched_text": "subrayó",
+        "position": [
+          457,
+          464
+        ],
+        "start": 457,
+        "end": 464
+      },
+      {
+        "category": "CIUDADES_CAPITALES",
+        "matched_text": "sucre",
+        "position": [
+          24,
+          29
+        ],
+        "start": 24,
+        "end": 29
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "estado de",
+        "position": [
+          14,
+          23
+        ],
+        "start": 14,
+        "end": 23
+      }
+    ],
+    "match_count": 7
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Altagracia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Nicolás Maduro",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Maduro",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Cumaná",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Cumanacoa",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Sucre",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Ya",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Fiscalía General de la República",
+        "tipo": "Organizacion"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Sucre",
+        "relacion": "RECIBIR",
+        "objeto": "Nicolás Maduro"
+      },
+      {
+        "sujeto": "Sucre",
+        "relacion": "SOLICITAR",
+        "objeto": "Fiscalía General de la República"
+      },
+      {
+        "sujeto": "Altagracia",
+        "relacion": "RECIBIR",
+        "objeto": "Cumaná"
+      },
+      {
+        "sujeto": "Altagracia",
+        "relacion": "RECIBIR",
+        "objeto": "Sucre"
+      },
+      {
+        "sujeto": "Altagracia",
+        "relacion": "RECIBIR",
+        "objeto": "Cumanacoa"
+      },
+      {
+        "sujeto": "Cumaná",
+        "relacion": "RECIBIR",
+        "objeto": "Cumanacoa"
+      },
+      {
+        "sujeto": "Sucre",
+        "relacion": "RECIBIR",
+        "objeto": "Cumanacoa"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.4389,
+    "pos": 0.018,
+    "neu": 0.974,
+    "neg": 0.008,
+    "label": "positive"
+  }
+}

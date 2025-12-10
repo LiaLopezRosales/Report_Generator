@@ -1,0 +1,788 @@
+{
+  "url": "https://www.telesurtv.net/huracan-beryl-bajo-a-categoria-cuatro-pero-dejo-a-su-paso-seis-muertos-en-el-caribe/",
+  "title": "Huracán Beryl bajó a categoría cuatro pero dejo a su paso seis muertos en el Caribe - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "Caribe",
+    "Dominicana",
+    "Huracán Beryl",
+    "Jamaica",
+    "México"
+  ],
+  "text": "El huracán Beryl ha sido motivo de gran preocupación debido a su rápida formación y su impresionante potencia, alcanzando la categoría 5 el pasado lunes 1 de julio y reduciendo a categoría 4 el martes, según el Centro Nacional de Huracanes (NHC) de EE.UU.\n\n\nLas autoridades informaron que Granada lamenta al menos 3 muertes, mientras que en San Vicente y las Granadinas se registró un fallecido. Además, dos personas perdieron la vida en Venezuela y cinco se encuentran desaparecidas tras el desbordamiento del río Manzanares en el estado venezolano de Sucre.\n\n\nEn respuesta a esta crisis, la Comunidad del Caribe convocó a una reunión virtual para evaluar los daños y coordinar una respuesta conjunta. Mientras tanto, Venezuela desplegó equipos de emergencia para brindar asistencia a los afectados.\nPuerto Rico ha cerrado varios balnearios por las peligrosas condiciones marítimas generadas por el huracán, y República Dominicana ha puesto en alerta a 24 provincias ante los efectos indirectos de Beryl.\nSe prevé que Beryl impacte en México, específicamente en Quintana Roo y Veracruz, mientras numerosas líneas de cruceros han ajustado sus itinerarios por motivos de seguridad. El huracán se dirige hacia Jamaica, las islas Caimán y posiblemente Haití.\nEl Gobierno de Jamaica ha tomado medidas preventivas, como el cierre del aeropuerto internacional y oficinas gubernamentales no esenciales.\nA medida que la semana avance, se espera que Beryl disminuya en intensidad, aunque mantendrá vientos huracanados.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/huracan-beryl-bajo-a-categoria-cuatro-pero-dejo-a-su-paso-seis-muertos-en-el-caribe/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-07.json",
+    "message_index": 1005,
+    "message_id": 72832,
+    "date": "2024-07-03T07:55:13+00:00",
+    "text": "teleSUR\nHuracán Beryl bajó a categoría cuatro pero dejo a su paso seis muertos en el Caribe\nhttps://www.telesurtv.net/huracan-beryl-bajo-a-categoria-cuatro-pero-dejo-a-su-paso-seis-muertos-en-el-caribe/",
+    "photo_path": null,
+    "views": 1381,
+    "reactions": {},
+    "total_reactions": 0
+  },
+  "preprocessing": {
+    "cleaned": "el huracán beryl ha sido motivo de gran preocupación debido a su rápida formación y su impresionante potencia, alcanzando la categoría 5 el pasado lunes 1 de julio y reduciendo a categoría 4 el martes, según el centro nacional de huracanes (nhc) de ee.uu. las autoridades informaron que granada lamenta al menos 3 muertes, mientras que en san vicente y las granadinas se registró un fallecido. además, dos personas perdieron la vida en venezuela y cinco se encuentran desaparecidas tras el desbordamiento del río manzanares en el estado venezolano de sucre. en respuesta a esta crisis, la comunidad del caribe convocó a una reunión virtual para evaluar los daños y coordinar una respuesta conjunta. mientras tanto, venezuela desplegó equipos de emergencia para brindar asistencia a los afectados. puerto rico ha cerrado varios balnearios por las peligrosas condiciones marítimas generadas por el huracán, y república dominicana ha puesto en alerta a 24 provincias ante los efectos indirectos de beryl. se prevé que beryl impacte en méxico, específicamente en quintana roo y veracruz, mientras numerosas líneas de cruceros han ajustado sus itinerarios por motivos de seguridad. el huracán se dirige hacia jamaica, las islas caimán y posiblemente haití. el gobierno de jamaica ha tomado medidas preventivas, como el cierre del aeropuerto internacional y oficinas gubernamentales no esenciales. a medida que la semana avance, se espera que beryl disminuya en intensidad, aunque mantendrá vientos huracanados.",
+    "tokens": [
+      "huracán",
+      "beryl",
+      "sido",
+      "motivo",
+      "gran",
+      "preocupación",
+      "debido",
+      "rápida",
+      "formación",
+      "impresionante",
+      "potencia",
+      ",",
+      "alcanzando",
+      "categoría",
+      "5",
+      "pasado",
+      "lunes",
+      "1",
+      "julio",
+      "reduciendo",
+      "categoría",
+      "4",
+      "martes",
+      ",",
+      "según",
+      "centro",
+      "nacional",
+      "huracanes",
+      "(",
+      "nhc",
+      ")",
+      "ee.uu.",
+      "autoridades",
+      "informaron",
+      "granada",
+      "lamenta",
+      "menos",
+      "3",
+      "muertes",
+      ",",
+      "mientras",
+      "san",
+      "vicente",
+      "granadinas",
+      "registró",
+      "fallecido",
+      ".",
+      "además",
+      ",",
+      "dos",
+      "personas",
+      "perdieron",
+      "vida",
+      "venezuela",
+      "cinco",
+      "encuentran",
+      "desaparecidas",
+      "tras",
+      "desbordamiento",
+      "río",
+      "manzanares",
+      "venezolano",
+      "sucre",
+      ".",
+      "respuesta",
+      "crisis",
+      ",",
+      "comunidad",
+      "caribe",
+      "convocó",
+      "reunión",
+      "virtual",
+      "evaluar",
+      "daños",
+      "coordinar",
+      "respuesta",
+      "conjunta",
+      ".",
+      "mientras",
+      ",",
+      "venezuela",
+      "desplegó",
+      "equipos",
+      "emergencia",
+      "brindar",
+      "asistencia",
+      "afectados",
+      ".",
+      "puerto",
+      "rico",
+      "cerrado",
+      "varios",
+      "balnearios",
+      "peligrosas",
+      "condiciones",
+      "marítimas",
+      "generadas",
+      "huracán",
+      ",",
+      "república",
+      "dominicana",
+      "puesto",
+      "alerta",
+      "24",
+      "provincias",
+      "efectos",
+      "indirectos",
+      "beryl",
+      ".",
+      "prevé",
+      "beryl",
+      "impacte",
+      "méxico",
+      ",",
+      "específicamente",
+      "quintana",
+      "roo",
+      "veracruz",
+      ",",
+      "mientras",
+      "numerosas",
+      "líneas",
+      "cruceros",
+      "ajustado",
+      "itinerarios",
+      "motivos",
+      "seguridad",
+      ".",
+      "huracán",
+      "dirige",
+      "hacia",
+      "jamaica",
+      ",",
+      "islas",
+      "caimán",
+      "posiblemente",
+      "haití",
+      ".",
+      "gobierno",
+      "jamaica",
+      "tomado",
+      "medidas",
+      "preventivas",
+      ",",
+      "cierre",
+      "aeropuerto",
+      "internacional",
+      "oficinas",
+      "gubernamentales",
+      "esenciales",
+      ".",
+      "medida",
+      "semana",
+      "avance",
+      ",",
+      "espera",
+      "beryl",
+      "disminuya",
+      "intensidad",
+      ",",
+      "aunque",
+      "mantendrá",
+      "vientos",
+      "huracanados",
+      "."
+    ],
+    "token_count": 165,
+    "sentence_count": 10
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 40,
+      "NN": 85,
+      "IN": 9,
+      "FW": 29,
+      "NNS": 13,
+      "VBZ": 8,
+      "JJ": 17,
+      "VBD": 1,
+      "VBP": 6,
+      "$": 1,
+      "CD": 1,
+      "DT": 1,
+      "RB": 1
+    },
+    "bigram_freq": {
+      "NNP-NN": 15,
+      "NN-NNP": 12,
+      "NN-NN": 48,
+      "NN-IN": 6,
+      "IN-FW": 2,
+      "FW-FW": 9,
+      "FW-NN": 9,
+      "NN-FW": 6,
+      "NN-NNS": 3,
+      "NNS-IN": 1,
+      "IN-NN": 1,
+      "NN-VBZ": 1,
+      "VBZ-JJ": 2,
+      "JJ-FW": 2,
+      "FW-NNP": 8,
+      "NNP-NNP": 12,
+      "NNP-FW": 6,
+      "NNP-IN": 2,
+      "IN-NNP": 5,
+      "NNP-VBZ": 5,
+      "VBZ-NN": 1,
+      "JJ-NNS": 3,
+      "NNS-VBZ": 2,
+      "VBZ-NNS": 2,
+      "NNS-NN": 1,
+      "NN-JJ": 7,
+      "JJ-NN": 9,
+      "VBZ-FW": 2,
+      "NN-VBD": 1,
+      "VBD-NNS": 1,
+      "NNS-NNS": 1,
+      "NNS-VBP": 5,
+      "VBP-JJ": 4,
+      "FW-JJ": 2,
+      "JJ-NNP": 1,
+      "VBP-NNS": 1,
+      "NNS-FW": 1,
+      "FW-NNS": 1,
+      "IN-$": 1,
+      "$-CD": 1,
+      "CD-NN": 1,
+      "VBP-FW": 1,
+      "NNS-NNP": 1,
+      "JJ-JJ": 2,
+      "VBZ-DT": 1,
+      "DT-NNS": 1,
+      "NNS-RB": 1,
+      "RB-VBP": 1
+    },
+    "trigram_freq": {
+      "NNP-NN-NNP": 3,
+      "NN-NNP-NN": 5,
+      "NNP-NN-NN": 9,
+      "NN-NN-NN": 26,
+      "NN-NN-IN": 3,
+      "NN-IN-FW": 2,
+      "IN-FW-FW": 1,
+      "FW-FW-NN": 2,
+      "FW-NN-NN": 6,
+      "NN-NN-FW": 3,
+      "NN-FW-NN": 4,
+      "FW-NN-FW": 1,
+      "NN-NN-NNS": 2,
+      "NN-NNS-IN": 1,
+      "NNS-IN-NN": 1,
+      "IN-NN-NN": 1,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-JJ": 1,
+      "VBZ-JJ-FW": 1,
+      "JJ-FW-NNP": 1,
+      "FW-NNP-NNP": 3,
+      "NNP-NNP-FW": 3,
+      "NNP-FW-NNP": 3,
+      "NNP-NNP-IN": 2,
+      "NNP-IN-NNP": 2,
+      "IN-NNP-NNP": 4,
+      "NNP-NNP-VBZ": 1,
+      "NNP-VBZ-NN": 1,
+      "VBZ-NN-NN": 1,
+      "NN-NN-NNP": 7,
+      "NN-NNP-VBZ": 4,
+      "NNP-VBZ-JJ": 1,
+      "VBZ-JJ-NNS": 1,
+      "JJ-NNS-VBZ": 2,
+      "NNS-VBZ-NNS": 1,
+      "VBZ-NNS-NN": 1,
+      "NNS-NN-IN": 1,
+      "NN-IN-NNP": 3,
+      "FW-NNP-FW": 2,
+      "NNP-FW-NN": 1,
+      "FW-NN-JJ": 1,
+      "NN-JJ-NN": 5,
+      "JJ-NN-NNP": 2,
+      "NNP-VBZ-FW": 2,
+      "VBZ-FW-NN": 1,
+      "NN-FW-FW": 1,
+      "FW-FW-NNP": 3,
+      "FW-NNP-NN": 3,
+      "NN-NN-VBD": 1,
+      "NN-VBD-NNS": 1,
+      "VBD-NNS-NNS": 1,
+      "NNS-NNS-VBP": 1,
+      "NNS-VBP-JJ": 3,
+      "VBP-JJ-NN": 2,
+      "JJ-NN-NN": 4,
+      "VBZ-FW-JJ": 1,
+      "FW-JJ-NN": 1,
+      "JJ-NN-IN": 2,
+      "NNP-NNP-NN": 4,
+      "NN-NNP-FW": 1,
+      "NNP-NN-JJ": 1,
+      "JJ-NN-JJ": 1,
+      "NN-NN-JJ": 4,
+      "IN-FW-NN": 1,
+      "NN-JJ-NNP": 1,
+      "JJ-NNP-NNP": 1,
+      "NN-NNS-VBP": 2,
+      "VBP-JJ-NNS": 1,
+      "JJ-NNS-VBP": 1,
+      "NNS-VBP-NNS": 1,
+      "VBP-NNS-FW": 1,
+      "NNS-FW-NNS": 1,
+      "FW-NNS-VBP": 1,
+      "NN-NNP-NNP": 2,
+      "NN-IN-$": 1,
+      "IN-$-CD": 1,
+      "$-CD-NN": 1,
+      "CD-NN-NN": 1,
+      "NNP-NN-FW": 2,
+      "NN-FW-NNP": 1,
+      "NNP-FW-FW": 1,
+      "NNP-NNP-NNP": 2,
+      "NNP-FW-JJ": 1,
+      "FW-JJ-FW": 1,
+      "JJ-FW-FW": 1,
+      "FW-FW-FW": 4,
+      "FW-NN-NNS": 1,
+      "NNS-VBP-FW": 1,
+      "VBP-FW-FW": 1,
+      "NNP-VBZ-NNS": 1,
+      "VBZ-NNS-NNP": 1,
+      "NNS-NNP-NN": 1,
+      "IN-NNP-NN": 1,
+      "NN-JJ-JJ": 1,
+      "JJ-JJ-NNS": 1,
+      "NNS-VBZ-DT": 1,
+      "VBZ-DT-NNS": 1,
+      "DT-NNS-RB": 1,
+      "NNS-RB-VBP": 1,
+      "RB-VBP-JJ": 1,
+      "VBP-JJ-JJ": 1,
+      "JJ-JJ-NN": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 85,
+        "NNP": 40,
+        "FW": 29,
+        "JJ": 17,
+        "NNS": 13
+      },
+      "top_bigrams": {
+        "NN-NN": 48,
+        "NNP-NN": 15,
+        "NN-NNP": 12,
+        "NNP-NNP": 12,
+        "FW-FW": 9
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 26,
+        "NNP-NN-NN": 9,
+        "NN-NN-NNP": 7,
+        "FW-NN-NN": 6,
+        "NN-NNP-NN": 5
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 10,
+    "chunk_counts": {
+      "NP": 62,
+      "VP": 21,
+      "PP": 5,
+      "ADJP": 2
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 4,
+        "weight": 0.04
+      },
+      {
+        "rule": "NP -> ('Venezuela', 'NNP')",
+        "frequency": 2,
+        "weight": 0.02
+      },
+      {
+        "rule": "S -> NP ('de', 'IN') ('gran', 'FW') ('preocupación', 'FW') ('debido', 'FW') NP (',', ',') NP VP ('5', 'CD') NP VP ('1', 'CD') PP VP ('4', 'CD') NP (',', ',') ADJP ('el', 'FW') NP ('de', 'FW') NP ('(', '(') NP (')', ')') ('de', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.01
+      },
+      {
+        "rule": "NP -> ('El', 'NNP') ('huracán', 'NN') ('Beryl', 'NNP') ('ha', 'NN') ('sido', 'NN') ('motivo', 'NN')",
+        "frequency": 1,
+        "weight": 0.01
+      },
+      {
+        "rule": "NP -> ('a', 'DT') ('su', 'NN') ('rápida', 'NN') ('formación', 'NN') ('y', 'NN') ('su', 'NN') ('impresionante', 'NN') ('potencia', 'NN')",
+        "frequency": 1,
+        "weight": 0.01
+      },
+      {
+        "rule": "NP -> ('alcanzando', 'JJ') ('la', 'NN')",
+        "frequency": 1,
+        "weight": 0.01
+      },
+      {
+        "rule": "VP -> ('categoría', 'VBD')",
+        "frequency": 1,
+        "weight": 0.01
+      },
+      {
+        "rule": "NP -> ('el', 'NN') ('pasado', 'NN')",
+        "frequency": 1,
+        "weight": 0.01
+      },
+      {
+        "rule": "VP -> ('lunes', 'VBZ')",
+        "frequency": 1,
+        "weight": 0.01
+      },
+      {
+        "rule": "NP -> ('julio', 'NN') ('y', 'NN')",
+        "frequency": 1,
+        "weight": 0.01
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El huracán Beryl ha sido motivo"
+      },
+      {
+        "label": "NP",
+        "text": "a su rápida formación y su impresionante potencia"
+      },
+      {
+        "label": "NP",
+        "text": "alcanzando la"
+      },
+      {
+        "label": "VP",
+        "text": "categoría"
+      },
+      {
+        "label": "NP",
+        "text": "el pasado"
+      },
+      {
+        "label": "VP",
+        "text": "lunes"
+      },
+      {
+        "label": "PP",
+        "text": "de julio y"
+      },
+      {
+        "label": "NP",
+        "text": "julio y"
+      },
+      {
+        "label": "VP",
+        "text": "reduciendo a categoría"
+      },
+      {
+        "label": "NP",
+        "text": "a categoría"
+      },
+      {
+        "label": "NP",
+        "text": "el martes"
+      },
+      {
+        "label": "ADJP",
+        "text": "según"
+      },
+      {
+        "label": "NP",
+        "text": "Centro Nacional"
+      },
+      {
+        "label": "NP",
+        "text": "Huracanes"
+      },
+      {
+        "label": "NP",
+        "text": "NHC"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP El/NNP huracán/NN Beryl/NNP ha/NN sido/NN motivo/NN)\n  de/IN\n  gran/FW\n  preocupación/FW\n  debido/FW\n  (NP\n    a/DT\n    su/NN\n    rápida/NN\n    formación/NN\n    y/NN\n    su/NN\n    impresionante/NN\n    potencia/NN)\n  ,/,\n  (NP alcanzando/JJ la/NN)\n  (VP categoría/VBD)\n  5/CD\n  (NP el/NN pasado/NN)\n  (VP lunes/VBZ)\n  1/CD\n  (PP de/IN (NP julio/NN y/NN))\n  (VP reduciendo/VBZ (NP a/DT categoría/NN))\n  4/CD\n  (NP el/NN martes/NNS)\n  ,/,\n  (ADJP según/JJ)\n  el/FW\n  (NP Centro/NNP Nacional/NNP)\n  de/FW\n  (NP Huracanes/NNP)\n  (/(\n  (NP NHC/NNP)\n  )/)\n  de/FW\n  (NP EE.UU/NNP)\n  ./.)",
+      "(S\n  (NP Las/NNP)\n  (VP autoridades/VBZ (NP informaron/NN que/NN Granada/NNP))\n  (VP lamenta/VBZ (NP al/JJ menos/NNS))\n  3/CD\n  (NP muertes/NNS)\n  ,/,\n  (NP mientras/NNS)\n  (VP que/VBP (NP en/JJ San/NNP Vicente/NNP y/NNP))\n  (VP\n    las/VBZ\n    (NP Granadinas/NNP se/NN registró/NN)\n    (NP un/JJ fallecido/NN))\n  ./.)",
+      "(S\n  (NP Además/NNP)\n  ,/,\n  (VP dos/VBZ (NP personas/JJ perdieron/NN la/NN))\n  vida/FW\n  en/FW\n  (NP Venezuela/NNP)\n  y/CC\n  (NP cinco/NN se/NN)\n  (VP encuentran/VBD (NP desaparecidas/NNS tras/NNS))\n  (VP el/VBP (NP desbordamiento/JJ del/NN río/NN Manzanares/NNP))\n  (VP en/VBZ)\n  el/FW\n  (NP estado/JJ venezolano/NN)\n  (PP de/IN (NP Sucre/NNP))\n  ./.)",
+      "(S\n  (NP En/NNP)\n  (VP respuesta/VBZ (NP a/DT esta/JJ crisis/NN))\n  ,/,\n  la/FW\n  (NP Comunidad/NNP)\n  del/FW\n  (NP Caribe/NNP)\n  (VP\n    convocó/VBD\n    (NP a/DT una/JJ reunión/NN)\n    (NP\n      virtual/JJ\n      para/NN\n      evaluar/NN\n      los/NN\n      daños/NN\n      y/NN\n      coordinar/NN)\n    (NP una/JJ respuesta/NN conjunta/NN))\n  ./.)",
+      "(S\n  (NP Mientras/NNP tanto/NN)\n  ,/,\n  (NP Venezuela/NNP)\n  (VP desplegó/VBZ)\n  equipos/FW\n  de/FW\n  emergencia/FW\n  para/FW\n  (NP brindar/NN)\n  (PP asistencia/IN (NP a/DT los/JJ afectados/NN))\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "CIUDADES_CAPITALES",
+      "GOBIERNOS_OFICIALES",
+      "RECURSOS_NATURALES",
+      "REGIONES_PROVINCIAS",
+      "PAISES",
+      "LOCALIZACIONES_ESPECIFICAS",
+      "INFRAESTRUCTURA_SERVICIOS",
+      "FECHAS_ESPECIFICAS"
+    ],
+    "matches": [
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "gobierno de jamaica ha",
+        "position": [
+          1259,
+          1281
+        ],
+        "start": 1259,
+        "end": 1281
+      },
+      {
+        "category": "RECURSOS_NATURALES",
+        "matched_text": "río",
+        "position": [
+          511,
+          514
+        ],
+        "start": 511,
+        "end": 514
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "puerto",
+        "position": [
+          801,
+          807
+        ],
+        "start": 801,
+        "end": 807
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "puerto rico",
+        "position": [
+          801,
+          812
+        ],
+        "start": 801,
+        "end": 812
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "venezuela",
+        "position": [
+          438,
+          447
+        ],
+        "start": 438,
+        "end": 447
+      },
+      {
+        "category": "CIUDADES_CAPITALES",
+        "matched_text": "sucre",
+        "position": [
+          553,
+          558
+        ],
+        "start": 553,
+        "end": 558
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "caribe",
+        "position": [
+          607,
+          613
+        ],
+        "start": 607,
+        "end": 613
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "estado venezolano",
+        "position": [
+          532,
+          549
+        ],
+        "start": 532,
+        "end": 549
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "centro nacional",
+        "position": [
+          211,
+          226
+        ],
+        "start": 211,
+        "end": 226
+      },
+      {
+        "category": "FECHAS_ESPECIFICAS",
+        "matched_text": "lunes 1 de julio",
+        "position": [
+          147,
+          163
+        ],
+        "start": 147,
+        "end": 163
+      }
+    ],
+    "match_count": 10
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "EE.UU.",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Venezuela",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Centro Nacional de Huracanes",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Gobierno de Jamaica",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Beryl",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Beryl",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Comunidad del Caribe",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "río Manzanares",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "huracán Beryl",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Jamaica",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Granada",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Haití",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Veracruz",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "San Vicente y las Granadinas",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Sucre",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Puerto Rico",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "islas Caimán",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "NHC",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "República Dominicana",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Quintana Roo",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "México",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Venezuela",
+        "relacion": "PERDER",
+        "objeto": "río Manzanares"
+      },
+      {
+        "sujeto": "Venezuela",
+        "relacion": "PERDER",
+        "objeto": "Sucre"
+      },
+      {
+        "sujeto": "Puerto Rico",
+        "relacion": "CERRAR",
+        "objeto": "República Dominicana"
+      },
+      {
+        "sujeto": "Puerto Rico",
+        "relacion": "CERRAR",
+        "objeto": "Beryl"
+      },
+      {
+        "sujeto": "República Dominicana",
+        "relacion": "PONER_CERRAR",
+        "objeto": "Beryl"
+      },
+      {
+        "sujeto": "Beryl",
+        "relacion": "IMPACTIR_PREVER",
+        "objeto": "México"
+      },
+      {
+        "sujeto": "Beryl",
+        "relacion": "IMPACTIR_PREVER",
+        "objeto": "Quintana Roo"
+      },
+      {
+        "sujeto": "Beryl",
+        "relacion": "IMPACTIR_PREVER",
+        "objeto": "Veracruz"
+      },
+      {
+        "sujeto": "México",
+        "relacion": "IMPACTIR_PREVER",
+        "objeto": "Quintana Roo"
+      },
+      {
+        "sujeto": "México",
+        "relacion": "IMPACTIR_PREVER",
+        "objeto": "Veracruz"
+      },
+      {
+        "sujeto": "Jamaica",
+        "relacion": "ES",
+        "objeto": "islas Caimán"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.3182,
+    "pos": 0.043,
+    "neu": 0.928,
+    "neg": 0.028,
+    "label": "positive"
+  }
+}

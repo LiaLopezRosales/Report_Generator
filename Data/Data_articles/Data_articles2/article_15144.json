@@ -1,0 +1,518 @@
+{
+  "url": "https://www.telesurtv.net/lluvias-dejan-siete-muertos-en-suiza-y-francia/",
+  "title": "Lluvias dejan siete muertos en Suiza y Francia - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "delizamientos de tierraa",
+    "lluvias"
+  ],
+  "text": "\nLas lluvias torrenciales de este fin de semana dejaron al menos siete muertos en Suiza y Francia, según informaron las autoridades locales.\n\nEn tanto, en Suiza, al menos cuatro personas fallecieron y otra permanece desaparecida. Tres de las víctimas perdieron la vida producto a un deslizamiento de tierra en el sureste del país, según la Policía del cantón de Tesino, la zona más afectada, ubicada en la vertiente meridional de los Alpes.\n\n\n\nEn el suroeste, las crecidas del río Ródano debido a las precipitciones y el deshielo, han obligado a evacuar a varios centenares de personas y a cerrar carreteras.\nMientras, en el norte de Italia, las autoridades no han informado de ninguna víctima. No obstante, en el Piamonte y el Valle de Aosta, también se produjeron inundaciones.\nEn esta región, los Bomberos aseguran haber llevado a cabo unas 80 operaciones de rescate, evacuando a decenas de personas.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/lluvias-dejan-siete-muertos-en-suiza-y-francia/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-06.json",
+    "message_index": 17,
+    "message_id": 72726,
+    "date": "2024-06-30T16:55:07+00:00",
+    "text": "teleSUR\nLluvias dejan siete muertos en Suiza y Francia\nhttps://www.telesurtv.net/lluvias-dejan-siete-muertos-en-suiza-y-francia/",
+    "photo_path": null,
+    "views": 1483,
+    "reactions": {},
+    "total_reactions": 0
+  },
+  "preprocessing": {
+    "cleaned": "las lluvias torrenciales de este fin de semana dejaron al menos siete muertos en suiza y francia, según informaron las autoridades locales. en tanto, en suiza, al menos cuatro personas fallecieron y otra permanece desaparecida. tres de las víctimas perdieron la vida producto a un deslizamiento de tierra en el sureste del país, según la policía del cantón de tesino, la zona más afectada, ubicada en la vertiente meridional de los alpes. en el suroeste, las crecidas del río ródano debido a las precipitciones y el deshielo, han obligado a evacuar a varios centenares de personas y a cerrar carreteras. mientras, en el norte de italia, las autoridades no han informado de ninguna víctima. no obstante, en el piamonte y el valle de aosta, también se produjeron inundaciones. en esta región, los bomberos aseguran haber llevado a cabo unas 80 operaciones de rescate, evacuando a decenas de personas.",
+    "tokens": [
+      "lluvias",
+      "torrenciales",
+      "fin",
+      "semana",
+      "dejaron",
+      "menos",
+      "siete",
+      "muertos",
+      "suiza",
+      "francia",
+      ",",
+      "según",
+      "informaron",
+      "autoridades",
+      "locales",
+      ".",
+      ",",
+      "suiza",
+      ",",
+      "menos",
+      "cuatro",
+      "personas",
+      "fallecieron",
+      "permanece",
+      "desaparecida",
+      ".",
+      "tres",
+      "víctimas",
+      "perdieron",
+      "vida",
+      "producto",
+      "deslizamiento",
+      "tierra",
+      "sureste",
+      "país",
+      ",",
+      "según",
+      "policía",
+      "cantón",
+      "tesino",
+      ",",
+      "zona",
+      "afectada",
+      ",",
+      "ubicada",
+      "vertiente",
+      "meridional",
+      "alpes",
+      ".",
+      "suroeste",
+      ",",
+      "crecidas",
+      "río",
+      "ródano",
+      "debido",
+      "precipitciones",
+      "deshielo",
+      ",",
+      "obligado",
+      "evacuar",
+      "varios",
+      "centenares",
+      "personas",
+      "cerrar",
+      "carreteras",
+      ".",
+      "mientras",
+      ",",
+      "norte",
+      "italia",
+      ",",
+      "autoridades",
+      "informado",
+      "ninguna",
+      "víctima",
+      ".",
+      "obstante",
+      ",",
+      "piamonte",
+      "valle",
+      "aosta",
+      ",",
+      "produjeron",
+      "inundaciones",
+      ".",
+      "región",
+      ",",
+      "bomberos",
+      "aseguran",
+      "haber",
+      "llevado",
+      "cabo",
+      "unas",
+      "80",
+      "operaciones",
+      "rescate",
+      ",",
+      "evacuando",
+      "decenas",
+      "personas",
+      "."
+    ],
+    "token_count": 101,
+    "sentence_count": 7
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 23,
+      "JJ": 13,
+      "NNS": 9,
+      "IN": 7,
+      "FW": 39,
+      "NN": 35,
+      "VBD": 2,
+      "VBP": 4,
+      "VBZ": 1,
+      "DT": 1,
+      "PRP$": 1,
+      "CD": 1
+    },
+    "bigram_freq": {
+      "NNP-JJ": 1,
+      "JJ-NNS": 2,
+      "NNS-IN": 2,
+      "IN-FW": 4,
+      "FW-FW": 21,
+      "FW-NN": 8,
+      "NN-NN": 13,
+      "NN-VBD": 1,
+      "VBD-JJ": 1,
+      "JJ-NN": 8,
+      "NN-FW": 5,
+      "FW-NNP": 8,
+      "NNP-NNP": 6,
+      "NNP-NN": 6,
+      "NN-IN": 4,
+      "IN-NNS": 1,
+      "NNS-NNP": 3,
+      "NNP-VBP": 1,
+      "VBP-NNS": 1,
+      "NNS-VBP": 3,
+      "VBP-JJ": 3,
+      "NN-JJ": 4,
+      "NN-NNP": 4,
+      "NNP-FW": 7,
+      "IN-NNP": 1,
+      "NNP-IN": 1,
+      "IN-JJ": 1,
+      "JJ-FW": 1,
+      "NN-NNS": 4,
+      "JJ-JJ": 1,
+      "FW-VBZ": 1,
+      "VBZ-DT": 1,
+      "DT-JJ": 1,
+      "NNP-VBD": 1,
+      "VBD-PRP$": 1,
+      "PRP$-JJ": 1,
+      "JJ-CD": 1,
+      "CD-NNS": 1,
+      "NNS-FW": 1
+    },
+    "trigram_freq": {
+      "NNP-JJ-NNS": 1,
+      "JJ-NNS-IN": 2,
+      "NNS-IN-FW": 2,
+      "IN-FW-FW": 3,
+      "FW-FW-FW": 13,
+      "FW-FW-NN": 3,
+      "FW-NN-NN": 3,
+      "NN-NN-VBD": 1,
+      "NN-VBD-JJ": 1,
+      "VBD-JJ-NN": 1,
+      "JJ-NN-FW": 1,
+      "NN-FW-NNP": 2,
+      "FW-NNP-NNP": 2,
+      "NNP-NNP-NN": 1,
+      "NNP-NN-NN": 4,
+      "NN-NN-NN": 4,
+      "NN-NN-IN": 1,
+      "NN-IN-NNS": 1,
+      "IN-NNS-NNP": 1,
+      "NNS-NNP-NN": 2,
+      "NNP-NN-FW": 2,
+      "FW-NNP-VBP": 1,
+      "NNP-VBP-NNS": 1,
+      "VBP-NNS-VBP": 1,
+      "NNS-VBP-JJ": 3,
+      "VBP-JJ-NN": 3,
+      "JJ-NN-JJ": 2,
+      "NN-JJ-NN": 2,
+      "JJ-NN-NN": 2,
+      "NN-NN-NNP": 3,
+      "NN-NNP-NNP": 1,
+      "NNP-NNP-FW": 2,
+      "NNP-FW-FW": 2,
+      "NN-NN-FW": 1,
+      "NN-FW-NN": 2,
+      "FW-NN-JJ": 1,
+      "JJ-NN-IN": 2,
+      "NN-IN-FW": 2,
+      "FW-NN-FW": 1,
+      "NN-NNP-FW": 1,
+      "NNP-FW-NN": 2,
+      "FW-NN-IN": 1,
+      "NN-IN-NNP": 1,
+      "IN-NNP-NNP": 1,
+      "NNP-NNP-NNP": 2,
+      "NNP-NNP-IN": 1,
+      "NNP-IN-JJ": 1,
+      "IN-JJ-FW": 1,
+      "JJ-FW-FW": 1,
+      "FW-FW-NNP": 4,
+      "FW-NN-NNS": 2,
+      "NN-NNS-VBP": 2,
+      "JJ-NN-NNP": 1,
+      "NN-NNP-NN": 1,
+      "NN-NN-NNS": 2,
+      "NN-NN-JJ": 1,
+      "NN-JJ-JJ": 1,
+      "JJ-JJ-NNS": 1,
+      "IN-FW-NN": 1,
+      "NN-NNS-NNP": 2,
+      "NNS-NNP-FW": 1,
+      "FW-NNP-FW": 3,
+      "NNP-FW-VBZ": 1,
+      "FW-VBZ-DT": 1,
+      "VBZ-DT-JJ": 1,
+      "DT-JJ-NN": 1,
+      "FW-NNP-NN": 2,
+      "NN-FW-FW": 1,
+      "NNP-FW-NNP": 2,
+      "NN-NNP-VBD": 1,
+      "NNP-VBD-PRP$": 1,
+      "VBD-PRP$-JJ": 1,
+      "PRP$-JJ-NN": 1,
+      "NN-JJ-CD": 1,
+      "JJ-CD-NNS": 1,
+      "CD-NNS-FW": 1,
+      "NNS-FW-FW": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "FW": 39,
+        "NN": 35,
+        "NNP": 23,
+        "JJ": 13,
+        "NNS": 9
+      },
+      "top_bigrams": {
+        "FW-FW": 21,
+        "NN-NN": 13,
+        "FW-NN": 8,
+        "JJ-NN": 8,
+        "FW-NNP": 8
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 13,
+        "NNP-NN-NN": 4,
+        "NN-NN-NN": 4,
+        "FW-FW-NNP": 4,
+        "IN-FW-FW": 3
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 7,
+    "chunk_counts": {
+      "NP": 43,
+      "VP": 10,
+      "PP": 3,
+      "ADJP": 2
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('autoridades', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0308
+      },
+      {
+        "rule": "S -> NP NP ('de', 'IN') ('este', 'FW') ('fin', 'FW') ('de', 'FW') ('semana', 'FW') NP VP ('en', 'FW') NP (',', ',') NP PP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0154
+      },
+      {
+        "rule": "NP -> ('Las', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0154
+      },
+      {
+        "rule": "NP -> ('lluvias', 'JJ') ('torrenciales', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0154
+      },
+      {
+        "rule": "NP -> ('dejaron', 'NN') ('al', 'NN')",
+        "frequency": 1,
+        "weight": 0.0154
+      },
+      {
+        "rule": "VP -> ('menos', 'VBD') NP",
+        "frequency": 1,
+        "weight": 0.0154
+      },
+      {
+        "rule": "NP -> ('siete', 'JJ') ('muertos', 'NN')",
+        "frequency": 1,
+        "weight": 0.0154
+      },
+      {
+        "rule": "NP -> ('Suiza', 'NNP') ('y', 'NN') ('Francia', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0154
+      },
+      {
+        "rule": "NP -> ('según', 'NN') ('informaron', 'NN') ('las', 'NN')",
+        "frequency": 1,
+        "weight": 0.0154
+      },
+      {
+        "rule": "NP -> ('locales', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0154
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Las"
+      },
+      {
+        "label": "NP",
+        "text": "lluvias torrenciales"
+      },
+      {
+        "label": "NP",
+        "text": "dejaron al"
+      },
+      {
+        "label": "VP",
+        "text": "menos siete muertos"
+      },
+      {
+        "label": "NP",
+        "text": "siete muertos"
+      },
+      {
+        "label": "NP",
+        "text": "Suiza y Francia"
+      },
+      {
+        "label": "NP",
+        "text": "según informaron las"
+      },
+      {
+        "label": "PP",
+        "text": "autoridades locales"
+      },
+      {
+        "label": "NP",
+        "text": "locales"
+      },
+      {
+        "label": "NP",
+        "text": "En tanto"
+      },
+      {
+        "label": "NP",
+        "text": "Suiza"
+      },
+      {
+        "label": "ADJP",
+        "text": "al"
+      },
+      {
+        "label": "NP",
+        "text": "cuatro personas"
+      },
+      {
+        "label": "VP",
+        "text": "fallecieron y otra permanece desaparecida"
+      },
+      {
+        "label": "NP",
+        "text": "y otra permanece desaparecida"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Las/NNP)\n  (NP lluvias/JJ torrenciales/NNS)\n  de/IN\n  este/FW\n  fin/FW\n  de/FW\n  semana/FW\n  (NP dejaron/NN al/NN)\n  (VP menos/VBD (NP siete/JJ muertos/NN))\n  en/FW\n  (NP Suiza/NNP y/NN Francia/NNP)\n  ,/,\n  (NP según/NN informaron/NN las/NN)\n  (PP autoridades/IN (NP locales/NNS))\n  ./.)",
+      "(S\n  (NP En/NNP tanto/NN)\n  ,/,\n  en/FW\n  (NP Suiza/NNP)\n  ,/,\n  (ADJP al/JJ)\n  menos/FW\n  (NP cuatro/NN personas/NNS)\n  (VP fallecieron/VBP (NP y/JJ otra/JJ permanece/NN desaparecida/NN))\n  ./.)",
+      "(S\n  (NP Tres/NNS)\n  (VP de/VBP)\n  las/FW\n  víctimas/FW\n  (NP perdieron/NN la/NN)\n  vida/FW\n  (VP producto/VBZ (NP a/DT un/JJ deslizamiento/NN))\n  de/IN\n  tierra/FW\n  en/FW\n  el/FW\n  (NP sureste/NN del/NN país/NN)\n  ,/,\n  (NP según/JJ la/NN Policía/NNP)\n  del/FW\n  (NP cantón/NN)\n  (PP de/IN (NP Tesino/NNP))\n  ,/,\n  (NP la/NN zona/NNP más/NN afectada/NN)\n  ,/,\n  (ADJP ubicada/JJ)\n  en/FW\n  la/FW\n  vertiente/FW\n  meridional/FW\n  de/FW\n  los/FW\n  (NP Alpes/NNP)\n  ./.)",
+      "(S\n  (NP En/NNP el/NN suroeste/NN)\n  ,/,\n  (NP las/JJ crecidas/NN del/NN río/NN Ródano/NNP)\n  (VP debido/VBZ (NP a/DT las/JJ precipitciones/NNS) y/RB)\n  (VP el/VBP (NP deshielo/NN))\n  ,/,\n  (NP han/NN)\n  (VP\n    obligado/VBD\n    (NP a/DT evacuar/NN)\n    (NP a/DT varios/JJ centenares/NNS))\n  de/IN\n  personas/FW\n  y/CC\n  (NP a/DT cerrar/NN carreteras/NN)\n  ./.)",
+      "(S\n  (NP Mientras/NNP)\n  ,/,\n  en/FW\n  el/FW\n  norte/FW\n  de/FW\n  (NP Italia/NNP)\n  ,/,\n  (VP las/VBZ)\n  (PP autoridades/IN (NP no/DT han/JJ informado/NN))\n  de/IN\n  ninguna/FW\n  (NP víctima/NN)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "RECURSOS_NATURALES",
+      "PAISES",
+      "REGIONES_PROVINCIAS",
+      "DESASTRES_ACCIDENTES_EMERGENCIAS"
+    ],
+    "matches": [
+      {
+        "category": "DESASTRES_ACCIDENTES_EMERGENCIAS",
+        "matched_text": "deslizamiento de tierra",
+        "position": [
+          283,
+          306
+        ],
+        "start": 283,
+        "end": 306
+      },
+      {
+        "category": "RECURSOS_NATURALES",
+        "matched_text": "río",
+        "position": [
+          477,
+          480
+        ],
+        "start": 477,
+        "end": 480
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "francia",
+        "position": [
+          90,
+          97
+        ],
+        "start": 90,
+        "end": 97
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "zona más",
+        "position": [
+          373,
+          381
+        ],
+        "start": 373,
+        "end": 381
+      }
+    ],
+    "match_count": 4
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Tesino",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Alpes",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Ródano",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Valle de Aosta",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "los Bomberos",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Francia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "norte de Italia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Suiza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Policía",
+        "tipo": "Organizacion"
+      }
+    ],
+    "relaciones": []
+  },
+  "sentiment": {
+    "compound": -0.5267,
+    "pos": 0.0,
+    "neu": 0.968,
+    "neg": 0.032,
+    "label": "negative"
+  }
+}

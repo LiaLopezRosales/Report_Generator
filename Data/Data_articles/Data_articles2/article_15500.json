@@ -1,0 +1,725 @@
+{
+  "url": "https://www.telesurtv.net/tormenta-tropical-alberto-deja-tres-muertos-en-mexico/",
+  "title": "Tormenta tropical Alberto deja tres muertos en México - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "México",
+    "Muertos",
+    "Tormenta Alberto"
+  ],
+  "text": "Las intensas lluvias asociadas a la tormenta tropical Alberto sobre el territorio mexicano ya dejan un saldo de al menos tres personas muertas en el norteño estado de Nuevo León, informó este miércoles una fuente oficial.\n“Desgraciadamente (hay) tres fallecimientos que se pudieron haber evitado, tres mejores de edad que estaban jugando. Hacemos un exhortó a los papás a que tengan máximo cuidado, por algo se suspendieron las clases, no es una lluvia ordinaria, es un ciclón tropical”, declaró el mandatario estatal a medios locales.\nExplicó que “apenas van escasas tres o cuatro horas de lluvias y se esperan más de 30 (horas) de lluvia intensa, por eso el llamado del gobierno del estado es a guardarse a la brevedad, viene lo más fuerte apenas”.\nProtección Civil explicó que el primer hecho tuvo lugar en Monterrey, la capital del estado, cuando un joven de 15 años murió al caer a un cauce del río La Silla, cuando buscaba un balón con el que él y un grupo de amigos jugaban fútbol.\nEl segundo caso se dio en el municipio de Allende, en el sur de Nuevo León, cuando dos menores resultaron electrocutados cuando, bajo la lluvia, jugaban con una bicicleta y tocaron un poste de energía eléctrica.\nEl centro de la tormenta Alberto, el primer ciclón tropical que se formó en la temporada 2024, en el Atlántico, ingresará a territorio mexicano en las próximas horas en un punto entre los estados de Tamaulipas y Veracruz, y se prevé que pierda fuerza hasta convertirse en una depresión en la tarde-noche del jueves.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/tormenta-tropical-alberto-deja-tres-muertos-en-mexico/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-06.json",
+    "message_index": 374,
+    "message_id": 72369,
+    "date": "2024-06-20T06:55:12+00:00",
+    "text": "teleSUR\nTormenta tropical Alberto deja tres muertos en México\nhttps://www.telesurtv.net/tormenta-tropical-alberto-deja-tres-muertos-en-mexico/",
+    "photo_path": null,
+    "views": 1469,
+    "reactions": {},
+    "total_reactions": 0
+  },
+  "preprocessing": {
+    "cleaned": "las intensas lluvias asociadas a la tormenta tropical alberto sobre el territorio mexicano ya dejan un saldo de al menos tres personas muertas en el norteño estado de nuevo león, informó este miércoles una fuente oficial. “desgraciadamente (hay) tres fallecimientos que se pudieron haber evitado, tres mejores de edad que estaban jugando. hacemos un exhortó a los papás a que tengan máximo cuidado, por algo se suspendieron las clases, no es una lluvia ordinaria, es un ciclón tropical”, declaró el mandatario estatal a medios locales. explicó que “apenas van escasas tres o cuatro horas de lluvias y se esperan más de 30 (horas) de lluvia intensa, por eso el llamado del gobierno del estado es a guardarse a la brevedad, viene lo más fuerte apenas”. protección civil explicó que el primer hecho tuvo lugar en monterrey, la capital del estado, cuando un joven de 15 años murió al caer a un cauce del río la silla, cuando buscaba un balón con el que él y un grupo de amigos jugaban fútbol. el segundo caso se dio en el municipio de allende, en el sur de nuevo león, cuando dos menores resultaron electrocutados cuando, bajo la lluvia, jugaban con una bicicleta y tocaron un poste de energía eléctrica. el centro de la tormenta alberto, el primer ciclón tropical que se formó en la temporada 2024, en el atlántico, ingresará a territorio mexicano en las próximas horas en un punto entre los estados de tamaulipas y veracruz, y se prevé que pierda fuerza hasta convertirse en una depresión en la tarde-noche del jueves.",
+    "tokens": [
+      "intensas",
+      "lluvias",
+      "asociadas",
+      "tormenta",
+      "tropical",
+      "alberto",
+      "territorio",
+      "mexicano",
+      "dejan",
+      "saldo",
+      "menos",
+      "tres",
+      "personas",
+      "muertas",
+      "norteño",
+      "nuevo",
+      "león",
+      ",",
+      "informó",
+      "miércoles",
+      "fuente",
+      "oficial",
+      ".",
+      "“",
+      "desgraciadamente",
+      "(",
+      ")",
+      "tres",
+      "fallecimientos",
+      "pudieron",
+      "haber",
+      "evitado",
+      ",",
+      "tres",
+      "mejores",
+      "edad",
+      "jugando",
+      ".",
+      "hacemos",
+      "exhortó",
+      "papás",
+      "máximo",
+      "cuidado",
+      ",",
+      "suspendieron",
+      "clases",
+      ",",
+      "lluvia",
+      "ordinaria",
+      ",",
+      "ciclón",
+      "tropical",
+      "”",
+      ",",
+      "declaró",
+      "mandatario",
+      "estatal",
+      "medios",
+      "locales",
+      ".",
+      "explicó",
+      "“",
+      "apenas",
+      "van",
+      "escasas",
+      "tres",
+      "cuatro",
+      "horas",
+      "lluvias",
+      "esperan",
+      "30",
+      "(",
+      "horas",
+      ")",
+      "lluvia",
+      "intensa",
+      ",",
+      "llamado",
+      "gobierno",
+      "guardarse",
+      "brevedad",
+      ",",
+      "viene",
+      "fuerte",
+      "apenas",
+      "”",
+      ".",
+      "protección",
+      "civil",
+      "explicó",
+      "primer",
+      "hecho",
+      "lugar",
+      "monterrey",
+      ",",
+      "capital",
+      ",",
+      "joven",
+      "15",
+      "años",
+      "murió",
+      "caer",
+      "cauce",
+      "río",
+      "silla",
+      ",",
+      "buscaba",
+      "balón",
+      "grupo",
+      "amigos",
+      "jugaban",
+      "fútbol",
+      ".",
+      "segundo",
+      "caso",
+      "dio",
+      "municipio",
+      "allende",
+      ",",
+      "sur",
+      "nuevo",
+      "león",
+      ",",
+      "dos",
+      "menores",
+      "resultaron",
+      "electrocutados",
+      ",",
+      "bajo",
+      "lluvia",
+      ",",
+      "jugaban",
+      "bicicleta",
+      "tocaron",
+      "poste",
+      "energía",
+      "eléctrica",
+      ".",
+      "centro",
+      "tormenta",
+      "alberto",
+      ",",
+      "primer",
+      "ciclón",
+      "tropical",
+      "formó",
+      "temporada",
+      "2024",
+      ",",
+      "atlántico",
+      ",",
+      "ingresará",
+      "territorio",
+      "mexicano",
+      "próximas",
+      "horas",
+      "punto",
+      "tamaulipas",
+      "veracruz",
+      ",",
+      "prevé",
+      "pierda",
+      "fuerza",
+      "convertirse",
+      "depresión",
+      "tarde-noche",
+      "jueves",
+      "."
+    ],
+    "token_count": 168,
+    "sentence_count": 7
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 22,
+      "NN": 104,
+      "VBP": 6,
+      "JJ": 33,
+      "IN": 10,
+      "FW": 52,
+      "NNS": 10,
+      "VBZ": 5,
+      "DT": 1,
+      "CD": 3,
+      "VBD": 1
+    },
+    "bigram_freq": {
+      "NNP-NN": 11,
+      "NN-NN": 63,
+      "NN-VBP": 1,
+      "VBP-NN": 1,
+      "NN-JJ": 14,
+      "JJ-JJ": 6,
+      "JJ-NNP": 3,
+      "JJ-NN": 20,
+      "NN-IN": 9,
+      "IN-FW": 9,
+      "FW-FW": 29,
+      "FW-NNS": 1,
+      "NNS-VBP": 4,
+      "VBP-NNS": 1,
+      "NNS-FW": 2,
+      "FW-NNP": 8,
+      "NNP-NNP": 5,
+      "NN-NNS": 4,
+      "NNS-JJ": 2,
+      "VBP-JJ": 3,
+      "NN-VBZ": 3,
+      "VBZ-VBZ": 1,
+      "VBZ-FW": 1,
+      "FW-JJ": 5,
+      "JJ-FW": 1,
+      "FW-NN": 8,
+      "NN-NNP": 4,
+      "NNP-JJ": 2,
+      "VBZ-DT": 1,
+      "DT-NN": 1,
+      "JJ-NNS": 2,
+      "NNS-VBZ": 1,
+      "VBZ-NNP": 1,
+      "VBP-FW": 1,
+      "FW-CD": 1,
+      "CD-NNS": 2,
+      "NN-FW": 6,
+      "NNP-FW": 3,
+      "IN-CD": 1,
+      "VBZ-VBP": 1,
+      "JJ-CD": 1,
+      "CD-IN": 1,
+      "NNP-VBD": 1,
+      "VBD-JJ": 1
+    },
+    "trigram_freq": {
+      "NNP-NN-NN": 8,
+      "NN-NN-VBP": 1,
+      "NN-VBP-NN": 1,
+      "VBP-NN-JJ": 1,
+      "NN-JJ-JJ": 2,
+      "JJ-JJ-NNP": 2,
+      "JJ-NNP-NN": 2,
+      "NN-NN-NN": 37,
+      "NN-NN-JJ": 10,
+      "NN-JJ-NN": 10,
+      "JJ-NN-IN": 5,
+      "NN-IN-FW": 8,
+      "IN-FW-FW": 5,
+      "FW-FW-NNS": 1,
+      "FW-NNS-VBP": 1,
+      "NNS-VBP-NNS": 1,
+      "VBP-NNS-FW": 1,
+      "NNS-FW-FW": 2,
+      "FW-FW-FW": 19,
+      "FW-FW-NNP": 6,
+      "FW-NNP-NNP": 3,
+      "NNP-NNP-NN": 4,
+      "NN-NN-NNS": 1,
+      "NN-NNS-JJ": 1,
+      "NNS-JJ-JJ": 2,
+      "JJ-JJ-JJ": 2,
+      "NNP-NN-NNS": 2,
+      "NN-NNS-VBP": 2,
+      "NNS-VBP-JJ": 2,
+      "VBP-JJ-NN": 2,
+      "JJ-NN-NN": 12,
+      "NN-NN-VBZ": 3,
+      "NN-VBZ-VBZ": 1,
+      "VBZ-VBZ-FW": 1,
+      "VBZ-FW-FW": 1,
+      "FW-FW-JJ": 1,
+      "FW-JJ-FW": 1,
+      "JJ-FW-NN": 1,
+      "FW-NN-NNP": 1,
+      "NN-NNP-JJ": 2,
+      "NNP-JJ-NN": 2,
+      "NN-VBZ-DT": 1,
+      "VBZ-DT-NN": 1,
+      "DT-NN-JJ": 1,
+      "JJ-JJ-NN": 2,
+      "NN-JJ-NNS": 1,
+      "JJ-NNS-VBZ": 1,
+      "NNS-VBZ-NNP": 1,
+      "VBZ-NNP-NN": 1,
+      "VBP-JJ-NNS": 1,
+      "JJ-NNS-VBP": 1,
+      "NNS-VBP-FW": 1,
+      "VBP-FW-FW": 1,
+      "FW-FW-CD": 1,
+      "FW-CD-NNS": 1,
+      "CD-NNS-FW": 1,
+      "FW-FW-NN": 1,
+      "FW-NN-NN": 6,
+      "NN-NN-FW": 6,
+      "NN-FW-NN": 4,
+      "NN-JJ-NNP": 1,
+      "JJ-NNP-NNP": 1,
+      "NN-FW-NNP": 1,
+      "FW-NNP-FW": 3,
+      "NNP-FW-NN": 2,
+      "FW-NN-JJ": 1,
+      "NN-IN-CD": 1,
+      "IN-CD-NNS": 1,
+      "CD-NNS-JJ": 1,
+      "JJ-NN-JJ": 1,
+      "NN-NN-NNP": 2,
+      "NN-NNP-NNP": 1,
+      "IN-FW-JJ": 3,
+      "FW-JJ-NN": 3,
+      "JJ-NN-NNP": 1,
+      "NN-NNP-NN": 1,
+      "NN-NN-IN": 3,
+      "NNP-FW-FW": 1,
+      "NN-VBZ-VBP": 1,
+      "VBZ-VBP-JJ": 1,
+      "FW-NNP-NN": 2,
+      "NNP-NN-IN": 1,
+      "FW-JJ-CD": 1,
+      "JJ-CD-IN": 1,
+      "CD-IN-FW": 1,
+      "IN-FW-NNP": 1,
+      "NNP-NNP-VBD": 1,
+      "NNP-VBD-JJ": 1,
+      "VBD-JJ-NN": 1,
+      "NN-FW-JJ": 1,
+      "JJ-NN-NNS": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 104,
+        "FW": 52,
+        "JJ": 33,
+        "NNP": 22,
+        "IN": 10
+      },
+      "top_bigrams": {
+        "NN-NN": 63,
+        "FW-FW": 29,
+        "JJ-NN": 20,
+        "NN-JJ": 14,
+        "NNP-NN": 11
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 37,
+        "FW-FW-FW": 19,
+        "JJ-NN-NN": 12,
+        "NN-NN-JJ": 10,
+        "NN-JJ-NN": 10
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 7,
+    "chunk_counts": {
+      "NP": 69,
+      "VP": 15,
+      "ADJP": 2,
+      "PP": 1
+    },
+    "top_rules": [
+      {
+        "rule": "NP -> ('Nuevo', 'NNP') ('León', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0213
+      },
+      {
+        "rule": "VP -> ('tres', 'VBZ') NP",
+        "frequency": 2,
+        "weight": 0.0213
+      },
+      {
+        "rule": "S -> NP VP ('de', 'IN') ('al', 'FW') ('menos', 'FW') NP VP ('en', 'FW') ('el', 'FW') ('norteño', 'FW') ('estado', 'FW') ('de', 'FW') NP (',', ',') NP NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0106
+      },
+      {
+        "rule": "NP -> ('Las', 'NNP') ('intensas', 'NN') ('lluvias', 'NN')",
+        "frequency": 1,
+        "weight": 0.0106
+      },
+      {
+        "rule": "VP -> ('asociadas', 'VBZ') NP NP NP",
+        "frequency": 1,
+        "weight": 0.0106
+      },
+      {
+        "rule": "NP -> ('a', 'DT') ('la', 'NN')",
+        "frequency": 1,
+        "weight": 0.0106
+      },
+      {
+        "rule": "NP -> ('tormenta', 'JJ') ('tropical', 'JJ') ('Alberto', 'NNP') ('sobre', 'NN') ('el', 'NN') ('territorio', 'NN') ('mexicano', 'NN') ('ya', 'NN') ('dejan', 'NN')",
+        "frequency": 1,
+        "weight": 0.0106
+      },
+      {
+        "rule": "NP -> ('un', 'JJ') ('saldo', 'NN')",
+        "frequency": 1,
+        "weight": 0.0106
+      },
+      {
+        "rule": "NP -> ('tres', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0106
+      },
+      {
+        "rule": "VP -> ('personas', 'VBP') NP",
+        "frequency": 1,
+        "weight": 0.0106
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Las intensas lluvias"
+      },
+      {
+        "label": "VP",
+        "text": "asociadas a la tormenta tropical Alberto sobre el territorio mexicano ya dejan un saldo"
+      },
+      {
+        "label": "NP",
+        "text": "a la"
+      },
+      {
+        "label": "NP",
+        "text": "tormenta tropical Alberto sobre el territorio mexicano ya dejan"
+      },
+      {
+        "label": "NP",
+        "text": "un saldo"
+      },
+      {
+        "label": "NP",
+        "text": "tres"
+      },
+      {
+        "label": "VP",
+        "text": "personas muertas"
+      },
+      {
+        "label": "NP",
+        "text": "muertas"
+      },
+      {
+        "label": "NP",
+        "text": "Nuevo León"
+      },
+      {
+        "label": "NP",
+        "text": "informó este miércoles"
+      },
+      {
+        "label": "NP",
+        "text": "una fuente oficial"
+      },
+      {
+        "label": "NP",
+        "text": "“ Desgraciadamente"
+      },
+      {
+        "label": "NP",
+        "text": "hay"
+      },
+      {
+        "label": "VP",
+        "text": "tres fallecimientos que se pudieron haber evitado"
+      },
+      {
+        "label": "NP",
+        "text": "fallecimientos que se pudieron haber evitado"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Las/NNP intensas/NN lluvias/NN)\n  (VP\n    asociadas/VBZ\n    (NP a/DT la/NN)\n    (NP\n      tormenta/JJ\n      tropical/JJ\n      Alberto/NNP\n      sobre/NN\n      el/NN\n      territorio/NN\n      mexicano/NN\n      ya/NN\n      dejan/NN)\n    (NP un/JJ saldo/NN))\n  de/IN\n  al/FW\n  menos/FW\n  (NP tres/NNS)\n  (VP personas/VBP (NP muertas/NNS))\n  en/FW\n  el/FW\n  norteño/FW\n  estado/FW\n  de/FW\n  (NP Nuevo/NNP León/NNP)\n  ,/,\n  (NP informó/JJ este/NN miércoles/NNS)\n  (NP una/JJ fuente/JJ oficial/NN)\n  ./.)",
+      "(S\n  (NP “/NN Desgraciadamente/NNP)\n  (/(\n  (NP hay/NN)\n  )/)\n  (VP\n    tres/VBZ\n    (NP\n      fallecimientos/JJ\n      que/NN\n      se/NN\n      pudieron/NN\n      haber/NN\n      evitado/NN))\n  ,/,\n  (VP tres/VBZ (NP mejores/NNS))\n  de/IN\n  edad/FW\n  (NP que/JJ estaban/NN jugando/NN)\n  ./.)",
+      "(S\n  (NP Hacemos/NNP)\n  (ADJP un/JJ)\n  (VP\n    exhortó/VBD\n    (NP a/DT los/NN papás/NN)\n    (NP a/DT que/NN)\n    (NP tengan/JJ máximo/NN cuidado/NN))\n  ,/,\n  (NP por/NN algo/NN se/NN suspendieron/NN las/NN clases/NNS)\n  ,/,\n  (NP no/DT es/NN)\n  (NP una/JJ lluvia/NN ordinaria/NN)\n  ,/,\n  (NP es/JJ un/JJ ciclón/NN)\n  (NP tropical/JJ ”/NN)\n  ,/,\n  (NP declaró/NN el/NN mandatario/NN)\n  (VP estatal/VBP (NP a/DT medios/JJ locales/NNS))\n  ./.)",
+      "(S\n  (NP Explicó/NNP que/NN “/NNP)\n  (VP apenas/VBZ)\n  van/FW\n  (NP escasas/JJ tres/NNS)\n  (VP o/VBP cuatro/JJ)\n  horas/FW\n  de/FW\n  lluvias/FW\n  y/FW\n  se/FW\n  esperan/FW\n  más/FW\n  de/FW\n  30/CD\n  (/(\n  (NP horas/NNS)\n  )/)\n  de/FW\n  lluvia/FW\n  (NP intensa/NN)\n  ,/,\n  (NP\n    por/JJ\n    eso/NN\n    el/NN\n    llamado/NN\n    del/NN\n    gobierno/NN\n    del/NN\n    estado/NN)\n  (VP es/VBZ (NP a/DT guardarse/NN) (NP a/DT la/NN brevedad/NN))\n  ,/,\n  (NP viene/NN lo/NN más/NN fuerte/NN)\n  (NP apenas/JJ ”/NN)\n  ./.)",
+      "(S\n  (NP Protección/NNP Civil/NNP explicó/NN que/NN)\n  el/FW\n  (NP primer/NN hecho/NN tuvo/NN lugar/NN)\n  (PP en/IN (NP Monterrey/NNP))\n  ,/,\n  (NP la/JJ capital/NN del/NN estado/NN)\n  ,/,\n  (NP cuando/NN)\n  (NP un/JJ joven/NN)\n  de/IN\n  15/CD\n  (NP años/NNS)\n  (ADJP murió/JJ)\n  (VP al/VBP)\n  (VP\n    caer/VB\n    (NP a/DT un/JJ cauce/NN del/NN río/NN La/NNP Silla/NNP))\n  ,/,\n  (NP cuando/NN buscaba/NN)\n  (NP un/JJ balón/NN con/NN el/NN que/NN él/NNP y/NNP)\n  (NP un/JJ grupo/NN)\n  de/IN\n  amigos/FW\n  (NP jugaban/JJ fútbol/NN)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "GOBIERNOS_OFICIALES",
+      "RECURSOS_NATURALES",
+      "CANTIDADES_NUMERICAS",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "REGIONES_PROVINCIAS",
+      "PERIODOS_TEMPORALES",
+      "LOCALIZACIONES_ESPECIFICAS",
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "INFRAESTRUCTURA_SERVICIOS"
+    ],
+    "matches": [
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "capital",
+        "position": [
+          824,
+          831
+        ],
+        "start": 824,
+        "end": 831
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "declaró",
+        "position": [
+          488,
+          495
+        ],
+        "start": 488,
+        "end": 495
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "informó",
+        "position": [
+          179,
+          186
+        ],
+        "start": 179,
+        "end": 186
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "explicó",
+        "position": [
+          536,
+          543
+        ],
+        "start": 536,
+        "end": 543
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "gobierno del estado es",
+        "position": [
+          672,
+          694
+        ],
+        "start": 672,
+        "end": 694
+      },
+      {
+        "category": "RECURSOS_NATURALES",
+        "matched_text": "río",
+        "position": [
+          900,
+          903
+        ],
+        "start": 900,
+        "end": 903
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "energía",
+        "position": [
+          1182,
+          1189
+        ],
+        "start": 1182,
+        "end": 1189
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "estado de",
+        "position": [
+          157,
+          166
+        ],
+        "start": 157,
+        "end": 166
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "centro de",
+        "position": [
+          1204,
+          1213
+        ],
+        "start": 1204,
+        "end": 1213
+      },
+      {
+        "category": "PERIODOS_TEMPORALES",
+        "matched_text": "en la tarde",
+        "position": [
+          1487,
+          1498
+        ],
+        "start": 1487,
+        "end": 1498
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "más de 30",
+        "position": [
+          612,
+          621
+        ],
+        "start": 612,
+        "end": 621
+      }
+    ],
+    "match_count": 11
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Atlántico",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Tamaulipas",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Protección Civil",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Veracruz",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "La Silla",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Alberto",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Allende",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Monterrey",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Nuevo León",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Alberto",
+        "relacion": "DEJAR_INFORMAR",
+        "objeto": "Nuevo León"
+      },
+      {
+        "sujeto": "Protección Civil",
+        "relacion": "EXPLICAR",
+        "objeto": "Monterrey"
+      },
+      {
+        "sujeto": "Protección Civil",
+        "relacion": "EXPLICAR",
+        "objeto": "La Silla"
+      },
+      {
+        "sujeto": "Monterrey",
+        "relacion": "TENER_EXPLICAR",
+        "objeto": "La Silla"
+      },
+      {
+        "sujeto": "Allende",
+        "relacion": "DAR",
+        "objeto": "Nuevo León"
+      },
+      {
+        "sujeto": "Alberto",
+        "relacion": "INGRESAR",
+        "objeto": "Tamaulipas"
+      },
+      {
+        "sujeto": "Alberto",
+        "relacion": "INGRESAR",
+        "objeto": "Veracruz"
+      },
+      {
+        "sujeto": "Atlántico",
+        "relacion": "FORMAR_INGRESAR",
+        "objeto": "Tamaulipas"
+      },
+      {
+        "sujeto": "Atlántico",
+        "relacion": "FORMAR_INGRESAR",
+        "objeto": "Veracruz"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.296,
+    "pos": 0.0,
+    "neu": 0.991,
+    "neg": 0.009,
+    "label": "negative"
+  }
+}

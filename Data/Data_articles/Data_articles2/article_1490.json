@@ -1,0 +1,666 @@
+{
+  "url": "https://www.telesurtv.net/al-menos-13-palestinos-murieron-en-la-franja-de-gaza-durante-nuevos-bombardeos-israelies/",
+  "title": "Al menos 13 palestinos murieron en la Franja de Gaza durante nuevos bombardeos israelíes - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Ataques Israelíes",
+    "Bombardeo Israelí",
+    "Franja de Gaza",
+    "Khan Younis"
+  ],
+  "text": "Israel sigue adelante con su operación genocida contra la Franja de Gaza, asesinando a 13 palestinos este jueves durante un nuevo bombardeo sobre varias zonas del territorio palestino.\nMedios palestinos informaron que al menos siete ciudadanos, incluidos niños y mujeres, murieron cuando aviones israelíes atacaron una casa y un jardín de infancia en la localidad de Jabalia al-Balad, en el norte de la Franja de Gaza.\nSegún la agencia palestina Wafa, un hombre y una mujer embarazada murieron y otros resultaron heridos cuando un dron israelí bombardeó a un grupo de ciudadanos al sur de la ciudad de Khan Yunis.\nTambién se recuperó el cuerpo de un ciudadano tras un bombardeo israelí previo contra la ciudad de Abasan al-Jadida, al este de Khan Yunis.\nUn menor de edad, también murió y otros resultaron heridos en el bombardeó a una tienda de campaña que albergaba a personas desplazadas en Deir al-Balah, en el centro de la Franja de Gaza.\nUn periodistas palestino señaló que varios ciudadanos resultaron heridos por disparos israelíes cerca de un centro de distribución de ayuda en el llamado “eje Morag”, al suroeste de Khan Yunis.\nDesde el inicio del asedio militar israelí el 7 de octubre de 2023, el número de muertos en la Franja de Gaza ha aumentado a 54.084, la mayoría de ellos niños y mujeres. Por su parte el número de heridos asciende a 123.308, mientras que miles de víctimas permanecen bajo los escombros.\n",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/al-menos-13-palestinos-murieron-en-la-franja-de-gaza-durante-nuevos-bombardeos-israelies/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-05.json",
+    "message_index": 172,
+    "message_id": 95164,
+    "date": "2025-05-29T06:55:07+00:00",
+    "text": "teleSUR\nAl menos 13 palestinos murieron en la Franja de Gaza durante nuevos bombardeos israelíes\nhttps://www.telesurtv.net/al-menos-13-palestinos-murieron-en-la-franja-de-gaza-durante-nuevos-bombardeos-israelies/",
+    "photo_path": null,
+    "views": 1786,
+    "reactions": {
+      "🤬": 40,
+      "❤": 1
+    },
+    "total_reactions": 41
+  },
+  "preprocessing": {
+    "cleaned": "israel sigue adelante con su operación genocida contra la franja de gaza, asesinando a 13 palestinos este jueves durante un nuevo bombardeo sobre varias zonas del territorio palestino. medios palestinos informaron que al menos siete ciudadanos, incluidos niños y mujeres, murieron cuando aviones israelíes atacaron una casa y un jardín de infancia en la localidad de jabalia al-balad, en el norte de la franja de gaza. según la agencia palestina wafa, un hombre y una mujer embarazada murieron y otros resultaron heridos cuando un dron israelí bombardeó a un grupo de ciudadanos al sur de la ciudad de khan yunis. también se recuperó el cuerpo de un ciudadano tras un bombardeo israelí previo contra la ciudad de abasan al-jadida, al este de khan yunis. un menor de edad, también murió y otros resultaron heridos en el bombardeó a una tienda de campaña que albergaba a personas desplazadas en deir al-balah, en el centro de la franja de gaza. un periodistas palestino señaló que varios ciudadanos resultaron heridos por disparos israelíes cerca de un centro de distribución de ayuda en el llamado “eje morag”, al suroeste de khan yunis. desde el inicio del asedio militar israelí el 7 de octubre de 2023, el número de muertos en la franja de gaza ha aumentado a 54.084, la mayoría de ellos niños y mujeres. por su parte el número de heridos asciende a 123.308, mientras que miles de víctimas permanecen bajo los escombros.",
+    "tokens": [
+      "israel",
+      "sigue",
+      "adelante",
+      "operación",
+      "genocida",
+      "franja",
+      "gaza",
+      ",",
+      "asesinando",
+      "13",
+      "palestinos",
+      "jueves",
+      "nuevo",
+      "bombardeo",
+      "varias",
+      "zonas",
+      "territorio",
+      "palestino",
+      ".",
+      "medios",
+      "palestinos",
+      "informaron",
+      "menos",
+      "siete",
+      "ciudadanos",
+      ",",
+      "incluidos",
+      "niños",
+      "mujeres",
+      ",",
+      "murieron",
+      "aviones",
+      "israelíes",
+      "atacaron",
+      "casa",
+      "jardín",
+      "infancia",
+      "localidad",
+      "jabalia",
+      "al-balad",
+      ",",
+      "norte",
+      "franja",
+      "gaza",
+      ".",
+      "según",
+      "agencia",
+      "palestina",
+      "wafa",
+      ",",
+      "hombre",
+      "mujer",
+      "embarazada",
+      "murieron",
+      "resultaron",
+      "heridos",
+      "dron",
+      "israelí",
+      "bombardeó",
+      "grupo",
+      "ciudadanos",
+      "sur",
+      "ciudad",
+      "khan",
+      "yunis",
+      ".",
+      "recuperó",
+      "cuerpo",
+      "ciudadano",
+      "tras",
+      "bombardeo",
+      "israelí",
+      "previo",
+      "ciudad",
+      "abasan",
+      "al-jadida",
+      ",",
+      "khan",
+      "yunis",
+      ".",
+      "menor",
+      "edad",
+      ",",
+      "murió",
+      "resultaron",
+      "heridos",
+      "bombardeó",
+      "tienda",
+      "campaña",
+      "albergaba",
+      "personas",
+      "desplazadas",
+      "deir",
+      "al-balah",
+      ",",
+      "centro",
+      "franja",
+      "gaza",
+      ".",
+      "periodistas",
+      "palestino",
+      "señaló",
+      "varios",
+      "ciudadanos",
+      "resultaron",
+      "heridos",
+      "disparos",
+      "israelíes",
+      "cerca",
+      "centro",
+      "distribución",
+      "ayuda",
+      "llamado",
+      "“",
+      "eje",
+      "morag",
+      "”",
+      ",",
+      "suroeste",
+      "khan",
+      "yunis",
+      ".",
+      "inicio",
+      "asedio",
+      "militar",
+      "israelí",
+      "7",
+      "octubre",
+      "2023",
+      ",",
+      "número",
+      "muertos",
+      "franja",
+      "gaza",
+      "aumentado",
+      "54.084",
+      ",",
+      "mayoría",
+      "niños",
+      "mujeres",
+      ".",
+      "parte",
+      "número",
+      "heridos",
+      "asciende",
+      "123.308",
+      ",",
+      "mientras",
+      "miles",
+      "víctimas",
+      "permanecen",
+      "bajo",
+      "escombros",
+      "."
+    ],
+    "token_count": 154,
+    "sentence_count": 8
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 28,
+      "NN": 70,
+      "FW": 47,
+      "VBD": 4,
+      "CD": 5,
+      "NNS": 13,
+      "VBP": 8,
+      "JJ": 30,
+      "VBZ": 1,
+      "IN": 17,
+      "RB": 3,
+      "$": 1
+    },
+    "bigram_freq": {
+      "NNP-NN": 1,
+      "NN-NN": 36,
+      "NN-FW": 4,
+      "FW-NNP": 11,
+      "NNP-FW": 7,
+      "NNP-VBD": 4,
+      "VBD-CD": 1,
+      "CD-NNS": 2,
+      "NNS-VBP": 7,
+      "VBP-NNS": 1,
+      "VBP-JJ": 4,
+      "JJ-JJ": 2,
+      "JJ-NN": 20,
+      "NN-CD": 1,
+      "CD-NN": 2,
+      "NN-NNP": 2,
+      "NNP-VBZ": 1,
+      "VBZ-NN": 1,
+      "NN-IN": 15,
+      "IN-NNS": 1,
+      "NNS-JJ": 3,
+      "JJ-NNS": 6,
+      "VBP-RB": 1,
+      "RB-JJ": 1,
+      "NN-JJ": 8,
+      "IN-FW": 8,
+      "FW-FW": 25,
+      "NNP-JJ": 4,
+      "NNP-NNP": 9,
+      "NNP-IN": 1,
+      "IN-NN": 2,
+      "FW-JJ": 3,
+      "JJ-FW": 2,
+      "VBD-JJ": 2,
+      "IN-JJ": 2,
+      "NN-NNS": 2,
+      "IN-NNP": 4,
+      "FW-NN": 6,
+      "VBP-IN": 1,
+      "NNP-NNS": 1,
+      "NNS-NN": 1,
+      "NN-VBP": 1,
+      "VBP-NN": 1,
+      "FW-CD": 1,
+      "VBD-RB": 1,
+      "RB-CD": 1,
+      "CD-JJ": 1,
+      "NNS-NNP": 1,
+      "FW-$": 1,
+      "$-CD": 1,
+      "NNS-RB": 1,
+      "RB-FW": 1
+    },
+    "trigram_freq": {
+      "NNP-NN-NN": 1,
+      "NN-NN-NN": 20,
+      "NN-NN-FW": 2,
+      "NN-FW-NNP": 1,
+      "FW-NNP-FW": 5,
+      "NNP-FW-NNP": 4,
+      "FW-NNP-VBD": 2,
+      "NNP-VBD-CD": 1,
+      "VBD-CD-NNS": 1,
+      "CD-NNS-VBP": 1,
+      "NNS-VBP-NNS": 1,
+      "VBP-NNS-VBP": 1,
+      "NNS-VBP-JJ": 3,
+      "VBP-JJ-JJ": 1,
+      "JJ-JJ-NN": 2,
+      "JJ-NN-NN": 8,
+      "NN-NN-CD": 1,
+      "NN-CD-NN": 1,
+      "CD-NN-NN": 1,
+      "NN-NN-NNP": 1,
+      "NN-NNP-VBZ": 1,
+      "NNP-VBZ-NN": 1,
+      "VBZ-NN-NN": 1,
+      "NN-NN-IN": 6,
+      "NN-IN-NNS": 1,
+      "IN-NNS-JJ": 1,
+      "NNS-JJ-NNS": 2,
+      "JJ-NNS-VBP": 4,
+      "VBP-JJ-NNS": 3,
+      "NNS-VBP-RB": 1,
+      "VBP-RB-JJ": 1,
+      "RB-JJ-NN": 1,
+      "JJ-NN-JJ": 2,
+      "NN-JJ-NN": 8,
+      "JJ-NN-IN": 7,
+      "NN-IN-FW": 8,
+      "IN-FW-FW": 3,
+      "FW-FW-FW": 17,
+      "FW-FW-NNP": 5,
+      "FW-NNP-JJ": 1,
+      "NNP-JJ-NN": 4,
+      "NN-FW-FW": 2,
+      "FW-NNP-NNP": 3,
+      "NNP-NNP-NNP": 4,
+      "NNP-NNP-IN": 1,
+      "NNP-IN-NN": 1,
+      "IN-NN-NNP": 1,
+      "NN-NNP-JJ": 1,
+      "NN-NN-JJ": 5,
+      "IN-FW-JJ": 2,
+      "FW-JJ-FW": 1,
+      "JJ-FW-FW": 2,
+      "NNP-NNP-VBD": 1,
+      "NNP-VBD-JJ": 2,
+      "VBD-JJ-JJ": 1,
+      "NN-IN-JJ": 2,
+      "IN-JJ-NN": 2,
+      "JJ-NN-NNS": 2,
+      "NN-NNS-JJ": 1,
+      "NNS-JJ-NN": 1,
+      "NN-IN-NNP": 3,
+      "IN-NNP-JJ": 2,
+      "IN-NNP-NNP": 2,
+      "NNP-NNP-FW": 2,
+      "NNP-FW-FW": 1,
+      "FW-FW-NN": 1,
+      "FW-NN-NN": 3,
+      "NN-IN-NN": 1,
+      "IN-NN-NN": 1,
+      "IN-FW-NN": 1,
+      "FW-NN-JJ": 1,
+      "FW-JJ-NN": 1,
+      "NN-NNS-VBP": 1,
+      "NNS-VBP-IN": 1,
+      "VBP-IN-NNP": 1,
+      "JJ-NN-FW": 1,
+      "NN-FW-NN": 1,
+      "FW-NN-IN": 2,
+      "IN-FW-NNP": 1,
+      "NNP-NNP-NNS": 1,
+      "NNP-NNS-NN": 1,
+      "NNS-NN-VBP": 1,
+      "NN-VBP-JJ": 1,
+      "NNS-VBP-NN": 1,
+      "VBP-NN-NN": 1,
+      "NNP-FW-NN": 2,
+      "FW-FW-CD": 1,
+      "FW-CD-NN": 1,
+      "CD-NN-FW": 1,
+      "NNP-VBD-RB": 1,
+      "VBD-RB-CD": 1,
+      "RB-CD-JJ": 1,
+      "CD-JJ-FW": 1,
+      "FW-FW-JJ": 1,
+      "FW-JJ-NNS": 1,
+      "JJ-NNS-NNP": 1,
+      "NNS-NNP-VBD": 1,
+      "VBD-JJ-NN": 1,
+      "IN-FW-$": 1,
+      "FW-$-CD": 1,
+      "$-CD-NNS": 1,
+      "CD-NNS-JJ": 1,
+      "JJ-NNS-RB": 1,
+      "NNS-RB-FW": 1,
+      "RB-FW-NN": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 70,
+        "FW": 47,
+        "JJ": 30,
+        "NNP": 28,
+        "IN": 17
+      },
+      "top_bigrams": {
+        "NN-NN": 36,
+        "FW-FW": 25,
+        "JJ-NN": 20,
+        "NN-IN": 15,
+        "FW-NNP": 11
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 20,
+        "FW-FW-FW": 17,
+        "JJ-NN-NN": 8,
+        "NN-JJ-NN": 8,
+        "NN-IN-FW": 8
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 8,
+    "chunk_counts": {
+      "NP": 57,
+      "VP": 14,
+      "PP": 8,
+      "ADJP": 2
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 5,
+        "weight": 0.0562
+      },
+      {
+        "rule": "NP -> ('Franja', 'NNP')",
+        "frequency": 4,
+        "weight": 0.0449
+      },
+      {
+        "rule": "NP -> ('Gaza', 'NNP')",
+        "frequency": 3,
+        "weight": 0.0337
+      },
+      {
+        "rule": "NP -> ('Khan', 'NNP') ('Yunis', 'NNP')",
+        "frequency": 3,
+        "weight": 0.0337
+      },
+      {
+        "rule": "S -> NP ('la', 'FW') NP ('de', 'FW') NP (',', ',') VP ('a', 'DT') ('13', 'CD') NP VP VP ('zonas', 'CD') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0112
+      },
+      {
+        "rule": "NP -> ('Israel', 'NNP') ('sigue', 'NN') ('adelante', 'NN') ('con', 'NN') ('su', 'NN') ('operación', 'NN') ('genocida', 'NN') ('contra', 'NN')",
+        "frequency": 1,
+        "weight": 0.0112
+      },
+      {
+        "rule": "VP -> ('asesinando', 'VBZ')",
+        "frequency": 1,
+        "weight": 0.0112
+      },
+      {
+        "rule": "NP -> ('palestinos', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0112
+      },
+      {
+        "rule": "VP -> ('este', 'VBP') NP",
+        "frequency": 1,
+        "weight": 0.0112
+      },
+      {
+        "rule": "NP -> ('jueves', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0112
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Israel sigue adelante con su operación genocida contra"
+      },
+      {
+        "label": "NP",
+        "text": "Franja"
+      },
+      {
+        "label": "NP",
+        "text": "Gaza"
+      },
+      {
+        "label": "VP",
+        "text": "asesinando"
+      },
+      {
+        "label": "NP",
+        "text": "palestinos"
+      },
+      {
+        "label": "VP",
+        "text": "este jueves"
+      },
+      {
+        "label": "NP",
+        "text": "jueves"
+      },
+      {
+        "label": "VP",
+        "text": "durante un nuevo bombardeo sobre varias"
+      },
+      {
+        "label": "NP",
+        "text": "un nuevo bombardeo sobre varias"
+      },
+      {
+        "label": "NP",
+        "text": "del territorio palestino"
+      },
+      {
+        "label": "NP",
+        "text": "Medios"
+      },
+      {
+        "label": "VP",
+        "text": "palestinos informaron que"
+      },
+      {
+        "label": "NP",
+        "text": "informaron que"
+      },
+      {
+        "label": "PP",
+        "text": "al menos"
+      },
+      {
+        "label": "NP",
+        "text": "menos"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP\n    Israel/NNP\n    sigue/NN\n    adelante/NN\n    con/NN\n    su/NN\n    operación/NN\n    genocida/NN\n    contra/NN)\n  la/FW\n  (NP Franja/NNP)\n  de/FW\n  (NP Gaza/NNP)\n  ,/,\n  (VP asesinando/VBZ)\n  a/DT\n  13/CD\n  (NP palestinos/NNS)\n  (VP este/VBP (NP jueves/NNS))\n  (VP\n    durante/VBP\n    (NP un/JJ nuevo/JJ bombardeo/NN sobre/NN varias/NN))\n  zonas/CD\n  (NP del/NN territorio/NN palestino/NN)\n  ./.)",
+      "(S\n  (NP Medios/NNS)\n  (VP palestinos/VBP (NP informaron/NN que/NN))\n  (PP al/IN (NP menos/NNS))\n  (NP siete/JJ ciudadanos/NNS)\n  ,/,\n  (NP incluidos/JJ niños/NN y/NN mujeres/NNS)\n  ,/,\n  murieron/FW\n  (NP cuando/NN aviones/NNS)\n  (VP\n    israelíes/VBP\n    atacaron/RB\n    (NP una/JJ casa/NN y/NN)\n    (NP un/JJ jardín/NN))\n  de/IN\n  infancia/FW\n  en/FW\n  la/FW\n  localidad/FW\n  de/FW\n  (NP Jabalia/NNP al-Balad/NN)\n  ,/,\n  en/FW\n  el/FW\n  norte/FW\n  de/FW\n  la/FW\n  (NP Franja/NNP)\n  de/FW\n  (NP Gaza/NNP)\n  ./.)",
+      "(S\n  (NP Según/NNP la/NN agencia/NN palestina/NN Wafa/NNP)\n  ,/,\n  (NP un/JJ hombre/NN y/NN)\n  (NP una/JJ mujer/NN embarazada/NN murieron/NN y/NN)\n  (PP otros/IN (NP resultaron/NN heridos/NN cuando/NN))\n  (NP un/JJ dron/NN israelí/NN)\n  (VP bombardeó/VBD (NP a/DT un/JJ grupo/NN))\n  de/IN\n  ciudadanos/FW\n  (ADJP al/JJ)\n  sur/FW\n  de/FW\n  la/FW\n  ciudad/FW\n  de/FW\n  (NP Khan/NNP Yunis/NNP)\n  ./.)",
+      "(S\n  (NP También/NNP)\n  (VP se/VBD (NP recuperó/JJ el/JJ cuerpo/NN))\n  (PP de/IN (NP un/JJ ciudadano/NN tras/NNS))\n  (NP un/JJ bombardeo/NN israelí/NN previo/NN)\n  (NP contra/JJ la/NN ciudad/NN)\n  (PP de/IN (NP Abasan/NNP))\n  (ADJP al-Jadida/JJ)\n  ,/,\n  (NP al/JJ este/NN)\n  (PP de/IN (NP Khan/NNP Yunis/NNP))\n  ./.)",
+      "(S\n  (NP Un/NNP menor/NN)\n  de/FW\n  edad/FW\n  ,/,\n  también/EX\n  murió/FW\n  (NP y/NN otros/NNS)\n  (VP resultaron/VBP heridos/JJ)\n  en/FW\n  el/FW\n  bombardeó/FW\n  (NP a/DT una/JJ tienda/NN)\n  de/IN\n  campaña/FW\n  (NP que/NN)\n  (VP albergaba/VBZ (NP a/DT personas/JJ desplazadas/NN))\n  (PP en/IN (NP Deir/NNP al-Balah/NN))\n  ,/,\n  en/FW\n  el/FW\n  centro/FW\n  de/FW\n  la/FW\n  (NP Franja/NNP)\n  de/FW\n  (NP Gaza/NNP)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "GRUPOS_ESPECIFICOS",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "LOCALIZACIONES_ESPECIFICAS",
+      "PAISES",
+      "CONFLICTOS_ARMADOS_OPERACIONES",
+      "FECHAS_ESPECIFICAS"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "asedio militar",
+        "position": [
+          1157,
+          1171
+        ],
+        "start": 1157,
+        "end": 1171
+      },
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "bombardeó",
+        "position": [
+          544,
+          553
+        ],
+        "start": 544,
+        "end": 553
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "señaló",
+        "position": [
+          968,
+          974
+        ],
+        "start": 968,
+        "end": 974
+      },
+      {
+        "category": "GRUPOS_ESPECIFICOS",
+        "matched_text": "mujeres",
+        "position": [
+          263,
+          270
+        ],
+        "start": 263,
+        "end": 270
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "palestina",
+        "position": [
+          436,
+          445
+        ],
+        "start": 436,
+        "end": 445
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "centro de",
+        "position": [
+          914,
+          923
+        ],
+        "start": 914,
+        "end": 923
+      },
+      {
+        "category": "FECHAS_ESPECIFICAS",
+        "matched_text": "7 de octubre de 2023",
+        "position": [
+          1183,
+          1203
+        ],
+        "start": 1183,
+        "end": 1203
+      }
+    ],
+    "match_count": 7
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Franja de Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Morag",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Wafa",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Israel",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Deir al-Balah",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Khan Yunis",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Abasan al-Jadida",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Jabalia al-Balad",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Israel",
+        "relacion": "SEGUIR",
+        "objeto": "Franja de Gaza"
+      },
+      {
+        "sujeto": "Wafa",
+        "relacion": "MORIR",
+        "objeto": "Khan Yunis"
+      },
+      {
+        "sujeto": "Deir al-Balah",
+        "relacion": "ALBERGAR_RESULTAR_MORIR",
+        "objeto": "Franja de Gaza"
+      },
+      {
+        "sujeto": "Morag",
+        "relacion": "CERCA_RESULTAR_SE_ALAR",
+        "objeto": "Khan Yunis"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.34,
+    "pos": 0.011,
+    "neu": 0.989,
+    "neg": 0.0,
+    "label": "positive"
+  }
+}

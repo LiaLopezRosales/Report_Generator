@@ -1,0 +1,696 @@
+{
+  "url": "https://www.telesurtv.net/entregan-titulos-de-tierras-a-35-familias-victimas-del-conflicto-en-antioquia-colombia/",
+  "title": "Entregan títulos de tierras a 35 familias víctimas del conflicto en Antioquia, Colombia - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "Colombia",
+    "Gobierno",
+    "Ituango",
+    "tierras"
+  ],
+  "text": "\nLa Agencia Nacional de Tierras de Colombia informó sobre la entrega de títulos de propiedad a 35 familias campesinas, víctimas del conflicto armado, en el corregimiento de El Aro, departamento de Antioquia (noroeste).\n“La  Reforma Agraria del presidente Gustavo Petro es con las víctimas del conflicto: en un hecho histórico llegamos al corregimiento de El Aro, en Ituango (Antioquia), donde les titulamos más de 800 hectáreas a 35 familias campesinas. Renace la esperanza en escenarios de conflicto”, precisó mediante su cuenta en la red social X.\nLos terrenos estarán destinados a la siembra de maíz, arroz, plátano y frijol.\nEl ente afirmó que el otorgamiento de esos títulos constituye “una forma de preparación”, debido a que la mayoría “no cuenta con escrituras ni títulos de los predios”.\n“Así es mucho más difícil que lleguen los proyectos al territorio. Por eso es tan importante esta visita del Gobierno”, aseguró un campesino perteneciente al grupo de beneficiados.\nEsta medida permite que las familias tengan seguridad jurídica y se beneficien de la reforma agraria impulsada por el Gobierno colombiano.\nEsta entrega acontece luego de 27 años de la masacre cometida por paramilitares en el municipio Ituango, donde varios de los beneficiados fueron testigos del hecho que más de diez personas muertas.\nAdemás, se registró el incendio de  42 casas y “más de 1.400 personas desplazadas”, según apunta la Agencia en X.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/entregan-titulos-de-tierras-a-35-familias-victimas-del-conflicto-en-antioquia-colombia/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-06.json",
+    "message_index": 545,
+    "message_id": 72198,
+    "date": "2024-06-15T02:55:12+00:00",
+    "text": "teleSUR\nEntregan títulos de tierras a 35 familias víctimas del conflicto en Antioquia, Colombia\nhttps://www.telesurtv.net/entregan-titulos-de-tierras-a-35-familias-victimas-del-conflicto-en-antioquia-colombia/",
+    "photo_path": null,
+    "views": 1339,
+    "reactions": {},
+    "total_reactions": 0
+  },
+  "preprocessing": {
+    "cleaned": "la agencia nacional de tierras de colombia informó sobre la entrega de títulos de propiedad a 35 familias campesinas, víctimas del conflicto armado, en el corregimiento de el aro, departamento de antioquia (noroeste). “la reforma agraria del presidente gustavo petro es con las víctimas del conflicto: en un hecho histórico llegamos al corregimiento de el aro, en ituango (antioquia), donde les titulamos más de 800 hectáreas a 35 familias campesinas. renace la esperanza en escenarios de conflicto”, precisó mediante su cuenta en la red social x. los terrenos estarán destinados a la siembra de maíz, arroz, plátano y frijol. el ente afirmó que el otorgamiento de esos títulos constituye “una forma de preparación”, debido a que la mayoría “no cuenta con escrituras ni títulos de los predios”. “así es mucho más difícil que lleguen los proyectos al territorio. por eso es tan importante esta visita del gobierno”, aseguró un campesino perteneciente al grupo de beneficiados. esta medida permite que las familias tengan seguridad jurídica y se beneficien de la reforma agraria impulsada por el gobierno colombiano. esta entrega acontece luego de 27 años de la masacre cometida por paramilitares en el municipio ituango, donde varios de los beneficiados fueron testigos del hecho que más de diez personas muertas. además, se registró el incendio de 42 casas y “más de 1.400 personas desplazadas”, según apunta la agencia en x.",
+    "tokens": [
+      "agencia",
+      "nacional",
+      "tierras",
+      "colombia",
+      "informó",
+      "entrega",
+      "títulos",
+      "propiedad",
+      "35",
+      "familias",
+      "campesinas",
+      ",",
+      "víctimas",
+      "conflicto",
+      "armado",
+      ",",
+      "corregimiento",
+      "aro",
+      ",",
+      "departamento",
+      "antioquia",
+      "(",
+      "noroeste",
+      ")",
+      ".",
+      "“",
+      "reforma",
+      "agraria",
+      "presidente",
+      "gustavo",
+      "petro",
+      "víctimas",
+      "conflicto",
+      ":",
+      "hecho",
+      "histórico",
+      "llegamos",
+      "corregimiento",
+      "aro",
+      ",",
+      "ituango",
+      "(",
+      "antioquia",
+      ")",
+      ",",
+      "titulamos",
+      "800",
+      "hectáreas",
+      "35",
+      "familias",
+      "campesinas",
+      ".",
+      "renace",
+      "esperanza",
+      "escenarios",
+      "conflicto",
+      "”",
+      ",",
+      "precisó",
+      "mediante",
+      "cuenta",
+      "red",
+      "social",
+      "x.",
+      "terrenos",
+      "destinados",
+      "siembra",
+      "maíz",
+      ",",
+      "arroz",
+      ",",
+      "plátano",
+      "frijol",
+      ".",
+      "ente",
+      "afirmó",
+      "otorgamiento",
+      "títulos",
+      "constituye",
+      "“",
+      "forma",
+      "preparación",
+      "”",
+      ",",
+      "debido",
+      "mayoría",
+      "“",
+      "cuenta",
+      "escrituras",
+      "títulos",
+      "predios",
+      "”",
+      ".",
+      "“",
+      "así",
+      "difícil",
+      "lleguen",
+      "proyectos",
+      "territorio",
+      ".",
+      "tan",
+      "importante",
+      "visita",
+      "gobierno",
+      "”",
+      ",",
+      "aseguró",
+      "campesino",
+      "perteneciente",
+      "grupo",
+      "beneficiados",
+      ".",
+      "medida",
+      "permite",
+      "familias",
+      "seguridad",
+      "jurídica",
+      "beneficien",
+      "reforma",
+      "agraria",
+      "impulsada",
+      "gobierno",
+      "colombiano",
+      ".",
+      "entrega",
+      "acontece",
+      "luego",
+      "27",
+      "años",
+      "masacre",
+      "cometida",
+      "paramilitares",
+      "municipio",
+      "ituango",
+      ",",
+      "varios",
+      "beneficiados",
+      "testigos",
+      "hecho",
+      "diez",
+      "personas",
+      "muertas",
+      ".",
+      "además",
+      ",",
+      "registró",
+      "incendio",
+      "42",
+      "casas",
+      "“",
+      "1.400",
+      "personas",
+      "desplazadas",
+      "”",
+      ",",
+      "según",
+      "apunta",
+      "agencia",
+      "x",
+      "."
+    ],
+    "token_count": 160,
+    "sentence_count": 10
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 30,
+      "FW": 58,
+      "IN": 11,
+      "VBP": 6,
+      "JJ": 23,
+      "CD": 6,
+      "NNS": 10,
+      "NN": 66,
+      "VBZ": 8,
+      "DT": 1
+    },
+    "bigram_freq": {
+      "NNP-NNP": 9,
+      "NNP-FW": 6,
+      "FW-NNP": 6,
+      "NNP-IN": 1,
+      "IN-NNP": 2,
+      "NNP-VBP": 2,
+      "VBP-JJ": 3,
+      "JJ-FW": 2,
+      "FW-FW": 33,
+      "FW-CD": 2,
+      "CD-NNS": 5,
+      "NNS-JJ": 3,
+      "FW-NN": 10,
+      "NN-NN": 30,
+      "NN-IN": 10,
+      "IN-FW": 5,
+      "NNP-NN": 6,
+      "NN-FW": 8,
+      "NN-NNP": 8,
+      "NNP-VBZ": 5,
+      "VBZ-NN": 1,
+      "NN-NNS": 2,
+      "NNS-VBP": 4,
+      "VBP-FW": 1,
+      "FW-JJ": 4,
+      "JJ-NN": 15,
+      "NN-VBZ": 2,
+      "VBZ-JJ": 4,
+      "IN-CD": 3,
+      "NNS-CD": 1,
+      "JJ-NNP": 2,
+      "IN-NN": 1,
+      "NN-JJ": 5,
+      "JJ-JJ": 3,
+      "NNP-JJ": 1,
+      "VBZ-FW": 2,
+      "FW-VBZ": 1,
+      "VBZ-DT": 1,
+      "DT-NN": 1,
+      "FW-NNS": 2,
+      "NNS-NNP": 1,
+      "JJ-NNS": 1,
+      "VBP-NN": 1,
+      "CD-NN": 1,
+      "VBP-NNP": 1,
+      "NNS-FW": 1
+    },
+    "trigram_freq": {
+      "NNP-NNP-NNP": 2,
+      "NNP-NNP-FW": 4,
+      "NNP-FW-NNP": 2,
+      "FW-NNP-IN": 1,
+      "NNP-IN-NNP": 1,
+      "IN-NNP-VBP": 1,
+      "NNP-VBP-JJ": 2,
+      "VBP-JJ-FW": 1,
+      "JJ-FW-FW": 2,
+      "FW-FW-FW": 22,
+      "FW-FW-CD": 2,
+      "FW-CD-NNS": 2,
+      "CD-NNS-JJ": 3,
+      "NNS-JJ-FW": 1,
+      "FW-FW-NN": 4,
+      "FW-NN-NN": 6,
+      "NN-NN-IN": 4,
+      "NN-IN-FW": 5,
+      "IN-FW-FW": 2,
+      "FW-FW-NNP": 2,
+      "FW-NNP-NNP": 2,
+      "NNP-NNP-NN": 2,
+      "NNP-NN-FW": 1,
+      "NN-FW-NNP": 1,
+      "FW-NNP-NN": 2,
+      "NNP-NN-NNP": 2,
+      "NN-NNP-NNP": 2,
+      "NNP-FW-NN": 3,
+      "FW-NN-NNP": 1,
+      "NNP-NNP-VBZ": 1,
+      "NNP-VBZ-NN": 1,
+      "VBZ-NN-NNS": 1,
+      "NN-NNS-VBP": 2,
+      "NNS-VBP-FW": 1,
+      "VBP-FW-NN": 1,
+      "FW-NN-FW": 2,
+      "NN-FW-JJ": 2,
+      "FW-JJ-NN": 4,
+      "JJ-NN-NN": 8,
+      "NN-NN-NN": 14,
+      "NN-IN-NNP": 1,
+      "IN-NNP-NNP": 1,
+      "NNP-NN-VBZ": 1,
+      "NN-VBZ-JJ": 2,
+      "VBZ-JJ-NN": 2,
+      "JJ-NN-IN": 5,
+      "NN-IN-CD": 3,
+      "IN-CD-NNS": 2,
+      "CD-NNS-CD": 1,
+      "NNS-CD-NNS": 1,
+      "NNS-JJ-NNP": 1,
+      "JJ-NNP-NNP": 1,
+      "NNP-FW-FW": 1,
+      "FW-NN-IN": 1,
+      "NN-IN-NN": 1,
+      "IN-NN-JJ": 1,
+      "NN-JJ-JJ": 1,
+      "JJ-JJ-NNP": 1,
+      "JJ-NNP-JJ": 1,
+      "NNP-JJ-NN": 1,
+      "NN-NN-FW": 4,
+      "NN-FW-FW": 4,
+      "FW-FW-JJ": 2,
+      "NN-NN-NNP": 2,
+      "NN-NNP-VBZ": 4,
+      "NNP-VBZ-FW": 2,
+      "VBZ-FW-NN": 1,
+      "NN-NN-JJ": 4,
+      "NN-JJ-NN": 4,
+      "IN-FW-NN": 1,
+      "NN-FW-VBZ": 1,
+      "FW-VBZ-DT": 1,
+      "VBZ-DT-NN": 1,
+      "DT-NN-NN": 1,
+      "IN-FW-NNS": 1,
+      "FW-NNS-NNP": 1,
+      "NNS-NNP-VBP": 1,
+      "VBP-JJ-NN": 2,
+      "NN-NN-VBZ": 1,
+      "VBZ-JJ-NNS": 1,
+      "JJ-NNS-VBP": 1,
+      "NNS-VBP-NN": 1,
+      "VBP-NN-NNP": 1,
+      "NNP-VBZ-JJ": 2,
+      "VBZ-JJ-JJ": 1,
+      "JJ-JJ-NN": 2,
+      "JJ-NN-NNP": 2,
+      "NN-NNP-NN": 2,
+      "NNP-NN-NN": 1,
+      "IN-FW-NNP": 1,
+      "FW-NNP-FW": 1,
+      "IN-CD-NN": 1,
+      "CD-NN-FW": 1,
+      "NN-NN-NNS": 1,
+      "NNS-VBP-JJ": 1,
+      "VBZ-FW-FW": 1,
+      "FW-FW-NNS": 1,
+      "FW-NNS-VBP": 1,
+      "NNS-VBP-NNP": 1,
+      "VBP-NNP-FW": 1,
+      "CD-NNS-FW": 1,
+      "NNS-FW-FW": 1,
+      "NNS-JJ-JJ": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 66,
+        "FW": 58,
+        "NNP": 30,
+        "JJ": 23,
+        "IN": 11
+      },
+      "top_bigrams": {
+        "FW-FW": 33,
+        "NN-NN": 30,
+        "JJ-NN": 15,
+        "FW-NN": 10,
+        "NN-IN": 10
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 22,
+        "NN-NN-NN": 14,
+        "JJ-NN-NN": 8,
+        "FW-NN-NN": 6,
+        "NN-IN-FW": 5
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 10,
+    "chunk_counts": {
+      "NP": 68,
+      "PP": 4,
+      "VP": 16,
+      "ADJP": 1
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 3,
+        "weight": 0.0303
+      },
+      {
+        "rule": "NP -> ('familias', 'NN') ('campesinas', 'NNS')",
+        "frequency": 2,
+        "weight": 0.0202
+      },
+      {
+        "rule": "NP -> ('El', 'NNP') ('Aro', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0202
+      },
+      {
+        "rule": "NP -> ('Antioquia', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0202
+      },
+      {
+        "rule": "NP -> ('más', 'NN')",
+        "frequency": 2,
+        "weight": 0.0202
+      },
+      {
+        "rule": "NP -> ('Esta', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0202
+      },
+      {
+        "rule": "S -> NP ('de', 'FW') NP PP VP ('la', 'FW') ('entrega', 'FW') ('de', 'FW') ('títulos', 'FW') ('de', 'FW') ('propiedad', 'FW') ('a', 'DT') ('35', 'CD') NP (',', ',') ('víctimas', 'FW') ('del', 'FW') NP (',', ',') ('en', 'FW') ('el', 'FW') ('corregimiento', 'FW') ('de', 'FW') NP (',', ',') NP ('de', 'FW') NP ('(', '(') NP (')', ')') ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0101
+      },
+      {
+        "rule": "NP -> ('La', 'NNP') ('Agencia', 'NNP') ('Nacional', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0101
+      },
+      {
+        "rule": "NP -> ('Tierras', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0101
+      },
+      {
+        "rule": "NP -> ('Colombia', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0101
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "La Agencia Nacional"
+      },
+      {
+        "label": "NP",
+        "text": "Tierras"
+      },
+      {
+        "label": "PP",
+        "text": "de Colombia"
+      },
+      {
+        "label": "NP",
+        "text": "Colombia"
+      },
+      {
+        "label": "VP",
+        "text": "informó sobre"
+      },
+      {
+        "label": "NP",
+        "text": "familias campesinas"
+      },
+      {
+        "label": "NP",
+        "text": "conflicto armado"
+      },
+      {
+        "label": "NP",
+        "text": "El Aro"
+      },
+      {
+        "label": "NP",
+        "text": "departamento"
+      },
+      {
+        "label": "NP",
+        "text": "Antioquia"
+      },
+      {
+        "label": "NP",
+        "text": "noroeste"
+      },
+      {
+        "label": "NP",
+        "text": "“ La Reforma Agraria"
+      },
+      {
+        "label": "NP",
+        "text": "presidente Gustavo Petro"
+      },
+      {
+        "label": "VP",
+        "text": "es con las"
+      },
+      {
+        "label": "NP",
+        "text": "con las"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP La/NNP Agencia/NNP Nacional/NNP)\n  de/FW\n  (NP Tierras/NNP)\n  (PP de/IN (NP Colombia/NNP))\n  (VP informó/VBP sobre/JJ)\n  la/FW\n  entrega/FW\n  de/FW\n  títulos/FW\n  de/FW\n  propiedad/FW\n  a/DT\n  35/CD\n  (NP familias/NN campesinas/NNS)\n  ,/,\n  víctimas/FW\n  del/FW\n  (NP conflicto/NN armado/NN)\n  ,/,\n  en/FW\n  el/FW\n  corregimiento/FW\n  de/FW\n  (NP El/NNP Aro/NNP)\n  ,/,\n  (NP departamento/NN)\n  de/FW\n  (NP Antioquia/NNP)\n  (/(\n  (NP noroeste/NN)\n  )/)\n  ./.)",
+      "(S\n  (NP “/JJ La/NNP Reforma/NNP Agraria/NNP)\n  del/FW\n  (NP presidente/NN Gustavo/NNP Petro/NNP)\n  (VP es/VBZ (NP con/NN las/NNS))\n  (VP víctimas/VBP (NP del/JJ conflicto/NN))\n  :/:\n  (NP en/NN)\n  (NP un/JJ hecho/NN histórico/NN llegamos/NN al/NN corregimiento/NN)\n  (PP de/IN (NP El/NNP Aro/NNP))\n  ,/,\n  en/FW\n  (NP Ituango/NNP)\n  (/(\n  (NP Antioquia/NNP)\n  )/)\n  ,/,\n  (NP donde/JJ les/NNS)\n  (VP titulamos/VBP (NP más/NN))\n  de/IN\n  800/CD\n  (NP hectáreas/NNS)\n  a/DT\n  35/CD\n  (NP familias/NN campesinas/NNS)\n  ./.)",
+      "(S\n  (NP Renace/NNP la/NNP)\n  esperanza/FW\n  en/FW\n  escenarios/FW\n  de/FW\n  conflicto/FW\n  ”/FW\n  ,/,\n  precisó/FW\n  mediante/FW\n  su/FW\n  (NP cuenta/NN)\n  (PP en/IN (NP la/NN))\n  (NP red/JJ social/JJ X/NN)\n  ./.)",
+      "(S\n  (NP Los/NNP)\n  (NP terrenos/JJ estarán/NN)\n  (VP destinados/VBZ (NP a/DT la/NN siembra/NN))\n  de/IN\n  maíz/FW\n  ,/,\n  (NP arroz/NN)\n  ,/,\n  (NP plátano/NN y/NN frijol/NN)\n  ./.)",
+      "(S\n  (NP El/NNP)\n  ente/CC\n  (NP afirmó/JJ que/NN el/NN)\n  otorgamiento/IN\n  de/FW\n  esos/FW\n  (NP títulos/NN constituye/NN “/NNP)\n  (NP una/JJ forma/NN)\n  de/IN\n  preparación/FW\n  (NP ”/NNP)\n  ,/,\n  (VP debido/VBZ (NP a/DT que/NN la/NN))\n  mayoría/FW\n  (VP “/VBZ (NP no/DT cuenta/NN con/NN))\n  escrituras/FW\n  (NP ni/JJ títulos/NN)\n  de/IN\n  los/FW\n  (NP predios/NNS)\n  (VP ”/VBP)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "GOBIERNOS_OFICIALES",
+      "CANTIDADES_NUMERICAS",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "REGIONES_PROVINCIAS",
+      "INSTITUCIONES_EDUCATIVAS",
+      "PAISES",
+      "CONFLICTOS_ARMADOS_OPERACIONES"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "conflicto armado, en el",
+        "position": [
+          132,
+          155
+        ],
+        "start": 132,
+        "end": 155
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "afirmó",
+        "position": [
+          637,
+          643
+        ],
+        "start": 637,
+        "end": 643
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "informó",
+        "position": [
+          44,
+          51
+        ],
+        "start": 44,
+        "end": 51
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "precisó",
+        "position": [
+          503,
+          510
+        ],
+        "start": 503,
+        "end": 510
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente gustavo petro",
+        "position": [
+          244,
+          268
+        ],
+        "start": 244,
+        "end": 268
+      },
+      {
+        "category": "INSTITUCIONES_EDUCATIVAS",
+        "matched_text": "departamento de antioquia",
+        "position": [
+          181,
+          206
+        ],
+        "start": 181,
+        "end": 206
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "colombia",
+        "position": [
+          35,
+          43
+        ],
+        "start": 35,
+        "end": 43
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "departamento de",
+        "position": [
+          181,
+          196
+        ],
+        "start": 181,
+        "end": 196
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "400 personas",
+        "position": [
+          1372,
+          1384
+        ],
+        "start": 1372,
+        "end": 1384
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "1.400 personas",
+        "position": [
+          1370,
+          1384
+        ],
+        "start": 1370,
+        "end": 1384
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "más de 800",
+        "position": [
+          407,
+          417
+        ],
+        "start": 407,
+        "end": 417
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "más de 1.400",
+        "position": [
+          1363,
+          1375
+        ],
+        "start": 1363,
+        "end": 1375
+      }
+    ],
+    "match_count": 12
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Agencia Nacional de Tierras de Colombia",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Ituango",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Agencia",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Antioquia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Gustavo Petro",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "El Aro",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Gobierno colombiano",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Agencia Nacional de Tierras de Colombia",
+        "relacion": "INFORMAR",
+        "objeto": "El Aro"
+      },
+      {
+        "sujeto": "Agencia Nacional de Tierras de Colombia",
+        "relacion": "INFORMAR",
+        "objeto": "Antioquia"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.0,
+    "pos": 0.0,
+    "neu": 1.0,
+    "neg": 0.0,
+    "label": "neutral"
+  }
+}

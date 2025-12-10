@@ -1,0 +1,735 @@
+{
+  "url": "https://www.telesurtv.net/izquierda-francesa-confirma-que-eliminara-candidaturas-que-quedaron-en-tercer-puesto/",
+  "title": "Izquierda francesa confirma que eliminará candidaturas que quedaron en tercer puesto - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "elecciones",
+    "Francia",
+    "Jean-Luc Mélenchon",
+    "siete de julio"
+  ],
+  "text": "El líder de La Francia Insumisa (LFI), Jean-Luc Mélenchon, anunció este domingo que en la segunda vuelta de las elecciones legislativas que tendrán lugar el próximo 7 de julio, serán suspendidas las candidaturas de los que quedaron en tercer puesto en esta jornada electoral.\n“En todas las circunstancias, nuestra consigna es clara: ni un voto de más para el RN (Agrupación Nacional), ni un escaño de más para el RN”, dijo el político, luego de que se hicieran públicos los datos de las primeras estimaciones de voto, que apuntan a la ultraderecha con un tercio de los resultados y al NFP en el segundo lugar, con un 28 por ciento.\nMélenchon subrayó además que la unión de izquierdas del Nuevo Frente Popular (NFP) constituye la única alternativa que tiene la ultraderecha en el contexto de elecciones.\n\n“Es esa la razón por lo que la segunda vuelta del 7 de julio en la mayoría de las circunscripciones “será un duelo a dos”, indicó el líder.\nPor otro lado, Mélenchon enfatizó en que la “trampa” de desaparecer a la Asamblea Nacional y a la convocatoria anticipada de elecciones legislativas llevadas a cabo por el presidente de Francia, Emmanuel Macron ha provocado una “dura e indiscutible derrota del presidente, de su candidato [el primer ministro, Gabriel Attal] y de la pretendida mayoría presidencial”.\n“Hay que dar una mayoría absoluta al NFP, que llega como la única alternativa”, insistió Mélenchon.\nEl político advirtió que la cita del 7 de julio estará mediada “intensidad excepcional”, y agradeció además la gran movilización que se llevó a cabo este domingo.\n“No se trata solo de votar contra, no solo de formar barrera, se trata de votar por otro futuro respetuoso con todas las personas”, agregó.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/izquierda-francesa-confirma-que-eliminara-candidaturas-que-quedaron-en-tercer-puesto/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-06.json",
+    "message_index": 1,
+    "message_id": 72742,
+    "date": "2024-06-30T23:55:07+00:00",
+    "text": "teleSUR\nIzquierda francesa confirma que eliminará candidaturas que quedaron en tercer puesto\nhttps://www.telesurtv.net/izquierda-francesa-confirma-que-eliminara-candidaturas-que-quedaron-en-tercer-puesto/",
+    "photo_path": null,
+    "views": 1691,
+    "reactions": {},
+    "total_reactions": 0
+  },
+  "preprocessing": {
+    "cleaned": "el líder de la francia insumisa (lfi), jean-luc mélenchon, anunció este domingo que en la segunda vuelta de las elecciones legislativas que tendrán lugar el próximo 7 de julio, serán suspendidas las candidaturas de los que quedaron en tercer puesto en esta jornada electoral. “en todas las circunstancias, nuestra consigna es clara: ni un voto de más para el rn (agrupación nacional), ni un escaño de más para el rn”, dijo el político, luego de que se hicieran públicos los datos de las primeras estimaciones de voto, que apuntan a la ultraderecha con un tercio de los resultados y al nfp en el segundo lugar, con un 28 por ciento. mélenchon subrayó además que la unión de izquierdas del nuevo frente popular (nfp) constituye la única alternativa que tiene la ultraderecha en el contexto de elecciones. “es esa la razón por lo que la segunda vuelta del 7 de julio en la mayoría de las circunscripciones “será un duelo a dos”, indicó el líder. por otro lado, mélenchon enfatizó en que la “trampa” de desaparecer a la asamblea nacional y a la convocatoria anticipada de elecciones legislativas llevadas a cabo por el presidente de francia, emmanuel macron ha provocado una “dura e indiscutible derrota del presidente, de su candidato [el primer ministro, gabriel attal] y de la pretendida mayoría presidencial”. “hay que dar una mayoría absoluta al nfp, que llega como la única alternativa”, insistió mélenchon. el político advirtió que la cita del 7 de julio estará mediada “intensidad excepcional”, y agradeció además la gran movilización que se llevó a cabo este domingo. “no se trata solo de votar contra, no solo de formar barrera, se trata de votar por otro futuro respetuoso con todas las personas”, agregó.",
+    "tokens": [
+      "líder",
+      "francia",
+      "insumisa",
+      "(",
+      "lfi",
+      ")",
+      ",",
+      "jean-luc",
+      "mélenchon",
+      ",",
+      "anunció",
+      "domingo",
+      "segunda",
+      "vuelta",
+      "elecciones",
+      "legislativas",
+      "lugar",
+      "próximo",
+      "7",
+      "julio",
+      ",",
+      "suspendidas",
+      "candidaturas",
+      "quedaron",
+      "tercer",
+      "puesto",
+      "jornada",
+      "electoral",
+      ".",
+      "“",
+      "todas",
+      "circunstancias",
+      ",",
+      "consigna",
+      "clara",
+      ":",
+      "voto",
+      "rn",
+      "(",
+      "agrupación",
+      "nacional",
+      ")",
+      ",",
+      "escaño",
+      "rn",
+      "”",
+      ",",
+      "dijo",
+      "político",
+      ",",
+      "luego",
+      "hicieran",
+      "públicos",
+      "datos",
+      "primeras",
+      "estimaciones",
+      "voto",
+      ",",
+      "apuntan",
+      "ultraderecha",
+      "tercio",
+      "resultados",
+      "nfp",
+      "segundo",
+      "lugar",
+      ",",
+      "28",
+      "ciento",
+      ".",
+      "mélenchon",
+      "subrayó",
+      "además",
+      "unión",
+      "izquierdas",
+      "nuevo",
+      "frente",
+      "popular",
+      "(",
+      "nfp",
+      ")",
+      "constituye",
+      "única",
+      "alternativa",
+      "ultraderecha",
+      "contexto",
+      "elecciones",
+      ".",
+      "“",
+      "razón",
+      "segunda",
+      "vuelta",
+      "7",
+      "julio",
+      "mayoría",
+      "circunscripciones",
+      "“",
+      "duelo",
+      "dos",
+      "”",
+      ",",
+      "indicó",
+      "líder",
+      ".",
+      "lado",
+      ",",
+      "mélenchon",
+      "enfatizó",
+      "“",
+      "trampa",
+      "”",
+      "desaparecer",
+      "asamblea",
+      "nacional",
+      "convocatoria",
+      "anticipada",
+      "elecciones",
+      "legislativas",
+      "llevadas",
+      "cabo",
+      "presidente",
+      "francia",
+      ",",
+      "emmanuel",
+      "macron",
+      "provocado",
+      "“",
+      "dura",
+      "indiscutible",
+      "derrota",
+      "presidente",
+      ",",
+      "candidato",
+      "[",
+      "primer",
+      "ministro",
+      ",",
+      "gabriel",
+      "attal",
+      "]",
+      "pretendida",
+      "mayoría",
+      "presidencial",
+      "”",
+      ".",
+      "“",
+      "dar",
+      "mayoría",
+      "absoluta",
+      "nfp",
+      ",",
+      "llega",
+      "única",
+      "alternativa",
+      "”",
+      ",",
+      "insistió",
+      "mélenchon",
+      ".",
+      "político",
+      "advirtió",
+      "cita",
+      "7",
+      "julio",
+      "mediada",
+      "“",
+      "intensidad",
+      "excepcional",
+      "”",
+      ",",
+      "agradeció",
+      "además",
+      "gran",
+      "movilización",
+      "llevó",
+      "cabo",
+      "domingo",
+      ".",
+      "“",
+      "trata",
+      "solo",
+      "votar",
+      ",",
+      "solo",
+      "formar",
+      "barrera",
+      ",",
+      "trata",
+      "votar",
+      "futuro",
+      "respetuoso",
+      "todas",
+      "personas",
+      "”",
+      ",",
+      "agregó",
+      "."
+    ],
+    "token_count": 196,
+    "sentence_count": 8
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 34,
+      "NN": 97,
+      "FW": 76,
+      "VBZ": 6,
+      "IN": 15,
+      "NNS": 6,
+      "VBP": 3,
+      "JJ": 30,
+      "VBD": 3,
+      "CD": 1,
+      "DT": 2,
+      "VB": 1
+    },
+    "bigram_freq": {
+      "NNP-NN": 10,
+      "NN-FW": 10,
+      "FW-NNP": 6,
+      "NNP-NNP": 15,
+      "NNP-VBZ": 5,
+      "VBZ-NN": 1,
+      "NN-NN": 50,
+      "NN-IN": 12,
+      "IN-FW": 13,
+      "FW-FW": 47,
+      "FW-NNS": 2,
+      "NNS-VBP": 3,
+      "VBP-JJ": 2,
+      "JJ-NN": 17,
+      "FW-NN": 13,
+      "IN-NN": 2,
+      "NN-VBD": 3,
+      "VBD-JJ": 2,
+      "JJ-NNS": 2,
+      "NNS-IN": 2,
+      "FW-JJ": 8,
+      "JJ-JJ": 3,
+      "JJ-NNP": 4,
+      "NN-JJ": 12,
+      "NN-NNP": 8,
+      "NNP-FW": 3,
+      "JJ-FW": 2,
+      "VBZ-FW": 1,
+      "JJ-CD": 1,
+      "CD-NN": 1,
+      "VBZ-JJ": 3,
+      "NNP-IN": 1,
+      "NN-VBZ": 1,
+      "VBZ-DT": 1,
+      "DT-NN": 2,
+      "VBD-NN": 1,
+      "JJ-DT": 1,
+      "NN-NNS": 1,
+      "VBP-NNS": 1,
+      "NNS-VB": 1
+    },
+    "trigram_freq": {
+      "NNP-NN-FW": 2,
+      "NN-FW-NNP": 2,
+      "FW-NNP-NNP": 4,
+      "NNP-NNP-NNP": 8,
+      "NNP-NNP-VBZ": 1,
+      "NNP-VBZ-NN": 1,
+      "VBZ-NN-NN": 1,
+      "NN-NN-NN": 22,
+      "NN-NN-IN": 5,
+      "NN-IN-FW": 10,
+      "IN-FW-FW": 4,
+      "FW-FW-FW": 36,
+      "FW-FW-NNS": 2,
+      "FW-NNS-VBP": 2,
+      "NNS-VBP-JJ": 2,
+      "VBP-JJ-NN": 2,
+      "JJ-NN-NN": 9,
+      "NN-NN-FW": 3,
+      "NN-FW-NN": 5,
+      "FW-NN-IN": 1,
+      "NN-IN-NN": 2,
+      "IN-NN-NN": 2,
+      "NN-NN-VBD": 2,
+      "NN-VBD-JJ": 2,
+      "VBD-JJ-NNS": 1,
+      "JJ-NNS-IN": 2,
+      "NNS-IN-FW": 2,
+      "IN-FW-JJ": 6,
+      "FW-JJ-NN": 3,
+      "JJ-NN-FW": 1,
+      "FW-NN-NN": 7,
+      "FW-JJ-JJ": 1,
+      "JJ-JJ-NNP": 1,
+      "JJ-NNP-NN": 3,
+      "NNP-NN-NN": 8,
+      "NN-NN-JJ": 10,
+      "NN-JJ-NN": 8,
+      "NN-JJ-JJ": 2,
+      "JJ-JJ-NN": 2,
+      "JJ-NN-IN": 4,
+      "IN-FW-NN": 3,
+      "NN-NN-NNP": 7,
+      "NN-NNP-NNP": 2,
+      "NNP-NNP-FW": 2,
+      "NNP-FW-JJ": 1,
+      "FW-JJ-FW": 1,
+      "JJ-FW-FW": 2,
+      "FW-FW-NNP": 4,
+      "FW-NNP-NN": 1,
+      "FW-FW-NN": 4,
+      "FW-JJ-NNS": 1,
+      "JJ-NN-JJ": 2,
+      "JJ-NN-NNP": 1,
+      "NN-NNP-VBZ": 4,
+      "NNP-VBZ-FW": 1,
+      "VBZ-FW-NN": 1,
+      "NN-JJ-CD": 1,
+      "JJ-CD-NN": 1,
+      "CD-NN-NN": 1,
+      "NN-NNP-NN": 2,
+      "NN-FW-FW": 3,
+      "NNP-NNP-NN": 3,
+      "NNP-VBZ-JJ": 3,
+      "VBZ-JJ-NN": 1,
+      "NN-JJ-FW": 1,
+      "FW-NNP-FW": 1,
+      "NNP-FW-FW": 2,
+      "FW-NN-FW": 4,
+      "VBZ-JJ-NNP": 2,
+      "NNP-NNP-IN": 1,
+      "NNP-IN-FW": 1,
+      "FW-FW-JJ": 1,
+      "FW-JJ-NNP": 1,
+      "JJ-NNP-NNP": 1,
+      "VBD-JJ-NN": 1,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-DT": 1,
+      "VBZ-DT-NN": 1,
+      "DT-NN-VBD": 1,
+      "NN-VBD-NN": 1,
+      "VBD-NN-IN": 1,
+      "FW-JJ-DT": 1,
+      "JJ-DT-NN": 1,
+      "DT-NN-IN": 1,
+      "FW-NN-NNS": 1,
+      "NN-NNS-VBP": 1,
+      "NNS-VBP-NNS": 1,
+      "VBP-NNS-VB": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 97,
+        "FW": 76,
+        "NNP": 34,
+        "JJ": 30,
+        "IN": 15
+      },
+      "top_bigrams": {
+        "NN-NN": 50,
+        "FW-FW": 47,
+        "JJ-NN": 17,
+        "NNP-NNP": 15,
+        "IN-FW": 13
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 36,
+        "NN-NN-NN": 22,
+        "NN-IN-FW": 10,
+        "NN-NN-JJ": 10,
+        "JJ-NN-NN": 9
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 8,
+    "chunk_counts": {
+      "NP": 75,
+      "VP": 15,
+      "ADJP": 4,
+      "PP": 3
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 3,
+        "weight": 0.0286
+      },
+      {
+        "rule": "NP -> ('que', 'NN')",
+        "frequency": 2,
+        "weight": 0.019
+      },
+      {
+        "rule": "S -> NP ('de', 'FW') NP ('(', '(') NP (')', ')') (',', ',') NP (',', ',') NP ('en', 'IN') ('la', 'FW') ('segunda', 'FW') ('vuelta', 'FW') ('de', 'FW') ('las', 'FW') NP VP VP ('7', 'CD') ('de', 'FW') NP (',', ',') NP VP ('de', 'IN') ('los', 'FW') NP ('en', 'FW') NP ('en', 'IN') ('esta', 'FW') ADJP ADJP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0095
+      },
+      {
+        "rule": "NP -> ('El', 'NNP') ('líder', 'NN')",
+        "frequency": 1,
+        "weight": 0.0095
+      },
+      {
+        "rule": "NP -> ('La', 'NNP') ('Francia', 'NNP') ('Insumisa', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0095
+      },
+      {
+        "rule": "NP -> ('LFI', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0095
+      },
+      {
+        "rule": "NP -> ('Jean-Luc', 'NNP') ('Mélenchon', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0095
+      },
+      {
+        "rule": "NP -> ('anunció', 'JJ') ('este', 'NN') ('domingo', 'NN') ('que', 'NN')",
+        "frequency": 1,
+        "weight": 0.0095
+      },
+      {
+        "rule": "NP -> ('elecciones', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0095
+      },
+      {
+        "rule": "VP -> ('legislativas', 'VBP') NP",
+        "frequency": 1,
+        "weight": 0.0095
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El líder"
+      },
+      {
+        "label": "NP",
+        "text": "La Francia Insumisa"
+      },
+      {
+        "label": "NP",
+        "text": "LFI"
+      },
+      {
+        "label": "NP",
+        "text": "Jean-Luc Mélenchon"
+      },
+      {
+        "label": "NP",
+        "text": "anunció este domingo que"
+      },
+      {
+        "label": "NP",
+        "text": "elecciones"
+      },
+      {
+        "label": "VP",
+        "text": "legislativas que tendrán lugar"
+      },
+      {
+        "label": "NP",
+        "text": "que tendrán lugar"
+      },
+      {
+        "label": "VP",
+        "text": "el próximo"
+      },
+      {
+        "label": "NP",
+        "text": "julio"
+      },
+      {
+        "label": "NP",
+        "text": "serán suspendidas las"
+      },
+      {
+        "label": "VP",
+        "text": "candidaturas"
+      },
+      {
+        "label": "NP",
+        "text": "que quedaron"
+      },
+      {
+        "label": "NP",
+        "text": "tercer puesto"
+      },
+      {
+        "label": "ADJP",
+        "text": "jornada"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP El/NNP líder/NN)\n  de/FW\n  (NP La/NNP Francia/NNP Insumisa/NNP)\n  (/(\n  (NP LFI/NNP)\n  )/)\n  ,/,\n  (NP Jean-Luc/NNP Mélenchon/NNP)\n  ,/,\n  (NP anunció/JJ este/NN domingo/NN que/NN)\n  en/IN\n  la/FW\n  segunda/FW\n  vuelta/FW\n  de/FW\n  las/FW\n  (NP elecciones/NNS)\n  (VP legislativas/VBP (NP que/JJ tendrán/NN lugar/NN))\n  (VP el/VBP próximo/JJ)\n  7/CD\n  de/FW\n  (NP julio/NN)\n  ,/,\n  (NP serán/JJ suspendidas/NN las/NNS)\n  (VP candidaturas/VBP)\n  de/IN\n  los/FW\n  (NP que/JJ quedaron/NN)\n  en/FW\n  (NP tercer/NN puesto/NN)\n  en/IN\n  esta/FW\n  (ADJP jornada/JJ)\n  (ADJP electoral/JJ)\n  ./.)",
+      "(S\n  (NP “/NN En/NNP todas/NN las/NN circunstancias/NN)\n  ,/,\n  (NP nuestra/JJ consigna/NN es/NN clara/NN)\n  :/:\n  (NP ni/JJ un/JJ voto/NN)\n  de/IN\n  más/FW\n  (NP para/NN el/NN RN/NNP)\n  (/(\n  (NP Agrupación/NNP Nacional/NNP)\n  )/)\n  ,/,\n  (NP ni/JJ un/JJ escaño/NN)\n  de/IN\n  más/FW\n  (NP para/NN el/NN RN/NNP ”/NNP)\n  ,/,\n  (NP dijo/NN el/NN político/NN)\n  ,/,\n  luego/FW\n  de/FW\n  que/FW\n  se/FW\n  (NP hicieran/NN públicos/NN)\n  (NP los/JJ datos/NN)\n  de/IN\n  las/FW\n  (NP primeras/JJ estimaciones/NNS)\n  (PP de/IN (NP voto/NN))\n  ,/,\n  (ADJP que/JJ)\n  (VP\n    apuntan/VBP\n    (NP a/DT la/NN)\n    (NP ultraderecha/JJ con/NN)\n    (NP un/JJ tercio/NN))\n  de/IN\n  los/FW\n  (NP resultados/JJ y/NN al/NN NFP/NNP)\n  (VP en/VBZ)\n  el/FW\n  (NP segundo/NN lugar/NN)\n  ,/,\n  (NP con/NN)\n  (ADJP un/JJ)\n  28/CD\n  (NP por/NN ciento/NN)\n  ./.)",
+      "(S\n  (NP Mélenchon/NNP subrayó/NN además/NN que/NN)\n  la/FW\n  unión/FW\n  de/FW\n  izquierdas/FW\n  del/FW\n  (NP Nuevo/NNP Frente/NNP Popular/NNP)\n  (/(\n  (NP NFP/NNP)\n  )/)\n  (NP constituye/NN la/NN única/NNP)\n  (VP alternativa/VBZ (NP que/JJ tiene/NN la/NN) ultraderecha/JJ)\n  en/FW\n  el/FW\n  contexto/FW\n  de/FW\n  elecciones/FW\n  ./.)",
+      "(S\n  (NP\n    “/JJ\n    Es/NNP\n    esa/NN\n    la/NN\n    razón/NN\n    por/NN\n    lo/NN\n    que/NN\n    la/NN\n    segunda/NN\n    vuelta/NN)\n  del/FW\n  7/CD\n  de/FW\n  julio/FW\n  en/FW\n  la/FW\n  mayoría/FW\n  de/FW\n  las/FW\n  (NP circunscripciones/NNS)\n  (VP “/VBP (NP será/JJ un/JJ duelo/NN) (NP a/DT dos/NN ”/NN))\n  ,/,\n  (NP indicó/JJ el/NN líder/NN)\n  ./.)",
+      "(S\n  (NP Por/NNP)\n  otro/MD\n  (VP lado/VB)\n  ,/,\n  (NP Mélenchon/NNP)\n  (VP enfatizó/VBZ)\n  en/FW\n  (NP que/NN)\n  la/FW\n  (NP “/NNP trampa/NN ”/NNP)\n  de/FW\n  desaparecer/FW\n  a/DT\n  la/FW\n  (NP Asamblea/NNP Nacional/NNP)\n  y/FW\n  a/DT\n  la/FW\n  convocatoria/FW\n  anticipada/FW\n  de/FW\n  elecciones/FW\n  legislativas/FW\n  llevadas/FW\n  (NP a/DT cabo/NN por/NN)\n  el/FW\n  (NP presidente/NN)\n  de/FW\n  (NP Francia/NNP)\n  ,/,\n  (NP Emmanuel/NNP Macron/NNP ha/NN provocado/NN)\n  (NP una/JJ “/NNP dura/NN e/NN)\n  (NP indiscutible/JJ derrota/NN del/NN presidente/NN)\n  ,/,\n  de/FW\n  su/FW\n  (NP candidato/NN [/NNP)\n  (VP el/VBZ (NP primer/JJ ministro/NN))\n  ,/,\n  (NP Gabriel/NNP Attal/NNP ]/NNP)\n  y/FW\n  de/FW\n  la/FW\n  pretendida/FW\n  mayoría/FW\n  (NP presidencial/JJ ”/NN)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "APROBACION_RECHAZO",
+      "PAISES",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "GOBIERNOS_OFICIALES"
+    ],
+    "matches": [
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "anunció",
+        "position": [
+          59,
+          66
+        ],
+        "start": 59,
+        "end": 66
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "advirtió",
+        "position": [
+          1423,
+          1431
+        ],
+        "start": 1423,
+        "end": 1431
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente de francia",
+        "position": [
+          1116,
+          1137
+        ],
+        "start": 1116,
+        "end": 1137
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "asamblea nacional",
+        "position": [
+          1017,
+          1034
+        ],
+        "start": 1017,
+        "end": 1034
+      },
+      {
+        "category": "APROBACION_RECHAZO",
+        "matched_text": "subrayó",
+        "position": [
+          642,
+          649
+        ],
+        "start": 642,
+        "end": 649
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "francia",
+        "position": [
+          15,
+          22
+        ],
+        "start": 15,
+        "end": 22
+      }
+    ],
+    "match_count": 6
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "LFI",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Emmanuel Macron",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Asamblea Nacional",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "La Francia Insumisa",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "NFP",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Francia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Gabriel Attal",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Jean-Luc Mélenchon",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Mélenchon",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "RN",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Agrupación Nacional",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Nuevo Frente Popular",
+        "tipo": "Organizacion"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "RN",
+        "relacion": "M_S_DECIR",
+        "objeto": "NFP"
+      },
+      {
+        "sujeto": "Agrupación Nacional",
+        "relacion": "M_S_DECIR",
+        "objeto": "NFP"
+      },
+      {
+        "sujeto": "RN",
+        "relacion": "DECIR",
+        "objeto": "NFP"
+      },
+      {
+        "sujeto": "Mélenchon",
+        "relacion": "SUBRAYAR",
+        "objeto": "Nuevo Frente Popular"
+      },
+      {
+        "sujeto": "Mélenchon",
+        "relacion": "SUBRAYAR",
+        "objeto": "NFP"
+      },
+      {
+        "sujeto": "Mélenchon",
+        "relacion": "ENFATIZAR",
+        "objeto": "Asamblea Nacional"
+      },
+      {
+        "sujeto": "Mélenchon",
+        "relacion": "ENFATIZAR",
+        "objeto": "Francia"
+      },
+      {
+        "sujeto": "Mélenchon",
+        "relacion": "ENFATIZAR",
+        "objeto": "Emmanuel Macron"
+      },
+      {
+        "sujeto": "Mélenchon",
+        "relacion": "ENFATIZAR",
+        "objeto": "Gabriel Attal"
+      },
+      {
+        "sujeto": "Emmanuel Macron",
+        "relacion": "DESAPARECER_PROVOCAR_ENFATIZAR",
+        "objeto": "Asamblea Nacional"
+      },
+      {
+        "sujeto": "Asamblea Nacional",
+        "relacion": "DESAPARECER_PROVOCAR_ENFATIZAR",
+        "objeto": "Gabriel Attal"
+      },
+      {
+        "sujeto": "Emmanuel Macron",
+        "relacion": "DESAPARECER_PROVOCAR_ENFATIZAR",
+        "objeto": "Francia"
+      },
+      {
+        "sujeto": "Francia",
+        "relacion": "DESAPARECER_PROVOCAR_ENFATIZAR",
+        "objeto": "Gabriel Attal"
+      },
+      {
+        "sujeto": "Emmanuel Macron",
+        "relacion": "PROVOCAR_ENFATIZAR",
+        "objeto": "Gabriel Attal"
+      },
+      {
+        "sujeto": "Mélenchon",
+        "relacion": "DAR_HABER_INSISTIR",
+        "objeto": "NFP"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.4588,
+    "pos": 0.019,
+    "neu": 0.973,
+    "neg": 0.008,
+    "label": "positive"
+  }
+}

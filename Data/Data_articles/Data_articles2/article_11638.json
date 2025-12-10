@@ -1,0 +1,904 @@
+{
+  "url": "https://www.telesurtv.net/jefes-de-estado-arriban-a-venezuela-para-participar-en-xxiv-cumbre-del-alba-tcp/",
+  "title": "Jefes de Estado arriban a Venezuela para participar en XXIV Cumbre del ALBA-TCP - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "ALBA - TCP",
+    "cumbre",
+    "jefes de Estado"
+  ],
+  "text": "El presidente de Cuba, Miguel Díaz-Canel Bermúdez y el primer ministro de San Vicente y las Granadinas, Ralph Gonsalves arribaron este viernes a Venezuela para participar en la XXIV Cumbre de Jefes de Estado y de Gobierno de la Alianza Bolivariana para los Pueblos de Nuestra América-Tratado de Comercio de los Pueblos (ALBA-TCP) que tendrá lugar el sábado en la capital del país bolivariano.\nAmbos mandatarios fueron recibidos por el canciller venezolano, Yván Gil, en el aeropuerto internacional de Maiquetía, donde les rindieron los honores correspondientes a sus altas investiduras, en un recibimiento de hermandad y amistad entre las naciones.\n“Cumple 20 años el ALBA-TCP y aquí estamos para “que sus fuerzas sean invencibles por la unión”, como quiso José Martí que hiciera el periódico Patria, como concibieron Fidel y Chávez la integración”, escribió en su cuenta de X el mandatario cubano, minutos después de su llegada a Venezuela.\nIntegran la delegación oficial cubana el ministro de Relaciones Exteriores, Bruno Rodríguez Parrilla, la viceministra Josefina Vidal Ferreiro, otros directivos y funcionarios de la Cancillería cubana.\nEsta Cumbre coincide con el XX aniversario de la institución del ALBA-TCP, mecanismo de integración regional que se ha consolidado como una alternativa viable al neoliberalismo y, en esta ocasión, sesionará bajo el lema: “Un abrazo que marcó el rumbo de nuestra historia”.\nDesde Hugo Chávez y Fidel Castro, fundadores del ALBA-TCP, hasta los líderes actuales, se ha ratificado el compromiso de la Alianza con la defensa de la paz, la soberanía y el bienestar de los pueblos.\nEl ALBA-TCP está integrada por Venezuela, Bolivia, Cuba, Nicaragua, la Mancomunidad de Dominica, Antigua y Barbuda, San Vicente y Las Granadinas, Santa Lucía, San Cristóbal y Nieves y Granada.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/jefes-de-estado-arriban-a-venezuela-para-participar-en-xxiv-cumbre-del-alba-tcp/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-12.json",
+    "message_index": 1031,
+    "message_id": 82314,
+    "date": "2024-12-14T02:55:12+00:00",
+    "text": "teleSUR\nJefes de Estado arriban a Venezuela para participar en XXIV Cumbre del ALBA-TCP\nhttps://www.telesurtv.net/jefes-de-estado-arriban-a-venezuela-para-participar-en-xxiv-cumbre-del-alba-tcp/",
+    "photo_path": null,
+    "views": 2575,
+    "reactions": {
+      "👍": 47,
+      "👏": 12,
+      "🤮": 1
+    },
+    "total_reactions": 60
+  },
+  "preprocessing": {
+    "cleaned": "el presidente de cuba, miguel díaz-canel bermúdez y el primer ministro de san vicente y las granadinas, ralph gonsalves arribaron este viernes a venezuela para participar en la xxiv cumbre de jefes de estado y de gobierno de la alianza bolivariana para los pueblos de nuestra américa-tratado de comercio de los pueblos (alba-tcp) que tendrá lugar el sábado en la capital del país bolivariano. ambos mandatarios fueron recibidos por el canciller venezolano, yván gil, en el aeropuerto internacional de maiquetía, donde les rindieron los honores correspondientes a sus altas investiduras, en un recibimiento de hermandad y amistad entre las naciones. “cumple 20 años el alba-tcp y aquí estamos para “que sus fuerzas sean invencibles por la unión”, como quiso josé martí que hiciera el periódico patria, como concibieron fidel y chávez la integración”, escribió en su cuenta de x el mandatario cubano, minutos después de su llegada a venezuela. integran la delegación oficial cubana el ministro de relaciones exteriores, bruno rodríguez parrilla, la viceministra josefina vidal ferreiro, otros directivos y funcionarios de la cancillería cubana. esta cumbre coincide con el xx aniversario de la institución del alba-tcp, mecanismo de integración regional que se ha consolidado como una alternativa viable al neoliberalismo y, en esta ocasión, sesionará bajo el lema: “un abrazo que marcó el rumbo de nuestra historia”. desde hugo chávez y fidel castro, fundadores del alba-tcp, hasta los líderes actuales, se ha ratificado el compromiso de la alianza con la defensa de la paz, la soberanía y el bienestar de los pueblos. el alba-tcp está integrada por venezuela, bolivia, cuba, nicaragua, la mancomunidad de dominica, antigua y barbuda, san vicente y las granadinas, santa lucía, san cristóbal y nieves y granada.",
+    "tokens": [
+      "presidente",
+      "cuba",
+      ",",
+      "miguel",
+      "díaz-canel",
+      "bermúdez",
+      "primer",
+      "ministro",
+      "san",
+      "vicente",
+      "granadinas",
+      ",",
+      "ralph",
+      "gonsalves",
+      "arribaron",
+      "viernes",
+      "venezuela",
+      "participar",
+      "xxiv",
+      "cumbre",
+      "jefes",
+      "gobierno",
+      "alianza",
+      "bolivariana",
+      "pueblos",
+      "américa-tratado",
+      "comercio",
+      "pueblos",
+      "(",
+      "alba-tcp",
+      ")",
+      "lugar",
+      "sábado",
+      "capital",
+      "país",
+      "bolivariano",
+      ".",
+      "ambos",
+      "mandatarios",
+      "recibidos",
+      "canciller",
+      "venezolano",
+      ",",
+      "yván",
+      "gil",
+      ",",
+      "aeropuerto",
+      "internacional",
+      "maiquetía",
+      ",",
+      "rindieron",
+      "honores",
+      "correspondientes",
+      "altas",
+      "investiduras",
+      ",",
+      "recibimiento",
+      "hermandad",
+      "amistad",
+      "naciones",
+      ".",
+      "“",
+      "cumple",
+      "20",
+      "años",
+      "alba-tcp",
+      "aquí",
+      "“",
+      "fuerzas",
+      "invencibles",
+      "unión",
+      "”",
+      ",",
+      "quiso",
+      "josé",
+      "martí",
+      "hiciera",
+      "periódico",
+      "patria",
+      ",",
+      "concibieron",
+      "fidel",
+      "chávez",
+      "integración",
+      "”",
+      ",",
+      "escribió",
+      "cuenta",
+      "x",
+      "mandatario",
+      "cubano",
+      ",",
+      "minutos",
+      "después",
+      "llegada",
+      "venezuela",
+      ".",
+      "integran",
+      "delegación",
+      "oficial",
+      "cubana",
+      "ministro",
+      "relaciones",
+      "exteriores",
+      ",",
+      "bruno",
+      "rodríguez",
+      "parrilla",
+      ",",
+      "viceministra",
+      "josefina",
+      "vidal",
+      "ferreiro",
+      ",",
+      "directivos",
+      "funcionarios",
+      "cancillería",
+      "cubana",
+      ".",
+      "cumbre",
+      "coincide",
+      "xx",
+      "aniversario",
+      "institución",
+      "alba-tcp",
+      ",",
+      "mecanismo",
+      "integración",
+      "regional",
+      "consolidado",
+      "alternativa",
+      "viable",
+      "neoliberalismo",
+      ",",
+      "ocasión",
+      ",",
+      "sesionará",
+      "bajo",
+      "lema",
+      ":",
+      "“",
+      "abrazo",
+      "marcó",
+      "rumbo",
+      "historia",
+      "”",
+      ".",
+      "hugo",
+      "chávez",
+      "fidel",
+      "castro",
+      ",",
+      "fundadores",
+      "alba-tcp",
+      ",",
+      "líderes",
+      "actuales",
+      ",",
+      "ratificado",
+      "compromiso",
+      "alianza",
+      "defensa",
+      "paz",
+      ",",
+      "soberanía",
+      "bienestar",
+      "pueblos",
+      ".",
+      "alba-tcp",
+      "integrada",
+      "venezuela",
+      ",",
+      "bolivia",
+      ",",
+      "cuba",
+      ",",
+      "nicaragua",
+      ",",
+      "mancomunidad",
+      "dominica",
+      ",",
+      "antigua",
+      "barbuda",
+      ",",
+      "san",
+      "vicente",
+      "granadinas",
+      ",",
+      "santa",
+      "lucía",
+      ",",
+      "san",
+      "cristóbal",
+      "nieves",
+      "granada",
+      "."
+    ],
+    "token_count": 196,
+    "sentence_count": 7
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 82,
+      "NN": 73,
+      "FW": 48,
+      "VBZ": 6,
+      "JJ": 22,
+      "IN": 14,
+      "VBD": 1,
+      "NNS": 10,
+      "VBP": 4,
+      "VB": 2,
+      "CD": 1,
+      "MD": 1
+    },
+    "bigram_freq": {
+      "NNP-NN": 15,
+      "NN-FW": 5,
+      "FW-NNP": 15,
+      "NNP-NNP": 48,
+      "NNP-VBZ": 3,
+      "VBZ-JJ": 3,
+      "JJ-NN": 11,
+      "NN-IN": 10,
+      "IN-NNP": 3,
+      "NNP-FW": 9,
+      "NNP-VBD": 1,
+      "VBD-NN": 1,
+      "NN-NNS": 2,
+      "NNS-NNP": 3,
+      "NN-NN": 39,
+      "IN-FW": 9,
+      "FW-FW": 20,
+      "NN-NNP": 10,
+      "NNP-IN": 2,
+      "FW-NN": 6,
+      "NNP-NNS": 1,
+      "NNS-VBP": 4,
+      "VBP-JJ": 2,
+      "FW-JJ": 5,
+      "JJ-JJ": 4,
+      "JJ-FW": 2,
+      "NN-VBZ": 2,
+      "VBZ-VB": 1,
+      "VB-JJ": 1,
+      "JJ-NNS": 3,
+      "NNS-VBZ": 1,
+      "VBP-IN": 2,
+      "IN-JJ": 2,
+      "FW-NNS": 2,
+      "NNP-CD": 1,
+      "CD-NN": 1,
+      "NN-JJ": 5,
+      "JJ-NNP": 2,
+      "NNP-MD": 1,
+      "MD-VB": 1,
+      "VB-NNS": 1,
+      "NNS-FW": 2,
+      "VBZ-FW": 1,
+      "VBZ-NNS": 1
+    },
+    "trigram_freq": {
+      "NNP-NN-FW": 1,
+      "NN-FW-NNP": 1,
+      "FW-NNP-NNP": 7,
+      "NNP-NNP-NNP": 31,
+      "NNP-NNP-VBZ": 3,
+      "NNP-VBZ-JJ": 2,
+      "VBZ-JJ-NN": 2,
+      "JJ-NN-IN": 4,
+      "NN-IN-NNP": 1,
+      "IN-NNP-NNP": 3,
+      "NNP-NNP-FW": 5,
+      "NNP-FW-NNP": 5,
+      "NNP-NNP-VBD": 1,
+      "NNP-VBD-NN": 1,
+      "VBD-NN-NNS": 1,
+      "NN-NNS-NNP": 1,
+      "NNS-NNP-NN": 1,
+      "NNP-NN-NN": 11,
+      "NN-NN-IN": 3,
+      "NN-IN-FW": 8,
+      "IN-FW-NNP": 2,
+      "FW-NNP-FW": 4,
+      "NNP-FW-FW": 3,
+      "FW-FW-NNP": 5,
+      "NNP-NNP-NN": 5,
+      "NN-NN-NNP": 9,
+      "NN-NNP-IN": 1,
+      "NNP-IN-NNP": 2,
+      "NN-NN-NN": 20,
+      "IN-FW-NN": 1,
+      "FW-NN-NN": 3,
+      "NN-NNP-NNS": 1,
+      "NNP-NNS-VBP": 1,
+      "NNS-VBP-JJ": 2,
+      "VBP-JJ-NN": 1,
+      "JJ-NN-NN": 5,
+      "NN-NNP-NNP": 5,
+      "FW-FW-JJ": 1,
+      "FW-JJ-JJ": 1,
+      "JJ-JJ-FW": 1,
+      "JJ-FW-NNP": 1,
+      "FW-NNP-NN": 4,
+      "NNP-NN-VBZ": 1,
+      "NN-VBZ-VB": 1,
+      "VBZ-VB-JJ": 1,
+      "VB-JJ-NNS": 1,
+      "JJ-NNS-VBZ": 1,
+      "NNS-VBZ-JJ": 1,
+      "VBZ-JJ-NNS": 1,
+      "JJ-NNS-VBP": 2,
+      "NNS-VBP-IN": 2,
+      "VBP-IN-JJ": 1,
+      "IN-JJ-NN": 1,
+      "IN-FW-FW": 2,
+      "FW-FW-FW": 11,
+      "FW-FW-NNS": 1,
+      "FW-NNS-NNP": 2,
+      "NNS-NNP-CD": 1,
+      "NNP-CD-NN": 1,
+      "CD-NN-JJ": 1,
+      "NN-JJ-NNP": 1,
+      "JJ-NNP-NN": 1,
+      "NN-NN-JJ": 3,
+      "NN-JJ-JJ": 1,
+      "JJ-JJ-NNS": 1,
+      "VBP-JJ-JJ": 1,
+      "JJ-JJ-NN": 2,
+      "NN-NNP-NN": 3,
+      "NNP-FW-NN": 1,
+      "FW-NN-FW": 1,
+      "NN-FW-FW": 3,
+      "FW-FW-NN": 2,
+      "NN-NN-NNS": 1,
+      "NN-NNS-VBP": 1,
+      "VBP-IN-FW": 1,
+      "JJ-NN-FW": 1,
+      "NNP-NNP-MD": 1,
+      "NNP-MD-VB": 1,
+      "MD-VB-NNS": 1,
+      "VB-NNS-FW": 1,
+      "NNS-FW-FW": 1,
+      "NNP-NN-NNP": 1,
+      "NNP-NN-IN": 1,
+      "IN-FW-JJ": 3,
+      "FW-JJ-FW": 1,
+      "JJ-FW-JJ": 1,
+      "FW-JJ-NN": 2,
+      "NN-JJ-NN": 3,
+      "JJ-NN-JJ": 1,
+      "NN-IN-JJ": 1,
+      "IN-JJ-JJ": 1,
+      "IN-FW-NNS": 1,
+      "NNS-NNP-NNP": 1,
+      "NNP-VBZ-FW": 1,
+      "VBZ-FW-NNP": 1,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-NNS": 1,
+      "VBZ-NNS-FW": 1,
+      "NNS-FW-NN": 1,
+      "NN-NN-FW": 2,
+      "NN-FW-NN": 1,
+      "FW-NN-IN": 2,
+      "FW-JJ-NNP": 1,
+      "JJ-NNP-NNP": 1,
+      "NNP-NNP-IN": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NNP": 82,
+        "NN": 73,
+        "FW": 48,
+        "JJ": 22,
+        "IN": 14
+      },
+      "top_bigrams": {
+        "NNP-NNP": 48,
+        "NN-NN": 39,
+        "FW-FW": 20,
+        "NNP-NN": 15,
+        "FW-NNP": 15
+      },
+      "top_trigrams": {
+        "NNP-NNP-NNP": 31,
+        "NN-NN-NN": 20,
+        "NNP-NN-NN": 11,
+        "FW-FW-FW": 11,
+        "NN-NN-NNP": 9
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 7,
+    "chunk_counts": {
+      "NP": 74,
+      "VP": 12,
+      "PP": 2,
+      "ADJP": 3
+    },
+    "top_rules": [
+      {
+        "rule": "NP -> ('Cuba', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0204
+      },
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0204
+      },
+      {
+        "rule": "NP -> ('ALBA-TCP', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0204
+      },
+      {
+        "rule": "S -> NP ('de', 'FW') NP (',', ',') NP VP PP VP (',', ',') NP VP ('en', 'IN') ('la', 'FW') NP ('de', 'FW') NP ('de', 'FW') NP ('y', 'FW') ('de', 'FW') NP ('de', 'FW') ('la', 'FW') NP PP ('de', 'FW') NP ('de', 'FW') ('los', 'FW') NP ('(', '(') NP (')', ')') NP ('en', 'IN') ('la', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0102
+      },
+      {
+        "rule": "NP -> ('El', 'NNP') ('presidente', 'NN')",
+        "frequency": 1,
+        "weight": 0.0102
+      },
+      {
+        "rule": "NP -> ('Miguel', 'NNP') ('Díaz-Canel', 'NNP') ('Bermúdez', 'NNP') ('y', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0102
+      },
+      {
+        "rule": "VP -> ('el', 'VBZ') NP",
+        "frequency": 1,
+        "weight": 0.0102
+      },
+      {
+        "rule": "NP -> ('primer', 'JJ') ('ministro', 'NN')",
+        "frequency": 1,
+        "weight": 0.0102
+      },
+      {
+        "rule": "NP -> ('San', 'NNP') ('Vicente', 'NNP') ('y', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0102
+      },
+      {
+        "rule": "VP -> ('las', 'VBZ') NP",
+        "frequency": 1,
+        "weight": 0.0102
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El presidente"
+      },
+      {
+        "label": "NP",
+        "text": "Cuba"
+      },
+      {
+        "label": "NP",
+        "text": "Miguel Díaz-Canel Bermúdez y"
+      },
+      {
+        "label": "VP",
+        "text": "el primer ministro"
+      },
+      {
+        "label": "NP",
+        "text": "primer ministro"
+      },
+      {
+        "label": "PP",
+        "text": "de San Vicente y"
+      },
+      {
+        "label": "NP",
+        "text": "San Vicente y"
+      },
+      {
+        "label": "VP",
+        "text": "las Granadinas"
+      },
+      {
+        "label": "NP",
+        "text": "Granadinas"
+      },
+      {
+        "label": "NP",
+        "text": "Ralph Gonsalves"
+      },
+      {
+        "label": "VP",
+        "text": "arribaron este viernes a Venezuela para participar"
+      },
+      {
+        "label": "NP",
+        "text": "este viernes"
+      },
+      {
+        "label": "NP",
+        "text": "a Venezuela para participar"
+      },
+      {
+        "label": "NP",
+        "text": "XXIV Cumbre"
+      },
+      {
+        "label": "NP",
+        "text": "Jefes"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP El/NNP presidente/NN)\n  de/FW\n  (NP Cuba/NNP)\n  ,/,\n  (NP Miguel/NNP Díaz-Canel/NNP Bermúdez/NNP y/NNP)\n  (VP el/VBZ (NP primer/JJ ministro/NN))\n  (PP de/IN (NP San/NNP Vicente/NNP y/NNP))\n  (VP las/VBZ (NP Granadinas/NNP))\n  ,/,\n  (NP Ralph/NNP Gonsalves/NNP)\n  (VP\n    arribaron/VBD\n    (NP este/NN viernes/NNS)\n    (NP a/DT Venezuela/NNP para/NN participar/NN))\n  en/IN\n  la/FW\n  (NP XXIV/NNP Cumbre/NNP)\n  de/FW\n  (NP Jefes/NNP)\n  de/FW\n  (NP Estado/NNP)\n  y/FW\n  de/FW\n  (NP Gobierno/NNP)\n  de/FW\n  la/FW\n  (NP Alianza/NNP Bolivariana/NNP para/NN los/NN Pueblos/NNP)\n  (PP de/IN (NP Nuestra/NNP América-Tratado/NNP))\n  de/FW\n  (NP Comercio/NNP)\n  de/FW\n  los/FW\n  (NP Pueblos/NNP)\n  (/(\n  (NP ALBA-TCP/NNP)\n  )/)\n  (NP que/NN tendrá/NN lugar/NN el/NN sábado/NN)\n  en/IN\n  la/FW\n  (NP capital/NN del/NN país/NN bolivariano/NN)\n  ./.)",
+      "(S\n  (NP Ambos/NNP mandatarios/NNS)\n  (VP\n    fueron/VBP\n    (NP recibidos/JJ por/NN el/NN canciller/NN venezolano/NN))\n  ,/,\n  (NP Yván/NNP Gil/NNP)\n  ,/,\n  en/FW\n  el/FW\n  (ADJP aeropuerto/JJ)\n  (ADJP internacional/JJ)\n  de/FW\n  (NP Maiquetía/NNP)\n  ,/,\n  (NP donde/NN les/NNS)\n  (VP rindieron/VBP (NP los/JJ honores/NNS))\n  (VP\n    correspondientes/VBZ\n    (NP a/DT sus/NN altas/NN investiduras/NNS))\n  ,/,\n  en/FW\n  (NP un/JJ recibimiento/NN)\n  de/IN\n  hermandad/FW\n  y/FW\n  amistad/FW\n  entre/FW\n  las/FW\n  (NP naciones/NNS)\n  ./.)",
+      "(S\n  (NP “/JJ Cumple/NNP)\n  20/CD\n  (NP años/NN)\n  (NP\n    el/JJ\n    ALBA-TCP/NNP\n    y/NN\n    aquí/NN\n    estamos/NN\n    para/NN\n    “/NNP\n    que/NN\n    sus/NN)\n  (NP fuerzas/JJ sean/JJ invencibles/NNS)\n  (VP por/VBP (NP la/JJ unión/JJ ”/NN))\n  ,/,\n  (NP\n    como/NN\n    quiso/NN\n    José/NNP\n    Martí/NNP\n    que/NN\n    hiciera/NN\n    el/NN\n    periódico/NN\n    Patria/NNP)\n  ,/,\n  (NP\n    como/NN\n    concibieron/NN\n    Fidel/NNP\n    y/NN\n    Chávez/NNP\n    la/NNP\n    integración/NN\n    ”/NNP)\n  ,/,\n  (NP escribió/NN)\n  en/FW\n  su/FW\n  cuenta/FW\n  de/FW\n  X/FW\n  el/FW\n  (NP mandatario/NN cubano/NN)\n  ,/,\n  minutos/FW\n  después/FW\n  de/FW\n  su/FW\n  llegada/FW\n  (NP a/DT Venezuela/NNP)\n  ./.)",
+      "(S\n  (NP Integran/NNP la/NN)\n  (VP delegación/VBZ (NP oficial/JJ cubana/NN))\n  el/FW\n  ministro/FW\n  de/FW\n  (NP Relaciones/NNP Exteriores/NNP)\n  ,/,\n  (NP Bruno/NNP Rodríguez/NNP Parrilla/NNP)\n  ,/,\n  (NP la/NN)\n  (NP viceministra/JJ Josefina/NNP Vidal/NNP Ferreiro/NNP)\n  ,/,\n  (VP otros/VBZ (NP directivos/JJ y/JJ funcionarios/NNS))\n  de/IN\n  la/FW\n  (NP Cancillería/NNP cubana/NN)\n  ./.)",
+      "(S\n  (NP\n    Esta/NNP\n    Cumbre/NNP\n    coincide/NN\n    con/NN\n    el/NN\n    XX/NNP\n    aniversario/NN)\n  de/IN\n  la/FW\n  (ADJP institución/JJ)\n  del/FW\n  (NP ALBA-TCP/NNP)\n  ,/,\n  mecanismo/FW\n  de/FW\n  integración/FW\n  (NP regional/JJ que/NN se/NN ha/NN consolidado/NN como/NN)\n  (NP una/JJ alternativa/NN)\n  (NP viable/JJ al/NN neoliberalismo/NN y/NN)\n  ,/,\n  en/FW\n  esta/FW\n  (NP ocasión/NN)\n  ,/,\n  (NP sesionará/JJ bajo/NN el/NN lema/NN)\n  :/:\n  (NP “/JJ Un/NNP abrazo/NN que/NN marcó/NN)\n  (NP el/JJ rumbo/NN)\n  de/IN\n  nuestra/FW\n  (NP historia/NNS)\n  (VP ”/VBP)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "CIUDADES_CAPITALES",
+      "GOBIERNOS_OFICIALES",
+      "ORGANISMOS_INTERNACIONALES",
+      "MEDIOS_COMUNICACION",
+      "REGIONES_PROVINCIAS",
+      "INTEGRACION_LATINOAMERICANA",
+      "PAISES",
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "INFRAESTRUCTURA_SERVICIOS",
+      "RELACIONES_INTERNACIONALES",
+      "JURIDICO_LEGISLATIVO_CORRUPCION"
+    ],
+    "matches": [
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "capital",
+        "position": [
+          363,
+          370
+        ],
+        "start": 363,
+        "end": 370
+      },
+      {
+        "category": "RELACIONES_INTERNACIONALES",
+        "matched_text": "alianza con la defensa de la paz, la soberanía y el",
+        "position": [
+          1540,
+          1591
+        ],
+        "start": 1540,
+        "end": 1591
+      },
+      {
+        "category": "RELACIONES_INTERNACIONALES",
+        "matched_text": "hermandad y amistad entre las naciones",
+        "position": [
+          609,
+          647
+        ],
+        "start": 609,
+        "end": 647
+      },
+      {
+        "category": "JURIDICO_LEGISLATIVO_CORRUPCION",
+        "matched_text": "defensa",
+        "position": [
+          1555,
+          1562
+        ],
+        "start": 1555,
+        "end": 1562
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "gobierno de la alianza",
+        "position": [
+          213,
+          235
+        ],
+        "start": 213,
+        "end": 235
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente de cuba",
+        "position": [
+          3,
+          21
+        ],
+        "start": 3,
+        "end": 21
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "ministro de san vicente",
+        "position": [
+          62,
+          85
+        ],
+        "start": 62,
+        "end": 85
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "ministro de relaciones exteriores",
+        "position": [
+          983,
+          1016
+        ],
+        "start": 983,
+        "end": 1016
+      },
+      {
+        "category": "ORGANISMOS_INTERNACIONALES",
+        "matched_text": "alba",
+        "position": [
+          320,
+          324
+        ],
+        "start": 320,
+        "end": 324
+      },
+      {
+        "category": "MEDIOS_COMUNICACION",
+        "matched_text": "periódico patria",
+        "position": [
+          783,
+          799
+        ],
+        "start": 783,
+        "end": 799
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "aeropuerto",
+        "position": [
+          473,
+          483
+        ],
+        "start": 473,
+        "end": 483
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "cuba",
+        "position": [
+          17,
+          21
+        ],
+        "start": 17,
+        "end": 21
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "nicaragua",
+        "position": [
+          1675,
+          1684
+        ],
+        "start": 1675,
+        "end": 1684
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "venezuela",
+        "position": [
+          145,
+          154
+        ],
+        "start": 145,
+        "end": 154
+      },
+      {
+        "category": "CIUDADES_CAPITALES",
+        "matched_text": "la paz",
+        "position": [
+          1566,
+          1572
+        ],
+        "start": 1566,
+        "end": 1572
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "estado y de",
+        "position": [
+          201,
+          212
+        ],
+        "start": 201,
+        "end": 212
+      },
+      {
+        "category": "INTEGRACION_LATINOAMERICANA",
+        "matched_text": "alba-tcp, mecanismo",
+        "position": [
+          1208,
+          1227
+        ],
+        "start": 1208,
+        "end": 1227
+      }
+    ],
+    "match_count": 17
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Miguel Díaz-Canel Bermúdez",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Venezuela",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Josefina Vidal Ferreiro",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Bolivia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Fidel Castro",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Hugo Chávez",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "San Vicente",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Nicaragua",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Relaciones Exteriores",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Santa Lucía",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Las Granadinas",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "San Cristóbal y Nieves",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "aeropuerto internacional de Maiquetía",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Mancomunidad de Dominica",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Fidel",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Bruno Rodríguez Parrilla",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Antigua y Barbuda",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Granada",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "José Martí",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "San Vicente y las Granadinas",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Chávez",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Ralph Gonsalves",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Yván Gil",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Cuba",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Cuba",
+        "relacion": "ARRIBAR",
+        "objeto": "Venezuela"
+      },
+      {
+        "sujeto": "Miguel Díaz-Canel Bermúdez",
+        "relacion": "ARRIBAR",
+        "objeto": "Venezuela"
+      },
+      {
+        "sujeto": "San Vicente y las Granadinas",
+        "relacion": "ARRIBAR",
+        "objeto": "Venezuela"
+      },
+      {
+        "sujeto": "Ralph Gonsalves",
+        "relacion": "ARRIBAR",
+        "objeto": "Venezuela"
+      },
+      {
+        "sujeto": "Yván Gil",
+        "relacion": "RECIBIR",
+        "objeto": "aeropuerto internacional de Maiquetía"
+      },
+      {
+        "sujeto": "José Martí",
+        "relacion": "QUERER_CUMPLIR_ESCRIBIR",
+        "objeto": "Fidel"
+      },
+      {
+        "sujeto": "José Martí",
+        "relacion": "QUERER_CUMPLIR_ESCRIBIR",
+        "objeto": "Chávez"
+      },
+      {
+        "sujeto": "José Martí",
+        "relacion": "QUERER_CUMPLIR_ESCRIBIR",
+        "objeto": "Venezuela"
+      },
+      {
+        "sujeto": "Fidel",
+        "relacion": "CONCEBIR_CUMPLIR_ESCRIBIR",
+        "objeto": "Venezuela"
+      },
+      {
+        "sujeto": "Chávez",
+        "relacion": "CONCEBIR_CUMPLIR_ESCRIBIR",
+        "objeto": "Venezuela"
+      },
+      {
+        "sujeto": "Venezuela",
+        "relacion": "ES",
+        "objeto": "Mancomunidad de Dominica"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.5859,
+    "pos": 0.018,
+    "neu": 0.982,
+    "neg": 0.0,
+    "label": "positive"
+  }
+}

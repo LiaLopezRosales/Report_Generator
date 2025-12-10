@@ -1,0 +1,808 @@
+{
+  "url": "https://www.telesurtv.net/numero-de-palestinos-asesinados-en-gaza-aumenta-a-38-193/",
+  "title": "Número de palestinos asesinados en Gaza aumenta a 38.193 - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Ofensiva",
+    "Reporte",
+    "víctimas"
+  ],
+  "text": "\nEn el día 276 del genocidio israelí en Gaza, el número de palestinos asesinados por la ocupación israelí en Gaza llegó este lunes a 38.193, además de 87.903 heridos, según el informe diario publicado por el Ministerio de Salud en Gaza.\n\n\n“Israel” cometió tres masacres en 24 horas, matando a 40 palestinos e hiriendo a otros 75.\nAunque algunas de las víctimas fueron trasladadas a hospitales que funcionaban parcialmente, muchas siguen atrapadas bajo los escombros y los equipos de rescate no pueden llegar hasta ellas.\nOtras siguen heridas o yacen allí como cuerpos sin vida dispersos en las calles, ya que los equipos de rescate también tienen prohibido atenderlos o transportarlos.\nUna nueva serie de ataques esporádicos fueron llevados a cabo por la ocupación israelí en el día 276 de su continua agresión contra el pueblo palestino en la Franja de Gaza.\nAl amanecer del lunes, varios palestinos murieron y resultaron heridos como consecuencia de intensos ataques aéreos de la fuerza aérea de ocupación israelí en zonas que rodean la ciudad de Gaza, en la parte norte.\nSegún fuentes médicas, decenas de palestinos resultaron muertos y heridos en los barrios de Al-Daraj y Al-Tuffah, así como en el casco antiguo, debido a los bombardeos de la ocupación sobre esas zonas.\nLos aviones de ocupación lanzaron una serie de violentos ataques aéreos sobre las zonas mencionadas, cuyos ecos se escucharon en las partes norte y central de la Franja de Gaza.\nCuatro civiles palestinos murieron hoy en un ataque aéreo israelí en elbarrio deal-Shujaiya\nFuentes locales informaron que los aviones de guerra de ocupación atacaron a un grupo de civiles en el barrio de al-Shuja’iya, lo que provocó la muerte de cuatro civiles y heridas a otros.\nMientras tanto, buques de guerra israelíes dispararon fuertes ametralladoras contra la zona de los pescadores, al oeste de la ciudad de Gaza.\nLa artillería de ocupación bombardeó la zona de Khirbet al-Adas, al norte de la ciudad de Rafah, al sur de la Franja de Gaza, hiriendo a 11 civiles.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/numero-de-palestinos-asesinados-en-gaza-aumenta-a-38-193/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-07.json",
+    "message_index": 841,
+    "message_id": 72996,
+    "date": "2024-07-08T13:55:07+00:00",
+    "text": "teleSUR\nNúmero de palestinos asesinados en Gaza aumenta a 38.193\nhttps://www.telesurtv.net/numero-de-palestinos-asesinados-en-gaza-aumenta-a-38-193/",
+    "photo_path": null,
+    "views": 1765,
+    "reactions": {},
+    "total_reactions": 0
+  },
+  "preprocessing": {
+    "cleaned": "en el día 276 del genocidio israelí en gaza, el número de palestinos asesinados por la ocupación israelí en gaza llegó este lunes a 38.193, además de 87.903 heridos, según el informe diario publicado por el ministerio de salud en gaza. “israel” cometió tres masacres en 24 horas, matando a 40 palestinos e hiriendo a otros 75. aunque algunas de las víctimas fueron trasladadas a hospitales que funcionaban parcialmente, muchas siguen atrapadas bajo los escombros y los equipos de rescate no pueden llegar hasta ellas. otras siguen heridas o yacen allí como cuerpos sin vida dispersos en las calles, ya que los equipos de rescate también tienen prohibido atenderlos o transportarlos. una nueva serie de ataques esporádicos fueron llevados a cabo por la ocupación israelí en el día 276 de su continua agresión contra el pueblo palestino en la franja de gaza. al amanecer del lunes, varios palestinos murieron y resultaron heridos como consecuencia de intensos ataques aéreos de la fuerza aérea de ocupación israelí en zonas que rodean la ciudad de gaza, en la parte norte. según fuentes médicas, decenas de palestinos resultaron muertos y heridos en los barrios de al-daraj y al-tuffah, así como en el casco antiguo, debido a los bombardeos de la ocupación sobre esas zonas. los aviones de ocupación lanzaron una serie de violentos ataques aéreos sobre las zonas mencionadas, cuyos ecos se escucharon en las partes norte y central de la franja de gaza. cuatro civiles palestinos murieron hoy en un ataque aéreo israelí en elbarrio deal-shujaiya fuentes locales informaron que los aviones de guerra de ocupación atacaron a un grupo de civiles en el barrio de al-shuja’iya, lo que provocó la muerte de cuatro civiles y heridas a otros. mientras tanto, buques de guerra israelíes dispararon fuertes ametralladoras contra la zona de los pescadores, al oeste de la ciudad de gaza. la artillería de ocupación bombardeó la zona de khirbet al-adas, al norte de la ciudad de rafah, al sur de la franja de gaza, hiriendo a 11 civiles.",
+    "tokens": [
+      "día",
+      "276",
+      "genocidio",
+      "israelí",
+      "gaza",
+      ",",
+      "número",
+      "palestinos",
+      "asesinados",
+      "ocupación",
+      "israelí",
+      "gaza",
+      "llegó",
+      "lunes",
+      "38.193",
+      ",",
+      "además",
+      "87.903",
+      "heridos",
+      ",",
+      "según",
+      "informe",
+      "diario",
+      "publicado",
+      "ministerio",
+      "salud",
+      "gaza",
+      ".",
+      "“",
+      "israel",
+      "”",
+      "cometió",
+      "tres",
+      "masacres",
+      "24",
+      "horas",
+      ",",
+      "matando",
+      "40",
+      "palestinos",
+      "hiriendo",
+      "75.",
+      "aunque",
+      "víctimas",
+      "trasladadas",
+      "hospitales",
+      "funcionaban",
+      "parcialmente",
+      ",",
+      "muchas",
+      "siguen",
+      "atrapadas",
+      "bajo",
+      "escombros",
+      "equipos",
+      "rescate",
+      "pueden",
+      "llegar",
+      ".",
+      "siguen",
+      "heridas",
+      "yacen",
+      "allí",
+      "cuerpos",
+      "vida",
+      "dispersos",
+      "calles",
+      ",",
+      "equipos",
+      "rescate",
+      "prohibido",
+      "atenderlos",
+      "transportarlos",
+      ".",
+      "nueva",
+      "serie",
+      "ataques",
+      "esporádicos",
+      "llevados",
+      "cabo",
+      "ocupación",
+      "israelí",
+      "día",
+      "276",
+      "continua",
+      "agresión",
+      "pueblo",
+      "palestino",
+      "franja",
+      "gaza",
+      ".",
+      "amanecer",
+      "lunes",
+      ",",
+      "varios",
+      "palestinos",
+      "murieron",
+      "resultaron",
+      "heridos",
+      "consecuencia",
+      "intensos",
+      "ataques",
+      "aéreos",
+      "fuerza",
+      "aérea",
+      "ocupación",
+      "israelí",
+      "zonas",
+      "rodean",
+      "ciudad",
+      "gaza",
+      ",",
+      "parte",
+      "norte",
+      ".",
+      "según",
+      "fuentes",
+      "médicas",
+      ",",
+      "decenas",
+      "palestinos",
+      "resultaron",
+      "muertos",
+      "heridos",
+      "barrios",
+      "al-daraj",
+      "al-tuffah",
+      ",",
+      "así",
+      "casco",
+      "antiguo",
+      ",",
+      "debido",
+      "bombardeos",
+      "ocupación",
+      "zonas",
+      ".",
+      "aviones",
+      "ocupación",
+      "lanzaron",
+      "serie",
+      "violentos",
+      "ataques",
+      "aéreos",
+      "zonas",
+      "mencionadas",
+      ",",
+      "cuyos",
+      "ecos",
+      "escucharon",
+      "partes",
+      "norte",
+      "central",
+      "franja",
+      "gaza",
+      ".",
+      "cuatro",
+      "civiles",
+      "palestinos",
+      "murieron",
+      "hoy",
+      "ataque",
+      "aéreo",
+      "israelí",
+      "elbarrio",
+      "deal-shujaiya",
+      "fuentes",
+      "locales",
+      "informaron",
+      "aviones",
+      "guerra",
+      "ocupación",
+      "atacaron",
+      "grupo",
+      "civiles",
+      "barrio",
+      "al-shuja",
+      "’",
+      "iya",
+      ",",
+      "provocó",
+      "muerte",
+      "cuatro",
+      "civiles",
+      "heridas",
+      ".",
+      "mientras",
+      ",",
+      "buques",
+      "guerra",
+      "israelíes",
+      "dispararon",
+      "fuertes",
+      "ametralladoras",
+      "zona",
+      "pescadores",
+      ",",
+      "oeste",
+      "ciudad",
+      "gaza",
+      ".",
+      "artillería",
+      "ocupación",
+      "bombardeó",
+      "zona",
+      "khirbet",
+      "al-adas",
+      ",",
+      "norte",
+      "ciudad",
+      "rafah",
+      ",",
+      "sur",
+      "franja",
+      "gaza",
+      ",",
+      "hiriendo",
+      "11",
+      "civiles",
+      "."
+    ],
+    "token_count": 220,
+    "sentence_count": 11
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 29,
+      "NN": 96,
+      "CD": 8,
+      "IN": 24,
+      "FW": 87,
+      "NNS": 24,
+      "JJ": 30,
+      "VBZ": 4,
+      "RB": 3,
+      "VBP": 11,
+      "DT": 1,
+      "CC": 1,
+      "VBD": 1
+    },
+    "bigram_freq": {
+      "NNP-NN": 6,
+      "NN-NN": 52,
+      "NN-CD": 2,
+      "CD-NN": 2,
+      "NN-IN": 17,
+      "IN-NNP": 2,
+      "NNP-FW": 11,
+      "FW-FW": 46,
+      "FW-NN": 13,
+      "NN-FW": 11,
+      "FW-NNP": 16,
+      "NN-NNS": 5,
+      "NNS-CD": 1,
+      "FW-CD": 2,
+      "CD-NNS": 4,
+      "NNS-JJ": 2,
+      "JJ-JJ": 4,
+      "JJ-NN": 15,
+      "NNP-NNP": 5,
+      "NN-VBZ": 1,
+      "VBZ-VBZ": 1,
+      "VBZ-FW": 1,
+      "NNS-RB": 2,
+      "RB-CD": 2,
+      "NNS-VBP": 10,
+      "VBP-RB": 1,
+      "CD-NNP": 1,
+      "VBP-JJ": 6,
+      "IN-JJ": 5,
+      "NN-JJ": 5,
+      "IN-NN": 3,
+      "NN-DT": 1,
+      "DT-NN": 1,
+      "NN-VBP": 1,
+      "VBP-NNP": 1,
+      "JJ-NNS": 5,
+      "RB-JJ": 1,
+      "NN-NNP": 1,
+      "NNP-CC": 1,
+      "CC-NN": 1,
+      "CD-IN": 1,
+      "IN-FW": 13,
+      "NNS-NNS": 1,
+      "VBP-NN": 2,
+      "FW-NNS": 5,
+      "VBP-IN": 1,
+      "FW-JJ": 5,
+      "JJ-FW": 4,
+      "NNP-VBZ": 2,
+      "VBZ-JJ": 1,
+      "NNS-IN": 5,
+      "NNP-NNS": 2,
+      "NNS-FW": 1,
+      "VBZ-NNS": 1,
+      "NNS-NN": 1,
+      "JJ-NNP": 2,
+      "IN-NNS": 1,
+      "NNP-JJ": 1,
+      "NNP-VBD": 1,
+      "VBD-CD": 1
+    },
+    "trigram_freq": {
+      "NNP-NN-NN": 4,
+      "NN-NN-CD": 2,
+      "NN-CD-NN": 1,
+      "CD-NN-NN": 1,
+      "NN-NN-NN": 30,
+      "NN-NN-IN": 10,
+      "NN-IN-NNP": 1,
+      "IN-NNP-FW": 1,
+      "NNP-FW-FW": 5,
+      "FW-FW-FW": 27,
+      "FW-FW-NN": 6,
+      "FW-NN-FW": 4,
+      "NN-FW-FW": 6,
+      "NN-FW-NNP": 2,
+      "FW-NNP-FW": 8,
+      "NNP-FW-NN": 1,
+      "FW-NN-NNS": 1,
+      "NN-NNS-CD": 1,
+      "NNS-CD-NN": 1,
+      "CD-NN-FW": 1,
+      "NN-FW-CD": 1,
+      "FW-CD-NNS": 2,
+      "CD-NNS-JJ": 1,
+      "NNS-JJ-JJ": 2,
+      "JJ-JJ-NN": 2,
+      "JJ-NN-NN": 7,
+      "NN-NN-FW": 4,
+      "NNP-FW-NNP": 5,
+      "FW-NNP-NNP": 4,
+      "NNP-NNP-NN": 3,
+      "NNP-NN-VBZ": 1,
+      "NN-VBZ-VBZ": 1,
+      "VBZ-VBZ-FW": 1,
+      "VBZ-FW-CD": 1,
+      "CD-NNS-RB": 1,
+      "NNS-RB-CD": 1,
+      "RB-CD-NNS": 1,
+      "CD-NNS-VBP": 1,
+      "NNS-VBP-RB": 1,
+      "VBP-RB-CD": 1,
+      "RB-CD-NNP": 1,
+      "CD-NNP-FW": 1,
+      "FW-NN-NN": 6,
+      "NN-NN-NNS": 2,
+      "NN-NNS-VBP": 2,
+      "NNS-VBP-JJ": 6,
+      "VBP-JJ-NN": 2,
+      "NN-IN-JJ": 5,
+      "IN-JJ-NN": 3,
+      "JJ-NN-JJ": 1,
+      "NN-JJ-NN": 4,
+      "NN-IN-NN": 3,
+      "IN-NN-DT": 1,
+      "NN-DT-NN": 1,
+      "DT-NN-NN": 1,
+      "NN-NN-VBP": 1,
+      "NN-VBP-NNP": 1,
+      "VBP-NNP-NN": 1,
+      "IN-JJ-NNS": 2,
+      "JJ-NNS-RB": 1,
+      "NNS-RB-JJ": 1,
+      "RB-JJ-JJ": 1,
+      "JJ-NN-IN": 5,
+      "IN-NN-NN": 1,
+      "NN-NN-NNP": 1,
+      "NN-NNP-CC": 1,
+      "NNP-CC-NN": 1,
+      "CC-NN-FW": 1,
+      "NN-FW-NN": 2,
+      "NN-CD-IN": 1,
+      "CD-IN-FW": 1,
+      "IN-FW-NN": 4,
+      "NN-NN-JJ": 2,
+      "NN-IN-FW": 7,
+      "IN-FW-NNP": 1,
+      "NN-NNS-NNS": 1,
+      "NNS-NNS-VBP": 1,
+      "NNS-VBP-NN": 2,
+      "VBP-NN-NN": 1,
+      "IN-FW-NNS": 2,
+      "FW-NNS-VBP": 4,
+      "NNS-VBP-IN": 1,
+      "VBP-IN-FW": 1,
+      "IN-FW-JJ": 3,
+      "FW-JJ-NN": 3,
+      "FW-JJ-FW": 2,
+      "JJ-FW-FW": 4,
+      "FW-FW-JJ": 2,
+      "FW-FW-NNP": 8,
+      "FW-NNP-VBZ": 1,
+      "NNP-VBZ-JJ": 1,
+      "VBZ-JJ-NNS": 1,
+      "JJ-NNS-IN": 3,
+      "NNS-IN-FW": 4,
+      "NNS-IN-NNP": 1,
+      "IN-NNP-NNP": 1,
+      "IN-FW-FW": 3,
+      "FW-NNP-NNS": 1,
+      "NNP-NNS-FW": 1,
+      "NNS-FW-FW": 1,
+      "VBP-JJ-NNS": 1,
+      "JJ-NNS-VBP": 1,
+      "FW-FW-NNS": 3,
+      "FW-NNS-JJ": 1,
+      "JJ-JJ-FW": 1,
+      "NNP-NNP-VBZ": 1,
+      "NNP-VBZ-NNS": 1,
+      "VBZ-NNS-NN": 1,
+      "NNS-NN-NN": 1,
+      "IN-NN-JJ": 1,
+      "NN-JJ-NNP": 1,
+      "JJ-NNP-NNS": 1,
+      "NNP-NNS-VBP": 1,
+      "VBP-JJ-JJ": 1,
+      "JJ-JJ-NNS": 1,
+      "FW-NN-JJ": 1,
+      "NN-IN-NNS": 1,
+      "IN-NNS-IN": 1,
+      "FW-NN-IN": 1,
+      "VBP-JJ-NNP": 1,
+      "JJ-NNP-NN": 1,
+      "NNP-NN-NNS": 1,
+      "NN-NNS-IN": 1,
+      "JJ-NN-NNS": 1,
+      "VBP-JJ-FW": 1,
+      "VBP-NN-IN": 1,
+      "NNP-NNP-FW": 1,
+      "FW-NNP-JJ": 1,
+      "NNP-JJ-NN": 1,
+      "JJ-NN-FW": 1,
+      "FW-NNP-VBD": 1,
+      "NNP-VBD-CD": 1,
+      "VBD-CD-NNS": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 96,
+        "FW": 87,
+        "JJ": 30,
+        "NNP": 29,
+        "IN": 24
+      },
+      "top_bigrams": {
+        "NN-NN": 52,
+        "FW-FW": 46,
+        "NN-IN": 17,
+        "FW-NNP": 16,
+        "JJ-NN": 15
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 30,
+        "FW-FW-FW": 27,
+        "NN-NN-IN": 10,
+        "FW-NNP-FW": 8,
+        "FW-FW-NNP": 8
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 11,
+    "chunk_counts": {
+      "NP": 89,
+      "PP": 10,
+      "ADJP": 6,
+      "VP": 23
+    },
+    "top_rules": [
+      {
+        "rule": "NP -> ('Gaza', 'NNP')",
+        "frequency": 8,
+        "weight": 0.0576
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 5,
+        "weight": 0.036
+      },
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 5,
+        "weight": 0.036
+      },
+      {
+        "rule": "NP -> ('ataques', 'NNS')",
+        "frequency": 3,
+        "weight": 0.0216
+      },
+      {
+        "rule": "NP -> ('Franja', 'NNP')",
+        "frequency": 3,
+        "weight": 0.0216
+      },
+      {
+        "rule": "NP -> ('civiles', 'NNS')",
+        "frequency": 3,
+        "weight": 0.0216
+      },
+      {
+        "rule": "NP -> ('israelí', 'NN')",
+        "frequency": 2,
+        "weight": 0.0144
+      },
+      {
+        "rule": "VP -> ('hiriendo', 'VBD')",
+        "frequency": 2,
+        "weight": 0.0144
+      },
+      {
+        "rule": "VP -> ('palestinos', 'VBP') NP",
+        "frequency": 2,
+        "weight": 0.0144
+      },
+      {
+        "rule": "S -> NP ('276', 'CD') NP PP (',', ',') ADJP ('número', 'FW') ('de', 'FW') ('palestinos', 'FW') ('asesinados', 'FW') NP ('la', 'FW') ('ocupación', 'FW') NP ('en', 'FW') NP ('llegó', 'FW') NP VP ('a', 'DT') ('38.193', 'CD') (',', ',') NP ('de', 'FW') ('87.903', 'CD') NP (',', ',') ADJP ('el', 'FW') NP ('el', 'FW') NP ('de', 'FW') NP ('en', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0072
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "En el día"
+      },
+      {
+        "label": "NP",
+        "text": "del genocidio israelí"
+      },
+      {
+        "label": "PP",
+        "text": "en Gaza"
+      },
+      {
+        "label": "NP",
+        "text": "Gaza"
+      },
+      {
+        "label": "ADJP",
+        "text": "el"
+      },
+      {
+        "label": "NP",
+        "text": "por"
+      },
+      {
+        "label": "NP",
+        "text": "israelí"
+      },
+      {
+        "label": "NP",
+        "text": "Gaza"
+      },
+      {
+        "label": "NP",
+        "text": "este"
+      },
+      {
+        "label": "VP",
+        "text": "lunes"
+      },
+      {
+        "label": "NP",
+        "text": "además"
+      },
+      {
+        "label": "NP",
+        "text": "heridos"
+      },
+      {
+        "label": "ADJP",
+        "text": "según"
+      },
+      {
+        "label": "NP",
+        "text": "informe diario publicado por"
+      },
+      {
+        "label": "NP",
+        "text": "Ministerio"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP En/NNP el/NN día/NN)\n  276/CD\n  (NP del/NN genocidio/NN israelí/NN)\n  (PP en/IN (NP Gaza/NNP))\n  ,/,\n  (ADJP el/JJ)\n  número/FW\n  de/FW\n  palestinos/FW\n  asesinados/FW\n  (NP por/NN)\n  la/FW\n  ocupación/FW\n  (NP israelí/NN)\n  en/FW\n  (NP Gaza/NNP)\n  llegó/FW\n  (NP este/NN)\n  (VP lunes/VBZ)\n  a/DT\n  38.193/CD\n  ,/,\n  (NP además/NN)\n  de/FW\n  87.903/CD\n  (NP heridos/NN)\n  ,/,\n  (ADJP según/JJ)\n  el/FW\n  (NP informe/NN diario/NN publicado/NN por/NN)\n  el/FW\n  (NP Ministerio/NNP)\n  de/FW\n  (NP Salud/NNP)\n  en/FW\n  (NP Gaza/NNP)\n  ./.)",
+      "(S\n  (NP “/NN Israel/NNP ”/NNP cometió/NN)\n  (VP tres/VBZ)\n  (VP masacres/VBZ)\n  en/FW\n  24/CD\n  (NP horas/NNS)\n  ,/,\n  (VP matando/VBD)\n  a/DT\n  40/CD\n  (NP palestinos/NN e/NN)\n  (VP hiriendo/VBD)\n  a/DT\n  (ADJP otros/JJ)\n  75/CD\n  ./.)",
+      "(S\n  (NP Aunque/NNP)\n  (VP algunas/VBZ)\n  de/FW\n  las/FW\n  víctimas/FW\n  (NP fueron/NN)\n  (VP\n    trasladadas/VBZ\n    (NP a/DT hospitales/NNS)\n    (NP que/JJ funcionaban/JJ parcialmente/NN))\n  ,/,\n  muchas/FW\n  (NP siguen/NN atrapadas/NNS)\n  (VP bajo/VBP (NP los/JJ escombros/JJ y/NN los/NN))\n  equipos/FW\n  de/FW\n  rescate/FW\n  (NP no/DT pueden/NN llegar/NN hasta/NN ellas/NN)\n  ./.)",
+      "(S\n  (NP\n    Otras/NNP\n    siguen/NN\n    heridas/NN\n    o/NN\n    yacen/NN\n    allí/NN\n    como/NN\n    cuerpos/NN\n    sin/NN\n    vida/NN\n    dispersos/NN)\n  (PP en/IN (NP las/NN calles/NNS))\n  ,/,\n  (NP ya/NN que/NN)\n  (NP los/JJ equipos/NN)\n  (PP\n    de/IN\n    (NP rescate/NN también/NN tienen/NN prohibido/NN atenderlos/NN))\n  (NP o/JJ transportarlos/NN)\n  ./.)",
+      "(S\n  (NP Una/NNP)\n  (NP nueva/JJ serie/NN)\n  (PP de/IN (NP ataques/NNS))\n  (VP\n    esporádicos/VBP\n    (NP fueron/NN llevados/NN)\n    (NP a/DT cabo/NN por/NN la/NN))\n  ocupación/FW\n  (NP israelí/NN)\n  en/FW\n  (NP el/NN día/NN)\n  276/CD\n  de/IN\n  su/FW\n  (NP continua/NN agresión/NN)\n  (NP contra/JJ el/NN pueblo/NN palestino/NN)\n  en/IN\n  la/FW\n  (NP Franja/NNP)\n  de/FW\n  (NP Gaza/NNP)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "TIEMPO_RELATIVO",
+      "MEDIOS_COMUNICACION",
+      "REGIONES_PROVINCIAS",
+      "PERIODOS_TEMPORALES",
+      "PAISES",
+      "LOCALIZACIONES_ESPECIFICAS",
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "CONFLICTOS_ARMADOS_OPERACIONES"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "ocupación israelí en zonas que rodean la ciudad",
+        "position": [
+          998,
+          1045
+        ],
+        "start": 998,
+        "end": 1045
+      },
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "ataque aéreo",
+        "position": [
+          1499,
+          1511
+        ],
+        "start": 1499,
+        "end": 1511
+      },
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "guerra de ocupación atacaron a un grupo de civiles en el",
+        "position": [
+          1592,
+          1648
+        ],
+        "start": 1592,
+        "end": 1648
+      },
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "genocidio israelí en gaza",
+        "position": [
+          19,
+          44
+        ],
+        "start": 19,
+        "end": 44
+      },
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "bombardeó",
+        "position": [
+          1904,
+          1913
+        ],
+        "start": 1904,
+        "end": 1913
+      },
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "ocupación",
+        "position": [
+          88,
+          97
+        ],
+        "start": 88,
+        "end": 97
+      },
+      {
+        "category": "MEDIOS_COMUNICACION",
+        "matched_text": "diario publicado por",
+        "position": [
+          184,
+          204
+        ],
+        "start": 184,
+        "end": 204
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "israelí",
+        "position": [
+          29,
+          36
+        ],
+        "start": 29,
+        "end": 36
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "zona de",
+        "position": [
+          1822,
+          1829
+        ],
+        "start": 1822,
+        "end": 1829
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "barrio de",
+        "position": [
+          1649,
+          1658
+        ],
+        "start": 1649,
+        "end": 1658
+      },
+      {
+        "category": "PERIODOS_TEMPORALES",
+        "matched_text": "en el día",
+        "position": [
+          1,
+          10
+        ],
+        "start": 1,
+        "end": 10
+      },
+      {
+        "category": "TIEMPO_RELATIVO",
+        "matched_text": "hoy",
+        "position": [
+          1489,
+          1492
+        ],
+        "start": 1489,
+        "end": 1492
+      }
+    ],
+    "match_count": 12
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Franja de Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "al-Shuja’iya",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Rafah",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Israel",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Khirbet al-Adas",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Ministerio de Salud",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Gaza",
+        "relacion": "LLEGAR",
+        "objeto": "Ministerio de Salud"
+      },
+      {
+        "sujeto": "Khirbet al-Adas",
+        "relacion": "BOMBARDEAR",
+        "objeto": "Rafah"
+      },
+      {
+        "sujeto": "Khirbet al-Adas",
+        "relacion": "BOMBARDEAR",
+        "objeto": "Franja de Gaza"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.7003,
+    "pos": 0.0,
+    "neu": 0.982,
+    "neg": 0.018,
+    "label": "negative"
+  }
+}

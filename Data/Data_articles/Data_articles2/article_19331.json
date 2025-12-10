@@ -1,0 +1,888 @@
+{
+  "url": "https://www.telesurtv.net/inician-juicio-politico-contra-ministra-de-relaciones-exteriores-de-ecuador/",
+  "title": "Inician juicio político contra ministra de Relaciones Exteriores de Ecuador - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "Ecuador",
+    "Ecuatorianos",
+    "Juicio político"
+  ],
+  "text": "El martes, la Comisión de Fiscalización de la Asamblea Nacional de Ecuador dio luz verde al proceso de juicio político contra la ministra de Relaciones Exteriores y Movilidad Humana, Gabriela Sommerfeld, tras ser acusada de incumplimiento de funciones en relación con la crisis diplomática con México.\nCon una votación de cinco legisladores a favor, tres abstenciones y un voto en contra, la comisión ha iniciado el proceso de sustanciación del juicio político de censura contra la canciller. Sommerfeld enfrenta acusaciones de negligencia en su gestión durante la crisis desatada por la irrupción violenta de la Policía en la embajada mexicana en Quito el pasado 5 de abril.\nLa polémica se desató cuando la Policía intentó detener a Jorge Glas, exvicepresidente del Gobierno de Rafael Correa, que se encontraba refugiado en la embajada mexicana. A pesar de contar con asilo diplomático, Glas fue arrestado, contra todo el impedimento jurídico, y actualmente se encuentra recluido en la cárcel de máxima seguridad de Guayaquil, mientras Ecuador y México mantienen disputas legales en la Corte Internacional de Justicia por la violación de los ecuatorianos a la diplomacia. .\nEn las próximas semanas, se abrirá un plazo de quince días para que las partes presenten pruebas de cargo y descargo, seguido por audiencias de actuación de pruebas. La canciller Sommerfeld tendrá la oportunidad de defender su desempeño y demostrar si ha cumplido con sus funciones correctamente.\nLa solicitud de juicio político fue presentada por la asambleísta Jhajaira Urresta, del movimiento Revolución Ciudadana liderado por el expresidente Correa, y ya fue aceptada por el Consejo de Administración Legislativa.\nMéxico ha denunciado el asalto a su embajada ante la ONU y ha solicitado a la Corte Internacional de Justicia que declare a Ecuador responsable por dicho incidente, mientras que el Gobierno ecuatoriano argumenta que México ha violado normas internacionales al interferir en asuntos internos.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/inician-juicio-politico-contra-ministra-de-relaciones-exteriores-de-ecuador/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-07.json",
+    "message_index": 1013,
+    "message_id": 72824,
+    "date": "2024-07-03T03:55:13+00:00",
+    "text": "teleSUR\nInician juicio político contra ministra de Relaciones Exteriores de Ecuador\nhttps://www.telesurtv.net/inician-juicio-politico-contra-ministra-de-relaciones-exteriores-de-ecuador/",
+    "photo_path": null,
+    "views": 1353,
+    "reactions": {},
+    "total_reactions": 0
+  },
+  "preprocessing": {
+    "cleaned": "el martes, la comisión de fiscalización de la asamblea nacional de ecuador dio luz verde al proceso de juicio político contra la ministra de relaciones exteriores y movilidad humana, gabriela sommerfeld, tras ser acusada de incumplimiento de funciones en relación con la crisis diplomática con méxico. con una votación de cinco legisladores a favor, tres abstenciones y un voto en contra, la comisión ha iniciado el proceso de sustanciación del juicio político de censura contra la canciller. sommerfeld enfrenta acusaciones de negligencia en su gestión durante la crisis desatada por la irrupción violenta de la policía en la embajada mexicana en quito el pasado 5 de abril. la polémica se desató cuando la policía intentó detener a jorge glas, exvicepresidente del gobierno de rafael correa, que se encontraba refugiado en la embajada mexicana. a pesar de contar con asilo diplomático, glas fue arrestado, contra todo el impedimento jurídico, y actualmente se encuentra recluido en la cárcel de máxima seguridad de guayaquil, mientras ecuador y méxico mantienen disputas legales en la corte internacional de justicia por la violación de los ecuatorianos a la diplomacia. . en las próximas semanas, se abrirá un plazo de quince días para que las partes presenten pruebas de cargo y descargo, seguido por audiencias de actuación de pruebas. la canciller sommerfeld tendrá la oportunidad de defender su desempeño y demostrar si ha cumplido con sus funciones correctamente. la solicitud de juicio político fue presentada por la asambleísta jhajaira urresta, del movimiento revolución ciudadana liderado por el expresidente correa, y ya fue aceptada por el consejo de administración legislativa. méxico ha denunciado el asalto a su embajada ante la onu y ha solicitado a la corte internacional de justicia que declare a ecuador responsable por dicho incidente, mientras que el gobierno ecuatoriano argumenta que méxico ha violado normas internacionales al interferir en asuntos internos.",
+    "tokens": [
+      "martes",
+      ",",
+      "comisión",
+      "fiscalización",
+      "asamblea",
+      "nacional",
+      "ecuador",
+      "dio",
+      "luz",
+      "verde",
+      "proceso",
+      "juicio",
+      "político",
+      "ministra",
+      "relaciones",
+      "exteriores",
+      "movilidad",
+      "humana",
+      ",",
+      "gabriela",
+      "sommerfeld",
+      ",",
+      "tras",
+      "ser",
+      "acusada",
+      "incumplimiento",
+      "funciones",
+      "relación",
+      "crisis",
+      "diplomática",
+      "méxico",
+      ".",
+      "votación",
+      "cinco",
+      "legisladores",
+      "favor",
+      ",",
+      "tres",
+      "abstenciones",
+      "voto",
+      ",",
+      "comisión",
+      "iniciado",
+      "proceso",
+      "sustanciación",
+      "juicio",
+      "político",
+      "censura",
+      "canciller",
+      ".",
+      "sommerfeld",
+      "enfrenta",
+      "acusaciones",
+      "negligencia",
+      "gestión",
+      "crisis",
+      "desatada",
+      "irrupción",
+      "violenta",
+      "policía",
+      "embajada",
+      "mexicana",
+      "quito",
+      "pasado",
+      "5",
+      "abril",
+      ".",
+      "polémica",
+      "desató",
+      "policía",
+      "intentó",
+      "detener",
+      "jorge",
+      "glas",
+      ",",
+      "exvicepresidente",
+      "gobierno",
+      "rafael",
+      "correa",
+      ",",
+      "encontraba",
+      "refugiado",
+      "embajada",
+      "mexicana",
+      ".",
+      "pesar",
+      "contar",
+      "asilo",
+      "diplomático",
+      ",",
+      "glas",
+      "arrestado",
+      ",",
+      "impedimento",
+      "jurídico",
+      ",",
+      "actualmente",
+      "encuentra",
+      "recluido",
+      "cárcel",
+      "máxima",
+      "seguridad",
+      "guayaquil",
+      ",",
+      "mientras",
+      "ecuador",
+      "méxico",
+      "mantienen",
+      "disputas",
+      "legales",
+      "corte",
+      "internacional",
+      "justicia",
+      "violación",
+      "ecuatorianos",
+      "diplomacia",
+      ".",
+      ".",
+      "próximas",
+      "semanas",
+      ",",
+      "abrirá",
+      "plazo",
+      "quince",
+      "días",
+      "partes",
+      "presenten",
+      "pruebas",
+      "cargo",
+      "descargo",
+      ",",
+      "seguido",
+      "audiencias",
+      "actuación",
+      "pruebas",
+      ".",
+      "canciller",
+      "sommerfeld",
+      "oportunidad",
+      "defender",
+      "desempeño",
+      "demostrar",
+      "si",
+      "cumplido",
+      "funciones",
+      "correctamente",
+      ".",
+      "solicitud",
+      "juicio",
+      "político",
+      "presentada",
+      "asambleísta",
+      "jhajaira",
+      "urresta",
+      ",",
+      "movimiento",
+      "revolución",
+      "ciudadana",
+      "liderado",
+      "expresidente",
+      "correa",
+      ",",
+      "aceptada",
+      "consejo",
+      "administración",
+      "legislativa",
+      ".",
+      "méxico",
+      "denunciado",
+      "asalto",
+      "embajada",
+      "onu",
+      "solicitado",
+      "corte",
+      "internacional",
+      "justicia",
+      "declare",
+      "ecuador",
+      "responsable",
+      "dicho",
+      "incidente",
+      ",",
+      "mientras",
+      "gobierno",
+      "ecuatoriano",
+      "argumenta",
+      "méxico",
+      "violado",
+      "normas",
+      "internacionales",
+      "interferir",
+      "asuntos",
+      "internos",
+      "."
+    ],
+    "token_count": 194,
+    "sentence_count": 10
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 51,
+      "VBZ": 5,
+      "FW": 86,
+      "NN": 107,
+      "JJ": 15,
+      "IN": 12,
+      "VBD": 1,
+      "JJR": 1,
+      "NNS": 8,
+      "VBP": 4
+    },
+    "bigram_freq": {
+      "NNP-VBZ": 4,
+      "VBZ-FW": 3,
+      "FW-NNP": 20,
+      "NNP-FW": 12,
+      "FW-FW": 42,
+      "NNP-NNP": 16,
+      "NNP-NN": 15,
+      "NN-NN": 61,
+      "NN-JJ": 5,
+      "JJ-NN": 10,
+      "NN-IN": 9,
+      "IN-FW": 10,
+      "FW-JJ": 5,
+      "JJ-FW": 3,
+      "NNP-VBD": 1,
+      "VBD-JJR": 1,
+      "JJR-NN": 1,
+      "FW-NN": 19,
+      "NN-NNP": 11,
+      "NNP-JJ": 2,
+      "IN-NN": 1,
+      "NN-NNS": 5,
+      "NNS-VBP": 4,
+      "VBP-NNS": 1,
+      "NNS-NNS": 1,
+      "NNS-JJ": 1,
+      "NN-FW": 15,
+      "NNS-IN": 1,
+      "NNP-IN": 1,
+      "IN-NNP": 1,
+      "NNS-VBZ": 1,
+      "VBZ-IN": 1,
+      "VBP-FW": 1,
+      "VBP-NNP": 1,
+      "JJ-NNP": 1,
+      "VBZ-JJ": 1,
+      "JJ-NNS": 1,
+      "VBP-JJ": 1
+    },
+    "trigram_freq": {
+      "NNP-VBZ-FW": 3,
+      "VBZ-FW-NNP": 2,
+      "FW-NNP-FW": 7,
+      "NNP-FW-NNP": 6,
+      "NNP-FW-FW": 4,
+      "FW-FW-NNP": 5,
+      "FW-NNP-NNP": 5,
+      "NNP-NNP-FW": 4,
+      "FW-NNP-NN": 7,
+      "NNP-NN-NN": 12,
+      "NN-NN-NN": 35,
+      "NN-NN-JJ": 5,
+      "NN-JJ-NN": 3,
+      "JJ-NN-IN": 4,
+      "NN-IN-FW": 8,
+      "IN-FW-FW": 6,
+      "FW-FW-JJ": 3,
+      "FW-JJ-FW": 2,
+      "JJ-FW-FW": 1,
+      "FW-FW-FW": 26,
+      "NNP-NNP-NNP": 5,
+      "NNP-NNP-VBD": 1,
+      "NNP-VBD-JJR": 1,
+      "VBD-JJR-NN": 1,
+      "JJR-NN-IN": 1,
+      "FW-FW-NN": 8,
+      "FW-NN-NN": 10,
+      "NN-NN-NNP": 8,
+      "NN-NNP-NNP": 4,
+      "NNP-NNP-JJ": 1,
+      "NNP-JJ-NN": 2,
+      "NN-IN-NN": 1,
+      "IN-NN-NNS": 1,
+      "NN-NNS-VBP": 3,
+      "NNS-VBP-NNS": 1,
+      "VBP-NNS-NNS": 1,
+      "NNS-NNS-JJ": 1,
+      "NNS-JJ-NN": 1,
+      "JJ-NN-FW": 2,
+      "NN-FW-NN": 7,
+      "FW-NN-FW": 5,
+      "NN-NN-FW": 8,
+      "FW-NN-IN": 2,
+      "NN-NN-IN": 2,
+      "IN-FW-JJ": 1,
+      "JJ-FW-NN": 2,
+      "FW-NN-NNP": 2,
+      "NN-NNP-NN": 5,
+      "NNP-NN-NNS": 2,
+      "NN-NNS-IN": 1,
+      "NNS-IN-FW": 1,
+      "IN-FW-NNP": 3,
+      "NNP-FW-NN": 2,
+      "NN-FW-NNP": 4,
+      "NNP-NNP-VBZ": 2,
+      "FW-NNP-IN": 1,
+      "NNP-IN-NNP": 1,
+      "IN-NNP-NNP": 1,
+      "NNP-NNP-NN": 3,
+      "JJ-NN-NN": 4,
+      "NN-FW-JJ": 1,
+      "FW-JJ-NN": 3,
+      "NN-NNS-VBZ": 1,
+      "NNS-VBZ-IN": 1,
+      "VBZ-IN-FW": 1,
+      "NN-FW-FW": 3,
+      "NN-NNP-VBZ": 1,
+      "VBZ-FW-FW": 1,
+      "NN-NN-NNS": 2,
+      "NNS-VBP-FW": 1,
+      "VBP-FW-FW": 1,
+      "NNP-NN-NNP": 1,
+      "NNS-VBP-NNP": 1,
+      "VBP-NNP-FW": 1,
+      "NN-JJ-NNP": 1,
+      "JJ-NNP-NNP": 1,
+      "NNP-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 1,
+      "NN-NNP-JJ": 1,
+      "NN-JJ-NNS": 1,
+      "JJ-NNS-VBP": 1,
+      "NNS-VBP-JJ": 1,
+      "VBP-JJ-FW": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 107,
+        "FW": 86,
+        "NNP": 51,
+        "JJ": 15,
+        "IN": 12
+      },
+      "top_bigrams": {
+        "NN-NN": 61,
+        "FW-FW": 42,
+        "FW-NNP": 20,
+        "FW-NN": 19,
+        "NNP-NNP": 16
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 35,
+        "FW-FW-FW": 26,
+        "NNP-NN-NN": 12,
+        "FW-NN-NN": 10,
+        "NN-IN-FW": 8
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 10,
+    "chunk_counts": {
+      "NP": 75,
+      "ADJP": 2,
+      "VP": 13,
+      "PP": 6
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 5,
+        "weight": 0.0472
+      },
+      {
+        "rule": "ADJP -> ('contra', 'JJ')",
+        "frequency": 2,
+        "weight": 0.0189
+      },
+      {
+        "rule": "NP -> ('La', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0189
+      },
+      {
+        "rule": "S -> NP (',', ',') ('la', 'FW') NP ('de', 'FW') NP ('de', 'FW') ('la', 'FW') NP ('de', 'FW') NP NP ('de', 'IN') ('juicio', 'FW') ('político', 'FW') ADJP ('la', 'FW') ('ministra', 'FW') ('de', 'FW') NP (',', ',') NP (',', ',') VP ('de', 'IN') ('incumplimiento', 'FW') ('de', 'FW') ('funciones', 'FW') ('en', 'FW') ('relación', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0094
+      },
+      {
+        "rule": "NP -> ('El', 'NNP') ('martes', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0094
+      },
+      {
+        "rule": "NP -> ('Comisión', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0094
+      },
+      {
+        "rule": "NP -> ('Fiscalización', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0094
+      },
+      {
+        "rule": "NP -> ('Asamblea', 'NNP') ('Nacional', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0094
+      },
+      {
+        "rule": "NP -> ('Ecuador', 'NNP') ('dio', 'NN') ('luz', 'NN') ('verde', 'NN')",
+        "frequency": 1,
+        "weight": 0.0094
+      },
+      {
+        "rule": "NP -> ('al', 'JJ') ('proceso', 'NN')",
+        "frequency": 1,
+        "weight": 0.0094
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El martes"
+      },
+      {
+        "label": "NP",
+        "text": "Comisión"
+      },
+      {
+        "label": "NP",
+        "text": "Fiscalización"
+      },
+      {
+        "label": "NP",
+        "text": "Asamblea Nacional"
+      },
+      {
+        "label": "NP",
+        "text": "Ecuador dio luz verde"
+      },
+      {
+        "label": "NP",
+        "text": "al proceso"
+      },
+      {
+        "label": "ADJP",
+        "text": "contra"
+      },
+      {
+        "label": "NP",
+        "text": "Relaciones Exteriores y Movilidad Humana"
+      },
+      {
+        "label": "NP",
+        "text": "Gabriela Sommerfeld"
+      },
+      {
+        "label": "VP",
+        "text": "tras ser acusada"
+      },
+      {
+        "label": "NP",
+        "text": "ser acusada"
+      },
+      {
+        "label": "NP",
+        "text": "con la crisis diplomática con México"
+      },
+      {
+        "label": "NP",
+        "text": "Con"
+      },
+      {
+        "label": "NP",
+        "text": "una votación"
+      },
+      {
+        "label": "PP",
+        "text": "de cinco"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP El/NNP martes/NNS)\n  ,/,\n  la/FW\n  (NP Comisión/NNP)\n  de/FW\n  (NP Fiscalización/NNP)\n  de/FW\n  la/FW\n  (NP Asamblea/NNP Nacional/NNP)\n  de/FW\n  (NP Ecuador/NNP dio/NN luz/NN verde/NN)\n  (NP al/JJ proceso/NN)\n  de/IN\n  juicio/FW\n  político/FW\n  (ADJP contra/JJ)\n  la/FW\n  ministra/FW\n  de/FW\n  (NP Relaciones/NNP Exteriores/NNP y/NNP Movilidad/NNP Humana/NNP)\n  ,/,\n  (NP Gabriela/NNP Sommerfeld/NNP)\n  ,/,\n  (VP tras/VBZ (NP ser/JJR acusada/NN))\n  de/IN\n  incumplimiento/FW\n  de/FW\n  funciones/FW\n  en/FW\n  relación/FW\n  (NP con/NN la/NN crisis/NN diplomática/NN con/NN México/NNP)\n  ./.)",
+      "(S\n  (NP Con/NNP)\n  (NP una/JJ votación/NN)\n  (PP de/IN (NP cinco/NN))\n  (VP legisladores/VBZ (NP a/DT favor/NN))\n  ,/,\n  (VP tres/VBZ (NP abstenciones/NNS) y/RB (NP un/JJ voto/NN))\n  (PP en/IN (NP contra/NN))\n  ,/,\n  la/FW\n  comisión/FW\n  ha/FW\n  iniciado/FW\n  el/FW\n  proceso/FW\n  de/FW\n  sustanciación/FW\n  del/FW\n  (NP juicio/NN político/NN)\n  de/IN\n  censura/FW\n  (ADJP contra/JJ)\n  la/FW\n  (NP canciller/NN)\n  ./.)",
+      "(S\n  (NP Sommerfeld/NNP)\n  (NP enfrenta/JJ acusaciones/NNS)\n  de/IN\n  negligencia/FW\n  en/FW\n  su/FW\n  gestión/FW\n  (NP durante/NN)\n  la/FW\n  (NP crisis/NN desatada/NN por/NN la/NN)\n  (NP irrupción/JJ violenta/NN)\n  de/IN\n  la/FW\n  (NP Policía/NNP)\n  en/FW\n  la/FW\n  embajada/FW\n  mexicana/FW\n  en/FW\n  (NP Quito/NNP)\n  (VP el/VBP pasado/JJ)\n  5/CD\n  (PP de/IN (NP abril/NN))\n  ./.)",
+      "(S\n  (NP La/NNP)\n  polémica/FW\n  se/FW\n  desató/FW\n  (NP cuando/NN)\n  la/FW\n  (NP Policía/NNP intentó/NN detener/NN)\n  (NP a/DT Jorge/NNP Glas/NNP)\n  ,/,\n  (VP exvicepresidente/VBZ)\n  del/FW\n  (NP Gobierno/NNP)\n  (PP de/IN (NP Rafael/NNP Correa/NNP))\n  ,/,\n  (NP que/NN se/NN encontraba/NN refugiado/NN)\n  en/IN\n  la/FW\n  embajada/FW\n  (NP mexicana/NN)\n  ./.)",
+      "(S\n  (NP A/DT pesar/NN)\n  (PP de/IN (NP contar/NN con/NN asilo/NN diplomático/NN))\n  ,/,\n  (NP Glas/NNP fue/NN arrestado/NN)\n  ,/,\n  (NP contra/JJ todo/NN el/NN impedimento/NN jurídico/NN)\n  ,/,\n  y/CC\n  (NP actualmente/JJ se/NN)\n  (NP encuentra/JJ recluido/NN)\n  en/IN\n  la/FW\n  cárcel/FW\n  de/FW\n  máxima/FW\n  seguridad/FW\n  de/FW\n  (NP Guayaquil/NNP)\n  ,/,\n  mientras/FW\n  (NP Ecuador/NNP)\n  y/CC\n  (NP México/NNP mantienen/NN disputas/NNS)\n  (VP legales/VBZ)\n  en/IN\n  la/FW\n  (NP Corte/NNP Internacional/NNP)\n  de/FW\n  (NP Justicia/NNP por/NN la/NN)\n  violación/FW\n  de/FW\n  los/FW\n  ecuatorianos/FW\n  (NP a/DT la/NN diplomacia/NN)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "CIUDADES_CAPITALES",
+      "GOBIERNOS_OFICIALES",
+      "ORGANISMOS_INTERNACIONALES",
+      "TIEMPO_RELATIVO",
+      "PAISES",
+      "INFRAESTRUCTURA_SERVICIOS",
+      "JURIDICO_LEGISLATIVO_CORRUPCION"
+    ],
+    "matches": [
+      {
+        "category": "JURIDICO_LEGISLATIVO_CORRUPCION",
+        "matched_text": "comisión de fiscalización de la asamblea nacional de ecuador dio luz verde al proceso de juicio político contra la ministra de relaciones exteriores y movilidad humana, gabriela sommerfeld, tras ser acusada de incumplimiento de funciones",
+        "position": [
+          14,
+          251
+        ],
+        "start": 14,
+        "end": 251
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "gobierno de rafael correa",
+        "position": [
+          767,
+          792
+        ],
+        "start": 767,
+        "end": 792
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "ministra de relaciones exteriores",
+        "position": [
+          129,
+          162
+        ],
+        "start": 129,
+        "end": 162
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "asamblea nacional",
+        "position": [
+          46,
+          63
+        ],
+        "start": 46,
+        "end": 63
+      },
+      {
+        "category": "ORGANISMOS_INTERNACIONALES",
+        "matched_text": "onu",
+        "position": [
+          1746,
+          1749
+        ],
+        "start": 1746,
+        "end": 1749
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "luz",
+        "position": [
+          79,
+          82
+        ],
+        "start": 79,
+        "end": 82
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "ecuador",
+        "position": [
+          67,
+          74
+        ],
+        "start": 67,
+        "end": 74
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "méxico",
+        "position": [
+          294,
+          300
+        ],
+        "start": 294,
+        "end": 300
+      },
+      {
+        "category": "CIUDADES_CAPITALES",
+        "matched_text": "guayaquil",
+        "position": [
+          1017,
+          1026
+        ],
+        "start": 1017,
+        "end": 1026
+      },
+      {
+        "category": "CIUDADES_CAPITALES",
+        "matched_text": "quito",
+        "position": [
+          648,
+          653
+        ],
+        "start": 648,
+        "end": 653
+      },
+      {
+        "category": "TIEMPO_RELATIVO",
+        "matched_text": "actualmente",
+        "position": [
+          947,
+          958
+        ],
+        "start": 947,
+        "end": 958
+      }
+    ],
+    "match_count": 11
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Revolución Ciudadana",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Gabriela Sommerfeld",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Sommerfeld",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Gobierno de Rafael Correa",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Relaciones Exteriores y Movilidad Humana",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Consejo de Administración Legislativa",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Jorge Glas",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "ONU",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Jhajaira Urresta",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Quito",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Glas",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Corte Internacional de Justicia",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Ecuador",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Correa",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Guayaquil",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Asamblea Nacional de Ecuador",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Comisión de Fiscalización",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Gobierno ecuatoriano",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "México",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Policía",
+        "tipo": "Organizacion"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Comisión de Fiscalización",
+        "relacion": "DAR",
+        "objeto": "Relaciones Exteriores y Movilidad Humana"
+      },
+      {
+        "sujeto": "Comisión de Fiscalización",
+        "relacion": "DAR",
+        "objeto": "Gabriela Sommerfeld"
+      },
+      {
+        "sujeto": "Comisión de Fiscalización",
+        "relacion": "DAR",
+        "objeto": "México"
+      },
+      {
+        "sujeto": "Asamblea Nacional de Ecuador",
+        "relacion": "DAR",
+        "objeto": "Relaciones Exteriores y Movilidad Humana"
+      },
+      {
+        "sujeto": "Asamblea Nacional de Ecuador",
+        "relacion": "DAR",
+        "objeto": "Gabriela Sommerfeld"
+      },
+      {
+        "sujeto": "Asamblea Nacional de Ecuador",
+        "relacion": "DAR",
+        "objeto": "México"
+      },
+      {
+        "sujeto": "Relaciones Exteriores y Movilidad Humana",
+        "relacion": "DAR",
+        "objeto": "México"
+      },
+      {
+        "sujeto": "Gabriela Sommerfeld",
+        "relacion": "DAR",
+        "objeto": "México"
+      },
+      {
+        "sujeto": "Sommerfeld",
+        "relacion": "ENFRENTAR",
+        "objeto": "Policía"
+      },
+      {
+        "sujeto": "Sommerfeld",
+        "relacion": "ENFRENTAR",
+        "objeto": "Quito"
+      },
+      {
+        "sujeto": "Policía",
+        "relacion": "INTENTAR_DESATAR",
+        "objeto": "Jorge Glas"
+      },
+      {
+        "sujeto": "Policía",
+        "relacion": "INTENTAR_DESATAR",
+        "objeto": "Gobierno de Rafael Correa"
+      },
+      {
+        "sujeto": "Glas",
+        "relacion": "ARRESTAR",
+        "objeto": "Guayaquil"
+      },
+      {
+        "sujeto": "Glas",
+        "relacion": "ARRESTAR",
+        "objeto": "Ecuador"
+      },
+      {
+        "sujeto": "Glas",
+        "relacion": "ARRESTAR",
+        "objeto": "México"
+      },
+      {
+        "sujeto": "Glas",
+        "relacion": "ARRESTAR",
+        "objeto": "Corte Internacional de Justicia"
+      },
+      {
+        "sujeto": "Ecuador",
+        "relacion": "ENCONTRAR_ARRESTAR",
+        "objeto": "Guayaquil"
+      },
+      {
+        "sujeto": "Guayaquil",
+        "relacion": "ENCONTRAR_ARRESTAR",
+        "objeto": "México"
+      },
+      {
+        "sujeto": "Guayaquil",
+        "relacion": "ENCONTRAR_ARRESTAR",
+        "objeto": "Corte Internacional de Justicia"
+      },
+      {
+        "sujeto": "Ecuador",
+        "relacion": "MANTENER_ENCONTRAR_ARRESTAR",
+        "objeto": "Corte Internacional de Justicia"
+      },
+      {
+        "sujeto": "México",
+        "relacion": "MANTENER_ENCONTRAR_ARRESTAR",
+        "objeto": "Corte Internacional de Justicia"
+      },
+      {
+        "sujeto": "Jhajaira Urresta",
+        "relacion": "PRESENTAR",
+        "objeto": "Consejo de Administración Legislativa"
+      },
+      {
+        "sujeto": "Revolución Ciudadana",
+        "relacion": "PRESENTAR",
+        "objeto": "Consejo de Administración Legislativa"
+      },
+      {
+        "sujeto": "Correa",
+        "relacion": "PRESENTAR",
+        "objeto": "Consejo de Administración Legislativa"
+      },
+      {
+        "sujeto": "México",
+        "relacion": "DENUNCIAR",
+        "objeto": "ONU"
+      },
+      {
+        "sujeto": "México",
+        "relacion": "DENUNCIAR",
+        "objeto": "Corte Internacional de Justicia"
+      },
+      {
+        "sujeto": "México",
+        "relacion": "DENUNCIAR",
+        "objeto": "Ecuador"
+      },
+      {
+        "sujeto": "ONU",
+        "relacion": "DENUNCIAR",
+        "objeto": "Corte Internacional de Justicia"
+      },
+      {
+        "sujeto": "ONU",
+        "relacion": "DENUNCIAR",
+        "objeto": "Ecuador"
+      },
+      {
+        "sujeto": "Corte Internacional de Justicia",
+        "relacion": "SOLICITAR_DENUNCIAR",
+        "objeto": "Ecuador"
+      },
+      {
+        "sujeto": "Gobierno ecuatoriano",
+        "relacion": "ARGUMENTAR",
+        "objeto": "México"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.5994,
+    "pos": 0.053,
+    "neu": 0.92,
+    "neg": 0.027,
+    "label": "positive"
+  }
+}

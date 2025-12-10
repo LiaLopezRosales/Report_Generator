@@ -1,0 +1,761 @@
+{
+  "url": "https://www.telesurtv.net/veedores-de-italia-certifican-confiabilidad-del-sistema-electoral-venezolano/",
+  "title": "Veedores de Italia certifican confiabilidad del sistema electoral venezolano - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "sistema electoral venezolano",
+    "Venezuela"
+  ],
+  "text": "Ante su participación en el programa de acompañamiento en la elección presidencial del 28 de julio en Venezuela, los veedores internacionales del sur de Italia certificaron la transparencia y la confiabilidad del sistema electoral del país suramericano.\nSe informó en Instagram por parte del Ministerio de Relaciones Exteriores que la reunión tuvo lugar en el Consulado General de Venezuela en Nápoles. En dicha cita, los representantes de los partidos políticos y los movimientos solidarios con la Revolución Bolivariana mencionaron que realizaron un recorrido en cinco centros electorales durante la jornada electoral.\n“Observamos cinco centros electorales y testimoniamos que el sistema electoral de doble control utilizado por Venezuela es imposible de alterar y modificar. Tal como están las cosas, no hay documentos que demuestren que la oposición ganó las elecciones. El sistema de votación en cada circunscripción está bien controlado. No es posible realizar ningún tipo de fraude electoral. Debemos informar a la población mundial sobre la verdad de los hechos”, destacaron.\nLa cónsul general, Esquía A. Rubín de Celis, comenzó la reunión analizando el proceso electoral de Venezuela y las medidas que el presidente Nicolás Maduro ha tomado para mantener la paz en el país, dentro del marco del ordenamiento jurídico venezolano, y para enfrentar el ataque excesivo, tanto a nivel nacional como internacional, después de que el Consejo Nacional Electoral (CNE) haya declarado su victoria.\nAfirmaron que Venezuela es una nación democrática y que, durante su estadía como observadores, experimentaron una gran tensión en la ciudad de Caracas después de las elecciones.\nEnfatizaron que la oposición extremista en Venezuela propaga información errónea en las redes sociales. “Todo se complica por el hecho de que esta información viaja rápidamente por todo el mundo, a través de aplicaciones gestionadas y gobernadas por norteamericanos”.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/veedores-de-italia-certifican-confiabilidad-del-sistema-electoral-venezolano/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-08.json",
+    "message_index": 1096,
+    "message_id": 74395,
+    "date": "2024-08-12T12:55:12+00:00",
+    "text": "teleSUR\nVeedores de Italia certifican confiabilidad del sistema electoral venezolano\nhttps://www.telesurtv.net/veedores-de-italia-certifican-confiabilidad-del-sistema-electoral-venezolano/",
+    "photo_path": null,
+    "views": 4046,
+    "reactions": {
+      "👍": 92,
+      "👏": 15,
+      "❤": 9,
+      "😱": 2,
+      "🔥": 1
+    },
+    "total_reactions": 119
+  },
+  "preprocessing": {
+    "cleaned": "ante su participación en el programa de acompañamiento en la elección presidencial del 28 de julio en venezuela, los veedores internacionales del sur de italia certificaron la transparencia y la confiabilidad del sistema electoral del país suramericano. se informó en instagram por parte del ministerio de relaciones exteriores que la reunión tuvo lugar en el consulado general de venezuela en nápoles. en dicha cita, los representantes de los partidos políticos y los movimientos solidarios con la revolución bolivariana mencionaron que realizaron un recorrido en cinco centros electorales durante la jornada electoral. “observamos cinco centros electorales y testimoniamos que el sistema electoral de doble control utilizado por venezuela es imposible de alterar y modificar. tal como están las cosas, no hay documentos que demuestren que la oposición ganó las elecciones. el sistema de votación en cada circunscripción está bien controlado. no es posible realizar ningún tipo de fraude electoral. debemos informar a la población mundial sobre la verdad de los hechos”, destacaron. la cónsul general, esquía a. rubín de celis, comenzó la reunión analizando el proceso electoral de venezuela y las medidas que el presidente nicolás maduro ha tomado para mantener la paz en el país, dentro del marco del ordenamiento jurídico venezolano, y para enfrentar el ataque excesivo, tanto a nivel nacional como internacional, después de que el consejo nacional electoral (cne) haya declarado su victoria. afirmaron que venezuela es una nación democrática y que, durante su estadía como observadores, experimentaron una gran tensión en la ciudad de caracas después de las elecciones. enfatizaron que la oposición extremista en venezuela propaga información errónea en las redes sociales. “todo se complica por el hecho de que esta información viaja rápidamente por todo el mundo, a través de aplicaciones gestionadas y gobernadas por norteamericanos”.",
+    "tokens": [
+      "participación",
+      "programa",
+      "acompañamiento",
+      "elección",
+      "presidencial",
+      "28",
+      "julio",
+      "venezuela",
+      ",",
+      "veedores",
+      "internacionales",
+      "sur",
+      "italia",
+      "certificaron",
+      "transparencia",
+      "confiabilidad",
+      "sistema",
+      "electoral",
+      "país",
+      "suramericano",
+      ".",
+      "informó",
+      "instagram",
+      "parte",
+      "ministerio",
+      "relaciones",
+      "exteriores",
+      "reunión",
+      "lugar",
+      "consulado",
+      "general",
+      "venezuela",
+      "nápoles",
+      ".",
+      "dicha",
+      "cita",
+      ",",
+      "representantes",
+      "partidos",
+      "políticos",
+      "movimientos",
+      "solidarios",
+      "revolución",
+      "bolivariana",
+      "mencionaron",
+      "realizaron",
+      "recorrido",
+      "cinco",
+      "centros",
+      "electorales",
+      "jornada",
+      "electoral",
+      ".",
+      "“",
+      "observamos",
+      "cinco",
+      "centros",
+      "electorales",
+      "testimoniamos",
+      "sistema",
+      "electoral",
+      "doble",
+      "control",
+      "utilizado",
+      "venezuela",
+      "imposible",
+      "alterar",
+      "modificar",
+      ".",
+      "tal",
+      "cosas",
+      ",",
+      "documentos",
+      "demuestren",
+      "oposición",
+      "ganó",
+      "elecciones",
+      ".",
+      "sistema",
+      "votación",
+      "cada",
+      "circunscripción",
+      "bien",
+      "controlado",
+      ".",
+      "posible",
+      "realizar",
+      "ningún",
+      "tipo",
+      "fraude",
+      "electoral",
+      ".",
+      "debemos",
+      "informar",
+      "población",
+      "mundial",
+      "verdad",
+      "hechos",
+      "”",
+      ",",
+      "destacaron",
+      ".",
+      "cónsul",
+      "general",
+      ",",
+      "esquía",
+      "a.",
+      "rubín",
+      "celis",
+      ",",
+      "comenzó",
+      "reunión",
+      "analizando",
+      "proceso",
+      "electoral",
+      "venezuela",
+      "medidas",
+      "presidente",
+      "nicolás",
+      "maduro",
+      "tomado",
+      "mantener",
+      "paz",
+      "país",
+      ",",
+      "dentro",
+      "marco",
+      "ordenamiento",
+      "jurídico",
+      "venezolano",
+      ",",
+      "enfrentar",
+      "ataque",
+      "excesivo",
+      ",",
+      "nivel",
+      "nacional",
+      "internacional",
+      ",",
+      "después",
+      "consejo",
+      "nacional",
+      "electoral",
+      "(",
+      "cne",
+      ")",
+      "declarado",
+      "victoria",
+      ".",
+      "afirmaron",
+      "venezuela",
+      "nación",
+      "democrática",
+      ",",
+      "estadía",
+      "observadores",
+      ",",
+      "experimentaron",
+      "gran",
+      "tensión",
+      "ciudad",
+      "caracas",
+      "después",
+      "elecciones",
+      ".",
+      "enfatizaron",
+      "oposición",
+      "extremista",
+      "venezuela",
+      "propaga",
+      "información",
+      "errónea",
+      "redes",
+      "sociales",
+      ".",
+      "“",
+      "complica",
+      "hecho",
+      "información",
+      "viaja",
+      "rápidamente",
+      "mundo",
+      ",",
+      "través",
+      "aplicaciones",
+      "gestionadas",
+      "gobernadas",
+      "norteamericanos",
+      "”",
+      "."
+    ],
+    "token_count": 190,
+    "sentence_count": 12
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 41,
+      "NN": 109,
+      "IN": 15,
+      "JJ": 33,
+      "FW": 56,
+      "CD": 1,
+      "NNS": 10,
+      "VBZ": 7,
+      "VBP": 6,
+      "CC": 2,
+      "DT": 1
+    },
+    "bigram_freq": {
+      "NNP-NN": 20,
+      "NN-NN": 61,
+      "NN-IN": 10,
+      "IN-JJ": 3,
+      "JJ-NN": 16,
+      "IN-FW": 7,
+      "FW-FW": 28,
+      "FW-JJ": 5,
+      "NN-CD": 1,
+      "CD-IN": 1,
+      "IN-NN": 3,
+      "NN-FW": 12,
+      "FW-NNP": 11,
+      "NN-NNS": 4,
+      "NNS-VBZ": 1,
+      "VBZ-FW": 1,
+      "NN-JJ": 7,
+      "JJ-JJ": 8,
+      "NN-NNP": 9,
+      "NNP-IN": 2,
+      "IN-NNP": 2,
+      "NNP-NNP": 11,
+      "NNP-FW": 4,
+      "FW-NN": 8,
+      "NN-VBZ": 4,
+      "VBZ-IN": 1,
+      "NNS-VBP": 4,
+      "VBP-JJ": 4,
+      "JJ-NNP": 4,
+      "VBZ-JJ": 3,
+      "JJ-FW": 4,
+      "VBZ-NNS": 1,
+      "NNS-JJ": 1,
+      "NNP-CC": 2,
+      "CC-JJ": 2,
+      "VBP-DT": 1,
+      "DT-NN": 1,
+      "VBP-NNP": 1,
+      "NN-VBP": 1,
+      "NNP-VBZ": 2,
+      "FW-IN": 1,
+      "VBZ-VBP": 1,
+      "FW-NNS": 3,
+      "NNS-NNP": 2,
+      "NNS-NNS": 1,
+      "JJ-NNS": 1
+    },
+    "trigram_freq": {
+      "NNP-NN-NN": 14,
+      "NN-NN-IN": 5,
+      "NN-IN-JJ": 3,
+      "IN-JJ-NN": 1,
+      "JJ-NN-IN": 4,
+      "NN-IN-FW": 6,
+      "IN-FW-FW": 3,
+      "FW-FW-FW": 18,
+      "FW-FW-JJ": 1,
+      "FW-JJ-NN": 4,
+      "JJ-NN-CD": 1,
+      "NN-CD-IN": 1,
+      "CD-IN-NN": 1,
+      "IN-NN-FW": 1,
+      "NN-FW-NNP": 4,
+      "FW-NNP-NN": 4,
+      "NNP-NN-NNS": 1,
+      "NN-NNS-VBZ": 1,
+      "NNS-VBZ-FW": 1,
+      "VBZ-FW-FW": 1,
+      "FW-FW-NNP": 3,
+      "NN-NN-NN": 34,
+      "NN-NN-JJ": 3,
+      "NN-JJ-JJ": 2,
+      "JJ-JJ-NN": 2,
+      "JJ-NN-NN": 7,
+      "NN-NN-NNP": 4,
+      "NN-NNP-NN": 4,
+      "NNP-NN-FW": 2,
+      "NN-NN-FW": 8,
+      "FW-NNP-IN": 1,
+      "NNP-IN-NNP": 2,
+      "IN-NNP-NNP": 1,
+      "NNP-NNP-NNP": 5,
+      "NNP-NNP-FW": 2,
+      "NNP-FW-NN": 1,
+      "FW-NN-NN": 3,
+      "IN-FW-NNP": 1,
+      "FW-NNP-NNP": 3,
+      "NNP-FW-NNP": 2,
+      "FW-NNP-FW": 2,
+      "NNP-NNP-NN": 4,
+      "NN-NN-VBZ": 4,
+      "NN-VBZ-IN": 1,
+      "VBZ-IN-FW": 1,
+      "IN-FW-JJ": 2,
+      "NN-NN-NNS": 2,
+      "NN-NNS-VBP": 3,
+      "NNS-VBP-JJ": 2,
+      "VBP-JJ-NNP": 1,
+      "JJ-NNP-NNP": 1,
+      "NN-JJ-NN": 5,
+      "NN-IN-NN": 1,
+      "IN-NN-NN": 2,
+      "NN-VBZ-JJ": 1,
+      "VBZ-JJ-FW": 1,
+      "JJ-FW-JJ": 2,
+      "FW-JJ-JJ": 1,
+      "JJ-JJ-NNP": 2,
+      "JJ-NNP-NN": 3,
+      "NN-VBZ-NNS": 1,
+      "VBZ-NNS-JJ": 1,
+      "NNS-JJ-JJ": 1,
+      "JJ-JJ-JJ": 2,
+      "JJ-JJ-FW": 2,
+      "JJ-NN-JJ": 3,
+      "JJ-NN-NNP": 1,
+      "NN-NNP-CC": 1,
+      "NNP-CC-JJ": 2,
+      "CC-JJ-FW": 1,
+      "JJ-FW-FW": 1,
+      "FW-FW-NN": 3,
+      "FW-NN-NNP": 2,
+      "NNS-VBP-DT": 1,
+      "VBP-DT-NN": 1,
+      "DT-NN-NN": 1,
+      "NN-FW-NN": 4,
+      "FW-NN-NNS": 1,
+      "NNS-VBP-NNP": 1,
+      "VBP-NNP-NN": 1,
+      "NN-FW-FW": 4,
+      "NNP-NN-JJ": 1,
+      "IN-JJ-JJ": 2,
+      "NN-NN-VBP": 1,
+      "NN-VBP-JJ": 1,
+      "VBP-JJ-NN": 2,
+      "NN-NNP-VBZ": 2,
+      "NNP-VBZ-JJ": 2,
+      "VBZ-JJ-NNP": 1,
+      "NNP-NN-NNP": 2,
+      "NN-NNP-IN": 1,
+      "IN-NNP-NN": 1,
+      "JJ-FW-NNP": 1,
+      "FW-NNP-CC": 1,
+      "CC-JJ-NN": 1,
+      "NN-NNP-NNP": 1,
+      "FW-FW-IN": 1,
+      "FW-IN-NN": 1,
+      "VBZ-JJ-NN": 1,
+      "NN-VBZ-VBP": 1,
+      "VBZ-VBP-JJ": 1,
+      "NNP-FW-FW": 1,
+      "FW-FW-NNS": 2,
+      "FW-NNS-NNP": 1,
+      "NNS-NNP-NN": 2,
+      "FW-NN-FW": 1,
+      "IN-FW-NNS": 1,
+      "FW-NNS-NNS": 1,
+      "NNS-NNS-NNP": 1,
+      "FW-NN-IN": 1,
+      "FW-NNS-VBP": 1,
+      "VBP-JJ-NNS": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 109,
+        "FW": 56,
+        "NNP": 41,
+        "JJ": 33,
+        "IN": 15
+      },
+      "top_bigrams": {
+        "NN-NN": 61,
+        "FW-FW": 28,
+        "NNP-NN": 20,
+        "JJ-NN": 16,
+        "NN-FW": 12
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 34,
+        "FW-FW-FW": 18,
+        "NNP-NN-NN": 14,
+        "NN-NN-FW": 8,
+        "JJ-NN-NN": 7
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 12,
+    "chunk_counts": {
+      "NP": 74,
+      "PP": 7,
+      "VP": 10,
+      "ADJP": 9
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 3,
+        "weight": 0.0268
+      },
+      {
+        "rule": "NP -> ('Venezuela', 'NNP')",
+        "frequency": 3,
+        "weight": 0.0268
+      },
+      {
+        "rule": "ADJP -> ('electoral', 'JJ')",
+        "frequency": 3,
+        "weight": 0.0268
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0179
+      },
+      {
+        "rule": "S -> NP PP ('de', 'IN') ('acompañamiento', 'FW') ('en', 'FW') ('la', 'FW') ('elección', 'FW') NP ('28', 'CD') PP ('en', 'FW') NP (',', ',') NP VP ('del', 'FW') ('sur', 'FW') ('de', 'FW') NP NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0089
+      },
+      {
+        "rule": "NP -> ('Ante', 'NNP') ('su', 'NN') ('participación', 'NN')",
+        "frequency": 1,
+        "weight": 0.0089
+      },
+      {
+        "rule": "NP -> ('el', 'JJ') ('programa', 'NN')",
+        "frequency": 1,
+        "weight": 0.0089
+      },
+      {
+        "rule": "NP -> ('presidencial', 'JJ') ('del', 'NN')",
+        "frequency": 1,
+        "weight": 0.0089
+      },
+      {
+        "rule": "NP -> ('julio', 'NN')",
+        "frequency": 1,
+        "weight": 0.0089
+      },
+      {
+        "rule": "NP -> ('los', 'NN') ('veedores', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0089
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Ante su participación"
+      },
+      {
+        "label": "PP",
+        "text": "en el programa"
+      },
+      {
+        "label": "NP",
+        "text": "el programa"
+      },
+      {
+        "label": "NP",
+        "text": "presidencial del"
+      },
+      {
+        "label": "PP",
+        "text": "de julio"
+      },
+      {
+        "label": "NP",
+        "text": "julio"
+      },
+      {
+        "label": "NP",
+        "text": "Venezuela"
+      },
+      {
+        "label": "NP",
+        "text": "los veedores"
+      },
+      {
+        "label": "VP",
+        "text": "internacionales"
+      },
+      {
+        "label": "NP",
+        "text": "Italia certificaron la transparencia y la confiabilidad del"
+      },
+      {
+        "label": "NP",
+        "text": "sistema electoral del país suramericano"
+      },
+      {
+        "label": "NP",
+        "text": "Se informó"
+      },
+      {
+        "label": "NP",
+        "text": "Instagram por parte"
+      },
+      {
+        "label": "NP",
+        "text": "Ministerio"
+      },
+      {
+        "label": "PP",
+        "text": "de Relaciones Exteriores que la"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Ante/NNP su/NN participación/NN)\n  (PP en/IN (NP el/JJ programa/NN))\n  de/IN\n  acompañamiento/FW\n  en/FW\n  la/FW\n  elección/FW\n  (NP presidencial/JJ del/NN)\n  28/CD\n  (PP de/IN (NP julio/NN))\n  en/FW\n  (NP Venezuela/NNP)\n  ,/,\n  (NP los/NN veedores/NNS)\n  (VP internacionales/VBZ)\n  del/FW\n  sur/FW\n  de/FW\n  (NP\n    Italia/NNP\n    certificaron/NN\n    la/NN\n    transparencia/NN\n    y/NN\n    la/NN\n    confiabilidad/NN\n    del/NN)\n  (NP sistema/JJ electoral/JJ del/NN país/NN suramericano/NN)\n  ./.)",
+      "(S\n  (NP Se/NNP informó/NN)\n  en/FW\n  (NP Instagram/NNP por/NN parte/NN)\n  del/FW\n  (NP Ministerio/NNP)\n  (PP de/IN (NP Relaciones/NNP Exteriores/NNP que/NNP la/NNP))\n  reunión/FW\n  (NP tuvo/NN lugar/NN)\n  en/IN\n  el/FW\n  (NP Consulado/NNP General/NNP)\n  de/FW\n  (NP Venezuela/NNP)\n  en/FW\n  (NP Nápoles/NNP)\n  ./.)",
+      "(S\n  (NP En/NNP dicha/NN cita/NN)\n  ,/,\n  (NP los/JJ representantes/NNS)\n  de/IN\n  los/FW\n  (NP\n    partidos/JJ\n    políticos/NN\n    y/NN\n    los/NN\n    movimientos/NN\n    solidarios/NNS)\n  (VP\n    con/VBP\n    (NP\n      la/JJ\n      Revolución/NNP\n      Bolivariana/NNP\n      mencionaron/NNP\n      que/NN\n      realizaron/NN)\n    (NP un/JJ recorrido/NN))\n  (PP en/IN (NP cinco/NN centros/NN))\n  (VP electorales/VBZ durante/JJ)\n  la/FW\n  (ADJP jornada/JJ)\n  (ADJP electoral/JJ)\n  ./.)",
+      "(S\n  (NP “/JJ Observamos/NNP cinco/NN centros/NN)\n  (VP\n    electorales/VBZ\n    y/RB\n    (NP testimoniamos/JJ que/NN el/NN)\n    sistema/JJ\n    electoral/JJ)\n  de/FW\n  (NP doble/JJ control/NN)\n  (NP utilizado/JJ por/NN Venezuela/NNP)\n  es/CC\n  (ADJP imposible/JJ)\n  de/FW\n  alterar/FW\n  (NP y/NN modificar/NN)\n  ./.)",
+      "(S\n  (NP Tal/NNP como/NN están/NN las/NN cosas/NN)\n  ,/,\n  (NP no/DT hay/NN documentos/NN que/NN demuestren/NN que/NN la/NN)\n  oposición/FW\n  (NP ganó/NN las/NN elecciones/NNS)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "CIUDADES_CAPITALES",
+      "PAISES",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "GOBIERNOS_OFICIALES"
+    ],
+    "matches": [
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "veedores internacionales",
+        "position": [
+          117,
+          141
+        ],
+        "start": 117,
+        "end": 141
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "transparencia y la confiabilidad del sistema electoral",
+        "position": [
+          176,
+          230
+        ],
+        "start": 176,
+        "end": 230
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "informó",
+        "position": [
+          257,
+          264
+        ],
+        "start": 257,
+        "end": 264
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente nicolás maduro",
+        "position": [
+          1214,
+          1239
+        ],
+        "start": 1214,
+        "end": 1239
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "venezuela",
+        "position": [
+          102,
+          111
+        ],
+        "start": 102,
+        "end": 111
+      },
+      {
+        "category": "CIUDADES_CAPITALES",
+        "matched_text": "la paz",
+        "position": [
+          1264,
+          1270
+        ],
+        "start": 1264,
+        "end": 1270
+      },
+      {
+        "category": "CIUDADES_CAPITALES",
+        "matched_text": "caracas",
+        "position": [
+          1640,
+          1647
+        ],
+        "start": 1640,
+        "end": 1647
+      }
+    ],
+    "match_count": 7
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Nicolás Maduro",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Venezuela",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "CNE",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Ministerio de Relaciones Exteriores",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Revolución Bolivariana",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "sur de Italia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Consejo Nacional Electoral",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Caracas",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Debemos",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Nápoles",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Consulado General de Venezuela",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Instagram",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Esquía A. Rubín de Celis",
+        "tipo": "Persona"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Venezuela",
+        "relacion": "CERTIFICAR",
+        "objeto": "sur de Italia"
+      },
+      {
+        "sujeto": "Instagram",
+        "relacion": "INFORMAR",
+        "objeto": "Ministerio de Relaciones Exteriores"
+      },
+      {
+        "sujeto": "Instagram",
+        "relacion": "INFORMAR",
+        "objeto": "Consulado General de Venezuela"
+      },
+      {
+        "sujeto": "Instagram",
+        "relacion": "INFORMAR",
+        "objeto": "Nápoles"
+      },
+      {
+        "sujeto": "Ministerio de Relaciones Exteriores",
+        "relacion": "INFORMAR",
+        "objeto": "Consulado General de Venezuela"
+      },
+      {
+        "sujeto": "Ministerio de Relaciones Exteriores",
+        "relacion": "INFORMAR",
+        "objeto": "Nápoles"
+      },
+      {
+        "sujeto": "Esquía A. Rubín de Celis",
+        "relacion": "COMENZAR",
+        "objeto": "Venezuela"
+      },
+      {
+        "sujeto": "Esquía A. Rubín de Celis",
+        "relacion": "COMENZAR",
+        "objeto": "Nicolás Maduro"
+      },
+      {
+        "sujeto": "Consejo Nacional Electoral",
+        "relacion": "COMENZAR",
+        "objeto": "Esquía A. Rubín de Celis"
+      },
+      {
+        "sujeto": "Esquía A. Rubín de Celis",
+        "relacion": "COMENZAR",
+        "objeto": "CNE"
+      },
+      {
+        "sujeto": "Consejo Nacional Electoral",
+        "relacion": "TOMAR_ANALIZAR_COMENZAR",
+        "objeto": "Nicolás Maduro"
+      },
+      {
+        "sujeto": "Nicolás Maduro",
+        "relacion": "TOMAR_ANALIZAR_COMENZAR",
+        "objeto": "CNE"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.25,
+    "pos": 0.008,
+    "neu": 0.976,
+    "neg": 0.015,
+    "label": "negative"
+  }
+}

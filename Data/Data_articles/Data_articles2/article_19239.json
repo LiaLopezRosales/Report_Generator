@@ -1,0 +1,783 @@
+{
+  "url": "https://www.telesurtv.net/presidente-de-kenia-anuncia-cambios-en-el-gobierno-tras-oleada-de-protestas/",
+  "title": "Presidente de Kenia anuncia cambios en el Gobierno tras oleada de protestas - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "cambios en el Ejecutivo",
+    "Kenia",
+    "protestas",
+    "recortes de gastos"
+  ],
+  "text": "El presidente de Kenia, William Ruto anunció este viernes recortes de gastos y subrayó que ocurrirán  cambios en el Ejecutivo luego de las protestas antigubernamentales que tuvieron lugar en el país desde 18 de junio, en las que han muerto al menos 39 personas, según medios locales.\n“Muchos han resultados heridos, propiedades han sido destruidas y nuestras instituciones constitucionales atacadas”, agregó.\nEn cuanto a las medidas de recortes de gastos, según el propio Gobierno keniano, estas irían enfiladas de conjunto con préstamos adicionales a cubrir  un vacío  presupuestario de casi 2700 millones de dólares.\nEsa cifra, ha sido el resultado de la suspensión de aumentos de impuestos para apaciguar las violentas protestas.\nEsta decisión representó, según el mandatario, “una reducción de los objetivos estatales de ingreso de 346.000 millones de chelines” (alrededor de 2600 millones de dólares).\nRespecto a ese monto, el mandatario prometió un recorte presupuestario de 177.000 millones de chelines (cerca de 1.300 millones de dólares) en el año fiscal que comenzó en julio para “pedir prestada la diferencia”, que se destinará a “proteger la financiación de servicios gubernamentales críticos”.\nAl mismo tiempo, dijo que “47 corporaciones estatales funciones superpuestas y duplicadas se disolverán” y en paralelo “se reducirá el número de asesores en el Gobierno en un 50 por ciento”.\n“Las líneas presupuestarias destinadas al funcionamiento de las oficinas de la primera dama y de las cónyuges del vicepresidente y el primer secretario del Gabinete será retiradas”, agregó.\nAdemás el mandatario sumó a estas medidas los viajes “no esenciales” que llevan a cabo funcionarios estatales y públicos.\nPara dar continuidad al proceso de recortes, el Gobierno del paías africano también realizará una auditoría enfocada en la búsqueda de “claridad sobre la alcance y naturaleza de la deuda”.\nY advirtió además que a todo ello se le suma los cambios en el ejecutivo que comunicará próximamente.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/presidente-de-kenia-anuncia-cambios-en-el-gobierno-tras-oleada-de-protestas/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-07.json",
+    "message_index": 919,
+    "message_id": 72918,
+    "date": "2024-07-05T23:55:12+00:00",
+    "text": "teleSUR\nPresidente de Kenia anuncia cambios en el Gobierno tras oleada de protestas\nhttps://www.telesurtv.net/presidente-de-kenia-anuncia-cambios-en-el-gobierno-tras-oleada-de-protestas/",
+    "photo_path": null,
+    "views": 1586,
+    "reactions": {},
+    "total_reactions": 0
+  },
+  "preprocessing": {
+    "cleaned": "el presidente de kenia, william ruto anunció este viernes recortes de gastos y subrayó que ocurrirán cambios en el ejecutivo luego de las protestas antigubernamentales que tuvieron lugar en el país desde 18 de junio, en las que han muerto al menos 39 personas, según medios locales. “muchos han resultados heridos, propiedades han sido destruidas y nuestras instituciones constitucionales atacadas”, agregó. en cuanto a las medidas de recortes de gastos, según el propio gobierno keniano, estas irían enfiladas de conjunto con préstamos adicionales a cubrir un vacío presupuestario de casi 2700 millones de dólares. esa cifra, ha sido el resultado de la suspensión de aumentos de impuestos para apaciguar las violentas protestas. esta decisión representó, según el mandatario, “una reducción de los objetivos estatales de ingreso de 346.000 millones de chelines” (alrededor de 2600 millones de dólares). respecto a ese monto, el mandatario prometió un recorte presupuestario de 177.000 millones de chelines (cerca de 1.300 millones de dólares) en el año fiscal que comenzó en julio para “pedir prestada la diferencia”, que se destinará a “proteger la financiación de servicios gubernamentales críticos”. al mismo tiempo, dijo que “47 corporaciones estatales funciones superpuestas y duplicadas se disolverán” y en paralelo “se reducirá el número de asesores en el gobierno en un 50 por ciento”. “las líneas presupuestarias destinadas al funcionamiento de las oficinas de la primera dama y de las cónyuges del vicepresidente y el primer secretario del gabinete será retiradas”, agregó. además el mandatario sumó a estas medidas los viajes “no esenciales” que llevan a cabo funcionarios estatales y públicos. para dar continuidad al proceso de recortes, el gobierno del paías africano también realizará una auditoría enfocada en la búsqueda de “claridad sobre la alcance y naturaleza de la deuda”. y advirtió además que a todo ello se le suma los cambios en el ejecutivo que comunicará próximamente.",
+    "tokens": [
+      "presidente",
+      "kenia",
+      ",",
+      "william",
+      "ruto",
+      "anunció",
+      "viernes",
+      "recortes",
+      "gastos",
+      "subrayó",
+      "ocurrirán",
+      "cambios",
+      "ejecutivo",
+      "luego",
+      "protestas",
+      "antigubernamentales",
+      "lugar",
+      "país",
+      "18",
+      "junio",
+      ",",
+      "muerto",
+      "menos",
+      "39",
+      "personas",
+      ",",
+      "según",
+      "medios",
+      "locales",
+      ".",
+      "“",
+      "resultados",
+      "heridos",
+      ",",
+      "propiedades",
+      "sido",
+      "destruidas",
+      "instituciones",
+      "constitucionales",
+      "atacadas",
+      "”",
+      ",",
+      "agregó",
+      ".",
+      "cuanto",
+      "medidas",
+      "recortes",
+      "gastos",
+      ",",
+      "según",
+      "propio",
+      "gobierno",
+      "keniano",
+      ",",
+      "irían",
+      "enfiladas",
+      "conjunto",
+      "préstamos",
+      "adicionales",
+      "cubrir",
+      "vacío",
+      "presupuestario",
+      "casi",
+      "2700",
+      "millones",
+      "dólares",
+      ".",
+      "cifra",
+      ",",
+      "sido",
+      "resultado",
+      "suspensión",
+      "aumentos",
+      "impuestos",
+      "apaciguar",
+      "violentas",
+      "protestas",
+      ".",
+      "decisión",
+      "representó",
+      ",",
+      "según",
+      "mandatario",
+      ",",
+      "“",
+      "reducción",
+      "objetivos",
+      "estatales",
+      "ingreso",
+      "346.000",
+      "millones",
+      "chelines",
+      "”",
+      "(",
+      "alrededor",
+      "2600",
+      "millones",
+      "dólares",
+      ")",
+      ".",
+      "respecto",
+      "monto",
+      ",",
+      "mandatario",
+      "prometió",
+      "recorte",
+      "presupuestario",
+      "177.000",
+      "millones",
+      "chelines",
+      "(",
+      "cerca",
+      "1.300",
+      "millones",
+      "dólares",
+      ")",
+      "año",
+      "fiscal",
+      "comenzó",
+      "julio",
+      "“",
+      "pedir",
+      "prestada",
+      "diferencia",
+      "”",
+      ",",
+      "destinará",
+      "“",
+      "proteger",
+      "financiación",
+      "servicios",
+      "gubernamentales",
+      "críticos",
+      "”",
+      ".",
+      "mismo",
+      "tiempo",
+      ",",
+      "dijo",
+      "“",
+      "47",
+      "corporaciones",
+      "estatales",
+      "funciones",
+      "superpuestas",
+      "duplicadas",
+      "disolverán",
+      "”",
+      "paralelo",
+      "“",
+      "reducirá",
+      "número",
+      "asesores",
+      "gobierno",
+      "50",
+      "ciento",
+      "”",
+      ".",
+      "“",
+      "líneas",
+      "presupuestarias",
+      "destinadas",
+      "funcionamiento",
+      "oficinas",
+      "primera",
+      "dama",
+      "cónyuges",
+      "vicepresidente",
+      "primer",
+      "secretario",
+      "gabinete",
+      "retiradas",
+      "”",
+      ",",
+      "agregó",
+      ".",
+      "además",
+      "mandatario",
+      "sumó",
+      "medidas",
+      "viajes",
+      "“",
+      "esenciales",
+      "”",
+      "llevan",
+      "cabo",
+      "funcionarios",
+      "estatales",
+      "públicos",
+      ".",
+      "dar",
+      "continuidad",
+      "proceso",
+      "recortes",
+      ",",
+      "gobierno",
+      "paías",
+      "africano",
+      "realizará",
+      "auditoría",
+      "enfocada",
+      "búsqueda",
+      "“",
+      "claridad",
+      "alcance",
+      "naturaleza",
+      "deuda",
+      "”",
+      ".",
+      "advirtió",
+      "además",
+      "ello",
+      "suma",
+      "cambios",
+      "ejecutivo",
+      "comunicará",
+      "próximamente",
+      "."
+    ],
+    "token_count": 218,
+    "sentence_count": 11
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 19,
+      "NN": 85,
+      "FW": 76,
+      "VBZ": 6,
+      "NNS": 35,
+      "IN": 16,
+      "JJ": 24,
+      "VBP": 18,
+      "CD": 9,
+      "VBD": 1,
+      "$": 1,
+      "DT": 1,
+      "RB": 1
+    },
+    "bigram_freq": {
+      "NNP-NN": 11,
+      "NN-FW": 9,
+      "FW-NNP": 3,
+      "NNP-NNP": 3,
+      "NNP-VBZ": 3,
+      "VBZ-NN": 2,
+      "NN-NNS": 6,
+      "NNS-VBZ": 2,
+      "VBZ-IN": 1,
+      "IN-FW": 6,
+      "FW-JJ": 2,
+      "JJ-NN": 10,
+      "NN-JJ": 5,
+      "JJ-NNS": 5,
+      "NNS-VBP": 17,
+      "VBP-JJ": 11,
+      "JJ-NNP": 3,
+      "FW-FW": 54,
+      "FW-NNS": 8,
+      "NNS-NNS": 6,
+      "VBP-NN": 2,
+      "NN-NN": 47,
+      "NN-IN": 9,
+      "FW-NN": 8,
+      "NN-CD": 4,
+      "CD-IN": 1,
+      "IN-NN": 3,
+      "NN-VBD": 1,
+      "VBD-$": 1,
+      "$-CD": 1,
+      "CD-NN": 2,
+      "VBZ-NNP": 2,
+      "NNS-JJ": 1,
+      "VBP-FW": 1,
+      "CD-NNS": 6,
+      "NNS-FW": 3,
+      "NNS-NNP": 2,
+      "JJ-FW": 2,
+      "FW-CD": 1,
+      "NNS-IN": 3,
+      "IN-NNS": 3,
+      "IN-IN": 1,
+      "IN-CD": 3,
+      "NNP-JJ": 1,
+      "VBP-IN": 1,
+      "JJ-JJ": 3,
+      "VBP-NNP": 3,
+      "NN-NNP": 2,
+      "VBZ-JJ": 1,
+      "NN-VBZ": 1,
+      "JJ-DT": 1,
+      "DT-NNS": 1,
+      "NNS-RB": 1,
+      "RB-VBP": 1,
+      "NNP-FW": 1
+    },
+    "trigram_freq": {
+      "NNP-NN-FW": 2,
+      "NN-FW-NNP": 1,
+      "FW-NNP-NNP": 1,
+      "NNP-NNP-NNP": 1,
+      "NNP-NNP-VBZ": 1,
+      "NNP-VBZ-NN": 2,
+      "VBZ-NN-NNS": 1,
+      "NN-NNS-VBZ": 2,
+      "NNS-VBZ-IN": 1,
+      "VBZ-IN-FW": 1,
+      "IN-FW-JJ": 2,
+      "FW-JJ-NN": 1,
+      "JJ-NN-JJ": 1,
+      "NN-JJ-NNS": 1,
+      "JJ-NNS-VBP": 2,
+      "NNS-VBP-JJ": 10,
+      "VBP-JJ-NNP": 3,
+      "JJ-NNP-NN": 3,
+      "NN-FW-FW": 8,
+      "FW-FW-NNS": 5,
+      "FW-NNS-NNS": 1,
+      "NNS-NNS-VBP": 4,
+      "NNS-VBP-NN": 2,
+      "VBP-NN-NN": 1,
+      "NN-NN-IN": 5,
+      "NN-IN-FW": 5,
+      "IN-FW-NN": 1,
+      "FW-NN-NN": 6,
+      "NN-NN-CD": 3,
+      "NN-CD-IN": 1,
+      "CD-IN-NN": 1,
+      "IN-NN-FW": 1,
+      "FW-FW-NN": 5,
+      "NN-NN-NN": 22,
+      "NN-NN-VBD": 1,
+      "NN-VBD-$": 1,
+      "VBD-$-CD": 1,
+      "$-CD-NN": 1,
+      "CD-NN-NN": 2,
+      "NN-NN-NNS": 4,
+      "NNS-VBZ-NNP": 1,
+      "VBZ-NNP-NN": 2,
+      "NNP-NN-NN": 8,
+      "NN-NNS-VBP": 4,
+      "VBP-JJ-NNS": 2,
+      "JJ-NNS-JJ": 1,
+      "NNS-JJ-NNS": 1,
+      "JJ-NNS-NNS": 2,
+      "NN-NN-FW": 4,
+      "FW-FW-FW": 41,
+      "FW-FW-NNP": 2,
+      "FW-NNP-NN": 1,
+      "NNP-NN-NNS": 1,
+      "NNS-VBP-FW": 1,
+      "VBP-FW-FW": 1,
+      "VBP-JJ-NN": 3,
+      "JJ-NN-NN": 6,
+      "NN-IN-NN": 2,
+      "IN-NN-CD": 1,
+      "NN-CD-NNS": 2,
+      "CD-NNS-FW": 3,
+      "NNS-FW-NNS": 2,
+      "FW-NNS-NNP": 2,
+      "NNS-NNP-NN": 2,
+      "NN-NN-JJ": 4,
+      "NN-JJ-NN": 4,
+      "JJ-NN-IN": 3,
+      "FW-JJ-FW": 1,
+      "JJ-FW-FW": 1,
+      "FW-FW-CD": 1,
+      "FW-CD-NNS": 1,
+      "CD-NNS-IN": 2,
+      "NNS-IN-NNS": 2,
+      "IN-NNS-IN": 1,
+      "NNS-IN-IN": 1,
+      "IN-IN-CD": 1,
+      "IN-CD-NNS": 3,
+      "NNS-FW-FW": 1,
+      "FW-NNP-JJ": 1,
+      "NNP-JJ-NN": 1,
+      "NN-IN-CD": 1,
+      "IN-NNS-VBP": 2,
+      "NNS-VBP-IN": 1,
+      "VBP-IN-CD": 1,
+      "FW-NNS-VBP": 5,
+      "VBP-JJ-JJ": 2,
+      "JJ-JJ-JJ": 1,
+      "JJ-JJ-NN": 1,
+      "IN-NN-NN": 1,
+      "NNS-VBP-NNP": 3,
+      "VBP-NNP-NNP": 1,
+      "NNP-NNP-NN": 1,
+      "CD-NNS-NNS": 1,
+      "NNS-NNS-NNS": 2,
+      "IN-FW-FW": 2,
+      "NN-CD-NN": 1,
+      "NN-NN-NNP": 2,
+      "NN-NNP-VBZ": 2,
+      "NNP-VBZ-JJ": 1,
+      "VBZ-JJ-NNS": 1,
+      "VBP-NN-FW": 1,
+      "FW-NN-IN": 1,
+      "IN-FW-NNS": 1,
+      "VBP-JJ-FW": 1,
+      "JJ-FW-NN": 1,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-NNP": 1,
+      "VBZ-NN-NN": 1,
+      "JJ-JJ-DT": 1,
+      "JJ-DT-NNS": 1,
+      "DT-NNS-RB": 1,
+      "NNS-RB-VBP": 1,
+      "RB-VBP-JJ": 1,
+      "VBP-NNP-NN": 1,
+      "NN-IN-NNS": 1,
+      "VBP-NNP-FW": 1,
+      "NNP-FW-NN": 1,
+      "FW-NN-FW": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 85,
+        "FW": 76,
+        "NNS": 35,
+        "JJ": 24,
+        "NNP": 19
+      },
+      "top_bigrams": {
+        "FW-FW": 54,
+        "NN-NN": 47,
+        "NNS-VBP": 17,
+        "NNP-NN": 11,
+        "VBP-JJ": 11
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 41,
+        "NN-NN-NN": 22,
+        "NNS-VBP-JJ": 10,
+        "NN-FW-FW": 8,
+        "NNP-NN-NN": 8
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 11,
+    "chunk_counts": {
+      "NP": 90,
+      "VP": 21,
+      "PP": 8,
+      "ADJP": 1
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 7,
+        "weight": 0.0534
+      },
+      {
+        "rule": "NP -> ('millones', 'NNS')",
+        "frequency": 5,
+        "weight": 0.0382
+      },
+      {
+        "rule": "VP -> ('en', 'VBP') NP",
+        "frequency": 4,
+        "weight": 0.0305
+      },
+      {
+        "rule": "NP -> ('dólares', 'NNS')",
+        "frequency": 3,
+        "weight": 0.0229
+      },
+      {
+        "rule": "NP -> ('agregó', 'NN')",
+        "frequency": 2,
+        "weight": 0.0153
+      },
+      {
+        "rule": "NP -> ('”', 'NN')",
+        "frequency": 2,
+        "weight": 0.0153
+      },
+      {
+        "rule": "S -> NP ('de', 'FW') NP (',', ',') NP VP VP ('de', 'IN') ('gastos', 'FW') ('y', 'FW') ('subrayó', 'FW') NP ('ocurrirán', 'FW') NP VP ('de', 'FW') ('las', 'FW') NP VP ('en', 'IN') ('el', 'FW') NP ('18', 'CD') PP (',', ',') ('en', 'FW') ('las', 'FW') NP VP ('menos', '$') ('39', 'CD') NP (',', ',') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0076
+      },
+      {
+        "rule": "NP -> ('El', 'NNP') ('presidente', 'NN')",
+        "frequency": 1,
+        "weight": 0.0076
+      },
+      {
+        "rule": "NP -> ('Kenia', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0076
+      },
+      {
+        "rule": "NP -> ('William', 'NNP') ('Ruto', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0076
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El presidente"
+      },
+      {
+        "label": "NP",
+        "text": "Kenia"
+      },
+      {
+        "label": "NP",
+        "text": "William Ruto"
+      },
+      {
+        "label": "VP",
+        "text": "anunció este viernes"
+      },
+      {
+        "label": "NP",
+        "text": "este viernes"
+      },
+      {
+        "label": "VP",
+        "text": "recortes"
+      },
+      {
+        "label": "NP",
+        "text": "que"
+      },
+      {
+        "label": "NP",
+        "text": "cambios"
+      },
+      {
+        "label": "VP",
+        "text": "en el Ejecutivo luego"
+      },
+      {
+        "label": "NP",
+        "text": "el Ejecutivo luego"
+      },
+      {
+        "label": "NP",
+        "text": "protestas antigubernamentales"
+      },
+      {
+        "label": "VP",
+        "text": "que tuvieron lugar"
+      },
+      {
+        "label": "NP",
+        "text": "tuvieron lugar"
+      },
+      {
+        "label": "NP",
+        "text": "país desde"
+      },
+      {
+        "label": "PP",
+        "text": "de junio"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP El/NNP presidente/NN)\n  de/FW\n  (NP Kenia/NNP)\n  ,/,\n  (NP William/NNP Ruto/NNP)\n  (VP anunció/VBZ (NP este/NN viernes/NNS))\n  (VP recortes/VBZ)\n  de/IN\n  gastos/FW\n  y/FW\n  subrayó/FW\n  (NP que/NN)\n  ocurrirán/FW\n  (NP cambios/NNS)\n  (VP en/VBP (NP el/JJ Ejecutivo/NNP luego/NN))\n  de/FW\n  las/FW\n  (NP protestas/NNS antigubernamentales/NNS)\n  (VP que/VBP (NP tuvieron/NN lugar/NN))\n  en/IN\n  el/FW\n  (NP país/NN desde/NN)\n  18/CD\n  (PP de/IN (NP junio/NN))\n  ,/,\n  en/FW\n  las/FW\n  (NP que/NN han/NN muerto/NN)\n  (VP al/VBD)\n  menos/$\n  39/CD\n  (NP personas/NN)\n  ,/,\n  (NP según/JJ medios/NNS locales/NNS)\n  ./.)",
+      "(S\n  (NP “/JJ Muchos/NNP han/NN resultados/NN heridos/NN)\n  ,/,\n  (NP propiedades/NNS)\n  (VP han/VBP (NP sido/JJ destruidas/NNS))\n  (VP\n    y/VBP\n    (NP nuestras/JJ instituciones/NNS constitucionales/NNS)\n    atacadas/RB\n    (NP ”/NNP))\n  ,/,\n  (NP agregó/NN)\n  ./.)",
+      "(S\n  (NP En/NNP)\n  (VP cuanto/VBZ (NP a/DT las/JJ medidas/NN))\n  de/FW\n  recortes/FW\n  de/FW\n  gastos/FW\n  ,/,\n  según/FW\n  el/FW\n  propio/FW\n  (NP Gobierno/NNP keniano/NN)\n  ,/,\n  (NP estas/JJ irían/NN)\n  enfiladas/FW\n  de/FW\n  conjunto/FW\n  (NP con/NN préstamos/NN)\n  (VP\n    adicionales/VBZ\n    (NP a/DT cubrir/NN)\n    (NP un/JJ vacío/NN presupuestario/NN))\n  (PP de/IN (NP casi/NN))\n  2700/CD\n  (NP millones/NNS)\n  (PP de/IN (NP dólares/NNS))\n  ./.)",
+      "(S\n  (NP Esa/NNP cifra/NN)\n  ,/,\n  (NP ha/JJ sido/NN el/NN resultado/NN)\n  de/IN\n  la/FW\n  suspensión/FW\n  de/FW\n  aumentos/FW\n  de/FW\n  impuestos/FW\n  para/FW\n  apaciguar/FW\n  las/FW\n  violentas/FW\n  (NP protestas/NNS)\n  ./.)",
+      "(S\n  (NP Esta/NNP decisión/NN representó/NN)\n  ,/,\n  (NP según/JJ el/NN mandatario/NN)\n  ,/,\n  (NP “/NNP)\n  (NP una/JJ reducción/NN)\n  de/IN\n  los/FW\n  (ADJP objetivos/JJ)\n  estatales/FW\n  de/FW\n  ingreso/FW\n  de/FW\n  346.000/CD\n  (NP millones/NNS)\n  (PP de/IN (NP chelines/NNS ”/NNP))\n  (/(\n  (NP alrededor/NN)\n  de/IN\n  2600/CD\n  (NP millones/NNS)\n  (PP de/IN (NP dólares/NNS))\n  )/)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "GOBIERNOS_OFICIALES",
+      "APROBACION_RECHAZO",
+      "TIEMPO_RELATIVO",
+      "CANTIDADES_NUMERICAS",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "PERIODOS_TEMPORALES",
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "MONETARIOS"
+    ],
+    "matches": [
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "ingreso",
+        "position": [
+          825,
+          832
+        ],
+        "start": 825,
+        "end": 832
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "anunció",
+        "position": [
+          37,
+          44
+        ],
+        "start": 37,
+        "end": 44
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "advirtió",
+        "position": [
+          1901,
+          1909
+        ],
+        "start": 1901,
+        "end": 1909
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "gobierno del paías africano",
+        "position": [
+          1758,
+          1785
+        ],
+        "start": 1758,
+        "end": 1785
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente de kenia",
+        "position": [
+          3,
+          22
+        ],
+        "start": 3,
+        "end": 22
+      },
+      {
+        "category": "APROBACION_RECHAZO",
+        "matched_text": "subrayó",
+        "position": [
+          79,
+          86
+        ],
+        "start": 79,
+        "end": 86
+      },
+      {
+        "category": "PERIODOS_TEMPORALES",
+        "matched_text": "en el año",
+        "position": [
+          1047,
+          1056
+        ],
+        "start": 1047,
+        "end": 1056
+      },
+      {
+        "category": "TIEMPO_RELATIVO",
+        "matched_text": "próximamente",
+        "position": [
+          1987,
+          1999
+        ],
+        "start": 1987,
+        "end": 1999
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "39 personas",
+        "position": [
+          249,
+          260
+        ],
+        "start": 249,
+        "end": 260
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "2700 millones",
+        "position": [
+          593,
+          606
+        ],
+        "start": 593,
+        "end": 606
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "cerca de 1.300",
+        "position": [
+          1011,
+          1025
+        ],
+        "start": 1011,
+        "end": 1025
+      },
+      {
+        "category": "MONETARIOS",
+        "matched_text": "2700 millones de dólares",
+        "position": [
+          593,
+          617
+        ],
+        "start": 593,
+        "end": 617
+      }
+    ],
+    "match_count": 12
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Ejecutivo",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Gabinete",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Gobierno del paías",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Kenia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Gobierno",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "William Ruto",
+        "tipo": "Persona"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "William Ruto",
+        "relacion": "ANUNCIAR",
+        "objeto": "Kenia"
+      },
+      {
+        "sujeto": "Kenia",
+        "relacion": "ANUNCIAR",
+        "objeto": "Ejecutivo"
+      },
+      {
+        "sujeto": "William Ruto",
+        "relacion": "ANUNCIAR",
+        "objeto": "Ejecutivo"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.34,
+    "pos": 0.008,
+    "neu": 0.992,
+    "neg": 0.0,
+    "label": "positive"
+  }
+}

@@ -1,0 +1,660 @@
+{
+  "url": "https://www.telesurtv.net/cifra-de-palestinos-asesinados-en-gaza-aumenta-a-37-658/",
+  "title": "Cifra de palestinos asesinados en Gaza aumenta a 37.658 - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Palestinos"
+  ],
+  "text": "\nEl Ministerio de Salud de Gaza informó que como consecuencia de los ataques del Ejército del régimen sionista de Israel a los territorios ocupados desde octubre pasado unas 37.658 palestinos fueron asesinados, la mayoría de ellos son mujeres y niños.\n\n“Varias víctimas siguen bajo los escombros y en las carreteras y los equipos de ambulancias y de defensa civil no pueden llegar hasta ellas”, indicó.\n\nLas autoridades gazatíes han señalado que alrededor de 10.000 personas se encuentran desaparecidas, por lo que el balance de fallecidos podría ser muy superior al anunciado oficialmente.\nPor otra parte, las autoridades de salud dirigidas por Hamas advirtieron en un comunicado sobre una severa escasez de medicamentos y suministros médicos necesarios para continuar con sus servicios.\nPidieron a instituciones internacionales que intervengan rápidamente y proporcionen los medicamentos y suministros médicos necesarios para salvar las vidas de las personas enfermas y heridas.\nEn otro comunicado, Hamas acusó al Gobierno israelí de continuar desafiando todas las leyes, costumbres y valores humanitarios internacionales al atacar deliberadamente a civiles inocentes y cometer las masacres más horribles contra ellos.\nEl movimiento responsabilizó a la administración estadounidense de permitir lo que describió como guerra genocida en la Franja de Gaza al proporcionar apoyo político y militar a Israel, permitiéndole continuar su misión de destrucción y aniquilación en la Franja.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/cifra-de-palestinos-asesinados-en-gaza-aumenta-a-37-658/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-06.json",
+    "message_index": 199,
+    "message_id": 72544,
+    "date": "2024-06-25T18:55:29+00:00",
+    "text": "teleSUR\nCifra de palestinos asesinados en Gaza aumenta a 37.658\nhttps://www.telesurtv.net/cifra-de-palestinos-asesinados-en-gaza-aumenta-a-37-658/",
+    "photo_path": null,
+    "views": 1642,
+    "reactions": {},
+    "total_reactions": 0
+  },
+  "preprocessing": {
+    "cleaned": "el ministerio de salud de gaza informó que como consecuencia de los ataques del ejército del régimen sionista de israel a los territorios ocupados desde octubre pasado unas 37.658 palestinos fueron asesinados, la mayoría de ellos son mujeres y niños. “varias víctimas siguen bajo los escombros y en las carreteras y los equipos de ambulancias y de defensa civil no pueden llegar hasta ellas”, indicó. las autoridades gazatíes han señalado que alrededor de 10.000 personas se encuentran desaparecidas, por lo que el balance de fallecidos podría ser muy superior al anunciado oficialmente. por otra parte, las autoridades de salud dirigidas por hamas advirtieron en un comunicado sobre una severa escasez de medicamentos y suministros médicos necesarios para continuar con sus servicios. pidieron a instituciones internacionales que intervengan rápidamente y proporcionen los medicamentos y suministros médicos necesarios para salvar las vidas de las personas enfermas y heridas. en otro comunicado, hamas acusó al gobierno israelí de continuar desafiando todas las leyes, costumbres y valores humanitarios internacionales al atacar deliberadamente a civiles inocentes y cometer las masacres más horribles contra ellos. el movimiento responsabilizó a la administración estadounidense de permitir lo que describió como guerra genocida en la franja de gaza al proporcionar apoyo político y militar a israel, permitiéndole continuar su misión de destrucción y aniquilación en la franja.",
+    "tokens": [
+      "ministerio",
+      "salud",
+      "gaza",
+      "informó",
+      "consecuencia",
+      "ataques",
+      "ejército",
+      "régimen",
+      "sionista",
+      "israel",
+      "territorios",
+      "ocupados",
+      "octubre",
+      "pasado",
+      "unas",
+      "37.658",
+      "palestinos",
+      "asesinados",
+      ",",
+      "mayoría",
+      "mujeres",
+      "niños",
+      ".",
+      "“",
+      "varias",
+      "víctimas",
+      "siguen",
+      "bajo",
+      "escombros",
+      "carreteras",
+      "equipos",
+      "ambulancias",
+      "defensa",
+      "civil",
+      "pueden",
+      "llegar",
+      "”",
+      ",",
+      "indicó",
+      ".",
+      "autoridades",
+      "gazatíes",
+      "señalado",
+      "alrededor",
+      "10.000",
+      "personas",
+      "encuentran",
+      "desaparecidas",
+      ",",
+      "balance",
+      "fallecidos",
+      "podría",
+      "ser",
+      "superior",
+      "anunciado",
+      "oficialmente",
+      ".",
+      "parte",
+      ",",
+      "autoridades",
+      "salud",
+      "dirigidas",
+      "hamas",
+      "advirtieron",
+      "comunicado",
+      "severa",
+      "escasez",
+      "medicamentos",
+      "suministros",
+      "médicos",
+      "necesarios",
+      "continuar",
+      "servicios",
+      ".",
+      "pidieron",
+      "instituciones",
+      "internacionales",
+      "intervengan",
+      "rápidamente",
+      "proporcionen",
+      "medicamentos",
+      "suministros",
+      "médicos",
+      "necesarios",
+      "salvar",
+      "vidas",
+      "personas",
+      "enfermas",
+      "heridas",
+      ".",
+      "comunicado",
+      ",",
+      "hamas",
+      "acusó",
+      "gobierno",
+      "israelí",
+      "continuar",
+      "desafiando",
+      "todas",
+      "leyes",
+      ",",
+      "costumbres",
+      "valores",
+      "humanitarios",
+      "internacionales",
+      "atacar",
+      "deliberadamente",
+      "civiles",
+      "inocentes",
+      "cometer",
+      "masacres",
+      "horribles",
+      ".",
+      "movimiento",
+      "responsabilizó",
+      "administración",
+      "estadounidense",
+      "permitir",
+      "describió",
+      "guerra",
+      "genocida",
+      "franja",
+      "gaza",
+      "proporcionar",
+      "apoyo",
+      "político",
+      "militar",
+      "israel",
+      ",",
+      "permitiéndole",
+      "continuar",
+      "misión",
+      "destrucción",
+      "aniquilación",
+      "franja",
+      "."
+    ],
+    "token_count": 136,
+    "sentence_count": 7
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 19,
+      "IN": 11,
+      "FW": 36,
+      "NN": 60,
+      "NNS": 23,
+      "VBP": 14,
+      "CC": 1,
+      "JJ": 29,
+      "CD": 2,
+      "DT": 1,
+      "JJR": 2,
+      "VBZ": 3
+    },
+    "bigram_freq": {
+      "NNP-NNP": 1,
+      "NNP-IN": 1,
+      "IN-NNP": 1,
+      "NNP-FW": 5,
+      "FW-NNP": 6,
+      "NNP-NN": 7,
+      "NN-NN": 34,
+      "NN-IN": 8,
+      "IN-FW": 8,
+      "FW-NNS": 4,
+      "NNS-VBP": 13,
+      "VBP-NNP": 3,
+      "NNS-FW": 2,
+      "FW-FW": 18,
+      "NNP-CC": 1,
+      "CC-JJ": 1,
+      "JJ-NN": 13,
+      "NN-JJ": 8,
+      "JJ-CD": 1,
+      "CD-NNS": 2,
+      "VBP-JJ": 9,
+      "JJ-FW": 3,
+      "FW-NN": 4,
+      "NN-NNS": 5,
+      "FW-JJ": 3,
+      "JJ-DT": 1,
+      "DT-JJ": 1,
+      "NN-VBP": 1,
+      "JJ-NNP": 2,
+      "NNP-NNS": 2,
+      "IN-CD": 1,
+      "NNS-JJ": 2,
+      "JJ-JJ": 3,
+      "JJ-NNS": 6,
+      "FW-JJR": 1,
+      "JJR-NN": 1,
+      "NN-NNP": 4,
+      "NNP-VBZ": 1,
+      "VBZ-JJ": 1,
+      "NNS-IN": 1,
+      "IN-IN": 1,
+      "NNS-NNP": 1,
+      "NNS-NNS": 2,
+      "NNS-VBZ": 2,
+      "VBZ-NNS": 1,
+      "VBP-NN": 1,
+      "VBZ-JJR": 1,
+      "JJR-JJ": 1,
+      "VBP-NNS": 1
+    },
+    "trigram_freq": {
+      "NNP-NNP-IN": 1,
+      "NNP-IN-NNP": 1,
+      "IN-NNP-FW": 1,
+      "NNP-FW-NNP": 2,
+      "FW-NNP-NN": 2,
+      "NNP-NN-NN": 6,
+      "NN-NN-NN": 17,
+      "NN-NN-IN": 4,
+      "NN-IN-FW": 7,
+      "IN-FW-NNS": 2,
+      "FW-NNS-VBP": 3,
+      "NNS-VBP-NNP": 3,
+      "VBP-NNP-FW": 2,
+      "NNP-FW-NNS": 1,
+      "FW-NNS-FW": 1,
+      "NNS-FW-FW": 2,
+      "FW-FW-NNP": 3,
+      "FW-NNP-CC": 1,
+      "NNP-CC-JJ": 1,
+      "CC-JJ-NN": 1,
+      "JJ-NN-NN": 8,
+      "NN-NN-JJ": 6,
+      "NN-JJ-CD": 1,
+      "JJ-CD-NNS": 1,
+      "CD-NNS-VBP": 1,
+      "NNS-VBP-JJ": 8,
+      "VBP-JJ-FW": 2,
+      "JJ-FW-FW": 3,
+      "FW-FW-FW": 10,
+      "FW-FW-NN": 2,
+      "FW-NN-NNS": 1,
+      "NN-NNS-VBP": 3,
+      "NNP-FW-NN": 2,
+      "FW-NN-NN": 2,
+      "NN-JJ-FW": 1,
+      "FW-FW-NNS": 1,
+      "FW-FW-JJ": 1,
+      "FW-JJ-DT": 1,
+      "JJ-DT-JJ": 1,
+      "DT-JJ-NN": 1,
+      "NN-NN-VBP": 1,
+      "NN-VBP-JJ": 1,
+      "VBP-JJ-NNP": 2,
+      "JJ-NNP-NNS": 1,
+      "NNP-NNS-VBP": 1,
+      "VBP-JJ-NN": 3,
+      "NN-IN-CD": 1,
+      "IN-CD-NNS": 1,
+      "CD-NNS-JJ": 1,
+      "NNS-JJ-JJ": 2,
+      "JJ-JJ-NNS": 2,
+      "JJ-NNS-VBP": 2,
+      "JJ-NN-JJ": 1,
+      "NN-JJ-NN": 6,
+      "JJ-NN-IN": 3,
+      "IN-FW-FW": 3,
+      "FW-FW-JJR": 1,
+      "FW-JJR-NN": 1,
+      "JJR-NN-JJ": 1,
+      "NN-NN-NNP": 3,
+      "NN-NNP-VBZ": 1,
+      "NNP-VBZ-JJ": 1,
+      "VBZ-JJ-NNS": 1,
+      "JJ-NNS-IN": 1,
+      "NNS-IN-IN": 1,
+      "IN-IN-FW": 1,
+      "VBP-NNP-NN": 1,
+      "IN-FW-JJ": 2,
+      "FW-JJ-NN": 1,
+      "JJ-NN-NNS": 1,
+      "NN-NN-NNS": 3,
+      "NN-NNS-NNP": 1,
+      "NNS-NNP-NNS": 1,
+      "NNP-NNS-NNS": 1,
+      "NNS-NNS-VBP": 2,
+      "VBP-JJ-JJ": 1,
+      "JJ-JJ-NN": 1,
+      "VBP-JJ-NNS": 1,
+      "JJ-NNS-FW": 1,
+      "FW-NNP-FW": 2,
+      "FW-NN-NNP": 1,
+      "NN-NNP-NN": 3,
+      "NNP-NN-IN": 1,
+      "FW-JJ-NNS": 1,
+      "JJ-NNS-JJ": 1,
+      "JJ-NNS-VBZ": 1,
+      "NNS-VBZ-NNS": 1,
+      "VBZ-NNS-NNS": 1,
+      "NNS-VBP-NN": 1,
+      "VBP-NN-NN": 1,
+      "NN-NNS-VBZ": 1,
+      "NNS-VBZ-JJR": 1,
+      "VBZ-JJR-JJ": 1,
+      "JJR-JJ-NNS": 1,
+      "NNS-VBP-NNS": 1,
+      "VBP-NNS-VBP": 1,
+      "JJ-NNP-NN": 1,
+      "IN-FW-NNP": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 60,
+        "FW": 36,
+        "JJ": 29,
+        "NNS": 23,
+        "NNP": 19
+      },
+      "top_bigrams": {
+        "NN-NN": 34,
+        "FW-FW": 18,
+        "NNS-VBP": 13,
+        "JJ-NN": 13,
+        "VBP-JJ": 9
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 17,
+        "FW-FW-FW": 10,
+        "JJ-NN-NN": 8,
+        "NNS-VBP-JJ": 8,
+        "NN-IN-FW": 7
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 7,
+    "chunk_counts": {
+      "NP": 58,
+      "PP": 1,
+      "VP": 15,
+      "ADJP": 2
+    },
+    "top_rules": [
+      {
+        "rule": "VP -> ('para', 'VBP') NP",
+        "frequency": 2,
+        "weight": 0.0241
+      },
+      {
+        "rule": "NP -> ('Franja', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0241
+      },
+      {
+        "rule": "S -> NP PP ('de', 'FW') NP ('de', 'IN') ('los', 'FW') NP VP ('del', 'FW') NP ('sionista', 'FW') ('de', 'FW') NP NP ADJP ('37.658', 'CD') NP NP (',', ',') ('la', 'FW') ('mayoría', 'FW') ('de', 'FW') ('ellos', 'FW') NP VP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.012
+      },
+      {
+        "rule": "NP -> ('El', 'NNP') ('Ministerio', 'NNP')",
+        "frequency": 1,
+        "weight": 0.012
+      },
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 1,
+        "weight": 0.012
+      },
+      {
+        "rule": "NP -> ('Salud', 'NNP')",
+        "frequency": 1,
+        "weight": 0.012
+      },
+      {
+        "rule": "NP -> ('Gaza', 'NNP') ('informó', 'NN') ('que', 'NN') ('como', 'NN') ('consecuencia', 'NN')",
+        "frequency": 1,
+        "weight": 0.012
+      },
+      {
+        "rule": "NP -> ('ataques', 'NNS')",
+        "frequency": 1,
+        "weight": 0.012
+      },
+      {
+        "rule": "VP -> ('del', 'VBP') NP",
+        "frequency": 1,
+        "weight": 0.012
+      },
+      {
+        "rule": "NP -> ('Ejército', 'NNP')",
+        "frequency": 1,
+        "weight": 0.012
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El Ministerio"
+      },
+      {
+        "label": "PP",
+        "text": "de Salud"
+      },
+      {
+        "label": "NP",
+        "text": "Salud"
+      },
+      {
+        "label": "NP",
+        "text": "Gaza informó que como consecuencia"
+      },
+      {
+        "label": "NP",
+        "text": "ataques"
+      },
+      {
+        "label": "VP",
+        "text": "del Ejército"
+      },
+      {
+        "label": "NP",
+        "text": "Ejército"
+      },
+      {
+        "label": "NP",
+        "text": "régimen"
+      },
+      {
+        "label": "NP",
+        "text": "Israel"
+      },
+      {
+        "label": "NP",
+        "text": "a los territorios ocupados desde octubre pasado"
+      },
+      {
+        "label": "ADJP",
+        "text": "unas"
+      },
+      {
+        "label": "NP",
+        "text": "palestinos"
+      },
+      {
+        "label": "NP",
+        "text": "fueron asesinados"
+      },
+      {
+        "label": "NP",
+        "text": "son mujeres"
+      },
+      {
+        "label": "VP",
+        "text": "y niños"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP El/NNP Ministerio/NNP)\n  (PP de/IN (NP Salud/NNP))\n  de/FW\n  (NP Gaza/NNP informó/NN que/NN como/NN consecuencia/NN)\n  de/IN\n  los/FW\n  (NP ataques/NNS)\n  (VP del/VBP (NP Ejército/NNP))\n  del/FW\n  (NP régimen/NNS)\n  sionista/FW\n  de/FW\n  (NP Israel/NNP)\n  (NP\n    a/DT\n    los/JJ\n    territorios/JJ\n    ocupados/NN\n    desde/NN\n    octubre/NN\n    pasado/NN)\n  (ADJP unas/JJ)\n  37.658/CD\n  (NP palestinos/NNS)\n  (NP fueron/JJ asesinados/NN)\n  ,/,\n  la/FW\n  mayoría/FW\n  de/FW\n  ellos/FW\n  (NP son/NN mujeres/NNS)\n  (VP y/VBP niños/RB)\n  ./.)",
+      "(S\n  (NP “/NN Varias/NNP)\n  víctimas/FW\n  (NP siguen/NN bajo/NN los/NN)\n  (NP escombros/JJ y/NN)\n  en/IN\n  las/FW\n  (NP carreteras/NNS)\n  (VP y/VBP los/JJ)\n  equipos/FW\n  de/FW\n  ambulancias/FW\n  y/FW\n  de/FW\n  defensa/FW\n  (ADJP civil/JJ)\n  (NP no/DT pueden/JJ llegar/NN hasta/NN ellas/NN ”/NN)\n  ,/,\n  (NP indicó/NN)\n  ./.)",
+      "(S\n  (NP Las/NNP)\n  (VP\n    autoridades/VBZ\n    (NP gazatíes/JJ han/NN señalado/NN)\n    (NP que/JJ alrededor/NN))\n  de/IN\n  10.000/CD\n  (NP personas/NNS)\n  (NP se/JJ encuentran/JJ desaparecidas/NN)\n  ,/,\n  (NP por/NN lo/NN que/NN)\n  (NP el/JJ balance/NN)\n  de/IN\n  fallecidos/FW\n  podría/FW\n  (NP ser/JJR muy/NN)\n  (NP superior/JJ al/NN anunciado/NN oficialmente/NN)\n  ./.)",
+      "(S\n  (NP Por/NNP)\n  otra/MD\n  (VP parte/VB)\n  ,/,\n  las/FW\n  autoridades/FW\n  de/FW\n  salud/FW\n  dirigidas/FW\n  por/FW\n  (NP Hamas/NNP advirtieron/NN en/NN)\n  (NP un/JJ comunicado/NN sobre/NN)\n  (NP una/JJ severa/NN escasez/NN)\n  de/IN\n  medicamentos/FW\n  y/FW\n  suministros/FW\n  médicos/FW\n  (NP necesarios/NNS)\n  (VP para/VBP (NP continuar/JJ con/NN sus/NN servicios/NNS))\n  ./.)",
+      "(S\n  (NP Pidieron/NNP)\n  (NP a/DT instituciones/JJ internacionales/NNS)\n  (VP\n    que/VBP\n    (NP\n      intervengan/JJ\n      rápidamente/NN\n      y/NN\n      proporcionen/NN\n      los/NN\n      medicamentos/NN\n      y/NN\n      suministros/NN\n      médicos/NN\n      necesarios/NNS))\n  (VP para/VBP (NP salvar/JJ las/NNS))\n  vidas/FW\n  de/FW\n  las/FW\n  personas/FW\n  enfermas/FW\n  y/FW\n  (NP heridas/NN)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "GRUPOS_ESPECIFICOS",
+      "CANTIDADES_NUMERICAS",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "ACCIONES_LEGALES",
+      "PAISES",
+      "CONFLICTOS_ARMADOS_OPERACIONES",
+      "JURIDICO_LEGISLATIVO_CORRUPCION"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "guerra genocida en la",
+        "position": [
+          1319,
+          1340
+        ],
+        "start": 1319,
+        "end": 1340
+      },
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "acusó al",
+        "position": [
+          1007,
+          1015
+        ],
+        "start": 1007,
+        "end": 1015
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "informó",
+        "position": [
+          32,
+          39
+        ],
+        "start": 32,
+        "end": 39
+      },
+      {
+        "category": "JURIDICO_LEGISLATIVO_CORRUPCION",
+        "matched_text": "defensa",
+        "position": [
+          350,
+          357
+        ],
+        "start": 350,
+        "end": 357
+      },
+      {
+        "category": "GRUPOS_ESPECIFICOS",
+        "matched_text": "mujeres",
+        "position": [
+          235,
+          242
+        ],
+        "start": 235,
+        "end": 242
+      },
+      {
+        "category": "ACCIONES_LEGALES",
+        "matched_text": "acusó",
+        "position": [
+          1007,
+          1012
+        ],
+        "start": 1007,
+        "end": 1012
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "israelí",
+        "position": [
+          1025,
+          1032
+        ],
+        "start": 1025,
+        "end": 1032
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "000 personas",
+        "position": [
+          462,
+          474
+        ],
+        "start": 462,
+        "end": 474
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "10.000 personas",
+        "position": [
+          459,
+          474
+        ],
+        "start": 459,
+        "end": 474
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "alrededor de 10.000",
+        "position": [
+          446,
+          465
+        ],
+        "start": 446,
+        "end": 465
+      }
+    ],
+    "match_count": 10
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Franja de Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Hamas",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Ministerio de Salud de Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Franja",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Israel",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Gobierno israelí",
+        "tipo": "Organizacion"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Ministerio de Salud de Gaza",
+        "relacion": "INFORMAR",
+        "objeto": "Israel"
+      },
+      {
+        "sujeto": "Hamas",
+        "relacion": "ACUSAR",
+        "objeto": "Gobierno israelí"
+      },
+      {
+        "sujeto": "Franja de Gaza",
+        "relacion": "DESCRIBIR_PERMITIR_RESPONSABILIZAR",
+        "objeto": "Israel"
+      },
+      {
+        "sujeto": "Franja de Gaza",
+        "relacion": "DESCRIBIR_PERMITIR_RESPONSABILIZAR",
+        "objeto": "Franja"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "PROPORCIONAR_DESCRIBIR_PERMITIR_RESPONSABILIZAR",
+        "objeto": "Franja"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.2023,
+    "pos": 0.017,
+    "neu": 0.957,
+    "neg": 0.026,
+    "label": "negative"
+  }
+}

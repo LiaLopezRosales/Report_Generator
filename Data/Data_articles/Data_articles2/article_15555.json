@@ -1,0 +1,900 @@
+{
+  "url": "https://www.telesurtv.net/asamblea-legislativa-de-el-salvador-aprueba-asueto-nacional-por-las-lluvias/",
+  "title": "Asamblea Legislativa de El Salvador aprueba asueto nacional por las lluvias - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "El Salvador",
+    "Inundaciones",
+    "lluvias"
+  ],
+  "text": "La Asamblea Legislativa de El Salvador aprobó este martes con 59 votos a favor la petición del presidente Nayib Bukele de declarar el día como asueto nacional por las lluvias que afectan al país desde el fin de semana.\nEl presidente salvadoreño, Nayib Bukele, escribió en la red social X: “Las empresas que tengan la posibilidad de aplicar teletrabajo, podrán hacerlo a pesar del asueto, sin tener que pagar ninguna remuneración adicional, ya que el objetivo del decreto es únicamente que las personas no tengan que trasladarse a los lugares de trabajo y reducir el riesgo de tragedias”.\nHasta el momento en El Salvador han muerto 11 personas, dos de ellos menores de edad, y más de 880 se encuentran en albergues.\nEl titular del Ministerio de Medio Ambiente y Recursos Naturales (MARN), Fernando López, informó este lunes que las lluvias, producto de la influencia de una baja presión que se sostiene al sur de Guatemala, continuarán durante toda la semana.\nEn una conferencia de prensa, López mencionó la probabilidad de que se genere otro sistema de baja presión sobre el Golfo de México y agregó “una alta probabilidad de desarrollarse como tormenta tropical, lo que tendría una influencia indirecta sobre el país generando más lluvia”.\nEn tanto, el ministro de Gobernación, Juan Carlos Bidegaín, informó que hay 1.803 personas albergadas, de las que más de 430 son menores de edad, 279 árboles caídos y 46 deslizamientos de tierra en diferentes zonas del país.\nPor otra parte, el Centro de Huracanes dio a conocer que se producirán inundaciones considerables y repentinas en zonas urbanas, inundaciones en ríos y deslizamientos de tierra en áreas de terreno más alto a través de América Central en el noreste de México.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/asamblea-legislativa-de-el-salvador-aprueba-asueto-nacional-por-las-lluvias/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-06.json",
+    "message_index": 430,
+    "message_id": 72313,
+    "date": "2024-06-18T17:55:13+00:00",
+    "text": "teleSUR\nAsamblea Legislativa de El Salvador aprueba asueto nacional por las lluvias\nhttps://www.telesurtv.net/asamblea-legislativa-de-el-salvador-aprueba-asueto-nacional-por-las-lluvias/",
+    "photo_path": null,
+    "views": 1396,
+    "reactions": {},
+    "total_reactions": 0
+  },
+  "preprocessing": {
+    "cleaned": "la asamblea legislativa de el salvador aprobó este martes con 59 votos a favor la petición del presidente nayib bukele de declarar el día como asueto nacional por las lluvias que afectan al país desde el fin de semana. el presidente salvadoreño, nayib bukele, escribió en la red social x: “las empresas que tengan la posibilidad de aplicar teletrabajo, podrán hacerlo a pesar del asueto, sin tener que pagar ninguna remuneración adicional, ya que el objetivo del decreto es únicamente que las personas no tengan que trasladarse a los lugares de trabajo y reducir el riesgo de tragedias”. hasta el momento en el salvador han muerto 11 personas, dos de ellos menores de edad, y más de 880 se encuentran en albergues. el titular del ministerio de medio ambiente y recursos naturales (marn), fernando lópez, informó este lunes que las lluvias, producto de la influencia de una baja presión que se sostiene al sur de guatemala, continuarán durante toda la semana. en una conferencia de prensa, lópez mencionó la probabilidad de que se genere otro sistema de baja presión sobre el golfo de méxico y agregó “una alta probabilidad de desarrollarse como tormenta tropical, lo que tendría una influencia indirecta sobre el país generando más lluvia”. en tanto, el ministro de gobernación, juan carlos bidegaín, informó que hay 1.803 personas albergadas, de las que más de 430 son menores de edad, 279 árboles caídos y 46 deslizamientos de tierra en diferentes zonas del país. por otra parte, el centro de huracanes dio a conocer que se producirán inundaciones considerables y repentinas en zonas urbanas, inundaciones en ríos y deslizamientos de tierra en áreas de terreno más alto a través de américa central en el noreste de méxico.",
+    "tokens": [
+      "asamblea",
+      "legislativa",
+      "salvador",
+      "aprobó",
+      "martes",
+      "59",
+      "votos",
+      "favor",
+      "petición",
+      "presidente",
+      "nayib",
+      "bukele",
+      "declarar",
+      "día",
+      "asueto",
+      "nacional",
+      "lluvias",
+      "afectan",
+      "país",
+      "fin",
+      "semana",
+      ".",
+      "presidente",
+      "salvadoreño",
+      ",",
+      "nayib",
+      "bukele",
+      ",",
+      "escribió",
+      "red",
+      "social",
+      "x",
+      ":",
+      "“",
+      "empresas",
+      "posibilidad",
+      "aplicar",
+      "teletrabajo",
+      ",",
+      "podrán",
+      "hacerlo",
+      "pesar",
+      "asueto",
+      ",",
+      "tener",
+      "pagar",
+      "ninguna",
+      "remuneración",
+      "adicional",
+      ",",
+      "objetivo",
+      "decreto",
+      "únicamente",
+      "personas",
+      "trasladarse",
+      "lugares",
+      "trabajo",
+      "reducir",
+      "riesgo",
+      "tragedias",
+      "”",
+      ".",
+      "momento",
+      "salvador",
+      "muerto",
+      "11",
+      "personas",
+      ",",
+      "dos",
+      "menores",
+      "edad",
+      ",",
+      "880",
+      "encuentran",
+      "albergues",
+      ".",
+      "titular",
+      "ministerio",
+      "medio",
+      "ambiente",
+      "recursos",
+      "naturales",
+      "(",
+      "marn",
+      ")",
+      ",",
+      "fernando",
+      "lópez",
+      ",",
+      "informó",
+      "lunes",
+      "lluvias",
+      ",",
+      "producto",
+      "influencia",
+      "baja",
+      "presión",
+      "sostiene",
+      "sur",
+      "guatemala",
+      ",",
+      "continuarán",
+      "toda",
+      "semana",
+      ".",
+      "conferencia",
+      "prensa",
+      ",",
+      "lópez",
+      "mencionó",
+      "probabilidad",
+      "genere",
+      "sistema",
+      "baja",
+      "presión",
+      "golfo",
+      "méxico",
+      "agregó",
+      "“",
+      "alta",
+      "probabilidad",
+      "desarrollarse",
+      "tormenta",
+      "tropical",
+      ",",
+      "influencia",
+      "indirecta",
+      "país",
+      "generando",
+      "lluvia",
+      "”",
+      ".",
+      ",",
+      "ministro",
+      "gobernación",
+      ",",
+      "juan",
+      "carlos",
+      "bidegaín",
+      ",",
+      "informó",
+      "1.803",
+      "personas",
+      "albergadas",
+      ",",
+      "430",
+      "menores",
+      "edad",
+      ",",
+      "279",
+      "árboles",
+      "caídos",
+      "46",
+      "deslizamientos",
+      "tierra",
+      "diferentes",
+      "zonas",
+      "país",
+      ".",
+      "parte",
+      ",",
+      "centro",
+      "huracanes",
+      "dio",
+      "conocer",
+      "producirán",
+      "inundaciones",
+      "considerables",
+      "repentinas",
+      "zonas",
+      "urbanas",
+      ",",
+      "inundaciones",
+      "ríos",
+      "deslizamientos",
+      "tierra",
+      "áreas",
+      "terreno",
+      "alto",
+      "través",
+      "américa",
+      "central",
+      "noreste",
+      "méxico",
+      "."
+    ],
+    "token_count": 185,
+    "sentence_count": 7
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 40,
+      "IN": 13,
+      "VBZ": 5,
+      "NN": 75,
+      "NNS": 15,
+      "VBP": 7,
+      "CD": 7,
+      "JJ": 26,
+      "FW": 82,
+      "DT": 1,
+      "VBD": 2,
+      "RB": 1
+    },
+    "bigram_freq": {
+      "NNP-NNP": 16,
+      "NNP-IN": 3,
+      "IN-NNP": 3,
+      "NNP-VBZ": 2,
+      "VBZ-NN": 1,
+      "NN-NNS": 5,
+      "NNS-VBP": 7,
+      "VBP-CD": 2,
+      "CD-NNS": 4,
+      "VBP-JJ": 2,
+      "JJ-FW": 4,
+      "FW-FW": 54,
+      "FW-NNP": 13,
+      "IN-FW": 7,
+      "FW-NN": 8,
+      "NN-IN": 7,
+      "IN-JJ": 2,
+      "JJ-NN": 12,
+      "JJ-JJ": 7,
+      "NN-NN": 41,
+      "NN-FW": 7,
+      "NNP-NN": 10,
+      "NN-NNP": 5,
+      "NNP-FW": 5,
+      "FW-JJ": 2,
+      "JJ-NNP": 1,
+      "NN-JJ": 7,
+      "VBP-DT": 1,
+      "DT-JJ": 1,
+      "NN-VBZ": 2,
+      "VBZ-IN": 1,
+      "NNP-VBD": 1,
+      "VBD-RB": 1,
+      "RB-CD": 1,
+      "NNS-FW": 4,
+      "FW-NNS": 1,
+      "FW-CD": 3,
+      "CD-NN": 3,
+      "IN-NNS": 1,
+      "NNS-NNP": 1,
+      "NNP-JJ": 2,
+      "VBZ-JJ": 2,
+      "JJ-NNS": 2,
+      "NNS-JJ": 1,
+      "NN-VBD": 1,
+      "VBD-CD": 1,
+      "VBP-FW": 1,
+      "FW-VBZ": 1,
+      "VBZ-NNS": 1,
+      "NNS-NNS": 1,
+      "VBP-IN": 1,
+      "NNS-IN": 1
+    },
+    "trigram_freq": {
+      "NNP-NNP-NNP": 8,
+      "NNP-NNP-IN": 2,
+      "NNP-IN-NNP": 2,
+      "IN-NNP-NNP": 2,
+      "NNP-NNP-VBZ": 1,
+      "NNP-VBZ-NN": 1,
+      "VBZ-NN-NNS": 1,
+      "NN-NNS-VBP": 4,
+      "NNS-VBP-CD": 2,
+      "VBP-CD-NNS": 1,
+      "CD-NNS-VBP": 2,
+      "NNS-VBP-JJ": 2,
+      "VBP-JJ-FW": 1,
+      "JJ-FW-FW": 3,
+      "FW-FW-FW": 39,
+      "FW-FW-NNP": 7,
+      "FW-NNP-NNP": 4,
+      "NNP-IN-FW": 1,
+      "IN-FW-FW": 3,
+      "FW-FW-NN": 3,
+      "FW-NN-IN": 1,
+      "NN-IN-JJ": 1,
+      "IN-JJ-NN": 2,
+      "JJ-NN-NNS": 1,
+      "VBP-JJ-JJ": 1,
+      "JJ-JJ-NN": 4,
+      "JJ-NN-NN": 5,
+      "NN-NN-NN": 24,
+      "NN-NN-FW": 4,
+      "NN-FW-NN": 1,
+      "FW-NN-FW": 2,
+      "NN-FW-FW": 4,
+      "FW-NNP-NN": 4,
+      "NNP-NN-NN": 8,
+      "NN-NN-NNP": 3,
+      "NN-NNP-NNP": 1,
+      "NNP-NNP-FW": 2,
+      "NNP-FW-FW": 2,
+      "FW-FW-JJ": 1,
+      "FW-JJ-JJ": 1,
+      "JJ-JJ-NNP": 1,
+      "JJ-NNP-NN": 1,
+      "NN-NN-JJ": 4,
+      "NN-JJ-JJ": 4,
+      "JJ-JJ-FW": 1,
+      "FW-NN-NN": 3,
+      "JJ-JJ-JJ": 1,
+      "NN-NN-IN": 2,
+      "NN-IN-FW": 4,
+      "IN-FW-NN": 2,
+      "NN-NNP-NN": 2,
+      "NNP-NN-NNS": 1,
+      "NNS-VBP-DT": 1,
+      "VBP-DT-JJ": 1,
+      "DT-JJ-NN": 1,
+      "NN-NN-VBZ": 2,
+      "NN-VBZ-IN": 1,
+      "VBZ-IN-FW": 1,
+      "FW-NNP-FW": 3,
+      "NNP-FW-NN": 1,
+      "NN-FW-NNP": 2,
+      "NNP-NNP-VBD": 1,
+      "NNP-VBD-RB": 1,
+      "VBD-RB-CD": 1,
+      "RB-CD-NNS": 1,
+      "CD-NNS-FW": 2,
+      "NNS-FW-FW": 3,
+      "FW-FW-NNS": 1,
+      "FW-NNS-FW": 1,
+      "FW-FW-CD": 2,
+      "FW-CD-NN": 2,
+      "CD-NN-NN": 1,
+      "NN-IN-NNS": 1,
+      "IN-NNS-NNP": 1,
+      "NNS-NNP-JJ": 1,
+      "NNP-JJ-NN": 2,
+      "JJ-NN-NNP": 1,
+      "NN-NNP-IN": 1,
+      "NNP-NNP-NN": 2,
+      "NN-VBZ-JJ": 1,
+      "VBZ-JJ-NNS": 1,
+      "JJ-NNS-JJ": 1,
+      "NNS-JJ-FW": 1,
+      "NN-JJ-NN": 3,
+      "JJ-NN-JJ": 1,
+      "JJ-NN-IN": 4,
+      "NN-IN-NNP": 1,
+      "IN-NNP-NN": 1,
+      "FW-NNP-JJ": 1,
+      "IN-FW-NNP": 1,
+      "NNP-FW-NNP": 2,
+      "NNP-NN-JJ": 1,
+      "FW-NN-JJ": 1,
+      "NN-NN-VBD": 1,
+      "NN-VBD-CD": 1,
+      "VBD-CD-NNS": 1,
+      "CD-NN-NNS": 1,
+      "NNS-VBP-FW": 1,
+      "VBP-FW-CD": 1,
+      "FW-CD-NNS": 1,
+      "VBP-CD-NN": 1,
+      "CD-NN-FW": 1,
+      "FW-FW-VBZ": 1,
+      "FW-VBZ-NNS": 1,
+      "VBZ-NNS-FW": 1,
+      "NNS-FW-NN": 1,
+      "FW-NN-NNP": 1,
+      "NN-NNP-VBZ": 1,
+      "NNP-VBZ-JJ": 1,
+      "VBZ-JJ-FW": 1,
+      "JJ-FW-NNP": 1,
+      "NN-NN-NNS": 1,
+      "NN-NNS-NNS": 1,
+      "NNS-NNS-VBP": 1,
+      "NNS-VBP-IN": 1,
+      "VBP-IN-FW": 1,
+      "IN-FW-JJ": 1,
+      "FW-JJ-NNS": 1,
+      "JJ-NNS-IN": 1,
+      "NNS-IN-JJ": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "FW": 82,
+        "NN": 75,
+        "NNP": 40,
+        "JJ": 26,
+        "NNS": 15
+      },
+      "top_bigrams": {
+        "FW-FW": 54,
+        "NN-NN": 41,
+        "NNP-NNP": 16,
+        "FW-NNP": 13,
+        "JJ-NN": 12
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 39,
+        "NN-NN-NN": 24,
+        "NNP-NNP-NNP": 8,
+        "NNP-NN-NN": 8,
+        "FW-FW-NNP": 7
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 7,
+    "chunk_counts": {
+      "NP": 73,
+      "PP": 9,
+      "VP": 17,
+      "ADJP": 4
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 7,
+        "weight": 0.0636
+      },
+      {
+        "rule": "NP -> ('El', 'NNP') ('Salvador', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0182
+      },
+      {
+        "rule": "NP -> ('Nayib', 'NNP') ('Bukele', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0182
+      },
+      {
+        "rule": "VP -> ('que', 'VBP') NP",
+        "frequency": 2,
+        "weight": 0.0182
+      },
+      {
+        "rule": "NP -> ('personas', 'NNS')",
+        "frequency": 2,
+        "weight": 0.0182
+      },
+      {
+        "rule": "NP -> ('México', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0182
+      },
+      {
+        "rule": "S -> NP PP VP VP ('59', 'CD') NP NP ('petición', 'FW') ('del', 'FW') ('presidente', 'FW') NP ('de', 'IN') ('declarar', 'FW') ('el', 'FW') ('día', 'FW') NP PP VP ('el', 'FW') NP PP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0091
+      },
+      {
+        "rule": "NP -> ('La', 'NNP') ('Asamblea', 'NNP') ('Legislativa', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0091
+      },
+      {
+        "rule": "VP -> ('aprobó', 'VBZ') NP",
+        "frequency": 1,
+        "weight": 0.0091
+      },
+      {
+        "rule": "NP -> ('este', 'NN') ('martes', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0091
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "La Asamblea Legislativa"
+      },
+      {
+        "label": "PP",
+        "text": "de El Salvador"
+      },
+      {
+        "label": "NP",
+        "text": "El Salvador"
+      },
+      {
+        "label": "VP",
+        "text": "aprobó este martes"
+      },
+      {
+        "label": "NP",
+        "text": "este martes"
+      },
+      {
+        "label": "VP",
+        "text": "con"
+      },
+      {
+        "label": "NP",
+        "text": "votos"
+      },
+      {
+        "label": "NP",
+        "text": "a favor la"
+      },
+      {
+        "label": "NP",
+        "text": "Nayib Bukele"
+      },
+      {
+        "label": "NP",
+        "text": "como"
+      },
+      {
+        "label": "PP",
+        "text": "asueto nacional por las"
+      },
+      {
+        "label": "NP",
+        "text": "nacional por las"
+      },
+      {
+        "label": "VP",
+        "text": "lluvias que afectan al país desde"
+      },
+      {
+        "label": "NP",
+        "text": "que afectan al país desde"
+      },
+      {
+        "label": "NP",
+        "text": "fin"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP La/NNP Asamblea/NNP Legislativa/NNP)\n  (PP de/IN (NP El/NNP Salvador/NNP))\n  (VP aprobó/VBZ (NP este/NN martes/NNS))\n  (VP con/VBP)\n  59/CD\n  (NP votos/NNS)\n  (NP a/DT favor/NN la/NN)\n  petición/FW\n  del/FW\n  presidente/FW\n  (NP Nayib/NNP Bukele/NNP)\n  de/IN\n  declarar/FW\n  el/FW\n  día/FW\n  (NP como/NN)\n  (PP asueto/IN (NP nacional/JJ por/NN las/NNS))\n  (VP lluvias/VBP (NP que/JJ afectan/JJ al/NN país/NN desde/NN))\n  el/FW\n  (NP fin/NN)\n  (PP de/IN (NP semana/NN))\n  ./.)",
+      "(S\n  (NP El/NNP presidente/NN salvadoreño/NN)\n  ,/,\n  (NP Nayib/NNP Bukele/NNP)\n  ,/,\n  (NP escribió/NN)\n  en/FW\n  (NP la/NN)\n  (NP red/JJ social/JJ X/NN)\n  :/:\n  (NP “/JJ Las/NNP empresas/NN que/NN)\n  (ADJP tengan/JJ)\n  (ADJP la/JJ)\n  posibilidad/FW\n  de/FW\n  aplicar/FW\n  (NP teletrabajo/NN)\n  ,/,\n  (NP podrán/NN)\n  (VP hacerlo/VBD (NP a/DT pesar/NN del/NN asueto/NN))\n  ,/,\n  (NP sin/NN tener/NN que/NN pagar/NN)\n  (NP ninguna/JJ remuneración/NN adicional/NN)\n  ,/,\n  ya/PRP\n  (VP\n    que/VBP\n    (NP\n      el/JJ\n      objetivo/JJ\n      del/NN\n      decreto/NN\n      es/NN\n      únicamente/NNP\n      que/NN\n      las/NNS))\n  (VP personas/VBP (NP no/DT tengan/JJ que/NN))\n  (VP trasladarse/VBD)\n  a/DT\n  (ADJP los/JJ)\n  (VP lugares/VBZ)\n  de/FW\n  trabajo/FW\n  y/FW\n  reducir/FW\n  el/FW\n  riesgo/FW\n  de/FW\n  tragedias/FW\n  ”/FW\n  ./.)",
+      "(S\n  (NP Hasta/NNP)\n  el/CC\n  (NP momento/NN)\n  en/FW\n  (NP El/NNP Salvador/NNP)\n  (VP han/VBD muerto/RB)\n  11/CD\n  (NP personas/NNS)\n  ,/,\n  dos/FW\n  de/FW\n  ellos/FW\n  (NP menores/NNS)\n  de/FW\n  edad/FW\n  ,/,\n  y/FW\n  más/FW\n  de/FW\n  880/CD\n  (NP se/NN encuentran/NN)\n  (PP en/IN (NP albergues/NNS))\n  ./.)",
+      "(S\n  (NP El/NNP)\n  (NP titular/JJ del/NN Ministerio/NNP)\n  (PP\n    de/IN\n    (NP Medio/NNP Ambiente/NNP y/NNP Recursos/NNP Naturales/NNP))\n  (/(\n  (NP MARN/NNP)\n  )/)\n  ,/,\n  (NP Fernando/NNP López/NNP)\n  ,/,\n  (NP informó/JJ este/NN lunes/NNS)\n  (VP que/VBP (NP las/JJ lluvias/NN))\n  ,/,\n  producto/FW\n  de/FW\n  la/FW\n  influencia/FW\n  de/FW\n  una/FW\n  (NP baja/NN presión/NN que/NN)\n  (NP se/JJ sostiene/NN)\n  (NP al/JJ sur/NN)\n  (PP de/IN (NP Guatemala/NNP))\n  ,/,\n  (NP continuarán/NN durante/NN toda/NN la/NN semana/NN)\n  ./.)",
+      "(S\n  (NP En/NNP)\n  (NP una/JJ conferencia/NN)\n  (PP de/IN (NP prensa/NN))\n  ,/,\n  (NP López/NNP mencionó/NNP la/NNP)\n  probabilidad/FW\n  de/FW\n  que/FW\n  se/FW\n  genere/FW\n  otro/FW\n  sistema/FW\n  de/FW\n  baja/FW\n  presión/FW\n  sobre/FW\n  el/FW\n  (NP Golfo/NNP)\n  de/FW\n  (NP México/NNP)\n  y/CC\n  (NP agregó/JJ “/NNP una/NN alta/NN probabilidad/NN)\n  de/IN\n  desarrollarse/FW\n  (NP como/NN tormenta/NN)\n  (ADJP tropical/JJ)\n  ,/,\n  (NP lo/JJ que/NN tendría/NN)\n  (NP\n    una/JJ\n    influencia/NN\n    indirecta/NN\n    sobre/NN\n    el/NN\n    país/NN\n    generando/NN\n    más/NN\n    lluvia/NN\n    ”/NN)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "CIUDADES_CAPITALES",
+      "GOBIERNOS_OFICIALES",
+      "DESASTRES_ACCIDENTES_EMERGENCIAS",
+      "APROBACION_RECHAZO",
+      "CANTIDADES_NUMERICAS",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "PAISES",
+      "LOCALIZACIONES_ESPECIFICAS",
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "JURIDICO_LEGISLATIVO_CORRUPCION"
+    ],
+    "matches": [
+      {
+        "category": "DESASTRES_ACCIDENTES_EMERGENCIAS",
+        "matched_text": "lluvias que afectan",
+        "position": [
+          167,
+          186
+        ],
+        "start": 167,
+        "end": 186
+      },
+      {
+        "category": "DESASTRES_ACCIDENTES_EMERGENCIAS",
+        "matched_text": "deslizamientos de tierra",
+        "position": [
+          1411,
+          1435
+        ],
+        "start": 1411,
+        "end": 1435
+      },
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "remuneración",
+        "position": [
+          416,
+          428
+        ],
+        "start": 416,
+        "end": 428
+      },
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "trabajo",
+        "position": [
+          545,
+          552
+        ],
+        "start": 545,
+        "end": 552
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "conferencia de prensa",
+        "position": [
+          966,
+          987
+        ],
+        "start": 966,
+        "end": 987
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "informó",
+        "position": [
+          804,
+          811
+        ],
+        "start": 804,
+        "end": 811
+      },
+      {
+        "category": "JURIDICO_LEGISLATIVO_CORRUPCION",
+        "matched_text": "asamblea legislativa de el salvador aprobó",
+        "position": [
+          3,
+          45
+        ],
+        "start": 3,
+        "end": 45
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente nayib bukele",
+        "position": [
+          95,
+          118
+        ],
+        "start": 95,
+        "end": 118
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "ministro de gobernación",
+        "position": [
+          1254,
+          1277
+        ],
+        "start": 1254,
+        "end": 1277
+      },
+      {
+        "category": "APROBACION_RECHAZO",
+        "matched_text": "aprobó",
+        "position": [
+          39,
+          45
+        ],
+        "start": 39,
+        "end": 45
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "el salvador",
+        "position": [
+          27,
+          38
+        ],
+        "start": 27,
+        "end": 38
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "méxico",
+        "position": [
+          1084,
+          1090
+        ],
+        "start": 1084,
+        "end": 1090
+      },
+      {
+        "category": "CIUDADES_CAPITALES",
+        "matched_text": "guatemala",
+        "position": [
+          912,
+          921
+        ],
+        "start": 912,
+        "end": 921
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "centro de",
+        "position": [
+          1485,
+          1494
+        ],
+        "start": 1485,
+        "end": 1494
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "11 personas",
+        "position": [
+          631,
+          642
+        ],
+        "start": 631,
+        "end": 642
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "59 votos",
+        "position": [
+          62,
+          70
+        ],
+        "start": 62,
+        "end": 70
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "más de 880",
+        "position": [
+          676,
+          686
+        ],
+        "start": 676,
+        "end": 686
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "con 59 votos a favor",
+        "position": [
+          58,
+          78
+        ],
+        "start": 58,
+        "end": 78
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "más de 430",
+        "position": [
+          1355,
+          1365
+        ],
+        "start": 1355,
+        "end": 1365
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "1.803 personas",
+        "position": [
+          1317,
+          1331
+        ],
+        "start": 1317,
+        "end": 1331
+      }
+    ],
+    "match_count": 20
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Huracanes",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Asamblea Legislativa de El Salvador",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Juan Carlos Bidegaín",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Guatemala",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Recursos Naturales",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "MARN",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Ministerio de Medio Ambiente",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Centro",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "América Central",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "El Salvador",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Fernando López",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Nayib Bukele",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Golfo de México",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "México",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "López",
+        "tipo": "Persona"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Asamblea Legislativa de El Salvador",
+        "relacion": "APROBAR",
+        "objeto": "Nayib Bukele"
+      },
+      {
+        "sujeto": "Ministerio de Medio Ambiente",
+        "relacion": "INFORMAR",
+        "objeto": "Guatemala"
+      },
+      {
+        "sujeto": "Recursos Naturales",
+        "relacion": "INFORMAR",
+        "objeto": "Guatemala"
+      },
+      {
+        "sujeto": "MARN",
+        "relacion": "INFORMAR",
+        "objeto": "Guatemala"
+      },
+      {
+        "sujeto": "Fernando López",
+        "relacion": "INFORMAR",
+        "objeto": "Guatemala"
+      },
+      {
+        "sujeto": "López",
+        "relacion": "MENCIONAR",
+        "objeto": "Golfo de México"
+      },
+      {
+        "sujeto": "Centro",
+        "relacion": "DAR",
+        "objeto": "América Central"
+      },
+      {
+        "sujeto": "Centro",
+        "relacion": "DAR",
+        "objeto": "México"
+      },
+      {
+        "sujeto": "Huracanes",
+        "relacion": "DAR",
+        "objeto": "América Central"
+      },
+      {
+        "sujeto": "Huracanes",
+        "relacion": "DAR",
+        "objeto": "México"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.4767,
+    "pos": 0.01,
+    "neu": 0.97,
+    "neg": 0.021,
+    "label": "negative"
+  }
+}

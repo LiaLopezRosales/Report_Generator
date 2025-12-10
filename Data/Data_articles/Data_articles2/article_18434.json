@@ -1,0 +1,654 @@
+{
+  "url": "https://www.telesurtv.net/reportan-aumento-de-la-violencia-varias-localidades-de-ecuador/",
+  "title": "Reportan aumento de la violencia varias localidades de Ecuador - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "Durán",
+    "Ecuador",
+    "Samborondón y Posorja",
+    "Violencia"
+  ],
+  "text": "Autoridades locales reportan  este domingo varios actos de violencia en cantones de la provincia del Guayas, Ecuador.\nSegún los reportes  en el cuartel de bomberos de Durán se ejecutó una matanza, al llegar varios criminales hasta el lugar y asesinaron a dos bomberos.\nTambién se detalló, que el cuerpo de uno  de las victimas permaneció en los exteriores de las instalaciones, un tercer miembro de la institución permaneció herido y fue trasladado a un centro de salud.\nCon anterioridad un grupo de 1200 policías y militares arribaron al cantón para contener el problema de la violencia, aún sin logros.\nEl pasado miércoles 17, un contingente de 1200 policías y militares llegaron al cantón para enfrentar el problema de la violencia, sin embargo, no se observan aún los resultados.\nNo existe un informe sobre la agresión, al puesto de la Policía  que realiza las investigaciones pertinentes.\nEn este sentido en la localidad de Samborondón, otro cantón de la provincia del Guayas, en  horas de la madrugada de este 27 de julio de 2024, se oyeron detonaciones en un domicilio, donde se localizaron  al menos los muertos, entre ellos se identificó  a Domingo Miranda, su esposa, sus dos hijos y otro familiar.\nAsimismo se reportó la privación de libertad de dos personas con actitud delictiva detenidos tras el ataque a un cuartel policial en Posorja, en el que repercutió asesinado el agente José Antonio Pilaló Mollina, con anterioridad el 13 de abril pasado, un grupo de tres pescadores fueron asesinados mientras desarrollaban sus tareas.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/reportan-aumento-de-la-violencia-varias-localidades-de-ecuador/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-07.json",
+    "message_index": 104,
+    "message_id": 73733,
+    "date": "2024-07-29T03:55:29+00:00",
+    "text": "teleSUR\nReportan aumento de la violencia varias localidades de Ecuador\nhttps://www.telesurtv.net/reportan-aumento-de-la-violencia-varias-localidades-de-ecuador/",
+    "photo_path": null,
+    "views": 2734,
+    "reactions": {
+      "👍": 1
+    },
+    "total_reactions": 1
+  },
+  "preprocessing": {
+    "cleaned": "autoridades locales reportan este domingo varios actos de violencia en cantones de la provincia del guayas, ecuador. según los reportes en el cuartel de bomberos de durán se ejecutó una matanza, al llegar varios criminales hasta el lugar y asesinaron a dos bomberos. también se detalló, que el cuerpo de uno de las victimas permaneció en los exteriores de las instalaciones, un tercer miembro de la institución permaneció herido y fue trasladado a un centro de salud. con anterioridad un grupo de 1200 policías y militares arribaron al cantón para contener el problema de la violencia, aún sin logros. el pasado miércoles 17, un contingente de 1200 policías y militares llegaron al cantón para enfrentar el problema de la violencia, sin embargo, no se observan aún los resultados. no existe un informe sobre la agresión, al puesto de la policía que realiza las investigaciones pertinentes. en este sentido en la localidad de samborondón, otro cantón de la provincia del guayas, en horas de la madrugada de este 27 de julio de 2024, se oyeron detonaciones en un domicilio, donde se localizaron al menos los muertos, entre ellos se identificó a domingo miranda, su esposa, sus dos hijos y otro familiar. asimismo se reportó la privación de libertad de dos personas con actitud delictiva detenidos tras el ataque a un cuartel policial en posorja, en el que repercutió asesinado el agente josé antonio pilaló mollina, con anterioridad el 13 de abril pasado, un grupo de tres pescadores fueron asesinados mientras desarrollaban sus tareas.",
+    "tokens": [
+      "autoridades",
+      "locales",
+      "reportan",
+      "domingo",
+      "varios",
+      "actos",
+      "violencia",
+      "cantones",
+      "provincia",
+      "guayas",
+      ",",
+      "ecuador",
+      ".",
+      "según",
+      "reportes",
+      "cuartel",
+      "bomberos",
+      "durán",
+      "ejecutó",
+      "matanza",
+      ",",
+      "llegar",
+      "varios",
+      "criminales",
+      "lugar",
+      "asesinaron",
+      "dos",
+      "bomberos",
+      ".",
+      "detalló",
+      ",",
+      "cuerpo",
+      "victimas",
+      "permaneció",
+      "exteriores",
+      "instalaciones",
+      ",",
+      "tercer",
+      "miembro",
+      "institución",
+      "permaneció",
+      "herido",
+      "trasladado",
+      "centro",
+      "salud",
+      ".",
+      "anterioridad",
+      "grupo",
+      "1200",
+      "policías",
+      "militares",
+      "arribaron",
+      "cantón",
+      "contener",
+      "problema",
+      "violencia",
+      ",",
+      "aún",
+      "logros",
+      ".",
+      "pasado",
+      "miércoles",
+      "17",
+      ",",
+      "contingente",
+      "1200",
+      "policías",
+      "militares",
+      "llegaron",
+      "cantón",
+      "enfrentar",
+      "problema",
+      "violencia",
+      ",",
+      "embargo",
+      ",",
+      "observan",
+      "aún",
+      "resultados",
+      ".",
+      "existe",
+      "informe",
+      "agresión",
+      ",",
+      "puesto",
+      "policía",
+      "realiza",
+      "investigaciones",
+      "pertinentes",
+      ".",
+      "localidad",
+      "samborondón",
+      ",",
+      "cantón",
+      "provincia",
+      "guayas",
+      ",",
+      "horas",
+      "madrugada",
+      "27",
+      "julio",
+      "2024",
+      ",",
+      "oyeron",
+      "detonaciones",
+      "domicilio",
+      ",",
+      "localizaron",
+      "menos",
+      "muertos",
+      ",",
+      "identificó",
+      "domingo",
+      "miranda",
+      ",",
+      "esposa",
+      ",",
+      "dos",
+      "hijos",
+      "familiar",
+      ".",
+      "asimismo",
+      "reportó",
+      "privación",
+      "libertad",
+      "dos",
+      "personas",
+      "actitud",
+      "delictiva",
+      "detenidos",
+      "tras",
+      "ataque",
+      "cuartel",
+      "policial",
+      "posorja",
+      ",",
+      "repercutió",
+      "asesinado",
+      "agente",
+      "josé",
+      "antonio",
+      "pilaló",
+      "mollina",
+      ",",
+      "anterioridad",
+      "13",
+      "abril",
+      "pasado",
+      ",",
+      "grupo",
+      "tres",
+      "pescadores",
+      "asesinados",
+      "mientras",
+      "desarrollaban",
+      "tareas",
+      "."
+    ],
+    "token_count": 157,
+    "sentence_count": 8
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNS": 19,
+      "VBP": 10,
+      "NN": 79,
+      "IN": 16,
+      "FW": 60,
+      "NNP": 19,
+      "VBZ": 4,
+      "JJ": 25,
+      "CD": 6,
+      "DT": 2,
+      "RB": 1,
+      "VBD": 2
+    },
+    "bigram_freq": {
+      "NNS-NNS": 3,
+      "NNS-VBP": 10,
+      "VBP-NN": 2,
+      "NN-NN": 36,
+      "NN-NNS": 11,
+      "VBP-IN": 1,
+      "IN-FW": 9,
+      "FW-FW": 41,
+      "FW-NNP": 6,
+      "NNP-NNP": 6,
+      "NNP-NN": 8,
+      "NN-VBZ": 2,
+      "VBZ-IN": 1,
+      "IN-JJ": 3,
+      "JJ-NN": 20,
+      "NN-IN": 11,
+      "NNP-FW": 3,
+      "FW-NN": 8,
+      "NN-JJ": 8,
+      "VBP-JJ": 7,
+      "NN-NNP": 4,
+      "NN-FW": 4,
+      "FW-NNS": 2,
+      "NNS-JJ": 1,
+      "JJ-JJ": 2,
+      "JJ-FW": 1,
+      "IN-CD": 3,
+      "CD-NN": 3,
+      "NNS-NNP": 1,
+      "NNS-CD": 1,
+      "CD-JJ": 1,
+      "NN-DT": 1,
+      "DT-NN": 2,
+      "NN-RB": 1,
+      "RB-JJ": 1,
+      "VBZ-DT": 1,
+      "NNS-VBZ": 1,
+      "VBZ-NNP": 1,
+      "FW-CD": 1,
+      "CD-FW": 1,
+      "FW-IN": 1,
+      "NNS-IN": 1,
+      "NNP-VBD": 1,
+      "VBD-JJ": 1,
+      "JJ-NNP": 1,
+      "NNP-VBZ": 1,
+      "VBZ-FW": 1,
+      "NN-VBD": 1,
+      "VBD-CD": 1,
+      "CD-IN": 1,
+      "FW-JJ": 1,
+      "IN-NNS": 1,
+      "JJ-NNS": 1
+    },
+    "trigram_freq": {
+      "NNS-NNS-VBP": 3,
+      "NNS-VBP-NN": 2,
+      "VBP-NN-NN": 1,
+      "NN-NN-NNS": 6,
+      "NN-NNS-VBP": 5,
+      "NNS-VBP-IN": 1,
+      "VBP-IN-FW": 1,
+      "IN-FW-FW": 7,
+      "FW-FW-FW": 29,
+      "FW-FW-NNP": 4,
+      "FW-NNP-NNP": 1,
+      "NNP-NNP-NNP": 3,
+      "NNP-NNP-NN": 2,
+      "NNP-NN-VBZ": 1,
+      "NN-VBZ-IN": 1,
+      "VBZ-IN-JJ": 1,
+      "IN-JJ-NN": 3,
+      "JJ-NN-IN": 7,
+      "NN-IN-FW": 7,
+      "FW-NNP-FW": 3,
+      "NNP-FW-NN": 2,
+      "FW-NN-JJ": 1,
+      "NN-JJ-NN": 7,
+      "JJ-NN-NN": 9,
+      "NN-NN-NN": 17,
+      "NN-NNS-NNS": 1,
+      "NNS-VBP-JJ": 7,
+      "VBP-JJ-NN": 5,
+      "NN-NN-NNP": 2,
+      "NN-NNP-NN": 1,
+      "NNP-NN-NN": 5,
+      "NN-NN-FW": 3,
+      "NN-FW-NN": 2,
+      "FW-NN-FW": 1,
+      "NN-FW-FW": 2,
+      "FW-FW-NNS": 2,
+      "FW-NNS-JJ": 1,
+      "NNS-JJ-JJ": 1,
+      "JJ-JJ-FW": 1,
+      "JJ-FW-FW": 1,
+      "FW-FW-NN": 3,
+      "FW-NN-NN": 3,
+      "NN-NN-JJ": 4,
+      "IN-FW-NNP": 2,
+      "FW-NNP-NN": 2,
+      "NNP-NN-JJ": 1,
+      "NN-IN-CD": 2,
+      "IN-CD-NN": 3,
+      "CD-NN-NNS": 2,
+      "FW-NN-NNS": 1,
+      "NN-NNS-NNP": 1,
+      "NNS-NNP-NN": 1,
+      "NNP-NN-NNS": 1,
+      "NN-NNS-CD": 1,
+      "NNS-CD-JJ": 1,
+      "CD-JJ-NN": 1,
+      "FW-NN-IN": 2,
+      "NN-NN-DT": 1,
+      "NN-DT-NN": 1,
+      "DT-NN-RB": 1,
+      "NN-RB-JJ": 1,
+      "RB-JJ-NN": 1,
+      "JJ-NN-VBZ": 1,
+      "NN-VBZ-DT": 1,
+      "VBZ-DT-NN": 1,
+      "DT-NN-JJ": 1,
+      "NN-NN-IN": 2,
+      "NN-IN-JJ": 1,
+      "NN-NNS-VBZ": 1,
+      "NNS-VBZ-NNP": 1,
+      "VBZ-NNP-NN": 1,
+      "NNP-FW-FW": 1,
+      "FW-FW-CD": 1,
+      "FW-CD-FW": 1,
+      "CD-FW-FW": 1,
+      "FW-FW-IN": 1,
+      "FW-IN-CD": 1,
+      "CD-NN-NN": 1,
+      "NN-NNS-IN": 1,
+      "NNS-IN-JJ": 1,
+      "JJ-NN-NNP": 2,
+      "NN-NNP-NNP": 2,
+      "NNP-NNP-VBD": 1,
+      "NNP-VBD-JJ": 1,
+      "VBD-JJ-NN": 1,
+      "NN-JJ-NNP": 1,
+      "JJ-NNP-NN": 1,
+      "FW-NNS-VBP": 1,
+      "VBP-JJ-JJ": 1,
+      "JJ-JJ-NN": 1,
+      "JJ-NN-JJ": 1,
+      "NN-NNP-VBZ": 1,
+      "NNP-VBZ-FW": 1,
+      "VBZ-FW-NN": 1,
+      "NN-NN-VBD": 1,
+      "NN-VBD-CD": 1,
+      "VBD-CD-IN": 1,
+      "CD-IN-FW": 1,
+      "FW-FW-JJ": 1,
+      "FW-JJ-NN": 1,
+      "NN-IN-NNS": 1,
+      "IN-NNS-NNS": 1,
+      "VBP-JJ-NNS": 1,
+      "JJ-NNS-VBP": 1,
+      "VBP-NN-NNS": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 79,
+        "FW": 60,
+        "JJ": 25,
+        "NNS": 19,
+        "NNP": 19
+      },
+      "top_bigrams": {
+        "FW-FW": 41,
+        "NN-NN": 36,
+        "JJ-NN": 20,
+        "NN-NNS": 11,
+        "NN-IN": 11
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 29,
+        "NN-NN-NN": 17,
+        "JJ-NN-NN": 9,
+        "IN-FW-FW": 7,
+        "JJ-NN-IN": 7
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 8,
+    "chunk_counts": {
+      "NP": 59,
+      "VP": 15,
+      "PP": 5,
+      "ADJP": 2
+    },
+    "top_rules": [
+      {
+        "rule": "NP -> ('Guayas', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0225
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0225
+      },
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0225
+      },
+      {
+        "rule": "NP -> ('un', 'JJ') ('grupo', 'NN')",
+        "frequency": 2,
+        "weight": 0.0225
+      },
+      {
+        "rule": "NP -> ('policías', 'NN') ('y', 'NN')",
+        "frequency": 2,
+        "weight": 0.0225
+      },
+      {
+        "rule": "S -> NP VP VP ('de', 'IN') ('violencia', 'FW') ('en', 'FW') ('cantones', 'FW') ('de', 'FW') ('la', 'FW') ('provincia', 'FW') ('del', 'FW') NP (',', ',') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0112
+      },
+      {
+        "rule": "NP -> ('Autoridades', 'NNS') ('locales', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0112
+      },
+      {
+        "rule": "VP -> ('reportan', 'VBP') NP",
+        "frequency": 1,
+        "weight": 0.0112
+      },
+      {
+        "rule": "NP -> ('este', 'NN') ('domingo', 'NN') ('varios', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0112
+      },
+      {
+        "rule": "VP -> ('actos', 'VBP')",
+        "frequency": 1,
+        "weight": 0.0112
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Autoridades locales"
+      },
+      {
+        "label": "VP",
+        "text": "reportan este domingo varios"
+      },
+      {
+        "label": "NP",
+        "text": "este domingo varios"
+      },
+      {
+        "label": "VP",
+        "text": "actos"
+      },
+      {
+        "label": "NP",
+        "text": "Guayas"
+      },
+      {
+        "label": "NP",
+        "text": "Ecuador"
+      },
+      {
+        "label": "NP",
+        "text": "Según los"
+      },
+      {
+        "label": "VP",
+        "text": "reportes"
+      },
+      {
+        "label": "PP",
+        "text": "en el cuartel"
+      },
+      {
+        "label": "NP",
+        "text": "el cuartel"
+      },
+      {
+        "label": "NP",
+        "text": "Durán"
+      },
+      {
+        "label": "NP",
+        "text": "ejecutó"
+      },
+      {
+        "label": "NP",
+        "text": "una matanza"
+      },
+      {
+        "label": "NP",
+        "text": "al llegar varios criminales"
+      },
+      {
+        "label": "VP",
+        "text": "hasta el lugar y"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Autoridades/NNS locales/NNS)\n  (VP reportan/VBP (NP este/NN domingo/NN varios/NNS))\n  (VP actos/VBP)\n  de/IN\n  violencia/FW\n  en/FW\n  cantones/FW\n  de/FW\n  la/FW\n  provincia/FW\n  del/FW\n  (NP Guayas/NNP)\n  ,/,\n  (NP Ecuador/NNP)\n  ./.)",
+      "(S\n  (NP Según/NNP los/NN)\n  (VP reportes/VBZ)\n  (PP en/IN (NP el/JJ cuartel/NN))\n  de/IN\n  bomberos/FW\n  de/FW\n  (NP Durán/NNP)\n  se/FW\n  (NP ejecutó/NN)\n  (NP una/JJ matanza/NN)\n  ,/,\n  (NP al/NN llegar/NN varios/NNS criminales/NNS)\n  (VP hasta/VBP (NP el/JJ lugar/NN y/NN))\n  (VP asesinaron/VBZ (NP a/DT dos/JJ bomberos/NN))\n  ./.)",
+      "(S\n  (NP También/NNP se/NN detalló/NN)\n  ,/,\n  (ADJP que/JJ)\n  el/FW\n  (NP cuerpo/NN)\n  de/FW\n  uno/FW\n  de/FW\n  las/FW\n  victimas/FW\n  permaneció/FW\n  en/FW\n  los/FW\n  exteriores/FW\n  de/FW\n  las/FW\n  (NP instalaciones/NNS)\n  ,/,\n  (NP un/JJ tercer/NN)\n  miembro/FW\n  de/FW\n  la/FW\n  institución/FW\n  permaneció/FW\n  (NP herido/NN y/NN fue/NN)\n  (VP trasladado/VBD (NP a/DT un/JJ centro/NN))\n  (PP de/IN (NP salud/NN))\n  ./.)",
+      "(S\n  (NP Con/NNP anterioridad/NN)\n  (NP un/JJ grupo/NN)\n  de/IN\n  1200/CD\n  (NP policías/NN y/NN)\n  (VP militares/VBZ)\n  arribaron/RP\n  (NP al/JJ cantón/NN para/NN contener/NN)\n  (NP el/JJ problema/NN)\n  de/IN\n  la/FW\n  violencia/FW\n  ,/,\n  aún/FW\n  (NP sin/NN logros/NNS)\n  ./.)",
+      "(S\n  (NP El/NNP pasado/NN miércoles/NNS)\n  17/CD\n  ,/,\n  (NP un/JJ contingente/NN)\n  de/IN\n  1200/CD\n  (NP policías/NN y/NN)\n  (VP\n    militares/VBZ\n    (NP llegaron/JJR al/JJ cantón/NN para/NN enfrentar/NN))\n  el/FW\n  (NP problema/NN)\n  de/IN\n  la/FW\n  violencia/FW\n  ,/,\n  (NP sin/NN embargo/NN)\n  ,/,\n  (NP no/DT se/NN)\n  observan/RB\n  (NP aún/JJ los/NN resultados/NN)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "ANTIIMPERIALISMO_SOBERANIA",
+      "REGIONES_PROVINCIAS",
+      "LOCALIZACIONES_ESPECIFICAS",
+      "PAISES",
+      "INFRAESTRUCTURA_SERVICIOS",
+      "FECHAS_ESPECIFICAS"
+    ],
+    "matches": [
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "centro de salud",
+        "position": [
+          454,
+          469
+        ],
+        "start": 454,
+        "end": 469
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "ecuador",
+        "position": [
+          109,
+          116
+        ],
+        "start": 109,
+        "end": 116
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "provincia del",
+        "position": [
+          87,
+          100
+        ],
+        "start": 87,
+        "end": 100
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "centro de",
+        "position": [
+          454,
+          463
+        ],
+        "start": 454,
+        "end": 463
+      },
+      {
+        "category": "FECHAS_ESPECIFICAS",
+        "matched_text": "27 de julio de 2024",
+        "position": [
+          1016,
+          1035
+        ],
+        "start": 1016,
+        "end": 1035
+      },
+      {
+        "category": "ANTIIMPERIALISMO_SOBERANIA",
+        "matched_text": "embargo",
+        "position": [
+          740,
+          747
+        ],
+        "start": 740,
+        "end": 747
+      }
+    ],
+    "match_count": 6
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Ecuador",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Domingo Miranda",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "José Antonio Pilaló Mollina",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Samborondón",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Durán",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Posorja",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "provincia del Guayas",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Policía",
+        "tipo": "Organizacion"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "provincia del Guayas",
+        "relacion": "ES",
+        "objeto": "Ecuador"
+      },
+      {
+        "sujeto": "Samborondón",
+        "relacion": "OIR",
+        "objeto": "Domingo Miranda"
+      },
+      {
+        "sujeto": "provincia del Guayas",
+        "relacion": "OIR",
+        "objeto": "Domingo Miranda"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.891,
+    "pos": 0.0,
+    "neu": 0.954,
+    "neg": 0.046,
+    "label": "negative"
+  }
+}

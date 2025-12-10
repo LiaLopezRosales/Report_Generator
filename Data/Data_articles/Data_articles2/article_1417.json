@@ -1,0 +1,876 @@
+{
+  "url": "https://www.telesurtv.net/inundaciones-nigeria-lluvias-fallecidos/",
+  "title": "Inundaciones en Nigeria dejan más de 100 fallecidos - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Desplazados",
+    "fallecidos",
+    "Inundaciones",
+    "lluvias",
+    "Nigeria"
+  ],
+  "text": "\nSegún informó la Federación Internacional de la Cruz Roja y la Media Luna Roja (FICR), el desastre sumergió unas 50 casas y destruyó hectáreas de tierras de cultivo, afectando a un mínimo de 1.500 personas, de las cuales 200 han tenido que ser desplazadas.\nLa Agencia Nacional de Emergencias de Nigeria (NEMA) desplegó un operativo de rescate que sigue activo este viernes, y la FICR advierte que “es posible que se registren más muertes, ya que las operaciones de búsqueda y rescate continúan y muchos residentes siguen desaparecidos”.\n\n\nLa directora de la NEMA, Zubaida Uma, afirmó que los objetivos principales de la operación son “rescatar a los supervivientes y evacuar a los heridos y fallecidos, garantizando al mismo tiempo la seguridad, proporcionando alimentos, agua, saneamiento, refugio temporal y protección vitales, y restableciendo la normalidad en la zona afectada”. La Cruz Roja de Nigeria colabora activamente en estos esfuerzos.\nEl Foro de Gobernadores de Nigeria expresó su “solidaridad con el Gobierno y el pueblo del estado de Níger por las devastadoras inundaciones”. Los gobernadores manifestaron estar “consternados por la magnitud de las inundaciones, que han causado pérdidas humanas y materiales en la comunidad”, y se solidarizaron con las familias afectadas.\n\n\n\n\nNigeria, el país más poblado de África, enfrenta cada año inundaciones severas debido a las lluvias torrenciales y el desbordamiento de ríos, una situación que se ve agravada por el mal estado de las infraestructuras y, cada vez más, por los efectos de la crisis climática.\nSegún la Agencia de las Naciones Unidas para los Refugiados (Acnur), solo en el año 2024, hasta el mes de septiembre, al menos 269 personas perdieron la vida por inundaciones en diferentes puntos del país, y más de 640.000 se vieron desplazadas.\nEn 2022, Nigeria sufrió sus peores inundaciones en una década, con un saldo de 600 fallecidos, mientras que en 2020 se reportaron 40 muertes por el mismo fenómeno. Esta recurrencia subraya la urgente necesidad de implementar medidas de mitigación y adaptación frente a los impactos del cambio climático.\n",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/inundaciones-nigeria-lluvias-fallecidos/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-05.json",
+    "message_index": 74,
+    "message_id": 95268,
+    "date": "2025-05-30T18:55:07+00:00",
+    "text": "teleSUR\nInundaciones en Nigeria dejan más de 100 fallecidos\nhttps://www.telesurtv.net/inundaciones-nigeria-lluvias-fallecidos/",
+    "photo_path": null,
+    "views": 1817,
+    "reactions": {
+      "😢": 21,
+      "😱": 7,
+      "👍": 1
+    },
+    "total_reactions": 29
+  },
+  "preprocessing": {
+    "cleaned": "según informó la federación internacional de la cruz roja y la media luna roja (ficr), el desastre sumergió unas 50 casas y destruyó hectáreas de tierras de cultivo, afectando a un mínimo de 1.500 personas, de las cuales 200 han tenido que ser desplazadas. la agencia nacional de emergencias de nigeria (nema) desplegó un operativo de rescate que sigue activo este viernes, y la ficr advierte que “es posible que se registren más muertes, ya que las operaciones de búsqueda y rescate continúan y muchos residentes siguen desaparecidos”. la directora de la nema, zubaida uma, afirmó que los objetivos principales de la operación son “rescatar a los supervivientes y evacuar a los heridos y fallecidos, garantizando al mismo tiempo la seguridad, proporcionando alimentos, agua, saneamiento, refugio temporal y protección vitales, y restableciendo la normalidad en la zona afectada”. la cruz roja de nigeria colabora activamente en estos esfuerzos. el foro de gobernadores de nigeria expresó su “solidaridad con el gobierno y el pueblo del estado de níger por las devastadoras inundaciones”. los gobernadores manifestaron estar “consternados por la magnitud de las inundaciones, que han causado pérdidas humanas y materiales en la comunidad”, y se solidarizaron con las familias afectadas. nigeria, el país más poblado de áfrica, enfrenta cada año inundaciones severas debido a las lluvias torrenciales y el desbordamiento de ríos, una situación que se ve agravada por el mal estado de las infraestructuras y, cada vez más, por los efectos de la crisis climática. según la agencia de las naciones unidas para los refugiados (acnur), solo en el año 2024, hasta el mes de septiembre, al menos 269 personas perdieron la vida por inundaciones en diferentes puntos del país, y más de 640.000 se vieron desplazadas. en 2022, nigeria sufrió sus peores inundaciones en una década, con un saldo de 600 fallecidos, mientras que en 2020 se reportaron 40 muertes por el mismo fenómeno. esta recurrencia subraya la urgente necesidad de implementar medidas de mitigación y adaptación frente a los impactos del cambio climático.",
+    "tokens": [
+      "según",
+      "informó",
+      "federación",
+      "internacional",
+      "cruz",
+      "roja",
+      "media",
+      "luna",
+      "roja",
+      "(",
+      "ficr",
+      ")",
+      ",",
+      "desastre",
+      "sumergió",
+      "unas",
+      "50",
+      "casas",
+      "destruyó",
+      "hectáreas",
+      "tierras",
+      "cultivo",
+      ",",
+      "afectando",
+      "mínimo",
+      "1.500",
+      "personas",
+      ",",
+      "cuales",
+      "200",
+      "ser",
+      "desplazadas",
+      ".",
+      "agencia",
+      "nacional",
+      "emergencias",
+      "nigeria",
+      "(",
+      "nema",
+      ")",
+      "desplegó",
+      "operativo",
+      "rescate",
+      "sigue",
+      "activo",
+      "viernes",
+      ",",
+      "ficr",
+      "advierte",
+      "“",
+      "posible",
+      "registren",
+      "muertes",
+      ",",
+      "operaciones",
+      "búsqueda",
+      "rescate",
+      "continúan",
+      "residentes",
+      "siguen",
+      "desaparecidos",
+      "”",
+      ".",
+      "directora",
+      "nema",
+      ",",
+      "zubaida",
+      "uma",
+      ",",
+      "afirmó",
+      "objetivos",
+      "principales",
+      "operación",
+      "“",
+      "rescatar",
+      "supervivientes",
+      "evacuar",
+      "heridos",
+      "fallecidos",
+      ",",
+      "garantizando",
+      "mismo",
+      "tiempo",
+      "seguridad",
+      ",",
+      "proporcionando",
+      "alimentos",
+      ",",
+      "agua",
+      ",",
+      "saneamiento",
+      ",",
+      "refugio",
+      "temporal",
+      "protección",
+      "vitales",
+      ",",
+      "restableciendo",
+      "normalidad",
+      "zona",
+      "afectada",
+      "”",
+      ".",
+      "cruz",
+      "roja",
+      "nigeria",
+      "colabora",
+      "activamente",
+      "esfuerzos",
+      ".",
+      "foro",
+      "gobernadores",
+      "nigeria",
+      "expresó",
+      "“",
+      "solidaridad",
+      "gobierno",
+      "pueblo",
+      "níger",
+      "devastadoras",
+      "inundaciones",
+      "”",
+      ".",
+      "gobernadores",
+      "manifestaron",
+      "“",
+      "consternados",
+      "magnitud",
+      "inundaciones",
+      ",",
+      "causado",
+      "pérdidas",
+      "humanas",
+      "materiales",
+      "comunidad",
+      "”",
+      ",",
+      "solidarizaron",
+      "familias",
+      "afectadas",
+      ".",
+      "nigeria",
+      ",",
+      "país",
+      "poblado",
+      "áfrica",
+      ",",
+      "enfrenta",
+      "cada",
+      "año",
+      "inundaciones",
+      "severas",
+      "debido",
+      "lluvias",
+      "torrenciales",
+      "desbordamiento",
+      "ríos",
+      ",",
+      "situación",
+      "ve",
+      "agravada",
+      "mal",
+      "infraestructuras",
+      ",",
+      "cada",
+      "vez",
+      ",",
+      "efectos",
+      "crisis",
+      "climática",
+      ".",
+      "según",
+      "agencia",
+      "naciones",
+      "unidas",
+      "refugiados",
+      "(",
+      "acnur",
+      ")",
+      ",",
+      "solo",
+      "año",
+      "2024",
+      ",",
+      "mes",
+      "septiembre",
+      ",",
+      "menos",
+      "269",
+      "personas",
+      "perdieron",
+      "vida",
+      "inundaciones",
+      "diferentes",
+      "puntos",
+      "país",
+      ",",
+      "640.000",
+      "vieron",
+      "desplazadas",
+      ".",
+      "2022",
+      ",",
+      "nigeria",
+      "sufrió",
+      "peores",
+      "inundaciones",
+      "década",
+      ",",
+      "saldo",
+      "600",
+      "fallecidos",
+      ",",
+      "mientras",
+      "2020",
+      "reportaron",
+      "40",
+      "muertes",
+      "mismo",
+      "fenómeno",
+      ".",
+      "recurrencia",
+      "subraya",
+      "urgente",
+      "necesidad",
+      "implementar",
+      "medidas",
+      "mitigación",
+      "adaptación",
+      "frente",
+      "impactos",
+      "cambio",
+      "climático",
+      "."
+    ],
+    "token_count": 234,
+    "sentence_count": 10
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 43,
+      "NN": 106,
+      "FW": 60,
+      "VBD": 3,
+      "JJ": 32,
+      "CD": 10,
+      "IN": 14,
+      "NNS": 24,
+      "VBP": 15,
+      "VBZ": 4,
+      "RB": 1,
+      "CC": 2
+    },
+    "bigram_freq": {
+      "NNP-NN": 10,
+      "NN-NN": 61,
+      "NN-NNP": 8,
+      "NNP-NNP": 17,
+      "NNP-FW": 8,
+      "FW-FW": 34,
+      "FW-NNP": 12,
+      "NN-VBD": 2,
+      "VBD-JJ": 1,
+      "JJ-CD": 1,
+      "CD-NN": 4,
+      "NN-FW": 6,
+      "FW-JJ": 4,
+      "JJ-NN": 17,
+      "NN-IN": 8,
+      "IN-CD": 4,
+      "CD-NNS": 4,
+      "NNS-FW": 2,
+      "FW-NNS": 2,
+      "NNS-CD": 2,
+      "NN-JJ": 8,
+      "IN-NN": 1,
+      "NN-NNS": 8,
+      "NNS-VBP": 14,
+      "VBP-NNP": 1,
+      "NN-VBZ": 3,
+      "VBZ-RB": 1,
+      "RB-JJ": 1,
+      "JJ-JJ": 5,
+      "JJ-NNS": 5,
+      "NNS-IN": 4,
+      "IN-FW": 6,
+      "FW-NN": 8,
+      "VBZ-JJ": 3,
+      "VBP-JJ": 6,
+      "JJ-FW": 3,
+      "NNP-CC": 2,
+      "CC-JJ": 1,
+      "NNP-VBZ": 1,
+      "NNP-VBP": 1,
+      "VBP-NNS": 3,
+      "NNS-NNP": 1,
+      "NNP-NNS": 1,
+      "VBP-NN": 3,
+      "VBP-FW": 1,
+      "JJ-NNP": 1,
+      "IN-NNP": 1,
+      "CC-NN": 1,
+      "NNP-IN": 1,
+      "NN-CD": 1,
+      "IN-NNS": 1,
+      "CD-JJ": 1,
+      "NNP-CD": 1,
+      "CD-NNP": 1,
+      "NNP-VBD": 1,
+      "VBD-NN": 1,
+      "VBP-IN": 1,
+      "IN-JJ": 1,
+      "NNS-JJ": 1,
+      "VBD-CD": 1
+    },
+    "trigram_freq": {
+      "NNP-NN-NN": 9,
+      "NN-NN-NNP": 7,
+      "NN-NNP-NNP": 4,
+      "NNP-NNP-FW": 5,
+      "NNP-FW-FW": 2,
+      "FW-FW-NNP": 5,
+      "FW-NNP-NNP": 7,
+      "NNP-FW-NNP": 6,
+      "NNP-NNP-NNP": 6,
+      "NNP-NNP-NN": 5,
+      "NN-NN-VBD": 1,
+      "NN-VBD-JJ": 1,
+      "VBD-JJ-CD": 1,
+      "JJ-CD-NN": 1,
+      "CD-NN-NN": 2,
+      "NN-NN-FW": 4,
+      "NN-FW-FW": 4,
+      "FW-FW-FW": 21,
+      "FW-FW-JJ": 3,
+      "FW-JJ-NN": 3,
+      "JJ-NN-IN": 6,
+      "NN-IN-CD": 4,
+      "IN-CD-NNS": 2,
+      "CD-NNS-FW": 1,
+      "NNS-FW-FW": 1,
+      "FW-FW-NNS": 2,
+      "FW-NNS-CD": 1,
+      "NNS-CD-NN": 1,
+      "NN-NN-NN": 33,
+      "FW-NNP-FW": 2,
+      "NNP-NN-JJ": 1,
+      "NN-JJ-NN": 5,
+      "NN-IN-NN": 1,
+      "IN-NN-NN": 1,
+      "NN-NN-NNS": 3,
+      "NN-NNS-VBP": 7,
+      "NNS-VBP-NNP": 1,
+      "VBP-NNP-NN": 1,
+      "NN-NN-JJ": 6,
+      "JJ-NN-NN": 9,
+      "NN-NN-VBZ": 3,
+      "NN-VBZ-RB": 1,
+      "VBZ-RB-JJ": 1,
+      "RB-JJ-JJ": 1,
+      "JJ-JJ-NNS": 1,
+      "JJ-NNS-IN": 3,
+      "NNS-IN-FW": 3,
+      "IN-FW-NN": 2,
+      "FW-NN-NN": 5,
+      "NN-VBZ-JJ": 2,
+      "VBZ-JJ-NN": 1,
+      "JJ-NN-NNP": 1,
+      "NN-NNP-FW": 1,
+      "NN-JJ-NNS": 2,
+      "IN-FW-FW": 2,
+      "FW-FW-NN": 3,
+      "VBZ-JJ-JJ": 1,
+      "JJ-JJ-NN": 3,
+      "NN-FW-NN": 2,
+      "FW-NN-NNS": 3,
+      "NNS-VBP-JJ": 6,
+      "VBP-JJ-JJ": 1,
+      "JJ-JJ-JJ": 1,
+      "JJ-NN-NNS": 1,
+      "VBP-JJ-FW": 1,
+      "JJ-FW-FW": 3,
+      "FW-NNP-NN": 1,
+      "FW-NNP-CC": 1,
+      "NNP-CC-JJ": 1,
+      "CC-JJ-JJ": 1,
+      "NN-NNP-VBZ": 1,
+      "NNP-VBZ-JJ": 1,
+      "VBZ-JJ-FW": 1,
+      "FW-NNP-VBP": 1,
+      "NNP-VBP-NNS": 1,
+      "VBP-NNS-VBP": 2,
+      "NNS-VBP-NNS": 2,
+      "VBP-NNS-NNP": 1,
+      "NNS-NNP-NNS": 1,
+      "NNP-NNS-VBP": 1,
+      "NNS-VBP-NN": 3,
+      "VBP-NN-NN": 1,
+      "FW-NNS-FW": 1,
+      "NNS-FW-NN": 1,
+      "NNS-VBP-FW": 1,
+      "VBP-FW-FW": 1,
+      "VBP-JJ-NNP": 1,
+      "JJ-NNP-NN": 1,
+      "NN-NN-IN": 2,
+      "NN-IN-NNP": 1,
+      "IN-NNP-CC": 1,
+      "NNP-CC-NN": 1,
+      "CC-NN-NN": 1,
+      "VBP-JJ-NNS": 1,
+      "JJ-NNS-VBP": 1,
+      "VBP-NN-FW": 2,
+      "NN-IN-FW": 2,
+      "NNP-NNP-IN": 1,
+      "NNP-IN-FW": 1,
+      "IN-FW-NNP": 1,
+      "NN-NN-CD": 1,
+      "NN-CD-NN": 1,
+      "CD-NN-JJ": 1,
+      "IN-FW-JJ": 1,
+      "FW-JJ-NNS": 1,
+      "JJ-NNS-CD": 1,
+      "NNS-CD-NNS": 1,
+      "CD-NNS-VBP": 2,
+      "NN-NNS-IN": 1,
+      "NNS-IN-NNS": 1,
+      "IN-NNS-VBP": 1,
+      "VBP-JJ-NN": 2,
+      "IN-CD-JJ": 1,
+      "CD-JJ-NN": 1,
+      "NN-NNP-CD": 1,
+      "NNP-CD-NNP": 1,
+      "CD-NNP-VBD": 1,
+      "NNP-VBD-NN": 1,
+      "VBD-NN-NNS": 1,
+      "NNS-VBP-IN": 1,
+      "VBP-IN-JJ": 1,
+      "IN-JJ-NN": 1,
+      "CD-NNS-JJ": 1,
+      "NNS-JJ-NN": 1,
+      "IN-CD-NN": 1,
+      "CD-NN-VBD": 1,
+      "NN-VBD-CD": 1,
+      "VBD-CD-NNS": 1,
+      "NN-NNP-NN": 1,
+      "NN-JJ-FW": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 106,
+        "FW": 60,
+        "NNP": 43,
+        "JJ": 32,
+        "NNS": 24
+      },
+      "top_bigrams": {
+        "NN-NN": 61,
+        "FW-FW": 34,
+        "NNP-NNP": 17,
+        "JJ-NN": 17,
+        "NNS-VBP": 14
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 33,
+        "FW-FW-FW": 21,
+        "NNP-NN-NN": 9,
+        "JJ-NN-NN": 9,
+        "NN-NN-NNP": 7
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 10,
+    "chunk_counts": {
+      "NP": 94,
+      "ADJP": 3,
+      "VP": 24,
+      "PP": 5
+    },
+    "top_rules": [
+      {
+        "rule": "NP -> ('Nigeria', 'NNP')",
+        "frequency": 4,
+        "weight": 0.0294
+      },
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 3,
+        "weight": 0.0221
+      },
+      {
+        "rule": "NP -> ('personas', 'NNS')",
+        "frequency": 2,
+        "weight": 0.0147
+      },
+      {
+        "rule": "NP -> ('NEMA', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0147
+      },
+      {
+        "rule": "VP -> ('por', 'VBP') NP",
+        "frequency": 2,
+        "weight": 0.0147
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0147
+      },
+      {
+        "rule": "S -> NP ('de', 'FW') ('la', 'FW') NP ('la', 'FW') NP ('(', '(') NP (')', ')') (',', ',') ('el', 'FW') ('desastre', 'FW') ('sumergió', 'FW') ADJP ('50', 'CD') NP NP ('de', 'IN') ('tierras', 'FW') ('de', 'FW') ('cultivo', 'FW') (',', ',') VP ('de', 'IN') ('1.500', 'CD') NP (',', ',') ('de', 'FW') ('las', 'FW') NP ('200', 'CD') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0074
+      },
+      {
+        "rule": "NP -> ('Según', 'NNP') ('informó', 'NN') ('la', 'NN') ('Federación', 'NNP') ('Internacional', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0074
+      },
+      {
+        "rule": "NP -> ('Cruz', 'NNP') ('Roja', 'NNP') ('y', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0074
+      },
+      {
+        "rule": "NP -> ('Media', 'NNP') ('Luna', 'NNP') ('Roja', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0074
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Según informó la Federación Internacional"
+      },
+      {
+        "label": "NP",
+        "text": "Cruz Roja y"
+      },
+      {
+        "label": "NP",
+        "text": "Media Luna Roja"
+      },
+      {
+        "label": "NP",
+        "text": "FICR"
+      },
+      {
+        "label": "ADJP",
+        "text": "unas"
+      },
+      {
+        "label": "NP",
+        "text": "casas y"
+      },
+      {
+        "label": "NP",
+        "text": "destruyó hectáreas"
+      },
+      {
+        "label": "VP",
+        "text": "afectando a un mínimo"
+      },
+      {
+        "label": "NP",
+        "text": "a un mínimo"
+      },
+      {
+        "label": "NP",
+        "text": "personas"
+      },
+      {
+        "label": "NP",
+        "text": "cuales"
+      },
+      {
+        "label": "NP",
+        "text": "han tenido que ser desplazadas"
+      },
+      {
+        "label": "NP",
+        "text": "La Agencia Nacional"
+      },
+      {
+        "label": "NP",
+        "text": "Emergencias"
+      },
+      {
+        "label": "NP",
+        "text": "Nigeria"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Según/NNP informó/NN la/NN Federación/NNP Internacional/NNP)\n  de/FW\n  la/FW\n  (NP Cruz/NNP Roja/NNP y/NNP)\n  la/FW\n  (NP Media/NNP Luna/NNP Roja/NNP)\n  (/(\n  (NP FICR/NNP)\n  )/)\n  ,/,\n  el/FW\n  desastre/FW\n  sumergió/FW\n  (ADJP unas/JJ)\n  50/CD\n  (NP casas/NN y/NN)\n  (NP destruyó/JJ hectáreas/NN)\n  de/IN\n  tierras/FW\n  de/FW\n  cultivo/FW\n  ,/,\n  (VP afectando/VBZ (NP a/DT un/JJ mínimo/NN))\n  de/IN\n  1.500/CD\n  (NP personas/NNS)\n  ,/,\n  de/FW\n  las/FW\n  (NP cuales/NNS)\n  200/CD\n  (NP han/NN tenido/NN que/NN ser/NN desplazadas/NN)\n  ./.)",
+      "(S\n  (NP La/NNP Agencia/NNP Nacional/NNP)\n  de/FW\n  (NP Emergencias/NNP)\n  de/FW\n  (NP Nigeria/NNP)\n  (/(\n  (NP NEMA/NNP)\n  )/)\n  (NP desplegó/NN)\n  (NP un/JJ operativo/NN)\n  (PP\n    de/IN\n    (NP rescate/NN que/NN sigue/NN activo/NN este/NN viernes/NNS))\n  ,/,\n  y/CC\n  la/FW\n  (NP FICR/NNP advierte/NN que/NN “/NNP)\n  (VP\n    es/VBZ\n    (NP posible/JJ que/NN se/NN registren/NN más/NN muertes/NNS))\n  ,/,\n  ya/RB\n  (NP que/JJ las/JJ operaciones/NNS)\n  de/IN\n  búsqueda/FW\n  (NP y/JJ rescate/NN continúan/NN y/NN muchos/NN)\n  (VP residentes/VBZ (NP siguen/JJ desaparecidos/NN ”/NN))\n  ./.)",
+      "(S\n  (NP La/NNP)\n  directora/FW\n  de/FW\n  la/FW\n  (NP NEMA/NNP)\n  ,/,\n  (NP Zubaida/NNP Uma/NNP)\n  ,/,\n  (NP afirmó/NN que/NN los/NN)\n  (NP objetivos/JJ principales/NNS)\n  de/IN\n  la/FW\n  operación/FW\n  (NP son/NN “/NNP)\n  (VP rescatar/VBZ (NP a/DT los/NN))\n  (VP supervivientes/VBZ y/RB)\n  (VP evacuar/VB (NP a/DT los/JJ heridos/NN y/NN fallecidos/NN))\n  ,/,\n  (NP garantizando/NN al/NN mismo/NN tiempo/NN la/NN seguridad/NN)\n  ,/,\n  (NP proporcionando/NN alimentos/NNS)\n  ,/,\n  (NP agua/NN)\n  ,/,\n  (NP saneamiento/NN)\n  ,/,\n  (NP refugio/JJ temporal/JJ y/NN protección/NN vitales/NNS)\n  ,/,\n  y/FW\n  (NP restableciendo/NN)\n  la/FW\n  normalidad/FW\n  en/FW\n  la/FW\n  zona/FW\n  afectada/FW\n  (NP ”/NN)\n  ./.)",
+      "(S\n  (NP La/NNP Cruz/NNP Roja/NNP)\n  de/FW\n  (NP Nigeria/NNP colabora/NN activamente/NN)\n  en/FW\n  (NP estos/NN esfuerzos/NN)\n  ./.)",
+      "(S\n  (NP El/NNP Foro/NNP)\n  de/FW\n  (NP Gobernadores/NNP)\n  de/FW\n  (NP Nigeria/NNP)\n  expresó/CC\n  (NP su/JJ “/NNP solidaridad/NN con/NN el/NN Gobierno/NNP y/NNP)\n  (VP el/VBZ pueblo/JJ)\n  del/FW\n  estado/FW\n  de/FW\n  (NP Níger/NNP)\n  (VP por/VBP (NP las/NNS))\n  (VP devastadoras/VBP (NP inundaciones/NNS ”/NNP))\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "FECHAS_HORAS",
+      "ORGANISMOS_INTERNACIONALES",
+      "RECURSOS_NATURALES",
+      "CANTIDADES_NUMERICAS",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "REGIONES_PROVINCIAS",
+      "CRISIS_HUMANITARIA_SERVICIOS",
+      "PERIODOS_TEMPORALES",
+      "INFRAESTRUCTURA_SERVICIOS",
+      "RELACIONES_INTERNACIONALES",
+      "FECHAS_ESPECIFICAS"
+    ],
+    "matches": [
+      {
+        "category": "RELACIONES_INTERNACIONALES",
+        "matched_text": "solidaridad con el gobierno",
+        "position": [
+          996,
+          1023
+        ],
+        "start": 996,
+        "end": 1023
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "afirmó",
+        "position": [
+          578,
+          584
+        ],
+        "start": 578,
+        "end": 584
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "informó",
+        "position": [
+          7,
+          14
+        ],
+        "start": 7,
+        "end": 14
+      },
+      {
+        "category": "CRISIS_HUMANITARIA_SERVICIOS",
+        "matched_text": "crisis climática",
+        "position": [
+          1550,
+          1566
+        ],
+        "start": 1550,
+        "end": 1566
+      },
+      {
+        "category": "ORGANISMOS_INTERNACIONALES",
+        "matched_text": "naciones unidas",
+        "position": [
+          1592,
+          1607
+        ],
+        "start": 1592,
+        "end": 1607
+      },
+      {
+        "category": "RECURSOS_NATURALES",
+        "matched_text": "agua",
+        "position": [
+          773,
+          777
+        ],
+        "start": 773,
+        "end": 777
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "saneamiento",
+        "position": [
+          779,
+          790
+        ],
+        "start": 779,
+        "end": 790
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "zona afectada",
+        "position": [
+          868,
+          881
+        ],
+        "start": 868,
+        "end": 881
+      },
+      {
+        "category": "FECHAS_ESPECIFICAS",
+        "matched_text": "año 2024",
+        "position": [
+          1648,
+          1656
+        ],
+        "start": 1648,
+        "end": 1656
+      },
+      {
+        "category": "PERIODOS_TEMPORALES",
+        "matched_text": "en el año",
+        "position": [
+          1642,
+          1651
+        ],
+        "start": 1642,
+        "end": 1651
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "500 personas",
+        "position": [
+          194,
+          206
+        ],
+        "start": 194,
+        "end": 206
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "1.500 personas",
+        "position": [
+          192,
+          206
+        ],
+        "start": 192,
+        "end": 206
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "más de 640.000",
+        "position": [
+          1776,
+          1790
+        ],
+        "start": 1776,
+        "end": 1790
+      },
+      {
+        "category": "FECHAS_HORAS",
+        "matched_text": "en el año 2024",
+        "position": [
+          1642,
+          1656
+        ],
+        "start": 1642,
+        "end": 1656
+      }
+    ],
+    "match_count": 14
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Foro de Gobernadores de Nigeria",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "África",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "La Cruz Roja",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "NEMA",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Media Luna Roja",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Gobierno",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Nigeria",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Agencia de las Naciones Unidas para los Refugiados",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Acnur",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Agencia Nacional de Emergencias de Nigeria",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Níger",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Federación Internacional de la Cruz Roja",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "FICR",
+        "tipo": "Organizacion"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Agencia Nacional de Emergencias de Nigeria",
+        "relacion": "DESPLEGAR",
+        "objeto": "FICR"
+      },
+      {
+        "sujeto": "FICR",
+        "relacion": "DESPLEGAR",
+        "objeto": "NEMA"
+      },
+      {
+        "sujeto": "Foro de Gobernadores de Nigeria",
+        "relacion": "EXPRESAR",
+        "objeto": "Gobierno"
+      },
+      {
+        "sujeto": "Foro de Gobernadores de Nigeria",
+        "relacion": "EXPRESAR",
+        "objeto": "Níger"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.6249,
+    "pos": 0.0,
+    "neu": 0.987,
+    "neg": 0.013,
+    "label": "negative"
+  }
+}

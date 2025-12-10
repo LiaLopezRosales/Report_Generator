@@ -1,0 +1,811 @@
+{
+  "url": "https://www.telesurtv.net/presidente-de-nicaragua-se-solidariza-con-venezuela-y-honduras-ante-agresiones/",
+  "title": "Presidente de Nicaragua se solidariza con Venezuela y Honduras ante agresiones - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "Daniel Ortega",
+    "Honduras",
+    "Nicaragua",
+    "Venezuela"
+  ],
+  "text": "El presidente de Nicaragua, Daniel Ortega, se solidarizó este lunes con Venezuela y Honduras ante las constantes agresiones contra sus gobiernos, al tiempo de rechazar el genocidio que el régimen israelí comete contra el pueblo palestino.\nAl presidir una ceremonia por el 45 aniversario de la constitución de las Fuerzas Armadas nicaragüenses, Ortega expresó su solidaridad con el pueblo venezolano ante los recientes ataques al Sistema Eléctrico Nacional de ese país suramericano.\n“Hace poco están provocando apagones en todo Venezuela, afectando a la población (…) a nuestro hermano Nicolás Maduro le decimos que estamos con el pueblo bolivariano, estamos en contra de las agresiones sistemáticas que estuvieron cometiendo contra el pueblo venezolano”.\nEl jefe de Estado nicaragüense sostuvo que el objetivo de estas agresiones es robar el petróleo de Venezuela, país que tiene las reservas de petróleo más grandes en el mundo.\nEl mandatario también expresó su rechazo a las maniobras injerencistas contra el Gobierno de la presidenta de Honduras, Xiomara Castro.\n“Le queremos decir a la presidenta Xiomara que estamos con ellos. Somos solidarios con el pueblo hondureño (…) ahí claramente se ve que quieren destruir a ese gobierno y quieren enlodar al ejército de Honduras”, manifestó.\nEl mandatario nicaragüense, asimismo, resaltó su desacuerdo contra los crímenes perpetrados por Israel contra los palestinos.\n“Quién se podría imaginar a un gobierno en Israel cometiendo crímenes contra los palestinos, un gobierno de Israel actuando como los nazis”, externó.\nDenunció que el Gobierno estadounidense respalda y entrega armas a los israelíes, que también reciben el apoyo de la mayoría de las naciones europeas.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/presidente-de-nicaragua-se-solidariza-con-venezuela-y-honduras-ante-agresiones/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-09.json",
+    "message_index": 1565,
+    "message_id": 75696,
+    "date": "2024-09-03T08:55:12+00:00",
+    "text": "teleSUR\nPresidente de Nicaragua se solidariza con Venezuela y Honduras ante agresiones\nhttps://www.telesurtv.net/presidente-de-nicaragua-se-solidariza-con-venezuela-y-honduras-ante-agresiones/",
+    "photo_path": null,
+    "views": 3440,
+    "reactions": {
+      "👍": 84,
+      "❤": 17,
+      "👏": 5
+    },
+    "total_reactions": 106
+  },
+  "preprocessing": {
+    "cleaned": "el presidente de nicaragua, daniel ortega, se solidarizó este lunes con venezuela y honduras ante las constantes agresiones contra sus gobiernos, al tiempo de rechazar el genocidio que el régimen israelí comete contra el pueblo palestino. al presidir una ceremonia por el 45 aniversario de la constitución de las fuerzas armadas nicaragüenses, ortega expresó su solidaridad con el pueblo venezolano ante los recientes ataques al sistema eléctrico nacional de ese país suramericano. “hace poco están provocando apagones en todo venezuela, afectando a la población (…) a nuestro hermano nicolás maduro le decimos que estamos con el pueblo bolivariano, estamos en contra de las agresiones sistemáticas que estuvieron cometiendo contra el pueblo venezolano”. el jefe de estado nicaragüense sostuvo que el objetivo de estas agresiones es robar el petróleo de venezuela, país que tiene las reservas de petróleo más grandes en el mundo. el mandatario también expresó su rechazo a las maniobras injerencistas contra el gobierno de la presidenta de honduras, xiomara castro. “le queremos decir a la presidenta xiomara que estamos con ellos. somos solidarios con el pueblo hondureño (…) ahí claramente se ve que quieren destruir a ese gobierno y quieren enlodar al ejército de honduras”, manifestó. el mandatario nicaragüense, asimismo, resaltó su desacuerdo contra los crímenes perpetrados por israel contra los palestinos. “quién se podría imaginar a un gobierno en israel cometiendo crímenes contra los palestinos, un gobierno de israel actuando como los nazis”, externó. denunció que el gobierno estadounidense respalda y entrega armas a los israelíes, que también reciben el apoyo de la mayoría de las naciones europeas.",
+    "tokens": [
+      "presidente",
+      "nicaragua",
+      ",",
+      "daniel",
+      "ortega",
+      ",",
+      "solidarizó",
+      "lunes",
+      "venezuela",
+      "honduras",
+      "constantes",
+      "agresiones",
+      "gobiernos",
+      ",",
+      "tiempo",
+      "rechazar",
+      "genocidio",
+      "régimen",
+      "israelí",
+      "comete",
+      "pueblo",
+      "palestino",
+      ".",
+      "presidir",
+      "ceremonia",
+      "45",
+      "aniversario",
+      "constitución",
+      "fuerzas",
+      "armadas",
+      "nicaragüenses",
+      ",",
+      "ortega",
+      "expresó",
+      "solidaridad",
+      "pueblo",
+      "venezolano",
+      "recientes",
+      "ataques",
+      "sistema",
+      "eléctrico",
+      "nacional",
+      "país",
+      "suramericano",
+      ".",
+      "“",
+      "hace",
+      "provocando",
+      "apagones",
+      "venezuela",
+      ",",
+      "afectando",
+      "población",
+      "(",
+      "…",
+      ")",
+      "hermano",
+      "nicolás",
+      "maduro",
+      "decimos",
+      "pueblo",
+      "bolivariano",
+      ",",
+      "agresiones",
+      "sistemáticas",
+      "cometiendo",
+      "pueblo",
+      "venezolano",
+      "”",
+      ".",
+      "jefe",
+      "nicaragüense",
+      "sostuvo",
+      "objetivo",
+      "agresiones",
+      "robar",
+      "petróleo",
+      "venezuela",
+      ",",
+      "país",
+      "reservas",
+      "petróleo",
+      "grandes",
+      "mundo",
+      ".",
+      "mandatario",
+      "expresó",
+      "rechazo",
+      "maniobras",
+      "injerencistas",
+      "gobierno",
+      "presidenta",
+      "honduras",
+      ",",
+      "xiomara",
+      "castro",
+      ".",
+      "“",
+      "queremos",
+      "decir",
+      "presidenta",
+      "xiomara",
+      ".",
+      "solidarios",
+      "pueblo",
+      "hondureño",
+      "(",
+      "…",
+      ")",
+      "ahí",
+      "claramente",
+      "ve",
+      "quieren",
+      "destruir",
+      "gobierno",
+      "quieren",
+      "enlodar",
+      "ejército",
+      "honduras",
+      "”",
+      ",",
+      "manifestó",
+      ".",
+      "mandatario",
+      "nicaragüense",
+      ",",
+      "asimismo",
+      ",",
+      "resaltó",
+      "desacuerdo",
+      "crímenes",
+      "perpetrados",
+      "israel",
+      "palestinos",
+      ".",
+      "“",
+      "quién",
+      "podría",
+      "imaginar",
+      "gobierno",
+      "israel",
+      "cometiendo",
+      "crímenes",
+      "palestinos",
+      ",",
+      "gobierno",
+      "israel",
+      "actuando",
+      "nazis",
+      "”",
+      ",",
+      "externó",
+      ".",
+      "denunció",
+      "gobierno",
+      "estadounidense",
+      "respalda",
+      "entrega",
+      "armas",
+      "israelíes",
+      ",",
+      "reciben",
+      "apoyo",
+      "mayoría",
+      "naciones",
+      "europeas",
+      "."
+    ],
+    "token_count": 167,
+    "sentence_count": 10
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 37,
+      "NN": 92,
+      "FW": 39,
+      "VBD": 3,
+      "JJ": 30,
+      "NNS": 19,
+      "VBP": 14,
+      "VBZ": 3,
+      "CD": 1,
+      "IN": 10,
+      "CC": 1
+    },
+    "bigram_freq": {
+      "NNP-NN": 16,
+      "NN-FW": 9,
+      "FW-NNP": 8,
+      "NNP-NNP": 11,
+      "NNP-VBD": 1,
+      "VBD-JJ": 1,
+      "JJ-NN": 16,
+      "NN-NNS": 9,
+      "NNS-VBP": 14,
+      "VBP-NNP": 1,
+      "NNP-VBZ": 3,
+      "VBZ-FW": 1,
+      "FW-NNS": 5,
+      "VBP-JJ": 11,
+      "VBP-NN": 2,
+      "FW-FW": 20,
+      "FW-NN": 5,
+      "NN-NN": 50,
+      "NN-JJ": 9,
+      "JJ-NNS": 3,
+      "JJ-JJ": 5,
+      "NN-NNP": 7,
+      "NN-VBD": 1,
+      "VBD-CD": 1,
+      "CD-NN": 1,
+      "NN-IN": 7,
+      "IN-FW": 4,
+      "VBZ-NNP": 1,
+      "IN-NN": 2,
+      "JJ-NNP": 4,
+      "NNP-IN": 1,
+      "IN-JJ": 1,
+      "NNS-VBD": 1,
+      "VBD-NNP": 1,
+      "NNS-IN": 2,
+      "FW-JJ": 1,
+      "VBZ-JJ": 1,
+      "JJ-FW": 2,
+      "NNP-CC": 1,
+      "CC-JJ": 1,
+      "IN-NNP": 3,
+      "NNP-FW": 3,
+      "NNP-NNS": 1,
+      "NNS-NNS": 1
+    },
+    "trigram_freq": {
+      "NNP-NN-FW": 2,
+      "NN-FW-NNP": 2,
+      "FW-NNP-NNP": 3,
+      "NNP-NNP-NNP": 4,
+      "NNP-NNP-VBD": 1,
+      "NNP-VBD-JJ": 1,
+      "VBD-JJ-NN": 1,
+      "JJ-NN-NNS": 4,
+      "NN-NNS-VBP": 8,
+      "NNS-VBP-NNP": 1,
+      "VBP-NNP-NNP": 1,
+      "NNP-NNP-VBZ": 3,
+      "NNP-VBZ-FW": 1,
+      "VBZ-FW-NNS": 1,
+      "FW-NNS-VBP": 3,
+      "NNS-VBP-JJ": 11,
+      "VBP-JJ-NN": 4,
+      "NNS-VBP-NN": 2,
+      "VBP-NN-FW": 1,
+      "NN-FW-FW": 4,
+      "FW-FW-FW": 11,
+      "FW-FW-NN": 1,
+      "FW-NN-NN": 3,
+      "NN-NN-JJ": 9,
+      "NN-JJ-NNS": 1,
+      "JJ-NNS-VBP": 2,
+      "VBP-JJ-JJ": 3,
+      "JJ-JJ-NN": 2,
+      "JJ-NN-NN": 7,
+      "NN-NN-NN": 26,
+      "NN-NN-NNP": 4,
+      "NN-NNP-NN": 5,
+      "NNP-NN-NN": 13,
+      "NN-NN-VBD": 1,
+      "NN-VBD-CD": 1,
+      "VBD-CD-NN": 1,
+      "CD-NN-IN": 1,
+      "NN-IN-FW": 3,
+      "IN-FW-FW": 3,
+      "FW-FW-NNP": 5,
+      "NNP-VBZ-NNP": 1,
+      "VBZ-NNP-NN": 1,
+      "NN-JJ-NN": 6,
+      "NN-NN-IN": 2,
+      "NN-IN-NN": 1,
+      "IN-NN-NNS": 1,
+      "VBP-JJ-NNP": 2,
+      "JJ-NNP-NNP": 1,
+      "NNP-NNP-IN": 1,
+      "NNP-IN-JJ": 1,
+      "IN-JJ-NNS": 1,
+      "JJ-NNS-VBD": 1,
+      "NNS-VBD-NNP": 1,
+      "VBD-NNP-NN": 1,
+      "NN-NN-NNS": 3,
+      "NN-NNS-IN": 1,
+      "NNS-IN-NN": 1,
+      "IN-NN-NNP": 1,
+      "NN-NN-FW": 5,
+      "NN-FW-JJ": 1,
+      "FW-JJ-NN": 1,
+      "JJ-NN-NNP": 2,
+      "NN-NNP-NNP": 1,
+      "NNP-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 1,
+      "NN-FW-NN": 2,
+      "FW-NN-IN": 1,
+      "IN-FW-NNS": 1,
+      "VBP-JJ-FW": 2,
+      "JJ-FW-NN": 1,
+      "FW-NNP-CC": 1,
+      "NNP-CC-JJ": 1,
+      "CC-JJ-NN": 1,
+      "FW-FW-NNS": 3,
+      "VBP-NN-NN": 1,
+      "NN-IN-NNP": 3,
+      "IN-NNP-NN": 2,
+      "JJ-NN-IN": 3,
+      "FW-NNS-IN": 1,
+      "NNS-IN-FW": 1,
+      "FW-NNP-NN": 3,
+      "JJ-JJ-NNP": 1,
+      "JJ-NNP-FW": 1,
+      "NNP-FW-FW": 1,
+      "NNP-NNP-FW": 1,
+      "NNP-FW-NN": 1,
+      "FW-NN-FW": 1,
+      "NN-NNP-NNS": 1,
+      "NNP-NNS-VBP": 1,
+      "JJ-FW-FW": 1,
+      "FW-NNP-FW": 1,
+      "NNP-FW-NNP": 1,
+      "NN-JJ-JJ": 1,
+      "JJ-JJ-NNS": 1,
+      "JJ-NNP-NN": 2,
+      "NN-JJ-NNP": 1,
+      "NNP-NN-NNS": 1,
+      "JJ-JJ-JJ": 1,
+      "IN-NNP-NNP": 1,
+      "NNP-NNP-NN": 1,
+      "FW-NNS-NNS": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 92,
+        "FW": 39,
+        "NNP": 37,
+        "JJ": 30,
+        "NNS": 19
+      },
+      "top_bigrams": {
+        "NN-NN": 50,
+        "FW-FW": 20,
+        "NNP-NN": 16,
+        "JJ-NN": 16,
+        "NNS-VBP": 14
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 26,
+        "NNP-NN-NN": 13,
+        "NNS-VBP-JJ": 11,
+        "FW-FW-FW": 11,
+        "NN-NN-JJ": 9
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 10,
+    "chunk_counts": {
+      "NP": 70,
+      "VP": 25,
+      "PP": 5
+    },
+    "top_rules": [
+      {
+        "rule": "VP -> ('con', 'VBP') NP",
+        "frequency": 3,
+        "weight": 0.0273
+      },
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0182
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0182
+      },
+      {
+        "rule": "NP -> ('…', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0182
+      },
+      {
+        "rule": "NP -> ('agresiones', 'NNS')",
+        "frequency": 2,
+        "weight": 0.0182
+      },
+      {
+        "rule": "VP -> ('contra', 'VBP') NP",
+        "frequency": 2,
+        "weight": 0.0182
+      },
+      {
+        "rule": "S -> NP ('de', 'FW') NP (',', ',') NP (',', ',') NP VP VP ('las', 'FW') NP VP (',', ',') NP ('de', 'IN') ('rechazar', 'FW') ('el', 'FW') NP NP VP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0091
+      },
+      {
+        "rule": "NP -> ('El', 'NNP') ('presidente', 'NN')",
+        "frequency": 1,
+        "weight": 0.0091
+      },
+      {
+        "rule": "NP -> ('Nicaragua', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0091
+      },
+      {
+        "rule": "NP -> ('Daniel', 'NNP') ('Ortega', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0091
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El presidente"
+      },
+      {
+        "label": "NP",
+        "text": "Nicaragua"
+      },
+      {
+        "label": "NP",
+        "text": "Daniel Ortega"
+      },
+      {
+        "label": "NP",
+        "text": "se solidarizó este lunes"
+      },
+      {
+        "label": "VP",
+        "text": "con Venezuela y Honduras"
+      },
+      {
+        "label": "NP",
+        "text": "Venezuela y Honduras"
+      },
+      {
+        "label": "VP",
+        "text": "ante"
+      },
+      {
+        "label": "NP",
+        "text": "constantes"
+      },
+      {
+        "label": "VP",
+        "text": "agresiones contra sus gobiernos"
+      },
+      {
+        "label": "NP",
+        "text": "contra sus gobiernos"
+      },
+      {
+        "label": "NP",
+        "text": "al tiempo"
+      },
+      {
+        "label": "NP",
+        "text": "genocidio que"
+      },
+      {
+        "label": "NP",
+        "text": "el régimen"
+      },
+      {
+        "label": "VP",
+        "text": "israelí comete contra el pueblo palestino"
+      },
+      {
+        "label": "NP",
+        "text": "comete contra el pueblo palestino"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP El/NNP presidente/NN)\n  de/FW\n  (NP Nicaragua/NNP)\n  ,/,\n  (NP Daniel/NNP Ortega/NNP)\n  ,/,\n  (NP se/NN solidarizó/NN este/NN lunes/NNS)\n  (VP con/VBP (NP Venezuela/NNP y/NN Honduras/NNP))\n  (VP ante/VBZ)\n  las/FW\n  (NP constantes/NNS)\n  (VP agresiones/VBP (NP contra/JJ sus/NN gobiernos/NNS))\n  ,/,\n  (NP al/JJ tiempo/NN)\n  de/IN\n  rechazar/FW\n  el/FW\n  (NP genocidio/NN que/NN)\n  (NP el/JJ régimen/NNS)\n  (VP\n    israelí/VBP\n    (NP comete/JJ contra/JJ el/NN pueblo/NN palestino/NN))\n  ./.)",
+      "(S\n  (NP Al/NNP presidir/NN una/NN ceremonia/NN por/NN)\n  (VP el/VBD)\n  45/CD\n  (NP aniversario/NN)\n  de/IN\n  la/FW\n  constitución/FW\n  de/FW\n  las/FW\n  (NP Fuerzas/NNP Armadas/NNP nicaragüenses/NNS)\n  ,/,\n  (NP Ortega/NNP)\n  (VP\n    expresó/VBZ\n    (NP su/JJ solidaridad/JJ con/NN el/NN pueblo/NN venezolano/NN))\n  (PP ante/IN (NP los/NN recientes/NNS))\n  (VP ataques/VBP (NP al/JJ Sistema/NNP Eléctrico/NNP Nacional/NNP))\n  (PP de/IN (NP ese/JJ país/JJ suramericano/NN))\n  ./.)",
+      "(S\n  (NP “/JJ Hace/NNP poco/NN están/NN provocando/NN apagones/NNS)\n  (PP en/IN (NP todo/NN Venezuela/NNP))\n  ,/,\n  (VP afectando/VBZ (NP a/DT la/NN población/NN))\n  (/(\n  (NP …/NNP)\n  )/)\n  (NP a/DT nuestro/JJ hermano/NN Nicolás/NNP Maduro/NNP)\n  (VP le/VBZ (NP decimos/JJ que/NN estamos/NNS))\n  (VP con/VBP (NP el/JJ pueblo/NN bolivariano/NN))\n  ,/,\n  (VP estamos/VBP (NP en/JJ contra/NN))\n  de/IN\n  las/FW\n  (NP agresiones/NNS)\n  (VP sistemáticas/VBP que/JJ)\n  estuvieron/FW\n  (NP cometiendo/NN contra/NN el/NN pueblo/NN venezolano/NN ”/NNP)\n  ./.)",
+      "(S\n  (NP El/NNP jefe/NN)\n  de/FW\n  (NP Estado/NNP)\n  nicaragüense/CC\n  (NP sostuvo/JJ que/NN el/NN)\n  objetivo/FW\n  de/FW\n  estas/FW\n  (NP agresiones/NNS)\n  (VP es/VBP (NP robar/NN el/NN petróleo/NN))\n  de/FW\n  (NP Venezuela/NNP)\n  ,/,\n  (NP país/NN que/NN tiene/NN)\n  (NP las/JJ reservas/NN)\n  de/IN\n  petróleo/FW\n  más/FW\n  (NP grandes/NNS)\n  en/IN\n  el/FW\n  (NP mundo/NN)\n  ./.)",
+      "(S\n  (NP El/NNP mandatario/NN también/NN expresó/NN su/NN)\n  (VP rechazo/VBZ (NP a/DT las/JJ maniobras/NN injerencistas/NNS))\n  (VP contra/VBP (NP el/JJ Gobierno/NNP))\n  de/FW\n  la/FW\n  presidenta/FW\n  de/FW\n  (NP Honduras/NNP)\n  ,/,\n  (NP Xiomara/NNP Castro/NNP)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "GOBIERNOS_OFICIALES",
+      "LEYES_NORMATIVAS",
+      "TIEMPO_RELATIVO",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "ACCIONES_LEGALES",
+      "REGIONES_PROVINCIAS",
+      "CRISIS_HUMANITARIA_SERVICIOS",
+      "PAISES",
+      "PROTESTAS_CONFLICTOS_SOCIALES",
+      "CONFLICTOS_ARMADOS_OPERACIONES",
+      "RELACIONES_INTERNACIONALES",
+      "VIOLENCIA_CRIMEN_DERECHOS_HUMANOS"
+    ],
+    "matches": [
+      {
+        "category": "PROTESTAS_CONFLICTOS_SOCIALES",
+        "matched_text": "manifestó",
+        "position": [
+          1278,
+          1287
+        ],
+        "start": 1278,
+        "end": 1287
+      },
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "denunció que el gobierno estadounidense respalda y entrega armas a",
+        "position": [
+          1565,
+          1631
+        ],
+        "start": 1565,
+        "end": 1631
+      },
+      {
+        "category": "RELACIONES_INTERNACIONALES",
+        "matched_text": "solidaridad con el pueblo venezolano ante",
+        "position": [
+          362,
+          403
+        ],
+        "start": 362,
+        "end": 403
+      },
+      {
+        "category": "RELACIONES_INTERNACIONALES",
+        "matched_text": "solidaridad con el pueblo venezolano ante los recientes ataques al sistema eléctrico nacional de ese país",
+        "position": [
+          362,
+          467
+        ],
+        "start": 362,
+        "end": 467
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "expresó",
+        "position": [
+          351,
+          358
+        ],
+        "start": 351,
+        "end": 358
+      },
+      {
+        "category": "VIOLENCIA_CRIMEN_DERECHOS_HUMANOS",
+        "matched_text": "genocidio que el régimen israelí comete contra el pueblo",
+        "position": [
+          171,
+          227
+        ],
+        "start": 171,
+        "end": 227
+      },
+      {
+        "category": "CRISIS_HUMANITARIA_SERVICIOS",
+        "matched_text": "apagones",
+        "position": [
+          510,
+          518
+        ],
+        "start": 510,
+        "end": 518
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "gobierno de la presidenta",
+        "position": [
+          1011,
+          1036
+        ],
+        "start": 1011,
+        "end": 1036
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente de nicaragua",
+        "position": [
+          3,
+          26
+        ],
+        "start": 3,
+        "end": 26
+      },
+      {
+        "category": "ACCIONES_LEGALES",
+        "matched_text": "denunció",
+        "position": [
+          1565,
+          1573
+        ],
+        "start": 1565,
+        "end": 1573
+      },
+      {
+        "category": "LEYES_NORMATIVAS",
+        "matched_text": "constitución",
+        "position": [
+          293,
+          305
+        ],
+        "start": 293,
+        "end": 305
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "honduras",
+        "position": [
+          84,
+          92
+        ],
+        "start": 84,
+        "end": 92
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "nicaragua",
+        "position": [
+          17,
+          26
+        ],
+        "start": 17,
+        "end": 26
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "venezuela",
+        "position": [
+          72,
+          81
+        ],
+        "start": 72,
+        "end": 81
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "estado nicaragüense sostuvo",
+        "position": [
+          766,
+          793
+        ],
+        "start": 766,
+        "end": 793
+      },
+      {
+        "category": "TIEMPO_RELATIVO",
+        "matched_text": "hace poco",
+        "position": [
+          483,
+          492
+        ],
+        "start": 483,
+        "end": 492
+      }
+    ],
+    "match_count": 16
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Nicolás Maduro",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Venezuela",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Daniel Ortega",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Ortega",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Gobierno estadounidense",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Honduras",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Gobierno de la presidenta de Honduras",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Xiomara",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Sistema Eléctrico Nacional",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Israel",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Fuerzas Armadas",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Nicaragua",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Estado nicaragüense",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Xiomara Castro",
+        "tipo": "Persona"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Nicaragua",
+        "relacion": "SOLIDARIZAR",
+        "objeto": "Venezuela"
+      },
+      {
+        "sujeto": "Nicaragua",
+        "relacion": "SOLIDARIZAR",
+        "objeto": "Honduras"
+      },
+      {
+        "sujeto": "Daniel Ortega",
+        "relacion": "SOLIDARIZAR",
+        "objeto": "Venezuela"
+      },
+      {
+        "sujeto": "Daniel Ortega",
+        "relacion": "SOLIDARIZAR",
+        "objeto": "Honduras"
+      },
+      {
+        "sujeto": "Ortega",
+        "relacion": "PRESIDIR_EXPRESAR",
+        "objeto": "Fuerzas Armadas"
+      },
+      {
+        "sujeto": "Fuerzas Armadas",
+        "relacion": "PRESIDIR_EXPRESAR",
+        "objeto": "Sistema Eléctrico Nacional"
+      },
+      {
+        "sujeto": "Ortega",
+        "relacion": "EXPRESAR",
+        "objeto": "Sistema Eléctrico Nacional"
+      },
+      {
+        "sujeto": "Venezuela",
+        "relacion": "PROVOCAR",
+        "objeto": "Nicolás Maduro"
+      },
+      {
+        "sujeto": "Estado nicaragüense",
+        "relacion": "SOSTENER",
+        "objeto": "Venezuela"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.0,
+    "pos": 0.0,
+    "neu": 1.0,
+    "neg": 0.0,
+    "label": "neutral"
+  }
+}

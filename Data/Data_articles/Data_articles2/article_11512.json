@@ -1,0 +1,782 @@
+{
+  "url": "https://www.telesurtv.net/se-registraron-106-homicidios-durante-2024-en-el-salvador/",
+  "title": "Se registraron 106 homicidios durante 2024 en El Salvador - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "América Latina",
+    "Centroamérica",
+    "El Salvador",
+    "estado de excepción"
+  ],
+  "text": "Las estadísticas indican que durante el periodo mencionado, el país ha registrado 42 muertes menos en comparación con el mismo lapso de 2023, cuando se reportaron 148 homicidios.\nDe acuerdo con datos oficiales de la Policía Nacional, al menos 106 homicidios se han registrado en El Salvador entre el 1 de enero y el 15 de diciembre del presente año, en el contexto de una intensa “guerra” contra las pandillas.\nDesde marzo de 2022, el Gobierno del presidente Nayib Bukele ha implementado un régimen de excepción con el objetivo de combatir a las pandillas, grupos que son responsables de la mayoría de los homicidios en El Salvador.\nEste régimen, que ha sido mayormente apoyado por la población, suspende ciertas garantías constitucionales. Sin embargo, organizaciones de derechos humanos y de la sociedad civil han denunciado que bajo este contexto se han llevado a cabo cientos de detenciones arbitrarias y violaciones de derechos.\nLas autoridades atribuyen la reducción de homicidios a su Plan Control Territorial y al régimen de excepción. A pesar de esta disminución, es importante señalar que la cantidad de muertes violentas en El Salvador comenzó a reducirse después de 2015, un año que ha sido considerado el más violento de la historia reciente del país, con 103 homicidios por cada 100,000 habitantes. Esta caída se acentuó en 2019, cuando comenzó la administración de Bukele.\nEs relevante mencionar que las estadísticas oficiales no incluyen muertes de supuestos pandilleros en enfrentamientos con la policía, hallazgos de esqueletos o muertes de presuntos delincuentes a manos de ciudadanos, a diferencia de los informes de gobiernos anteriores.\nLa mayoría de los homicidios en El Salvador son atribuidos a pandillas como la Mara Salvatrucha (MS13) y el Barrio 18, entre otras, que ejercen control en diversas colonias y barriadas populares del país.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/se-registraron-106-homicidios-durante-2024-en-el-salvador/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-12.json",
+    "message_index": 820,
+    "message_id": 82546,
+    "date": "2024-12-17T10:55:12+00:00",
+    "text": "teleSUR\nSe registraron 106 homicidios durante 2024 en El Salvador\nhttps://www.telesurtv.net/se-registraron-106-homicidios-durante-2024-en-el-salvador/",
+    "photo_path": null,
+    "views": 2365,
+    "reactions": {
+      "👍": 18,
+      "🤬": 8,
+      "😁": 4,
+      "🤔": 4
+    },
+    "total_reactions": 34
+  },
+  "preprocessing": {
+    "cleaned": "las estadísticas indican que durante el periodo mencionado, el país ha registrado 42 muertes menos en comparación con el mismo lapso de 2023, cuando se reportaron 148 homicidios. de acuerdo con datos oficiales de la policía nacional, al menos 106 homicidios se han registrado en el salvador entre el 1 de enero y el 15 de diciembre del presente año, en el contexto de una intensa “guerra” contra las pandillas. desde marzo de 2022, el gobierno del presidente nayib bukele ha implementado un régimen de excepción con el objetivo de combatir a las pandillas, grupos que son responsables de la mayoría de los homicidios en el salvador. este régimen, que ha sido mayormente apoyado por la población, suspende ciertas garantías constitucionales. sin embargo, organizaciones de derechos humanos y de la sociedad civil han denunciado que bajo este contexto se han llevado a cabo cientos de detenciones arbitrarias y violaciones de derechos. las autoridades atribuyen la reducción de homicidios a su plan control territorial y al régimen de excepción. a pesar de esta disminución, es importante señalar que la cantidad de muertes violentas en el salvador comenzó a reducirse después de 2015, un año que ha sido considerado el más violento de la historia reciente del país, con 103 homicidios por cada 100,000 habitantes. esta caída se acentuó en 2019, cuando comenzó la administración de bukele. es relevante mencionar que las estadísticas oficiales no incluyen muertes de supuestos pandilleros en enfrentamientos con la policía, hallazgos de esqueletos o muertes de presuntos delincuentes a manos de ciudadanos, a diferencia de los informes de gobiernos anteriores. la mayoría de los homicidios en el salvador son atribuidos a pandillas como la mara salvatrucha (ms13) y el barrio 18, entre otras, que ejercen control en diversas colonias y barriadas populares del país.",
+    "tokens": [
+      "estadísticas",
+      "indican",
+      "periodo",
+      "mencionado",
+      ",",
+      "país",
+      "registrado",
+      "42",
+      "muertes",
+      "menos",
+      "comparación",
+      "mismo",
+      "lapso",
+      "2023",
+      ",",
+      "reportaron",
+      "148",
+      "homicidios",
+      ".",
+      "acuerdo",
+      "datos",
+      "oficiales",
+      "policía",
+      "nacional",
+      ",",
+      "menos",
+      "106",
+      "homicidios",
+      "registrado",
+      "salvador",
+      "1",
+      "enero",
+      "15",
+      "diciembre",
+      "presente",
+      "año",
+      ",",
+      "contexto",
+      "intensa",
+      "“",
+      "guerra",
+      "”",
+      "pandillas",
+      ".",
+      "marzo",
+      "2022",
+      ",",
+      "gobierno",
+      "presidente",
+      "nayib",
+      "bukele",
+      "implementado",
+      "régimen",
+      "excepción",
+      "objetivo",
+      "combatir",
+      "pandillas",
+      ",",
+      "grupos",
+      "responsables",
+      "mayoría",
+      "homicidios",
+      "salvador",
+      ".",
+      "régimen",
+      ",",
+      "sido",
+      "mayormente",
+      "apoyado",
+      "población",
+      ",",
+      "suspende",
+      "ciertas",
+      "garantías",
+      "constitucionales",
+      ".",
+      "embargo",
+      ",",
+      "organizaciones",
+      "derechos",
+      "humanos",
+      "sociedad",
+      "civil",
+      "denunciado",
+      "bajo",
+      "contexto",
+      "llevado",
+      "cabo",
+      "cientos",
+      "detenciones",
+      "arbitrarias",
+      "violaciones",
+      "derechos",
+      ".",
+      "autoridades",
+      "atribuyen",
+      "reducción",
+      "homicidios",
+      "plan",
+      "control",
+      "territorial",
+      "régimen",
+      "excepción",
+      ".",
+      "pesar",
+      "disminución",
+      ",",
+      "importante",
+      "señalar",
+      "cantidad",
+      "muertes",
+      "violentas",
+      "salvador",
+      "comenzó",
+      "reducirse",
+      "después",
+      "2015",
+      ",",
+      "año",
+      "sido",
+      "considerado",
+      "violento",
+      "historia",
+      "reciente",
+      "país",
+      ",",
+      "103",
+      "homicidios",
+      "cada",
+      "100,000",
+      "habitantes",
+      ".",
+      "caída",
+      "acentuó",
+      "2019",
+      ",",
+      "comenzó",
+      "administración",
+      "bukele",
+      ".",
+      "relevante",
+      "mencionar",
+      "estadísticas",
+      "oficiales",
+      "incluyen",
+      "muertes",
+      "supuestos",
+      "pandilleros",
+      "enfrentamientos",
+      "policía",
+      ",",
+      "hallazgos",
+      "esqueletos",
+      "muertes",
+      "presuntos",
+      "delincuentes",
+      "manos",
+      "ciudadanos",
+      ",",
+      "diferencia",
+      "informes",
+      "gobiernos",
+      "anteriores",
+      ".",
+      "mayoría",
+      "homicidios",
+      "salvador",
+      "atribuidos",
+      "pandillas",
+      "mara",
+      "salvatrucha",
+      "(",
+      "ms13",
+      ")",
+      "barrio",
+      "18",
+      ",",
+      ",",
+      "ejercen",
+      "control",
+      "diversas",
+      "colonias",
+      "barriadas",
+      "populares",
+      "país",
+      "."
+    ],
+    "token_count": 186,
+    "sentence_count": 10
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 30,
+      "CC": 1,
+      "JJ": 21,
+      "NN": 70,
+      "FW": 80,
+      "VBD": 5,
+      "CD": 11,
+      "NNS": 28,
+      "VBP": 12,
+      "IN": 16,
+      "$": 1,
+      "VBZ": 5,
+      "DT": 1
+    },
+    "bigram_freq": {
+      "NNP-CC": 1,
+      "CC-JJ": 1,
+      "JJ-NN": 10,
+      "NN-NN": 40,
+      "NN-FW": 7,
+      "FW-NN": 6,
+      "NN-VBD": 4,
+      "VBD-CD": 2,
+      "CD-NNS": 5,
+      "NNS-VBP": 11,
+      "VBP-IN": 1,
+      "IN-NN": 2,
+      "NN-IN": 6,
+      "IN-CD": 4,
+      "CD-NN": 3,
+      "VBD-$": 1,
+      "$-CD": 1,
+      "NNS-NNP": 4,
+      "NNP-FW": 5,
+      "NN-VBZ": 2,
+      "VBZ-IN": 2,
+      "IN-FW": 7,
+      "FW-NNP": 3,
+      "NNP-NNP": 12,
+      "NNP-NN": 6,
+      "NNS-JJ": 3,
+      "JJ-JJ": 1,
+      "IN-NNP": 2,
+      "FW-FW": 57,
+      "FW-CD": 1,
+      "CD-FW": 1,
+      "FW-JJ": 4,
+      "NN-NNS": 5,
+      "VBP-NNP": 3,
+      "FW-IN": 1,
+      "CD-JJ": 2,
+      "JJ-NNP": 2,
+      "NN-NNP": 2,
+      "NN-JJ": 2,
+      "JJ-NNS": 6,
+      "NNS-IN": 6,
+      "FW-NNS": 7,
+      "VBP-JJ": 4,
+      "NNP-NNS": 1,
+      "VBP-NNS": 2,
+      "NNP-VBP": 1,
+      "NNS-FW": 2,
+      "VBZ-JJ": 2,
+      "IN-NNS": 1,
+      "NNP-VBZ": 1,
+      "JJ-FW": 1,
+      "NNP-JJ": 1,
+      "NN-CD": 1,
+      "JJ-CD": 1,
+      "VBP-VBZ": 1,
+      "VBZ-DT": 1,
+      "DT-JJ": 1,
+      "FW-VBZ": 1,
+      "VBD-NNS": 1,
+      "NNS-NN": 2,
+      "NNP-VBD": 1,
+      "VBD-NNP": 1,
+      "NNP-CD": 1,
+      "VBP-NN": 1
+    },
+    "trigram_freq": {
+      "NNP-CC-JJ": 1,
+      "CC-JJ-NN": 1,
+      "JJ-NN-NN": 6,
+      "NN-NN-FW": 5,
+      "NN-FW-NN": 2,
+      "FW-NN-NN": 3,
+      "NN-NN-NN": 23,
+      "NN-NN-VBD": 1,
+      "NN-VBD-CD": 2,
+      "VBD-CD-NNS": 2,
+      "CD-NNS-VBP": 2,
+      "NNS-VBP-IN": 1,
+      "VBP-IN-NN": 1,
+      "IN-NN-NN": 2,
+      "NN-NN-IN": 3,
+      "NN-IN-CD": 3,
+      "IN-CD-NN": 2,
+      "CD-NN-VBD": 1,
+      "NN-VBD-$": 1,
+      "VBD-$-CD": 1,
+      "$-CD-NNS": 1,
+      "CD-NNS-NNP": 2,
+      "NNS-NNP-FW": 2,
+      "NNP-FW-NN": 2,
+      "NN-NN-VBZ": 2,
+      "NN-VBZ-IN": 1,
+      "VBZ-IN-FW": 2,
+      "IN-FW-NNP": 2,
+      "FW-NNP-NNP": 2,
+      "NNP-NNP-NN": 5,
+      "NNP-NN-VBD": 2,
+      "CD-NNS-JJ": 1,
+      "NNS-JJ-JJ": 1,
+      "JJ-JJ-NN": 1,
+      "JJ-NN-IN": 2,
+      "NN-IN-NNP": 1,
+      "IN-NNP-NNP": 2,
+      "NNP-NNP-FW": 1,
+      "NNP-FW-FW": 2,
+      "FW-FW-FW": 44,
+      "FW-FW-CD": 1,
+      "FW-CD-FW": 1,
+      "CD-FW-FW": 1,
+      "FW-FW-JJ": 4,
+      "FW-JJ-NN": 3,
+      "NN-NN-NNS": 2,
+      "NN-NNS-VBP": 3,
+      "NNS-VBP-NNP": 3,
+      "VBP-NNP-FW": 1,
+      "NNP-FW-IN": 1,
+      "FW-IN-CD": 1,
+      "IN-CD-JJ": 2,
+      "CD-JJ-NNP": 1,
+      "JJ-NNP-FW": 1,
+      "FW-NN-NNP": 1,
+      "NN-NNP-NNP": 2,
+      "NNP-NN-NN": 4,
+      "NN-NN-JJ": 2,
+      "NN-JJ-NNS": 2,
+      "JJ-NNS-IN": 4,
+      "NNS-IN-FW": 5,
+      "IN-FW-NN": 1,
+      "FW-NN-FW": 1,
+      "NN-FW-FW": 5,
+      "FW-FW-NNS": 5,
+      "FW-NNS-VBP": 4,
+      "NNS-VBP-JJ": 4,
+      "VBP-JJ-NN": 3,
+      "JJ-NN-NNS": 1,
+      "NN-NNS-IN": 1,
+      "IN-FW-FW": 2,
+      "VBP-NNP-NNP": 2,
+      "NNP-NNP-NNP": 3,
+      "NNP-NNP-NNS": 1,
+      "NNP-NNS-VBP": 1,
+      "FW-NN-NNS": 1,
+      "NNS-VBP-NNS": 1,
+      "VBP-NNS-NNP": 1,
+      "NNS-NNP-VBP": 1,
+      "NNP-VBP-NNS": 1,
+      "VBP-NNS-FW": 1,
+      "NNS-FW-FW": 2,
+      "NN-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 1,
+      "NN-IN-NNS": 1,
+      "IN-NNS-JJ": 1,
+      "NNS-JJ-NNS": 2,
+      "FW-NNP-VBZ": 1,
+      "NNP-VBZ-JJ": 1,
+      "VBZ-JJ-FW": 1,
+      "JJ-FW-FW": 1,
+      "FW-JJ-NNP": 1,
+      "JJ-NNP-NNP": 1,
+      "NNP-NNP-JJ": 1,
+      "NNP-JJ-NNS": 1,
+      "JJ-NN-FW": 1,
+      "FW-NNS-IN": 1,
+      "NNS-IN-NNP": 1,
+      "CD-JJ-NN": 1,
+      "FW-FW-NN": 1,
+      "NN-NN-CD": 1,
+      "NN-CD-NNS": 1,
+      "VBP-JJ-CD": 1,
+      "JJ-CD-NNS": 1,
+      "NNS-NNP-NN": 1,
+      "CD-NN-NN": 1,
+      "FW-FW-NNP": 1,
+      "NNS-VBP-VBZ": 1,
+      "VBP-VBZ-DT": 1,
+      "VBZ-DT-JJ": 1,
+      "DT-JJ-NNS": 1,
+      "IN-FW-NNS": 2,
+      "FW-FW-VBZ": 1,
+      "FW-VBZ-IN": 1,
+      "FW-NNS-FW": 1,
+      "FW-NNS-NNP": 1,
+      "NN-VBD-NNS": 1,
+      "VBD-NNS-NN": 1,
+      "NNS-NN-NN": 1,
+      "NN-NN-NNP": 1,
+      "NNP-NNP-VBD": 1,
+      "NNP-VBD-NNP": 1,
+      "VBD-NNP-CD": 1,
+      "NNP-CD-NN": 1,
+      "CD-NN-NNS": 1,
+      "NN-NNS-JJ": 1,
+      "JJ-NNS-NN": 1,
+      "NNS-NN-IN": 1,
+      "NN-IN-NN": 1,
+      "JJ-NNS-VBP": 1,
+      "NNS-VBP-NN": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "FW": 80,
+        "NN": 70,
+        "NNP": 30,
+        "NNS": 28,
+        "JJ": 21
+      },
+      "top_bigrams": {
+        "FW-FW": 57,
+        "NN-NN": 40,
+        "NNP-NNP": 12,
+        "NNS-VBP": 11,
+        "JJ-NN": 10
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 44,
+        "NN-NN-NN": 23,
+        "JJ-NN-NN": 6,
+        "NN-NN-FW": 5,
+        "NNP-NNP-NN": 5
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 10,
+    "chunk_counts": {
+      "NP": 75,
+      "VP": 20,
+      "PP": 8,
+      "ADJP": 1
+    },
+    "top_rules": [
+      {
+        "rule": "NP -> ('homicidios', 'NNS')",
+        "frequency": 5,
+        "weight": 0.0439
+      },
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 5,
+        "weight": 0.0439
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 3,
+        "weight": 0.0263
+      },
+      {
+        "rule": "NP -> ('El', 'NNP') ('Salvador', 'NNP')",
+        "frequency": 3,
+        "weight": 0.0263
+      },
+      {
+        "rule": "VP -> ('en', 'VBP') NP",
+        "frequency": 3,
+        "weight": 0.0263
+      },
+      {
+        "rule": "NP -> ('Las', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0175
+      },
+      {
+        "rule": "NP -> ('y', 'NN')",
+        "frequency": 2,
+        "weight": 0.0175
+      },
+      {
+        "rule": "NP -> ('con', 'NN')",
+        "frequency": 2,
+        "weight": 0.0175
+      },
+      {
+        "rule": "S -> NP ('estadísticas', 'CC') NP ('el', 'FW') NP (',', ',') ('el', 'FW') ('país', 'FW') NP ('42', 'CD') NP VP PP ('de', 'IN') ('2023', 'CD') (',', ',') ('cuando', 'FW') ('se', 'FW') ('reportaron', 'FW') ('148', 'CD') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0088
+      },
+      {
+        "rule": "NP -> ('indican', 'JJ') ('que', 'NN') ('durante', 'NN')",
+        "frequency": 1,
+        "weight": 0.0088
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Las"
+      },
+      {
+        "label": "NP",
+        "text": "indican que durante"
+      },
+      {
+        "label": "NP",
+        "text": "periodo mencionado"
+      },
+      {
+        "label": "NP",
+        "text": "ha registrado"
+      },
+      {
+        "label": "NP",
+        "text": "muertes"
+      },
+      {
+        "label": "VP",
+        "text": "menos"
+      },
+      {
+        "label": "PP",
+        "text": "en comparación con el mismo lapso"
+      },
+      {
+        "label": "NP",
+        "text": "comparación con el mismo lapso"
+      },
+      {
+        "label": "NP",
+        "text": "homicidios"
+      },
+      {
+        "label": "NP",
+        "text": "De"
+      },
+      {
+        "label": "NP",
+        "text": "con datos"
+      },
+      {
+        "label": "VP",
+        "text": "oficiales"
+      },
+      {
+        "label": "NP",
+        "text": "Policía Nacional"
+      },
+      {
+        "label": "VP",
+        "text": "al menos"
+      },
+      {
+        "label": "NP",
+        "text": "homicidios"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Las/NNP)\n  estadísticas/CC\n  (NP indican/JJ que/NN durante/NN)\n  el/FW\n  (NP periodo/NN mencionado/NN)\n  ,/,\n  el/FW\n  país/FW\n  (NP ha/NN registrado/NN)\n  42/CD\n  (NP muertes/NNS)\n  (VP menos/VBP)\n  (PP en/IN (NP comparación/NN con/NN el/NN mismo/NN lapso/NN))\n  de/IN\n  2023/CD\n  ,/,\n  cuando/FW\n  se/FW\n  reportaron/FW\n  148/CD\n  (NP homicidios/NNS)\n  ./.)",
+      "(S\n  (NP De/NNP)\n  acuerdo/FW\n  (NP con/NN datos/NN)\n  (VP oficiales/VBZ)\n  de/IN\n  la/FW\n  (NP Policía/NNP Nacional/NNP)\n  ,/,\n  (VP al/VBD menos/JJ)\n  106/CD\n  (NP homicidios/NNS)\n  (NP se/JJ han/JJ registrado/NN)\n  (PP en/IN (NP El/NNP Salvador/NNP))\n  (VP entre/VBD el/JJ)\n  1/CD\n  de/IN\n  enero/FW\n  (NP y/NN)\n  el/FW\n  15/CD\n  de/FW\n  diciembre/FW\n  del/FW\n  (NP presente/NN año/NN)\n  ,/,\n  en/FW\n  el/FW\n  contexto/FW\n  de/FW\n  una/FW\n  (NP intensa/NN “/NNP guerra/NN ”/NNP)\n  (VP contra/VBZ (NP las/JJ pandillas/NNS))\n  ./.)",
+      "(S\n  (NP Desde/NNP marzo/NN)\n  de/IN\n  2022/CD\n  ,/,\n  el/FW\n  (NP Gobierno/NNP)\n  del/FW\n  (NP presidente/NN Nayib/NNP Bukele/NNP ha/NN implementado/NN)\n  (NP un/JJ régimen/NNS)\n  de/IN\n  excepción/FW\n  (NP con/NN)\n  el/FW\n  objetivo/FW\n  de/FW\n  combatir/FW\n  (NP a/DT las/NN pandillas/NN)\n  ,/,\n  (NP grupos/NN que/NN son/NN)\n  (VP responsables/VBZ)\n  de/IN\n  la/FW\n  mayoría/FW\n  de/FW\n  los/FW\n  (NP homicidios/NNS)\n  (VP en/VBP (NP El/NNP Salvador/NNP))\n  ./.)",
+      "(S\n  (NP Este/NN régimen/NNS)\n  ,/,\n  (NP\n    que/NN\n    ha/NN\n    sido/NN\n    mayormente/NN\n    apoyado/NN\n    por/NN\n    la/NN\n    población/NN)\n  ,/,\n  (NP suspende/JJ ciertas/NNS)\n  (NP garantías/JJ constitucionales/NNS)\n  ./.)",
+      "(S\n  (NP Sin/NNP embargo/NN)\n  ,/,\n  organizaciones/FW\n  de/FW\n  derechos/FW\n  humanos/FW\n  y/FW\n  de/FW\n  la/FW\n  sociedad/FW\n  (NP\n    civil/JJ\n    han/NN\n    denunciado/NN\n    que/NN\n    bajo/NN\n    este/NN\n    contexto/NN\n    se/NN\n    han/NN)\n  (VP llevado/VBZ (NP a/DT cabo/JJ cientos/NN))\n  (PP de/IN (NP detenciones/NNS arbitrarias/NNS))\n  (VP y/VBP (NP violaciones/NNS))\n  (PP de/IN (NP derechos/NN))\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "GOBIERNOS_OFICIALES",
+      "LEYES_NORMATIVAS",
+      "ANTIIMPERIALISMO_SOBERANIA",
+      "JUSTICIA_SOCIAL",
+      "PAISES",
+      "PROTESTAS_CONFLICTOS_SOCIALES",
+      "LOCALIZACIONES_ESPECIFICAS",
+      "CONFLICTOS_ARMADOS_OPERACIONES",
+      "RELACIONES_INTERNACIONALES"
+    ],
+    "matches": [
+      {
+        "category": "PROTESTAS_CONFLICTOS_SOCIALES",
+        "matched_text": "enfrentamientos con la policía",
+        "position": [
+          1490,
+          1520
+        ],
+        "start": 1490,
+        "end": 1520
+      },
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "guerra” contra las",
+        "position": [
+          381,
+          399
+        ],
+        "start": 381,
+        "end": 399
+      },
+      {
+        "category": "RELACIONES_INTERNACIONALES",
+        "matched_text": "acuerdo con datos oficiales de la policía nacional, al menos 106 homicidios se han registrado en el salvador entre el 1 de enero y el",
+        "position": [
+          182,
+          315
+        ],
+        "start": 182,
+        "end": 315
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "gobierno del presidente nayib",
+        "position": [
+          435,
+          464
+        ],
+        "start": 435,
+        "end": 464
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente nayib bukele",
+        "position": [
+          448,
+          471
+        ],
+        "start": 448,
+        "end": 471
+      },
+      {
+        "category": "LEYES_NORMATIVAS",
+        "matched_text": "acuerdo con datos oficiales de la policía nacional, al menos 106",
+        "position": [
+          182,
+          246
+        ],
+        "start": 182,
+        "end": 246
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "el salvador",
+        "position": [
+          279,
+          290
+        ],
+        "start": 279,
+        "end": 290
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "barrio 18, entre",
+        "position": [
+          1767,
+          1783
+        ],
+        "start": 1767,
+        "end": 1783
+      },
+      {
+        "category": "ANTIIMPERIALISMO_SOBERANIA",
+        "matched_text": "embargo",
+        "position": [
+          745,
+          752
+        ],
+        "start": 745,
+        "end": 752
+      },
+      {
+        "category": "JUSTICIA_SOCIAL",
+        "matched_text": "derechos humanos",
+        "position": [
+          772,
+          788
+        ],
+        "start": 772,
+        "end": 788
+      }
+    ],
+    "match_count": 10
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Bukele",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Barrio 18",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Policía Nacional",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "MS13",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "El Salvador",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Nayib Bukele",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Gobierno del presidente",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Mara Salvatrucha",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Policía Nacional",
+        "relacion": "REGISTRAR",
+        "objeto": "El Salvador"
+      },
+      {
+        "sujeto": "Gobierno del presidente",
+        "relacion": "IMPLEMENTAR",
+        "objeto": "El Salvador"
+      },
+      {
+        "sujeto": "Nayib Bukele",
+        "relacion": "IMPLEMENTAR",
+        "objeto": "El Salvador"
+      },
+      {
+        "sujeto": "El Salvador",
+        "relacion": "ATRIBUIR",
+        "objeto": "Mara Salvatrucha"
+      },
+      {
+        "sujeto": "El Salvador",
+        "relacion": "ATRIBUIR",
+        "objeto": "MS13"
+      },
+      {
+        "sujeto": "El Salvador",
+        "relacion": "ATRIBUIR",
+        "objeto": "Barrio 18"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.4215,
+    "pos": 0.033,
+    "neu": 0.947,
+    "neg": 0.02,
+    "label": "positive"
+  }
+}

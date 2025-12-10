@@ -1,0 +1,585 @@
+{
+  "url": "https://www.telesurtv.net/disparan-contra-vehiculo-de-proteccion-presidencial-colombiano-del-hermano-de-gustavo-petro/",
+  "title": "Impactan vehículo de protección presidencial colombiano asignado al hermano de Petro - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "atentados",
+    "Colombia",
+    "Gustavo Petro",
+    "Violencia"
+  ],
+  "text": "\nLa Unidad Nacional de Protección (UNP), de Colombia, confirmó que la mañana de este miércoles una camioneta Toyota TX blindada, que hace parte del esquema de protección presidencial, fue impactada mientras se desplazaba en Bogotá, la capital colombiana.\n\n\nLa propia fuente da cuenta de que Juan Fernando Petro no se encontraba en el vehículo cuando se produjo el atentado; no obstante, no se registraron heridos tras el disparo.\n\nLa UNP informó que se adelantan las pesquisas correspondientes para determinar los móviles del atentado y si, las circunstancias en torno al mismo, estarían relacionadas con un posible intento de homicidio en contra de Fernando Petro.\na UNP también indicó que si bien el impacto fue en el vidrio posterior de la ventana del lado izquierdo, el hecho no dejó personas afectadas y que el impacto no habría sido ocasionado por un disparo de arma de fuego, sino por el golpe de un objeto contundente.\nEn las últimas semanas se han producido atentados, incluyendo algunos frustrados, contra familiares o directamente contra miembros del gobierno del presidente Gustavo Petro.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/disparan-contra-vehiculo-de-proteccion-presidencial-colombiano-del-hermano-de-gustavo-petro/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-07.json",
+    "message_index": 995,
+    "message_id": 72842,
+    "date": "2024-07-03T14:55:34+00:00",
+    "text": "teleSUR\nImpactan vehículo de protección presidencial colombiano asignado al hermano de Petro\nhttps://www.telesurtv.net/disparan-contra-vehiculo-de-proteccion-presidencial-colombiano-del-hermano-de-gustavo-petro/",
+    "photo_path": null,
+    "views": 1592,
+    "reactions": {},
+    "total_reactions": 0
+  },
+  "preprocessing": {
+    "cleaned": "la unidad nacional de protección (unp), de colombia, confirmó que la mañana de este miércoles una camioneta toyota tx blindada, que hace parte del esquema de protección presidencial, fue impactada mientras se desplazaba en bogotá, la capital colombiana. la propia fuente da cuenta de que juan fernando petro no se encontraba en el vehículo cuando se produjo el atentado; no obstante, no se registraron heridos tras el disparo. la unp informó que se adelantan las pesquisas correspondientes para determinar los móviles del atentado y si, las circunstancias en torno al mismo, estarían relacionadas con un posible intento de homicidio en contra de fernando petro. a unp también indicó que si bien el impacto fue en el vidrio posterior de la ventana del lado izquierdo, el hecho no dejó personas afectadas y que el impacto no habría sido ocasionado por un disparo de arma de fuego, sino por el golpe de un objeto contundente. en las últimas semanas se han producido atentados, incluyendo algunos frustrados, contra familiares o directamente contra miembros del gobierno del presidente gustavo petro.",
+    "tokens": [
+      "unidad",
+      "nacional",
+      "protección",
+      "(",
+      "unp",
+      ")",
+      ",",
+      "colombia",
+      ",",
+      "confirmó",
+      "mañana",
+      "miércoles",
+      "camioneta",
+      "toyota",
+      "tx",
+      "blindada",
+      ",",
+      "hace",
+      "parte",
+      "esquema",
+      "protección",
+      "presidencial",
+      ",",
+      "impactada",
+      "mientras",
+      "desplazaba",
+      "bogotá",
+      ",",
+      "capital",
+      "colombiana",
+      ".",
+      "propia",
+      "fuente",
+      "da",
+      "cuenta",
+      "juan",
+      "fernando",
+      "petro",
+      "encontraba",
+      "vehículo",
+      "produjo",
+      "atentado",
+      ";",
+      "obstante",
+      ",",
+      "registraron",
+      "heridos",
+      "tras",
+      "disparo",
+      ".",
+      "unp",
+      "informó",
+      "adelantan",
+      "pesquisas",
+      "correspondientes",
+      "determinar",
+      "móviles",
+      "atentado",
+      "si",
+      ",",
+      "circunstancias",
+      "torno",
+      "mismo",
+      ",",
+      "relacionadas",
+      "posible",
+      "intento",
+      "homicidio",
+      "fernando",
+      "petro",
+      ".",
+      "unp",
+      "indicó",
+      "si",
+      "bien",
+      "impacto",
+      "vidrio",
+      "posterior",
+      "ventana",
+      "lado",
+      "izquierdo",
+      ",",
+      "hecho",
+      "dejó",
+      "personas",
+      "afectadas",
+      "impacto",
+      "sido",
+      "ocasionado",
+      "disparo",
+      "arma",
+      "fuego",
+      ",",
+      "sino",
+      "golpe",
+      "objeto",
+      "contundente",
+      ".",
+      "últimas",
+      "semanas",
+      "producido",
+      "atentados",
+      ",",
+      "incluyendo",
+      "frustrados",
+      ",",
+      "familiares",
+      "directamente",
+      "miembros",
+      "gobierno",
+      "presidente",
+      "gustavo",
+      "petro",
+      "."
+    ],
+    "token_count": 114,
+    "sentence_count": 5
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 22,
+      "FW": 40,
+      "IN": 6,
+      "VBP": 11,
+      "JJ": 18,
+      "NNS": 9,
+      "NN": 55,
+      "DT": 5,
+      "VBZ": 6
+    },
+    "bigram_freq": {
+      "NNP-NNP": 10,
+      "NNP-FW": 3,
+      "FW-NNP": 4,
+      "NNP-IN": 1,
+      "IN-NNP": 1,
+      "NNP-VBP": 1,
+      "VBP-JJ": 8,
+      "JJ-FW": 1,
+      "FW-FW": 25,
+      "FW-NNS": 1,
+      "NNS-VBP": 9,
+      "VBP-NN": 2,
+      "NN-NNP": 4,
+      "NNP-NN": 4,
+      "NN-NN": 27,
+      "NN-FW": 7,
+      "FW-JJ": 1,
+      "JJ-NN": 10,
+      "FW-NN": 8,
+      "NN-IN": 4,
+      "IN-FW": 4,
+      "NNP-DT": 1,
+      "DT-NN": 3,
+      "NN-VBZ": 4,
+      "VBZ-IN": 1,
+      "VBZ-DT": 2,
+      "DT-JJ": 2,
+      "JJ-DT": 1,
+      "NN-NNS": 3,
+      "JJ-NNP": 1,
+      "NN-JJ": 4,
+      "JJ-NNS": 4,
+      "VBP-NNS": 1,
+      "NN-VBP": 1,
+      "JJ-JJ": 1,
+      "IN-NN": 1,
+      "NN-DT": 1,
+      "VBZ-JJ": 2,
+      "FW-VBZ": 1,
+      "NNP-VBZ": 1,
+      "VBZ-NNP": 1
+    },
+    "trigram_freq": {
+      "NNP-NNP-NNP": 3,
+      "NNP-NNP-FW": 1,
+      "NNP-FW-NNP": 1,
+      "FW-NNP-NNP": 3,
+      "NNP-NNP-IN": 1,
+      "NNP-IN-NNP": 1,
+      "IN-NNP-VBP": 1,
+      "NNP-VBP-JJ": 1,
+      "VBP-JJ-FW": 1,
+      "JJ-FW-FW": 1,
+      "FW-FW-FW": 18,
+      "FW-FW-NNS": 1,
+      "FW-NNS-VBP": 1,
+      "NNS-VBP-NN": 1,
+      "VBP-NN-NNP": 1,
+      "NN-NNP-NNP": 2,
+      "NNP-NNP-NN": 3,
+      "NNP-NN-NN": 4,
+      "NN-NN-NN": 13,
+      "NN-NN-FW": 3,
+      "NN-FW-FW": 3,
+      "FW-FW-JJ": 1,
+      "FW-JJ-NN": 1,
+      "JJ-NN-NN": 5,
+      "FW-FW-NNP": 1,
+      "FW-NNP-FW": 1,
+      "NNP-FW-NN": 2,
+      "FW-NN-NN": 4,
+      "NN-NN-NNP": 2,
+      "NN-NNP-NN": 1,
+      "NN-NN-IN": 2,
+      "NN-IN-FW": 3,
+      "IN-FW-NNP": 1,
+      "NNP-NNP-DT": 1,
+      "NNP-DT-NN": 1,
+      "DT-NN-VBZ": 2,
+      "NN-VBZ-IN": 1,
+      "VBZ-IN-FW": 1,
+      "IN-FW-FW": 3,
+      "FW-FW-NN": 4,
+      "FW-NN-FW": 2,
+      "NN-FW-NN": 2,
+      "NN-NN-VBZ": 2,
+      "NN-VBZ-DT": 1,
+      "VBZ-DT-JJ": 1,
+      "DT-JJ-DT": 1,
+      "JJ-DT-JJ": 1,
+      "DT-JJ-NN": 1,
+      "NN-NN-NNS": 1,
+      "NN-NNS-VBP": 3,
+      "NNS-VBP-JJ": 7,
+      "VBP-JJ-NNP": 1,
+      "JJ-NNP-NNP": 1,
+      "NN-NN-JJ": 3,
+      "NN-JJ-NNS": 1,
+      "JJ-NNS-VBP": 4,
+      "NNS-VBP-NNS": 1,
+      "VBP-NNS-VBP": 1,
+      "VBP-JJ-NN": 4,
+      "JJ-NN-NNS": 2,
+      "NN-NN-VBP": 1,
+      "NN-VBP-NN": 1,
+      "VBP-NN-JJ": 1,
+      "NN-JJ-JJ": 1,
+      "JJ-JJ-NN": 1,
+      "JJ-NN-IN": 2,
+      "NN-IN-NN": 1,
+      "IN-NN-FW": 1,
+      "NN-FW-NNP": 1,
+      "NN-JJ-NN": 2,
+      "FW-NN-DT": 1,
+      "NN-DT-NN": 1,
+      "NN-VBZ-JJ": 2,
+      "VBZ-JJ-NN": 1,
+      "JJ-NN-FW": 1,
+      "NN-FW-VBZ": 1,
+      "FW-VBZ-DT": 1,
+      "VBZ-DT-NN": 1,
+      "DT-NN-NN": 1,
+      "FW-NN-NNP": 1,
+      "NN-NNP-VBZ": 1,
+      "NNP-VBZ-NNP": 1,
+      "VBZ-NNP-FW": 1,
+      "VBZ-JJ-NNS": 1,
+      "VBP-JJ-NNS": 2
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 55,
+        "FW": 40,
+        "NNP": 22,
+        "JJ": 18,
+        "VBP": 11
+      },
+      "top_bigrams": {
+        "NN-NN": 27,
+        "FW-FW": 25,
+        "NNP-NNP": 10,
+        "JJ-NN": 10,
+        "NNS-VBP": 9
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 18,
+        "NN-NN-NN": 13,
+        "NNS-VBP-JJ": 7,
+        "JJ-NN-NN": 5,
+        "NNP-NN-NN": 4
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 5,
+    "chunk_counts": {
+      "NP": 47,
+      "VP": 12,
+      "ADJP": 1,
+      "PP": 1
+    },
+    "top_rules": [
+      {
+        "rule": "VP -> ('del', 'VBP') NP",
+        "frequency": 2,
+        "weight": 0.0303
+      },
+      {
+        "rule": "S -> NP ('de', 'FW') NP ('(', '(') NP (')', ')') (',', ',') ('de', 'FW') NP (',', ',') NP ('la', 'FW') ('mañana', 'FW') ('de', 'FW') ('este', 'FW') NP VP (',', ',') NP ('del', 'FW') ('esquema', 'FW') ('de', 'FW') ('protección', 'FW') ADJP (',', ',') NP ('mientras', 'FW') ('se', 'FW') ('desplazaba', 'FW') ('en', 'FW') NP (',', ',') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0152
+      },
+      {
+        "rule": "NP -> ('La', 'NNP') ('Unidad', 'NNP') ('Nacional', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0152
+      },
+      {
+        "rule": "NP -> ('Protección', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0152
+      },
+      {
+        "rule": "NP -> ('UNP', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0152
+      },
+      {
+        "rule": "NP -> ('Colombia', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0152
+      },
+      {
+        "rule": "NP -> ('confirmó', 'NN') ('que', 'NN')",
+        "frequency": 1,
+        "weight": 0.0152
+      },
+      {
+        "rule": "NP -> ('miércoles', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0152
+      },
+      {
+        "rule": "VP -> ('una', 'VBP') NP",
+        "frequency": 1,
+        "weight": 0.0152
+      },
+      {
+        "rule": "NP -> ('camioneta', 'NN') ('Toyota', 'NNP') ('TX', 'NNP') ('blindada', 'NN')",
+        "frequency": 1,
+        "weight": 0.0152
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "La Unidad Nacional"
+      },
+      {
+        "label": "NP",
+        "text": "Protección"
+      },
+      {
+        "label": "NP",
+        "text": "UNP"
+      },
+      {
+        "label": "NP",
+        "text": "Colombia"
+      },
+      {
+        "label": "NP",
+        "text": "confirmó que"
+      },
+      {
+        "label": "NP",
+        "text": "miércoles"
+      },
+      {
+        "label": "VP",
+        "text": "una camioneta Toyota TX blindada"
+      },
+      {
+        "label": "NP",
+        "text": "camioneta Toyota TX blindada"
+      },
+      {
+        "label": "NP",
+        "text": "que hace parte"
+      },
+      {
+        "label": "ADJP",
+        "text": "presidencial"
+      },
+      {
+        "label": "NP",
+        "text": "fue impactada"
+      },
+      {
+        "label": "NP",
+        "text": "Bogotá"
+      },
+      {
+        "label": "NP",
+        "text": "la capital colombiana"
+      },
+      {
+        "label": "NP",
+        "text": "La propia fuente da cuenta"
+      },
+      {
+        "label": "NP",
+        "text": "Juan Fernando Petro"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP La/NNP Unidad/NNP Nacional/NNP)\n  de/FW\n  (NP Protección/NNP)\n  (/(\n  (NP UNP/NNP)\n  )/)\n  ,/,\n  de/FW\n  (NP Colombia/NNP)\n  ,/,\n  (NP confirmó/NN que/NN)\n  la/FW\n  mañana/FW\n  de/FW\n  este/FW\n  (NP miércoles/NNS)\n  (VP una/VBP (NP camioneta/NN Toyota/NNP TX/NNP blindada/NN))\n  ,/,\n  (NP que/JJ hace/NN parte/NN)\n  del/FW\n  esquema/FW\n  de/FW\n  protección/FW\n  (ADJP presidencial/JJ)\n  ,/,\n  (NP fue/JJ impactada/NN)\n  mientras/FW\n  se/FW\n  desplazaba/FW\n  en/FW\n  (NP Bogotá/NNP)\n  ,/,\n  (NP la/NNP capital/NN colombiana/NN)\n  ./.)",
+      "(S\n  (NP La/NNP propia/NN fuente/NN da/NN cuenta/NN)\n  de/IN\n  que/FW\n  (NP Juan/NNP Fernando/NNP Petro/NNP)\n  (NP no/DT se/NN)\n  (VP encontraba/VBZ)\n  en/IN\n  el/FW\n  vehículo/FW\n  (NP cuando/NN)\n  se/FW\n  (NP produjo/NN el/NN atentado/NN)\n  ;/:\n  (NP no/DT obstante/NN)\n  ,/,\n  (NP no/DT se/NN registraron/NN heridos/NN tras/NNS)\n  (VP el/VBP (NP disparo/NN))\n  ./.)",
+      "(S\n  (NP La/NNP UNP/NNP informó/NN que/NN se/NN)\n  (NP adelantan/JJ las/NNS)\n  (VP pesquisas/VBP (NP correspondientes/NNS))\n  (VP para/VBP (NP determinar/JJ los/NN móviles/NNS))\n  (VP del/VBP (NP atentado/JJ y/NN si/NN))\n  ,/,\n  (NP las/JJ circunstancias/NN)\n  en/FW\n  (NP torno/NN al/NN mismo/NN)\n  ,/,\n  (NP estarían/JJ relacionadas/NN con/NN)\n  (NP un/JJ posible/JJ intento/NN)\n  (PP de/IN (NP homicidio/NN))\n  en/FW\n  (NP contra/NN)\n  de/FW\n  (NP Fernando/NNP Petro/NNP)\n  ./.)",
+      "(S\n  (NP a/DT UNP/NNP también/NN indicó/NN que/NN)\n  (NP si/JJ bien/NN el/NN impacto/NN fue/NN)\n  en/IN\n  el/FW\n  vidrio/FW\n  posterior/FW\n  de/FW\n  la/FW\n  ventana/FW\n  del/FW\n  lado/FW\n  (NP izquierdo/NN)\n  ,/,\n  (VP el/VBP hecho/JJ (NP no/DT dejó/NN))\n  (VP personas/VBZ (NP afectadas/JJ y/NN que/NN))\n  el/FW\n  (VP\n    impacto/VBZ\n    (NP no/DT habría/NN sido/NN ocasionado/NN por/NN)\n    (NP un/JJ disparo/NN))\n  de/IN\n  arma/FW\n  de/FW\n  fuego/FW\n  ,/,\n  (NP sino/NN por/NN)\n  el/FW\n  golpe/FW\n  de/FW\n  un/FW\n  (NP objeto/NN contundente/NN)\n  ./.)",
+      "(S\n  (NP En/NNP)\n  (VP las/VBZ (NP últimas/NNP))\n  semanas/FW\n  (NP se/NN han/NN producido/NN atentados/NN)\n  ,/,\n  (NP incluyendo/JJ algunos/NN frustrados/NN)\n  ,/,\n  (NP contra/JJ familiares/NNS)\n  (VP o/VBP (NP directamente/JJ contra/JJ miembros/NNS))\n  (VP\n    del/VBP\n    (NP gobierno/JJ del/NN presidente/NN Gustavo/NNP Petro/NNP))\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "CIUDADES_CAPITALES",
+      "GOBIERNOS_OFICIALES",
+      "TIEMPO_RELATIVO",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "PAISES",
+      "ECONOMIA_COMERCIO_FINANZAS"
+    ],
+    "matches": [
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "capital",
+        "position": [
+          235,
+          242
+        ],
+        "start": 235,
+        "end": 242
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "informó",
+        "position": [
+          438,
+          445
+        ],
+        "start": 438,
+        "end": 445
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "gobierno del presidente gustavo",
+        "position": [
+          1062,
+          1093
+        ],
+        "start": 1062,
+        "end": 1093
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente gustavo petro",
+        "position": [
+          1075,
+          1099
+        ],
+        "start": 1075,
+        "end": 1099
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "colombia",
+        "position": [
+          44,
+          52
+        ],
+        "start": 44,
+        "end": 52
+      },
+      {
+        "category": "CIUDADES_CAPITALES",
+        "matched_text": "bogotá",
+        "position": [
+          224,
+          230
+        ],
+        "start": 224,
+        "end": 230
+      },
+      {
+        "category": "TIEMPO_RELATIVO",
+        "matched_text": "mañana",
+        "position": [
+          70,
+          76
+        ],
+        "start": 70,
+        "end": 76
+      }
+    ],
+    "match_count": 7
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Fernando Petro",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "UNP",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Unidad Nacional de Protección",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Juan Fernando Petro",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Bogotá",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "de Colombia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Gustavo Petro",
+        "tipo": "Persona"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Unidad Nacional de Protección",
+        "relacion": "CONFIRMAR",
+        "objeto": "Bogotá"
+      },
+      {
+        "sujeto": "UNP",
+        "relacion": "CONFIRMAR",
+        "objeto": "Bogotá"
+      },
+      {
+        "sujeto": "de Colombia",
+        "relacion": "CONFIRMAR",
+        "objeto": "Bogotá"
+      },
+      {
+        "sujeto": "UNP",
+        "relacion": "INFORMAR",
+        "objeto": "Fernando Petro"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.6972,
+    "pos": 0.018,
+    "neu": 0.921,
+    "neg": 0.061,
+    "label": "negative"
+  }
+}

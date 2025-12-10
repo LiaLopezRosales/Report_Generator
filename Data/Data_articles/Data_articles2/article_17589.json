@@ -1,0 +1,702 @@
+{
+  "url": "https://www.telesurtv.net/sicarios-secuestran-a-siete-policias-indigenas-en-michoacan-mexico/",
+  "title": "Sicarios secuestran a siete policías indígenas en Michoacán, México - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "Fiscalía General del Estado (FGE)",
+    "Michoacán",
+    "narcotráfico",
+    "Secuestro de guardias comunales"
+  ],
+  "text": "El grupo, liderado por Marco Antonio Reyes Amezcua, se encontraba realizando patrullajes en La Cantera, municipio de Tangamandapio.\nLa Fiscalía General del Estado (FGE) de Michoacán confirmó el miércoles que siete miembros de la Guardia Comunal han sido presuntamente secuestrados por sicarios en la región de Tangamandapio, conocida por la actividad de grupos como los Cárteles Unidos, Los Caballeros Templarios y el Cártel Jalisco Nueva Generación (CJNG).\nEl ente judicial ahondó que el grupo, liderado por Marco Antonio Reyes Amezcua, se encontraba realizando patrullajes en La Cantera, municipio de Tangamandapio, cuando fue interceptado el pasado martes pasado por desconocidos fuertemente armados que los hicieron desaparecer.\nFuentes periodísticas afirman que los agentes fueron vistos por última vez en una zona, donde sus vehículos fueron encontrados abandonados en la cima de una montaña. En respuesta, los habitantes de La Cantera han bloqueado carreteras importantes  de la región.\nLos manifestantes han incendiado un autobús de pasajeros, un tractocamión y un camión de carga como parte de su protesta. Otras comunidades purépechas también consideran intensificar sus protestas para exigir la liberación de los guardias por estos grupos criminales que intentan establecer laboratorios de drogas y campamentos en la zona.\nEl gobernador de Michoacán, Alfredo Ramírez Bedolla, señaló que se lleva a cabo un operativo de búsqueda con la participación de la Guardia Civil, la Fiscalía y el Ejército Mexicano. Las autoridades locales y comunitarias están trabajando para resolver la situación y asegurar la región.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/sicarios-secuestran-a-siete-policias-indigenas-en-michoacan-mexico/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-08.json",
+    "message_index": 586,
+    "message_id": 74943,
+    "date": "2024-08-22T07:55:18+00:00",
+    "text": "teleSUR\nSicarios secuestran a siete policías indígenas en Michoacán, México\nhttps://www.telesurtv.net/sicarios-secuestran-a-siete-policias-indigenas-en-michoacan-mexico/",
+    "photo_path": null,
+    "views": 2587,
+    "reactions": {
+      "🤬": 52,
+      "🤨": 3,
+      "👍": 1
+    },
+    "total_reactions": 56
+  },
+  "preprocessing": {
+    "cleaned": "el grupo, liderado por marco antonio reyes amezcua, se encontraba realizando patrullajes en la cantera, municipio de tangamandapio. la fiscalía general del estado (fge) de michoacán confirmó el miércoles que siete miembros de la guardia comunal han sido presuntamente secuestrados por sicarios en la región de tangamandapio, conocida por la actividad de grupos como los cárteles unidos, los caballeros templarios y el cártel jalisco nueva generación (cjng). el ente judicial ahondó que el grupo, liderado por marco antonio reyes amezcua, se encontraba realizando patrullajes en la cantera, municipio de tangamandapio, cuando fue interceptado el pasado martes pasado por desconocidos fuertemente armados que los hicieron desaparecer. fuentes periodísticas afirman que los agentes fueron vistos por última vez en una zona, donde sus vehículos fueron encontrados abandonados en la cima de una montaña. en respuesta, los habitantes de la cantera han bloqueado carreteras importantes de la región. los manifestantes han incendiado un autobús de pasajeros, un tractocamión y un camión de carga como parte de su protesta. otras comunidades purépechas también consideran intensificar sus protestas para exigir la liberación de los guardias por estos grupos criminales que intentan establecer laboratorios de drogas y campamentos en la zona. el gobernador de michoacán, alfredo ramírez bedolla, señaló que se lleva a cabo un operativo de búsqueda con la participación de la guardia civil, la fiscalía y el ejército mexicano. las autoridades locales y comunitarias están trabajando para resolver la situación y asegurar la región.",
+    "tokens": [
+      "grupo",
+      ",",
+      "liderado",
+      "marco",
+      "antonio",
+      "reyes",
+      "amezcua",
+      ",",
+      "encontraba",
+      "realizando",
+      "patrullajes",
+      "cantera",
+      ",",
+      "municipio",
+      "tangamandapio",
+      ".",
+      "fiscalía",
+      "general",
+      "(",
+      "fge",
+      ")",
+      "michoacán",
+      "confirmó",
+      "miércoles",
+      "siete",
+      "miembros",
+      "guardia",
+      "comunal",
+      "sido",
+      "presuntamente",
+      "secuestrados",
+      "sicarios",
+      "región",
+      "tangamandapio",
+      ",",
+      "conocida",
+      "actividad",
+      "grupos",
+      "cárteles",
+      "unidos",
+      ",",
+      "caballeros",
+      "templarios",
+      "cártel",
+      "jalisco",
+      "nueva",
+      "generación",
+      "(",
+      "cjng",
+      ")",
+      ".",
+      "ente",
+      "judicial",
+      "ahondó",
+      "grupo",
+      ",",
+      "liderado",
+      "marco",
+      "antonio",
+      "reyes",
+      "amezcua",
+      ",",
+      "encontraba",
+      "realizando",
+      "patrullajes",
+      "cantera",
+      ",",
+      "municipio",
+      "tangamandapio",
+      ",",
+      "interceptado",
+      "pasado",
+      "martes",
+      "pasado",
+      "desconocidos",
+      "fuertemente",
+      "armados",
+      "hicieron",
+      "desaparecer",
+      ".",
+      "fuentes",
+      "periodísticas",
+      "afirman",
+      "agentes",
+      "vistos",
+      "última",
+      "vez",
+      "zona",
+      ",",
+      "vehículos",
+      "encontrados",
+      "abandonados",
+      "cima",
+      "montaña",
+      ".",
+      "respuesta",
+      ",",
+      "habitantes",
+      "cantera",
+      "bloqueado",
+      "carreteras",
+      "importantes",
+      "región",
+      ".",
+      "manifestantes",
+      "incendiado",
+      "autobús",
+      "pasajeros",
+      ",",
+      "tractocamión",
+      "camión",
+      "carga",
+      "parte",
+      "protesta",
+      ".",
+      "comunidades",
+      "purépechas",
+      "consideran",
+      "intensificar",
+      "protestas",
+      "exigir",
+      "liberación",
+      "guardias",
+      "grupos",
+      "criminales",
+      "intentan",
+      "establecer",
+      "laboratorios",
+      "drogas",
+      "campamentos",
+      "zona",
+      ".",
+      "gobernador",
+      "michoacán",
+      ",",
+      "alfredo",
+      "ramírez",
+      "bedolla",
+      ",",
+      "señaló",
+      "lleva",
+      "cabo",
+      "operativo",
+      "búsqueda",
+      "participación",
+      "guardia",
+      "civil",
+      ",",
+      "fiscalía",
+      "ejército",
+      "mexicano",
+      ".",
+      "autoridades",
+      "locales",
+      "comunitarias",
+      "trabajando",
+      "resolver",
+      "situación",
+      "asegurar",
+      "región",
+      "."
+    ],
+    "token_count": 161,
+    "sentence_count": 9
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 54,
+      "NN": 79,
+      "VBD": 2,
+      "JJ": 18,
+      "IN": 11,
+      "FW": 41,
+      "NNS": 10,
+      "VBP": 9,
+      "VBZ": 9
+    },
+    "bigram_freq": {
+      "NNP-NN": 13,
+      "NN-NN": 47,
+      "NN-NNP": 6,
+      "NNP-NNP": 31,
+      "NNP-VBD": 2,
+      "VBD-JJ": 2,
+      "JJ-NN": 15,
+      "NN-IN": 7,
+      "IN-NNP": 4,
+      "NN-FW": 7,
+      "FW-NNP": 10,
+      "NNP-FW": 1,
+      "NNP-IN": 1,
+      "NN-NNS": 5,
+      "NNS-VBP": 8,
+      "VBP-JJ": 5,
+      "JJ-FW": 2,
+      "FW-FW": 22,
+      "VBP-FW": 2,
+      "FW-NN": 4,
+      "NNP-VBZ": 5,
+      "VBZ-NNP": 1,
+      "VBZ-JJ": 4,
+      "NN-VBZ": 4,
+      "VBZ-VBP": 1,
+      "VBP-NNS": 1,
+      "VBP-NNP": 1,
+      "FW-JJ": 4,
+      "IN-FW": 7,
+      "VBZ-IN": 2,
+      "NNP-NNS": 1,
+      "JJ-JJ": 1,
+      "NN-JJ": 2,
+      "NNS-IN": 1,
+      "FW-NNS": 1,
+      "VBZ-NNS": 1,
+      "NNS-NNS": 1
+    },
+    "trigram_freq": {
+      "NNP-NN-NN": 8,
+      "NN-NN-NN": 29,
+      "NN-NN-NNP": 4,
+      "NN-NNP-NNP": 4,
+      "NNP-NNP-NNP": 18,
+      "NNP-NNP-VBD": 2,
+      "NNP-VBD-JJ": 2,
+      "VBD-JJ-NN": 2,
+      "JJ-NN-NN": 9,
+      "NN-NN-IN": 3,
+      "NN-IN-NNP": 2,
+      "IN-NNP-NNP": 3,
+      "NNP-NNP-NN": 6,
+      "NNP-NN-FW": 4,
+      "NN-FW-NNP": 3,
+      "FW-NNP-NNP": 5,
+      "NNP-NNP-FW": 1,
+      "NNP-FW-NNP": 1,
+      "NNP-NNP-IN": 1,
+      "NNP-IN-NNP": 1,
+      "IN-NNP-NN": 1,
+      "NN-NN-NNS": 4,
+      "NN-NNS-VBP": 4,
+      "NNS-VBP-JJ": 5,
+      "VBP-JJ-FW": 2,
+      "JJ-FW-FW": 2,
+      "FW-FW-FW": 13,
+      "FW-FW-NNP": 6,
+      "NNS-VBP-FW": 2,
+      "VBP-FW-FW": 2,
+      "FW-NNP-NN": 4,
+      "NN-NN-FW": 2,
+      "NN-FW-FW": 3,
+      "FW-FW-NN": 2,
+      "FW-NN-NN": 1,
+      "NNP-NNP-VBZ": 3,
+      "NNP-VBZ-NNP": 1,
+      "VBZ-NNP-NNP": 1,
+      "NNP-VBZ-JJ": 3,
+      "VBZ-JJ-NN": 4,
+      "NN-NN-VBZ": 4,
+      "NN-VBZ-JJ": 1,
+      "NN-NNP-VBZ": 2,
+      "NN-VBZ-VBP": 1,
+      "VBZ-VBP-NNS": 1,
+      "VBP-NNS-VBP": 1,
+      "NNS-VBP-NNP": 1,
+      "VBP-NNP-NN": 1,
+      "NN-FW-JJ": 1,
+      "FW-JJ-NN": 4,
+      "NN-IN-FW": 5,
+      "IN-FW-FW": 2,
+      "NN-VBZ-IN": 2,
+      "VBZ-IN-NNP": 1,
+      "VBZ-IN-FW": 1,
+      "FW-NNP-NNS": 1,
+      "NNP-NNS-VBP": 1,
+      "VBP-JJ-JJ": 1,
+      "JJ-JJ-NN": 1,
+      "JJ-NN-IN": 4,
+      "IN-FW-JJ": 2,
+      "JJ-NN-JJ": 1,
+      "NN-JJ-NN": 2,
+      "IN-FW-NN": 2,
+      "FW-NN-NNP": 1,
+      "FW-FW-JJ": 1,
+      "VBP-JJ-NN": 2,
+      "JJ-NN-NNS": 1,
+      "NN-NNS-IN": 1,
+      "NNS-IN-FW": 1,
+      "IN-FW-NNS": 1,
+      "FW-NNS-VBP": 1,
+      "NN-NN-JJ": 1,
+      "FW-NN-FW": 1,
+      "NNP-NN-NNP": 1,
+      "NNP-VBZ-NNS": 1,
+      "VBZ-NNS-NNS": 1,
+      "NNS-NNS-VBP": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 79,
+        "NNP": 54,
+        "FW": 41,
+        "JJ": 18,
+        "IN": 11
+      },
+      "top_bigrams": {
+        "NN-NN": 47,
+        "NNP-NNP": 31,
+        "FW-FW": 22,
+        "JJ-NN": 15,
+        "NNP-NN": 13
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 29,
+        "NNP-NNP-NNP": 18,
+        "FW-FW-FW": 13,
+        "JJ-NN-NN": 9,
+        "NNP-NN-NN": 8
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 9,
+    "chunk_counts": {
+      "NP": 60,
+      "VP": 19,
+      "PP": 3
+    },
+    "top_rules": [
+      {
+        "rule": "NP -> ('Tangamandapio', 'NNP')",
+        "frequency": 3,
+        "weight": 0.033
+      },
+      {
+        "rule": "NP -> ('liderado', 'JJ') ('por', 'NN') ('Marco', 'NNP') ('Antonio', 'NNP') ('Reyes', 'NNP') ('Amezcua', 'NNP')",
+        "frequency": 2,
+        "weight": 0.022
+      },
+      {
+        "rule": "VP -> ('se', 'VBD') NP",
+        "frequency": 2,
+        "weight": 0.022
+      },
+      {
+        "rule": "NP -> ('encontraba', 'JJ') ('realizando', 'NN') ('patrullajes', 'NN')",
+        "frequency": 2,
+        "weight": 0.022
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.022
+      },
+      {
+        "rule": "NP -> ('La', 'NNP') ('Cantera', 'NNP')",
+        "frequency": 2,
+        "weight": 0.022
+      },
+      {
+        "rule": "S -> NP (',', ',') NP (',', ',') VP PP (',', ',') ('municipio', 'FW') ('de', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.011
+      },
+      {
+        "rule": "NP -> ('El', 'NNP') ('grupo', 'NN')",
+        "frequency": 1,
+        "weight": 0.011
+      },
+      {
+        "rule": "S -> NP ('del', 'FW') NP ('(', '(') NP (')', ')') ('de', 'FW') NP VP ('miembros', 'FW') ('de', 'FW') ('la', 'FW') NP VP ('la', 'FW') ('región', 'FW') ('de', 'FW') NP (',', ',') NP ('la', 'FW') ('actividad', 'FW') ('de', 'FW') ('grupos', 'FW') NP (',', ',') NP VP ('(', '(') NP (')', ')') ('.', '.')",
+        "frequency": 1,
+        "weight": 0.011
+      },
+      {
+        "rule": "NP -> ('La', 'NNP') ('Fiscalía', 'NNP') ('General', 'NNP')",
+        "frequency": 1,
+        "weight": 0.011
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El grupo"
+      },
+      {
+        "label": "NP",
+        "text": "liderado por Marco Antonio Reyes Amezcua"
+      },
+      {
+        "label": "VP",
+        "text": "se encontraba realizando patrullajes"
+      },
+      {
+        "label": "NP",
+        "text": "encontraba realizando patrullajes"
+      },
+      {
+        "label": "PP",
+        "text": "en La Cantera"
+      },
+      {
+        "label": "NP",
+        "text": "La Cantera"
+      },
+      {
+        "label": "NP",
+        "text": "Tangamandapio"
+      },
+      {
+        "label": "NP",
+        "text": "La Fiscalía General"
+      },
+      {
+        "label": "NP",
+        "text": "Estado"
+      },
+      {
+        "label": "NP",
+        "text": "FGE"
+      },
+      {
+        "label": "NP",
+        "text": "Michoacán confirmó el miércoles"
+      },
+      {
+        "label": "VP",
+        "text": "que siete"
+      },
+      {
+        "label": "NP",
+        "text": "Guardia Comunal han sido presuntamente secuestrados por sicarios"
+      },
+      {
+        "label": "VP",
+        "text": "en"
+      },
+      {
+        "label": "NP",
+        "text": "Tangamandapio"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP El/NNP grupo/NN)\n  ,/,\n  (NP liderado/JJ por/NN Marco/NNP Antonio/NNP Reyes/NNP Amezcua/NNP)\n  ,/,\n  (VP se/VBD (NP encontraba/JJ realizando/NN patrullajes/NN))\n  (PP en/IN (NP La/NNP Cantera/NNP))\n  ,/,\n  municipio/FW\n  de/FW\n  (NP Tangamandapio/NNP)\n  ./.)",
+      "(S\n  (NP La/NNP Fiscalía/NNP General/NNP)\n  del/FW\n  (NP Estado/NNP)\n  (/(\n  (NP FGE/NNP)\n  )/)\n  de/FW\n  (NP Michoacán/NNP confirmó/NN el/NN miércoles/NNS)\n  (VP que/VBP siete/JJ)\n  miembros/FW\n  de/FW\n  la/FW\n  (NP\n    Guardia/NNP\n    Comunal/NNP\n    han/NN\n    sido/NN\n    presuntamente/NN\n    secuestrados/NN\n    por/NN\n    sicarios/NNS)\n  (VP en/VBP)\n  la/FW\n  región/FW\n  de/FW\n  (NP Tangamandapio/NNP)\n  ,/,\n  (NP conocida/NN por/NN)\n  la/FW\n  actividad/FW\n  de/FW\n  grupos/FW\n  (NP como/NN los/NN Cárteles/NNP Unidos/NNP)\n  ,/,\n  (NP Los/NNP Caballeros/NNP Templarios/NNP y/NNP)\n  (VP el/VBZ (NP Cártel/NNP Jalisco/NNP Nueva/NNP Generación/NNP))\n  (/(\n  (NP CJNG/NNP)\n  )/)\n  ./.)",
+      "(S\n  (NP El/NNP)\n  (VP ente/VBZ (NP judicial/JJ ahondó/NN que/NN el/NN grupo/NN))\n  ,/,\n  (NP liderado/JJ por/NN Marco/NNP Antonio/NNP Reyes/NNP Amezcua/NNP)\n  ,/,\n  (VP se/VBD (NP encontraba/JJ realizando/NN patrullajes/NN))\n  (PP en/IN (NP La/NNP Cantera/NNP))\n  ,/,\n  municipio/FW\n  de/FW\n  (NP Tangamandapio/NNP)\n  ,/,\n  (NP cuando/NN fue/NN interceptado/NN el/NN pasado/NN)\n  (VP\n    martes/VBZ\n    (NP\n      pasado/JJ\n      por/NN\n      desconocidos/NN\n      fuertemente/NN\n      armados/NN\n      que/NN\n      los/NN\n      hicieron/NN\n      desaparecer/NN))\n  ./.)",
+      "(S\n  (NP Fuentes/NNS)\n  (VP periodísticas/VBP (NP afirman/JJ que/NN los/NN))\n  (VP agentes/VBZ)\n  (VP fueron/VBP (NP vistos/NNS))\n  (VP por/VBP (NP última/NNP vez/NN))\n  en/FW\n  (NP una/JJ zona/NN)\n  ,/,\n  (NP\n    donde/JJ\n    sus/NN\n    vehículos/NN\n    fueron/NN\n    encontrados/NN\n    abandonados/NN)\n  en/IN\n  la/FW\n  cima/FW\n  de/FW\n  una/FW\n  (NP montaña/NN)\n  ./.)",
+      "(S\n  (NP En/NNP respuesta/NN)\n  ,/,\n  (NP los/JJ habitantes/NNS)\n  (PP\n    de/IN\n    (NP La/NNP Cantera/NNP han/NN bloqueado/NN carreteras/NN))\n  (VP importantes/VBZ)\n  de/IN\n  la/FW\n  (NP región/NN)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "REGIONES_PROVINCIAS"
+    ],
+    "matches": [
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "señaló",
+        "position": [
+          1387,
+          1393
+        ],
+        "start": 1387,
+        "end": 1393
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "estado (fge",
+        "position": [
+          156,
+          167
+        ],
+        "start": 156,
+        "end": 167
+      }
+    ],
+    "match_count": 2
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Tangamandapio",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "La Cantera",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Tangamandapio",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Guardia Civil",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Marco Antonio Reyes Amezcua",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Guardia Comunal",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "los Cárteles Unidos",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Fiscalía General del Estado",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Fuentes",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "CJNG",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Michoacán",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Fiscalía",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Alfredo Ramírez Bedolla",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "FGE",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Cártel Jalisco Nueva Generación",
+        "tipo": "Organizacion"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Marco Antonio Reyes Amezcua",
+        "relacion": "ENCONTRAR",
+        "objeto": "La Cantera"
+      },
+      {
+        "sujeto": "Marco Antonio Reyes Amezcua",
+        "relacion": "ENCONTRAR",
+        "objeto": "Tangamandapio"
+      },
+      {
+        "sujeto": "Fiscalía General del Estado",
+        "relacion": "CONFIRMAR",
+        "objeto": "Guardia Comunal"
+      },
+      {
+        "sujeto": "Fiscalía General del Estado",
+        "relacion": "CONFIRMAR",
+        "objeto": "Tangamandapio"
+      },
+      {
+        "sujeto": "Fiscalía General del Estado",
+        "relacion": "CONFIRMAR",
+        "objeto": "los Cárteles Unidos"
+      },
+      {
+        "sujeto": "Fiscalía General del Estado",
+        "relacion": "CONFIRMAR",
+        "objeto": "Cártel Jalisco Nueva Generación"
+      },
+      {
+        "sujeto": "Fiscalía General del Estado",
+        "relacion": "CONFIRMAR",
+        "objeto": "CJNG"
+      },
+      {
+        "sujeto": "FGE",
+        "relacion": "CONFIRMAR",
+        "objeto": "Guardia Comunal"
+      },
+      {
+        "sujeto": "FGE",
+        "relacion": "CONFIRMAR",
+        "objeto": "Tangamandapio"
+      },
+      {
+        "sujeto": "FGE",
+        "relacion": "CONFIRMAR",
+        "objeto": "los Cárteles Unidos"
+      },
+      {
+        "sujeto": "FGE",
+        "relacion": "CONFIRMAR",
+        "objeto": "Cártel Jalisco Nueva Generación"
+      },
+      {
+        "sujeto": "FGE",
+        "relacion": "CONFIRMAR",
+        "objeto": "CJNG"
+      },
+      {
+        "sujeto": "Michoacán",
+        "relacion": "CONFIRMAR",
+        "objeto": "Guardia Comunal"
+      },
+      {
+        "sujeto": "Michoacán",
+        "relacion": "CONFIRMAR",
+        "objeto": "Tangamandapio"
+      },
+      {
+        "sujeto": "Michoacán",
+        "relacion": "CONFIRMAR",
+        "objeto": "los Cárteles Unidos"
+      },
+      {
+        "sujeto": "Michoacán",
+        "relacion": "CONFIRMAR",
+        "objeto": "Cártel Jalisco Nueva Generación"
+      },
+      {
+        "sujeto": "Michoacán",
+        "relacion": "CONFIRMAR",
+        "objeto": "CJNG"
+      },
+      {
+        "sujeto": "Marco Antonio Reyes Amezcua",
+        "relacion": "ENCONTRAR_AHONDAR",
+        "objeto": "La Cantera"
+      },
+      {
+        "sujeto": "Marco Antonio Reyes Amezcua",
+        "relacion": "ENCONTRAR_AHONDAR",
+        "objeto": "Tangamandapio"
+      },
+      {
+        "sujeto": "Michoacán",
+        "relacion": "SE_ALAR",
+        "objeto": "Guardia Civil"
+      },
+      {
+        "sujeto": "Michoacán",
+        "relacion": "SE_ALAR",
+        "objeto": "Fiscalía"
+      },
+      {
+        "sujeto": "Alfredo Ramírez Bedolla",
+        "relacion": "SE_ALAR",
+        "objeto": "Guardia Civil"
+      },
+      {
+        "sujeto": "Alfredo Ramírez Bedolla",
+        "relacion": "SE_ALAR",
+        "objeto": "Fiscalía"
+      },
+      {
+        "sujeto": "Guardia Civil",
+        "relacion": "ES",
+        "objeto": "Fiscalía"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.1779,
+    "pos": 0.007,
+    "neu": 0.993,
+    "neg": 0.0,
+    "label": "positive"
+  }
+}

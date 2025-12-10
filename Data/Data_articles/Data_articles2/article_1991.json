@@ -1,0 +1,627 @@
+{
+  "url": "https://www.telesurtv.net/peruanos-rechazan-presencia-boluarte-vaticano/",
+  "title": "Peruanos rechazaron la presencia de Dina Boluarte en el Vaticano - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Catolicismo",
+    "Dina Boluarte",
+    "León XIV",
+    "mensaje",
+    "Misa",
+    "Papa",
+    "Perú"
+  ],
+  "text": "\nFuertes críticas ha generado la presencia en el Vaticano de Dina Boluarte, presidenta designada de Perú, para la entronización del Papa León XIV, en tanto su asistencia se produce en medio de protestas nacionales.\nUna carta enviada desde Perú ha cuestionado la coherencia entre el mensaje de unidad y reconciliación del nuevo Papa y las acciones de la presidenta en su país, que ha abogado por la represión de las expresiones populares en contra de su gestión desfavorable.\n\nPeruanos en la Santa Sede se manifestaron, y aludieron a la falta de respuesta a las demandas de justicia de las familias que perdieron seres queridos durante movilizaciones, y al aumento de la violencia y la inseguridad en Perú. Asimismo recordaron el rechazo en las calles peruanas hacia la presencia de Dina Boluarte.\nEl rechazo tiene como contexto la crítica situación que atraviesa Perú, marcada por un crecimiento exponencial de la violencia y la criminalidad, así como por el aumento de la pobreza, que afecta a más de la mitad de la población en algunas regiones.\n\n\nA pesar de este panorama nacional, la presidenta Boluarte viajó a Roma con una numerosa delegación, generando controversia entre los ciudadanos peruanos.\nCabe resaltar que los ciudadanos peruanos apelan a la cercanía forjada entre feligreses y el nuevo Papa en momentos de crisis significativas para la nación andina.\nPor su parte, Vatican News informó que el nuevo pontífice tuvo una audiencia con la mandataria autoproclamada, sin ahondar en detalles acerca de los temas abordados.\n\n",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/peruanos-rechazan-presencia-boluarte-vaticano/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-05.json",
+    "message_index": 879,
+    "message_id": 94400,
+    "date": "2025-05-18T20:55:08+00:00",
+    "text": "teleSUR\nPeruanos rechazaron la presencia de Dina Boluarte en el Vaticano\nhttps://www.telesurtv.net/peruanos-rechazan-presencia-boluarte-vaticano/",
+    "photo_path": null,
+    "views": 2064,
+    "reactions": {
+      "👍": 38,
+      "😈": 9,
+      "❤": 1
+    },
+    "total_reactions": 48
+  },
+  "preprocessing": {
+    "cleaned": "fuertes críticas ha generado la presencia en el vaticano de dina boluarte, presidenta designada de perú, para la entronización del papa león xiv, en tanto su asistencia se produce en medio de protestas nacionales. una carta enviada desde perú ha cuestionado la coherencia entre el mensaje de unidad y reconciliación del nuevo papa y las acciones de la presidenta en su país, que ha abogado por la represión de las expresiones populares en contra de su gestión desfavorable. peruanos en la santa sede se manifestaron, y aludieron a la falta de respuesta a las demandas de justicia de las familias que perdieron seres queridos durante movilizaciones, y al aumento de la violencia y la inseguridad en perú. asimismo recordaron el rechazo en las calles peruanas hacia la presencia de dina boluarte. el rechazo tiene como contexto la crítica situación que atraviesa perú, marcada por un crecimiento exponencial de la violencia y la criminalidad, así como por el aumento de la pobreza, que afecta a más de la mitad de la población en algunas regiones. a pesar de este panorama nacional, la presidenta boluarte viajó a roma con una numerosa delegación, generando controversia entre los ciudadanos peruanos. cabe resaltar que los ciudadanos peruanos apelan a la cercanía forjada entre feligreses y el nuevo papa en momentos de crisis significativas para la nación andina. por su parte, vatican news informó que el nuevo pontífice tuvo una audiencia con la mandataria autoproclamada, sin ahondar en detalles acerca de los temas abordados.",
+    "tokens": [
+      "fuertes",
+      "críticas",
+      "generado",
+      "presencia",
+      "vaticano",
+      "dina",
+      "boluarte",
+      ",",
+      "presidenta",
+      "designada",
+      "perú",
+      ",",
+      "entronización",
+      "papa",
+      "león",
+      "xiv",
+      ",",
+      "asistencia",
+      "produce",
+      "medio",
+      "protestas",
+      "nacionales",
+      ".",
+      "carta",
+      "enviada",
+      "perú",
+      "cuestionado",
+      "coherencia",
+      "mensaje",
+      "unidad",
+      "reconciliación",
+      "nuevo",
+      "papa",
+      "acciones",
+      "presidenta",
+      "país",
+      ",",
+      "abogado",
+      "represión",
+      "expresiones",
+      "populares",
+      "gestión",
+      "desfavorable",
+      ".",
+      "peruanos",
+      "santa",
+      "sede",
+      "manifestaron",
+      ",",
+      "aludieron",
+      "falta",
+      "respuesta",
+      "demandas",
+      "justicia",
+      "familias",
+      "perdieron",
+      "seres",
+      "queridos",
+      "movilizaciones",
+      ",",
+      "aumento",
+      "violencia",
+      "inseguridad",
+      "perú",
+      ".",
+      "asimismo",
+      "recordaron",
+      "rechazo",
+      "calles",
+      "peruanas",
+      "hacia",
+      "presencia",
+      "dina",
+      "boluarte",
+      ".",
+      "rechazo",
+      "contexto",
+      "crítica",
+      "situación",
+      "atraviesa",
+      "perú",
+      ",",
+      "marcada",
+      "crecimiento",
+      "exponencial",
+      "violencia",
+      "criminalidad",
+      ",",
+      "así",
+      "aumento",
+      "pobreza",
+      ",",
+      "afecta",
+      "mitad",
+      "población",
+      "regiones",
+      ".",
+      "pesar",
+      "panorama",
+      "nacional",
+      ",",
+      "presidenta",
+      "boluarte",
+      "viajó",
+      "roma",
+      "numerosa",
+      "delegación",
+      ",",
+      "generando",
+      "controversia",
+      "ciudadanos",
+      "peruanos",
+      ".",
+      "cabe",
+      "resaltar",
+      "ciudadanos",
+      "peruanos",
+      "apelan",
+      "cercanía",
+      "forjada",
+      "feligreses",
+      "nuevo",
+      "papa",
+      "momentos",
+      "crisis",
+      "significativas",
+      "nación",
+      "andina",
+      ".",
+      "parte",
+      ",",
+      "vatican",
+      "news",
+      "informó",
+      "nuevo",
+      "pontífice",
+      "audiencia",
+      "mandataria",
+      "autoproclamada",
+      ",",
+      "ahondar",
+      "detalles",
+      "acerca",
+      "temas",
+      "abordados",
+      "."
+    ],
+    "token_count": 146,
+    "sentence_count": 8
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNS": 12,
+      "VBP": 11,
+      "JJ": 19,
+      "NN": 76,
+      "FW": 82,
+      "NNP": 27,
+      "IN": 6,
+      "VBZ": 2
+    },
+    "bigram_freq": {
+      "NNS-VBP": 7,
+      "VBP-JJ": 5,
+      "JJ-NN": 9,
+      "NN-NN": 45,
+      "NN-FW": 10,
+      "FW-FW": 60,
+      "FW-NNP": 6,
+      "NNP-FW": 5,
+      "NNP-NNP": 9,
+      "FW-NN": 8,
+      "NN-IN": 4,
+      "IN-NNP": 1,
+      "NNP-NN": 12,
+      "NN-VBP": 4,
+      "IN-FW": 3,
+      "FW-NNS": 5,
+      "NNS-NNP": 1,
+      "NN-NNP": 6,
+      "NNS-IN": 1,
+      "NNS-NNS": 1,
+      "VBP-NN": 2,
+      "FW-JJ": 3,
+      "JJ-NNP": 2,
+      "NN-NNS": 1,
+      "JJ-NNS": 3,
+      "VBP-IN": 1,
+      "IN-JJ": 1,
+      "JJ-FW": 2,
+      "NNP-VBZ": 1,
+      "VBZ-JJ": 2,
+      "VBP-NNP": 2,
+      "NNS-FW": 2,
+      "NN-JJ": 5,
+      "JJ-JJ": 3,
+      "NN-VBZ": 1,
+      "IN-NNS": 1
+    },
+    "trigram_freq": {
+      "NNS-VBP-JJ": 3,
+      "VBP-JJ-NN": 2,
+      "JJ-NN-NN": 7,
+      "NN-NN-FW": 9,
+      "NN-FW-FW": 9,
+      "FW-FW-FW": 44,
+      "FW-FW-NNP": 5,
+      "FW-NNP-FW": 2,
+      "NNP-FW-NNP": 1,
+      "FW-NNP-NNP": 4,
+      "NNP-NNP-FW": 2,
+      "NNP-FW-NN": 2,
+      "FW-NN-IN": 1,
+      "NN-IN-NNP": 1,
+      "IN-NNP-NN": 1,
+      "NNP-NN-NN": 10,
+      "NNP-NNP-NNP": 2,
+      "FW-NN-NN": 6,
+      "NN-NN-NN": 21,
+      "NN-NN-VBP": 4,
+      "NN-VBP-JJ": 2,
+      "JJ-NN-IN": 1,
+      "NN-IN-FW": 1,
+      "IN-FW-NNS": 1,
+      "FW-NNS-NNP": 1,
+      "NNS-NNP-NN": 1,
+      "NN-NN-NNP": 4,
+      "NN-NNP-NN": 4,
+      "NNP-FW-NNS": 1,
+      "FW-NNS-IN": 1,
+      "NNS-IN-FW": 1,
+      "IN-FW-FW": 2,
+      "FW-FW-NN": 6,
+      "FW-FW-NNS": 3,
+      "FW-NNS-NNS": 1,
+      "NNS-NNS-VBP": 1,
+      "NNS-VBP-NN": 1,
+      "VBP-NN-FW": 1,
+      "FW-FW-JJ": 2,
+      "FW-JJ-NNP": 1,
+      "JJ-NNP-NN": 1,
+      "NN-NNP-NNP": 2,
+      "NNP-NNP-NN": 4,
+      "FW-NN-NNS": 1,
+      "NN-NNS-VBP": 1,
+      "VBP-JJ-NNS": 1,
+      "JJ-NNS-VBP": 3,
+      "NNS-VBP-IN": 1,
+      "VBP-IN-FW": 1,
+      "NN-NN-IN": 2,
+      "NN-IN-JJ": 1,
+      "IN-JJ-NNS": 1,
+      "VBP-JJ-FW": 2,
+      "JJ-FW-FW": 2,
+      "NNP-NNP-VBZ": 1,
+      "NNP-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 1,
+      "NN-VBP-NNP": 1,
+      "VBP-NNP-NNP": 1,
+      "FW-NNS-FW": 1,
+      "NNS-FW-FW": 2,
+      "FW-JJ-NN": 1,
+      "NNP-NN-NNP": 1,
+      "NNP-NN-JJ": 1,
+      "NN-JJ-JJ": 2,
+      "JJ-JJ-NN": 2,
+      "NN-FW-JJ": 1,
+      "FW-JJ-NNS": 1,
+      "NNS-VBP-NNP": 1,
+      "VBP-NNP-NN": 1,
+      "NN-NN-JJ": 4,
+      "NN-VBP-NN": 1,
+      "VBP-NN-NN": 1,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-JJ": 1,
+      "VBZ-JJ-JJ": 1,
+      "JJ-JJ-NNP": 1,
+      "JJ-NNP-FW": 1,
+      "NNP-FW-FW": 1,
+      "NN-JJ-NN": 3,
+      "JJ-NN-NNP": 1,
+      "NN-IN-NNS": 1,
+      "IN-NNS-FW": 1,
+      "FW-NNS-VBP": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "FW": 82,
+        "NN": 76,
+        "NNP": 27,
+        "JJ": 19,
+        "NNS": 12
+      },
+      "top_bigrams": {
+        "FW-FW": 60,
+        "NN-NN": 45,
+        "NNP-NN": 12,
+        "NN-FW": 10,
+        "JJ-NN": 9
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 44,
+        "NN-NN-NN": 21,
+        "NNP-NN-NN": 10,
+        "NN-NN-FW": 9,
+        "NN-FW-FW": 9
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 8,
+    "chunk_counts": {
+      "NP": 57,
+      "VP": 11,
+      "PP": 3,
+      "ADJP": 3
+    },
+    "top_rules": [
+      {
+        "rule": "NP -> ('Dina', 'NNP') ('Boluarte', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0244
+      },
+      {
+        "rule": "NP -> ('Perú', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0244
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0244
+      },
+      {
+        "rule": "NP -> ('los', 'JJ') ('ciudadanos', 'JJ') ('peruanos', 'NN')",
+        "frequency": 2,
+        "weight": 0.0244
+      },
+      {
+        "rule": "S -> NP VP ('presencia', 'FW') ('en', 'FW') ('el', 'FW') NP ('de', 'FW') NP (',', ',') NP PP (',', ',') NP ('entronización', 'FW') ('del', 'FW') NP (',', ',') ('en', 'FW') ('tanto', 'FW') ('su', 'FW') ('asistencia', 'FW') ('se', 'FW') VP ('de', 'IN') ('protestas', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0122
+      },
+      {
+        "rule": "NP -> ('Fuertes', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0122
+      },
+      {
+        "rule": "VP -> ('críticas', 'VBP') NP",
+        "frequency": 1,
+        "weight": 0.0122
+      },
+      {
+        "rule": "NP -> ('ha', 'JJ') ('generado', 'NN') ('la', 'NN')",
+        "frequency": 1,
+        "weight": 0.0122
+      },
+      {
+        "rule": "NP -> ('Vaticano', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0122
+      },
+      {
+        "rule": "NP -> ('presidenta', 'JJ') ('designada', 'NN')",
+        "frequency": 1,
+        "weight": 0.0122
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Fuertes"
+      },
+      {
+        "label": "VP",
+        "text": "críticas ha generado la"
+      },
+      {
+        "label": "NP",
+        "text": "ha generado la"
+      },
+      {
+        "label": "NP",
+        "text": "Vaticano"
+      },
+      {
+        "label": "NP",
+        "text": "Dina Boluarte"
+      },
+      {
+        "label": "NP",
+        "text": "presidenta designada"
+      },
+      {
+        "label": "PP",
+        "text": "de Perú"
+      },
+      {
+        "label": "NP",
+        "text": "Perú"
+      },
+      {
+        "label": "NP",
+        "text": "para la"
+      },
+      {
+        "label": "NP",
+        "text": "Papa León XIV"
+      },
+      {
+        "label": "VP",
+        "text": "produce en medio"
+      },
+      {
+        "label": "NP",
+        "text": "en medio"
+      },
+      {
+        "label": "NP",
+        "text": "nacionales"
+      },
+      {
+        "label": "NP",
+        "text": "Una carta enviada desde Perú ha cuestionado la coherencia entre"
+      },
+      {
+        "label": "NP",
+        "text": "Papa y"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Fuertes/NNS)\n  (VP críticas/VBP (NP ha/JJ generado/NN la/NN))\n  presencia/FW\n  en/FW\n  el/FW\n  (NP Vaticano/NNP)\n  de/FW\n  (NP Dina/NNP Boluarte/NNP)\n  ,/,\n  (NP presidenta/JJ designada/NN)\n  (PP de/IN (NP Perú/NNP))\n  ,/,\n  (NP para/NN la/NN)\n  entronización/FW\n  del/FW\n  (NP Papa/NNP León/NNP XIV/NNP)\n  ,/,\n  en/FW\n  tanto/FW\n  su/FW\n  asistencia/FW\n  se/FW\n  (VP produce/VBP (NP en/JJ medio/NN))\n  de/IN\n  protestas/FW\n  (NP nacionales/NNS)\n  ./.)",
+      "(S\n  (NP\n    Una/NNP\n    carta/NN\n    enviada/NN\n    desde/NN\n    Perú/NNP\n    ha/NN\n    cuestionado/NN\n    la/NN\n    coherencia/NN\n    entre/NN)\n  el/FW\n  mensaje/FW\n  de/FW\n  unidad/FW\n  y/FW\n  reconciliación/FW\n  del/FW\n  nuevo/FW\n  (NP Papa/NNP y/NNP)\n  (NP las/JJ acciones/NNS)\n  de/IN\n  la/FW\n  presidenta/FW\n  en/FW\n  su/FW\n  (NP país/NN)\n  ,/,\n  (NP que/JJ ha/NN abogado/NN por/NN)\n  la/FW\n  represión/FW\n  de/FW\n  las/FW\n  (NP expresiones/NNS populares/NNS)\n  (VP en/VBP (NP contra/NN))\n  de/FW\n  su/FW\n  (NP gestión/NN desfavorable/NN)\n  ./.)",
+      "(S\n  (NP Peruanos/NNP)\n  en/CC\n  la/FW\n  (NP Santa/NNP Sede/NNP se/NN manifestaron/NN)\n  ,/,\n  y/PRP\n  (VP aludieron/VBP (NP a/DT la/NN falta/NN))\n  de/IN\n  respuesta/FW\n  (NP a/DT las/JJ demandas/NN)\n  de/IN\n  justicia/FW\n  de/FW\n  las/FW\n  familias/FW\n  que/FW\n  (NP perdieron/NN seres/NNS)\n  (VP queridos/VBP (NP durante/JJ movilizaciones/NNS))\n  ,/,\n  y/CC\n  (NP al/JJ aumento/NN)\n  de/IN\n  la/FW\n  violencia/FW\n  y/FW\n  la/FW\n  inseguridad/FW\n  en/FW\n  (NP Perú/NNP)\n  ./.)",
+      "(S\n  (NP Asimismo/NNP recordaron/NN el/NN rechazo/NN)\n  (PP en/IN (NP las/JJ calles/NNS))\n  (VP peruanas/VBP hacia/JJ)\n  la/FW\n  presencia/FW\n  de/FW\n  (NP Dina/NNP Boluarte/NNP)\n  ./.)",
+      "(S\n  (NP El/NNP)\n  (VP\n    rechazo/VBZ\n    (NP\n      tiene/JJ\n      como/NN\n      contexto/NN\n      la/NN\n      crítica/NN\n      situación/NN\n      que/NN\n      atraviesa/NN\n      Perú/NNP))\n  ,/,\n  (NP marcada/NNP)\n  (VP por/VBZ (NP un/JJ crecimiento/JJ exponencial/NN))\n  de/IN\n  la/FW\n  violencia/FW\n  y/FW\n  la/FW\n  (NP criminalidad/NN)\n  ,/,\n  (NP así/JJ como/NN por/NN)\n  el/FW\n  aumento/FW\n  de/FW\n  la/FW\n  pobreza/FW\n  ,/,\n  que/FW\n  (VP afecta/VBZ (NP a/DT más/NN))\n  de/IN\n  la/FW\n  mitad/FW\n  de/FW\n  la/FW\n  población/FW\n  en/FW\n  algunas/FW\n  (NP regiones/NNS)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "CIUDADES_CAPITALES",
+      "PAISES",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "GOBIERNOS_OFICIALES"
+    ],
+    "matches": [
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "informó",
+        "position": [
+          1395,
+          1402
+        ],
+        "start": 1395,
+        "end": 1402
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidenta designada de",
+        "position": [
+          76,
+          99
+        ],
+        "start": 76,
+        "end": 99
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "perú",
+        "position": [
+          100,
+          104
+        ],
+        "start": 100,
+        "end": 104
+      },
+      {
+        "category": "CIUDADES_CAPITALES",
+        "matched_text": "roma",
+        "position": [
+          1116,
+          1120
+        ],
+        "start": 1116,
+        "end": 1120
+      }
+    ],
+    "match_count": 4
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Papa",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Roma",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Dina Boluarte",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Boluarte",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Peruanos",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Vaticano",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Perú",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Vatican News",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Papa León XIV",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Santa Sede",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Perú",
+        "relacion": "CUESTIONAR",
+        "objeto": "Papa"
+      },
+      {
+        "sujeto": "Perú",
+        "relacion": "CUESTIONAR",
+        "objeto": "Peruanos"
+      },
+      {
+        "sujeto": "Perú",
+        "relacion": "CUESTIONAR",
+        "objeto": "Santa Sede"
+      },
+      {
+        "sujeto": "Papa",
+        "relacion": "CUESTIONAR",
+        "objeto": "Peruanos"
+      },
+      {
+        "sujeto": "Papa",
+        "relacion": "CUESTIONAR",
+        "objeto": "Santa Sede"
+      },
+      {
+        "sujeto": "Papa",
+        "relacion": "CUESTIONAR",
+        "objeto": "Perú"
+      },
+      {
+        "sujeto": "Peruanos",
+        "relacion": "CUESTIONAR",
+        "objeto": "Santa Sede"
+      },
+      {
+        "sujeto": "Peruanos",
+        "relacion": "CUESTIONAR",
+        "objeto": "Perú"
+      },
+      {
+        "sujeto": "Santa Sede",
+        "relacion": "CUESTIONAR",
+        "objeto": "Perú"
+      },
+      {
+        "sujeto": "Boluarte",
+        "relacion": "VIAJAR",
+        "objeto": "Roma"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.3612,
+    "pos": 0.029,
+    "neu": 0.939,
+    "neg": 0.031,
+    "label": "negative"
+  }
+}

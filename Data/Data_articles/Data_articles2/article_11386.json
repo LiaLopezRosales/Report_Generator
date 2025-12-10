@@ -1,0 +1,779 @@
+{
+  "url": "https://www.telesurtv.net/revelan-numero-real-de-efectivos-estadounidenses-en-siria/",
+  "title": "Revelan número real de efectivos estadounidenses en Siria - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Estados Unidos",
+    "Siria",
+    "soldados"
+  ],
+  "text": "El número de efectivos militares estadounidenses en Siria se cifra en aproximadamente 2.000 soldados, quienes han estado presentes en el país durante varios meses, e incluso más de un año, desmintiendo así las cifras que se habían reportado anteriormente.\nLEA TAMBIÉN: Incendio en un hospital en el sur de la India deja al menos seis muertos\nSegún el Departamento de Defensa de los Estados Unidos (EE.UU.), se ha mantenido informada a la comunidad internacional sobre la cantidad total de personal en territorio sirio.\nSin embargo, una investigación reciente reveló que, de los 900 soldados previamente declarados, en realidad hay el doble de efectivos desplegados.\nLas autoridades estadounidenses han mantenido esta cifra incluso después del derrocamiento del gobierno del presidente Bashar al-Assad por grupos terroristas.Este aumento de las fuerzas norteamericanas en la región responde a la necesidad de adaptar su misión en el contexto actual, dijeron las autoridades militares de EE.UU.\nDesde los primeros días de la guerra de agresión contra Siria en 2011, Estados Unidos ha proporcionado apoyo logístico a los grupos terroristas, alentándolos a continuar sus esfuerzos por derrocar al gobierno legítimo de Al-Assad.\nEn el panorama actual, Siria enfrenta una crisis significativa tras el cierre de la mayor refinería del país, lo que ocurrió después de que se interrumpieran las importaciones de crudo desde Irán.\nEste jueves se produjo el último lote de combustible disponible, la escasez de petróleo se ha convertido en uno de los principales desafíos para Siria, ya que durante el mandato de Bashar al-Assad, aproximadamente el 90 por ciento del crudo importado provenía de Irán, mientras que solo un 10 por ciento era extraído de los yacimientos petrolíferos nacionales.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/revelan-numero-real-de-efectivos-estadounidenses-en-siria/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-12.json",
+    "message_index": 623,
+    "message_id": 82754,
+    "date": "2024-12-20T11:55:07+00:00",
+    "text": "teleSUR\nRevelan número real de efectivos estadounidenses en Siria\nhttps://www.telesurtv.net/revelan-numero-real-de-efectivos-estadounidenses-en-siria/",
+    "photo_path": null,
+    "views": 2766,
+    "reactions": {
+      "💩": 42,
+      "🤬": 14,
+      "👍": 2,
+      "👎": 2
+    },
+    "total_reactions": 60
+  },
+  "preprocessing": {
+    "cleaned": "el número de efectivos militares estadounidenses en siria se cifra en aproximadamente 2.000 soldados, quienes han estado presentes en el país durante varios meses, e incluso más de un año, desmintiendo así las cifras que se habían reportado anteriormente. según el departamento de defensa de los estados unidos (ee.uu.), se ha mantenido informada a la comunidad internacional sobre la cantidad total de personal en territorio sirio. sin embargo, una investigación reciente reveló que, de los 900 soldados previamente declarados, en realidad hay el doble de efectivos desplegados. las autoridades estadounidenses han mantenido esta cifra incluso después del derrocamiento del gobierno del presidente bashar al-assad por grupos terroristas.este aumento de las fuerzas norteamericanas en la región responde a la necesidad de adaptar su misión en el contexto actual, dijeron las autoridades militares de ee.uu. desde los primeros días de la guerra de agresión contra siria en 2011, estados unidos ha proporcionado apoyo logístico a los grupos terroristas, alentándolos a continuar sus esfuerzos por derrocar al gobierno legítimo de al-assad. en el panorama actual, siria enfrenta una crisis significativa tras el cierre de la mayor refinería del país, lo que ocurrió después de que se interrumpieran las importaciones de crudo desde irán. este jueves se produjo el último lote de combustible disponible, la escasez de petróleo se ha convertido en uno de los principales desafíos para siria, ya que durante el mandato de bashar al-assad, aproximadamente el 90 por ciento del crudo importado provenía de irán, mientras que solo un 10 por ciento era extraído de los yacimientos petrolíferos nacionales.",
+    "tokens": [
+      "número",
+      "efectivos",
+      "militares",
+      "estadounidenses",
+      "siria",
+      "cifra",
+      "aproximadamente",
+      "2.000",
+      "soldados",
+      ",",
+      "presentes",
+      "país",
+      "varios",
+      "meses",
+      ",",
+      "incluso",
+      "año",
+      ",",
+      "desmintiendo",
+      "así",
+      "cifras",
+      "reportado",
+      "anteriormente",
+      ".",
+      "según",
+      "departamento",
+      "defensa",
+      "unidos",
+      "(",
+      "ee.uu.",
+      ")",
+      ",",
+      "mantenido",
+      "informada",
+      "comunidad",
+      "internacional",
+      "cantidad",
+      "total",
+      "personal",
+      "territorio",
+      "sirio",
+      ".",
+      "embargo",
+      ",",
+      "investigación",
+      "reciente",
+      "reveló",
+      ",",
+      "900",
+      "soldados",
+      "previamente",
+      "declarados",
+      ",",
+      "realidad",
+      "doble",
+      "efectivos",
+      "desplegados",
+      ".",
+      "autoridades",
+      "estadounidenses",
+      "mantenido",
+      "cifra",
+      "incluso",
+      "después",
+      "derrocamiento",
+      "gobierno",
+      "presidente",
+      "bashar",
+      "al-assad",
+      "grupos",
+      "terroristas.este",
+      "aumento",
+      "fuerzas",
+      "norteamericanas",
+      "región",
+      "responde",
+      "necesidad",
+      "adaptar",
+      "misión",
+      "contexto",
+      "actual",
+      ",",
+      "dijeron",
+      "autoridades",
+      "militares",
+      "ee.uu.",
+      "primeros",
+      "días",
+      "guerra",
+      "agresión",
+      "siria",
+      "2011",
+      ",",
+      "unidos",
+      "proporcionado",
+      "apoyo",
+      "logístico",
+      "grupos",
+      "terroristas",
+      ",",
+      "alentándolos",
+      "continuar",
+      "esfuerzos",
+      "derrocar",
+      "gobierno",
+      "legítimo",
+      "al-assad",
+      ".",
+      "panorama",
+      "actual",
+      ",",
+      "siria",
+      "enfrenta",
+      "crisis",
+      "significativa",
+      "tras",
+      "cierre",
+      "mayor",
+      "refinería",
+      "país",
+      ",",
+      "ocurrió",
+      "después",
+      "interrumpieran",
+      "importaciones",
+      "crudo",
+      "irán",
+      ".",
+      "jueves",
+      "produjo",
+      "último",
+      "lote",
+      "combustible",
+      "disponible",
+      ",",
+      "escasez",
+      "petróleo",
+      "convertido",
+      "principales",
+      "desafíos",
+      "siria",
+      ",",
+      "mandato",
+      "bashar",
+      "al-assad",
+      ",",
+      "aproximadamente",
+      "90",
+      "ciento",
+      "crudo",
+      "importado",
+      "provenía",
+      "irán",
+      ",",
+      "mientras",
+      "solo",
+      "10",
+      "ciento",
+      "extraído",
+      "yacimientos",
+      "petrolíferos",
+      "nacionales",
+      "."
+    ],
+    "token_count": 163,
+    "sentence_count": 6
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 29,
+      "NN": 97,
+      "FW": 60,
+      "NNS": 16,
+      "VBZ": 6,
+      "JJ": 27,
+      "IN": 16,
+      "$": 1,
+      "CD": 5,
+      "VBP": 11,
+      "VBD": 2
+    },
+    "bigram_freq": {
+      "NNP-NN": 9,
+      "NN-FW": 6,
+      "FW-FW": 40,
+      "FW-NNS": 3,
+      "NNS-VBZ": 2,
+      "VBZ-JJ": 4,
+      "JJ-NNP": 4,
+      "NN-NN": 56,
+      "NN-IN": 13,
+      "IN-$": 1,
+      "$-CD": 1,
+      "CD-JJ": 1,
+      "JJ-NNS": 2,
+      "NNS-VBP": 8,
+      "VBP-JJ": 7,
+      "NNS-IN": 3,
+      "IN-NN": 3,
+      "NN-NNS": 6,
+      "JJ-FW": 2,
+      "FW-NN": 8,
+      "JJ-NN": 17,
+      "NN-NNP": 5,
+      "NNP-NNP": 8,
+      "NNP-FW": 5,
+      "FW-JJ": 2,
+      "IN-FW": 7,
+      "FW-NNP": 5,
+      "VBP-NNS": 2,
+      "NNS-NNP": 1,
+      "NNP-VBP": 1,
+      "VBP-NNP": 1,
+      "NNP-VBD": 1,
+      "VBD-JJ": 1,
+      "NN-VBP": 1,
+      "NN-JJ": 7,
+      "IN-JJ": 2,
+      "FW-CD": 1,
+      "CD-NN": 3,
+      "NNP-VBZ": 3,
+      "VBZ-NNS": 2,
+      "NNP-JJ": 2,
+      "FW-VBP": 1,
+      "NN-VBZ": 1,
+      "IN-NNP": 3,
+      "NN-CD": 1,
+      "CD-NNP": 1,
+      "VBP-NN": 1,
+      "NNS-NNS": 1,
+      "JJ-JJ": 1,
+      "NN-VBD": 1,
+      "VBD-CD": 1,
+      "JJ-CD": 1
+    },
+    "trigram_freq": {
+      "NNP-NN-FW": 1,
+      "NN-FW-FW": 5,
+      "FW-FW-NNS": 2,
+      "FW-NNS-VBZ": 1,
+      "NNS-VBZ-JJ": 2,
+      "VBZ-JJ-NNP": 1,
+      "JJ-NNP-NN": 4,
+      "NNP-NN-NN": 4,
+      "NN-NN-IN": 6,
+      "NN-IN-$": 1,
+      "IN-$-CD": 1,
+      "$-CD-JJ": 1,
+      "CD-JJ-NNS": 1,
+      "JJ-NNS-VBP": 1,
+      "NNS-VBP-JJ": 5,
+      "VBP-JJ-NNS": 1,
+      "JJ-NNS-IN": 1,
+      "NNS-IN-NN": 2,
+      "IN-NN-NN": 3,
+      "NN-NN-NN": 32,
+      "NN-NN-NNS": 5,
+      "NN-NNS-VBZ": 1,
+      "VBZ-JJ-FW": 1,
+      "JJ-FW-FW": 2,
+      "FW-FW-FW": 27,
+      "FW-FW-NN": 5,
+      "FW-NN-NN": 3,
+      "NN-NNS-VBP": 4,
+      "VBP-JJ-NN": 5,
+      "JJ-NN-NN": 11,
+      "NN-NN-NNP": 5,
+      "NN-NNP-NNP": 2,
+      "NNP-NNP-NNP": 2,
+      "NNP-NNP-FW": 2,
+      "NNP-FW-JJ": 1,
+      "FW-JJ-NN": 1,
+      "JJ-NN-IN": 4,
+      "NN-IN-FW": 7,
+      "IN-FW-FW": 5,
+      "FW-FW-NNP": 4,
+      "FW-NNP-NN": 1,
+      "NNS-VBP-NNS": 2,
+      "VBP-NNS-NNP": 1,
+      "NNS-NNP-VBP": 1,
+      "NNP-VBP-NNP": 1,
+      "VBP-NNP-FW": 1,
+      "NNP-FW-NNP": 1,
+      "FW-NNP-FW": 1,
+      "NNP-FW-FW": 1,
+      "FW-NNP-NNP": 1,
+      "NNP-NNP-VBD": 1,
+      "NNP-VBD-JJ": 1,
+      "VBD-JJ-NN": 1,
+      "NN-NN-VBP": 1,
+      "NN-VBP-JJ": 1,
+      "NN-NN-JJ": 4,
+      "NN-JJ-NN": 4,
+      "NN-IN-JJ": 2,
+      "IN-JJ-NN": 1,
+      "NN-NNP-NN": 2,
+      "NNP-NN-JJ": 2,
+      "IN-FW-CD": 1,
+      "FW-CD-NN": 1,
+      "CD-NN-NN": 3,
+      "NN-IN-NN": 1,
+      "NN-JJ-FW": 1,
+      "FW-NNP-VBZ": 1,
+      "NNP-VBZ-NNS": 1,
+      "VBZ-NNS-VBP": 1,
+      "NN-NNP-JJ": 1,
+      "NNP-JJ-NN": 2,
+      "FW-NN-FW": 2,
+      "FW-FW-VBP": 1,
+      "FW-VBP-JJ": 1,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-NNS": 1,
+      "VBZ-NNS-IN": 1,
+      "NNS-IN-NNP": 1,
+      "IN-NNP-NNP": 2,
+      "NNP-NNP-VBZ": 2,
+      "NNP-VBZ-JJ": 2,
+      "VBZ-JJ-NN": 2,
+      "FW-FW-JJ": 1,
+      "FW-JJ-NNP": 1,
+      "NNP-NN-CD": 1,
+      "NN-CD-NNP": 1,
+      "CD-NNP-NNP": 1,
+      "NNP-NNP-NN": 1,
+      "NN-IN-NNP": 2,
+      "NNP-FW-NN": 2,
+      "FW-NN-JJ": 1,
+      "NN-JJ-NNP": 1,
+      "NNS-VBP-NN": 1,
+      "VBP-NN-IN": 1,
+      "NN-FW-NN": 1,
+      "FW-NN-IN": 1,
+      "FW-NN-NNS": 1,
+      "NN-NNS-NNS": 1,
+      "NNS-NNS-IN": 1,
+      "NNP-NN-IN": 1,
+      "IN-JJ-JJ": 1,
+      "JJ-JJ-NN": 1,
+      "JJ-NN-FW": 1,
+      "NN-NN-FW": 2,
+      "FW-NNS-VBP": 2,
+      "VBP-JJ-NNP": 1,
+      "FW-NNP-JJ": 1,
+      "JJ-NN-VBD": 1,
+      "NN-VBD-CD": 1,
+      "VBD-CD-NN": 1,
+      "IN-NNP-FW": 1,
+      "NN-JJ-CD": 1,
+      "JJ-CD-NN": 1,
+      "IN-FW-NNS": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 97,
+        "FW": 60,
+        "NNP": 29,
+        "JJ": 27,
+        "NNS": 16
+      },
+      "top_bigrams": {
+        "NN-NN": 56,
+        "FW-FW": 40,
+        "JJ-NN": 17,
+        "NN-IN": 13,
+        "NNP-NN": 9
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 32,
+        "FW-FW-FW": 27,
+        "JJ-NN-NN": 11,
+        "NN-IN-FW": 7,
+        "NN-NN-IN": 6
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 6,
+    "chunk_counts": {
+      "NP": 66,
+      "VP": 18,
+      "PP": 7,
+      "ADJP": 9
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 6,
+        "weight": 0.0566
+      },
+      {
+        "rule": "VP -> ('el', 'VBP') NP",
+        "frequency": 2,
+        "weight": 0.0189
+      },
+      {
+        "rule": "ADJP -> ('actual', 'JJ')",
+        "frequency": 2,
+        "weight": 0.0189
+      },
+      {
+        "rule": "S -> NP ('de', 'FW') ('efectivos', 'FW') NP VP ('en', 'IN') ('aproximadamente', '$') ('2.000', 'CD') NP (',', ',') NP VP PP (',', ',') VP PP (',', ',') NP VP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0094
+      },
+      {
+        "rule": "NP -> ('El', 'NNP') ('número', 'NN')",
+        "frequency": 1,
+        "weight": 0.0094
+      },
+      {
+        "rule": "NP -> ('militares', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0094
+      },
+      {
+        "rule": "VP -> ('estadounidenses', 'VBZ') NP",
+        "frequency": 1,
+        "weight": 0.0094
+      },
+      {
+        "rule": "NP -> ('en', 'JJ') ('Siria', 'NNP') ('se', 'NN') ('cifra', 'NN')",
+        "frequency": 1,
+        "weight": 0.0094
+      },
+      {
+        "rule": "NP -> ('soldados', 'NN')",
+        "frequency": 1,
+        "weight": 0.0094
+      },
+      {
+        "rule": "NP -> ('quienes', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0094
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El número"
+      },
+      {
+        "label": "NP",
+        "text": "militares"
+      },
+      {
+        "label": "VP",
+        "text": "estadounidenses en Siria se cifra"
+      },
+      {
+        "label": "NP",
+        "text": "en Siria se cifra"
+      },
+      {
+        "label": "NP",
+        "text": "soldados"
+      },
+      {
+        "label": "NP",
+        "text": "quienes"
+      },
+      {
+        "label": "VP",
+        "text": "han estado presentes"
+      },
+      {
+        "label": "NP",
+        "text": "estado presentes"
+      },
+      {
+        "label": "PP",
+        "text": "en el país durante varios meses"
+      },
+      {
+        "label": "NP",
+        "text": "el país durante varios meses"
+      },
+      {
+        "label": "VP",
+        "text": "e incluso más"
+      },
+      {
+        "label": "NP",
+        "text": "incluso más"
+      },
+      {
+        "label": "PP",
+        "text": "de un año"
+      },
+      {
+        "label": "NP",
+        "text": "un año"
+      },
+      {
+        "label": "NP",
+        "text": "desmintiendo así las cifras"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP El/NNP número/NN)\n  de/FW\n  efectivos/FW\n  (NP militares/NNS)\n  (VP estadounidenses/VBZ (NP en/JJ Siria/NNP se/NN cifra/NN))\n  en/IN\n  aproximadamente/$\n  2.000/CD\n  (NP soldados/NN)\n  ,/,\n  (NP quienes/NNS)\n  (VP han/VBP (NP estado/JJ presentes/NNS))\n  (PP en/IN (NP el/NN país/NN durante/NN varios/NNS meses/NNS))\n  ,/,\n  (VP e/VBP (NP incluso/JJ más/NN))\n  (PP de/IN (NP un/JJ año/NN))\n  ,/,\n  (NP desmintiendo/NN así/NN las/NN cifras/NNS)\n  (VP que/VBP (NP se/JJ habían/NN reportado/NN anteriormente/NN))\n  ./.)",
+      "(S\n  (NP LEA/NNP TAMBIÉN/NNP)\n  :/:\n  (NP Incendio/NNP)\n  en/FW\n  (NP un/JJ hospital/NN)\n  en/IN\n  el/FW\n  sur/FW\n  de/FW\n  la/FW\n  (NP India/NNP deja/NN al/NN menos/NNS)\n  (VP seis/VBP (NP muertos/NNS Según/NNP))\n  (VP el/VBP (NP Departamento/NNP))\n  de/FW\n  (NP Defensa/NNP)\n  de/FW\n  los/FW\n  (NP Estados/NNP Unidos/NNP)\n  (/(\n  (NP EE.UU./NNP)\n  )/)\n  ,/,\n  (NP se/JJ ha/NN mantenido/NN)\n  (VP\n    informada/VBZ\n    (NP a/DT la/NN)\n    (NP comunidad/JJ internacional/JJ sobre/NN la/NN)\n    (NP cantidad/JJ total/NN))\n  (PP de/IN (NP personal/JJ en/NN territorio/NN sirio/NN))\n  ./.)",
+      "(S\n  (NP Sin/NNP embargo/NN)\n  ,/,\n  (NP una/JJ investigación/NN reciente/NN reveló/NN que/NN)\n  ,/,\n  de/FW\n  los/FW\n  900/CD\n  (NP soldados/NN previamente/NN declarados/NN)\n  ,/,\n  en/FW\n  realidad/FW\n  (NP hay/NN)\n  el/FW\n  (ADJP doble/JJ)\n  de/FW\n  efectivos/FW\n  (NP desplegados/NN)\n  ./.)",
+      "(S\n  (NP Las/NNP)\n  (VP autoridades/VBZ (NP estadounidenses/NNS))\n  (VP\n    han/VBP\n    (NP\n      mantenido/JJ\n      esta/NN\n      cifra/NN\n      incluso/NN\n      después/NN\n      del/NN\n      derrocamiento/NN\n      del/NN\n      gobierno/NN\n      del/NN\n      presidente/NN\n      Bashar/NNP)\n    (NP al-Assad/JJ por/NN grupos/NN terroristas.Este/NN))\n  aumento/IN\n  de/FW\n  las/FW\n  fuerzas/FW\n  norteamericanas/FW\n  en/FW\n  la/FW\n  región/FW\n  responde/FW\n  a/DT\n  la/FW\n  necesidad/FW\n  de/FW\n  adaptar/FW\n  su/FW\n  misión/FW\n  en/FW\n  el/FW\n  (NP contexto/NN)\n  (ADJP actual/JJ)\n  ,/,\n  (NP dijeron/JJ las/NN autoridades/NNS)\n  (VP militares/VBZ)\n  (PP de/IN (NP EE.UU./NNP Desde/NNP))\n  (VP los/VBZ (NP primeros/JJ días/NN))\n  de/IN\n  la/FW\n  guerra/FW\n  de/FW\n  agresión/FW\n  (NP contra/JJ Siria/NNP en/NN)\n  2011/CD\n  ,/,\n  (NP Estados/NNP Unidos/NNP ha/NN proporcionado/NN apoyo/NN)\n  (VP logístico/VBD (NP a/DT los/JJ grupos/NN terroristas/NNS))\n  ,/,\n  (VP\n    alentándolos/VBP\n    (NP\n      a/DT\n      continuar/NN\n      sus/NN\n      esfuerzos/NN\n      por/NN\n      derrocar/NN\n      al/NN\n      gobierno/NN\n      legítimo/NN))\n  (PP de/IN (NP Al-Assad/NNP))\n  ./.)",
+      "(S\n  (NP En/NNP el/NN panorama/NN)\n  (ADJP actual/JJ)\n  ,/,\n  (NP Siria/NNP)\n  (VP enfrenta/VBZ (NP una/JJ crisis/NN significativa/NN tras/NNS))\n  (VP el/VBP (NP cierre/NN))\n  de/IN\n  la/FW\n  mayor/FW\n  refinería/FW\n  del/FW\n  (NP país/NN)\n  ,/,\n  (NP lo/JJ que/NN)\n  (NP ocurrió/JJ después/NN)\n  de/IN\n  que/FW\n  se/FW\n  (NP interrumpieran/NN las/NNS importaciones/NNS)\n  (PP de/IN (NP crudo/NN desde/NN Irán/NNP))\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "GOBIERNOS_OFICIALES",
+      "CANTIDADES_NUMERICAS",
+      "ANTIIMPERIALISMO_SOBERANIA",
+      "REGIONES_PROVINCIAS",
+      "INSTITUCIONES_EDUCATIVAS",
+      "PAISES",
+      "LOCALIZACIONES_ESPECIFICAS",
+      "CONFLICTOS_ARMADOS_OPERACIONES",
+      "RELACIONES_INTERNACIONALES",
+      "INFRAESTRUCTURA_SERVICIOS",
+      "JURIDICO_LEGISLATIVO_CORRUPCION"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "guerra de agresión contra siria",
+        "position": [
+          1023,
+          1054
+        ],
+        "start": 1023,
+        "end": 1054
+      },
+      {
+        "category": "RELACIONES_INTERNACIONALES",
+        "matched_text": "apoyo logístico a los grupos terroristas, alentándolos a continuar sus esfuerzos por derrocar al gobierno",
+        "position": [
+          1096,
+          1201
+        ],
+        "start": 1096,
+        "end": 1201
+      },
+      {
+        "category": "JURIDICO_LEGISLATIVO_CORRUPCION",
+        "matched_text": "defensa",
+        "position": [
+          367,
+          374
+        ],
+        "start": 367,
+        "end": 374
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "gobierno del presidente bashar",
+        "position": [
+          761,
+          791
+        ],
+        "start": 761,
+        "end": 791
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente bashar al",
+        "position": [
+          774,
+          794
+        ],
+        "start": 774,
+        "end": 794
+      },
+      {
+        "category": "INSTITUCIONES_EDUCATIVAS",
+        "matched_text": "departamento de defensa",
+        "position": [
+          351,
+          374
+        ],
+        "start": 351,
+        "end": 374
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "hospital",
+        "position": [
+          284,
+          292
+        ],
+        "start": 284,
+        "end": 292
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "estados unidos",
+        "position": [
+          382,
+          396
+        ],
+        "start": 382,
+        "end": 396
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "estado presentes",
+        "position": [
+          114,
+          130
+        ],
+        "start": 114,
+        "end": 130
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "hospital en",
+        "position": [
+          284,
+          295
+        ],
+        "start": 284,
+        "end": 295
+      },
+      {
+        "category": "ANTIIMPERIALISMO_SOBERANIA",
+        "matched_text": "embargo",
+        "position": [
+          523,
+          530
+        ],
+        "start": 523,
+        "end": 530
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "aproximadamente 2.000",
+        "position": [
+          70,
+          91
+        ],
+        "start": 70,
+        "end": 91
+      }
+    ],
+    "match_count": 12
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Bashar al-Assad",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "EE.UU.",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Irán",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "la India",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Estados Unidos",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Al-Assad",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Siria",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Departamento de Defensa de los Estados Unidos",
+        "tipo": "Organizacion"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "la India",
+        "relacion": "DEJAR_MANTENER",
+        "objeto": "Departamento de Defensa de los Estados Unidos"
+      },
+      {
+        "sujeto": "la India",
+        "relacion": "DEJAR_MANTENER",
+        "objeto": "EE.UU."
+      },
+      {
+        "sujeto": "EE.UU.",
+        "relacion": "DECIR",
+        "objeto": "Siria"
+      },
+      {
+        "sujeto": "Estados Unidos",
+        "relacion": "DECIR",
+        "objeto": "EE.UU."
+      },
+      {
+        "sujeto": "EE.UU.",
+        "relacion": "DECIR",
+        "objeto": "Al-Assad"
+      },
+      {
+        "sujeto": "Estados Unidos",
+        "relacion": "DECIR",
+        "objeto": "Siria"
+      },
+      {
+        "sujeto": "Siria",
+        "relacion": "DECIR",
+        "objeto": "Al-Assad"
+      },
+      {
+        "sujeto": "Estados Unidos",
+        "relacion": "PROPORCIONAR_DECIR",
+        "objeto": "Al-Assad"
+      },
+      {
+        "sujeto": "Siria",
+        "relacion": "ENFRENTAR",
+        "objeto": "Irán"
+      },
+      {
+        "sujeto": "Siria",
+        "relacion": "CONVERTIR",
+        "objeto": "Bashar al-Assad"
+      },
+      {
+        "sujeto": "Siria",
+        "relacion": "CONVERTIR",
+        "objeto": "Irán"
+      },
+      {
+        "sujeto": "Bashar al-Assad",
+        "relacion": "PROVENIR_CONVERTIR",
+        "objeto": "Irán"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.3612,
+    "pos": 0.026,
+    "neu": 0.947,
+    "neg": 0.028,
+    "label": "negative"
+  }
+}

@@ -1,0 +1,639 @@
+{
+  "url": "https://www.telesurtv.net/gobierno-de-ecuador-declara-estado-de-excepcion-en-seis-provincias/",
+  "title": "Gobierno de Ecuador declara Estado de Excepción en seis provincias - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "Daniel Noboa",
+    "Ecuador",
+    "Estado de Exepción",
+    "Violencia"
+  ],
+  "text": "El presidente de Ecuador, Daniel Noboa Azin, declaró este martes un Estado de Excepción focalizado en las provincias de Guayas, Los Ríos, Manabí, Orellana, Santa Elena, El Oro y en el cantón Camilo Ponce Enríquez de la provincia de Azuay.\nAdemás, se enfila hacia la batalla contra los conflictos armados que afectan estas áreas, en un momento donde la nación atraviesa por una crisis de violencia.\n“Fortalecerá las estrategias de lucha contra el crimen organizado y el terrorismo, precautelando el bienestar y la seguridad ciudadana”, subraya el documento.\nPor otro lado, el texto detalla que la decisión viene respaldada de la Asociación Mundial de Juristas (WJA, por sus siglas en inglés).\nEsta organización “en su calidad de observadora jurídica elaboró un informe que concluyó que el documento se ajusta al marco constitucional”.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/gobierno-de-ecuador-declara-estado-de-excepcion-en-seis-provincias/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-07.json",
+    "message_index": 1011,
+    "message_id": 72826,
+    "date": "2024-07-03T03:55:24+00:00",
+    "text": "teleSUR\nGobierno de Ecuador declara Estado de Excepción en seis provincias\nhttps://www.telesurtv.net/gobierno-de-ecuador-declara-estado-de-excepcion-en-seis-provincias/",
+    "photo_path": null,
+    "views": 1409,
+    "reactions": {},
+    "total_reactions": 0
+  },
+  "preprocessing": {
+    "cleaned": "el presidente de ecuador, daniel noboa azin, declaró este martes un estado de excepción focalizado en las provincias de guayas, los ríos, manabí, orellana, santa elena, el oro y en el cantón camilo ponce enríquez de la provincia de azuay. además, se enfila hacia la batalla contra los conflictos armados que afectan estas áreas, en un momento donde la nación atraviesa por una crisis de violencia. “fortalecerá las estrategias de lucha contra el crimen organizado y el terrorismo, precautelando el bienestar y la seguridad ciudadana”, subraya el documento. por otro lado, el texto detalla que la decisión viene respaldada de la asociación mundial de juristas (wja, por sus siglas en inglés). esta organización “en su calidad de observadora jurídica elaboró un informe que concluyó que el documento se ajusta al marco constitucional”.",
+    "tokens": [
+      "presidente",
+      "ecuador",
+      ",",
+      "daniel",
+      "noboa",
+      "azin",
+      ",",
+      "declaró",
+      "martes",
+      "excepción",
+      "focalizado",
+      "provincias",
+      "guayas",
+      ",",
+      "ríos",
+      ",",
+      "manabí",
+      ",",
+      "orellana",
+      ",",
+      "santa",
+      "elena",
+      ",",
+      "oro",
+      "cantón",
+      "camilo",
+      "ponce",
+      "enríquez",
+      "provincia",
+      "azuay",
+      ".",
+      "además",
+      ",",
+      "enfila",
+      "hacia",
+      "batalla",
+      "conflictos",
+      "armados",
+      "afectan",
+      "áreas",
+      ",",
+      "momento",
+      "nación",
+      "atraviesa",
+      "crisis",
+      "violencia",
+      ".",
+      "“",
+      "fortalecerá",
+      "estrategias",
+      "lucha",
+      "crimen",
+      "organizado",
+      "terrorismo",
+      ",",
+      "precautelando",
+      "bienestar",
+      "seguridad",
+      "ciudadana",
+      "”",
+      ",",
+      "subraya",
+      "documento",
+      ".",
+      "lado",
+      ",",
+      "texto",
+      "detalla",
+      "decisión",
+      "viene",
+      "respaldada",
+      "asociación",
+      "mundial",
+      "juristas",
+      "(",
+      "wja",
+      ",",
+      "siglas",
+      "inglés",
+      ")",
+      ".",
+      "organización",
+      "“",
+      "calidad",
+      "observadora",
+      "jurídica",
+      "elaboró",
+      "informe",
+      "concluyó",
+      "documento",
+      "ajusta",
+      "marco",
+      "constitucional",
+      "”",
+      "."
+    ],
+    "token_count": 95,
+    "sentence_count": 5
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 28,
+      "NN": 45,
+      "FW": 32,
+      "VBZ": 2,
+      "JJ": 12,
+      "IN": 4,
+      "VBD": 2,
+      "NNS": 2,
+      "VBP": 2
+    },
+    "bigram_freq": {
+      "NNP-NN": 5,
+      "NN-FW": 7,
+      "FW-NNP": 7,
+      "NNP-NNP": 16,
+      "NN-NN": 27,
+      "NN-VBZ": 1,
+      "VBZ-JJ": 2,
+      "JJ-NNP": 1,
+      "NNP-FW": 4,
+      "FW-FW": 18,
+      "FW-NN": 4,
+      "NN-NNP": 3,
+      "NNP-IN": 1,
+      "IN-FW": 2,
+      "NNP-VBD": 1,
+      "VBD-JJ": 2,
+      "JJ-NN": 8,
+      "NN-JJ": 4,
+      "JJ-NNS": 1,
+      "NNS-VBP": 2,
+      "VBP-IN": 1,
+      "IN-JJ": 1,
+      "NN-IN": 2,
+      "FW-JJ": 2,
+      "JJ-FW": 1,
+      "FW-NNS": 1,
+      "VBP-JJ": 1,
+      "NNP-VBZ": 1,
+      "IN-NN": 1,
+      "NN-VBD": 1
+    },
+    "trigram_freq": {
+      "NNP-NN-FW": 3,
+      "NN-FW-NNP": 1,
+      "FW-NNP-NNP": 5,
+      "NNP-NNP-NNP": 10,
+      "NNP-NNP-NN": 2,
+      "NNP-NN-NN": 2,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-JJ": 1,
+      "VBZ-JJ-NNP": 1,
+      "JJ-NNP-FW": 1,
+      "NNP-FW-NNP": 2,
+      "FW-NNP-NN": 1,
+      "NN-FW-FW": 4,
+      "FW-FW-FW": 11,
+      "FW-FW-NNP": 3,
+      "NNP-NNP-FW": 2,
+      "NNP-FW-FW": 2,
+      "FW-FW-NN": 3,
+      "FW-NN-NNP": 1,
+      "NN-NNP-NNP": 1,
+      "NNP-NNP-IN": 1,
+      "NNP-IN-FW": 1,
+      "IN-FW-FW": 1,
+      "NNP-NNP-VBD": 1,
+      "NNP-VBD-JJ": 1,
+      "VBD-JJ-NN": 1,
+      "JJ-NN-NN": 7,
+      "NN-NN-NN": 17,
+      "NN-NN-JJ": 4,
+      "NN-JJ-NN": 3,
+      "NN-JJ-NNS": 1,
+      "JJ-NNS-VBP": 1,
+      "NNS-VBP-IN": 1,
+      "VBP-IN-JJ": 1,
+      "IN-JJ-NN": 1,
+      "JJ-NN-IN": 1,
+      "NN-IN-FW": 1,
+      "IN-FW-NNP": 1,
+      "FW-NNP-FW": 1,
+      "FW-FW-JJ": 1,
+      "FW-JJ-FW": 1,
+      "JJ-FW-NNS": 1,
+      "FW-NNS-VBP": 1,
+      "NNS-VBP-JJ": 1,
+      "VBP-JJ-NN": 1,
+      "NN-NN-FW": 2,
+      "NN-FW-NN": 1,
+      "FW-NN-FW": 2,
+      "FW-NN-NN": 1,
+      "NN-NN-NNP": 1,
+      "NN-NNP-VBZ": 1,
+      "NNP-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 1,
+      "NN-NN-IN": 1,
+      "NN-IN-NN": 1,
+      "IN-NN-NNP": 1,
+      "NN-NNP-NN": 1,
+      "NN-FW-JJ": 1,
+      "FW-JJ-NN": 1,
+      "NN-NN-VBD": 1,
+      "NN-VBD-JJ": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 45,
+        "FW": 32,
+        "NNP": 28,
+        "JJ": 12,
+        "IN": 4
+      },
+      "top_bigrams": {
+        "NN-NN": 27,
+        "FW-FW": 18,
+        "NNP-NNP": 16,
+        "JJ-NN": 8,
+        "NN-FW": 7
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 17,
+        "FW-FW-FW": 11,
+        "NNP-NNP-NNP": 10,
+        "JJ-NN-NN": 7,
+        "FW-NNP-NNP": 5
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 5,
+    "chunk_counts": {
+      "NP": 38,
+      "VP": 6,
+      "ADJP": 1,
+      "PP": 1
+    },
+    "top_rules": [
+      {
+        "rule": "S -> NP ('de', 'FW') NP (',', ',') NP (',', ',') NP VP ('de', 'FW') NP ('en', 'FW') ('las', 'FW') ('provincias', 'FW') ('de', 'FW') NP (',', ',') NP (',', ',') NP (',', ',') NP (',', ',') NP (',', ',') NP ('en', 'FW') ('el', 'FW') NP ('de', 'IN') ('la', 'FW') ('provincia', 'FW') ('de', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0196
+      },
+      {
+        "rule": "NP -> ('El', 'NNP') ('presidente', 'NN')",
+        "frequency": 1,
+        "weight": 0.0196
+      },
+      {
+        "rule": "NP -> ('Ecuador', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0196
+      },
+      {
+        "rule": "NP -> ('Daniel', 'NNP') ('Noboa', 'NNP') ('Azin', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0196
+      },
+      {
+        "rule": "NP -> ('declaró', 'NN') ('este', 'NN')",
+        "frequency": 1,
+        "weight": 0.0196
+      },
+      {
+        "rule": "VP -> ('martes', 'VBZ') NP",
+        "frequency": 1,
+        "weight": 0.0196
+      },
+      {
+        "rule": "NP -> ('un', 'JJ') ('Estado', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0196
+      },
+      {
+        "rule": "NP -> ('Excepción', 'NNP') ('focalizado', 'NN')",
+        "frequency": 1,
+        "weight": 0.0196
+      },
+      {
+        "rule": "NP -> ('Guayas', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0196
+      },
+      {
+        "rule": "NP -> ('Los', 'NNP') ('Ríos', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0196
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El presidente"
+      },
+      {
+        "label": "NP",
+        "text": "Ecuador"
+      },
+      {
+        "label": "NP",
+        "text": "Daniel Noboa Azin"
+      },
+      {
+        "label": "NP",
+        "text": "declaró este"
+      },
+      {
+        "label": "VP",
+        "text": "martes un Estado"
+      },
+      {
+        "label": "NP",
+        "text": "un Estado"
+      },
+      {
+        "label": "NP",
+        "text": "Excepción focalizado"
+      },
+      {
+        "label": "NP",
+        "text": "Guayas"
+      },
+      {
+        "label": "NP",
+        "text": "Los Ríos"
+      },
+      {
+        "label": "NP",
+        "text": "Manabí"
+      },
+      {
+        "label": "NP",
+        "text": "Orellana"
+      },
+      {
+        "label": "NP",
+        "text": "Santa Elena"
+      },
+      {
+        "label": "NP",
+        "text": "El Oro y"
+      },
+      {
+        "label": "NP",
+        "text": "cantón Camilo Ponce Enríquez"
+      },
+      {
+        "label": "NP",
+        "text": "Azuay"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP El/NNP presidente/NN)\n  de/FW\n  (NP Ecuador/NNP)\n  ,/,\n  (NP Daniel/NNP Noboa/NNP Azin/NNP)\n  ,/,\n  (NP declaró/NN este/NN)\n  (VP martes/VBZ (NP un/JJ Estado/NNP))\n  de/FW\n  (NP Excepción/NNP focalizado/NN)\n  en/FW\n  las/FW\n  provincias/FW\n  de/FW\n  (NP Guayas/NNP)\n  ,/,\n  (NP Los/NNP Ríos/NNP)\n  ,/,\n  (NP Manabí/NNP)\n  ,/,\n  (NP Orellana/NNP)\n  ,/,\n  (NP Santa/NNP Elena/NNP)\n  ,/,\n  (NP El/NNP Oro/NNP y/NNP)\n  en/FW\n  el/FW\n  (NP cantón/NN Camilo/NNP Ponce/NNP Enríquez/NNP)\n  de/IN\n  la/FW\n  provincia/FW\n  de/FW\n  (NP Azuay/NNP)\n  ./.)",
+      "(S\n  (NP Además/NNP)\n  ,/,\n  (VP\n    se/VBD\n    (NP enfila/JJ hacia/NN la/NN batalla/NN)\n    (NP contra/JJ los/NN conflictos/NN armados/NN que/NN)\n    (NP afectan/JJ estas/NNS áreas/NNS))\n  ,/,\n  en/FW\n  un/FW\n  momento/FW\n  (NP donde/NN la/NN)\n  (NP nación/JJ atraviesa/NN por/NN)\n  (NP una/JJ crisis/NN)\n  de/IN\n  violencia/FW\n  ./.)",
+      "(S\n  (NP “/JJ Fortalecerá/NNP las/NN estrategias/NN)\n  de/IN\n  lucha/FW\n  (ADJP contra/JJ)\n  el/FW\n  (NP crimen/NNS)\n  (VP organizado/VBP (NP y/JJ el/NN terrorismo/NN))\n  ,/,\n  (NP precautelando/NN el/NN bienestar/NN y/NNP la/NNP)\n  seguridad/FW\n  (NP ciudadana/NN ”/NN)\n  ,/,\n  (NP subraya/JJ el/NN documento/NN)\n  ./.)",
+      "(S\n  (NP Por/NNP)\n  otro/MD\n  (VP lado/VB)\n  ,/,\n  el/FW\n  (NP texto/NN detalla/NN que/NN la/NN)\n  decisión/FW\n  viene/FW\n  respaldada/FW\n  de/FW\n  la/FW\n  (NP Asociación/NNP Mundial/NNP)\n  de/FW\n  (NP Juristas/NNP)\n  (/(\n  (NP WJA/NNP)\n  ,/,\n  (NP por/NN sus/NN siglas/NN)\n  (PP en/IN (NP inglés/NN))\n  )/)\n  ./.)",
+      "(S\n  (NP Esta/NNP)\n  organización/MD\n  (VP “/VB)\n  en/FW\n  su/FW\n  calidad/FW\n  de/FW\n  observadora/FW\n  (NP jurídica/NN)\n  elaboró/FW\n  (NP\n    un/JJ\n    informe/NN\n    que/NN\n    concluyó/NN\n    que/NN\n    el/NN\n    documento/NN\n    se/NN\n    ajusta/NN\n    al/NN)\n  (VP marco/VBD (NP constitucional/JJ ”/NN))\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "PAISES",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "GOBIERNOS_OFICIALES",
+      "REGIONES_PROVINCIAS"
+    ],
+    "matches": [
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "declaró",
+        "position": [
+          45,
+          52
+        ],
+        "start": 45,
+        "end": 52
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente de ecuador",
+        "position": [
+          3,
+          24
+        ],
+        "start": 3,
+        "end": 24
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "ecuador",
+        "position": [
+          17,
+          24
+        ],
+        "start": 17,
+        "end": 24
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "estado de",
+        "position": [
+          68,
+          77
+        ],
+        "start": 68,
+        "end": 77
+      }
+    ],
+    "match_count": 4
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Ecuador",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Los Ríos",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Camilo Ponce Enríquez",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Azuay",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Fortalecerá",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Manabí",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Guayas",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Estado de Excepción",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Santa Elena",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Orellana",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Asociación Mundial de Juristas",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Daniel Noboa Azin",
+        "tipo": "Persona"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Ecuador",
+        "relacion": "DECLARAR",
+        "objeto": "Estado de Excepción"
+      },
+      {
+        "sujeto": "Ecuador",
+        "relacion": "DECLARAR",
+        "objeto": "Guayas"
+      },
+      {
+        "sujeto": "Ecuador",
+        "relacion": "DECLARAR",
+        "objeto": "Los Ríos"
+      },
+      {
+        "sujeto": "Ecuador",
+        "relacion": "DECLARAR",
+        "objeto": "Manabí"
+      },
+      {
+        "sujeto": "Ecuador",
+        "relacion": "DECLARAR",
+        "objeto": "Orellana"
+      },
+      {
+        "sujeto": "Ecuador",
+        "relacion": "DECLARAR",
+        "objeto": "Santa Elena"
+      },
+      {
+        "sujeto": "Camilo Ponce Enríquez",
+        "relacion": "DECLARAR",
+        "objeto": "Ecuador"
+      },
+      {
+        "sujeto": "Ecuador",
+        "relacion": "DECLARAR",
+        "objeto": "Azuay"
+      },
+      {
+        "sujeto": "Daniel Noboa Azin",
+        "relacion": "DECLARAR",
+        "objeto": "Estado de Excepción"
+      },
+      {
+        "sujeto": "Daniel Noboa Azin",
+        "relacion": "DECLARAR",
+        "objeto": "Guayas"
+      },
+      {
+        "sujeto": "Daniel Noboa Azin",
+        "relacion": "DECLARAR",
+        "objeto": "Los Ríos"
+      },
+      {
+        "sujeto": "Daniel Noboa Azin",
+        "relacion": "DECLARAR",
+        "objeto": "Manabí"
+      },
+      {
+        "sujeto": "Daniel Noboa Azin",
+        "relacion": "DECLARAR",
+        "objeto": "Orellana"
+      },
+      {
+        "sujeto": "Daniel Noboa Azin",
+        "relacion": "DECLARAR",
+        "objeto": "Santa Elena"
+      },
+      {
+        "sujeto": "Camilo Ponce Enríquez",
+        "relacion": "DECLARAR",
+        "objeto": "Daniel Noboa Azin"
+      },
+      {
+        "sujeto": "Daniel Noboa Azin",
+        "relacion": "DECLARAR",
+        "objeto": "Azuay"
+      },
+      {
+        "sujeto": "Camilo Ponce Enríquez",
+        "relacion": "DECLARAR",
+        "objeto": "Estado de Excepción"
+      },
+      {
+        "sujeto": "Estado de Excepción",
+        "relacion": "DECLARAR",
+        "objeto": "Azuay"
+      },
+      {
+        "sujeto": "Camilo Ponce Enríquez",
+        "relacion": "DECLARAR",
+        "objeto": "Guayas"
+      },
+      {
+        "sujeto": "Guayas",
+        "relacion": "DECLARAR",
+        "objeto": "Azuay"
+      },
+      {
+        "sujeto": "Camilo Ponce Enríquez",
+        "relacion": "DECLARAR",
+        "objeto": "Los Ríos"
+      },
+      {
+        "sujeto": "Los Ríos",
+        "relacion": "DECLARAR",
+        "objeto": "Azuay"
+      },
+      {
+        "sujeto": "Camilo Ponce Enríquez",
+        "relacion": "DECLARAR",
+        "objeto": "Manabí"
+      },
+      {
+        "sujeto": "Manabí",
+        "relacion": "DECLARAR",
+        "objeto": "Azuay"
+      },
+      {
+        "sujeto": "Camilo Ponce Enríquez",
+        "relacion": "DECLARAR",
+        "objeto": "Orellana"
+      },
+      {
+        "sujeto": "Orellana",
+        "relacion": "DECLARAR",
+        "objeto": "Azuay"
+      },
+      {
+        "sujeto": "Camilo Ponce Enríquez",
+        "relacion": "DECLARAR",
+        "objeto": "Santa Elena"
+      },
+      {
+        "sujeto": "Santa Elena",
+        "relacion": "DECLARAR",
+        "objeto": "Azuay"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.6249,
+    "pos": 0.0,
+    "neu": 0.969,
+    "neg": 0.031,
+    "label": "negative"
+  }
+}

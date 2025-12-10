@@ -1,0 +1,736 @@
+{
+  "url": "https://www.telesurtv.net/israel-asesina-a-nueve-palestinos-en-tras-bombardeo-en-gaza/",
+  "title": "Israel asesina a nueve palestinos en tras bombardeo en Gaza - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Bombardeo",
+    "Israel",
+    "Palestina"
+  ],
+  "text": "Fuentes locales y paramédicos reportaron que la artillería israelí atacó una vivienda de la familia Awad en la ciudad de al-Fakhari, al este de Khan Younes.\nEn un nuevo episodio de violencia sionista, al menos nueve palestinos, incluidos dos niños, han muerto debido a los recientes bombardeos del ejército israelí en la Franja de Gaza.\nAviones de combate israelíes también bombardearon una residencia en al-Mawasi, al oeste de Rafah, donde tres civiles perdieron la vida. La escalada de agresiones continuó con un ataque en la zona occidental del campamento de refugiados de Nuseirat, que resultó en la muerte de cuatro civiles y dejó a un niño gravemente herido.\nDesde el inicio de su ofensiva el 7 de octubre, Israel ha intensificado sus ataques en Gaza, con un saldo desgarrador que supera las 41,534 muertes palestinas y más de 96,092 heridos. Según informes de organizaciones palestinas y de derechos humanos, una parte significativa de las víctimas son mujeres y niños.\nA pesar de las advertencias de la Corte Internacional de Justicia (CIJ), que instó a Israel a detener su ofensiva en Rafah por considerarse una posible violación de la Convención contra el Genocidio, el gobierno israelí ha continuado su campaña militar, ignorando las normativas internacionales.\nAdemás, la crisis humanitaria se agrava a medida que se reporta que al menos 10,000 personas permanecen desaparecidas, presuntamente atrapadas bajo los escombros de sus hogares.\nLa agresión israelí ha forzado el desplazamiento de casi dos millones de palestinos, principalmente hacia la ciudad sureña de Rafah, concretando así uno de los éxodos más significativos desde la Nakba de 1948.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/israel-asesina-a-nueve-palestinos-en-tras-bombardeo-en-gaza/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-09.json",
+    "message_index": 183,
+    "message_id": 77253,
+    "date": "2024-09-28T04:55:13+00:00",
+    "text": "teleSUR\nIsrael asesina a nueve palestinos en tras bombardeo en Gaza\nhttps://www.telesurtv.net/israel-asesina-a-nueve-palestinos-en-tras-bombardeo-en-gaza/",
+    "photo_path": null,
+    "views": 2293,
+    "reactions": {
+      "🤬": 46,
+      "😢": 11,
+      "👎": 3
+    },
+    "total_reactions": 60
+  },
+  "preprocessing": {
+    "cleaned": "fuentes locales y paramédicos reportaron que la artillería israelí atacó una vivienda de la familia awad en la ciudad de al-fakhari, al este de khan younes. en un nuevo episodio de violencia sionista, al menos nueve palestinos, incluidos dos niños, han muerto debido a los recientes bombardeos del ejército israelí en la franja de gaza. aviones de combate israelíes también bombardearon una residencia en al-mawasi, al oeste de rafah, donde tres civiles perdieron la vida. la escalada de agresiones continuó con un ataque en la zona occidental del campamento de refugiados de nuseirat, que resultó en la muerte de cuatro civiles y dejó a un niño gravemente herido. desde el inicio de su ofensiva el 7 de octubre, israel ha intensificado sus ataques en gaza, con un saldo desgarrador que supera las 41,534 muertes palestinas y más de 96,092 heridos. según informes de organizaciones palestinas y de derechos humanos, una parte significativa de las víctimas son mujeres y niños. a pesar de las advertencias de la corte internacional de justicia (cij), que instó a israel a detener su ofensiva en rafah por considerarse una posible violación de la convención contra el genocidio, el gobierno israelí ha continuado su campaña militar, ignorando las normativas internacionales. además, la crisis humanitaria se agrava a medida que se reporta que al menos 10,000 personas permanecen desaparecidas, presuntamente atrapadas bajo los escombros de sus hogares. la agresión israelí ha forzado el desplazamiento de casi dos millones de palestinos, principalmente hacia la ciudad sureña de rafah, concretando así uno de los éxodos más significativos desde la nakba de 1948.",
+    "tokens": [
+      "fuentes",
+      "locales",
+      "paramédicos",
+      "reportaron",
+      "artillería",
+      "israelí",
+      "atacó",
+      "vivienda",
+      "familia",
+      "awad",
+      "ciudad",
+      "al-fakhari",
+      ",",
+      "khan",
+      "younes",
+      ".",
+      "nuevo",
+      "episodio",
+      "violencia",
+      "sionista",
+      ",",
+      "menos",
+      "nueve",
+      "palestinos",
+      ",",
+      "incluidos",
+      "dos",
+      "niños",
+      ",",
+      "muerto",
+      "debido",
+      "recientes",
+      "bombardeos",
+      "ejército",
+      "israelí",
+      "franja",
+      "gaza",
+      ".",
+      "aviones",
+      "combate",
+      "israelíes",
+      "bombardearon",
+      "residencia",
+      "al-mawasi",
+      ",",
+      "oeste",
+      "rafah",
+      ",",
+      "tres",
+      "civiles",
+      "perdieron",
+      "vida",
+      ".",
+      "escalada",
+      "agresiones",
+      "continuó",
+      "ataque",
+      "zona",
+      "occidental",
+      "campamento",
+      "refugiados",
+      "nuseirat",
+      ",",
+      "resultó",
+      "muerte",
+      "cuatro",
+      "civiles",
+      "dejó",
+      "niño",
+      "gravemente",
+      "herido",
+      ".",
+      "inicio",
+      "ofensiva",
+      "7",
+      "octubre",
+      ",",
+      "israel",
+      "intensificado",
+      "ataques",
+      "gaza",
+      ",",
+      "saldo",
+      "desgarrador",
+      "supera",
+      "41,534",
+      "muertes",
+      "palestinas",
+      "96,092",
+      "heridos",
+      ".",
+      "según",
+      "informes",
+      "organizaciones",
+      "palestinas",
+      "derechos",
+      "humanos",
+      ",",
+      "parte",
+      "significativa",
+      "víctimas",
+      "mujeres",
+      "niños",
+      ".",
+      "pesar",
+      "advertencias",
+      "corte",
+      "internacional",
+      "justicia",
+      "(",
+      "cij",
+      ")",
+      ",",
+      "instó",
+      "israel",
+      "detener",
+      "ofensiva",
+      "rafah",
+      "considerarse",
+      "posible",
+      "violación",
+      "convención",
+      "genocidio",
+      ",",
+      "gobierno",
+      "israelí",
+      "continuado",
+      "campaña",
+      "militar",
+      ",",
+      "ignorando",
+      "normativas",
+      "internacionales",
+      ".",
+      "además",
+      ",",
+      "crisis",
+      "humanitaria",
+      "agrava",
+      "medida",
+      "reporta",
+      "menos",
+      "10,000",
+      "personas",
+      "permanecen",
+      "desaparecidas",
+      ",",
+      "presuntamente",
+      "atrapadas",
+      "bajo",
+      "escombros",
+      "hogares",
+      ".",
+      "agresión",
+      "israelí",
+      "forzado",
+      "desplazamiento",
+      "casi",
+      "dos",
+      "millones",
+      "palestinos",
+      ",",
+      "principalmente",
+      "hacia",
+      "ciudad",
+      "sureña",
+      "rafah",
+      ",",
+      "concretando",
+      "así",
+      "éxodos",
+      "significativos",
+      "nakba",
+      "1948",
+      "."
+    ],
+    "token_count": 175,
+    "sentence_count": 9
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNS": 14,
+      "VBP": 7,
+      "NN": 84,
+      "IN": 16,
+      "JJ": 29,
+      "FW": 63,
+      "NNP": 27,
+      "VBZ": 5,
+      "CD": 4,
+      "VBD": 1,
+      "$": 1
+    },
+    "bigram_freq": {
+      "NNS-NNS": 1,
+      "NNS-VBP": 5,
+      "VBP-NN": 1,
+      "NN-NN": 50,
+      "NN-IN": 14,
+      "IN-JJ": 3,
+      "JJ-NN": 17,
+      "NN-JJ": 4,
+      "IN-FW": 9,
+      "FW-JJ": 5,
+      "JJ-NNP": 2,
+      "NNP-FW": 6,
+      "FW-FW": 39,
+      "JJ-JJ": 6,
+      "IN-NNP": 2,
+      "NNP-NNP": 5,
+      "NNP-JJ": 1,
+      "NN-NNS": 4,
+      "VBP-JJ": 5,
+      "NN-VBZ": 3,
+      "VBZ-JJ": 2,
+      "FW-NNP": 12,
+      "FW-NN": 3,
+      "NNP-NN": 12,
+      "NNS-VBZ": 1,
+      "VBZ-VBP": 1,
+      "VBP-FW": 1,
+      "FW-NNS": 4,
+      "NN-FW": 5,
+      "NN-NNP": 3,
+      "VBZ-CD": 1,
+      "CD-NNS": 2,
+      "NNS-JJ": 3,
+      "IN-CD": 2,
+      "NNS-NNP": 3,
+      "NNP-VBZ": 1,
+      "VBZ-FW": 1,
+      "JJ-FW": 2,
+      "JJ-NNS": 2,
+      "NN-VBD": 1,
+      "VBD-$": 1,
+      "$-CD": 1,
+      "CD-NN": 1,
+      "NNP-VBP": 1,
+      "NNS-IN": 1,
+      "NNP-IN": 1
+    },
+    "trigram_freq": {
+      "NNS-NNS-VBP": 1,
+      "NNS-VBP-NN": 1,
+      "VBP-NN-NN": 1,
+      "NN-NN-NN": 31,
+      "NN-NN-IN": 5,
+      "NN-IN-JJ": 3,
+      "IN-JJ-NN": 1,
+      "JJ-NN-JJ": 1,
+      "NN-JJ-NN": 3,
+      "JJ-NN-IN": 9,
+      "NN-IN-FW": 8,
+      "IN-FW-JJ": 2,
+      "FW-JJ-NNP": 1,
+      "JJ-NNP-FW": 1,
+      "NNP-FW-FW": 3,
+      "FW-FW-FW": 25,
+      "FW-FW-JJ": 3,
+      "FW-JJ-JJ": 1,
+      "JJ-JJ-NN": 5,
+      "NN-IN-NNP": 2,
+      "IN-NNP-NNP": 1,
+      "NNP-NNP-NNP": 1,
+      "NNP-NNP-JJ": 1,
+      "NNP-JJ-JJ": 1,
+      "FW-JJ-NN": 2,
+      "JJ-NN-NNS": 1,
+      "NN-NNS-VBP": 1,
+      "NNS-VBP-JJ": 4,
+      "VBP-JJ-NN": 3,
+      "JJ-NN-NN": 6,
+      "NN-NN-VBZ": 3,
+      "NN-VBZ-JJ": 2,
+      "VBZ-JJ-NN": 1,
+      "IN-FW-NNP": 3,
+      "FW-NNP-FW": 2,
+      "NNP-FW-NNP": 2,
+      "FW-NNP-NNP": 3,
+      "NNP-NNP-FW": 2,
+      "NNP-FW-NN": 1,
+      "FW-NN-NN": 1,
+      "NN-NN-JJ": 2,
+      "IN-JJ-JJ": 2,
+      "IN-NNP-NN": 1,
+      "NNP-NN-NNS": 1,
+      "NN-NNS-VBZ": 1,
+      "NNS-VBZ-VBP": 1,
+      "VBZ-VBP-FW": 1,
+      "VBP-FW-FW": 1,
+      "FW-FW-NNP": 6,
+      "FW-FW-NNS": 4,
+      "FW-NNS-VBP": 3,
+      "IN-FW-FW": 4,
+      "NN-NN-FW": 4,
+      "NN-FW-FW": 3,
+      "FW-NNP-NN": 6,
+      "NNP-NN-NN": 10,
+      "VBP-JJ-JJ": 1,
+      "NN-NN-NNP": 3,
+      "NN-NNP-FW": 1,
+      "VBZ-JJ-NNP": 1,
+      "JJ-NNP-NN": 1,
+      "NNP-NN-JJ": 1,
+      "NN-VBZ-CD": 1,
+      "VBZ-CD-NNS": 1,
+      "CD-NNS-JJ": 1,
+      "NNS-JJ-NN": 2,
+      "NN-IN-CD": 1,
+      "IN-CD-NNS": 1,
+      "CD-NNS-NNP": 1,
+      "NNS-NNP-VBZ": 1,
+      "NNP-VBZ-FW": 1,
+      "VBZ-FW-FW": 1,
+      "VBP-JJ-FW": 1,
+      "JJ-FW-FW": 2,
+      "FW-FW-NN": 1,
+      "FW-NN-NNS": 1,
+      "NN-NNS-JJ": 2,
+      "NNP-NNP-NN": 1,
+      "NN-NNP-NN": 2,
+      "NN-JJ-JJ": 1,
+      "NN-NN-NNS": 1,
+      "NNS-JJ-NNS": 1,
+      "JJ-NNS-NNP": 1,
+      "NNS-NNP-NN": 1,
+      "NN-NN-VBD": 1,
+      "NN-VBD-$": 1,
+      "VBD-$-CD": 1,
+      "$-CD-NN": 1,
+      "CD-NN-NN": 1,
+      "JJ-JJ-FW": 1,
+      "FW-NNS-NNP": 1,
+      "NNS-NNP-VBP": 1,
+      "NNP-VBP-JJ": 1,
+      "NN-FW-NN": 1,
+      "FW-NN-FW": 1,
+      "FW-JJ-NNS": 1,
+      "JJ-NNS-IN": 1,
+      "NNS-IN-FW": 1,
+      "NN-FW-NNP": 1,
+      "FW-NNP-IN": 1,
+      "NNP-IN-CD": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 84,
+        "FW": 63,
+        "JJ": 29,
+        "NNP": 27,
+        "IN": 16
+      },
+      "top_bigrams": {
+        "NN-NN": 50,
+        "FW-FW": 39,
+        "JJ-NN": 17,
+        "NN-IN": 14,
+        "FW-NNP": 12
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 31,
+        "FW-FW-FW": 25,
+        "NNP-NN-NN": 10,
+        "JJ-NN-IN": 9,
+        "NN-IN-FW": 8
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 9,
+    "chunk_counts": {
+      "NP": 78,
+      "VP": 21,
+      "PP": 6,
+      "ADJP": 2
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 4,
+        "weight": 0.0345
+      },
+      {
+        "rule": "NP -> ('Gaza', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0172
+      },
+      {
+        "rule": "NP -> ('Rafah', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0172
+      },
+      {
+        "rule": "NP -> ('La', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0172
+      },
+      {
+        "rule": "S -> NP ('y', 'RB') VP PP NP ('de', 'IN') ('la', 'FW') NP ('en', 'FW') ('la', 'FW') ('ciudad', 'FW') ('de', 'FW') ('al-Fakhari', 'FW') (',', ',') NP PP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0086
+      },
+      {
+        "rule": "NP -> ('Fuentes', 'NNS') ('locales', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0086
+      },
+      {
+        "rule": "VP -> ('paramédicos', 'VBP') NP",
+        "frequency": 1,
+        "weight": 0.0086
+      },
+      {
+        "rule": "NP -> ('reportaron', 'NN') ('que', 'NN') ('la', 'NN')",
+        "frequency": 1,
+        "weight": 0.0086
+      },
+      {
+        "rule": "PP -> ('artillería', 'IN') NP",
+        "frequency": 1,
+        "weight": 0.0086
+      },
+      {
+        "rule": "NP -> ('israelí', 'JJ') ('atacó', 'NN')",
+        "frequency": 1,
+        "weight": 0.0086
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Fuentes locales"
+      },
+      {
+        "label": "VP",
+        "text": "paramédicos reportaron que la"
+      },
+      {
+        "label": "NP",
+        "text": "reportaron que la"
+      },
+      {
+        "label": "PP",
+        "text": "artillería israelí atacó"
+      },
+      {
+        "label": "NP",
+        "text": "israelí atacó"
+      },
+      {
+        "label": "NP",
+        "text": "una vivienda"
+      },
+      {
+        "label": "NP",
+        "text": "familia Awad"
+      },
+      {
+        "label": "NP",
+        "text": "al este"
+      },
+      {
+        "label": "PP",
+        "text": "de Khan Younes"
+      },
+      {
+        "label": "NP",
+        "text": "Khan Younes"
+      },
+      {
+        "label": "NP",
+        "text": "En"
+      },
+      {
+        "label": "NP",
+        "text": "un nuevo episodio"
+      },
+      {
+        "label": "NP",
+        "text": "sionista"
+      },
+      {
+        "label": "NP",
+        "text": "al menos"
+      },
+      {
+        "label": "VP",
+        "text": "nueve palestinos"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Fuentes/NNS locales/NNS)\n  y/RB\n  (VP paramédicos/VBP (NP reportaron/NN que/NN la/NN))\n  (PP artillería/IN (NP israelí/JJ atacó/NN))\n  (NP una/JJ vivienda/NN)\n  de/IN\n  la/FW\n  (NP familia/JJ Awad/NNP)\n  en/FW\n  la/FW\n  ciudad/FW\n  de/FW\n  al-Fakhari/FW\n  ,/,\n  (NP al/JJ este/NN)\n  (PP de/IN (NP Khan/NNP Younes/NNP))\n  ./.)",
+      "(S\n  (NP En/NNP)\n  (NP un/JJ nuevo/JJ episodio/NN)\n  de/IN\n  violencia/FW\n  (NP sionista/NN)\n  ,/,\n  (NP al/JJ menos/NNS)\n  (VP nueve/VBP (NP palestinos/NN))\n  ,/,\n  (NP incluidos/JJ dos/NN niños/NN)\n  ,/,\n  (NP han/NN muerto/NN)\n  (VP debido/VBZ (NP a/DT los/NN))\n  (VP recientes/VBZ (NP bombardeos/JJ del/NN ejército/NN israelí/NN))\n  en/IN\n  la/FW\n  (NP Franja/NNP)\n  de/FW\n  (NP Gaza/NNP)\n  ./.)",
+      "(S\n  (NP Aviones/NNS)\n  de/FW\n  (VP combate/VBP (NP israelíes/NNS))\n  (VP también/VBP (NP bombardearon/NN) (NP una/JJ residencia/NN))\n  en/IN\n  (ADJP al-Mawasi/JJ)\n  ,/,\n  (NP al/JJ oeste/NN)\n  (PP de/IN (NP Rafah/NNP))\n  ,/,\n  (NP donde/NN tres/NNS)\n  (VP civiles/VBZ)\n  (VP perdieron/VBP (NP la/NN vida/NN))\n  ./.)",
+      "(S\n  (NP La/NNP)\n  escalada/FW\n  de/FW\n  agresiones/FW\n  (NP continuó/NNS)\n  (VP con/VBP (NP un/JJ ataque/NN))\n  en/IN\n  la/FW\n  zona/FW\n  (NP occidental/JJ del/NN campamento/NN)\n  de/FW\n  refugiados/FW\n  de/FW\n  (NP Nuseirat/NNP)\n  ,/,\n  (NP que/NN resultó/NN)\n  en/IN\n  la/FW\n  muerte/FW\n  de/FW\n  cuatro/FW\n  (NP civiles/NNS)\n  (VP y/VBP)\n  (VP dejó/VB (NP a/DT un/JJ niño/NN gravemente/NN herido/NN))\n  ./.)",
+      "(S\n  (NP Desde/NNP)\n  el/CC\n  inicio/FW\n  de/FW\n  su/FW\n  ofensiva/FW\n  el/FW\n  7/CD\n  de/FW\n  octubre/FW\n  ,/,\n  (NP Israel/NNP)\n  (VP ha/VBD (NP intensificado/JJ sus/NN ataques/NNS))\n  (PP en/IN (NP Gaza/NNP))\n  ,/,\n  (NP con/NN)\n  (NP un/JJ saldo/NN desgarrador/NN que/NN supera/NN)\n  (VP las/VBZ)\n  41,534/CD\n  (NP muertes/NNS)\n  (NP palestinas/JJ y/JJ más/NN)\n  de/IN\n  96,092/CD\n  (NP heridos/NNS)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "GRUPOS_ESPECIFICOS",
+      "CANTIDADES_NUMERICAS",
+      "REGIONES_PROVINCIAS",
+      "JUSTICIA_SOCIAL",
+      "PAISES",
+      "CONFLICTOS_ARMADOS_OPERACIONES"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "ofensiva en rafah por considerarse una posible violación de la convención contra el genocidio, el gobierno israelí ha continuado su campaña militar",
+        "position": [
+          1082,
+          1229
+        ],
+        "start": 1082,
+        "end": 1229
+      },
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "atacó",
+        "position": [
+          67,
+          72
+        ],
+        "start": 67,
+        "end": 72
+      },
+      {
+        "category": "GRUPOS_ESPECIFICOS",
+        "matched_text": "mujeres",
+        "position": [
+          960,
+          967
+        ],
+        "start": 960,
+        "end": 967
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "israelí",
+        "position": [
+          59,
+          66
+        ],
+        "start": 59,
+        "end": 66
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "zona occidental",
+        "position": [
+          528,
+          543
+        ],
+        "start": 528,
+        "end": 543
+      },
+      {
+        "category": "JUSTICIA_SOCIAL",
+        "matched_text": "derechos humanos",
+        "position": [
+          898,
+          914
+        ],
+        "start": 898,
+        "end": 914
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "000 personas",
+        "position": [
+          1353,
+          1365
+        ],
+        "start": 1353,
+        "end": 1365
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "10,000 personas",
+        "position": [
+          1350,
+          1365
+        ],
+        "start": 1350,
+        "end": 1365
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "más de 96",
+        "position": [
+          826,
+          835
+        ],
+        "start": 826,
+        "end": 835
+      }
+    ],
+    "match_count": 9
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Franja de Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "CIJ",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Corte Internacional de Justicia",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Awad",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Genocidio",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Rafah",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Israel",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "al-Mawasi",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Nuseirat",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "al-Fakhari",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Convención",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Khan Younes",
+        "tipo": "Persona"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Awad",
+        "relacion": "ATACAR_REPORTAR",
+        "objeto": "al-Fakhari"
+      },
+      {
+        "sujeto": "Awad",
+        "relacion": "ATACAR_REPORTAR",
+        "objeto": "Khan Younes"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "INTENSIFICAR",
+        "objeto": "Gaza"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "INSTAR_CONTINUAR",
+        "objeto": "Rafah"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "INSTAR_CONTINUAR",
+        "objeto": "Convención"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "INSTAR_CONTINUAR",
+        "objeto": "Genocidio"
+      },
+      {
+        "sujeto": "Rafah",
+        "relacion": "DETENER_INSTAR_CONTINUAR",
+        "objeto": "Convención"
+      },
+      {
+        "sujeto": "Rafah",
+        "relacion": "DETENER_INSTAR_CONTINUAR",
+        "objeto": "Genocidio"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.2732,
+    "pos": 0.028,
+    "neu": 0.956,
+    "neg": 0.016,
+    "label": "positive"
+  }
+}

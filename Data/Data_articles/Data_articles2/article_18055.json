@@ -1,0 +1,525 @@
+{
+  "url": "https://www.telesurtv.net/justicia-britanica-sentencia-a-otro-hombre-por-los-desordenes-violentos-racistas/",
+  "title": "Justicia británica sentencia a otro hombre por los desórdenes violentos racistas - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "desorden violento",
+    "Justicia británica",
+    "Reino Unido",
+    "Sentencia"
+  ],
+  "text": "La justicia británica sentenció a otro hombre a 32 meses de prisión por desorden violento durante los disturbios antiinmigrantes en Plymouth, Reino Unido, el lunes.\nEl juez Robert Linford al sentenciar a Michael Williams y a un segundo acusado en el tribunal de la corona de Plymouth el jueves, expresó que “matones como usted… andaban fuera de control”.\nEste fue visto “peleando y pateando a otro hombre”. Además, cuando fue arrestado le encontraron una piedra en sus pantalones de jogging.\nEn un video reproducido en el tribunal, Williams manifestó “Alá, Alá, ¿quién diablos es Alá?” después de su arresto e insultó repetidamente a la policía.\nEl imputado de 51 años se declaró culpable el miércoles por el cargo de desorden violento.\nPreviamente, dos hombres fueron sentenciados en Liverpool por su participación en lo que el juez llamó “una turba completamente sin ley”.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/justicia-britanica-sentencia-a-otro-hombre-por-los-desordenes-violentos-racistas/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-08.json",
+    "message_index": 1282,
+    "message_id": 74198,
+    "date": "2024-08-08T17:55:19+00:00",
+    "text": "teleSUR\nJusticia británica sentencia a otro hombre por los  desórdenes violentos racistas\nhttps://www.telesurtv.net/justicia-britanica-sentencia-a-otro-hombre-por-los-desordenes-violentos-racistas/",
+    "photo_path": null,
+    "views": 2344,
+    "reactions": {
+      "👍": 25,
+      "👎": 4
+    },
+    "total_reactions": 29
+  },
+  "preprocessing": {
+    "cleaned": "la justicia británica sentenció a otro hombre a 32 meses de prisión por desorden violento durante los disturbios antiinmigrantes en plymouth, reino unido, el lunes. el juez robert linford al sentenciar a michael williams y a un segundo acusado en el tribunal de la corona de plymouth el jueves, expresó que “matones como usted… andaban fuera de control”. este fue visto “peleando y pateando a otro hombre”. además, cuando fue arrestado le encontraron una piedra en sus pantalones de jogging. en un video reproducido en el tribunal, williams manifestó “alá, alá, ¿quién diablos es alá?” después de su arresto e insultó repetidamente a la policía. el imputado de 51 años se declaró culpable el miércoles por el cargo de desorden violento. previamente, dos hombres fueron sentenciados en liverpool por su participación en lo que el juez llamó “una turba completamente sin ley”.",
+    "tokens": [
+      "justicia",
+      "británica",
+      "sentenció",
+      "hombre",
+      "32",
+      "meses",
+      "prisión",
+      "desorden",
+      "violento",
+      "disturbios",
+      "antiinmigrantes",
+      "plymouth",
+      ",",
+      "reino",
+      "unido",
+      ",",
+      "lunes",
+      ".",
+      "juez",
+      "robert",
+      "linford",
+      "sentenciar",
+      "michael",
+      "williams",
+      "segundo",
+      "acusado",
+      "tribunal",
+      "corona",
+      "plymouth",
+      "jueves",
+      ",",
+      "expresó",
+      "“",
+      "matones",
+      "usted…",
+      "andaban",
+      "control",
+      "”",
+      ".",
+      "visto",
+      "“",
+      "peleando",
+      "pateando",
+      "hombre",
+      "”",
+      ".",
+      "además",
+      ",",
+      "arrestado",
+      "encontraron",
+      "piedra",
+      "pantalones",
+      "jogging",
+      ".",
+      "video",
+      "reproducido",
+      "tribunal",
+      ",",
+      "williams",
+      "manifestó",
+      "“",
+      "alá",
+      ",",
+      "alá",
+      ",",
+      "¿quién",
+      "diablos",
+      "alá",
+      "?",
+      "”",
+      "después",
+      "arresto",
+      "insultó",
+      "repetidamente",
+      "policía",
+      ".",
+      "imputado",
+      "51",
+      "años",
+      "declaró",
+      "culpable",
+      "miércoles",
+      "cargo",
+      "desorden",
+      "violento",
+      ".",
+      "previamente",
+      ",",
+      "dos",
+      "hombres",
+      "sentenciados",
+      "liverpool",
+      "participación",
+      "juez",
+      "llamó",
+      "“",
+      "turba",
+      "completamente",
+      "ley",
+      "”",
+      "."
+    ],
+    "token_count": 101,
+    "sentence_count": 7
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 21,
+      "NN": 40,
+      "VBP": 6,
+      "$": 1,
+      "CD": 2,
+      "NNS": 8,
+      "FW": 25,
+      "VBZ": 4,
+      "IN": 9,
+      "JJ": 16,
+      "VBG": 1
+    },
+    "bigram_freq": {
+      "NNP-NN": 9,
+      "NN-NN": 17,
+      "NN-VBP": 1,
+      "VBP-$": 1,
+      "$-CD": 1,
+      "CD-NNS": 2,
+      "NNS-FW": 1,
+      "FW-FW": 18,
+      "FW-NNS": 1,
+      "NNS-VBZ": 1,
+      "VBZ-IN": 1,
+      "IN-NNP": 2,
+      "NNP-NNP": 6,
+      "NNP-VBP": 2,
+      "VBP-NNS": 2,
+      "NNS-NNP": 1,
+      "NN-NNP": 5,
+      "NNP-VBZ": 2,
+      "VBZ-JJ": 2,
+      "JJ-NNP": 2,
+      "NNP-JJ": 2,
+      "JJ-NN": 10,
+      "NN-IN": 7,
+      "IN-JJ": 2,
+      "JJ-JJ": 2,
+      "JJ-FW": 1,
+      "FW-NNP": 3,
+      "NNS-VBP": 3,
+      "VBP-JJ": 3,
+      "JJ-NNS": 1,
+      "IN-NN": 2,
+      "VBZ-FW": 1,
+      "FW-NN": 2,
+      "NN-JJ": 3,
+      "NN-NNS": 2,
+      "NNS-IN": 1,
+      "IN-VBG": 1,
+      "VBG-NNP": 1,
+      "NN-FW": 3,
+      "FW-JJ": 1,
+      "IN-CD": 1,
+      "NNS-JJ": 1,
+      "IN-FW": 1,
+      "NN-VBZ": 1
+    },
+    "trigram_freq": {
+      "NNP-NN-NN": 4,
+      "NN-NN-NN": 9,
+      "NN-NN-VBP": 1,
+      "NN-VBP-$": 1,
+      "VBP-$-CD": 1,
+      "$-CD-NNS": 1,
+      "CD-NNS-FW": 1,
+      "NNS-FW-FW": 1,
+      "FW-FW-FW": 11,
+      "FW-FW-NNS": 1,
+      "FW-NNS-VBZ": 1,
+      "NNS-VBZ-IN": 1,
+      "VBZ-IN-NNP": 1,
+      "IN-NNP-NNP": 1,
+      "NNP-NNP-NNP": 2,
+      "NNP-NNP-VBP": 1,
+      "NNP-VBP-NNS": 2,
+      "VBP-NNS-NNP": 1,
+      "NNS-NNP-NN": 1,
+      "NNP-NN-NNP": 2,
+      "NN-NNP-NNP": 2,
+      "NNP-NNP-VBZ": 1,
+      "NNP-VBZ-JJ": 1,
+      "VBZ-JJ-NNP": 1,
+      "JJ-NNP-NNP": 1,
+      "NNP-NNP-JJ": 1,
+      "NNP-JJ-NN": 2,
+      "JJ-NN-NN": 4,
+      "NN-NN-IN": 2,
+      "NN-IN-JJ": 2,
+      "IN-JJ-JJ": 1,
+      "JJ-JJ-FW": 1,
+      "JJ-FW-FW": 1,
+      "FW-FW-NNP": 3,
+      "FW-NNP-VBP": 1,
+      "VBP-NNS-VBP": 1,
+      "NNS-VBP-JJ": 3,
+      "VBP-JJ-NNS": 1,
+      "JJ-NNS-VBP": 1,
+      "VBP-JJ-JJ": 1,
+      "JJ-JJ-NN": 1,
+      "JJ-NN-IN": 4,
+      "NN-IN-NN": 2,
+      "IN-NN-NNP": 1,
+      "NN-NNP-VBZ": 1,
+      "NNP-VBZ-FW": 1,
+      "VBZ-FW-FW": 1,
+      "FW-FW-NN": 2,
+      "FW-NN-NNP": 1,
+      "NN-NNP-NN": 2,
+      "NN-NN-JJ": 2,
+      "NN-JJ-NN": 3,
+      "IN-NN-NNS": 1,
+      "NN-NNS-IN": 1,
+      "NNS-IN-VBG": 1,
+      "IN-VBG-NNP": 1,
+      "VBG-NNP-JJ": 1,
+      "NN-NN-FW": 1,
+      "NN-FW-FW": 3,
+      "FW-FW-JJ": 1,
+      "FW-JJ-NNP": 1,
+      "JJ-NNP-NN": 1,
+      "NNP-NNP-NN": 1,
+      "NN-NN-NNP": 1,
+      "NNP-NN-FW": 1,
+      "FW-NN-FW": 1,
+      "FW-NNP-NN": 2,
+      "NNP-NN-IN": 1,
+      "NN-IN-CD": 1,
+      "IN-CD-NNS": 1,
+      "CD-NNS-JJ": 1,
+      "NNS-JJ-NN": 1,
+      "JJ-NN-JJ": 1,
+      "JJ-NN-NNS": 1,
+      "NN-NNS-VBP": 1,
+      "VBP-JJ-NN": 1,
+      "NN-IN-FW": 1,
+      "IN-FW-FW": 1,
+      "NNP-NN-VBZ": 1,
+      "NN-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 1,
+      "NN-IN-NNP": 1,
+      "IN-NNP-NN": 1,
+      "IN-JJ-NN": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 40,
+        "FW": 25,
+        "NNP": 21,
+        "JJ": 16,
+        "IN": 9
+      },
+      "top_bigrams": {
+        "FW-FW": 18,
+        "NN-NN": 17,
+        "JJ-NN": 10,
+        "NNP-NN": 9,
+        "NN-IN": 7
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 11,
+        "NN-NN-NN": 9,
+        "NNP-NN-NN": 4,
+        "JJ-NN-NN": 4,
+        "JJ-NN-IN": 4
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 7,
+    "chunk_counts": {
+      "NP": 44,
+      "VP": 13,
+      "PP": 5,
+      "ADJP": 2
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 3,
+        "weight": 0.0423
+      },
+      {
+        "rule": "NP -> ('Plymouth', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0282
+      },
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0282
+      },
+      {
+        "rule": "S -> NP VP ('a', 'DT') ('32', 'CD') NP ('de', 'FW') ('prisión', 'FW') ('por', 'FW') ('desorden', 'FW') ('violento', 'FW') ('durante', 'FW') ('los', 'FW') NP VP PP (',', ',') NP (',', ',') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0141
+      },
+      {
+        "rule": "NP -> ('La', 'NNP') ('justicia', 'NN') ('británica', 'NN')",
+        "frequency": 1,
+        "weight": 0.0141
+      },
+      {
+        "rule": "VP -> ('sentenció', 'VBD') NP",
+        "frequency": 1,
+        "weight": 0.0141
+      },
+      {
+        "rule": "NP -> ('a', 'DT') ('otro', 'JJ') ('hombre', 'NN')",
+        "frequency": 1,
+        "weight": 0.0141
+      },
+      {
+        "rule": "NP -> ('meses', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0141
+      },
+      {
+        "rule": "NP -> ('disturbios', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0141
+      },
+      {
+        "rule": "VP -> ('antiinmigrantes', 'VBZ')",
+        "frequency": 1,
+        "weight": 0.0141
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "La justicia británica"
+      },
+      {
+        "label": "VP",
+        "text": "sentenció a otro hombre"
+      },
+      {
+        "label": "NP",
+        "text": "a otro hombre"
+      },
+      {
+        "label": "NP",
+        "text": "meses"
+      },
+      {
+        "label": "NP",
+        "text": "disturbios"
+      },
+      {
+        "label": "VP",
+        "text": "antiinmigrantes"
+      },
+      {
+        "label": "PP",
+        "text": "en Plymouth"
+      },
+      {
+        "label": "NP",
+        "text": "Plymouth"
+      },
+      {
+        "label": "NP",
+        "text": "Reino Unido"
+      },
+      {
+        "label": "NP",
+        "text": "el lunes"
+      },
+      {
+        "label": "NP",
+        "text": "El juez Robert Linford"
+      },
+      {
+        "label": "VP",
+        "text": "al"
+      },
+      {
+        "label": "VP",
+        "text": "sentenciar a Michael Williams"
+      },
+      {
+        "label": "NP",
+        "text": "a Michael Williams"
+      },
+      {
+        "label": "VP",
+        "text": "y a un segundo acusado"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP La/NNP justicia/NN británica/NN)\n  (VP sentenció/VBD (NP a/DT otro/JJ hombre/NN))\n  a/DT\n  32/CD\n  (NP meses/NNS)\n  de/FW\n  prisión/FW\n  por/FW\n  desorden/FW\n  violento/FW\n  durante/FW\n  los/FW\n  (NP disturbios/NNS)\n  (VP antiinmigrantes/VBZ)\n  (PP en/IN (NP Plymouth/NNP))\n  ,/,\n  (NP Reino/NNP Unido/NNP)\n  ,/,\n  (NP el/JJ lunes/NNS)\n  ./.)",
+      "(S\n  (NP El/NNP juez/NN Robert/NNP Linford/NNP)\n  (VP al/VBZ)\n  (VP sentenciar/VB (NP a/DT Michael/NNP Williams/NNP))\n  (VP y/VBZ (NP a/DT un/JJ segundo/NN acusado/NN))\n  en/IN\n  (ADJP el/JJ)\n  (ADJP tribunal/JJ)\n  de/FW\n  la/FW\n  corona/FW\n  de/FW\n  (NP Plymouth/NNP)\n  el/FW\n  (NP jueves/NNS)\n  ,/,\n  (VP expresó/VBP (NP que/JJ “/NNP matones/NNS))\n  (VP como/VBP (NP usted…/JJ andaban/JJ fuera/NN))\n  (PP de/IN (NP control/NN ”/NN))\n  ./.)",
+      "(S\n  (NP Este/NN fue/NN visto/NN “/NNP peleando/NN y/NN)\n  (VP pateando/VBZ (NP a/DT otro/JJ hombre/NN ”/NN))\n  ./.)",
+      "(S\n  (NP Además/NNP)\n  ,/,\n  (NP cuando/NN fue/NN arrestado/NN le/NN encontraron/NN)\n  (NP una/JJ piedra/NN)\n  (PP en/IN (NP sus/NN pantalones/NNS))\n  (PP de/IN (NP jogging/NN))\n  ./.)",
+      "(S\n  (NP En/NNP)\n  (NP un/JJ video/NN reproducido/NN)\n  en/FW\n  el/FW\n  (NP tribunal/NN)\n  ,/,\n  (NP Williams/NNP)\n  (VP manifestó/VBP (NP “/NNP Alá/NNP))\n  ,/,\n  (NP Alá/NNP)\n  ,/,\n  (NP ¿quién/NNP)\n  (VP diablos/VBZ (NP es/JJ Alá/NNP))\n  ?/.\n  (NP ”/JJ después/NN)\n  de/IN\n  su/FW\n  (NP arresto/JJ e/NN insultó/NN)\n  (VP repetidamente/VBZ (NP a/DT la/NN policía/NN))\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "PROTESTAS_CONFLICTOS_SOCIALES"
+    ],
+    "matches": [
+      {
+        "category": "PROTESTAS_CONFLICTOS_SOCIALES",
+        "matched_text": "manifestó",
+        "position": [
+          541,
+          550
+        ],
+        "start": 541,
+        "end": 550
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "expresó",
+        "position": [
+          295,
+          302
+        ],
+        "start": 295,
+        "end": 302
+      }
+    ],
+    "match_count": 2
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Liverpool",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Reino Unido",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Alá",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Williams",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Plymouth",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Robert Linford",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Michael Williams",
+        "tipo": "Persona"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Robert Linford",
+        "relacion": "SENTENCIAR_EXPRESAR",
+        "objeto": "Michael Williams"
+      },
+      {
+        "sujeto": "Robert Linford",
+        "relacion": "SENTENCIAR_EXPRESAR",
+        "objeto": "Plymouth"
+      },
+      {
+        "sujeto": "Michael Williams",
+        "relacion": "SENTENCIAR_EXPRESAR",
+        "objeto": "Plymouth"
+      },
+      {
+        "sujeto": "Williams",
+        "relacion": "MANIFESTAR",
+        "objeto": "Alá"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.5574,
+    "pos": 0.0,
+    "neu": 0.973,
+    "neg": 0.027,
+    "label": "negative"
+  }
+}

@@ -1,0 +1,602 @@
+{
+  "url": "https://www.telesurtv.net/inicia-campana-electoral-en-argelia-con-vistas-a-las-elecciones-del-7-de-septiembre/",
+  "title": "Inicia campaña electoral en Argelia con vistas a las elecciones del 7 de septiembre - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Argelia",
+    "Campaña electoral",
+    "elecciones",
+    "votantes"
+  ],
+  "text": "Los candidatos a las elecciones en Argelia iniciaron este jueves su campaña electoral, la cual finalizará tres días antes de la fecha de los comicios previstos para el próximo 7 de septiembre.\nSon tres los postulantes escogidos por la Autoridad nacional independiente de elecciones (ANIE) a partir de los 16 que presentaron sus expedientes de candidatura a mediados del mes de julio.\nEllos son el presidente actual y candidato independiente, Abdelmadjid Tebboune, del partido Frente de Liberación Nacional Independiente (FLNI), Abdelaali Hassani Cherif del partido Movimiento de la Sociedad por la Paz (MSP) y Youssef Aouchiche del partido Frente de Fuerzas Socialistas (FFS).\nDurante estos 20 días presentarán sus programas electorales a los votantes con sus principales propuestas.\nEstán habilitados para votar cerca de 23.5 millones de ciudadanos en Argelia y 860.000 residentes en el extranjero, de una población total de 45 millones.\nDe acuerdo al responsable de este organismo, Mohamed Charfi, el 47 por ciento de los votantes registrados son mujeres y el 36 por ciento de ellos menores de 40 años.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/inicia-campana-electoral-en-argelia-con-vistas-a-las-elecciones-del-7-de-septiembre/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-08.json",
+    "message_index": 928,
+    "message_id": 74580,
+    "date": "2024-08-15T16:55:08+00:00",
+    "text": "teleSUR\nInicia campaña electoral en Argelia con vistas a las elecciones del 7 de septiembre\nhttps://www.telesurtv.net/inicia-campana-electoral-en-argelia-con-vistas-a-las-elecciones-del-7-de-septiembre/",
+    "photo_path": null,
+    "views": 2945,
+    "reactions": {
+      "👍": 32,
+      "👏": 4,
+      "🤔": 4
+    },
+    "total_reactions": 40
+  },
+  "preprocessing": {
+    "cleaned": "los candidatos a las elecciones en argelia iniciaron este jueves su campaña electoral, la cual finalizará tres días antes de la fecha de los comicios previstos para el próximo 7 de septiembre. son tres los postulantes escogidos por la autoridad nacional independiente de elecciones (anie) a partir de los 16 que presentaron sus expedientes de candidatura a mediados del mes de julio. ellos son el presidente actual y candidato independiente, abdelmadjid tebboune, del partido frente de liberación nacional independiente (flni), abdelaali hassani cherif del partido movimiento de la sociedad por la paz (msp) y youssef aouchiche del partido frente de fuerzas socialistas (ffs). durante estos 20 días presentarán sus programas electorales a los votantes con sus principales propuestas. están habilitados para votar cerca de 23.5 millones de ciudadanos en argelia y 860.000 residentes en el extranjero, de una población total de 45 millones. de acuerdo al responsable de este organismo, mohamed charfi, el 47 por ciento de los votantes registrados son mujeres y el 36 por ciento de ellos menores de 40 años.",
+    "tokens": [
+      "candidatos",
+      "elecciones",
+      "argelia",
+      "iniciaron",
+      "jueves",
+      "campaña",
+      "electoral",
+      ",",
+      "finalizará",
+      "tres",
+      "días",
+      "fecha",
+      "comicios",
+      "previstos",
+      "próximo",
+      "7",
+      "septiembre",
+      ".",
+      "tres",
+      "postulantes",
+      "escogidos",
+      "autoridad",
+      "nacional",
+      "independiente",
+      "elecciones",
+      "(",
+      "anie",
+      ")",
+      "partir",
+      "16",
+      "presentaron",
+      "expedientes",
+      "candidatura",
+      "mediados",
+      "mes",
+      "julio",
+      ".",
+      "presidente",
+      "actual",
+      "candidato",
+      "independiente",
+      ",",
+      "abdelmadjid",
+      "tebboune",
+      ",",
+      "partido",
+      "frente",
+      "liberación",
+      "nacional",
+      "independiente",
+      "(",
+      "flni",
+      ")",
+      ",",
+      "abdelaali",
+      "hassani",
+      "cherif",
+      "partido",
+      "movimiento",
+      "sociedad",
+      "paz",
+      "(",
+      "msp",
+      ")",
+      "youssef",
+      "aouchiche",
+      "partido",
+      "frente",
+      "fuerzas",
+      "socialistas",
+      "(",
+      "ffs",
+      ")",
+      ".",
+      "20",
+      "días",
+      "presentarán",
+      "programas",
+      "electorales",
+      "votantes",
+      "principales",
+      "propuestas",
+      ".",
+      "habilitados",
+      "votar",
+      "cerca",
+      "23.5",
+      "millones",
+      "ciudadanos",
+      "argelia",
+      "860.000",
+      "residentes",
+      "extranjero",
+      ",",
+      "población",
+      "total",
+      "45",
+      "millones",
+      ".",
+      "acuerdo",
+      "responsable",
+      "organismo",
+      ",",
+      "mohamed",
+      "charfi",
+      ",",
+      "47",
+      "ciento",
+      "votantes",
+      "registrados",
+      "mujeres",
+      "36",
+      "ciento",
+      "menores",
+      "40",
+      "años",
+      "."
+    ],
+    "token_count": 117,
+    "sentence_count": 6
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 33,
+      "NN": 39,
+      "NNS": 17,
+      "IN": 13,
+      "VBP": 11,
+      "JJ": 13,
+      "VBZ": 4,
+      "FW": 24,
+      "CD": 8,
+      "VBD": 2
+    },
+    "bigram_freq": {
+      "NNP-NN": 5,
+      "NN-NN": 15,
+      "NN-NNS": 6,
+      "NNS-IN": 4,
+      "IN-NNP": 1,
+      "NNS-VBP": 10,
+      "VBP-JJ": 4,
+      "JJ-JJ": 2,
+      "JJ-NN": 8,
+      "NN-JJ": 2,
+      "VBP-VBZ": 1,
+      "VBZ-IN": 2,
+      "IN-FW": 6,
+      "FW-FW": 8,
+      "FW-NNS": 3,
+      "NN-IN": 7,
+      "FW-NNP": 7,
+      "NNP-VBZ": 1,
+      "VBZ-JJ": 2,
+      "JJ-NNS": 2,
+      "NN-NNP": 6,
+      "NNP-JJ": 1,
+      "NNP-FW": 8,
+      "FW-CD": 1,
+      "CD-NN": 4,
+      "NN-VBZ": 2,
+      "IN-NN": 1,
+      "VBP-NNS": 1,
+      "NNS-FW": 1,
+      "NN-VBP": 1,
+      "NNP-NNP": 15,
+      "FW-NN": 4,
+      "NNP-VBD": 2,
+      "VBD-CD": 2,
+      "VBP-NN": 2,
+      "VBP-NNP": 2,
+      "IN-CD": 3,
+      "CD-NNS": 4,
+      "IN-NNS": 1,
+      "NNP-CD": 1,
+      "IN-JJ": 1,
+      "FW-JJ": 1,
+      "NNS-NNP": 1,
+      "JJ-FW": 1,
+      "VBP-CD": 1
+    },
+    "trigram_freq": {
+      "NNP-NN-NN": 5,
+      "NN-NN-NNS": 2,
+      "NN-NNS-IN": 1,
+      "NNS-IN-NNP": 1,
+      "IN-NNP-NN": 1,
+      "NN-NNS-VBP": 5,
+      "NNS-VBP-JJ": 3,
+      "VBP-JJ-JJ": 2,
+      "JJ-JJ-NN": 2,
+      "JJ-NN-JJ": 1,
+      "NN-JJ-NN": 1,
+      "JJ-NN-NNS": 1,
+      "NNS-VBP-VBZ": 1,
+      "VBP-VBZ-IN": 1,
+      "VBZ-IN-FW": 1,
+      "IN-FW-FW": 1,
+      "FW-FW-FW": 4,
+      "FW-FW-NNS": 1,
+      "FW-NNS-VBP": 2,
+      "JJ-NN-IN": 4,
+      "NN-IN-FW": 5,
+      "IN-FW-NNP": 2,
+      "FW-NNP-VBZ": 1,
+      "NNP-VBZ-JJ": 1,
+      "VBZ-JJ-NNS": 2,
+      "JJ-NNS-VBP": 2,
+      "VBP-JJ-NN": 2,
+      "JJ-NN-NNP": 1,
+      "NN-NNP-JJ": 1,
+      "NNP-JJ-NN": 1,
+      "FW-NNP-FW": 1,
+      "NNP-FW-FW": 1,
+      "FW-FW-CD": 1,
+      "FW-CD-NN": 1,
+      "CD-NN-NN": 4,
+      "NN-NN-NN": 5,
+      "NN-NN-VBZ": 2,
+      "NN-VBZ-IN": 1,
+      "VBZ-IN-NN": 1,
+      "IN-NN-NNS": 1,
+      "NNS-VBP-NNS": 1,
+      "VBP-NNS-FW": 1,
+      "NNS-FW-FW": 1,
+      "FW-FW-NNP": 2,
+      "FW-NNP-NN": 2,
+      "NN-NN-VBP": 1,
+      "NN-VBP-JJ": 1,
+      "JJ-NN-NN": 1,
+      "NN-NN-NNP": 2,
+      "NN-NNP-NNP": 3,
+      "NNP-NNP-FW": 4,
+      "NNP-FW-NN": 4,
+      "FW-NN-NNP": 3,
+      "NN-NNP-FW": 2,
+      "NNP-FW-NNP": 3,
+      "FW-NNP-NNP": 3,
+      "NNP-NNP-NNP": 9,
+      "NNP-NNP-VBD": 2,
+      "NNP-VBD-CD": 2,
+      "VBD-CD-NN": 2,
+      "NN-VBZ-JJ": 1,
+      "NNS-VBP-NN": 2,
+      "VBP-NN-NNS": 2,
+      "NNS-VBP-NNP": 2,
+      "VBP-NNP-NN": 1,
+      "NN-NN-IN": 3,
+      "NN-IN-CD": 2,
+      "IN-CD-NNS": 3,
+      "CD-NNS-IN": 2,
+      "NNS-IN-NNS": 1,
+      "IN-NNS-VBP": 1,
+      "VBP-NNP-CD": 1,
+      "NNP-CD-NNS": 1,
+      "NNS-IN-JJ": 1,
+      "IN-JJ-NN": 1,
+      "IN-FW-JJ": 1,
+      "FW-JJ-NN": 1,
+      "CD-NNS-NNP": 1,
+      "NNS-NNP-FW": 1,
+      "FW-NN-JJ": 1,
+      "NN-JJ-FW": 1,
+      "JJ-FW-FW": 1,
+      "IN-FW-NNS": 2,
+      "NNS-VBP-CD": 1,
+      "VBP-CD-NN": 1,
+      "FW-NNS-IN": 1,
+      "NNS-IN-CD": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 39,
+        "NNP": 33,
+        "FW": 24,
+        "NNS": 17,
+        "IN": 13
+      },
+      "top_bigrams": {
+        "NN-NN": 15,
+        "NNP-NNP": 15,
+        "NNS-VBP": 10,
+        "JJ-NN": 8,
+        "FW-FW": 8
+      },
+      "top_trigrams": {
+        "NNP-NNP-NNP": 9,
+        "NNP-NN-NN": 5,
+        "NN-NNS-VBP": 5,
+        "NN-IN-FW": 5,
+        "NN-NN-NN": 5
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 6,
+    "chunk_counts": {
+      "NP": 50,
+      "VP": 16,
+      "PP": 5,
+      "ADJP": 2
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 3,
+        "weight": 0.038
+      },
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0253
+      },
+      {
+        "rule": "NP -> ('millones', 'NNS')",
+        "frequency": 2,
+        "weight": 0.0253
+      },
+      {
+        "rule": "S -> NP VP PP VP (',', ',') NP VP VP ('de', 'IN') ('la', 'FW') ('fecha', 'FW') ('de', 'FW') ('los', 'FW') NP VP VP ('7', 'CD') PP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0127
+      },
+      {
+        "rule": "NP -> ('Los', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0127
+      },
+      {
+        "rule": "VP -> ('candidatos', 'VBZ') NP",
+        "frequency": 1,
+        "weight": 0.0127
+      },
+      {
+        "rule": "NP -> ('a', 'DT') ('las', 'JJ') ('elecciones', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0127
+      },
+      {
+        "rule": "NP -> ('Argelia', 'NNP') ('iniciaron', 'NN') ('este', 'NN') ('jueves', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0127
+      },
+      {
+        "rule": "VP -> ('su', 'VBP') ('campaña', 'JJ') ('electoral', 'JJ')",
+        "frequency": 1,
+        "weight": 0.0127
+      },
+      {
+        "rule": "NP -> ('la', 'JJ') ('cual', 'JJ') ('finalizará', 'NN') ('tres', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0127
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Los"
+      },
+      {
+        "label": "VP",
+        "text": "candidatos a las elecciones"
+      },
+      {
+        "label": "NP",
+        "text": "a las elecciones"
+      },
+      {
+        "label": "PP",
+        "text": "en Argelia iniciaron este jueves"
+      },
+      {
+        "label": "NP",
+        "text": "Argelia iniciaron este jueves"
+      },
+      {
+        "label": "VP",
+        "text": "su campaña electoral"
+      },
+      {
+        "label": "NP",
+        "text": "la cual finalizará tres"
+      },
+      {
+        "label": "VP",
+        "text": "días"
+      },
+      {
+        "label": "VP",
+        "text": "antes"
+      },
+      {
+        "label": "NP",
+        "text": "comicios"
+      },
+      {
+        "label": "VP",
+        "text": "previstos para el"
+      },
+      {
+        "label": "NP",
+        "text": "para el"
+      },
+      {
+        "label": "VP",
+        "text": "próximo"
+      },
+      {
+        "label": "PP",
+        "text": "de septiembre"
+      },
+      {
+        "label": "NP",
+        "text": "septiembre"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Los/NNP)\n  (VP candidatos/VBZ (NP a/DT las/JJ elecciones/NNS))\n  (PP en/IN (NP Argelia/NNP iniciaron/NN este/NN jueves/NNS))\n  (VP su/VBP campaña/JJ electoral/JJ)\n  ,/,\n  (NP la/JJ cual/JJ finalizará/NN tres/NNS)\n  (VP días/VBP)\n  (VP antes/VBZ)\n  de/IN\n  la/FW\n  fecha/FW\n  de/FW\n  los/FW\n  (NP comicios/NNS)\n  (VP previstos/VBP (NP para/JJ el/NN))\n  (VP próximo/VBD)\n  7/CD\n  (PP de/IN (NP septiembre/NN))\n  ./.)",
+      "(S\n  (NP Son/NNP)\n  (VP tres/VBZ (NP los/JJ postulantes/NNS))\n  (VP\n    escogidos/VBP\n    (NP por/JJ la/NN Autoridad/NNP)\n    (NP nacional/JJ independiente/NN))\n  de/IN\n  elecciones/FW\n  (/(\n  (NP ANIE/NNP)\n  )/)\n  (NP a/DT partir/NN)\n  de/IN\n  los/FW\n  16/CD\n  (NP que/NN presentaron/NN sus/NN)\n  (VP expedientes/VBZ)\n  de/IN\n  candidatura/FW\n  (NP a/DT mediados/NN del/NN)\n  mes/FW\n  de/FW\n  (NP julio/NN)\n  ./.)",
+      "(S\n  (NP Ellos/NNP son/NN el/NN)\n  (VP\n    presidente/VBP\n    (NP actual/JJ y/NN candidato/NN independiente/NN))\n  ,/,\n  (NP Abdelmadjid/NNP Tebboune/NNP)\n  ,/,\n  (NP del/NN partido/NN Frente/NNP)\n  de/FW\n  (NP Liberación/NNP Nacional/NNP Independiente/NNP)\n  (/(\n  (NP FLNI/NNP)\n  )/)\n  ,/,\n  (NP Abdelaali/NNP Hassani/NNP Cherif/NNP)\n  del/FW\n  (NP partido/NN Movimiento/NNP de/NNP)\n  la/FW\n  (NP Sociedad/NNP por/NN la/NN Paz/NNP)\n  (/(\n  (NP MSP/NNP)\n  )/)\n  (NP y/NN Youssef/NNP Aouchiche/NNP)\n  del/FW\n  (NP partido/NN Frente/NNP)\n  de/FW\n  (NP Fuerzas/NNP Socialistas/NNP)\n  (/(\n  (NP FFS/NNP)\n  )/)\n  ./.)",
+      "(S\n  (NP Durante/NNP)\n  (VP estos/VBD)\n  20/CD\n  (NP días/NN presentarán/NN sus/NN programas/NN)\n  (VP electorales/VBZ (NP a/DT los/NN))\n  (VP votantes/VBZ (NP con/JJ sus/NN principales/NNS propuestas/NNS))\n  ./.)",
+      "(S\n  (NP Están/NNP habilitados/NN para/NN votar/NN cerca/NN)\n  de/IN\n  23.5/CD\n  (NP millones/NNS)\n  (PP de/IN (NP ciudadanos/NNS))\n  (PP en/IN (NP Argelia/NNP))\n  y/$\n  860.000/CD\n  (NP residentes/NNS)\n  (PP en/IN (NP el/NN extranjero/NN))\n  ,/,\n  de/FW\n  una/FW\n  población/FW\n  (ADJP total/JJ)\n  de/FW\n  45/CD\n  (NP millones/NNS)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "CIUDADES_CAPITALES",
+      "GOBIERNOS_OFICIALES",
+      "GRUPOS_ESPECIFICOS",
+      "LEYES_NORMATIVAS",
+      "CANTIDADES_NUMERICAS",
+      "ELECCIONES_PROCESOS_POLITICOS"
+    ],
+    "matches": [
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "campaña electoral",
+        "position": [
+          68,
+          85
+        ],
+        "start": 68,
+        "end": 85
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente actual y",
+        "position": [
+          397,
+          416
+        ],
+        "start": 397,
+        "end": 416
+      },
+      {
+        "category": "GRUPOS_ESPECIFICOS",
+        "matched_text": "mujeres",
+        "position": [
+          1049,
+          1056
+        ],
+        "start": 1049,
+        "end": 1056
+      },
+      {
+        "category": "LEYES_NORMATIVAS",
+        "matched_text": "acuerdo al responsable de este organismo, mohamed charfi, el 47",
+        "position": [
+          942,
+          1005
+        ],
+        "start": 942,
+        "end": 1005
+      },
+      {
+        "category": "CIUDADES_CAPITALES",
+        "matched_text": "la paz",
+        "position": [
+          595,
+          601
+        ],
+        "start": 595,
+        "end": 601
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "5 millones",
+        "position": [
+          825,
+          835
+        ],
+        "start": 825,
+        "end": 835
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "cerca de 23",
+        "position": [
+          813,
+          824
+        ],
+        "start": 813,
+        "end": 824
+      }
+    ],
+    "match_count": 7
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "MSP",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Frente de Fuerzas Socialistas",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Movimiento de la Sociedad por la Paz",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Mohamed Charfi",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "FFS",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "ANIE",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Abdelmadjid Tebboune",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Youssef Aouchiche",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Autoridad nacional independiente de elecciones",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Frente de Liberación Nacional Independiente",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Abdelaali Hassani Cherif",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Argelia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "FLNI",
+        "tipo": "Organizacion"
+      }
+    ],
+    "relaciones": []
+  },
+  "sentiment": {
+    "compound": 0.0,
+    "pos": 0.0,
+    "neu": 1.0,
+    "neg": 0.0,
+    "label": "neutral"
+  }
+}

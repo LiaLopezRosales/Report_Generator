@@ -1,0 +1,454 @@
+{
+  "url": "https://www.telesurtv.net/uruguay-efectua-elecciones-internas-para-escoger-a-los-candidatos-presidenciales/",
+  "title": "Uruguay efectúa elecciones internas para escoger a los candidatos presidenciales - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "Elecciones Internas",
+    "Uruguay"
+  ],
+  "text": "\nUruguay efectúa este domingo las elecciones internas partidarias para escoger a los candidatos que en octubre buscarán la presidencia del país.\n\nCada una de las diferentes fuerzas políticas presenta a sus diferentes precandidatos y el más votado de cada una se transforma en el candidato para las Elecciones Nacionales.\nEn total, 18 partidos presentarán listas y 30 serán los precandidatos que buscarán convertirse en el nuevo mandatario.\nLos votantes también deben elegir a los integrantes de sus Órganos Deliberativos Nacionales y de sus Órganos Deliberativos Departamentales, que decidirán posteriormente sobre las listas para senadores y diputados.\nLos resultados preliminares se esperan hacia las 23H30 de este lunes. Las elecciones presidenciales y legislativas serán el 27 de octubre, con un eventual balotaje el 24 de noviembre.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/uruguay-efectua-elecciones-internas-para-escoger-a-los-candidatos-presidenciales/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-06.json",
+    "message_index": 20,
+    "message_id": 72723,
+    "date": "2024-06-30T15:55:07+00:00",
+    "text": "teleSUR\nUruguay efectúa elecciones internas para escoger a los candidatos presidenciales\nhttps://www.telesurtv.net/uruguay-efectua-elecciones-internas-para-escoger-a-los-candidatos-presidenciales/",
+    "photo_path": null,
+    "views": 1337,
+    "reactions": {},
+    "total_reactions": 0
+  },
+  "preprocessing": {
+    "cleaned": "uruguay efectúa este domingo las elecciones internas partidarias para escoger a los candidatos que en octubre buscarán la presidencia del país. cada una de las diferentes fuerzas políticas presenta a sus diferentes precandidatos y el más votado de cada una se transforma en el candidato para las elecciones nacionales. en total, 18 partidos presentarán listas y 30 serán los precandidatos que buscarán convertirse en el nuevo mandatario. los votantes también deben elegir a los integrantes de sus órganos deliberativos nacionales y de sus órganos deliberativos departamentales, que decidirán posteriormente sobre las listas para senadores y diputados. los resultados preliminares se esperan hacia las 23h30 de este lunes. las elecciones presidenciales y legislativas serán el 27 de octubre, con un eventual balotaje el 24 de noviembre.",
+    "tokens": [
+      "uruguay",
+      "efectúa",
+      "domingo",
+      "elecciones",
+      "internas",
+      "partidarias",
+      "escoger",
+      "candidatos",
+      "octubre",
+      "buscarán",
+      "presidencia",
+      "país",
+      ".",
+      "cada",
+      "diferentes",
+      "fuerzas",
+      "políticas",
+      "presenta",
+      "diferentes",
+      "precandidatos",
+      "votado",
+      "cada",
+      "transforma",
+      "candidato",
+      "elecciones",
+      "nacionales",
+      ".",
+      "total",
+      ",",
+      "18",
+      "partidos",
+      "presentarán",
+      "listas",
+      "30",
+      "precandidatos",
+      "buscarán",
+      "convertirse",
+      "nuevo",
+      "mandatario",
+      ".",
+      "votantes",
+      "deben",
+      "elegir",
+      "integrantes",
+      "órganos",
+      "deliberativos",
+      "nacionales",
+      "órganos",
+      "deliberativos",
+      "departamentales",
+      ",",
+      "decidirán",
+      "posteriormente",
+      "listas",
+      "senadores",
+      "diputados",
+      ".",
+      "resultados",
+      "preliminares",
+      "esperan",
+      "hacia",
+      "23h30",
+      "lunes",
+      ".",
+      "elecciones",
+      "presidenciales",
+      "legislativas",
+      "27",
+      "octubre",
+      ",",
+      "eventual",
+      "balotaje",
+      "24",
+      "noviembre",
+      "."
+    ],
+    "token_count": 75,
+    "sentence_count": 6
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 12,
+      "CC": 1,
+      "NN": 36,
+      "NNS": 10,
+      "VBP": 6,
+      "JJ": 11,
+      "FW": 25,
+      "VBZ": 3,
+      "RB": 1,
+      "IN": 3,
+      "CD": 5,
+      "VBD": 3,
+      "VB": 1
+    },
+    "bigram_freq": {
+      "NNP-CC": 1,
+      "CC-NN": 1,
+      "NN-NN": 21,
+      "NN-NNS": 3,
+      "NNS-VBP": 5,
+      "VBP-JJ": 4,
+      "JJ-NN": 7,
+      "NN-FW": 3,
+      "FW-FW": 14,
+      "FW-NN": 4,
+      "FW-NNP": 3,
+      "NNP-FW": 2,
+      "FW-NNS": 1,
+      "NN-VBZ": 2,
+      "VBZ-NNS": 1,
+      "NNS-RB": 1,
+      "RB-VBP": 1,
+      "VBP-FW": 1,
+      "FW-JJ": 1,
+      "NN-IN": 1,
+      "IN-FW": 2,
+      "NN-NNP": 2,
+      "NNP-NNP": 4,
+      "NNP-JJ": 2,
+      "JJ-CD": 1,
+      "CD-NN": 1,
+      "NN-VBD": 3,
+      "VBD-CD": 3,
+      "CD-JJ": 1,
+      "NNP-VBZ": 1,
+      "VBZ-JJ": 1,
+      "VBZ-IN": 1,
+      "NNP-NN": 1,
+      "VBP-NNS": 1,
+      "NNS-VB": 1,
+      "VB-NNP": 1,
+      "JJ-NNS": 1,
+      "CD-IN": 1,
+      "IN-NN": 1,
+      "NNS-NNP": 1,
+      "NNP-NNS": 1,
+      "NNS-NNS": 1,
+      "JJ-FW": 1,
+      "FW-CD": 1,
+      "CD-FW": 1,
+      "NN-JJ": 1,
+      "JJ-JJ": 1,
+      "CD-NNS": 1,
+      "NNS-FW": 1
+    },
+    "trigram_freq": {
+      "NNP-CC-NN": 1,
+      "CC-NN-NN": 1,
+      "NN-NN-NN": 12,
+      "NN-NN-NNS": 2,
+      "NN-NNS-VBP": 2,
+      "NNS-VBP-JJ": 4,
+      "VBP-JJ-NN": 3,
+      "JJ-NN-NN": 5,
+      "NN-NN-FW": 2,
+      "NN-FW-FW": 3,
+      "FW-FW-NN": 3,
+      "FW-NN-FW": 1,
+      "FW-FW-FW": 6,
+      "FW-FW-NNP": 3,
+      "FW-NNP-FW": 1,
+      "NNP-FW-FW": 2,
+      "FW-FW-NNS": 1,
+      "FW-NNS-VBP": 1,
+      "NN-NN-VBZ": 2,
+      "NN-VBZ-NNS": 1,
+      "VBZ-NNS-RB": 1,
+      "NNS-RB-VBP": 1,
+      "RB-VBP-FW": 1,
+      "VBP-FW-FW": 1,
+      "FW-FW-JJ": 1,
+      "FW-JJ-NN": 1,
+      "NN-NN-IN": 1,
+      "NN-IN-FW": 1,
+      "IN-FW-NN": 1,
+      "FW-NN-NN": 1,
+      "NN-NN-NNP": 1,
+      "NN-NNP-NNP": 1,
+      "NNP-NNP-NNP": 1,
+      "NNP-NNP-JJ": 1,
+      "NNP-JJ-CD": 1,
+      "JJ-CD-NN": 1,
+      "CD-NN-NN": 1,
+      "NN-NN-VBD": 1,
+      "NN-VBD-CD": 3,
+      "VBD-CD-JJ": 1,
+      "CD-JJ-NN": 1,
+      "FW-NN-NNP": 1,
+      "NN-NNP-VBZ": 1,
+      "NNP-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 1,
+      "NN-VBZ-IN": 1,
+      "VBZ-IN-FW": 1,
+      "IN-FW-FW": 1,
+      "FW-NNP-NNP": 2,
+      "NNP-NNP-FW": 1,
+      "NNP-NNP-NN": 1,
+      "NNP-NN-NN": 1,
+      "NNS-VBP-NNS": 1,
+      "VBP-NNS-VB": 1,
+      "NNS-VB-NNP": 1,
+      "VB-NNP-JJ": 1,
+      "NNP-JJ-NNS": 1,
+      "JJ-NNS-VBP": 1,
+      "JJ-NN-VBD": 2,
+      "VBD-CD-IN": 1,
+      "CD-IN-NN": 1,
+      "IN-NN-NNS": 1,
+      "NN-NNS-NNP": 1,
+      "NNS-NNP-NNS": 1,
+      "NNP-NNS-NNS": 1,
+      "NNS-NNS-VBP": 1,
+      "VBP-JJ-FW": 1,
+      "JJ-FW-CD": 1,
+      "FW-CD-FW": 1,
+      "CD-FW-FW": 1,
+      "FW-NN-JJ": 1,
+      "NN-JJ-JJ": 1,
+      "JJ-JJ-NN": 1,
+      "VBD-CD-NNS": 1,
+      "CD-NNS-FW": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 36,
+        "FW": 25,
+        "NNP": 12,
+        "JJ": 11,
+        "NNS": 10
+      },
+      "top_bigrams": {
+        "NN-NN": 21,
+        "FW-FW": 14,
+        "JJ-NN": 7,
+        "NNS-VBP": 5,
+        "VBP-JJ": 4
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 12,
+        "FW-FW-FW": 6,
+        "JJ-NN-NN": 5,
+        "NNS-VBP-JJ": 4,
+        "VBP-JJ-NN": 3
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 6,
+    "chunk_counts": {
+      "NP": 31,
+      "VP": 13,
+      "PP": 1
+    },
+    "top_rules": [
+      {
+        "rule": "S -> NP ('efectúa', 'CC') NP VP ('en', 'FW') ('octubre', 'FW') NP ('la', 'FW') ('presidencia', 'FW') ('del', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0196
+      },
+      {
+        "rule": "NP -> ('Uruguay', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0196
+      },
+      {
+        "rule": "NP -> ('este', 'NN') ('domingo', 'NN') ('las', 'NN') ('elecciones', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0196
+      },
+      {
+        "rule": "VP -> ('internas', 'VBP') NP NP",
+        "frequency": 1,
+        "weight": 0.0196
+      },
+      {
+        "rule": "NP -> ('partidarias', 'JJ') ('para', 'NN') ('escoger', 'NN')",
+        "frequency": 1,
+        "weight": 0.0196
+      },
+      {
+        "rule": "NP -> ('a', 'DT') ('los', 'NN') ('candidatos', 'NN') ('que', 'NN')",
+        "frequency": 1,
+        "weight": 0.0196
+      },
+      {
+        "rule": "NP -> ('buscarán', 'NN')",
+        "frequency": 1,
+        "weight": 0.0196
+      },
+      {
+        "rule": "NP -> ('país', 'NN')",
+        "frequency": 1,
+        "weight": 0.0196
+      },
+      {
+        "rule": "S -> NP ('de', 'FW') ('las', 'FW') NP VP VP VP ('votado', 'FW') ('de', 'FW') ('cada', 'FW') NP ('en', 'IN') ('el', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0196
+      },
+      {
+        "rule": "NP -> ('Cada', 'NNP') ('una', 'NN')",
+        "frequency": 1,
+        "weight": 0.0196
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Uruguay"
+      },
+      {
+        "label": "NP",
+        "text": "este domingo las elecciones"
+      },
+      {
+        "label": "VP",
+        "text": "internas partidarias para escoger a los candidatos que"
+      },
+      {
+        "label": "NP",
+        "text": "partidarias para escoger"
+      },
+      {
+        "label": "NP",
+        "text": "a los candidatos que"
+      },
+      {
+        "label": "NP",
+        "text": "buscarán"
+      },
+      {
+        "label": "NP",
+        "text": "país"
+      },
+      {
+        "label": "NP",
+        "text": "Cada una"
+      },
+      {
+        "label": "NP",
+        "text": "diferentes"
+      },
+      {
+        "label": "VP",
+        "text": "fuerzas políticas presenta a sus"
+      },
+      {
+        "label": "NP",
+        "text": "políticas presenta"
+      },
+      {
+        "label": "NP",
+        "text": "a sus"
+      },
+      {
+        "label": "VP",
+        "text": "diferentes precandidatos y"
+      },
+      {
+        "label": "NP",
+        "text": "precandidatos"
+      },
+      {
+        "label": "VP",
+        "text": "el más"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Uruguay/NNP)\n  efectúa/CC\n  (NP este/NN domingo/NN las/NN elecciones/NNS)\n  (VP\n    internas/VBP\n    (NP partidarias/JJ para/NN escoger/NN)\n    (NP a/DT los/NN candidatos/NN que/NN))\n  en/FW\n  octubre/FW\n  (NP buscarán/NN)\n  la/FW\n  presidencia/FW\n  del/FW\n  (NP país/NN)\n  ./.)",
+      "(S\n  (NP Cada/NNP una/NN)\n  de/FW\n  las/FW\n  (NP diferentes/NNS)\n  (VP fuerzas/VBP (NP políticas/JJ presenta/NN) (NP a/DT sus/NN))\n  (VP diferentes/VBZ (NP precandidatos/NNS) y/RB)\n  (VP el/VBP más/JJ)\n  votado/FW\n  de/FW\n  cada/FW\n  (NP una/JJ se/NN transforma/NN)\n  en/IN\n  el/FW\n  (NP candidato/NN para/NN las/NN Elecciones/NNP Nacionales/NNP)\n  ./.)",
+      "(S\n  (NP En/NNP total/NN)\n  ,/,\n  18/CD\n  (NP partidos/NN presentarán/NN)\n  (VP listas/VBD y/RB)\n  30/CD\n  (NP\n    serán/JJ\n    los/NN\n    precandidatos/NN\n    que/NN\n    buscarán/NN\n    convertirse/NN)\n  en/FW\n  el/FW\n  nuevo/FW\n  (NP mandatario/NN)\n  ./.)",
+      "(S\n  (NP Los/NNP)\n  (VP votantes/VBZ (NP también/JJ deben/NN))\n  (VP elegir/VBD (NP a/DT los/JJ integrantes/NNS))\n  de/IN\n  sus/FW\n  Órganos/FW\n  (NP Deliberativos/NNP Nacionales/NNP)\n  y/FW\n  de/FW\n  sus/FW\n  Órganos/FW\n  (NP Deliberativos/NNP Departamentales/NNP)\n  ,/,\n  (NP\n    que/NN\n    decidirán/NN\n    posteriormente/NN\n    sobre/NN\n    las/NN\n    listas/NNS)\n  (VP para/VBP (NP senadores/NNS))\n  (VP y/VBP (NP diputados/NN))\n  ./.)",
+      "(S\n  (NP Los/NNP resultados/NN preliminares/NNS)\n  (VP se/VBP (NP esperan/JJ hacia/NN))\n  (VP las/VBD)\n  23H30/CD\n  (PP de/IN (NP este/NN lunes/NNS))\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "PAISES"
+    ],
+    "matches": [
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "resultados preliminares",
+        "position": [
+          658,
+          681
+        ],
+        "start": 658,
+        "end": 681
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "uruguay",
+        "position": [
+          1,
+          8
+        ],
+        "start": 1,
+        "end": 8
+      }
+    ],
+    "match_count": 2
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Uruguay",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Órganos Deliberativos Departamentales",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Órganos Deliberativos Nacionales",
+        "tipo": "Organizacion"
+      }
+    ],
+    "relaciones": []
+  },
+  "sentiment": {
+    "compound": 0.0,
+    "pos": 0.0,
+    "neu": 1.0,
+    "neg": 0.0,
+    "label": "neutral"
+  }
+}

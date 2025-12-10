@@ -1,0 +1,688 @@
+{
+  "url": "https://www.telesurtv.net/bombardeo-israeli-deja-al-menos-15-muertos-en-escuela-del-centro-de-gaza/",
+  "title": "Bombardeo israelí deja al menos 15 muertos en escuela del centro de Gaza - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "15 muertos",
+    "Ataque",
+    "Bombardeo",
+    "Gaza"
+  ],
+  "text": "\nUn bombardeo israelí perpetrado este domingo en contra de una escuela de la agencia de Naciones Unidas para los refugiados palestinos (Unrwa) localizada en el campamento de Nuseirat, al centro de Gaza cobró la vida de al menos 15 personas, según el Gobierno de la Franja de Gaza.\n\n\nLa escuela de la Unrwa alberga a cientos de desplazados quienes se resguardaban de los combates perpetrados por Israel contra el terriotorio gazatí desde el pasado 7 de octubre.\n\nPor su parte, el Ejército israelí justificó el ataque diciendo que el centro escolar “servía como escondite e infraestructura de operaciones desde la que se planearon y llevaron acabo ataques contra las fuerzas armadas”.\nLas propias fuerzas armadas israelies subrayaron que habían tratado de “mitigar el riesgo de herir a civiles”, haciendo uso de municiones de precisión, así como otras estrategias, lo que al parecer no fue del todo efectivo.\n“Nadie nos contactó informando de la presencia de milicianos o personas en busca y captura dentro de la escuela”, denunció en un comunicado Adnan Abu Hasna, quien es asesor de medios de la Unrwa.\nEl funcionario, al mismo tiempo recalcó que el t de perosnas muertas en este tipo de escenarios (centros escolares) ascciende a 550.\nEste ataque ocurre en paralelo a la cifra de muertos que ha dejado el genocidio pepetrados contra la Franja de Gaza y la Cisjordania Ocupada desde el pasado octubre de 2023, que según la última actualización del Ministerio de Salud de Gaza asciende a 38.584.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/bombardeo-israeli-deja-al-menos-15-muertos-en-escuela-del-centro-de-gaza/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-07.json",
+    "message_index": 634,
+    "message_id": 73203,
+    "date": "2024-07-14T18:55:07+00:00",
+    "text": "teleSUR\nBombardeo israelí deja al menos 15 muertos en escuela del centro de Gaza\nhttps://www.telesurtv.net/bombardeo-israeli-deja-al-menos-15-muertos-en-escuela-del-centro-de-gaza/",
+    "photo_path": null,
+    "views": 2102,
+    "reactions": {},
+    "total_reactions": 0
+  },
+  "preprocessing": {
+    "cleaned": "un bombardeo israelí perpetrado este domingo en contra de una escuela de la agencia de naciones unidas para los refugiados palestinos (unrwa) localizada en el campamento de nuseirat, al centro de gaza cobró la vida de al menos 15 personas, según el gobierno de la franja de gaza. la escuela de la unrwa alberga a cientos de desplazados quienes se resguardaban de los combates perpetrados por israel contra el terriotorio gazatí desde el pasado 7 de octubre. por su parte, el ejército israelí justificó el ataque diciendo que el centro escolar “servía como escondite e infraestructura de operaciones desde la que se planearon y llevaron acabo ataques contra las fuerzas armadas”. las propias fuerzas armadas israelies subrayaron que habían tratado de “mitigar el riesgo de herir a civiles”, haciendo uso de municiones de precisión, así como otras estrategias, lo que al parecer no fue del todo efectivo. “nadie nos contactó informando de la presencia de milicianos o personas en busca y captura dentro de la escuela”, denunció en un comunicado adnan abu hasna, quien es asesor de medios de la unrwa. el funcionario, al mismo tiempo recalcó que el t de perosnas muertas en este tipo de escenarios (centros escolares) ascciende a 550. este ataque ocurre en paralelo a la cifra de muertos que ha dejado el genocidio pepetrados contra la franja de gaza y la cisjordania ocupada desde el pasado octubre de 2023, que según la última actualización del ministerio de salud de gaza asciende a 38.584.",
+    "tokens": [
+      "bombardeo",
+      "israelí",
+      "perpetrado",
+      "domingo",
+      "escuela",
+      "agencia",
+      "naciones",
+      "unidas",
+      "refugiados",
+      "palestinos",
+      "(",
+      "unrwa",
+      ")",
+      "localizada",
+      "campamento",
+      "nuseirat",
+      ",",
+      "centro",
+      "gaza",
+      "cobró",
+      "vida",
+      "menos",
+      "15",
+      "personas",
+      ",",
+      "según",
+      "gobierno",
+      "franja",
+      "gaza",
+      ".",
+      "escuela",
+      "unrwa",
+      "alberga",
+      "cientos",
+      "desplazados",
+      "resguardaban",
+      "combates",
+      "perpetrados",
+      "israel",
+      "terriotorio",
+      "gazatí",
+      "pasado",
+      "7",
+      "octubre",
+      ".",
+      "parte",
+      ",",
+      "ejército",
+      "israelí",
+      "justificó",
+      "ataque",
+      "diciendo",
+      "centro",
+      "escolar",
+      "“",
+      "servía",
+      "escondite",
+      "infraestructura",
+      "operaciones",
+      "planearon",
+      "llevaron",
+      "acabo",
+      "ataques",
+      "fuerzas",
+      "armadas",
+      "”",
+      ".",
+      "propias",
+      "fuerzas",
+      "armadas",
+      "israelies",
+      "subrayaron",
+      "tratado",
+      "“",
+      "mitigar",
+      "riesgo",
+      "herir",
+      "civiles",
+      "”",
+      ",",
+      "haciendo",
+      "uso",
+      "municiones",
+      "precisión",
+      ",",
+      "así",
+      "estrategias",
+      ",",
+      "parecer",
+      "efectivo",
+      ".",
+      "“",
+      "nadie",
+      "contactó",
+      "informando",
+      "presencia",
+      "milicianos",
+      "personas",
+      "busca",
+      "captura",
+      "dentro",
+      "escuela",
+      "”",
+      ",",
+      "denunció",
+      "comunicado",
+      "adnan",
+      "abu",
+      "hasna",
+      ",",
+      "asesor",
+      "medios",
+      "unrwa",
+      ".",
+      "funcionario",
+      ",",
+      "mismo",
+      "tiempo",
+      "recalcó",
+      "t",
+      "perosnas",
+      "muertas",
+      "tipo",
+      "escenarios",
+      "(",
+      "centros",
+      "escolares",
+      ")",
+      "ascciende",
+      "550.",
+      "ataque",
+      "ocurre",
+      "paralelo",
+      "cifra",
+      "muertos",
+      "dejado",
+      "genocidio",
+      "pepetrados",
+      "franja",
+      "gaza",
+      "cisjordania",
+      "ocupada",
+      "pasado",
+      "octubre",
+      "2023",
+      ",",
+      "según",
+      "última",
+      "actualización",
+      "ministerio",
+      "salud",
+      "gaza",
+      "asciende",
+      "38.584",
+      "."
+    ],
+    "token_count": 155,
+    "sentence_count": 7
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 30,
+      "NN": 79,
+      "FW": 74,
+      "JJ": 17,
+      "VBZ": 6,
+      "IN": 10,
+      "CD": 4,
+      "NNS": 9,
+      "VBP": 5,
+      "DT": 1,
+      "CC": 1
+    },
+    "bigram_freq": {
+      "NNP-NN": 11,
+      "NN-NN": 45,
+      "NN-FW": 11,
+      "FW-FW": 44,
+      "FW-NNP": 12,
+      "NNP-NNP": 6,
+      "NN-JJ": 5,
+      "JJ-NN": 9,
+      "NN-NNP": 6,
+      "NNP-VBZ": 3,
+      "VBZ-FW": 2,
+      "NNP-FW": 9,
+      "FW-NN": 10,
+      "NN-IN": 8,
+      "IN-NNP": 1,
+      "FW-CD": 1,
+      "CD-NNS": 1,
+      "NNS-JJ": 1,
+      "JJ-JJ": 1,
+      "JJ-NNP": 3,
+      "FW-NNS": 6,
+      "NNS-FW": 1,
+      "NNS-VBP": 5,
+      "VBP-JJ": 5,
+      "IN-FW": 6,
+      "NN-VBZ": 3,
+      "VBZ-JJ": 3,
+      "JJ-NNS": 2,
+      "JJ-FW": 1,
+      "NN-DT": 1,
+      "DT-NN": 1,
+      "NNP-CC": 1,
+      "CC-JJ": 1,
+      "NNS-IN": 2,
+      "IN-NN": 2,
+      "FW-JJ": 1,
+      "JJ-CD": 1,
+      "CD-NNP": 1,
+      "IN-CD": 1,
+      "CD-NN": 1,
+      "VBZ-CD": 1
+    },
+    "trigram_freq": {
+      "NNP-NN-NN": 11,
+      "NN-NN-NN": 26,
+      "NN-NN-FW": 7,
+      "NN-FW-FW": 7,
+      "FW-FW-FW": 29,
+      "FW-FW-NNP": 5,
+      "FW-NNP-NNP": 4,
+      "NNP-NNP-NN": 4,
+      "NN-NN-JJ": 4,
+      "NN-JJ-NN": 4,
+      "JJ-NN-NNP": 4,
+      "NN-NNP-VBZ": 2,
+      "NNP-VBZ-FW": 2,
+      "VBZ-FW-FW": 1,
+      "FW-NNP-FW": 6,
+      "NNP-FW-NN": 2,
+      "FW-NN-IN": 2,
+      "NN-IN-NNP": 1,
+      "IN-NNP-NN": 1,
+      "FW-FW-CD": 1,
+      "FW-CD-NNS": 1,
+      "CD-NNS-JJ": 1,
+      "NNS-JJ-JJ": 1,
+      "JJ-JJ-NNP": 1,
+      "JJ-NNP-FW": 1,
+      "NNP-FW-FW": 2,
+      "NNP-FW-NNP": 5,
+      "NNP-NNP-FW": 1,
+      "FW-NN-FW": 4,
+      "FW-FW-NNS": 5,
+      "FW-NNS-FW": 1,
+      "NNS-FW-FW": 1,
+      "FW-NNS-VBP": 3,
+      "NNS-VBP-JJ": 5,
+      "VBP-JJ-NNP": 2,
+      "JJ-NNP-NN": 2,
+      "NN-FW-NN": 3,
+      "NN-IN-FW": 6,
+      "IN-FW-NNP": 1,
+      "FW-NNP-NN": 1,
+      "NN-NN-NNP": 2,
+      "NN-NNP-NN": 1,
+      "FW-NN-JJ": 1,
+      "JJ-NN-NN": 3,
+      "JJ-NN-IN": 2,
+      "IN-FW-NNS": 1,
+      "VBP-JJ-NN": 2,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-JJ": 3,
+      "VBZ-JJ-NNS": 1,
+      "JJ-NNS-VBP": 2,
+      "NN-JJ-NNS": 1,
+      "NN-NN-IN": 4,
+      "IN-FW-FW": 3,
+      "VBP-JJ-FW": 1,
+      "JJ-FW-FW": 1,
+      "FW-FW-NN": 4,
+      "FW-NN-NN": 2,
+      "NN-NN-DT": 1,
+      "NN-DT-NN": 1,
+      "DT-NN-VBZ": 1,
+      "VBZ-JJ-NN": 1,
+      "NN-NNP-CC": 1,
+      "NNP-CC-JJ": 1,
+      "CC-JJ-NN": 1,
+      "FW-NNS-IN": 2,
+      "NNS-IN-NN": 2,
+      "IN-NN-NN": 2,
+      "NN-FW-JJ": 1,
+      "FW-JJ-NN": 1,
+      "NN-NNP-NNP": 1,
+      "NNP-NNP-NNP": 1,
+      "IN-FW-NN": 1,
+      "FW-NN-VBZ": 1,
+      "VBZ-JJ-CD": 1,
+      "JJ-CD-NNP": 1,
+      "CD-NNP-NN": 1,
+      "NN-NNP-FW": 1,
+      "NN-IN-CD": 1,
+      "IN-CD-NN": 1,
+      "CD-NN-NN": 1,
+      "VBZ-FW-NNP": 1,
+      "FW-NNP-VBZ": 1,
+      "NNP-VBZ-CD": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 79,
+        "FW": 74,
+        "NNP": 30,
+        "JJ": 17,
+        "IN": 10
+      },
+      "top_bigrams": {
+        "NN-NN": 45,
+        "FW-FW": 44,
+        "FW-NNP": 12,
+        "NNP-NN": 11,
+        "NN-FW": 11
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 29,
+        "NN-NN-NN": 26,
+        "NNP-NN-NN": 11,
+        "NN-NN-FW": 7,
+        "NN-FW-FW": 7
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 7,
+    "chunk_counts": {
+      "NP": 57,
+      "VP": 11,
+      "PP": 5,
+      "ADJP": 2
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 4,
+        "weight": 0.0488
+      },
+      {
+        "rule": "NP -> ('Unrwa', 'NNP')",
+        "frequency": 3,
+        "weight": 0.0366
+      },
+      {
+        "rule": "NP -> ('Gaza', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0244
+      },
+      {
+        "rule": "S -> NP ('en', 'FW') ('contra', 'FW') ('de', 'FW') ('una', 'FW') ('escuela', 'FW') ('de', 'FW') ('la', 'FW') ('agencia', 'FW') ('de', 'FW') NP NP ('(', '(') NP (')', ')') VP ('el', 'FW') NP ('de', 'FW') NP (',', ',') NP PP ('vida', 'FW') ('de', 'FW') ('al', 'FW') ('menos', 'FW') ('15', 'CD') NP (',', ',') ADJP ('el', 'FW') NP ('de', 'FW') ('la', 'FW') NP ('de', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0122
+      },
+      {
+        "rule": "NP -> ('Un', 'NNP') ('bombardeo', 'NN') ('israelí', 'NN') ('perpetrado', 'NN') ('este', 'NN') ('domingo', 'NN')",
+        "frequency": 1,
+        "weight": 0.0122
+      },
+      {
+        "rule": "NP -> ('Naciones', 'NNP') ('Unidas', 'NNP') ('para', 'NN') ('los', 'NN')",
+        "frequency": 1,
+        "weight": 0.0122
+      },
+      {
+        "rule": "NP -> ('refugiados', 'JJ') ('palestinos', 'NN')",
+        "frequency": 1,
+        "weight": 0.0122
+      },
+      {
+        "rule": "VP -> ('localizada', 'VBZ') ('en', 'JJ')",
+        "frequency": 1,
+        "weight": 0.0122
+      },
+      {
+        "rule": "NP -> ('campamento', 'NN')",
+        "frequency": 1,
+        "weight": 0.0122
+      },
+      {
+        "rule": "NP -> ('Nuseirat', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0122
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Un bombardeo israelí perpetrado este domingo"
+      },
+      {
+        "label": "NP",
+        "text": "Naciones Unidas para los"
+      },
+      {
+        "label": "NP",
+        "text": "refugiados palestinos"
+      },
+      {
+        "label": "NP",
+        "text": "Unrwa"
+      },
+      {
+        "label": "VP",
+        "text": "localizada en"
+      },
+      {
+        "label": "NP",
+        "text": "campamento"
+      },
+      {
+        "label": "NP",
+        "text": "Nuseirat"
+      },
+      {
+        "label": "NP",
+        "text": "al centro"
+      },
+      {
+        "label": "PP",
+        "text": "de Gaza cobró la"
+      },
+      {
+        "label": "NP",
+        "text": "Gaza cobró la"
+      },
+      {
+        "label": "NP",
+        "text": "personas"
+      },
+      {
+        "label": "ADJP",
+        "text": "según"
+      },
+      {
+        "label": "NP",
+        "text": "Gobierno"
+      },
+      {
+        "label": "NP",
+        "text": "Franja"
+      },
+      {
+        "label": "NP",
+        "text": "Gaza"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP\n    Un/NNP\n    bombardeo/NN\n    israelí/NN\n    perpetrado/NN\n    este/NN\n    domingo/NN)\n  en/FW\n  contra/FW\n  de/FW\n  una/FW\n  escuela/FW\n  de/FW\n  la/FW\n  agencia/FW\n  de/FW\n  (NP Naciones/NNP Unidas/NNP para/NN los/NN)\n  (NP refugiados/JJ palestinos/NN)\n  (/(\n  (NP Unrwa/NNP)\n  )/)\n  (VP localizada/VBZ en/JJ)\n  el/FW\n  (NP campamento/NN)\n  de/FW\n  (NP Nuseirat/NNP)\n  ,/,\n  (NP al/JJ centro/NN)\n  (PP de/IN (NP Gaza/NNP cobró/NN la/NN))\n  vida/FW\n  de/FW\n  al/FW\n  menos/FW\n  15/CD\n  (NP personas/NNS)\n  ,/,\n  (ADJP según/JJ)\n  el/FW\n  (NP Gobierno/NNP)\n  de/FW\n  la/FW\n  (NP Franja/NNP)\n  de/FW\n  (NP Gaza/NNP)\n  ./.)",
+      "(S\n  (NP La/NNP)\n  escuela/FW\n  de/FW\n  la/FW\n  (NP Unrwa/NNP)\n  (VP alberga/VBZ (NP a/DT cientos/NN))\n  de/IN\n  desplazados/FW\n  (NP quienes/NNS)\n  se/FW\n  resguardaban/FW\n  de/FW\n  los/FW\n  (NP combates/NNS)\n  (VP\n    perpetrados/VBP\n    (NP\n      por/JJ\n      Israel/NNP\n      contra/NN\n      el/NN\n      terriotorio/NN\n      gazatí/NN\n      desde/NN))\n  (VP el/VBP pasado/JJ)\n  7/CD\n  (PP de/IN (NP octubre/NN))\n  ./.)",
+      "(S\n  (NP Por/NNP su/NN parte/NN)\n  ,/,\n  el/FW\n  (NP\n    Ejército/NNP\n    israelí/NN\n    justificó/NN\n    el/NN\n    ataque/NN\n    diciendo/NN\n    que/NN)\n  el/FW\n  (NP centro/NN)\n  (NP escolar/JJ “/NNP servía/NN como/NN)\n  (NP escondite/JJ e/NN infraestructura/NN)\n  de/IN\n  operaciones/FW\n  (NP desde/NNS)\n  (VP\n    la/VBP\n    (NP que/JJ se/NN planearon/NN y/NN llevaron/NN acabo/NN))\n  (VP ataques/VBZ (NP contra/JJ las/NNS))\n  (VP fuerzas/VBP (NP armadas/JJ ”/NN))\n  ./.)",
+      "(S\n  (NP Las/NNP propias/NN fuerzas/NN)\n  (NP armadas/JJ israelies/NNS)\n  (VP subrayaron/VBP (NP que/JJ habían/NN tratado/NN))\n  (PP de/IN (NP “/NNP mitigar/NN el/NN riesgo/NN))\n  de/IN\n  herir/FW\n  (NP a/DT civiles/NNS ”/NNP)\n  ,/,\n  (NP haciendo/NN uso/NN)\n  de/IN\n  municiones/FW\n  de/FW\n  precisión/FW\n  ,/,\n  así/FW\n  (NP como/NN)\n  otras/FW\n  (NP estrategias/NN)\n  ,/,\n  (NP lo/JJ que/NN al/NN parecer/NN)\n  (NP no/DT fue/NN)\n  (VP del/VBZ (NP todo/JJ efectivo/NN))\n  ./.)",
+      "(S\n  (NP “/NN Nadie/NNP)\n  nos/CC\n  (NP contactó/JJ informando/NN)\n  de/IN\n  la/FW\n  presencia/FW\n  de/FW\n  milicianos/FW\n  o/FW\n  personas/FW\n  en/FW\n  busca/FW\n  y/FW\n  captura/FW\n  dentro/FW\n  de/FW\n  la/FW\n  escuela/FW\n  ”/FW\n  ,/,\n  denunció/FW\n  en/FW\n  (NP un/JJ comunicado/NN Adnan/NNP Abu/NNP Hasna/NNP)\n  ,/,\n  (NP quien/NN es/NN asesor/NN)\n  de/IN\n  medios/FW\n  de/FW\n  la/FW\n  (NP Unrwa/NNP)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "GOBIERNOS_OFICIALES",
+      "ORGANISMOS_INTERNACIONALES",
+      "CANTIDADES_NUMERICAS",
+      "ACCIONES_LEGALES",
+      "CRISIS_HUMANITARIA_SERVICIOS",
+      "INSTITUCIONES_EDUCATIVAS",
+      "PAISES",
+      "LOCALIZACIONES_ESPECIFICAS",
+      "CONFLICTOS_ARMADOS_OPERACIONES",
+      "INFRAESTRUCTURA_SERVICIOS"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "ataque diciendo que el centro escolar “servía como escondite e infraestructura de operaciones desde la que se planearon y llevaron acabo ataques contra las fuerzas",
+        "position": [
+          509,
+          672
+        ],
+        "start": 509,
+        "end": 672
+      },
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "municiones",
+        "position": [
+          810,
+          820
+        ],
+        "start": 810,
+        "end": 820
+      },
+      {
+        "category": "CRISIS_HUMANITARIA_SERVICIOS",
+        "matched_text": "genocidio pepetrados contra la franja de gaza",
+        "position": [
+          1306,
+          1351
+        ],
+        "start": 1306,
+        "end": 1351
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "gobierno de la franja",
+        "position": [
+          250,
+          271
+        ],
+        "start": 250,
+        "end": 271
+      },
+      {
+        "category": "ORGANISMOS_INTERNACIONALES",
+        "matched_text": "naciones unidas",
+        "position": [
+          88,
+          103
+        ],
+        "start": 88,
+        "end": 103
+      },
+      {
+        "category": "INSTITUCIONES_EDUCATIVAS",
+        "matched_text": "escuela de la",
+        "position": [
+          63,
+          76
+        ],
+        "start": 63,
+        "end": 76
+      },
+      {
+        "category": "ACCIONES_LEGALES",
+        "matched_text": "denunció",
+        "position": [
+          1021,
+          1029
+        ],
+        "start": 1021,
+        "end": 1029
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "escuela",
+        "position": [
+          63,
+          70
+        ],
+        "start": 63,
+        "end": 70
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "israelí",
+        "position": [
+          14,
+          21
+        ],
+        "start": 14,
+        "end": 21
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "centro de",
+        "position": [
+          187,
+          196
+        ],
+        "start": 187,
+        "end": 196
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "escuela de",
+        "position": [
+          63,
+          73
+        ],
+        "start": 63,
+        "end": 73
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "15 personas",
+        "position": [
+          228,
+          239
+        ],
+        "start": 228,
+        "end": 239
+      }
+    ],
+    "match_count": 12
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Franja de Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Ministerio de Salud de Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Ejército israelí",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Gobierno de la Franja de Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Israel",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Cisjordania Ocupada",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Nuseirat",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Adnan Abu Hasna",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "agencia de Naciones Unidas",
+        "tipo": "Organizacion"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "agencia de Naciones Unidas",
+        "relacion": "COBRAR",
+        "objeto": "Gobierno de la Franja de Gaza"
+      },
+      {
+        "sujeto": "Nuseirat",
+        "relacion": "COBRAR",
+        "objeto": "Gobierno de la Franja de Gaza"
+      },
+      {
+        "sujeto": "Gaza",
+        "relacion": "COBRAR",
+        "objeto": "Gobierno de la Franja de Gaza"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.0516,
+    "pos": 0.01,
+    "neu": 0.981,
+    "neg": 0.009,
+    "label": "positive"
+  }
+}

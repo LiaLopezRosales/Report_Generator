@@ -1,0 +1,750 @@
+{
+  "url": "https://www.telesurtv.net/alrededor-de-10000-estudiantes-han-sido-asesinados-por-israel-en-gaza/",
+  "title": "Alrededor de 10,000 estudiantes han sido asesinados por Israel en Gaza - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "escuelas",
+    "Gaza",
+    "genocidio",
+    "Israel",
+    "Palestina"
+  ],
+  "text": "\nEl Ministerio de Educación palestino informó que desde que en los 10 meses de ocupación israelí en la Franja de Gaza 9936 alumnos han sido asesinados y otros 15,897 han resultado heridos.\nLEA TAMBIÉN\nAumentó a 39.653 los palestinos asesinados por Israel en Gaza\nMediante un comunicado la cartera de educación dio a conocer que, durante ese mismo periodo, en Cisjordania ocupada, los ataques israelíes tanto de colonos como del ejército han dejado 107 muertos, 526 heridos y 390 detenidos.\nEl texto resalta que en los dos territorios han muerto aproximadamente 504 profesores y funcionarios del sector, mientras 3426 han resultado heridos y 117 fueron detenidos.\nPor otra parte, el Ministerio de Educación palestino aseveró que en Gaza 119 centros educativos gubernamentales han recibido graves daños y más de 62 están completamente destruidos.\nLa entidad sionista ha bombardeado o cometido actos de vandalismo en 191 escuelas, incluidas las dirigidas por la Oficina de las Naciones Unidas para los Refugiados de Palestina (Unrwa).\nCon relación a las universidades, alrededor de 20 universidades han resultado gravemente dañadas, 31 completamente destruidas y 57 parcialmente.\nMientras, en Cisjordania, 69 escuelas han sido vandalizadas y 5 universidades han sido objeto de redadas, vandalismo y manipulación.\nSegún medios de prensa, la entidad sionista ha privado en Gaza a más de 620,000 estudiantes a asistir a la escuela, quienes sufren un trauma sicológico por todo lo que han vivido en los últimos meses, sin mencionar que muchos han perdido a sus familiares y enfrentan graves problemas de salud.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/alrededor-de-10000-estudiantes-han-sido-asesinados-por-israel-en-gaza/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-08.json",
+    "message_index": 1375,
+    "message_id": 74103,
+    "date": "2024-08-07T13:55:18+00:00",
+    "text": "teleSUR\nAlrededor de 10,000 estudiantes han sido asesinados por Israel en Gaza\nhttps://www.telesurtv.net/alrededor-de-10000-estudiantes-han-sido-asesinados-por-israel-en-gaza/",
+    "photo_path": null,
+    "views": 3482,
+    "reactions": {
+      "🤬": 47,
+      "👍": 5,
+      "🕊": 1
+    },
+    "total_reactions": 53
+  },
+  "preprocessing": {
+    "cleaned": "el ministerio de educación palestino informó que desde que en los 10 meses de ocupación israelí en la franja de gaza 9936 alumnos han sido asesinados y otros 15,897 han resultado heridos. mediante un comunicado la cartera de educación dio a conocer que, durante ese mismo periodo, en cisjordania ocupada, los ataques israelíes tanto de colonos como del ejército han dejado 107 muertos, 526 heridos y 390 detenidos. el texto resalta que en los dos territorios han muerto aproximadamente 504 profesores y funcionarios del sector, mientras 3426 han resultado heridos y 117 fueron detenidos. por otra parte, el ministerio de educación palestino aseveró que en gaza 119 centros educativos gubernamentales han recibido graves daños y más de 62 están completamente destruidos. la entidad sionista ha bombardeado o cometido actos de vandalismo en 191 escuelas, incluidas las dirigidas por la oficina de las naciones unidas para los refugiados de palestina (unrwa). con relación a las universidades, alrededor de 20 universidades han resultado gravemente dañadas, 31 completamente destruidas y 57 parcialmente. mientras, en cisjordania, 69 escuelas han sido vandalizadas y 5 universidades han sido objeto de redadas, vandalismo y manipulación. según medios de prensa, la entidad sionista ha privado en gaza a más de 620,000 estudiantes a asistir a la escuela, quienes sufren un trauma sicológico por todo lo que han vivido en los últimos meses, sin mencionar que muchos han perdido a sus familiares y enfrentan graves problemas de salud.",
+    "tokens": [
+      "ministerio",
+      "educación",
+      "palestino",
+      "informó",
+      "10",
+      "meses",
+      "ocupación",
+      "israelí",
+      "franja",
+      "gaza",
+      "9936",
+      "alumnos",
+      "sido",
+      "asesinados",
+      "15,897",
+      "resultado",
+      "heridos",
+      ".",
+      "mediante",
+      "comunicado",
+      "cartera",
+      "educación",
+      "dio",
+      "conocer",
+      ",",
+      "mismo",
+      "periodo",
+      ",",
+      "cisjordania",
+      "ocupada",
+      ",",
+      "ataques",
+      "israelíes",
+      "colonos",
+      "ejército",
+      "dejado",
+      "107",
+      "muertos",
+      ",",
+      "526",
+      "heridos",
+      "390",
+      "detenidos",
+      ".",
+      "texto",
+      "resalta",
+      "dos",
+      "territorios",
+      "muerto",
+      "aproximadamente",
+      "504",
+      "profesores",
+      "funcionarios",
+      "sector",
+      ",",
+      "mientras",
+      "3426",
+      "resultado",
+      "heridos",
+      "117",
+      "detenidos",
+      ".",
+      "parte",
+      ",",
+      "ministerio",
+      "educación",
+      "palestino",
+      "aseveró",
+      "gaza",
+      "119",
+      "centros",
+      "educativos",
+      "gubernamentales",
+      "recibido",
+      "graves",
+      "daños",
+      "62",
+      "completamente",
+      "destruidos",
+      ".",
+      "entidad",
+      "sionista",
+      "bombardeado",
+      "cometido",
+      "actos",
+      "vandalismo",
+      "191",
+      "escuelas",
+      ",",
+      "incluidas",
+      "dirigidas",
+      "oficina",
+      "naciones",
+      "unidas",
+      "refugiados",
+      "palestina",
+      "(",
+      "unrwa",
+      ")",
+      ".",
+      "relación",
+      "universidades",
+      ",",
+      "alrededor",
+      "20",
+      "universidades",
+      "resultado",
+      "gravemente",
+      "dañadas",
+      ",",
+      "31",
+      "completamente",
+      "destruidas",
+      "57",
+      "parcialmente",
+      ".",
+      "mientras",
+      ",",
+      "cisjordania",
+      ",",
+      "69",
+      "escuelas",
+      "sido",
+      "vandalizadas",
+      "5",
+      "universidades",
+      "sido",
+      "objeto",
+      "redadas",
+      ",",
+      "vandalismo",
+      "manipulación",
+      ".",
+      "según",
+      "medios",
+      "prensa",
+      ",",
+      "entidad",
+      "sionista",
+      "privado",
+      "gaza",
+      "620,000",
+      "estudiantes",
+      "asistir",
+      "escuela",
+      ",",
+      "sufren",
+      "trauma",
+      "sicológico",
+      "vivido",
+      "últimos",
+      "meses",
+      ",",
+      "mencionar",
+      "perdido",
+      "familiares",
+      "enfrentan",
+      "graves",
+      "problemas",
+      "salud",
+      "."
+    ],
+    "token_count": 161,
+    "sentence_count": 8
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 30,
+      "IN": 15,
+      "NN": 73,
+      "$": 1,
+      "CD": 18,
+      "NNS": 20,
+      "FW": 28,
+      "VBD": 2,
+      "RB": 1,
+      "JJ": 27,
+      "VBZ": 7,
+      "VBP": 11
+    },
+    "bigram_freq": {
+      "NNP-NNP": 8,
+      "NNP-IN": 2,
+      "IN-NNP": 5,
+      "NNP-NN": 6,
+      "NN-NN": 42,
+      "NN-IN": 10,
+      "IN-$": 1,
+      "$-CD": 1,
+      "CD-NNS": 7,
+      "NNS-FW": 1,
+      "FW-FW": 15,
+      "FW-NNP": 7,
+      "NNP-FW": 5,
+      "NNP-CD": 4,
+      "CD-NN": 10,
+      "NN-VBD": 2,
+      "VBD-RB": 1,
+      "RB-CD": 1,
+      "NN-NNP": 7,
+      "NN-JJ": 2,
+      "JJ-NN": 10,
+      "NNP-VBZ": 4,
+      "VBZ-NNP": 2,
+      "NNP-JJ": 1,
+      "IN-FW": 4,
+      "FW-JJ": 1,
+      "NN-VBZ": 3,
+      "VBZ-JJ": 4,
+      "JJ-NNS": 9,
+      "NNS-VBP": 10,
+      "VBP-IN": 3,
+      "NN-NNS": 2,
+      "FW-NN": 2,
+      "VBZ-CD": 1,
+      "NN-CD": 4,
+      "IN-JJ": 2,
+      "JJ-JJ": 3,
+      "VBP-JJ": 6,
+      "NNS-JJ": 6,
+      "VBD-JJ": 1,
+      "JJ-CD": 1,
+      "JJ-FW": 3,
+      "VBP-NN": 2,
+      "IN-CD": 2,
+      "CD-JJ": 1,
+      "FW-CD": 2,
+      "JJ-VBP": 1,
+      "NNS-CD": 2,
+      "NNS-NNS": 1,
+      "FW-NNS": 1,
+      "IN-NN": 1
+    },
+    "trigram_freq": {
+      "NNP-NNP-IN": 1,
+      "NNP-IN-NNP": 2,
+      "IN-NNP-NN": 1,
+      "NNP-NN-NN": 5,
+      "NN-NN-NN": 24,
+      "NN-NN-IN": 7,
+      "NN-IN-$": 1,
+      "IN-$-CD": 1,
+      "$-CD-NNS": 1,
+      "CD-NNS-FW": 1,
+      "NNS-FW-FW": 1,
+      "FW-FW-FW": 7,
+      "FW-FW-NNP": 3,
+      "FW-NNP-FW": 4,
+      "NNP-FW-NNP": 2,
+      "FW-NNP-CD": 1,
+      "NNP-CD-NN": 2,
+      "CD-NN-NN": 3,
+      "NN-NN-VBD": 1,
+      "NN-VBD-RB": 1,
+      "VBD-RB-CD": 1,
+      "RB-CD-NN": 1,
+      "NN-NN-NNP": 5,
+      "NN-NNP-NNP": 1,
+      "NNP-NNP-NNP": 2,
+      "NNP-NNP-CD": 1,
+      "CD-NN-JJ": 1,
+      "NN-JJ-NN": 2,
+      "JJ-NN-NN": 7,
+      "NN-NNP-VBZ": 4,
+      "NNP-VBZ-NNP": 2,
+      "VBZ-NNP-NNP": 1,
+      "NNP-NNP-JJ": 1,
+      "NNP-JJ-NN": 1,
+      "NN-IN-FW": 3,
+      "IN-FW-JJ": 1,
+      "FW-JJ-NN": 1,
+      "NN-NN-VBZ": 3,
+      "NN-VBZ-JJ": 2,
+      "VBZ-JJ-NNS": 2,
+      "JJ-NNS-VBP": 7,
+      "NNS-VBP-IN": 3,
+      "VBP-IN-NNP": 1,
+      "IN-NNP-NNP": 2,
+      "NNP-NNP-NN": 3,
+      "NNP-NN-NNS": 1,
+      "NN-NNS-VBP": 1,
+      "VBP-IN-FW": 1,
+      "IN-FW-FW": 3,
+      "FW-FW-NN": 2,
+      "FW-NN-NN": 2,
+      "NN-VBZ-CD": 1,
+      "VBZ-CD-NN": 1,
+      "CD-NN-CD": 2,
+      "NN-CD-NN": 3,
+      "CD-NN-NNP": 2,
+      "NN-NNP-NN": 1,
+      "NN-IN-JJ": 2,
+      "IN-JJ-JJ": 2,
+      "JJ-JJ-NNS": 3,
+      "NNS-VBP-JJ": 5,
+      "VBP-JJ-NN": 3,
+      "JJ-NN-CD": 1,
+      "NN-CD-NNS": 1,
+      "CD-NNS-JJ": 6,
+      "NNS-JJ-NN": 1,
+      "NN-NN-CD": 1,
+      "CD-NN-VBD": 1,
+      "NN-VBD-JJ": 1,
+      "VBD-JJ-CD": 1,
+      "JJ-CD-NN": 1,
+      "NNP-VBZ-JJ": 2,
+      "VBZ-JJ-FW": 1,
+      "JJ-FW-NNP": 2,
+      "FW-NNP-NN": 1,
+      "NN-IN-NNP": 2,
+      "IN-NNP-CD": 1,
+      "NNP-CD-NNS": 2,
+      "NNS-JJ-NNS": 2,
+      "VBP-JJ-NNS": 2,
+      "NNS-VBP-NN": 2,
+      "VBP-NN-IN": 1,
+      "NN-IN-CD": 2,
+      "IN-CD-JJ": 1,
+      "CD-JJ-NN": 1,
+      "VBZ-JJ-NN": 1,
+      "FW-FW-CD": 2,
+      "FW-CD-NNS": 2,
+      "VBP-JJ-FW": 1,
+      "NNP-FW-FW": 3,
+      "FW-NNP-NNP": 1,
+      "NN-NNP-IN": 1,
+      "NN-NN-JJ": 1,
+      "JJ-NN-IN": 2,
+      "IN-CD-NNS": 1,
+      "NNS-JJ-VBP": 1,
+      "JJ-VBP-JJ": 1,
+      "JJ-NNS-CD": 1,
+      "NNS-CD-NN": 2,
+      "CD-NN-NNS": 1,
+      "NN-NNS-CD": 1,
+      "VBZ-NNP-CD": 1,
+      "NNS-JJ-JJ": 1,
+      "JJ-NNS-NNS": 1,
+      "NNS-NNS-VBP": 1,
+      "IN-NNP-FW": 1,
+      "NNS-JJ-FW": 1,
+      "JJ-FW-FW": 1,
+      "FW-FW-NNS": 1,
+      "FW-NNS-VBP": 1,
+      "VBP-NN-NN": 1,
+      "VBP-IN-NN": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 73,
+        "NNP": 30,
+        "FW": 28,
+        "JJ": 27,
+        "NNS": 20
+      },
+      "top_bigrams": {
+        "NN-NN": 42,
+        "FW-FW": 15,
+        "NN-IN": 10,
+        "CD-NN": 10,
+        "JJ-NN": 10
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 24,
+        "NN-NN-IN": 7,
+        "FW-FW-FW": 7,
+        "JJ-NN-NN": 7,
+        "JJ-NNS-VBP": 7
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 8,
+    "chunk_counts": {
+      "NP": 73,
+      "PP": 6,
+      "VP": 18,
+      "ADJP": 2
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 3,
+        "weight": 0.028
+      },
+      {
+        "rule": "NP -> ('Gaza', 'NNP')",
+        "frequency": 3,
+        "weight": 0.028
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 3,
+        "weight": 0.028
+      },
+      {
+        "rule": "NP -> ('han', 'NN') ('resultado', 'NN') ('heridos', 'NN')",
+        "frequency": 2,
+        "weight": 0.0187
+      },
+      {
+        "rule": "VP -> ('han', 'VBP') NP",
+        "frequency": 2,
+        "weight": 0.0187
+      },
+      {
+        "rule": "NP -> ('escuelas', 'NNS')",
+        "frequency": 2,
+        "weight": 0.0187
+      },
+      {
+        "rule": "NP -> ('universidades', 'NNS')",
+        "frequency": 2,
+        "weight": 0.0187
+      },
+      {
+        "rule": "VP -> ('y', 'VBP')",
+        "frequency": 2,
+        "weight": 0.0187
+      },
+      {
+        "rule": "S -> NP PP ('en', 'IN') ('los', '$') ('10', 'CD') NP ('de', 'FW') ('ocupación', 'FW') ('israelí', 'FW') ('en', 'FW') ('la', 'FW') NP ('de', 'FW') NP ('9936', 'CD') NP VP ('15,897', 'CD') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0093
+      },
+      {
+        "rule": "NP -> ('El', 'NNP') ('Ministerio', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0093
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El Ministerio"
+      },
+      {
+        "label": "PP",
+        "text": "de Educación palestino informó que desde que"
+      },
+      {
+        "label": "NP",
+        "text": "Educación palestino informó que desde que"
+      },
+      {
+        "label": "NP",
+        "text": "meses"
+      },
+      {
+        "label": "NP",
+        "text": "Franja"
+      },
+      {
+        "label": "NP",
+        "text": "Gaza"
+      },
+      {
+        "label": "NP",
+        "text": "alumnos han sido asesinados y"
+      },
+      {
+        "label": "VP",
+        "text": "otros"
+      },
+      {
+        "label": "NP",
+        "text": "han resultado heridos"
+      },
+      {
+        "label": "NP",
+        "text": "LEA TAMBIÉN Aumentó"
+      },
+      {
+        "label": "NP",
+        "text": "los"
+      },
+      {
+        "label": "NP",
+        "text": "palestinos asesinados por Israel"
+      },
+      {
+        "label": "VP",
+        "text": "en Gaza Mediante un comunicado la cartera"
+      },
+      {
+        "label": "NP",
+        "text": "Gaza Mediante"
+      },
+      {
+        "label": "NP",
+        "text": "un comunicado la cartera"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP El/NNP Ministerio/NNP)\n  (PP\n    de/IN\n    (NP Educación/NNP palestino/NN informó/NN que/NN desde/NN que/NN))\n  en/IN\n  los/$\n  10/CD\n  (NP meses/NNS)\n  de/FW\n  ocupación/FW\n  israelí/FW\n  en/FW\n  la/FW\n  (NP Franja/NNP)\n  de/FW\n  (NP Gaza/NNP)\n  9936/CD\n  (NP alumnos/NN han/NN sido/NN asesinados/NN y/NN)\n  (VP otros/VBD)\n  15,897/CD\n  (NP han/NN resultado/NN heridos/NN)\n  ./.)",
+      "(S\n  (NP LEA/NNP TAMBIÉN/NNP Aumentó/NNP)\n  a/DT\n  39.653/CD\n  (NP los/NN)\n  (NP palestinos/JJ asesinados/NN por/NN Israel/NNP)\n  (VP\n    en/VBZ\n    (NP Gaza/NNP Mediante/NNP)\n    (NP un/JJ comunicado/NN la/NN cartera/NN))\n  de/IN\n  educación/FW\n  (NP dio/NN)\n  (NP a/DT conocer/NN que/NN)\n  ,/,\n  (VP durante/VB (NP ese/JJ mismo/NN periodo/NN))\n  ,/,\n  en/FW\n  (NP Cisjordania/NNP ocupada/NN)\n  ,/,\n  (NP los/NN ataques/NNS)\n  (VP israelíes/VBP)\n  tanto/IN\n  de/FW\n  colonos/FW\n  (NP como/NN del/NN ejército/NN han/NN)\n  (VP dejado/VBZ)\n  107/CD\n  (NP muertos/NN)\n  ,/,\n  526/CD\n  (NP heridos/NN y/NN)\n  390/CD\n  (NP detenidos/NN)\n  ./.)",
+      "(S\n  (NP El/NNP texto/NN resalta/NN que/NN)\n  (PP en/IN (NP los/JJ dos/JJ territorios/NNS))\n  (VP han/VBP (NP muerto/JJ aproximadamente/NN))\n  504/CD\n  (NP profesores/NNS)\n  (NP y/JJ funcionarios/NNS del/NN sector/NN)\n  ,/,\n  (ADJP mientras/JJ)\n  3426/CD\n  (NP han/NN resultado/NN heridos/NN)\n  y/$\n  117/CD\n  (NP fueron/NN detenidos/NN)\n  ./.)",
+      "(S\n  (NP Por/NNP)\n  otra/MD\n  (VP parte/VB)\n  ,/,\n  el/FW\n  (NP Ministerio/NNP)\n  de/FW\n  (NP Educación/NNP palestino/NN aseveró/NN que/NN)\n  (PP en/IN (NP Gaza/NNP))\n  119/CD\n  (NP centros/NNS)\n  (NP educativos/JJ gubernamentales/NNS)\n  (VP han/VBP (NP recibido/JJ graves/NNS))\n  (VP daños/VBP (NP y/JJ más/NN))\n  de/IN\n  62/CD\n  (NP están/JJ completamente/NN destruidos/NN)\n  ./.)",
+      "(S\n  (NP La/NNP)\n  entidad/CC\n  (NP sionista/JJ ha/NN bombardeado/NN o/NN cometido/NN actos/NN)\n  de/IN\n  vandalismo/FW\n  en/FW\n  191/CD\n  (NP escuelas/NNS)\n  ,/,\n  (NP incluidas/JJ las/NN dirigidas/NNS)\n  (VP por/VBP (NP la/JJ Oficina/NNP))\n  de/FW\n  las/FW\n  (NP Naciones/NNP Unidas/NNP para/NN los/NN Refugiados/NNP)\n  (PP de/IN (NP Palestina/NNP))\n  (/(\n  (NP Unrwa/NNP)\n  )/)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "GRUPOS_ESPECIFICOS",
+      "ORGANISMOS_INTERNACIONALES",
+      "CANTIDADES_NUMERICAS",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "INSTITUCIONES_EDUCATIVAS",
+      "PAISES",
+      "LOCALIZACIONES_ESPECIFICAS",
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "CONFLICTOS_ARMADOS_OPERACIONES",
+      "INFRAESTRUCTURA_SERVICIOS"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "ataques israelíes",
+        "position": [
+          384,
+          401
+        ],
+        "start": 384,
+        "end": 401
+      },
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "ocupación",
+        "position": [
+          79,
+          88
+        ],
+        "start": 79,
+        "end": 88
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "informó",
+        "position": [
+          38,
+          45
+        ],
+        "start": 38,
+        "end": 45
+      },
+      {
+        "category": "ORGANISMOS_INTERNACIONALES",
+        "matched_text": "naciones unidas",
+        "position": [
+          974,
+          989
+        ],
+        "start": 974,
+        "end": 989
+      },
+      {
+        "category": "GRUPOS_ESPECIFICOS",
+        "matched_text": "profesores",
+        "position": [
+          565,
+          575
+        ],
+        "start": 565,
+        "end": 575
+      },
+      {
+        "category": "INSTITUCIONES_EDUCATIVAS",
+        "matched_text": "escuela, quienes sufren",
+        "position": [
+          1417,
+          1440
+        ],
+        "start": 1417,
+        "end": 1440
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "escuela",
+        "position": [
+          1417,
+          1424
+        ],
+        "start": 1417,
+        "end": 1424
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "israelí",
+        "position": [
+          89,
+          96
+        ],
+        "start": 89,
+        "end": 96
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "escuela, quienes",
+        "position": [
+          1417,
+          1433
+        ],
+        "start": 1417,
+        "end": 1433
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "000 estudiantes",
+        "position": [
+          1386,
+          1401
+        ],
+        "start": 1386,
+        "end": 1401
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "aproximadamente 504",
+        "position": [
+          545,
+          564
+        ],
+        "start": 545,
+        "end": 564
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "más de 62",
+        "position": [
+          803,
+          812
+        ],
+        "start": 803,
+        "end": 812
+      }
+    ],
+    "match_count": 12
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Franja de Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Ministerio de Educación palestino",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Oficina de las Naciones Unidas para los Refugiados de Palestina",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Cisjordania",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Ministerio de Educación",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Israel",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "LEA",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Gaza",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Ministerio de Educación",
+        "relacion": "INFORMAR",
+        "objeto": "Franja de Gaza"
+      },
+      {
+        "sujeto": "LEA",
+        "relacion": "AUMENTAR",
+        "objeto": "Israel"
+      },
+      {
+        "sujeto": "LEA",
+        "relacion": "AUMENTAR",
+        "objeto": "Gaza"
+      },
+      {
+        "sujeto": "LEA",
+        "relacion": "AUMENTAR",
+        "objeto": "Cisjordania"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "AUMENTAR",
+        "objeto": "Cisjordania"
+      },
+      {
+        "sujeto": "Gaza",
+        "relacion": "AUMENTAR",
+        "objeto": "Cisjordania"
+      },
+      {
+        "sujeto": "Ministerio de Educación palestino",
+        "relacion": "ASEVERAR",
+        "objeto": "Gaza"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.7184,
+    "pos": 0.02,
+    "neu": 0.936,
+    "neg": 0.045,
+    "label": "negative"
+  }
+}

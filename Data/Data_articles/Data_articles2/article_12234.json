@@ -1,0 +1,645 @@
+{
+  "url": "https://www.telesurtv.net/siria-envia-convoy-de-ayuda-medica-a-libano-y-recibe-a-damnificados/",
+  "title": "Siria envía convoy de ayuda médica a Líbano y recibe a damnificados - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Agresión israelí",
+    "Ayuda médica",
+    "Ministerio de Salud de Siria",
+    "Sindicato de Médicos Sirios"
+  ],
+  "text": "El presidente de Siria, Bashar Al-Assad, instruyó recientemente a su gobierno para tomar todas las medidas posibles para apoyar al Líbano.\nEl Ministerio de Salud de Siria informó el viernes del envío de un convoy de ayuda médica hacia el Líbano compuesto por alrededor de 20 toneladas de material sanitario especializado en respuesta de emergencia como medicamentos inflamatorios, cardíacos, digestivos e infantiles, además de anestésicos, materiales para operaciones quirúrgicas y sueros.\nEl ente de salud sirio indicó que el cargamento es en respuesta a la situación humanitaria del Líbano a partir de la agresión israelí. Anteriormente, el presidente del Sindicato de Médicos Sirios, Ghassan Fendi, reveló que un grupo de especialistas se dirigirá al Líbano para ayudar a esta nación en el tratamiento de los heridos.\nPor su parte, el ministro de Salud de Siria, Ahmed Damiriyeh, confirmpo que todas las instalaciones de salud y puestos médicos fronterizos con el Líbano están en plena disposición y preparados para recibir a todos los desplazados y brindarles los servicios necesarios de forma totalmente gratuita.\nEl ministro libanés del ramo, Firas Abyad, reveló que la cifra de víctimas de la agresión israelí contra ese pais ascendió a casi 600 muertos y dos mil heridos. En ese sentido, el presidente sirio, Bashar Al-Assad, instruyó recientemente a su gobierno para tomar todas las medidas posibles para apoyar al Líbano.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/siria-envia-convoy-de-ayuda-medica-a-libano-y-recibe-a-damnificados/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-09.json",
+    "message_index": 178,
+    "message_id": 77258,
+    "date": "2024-09-28T07:55:07+00:00",
+    "text": "teleSUR\nSiria envía convoy de ayuda médica a Líbano y recibe a damnificados\nhttps://www.telesurtv.net/siria-envia-convoy-de-ayuda-medica-a-libano-y-recibe-a-damnificados/",
+    "photo_path": null,
+    "views": 2315,
+    "reactions": {
+      "👍": 38,
+      "😢": 18,
+      "❤": 3,
+      "👏": 2
+    },
+    "total_reactions": 61
+  },
+  "preprocessing": {
+    "cleaned": "el presidente de siria, bashar al-assad, instruyó recientemente a su gobierno para tomar todas las medidas posibles para apoyar al líbano. el ministerio de salud de siria informó el viernes del envío de un convoy de ayuda médica hacia el líbano compuesto por alrededor de 20 toneladas de material sanitario especializado en respuesta de emergencia como medicamentos inflamatorios, cardíacos, digestivos e infantiles, además de anestésicos, materiales para operaciones quirúrgicas y sueros. el ente de salud sirio indicó que el cargamento es en respuesta a la situación humanitaria del líbano a partir de la agresión israelí. anteriormente, el presidente del sindicato de médicos sirios, ghassan fendi, reveló que un grupo de especialistas se dirigirá al líbano para ayudar a esta nación en el tratamiento de los heridos. por su parte, el ministro de salud de siria, ahmed damiriyeh, confirmpo que todas las instalaciones de salud y puestos médicos fronterizos con el líbano están en plena disposición y preparados para recibir a todos los desplazados y brindarles los servicios necesarios de forma totalmente gratuita. el ministro libanés del ramo, firas abyad, reveló que la cifra de víctimas de la agresión israelí contra ese pais ascendió a casi 600 muertos y dos mil heridos. en ese sentido, el presidente sirio, bashar al-assad, instruyó recientemente a su gobierno para tomar todas las medidas posibles para apoyar al líbano.",
+    "tokens": [
+      "presidente",
+      "siria",
+      ",",
+      "bashar",
+      "al-assad",
+      ",",
+      "instruyó",
+      "recientemente",
+      "gobierno",
+      "tomar",
+      "todas",
+      "medidas",
+      "posibles",
+      "apoyar",
+      "líbano",
+      ".",
+      "ministerio",
+      "salud",
+      "siria",
+      "informó",
+      "viernes",
+      "envío",
+      "convoy",
+      "ayuda",
+      "médica",
+      "hacia",
+      "líbano",
+      "compuesto",
+      "alrededor",
+      "20",
+      "toneladas",
+      "material",
+      "sanitario",
+      "especializado",
+      "respuesta",
+      "emergencia",
+      "medicamentos",
+      "inflamatorios",
+      ",",
+      "cardíacos",
+      ",",
+      "digestivos",
+      "infantiles",
+      ",",
+      "además",
+      "anestésicos",
+      ",",
+      "materiales",
+      "operaciones",
+      "quirúrgicas",
+      "sueros",
+      ".",
+      "ente",
+      "salud",
+      "sirio",
+      "indicó",
+      "cargamento",
+      "respuesta",
+      "situación",
+      "humanitaria",
+      "líbano",
+      "partir",
+      "agresión",
+      "israelí",
+      ".",
+      "anteriormente",
+      ",",
+      "presidente",
+      "sindicato",
+      "médicos",
+      "sirios",
+      ",",
+      "ghassan",
+      "fendi",
+      ",",
+      "reveló",
+      "grupo",
+      "especialistas",
+      "dirigirá",
+      "líbano",
+      "ayudar",
+      "nación",
+      "tratamiento",
+      "heridos",
+      ".",
+      "parte",
+      ",",
+      "ministro",
+      "salud",
+      "siria",
+      ",",
+      "ahmed",
+      "damiriyeh",
+      ",",
+      "confirmpo",
+      "todas",
+      "instalaciones",
+      "salud",
+      "puestos",
+      "médicos",
+      "fronterizos",
+      "líbano",
+      "plena",
+      "disposición",
+      "preparados",
+      "recibir",
+      "desplazados",
+      "brindarles",
+      "servicios",
+      "necesarios",
+      "forma",
+      "totalmente",
+      "gratuita",
+      ".",
+      "ministro",
+      "libanés",
+      "ramo",
+      ",",
+      "firas",
+      "abyad",
+      ",",
+      "reveló",
+      "cifra",
+      "víctimas",
+      "agresión",
+      "israelí",
+      "pais",
+      "ascendió",
+      "casi",
+      "600",
+      "muertos",
+      "dos",
+      "mil",
+      "heridos",
+      ".",
+      ",",
+      "presidente",
+      "sirio",
+      ",",
+      "bashar",
+      "al-assad",
+      ",",
+      "instruyó",
+      "recientemente",
+      "gobierno",
+      "tomar",
+      "todas",
+      "medidas",
+      "posibles",
+      "apoyar",
+      "líbano",
+      "."
+    ],
+    "token_count": 152,
+    "sentence_count": 7
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 32,
+      "NN": 66,
+      "FW": 63,
+      "NNS": 14,
+      "VBP": 9,
+      "JJ": 17,
+      "IN": 6,
+      "CD": 2,
+      "RB": 1,
+      "VBZ": 1
+    },
+    "bigram_freq": {
+      "NNP-NN": 11,
+      "NN-FW": 8,
+      "FW-NNP": 10,
+      "NNP-NNP": 11,
+      "NN-NN": 42,
+      "NN-NNS": 4,
+      "NNS-VBP": 8,
+      "VBP-NNS": 3,
+      "VBP-JJ": 5,
+      "JJ-JJ": 4,
+      "JJ-NNP": 2,
+      "NNP-IN": 1,
+      "IN-NNP": 1,
+      "NNP-FW": 6,
+      "NNS-FW": 2,
+      "FW-FW": 43,
+      "NN-IN": 2,
+      "IN-CD": 1,
+      "CD-NNS": 1,
+      "NNS-IN": 3,
+      "IN-NN": 1,
+      "FW-NN": 5,
+      "JJ-NNS": 4,
+      "FW-NNS": 2,
+      "NNS-RB": 1,
+      "RB-VBP": 1,
+      "VBP-NNP": 1,
+      "NN-JJ": 3,
+      "JJ-NN": 6,
+      "IN-FW": 2,
+      "JJ-FW": 1,
+      "FW-JJ": 3,
+      "NN-NNP": 6,
+      "NNP-VBZ": 1,
+      "VBZ-FW": 1,
+      "IN-JJ": 1,
+      "NN-CD": 1,
+      "CD-NN": 1,
+      "NNP-JJ": 1
+    },
+    "trigram_freq": {
+      "NNP-NN-FW": 1,
+      "NN-FW-NNP": 2,
+      "FW-NNP-NNP": 3,
+      "NNP-NNP-NNP": 5,
+      "NNP-NNP-NN": 5,
+      "NNP-NN-NN": 10,
+      "NN-NN-NN": 24,
+      "NN-NN-NNS": 4,
+      "NN-NNS-VBP": 3,
+      "NNS-VBP-NNS": 3,
+      "VBP-NNS-VBP": 2,
+      "NNS-VBP-JJ": 5,
+      "VBP-JJ-JJ": 1,
+      "JJ-JJ-NNP": 1,
+      "JJ-NNP-NNP": 1,
+      "NNP-NNP-IN": 1,
+      "NNP-IN-NNP": 1,
+      "IN-NNP-FW": 1,
+      "NNP-FW-NNP": 3,
+      "FW-NNP-NN": 3,
+      "NN-NNS-FW": 1,
+      "NNS-FW-FW": 2,
+      "FW-FW-FW": 32,
+      "FW-FW-NNP": 5,
+      "NN-NN-IN": 1,
+      "NN-IN-CD": 1,
+      "IN-CD-NNS": 1,
+      "CD-NNS-IN": 1,
+      "NNS-IN-NN": 1,
+      "IN-NN-NN": 1,
+      "NN-NN-FW": 4,
+      "NN-FW-NN": 2,
+      "FW-NN-FW": 3,
+      "NN-FW-FW": 4,
+      "FW-FW-NN": 2,
+      "FW-NN-NN": 2,
+      "VBP-JJ-NNS": 2,
+      "JJ-NNS-FW": 1,
+      "FW-FW-NNS": 1,
+      "FW-NNS-VBP": 2,
+      "VBP-NNS-RB": 1,
+      "NNS-RB-VBP": 1,
+      "RB-VBP-NNP": 1,
+      "VBP-NNP-FW": 1,
+      "NNP-FW-FW": 2,
+      "FW-NNP-FW": 4,
+      "NNP-FW-NN": 1,
+      "NN-NN-JJ": 3,
+      "NN-JJ-NN": 1,
+      "JJ-NN-IN": 1,
+      "NN-IN-FW": 1,
+      "IN-FW-FW": 1,
+      "NN-JJ-FW": 1,
+      "JJ-FW-FW": 1,
+      "FW-FW-JJ": 3,
+      "FW-JJ-NNP": 1,
+      "JJ-NNP-NN": 1,
+      "NN-JJ-JJ": 1,
+      "JJ-JJ-NNS": 1,
+      "JJ-NNS-IN": 2,
+      "NNS-IN-FW": 1,
+      "IN-FW-NNS": 1,
+      "VBP-JJ-NN": 2,
+      "JJ-NN-NN": 4,
+      "NN-NN-NNP": 5,
+      "NN-NNP-VBZ": 1,
+      "NNP-VBZ-FW": 1,
+      "VBZ-FW-FW": 1,
+      "FW-JJ-NNS": 1,
+      "JJ-NNS-VBP": 1,
+      "NNS-IN-JJ": 1,
+      "IN-JJ-NN": 1,
+      "NN-NNP-NN": 1,
+      "NN-NNP-NNP": 2,
+      "FW-JJ-JJ": 1,
+      "JJ-JJ-JJ": 1,
+      "JJ-JJ-NN": 1,
+      "NN-NN-CD": 1,
+      "NN-CD-NN": 1,
+      "CD-NN-NN": 1,
+      "NN-NNP-JJ": 1,
+      "NNP-JJ-NN": 1,
+      "JJ-NN-NNP": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 66,
+        "FW": 63,
+        "NNP": 32,
+        "JJ": 17,
+        "NNS": 14
+      },
+      "top_bigrams": {
+        "FW-FW": 43,
+        "NN-NN": 42,
+        "NNP-NN": 11,
+        "NNP-NNP": 11,
+        "FW-NNP": 10
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 32,
+        "NN-NN-NN": 24,
+        "NNP-NN-NN": 10,
+        "NNP-NNP-NNP": 5,
+        "NNP-NNP-NN": 5
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 7,
+    "chunk_counts": {
+      "NP": 58,
+      "VP": 12,
+      "PP": 3
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 3,
+        "weight": 0.0375
+      },
+      {
+        "rule": "NP -> ('Siria', 'NNP')",
+        "frequency": 2,
+        "weight": 0.025
+      },
+      {
+        "rule": "NP -> ('Bashar', 'NNP') ('Al-Assad', 'NNP')",
+        "frequency": 2,
+        "weight": 0.025
+      },
+      {
+        "rule": "NP -> ('instruyó', 'NN')",
+        "frequency": 2,
+        "weight": 0.025
+      },
+      {
+        "rule": "VP -> ('recientemente', 'VBD') NP",
+        "frequency": 2,
+        "weight": 0.025
+      },
+      {
+        "rule": "NP -> ('a', 'DT') ('su', 'NN') ('gobierno', 'NN') ('para', 'NN') ('tomar', 'NN') ('todas', 'NN') ('las', 'NNS')",
+        "frequency": 2,
+        "weight": 0.025
+      },
+      {
+        "rule": "VP -> ('medidas', 'VBP') NP",
+        "frequency": 2,
+        "weight": 0.025
+      },
+      {
+        "rule": "NP -> ('posibles', 'NNS')",
+        "frequency": 2,
+        "weight": 0.025
+      },
+      {
+        "rule": "VP -> ('para', 'VBP') NP",
+        "frequency": 2,
+        "weight": 0.025
+      },
+      {
+        "rule": "NP -> ('apoyar', 'JJ') ('al', 'JJ') ('Líbano', 'NNP')",
+        "frequency": 2,
+        "weight": 0.025
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El presidente"
+      },
+      {
+        "label": "NP",
+        "text": "Siria"
+      },
+      {
+        "label": "NP",
+        "text": "Bashar Al-Assad"
+      },
+      {
+        "label": "NP",
+        "text": "instruyó"
+      },
+      {
+        "label": "VP",
+        "text": "recientemente a su gobierno para tomar todas las"
+      },
+      {
+        "label": "NP",
+        "text": "a su gobierno para tomar todas las"
+      },
+      {
+        "label": "VP",
+        "text": "medidas posibles"
+      },
+      {
+        "label": "NP",
+        "text": "posibles"
+      },
+      {
+        "label": "VP",
+        "text": "para apoyar al Líbano"
+      },
+      {
+        "label": "NP",
+        "text": "apoyar al Líbano"
+      },
+      {
+        "label": "NP",
+        "text": "El Ministerio"
+      },
+      {
+        "label": "PP",
+        "text": "de Salud"
+      },
+      {
+        "label": "NP",
+        "text": "Salud"
+      },
+      {
+        "label": "NP",
+        "text": "Siria informó el viernes"
+      },
+      {
+        "label": "NP",
+        "text": "Líbano compuesto por alrededor"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP El/NNP presidente/NN)\n  de/FW\n  (NP Siria/NNP)\n  ,/,\n  (NP Bashar/NNP Al-Assad/NNP)\n  ,/,\n  (NP instruyó/NN)\n  (VP\n    recientemente/VBD\n    (NP a/DT su/NN gobierno/NN para/NN tomar/NN todas/NN las/NNS))\n  (VP medidas/VBP (NP posibles/NNS))\n  (VP para/VBP (NP apoyar/JJ al/JJ Líbano/NNP))\n  ./.)",
+      "(S\n  (NP El/NNP Ministerio/NNP)\n  (PP de/IN (NP Salud/NNP))\n  de/FW\n  (NP Siria/NNP informó/NN el/NN viernes/NNS)\n  del/FW\n  envío/FW\n  de/FW\n  un/FW\n  convoy/FW\n  de/FW\n  ayuda/FW\n  médica/FW\n  hacia/FW\n  el/FW\n  (NP Líbano/NNP compuesto/NN por/NN alrededor/NN)\n  de/IN\n  20/CD\n  (NP toneladas/NNS)\n  (PP de/IN (NP material/NN sanitario/NN especializado/NN))\n  en/FW\n  (NP respuesta/NN)\n  de/FW\n  emergencia/FW\n  (NP como/NN medicamentos/NN inflamatorios/NNS)\n  ,/,\n  (NP cardíacos/NN)\n  ,/,\n  (NP digestivos/NN e/NN infantiles/NNS)\n  ,/,\n  además/FW\n  de/FW\n  anestésicos/FW\n  ,/,\n  (NP materiales/NNS)\n  (VP\n    para/VBP\n    (NP operaciones/NNS)\n    quirúrgicas/RB\n    y/RB\n    (NP sueros/NN))\n  ./.)",
+      "(S\n  (NP El/NNP)\n  ente/FW\n  de/FW\n  salud/FW\n  (NP sirio/NN indicó/NN que/NN el/NN cargamento/NN es/NN)\n  en/FW\n  respuesta/FW\n  (NP a/DT la/NN situación/NN humanitaria/NN del/NN Líbano/NNP)\n  (NP a/DT partir/NN)\n  de/IN\n  la/FW\n  (NP agresión/JJ israelí/NN)\n  ./.)",
+      "(S\n  (NP Anteriormente/NNP)\n  ,/,\n  (VP el/VBZ presidente/JJ)\n  del/FW\n  (NP Sindicato/NNP)\n  de/FW\n  (NP Médicos/NNP Sirios/NNP)\n  ,/,\n  (NP Ghassan/NNP Fendi/NNP)\n  ,/,\n  (NP reveló/NN que/NN)\n  (NP un/JJ grupo/NN)\n  de/IN\n  especialistas/FW\n  se/FW\n  dirigirá/FW\n  al/FW\n  (NP Líbano/NNP para/NN ayudar/NN)\n  (NP a/DT esta/JJ nación/NN)\n  en/IN\n  el/FW\n  tratamiento/FW\n  de/FW\n  los/FW\n  (NP heridos/NN)\n  ./.)",
+      "(S\n  (NP Por/NNP su/NN parte/NN)\n  ,/,\n  el/FW\n  ministro/FW\n  de/FW\n  (NP Salud/NNP)\n  de/FW\n  (NP Siria/NNP)\n  ,/,\n  (NP Ahmed/NNP Damiriyeh/NNP)\n  ,/,\n  (NP confirmpo/NN que/NN)\n  (NP todas/JJ las/JJ instalaciones/NNS)\n  de/IN\n  salud/FW\n  y/FW\n  puestos/FW\n  médicos/FW\n  (NP fronterizos/JJ con/NN el/NN Líbano/NNP)\n  (VP están/VBZ)\n  en/FW\n  plena/FW\n  disposición/FW\n  y/FW\n  preparados/FW\n  para/FW\n  (VP\n    recibir/VB\n    (NP a/DT todos/JJ los/NN desplazados/NN y/NN brindarles/NNS))\n  (VP los/VBP (NP servicios/JJ necesarios/NNS))\n  (PP de/IN (NP forma/JJ totalmente/NN gratuita/NN))\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "GOBIERNOS_OFICIALES",
+      "CANTIDADES_NUMERICAS",
+      "TIEMPO_RELATIVO",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "PAISES"
+    ],
+    "matches": [
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "informó",
+        "position": [
+          171,
+          178
+        ],
+        "start": 171,
+        "end": 178
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente de siria",
+        "position": [
+          3,
+          22
+        ],
+        "start": 3,
+        "end": 22
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "ministro de salud de",
+        "position": [
+          838,
+          858
+        ],
+        "start": 838,
+        "end": 858
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "líbano",
+        "position": [
+          131,
+          137
+        ],
+        "start": 131,
+        "end": 137
+      },
+      {
+        "category": "TIEMPO_RELATIVO",
+        "matched_text": "recientemente",
+        "position": [
+          50,
+          63
+        ],
+        "start": 50,
+        "end": 63
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "alrededor de 20",
+        "position": [
+          259,
+          274
+        ],
+        "start": 259,
+        "end": 274
+      }
+    ],
+    "match_count": 6
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "confirmpo",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Ghassan Fendi",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Ahmed Damiriyeh",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Líbano",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "el Líbano",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Siria",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Ministerio de Salud de Siria",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Firas Abyad",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Bashar Al-Assad",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Sindicato de Médicos Sirios",
+        "tipo": "Organizacion"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Siria",
+        "relacion": "INSTRUIR",
+        "objeto": "Líbano"
+      },
+      {
+        "sujeto": "Bashar Al-Assad",
+        "relacion": "INSTRUIR",
+        "objeto": "Líbano"
+      },
+      {
+        "sujeto": "Ministerio de Salud de Siria",
+        "relacion": "INFORMAR",
+        "objeto": "el Líbano"
+      },
+      {
+        "sujeto": "Sindicato de Médicos Sirios",
+        "relacion": "REVELAR",
+        "objeto": "Líbano"
+      },
+      {
+        "sujeto": "Ghassan Fendi",
+        "relacion": "REVELAR",
+        "objeto": "Líbano"
+      },
+      {
+        "sujeto": "Ahmed Damiriyeh",
+        "relacion": "CONFIRMPIR",
+        "objeto": "confirmpo"
+      },
+      {
+        "sujeto": "Ahmed Damiriyeh",
+        "relacion": "CONFIRMPIR",
+        "objeto": "Líbano"
+      },
+      {
+        "sujeto": "confirmpo",
+        "relacion": "CONFIRMPIR",
+        "objeto": "Líbano"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.0,
+    "pos": 0.0,
+    "neu": 1.0,
+    "neg": 0.0,
+    "label": "neutral"
+  }
+}

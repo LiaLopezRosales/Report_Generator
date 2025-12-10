@@ -1,0 +1,745 @@
+{
+  "url": "https://www.telesurtv.net/ataque-aereo-israeli-contra-la-ciudad-palestina-de-gaza-deja-al-menos-cinco-muertos/",
+  "title": "Ataque aéreo israelí contra la ciudad palestina de Gaza deja al menos cinco muertos - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "bombardeos",
+    "Civiles Muertos",
+    "Franja de Gaza",
+    "Gaza"
+  ],
+  "text": "Al menos cinco civiles palestinos fallecieron el martes a causa de un bombardeó israelí contra la ciudad de Gaza en el centro del territorio palestino.\nSegún el medio palestino Wafa, un avión de combate israelí atacó una casa en el barrio de Sabra, en el sur de la capital de la Franja de Gaza, matando a cinco civiles e hiriendo a otros.\nWafa informó que aviones israelíes también bombardearon otra casa cerca de la mezquita Al-Sou, al oeste de la ciudad, provocando varias muertes y heridos.\nMás temprano al menos 12 civiles murieron en ataques aéreos israelíes que tuvieron como objetivo una escuela y un club deportivo que albergaba a personas desplazadas en la ciudad de Gaza.\nFuentes locales informaron que los aviones de guerra bombardearon la escuela al-Falah, en el barrio de Al-Zeitoun en la ciudad de Gaza, lo que provocó la muerte de al menos seis civiles y dejando una cifra aún no revelada de heridos.\nAgregaron que un dron israelí atacó el club deportivo Al-Jazeera, que alberga a personas desplazadas en el centro de la ciudad de Gaza, dejando dos muertos.\nEn otro bombardeo, dos mujeres murieron y otras resultaron heridas cuando aviones lanzaron bombas contra una reunión de ciudadanos en el barrio de Al-Zeitoun.\nIsrael lleva a cabo una operación militar genocida desde el 7 de octubre, matando al menos a 44.502 palestinos e hiriendo a otros 105.454.\nAdemás, al menos 10.000 personas están desaparecidas y se presumen muertas bajo los escombros de sus casas en toda la Franja.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/ataque-aereo-israeli-contra-la-ciudad-palestina-de-gaza-deja-al-menos-cinco-muertos/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-12.json",
+    "message_index": 1597,
+    "message_id": 81720,
+    "date": "2024-12-04T07:55:09+00:00",
+    "text": "teleSUR\nAtaque aéreo israelí contra la ciudad palestina de Gaza deja al menos cinco muertos\nhttps://www.telesurtv.net/ataque-aereo-israeli-contra-la-ciudad-palestina-de-gaza-deja-al-menos-cinco-muertos/",
+    "photo_path": null,
+    "views": 1955,
+    "reactions": {
+      "🤬": 38,
+      "💩": 3,
+      "👏": 1,
+      "😢": 1
+    },
+    "total_reactions": 43
+  },
+  "preprocessing": {
+    "cleaned": "al menos cinco civiles palestinos fallecieron el martes a causa de un bombardeó israelí contra la ciudad de gaza en el centro del territorio palestino. según el medio palestino wafa, un avión de combate israelí atacó una casa en el barrio de sabra, en el sur de la capital de la franja de gaza, matando a cinco civiles e hiriendo a otros. wafa informó que aviones israelíes también bombardearon otra casa cerca de la mezquita al-sou, al oeste de la ciudad, provocando varias muertes y heridos. más temprano al menos 12 civiles murieron en ataques aéreos israelíes que tuvieron como objetivo una escuela y un club deportivo que albergaba a personas desplazadas en la ciudad de gaza. fuentes locales informaron que los aviones de guerra bombardearon la escuela al-falah, en el barrio de al-zeitoun en la ciudad de gaza, lo que provocó la muerte de al menos seis civiles y dejando una cifra aún no revelada de heridos. agregaron que un dron israelí atacó el club deportivo al-jazeera, que alberga a personas desplazadas en el centro de la ciudad de gaza, dejando dos muertos. en otro bombardeo, dos mujeres murieron y otras resultaron heridas cuando aviones lanzaron bombas contra una reunión de ciudadanos en el barrio de al-zeitoun. israel lleva a cabo una operación militar genocida desde el 7 de octubre, matando al menos a 44.502 palestinos e hiriendo a otros 105.454. además, al menos 10.000 personas están desaparecidas y se presumen muertas bajo los escombros de sus casas en toda la franja.",
+    "tokens": [
+      "menos",
+      "cinco",
+      "civiles",
+      "palestinos",
+      "fallecieron",
+      "martes",
+      "causa",
+      "bombardeó",
+      "israelí",
+      "ciudad",
+      "gaza",
+      "centro",
+      "territorio",
+      "palestino",
+      ".",
+      "según",
+      "medio",
+      "palestino",
+      "wafa",
+      ",",
+      "avión",
+      "combate",
+      "israelí",
+      "atacó",
+      "casa",
+      "barrio",
+      "sabra",
+      ",",
+      "sur",
+      "capital",
+      "franja",
+      "gaza",
+      ",",
+      "matando",
+      "cinco",
+      "civiles",
+      "hiriendo",
+      ".",
+      "wafa",
+      "informó",
+      "aviones",
+      "israelíes",
+      "bombardearon",
+      "casa",
+      "cerca",
+      "mezquita",
+      "al-sou",
+      ",",
+      "oeste",
+      "ciudad",
+      ",",
+      "provocando",
+      "varias",
+      "muertes",
+      "heridos",
+      ".",
+      "temprano",
+      "menos",
+      "12",
+      "civiles",
+      "murieron",
+      "ataques",
+      "aéreos",
+      "israelíes",
+      "objetivo",
+      "escuela",
+      "club",
+      "deportivo",
+      "albergaba",
+      "personas",
+      "desplazadas",
+      "ciudad",
+      "gaza",
+      ".",
+      "fuentes",
+      "locales",
+      "informaron",
+      "aviones",
+      "guerra",
+      "bombardearon",
+      "escuela",
+      "al-falah",
+      ",",
+      "barrio",
+      "al-zeitoun",
+      "ciudad",
+      "gaza",
+      ",",
+      "provocó",
+      "muerte",
+      "menos",
+      "seis",
+      "civiles",
+      "dejando",
+      "cifra",
+      "aún",
+      "revelada",
+      "heridos",
+      ".",
+      "agregaron",
+      "dron",
+      "israelí",
+      "atacó",
+      "club",
+      "deportivo",
+      "al-jazeera",
+      ",",
+      "alberga",
+      "personas",
+      "desplazadas",
+      "centro",
+      "ciudad",
+      "gaza",
+      ",",
+      "dejando",
+      "dos",
+      "muertos",
+      ".",
+      "bombardeo",
+      ",",
+      "dos",
+      "mujeres",
+      "murieron",
+      "resultaron",
+      "heridas",
+      "aviones",
+      "lanzaron",
+      "bombas",
+      "reunión",
+      "ciudadanos",
+      "barrio",
+      "al-zeitoun",
+      ".",
+      "israel",
+      "lleva",
+      "cabo",
+      "operación",
+      "militar",
+      "genocida",
+      "7",
+      "octubre",
+      ",",
+      "matando",
+      "menos",
+      "44.502",
+      "palestinos",
+      "hiriendo",
+      "105.454.",
+      "además",
+      ",",
+      "menos",
+      "10.000",
+      "personas",
+      "desaparecidas",
+      "presumen",
+      "muertas",
+      "bajo",
+      "escombros",
+      "casas",
+      "toda",
+      "franja",
+      "."
+    ],
+    "token_count": 162,
+    "sentence_count": 9
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 22,
+      "NNS": 17,
+      "VBP": 15,
+      "NN": 81,
+      "VBZ": 7,
+      "IN": 15,
+      "JJ": 23,
+      "FW": 45,
+      "VBD": 3,
+      "CD": 4,
+      "RB": 2,
+      "DT": 1,
+      "RBS": 1,
+      "RBR": 1
+    },
+    "bigram_freq": {
+      "NNP-NNS": 1,
+      "NNS-VBP": 11,
+      "VBP-NNS": 6,
+      "VBP-NN": 1,
+      "NN-NN": 41,
+      "NN-VBZ": 5,
+      "VBZ-VBP": 1,
+      "VBP-IN": 2,
+      "IN-JJ": 1,
+      "JJ-NN": 15,
+      "NN-JJ": 8,
+      "NN-IN": 12,
+      "IN-NNP": 4,
+      "NNP-FW": 4,
+      "FW-FW": 28,
+      "FW-NN": 9,
+      "NN-NNP": 4,
+      "NNP-NN": 11,
+      "NNP-JJ": 1,
+      "IN-NN": 1,
+      "IN-FW": 9,
+      "FW-NNP": 7,
+      "NN-NNS": 4,
+      "VBP-JJ": 5,
+      "JJ-NNP": 2,
+      "VBZ-JJ": 1,
+      "NN-VBD": 3,
+      "VBD-CD": 2,
+      "CD-NNS": 3,
+      "NNS-RB": 1,
+      "RB-VBP": 1,
+      "JJ-JJ": 3,
+      "NN-VBP": 1,
+      "NNP-NNP": 2,
+      "NNP-VBZ": 2,
+      "VBZ-NN": 2,
+      "JJ-NNS": 2,
+      "NNS-IN": 1,
+      "VBD-JJ": 1,
+      "NN-FW": 3,
+      "VBZ-DT": 1,
+      "DT-NN": 1,
+      "VBZ-NNP": 1,
+      "VBZ-RBS": 1,
+      "RBS-JJ": 1,
+      "NNS-RBR": 1,
+      "RBR-JJ": 1,
+      "FW-VBP": 1,
+      "NNS-CD": 1,
+      "VBP-RB": 1,
+      "RB-CD": 1,
+      "CD-NNP": 1,
+      "NNS-JJ": 1,
+      "NNS-NNS": 1,
+      "JJ-FW": 1
+    },
+    "trigram_freq": {
+      "NNP-NNS-VBP": 1,
+      "NNS-VBP-NNS": 3,
+      "VBP-NNS-VBP": 3,
+      "NNS-VBP-NN": 1,
+      "VBP-NN-NN": 1,
+      "NN-NN-VBZ": 4,
+      "NN-VBZ-VBP": 1,
+      "VBZ-VBP-IN": 1,
+      "VBP-IN-JJ": 1,
+      "IN-JJ-NN": 1,
+      "JJ-NN-NN": 8,
+      "NN-NN-JJ": 4,
+      "NN-JJ-NN": 6,
+      "NN-NN-IN": 5,
+      "NN-IN-NNP": 4,
+      "IN-NNP-FW": 3,
+      "NNP-FW-FW": 3,
+      "FW-FW-NN": 6,
+      "FW-NN-NN": 4,
+      "NN-NN-NN": 17,
+      "NN-NN-NNP": 4,
+      "NN-NNP-NN": 2,
+      "NNP-NN-NN": 9,
+      "NN-NNP-JJ": 1,
+      "NNP-JJ-NN": 1,
+      "JJ-NN-IN": 3,
+      "NN-IN-NN": 1,
+      "IN-NN-NN": 1,
+      "NN-IN-FW": 7,
+      "IN-FW-NN": 2,
+      "FW-NN-IN": 3,
+      "FW-FW-FW": 17,
+      "IN-FW-NNP": 2,
+      "FW-NNP-FW": 1,
+      "NNP-FW-NNP": 1,
+      "FW-NNP-NN": 5,
+      "NN-NN-NNS": 2,
+      "NN-NNS-VBP": 4,
+      "NNS-VBP-JJ": 5,
+      "VBP-JJ-NNP": 1,
+      "JJ-NNP-NN": 2,
+      "VBP-JJ-NN": 3,
+      "JJ-NN-JJ": 2,
+      "IN-FW-FW": 5,
+      "FW-FW-NNP": 4,
+      "NN-VBZ-JJ": 1,
+      "VBZ-JJ-NNP": 1,
+      "NN-NN-VBD": 2,
+      "NN-VBD-CD": 2,
+      "VBD-CD-NNS": 2,
+      "CD-NNS-RB": 1,
+      "NNS-RB-VBP": 1,
+      "RB-VBP-NNS": 1,
+      "NN-JJ-JJ": 1,
+      "JJ-JJ-NN": 2,
+      "NN-NN-VBP": 1,
+      "NN-VBP-NNS": 1,
+      "NNS-VBP-IN": 1,
+      "VBP-IN-FW": 1,
+      "FW-NNP-NNP": 1,
+      "NNP-NNP-VBZ": 2,
+      "NNP-VBZ-NN": 2,
+      "VBZ-NN-NN": 1,
+      "NN-JJ-NNS": 1,
+      "JJ-NNS-IN": 1,
+      "NNS-IN-FW": 1,
+      "NN-VBD-JJ": 1,
+      "VBD-JJ-NN": 1,
+      "NN-NN-FW": 2,
+      "NN-FW-FW": 2,
+      "FW-NN-NNS": 1,
+      "JJ-NN-VBZ": 1,
+      "NN-VBZ-DT": 1,
+      "VBZ-DT-NN": 1,
+      "DT-NN-IN": 1,
+      "NNP-NN-JJ": 1,
+      "NN-VBZ-NNP": 1,
+      "VBZ-NNP-NN": 1,
+      "NN-VBZ-RBS": 1,
+      "VBZ-RBS-JJ": 1,
+      "RBS-JJ-NN": 1,
+      "JJ-NN-NNS": 1,
+      "VBP-NNS-RBR": 1,
+      "NNS-RBR-JJ": 1,
+      "RBR-JJ-JJ": 1,
+      "JJ-JJ-JJ": 1,
+      "IN-NNP-NNP": 1,
+      "VBZ-NN-JJ": 1,
+      "FW-FW-VBP": 1,
+      "FW-VBP-NNS": 1,
+      "VBP-NNS-CD": 1,
+      "NNS-CD-NNS": 1,
+      "CD-NNS-VBP": 1,
+      "NNS-VBP-RB": 1,
+      "VBP-RB-CD": 1,
+      "RB-CD-NNP": 1,
+      "CD-NNP-NN": 1,
+      "NNP-NN-VBD": 1,
+      "CD-NNS-JJ": 1,
+      "NNS-JJ-NNS": 1,
+      "JJ-NNS-VBP": 1,
+      "VBP-NNS-NNS": 1,
+      "NNS-NNS-VBP": 1,
+      "VBP-JJ-FW": 1,
+      "JJ-FW-FW": 1,
+      "FW-NN-FW": 1,
+      "NN-FW-NN": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 81,
+        "FW": 45,
+        "JJ": 23,
+        "NNP": 22,
+        "NNS": 17
+      },
+      "top_bigrams": {
+        "NN-NN": 41,
+        "FW-FW": 28,
+        "JJ-NN": 15,
+        "NN-IN": 12,
+        "NNS-VBP": 11
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 17,
+        "FW-FW-FW": 17,
+        "NNP-NN-NN": 9,
+        "JJ-NN-NN": 8,
+        "NN-IN-FW": 7
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 9,
+    "chunk_counts": {
+      "NP": 70,
+      "VP": 27,
+      "PP": 7,
+      "ADJP": 3
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 7,
+        "weight": 0.0603
+      },
+      {
+        "rule": "NP -> ('Gaza', 'NNP')",
+        "frequency": 5,
+        "weight": 0.0431
+      },
+      {
+        "rule": "NP -> ('barrio', 'NN')",
+        "frequency": 3,
+        "weight": 0.0259
+      },
+      {
+        "rule": "NP -> ('civiles', 'NNS')",
+        "frequency": 2,
+        "weight": 0.0172
+      },
+      {
+        "rule": "NP -> ('a', 'DT') ('personas', 'JJ') ('desplazadas', 'NN')",
+        "frequency": 2,
+        "weight": 0.0172
+      },
+      {
+        "rule": "NP -> ('Al-Zeitoun', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0172
+      },
+      {
+        "rule": "VP -> ('y', 'VBP') NP",
+        "frequency": 2,
+        "weight": 0.0172
+      },
+      {
+        "rule": "S -> NP VP VP VP PP NP PP ('en', 'FW') ('el', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0086
+      },
+      {
+        "rule": "NP -> ('Al', 'NNP') ('menos', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0086
+      },
+      {
+        "rule": "VP -> ('cinco', 'VBP') NP",
+        "frequency": 1,
+        "weight": 0.0086
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Al menos"
+      },
+      {
+        "label": "VP",
+        "text": "cinco civiles"
+      },
+      {
+        "label": "NP",
+        "text": "civiles"
+      },
+      {
+        "label": "VP",
+        "text": "palestinos fallecieron el"
+      },
+      {
+        "label": "NP",
+        "text": "fallecieron el"
+      },
+      {
+        "label": "VP",
+        "text": "martes a causa"
+      },
+      {
+        "label": "NP",
+        "text": "a causa"
+      },
+      {
+        "label": "PP",
+        "text": "de un bombardeó israelí"
+      },
+      {
+        "label": "NP",
+        "text": "un bombardeó israelí"
+      },
+      {
+        "label": "NP",
+        "text": "contra la ciudad"
+      },
+      {
+        "label": "PP",
+        "text": "de Gaza"
+      },
+      {
+        "label": "NP",
+        "text": "Gaza"
+      },
+      {
+        "label": "NP",
+        "text": "centro del territorio palestino"
+      },
+      {
+        "label": "NP",
+        "text": "Según el medio palestino Wafa"
+      },
+      {
+        "label": "NP",
+        "text": "un avión"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Al/NNP menos/NNS)\n  (VP cinco/VBP (NP civiles/NNS))\n  (VP palestinos/VBP (NP fallecieron/NN el/NN))\n  (VP martes/VBZ (NP a/DT causa/NN))\n  (PP de/IN (NP un/JJ bombardeó/NN israelí/NN))\n  (NP contra/JJ la/NN ciudad/NN)\n  (PP de/IN (NP Gaza/NNP))\n  en/FW\n  el/FW\n  (NP centro/NN del/NN territorio/NN palestino/NN)\n  ./.)",
+      "(S\n  (NP Según/NNP el/NN medio/NN palestino/NN Wafa/NNP)\n  ,/,\n  (NP un/JJ avión/NN)\n  (PP de/IN (NP combate/NN israelí/NN atacó/NN))\n  (NP una/JJ casa/NN)\n  en/IN\n  el/FW\n  (NP barrio/NN)\n  (PP de/IN (NP Sabra/NNP))\n  ,/,\n  en/FW\n  el/FW\n  sur/FW\n  de/FW\n  la/FW\n  (NP capital/NN)\n  de/IN\n  la/FW\n  (NP Franja/NNP)\n  de/FW\n  (NP Gaza/NNP)\n  ,/,\n  (VP matando/VBZ (NP a/DT cinco/NN))\n  (VP civiles/VBZ e/RB)\n  (VP hiriendo/VB (NP a/DT otros/NN))\n  ./.)",
+      "(S\n  (NP Wafa/NNP informó/NN que/NN aviones/NNS)\n  (VP\n    israelíes/VBP\n    (NP también/JJ bombardearon/NN)\n    (NP otra/JJ casa/NN cerca/NN))\n  de/IN\n  la/FW\n  mezquita/FW\n  (NP Al-Sou/NNP)\n  ,/,\n  (NP al/JJ oeste/NN)\n  de/IN\n  la/FW\n  (NP ciudad/NN)\n  ,/,\n  (NP provocando/NN varias/NN)\n  (VP muertes/VBZ (NP y/JJ heridos/NN))\n  ./.)",
+      "(S\n  (NP Más/NNP temprano/NN al/NN)\n  (VP menos/VBD)\n  12/CD\n  (NP civiles/NNS)\n  murieron/RB\n  (VP en/VBP (NP ataques/NNS))\n  (VP\n    aéreos/VBP\n    (NP israelíes/JJ que/NN tuvieron/NN como/NN)\n    (NP objetivo/JJ una/JJ escuela/NN y/NN)\n    (NP un/JJ club/NN deportivo/NN que/NN))\n  (VP albergaba/VBZ (NP a/DT personas/JJ desplazadas/NN))\n  en/IN\n  la/FW\n  ciudad/FW\n  de/FW\n  (NP Gaza/NNP)\n  ./.)",
+      "(S\n  (NP Fuentes/NNS locales/NNS)\n  (VP informaron/VBP (NP que/JJ los/JJ aviones/NNS))\n  de/IN\n  guerra/FW\n  (NP bombardearon/NN la/NN)\n  (ADJP escuela/JJ)\n  (ADJP al-Falah/JJ)\n  ,/,\n  en/FW\n  el/FW\n  (NP barrio/NN)\n  (PP de/IN (NP Al-Zeitoun/NNP))\n  en/FW\n  la/FW\n  ciudad/FW\n  de/FW\n  (NP Gaza/NNP)\n  ,/,\n  (NP lo/NN que/NN provocó/NN)\n  la/FW\n  muerte/FW\n  de/FW\n  al/FW\n  menos/FW\n  (NP seis/NN civiles/NNS)\n  (VP y/VBP (NP dejando/JJ una/JJ cifra/NN))\n  (VP aún/VBZ (NP no/DT revelada/NN))\n  (PP de/IN (NP heridos/NN))\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "GRUPOS_ESPECIFICOS",
+      "CANTIDADES_NUMERICAS",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "INSTITUCIONES_EDUCATIVAS",
+      "PAISES",
+      "LOCALIZACIONES_ESPECIFICAS",
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "CONFLICTOS_ARMADOS_OPERACIONES",
+      "INFRAESTRUCTURA_SERVICIOS"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "guerra bombardearon la escuela al-falah, en el",
+        "position": [
+          728,
+          774
+        ],
+        "start": 728,
+        "end": 774
+      },
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "ataques aéreos israelíes",
+        "position": [
+          539,
+          563
+        ],
+        "start": 539,
+        "end": 563
+      },
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "bombardeó",
+        "position": [
+          70,
+          79
+        ],
+        "start": 70,
+        "end": 79
+      },
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "capital",
+        "position": [
+          265,
+          272
+        ],
+        "start": 265,
+        "end": 272
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "informó",
+        "position": [
+          344,
+          351
+        ],
+        "start": 344,
+        "end": 351
+      },
+      {
+        "category": "GRUPOS_ESPECIFICOS",
+        "matched_text": "mujeres",
+        "position": [
+          1096,
+          1103
+        ],
+        "start": 1096,
+        "end": 1103
+      },
+      {
+        "category": "INSTITUCIONES_EDUCATIVAS",
+        "matched_text": "escuela y un club",
+        "position": [
+          595,
+          612
+        ],
+        "start": 595,
+        "end": 612
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "escuela",
+        "position": [
+          595,
+          602
+        ],
+        "start": 595,
+        "end": 602
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "israelí",
+        "position": [
+          80,
+          87
+        ],
+        "start": 80,
+        "end": 87
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "barrio de",
+        "position": [
+          232,
+          241
+        ],
+        "start": 232,
+        "end": 241
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "centro del",
+        "position": [
+          119,
+          129
+        ],
+        "start": 119,
+        "end": 129
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "escuela y un",
+        "position": [
+          595,
+          607
+        ],
+        "start": 595,
+        "end": 607
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "000 personas",
+        "position": [
+          1391,
+          1403
+        ],
+        "start": 1391,
+        "end": 1403
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "10.000 personas",
+        "position": [
+          1388,
+          1403
+        ],
+        "start": 1388,
+        "end": 1403
+      }
+    ],
+    "match_count": 14
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "mezquita Al-Sou",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Franja de Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Wafa",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Franja",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Al-Zeitoun",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Israel",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Sabra",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Al-Jazeera",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Gaza",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Wafa",
+        "relacion": "INFORMAR",
+        "objeto": "mezquita Al-Sou"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.296,
+    "pos": 0.0,
+    "neu": 0.991,
+    "neg": 0.009,
+    "label": "negative"
+  }
+}

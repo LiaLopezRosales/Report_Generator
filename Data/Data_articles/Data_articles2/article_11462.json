@@ -1,0 +1,585 @@
+{
+  "url": "https://www.telesurtv.net/naufragio-de-embarcacion-deja-varios-fallecidos-en-congo/",
+  "title": "Naufragio de embarcación deja varios fallecidos en Congo - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "embarcación",
+    "Inongo",
+    "Mai-Ndombe",
+    "Muertos",
+    "Naufragio"
+  ],
+  "text": "Al menos 25 individuos han muerto este martes a causa del hundimiento de un barco en el territorio de Inongo, capital de la provincia de Mai-Ndombe, en el oeste de la República Democrática del Congo, según informaron las autoridades.\nEn declaraciones transmitidas por la agencia de noticias ACP, el comisionado del río Inongo, David Kalemba, explicó que el naufragio se ha originado “la sobrecarga a nivel del techo”, de acuerdo con un balance provisional de víctimas, pues existen decenas de individuos desaparecidos.\nLa Agencia de noticias EFE África publicó en su cuenta de la red social X que la cifra ha incrementado a 42 personas.\nEn dicha cifra se incluyen niños y mujeres, añadieron en la publicación realizada.\nDicho naufragio es el cuarto ocurrido este año en la provincia de Mai-Ndombe, zona que se sustenta en el transporte por río.\nRecientemente, cerca de 80 individuos perdieron la vida en octubre cuando otro barco con carga excesiva se sumergió en el lago Kivu, en la región oriental del país.\n",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/naufragio-de-embarcacion-deja-varios-fallecidos-en-congo/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-12.json",
+    "message_index": 738,
+    "message_id": 82632,
+    "date": "2024-12-18T11:55:08+00:00",
+    "text": "teleSUR\nNaufragio de embarcación deja varios fallecidos en Congo\nhttps://www.telesurtv.net/naufragio-de-embarcacion-deja-varios-fallecidos-en-congo/",
+    "photo_path": null,
+    "views": 2512,
+    "reactions": {
+      "😢": 32,
+      "😱": 8
+    },
+    "total_reactions": 40
+  },
+  "preprocessing": {
+    "cleaned": "al menos 25 individuos han muerto este martes a causa del hundimiento de un barco en el territorio de inongo, capital de la provincia de mai-ndombe, en el oeste de la república democrática del congo, según informaron las autoridades. en declaraciones transmitidas por la agencia de noticias acp, el comisionado del río inongo, david kalemba, explicó que el naufragio se ha originado “la sobrecarga a nivel del techo”, de acuerdo con un balance provisional de víctimas, pues existen decenas de individuos desaparecidos. la agencia de noticias efe áfrica publicó en su cuenta de la red social x que la cifra ha incrementado a 42 personas. en dicha cifra se incluyen niños y mujeres, añadieron en la publicación realizada. dicho naufragio es el cuarto ocurrido este año en la provincia de mai-ndombe, zona que se sustenta en el transporte por río. recientemente, cerca de 80 individuos perdieron la vida en octubre cuando otro barco con carga excesiva se sumergió en el lago kivu, en la región oriental del país.",
+    "tokens": [
+      "menos",
+      "25",
+      "individuos",
+      "muerto",
+      "martes",
+      "causa",
+      "hundimiento",
+      "barco",
+      "territorio",
+      "inongo",
+      ",",
+      "capital",
+      "provincia",
+      "mai-ndombe",
+      ",",
+      "oeste",
+      "república",
+      "democrática",
+      "congo",
+      ",",
+      "según",
+      "informaron",
+      "autoridades",
+      ".",
+      "declaraciones",
+      "transmitidas",
+      "agencia",
+      "noticias",
+      "acp",
+      ",",
+      "comisionado",
+      "río",
+      "inongo",
+      ",",
+      "david",
+      "kalemba",
+      ",",
+      "explicó",
+      "naufragio",
+      "originado",
+      "“",
+      "sobrecarga",
+      "nivel",
+      "techo",
+      "”",
+      ",",
+      "acuerdo",
+      "balance",
+      "provisional",
+      "víctimas",
+      ",",
+      "pues",
+      "existen",
+      "decenas",
+      "individuos",
+      "desaparecidos",
+      ".",
+      "agencia",
+      "noticias",
+      "efe",
+      "áfrica",
+      "publicó",
+      "cuenta",
+      "red",
+      "social",
+      "x",
+      "cifra",
+      "incrementado",
+      "42",
+      "personas",
+      ".",
+      "dicha",
+      "cifra",
+      "incluyen",
+      "niños",
+      "mujeres",
+      ",",
+      "añadieron",
+      "publicación",
+      "realizada",
+      ".",
+      "dicho",
+      "naufragio",
+      "cuarto",
+      "ocurrido",
+      "año",
+      "provincia",
+      "mai-ndombe",
+      ",",
+      "zona",
+      "sustenta",
+      "transporte",
+      "río",
+      ".",
+      "recientemente",
+      ",",
+      "cerca",
+      "80",
+      "individuos",
+      "perdieron",
+      "vida",
+      "octubre",
+      "barco",
+      "carga",
+      "excesiva",
+      "sumergió",
+      "lago",
+      "kivu",
+      ",",
+      "región",
+      "oriental",
+      "país",
+      "."
+    ],
+    "token_count": 113,
+    "sentence_count": 6
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 21,
+      "VBD": 2,
+      "CD": 3,
+      "NN": 45,
+      "VBZ": 2,
+      "JJ": 12,
+      "FW": 66,
+      "IN": 6,
+      "NNS": 4,
+      "VBP": 2
+    },
+    "bigram_freq": {
+      "NNP-VBD": 1,
+      "VBD-CD": 1,
+      "CD-NN": 2,
+      "NN-NN": 25,
+      "NN-VBZ": 1,
+      "VBZ-JJ": 2,
+      "JJ-FW": 4,
+      "FW-NN": 7,
+      "NN-FW": 5,
+      "FW-FW": 47,
+      "NN-IN": 5,
+      "IN-NNP": 1,
+      "NNP-NN": 6,
+      "IN-FW": 4,
+      "FW-NNP": 9,
+      "NNP-FW": 5,
+      "NNP-NNP": 6,
+      "NN-NNS": 1,
+      "NNS-NNP": 1,
+      "NNP-NNS": 1,
+      "NNS-VBD": 1,
+      "VBD-JJ": 1,
+      "NN-NNP": 3,
+      "NNP-VBZ": 1,
+      "JJ-NN": 5,
+      "NN-JJ": 3,
+      "FW-NNS": 1,
+      "NNS-VBP": 2,
+      "VBP-FW": 1,
+      "NNP-IN": 1,
+      "FW-JJ": 2,
+      "JJ-JJ": 2,
+      "NN-CD": 1,
+      "JJ-NNS": 1,
+      "VBP-JJ": 1,
+      "IN-CD": 1,
+      "CD-JJ": 1
+    },
+    "trigram_freq": {
+      "NNP-VBD-CD": 1,
+      "VBD-CD-NN": 1,
+      "CD-NN-NN": 1,
+      "NN-NN-NN": 14,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-JJ": 1,
+      "VBZ-JJ-FW": 1,
+      "JJ-FW-NN": 1,
+      "FW-NN-FW": 1,
+      "NN-FW-FW": 5,
+      "FW-FW-FW": 34,
+      "FW-FW-NN": 3,
+      "FW-NN-IN": 1,
+      "NN-IN-NNP": 1,
+      "IN-NNP-NN": 1,
+      "NNP-NN-IN": 2,
+      "NN-IN-FW": 3,
+      "IN-FW-FW": 2,
+      "FW-FW-NNP": 7,
+      "FW-NNP-FW": 4,
+      "NNP-FW-FW": 2,
+      "FW-NNP-NNP": 4,
+      "NNP-NNP-FW": 1,
+      "NNP-FW-NNP": 1,
+      "FW-NNP-NN": 1,
+      "NNP-NN-NN": 3,
+      "NN-NN-NNS": 1,
+      "NN-NNS-NNP": 1,
+      "NNS-NNP-NNS": 1,
+      "NNP-NNS-VBD": 1,
+      "NNS-VBD-JJ": 1,
+      "VBD-JJ-FW": 1,
+      "JJ-FW-FW": 3,
+      "NNP-FW-NN": 2,
+      "FW-NN-NN": 4,
+      "NN-NN-NNP": 2,
+      "NN-NNP-NNP": 1,
+      "NNP-NNP-NNP": 1,
+      "NNP-NNP-VBZ": 1,
+      "NNP-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 1,
+      "JJ-NN-FW": 1,
+      "FW-NN-JJ": 1,
+      "NN-JJ-NN": 1,
+      "JJ-NN-JJ": 1,
+      "NN-JJ-FW": 1,
+      "FW-FW-NNS": 1,
+      "FW-NNS-VBP": 1,
+      "NNS-VBP-FW": 1,
+      "VBP-FW-FW": 1,
+      "NNP-NNP-IN": 1,
+      "NNP-IN-FW": 1,
+      "IN-FW-NNP": 1,
+      "NNP-NNP-NN": 2,
+      "NNP-NN-FW": 1,
+      "FW-FW-JJ": 2,
+      "FW-JJ-JJ": 1,
+      "JJ-JJ-NN": 1,
+      "JJ-NN-NN": 3,
+      "NN-NN-CD": 1,
+      "NN-CD-NN": 1,
+      "CD-NN-NNP": 1,
+      "NN-NNP-NN": 2,
+      "NN-NN-JJ": 1,
+      "NN-JJ-JJ": 1,
+      "JJ-JJ-NNS": 1,
+      "JJ-NNS-VBP": 1,
+      "NNS-VBP-JJ": 1,
+      "VBP-JJ-FW": 1,
+      "NN-NN-IN": 2,
+      "IN-FW-NN": 1,
+      "NN-IN-CD": 1,
+      "IN-CD-JJ": 1,
+      "CD-JJ-NN": 1,
+      "NN-NN-FW": 2,
+      "FW-JJ-NN": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "FW": 66,
+        "NN": 45,
+        "NNP": 21,
+        "JJ": 12,
+        "IN": 6
+      },
+      "top_bigrams": {
+        "FW-FW": 47,
+        "NN-NN": 25,
+        "FW-NNP": 9,
+        "FW-NN": 7,
+        "NNP-NN": 6
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 34,
+        "NN-NN-NN": 14,
+        "FW-FW-NNP": 7,
+        "NN-FW-FW": 5,
+        "FW-NNP-FW": 4
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 6,
+    "chunk_counts": {
+      "NP": 42,
+      "VP": 7,
+      "PP": 2,
+      "ADJP": 1
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0345
+      },
+      {
+        "rule": "NP -> ('Mai-Ndombe', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0345
+      },
+      {
+        "rule": "S -> NP VP ('25', 'CD') NP VP PP ('en', 'IN') ('el', 'FW') NP PP (',', ',') NP ('de', 'FW') ('la', 'FW') ('provincia', 'FW') ('de', 'FW') NP (',', ',') ('en', 'FW') ('el', 'FW') ('oeste', 'FW') ('de', 'FW') ('la', 'FW') NP ('del', 'FW') NP (',', ',') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0172
+      },
+      {
+        "rule": "NP -> ('Al', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0172
+      },
+      {
+        "rule": "VP -> ('menos', 'VBD')",
+        "frequency": 1,
+        "weight": 0.0172
+      },
+      {
+        "rule": "NP -> ('individuos', 'NN') ('han', 'NN') ('muerto', 'NN') ('este', 'NN')",
+        "frequency": 1,
+        "weight": 0.0172
+      },
+      {
+        "rule": "VP -> ('martes', 'VBZ') NP",
+        "frequency": 1,
+        "weight": 0.0172
+      },
+      {
+        "rule": "NP -> ('a', 'DT') ('causa', 'NN') ('del', 'NN') ('hundimiento', 'NN')",
+        "frequency": 1,
+        "weight": 0.0172
+      },
+      {
+        "rule": "NP -> ('un', 'JJ') ('barco', 'NN')",
+        "frequency": 1,
+        "weight": 0.0172
+      },
+      {
+        "rule": "NP -> ('territorio', 'NN')",
+        "frequency": 1,
+        "weight": 0.0172
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Al"
+      },
+      {
+        "label": "VP",
+        "text": "menos"
+      },
+      {
+        "label": "NP",
+        "text": "individuos han muerto este"
+      },
+      {
+        "label": "VP",
+        "text": "martes a causa del hundimiento"
+      },
+      {
+        "label": "NP",
+        "text": "a causa del hundimiento"
+      },
+      {
+        "label": "PP",
+        "text": "de un barco"
+      },
+      {
+        "label": "NP",
+        "text": "un barco"
+      },
+      {
+        "label": "NP",
+        "text": "territorio"
+      },
+      {
+        "label": "PP",
+        "text": "de Inongo"
+      },
+      {
+        "label": "NP",
+        "text": "Inongo"
+      },
+      {
+        "label": "NP",
+        "text": "capital"
+      },
+      {
+        "label": "NP",
+        "text": "Mai-Ndombe"
+      },
+      {
+        "label": "NP",
+        "text": "República Democrática"
+      },
+      {
+        "label": "NP",
+        "text": "Congo"
+      },
+      {
+        "label": "NP",
+        "text": "según informaron las autoridades"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Al/NNP)\n  (VP menos/VBD)\n  25/CD\n  (NP individuos/NN han/NN muerto/NN este/NN)\n  (VP martes/VBZ (NP a/DT causa/NN del/NN hundimiento/NN))\n  (PP de/IN (NP un/JJ barco/NN))\n  en/IN\n  el/FW\n  (NP territorio/NN)\n  (PP de/IN (NP Inongo/NNP))\n  ,/,\n  (NP capital/NN)\n  de/FW\n  la/FW\n  provincia/FW\n  de/FW\n  (NP Mai-Ndombe/NNP)\n  ,/,\n  en/FW\n  el/FW\n  oeste/FW\n  de/FW\n  la/FW\n  (NP República/NNP Democrática/NNP)\n  del/FW\n  (NP Congo/NNP)\n  ,/,\n  (NP según/NN informaron/NN las/NN autoridades/NNS)\n  ./.)",
+      "(S\n  (NP En/NNP declaraciones/NNS)\n  (VP transmitidas/VBD por/JJ)\n  la/FW\n  agencia/FW\n  de/FW\n  noticias/FW\n  (NP ACP/NNP)\n  ,/,\n  (VP el/VBZ (NP comisionado/JJ del/NN río/NN Inongo/NNP))\n  ,/,\n  (NP David/NNP Kalemba/NNP)\n  ,/,\n  (VP explicó/VBZ (NP que/JJ el/NN))\n  naufragio/FW\n  se/FW\n  (NP ha/NN)\n  originado/FW\n  (NP “/NNP)\n  la/FW\n  sobrecarga/FW\n  (NP a/DT nivel/JJ del/NN techo/NN ”/NNP)\n  ,/,\n  de/FW\n  acuerdo/FW\n  (NP con/NN)\n  (NP un/JJ balance/NN)\n  (ADJP provisional/JJ)\n  de/FW\n  víctimas/FW\n  ,/,\n  (NP pues/NNS)\n  (VP existen/VBP)\n  decenas/FW\n  de/FW\n  individuos/FW\n  (NP desaparecidos/NN)\n  ./.)",
+      "(S\n  (NP La/NNP Agencia/NNP)\n  de/IN\n  noticias/FW\n  (NP EFE/NNP África/NNP publicó/NN)\n  en/FW\n  su/FW\n  cuenta/FW\n  de/FW\n  la/FW\n  (NP red/JJ social/JJ X/NNP que/NN la/NN cifra/NN ha/NN)\n  (VP incrementado/VBZ)\n  a/DT\n  42/CD\n  (NP personas/NN)\n  ./.)",
+      "(S\n  (NP En/NNP dicha/NN cifra/NN se/NN)\n  (NP incluyen/JJ niños/JJ y/NN mujeres/NNS)\n  ,/,\n  (NP añadieron/NN)\n  en/FW\n  la/FW\n  publicación/FW\n  (NP realizada/NN)\n  ./.)",
+      "(S\n  (NP Dicho/NNP)\n  naufragio/CC\n  (NP es/JJ el/NN cuarto/NN ocurrido/NN este/NN año/NN)\n  en/IN\n  la/FW\n  provincia/FW\n  de/FW\n  (NP Mai-Ndombe/NNP)\n  ,/,\n  (NP zona/NNP que/NN se/NN sustenta/NN)\n  en/IN\n  el/FW\n  (NP transporte/NN por/NN río/NN)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "GRUPOS_ESPECIFICOS",
+      "RECURSOS_NATURALES",
+      "CANTIDADES_NUMERICAS",
+      "TIEMPO_RELATIVO",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "REGIONES_PROVINCIAS",
+      "ECONOMIA_COMERCIO_FINANZAS"
+    ],
+    "matches": [
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "capital",
+        "position": [
+          110,
+          117
+        ],
+        "start": 110,
+        "end": 117
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "explicó",
+        "position": [
+          342,
+          349
+        ],
+        "start": 342,
+        "end": 349
+      },
+      {
+        "category": "GRUPOS_ESPECIFICOS",
+        "matched_text": "mujeres",
+        "position": [
+          672,
+          679
+        ],
+        "start": 672,
+        "end": 679
+      },
+      {
+        "category": "RECURSOS_NATURALES",
+        "matched_text": "río",
+        "position": [
+          315,
+          318
+        ],
+        "start": 315,
+        "end": 318
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "provincia de",
+        "position": [
+          124,
+          136
+        ],
+        "start": 124,
+        "end": 136
+      },
+      {
+        "category": "TIEMPO_RELATIVO",
+        "matched_text": "recientemente",
+        "position": [
+          845,
+          858
+        ],
+        "start": 845,
+        "end": 858
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "42 personas",
+        "position": [
+          624,
+          635
+        ],
+        "start": 624,
+        "end": 635
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "cerca de 80",
+        "position": [
+          860,
+          871
+        ],
+        "start": 860,
+        "end": 871
+      }
+    ],
+    "match_count": 8
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "ACP",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Mai-Ndombe",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "río Inongo",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "República Democrática del Congo",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "lago Kivu",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "EFE África",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Inongo",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Agencia",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "David Kalemba",
+        "tipo": "Persona"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "ACP",
+        "relacion": "EXPLICAR",
+        "objeto": "río Inongo"
+      },
+      {
+        "sujeto": "ACP",
+        "relacion": "EXPLICAR",
+        "objeto": "David Kalemba"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.5859,
+    "pos": 0.029,
+    "neu": 0.971,
+    "neg": 0.0,
+    "label": "positive"
+  }
+}

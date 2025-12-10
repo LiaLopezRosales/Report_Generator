@@ -1,0 +1,695 @@
+{
+  "url": "https://www.telesurtv.net/petroleros-estadounidenses-prefieren-que-maduro-se-mantenga-en-la-presidencia/",
+  "title": "Petroleros estadounidenses prefieren que Maduro se mantenga en la presidencia - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "Elecciones presidenciales",
+    "Nicolás Maduro",
+    "Venezolanos",
+    "Venezuela"
+  ],
+  "text": "Los empresarios creen conveniente que Nicolás Maduro siga en el poder.\nUn reciente reportaje publicado por The Wall Street Journal (WSJ) indica que un grupo significativo de empresarios del sector petrolero en Estados Unidos ha llegado a la conclusión de que la mejor opción para el futuro de Venezuela es que el presidente Nicolás Maduro continúe en el poder tras las próximas elecciones presidenciales a celebrarse el domingo en el país caribeño.\nEsta postura se fundamenta, según los empresarios, en la percepción de que la administración de Maduro ofrece una mayor estabilidad para las inversiones en el país sudamericano.\nDurante el último año, los empresarios estadounidenses han mantenido conversaciones indirectas con el mandatario venezolano, lo que ha fortalecido su opinión sobre la continuidad de su gobierno. En este contexto, han ejercido presión sobre la administración del presidente Joe Biden para que considere el levantamiento de las sanciones económicas impuestas a Venezuela, con el objetivo de facilitar la recuperación y cooperación en el sector petrolero.\n“Si la oposición gana, Venezuela corre el riesgo de sumirse en el caos, lo que podría desbaratar las esperanzas de restaurar al país como uno de los principales proveedores de petróleo a nivel mundial”, afirmaron fuentes del sector al WSJ.\nDe cara a las elecciones programadas para el 28 de julio, estos empresarios expresan su preocupación ante el panorama de que una victoria opositora podría llevar a una inestabilidad considerable en el país, dificultando así los esfuerzos para reactivar la industria petrolera venezolana y su relación comercial con EE.UU.\nEste análisis pone de relieve la compleja intersección entre la política nacional de Venezuela y los intereses económicos de los Estados Unidos, en un momento en que el mercado petrolero global muestra signos de tensión y transformación, por lo que a los empresarios norteamericanos les interesa que la situación en suelo venezolano se mantenga tal como va.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/petroleros-estadounidenses-prefieren-que-maduro-se-mantenga-en-la-presidencia/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-07.json",
+    "message_index": 249,
+    "message_id": 73588,
+    "date": "2024-07-25T12:55:07+00:00",
+    "text": "teleSUR\nPetroleros estadounidenses prefieren que Maduro se mantenga en la presidencia\nhttps://www.telesurtv.net/petroleros-estadounidenses-prefieren-que-maduro-se-mantenga-en-la-presidencia/",
+    "photo_path": null,
+    "views": 1609,
+    "reactions": {},
+    "total_reactions": 0
+  },
+  "preprocessing": {
+    "cleaned": "los empresarios creen conveniente que nicolás maduro siga en el poder. un reciente reportaje publicado por the wall street journal (wsj) indica que un grupo significativo de empresarios del sector petrolero en estados unidos ha llegado a la conclusión de que la mejor opción para el futuro de venezuela es que el presidente nicolás maduro continúe en el poder tras las próximas elecciones presidenciales a celebrarse el domingo en el país caribeño. esta postura se fundamenta, según los empresarios, en la percepción de que la administración de maduro ofrece una mayor estabilidad para las inversiones en el país sudamericano. durante el último año, los empresarios estadounidenses han mantenido conversaciones indirectas con el mandatario venezolano, lo que ha fortalecido su opinión sobre la continuidad de su gobierno. en este contexto, han ejercido presión sobre la administración del presidente joe biden para que considere el levantamiento de las sanciones económicas impuestas a venezuela, con el objetivo de facilitar la recuperación y cooperación en el sector petrolero. “si la oposición gana, venezuela corre el riesgo de sumirse en el caos, lo que podría desbaratar las esperanzas de restaurar al país como uno de los principales proveedores de petróleo a nivel mundial”, afirmaron fuentes del sector al wsj. de cara a las elecciones programadas para el 28 de julio, estos empresarios expresan su preocupación ante el panorama de que una victoria opositora podría llevar a una inestabilidad considerable en el país, dificultando así los esfuerzos para reactivar la industria petrolera venezolana y su relación comercial con ee.uu. este análisis pone de relieve la compleja intersección entre la política nacional de venezuela y los intereses económicos de los estados unidos, en un momento en que el mercado petrolero global muestra signos de tensión y transformación, por lo que a los empresarios norteamericanos les interesa que la situación en suelo venezolano se mantenga tal como va.",
+    "tokens": [
+      "empresarios",
+      "creen",
+      "conveniente",
+      "nicolás",
+      "maduro",
+      "siga",
+      "poder",
+      ".",
+      "reciente",
+      "reportaje",
+      "publicado",
+      "the",
+      "wall",
+      "street",
+      "journal",
+      "(",
+      "wsj",
+      ")",
+      "indica",
+      "grupo",
+      "significativo",
+      "empresarios",
+      "sector",
+      "petrolero",
+      "unidos",
+      "llegado",
+      "conclusión",
+      "mejor",
+      "opción",
+      "futuro",
+      "venezuela",
+      "presidente",
+      "nicolás",
+      "maduro",
+      "continúe",
+      "poder",
+      "tras",
+      "próximas",
+      "elecciones",
+      "presidenciales",
+      "celebrarse",
+      "domingo",
+      "país",
+      "caribeño",
+      ".",
+      "postura",
+      "fundamenta",
+      ",",
+      "según",
+      "empresarios",
+      ",",
+      "percepción",
+      "administración",
+      "maduro",
+      "ofrece",
+      "mayor",
+      "estabilidad",
+      "inversiones",
+      "país",
+      "sudamericano",
+      ".",
+      "último",
+      "año",
+      ",",
+      "empresarios",
+      "estadounidenses",
+      "mantenido",
+      "conversaciones",
+      "indirectas",
+      "mandatario",
+      "venezolano",
+      ",",
+      "fortalecido",
+      "opinión",
+      "continuidad",
+      "gobierno",
+      ".",
+      "contexto",
+      ",",
+      "ejercido",
+      "presión",
+      "administración",
+      "presidente",
+      "joe",
+      "biden",
+      "considere",
+      "levantamiento",
+      "sanciones",
+      "económicas",
+      "impuestas",
+      "venezuela",
+      ",",
+      "objetivo",
+      "facilitar",
+      "recuperación",
+      "cooperación",
+      "sector",
+      "petrolero",
+      ".",
+      "“",
+      "si",
+      "oposición",
+      "gana",
+      ",",
+      "venezuela",
+      "corre",
+      "riesgo",
+      "sumirse",
+      "caos",
+      ",",
+      "podría",
+      "desbaratar",
+      "esperanzas",
+      "restaurar",
+      "país",
+      "principales",
+      "proveedores",
+      "petróleo",
+      "nivel",
+      "mundial",
+      "”",
+      ",",
+      "afirmaron",
+      "fuentes",
+      "sector",
+      "wsj",
+      ".",
+      "cara",
+      "elecciones",
+      "programadas",
+      "28",
+      "julio",
+      ",",
+      "empresarios",
+      "expresan",
+      "preocupación",
+      "panorama",
+      "victoria",
+      "opositora",
+      "podría",
+      "llevar",
+      "inestabilidad",
+      "considerable",
+      "país",
+      ",",
+      "dificultando",
+      "así",
+      "esfuerzos",
+      "reactivar",
+      "industria",
+      "petrolera",
+      "venezolana",
+      "relación",
+      "comercial",
+      "ee.uu.",
+      "análisis",
+      "pone",
+      "relieve",
+      "compleja",
+      "intersección",
+      "política",
+      "nacional",
+      "venezuela",
+      "intereses",
+      "económicos",
+      "unidos",
+      ",",
+      "momento",
+      "mercado",
+      "petrolero",
+      "global",
+      "muestra",
+      "signos",
+      "tensión",
+      "transformación",
+      ",",
+      "empresarios",
+      "norteamericanos",
+      "interesa",
+      "situación",
+      "suelo",
+      "venezolano",
+      "mantenga",
+      "tal",
+      "va",
+      "."
+    ],
+    "token_count": 186,
+    "sentence_count": 8
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 31,
+      "NNS": 16,
+      "VBP": 12,
+      "JJ": 37,
+      "NN": 114,
+      "FW": 64,
+      "DT": 1,
+      "IN": 14,
+      "CC": 1,
+      "MD": 1,
+      "VB": 1,
+      "VBZ": 5,
+      "RB": 1,
+      "CD": 1
+    },
+    "bigram_freq": {
+      "NNP-NNS": 1,
+      "NNS-VBP": 10,
+      "VBP-JJ": 9,
+      "JJ-NN": 20,
+      "NN-NNP": 10,
+      "NNP-NNP": 11,
+      "NNP-NN": 13,
+      "NN-FW": 12,
+      "FW-FW": 36,
+      "FW-NN": 15,
+      "NN-NN": 63,
+      "NN-VBP": 2,
+      "VBP-DT": 1,
+      "DT-NNP": 1,
+      "NN-JJ": 9,
+      "NN-IN": 10,
+      "IN-FW": 9,
+      "IN-NNP": 1,
+      "FW-NNP": 5,
+      "NNP-CC": 1,
+      "CC-JJ": 1,
+      "NN-NNS": 4,
+      "JJ-NNS": 6,
+      "NNS-NNS": 3,
+      "VBP-FW": 1,
+      "NNP-MD": 1,
+      "MD-VB": 1,
+      "VB-NN": 1,
+      "NNS-IN": 1,
+      "IN-NN": 2,
+      "NNP-VBZ": 1,
+      "VBZ-NNP": 1,
+      "NN-RB": 1,
+      "RB-JJ": 1,
+      "FW-NNS": 2,
+      "JJ-NNP": 1,
+      "NNP-FW": 3,
+      "FW-JJ": 6,
+      "NNS-VBZ": 2,
+      "VBZ-IN": 1,
+      "JJ-JJ": 7,
+      "NN-VBZ": 2,
+      "VBZ-FW": 1,
+      "JJ-CD": 1,
+      "CD-IN": 1,
+      "VBZ-JJ": 2,
+      "IN-JJ": 2,
+      "JJ-FW": 2,
+      "VBP-IN": 1
+    },
+    "trigram_freq": {
+      "NNP-NNS-VBP": 1,
+      "NNS-VBP-JJ": 8,
+      "VBP-JJ-NN": 4,
+      "JJ-NN-NNP": 2,
+      "NN-NNP-NNP": 6,
+      "NNP-NNP-NN": 6,
+      "NNP-NN-FW": 2,
+      "NN-FW-FW": 7,
+      "FW-FW-NN": 9,
+      "FW-NN-NNP": 3,
+      "NN-NNP-NN": 3,
+      "NNP-NN-NN": 10,
+      "NN-NN-NN": 31,
+      "NN-NN-VBP": 2,
+      "NN-VBP-DT": 1,
+      "VBP-DT-NNP": 1,
+      "DT-NNP-NNP": 1,
+      "NNP-NNP-NNP": 2,
+      "NN-NN-JJ": 8,
+      "NN-JJ-NN": 4,
+      "JJ-NN-NN": 11,
+      "NN-NN-IN": 6,
+      "NN-IN-FW": 7,
+      "IN-FW-FW": 3,
+      "FW-NN-NN": 8,
+      "NN-IN-NNP": 1,
+      "IN-NNP-NNP": 1,
+      "NN-NN-FW": 7,
+      "FW-FW-FW": 24,
+      "FW-FW-NNP": 3,
+      "FW-NNP-CC": 1,
+      "NNP-CC-JJ": 1,
+      "CC-JJ-NN": 1,
+      "NN-NN-NNP": 5,
+      "FW-NN-NNS": 1,
+      "NN-NNS-VBP": 3,
+      "VBP-JJ-NNS": 2,
+      "JJ-NNS-NNS": 3,
+      "NNS-NNS-VBP": 3,
+      "JJ-NN-IN": 3,
+      "NN-JJ-NNS": 2,
+      "JJ-NNS-VBP": 2,
+      "NNS-VBP-FW": 1,
+      "VBP-FW-FW": 1,
+      "FW-NNP-MD": 1,
+      "NNP-MD-VB": 1,
+      "MD-VB-NN": 1,
+      "VB-NN-NN": 1,
+      "NN-NN-NNS": 1,
+      "NN-NNS-IN": 1,
+      "NNS-IN-NN": 1,
+      "IN-NN-NN": 2,
+      "NN-NNP-VBZ": 1,
+      "NNP-VBZ-NNP": 1,
+      "VBZ-NNP-NN": 1,
+      "FW-NNP-NN": 2,
+      "NN-NN-RB": 1,
+      "NN-RB-JJ": 1,
+      "RB-JJ-NN": 1,
+      "IN-FW-NNS": 2,
+      "FW-NNS-VBP": 1,
+      "VBP-JJ-NNP": 1,
+      "JJ-NNP-NN": 1,
+      "FW-NN-FW": 2,
+      "NN-FW-NN": 4,
+      "NNP-NNP-FW": 3,
+      "NNP-FW-NN": 1,
+      "IN-FW-JJ": 3,
+      "FW-JJ-NN": 3,
+      "FW-NNS-VBZ": 1,
+      "NNS-VBZ-IN": 1,
+      "VBZ-IN-FW": 1,
+      "FW-JJ-JJ": 1,
+      "JJ-JJ-NN": 5,
+      "JJ-NN-VBZ": 1,
+      "NN-VBZ-FW": 1,
+      "VBZ-FW-NN": 1,
+      "NNP-FW-JJ": 2,
+      "FW-JJ-NNS": 1,
+      "VBP-JJ-CD": 1,
+      "JJ-CD-IN": 1,
+      "CD-IN-NN": 1,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-JJ": 1,
+      "VBZ-JJ-JJ": 1,
+      "FW-NN-IN": 1,
+      "JJ-NN-NNS": 1,
+      "VBP-JJ-JJ": 1,
+      "JJ-NN-JJ": 1,
+      "NN-JJ-JJ": 3,
+      "NN-IN-JJ": 2,
+      "IN-JJ-JJ": 1,
+      "NN-VBP-JJ": 1,
+      "NN-FW-JJ": 1,
+      "FW-JJ-FW": 1,
+      "JJ-FW-NNP": 1,
+      "NNP-NN-NNS": 1,
+      "NNS-VBP-IN": 1,
+      "VBP-IN-FW": 1,
+      "IN-FW-NNP": 1,
+      "FW-NNP-NNP": 1,
+      "JJ-NN-FW": 1,
+      "JJ-JJ-FW": 1,
+      "JJ-FW-FW": 1,
+      "JJ-JJ-NNS": 1,
+      "JJ-NNS-VBZ": 1,
+      "NNS-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 1,
+      "IN-JJ-NN": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 114,
+        "FW": 64,
+        "JJ": 37,
+        "NNP": 31,
+        "NNS": 16
+      },
+      "top_bigrams": {
+        "NN-NN": 63,
+        "FW-FW": 36,
+        "JJ-NN": 20,
+        "FW-NN": 15,
+        "NNP-NN": 13
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 31,
+        "FW-FW-FW": 24,
+        "JJ-NN-NN": 11,
+        "NNP-NN-NN": 10,
+        "FW-FW-NN": 9
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 8,
+    "chunk_counts": {
+      "NP": 73,
+      "VP": 19,
+      "PP": 3,
+      "ADJP": 4
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 3,
+        "weight": 0.028
+      },
+      {
+        "rule": "NP -> ('Venezuela', 'NNP')",
+        "frequency": 3,
+        "weight": 0.028
+      },
+      {
+        "rule": "S -> NP VP ('en', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0093
+      },
+      {
+        "rule": "NP -> ('Los', 'NNP') ('empresarios', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0093
+      },
+      {
+        "rule": "VP -> ('creen', 'VBP') NP",
+        "frequency": 1,
+        "weight": 0.0093
+      },
+      {
+        "rule": "NP -> ('conveniente', 'JJ') ('que', 'NN') ('Nicolás', 'NNP') ('Maduro', 'NNP') ('siga', 'NN')",
+        "frequency": 1,
+        "weight": 0.0093
+      },
+      {
+        "rule": "NP -> ('el', 'NN') ('poder', 'NN')",
+        "frequency": 1,
+        "weight": 0.0093
+      },
+      {
+        "rule": "S -> NP VP ('(', '(') NP (')', ')') NP NP ('de', 'IN') ('empresarios', 'FW') ('del', 'FW') NP PP VP ('de', 'IN') ('que', 'FW') ('la', 'FW') ('mejor', 'FW') ('opción', 'FW') ('para', 'FW') ('el', 'FW') ('futuro', 'FW') ('de', 'FW') NP ('es', 'CC') NP ('en', 'FW') ('el', 'FW') NP VP VP ('en', 'IN') ('el', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0093
+      },
+      {
+        "rule": "NP -> ('Un', 'NNP') ('reciente', 'NN') ('reportaje', 'NN') ('publicado', 'NN')",
+        "frequency": 1,
+        "weight": 0.0093
+      },
+      {
+        "rule": "VP -> ('por', 'VBP') NP",
+        "frequency": 1,
+        "weight": 0.0093
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Los empresarios"
+      },
+      {
+        "label": "VP",
+        "text": "creen conveniente que Nicolás Maduro siga"
+      },
+      {
+        "label": "NP",
+        "text": "conveniente que Nicolás Maduro siga"
+      },
+      {
+        "label": "NP",
+        "text": "el poder"
+      },
+      {
+        "label": "NP",
+        "text": "Un reciente reportaje publicado"
+      },
+      {
+        "label": "VP",
+        "text": "por The Wall Street Journal"
+      },
+      {
+        "label": "NP",
+        "text": "The Wall Street Journal"
+      },
+      {
+        "label": "NP",
+        "text": "WSJ"
+      },
+      {
+        "label": "NP",
+        "text": "indica que"
+      },
+      {
+        "label": "NP",
+        "text": "un grupo significativo"
+      },
+      {
+        "label": "NP",
+        "text": "sector petrolero"
+      },
+      {
+        "label": "PP",
+        "text": "en Estados Unidos ha"
+      },
+      {
+        "label": "NP",
+        "text": "Estados Unidos ha"
+      },
+      {
+        "label": "VP",
+        "text": "llegado a la conclusión"
+      },
+      {
+        "label": "NP",
+        "text": "a la conclusión"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Los/NNP empresarios/NNS)\n  (VP\n    creen/VBP\n    (NP conveniente/JJ que/NN Nicolás/NNP Maduro/NNP siga/NN))\n  en/FW\n  (NP el/NN poder/NN)\n  ./.)",
+      "(S\n  (NP Un/NNP reciente/NN reportaje/NN publicado/NN)\n  (VP por/VBP (NP The/DT Wall/NNP Street/NNP Journal/NNP))\n  (/(\n  (NP WSJ/NNP)\n  )/)\n  (NP indica/NN que/NN)\n  (NP un/JJ grupo/NN significativo/NN)\n  de/IN\n  empresarios/FW\n  del/FW\n  (NP sector/NN petrolero/NN)\n  (PP en/IN (NP Estados/NNP Unidos/NNP ha/NN))\n  (VP llegado/VBD (NP a/DT la/NN conclusión/NN))\n  de/IN\n  que/FW\n  la/FW\n  mejor/FW\n  opción/FW\n  para/FW\n  el/FW\n  futuro/FW\n  de/FW\n  (NP Venezuela/NNP)\n  es/CC\n  (NP que/JJ el/NN presidente/NN Nicolás/NNP Maduro/NNP continúe/NN)\n  en/FW\n  el/FW\n  (NP poder/NN tras/NNS)\n  (VP las/VBP (NP próximas/JJ elecciones/NNS))\n  (VP presidenciales/VBZ (NP a/DT celebrarse/NN el/NN domingo/NN))\n  en/IN\n  el/FW\n  (NP país/NN caribeño/NN)\n  ./.)",
+      "(S\n  (NP Esta/NNP postura/NN se/NN fundamenta/NN)\n  ,/,\n  (NP según/JJ los/NN empresarios/NNS)\n  ,/,\n  en/FW\n  la/FW\n  percepción/FW\n  de/FW\n  que/FW\n  la/FW\n  administración/FW\n  de/FW\n  (NP Maduro/NNP)\n  ofrece/MD\n  (VP\n    una/VB\n    (NP mayor/NN estabilidad/NN para/NN las/NN inversiones/NNS))\n  (PP en/IN (NP el/NN país/NN sudamericano/NN))\n  ./.)",
+      "(S\n  (NP Durante/NNP)\n  el/CC\n  (NP último/NNP año/NN)\n  ,/,\n  (NP los/JJ empresarios/JJ estadounidenses/NNS)\n  (VP han/VBP (NP mantenido/JJ conversaciones/NNS indirectas/NNS))\n  (VP con/VBP (NP el/JJ mandatario/NN venezolano/NN))\n  ,/,\n  (NP lo/JJ que/NN ha/NN fortalecido/NN su/NN opinión/NN sobre/NN)\n  la/FW\n  continuidad/FW\n  de/FW\n  su/FW\n  (NP gobierno/NN)\n  ./.)",
+      "(S\n  (NP En/NNP este/NN contexto/NN)\n  ,/,\n  (NP han/NN ejercido/NN presión/NN sobre/NN la/NN)\n  (NP\n    administración/JJ\n    del/NN\n    presidente/NN\n    Joe/NNP\n    Biden/NNP\n    para/NN\n    que/NN)\n  considere/RB\n  (NP el/JJ levantamiento/NN)\n  de/IN\n  las/FW\n  (NP sanciones/NNS)\n  (VP económicas/VBP)\n  (VP impuestas/VB (NP a/DT Venezuela/NNP))\n  ,/,\n  (NP con/NN el/NN)\n  objetivo/FW\n  de/FW\n  facilitar/FW\n  la/FW\n  recuperación/FW\n  y/FW\n  (NP cooperación/NN)\n  en/FW\n  (NP el/NN sector/NN petrolero/NN)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "PAISES",
+      "GOBIERNOS_OFICIALES",
+      "GRUPOS_ESPECIFICOS"
+    ],
+    "matches": [
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente nicolás maduro",
+        "position": [
+          313,
+          338
+        ],
+        "start": 313,
+        "end": 338
+      },
+      {
+        "category": "GRUPOS_ESPECIFICOS",
+        "matched_text": "empresarios",
+        "position": [
+          4,
+          15
+        ],
+        "start": 4,
+        "end": 15
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "estados unidos",
+        "position": [
+          210,
+          224
+        ],
+        "start": 210,
+        "end": 224
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "venezuela",
+        "position": [
+          293,
+          302
+        ],
+        "start": 293,
+        "end": 302
+      }
+    ],
+    "match_count": 4
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Nicolás Maduro",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Venezuela",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "EE.UU.",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Maduro",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "los Estados Unidos",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Joe Biden",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "en Estados Unidos",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "WSJ",
+        "tipo": "Organizacion"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "WSJ",
+        "relacion": "INDICAR",
+        "objeto": "en Estados Unidos"
+      },
+      {
+        "sujeto": "WSJ",
+        "relacion": "INDICAR",
+        "objeto": "Venezuela"
+      },
+      {
+        "sujeto": "WSJ",
+        "relacion": "INDICAR",
+        "objeto": "Nicolás Maduro"
+      },
+      {
+        "sujeto": "en Estados Unidos",
+        "relacion": "LLEGAR_INDICAR",
+        "objeto": "Venezuela"
+      },
+      {
+        "sujeto": "en Estados Unidos",
+        "relacion": "LLEGAR_INDICAR",
+        "objeto": "Nicolás Maduro"
+      },
+      {
+        "sujeto": "Venezuela",
+        "relacion": "SER_LLEGAR_INDICAR",
+        "objeto": "Nicolás Maduro"
+      },
+      {
+        "sujeto": "Joe Biden",
+        "relacion": "EJERCER",
+        "objeto": "Venezuela"
+      },
+      {
+        "sujeto": "Venezuela",
+        "relacion": "CORRER_AFIRMAR",
+        "objeto": "WSJ"
+      },
+      {
+        "sujeto": "EE.UU.",
+        "relacion": "REACTIVAR_DIFICULTAR_LLEVAR_EXPRESAR",
+        "objeto": "Venezuela"
+      },
+      {
+        "sujeto": "EE.UU.",
+        "relacion": "REACTIVAR_DIFICULTAR_LLEVAR_EXPRESAR",
+        "objeto": "los Estados Unidos"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.743,
+    "pos": 0.024,
+    "neu": 0.976,
+    "neg": 0.0,
+    "label": "positive"
+  }
+}

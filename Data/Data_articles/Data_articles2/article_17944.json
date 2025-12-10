@@ -1,0 +1,651 @@
+{
+  "url": "https://www.telesurtv.net/israel-renovo-el-bloqueo-a-la-red-de-noticias-al-mayadeen/",
+  "title": "Israel amenaza a corresponsales de Al Mayadeen en Gaza - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Alamayadeen",
+    "Gaza",
+    "Israel",
+    "Líbano",
+    "Palestina"
+  ],
+  "text": "El Gobierno de Israel aprobó este domingo una propuesta de ley del ministro de Comunicaciones, Shlomo Krai, de renovar la prohibición de la red de noticias libanesa Al Mayadeen, y firmó una orden para confiscar los equipos de la cadena y bloquear sus sitios en internet.\nSegún señalaron desde el medio a teleSUR, la medida tomada por el régimen de ocupación israelí incluyó la posibilidad de considerar como “terroristas” a los periodistas que reportan desde los territorios ocupados las atrocidades cometidas por Tel Aviv.\nDesde la señal libanesa denuncian la medida como una censura a su cobertura continua del conflicto en la Franja de Gaza, Cisjordania y Jerusalén ocupadas.\nA través de su cuenta en la red social X, Al Mayadeen denunció la orden de Israel, la cual calificó de “un flagrante ataque a la libertad de expresión y un intento de ocultar la verdad”.\nAsimismo, agregó que el propósito central del periodismo es exponer la verdad, informar al público y desacreditar la información errónea que se difunde sobre cuestiones globales.\n\nLa medida renueva la decisión tomada a pocos días del inicio de la invasión israelí a la Franja de Gaza por el gabinete de Seguridad de la ocupación, el cual suspendió la multiplataforma libanesa bajo el pretexto de que la información aportada por el medio perjudicaba la seguridad de Israel.\n",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/israel-renovo-el-bloqueo-a-la-red-de-noticias-al-mayadeen/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-08.json",
+    "message_index": 1124,
+    "message_id": 74364,
+    "date": "2024-08-11T18:55:12+00:00",
+    "text": "teleSUR\nIsrael amenaza a corresponsales de Al Mayadeen en Gaza\nhttps://www.telesurtv.net/israel-renovo-el-bloqueo-a-la-red-de-noticias-al-mayadeen/",
+    "photo_path": null,
+    "views": 4770,
+    "reactions": {
+      "🤬": 44,
+      "👍": 1,
+      "👎": 1
+    },
+    "total_reactions": 46
+  },
+  "preprocessing": {
+    "cleaned": "el gobierno de israel aprobó este domingo una propuesta de ley del ministro de comunicaciones, shlomo krai, de renovar la prohibición de la red de noticias libanesa al mayadeen, y firmó una orden para confiscar los equipos de la cadena y bloquear sus sitios en internet. según señalaron desde el medio a telesur, la medida tomada por el régimen de ocupación israelí incluyó la posibilidad de considerar como “terroristas” a los periodistas que reportan desde los territorios ocupados las atrocidades cometidas por tel aviv. desde la señal libanesa denuncian la medida como una censura a su cobertura continua del conflicto en la franja de gaza, cisjordania y jerusalén ocupadas. a través de su cuenta en la red social x, al mayadeen denunció la orden de israel, la cual calificó de “un flagrante ataque a la libertad de expresión y un intento de ocultar la verdad”. asimismo, agregó que el propósito central del periodismo es exponer la verdad, informar al público y desacreditar la información errónea que se difunde sobre cuestiones globales. la medida renueva la decisión tomada a pocos días del inicio de la invasión israelí a la franja de gaza por el gabinete de seguridad de la ocupación, el cual suspendió la multiplataforma libanesa bajo el pretexto de que la información aportada por el medio perjudicaba la seguridad de israel.",
+    "tokens": [
+      "gobierno",
+      "israel",
+      "aprobó",
+      "domingo",
+      "propuesta",
+      "ley",
+      "ministro",
+      "comunicaciones",
+      ",",
+      "shlomo",
+      "krai",
+      ",",
+      "renovar",
+      "prohibición",
+      "red",
+      "noticias",
+      "libanesa",
+      "mayadeen",
+      ",",
+      "firmó",
+      "orden",
+      "confiscar",
+      "equipos",
+      "cadena",
+      "bloquear",
+      "sitios",
+      "internet",
+      ".",
+      "según",
+      "señalaron",
+      "medio",
+      "telesur",
+      ",",
+      "medida",
+      "tomada",
+      "régimen",
+      "ocupación",
+      "israelí",
+      "incluyó",
+      "posibilidad",
+      "considerar",
+      "“",
+      "terroristas",
+      "”",
+      "periodistas",
+      "reportan",
+      "territorios",
+      "ocupados",
+      "atrocidades",
+      "cometidas",
+      "tel",
+      "aviv",
+      ".",
+      "señal",
+      "libanesa",
+      "denuncian",
+      "medida",
+      "censura",
+      "cobertura",
+      "continua",
+      "conflicto",
+      "franja",
+      "gaza",
+      ",",
+      "cisjordania",
+      "jerusalén",
+      "ocupadas",
+      ".",
+      "través",
+      "cuenta",
+      "red",
+      "social",
+      "x",
+      ",",
+      "mayadeen",
+      "denunció",
+      "orden",
+      "israel",
+      ",",
+      "calificó",
+      "“",
+      "flagrante",
+      "ataque",
+      "libertad",
+      "expresión",
+      "intento",
+      "ocultar",
+      "verdad",
+      "”",
+      ".",
+      "asimismo",
+      ",",
+      "agregó",
+      "propósito",
+      "central",
+      "periodismo",
+      "exponer",
+      "verdad",
+      ",",
+      "informar",
+      "público",
+      "desacreditar",
+      "información",
+      "errónea",
+      "difunde",
+      "cuestiones",
+      "globales",
+      ".",
+      "medida",
+      "renueva",
+      "decisión",
+      "tomada",
+      "pocos",
+      "días",
+      "inicio",
+      "invasión",
+      "israelí",
+      "franja",
+      "gaza",
+      "gabinete",
+      "seguridad",
+      "ocupación",
+      ",",
+      "suspendió",
+      "multiplataforma",
+      "libanesa",
+      "bajo",
+      "pretexto",
+      "información",
+      "aportada",
+      "medio",
+      "perjudicaba",
+      "seguridad",
+      "israel",
+      "."
+    ],
+    "token_count": 135,
+    "sentence_count": 6
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 27,
+      "IN": 7,
+      "VBP": 5,
+      "NN": 66,
+      "JJ": 24,
+      "FW": 67,
+      "NNS": 8,
+      "VBD": 2,
+      "MD": 1,
+      "VB": 1
+    },
+    "bigram_freq": {
+      "NNP-NNP": 11,
+      "NNP-IN": 1,
+      "IN-NNP": 1,
+      "NNP-VBP": 1,
+      "VBP-NN": 1,
+      "NN-NN": 35,
+      "NN-JJ": 9,
+      "JJ-NN": 13,
+      "NN-IN": 5,
+      "IN-FW": 4,
+      "FW-FW": 41,
+      "FW-NNP": 10,
+      "NNP-FW": 5,
+      "NNP-NN": 5,
+      "JJ-JJ": 4,
+      "JJ-FW": 2,
+      "FW-VBP": 1,
+      "VBP-JJ": 3,
+      "JJ-NNS": 3,
+      "NNS-FW": 1,
+      "FW-NN": 11,
+      "NN-NNP": 1,
+      "NN-FW": 13,
+      "NNS-IN": 1,
+      "FW-JJ": 4,
+      "NN-NNS": 2,
+      "NNS-VBP": 3,
+      "VBP-NNS": 1,
+      "NNS-NNS": 2,
+      "JJ-NNP": 2,
+      "NNP-VBD": 1,
+      "VBD-JJ": 2,
+      "NNP-MD": 1,
+      "MD-VB": 1,
+      "VB-FW": 1,
+      "IN-NN": 1,
+      "NNP-JJ": 1,
+      "IN-JJ": 1,
+      "NNS-NNP": 1,
+      "NN-VBD": 1
+    },
+    "trigram_freq": {
+      "NNP-NNP-IN": 1,
+      "NNP-IN-NNP": 1,
+      "IN-NNP-VBP": 1,
+      "NNP-VBP-NN": 1,
+      "VBP-NN-NN": 1,
+      "NN-NN-JJ": 6,
+      "NN-JJ-NN": 3,
+      "JJ-NN-IN": 2,
+      "NN-IN-FW": 3,
+      "IN-FW-FW": 2,
+      "FW-FW-FW": 28,
+      "FW-FW-NNP": 5,
+      "FW-NNP-NNP": 4,
+      "NNP-NNP-NNP": 4,
+      "NNP-NNP-FW": 1,
+      "NNP-FW-FW": 2,
+      "NNP-NNP-NN": 2,
+      "NNP-NN-JJ": 1,
+      "NN-JJ-JJ": 3,
+      "JJ-JJ-NN": 3,
+      "JJ-NN-NN": 9,
+      "NN-JJ-FW": 1,
+      "JJ-FW-FW": 1,
+      "FW-FW-VBP": 1,
+      "FW-VBP-JJ": 1,
+      "VBP-JJ-NNS": 1,
+      "JJ-NNS-FW": 1,
+      "NNS-FW-NN": 1,
+      "FW-NN-NNP": 1,
+      "NN-NNP-NN": 1,
+      "NNP-NN-NN": 3,
+      "NN-NN-NN": 18,
+      "NN-NN-FW": 9,
+      "NN-FW-NN": 4,
+      "FW-NN-NN": 4,
+      "NN-JJ-NNS": 2,
+      "JJ-NNS-IN": 1,
+      "NNS-IN-FW": 1,
+      "IN-FW-JJ": 1,
+      "FW-JJ-NN": 4,
+      "NN-FW-FW": 7,
+      "FW-FW-NN": 5,
+      "FW-NN-NNS": 1,
+      "NN-NNS-VBP": 1,
+      "NNS-VBP-JJ": 2,
+      "VBP-JJ-NN": 1,
+      "JJ-NNS-VBP": 1,
+      "NNS-VBP-NNS": 1,
+      "VBP-NNS-NNS": 1,
+      "NNS-NNS-VBP": 1,
+      "VBP-JJ-NNP": 1,
+      "JJ-NNP-NNP": 2,
+      "NNP-NNP-VBD": 1,
+      "NNP-VBD-JJ": 1,
+      "VBD-JJ-JJ": 1,
+      "JJ-NN-FW": 2,
+      "FW-NN-JJ": 1,
+      "FW-NN-IN": 2,
+      "IN-FW-NNP": 1,
+      "FW-NNP-FW": 3,
+      "NNP-FW-NNP": 2,
+      "NNP-NNP-MD": 1,
+      "NNP-MD-VB": 1,
+      "MD-VB-FW": 1,
+      "VB-FW-FW": 1,
+      "NN-IN-NN": 1,
+      "IN-NN-JJ": 1,
+      "JJ-JJ-NNP": 1,
+      "NNP-NNP-JJ": 1,
+      "NNP-JJ-NN": 1,
+      "NN-IN-JJ": 1,
+      "IN-JJ-NN": 1,
+      "FW-FW-JJ": 2,
+      "FW-NNP-NN": 2,
+      "NN-NN-NNS": 1,
+      "NN-NNS-NNS": 1,
+      "NNS-NNS-NNP": 1,
+      "NNS-NNP-FW": 1,
+      "NNP-FW-NN": 1,
+      "FW-NN-FW": 2,
+      "NN-FW-NNP": 1,
+      "NNP-NN-VBD": 1,
+      "NN-VBD-JJ": 1,
+      "VBD-JJ-FW": 1,
+      "JJ-FW-NNP": 1,
+      "NN-FW-JJ": 1,
+      "NN-NN-IN": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "FW": 67,
+        "NN": 66,
+        "NNP": 27,
+        "JJ": 24,
+        "NNS": 8
+      },
+      "top_bigrams": {
+        "FW-FW": 41,
+        "NN-NN": 35,
+        "JJ-NN": 13,
+        "NN-FW": 13,
+        "NNP-NNP": 11
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 28,
+        "NN-NN-NN": 18,
+        "JJ-NN-NN": 9,
+        "NN-NN-FW": 9,
+        "NN-FW-FW": 7
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 6,
+    "chunk_counts": {
+      "NP": 58,
+      "PP": 3,
+      "VP": 9
+    },
+    "top_rules": [
+      {
+        "rule": "NP -> ('Israel', 'NNP')",
+        "frequency": 3,
+        "weight": 0.0395
+      },
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0263
+      },
+      {
+        "rule": "NP -> ('Franja', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0263
+      },
+      {
+        "rule": "S -> NP PP VP ('de', 'IN') ('ley', 'FW') ('del', 'FW') ('ministro', 'FW') ('de', 'FW') NP (',', ',') NP (',', ',') ('de', 'FW') ('renovar', 'FW') ('la', 'FW') ('prohibición', 'FW') ('de', 'FW') ('la', 'FW') ('red', 'FW') ('de', 'FW') ('noticias', 'FW') ('libanesa', 'FW') NP (',', ',') NP VP ('equipos', 'FW') ('de', 'FW') ('la', 'FW') ('cadena', 'FW') ('y', 'FW') VP ('en', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0132
+      },
+      {
+        "rule": "NP -> ('El', 'NNP') ('Gobierno', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0132
+      },
+      {
+        "rule": "VP -> ('aprobó', 'VBP') NP NP",
+        "frequency": 1,
+        "weight": 0.0132
+      },
+      {
+        "rule": "NP -> ('este', 'NN') ('domingo', 'NN')",
+        "frequency": 1,
+        "weight": 0.0132
+      },
+      {
+        "rule": "NP -> ('una', 'JJ') ('propuesta', 'NN')",
+        "frequency": 1,
+        "weight": 0.0132
+      },
+      {
+        "rule": "NP -> ('Comunicaciones', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0132
+      },
+      {
+        "rule": "NP -> ('Shlomo', 'NNP') ('Krai', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0132
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El Gobierno"
+      },
+      {
+        "label": "PP",
+        "text": "de Israel"
+      },
+      {
+        "label": "NP",
+        "text": "Israel"
+      },
+      {
+        "label": "VP",
+        "text": "aprobó este domingo una propuesta"
+      },
+      {
+        "label": "NP",
+        "text": "este domingo"
+      },
+      {
+        "label": "NP",
+        "text": "una propuesta"
+      },
+      {
+        "label": "NP",
+        "text": "Comunicaciones"
+      },
+      {
+        "label": "NP",
+        "text": "Shlomo Krai"
+      },
+      {
+        "label": "NP",
+        "text": "Al Mayadeen"
+      },
+      {
+        "label": "NP",
+        "text": "y"
+      },
+      {
+        "label": "VP",
+        "text": "firmó una orden para confiscar los"
+      },
+      {
+        "label": "NP",
+        "text": "una orden para confiscar"
+      },
+      {
+        "label": "VP",
+        "text": "bloquear sus sitios"
+      },
+      {
+        "label": "NP",
+        "text": "sus sitios"
+      },
+      {
+        "label": "NP",
+        "text": "internet"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP El/NNP Gobierno/NNP)\n  (PP de/IN (NP Israel/NNP))\n  (VP aprobó/VBP (NP este/NN domingo/NN) (NP una/JJ propuesta/NN))\n  de/IN\n  ley/FW\n  del/FW\n  ministro/FW\n  de/FW\n  (NP Comunicaciones/NNP)\n  ,/,\n  (NP Shlomo/NNP Krai/NNP)\n  ,/,\n  de/FW\n  renovar/FW\n  la/FW\n  prohibición/FW\n  de/FW\n  la/FW\n  red/FW\n  de/FW\n  noticias/FW\n  libanesa/FW\n  (NP Al/NNP Mayadeen/NNP)\n  ,/,\n  (NP y/NNP)\n  (VP firmó/VBZ (NP una/JJ orden/JJ para/NN confiscar/NN) los/JJ)\n  equipos/FW\n  de/FW\n  la/FW\n  cadena/FW\n  y/FW\n  (VP bloquear/VBP (NP sus/JJ sitios/NNS))\n  en/FW\n  (NP internet/NN)\n  ./.)",
+      "(S\n  (NP Según/NNP señalaron/NN desde/NN el/NN medio/NN)\n  (NP a/DT teleSUR/NN)\n  ,/,\n  la/FW\n  medida/FW\n  (NP tomada/NN por/NN)\n  (NP el/JJ régimen/NNS)\n  de/IN\n  ocupación/FW\n  (NP israelí/JJ incluyó/NN la/NN)\n  posibilidad/FW\n  de/FW\n  considerar/FW\n  (NP como/NN “/NNP)\n  (VP terroristas/VBZ)\n  (VP\n    ”/VB\n    (NP a/DT los/NN)\n    (NP periodistas/JJ que/NN reportan/NN desde/NN)\n    (NP los/JJ territorios/NNS))\n  (VP ocupados/VBP (NP las/NNS atrocidades/NNS))\n  (VP cometidas/VBP (NP por/JJ Tel/NNP Aviv/NNP))\n  ./.)",
+      "(S\n  (NP Desde/NNP la/NN señal/NN libanesa/NN)\n  (NP denuncian/JJ la/NN)\n  medida/FW\n  (NP como/NN)\n  (NP una/JJ censura/NN)\n  (NP a/DT su/NN cobertura/NN continua/NN)\n  del/FW\n  (NP conflicto/NN)\n  en/IN\n  la/FW\n  (NP Franja/NNP)\n  de/FW\n  (NP Gaza/NNP)\n  ,/,\n  (NP Cisjordania/NNP y/NNP Jerusalén/NNP ocupadas/NN)\n  ./.)",
+      "(S\n  (NP A/DT través/NN)\n  de/IN\n  su/FW\n  (NP cuenta/NN)\n  (PP en/IN (NP la/NN))\n  (NP red/JJ social/JJ X/NNP)\n  ,/,\n  (NP Al/NNP Mayadeen/NNP denunció/NN la/NN)\n  orden/FW\n  de/FW\n  (NP Israel/NNP)\n  ,/,\n  la/FW\n  (NP cual/JJ calificó/NN)\n  (PP de/IN (NP “/NNP))\n  (NP un/JJ flagrante/NN ataque/NN)\n  (NP a/DT la/NN)\n  libertad/FW\n  de/FW\n  expresión/FW\n  y/FW\n  (NP un/JJ intento/NN)\n  de/FW\n  ocultar/FW\n  la/FW\n  verdad/FW\n  (NP ”/NN)\n  ./.)",
+      "(S\n  (NP Asimismo/NNP)\n  ,/,\n  (NP agregó/NN que/NN el/NN)\n  (NP\n    propósito/JJ\n    central/JJ\n    del/NN\n    periodismo/NN\n    es/NN\n    exponer/NN\n    la/NN\n    verdad/NN)\n  ,/,\n  (NP informar/NN al/NN público/NN y/NN desacreditar/NN la/NN)\n  (NP\n    información/JJ\n    errónea/NN\n    que/NN\n    se/NN\n    difunde/NN\n    sobre/NN\n    cuestiones/NNS\n    globales/NNS)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "GOBIERNOS_OFICIALES",
+      "LEYES_NORMATIVAS",
+      "APROBACION_RECHAZO",
+      "ACCIONES_LEGALES",
+      "PAISES",
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "CONFLICTOS_ARMADOS_OPERACIONES",
+      "JURIDICO_LEGISLATIVO_CORRUPCION"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "conflicto en la",
+        "position": [
+          613,
+          628
+        ],
+        "start": 613,
+        "end": 628
+      },
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "denunció la orden de israel, la cual calificó de “un flagrante ataque a",
+        "position": [
+          733,
+          804
+        ],
+        "start": 733,
+        "end": 804
+      },
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "ocupación",
+        "position": [
+          348,
+          357
+        ],
+        "start": 348,
+        "end": 357
+      },
+      {
+        "category": "JURIDICO_LEGISLATIVO_CORRUPCION",
+        "matched_text": "aprobó este domingo una propuesta de ley",
+        "position": [
+          22,
+          62
+        ],
+        "start": 22,
+        "end": 62
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "gobierno de israel aprobó",
+        "position": [
+          3,
+          28
+        ],
+        "start": 3,
+        "end": 28
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "ministro de comunicaciones",
+        "position": [
+          67,
+          93
+        ],
+        "start": 67,
+        "end": 93
+      },
+      {
+        "category": "APROBACION_RECHAZO",
+        "matched_text": "aprobó",
+        "position": [
+          22,
+          28
+        ],
+        "start": 22,
+        "end": 28
+      },
+      {
+        "category": "ACCIONES_LEGALES",
+        "matched_text": "denunció",
+        "position": [
+          733,
+          741
+        ],
+        "start": 733,
+        "end": 741
+      },
+      {
+        "category": "LEYES_NORMATIVAS",
+        "matched_text": "propuesta de ley",
+        "position": [
+          46,
+          62
+        ],
+        "start": 46,
+        "end": 62
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "israelí",
+        "position": [
+          358,
+          365
+        ],
+        "start": 358,
+        "end": 365
+      }
+    ],
+    "match_count": 10
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Franja de Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Gobierno de Israel",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Al Mayadeen",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Cisjordania",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Seguridad",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Israel",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Shlomo Krai",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "orden de Israel",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Jerusalén",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Tel Aviv",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Gobierno de Israel",
+        "relacion": "APROBAR",
+        "objeto": "Shlomo Krai"
+      },
+      {
+        "sujeto": "Gobierno de Israel",
+        "relacion": "APROBAR",
+        "objeto": "Al Mayadeen"
+      },
+      {
+        "sujeto": "Al Mayadeen",
+        "relacion": "DENUNCIAR",
+        "objeto": "orden de Israel"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.0,
+    "pos": 0.0,
+    "neu": 1.0,
+    "neg": 0.0,
+    "label": "neutral"
+  }
+}

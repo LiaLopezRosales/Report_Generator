@@ -1,0 +1,756 @@
+{
+  "url": "https://www.telesurtv.net/celebran-en-brasil-edicion-30-del-grito-de-los-excluidos/",
+  "title": "Celebran en Brasil edición 30 del Grito de los Excluidos - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "Comunidades Eclesiales",
+    "Día de la Independencia",
+    "Grito de los Excluidos",
+    "Movimientos populares",
+    "Recife"
+  ],
+  "text": "\nDesde las 09H00 (hora local) de este sábado, Brasil vive la edición 30 del Grito de los Excluidos que, como cada 7 de septiembre a propósito del Día de la Independencia en el país suramericano, lucha por la justicia social, la igualdad nacional y la defensa de la naturaleza, esta vez con el lema “todas las formas de vida importan, pero ¿a quién le importa?”.\nActivistas y militantes de movimientos populares y organizaciones sindicales y religiosas protagonizan el evento tradicional con una concentración en el Parque Trece de Mayo, en el centro de Recife (noreste de Brasil). En esta ciudad, los participantes se reúnen en el Movimiento de Trabajadores Cristianos, aunque la cita ocurre en diversos puntos de la nación.\nEn entrevista con Brasil de Fato Pernambuco, la profesora Sandra Gomes, miembro católica de las Comunidades Eclesiales Básicas y fundadora del Grito, aseguró que el tema continúa sin cambios, lo que se modifica es el lema. El de este año insiste en la degradación del planeta y en la importancia del medio ambiente.\nHistóricamente, este acto de denuncia de las desigualdades sociales enfatiza en asuntos como la pobreza y la exclusión. Por tanto, apuesta por la participación ciudadana en las decisiones políticas que afectan la vida cotidiana, basado en los principios de justicia y democracia de la idea “la vida primero”.\nDe acuerdo con Gomes, el movimiento nació en el marco de una reunión de la Conferencia Nacional de Obispos de Brasil (CNBB). Fue impulsado por un debate entre pastores sociales, que defendieron una fe profética y comprometida con la mejora de la vida del pueblo, por encima del neoliberalismo y el capitalismo, señaló.\nAsimismo, insistió en el debilitamiento de las Comunidades Eclesiales Básicas durante las últimas décadas. En ese sentido, significó su preocupación por el discurso fundamentalista que ha adoptado la religión, con incidencias en los derechos sociales e individuales.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/celebran-en-brasil-edicion-30-del-grito-de-los-excluidos/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-09.json",
+    "message_index": 1352,
+    "message_id": 75922,
+    "date": "2024-09-07T18:55:12+00:00",
+    "text": "teleSUR\nCelebran en Brasil edición 30 del Grito de los Excluidos\nhttps://www.telesurtv.net/celebran-en-brasil-edicion-30-del-grito-de-los-excluidos/",
+    "photo_path": null,
+    "views": 3551,
+    "reactions": {
+      "👍": 56,
+      "🤔": 10
+    },
+    "total_reactions": 66
+  },
+  "preprocessing": {
+    "cleaned": "desde las 09h00 (hora local) de este sábado, brasil vive la edición 30 del grito de los excluidos que, como cada 7 de septiembre a propósito del día de la independencia en el país suramericano, lucha por la justicia social, la igualdad nacional y la defensa de la naturaleza, esta vez con el lema “todas las formas de vida importan, pero ¿a quién le importa?”. activistas y militantes de movimientos populares y organizaciones sindicales y religiosas protagonizan el evento tradicional con una concentración en el parque trece de mayo, en el centro de recife (noreste de brasil). en esta ciudad, los participantes se reúnen en el movimiento de trabajadores cristianos, aunque la cita ocurre en diversos puntos de la nación. en entrevista con brasil de fato pernambuco, la profesora sandra gomes, miembro católica de las comunidades eclesiales básicas y fundadora del grito, aseguró que el tema continúa sin cambios, lo que se modifica es el lema. el de este año insiste en la degradación del planeta y en la importancia del medio ambiente. históricamente, este acto de denuncia de las desigualdades sociales enfatiza en asuntos como la pobreza y la exclusión. por tanto, apuesta por la participación ciudadana en las decisiones políticas que afectan la vida cotidiana, basado en los principios de justicia y democracia de la idea “la vida primero”. de acuerdo con gomes, el movimiento nació en el marco de una reunión de la conferencia nacional de obispos de brasil (cnbb). fue impulsado por un debate entre pastores sociales, que defendieron una fe profética y comprometida con la mejora de la vida del pueblo, por encima del neoliberalismo y el capitalismo, señaló. asimismo, insistió en el debilitamiento de las comunidades eclesiales básicas durante las últimas décadas. en ese sentido, significó su preocupación por el discurso fundamentalista que ha adoptado la religión, con incidencias en los derechos sociales e individuales.",
+    "tokens": [
+      "09h00",
+      "(",
+      "hora",
+      "local",
+      ")",
+      "sábado",
+      ",",
+      "brasil",
+      "vive",
+      "edición",
+      "30",
+      "grito",
+      "excluidos",
+      ",",
+      "cada",
+      "7",
+      "septiembre",
+      "propósito",
+      "día",
+      "independencia",
+      "país",
+      "suramericano",
+      ",",
+      "lucha",
+      "justicia",
+      "social",
+      ",",
+      "igualdad",
+      "nacional",
+      "defensa",
+      "naturaleza",
+      ",",
+      "vez",
+      "lema",
+      "“",
+      "todas",
+      "formas",
+      "vida",
+      "importan",
+      ",",
+      "¿a",
+      "quién",
+      "importa",
+      "?",
+      "”",
+      ".",
+      "activistas",
+      "militantes",
+      "movimientos",
+      "populares",
+      "organizaciones",
+      "sindicales",
+      "religiosas",
+      "protagonizan",
+      "evento",
+      "tradicional",
+      "concentración",
+      "parque",
+      "trece",
+      "mayo",
+      ",",
+      "centro",
+      "recife",
+      "(",
+      "noreste",
+      "brasil",
+      ")",
+      ".",
+      "ciudad",
+      ",",
+      "participantes",
+      "reúnen",
+      "movimiento",
+      "trabajadores",
+      "cristianos",
+      ",",
+      "aunque",
+      "cita",
+      "ocurre",
+      "diversos",
+      "puntos",
+      "nación",
+      ".",
+      "entrevista",
+      "brasil",
+      "fato",
+      "pernambuco",
+      ",",
+      "profesora",
+      "sandra",
+      "gomes",
+      ",",
+      "miembro",
+      "católica",
+      "comunidades",
+      "eclesiales",
+      "básicas",
+      "fundadora",
+      "grito",
+      ",",
+      "aseguró",
+      "tema",
+      "continúa",
+      "cambios",
+      ",",
+      "modifica",
+      "lema",
+      ".",
+      "año",
+      "insiste",
+      "degradación",
+      "planeta",
+      "importancia",
+      "medio",
+      "ambiente",
+      ".",
+      "históricamente",
+      ",",
+      "acto",
+      "denuncia",
+      "desigualdades",
+      "sociales",
+      "enfatiza",
+      "asuntos",
+      "pobreza",
+      "exclusión",
+      ".",
+      ",",
+      "apuesta",
+      "participación",
+      "ciudadana",
+      "decisiones",
+      "políticas",
+      "afectan",
+      "vida",
+      "cotidiana",
+      ",",
+      "basado",
+      "principios",
+      "justicia",
+      "democracia",
+      "idea",
+      "“",
+      "vida",
+      "primero",
+      "”",
+      ".",
+      "acuerdo",
+      "gomes",
+      ",",
+      "movimiento",
+      "nació",
+      "marco",
+      "reunión",
+      "conferencia",
+      "nacional",
+      "obispos",
+      "brasil",
+      "(",
+      "cnbb",
+      ")",
+      ".",
+      "impulsado",
+      "debate",
+      "pastores",
+      "sociales",
+      ",",
+      "defendieron",
+      "fe",
+      "profética",
+      "comprometida",
+      "mejora",
+      "vida",
+      "pueblo",
+      ",",
+      "encima",
+      "neoliberalismo",
+      "capitalismo",
+      ",",
+      "señaló",
+      ".",
+      "asimismo",
+      ",",
+      "insistió",
+      "debilitamiento",
+      "comunidades",
+      "eclesiales",
+      "básicas",
+      "últimas",
+      "décadas",
+      ".",
+      ",",
+      "significó",
+      "preocupación",
+      "discurso",
+      "fundamentalista",
+      "adoptado",
+      "religión",
+      ",",
+      "incidencias",
+      "derechos",
+      "sociales",
+      "individuales",
+      "."
+    ],
+    "token_count": 204,
+    "sentence_count": 11
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 45,
+      "VBZ": 5,
+      "CD": 2,
+      "JJ": 28,
+      "FW": 95,
+      "NN": 86,
+      "VBD": 2,
+      "IN": 17,
+      "NNS": 11,
+      "VBP": 7
+    },
+    "bigram_freq": {
+      "NNP-VBZ": 3,
+      "VBZ-CD": 1,
+      "CD-JJ": 1,
+      "JJ-JJ": 4,
+      "JJ-FW": 2,
+      "FW-FW": 57,
+      "FW-NNP": 19,
+      "NNP-JJ": 2,
+      "JJ-NN": 19,
+      "NN-VBD": 1,
+      "VBD-CD": 1,
+      "CD-NN": 1,
+      "NN-NNP": 8,
+      "NNP-IN": 4,
+      "IN-FW": 10,
+      "NNP-NN": 12,
+      "NN-NN": 41,
+      "NN-IN": 11,
+      "NNP-FW": 9,
+      "FW-NN": 12,
+      "NN-FW": 14,
+      "FW-JJ": 4,
+      "NN-JJ": 6,
+      "VBZ-FW": 2,
+      "FW-NNS": 3,
+      "NNS-VBP": 6,
+      "VBP-NNS": 1,
+      "VBP-JJ": 5,
+      "IN-JJ": 4,
+      "NNP-NNP": 14,
+      "IN-NNP": 2,
+      "NN-VBZ": 1,
+      "VBZ-JJ": 2,
+      "NNP-VBD": 1,
+      "VBD-FW": 1,
+      "NN-NNS": 3,
+      "NN-VBP": 1,
+      "NNS-NNS": 2,
+      "VBP-IN": 1,
+      "IN-NN": 1,
+      "JJ-NNS": 2,
+      "NNS-IN": 1,
+      "NNS-VBZ": 1,
+      "JJ-NNP": 1
+    },
+    "trigram_freq": {
+      "NNP-VBZ-CD": 1,
+      "VBZ-CD-JJ": 1,
+      "CD-JJ-JJ": 1,
+      "JJ-JJ-FW": 1,
+      "JJ-FW-FW": 2,
+      "FW-FW-FW": 37,
+      "FW-FW-NNP": 10,
+      "FW-NNP-JJ": 1,
+      "NNP-JJ-NN": 2,
+      "JJ-NN-VBD": 1,
+      "NN-VBD-CD": 1,
+      "VBD-CD-NN": 1,
+      "CD-NN-NNP": 1,
+      "NN-NNP-IN": 3,
+      "NNP-IN-FW": 2,
+      "IN-FW-NNP": 3,
+      "FW-NNP-NN": 4,
+      "NNP-NN-NN": 8,
+      "NN-NN-NN": 23,
+      "NN-NN-IN": 4,
+      "NN-IN-FW": 7,
+      "IN-FW-FW": 5,
+      "FW-NNP-FW": 6,
+      "NNP-FW-FW": 3,
+      "FW-FW-NN": 6,
+      "FW-NN-FW": 5,
+      "NN-FW-NN": 4,
+      "NN-FW-FW": 9,
+      "FW-FW-JJ": 1,
+      "FW-JJ-NN": 3,
+      "JJ-NN-JJ": 3,
+      "NN-JJ-JJ": 1,
+      "JJ-JJ-NN": 2,
+      "JJ-NN-FW": 2,
+      "FW-NN-NN": 5,
+      "NN-NN-JJ": 3,
+      "NN-JJ-NN": 5,
+      "JJ-NN-IN": 7,
+      "IN-FW-JJ": 2,
+      "JJ-NN-NNP": 2,
+      "NN-NNP-NN": 3,
+      "NN-NN-NNP": 3,
+      "NN-NNP-VBZ": 2,
+      "NNP-VBZ-FW": 2,
+      "VBZ-FW-FW": 1,
+      "FW-FW-NNS": 3,
+      "FW-NNS-VBP": 2,
+      "NNS-VBP-NNS": 1,
+      "VBP-NNS-VBP": 1,
+      "NNS-VBP-JJ": 4,
+      "VBP-JJ-NN": 3,
+      "NN-IN-JJ": 4,
+      "IN-JJ-NN": 2,
+      "FW-NNP-NNP": 8,
+      "NNP-NNP-IN": 1,
+      "NNP-IN-NNP": 2,
+      "IN-NNP-FW": 1,
+      "NNP-NN-FW": 3,
+      "NN-FW-NNP": 1,
+      "NNP-NNP-NN": 5,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 2,
+      "NNP-FW-NNP": 4,
+      "NNP-FW-NN": 2,
+      "FW-NN-NNP": 2,
+      "IN-NNP-NNP": 1,
+      "NNP-NNP-NNP": 5,
+      "NNP-NNP-FW": 2,
+      "NNP-NNP-VBD": 1,
+      "NNP-VBD-FW": 1,
+      "VBD-FW-NNP": 1,
+      "NN-NN-NNS": 2,
+      "NN-NNS-VBP": 2,
+      "JJ-NN-NN": 4,
+      "NN-NN-VBP": 1,
+      "NN-VBP-JJ": 1,
+      "FW-NNS-NNS": 1,
+      "NNS-NNS-VBP": 1,
+      "NNS-VBP-IN": 1,
+      "VBP-IN-NN": 1,
+      "IN-NN-NN": 1,
+      "NN-NN-FW": 4,
+      "VBP-JJ-JJ": 1,
+      "IN-JJ-NNS": 1,
+      "JJ-NNS-IN": 1,
+      "NNS-IN-FW": 1,
+      "VBZ-FW-JJ": 1,
+      "FW-JJ-FW": 1,
+      "NN-NNS-VBZ": 1,
+      "NNS-VBZ-JJ": 1,
+      "NNP-NN-NNS": 1,
+      "VBP-JJ-NNP": 1,
+      "JJ-NNP-JJ": 1,
+      "IN-JJ-JJ": 1,
+      "JJ-JJ-NNS": 1,
+      "JJ-NNS-NNS": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "FW": 95,
+        "NN": 86,
+        "NNP": 45,
+        "JJ": 28,
+        "IN": 17
+      },
+      "top_bigrams": {
+        "FW-FW": 57,
+        "NN-NN": 41,
+        "FW-NNP": 19,
+        "JJ-NN": 19,
+        "NN-FW": 14
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 37,
+        "NN-NN-NN": 23,
+        "FW-FW-NNP": 10,
+        "NN-FW-FW": 9,
+        "NNP-NN-NN": 8
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 11,
+    "chunk_counts": {
+      "NP": 83,
+      "VP": 16,
+      "ADJP": 4,
+      "PP": 6
+    },
+    "top_rules": [
+      {
+        "rule": "NP -> ('Brasil', 'NNP')",
+        "frequency": 3,
+        "weight": 0.025
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 3,
+        "weight": 0.025
+      },
+      {
+        "rule": "NP -> ('del', 'NN') ('Grito', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0167
+      },
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0167
+      },
+      {
+        "rule": "S -> NP VP ('09H00', 'CD') ('(', '(') VP (')', ')') ('de', 'FW') ('este', 'FW') NP (',', ',') NP VP ('edición', 'FW') ('30', 'CD') NP ('de', 'IN') ('los', 'FW') NP (',', ',') VP ('7', 'CD') ('de', 'FW') ('septiembre', 'FW') NP ('de', 'IN') ('la', 'FW') NP ('en', 'FW') ('el', 'FW') NP (',', ',') ('lucha', 'FW') NP ('la', 'FW') ADJP ADJP (',', ',') NP ('defensa', 'FW') ('de', 'FW') ('la', 'FW') ('naturaleza', 'FW') (',', ',') ('esta', 'FW') ('vez', 'FW') NP VP ('de', 'IN') ('vida', 'FW') NP (',', ',') NP ('?', '.') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0083
+      },
+      {
+        "rule": "NP -> ('Desde', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0083
+      },
+      {
+        "rule": "VP -> ('las', 'VBZ')",
+        "frequency": 1,
+        "weight": 0.0083
+      },
+      {
+        "rule": "VP -> ('hora', 'VB') ('local', 'JJ')",
+        "frequency": 1,
+        "weight": 0.0083
+      },
+      {
+        "rule": "NP -> ('sábado', 'NN')",
+        "frequency": 1,
+        "weight": 0.0083
+      },
+      {
+        "rule": "VP -> ('vive', 'VBP') NP",
+        "frequency": 1,
+        "weight": 0.0083
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Desde"
+      },
+      {
+        "label": "VP",
+        "text": "las"
+      },
+      {
+        "label": "VP",
+        "text": "hora local"
+      },
+      {
+        "label": "NP",
+        "text": "sábado"
+      },
+      {
+        "label": "NP",
+        "text": "Brasil"
+      },
+      {
+        "label": "VP",
+        "text": "vive la"
+      },
+      {
+        "label": "NP",
+        "text": "la"
+      },
+      {
+        "label": "NP",
+        "text": "del Grito"
+      },
+      {
+        "label": "NP",
+        "text": "Excluidos que"
+      },
+      {
+        "label": "VP",
+        "text": "como cada"
+      },
+      {
+        "label": "NP",
+        "text": "a propósito del Día"
+      },
+      {
+        "label": "NP",
+        "text": "Independencia"
+      },
+      {
+        "label": "NP",
+        "text": "país suramericano"
+      },
+      {
+        "label": "NP",
+        "text": "por"
+      },
+      {
+        "label": "ADJP",
+        "text": "justicia"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Desde/NNP)\n  (VP las/VBZ)\n  09H00/CD\n  (/(\n  (VP hora/VB local/JJ)\n  )/)\n  de/FW\n  este/FW\n  (NP sábado/NN)\n  ,/,\n  (NP Brasil/NNP)\n  (VP vive/VBP (NP la/NN))\n  edición/FW\n  30/CD\n  (NP del/NN Grito/NNP)\n  de/IN\n  los/FW\n  (NP Excluidos/NNP que/NN)\n  ,/,\n  (VP como/VBP cada/JJ)\n  7/CD\n  de/FW\n  septiembre/FW\n  (NP a/DT propósito/NN del/NN Día/NNP)\n  de/IN\n  la/FW\n  (NP Independencia/NNP)\n  en/FW\n  el/FW\n  (NP país/NN suramericano/NN)\n  ,/,\n  lucha/FW\n  (NP por/NN)\n  la/FW\n  (ADJP justicia/JJ)\n  (ADJP social/JJ)\n  ,/,\n  (NP la/JJ igualdad/JJ nacional/JJ y/NN la/NN)\n  defensa/FW\n  de/FW\n  la/FW\n  naturaleza/FW\n  ,/,\n  esta/FW\n  vez/FW\n  (NP con/NN el/NN lema/NN “/NNP)\n  (VP todas/VBZ (NP las/JJ formas/NN))\n  de/IN\n  vida/FW\n  (NP importan/NN)\n  ,/,\n  (NP pero/NN ¿a/NNP quién/NN le/NN importa/NN)\n  ?/.\n  (NP ”/NN)\n  ./.)",
+      "(S\n  (NP Activistas/NNP)\n  y/PRP\n  (VP militantes/VBZ)\n  de/IN\n  movimientos/FW\n  (NP populares/NNS)\n  (VP y/VBP (NP organizaciones/NNS sindicales/NNS) y/RB)\n  (VP religiosas/VBP (NP protagonizan/JJ el/NN))\n  (PP evento/IN (NP tradicional/JJ con/NN))\n  (NP una/JJ concentración/NN)\n  en/IN\n  el/FW\n  (NP Parque/NNP Trece/NNP)\n  de/FW\n  (NP Mayo/NNP)\n  ,/,\n  en/FW\n  el/FW\n  centro/FW\n  de/FW\n  (NP Recife/NNP)\n  (/(\n  (NP noreste/NN)\n  (PP de/IN (NP Brasil/NNP))\n  )/)\n  ./.)",
+      "(S\n  (NP En/NNP esta/NN ciudad/NN)\n  ,/,\n  (NP los/NN participantes/NNS)\n  (VP se/VBP reúnen/JJ)\n  en/FW\n  el/FW\n  (NP Movimiento/NNP)\n  de/FW\n  (NP Trabajadores/NNP Cristianos/NNP)\n  ,/,\n  (NP aunque/NN la/NN)\n  (NP cita/JJ ocurre/NN)\n  (PP en/IN (NP diversos/JJ puntos/NN))\n  de/IN\n  la/FW\n  nación/FW\n  ./.)",
+      "(S\n  (NP En/NNP entrevista/NN con/NN Brasil/NNP)\n  (PP de/IN (NP Fato/NNP Pernambuco/NNP))\n  ,/,\n  (NP la/NN profesora/NNS Sandra/NNP Gomes/NNP)\n  ,/,\n  (NP miembro/NN católica/NN)\n  de/IN\n  las/FW\n  (NP Comunidades/NNP Eclesiales/NNP Básicas/NNP y/NNP)\n  (VP fundadora/VBD (NP del/NN Grito/NNP))\n  ,/,\n  (NP aseguró/NN que/NN el/NN tema/NN continúa/NN sin/NN cambios/NNS)\n  ,/,\n  (NP lo/JJ que/NN se/NN modifica/NN)\n  (VP es/VBP (NP el/NN lema/NN))\n  ./.)",
+      "(S\n  (NP El/NNP)\n  de/FW\n  este/FW\n  año/FW\n  (NP insiste/NN)\n  en/FW\n  la/FW\n  degradación/FW\n  del/FW\n  (NP planeta/NN y/NN)\n  en/IN\n  la/FW\n  importancia/FW\n  del/FW\n  (NP medio/NN ambiente/NN)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "CULTURA_DEPORTE_SOCIEDAD",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "ANTIIMPERIALISMO_SOBERANIA",
+      "JUSTICIA_SOCIAL",
+      "PAISES",
+      "LOCALIZACIONES_ESPECIFICAS",
+      "RELACIONES_INTERNACIONALES",
+      "JURIDICO_LEGISLATIVO_CORRUPCION",
+      "VIOLENCIA_CRIMEN_DERECHOS_HUMANOS"
+    ],
+    "matches": [
+      {
+        "category": "RELACIONES_INTERNACIONALES",
+        "matched_text": "acuerdo con gomes, el movimiento nació en el marco de una reunión de la conferencia nacional de obispos de brasil (cnbb). fue impulsado por un debate entre pastores sociales, que defendieron una fe profética y comprometida",
+        "position": [
+          1353,
+          1575
+        ],
+        "start": 1353,
+        "end": 1575
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "señaló",
+        "position": [
+          1661,
+          1667
+        ],
+        "start": 1661,
+        "end": 1667
+      },
+      {
+        "category": "JURIDICO_LEGISLATIVO_CORRUPCION",
+        "matched_text": "defensa",
+        "position": [
+          251,
+          258
+        ],
+        "start": 251,
+        "end": 258
+      },
+      {
+        "category": "VIOLENCIA_CRIMEN_DERECHOS_HUMANOS",
+        "matched_text": "igualdad",
+        "position": [
+          228,
+          236
+        ],
+        "start": 228,
+        "end": 236
+      },
+      {
+        "category": "CULTURA_DEPORTE_SOCIEDAD",
+        "matched_text": "lucha por la justicia social",
+        "position": [
+          195,
+          223
+        ],
+        "start": 195,
+        "end": 223
+      },
+      {
+        "category": "CULTURA_DEPORTE_SOCIEDAD",
+        "matched_text": "participación ciudadana",
+        "position": [
+          1187,
+          1210
+        ],
+        "start": 1187,
+        "end": 1210
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "brasil",
+        "position": [
+          46,
+          52
+        ],
+        "start": 46,
+        "end": 52
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "parque trece",
+        "position": [
+          515,
+          527
+        ],
+        "start": 515,
+        "end": 527
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "centro de",
+        "position": [
+          543,
+          552
+        ],
+        "start": 543,
+        "end": 552
+      },
+      {
+        "category": "ANTIIMPERIALISMO_SOBERANIA",
+        "matched_text": "independencia en el país suramericano, lucha por la justicia social, la igualdad nacional",
+        "position": [
+          156,
+          245
+        ],
+        "start": 156,
+        "end": 245
+      },
+      {
+        "category": "JUSTICIA_SOCIAL",
+        "matched_text": "justicia social",
+        "position": [
+          208,
+          223
+        ],
+        "start": 208,
+        "end": 223
+      },
+      {
+        "category": "JUSTICIA_SOCIAL",
+        "matched_text": "derechos sociales",
+        "position": [
+          1902,
+          1919
+        ],
+        "start": 1902,
+        "end": 1919
+      }
+    ],
+    "match_count": 12
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Recife",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Movimiento de Trabajadores Cristianos",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Activistas",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Fato Pernambuco",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "CNBB",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Parque Trece de Mayo",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Gomes",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Brasil",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Sandra Gomes",
+        "tipo": "Persona"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Activistas",
+        "relacion": "PROTAGONIZAR",
+        "objeto": "Parque Trece de Mayo"
+      },
+      {
+        "sujeto": "Activistas",
+        "relacion": "PROTAGONIZAR",
+        "objeto": "Recife"
+      },
+      {
+        "sujeto": "Activistas",
+        "relacion": "PROTAGONIZAR",
+        "objeto": "Brasil"
+      },
+      {
+        "sujeto": "Gomes",
+        "relacion": "NACER",
+        "objeto": "CNBB"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.296,
+    "pos": 0.008,
+    "neu": 0.98,
+    "neg": 0.012,
+    "label": "negative"
+  }
+}

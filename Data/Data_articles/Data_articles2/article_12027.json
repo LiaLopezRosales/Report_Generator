@@ -1,0 +1,664 @@
+{
+  "url": "https://www.telesurtv.net/al-menos-20-muertos-tras-paso-de-ciclon-fengal-por-india/",
+  "title": "Al menos 20 muertos tras paso de ciclón Fengal por India - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "ciclón",
+    "Fengal",
+    "India",
+    "Inundaciones"
+  ],
+  "text": "20 personas han perdido la vida tras el paso del ciclón Fengal por Sri Lanka y el sur de la India. Fengal ingresó al país el pasado sábado con fuertes lluvias que no se habían registrado en la localidad de Puducherry en más de 30 años, lo que desencadenó inundaciones y deslizamientos de tierra que han afectado gravemente la infraestructura de la región.\nEl ministro de gestión de catástrofes en el estado indio de Tamil Nadu, KKSSR Ramachandran, dio a conocer que en Sri Lanka murieron 17 personas, además informó que en la ciudad se sintieron los efectos del ciclón desde el viernes.\nPor otra parte, la agencia de gestión de catástrofe de la India afirmó que alrededor de 470.000 personas recibieron refugio en medio de la crisis.\nDe acuerdo con información de los servicios meteorológicos, este lunes algunas regiones del sur del país se mantenían en alerta con riesgo de inundaciones repentinas.\nLa India es un país que frecuentemente se enfrenta a los embates de ciclones que cada año causan numerosos daños a su infraestructura.\nEventos de ese tipo no solo generan pérdidas humanas, sino que también provocan el colapso de sistemas de transporte servicios públicos y viviendas.\nLa vulnerabilidad del país antes esos desastres naturales resaltan la necesidad de desarrollar estrategias más efectivas para la gestión de emergencias y la resiliencia de las comunidades.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/al-menos-20-muertos-tras-paso-de-ciclon-fengal-por-india/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-12.json",
+    "message_index": 1620,
+    "message_id": 81695,
+    "date": "2024-12-03T19:55:09+00:00",
+    "text": "teleSUR\nAl menos 20 muertos tras paso de ciclón Fengal por India\nhttps://www.telesurtv.net/al-menos-20-muertos-tras-paso-de-ciclon-fengal-por-india/",
+    "photo_path": null,
+    "views": 2822,
+    "reactions": {
+      "😢": 26,
+      "😱": 6,
+      "👍": 3,
+      "🙏": 3,
+      "❤": 2,
+      "🕊": 1
+    },
+    "total_reactions": 41
+  },
+  "preprocessing": {
+    "cleaned": "20 personas han perdido la vida tras el paso del ciclón fengal por sri lanka y el sur de la india. fengal ingresó al país el pasado sábado con fuertes lluvias que no se habían registrado en la localidad de puducherry en más de 30 años, lo que desencadenó inundaciones y deslizamientos de tierra que han afectado gravemente la infraestructura de la región. el ministro de gestión de catástrofes en el estado indio de tamil nadu, kkssr ramachandran, dio a conocer que en sri lanka murieron 17 personas, además informó que en la ciudad se sintieron los efectos del ciclón desde el viernes. por otra parte, la agencia de gestión de catástrofe de la india afirmó que alrededor de 470.000 personas recibieron refugio en medio de la crisis. de acuerdo con información de los servicios meteorológicos, este lunes algunas regiones del sur del país se mantenían en alerta con riesgo de inundaciones repentinas. la india es un país que frecuentemente se enfrenta a los embates de ciclones que cada año causan numerosos daños a su infraestructura. eventos de ese tipo no solo generan pérdidas humanas, sino que también provocan el colapso de sistemas de transporte servicios públicos y viviendas. la vulnerabilidad del país antes esos desastres naturales resaltan la necesidad de desarrollar estrategias más efectivas para la gestión de emergencias y la resiliencia de las comunidades.",
+    "tokens": [
+      "20",
+      "personas",
+      "perdido",
+      "vida",
+      "tras",
+      "paso",
+      "ciclón",
+      "fengal",
+      "sri",
+      "lanka",
+      "sur",
+      "india",
+      ".",
+      "fengal",
+      "ingresó",
+      "país",
+      "pasado",
+      "sábado",
+      "fuertes",
+      "lluvias",
+      "registrado",
+      "localidad",
+      "puducherry",
+      "30",
+      "años",
+      ",",
+      "desencadenó",
+      "inundaciones",
+      "deslizamientos",
+      "tierra",
+      "afectado",
+      "gravemente",
+      "infraestructura",
+      "región",
+      ".",
+      "ministro",
+      "gestión",
+      "catástrofes",
+      "indio",
+      "tamil",
+      "nadu",
+      ",",
+      "kkssr",
+      "ramachandran",
+      ",",
+      "dio",
+      "conocer",
+      "sri",
+      "lanka",
+      "murieron",
+      "17",
+      "personas",
+      ",",
+      "además",
+      "informó",
+      "ciudad",
+      "sintieron",
+      "efectos",
+      "ciclón",
+      "viernes",
+      ".",
+      "parte",
+      ",",
+      "agencia",
+      "gestión",
+      "catástrofe",
+      "india",
+      "afirmó",
+      "alrededor",
+      "470.000",
+      "personas",
+      "recibieron",
+      "refugio",
+      "medio",
+      "crisis",
+      ".",
+      "acuerdo",
+      "información",
+      "servicios",
+      "meteorológicos",
+      ",",
+      "lunes",
+      "regiones",
+      "sur",
+      "país",
+      "mantenían",
+      "alerta",
+      "riesgo",
+      "inundaciones",
+      "repentinas",
+      ".",
+      "india",
+      "país",
+      "frecuentemente",
+      "enfrenta",
+      "embates",
+      "ciclones",
+      "cada",
+      "año",
+      "causan",
+      "numerosos",
+      "daños",
+      "infraestructura",
+      ".",
+      "eventos",
+      "tipo",
+      "solo",
+      "generan",
+      "pérdidas",
+      "humanas",
+      ",",
+      "sino",
+      "provocan",
+      "colapso",
+      "sistemas",
+      "transporte",
+      "servicios",
+      "públicos",
+      "viviendas",
+      ".",
+      "vulnerabilidad",
+      "país",
+      "desastres",
+      "naturales",
+      "resaltan",
+      "necesidad",
+      "desarrollar",
+      "estrategias",
+      "efectivas",
+      "gestión",
+      "emergencias",
+      "resiliencia",
+      "comunidades",
+      "."
+    ],
+    "token_count": 134,
+    "sentence_count": 8
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "CD": 4,
+      "NNS": 17,
+      "JJ": 16,
+      "VBP": 10,
+      "FW": 78,
+      "NN": 61,
+      "NNP": 20,
+      "VBZ": 1,
+      "DT": 2,
+      "IN": 9,
+      "VBD": 1
+    },
+    "bigram_freq": {
+      "CD-NNS": 3,
+      "NNS-JJ": 2,
+      "JJ-VBP": 1,
+      "VBP-FW": 1,
+      "FW-FW": 59,
+      "FW-NN": 8,
+      "NN-NNP": 4,
+      "NNP-NN": 5,
+      "NNP-NNP": 7,
+      "NNP-FW": 5,
+      "FW-NNP": 5,
+      "NN-NN": 33,
+      "NN-VBZ": 1,
+      "VBZ-JJ": 1,
+      "JJ-JJ": 3,
+      "JJ-DT": 1,
+      "DT-JJ": 1,
+      "JJ-NN": 9,
+      "NN-IN": 8,
+      "IN-FW": 4,
+      "FW-CD": 1,
+      "CD-NN": 1,
+      "NN-NNS": 5,
+      "NNS-FW": 2,
+      "NN-FW": 6,
+      "IN-NNP": 1,
+      "NNP-VBD": 1,
+      "VBD-CD": 1,
+      "NNS-NNP": 2,
+      "NNP-VBP": 1,
+      "VBP-NN": 4,
+      "IN-CD": 1,
+      "NNS-VBP": 8,
+      "FW-NNS": 4,
+      "VBP-NNS": 2,
+      "FW-JJ": 1,
+      "IN-JJ": 2,
+      "IN-NNS": 1,
+      "NNS-NNS": 2,
+      "NN-JJ": 3,
+      "VBP-JJ": 3,
+      "NNP-IN": 1,
+      "NN-DT": 1,
+      "DT-NN": 1,
+      "JJ-NNP": 1,
+      "JJ-FW": 1
+    },
+    "trigram_freq": {
+      "CD-NNS-JJ": 2,
+      "NNS-JJ-VBP": 1,
+      "JJ-VBP-FW": 1,
+      "VBP-FW-FW": 1,
+      "FW-FW-FW": 44,
+      "FW-FW-NN": 7,
+      "FW-NN-NNP": 2,
+      "NN-NNP-NN": 1,
+      "NNP-NN-NNP": 1,
+      "NN-NNP-NNP": 1,
+      "NNP-NNP-FW": 1,
+      "NNP-FW-FW": 4,
+      "FW-FW-NNP": 4,
+      "FW-NNP-NNP": 2,
+      "NNP-NNP-NN": 3,
+      "NNP-NN-NN": 3,
+      "NN-NN-NN": 16,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-JJ": 1,
+      "VBZ-JJ-JJ": 1,
+      "JJ-JJ-DT": 1,
+      "JJ-DT-JJ": 1,
+      "DT-JJ-NN": 1,
+      "JJ-NN-NN": 7,
+      "NN-NN-IN": 6,
+      "NN-IN-FW": 4,
+      "IN-FW-FW": 3,
+      "FW-NNP-FW": 2,
+      "FW-FW-CD": 1,
+      "FW-CD-NN": 1,
+      "CD-NN-NN": 1,
+      "NN-NN-NNS": 3,
+      "NN-NNS-FW": 1,
+      "NNS-FW-FW": 1,
+      "FW-NN-NN": 3,
+      "NN-NN-FW": 4,
+      "NN-FW-FW": 5,
+      "FW-NN-IN": 1,
+      "NN-IN-NNP": 1,
+      "IN-NNP-NNP": 1,
+      "NNP-NNP-NNP": 2,
+      "NN-FW-NNP": 1,
+      "NNP-NNP-VBD": 1,
+      "NNP-VBD-CD": 1,
+      "VBD-CD-NNS": 1,
+      "NNS-JJ-JJ": 1,
+      "JJ-JJ-NN": 2,
+      "JJ-NN-IN": 1,
+      "NN-NNS-NNP": 1,
+      "NNS-NNP-VBP": 1,
+      "NNP-VBP-NN": 1,
+      "VBP-NN-NN": 2,
+      "FW-NNP-NN": 1,
+      "NN-IN-CD": 1,
+      "IN-CD-NNS": 1,
+      "CD-NNS-VBP": 1,
+      "NNS-VBP-NN": 3,
+      "VBP-NN-FW": 1,
+      "NN-NNP-FW": 1,
+      "NNP-FW-NN": 1,
+      "IN-FW-NNS": 1,
+      "FW-NNS-VBP": 3,
+      "VBP-NN-NNS": 1,
+      "NN-NNS-VBP": 3,
+      "NNS-VBP-NNS": 2,
+      "VBP-NNS-FW": 1,
+      "NNS-FW-JJ": 1,
+      "FW-JJ-NN": 1,
+      "NN-IN-JJ": 1,
+      "IN-JJ-NN": 2,
+      "NN-IN-NNS": 1,
+      "IN-NNS-NNS": 1,
+      "NNS-NNS-NNP": 1,
+      "NNS-NNP-NNP": 1,
+      "NNP-NN-JJ": 1,
+      "NN-JJ-NN": 2,
+      "FW-FW-NNS": 3,
+      "NNS-VBP-JJ": 3,
+      "VBP-JJ-NN": 1,
+      "NN-NN-JJ": 2,
+      "NN-NN-NNP": 1,
+      "NN-NNP-IN": 1,
+      "NNP-IN-JJ": 1,
+      "JJ-NN-DT": 1,
+      "NN-DT-NN": 1,
+      "DT-NN-NN": 1,
+      "NN-JJ-JJ": 1,
+      "VBP-JJ-NNP": 1,
+      "JJ-NNP-FW": 1,
+      "FW-NN-NNS": 1,
+      "VBP-NNS-NNS": 1,
+      "NNS-NNS-VBP": 1,
+      "VBP-JJ-FW": 1,
+      "JJ-FW-FW": 1,
+      "FW-NN-FW": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "FW": 78,
+        "NN": 61,
+        "NNP": 20,
+        "NNS": 17,
+        "JJ": 16
+      },
+      "top_bigrams": {
+        "FW-FW": 59,
+        "NN-NN": 33,
+        "JJ-NN": 9,
+        "FW-NN": 8,
+        "NN-IN": 8
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 44,
+        "NN-NN-NN": 16,
+        "FW-FW-NN": 7,
+        "JJ-NN-NN": 7,
+        "NN-NN-IN": 6
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 8,
+    "chunk_counts": {
+      "NP": 49,
+      "ADJP": 2,
+      "VP": 15,
+      "PP": 5
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 4,
+        "weight": 0.0506
+      },
+      {
+        "rule": "NP -> ('personas', 'NNS')",
+        "frequency": 3,
+        "weight": 0.038
+      },
+      {
+        "rule": "S -> ('20', 'CD') NP ADJP VP ('la', 'FW') ('vida', 'FW') ('tras', 'FW') ('el', 'FW') ('paso', 'FW') ('del', 'FW') NP ('el', 'FW') ('sur', 'FW') ('de', 'FW') ('la', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0127
+      },
+      {
+        "rule": "ADJP -> ('han', 'JJ')",
+        "frequency": 1,
+        "weight": 0.0127
+      },
+      {
+        "rule": "VP -> ('perdido', 'VBP')",
+        "frequency": 1,
+        "weight": 0.0127
+      },
+      {
+        "rule": "NP -> ('ciclón', 'NN') ('Fengal', 'NNP') ('por', 'NN') ('Sri', 'NNP') ('Lanka', 'NNP') ('y', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0127
+      },
+      {
+        "rule": "NP -> ('India', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0127
+      },
+      {
+        "rule": "S -> NP VP ('en', 'IN') ('la', 'FW') ('localidad', 'FW') ('de', 'FW') NP ('en', 'FW') ('más', 'FW') ('de', 'FW') ('30', 'CD') NP (',', ',') NP VP ('de', 'FW') ('tierra', 'FW') NP ('la', 'FW') ('infraestructura', 'FW') ('de', 'FW') ('la', 'FW') ('región', 'FW') ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0127
+      },
+      {
+        "rule": "NP -> ('Fengal', 'NNP') ('ingresó', 'NN') ('al', 'NN') ('país', 'NN') ('el', 'NN') ('pasado', 'NN') ('sábado', 'NN') ('con', 'NN')",
+        "frequency": 1,
+        "weight": 0.0127
+      },
+      {
+        "rule": "VP -> ('fuertes', 'VBZ') ('lluvias', 'JJ') ('que', 'JJ') NP",
+        "frequency": 1,
+        "weight": 0.0127
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "personas"
+      },
+      {
+        "label": "ADJP",
+        "text": "han"
+      },
+      {
+        "label": "VP",
+        "text": "perdido"
+      },
+      {
+        "label": "NP",
+        "text": "ciclón Fengal por Sri Lanka y"
+      },
+      {
+        "label": "NP",
+        "text": "India"
+      },
+      {
+        "label": "NP",
+        "text": "Fengal ingresó al país el pasado sábado con"
+      },
+      {
+        "label": "VP",
+        "text": "fuertes lluvias que no se habían registrado"
+      },
+      {
+        "label": "NP",
+        "text": "no se habían registrado"
+      },
+      {
+        "label": "NP",
+        "text": "Puducherry"
+      },
+      {
+        "label": "NP",
+        "text": "años"
+      },
+      {
+        "label": "NP",
+        "text": "lo que desencadenó inundaciones"
+      },
+      {
+        "label": "VP",
+        "text": "y deslizamientos"
+      },
+      {
+        "label": "NP",
+        "text": "deslizamientos"
+      },
+      {
+        "label": "NP",
+        "text": "que han afectado gravemente"
+      },
+      {
+        "label": "NP",
+        "text": "El ministro"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  20/CD\n  (NP personas/NNS)\n  (ADJP han/JJ)\n  (VP perdido/VBP)\n  la/FW\n  vida/FW\n  tras/FW\n  el/FW\n  paso/FW\n  del/FW\n  (NP ciclón/NN Fengal/NNP por/NN Sri/NNP Lanka/NNP y/NNP)\n  el/FW\n  sur/FW\n  de/FW\n  la/FW\n  (NP India/NNP)\n  ./.)",
+      "(S\n  (NP\n    Fengal/NNP\n    ingresó/NN\n    al/NN\n    país/NN\n    el/NN\n    pasado/NN\n    sábado/NN\n    con/NN)\n  (VP\n    fuertes/VBZ\n    lluvias/JJ\n    que/JJ\n    (NP no/DT se/JJ habían/NN registrado/NN))\n  en/IN\n  la/FW\n  localidad/FW\n  de/FW\n  (NP Puducherry/NNP)\n  en/FW\n  más/FW\n  de/FW\n  30/CD\n  (NP años/NN)\n  ,/,\n  (NP lo/JJ que/NN desencadenó/NN inundaciones/NNS)\n  (VP y/VBP (NP deslizamientos/NN))\n  de/FW\n  tierra/FW\n  (NP que/NN han/NN afectado/NN gravemente/NN)\n  la/FW\n  infraestructura/FW\n  de/FW\n  la/FW\n  región/FW\n  ./.)",
+      "(S\n  (NP El/NNP ministro/NN)\n  de/FW\n  gestión/FW\n  de/FW\n  catástrofes/FW\n  en/FW\n  el/FW\n  estado/FW\n  (NP indio/NN)\n  (PP de/IN (NP Tamil/NNP Nadu/NNP))\n  ,/,\n  (NP KKSSR/NNP Ramachandran/NNP)\n  ,/,\n  (VP dio/VBZ (NP a/DT conocer/NN que/NN))\n  en/FW\n  (NP Sri/NNP Lanka/NNP)\n  (VP murieron/VBD)\n  17/CD\n  (NP personas/NNS)\n  ,/,\n  (NP además/JJ informó/NN que/NN)\n  en/IN\n  la/FW\n  ciudad/FW\n  se/FW\n  sintieron/FW\n  los/FW\n  efectos/FW\n  del/FW\n  (NP ciclón/NN desde/NN el/NN viernes/NNS)\n  ./.)",
+      "(S\n  (NP Por/NNP)\n  otra/MD\n  (VP parte/VB)\n  ,/,\n  la/FW\n  agencia/FW\n  de/FW\n  gestión/FW\n  de/FW\n  catástrofe/FW\n  de/FW\n  la/FW\n  (NP India/NNP afirmó/NN que/NN alrededor/NN)\n  de/IN\n  470.000/CD\n  (NP personas/NNS)\n  (VP recibieron/VBP (NP refugio/NN))\n  en/FW\n  medio/FW\n  de/FW\n  la/FW\n  (NP crisis/NN)\n  ./.)",
+      "(S\n  (NP De/NNP)\n  acuerdo/FW\n  (NP con/NN información/NN)\n  de/IN\n  los/FW\n  (NP servicios/NNS meteorológicos/NN)\n  ,/,\n  (NP este/NN lunes/NNS)\n  (VP algunas/VBP (NP regiones/NNS))\n  del/FW\n  (NP sur/JJ del/NN país/NN se/NN mantenían/NN)\n  (PP en/IN (NP alerta/JJ con/NN riesgo/NN))\n  (PP de/IN (NP inundaciones/NNS repentinas/NNS))\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "GOBIERNOS_OFICIALES",
+      "DESASTRES_ACCIDENTES_EMERGENCIAS",
+      "CANTIDADES_NUMERICAS",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "REGIONES_PROVINCIAS",
+      "CONFLICTOS_ARMADOS_OPERACIONES"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "ingresó",
+        "position": [
+          106,
+          113
+        ],
+        "start": 106,
+        "end": 113
+      },
+      {
+        "category": "DESASTRES_ACCIDENTES_EMERGENCIAS",
+        "matched_text": "deslizamientos de tierra",
+        "position": [
+          270,
+          294
+        ],
+        "start": 270,
+        "end": 294
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "afirmó",
+        "position": [
+          651,
+          657
+        ],
+        "start": 651,
+        "end": 657
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "informó",
+        "position": [
+          508,
+          515
+        ],
+        "start": 508,
+        "end": 515
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "ministro de gestión de",
+        "position": [
+          359,
+          381
+        ],
+        "start": 359,
+        "end": 381
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "estado indio",
+        "position": [
+          400,
+          412
+        ],
+        "start": 400,
+        "end": 412
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "20 personas",
+        "position": [
+          0,
+          11
+        ],
+        "start": 0,
+        "end": 11
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "17 personas",
+        "position": [
+          488,
+          499
+        ],
+        "start": 488,
+        "end": 499
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "más de 30",
+        "position": [
+          220,
+          229
+        ],
+        "start": 220,
+        "end": 229
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "alrededor de 470.000",
+        "position": [
+          662,
+          682
+        ],
+        "start": 662,
+        "end": 682
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "470.000 personas",
+        "position": [
+          675,
+          691
+        ],
+        "start": 675,
+        "end": 691
+      }
+    ],
+    "match_count": 11
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "India",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Puducherry",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Fengal",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Tamil Nadu",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Sri Lanka",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "KKSSR Ramachandran",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "La India",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Fengal",
+        "relacion": "INGRESAR",
+        "objeto": "Puducherry"
+      },
+      {
+        "sujeto": "Tamil Nadu",
+        "relacion": "DAR",
+        "objeto": "Sri Lanka"
+      },
+      {
+        "sujeto": "KKSSR Ramachandran",
+        "relacion": "DAR",
+        "objeto": "Sri Lanka"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.8176,
+    "pos": 0.0,
+    "neu": 0.962,
+    "neg": 0.038,
+    "label": "negative"
+  }
+}

@@ -1,0 +1,846 @@
+{
+  "url": "https://www.telesurtv.net/presidente-estadounidense-inicia-viaje-a-angola/",
+  "title": "Presidente estadounidense inicia viaje a Angola - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Frances Brown",
+    "guerra económica",
+    "Joe Biden"
+  ],
+  "text": "El presidente de Estados Unidos, Joe Biden, comenzó este domingo un viaje a Angola con el propósito de fomentar de reducir la dependencia de los minerales provenientes de China.\nLEA TAMBIÉN\nUna mirada a la riqueza cultural de Angola: tradición Sona\nPara el país norteño el proyecto ferroviario tiene un significado estratégico, ya que facilitará el acceso de minerales esenciales para el avance tecnológico, como el cobalto, el grafito y el litio.\nLa principal asesora del presidente para África, Frances Brown, comentó que uno de los objetivos del mandatario será presentar el también llamado corredor de lobito como un modelo de desarrollo que pueda ser aplicado en otras naciones del continente africano.\nBrown informó que durante la estancia de Biden en Angola tiene planeado ofrecer un discurso que enfatice la importancia de la relación entres los dos países.\nLa Asociación para la Infraestructura y la Inversión Global (PGII), creada en el 2022 por el G20, es quien lleva a cabo el desarrollo del proyecto,\nPor otra parte, la coordinadora de EE. UU. para la PGII, Helaina Matza, indicó que el objetivo es reducir de 45 días a una semana el tiempo que se emplea en transportar los minerales desde Zambia y la República Democrática del Congo hasta el puerto de Lobito.\nSe espera que durante su visita Biden se reúna con el mandatario angoleño para discutir temas relacionados con infraestructuras, economía, cambio climático, seguridad regional y fortalecimiento de la democracia.\nLas acciones de Estados Unidos en Angola, aunque se presentan como un esfuerzo para fomentar el desarrollo africano, en realidad, esta acción está diseñada para beneficiar los intereses económicos de Estados Unidos y disminuir la dependencia económica de algunos países africanos con China.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/presidente-estadounidense-inicia-viaje-a-angola/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-12.json",
+    "message_index": 1748,
+    "message_id": 81554,
+    "date": "2024-12-01T19:55:10+00:00",
+    "text": "teleSUR\nPresidente estadounidense inicia viaje a Angola\nhttps://www.telesurtv.net/presidente-estadounidense-inicia-viaje-a-angola/",
+    "photo_path": null,
+    "views": 2720,
+    "reactions": {
+      "👎": 28,
+      "🤡": 17,
+      "💩": 15,
+      "🤔": 6,
+      "👍": 3,
+      "❤": 1
+    },
+    "total_reactions": 70
+  },
+  "preprocessing": {
+    "cleaned": "el presidente de estados unidos, joe biden, comenzó este domingo un viaje a angola con el propósito de fomentar de reducir la dependencia de los minerales provenientes de china. para el país norteño el proyecto ferroviario tiene un significado estratégico, ya que facilitará el acceso de minerales esenciales para el avance tecnológico, como el cobalto, el grafito y el litio. la principal asesora del presidente para áfrica, frances brown, comentó que uno de los objetivos del mandatario será presentar el también llamado corredor de lobito como un modelo de desarrollo que pueda ser aplicado en otras naciones del continente africano. brown informó que durante la estancia de biden en angola tiene planeado ofrecer un discurso que enfatice la importancia de la relación entres los dos países. la asociación para la infraestructura y la inversión global (pgii), creada en el 2022 por el g20, es quien lleva a cabo el desarrollo del proyecto, por otra parte, la coordinadora de ee. uu. para la pgii, helaina matza, indicó que el objetivo es reducir de 45 días a una semana el tiempo que se emplea en transportar los minerales desde zambia y la república democrática del congo hasta el puerto de lobito. se espera que durante su visita biden se reúna con el mandatario angoleño para discutir temas relacionados con infraestructuras, economía, cambio climático, seguridad regional y fortalecimiento de la democracia. las acciones de estados unidos en angola, aunque se presentan como un esfuerzo para fomentar el desarrollo africano, en realidad, esta acción está diseñada para beneficiar los intereses económicos de estados unidos y disminuir la dependencia económica de algunos países africanos con china.",
+    "tokens": [
+      "presidente",
+      "unidos",
+      ",",
+      "joe",
+      "biden",
+      ",",
+      "comenzó",
+      "domingo",
+      "viaje",
+      "angola",
+      "propósito",
+      "fomentar",
+      "reducir",
+      "dependencia",
+      "minerales",
+      "provenientes",
+      "china",
+      ".",
+      "país",
+      "norteño",
+      "proyecto",
+      "ferroviario",
+      "significado",
+      "estratégico",
+      ",",
+      "facilitará",
+      "acceso",
+      "minerales",
+      "esenciales",
+      "avance",
+      "tecnológico",
+      ",",
+      "cobalto",
+      ",",
+      "grafito",
+      "litio",
+      ".",
+      "principal",
+      "asesora",
+      "presidente",
+      "áfrica",
+      ",",
+      "frances",
+      "brown",
+      ",",
+      "comentó",
+      "objetivos",
+      "mandatario",
+      "presentar",
+      "llamado",
+      "corredor",
+      "lobito",
+      "modelo",
+      "desarrollo",
+      "pueda",
+      "ser",
+      "aplicado",
+      "naciones",
+      "continente",
+      "africano",
+      ".",
+      "brown",
+      "informó",
+      "estancia",
+      "biden",
+      "angola",
+      "planeado",
+      "ofrecer",
+      "discurso",
+      "enfatice",
+      "importancia",
+      "relación",
+      "entres",
+      "dos",
+      "países",
+      ".",
+      "asociación",
+      "infraestructura",
+      "inversión",
+      "global",
+      "(",
+      "pgii",
+      ")",
+      ",",
+      "creada",
+      "2022",
+      "g20",
+      ",",
+      "lleva",
+      "cabo",
+      "desarrollo",
+      "proyecto",
+      ",",
+      "parte",
+      ",",
+      "coordinadora",
+      "ee",
+      ".",
+      "uu.",
+      "pgii",
+      ",",
+      "helaina",
+      "matza",
+      ",",
+      "indicó",
+      "objetivo",
+      "reducir",
+      "45",
+      "días",
+      "semana",
+      "tiempo",
+      "emplea",
+      "transportar",
+      "minerales",
+      "zambia",
+      "república",
+      "democrática",
+      "congo",
+      "puerto",
+      "lobito",
+      ".",
+      "espera",
+      "visita",
+      "biden",
+      "reúna",
+      "mandatario",
+      "angoleño",
+      "discutir",
+      "temas",
+      "relacionados",
+      "infraestructuras",
+      ",",
+      "economía",
+      ",",
+      "cambio",
+      "climático",
+      ",",
+      "seguridad",
+      "regional",
+      "fortalecimiento",
+      "democracia",
+      ".",
+      "acciones",
+      "unidos",
+      "angola",
+      ",",
+      "aunque",
+      "presentan",
+      "esfuerzo",
+      "fomentar",
+      "desarrollo",
+      "africano",
+      ",",
+      "realidad",
+      ",",
+      "acción",
+      "diseñada",
+      "beneficiar",
+      "intereses",
+      "económicos",
+      "unidos",
+      "disminuir",
+      "dependencia",
+      "económica",
+      "países",
+      "africanos",
+      "china",
+      "."
+    ],
+    "token_count": 168,
+    "sentence_count": 8
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 50,
+      "NN": 115,
+      "FW": 46,
+      "JJ": 26,
+      "IN": 9,
+      "NNS": 11,
+      "VBZ": 4,
+      "VBP": 9,
+      "CD": 2,
+      "CC": 1,
+      "VBD": 1
+    },
+    "bigram_freq": {
+      "NNP-NN": 17,
+      "NN-FW": 10,
+      "FW-NNP": 10,
+      "NNP-NNP": 23,
+      "NN-NN": 73,
+      "NN-JJ": 8,
+      "JJ-NN": 15,
+      "NN-NNP": 8,
+      "NN-IN": 8,
+      "IN-FW": 4,
+      "FW-FW": 23,
+      "FW-NNS": 4,
+      "NNS-VBZ": 1,
+      "VBZ-IN": 1,
+      "IN-NNP": 2,
+      "NNP-JJ": 2,
+      "JJ-JJ": 3,
+      "JJ-FW": 3,
+      "NNP-VBZ": 2,
+      "VBZ-JJ": 2,
+      "NNS-VBP": 6,
+      "VBP-JJ": 6,
+      "FW-NN": 7,
+      "JJ-NNS": 3,
+      "FW-JJ": 2,
+      "IN-JJ": 1,
+      "NNS-FW": 2,
+      "NN-VBP": 2,
+      "VBP-NNP": 2,
+      "NNP-FW": 3,
+      "NNS-NNP": 1,
+      "NN-CD": 1,
+      "CD-NN": 1,
+      "NN-CC": 1,
+      "CC-NNP": 1,
+      "NNP-VBP": 1,
+      "IN-CD": 1,
+      "CD-NNS": 1,
+      "NNS-JJ": 1,
+      "NN-NNS": 2,
+      "JJ-NNP": 2,
+      "NN-VBD": 1,
+      "VBD-JJ": 1,
+      "NNP-NNS": 1,
+      "IN-NN": 1,
+      "VBP-NN": 1,
+      "NN-VBZ": 1,
+      "VBZ-FW": 1
+    },
+    "trigram_freq": {
+      "NNP-NN-FW": 1,
+      "NN-FW-NNP": 1,
+      "FW-NNP-NNP": 4,
+      "NNP-NNP-NNP": 11,
+      "NNP-NNP-NN": 8,
+      "NNP-NN-NN": 14,
+      "NN-NN-NN": 47,
+      "NN-NN-JJ": 7,
+      "NN-JJ-NN": 7,
+      "JJ-NN-NNP": 2,
+      "NN-NNP-NN": 2,
+      "NN-NN-IN": 4,
+      "NN-IN-FW": 4,
+      "IN-FW-FW": 2,
+      "FW-FW-FW": 14,
+      "FW-FW-NNS": 4,
+      "FW-NNS-VBZ": 1,
+      "NNS-VBZ-IN": 1,
+      "VBZ-IN-NNP": 1,
+      "IN-NNP-NNP": 2,
+      "NNP-NNP-JJ": 1,
+      "NNP-JJ-JJ": 1,
+      "JJ-JJ-FW": 1,
+      "JJ-FW-NNP": 1,
+      "FW-NNP-NN": 4,
+      "NNP-NN-NNP": 2,
+      "NN-NNP-NNP": 4,
+      "NNP-NNP-VBZ": 1,
+      "NNP-VBZ-JJ": 2,
+      "VBZ-JJ-JJ": 1,
+      "JJ-JJ-NN": 2,
+      "JJ-NN-NN": 8,
+      "NN-NN-FW": 8,
+      "NN-FW-FW": 5,
+      "FW-NNS-VBP": 3,
+      "NNS-VBP-JJ": 5,
+      "VBP-JJ-NN": 4,
+      "NN-FW-NN": 4,
+      "FW-NN-NNP": 2,
+      "NN-NNP-JJ": 1,
+      "NNP-JJ-NNS": 1,
+      "JJ-NNS-VBP": 1,
+      "FW-FW-JJ": 1,
+      "FW-JJ-NN": 1,
+      "JJ-NN-IN": 4,
+      "IN-FW-NN": 1,
+      "FW-NN-JJ": 1,
+      "IN-FW-JJ": 1,
+      "FW-JJ-FW": 1,
+      "JJ-FW-NN": 1,
+      "FW-NN-NN": 2,
+      "NN-IN-JJ": 1,
+      "IN-JJ-NNS": 1,
+      "JJ-NNS-FW": 1,
+      "NNS-FW-NN": 1,
+      "FW-NN-VBP": 1,
+      "NN-VBP-NNP": 1,
+      "VBP-NNP-NN": 1,
+      "FW-FW-NNP": 4,
+      "FW-NNP-FW": 1,
+      "NNP-FW-NNP": 3,
+      "VBP-JJ-NNS": 1,
+      "JJ-NNS-NNP": 1,
+      "NNS-NNP-NNP": 1,
+      "NN-NN-NNP": 2,
+      "NN-NN-CD": 1,
+      "NN-CD-NN": 1,
+      "CD-NN-CC": 1,
+      "NN-CC-NNP": 1,
+      "CC-NNP-VBP": 1,
+      "NNP-VBP-JJ": 1,
+      "NN-NNP-VBZ": 1,
+      "VBZ-JJ-FW": 1,
+      "JJ-FW-FW": 1,
+      "NN-IN-CD": 1,
+      "IN-CD-NNS": 1,
+      "CD-NNS-JJ": 1,
+      "NNS-JJ-JJ": 1,
+      "FW-NN-FW": 1,
+      "NN-NN-NNS": 2,
+      "NN-NNS-VBP": 2,
+      "NNS-VBP-NNP": 1,
+      "VBP-NNP-NNP": 1,
+      "NNP-NNP-FW": 2,
+      "NN-IN-NNP": 1,
+      "NN-JJ-NNP": 1,
+      "JJ-NNP-NN": 1,
+      "JJ-NN-VBD": 1,
+      "NN-VBD-JJ": 1,
+      "VBD-JJ-NN": 1,
+      "FW-NNP-NNS": 1,
+      "NNP-NNS-FW": 1,
+      "NNS-FW-NNP": 1,
+      "NN-IN-NN": 1,
+      "IN-NN-NN": 1,
+      "NN-NN-VBP": 1,
+      "NN-VBP-NN": 1,
+      "VBP-NN-NN": 1,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-FW": 1,
+      "VBZ-FW-FW": 1,
+      "VBP-JJ-NNP": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 115,
+        "NNP": 50,
+        "FW": 46,
+        "JJ": 26,
+        "NNS": 11
+      },
+      "top_bigrams": {
+        "NN-NN": 73,
+        "NNP-NNP": 23,
+        "FW-FW": 23,
+        "NNP-NN": 17,
+        "JJ-NN": 15
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 47,
+        "NNP-NN-NN": 14,
+        "FW-FW-FW": 14,
+        "NNP-NNP-NNP": 11,
+        "NNP-NNP-NN": 8
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 8,
+    "chunk_counts": {
+      "NP": 72,
+      "VP": 12,
+      "PP": 4,
+      "ADJP": 2
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 3,
+        "weight": 0.0306
+      },
+      {
+        "rule": "NP -> ('Estados', 'NNP') ('Unidos', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0204
+      },
+      {
+        "rule": "NP -> ('Angola', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0204
+      },
+      {
+        "rule": "S -> NP ('de', 'FW') NP (',', ',') NP (',', ',') NP NP NP ('de', 'IN') ('fomentar', 'FW') ('de', 'FW') ('reducir', 'FW') ('la', 'FW') ('dependencia', 'FW') ('de', 'FW') ('los', 'FW') NP VP PP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0102
+      },
+      {
+        "rule": "NP -> ('El', 'NNP') ('presidente', 'NN')",
+        "frequency": 1,
+        "weight": 0.0102
+      },
+      {
+        "rule": "NP -> ('Joe', 'NNP') ('Biden', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0102
+      },
+      {
+        "rule": "NP -> ('comenzó', 'NN') ('este', 'NN') ('domingo', 'NN')",
+        "frequency": 1,
+        "weight": 0.0102
+      },
+      {
+        "rule": "NP -> ('un', 'JJ') ('viaje', 'NN')",
+        "frequency": 1,
+        "weight": 0.0102
+      },
+      {
+        "rule": "NP -> ('a', 'DT') ('Angola', 'NNP') ('con', 'NN') ('el', 'NN') ('propósito', 'NN')",
+        "frequency": 1,
+        "weight": 0.0102
+      },
+      {
+        "rule": "NP -> ('minerales', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0102
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El presidente"
+      },
+      {
+        "label": "NP",
+        "text": "Estados Unidos"
+      },
+      {
+        "label": "NP",
+        "text": "Joe Biden"
+      },
+      {
+        "label": "NP",
+        "text": "comenzó este domingo"
+      },
+      {
+        "label": "NP",
+        "text": "un viaje"
+      },
+      {
+        "label": "NP",
+        "text": "a Angola con el propósito"
+      },
+      {
+        "label": "NP",
+        "text": "minerales"
+      },
+      {
+        "label": "VP",
+        "text": "provenientes"
+      },
+      {
+        "label": "PP",
+        "text": "de China"
+      },
+      {
+        "label": "NP",
+        "text": "China"
+      },
+      {
+        "label": "NP",
+        "text": "LEA TAMBIÉN Una"
+      },
+      {
+        "label": "VP",
+        "text": "mirada a la riqueza cultural"
+      },
+      {
+        "label": "NP",
+        "text": "a la"
+      },
+      {
+        "label": "NP",
+        "text": "Angola"
+      },
+      {
+        "label": "NP",
+        "text": "tradición Sona Para"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP El/NNP presidente/NN)\n  de/FW\n  (NP Estados/NNP Unidos/NNP)\n  ,/,\n  (NP Joe/NNP Biden/NNP)\n  ,/,\n  (NP comenzó/NN este/NN domingo/NN)\n  (NP un/JJ viaje/NN)\n  (NP a/DT Angola/NNP con/NN el/NN propósito/NN)\n  de/IN\n  fomentar/FW\n  de/FW\n  reducir/FW\n  la/FW\n  dependencia/FW\n  de/FW\n  los/FW\n  (NP minerales/NNS)\n  (VP provenientes/VBZ)\n  (PP de/IN (NP China/NNP))\n  ./.)",
+      "(S\n  (NP LEA/NNP TAMBIÉN/NNP Una/NNP)\n  (VP mirada/VBD (NP a/DT la/NN) riqueza/JJ cultural/JJ)\n  de/FW\n  (NP Angola/NNP)\n  :/:\n  (NP tradición/NN Sona/NNP Para/NNP)\n  (VP\n    el/VBZ\n    (NP país/JJ norteño/JJ el/NN proyecto/NN ferroviario/NN tiene/NN)\n    (NP un/JJ significado/NN estratégico/NN))\n  ,/,\n  ya/PRP\n  (VP que/VBP (NP facilitará/JJ el/JJ acceso/NN))\n  (PP de/IN (NP minerales/NNS esenciales/NNS))\n  (VP para/VBP (NP el/JJ avance/NN tecnológico/NN))\n  ,/,\n  (NP como/NN el/NN cobalto/NN)\n  ,/,\n  el/FW\n  grafito/FW\n  y/FW\n  el/FW\n  (NP litio/NN)\n  ./.)",
+      "(S\n  (NP La/NNP)\n  (NP principal/JJ asesora/NNS)\n  (VP del/VBP (NP presidente/JJ para/NN África/NNP))\n  ,/,\n  (NP Frances/NNP Brown/NNP)\n  ,/,\n  (NP comentó/NN que/NN)\n  uno/FW\n  de/FW\n  los/FW\n  (NP\n    objetivos/JJ\n    del/NN\n    mandatario/NN\n    será/NN\n    presentar/NN\n    el/NN\n    también/NN)\n  (NP llamado/JJ corredor/NN)\n  de/IN\n  lobito/FW\n  (NP como/NN)\n  (NP un/JJ modelo/NN)\n  de/IN\n  desarrollo/FW\n  (ADJP que/JJ)\n  pueda/FW\n  (NP ser/NN aplicado/NN)\n  (PP en/IN (NP otras/JJ naciones/NNS))\n  del/FW\n  (NP continente/JJ africano/NN)\n  ./.)",
+      "(S\n  (NP Brown/NNP informó/NN que/NN durante/NN)\n  la/FW\n  estancia/FW\n  de/FW\n  (NP Biden/NNP)\n  en/FW\n  (NP Angola/NNP tiene/NN planeado/NN ofrecer/NN)\n  (NP un/JJ discurso/NN que/NN enfatice/NN)\n  la/FW\n  importancia/FW\n  de/FW\n  la/FW\n  relación/FW\n  (NP entres/NNS)\n  (VP los/VBP (NP dos/JJ países/NNS))\n  ./.)",
+      "(S\n  (NP\n    La/NNP\n    Asociación/NNP\n    para/NN\n    la/NN\n    Infraestructura/NNP\n    y/NNP\n    la/NNP\n    Inversión/NNP\n    Global/NNP)\n  (/(\n  (NP PGII/NNP)\n  )/)\n  ,/,\n  (ADJP creada/JJ)\n  en/FW\n  (NP el/NN)\n  2022/CD\n  (NP por/NN el/NN G20/NNP)\n  ,/,\n  (NP es/JJ quien/NN)\n  (VP\n    lleva/VBD\n    (NP a/DT cabo/NN el/NN desarrollo/NN del/NN proyecto/NN))\n  ,/,\n  (NP Por/NNP)\n  otra/MD\n  (VP parte/VB)\n  ,/,\n  la/FW\n  coordinadora/FW\n  de/FW\n  (NP EE/NNP)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "GOBIERNOS_OFICIALES",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "CRISIS_HUMANITARIA_SERVICIOS",
+      "PAISES",
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "INFRAESTRUCTURA_SERVICIOS"
+    ],
+    "matches": [
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "inversión",
+        "position": [
+          909,
+          918
+        ],
+        "start": 909,
+        "end": 918
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "informó",
+        "position": [
+          714,
+          721
+        ],
+        "start": 714,
+        "end": 721
+      },
+      {
+        "category": "CRISIS_HUMANITARIA_SERVICIOS",
+        "matched_text": "cambio climático",
+        "position": [
+          1413,
+          1429
+        ],
+        "start": 1413,
+        "end": 1429
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente de estados",
+        "position": [
+          3,
+          24
+        ],
+        "start": 3,
+        "end": 24
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "puerto",
+        "position": [
+          1256,
+          1262
+        ],
+        "start": 1256,
+        "end": 1262
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "estados unidos",
+        "position": [
+          17,
+          31
+        ],
+        "start": 17,
+        "end": 31
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "china",
+        "position": [
+          171,
+          176
+        ],
+        "start": 171,
+        "end": 176
+      }
+    ],
+    "match_count": 7
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "África",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Angola",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Frances Brown",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Brown",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Biden",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "República Democrática del Congo",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Estados Unidos",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "G20",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Lobito",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "China",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Inversión Global",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Joe Biden",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Helaina Matza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Sona\nPara",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "EE. UU.",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Asociación para la Infraestructura",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Zambia",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Estados Unidos",
+        "relacion": "COMENZAR",
+        "objeto": "Angola"
+      },
+      {
+        "sujeto": "Estados Unidos",
+        "relacion": "COMENZAR",
+        "objeto": "China"
+      },
+      {
+        "sujeto": "Joe Biden",
+        "relacion": "COMENZAR",
+        "objeto": "Angola"
+      },
+      {
+        "sujeto": "Joe Biden",
+        "relacion": "COMENZAR",
+        "objeto": "China"
+      },
+      {
+        "sujeto": "Angola",
+        "relacion": "COMENZAR",
+        "objeto": "China"
+      },
+      {
+        "sujeto": "Brown",
+        "relacion": "INFORMAR",
+        "objeto": "Biden"
+      },
+      {
+        "sujeto": "Brown",
+        "relacion": "INFORMAR",
+        "objeto": "Angola"
+      },
+      {
+        "sujeto": "Asociación para la Infraestructura",
+        "relacion": "SER",
+        "objeto": "EE. UU."
+      },
+      {
+        "sujeto": "Asociación para la Infraestructura",
+        "relacion": "SER",
+        "objeto": "Helaina Matza"
+      },
+      {
+        "sujeto": "Asociación para la Infraestructura",
+        "relacion": "SER",
+        "objeto": "Zambia"
+      },
+      {
+        "sujeto": "Asociación para la Infraestructura",
+        "relacion": "SER",
+        "objeto": "República Democrática del Congo"
+      },
+      {
+        "sujeto": "Asociación para la Infraestructura",
+        "relacion": "SER",
+        "objeto": "Lobito"
+      },
+      {
+        "sujeto": "Inversión Global",
+        "relacion": "SER",
+        "objeto": "EE. UU."
+      },
+      {
+        "sujeto": "Inversión Global",
+        "relacion": "SER",
+        "objeto": "Helaina Matza"
+      },
+      {
+        "sujeto": "Inversión Global",
+        "relacion": "SER",
+        "objeto": "Zambia"
+      },
+      {
+        "sujeto": "Inversión Global",
+        "relacion": "SER",
+        "objeto": "República Democrática del Congo"
+      },
+      {
+        "sujeto": "Inversión Global",
+        "relacion": "SER",
+        "objeto": "Lobito"
+      },
+      {
+        "sujeto": "G20",
+        "relacion": "SER",
+        "objeto": "EE. UU."
+      },
+      {
+        "sujeto": "G20",
+        "relacion": "SER",
+        "objeto": "Helaina Matza"
+      },
+      {
+        "sujeto": "G20",
+        "relacion": "SER",
+        "objeto": "Zambia"
+      },
+      {
+        "sujeto": "G20",
+        "relacion": "SER",
+        "objeto": "República Democrática del Congo"
+      },
+      {
+        "sujeto": "G20",
+        "relacion": "SER",
+        "objeto": "Lobito"
+      },
+      {
+        "sujeto": "EE. UU.",
+        "relacion": "INDICAR_SER",
+        "objeto": "Zambia"
+      },
+      {
+        "sujeto": "EE. UU.",
+        "relacion": "INDICAR_SER",
+        "objeto": "República Democrática del Congo"
+      },
+      {
+        "sujeto": "EE. UU.",
+        "relacion": "INDICAR_SER",
+        "objeto": "Lobito"
+      },
+      {
+        "sujeto": "Helaina Matza",
+        "relacion": "INDICAR_SER",
+        "objeto": "Zambia"
+      },
+      {
+        "sujeto": "Helaina Matza",
+        "relacion": "INDICAR_SER",
+        "objeto": "República Democrática del Congo"
+      },
+      {
+        "sujeto": "Helaina Matza",
+        "relacion": "INDICAR_SER",
+        "objeto": "Lobito"
+      },
+      {
+        "sujeto": "Zambia",
+        "relacion": "TRANSPORTAR_EMPLEAR_REDUCIR_SER_INDICAR_SER",
+        "objeto": "Lobito"
+      },
+      {
+        "sujeto": "República Democrática del Congo",
+        "relacion": "TRANSPORTAR_EMPLEAR_REDUCIR_SER_INDICAR_SER",
+        "objeto": "Lobito"
+      },
+      {
+        "sujeto": "Estados Unidos",
+        "relacion": "BENEFICIAR_PRESENTAR",
+        "objeto": "China"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.0,
+    "pos": 0.0,
+    "neu": 1.0,
+    "neg": 0.0,
+    "label": "neutral"
+  }
+}

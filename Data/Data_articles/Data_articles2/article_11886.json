@@ -1,0 +1,854 @@
+{
+  "url": "https://www.telesurtv.net/damasco-desmiente-noticias-sobre-salida-del-pais-del-presidente-sirio-bashar-al-asad/",
+  "title": "Damasco desmiente noticias sobre salida del país del presidente sirio, Bashar al-Asad - teleSUR",
+  "section": "Sin categoría",
+  "tags": [
+    "Bashar al-Asad",
+    "desmiente",
+    "Ministerio de Información sirio",
+    "periódicos",
+    "salida del país falsa",
+    "Siria"
+  ],
+  "text": "En un mensaje publicado a través de su cuenta en X, el Ministerio de Información de la República Árabe de Siria desmintió las noticias publicadas sobre la renuncia del poder del presidente Bashar al-Asad y su posterior salida del país.\n“Algunos medios de comunicación extranjeros publican rumores y noticias falsas sobre la salida del presidente Bashar al-Asad de Damasco o sobre visitas relámpago a un país u otro”, recoge el ministerio.\nEn este sentido, agregó: “La Presidencia de la República Árabe Siria niega todos estos rumores, señala sus objetivos expuestos y confirma que no son nuevos. Más bien, estos medios han seguido este patrón de intentos de engañar e influir en el Estado y la sociedad sirios a lo largo de los últimos años de la guerra”.\n“La Presidencia de la República Árabe Siria también confirma que el Sr. presidente continúa con su trabajo y sus tareas nacionales y constitucionales desde la capital, Damasco”, concluye el comunicado en X.\nPeriódicos como The Telegraph, de Reino Unido y The Wall Street Journal, de los Estados Unidos, fueron algunos de los que informaron supuestamente que la familia del jefe de Estado sirio ha huido a Rusia en medio de los combates entre las Fuerzas Armadas del país y los grupos terroristas.\nPor otro lado, la cadena televisiva Al Jazeera reportó que el comandante de las fuerzas de oposición sirias, Hassan Abdul Ghany, dice que han invadido un campamento del ejército sirio y aldeas en el campo alrededor de la ciudad de Homs.\nAsimismo, el alcalde de al-Qaim, una ciudad fronteriza entre Irak y Siria, mencionó que unos 2.000 soldados sirios han cruzado la frontera hacia Irak en busca de refugio.\nHasta el momento, las fuerzas de oposición con base en Daraa comunicaron que este sábado tomaron el control de la ciudad, la cuarta pérdida estratégica de las fuerzas del presidente Bashar al-Assad en una semana.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/damasco-desmiente-noticias-sobre-salida-del-pais-del-presidente-sirio-bashar-al-asad/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-12.json",
+    "message_index": 1406,
+    "message_id": 81921,
+    "date": "2024-12-07T16:55:07+00:00",
+    "text": "teleSUR\nDamasco desmiente noticias sobre salida del país del presidente sirio, Bashar al-Asad\nhttps://www.telesurtv.net/damasco-desmiente-noticias-sobre-salida-del-pais-del-presidente-sirio-bashar-al-asad/",
+    "photo_path": null,
+    "views": 2729,
+    "reactions": {
+      "👍": 58,
+      "👏": 8,
+      "🤔": 3,
+      "❤": 2,
+      "😁": 1
+    },
+    "total_reactions": 72
+  },
+  "preprocessing": {
+    "cleaned": "en un mensaje publicado a través de su cuenta en x, el ministerio de información de la república árabe de siria desmintió las noticias publicadas sobre la renuncia del poder del presidente bashar al-asad y su posterior salida del país. “algunos medios de comunicación extranjeros publican rumores y noticias falsas sobre la salida del presidente bashar al-asad de damasco o sobre visitas relámpago a un país u otro”, recoge el ministerio. en este sentido, agregó: “la presidencia de la república árabe siria niega todos estos rumores, señala sus objetivos expuestos y confirma que no son nuevos. más bien, estos medios han seguido este patrón de intentos de engañar e influir en el estado y la sociedad sirios a lo largo de los últimos años de la guerra”. “la presidencia de la república árabe siria también confirma que el sr. presidente continúa con su trabajo y sus tareas nacionales y constitucionales desde la capital, damasco”, concluye el comunicado en x. periódicos como the telegraph, de reino unido y the wall street journal, de los estados unidos, fueron algunos de los que informaron supuestamente que la familia del jefe de estado sirio ha huido a rusia en medio de los combates entre las fuerzas armadas del país y los grupos terroristas. por otro lado, la cadena televisiva al jazeera reportó que el comandante de las fuerzas de oposición sirias, hassan abdul ghany, dice que han invadido un campamento del ejército sirio y aldeas en el campo alrededor de la ciudad de homs. asimismo, el alcalde de al-qaim, una ciudad fronteriza entre irak y siria, mencionó que unos 2.000 soldados sirios han cruzado la frontera hacia irak en busca de refugio. hasta el momento, las fuerzas de oposición con base en daraa comunicaron que este sábado tomaron el control de la ciudad, la cuarta pérdida estratégica de las fuerzas del presidente bashar al-assad en una semana.",
+    "tokens": [
+      "mensaje",
+      "publicado",
+      "través",
+      "cuenta",
+      "x",
+      ",",
+      "ministerio",
+      "información",
+      "república",
+      "árabe",
+      "siria",
+      "desmintió",
+      "noticias",
+      "publicadas",
+      "renuncia",
+      "poder",
+      "presidente",
+      "bashar",
+      "al-asad",
+      "posterior",
+      "salida",
+      "país",
+      ".",
+      "“",
+      "medios",
+      "comunicación",
+      "extranjeros",
+      "publican",
+      "rumores",
+      "noticias",
+      "falsas",
+      "salida",
+      "presidente",
+      "bashar",
+      "al-asad",
+      "damasco",
+      "visitas",
+      "relámpago",
+      "país",
+      "u",
+      "”",
+      ",",
+      "recoge",
+      "ministerio",
+      ".",
+      ",",
+      "agregó",
+      ":",
+      "“",
+      "presidencia",
+      "república",
+      "árabe",
+      "siria",
+      "niega",
+      "rumores",
+      ",",
+      "señala",
+      "objetivos",
+      "expuestos",
+      "confirma",
+      "nuevos",
+      ".",
+      "bien",
+      ",",
+      "medios",
+      "seguido",
+      "patrón",
+      "intentos",
+      "engañar",
+      "influir",
+      "sociedad",
+      "sirios",
+      "largo",
+      "últimos",
+      "años",
+      "guerra",
+      "”",
+      ".",
+      "“",
+      "presidencia",
+      "república",
+      "árabe",
+      "siria",
+      "confirma",
+      "sr.",
+      "presidente",
+      "continúa",
+      "trabajo",
+      "tareas",
+      "nacionales",
+      "constitucionales",
+      "capital",
+      ",",
+      "damasco",
+      "”",
+      ",",
+      "concluye",
+      "comunicado",
+      "x.",
+      "periódicos",
+      "the",
+      "telegraph",
+      ",",
+      "reino",
+      "unido",
+      "the",
+      "wall",
+      "street",
+      "journal",
+      ",",
+      "unidos",
+      ",",
+      "informaron",
+      "supuestamente",
+      "familia",
+      "jefe",
+      "sirio",
+      "huido",
+      "rusia",
+      "medio",
+      "combates",
+      "fuerzas",
+      "armadas",
+      "país",
+      "grupos",
+      "terroristas",
+      ".",
+      "lado",
+      ",",
+      "cadena",
+      "televisiva",
+      "jazeera",
+      "reportó",
+      "comandante",
+      "fuerzas",
+      "oposición",
+      "sirias",
+      ",",
+      "hassan",
+      "abdul",
+      "ghany",
+      ",",
+      "dice",
+      "invadido",
+      "campamento",
+      "ejército",
+      "sirio",
+      "aldeas",
+      "campo",
+      "alrededor",
+      "ciudad",
+      "homs",
+      ".",
+      "asimismo",
+      ",",
+      "alcalde",
+      "al-qaim",
+      ",",
+      "ciudad",
+      "fronteriza",
+      "irak",
+      "siria",
+      ",",
+      "mencionó",
+      "2.000",
+      "soldados",
+      "sirios",
+      "cruzado",
+      "frontera",
+      "hacia",
+      "irak",
+      "busca",
+      "refugio",
+      ".",
+      "momento",
+      ",",
+      "fuerzas",
+      "oposición",
+      "base",
+      "daraa",
+      "comunicaron",
+      "sábado",
+      "tomaron",
+      "control",
+      "ciudad",
+      ",",
+      "cuarta",
+      "pérdida",
+      "estratégica",
+      "fuerzas",
+      "presidente",
+      "bashar",
+      "al-assad",
+      "semana",
+      "."
+    ],
+    "token_count": 195,
+    "sentence_count": 9
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 53,
+      "JJ": 31,
+      "NN": 106,
+      "IN": 17,
+      "FW": 63,
+      "NNS": 9,
+      "VBP": 7,
+      "VBZ": 1,
+      "DT": 3,
+      "RB": 1,
+      "VBD": 2,
+      "CD": 1
+    },
+    "bigram_freq": {
+      "NNP-JJ": 5,
+      "JJ-NN": 19,
+      "NN-NN": 61,
+      "NN-IN": 14,
+      "IN-FW": 14,
+      "FW-NN": 12,
+      "NN-FW": 8,
+      "FW-FW": 26,
+      "FW-NNP": 15,
+      "NNP-FW": 10,
+      "NNP-NNP": 19,
+      "NNP-NN": 12,
+      "NN-JJ": 6,
+      "JJ-FW": 4,
+      "NN-NNP": 10,
+      "FW-JJ": 8,
+      "JJ-NNS": 3,
+      "NNS-JJ": 1,
+      "JJ-JJ": 2,
+      "NN-NNS": 3,
+      "NNS-VBP": 6,
+      "VBP-JJ": 6,
+      "NNP-IN": 3,
+      "NN-VBZ": 1,
+      "VBZ-JJ": 1,
+      "NN-DT": 1,
+      "DT-NN": 1,
+      "NN-RB": 1,
+      "RB-NNP": 1,
+      "FW-NNS": 2,
+      "VBP-NN": 1,
+      "NNS-NNS": 1,
+      "IN-NNP": 2,
+      "NNP-VBD": 2,
+      "VBD-DT": 1,
+      "DT-NNP": 2,
+      "NNP-DT": 1,
+      "VBD-FW": 1,
+      "JJ-NNP": 2,
+      "NNS-NNP": 1,
+      "NNP-VBP": 1,
+      "IN-JJ": 1,
+      "JJ-CD": 1,
+      "CD-JJ": 1
+    },
+    "trigram_freq": {
+      "NNP-JJ-NN": 4,
+      "JJ-NN-NN": 14,
+      "NN-NN-NN": 33,
+      "NN-NN-IN": 6,
+      "NN-IN-FW": 11,
+      "IN-FW-NN": 1,
+      "FW-NN-FW": 4,
+      "NN-FW-FW": 3,
+      "FW-FW-NNP": 7,
+      "FW-NNP-FW": 4,
+      "NNP-FW-NNP": 2,
+      "NNP-FW-FW": 3,
+      "FW-NNP-NNP": 8,
+      "NNP-NNP-FW": 3,
+      "FW-NNP-NN": 3,
+      "NNP-NN-NN": 11,
+      "NN-NN-JJ": 5,
+      "NN-JJ-FW": 1,
+      "JJ-FW-NN": 1,
+      "FW-FW-FW": 14,
+      "FW-FW-NN": 1,
+      "FW-NN-NN": 3,
+      "NN-NN-NNP": 9,
+      "NN-NNP-JJ": 2,
+      "JJ-NN-JJ": 1,
+      "NN-JJ-NN": 3,
+      "NN-NNP-FW": 3,
+      "FW-FW-JJ": 3,
+      "FW-JJ-NNS": 1,
+      "JJ-NNS-JJ": 1,
+      "NNS-JJ-JJ": 1,
+      "JJ-JJ-NN": 2,
+      "NN-NN-FW": 3,
+      "NN-FW-NN": 4,
+      "NNP-JJ-FW": 1,
+      "JJ-FW-NNP": 1,
+      "NNP-NN-NNS": 1,
+      "NN-NNS-VBP": 2,
+      "NNS-VBP-JJ": 5,
+      "VBP-JJ-NN": 4,
+      "NN-NNP-NN": 3,
+      "NN-NNP-NNP": 2,
+      "NNP-NNP-IN": 3,
+      "NNP-IN-FW": 3,
+      "IN-FW-NNP": 4,
+      "NNP-NNP-NNP": 6,
+      "NNP-NNP-JJ": 1,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 1,
+      "NN-NN-DT": 1,
+      "NN-DT-NN": 1,
+      "DT-NN-RB": 1,
+      "NN-RB-NNP": 1,
+      "RB-NNP-NN": 1,
+      "NN-NN-NNS": 2,
+      "IN-FW-FW": 4,
+      "FW-FW-NNS": 1,
+      "FW-NNS-VBP": 2,
+      "NNS-VBP-NN": 1,
+      "VBP-NN-IN": 1,
+      "IN-FW-JJ": 4,
+      "FW-JJ-NN": 5,
+      "JJ-NN-IN": 2,
+      "NNP-NNP-NN": 4,
+      "NN-JJ-NNS": 1,
+      "JJ-NNS-NNS": 1,
+      "NNS-NNS-VBP": 1,
+      "JJ-NN-NNP": 1,
+      "NN-IN-NNP": 2,
+      "IN-NNP-VBD": 1,
+      "NNP-VBD-DT": 1,
+      "VBD-DT-NNP": 1,
+      "DT-NNP-NNP": 2,
+      "NNP-NNP-DT": 1,
+      "NNP-DT-NNP": 1,
+      "NNP-NNP-VBD": 1,
+      "NNP-VBD-FW": 1,
+      "VBD-FW-FW": 1,
+      "IN-NNP-NN": 1,
+      "NNP-FW-NN": 5,
+      "FW-NN-IN": 5,
+      "IN-FW-NNS": 1,
+      "VBP-JJ-NNP": 1,
+      "JJ-NNP-NNP": 1,
+      "NN-NNS-NNP": 1,
+      "NNS-NNP-VBP": 1,
+      "NNP-VBP-JJ": 1,
+      "VBP-JJ-FW": 1,
+      "JJ-FW-FW": 1,
+      "NN-IN-JJ": 1,
+      "IN-JJ-JJ": 1,
+      "NN-JJ-CD": 1,
+      "JJ-CD-JJ": 1,
+      "CD-JJ-NNS": 1,
+      "JJ-NNS-VBP": 1,
+      "JJ-NN-FW": 1,
+      "NN-FW-NNP": 1,
+      "FW-JJ-FW": 1,
+      "JJ-FW-JJ": 1,
+      "FW-JJ-NNP": 1,
+      "JJ-NNP-JJ": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 106,
+        "FW": 63,
+        "NNP": 53,
+        "JJ": 31,
+        "IN": 17
+      },
+      "top_bigrams": {
+        "NN-NN": 61,
+        "FW-FW": 26,
+        "JJ-NN": 19,
+        "NNP-NNP": 19,
+        "FW-NNP": 15
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 33,
+        "JJ-NN-NN": 14,
+        "FW-FW-FW": 14,
+        "NN-IN-FW": 11,
+        "NNP-NN-NN": 11
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 9,
+    "chunk_counts": {
+      "NP": 85,
+      "VP": 15,
+      "ADJP": 3,
+      "PP": 4
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 3,
+        "weight": 0.0259
+      },
+      {
+        "rule": "NP -> ('X', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0172
+      },
+      {
+        "rule": "NP -> ('sobre', 'NN')",
+        "frequency": 2,
+        "weight": 0.0172
+      },
+      {
+        "rule": "NP -> ('Bashar', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0172
+      },
+      {
+        "rule": "NP -> ('“', 'JJ') ('La', 'NNP') ('Presidencia', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0172
+      },
+      {
+        "rule": "VP -> ('han', 'VBP') NP",
+        "frequency": 2,
+        "weight": 0.0172
+      },
+      {
+        "rule": "S -> NP NP VP ('de', 'IN') ('su', 'FW') NP ('en', 'FW') NP (',', ',') NP ('de', 'FW') NP ('de', 'FW') ('la', 'FW') NP ('de', 'FW') NP ADJP ('publicadas', 'FW') NP ('la', 'FW') ('renuncia', 'FW') ('del', 'FW') NP NP NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0086
+      },
+      {
+        "rule": "NP -> ('En', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0086
+      },
+      {
+        "rule": "NP -> ('un', 'JJ') ('mensaje', 'NN')",
+        "frequency": 1,
+        "weight": 0.0086
+      },
+      {
+        "rule": "VP -> ('publicado', 'VBZ') NP",
+        "frequency": 1,
+        "weight": 0.0086
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "En"
+      },
+      {
+        "label": "NP",
+        "text": "un mensaje"
+      },
+      {
+        "label": "VP",
+        "text": "publicado a través"
+      },
+      {
+        "label": "NP",
+        "text": "a través"
+      },
+      {
+        "label": "NP",
+        "text": "cuenta"
+      },
+      {
+        "label": "NP",
+        "text": "X"
+      },
+      {
+        "label": "NP",
+        "text": "el Ministerio"
+      },
+      {
+        "label": "NP",
+        "text": "Información"
+      },
+      {
+        "label": "NP",
+        "text": "República Árabe"
+      },
+      {
+        "label": "NP",
+        "text": "Siria desmintió las"
+      },
+      {
+        "label": "ADJP",
+        "text": "noticias"
+      },
+      {
+        "label": "NP",
+        "text": "sobre"
+      },
+      {
+        "label": "NP",
+        "text": "poder del presidente Bashar"
+      },
+      {
+        "label": "NP",
+        "text": "al-Asad y su"
+      },
+      {
+        "label": "NP",
+        "text": "posterior salida del país"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP En/NNP)\n  (NP un/JJ mensaje/NN)\n  (VP publicado/VBZ (NP a/DT través/NN))\n  de/IN\n  su/FW\n  (NP cuenta/NN)\n  en/FW\n  (NP X/NNP)\n  ,/,\n  (NP el/JJ Ministerio/NNP)\n  de/FW\n  (NP Información/NNP)\n  de/FW\n  la/FW\n  (NP República/NNP Árabe/NNP)\n  de/FW\n  (NP Siria/NNP desmintió/NN las/NN)\n  (ADJP noticias/JJ)\n  publicadas/FW\n  (NP sobre/NN)\n  la/FW\n  renuncia/FW\n  del/FW\n  (NP poder/NN del/NN presidente/NN Bashar/NNP)\n  (NP al-Asad/JJ y/NN su/NN)\n  (NP posterior/JJ salida/NN del/NN país/NN)\n  ./.)",
+      "(S\n  (NP “/JJ Algunos/NNP)\n  medios/FW\n  de/FW\n  comunicación/FW\n  extranjeros/FW\n  (NP publican/JJ rumores/NNS)\n  (VP y/VBP noticias/JJ)\n  falsas/FW\n  (NP sobre/NN)\n  la/FW\n  salida/FW\n  del/FW\n  presidente/FW\n  (NP Bashar/NNP)\n  (ADJP al-Asad/JJ)\n  de/FW\n  (NP Damasco/NNP)\n  o/MD\n  (VP sobre/VB (NP visitas/NNS))\n  (VP relámpago/VB (NP a/DT un/JJ país/NN) (NP u/JJ otro/NN ”/NN))\n  ,/,\n  (VP recoge/VB (NP el/NN ministerio/NN))\n  ./.)",
+      "(S\n  (NP En/NNP este/NN sentido/NN)\n  ,/,\n  (NP agregó/NN)\n  :/:\n  (NP “/JJ La/NNP Presidencia/NNP)\n  de/IN\n  la/FW\n  (NP República/NNP Árabe/NNP Siria/NNP)\n  (NP niega/JJ todos/NN estos/NN rumores/NNS)\n  ,/,\n  (NP\n    señala/JJ\n    sus/NN\n    objetivos/NN\n    expuestos/NN\n    y/NN\n    confirma/NN\n    que/NN)\n  (NP no/DT son/NN)\n  nuevos/RB\n  ./.)",
+      "(S\n  (NP Más/NNP bien/NN)\n  ,/,\n  (NP estos/JJ medios/NNS)\n  (VP han/VBP (NP seguido/JJ este/NN patrón/NN))\n  de/IN\n  intentos/FW\n  de/FW\n  engañar/FW\n  e/FW\n  influir/FW\n  en/FW\n  el/FW\n  (NP Estado/NNP)\n  y/CC\n  la/FW\n  sociedad/FW\n  sirios/FW\n  (NP a/DT lo/JJ largo/NN)\n  de/IN\n  los/FW\n  (NP últimos/JJ años/NN)\n  de/IN\n  la/FW\n  guerra/FW\n  (NP ”/NN)\n  ./.)",
+      "(S\n  (NP “/JJ La/NNP Presidencia/NNP)\n  de/IN\n  la/FW\n  (NP\n    República/NNP\n    Árabe/NNP\n    Siria/NNP\n    también/NN\n    confirma/NN\n    que/NN\n    el/NN\n    Sr./NNP\n    presidente/NN\n    continúa/NN\n    con/NN\n    su/NN\n    trabajo/NN\n    y/NN\n    sus/NN)\n  (NP tareas/JJ nacionales/NNS)\n  (VP y/VBP (NP constitucionales/NNS))\n  (VP desde/VBP (NP la/JJ capital/NN))\n  ,/,\n  (NP Damasco/NNP ”/NNP)\n  ,/,\n  (NP concluye/NN el/NN comunicado/NN)\n  (PP en/IN (NP X/NNP))\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "GOBIERNOS_OFICIALES",
+      "REGIONES_PROVINCIAS",
+      "PAISES",
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "CONFLICTOS_ARMADOS_OPERACIONES",
+      "RELACIONES_INTERNACIONALES"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "control de la ciudad",
+        "position": [
+          1761,
+          1781
+        ],
+        "start": 1761,
+        "end": 1781
+      },
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "trabajo",
+        "position": [
+          855,
+          862
+        ],
+        "start": 855,
+        "end": 862
+      },
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "capital",
+        "position": [
+          915,
+          922
+        ],
+        "start": 915,
+        "end": 922
+      },
+      {
+        "category": "RELACIONES_INTERNACIONALES",
+        "matched_text": "mensaje publicado a través de su cuenta en x, el ministerio de información de la república árabe de siria desmintió las noticias publicadas sobre la renuncia del poder del presidente",
+        "position": [
+          6,
+          188
+        ],
+        "start": 6,
+        "end": 188
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente bashar al",
+        "position": [
+          178,
+          198
+        ],
+        "start": 178,
+        "end": 198
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "estados unidos",
+        "position": [
+          1043,
+          1057
+        ],
+        "start": 1043,
+        "end": 1057
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "rusia",
+        "position": [
+          1161,
+          1166
+        ],
+        "start": 1161,
+        "end": 1166
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "estado y la",
+        "position": [
+          682,
+          693
+        ],
+        "start": 682,
+        "end": 693
+      }
+    ],
+    "match_count": 8
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Bashar al-Assad",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Al Jazeera",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Bashar al-Asad",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "alcalde de al-Qaim",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "República Árabe Siria",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Estado sirio",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "los Estados Unidos",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Rusia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "The Telegraph",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Hassan Abdul Ghany",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Estado",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Fuerzas Armadas",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Ministerio de Información de la República Árabe de Siria",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Irak",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Damasco",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Homs",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Bashar al-Asad de Damasco",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Reino Unido",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Daraa",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Siria",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Ministerio de Información de la República Árabe de Siria",
+        "relacion": "DESMENTIR",
+        "objeto": "Bashar al-Asad"
+      },
+      {
+        "sujeto": "República Árabe Siria",
+        "relacion": "CONFIRMAR_CONCLUIR",
+        "objeto": "Damasco"
+      },
+      {
+        "sujeto": "República Árabe Siria",
+        "relacion": "CONFIRMAR_CONCLUIR",
+        "objeto": "The Telegraph"
+      },
+      {
+        "sujeto": "República Árabe Siria",
+        "relacion": "CONFIRMAR_CONCLUIR",
+        "objeto": "Reino Unido"
+      },
+      {
+        "sujeto": "República Árabe Siria",
+        "relacion": "CONFIRMAR_CONCLUIR",
+        "objeto": "los Estados Unidos"
+      },
+      {
+        "sujeto": "República Árabe Siria",
+        "relacion": "CONFIRMAR_CONCLUIR",
+        "objeto": "Estado sirio"
+      },
+      {
+        "sujeto": "República Árabe Siria",
+        "relacion": "CONFIRMAR_CONCLUIR",
+        "objeto": "Rusia"
+      },
+      {
+        "sujeto": "República Árabe Siria",
+        "relacion": "CONFIRMAR_CONCLUIR",
+        "objeto": "Fuerzas Armadas"
+      },
+      {
+        "sujeto": "Damasco",
+        "relacion": "CONTINUAR_CONFIRMAR_CONCLUIR",
+        "objeto": "The Telegraph"
+      },
+      {
+        "sujeto": "Damasco",
+        "relacion": "CONTINUAR_CONFIRMAR_CONCLUIR",
+        "objeto": "Reino Unido"
+      },
+      {
+        "sujeto": "Damasco",
+        "relacion": "CONTINUAR_CONFIRMAR_CONCLUIR",
+        "objeto": "los Estados Unidos"
+      },
+      {
+        "sujeto": "Damasco",
+        "relacion": "CONTINUAR_CONFIRMAR_CONCLUIR",
+        "objeto": "Estado sirio"
+      },
+      {
+        "sujeto": "Damasco",
+        "relacion": "CONTINUAR_CONFIRMAR_CONCLUIR",
+        "objeto": "Rusia"
+      },
+      {
+        "sujeto": "Damasco",
+        "relacion": "CONTINUAR_CONFIRMAR_CONCLUIR",
+        "objeto": "Fuerzas Armadas"
+      },
+      {
+        "sujeto": "Estado sirio",
+        "relacion": "HUIR_INFORMAR_CONCLUIR",
+        "objeto": "Rusia"
+      },
+      {
+        "sujeto": "Estado sirio",
+        "relacion": "HUIR_INFORMAR_CONCLUIR",
+        "objeto": "Fuerzas Armadas"
+      },
+      {
+        "sujeto": "Rusia",
+        "relacion": "HUIR_INFORMAR_CONCLUIR",
+        "objeto": "Fuerzas Armadas"
+      },
+      {
+        "sujeto": "Al Jazeera",
+        "relacion": "REPORTAR",
+        "objeto": "Hassan Abdul Ghany"
+      },
+      {
+        "sujeto": "Al Jazeera",
+        "relacion": "REPORTAR",
+        "objeto": "Homs"
+      },
+      {
+        "sujeto": "Hassan Abdul Ghany",
+        "relacion": "DECIR_REPORTAR",
+        "objeto": "Homs"
+      },
+      {
+        "sujeto": "alcalde de al-Qaim",
+        "relacion": "MENCIONAR",
+        "objeto": "Irak"
+      },
+      {
+        "sujeto": "Siria",
+        "relacion": "MENCIONAR",
+        "objeto": "Irak"
+      },
+      {
+        "sujeto": "Daraa",
+        "relacion": "COMUNICAR",
+        "objeto": "Bashar al-Assad"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.0516,
+    "pos": 0.008,
+    "neu": 0.985,
+    "neg": 0.007,
+    "label": "positive"
+  }
+}

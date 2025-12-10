@@ -1,0 +1,824 @@
+{
+  "url": "https://www.telesurtv.net/ataques-israelies-contra-el-sur-del-libano-dejan-al-menos-diez-muertos/",
+  "title": "Ataques israelíes contra el sur del Líbano dejan al menos diez muertos - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Alto al Fuego",
+    "Incursión Israelí",
+    "Sur del Líbano"
+  ],
+  "text": "A menos de una semana después de la entrada en vigor del acuerdo de alto el fuego entre Israel y El Líbano, al menos diez personas murieron en el sur del país árabe tras los últimos ataques del Ejército israelí.\nDesde el Ejército israelí indicaron que la incursión al territorio libanés se dio en respuesta al presunto lanzamiento de proyectiles a territorio israelí por parte de la resistencia libanesa Hezbolá.\nSegún la cadena de televisión libanesa Al-Mayadeen, alrededor de diez personas fallecieron a causa de las incursiones del Ejército israelí en los suburbios de las localidades libanesas de Jbaa, Yaroun y Chebba, en el sur del país mediterráneo.\nHoras antes, el Ministerio de Salud Pública libanés indicó que un ataque israelí había provocado la muerte de al menos cinco personas en la ciudad de Haris e informó del fallecimiento de otras cuatro en el municipio de Tallouseh, ambos ubicados en el sur del Líbano.\nPor su parte, las Fuerzas de Defensa israelíes (FDI) informaron este martes que habían emprendido una serie de ataques contra simpatizantes e infraestructura militar de Hezbolá, después de que la resistencia libanesa lanzará proyectiles contra el norte de Israel.\nHezbolá lanzó el lunes dos proyectiles contra los asentamientos ilegales de Shebaa, un territorio al que los israelíes se refieren como el monte Dov, en los Altos del Golán ocupados.\nDesde la entrada en vigor de la tregua el pasado miércoles el Líbano ha acusado a Israel de incumplir el acuerdo, aunque el alto el fuego continúa vigente.\nEl presidente del Parlamento libanés, Nabih Berri, acusó a Israel de violar al menos en 54 ocasiones el alto el fuego, y pidió al comité encargado de supervisar la aplicación de la tregua que obligue a los soldados israelíes a abandonar el país.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/ataques-israelies-contra-el-sur-del-libano-dejan-al-menos-diez-muertos/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-12.json",
+    "message_index": 1664,
+    "message_id": 81643,
+    "date": "2024-12-03T06:55:11+00:00",
+    "text": "teleSUR\nAtaques israelíes contra el sur del Líbano dejan al menos diez muertos\nhttps://www.telesurtv.net/ataques-israelies-contra-el-sur-del-libano-dejan-al-menos-diez-muertos/",
+    "photo_path": null,
+    "views": 1977,
+    "reactions": {
+      "🤬": 38,
+      "💩": 4,
+      "👎": 2
+    },
+    "total_reactions": 44
+  },
+  "preprocessing": {
+    "cleaned": "a menos de una semana después de la entrada en vigor del acuerdo de alto el fuego entre israel y el líbano, al menos diez personas murieron en el sur del país árabe tras los últimos ataques del ejército israelí. desde el ejército israelí indicaron que la incursión al territorio libanés se dio en respuesta al presunto lanzamiento de proyectiles a territorio israelí por parte de la resistencia libanesa hezbolá. según la cadena de televisión libanesa al-mayadeen, alrededor de diez personas fallecieron a causa de las incursiones del ejército israelí en los suburbios de las localidades libanesas de jbaa, yaroun y chebba, en el sur del país mediterráneo. horas antes, el ministerio de salud pública libanés indicó que un ataque israelí había provocado la muerte de al menos cinco personas en la ciudad de haris e informó del fallecimiento de otras cuatro en el municipio de tallouseh, ambos ubicados en el sur del líbano. por su parte, las fuerzas de defensa israelíes (fdi) informaron este martes que habían emprendido una serie de ataques contra simpatizantes e infraestructura militar de hezbolá, después de que la resistencia libanesa lanzará proyectiles contra el norte de israel. hezbolá lanzó el lunes dos proyectiles contra los asentamientos ilegales de shebaa, un territorio al que los israelíes se refieren como el monte dov, en los altos del golán ocupados. desde la entrada en vigor de la tregua el pasado miércoles el líbano ha acusado a israel de incumplir el acuerdo, aunque el alto el fuego continúa vigente. el presidente del parlamento libanés, nabih berri, acusó a israel de violar al menos en 54 ocasiones el alto el fuego, y pidió al comité encargado de supervisar la aplicación de la tregua que obligue a los soldados israelíes a abandonar el país.",
+    "tokens": [
+      "menos",
+      "semana",
+      "después",
+      "entrada",
+      "vigor",
+      "acuerdo",
+      "alto",
+      "fuego",
+      "israel",
+      "líbano",
+      ",",
+      "menos",
+      "diez",
+      "personas",
+      "murieron",
+      "sur",
+      "país",
+      "árabe",
+      "tras",
+      "últimos",
+      "ataques",
+      "ejército",
+      "israelí",
+      ".",
+      "ejército",
+      "israelí",
+      "indicaron",
+      "incursión",
+      "territorio",
+      "libanés",
+      "dio",
+      "respuesta",
+      "presunto",
+      "lanzamiento",
+      "proyectiles",
+      "territorio",
+      "israelí",
+      "parte",
+      "resistencia",
+      "libanesa",
+      "hezbolá",
+      ".",
+      "según",
+      "cadena",
+      "televisión",
+      "libanesa",
+      "al-mayadeen",
+      ",",
+      "alrededor",
+      "diez",
+      "personas",
+      "fallecieron",
+      "causa",
+      "incursiones",
+      "ejército",
+      "israelí",
+      "suburbios",
+      "localidades",
+      "libanesas",
+      "jbaa",
+      ",",
+      "yaroun",
+      "chebba",
+      ",",
+      "sur",
+      "país",
+      "mediterráneo",
+      ".",
+      "horas",
+      ",",
+      "ministerio",
+      "salud",
+      "pública",
+      "libanés",
+      "indicó",
+      "ataque",
+      "israelí",
+      "provocado",
+      "muerte",
+      "menos",
+      "cinco",
+      "personas",
+      "ciudad",
+      "haris",
+      "informó",
+      "fallecimiento",
+      "cuatro",
+      "municipio",
+      "tallouseh",
+      ",",
+      "ambos",
+      "ubicados",
+      "sur",
+      "líbano",
+      ".",
+      "parte",
+      ",",
+      "fuerzas",
+      "defensa",
+      "israelíes",
+      "(",
+      "fdi",
+      ")",
+      "informaron",
+      "martes",
+      "emprendido",
+      "serie",
+      "ataques",
+      "simpatizantes",
+      "infraestructura",
+      "militar",
+      "hezbolá",
+      ",",
+      "después",
+      "resistencia",
+      "libanesa",
+      "lanzará",
+      "proyectiles",
+      "norte",
+      "israel",
+      ".",
+      "hezbolá",
+      "lanzó",
+      "lunes",
+      "dos",
+      "proyectiles",
+      "asentamientos",
+      "ilegales",
+      "shebaa",
+      ",",
+      "territorio",
+      "israelíes",
+      "refieren",
+      "monte",
+      "dov",
+      ",",
+      "altos",
+      "golán",
+      "ocupados",
+      ".",
+      "entrada",
+      "vigor",
+      "tregua",
+      "pasado",
+      "miércoles",
+      "líbano",
+      "acusado",
+      "israel",
+      "incumplir",
+      "acuerdo",
+      ",",
+      "aunque",
+      "alto",
+      "fuego",
+      "continúa",
+      "vigente",
+      ".",
+      "presidente",
+      "parlamento",
+      "libanés",
+      ",",
+      "nabih",
+      "berri",
+      ",",
+      "acusó",
+      "israel",
+      "violar",
+      "menos",
+      "54",
+      "ocasiones",
+      "alto",
+      "fuego",
+      ",",
+      "pidió",
+      "comité",
+      "encargado",
+      "supervisar",
+      "aplicación",
+      "tregua",
+      "obligue",
+      "soldados",
+      "israelíes",
+      "abandonar",
+      "país",
+      "."
+    ],
+    "token_count": 185,
+    "sentence_count": 8
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNS": 18,
+      "VBP": 13,
+      "JJ": 21,
+      "NN": 67,
+      "IN": 11,
+      "FW": 103,
+      "NNP": 40,
+      "VBZ": 6,
+      "VB": 1,
+      "CD": 1,
+      "RB": 1
+    },
+    "bigram_freq": {
+      "NNS-VBP": 12,
+      "VBP-JJ": 5,
+      "JJ-JJ": 2,
+      "JJ-NN": 12,
+      "NN-IN": 7,
+      "IN-FW": 6,
+      "FW-FW": 73,
+      "FW-NN": 10,
+      "NN-FW": 11,
+      "FW-NNP": 13,
+      "NNP-NNP": 11,
+      "NNP-VBZ": 5,
+      "VBZ-NNS": 1,
+      "FW-NNS": 4,
+      "VBP-NNP": 2,
+      "NNP-NN": 12,
+      "NN-NNP": 9,
+      "NN-NN": 30,
+      "IN-NN": 1,
+      "NNP-FW": 7,
+      "FW-JJ": 3,
+      "VBP-NN": 2,
+      "NNS-FW": 2,
+      "VBZ-FW": 1,
+      "VBZ-JJ": 3,
+      "NN-JJ": 4,
+      "NN-NNS": 4,
+      "VBP-FW": 1,
+      "NNP-NNS": 1,
+      "NNS-JJ": 1,
+      "JJ-FW": 2,
+      "JJ-NNP": 2,
+      "NN-VBZ": 1,
+      "IN-NNS": 1,
+      "VBP-NNS": 2,
+      "JJ-NNS": 3,
+      "NNS-VB": 1,
+      "VB-JJ": 1,
+      "NNS-IN": 1,
+      "IN-NNP": 2,
+      "NNP-JJ": 1,
+      "NNP-IN": 3,
+      "IN-JJ": 1,
+      "VBZ-NNP": 1,
+      "VBP-CD": 1,
+      "CD-NNS": 1,
+      "NNS-RB": 1,
+      "RB-VBP": 1
+    },
+    "trigram_freq": {
+      "NNS-VBP-JJ": 4,
+      "VBP-JJ-JJ": 1,
+      "JJ-JJ-NN": 1,
+      "JJ-NN-IN": 3,
+      "NN-IN-FW": 5,
+      "IN-FW-FW": 3,
+      "FW-FW-FW": 54,
+      "FW-FW-NN": 7,
+      "FW-NN-FW": 4,
+      "NN-FW-NNP": 2,
+      "FW-NNP-NNP": 6,
+      "NNP-NNP-NNP": 2,
+      "NNP-NNP-VBZ": 3,
+      "NNP-VBZ-NNS": 1,
+      "VBZ-NNS-VBP": 1,
+      "VBP-JJ-NN": 3,
+      "JJ-NN-FW": 1,
+      "NN-FW-FW": 7,
+      "FW-FW-NNS": 3,
+      "FW-NNS-VBP": 2,
+      "NNS-VBP-NNP": 2,
+      "VBP-NNP-NN": 2,
+      "NNP-NN-NNP": 5,
+      "NN-NNP-NN": 5,
+      "NNP-NN-NN": 6,
+      "NN-NN-NN": 15,
+      "NN-NN-FW": 3,
+      "NN-FW-NN": 2,
+      "FW-NN-NN": 3,
+      "NN-NN-IN": 4,
+      "NN-IN-NN": 1,
+      "IN-NN-NN": 1,
+      "FW-FW-NNP": 7,
+      "NNP-NNP-FW": 4,
+      "NNP-FW-FW": 5,
+      "FW-FW-JJ": 2,
+      "FW-JJ-NN": 2,
+      "IN-FW-NNS": 1,
+      "NNS-VBP-NN": 2,
+      "VBP-NN-FW": 2,
+      "FW-NNS-FW": 2,
+      "NNS-FW-NNP": 1,
+      "FW-NNP-NN": 3,
+      "NNP-NN-FW": 1,
+      "NNS-FW-FW": 1,
+      "FW-NNP-VBZ": 1,
+      "NNP-VBZ-FW": 1,
+      "VBZ-FW-NNP": 1,
+      "FW-NNP-FW": 2,
+      "NNP-FW-NNP": 2,
+      "NNP-VBZ-JJ": 2,
+      "VBZ-JJ-NN": 2,
+      "JJ-NN-JJ": 1,
+      "NN-JJ-NN": 3,
+      "JJ-NN-NN": 5,
+      "FW-NN-NNS": 3,
+      "NN-NNS-VBP": 4,
+      "NNS-VBP-FW": 1,
+      "VBP-FW-FW": 1,
+      "IN-FW-NN": 1,
+      "FW-NNP-NNS": 1,
+      "NNP-NNS-JJ": 1,
+      "NNS-JJ-FW": 1,
+      "JJ-FW-FW": 2,
+      "NNP-NNP-NN": 1,
+      "NN-NN-JJ": 3,
+      "NN-JJ-NNP": 1,
+      "JJ-NNP-FW": 1,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-JJ": 1,
+      "NN-IN-NNS": 1,
+      "IN-NNS-VBP": 1,
+      "NNS-VBP-NNS": 2,
+      "VBP-NNS-VBP": 1,
+      "VBP-JJ-FW": 1,
+      "VBZ-JJ-NNS": 1,
+      "JJ-NNS-VBP": 2,
+      "VBP-NNS-VB": 1,
+      "NNS-VB-JJ": 1,
+      "VB-JJ-JJ": 1,
+      "JJ-JJ-NNS": 1,
+      "JJ-NNS-IN": 1,
+      "NNS-IN-NNP": 1,
+      "IN-NNP-JJ": 1,
+      "NNP-JJ-NN": 1,
+      "JJ-NN-NNS": 1,
+      "JJ-NN-NNP": 1,
+      "NN-NNP-IN": 1,
+      "NNP-IN-JJ": 1,
+      "IN-JJ-NNP": 1,
+      "JJ-NNP-NN": 1,
+      "NN-NNP-VBZ": 1,
+      "NNP-VBZ-NNP": 1,
+      "VBZ-NNP-NNP": 1,
+      "NN-NN-NNP": 3,
+      "NN-NNP-NNP": 2,
+      "NNP-NNP-IN": 1,
+      "NNP-IN-NNP": 1,
+      "IN-NNP-IN": 1,
+      "NNP-IN-FW": 1,
+      "IN-FW-JJ": 1,
+      "FW-JJ-NNS": 1,
+      "NNS-VBP-CD": 1,
+      "VBP-CD-NNS": 1,
+      "CD-NNS-RB": 1,
+      "NNS-RB-VBP": 1,
+      "RB-VBP-JJ": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "FW": 103,
+        "NN": 67,
+        "NNP": 40,
+        "JJ": 21,
+        "NNS": 18
+      },
+      "top_bigrams": {
+        "FW-FW": 73,
+        "NN-NN": 30,
+        "FW-NNP": 13,
+        "NNS-VBP": 12,
+        "JJ-NN": 12
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 54,
+        "NN-NN-NN": 15,
+        "FW-FW-NN": 7,
+        "NN-FW-FW": 7,
+        "FW-FW-NNP": 7
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 8,
+    "chunk_counts": {
+      "NP": 73,
+      "PP": 5,
+      "VP": 21,
+      "ADJP": 1
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 4,
+        "weight": 0.037
+      },
+      {
+        "rule": "NP -> ('Hezbolá', 'NNP')",
+        "frequency": 3,
+        "weight": 0.0278
+      },
+      {
+        "rule": "NP -> ('al', 'JJ') ('menos', 'NNS')",
+        "frequency": 2,
+        "weight": 0.0185
+      },
+      {
+        "rule": "NP -> ('ataques', 'NNS')",
+        "frequency": 2,
+        "weight": 0.0185
+      },
+      {
+        "rule": "NP -> ('Ejército', 'NNP') ('israelí', 'NN')",
+        "frequency": 2,
+        "weight": 0.0185
+      },
+      {
+        "rule": "VP -> ('en', 'VBP')",
+        "frequency": 2,
+        "weight": 0.0185
+      },
+      {
+        "rule": "S -> NP PP ('de', 'IN') ('la', 'FW') ('entrada', 'FW') ('en', 'FW') ('vigor', 'FW') ('del', 'FW') ('acuerdo', 'FW') ('de', 'FW') ('alto', 'FW') ('el', 'FW') NP (',', ',') NP VP ('en', 'FW') ('el', 'FW') ('sur', 'FW') ('del', 'FW') ('país', 'FW') ('árabe', 'FW') ('tras', 'FW') ('los', 'FW') ('últimos', 'FW') NP VP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0093
+      },
+      {
+        "rule": "NP -> ('A', 'DT') ('menos', 'NN')",
+        "frequency": 1,
+        "weight": 0.0093
+      },
+      {
+        "rule": "NP -> ('una', 'JJ') ('semana', 'JJ') ('después', 'NN')",
+        "frequency": 1,
+        "weight": 0.0093
+      },
+      {
+        "rule": "NP -> ('fuego', 'NN') ('entre', 'NN') ('Israel', 'NNP') ('y', 'NNP') ('El', 'NNP') ('Líbano', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0093
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "A menos"
+      },
+      {
+        "label": "PP",
+        "text": "de una semana después"
+      },
+      {
+        "label": "NP",
+        "text": "una semana después"
+      },
+      {
+        "label": "NP",
+        "text": "fuego entre Israel y El Líbano"
+      },
+      {
+        "label": "NP",
+        "text": "al menos"
+      },
+      {
+        "label": "VP",
+        "text": "diez personas murieron"
+      },
+      {
+        "label": "NP",
+        "text": "personas murieron"
+      },
+      {
+        "label": "NP",
+        "text": "ataques"
+      },
+      {
+        "label": "VP",
+        "text": "del Ejército israelí"
+      },
+      {
+        "label": "NP",
+        "text": "Ejército israelí"
+      },
+      {
+        "label": "NP",
+        "text": "Desde el Ejército israelí indicaron que"
+      },
+      {
+        "label": "NP",
+        "text": "territorio"
+      },
+      {
+        "label": "NP",
+        "text": "se dio"
+      },
+      {
+        "label": "PP",
+        "text": "en respuesta al"
+      },
+      {
+        "label": "NP",
+        "text": "respuesta al"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP A/DT menos/NN)\n  (PP de/IN (NP una/JJ semana/JJ después/NN))\n  de/IN\n  la/FW\n  entrada/FW\n  en/FW\n  vigor/FW\n  del/FW\n  acuerdo/FW\n  de/FW\n  alto/FW\n  el/FW\n  (NP fuego/NN entre/NN Israel/NNP y/NNP El/NNP Líbano/NNP)\n  ,/,\n  (NP al/JJ menos/NNS)\n  (VP diez/VBP (NP personas/JJ murieron/NN))\n  en/FW\n  el/FW\n  sur/FW\n  del/FW\n  país/FW\n  árabe/FW\n  tras/FW\n  los/FW\n  últimos/FW\n  (NP ataques/NNS)\n  (VP del/VBP (NP Ejército/NNP israelí/NN))\n  ./.)",
+      "(S\n  (NP Desde/NNP el/NN Ejército/NNP israelí/NN indicaron/NN que/NN)\n  la/FW\n  incursión/FW\n  al/FW\n  (NP territorio/NN)\n  libanés/FW\n  (NP se/NN dio/NN)\n  (PP en/IN (NP respuesta/NN al/NN))\n  presunto/IN\n  lanzamiento/FW\n  de/FW\n  proyectiles/FW\n  (NP a/DT territorio/NN israelí/NN por/NN parte/NN)\n  de/IN\n  la/FW\n  resistencia/FW\n  libanesa/FW\n  (NP Hezbolá/NNP)\n  ./.)",
+      "(S\n  (NP Según/NNP)\n  la/FW\n  cadena/FW\n  de/FW\n  televisión/FW\n  (NP libanesa/JJR Al-Mayadeen/NNP)\n  ,/,\n  (NP alrededor/NN)\n  de/FW\n  diez/FW\n  personas/FW\n  (VP fallecieron/VBP (NP a/DT causa/NN))\n  de/IN\n  las/FW\n  (NP incursiones/NNS)\n  del/FW\n  (NP Ejército/NNP israelí/NN)\n  en/FW\n  los/FW\n  suburbios/FW\n  de/FW\n  las/FW\n  (NP localidades/NNS)\n  libanesas/FW\n  de/FW\n  (NP Jbaa/NNP)\n  ,/,\n  (NP Yaroun/NNP y/NNP Chebba/NNP)\n  ,/,\n  en/FW\n  el/FW\n  sur/FW\n  del/FW\n  (NP país/NN mediterráneo/NN)\n  ./.)",
+      "(S\n  (NP Horas/NNP antes/NNS)\n  ,/,\n  el/FW\n  (NP Ministerio/NNP)\n  de/FW\n  (NP Salud/NNP Pública/NNP)\n  (VP\n    libanés/VBZ\n    (NP indicó/JJ que/NN)\n    (NP un/JJ ataque/NN israelí/NN había/NN provocado/NN))\n  la/FW\n  muerte/FW\n  de/FW\n  al/FW\n  menos/FW\n  (NP cinco/NN personas/NNS)\n  (VP en/VBP)\n  la/FW\n  ciudad/FW\n  de/FW\n  (NP Haris/NNP)\n  e/CC\n  (NP informó/JJ del/NN fallecimiento/NN)\n  de/IN\n  otras/FW\n  (NP cuatro/NN)\n  en/FW\n  el/FW\n  municipio/FW\n  de/FW\n  (NP Tallouseh/NNP)\n  ,/,\n  (VP ambos/VBZ ubicados/JJ)\n  en/FW\n  el/FW\n  sur/FW\n  del/FW\n  (NP Líbano/NNP)\n  ./.)",
+      "(S\n  (NP Por/NNP su/NN parte/NN)\n  ,/,\n  (NP las/JJ Fuerzas/NNP)\n  de/FW\n  (NP Defensa/NNP israelíes/NN)\n  (/(\n  (NP FDI/NNP)\n  )/)\n  (VP informaron/VBP (NP este/NN martes/NNS))\n  (VP que/VBP (NP habían/JJ emprendido/NN) (NP una/JJ serie/NN))\n  (PP de/IN (NP ataques/NNS))\n  (VP contra/VBP (NP simpatizantes/NNS))\n  (VP e/VBP (NP infraestructura/JJ militar/NN))\n  (PP de/IN (NP Hezbolá/NNP))\n  ,/,\n  (NP después/NN)\n  de/FW\n  que/FW\n  la/FW\n  resistencia/FW\n  libanesa/FW\n  (NP lanzará/NN proyectiles/NNS)\n  (VP contra/VBP el/JJ)\n  norte/FW\n  (PP de/IN (NP Israel/NNP))\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "GOBIERNOS_OFICIALES",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "ACCIONES_LEGALES",
+      "PAISES",
+      "CONFLICTOS_ARMADOS_OPERACIONES",
+      "RELACIONES_INTERNACIONALES",
+      "JURIDICO_LEGISLATIVO_CORRUPCION"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "acusó a",
+        "position": [
+          1578,
+          1585
+        ],
+        "start": 1578,
+        "end": 1585
+      },
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "ejército israelí indicaron que la incursión al territorio libanés se dio en respuesta al presunto lanzamiento de proyectiles a territorio",
+        "position": [
+          221,
+          358
+        ],
+        "start": 221,
+        "end": 358
+      },
+      {
+        "category": "RELACIONES_INTERNACIONALES",
+        "matched_text": "acuerdo de alto el fuego entre israel y el",
+        "position": [
+          57,
+          99
+        ],
+        "start": 57,
+        "end": 99
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "informó",
+        "position": [
+          815,
+          822
+        ],
+        "start": 815,
+        "end": 822
+      },
+      {
+        "category": "JURIDICO_LEGISLATIVO_CORRUPCION",
+        "matched_text": "defensa",
+        "position": [
+          953,
+          960
+        ],
+        "start": 953,
+        "end": 960
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente del parlamento",
+        "position": [
+          1530,
+          1555
+        ],
+        "start": 1530,
+        "end": 1555
+      },
+      {
+        "category": "ACCIONES_LEGALES",
+        "matched_text": "acusó",
+        "position": [
+          1578,
+          1583
+        ],
+        "start": 1578,
+        "end": 1583
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "líbano",
+        "position": [
+          100,
+          106
+        ],
+        "start": 100,
+        "end": 106
+      }
+    ],
+    "match_count": 8
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Yaroun",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Parlamento libanés",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Chebba",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Tallouseh",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Shebaa",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "el Líbano",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "monte Dov",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Al-Mayadeen",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Jbaa",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Altos del Golán",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Haris",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Fuerzas de Defensa israelíes",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "El Líbano",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Hezbolá",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Ministerio de Salud Pública",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Líbano",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Israel",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Nabih Berri",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "FDI",
+        "tipo": "Organizacion"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Al-Mayadeen",
+        "relacion": "FALLECER",
+        "objeto": "Jbaa"
+      },
+      {
+        "sujeto": "Al-Mayadeen",
+        "relacion": "FALLECER",
+        "objeto": "Yaroun"
+      },
+      {
+        "sujeto": "Al-Mayadeen",
+        "relacion": "FALLECER",
+        "objeto": "Chebba"
+      },
+      {
+        "sujeto": "Ministerio de Salud Pública",
+        "relacion": "INDICAR",
+        "objeto": "Haris"
+      },
+      {
+        "sujeto": "Ministerio de Salud Pública",
+        "relacion": "INDICAR",
+        "objeto": "Tallouseh"
+      },
+      {
+        "sujeto": "Ministerio de Salud Pública",
+        "relacion": "INDICAR",
+        "objeto": "Líbano"
+      },
+      {
+        "sujeto": "Haris",
+        "relacion": "PROVOCAR_INDICAR",
+        "objeto": "Tallouseh"
+      },
+      {
+        "sujeto": "Haris",
+        "relacion": "PROVOCAR_INDICAR",
+        "objeto": "Líbano"
+      },
+      {
+        "sujeto": "Fuerzas de Defensa israelíes",
+        "relacion": "INFORMAR",
+        "objeto": "Hezbolá"
+      },
+      {
+        "sujeto": "Fuerzas de Defensa israelíes",
+        "relacion": "INFORMAR",
+        "objeto": "Israel"
+      },
+      {
+        "sujeto": "FDI",
+        "relacion": "INFORMAR",
+        "objeto": "Hezbolá"
+      },
+      {
+        "sujeto": "FDI",
+        "relacion": "INFORMAR",
+        "objeto": "Israel"
+      },
+      {
+        "sujeto": "Hezbolá",
+        "relacion": "EMPRENDER_INFORMAR",
+        "objeto": "Israel"
+      },
+      {
+        "sujeto": "Hezbolá",
+        "relacion": "LANZAR",
+        "objeto": "Shebaa"
+      },
+      {
+        "sujeto": "Hezbolá",
+        "relacion": "LANZAR",
+        "objeto": "monte Dov"
+      },
+      {
+        "sujeto": "Hezbolá",
+        "relacion": "LANZAR",
+        "objeto": "Altos del Golán"
+      },
+      {
+        "sujeto": "el Líbano",
+        "relacion": "ACUSAR",
+        "objeto": "Israel"
+      },
+      {
+        "sujeto": "Parlamento libanés",
+        "relacion": "ACUSAR",
+        "objeto": "Israel"
+      },
+      {
+        "sujeto": "Nabih Berri",
+        "relacion": "ACUSAR",
+        "objeto": "Israel"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.6808,
+    "pos": 0.023,
+    "neu": 0.977,
+    "neg": 0.0,
+    "label": "positive"
+  }
+}

@@ -1,0 +1,762 @@
+{
+  "url": "https://www.telesurtv.net/lider-indigena-de-la-amazonia-peruana-es-hallado-muerto/",
+  "title": "Líder indígena de la Amazonía peruana es hallado muerto - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "asesinatos",
+    "Perú"
+  ],
+  "text": "\nEl líder indígena peruano, integrante del pueblo amazónico Kakataibo, Mariano Isacama Feliciano, fue encontrado muerto este domingo con aparentes signos de tortura, de acuerdo a diversas organizaciones de derechos humanos del país suramericano.\n\n\nIsacama Feliciano, conocido entre los suyos como «Perú», era un defensor de los derechos humanos originario de la comunidad nativa de Puerto Azul.\n\nSegún reportes de prensa, su cuerpo fue hallado en la ribera del río Yúrac, cerca de la ciudad de Aguaytía, en el departamento selvático de Ucayali. La comunidad amazónica ha expresado su profundo dolor y repudio ante el cobarde asesinato de uno de sus más queridos líderes.\nLa muerte de Feliciano se produce en un contexto en el cual las organizaciones indígenas han criticado lo que llaman la lenta reacción de las autoridades del Estado peruano ante la desaparición de Isacama, a pesar de los múltiples pedidos de auxilio realizados.\nDe hecho, en respuesta a este trágico suceso, la comunidad Kakataibo ha declarado un luto nacional en homenaje a la vida y el espíritu de lucha del dirigente.\nAsimismo, las comunidades indígenas han anunciado que harán uso de la justicia indígena para encontrar a los responsables del crimen y entregarlos al Ministerio Público. Han solicitado a las fiscalías especializadas en Derechos Humanos e Interculturalidad que lleven a cabo una investigación exhaustiva y rápida para sancionar a los responsables.\nLas denuncias destacan que el asesinato de Isacama se suma a una creciente lista de amenazas y asesinatos que golpean a las comunidades indígenas en Perú. En el mismo sentido, las organizaciones han reiterado su demanda de vivir en territorios seguros y libres de la violencia que representan los intereses foráneos y las mafias que operan en la región.\nYa en mayo pasado, más de 50 representantes de pueblos indígenas pidieron al Estado peruano medidas de protección ante la violencia creciente en sus territorios, recordando que desde 2013, al menos 34 líderes comunitarios han sido asesinados por enfrentarse a estas amenazas.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/lider-indigena-de-la-amazonia-peruana-es-hallado-muerto/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-07.json",
+    "message_index": 617,
+    "message_id": 73220,
+    "date": "2024-07-15T13:55:12+00:00",
+    "text": "teleSUR\nLíder indígena de la Amazonía peruana es hallado muerto\nhttps://www.telesurtv.net/lider-indigena-de-la-amazonia-peruana-es-hallado-muerto/",
+    "photo_path": null,
+    "views": 1484,
+    "reactions": {},
+    "total_reactions": 0
+  },
+  "preprocessing": {
+    "cleaned": "el líder indígena peruano, integrante del pueblo amazónico kakataibo, mariano isacama feliciano, fue encontrado muerto este domingo con aparentes signos de tortura, de acuerdo a diversas organizaciones de derechos humanos del país suramericano. isacama feliciano, conocido entre los suyos como «perú», era un defensor de los derechos humanos originario de la comunidad nativa de puerto azul. según reportes de prensa, su cuerpo fue hallado en la ribera del río yúrac, cerca de la ciudad de aguaytía, en el departamento selvático de ucayali. la comunidad amazónica ha expresado su profundo dolor y repudio ante el cobarde asesinato de uno de sus más queridos líderes. la muerte de feliciano se produce en un contexto en el cual las organizaciones indígenas han criticado lo que llaman la lenta reacción de las autoridades del estado peruano ante la desaparición de isacama, a pesar de los múltiples pedidos de auxilio realizados. de hecho, en respuesta a este trágico suceso, la comunidad kakataibo ha declarado un luto nacional en homenaje a la vida y el espíritu de lucha del dirigente. asimismo, las comunidades indígenas han anunciado que harán uso de la justicia indígena para encontrar a los responsables del crimen y entregarlos al ministerio público. han solicitado a las fiscalías especializadas en derechos humanos e interculturalidad que lleven a cabo una investigación exhaustiva y rápida para sancionar a los responsables. las denuncias destacan que el asesinato de isacama se suma a una creciente lista de amenazas y asesinatos que golpean a las comunidades indígenas en perú. en el mismo sentido, las organizaciones han reiterado su demanda de vivir en territorios seguros y libres de la violencia que representan los intereses foráneos y las mafias que operan en la región. ya en mayo pasado, más de 50 representantes de pueblos indígenas pidieron al estado peruano medidas de protección ante la violencia creciente en sus territorios, recordando que desde 2013, al menos 34 líderes comunitarios han sido asesinados por enfrentarse a estas amenazas.",
+    "tokens": [
+      "líder",
+      "indígena",
+      "peruano",
+      ",",
+      "integrante",
+      "pueblo",
+      "amazónico",
+      "kakataibo",
+      ",",
+      "mariano",
+      "isacama",
+      "feliciano",
+      ",",
+      "encontrado",
+      "muerto",
+      "domingo",
+      "aparentes",
+      "signos",
+      "tortura",
+      ",",
+      "acuerdo",
+      "diversas",
+      "organizaciones",
+      "derechos",
+      "humanos",
+      "país",
+      "suramericano",
+      ".",
+      "isacama",
+      "feliciano",
+      ",",
+      "conocido",
+      "«",
+      "perú",
+      "»",
+      ",",
+      "defensor",
+      "derechos",
+      "humanos",
+      "originario",
+      "comunidad",
+      "nativa",
+      "puerto",
+      "azul",
+      ".",
+      "según",
+      "reportes",
+      "prensa",
+      ",",
+      "cuerpo",
+      "hallado",
+      "ribera",
+      "río",
+      "yúrac",
+      ",",
+      "cerca",
+      "ciudad",
+      "aguaytía",
+      ",",
+      "departamento",
+      "selvático",
+      "ucayali",
+      ".",
+      "comunidad",
+      "amazónica",
+      "expresado",
+      "profundo",
+      "dolor",
+      "repudio",
+      "cobarde",
+      "asesinato",
+      "queridos",
+      "líderes",
+      ".",
+      "muerte",
+      "feliciano",
+      "produce",
+      "contexto",
+      "organizaciones",
+      "indígenas",
+      "criticado",
+      "llaman",
+      "lenta",
+      "reacción",
+      "autoridades",
+      "peruano",
+      "desaparición",
+      "isacama",
+      ",",
+      "pesar",
+      "múltiples",
+      "pedidos",
+      "auxilio",
+      "realizados",
+      ".",
+      "hecho",
+      ",",
+      "respuesta",
+      "trágico",
+      "suceso",
+      ",",
+      "comunidad",
+      "kakataibo",
+      "declarado",
+      "luto",
+      "nacional",
+      "homenaje",
+      "vida",
+      "espíritu",
+      "lucha",
+      "dirigente",
+      ".",
+      "asimismo",
+      ",",
+      "comunidades",
+      "indígenas",
+      "anunciado",
+      "harán",
+      "uso",
+      "justicia",
+      "indígena",
+      "encontrar",
+      "responsables",
+      "crimen",
+      "entregarlos",
+      "ministerio",
+      "público",
+      ".",
+      "solicitado",
+      "fiscalías",
+      "especializadas",
+      "derechos",
+      "humanos",
+      "interculturalidad",
+      "lleven",
+      "cabo",
+      "investigación",
+      "exhaustiva",
+      "rápida",
+      "sancionar",
+      "responsables",
+      ".",
+      "denuncias",
+      "destacan",
+      "asesinato",
+      "isacama",
+      "suma",
+      "creciente",
+      "lista",
+      "amenazas",
+      "asesinatos",
+      "golpean",
+      "comunidades",
+      "indígenas",
+      "perú",
+      ".",
+      "mismo",
+      ",",
+      "organizaciones",
+      "reiterado",
+      "demanda",
+      "vivir",
+      "territorios",
+      "seguros",
+      "libres",
+      "violencia",
+      "representan",
+      "intereses",
+      "foráneos",
+      "mafias",
+      "operan",
+      "región",
+      ".",
+      "mayo",
+      "pasado",
+      ",",
+      "50",
+      "representantes",
+      "pueblos",
+      "indígenas",
+      "pidieron",
+      "peruano",
+      "medidas",
+      "protección",
+      "violencia",
+      "creciente",
+      "territorios",
+      ",",
+      "recordando",
+      "2013",
+      ",",
+      "menos",
+      "34",
+      "líderes",
+      "comunitarios",
+      "sido",
+      "asesinados",
+      "enfrentarse",
+      "amenazas",
+      "."
+    ],
+    "token_count": 200,
+    "sentence_count": 11
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 34,
+      "NN": 94,
+      "FW": 85,
+      "VBD": 4,
+      "JJ": 28,
+      "VBZ": 7,
+      "NNS": 21,
+      "IN": 15,
+      "VBP": 13,
+      "RB": 1,
+      "VB": 1,
+      "CD": 3
+    },
+    "bigram_freq": {
+      "NNP-NN": 8,
+      "NN-NN": 53,
+      "NN-FW": 8,
+      "FW-NN": 15,
+      "NN-NNP": 7,
+      "NNP-NNP": 12,
+      "NNP-VBD": 3,
+      "VBD-JJ": 2,
+      "JJ-NN": 16,
+      "NN-VBZ": 3,
+      "VBZ-FW": 3,
+      "FW-FW": 51,
+      "FW-JJ": 5,
+      "JJ-NNS": 4,
+      "NNS-IN": 2,
+      "IN-FW": 11,
+      "FW-NNS": 6,
+      "NNS-VBP": 12,
+      "VBP-JJ": 5,
+      "NN-JJ": 4,
+      "NN-IN": 12,
+      "NNS-FW": 2,
+      "FW-NNP": 7,
+      "NNP-VBZ": 2,
+      "NNP-FW": 8,
+      "NNS-NNP": 1,
+      "FW-VBP": 1,
+      "VBP-FW": 1,
+      "NN-NNS": 5,
+      "JJ-VBZ": 1,
+      "VBZ-JJ": 2,
+      "VBP-NNP": 1,
+      "JJ-JJ": 5,
+      "JJ-FW": 1,
+      "VBZ-NNS": 1,
+      "NNS-JJ": 2,
+      "VBP-NNS": 1,
+      "JJ-NNP": 1,
+      "IN-NNP": 3,
+      "VBD-RB": 1,
+      "RB-JJ": 1,
+      "VBZ-NNP": 1,
+      "NNP-JJ": 1,
+      "NNS-NNS": 2,
+      "VBP-IN": 1,
+      "VBP-VB": 1,
+      "VB-JJ": 1,
+      "VBP-VBZ": 1,
+      "IN-CD": 1,
+      "CD-NNS": 2,
+      "VBP-NN": 1,
+      "NN-CD": 1,
+      "CD-NN": 1,
+      "NN-VBD": 1,
+      "VBD-CD": 1
+    },
+    "trigram_freq": {
+      "NNP-NN-NN": 6,
+      "NN-NN-NN": 29,
+      "NN-NN-FW": 5,
+      "NN-FW-NN": 4,
+      "FW-NN-NN": 8,
+      "NN-NN-NNP": 3,
+      "NN-NNP-NNP": 2,
+      "NNP-NNP-NNP": 5,
+      "NNP-NNP-VBD": 3,
+      "NNP-VBD-JJ": 2,
+      "VBD-JJ-NN": 2,
+      "JJ-NN-NN": 9,
+      "NN-NN-VBZ": 3,
+      "NN-VBZ-FW": 1,
+      "VBZ-FW-FW": 3,
+      "FW-FW-FW": 33,
+      "FW-FW-JJ": 1,
+      "FW-JJ-NNS": 2,
+      "JJ-NNS-IN": 1,
+      "NNS-IN-FW": 2,
+      "IN-FW-NNS": 3,
+      "FW-NNS-VBP": 3,
+      "NNS-VBP-JJ": 5,
+      "VBP-JJ-NN": 4,
+      "JJ-NN-NNP": 2,
+      "NNP-NNP-NN": 2,
+      "NN-NN-JJ": 3,
+      "NN-JJ-NN": 2,
+      "NN-NNP-NN": 4,
+      "NN-NN-IN": 7,
+      "NN-IN-FW": 9,
+      "IN-FW-JJ": 3,
+      "JJ-NNS-FW": 1,
+      "NNS-FW-FW": 2,
+      "FW-FW-NNP": 7,
+      "FW-NNP-NNP": 2,
+      "NNP-NNP-VBZ": 1,
+      "NNP-VBZ-FW": 1,
+      "FW-FW-NN": 7,
+      "IN-FW-FW": 5,
+      "FW-NN-NNP": 2,
+      "NNP-NN-IN": 1,
+      "FW-NNP-FW": 5,
+      "NNP-FW-FW": 4,
+      "FW-FW-NNS": 3,
+      "FW-NNS-NNP": 1,
+      "NNS-NNP-FW": 1,
+      "NNP-FW-VBP": 1,
+      "FW-VBP-FW": 1,
+      "VBP-FW-JJ": 1,
+      "FW-JJ-NN": 3,
+      "JJ-NN-IN": 4,
+      "JJ-NN-NNS": 1,
+      "NN-NNS-VBP": 5,
+      "NN-JJ-VBZ": 1,
+      "JJ-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 1,
+      "NNS-VBP-NNP": 1,
+      "VBP-NNP-NN": 1,
+      "NN-FW-FW": 4,
+      "FW-NNS-FW": 1,
+      "NN-JJ-JJ": 1,
+      "JJ-JJ-JJ": 1,
+      "JJ-JJ-FW": 1,
+      "JJ-FW-NN": 1,
+      "FW-NN-FW": 2,
+      "NN-NNP-VBZ": 1,
+      "NNP-VBZ-NNS": 1,
+      "VBZ-NNS-JJ": 1,
+      "NNS-JJ-NN": 1,
+      "FW-NN-NNS": 2,
+      "NNS-VBP-NNS": 1,
+      "VBP-NNS-VBP": 1,
+      "VBP-JJ-NNP": 1,
+      "JJ-NNP-NNP": 1,
+      "NN-IN-NNP": 2,
+      "IN-NNP-NNP": 2,
+      "NNP-VBD-RB": 1,
+      "VBD-RB-JJ": 1,
+      "RB-JJ-JJ": 1,
+      "JJ-JJ-NN": 2,
+      "NN-VBZ-NNP": 1,
+      "VBZ-NNP-JJ": 1,
+      "NNP-JJ-JJ": 1,
+      "IN-NNP-FW": 1,
+      "NNP-FW-NN": 3,
+      "FW-NN-JJ": 1,
+      "FW-NNS-JJ": 1,
+      "NNS-JJ-JJ": 1,
+      "JJ-JJ-NNS": 1,
+      "JJ-NNS-NNS": 1,
+      "NNS-NNS-VBP": 2,
+      "NNS-VBP-IN": 1,
+      "VBP-IN-NNP": 1,
+      "NNP-NNP-FW": 1,
+      "NN-NN-NNS": 2,
+      "NNS-VBP-VB": 1,
+      "VBP-VB-JJ": 1,
+      "VB-JJ-NN": 1,
+      "NNS-VBP-VBZ": 1,
+      "VBP-VBZ-FW": 1,
+      "NN-VBZ-JJ": 1,
+      "VBZ-JJ-NNS": 1,
+      "JJ-NNS-VBP": 1,
+      "NN-IN-CD": 1,
+      "IN-CD-NNS": 1,
+      "CD-NNS-IN": 1,
+      "NNP-NN-FW": 1,
+      "NNS-VBP-NN": 1,
+      "VBP-NN-NN": 1,
+      "NN-NN-CD": 1,
+      "NN-CD-NN": 1,
+      "CD-NN-VBD": 1,
+      "NN-VBD-CD": 1,
+      "VBD-CD-NNS": 1,
+      "CD-NNS-NNS": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 94,
+        "FW": 85,
+        "NNP": 34,
+        "JJ": 28,
+        "NNS": 21
+      },
+      "top_bigrams": {
+        "NN-NN": 53,
+        "FW-FW": 51,
+        "JJ-NN": 16,
+        "FW-NN": 15,
+        "NNP-NNP": 12
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 33,
+        "NN-NN-NN": 29,
+        "JJ-NN-NN": 9,
+        "NN-IN-FW": 9,
+        "FW-NN-NN": 8
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 11,
+    "chunk_counts": {
+      "NP": 78,
+      "ADJP": 5,
+      "VP": 25,
+      "PP": 4
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 3,
+        "weight": 0.0244
+      },
+      {
+        "rule": "VP -> ('del', 'VBP') NP",
+        "frequency": 2,
+        "weight": 0.0163
+      },
+      {
+        "rule": "NP -> ('Isacama', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0163
+      },
+      {
+        "rule": "NP -> ('a', 'DT') ('los', 'JJ') ('responsables', 'NNS')",
+        "frequency": 2,
+        "weight": 0.0163
+      },
+      {
+        "rule": "S -> NP (',', ',') ADJP ('del', 'FW') NP (',', ',') NP (',', ',') NP VP ('signos', 'FW') ('de', 'FW') ('tortura', 'FW') (',', ',') ('de', 'FW') ('acuerdo', 'FW') ('a', 'DT') ADJP ('organizaciones', 'FW') ('de', 'FW') ('derechos', 'FW') ('humanos', 'FW') ('del', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0081
+      },
+      {
+        "rule": "NP -> ('El', 'NNP') ('líder', 'NN') ('indígena', 'NN') ('peruano', 'NN')",
+        "frequency": 1,
+        "weight": 0.0081
+      },
+      {
+        "rule": "ADJP -> ('integrante', 'JJ')",
+        "frequency": 1,
+        "weight": 0.0081
+      },
+      {
+        "rule": "NP -> ('pueblo', 'NN') ('amazónico', 'NN') ('Kakataibo', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0081
+      },
+      {
+        "rule": "NP -> ('Mariano', 'NNP') ('Isacama', 'NNP') ('Feliciano', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0081
+      },
+      {
+        "rule": "NP -> ('fue', 'NN') ('encontrado', 'NN') ('muerto', 'NN') ('este', 'NN') ('domingo', 'NN') ('con', 'NN')",
+        "frequency": 1,
+        "weight": 0.0081
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El líder indígena peruano"
+      },
+      {
+        "label": "ADJP",
+        "text": "integrante"
+      },
+      {
+        "label": "NP",
+        "text": "pueblo amazónico Kakataibo"
+      },
+      {
+        "label": "NP",
+        "text": "Mariano Isacama Feliciano"
+      },
+      {
+        "label": "NP",
+        "text": "fue encontrado muerto este domingo con"
+      },
+      {
+        "label": "VP",
+        "text": "aparentes"
+      },
+      {
+        "label": "ADJP",
+        "text": "diversas"
+      },
+      {
+        "label": "NP",
+        "text": "país suramericano"
+      },
+      {
+        "label": "NP",
+        "text": "Isacama Feliciano"
+      },
+      {
+        "label": "NP",
+        "text": "conocido"
+      },
+      {
+        "label": "NP",
+        "text": "los suyos como « Perú »"
+      },
+      {
+        "label": "NP",
+        "text": "era un defensor"
+      },
+      {
+        "label": "NP",
+        "text": "derechos humanos"
+      },
+      {
+        "label": "NP",
+        "text": "Puerto Azul"
+      },
+      {
+        "label": "NP",
+        "text": "Según"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP El/NNP líder/NN indígena/NN peruano/NN)\n  ,/,\n  (ADJP integrante/JJ)\n  del/FW\n  (NP pueblo/NN amazónico/NN Kakataibo/NNP)\n  ,/,\n  (NP Mariano/NNP Isacama/NNP Feliciano/NNP)\n  ,/,\n  (NP fue/NN encontrado/NN muerto/NN este/NN domingo/NN con/NN)\n  (VP aparentes/VBZ)\n  signos/FW\n  de/FW\n  tortura/FW\n  ,/,\n  de/FW\n  acuerdo/FW\n  a/DT\n  (ADJP diversas/JJ)\n  organizaciones/FW\n  de/FW\n  derechos/FW\n  humanos/FW\n  del/FW\n  (NP país/NN suramericano/NN)\n  ./.)",
+      "(S\n  (NP Isacama/NNP Feliciano/NNP)\n  ,/,\n  (NP conocido/NN)\n  entre/FW\n  (NP los/NN suyos/NN como/NN «/NNP Perú/NNP »/NNP)\n  ,/,\n  (NP era/NN un/NN defensor/NN)\n  de/IN\n  los/FW\n  (NP derechos/JJ humanos/NNS)\n  originario/FW\n  de/FW\n  la/FW\n  comunidad/FW\n  nativa/FW\n  de/FW\n  (NP Puerto/NNP Azul/NNP)\n  ./.)",
+      "(S\n  (NP Según/NNP)\n  (VP reportes/VBZ)\n  de/FW\n  prensa/FW\n  ,/,\n  su/FW\n  (NP cuerpo/NN fue/NN hallado/NN)\n  en/IN\n  la/FW\n  ribera/FW\n  del/FW\n  (NP río/NN Yúrac/NNP)\n  ,/,\n  (NP cerca/NN)\n  de/FW\n  la/FW\n  ciudad/FW\n  de/FW\n  (NP Aguaytía/NNP)\n  ,/,\n  en/FW\n  el/FW\n  departamento/FW\n  selvático/FW\n  de/FW\n  (NP Ucayali/NNP)\n  ./.)",
+      "(S\n  (NP\n    La/NNP\n    comunidad/NN\n    amazónica/NN\n    ha/NN\n    expresado/NN\n    su/NN\n    profundo/NN\n    dolor/NN\n    y/NN\n    repudio/NN\n    ante/NN)\n  el/FW\n  (NP cobarde/NN asesinato/NN)\n  de/IN\n  uno/FW\n  de/FW\n  sus/FW\n  más/FW\n  (NP queridos/NN líderes/NNS)\n  ./.)",
+      "(S\n  (NP La/NNP)\n  muerte/FW\n  de/FW\n  (NP Feliciano/NNP)\n  se/FW\n  (VP produce/VBP)\n  en/FW\n  (NP un/JJ contexto/NN)\n  en/IN\n  el/FW\n  (NP cual/JJ las/NN organizaciones/NNS)\n  (VP indígenas/VBP (NP han/JJ criticado/NN lo/NN que/NN) llaman/JJ)\n  (VP la/VBZ (NP lenta/JJ reacción/NN))\n  de/IN\n  las/FW\n  (NP autoridades/NNS)\n  (VP del/VBP (NP Estado/NNP peruano/NN ante/NN))\n  la/FW\n  desaparición/FW\n  de/FW\n  (NP Isacama/NNP)\n  ,/,\n  (NP a/DT pesar/NN)\n  de/IN\n  los/FW\n  (NP múltiples/NNS)\n  pedidos/FW\n  de/FW\n  auxilio/FW\n  (NP realizados/NN)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "CULTURA_DEPORTE_SOCIEDAD",
+      "GRUPOS_ESPECIFICOS",
+      "RECURSOS_NATURALES",
+      "CANTIDADES_NUMERICAS",
+      "REGIONES_PROVINCIAS",
+      "INSTITUCIONES_EDUCATIVAS",
+      "JUSTICIA_SOCIAL",
+      "PAISES",
+      "PROTESTAS_CONFLICTOS_SOCIALES",
+      "INFRAESTRUCTURA_SERVICIOS"
+    ],
+    "matches": [
+      {
+        "category": "PROTESTAS_CONFLICTOS_SOCIALES",
+        "matched_text": "organizaciones indígenas han criticado lo que llaman",
+        "position": [
+          735,
+          787
+        ],
+        "start": 735,
+        "end": 787
+      },
+      {
+        "category": "CULTURA_DEPORTE_SOCIEDAD",
+        "matched_text": "interculturalidad",
+        "position": [
+          1330,
+          1347
+        ],
+        "start": 1330,
+        "end": 1347
+      },
+      {
+        "category": "GRUPOS_ESPECIFICOS",
+        "matched_text": "indígena",
+        "position": [
+          10,
+          18
+        ],
+        "start": 10,
+        "end": 18
+      },
+      {
+        "category": "INSTITUCIONES_EDUCATIVAS",
+        "matched_text": "departamento selvático de ucayali",
+        "position": [
+          510,
+          543
+        ],
+        "start": 510,
+        "end": 543
+      },
+      {
+        "category": "RECURSOS_NATURALES",
+        "matched_text": "río",
+        "position": [
+          461,
+          464
+        ],
+        "start": 461,
+        "end": 464
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "puerto",
+        "position": [
+          382,
+          388
+        ],
+        "start": 382,
+        "end": 388
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "perú",
+        "position": [
+          298,
+          302
+        ],
+        "start": 298,
+        "end": 302
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "departamento selvático",
+        "position": [
+          510,
+          532
+        ],
+        "start": 510,
+        "end": 532
+      },
+      {
+        "category": "JUSTICIA_SOCIAL",
+        "matched_text": "derechos humanos",
+        "position": [
+          206,
+          222
+        ],
+        "start": 206,
+        "end": 222
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "más de 50",
+        "position": [
+          1812,
+          1821
+        ],
+        "start": 1812,
+        "end": 1821
+      }
+    ],
+    "match_count": 10
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "río Yúrac",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Aguaytía",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Isacama Feliciano",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Puerto Azul",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Perú",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Mariano Isacama Feliciano",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Ucayali",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Kakataibo",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Ministerio Público",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Estado peruano",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Feliciano",
+        "tipo": "Persona"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "río Yúrac",
+        "relacion": "HALLAR",
+        "objeto": "Ucayali"
+      },
+      {
+        "sujeto": "Aguaytía",
+        "relacion": "CERCA_HALLAR",
+        "objeto": "Ucayali"
+      },
+      {
+        "sujeto": "Feliciano",
+        "relacion": "PRODUCIR",
+        "objeto": "Estado peruano"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.5859,
+    "pos": 0.016,
+    "neu": 0.984,
+    "neg": 0.0,
+    "label": "positive"
+  }
+}

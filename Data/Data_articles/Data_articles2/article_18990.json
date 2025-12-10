@@ -1,0 +1,830 @@
+{
+  "url": "https://www.telesurtv.net/palestina-denuncia-apoyo-de-ee-uu-en-ataque-israeli-a-mawasi/",
+  "title": "Palestina denuncia apoyo de EE. UU. en ataque israelí a Mawasi - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Campo de refugiados",
+    "Estados Unidos",
+    "Franja de Gaza",
+    "Israel",
+    "Mawasi",
+    "Palestina"
+  ],
+  "text": "\nLa agresión israelí contra la zona humanitaria de Mawasi (al sur de la Franja de Gaza), que dejó un saldo de más de 70 víctimas mortales, contó con la ayuda militar de Estados Unidos, así lo informó el portavoz de la presidencia de la Autoridad Nacional Palestina, Nabil Abu Rudeineh.\n\n\nAunque las fuerzas sionistas informaron que la acción tenía como objetivo principal al jefe militar de Hamás en Gaza, Mohamed Deif, el funcionario catalogó el hecho como una “masacre”. Además, comentó que representa una continuación del genocidio que vive el pueblo palestino desde el 7 de octubre de 2023.\n\nPor su parte, el titular de Exteriores de la Autoridad Palestina, que gobierna en Cisjordania ocupada, denunció el ataque en cuestión, así como el bombardeo a una mezquita en el campamento de refugiados de Shati (Ciudad de Gaza), donde murieron 17 personas. Asimismo, solicitó el apoyo de la comunidad internacional para finalizar el conflicto.\nLa acción planificada contra Deif se efectuó en Mawasi (al oeste de Jan Yunis), en una “zona humanitaria” establecida por las fuerzas de ocupación, una vez que iniciaron sus operaciones en la localidad de Rafah. Sin embargo, las tropas sionistas reiteraron que el punto atacado era un complejo de Hamás, ubicado en una zona abierta y no en las tiendas de campaña de los desplazados.\nHasta el momento, no se tiene información de Mohamed Deif ni de Rafaa Salameh, comandante de la brigada de Jan Yunis. El Ministerio de Salud gazatí ha registrado una cifra preliminar de 71 muertos y 289 heridos.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/palestina-denuncia-apoyo-de-ee-uu-en-ataque-israeli-a-mawasi/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-07.json",
+    "message_index": 661,
+    "message_id": 73176,
+    "date": "2024-07-13T18:55:18+00:00",
+    "text": "teleSUR\nPalestina denuncia apoyo de EE. UU. en ataque israelí a Mawasi\nhttps://www.telesurtv.net/palestina-denuncia-apoyo-de-ee-uu-en-ataque-israeli-a-mawasi/",
+    "photo_path": null,
+    "views": 1440,
+    "reactions": {},
+    "total_reactions": 0
+  },
+  "preprocessing": {
+    "cleaned": "la agresión israelí contra la zona humanitaria de mawasi (al sur de la franja de gaza), que dejó un saldo de más de 70 víctimas mortales, contó con la ayuda militar de estados unidos, así lo informó el portavoz de la presidencia de la autoridad nacional palestina, nabil abu rudeineh. aunque las fuerzas sionistas informaron que la acción tenía como objetivo principal al jefe militar de hamás en gaza, mohamed deif, el funcionario catalogó el hecho como una “masacre”. además, comentó que representa una continuación del genocidio que vive el pueblo palestino desde el 7 de octubre de 2023. por su parte, el titular de exteriores de la autoridad palestina, que gobierna en cisjordania ocupada, denunció el ataque en cuestión, así como el bombardeo a una mezquita en el campamento de refugiados de shati (ciudad de gaza), donde murieron 17 personas. asimismo, solicitó el apoyo de la comunidad internacional para finalizar el conflicto. la acción planificada contra deif se efectuó en mawasi (al oeste de jan yunis), en una “zona humanitaria” establecida por las fuerzas de ocupación, una vez que iniciaron sus operaciones en la localidad de rafah. sin embargo, las tropas sionistas reiteraron que el punto atacado era un complejo de hamás, ubicado en una zona abierta y no en las tiendas de campaña de los desplazados. hasta el momento, no se tiene información de mohamed deif ni de rafaa salameh, comandante de la brigada de jan yunis. el ministerio de salud gazatí ha registrado una cifra preliminar de 71 muertos y 289 heridos.",
+    "tokens": [
+      "agresión",
+      "israelí",
+      "zona",
+      "humanitaria",
+      "mawasi",
+      "(",
+      "sur",
+      "franja",
+      "gaza",
+      ")",
+      ",",
+      "dejó",
+      "saldo",
+      "70",
+      "víctimas",
+      "mortales",
+      ",",
+      "contó",
+      "ayuda",
+      "militar",
+      "unidos",
+      ",",
+      "así",
+      "informó",
+      "portavoz",
+      "presidencia",
+      "autoridad",
+      "nacional",
+      "palestina",
+      ",",
+      "nabil",
+      "abu",
+      "rudeineh",
+      ".",
+      "aunque",
+      "fuerzas",
+      "sionistas",
+      "informaron",
+      "acción",
+      "objetivo",
+      "principal",
+      "jefe",
+      "militar",
+      "hamás",
+      "gaza",
+      ",",
+      "mohamed",
+      "deif",
+      ",",
+      "funcionario",
+      "catalogó",
+      "hecho",
+      "“",
+      "masacre",
+      "”",
+      ".",
+      "además",
+      ",",
+      "comentó",
+      "representa",
+      "continuación",
+      "genocidio",
+      "vive",
+      "pueblo",
+      "palestino",
+      "7",
+      "octubre",
+      "2023.",
+      "parte",
+      ",",
+      "titular",
+      "exteriores",
+      "autoridad",
+      "palestina",
+      ",",
+      "gobierna",
+      "cisjordania",
+      "ocupada",
+      ",",
+      "denunció",
+      "ataque",
+      "cuestión",
+      ",",
+      "así",
+      "bombardeo",
+      "mezquita",
+      "campamento",
+      "refugiados",
+      "shati",
+      "(",
+      "ciudad",
+      "gaza",
+      ")",
+      ",",
+      "murieron",
+      "17",
+      "personas",
+      ".",
+      "asimismo",
+      ",",
+      "solicitó",
+      "apoyo",
+      "comunidad",
+      "internacional",
+      "finalizar",
+      "conflicto",
+      ".",
+      "acción",
+      "planificada",
+      "deif",
+      "efectuó",
+      "mawasi",
+      "(",
+      "oeste",
+      "jan",
+      "yunis",
+      ")",
+      ",",
+      "“",
+      "zona",
+      "humanitaria",
+      "”",
+      "establecida",
+      "fuerzas",
+      "ocupación",
+      ",",
+      "vez",
+      "iniciaron",
+      "operaciones",
+      "localidad",
+      "rafah",
+      ".",
+      "embargo",
+      ",",
+      "tropas",
+      "sionistas",
+      "reiteraron",
+      "punto",
+      "atacado",
+      "complejo",
+      "hamás",
+      ",",
+      "ubicado",
+      "zona",
+      "abierta",
+      "tiendas",
+      "campaña",
+      "desplazados",
+      ".",
+      "momento",
+      ",",
+      "información",
+      "mohamed",
+      "deif",
+      "rafaa",
+      "salameh",
+      ",",
+      "comandante",
+      "brigada",
+      "jan",
+      "yunis",
+      ".",
+      "ministerio",
+      "salud",
+      "gazatí",
+      "registrado",
+      "cifra",
+      "preliminar",
+      "71",
+      "muertos",
+      "289",
+      "heridos",
+      "."
+    ],
+    "token_count": 173,
+    "sentence_count": 9
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 47,
+      "VBZ": 7,
+      "JJ": 32,
+      "NN": 85,
+      "FW": 42,
+      "IN": 19,
+      "CD": 5,
+      "NNS": 6,
+      "VBP": 3,
+      "VBD": 2,
+      "$": 1,
+      "DT": 2
+    },
+    "bigram_freq": {
+      "NNP-VBZ": 6,
+      "VBZ-JJ": 5,
+      "JJ-JJ": 4,
+      "JJ-NN": 22,
+      "NN-FW": 6,
+      "FW-NN": 3,
+      "NN-IN": 15,
+      "IN-NNP": 10,
+      "NNP-JJ": 3,
+      "IN-FW": 7,
+      "FW-NNP": 10,
+      "NNP-FW": 5,
+      "NNP-NN": 9,
+      "NN-NN": 47,
+      "NN-JJ": 10,
+      "FW-FW": 22,
+      "FW-CD": 1,
+      "CD-NN": 2,
+      "NN-NNS": 2,
+      "NNS-VBP": 3,
+      "VBP-NN": 1,
+      "NNP-NNP": 20,
+      "JJ-NNS": 2,
+      "VBP-JJ": 2,
+      "VBZ-NN": 1,
+      "NN-NNP": 3,
+      "FW-IN": 1,
+      "IN-CD": 2,
+      "CD-NNP": 1,
+      "NNP-VBD": 2,
+      "VBD-JJ": 1,
+      "NNP-IN": 2,
+      "VBD-$": 1,
+      "$-CD": 1,
+      "FW-JJ": 5,
+      "JJ-NNP": 2,
+      "NNS-IN": 1,
+      "JJ-FW": 2,
+      "NN-VBZ": 1,
+      "VBZ-DT": 1,
+      "DT-JJ": 2,
+      "NN-DT": 1,
+      "CD-NNS": 2,
+      "NNS-CD": 1
+    },
+    "trigram_freq": {
+      "NNP-VBZ-JJ": 5,
+      "VBZ-JJ-JJ": 2,
+      "JJ-JJ-NN": 3,
+      "JJ-NN-FW": 2,
+      "NN-FW-NN": 3,
+      "FW-NN-IN": 1,
+      "NN-IN-NNP": 8,
+      "IN-NNP-JJ": 3,
+      "NNP-JJ-NN": 2,
+      "JJ-NN-IN": 7,
+      "NN-IN-FW": 6,
+      "IN-FW-NNP": 1,
+      "FW-NNP-FW": 2,
+      "NNP-FW-NNP": 2,
+      "FW-NNP-NN": 1,
+      "NNP-NN-NN": 8,
+      "NN-NN-JJ": 10,
+      "NN-JJ-NN": 10,
+      "IN-FW-FW": 4,
+      "FW-FW-CD": 1,
+      "FW-CD-NN": 1,
+      "CD-NN-NNS": 1,
+      "NN-NNS-VBP": 1,
+      "NNS-VBP-NN": 1,
+      "VBP-NN-NN": 1,
+      "IN-NNP-NNP": 4,
+      "NNP-NNP-VBZ": 4,
+      "VBZ-JJ-NN": 1,
+      "JJ-NN-NN": 11,
+      "NN-NN-NN": 25,
+      "NN-NN-IN": 7,
+      "FW-FW-FW": 13,
+      "FW-FW-NNP": 6,
+      "FW-NNP-NNP": 7,
+      "NNP-NNP-NNP": 9,
+      "VBZ-JJ-NNS": 2,
+      "JJ-NNS-VBP": 2,
+      "NNS-VBP-JJ": 2,
+      "VBP-JJ-NN": 2,
+      "IN-NNP-FW": 1,
+      "NNP-VBZ-NN": 1,
+      "VBZ-NN-NN": 1,
+      "JJ-NN-NNP": 1,
+      "NN-NNP-NN": 2,
+      "NN-NN-FW": 3,
+      "NN-FW-FW": 2,
+      "FW-FW-IN": 1,
+      "FW-IN-CD": 1,
+      "IN-CD-NNP": 1,
+      "CD-NNP-VBD": 1,
+      "NNP-VBD-JJ": 1,
+      "VBD-JJ-JJ": 1,
+      "NN-FW-NNP": 1,
+      "NNP-FW-FW": 2,
+      "NNP-NNP-NN": 3,
+      "FW-NN-NN": 1,
+      "NNP-NNP-IN": 2,
+      "NNP-IN-NNP": 2,
+      "IN-NNP-VBD": 1,
+      "NNP-VBD-$": 1,
+      "VBD-$-CD": 1,
+      "$-CD-NN": 1,
+      "CD-NN-NNP": 1,
+      "IN-FW-JJ": 2,
+      "FW-JJ-JJ": 1,
+      "FW-NN-NNP": 1,
+      "NN-NNP-VBZ": 1,
+      "JJ-JJ-NNP": 1,
+      "JJ-NNP-NN": 2,
+      "NNP-NNP-FW": 2,
+      "NNP-FW-JJ": 1,
+      "FW-JJ-NN": 3,
+      "NN-NN-NNS": 1,
+      "NN-NNS-IN": 1,
+      "NNS-IN-FW": 1,
+      "NNP-JJ-FW": 1,
+      "JJ-FW-JJ": 1,
+      "JJ-NN-VBZ": 1,
+      "NN-VBZ-DT": 1,
+      "VBZ-DT-JJ": 1,
+      "DT-JJ-FW": 1,
+      "JJ-FW-FW": 1,
+      "FW-FW-JJ": 1,
+      "FW-JJ-NNP": 1,
+      "NN-NN-DT": 1,
+      "NN-DT-JJ": 1,
+      "DT-JJ-NN": 1,
+      "NNP-NN-FW": 1,
+      "IN-NNP-NN": 1,
+      "NN-IN-CD": 1,
+      "IN-CD-NNS": 1,
+      "CD-NNS-CD": 1,
+      "NNS-CD-NNS": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 85,
+        "NNP": 47,
+        "FW": 42,
+        "JJ": 32,
+        "IN": 19
+      },
+      "top_bigrams": {
+        "NN-NN": 47,
+        "JJ-NN": 22,
+        "FW-FW": 22,
+        "NNP-NNP": 20,
+        "NN-IN": 15
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 25,
+        "FW-FW-FW": 13,
+        "JJ-NN-NN": 11,
+        "NN-NN-JJ": 10,
+        "NN-JJ-NN": 10
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 9,
+    "chunk_counts": {
+      "NP": 74,
+      "VP": 9,
+      "PP": 9,
+      "ADJP": 2
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 7,
+        "weight": 0.068
+      },
+      {
+        "rule": "NP -> ('Gaza', 'NNP')",
+        "frequency": 3,
+        "weight": 0.0291
+      },
+      {
+        "rule": "NP -> ('La', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0194
+      },
+      {
+        "rule": "NP -> ('Mawasi', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0194
+      },
+      {
+        "rule": "NP -> ('Hamás', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0194
+      },
+      {
+        "rule": "NP -> ('Mohamed', 'NNP') ('Deif', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0194
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0194
+      },
+      {
+        "rule": "NP -> ('Jan', 'NNP') ('Yunis', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0194
+      },
+      {
+        "rule": "S -> NP VP ('zona', 'FW') NP ('de', 'FW') NP ('(', '(') NP ('de', 'IN') ('la', 'FW') NP ('de', 'FW') NP (')', ')') (',', ',') NP NP ('de', 'IN') ('más', 'FW') ('de', 'FW') ('70', 'CD') NP (',', ',') NP NP PP (',', ',') NP ('el', 'FW') ('portavoz', 'FW') ('de', 'FW') ('la', 'FW') ('presidencia', 'FW') ('de', 'FW') ('la', 'FW') NP (',', ',') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0097
+      },
+      {
+        "rule": "VP -> ('agresión', 'VBZ') NP",
+        "frequency": 1,
+        "weight": 0.0097
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "La"
+      },
+      {
+        "label": "VP",
+        "text": "agresión israelí contra la"
+      },
+      {
+        "label": "NP",
+        "text": "israelí contra la"
+      },
+      {
+        "label": "NP",
+        "text": "humanitaria"
+      },
+      {
+        "label": "NP",
+        "text": "Mawasi"
+      },
+      {
+        "label": "NP",
+        "text": "al sur"
+      },
+      {
+        "label": "NP",
+        "text": "Franja"
+      },
+      {
+        "label": "NP",
+        "text": "Gaza"
+      },
+      {
+        "label": "NP",
+        "text": "que dejó"
+      },
+      {
+        "label": "NP",
+        "text": "un saldo"
+      },
+      {
+        "label": "NP",
+        "text": "víctimas mortales"
+      },
+      {
+        "label": "NP",
+        "text": "contó con la"
+      },
+      {
+        "label": "NP",
+        "text": "ayuda militar"
+      },
+      {
+        "label": "PP",
+        "text": "de Estados Unidos"
+      },
+      {
+        "label": "NP",
+        "text": "Estados Unidos"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP La/NNP)\n  (VP agresión/VBZ (NP israelí/JJ contra/JJ la/NN))\n  zona/FW\n  (NP humanitaria/NN)\n  de/FW\n  (NP Mawasi/NNP)\n  (/(\n  (NP al/JJ sur/NN)\n  de/IN\n  la/FW\n  (NP Franja/NNP)\n  de/FW\n  (NP Gaza/NNP)\n  )/)\n  ,/,\n  (NP que/JJ dejó/NN)\n  (NP un/JJ saldo/NN)\n  de/IN\n  más/FW\n  de/FW\n  70/CD\n  (NP víctimas/NN mortales/NNS)\n  ,/,\n  (NP contó/JJ con/NN la/NN)\n  (NP ayuda/JJ militar/NN)\n  (PP de/IN (NP Estados/NNP Unidos/NNP))\n  ,/,\n  (NP así/NN lo/NN informó/NN)\n  el/FW\n  portavoz/FW\n  de/FW\n  la/FW\n  presidencia/FW\n  de/FW\n  la/FW\n  (NP Autoridad/NNP Nacional/NNP Palestina/NNP)\n  ,/,\n  (NP Nabil/NNP Abu/NNP Rudeineh/NNP)\n  ./.)",
+      "(S\n  (NP Aunque/NNP)\n  (VP las/VBZ (NP fuerzas/JJ sionistas/NNS))\n  (VP\n    informaron/VBP\n    (NP que/JJ la/NN acción/NN tenía/NN como/NN objetivo/NN)\n    (NP principal/JJ al/NN jefe/NN militar/NN))\n  (PP de/IN (NP Hamás/NNP))\n  en/FW\n  (NP Gaza/NNP)\n  ,/,\n  (NP Mohamed/NNP Deif/NNP)\n  ,/,\n  (VP\n    el/VBZ\n    (NP funcionario/NN catalogó/NN el/NN hecho/NN como/NN)\n    (NP una/JJ “/NNP masacre/NN ”/NN))\n  ./.)",
+      "(S\n  (NP Además/NNP)\n  ,/,\n  (NP comentó/NN que/NN representa/NN)\n  (NP una/JJ continuación/NN del/NN genocidio/NN que/NN)\n  (NP vive/JJ el/NN pueblo/NN palestino/NN desde/NN)\n  (VP el/VBD)\n  7/CD\n  de/FW\n  octubre/FW\n  de/IN\n  2023/CD\n  ./.)",
+      "(S\n  (NP Por/NNP su/NN parte/NN)\n  ,/,\n  (NP el/JJ titular/NN)\n  de/FW\n  (NP Exteriores/NNP)\n  de/FW\n  la/FW\n  (NP Autoridad/NNP Palestina/NNP)\n  ,/,\n  (NP que/NN gobierna/NN)\n  (PP en/IN (NP Cisjordania/NNP ocupada/NN))\n  ,/,\n  (NP denunció/NN el/NN ataque/NN)\n  en/FW\n  (NP cuestión/NN)\n  ,/,\n  (NP así/JJ como/NN el/NN)\n  (VP bombardeo/VBD (NP a/DT una/JJ mezquita/NN))\n  en/IN\n  el/FW\n  campamento/FW\n  de/FW\n  refugiados/FW\n  de/FW\n  (NP Shati/NNP)\n  (/(\n  (NP Ciudad/NNP)\n  (PP de/IN (NP Gaza/NNP))\n  )/)\n  ,/,\n  (NP donde/JJ murieron/NN)\n  17/CD\n  (NP personas/NN)\n  ./.)",
+      "(S\n  (NP Asimismo/NNP)\n  ,/,\n  (NP solicitó/NN el/NN apoyo/NN)\n  de/IN\n  la/FW\n  (NP\n    comunidad/JJ\n    internacional/JJ\n    para/NN\n    finalizar/NN\n    el/NN\n    conflicto/NN)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "CANTIDADES_NUMERICAS",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "ACCIONES_LEGALES",
+      "ANTIIMPERIALISMO_SOBERANIA",
+      "REGIONES_PROVINCIAS",
+      "PAISES",
+      "LOCALIZACIONES_ESPECIFICAS",
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "CONFLICTOS_ARMADOS_OPERACIONES",
+      "FECHAS_ESPECIFICAS"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "ocupación, una vez que iniciaron sus operaciones en la localidad de rafah. sin embargo, las tropas sionistas reiteraron que el punto atacado era un complejo de hamás, ubicado en una zona",
+        "position": [
+          1078,
+          1264
+        ],
+        "start": 1078,
+        "end": 1264
+      },
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "agresión israelí contra la zona humanitaria de mawasi (al sur de la franja de gaza), que dejó un saldo de más de 70 víctimas mortales, contó con la ayuda militar",
+        "position": [
+          4,
+          165
+        ],
+        "start": 4,
+        "end": 165
+      },
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "denunció el ataque en cuestión, así como el bombardeo a",
+        "position": [
+          699,
+          754
+        ],
+        "start": 699,
+        "end": 754
+      },
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "ocupación",
+        "position": [
+          1078,
+          1087
+        ],
+        "start": 1078,
+        "end": 1087
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "informó",
+        "position": [
+          192,
+          199
+        ],
+        "start": 192,
+        "end": 199
+      },
+      {
+        "category": "ACCIONES_LEGALES",
+        "matched_text": "denunció",
+        "position": [
+          699,
+          707
+        ],
+        "start": 699,
+        "end": 707
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "estados unidos",
+        "position": [
+          169,
+          183
+        ],
+        "start": 169,
+        "end": 183
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "israelí",
+        "position": [
+          13,
+          20
+        ],
+        "start": 13,
+        "end": 20
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "zona humanitaria",
+        "position": [
+          31,
+          47
+        ],
+        "start": 31,
+        "end": 47
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "complejo de",
+        "position": [
+          1226,
+          1237
+        ],
+        "start": 1226,
+        "end": 1237
+      },
+      {
+        "category": "FECHAS_ESPECIFICAS",
+        "matched_text": "7 de octubre de 2023",
+        "position": [
+          573,
+          593
+        ],
+        "start": 573,
+        "end": 593
+      },
+      {
+        "category": "ANTIIMPERIALISMO_SOBERANIA",
+        "matched_text": "embargo",
+        "position": [
+          1157,
+          1164
+        ],
+        "start": 1157,
+        "end": 1164
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "17 personas",
+        "position": [
+          841,
+          852
+        ],
+        "start": 841,
+        "end": 852
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "más de 70",
+        "position": [
+          110,
+          119
+        ],
+        "start": 110,
+        "end": 119
+      }
+    ],
+    "match_count": 14
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Exteriores",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Franja de Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Jan Yunis",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Ciudad de Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Hamás",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Estados Unidos",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Cisjordania",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Rafaa Salameh",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Shati",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Rafah",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Mohamed Deif",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Autoridad Nacional Palestina",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Nabil Abu Rudeineh",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Autoridad Palestina",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Mawasi",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Mawasi",
+        "relacion": "CONTAR",
+        "objeto": "Estados Unidos"
+      },
+      {
+        "sujeto": "Mawasi",
+        "relacion": "CONTAR",
+        "objeto": "Autoridad Nacional Palestina"
+      },
+      {
+        "sujeto": "Mawasi",
+        "relacion": "CONTAR",
+        "objeto": "Nabil Abu Rudeineh"
+      },
+      {
+        "sujeto": "Franja de Gaza",
+        "relacion": "CONTAR",
+        "objeto": "Estados Unidos"
+      },
+      {
+        "sujeto": "Franja de Gaza",
+        "relacion": "CONTAR",
+        "objeto": "Autoridad Nacional Palestina"
+      },
+      {
+        "sujeto": "Franja de Gaza",
+        "relacion": "CONTAR",
+        "objeto": "Nabil Abu Rudeineh"
+      },
+      {
+        "sujeto": "Estados Unidos",
+        "relacion": "CONTAR",
+        "objeto": "Autoridad Nacional Palestina"
+      },
+      {
+        "sujeto": "Estados Unidos",
+        "relacion": "CONTAR",
+        "objeto": "Nabil Abu Rudeineh"
+      },
+      {
+        "sujeto": "Exteriores",
+        "relacion": "DENUNCIAR",
+        "objeto": "Shati"
+      },
+      {
+        "sujeto": "Exteriores",
+        "relacion": "DENUNCIAR",
+        "objeto": "Ciudad de Gaza"
+      },
+      {
+        "sujeto": "Autoridad Palestina",
+        "relacion": "DENUNCIAR",
+        "objeto": "Shati"
+      },
+      {
+        "sujeto": "Autoridad Palestina",
+        "relacion": "DENUNCIAR",
+        "objeto": "Ciudad de Gaza"
+      },
+      {
+        "sujeto": "Cisjordania",
+        "relacion": "GOBERNAR_DENUNCIAR",
+        "objeto": "Shati"
+      },
+      {
+        "sujeto": "Cisjordania",
+        "relacion": "GOBERNAR_DENUNCIAR",
+        "objeto": "Ciudad de Gaza"
+      },
+      {
+        "sujeto": "Mawasi",
+        "relacion": "EFECTUAR",
+        "objeto": "Rafah"
+      },
+      {
+        "sujeto": "Jan Yunis",
+        "relacion": "EFECTUAR",
+        "objeto": "Rafah"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.6808,
+    "pos": 0.009,
+    "neu": 0.96,
+    "neg": 0.031,
+    "label": "negative"
+  }
+}

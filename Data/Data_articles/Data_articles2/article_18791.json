@@ -1,0 +1,761 @@
+{
+  "url": "https://www.telesurtv.net/ataque-aereo-israeli-alcanza-una-escuela-en-gaza-y-causa-dos-muertos/",
+  "title": "Ataque aéreo israelí alcanza una escuela en Gaza y causa dos muertos - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Bombardeo",
+    "Israel",
+    "Palestina"
+  ],
+  "text": "La escuela Al-Falah, ubicada en el barrio de Zaytoun, al sureste de la ciudad de Gaza, fue objetivo de un ataque aéreo israelí la tarde de este jueves, que dejó un saldo de dos civiles asesinados y cinco más heridos.\nDesde octubre de 2023, la agresión israelí en la Franja de Gaza ha causado la muerte de más de 38.848 palestinos, la mayoría de ellos mujeres y niños.\nSegún datos preliminares, el genocidios israelí ha causado más de 89.459 heridos y miles de personas continúan atrapadas en los escombros.\nEste jueves, el primer ministro israelí, Benjamín Netanyahu, realizó una visita a Rafah, en el sur de Gaza, por primera vez desde el inicio de la ofensiva contra la ciudad el 6 de mayo. Rafah se ha convertido en una de las áreas clave de una guerra que se extiende ya más de nueve meses, en la que han fallecido alrededor de 39.000 palestinos y alrededor de 326 soldados israelíes.\n“Se reforzó mi postura de que su acción aquí, sobre y bajo tierra, es fundamental para la seguridad de Israel, y de que nuestra posesión y control del cruce de Rafah son esenciales para la continuación de la guerra”, dijo el primer ministro a los soldados.\nDesde el 7 de octubre, el enclave ha sufrido una crisis humanitaria grave debido a la propagación de enfermedades.\nUna consecuencia directa de esta situación es la falta de agua limpia, lo que ha llevado a más del 26 por ciento de la población gazatí a sufrir diarrea aguda, hepatitis A y otras infecciones, según lo observado por Médicos Sin Fronteras (MSF) en los últimos meses.\nEl Ministerio de Salud de Gaza anunció este jueves la existencia de polio en muestras de aguas residuales de la Franja.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/ataque-aereo-israeli-alcanza-una-escuela-en-gaza-y-causa-dos-muertos/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-07.json",
+    "message_index": 461,
+    "message_id": 73376,
+    "date": "2024-07-19T07:55:07+00:00",
+    "text": "teleSUR\nAtaque aéreo israelí alcanza una escuela en Gaza y causa dos muertos\nhttps://www.telesurtv.net/ataque-aereo-israeli-alcanza-una-escuela-en-gaza-y-causa-dos-muertos/",
+    "photo_path": null,
+    "views": 1264,
+    "reactions": {},
+    "total_reactions": 0
+  },
+  "preprocessing": {
+    "cleaned": "la escuela al-falah, ubicada en el barrio de zaytoun, al sureste de la ciudad de gaza, fue objetivo de un ataque aéreo israelí la tarde de este jueves, que dejó un saldo de dos civiles asesinados y cinco más heridos. desde octubre de 2023, la agresión israelí en la franja de gaza ha causado la muerte de más de 38.848 palestinos, la mayoría de ellos mujeres y niños. según datos preliminares, el genocidios israelí ha causado más de 89.459 heridos y miles de personas continúan atrapadas en los escombros. este jueves, el primer ministro israelí, benjamín netanyahu, realizó una visita a rafah, en el sur de gaza, por primera vez desde el inicio de la ofensiva contra la ciudad el 6 de mayo. rafah se ha convertido en una de las áreas clave de una guerra que se extiende ya más de nueve meses, en la que han fallecido alrededor de 39.000 palestinos y alrededor de 326 soldados israelíes. “se reforzó mi postura de que su acción aquí, sobre y bajo tierra, es fundamental para la seguridad de israel, y de que nuestra posesión y control del cruce de rafah son esenciales para la continuación de la guerra”, dijo el primer ministro a los soldados. desde el 7 de octubre, el enclave ha sufrido una crisis humanitaria grave debido a la propagación de enfermedades. una consecuencia directa de esta situación es la falta de agua limpia, lo que ha llevado a más del 26 por ciento de la población gazatí a sufrir diarrea aguda, hepatitis a y otras infecciones, según lo observado por médicos sin fronteras (msf) en los últimos meses. el ministerio de salud de gaza anunció este jueves la existencia de polio en muestras de aguas residuales de la franja.",
+    "tokens": [
+      "escuela",
+      "al-falah",
+      ",",
+      "ubicada",
+      "barrio",
+      "zaytoun",
+      ",",
+      "sureste",
+      "ciudad",
+      "gaza",
+      ",",
+      "objetivo",
+      "ataque",
+      "aéreo",
+      "israelí",
+      "tarde",
+      "jueves",
+      ",",
+      "dejó",
+      "saldo",
+      "dos",
+      "civiles",
+      "asesinados",
+      "cinco",
+      "heridos",
+      ".",
+      "octubre",
+      "2023",
+      ",",
+      "agresión",
+      "israelí",
+      "franja",
+      "gaza",
+      "causado",
+      "muerte",
+      "38.848",
+      "palestinos",
+      ",",
+      "mayoría",
+      "mujeres",
+      "niños",
+      ".",
+      "según",
+      "datos",
+      "preliminares",
+      ",",
+      "genocidios",
+      "israelí",
+      "causado",
+      "89.459",
+      "heridos",
+      "miles",
+      "personas",
+      "continúan",
+      "atrapadas",
+      "escombros",
+      ".",
+      "jueves",
+      ",",
+      "primer",
+      "ministro",
+      "israelí",
+      ",",
+      "benjamín",
+      "netanyahu",
+      ",",
+      "realizó",
+      "visita",
+      "rafah",
+      ",",
+      "sur",
+      "gaza",
+      ",",
+      "primera",
+      "vez",
+      "inicio",
+      "ofensiva",
+      "ciudad",
+      "6",
+      "mayo",
+      ".",
+      "rafah",
+      "convertido",
+      "áreas",
+      "clave",
+      "guerra",
+      "extiende",
+      "nueve",
+      "meses",
+      ",",
+      "fallecido",
+      "alrededor",
+      "39.000",
+      "palestinos",
+      "alrededor",
+      "326",
+      "soldados",
+      "israelíes",
+      ".",
+      "“",
+      "reforzó",
+      "postura",
+      "acción",
+      "aquí",
+      ",",
+      "bajo",
+      "tierra",
+      ",",
+      "fundamental",
+      "seguridad",
+      "israel",
+      ",",
+      "posesión",
+      "control",
+      "cruce",
+      "rafah",
+      "esenciales",
+      "continuación",
+      "guerra",
+      "”",
+      ",",
+      "dijo",
+      "primer",
+      "ministro",
+      "soldados",
+      ".",
+      "7",
+      "octubre",
+      ",",
+      "enclave",
+      "sufrido",
+      "crisis",
+      "humanitaria",
+      "grave",
+      "debido",
+      "propagación",
+      "enfermedades",
+      ".",
+      "consecuencia",
+      "directa",
+      "situación",
+      "falta",
+      "agua",
+      "limpia",
+      ",",
+      "llevado",
+      "26",
+      "ciento",
+      "población",
+      "gazatí",
+      "sufrir",
+      "diarrea",
+      "aguda",
+      ",",
+      "hepatitis",
+      "infecciones",
+      ",",
+      "según",
+      "observado",
+      "médicos",
+      "fronteras",
+      "(",
+      "msf",
+      ")",
+      "últimos",
+      "meses",
+      ".",
+      "ministerio",
+      "salud",
+      "gaza",
+      "anunció",
+      "jueves",
+      "existencia",
+      "polio",
+      "muestras",
+      "aguas",
+      "residuales",
+      "franja",
+      "."
+    ],
+    "token_count": 179,
+    "sentence_count": 9
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 28,
+      "VBZ": 5,
+      "JJ": 28,
+      "FW": 94,
+      "NN": 66,
+      "IN": 14,
+      "NNS": 16,
+      "VBP": 14,
+      "CD": 6,
+      "VBN": 3,
+      "RB": 1,
+      "CC": 1
+    },
+    "bigram_freq": {
+      "NNP-VBZ": 2,
+      "VBZ-NNP": 1,
+      "NNP-JJ": 2,
+      "JJ-FW": 6,
+      "FW-FW": 62,
+      "FW-NN": 7,
+      "NN-IN": 11,
+      "IN-NNP": 2,
+      "JJ-NN": 12,
+      "IN-FW": 6,
+      "FW-NNP": 10,
+      "NNP-NN": 10,
+      "NN-NN": 32,
+      "IN-JJ": 2,
+      "NN-FW": 12,
+      "FW-NNS": 6,
+      "NNS-VBP": 11,
+      "VBP-JJ": 6,
+      "JJ-JJ": 3,
+      "NN-NNP": 4,
+      "IN-CD": 4,
+      "CD-NN": 2,
+      "NNP-FW": 5,
+      "FW-CD": 1,
+      "CD-NNS": 3,
+      "NNS-JJ": 2,
+      "VBP-NNP": 1,
+      "NN-VBZ": 3,
+      "VBZ-JJ": 1,
+      "JJ-NNS": 4,
+      "CD-JJ": 1,
+      "NNS-IN": 1,
+      "JJ-NNP": 3,
+      "NNP-NNS": 1,
+      "NNP-NNP": 5,
+      "VBZ-FW": 1,
+      "FW-JJ": 7,
+      "VBP-VBN": 3,
+      "VBN-JJ": 3,
+      "VBP-FW": 2,
+      "VBP-IN": 1,
+      "NN-VBP": 2,
+      "NNS-NN": 1,
+      "VBP-NN": 1,
+      "VBZ-RB": 1,
+      "RB-JJ": 1,
+      "FW-VBP": 1,
+      "NN-NNS": 2,
+      "VBZ-CD": 1,
+      "NNS-NNP": 1,
+      "NNP-IN": 1,
+      "NNP-CC": 1,
+      "CC-NN": 1
+    },
+    "trigram_freq": {
+      "NNP-VBZ-NNP": 1,
+      "VBZ-NNP-JJ": 1,
+      "NNP-JJ-FW": 1,
+      "JJ-FW-FW": 5,
+      "FW-FW-NN": 4,
+      "FW-NN-IN": 2,
+      "NN-IN-NNP": 1,
+      "IN-NNP-JJ": 1,
+      "NNP-JJ-NN": 1,
+      "JJ-NN-IN": 2,
+      "NN-IN-FW": 5,
+      "IN-FW-FW": 2,
+      "FW-FW-FW": 41,
+      "FW-FW-NNP": 7,
+      "FW-NNP-NN": 5,
+      "NNP-NN-NN": 6,
+      "NN-NN-IN": 6,
+      "NN-IN-JJ": 2,
+      "IN-JJ-NN": 1,
+      "JJ-NN-NN": 9,
+      "NN-NN-NN": 13,
+      "NN-NN-FW": 7,
+      "NN-FW-FW": 9,
+      "FW-FW-NNS": 4,
+      "FW-NNS-VBP": 6,
+      "NNS-VBP-JJ": 5,
+      "VBP-JJ-JJ": 1,
+      "JJ-JJ-NN": 2,
+      "IN-FW-NNS": 1,
+      "VBP-JJ-NN": 5,
+      "NN-NN-NNP": 4,
+      "NN-NNP-NN": 1,
+      "NNP-NN-IN": 1,
+      "NN-IN-CD": 3,
+      "IN-CD-NN": 1,
+      "CD-NN-FW": 1,
+      "NN-FW-NN": 1,
+      "FW-NN-FW": 2,
+      "FW-NNP-FW": 3,
+      "NNP-FW-NNP": 2,
+      "FW-FW-CD": 1,
+      "FW-CD-NNS": 1,
+      "CD-NNS-JJ": 2,
+      "NNS-JJ-FW": 1,
+      "NNS-VBP-NNP": 1,
+      "VBP-NNP-NN": 1,
+      "NNP-NN-VBZ": 2,
+      "NN-VBZ-JJ": 1,
+      "VBZ-JJ-NNS": 1,
+      "JJ-NNS-VBP": 1,
+      "IN-CD-JJ": 1,
+      "CD-JJ-NNS": 1,
+      "JJ-NNS-IN": 1,
+      "NNS-IN-FW": 1,
+      "IN-FW-NN": 1,
+      "FW-NN-NN": 3,
+      "IN-JJ-JJ": 1,
+      "JJ-JJ-NNP": 1,
+      "JJ-NNP-NNS": 1,
+      "NNP-NNS-VBP": 1,
+      "NN-NNP-NNP": 2,
+      "NNP-NNP-NN": 1,
+      "NN-NNP-VBZ": 1,
+      "NNP-VBZ-FW": 1,
+      "VBZ-FW-FW": 1,
+      "FW-FW-JJ": 4,
+      "FW-JJ-FW": 2,
+      "JJ-FW-JJ": 1,
+      "NNP-FW-NN": 1,
+      "NNS-VBP-VBN": 2,
+      "VBP-VBN-JJ": 3,
+      "VBN-JJ-NN": 1,
+      "NNS-VBP-FW": 2,
+      "VBP-FW-FW": 2,
+      "IN-CD-NNS": 2,
+      "CD-NNS-VBP": 1,
+      "NNS-VBP-IN": 1,
+      "VBP-IN-CD": 1,
+      "NNS-JJ-NNP": 1,
+      "JJ-NNP-NN": 2,
+      "IN-FW-JJ": 2,
+      "FW-JJ-NN": 2,
+      "NN-NN-VBP": 1,
+      "NN-VBP-JJ": 1,
+      "NNP-FW-FW": 2,
+      "FW-JJ-NNS": 2,
+      "JJ-NNS-NN": 1,
+      "NNS-NN-VBP": 1,
+      "NN-VBP-NN": 1,
+      "VBP-NN-FW": 1,
+      "NN-FW-NNP": 1,
+      "NN-VBZ-RB": 1,
+      "VBZ-RB-JJ": 1,
+      "RB-JJ-FW": 1,
+      "FW-JJ-NNP": 1,
+      "NNP-NN-FW": 1,
+      "FW-FW-VBP": 1,
+      "FW-VBP-VBN": 1,
+      "VBN-JJ-JJ": 1,
+      "JJ-NN-NNS": 1,
+      "NN-NNS-VBP": 2,
+      "VBN-JJ-FW": 1,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-CD": 1,
+      "VBZ-CD-NN": 1,
+      "CD-NN-NN": 1,
+      "NN-FW-NNS": 1,
+      "NNP-NNP-NNP": 2,
+      "NNP-NNP-FW": 1,
+      "JJ-NNS-NNP": 1,
+      "NNS-NNP-NNP": 1,
+      "NNP-NNP-IN": 1,
+      "NNP-IN-NNP": 1,
+      "IN-NNP-FW": 1,
+      "FW-NNP-CC": 1,
+      "NNP-CC-NN": 1,
+      "CC-NN-NNS": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "FW": 94,
+        "NN": 66,
+        "NNP": 28,
+        "JJ": 28,
+        "NNS": 16
+      },
+      "top_bigrams": {
+        "FW-FW": 62,
+        "NN-NN": 32,
+        "JJ-NN": 12,
+        "NN-FW": 12,
+        "NN-IN": 11
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 41,
+        "NN-NN-NN": 13,
+        "JJ-NN-NN": 9,
+        "NN-FW-FW": 9,
+        "FW-FW-NNP": 7
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 9,
+    "chunk_counts": {
+      "NP": 72,
+      "VP": 18,
+      "ADJP": 3,
+      "PP": 4
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 3,
+        "weight": 0.0283
+      },
+      {
+        "rule": "NP -> ('Gaza', 'NNP')",
+        "frequency": 3,
+        "weight": 0.0283
+      },
+      {
+        "rule": "NP -> ('Franja', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0189
+      },
+      {
+        "rule": "NP -> ('palestinos', 'NNS')",
+        "frequency": 2,
+        "weight": 0.0189
+      },
+      {
+        "rule": "S -> NP VP (',', ',') ADJP ('en', 'FW') ('el', 'FW') NP PP (',', ',') NP ('de', 'IN') ('la', 'FW') ('ciudad', 'FW') ('de', 'FW') NP (',', ',') ADJP ('objetivo', 'FW') ('de', 'FW') ('un', 'FW') NP ('la', 'FW') ('tarde', 'FW') ('de', 'FW') ('este', 'FW') NP (',', ',') NP NP ('de', 'IN') ('dos', 'FW') NP VP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0094
+      },
+      {
+        "rule": "NP -> ('La', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0094
+      },
+      {
+        "rule": "VP -> ('escuela', 'VBZ') NP",
+        "frequency": 1,
+        "weight": 0.0094
+      },
+      {
+        "rule": "NP -> ('Al-Falah', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0094
+      },
+      {
+        "rule": "ADJP -> ('ubicada', 'JJ')",
+        "frequency": 1,
+        "weight": 0.0094
+      },
+      {
+        "rule": "NP -> ('barrio', 'NN')",
+        "frequency": 1,
+        "weight": 0.0094
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "La"
+      },
+      {
+        "label": "VP",
+        "text": "escuela Al-Falah"
+      },
+      {
+        "label": "NP",
+        "text": "Al-Falah"
+      },
+      {
+        "label": "ADJP",
+        "text": "ubicada"
+      },
+      {
+        "label": "NP",
+        "text": "barrio"
+      },
+      {
+        "label": "PP",
+        "text": "de Zaytoun"
+      },
+      {
+        "label": "NP",
+        "text": "Zaytoun"
+      },
+      {
+        "label": "NP",
+        "text": "al sureste"
+      },
+      {
+        "label": "NP",
+        "text": "Gaza"
+      },
+      {
+        "label": "ADJP",
+        "text": "fue"
+      },
+      {
+        "label": "NP",
+        "text": "ataque aéreo israelí"
+      },
+      {
+        "label": "NP",
+        "text": "jueves"
+      },
+      {
+        "label": "NP",
+        "text": "que dejó"
+      },
+      {
+        "label": "NP",
+        "text": "un saldo"
+      },
+      {
+        "label": "NP",
+        "text": "civiles"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP La/NNP)\n  (VP escuela/VBZ (NP Al-Falah/NNP))\n  ,/,\n  (ADJP ubicada/JJ)\n  en/FW\n  el/FW\n  (NP barrio/NN)\n  (PP de/IN (NP Zaytoun/NNP))\n  ,/,\n  (NP al/JJ sureste/NN)\n  de/IN\n  la/FW\n  ciudad/FW\n  de/FW\n  (NP Gaza/NNP)\n  ,/,\n  (ADJP fue/JJ)\n  objetivo/FW\n  de/FW\n  un/FW\n  (NP ataque/NN aéreo/NN israelí/NN)\n  la/FW\n  tarde/FW\n  de/FW\n  este/FW\n  (NP jueves/NNS)\n  ,/,\n  (NP que/NN dejó/NN)\n  (NP un/JJ saldo/NN)\n  de/IN\n  dos/FW\n  (NP civiles/NNS)\n  (VP asesinados/VBP y/RB (NP cinco/JJ más/NN heridos/NN))\n  ./.)",
+      "(S\n  (NP Desde/NNP octubre/NN)\n  de/IN\n  2023/CD\n  ,/,\n  la/FW\n  agresión/FW\n  israelí/FW\n  en/FW\n  la/FW\n  (NP Franja/NNP)\n  de/FW\n  (NP Gaza/NNP ha/NN causado/NN)\n  la/FW\n  muerte/FW\n  de/FW\n  más/FW\n  de/FW\n  38.848/CD\n  (NP palestinos/NNS)\n  ,/,\n  la/FW\n  mayoría/FW\n  de/FW\n  ellos/FW\n  (NP mujeres/NNS)\n  (VP y/VBP niños/RB)\n  ./.)",
+      "(S\n  (NP Según/NNP datos/NN preliminares/NNS)\n  ,/,\n  (VP el/VBP (NP genocidios/NNS))\n  (VP israelí/VBP (NP ha/JJ causado/NN más/NN))\n  de/IN\n  89.459/CD\n  (NP heridos/NNS)\n  (NP y/JJ miles/NNS)\n  de/IN\n  personas/FW\n  (NP continúan/NN atrapadas/NN)\n  (PP en/IN (NP los/JJ escombros/NNS))\n  ./.)",
+      "(S\n  (NP Este/NN jueves/NNS)\n  ,/,\n  el/FW\n  primer/FW\n  ministro/FW\n  (NP israelí/NN)\n  ,/,\n  (NP Benjamín/NNP Netanyahu/NNP)\n  ,/,\n  (NP realizó/NN)\n  (NP una/JJ visita/NN)\n  (NP a/DT Rafah/NNP)\n  ,/,\n  en/FW\n  el/FW\n  sur/FW\n  de/FW\n  (NP Gaza/NNP)\n  ,/,\n  (NP por/NN primera/NN vez/NN desde/NN)\n  el/FW\n  inicio/FW\n  de/FW\n  la/FW\n  ofensiva/FW\n  (ADJP contra/JJ)\n  la/FW\n  (NP ciudad/NN)\n  el/FW\n  6/CD\n  (PP de/IN (NP mayo/NN))\n  ./.)",
+      "(S\n  (NP Rafah/NNP)\n  (VP se/VBD (NP ha/JJ convertido/NN))\n  en/FW\n  una/FW\n  de/FW\n  las/FW\n  (NP áreas/NNS)\n  (VP clave/VBP)\n  (VP de/VBN (NP una/JJ guerra/NN que/NN se/NN extiende/NN ya/NN))\n  más/FW\n  de/FW\n  nueve/FW\n  (NP meses/NNS)\n  ,/,\n  en/FW\n  la/FW\n  que/FW\n  han/FW\n  fallecido/FW\n  (NP alrededor/NN)\n  de/IN\n  39.000/CD\n  (NP palestinos/NNS)\n  (NP y/JJ alrededor/NN)\n  de/IN\n  326/CD\n  (NP soldados/JJ israelíes/NN)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "GRUPOS_ESPECIFICOS",
+      "RECURSOS_NATURALES",
+      "CANTIDADES_NUMERICAS",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "CRISIS_HUMANITARIA_SERVICIOS",
+      "INSTITUCIONES_EDUCATIVAS",
+      "PAISES",
+      "LOCALIZACIONES_ESPECIFICAS",
+      "CONFLICTOS_ARMADOS_OPERACIONES",
+      "INFRAESTRUCTURA_SERVICIOS"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "ataque aéreo",
+        "position": [
+          106,
+          118
+        ],
+        "start": 106,
+        "end": 118
+      },
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "guerra que se extiende ya más de nueve meses, en la",
+        "position": [
+          749,
+          800
+        ],
+        "start": 749,
+        "end": 800
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "anunció",
+        "position": [
+          1558,
+          1565
+        ],
+        "start": 1558,
+        "end": 1565
+      },
+      {
+        "category": "CRISIS_HUMANITARIA_SERVICIOS",
+        "matched_text": "falta de agua",
+        "position": [
+          1310,
+          1323
+        ],
+        "start": 1310,
+        "end": 1323
+      },
+      {
+        "category": "GRUPOS_ESPECIFICOS",
+        "matched_text": "mujeres",
+        "position": [
+          351,
+          358
+        ],
+        "start": 351,
+        "end": 358
+      },
+      {
+        "category": "INSTITUCIONES_EDUCATIVAS",
+        "matched_text": "escuela al",
+        "position": [
+          3,
+          13
+        ],
+        "start": 3,
+        "end": 13
+      },
+      {
+        "category": "RECURSOS_NATURALES",
+        "matched_text": "agua",
+        "position": [
+          1319,
+          1323
+        ],
+        "start": 1319,
+        "end": 1323
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "escuela",
+        "position": [
+          3,
+          10
+        ],
+        "start": 3,
+        "end": 10
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "israelí",
+        "position": [
+          119,
+          126
+        ],
+        "start": 119,
+        "end": 126
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "barrio de",
+        "position": [
+          35,
+          44
+        ],
+        "start": 35,
+        "end": 44
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "más de 38.848",
+        "position": [
+          305,
+          318
+        ],
+        "start": 305,
+        "end": 318
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "más de 89.459",
+        "position": [
+          427,
+          440
+        ],
+        "start": 427,
+        "end": 440
+      }
+    ],
+    "match_count": 12
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Franja de Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Zaytoun",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Ministerio de Salud de Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "A",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "MSF",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Franja",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Rafah",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Israel",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Médicos Sin Fronteras",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Benjamín Netanyahu",
+        "tipo": "Persona"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Benjamín Netanyahu",
+        "relacion": "REALIZAR",
+        "objeto": "Rafah"
+      },
+      {
+        "sujeto": "Benjamín Netanyahu",
+        "relacion": "REALIZAR",
+        "objeto": "Gaza"
+      },
+      {
+        "sujeto": "Ministerio de Salud de Gaza",
+        "relacion": "ANUNCIAR",
+        "objeto": "Franja"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.0772,
+    "pos": 0.041,
+    "neu": 0.923,
+    "neg": 0.035,
+    "label": "negative"
+  }
+}

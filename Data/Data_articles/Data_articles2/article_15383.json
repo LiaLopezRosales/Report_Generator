@@ -1,0 +1,609 @@
+{
+  "url": "https://www.telesurtv.net/cifra-de-muertos-por-alta-temperatura-en-peregrinacion-a-la-meca-aumenta-a-mas-de-1-300/",
+  "title": "Cifra de muertos por alta temperatura en peregrinación a La Meca aumenta a más de 1.300 - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Hach",
+    "Muertos",
+    "Ola de Calor",
+    "Peregrinación a La Meca"
+  ],
+  "text": "Más de 1.300 fieles musulmanes han muerto producto de golpes de calor en medio de la peregrinación anual a la ciudad de La Meca, en Arabia Saudí.\n\n“Por desgracia, el número de decesos llegó a 1.301, el 83 por ciento de los cuales no estaban autorizados para realizar el ‘hach’ y caminaron enormes distancias bajo el sol, sin la adecuada protección y comodidad”, reportó el domingo el Ministerio de Salud saudita.\nLas autoridades saudíes indicaron que alrededor de la mitad de los fallecidos son de nacionalidad egipcia.\nPor su parte, fuentes sanitarias y de seguridad egipcias informaron que al menos 672 fieles musulmanes egipcios fallecieron y 25 se encuentran desaparecidos, según los últimos recuentos.\nTambién advirtieron que la mayoría de los fallecidos viajaron de forma “irregular” para participar en la peregrinación a La Meca.\nEl Gobierno egipcio confirmó, sin embargo, que 31 peregrinos fallecidos viajaban en la misión oficial, pero reconoció que hay un “número elevado” de fieles muertos entre aquellos que accedieron a la ciudad santa sin estar registrados.\nLa peregrinación anual a la ciudad de La Meca de este año, en el que participaron alrededor dos millones de personas de distintos países del mundo ha estado marcada por las altas temperaturas, que han rozado los 52 grados c en Arabia Saudí.\nCada país va ofreciendo datos sobre los decesos entre los fieles musulmanes. Indonesia es el segundo país más afectado con 236 fallecidos, seguido por India (98 decesos), y Jordania, con 75 muertos, todos por “el calor extremo”.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/cifra-de-muertos-por-alta-temperatura-en-peregrinacion-a-la-meca-aumenta-a-mas-de-1-300/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-06.json",
+    "message_index": 257,
+    "message_id": 72486,
+    "date": "2024-06-24T06:55:07+00:00",
+    "text": "teleSUR\nCifra de muertos por alta temperatura en peregrinación a La Meca aumenta a más de 1.300\nhttps://www.telesurtv.net/cifra-de-muertos-por-alta-temperatura-en-peregrinacion-a-la-meca-aumenta-a-mas-de-1-300/",
+    "photo_path": null,
+    "views": 1405,
+    "reactions": {},
+    "total_reactions": 0
+  },
+  "preprocessing": {
+    "cleaned": "más de 1.300 fieles musulmanes han muerto producto de golpes de calor en medio de la peregrinación anual a la ciudad de la meca, en arabia saudí. “por desgracia, el número de decesos llegó a 1.301, el 83 por ciento de los cuales no estaban autorizados para realizar el ‘hach’ y caminaron enormes distancias bajo el sol, sin la adecuada protección y comodidad”, reportó el domingo el ministerio de salud saudita. las autoridades saudíes indicaron que alrededor de la mitad de los fallecidos son de nacionalidad egipcia. por su parte, fuentes sanitarias y de seguridad egipcias informaron que al menos 672 fieles musulmanes egipcios fallecieron y 25 se encuentran desaparecidos, según los últimos recuentos. también advirtieron que la mayoría de los fallecidos viajaron de forma “irregular” para participar en la peregrinación a la meca. el gobierno egipcio confirmó, sin embargo, que 31 peregrinos fallecidos viajaban en la misión oficial, pero reconoció que hay un “número elevado” de fieles muertos entre aquellos que accedieron a la ciudad santa sin estar registrados. la peregrinación anual a la ciudad de la meca de este año, en el que participaron alrededor dos millones de personas de distintos países del mundo ha estado marcada por las altas temperaturas, que han rozado los 52 grados c en arabia saudí. cada país va ofreciendo datos sobre los decesos entre los fieles musulmanes. indonesia es el segundo país más afectado con 236 fallecidos, seguido por india (98 decesos), y jordania, con 75 muertos, todos por “el calor extremo”.",
+    "tokens": [
+      "1.300",
+      "fieles",
+      "musulmanes",
+      "muerto",
+      "producto",
+      "golpes",
+      "calor",
+      "medio",
+      "peregrinación",
+      "anual",
+      "ciudad",
+      "meca",
+      ",",
+      "arabia",
+      "saudí",
+      ".",
+      "“",
+      "desgracia",
+      ",",
+      "número",
+      "decesos",
+      "llegó",
+      "1.301",
+      ",",
+      "83",
+      "ciento",
+      "cuales",
+      "autorizados",
+      "realizar",
+      "‘",
+      "hach",
+      "’",
+      "caminaron",
+      "enormes",
+      "distancias",
+      "bajo",
+      "sol",
+      ",",
+      "adecuada",
+      "protección",
+      "comodidad",
+      "”",
+      ",",
+      "reportó",
+      "domingo",
+      "ministerio",
+      "salud",
+      "saudita",
+      ".",
+      "autoridades",
+      "saudíes",
+      "indicaron",
+      "alrededor",
+      "mitad",
+      "fallecidos",
+      "nacionalidad",
+      "egipcia",
+      ".",
+      "parte",
+      ",",
+      "fuentes",
+      "sanitarias",
+      "seguridad",
+      "egipcias",
+      "informaron",
+      "menos",
+      "672",
+      "fieles",
+      "musulmanes",
+      "egipcios",
+      "fallecieron",
+      "25",
+      "encuentran",
+      "desaparecidos",
+      ",",
+      "según",
+      "últimos",
+      "recuentos",
+      ".",
+      "advirtieron",
+      "mayoría",
+      "fallecidos",
+      "viajaron",
+      "forma",
+      "“",
+      "irregular",
+      "”",
+      "participar",
+      "peregrinación",
+      "meca",
+      ".",
+      "gobierno",
+      "egipcio",
+      "confirmó",
+      ",",
+      "embargo",
+      ",",
+      "31",
+      "peregrinos",
+      "fallecidos",
+      "viajaban",
+      "misión",
+      "oficial",
+      ",",
+      "reconoció",
+      "“",
+      "número",
+      "elevado",
+      "”",
+      "fieles",
+      "muertos",
+      "aquellos",
+      "accedieron",
+      "ciudad",
+      "santa",
+      "registrados",
+      ".",
+      "peregrinación",
+      "anual",
+      "ciudad",
+      "meca",
+      "año",
+      ",",
+      "participaron",
+      "alrededor",
+      "dos",
+      "millones",
+      "personas",
+      "distintos",
+      "países",
+      "mundo",
+      "marcada",
+      "altas",
+      "temperaturas",
+      ",",
+      "rozado",
+      "52",
+      "grados",
+      "c",
+      "arabia",
+      "saudí",
+      ".",
+      "cada",
+      "país",
+      "va",
+      "ofreciendo",
+      "datos",
+      "decesos",
+      "fieles",
+      "musulmanes",
+      ".",
+      "indonesia",
+      "segundo",
+      "país",
+      "afectado",
+      "236",
+      "fallecidos",
+      ",",
+      "seguido",
+      "india",
+      "(",
+      "98",
+      "decesos",
+      ")",
+      ",",
+      "jordania",
+      ",",
+      "75",
+      "muertos",
+      ",",
+      "“",
+      "calor",
+      "extremo",
+      "”",
+      "."
+    ],
+    "token_count": 175,
+    "sentence_count": 9
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 25,
+      "FW": 49,
+      "CD": 10,
+      "NNS": 12,
+      "VBP": 10,
+      "JJ": 18,
+      "NN": 92,
+      "IN": 13,
+      "$": 2,
+      "CC": 1,
+      "VBZ": 5,
+      "DT": 1,
+      "VB": 1
+    },
+    "bigram_freq": {
+      "NNP-FW": 6,
+      "FW-CD": 1,
+      "CD-NNS": 2,
+      "NNS-NNS": 5,
+      "NNS-VBP": 5,
+      "VBP-JJ": 3,
+      "JJ-NN": 14,
+      "NN-IN": 11,
+      "IN-FW": 10,
+      "FW-FW": 25,
+      "FW-JJ": 7,
+      "NN-NN": 55,
+      "IN-NNP": 2,
+      "NNP-NNP": 9,
+      "FW-NNP": 7,
+      "NNP-NN": 6,
+      "FW-$": 1,
+      "$-CD": 2,
+      "CD-CC": 1,
+      "CC-CD": 1,
+      "CD-NN": 7,
+      "FW-VBZ": 2,
+      "VBZ-DT": 1,
+      "DT-JJ": 1,
+      "NN-VBP": 4,
+      "VBP-NN": 4,
+      "NN-VBZ": 3,
+      "VBZ-JJ": 2,
+      "NN-FW": 4,
+      "FW-NN": 6,
+      "NNP-NNS": 1,
+      "VBZ-FW": 2,
+      "VBP-$": 1,
+      "VBP-CD": 1,
+      "NN-NNP": 5,
+      "NN-CD": 3,
+      "NN-JJ": 3,
+      "JJ-JJ": 1,
+      "IN-NNS": 1,
+      "NNP-IN": 1,
+      "JJ-FW": 1,
+      "JJ-NNS": 1,
+      "NNS-IN": 1,
+      "NN-NNS": 2,
+      "NN-VB": 1,
+      "VB-JJ": 1,
+      "JJ-CD": 1,
+      "NNS-NNP": 1,
+      "NNP-VBP": 1,
+      "VBP-FW": 1,
+      "NNP-CD": 1
+    },
+    "trigram_freq": {
+      "NNP-FW-CD": 1,
+      "FW-CD-NNS": 1,
+      "CD-NNS-NNS": 2,
+      "NNS-NNS-VBP": 3,
+      "NNS-VBP-JJ": 3,
+      "VBP-JJ-NN": 3,
+      "JJ-NN-IN": 5,
+      "NN-IN-FW": 8,
+      "IN-FW-FW": 6,
+      "FW-FW-FW": 15,
+      "FW-FW-JJ": 4,
+      "FW-JJ-NN": 6,
+      "JJ-NN-NN": 8,
+      "NN-NN-IN": 6,
+      "NN-IN-NNP": 2,
+      "IN-NNP-NNP": 2,
+      "NNP-NNP-FW": 2,
+      "NNP-FW-NNP": 3,
+      "FW-NNP-NNP": 3,
+      "NNP-NNP-NNP": 4,
+      "NNP-NNP-NN": 2,
+      "NNP-NN-NN": 4,
+      "NN-NN-NN": 31,
+      "IN-FW-$": 1,
+      "FW-$-CD": 1,
+      "$-CD-CC": 1,
+      "CD-CC-CD": 1,
+      "CC-CD-NN": 1,
+      "CD-NN-NN": 4,
+      "IN-FW-VBZ": 1,
+      "FW-VBZ-DT": 1,
+      "VBZ-DT-JJ": 1,
+      "DT-JJ-NN": 1,
+      "NN-NN-VBP": 3,
+      "NN-VBP-NN": 3,
+      "VBP-NN-NN": 3,
+      "NN-NN-VBZ": 3,
+      "NN-VBZ-JJ": 2,
+      "VBZ-JJ-NN": 2,
+      "NN-NN-FW": 3,
+      "NN-FW-FW": 2,
+      "FW-FW-NN": 3,
+      "FW-NN-NN": 5,
+      "NN-FW-NNP": 2,
+      "FW-NNP-FW": 2,
+      "FW-NNP-NNS": 1,
+      "NNP-NNS-VBP": 1,
+      "NNS-VBP-NN": 1,
+      "FW-FW-NNP": 2,
+      "FW-NNP-NN": 1,
+      "NN-VBZ-FW": 1,
+      "VBZ-FW-FW": 1,
+      "FW-NN-VBP": 1,
+      "NN-VBP-$": 1,
+      "VBP-$-CD": 1,
+      "$-CD-NNS": 1,
+      "NNS-NNS-NNS": 1,
+      "NNS-VBP-CD": 1,
+      "VBP-CD-NN": 1,
+      "NN-NN-NNP": 3,
+      "NN-NNP-NN": 3,
+      "NNP-NN-NNP": 1,
+      "IN-FW-JJ": 2,
+      "NNP-FW-NN": 1,
+      "NN-NN-CD": 1,
+      "NN-CD-NN": 3,
+      "CD-NN-JJ": 1,
+      "NN-JJ-NN": 1,
+      "NN-NN-JJ": 2,
+      "NN-JJ-JJ": 1,
+      "JJ-JJ-NN": 1,
+      "NN-IN-NNS": 1,
+      "IN-NNS-NNS": 1,
+      "NN-NNP-FW": 1,
+      "NNP-FW-JJ": 1,
+      "NNP-NNP-IN": 1,
+      "NNP-IN-FW": 1,
+      "FW-JJ-FW": 1,
+      "JJ-FW-FW": 1,
+      "NN-JJ-NNS": 1,
+      "JJ-NNS-IN": 1,
+      "NNS-IN-FW": 1,
+      "FW-FW-VBZ": 1,
+      "FW-VBZ-FW": 1,
+      "VBZ-FW-NN": 1,
+      "NN-NN-NNS": 2,
+      "NN-NNS-VBP": 1,
+      "JJ-NN-VB": 1,
+      "NN-VB-JJ": 1,
+      "VB-JJ-CD": 1,
+      "JJ-CD-NN": 1,
+      "CD-NN-FW": 1,
+      "NN-NNS-NNS": 1,
+      "NNS-NNS-NNP": 1,
+      "NNS-NNP-VBP": 1,
+      "NNP-VBP-FW": 1,
+      "VBP-FW-NN": 1,
+      "VBP-NN-CD": 1,
+      "NN-NNP-CD": 1,
+      "NNP-CD-NN": 1,
+      "CD-NN-NNP": 1,
+      "NNP-NN-CD": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 92,
+        "FW": 49,
+        "NNP": 25,
+        "JJ": 18,
+        "IN": 13
+      },
+      "top_bigrams": {
+        "NN-NN": 55,
+        "FW-FW": 25,
+        "JJ-NN": 14,
+        "NN-IN": 11,
+        "IN-FW": 10
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 31,
+        "FW-FW-FW": 15,
+        "NN-IN-FW": 8,
+        "JJ-NN-NN": 8,
+        "IN-FW-FW": 6
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 9,
+    "chunk_counts": {
+      "NP": 60,
+      "VP": 16,
+      "ADJP": 3,
+      "PP": 5
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 3,
+        "weight": 0.0323
+      },
+      {
+        "rule": "NP -> ('La', 'NNP') ('Meca', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0215
+      },
+      {
+        "rule": "NP -> ('Arabia', 'NNP') ('Saudí', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0215
+      },
+      {
+        "rule": "NP -> ('con', 'NN')",
+        "frequency": 2,
+        "weight": 0.0215
+      },
+      {
+        "rule": "S -> NP ('de', 'FW') ('1.300', 'CD') NP VP ('de', 'IN') ('golpes', 'FW') ('de', 'FW') ('calor', 'FW') ('en', 'FW') ('medio', 'FW') ('de', 'FW') ('la', 'FW') ('peregrinación', 'FW') ('anual', 'FW') ('a', 'DT') ('la', 'FW') ('ciudad', 'FW') ('de', 'FW') NP (',', ',') ('en', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0108
+      },
+      {
+        "rule": "NP -> ('Más', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0108
+      },
+      {
+        "rule": "NP -> ('fieles', 'NNS') ('musulmanes', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0108
+      },
+      {
+        "rule": "VP -> ('han', 'VBP') NP",
+        "frequency": 1,
+        "weight": 0.0108
+      },
+      {
+        "rule": "NP -> ('muerto', 'JJ') ('producto', 'NN')",
+        "frequency": 1,
+        "weight": 0.0108
+      },
+      {
+        "rule": "S -> NP (',', ',') ADJP ('número', 'FW') ('de', 'FW') ('decesos', 'FW') VP ('a', 'DT') ('1.301', 'CD') (',', ',') ('el', 'RB') ('83', 'CD') NP ('de', 'IN') ('los', 'FW') VP VP (',', ',') NP PP (',', ',') NP ('el', 'FW') NP ('de', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0108
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Más"
+      },
+      {
+        "label": "NP",
+        "text": "fieles musulmanes"
+      },
+      {
+        "label": "VP",
+        "text": "han muerto producto"
+      },
+      {
+        "label": "NP",
+        "text": "muerto producto"
+      },
+      {
+        "label": "NP",
+        "text": "La Meca"
+      },
+      {
+        "label": "NP",
+        "text": "Arabia Saudí"
+      },
+      {
+        "label": "NP",
+        "text": "“ Por desgracia"
+      },
+      {
+        "label": "ADJP",
+        "text": "el"
+      },
+      {
+        "label": "VP",
+        "text": "llegó"
+      },
+      {
+        "label": "NP",
+        "text": "por ciento"
+      },
+      {
+        "label": "VP",
+        "text": "cuales no estaban autorizados para realizar el ‘ hach ’ y caminaron enormes"
+      },
+      {
+        "label": "NP",
+        "text": "no estaban autorizados para realizar el ‘ hach ’ y caminaron enormes"
+      },
+      {
+        "label": "VP",
+        "text": "distancias bajo el sol"
+      },
+      {
+        "label": "NP",
+        "text": "bajo el sol"
+      },
+      {
+        "label": "NP",
+        "text": "sin la"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Más/NNP)\n  de/FW\n  1.300/CD\n  (NP fieles/NNS musulmanes/NNS)\n  (VP han/VBP (NP muerto/JJ producto/NN))\n  de/IN\n  golpes/FW\n  de/FW\n  calor/FW\n  en/FW\n  medio/FW\n  de/FW\n  la/FW\n  peregrinación/FW\n  anual/FW\n  a/DT\n  la/FW\n  ciudad/FW\n  de/FW\n  (NP La/NNP Meca/NNP)\n  ,/,\n  en/FW\n  (NP Arabia/NNP Saudí/NNP)\n  ./.)",
+      "(S\n  (NP “/JJ Por/NNP desgracia/NN)\n  ,/,\n  (ADJP el/JJ)\n  número/FW\n  de/FW\n  decesos/FW\n  (VP llegó/VBZ)\n  a/DT\n  1.301/CD\n  ,/,\n  el/RB\n  83/CD\n  (NP por/JJ ciento/NN)\n  de/IN\n  los/FW\n  (VP\n    cuales/VBZ\n    (NP\n      no/DT\n      estaban/JJ\n      autorizados/NN\n      para/NN\n      realizar/NN\n      el/NN\n      ‘/NNP\n      hach/NN\n      ’/NNP\n      y/NNP\n      caminaron/NN\n      enormes/NNS))\n  (VP distancias/VBP (NP bajo/JJ el/NN sol/NN))\n  ,/,\n  (NP sin/NN la/NN)\n  (PP adecuada/IN (NP protección/NN y/NN comodidad/NN ”/NNP))\n  ,/,\n  (NP reportó/NN el/NN domingo/NN)\n  el/FW\n  (NP Ministerio/NNP)\n  de/FW\n  (NP Salud/NNP saudita/NN)\n  ./.)",
+      "(S\n  (NP Las/NNP)\n  (VP\n    autoridades/VBZ\n    (NP saudíes/JJ indicaron/NN que/NN alrededor/NN))\n  de/IN\n  la/FW\n  mitad/FW\n  de/FW\n  los/FW\n  (NP fallecidos/JJ son/NN)\n  de/IN\n  nacionalidad/FW\n  (NP egipcia/NN)\n  ./.)",
+      "(S\n  (NP Por/NNP su/NN parte/NN)\n  ,/,\n  (VP fuentes/VBZ sanitarias/JJ)\n  y/FW\n  de/FW\n  seguridad/FW\n  egipcias/FW\n  informaron/FW\n  (NP que/NN)\n  (VP al/VBP)\n  menos/$\n  672/CD\n  (NP fieles/NNS musulmanes/NNS egipcios/NNS)\n  (VP fallecieron/VBP y/RB)\n  25/CD\n  (NP se/NN encuentran/NN desaparecidos/NN)\n  ,/,\n  (NP según/JJ los/NN últimos/NNP recuentos/NN)\n  ./.)",
+      "(S\n  (NP También/NNP advirtieron/NN que/NN)\n  la/FW\n  mayoría/FW\n  de/FW\n  los/FW\n  (NP fallecidos/JJ viajaron/NN)\n  de/IN\n  forma/FW\n  “/FW\n  (NP irregular/JJ ”/NN para/NN participar/NN)\n  en/IN\n  la/FW\n  peregrinación/FW\n  (NP a/DT La/NNP Meca/NNP)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "CANTIDADES_NUMERICAS",
+      "ANTIIMPERIALISMO_SOBERANIA",
+      "REGIONES_PROVINCIAS"
+    ],
+    "matches": [
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "estado marcada",
+        "position": [
+          1222,
+          1236
+        ],
+        "start": 1222,
+        "end": 1236
+      },
+      {
+        "category": "ANTIIMPERIALISMO_SOBERANIA",
+        "matched_text": "embargo",
+        "position": [
+          871,
+          878
+        ],
+        "start": 871,
+        "end": 878
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "más de 1.300",
+        "position": [
+          0,
+          12
+        ],
+        "start": 0,
+        "end": 12
+      }
+    ],
+    "match_count": 3
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "India",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Jordania",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Ministerio de Salud saudita",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "La Meca",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Arabia Saudí",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Indonesia",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": []
+  },
+  "sentiment": {
+    "compound": -0.891,
+    "pos": 0.01,
+    "neu": 0.938,
+    "neg": 0.052,
+    "label": "negative"
+  }
+}
