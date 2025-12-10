@@ -1,0 +1,743 @@
+{
+  "url": "https://www.telesurtv.net/parlamento-libanes-convoca-a-sesion-presidencial-en-enero-de-2025/",
+  "title": "Parlamento libanés convoca a sesión presidencial en enero de 2025 - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Parlamento libanes",
+    "sesión presidencial"
+  ],
+  "text": "El presidente del Parlamento del Líbano, Nabih Berri, convocó este jueves, a una sesión parlamentaria prevista para el próximo 9 de enero de 2025, para elegir al nuevo presidente del país.\n“Hemos dado un plazo de un mes para llegar a un consenso entre nosotros e invitaré a los embajadores de países extranjeros a asistir”, manifestó Berri.\nEn una primera reunión tras el acuerdo de cese el fuego, los parlamentarios acordaron aceptar la ampliación del mandato del comandante del Ejército Joseph Aoun, luego de votar un proyecto legislativo para aumentar el cargo de general de brigada y superior por un año.\nEl Parlamento de Líbano celebró 12 sesiones presidenciales, desde que comenzó la escalada bélica de Israel y ningún candidato de la comunidad cristiana maronita, obtuvo el apoyo de la mayoría legislativa conformada por 128 miembros.\nLa Constitución, en su artículo 49, prevé que el presidente de la República es elegido en el primer ciclo de votaciones por mayoría de dos tercios de 86 diputados, y la mayoría absoluta (la mitad más uno) es suficiente en las siguientes sesiones si se alcanza el quórum en presencia de 86 representantes.\nDesde finales de septiembre del 2022, está vacante el escaño de la presidencia.\nEl martes pasado, Israel y Líbano acordaron un alto el fuego de 60 días, con el fin de detener la escalada bélica que se prolongaba desde hacía más de un año, y que se intensificó a finales de septiembre pasado.\n“El Líbano pudo derrotar la agresión del régimen sionista. Seguimos fieles a nuestra promesa a Seyyed Nasrallah”, manifestó presidente del Parlamento libanés.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/parlamento-libanes-convoca-a-sesion-presidencial-en-enero-de-2025/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-11.json",
+    "message_index": 114,
+    "message_id": 81375,
+    "date": "2024-11-28T22:55:15+00:00",
+    "text": "teleSUR\nParlamento libanés convoca a sesión presidencial en enero de 2025\nhttps://www.telesurtv.net/parlamento-libanes-convoca-a-sesion-presidencial-en-enero-de-2025/",
+    "photo_path": null,
+    "views": 2304,
+    "reactions": {
+      "👍": 16,
+      "🤔": 4,
+      "❤": 2
+    },
+    "total_reactions": 22
+  },
+  "preprocessing": {
+    "cleaned": "el presidente del parlamento del líbano, nabih berri, convocó este jueves, a una sesión parlamentaria prevista para el próximo 9 de enero de 2025, para elegir al nuevo presidente del país. “hemos dado un plazo de un mes para llegar a un consenso entre nosotros e invitaré a los embajadores de países extranjeros a asistir”, manifestó berri. en una primera reunión tras el acuerdo de cese el fuego, los parlamentarios acordaron aceptar la ampliación del mandato del comandante del ejército joseph aoun, luego de votar un proyecto legislativo para aumentar el cargo de general de brigada y superior por un año. el parlamento de líbano celebró 12 sesiones presidenciales, desde que comenzó la escalada bélica de israel y ningún candidato de la comunidad cristiana maronita, obtuvo el apoyo de la mayoría legislativa conformada por 128 miembros. la constitución, en su artículo 49, prevé que el presidente de la república es elegido en el primer ciclo de votaciones por mayoría de dos tercios de 86 diputados, y la mayoría absoluta (la mitad más uno) es suficiente en las siguientes sesiones si se alcanza el quórum en presencia de 86 representantes. desde finales de septiembre del 2022, está vacante el escaño de la presidencia. el martes pasado, israel y líbano acordaron un alto el fuego de 60 días, con el fin de detener la escalada bélica que se prolongaba desde hacía más de un año, y que se intensificó a finales de septiembre pasado. “el líbano pudo derrotar la agresión del régimen sionista. seguimos fieles a nuestra promesa a seyyed nasrallah”, manifestó presidente del parlamento libanés.",
+    "tokens": [
+      "presidente",
+      "parlamento",
+      "líbano",
+      ",",
+      "nabih",
+      "berri",
+      ",",
+      "convocó",
+      "jueves",
+      ",",
+      "sesión",
+      "parlamentaria",
+      "prevista",
+      "próximo",
+      "9",
+      "enero",
+      "2025",
+      ",",
+      "elegir",
+      "nuevo",
+      "presidente",
+      "país",
+      ".",
+      "“",
+      "dado",
+      "plazo",
+      "mes",
+      "llegar",
+      "consenso",
+      "invitaré",
+      "embajadores",
+      "países",
+      "extranjeros",
+      "asistir",
+      "”",
+      ",",
+      "manifestó",
+      "berri",
+      ".",
+      "primera",
+      "reunión",
+      "tras",
+      "acuerdo",
+      "cese",
+      "fuego",
+      ",",
+      "parlamentarios",
+      "acordaron",
+      "aceptar",
+      "ampliación",
+      "mandato",
+      "comandante",
+      "ejército",
+      "joseph",
+      "aoun",
+      ",",
+      "luego",
+      "votar",
+      "proyecto",
+      "legislativo",
+      "aumentar",
+      "cargo",
+      "general",
+      "brigada",
+      "superior",
+      "año",
+      ".",
+      "parlamento",
+      "líbano",
+      "celebró",
+      "12",
+      "sesiones",
+      "presidenciales",
+      ",",
+      "comenzó",
+      "escalada",
+      "bélica",
+      "israel",
+      "ningún",
+      "candidato",
+      "comunidad",
+      "cristiana",
+      "maronita",
+      ",",
+      "obtuvo",
+      "apoyo",
+      "mayoría",
+      "legislativa",
+      "conformada",
+      "128",
+      "miembros",
+      ".",
+      "constitución",
+      ",",
+      "artículo",
+      "49",
+      ",",
+      "prevé",
+      "presidente",
+      "república",
+      "elegido",
+      "primer",
+      "ciclo",
+      "votaciones",
+      "mayoría",
+      "dos",
+      "tercios",
+      "86",
+      "diputados",
+      ",",
+      "mayoría",
+      "absoluta",
+      "(",
+      "mitad",
+      ")",
+      "suficiente",
+      "siguientes",
+      "sesiones",
+      "si",
+      "alcanza",
+      "quórum",
+      "presencia",
+      "86",
+      "representantes",
+      ".",
+      "finales",
+      "septiembre",
+      "2022",
+      ",",
+      "vacante",
+      "escaño",
+      "presidencia",
+      ".",
+      "martes",
+      "pasado",
+      ",",
+      "israel",
+      "líbano",
+      "acordaron",
+      "alto",
+      "fuego",
+      "60",
+      "días",
+      ",",
+      "fin",
+      "detener",
+      "escalada",
+      "bélica",
+      "prolongaba",
+      "hacía",
+      "año",
+      ",",
+      "intensificó",
+      "finales",
+      "septiembre",
+      "pasado",
+      ".",
+      "“",
+      "líbano",
+      "pudo",
+      "derrotar",
+      "agresión",
+      "régimen",
+      "sionista",
+      ".",
+      "seguimos",
+      "fieles",
+      "promesa",
+      "seyyed",
+      "nasrallah",
+      "”",
+      ",",
+      "manifestó",
+      "presidente",
+      "parlamento",
+      "libanés",
+      "."
+    ],
+    "token_count": 177,
+    "sentence_count": 9
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 28,
+      "NN": 84,
+      "FW": 54,
+      "NNS": 17,
+      "JJ": 30,
+      "IN": 14,
+      "CD": 8,
+      "CC": 2,
+      "VBP": 8,
+      "VBZ": 3,
+      "VBD": 1,
+      "RB": 1
+    },
+    "bigram_freq": {
+      "NNP-NN": 7,
+      "NN-NN": 38,
+      "NN-NNP": 6,
+      "NNP-FW": 5,
+      "FW-NNP": 6,
+      "NNP-NNP": 10,
+      "NN-NNS": 3,
+      "NNS-JJ": 4,
+      "JJ-JJ": 4,
+      "JJ-NN": 18,
+      "NN-FW": 13,
+      "FW-NN": 13,
+      "FW-FW": 28,
+      "FW-IN": 1,
+      "IN-CD": 4,
+      "CD-NN": 4,
+      "NN-CC": 1,
+      "CC-NN": 2,
+      "NN-JJ": 8,
+      "NN-IN": 10,
+      "IN-JJ": 4,
+      "JJ-NNS": 4,
+      "NNS-VBP": 8,
+      "VBP-JJ": 5,
+      "NN-VBZ": 1,
+      "VBZ-FW": 2,
+      "FW-NNS": 3,
+      "NNP-JJ": 1,
+      "VBP-NN": 2,
+      "FW-JJ": 3,
+      "JJ-FW": 3,
+      "NNP-VBD": 1,
+      "VBD-CD": 1,
+      "CD-NNS": 3,
+      "NNS-NNS": 2,
+      "IN-NNP": 2,
+      "NNP-CC": 1,
+      "IN-FW": 3,
+      "NN-CD": 2,
+      "NN-RB": 1,
+      "RB-CD": 1,
+      "IN-NNS": 1,
+      "NNS-IN": 2,
+      "NNS-NNP": 1,
+      "NNP-VBZ": 2,
+      "VBZ-IN": 1,
+      "CD-JJ": 1,
+      "VBP-NNP": 1,
+      "NNP-NNS": 1,
+      "JJ-NNP": 1
+    },
+    "trigram_freq": {
+      "NNP-NN-NN": 4,
+      "NN-NN-NNP": 3,
+      "NN-NNP-FW": 1,
+      "NNP-FW-NNP": 2,
+      "FW-NNP-NNP": 2,
+      "NNP-NNP-NNP": 2,
+      "NNP-NNP-NN": 4,
+      "NN-NN-NNS": 2,
+      "NN-NNS-JJ": 1,
+      "NNS-JJ-JJ": 2,
+      "JJ-JJ-NN": 3,
+      "JJ-NN-NN": 12,
+      "NN-NN-NN": 17,
+      "NN-NN-FW": 8,
+      "NN-FW-NN": 5,
+      "FW-NN-FW": 5,
+      "NN-FW-FW": 7,
+      "FW-FW-IN": 1,
+      "FW-IN-CD": 1,
+      "IN-CD-NN": 1,
+      "CD-NN-CC": 1,
+      "NN-CC-NN": 1,
+      "CC-NN-JJ": 1,
+      "NN-JJ-NN": 6,
+      "NN-NNP-NN": 1,
+      "NNP-NN-JJ": 2,
+      "JJ-NN-IN": 1,
+      "NN-IN-JJ": 4,
+      "IN-JJ-NNS": 2,
+      "JJ-NNS-VBP": 3,
+      "NNS-VBP-JJ": 5,
+      "VBP-JJ-JJ": 1,
+      "NN-NN-JJ": 4,
+      "NN-JJ-JJ": 1,
+      "JJ-NN-VBZ": 1,
+      "NN-VBZ-FW": 1,
+      "VBZ-FW-NNS": 1,
+      "FW-NNS-VBP": 1,
+      "VBP-JJ-NN": 3,
+      "JJ-NN-NNP": 2,
+      "NN-NNP-NNP": 4,
+      "NNP-NNP-JJ": 1,
+      "NNP-JJ-NN": 1,
+      "NN-NNS-VBP": 2,
+      "NNS-VBP-NN": 2,
+      "VBP-NN-IN": 1,
+      "VBP-JJ-NNS": 1,
+      "VBP-NN-NN": 1,
+      "NNP-NNP-FW": 3,
+      "NNP-FW-FW": 1,
+      "FW-FW-FW": 14,
+      "FW-FW-JJ": 3,
+      "FW-JJ-NN": 3,
+      "FW-NN-IN": 4,
+      "IN-JJ-FW": 1,
+      "JJ-FW-FW": 2,
+      "JJ-NN-JJ": 1,
+      "FW-NNP-VBD": 1,
+      "NNP-VBD-CD": 1,
+      "VBD-CD-NNS": 1,
+      "CD-NNS-NNS": 1,
+      "NNS-NNS-VBP": 2,
+      "NN-IN-NNP": 1,
+      "IN-NNP-CC": 1,
+      "NNP-CC-NN": 1,
+      "CC-NN-IN": 1,
+      "NN-IN-FW": 2,
+      "IN-FW-FW": 3,
+      "FW-FW-NN": 5,
+      "FW-NN-NN": 2,
+      "NN-NN-CD": 1,
+      "NN-CD-NN": 2,
+      "CD-NN-NNP": 1,
+      "NNP-FW-NN": 2,
+      "FW-NN-RB": 1,
+      "NN-RB-CD": 1,
+      "RB-CD-NN": 1,
+      "CD-NN-NN": 2,
+      "FW-FW-NNP": 3,
+      "FW-NNP-FW": 1,
+      "NN-IN-NNS": 1,
+      "IN-NNS-JJ": 1,
+      "NNS-JJ-FW": 2,
+      "FW-FW-NNS": 2,
+      "FW-NNS-IN": 1,
+      "NNS-IN-CD": 1,
+      "IN-CD-NNS": 2,
+      "CD-NNS-JJ": 1,
+      "JJ-FW-NN": 1,
+      "FW-NNS-NNS": 1,
+      "NN-IN-CD": 2,
+      "CD-NNS-NNP": 1,
+      "NNS-NNP-VBZ": 1,
+      "NNP-VBZ-FW": 1,
+      "VBZ-FW-FW": 1,
+      "FW-NN-CD": 1,
+      "FW-NNP-VBZ": 1,
+      "NNP-VBZ-IN": 1,
+      "VBZ-IN-NNP": 1,
+      "IN-NNP-NNP": 1,
+      "NN-NN-IN": 3,
+      "IN-CD-JJ": 1,
+      "CD-JJ-NN": 1,
+      "IN-JJ-NN": 1,
+      "NN-JJ-NNS": 1,
+      "JJ-NNS-IN": 1,
+      "NNS-IN-FW": 1,
+      "JJ-NN-NNS": 1,
+      "NNS-VBP-NNP": 1,
+      "VBP-NNP-NNS": 1,
+      "NNP-NNS-JJ": 1,
+      "JJ-JJ-NNP": 1,
+      "JJ-NNP-NNP": 1,
+      "NN-FW-NNP": 1,
+      "FW-NNP-NN": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 84,
+        "FW": 54,
+        "JJ": 30,
+        "NNP": 28,
+        "NNS": 17
+      },
+      "top_bigrams": {
+        "NN-NN": 38,
+        "FW-FW": 28,
+        "JJ-NN": 18,
+        "NN-FW": 13,
+        "FW-NN": 13
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 17,
+        "FW-FW-FW": 14,
+        "JJ-NN-NN": 12,
+        "NN-NN-FW": 8,
+        "NN-FW-FW": 7
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 9,
+    "chunk_counts": {
+      "NP": 69,
+      "VP": 15,
+      "PP": 4,
+      "ADJP": 3
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 4,
+        "weight": 0.04
+      },
+      {
+        "rule": "NP -> ('un', 'JJ') ('año', 'NN')",
+        "frequency": 2,
+        "weight": 0.02
+      },
+      {
+        "rule": "S -> NP (',', ',') NP (',', ',') NP (',', ',') NP VP ('9', 'CD') ('de', 'FW') ('enero', 'FW') ('de', 'IN') ('2025', 'CD') (',', ',') ('para', 'FW') ('elegir', 'FW') ('al', 'FW') ('nuevo', 'FW') ('presidente', 'FW') ('del', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.01
+      },
+      {
+        "rule": "NP -> ('El', 'NNP') ('presidente', 'NN') ('del', 'NN') ('Parlamento', 'NNP') ('del', 'NN') ('Líbano', 'NNP')",
+        "frequency": 1,
+        "weight": 0.01
+      },
+      {
+        "rule": "NP -> ('Nabih', 'NNP') ('Berri', 'NNP')",
+        "frequency": 1,
+        "weight": 0.01
+      },
+      {
+        "rule": "NP -> ('convocó', 'NN') ('este', 'NN') ('jueves', 'NNS')",
+        "frequency": 1,
+        "weight": 0.01
+      },
+      {
+        "rule": "NP -> ('a', 'DT') ('una', 'JJ') ('sesión', 'NN') ('parlamentaria', 'NN') ('prevista', 'NN') ('para', 'NN')",
+        "frequency": 1,
+        "weight": 0.01
+      },
+      {
+        "rule": "VP -> ('el', 'VBP') ('próximo', 'JJ')",
+        "frequency": 1,
+        "weight": 0.01
+      },
+      {
+        "rule": "NP -> ('país', 'NN')",
+        "frequency": 1,
+        "weight": 0.01
+      },
+      {
+        "rule": "S -> NP NP PP VP VP VP VP VP (',', ',') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.01
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El presidente del Parlamento del Líbano"
+      },
+      {
+        "label": "NP",
+        "text": "Nabih Berri"
+      },
+      {
+        "label": "NP",
+        "text": "convocó este jueves"
+      },
+      {
+        "label": "NP",
+        "text": "a una sesión parlamentaria prevista para"
+      },
+      {
+        "label": "VP",
+        "text": "el próximo"
+      },
+      {
+        "label": "NP",
+        "text": "país"
+      },
+      {
+        "label": "NP",
+        "text": "“ Hemos dado"
+      },
+      {
+        "label": "NP",
+        "text": "un plazo"
+      },
+      {
+        "label": "PP",
+        "text": "de un mes"
+      },
+      {
+        "label": "NP",
+        "text": "un mes"
+      },
+      {
+        "label": "VP",
+        "text": "para"
+      },
+      {
+        "label": "VP",
+        "text": "llegar a un consenso entre nosotros e"
+      },
+      {
+        "label": "NP",
+        "text": "a un consenso entre"
+      },
+      {
+        "label": "NP",
+        "text": "nosotros e"
+      },
+      {
+        "label": "VP",
+        "text": "invitaré a los embajadores"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP El/NNP presidente/NN del/NN Parlamento/NNP del/NN Líbano/NNP)\n  ,/,\n  (NP Nabih/NNP Berri/NNP)\n  ,/,\n  (NP convocó/NN este/NN jueves/NNS)\n  ,/,\n  (NP a/DT una/JJ sesión/NN parlamentaria/NN prevista/NN para/NN)\n  (VP el/VBP próximo/JJ)\n  9/CD\n  de/FW\n  enero/FW\n  de/IN\n  2025/CD\n  ,/,\n  para/FW\n  elegir/FW\n  al/FW\n  nuevo/FW\n  presidente/FW\n  del/FW\n  (NP país/NN)\n  ./.)",
+      "(S\n  (NP “/JJ Hemos/NNP dado/NN)\n  (NP un/JJ plazo/NN)\n  (PP de/IN (NP un/JJ mes/NNS))\n  (VP para/VBP)\n  (VP\n    llegar/VBZ\n    (NP a/DT un/JJ consenso/NN entre/NN)\n    (NP nosotros/JJ e/NN))\n  (VP invitaré/VB (NP a/DT los/JJ embajadores/NNS))\n  (VP de/VBP (NP países/NNS))\n  (VP extranjeros/VBP (NP a/DT asistir/NN ”/NN))\n  ,/,\n  (NP manifestó/JJ Berri/NNP)\n  ./.)",
+      "(S\n  (NP En/NNP)\n  (NP una/JJ primera/NN reunión/NN tras/NNS)\n  (VP el/VBP (NP acuerdo/NN))\n  (PP de/IN (NP cese/JJ el/NN fuego/NN))\n  ,/,\n  (NP los/JJ parlamentarios/NNS)\n  (VP\n    acordaron/VBP\n    (NP aceptar/NN la/NN)\n    (NP\n      ampliación/JJ\n      del/NN\n      mandato/NN\n      del/NN\n      comandante/NN\n      del/NN\n      Ejército/NNP\n      Joseph/NNP\n      Aoun/NNP))\n  ,/,\n  (NP luego/NN)\n  de/FW\n  votar/FW\n  (NP un/JJ proyecto/NN legislativo/NN para/NN aumentar/NN)\n  el/FW\n  (NP cargo/NN)\n  de/IN\n  (ADJP general/JJ)\n  de/FW\n  brigada/FW\n  y/FW\n  (NP superior/JJ por/NN)\n  (NP un/JJ año/NN)\n  ./.)",
+      "(S\n  (NP El/NNP Parlamento/NNP)\n  de/FW\n  (NP Líbano/NNP)\n  (VP celebró/VBD)\n  12/CD\n  (NP sesiones/NNS presidenciales/NNS)\n  ,/,\n  (NP desde/NN que/NN comenzó/NN)\n  la/FW\n  escalada/FW\n  bélica/FW\n  de/FW\n  (NP Israel/NNP y/NNP)\n  ningún/FW\n  (NP candidato/NN)\n  de/IN\n  la/FW\n  comunidad/FW\n  (NP cristiana/NN maronita/NN)\n  ,/,\n  (ADJP obtuvo/JJ)\n  el/FW\n  apoyo/FW\n  de/FW\n  la/FW\n  mayoría/FW\n  legislativa/FW\n  (NP conformada/NN por/NN)\n  128/CD\n  (NP miembros/NN)\n  ./.)",
+      "(S\n  (NP La/NNP Constitución/NNP)\n  ,/,\n  en/FW\n  su/FW\n  artículo/RB\n  49/CD\n  ,/,\n  (NP prevé/NN que/NN)\n  el/FW\n  presidente/FW\n  de/FW\n  la/FW\n  (NP República/NNP)\n  es/FW\n  (NP elegido/NN)\n  en/FW\n  el/FW\n  primer/FW\n  (NP ciclo/NN)\n  (PP de/IN (NP votaciones/NNS))\n  (ADJP por/JJ)\n  mayoría/FW\n  de/FW\n  dos/FW\n  (NP tercios/NNS)\n  de/IN\n  86/CD\n  (NP diputados/NNS)\n  ,/,\n  y/CC\n  la/FW\n  mayoría/FW\n  absoluta/FW\n  (/(\n  la/FW\n  mitad/FW\n  más/FW\n  (NP uno/NN)\n  )/)\n  (NP es/NN suficiente/NN)\n  en/FW\n  las/FW\n  (NP siguientes/NNS sesiones/NNS)\n  (VP si/VBP (NP se/JJ alcanza/NN el/NN quórum/NN))\n  en/FW\n  (NP presencia/NN)\n  de/IN\n  86/CD\n  (NP representantes/NNS)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "GOBIERNOS_OFICIALES",
+      "FECHAS_ESPECIFICAS",
+      "LEYES_NORMATIVAS",
+      "CANTIDADES_NUMERICAS",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "PAISES",
+      "PROTESTAS_CONFLICTOS_SOCIALES",
+      "JURIDICO_LEGISLATIVO_CORRUPCION"
+    ],
+    "matches": [
+      {
+        "category": "PROTESTAS_CONFLICTOS_SOCIALES",
+        "matched_text": "manifestó",
+        "position": [
+          324,
+          333
+        ],
+        "start": 324,
+        "end": 333
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "candidato de la comunidad cristiana maronita, obtuvo el apoyo",
+        "position": [
+          725,
+          786
+        ],
+        "start": 725,
+        "end": 786
+      },
+      {
+        "category": "JURIDICO_LEGISLATIVO_CORRUPCION",
+        "matched_text": "sesión parlamentaria",
+        "position": [
+          81,
+          101
+        ],
+        "start": 81,
+        "end": 101
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente del parlamento",
+        "position": [
+          3,
+          28
+        ],
+        "start": 3,
+        "end": 28
+      },
+      {
+        "category": "LEYES_NORMATIVAS",
+        "matched_text": "constitución",
+        "position": [
+          845,
+          857
+        ],
+        "start": 845,
+        "end": 857
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "líbano",
+        "position": [
+          33,
+          39
+        ],
+        "start": 33,
+        "end": 39
+      },
+      {
+        "category": "FECHAS_ESPECIFICAS",
+        "matched_text": "9 de enero de 2025",
+        "position": [
+          127,
+          145
+        ],
+        "start": 127,
+        "end": 145
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "128 miembros",
+        "position": [
+          828,
+          840
+        ],
+        "start": 828,
+        "end": 840
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "86 diputados",
+        "position": [
+          992,
+          1004
+        ],
+        "start": 992,
+        "end": 1004
+      }
+    ],
+    "match_count": 9
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Parlamento libanés",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "La Constitución",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Parlamento del Líbano",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Parlamento de Líbano",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Nabih Berri",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Seyyed Nasrallah",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Líbano",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Israel",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Seguimos fieles a nuestra promesa",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Joseph Aoun",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "República",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "El Líbano",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Berri",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Parlamento de Líbano",
+        "relacion": "CELEBRAR",
+        "objeto": "Israel"
+      },
+      {
+        "sujeto": "La Constitución",
+        "relacion": "PREVER",
+        "objeto": "República"
+      },
+      {
+        "sujeto": "Seguimos fieles a nuestra promesa",
+        "relacion": "SEGUIR_MANIFESTAR",
+        "objeto": "Seyyed Nasrallah"
+      },
+      {
+        "sujeto": "Seguimos fieles a nuestra promesa",
+        "relacion": "SEGUIR_MANIFESTAR",
+        "objeto": "Parlamento libanés"
+      },
+      {
+        "sujeto": "Seyyed Nasrallah",
+        "relacion": "SEGUIR_MANIFESTAR",
+        "objeto": "Parlamento libanés"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.1779,
+    "pos": 0.014,
+    "neu": 0.966,
+    "neg": 0.02,
+    "label": "negative"
+  }
+}

@@ -1,0 +1,825 @@
+{
+  "url": "https://www.telesurtv.net/venezuela-rechaza-recrudecimiento-del-bloqueo-de-ee-uu-contra-cuba/",
+  "title": "Venezuela rechaza recrudecimiento del bloqueo de EE. UU. contra Cuba - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "bloqueo",
+    "Cuba",
+    "Estados Unidos",
+    "Sanciones",
+    "Venezuela"
+  ],
+  "text": "El Gobierno de la República Bolivariana de Venezuela expresó este martes su rotundo rechazo al reciente Memorando Presidencial emitido por Estados Unidos, mediante el cual se endurece aún más el bloqueo económico, financiero y comercial impuesto contra Cuba desde hace más de seis décadas.\nLEA TAMBIÉN\nPresidente cubano condena nuevo plan de EE.UU. contra su país\nA través de un comunicado oficial, Caracas denunció que esta política «retrógrada, inhumana y contraria al Derecho Internacional» constituye uno de los fracasos más evidentes de la estrategia exterior de Washington.\nDe acuerdo con la declaración, se trata de una agresión impulsada por «una clase política acomplejada» y llena de odio hacia una nación libre y soberana como lo es Cuba.\nVenezuela señaló que, una vez más, EE.UU. se aísla del consenso global, recordando que cada año la Asamblea General de la ONU vota abrumadoramente a favor de levantar las sanciones contra la isla.\nAsimismo, reiteró su inquebrantable apoyo al pueblo y Gobierno cubanos, convencido de que enfrentarán esta nueva embestida con dignidad, creatividad y valentía. Asimismo, auguró que este nuevo intento, al igual que los anteriores, fracasará.\nEl nuevo plan de Washington contempla medidas más agresivas, como la prohibición de viajes turísticos de ciudadanos estadounidenses a la isla y la aplicación de auditorías periódicas para garantizar el cumplimiento de esta restricción. Además, se exige registrar todas las operaciones vinculadas a viajes a Cuba por al menos cinco años.\nDesde la Casa Blanca se justificó la decisión como parte de una política de «máxima presión» para asfixiar financieramente a La Habana, destacando que se busca «infligir el mayor daño posible» a la economía cubana, aunque sin detallar nuevas sanciones específicas más allá de la reactivación de restricciones previas.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/venezuela-rechaza-recrudecimiento-del-bloqueo-de-ee-uu-contra-cuba/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-07.json",
+    "message_index": 2162,
+    "message_id": 97928,
+    "date": "2025-07-01T17:55:34+00:00",
+    "text": "teleSUR\nVenezuela rechaza recrudecimiento del bloqueo de EE. UU. contra Cuba\nhttps://www.telesurtv.net/venezuela-rechaza-recrudecimiento-del-bloqueo-de-ee-uu-contra-cuba/",
+    "photo_path": null,
+    "views": 1877,
+    "reactions": {
+      "👍": 44,
+      "🥰": 2,
+      "🤬": 2,
+      "❤": 1
+    },
+    "total_reactions": 49
+  },
+  "preprocessing": {
+    "cleaned": "el gobierno de la república bolivariana de venezuela expresó este martes su rotundo rechazo al reciente memorando presidencial emitido por estados unidos, mediante el cual se endurece aún más el bloqueo económico, financiero y comercial impuesto contra cuba desde hace más de seis décadas. a través de un comunicado oficial, caracas denunció que esta política «retrógrada, inhumana y contraria al derecho internacional» constituye uno de los fracasos más evidentes de la estrategia exterior de washington. de acuerdo con la declaración, se trata de una agresión impulsada por «una clase política acomplejada» y llena de odio hacia una nación libre y soberana como lo es cuba. venezuela señaló que, una vez más, ee.uu. se aísla del consenso global, recordando que cada año la asamblea general de la onu vota abrumadoramente a favor de levantar las sanciones contra la isla. asimismo, reiteró su inquebrantable apoyo al pueblo y gobierno cubanos, convencido de que enfrentarán esta nueva embestida con dignidad, creatividad y valentía. asimismo, auguró que este nuevo intento, al igual que los anteriores, fracasará. el nuevo plan de washington contempla medidas más agresivas, como la prohibición de viajes turísticos de ciudadanos estadounidenses a la isla y la aplicación de auditorías periódicas para garantizar el cumplimiento de esta restricción. además, se exige registrar todas las operaciones vinculadas a viajes a cuba por al menos cinco años. desde la casa blanca se justificó la decisión como parte de una política de «máxima presión» para asfixiar financieramente a la habana, destacando que se busca «infligir el mayor daño posible» a la economía cubana, aunque sin detallar nuevas sanciones específicas más allá de la reactivación de restricciones previas.",
+    "tokens": [
+      "gobierno",
+      "república",
+      "bolivariana",
+      "venezuela",
+      "expresó",
+      "martes",
+      "rotundo",
+      "rechazo",
+      "reciente",
+      "memorando",
+      "presidencial",
+      "emitido",
+      "unidos",
+      ",",
+      "mediante",
+      "endurece",
+      "aún",
+      "bloqueo",
+      "económico",
+      ",",
+      "financiero",
+      "comercial",
+      "impuesto",
+      "cuba",
+      "hace",
+      "seis",
+      "décadas",
+      ".",
+      "través",
+      "comunicado",
+      "oficial",
+      ",",
+      "caracas",
+      "denunció",
+      "política",
+      "«",
+      "retrógrada",
+      ",",
+      "inhumana",
+      "contraria",
+      "derecho",
+      "internacional",
+      "»",
+      "constituye",
+      "fracasos",
+      "evidentes",
+      "estrategia",
+      "exterior",
+      "washington",
+      ".",
+      "acuerdo",
+      "declaración",
+      ",",
+      "trata",
+      "agresión",
+      "impulsada",
+      "«",
+      "clase",
+      "política",
+      "acomplejada",
+      "»",
+      "llena",
+      "odio",
+      "hacia",
+      "nación",
+      "libre",
+      "soberana",
+      "cuba",
+      ".",
+      "venezuela",
+      "señaló",
+      ",",
+      "vez",
+      ",",
+      "ee.uu.",
+      "aísla",
+      "consenso",
+      "global",
+      ",",
+      "recordando",
+      "cada",
+      "año",
+      "asamblea",
+      "general",
+      "onu",
+      "vota",
+      "abrumadoramente",
+      "favor",
+      "levantar",
+      "sanciones",
+      "isla",
+      ".",
+      "asimismo",
+      ",",
+      "reiteró",
+      "inquebrantable",
+      "apoyo",
+      "pueblo",
+      "gobierno",
+      "cubanos",
+      ",",
+      "convencido",
+      "enfrentarán",
+      "nueva",
+      "embestida",
+      "dignidad",
+      ",",
+      "creatividad",
+      "valentía",
+      ".",
+      "asimismo",
+      ",",
+      "auguró",
+      "nuevo",
+      "intento",
+      ",",
+      "igual",
+      "anteriores",
+      ",",
+      "fracasará",
+      ".",
+      "nuevo",
+      "plan",
+      "washington",
+      "contempla",
+      "medidas",
+      "agresivas",
+      ",",
+      "prohibición",
+      "viajes",
+      "turísticos",
+      "ciudadanos",
+      "estadounidenses",
+      "isla",
+      "aplicación",
+      "auditorías",
+      "periódicas",
+      "garantizar",
+      "cumplimiento",
+      "restricción",
+      ".",
+      "además",
+      ",",
+      "exige",
+      "registrar",
+      "todas",
+      "operaciones",
+      "vinculadas",
+      "viajes",
+      "cuba",
+      "menos",
+      "cinco",
+      "años",
+      ".",
+      "casa",
+      "blanca",
+      "justificó",
+      "decisión",
+      "parte",
+      "política",
+      "«",
+      "máxima",
+      "presión",
+      "»",
+      "asfixiar",
+      "financieramente",
+      "habana",
+      ",",
+      "destacando",
+      "busca",
+      "«",
+      "infligir",
+      "mayor",
+      "daño",
+      "posible",
+      "»",
+      "economía",
+      "cubana",
+      ",",
+      "aunque",
+      "detallar",
+      "nuevas",
+      "sanciones",
+      "específicas",
+      "allá",
+      "reactivación",
+      "restricciones",
+      "previas",
+      "."
+    ],
+    "token_count": 189,
+    "sentence_count": 9
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 39,
+      "IN": 13,
+      "FW": 58,
+      "CC": 1,
+      "NN": 109,
+      "NNS": 11,
+      "VBP": 8,
+      "JJ": 28,
+      "VBZ": 3
+    },
+    "bigram_freq": {
+      "NNP-NNP": 14,
+      "NNP-IN": 1,
+      "IN-FW": 9,
+      "FW-NNP": 5,
+      "NNP-FW": 6,
+      "NNP-CC": 1,
+      "CC-NN": 1,
+      "NN-NNS": 4,
+      "NNS-VBP": 7,
+      "VBP-JJ": 6,
+      "JJ-NN": 18,
+      "NN-NN": 65,
+      "NN-NNP": 11,
+      "NNP-NN": 15,
+      "FW-JJ": 4,
+      "NN-VBP": 1,
+      "NN-IN": 11,
+      "FW-NNS": 3,
+      "NNS-NNP": 1,
+      "NN-JJ": 10,
+      "IN-NNP": 2,
+      "NNP-JJ": 1,
+      "IN-JJ": 2,
+      "JJ-JJ": 4,
+      "JJ-NNP": 4,
+      "NN-VBZ": 2,
+      "VBZ-IN": 1,
+      "FW-FW": 37,
+      "FW-NN": 9,
+      "NN-FW": 5,
+      "JJ-NNS": 1,
+      "NNP-VBZ": 1,
+      "VBZ-NN": 1,
+      "VBZ-JJ": 1,
+      "JJ-FW": 1,
+      "VBP-NNS": 1,
+      "NNS-NNS": 2,
+      "VBP-NNP": 1
+    },
+    "trigram_freq": {
+      "NNP-NNP-IN": 1,
+      "NNP-IN-FW": 1,
+      "IN-FW-NNP": 1,
+      "FW-NNP-NNP": 2,
+      "NNP-NNP-FW": 5,
+      "NNP-FW-NNP": 2,
+      "FW-NNP-CC": 1,
+      "NNP-CC-NN": 1,
+      "CC-NN-NNS": 1,
+      "NN-NNS-VBP": 4,
+      "NNS-VBP-JJ": 5,
+      "VBP-JJ-NN": 3,
+      "JJ-NN-NN": 11,
+      "NN-NN-NN": 35,
+      "NN-NN-NNP": 10,
+      "NN-NNP-NNP": 7,
+      "NNP-NNP-NN": 5,
+      "NNP-NN-NN": 14,
+      "NNP-NNP-NNP": 3,
+      "NNP-FW-JJ": 1,
+      "FW-JJ-NN": 3,
+      "NN-NN-VBP": 1,
+      "NN-VBP-JJ": 1,
+      "NN-NNP-NN": 3,
+      "NN-NN-IN": 6,
+      "NN-IN-FW": 7,
+      "IN-FW-NNS": 1,
+      "FW-NNS-NNP": 1,
+      "NNS-NNP-NNP": 1,
+      "NN-NN-JJ": 9,
+      "NN-JJ-NN": 9,
+      "JJ-NN-IN": 4,
+      "NN-IN-NNP": 2,
+      "IN-NNP-JJ": 1,
+      "NNP-JJ-NN": 1,
+      "NN-IN-JJ": 2,
+      "IN-JJ-JJ": 1,
+      "JJ-JJ-JJ": 1,
+      "JJ-JJ-NNP": 2,
+      "JJ-NNP-NN": 4,
+      "IN-FW-JJ": 2,
+      "JJ-NN-VBZ": 1,
+      "NN-VBZ-IN": 1,
+      "VBZ-IN-FW": 1,
+      "IN-FW-FW": 4,
+      "FW-FW-FW": 28,
+      "FW-FW-NNP": 2,
+      "NNP-FW-NN": 2,
+      "FW-NN-FW": 2,
+      "NN-FW-FW": 3,
+      "FW-FW-JJ": 1,
+      "IN-FW-NN": 1,
+      "FW-NN-JJ": 1,
+      "NN-JJ-JJ": 1,
+      "JJ-JJ-NN": 1,
+      "FW-NNP-NN": 1,
+      "FW-JJ-NNS": 1,
+      "JJ-NNS-VBP": 1,
+      "VBP-JJ-JJ": 1,
+      "NN-NNP-VBZ": 1,
+      "NNP-VBZ-NN": 1,
+      "VBZ-NN-IN": 1,
+      "FW-FW-NN": 4,
+      "FW-NN-NN": 5,
+      "NN-NN-FW": 2,
+      "NN-FW-NN": 2,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-JJ": 1,
+      "VBZ-JJ-NNP": 1,
+      "IN-NNP-NN": 1,
+      "FW-FW-NNS": 2,
+      "FW-NNS-VBP": 1,
+      "VBP-JJ-FW": 1,
+      "JJ-FW-FW": 1,
+      "FW-NNP-FW": 1,
+      "NNP-FW-FW": 1,
+      "FW-NN-NNS": 1,
+      "NNS-VBP-NNS": 1,
+      "VBP-NNS-NNS": 1,
+      "NNS-NNS-VBP": 1,
+      "NNS-VBP-NNP": 1,
+      "VBP-NNP-NN": 1,
+      "NN-NN-NNS": 1,
+      "VBP-JJ-NNP": 1,
+      "NNP-NN-NNP": 1,
+      "IN-JJ-NN": 1,
+      "JJ-NN-FW": 1,
+      "JJ-NN-NNS": 1,
+      "FW-NNS-NNS": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 109,
+        "FW": 58,
+        "NNP": 39,
+        "JJ": 28,
+        "IN": 13
+      },
+      "top_bigrams": {
+        "NN-NN": 65,
+        "FW-FW": 37,
+        "JJ-NN": 18,
+        "NNP-NN": 15,
+        "NNP-NNP": 14
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 35,
+        "FW-FW-FW": 28,
+        "NNP-NN-NN": 14,
+        "JJ-NN-NN": 11,
+        "NN-NN-NNP": 10
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 9,
+    "chunk_counts": {
+      "NP": 72,
+      "VP": 15,
+      "PP": 6,
+      "ADJP": 2
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 6,
+        "weight": 0.0577
+      },
+      {
+        "rule": "NP -> ('nuevo', 'JJ') ('plan', 'NN')",
+        "frequency": 2,
+        "weight": 0.0192
+      },
+      {
+        "rule": "NP -> ('EE.UU.', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0192
+      },
+      {
+        "rule": "NP -> ('Asimismo', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0192
+      },
+      {
+        "rule": "S -> NP ('de', 'IN') ('la', 'FW') NP ('de', 'FW') NP ('expresó', 'CC') NP VP (',', ',') NP ('el', 'FW') NP (',', ',') NP NP ('de', 'IN') ('seis', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0096
+      },
+      {
+        "rule": "NP -> ('El', 'NNP') ('Gobierno', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0096
+      },
+      {
+        "rule": "NP -> ('República', 'NNP') ('Bolivariana', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0096
+      },
+      {
+        "rule": "NP -> ('Venezuela', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0096
+      },
+      {
+        "rule": "NP -> ('este', 'NN') ('martes', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0096
+      },
+      {
+        "rule": "VP -> ('su', 'VBP') NP",
+        "frequency": 1,
+        "weight": 0.0096
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El Gobierno"
+      },
+      {
+        "label": "NP",
+        "text": "República Bolivariana"
+      },
+      {
+        "label": "NP",
+        "text": "Venezuela"
+      },
+      {
+        "label": "NP",
+        "text": "este martes"
+      },
+      {
+        "label": "VP",
+        "text": "su rotundo rechazo al reciente Memorando Presidencial emitido por Estados Unidos"
+      },
+      {
+        "label": "NP",
+        "text": "rotundo rechazo al reciente Memorando Presidencial emitido por Estados Unidos"
+      },
+      {
+        "label": "NP",
+        "text": "mediante"
+      },
+      {
+        "label": "NP",
+        "text": "cual se endurece aún más el bloqueo económico"
+      },
+      {
+        "label": "NP",
+        "text": "financiero y"
+      },
+      {
+        "label": "NP",
+        "text": "comercial impuesto contra Cuba desde hace más"
+      },
+      {
+        "label": "NP",
+        "text": "décadas"
+      },
+      {
+        "label": "NP",
+        "text": "LEA TAMBIÉN Presidente cubano condena"
+      },
+      {
+        "label": "NP",
+        "text": "nuevo plan"
+      },
+      {
+        "label": "PP",
+        "text": "de EE.UU."
+      },
+      {
+        "label": "NP",
+        "text": "EE.UU."
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP El/NNP Gobierno/NNP)\n  de/IN\n  la/FW\n  (NP República/NNP Bolivariana/NNP)\n  de/FW\n  (NP Venezuela/NNP)\n  expresó/CC\n  (NP este/NN martes/NNS)\n  (VP\n    su/VBP\n    (NP\n      rotundo/JJ\n      rechazo/NN\n      al/NN\n      reciente/NN\n      Memorando/NNP\n      Presidencial/NNP\n      emitido/NN\n      por/NN\n      Estados/NNP\n      Unidos/NNP))\n  ,/,\n  (NP mediante/NN)\n  el/FW\n  (NP\n    cual/JJ\n    se/NN\n    endurece/NN\n    aún/NN\n    más/NN\n    el/NN\n    bloqueo/NN\n    económico/NN)\n  ,/,\n  (NP financiero/NN y/NN)\n  (NP\n    comercial/JJ\n    impuesto/NN\n    contra/NN\n    Cuba/NNP\n    desde/NN\n    hace/NN\n    más/NN)\n  de/IN\n  seis/FW\n  (NP décadas/NNS)\n  ./.)",
+      "(S\n  (NP LEA/NNP TAMBIÉN/NNP Presidente/NNP cubano/NN condena/NN)\n  (NP nuevo/JJ plan/NN)\n  (PP de/IN (NP EE.UU./NNP))\n  (NP contra/JJ su/NN)\n  (VP país/VBZ (NP A/NNP través/NN))\n  (PP de/IN (NP un/JJ comunicado/NN oficial/NN))\n  ,/,\n  (NP Caracas/NNP)\n  (VP\n    denunció/VBZ\n    (NP que/JJ esta/NN política/NN «/NNP retrógrada/NN))\n  ,/,\n  (NP\n    inhumana/JJ\n    y/NN\n    contraria/NN\n    al/NN\n    Derecho/NNP\n    Internacional/NNP\n    »/NNP\n    constituye/NN\n    uno/NN)\n  de/IN\n  los/FW\n  (NP fracasos/JJ más/NN)\n  (VP evidentes/VBZ)\n  de/IN\n  la/FW\n  estrategia/FW\n  exterior/FW\n  de/FW\n  (NP Washington/NNP)\n  ./.)",
+      "(S\n  (NP De/NNP)\n  acuerdo/FW\n  (NP con/NN la/NN declaración/NN)\n  ,/,\n  (NP se/JJ trata/NN)\n  (PP de/IN (NP una/JJ agresión/NN impulsada/NN por/NN «/NNP))\n  (NP una/JJ clase/NN política/NN)\n  (VP acomplejada/VBP (NP »/NNP y/NNP))\n  llena/FW\n  de/FW\n  odio/FW\n  (NP hacia/NN)\n  (NP\n    una/JJ\n    nación/JJ\n    libre/NN\n    y/NN\n    soberana/NN\n    como/NN\n    lo/NN\n    es/NN\n    Cuba/NNP)\n  ./.)",
+      "(S\n  (NP Venezuela/NNP señaló/NN que/NN)\n  ,/,\n  (NP una/JJ vez/NN más/NN)\n  ,/,\n  (NP EE.UU./NNP)\n  se/FW\n  (NP aísla/NN del/NN consenso/NN)\n  (ADJP global/JJ)\n  ,/,\n  (NP\n    recordando/JJ\n    que/NN\n    cada/NN\n    año/NN\n    la/NN\n    Asamblea/NNP\n    General/NNP\n    de/NNP)\n  la/FW\n  (NP ONU/NNP vota/NN)\n  (VP abrumadoramente/VBZ (NP a/DT favor/NN))\n  de/IN\n  levantar/FW\n  (NP las/JJ sanciones/NNS)\n  (VP contra/VBP (NP la/JJ isla/NN))\n  ./.)",
+      "(S\n  (NP Asimismo/NNP)\n  ,/,\n  (NP reiteró/NN su/NN)\n  (NP\n    inquebrantable/JJ\n    apoyo/NN\n    al/NN\n    pueblo/NN\n    y/NN\n    Gobierno/NNP\n    cubanos/NN)\n  ,/,\n  (NP convencido/NN)\n  de/FW\n  que/FW\n  enfrentarán/FW\n  esta/FW\n  nueva/FW\n  embestida/FW\n  (NP con/NN dignidad/NN)\n  ,/,\n  (NP creatividad/NN y/NN valentía/NN)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "CIUDADES_CAPITALES",
+      "GOBIERNOS_OFICIALES",
+      "ORGANISMOS_INTERNACIONALES",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "ACCIONES_LEGALES",
+      "ANTIIMPERIALISMO_SOBERANIA",
+      "PAISES",
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "CONFLICTOS_ARMADOS_OPERACIONES",
+      "RELACIONES_INTERNACIONALES"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "bloqueo económico",
+        "position": [
+          195,
+          212
+        ],
+        "start": 195,
+        "end": 212
+      },
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "denunció que esta política «retrógrada, inhumana y contraria al",
+        "position": [
+          407,
+          470
+        ],
+        "start": 407,
+        "end": 470
+      },
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "impuesto",
+        "position": [
+          237,
+          245
+        ],
+        "start": 237,
+        "end": 245
+      },
+      {
+        "category": "RELACIONES_INTERNACIONALES",
+        "matched_text": "acuerdo con la declaración, se trata de una agresión impulsada por «una clase política acomplejada» y llena",
+        "position": [
+          583,
+          690
+        ],
+        "start": 583,
+        "end": 690
+      },
+      {
+        "category": "RELACIONES_INTERNACIONALES",
+        "matched_text": "apoyo al pueblo y gobierno",
+        "position": [
+          983,
+          1009
+        ],
+        "start": 983,
+        "end": 1009
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "expresó",
+        "position": [
+          53,
+          60
+        ],
+        "start": 53,
+        "end": 60
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "gobierno de la república",
+        "position": [
+          3,
+          27
+        ],
+        "start": 3,
+        "end": 27
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente cubano condena",
+        "position": [
+          302,
+          327
+        ],
+        "start": 302,
+        "end": 327
+      },
+      {
+        "category": "ORGANISMOS_INTERNACIONALES",
+        "matched_text": "onu",
+        "position": [
+          872,
+          875
+        ],
+        "start": 872,
+        "end": 875
+      },
+      {
+        "category": "ACCIONES_LEGALES",
+        "matched_text": "denunció",
+        "position": [
+          407,
+          415
+        ],
+        "start": 407,
+        "end": 415
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "cuba",
+        "position": [
+          253,
+          257
+        ],
+        "start": 253,
+        "end": 257
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "estados unidos",
+        "position": [
+          139,
+          153
+        ],
+        "start": 139,
+        "end": 153
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "venezuela",
+        "position": [
+          43,
+          52
+        ],
+        "start": 43,
+        "end": 52
+      },
+      {
+        "category": "CIUDADES_CAPITALES",
+        "matched_text": "la habana",
+        "position": [
+          1651,
+          1660
+        ],
+        "start": 1651,
+        "end": 1660
+      },
+      {
+        "category": "CIUDADES_CAPITALES",
+        "matched_text": "caracas",
+        "position": [
+          399,
+          406
+        ],
+        "start": 399,
+        "end": 406
+      },
+      {
+        "category": "ANTIIMPERIALISMO_SOBERANIA",
+        "matched_text": "bloqueo",
+        "position": [
+          195,
+          202
+        ],
+        "start": 195,
+        "end": 202
+      }
+    ],
+    "match_count": 16
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Asimismo",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "EE.UU.",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Venezuela",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Casa Blanca",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Washington",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Derecho Internacional",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Gobierno cubanos",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Estados Unidos",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Caracas",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Gobierno de la República Bolivariana de Venezuela",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Asamblea General de la ONU",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "La Habana",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Cuba",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Gobierno de la República Bolivariana de Venezuela",
+        "relacion": "EXPRESAR",
+        "objeto": "Estados Unidos"
+      },
+      {
+        "sujeto": "Gobierno de la República Bolivariana de Venezuela",
+        "relacion": "EXPRESAR",
+        "objeto": "Cuba"
+      },
+      {
+        "sujeto": "Caracas",
+        "relacion": "CONDENAR_DENUNCIAR",
+        "objeto": "EE.UU."
+      },
+      {
+        "sujeto": "EE.UU.",
+        "relacion": "CONDENAR_DENUNCIAR",
+        "objeto": "Derecho Internacional"
+      },
+      {
+        "sujeto": "EE.UU.",
+        "relacion": "CONDENAR_DENUNCIAR",
+        "objeto": "Washington"
+      },
+      {
+        "sujeto": "Caracas",
+        "relacion": "DENUNCIAR",
+        "objeto": "Derecho Internacional"
+      },
+      {
+        "sujeto": "Caracas",
+        "relacion": "DENUNCIAR",
+        "objeto": "Washington"
+      },
+      {
+        "sujeto": "Derecho Internacional",
+        "relacion": "CONSTITUIR_DENUNCIAR",
+        "objeto": "Washington"
+      },
+      {
+        "sujeto": "Venezuela",
+        "relacion": "SE_ALAR",
+        "objeto": "EE.UU."
+      },
+      {
+        "sujeto": "Venezuela",
+        "relacion": "SE_ALAR",
+        "objeto": "Asamblea General de la ONU"
+      },
+      {
+        "sujeto": "EE.UU.",
+        "relacion": "A_SLAR_SE_ALAR",
+        "objeto": "Asamblea General de la ONU"
+      },
+      {
+        "sujeto": "Casa Blanca",
+        "relacion": "JUSTIFICAR",
+        "objeto": "La Habana"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.2263,
+    "pos": 0.01,
+    "neu": 0.977,
+    "neg": 0.013,
+    "label": "negative"
+  }
+}

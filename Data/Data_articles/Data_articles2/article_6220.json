@@ -1,0 +1,766 @@
+{
+  "url": "https://www.telesurtv.net/genocidio-gaza-palestinos-asesinados-ocupacion-se-incrementa/",
+  "title": "Genocidio en Gaza: Palestinos asesinados por la ocupación aumentan a 58.026 - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Conflicto",
+    "conflicto destacado",
+    "exterminio",
+    "Gaza",
+    "genocidio",
+    "Sionismo"
+  ],
+  "text": "\nDe acuerdo con la autoridad sanitaria, un total de 139 civiles muertos llegaron a los hospitales de la Franja de Gaza durante las últimas 24 horas. Entre ellos se encontraban cinco que fueron recuperados en sitios inaccesibles y 425 heridos.\nLa cartera señaló que numerosas víctimas todavía están bajo los escombros y no se ha podido sacar sus restos o completar su rescate por falta de equipamiento adecuado para hacerlo de manera rápida.\nAñadieron que otros cuerpos se hallan en las carreteras y que las ambulancias y los equipos de rescate no pueden llegar a ellos, a menudo por los inclementes bombardeos de la ocupación.\nEntre los gazatíes reportados como fallecidos hay 7.450 personas asesinadas y 26.479 heridas desde el pasado 18 de marzo, cuando la ocupación rompió el alto el fuego con el movimiento de resistencia islámica Hamás y reanudó su campaña de exterminio contra la Franja de Gaza.\n\n\nOtra cifra preocupante que refiere la cartera de Salud es que ya suman 833 los gazatíes asesinados impunemente por los ocupantes mientras procuraban comida en los “centros de ayuda” creados por Israel y EE.UU. Los disparos de la ocupación en estos sitios, considerados trampas mortales, provocaron ya más 5.400 heridos. En las últimas 24 horas llegaron a las morgues 28 asesinados y más de 180 lesionados.\nEste sábado, en un punto de distribución de ayuda cerca de Rafah, al sur de Gaza, los ocupantes mataron al menos a 24 civiles palestinos a quienes la ocupación consideró “sospechosos” y una “amenaza” para sus tropas acantonadas allí.\nLos asesinatos de civiles continúan a pesar de que la ocupación negocia con Hamás un acuerdo de alto en fuego en la capital qatarí, Doha, bajo la mediación del país anfitrión, EE.UU. y Egipto.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/genocidio-gaza-palestinos-asesinados-ocupacion-se-incrementa/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-07.json",
+    "message_index": 1354,
+    "message_id": 98918,
+    "date": "2025-07-13T17:55:13+00:00",
+    "text": "teleSUR\nGenocidio en Gaza: Palestinos asesinados por la ocupación aumentan a 58.026\nhttps://www.telesurtv.net/genocidio-gaza-palestinos-asesinados-ocupacion-se-incrementa/",
+    "photo_path": null,
+    "views": 2153,
+    "reactions": {
+      "🤬": 50,
+      "😭": 7,
+      "❤": 1
+    },
+    "total_reactions": 58
+  },
+  "preprocessing": {
+    "cleaned": "de acuerdo con la autoridad sanitaria, un total de 139 civiles muertos llegaron a los hospitales de la franja de gaza durante las últimas 24 horas. entre ellos se encontraban cinco que fueron recuperados en sitios inaccesibles y 425 heridos. la cartera señaló que numerosas víctimas todavía están bajo los escombros y no se ha podido sacar sus restos o completar su rescate por falta de equipamiento adecuado para hacerlo de manera rápida. añadieron que otros cuerpos se hallan en las carreteras y que las ambulancias y los equipos de rescate no pueden llegar a ellos, a menudo por los inclementes bombardeos de la ocupación. entre los gazatíes reportados como fallecidos hay 7.450 personas asesinadas y 26.479 heridas desde el pasado 18 de marzo, cuando la ocupación rompió el alto el fuego con el movimiento de resistencia islámica hamás y reanudó su campaña de exterminio contra la franja de gaza. otra cifra preocupante que refiere la cartera de salud es que ya suman 833 los gazatíes asesinados impunemente por los ocupantes mientras procuraban comida en los “centros de ayuda” creados por israel y ee.uu. los disparos de la ocupación en estos sitios, considerados trampas mortales, provocaron ya más 5.400 heridos. en las últimas 24 horas llegaron a las morgues 28 asesinados y más de 180 lesionados. este sábado, en un punto de distribución de ayuda cerca de rafah, al sur de gaza, los ocupantes mataron al menos a 24 civiles palestinos a quienes la ocupación consideró “sospechosos” y una “amenaza” para sus tropas acantonadas allí. los asesinatos de civiles continúan a pesar de que la ocupación negocia con hamás un acuerdo de alto en fuego en la capital qatarí, doha, bajo la mediación del país anfitrión, ee.uu. y egipto.",
+    "tokens": [
+      "acuerdo",
+      "autoridad",
+      "sanitaria",
+      ",",
+      "total",
+      "139",
+      "civiles",
+      "muertos",
+      "llegaron",
+      "hospitales",
+      "franja",
+      "gaza",
+      "últimas",
+      "24",
+      "horas",
+      ".",
+      "encontraban",
+      "cinco",
+      "recuperados",
+      "sitios",
+      "inaccesibles",
+      "425",
+      "heridos",
+      ".",
+      "cartera",
+      "señaló",
+      "numerosas",
+      "víctimas",
+      "todavía",
+      "bajo",
+      "escombros",
+      "podido",
+      "sacar",
+      "restos",
+      "completar",
+      "rescate",
+      "falta",
+      "equipamiento",
+      "adecuado",
+      "hacerlo",
+      "manera",
+      "rápida",
+      ".",
+      "añadieron",
+      "cuerpos",
+      "hallan",
+      "carreteras",
+      "ambulancias",
+      "equipos",
+      "rescate",
+      "pueden",
+      "llegar",
+      ",",
+      "menudo",
+      "inclementes",
+      "bombardeos",
+      "ocupación",
+      ".",
+      "gazatíes",
+      "reportados",
+      "fallecidos",
+      "7.450",
+      "personas",
+      "asesinadas",
+      "26.479",
+      "heridas",
+      "pasado",
+      "18",
+      "marzo",
+      ",",
+      "ocupación",
+      "rompió",
+      "alto",
+      "fuego",
+      "movimiento",
+      "resistencia",
+      "islámica",
+      "hamás",
+      "reanudó",
+      "campaña",
+      "exterminio",
+      "franja",
+      "gaza",
+      ".",
+      "cifra",
+      "preocupante",
+      "refiere",
+      "cartera",
+      "salud",
+      "suman",
+      "833",
+      "gazatíes",
+      "asesinados",
+      "impunemente",
+      "ocupantes",
+      "mientras",
+      "procuraban",
+      "comida",
+      "“",
+      "centros",
+      "ayuda",
+      "”",
+      "creados",
+      "israel",
+      "ee.uu.",
+      "disparos",
+      "ocupación",
+      "sitios",
+      ",",
+      "considerados",
+      "trampas",
+      "mortales",
+      ",",
+      "provocaron",
+      "5.400",
+      "heridos",
+      ".",
+      "últimas",
+      "24",
+      "horas",
+      "llegaron",
+      "morgues",
+      "28",
+      "asesinados",
+      "180",
+      "lesionados",
+      ".",
+      "sábado",
+      ",",
+      "punto",
+      "distribución",
+      "ayuda",
+      "cerca",
+      "rafah",
+      ",",
+      "sur",
+      "gaza",
+      ",",
+      "ocupantes",
+      "mataron",
+      "menos",
+      "24",
+      "civiles",
+      "palestinos",
+      "ocupación",
+      "consideró",
+      "“",
+      "sospechosos",
+      "”",
+      "“",
+      "amenaza",
+      "”",
+      "tropas",
+      "acantonadas",
+      "allí",
+      ".",
+      "asesinatos",
+      "civiles",
+      "continúan",
+      "pesar",
+      "ocupación",
+      "negocia",
+      "hamás",
+      "acuerdo",
+      "alto",
+      "fuego",
+      "capital",
+      "qatarí",
+      ",",
+      "doha",
+      ",",
+      "bajo",
+      "mediación",
+      "país",
+      "anfitrión",
+      ",",
+      "ee.uu.",
+      "egipto",
+      "."
+    ],
+    "token_count": 179,
+    "sentence_count": 10
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 24,
+      "FW": 61,
+      "NN": 86,
+      "JJ": 29,
+      "IN": 16,
+      "CD": 12,
+      "NNS": 17,
+      "VBD": 3,
+      "$": 2,
+      "VBP": 8,
+      "VBZ": 6,
+      "DT": 2,
+      "RB": 3,
+      "CC": 1,
+      "RBS": 1
+    },
+    "bigram_freq": {
+      "NNP-FW": 6,
+      "FW-NN": 9,
+      "NN-FW": 7,
+      "FW-FW": 36,
+      "FW-JJ": 6,
+      "JJ-NN": 17,
+      "NN-IN": 15,
+      "IN-CD": 2,
+      "CD-NNS": 6,
+      "NNS-FW": 2,
+      "FW-NNP": 7,
+      "NNP-NN": 9,
+      "NN-VBD": 3,
+      "VBD-$": 1,
+      "$-CD": 2,
+      "NNS-NNP": 2,
+      "NNP-VBP": 1,
+      "VBP-JJ": 5,
+      "NN-NN": 45,
+      "IN-NNS": 1,
+      "NNS-NNS": 1,
+      "NNS-CD": 2,
+      "NN-JJ": 2,
+      "NN-VBZ": 5,
+      "VBZ-DT": 1,
+      "DT-JJ": 1,
+      "IN-FW": 8,
+      "NN-NNP": 5,
+      "NN-NNS": 2,
+      "NNS-VBP": 6,
+      "FW-NNS": 3,
+      "JJ-JJ": 2,
+      "IN-NN": 1,
+      "NN-DT": 1,
+      "DT-NN": 1,
+      "VBZ-FW": 1,
+      "VBD-JJ": 1,
+      "JJ-CD": 3,
+      "NNS-RB": 1,
+      "RB-CD": 1,
+      "NNS-JJ": 3,
+      "JJ-VBP": 1,
+      "CD-IN": 1,
+      "JJ-FW": 1,
+      "NNP-NNP": 4,
+      "NN-RB": 1,
+      "RB-JJ": 2,
+      "IN-NNP": 2,
+      "NNP-CC": 1,
+      "CC-JJ": 1,
+      "VBD-CD": 1,
+      "CD-NN": 3,
+      "VBZ-NNS": 1,
+      "IN-JJ": 2,
+      "VBP-NNP": 1,
+      "JJ-NNS": 3,
+      "VBP-RB": 1,
+      "NNP-VBZ": 1,
+      "VBZ-$": 1,
+      "VBZ-CD": 1,
+      "CD-JJ": 2,
+      "JJ-NNP": 2,
+      "VBZ-RBS": 1,
+      "RBS-JJ": 1,
+      "VBP-NN": 1,
+      "NNP-JJ": 1
+    },
+    "trigram_freq": {
+      "NNP-FW-NN": 2,
+      "FW-NN-FW": 2,
+      "NN-FW-FW": 6,
+      "FW-FW-FW": 25,
+      "FW-FW-JJ": 2,
+      "FW-JJ-NN": 5,
+      "JJ-NN-IN": 8,
+      "NN-IN-CD": 2,
+      "IN-CD-NNS": 1,
+      "CD-NNS-FW": 1,
+      "NNS-FW-FW": 2,
+      "FW-FW-NNP": 4,
+      "FW-NNP-FW": 4,
+      "NNP-FW-NNP": 2,
+      "FW-NNP-NN": 1,
+      "NNP-NN-VBD": 1,
+      "NN-VBD-$": 1,
+      "VBD-$-CD": 1,
+      "$-CD-NNS": 1,
+      "CD-NNS-NNP": 2,
+      "NNS-NNP-VBP": 1,
+      "NNP-VBP-JJ": 1,
+      "VBP-JJ-NN": 2,
+      "JJ-NN-NN": 7,
+      "NN-NN-NN": 28,
+      "NN-NN-IN": 5,
+      "NN-IN-NNS": 1,
+      "IN-NNS-NNS": 1,
+      "NNS-NNS-CD": 1,
+      "NNS-CD-NNS": 2,
+      "NNS-NNP-NN": 1,
+      "NNP-NN-NN": 5,
+      "NN-NN-JJ": 2,
+      "NN-JJ-NN": 2,
+      "NN-NN-VBZ": 4,
+      "NN-VBZ-DT": 1,
+      "VBZ-DT-JJ": 1,
+      "DT-JJ-NN": 1,
+      "NN-IN-FW": 7,
+      "IN-FW-JJ": 2,
+      "IN-FW-NN": 3,
+      "FW-NN-NNP": 3,
+      "NN-NNP-NN": 3,
+      "NNP-NN-NNS": 1,
+      "NN-NNS-VBP": 2,
+      "NNS-VBP-JJ": 3,
+      "IN-FW-NNS": 2,
+      "FW-NNS-VBP": 3,
+      "VBP-JJ-JJ": 1,
+      "JJ-JJ-JJ": 1,
+      "JJ-JJ-NN": 1,
+      "NN-IN-NN": 1,
+      "IN-NN-DT": 1,
+      "NN-DT-NN": 1,
+      "DT-NN-NN": 1,
+      "NN-VBZ-FW": 1,
+      "VBZ-FW-FW": 1,
+      "NNP-FW-JJ": 1,
+      "NN-NN-VBD": 1,
+      "NN-VBD-JJ": 1,
+      "VBD-JJ-CD": 1,
+      "JJ-CD-NNS": 1,
+      "CD-NNS-RB": 1,
+      "NNS-RB-CD": 1,
+      "RB-CD-NNS": 1,
+      "CD-NNS-JJ": 2,
+      "NNS-JJ-VBP": 1,
+      "JJ-VBP-JJ": 1,
+      "VBP-JJ-CD": 1,
+      "JJ-CD-IN": 1,
+      "CD-IN-FW": 1,
+      "NN-NN-FW": 2,
+      "FW-FW-NN": 4,
+      "FW-JJ-FW": 1,
+      "JJ-FW-NNP": 1,
+      "FW-NNP-NNP": 2,
+      "NNP-NNP-NN": 1,
+      "NN-NN-RB": 1,
+      "NN-RB-JJ": 1,
+      "RB-JJ-NN": 1,
+      "NN-IN-NNP": 2,
+      "IN-NNP-CC": 1,
+      "NNP-CC-JJ": 1,
+      "CC-JJ-NN": 1,
+      "JJ-NN-VBD": 1,
+      "NN-VBD-CD": 1,
+      "VBD-CD-NN": 1,
+      "CD-NN-NN": 2,
+      "NN-VBZ-NNS": 1,
+      "VBZ-NNS-JJ": 1,
+      "NNS-JJ-NN": 1,
+      "NN-IN-JJ": 2,
+      "IN-JJ-NN": 1,
+      "NNS-VBP-NNP": 1,
+      "VBP-NNP-NNP": 1,
+      "NNP-NNP-NNP": 1,
+      "NNP-NNP-FW": 1,
+      "NNP-FW-FW": 1,
+      "FW-FW-NNS": 1,
+      "VBP-JJ-NNS": 1,
+      "JJ-NNS-VBP": 1,
+      "NNS-VBP-RB": 1,
+      "VBP-RB-JJ": 1,
+      "RB-JJ-CD": 1,
+      "JJ-CD-NN": 1,
+      "CD-NN-NNP": 1,
+      "NN-NNP-VBZ": 1,
+      "NNP-VBZ-$": 1,
+      "VBZ-$-CD": 1,
+      "$-CD-NN": 1,
+      "NN-VBZ-CD": 1,
+      "VBZ-CD-JJ": 1,
+      "CD-JJ-NN": 1,
+      "IN-CD-JJ": 1,
+      "CD-JJ-NNP": 1,
+      "JJ-NNP-NN": 2,
+      "NNP-NN-FW": 1,
+      "NN-FW-JJ": 1,
+      "JJ-NN-FW": 1,
+      "FW-NN-IN": 2,
+      "IN-NNP-NN": 1,
+      "NNP-NN-VBZ": 1,
+      "NN-VBZ-RBS": 1,
+      "VBZ-RBS-JJ": 1,
+      "RBS-JJ-NNS": 1,
+      "JJ-NNS-CD": 1,
+      "NNS-JJ-NNS": 1,
+      "JJ-NNS-FW": 1,
+      "FW-NN-NN": 2,
+      "IN-JJ-NNP": 1,
+      "NN-NN-NNS": 1,
+      "NNS-VBP-NN": 1,
+      "VBP-NN-FW": 1,
+      "NN-NNP-JJ": 1,
+      "NNP-JJ-NN": 1,
+      "IN-FW-FW": 1,
+      "NN-NN-NNP": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 86,
+        "FW": 61,
+        "JJ": 29,
+        "NNP": 24,
+        "NNS": 17
+      },
+      "top_bigrams": {
+        "NN-NN": 45,
+        "FW-FW": 36,
+        "JJ-NN": 17,
+        "NN-IN": 15,
+        "FW-NN": 9
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 28,
+        "FW-FW-FW": 25,
+        "JJ-NN-IN": 8,
+        "JJ-NN-NN": 7,
+        "NN-IN-FW": 7
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 10,
+    "chunk_counts": {
+      "NP": 78,
+      "VP": 21,
+      "ADJP": 3,
+      "PP": 5
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 3,
+        "weight": 0.0256
+      },
+      {
+        "rule": "NP -> ('Franja', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0171
+      },
+      {
+        "rule": "NP -> ('Entre', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0171
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0171
+      },
+      {
+        "rule": "NP -> ('heridos', 'NN')",
+        "frequency": 2,
+        "weight": 0.0171
+      },
+      {
+        "rule": "NP -> ('Gaza', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0171
+      },
+      {
+        "rule": "S -> NP ('acuerdo', 'FW') NP ('la', 'FW') ('autoridad', 'FW') NP (',', ',') NP ('de', 'IN') ('139', 'CD') NP VP ('a', 'DT') ADJP ('hospitales', 'FW') ('de', 'FW') ('la', 'FW') NP ('de', 'FW') NP VP ('últimas', '$') ('24', 'CD') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0085
+      },
+      {
+        "rule": "NP -> ('De', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0085
+      },
+      {
+        "rule": "NP -> ('con', 'NN')",
+        "frequency": 1,
+        "weight": 0.0085
+      },
+      {
+        "rule": "NP -> ('sanitaria', 'NN')",
+        "frequency": 1,
+        "weight": 0.0085
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "De"
+      },
+      {
+        "label": "NP",
+        "text": "con"
+      },
+      {
+        "label": "NP",
+        "text": "sanitaria"
+      },
+      {
+        "label": "NP",
+        "text": "un total"
+      },
+      {
+        "label": "NP",
+        "text": "civiles muertos"
+      },
+      {
+        "label": "VP",
+        "text": "llegaron"
+      },
+      {
+        "label": "ADJP",
+        "text": "los"
+      },
+      {
+        "label": "NP",
+        "text": "Franja"
+      },
+      {
+        "label": "NP",
+        "text": "Gaza durante"
+      },
+      {
+        "label": "VP",
+        "text": "las"
+      },
+      {
+        "label": "NP",
+        "text": "horas"
+      },
+      {
+        "label": "NP",
+        "text": "Entre"
+      },
+      {
+        "label": "NP",
+        "text": "se encontraban cinco que fueron recuperados"
+      },
+      {
+        "label": "PP",
+        "text": "en sitios inaccesibles"
+      },
+      {
+        "label": "NP",
+        "text": "sitios inaccesibles"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP De/NNP)\n  acuerdo/FW\n  (NP con/NN)\n  la/FW\n  autoridad/FW\n  (NP sanitaria/NN)\n  ,/,\n  (NP un/JJ total/NN)\n  de/IN\n  139/CD\n  (NP civiles/NNS muertos/NNS)\n  (VP llegaron/VBP)\n  a/DT\n  (ADJP los/JJ)\n  hospitales/FW\n  de/FW\n  la/FW\n  (NP Franja/NNP)\n  de/FW\n  (NP Gaza/NNP durante/NN)\n  (VP las/VBD)\n  últimas/$\n  24/CD\n  (NP horas/NN)\n  ./.)",
+      "(S\n  (NP Entre/NNP)\n  ellos/CC\n  (NP se/JJ encontraban/NN cinco/NN que/NN fueron/NN recuperados/NN)\n  (PP en/IN (NP sitios/NNS inaccesibles/NNS))\n  y/RB\n  425/CD\n  (NP heridos/NN)\n  ./.)",
+      "(S\n  (NP La/NNP cartera/NN señaló/NN que/NN)\n  (NP numerosas/JJ víctimas/NN todavía/NN están/NN bajo/NN los/NN)\n  (NP escombros/JJ y/NN)\n  (NP\n    no/DT\n    se/NN\n    ha/NN\n    podido/NN\n    sacar/NN\n    sus/NN\n    restos/NN\n    o/NN\n    completar/NN\n    su/NN\n    rescate/NN\n    por/NN\n    falta/NN)\n  de/IN\n  equipamiento/FW\n  (NP adecuado/JJ para/NN hacerlo/NN)\n  de/IN\n  manera/FW\n  (NP rápida/NN)\n  ./.)",
+      "(S\n  (NP Añadieron/NNP que/NN otros/NNS)\n  (VP cuerpos/VBP (NP se/JJ hallan/NN))\n  en/IN\n  las/FW\n  (NP carreteras/NNS)\n  (VP y/VBP (NP que/JJ las/NNS))\n  (VP ambulancias/VBP (NP y/JJ los/JJ equipos/NN))\n  (PP de/IN (NP rescate/NN))\n  (NP no/DT pueden/NN)\n  (VP llegar/VBZ (NP a/DT ellos/NN))\n  ,/,\n  (NP a/DT menudo/NN por/NN los/NN)\n  (VP inclementes/VBZ)\n  bombardeos/FW\n  de/FW\n  la/FW\n  ocupación/FW\n  ./.)",
+      "(S\n  (NP Entre/NNP)\n  (VP los/VBZ (NP gazatíes/JJ reportados/NN como/NN))\n  (VP fallecidos/VBD hay/JJ)\n  7.450/CD\n  (NP personas/NNS)\n  (VP asesinadas/VBP y/RB)\n  26.479/CD\n  (NP heridas/NNS)\n  (ADJP desde/JJ)\n  (VP el/VBP pasado/JJ)\n  18/CD\n  de/FW\n  marzo/FW\n  ,/,\n  (NP cuando/NN la/NN)\n  ocupación/FW\n  (NP rompió/NN)\n  el/FW\n  (NP alto/NN el/NN)\n  (NP fuego/JJ con/NN el/NN)\n  movimiento/FW\n  de/FW\n  resistencia/FW\n  (NP islámica/NN Hamás/NNP y/NNP reanudó/NN su/NN campaña/NN)\n  de/IN\n  exterminio/FW\n  (ADJP contra/JJ)\n  la/FW\n  (NP Franja/NNP)\n  de/FW\n  (NP Gaza/NNP)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "LEYES_NORMATIVAS",
+      "CANTIDADES_NUMERICAS",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "RELACIONES_INTERNACIONALES"
+    ],
+    "matches": [
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "ocupación",
+        "position": [
+          616,
+          625
+        ],
+        "start": 616,
+        "end": 625
+      },
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "capital",
+        "position": [
+          1660,
+          1667
+        ],
+        "start": 1660,
+        "end": 1667
+      },
+      {
+        "category": "RELACIONES_INTERNACIONALES",
+        "matched_text": "acuerdo con la autoridad sanitaria, un total de 139 civiles muertos llegaron a los hospitales de la franja de gaza durante las últimas 24 horas. entre ellos se encontraban cinco que fueron recuperados en sitios inaccesibles y 425 heridos",
+        "position": [
+          4,
+          241
+        ],
+        "start": 4,
+        "end": 241
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "señaló",
+        "position": [
+          254,
+          260
+        ],
+        "start": 254,
+        "end": 260
+      },
+      {
+        "category": "LEYES_NORMATIVAS",
+        "matched_text": "acuerdo con la autoridad sanitaria, un total de 139",
+        "position": [
+          4,
+          55
+        ],
+        "start": 4,
+        "end": 55
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "450 personas",
+        "position": [
+          679,
+          691
+        ],
+        "start": 679,
+        "end": 691
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "7.450 personas",
+        "position": [
+          677,
+          691
+        ],
+        "start": 677,
+        "end": 691
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "más de 180",
+        "position": [
+          1287,
+          1297
+        ],
+        "start": 1287,
+        "end": 1297
+      }
+    ],
+    "match_count": 8
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Doha",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Franja de Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "EE.UU.",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Hamás",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Egipto",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Rafah",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Israel",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Salud",
+        "tipo": "Organizacion"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Hamás",
+        "relacion": "ROMPER_HABER",
+        "objeto": "Franja de Gaza"
+      },
+      {
+        "sujeto": "Salud",
+        "relacion": "REFERIR_SER",
+        "objeto": "Israel"
+      },
+      {
+        "sujeto": "Salud",
+        "relacion": "REFERIR_SER",
+        "objeto": "EE.UU."
+      },
+      {
+        "sujeto": "Hamás",
+        "relacion": "NEGOCIAR_CONTINUAR",
+        "objeto": "Doha"
+      },
+      {
+        "sujeto": "Hamás",
+        "relacion": "NEGOCIAR_CONTINUAR",
+        "objeto": "EE.UU."
+      },
+      {
+        "sujeto": "Hamás",
+        "relacion": "NEGOCIAR_CONTINUAR",
+        "objeto": "Egipto"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.25,
+    "pos": 0.009,
+    "neu": 0.975,
+    "neg": 0.016,
+    "label": "negative"
+  }
+}

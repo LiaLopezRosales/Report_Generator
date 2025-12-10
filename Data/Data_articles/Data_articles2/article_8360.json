@@ -1,0 +1,861 @@
+{
+  "url": "https://www.telesurtv.net/presidente-de-cuba-visita-zona-afectada-por-sismos/",
+  "title": "Presidente de Cuba visita zona afectada por sismos - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "Cuba",
+    "Díaz-Canel",
+    "Sismos"
+  ],
+  "text": "Como parte de las acciones del gobierno para evaluar los daños y el proceso de recuperación, el presidente cubano Miguel Díaz-Canel visitó este viernes el municipio de Pilón, en la provincia de Granma, el más afectado por los sismos que sacudieron el domingo pasado a esa región oriental del país.\nEl objetivo de la visita incluyó conocer el estado anímico de los pobladores y exhortarlos a considerar este evento excepcional como una oportunidad de aprendizaje para afrontar futuros desastres naturales, según informó la Presidencia en la red social X.\nAcompañaron al mandatario en su recorrido Roberto Morales Ojeda, miembro del Buró Político y secretario de Organización del Comité Central del Partido Comunista de Cuba (PCC); Jorge Luis Broche Lorenzo, integrante del Secretariado del Consejo de Estado; y Eduardo Martínez Díaz, viceprimer ministro.\nTambién participaron el general de división Ramón Pardo Guerra, jefe del Estado Mayor de la Defensa Civil; Yudelkis Ortiz Barceló, primera secretaria del PCC en Granma; Yanetsy Terry Gutiérrez, gobernadora de Granma; y otras autoridades municipales.\nDíaz-Canel visitó el Hospital Comandante Félix Lugones Ramírez, que sufrió daños en algunas salas y atendió a diez personas lesionadas tras los sismos.\nTambién recorrió el seminternado Augusto César Sandino, cuya estructura resultó completamente afectada, obligando a que sus más de 500 alumnos reciban clases en casas de familias hasta que se repare el edificio.\nTras la visita, se estimó que los sismos, el primero de magnitud 6 y el segundo de magnitud 6.7, causaron daños en aproximadamente 8.000 viviendas en toda la provincia de Granma; además de Pilón, otros siete municipios resultaron afectados.\nEl servicio eléctrico se restableció en 24 horas gracias al apoyo de brigadas de otras provincias.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/presidente-de-cuba-visita-zona-afectada-por-sismos/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-11.json",
+    "message_index": 912,
+    "message_id": 80524,
+    "date": "2024-11-16T07:55:07+00:00",
+    "text": "teleSUR\nPresidente de Cuba visita zona afectada por sismos\nhttps://www.telesurtv.net/presidente-de-cuba-visita-zona-afectada-por-sismos/",
+    "photo_path": null,
+    "views": 2499,
+    "reactions": {
+      "👍": 38,
+      "👏": 10,
+      "🤔": 1
+    },
+    "total_reactions": 49
+  },
+  "preprocessing": {
+    "cleaned": "como parte de las acciones del gobierno para evaluar los daños y el proceso de recuperación, el presidente cubano miguel díaz-canel visitó este viernes el municipio de pilón, en la provincia de granma, el más afectado por los sismos que sacudieron el domingo pasado a esa región oriental del país. el objetivo de la visita incluyó conocer el estado anímico de los pobladores y exhortarlos a considerar este evento excepcional como una oportunidad de aprendizaje para afrontar futuros desastres naturales, según informó la presidencia en la red social x. acompañaron al mandatario en su recorrido roberto morales ojeda, miembro del buró político y secretario de organización del comité central del partido comunista de cuba (pcc); jorge luis broche lorenzo, integrante del secretariado del consejo de estado; y eduardo martínez díaz, viceprimer ministro. también participaron el general de división ramón pardo guerra, jefe del estado mayor de la defensa civil; yudelkis ortiz barceló, primera secretaria del pcc en granma; yanetsy terry gutiérrez, gobernadora de granma; y otras autoridades municipales. díaz-canel visitó el hospital comandante félix lugones ramírez, que sufrió daños en algunas salas y atendió a diez personas lesionadas tras los sismos. también recorrió el seminternado augusto césar sandino, cuya estructura resultó completamente afectada, obligando a que sus más de 500 alumnos reciban clases en casas de familias hasta que se repare el edificio. tras la visita, se estimó que los sismos, el primero de magnitud 6 y el segundo de magnitud 6.7, causaron daños en aproximadamente 8.000 viviendas en toda la provincia de granma; además de pilón, otros siete municipios resultaron afectados. el servicio eléctrico se restableció en 24 horas gracias al apoyo de brigadas de otras provincias.",
+    "tokens": [
+      "parte",
+      "acciones",
+      "gobierno",
+      "evaluar",
+      "daños",
+      "proceso",
+      "recuperación",
+      ",",
+      "presidente",
+      "cubano",
+      "miguel",
+      "díaz-canel",
+      "visitó",
+      "viernes",
+      "municipio",
+      "pilón",
+      ",",
+      "provincia",
+      "granma",
+      ",",
+      "afectado",
+      "sismos",
+      "sacudieron",
+      "domingo",
+      "pasado",
+      "región",
+      "oriental",
+      "país",
+      ".",
+      "objetivo",
+      "visita",
+      "incluyó",
+      "conocer",
+      "anímico",
+      "pobladores",
+      "exhortarlos",
+      "considerar",
+      "evento",
+      "excepcional",
+      "oportunidad",
+      "aprendizaje",
+      "afrontar",
+      "futuros",
+      "desastres",
+      "naturales",
+      ",",
+      "según",
+      "informó",
+      "presidencia",
+      "red",
+      "social",
+      "x.",
+      "acompañaron",
+      "mandatario",
+      "recorrido",
+      "roberto",
+      "morales",
+      "ojeda",
+      ",",
+      "miembro",
+      "buró",
+      "político",
+      "secretario",
+      "organización",
+      "comité",
+      "central",
+      "partido",
+      "comunista",
+      "cuba",
+      "(",
+      "pcc",
+      ")",
+      ";",
+      "jorge",
+      "luis",
+      "broche",
+      "lorenzo",
+      ",",
+      "integrante",
+      "secretariado",
+      "consejo",
+      ";",
+      "eduardo",
+      "martínez",
+      "díaz",
+      ",",
+      "viceprimer",
+      "ministro",
+      ".",
+      "participaron",
+      "general",
+      "división",
+      "ramón",
+      "pardo",
+      "guerra",
+      ",",
+      "jefe",
+      "mayor",
+      "defensa",
+      "civil",
+      ";",
+      "yudelkis",
+      "ortiz",
+      "barceló",
+      ",",
+      "primera",
+      "secretaria",
+      "pcc",
+      "granma",
+      ";",
+      "yanetsy",
+      "terry",
+      "gutiérrez",
+      ",",
+      "gobernadora",
+      "granma",
+      ";",
+      "autoridades",
+      "municipales",
+      ".",
+      "díaz-canel",
+      "visitó",
+      "hospital",
+      "comandante",
+      "félix",
+      "lugones",
+      "ramírez",
+      ",",
+      "sufrió",
+      "daños",
+      "salas",
+      "atendió",
+      "diez",
+      "personas",
+      "lesionadas",
+      "tras",
+      "sismos",
+      ".",
+      "recorrió",
+      "seminternado",
+      "augusto",
+      "césar",
+      "sandino",
+      ",",
+      "cuya",
+      "estructura",
+      "resultó",
+      "completamente",
+      "afectada",
+      ",",
+      "obligando",
+      "500",
+      "alumnos",
+      "reciban",
+      "clases",
+      "casas",
+      "familias",
+      "repare",
+      "edificio",
+      ".",
+      "tras",
+      "visita",
+      ",",
+      "estimó",
+      "sismos",
+      ",",
+      "primero",
+      "magnitud",
+      "6",
+      "segundo",
+      "magnitud",
+      "6.7",
+      ",",
+      "causaron",
+      "daños",
+      "aproximadamente",
+      "8.000",
+      "viviendas",
+      "toda",
+      "provincia",
+      "granma",
+      ";",
+      "además",
+      "pilón",
+      ",",
+      "siete",
+      "municipios",
+      "resultaron",
+      "afectados",
+      ".",
+      "servicio",
+      "eléctrico",
+      "restableció",
+      "24",
+      "horas",
+      "gracias",
+      "apoyo",
+      "brigadas",
+      "provincias",
+      "."
+    ],
+    "token_count": 200,
+    "sentence_count": 8
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 61,
+      "NN": 76,
+      "FW": 63,
+      "NNS": 14,
+      "JJ": 19,
+      "IN": 13,
+      "VBP": 6,
+      "CC": 1,
+      "VBZ": 3,
+      "CD": 4,
+      "$": 1,
+      "MD": 1,
+      "VB": 2,
+      "RB": 1
+    },
+    "bigram_freq": {
+      "NNP-NN": 14,
+      "NN-FW": 8,
+      "FW-FW": 32,
+      "FW-NNS": 4,
+      "NNS-FW": 2,
+      "FW-NN": 8,
+      "NN-NN": 39,
+      "FW-JJ": 5,
+      "JJ-NN": 11,
+      "NN-IN": 12,
+      "IN-FW": 6,
+      "NN-NNP": 11,
+      "NNP-NNP": 30,
+      "NN-NNS": 1,
+      "NNS-VBP": 6,
+      "VBP-FW": 1,
+      "FW-NNP": 13,
+      "NNP-FW": 12,
+      "NNP-CC": 1,
+      "CC-JJ": 1,
+      "NN-JJ": 4,
+      "VBP-JJ": 3,
+      "IN-JJ": 2,
+      "NN-VBZ": 1,
+      "VBZ-NNS": 1,
+      "NNP-VBZ": 2,
+      "VBZ-FW": 1,
+      "JJ-JJ": 2,
+      "JJ-NNP": 2,
+      "IN-NN": 1,
+      "IN-NNP": 1,
+      "JJ-FW": 1,
+      "NNP-IN": 1,
+      "VBZ-NNP": 1,
+      "NNS-NNS": 1,
+      "NNS-NNP": 1,
+      "JJ-NNS": 3,
+      "VBP-NNS": 1,
+      "IN-CD": 2,
+      "CD-NNS": 2,
+      "NNS-JJ": 2,
+      "VBP-NN": 1,
+      "FW-CD": 1,
+      "CD-NN": 2,
+      "IN-$": 1,
+      "$-CD": 1,
+      "NNP-MD": 1,
+      "MD-VB": 1,
+      "VB-NNS": 1,
+      "NNS-VB": 1,
+      "VB-RB": 1,
+      "RB-NNP": 1
+    },
+    "trigram_freq": {
+      "NNP-NN-FW": 1,
+      "NN-FW-FW": 4,
+      "FW-FW-NNS": 2,
+      "FW-NNS-FW": 1,
+      "NNS-FW-NN": 1,
+      "FW-NN-NN": 3,
+      "NN-NN-FW": 3,
+      "NN-FW-JJ": 1,
+      "FW-JJ-NN": 4,
+      "JJ-NN-NN": 6,
+      "NN-NN-NN": 16,
+      "NN-NN-IN": 7,
+      "NN-IN-FW": 5,
+      "IN-FW-FW": 4,
+      "FW-FW-FW": 17,
+      "FW-FW-NN": 3,
+      "FW-NN-NNP": 2,
+      "NN-NNP-NNP": 6,
+      "NNP-NNP-NN": 8,
+      "NNP-NN-NN": 12,
+      "NN-NN-NNS": 1,
+      "NN-NNS-VBP": 1,
+      "NNS-VBP-FW": 1,
+      "VBP-FW-FW": 1,
+      "FW-FW-NNP": 7,
+      "FW-NNP-FW": 5,
+      "NNP-FW-FW": 5,
+      "FW-NNP-CC": 1,
+      "NNP-CC-JJ": 1,
+      "CC-JJ-NN": 1,
+      "NN-NN-JJ": 3,
+      "NN-JJ-NN": 3,
+      "NN-NN-NNP": 8,
+      "NN-NNP-FW": 2,
+      "FW-FW-JJ": 2,
+      "NN-FW-NN": 3,
+      "FW-NN-IN": 1,
+      "IN-FW-NNS": 1,
+      "FW-NNS-VBP": 1,
+      "NNS-VBP-JJ": 3,
+      "VBP-JJ-NN": 1,
+      "JJ-NN-IN": 3,
+      "NN-IN-JJ": 2,
+      "IN-JJ-NN": 1,
+      "JJ-NN-JJ": 1,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-NNS": 1,
+      "VBZ-NNS-FW": 1,
+      "NNS-FW-JJ": 1,
+      "JJ-NN-NNP": 1,
+      "NN-NNP-VBZ": 2,
+      "NNP-VBZ-FW": 1,
+      "VBZ-FW-JJ": 1,
+      "FW-JJ-JJ": 1,
+      "JJ-JJ-NNP": 1,
+      "JJ-NNP-NN": 2,
+      "NN-IN-NN": 1,
+      "IN-NN-NN": 1,
+      "NNP-NNP-NNP": 17,
+      "NNP-NN-IN": 1,
+      "NN-IN-NNP": 1,
+      "IN-NNP-FW": 1,
+      "NNP-FW-NNP": 5,
+      "FW-NNP-NNP": 6,
+      "NNP-NNP-FW": 4,
+      "NNP-FW-NN": 1,
+      "NN-NNP-NN": 1,
+      "NN-JJ-FW": 1,
+      "JJ-FW-FW": 1,
+      "NNP-NNP-IN": 1,
+      "NNP-IN-FW": 1,
+      "IN-FW-NNP": 1,
+      "NNP-VBZ-NNP": 1,
+      "VBZ-NNP-NNP": 1,
+      "NNP-FW-NNS": 1,
+      "FW-NNS-NNS": 1,
+      "NNS-NNS-NNP": 1,
+      "NNS-NNP-NN": 1,
+      "IN-JJ-NNS": 1,
+      "JJ-NNS-VBP": 3,
+      "VBP-JJ-NNS": 1,
+      "NNS-VBP-NNS": 1,
+      "VBP-NNS-VBP": 1,
+      "VBP-JJ-NNP": 1,
+      "NN-IN-CD": 2,
+      "IN-CD-NNS": 2,
+      "CD-NNS-JJ": 2,
+      "NNS-JJ-NNS": 1,
+      "NNS-VBP-NN": 1,
+      "VBP-NN-FW": 1,
+      "FW-NN-FW": 2,
+      "FW-FW-CD": 1,
+      "FW-CD-NN": 1,
+      "CD-NN-NN": 1,
+      "NN-IN-$": 1,
+      "IN-$-CD": 1,
+      "$-CD-NN": 1,
+      "CD-NN-FW": 1,
+      "FW-NNP-MD": 1,
+      "NNP-MD-VB": 1,
+      "MD-VB-NNS": 1,
+      "VB-NNS-VB": 1,
+      "NNS-VB-RB": 1,
+      "VB-RB-NNP": 1,
+      "RB-NNP-NN": 1,
+      "NNS-JJ-JJ": 1,
+      "JJ-JJ-NN": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 76,
+        "FW": 63,
+        "NNP": 61,
+        "JJ": 19,
+        "NNS": 14
+      },
+      "top_bigrams": {
+        "NN-NN": 39,
+        "FW-FW": 32,
+        "NNP-NNP": 30,
+        "NNP-NN": 14,
+        "FW-NNP": 13
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 17,
+        "NNP-NNP-NNP": 17,
+        "NN-NN-NN": 16,
+        "NNP-NN-NN": 12,
+        "NNP-NNP-NN": 8
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 8,
+    "chunk_counts": {
+      "NP": 76,
+      "VP": 15,
+      "PP": 6,
+      "ADJP": 2
+    },
+    "top_rules": [
+      {
+        "rule": "NP -> ('Granma', 'NNP')",
+        "frequency": 4,
+        "weight": 0.0374
+      },
+      {
+        "rule": "NP -> ('Pilón', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0187
+      },
+      {
+        "rule": "VP -> ('y', 'VBP')",
+        "frequency": 2,
+        "weight": 0.0187
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0187
+      },
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0187
+      },
+      {
+        "rule": "S -> NP ('de', 'FW') ('las', 'FW') NP ('del', 'FW') NP ('evaluar', 'FW') NP ('el', 'FW') NP ('de', 'IN') ('recuperación', 'FW') (',', ',') ('el', 'FW') NP VP ('municipio', 'FW') ('de', 'FW') NP (',', ',') ('en', 'FW') ('la', 'FW') ('provincia', 'FW') ('de', 'FW') NP (',', ',') VP VP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0093
+      },
+      {
+        "rule": "NP -> ('Como', 'NNP') ('parte', 'NN')",
+        "frequency": 1,
+        "weight": 0.0093
+      },
+      {
+        "rule": "NP -> ('acciones', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0093
+      },
+      {
+        "rule": "NP -> ('gobierno', 'NN') ('para', 'NN')",
+        "frequency": 1,
+        "weight": 0.0093
+      },
+      {
+        "rule": "NP -> ('los', 'NN') ('daños', 'NN') ('y', 'NN')",
+        "frequency": 1,
+        "weight": 0.0093
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Como parte"
+      },
+      {
+        "label": "NP",
+        "text": "acciones"
+      },
+      {
+        "label": "NP",
+        "text": "gobierno para"
+      },
+      {
+        "label": "NP",
+        "text": "los daños y"
+      },
+      {
+        "label": "NP",
+        "text": "proceso"
+      },
+      {
+        "label": "NP",
+        "text": "presidente cubano Miguel Díaz-Canel visitó este viernes"
+      },
+      {
+        "label": "VP",
+        "text": "el"
+      },
+      {
+        "label": "NP",
+        "text": "Pilón"
+      },
+      {
+        "label": "NP",
+        "text": "Granma"
+      },
+      {
+        "label": "VP",
+        "text": "el más afectado por los sismos que sacudieron el domingo"
+      },
+      {
+        "label": "NP",
+        "text": "más afectado por los"
+      },
+      {
+        "label": "NP",
+        "text": "sismos que sacudieron el domingo"
+      },
+      {
+        "label": "VP",
+        "text": "pasado a esa región oriental del país"
+      },
+      {
+        "label": "NP",
+        "text": "a esa región"
+      },
+      {
+        "label": "NP",
+        "text": "oriental del país"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Como/NNP parte/NN)\n  de/FW\n  las/FW\n  (NP acciones/NNS)\n  del/FW\n  (NP gobierno/NN para/NN)\n  evaluar/FW\n  (NP los/NN daños/NN y/NN)\n  el/FW\n  (NP proceso/NN)\n  de/IN\n  recuperación/FW\n  ,/,\n  el/FW\n  (NP\n    presidente/JJ\n    cubano/NN\n    Miguel/NNP\n    Díaz-Canel/NNP\n    visitó/NN\n    este/NN\n    viernes/NNS)\n  (VP el/VBP)\n  municipio/FW\n  de/FW\n  (NP Pilón/NNP)\n  ,/,\n  en/FW\n  la/FW\n  provincia/FW\n  de/FW\n  (NP Granma/NNP)\n  ,/,\n  (VP\n    el/VBZ\n    (NP más/JJ afectado/NN por/NN los/NN)\n    (NP sismos/JJ que/NN sacudieron/NN el/NN domingo/NN))\n  (VP\n    pasado/VBZ\n    (NP a/DT esa/JJ región/NN)\n    (NP oriental/JJ del/NN país/NN))\n  ./.)",
+      "(S\n  (NP El/NNP)\n  objetivo/FW\n  de/FW\n  la/FW\n  visita/FW\n  (NP incluyó/JJ conocer/NN el/NN)\n  estado/FW\n  (NP anímico/NN)\n  de/IN\n  los/FW\n  (NP pobladores/NNS)\n  (VP y/VBP)\n  (VP exhortarlos/VB (NP a/DT considerar/NN este/NN))\n  (PP evento/IN (NP excepcional/JJ como/NN))\n  (NP una/JJ oportunidad/NN)\n  de/IN\n  aprendizaje/FW\n  para/FW\n  (NP afrontar/NN futuros/NN)\n  (VP desastres/VBZ (NP naturales/NNS))\n  ,/,\n  (NP según/NN informó/NN la/NN Presidencia/NNP)\n  (VP en/VBZ)\n  la/FW\n  (NP red/JJ social/JJ X/NN)\n  ./.)",
+      "(S\n  (NP Acompañaron/NNP al/NN mandatario/NN)\n  (PP\n    en/IN\n    (NP su/NN recorrido/NN Roberto/NNP Morales/NNP Ojeda/NNP))\n  ,/,\n  (NP miembro/NN del/NN Buró/NNP Político/NNP y/NNP secretario/NN)\n  (PP de/IN (NP Organización/NNP))\n  del/FW\n  (NP Comité/NNP Central/NNP)\n  del/FW\n  (NP Partido/NNP Comunista/NNP)\n  de/FW\n  (NP Cuba/NNP)\n  (/(\n  (NP PCC/NNP)\n  )/)\n  ;/:\n  (NP Jorge/NNP Luis/NNP Broche/NNP Lorenzo/NNP)\n  ,/,\n  (ADJP integrante/JJ)\n  del/FW\n  (NP Secretariado/NNP)\n  del/FW\n  (NP Consejo/NNP)\n  (PP de/IN (NP Estado/NNP))\n  ;/:\n  y/CC\n  (NP Eduardo/NNP Martínez/NNP Díaz/NNP)\n  ,/,\n  (NP viceprimer/NN ministro/NN)\n  ./.)",
+      "(S\n  (NP También/NNP participaron/NN el/NN)\n  (ADJP general/JJ)\n  de/FW\n  división/FW\n  (NP Ramón/NNP Pardo/NNP Guerra/NNP)\n  ,/,\n  (NP jefe/NN del/NN Estado/NNP Mayor/NNP)\n  de/IN\n  la/FW\n  (NP Defensa/NNP Civil/NNP)\n  ;/:\n  (NP Yudelkis/NNP Ortiz/NNP Barceló/NNP)\n  ,/,\n  (NP primera/NN secretaria/NN del/NN PCC/NNP)\n  (VP en/VBZ (NP Granma/NNP))\n  ;/:\n  (NP Yanetsy/NNP Terry/NNP Gutiérrez/NNP)\n  ,/,\n  gobernadora/FW\n  de/FW\n  (NP Granma/NNP)\n  ;/:\n  y/CC\n  otras/MD\n  (NP autoridades/NNS municipales/NNS)\n  ./.)",
+      "(S\n  (NP\n    Díaz-Canel/NNP\n    visitó/NN\n    el/NN\n    Hospital/NNP\n    Comandante/NNP\n    Félix/NNP\n    Lugones/NNP\n    Ramírez/NNP)\n  ,/,\n  (NP que/NN sufrió/NN daños/NN)\n  (PP en/IN (NP algunas/JJ salas/NNS))\n  (VP y/VBP)\n  (PP\n    atendió/IN\n    (NP a/DT diez/NN personas/NN lesionadas/NN tras/NNS))\n  (VP los/VBP (NP sismos/NN))\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "GOBIERNOS_OFICIALES",
+      "CANTIDADES_NUMERICAS",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "REGIONES_PROVINCIAS",
+      "PAISES",
+      "LOCALIZACIONES_ESPECIFICAS",
+      "INFRAESTRUCTURA_SERVICIOS",
+      "CONFLICTOS_ARMADOS_OPERACIONES",
+      "JURIDICO_LEGISLATIVO_CORRUPCION"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "guerra, jefe del estado mayor de la defensa civil; yudelkis ortiz barceló, primera secretaria del pcc en granma",
+        "position": [
+          910,
+          1021
+        ],
+        "start": 910,
+        "end": 1021
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "informó",
+        "position": [
+          511,
+          518
+        ],
+        "start": 511,
+        "end": 518
+      },
+      {
+        "category": "JURIDICO_LEGISLATIVO_CORRUPCION",
+        "matched_text": "defensa",
+        "position": [
+          946,
+          953
+        ],
+        "start": 946,
+        "end": 953
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente cubano miguel",
+        "position": [
+          96,
+          120
+        ],
+        "start": 96,
+        "end": 120
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "hospital",
+        "position": [
+          1125,
+          1133
+        ],
+        "start": 1125,
+        "end": 1133
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "servicio eléctrico",
+        "position": [
+          1712,
+          1730
+        ],
+        "start": 1712,
+        "end": 1730
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "cuba",
+        "position": [
+          718,
+          722
+        ],
+        "start": 718,
+        "end": 722
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "provincia de",
+        "position": [
+          181,
+          193
+        ],
+        "start": 181,
+        "end": 193
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "hospital comandante",
+        "position": [
+          1125,
+          1144
+        ],
+        "start": 1125,
+        "end": 1144
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "más de 500",
+        "position": [
+          1380,
+          1390
+        ],
+        "start": 1380,
+        "end": 1390
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "aproximadamente 8.000",
+        "position": [
+          1583,
+          1604
+        ],
+        "start": 1583,
+        "end": 1604
+      }
+    ],
+    "match_count": 11
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Partido Comunista de Cuba",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Jorge Luis Broche Lorenzo",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Consejo de Estado",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Comité Central",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Eduardo Martínez Díaz",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Hospital Comandante Félix Lugones Ramírez",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Secretariado del",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Pilón",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Yanetsy Terry Gutiérrez",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Presidencia",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Yudelkis Ortiz Barceló",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "PCC",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Ramón Pardo Guerra",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Díaz-Canel",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Estado Mayor de la Defensa Civil",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Miguel Díaz-Canel",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Buró Político",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Augusto César Sandino",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Roberto Morales Ojeda",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Granma",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Organización",
+        "tipo": "Organizacion"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Miguel Díaz-Canel",
+        "relacion": "VISITAR",
+        "objeto": "Pilón"
+      },
+      {
+        "sujeto": "Miguel Díaz-Canel",
+        "relacion": "VISITAR",
+        "objeto": "Granma"
+      },
+      {
+        "sujeto": "Presidencia",
+        "relacion": "INFORMAR_ACOMPA_AR_INCLUIR",
+        "objeto": "Roberto Morales Ojeda"
+      },
+      {
+        "sujeto": "Presidencia",
+        "relacion": "INFORMAR_ACOMPA_AR_INCLUIR",
+        "objeto": "Buró Político"
+      },
+      {
+        "sujeto": "Presidencia",
+        "relacion": "INFORMAR_ACOMPA_AR_INCLUIR",
+        "objeto": "Organización"
+      },
+      {
+        "sujeto": "Presidencia",
+        "relacion": "INFORMAR_ACOMPA_AR_INCLUIR",
+        "objeto": "Comité Central"
+      },
+      {
+        "sujeto": "Presidencia",
+        "relacion": "INFORMAR_ACOMPA_AR_INCLUIR",
+        "objeto": "Partido Comunista de Cuba"
+      },
+      {
+        "sujeto": "Presidencia",
+        "relacion": "INFORMAR_ACOMPA_AR_INCLUIR",
+        "objeto": "PCC"
+      },
+      {
+        "sujeto": "Presidencia",
+        "relacion": "INFORMAR_ACOMPA_AR_INCLUIR",
+        "objeto": "Jorge Luis Broche Lorenzo"
+      },
+      {
+        "sujeto": "Presidencia",
+        "relacion": "INFORMAR_ACOMPA_AR_INCLUIR",
+        "objeto": "Secretariado del"
+      },
+      {
+        "sujeto": "Presidencia",
+        "relacion": "INFORMAR_ACOMPA_AR_INCLUIR",
+        "objeto": "Consejo de Estado"
+      },
+      {
+        "sujeto": "Presidencia",
+        "relacion": "INFORMAR_ACOMPA_AR_INCLUIR",
+        "objeto": "Eduardo Martínez Díaz"
+      },
+      {
+        "sujeto": "Díaz-Canel",
+        "relacion": "VISITAR",
+        "objeto": "Hospital Comandante Félix Lugones Ramírez"
+      },
+      {
+        "sujeto": "Granma",
+        "relacion": "CAUSAR_ESTIMAR",
+        "objeto": "Pilón"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.0,
+    "pos": 0.0,
+    "neu": 1.0,
+    "neg": 0.0,
+    "label": "neutral"
+  }
+}

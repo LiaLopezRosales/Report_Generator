@@ -1,0 +1,707 @@
+{
+  "url": "https://www.telesurtv.net/venezuela-exige-la-regulacion-de-contenido-nosivo-para-sus-redes-sociales/",
+  "title": "Venezuela exige la regulación de contenido nocivo para sus redes sociales - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "contenido nosivo",
+    "redes sociales",
+    "regulación",
+    "Venezuela"
+  ],
+  "text": "“Hago un llamado a las madres, a los padres sobre el consumo de Tik Tok por parte de los niños y niñas. Reitero mi llamado para una conciencia crítica y declararnos en emergencia allí en la comunidad para poder colocar un freno a esta situación desde la conciencia, el amor, la pedagogía”, destacó Nicolás Maduro en comparecencia en televisión.\nEl presidente de Venezuela, Nicolás Maduro responsabilizó a los representantes de la red social Tik Tok para América Latina por el fallecimiento de dos niños de 12 y 14 años de edad, que fueron víctimas de los retos virales que se reproducen a través de esta plataforma digital.\nDi “la orden al presidente de Conatel, Jorge Márquez, para que se comunique con Tik Tok Latinoamérica y le dé 72 horas para retirar de Venezuela todos estos llamados desafíos abusivos y criminales”, dijo Maduro.\nEn este sentido, explicó que estos retos han impactado diversas comunidades en Venezuela como Barinas y los Valles del Tuy: “En un liceo de Barinas sacaron más de cincuenta personas desmayadas. Todos los cuerpos no son iguales y este niño que hizo este challenger está todo bajo investigación”, indicó a propósito de uno de los pequeños que perdió la vida.\nAl reconocer la lógica de la viralidad, el mandatario reflexionó sobre la sociedad a la cual aspiramos: la sociedad de la cultura, el compartir, la educación. La mayor vacuna es nuestra cultura, nuestros valores, afirmó Maduro. Tenemos que hacer más en las escuelas, en los liceos, y en las redes.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/venezuela-exige-la-regulacion-de-contenido-nosivo-para-sus-redes-sociales/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-11.json",
+    "message_index": 736,
+    "message_id": 80711,
+    "date": "2024-11-19T15:55:17+00:00",
+    "text": "teleSUR\nVenezuela exige la regulación de contenido nocivo para sus redes sociales\nhttps://www.telesurtv.net/venezuela-exige-la-regulacion-de-contenido-nosivo-para-sus-redes-sociales/",
+    "photo_path": null,
+    "views": 2378,
+    "reactions": {
+      "👍": 38,
+      "👏": 5
+    },
+    "total_reactions": 43
+  },
+  "preprocessing": {
+    "cleaned": "“hago un llamado a las madres, a los padres sobre el consumo de tik tok por parte de los niños y niñas. reitero mi llamado para una conciencia crítica y declararnos en emergencia allí en la comunidad para poder colocar un freno a esta situación desde la conciencia, el amor, la pedagogía”, destacó nicolás maduro en comparecencia en televisión. el presidente de venezuela, nicolás maduro responsabilizó a los representantes de la red social tik tok para américa latina por el fallecimiento de dos niños de 12 y 14 años de edad, que fueron víctimas de los retos virales que se reproducen a través de esta plataforma digital. di “la orden al presidente de conatel, jorge márquez, para que se comunique con tik tok latinoamérica y le dé 72 horas para retirar de venezuela todos estos llamados desafíos abusivos y criminales”, dijo maduro. en este sentido, explicó que estos retos han impactado diversas comunidades en venezuela como barinas y los valles del tuy: “en un liceo de barinas sacaron más de cincuenta personas desmayadas. todos los cuerpos no son iguales y este niño que hizo este challenger está todo bajo investigación”, indicó a propósito de uno de los pequeños que perdió la vida. al reconocer la lógica de la viralidad, el mandatario reflexionó sobre la sociedad a la cual aspiramos: la sociedad de la cultura, el compartir, la educación. la mayor vacuna es nuestra cultura, nuestros valores, afirmó maduro. tenemos que hacer más en las escuelas, en los liceos, y en las redes.",
+    "tokens": [
+      "“",
+      "hago",
+      "llamado",
+      "madres",
+      ",",
+      "padres",
+      "consumo",
+      "tik",
+      "tok",
+      "parte",
+      "niños",
+      "niñas",
+      ".",
+      "reitero",
+      "llamado",
+      "conciencia",
+      "crítica",
+      "declararnos",
+      "emergencia",
+      "allí",
+      "comunidad",
+      "poder",
+      "colocar",
+      "freno",
+      "situación",
+      "conciencia",
+      ",",
+      "amor",
+      ",",
+      "pedagogía",
+      "”",
+      ",",
+      "destacó",
+      "nicolás",
+      "maduro",
+      "comparecencia",
+      "televisión",
+      ".",
+      "presidente",
+      "venezuela",
+      ",",
+      "nicolás",
+      "maduro",
+      "responsabilizó",
+      "representantes",
+      "red",
+      "social",
+      "tik",
+      "tok",
+      "américa",
+      "latina",
+      "fallecimiento",
+      "dos",
+      "niños",
+      "12",
+      "14",
+      "años",
+      "edad",
+      ",",
+      "víctimas",
+      "retos",
+      "virales",
+      "reproducen",
+      "través",
+      "plataforma",
+      "digital",
+      ".",
+      "di",
+      "“",
+      "orden",
+      "presidente",
+      "conatel",
+      ",",
+      "jorge",
+      "márquez",
+      ",",
+      "comunique",
+      "tik",
+      "tok",
+      "latinoamérica",
+      "dé",
+      "72",
+      "horas",
+      "retirar",
+      "venezuela",
+      "llamados",
+      "desafíos",
+      "abusivos",
+      "criminales",
+      "”",
+      ",",
+      "dijo",
+      "maduro",
+      ".",
+      ",",
+      "explicó",
+      "retos",
+      "impactado",
+      "diversas",
+      "comunidades",
+      "venezuela",
+      "barinas",
+      "valles",
+      "tuy",
+      ":",
+      "“",
+      "liceo",
+      "barinas",
+      "sacaron",
+      "cincuenta",
+      "personas",
+      "desmayadas",
+      ".",
+      "cuerpos",
+      "iguales",
+      "niño",
+      "hizo",
+      "challenger",
+      "bajo",
+      "investigación",
+      "”",
+      ",",
+      "indicó",
+      "propósito",
+      "pequeños",
+      "perdió",
+      "vida",
+      ".",
+      "reconocer",
+      "lógica",
+      "viralidad",
+      ",",
+      "mandatario",
+      "reflexionó",
+      "sociedad",
+      "aspiramos",
+      ":",
+      "sociedad",
+      "cultura",
+      ",",
+      "compartir",
+      ",",
+      "educación",
+      ".",
+      "mayor",
+      "vacuna",
+      "cultura",
+      ",",
+      "valores",
+      ",",
+      "afirmó",
+      "maduro",
+      ".",
+      "hacer",
+      "escuelas",
+      ",",
+      "liceos",
+      ",",
+      "redes",
+      "."
+    ],
+    "token_count": 160,
+    "sentence_count": 9
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 36,
+      "JJ": 23,
+      "NN": 90,
+      "NNS": 10,
+      "VBP": 6,
+      "IN": 12,
+      "FW": 50,
+      "VBZ": 2,
+      "VB": 1,
+      "CD": 3,
+      "VBD": 1,
+      "CC": 1,
+      "DT": 1,
+      "RB": 1
+    },
+    "bigram_freq": {
+      "NNP-JJ": 2,
+      "JJ-NN": 14,
+      "NN-NN": 52,
+      "NN-NNS": 3,
+      "NNS-JJ": 2,
+      "JJ-NNS": 4,
+      "NNS-VBP": 5,
+      "VBP-JJ": 2,
+      "NN-IN": 9,
+      "IN-NNP": 4,
+      "NNP-NNP": 14,
+      "NNP-NN": 13,
+      "IN-FW": 8,
+      "FW-JJ": 6,
+      "NN-NNP": 7,
+      "NN-JJ": 5,
+      "NN-VBZ": 2,
+      "VBZ-IN": 1,
+      "FW-FW": 28,
+      "FW-NN": 8,
+      "NN-FW": 10,
+      "NNP-FW": 4,
+      "FW-NNP": 5,
+      "NNP-VB": 1,
+      "VB-JJ": 1,
+      "NNS-IN": 2,
+      "JJ-JJ": 2,
+      "JJ-NNP": 2,
+      "FW-CD": 1,
+      "CD-CD": 1,
+      "CD-NN": 1,
+      "NNP-VBD": 1,
+      "VBD-JJ": 1,
+      "JJ-CD": 1,
+      "CD-NNS": 1,
+      "NNP-CC": 1,
+      "CC-JJ": 1,
+      "VBP-NNP": 3,
+      "FW-NNS": 2,
+      "NN-DT": 1,
+      "DT-NN": 1,
+      "VBZ-RB": 1,
+      "RB-JJ": 1,
+      "NN-VBP": 1,
+      "VBP-NN": 1
+    },
+    "trigram_freq": {
+      "NNP-JJ-NN": 2,
+      "JJ-NN-NN": 9,
+      "NN-NN-NNS": 3,
+      "NN-NNS-JJ": 1,
+      "NNS-JJ-NNS": 1,
+      "JJ-NNS-VBP": 3,
+      "NNS-VBP-JJ": 2,
+      "VBP-JJ-NN": 2,
+      "JJ-NN-IN": 3,
+      "NN-IN-NNP": 3,
+      "IN-NNP-NNP": 2,
+      "NNP-NNP-NN": 6,
+      "NNP-NN-NN": 8,
+      "NN-NN-IN": 6,
+      "NN-IN-FW": 6,
+      "IN-FW-JJ": 4,
+      "FW-JJ-NN": 3,
+      "JJ-NN-NNP": 1,
+      "NN-NNP-NN": 3,
+      "NN-NN-NN": 30,
+      "NN-NN-JJ": 3,
+      "NN-JJ-NN": 4,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-IN": 1,
+      "VBZ-IN-FW": 1,
+      "IN-FW-FW": 4,
+      "FW-FW-FW": 18,
+      "FW-FW-NN": 4,
+      "FW-NN-NN": 4,
+      "NN-NN-FW": 6,
+      "NN-FW-NN": 2,
+      "FW-NN-NNP": 2,
+      "NN-NNP-NNP": 3,
+      "NNP-NNP-FW": 2,
+      "NNP-FW-NN": 2,
+      "FW-NN-FW": 2,
+      "NNP-NN-FW": 1,
+      "NN-FW-NNP": 3,
+      "FW-NNP-NNP": 3,
+      "NNP-NNP-NNP": 3,
+      "NNP-NNP-VB": 1,
+      "NNP-VB-JJ": 1,
+      "VB-JJ-NNS": 1,
+      "JJ-NNS-IN": 1,
+      "NNS-IN-FW": 1,
+      "FW-JJ-JJ": 2,
+      "JJ-JJ-NNP": 2,
+      "JJ-NNP-NNP": 1,
+      "NNP-NN-NNP": 3,
+      "FW-FW-CD": 1,
+      "FW-CD-CD": 1,
+      "CD-CD-NN": 1,
+      "CD-NN-FW": 1,
+      "NN-FW-FW": 5,
+      "FW-JJ-NNS": 1,
+      "JJ-NNP-NN": 1,
+      "NNP-NN-JJ": 1,
+      "NN-NN-NNP": 1,
+      "NNP-NNP-VBD": 1,
+      "NNP-VBD-JJ": 1,
+      "VBD-JJ-CD": 1,
+      "JJ-CD-NNS": 1,
+      "CD-NNS-JJ": 1,
+      "NNS-JJ-NN": 1,
+      "IN-NNP-CC": 1,
+      "NNP-CC-JJ": 1,
+      "CC-JJ-NN": 1,
+      "NN-NNS-VBP": 1,
+      "NNS-VBP-NNP": 3,
+      "VBP-NNP-NNP": 2,
+      "NN-NNS-IN": 1,
+      "NNS-IN-NNP": 1,
+      "IN-NNP-NN": 1,
+      "NN-NNP-FW": 1,
+      "NNP-FW-NNP": 1,
+      "NNP-NNP-JJ": 1,
+      "NNP-FW-FW": 1,
+      "FW-FW-NNS": 2,
+      "FW-NNS-VBP": 1,
+      "VBP-NNP-NN": 1,
+      "NN-NN-DT": 1,
+      "NN-DT-NN": 1,
+      "DT-NN-VBZ": 1,
+      "NN-VBZ-RB": 1,
+      "VBZ-RB-JJ": 1,
+      "RB-JJ-NN": 1,
+      "NN-NN-VBP": 1,
+      "NN-VBP-NN": 1,
+      "VBP-NN-NN": 1,
+      "FW-FW-JJ": 2,
+      "FW-NNP-NN": 1,
+      "FW-FW-NNP": 1,
+      "FW-NNP-FW": 1,
+      "JJ-NN-JJ": 1,
+      "NN-JJ-NNS": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 90,
+        "FW": 50,
+        "NNP": 36,
+        "JJ": 23,
+        "IN": 12
+      },
+      "top_bigrams": {
+        "NN-NN": 52,
+        "FW-FW": 28,
+        "JJ-NN": 14,
+        "NNP-NNP": 14,
+        "NNP-NN": 13
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 30,
+        "FW-FW-FW": 18,
+        "JJ-NN-NN": 9,
+        "NNP-NN-NN": 8,
+        "NNP-NNP-NN": 6
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 9,
+    "chunk_counts": {
+      "NP": 63,
+      "VP": 15,
+      "PP": 6,
+      "ADJP": 2
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 4,
+        "weight": 0.0421
+      },
+      {
+        "rule": "NP -> ('Nicolás', 'NNP') ('Maduro', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0211
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0211
+      },
+      {
+        "rule": "NP -> ('Venezuela', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0211
+      },
+      {
+        "rule": "S -> NP VP (',', ',') NP VP PP ('de', 'IN') ('los', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0105
+      },
+      {
+        "rule": "NP -> ('“', 'NN') ('Hago', 'NNP') ('un', 'NN')",
+        "frequency": 1,
+        "weight": 0.0105
+      },
+      {
+        "rule": "VP -> ('llamado', 'VBD') NP",
+        "frequency": 1,
+        "weight": 0.0105
+      },
+      {
+        "rule": "NP -> ('a', 'DT') ('las', 'NN') ('madres', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0105
+      },
+      {
+        "rule": "NP -> ('a', 'DT') ('los', 'NN')",
+        "frequency": 1,
+        "weight": 0.0105
+      },
+      {
+        "rule": "VP -> ('padres', 'VBZ') NP",
+        "frequency": 1,
+        "weight": 0.0105
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "“ Hago un"
+      },
+      {
+        "label": "VP",
+        "text": "llamado a las madres"
+      },
+      {
+        "label": "NP",
+        "text": "a las madres"
+      },
+      {
+        "label": "NP",
+        "text": "a los"
+      },
+      {
+        "label": "VP",
+        "text": "padres sobre el consumo"
+      },
+      {
+        "label": "NP",
+        "text": "sobre el consumo"
+      },
+      {
+        "label": "PP",
+        "text": "de Tik Tok por parte"
+      },
+      {
+        "label": "NP",
+        "text": "Tik Tok por parte"
+      },
+      {
+        "label": "NP",
+        "text": "niños y niñas"
+      },
+      {
+        "label": "NP",
+        "text": "Reitero mi llamado para"
+      },
+      {
+        "label": "NP",
+        "text": "una conciencia crítica y declararnos"
+      },
+      {
+        "label": "NP",
+        "text": "para poder colocar"
+      },
+      {
+        "label": "ADJP",
+        "text": "un"
+      },
+      {
+        "label": "VP",
+        "text": "freno a esta situación desde la conciencia"
+      },
+      {
+        "label": "NP",
+        "text": "a esta situación desde la conciencia"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP “/NN Hago/NNP un/NN)\n  (VP llamado/VBD (NP a/DT las/NN madres/NNS))\n  ,/,\n  (NP a/DT los/NN)\n  (VP padres/VBZ (NP sobre/JJ el/JJ consumo/NN))\n  (PP de/IN (NP Tik/NNP Tok/NNP por/NN parte/NN))\n  de/IN\n  los/FW\n  (NP niños/JJ y/NN niñas/NN)\n  ./.)",
+      "(S\n  (NP Reitero/NNP mi/NN llamado/NN para/NN)\n  (NP una/JJ conciencia/NN crítica/NN y/NN declararnos/NN)\n  en/IN\n  emergencia/FW\n  allí/FW\n  en/FW\n  la/FW\n  comunidad/FW\n  (NP para/NN poder/NN colocar/NN)\n  (ADJP un/JJ)\n  (VP\n    freno/VBZ\n    (NP a/DT esta/JJ situación/NN desde/NN la/NN conciencia/NN))\n  ,/,\n  (NP el/JJ amor/NN)\n  ,/,\n  la/FW\n  pedagogía/FW\n  ”/FW\n  ,/,\n  destacó/FW\n  (NP Nicolás/NNP Maduro/NNP)\n  en/FW\n  (NP comparecencia/NN)\n  (PP en/IN (NP televisión/NN))\n  ./.)",
+      "(S\n  (NP El/NNP presidente/NN)\n  de/FW\n  (NP Venezuela/NNP)\n  ,/,\n  (NP Nicolás/NNP Maduro/NNP)\n  (VP responsabilizó/VBZ)\n  a/DT\n  (ADJP los/JJ)\n  (VP representantes/VBZ)\n  de/IN\n  la/FW\n  (NP\n    red/JJ\n    social/JJ\n    Tik/NNP\n    Tok/NNP\n    para/NN\n    América/NNP\n    Latina/NNP\n    por/NN\n    el/NN\n    fallecimiento/NN)\n  de/IN\n  dos/FW\n  niños/FW\n  de/FW\n  12/CD\n  y/CC\n  14/CD\n  (NP años/NN)\n  de/FW\n  edad/FW\n  ,/,\n  que/FW\n  fueron/FW\n  víctimas/FW\n  de/FW\n  los/FW\n  (NP retos/NN virales/NNS)\n  (VP que/VBP (NP se/JJ reproducen/NN) (NP a/DT través/NN))\n  de/IN\n  esta/FW\n  (NP plataforma/JJ digital/NN)\n  ./.)",
+      "(S\n  (NP Di/NNP “/NNP la/NNP)\n  orden/MD\n  (VP al/VB (NP presidente/NN))\n  (PP de/IN (NP Conatel/NNP))\n  ,/,\n  (NP Jorge/NNP Márquez/NNP)\n  ,/,\n  (NP\n    para/NN\n    que/NN\n    se/NN\n    comunique/NN\n    con/NN\n    Tik/NNP\n    Tok/NNP\n    Latinoamérica/NNP\n    y/NNP)\n  (VP le/VBD dé/JJ)\n  72/CD\n  (NP horas/NNS)\n  (NP para/JJ retirar/NN)\n  (PP de/IN (NP Venezuela/NNP))\n  todos/CC\n  (NP\n    estos/JJ\n    llamados/NN\n    desafíos/NN\n    abusivos/NN\n    y/NN\n    criminales/NNS)\n  (VP ”/VBP)\n  ,/,\n  (NP dijo/JJ Maduro/NNP)\n  ./.)",
+      "(S\n  (NP En/NNP este/NN sentido/NN)\n  ,/,\n  (NP explicó/JJ que/NN estos/NNS)\n  (VP retos/VBP (NP han/JJ impactado/NN diversas/NN comunidades/NNS))\n  (PP\n    en/IN\n    (NP Venezuela/NNP como/NN Barinas/NNP y/NNP los/NN Valles/NNP))\n  del/FW\n  (NP Tuy/NNP)\n  :/:\n  (NP “/NN En/NNP)\n  (NP un/JJ liceo/NN)\n  (PP de/IN (NP Barinas/NNP sacaron/NNP))\n  más/FW\n  de/FW\n  cincuenta/FW\n  (NP personas/NNS desmayadas/NNS)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "GOBIERNOS_OFICIALES",
+      "APROBACION_RECHAZO",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "PAISES",
+      "CONFLICTOS_ARMADOS_OPERACIONES"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "responsabilizó a",
+        "position": [
+          388,
+          404
+        ],
+        "start": 388,
+        "end": 404
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "afirmó",
+        "position": [
+          1406,
+          1412
+        ],
+        "start": 1406,
+        "end": 1412
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "explicó",
+        "position": [
+          853,
+          860
+        ],
+        "start": 853,
+        "end": 860
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente de venezuela",
+        "position": [
+          348,
+          371
+        ],
+        "start": 348,
+        "end": 371
+      },
+      {
+        "category": "APROBACION_RECHAZO",
+        "matched_text": "destacó",
+        "position": [
+          290,
+          297
+        ],
+        "start": 290,
+        "end": 297
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "venezuela",
+        "position": [
+          362,
+          371
+        ],
+        "start": 362,
+        "end": 371
+      }
+    ],
+    "match_count": 6
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Nicolás Maduro",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Venezuela",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Maduro",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Barinas",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Tik Tok",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Conatel",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Tik Tok",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Valles del Tuy",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Di",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Jorge Márquez",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Tik Tok Latinoamérica",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "América",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Venezuela",
+        "relacion": "RESPONSABILIZAR",
+        "objeto": "Tik Tok"
+      },
+      {
+        "sujeto": "Venezuela",
+        "relacion": "RESPONSABILIZAR",
+        "objeto": "América"
+      },
+      {
+        "sujeto": "Nicolás Maduro",
+        "relacion": "RESPONSABILIZAR",
+        "objeto": "Tik Tok"
+      },
+      {
+        "sujeto": "Nicolás Maduro",
+        "relacion": "RESPONSABILIZAR",
+        "objeto": "América"
+      },
+      {
+        "sujeto": "Maduro",
+        "relacion": "DECIR",
+        "objeto": "Di"
+      },
+      {
+        "sujeto": "Maduro",
+        "relacion": "DECIR",
+        "objeto": "Conatel"
+      },
+      {
+        "sujeto": "Maduro",
+        "relacion": "DECIR",
+        "objeto": "Jorge Márquez"
+      },
+      {
+        "sujeto": "Tik Tok Latinoamérica",
+        "relacion": "COMUNICAR_DECIR",
+        "objeto": "Venezuela"
+      },
+      {
+        "sujeto": "Maduro",
+        "relacion": "COMUNICAR_DECIR",
+        "objeto": "Tik Tok Latinoamérica"
+      },
+      {
+        "sujeto": "Maduro",
+        "relacion": "RETIRAR_DAR_COMUNICAR_DECIR",
+        "objeto": "Venezuela"
+      },
+      {
+        "sujeto": "Venezuela",
+        "relacion": "IMPACTAR_EXPLICAR",
+        "objeto": "Barinas"
+      },
+      {
+        "sujeto": "Venezuela",
+        "relacion": "IMPACTAR_EXPLICAR",
+        "objeto": "Valles del Tuy"
+      },
+      {
+        "sujeto": "Valles del Tuy",
+        "relacion": "IMPACTAR_EXPLICAR",
+        "objeto": "Barinas"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.5106,
+    "pos": 0.023,
+    "neu": 0.968,
+    "neg": 0.009,
+    "label": "positive"
+  }
+}

@@ -1,0 +1,784 @@
+{
+  "url": "https://www.telesurtv.net/ascienden-a-43-922-los-palestinos-asesinados-por-israel-en-gaza/",
+  "title": "Ascienden a 43.922 los palestinos asesinados por Israel en Gaza - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Defensa Civil",
+    "Gaza",
+    "genocidio",
+    "Israel",
+    "Palestina"
+  ],
+  "text": "El Ministerio de Salud Palestino informó este lunes que en las últimas 24 horas la ocupación sionista cometió cuatro masacres contra familias en la Franja de Gaza, en las que fueron asesinadas 76 personas, mientras que 158 resultaron heridas, con lo cual se eleva a 43.922 la cifra de víctimas mortales y a 103.898 el número de lesionados.\nLa cartera de Salud reiteró que el ejército israelí continúa obstaculizando el trabajo de los equipos de rescate, cuyos integrantes intentan acceder a los cuerpos atrapados bajo los escombros y esparcidos por las carreteras.\nPor otra parte, la Defensa Civil de la Franja de Gaza dio a conocer que desde el inicio de la ofensiva israelí, 85 de sus miembros han sido asesinados, mientras 301 han resultado heridos.\nA través de un comunicado, la organización destacó que además de las pérdidas humanas, al menos 20 de sus integrantes han sido arrestados, lo que agrava aún más la crisis humanitaria en la región.\nAsimismo, el ministerio resaltó: “17 centros y sedes generales fueron destruidas mientras el número de vehículos dañados llegó a 56, incluidos 23 camiones de bomberos, 11 ambulancias y seis camiones cisterna de agua”.\nPor otra parte, la Defensa Civil afirmó que desde el comienzo de los ataques, el costo total de los equipos dañados asciende a aproximadamente 1,3 millones de dólares, lo que limita severamente la capacidad de respuesta ante emergencias.\nEl 23 de octubre pasado, los bombardeos israelíes desactivaron el sistema de Defensa Civil en el norte de Gaza, lo que obligó a los rescatistas a reubicarse en el centro y sur de la franja, dejando a muchos residentes sin acceso a atención humanitaria.\nEn tanto, este lunes, alrededor de 17 civiles perdieron la vida en un ataque aéreo contra una vivienda al norte de Gaza.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/ascienden-a-43-922-los-palestinos-asesinados-por-israel-en-gaza/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-11.json",
+    "message_index": 817,
+    "message_id": 80626,
+    "date": "2024-11-18T14:55:12+00:00",
+    "text": "teleSUR\nAscienden a 43.922 los palestinos asesinados por Israel en Gaza\nhttps://www.telesurtv.net/ascienden-a-43-922-los-palestinos-asesinados-por-israel-en-gaza/",
+    "photo_path": null,
+    "views": 2338,
+    "reactions": {
+      "🤬": 39,
+      "❤": 1
+    },
+    "total_reactions": 40
+  },
+  "preprocessing": {
+    "cleaned": "el ministerio de salud palestino informó este lunes que en las últimas 24 horas la ocupación sionista cometió cuatro masacres contra familias en la franja de gaza, en las que fueron asesinadas 76 personas, mientras que 158 resultaron heridas, con lo cual se eleva a 43.922 la cifra de víctimas mortales y a 103.898 el número de lesionados. la cartera de salud reiteró que el ejército israelí continúa obstaculizando el trabajo de los equipos de rescate, cuyos integrantes intentan acceder a los cuerpos atrapados bajo los escombros y esparcidos por las carreteras. por otra parte, la defensa civil de la franja de gaza dio a conocer que desde el inicio de la ofensiva israelí, 85 de sus miembros han sido asesinados, mientras 301 han resultado heridos. a través de un comunicado, la organización destacó que además de las pérdidas humanas, al menos 20 de sus integrantes han sido arrestados, lo que agrava aún más la crisis humanitaria en la región. asimismo, el ministerio resaltó: “17 centros y sedes generales fueron destruidas mientras el número de vehículos dañados llegó a 56, incluidos 23 camiones de bomberos, 11 ambulancias y seis camiones cisterna de agua”. por otra parte, la defensa civil afirmó que desde el comienzo de los ataques, el costo total de los equipos dañados asciende a aproximadamente 1,3 millones de dólares, lo que limita severamente la capacidad de respuesta ante emergencias. el 23 de octubre pasado, los bombardeos israelíes desactivaron el sistema de defensa civil en el norte de gaza, lo que obligó a los rescatistas a reubicarse en el centro y sur de la franja, dejando a muchos residentes sin acceso a atención humanitaria. en tanto, este lunes, alrededor de 17 civiles perdieron la vida en un ataque aéreo contra una vivienda al norte de gaza.",
+    "tokens": [
+      "ministerio",
+      "salud",
+      "palestino",
+      "informó",
+      "lunes",
+      "últimas",
+      "24",
+      "horas",
+      "ocupación",
+      "sionista",
+      "cometió",
+      "cuatro",
+      "masacres",
+      "familias",
+      "franja",
+      "gaza",
+      ",",
+      "asesinadas",
+      "76",
+      "personas",
+      ",",
+      "mientras",
+      "158",
+      "resultaron",
+      "heridas",
+      ",",
+      "eleva",
+      "43.922",
+      "cifra",
+      "víctimas",
+      "mortales",
+      "103.898",
+      "número",
+      "lesionados",
+      ".",
+      "cartera",
+      "salud",
+      "reiteró",
+      "ejército",
+      "israelí",
+      "continúa",
+      "obstaculizando",
+      "trabajo",
+      "equipos",
+      "rescate",
+      ",",
+      "cuyos",
+      "integrantes",
+      "intentan",
+      "acceder",
+      "cuerpos",
+      "atrapados",
+      "bajo",
+      "escombros",
+      "esparcidos",
+      "carreteras",
+      ".",
+      "parte",
+      ",",
+      "defensa",
+      "civil",
+      "franja",
+      "gaza",
+      "dio",
+      "conocer",
+      "inicio",
+      "ofensiva",
+      "israelí",
+      ",",
+      "85",
+      "miembros",
+      "sido",
+      "asesinados",
+      ",",
+      "mientras",
+      "301",
+      "resultado",
+      "heridos",
+      ".",
+      "través",
+      "comunicado",
+      ",",
+      "organización",
+      "destacó",
+      "además",
+      "pérdidas",
+      "humanas",
+      ",",
+      "menos",
+      "20",
+      "integrantes",
+      "sido",
+      "arrestados",
+      ",",
+      "agrava",
+      "aún",
+      "crisis",
+      "humanitaria",
+      "región",
+      ".",
+      "asimismo",
+      ",",
+      "ministerio",
+      "resaltó",
+      ":",
+      "“",
+      "17",
+      "centros",
+      "sedes",
+      "generales",
+      "destruidas",
+      "mientras",
+      "número",
+      "vehículos",
+      "dañados",
+      "llegó",
+      "56",
+      ",",
+      "incluidos",
+      "23",
+      "camiones",
+      "bomberos",
+      ",",
+      "11",
+      "ambulancias",
+      "seis",
+      "camiones",
+      "cisterna",
+      "agua",
+      "”",
+      ".",
+      "parte",
+      ",",
+      "defensa",
+      "civil",
+      "afirmó",
+      "comienzo",
+      "ataques",
+      ",",
+      "costo",
+      "total",
+      "equipos",
+      "dañados",
+      "asciende",
+      "aproximadamente",
+      "1,3",
+      "millones",
+      "dólares",
+      ",",
+      "limita",
+      "severamente",
+      "capacidad",
+      "respuesta",
+      "emergencias",
+      ".",
+      "23",
+      "octubre",
+      "pasado",
+      ",",
+      "bombardeos",
+      "israelíes",
+      "desactivaron",
+      "sistema",
+      "defensa",
+      "civil",
+      "norte",
+      "gaza",
+      ",",
+      "obligó",
+      "rescatistas",
+      "reubicarse",
+      "centro",
+      "sur",
+      "franja",
+      ",",
+      "dejando",
+      "residentes",
+      "acceso",
+      "atención",
+      "humanitaria",
+      ".",
+      ",",
+      "lunes",
+      ",",
+      "alrededor",
+      "17",
+      "civiles",
+      "perdieron",
+      "vida",
+      "ataque",
+      "aéreo",
+      "vivienda",
+      "norte",
+      "gaza",
+      "."
+    ],
+    "token_count": 195,
+    "sentence_count": 8
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 23,
+      "IN": 18,
+      "VBP": 15,
+      "NN": 89,
+      "NNS": 22,
+      "JJ": 23,
+      "VBD": 6,
+      "CD": 15,
+      "RB": 1,
+      "FW": 68,
+      "VBZ": 1
+    },
+    "bigram_freq": {
+      "NNP-NNP": 5,
+      "NNP-IN": 2,
+      "IN-NNP": 3,
+      "NNP-VBP": 2,
+      "VBP-NN": 3,
+      "NN-NNS": 7,
+      "NNS-VBP": 11,
+      "VBP-JJ": 10,
+      "JJ-NN": 16,
+      "NN-VBD": 5,
+      "VBD-CD": 5,
+      "CD-NNS": 6,
+      "NNS-RB": 1,
+      "RB-VBP": 1,
+      "NN-NN": 48,
+      "JJ-FW": 1,
+      "FW-FW": 38,
+      "FW-NNP": 11,
+      "NNP-FW": 6,
+      "FW-NN": 10,
+      "NNS-VBD": 1,
+      "VBD-JJ": 1,
+      "JJ-CD": 1,
+      "CD-NN": 5,
+      "NN-VBP": 1,
+      "NN-IN": 12,
+      "IN-FW": 10,
+      "FW-NNS": 5,
+      "NNS-CD": 2,
+      "CD-JJ": 1,
+      "NNP-NN": 6,
+      "NN-FW": 9,
+      "NNS-JJ": 2,
+      "NN-JJ": 2,
+      "NNS-NNP": 1,
+      "NN-NNP": 2,
+      "FW-CD": 2,
+      "CD-FW": 1,
+      "IN-JJ": 3,
+      "JJ-NNS": 3,
+      "CD-IN": 2,
+      "IN-NN": 1,
+      "NN-VBZ": 1,
+      "VBZ-CD": 1,
+      "NNS-NNS": 1,
+      "VBP-FW": 1,
+      "FW-JJ": 2,
+      "NN-CD": 2,
+      "NNS-IN": 1,
+      "NNS-FW": 2,
+      "JJ-JJ": 2,
+      "NNP-CD": 1,
+      "VBP-IN": 1,
+      "IN-CD": 1
+    },
+    "trigram_freq": {
+      "NNP-NNP-IN": 2,
+      "NNP-IN-NNP": 1,
+      "IN-NNP-NNP": 2,
+      "NNP-NNP-VBP": 1,
+      "NNP-VBP-NN": 2,
+      "VBP-NN-NNS": 1,
+      "NN-NNS-VBP": 4,
+      "NNS-VBP-JJ": 8,
+      "VBP-JJ-NN": 6,
+      "JJ-NN-VBD": 2,
+      "NN-VBD-CD": 5,
+      "VBD-CD-NNS": 3,
+      "CD-NNS-RB": 1,
+      "NNS-RB-VBP": 1,
+      "RB-VBP-JJ": 1,
+      "JJ-NN-NN": 9,
+      "NN-NN-NNS": 3,
+      "VBP-JJ-FW": 1,
+      "JJ-FW-FW": 1,
+      "FW-FW-NNP": 6,
+      "FW-NNP-FW": 5,
+      "NNP-FW-NNP": 2,
+      "NNP-FW-FW": 2,
+      "FW-FW-NN": 4,
+      "FW-NN-NN": 3,
+      "NN-NN-VBD": 3,
+      "CD-NNS-VBD": 1,
+      "NNS-VBD-JJ": 1,
+      "VBD-JJ-CD": 1,
+      "JJ-CD-NN": 1,
+      "CD-NN-NN": 3,
+      "NN-NN-NN": 26,
+      "NN-NN-VBP": 1,
+      "NN-VBP-JJ": 1,
+      "VBD-CD-NN": 2,
+      "NN-NN-IN": 6,
+      "NN-IN-FW": 7,
+      "IN-FW-NNS": 3,
+      "FW-NNS-CD": 1,
+      "NNS-CD-JJ": 1,
+      "CD-JJ-NN": 1,
+      "JJ-NN-IN": 2,
+      "IN-FW-NNP": 2,
+      "FW-NNP-NN": 3,
+      "NNP-NN-IN": 1,
+      "NN-IN-NNP": 2,
+      "IN-NNP-NN": 1,
+      "NNP-NN-NN": 5,
+      "NN-NN-FW": 5,
+      "NN-FW-NN": 4,
+      "FW-NN-IN": 3,
+      "IN-FW-FW": 3,
+      "FW-FW-FW": 25,
+      "FW-NN-NNS": 1,
+      "NN-NNS-JJ": 1,
+      "NNS-JJ-NN": 1,
+      "NN-NN-JJ": 2,
+      "NN-JJ-NN": 2,
+      "NN-NNS-NNP": 1,
+      "NNS-NNP-VBP": 1,
+      "VBP-NN-NN": 2,
+      "NN-NN-NNP": 2,
+      "NN-NNP-NNP": 1,
+      "NNP-IN-FW": 1,
+      "NN-FW-FW": 4,
+      "FW-FW-CD": 1,
+      "FW-CD-FW": 1,
+      "CD-FW-FW": 1,
+      "NN-IN-JJ": 3,
+      "IN-JJ-NN": 2,
+      "FW-NNS-VBP": 4,
+      "VBP-JJ-NNS": 2,
+      "JJ-NNS-CD": 1,
+      "NNS-CD-IN": 1,
+      "CD-IN-NN": 1,
+      "IN-NN-NNS": 1,
+      "NNP-FW-NN": 2,
+      "FW-NN-VBZ": 1,
+      "NN-VBZ-CD": 1,
+      "VBZ-CD-NN": 1,
+      "CD-NN-NNS": 1,
+      "NN-NNS-NNS": 1,
+      "NNS-NNS-VBP": 1,
+      "JJ-NNS-VBP": 1,
+      "NNS-VBP-FW": 1,
+      "VBP-FW-FW": 1,
+      "FW-FW-JJ": 1,
+      "FW-JJ-NN": 2,
+      "JJ-NN-CD": 1,
+      "NN-CD-NN": 1,
+      "CD-NN-CD": 1,
+      "NN-CD-NNS": 1,
+      "CD-NNS-IN": 1,
+      "NNS-IN-FW": 1,
+      "IN-FW-CD": 1,
+      "FW-CD-NNS": 1,
+      "CD-NNS-JJ": 1,
+      "NNS-JJ-NNS": 1,
+      "JJ-NNS-FW": 1,
+      "NNS-FW-FW": 1,
+      "FW-NN-FW": 2,
+      "NN-FW-NNP": 1,
+      "FW-NNP-NNP": 1,
+      "NNP-NNP-NN": 1,
+      "IN-FW-JJ": 1,
+      "CD-NNS-FW": 1,
+      "NNS-FW-NNS": 1,
+      "VBP-JJ-JJ": 1,
+      "JJ-JJ-NN": 2,
+      "JJ-NN-FW": 2,
+      "FW-NNP-CD": 1,
+      "NNP-CD-IN": 1,
+      "CD-IN-FW": 1,
+      "NNP-NNP-FW": 1,
+      "IN-JJ-JJ": 1,
+      "FW-FW-NNS": 1,
+      "NN-NNP-NN": 1,
+      "NNS-VBP-IN": 1,
+      "VBP-IN-CD": 1,
+      "IN-CD-NNS": 1,
+      "CD-NNS-VBP": 1,
+      "NNS-VBP-NN": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 89,
+        "FW": 68,
+        "NNP": 23,
+        "JJ": 23,
+        "NNS": 22
+      },
+      "top_bigrams": {
+        "NN-NN": 48,
+        "FW-FW": 38,
+        "JJ-NN": 16,
+        "NN-IN": 12,
+        "NNS-VBP": 11
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 26,
+        "FW-FW-FW": 25,
+        "JJ-NN-NN": 9,
+        "NNS-VBP-JJ": 8,
+        "NN-IN-FW": 7
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 8,
+    "chunk_counts": {
+      "NP": 79,
+      "PP": 9,
+      "VP": 27,
+      "ADJP": 2
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 5,
+        "weight": 0.04
+      },
+      {
+        "rule": "NP -> ('Gaza', 'NNP')",
+        "frequency": 4,
+        "weight": 0.032
+      },
+      {
+        "rule": "NP -> ('este', 'NN') ('lunes', 'NNS')",
+        "frequency": 2,
+        "weight": 0.016
+      },
+      {
+        "rule": "NP -> ('Franja', 'NNP')",
+        "frequency": 2,
+        "weight": 0.016
+      },
+      {
+        "rule": "NP -> ('Por', 'NNP')",
+        "frequency": 2,
+        "weight": 0.016
+      },
+      {
+        "rule": "VP -> ('parte', 'VB')",
+        "frequency": 2,
+        "weight": 0.016
+      },
+      {
+        "rule": "NP -> ('Defensa', 'NNP') ('Civil', 'NNP')",
+        "frequency": 2,
+        "weight": 0.016
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.016
+      },
+      {
+        "rule": "S -> NP PP VP VP VP ('24', 'CD') NP ('la', 'RB') VP VP ('en', 'FW') ('la', 'FW') NP ('de', 'FW') NP (',', ',') ('en', 'FW') ('las', 'FW') NP VP ('76', 'CD') NP (',', ',') NP VP ('158', 'CD') NP (',', ',') NP NP VP ('a', 'DT') ('43.922', 'CD') NP ('de', 'IN') ('víctimas', 'FW') NP VP ('a', 'DT') ('103.898', 'CD') NP ('de', 'IN') ('lesionados', 'FW') ('.', '.')",
+        "frequency": 1,
+        "weight": 0.008
+      },
+      {
+        "rule": "NP -> ('El', 'NNP') ('Ministerio', 'NNP')",
+        "frequency": 1,
+        "weight": 0.008
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El Ministerio"
+      },
+      {
+        "label": "PP",
+        "text": "de Salud Palestino"
+      },
+      {
+        "label": "NP",
+        "text": "Salud Palestino"
+      },
+      {
+        "label": "VP",
+        "text": "informó este lunes"
+      },
+      {
+        "label": "NP",
+        "text": "este lunes"
+      },
+      {
+        "label": "VP",
+        "text": "que en las"
+      },
+      {
+        "label": "NP",
+        "text": "en las"
+      },
+      {
+        "label": "VP",
+        "text": "últimas"
+      },
+      {
+        "label": "NP",
+        "text": "horas"
+      },
+      {
+        "label": "VP",
+        "text": "ocupación sionista cometió cuatro masacres"
+      },
+      {
+        "label": "NP",
+        "text": "sionista cometió cuatro masacres"
+      },
+      {
+        "label": "VP",
+        "text": "contra familias"
+      },
+      {
+        "label": "NP",
+        "text": "Franja"
+      },
+      {
+        "label": "NP",
+        "text": "Gaza"
+      },
+      {
+        "label": "NP",
+        "text": "que fueron"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP El/NNP Ministerio/NNP)\n  (PP de/IN (NP Salud/NNP Palestino/NNP))\n  (VP informó/VBP (NP este/NN lunes/NNS))\n  (VP que/VBP (NP en/JJ las/NN))\n  (VP últimas/VBD)\n  24/CD\n  (NP horas/NNS)\n  la/RB\n  (VP\n    ocupación/VBP\n    (NP sionista/JJ cometió/NN cuatro/NN masacres/NNS))\n  (VP contra/VBP familias/JJ)\n  en/FW\n  la/FW\n  (NP Franja/NNP)\n  de/FW\n  (NP Gaza/NNP)\n  ,/,\n  en/FW\n  las/FW\n  (NP que/NN fueron/NN)\n  (VP asesinadas/VBD)\n  76/CD\n  (NP personas/NNS)\n  ,/,\n  (NP mientras/NNS)\n  (VP que/VBP)\n  158/CD\n  (NP resultaron/NN heridas/NN)\n  ,/,\n  (NP con/NN)\n  (NP lo/JJ cual/JJ se/NN)\n  (VP eleva/VBD)\n  a/DT\n  43.922/CD\n  (NP la/NN cifra/NN)\n  de/IN\n  víctimas/FW\n  (NP mortales/NNS)\n  (VP y/VBP)\n  a/DT\n  103.898/CD\n  (NP el/NN número/NN)\n  de/IN\n  lesionados/FW\n  ./.)",
+      "(S\n  (NP La/NNP cartera/NN)\n  (PP\n    de/IN\n    (NP\n      Salud/NNP\n      reiteró/NN\n      que/NN\n      el/NN\n      ejército/NN\n      israelí/NN\n      continúa/NN\n      obstaculizando/NN))\n  el/FW\n  (NP trabajo/NN)\n  de/IN\n  los/FW\n  equipos/FW\n  de/FW\n  (NP rescate/NN)\n  ,/,\n  (NP cuyos/NN integrantes/NNS)\n  (VP intentan/VBP)\n  (VP\n    acceder/VB\n    (NP a/DT los/NN cuerpos/NN atrapados/NN bajo/NN los/NN)\n    (NP escombros/JJ y/NN esparcidos/NN por/NN las/NN carreteras/NNS))\n  ./.)",
+      "(S\n  (NP Por/NNP)\n  otra/MD\n  (VP parte/VB)\n  ,/,\n  la/FW\n  (NP Defensa/NNP Civil/NNP)\n  de/IN\n  la/FW\n  (NP Franja/NNP)\n  de/FW\n  (NP Gaza/NNP)\n  (VP dio/VBZ (NP a/DT conocer/NN que/NN desde/NN))\n  el/FW\n  inicio/FW\n  de/FW\n  la/FW\n  ofensiva/FW\n  (NP israelí/NN)\n  ,/,\n  85/CD\n  de/FW\n  sus/FW\n  miembros/FW\n  (NP han/NN sido/NN asesinados/NN)\n  ,/,\n  mientras/FW\n  301/CD\n  (NP han/NN resultado/NN heridos/NN)\n  ./.)",
+      "(S\n  (NP A/DT través/NN)\n  (PP de/IN (NP un/JJ comunicado/NN))\n  ,/,\n  la/FW\n  organización/FW\n  (NP destacó/NN que/NN además/NN)\n  de/IN\n  las/FW\n  pérdidas/FW\n  (NP humanas/NNS)\n  ,/,\n  (VP al/VBP menos/JJ)\n  20/CD\n  (PP de/IN (NP sus/NN integrantes/NNS))\n  (VP han/VBP (NP sido/JJ arrestados/NN))\n  ,/,\n  (NP\n    lo/JJ\n    que/NN\n    agrava/NN\n    aún/NN\n    más/NN\n    la/NN\n    crisis/NN\n    humanitaria/NN)\n  (PP en/IN (NP la/NN región/NN))\n  ./.)",
+      "(S\n  (NP Asimismo/NNP)\n  ,/,\n  (VP el/VBZ (NP ministerio/NN resaltó/NN))\n  :/:\n  (ADJP “/JJ)\n  17/CD\n  (NP centros/NNS)\n  y/RB\n  (NP sedes/NNS generales/NNS)\n  (VP fueron/VBP (NP destruidas/JJ mientras/NNS))\n  (VP el/VBP)\n  número/FW\n  de/FW\n  vehículos/FW\n  dañados/FW\n  (VP llegó/VBZ)\n  a/DT\n  56/CD\n  ,/,\n  incluidos/RB\n  23/CD\n  (NP camiones/NNS)\n  de/FW\n  bomberos/FW\n  ,/,\n  11/CD\n  (NP ambulancias/NN y/NN seis/NN camiones/NNS)\n  (VP cisterna/VBP)\n  de/IN\n  agua/FW\n  (NP ”/NN)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "RECURSOS_NATURALES",
+      "APROBACION_RECHAZO",
+      "CANTIDADES_NUMERICAS",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "PAISES",
+      "LOCALIZACIONES_ESPECIFICAS",
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "CONFLICTOS_ARMADOS_OPERACIONES",
+      "JURIDICO_LEGISLATIVO_CORRUPCION",
+      "MONETARIOS"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "ataque aéreo",
+        "position": [
+          1729,
+          1741
+        ],
+        "start": 1729,
+        "end": 1741
+      },
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "bombardeos israelíes",
+        "position": [
+          1435,
+          1455
+        ],
+        "start": 1435,
+        "end": 1455
+      },
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "ocupación",
+        "position": [
+          83,
+          92
+        ],
+        "start": 83,
+        "end": 92
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "afirmó",
+        "position": [
+          1201,
+          1207
+        ],
+        "start": 1201,
+        "end": 1207
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "informó",
+        "position": [
+          33,
+          40
+        ],
+        "start": 33,
+        "end": 40
+      },
+      {
+        "category": "JURIDICO_LEGISLATIVO_CORRUPCION",
+        "matched_text": "defensa",
+        "position": [
+          584,
+          591
+        ],
+        "start": 584,
+        "end": 591
+      },
+      {
+        "category": "APROBACION_RECHAZO",
+        "matched_text": "destacó",
+        "position": [
+          796,
+          803
+        ],
+        "start": 796,
+        "end": 803
+      },
+      {
+        "category": "RECURSOS_NATURALES",
+        "matched_text": "agua",
+        "position": [
+          1161,
+          1165
+        ],
+        "start": 1161,
+        "end": 1165
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "israelí",
+        "position": [
+          384,
+          391
+        ],
+        "start": 384,
+        "end": 391
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "centro y sur",
+        "position": [
+          1569,
+          1581
+        ],
+        "start": 1569,
+        "end": 1581
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "76 personas",
+        "position": [
+          193,
+          204
+        ],
+        "start": 193,
+        "end": 204
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "3 millones",
+        "position": [
+          1313,
+          1323
+        ],
+        "start": 1313,
+        "end": 1323
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "aproximadamente 1",
+        "position": [
+          1295,
+          1312
+        ],
+        "start": 1295,
+        "end": 1312
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "alrededor de 17",
+        "position": [
+          1681,
+          1696
+        ],
+        "start": 1681,
+        "end": 1696
+      },
+      {
+        "category": "MONETARIOS",
+        "matched_text": "1,3 millones de dólares",
+        "position": [
+          1311,
+          1334
+        ],
+        "start": 1311,
+        "end": 1334
+      }
+    ],
+    "match_count": 15
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Defensa Civil",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Franja de Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Ministerio de Salud Palestino",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Gaza",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Ministerio de Salud Palestino",
+        "relacion": "INFORMAR",
+        "objeto": "Franja de Gaza"
+      },
+      {
+        "sujeto": "Defensa Civil",
+        "relacion": "DESACTIVAR",
+        "objeto": "Gaza"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.8271,
+    "pos": 0.0,
+    "neu": 0.973,
+    "neg": 0.027,
+    "label": "negative"
+  }
+}

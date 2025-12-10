@@ -1,0 +1,734 @@
+{
+  "url": "https://www.telesurtv.net/bombardeo-israeli-destroza-carreteras-y-puentes-en-siria/",
+  "title": "Bombardeo israelí destroza carreteras y puentes en Siria - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Ataque israelí",
+    "Guerra",
+    "Líbano"
+  ],
+  "text": "Un bombardeo israelí provocó severos perjuicios a diversos puentes y vías en la frontera entre Siria y Líbano, en la provincia occidental de Homs.\nIsrael lanza nuevos bombardeos contra suburbios del sur de la capital libanesa\nLa agencia de noticias oficial de Siria SANA, reportó que el ataque tuvo lugar aproximadamente a las 20H:05 del miércoles, cuando aviones israelíes lanzaron un bombardeo desde el territorio de Líbano, dirigido a los puentes del río Al-Assi y las vías en la región fronteriza, concretamente en la región de Al-Qusair.\nEl ataque causó una devastación considerable de la infraestructura, dejándola sin funcionamiento, según el medio.\nPreviamente, los medios locales sirios habían reportado que las defensas antiaéreas del país árabe “interceptaron los objetivos enemigos en el espacio aéreo” de la zona, aunque no han proporcionado más datos sobre este asunto.\nA pesar que los ataques de Israel en territorio sirio ya eran bastante habituales, han crecido significativamente desde el comienzo del conflicto genocida de Israel contra la Franja de Gaza el 7 de octubre de 2023, un conflicto que ha desencadenado un aumento de las tensiones en toda la zona.\nAsimismo, Siria ha condenado con fuerza los ataques de Israel a su territorio, interpretándolos como una infracción a su soberanía y un ataque.\nEn múltiples ocasiones, el gobierno del presidente Bashar al-Asad ha afirmado que responderá a las agresiones de Israel con “todos los medios posibles” y protegerá su territorio de las intervenciones extranjeras.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/bombardeo-israeli-destroza-carreteras-y-puentes-en-siria/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-11.json",
+    "message_index": 1045,
+    "message_id": 80384,
+    "date": "2024-11-14T10:55:18+00:00",
+    "text": "teleSUR\nBombardeo israelí destroza carreteras y puentes en Siria\nhttps://www.telesurtv.net/bombardeo-israeli-destroza-carreteras-y-puentes-en-siria/",
+    "photo_path": null,
+    "views": 2503,
+    "reactions": {
+      "🤬": 45,
+      "❤": 1,
+      "👍": 1
+    },
+    "total_reactions": 47
+  },
+  "preprocessing": {
+    "cleaned": "un bombardeo israelí provocó severos perjuicios a diversos puentes y vías en la frontera entre siria y líbano, en la provincia occidental de homs. israel lanza nuevos bombardeos contra suburbios del sur de la capital libanesa la agencia de noticias oficial de siria sana, reportó que el ataque tuvo lugar aproximadamente a las 20h:05 del miércoles, cuando aviones israelíes lanzaron un bombardeo desde el territorio de líbano, dirigido a los puentes del río al-assi y las vías en la región fronteriza, concretamente en la región de al-qusair. el ataque causó una devastación considerable de la infraestructura, dejándola sin funcionamiento, según el medio. previamente, los medios locales sirios habían reportado que las defensas antiaéreas del país árabe “interceptaron los objetivos enemigos en el espacio aéreo” de la zona, aunque no han proporcionado más datos sobre este asunto. a pesar que los ataques de israel en territorio sirio ya eran bastante habituales, han crecido significativamente desde el comienzo del conflicto genocida de israel contra la franja de gaza el 7 de octubre de 2023, un conflicto que ha desencadenado un aumento de las tensiones en toda la zona. asimismo, siria ha condenado con fuerza los ataques de israel a su territorio, interpretándolos como una infracción a su soberanía y un ataque. en múltiples ocasiones, el gobierno del presidente bashar al-asad ha afirmado que responderá a las agresiones de israel con “todos los medios posibles” y protegerá su territorio de las intervenciones extranjeras.",
+    "tokens": [
+      "bombardeo",
+      "israelí",
+      "provocó",
+      "severos",
+      "perjuicios",
+      "diversos",
+      "puentes",
+      "vías",
+      "frontera",
+      "siria",
+      "líbano",
+      ",",
+      "provincia",
+      "occidental",
+      "homs",
+      ".",
+      "israel",
+      "lanza",
+      "nuevos",
+      "bombardeos",
+      "suburbios",
+      "sur",
+      "capital",
+      "libanesa",
+      "agencia",
+      "noticias",
+      "oficial",
+      "siria",
+      "sana",
+      ",",
+      "reportó",
+      "ataque",
+      "lugar",
+      "aproximadamente",
+      "20h:05",
+      "miércoles",
+      ",",
+      "aviones",
+      "israelíes",
+      "lanzaron",
+      "bombardeo",
+      "territorio",
+      "líbano",
+      ",",
+      "dirigido",
+      "puentes",
+      "río",
+      "al-assi",
+      "vías",
+      "región",
+      "fronteriza",
+      ",",
+      "concretamente",
+      "región",
+      "al-qusair",
+      ".",
+      "ataque",
+      "causó",
+      "devastación",
+      "considerable",
+      "infraestructura",
+      ",",
+      "dejándola",
+      "funcionamiento",
+      ",",
+      "según",
+      "medio",
+      ".",
+      "previamente",
+      ",",
+      "medios",
+      "locales",
+      "sirios",
+      "reportado",
+      "defensas",
+      "antiaéreas",
+      "país",
+      "árabe",
+      "“",
+      "interceptaron",
+      "objetivos",
+      "enemigos",
+      "espacio",
+      "aéreo",
+      "”",
+      "zona",
+      ",",
+      "aunque",
+      "proporcionado",
+      "datos",
+      "asunto",
+      ".",
+      "pesar",
+      "ataques",
+      "israel",
+      "territorio",
+      "sirio",
+      "bastante",
+      "habituales",
+      ",",
+      "crecido",
+      "significativamente",
+      "comienzo",
+      "conflicto",
+      "genocida",
+      "israel",
+      "franja",
+      "gaza",
+      "7",
+      "octubre",
+      "2023",
+      ",",
+      "conflicto",
+      "desencadenado",
+      "aumento",
+      "tensiones",
+      "toda",
+      "zona",
+      ".",
+      "asimismo",
+      ",",
+      "siria",
+      "condenado",
+      "fuerza",
+      "ataques",
+      "israel",
+      "territorio",
+      ",",
+      "interpretándolos",
+      "infracción",
+      "soberanía",
+      "ataque",
+      ".",
+      "múltiples",
+      "ocasiones",
+      ",",
+      "gobierno",
+      "presidente",
+      "bashar",
+      "al-asad",
+      "afirmado",
+      "responderá",
+      "agresiones",
+      "israel",
+      "“",
+      "medios",
+      "posibles",
+      "”",
+      "protegerá",
+      "territorio",
+      "intervenciones",
+      "extranjeras",
+      "."
+    ],
+    "token_count": 153,
+    "sentence_count": 7
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 26,
+      "NN": 81,
+      "JJ": 21,
+      "NNS": 20,
+      "VBP": 8,
+      "IN": 11,
+      "FW": 48,
+      "VBD": 3,
+      "$": 1,
+      "CD": 2,
+      "VB": 1,
+      "VBZ": 4,
+      "DT": 1
+    },
+    "bigram_freq": {
+      "NNP-NN": 9,
+      "NN-NN": 46,
+      "NN-JJ": 11,
+      "JJ-NNS": 6,
+      "NNS-VBP": 8,
+      "VBP-NNS": 2,
+      "VBP-IN": 1,
+      "IN-FW": 5,
+      "FW-NN": 9,
+      "NN-NNP": 5,
+      "NNP-NNP": 7,
+      "NNP-FW": 6,
+      "FW-FW": 29,
+      "FW-NNP": 7,
+      "NNP-VBD": 1,
+      "VBD-JJ": 2,
+      "JJ-NN": 12,
+      "NNS-FW": 3,
+      "NN-VBD": 2,
+      "VBD-$": 1,
+      "$-CD": 1,
+      "CD-NN": 1,
+      "NN-NNS": 4,
+      "NNS-VB": 1,
+      "VB-NN": 1,
+      "NN-FW": 4,
+      "NN-IN": 6,
+      "IN-NNP": 5,
+      "NN-VBZ": 2,
+      "VBZ-JJ": 2,
+      "JJ-JJ": 1,
+      "JJ-NNP": 1,
+      "JJ-FW": 1,
+      "NNP-VBZ": 2,
+      "VBZ-NNS": 2,
+      "NNS-NNS": 4,
+      "VBP-NN": 2,
+      "VBP-JJ": 3,
+      "NN-DT": 1,
+      "DT-NN": 1,
+      "NNS-IN": 3,
+      "FW-IN": 1,
+      "IN-CD": 1,
+      "CD-JJ": 1,
+      "FW-NNS": 2,
+      "NNP-JJ": 1
+    },
+    "trigram_freq": {
+      "NNP-NN-NN": 9,
+      "NN-NN-NN": 23,
+      "NN-NN-JJ": 8,
+      "NN-JJ-NNS": 4,
+      "JJ-NNS-VBP": 3,
+      "NNS-VBP-NNS": 2,
+      "VBP-NNS-VBP": 1,
+      "NNS-VBP-IN": 1,
+      "VBP-IN-FW": 1,
+      "IN-FW-NN": 1,
+      "FW-NN-NN": 6,
+      "NN-NN-NNP": 4,
+      "NN-NNP-NNP": 1,
+      "NNP-NNP-FW": 2,
+      "NNP-FW-FW": 3,
+      "FW-FW-FW": 19,
+      "FW-FW-NNP": 5,
+      "FW-NNP-NNP": 4,
+      "NNP-NNP-VBD": 1,
+      "NNP-VBD-JJ": 1,
+      "VBD-JJ-NN": 1,
+      "JJ-NN-JJ": 2,
+      "JJ-NNS-FW": 1,
+      "NNS-FW-FW": 2,
+      "FW-FW-NN": 4,
+      "NN-NNP-FW": 1,
+      "NNP-NNP-NN": 4,
+      "NN-NN-VBD": 2,
+      "NN-VBD-$": 1,
+      "VBD-$-CD": 1,
+      "$-CD-NN": 1,
+      "CD-NN-NNS": 1,
+      "NN-NNS-VBP": 2,
+      "VBP-NNS-VB": 1,
+      "NNS-VB-NN": 1,
+      "VB-NN-JJ": 1,
+      "NN-JJ-NN": 6,
+      "JJ-NN-NN": 6,
+      "NN-NN-FW": 3,
+      "NN-FW-NN": 2,
+      "FW-NN-IN": 1,
+      "NN-IN-NNP": 2,
+      "IN-NNP-NN": 2,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-JJ": 2,
+      "VBZ-JJ-JJ": 1,
+      "JJ-JJ-NNP": 1,
+      "JJ-NNP-NN": 1,
+      "NN-NN-IN": 2,
+      "NN-IN-FW": 4,
+      "IN-FW-FW": 2,
+      "NN-FW-FW": 2,
+      "NN-JJ-FW": 1,
+      "JJ-FW-FW": 1,
+      "NN-NNP-VBZ": 2,
+      "NNP-VBZ-NNS": 2,
+      "VBZ-NNS-NNS": 1,
+      "NNS-NNS-NNS": 1,
+      "NNS-NNS-VBP": 2,
+      "NNS-VBP-NN": 2,
+      "VBP-NN-NN": 2,
+      "NN-NN-NNS": 3,
+      "NNS-VBP-JJ": 3,
+      "VBP-JJ-NN": 3,
+      "NN-NNP-NN": 1,
+      "JJ-NN-IN": 3,
+      "FW-NN-DT": 1,
+      "NN-DT-NN": 1,
+      "DT-NN-VBZ": 1,
+      "VBZ-JJ-NNS": 1,
+      "NN-NNS-IN": 2,
+      "NNS-IN-NNP": 3,
+      "IN-NNP-FW": 1,
+      "NNP-FW-NN": 1,
+      "NN-VBD-JJ": 1,
+      "VBD-JJ-NNS": 1,
+      "IN-NNP-NNP": 2,
+      "NNP-FW-NNP": 2,
+      "FW-NNP-FW": 2,
+      "FW-FW-IN": 1,
+      "FW-IN-CD": 1,
+      "IN-CD-JJ": 1,
+      "CD-JJ-NN": 1,
+      "IN-FW-NNS": 2,
+      "FW-NNS-FW": 1,
+      "NNS-FW-NN": 1,
+      "FW-NN-FW": 1,
+      "JJ-NN-NNP": 1,
+      "VBZ-NNS-FW": 1,
+      "FW-NNP-JJ": 1,
+      "NNP-JJ-NN": 1,
+      "JJ-NNS-IN": 1,
+      "JJ-NNS-NNS": 1,
+      "FW-NNS-NNS": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 81,
+        "FW": 48,
+        "NNP": 26,
+        "JJ": 21,
+        "NNS": 20
+      },
+      "top_bigrams": {
+        "NN-NN": 46,
+        "FW-FW": 29,
+        "JJ-NN": 12,
+        "NN-JJ": 11,
+        "NNP-NN": 9
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 23,
+        "FW-FW-FW": 19,
+        "NNP-NN-NN": 9,
+        "NN-NN-JJ": 8,
+        "FW-NN-NN": 6
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 7,
+    "chunk_counts": {
+      "NP": 67,
+      "VP": 19,
+      "ADJP": 2,
+      "PP": 6
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 6,
+        "weight": 0.0594
+      },
+      {
+        "rule": "NP -> ('Israel', 'NNP')",
+        "frequency": 3,
+        "weight": 0.0297
+      },
+      {
+        "rule": "S -> NP VP VP ('en', 'IN') ('la', 'FW') NP (',', ',') ('en', 'FW') ('la', 'FW') ('provincia', 'FW') ('occidental', 'FW') ('de', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0099
+      },
+      {
+        "rule": "NP -> ('Un', 'NNP') ('bombardeo', 'NN') ('israelí', 'NN') ('provocó', 'NN')",
+        "frequency": 1,
+        "weight": 0.0099
+      },
+      {
+        "rule": "VP -> ('severos', 'VBP') NP NP",
+        "frequency": 1,
+        "weight": 0.0099
+      },
+      {
+        "rule": "NP -> ('perjuicios', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0099
+      },
+      {
+        "rule": "NP -> ('a', 'DT') ('diversos', 'NN')",
+        "frequency": 1,
+        "weight": 0.0099
+      },
+      {
+        "rule": "VP -> ('puentes', 'VBZ') NP",
+        "frequency": 1,
+        "weight": 0.0099
+      },
+      {
+        "rule": "NP -> ('y', 'JJ') ('vías', 'NN')",
+        "frequency": 1,
+        "weight": 0.0099
+      },
+      {
+        "rule": "NP -> ('frontera', 'NN') ('entre', 'NN') ('Siria', 'NNP') ('y', 'NNP') ('Líbano', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0099
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Un bombardeo israelí provocó"
+      },
+      {
+        "label": "VP",
+        "text": "severos perjuicios a diversos"
+      },
+      {
+        "label": "NP",
+        "text": "perjuicios"
+      },
+      {
+        "label": "NP",
+        "text": "a diversos"
+      },
+      {
+        "label": "VP",
+        "text": "puentes y vías"
+      },
+      {
+        "label": "NP",
+        "text": "y vías"
+      },
+      {
+        "label": "NP",
+        "text": "frontera entre Siria y Líbano"
+      },
+      {
+        "label": "NP",
+        "text": "Homs"
+      },
+      {
+        "label": "NP",
+        "text": "Israel"
+      },
+      {
+        "label": "VP",
+        "text": "lanza nuevos bombardeos contra suburbios"
+      },
+      {
+        "label": "NP",
+        "text": "nuevos bombardeos"
+      },
+      {
+        "label": "NP",
+        "text": "contra suburbios"
+      },
+      {
+        "label": "NP",
+        "text": "capital libanesa La"
+      },
+      {
+        "label": "NP",
+        "text": "Siria SANA"
+      },
+      {
+        "label": "NP",
+        "text": "reportó que el ataque tuvo lugar"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Un/NNP bombardeo/NN israelí/NN provocó/NN)\n  (VP severos/VBP (NP perjuicios/NNS) (NP a/DT diversos/NN))\n  (VP puentes/VBZ (NP y/JJ vías/NN))\n  en/IN\n  la/FW\n  (NP frontera/NN entre/NN Siria/NNP y/NNP Líbano/NNP)\n  ,/,\n  en/FW\n  la/FW\n  provincia/FW\n  occidental/FW\n  de/FW\n  (NP Homs/NNP)\n  ./.)",
+      "(S\n  (NP Israel/NNP)\n  (VP\n    lanza/VBZ\n    (NP nuevos/JJ bombardeos/NNS)\n    (NP contra/JJ suburbios/NNS))\n  del/FW\n  sur/FW\n  de/FW\n  la/FW\n  (NP capital/NN libanesa/NN La/NNP)\n  agencia/FW\n  de/FW\n  noticias/FW\n  oficial/FW\n  de/FW\n  (NP Siria/NNP SANA/NNP)\n  ,/,\n  (NP reportó/NN que/NN el/NN ataque/NN tuvo/NN lugar/NN)\n  (VP aproximadamente/VBZ)\n  a/DT\n  (ADJP las/JJ)\n  20H:05/CD\n  (NP del/NN miércoles/NNS)\n  ,/,\n  (NP cuando/NN aviones/NNS)\n  (VP\n    israelíes/VBP\n    (NP lanzaron/NN)\n    (NP un/JJ bombardeo/NN desde/NN))\n  el/FW\n  (NP territorio/NN)\n  (PP de/IN (NP Líbano/NNP))\n  ,/,\n  (VP dirigido/VBZ (NP a/DT los/JJ puentes/NNS))\n  (VP del/VBP (NP río/JJ Al-Assi/NNP y/NN las/NNS))\n  (VP vías/VBP en/JJ)\n  la/FW\n  región/FW\n  (NP fronteriza/NN)\n  ,/,\n  (NP concretamente/NN)\n  en/FW\n  la/FW\n  región/FW\n  (PP de/IN (NP Al-Qusair/NNP))\n  ./.)",
+      "(S\n  (NP El/NNP ataque/NN causó/NN)\n  (NP una/JJ devastación/NN)\n  (ADJP considerable/JJ)\n  de/FW\n  la/FW\n  (NP infraestructura/NN)\n  ,/,\n  (NP dejándola/NN sin/NN funcionamiento/NN)\n  ,/,\n  (NP según/JJ el/NN medio/NN)\n  ./.)",
+      "(S\n  (NP Previamente/NNP)\n  ,/,\n  (NP los/JJ medios/NNS)\n  (VP\n    locales/VBZ\n    (NP sirios/NNS)\n    (NP habían/JJ reportado/NN que/NN las/NNS))\n  (VP\n    defensas/VBP\n    (NP\n      antiaéreas/JJ\n      del/NN\n      país/NN\n      árabe/NNP\n      “/NNP\n      interceptaron/NN\n      los/NN)\n    (NP objetivos/JJ enemigos/NN))\n  en/IN\n  el/FW\n  espacio/FW\n  aéreo/FW\n  ”/FW\n  de/FW\n  la/FW\n  zona/FW\n  ,/,\n  (VP aunque/VBZ (NP no/DT han/NN))\n  (VP proporcionado/VBZ (NP más/JJ datos/NNS))\n  (VP sobre/VBP (NP este/NN asunto/NN))\n  ./.)",
+      "(S\n  (NP A/DT pesar/NN que/NN los/NN ataques/NNS)\n  (PP de/IN (NP Israel/NNP))\n  en/FW\n  (NP territorio/NN sirio/NN ya/NN)\n  (VP eran/VBD (NP bastante/JJ habituales/NNS))\n  ,/,\n  (NP\n    han/NN\n    crecido/NN\n    significativamente/NN\n    desde/NN\n    el/NN\n    comienzo/NN)\n  del/FW\n  (NP conflicto/NN genocida/NN)\n  (PP de/IN (NP Israel/NNP contra/NNP))\n  la/FW\n  (NP Franja/NNP)\n  de/FW\n  (NP Gaza/NNP)\n  (VP el/VBD)\n  7/CD\n  de/FW\n  octubre/FW\n  de/IN\n  2023/CD\n  ,/,\n  (NP un/JJ conflicto/NN que/NN ha/NN desencadenado/NN)\n  (NP un/JJ aumento/NN)\n  de/IN\n  las/FW\n  (NP tensiones/NNS)\n  en/FW\n  (NP toda/NN la/NN zona/NN)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "GOBIERNOS_OFICIALES",
+      "RECURSOS_NATURALES",
+      "REGIONES_PROVINCIAS",
+      "PAISES",
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "CONFLICTOS_ARMADOS_OPERACIONES",
+      "FECHAS_ESPECIFICAS"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "conflicto genocida de israel contra la",
+        "position": [
+          1020,
+          1058
+        ],
+        "start": 1020,
+        "end": 1058
+      },
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "ataque tuvo lugar aproximadamente a las 20h:05 del miércoles, cuando aviones israelíes",
+        "position": [
+          287,
+          373
+        ],
+        "start": 287,
+        "end": 373
+      },
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "genocida de israel contra la franja de gaza",
+        "position": [
+          1030,
+          1073
+        ],
+        "start": 1030,
+        "end": 1073
+      },
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "capital",
+        "position": [
+          209,
+          216
+        ],
+        "start": 209,
+        "end": 216
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "gobierno del presidente bashar",
+        "position": [
+          1349,
+          1379
+        ],
+        "start": 1349,
+        "end": 1379
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente bashar al",
+        "position": [
+          1362,
+          1382
+        ],
+        "start": 1362,
+        "end": 1382
+      },
+      {
+        "category": "RECURSOS_NATURALES",
+        "matched_text": "río",
+        "position": [
+          454,
+          457
+        ],
+        "start": 454,
+        "end": 457
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "israelí",
+        "position": [
+          13,
+          20
+        ],
+        "start": 13,
+        "end": 20
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "provincia occidental",
+        "position": [
+          117,
+          137
+        ],
+        "start": 117,
+        "end": 137
+      },
+      {
+        "category": "FECHAS_ESPECIFICAS",
+        "matched_text": "7 de octubre de 2023",
+        "position": [
+          1077,
+          1097
+        ],
+        "start": 1077,
+        "end": 1097
+      }
+    ],
+    "match_count": 10
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Franja de Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "río Al-Assi",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Homs",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Al-Qusair",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Líbano",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Israel",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Bashar al-Asad",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "SANA",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Siria",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Israel",
+        "relacion": "LANZAR_REPORTAR",
+        "objeto": "Siria"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "LANZAR_REPORTAR",
+        "objeto": "SANA"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "LANZAR_REPORTAR",
+        "objeto": "Líbano"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "LANZAR_REPORTAR",
+        "objeto": "río Al-Assi"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "LANZAR_REPORTAR",
+        "objeto": "Al-Qusair"
+      },
+      {
+        "sujeto": "Siria",
+        "relacion": "LANZAR_REPORTAR",
+        "objeto": "Líbano"
+      },
+      {
+        "sujeto": "Siria",
+        "relacion": "LANZAR_REPORTAR",
+        "objeto": "río Al-Assi"
+      },
+      {
+        "sujeto": "Siria",
+        "relacion": "LANZAR_REPORTAR",
+        "objeto": "Al-Qusair"
+      },
+      {
+        "sujeto": "SANA",
+        "relacion": "LANZAR_REPORTAR",
+        "objeto": "Líbano"
+      },
+      {
+        "sujeto": "SANA",
+        "relacion": "LANZAR_REPORTAR",
+        "objeto": "río Al-Assi"
+      },
+      {
+        "sujeto": "SANA",
+        "relacion": "LANZAR_REPORTAR",
+        "objeto": "Al-Qusair"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "CRECER",
+        "objeto": "Franja de Gaza"
+      },
+      {
+        "sujeto": "Siria",
+        "relacion": "CONDENAR",
+        "objeto": "Israel"
+      },
+      {
+        "sujeto": "Bashar al-Asad",
+        "relacion": "AFIRMAR",
+        "objeto": "Israel"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.1027,
+    "pos": 0.031,
+    "neu": 0.945,
+    "neg": 0.025,
+    "label": "positive"
+  }
+}

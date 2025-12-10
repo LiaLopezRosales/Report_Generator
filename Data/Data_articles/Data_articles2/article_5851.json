@@ -1,0 +1,699 @@
+{
+  "url": "https://www.telesurtv.net/israel-asesina-a-15-gazaties-en-campamento-de-refugiados/",
+  "title": "Israel asesina a 15 gazatíes en campamento de refugiados - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Conflicto",
+    "conflicto destacado",
+    "Gaza",
+    "Israel",
+    "Muertos"
+  ],
+  "text": "Un nuevo ataque de la ocupación israelí contra el campamento de refugiados al-Shati, en la Franja de Gaza, en la noche del lunes dejó un saldo de 14 palestinos muertos y 25 heridos.\nLas autoridades médicas informaron que el bombardeo aéreo se dirigió a las tiendas de campaña situadas en el campamento, ubicado en el oeste de la ciudad de Gaza.\nEsta reciente violación de los derechos humanos está alineada con el objetivo de limpieza étnica que persigue Israel, marcando el inicio de la segunda fase de su plan: la repoblación del territorio palestino una vez que los habitantes sean desplazados.\nCon esta nueva ofensiva, ya son numerosas las víctimas, incluyendo mujeres, niños y ancianos, que se suman a las 59.029 muertes y 142.135 heridos desde el inicio del conflicto en octubre de 2023.\nAún no se han recuperado todos los cuerpos de las víctimas, ya que algunos permanecen bajo los escombros en las calles, y los ataques han impedido a las autoridades y a los familiares llevar a cabo los rescates.\nPor otro lado, la población en Gaza enfrenta una severa hambruna, dado que Israel continúa bloqueando la entrada de camiones con ayuda humanitaria a los territorios ocupados por sus fuerzas. La ONU y varios países de la comunidad internacional han rechazado en múltiples ocasiones estas acciones ilegales.\nLos intensos bombardeos persisten en toda la Franja de Gaza, especialmente en áreas densamente pobladas por civiles desplazados. La situación humanitaria es crítica, con una alarmante escasez de alimentos, agua y medicamentos.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/israel-asesina-a-15-gazaties-en-campamento-de-refugiados/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-07.json",
+    "message_index": 785,
+    "message_id": 99604,
+    "date": "2025-07-22T09:55:07+00:00",
+    "text": "teleSUR\nIsrael asesina a 15 gazatíes en campamento de refugiados\nhttps://www.telesurtv.net/israel-asesina-a-15-gazaties-en-campamento-de-refugiados/",
+    "photo_path": null,
+    "views": 1606,
+    "reactions": {
+      "🤬": 33,
+      "😭": 5,
+      "❤": 1
+    },
+    "total_reactions": 39
+  },
+  "preprocessing": {
+    "cleaned": "un nuevo ataque de la ocupación israelí contra el campamento de refugiados al-shati, en la franja de gaza, en la noche del lunes dejó un saldo de 14 palestinos muertos y 25 heridos. las autoridades médicas informaron que el bombardeo aéreo se dirigió a las tiendas de campaña situadas en el campamento, ubicado en el oeste de la ciudad de gaza. esta reciente violación de los derechos humanos está alineada con el objetivo de limpieza étnica que persigue israel, marcando el inicio de la segunda fase de su plan: la repoblación del territorio palestino una vez que los habitantes sean desplazados. con esta nueva ofensiva, ya son numerosas las víctimas, incluyendo mujeres, niños y ancianos, que se suman a las 59.029 muertes y 142.135 heridos desde el inicio del conflicto en octubre de 2023. aún no se han recuperado todos los cuerpos de las víctimas, ya que algunos permanecen bajo los escombros en las calles, y los ataques han impedido a las autoridades y a los familiares llevar a cabo los rescates. por otro lado, la población en gaza enfrenta una severa hambruna, dado que israel continúa bloqueando la entrada de camiones con ayuda humanitaria a los territorios ocupados por sus fuerzas. la onu y varios países de la comunidad internacional han rechazado en múltiples ocasiones estas acciones ilegales. los intensos bombardeos persisten en toda la franja de gaza, especialmente en áreas densamente pobladas por civiles desplazados. la situación humanitaria es crítica, con una alarmante escasez de alimentos, agua y medicamentos.",
+    "tokens": [
+      "nuevo",
+      "ataque",
+      "ocupación",
+      "israelí",
+      "campamento",
+      "refugiados",
+      "al-shati",
+      ",",
+      "franja",
+      "gaza",
+      ",",
+      "noche",
+      "lunes",
+      "dejó",
+      "saldo",
+      "14",
+      "palestinos",
+      "muertos",
+      "25",
+      "heridos",
+      ".",
+      "autoridades",
+      "médicas",
+      "informaron",
+      "bombardeo",
+      "aéreo",
+      "dirigió",
+      "tiendas",
+      "campaña",
+      "situadas",
+      "campamento",
+      ",",
+      "ubicado",
+      "oeste",
+      "ciudad",
+      "gaza",
+      ".",
+      "reciente",
+      "violación",
+      "derechos",
+      "humanos",
+      "alineada",
+      "objetivo",
+      "limpieza",
+      "étnica",
+      "persigue",
+      "israel",
+      ",",
+      "marcando",
+      "inicio",
+      "segunda",
+      "fase",
+      "plan",
+      ":",
+      "repoblación",
+      "territorio",
+      "palestino",
+      "vez",
+      "habitantes",
+      "desplazados",
+      ".",
+      "nueva",
+      "ofensiva",
+      ",",
+      "numerosas",
+      "víctimas",
+      ",",
+      "incluyendo",
+      "mujeres",
+      ",",
+      "niños",
+      "ancianos",
+      ",",
+      "suman",
+      "59.029",
+      "muertes",
+      "142.135",
+      "heridos",
+      "inicio",
+      "conflicto",
+      "octubre",
+      "2023.",
+      "aún",
+      "recuperado",
+      "cuerpos",
+      "víctimas",
+      ",",
+      "permanecen",
+      "bajo",
+      "escombros",
+      "calles",
+      ",",
+      "ataques",
+      "impedido",
+      "autoridades",
+      "familiares",
+      "llevar",
+      "cabo",
+      "rescates",
+      ".",
+      "lado",
+      ",",
+      "población",
+      "gaza",
+      "enfrenta",
+      "severa",
+      "hambruna",
+      ",",
+      "dado",
+      "israel",
+      "continúa",
+      "bloqueando",
+      "entrada",
+      "camiones",
+      "ayuda",
+      "humanitaria",
+      "territorios",
+      "ocupados",
+      "fuerzas",
+      ".",
+      "onu",
+      "varios",
+      "países",
+      "comunidad",
+      "internacional",
+      "rechazado",
+      "múltiples",
+      "ocasiones",
+      "acciones",
+      "ilegales",
+      ".",
+      "intensos",
+      "bombardeos",
+      "persisten",
+      "toda",
+      "franja",
+      "gaza",
+      ",",
+      "especialmente",
+      "áreas",
+      "densamente",
+      "pobladas",
+      "civiles",
+      "desplazados",
+      ".",
+      "situación",
+      "humanitaria",
+      "crítica",
+      ",",
+      "alarmante",
+      "escasez",
+      "alimentos",
+      ",",
+      "agua",
+      "medicamentos",
+      "."
+    ],
+    "token_count": 156,
+    "sentence_count": 9
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 20,
+      "JJ": 29,
+      "NN": 59,
+      "IN": 10,
+      "FW": 68,
+      "NNS": 23,
+      "VBP": 17,
+      "CD": 5,
+      "VBD": 1,
+      "VBZ": 4,
+      "DT": 1,
+      "CC": 1
+    },
+    "bigram_freq": {
+      "NNP-JJ": 1,
+      "JJ-NN": 16,
+      "NN-IN": 8,
+      "IN-FW": 5,
+      "FW-FW": 43,
+      "FW-JJ": 5,
+      "JJ-JJ": 3,
+      "NN-NN": 29,
+      "NN-FW": 6,
+      "FW-NNP": 6,
+      "NNP-FW": 7,
+      "FW-NNS": 5,
+      "NNS-VBP": 12,
+      "VBP-JJ": 10,
+      "IN-CD": 1,
+      "CD-NNS": 3,
+      "VBP-CD": 1,
+      "CD-JJ": 1,
+      "JJ-NNP": 1,
+      "NNP-NNS": 1,
+      "VBP-NN": 2,
+      "NN-VBP": 3,
+      "NN-JJ": 4,
+      "NNS-IN": 2,
+      "IN-NN": 1,
+      "JJ-FW": 3,
+      "NNP-NNP": 3,
+      "NNP-VBD": 1,
+      "VBD-FW": 1,
+      "JJ-NNS": 6,
+      "NNP-NN": 3,
+      "NN-NNP": 3,
+      "FW-NN": 7,
+      "NN-VBZ": 3,
+      "VBZ-JJ": 2,
+      "NNS-NNP": 3,
+      "NNP-VBP": 2,
+      "NN-NNS": 3,
+      "VBZ-CD": 1,
+      "NNS-CD": 1,
+      "NNS-JJ": 2,
+      "FW-CD": 1,
+      "CD-NNP": 1,
+      "NNP-DT": 1,
+      "DT-NN": 1,
+      "VBP-NNS": 2,
+      "IN-JJ": 1,
+      "IN-NNP": 1,
+      "FW-VBZ": 1,
+      "VBZ-FW": 1,
+      "IN-NNS": 1,
+      "NNS-NNS": 2,
+      "VBP-FW": 1,
+      "NNP-CC": 1,
+      "CC-FW": 1,
+      "VBP-NNP": 1
+    },
+    "trigram_freq": {
+      "NNP-JJ-NN": 1,
+      "JJ-NN-IN": 4,
+      "NN-IN-FW": 5,
+      "IN-FW-FW": 3,
+      "FW-FW-JJ": 3,
+      "FW-JJ-JJ": 1,
+      "JJ-JJ-NN": 2,
+      "JJ-NN-NN": 10,
+      "NN-NN-IN": 4,
+      "IN-FW-JJ": 1,
+      "FW-JJ-NN": 3,
+      "JJ-NN-FW": 1,
+      "NN-FW-NNP": 2,
+      "FW-NNP-FW": 3,
+      "NNP-FW-NNP": 2,
+      "NNP-FW-FW": 2,
+      "FW-FW-FW": 28,
+      "FW-FW-NNS": 4,
+      "FW-NNS-VBP": 3,
+      "NNS-VBP-JJ": 7,
+      "VBP-JJ-NN": 7,
+      "NN-IN-CD": 1,
+      "IN-CD-NNS": 1,
+      "CD-NNS-VBP": 1,
+      "NNS-VBP-CD": 1,
+      "VBP-CD-JJ": 1,
+      "CD-JJ-NNP": 1,
+      "JJ-NNP-NNS": 1,
+      "NNP-NNS-VBP": 1,
+      "NNS-VBP-NN": 1,
+      "VBP-NN-NN": 2,
+      "NN-NN-VBP": 2,
+      "NN-VBP-NN": 1,
+      "NN-NN-NN": 12,
+      "NN-NN-JJ": 4,
+      "NN-JJ-NN": 2,
+      "IN-FW-NNS": 1,
+      "FW-NNS-IN": 1,
+      "NNS-IN-NN": 1,
+      "IN-NN-NN": 1,
+      "NN-JJ-FW": 1,
+      "JJ-FW-FW": 3,
+      "FW-FW-NNP": 2,
+      "FW-NNP-NNP": 1,
+      "NNP-NNP-VBD": 1,
+      "NNP-VBD-FW": 1,
+      "VBD-FW-FW": 1,
+      "FW-JJ-NNS": 1,
+      "JJ-NNS-VBP": 3,
+      "NN-NN-FW": 2,
+      "NN-FW-FW": 4,
+      "FW-NNP-NN": 1,
+      "NNP-NN-NN": 3,
+      "NN-NN-NNP": 3,
+      "NN-NNP-NNP": 2,
+      "NNP-NNP-FW": 2,
+      "FW-FW-NN": 5,
+      "FW-NN-FW": 3,
+      "FW-NN-VBP": 1,
+      "NN-VBP-JJ": 1,
+      "NN-NN-VBZ": 2,
+      "NN-VBZ-JJ": 2,
+      "VBZ-JJ-NNS": 2,
+      "JJ-NNS-NNP": 1,
+      "NNS-NNP-VBP": 2,
+      "NNP-VBP-JJ": 2,
+      "VBP-JJ-FW": 1,
+      "FW-NN-NNS": 2,
+      "NN-NNS-VBP": 2,
+      "NN-VBZ-CD": 1,
+      "VBZ-CD-NNS": 1,
+      "CD-NNS-CD": 1,
+      "NNS-CD-NNS": 1,
+      "CD-NNS-JJ": 1,
+      "NNS-JJ-JJ": 1,
+      "FW-FW-CD": 1,
+      "FW-CD-NNP": 1,
+      "CD-NNP-DT": 1,
+      "NNP-DT-NN": 1,
+      "DT-NN-VBZ": 1,
+      "JJ-NNS-JJ": 1,
+      "NNS-JJ-NN": 1,
+      "NNS-VBP-NNS": 2,
+      "VBP-NNS-VBP": 1,
+      "VBP-JJ-NNS": 2,
+      "JJ-NNS-IN": 1,
+      "NNS-IN-JJ": 1,
+      "IN-JJ-NNS": 1,
+      "JJ-NN-NNS": 1,
+      "NN-NNS-NNP": 1,
+      "NN-IN-NNP": 1,
+      "IN-NNP-FW": 1,
+      "NNP-FW-JJ": 1,
+      "NN-NNP-NN": 1,
+      "NNP-FW-VBZ": 1,
+      "FW-VBZ-FW": 1,
+      "VBZ-FW-FW": 1,
+      "NN-IN-NNS": 1,
+      "IN-NNS-NNS": 1,
+      "NNS-NNS-VBP": 1,
+      "VBP-NNS-NNS": 1,
+      "NNS-NNS-NNP": 1,
+      "NNS-NNP-NN": 1,
+      "NN-VBP-FW": 1,
+      "VBP-FW-NN": 1,
+      "FW-NNP-CC": 1,
+      "NNP-CC-FW": 1,
+      "CC-FW-FW": 1,
+      "NNS-VBP-NNP": 1,
+      "VBP-NNP-FW": 1,
+      "NNP-FW-NN": 1,
+      "FW-NN-NN": 1,
+      "NN-JJ-JJ": 1,
+      "JJ-JJ-FW": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "FW": 68,
+        "NN": 59,
+        "JJ": 29,
+        "NNS": 23,
+        "NNP": 20
+      },
+      "top_bigrams": {
+        "FW-FW": 43,
+        "NN-NN": 29,
+        "JJ-NN": 16,
+        "NNS-VBP": 12,
+        "VBP-JJ": 10
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 28,
+        "NN-NN-NN": 12,
+        "JJ-NN-NN": 10,
+        "NNS-VBP-JJ": 7,
+        "VBP-JJ-NN": 7
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 9,
+    "chunk_counts": {
+      "NP": 67,
+      "ADJP": 5,
+      "VP": 21,
+      "PP": 2
+    },
+    "top_rules": [
+      {
+        "rule": "NP -> ('Gaza', 'NNP')",
+        "frequency": 4,
+        "weight": 0.0385
+      },
+      {
+        "rule": "NP -> ('Franja', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0192
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0192
+      },
+      {
+        "rule": "S -> NP NP ('de', 'IN') ('la', 'FW') ('ocupación', 'FW') NP ('de', 'IN') ('refugiados', 'FW') ADJP (',', ',') ('en', 'FW') ('la', 'FW') NP ('de', 'FW') NP (',', ',') ('en', 'FW') ('la', 'FW') ('noche', 'FW') ('del', 'FW') NP VP ('de', 'IN') ('14', 'CD') NP VP ('25', 'CD') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0096
+      },
+      {
+        "rule": "NP -> ('Un', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0096
+      },
+      {
+        "rule": "NP -> ('nuevo', 'JJ') ('ataque', 'NN')",
+        "frequency": 1,
+        "weight": 0.0096
+      },
+      {
+        "rule": "NP -> ('israelí', 'JJ') ('contra', 'JJ') ('el', 'NN') ('campamento', 'NN')",
+        "frequency": 1,
+        "weight": 0.0096
+      },
+      {
+        "rule": "ADJP -> ('al-Shati', 'JJ')",
+        "frequency": 1,
+        "weight": 0.0096
+      },
+      {
+        "rule": "NP -> ('lunes', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0096
+      },
+      {
+        "rule": "VP -> ('dejó', 'VBP') NP",
+        "frequency": 1,
+        "weight": 0.0096
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Un"
+      },
+      {
+        "label": "NP",
+        "text": "nuevo ataque"
+      },
+      {
+        "label": "NP",
+        "text": "israelí contra el campamento"
+      },
+      {
+        "label": "ADJP",
+        "text": "al-Shati"
+      },
+      {
+        "label": "NP",
+        "text": "Franja"
+      },
+      {
+        "label": "NP",
+        "text": "Gaza"
+      },
+      {
+        "label": "NP",
+        "text": "lunes"
+      },
+      {
+        "label": "VP",
+        "text": "dejó un saldo"
+      },
+      {
+        "label": "NP",
+        "text": "un saldo"
+      },
+      {
+        "label": "NP",
+        "text": "palestinos"
+      },
+      {
+        "label": "VP",
+        "text": "muertos y"
+      },
+      {
+        "label": "NP",
+        "text": "heridos"
+      },
+      {
+        "label": "NP",
+        "text": "Las"
+      },
+      {
+        "label": "VP",
+        "text": "autoridades médicas informaron que"
+      },
+      {
+        "label": "NP",
+        "text": "médicas informaron que"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Un/NNP)\n  (NP nuevo/JJ ataque/NN)\n  de/IN\n  la/FW\n  ocupación/FW\n  (NP israelí/JJ contra/JJ el/NN campamento/NN)\n  de/IN\n  refugiados/FW\n  (ADJP al-Shati/JJ)\n  ,/,\n  en/FW\n  la/FW\n  (NP Franja/NNP)\n  de/FW\n  (NP Gaza/NNP)\n  ,/,\n  en/FW\n  la/FW\n  noche/FW\n  del/FW\n  (NP lunes/NNS)\n  (VP dejó/VBP (NP un/JJ saldo/NN))\n  de/IN\n  14/CD\n  (NP palestinos/NNS)\n  (VP muertos/VBP y/RB)\n  25/CD\n  (NP heridos/NN)\n  ./.)",
+      "(S\n  (NP Las/NNP)\n  (VP autoridades/VBZ (NP médicas/JJ informaron/NN que/NN))\n  (VP el/VBP (NP bombardeo/NN aéreo/NN se/NN))\n  (VP dirigió/VBZ (NP a/DT las/JJ tiendas/NN))\n  de/IN\n  campaña/FW\n  (NP situadas/NNS)\n  (PP en/IN (NP el/NN campamento/NN))\n  ,/,\n  (ADJP ubicado/JJ)\n  en/FW\n  el/FW\n  oeste/FW\n  de/FW\n  la/FW\n  ciudad/FW\n  de/FW\n  (NP Gaza/NNP)\n  ./.)",
+      "(S\n  (NP Esta/NNP reciente/NN violación/NN)\n  de/IN\n  los/FW\n  (NP derechos/JJ humanos/NNS)\n  (VP está/VBP (NP alineada/JJ con/NN el/NN))\n  objetivo/FW\n  de/FW\n  limpieza/FW\n  (NP étnica/NNP que/NN persigue/NN Israel/NNP)\n  ,/,\n  (NP marcando/NN)\n  el/FW\n  inicio/FW\n  de/FW\n  la/FW\n  segunda/FW\n  (NP fase/NN)\n  de/FW\n  su/FW\n  (NP plan/NN)\n  :/:\n  (NP la/JJ repoblación/NN del/NN territorio/NN palestino/NN)\n  (NP una/JJ vez/NN que/NN los/NN)\n  (VP habitantes/VBZ (NP sean/JJ desplazados/NN))\n  ./.)",
+      "(S\n  (NP Con/NNP esta/NN nueva/NN ofensiva/NN)\n  ,/,\n  ya/PRP\n  (VP son/VBP (NP numerosas/JJ las/NN víctimas/NN))\n  ,/,\n  (NP incluyendo/NN mujeres/NNS)\n  ,/,\n  (NP niños/JJ y/NN ancianos/NNS)\n  ,/,\n  (NP que/NN se/NN)\n  (VP suman/VBD)\n  a/DT\n  (ADJP las/JJ)\n  59.029/CD\n  (NP muertes/NNS)\n  y/RB\n  142.135/CD\n  (NP heridos/NNS)\n  (NP desde/JJ el/JJ inicio/NN del/NN conflicto/NN)\n  en/IN\n  octubre/FW\n  de/FW\n  2023/CD\n  ./.)",
+      "(S\n  (NP Aún/NNP)\n  (NP no/DT se/NN)\n  (VP han/VBZ (NP recuperado/JJ todos/NNS) (NP los/JJ cuerpos/NN))\n  de/IN\n  las/FW\n  (NP víctimas/NN)\n  ,/,\n  ya/PRP\n  (VP\n    que/VBP\n    (NP algunos/JJ permanecen/NN bajo/NN los/NN)\n    escombros/JJ)\n  en/FW\n  (NP las/NN calles/NNS)\n  ,/,\n  y/CC\n  (NP los/NN ataques/NNS)\n  (VP han/VBP)\n  (VP impedido/VB (NP a/DT las/NN))\n  (VP autoridades/VBZ)\n  y/CC\n  (NP a/DT los/JJ familiares/NNS)\n  (VP llevar/VBP (NP a/DT cabo/NN los/NN rescates/NNS))\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "GRUPOS_ESPECIFICOS",
+      "ORGANISMOS_INTERNACIONALES",
+      "RECURSOS_NATURALES",
+      "CRISIS_HUMANITARIA_SERVICIOS",
+      "PERIODOS_TEMPORALES",
+      "PAISES",
+      "JUSTICIA_SOCIAL",
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "CONFLICTOS_ARMADOS_OPERACIONES"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "bombardeo aéreo",
+        "position": [
+          224,
+          239
+        ],
+        "start": 224,
+        "end": 239
+      },
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "conflicto en octubre",
+        "position": [
+          764,
+          784
+        ],
+        "start": 764,
+        "end": 784
+      },
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "ocupación",
+        "position": [
+          22,
+          31
+        ],
+        "start": 22,
+        "end": 31
+      },
+      {
+        "category": "CRISIS_HUMANITARIA_SERVICIOS",
+        "matched_text": "ayuda humanitaria",
+        "position": [
+          1135,
+          1152
+        ],
+        "start": 1135,
+        "end": 1152
+      },
+      {
+        "category": "CRISIS_HUMANITARIA_SERVICIOS",
+        "matched_text": "escasez de alimentos",
+        "position": [
+          1496,
+          1516
+        ],
+        "start": 1496,
+        "end": 1516
+      },
+      {
+        "category": "ORGANISMOS_INTERNACIONALES",
+        "matched_text": "onu",
+        "position": [
+          1200,
+          1203
+        ],
+        "start": 1200,
+        "end": 1203
+      },
+      {
+        "category": "GRUPOS_ESPECIFICOS",
+        "matched_text": "mujeres",
+        "position": [
+          665,
+          672
+        ],
+        "start": 665,
+        "end": 672
+      },
+      {
+        "category": "RECURSOS_NATURALES",
+        "matched_text": "agua",
+        "position": [
+          1518,
+          1522
+        ],
+        "start": 1518,
+        "end": 1522
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "israelí",
+        "position": [
+          32,
+          39
+        ],
+        "start": 32,
+        "end": 39
+      },
+      {
+        "category": "PERIODOS_TEMPORALES",
+        "matched_text": "en la noche",
+        "position": [
+          107,
+          118
+        ],
+        "start": 107,
+        "end": 118
+      },
+      {
+        "category": "JUSTICIA_SOCIAL",
+        "matched_text": "derechos humanos",
+        "position": [
+          376,
+          392
+        ],
+        "start": 376,
+        "end": 392
+      }
+    ],
+    "match_count": 11
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "La ONU",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Franja de Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "al-Shati",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Israel",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Gaza",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Israel",
+        "relacion": "ENFRENTAR",
+        "objeto": "Gaza"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.296,
+    "pos": 0.0,
+    "neu": 0.991,
+    "neg": 0.009,
+    "label": "negative"
+  }
+}

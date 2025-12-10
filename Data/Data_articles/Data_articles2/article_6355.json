@@ -1,0 +1,649 @@
+{
+  "url": "https://www.telesurtv.net/hamas-compromiso-dialogos-alto-fuego-gaza/",
+  "title": "Hamás reafirma su compromiso con alto al fuego en Gaza",
+  "section": "Mundo",
+  "tags": [
+    "Alto al Fuego",
+    "Gaza",
+    "Hamás",
+    "negociaciones"
+  ],
+  "text": "El Movimiento de Resistencia Palestino, Hamás confirmo en horas de la noche del miércoles que mantienen esfuerzos intensos y responsables para lograr un acuerdo que ponga fin a la agresión de Israel contra la Franja de Gaza.\nA través de un comunicado, el grupo palestino destacó que el principal objetivo del diálogo es la de garantizar el flujo de ayuda humanitaria y aliviar el sufrimiento del pueblo palestino, asediado desde el inicio de la operación militar israelí en octubre del 2023.\nLos representantes de Hamas han mostrado flexibilidad para avanzar en las negociaciones, por lo que aceptaron liberar a diez prisioneros israelíes retenidos en la Franja de Gaza, como parte de las medidas destinadas a facilitar un entendimiento con las partes mediadoras.\nEl movimiento palestino aseguró que sigue cooperando con seriedad con los países involucrados en la mediación, pese a la intransigencia de Tel Aviv, que obstaculiza el proceso.\nSegún el comunicado de Hamás, aún persisten puntos en discusión, entre los que se encuentra la retirada de las fuerzas israelíes de la Franja de Gaza, el establecimiento de un alto al fuego y la continuidad del ingreso de asistencia humanitaria sin restricciones.\nLas negociaciones avanzan mientras el presidente de Estados Unidos, Donald Trump, sostiene encuentros con el primer ministro israelí, Benjamín Netanyahu, en un intento por acelerar un acuerdo que lleve a un alto al fuego total.\n",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/hamas-compromiso-dialogos-alto-fuego-gaza/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-07.json",
+    "message_index": 1561,
+    "message_id": 98657,
+    "date": "2025-07-10T08:55:07+00:00",
+    "text": "teleSUR\nHamás reafirma su compromiso con las negociaciones para alto al fuego en Gaza\nhttps://www.telesurtv.net/hamas-compromiso-dialogos-alto-fuego-gaza/",
+    "photo_path": null,
+    "views": 1870,
+    "reactions": {
+      "❤": 29,
+      "👍": 10
+    },
+    "total_reactions": 39
+  },
+  "preprocessing": {
+    "cleaned": "el movimiento de resistencia palestino, hamás confirmo en horas de la noche del miércoles que mantienen esfuerzos intensos y responsables para lograr un acuerdo que ponga fin a la agresión de israel contra la franja de gaza. a través de un comunicado, el grupo palestino destacó que el principal objetivo del diálogo es la de garantizar el flujo de ayuda humanitaria y aliviar el sufrimiento del pueblo palestino, asediado desde el inicio de la operación militar israelí en octubre del 2023. los representantes de hamas han mostrado flexibilidad para avanzar en las negociaciones, por lo que aceptaron liberar a diez prisioneros israelíes retenidos en la franja de gaza, como parte de las medidas destinadas a facilitar un entendimiento con las partes mediadoras. el movimiento palestino aseguró que sigue cooperando con seriedad con los países involucrados en la mediación, pese a la intransigencia de tel aviv, que obstaculiza el proceso. según el comunicado de hamás, aún persisten puntos en discusión, entre los que se encuentra la retirada de las fuerzas israelíes de la franja de gaza, el establecimiento de un alto al fuego y la continuidad del ingreso de asistencia humanitaria sin restricciones. las negociaciones avanzan mientras el presidente de estados unidos, donald trump, sostiene encuentros con el primer ministro israelí, benjamín netanyahu, en un intento por acelerar un acuerdo que lleve a un alto al fuego total.",
+    "tokens": [
+      "movimiento",
+      "resistencia",
+      "palestino",
+      ",",
+      "hamás",
+      "confirmo",
+      "horas",
+      "noche",
+      "miércoles",
+      "mantienen",
+      "esfuerzos",
+      "intensos",
+      "responsables",
+      "lograr",
+      "acuerdo",
+      "ponga",
+      "fin",
+      "agresión",
+      "israel",
+      "franja",
+      "gaza",
+      ".",
+      "través",
+      "comunicado",
+      ",",
+      "grupo",
+      "palestino",
+      "destacó",
+      "principal",
+      "objetivo",
+      "diálogo",
+      "garantizar",
+      "flujo",
+      "ayuda",
+      "humanitaria",
+      "aliviar",
+      "sufrimiento",
+      "pueblo",
+      "palestino",
+      ",",
+      "asediado",
+      "inicio",
+      "operación",
+      "militar",
+      "israelí",
+      "octubre",
+      "2023.",
+      "representantes",
+      "hamas",
+      "mostrado",
+      "flexibilidad",
+      "avanzar",
+      "negociaciones",
+      ",",
+      "aceptaron",
+      "liberar",
+      "diez",
+      "prisioneros",
+      "israelíes",
+      "retenidos",
+      "franja",
+      "gaza",
+      ",",
+      "parte",
+      "medidas",
+      "destinadas",
+      "facilitar",
+      "entendimiento",
+      "partes",
+      "mediadoras",
+      ".",
+      "movimiento",
+      "palestino",
+      "aseguró",
+      "sigue",
+      "cooperando",
+      "seriedad",
+      "países",
+      "involucrados",
+      "mediación",
+      ",",
+      "pese",
+      "intransigencia",
+      "tel",
+      "aviv",
+      ",",
+      "obstaculiza",
+      "proceso",
+      ".",
+      "según",
+      "comunicado",
+      "hamás",
+      ",",
+      "aún",
+      "persisten",
+      "puntos",
+      "discusión",
+      ",",
+      "encuentra",
+      "retirada",
+      "fuerzas",
+      "israelíes",
+      "franja",
+      "gaza",
+      ",",
+      "establecimiento",
+      "alto",
+      "fuego",
+      "continuidad",
+      "ingreso",
+      "asistencia",
+      "humanitaria",
+      "restricciones",
+      ".",
+      "negociaciones",
+      "avanzan",
+      "mientras",
+      "presidente",
+      "unidos",
+      ",",
+      "donald",
+      "trump",
+      ",",
+      "sostiene",
+      "encuentros",
+      "primer",
+      "ministro",
+      "israelí",
+      ",",
+      "benjamín",
+      "netanyahu",
+      ",",
+      "intento",
+      "acelerar",
+      "acuerdo",
+      "lleve",
+      "alto",
+      "fuego",
+      "total",
+      "."
+    ],
+    "token_count": 140,
+    "sentence_count": 6
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 27,
+      "FW": 54,
+      "NN": 82,
+      "NNS": 8,
+      "VBP": 8,
+      "JJ": 20,
+      "VBZ": 6,
+      "RB": 3,
+      "IN": 9,
+      "CD": 1
+    },
+    "bigram_freq": {
+      "NNP-NNP": 9,
+      "NNP-FW": 7,
+      "FW-NNP": 10,
+      "NNP-NN": 7,
+      "NN-FW": 8,
+      "FW-FW": 29,
+      "FW-NNS": 3,
+      "NNS-VBP": 5,
+      "VBP-JJ": 6,
+      "JJ-NN": 13,
+      "NN-NN": 51,
+      "NN-VBZ": 3,
+      "VBZ-RB": 1,
+      "RB-JJ": 1,
+      "JJ-JJ": 2,
+      "FW-NN": 9,
+      "NN-JJ": 5,
+      "NN-VBP": 2,
+      "VBP-NN": 1,
+      "NN-IN": 8,
+      "IN-FW": 6,
+      "NN-CD": 1,
+      "CD-NNP": 1,
+      "NNP-VBZ": 2,
+      "VBZ-FW": 1,
+      "IN-JJ": 1,
+      "JJ-NNS": 1,
+      "VBZ-NNS": 1,
+      "NNS-NNP": 2,
+      "VBZ-JJ": 2,
+      "JJ-IN": 1,
+      "FW-JJ": 3,
+      "JJ-FW": 3,
+      "NN-NNP": 2,
+      "VBZ-NN": 1,
+      "IN-NNP": 2,
+      "NNP-RB": 1,
+      "RB-VBZ": 1,
+      "VBP-NNS": 1,
+      "NNP-NNS": 1,
+      "NNS-RB": 1,
+      "RB-VBP": 1,
+      "NN-NNS": 1
+    },
+    "trigram_freq": {
+      "NNP-NNP-FW": 3,
+      "NNP-FW-NNP": 5,
+      "FW-NNP-NNP": 3,
+      "NNP-NNP-NNP": 3,
+      "NNP-NNP-NN": 3,
+      "NNP-NN-FW": 2,
+      "NN-FW-FW": 5,
+      "FW-FW-FW": 18,
+      "FW-FW-NNS": 2,
+      "FW-NNS-VBP": 3,
+      "NNS-VBP-JJ": 4,
+      "VBP-JJ-NN": 6,
+      "JJ-NN-NN": 10,
+      "NN-NN-VBZ": 3,
+      "NN-VBZ-RB": 1,
+      "VBZ-RB-JJ": 1,
+      "RB-JJ-JJ": 1,
+      "JJ-JJ-NN": 2,
+      "NN-NN-NN": 34,
+      "NN-NN-FW": 1,
+      "FW-FW-NNP": 2,
+      "FW-NNP-FW": 4,
+      "FW-NNP-NN": 3,
+      "FW-FW-NN": 5,
+      "FW-NN-NN": 2,
+      "NN-NN-JJ": 4,
+      "NN-JJ-JJ": 1,
+      "NN-JJ-NN": 3,
+      "JJ-NN-FW": 1,
+      "NN-NN-VBP": 2,
+      "NN-VBP-NN": 1,
+      "VBP-NN-NN": 1,
+      "NN-NN-IN": 4,
+      "NN-IN-FW": 5,
+      "IN-FW-FW": 3,
+      "FW-NN-FW": 4,
+      "FW-NN-CD": 1,
+      "NN-CD-NNP": 1,
+      "CD-NNP-VBZ": 1,
+      "NNP-VBZ-FW": 1,
+      "VBZ-FW-NNP": 1,
+      "NNP-NN-NN": 4,
+      "NN-IN-JJ": 1,
+      "IN-JJ-NNS": 1,
+      "JJ-NNS-VBP": 1,
+      "IN-FW-NNP": 2,
+      "FW-NN-JJ": 1,
+      "NN-VBZ-NNS": 1,
+      "VBZ-NNS-NNP": 1,
+      "NNS-NNP-NN": 1,
+      "NN-VBZ-JJ": 1,
+      "VBZ-JJ-IN": 1,
+      "JJ-IN-FW": 1,
+      "FW-FW-JJ": 2,
+      "FW-JJ-FW": 1,
+      "JJ-FW-FW": 2,
+      "NN-NN-NNP": 2,
+      "NN-NNP-VBZ": 1,
+      "NNP-VBZ-NN": 1,
+      "VBZ-NN-IN": 1,
+      "NN-IN-NNP": 2,
+      "IN-NNP-RB": 1,
+      "NNP-RB-VBZ": 1,
+      "RB-VBZ-JJ": 1,
+      "VBZ-JJ-FW": 1,
+      "JJ-FW-NN": 1,
+      "NN-FW-NN": 3,
+      "NN-JJ-FW": 1,
+      "FW-JJ-NN": 2,
+      "JJ-NN-IN": 2,
+      "NNP-FW-FW": 1,
+      "FW-NN-IN": 1,
+      "IN-FW-NNS": 1,
+      "NNS-VBP-NNS": 1,
+      "VBP-NNS-NNP": 1,
+      "NNS-NNP-NNS": 1,
+      "NNP-NNS-RB": 1,
+      "NNS-RB-VBP": 1,
+      "RB-VBP-JJ": 1,
+      "IN-NNP-NNP": 1,
+      "NNP-NN-NNS": 1,
+      "NN-NNS-VBP": 1,
+      "NN-NNP-NNP": 1,
+      "NNP-FW-JJ": 1,
+      "NN-VBP-JJ": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 82,
+        "FW": 54,
+        "NNP": 27,
+        "JJ": 20,
+        "IN": 9
+      },
+      "top_bigrams": {
+        "NN-NN": 51,
+        "FW-FW": 29,
+        "JJ-NN": 13,
+        "FW-NNP": 10,
+        "NNP-NNP": 9
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 34,
+        "FW-FW-FW": 18,
+        "JJ-NN-NN": 10,
+        "VBP-JJ-NN": 6,
+        "NNP-FW-NNP": 5
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 6,
+    "chunk_counts": {
+      "NP": 57,
+      "VP": 13,
+      "PP": 7
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 5,
+        "weight": 0.0602
+      },
+      {
+        "rule": "NP -> ('Franja', 'NNP')",
+        "frequency": 3,
+        "weight": 0.0361
+      },
+      {
+        "rule": "NP -> ('Gaza', 'NNP')",
+        "frequency": 3,
+        "weight": 0.0361
+      },
+      {
+        "rule": "NP -> ('humanitaria', 'NNS')",
+        "frequency": 2,
+        "weight": 0.0241
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0241
+      },
+      {
+        "rule": "S -> NP ('de', 'FW') NP (',', ',') NP ('en', 'FW') ('horas', 'FW') ('de', 'FW') ('la', 'FW') ('noche', 'FW') ('del', 'FW') NP VP VP VP ('agresión', 'FW') PP ('la', 'FW') NP ('de', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.012
+      },
+      {
+        "rule": "NP -> ('El', 'NNP') ('Movimiento', 'NNP')",
+        "frequency": 1,
+        "weight": 0.012
+      },
+      {
+        "rule": "NP -> ('Resistencia', 'NNP') ('Palestino', 'NNP')",
+        "frequency": 1,
+        "weight": 0.012
+      },
+      {
+        "rule": "NP -> ('Hamás', 'NNP') ('confirmo', 'NN')",
+        "frequency": 1,
+        "weight": 0.012
+      },
+      {
+        "rule": "NP -> ('miércoles', 'NNS')",
+        "frequency": 1,
+        "weight": 0.012
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El Movimiento"
+      },
+      {
+        "label": "NP",
+        "text": "Resistencia Palestino"
+      },
+      {
+        "label": "NP",
+        "text": "Hamás confirmo"
+      },
+      {
+        "label": "NP",
+        "text": "miércoles"
+      },
+      {
+        "label": "VP",
+        "text": "que mantienen esfuerzos intensos y"
+      },
+      {
+        "label": "NP",
+        "text": "mantienen esfuerzos intensos y"
+      },
+      {
+        "label": "VP",
+        "text": "responsables para lograr un acuerdo que ponga"
+      },
+      {
+        "label": "NP",
+        "text": "lograr un acuerdo que ponga"
+      },
+      {
+        "label": "VP",
+        "text": "fin a la"
+      },
+      {
+        "label": "NP",
+        "text": "a la"
+      },
+      {
+        "label": "PP",
+        "text": "de Israel contra"
+      },
+      {
+        "label": "NP",
+        "text": "Israel contra"
+      },
+      {
+        "label": "NP",
+        "text": "Franja"
+      },
+      {
+        "label": "NP",
+        "text": "Gaza"
+      },
+      {
+        "label": "NP",
+        "text": "A través"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP El/NNP Movimiento/NNP)\n  de/FW\n  (NP Resistencia/NNP Palestino/NNP)\n  ,/,\n  (NP Hamás/NNP confirmo/NN)\n  en/FW\n  horas/FW\n  de/FW\n  la/FW\n  noche/FW\n  del/FW\n  (NP miércoles/NNS)\n  (VP que/VBP (NP mantienen/JJ esfuerzos/NN intensos/NN y/NN))\n  (VP\n    responsables/VBZ\n    para/RB\n    (NP lograr/JJ un/JJ acuerdo/NN que/NN ponga/NN))\n  (VP fin/VBD (NP a/DT la/NN))\n  agresión/FW\n  (PP de/IN (NP Israel/NNP contra/NNP))\n  la/FW\n  (NP Franja/NNP)\n  de/FW\n  (NP Gaza/NNP)\n  ./.)",
+      "(S\n  (NP A/DT través/NN)\n  (PP de/IN (NP un/JJ comunicado/NN))\n  ,/,\n  el/FW\n  (NP grupo/NN palestino/NN destacó/NN que/NN el/NN)\n  (NP principal/JJ objetivo/JJ del/NN diálogo/NN)\n  (NP es/JJ la/NN)\n  de/FW\n  garantizar/FW\n  el/FW\n  flujo/FW\n  de/FW\n  ayuda/FW\n  (NP humanitaria/NNS)\n  (VP\n    y/VBP\n    (NP\n      aliviar/JJ\n      el/NN\n      sufrimiento/NN\n      del/NN\n      pueblo/NN\n      palestino/NN))\n  ,/,\n  (NP asediado/JJ desde/NN el/NN inicio/NN)\n  de/IN\n  la/FW\n  operación/FW\n  militar/FW\n  (NP israelí/NN)\n  en/FW\n  octubre/FW\n  (NP del/NN)\n  2023/CD\n  ./.)",
+      "(S\n  (NP Los/NNP)\n  (VP representantes/VBZ)\n  de/FW\n  (NP\n    Hamas/NNP\n    han/NN\n    mostrado/NN\n    flexibilidad/NN\n    para/NN\n    avanzar/NN)\n  (PP en/IN (NP las/JJ negociaciones/NNS))\n  ,/,\n  (NP por/NN lo/NN que/NN aceptaron/NN)\n  (VP\n    liberar/VBZ\n    (NP a/DT diez/NN prisioneros/NN israelíes/NN retenidos/NN))\n  en/IN\n  la/FW\n  (NP Franja/NNP)\n  de/FW\n  (NP Gaza/NNP)\n  ,/,\n  (NP como/NN parte/NN)\n  de/IN\n  las/FW\n  medidas/FW\n  destinadas/FW\n  (NP a/DT facilitar/NN)\n  (NP un/JJ entendimiento/NN con/NN las/NN)\n  (VP partes/VBZ (NP mediadoras/NNS))\n  ./.)",
+      "(S\n  (NP\n    El/NNP\n    movimiento/NN\n    palestino/NN\n    aseguró/NN\n    que/NN\n    sigue/NN\n    cooperando/NN\n    con/NN\n    seriedad/NN\n    con/NN\n    los/NN)\n  (VP países/VBZ involucrados/JJ)\n  (PP en/IN (NP la/NN mediación/NN))\n  ,/,\n  (VP pese/VBZ (NP a/DT la/NN intransigencia/NN))\n  (PP de/IN (NP Tel/NNP Aviv/NNP))\n  ,/,\n  (NP que/JJ obstaculiza/NN el/NN proceso/NN)\n  ./.)",
+      "(S\n  (NP Según/NNP)\n  el/CC\n  (NP comunicado/NN)\n  (PP de/IN (NP Hamás/NNP))\n  ,/,\n  aún/RB\n  (NP persisten/JJ puntos/NNS)\n  en/FW\n  (NP discusión/NN)\n  ,/,\n  entre/FW\n  los/FW\n  que/FW\n  se/FW\n  encuentra/FW\n  la/FW\n  retirada/FW\n  de/FW\n  las/FW\n  (NP fuerzas/JJ israelíes/NN)\n  de/IN\n  la/FW\n  (NP Franja/NNP)\n  de/FW\n  (NP Gaza/NNP)\n  ,/,\n  el/FW\n  establecimiento/FW\n  de/FW\n  un/FW\n  alto/FW\n  al/FW\n  (NP fuego/NN y/NN la/NN continuidad/NN)\n  del/FW\n  (NP ingreso/NN)\n  de/IN\n  asistencia/FW\n  (NP humanitaria/NNS)\n  (VP sin/VBP (NP restricciones/NNS))\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "GOBIERNOS_OFICIALES",
+      "APROBACION_RECHAZO",
+      "CRISIS_HUMANITARIA_SERVICIOS",
+      "PAISES",
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "CONFLICTOS_ARMADOS_OPERACIONES"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "negociaciones avanzan mientras el presidente de estados unidos, donald trump, sostiene encuentros con el primer ministro israelí, benjamín netanyahu, en un intento por acelerar un acuerdo",
+        "position": [
+          1209,
+          1396
+        ],
+        "start": 1209,
+        "end": 1396
+      },
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "ingreso",
+        "position": [
+          1152,
+          1159
+        ],
+        "start": 1152,
+        "end": 1159
+      },
+      {
+        "category": "CRISIS_HUMANITARIA_SERVICIOS",
+        "matched_text": "ayuda humanitaria",
+        "position": [
+          349,
+          366
+        ],
+        "start": 349,
+        "end": 366
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente de estados",
+        "position": [
+          1243,
+          1264
+        ],
+        "start": 1243,
+        "end": 1264
+      },
+      {
+        "category": "APROBACION_RECHAZO",
+        "matched_text": "destacó",
+        "position": [
+          271,
+          278
+        ],
+        "start": 271,
+        "end": 278
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "estados unidos",
+        "position": [
+          1257,
+          1271
+        ],
+        "start": 1257,
+        "end": 1271
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "israelí",
+        "position": [
+          463,
+          470
+        ],
+        "start": 463,
+        "end": 470
+      }
+    ],
+    "match_count": 7
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Franja de Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Hamas",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Hamás",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Estados Unidos",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Israel",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Donald Trump",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Movimiento de Resistencia Palestino",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Tel Aviv",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Benjamín Netanyahu",
+        "tipo": "Persona"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Movimiento de Resistencia Palestino",
+        "relacion": "CONFIRMAR",
+        "objeto": "Hamás"
+      },
+      {
+        "sujeto": "Movimiento de Resistencia Palestino",
+        "relacion": "CONFIRMAR",
+        "objeto": "Israel"
+      },
+      {
+        "sujeto": "Movimiento de Resistencia Palestino",
+        "relacion": "CONFIRMAR",
+        "objeto": "Franja de Gaza"
+      },
+      {
+        "sujeto": "Hamás",
+        "relacion": "CONFIRMAR",
+        "objeto": "Israel"
+      },
+      {
+        "sujeto": "Hamás",
+        "relacion": "CONFIRMAR",
+        "objeto": "Franja de Gaza"
+      },
+      {
+        "sujeto": "Hamas",
+        "relacion": "MOSTRAR",
+        "objeto": "Franja de Gaza"
+      },
+      {
+        "sujeto": "Hamás",
+        "relacion": "PERSISTIR",
+        "objeto": "Franja de Gaza"
+      },
+      {
+        "sujeto": "Estados Unidos",
+        "relacion": "SOSTENER_AVANZAR",
+        "objeto": "Benjamín Netanyahu"
+      },
+      {
+        "sujeto": "Donald Trump",
+        "relacion": "SOSTENER_AVANZAR",
+        "objeto": "Benjamín Netanyahu"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.5574,
+    "pos": 0.0,
+    "neu": 0.984,
+    "neg": 0.016,
+    "label": "negative"
+  }
+}

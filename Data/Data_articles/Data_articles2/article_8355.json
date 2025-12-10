@@ -1,0 +1,746 @@
+{
+  "url": "https://www.telesurtv.net/presidenta-de-mexico-se-reunira-con-miembros-del-g20/",
+  "title": "Presidenta de México se reunirá con miembros del G20 - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "encuentros",
+    "G20",
+    "México"
+  ],
+  "text": "La recién electa presidenta de México, Claudia Sheinbaum, se reunirá en los próximos días con ocho gobernantes de Estados que integran el G20, en el marco de la cumbre de esa agrupación, según se confirmó a través de la agenda de la mandataria.\nEl G20 celebrará una cumbre el 18 y 19 de noviembre en la ciudad brasileña de Río de Janeiro, donde la jefa de Estado mexicana se entrevistará con el presidente anfitrión, Luiz Inácio Lula da Silva.\nOtro de los los encuentros, validados hasta el momento, son con el presidente de Corea del Sur, Yoon Suk-Yeol; así como con los primeros ministros de Reino Unido, Keir Starmer; de India, Narendra Modi; de Japón, Shigeru Ishiba; y de Vietnam, Pham Minh Chinh.\nMedios locales indicaron que dichas reuniones están sujetas a cambios, por cuestiones de toda índole.\nLas entrevistas, propuestas a efectuarse en la Cumbre de Río de Janeiro, tienen como propósito desarrollar acuerdos bilaterales que sienten las bases de cooperación mutua, en el plano económico y diplomático, entre las naciones dialogantes.\nCada año, el G20, el principal foro de cooperación económica internacional, convoca a los líderes de las 20 economías más grandes del mundo para abordar los desafíos económicos y financieros más acuciantes.\nEste año, bajo la presidencia de Brasil, el G20 se centrará en temas críticos que afectan el bienestar global y el crecimiento económico sostenible.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/presidenta-de-mexico-se-reunira-con-miembros-del-g20/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-11.json",
+    "message_index": 907,
+    "message_id": 80529,
+    "date": "2024-11-16T10:55:12+00:00",
+    "text": "teleSUR\nPresidenta de México se reunirá con miembros del G20\nhttps://www.telesurtv.net/presidenta-de-mexico-se-reunira-con-miembros-del-g20/",
+    "photo_path": null,
+    "views": 2479,
+    "reactions": {
+      "👍": 42,
+      "❤": 4,
+      "🤔": 2,
+      "🥱": 2
+    },
+    "total_reactions": 50
+  },
+  "preprocessing": {
+    "cleaned": "la recién electa presidenta de méxico, claudia sheinbaum, se reunirá en los próximos días con ocho gobernantes de estados que integran el g20, en el marco de la cumbre de esa agrupación, según se confirmó a través de la agenda de la mandataria. el g20 celebrará una cumbre el 18 y 19 de noviembre en la ciudad brasileña de río de janeiro, donde la jefa de estado mexicana se entrevistará con el presidente anfitrión, luiz inácio lula da silva. otro de los los encuentros, validados hasta el momento, son con el presidente de corea del sur, yoon suk-yeol; así como con los primeros ministros de reino unido, keir starmer; de india, narendra modi; de japón, shigeru ishiba; y de vietnam, pham minh chinh. medios locales indicaron que dichas reuniones están sujetas a cambios, por cuestiones de toda índole. las entrevistas, propuestas a efectuarse en la cumbre de río de janeiro, tienen como propósito desarrollar acuerdos bilaterales que sienten las bases de cooperación mutua, en el plano económico y diplomático, entre las naciones dialogantes. cada año, el g20, el principal foro de cooperación económica internacional, convoca a los líderes de las 20 economías más grandes del mundo para abordar los desafíos económicos y financieros más acuciantes. este año, bajo la presidencia de brasil, el g20 se centrará en temas críticos que afectan el bienestar global y el crecimiento económico sostenible.",
+    "tokens": [
+      "recién",
+      "electa",
+      "presidenta",
+      "méxico",
+      ",",
+      "claudia",
+      "sheinbaum",
+      ",",
+      "reunirá",
+      "próximos",
+      "días",
+      "ocho",
+      "gobernantes",
+      "integran",
+      "g20",
+      ",",
+      "marco",
+      "cumbre",
+      "agrupación",
+      ",",
+      "según",
+      "confirmó",
+      "través",
+      "agenda",
+      "mandataria",
+      ".",
+      "g20",
+      "celebrará",
+      "cumbre",
+      "18",
+      "19",
+      "noviembre",
+      "ciudad",
+      "brasileña",
+      "río",
+      "janeiro",
+      ",",
+      "jefa",
+      "mexicana",
+      "entrevistará",
+      "presidente",
+      "anfitrión",
+      ",",
+      "luiz",
+      "inácio",
+      "lula",
+      "da",
+      "silva",
+      ".",
+      "encuentros",
+      ",",
+      "validados",
+      "momento",
+      ",",
+      "presidente",
+      "corea",
+      "sur",
+      ",",
+      "yoon",
+      "suk-yeol",
+      ";",
+      "así",
+      "primeros",
+      "ministros",
+      "reino",
+      "unido",
+      ",",
+      "keir",
+      "starmer",
+      ";",
+      "india",
+      ",",
+      "narendra",
+      "modi",
+      ";",
+      "japón",
+      ",",
+      "shigeru",
+      "ishiba",
+      ";",
+      "vietnam",
+      ",",
+      "pham",
+      "minh",
+      "chinh",
+      ".",
+      "medios",
+      "locales",
+      "indicaron",
+      "dichas",
+      "reuniones",
+      "sujetas",
+      "cambios",
+      ",",
+      "cuestiones",
+      "toda",
+      "índole",
+      ".",
+      "entrevistas",
+      ",",
+      "propuestas",
+      "efectuarse",
+      "cumbre",
+      "río",
+      "janeiro",
+      ",",
+      "propósito",
+      "desarrollar",
+      "acuerdos",
+      "bilaterales",
+      "sienten",
+      "bases",
+      "cooperación",
+      "mutua",
+      ",",
+      "plano",
+      "económico",
+      "diplomático",
+      ",",
+      "naciones",
+      "dialogantes",
+      ".",
+      "cada",
+      "año",
+      ",",
+      "g20",
+      ",",
+      "principal",
+      "foro",
+      "cooperación",
+      "económica",
+      "internacional",
+      ",",
+      "convoca",
+      "líderes",
+      "20",
+      "economías",
+      "grandes",
+      "mundo",
+      "abordar",
+      "desafíos",
+      "económicos",
+      "financieros",
+      "acuciantes",
+      ".",
+      "año",
+      ",",
+      "bajo",
+      "presidencia",
+      "brasil",
+      ",",
+      "g20",
+      "centrará",
+      "temas",
+      "críticos",
+      "afectan",
+      "bienestar",
+      "global",
+      "crecimiento",
+      "económico",
+      "sostenible",
+      "."
+    ],
+    "token_count": 162,
+    "sentence_count": 7
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 45,
+      "VBZ": 5,
+      "JJ": 21,
+      "NN": 64,
+      "IN": 15,
+      "VBD": 2,
+      "FW": 40,
+      "NNS": 13,
+      "CD": 3,
+      "VBP": 10,
+      "RB": 1,
+      "CC": 1
+    },
+    "bigram_freq": {
+      "NNP-VBZ": 3,
+      "VBZ-JJ": 1,
+      "JJ-NN": 13,
+      "NN-IN": 6,
+      "IN-NNP": 9,
+      "NNP-NNP": 20,
+      "NNP-VBD": 1,
+      "VBD-JJ": 1,
+      "JJ-FW": 2,
+      "FW-FW": 23,
+      "FW-JJ": 3,
+      "NN-NN": 33,
+      "NN-JJ": 9,
+      "JJ-NNS": 5,
+      "NNS-IN": 2,
+      "NNP-NN": 8,
+      "NN-NNP": 4,
+      "VBZ-FW": 1,
+      "FW-NN": 4,
+      "IN-FW": 3,
+      "FW-NNP": 8,
+      "NN-VBD": 1,
+      "VBD-CD": 1,
+      "CD-CD": 1,
+      "CD-NNS": 1,
+      "NNS-FW": 2,
+      "NNP-IN": 6,
+      "NNP-FW": 4,
+      "NNS-VBP": 6,
+      "VBP-JJ": 6,
+      "NN-FW": 5,
+      "VBZ-NN": 1,
+      "NN-NNS": 4,
+      "VBP-NNS": 2,
+      "FW-NNS": 1,
+      "NNS-RB": 1,
+      "RB-VBP": 1,
+      "IN-NN": 2,
+      "IN-JJ": 1,
+      "NNS-VBZ": 1,
+      "VBZ-NNP": 1,
+      "NN-VBP": 1,
+      "NN-VBZ": 1,
+      "VBZ-IN": 1,
+      "FW-CD": 1,
+      "CD-NN": 1,
+      "NNS-NNP": 1,
+      "NNP-VBP": 2,
+      "VBP-NN": 2,
+      "NNP-CC": 1,
+      "CC-NNP": 1
+    },
+    "trigram_freq": {
+      "NNP-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 1,
+      "JJ-NN-IN": 3,
+      "NN-IN-NNP": 3,
+      "IN-NNP-NNP": 5,
+      "NNP-NNP-NNP": 10,
+      "NNP-NNP-VBD": 1,
+      "NNP-VBD-JJ": 1,
+      "VBD-JJ-FW": 1,
+      "JJ-FW-FW": 1,
+      "FW-FW-JJ": 1,
+      "FW-JJ-NN": 1,
+      "JJ-NN-NN": 7,
+      "NN-NN-JJ": 7,
+      "NN-JJ-NNS": 1,
+      "JJ-NNS-IN": 2,
+      "NNS-IN-NNP": 1,
+      "IN-NNP-NN": 3,
+      "NNP-NN-NN": 5,
+      "NN-NN-NN": 14,
+      "NN-NN-NNP": 3,
+      "NN-NNP-VBZ": 1,
+      "NNP-VBZ-FW": 1,
+      "VBZ-FW-FW": 1,
+      "FW-FW-FW": 16,
+      "FW-FW-NN": 2,
+      "FW-NN-NN": 3,
+      "NN-NN-IN": 3,
+      "NN-IN-FW": 1,
+      "IN-FW-FW": 1,
+      "FW-FW-NNP": 4,
+      "FW-NNP-NNP": 3,
+      "NNP-NNP-NN": 3,
+      "NNP-NN-JJ": 2,
+      "NN-JJ-NN": 7,
+      "JJ-NN-VBD": 1,
+      "NN-VBD-CD": 1,
+      "VBD-CD-CD": 1,
+      "CD-CD-NNS": 1,
+      "CD-NNS-FW": 1,
+      "NNS-FW-FW": 2,
+      "FW-NNP-IN": 2,
+      "NNP-IN-NNP": 5,
+      "IN-NNP-FW": 1,
+      "NNP-FW-FW": 1,
+      "NN-NNP-NNP": 2,
+      "NNP-NN-NNP": 1,
+      "NNP-NNP-IN": 4,
+      "NNP-IN-FW": 1,
+      "IN-FW-JJ": 1,
+      "FW-JJ-NNS": 2,
+      "JJ-NNS-VBP": 2,
+      "NNS-VBP-JJ": 4,
+      "VBP-JJ-NN": 3,
+      "NN-NN-FW": 3,
+      "NN-FW-NN": 2,
+      "FW-NN-FW": 1,
+      "NN-FW-NNP": 1,
+      "FW-NNP-FW": 2,
+      "NNP-FW-NNP": 2,
+      "NNP-NNP-VBZ": 1,
+      "NNP-VBZ-NN": 1,
+      "VBZ-NN-NN": 1,
+      "NN-NN-NNS": 2,
+      "NN-NNS-VBP": 3,
+      "VBP-JJ-NNS": 2,
+      "NNS-VBP-NNS": 2,
+      "VBP-NNS-FW": 1,
+      "NNP-NNP-FW": 1,
+      "NNP-FW-NNS": 1,
+      "FW-NNS-VBP": 1,
+      "VBP-JJ-FW": 1,
+      "JJ-FW-NNP": 1,
+      "JJ-NN-NNS": 2,
+      "NN-NNS-RB": 1,
+      "NNS-RB-VBP": 1,
+      "RB-VBP-JJ": 1,
+      "NNS-IN-NN": 1,
+      "IN-NN-NN": 1,
+      "NN-IN-JJ": 1,
+      "IN-JJ-NN": 1,
+      "NN-FW-JJ": 1,
+      "JJ-NNS-VBZ": 1,
+      "NNS-VBZ-NNP": 1,
+      "VBZ-NNP-NN": 1,
+      "NN-NNP-NN": 1,
+      "NN-IN-NN": 1,
+      "IN-NN-VBP": 1,
+      "NN-VBP-JJ": 1,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-IN": 1,
+      "VBZ-IN-FW": 1,
+      "IN-FW-CD": 1,
+      "FW-CD-NN": 1,
+      "CD-NN-NN": 1,
+      "VBP-NNS-NNP": 1,
+      "NNS-NNP-VBP": 1,
+      "NNP-VBP-NN": 2,
+      "VBP-NN-NN": 1,
+      "NN-FW-FW": 1,
+      "FW-NNP-CC": 1,
+      "NNP-CC-NNP": 1,
+      "CC-NNP-VBP": 1,
+      "VBP-NN-FW": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 64,
+        "NNP": 45,
+        "FW": 40,
+        "JJ": 21,
+        "IN": 15
+      },
+      "top_bigrams": {
+        "NN-NN": 33,
+        "FW-FW": 23,
+        "NNP-NNP": 20,
+        "JJ-NN": 13,
+        "IN-NNP": 9
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 16,
+        "NN-NN-NN": 14,
+        "NNP-NNP-NNP": 10,
+        "JJ-NN-NN": 7,
+        "NN-NN-JJ": 7
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 7,
+    "chunk_counts": {
+      "NP": 70,
+      "VP": 15,
+      "PP": 12,
+      "ADJP": 4
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 10,
+        "weight": 0.0926
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0185
+      },
+      {
+        "rule": "NP -> ('Río', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0185
+      },
+      {
+        "rule": "NP -> ('Janeiro', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0185
+      },
+      {
+        "rule": "S -> NP VP PP (',', ',') NP (',', ',') VP PP NP PP (',', ',') ('en', 'FW') ('el', 'FW') ('marco', 'FW') ('de', 'FW') ('la', 'FW') ('cumbre', 'FW') ('de', 'FW') ('esa', 'FW') NP (',', ',') ('según', 'FW') ('se', 'FW') VP ('de', 'IN') ('la', 'FW') ('agenda', 'FW') ('de', 'FW') ('la', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0093
+      },
+      {
+        "rule": "NP -> ('La', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0093
+      },
+      {
+        "rule": "VP -> ('recién', 'VBZ') NP",
+        "frequency": 1,
+        "weight": 0.0093
+      },
+      {
+        "rule": "NP -> ('electa', 'JJ') ('presidenta', 'NN')",
+        "frequency": 1,
+        "weight": 0.0093
+      },
+      {
+        "rule": "NP -> ('México', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0093
+      },
+      {
+        "rule": "NP -> ('Claudia', 'NNP') ('Sheinbaum', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0093
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "La"
+      },
+      {
+        "label": "VP",
+        "text": "recién electa presidenta"
+      },
+      {
+        "label": "NP",
+        "text": "electa presidenta"
+      },
+      {
+        "label": "PP",
+        "text": "de México"
+      },
+      {
+        "label": "NP",
+        "text": "México"
+      },
+      {
+        "label": "NP",
+        "text": "Claudia Sheinbaum"
+      },
+      {
+        "label": "VP",
+        "text": "se reunirá"
+      },
+      {
+        "label": "NP",
+        "text": "reunirá"
+      },
+      {
+        "label": "PP",
+        "text": "en los próximos días con"
+      },
+      {
+        "label": "NP",
+        "text": "los próximos días con"
+      },
+      {
+        "label": "NP",
+        "text": "ocho gobernantes"
+      },
+      {
+        "label": "PP",
+        "text": "de Estados que integran el G20"
+      },
+      {
+        "label": "NP",
+        "text": "Estados que integran el G20"
+      },
+      {
+        "label": "NP",
+        "text": "agrupación"
+      },
+      {
+        "label": "VP",
+        "text": "confirmó a través"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP La/NNP)\n  (VP recién/VBZ (NP electa/JJ presidenta/NN))\n  (PP de/IN (NP México/NNP))\n  ,/,\n  (NP Claudia/NNP Sheinbaum/NNP)\n  ,/,\n  (VP se/VBD (NP reunirá/NN))\n  (PP en/IN (NP los/JJ próximos/JJ días/NN con/NN))\n  (NP ocho/JJ gobernantes/NNS)\n  (PP de/IN (NP Estados/NNP que/NN integran/NN el/NN G20/NNP))\n  ,/,\n  en/FW\n  el/FW\n  marco/FW\n  de/FW\n  la/FW\n  cumbre/FW\n  de/FW\n  esa/FW\n  (NP agrupación/NN)\n  ,/,\n  según/FW\n  se/FW\n  (VP confirmó/VBP (NP a/DT través/NN))\n  de/IN\n  la/FW\n  agenda/FW\n  de/FW\n  la/FW\n  (NP mandataria/NNS)\n  ./.)",
+      "(S\n  (NP El/NNP G20/NNP celebrará/NN)\n  (NP una/JJ cumbre/NN)\n  (VP el/VBD)\n  18/CD\n  (ADJP y/JJ)\n  19/CD\n  de/IN\n  noviembre/FW\n  en/FW\n  la/FW\n  ciudad/FW\n  brasileña/FW\n  de/FW\n  (NP Río/NNP)\n  (PP de/IN (NP Janeiro/NNP))\n  ,/,\n  (NP donde/NN la/NN jefa/NN)\n  (PP de/IN (NP Estado/NNP))\n  mexicana/FW\n  se/FW\n  entrevistará/FW\n  (NP con/NN el/NN presidente/NN anfitrión/NN)\n  ,/,\n  (NP Luiz/NNP Inácio/NNP Lula/NNP da/NN Silva/NN)\n  ./.)",
+      "(S\n  (NP Otro/NNP de/NNP)\n  los/FW\n  (NP los/JJ encuentros/NN)\n  ,/,\n  validados/FW\n  (NP hasta/NN el/NN momento/NN)\n  ,/,\n  (NP son/NN con/NN)\n  el/FW\n  (NP presidente/NN)\n  de/FW\n  (NP Corea/NNP)\n  del/FW\n  (NP Sur/NNP)\n  ,/,\n  (NP Yoon/NNP Suk-Yeol/NNP)\n  ;/:\n  (VP\n    así/VBZ\n    (NP como/NN con/NN los/NN)\n    (NP primeros/JJ ministros/NN))\n  (PP de/IN (NP Reino/NNP Unido/NNP))\n  ,/,\n  (NP Keir/NNP Starmer/NNP)\n  ;/:\n  de/FW\n  (NP India/NNP)\n  ,/,\n  (NP Narendra/NNP Modi/NNP)\n  ;/:\n  de/FW\n  (NP Japón/NNP)\n  ,/,\n  (NP Shigeru/NNP Ishiba/NNP)\n  ;/:\n  y/CC\n  (PP de/IN (NP Vietnam/NNP))\n  ,/,\n  (NP Pham/NNP Minh/NNP Chinh/NNP)\n  ./.)",
+      "(S\n  (NP Medios/NNS)\n  (VP locales/VBZ (NP indicaron/NN que/NN dichas/NN reuniones/NNS))\n  (VP están/VBP)\n  (VP sujetas/VB (NP a/DT cambios/NNS))\n  ,/,\n  (NP por/JJ cuestiones/NNS)\n  (PP de/IN (NP toda/JJ índole/NN))\n  ./.)",
+      "(S\n  (NP Las/NNP entrevistas/NNS)\n  ,/,\n  (VP propuestas/VBP (NP a/DT efectuarse/NN en/NN))\n  la/FW\n  (NP Cumbre/NNP)\n  de/FW\n  (NP Río/NNP)\n  (PP de/IN (NP Janeiro/NNP))\n  ,/,\n  (NP tienen/NN como/NN propósito/NN)\n  (NP desarrollar/JJ acuerdos/NN bilaterales/NNS)\n  que/RB\n  (VP sienten/VBP (NP las/JJ bases/NNS))\n  (PP de/IN (NP cooperación/NN mutua/NN))\n  ,/,\n  en/FW\n  el/FW\n  (NP plano/NN)\n  económico/FW\n  (NP y/NN diplomático/NN)\n  ,/,\n  entre/FW\n  las/FW\n  (NP naciones/NNS dialogantes/NNS)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "GOBIERNOS_OFICIALES",
+      "RECURSOS_NATURALES",
+      "REGIONES_PROVINCIAS",
+      "PAISES",
+      "RELACIONES_INTERNACIONALES"
+    ],
+    "matches": [
+      {
+        "category": "RELACIONES_INTERNACIONALES",
+        "matched_text": "cooperación económica internacional",
+        "position": [
+          1085,
+          1120
+        ],
+        "start": 1085,
+        "end": 1120
+      },
+      {
+        "category": "RELACIONES_INTERNACIONALES",
+        "matched_text": "cooperación mutua, en el plano económico y diplomático, entre las naciones",
+        "position": [
+          958,
+          1032
+        ],
+        "start": 958,
+        "end": 1032
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidenta de méxico",
+        "position": [
+          17,
+          37
+        ],
+        "start": 17,
+        "end": 37
+      },
+      {
+        "category": "RECURSOS_NATURALES",
+        "matched_text": "río",
+        "position": [
+          323,
+          326
+        ],
+        "start": 323,
+        "end": 326
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "brasil",
+        "position": [
+          1286,
+          1292
+        ],
+        "start": 1286,
+        "end": 1292
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "méxico",
+        "position": [
+          31,
+          37
+        ],
+        "start": 31,
+        "end": 37
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "estado mexicana",
+        "position": [
+          356,
+          371
+        ],
+        "start": 356,
+        "end": 371
+      }
+    ],
+    "match_count": 7
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "India",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "México",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Keir Starmer",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Vietnam",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Japón",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Claudia Sheinbaum",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Shigeru Ishiba",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "jefa de Estado mexicana",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Yoon Suk-Yeol",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Narendra Modi",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Cumbre de Río de Janeiro",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "G20",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Río de Janeiro",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Estados",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Pham Minh Chinh",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Reino Unido",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Luiz Inácio Lula da Silva",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Corea del Sur",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Brasil",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "México",
+        "relacion": "REUNIR",
+        "objeto": "Estados"
+      },
+      {
+        "sujeto": "México",
+        "relacion": "REUNIR",
+        "objeto": "G20"
+      },
+      {
+        "sujeto": "Claudia Sheinbaum",
+        "relacion": "REUNIR",
+        "objeto": "Estados"
+      },
+      {
+        "sujeto": "Claudia Sheinbaum",
+        "relacion": "REUNIR",
+        "objeto": "G20"
+      },
+      {
+        "sujeto": "G20",
+        "relacion": "CELEBRAR",
+        "objeto": "Río de Janeiro"
+      },
+      {
+        "sujeto": "G20",
+        "relacion": "CELEBRAR",
+        "objeto": "jefa de Estado mexicana"
+      },
+      {
+        "sujeto": "G20",
+        "relacion": "CELEBRAR",
+        "objeto": "Luiz Inácio Lula da Silva"
+      },
+      {
+        "sujeto": "Río de Janeiro",
+        "relacion": "CELEBRAR",
+        "objeto": "Luiz Inácio Lula da Silva"
+      },
+      {
+        "sujeto": "jefa de Estado mexicana",
+        "relacion": "ENTREVISTAR_CELEBRAR",
+        "objeto": "Luiz Inácio Lula da Silva"
+      },
+      {
+        "sujeto": "G20",
+        "relacion": "CENTRAR",
+        "objeto": "Brasil"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.0,
+    "pos": 0.0,
+    "neu": 1.0,
+    "neg": 0.0,
+    "label": "neutral"
+  }
+}

@@ -1,0 +1,621 @@
+{
+  "url": "https://www.telesurtv.net/peru-declara-emergencia-en-su-sistema-penitenciario-a-causa-del-hacinamiento/",
+  "title": "Perú declara emergencia en su Sistema penitenciario a causa del hacinamiento - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "hacinamiento",
+    "Perú",
+    "Prisiones",
+    "Sistema penitenciario"
+  ],
+  "text": "El Gobierno de Perú anunció este martes la declaración de emergencia de 24 meses en el Sistema Nacional Penitenciario y el Instituto Nacional Penitenciario (INPE) por la grave situación de hacinamiento en la que se encuentran las cárceles del país.\nLEA TAMBIÉN\nCongreso peruano debatirá sobre la ampliación del Reinfo mientras continúan los bloqueos\nEl decreto precisa “se declara en emergencia el Sistema Nacional Penitenciario y el Instituto Nacional Penitenciario por razones de déficit de capacidad de albergue y para optimizar la prestación de servicios para la resocialización de las personas privadas de libertad, por el período de veinticuatro meses”.\nEl texto también resalta que, hasta el mes de agosto del presente año, las 69 cárceles del país mantenían a 98.127 presos, cuando la capacidad total del Sistema Penitenciario Nacional es de 41.556, lo que significa una sobrepoblación del 136 %.\n“La situación crítica se agrava aún más debido a la insuficiente capacidad de los establecimientos penitenciarios existentes. En 2023, solo el 50,2 % de la población privada de libertad se encontraba en establecimientos con condiciones adecuadas de infraestructura y servicios”, agregó.\nEl Sistema Nacional Penitenciario tampoco cuenta “con medios necesarios, como recursos humanos, logísticos, presupuesto y servicios penitenciarios, para el tratamiento, salud y seguridad penitenciaria”.\nEl objetivo de la declaratoria de emergencia es crear nuevos centros penitenciarios, ampliar otros y reorganizar el INPE.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/peru-declara-emergencia-en-su-sistema-penitenciario-a-causa-del-hacinamiento/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-11.json",
+    "message_index": 249,
+    "message_id": 81232,
+    "date": "2024-11-26T19:55:13+00:00",
+    "text": "teleSUR\nPerú declara emergencia en su Sistema penitenciario a causa del hacinamiento\nhttps://www.telesurtv.net/peru-declara-emergencia-en-su-sistema-penitenciario-a-causa-del-hacinamiento/",
+    "photo_path": null,
+    "views": 2304,
+    "reactions": {
+      "🔥": 17,
+      "🤔": 8,
+      "❤": 1
+    },
+    "total_reactions": 26
+  },
+  "preprocessing": {
+    "cleaned": "el gobierno de perú anunció este martes la declaración de emergencia de 24 meses en el sistema nacional penitenciario y el instituto nacional penitenciario (inpe) por la grave situación de hacinamiento en la que se encuentran las cárceles del país. el decreto precisa “se declara en emergencia el sistema nacional penitenciario y el instituto nacional penitenciario por razones de déficit de capacidad de albergue y para optimizar la prestación de servicios para la resocialización de las personas privadas de libertad, por el período de veinticuatro meses”. el texto también resalta que, hasta el mes de agosto del presente año, las 69 cárceles del país mantenían a 98.127 presos, cuando la capacidad total del sistema penitenciario nacional es de 41.556, lo que significa una sobrepoblación del 136 %. “la situación crítica se agrava aún más debido a la insuficiente capacidad de los establecimientos penitenciarios existentes. en 2023, solo el 50,2 % de la población privada de libertad se encontraba en establecimientos con condiciones adecuadas de infraestructura y servicios”, agregó. el sistema nacional penitenciario tampoco cuenta “con medios necesarios, como recursos humanos, logísticos, presupuesto y servicios penitenciarios, para el tratamiento, salud y seguridad penitenciaria”. el objetivo de la declaratoria de emergencia es crear nuevos centros penitenciarios, ampliar otros y reorganizar el inpe.",
+    "tokens": [
+      "gobierno",
+      "perú",
+      "anunció",
+      "martes",
+      "declaración",
+      "emergencia",
+      "24",
+      "meses",
+      "sistema",
+      "nacional",
+      "penitenciario",
+      "instituto",
+      "nacional",
+      "penitenciario",
+      "(",
+      "inpe",
+      ")",
+      "grave",
+      "situación",
+      "hacinamiento",
+      "encuentran",
+      "cárceles",
+      "país",
+      ".",
+      "decreto",
+      "precisa",
+      "“",
+      "declara",
+      "emergencia",
+      "sistema",
+      "nacional",
+      "penitenciario",
+      "instituto",
+      "nacional",
+      "penitenciario",
+      "razones",
+      "déficit",
+      "capacidad",
+      "albergue",
+      "optimizar",
+      "prestación",
+      "servicios",
+      "resocialización",
+      "personas",
+      "privadas",
+      "libertad",
+      ",",
+      "período",
+      "veinticuatro",
+      "meses",
+      "”",
+      ".",
+      "texto",
+      "resalta",
+      ",",
+      "mes",
+      "agosto",
+      "presente",
+      "año",
+      ",",
+      "69",
+      "cárceles",
+      "país",
+      "mantenían",
+      "98.127",
+      "presos",
+      ",",
+      "capacidad",
+      "total",
+      "sistema",
+      "penitenciario",
+      "nacional",
+      "41.556",
+      ",",
+      "significa",
+      "sobrepoblación",
+      "136",
+      "%",
+      ".",
+      "“",
+      "situación",
+      "crítica",
+      "agrava",
+      "aún",
+      "debido",
+      "insuficiente",
+      "capacidad",
+      "establecimientos",
+      "penitenciarios",
+      "existentes",
+      ".",
+      "2023",
+      ",",
+      "solo",
+      "50,2",
+      "%",
+      "población",
+      "privada",
+      "libertad",
+      "encontraba",
+      "establecimientos",
+      "condiciones",
+      "adecuadas",
+      "infraestructura",
+      "servicios",
+      "”",
+      ",",
+      "agregó",
+      ".",
+      "sistema",
+      "nacional",
+      "penitenciario",
+      "tampoco",
+      "cuenta",
+      "“",
+      "medios",
+      "necesarios",
+      ",",
+      "recursos",
+      "humanos",
+      ",",
+      "logísticos",
+      ",",
+      "presupuesto",
+      "servicios",
+      "penitenciarios",
+      ",",
+      "tratamiento",
+      ",",
+      "salud",
+      "seguridad",
+      "penitenciaria",
+      "”",
+      ".",
+      "objetivo",
+      "declaratoria",
+      "emergencia",
+      "crear",
+      "nuevos",
+      "centros",
+      "penitenciarios",
+      ",",
+      "ampliar",
+      "reorganizar",
+      "inpe",
+      "."
+    ],
+    "token_count": 146,
+    "sentence_count": 7
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 32,
+      "IN": 8,
+      "VBP": 9,
+      "NN": 58,
+      "NNS": 15,
+      "FW": 64,
+      "CD": 7,
+      "VBZ": 4,
+      "VBN": 1,
+      "JJ": 13,
+      "VBD": 2
+    },
+    "bigram_freq": {
+      "NNP-NNP": 17,
+      "NNP-IN": 1,
+      "IN-NNP": 1,
+      "NNP-VBP": 1,
+      "VBP-NN": 2,
+      "NN-NNS": 5,
+      "NNS-VBP": 6,
+      "VBP-FW": 1,
+      "FW-FW": 50,
+      "FW-CD": 2,
+      "CD-NNS": 2,
+      "NNS-FW": 3,
+      "FW-NNP": 2,
+      "NNP-VBZ": 3,
+      "VBZ-NNP": 2,
+      "NNP-NN": 6,
+      "NN-NN": 35,
+      "NN-VBP": 1,
+      "VBP-VBN": 1,
+      "VBN-IN": 1,
+      "IN-FW": 6,
+      "FW-NNS": 3,
+      "NNS-NNS": 2,
+      "VBP-JJ": 4,
+      "JJ-NNP": 2,
+      "NN-JJ": 6,
+      "JJ-NN": 7,
+      "NN-NNP": 4,
+      "NNP-FW": 3,
+      "FW-NN": 5,
+      "NN-IN": 2,
+      "NNS-IN": 2,
+      "NN-FW": 1,
+      "NNS-NNP": 1,
+      "JJ-NNS": 3,
+      "NN-VBD": 2,
+      "VBD-CD": 2,
+      "NN-CD": 2,
+      "CD-NN": 3,
+      "JJ-JJ": 1,
+      "CD-NNP": 1,
+      "FW-JJ": 1,
+      "NNS-VBZ": 1,
+      "VBZ-IN": 1,
+      "IN-CD": 1,
+      "CD-IN": 1,
+      "VBP-NNP": 1,
+      "VBZ-JJ": 1,
+      "FW-VBP": 1
+    },
+    "trigram_freq": {
+      "NNP-NNP-IN": 1,
+      "NNP-IN-NNP": 1,
+      "IN-NNP-VBP": 1,
+      "NNP-VBP-NN": 1,
+      "VBP-NN-NNS": 1,
+      "NN-NNS-VBP": 3,
+      "NNS-VBP-FW": 1,
+      "VBP-FW-FW": 1,
+      "FW-FW-FW": 39,
+      "FW-FW-CD": 2,
+      "FW-CD-NNS": 1,
+      "CD-NNS-FW": 2,
+      "NNS-FW-FW": 2,
+      "FW-FW-NNP": 2,
+      "FW-NNP-NNP": 2,
+      "NNP-NNP-NNP": 9,
+      "NNP-NNP-VBZ": 3,
+      "NNP-VBZ-NNP": 2,
+      "VBZ-NNP-NNP": 2,
+      "NNP-NNP-NN": 3,
+      "NNP-NN-NN": 5,
+      "NN-NN-VBP": 1,
+      "NN-VBP-VBN": 1,
+      "VBP-VBN-IN": 1,
+      "VBN-IN-FW": 1,
+      "IN-FW-FW": 5,
+      "FW-FW-NNS": 3,
+      "FW-NNS-NNS": 1,
+      "NNS-NNS-VBP": 2,
+      "NNS-VBP-JJ": 3,
+      "VBP-JJ-NNP": 1,
+      "JJ-NNP-NNP": 1,
+      "NN-NN-NN": 21,
+      "NN-NN-JJ": 6,
+      "NN-JJ-NN": 3,
+      "JJ-NN-NNP": 2,
+      "NN-NNP-FW": 2,
+      "NNP-FW-NN": 1,
+      "FW-NN-NN": 3,
+      "NN-JJ-NNP": 1,
+      "JJ-NNP-NN": 1,
+      "NN-NN-IN": 1,
+      "NN-IN-FW": 2,
+      "NNP-NN-NNS": 1,
+      "NN-NNS-IN": 1,
+      "NNS-IN-FW": 2,
+      "FW-FW-NN": 3,
+      "FW-NN-FW": 1,
+      "NN-FW-FW": 1,
+      "FW-NNS-NNP": 1,
+      "NNS-NNP-NN": 1,
+      "NN-JJ-NNS": 1,
+      "JJ-NNS-IN": 1,
+      "NN-NN-VBD": 1,
+      "NN-VBD-CD": 2,
+      "VBD-CD-NNS": 1,
+      "NNS-FW-NN": 1,
+      "NN-NN-CD": 2,
+      "NN-CD-NN": 1,
+      "CD-NN-NN": 2,
+      "NN-JJ-JJ": 1,
+      "JJ-JJ-NN": 1,
+      "NN-NNP-NNP": 1,
+      "NNP-NNP-FW": 1,
+      "NNP-FW-FW": 2,
+      "FW-CD-NN": 1,
+      "JJ-NN-NN": 3,
+      "NN-CD-NNP": 1,
+      "CD-NNP-NN": 1,
+      "JJ-NN-IN": 1,
+      "IN-FW-JJ": 1,
+      "FW-JJ-NNS": 1,
+      "JJ-NNS-VBZ": 1,
+      "NNS-VBZ-IN": 1,
+      "VBZ-IN-CD": 1,
+      "IN-CD-NN": 1,
+      "CD-NN-VBD": 1,
+      "VBD-CD-IN": 1,
+      "CD-IN-FW": 1,
+      "FW-NN-NNS": 1,
+      "NN-NNS-FW": 1,
+      "FW-NNS-VBP": 1,
+      "NNS-VBP-NNP": 1,
+      "VBP-NNP-NNP": 1,
+      "NNP-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 1,
+      "JJ-NN-NNS": 1,
+      "NNS-VBP-NN": 1,
+      "VBP-NN-NN": 1,
+      "NN-NN-NNS": 1,
+      "VBP-JJ-NN": 2,
+      "NN-NN-NNP": 2,
+      "FW-FW-VBP": 1,
+      "FW-VBP-JJ": 1,
+      "VBP-JJ-NNS": 1,
+      "JJ-NNS-NNS": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "FW": 64,
+        "NN": 58,
+        "NNP": 32,
+        "NNS": 15,
+        "JJ": 13
+      },
+      "top_bigrams": {
+        "FW-FW": 50,
+        "NN-NN": 35,
+        "NNP-NNP": 17,
+        "JJ-NN": 7,
+        "NNS-VBP": 6
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 39,
+        "NN-NN-NN": 21,
+        "NNP-NNP-NNP": 9,
+        "NN-NN-JJ": 6,
+        "NNP-NN-NN": 5
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 7,
+    "chunk_counts": {
+      "NP": 48,
+      "PP": 1,
+      "VP": 16,
+      "ADJP": 1
+    },
+    "top_rules": [
+      {
+        "rule": "NP -> ('meses', 'NNS')",
+        "frequency": 2,
+        "weight": 0.0274
+      },
+      {
+        "rule": "NP -> ('Sistema', 'NNP') ('Nacional', 'NNP') ('Penitenciario', 'NNP') ('y', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0274
+      },
+      {
+        "rule": "VP -> ('el', 'VBZ') NP",
+        "frequency": 2,
+        "weight": 0.0274
+      },
+      {
+        "rule": "NP -> ('INPE', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0274
+      },
+      {
+        "rule": "VP -> ('”', 'VBP')",
+        "frequency": 2,
+        "weight": 0.0274
+      },
+      {
+        "rule": "NP -> ('%', 'NN')",
+        "frequency": 2,
+        "weight": 0.0274
+      },
+      {
+        "rule": "S -> NP PP VP VP ('declaración', 'FW') ('de', 'FW') ('emergencia', 'FW') ('de', 'FW') ('24', 'CD') NP ('en', 'FW') ('el', 'FW') NP VP ('(', '(') NP (')', ')') NP VP VP ('de', 'IN') ('hacinamiento', 'FW') ('en', 'FW') ('la', 'FW') ('que', 'FW') ('se', 'FW') ('encuentran', 'FW') NP ('del', 'RB') VP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0137
+      },
+      {
+        "rule": "NP -> ('El', 'NNP') ('Gobierno', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0137
+      },
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 1,
+        "weight": 0.0137
+      },
+      {
+        "rule": "NP -> ('Perú', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0137
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El Gobierno"
+      },
+      {
+        "label": "PP",
+        "text": "de Perú"
+      },
+      {
+        "label": "NP",
+        "text": "Perú"
+      },
+      {
+        "label": "VP",
+        "text": "anunció este martes"
+      },
+      {
+        "label": "NP",
+        "text": "este martes"
+      },
+      {
+        "label": "VP",
+        "text": "la"
+      },
+      {
+        "label": "NP",
+        "text": "meses"
+      },
+      {
+        "label": "NP",
+        "text": "Sistema Nacional Penitenciario y"
+      },
+      {
+        "label": "VP",
+        "text": "el Instituto Nacional Penitenciario"
+      },
+      {
+        "label": "NP",
+        "text": "Instituto Nacional Penitenciario"
+      },
+      {
+        "label": "NP",
+        "text": "INPE"
+      },
+      {
+        "label": "NP",
+        "text": "por la"
+      },
+      {
+        "label": "VP",
+        "text": "grave"
+      },
+      {
+        "label": "VP",
+        "text": "situación"
+      },
+      {
+        "label": "NP",
+        "text": "las cárceles"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP El/NNP Gobierno/NNP)\n  (PP de/IN (NP Perú/NNP))\n  (VP anunció/VBP (NP este/NN martes/NNS))\n  (VP la/VBP)\n  declaración/FW\n  de/FW\n  emergencia/FW\n  de/FW\n  24/CD\n  (NP meses/NNS)\n  en/FW\n  el/FW\n  (NP Sistema/NNP Nacional/NNP Penitenciario/NNP y/NNP)\n  (VP el/VBZ (NP Instituto/NNP Nacional/NNP Penitenciario/NNP))\n  (/(\n  (NP INPE/NNP)\n  )/)\n  (NP por/NN la/NN)\n  (VP grave/VBP)\n  (VP situación/VBN)\n  de/IN\n  hacinamiento/FW\n  en/FW\n  la/FW\n  que/FW\n  se/FW\n  encuentran/FW\n  (NP las/NNS cárceles/NNS)\n  del/RB\n  (VP país/VBP)\n  ./.)",
+      "(S\n  (NP\n    LEA/NNP\n    TAMBIÉN/NNP\n    Congreso/NNP\n    peruano/NN\n    debatirá/NN\n    sobre/NN\n    la/NN)\n  (NP ampliación/JJ del/NN Reinfo/NNP)\n  mientras/FW\n  (NP continúan/NN los/NN)\n  (NP\n    bloqueos/JJ\n    El/NNP\n    decreto/NN\n    precisa/NN\n    “/NNP\n    se/NN\n    declara/NN)\n  en/IN\n  emergencia/FW\n  el/FW\n  (NP Sistema/NNP Nacional/NNP Penitenciario/NNP y/NNP)\n  (VP\n    el/VBZ\n    (NP\n      Instituto/NNP\n      Nacional/NNP\n      Penitenciario/NNP\n      por/NN\n      razones/NNS))\n  de/IN\n  déficit/FW\n  de/FW\n  capacidad/FW\n  de/FW\n  albergue/FW\n  y/FW\n  para/FW\n  optimizar/FW\n  la/FW\n  prestación/FW\n  de/FW\n  servicios/FW\n  (NP para/NN)\n  la/FW\n  resocialización/FW\n  de/FW\n  las/FW\n  personas/FW\n  privadas/FW\n  de/FW\n  libertad/FW\n  ,/,\n  por/FW\n  el/FW\n  período/FW\n  de/FW\n  veinticuatro/FW\n  (NP meses/NNS)\n  (VP ”/VBP)\n  ./.)",
+      "(S\n  (NP El/NNP texto/NN también/NN resalta/NN que/NN)\n  ,/,\n  (NP hasta/NN)\n  (NP el/JJ mes/NNS)\n  de/IN\n  agosto/FW\n  del/FW\n  (NP presente/NN año/NN)\n  ,/,\n  (VP las/VBZ)\n  69/CD\n  (NP cárceles/NNS)\n  del/FW\n  (NP país/NN)\n  (VP mantenían/VBD)\n  a/DT\n  98.127/CD\n  (NP presos/NN)\n  ,/,\n  (NP cuando/NN la/NN)\n  (NP\n    capacidad/JJ\n    total/JJ\n    del/NN\n    Sistema/NNP\n    Penitenciario/NNP\n    Nacional/NNP)\n  es/FW\n  de/FW\n  41.556/CD\n  ,/,\n  (NP lo/NN que/NN significa/NN)\n  (NP una/JJ sobrepoblación/NN)\n  (VP del/VBZ)\n  136/CD\n  (NP %/NN)\n  ./.)",
+      "(S\n  (NP\n    “/JJ\n    La/NNP\n    situación/NN\n    crítica/NN\n    se/NN\n    agrava/NN\n    aún/NN\n    más/NN)\n  (VP debido/VBZ (NP a/DT la/NN) (NP insuficiente/JJ capacidad/NN))\n  de/IN\n  los/FW\n  (NP establecimientos/JJ penitenciarios/NNS existentes/NNS)\n  ./.)",
+      "(S\n  (NP En/NN)\n  2023/CD\n  ,/,\n  (VP solo/VBD el/RB)\n  50,2/CD\n  (NP %/NN)\n  de/IN\n  la/FW\n  población/FW\n  privada/FW\n  de/FW\n  libertad/FW\n  se/FW\n  encontraba/FW\n  en/FW\n  establecimientos/FW\n  (NP con/NN condiciones/NNS)\n  adecuadas/FW\n  de/FW\n  infraestructura/FW\n  y/FW\n  (NP servicios/NNS)\n  (VP ”/VBP)\n  ,/,\n  (NP agregó/NN)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "INSTITUCIONES_EDUCATIVAS",
+      "PAISES",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "GOBIERNOS_OFICIALES"
+    ],
+    "matches": [
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "anunció",
+        "position": [
+          20,
+          27
+        ],
+        "start": 20,
+        "end": 27
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "gobierno de perú anunció",
+        "position": [
+          3,
+          27
+        ],
+        "start": 3,
+        "end": 27
+      },
+      {
+        "category": "INSTITUCIONES_EDUCATIVAS",
+        "matched_text": "instituto nacional penitenciario",
+        "position": [
+          123,
+          155
+        ],
+        "start": 123,
+        "end": 155
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "perú",
+        "position": [
+          15,
+          19
+        ],
+        "start": 15,
+        "end": 19
+      }
+    ],
+    "match_count": 4
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Sistema Nacional Penitenciario",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Congreso peruano",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Instituto Nacional Penitenciario",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Sistema Penitenciario Nacional",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Reinfo",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Gobierno de Perú",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Gobierno de Perú",
+        "relacion": "ANUNCIAR",
+        "objeto": "Sistema Nacional Penitenciario"
+      },
+      {
+        "sujeto": "Gobierno de Perú",
+        "relacion": "ANUNCIAR",
+        "objeto": "Instituto Nacional Penitenciario"
+      },
+      {
+        "sujeto": "Congreso peruano",
+        "relacion": "DEBATIR",
+        "objeto": "Reinfo"
+      },
+      {
+        "sujeto": "Sistema Nacional Penitenciario",
+        "relacion": "DEBATIR",
+        "objeto": "Congreso peruano"
+      },
+      {
+        "sujeto": "Congreso peruano",
+        "relacion": "DEBATIR",
+        "objeto": "Instituto Nacional Penitenciario"
+      },
+      {
+        "sujeto": "Sistema Nacional Penitenciario",
+        "relacion": "DEBATIR",
+        "objeto": "Reinfo"
+      },
+      {
+        "sujeto": "Reinfo",
+        "relacion": "DEBATIR",
+        "objeto": "Instituto Nacional Penitenciario"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.3818,
+    "pos": 0.0,
+    "neu": 0.988,
+    "neg": 0.012,
+    "label": "negative"
+  }
+}

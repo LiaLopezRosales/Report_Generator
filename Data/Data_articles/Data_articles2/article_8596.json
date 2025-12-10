@@ -1,0 +1,796 @@
+{
+  "url": "https://www.telesurtv.net/85-por-ciento-de-la-capital-cubana-ya-cuenta-con-servicio-electrico/",
+  "title": "85 por ciento de la capital cubana ya cuenta con servicio eléctrico - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "abastecimiento de agua",
+    "capital cubana",
+    "Servicio Eléctrico",
+    "UNE"
+  ],
+  "text": "Tras el paso del huracán Rafael, los sistemas de líneas quedaron afectados durante varias jornadas, y actualmente aún hay hogares e instituciones cubanos que no poseen electricidad, lo cual provoca además afectaciones con el abastecimiento de agua.\nLa empresa cubana que provee de servicio a todo el país, indicó que la mayor afectación se reportó en los municipios Playa, Plaza de la Revolución, Cerro, La Lisa y Arroyo Naranjo.\nMientras, de las doce fuentes de abasto de agua vitales en la ciudad, en este momento, seis de ellas ya cuentan con servicio eléctrico.\nInformó que en terreno capitalino actualmente operan siete contingentes de otras provincias cubanas, Granma, Holguín, Las Tunas, Santi Spíritus, Camagüey, Matanzas y Santiago de Cuba.\nEn sesión de trabajo del Consejo de Defensa Provincial en la jornada del sábado 9 de noviembre, autoridades informaron que han sido abiertas 72 oficinas de trámites distribuidas en todos los municipios para la recuperación de las viviendas en la La Habana, y hasta entonces se habían levantado 857 afectaciones.\nHasta entonces se reportaban 1054 afectaciones en la infraestructura inmobiliaria, con 33 derrumbes totales y 38 parciales.\nPor su parte, Aguas de La Habana, empresa abastecedora del servicio de agua, refirió que el 41 por ciento de los clientes ya poseían abasto de agua, ya sea mediante redes o pipas. De igual forma anunciaron que dos equipos de la Cuenca Sur de la ciudad debieron ser extraídos a causa de la humedad, mas serían reinstaladas este domingo.\nAnunciaron que el próximo lunes se iniciará una intencionada recuperación de los organopónicos de la provincia para elevar las producciones agrícolas que tanto necesita la población, la cual ha visto muchos de sus alimentos descompuestos ante la falta de refrigeración.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/85-por-ciento-de-la-capital-cubana-ya-cuenta-con-servicio-electrico/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-11.json",
+    "message_index": 1270,
+    "message_id": 80149,
+    "date": "2024-11-10T16:55:07+00:00",
+    "text": "teleSUR\n85 por ciento de la capital cubana ya cuenta con servicio eléctrico\nhttps://www.telesurtv.net/85-por-ciento-de-la-capital-cubana-ya-cuenta-con-servicio-electrico/",
+    "photo_path": null,
+    "views": 4268,
+    "reactions": {
+      "👍": 72,
+      "👏": 13,
+      "❤": 5
+    },
+    "total_reactions": 90
+  },
+  "preprocessing": {
+    "cleaned": "tras el paso del huracán rafael, los sistemas de líneas quedaron afectados durante varias jornadas, y actualmente aún hay hogares e instituciones cubanos que no poseen electricidad, lo cual provoca además afectaciones con el abastecimiento de agua. la empresa cubana que provee de servicio a todo el país, indicó que la mayor afectación se reportó en los municipios playa, plaza de la revolución, cerro, la lisa y arroyo naranjo. mientras, de las doce fuentes de abasto de agua vitales en la ciudad, en este momento, seis de ellas ya cuentan con servicio eléctrico. informó que en terreno capitalino actualmente operan siete contingentes de otras provincias cubanas, granma, holguín, las tunas, santi spíritus, camagüey, matanzas y santiago de cuba. en sesión de trabajo del consejo de defensa provincial en la jornada del sábado 9 de noviembre, autoridades informaron que han sido abiertas 72 oficinas de trámites distribuidas en todos los municipios para la recuperación de las viviendas en la la habana, y hasta entonces se habían levantado 857 afectaciones. hasta entonces se reportaban 1054 afectaciones en la infraestructura inmobiliaria, con 33 derrumbes totales y 38 parciales. por su parte, aguas de la habana, empresa abastecedora del servicio de agua, refirió que el 41 por ciento de los clientes ya poseían abasto de agua, ya sea mediante redes o pipas. de igual forma anunciaron que dos equipos de la cuenca sur de la ciudad debieron ser extraídos a causa de la humedad, mas serían reinstaladas este domingo. anunciaron que el próximo lunes se iniciará una intencionada recuperación de los organopónicos de la provincia para elevar las producciones agrícolas que tanto necesita la población, la cual ha visto muchos de sus alimentos descompuestos ante la falta de refrigeración.",
+    "tokens": [
+      "tras",
+      "paso",
+      "huracán",
+      "rafael",
+      ",",
+      "sistemas",
+      "líneas",
+      "quedaron",
+      "afectados",
+      "varias",
+      "jornadas",
+      ",",
+      "actualmente",
+      "aún",
+      "hogares",
+      "instituciones",
+      "cubanos",
+      "poseen",
+      "electricidad",
+      ",",
+      "provoca",
+      "además",
+      "afectaciones",
+      "abastecimiento",
+      "agua",
+      ".",
+      "empresa",
+      "cubana",
+      "provee",
+      "servicio",
+      "país",
+      ",",
+      "indicó",
+      "mayor",
+      "afectación",
+      "reportó",
+      "municipios",
+      "playa",
+      ",",
+      "plaza",
+      "revolución",
+      ",",
+      "cerro",
+      ",",
+      "lisa",
+      "arroyo",
+      "naranjo",
+      ".",
+      "mientras",
+      ",",
+      "doce",
+      "fuentes",
+      "abasto",
+      "agua",
+      "vitales",
+      "ciudad",
+      ",",
+      "momento",
+      ",",
+      "seis",
+      "cuentan",
+      "servicio",
+      "eléctrico",
+      ".",
+      "informó",
+      "terreno",
+      "capitalino",
+      "actualmente",
+      "operan",
+      "siete",
+      "contingentes",
+      "provincias",
+      "cubanas",
+      ",",
+      "granma",
+      ",",
+      "holguín",
+      ",",
+      "tunas",
+      ",",
+      "santi",
+      "spíritus",
+      ",",
+      "camagüey",
+      ",",
+      "matanzas",
+      "santiago",
+      "cuba",
+      ".",
+      "sesión",
+      "trabajo",
+      "consejo",
+      "defensa",
+      "provincial",
+      "jornada",
+      "sábado",
+      "9",
+      "noviembre",
+      ",",
+      "autoridades",
+      "informaron",
+      "sido",
+      "abiertas",
+      "72",
+      "oficinas",
+      "trámites",
+      "distribuidas",
+      "municipios",
+      "recuperación",
+      "viviendas",
+      "habana",
+      ",",
+      "entonces",
+      "levantado",
+      "857",
+      "afectaciones",
+      ".",
+      "entonces",
+      "reportaban",
+      "1054",
+      "afectaciones",
+      "infraestructura",
+      "inmobiliaria",
+      ",",
+      "33",
+      "derrumbes",
+      "totales",
+      "38",
+      "parciales",
+      ".",
+      "parte",
+      ",",
+      "aguas",
+      "habana",
+      ",",
+      "empresa",
+      "abastecedora",
+      "servicio",
+      "agua",
+      ",",
+      "refirió",
+      "41",
+      "ciento",
+      "clientes",
+      "poseían",
+      "abasto",
+      "agua",
+      ",",
+      "mediante",
+      "redes",
+      "pipas",
+      ".",
+      "igual",
+      "forma",
+      "anunciaron",
+      "dos",
+      "equipos",
+      "cuenca",
+      "sur",
+      "ciudad",
+      "debieron",
+      "ser",
+      "extraídos",
+      "causa",
+      "humedad",
+      ",",
+      "mas",
+      "reinstaladas",
+      "domingo",
+      ".",
+      "anunciaron",
+      "próximo",
+      "lunes",
+      "iniciará",
+      "intencionada",
+      "recuperación",
+      "organopónicos",
+      "provincia",
+      "elevar",
+      "producciones",
+      "agrícolas",
+      "necesita",
+      "población",
+      ",",
+      "visto",
+      "alimentos",
+      "descompuestos",
+      "falta",
+      "refrigeración",
+      "."
+    ],
+    "token_count": 190,
+    "sentence_count": 9
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 38,
+      "CC": 2,
+      "JJ": 22,
+      "NN": 67,
+      "VBZ": 2,
+      "FW": 75,
+      "NNS": 25,
+      "VBP": 16,
+      "DT": 1,
+      "IN": 18,
+      "VBD": 2,
+      "CD": 6,
+      "JJR": 1
+    },
+    "bigram_freq": {
+      "NNP-CC": 1,
+      "CC-JJ": 2,
+      "JJ-NN": 12,
+      "NN-NN": 34,
+      "NN-NNP": 4,
+      "NNP-VBZ": 2,
+      "VBZ-FW": 1,
+      "FW-FW": 44,
+      "FW-NN": 12,
+      "NN-FW": 7,
+      "FW-NNS": 7,
+      "NNS-VBP": 15,
+      "VBP-JJ": 8,
+      "NN-NNS": 7,
+      "VBP-NNS": 1,
+      "VBP-DT": 1,
+      "DT-JJ": 1,
+      "NN-JJ": 2,
+      "FW-NNP": 6,
+      "NNP-FW": 4,
+      "NN-IN": 8,
+      "IN-FW": 12,
+      "IN-JJ": 2,
+      "JJ-NNS": 4,
+      "NNS-NNP": 4,
+      "NNP-NNP": 20,
+      "NNP-IN": 5,
+      "FW-JJ": 3,
+      "NNS-IN": 3,
+      "VBP-FW": 1,
+      "FW-CC": 1,
+      "NNP-NN": 4,
+      "NN-VBD": 2,
+      "VBD-JJ": 1,
+      "IN-NNP": 2,
+      "VBP-NN": 1,
+      "VBD-CD": 1,
+      "CD-NNS": 4,
+      "NNS-FW": 1,
+      "VBP-IN": 2,
+      "IN-NN": 2,
+      "JJ-FW": 4,
+      "NN-CD": 2,
+      "NNP-NNS": 1,
+      "JJ-CD": 1,
+      "CD-NN": 2,
+      "NNS-CD": 1,
+      "VBZ-JJ": 1,
+      "NN-VBP": 1,
+      "VBP-CD": 1,
+      "VBP-NNP": 1,
+      "NNP-JJ": 1,
+      "FW-JJR": 1,
+      "JJR-FW": 1,
+      "JJ-JJ": 1,
+      "NNS-NNS": 1
+    },
+    "trigram_freq": {
+      "NNP-CC-JJ": 1,
+      "CC-JJ-NN": 2,
+      "JJ-NN-NN": 8,
+      "NN-NN-NNP": 4,
+      "NN-NNP-VBZ": 1,
+      "NNP-VBZ-FW": 1,
+      "VBZ-FW-FW": 1,
+      "FW-FW-FW": 29,
+      "FW-FW-NN": 6,
+      "FW-NN-FW": 3,
+      "NN-FW-NNS": 1,
+      "FW-NNS-VBP": 6,
+      "NNS-VBP-JJ": 8,
+      "VBP-JJ-NN": 4,
+      "JJ-NN-NNS": 1,
+      "NN-NNS-VBP": 6,
+      "NNS-VBP-NNS": 1,
+      "VBP-NNS-VBP": 1,
+      "NNS-VBP-DT": 1,
+      "VBP-DT-JJ": 1,
+      "DT-JJ-NN": 1,
+      "NN-NN-JJ": 2,
+      "NN-JJ-NN": 1,
+      "NN-NN-NNS": 4,
+      "JJ-NN-FW": 1,
+      "NN-FW-FW": 1,
+      "FW-FW-NNP": 4,
+      "FW-NNP-FW": 2,
+      "NNP-FW-NN": 1,
+      "FW-NN-NN": 6,
+      "NN-NN-NN": 14,
+      "NN-NN-IN": 5,
+      "NN-IN-FW": 7,
+      "IN-FW-NN": 1,
+      "NN-NN-FW": 2,
+      "NN-FW-NN": 3,
+      "NN-IN-JJ": 1,
+      "IN-JJ-NNS": 1,
+      "JJ-NNS-NNP": 1,
+      "NNS-NNP-NNP": 2,
+      "NNP-NNP-IN": 4,
+      "NNP-IN-FW": 3,
+      "IN-FW-NNP": 1,
+      "FW-NNP-NNP": 4,
+      "NNP-NNP-NNP": 12,
+      "IN-FW-JJ": 1,
+      "FW-JJ-NNS": 2,
+      "JJ-NNS-IN": 2,
+      "NNS-IN-FW": 2,
+      "IN-FW-FW": 6,
+      "FW-FW-NNS": 3,
+      "NNS-VBP-FW": 1,
+      "VBP-FW-FW": 1,
+      "FW-NN-IN": 2,
+      "IN-FW-CC": 1,
+      "FW-CC-JJ": 1,
+      "NN-NNP-NN": 2,
+      "NNP-NN-FW": 1,
+      "NN-NN-VBD": 2,
+      "NN-VBD-JJ": 1,
+      "VBD-JJ-NNS": 1,
+      "FW-NNS-NNP": 1,
+      "NNP-IN-NNP": 2,
+      "IN-NNP-NNP": 2,
+      "NNP-NNP-FW": 2,
+      "NNP-FW-FW": 2,
+      "NNP-FW-NNP": 1,
+      "NNS-VBP-NN": 1,
+      "VBP-NN-NN": 1,
+      "NN-VBD-CD": 1,
+      "VBD-CD-NNS": 1,
+      "CD-NNS-FW": 1,
+      "NNS-FW-NNS": 1,
+      "NNS-VBP-IN": 2,
+      "VBP-IN-NN": 1,
+      "IN-NN-NN": 2,
+      "VBP-JJ-FW": 2,
+      "JJ-FW-FW": 4,
+      "NNP-NNP-NN": 1,
+      "NNP-NN-NNS": 1,
+      "JJ-NN-CD": 1,
+      "NN-CD-NNS": 1,
+      "CD-NNS-NNP": 2,
+      "NNS-NNP-NNS": 1,
+      "NNP-NNS-VBP": 1,
+      "VBP-JJ-CD": 1,
+      "JJ-CD-NNS": 1,
+      "CD-NNS-IN": 1,
+      "NNS-IN-NN": 1,
+      "NN-NN-CD": 1,
+      "NN-CD-NN": 1,
+      "CD-NN-NNS": 1,
+      "NN-NNS-CD": 1,
+      "NNS-CD-NNS": 1,
+      "NNS-NNP-NN": 1,
+      "NNP-NN-NN": 2,
+      "NN-NNP-IN": 1,
+      "NNP-NNP-VBZ": 1,
+      "NNP-VBZ-JJ": 1,
+      "VBZ-JJ-FW": 1,
+      "FW-NN-VBP": 1,
+      "NN-VBP-CD": 1,
+      "VBP-CD-NN": 1,
+      "CD-NN-NN": 1,
+      "IN-FW-NNS": 2,
+      "JJ-NN-IN": 1,
+      "NNS-VBP-NNP": 1,
+      "VBP-NNP-JJ": 1,
+      "NNP-JJ-NN": 1,
+      "NN-JJ-FW": 1,
+      "FW-FW-JJR": 1,
+      "FW-JJR-FW": 1,
+      "JJR-FW-NN": 1,
+      "VBP-JJ-JJ": 1,
+      "JJ-JJ-NN": 1,
+      "NN-FW-JJ": 2,
+      "JJ-NNS-NNS": 1,
+      "NNS-NNS-VBP": 1,
+      "VBP-IN-JJ": 1,
+      "IN-JJ-NN": 1,
+      "FW-JJ-NN": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "FW": 75,
+        "NN": 67,
+        "NNP": 38,
+        "NNS": 25,
+        "JJ": 22
+      },
+      "top_bigrams": {
+        "FW-FW": 44,
+        "NN-NN": 34,
+        "NNP-NNP": 20,
+        "NNS-VBP": 15,
+        "JJ-NN": 12
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 29,
+        "NN-NN-NN": 14,
+        "NNP-NNP-NNP": 12,
+        "JJ-NN-NN": 8,
+        "NNS-VBP-JJ": 8
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 9,
+    "chunk_counts": {
+      "NP": 76,
+      "VP": 21,
+      "PP": 6,
+      "ADJP": 1
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 3,
+        "weight": 0.0265
+      },
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0177
+      },
+      {
+        "rule": "VP -> ('se', 'VBP') NP",
+        "frequency": 2,
+        "weight": 0.0177
+      },
+      {
+        "rule": "NP -> ('afectaciones', 'NNS')",
+        "frequency": 2,
+        "weight": 0.0177
+      },
+      {
+        "rule": "S -> NP ('el', 'CC') NP (',', ',') NP ('de', 'IN') ('líneas', 'FW') ('quedaron', 'FW') ('afectados', 'FW') NP ('varias', 'FW') NP (',', ',') ('y', 'CC') NP VP VP (',', ',') NP VP PP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0088
+      },
+      {
+        "rule": "NP -> ('Tras', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0088
+      },
+      {
+        "rule": "NP -> ('paso', 'JJ') ('del', 'NN') ('huracán', 'NN') ('Rafael', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0088
+      },
+      {
+        "rule": "NP -> ('los', 'JJ') ('sistemas', 'NN')",
+        "frequency": 1,
+        "weight": 0.0088
+      },
+      {
+        "rule": "NP -> ('durante', 'NN')",
+        "frequency": 1,
+        "weight": 0.0088
+      },
+      {
+        "rule": "NP -> ('jornadas', 'NN')",
+        "frequency": 1,
+        "weight": 0.0088
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Tras"
+      },
+      {
+        "label": "NP",
+        "text": "paso del huracán Rafael"
+      },
+      {
+        "label": "NP",
+        "text": "los sistemas"
+      },
+      {
+        "label": "NP",
+        "text": "durante"
+      },
+      {
+        "label": "NP",
+        "text": "jornadas"
+      },
+      {
+        "label": "NP",
+        "text": "actualmente aún hay"
+      },
+      {
+        "label": "VP",
+        "text": "hogares e instituciones cubanos"
+      },
+      {
+        "label": "NP",
+        "text": "e instituciones cubanos"
+      },
+      {
+        "label": "VP",
+        "text": "que no poseen electricidad"
+      },
+      {
+        "label": "NP",
+        "text": "no poseen electricidad"
+      },
+      {
+        "label": "NP",
+        "text": "lo cual provoca además afectaciones"
+      },
+      {
+        "label": "VP",
+        "text": "con el abastecimiento"
+      },
+      {
+        "label": "NP",
+        "text": "el abastecimiento"
+      },
+      {
+        "label": "PP",
+        "text": "de agua"
+      },
+      {
+        "label": "NP",
+        "text": "agua"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Tras/NNP)\n  el/CC\n  (NP paso/JJ del/NN huracán/NN Rafael/NNP)\n  ,/,\n  (NP los/JJ sistemas/NN)\n  de/IN\n  líneas/FW\n  quedaron/FW\n  afectados/FW\n  (NP durante/NN)\n  varias/FW\n  (NP jornadas/NN)\n  ,/,\n  y/CC\n  (NP actualmente/JJ aún/NN hay/NN)\n  (VP hogares/VBZ (NP e/JJ instituciones/NNS cubanos/NNS))\n  (VP que/VBP (NP no/DT poseen/JJ electricidad/NN))\n  ,/,\n  (NP lo/JJ cual/JJ provoca/NN además/NN afectaciones/NNS)\n  (VP con/VBP (NP el/JJ abastecimiento/NN))\n  (PP de/IN (NP agua/NN))\n  ./.)",
+      "(S\n  (NP La/NNP)\n  empresa/FW\n  (NP cubana/NN que/NN provee/NN)\n  de/FW\n  servicio/FW\n  (NP a/DT todo/NN el/NN país/NN)\n  ,/,\n  (NP indicó/JJ que/NN la/NN mayor/NN afectación/NN se/NN reportó/NN)\n  (PP en/IN (NP los/JJ municipios/NNS Playa/NNP))\n  ,/,\n  (NP Plaza/NNP de/NNP)\n  la/FW\n  (NP Revolución/NNP)\n  ,/,\n  (NP Cerro/NNP)\n  ,/,\n  (NP La/NNP Lisa/NNP y/NNP Arroyo/NNP Naranjo/NNP)\n  ./.)",
+      "(S\n  (NP Mientras/NNP)\n  ,/,\n  de/FW\n  las/FW\n  doce/FW\n  (VP fuentes/VBZ)\n  de/FW\n  abasto/FW\n  de/FW\n  agua/FW\n  (NP vitales/NNS)\n  (VP en/VBP (NP la/NN ciudad/NN))\n  ,/,\n  en/FW\n  (NP este/NN momento/NN)\n  ,/,\n  seis/FW\n  de/FW\n  ellas/FW\n  ya/CC\n  (NP cuentan/JJ con/NN servicio/NN eléctrico/NN)\n  ./.)",
+      "(S\n  (NP Informó/NNP que/NN)\n  en/FW\n  (NP terreno/NN capitalino/NN actualmente/NN)\n  (VP operan/VBD (NP siete/JJ contingentes/NNS))\n  de/IN\n  otras/FW\n  provincias/FW\n  (NP cubanas/NNS)\n  ,/,\n  (NP Granma/NNP)\n  ,/,\n  (NP Holguín/NNP)\n  ,/,\n  (NP Las/NNP Tunas/NNP)\n  ,/,\n  (NP Santi/NNP Spíritus/NNP)\n  ,/,\n  (NP Camagüey/NNP)\n  ,/,\n  (NP Matanzas/NNP y/NNP Santiago/NNP)\n  (PP de/IN (NP Cuba/NNP))\n  ./.)",
+      "(S\n  (NP En/NNP sesión/NN)\n  de/FW\n  trabajo/FW\n  del/FW\n  (NP Consejo/NNP)\n  de/FW\n  (NP Defensa/NNP Provincial/NNP)\n  en/FW\n  la/FW\n  jornada/FW\n  del/FW\n  sábado/FW\n  9/CD\n  de/FW\n  noviembre/FW\n  ,/,\n  (VP autoridades/VBZ (NP informaron/NN que/NN han/NN sido/NN))\n  (VP abiertas/VBD)\n  72/CD\n  (NP oficinas/NNS)\n  de/FW\n  (NP trámites/NNS)\n  (VP distribuidas/VBP)\n  (PP en/IN (NP todos/NN los/NN municipios/NNS))\n  (VP para/VBP la/JJ)\n  recuperación/FW\n  de/FW\n  las/FW\n  viviendas/FW\n  en/FW\n  la/FW\n  (NP La/NNP Habana/NNP)\n  ,/,\n  (NP y/NN hasta/NN entonces/NNS)\n  (VP se/VBP (NP habían/JJ levantado/NN))\n  857/CD\n  (NP afectaciones/NNS)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "CIUDADES_CAPITALES",
+      "FECHAS_ESPECIFICAS",
+      "RECURSOS_NATURALES",
+      "TIEMPO_RELATIVO",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "REGIONES_PROVINCIAS",
+      "PAISES",
+      "LOCALIZACIONES_ESPECIFICAS",
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "INFRAESTRUCTURA_SERVICIOS",
+      "JURIDICO_LEGISLATIVO_CORRUPCION"
+    ],
+    "matches": [
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "trabajo",
+        "position": [
+          763,
+          770
+        ],
+        "start": 763,
+        "end": 770
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "informó",
+        "position": [
+          566,
+          573
+        ],
+        "start": 566,
+        "end": 573
+      },
+      {
+        "category": "JURIDICO_LEGISLATIVO_CORRUPCION",
+        "matched_text": "defensa",
+        "position": [
+          786,
+          793
+        ],
+        "start": 786,
+        "end": 793
+      },
+      {
+        "category": "RECURSOS_NATURALES",
+        "matched_text": "agua",
+        "position": [
+          243,
+          247
+        ],
+        "start": 243,
+        "end": 247
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "electricidad",
+        "position": [
+          168,
+          180
+        ],
+        "start": 168,
+        "end": 180
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "cuba",
+        "position": [
+          744,
+          748
+        ],
+        "start": 744,
+        "end": 748
+      },
+      {
+        "category": "CIUDADES_CAPITALES",
+        "matched_text": "santiago",
+        "position": [
+          732,
+          740
+        ],
+        "start": 732,
+        "end": 740
+      },
+      {
+        "category": "CIUDADES_CAPITALES",
+        "matched_text": "la habana",
+        "position": [
+          996,
+          1005
+        ],
+        "start": 996,
+        "end": 1005
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "provincia para",
+        "position": [
+          1623,
+          1637
+        ],
+        "start": 1623,
+        "end": 1637
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "plaza de",
+        "position": [
+          373,
+          381
+        ],
+        "start": 373,
+        "end": 381
+      },
+      {
+        "category": "FECHAS_ESPECIFICAS",
+        "matched_text": "sábado 9 de noviembre",
+        "position": [
+          823,
+          844
+        ],
+        "start": 823,
+        "end": 844
+      },
+      {
+        "category": "TIEMPO_RELATIVO",
+        "matched_text": "actualmente",
+        "position": [
+          102,
+          113
+        ],
+        "start": 102,
+        "end": 113
+      }
+    ],
+    "match_count": 12
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Arroyo Naranjo",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Matanzas",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Aguas de La Habana",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Plaza de la Revolución",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Rafael",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Holguín",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Camagüey",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Playa",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "La Lisa",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Las Tunas",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Granma",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Santiago de Cuba",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Cuenca Sur",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Santi Spíritus",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "La Habana",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Consejo de Defensa Provincial",
+        "tipo": "Organizacion"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Consejo de Defensa Provincial",
+        "relacion": "INFORMAR",
+        "objeto": "La Habana"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.0516,
+    "pos": 0.009,
+    "neu": 0.983,
+    "neg": 0.008,
+    "label": "positive"
+  }
+}

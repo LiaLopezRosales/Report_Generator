@@ -1,0 +1,600 @@
+{
+  "url": "https://www.telesurtv.net/mural-libertad-homenaje-secuestrados-cecot/",
+  "title": "Mural por la libertad: Homenaje a secuestrados en el CECOT y a Ashley Hernández en Iribarren - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "Ashley Hernández",
+    "Cecot",
+    "El Salvador",
+    "Iribarren",
+    "libertad",
+    "venezolanos secuestrados",
+    "Venezuela"
+  ],
+  "text": "En un conmovedor acto de solidaridad y expresión artística, la parroquia Unión de la ciudad de Barquisimeto, municipio Iribarren, Venezuela, fue escenario de la creación de un mural dedicado a los 12 venezolanos de esa localidad que se encuentran secuestrados en una megacárcel de seguridad de El Salvador, y a la niña Ashley Hernández, a quien las autoridades de EE.UU. mantienen separadas de sus padres.\n\nLa actividad contó con la participación del candidato a alcalde, Yanys Agüero, y sirvió como un llamado de atención y esperanza frente a las políticas contrarias a la diplomacia de paz que la República Bolivariana de Venezuela promueve en todo el mundo.\n\n\nLa colocación de los nombres en un muro público de la comunidad simboliza el compromiso de sus habitantes con los derechos humanos de todas las personas y el rechazo a la impunidad de las acciones de Estados Unidos.\nLa presencia del candidato Agüero en la iniciativa subraya la importancia que se le da a este tema desde el ámbito político local, así como conecta la demanda ciudadana con la agenda política de la dirigencia del país, que constantemente expone estos hechos en tribunas internacionales.\nEstas acciones artísticas en espacios comunitarios fomentan la unidad en el tejido social y motivan la reflexión sobre situaciones de vulnerabilidad de los derechos humanos. Es una manera de transformar el dolor de todo un país en fuerza colectiva, para clamar por la verdad y la liberación de sus connacionales injustamente retenidos.\n",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/mural-libertad-homenaje-secuestrados-cecot/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-07.json",
+    "message_index": 1388,
+    "message_id": 98878,
+    "date": "2025-07-12T22:55:07+00:00",
+    "text": "teleSUR\nMural por la libertad: Homenaje a secuestrados en el CECOT y a Ashley Hernández en Iribarren\nhttps://www.telesurtv.net/mural-libertad-homenaje-secuestrados-cecot/",
+    "photo_path": null,
+    "views": 1941,
+    "reactions": {
+      "👍": 33,
+      "❤": 7
+    },
+    "total_reactions": 40
+  },
+  "preprocessing": {
+    "cleaned": "en un conmovedor acto de solidaridad y expresión artística, la parroquia unión de la ciudad de barquisimeto, municipio iribarren, venezuela, fue escenario de la creación de un mural dedicado a los 12 venezolanos de esa localidad que se encuentran secuestrados en una megacárcel de seguridad de el salvador, y a la niña ashley hernández, a quien las autoridades de ee.uu. mantienen separadas de sus padres. la actividad contó con la participación del candidato a alcalde, yanys agüero, y sirvió como un llamado de atención y esperanza frente a las políticas contrarias a la diplomacia de paz que la república bolivariana de venezuela promueve en todo el mundo. la colocación de los nombres en un muro público de la comunidad simboliza el compromiso de sus habitantes con los derechos humanos de todas las personas y el rechazo a la impunidad de las acciones de estados unidos. la presencia del candidato agüero en la iniciativa subraya la importancia que se le da a este tema desde el ámbito político local, así como conecta la demanda ciudadana con la agenda política de la dirigencia del país, que constantemente expone estos hechos en tribunas internacionales. estas acciones artísticas en espacios comunitarios fomentan la unidad en el tejido social y motivan la reflexión sobre situaciones de vulnerabilidad de los derechos humanos. es una manera de transformar el dolor de todo un país en fuerza colectiva, para clamar por la verdad y la liberación de sus connacionales injustamente retenidos.",
+    "tokens": [
+      "conmovedor",
+      "acto",
+      "solidaridad",
+      "expresión",
+      "artística",
+      ",",
+      "parroquia",
+      "unión",
+      "ciudad",
+      "barquisimeto",
+      ",",
+      "municipio",
+      "iribarren",
+      ",",
+      "venezuela",
+      ",",
+      "escenario",
+      "creación",
+      "mural",
+      "dedicado",
+      "12",
+      "venezolanos",
+      "localidad",
+      "encuentran",
+      "secuestrados",
+      "megacárcel",
+      "seguridad",
+      "salvador",
+      ",",
+      "niña",
+      "ashley",
+      "hernández",
+      ",",
+      "autoridades",
+      "ee.uu.",
+      "mantienen",
+      "separadas",
+      "padres",
+      ".",
+      "actividad",
+      "contó",
+      "participación",
+      "candidato",
+      "alcalde",
+      ",",
+      "yanys",
+      "agüero",
+      ",",
+      "sirvió",
+      "llamado",
+      "atención",
+      "esperanza",
+      "frente",
+      "políticas",
+      "contrarias",
+      "diplomacia",
+      "paz",
+      "república",
+      "bolivariana",
+      "venezuela",
+      "promueve",
+      "mundo",
+      ".",
+      "colocación",
+      "nombres",
+      "muro",
+      "público",
+      "comunidad",
+      "simboliza",
+      "compromiso",
+      "habitantes",
+      "derechos",
+      "humanos",
+      "todas",
+      "personas",
+      "rechazo",
+      "impunidad",
+      "acciones",
+      "unidos",
+      ".",
+      "presencia",
+      "candidato",
+      "agüero",
+      "iniciativa",
+      "subraya",
+      "importancia",
+      "da",
+      "tema",
+      "ámbito",
+      "político",
+      "local",
+      ",",
+      "así",
+      "conecta",
+      "demanda",
+      "ciudadana",
+      "agenda",
+      "política",
+      "dirigencia",
+      "país",
+      ",",
+      "constantemente",
+      "expone",
+      "hechos",
+      "tribunas",
+      "internacionales",
+      ".",
+      "acciones",
+      "artísticas",
+      "espacios",
+      "comunitarios",
+      "fomentan",
+      "unidad",
+      "tejido",
+      "social",
+      "motivan",
+      "reflexión",
+      "situaciones",
+      "vulnerabilidad",
+      "derechos",
+      "humanos",
+      ".",
+      "manera",
+      "transformar",
+      "dolor",
+      "país",
+      "fuerza",
+      "colectiva",
+      ",",
+      "clamar",
+      "verdad",
+      "liberación",
+      "connacionales",
+      "injustamente",
+      "retenidos",
+      "."
+    ],
+    "token_count": 136,
+    "sentence_count": 6
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 25,
+      "JJ": 21,
+      "NN": 57,
+      "IN": 16,
+      "FW": 80,
+      "VBD": 2,
+      "CD": 1,
+      "NNS": 13,
+      "VBP": 9,
+      "VBZ": 3,
+      "RB": 1
+    },
+    "bigram_freq": {
+      "NNP-JJ": 2,
+      "JJ-NN": 14,
+      "NN-NN": 30,
+      "NN-IN": 11,
+      "IN-FW": 11,
+      "FW-FW": 54,
+      "FW-NNP": 6,
+      "NNP-FW": 6,
+      "NNP-NNP": 8,
+      "NNP-VBD": 1,
+      "VBD-FW": 1,
+      "FW-JJ": 5,
+      "NN-VBD": 1,
+      "VBD-CD": 1,
+      "CD-NNS": 1,
+      "NNS-IN": 4,
+      "NNP-NN": 3,
+      "NN-NNS": 1,
+      "IN-IN": 1,
+      "IN-NNP": 2,
+      "FW-NNS": 5,
+      "NNS-NNP": 3,
+      "NNP-VBP": 2,
+      "VBP-JJ": 6,
+      "NN-FW": 4,
+      "FW-NN": 8,
+      "NN-NNP": 5,
+      "NN-JJ": 4,
+      "JJ-NNS": 5,
+      "NNS-VBP": 5,
+      "JJ-FW": 2,
+      "VBP-FW": 1,
+      "FW-VBZ": 1,
+      "VBZ-JJ": 2,
+      "NNP-VBZ": 2,
+      "VBZ-FW": 1,
+      "IN-JJ": 2,
+      "NNP-NNS": 1,
+      "NNS-RB": 1,
+      "RB-VBP": 1,
+      "VBP-NN": 2,
+      "FW-VBP": 1
+    },
+    "trigram_freq": {
+      "NNP-JJ-NN": 2,
+      "JJ-NN-NN": 7,
+      "NN-NN-IN": 4,
+      "NN-IN-FW": 9,
+      "IN-FW-FW": 8,
+      "FW-FW-FW": 37,
+      "FW-FW-NNP": 3,
+      "FW-NNP-FW": 2,
+      "NNP-FW-FW": 2,
+      "NNP-FW-NNP": 3,
+      "FW-NNP-NNP": 3,
+      "NNP-NNP-VBD": 1,
+      "NNP-VBD-FW": 1,
+      "VBD-FW-FW": 1,
+      "FW-FW-JJ": 4,
+      "FW-JJ-NN": 3,
+      "JJ-NN-VBD": 1,
+      "NN-VBD-CD": 1,
+      "VBD-CD-NNS": 1,
+      "CD-NNS-IN": 1,
+      "NNS-IN-FW": 2,
+      "JJ-NN-IN": 5,
+      "NNP-NNP-NNP": 2,
+      "NNP-NNP-FW": 3,
+      "NNP-NNP-NN": 2,
+      "NNP-NN-NNS": 1,
+      "NN-NNS-IN": 1,
+      "NNS-IN-IN": 1,
+      "IN-IN-NNP": 1,
+      "IN-NNP-FW": 1,
+      "FW-FW-NNS": 3,
+      "FW-NNS-NNP": 1,
+      "NNS-NNP-VBP": 1,
+      "NNP-VBP-JJ": 1,
+      "VBP-JJ-NN": 4,
+      "NN-NN-FW": 3,
+      "NN-FW-FW": 3,
+      "FW-FW-NN": 5,
+      "FW-NN-NN": 5,
+      "NN-NN-NNP": 4,
+      "NN-NNP-NNP": 2,
+      "NNP-NN-NN": 1,
+      "NN-NN-JJ": 2,
+      "NN-JJ-NN": 2,
+      "FW-JJ-NNS": 2,
+      "JJ-NNS-VBP": 2,
+      "NNS-VBP-JJ": 3,
+      "VBP-JJ-FW": 1,
+      "JJ-FW-FW": 2,
+      "FW-NNP-VBP": 1,
+      "NNP-VBP-FW": 1,
+      "VBP-FW-NN": 1,
+      "FW-NN-FW": 1,
+      "NN-FW-NN": 1,
+      "FW-NN-NNP": 1,
+      "NN-NNP-NN": 1,
+      "NNP-NN-IN": 1,
+      "IN-FW-NNS": 2,
+      "FW-NNS-VBP": 3,
+      "FW-FW-VBZ": 1,
+      "FW-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 2,
+      "JJ-NN-JJ": 1,
+      "FW-NNS-IN": 1,
+      "NNS-IN-NNP": 1,
+      "IN-NNP-NNP": 1,
+      "NNP-FW-NN": 1,
+      "NN-NNP-VBZ": 2,
+      "NNP-VBZ-FW": 1,
+      "VBZ-FW-FW": 1,
+      "NN-NN-NN": 17,
+      "NNP-VBZ-JJ": 1,
+      "NN-IN-JJ": 2,
+      "IN-JJ-NNS": 1,
+      "JJ-NNS-NNP": 2,
+      "NNS-NNP-NNS": 1,
+      "NNP-NNS-RB": 1,
+      "NNS-RB-VBP": 1,
+      "RB-VBP-JJ": 1,
+      "VBP-JJ-NNS": 1,
+      "NNS-VBP-NN": 2,
+      "VBP-NN-JJ": 1,
+      "NN-JJ-FW": 1,
+      "FW-FW-VBP": 1,
+      "FW-VBP-JJ": 1,
+      "NN-JJ-NNS": 1,
+      "JJ-NNS-IN": 1,
+      "NNS-NNP-JJ": 1,
+      "FW-NN-IN": 1,
+      "IN-FW-JJ": 1,
+      "IN-JJ-NN": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "FW": 80,
+        "NN": 57,
+        "NNP": 25,
+        "JJ": 21,
+        "IN": 16
+      },
+      "top_bigrams": {
+        "FW-FW": 54,
+        "NN-NN": 30,
+        "JJ-NN": 14,
+        "NN-IN": 11,
+        "IN-FW": 11
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 37,
+        "NN-NN-NN": 17,
+        "NN-IN-FW": 9,
+        "IN-FW-FW": 8,
+        "JJ-NN-NN": 7
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 6,
+    "chunk_counts": {
+      "NP": 63,
+      "VP": 16,
+      "PP": 4,
+      "ADJP": 1
+    },
+    "top_rules": [
+      {
+        "rule": "NP -> ('Venezuela', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0222
+      },
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0222
+      },
+      {
+        "rule": "NP -> ('La', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0222
+      },
+      {
+        "rule": "VP -> ('en', 'VBP') NP",
+        "frequency": 2,
+        "weight": 0.0222
+      },
+      {
+        "rule": "NP -> ('derechos', 'JJ') ('humanos', 'NN')",
+        "frequency": 2,
+        "weight": 0.0222
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0222
+      },
+      {
+        "rule": "S -> NP NP ('de', 'IN') ('solidaridad', 'FW') ('y', 'FW') ('expresión', 'FW') NP (',', ',') ('la', 'FW') ('parroquia', 'FW') NP ('de', 'FW') ('la', 'FW') ('ciudad', 'FW') ('de', 'FW') NP (',', ',') NP (',', ',') NP (',', ',') NP ('de', 'IN') ('la', 'FW') ('creación', 'FW') ('de', 'FW') ('un', 'FW') NP NP ('12', 'CD') NP ('de', 'FW') ('esa', 'FW') ('localidad', 'FW') ('que', 'FW') ('se', 'FW') ('encuentran', 'FW') ('secuestrados', 'FW') ('en', 'FW') NP ('de', 'IN') ('seguridad', 'FW') ('de', 'FW') NP (',', ',') VP (',', ',') NP PP ('mantienen', 'FW') ('separadas', 'FW') ('de', 'FW') ('sus', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0111
+      },
+      {
+        "rule": "NP -> ('En', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0111
+      },
+      {
+        "rule": "NP -> ('un', 'JJ') ('conmovedor', 'NN') ('acto', 'NN')",
+        "frequency": 1,
+        "weight": 0.0111
+      },
+      {
+        "rule": "NP -> ('artística', 'NN')",
+        "frequency": 1,
+        "weight": 0.0111
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "En"
+      },
+      {
+        "label": "NP",
+        "text": "un conmovedor acto"
+      },
+      {
+        "label": "NP",
+        "text": "artística"
+      },
+      {
+        "label": "NP",
+        "text": "Unión"
+      },
+      {
+        "label": "NP",
+        "text": "Barquisimeto"
+      },
+      {
+        "label": "NP",
+        "text": "municipio Iribarren"
+      },
+      {
+        "label": "NP",
+        "text": "Venezuela"
+      },
+      {
+        "label": "NP",
+        "text": "fue escenario"
+      },
+      {
+        "label": "NP",
+        "text": "mural dedicado"
+      },
+      {
+        "label": "NP",
+        "text": "a los"
+      },
+      {
+        "label": "NP",
+        "text": "venezolanos"
+      },
+      {
+        "label": "NP",
+        "text": "una megacárcel"
+      },
+      {
+        "label": "NP",
+        "text": "El Salvador"
+      },
+      {
+        "label": "VP",
+        "text": "y a la niña Ashley Hernández"
+      },
+      {
+        "label": "NP",
+        "text": "a la"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP En/NNP)\n  (NP un/JJ conmovedor/NN acto/NN)\n  de/IN\n  solidaridad/FW\n  y/FW\n  expresión/FW\n  (NP artística/NN)\n  ,/,\n  la/FW\n  parroquia/FW\n  (NP Unión/NNP)\n  de/FW\n  la/FW\n  ciudad/FW\n  de/FW\n  (NP Barquisimeto/NNP)\n  ,/,\n  (NP municipio/NN Iribarren/NNP)\n  ,/,\n  (NP Venezuela/NNP)\n  ,/,\n  (NP fue/JJ escenario/NN)\n  de/IN\n  la/FW\n  creación/FW\n  de/FW\n  un/FW\n  (NP mural/JJ dedicado/NN)\n  (NP a/DT los/NN)\n  12/CD\n  (NP venezolanos/NN)\n  de/FW\n  esa/FW\n  localidad/FW\n  que/FW\n  se/FW\n  encuentran/FW\n  secuestrados/FW\n  en/FW\n  (NP una/JJ megacárcel/NN)\n  de/IN\n  seguridad/FW\n  de/FW\n  (NP El/NNP Salvador/NNP)\n  ,/,\n  (VP y/VBZ (NP a/DT la/NN) (NP niña/JJ Ashley/NNP Hernández/NNP))\n  ,/,\n  (NP a/DT quien/JJ las/NN autoridades/NNS)\n  (PP de/IN (NP EE.UU./NNP))\n  mantienen/FW\n  separadas/FW\n  de/FW\n  sus/FW\n  (NP padres/NNS)\n  ./.)",
+      "(S\n  (NP La/NNP)\n  (VP actividad/VBZ (NP contó/JJ con/NN la/NN))\n  participación/FW\n  del/FW\n  (NP candidato/NN)\n  (NP a/DT alcalde/NN)\n  ,/,\n  (NP Yanys/NNP Agüero/NNP)\n  ,/,\n  (NP y/NNP)\n  (VP sirvió/VBD (NP como/JJ un/JJ llamado/NN))\n  de/IN\n  atención/FW\n  y/FW\n  esperanza/FW\n  (VP frente/VBP (NP a/DT las/JJ políticas/NN))\n  (VP contrarias/VBD (NP a/DT la/NN diplomacia/NN))\n  de/IN\n  paz/FW\n  (NP que/JJ la/NN República/NNP Bolivariana/NNP)\n  de/FW\n  (NP Venezuela/NNP)\n  (VP promueve/VBP)\n  en/FW\n  (NP todo/NN)\n  el/FW\n  (NP mundo/NN)\n  ./.)",
+      "(S\n  (NP La/NNP colocación/NN)\n  de/IN\n  los/FW\n  (NP nombres/NNS)\n  (VP en/VBP (NP un/JJ muro/NN público/NN))\n  de/IN\n  la/FW\n  comunidad/FW\n  simboliza/FW\n  el/FW\n  compromiso/FW\n  de/FW\n  sus/FW\n  (VP habitantes/VBZ (NP con/JJ los/NN) (NP derechos/JJ humanos/NN))\n  de/IN\n  todas/FW\n  (NP las/NNS)\n  (VP personas/VBP (NP y/JJ el/NN))\n  (VP rechazo/VBZ (NP a/DT la/NN impunidad/NN))\n  de/IN\n  las/FW\n  (NP acciones/NNS)\n  (PP de/IN (NP Estados/NNP Unidos/NNP))\n  ./.)",
+      "(S\n  (NP La/NNP)\n  (VP presencia/VBZ)\n  del/FW\n  (NP candidato/NN Agüero/NNP)\n  (VP en/VBZ)\n  la/FW\n  iniciativa/FW\n  subraya/FW\n  la/FW\n  importancia/FW\n  que/FW\n  se/FW\n  le/FW\n  da/FW\n  (NP a/DT este/NN tema/NN desde/NN el/NN ámbito/NNP político/NN)\n  (ADJP local/JJ)\n  ,/,\n  (NP\n    así/JJ\n    como/NN\n    conecta/NN\n    la/NN\n    demanda/NN\n    ciudadana/NN\n    con/NN\n    la/NN\n    agenda/NN\n    política/NN)\n  de/IN\n  la/FW\n  dirigencia/FW\n  del/FW\n  (NP país/NN)\n  ,/,\n  (NP que/JJ constantemente/NN expone/NN estos/NN hechos/NN)\n  (PP en/IN (NP tribunas/JJ internacionales/NNS))\n  ./.)",
+      "(S\n  (NP Estas/NNP acciones/NNS)\n  artísticas/RB\n  (VP en/VBP (NP espacios/JJ comunitarios/NNS))\n  (VP fomentan/VBP (NP la/NN) unidad/JJ)\n  en/FW\n  el/FW\n  (VP\n    tejido/VBP\n    (NP social/JJ y/NN motivan/NN la/NN reflexión/NN)\n    (NP sobre/JJ situaciones/NNS))\n  de/IN\n  vulnerabilidad/FW\n  de/FW\n  los/FW\n  (NP derechos/JJ humanos/NN)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "JUSTICIA_SOCIAL",
+      "PAISES",
+      "RELACIONES_INTERNACIONALES"
+    ],
+    "matches": [
+      {
+        "category": "RELACIONES_INTERNACIONALES",
+        "matched_text": "rechazo a la impunidad de las acciones",
+        "position": [
+          821,
+          859
+        ],
+        "start": 821,
+        "end": 859
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "el salvador",
+        "position": [
+          294,
+          305
+        ],
+        "start": 294,
+        "end": 305
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "venezuela",
+        "position": [
+          130,
+          139
+        ],
+        "start": 130,
+        "end": 139
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "estados unidos",
+        "position": [
+          863,
+          877
+        ],
+        "start": 863,
+        "end": 877
+      },
+      {
+        "category": "JUSTICIA_SOCIAL",
+        "matched_text": "derechos humanos",
+        "position": [
+          777,
+          793
+        ],
+        "start": 777,
+        "end": 793
+      }
+    ],
+    "match_count": 5
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "EE.UU.",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Venezuela",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Agüero",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Yanys Agüero",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Iribarren",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Ashley Hernández",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Estados Unidos",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Barquisimeto",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "El Salvador",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Unión",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "República Bolivariana de Venezuela",
+        "tipo": "Organizacion"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "República Bolivariana de Venezuela",
+        "relacion": "CONTAR",
+        "objeto": "Yanys Agüero"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.0,
+    "pos": 0.0,
+    "neu": 1.0,
+    "neg": 0.0,
+    "label": "neutral"
+  }
+}

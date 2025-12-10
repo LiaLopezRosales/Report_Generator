@@ -1,0 +1,765 @@
+{
+  "url": "https://www.telesurtv.net/israel-asesina-a-cuatro-palestinos-en-cisjordania-en-las-ultimas-horas/",
+  "title": "Israel asesina a cuatro palestinos en Cisjordania en las últimas horas - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Cisjordania",
+    "Fuerzas israelíes",
+    "Qabatiya"
+  ],
+  "text": "En medio de la campaña militar de Israel contra el territorio palestino de Cisjordania, al menos cuatro civiles palestinos fallecieron el martes a causa de fuego israelí.\nLEA TAMBÍEN:\nIsrael deja inutilizable oficina de Unrwa en Cisjordania\nEl Ministerio de Sanidad de la Autoridad Nacional Palestina (ANP), indicó que dos de los fallecidos fueron atacados por un dron israelí en la zona de Qabatiya, a pocos kilómetros al sur de Jenin, en el norte de Cisjordania.\nLa agencia oficial de noticias palestina, Wafa, informó que uno de los muertos resultó ser un hombre de unos 40 años que fue alcanzado por metralla tras la explosión del dron. El otro fallecido no fue identificado.\nWafa detalló además que las fuerzas israelíes mantienen desde hace más de ocho horas una incursión militar en la localidad de Qabatiya.\nMientras, en la localidad de Tamoun, ubicada en la región cisjordana de Tubas, al menos dos palestinos murieron en una redada israelí.\nEl cuerpo de uno de los muertos está siendo retenido por las fuerzas israelíes, por lo que todavía no ha podido ser identificado, denunció el Ministerio de Sanidad de la ANP.\nSegún medios palestinos, las fuerzas israelíes comenzaron en horas de la noche del lunes una redada en Tamoun y en el cercano campamento de refugiados de Far’a.\nA lo largo del 2024 alrededor de 428 palestinos han muerto en el territorio de Cisjordania por fuego israelí.\nEl Ejército israelí ha intensificado sus incursiones en Cisjordania tras los ataques del movimiento de resistencia palestina Hamás.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/israel-asesina-a-cuatro-palestinos-en-cisjordania-en-las-ultimas-horas/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-11.json",
+    "message_index": 1541,
+    "message_id": 79852,
+    "date": "2024-11-05T09:55:12+00:00",
+    "text": "teleSUR\nIsrael asesina a cuatro palestinos en Cisjordania en las últimas horas\nhttps://www.telesurtv.net/israel-asesina-a-cuatro-palestinos-en-cisjordania-en-las-ultimas-horas/",
+    "photo_path": null,
+    "views": 3076,
+    "reactions": {
+      "🤬": 44,
+      "💩": 9,
+      "👍": 4,
+      "🔥": 2,
+      "👎": 1
+    },
+    "total_reactions": 60
+  },
+  "preprocessing": {
+    "cleaned": "en medio de la campaña militar de israel contra el territorio palestino de cisjordania, al menos cuatro civiles palestinos fallecieron el martes a causa de fuego israelí. lea tambíen: israel deja inutilizable oficina de unrwa en cisjordania el ministerio de sanidad de la autoridad nacional palestina (anp), indicó que dos de los fallecidos fueron atacados por un dron israelí en la zona de qabatiya, a pocos kilómetros al sur de jenin, en el norte de cisjordania. la agencia oficial de noticias palestina, wafa, informó que uno de los muertos resultó ser un hombre de unos 40 años que fue alcanzado por metralla tras la explosión del dron. el otro fallecido no fue identificado. wafa detalló además que las fuerzas israelíes mantienen desde hace más de ocho horas una incursión militar en la localidad de qabatiya. mientras, en la localidad de tamoun, ubicada en la región cisjordana de tubas, al menos dos palestinos murieron en una redada israelí. el cuerpo de uno de los muertos está siendo retenido por las fuerzas israelíes, por lo que todavía no ha podido ser identificado, denunció el ministerio de sanidad de la anp. según medios palestinos, las fuerzas israelíes comenzaron en horas de la noche del lunes una redada en tamoun y en el cercano campamento de refugiados de far’a. a lo largo del 2024 alrededor de 428 palestinos han muerto en el territorio de cisjordania por fuego israelí. el ejército israelí ha intensificado sus incursiones en cisjordania tras los ataques del movimiento de resistencia palestina hamás.",
+    "tokens": [
+      "medio",
+      "campaña",
+      "militar",
+      "israel",
+      "territorio",
+      "palestino",
+      "cisjordania",
+      ",",
+      "menos",
+      "cuatro",
+      "civiles",
+      "palestinos",
+      "fallecieron",
+      "martes",
+      "causa",
+      "fuego",
+      "israelí",
+      ".",
+      "lea",
+      "tambíen",
+      ":",
+      "israel",
+      "deja",
+      "inutilizable",
+      "oficina",
+      "unrwa",
+      "cisjordania",
+      "ministerio",
+      "sanidad",
+      "autoridad",
+      "nacional",
+      "palestina",
+      "(",
+      "anp",
+      ")",
+      ",",
+      "indicó",
+      "dos",
+      "fallecidos",
+      "atacados",
+      "dron",
+      "israelí",
+      "zona",
+      "qabatiya",
+      ",",
+      "pocos",
+      "kilómetros",
+      "sur",
+      "jenin",
+      ",",
+      "norte",
+      "cisjordania",
+      ".",
+      "agencia",
+      "oficial",
+      "noticias",
+      "palestina",
+      ",",
+      "wafa",
+      ",",
+      "informó",
+      "muertos",
+      "resultó",
+      "ser",
+      "hombre",
+      "40",
+      "años",
+      "alcanzado",
+      "metralla",
+      "tras",
+      "explosión",
+      "dron",
+      ".",
+      "fallecido",
+      "identificado",
+      ".",
+      "wafa",
+      "detalló",
+      "además",
+      "fuerzas",
+      "israelíes",
+      "mantienen",
+      "hace",
+      "ocho",
+      "horas",
+      "incursión",
+      "militar",
+      "localidad",
+      "qabatiya",
+      ".",
+      "mientras",
+      ",",
+      "localidad",
+      "tamoun",
+      ",",
+      "ubicada",
+      "región",
+      "cisjordana",
+      "tubas",
+      ",",
+      "menos",
+      "dos",
+      "palestinos",
+      "murieron",
+      "redada",
+      "israelí",
+      ".",
+      "cuerpo",
+      "muertos",
+      "siendo",
+      "retenido",
+      "fuerzas",
+      "israelíes",
+      ",",
+      "todavía",
+      "podido",
+      "ser",
+      "identificado",
+      ",",
+      "denunció",
+      "ministerio",
+      "sanidad",
+      "anp",
+      ".",
+      "según",
+      "medios",
+      "palestinos",
+      ",",
+      "fuerzas",
+      "israelíes",
+      "comenzaron",
+      "horas",
+      "noche",
+      "lunes",
+      "redada",
+      "tamoun",
+      "cercano",
+      "campamento",
+      "refugiados",
+      "far",
+      "’",
+      ".",
+      "largo",
+      "2024",
+      "alrededor",
+      "428",
+      "palestinos",
+      "muerto",
+      "territorio",
+      "cisjordania",
+      "fuego",
+      "israelí",
+      ".",
+      "ejército",
+      "israelí",
+      "intensificado",
+      "incursiones",
+      "cisjordania",
+      "tras",
+      "ataques",
+      "movimiento",
+      "resistencia",
+      "palestina",
+      "hamás",
+      "."
+    ],
+    "token_count": 165,
+    "sentence_count": 10
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 39,
+      "NN": 67,
+      "FW": 63,
+      "IN": 14,
+      "VBP": 14,
+      "NNS": 16,
+      "VBZ": 5,
+      "JJ": 21,
+      "JJR": 2,
+      "CD": 3,
+      "DT": 2,
+      "CC": 2
+    },
+    "bigram_freq": {
+      "NNP-NN": 10,
+      "NN-FW": 7,
+      "FW-FW": 41,
+      "FW-NNP": 14,
+      "NN-NN": 34,
+      "NN-IN": 9,
+      "IN-NNP": 6,
+      "NNP-VBP": 1,
+      "VBP-NNS": 3,
+      "NNS-VBP": 11,
+      "VBP-NN": 2,
+      "NN-VBZ": 4,
+      "VBZ-VBP": 1,
+      "VBP-IN": 1,
+      "IN-FW": 5,
+      "FW-JJ": 2,
+      "JJ-NNP": 1,
+      "NNP-NNP": 12,
+      "NN-JJ": 2,
+      "JJ-NN": 14,
+      "NNP-FW": 7,
+      "NNP-IN": 2,
+      "NN-NNS": 6,
+      "NNP-JJ": 1,
+      "JJ-JJ": 3,
+      "JJ-FW": 1,
+      "FW-NNS": 4,
+      "VBP-JJR": 1,
+      "JJR-JJ": 2,
+      "IN-JJ": 1,
+      "JJ-CD": 1,
+      "CD-NN": 2,
+      "VBP-JJ": 6,
+      "NN-NNP": 4,
+      "NNP-VBZ": 1,
+      "VBZ-DT": 2,
+      "DT-NN": 2,
+      "VBZ-NNP": 1,
+      "NNS-JJ": 2,
+      "NNP-CC": 2,
+      "CC-JJ": 2,
+      "VBZ-JJR": 1,
+      "NNP-NNS": 2,
+      "NNS-IN": 2,
+      "IN-NN": 1,
+      "FW-NN": 2,
+      "NN-CD": 1,
+      "IN-CD": 1,
+      "CD-NNS": 1,
+      "JJ-VBP": 1,
+      "VBP-FW": 1,
+      "NNS-FW": 1
+    },
+    "trigram_freq": {
+      "NNP-NN-FW": 2,
+      "NN-FW-FW": 5,
+      "FW-FW-FW": 25,
+      "FW-FW-NNP": 11,
+      "FW-NNP-NN": 3,
+      "NNP-NN-NN": 6,
+      "NN-NN-NN": 16,
+      "NN-NN-IN": 4,
+      "NN-IN-NNP": 3,
+      "IN-NNP-VBP": 1,
+      "NNP-VBP-NNS": 1,
+      "VBP-NNS-VBP": 2,
+      "NNS-VBP-NNS": 2,
+      "NNS-VBP-NN": 2,
+      "VBP-NN-NN": 1,
+      "NN-NN-VBZ": 2,
+      "NN-VBZ-VBP": 1,
+      "VBZ-VBP-IN": 1,
+      "VBP-IN-FW": 1,
+      "IN-FW-JJ": 2,
+      "FW-JJ-NNP": 1,
+      "JJ-NNP-NNP": 1,
+      "NNP-NNP-NNP": 4,
+      "NNP-NNP-NN": 3,
+      "NNP-NN-JJ": 1,
+      "NN-JJ-NN": 2,
+      "JJ-NN-IN": 3,
+      "IN-NNP-FW": 3,
+      "NNP-FW-NNP": 1,
+      "FW-NNP-NNP": 5,
+      "NNP-NNP-IN": 1,
+      "NNP-IN-NNP": 2,
+      "NNP-FW-FW": 6,
+      "NN-IN-FW": 4,
+      "FW-JJ-NN": 1,
+      "JJ-NN-NN": 9,
+      "NN-NN-JJ": 1,
+      "IN-FW-FW": 2,
+      "NNP-NN-NNS": 1,
+      "NN-NNS-VBP": 5,
+      "VBP-NN-FW": 1,
+      "NN-FW-NNP": 2,
+      "FW-NNP-FW": 3,
+      "NNP-NNP-JJ": 1,
+      "NNP-JJ-JJ": 1,
+      "JJ-JJ-FW": 1,
+      "JJ-FW-FW": 1,
+      "NN-NN-FW": 3,
+      "FW-FW-NNS": 3,
+      "FW-NNS-VBP": 2,
+      "NNS-VBP-JJR": 1,
+      "VBP-JJR-JJ": 1,
+      "JJR-JJ-NN": 2,
+      "NN-IN-JJ": 1,
+      "IN-JJ-CD": 1,
+      "JJ-CD-NN": 1,
+      "CD-NN-NN": 1,
+      "NN-NN-NNS": 4,
+      "NNS-VBP-JJ": 6,
+      "VBP-JJ-NN": 5,
+      "NN-NN-NNP": 4,
+      "NN-NNP-NNP": 2,
+      "NNP-NNP-VBZ": 1,
+      "NNP-VBZ-DT": 1,
+      "VBZ-DT-NN": 2,
+      "DT-NN-VBZ": 2,
+      "NN-VBZ-NNP": 1,
+      "VBZ-NNP-NN": 1,
+      "IN-FW-NNS": 1,
+      "FW-NNS-JJ": 1,
+      "NNS-JJ-JJ": 1,
+      "JJ-JJ-NN": 2,
+      "NNP-NNP-FW": 1,
+      "FW-NNP-CC": 2,
+      "NNP-CC-JJ": 2,
+      "CC-JJ-NN": 2,
+      "JJ-NN-NNS": 1,
+      "VBP-JJ-JJ": 1,
+      "NN-NNP-NN": 1,
+      "NN-VBZ-DT": 1,
+      "NN-VBZ-JJR": 1,
+      "VBZ-JJR-JJ": 1,
+      "NN-NNP-IN": 1,
+      "NNP-NNP-NNS": 1,
+      "NNP-NNS-VBP": 2,
+      "FW-NNS-IN": 1,
+      "NNS-IN-NN": 1,
+      "IN-NN-FW": 1,
+      "FW-FW-NN": 2,
+      "FW-NN-NN": 1,
+      "JJ-NN-CD": 1,
+      "NN-CD-NN": 1,
+      "CD-NN-IN": 1,
+      "NN-IN-CD": 1,
+      "IN-CD-NNS": 1,
+      "CD-NNS-JJ": 1,
+      "NNS-JJ-VBP": 1,
+      "JJ-VBP-FW": 1,
+      "VBP-FW-FW": 1,
+      "FW-NN-IN": 1,
+      "IN-NNP-NN": 1,
+      "NN-NNS-IN": 1,
+      "NNS-IN-NNP": 1,
+      "IN-NNP-NNS": 1,
+      "VBP-NNS-FW": 1,
+      "NNS-FW-FW": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 67,
+        "FW": 63,
+        "NNP": 39,
+        "JJ": 21,
+        "NNS": 16
+      },
+      "top_bigrams": {
+        "FW-FW": 41,
+        "NN-NN": 34,
+        "FW-NNP": 14,
+        "JJ-NN": 14,
+        "NNP-NNP": 12
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 25,
+        "NN-NN-NN": 16,
+        "FW-FW-NNP": 11,
+        "JJ-NN-NN": 9,
+        "NNP-NN-NN": 6
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 10,
+    "chunk_counts": {
+      "NP": 69,
+      "PP": 7,
+      "ADJP": 6,
+      "VP": 16
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 5,
+        "weight": 0.0463
+      },
+      {
+        "rule": "NP -> ('Cisjordania', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0185
+      },
+      {
+        "rule": "NP -> ('Sanidad', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0185
+      },
+      {
+        "rule": "NP -> ('ANP', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0185
+      },
+      {
+        "rule": "NP -> ('Qabatiya', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0185
+      },
+      {
+        "rule": "NP -> ('muertos', 'NNS')",
+        "frequency": 2,
+        "weight": 0.0185
+      },
+      {
+        "rule": "VP -> ('fuerzas', 'VBP') NP",
+        "frequency": 2,
+        "weight": 0.0185
+      },
+      {
+        "rule": "NP -> ('Tamoun', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0185
+      },
+      {
+        "rule": "S -> NP ('de', 'FW') ('la', 'FW') ('campaña', 'FW') ('militar', 'FW') ('de', 'FW') NP PP (',', ',') ADJP ('menos', 'FW') NP VP VP ('de', 'IN') ('fuego', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0093
+      },
+      {
+        "rule": "NP -> ('En', 'NNP') ('medio', 'NN')",
+        "frequency": 1,
+        "weight": 0.0093
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "En medio"
+      },
+      {
+        "label": "NP",
+        "text": "Israel contra el territorio palestino"
+      },
+      {
+        "label": "PP",
+        "text": "de Cisjordania"
+      },
+      {
+        "label": "NP",
+        "text": "Cisjordania"
+      },
+      {
+        "label": "ADJP",
+        "text": "al"
+      },
+      {
+        "label": "NP",
+        "text": "cuatro civiles"
+      },
+      {
+        "label": "VP",
+        "text": "palestinos fallecieron el"
+      },
+      {
+        "label": "NP",
+        "text": "fallecieron el"
+      },
+      {
+        "label": "VP",
+        "text": "martes a causa"
+      },
+      {
+        "label": "NP",
+        "text": "a causa"
+      },
+      {
+        "label": "NP",
+        "text": "israelí"
+      },
+      {
+        "label": "NP",
+        "text": "LEA TAMBÍEN"
+      },
+      {
+        "label": "NP",
+        "text": "Israel deja"
+      },
+      {
+        "label": "NP",
+        "text": "inutilizable oficina"
+      },
+      {
+        "label": "PP",
+        "text": "de Unrwa"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP En/NNP medio/NN)\n  de/FW\n  la/FW\n  campaña/FW\n  militar/FW\n  de/FW\n  (NP Israel/NNP contra/NN el/NN territorio/NN palestino/NN)\n  (PP de/IN (NP Cisjordania/NNP))\n  ,/,\n  (ADJP al/JJ)\n  menos/FW\n  (NP cuatro/NN civiles/NNS)\n  (VP palestinos/VBP (NP fallecieron/NN el/NN))\n  (VP martes/VBZ (NP a/DT causa/NN))\n  de/IN\n  fuego/FW\n  (NP israelí/NN)\n  ./.)",
+      "(S\n  (NP LEA/NNP TAMBÍEN/NNP)\n  :/:\n  (NP Israel/NNP deja/NN)\n  (NP inutilizable/JJ oficina/NN)\n  (PP de/IN (NP Unrwa/NNP))\n  en/FW\n  (NP Cisjordania/NNP El/NNP Ministerio/NNP)\n  (PP de/IN (NP Sanidad/NNP))\n  de/FW\n  la/FW\n  (NP Autoridad/NNP Nacional/NNP Palestina/NNP)\n  (/(\n  (NP ANP/NNP)\n  )/)\n  ,/,\n  (NP indicó/JJ que/NN dos/NN)\n  de/IN\n  los/FW\n  (NP fallecidos/JJ fueron/NN atacados/NN por/NN)\n  (NP un/JJ dron/NN israelí/NN)\n  en/IN\n  la/FW\n  zona/FW\n  de/FW\n  (NP Qabatiya/NNP)\n  ,/,\n  (NP a/DT pocos/NN kilómetros/NN)\n  (VP al/VBP (NP sur/NN))\n  de/FW\n  (NP Jenin/NNP)\n  ,/,\n  en/FW\n  el/FW\n  norte/FW\n  de/FW\n  (NP Cisjordania/NNP)\n  ./.)",
+      "(S\n  (NP La/NNP)\n  (ADJP agencia/JJ)\n  (ADJP oficial/JJ)\n  de/FW\n  noticias/FW\n  palestina/FW\n  ,/,\n  (NP Wafa/NNP)\n  ,/,\n  (NP informó/NN que/NN)\n  uno/FW\n  de/FW\n  los/FW\n  (NP muertos/NNS)\n  (VP resultó/VBP (NP ser/JJR un/JJ hombre/NN))\n  de/IN\n  (ADJP unos/JJ)\n  40/CD\n  (NP años/NN que/NN fue/NN alcanzado/NN por/NN metralla/NN tras/NNS)\n  (VP la/VBP (NP explosión/JJ del/NN dron/NN))\n  ./.)",
+      "(S\n  (NP El/NNP)\n  otro/MD\n  (VP fallecido/VB (NP no/DT fue/NN identificado/NN))\n  ./.)",
+      "(S\n  (NP Wafa/NNP detalló/NN además/NN que/NN las/NNS)\n  (VP\n    fuerzas/VBP\n    (NP israelíes/JJ mantienen/NN desde/NN hace/NN más/NN))\n  de/IN\n  ocho/FW\n  (NP horas/NNS)\n  (NP una/JJ incursión/JJ militar/NN)\n  en/IN\n  la/FW\n  localidad/FW\n  de/FW\n  (NP Qabatiya/NNP)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "CANTIDADES_NUMERICAS",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "ACCIONES_LEGALES",
+      "REGIONES_PROVINCIAS",
+      "PAISES"
+    ],
+    "matches": [
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "informó",
+        "position": [
+          513,
+          520
+        ],
+        "start": 513,
+        "end": 520
+      },
+      {
+        "category": "ACCIONES_LEGALES",
+        "matched_text": "denunció",
+        "position": [
+          1081,
+          1089
+        ],
+        "start": 1081,
+        "end": 1089
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "israelí",
+        "position": [
+          162,
+          169
+        ],
+        "start": 162,
+        "end": 169
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "zona de",
+        "position": [
+          383,
+          390
+        ],
+        "start": 383,
+        "end": 390
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "alrededor de 428",
+        "position": [
+          1307,
+          1323
+        ],
+        "start": 1307,
+        "end": 1323
+      }
+    ],
+    "match_count": 5
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Qabatiya",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Jenin",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Ministerio de Sanidad",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Hamás",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Tubas",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Wafa",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Cisjordania",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "LEA TAMBÍEN",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "ANP",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Israel",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Tamoun",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Autoridad Nacional Palestina",
+        "tipo": "Organizacion"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "LEA TAMBÍEN",
+        "relacion": "INDICAR",
+        "objeto": "Qabatiya"
+      },
+      {
+        "sujeto": "LEA TAMBÍEN",
+        "relacion": "INDICAR",
+        "objeto": "Jenin"
+      },
+      {
+        "sujeto": "LEA TAMBÍEN",
+        "relacion": "INDICAR",
+        "objeto": "Cisjordania"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "DEJAR_INDICAR",
+        "objeto": "Cisjordania"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "DEJAR_INDICAR",
+        "objeto": "Ministerio de Sanidad"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "DEJAR_INDICAR",
+        "objeto": "Autoridad Nacional Palestina"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "DEJAR_INDICAR",
+        "objeto": "ANP"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "DEJAR_INDICAR",
+        "objeto": "Qabatiya"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "DEJAR_INDICAR",
+        "objeto": "Jenin"
+      },
+      {
+        "sujeto": "Cisjordania",
+        "relacion": "DEJAR_INDICAR",
+        "objeto": "Qabatiya"
+      },
+      {
+        "sujeto": "Cisjordania",
+        "relacion": "DEJAR_INDICAR",
+        "objeto": "Jenin"
+      },
+      {
+        "sujeto": "Ministerio de Sanidad",
+        "relacion": "DEJAR_INDICAR",
+        "objeto": "Qabatiya"
+      },
+      {
+        "sujeto": "Ministerio de Sanidad",
+        "relacion": "DEJAR_INDICAR",
+        "objeto": "Jenin"
+      },
+      {
+        "sujeto": "Ministerio de Sanidad",
+        "relacion": "DEJAR_INDICAR",
+        "objeto": "Cisjordania"
+      },
+      {
+        "sujeto": "Autoridad Nacional Palestina",
+        "relacion": "DEJAR_INDICAR",
+        "objeto": "Qabatiya"
+      },
+      {
+        "sujeto": "Autoridad Nacional Palestina",
+        "relacion": "DEJAR_INDICAR",
+        "objeto": "Jenin"
+      },
+      {
+        "sujeto": "Autoridad Nacional Palestina",
+        "relacion": "DEJAR_INDICAR",
+        "objeto": "Cisjordania"
+      },
+      {
+        "sujeto": "ANP",
+        "relacion": "DEJAR_INDICAR",
+        "objeto": "Qabatiya"
+      },
+      {
+        "sujeto": "ANP",
+        "relacion": "DEJAR_INDICAR",
+        "objeto": "Jenin"
+      },
+      {
+        "sujeto": "ANP",
+        "relacion": "DEJAR_INDICAR",
+        "objeto": "Cisjordania"
+      },
+      {
+        "sujeto": "Wafa",
+        "relacion": "DETALLAR",
+        "objeto": "Qabatiya"
+      },
+      {
+        "sujeto": "Cisjordania",
+        "relacion": "INTENSIFICAR",
+        "objeto": "Hamás"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.1027,
+    "pos": 0.019,
+    "neu": 0.964,
+    "neg": 0.017,
+    "label": "positive"
+  }
+}

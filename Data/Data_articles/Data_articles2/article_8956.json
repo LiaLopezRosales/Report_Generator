@@ -1,0 +1,811 @@
+{
+  "url": "https://www.telesurtv.net/ascienden-a-62-los-fallecidos-por-las-inundaciones-en-valencia-espana/",
+  "title": "Ascienden a 62 los fallecidos por las inundaciones en Valencia, España - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Clima",
+    "desastre natural",
+    "España",
+    "tormenta"
+  ],
+  "text": "Este miércoles aumentaron a 62 los fallecidos a consecuencia de las inundaciones provocadas por una depresión aislada en niveles altos de la atmósfera, DANA, en Valencia, España.\nLEA TAMBIÉN :\nInundaciones en Valencia, España, dejan 51 muertos\nEn su cuenta de X, el servicio de emergencia valenciano declaró: “Nuevo balance realizado por los distintos cuerpos y fuerzas de seguridad y emergencias: cifra de víctimas mortales provisional de 62 personas”.\nA esta cifra se une también decenas de desaparecidos en la provincia de Valencia, en Letur (Albacete), localidad que vivió una intensa riada, y en Cuenca.\nLas autoridades españolas declararon que se están haciendo grandes esfuerzos por identificar a los muertos. Además, se están profundizando las búsquedas en áreas en ruinas para localizar a desaparecidos.\nIgualmente, el presidente de la Comunidad Valenciana, Carlos Mazón aseguró que el Gobierno ha creado un comité de crisis para el seguimiento de las consecuencias de la DANA, y los responsables del operativo de Emergencias en Valencia se reunieron a las 06H00 hora local de este miércoles para analizar la grave situación, que está complejizando las labores de rescate por las dificultades para acceder a las víctimas.\nA su vez, el presidente del Gobierno español, Pedro Sánchez, ha comparecido para dar todo su apoyo y el del Ejecutivo a las familias de las víctimas. “Nuestra prioridad absoluta es ayudaros, las administraciones públicas están coordinando todos los medios [..] no os vamos a dejar solos”, expresó.\nSánchez afirmó además que pondrá “todos los recursos necesarios” y “el tiempo que sea necesario” para ayudar a las víctimas y a la reconstrucción posterior de las zonas afectadas, también, “si fuese necesario”, usando recursos de la Unión Europea “para que puedan reconstruir sus hogares y sus vidas lo antes posible”.\nAdemás de los muertos y desaparecidos, Valencia cuantifica un gran número de carreteras colapsadas así como edificios y viviendas reducidos a ruinas. Esta DANA ha sido considerada el mayor desastre natural desde la Pantanada de Tous, desastre que tuvo lugar también Valencia el 20 de octubre de 1982.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/ascienden-a-62-los-fallecidos-por-las-inundaciones-en-valencia-espana/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-10.json",
+    "message_index": 111,
+    "message_id": 79511,
+    "date": "2024-10-30T16:55:23+00:00",
+    "text": "teleSUR\nAscienden a 62 los fallecidos por las inundaciones en Valencia, España\nhttps://www.telesurtv.net/ascienden-a-62-los-fallecidos-por-las-inundaciones-en-valencia-espana/",
+    "photo_path": null,
+    "views": 2243,
+    "reactions": {
+      "🙏": 12,
+      "👍": 8,
+      "😱": 4,
+      "👏": 2
+    },
+    "total_reactions": 26
+  },
+  "preprocessing": {
+    "cleaned": "este miércoles aumentaron a 62 los fallecidos a consecuencia de las inundaciones provocadas por una depresión aislada en niveles altos de la atmósfera, dana, en valencia, españa. en su cuenta de x, el servicio de emergencia valenciano declaró: “nuevo balance realizado por los distintos cuerpos y fuerzas de seguridad y emergencias: cifra de víctimas mortales provisional de 62 personas”. a esta cifra se une también decenas de desaparecidos en la provincia de valencia, en letur (albacete), localidad que vivió una intensa riada, y en cuenca. las autoridades españolas declararon que se están haciendo grandes esfuerzos por identificar a los muertos. además, se están profundizando las búsquedas en áreas en ruinas para localizar a desaparecidos. igualmente, el presidente de la comunidad valenciana, carlos mazón aseguró que el gobierno ha creado un comité de crisis para el seguimiento de las consecuencias de la dana, y los responsables del operativo de emergencias en valencia se reunieron a las 06h00 hora local de este miércoles para analizar la grave situación, que está complejizando las labores de rescate por las dificultades para acceder a las víctimas. a su vez, el presidente del gobierno español, pedro sánchez, ha comparecido para dar todo su apoyo y el del ejecutivo a las familias de las víctimas. “nuestra prioridad absoluta es ayudaros, las administraciones públicas están coordinando todos los medios [..] no os vamos a dejar solos”, expresó. sánchez afirmó además que pondrá “todos los recursos necesarios” y “el tiempo que sea necesario” para ayudar a las víctimas y a la reconstrucción posterior de las zonas afectadas, también, “si fuese necesario”, usando recursos de la unión europea “para que puedan reconstruir sus hogares y sus vidas lo antes posible”. además de los muertos y desaparecidos, valencia cuantifica un gran número de carreteras colapsadas así como edificios y viviendas reducidos a ruinas. esta dana ha sido considerada el mayor desastre natural desde la pantanada de tous, desastre que tuvo lugar también valencia el 20 de octubre de 1982.",
+    "tokens": [
+      "miércoles",
+      "aumentaron",
+      "62",
+      "fallecidos",
+      "consecuencia",
+      "inundaciones",
+      "provocadas",
+      "depresión",
+      "aislada",
+      "niveles",
+      "altos",
+      "atmósfera",
+      ",",
+      "dana",
+      ",",
+      "valencia",
+      ",",
+      "españa",
+      ".",
+      "cuenta",
+      "x",
+      ",",
+      "servicio",
+      "emergencia",
+      "valenciano",
+      "declaró",
+      ":",
+      "“",
+      "nuevo",
+      "balance",
+      "realizado",
+      "distintos",
+      "cuerpos",
+      "fuerzas",
+      "seguridad",
+      "emergencias",
+      ":",
+      "cifra",
+      "víctimas",
+      "mortales",
+      "provisional",
+      "62",
+      "personas",
+      "”",
+      ".",
+      "cifra",
+      "une",
+      "decenas",
+      "desaparecidos",
+      "provincia",
+      "valencia",
+      ",",
+      "letur",
+      "(",
+      "albacete",
+      ")",
+      ",",
+      "localidad",
+      "vivió",
+      "intensa",
+      "riada",
+      ",",
+      "cuenca",
+      ".",
+      "autoridades",
+      "españolas",
+      "declararon",
+      "haciendo",
+      "grandes",
+      "esfuerzos",
+      "identificar",
+      "muertos",
+      ".",
+      "además",
+      ",",
+      "profundizando",
+      "búsquedas",
+      "áreas",
+      "ruinas",
+      "localizar",
+      "desaparecidos",
+      ".",
+      "igualmente",
+      ",",
+      "presidente",
+      "comunidad",
+      "valenciana",
+      ",",
+      "carlos",
+      "mazón",
+      "aseguró",
+      "gobierno",
+      "creado",
+      "comité",
+      "crisis",
+      "seguimiento",
+      "consecuencias",
+      "dana",
+      ",",
+      "responsables",
+      "operativo",
+      "emergencias",
+      "valencia",
+      "reunieron",
+      "06h00",
+      "hora",
+      "local",
+      "miércoles",
+      "analizar",
+      "grave",
+      "situación",
+      ",",
+      "complejizando",
+      "labores",
+      "rescate",
+      "dificultades",
+      "acceder",
+      "víctimas",
+      ".",
+      "vez",
+      ",",
+      "presidente",
+      "gobierno",
+      "español",
+      ",",
+      "pedro",
+      "sánchez",
+      ",",
+      "comparecido",
+      "dar",
+      "apoyo",
+      "ejecutivo",
+      "familias",
+      "víctimas",
+      ".",
+      "“",
+      "prioridad",
+      "absoluta",
+      "ayudaros",
+      ",",
+      "administraciones",
+      "públicas",
+      "coordinando",
+      "medios",
+      "[",
+      "..",
+      "]",
+      "vamos",
+      "dejar",
+      "solos",
+      "”",
+      ",",
+      "expresó",
+      ".",
+      "sánchez",
+      "afirmó",
+      "además",
+      "pondrá",
+      "“",
+      "recursos",
+      "necesarios",
+      "”",
+      "“",
+      "tiempo",
+      "necesario",
+      "”",
+      "ayudar",
+      "víctimas",
+      "reconstrucción",
+      "posterior",
+      "zonas",
+      "afectadas",
+      ",",
+      ",",
+      "“",
+      "si",
+      "necesario",
+      "”",
+      ",",
+      "usando",
+      "recursos",
+      "unión",
+      "europea",
+      "“",
+      "puedan",
+      "reconstruir",
+      "hogares",
+      "vidas",
+      "posible",
+      "”",
+      ".",
+      "además",
+      "muertos",
+      "desaparecidos",
+      ",",
+      "valencia",
+      "cuantifica",
+      "gran",
+      "número",
+      "carreteras",
+      "colapsadas",
+      "así",
+      "edificios",
+      "viviendas",
+      "reducidos",
+      "ruinas",
+      ".",
+      "dana",
+      "sido",
+      "considerada",
+      "mayor",
+      "desastre",
+      "natural",
+      "pantanada",
+      "tous",
+      ",",
+      "desastre",
+      "lugar",
+      "valencia",
+      "20",
+      "octubre",
+      "1982",
+      "."
+    ],
+    "token_count": 223,
+    "sentence_count": 11
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NN": 111,
+      "NNS": 20,
+      "VBP": 18,
+      "CD": 6,
+      "JJ": 32,
+      "IN": 14,
+      "FW": 62,
+      "NNP": 41,
+      "VBZ": 7,
+      "VBN": 1,
+      "DT": 1
+    },
+    "bigram_freq": {
+      "NN-NNS": 6,
+      "NNS-VBP": 16,
+      "VBP-CD": 1,
+      "CD-JJ": 2,
+      "JJ-JJ": 6,
+      "JJ-NN": 16,
+      "NN-IN": 11,
+      "IN-FW": 7,
+      "FW-NNS": 5,
+      "VBP-JJ": 9,
+      "NN-NN": 69,
+      "IN-NNS": 1,
+      "NNS-FW": 1,
+      "FW-FW": 35,
+      "FW-NNP": 14,
+      "NNP-FW": 9,
+      "NNP-NNP": 13,
+      "NNP-VBZ": 4,
+      "VBZ-CD": 3,
+      "CD-NN": 1,
+      "NN-NNP": 8,
+      "NNP-NN": 14,
+      "FW-JJ": 1,
+      "VBP-IN": 1,
+      "IN-CD": 2,
+      "CD-NNS": 1,
+      "NNS-JJ": 2,
+      "NN-JJ": 8,
+      "IN-NNP": 2,
+      "VBZ-JJ": 2,
+      "NN-FW": 4,
+      "FW-NN": 6,
+      "JJ-NNP": 2,
+      "IN-NN": 1,
+      "VBP-FW": 1,
+      "NN-VBZ": 3,
+      "JJ-FW": 2,
+      "NN-VBP": 2,
+      "VBP-VBN": 1,
+      "VBN-JJ": 1,
+      "VBZ-FW": 2,
+      "VBP-NN": 2,
+      "IN-JJ": 1,
+      "JJ-NNS": 6,
+      "VBP-DT": 1,
+      "DT-NN": 1,
+      "VBP-NNS": 1,
+      "VBP-NNP": 1,
+      "NNS-NNP": 1,
+      "NNP-IN": 1,
+      "CD-FW": 1,
+      "FW-IN": 1
+    },
+    "trigram_freq": {
+      "NN-NNS-VBP": 6,
+      "NNS-VBP-CD": 1,
+      "VBP-CD-JJ": 1,
+      "CD-JJ-JJ": 2,
+      "JJ-JJ-NN": 5,
+      "JJ-NN-IN": 5,
+      "NN-IN-FW": 7,
+      "IN-FW-NNS": 3,
+      "FW-NNS-VBP": 5,
+      "NNS-VBP-JJ": 9,
+      "VBP-JJ-JJ": 1,
+      "JJ-NN-NN": 8,
+      "NN-NN-IN": 6,
+      "NN-IN-NNS": 1,
+      "IN-NNS-FW": 1,
+      "NNS-FW-FW": 1,
+      "FW-FW-FW": 24,
+      "FW-FW-NNP": 7,
+      "FW-NNP-FW": 5,
+      "NNP-FW-NNP": 5,
+      "FW-NNP-NNP": 6,
+      "NNP-NNP-NNP": 5,
+      "NNP-NNP-FW": 1,
+      "NNP-NNP-VBZ": 2,
+      "NNP-VBZ-CD": 2,
+      "VBZ-CD-NN": 1,
+      "CD-NN-NNP": 1,
+      "NN-NNP-NN": 4,
+      "NNP-NN-NN": 13,
+      "IN-FW-FW": 2,
+      "FW-NNP-NN": 3,
+      "NN-NN-NN": 43,
+      "IN-FW-JJ": 1,
+      "FW-JJ-NN": 1,
+      "NNS-VBP-IN": 1,
+      "VBP-IN-CD": 1,
+      "IN-CD-NNS": 1,
+      "CD-NNS-JJ": 1,
+      "NNS-JJ-JJ": 1,
+      "JJ-NN-JJ": 2,
+      "NN-JJ-JJ": 2,
+      "NNP-NNP-NN": 5,
+      "NN-NN-JJ": 5,
+      "NN-JJ-NN": 4,
+      "NN-IN-NNP": 1,
+      "IN-NNP-NNP": 1,
+      "NNP-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 1,
+      "NN-NN-FW": 4,
+      "NN-FW-NN": 1,
+      "FW-NN-NNS": 2,
+      "VBP-JJ-NN": 5,
+      "NN-NN-NNP": 7,
+      "NN-NN-NNS": 1,
+      "VBP-JJ-NNP": 1,
+      "JJ-NNP-FW": 2,
+      "NNP-FW-NN": 2,
+      "FW-NN-NN": 3,
+      "NN-NNP-FW": 1,
+      "NNP-FW-FW": 2,
+      "NN-IN-NN": 1,
+      "IN-NN-NN": 1,
+      "NN-FW-FW": 2,
+      "NNP-NN-NNS": 1,
+      "NNS-VBP-FW": 1,
+      "VBP-FW-FW": 1,
+      "FW-NN-VBZ": 1,
+      "NN-VBZ-CD": 1,
+      "VBZ-CD-JJ": 1,
+      "JJ-JJ-FW": 1,
+      "JJ-FW-NN": 2,
+      "JJ-NN-VBP": 1,
+      "NN-VBP-VBN": 1,
+      "VBP-VBN-JJ": 1,
+      "VBN-JJ-FW": 1,
+      "NN-NN-VBZ": 2,
+      "NN-VBZ-FW": 1,
+      "VBZ-FW-FW": 2,
+      "FW-FW-NNS": 2,
+      "NNS-VBP-NN": 1,
+      "VBP-NN-NNS": 1,
+      "NN-FW-NNP": 1,
+      "NN-NNP-VBZ": 2,
+      "NNP-VBZ-FW": 1,
+      "NN-IN-JJ": 1,
+      "IN-JJ-NNS": 1,
+      "JJ-NNS-VBP": 5,
+      "NN-JJ-NNS": 2,
+      "NNS-VBP-DT": 1,
+      "VBP-DT-NN": 1,
+      "DT-NN-NN": 1,
+      "FW-FW-NN": 1,
+      "IN-FW-NNP": 1,
+      "NN-VBZ-JJ": 1,
+      "VBZ-JJ-NNS": 1,
+      "NNS-VBP-NNS": 1,
+      "VBP-NNS-JJ": 1,
+      "NNS-JJ-NNP": 1,
+      "NNS-VBP-NNP": 1,
+      "VBP-NNP-NN": 1,
+      "VBP-JJ-NNS": 2,
+      "JJ-NNS-NNP": 1,
+      "NNS-NNP-NNP": 1,
+      "NN-NN-VBP": 1,
+      "NN-VBP-NN": 1,
+      "VBP-NN-JJ": 1,
+      "NN-NNP-IN": 1,
+      "NNP-IN-NNP": 1,
+      "IN-NNP-NN": 1,
+      "VBZ-CD-FW": 1,
+      "CD-FW-FW": 1,
+      "FW-FW-IN": 1,
+      "FW-IN-CD": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 111,
+        "FW": 62,
+        "NNP": 41,
+        "JJ": 32,
+        "NNS": 20
+      },
+      "top_bigrams": {
+        "NN-NN": 69,
+        "FW-FW": 35,
+        "NNS-VBP": 16,
+        "JJ-NN": 16,
+        "FW-NNP": 14
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 43,
+        "FW-FW-FW": 24,
+        "NNP-NN-NN": 13,
+        "NNS-VBP-JJ": 9,
+        "JJ-NN-NN": 8
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 11,
+    "chunk_counts": {
+      "NP": 94,
+      "VP": 31,
+      "PP": 4,
+      "ADJP": 5
+    },
+    "top_rules": [
+      {
+        "rule": "NP -> ('Valencia', 'NNP')",
+        "frequency": 4,
+        "weight": 0.0276
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0138
+      },
+      {
+        "rule": "NP -> ('DANA', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0138
+      },
+      {
+        "rule": "NP -> ('España', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0138
+      },
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0138
+      },
+      {
+        "rule": "NP -> ('Además', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0138
+      },
+      {
+        "rule": "NP -> ('a', 'DT') ('las', 'JJ') ('víctimas', 'NN')",
+        "frequency": 2,
+        "weight": 0.0138
+      },
+      {
+        "rule": "S -> NP VP ('a', 'DT') ('62', 'CD') NP NP ('de', 'IN') ('las', 'FW') NP VP PP ('altos', 'FW') ('de', 'FW') ('la', 'FW') NP (',', ',') NP (',', ',') ('en', 'FW') NP (',', ',') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0069
+      },
+      {
+        "rule": "NP -> ('Este', 'NN') ('miércoles', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0069
+      },
+      {
+        "rule": "VP -> ('aumentaron', 'VBP')",
+        "frequency": 1,
+        "weight": 0.0069
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Este miércoles"
+      },
+      {
+        "label": "VP",
+        "text": "aumentaron"
+      },
+      {
+        "label": "NP",
+        "text": "los fallecidos"
+      },
+      {
+        "label": "NP",
+        "text": "a consecuencia"
+      },
+      {
+        "label": "NP",
+        "text": "inundaciones"
+      },
+      {
+        "label": "VP",
+        "text": "provocadas por una depresión aislada"
+      },
+      {
+        "label": "NP",
+        "text": "por una depresión aislada"
+      },
+      {
+        "label": "PP",
+        "text": "en niveles"
+      },
+      {
+        "label": "NP",
+        "text": "niveles"
+      },
+      {
+        "label": "NP",
+        "text": "atmósfera"
+      },
+      {
+        "label": "NP",
+        "text": "DANA"
+      },
+      {
+        "label": "NP",
+        "text": "Valencia"
+      },
+      {
+        "label": "NP",
+        "text": "España"
+      },
+      {
+        "label": "NP",
+        "text": "LEA TAMBIÉN"
+      },
+      {
+        "label": "NP",
+        "text": "Inundaciones"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Este/NN miércoles/NNS)\n  (VP aumentaron/VBP)\n  a/DT\n  62/CD\n  (NP los/NN fallecidos/NN)\n  (NP a/DT consecuencia/NN)\n  de/IN\n  las/FW\n  (NP inundaciones/NNS)\n  (VP provocadas/VBP (NP por/JJ una/JJ depresión/NN aislada/NN))\n  (PP en/IN (NP niveles/NNS))\n  altos/FW\n  de/FW\n  la/FW\n  (NP atmósfera/NN)\n  ,/,\n  (NP DANA/NNP)\n  ,/,\n  en/FW\n  (NP Valencia/NNP)\n  ,/,\n  (NP España/NNP)\n  ./.)",
+      "(S\n  (NP LEA/NNP TAMBIÉN/NNP)\n  :/:\n  (NP Inundaciones/NNS)\n  (PP en/IN (NP Valencia/NNP))\n  ,/,\n  (NP España/NNP)\n  ,/,\n  (VP dejan/VBZ)\n  51/CD\n  (NP muertos/NN En/NNP su/NN cuenta/NN)\n  (PP de/IN (NP X/NNP))\n  ,/,\n  (ADJP el/JJ)\n  servicio/FW\n  de/FW\n  emergencia/FW\n  valenciano/FW\n  (NP declaró/NN)\n  :/:\n  (NP\n    “/JJ\n    Nuevo/NNP\n    balance/NN\n    realizado/NN\n    por/NN\n    los/NN\n    distintos/NN\n    cuerpos/NN\n    y/NN\n    fuerzas/NN)\n  de/IN\n  seguridad/FW\n  y/FW\n  (NP emergencias/NN)\n  :/:\n  (NP cifra/NN)\n  de/IN\n  víctimas/FW\n  (NP mortales/NNS)\n  (VP provisional/VBP)\n  de/IN\n  62/CD\n  (NP personas/NNS ”/NNP)\n  ./.)",
+      "(S\n  (NP A/DT esta/JJ cifra/NN se/NN)\n  (NP une/JJ también/JJ decenas/NN)\n  de/IN\n  desaparecidos/FW\n  en/FW\n  la/FW\n  provincia/FW\n  de/FW\n  (NP Valencia/NNP)\n  ,/,\n  en/FW\n  (NP Letur/NNP)\n  (/(\n  (NP Albacete/NNP)\n  )/)\n  ,/,\n  (NP localidad/JJ que/NN vivió/NN)\n  (NP una/JJ intensa/NN riada/NN)\n  ,/,\n  y/CC\n  en/FW\n  (NP Cuenca/NNP)\n  ./.)",
+      "(S\n  (NP Las/NNP)\n  (VP autoridades/VBZ (NP españolas/JJ declararon/NN que/NN se/NN))\n  están/FW\n  (NP haciendo/NN grandes/NNS)\n  (VP\n    esfuerzos/VBP\n    (NP por/JJ identificar/NN)\n    (NP a/DT los/JJ muertos/NN))\n  ./.)",
+      "(S\n  (NP Además/NNP)\n  ,/,\n  (VP se/VBD (NP están/JJ profundizando/NN las/NNS))\n  (VP búsquedas/VBP (NP en/JJ áreas/NNP))\n  en/FW\n  (NP ruinas/NN para/NN)\n  (VP localizar/VBZ (NP a/DT desaparecidos/NN))\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "GOBIERNOS_OFICIALES",
+      "ORGANISMOS_INTERNACIONALES",
+      "CANTIDADES_NUMERICAS",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "REGIONES_PROVINCIAS",
+      "PAISES",
+      "FECHAS_ESPECIFICAS"
+    ],
+    "matches": [
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "presidente del gobierno español, pedro sánchez, ha comparecido para dar todo su apoyo",
+        "position": [
+          1244,
+          1329
+        ],
+        "start": 1244,
+        "end": 1329
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "declaró",
+        "position": [
+          300,
+          307
+        ],
+        "start": 300,
+        "end": 307
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente de la",
+        "position": [
+          828,
+          844
+        ],
+        "start": 828,
+        "end": 844
+      },
+      {
+        "category": "ORGANISMOS_INTERNACIONALES",
+        "matched_text": "unión europea",
+        "position": [
+          1762,
+          1775
+        ],
+        "start": 1762,
+        "end": 1775
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "españa",
+        "position": [
+          171,
+          177
+        ],
+        "start": 171,
+        "end": 177
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "provincia de",
+        "position": [
+          513,
+          525
+        ],
+        "start": 513,
+        "end": 525
+      },
+      {
+        "category": "FECHAS_ESPECIFICAS",
+        "matched_text": "20 de octubre de 1982",
+        "position": [
+          2126,
+          2147
+        ],
+        "start": 2126,
+        "end": 2147
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "62 personas",
+        "position": [
+          440,
+          451
+        ],
+        "start": 440,
+        "end": 451
+      }
+    ],
+    "match_count": 8
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Sánchez",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Letur",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Ejecutivo",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Unión Europea",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "España",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "provincia de Valencia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Gobierno español",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Pedro Sánchez",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "DANA",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Valencia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Carlos Mazón",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Gobierno",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Albacete",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Pantanada de Tous",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Cuenca",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Inundaciones",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Comunidad Valenciana",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Gobierno",
+        "relacion": "ASEGURAR",
+        "objeto": "Comunidad Valenciana"
+      },
+      {
+        "sujeto": "Comunidad Valenciana",
+        "relacion": "ASEGURAR",
+        "objeto": "Valencia"
+      },
+      {
+        "sujeto": "Gobierno",
+        "relacion": "ASEGURAR",
+        "objeto": "Carlos Mazón"
+      },
+      {
+        "sujeto": "Carlos Mazón",
+        "relacion": "ASEGURAR",
+        "objeto": "Valencia"
+      },
+      {
+        "sujeto": "Gobierno",
+        "relacion": "CREAR_ASEGURAR",
+        "objeto": "Valencia"
+      },
+      {
+        "sujeto": "Gobierno español",
+        "relacion": "COMPARECER",
+        "objeto": "Ejecutivo"
+      },
+      {
+        "sujeto": "Pedro Sánchez",
+        "relacion": "COMPARECER",
+        "objeto": "Ejecutivo"
+      },
+      {
+        "sujeto": "Sánchez",
+        "relacion": "AFIRMAR",
+        "objeto": "Unión Europea"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.0516,
+    "pos": 0.03,
+    "neu": 0.943,
+    "neg": 0.027,
+    "label": "negative"
+  }
+}

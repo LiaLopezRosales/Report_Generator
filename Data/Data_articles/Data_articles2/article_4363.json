@@ -1,0 +1,637 @@
+{
+  "url": "https://www.telesurtv.net/papa-francisco-paso-una-noche-tranquila-y-sigue-en-estado-critico/",
+  "title": "Papa Francisco pasó una noche tranquila pero sigue en estado crítico - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Estado de salud",
+    "Papa Francisco",
+    "Vaticano"
+  ],
+  "text": "Al ofrecer este miércoles un nuevo balance sobre la salud del papa Francisco, el Vaticano informó que el estado sigue siendo crítico y añadió que pasó una noche tranquila al cumplirse 13 días de su internación en el hospital Gemelli de Roma.\nEn un comunicado la oficina de prensa del Vaticano, señaló que Francisco se encuentra a la espera de los resultados de un nuevo examen sobre su neumonía bilateral, que serán dados a conocer próximamente.\nLa Santa Sede indicó que en horas de la noche del martes que el estado de salud del papa Francisco seguía siendo “crítico pero estable”, con pronóstico “reservado”, pero que el pontífice había trabajado durante el día.\nTambién dijo que el líder de la Iglesia Católica continúa con la terapia de oxígeno, pero con flujos “levemente reducidos” a los días anteriores.\nLa salud del papa Francisco preocupa en todo el mundo, donde se suceden las oraciones por su pronta recuperación desde la capital argentina hasta la plaza de San Pedro, donde la víspera fieles y cardenales rezaron un rosario.\nEsta sería la cuarta y más larga hospitalización desde 2021, que ha generado gran preocupación por los problemas previos que han debilitado la salud de Francisco en los últimos años.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/papa-francisco-paso-una-noche-tranquila-y-sigue-en-estado-critico/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-02.json",
+    "message_index": 221,
+    "message_id": 87756,
+    "date": "2025-02-26T09:55:12+00:00",
+    "text": "teleSUR\nPapa Francisco pasó una noche tranquila pero sigue en estado crítico\nhttps://www.telesurtv.net/papa-francisco-paso-una-noche-tranquila-y-sigue-en-estado-critico/",
+    "photo_path": null,
+    "views": 2114,
+    "reactions": {
+      "🙏": 31,
+      "👍": 8
+    },
+    "total_reactions": 39
+  },
+  "preprocessing": {
+    "cleaned": "al ofrecer este miércoles un nuevo balance sobre la salud del papa francisco, el vaticano informó que el estado sigue siendo crítico y añadió que pasó una noche tranquila al cumplirse 13 días de su internación en el hospital gemelli de roma. en un comunicado la oficina de prensa del vaticano, señaló que francisco se encuentra a la espera de los resultados de un nuevo examen sobre su neumonía bilateral, que serán dados a conocer próximamente. la santa sede indicó que en horas de la noche del martes que el estado de salud del papa francisco seguía siendo “crítico pero estable”, con pronóstico “reservado”, pero que el pontífice había trabajado durante el día. también dijo que el líder de la iglesia católica continúa con la terapia de oxígeno, pero con flujos “levemente reducidos” a los días anteriores. la salud del papa francisco preocupa en todo el mundo, donde se suceden las oraciones por su pronta recuperación desde la capital argentina hasta la plaza de san pedro, donde la víspera fieles y cardenales rezaron un rosario. esta sería la cuarta y más larga hospitalización desde 2021, que ha generado gran preocupación por los problemas previos que han debilitado la salud de francisco en los últimos años.",
+    "tokens": [
+      "ofrecer",
+      "miércoles",
+      "nuevo",
+      "balance",
+      "salud",
+      "papa",
+      "francisco",
+      ",",
+      "vaticano",
+      "informó",
+      "sigue",
+      "siendo",
+      "crítico",
+      "añadió",
+      "pasó",
+      "noche",
+      "tranquila",
+      "cumplirse",
+      "13",
+      "días",
+      "internación",
+      "hospital",
+      "gemelli",
+      "roma",
+      ".",
+      "comunicado",
+      "oficina",
+      "prensa",
+      "vaticano",
+      ",",
+      "señaló",
+      "francisco",
+      "encuentra",
+      "espera",
+      "resultados",
+      "nuevo",
+      "examen",
+      "neumonía",
+      "bilateral",
+      ",",
+      "dados",
+      "conocer",
+      "próximamente",
+      ".",
+      "santa",
+      "sede",
+      "indicó",
+      "horas",
+      "noche",
+      "martes",
+      "salud",
+      "papa",
+      "francisco",
+      "seguía",
+      "siendo",
+      "“",
+      "crítico",
+      "estable",
+      "”",
+      ",",
+      "pronóstico",
+      "“",
+      "reservado",
+      "”",
+      ",",
+      "pontífice",
+      "trabajado",
+      "día",
+      ".",
+      "dijo",
+      "líder",
+      "iglesia",
+      "católica",
+      "continúa",
+      "terapia",
+      "oxígeno",
+      ",",
+      "flujos",
+      "“",
+      "levemente",
+      "reducidos",
+      "”",
+      "días",
+      "anteriores",
+      ".",
+      "salud",
+      "papa",
+      "francisco",
+      "preocupa",
+      "mundo",
+      ",",
+      "suceden",
+      "oraciones",
+      "pronta",
+      "recuperación",
+      "capital",
+      "argentina",
+      "plaza",
+      "san",
+      "pedro",
+      ",",
+      "víspera",
+      "fieles",
+      "cardenales",
+      "rezaron",
+      "rosario",
+      ".",
+      "cuarta",
+      "larga",
+      "hospitalización",
+      "2021",
+      ",",
+      "generado",
+      "gran",
+      "preocupación",
+      "problemas",
+      "previos",
+      "debilitado",
+      "salud",
+      "francisco",
+      "últimos",
+      "años",
+      "."
+    ],
+    "token_count": 123,
+    "sentence_count": 6
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 22,
+      "MD": 1,
+      "VB": 2,
+      "NNS": 7,
+      "JJ": 18,
+      "NN": 90,
+      "FW": 48,
+      "CD": 2,
+      "VBP": 5,
+      "IN": 1,
+      "VBZ": 2,
+      "VBD": 1
+    },
+    "bigram_freq": {
+      "NNP-MD": 1,
+      "MD-VB": 1,
+      "VB-NNS": 1,
+      "NNS-JJ": 1,
+      "JJ-JJ": 3,
+      "JJ-NN": 13,
+      "NN-NN": 56,
+      "NN-FW": 12,
+      "FW-FW": 32,
+      "FW-NNP": 7,
+      "NNP-NN": 11,
+      "NN-NNP": 8,
+      "NN-JJ": 6,
+      "NN-CD": 2,
+      "CD-NN": 2,
+      "FW-NN": 7,
+      "NNP-FW": 2,
+      "NNP-NNP": 5,
+      "NNP-JJ": 1,
+      "FW-NNS": 2,
+      "NNS-VBP": 5,
+      "VBP-JJ": 5,
+      "JJ-FW": 1,
+      "NN-IN": 1,
+      "IN-FW": 1,
+      "NNP-VBZ": 1,
+      "VBZ-NN": 1,
+      "NN-VB": 1,
+      "VB-JJ": 1,
+      "NN-NNS": 2,
+      "NNS-NNP": 1,
+      "NNP-VBD": 1,
+      "VBD-JJ": 1,
+      "NN-VBZ": 1,
+      "VBZ-NNS": 1,
+      "JJ-NNS": 1
+    },
+    "trigram_freq": {
+      "NNP-MD-VB": 1,
+      "MD-VB-NNS": 1,
+      "VB-NNS-JJ": 1,
+      "NNS-JJ-JJ": 1,
+      "JJ-JJ-NN": 2,
+      "JJ-NN-NN": 7,
+      "NN-NN-FW": 8,
+      "NN-FW-FW": 8,
+      "FW-FW-FW": 23,
+      "FW-FW-NNP": 5,
+      "FW-NNP-NN": 3,
+      "NNP-NN-NNP": 1,
+      "NN-NNP-NN": 6,
+      "NNP-NN-NN": 8,
+      "NN-NN-NN": 36,
+      "NN-NN-JJ": 6,
+      "NN-JJ-NN": 5,
+      "NN-NN-CD": 2,
+      "NN-CD-NN": 2,
+      "CD-NN-FW": 1,
+      "FW-FW-NN": 2,
+      "FW-NN-NNP": 3,
+      "NN-NNP-FW": 1,
+      "NNP-FW-NNP": 1,
+      "FW-NNP-NNP": 3,
+      "NNP-NNP-JJ": 1,
+      "NNP-JJ-NN": 1,
+      "JJ-NN-FW": 1,
+      "NN-NN-NNP": 2,
+      "FW-FW-NNS": 2,
+      "FW-NNS-VBP": 2,
+      "NNS-VBP-JJ": 5,
+      "VBP-JJ-JJ": 1,
+      "JJ-JJ-JJ": 1,
+      "NN-NNP-NNP": 1,
+      "NNP-NNP-NNP": 1,
+      "NNP-NNP-NN": 2,
+      "VBP-JJ-FW": 1,
+      "JJ-FW-FW": 1,
+      "NN-FW-NN": 4,
+      "JJ-NN-IN": 1,
+      "NN-IN-FW": 1,
+      "IN-FW-NNP": 1,
+      "NNP-NNP-VBZ": 1,
+      "NNP-VBZ-NN": 1,
+      "VBZ-NN-NN": 1,
+      "FW-NN-NN": 3,
+      "NN-NN-VB": 1,
+      "NN-VB-JJ": 1,
+      "VB-JJ-NN": 1,
+      "JJ-NN-NNS": 2,
+      "NN-NNS-NNP": 1,
+      "NNS-NNP-VBD": 1,
+      "NNP-VBD-JJ": 1,
+      "VBD-JJ-NN": 1,
+      "JJ-NN-NNP": 2,
+      "NNP-NN-FW": 1,
+      "FW-NN-FW": 1,
+      "NN-NNS-VBP": 1,
+      "VBP-JJ-NN": 3,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-NNS": 1,
+      "VBZ-NNS-VBP": 1,
+      "CD-NN-NN": 1,
+      "NN-JJ-NNS": 1,
+      "JJ-NNS-VBP": 1,
+      "FW-NNP-FW": 1,
+      "NNP-FW-NN": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 90,
+        "FW": 48,
+        "NNP": 22,
+        "JJ": 18,
+        "NNS": 7
+      },
+      "top_bigrams": {
+        "NN-NN": 56,
+        "FW-FW": 32,
+        "JJ-NN": 13,
+        "NN-FW": 12,
+        "NNP-NN": 11
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 36,
+        "FW-FW-FW": 23,
+        "NN-NN-FW": 8,
+        "NN-FW-FW": 8,
+        "NNP-NN-NN": 8
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 6,
+    "chunk_counts": {
+      "NP": 48,
+      "VP": 12
+    },
+    "top_rules": [
+      {
+        "rule": "S -> NP ('ofrecer', 'MD') VP ('la', 'FW') ('salud', 'FW') ('del', 'FW') NP (',', ',') NP NP ('13', 'CD') NP ('de', 'FW') ('su', 'FW') ('internación', 'FW') ('en', 'FW') ('el', 'FW') NP ('de', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0152
+      },
+      {
+        "rule": "NP -> ('Al', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0152
+      },
+      {
+        "rule": "VP -> ('este', 'VB') NP NP",
+        "frequency": 1,
+        "weight": 0.0152
+      },
+      {
+        "rule": "NP -> ('miércoles', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0152
+      },
+      {
+        "rule": "NP -> ('un', 'JJ') ('nuevo', 'JJ') ('balance', 'NN') ('sobre', 'NN')",
+        "frequency": 1,
+        "weight": 0.0152
+      },
+      {
+        "rule": "NP -> ('papa', 'NN') ('Francisco', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0152
+      },
+      {
+        "rule": "NP -> ('el', 'JJ') ('Vaticano', 'NNP') ('informó', 'NN') ('que', 'NN') ('el', 'NN') ('estado', 'NN') ('sigue', 'NN') ('siendo', 'NN') ('crítico', 'NN') ('y', 'NN') ('añadió', 'NN') ('que', 'NN') ('pasó', 'NN')",
+        "frequency": 1,
+        "weight": 0.0152
+      },
+      {
+        "rule": "NP -> ('una', 'JJ') ('noche', 'NN') ('tranquila', 'NN') ('al', 'NN') ('cumplirse', 'NN')",
+        "frequency": 1,
+        "weight": 0.0152
+      },
+      {
+        "rule": "NP -> ('días', 'NN')",
+        "frequency": 1,
+        "weight": 0.0152
+      },
+      {
+        "rule": "NP -> ('hospital', 'NN') ('Gemelli', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0152
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Al"
+      },
+      {
+        "label": "VP",
+        "text": "este miércoles un nuevo balance sobre"
+      },
+      {
+        "label": "NP",
+        "text": "miércoles"
+      },
+      {
+        "label": "NP",
+        "text": "un nuevo balance sobre"
+      },
+      {
+        "label": "NP",
+        "text": "papa Francisco"
+      },
+      {
+        "label": "NP",
+        "text": "el Vaticano informó que el estado sigue siendo crítico y añadió que pasó"
+      },
+      {
+        "label": "NP",
+        "text": "una noche tranquila al cumplirse"
+      },
+      {
+        "label": "NP",
+        "text": "días"
+      },
+      {
+        "label": "NP",
+        "text": "hospital Gemelli"
+      },
+      {
+        "label": "NP",
+        "text": "Roma"
+      },
+      {
+        "label": "NP",
+        "text": "En"
+      },
+      {
+        "label": "NP",
+        "text": "un comunicado"
+      },
+      {
+        "label": "NP",
+        "text": "Vaticano"
+      },
+      {
+        "label": "NP",
+        "text": "señaló que Francisco se"
+      },
+      {
+        "label": "VP",
+        "text": "encuentra a la espera"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Al/NNP)\n  ofrecer/MD\n  (VP\n    este/VB\n    (NP miércoles/NNS)\n    (NP un/JJ nuevo/JJ balance/NN sobre/NN))\n  la/FW\n  salud/FW\n  del/FW\n  (NP papa/NN Francisco/NNP)\n  ,/,\n  (NP\n    el/JJ\n    Vaticano/NNP\n    informó/NN\n    que/NN\n    el/NN\n    estado/NN\n    sigue/NN\n    siendo/NN\n    crítico/NN\n    y/NN\n    añadió/NN\n    que/NN\n    pasó/NN)\n  (NP una/JJ noche/NN tranquila/NN al/NN cumplirse/NN)\n  13/CD\n  (NP días/NN)\n  de/FW\n  su/FW\n  internación/FW\n  en/FW\n  el/FW\n  (NP hospital/NN Gemelli/NNP)\n  de/FW\n  (NP Roma/NNP)\n  ./.)",
+      "(S\n  (NP En/NNP)\n  (NP un/JJ comunicado/NN)\n  la/FW\n  oficina/FW\n  de/FW\n  prensa/FW\n  del/FW\n  (NP Vaticano/NNP)\n  ,/,\n  (NP señaló/NN que/NN Francisco/NNP se/NN)\n  (VP encuentra/VBZ (NP a/DT la/NN espera/NN))\n  de/IN\n  los/FW\n  resultados/FW\n  de/FW\n  un/FW\n  nuevo/FW\n  (NP examen/NNS)\n  (VP sobre/VBP (NP su/JJ neumonía/JJ bilateral/NN))\n  ,/,\n  (NP que/JJ serán/NN)\n  (VP dados/VBZ (NP a/DT conocer/NN próximamente/NN))\n  ./.)",
+      "(S\n  (NP La/NNP Santa/NNP Sede/NNP indicó/NN que/NN)\n  en/FW\n  horas/FW\n  de/FW\n  la/FW\n  noche/FW\n  del/FW\n  (NP martes/NNS)\n  (VP que/VBP el/JJ)\n  estado/FW\n  de/FW\n  salud/FW\n  del/FW\n  papa/FW\n  (NP Francisco/NNP seguía/NN siendo/NN “/NNP crítico/NN pero/NN)\n  (NP estable/JJ ”/NN)\n  ,/,\n  (NP con/NN pronóstico/NN “/NNP reservado/NN ”/NNP)\n  ,/,\n  (NP pero/NN que/NN)\n  (NP\n    el/JJ\n    pontífice/NN\n    había/NN\n    trabajado/NN\n    durante/NN\n    el/NN\n    día/NN)\n  ./.)",
+      "(S\n  (NP También/NNP dijo/NN que/NN)\n  (NP el/JJ líder/NN)\n  de/IN\n  la/FW\n  (NP Iglesia/NNP Católica/NNP)\n  (VP continúa/VBZ (NP con/NN la/NN))\n  terapia/FW\n  de/FW\n  oxígeno/FW\n  ,/,\n  pero/FW\n  (NP con/NN flujos/NN “/NNP)\n  (VP levemente/VBZ)\n  reducidos/FW\n  ”/FW\n  (NP a/DT los/NN días/NN anteriores/NNS)\n  ./.)",
+      "(S\n  (NP La/NNP)\n  (VP salud/VBD (NP del/JJ papa/NN Francisco/NNP preocupa/NN))\n  en/FW\n  (NP todo/NN)\n  el/FW\n  (NP mundo/NN)\n  ,/,\n  donde/FW\n  se/FW\n  (NP suceden/JJ las/NN oraciones/NNS)\n  (VP por/VBP (NP su/JJ pronta/NN recuperación/NN desde/NN))\n  la/FW\n  (NP capital/NN argentina/NN hasta/NN)\n  la/FW\n  plaza/FW\n  de/FW\n  (NP San/NNP Pedro/NNP)\n  ,/,\n  (NP donde/NN la/NN víspera/NN)\n  (VP fieles/VBZ)\n  y/CC\n  (NP cardenales/NNS)\n  (VP rezaron/VBP (NP un/JJ rosario/NN))\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "CIUDADES_CAPITALES",
+      "TIEMPO_RELATIVO",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "REGIONES_PROVINCIAS",
+      "PERIODOS_TEMPORALES",
+      "PAISES",
+      "LOCALIZACIONES_ESPECIFICAS",
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "INFRAESTRUCTURA_SERVICIOS"
+    ],
+    "matches": [
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "capital",
+        "position": [
+          935,
+          942
+        ],
+        "start": 935,
+        "end": 942
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "señaló",
+        "position": [
+          294,
+          300
+        ],
+        "start": 294,
+        "end": 300
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "informó",
+        "position": [
+          90,
+          97
+        ],
+        "start": 90,
+        "end": 97
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "hospital",
+        "position": [
+          216,
+          224
+        ],
+        "start": 216,
+        "end": 224
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "argentina",
+        "position": [
+          943,
+          952
+        ],
+        "start": 943,
+        "end": 952
+      },
+      {
+        "category": "CIUDADES_CAPITALES",
+        "matched_text": "roma",
+        "position": [
+          236,
+          240
+        ],
+        "start": 236,
+        "end": 240
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "estado sigue",
+        "position": [
+          105,
+          117
+        ],
+        "start": 105,
+        "end": 117
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "plaza de",
+        "position": [
+          962,
+          970
+        ],
+        "start": 962,
+        "end": 970
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "hospital gemelli",
+        "position": [
+          216,
+          232
+        ],
+        "start": 216,
+        "end": 232
+      },
+      {
+        "category": "PERIODOS_TEMPORALES",
+        "matched_text": "durante el día",
+        "position": [
+          649,
+          663
+        ],
+        "start": 649,
+        "end": 663
+      },
+      {
+        "category": "TIEMPO_RELATIVO",
+        "matched_text": "próximamente",
+        "position": [
+          432,
+          444
+        ],
+        "start": 432,
+        "end": 444
+      }
+    ],
+    "match_count": 11
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Roma",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "oxígeno",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Iglesia Católica",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Vaticano",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "papa Francisco",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "plaza de San Pedro",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "hospital Gemelli",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Francisco",
+        "tipo": "Persona"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Vaticano",
+        "relacion": "OFRECER_INFORMAR",
+        "objeto": "papa Francisco"
+      },
+      {
+        "sujeto": "papa Francisco",
+        "relacion": "OFRECER_INFORMAR",
+        "objeto": "hospital Gemelli"
+      },
+      {
+        "sujeto": "papa Francisco",
+        "relacion": "OFRECER_INFORMAR",
+        "objeto": "Roma"
+      },
+      {
+        "sujeto": "Vaticano",
+        "relacion": "INFORMAR",
+        "objeto": "hospital Gemelli"
+      },
+      {
+        "sujeto": "Vaticano",
+        "relacion": "INFORMAR",
+        "objeto": "Roma"
+      },
+      {
+        "sujeto": "Francisco",
+        "relacion": "SE_ALAR",
+        "objeto": "Vaticano"
+      },
+      {
+        "sujeto": "Iglesia Católica",
+        "relacion": "CONTINUAR_DECIR",
+        "objeto": "oxígeno"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.34,
+    "pos": 0.012,
+    "neu": 0.988,
+    "neg": 0.0,
+    "label": "positive"
+  }
+}

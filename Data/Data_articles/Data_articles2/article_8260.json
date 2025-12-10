@@ -1,0 +1,725 @@
+{
+  "url": "https://www.telesurtv.net/china-insiste-que-el-uso-de-la-ia-no-debe-ser-un-privilegio-exclusivo-de-los-paises-ricos/",
+  "title": "China insiste en que el uso de la IA no debe ser un privilegio exclusivo de los países ricos - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "aI",
+    "China",
+    "cooperación",
+    "G20",
+    "Internacional"
+  ],
+  "text": "Sus declaraciones subrayan la necesidad de una gobernanza internacional más robusta en el ámbito de la IA.\nEl presidente de China, Xi Jinping, señaló este lunes durante la cumbre del Grupo de los Veinte (G20) que la inteligencia artificial (IA) no debe convertirse en un privilegio exclusivo de los países ricos.\nEn su intervención, Xi hizo un llamado a intensificar la cooperación global para asegurar que la IA se utilice en beneficio de todos y no como un juego exclusivo para naciones adineradas. Destacó la importancia de impulsar una globalización económica que sea universalmente beneficiosa, así como de fomentar el desarrollo sostenible mediante nuevas tecnologías, industrias y modelos de negocio.\n“Hoy en día, la transformación de una escala no vista en un siglo se está acelerando en todo el mundo. La humanidad se enfrenta a oportunidades y desafíos sin precedentes. Como líderes de los principales países, no debemos permitir que nuestra visión se vea bloqueada por nubes fugaces. Más bien, debemos ver el mundo como una comunidad con un futuro compartido, y asumir nuestra responsabilidad por la historia, tomar la iniciativa histórica y hacer que la historia avance”, dijo.\nEl mandatario también hizo hincapié en el apoyo a los países en desarrollo para que se integren de manera efectiva en la transición hacia un futuro digital, inteligente y sostenible, con el objetivo de reducir la brecha entre el Norte y el Sur.\n“Debemos mantener nuestro compromiso con el multilateralismo. Debemos defender el sistema internacional centrado en la ONU y el orden respaldado por el derecho internacional, así como las normas básicas de las relaciones internacionales basadas en los propósitos y principios de la Carta de la ONU”, afirmó Xi Jinping, reafirmando su postura en favor de una cooperación internacional inclusiva y equitativa.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/china-insiste-que-el-uso-de-la-ia-no-debe-ser-un-privilegio-exclusivo-de-los-paises-ricos/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-11.json",
+    "message_index": 761,
+    "message_id": 80684,
+    "date": "2024-11-19T07:55:07+00:00",
+    "text": "teleSUR\nChina insiste en que el uso de la IA no debe ser un privilegio exclusivo de los países ricos\nhttps://www.telesurtv.net/china-insiste-que-el-uso-de-la-ia-no-debe-ser-un-privilegio-exclusivo-de-los-paises-ricos/",
+    "photo_path": null,
+    "views": 2426,
+    "reactions": {
+      "👍": 54,
+      "👏": 7,
+      "🤔": 2
+    },
+    "total_reactions": 63
+  },
+  "preprocessing": {
+    "cleaned": "sus declaraciones subrayan la necesidad de una gobernanza internacional más robusta en el ámbito de la ia. el presidente de china, xi jinping, señaló este lunes durante la cumbre del grupo de los veinte (g20) que la inteligencia artificial (ia) no debe convertirse en un privilegio exclusivo de los países ricos. en su intervención, xi hizo un llamado a intensificar la cooperación global para asegurar que la ia se utilice en beneficio de todos y no como un juego exclusivo para naciones adineradas. destacó la importancia de impulsar una globalización económica que sea universalmente beneficiosa, así como de fomentar el desarrollo sostenible mediante nuevas tecnologías, industrias y modelos de negocio. “hoy en día, la transformación de una escala no vista en un siglo se está acelerando en todo el mundo. la humanidad se enfrenta a oportunidades y desafíos sin precedentes. como líderes de los principales países, no debemos permitir que nuestra visión se vea bloqueada por nubes fugaces. más bien, debemos ver el mundo como una comunidad con un futuro compartido, y asumir nuestra responsabilidad por la historia, tomar la iniciativa histórica y hacer que la historia avance”, dijo. el mandatario también hizo hincapié en el apoyo a los países en desarrollo para que se integren de manera efectiva en la transición hacia un futuro digital, inteligente y sostenible, con el objetivo de reducir la brecha entre el norte y el sur. “debemos mantener nuestro compromiso con el multilateralismo. debemos defender el sistema internacional centrado en la onu y el orden respaldado por el derecho internacional, así como las normas básicas de las relaciones internacionales basadas en los propósitos y principios de la carta de la onu”, afirmó xi jinping, reafirmando su postura en favor de una cooperación internacional inclusiva y equitativa.",
+    "tokens": [
+      "declaraciones",
+      "subrayan",
+      "necesidad",
+      "gobernanza",
+      "internacional",
+      "robusta",
+      "ámbito",
+      "ia",
+      ".",
+      "presidente",
+      "china",
+      ",",
+      "xi",
+      "jinping",
+      ",",
+      "señaló",
+      "lunes",
+      "cumbre",
+      "grupo",
+      "veinte",
+      "(",
+      "g20",
+      ")",
+      "inteligencia",
+      "artificial",
+      "(",
+      "ia",
+      ")",
+      "debe",
+      "convertirse",
+      "privilegio",
+      "exclusivo",
+      "países",
+      "ricos",
+      ".",
+      "intervención",
+      ",",
+      "xi",
+      "hizo",
+      "llamado",
+      "intensificar",
+      "cooperación",
+      "global",
+      "asegurar",
+      "ia",
+      "utilice",
+      "beneficio",
+      "juego",
+      "exclusivo",
+      "naciones",
+      "adineradas",
+      ".",
+      "destacó",
+      "importancia",
+      "impulsar",
+      "globalización",
+      "económica",
+      "universalmente",
+      "beneficiosa",
+      ",",
+      "así",
+      "fomentar",
+      "desarrollo",
+      "sostenible",
+      "mediante",
+      "nuevas",
+      "tecnologías",
+      ",",
+      "industrias",
+      "modelos",
+      "negocio",
+      ".",
+      "“",
+      "hoy",
+      "día",
+      ",",
+      "transformación",
+      "escala",
+      "vista",
+      "siglo",
+      "acelerando",
+      "mundo",
+      ".",
+      "humanidad",
+      "enfrenta",
+      "oportunidades",
+      "desafíos",
+      "precedentes",
+      ".",
+      "líderes",
+      "principales",
+      "países",
+      ",",
+      "debemos",
+      "permitir",
+      "visión",
+      "vea",
+      "bloqueada",
+      "nubes",
+      "fugaces",
+      ".",
+      "bien",
+      ",",
+      "debemos",
+      "ver",
+      "mundo",
+      "comunidad",
+      "futuro",
+      "compartido",
+      ",",
+      "asumir",
+      "responsabilidad",
+      "historia",
+      ",",
+      "tomar",
+      "iniciativa",
+      "histórica",
+      "hacer",
+      "historia",
+      "avance",
+      "”",
+      ",",
+      "dijo",
+      ".",
+      "mandatario",
+      "hizo",
+      "hincapié",
+      "apoyo",
+      "países",
+      "desarrollo",
+      "integren",
+      "manera",
+      "efectiva",
+      "transición",
+      "hacia",
+      "futuro",
+      "digital",
+      ",",
+      "inteligente",
+      "sostenible",
+      ",",
+      "objetivo",
+      "reducir",
+      "brecha",
+      "norte",
+      "sur",
+      ".",
+      "“",
+      "debemos",
+      "mantener",
+      "compromiso",
+      "multilateralismo",
+      ".",
+      "debemos",
+      "defender",
+      "sistema",
+      "internacional",
+      "centrado",
+      "onu",
+      "orden",
+      "respaldado",
+      "derecho",
+      "internacional",
+      ",",
+      "así",
+      "normas",
+      "básicas",
+      "relaciones",
+      "internacionales",
+      "basadas",
+      "propósitos",
+      "principios",
+      "carta",
+      "onu",
+      "”",
+      ",",
+      "afirmó",
+      "xi",
+      "jinping",
+      ",",
+      "reafirmando",
+      "postura",
+      "favor",
+      "cooperación",
+      "internacional",
+      "inclusiva",
+      "equitativa",
+      "."
+    ],
+    "token_count": 188,
+    "sentence_count": 11
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 28,
+      "VBZ": 6,
+      "JJ": 34,
+      "FW": 74,
+      "NN": 105,
+      "IN": 9,
+      "NNS": 10,
+      "VBP": 7,
+      "DT": 4,
+      "RB": 1,
+      "VBD": 1
+    },
+    "bigram_freq": {
+      "NNP-VBZ": 2,
+      "VBZ-JJ": 3,
+      "JJ-FW": 3,
+      "FW-FW": 43,
+      "FW-JJ": 6,
+      "JJ-NN": 24,
+      "NN-NN": 53,
+      "NN-FW": 13,
+      "FW-NNP": 9,
+      "NNP-NNP": 6,
+      "NNP-NN": 12,
+      "NN-IN": 8,
+      "IN-NNP": 1,
+      "NN-NNS": 4,
+      "NNS-VBP": 6,
+      "VBP-FW": 1,
+      "NNP-FW": 7,
+      "NN-VBP": 1,
+      "VBP-JJ": 2,
+      "JJ-NNP": 1,
+      "NNP-DT": 1,
+      "DT-NN": 4,
+      "IN-FW": 6,
+      "FW-NNS": 4,
+      "VBP-NNP": 2,
+      "NN-NNP": 6,
+      "NN-JJ": 15,
+      "FW-DT": 1,
+      "FW-NN": 10,
+      "FW-VBZ": 1,
+      "VBZ-DT": 2,
+      "NN-VBZ": 2,
+      "VBP-NN": 1,
+      "NNS-NNP": 2,
+      "VBZ-FW": 1,
+      "NNS-VBZ": 1,
+      "JJ-NNS": 1,
+      "JJ-JJ": 5,
+      "NN-RB": 1,
+      "RB-JJ": 1,
+      "NN-VBD": 1,
+      "VBD-JJ": 1,
+      "NNS-NNS": 1,
+      "VBP-IN": 1,
+      "IN-NN": 1,
+      "IN-JJ": 1
+    },
+    "trigram_freq": {
+      "NNP-VBZ-JJ": 1,
+      "VBZ-JJ-FW": 1,
+      "JJ-FW-FW": 3,
+      "FW-FW-FW": 25,
+      "FW-FW-JJ": 3,
+      "FW-JJ-NN": 6,
+      "JJ-NN-NN": 19,
+      "NN-NN-FW": 9,
+      "NN-FW-FW": 7,
+      "FW-FW-NNP": 7,
+      "FW-NNP-NNP": 3,
+      "NNP-NNP-NN": 5,
+      "NNP-NN-IN": 1,
+      "NN-IN-NNP": 1,
+      "IN-NNP-NNP": 1,
+      "NNP-NNP-NNP": 1,
+      "NNP-NN-NN": 8,
+      "NN-NN-NNS": 2,
+      "NN-NNS-VBP": 3,
+      "NNS-VBP-FW": 1,
+      "VBP-FW-FW": 1,
+      "FW-NNP-FW": 5,
+      "NNP-FW-FW": 4,
+      "NN-NN-VBP": 1,
+      "NN-VBP-JJ": 1,
+      "VBP-JJ-NNP": 1,
+      "JJ-NNP-DT": 1,
+      "NNP-DT-NN": 1,
+      "DT-NN-NN": 2,
+      "NN-FW-JJ": 1,
+      "NN-NN-IN": 3,
+      "NN-IN-FW": 6,
+      "IN-FW-NNS": 2,
+      "FW-NNS-VBP": 2,
+      "NNS-VBP-NNP": 2,
+      "VBP-NNP-NN": 1,
+      "NN-NN-NNP": 4,
+      "NN-NNP-NN": 4,
+      "NNP-NN-JJ": 1,
+      "NN-JJ-NN": 10,
+      "NN-NN-NN": 21,
+      "NN-NN-JJ": 10,
+      "FW-FW-DT": 1,
+      "FW-DT-NN": 1,
+      "DT-NN-JJ": 1,
+      "VBP-NNP-FW": 1,
+      "IN-FW-FW": 2,
+      "NN-JJ-FW": 2,
+      "NNP-FW-NN": 1,
+      "FW-NN-FW": 4,
+      "FW-FW-VBZ": 1,
+      "FW-VBZ-DT": 1,
+      "VBZ-DT-NN": 2,
+      "DT-NN-VBZ": 1,
+      "NN-VBZ-JJ": 2,
+      "VBZ-JJ-NN": 2,
+      "NN-FW-NN": 5,
+      "FW-NN-NNP": 1,
+      "NN-NNP-FW": 1,
+      "FW-FW-NNS": 2,
+      "NNS-VBP-NN": 1,
+      "VBP-NN-NNS": 1,
+      "NN-NNS-NNP": 1,
+      "NNS-NNP-VBZ": 1,
+      "NNP-VBZ-FW": 1,
+      "VBZ-FW-FW": 1,
+      "FW-NNS-VBZ": 1,
+      "NNS-VBZ-DT": 1,
+      "NN-JJ-NNS": 1,
+      "JJ-NNS-NNP": 1,
+      "NNS-NNP-NN": 1,
+      "FW-NN-NN": 3,
+      "FW-FW-NN": 4,
+      "IN-FW-JJ": 1,
+      "JJ-NN-NNS": 1,
+      "NNS-VBP-JJ": 1,
+      "VBP-JJ-NN": 1,
+      "JJ-NN-IN": 3,
+      "FW-NN-JJ": 1,
+      "NN-JJ-JJ": 2,
+      "JJ-JJ-JJ": 2,
+      "JJ-JJ-NN": 3,
+      "JJ-NN-JJ": 1,
+      "NNP-FW-NNP": 1,
+      "NNP-NN-RB": 1,
+      "NN-RB-JJ": 1,
+      "RB-JJ-NN": 1,
+      "NN-NN-VBD": 1,
+      "NN-VBD-JJ": 1,
+      "VBD-JJ-NN": 1,
+      "IN-FW-NNP": 1,
+      "NNP-FW-JJ": 1,
+      "NN-NN-VBZ": 1,
+      "FW-NNS-NNS": 1,
+      "NNS-NNS-VBP": 1,
+      "NNS-VBP-IN": 1,
+      "VBP-IN-NN": 1,
+      "IN-NN-JJ": 1,
+      "FW-NNP-NN": 1,
+      "NNP-NN-NNP": 1,
+      "NN-NNP-NNP": 1,
+      "FW-NN-IN": 1,
+      "NN-IN-JJ": 1,
+      "IN-JJ-JJ": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 105,
+        "FW": 74,
+        "JJ": 34,
+        "NNP": 28,
+        "NNS": 10
+      },
+      "top_bigrams": {
+        "NN-NN": 53,
+        "FW-FW": 43,
+        "JJ-NN": 24,
+        "NN-JJ": 15,
+        "NN-FW": 13
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 25,
+        "NN-NN-NN": 21,
+        "JJ-NN-NN": 19,
+        "NN-JJ-NN": 10,
+        "NN-NN-JJ": 10
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 11,
+    "chunk_counts": {
+      "NP": 74,
+      "VP": 13,
+      "PP": 4,
+      "ADJP": 5
+    },
+    "top_rules": [
+      {
+        "rule": "NP -> ('IA', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0187
+      },
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0187
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0187
+      },
+      {
+        "rule": "S -> NP VP ('la', 'FW') ('necesidad', 'FW') ('de', 'FW') ('una', 'FW') ('gobernanza', 'FW') NP ('en', 'FW') ('el', 'FW') ('ámbito', 'FW') ('de', 'FW') ('la', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0093
+      },
+      {
+        "rule": "NP -> ('Sus', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0093
+      },
+      {
+        "rule": "VP -> ('declaraciones', 'VBZ') ('subrayan', 'JJ')",
+        "frequency": 1,
+        "weight": 0.0093
+      },
+      {
+        "rule": "NP -> ('internacional', 'JJ') ('más', 'NN') ('robusta', 'NN')",
+        "frequency": 1,
+        "weight": 0.0093
+      },
+      {
+        "rule": "S -> NP PP (',', ',') NP (',', ',') NP VP ('la', 'FW') ('cumbre', 'FW') ('del', 'FW') NP ('de', 'FW') ('los', 'FW') NP ('(', '(') NP (')', ')') NP ('la', 'FW') NP ('(', '(') NP (')', ')') NP ('en', 'FW') NP ('de', 'IN') ('los', 'FW') NP VP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0093
+      },
+      {
+        "rule": "NP -> ('El', 'NNP') ('presidente', 'NN')",
+        "frequency": 1,
+        "weight": 0.0093
+      },
+      {
+        "rule": "NP -> ('China', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0093
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Sus"
+      },
+      {
+        "label": "VP",
+        "text": "declaraciones subrayan"
+      },
+      {
+        "label": "NP",
+        "text": "internacional más robusta"
+      },
+      {
+        "label": "NP",
+        "text": "IA"
+      },
+      {
+        "label": "NP",
+        "text": "El presidente"
+      },
+      {
+        "label": "PP",
+        "text": "de China"
+      },
+      {
+        "label": "NP",
+        "text": "China"
+      },
+      {
+        "label": "NP",
+        "text": "Xi Jinping"
+      },
+      {
+        "label": "NP",
+        "text": "señaló este lunes"
+      },
+      {
+        "label": "VP",
+        "text": "durante"
+      },
+      {
+        "label": "NP",
+        "text": "Grupo"
+      },
+      {
+        "label": "NP",
+        "text": "Veinte"
+      },
+      {
+        "label": "NP",
+        "text": "G20"
+      },
+      {
+        "label": "NP",
+        "text": "que"
+      },
+      {
+        "label": "NP",
+        "text": "inteligencia artificial"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Sus/NNP)\n  (VP declaraciones/VBZ subrayan/JJ)\n  la/FW\n  necesidad/FW\n  de/FW\n  una/FW\n  gobernanza/FW\n  (NP internacional/JJ más/NN robusta/NN)\n  en/FW\n  el/FW\n  ámbito/FW\n  de/FW\n  la/FW\n  (NP IA/NNP)\n  ./.)",
+      "(S\n  (NP El/NNP presidente/NN)\n  (PP de/IN (NP China/NNP))\n  ,/,\n  (NP Xi/NNP Jinping/NNP)\n  ,/,\n  (NP señaló/JJ este/NN lunes/NNS)\n  (VP durante/VBP)\n  la/FW\n  cumbre/FW\n  del/FW\n  (NP Grupo/NNP)\n  de/FW\n  los/FW\n  (NP Veinte/NNP)\n  (/(\n  (NP G20/NNP)\n  )/)\n  (NP que/NN)\n  la/FW\n  (NP inteligencia/JJ artificial/NN)\n  (/(\n  (NP IA/NNP)\n  )/)\n  (NP no/DT debe/JJ convertirse/NN)\n  en/FW\n  (NP un/JJ privilegio/NN exclusivo/NN)\n  de/IN\n  los/FW\n  (NP países/NNS)\n  (VP ricos/VBP)\n  ./.)",
+      "(S\n  (NP En/NNP su/NN intervención/NN)\n  ,/,\n  (NP Xi/NNP)\n  (VP hizo/VBZ un/JJ)\n  llamado/FW\n  (NP a/DT intensificar/NN la/NN cooperación/NN)\n  (NP\n    global/JJ\n    para/NN\n    asegurar/NN\n    que/NN\n    la/NN\n    IA/NNP\n    se/NN\n    utilice/NN)\n  en/FW\n  beneficio/FW\n  de/FW\n  todos/FW\n  y/CC\n  (NP no/DT como/NN)\n  (NP\n    un/JJ\n    juego/NN\n    exclusivo/NN\n    para/NN\n    naciones/NNS\n    adineradas/NNS)\n  ./.)",
+      "(S\n  (NP Destacó/NNP la/NNP)\n  importancia/FW\n  de/FW\n  impulsar/FW\n  (NP una/JJ globalización/NN económica/NN que/NN sea/NN)\n  (NP universalmente/JJ beneficiosa/NN)\n  ,/,\n  (NP así/JJ como/NN)\n  de/IN\n  fomentar/FW\n  el/FW\n  desarrollo/FW\n  (NP sostenible/JJ mediante/NN nuevas/NN tecnologías/NN)\n  ,/,\n  (ADJP industrias/JJ)\n  y/FW\n  modelos/FW\n  de/FW\n  negocio/FW\n  ./.)",
+      "(S\n  (NP “/JJ Hoy/NNP en/NN día/NN)\n  ,/,\n  la/FW\n  transformación/FW\n  de/FW\n  una/FW\n  (VP escala/VBZ (NP no/DT vista/NN))\n  (VP en/VBZ (NP un/JJ siglo/NN se/NN))\n  está/FW\n  (NP acelerando/NN)\n  en/FW\n  (NP todo/NN)\n  el/FW\n  (NP mundo/NN)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "GOBIERNOS_OFICIALES",
+      "ORGANISMOS_INTERNACIONALES",
+      "APROBACION_RECHAZO",
+      "TIEMPO_RELATIVO",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "ANTIIMPERIALISMO_SOBERANIA",
+      "PAISES",
+      "RELACIONES_INTERNACIONALES"
+    ],
+    "matches": [
+      {
+        "category": "RELACIONES_INTERNACIONALES",
+        "matched_text": "cooperación internacional",
+        "position": [
+          1793,
+          1818
+        ],
+        "start": 1793,
+        "end": 1818
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "mandatario también hizo hincapié en el apoyo",
+        "position": [
+          1193,
+          1237
+        ],
+        "start": 1193,
+        "end": 1237
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "señaló",
+        "position": [
+          143,
+          149
+        ],
+        "start": 143,
+        "end": 149
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente de china",
+        "position": [
+          110,
+          129
+        ],
+        "start": 110,
+        "end": 129
+      },
+      {
+        "category": "ORGANISMOS_INTERNACIONALES",
+        "matched_text": "onu",
+        "position": [
+          1554,
+          1557
+        ],
+        "start": 1554,
+        "end": 1557
+      },
+      {
+        "category": "APROBACION_RECHAZO",
+        "matched_text": "destacó",
+        "position": [
+          501,
+          508
+        ],
+        "start": 501,
+        "end": 508
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "china",
+        "position": [
+          124,
+          129
+        ],
+        "start": 124,
+        "end": 129
+      },
+      {
+        "category": "TIEMPO_RELATIVO",
+        "matched_text": "hoy",
+        "position": [
+          709,
+          712
+        ],
+        "start": 709,
+        "end": 712
+      },
+      {
+        "category": "ANTIIMPERIALISMO_SOBERANIA",
+        "matched_text": "multilateralismo. debemos defender el sistema internacional centrado en la onu y el orden respaldado por el derecho",
+        "position": [
+          1479,
+          1594
+        ],
+        "start": 1479,
+        "end": 1594
+      }
+    ],
+    "match_count": 9
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "IA",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "G20",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Xi Jinping",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Carta de la ONU",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "China",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "ONU",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Norte",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Xi",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Sur",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "China",
+        "relacion": "SE_ALAR",
+        "objeto": "G20"
+      },
+      {
+        "sujeto": "Xi Jinping",
+        "relacion": "SE_ALAR",
+        "objeto": "G20"
+      },
+      {
+        "sujeto": "Xi",
+        "relacion": "HACER",
+        "objeto": "IA"
+      },
+      {
+        "sujeto": "Xi Jinping",
+        "relacion": "DEFENDER_AFIRMAR",
+        "objeto": "ONU"
+      },
+      {
+        "sujeto": "Xi Jinping",
+        "relacion": "DEFENDER_AFIRMAR",
+        "objeto": "Carta de la ONU"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.8074,
+    "pos": 0.014,
+    "neu": 0.943,
+    "neg": 0.043,
+    "label": "negative"
+  }
+}

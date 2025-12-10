@@ -1,0 +1,769 @@
+{
+  "url": "https://www.telesurtv.net/nueva-delhi-amanece-como-la-ciudad-mas-contaminada-del-mundo/",
+  "title": "Nueva Delhi amanece como la ciudad más contaminada del mundo - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "capa de smog",
+    "contaminación del aire",
+    "India",
+    "Nueva Delhi",
+    "polución"
+  ],
+  "text": "La capital de la India, Nueva Delhi, amaneció este miércoles cubierta con un smog tóxico, índice de polución ambiental, que impedía parcialmente la visibilidad y es responsable de miles de muertes prematuras entre los pobladores, reportó el diario Patriot.\n“El índice de calidad del aire actual es de 1.547, más de 170 veces el límite anual recomendado por las normas de calidad del aire”, indicó por su parte la plataforma suiza IQ Air.\nSegún los datos del grupo helvético, el nivel de calidad del aire en la capital india este miércoles es “peligroso” para la salud, superando a la ciudad paquistaní Lahore, que recoge un índice de 414, en comparación con Nueva Delhi (437).\nEn cuanto a las partículas de tipo PM2.5, se recogieron 333 microgramos por metro cúbico, lo que representa un grave riesgo para la salud de la población.\nLa capital india queda envuelta en una niebla acre cada año (capa de smog), a raíz principalmente de la quema de rastrojos que realizan los agricultores de las regiones vecinas para limpiar sus campos para el arado, así como por los gases expedidos por las fábricas y el tráfico vehicular.\nAnte esta situación, el presidente del Bharatiya Janata Party (BJP, Partido Popular Indio) de Delhi, Virendra Sachdeva, dijo que, dado el alarmante nivel de contaminación del aire en la capital nacional y sus regiones adyacentes, tanto las escuelas privadas como las gubernamentales deberían cerrarse por la seguridad de los niños.\nAsimismo, la policía de Delhi ha lanzado una agresiva operación de incautación de más de 5.000 vehículos de diésel y gasolina de más de 10 y 15 años, en un intento de frenar la contaminación en la capital del país.\nEn 2019, un estudio publicado en la revista médica The Lancet atribuyó 1.67 millones de muertes prematuras a la contaminación del aire en el país más poblado del mundo.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/nueva-delhi-amanece-como-la-ciudad-mas-contaminada-del-mundo/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-11.json",
+    "message_index": 1105,
+    "message_id": 80322,
+    "date": "2024-11-13T16:55:07+00:00",
+    "text": "teleSUR\nNueva Delhi amanece como la ciudad más contaminada del mundo\nhttps://www.telesurtv.net/nueva-delhi-amanece-como-la-ciudad-mas-contaminada-del-mundo/",
+    "photo_path": null,
+    "views": 2118,
+    "reactions": {
+      "🙏": 24,
+      "😢": 8,
+      "🤯": 3
+    },
+    "total_reactions": 35
+  },
+  "preprocessing": {
+    "cleaned": "la capital de la india, nueva delhi, amaneció este miércoles cubierta con un smog tóxico, índice de polución ambiental, que impedía parcialmente la visibilidad y es responsable de miles de muertes prematuras entre los pobladores, reportó el diario patriot. “el índice de calidad del aire actual es de 1.547, más de 170 veces el límite anual recomendado por las normas de calidad del aire”, indicó por su parte la plataforma suiza iq air. según los datos del grupo helvético, el nivel de calidad del aire en la capital india este miércoles es “peligroso” para la salud, superando a la ciudad paquistaní lahore, que recoge un índice de 414, en comparación con nueva delhi (437). en cuanto a las partículas de tipo pm2.5, se recogieron 333 microgramos por metro cúbico, lo que representa un grave riesgo para la salud de la población. la capital india queda envuelta en una niebla acre cada año (capa de smog), a raíz principalmente de la quema de rastrojos que realizan los agricultores de las regiones vecinas para limpiar sus campos para el arado, así como por los gases expedidos por las fábricas y el tráfico vehicular. ante esta situación, el presidente del bharatiya janata party (bjp, partido popular indio) de delhi, virendra sachdeva, dijo que, dado el alarmante nivel de contaminación del aire en la capital nacional y sus regiones adyacentes, tanto las escuelas privadas como las gubernamentales deberían cerrarse por la seguridad de los niños. asimismo, la policía de delhi ha lanzado una agresiva operación de incautación de más de 5.000 vehículos de diésel y gasolina de más de 10 y 15 años, en un intento de frenar la contaminación en la capital del país. en 2019, un estudio publicado en la revista médica the lancet atribuyó 1.67 millones de muertes prematuras a la contaminación del aire en el país más poblado del mundo.",
+    "tokens": [
+      "capital",
+      "india",
+      ",",
+      "nueva",
+      "delhi",
+      ",",
+      "amaneció",
+      "miércoles",
+      "cubierta",
+      "smog",
+      "tóxico",
+      ",",
+      "índice",
+      "polución",
+      "ambiental",
+      ",",
+      "impedía",
+      "parcialmente",
+      "visibilidad",
+      "responsable",
+      "miles",
+      "muertes",
+      "prematuras",
+      "pobladores",
+      ",",
+      "reportó",
+      "diario",
+      "patriot",
+      ".",
+      "“",
+      "índice",
+      "calidad",
+      "aire",
+      "actual",
+      "1.547",
+      ",",
+      "170",
+      "veces",
+      "límite",
+      "anual",
+      "recomendado",
+      "normas",
+      "calidad",
+      "aire",
+      "”",
+      ",",
+      "indicó",
+      "parte",
+      "plataforma",
+      "suiza",
+      "iq",
+      "air",
+      ".",
+      "según",
+      "datos",
+      "grupo",
+      "helvético",
+      ",",
+      "nivel",
+      "calidad",
+      "aire",
+      "capital",
+      "india",
+      "miércoles",
+      "“",
+      "peligroso",
+      "”",
+      "salud",
+      ",",
+      "superando",
+      "ciudad",
+      "paquistaní",
+      "lahore",
+      ",",
+      "recoge",
+      "índice",
+      "414",
+      ",",
+      "comparación",
+      "nueva",
+      "delhi",
+      "(",
+      "437",
+      ")",
+      ".",
+      "cuanto",
+      "partículas",
+      "tipo",
+      "pm2.5",
+      ",",
+      "recogieron",
+      "333",
+      "microgramos",
+      "metro",
+      "cúbico",
+      ",",
+      "representa",
+      "grave",
+      "riesgo",
+      "salud",
+      "población",
+      ".",
+      "capital",
+      "india",
+      "queda",
+      "envuelta",
+      "niebla",
+      "acre",
+      "cada",
+      "año",
+      "(",
+      "capa",
+      "smog",
+      ")",
+      ",",
+      "raíz",
+      "principalmente",
+      "quema",
+      "rastrojos",
+      "realizan",
+      "agricultores",
+      "regiones",
+      "vecinas",
+      "limpiar",
+      "campos",
+      "arado",
+      ",",
+      "así",
+      "gases",
+      "expedidos",
+      "fábricas",
+      "tráfico",
+      "vehicular",
+      ".",
+      "situación",
+      ",",
+      "presidente",
+      "bharatiya",
+      "janata",
+      "party",
+      "(",
+      "bjp",
+      ",",
+      "partido",
+      "popular",
+      "indio",
+      ")",
+      "delhi",
+      ",",
+      "virendra",
+      "sachdeva",
+      ",",
+      "dijo",
+      ",",
+      "dado",
+      "alarmante",
+      "nivel",
+      "contaminación",
+      "aire",
+      "capital",
+      "nacional",
+      "regiones",
+      "adyacentes",
+      ",",
+      "escuelas",
+      "privadas",
+      "gubernamentales",
+      "deberían",
+      "cerrarse",
+      "seguridad",
+      "niños",
+      ".",
+      "asimismo",
+      ",",
+      "policía",
+      "delhi",
+      "lanzado",
+      "agresiva",
+      "operación",
+      "incautación",
+      "5.000",
+      "vehículos",
+      "diésel",
+      "gasolina",
+      "10",
+      "15",
+      "años",
+      ",",
+      "intento",
+      "frenar",
+      "contaminación",
+      "capital",
+      "país",
+      ".",
+      "2019",
+      ",",
+      "estudio",
+      "publicado",
+      "revista",
+      "médica",
+      "the",
+      "lancet",
+      "atribuyó",
+      "1.67",
+      "millones",
+      "muertes",
+      "prematuras",
+      "contaminación",
+      "aire",
+      "país",
+      "poblado",
+      "mundo",
+      "."
+    ],
+    "token_count": 213,
+    "sentence_count": 8
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 33,
+      "NN": 100,
+      "IN": 13,
+      "FW": 81,
+      "VBZ": 3,
+      "NNS": 14,
+      "VBP": 11,
+      "JJ": 29,
+      "CD": 10,
+      "RB": 1,
+      "VBD": 4,
+      "$": 1,
+      "DT": 1
+    },
+    "bigram_freq": {
+      "NNP-NN": 7,
+      "NN-IN": 10,
+      "IN-FW": 9,
+      "FW-NNP": 6,
+      "NNP-NNP": 15,
+      "NNP-VBZ": 1,
+      "VBZ-NN": 1,
+      "NN-NNS": 6,
+      "NNS-VBP": 9,
+      "VBP-NN": 1,
+      "NN-JJ": 10,
+      "JJ-NN": 20,
+      "NN-NN": 52,
+      "NN-NNP": 6,
+      "NNP-IN": 2,
+      "FW-JJ": 4,
+      "NN-FW": 14,
+      "FW-FW": 47,
+      "JJ-FW": 3,
+      "FW-NNS": 4,
+      "NNS-FW": 3,
+      "VBP-JJ": 10,
+      "NNP-FW": 3,
+      "FW-VBP": 1,
+      "IN-CD": 1,
+      "CD-NN": 4,
+      "FW-CD": 4,
+      "CD-NNS": 2,
+      "NNS-RB": 1,
+      "RB-VBP": 1,
+      "FW-NN": 15,
+      "NNP-VBD": 3,
+      "VBD-JJ": 1,
+      "JJ-NNP": 2,
+      "CD-FW": 1,
+      "NNP-CD": 2,
+      "CD-NNP": 1,
+      "VBD-$": 1,
+      "$-CD": 1,
+      "IN-JJ": 1,
+      "JJ-JJ": 2,
+      "JJ-VBZ": 1,
+      "VBZ-FW": 1,
+      "JJ-NNS": 1,
+      "IN-NNP": 1,
+      "NNS-VBZ": 1,
+      "VBZ-IN": 1,
+      "IN-NNS": 1,
+      "CD-CD": 1,
+      "CD-JJ": 1,
+      "NN-VBD": 1,
+      "VBD-DT": 1,
+      "DT-NNP": 1,
+      "VBD-CD": 1
+    },
+    "trigram_freq": {
+      "NNP-NN-IN": 1,
+      "NN-IN-FW": 8,
+      "IN-FW-NNP": 1,
+      "FW-NNP-NNP": 2,
+      "NNP-NNP-NNP": 9,
+      "NNP-NNP-VBZ": 1,
+      "NNP-VBZ-NN": 1,
+      "VBZ-NN-NNS": 1,
+      "NN-NNS-VBP": 5,
+      "NNS-VBP-NN": 1,
+      "VBP-NN-JJ": 1,
+      "NN-JJ-NN": 5,
+      "JJ-NN-NN": 11,
+      "NN-NN-NNP": 4,
+      "NN-NNP-IN": 1,
+      "NNP-IN-FW": 1,
+      "IN-FW-JJ": 2,
+      "FW-JJ-NN": 2,
+      "NN-NN-NN": 27,
+      "NN-NN-FW": 8,
+      "NN-FW-FW": 7,
+      "FW-FW-FW": 31,
+      "FW-FW-JJ": 1,
+      "FW-JJ-FW": 2,
+      "JJ-FW-NNS": 1,
+      "FW-NNS-FW": 2,
+      "NNS-FW-NNS": 1,
+      "FW-NNS-VBP": 2,
+      "NNS-VBP-JJ": 8,
+      "VBP-JJ-NN": 9,
+      "JJ-NN-NNS": 2,
+      "JJ-NN-NNP": 1,
+      "NN-NNP-NNP": 3,
+      "NNP-NNP-FW": 1,
+      "NNP-FW-FW": 2,
+      "FW-FW-VBP": 1,
+      "FW-VBP-JJ": 1,
+      "JJ-NN-IN": 4,
+      "NN-IN-CD": 1,
+      "IN-CD-NN": 1,
+      "CD-NN-FW": 3,
+      "NN-FW-CD": 1,
+      "FW-CD-NNS": 1,
+      "CD-NNS-RB": 1,
+      "NNS-RB-VBP": 1,
+      "RB-VBP-JJ": 1,
+      "NN-NN-JJ": 7,
+      "NN-JJ-FW": 1,
+      "JJ-FW-FW": 2,
+      "FW-FW-NN": 6,
+      "FW-NN-NN": 7,
+      "NN-FW-NN": 4,
+      "FW-NN-NNP": 1,
+      "NNP-NNP-VBD": 1,
+      "NNP-VBD-JJ": 1,
+      "VBD-JJ-NN": 1,
+      "FW-NN-IN": 2,
+      "IN-FW-NN": 3,
+      "NN-NN-NNS": 3,
+      "FW-NN-FW": 2,
+      "NN-NNP-NN": 1,
+      "NNP-NN-NN": 6,
+      "NN-JJ-NNP": 2,
+      "JJ-NNP-FW": 1,
+      "NNP-FW-CD": 1,
+      "FW-CD-FW": 1,
+      "CD-FW-NN": 1,
+      "NNP-NNP-CD": 1,
+      "NNP-CD-NNP": 1,
+      "CD-NNP-NN": 1,
+      "FW-FW-NNP": 4,
+      "FW-NNP-VBD": 1,
+      "NNP-VBD-$": 1,
+      "VBD-$-CD": 1,
+      "$-CD-NN": 1,
+      "CD-NN-NN": 1,
+      "FW-NNP-NN": 2,
+      "NN-NN-IN": 3,
+      "NN-IN-JJ": 1,
+      "IN-JJ-JJ": 1,
+      "JJ-JJ-NN": 2,
+      "NN-JJ-VBZ": 1,
+      "JJ-VBZ-FW": 1,
+      "VBZ-FW-FW": 1,
+      "FW-FW-NNS": 2,
+      "NNS-FW-NN": 1,
+      "VBP-JJ-NNS": 1,
+      "JJ-NNS-VBP": 1,
+      "JJ-NN-JJ": 1,
+      "JJ-NNP-NN": 1,
+      "NN-FW-NNP": 1,
+      "NNP-NNP-IN": 1,
+      "NNP-IN-NNP": 1,
+      "IN-NNP-NNP": 1,
+      "NNP-NNP-NN": 1,
+      "IN-FW-FW": 3,
+      "FW-NN-JJ": 1,
+      "NN-NNS-VBZ": 1,
+      "NNS-VBZ-IN": 1,
+      "VBZ-IN-NNS": 1,
+      "IN-NNS-VBP": 1,
+      "FW-NNP-FW": 1,
+      "NN-JJ-JJ": 1,
+      "FW-FW-CD": 2,
+      "FW-CD-NN": 1,
+      "FW-CD-CD": 1,
+      "CD-CD-NN": 1,
+      "NN-FW-JJ": 1,
+      "JJ-NN-FW": 1,
+      "NN-NNP-CD": 1,
+      "NNP-CD-JJ": 1,
+      "CD-JJ-NN": 1,
+      "FW-NN-VBD": 1,
+      "NN-VBD-DT": 1,
+      "VBD-DT-NNP": 1,
+      "DT-NNP-VBD": 1,
+      "NNP-VBD-CD": 1,
+      "VBD-CD-NNS": 1,
+      "CD-NNS-FW": 1,
+      "NNS-FW-FW": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 100,
+        "FW": 81,
+        "NNP": 33,
+        "JJ": 29,
+        "NNS": 14
+      },
+      "top_bigrams": {
+        "NN-NN": 52,
+        "FW-FW": 47,
+        "JJ-NN": 20,
+        "NNP-NNP": 15,
+        "FW-NN": 15
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 31,
+        "NN-NN-NN": 27,
+        "JJ-NN-NN": 11,
+        "NNP-NNP-NNP": 9,
+        "VBP-JJ-NN": 9
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 8,
+    "chunk_counts": {
+      "NP": 79,
+      "VP": 17,
+      "ADJP": 2,
+      "PP": 2
+    },
+    "top_rules": [
+      {
+        "rule": "NP -> ('muertes', 'NNS')",
+        "frequency": 2,
+        "weight": 0.0185
+      },
+      {
+        "rule": "VP -> ('prematuras', 'VBP') NP",
+        "frequency": 2,
+        "weight": 0.0185
+      },
+      {
+        "rule": "NP -> ('aire', 'NN')",
+        "frequency": 2,
+        "weight": 0.0185
+      },
+      {
+        "rule": "S -> NP ('de', 'IN') ('la', 'FW') NP (',', ',') NP (',', ',') NP VP (',', ',') NP ('de', 'FW') ('polución', 'FW') NP (',', ',') NP ('la', 'FW') ('visibilidad', 'FW') ('y', 'FW') ('es', 'FW') ADJP ('de', 'FW') NP ('de', 'FW') NP VP (',', ',') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0093
+      },
+      {
+        "rule": "NP -> ('La', 'NNP') ('capital', 'NN')",
+        "frequency": 1,
+        "weight": 0.0093
+      },
+      {
+        "rule": "NP -> ('India', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0093
+      },
+      {
+        "rule": "NP -> ('Nueva', 'NNP') ('Delhi', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0093
+      },
+      {
+        "rule": "NP -> ('amaneció', 'JJ') ('este', 'NN') ('miércoles', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0093
+      },
+      {
+        "rule": "VP -> ('cubierta', 'VBP') NP NP",
+        "frequency": 1,
+        "weight": 0.0093
+      },
+      {
+        "rule": "NP -> ('con', 'NN')",
+        "frequency": 1,
+        "weight": 0.0093
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "La capital"
+      },
+      {
+        "label": "NP",
+        "text": "India"
+      },
+      {
+        "label": "NP",
+        "text": "Nueva Delhi"
+      },
+      {
+        "label": "NP",
+        "text": "amaneció este miércoles"
+      },
+      {
+        "label": "VP",
+        "text": "cubierta con un smog tóxico"
+      },
+      {
+        "label": "NP",
+        "text": "con"
+      },
+      {
+        "label": "NP",
+        "text": "un smog tóxico"
+      },
+      {
+        "label": "NP",
+        "text": "índice"
+      },
+      {
+        "label": "NP",
+        "text": "ambiental"
+      },
+      {
+        "label": "NP",
+        "text": "que impedía parcialmente"
+      },
+      {
+        "label": "ADJP",
+        "text": "responsable"
+      },
+      {
+        "label": "NP",
+        "text": "miles"
+      },
+      {
+        "label": "NP",
+        "text": "muertes"
+      },
+      {
+        "label": "VP",
+        "text": "prematuras entre los pobladores"
+      },
+      {
+        "label": "NP",
+        "text": "entre los pobladores"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP La/NNP capital/NN)\n  de/IN\n  la/FW\n  (NP India/NNP)\n  ,/,\n  (NP Nueva/NNP Delhi/NNP)\n  ,/,\n  (NP amaneció/JJ este/NN miércoles/NNS)\n  (VP cubierta/VBP (NP con/NN) (NP un/JJ smog/NN tóxico/NN))\n  ,/,\n  (NP índice/NNP)\n  de/FW\n  polución/FW\n  (NP ambiental/NN)\n  ,/,\n  (NP que/JJ impedía/NN parcialmente/NN)\n  la/FW\n  visibilidad/FW\n  y/FW\n  es/FW\n  (ADJP responsable/JJ)\n  de/FW\n  (NP miles/NNS)\n  de/FW\n  (NP muertes/NNS)\n  (VP prematuras/VBP (NP entre/JJ los/NN pobladores/NNS))\n  ,/,\n  (NP reportó/NN el/NN diario/NN Patriot/NNP)\n  ./.)",
+      "(S\n  (NP “/JJ El/NNP índice/NNP)\n  de/FW\n  calidad/FW\n  del/FW\n  (VP aire/VBP (NP actual/JJ es/NN))\n  de/IN\n  1.547/CD\n  ,/,\n  más/FW\n  de/FW\n  170/CD\n  (NP veces/NNS)\n  el/RB\n  (VP límite/VBP (NP anual/JJ recomendado/NN por/NN) las/JJ)\n  normas/FW\n  de/FW\n  calidad/FW\n  del/FW\n  (NP aire/NN ”/NN)\n  ,/,\n  (NP indicó/JJ por/NN su/NN parte/NN la/NN)\n  plataforma/FW\n  (NP suiza/NN IQ/NNP Air/NNP)\n  ./.)",
+      "(S\n  (NP Según/NNP)\n  (VP los/VBZ (NP datos/JJ del/NN grupo/NN helvético/NN))\n  ,/,\n  el/FW\n  nivel/FW\n  de/FW\n  calidad/FW\n  del/FW\n  (NP aire/NN)\n  en/IN\n  la/FW\n  (NP capital/NN india/NN este/NN miércoles/NNS)\n  (VP es/VBP (NP “/JJ peligroso/NN ”/NNP para/NN la/NN salud/NN))\n  ,/,\n  (VP\n    superando/VB\n    (NP a/DT la/NN ciudad/NN paquistaní/NN Lahore/NNP))\n  ,/,\n  (NP que/NN recoge/NN)\n  (NP un/JJ índice/NNP)\n  de/FW\n  414/CD\n  ,/,\n  en/FW\n  (NP comparación/NN con/NN Nueva/NNP Delhi/NNP)\n  (/(\n  437/CD\n  )/)\n  ./.)",
+      "(S\n  (NP En/NNP)\n  (VP cuanto/VBZ (NP a/DT las/JJ partículas/NN))\n  de/IN\n  tipo/FW\n  (NP PM2.5/NNP)\n  ,/,\n  (VP se/VBD (NP recogieron/NN))\n  333/CD\n  (NP microgramos/NN por/NN metro/NN cúbico/NN)\n  ,/,\n  (NP lo/JJ que/NN representa/NN)\n  (NP un/JJ grave/NN riesgo/NN para/NN)\n  la/FW\n  salud/FW\n  de/FW\n  la/FW\n  población/FW\n  ./.)",
+      "(S\n  (NP La/NNP capital/NN india/NN queda/NN envuelta/NN)\n  (PP en/IN (NP una/JJ niebla/JJ acre/NN cada/NN año/NN))\n  (/(\n  (NP capa/NN)\n  (PP de/IN (NP smog/NN))\n  )/)\n  ,/,\n  (NP a/DT raíz/JJ principalmente/NN)\n  de/IN\n  la/FW\n  quema/FW\n  de/FW\n  rastrojos/FW\n  (NP que/NN realizan/NN)\n  (ADJP los/JJ)\n  (VP agricultores/VBZ)\n  de/FW\n  las/FW\n  (NP regiones/NNS)\n  vecinas/FW\n  (NP para/NN)\n  limpiar/FW\n  (NP sus/NN campos/NN para/NN el/NN arado/NN)\n  ,/,\n  (NP así/JJ como/NN por/NN los/NN gases/NNS)\n  (VP expedidos/VBP (NP por/JJ las/NNS))\n  (VP fábricas/VBP (NP y/JJ el/NN tráfico/NN vehicular/NN))\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "GOBIERNOS_OFICIALES",
+      "CANTIDADES_NUMERICAS",
+      "CIENCIA_TECNOLOGIA_SALUD",
+      "MEDIOS_COMUNICACION",
+      "CRISIS_HUMANITARIA_SERVICIOS",
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "CONFLICTOS_ARMADOS_OPERACIONES"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "incautación de más de 5.000 vehículos",
+        "position": [
+          1521,
+          1558
+        ],
+        "start": 1521,
+        "end": 1558
+      },
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "capital",
+        "position": [
+          3,
+          10
+        ],
+        "start": 3,
+        "end": 10
+      },
+      {
+        "category": "CIENCIA_TECNOLOGIA_SALUD",
+        "matched_text": "estudio publicado",
+        "position": [
+          1681,
+          1698
+        ],
+        "start": 1681,
+        "end": 1698
+      },
+      {
+        "category": "CRISIS_HUMANITARIA_SERVICIOS",
+        "matched_text": "contaminación",
+        "position": [
+          1279,
+          1292
+        ],
+        "start": 1279,
+        "end": 1292
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente del bharatiya",
+        "position": [
+          1146,
+          1170
+        ],
+        "start": 1146,
+        "end": 1170
+      },
+      {
+        "category": "MEDIOS_COMUNICACION",
+        "matched_text": "diario patriot",
+        "position": [
+          241,
+          255
+        ],
+        "start": 241,
+        "end": 255
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "67 millones",
+        "position": [
+          1742,
+          1753
+        ],
+        "start": 1742,
+        "end": 1753
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "índice de 414",
+        "position": [
+          624,
+          637
+        ],
+        "start": 624,
+        "end": 637
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "más de 170",
+        "position": [
+          308,
+          318
+        ],
+        "start": 308,
+        "end": 318
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "más de 5.000",
+        "position": [
+          1536,
+          1548
+        ],
+        "start": 1536,
+        "end": 1548
+      }
+    ],
+    "match_count": 10
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Delhi",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "IQ Air",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "La capital india",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Virendra Sachdeva",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Bharatiya Janata Party",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "BJP",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Lahore",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Nueva Delhi",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Partido Popular Indio",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "la India",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Lahore",
+        "relacion": "SUPERAR",
+        "objeto": "Nueva Delhi"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.4767,
+    "pos": 0.026,
+    "neu": 0.959,
+    "neg": 0.016,
+    "label": "positive"
+  }
+}

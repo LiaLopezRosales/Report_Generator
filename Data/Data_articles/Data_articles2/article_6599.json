@@ -1,0 +1,847 @@
+{
+  "url": "https://www.telesurtv.net/ataque-aereo-sionista-muertos-campamento-desplazados-jan-yunis/",
+  "title": "Ataque aéreo sionista deja al menos 15 muertos en campamento de desplazados en Jan Yunis - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Campamento",
+    "Desplazados",
+    "exterminio",
+    "Gaza",
+    "genocidio",
+    "Israel",
+    "Jan Yunis",
+    "Mawasi",
+    "Palestina"
+  ],
+  "text": "Fuentes médicas de Gaza informaron que al menos 15 personas perdieron la vida este viernes tras un ataque aéreo contra las tiendas de campaña donde se resguardaban familias desplazadas en Mawasi, Jan Yunis, al sur del enclave palestino.\nLEA TAMBIÉN\nHamás denuncia uso de puntos de ayuda en Gaza para espionaje y contrabando de drogas por parte de Israel\nEl Hospital Naser, cercano al lugar del ataque, recibió los cadáveres de las víctimas, entre quienes se cuentan por lo menos dos menores de edad. La mayoría de los fallecidos pertenecían a una sola familia que se resguardaba cerca de las torres Taiba, al oeste de Jan Yunis.\nEl mismo centro de salud recibió también los cuerpos de otras dos personas que perdieron la vida mientras intentaban conseguir alimentos en el norte de Rafah, área donde funciona uno de los puntos de distribución de “ayuda humanitaria” de la Fundación Humanitaria para Gaza (GHF), organización respaldada por la entidad sionista y Estados Unidos que utiliza la escasez y el hambre como herramientas de exterminio contra la población palestina.\nDespués del ataque, el Ejército de ocupación ordenó nuevas evacuaciones en la zona de Jan Yunis, incluyendo el área donde está ubicado el Hospital Naser.\nCon estas órdenes, sólo queda libre un estrecho corredor costero en Mawasi, al que Israel había definido previamente como supuesta “zona humanitaria” pero que dejó de reconocer como tal tras reanudar su ofensiva militar el 18 de marzo.\nPese a ello, miles de familias desplazadas continúan siendo forzadas a concentrarse en esta área, que apenas tiene 14 kilómetros de largo por uno de ancho y alberga a más de 425.000 personas hacinadas, de acuerdo con estimaciones de la ONU.\nEl director de operaciones de la UNRWA en Gaza, Sam Rose, advirtió el pasado mes que el lugar “está más saturado que nunca”.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/ataque-aereo-sionista-muertos-campamento-desplazados-jan-yunis/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-07.json",
+    "message_index": 1935,
+    "message_id": 98192,
+    "date": "2025-07-04T20:55:18+00:00",
+    "text": "teleSUR\nAtaque aéreo sionista deja al menos 15 muertos en campamento de desplazados en Jan Yunis\nhttps://www.telesurtv.net/ataque-aereo-sionista-muertos-campamento-desplazados-jan-yunis/",
+    "photo_path": null,
+    "views": 1773,
+    "reactions": {
+      "🤬": 52,
+      "😈": 1
+    },
+    "total_reactions": 53
+  },
+  "preprocessing": {
+    "cleaned": "fuentes médicas de gaza informaron que al menos 15 personas perdieron la vida este viernes tras un ataque aéreo contra las tiendas de campaña donde se resguardaban familias desplazadas en mawasi, jan yunis, al sur del enclave palestino. el hospital naser, cercano al lugar del ataque, recibió los cadáveres de las víctimas, entre quienes se cuentan por lo menos dos menores de edad. la mayoría de los fallecidos pertenecían a una sola familia que se resguardaba cerca de las torres taiba, al oeste de jan yunis. el mismo centro de salud recibió también los cuerpos de otras dos personas que perdieron la vida mientras intentaban conseguir alimentos en el norte de rafah, área donde funciona uno de los puntos de distribución de “ayuda humanitaria” de la fundación humanitaria para gaza (ghf), organización respaldada por la entidad sionista y estados unidos que utiliza la escasez y el hambre como herramientas de exterminio contra la población palestina. después del ataque, el ejército de ocupación ordenó nuevas evacuaciones en la zona de jan yunis, incluyendo el área donde está ubicado el hospital naser. con estas órdenes, sólo queda libre un estrecho corredor costero en mawasi, al que israel había definido previamente como supuesta “zona humanitaria” pero que dejó de reconocer como tal tras reanudar su ofensiva militar el 18 de marzo. pese a ello, miles de familias desplazadas continúan siendo forzadas a concentrarse en esta área, que apenas tiene 14 kilómetros de largo por uno de ancho y alberga a más de 425.000 personas hacinadas, de acuerdo con estimaciones de la onu. el director de operaciones de la unrwa en gaza, sam rose, advirtió el pasado mes que el lugar “está más saturado que nunca”.",
+    "tokens": [
+      "fuentes",
+      "médicas",
+      "gaza",
+      "informaron",
+      "menos",
+      "15",
+      "personas",
+      "perdieron",
+      "vida",
+      "viernes",
+      "tras",
+      "ataque",
+      "aéreo",
+      "tiendas",
+      "campaña",
+      "resguardaban",
+      "familias",
+      "desplazadas",
+      "mawasi",
+      ",",
+      "jan",
+      "yunis",
+      ",",
+      "sur",
+      "enclave",
+      "palestino",
+      ".",
+      "hospital",
+      "naser",
+      ",",
+      "cercano",
+      "lugar",
+      "ataque",
+      ",",
+      "recibió",
+      "cadáveres",
+      "víctimas",
+      ",",
+      "cuentan",
+      "menos",
+      "dos",
+      "menores",
+      "edad",
+      ".",
+      "mayoría",
+      "fallecidos",
+      "pertenecían",
+      "sola",
+      "familia",
+      "resguardaba",
+      "cerca",
+      "torres",
+      "taiba",
+      ",",
+      "oeste",
+      "jan",
+      "yunis",
+      ".",
+      "mismo",
+      "centro",
+      "salud",
+      "recibió",
+      "cuerpos",
+      "dos",
+      "personas",
+      "perdieron",
+      "vida",
+      "mientras",
+      "intentaban",
+      "conseguir",
+      "alimentos",
+      "norte",
+      "rafah",
+      ",",
+      "área",
+      "funciona",
+      "puntos",
+      "distribución",
+      "“",
+      "ayuda",
+      "humanitaria",
+      "”",
+      "fundación",
+      "humanitaria",
+      "gaza",
+      "(",
+      "ghf",
+      ")",
+      ",",
+      "organización",
+      "respaldada",
+      "entidad",
+      "sionista",
+      "unidos",
+      "utiliza",
+      "escasez",
+      "hambre",
+      "herramientas",
+      "exterminio",
+      "población",
+      "palestina",
+      ".",
+      "después",
+      "ataque",
+      ",",
+      "ejército",
+      "ocupación",
+      "ordenó",
+      "nuevas",
+      "evacuaciones",
+      "zona",
+      "jan",
+      "yunis",
+      ",",
+      "incluyendo",
+      "área",
+      "ubicado",
+      "hospital",
+      "naser",
+      ".",
+      "órdenes",
+      ",",
+      "sólo",
+      "queda",
+      "libre",
+      "estrecho",
+      "corredor",
+      "costero",
+      "mawasi",
+      ",",
+      "israel",
+      "definido",
+      "previamente",
+      "supuesta",
+      "“",
+      "zona",
+      "humanitaria",
+      "”",
+      "dejó",
+      "reconocer",
+      "tal",
+      "tras",
+      "reanudar",
+      "ofensiva",
+      "militar",
+      "18",
+      "marzo",
+      ".",
+      "pese",
+      "ello",
+      ",",
+      "miles",
+      "familias",
+      "desplazadas",
+      "continúan",
+      "siendo",
+      "forzadas",
+      "concentrarse",
+      "área",
+      ",",
+      "apenas",
+      "14",
+      "kilómetros",
+      "largo",
+      "ancho",
+      "alberga",
+      "425.000",
+      "personas",
+      "hacinadas",
+      ",",
+      "acuerdo",
+      "estimaciones",
+      "onu",
+      ".",
+      "director",
+      "operaciones",
+      "unrwa",
+      "gaza",
+      ",",
+      "sam",
+      "rose",
+      ",",
+      "advirtió",
+      "pasado",
+      "mes",
+      "lugar",
+      "“",
+      "saturado",
+      "nunca",
+      "”",
+      "."
+    ],
+    "token_count": 191,
+    "sentence_count": 8
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNS": 19,
+      "VBP": 13,
+      "IN": 16,
+      "NNP": 42,
+      "NN": 89,
+      "VBD": 1,
+      "$": 1,
+      "CD": 4,
+      "FW": 81,
+      "JJ": 26,
+      "VBZ": 2,
+      "RB": 1
+    },
+    "bigram_freq": {
+      "NNS-VBP": 10,
+      "VBP-IN": 2,
+      "IN-NNP": 3,
+      "NNP-NN": 13,
+      "NN-NN": 47,
+      "NN-VBD": 1,
+      "VBD-$": 1,
+      "$-CD": 1,
+      "CD-NN": 1,
+      "NN-FW": 10,
+      "FW-NN": 12,
+      "NN-NNS": 6,
+      "VBP-JJ": 6,
+      "JJ-NN": 13,
+      "IN-FW": 12,
+      "FW-FW": 46,
+      "FW-NNP": 12,
+      "NNP-NNP": 19,
+      "NNP-VBZ": 2,
+      "VBZ-JJ": 2,
+      "JJ-NNS": 5,
+      "VBP-NN": 2,
+      "NN-NNP": 6,
+      "NN-IN": 11,
+      "FW-JJ": 6,
+      "NN-JJ": 7,
+      "NNS-IN": 2,
+      "FW-NNS": 3,
+      "NNS-FW": 4,
+      "NNS-JJ": 1,
+      "NNP-FW": 5,
+      "NNS-NNP": 1,
+      "NNP-VBP": 2,
+      "JJ-FW": 3,
+      "NNP-IN": 1,
+      "IN-NN": 1,
+      "JJ-JJ": 4,
+      "JJ-NNP": 1,
+      "VBP-NNS": 2,
+      "FW-CD": 2,
+      "CD-FW": 1,
+      "NNS-RB": 1,
+      "RB-VBP": 1,
+      "VBP-CD": 1,
+      "CD-NNS": 2
+    },
+    "trigram_freq": {
+      "NNS-VBP-IN": 2,
+      "VBP-IN-NNP": 1,
+      "IN-NNP-NN": 2,
+      "NNP-NN-NN": 8,
+      "NN-NN-VBD": 1,
+      "NN-VBD-$": 1,
+      "VBD-$-CD": 1,
+      "$-CD-NN": 1,
+      "CD-NN-NN": 1,
+      "NN-NN-NN": 27,
+      "NN-NN-FW": 4,
+      "NN-FW-NN": 3,
+      "FW-NN-NNS": 1,
+      "NN-NNS-VBP": 5,
+      "NNS-VBP-JJ": 6,
+      "VBP-JJ-NN": 3,
+      "JJ-NN-NN": 6,
+      "NN-NN-NNS": 2,
+      "VBP-IN-FW": 1,
+      "IN-FW-FW": 7,
+      "FW-FW-FW": 27,
+      "FW-FW-NN": 4,
+      "FW-NN-NN": 4,
+      "NN-FW-FW": 4,
+      "FW-FW-NNP": 9,
+      "FW-NNP-NNP": 7,
+      "NNP-NNP-NNP": 7,
+      "NNP-NNP-VBZ": 2,
+      "NNP-VBZ-JJ": 2,
+      "VBZ-JJ-NNS": 1,
+      "JJ-NNS-VBP": 2,
+      "NNS-VBP-NN": 1,
+      "VBP-NN-NNP": 1,
+      "NN-NNP-NNP": 3,
+      "NNP-NNP-NN": 7,
+      "NN-NN-IN": 6,
+      "NN-IN-FW": 9,
+      "FW-NNP-NN": 1,
+      "NNP-NN-FW": 1,
+      "FW-NN-IN": 2,
+      "IN-FW-JJ": 2,
+      "FW-JJ-NN": 4,
+      "JJ-NN-IN": 2,
+      "NN-IN-NNP": 2,
+      "IN-NNP-NNP": 1,
+      "NN-NN-JJ": 3,
+      "NN-JJ-NNS": 2,
+      "JJ-NNS-IN": 1,
+      "NNS-IN-FW": 2,
+      "FW-FW-NNS": 2,
+      "FW-NNS-FW": 1,
+      "NNS-FW-JJ": 1,
+      "NN-NNS-JJ": 1,
+      "NNS-JJ-NNS": 1,
+      "JJ-NNS-FW": 1,
+      "NNS-FW-FW": 3,
+      "FW-NNP-FW": 4,
+      "NNP-FW-FW": 2,
+      "FW-FW-JJ": 3,
+      "JJ-NN-JJ": 2,
+      "NN-JJ-NN": 3,
+      "IN-FW-NNS": 1,
+      "FW-NNS-NNP": 1,
+      "NNS-NNP-VBP": 1,
+      "NNP-VBP-NN": 1,
+      "VBP-NN-FW": 1,
+      "NN-FW-NNP": 2,
+      "NNP-NNP-FW": 1,
+      "NNP-FW-NN": 2,
+      "IN-FW-NN": 2,
+      "JJ-NN-NNS": 2,
+      "VBP-JJ-FW": 2,
+      "JJ-FW-FW": 2,
+      "NNP-NN-NNP": 1,
+      "NNP-NNP-IN": 1,
+      "NNP-IN-NN": 1,
+      "IN-NN-NN": 1,
+      "FW-NN-NNP": 1,
+      "NNP-NN-JJ": 1,
+      "JJ-NN-FW": 1,
+      "FW-JJ-FW": 1,
+      "FW-NN-FW": 3,
+      "FW-NNS-IN": 1,
+      "NN-NN-NNP": 3,
+      "NN-NNP-NN": 3,
+      "NN-JJ-JJ": 2,
+      "JJ-JJ-NNP": 1,
+      "JJ-NNP-NNP": 1,
+      "NNP-NNP-VBP": 1,
+      "NNP-VBP-NNS": 1,
+      "VBP-NNS-VBP": 2,
+      "JJ-JJ-NN": 2,
+      "FW-NN-JJ": 1,
+      "JJ-FW-NN": 1,
+      "NN-FW-CD": 1,
+      "FW-CD-FW": 1,
+      "CD-FW-FW": 1,
+      "FW-JJ-JJ": 1,
+      "JJ-JJ-NNS": 1,
+      "JJ-NNS-RB": 1,
+      "NNS-RB-VBP": 1,
+      "RB-VBP-NNS": 1,
+      "VBP-JJ-JJ": 1,
+      "NNP-NN-NNS": 1,
+      "NNS-VBP-CD": 1,
+      "VBP-CD-NNS": 1,
+      "CD-NNS-FW": 2,
+      "FW-FW-CD": 1,
+      "FW-CD-NNS": 1,
+      "NNP-NN-IN": 1,
+      "NNP-FW-NNP": 1,
+      "VBZ-JJ-NN": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 89,
+        "FW": 81,
+        "NNP": 42,
+        "JJ": 26,
+        "NNS": 19
+      },
+      "top_bigrams": {
+        "NN-NN": 47,
+        "FW-FW": 46,
+        "NNP-NNP": 19,
+        "NNP-NN": 13,
+        "JJ-NN": 13
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 27,
+        "FW-FW-FW": 27,
+        "FW-FW-NNP": 9,
+        "NN-IN-FW": 9,
+        "NNP-NN-NN": 8
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 8,
+    "chunk_counts": {
+      "NP": 77,
+      "VP": 16,
+      "PP": 6,
+      "ADJP": 1
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 5,
+        "weight": 0.0463
+      },
+      {
+        "rule": "NP -> ('Jan', 'NNP') ('Yunis', 'NNP')",
+        "frequency": 3,
+        "weight": 0.0278
+      },
+      {
+        "rule": "NP -> ('Mawasi', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0185
+      },
+      {
+        "rule": "S -> NP VP PP VP ('menos', '$') ('15', 'CD') NP ('vida', 'FW') NP VP VP ('de', 'IN') ('campaña', 'FW') ('donde', 'FW') ('se', 'FW') NP ('desplazadas', 'FW') ('en', 'FW') NP (',', ',') NP (',', ',') NP VP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0093
+      },
+      {
+        "rule": "NP -> ('Fuentes', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0093
+      },
+      {
+        "rule": "VP -> ('médicas', 'VBP')",
+        "frequency": 1,
+        "weight": 0.0093
+      },
+      {
+        "rule": "NP -> ('Gaza', 'NNP') ('informaron', 'NN') ('que', 'NN')",
+        "frequency": 1,
+        "weight": 0.0093
+      },
+      {
+        "rule": "VP -> ('al', 'VBD')",
+        "frequency": 1,
+        "weight": 0.0093
+      },
+      {
+        "rule": "NP -> ('personas', 'NN') ('perdieron', 'NN') ('la', 'NN')",
+        "frequency": 1,
+        "weight": 0.0093
+      },
+      {
+        "rule": "NP -> ('este', 'NN') ('viernes', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0093
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Fuentes"
+      },
+      {
+        "label": "VP",
+        "text": "médicas"
+      },
+      {
+        "label": "PP",
+        "text": "de Gaza informaron que"
+      },
+      {
+        "label": "NP",
+        "text": "Gaza informaron que"
+      },
+      {
+        "label": "VP",
+        "text": "al"
+      },
+      {
+        "label": "NP",
+        "text": "personas perdieron la"
+      },
+      {
+        "label": "NP",
+        "text": "este viernes"
+      },
+      {
+        "label": "VP",
+        "text": "tras un ataque aéreo contra las"
+      },
+      {
+        "label": "NP",
+        "text": "un ataque aéreo contra las"
+      },
+      {
+        "label": "VP",
+        "text": "tiendas"
+      },
+      {
+        "label": "NP",
+        "text": "resguardaban familias"
+      },
+      {
+        "label": "NP",
+        "text": "Mawasi"
+      },
+      {
+        "label": "NP",
+        "text": "Jan Yunis"
+      },
+      {
+        "label": "NP",
+        "text": "al sur del"
+      },
+      {
+        "label": "VP",
+        "text": "enclave palestino"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Fuentes/NNS)\n  (VP médicas/VBP)\n  (PP de/IN (NP Gaza/NNP informaron/NN que/NN))\n  (VP al/VBD)\n  menos/$\n  15/CD\n  (NP personas/NN perdieron/NN la/NN)\n  vida/FW\n  (NP este/NN viernes/NNS)\n  (VP tras/VBP (NP un/JJ ataque/NN aéreo/NN contra/NN las/NNS))\n  (VP tiendas/VBP)\n  de/IN\n  campaña/FW\n  donde/FW\n  se/FW\n  (NP resguardaban/NN familias/NN)\n  desplazadas/FW\n  en/FW\n  (NP Mawasi/NNP)\n  ,/,\n  (NP Jan/NNP Yunis/NNP)\n  ,/,\n  (NP al/JJ sur/NN del/NN)\n  (VP enclave/VBP (NP palestino/NN))\n  ./.)",
+      "(S\n  (NP LEA/NNP TAMBIÉN/NNP Hamás/NNP denuncia/NN uso/NN)\n  de/IN\n  puntos/FW\n  de/FW\n  ayuda/FW\n  en/FW\n  (NP Gaza/NNP para/NN espionaje/NN)\n  y/FW\n  (NP contrabando/NN)\n  de/IN\n  drogas/FW\n  (NP por/JJ parte/NN)\n  (PP de/IN (NP Israel/NNP El/NNP Hospital/NNP Naser/NNP))\n  ,/,\n  (NP cercano/NN al/NN lugar/NN del/NN ataque/NN)\n  ,/,\n  (VP recibió/VB (NP los/JJ cadáveres/NNS))\n  de/IN\n  las/FW\n  (NP víctimas/NN)\n  ,/,\n  (NP entre/JJ quienes/NNS)\n  se/FW\n  (NP cuentan/JJ por/NN lo/NN menos/NNS)\n  (NP dos/JJ menores/NNS)\n  (PP de/IN (NP edad/NN))\n  ./.)",
+      "(S\n  (NP La/NNP)\n  mayoría/FW\n  de/FW\n  los/FW\n  (NP fallecidos/JJ pertenecían/NN)\n  (NP\n    a/DT\n    una/JJ\n    sola/NN\n    familia/NN\n    que/NN\n    se/NN\n    resguardaba/NN\n    cerca/NN)\n  de/IN\n  las/FW\n  (NP torres/NNS Taiba/NNP)\n  ,/,\n  (NP al/JJ oeste/NN)\n  (PP de/IN (NP Jan/NNP Yunis/NNP))\n  ./.)",
+      "(S\n  (NP El/NNP)\n  mismo/FW\n  (NP centro/NN)\n  de/IN\n  salud/FW\n  (NP recibió/NN también/NN)\n  (NP los/JJ cuerpos/NN)\n  de/IN\n  otras/FW\n  dos/FW\n  personas/FW\n  (NP que/NN perdieron/NN la/NN)\n  vida/FW\n  mientras/FW\n  (NP intentaban/JJ conseguir/NN alimentos/NNS)\n  (VP en/VBP el/JJ)\n  norte/FW\n  de/FW\n  (NP Rafah/NNP)\n  ,/,\n  (NP área/NNP)\n  (VP donde/VBZ funciona/JJ)\n  uno/FW\n  de/FW\n  los/FW\n  puntos/FW\n  de/FW\n  distribución/FW\n  de/FW\n  “/FW\n  ayuda/FW\n  humanitaria/FW\n  ”/FW\n  de/FW\n  la/FW\n  (NP Fundación/NNP Humanitaria/NNP para/NN Gaza/NNP)\n  (/(\n  (NP GHF/NNP)\n  )/)\n  ,/,\n  (NP organización/JJ respaldada/NN por/NN la/NN)\n  entidad/FW\n  (NP sionista/NN y/NN Estados/NNP Unidos/NNP que/NN)\n  (NP utiliza/JJ la/NN)\n  escasez/FW\n  (NP y/NN el/NN hambre/NN como/NN herramientas/NN)\n  de/IN\n  exterminio/FW\n  (ADJP contra/JJ)\n  la/FW\n  (NP población/JJ palestina/NN)\n  ./.)",
+      "(S\n  (NP Después/NNP del/NN ataque/NN)\n  ,/,\n  (NP el/JJ Ejército/NNP)\n  de/FW\n  ocupación/FW\n  ordenó/FW\n  nuevas/FW\n  (NP evacuaciones/NNS)\n  en/IN\n  la/FW\n  zona/FW\n  de/FW\n  (NP Jan/NNP Yunis/NNP)\n  ,/,\n  (NP incluyendo/NN el/NN área/NNP donde/NN está/NN)\n  (NP ubicado/JJ el/JJ Hospital/NNP Naser/NNP)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "ORGANISMOS_INTERNACIONALES",
+      "CANTIDADES_NUMERICAS",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "REGIONES_PROVINCIAS",
+      "CRISIS_HUMANITARIA_SERVICIOS",
+      "ORGANIZACIONES_SOCIALES",
+      "PAISES",
+      "LOCALIZACIONES_ESPECIFICAS",
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "CONFLICTOS_ARMADOS_OPERACIONES",
+      "INFRAESTRUCTURA_SERVICIOS",
+      "PERIODOS_TEMPORALES"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "ocupación ordenó nuevas evacuaciones en la zona",
+        "position": [
+          1108,
+          1155
+        ],
+        "start": 1108,
+        "end": 1155
+      },
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "ataque aéreo",
+        "position": [
+          99,
+          111
+        ],
+        "start": 99,
+        "end": 111
+      },
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "ocupación",
+        "position": [
+          1108,
+          1117
+        ],
+        "start": 1108,
+        "end": 1117
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "advirtió",
+        "position": [
+          1762,
+          1770
+        ],
+        "start": 1762,
+        "end": 1770
+      },
+      {
+        "category": "CRISIS_HUMANITARIA_SERVICIOS",
+        "matched_text": "ayuda humanitaria",
+        "position": [
+          846,
+          863
+        ],
+        "start": 846,
+        "end": 863
+      },
+      {
+        "category": "ORGANISMOS_INTERNACIONALES",
+        "matched_text": "onu",
+        "position": [
+          1699,
+          1702
+        ],
+        "start": 1699,
+        "end": 1702
+      },
+      {
+        "category": "ORGANIZACIONES_SOCIALES",
+        "matched_text": "fundación",
+        "position": [
+          871,
+          880
+        ],
+        "start": 871,
+        "end": 880
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "hospital",
+        "position": [
+          357,
+          365
+        ],
+        "start": 357,
+        "end": 365
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "estados unidos",
+        "position": [
+          960,
+          974
+        ],
+        "start": 960,
+        "end": 974
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "palestina",
+        "position": [
+          1062,
+          1071
+        ],
+        "start": 1062,
+        "end": 1071
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "área donde",
+        "position": [
+          788,
+          798
+        ],
+        "start": 788,
+        "end": 798
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "centro de",
+        "position": [
+          638,
+          647
+        ],
+        "start": 638,
+        "end": 647
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "hospital naser",
+        "position": [
+          357,
+          371
+        ],
+        "start": 357,
+        "end": 371
+      },
+      {
+        "category": "PERIODOS_TEMPORALES",
+        "matched_text": "pasado mes",
+        "position": [
+          1774,
+          1784
+        ],
+        "start": 1774,
+        "end": 1784
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "15 personas",
+        "position": [
+          48,
+          59
+        ],
+        "start": 48,
+        "end": 59
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "425.000 personas",
+        "position": [
+          1637,
+          1653
+        ],
+        "start": 1637,
+        "end": 1653
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "más de 425.000",
+        "position": [
+          1630,
+          1644
+        ],
+        "start": 1630,
+        "end": 1644
+      }
+    ],
+    "match_count": 17
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Israel\nEl Hospital Naser",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Jan Yunis",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "UNRWA",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Sam Rose",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Hamás",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Estados Unidos",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Fundación Humanitaria para Gaza",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Hospital Naser",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Rafah",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Israel",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "ONU",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "GHF",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Taiba",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Mawasi",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Gaza",
+        "relacion": "INFORMAR",
+        "objeto": "Mawasi"
+      },
+      {
+        "sujeto": "Gaza",
+        "relacion": "INFORMAR",
+        "objeto": "Jan Yunis"
+      },
+      {
+        "sujeto": "Hamás",
+        "relacion": "DENUNCIAR",
+        "objeto": "Gaza"
+      },
+      {
+        "sujeto": "Hamás",
+        "relacion": "DENUNCIAR",
+        "objeto": "Israel\nEl Hospital Naser"
+      },
+      {
+        "sujeto": "Hospital Naser",
+        "relacion": "ORDENAR",
+        "objeto": "Jan Yunis"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.0,
+    "pos": 0.0,
+    "neu": 1.0,
+    "neg": 0.0,
+    "label": "neutral"
+  }
+}

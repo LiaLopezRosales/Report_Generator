@@ -1,0 +1,707 @@
+{
+  "url": "https://www.telesurtv.net/fuerzas-yemenitas-asestan-duro-golpe-a-flota-estadounidense/",
+  "title": "Fuerzas yemenitas asestan duro golpe a flota estadounidense - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "EE.UU.",
+    "Portaviones",
+    "Yemen"
+  ],
+  "text": "En un ataque coordinado que ha sacudido la región, fuerzas yemenitas han logrado dañar un portaviones y dos destructores estadounidenses en el mar Rojo y el océano Índico.\n“La operación ha logrado sus objetivos con éxito y ha frustrado la operación que el enemigo estadounidense estaba preparando contra nuestro país”, aseguró Sari.\nEl ataque se dirigió contra el portaviones Abraham Lincoln, ubicado en el mar Arábigo, y dos destructores que se encontraban en la zona.\nLas fuerzas yemenitas llevaron a cabo las operaciones en respuesta a las presuntas intenciones bélicas de Estados Unidos contra Yemen.\nHasta el momento, el Comando Central de Estados Unidos (Centcom) no se ha pronunciado sobre el ataque, pero horas antes había anunciado en su cuenta de X que un grupo de aviones de combate del USS Abraham Lincoln estaba “apoyando las operaciones contra los hutíes respaldados por Irán”.\nEn los últimos meses, el ejército yemení ha atacado varios barcos vinculados a intereses israelíes en el mar Rojo y el estratégico estrecho de Bab El-Mandeb, en apoyo a la resistencia palestina en la Franja de Gaza.\nEl ejército yemení ha reiterado en múltiples ocasiones que sus operaciones continuarán hasta que cese la agresión israelí contra Gaza y el Líbano, y se levante el bloqueo impuesto a la Franja de Gaza.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/fuerzas-yemenitas-asestan-duro-golpe-a-flota-estadounidense/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-11.json",
+    "message_index": 1134,
+    "message_id": 80292,
+    "date": "2024-11-13T08:55:07+00:00",
+    "text": "teleSUR\nFuerzas yemenitas asestan duro golpe a flota estadounidense\nhttps://www.telesurtv.net/fuerzas-yemenitas-asestan-duro-golpe-a-flota-estadounidense/",
+    "photo_path": null,
+    "views": 2519,
+    "reactions": {
+      "👏": 70,
+      "👍": 20,
+      "🏆": 4,
+      "🔥": 3,
+      "❤": 2
+    },
+    "total_reactions": 99
+  },
+  "preprocessing": {
+    "cleaned": "en un ataque coordinado que ha sacudido la región, fuerzas yemenitas han logrado dañar un portaviones y dos destructores estadounidenses en el mar rojo y el océano índico. “la operación ha logrado sus objetivos con éxito y ha frustrado la operación que el enemigo estadounidense estaba preparando contra nuestro país”, aseguró sari. el ataque se dirigió contra el portaviones abraham lincoln, ubicado en el mar arábigo, y dos destructores que se encontraban en la zona. las fuerzas yemenitas llevaron a cabo las operaciones en respuesta a las presuntas intenciones bélicas de estados unidos contra yemen. hasta el momento, el comando central de estados unidos (centcom) no se ha pronunciado sobre el ataque, pero horas antes había anunciado en su cuenta de x que un grupo de aviones de combate del uss abraham lincoln estaba “apoyando las operaciones contra los hutíes respaldados por irán”. en los últimos meses, el ejército yemení ha atacado varios barcos vinculados a intereses israelíes en el mar rojo y el estratégico estrecho de bab el-mandeb, en apoyo a la resistencia palestina en la franja de gaza. el ejército yemení ha reiterado en múltiples ocasiones que sus operaciones continuarán hasta que cese la agresión israelí contra gaza y el líbano, y se levante el bloqueo impuesto a la franja de gaza.",
+    "tokens": [
+      "ataque",
+      "coordinado",
+      "sacudido",
+      "región",
+      ",",
+      "fuerzas",
+      "yemenitas",
+      "logrado",
+      "dañar",
+      "portaviones",
+      "dos",
+      "destructores",
+      "estadounidenses",
+      "mar",
+      "rojo",
+      "océano",
+      "índico",
+      ".",
+      "“",
+      "operación",
+      "logrado",
+      "objetivos",
+      "éxito",
+      "frustrado",
+      "operación",
+      "enemigo",
+      "estadounidense",
+      "preparando",
+      "país",
+      "”",
+      ",",
+      "aseguró",
+      "sari",
+      ".",
+      "ataque",
+      "dirigió",
+      "portaviones",
+      "abraham",
+      "lincoln",
+      ",",
+      "ubicado",
+      "mar",
+      "arábigo",
+      ",",
+      "dos",
+      "destructores",
+      "encontraban",
+      "zona",
+      ".",
+      "fuerzas",
+      "yemenitas",
+      "llevaron",
+      "cabo",
+      "operaciones",
+      "respuesta",
+      "presuntas",
+      "intenciones",
+      "bélicas",
+      "unidos",
+      "yemen",
+      ".",
+      "momento",
+      ",",
+      "comando",
+      "central",
+      "unidos",
+      "(",
+      "centcom",
+      ")",
+      "pronunciado",
+      "ataque",
+      ",",
+      "horas",
+      "anunciado",
+      "cuenta",
+      "x",
+      "grupo",
+      "aviones",
+      "combate",
+      "uss",
+      "abraham",
+      "lincoln",
+      "“",
+      "apoyando",
+      "operaciones",
+      "hutíes",
+      "respaldados",
+      "irán",
+      "”",
+      ".",
+      "últimos",
+      "meses",
+      ",",
+      "ejército",
+      "yemení",
+      "atacado",
+      "varios",
+      "barcos",
+      "vinculados",
+      "intereses",
+      "israelíes",
+      "mar",
+      "rojo",
+      "estratégico",
+      "estrecho",
+      "bab",
+      "el-mandeb",
+      ",",
+      "apoyo",
+      "resistencia",
+      "palestina",
+      "franja",
+      "gaza",
+      ".",
+      "ejército",
+      "yemení",
+      "reiterado",
+      "múltiples",
+      "ocasiones",
+      "operaciones",
+      "continuarán",
+      "cese",
+      "agresión",
+      "israelí",
+      "gaza",
+      "líbano",
+      ",",
+      "levante",
+      "bloqueo",
+      "impuesto",
+      "franja",
+      "gaza",
+      "."
+    ],
+    "token_count": 133,
+    "sentence_count": 7
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 36,
+      "JJ": 19,
+      "NN": 59,
+      "NNS": 15,
+      "VBP": 9,
+      "VBZ": 7,
+      "FW": 47,
+      "IN": 6,
+      "RB": 2,
+      "DT": 1
+    },
+    "bigram_freq": {
+      "NNP-JJ": 2,
+      "JJ-NN": 10,
+      "NN-NN": 33,
+      "NN-NNS": 5,
+      "NNS-VBP": 6,
+      "VBP-JJ": 4,
+      "NN-JJ": 4,
+      "JJ-NNS": 3,
+      "NNS-NN": 1,
+      "NN-VBZ": 3,
+      "VBZ-VBZ": 1,
+      "VBZ-FW": 3,
+      "FW-FW": 26,
+      "FW-NNP": 14,
+      "NNP-FW": 8,
+      "FW-NN": 6,
+      "NN-NNP": 5,
+      "NNP-NNP": 13,
+      "NNP-NN": 7,
+      "NN-FW": 4,
+      "NNS-NNP": 1,
+      "VBZ-JJ": 3,
+      "JJ-JJ": 3,
+      "NN-IN": 5,
+      "IN-FW": 4,
+      "NNS-NNS": 3,
+      "NNS-RB": 2,
+      "RB-VBP": 2,
+      "VBP-NNS": 3,
+      "NNS-FW": 1,
+      "JJ-NNP": 2,
+      "NNP-VBZ": 3,
+      "NNP-DT": 1,
+      "DT-NN": 1,
+      "IN-JJ": 1,
+      "FW-JJ": 1,
+      "NNS-JJ": 1,
+      "VBP-IN": 1,
+      "NNP-VBP": 1,
+      "VBP-NN": 1,
+      "IN-NNS": 1,
+      "JJ-FW": 1
+    },
+    "trigram_freq": {
+      "NNP-JJ-NN": 1,
+      "JJ-NN-NN": 3,
+      "NN-NN-NN": 21,
+      "NN-NN-NNS": 3,
+      "NN-NNS-VBP": 3,
+      "NNS-VBP-JJ": 4,
+      "VBP-JJ-NN": 1,
+      "JJ-NN-JJ": 1,
+      "NN-JJ-NNS": 1,
+      "JJ-NNS-NN": 1,
+      "NNS-NN-VBZ": 1,
+      "NN-VBZ-VBZ": 1,
+      "VBZ-VBZ-FW": 1,
+      "VBZ-FW-FW": 3,
+      "FW-FW-FW": 16,
+      "FW-FW-NNP": 9,
+      "FW-NNP-FW": 4,
+      "NNP-FW-NN": 3,
+      "FW-NN-NNP": 1,
+      "NN-NNP-NNP": 2,
+      "NNP-NNP-FW": 4,
+      "FW-NN-NN": 3,
+      "NN-NN-JJ": 3,
+      "NN-JJ-NN": 2,
+      "JJ-NN-NNP": 1,
+      "NN-NNP-NN": 2,
+      "NNP-NN-NN": 4,
+      "NN-NN-FW": 2,
+      "NN-FW-NN": 1,
+      "FW-NN-FW": 2,
+      "NN-FW-FW": 2,
+      "FW-NNP-NNP": 7,
+      "NNP-NNP-NN": 3,
+      "JJ-NN-NNS": 1,
+      "NN-NNS-NNP": 1,
+      "NNS-NNP-NNP": 1,
+      "NN-NN-NNP": 2,
+      "NNP-NN-VBZ": 1,
+      "NN-VBZ-JJ": 2,
+      "VBZ-JJ-JJ": 1,
+      "JJ-JJ-NN": 3,
+      "JJ-NN-IN": 4,
+      "NN-IN-FW": 3,
+      "IN-FW-FW": 3,
+      "FW-NNP-NN": 1,
+      "NNP-NN-NNS": 1,
+      "VBP-JJ-NNS": 2,
+      "JJ-NNS-NNS": 1,
+      "NNS-NNS-RB": 2,
+      "NNS-RB-VBP": 2,
+      "RB-VBP-NNS": 2,
+      "VBP-NNS-VBP": 1,
+      "NNS-VBP-NNS": 1,
+      "VBP-NNS-FW": 1,
+      "NNS-FW-FW": 1,
+      "NNP-NNP-JJ": 1,
+      "NNP-JJ-NNP": 1,
+      "JJ-NNP-NNP": 1,
+      "NNP-NNP-VBZ": 1,
+      "NNP-VBZ-FW": 2,
+      "NNP-FW-NNP": 4,
+      "NNP-NNP-NNP": 2,
+      "NNP-NNP-DT": 1,
+      "NNP-DT-NN": 1,
+      "DT-NN-NN": 1,
+      "NN-NN-VBZ": 1,
+      "VBZ-JJ-NN": 1,
+      "NN-IN-JJ": 1,
+      "IN-JJ-NN": 1,
+      "IN-FW-JJ": 1,
+      "FW-JJ-NN": 1,
+      "NN-NNS-JJ": 1,
+      "NNS-JJ-JJ": 1,
+      "FW-NNP-VBZ": 1,
+      "FW-FW-NN": 1,
+      "JJ-NNS-VBP": 1,
+      "NNS-VBP-IN": 1,
+      "VBP-IN-FW": 1,
+      "NNP-FW-FW": 1,
+      "NNP-NNP-VBP": 1,
+      "NNP-VBP-NN": 1,
+      "VBP-NN-NN": 1,
+      "NN-NN-IN": 1,
+      "NN-IN-NNS": 1,
+      "IN-NNS-NNS": 1,
+      "VBP-NNS-NNS": 1,
+      "NNS-NNS-VBP": 1,
+      "VBP-JJ-JJ": 1,
+      "NN-JJ-NNP": 1,
+      "JJ-NNP-NN": 1,
+      "NNP-NN-NNP": 1,
+      "NN-NNP-VBZ": 1,
+      "NNP-VBZ-JJ": 1,
+      "VBZ-JJ-FW": 1,
+      "JJ-FW-NN": 1,
+      "NN-FW-NNP": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 59,
+        "FW": 47,
+        "NNP": 36,
+        "JJ": 19,
+        "NNS": 15
+      },
+      "top_bigrams": {
+        "NN-NN": 33,
+        "FW-FW": 26,
+        "FW-NNP": 14,
+        "NNP-NNP": 13,
+        "JJ-NN": 10
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 21,
+        "FW-FW-FW": 16,
+        "FW-FW-NNP": 9,
+        "FW-NNP-NNP": 7,
+        "NNS-VBP-JJ": 4
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 7,
+    "chunk_counts": {
+      "NP": 58,
+      "VP": 17,
+      "ADJP": 1,
+      "PP": 6
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 3,
+        "weight": 0.0337
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0225
+      },
+      {
+        "rule": "NP -> ('Estados', 'NNP') ('Unidos', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0225
+      },
+      {
+        "rule": "NP -> ('Gaza', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0225
+      },
+      {
+        "rule": "S -> NP NP (',', ',') NP VP VP ('el', 'FW') NP VP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0112
+      },
+      {
+        "rule": "NP -> ('En', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0112
+      },
+      {
+        "rule": "NP -> ('un', 'JJ') ('ataque', 'NN') ('coordinado', 'NN') ('que', 'NN') ('ha', 'NN') ('sacudido', 'NN') ('la', 'NN') ('región', 'NN')",
+        "frequency": 1,
+        "weight": 0.0112
+      },
+      {
+        "rule": "NP -> ('fuerzas', 'JJ') ('yemenitas', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0112
+      },
+      {
+        "rule": "VP -> ('han', 'VBP') NP NP ('y', 'RB') NP",
+        "frequency": 1,
+        "weight": 0.0112
+      },
+      {
+        "rule": "NP -> ('logrado', 'JJ') ('dañar', 'NN')",
+        "frequency": 1,
+        "weight": 0.0112
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "En"
+      },
+      {
+        "label": "NP",
+        "text": "un ataque coordinado que ha sacudido la región"
+      },
+      {
+        "label": "NP",
+        "text": "fuerzas yemenitas"
+      },
+      {
+        "label": "VP",
+        "text": "han logrado dañar un portaviones y dos destructores"
+      },
+      {
+        "label": "NP",
+        "text": "logrado dañar"
+      },
+      {
+        "label": "NP",
+        "text": "un portaviones"
+      },
+      {
+        "label": "NP",
+        "text": "dos destructores"
+      },
+      {
+        "label": "VP",
+        "text": "estadounidenses en"
+      },
+      {
+        "label": "NP",
+        "text": "mar Rojo y"
+      },
+      {
+        "label": "VP",
+        "text": "el océano Índico"
+      },
+      {
+        "label": "NP",
+        "text": "océano Índico"
+      },
+      {
+        "label": "NP",
+        "text": "“ La"
+      },
+      {
+        "label": "VP",
+        "text": "ha logrado sus objetivos con éxito y ha frustrado la"
+      },
+      {
+        "label": "NP",
+        "text": "logrado sus"
+      },
+      {
+        "label": "NP",
+        "text": "objetivos con éxito y ha frustrado la"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP En/NNP)\n  (NP\n    un/JJ\n    ataque/NN\n    coordinado/NN\n    que/NN\n    ha/NN\n    sacudido/NN\n    la/NN\n    región/NN)\n  ,/,\n  (NP fuerzas/JJ yemenitas/NNS)\n  (VP\n    han/VBP\n    (NP logrado/JJ dañar/NN)\n    (NP un/JJ portaviones/NNS)\n    y/RB\n    (NP dos/JJ destructores/NNS))\n  (VP estadounidenses/VBZ en/JJ)\n  el/FW\n  (NP mar/NN Rojo/NNP y/NNP)\n  (VP el/VBZ (NP océano/JJ Índico/NNP))\n  ./.)",
+      "(S\n  (NP “/JJ La/NNP)\n  operación/MD\n  (VP\n    ha/VB\n    (NP logrado/JJ sus/NN)\n    (NP objetivos/JJ con/NN éxito/NNP y/NNP ha/NN frustrado/NN la/NN))\n  operación/FW\n  (NP que/NN)\n  el/FW\n  enemigo/FW\n  estadounidense/FW\n  estaba/FW\n  preparando/FW\n  contra/FW\n  nuestro/FW\n  (NP país/NN ”/NN)\n  ,/,\n  (NP aseguró/JJ Sari/NNP)\n  ./.)",
+      "(S\n  (NP El/NNP ataque/NN se/NN dirigió/NN)\n  (NP contra/JJ el/NN portaviones/NNS Abraham/NNP Lincoln/NNP)\n  ,/,\n  (ADJP ubicado/JJ)\n  en/FW\n  el/FW\n  (NP mar/NN Arábigo/NNP)\n  ,/,\n  (NP y/NNP dos/NN)\n  (VP destructores/VBZ (NP que/JJ se/JJ encontraban/NN))\n  (PP en/IN (NP la/NN zona/NN))\n  ./.)",
+      "(S\n  (NP Las/NNP fuerzas/NN yemenitas/NNS)\n  (VP llevaron/VBP (NP a/DT cabo/NN las/NN operaciones/NNS))\n  (VP en/VBP)\n  (VP respuesta/VB (NP a/DT las/JJ presuntas/NN intenciones/NNS))\n  bélicas/FW\n  de/FW\n  (NP Estados/NNP Unidos/NNP)\n  (NP contra/JJ Yemen/NNS)\n  ./.)",
+      "(S\n  (NP Hasta/NNP el/NN momento/NN)\n  ,/,\n  el/FW\n  (NP Comando/NNP Central/NNP)\n  de/FW\n  (NP Estados/NNP Unidos/NNP)\n  (/(\n  (NP Centcom/NNP)\n  )/)\n  (NP no/DT se/JJ ha/NN pronunciado/NN sobre/NN el/NN ataque/NN)\n  ,/,\n  (NP pero/NN horas/NNS)\n  (VP antes/VBZ (NP había/JJ anunciado/NN))\n  (PP en/IN (NP su/JJ cuenta/NN))\n  (PP de/IN (NP X/NNP que/NN))\n  (NP un/JJ grupo/NN)\n  de/IN\n  aviones/FW\n  de/FW\n  combate/FW\n  del/FW\n  (NP USS/NNP Abraham/NNP Lincoln/NNP estaba/NN “/NNP)\n  (VP\n    apoyando/VBZ\n    (NP las/JJ operaciones/NNS)\n    (NP\n      contra/JJ\n      los/JJ\n      hutíes/NN\n      respaldados/NN\n      por/NN\n      Irán/NNP\n      ”/NNP))\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "RECURSOS_NATURALES",
+      "ANTIIMPERIALISMO_SOBERANIA",
+      "REGIONES_PROVINCIAS",
+      "CRISIS_HUMANITARIA_SERVICIOS",
+      "PAISES",
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "CONFLICTOS_ARMADOS_OPERACIONES",
+      "RELACIONES_INTERNACIONALES"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "ataque coordinado que ha sacudido la región, fuerzas",
+        "position": [
+          6,
+          58
+        ],
+        "start": 6,
+        "end": 58
+      },
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "impuesto",
+        "position": [
+          1279,
+          1287
+        ],
+        "start": 1279,
+        "end": 1287
+      },
+      {
+        "category": "RELACIONES_INTERNACIONALES",
+        "matched_text": "en apoyo a la resistencia palestina",
+        "position": [
+          1050,
+          1085
+        ],
+        "start": 1050,
+        "end": 1085
+      },
+      {
+        "category": "CRISIS_HUMANITARIA_SERVICIOS",
+        "matched_text": "bloqueo impuesto a la franja de gaza",
+        "position": [
+          1271,
+          1307
+        ],
+        "start": 1271,
+        "end": 1307
+      },
+      {
+        "category": "RECURSOS_NATURALES",
+        "matched_text": "mar",
+        "position": [
+          143,
+          146
+        ],
+        "start": 143,
+        "end": 146
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "estados unidos",
+        "position": [
+          576,
+          590
+        ],
+        "start": 576,
+        "end": 590
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "palestina",
+        "position": [
+          1076,
+          1085
+        ],
+        "start": 1076,
+        "end": 1085
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "región, fuerzas",
+        "position": [
+          43,
+          58
+        ],
+        "start": 43,
+        "end": 58
+      },
+      {
+        "category": "ANTIIMPERIALISMO_SOBERANIA",
+        "matched_text": "bloqueo",
+        "position": [
+          1271,
+          1278
+        ],
+        "start": 1271,
+        "end": 1278
+      }
+    ],
+    "match_count": 9
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Irán",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Franja de Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Sari",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "mar Arábigo",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Abraham Lincoln",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Estados Unidos",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "estrecho de Bab El-Mandeb",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "mar Rojo",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Comando Central de",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Líbano",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Índico",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Centcom",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Yemen",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Comando Central de",
+        "relacion": "PRONUNCIAR",
+        "objeto": "Abraham Lincoln"
+      },
+      {
+        "sujeto": "Comando Central de",
+        "relacion": "PRONUNCIAR",
+        "objeto": "Irán"
+      },
+      {
+        "sujeto": "Estados Unidos",
+        "relacion": "PRONUNCIAR",
+        "objeto": "Abraham Lincoln"
+      },
+      {
+        "sujeto": "Estados Unidos",
+        "relacion": "PRONUNCIAR",
+        "objeto": "Irán"
+      },
+      {
+        "sujeto": "Centcom",
+        "relacion": "PRONUNCIAR",
+        "objeto": "Abraham Lincoln"
+      },
+      {
+        "sujeto": "Centcom",
+        "relacion": "PRONUNCIAR",
+        "objeto": "Irán"
+      },
+      {
+        "sujeto": "Abraham Lincoln",
+        "relacion": "ESTAR_ANUNCIAR_PRONUNCIAR",
+        "objeto": "Irán"
+      },
+      {
+        "sujeto": "mar Rojo",
+        "relacion": "ATACAR",
+        "objeto": "Franja de Gaza"
+      },
+      {
+        "sujeto": "estrecho de Bab El-Mandeb",
+        "relacion": "ATACAR",
+        "objeto": "Franja de Gaza"
+      },
+      {
+        "sujeto": "Gaza",
+        "relacion": "CESAR_CONTINUAR_REITERAR",
+        "objeto": "Franja de Gaza"
+      },
+      {
+        "sujeto": "Líbano",
+        "relacion": "CESAR_CONTINUAR_REITERAR",
+        "objeto": "Franja de Gaza"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.8807,
+    "pos": 0.068,
+    "neu": 0.921,
+    "neg": 0.01,
+    "label": "positive"
+  }
+}

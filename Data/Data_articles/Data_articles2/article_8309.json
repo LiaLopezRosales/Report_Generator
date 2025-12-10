@@ -1,0 +1,759 @@
+{
+  "url": "https://www.telesurtv.net/ataques-israelies-en-libano-han-causado-3481-muertos-y-14786-heridos/",
+  "title": "Ataques israelíes en Líbano han causado 3.481 muertos y 14.786 heridos - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Ataques Israelíes",
+    "Beirut",
+    "ministerio de salud pública",
+    "Tiro"
+  ],
+  "text": "En la jornada del 16 de noviembre fueron asesinadas 29 personas, mientras que 122 resultaron heridas a causa de los ataques aéreos de Israel. La cartera de Salud ha emitido varios comunicados a partir de ataques cometidos en la jornada de hoy.\nUn ataque en el barrio comercial Mar Elias, Beirut, causó la muerte de una persona y dejó heridas a otras veintidós, dos de las cuales se encuentran en estado crítico, informó el ministerio en un comunicado de esta tarde. El objetivo del ataque fue un edificio residencial, y la población civil no fue advertida previamente para su evacuación.\nEn Ras Al-Nabaa, un ataque causó la muerte de cuatro personas, entre ellas una mujer, e hirió a otras catorce, entre ellas dos niños. Una de las personas asesinadas fue el responsable de prensa y portavoz de Hezbolá, Mohammad Afif, tras un ataque a la sede del partido panarabista Baaz.\nTodos los días, el Ejército convierte al personal médico en objetivo directo de ataques. Este 17 de noviembre se reportan al menos tres ataques, uno de ellos contra el centro de la Asociación Islámica de la Salud en Humin al-Tahta, el cual causó la muerte de un paramédico.\nDos paramédicos de la Asociación Islámica de la Salud fueron heridos en un ataque contra un centro ambulatorio en Al-Bazouriya. Mientras que otro paramédico fue asesinado a consecuencia de un ataque contra un centro sanitario en Hanawiyeh.\nEste domingo también se reportan bombardeos en las localidades de la región de Tiro en el sur libanés, los cuales dejaron 11 personas muertas y heridas a otras 48.\nEl Ministerio de Educación libanés anunció el cierre de las escuelas de la capital y sus alrededores para los días lunes y el martes, como medida de seguridad ante los incesantes bombardeos.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/ataques-israelies-en-libano-han-causado-3481-muertos-y-14786-heridos/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-11.json",
+    "message_index": 838,
+    "message_id": 80598,
+    "date": "2024-11-18T02:55:12+00:00",
+    "text": "teleSUR\nAtaques israelíes en Líbano han causado 3481 muertos y 14786 heridos\nhttps://www.telesurtv.net/ataques-israelies-en-libano-han-causado-3481-muertos-y-14786-heridos/",
+    "photo_path": null,
+    "views": 3318,
+    "reactions": {
+      "🤬": 64,
+      "😡": 2
+    },
+    "total_reactions": 66
+  },
+  "preprocessing": {
+    "cleaned": "en la jornada del 16 de noviembre fueron asesinadas 29 personas, mientras que 122 resultaron heridas a causa de los ataques aéreos de israel. la cartera de salud ha emitido varios comunicados a partir de ataques cometidos en la jornada de hoy. un ataque en el barrio comercial mar elias, beirut, causó la muerte de una persona y dejó heridas a otras veintidós, dos de las cuales se encuentran en estado crítico, informó el ministerio en un comunicado de esta tarde. el objetivo del ataque fue un edificio residencial, y la población civil no fue advertida previamente para su evacuación. en ras al-nabaa, un ataque causó la muerte de cuatro personas, entre ellas una mujer, e hirió a otras catorce, entre ellas dos niños. una de las personas asesinadas fue el responsable de prensa y portavoz de hezbolá, mohammad afif, tras un ataque a la sede del partido panarabista baaz. todos los días, el ejército convierte al personal médico en objetivo directo de ataques. este 17 de noviembre se reportan al menos tres ataques, uno de ellos contra el centro de la asociación islámica de la salud en humin al-tahta, el cual causó la muerte de un paramédico. dos paramédicos de la asociación islámica de la salud fueron heridos en un ataque contra un centro ambulatorio en al-bazouriya. mientras que otro paramédico fue asesinado a consecuencia de un ataque contra un centro sanitario en hanawiyeh. este domingo también se reportan bombardeos en las localidades de la región de tiro en el sur libanés, los cuales dejaron 11 personas muertas y heridas a otras 48. el ministerio de educación libanés anunció el cierre de las escuelas de la capital y sus alrededores para los días lunes y el martes, como medida de seguridad ante los incesantes bombardeos.",
+    "tokens": [
+      "jornada",
+      "16",
+      "noviembre",
+      "asesinadas",
+      "29",
+      "personas",
+      ",",
+      "mientras",
+      "122",
+      "resultaron",
+      "heridas",
+      "causa",
+      "ataques",
+      "aéreos",
+      "israel",
+      ".",
+      "cartera",
+      "salud",
+      "emitido",
+      "varios",
+      "comunicados",
+      "partir",
+      "ataques",
+      "cometidos",
+      "jornada",
+      "hoy",
+      ".",
+      "ataque",
+      "barrio",
+      "comercial",
+      "mar",
+      "elias",
+      ",",
+      "beirut",
+      ",",
+      "causó",
+      "muerte",
+      "persona",
+      "dejó",
+      "heridas",
+      "veintidós",
+      ",",
+      "dos",
+      "cuales",
+      "encuentran",
+      "crítico",
+      ",",
+      "informó",
+      "ministerio",
+      "comunicado",
+      "tarde",
+      ".",
+      "objetivo",
+      "ataque",
+      "edificio",
+      "residencial",
+      ",",
+      "población",
+      "civil",
+      "advertida",
+      "previamente",
+      "evacuación",
+      ".",
+      "ras",
+      "al-nabaa",
+      ",",
+      "ataque",
+      "causó",
+      "muerte",
+      "cuatro",
+      "personas",
+      ",",
+      "mujer",
+      ",",
+      "hirió",
+      "catorce",
+      ",",
+      "dos",
+      "niños",
+      ".",
+      "personas",
+      "asesinadas",
+      "responsable",
+      "prensa",
+      "portavoz",
+      "hezbolá",
+      ",",
+      "mohammad",
+      "afif",
+      ",",
+      "tras",
+      "ataque",
+      "sede",
+      "partido",
+      "panarabista",
+      "baaz",
+      ".",
+      "días",
+      ",",
+      "ejército",
+      "convierte",
+      "personal",
+      "médico",
+      "objetivo",
+      "directo",
+      "ataques",
+      ".",
+      "17",
+      "noviembre",
+      "reportan",
+      "menos",
+      "tres",
+      "ataques",
+      ",",
+      "centro",
+      "asociación",
+      "islámica",
+      "salud",
+      "humin",
+      "al-tahta",
+      ",",
+      "causó",
+      "muerte",
+      "paramédico",
+      ".",
+      "dos",
+      "paramédicos",
+      "asociación",
+      "islámica",
+      "salud",
+      "heridos",
+      "ataque",
+      "centro",
+      "ambulatorio",
+      "al-bazouriya",
+      ".",
+      "mientras",
+      "paramédico",
+      "asesinado",
+      "consecuencia",
+      "ataque",
+      "centro",
+      "sanitario",
+      "hanawiyeh",
+      ".",
+      "domingo",
+      "reportan",
+      "bombardeos",
+      "localidades",
+      "región",
+      "tiro",
+      "sur",
+      "libanés",
+      ",",
+      "cuales",
+      "dejaron",
+      "11",
+      "personas",
+      "muertas",
+      "heridas",
+      "48.",
+      "ministerio",
+      "educación",
+      "libanés",
+      "anunció",
+      "cierre",
+      "escuelas",
+      "capital",
+      "alrededores",
+      "días",
+      "lunes",
+      "martes",
+      ",",
+      "medida",
+      "seguridad",
+      "incesantes",
+      "bombardeos",
+      "."
+    ],
+    "token_count": 178,
+    "sentence_count": 12
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 37,
+      "FW": 84,
+      "CD": 6,
+      "NN": 65,
+      "RB": 2,
+      "NNS": 16,
+      "VBD": 3,
+      "JJ": 33,
+      "IN": 17,
+      "VBP": 13,
+      "MD": 1,
+      "VB": 1,
+      "DT": 1,
+      "VBZ": 2,
+      "CC": 1
+    },
+    "bigram_freq": {
+      "NNP-FW": 6,
+      "FW-NNP": 11,
+      "FW-CD": 1,
+      "CD-FW": 1,
+      "FW-FW": 55,
+      "FW-NN": 7,
+      "NN-RB": 1,
+      "RB-CD": 2,
+      "CD-NNS": 2,
+      "NNS-VBD": 1,
+      "VBD-JJ": 3,
+      "JJ-CD": 1,
+      "CD-NN": 1,
+      "NN-NN": 30,
+      "NN-IN": 10,
+      "IN-FW": 9,
+      "FW-NNS": 8,
+      "NNS-VBP": 11,
+      "VBP-IN": 2,
+      "IN-NNP": 5,
+      "NNP-NNP": 13,
+      "NNP-NN": 8,
+      "NN-NNS": 3,
+      "VBP-NN": 2,
+      "NN-FW": 9,
+      "NNS-IN": 1,
+      "NN-JJ": 5,
+      "JJ-NNP": 2,
+      "VBP-JJ": 4,
+      "JJ-FW": 3,
+      "IN-JJ": 3,
+      "JJ-NN": 17,
+      "FW-JJ": 2,
+      "NNP-MD": 1,
+      "MD-VB": 1,
+      "VB-JJ": 1,
+      "JJ-JJ": 9,
+      "NN-VBP": 2,
+      "JJ-DT": 1,
+      "DT-JJ": 1,
+      "NN-NNP": 3,
+      "NNP-JJ": 2,
+      "NNP-VBD": 1,
+      "NNP-VBZ": 1,
+      "VBZ-JJ": 2,
+      "NN-VBD": 1,
+      "NNS-NNP": 1,
+      "NNP-CD": 1,
+      "CD-IN": 1,
+      "NNS-NNS": 2,
+      "NNP-IN": 3,
+      "VBP-CD": 1,
+      "VBP-RB": 1,
+      "CD-NNP": 1,
+      "NNP-CC": 1,
+      "CC-JJ": 1,
+      "NN-VBZ": 1,
+      "VBP-NNS": 1,
+      "VBP-FW": 1
+    },
+    "trigram_freq": {
+      "NNP-FW-NNP": 2,
+      "FW-NNP-FW": 5,
+      "NNP-FW-CD": 1,
+      "FW-CD-FW": 1,
+      "CD-FW-FW": 1,
+      "FW-FW-NN": 5,
+      "FW-NN-RB": 1,
+      "NN-RB-CD": 1,
+      "RB-CD-NNS": 1,
+      "CD-NNS-VBD": 1,
+      "NNS-VBD-JJ": 1,
+      "VBD-JJ-CD": 1,
+      "JJ-CD-NN": 1,
+      "CD-NN-NN": 1,
+      "NN-NN-NN": 12,
+      "NN-NN-IN": 6,
+      "NN-IN-FW": 4,
+      "IN-FW-NNS": 1,
+      "FW-NNS-VBP": 5,
+      "NNS-VBP-IN": 2,
+      "VBP-IN-NNP": 1,
+      "IN-NNP-NNP": 3,
+      "NNP-NNP-NN": 4,
+      "NNP-NN-IN": 1,
+      "NN-IN-NNP": 3,
+      "IN-NNP-NN": 1,
+      "NNP-NN-NN": 5,
+      "NN-NN-NNS": 2,
+      "NN-NNS-VBP": 3,
+      "NNS-VBP-NN": 1,
+      "VBP-NN-FW": 1,
+      "NN-FW-FW": 8,
+      "FW-FW-NNS": 7,
+      "FW-NNS-IN": 1,
+      "NNS-IN-FW": 1,
+      "IN-FW-FW": 3,
+      "FW-FW-FW": 37,
+      "FW-FW-NNP": 6,
+      "FW-NNP-NN": 2,
+      "NNP-NN-FW": 1,
+      "FW-NN-JJ": 1,
+      "NN-JJ-NNP": 1,
+      "JJ-NNP-NNP": 1,
+      "NNP-NNP-NNP": 3,
+      "NN-NN-FW": 5,
+      "NNS-VBP-JJ": 3,
+      "VBP-JJ-FW": 1,
+      "JJ-FW-FW": 2,
+      "FW-NN-NN": 2,
+      "NN-IN-JJ": 3,
+      "IN-JJ-NN": 1,
+      "JJ-NN-IN": 2,
+      "IN-FW-JJ": 2,
+      "FW-JJ-NNP": 1,
+      "JJ-NNP-MD": 1,
+      "NNP-MD-VB": 1,
+      "MD-VB-JJ": 1,
+      "VB-JJ-NN": 1,
+      "JJ-NN-JJ": 3,
+      "NN-JJ-JJ": 1,
+      "JJ-JJ-JJ": 5,
+      "JJ-JJ-NN": 4,
+      "JJ-NN-VBP": 1,
+      "NN-VBP-JJ": 1,
+      "VBP-JJ-DT": 1,
+      "JJ-DT-JJ": 1,
+      "DT-JJ-NN": 1,
+      "JJ-NN-NN": 9,
+      "NN-NN-NNP": 2,
+      "NN-NNP-NNP": 2,
+      "NNP-NNP-JJ": 1,
+      "NNP-JJ-NN": 2,
+      "VBP-JJ-JJ": 1,
+      "NN-FW-NN": 1,
+      "FW-NN-FW": 1,
+      "NNP-FW-FW": 3,
+      "VBP-JJ-NN": 1,
+      "NN-JJ-FW": 1,
+      "FW-NNP-NNP": 3,
+      "NNP-NNP-VBD": 1,
+      "NNP-VBD-JJ": 1,
+      "VBD-JJ-NN": 2,
+      "NN-NN-VBP": 1,
+      "NN-VBP-NN": 1,
+      "VBP-NN-NN": 1,
+      "NNP-NNP-VBZ": 1,
+      "NNP-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 2,
+      "JJ-NN-NNP": 1,
+      "NN-NNP-NN": 1,
+      "NNP-NN-VBD": 1,
+      "NN-VBD-JJ": 1,
+      "JJ-NN-FW": 1,
+      "FW-NNS-NNP": 1,
+      "NNS-NNP-CD": 1,
+      "NNP-CD-IN": 1,
+      "CD-IN-FW": 1,
+      "FW-NNS-NNS": 1,
+      "NNS-NNS-VBP": 2,
+      "VBP-IN-FW": 1,
+      "FW-JJ-FW": 1,
+      "JJ-FW-NN": 1,
+      "FW-NN-IN": 1,
+      "IN-FW-NNP": 3,
+      "NNP-NNP-IN": 3,
+      "NNP-IN-FW": 2,
+      "FW-NNP-JJ": 1,
+      "NN-JJ-NN": 2,
+      "IN-JJ-JJ": 2,
+      "NN-NN-JJ": 1,
+      "FW-NN-NNS": 1,
+      "NNS-VBP-CD": 1,
+      "VBP-CD-NNS": 1,
+      "CD-NNS-NNS": 1,
+      "NNS-VBP-RB": 1,
+      "VBP-RB-CD": 1,
+      "RB-CD-NNP": 1,
+      "CD-NNP-NNP": 1,
+      "NNP-IN-NNP": 1,
+      "IN-NNP-CC": 1,
+      "NNP-CC-JJ": 1,
+      "CC-JJ-NN": 1,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-JJ": 1,
+      "NNS-VBP-NNS": 1,
+      "VBP-NNS-VBP": 1,
+      "NNS-VBP-FW": 1,
+      "VBP-FW-FW": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "FW": 84,
+        "NN": 65,
+        "NNP": 37,
+        "JJ": 33,
+        "IN": 17
+      },
+      "top_bigrams": {
+        "FW-FW": 55,
+        "NN-NN": 30,
+        "JJ-NN": 17,
+        "NNP-NNP": 13,
+        "FW-NNP": 11
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 37,
+        "NN-NN-NN": 12,
+        "JJ-NN-NN": 9,
+        "NN-FW-FW": 8,
+        "FW-FW-NNS": 7
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 12,
+    "chunk_counts": {
+      "NP": 74,
+      "VP": 17,
+      "PP": 10,
+      "ADJP": 3
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 5,
+        "weight": 0.0431
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 4,
+        "weight": 0.0345
+      },
+      {
+        "rule": "NP -> ('personas', 'NNS')",
+        "frequency": 3,
+        "weight": 0.0259
+      },
+      {
+        "rule": "NP -> ('ataques', 'NNS')",
+        "frequency": 3,
+        "weight": 0.0259
+      },
+      {
+        "rule": "NP -> ('Asociación', 'NNP') ('Islámica', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0172
+      },
+      {
+        "rule": "S -> NP ('la', 'FW') NP ('del', 'FW') ('16', 'CD') ('de', 'FW') ('noviembre', 'FW') NP ('asesinadas', 'RB') ('29', 'CD') NP (',', ',') NP VP ('122', 'CD') NP VP ('de', 'IN') ('los', 'FW') NP VP PP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0086
+      },
+      {
+        "rule": "NP -> ('En', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0086
+      },
+      {
+        "rule": "NP -> ('jornada', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0086
+      },
+      {
+        "rule": "NP -> ('fueron', 'NN')",
+        "frequency": 1,
+        "weight": 0.0086
+      },
+      {
+        "rule": "NP -> ('mientras', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0086
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "En"
+      },
+      {
+        "label": "NP",
+        "text": "jornada"
+      },
+      {
+        "label": "NP",
+        "text": "fueron"
+      },
+      {
+        "label": "NP",
+        "text": "personas"
+      },
+      {
+        "label": "NP",
+        "text": "mientras"
+      },
+      {
+        "label": "VP",
+        "text": "que"
+      },
+      {
+        "label": "NP",
+        "text": "resultaron"
+      },
+      {
+        "label": "VP",
+        "text": "heridas a causa"
+      },
+      {
+        "label": "NP",
+        "text": "a causa"
+      },
+      {
+        "label": "NP",
+        "text": "ataques"
+      },
+      {
+        "label": "VP",
+        "text": "aéreos"
+      },
+      {
+        "label": "PP",
+        "text": "de Israel"
+      },
+      {
+        "label": "NP",
+        "text": "Israel"
+      },
+      {
+        "label": "NP",
+        "text": "La cartera"
+      },
+      {
+        "label": "PP",
+        "text": "de Salud ha emitido varios"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP En/NNP)\n  la/FW\n  (NP jornada/NNP)\n  del/FW\n  16/CD\n  de/FW\n  noviembre/FW\n  (NP fueron/NN)\n  asesinadas/RB\n  29/CD\n  (NP personas/NNS)\n  ,/,\n  (NP mientras/NNS)\n  (VP que/VBP)\n  122/CD\n  (NP resultaron/NN)\n  (VP heridas/VBD (NP a/DT causa/NN))\n  de/IN\n  los/FW\n  (NP ataques/NNS)\n  (VP aéreos/VBP)\n  (PP de/IN (NP Israel/NNP))\n  ./.)",
+      "(S\n  (NP La/NNP cartera/NN)\n  (PP de/IN (NP Salud/NNP ha/NN emitido/NN varios/NNS))\n  (VP comunicados/VBP (NP a/DT partir/NN))\n  (PP de/IN (NP ataques/NNS))\n  (VP cometidos/VBP)\n  en/IN\n  la/FW\n  jornada/FW\n  de/FW\n  hoy/FW\n  ./.)",
+      "(S\n  (NP Un/NNP ataque/NN)\n  en/FW\n  el/FW\n  (NP barrio/NN)\n  (NP comercial/JJ Mar/NNP Elias/NNP)\n  ,/,\n  (NP Beirut/NNP)\n  ,/,\n  (NP causó/NN)\n  la/FW\n  muerte/FW\n  de/FW\n  una/FW\n  persona/FW\n  y/FW\n  dejó/FW\n  heridas/FW\n  a/DT\n  otras/FW\n  (NP veintidós/NN)\n  ,/,\n  dos/FW\n  de/FW\n  las/FW\n  (NP cuales/NNS)\n  (VP se/VBP encuentran/JJ)\n  en/FW\n  estado/FW\n  (NP crítico/NN)\n  ,/,\n  (NP informó/JJ el/NN ministerio/NN)\n  (PP en/IN (NP un/JJ comunicado/NN))\n  de/IN\n  esta/FW\n  (NP tarde/NN)\n  ./.)",
+      "(S\n  (NP El/NNP)\n  objetivo/MD\n  (VP\n    del/VB\n    (NP ataque/JJ fue/NN)\n    (NP un/JJ edificio/JJ residencial/NN))\n  ,/,\n  y/CC\n  la/FW\n  población/FW\n  (ADJP civil/JJ)\n  (NP\n    no/DT\n    fue/JJ\n    advertida/NN\n    previamente/NN\n    para/NN\n    su/NN\n    evacuación/NN)\n  ./.)",
+      "(S\n  (NP En/NNP Ras/NNP Al-Nabaa/NNP)\n  ,/,\n  (NP un/JJ ataque/NN causó/NN)\n  la/FW\n  muerte/FW\n  de/FW\n  cuatro/FW\n  (NP personas/NNS)\n  ,/,\n  entre/FW\n  ellas/FW\n  (NP una/JJ mujer/NN)\n  ,/,\n  (VP e/VBP)\n  hirió/PDT\n  (NP a/DT otras/JJ catorce/NN)\n  ,/,\n  entre/FW\n  ellas/FW\n  (NP dos/NN niños/NN)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "RECURSOS_NATURALES",
+      "CANTIDADES_NUMERICAS",
+      "TIEMPO_RELATIVO",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "REGIONES_PROVINCIAS",
+      "LOCALIZACIONES_ESPECIFICAS",
+      "ECONOMIA_COMERCIO_FINANZAS"
+    ],
+    "matches": [
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "capital",
+        "position": [
+          1628,
+          1635
+        ],
+        "start": 1628,
+        "end": 1635
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "informó",
+        "position": [
+          412,
+          419
+        ],
+        "start": 412,
+        "end": 419
+      },
+      {
+        "category": "RECURSOS_NATURALES",
+        "matched_text": "mar",
+        "position": [
+          277,
+          280
+        ],
+        "start": 277,
+        "end": 280
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "estado crítico",
+        "position": [
+          396,
+          410
+        ],
+        "start": 396,
+        "end": 410
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "barrio comercial",
+        "position": [
+          260,
+          276
+        ],
+        "start": 260,
+        "end": 276
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "edificio residencial",
+        "position": [
+          496,
+          516
+        ],
+        "start": 496,
+        "end": 516
+      },
+      {
+        "category": "TIEMPO_RELATIVO",
+        "matched_text": "hoy",
+        "position": [
+          239,
+          242
+        ],
+        "start": 239,
+        "end": 242
+      },
+      {
+        "category": "TIEMPO_RELATIVO",
+        "matched_text": "esta tarde",
+        "position": [
+          454,
+          464
+        ],
+        "start": 454,
+        "end": 464
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "29 personas",
+        "position": [
+          52,
+          63
+        ],
+        "start": 52,
+        "end": 63
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "11 personas",
+        "position": [
+          1511,
+          1522
+        ],
+        "start": 1511,
+        "end": 1522
+      }
+    ],
+    "match_count": 10
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Baaz",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Hezbolá",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Mohammad Afif",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Hanawiyeh",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Humin al-Tahta",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Asociación Islámica de la Salud",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Tiro",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Ministerio de Educación",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Ras Al-Nabaa",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Israel",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Beirut",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Al-Bazouriya",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Mar Elias",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Asociación Islámica de la Salud",
+        "relacion": "HERIR",
+        "objeto": "Al-Bazouriya"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.0516,
+    "pos": 0.008,
+    "neu": 0.984,
+    "neg": 0.008,
+    "label": "positive"
+  }
+}

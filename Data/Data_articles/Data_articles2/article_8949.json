@@ -1,0 +1,763 @@
+{
+  "url": "https://www.telesurtv.net/ascienden-a-43-163-los-palestinos-asesinados-por-israel-en-gaza/",
+  "title": "Ascienden a 43.163 los palestinos asesinados por Israel en Gaza - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Gaza",
+    "Israel",
+    "Palestina"
+  ],
+  "text": "La ocupación israelí cometió durante las últimas 24 horas cinco masacres contra familias en la Franja de Gaza, las cuales han provocado 102 mártires y 287 heridos.\nLEA TAMBIÉN\nOcupantes israelíes asesinan a 14 palestinos tras bombardear barrios de Gaza\nEl Ministerio de Salud palestino informó este miércoles que en la última jornada la ocupación sionista cometió cinco masacres contra familias, en las que fueron asesinadas 102 personas, mientras que 287 resultaron heridas, con lo cual se eleva a 43.163 la cifra de víctimas mortales y a más de 100.000 el número de lesionados.\nLa cartera de Salud reiteró que el ejército israelí continúa obstaculizando el trabajo de los equipos de rescate, cuyos integrantes intentan acceder a los cuerpos atrapados bajo los escombros y esparcidos por las carreteras.\nAsimismo, agregó que los datos de las víctimas están incompletos por los constantes ataques del ejército de la ocupación, la escasez de combustible, el difícil acceso a internet, así como la gran cantidad de escombros y los edificios colapsados.\nUn gran número de las víctimas mortales de esta jornada murieron en horas de la noche del martes como consecuencia de un bombardeo israelí contra un edificio en la localidad de Beit Lahia, durante el cual la entidad sionista asesinó al menos a 93 personas.\nEn la localidad de Al Sultan la ocupación israelí asesinó a ocho personas, según fuentes médicas.\nAl menos 1.250 personas han perdido la vida desde la nueva escalada de violencia israelí en el norte de Gaza hace 25 días. Organizaciones palestinas han denunciado que la entidad sionista puso en marcha un plan de limpieza étnica para desterrar a la población palestina o matarla por hambre o enfermedades.\nLa situación en la Franja de Gaza es cada vez más crítica, con muchas personas desplazadas que se enfrentan a la escasez de agua, alimentos y suministros médicos, además de un saneamiento deficiente, e infraestructuras y carreteras devastadas.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/ascienden-a-43-163-los-palestinos-asesinados-por-israel-en-gaza/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-10.json",
+    "message_index": 94,
+    "message_id": 79530,
+    "date": "2024-10-30T18:55:18+00:00",
+    "text": "teleSUR\nAscienden a 43.163 los palestinos asesinados por Israel en Gaza\nhttps://www.telesurtv.net/ascienden-a-43-163-los-palestinos-asesinados-por-israel-en-gaza/",
+    "photo_path": null,
+    "views": 2269,
+    "reactions": {
+      "🤬": 46,
+      "😡": 6,
+      "😢": 4
+    },
+    "total_reactions": 56
+  },
+  "preprocessing": {
+    "cleaned": "la ocupación israelí cometió durante las últimas 24 horas cinco masacres contra familias en la franja de gaza, las cuales han provocado 102 mártires y 287 heridos. el ministerio de salud palestino informó este miércoles que en la última jornada la ocupación sionista cometió cinco masacres contra familias, en las que fueron asesinadas 102 personas, mientras que 287 resultaron heridas, con lo cual se eleva a 43.163 la cifra de víctimas mortales y a más de 100.000 el número de lesionados. la cartera de salud reiteró que el ejército israelí continúa obstaculizando el trabajo de los equipos de rescate, cuyos integrantes intentan acceder a los cuerpos atrapados bajo los escombros y esparcidos por las carreteras. asimismo, agregó que los datos de las víctimas están incompletos por los constantes ataques del ejército de la ocupación, la escasez de combustible, el difícil acceso a internet, así como la gran cantidad de escombros y los edificios colapsados. un gran número de las víctimas mortales de esta jornada murieron en horas de la noche del martes como consecuencia de un bombardeo israelí contra un edificio en la localidad de beit lahia, durante el cual la entidad sionista asesinó al menos a 93 personas. en la localidad de al sultan la ocupación israelí asesinó a ocho personas, según fuentes médicas. al menos 1.250 personas han perdido la vida desde la nueva escalada de violencia israelí en el norte de gaza hace 25 días. organizaciones palestinas han denunciado que la entidad sionista puso en marcha un plan de limpieza étnica para desterrar a la población palestina o matarla por hambre o enfermedades. la situación en la franja de gaza es cada vez más crítica, con muchas personas desplazadas que se enfrentan a la escasez de agua, alimentos y suministros médicos, además de un saneamiento deficiente, e infraestructuras y carreteras devastadas.",
+    "tokens": [
+      "ocupación",
+      "israelí",
+      "cometió",
+      "últimas",
+      "24",
+      "horas",
+      "cinco",
+      "masacres",
+      "familias",
+      "franja",
+      "gaza",
+      ",",
+      "cuales",
+      "provocado",
+      "102",
+      "mártires",
+      "287",
+      "heridos",
+      ".",
+      "ministerio",
+      "salud",
+      "palestino",
+      "informó",
+      "miércoles",
+      "última",
+      "jornada",
+      "ocupación",
+      "sionista",
+      "cometió",
+      "cinco",
+      "masacres",
+      "familias",
+      ",",
+      "asesinadas",
+      "102",
+      "personas",
+      ",",
+      "mientras",
+      "287",
+      "resultaron",
+      "heridas",
+      ",",
+      "eleva",
+      "43.163",
+      "cifra",
+      "víctimas",
+      "mortales",
+      "100.000",
+      "número",
+      "lesionados",
+      ".",
+      "cartera",
+      "salud",
+      "reiteró",
+      "ejército",
+      "israelí",
+      "continúa",
+      "obstaculizando",
+      "trabajo",
+      "equipos",
+      "rescate",
+      ",",
+      "cuyos",
+      "integrantes",
+      "intentan",
+      "acceder",
+      "cuerpos",
+      "atrapados",
+      "bajo",
+      "escombros",
+      "esparcidos",
+      "carreteras",
+      ".",
+      "asimismo",
+      ",",
+      "agregó",
+      "datos",
+      "víctimas",
+      "incompletos",
+      "constantes",
+      "ataques",
+      "ejército",
+      "ocupación",
+      ",",
+      "escasez",
+      "combustible",
+      ",",
+      "difícil",
+      "acceso",
+      "internet",
+      ",",
+      "así",
+      "gran",
+      "cantidad",
+      "escombros",
+      "edificios",
+      "colapsados",
+      ".",
+      "gran",
+      "número",
+      "víctimas",
+      "mortales",
+      "jornada",
+      "murieron",
+      "horas",
+      "noche",
+      "martes",
+      "consecuencia",
+      "bombardeo",
+      "israelí",
+      "edificio",
+      "localidad",
+      "beit",
+      "lahia",
+      ",",
+      "entidad",
+      "sionista",
+      "asesinó",
+      "menos",
+      "93",
+      "personas",
+      ".",
+      "localidad",
+      "sultan",
+      "ocupación",
+      "israelí",
+      "asesinó",
+      "ocho",
+      "personas",
+      ",",
+      "según",
+      "fuentes",
+      "médicas",
+      ".",
+      "menos",
+      "1.250",
+      "personas",
+      "perdido",
+      "vida",
+      "nueva",
+      "escalada",
+      "violencia",
+      "israelí",
+      "norte",
+      "gaza",
+      "hace",
+      "25",
+      "días",
+      ".",
+      "organizaciones",
+      "palestinas",
+      "denunciado",
+      "entidad",
+      "sionista",
+      "puso",
+      "marcha",
+      "plan",
+      "limpieza",
+      "étnica",
+      "desterrar",
+      "población",
+      "palestina",
+      "matarla",
+      "hambre",
+      "enfermedades",
+      ".",
+      "situación",
+      "franja",
+      "gaza",
+      "cada",
+      "vez",
+      "crítica",
+      ",",
+      "muchas",
+      "personas",
+      "desplazadas",
+      "enfrentan",
+      "escasez",
+      "agua",
+      ",",
+      "alimentos",
+      "suministros",
+      "médicos",
+      ",",
+      "además",
+      "saneamiento",
+      "deficiente",
+      ",",
+      "infraestructuras",
+      "carreteras",
+      "devastadas",
+      "."
+    ],
+    "token_count": 192,
+    "sentence_count": 9
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 27,
+      "MD": 1,
+      "VB": 1,
+      "NN": 92,
+      "VBD": 6,
+      "$": 3,
+      "CD": 11,
+      "NNS": 23,
+      "JJ": 24,
+      "VBP": 14,
+      "FW": 77,
+      "CC": 2,
+      "RB": 2,
+      "IN": 14,
+      "VBZ": 2
+    },
+    "bigram_freq": {
+      "NNP-MD": 1,
+      "MD-VB": 1,
+      "VB-NN": 1,
+      "NN-NN": 48,
+      "NN-VBD": 5,
+      "VBD-$": 2,
+      "$-CD": 3,
+      "CD-NNS": 6,
+      "NNS-JJ": 4,
+      "JJ-NNS": 3,
+      "NNS-VBP": 11,
+      "VBP-JJ": 6,
+      "JJ-FW": 3,
+      "FW-FW": 44,
+      "FW-NNP": 9,
+      "NNP-FW": 5,
+      "NNP-CC": 2,
+      "CC-NNS": 1,
+      "VBP-RB": 2,
+      "RB-CD": 2,
+      "NNS-CD": 1,
+      "NNS-NNP": 2,
+      "NNP-NNP": 7,
+      "NNP-VBP": 1,
+      "JJ-JJ": 2,
+      "NNS-IN": 1,
+      "IN-NNP": 3,
+      "NNP-IN": 1,
+      "NNP-NN": 8,
+      "NN-NNS": 5,
+      "FW-NN": 15,
+      "NN-FW": 12,
+      "VBD-CD": 2,
+      "NNS-VBD": 1,
+      "VBD-JJ": 1,
+      "JJ-CD": 1,
+      "CD-NN": 4,
+      "NN-VBP": 1,
+      "JJ-NN": 14,
+      "NN-IN": 12,
+      "IN-FW": 10,
+      "FW-NNS": 3,
+      "NNS-FW": 2,
+      "FW-CD": 1,
+      "CD-JJ": 1,
+      "NN-JJ": 4,
+      "NN-VBZ": 2,
+      "VBZ-NNS": 1,
+      "FW-JJ": 5,
+      "VBD-NN": 1,
+      "VBP-NNP": 2,
+      "VBP-NN": 1,
+      "NN-NNP": 2,
+      "IN-NNS": 1,
+      "VBP-NNS": 2,
+      "NNP-$": 1,
+      "JJ-VBP": 1,
+      "VBP-FW": 1,
+      "NN-CD": 1,
+      "NNP-NNS": 1,
+      "VBZ-NNP": 1,
+      "CC-JJ": 1
+    },
+    "trigram_freq": {
+      "NNP-MD-VB": 1,
+      "MD-VB-NN": 1,
+      "VB-NN-NN": 1,
+      "NN-NN-VBD": 4,
+      "NN-VBD-$": 2,
+      "VBD-$-CD": 2,
+      "$-CD-NNS": 2,
+      "CD-NNS-JJ": 3,
+      "NNS-JJ-NNS": 1,
+      "JJ-NNS-VBP": 2,
+      "NNS-VBP-JJ": 5,
+      "VBP-JJ-FW": 3,
+      "JJ-FW-FW": 3,
+      "FW-FW-NNP": 5,
+      "FW-NNP-FW": 2,
+      "NNP-FW-NNP": 2,
+      "FW-NNP-CC": 2,
+      "NNP-CC-NNS": 1,
+      "CC-NNS-VBP": 1,
+      "NNS-VBP-RB": 1,
+      "VBP-RB-CD": 2,
+      "RB-CD-NNS": 2,
+      "CD-NNS-CD": 1,
+      "NNS-CD-NNS": 1,
+      "CD-NNS-NNP": 1,
+      "NNS-NNP-NNP": 1,
+      "NNP-NNP-NNP": 3,
+      "NNP-NNP-VBP": 1,
+      "NNP-VBP-RB": 1,
+      "NNS-JJ-JJ": 1,
+      "JJ-JJ-NNS": 1,
+      "JJ-NNS-IN": 1,
+      "NNS-IN-NNP": 1,
+      "IN-NNP-NNP": 1,
+      "NNP-NNP-IN": 1,
+      "NNP-IN-NNP": 1,
+      "IN-NNP-NN": 2,
+      "NNP-NN-NN": 5,
+      "NN-NN-NN": 25,
+      "NN-NN-NNS": 3,
+      "NN-NNS-VBP": 3,
+      "FW-FW-NN": 10,
+      "FW-NN-FW": 3,
+      "NN-FW-FW": 6,
+      "FW-NN-NN": 9,
+      "NN-VBD-CD": 2,
+      "VBD-CD-NNS": 1,
+      "CD-NNS-VBD": 1,
+      "NNS-VBD-JJ": 1,
+      "VBD-JJ-CD": 1,
+      "JJ-CD-NN": 1,
+      "CD-NN-NN": 2,
+      "NN-NN-VBP": 1,
+      "NN-VBP-JJ": 1,
+      "VBP-JJ-NN": 3,
+      "JJ-NN-VBD": 1,
+      "VBD-CD-NN": 1,
+      "NN-NN-IN": 4,
+      "NN-IN-FW": 10,
+      "IN-FW-NNS": 1,
+      "FW-NNS-FW": 1,
+      "NNS-FW-FW": 2,
+      "FW-FW-CD": 1,
+      "FW-CD-JJ": 1,
+      "CD-JJ-NN": 1,
+      "JJ-NN-IN": 5,
+      "IN-FW-NNP": 2,
+      "FW-NNP-NN": 3,
+      "NNP-NN-IN": 1,
+      "NN-IN-NNP": 1,
+      "NN-NN-FW": 5,
+      "NN-FW-NN": 4,
+      "FW-NN-IN": 1,
+      "IN-FW-FW": 5,
+      "FW-FW-FW": 25,
+      "FW-NN-NNS": 2,
+      "NN-NNS-JJ": 1,
+      "NNS-JJ-NN": 1,
+      "JJ-NN-NN": 6,
+      "NN-NN-JJ": 4,
+      "NN-JJ-NN": 3,
+      "NN-NNS-NNP": 1,
+      "NNS-NNP-NN": 1,
+      "NN-NN-VBZ": 2,
+      "NN-VBZ-NNS": 1,
+      "VBZ-NNS-FW": 1,
+      "FW-FW-JJ": 1,
+      "FW-JJ-NN": 4,
+      "NN-VBD-NN": 1,
+      "VBD-NN-IN": 1,
+      "IN-FW-JJ": 2,
+      "FW-JJ-NNS": 1,
+      "NNS-VBP-NNP": 2,
+      "VBP-NNP-NN": 1,
+      "FW-FW-NNS": 2,
+      "FW-NNS-VBP": 2,
+      "NNS-VBP-NN": 1,
+      "VBP-NN-FW": 1,
+      "NN-JJ-JJ": 1,
+      "JJ-JJ-NN": 1,
+      "FW-NNP-NNP": 2,
+      "NNP-NNP-NN": 1,
+      "NNP-NN-FW": 1,
+      "NN-FW-JJ": 2,
+      "JJ-NN-FW": 2,
+      "$-CD-NN": 1,
+      "CD-NN-NNP": 2,
+      "NN-NNP-FW": 1,
+      "NNP-FW-FW": 2,
+      "NNP-NNP-FW": 1,
+      "NNP-FW-NN": 1,
+      "NN-IN-NNS": 1,
+      "IN-NNS-VBP": 1,
+      "NNS-VBP-NNS": 2,
+      "VBP-NNS-VBP": 1,
+      "VBP-NNP-$": 1,
+      "NNP-$-CD": 1,
+      "NNS-JJ-VBP": 1,
+      "JJ-VBP-FW": 1,
+      "VBP-FW-FW": 1,
+      "NNP-NN-CD": 1,
+      "NN-CD-NN": 1,
+      "NN-NNP-NNS": 1,
+      "NNP-NNS-VBP": 1,
+      "NN-VBZ-NNP": 1,
+      "VBZ-NNP-FW": 1,
+      "NNP-CC-JJ": 1,
+      "CC-JJ-NN": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 92,
+        "FW": 77,
+        "NNP": 27,
+        "JJ": 24,
+        "NNS": 23
+      },
+      "top_bigrams": {
+        "NN-NN": 48,
+        "FW-FW": 44,
+        "FW-NN": 15,
+        "JJ-NN": 14,
+        "NN-FW": 12
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 25,
+        "FW-FW-FW": 25,
+        "FW-FW-NN": 10,
+        "NN-IN-FW": 10,
+        "FW-NN-NN": 9
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 9,
+    "chunk_counts": {
+      "NP": 83,
+      "VP": 29,
+      "PP": 3,
+      "ADJP": 1
+    },
+    "top_rules": [
+      {
+        "rule": "NP -> ('La', 'NNP')",
+        "frequency": 2,
+        "weight": 0.016
+      },
+      {
+        "rule": "NP -> ('Franja', 'NNP')",
+        "frequency": 2,
+        "weight": 0.016
+      },
+      {
+        "rule": "NP -> ('Gaza', 'NNP')",
+        "frequency": 2,
+        "weight": 0.016
+      },
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.016
+      },
+      {
+        "rule": "NP -> ('personas', 'NNS')",
+        "frequency": 2,
+        "weight": 0.016
+      },
+      {
+        "rule": "VP -> ('y', 'VBP') NP",
+        "frequency": 2,
+        "weight": 0.016
+      },
+      {
+        "rule": "VP -> ('menos', 'VBD')",
+        "frequency": 2,
+        "weight": 0.016
+      },
+      {
+        "rule": "NP -> ('israelí', 'NN')",
+        "frequency": 2,
+        "weight": 0.016
+      },
+      {
+        "rule": "S -> NP ('ocupación', 'MD') VP VP ('últimas', '$') ('24', 'CD') NP NP VP ('en', 'FW') ('la', 'FW') NP ('de', 'FW') NP (',', ',') NP VP ('102', 'CD') NP ('y', 'RB') ('287', 'CD') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.008
+      },
+      {
+        "rule": "VP -> ('israelí', 'VB') NP",
+        "frequency": 1,
+        "weight": 0.008
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "La"
+      },
+      {
+        "label": "VP",
+        "text": "israelí cometió durante"
+      },
+      {
+        "label": "NP",
+        "text": "cometió durante"
+      },
+      {
+        "label": "VP",
+        "text": "las"
+      },
+      {
+        "label": "NP",
+        "text": "horas"
+      },
+      {
+        "label": "NP",
+        "text": "cinco masacres"
+      },
+      {
+        "label": "VP",
+        "text": "contra familias"
+      },
+      {
+        "label": "NP",
+        "text": "Franja"
+      },
+      {
+        "label": "NP",
+        "text": "Gaza"
+      },
+      {
+        "label": "NP",
+        "text": "las cuales"
+      },
+      {
+        "label": "VP",
+        "text": "han provocado"
+      },
+      {
+        "label": "NP",
+        "text": "mártires"
+      },
+      {
+        "label": "NP",
+        "text": "heridos"
+      },
+      {
+        "label": "NP",
+        "text": "LEA TAMBIÉN Ocupantes"
+      },
+      {
+        "label": "VP",
+        "text": "israelíes"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP La/NNP)\n  ocupación/MD\n  (VP israelí/VB (NP cometió/NN durante/NN))\n  (VP las/VBD)\n  últimas/$\n  24/CD\n  (NP horas/NNS)\n  (NP cinco/JJ masacres/NNS)\n  (VP contra/VBP familias/JJ)\n  en/FW\n  la/FW\n  (NP Franja/NNP)\n  de/FW\n  (NP Gaza/NNP)\n  ,/,\n  (NP las/JJ cuales/NNS)\n  (VP han/VBP provocado/RB)\n  102/CD\n  (NP mártires/NNS)\n  y/RB\n  287/CD\n  (NP heridos/NN)\n  ./.)",
+      "(S\n  (NP LEA/NNP TAMBIÉN/NNP Ocupantes/NNP)\n  (VP israelíes/VBP)\n  (VP asesinan/VBZ)\n  a/DT\n  14/CD\n  (NP palestinos/NN tras/NNS)\n  (VP bombardear/VBP (NP barrios/NNS))\n  de/FW\n  (NP Gaza/NNP El/NNP Ministerio/NNP)\n  (PP\n    de/IN\n    (NP Salud/NNP palestino/NN informó/NN este/NN miércoles/NNS))\n  (VP que/VBP en/JJ)\n  la/FW\n  última/FW\n  (NP jornada/NN)\n  la/FW\n  ocupación/FW\n  (NP sionista/NN cometió/NN cinco/NN masacres/NNS)\n  (VP contra/VBP (NP familias/NNS))\n  ,/,\n  en/FW\n  las/FW\n  (NP que/NN fueron/NN)\n  (VP asesinadas/VBD)\n  102/CD\n  (NP personas/NNS)\n  ,/,\n  (NP mientras/NNS)\n  (VP que/VBP)\n  287/CD\n  (NP resultaron/NN heridas/NN)\n  ,/,\n  (NP con/NN)\n  (NP lo/JJ cual/JJ se/NN)\n  (VP eleva/VBD)\n  a/DT\n  43.163/CD\n  (NP la/NN cifra/NN)\n  de/IN\n  víctimas/FW\n  (NP mortales/NNS)\n  (VP y/VBP (NP a/DT más/NN))\n  de/IN\n  100.000/CD\n  (NP el/JJ número/NN)\n  de/IN\n  lesionados/FW\n  ./.)",
+      "(S\n  (NP La/NNP cartera/NN)\n  (PP\n    de/IN\n    (NP\n      Salud/NNP\n      reiteró/NN\n      que/NN\n      el/NN\n      ejército/NN\n      israelí/NN\n      continúa/NN\n      obstaculizando/NN))\n  el/FW\n  (NP trabajo/NN)\n  de/IN\n  los/FW\n  equipos/FW\n  de/FW\n  (NP rescate/NN)\n  ,/,\n  (NP cuyos/NN integrantes/NNS)\n  (VP intentan/VBP)\n  (VP\n    acceder/VB\n    (NP a/DT los/NN cuerpos/NN atrapados/NN bajo/NN los/NN)\n    (NP escombros/JJ y/NN esparcidos/NN por/NN las/NN carreteras/NNS))\n  ./.)",
+      "(S\n  (NP Asimismo/NNP)\n  ,/,\n  (NP agregó/NN que/NN)\n  (NP los/JJ datos/NN)\n  de/IN\n  las/FW\n  víctimas/FW\n  están/FW\n  (NP incompletos/NN por/NN los/NN)\n  (VP constantes/VBZ (NP ataques/NNS))\n  del/FW\n  ejército/FW\n  de/FW\n  la/FW\n  ocupación/FW\n  ,/,\n  la/FW\n  escasez/FW\n  de/FW\n  combustible/FW\n  ,/,\n  el/FW\n  (NP difícil/NN)\n  (VP acceso/VBZ (NP a/DT internet/NN))\n  ,/,\n  (NP así/JJ como/NN la/NN)\n  (VP gran/VBD (NP cantidad/NN))\n  de/IN\n  escombros/FW\n  y/FW\n  los/FW\n  (NP edificios/NNS colapsados/NN)\n  ./.)",
+      "(S\n  (NP Un/NNP gran/NN número/NN)\n  de/IN\n  las/FW\n  víctimas/FW\n  mortales/FW\n  de/FW\n  esta/FW\n  (NP jornada/NN murieron/NN)\n  en/FW\n  horas/FW\n  de/FW\n  la/FW\n  noche/FW\n  del/FW\n  (NP martes/NNS)\n  (VP como/VBP (NP consecuencia/NN))\n  de/FW\n  un/FW\n  (NP bombardeo/NN israelí/NN)\n  (NP contra/JJ un/JJ edificio/NN)\n  en/IN\n  la/FW\n  localidad/FW\n  de/FW\n  (NP Beit/NNP Lahia/NNP)\n  ,/,\n  (NP durante/NN)\n  el/FW\n  (NP cual/JJ la/NN)\n  entidad/FW\n  (NP sionista/NN asesinó/NN al/NN)\n  (VP menos/VBD)\n  a/DT\n  93/CD\n  (NP personas/NN)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "RECURSOS_NATURALES",
+      "CANTIDADES_NUMERICAS",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "CRISIS_HUMANITARIA_SERVICIOS",
+      "PAISES",
+      "LOCALIZACIONES_ESPECIFICAS",
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "INFRAESTRUCTURA_SERVICIOS"
+    ],
+    "matches": [
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "ocupación",
+        "position": [
+          3,
+          12
+        ],
+        "start": 3,
+        "end": 12
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "informó",
+        "position": [
+          286,
+          293
+        ],
+        "start": 286,
+        "end": 293
+      },
+      {
+        "category": "CRISIS_HUMANITARIA_SERVICIOS",
+        "matched_text": "escasez de agua, alimentos",
+        "position": [
+          1826,
+          1852
+        ],
+        "start": 1826,
+        "end": 1852
+      },
+      {
+        "category": "CRISIS_HUMANITARIA_SERVICIOS",
+        "matched_text": "escasez de agua",
+        "position": [
+          1826,
+          1841
+        ],
+        "start": 1826,
+        "end": 1841
+      },
+      {
+        "category": "RECURSOS_NATURALES",
+        "matched_text": "agua",
+        "position": [
+          1837,
+          1841
+        ],
+        "start": 1837,
+        "end": 1841
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "saneamiento",
+        "position": [
+          1889,
+          1900
+        ],
+        "start": 1889,
+        "end": 1900
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "israelí",
+        "position": [
+          13,
+          20
+        ],
+        "start": 13,
+        "end": 20
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "edificio en",
+        "position": [
+          1200,
+          1211
+        ],
+        "start": 1200,
+        "end": 1211
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "102 personas",
+        "position": [
+          425,
+          437
+        ],
+        "start": 425,
+        "end": 437
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "93 personas",
+        "position": [
+          1295,
+          1306
+        ],
+        "start": 1295,
+        "end": 1306
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "más de 100.000",
+        "position": [
+          540,
+          554
+        ],
+        "start": 540,
+        "end": 554
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "1.250 personas",
+        "position": [
+          1415,
+          1429
+        ],
+        "start": 1415,
+        "end": 1429
+      }
+    ],
+    "match_count": 12
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Al Sultan",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Franja de Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Beit Lahia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Gaza\nEl Ministerio de Salud",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Organizaciones palestinas",
+        "tipo": "Organizacion"
+      }
+    ],
+    "relaciones": []
+  },
+  "sentiment": {
+    "compound": 0.0,
+    "pos": 0.0,
+    "neu": 1.0,
+    "neg": 0.0,
+    "label": "neutral"
+  }
+}

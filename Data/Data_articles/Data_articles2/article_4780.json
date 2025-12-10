@@ -1,0 +1,941 @@
+{
+  "url": "https://www.telesurtv.net/al-menos-tres-muertos-en-haiti-tras-ataque-de-bandas-armadas/",
+  "title": "Al menos tres muertos en Haití tras ataque de bandas armadas - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "Bandas Armadas",
+    "Policía Nacional de Haití",
+    "Puerto Príncipe"
+  ],
+  "text": "Dos miembros de la Brigada de Seguridad Aérea Protegida (BSAP) y un soldado de las Fuerzas Armadas de Haití (FADH) murieron el domingo a manos de miembros de grupos armados en el municipio de Kenscoff, ubicado en las alturas de la capital haitiana, Puerto Príncipe.\nEl portavoz de la Policía Nacional de Haití (PNH), Lionel Lazare, confirmó a medios locales e internacionales que las fuerzas del orden han recuperado el control del Teleco, en Kenscoff, lugar en el cual se ubican las antenas de las radios de la zona metropolitana de Puerto Príncipe.\n“Actualmente (la Policía Nacional de Haití) continúa las operaciones para desalojar a las bandas”, comunicó Lazare a la agencia de noticias EFE.\nSegún la prensa local, todas las unidades de la entidad policial se encuentran en el lugar para disolver a los grupos armados.\nPor otra parte, las bandas buscan dominar la zona para eliminar algunos medios de comunicación que les son hostiles, y exigir dinero a los propietarios para mantenerlos en emisión.\nLos grupos armados, miembros de la coalición Vivre Ensemble (Vivir Junto), atacaron nuevamente la comuna de Kenscoff, en la mañana del domingo; en este nuevo ataque, incendiaron viviendas y la Policía Nacional de Haití arrestó a integrantes de los grupos armados.\nAsimismo, un ataque previo de las bandas en esta comunidad, realizado a finales de enero pasado, le provocó la muerte a cincuenta individuos y más de 100 viviendas fueron destruidas, de acuerdo con un balance parcial de la organización Red Nacional de Defensa de los Derechos Humanos, la cual registra los abusos de las bandas en la nación.\nLos grupos delictivos buscan tomar el control de la comuna de Kenscoff, lo que les facilitaría controlar la comuna de Petion-ville y posteriormente la de Delmas, las cuales no están bajo su dominio directo; las pandillas han ocupado cerca del 85 por ciento del territorio de Puerto Príncipe.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/al-menos-tres-muertos-en-haiti-tras-ataque-de-bandas-armadas/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-02.json",
+    "message_index": 860,
+    "message_id": 87046,
+    "date": "2025-02-17T08:55:07+00:00",
+    "text": "teleSUR\nAl menos tres muertos en Haití tras ataque de bandas armadas\nhttps://www.telesurtv.net/al-menos-tres-muertos-en-haiti-tras-ataque-de-bandas-armadas/",
+    "photo_path": null,
+    "views": 2160,
+    "reactions": {
+      "🔥": 24,
+      "🤬": 9,
+      "🕊": 4,
+      "👍": 1,
+      "👎": 1,
+      "😁": 1,
+      "🤯": 1
+    },
+    "total_reactions": 41
+  },
+  "preprocessing": {
+    "cleaned": "dos miembros de la brigada de seguridad aérea protegida (bsap) y un soldado de las fuerzas armadas de haití (fadh) murieron el domingo a manos de miembros de grupos armados en el municipio de kenscoff, ubicado en las alturas de la capital haitiana, puerto príncipe. el portavoz de la policía nacional de haití (pnh), lionel lazare, confirmó a medios locales e internacionales que las fuerzas del orden han recuperado el control del teleco, en kenscoff, lugar en el cual se ubican las antenas de las radios de la zona metropolitana de puerto príncipe. “actualmente (la policía nacional de haití) continúa las operaciones para desalojar a las bandas”, comunicó lazare a la agencia de noticias efe. según la prensa local, todas las unidades de la entidad policial se encuentran en el lugar para disolver a los grupos armados. por otra parte, las bandas buscan dominar la zona para eliminar algunos medios de comunicación que les son hostiles, y exigir dinero a los propietarios para mantenerlos en emisión. los grupos armados, miembros de la coalición vivre ensemble (vivir junto), atacaron nuevamente la comuna de kenscoff, en la mañana del domingo; en este nuevo ataque, incendiaron viviendas y la policía nacional de haití arrestó a integrantes de los grupos armados. asimismo, un ataque previo de las bandas en esta comunidad, realizado a finales de enero pasado, le provocó la muerte a cincuenta individuos y más de 100 viviendas fueron destruidas, de acuerdo con un balance parcial de la organización red nacional de defensa de los derechos humanos, la cual registra los abusos de las bandas en la nación. los grupos delictivos buscan tomar el control de la comuna de kenscoff, lo que les facilitaría controlar la comuna de petion-ville y posteriormente la de delmas, las cuales no están bajo su dominio directo; las pandillas han ocupado cerca del 85 por ciento del territorio de puerto príncipe.",
+    "tokens": [
+      "dos",
+      "miembros",
+      "brigada",
+      "seguridad",
+      "aérea",
+      "protegida",
+      "(",
+      "bsap",
+      ")",
+      "soldado",
+      "fuerzas",
+      "armadas",
+      "haití",
+      "(",
+      "fadh",
+      ")",
+      "murieron",
+      "domingo",
+      "manos",
+      "miembros",
+      "grupos",
+      "armados",
+      "municipio",
+      "kenscoff",
+      ",",
+      "ubicado",
+      "alturas",
+      "capital",
+      "haitiana",
+      ",",
+      "puerto",
+      "príncipe",
+      ".",
+      "portavoz",
+      "policía",
+      "nacional",
+      "haití",
+      "(",
+      "pnh",
+      ")",
+      ",",
+      "lionel",
+      "lazare",
+      ",",
+      "confirmó",
+      "medios",
+      "locales",
+      "internacionales",
+      "fuerzas",
+      "orden",
+      "recuperado",
+      "control",
+      "teleco",
+      ",",
+      "kenscoff",
+      ",",
+      "lugar",
+      "ubican",
+      "antenas",
+      "radios",
+      "zona",
+      "metropolitana",
+      "puerto",
+      "príncipe",
+      ".",
+      "“",
+      "actualmente",
+      "(",
+      "policía",
+      "nacional",
+      "haití",
+      ")",
+      "continúa",
+      "operaciones",
+      "desalojar",
+      "bandas",
+      "”",
+      ",",
+      "comunicó",
+      "lazare",
+      "agencia",
+      "noticias",
+      "efe",
+      ".",
+      "según",
+      "prensa",
+      "local",
+      ",",
+      "todas",
+      "unidades",
+      "entidad",
+      "policial",
+      "encuentran",
+      "lugar",
+      "disolver",
+      "grupos",
+      "armados",
+      ".",
+      "parte",
+      ",",
+      "bandas",
+      "buscan",
+      "dominar",
+      "zona",
+      "eliminar",
+      "medios",
+      "comunicación",
+      "hostiles",
+      ",",
+      "exigir",
+      "dinero",
+      "propietarios",
+      "mantenerlos",
+      "emisión",
+      ".",
+      "grupos",
+      "armados",
+      ",",
+      "miembros",
+      "coalición",
+      "vivre",
+      "ensemble",
+      "(",
+      "vivir",
+      "junto",
+      ")",
+      ",",
+      "atacaron",
+      "nuevamente",
+      "comuna",
+      "kenscoff",
+      ",",
+      "mañana",
+      "domingo",
+      ";",
+      "nuevo",
+      "ataque",
+      ",",
+      "incendiaron",
+      "viviendas",
+      "policía",
+      "nacional",
+      "haití",
+      "arrestó",
+      "integrantes",
+      "grupos",
+      "armados",
+      ".",
+      "asimismo",
+      ",",
+      "ataque",
+      "previo",
+      "bandas",
+      "comunidad",
+      ",",
+      "realizado",
+      "finales",
+      "enero",
+      "pasado",
+      ",",
+      "provocó",
+      "muerte",
+      "cincuenta",
+      "individuos",
+      "100",
+      "viviendas",
+      "destruidas",
+      ",",
+      "acuerdo",
+      "balance",
+      "parcial",
+      "organización",
+      "red",
+      "nacional",
+      "defensa",
+      "derechos",
+      "humanos",
+      ",",
+      "registra",
+      "abusos",
+      "bandas",
+      "nación",
+      ".",
+      "grupos",
+      "delictivos",
+      "buscan",
+      "tomar",
+      "control",
+      "comuna",
+      "kenscoff",
+      ",",
+      "facilitaría",
+      "controlar",
+      "comuna",
+      "petion-ville",
+      "posteriormente",
+      "delmas",
+      ",",
+      "cuales",
+      "bajo",
+      "dominio",
+      "directo",
+      ";",
+      "pandillas",
+      "ocupado",
+      "cerca",
+      "85",
+      "ciento",
+      "territorio",
+      "puerto",
+      "príncipe",
+      "."
+    ],
+    "token_count": 212,
+    "sentence_count": 8
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 58,
+      "FW": 80,
+      "JJ": 26,
+      "NN": 80,
+      "IN": 15,
+      "VBZ": 9,
+      "NNS": 15,
+      "VBP": 9,
+      "VB": 1,
+      "CD": 2,
+      "RB": 1,
+      "CC": 1,
+      "DT": 1
+    },
+    "bigram_freq": {
+      "NNP-FW": 11,
+      "FW-FW": 49,
+      "FW-NNP": 19,
+      "NNP-NNP": 27,
+      "NNP-JJ": 2,
+      "JJ-NN": 17,
+      "NN-IN": 9,
+      "IN-FW": 8,
+      "NNP-IN": 1,
+      "IN-NNP": 3,
+      "NNP-NN": 11,
+      "NN-NN": 41,
+      "NN-FW": 9,
+      "FW-NN": 7,
+      "NN-NNP": 6,
+      "NNP-VBZ": 3,
+      "VBZ-NNS": 1,
+      "NNS-NNS": 2,
+      "NNS-VBP": 8,
+      "VBP-JJ": 8,
+      "NN-JJ": 6,
+      "NN-VB": 1,
+      "VB-JJ": 1,
+      "VBZ-NNP": 1,
+      "FW-JJ": 4,
+      "JJ-NNS": 6,
+      "NNS-FW": 1,
+      "NN-NNS": 3,
+      "JJ-NNP": 1,
+      "VBP-NNS": 1,
+      "NNS-IN": 3,
+      "IN-NN": 2,
+      "VBZ-JJ": 2,
+      "NN-VBZ": 5,
+      "JJ-FW": 2,
+      "VBZ-IN": 2,
+      "FW-NNS": 1,
+      "IN-JJ": 1,
+      "IN-CD": 1,
+      "CD-NNS": 1,
+      "NNS-JJ": 1,
+      "NNP-VBP": 1,
+      "VBZ-RB": 1,
+      "RB-JJ": 1,
+      "NNP-CC": 1,
+      "CC-VBZ": 1,
+      "VBZ-DT": 1,
+      "DT-NN": 1,
+      "VBZ-CD": 1,
+      "CD-NN": 1
+    },
+    "trigram_freq": {
+      "NNP-FW-FW": 5,
+      "FW-FW-FW": 31,
+      "FW-FW-NNP": 13,
+      "FW-NNP-FW": 3,
+      "NNP-FW-NNP": 5,
+      "FW-NNP-NNP": 9,
+      "NNP-NNP-NNP": 13,
+      "NNP-NNP-JJ": 1,
+      "NNP-JJ-NN": 2,
+      "JJ-NN-IN": 1,
+      "NN-IN-FW": 5,
+      "IN-FW-NNP": 1,
+      "NNP-NNP-IN": 1,
+      "NNP-IN-NNP": 1,
+      "IN-NNP-NNP": 2,
+      "NNP-NNP-NN": 2,
+      "NNP-NN-NN": 7,
+      "NN-NN-FW": 4,
+      "NN-FW-FW": 6,
+      "FW-NNP-NN": 6,
+      "NNP-NN-FW": 3,
+      "FW-FW-NN": 3,
+      "FW-NN-NN": 4,
+      "NN-NN-NNP": 4,
+      "NN-NNP-NNP": 2,
+      "NNP-NNP-FW": 7,
+      "NNP-NNP-VBZ": 1,
+      "NNP-VBZ-NNS": 1,
+      "VBZ-NNS-NNS": 1,
+      "NNS-NNS-NNS": 1,
+      "NNS-NNS-VBP": 1,
+      "NNS-VBP-JJ": 7,
+      "VBP-JJ-NN": 5,
+      "JJ-NN-NN": 11,
+      "NN-NN-JJ": 4,
+      "NN-JJ-NN": 4,
+      "JJ-NN-VB": 1,
+      "NN-VB-JJ": 1,
+      "VB-JJ-NN": 1,
+      "NN-NNP-VBZ": 2,
+      "NNP-VBZ-NNP": 1,
+      "VBZ-NNP-NN": 1,
+      "FW-FW-JJ": 2,
+      "FW-JJ-NN": 3,
+      "JJ-NN-JJ": 1,
+      "NN-JJ-NNS": 2,
+      "JJ-NNS-FW": 1,
+      "NNS-FW-FW": 1,
+      "NN-NN-NNS": 2,
+      "NN-NNS-VBP": 3,
+      "VBP-JJ-NNS": 1,
+      "JJ-NNS-VBP": 4,
+      "VBP-JJ-NNP": 1,
+      "JJ-NNP-NNP": 1,
+      "NNP-FW-JJ": 1,
+      "FW-JJ-NNS": 1,
+      "NNS-VBP-NNS": 1,
+      "VBP-NNS-IN": 1,
+      "NNS-IN-FW": 1,
+      "IN-FW-FW": 4,
+      "NN-NN-IN": 8,
+      "NN-IN-NN": 1,
+      "IN-NN-NN": 2,
+      "NN-NN-NN": 15,
+      "JJ-NN-NNP": 2,
+      "NNP-VBZ-JJ": 1,
+      "VBZ-JJ-NNS": 2,
+      "NN-NNP-NN": 1,
+      "JJ-NNS-IN": 1,
+      "NNS-IN-NN": 1,
+      "NN-NN-VBZ": 4,
+      "NN-VBZ-JJ": 1,
+      "JJ-NN-NNS": 1,
+      "VBP-JJ-FW": 1,
+      "JJ-FW-FW": 2,
+      "FW-NN-FW": 2,
+      "NN-FW-NN": 3,
+      "NNP-NN-VBZ": 1,
+      "NN-VBZ-IN": 2,
+      "VBZ-IN-FW": 2,
+      "IN-FW-JJ": 1,
+      "NN-NNP-JJ": 1,
+      "IN-FW-NNS": 1,
+      "FW-NNS-IN": 1,
+      "NNS-IN-JJ": 1,
+      "IN-JJ-NN": 1,
+      "IN-FW-NN": 1,
+      "NN-IN-CD": 1,
+      "IN-CD-NNS": 1,
+      "CD-NNS-JJ": 1,
+      "NNS-JJ-FW": 1,
+      "FW-NN-JJ": 1,
+      "NNP-NNP-VBP": 1,
+      "NNP-VBP-JJ": 1,
+      "NN-VBZ-RB": 1,
+      "VBZ-RB-JJ": 1,
+      "RB-JJ-NN": 1,
+      "NN-IN-NNP": 2,
+      "IN-NNP-NN": 1,
+      "FW-NNP-CC": 1,
+      "NNP-CC-VBZ": 1,
+      "CC-VBZ-DT": 1,
+      "VBZ-DT-NN": 1,
+      "DT-NN-NN": 1,
+      "NN-VBZ-CD": 1,
+      "VBZ-CD-NN": 1,
+      "CD-NN-NN": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "FW": 80,
+        "NN": 80,
+        "NNP": 58,
+        "JJ": 26,
+        "IN": 15
+      },
+      "top_bigrams": {
+        "FW-FW": 49,
+        "NN-NN": 41,
+        "NNP-NNP": 27,
+        "FW-NNP": 19,
+        "JJ-NN": 17
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 31,
+        "NN-NN-NN": 15,
+        "FW-FW-NNP": 13,
+        "NNP-NNP-NNP": 13,
+        "JJ-NN-NN": 11
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 8,
+    "chunk_counts": {
+      "NP": 89,
+      "VP": 17,
+      "ADJP": 4,
+      "PP": 7
+    },
+    "top_rules": [
+      {
+        "rule": "NP -> ('Haití', 'NNP')",
+        "frequency": 4,
+        "weight": 0.032
+      },
+      {
+        "rule": "NP -> ('Kenscoff', 'NNP')",
+        "frequency": 4,
+        "weight": 0.032
+      },
+      {
+        "rule": "NP -> ('Puerto', 'NNP') ('Príncipe', 'NNP')",
+        "frequency": 3,
+        "weight": 0.024
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 3,
+        "weight": 0.024
+      },
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 3,
+        "weight": 0.024
+      },
+      {
+        "rule": "NP -> ('Policía', 'NNP') ('Nacional', 'NNP')",
+        "frequency": 2,
+        "weight": 0.016
+      },
+      {
+        "rule": "NP -> ('bandas', 'NNS')",
+        "frequency": 2,
+        "weight": 0.016
+      },
+      {
+        "rule": "S -> NP ('miembros', 'FW') ('de', 'FW') ('la', 'FW') NP ('de', 'FW') NP ('(', '(') NP (')', ')') NP NP ('de', 'IN') ('las', 'FW') NP ('de', 'FW') NP ('(', '(') NP (')', ')') NP VP ('de', 'IN') ('miembros', 'FW') ('de', 'FW') ('grupos', 'FW') ('armados', 'FW') ('en', 'FW') ('el', 'FW') ('municipio', 'FW') ('de', 'FW') NP (',', ',') ADJP ('en', 'FW') ('las', 'FW') ('alturas', 'FW') ('de', 'FW') ('la', 'FW') NP (',', ',') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.008
+      },
+      {
+        "rule": "NP -> ('Dos', 'NNP')",
+        "frequency": 1,
+        "weight": 0.008
+      },
+      {
+        "rule": "NP -> ('Brigada', 'NNP')",
+        "frequency": 1,
+        "weight": 0.008
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Dos"
+      },
+      {
+        "label": "NP",
+        "text": "Brigada"
+      },
+      {
+        "label": "NP",
+        "text": "Seguridad Aérea Protegida"
+      },
+      {
+        "label": "NP",
+        "text": "BSAP"
+      },
+      {
+        "label": "NP",
+        "text": "y"
+      },
+      {
+        "label": "NP",
+        "text": "un soldado"
+      },
+      {
+        "label": "NP",
+        "text": "Fuerzas Armadas"
+      },
+      {
+        "label": "NP",
+        "text": "Haití"
+      },
+      {
+        "label": "NP",
+        "text": "FADH"
+      },
+      {
+        "label": "NP",
+        "text": "murieron el"
+      },
+      {
+        "label": "VP",
+        "text": "domingo a manos"
+      },
+      {
+        "label": "NP",
+        "text": "a manos"
+      },
+      {
+        "label": "NP",
+        "text": "Kenscoff"
+      },
+      {
+        "label": "ADJP",
+        "text": "ubicado"
+      },
+      {
+        "label": "NP",
+        "text": "capital haitiana"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Dos/NNP)\n  miembros/FW\n  de/FW\n  la/FW\n  (NP Brigada/NNP)\n  de/FW\n  (NP Seguridad/NNP Aérea/NNP Protegida/NNP)\n  (/(\n  (NP BSAP/NNP)\n  )/)\n  (NP y/NN)\n  (NP un/JJ soldado/NN)\n  de/IN\n  las/FW\n  (NP Fuerzas/NNP Armadas/NNP)\n  de/FW\n  (NP Haití/NNP)\n  (/(\n  (NP FADH/NNP)\n  )/)\n  (NP murieron/NN el/NN)\n  (VP domingo/VBZ (NP a/DT manos/NN))\n  de/IN\n  miembros/FW\n  de/FW\n  grupos/FW\n  armados/FW\n  en/FW\n  el/FW\n  municipio/FW\n  de/FW\n  (NP Kenscoff/NNP)\n  ,/,\n  (ADJP ubicado/JJ)\n  en/FW\n  las/FW\n  alturas/FW\n  de/FW\n  la/FW\n  (NP capital/NN haitiana/NN)\n  ,/,\n  (NP Puerto/NNP Príncipe/NNP)\n  ./.)",
+      "(S\n  (NP El/NNP portavoz/NN)\n  de/IN\n  la/FW\n  (NP Policía/NNP Nacional/NNP)\n  de/FW\n  (NP Haití/NNP)\n  (/(\n  (NP PNH/NNP)\n  )/)\n  ,/,\n  (NP Lionel/NNP Lazare/NNP)\n  ,/,\n  (VP confirmó/VBZ (NP a/DT medios/JJ locales/NNS))\n  (VP e/VBP (NP internacionales/NNS))\n  (VP que/VBP (NP las/JJ fuerzas/NN del/NN) (NP orden/JJ han/NN))\n  (VP recuperado/VB (NP el/JJ control/NN del/NN Teleco/NNP))\n  ,/,\n  en/FW\n  (NP Kenscoff/NNP)\n  ,/,\n  (NP lugar/NN)\n  en/FW\n  el/FW\n  (NP cual/JJ se/NN)\n  (NP ubican/JJ las/NNS)\n  antenas/FW\n  de/FW\n  las/FW\n  radios/FW\n  de/FW\n  la/FW\n  zona/FW\n  metropolitana/FW\n  de/FW\n  (NP Puerto/NNP Príncipe/NNP)\n  ./.)",
+      "(S\n  (NP “/NN Actualmente/NNP)\n  (/(\n  la/FW\n  (NP Policía/NNP Nacional/NNP)\n  de/FW\n  (NP Haití/NNP)\n  )/)\n  (VP continúa/VBP (NP las/JJ operaciones/NNS))\n  (VP para/VBP)\n  (VP desalojar/VB (NP a/DT las/JJ bandas/NN ”/NNP))\n  ,/,\n  (NP comunicó/NN Lazare/NNP)\n  (NP a/DT la/NN)\n  agencia/FW\n  de/FW\n  noticias/FW\n  (NP EFE/NNP)\n  ./.)",
+      "(S\n  (NP Según/NNP la/NNP)\n  prensa/FW\n  (ADJP local/JJ)\n  ,/,\n  (ADJP todas/JJ)\n  las/FW\n  unidades/FW\n  de/FW\n  la/FW\n  entidad/FW\n  (NP policial/JJ se/NN encuentran/NN)\n  (PP en/IN (NP el/NN lugar/NN para/NN))\n  (PP disolver/IN (NP a/DT los/JJ grupos/NN armados/NN))\n  ./.)",
+      "(S\n  (NP Por/NNP)\n  otra/MD\n  (VP parte/VB)\n  ,/,\n  las/FW\n  (NP bandas/NNS)\n  (NP buscan/JJ dominar/NN la/NN zona/NNP para/NN eliminar/NN)\n  (NP algunos/JJ medios/NNS)\n  (PP de/IN (NP comunicación/NN que/NN))\n  (VP les/VBZ (NP son/NN hostiles/NNS))\n  ,/,\n  y/CC\n  (NP exigir/NN dinero/NN)\n  (NP a/DT los/JJ propietarios/JJ para/NN mantenerlos/NN)\n  (PP en/IN (NP emisión/NN))\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "CANTIDADES_NUMERICAS",
+      "TIEMPO_RELATIVO",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "REGIONES_PROVINCIAS",
+      "PERIODOS_TEMPORALES",
+      "LOCALIZACIONES_ESPECIFICAS",
+      "JUSTICIA_SOCIAL",
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "INFRAESTRUCTURA_SERVICIOS",
+      "CONFLICTOS_ARMADOS_OPERACIONES",
+      "JURIDICO_LEGISLATIVO_CORRUPCION"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "control del teleco, en kenscoff, lugar en el cual se ubican las antenas de las radios de la zona",
+        "position": [
+          420,
+          516
+        ],
+        "start": 420,
+        "end": 516
+      },
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "capital",
+        "position": [
+          231,
+          238
+        ],
+        "start": 231,
+        "end": 238
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "comunicó",
+        "position": [
+          650,
+          658
+        ],
+        "start": 650,
+        "end": 658
+      },
+      {
+        "category": "JURIDICO_LEGISLATIVO_CORRUPCION",
+        "matched_text": "defensa",
+        "position": [
+          1520,
+          1527
+        ],
+        "start": 1520,
+        "end": 1527
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "puerto",
+        "position": [
+          249,
+          255
+        ],
+        "start": 249,
+        "end": 255
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "zona metropolitana",
+        "position": [
+          512,
+          530
+        ],
+        "start": 512,
+        "end": 530
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "comuna de",
+        "position": [
+          1102,
+          1111
+        ],
+        "start": 1102,
+        "end": 1111
+      },
+      {
+        "category": "PERIODOS_TEMPORALES",
+        "matched_text": "en la mañana",
+        "position": [
+          1122,
+          1134
+        ],
+        "start": 1122,
+        "end": 1134
+      },
+      {
+        "category": "TIEMPO_RELATIVO",
+        "matched_text": "mañana",
+        "position": [
+          1128,
+          1134
+        ],
+        "start": 1128,
+        "end": 1134
+      },
+      {
+        "category": "TIEMPO_RELATIVO",
+        "matched_text": "actualmente",
+        "position": [
+          552,
+          563
+        ],
+        "start": 552,
+        "end": 563
+      },
+      {
+        "category": "JUSTICIA_SOCIAL",
+        "matched_text": "derechos humanos",
+        "position": [
+          1535,
+          1551
+        ],
+        "start": 1535,
+        "end": 1551
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "más de 100",
+        "position": [
+          1411,
+          1421
+        ],
+        "start": 1411,
+        "end": 1421
+      }
+    ],
+    "match_count": 12
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Vivre Ensemble",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Fuerzas Armadas de Haití",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Petion-ville",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "PNH",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "BSAP",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Kenscoff",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "FADH",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "EFE",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Red Nacional de Defensa de los Derechos Humanos",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Delmas",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Puerto Príncipe",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Lazare",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Teleco",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Policía Nacional de Haití",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Lionel Lazare",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Brigada de Seguridad Aérea Protegida",
+        "tipo": "Organizacion"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Brigada de Seguridad Aérea Protegida",
+        "relacion": "MORIR",
+        "objeto": "Kenscoff"
+      },
+      {
+        "sujeto": "Brigada de Seguridad Aérea Protegida",
+        "relacion": "MORIR",
+        "objeto": "Puerto Príncipe"
+      },
+      {
+        "sujeto": "BSAP",
+        "relacion": "MORIR",
+        "objeto": "Kenscoff"
+      },
+      {
+        "sujeto": "BSAP",
+        "relacion": "MORIR",
+        "objeto": "Puerto Príncipe"
+      },
+      {
+        "sujeto": "Fuerzas Armadas de Haití",
+        "relacion": "MORIR",
+        "objeto": "Kenscoff"
+      },
+      {
+        "sujeto": "Fuerzas Armadas de Haití",
+        "relacion": "MORIR",
+        "objeto": "Puerto Príncipe"
+      },
+      {
+        "sujeto": "FADH",
+        "relacion": "MORIR",
+        "objeto": "Kenscoff"
+      },
+      {
+        "sujeto": "FADH",
+        "relacion": "MORIR",
+        "objeto": "Puerto Príncipe"
+      },
+      {
+        "sujeto": "Policía Nacional de Haití",
+        "relacion": "CONFIRMAR",
+        "objeto": "Teleco"
+      },
+      {
+        "sujeto": "Policía Nacional de Haití",
+        "relacion": "CONFIRMAR",
+        "objeto": "Kenscoff"
+      },
+      {
+        "sujeto": "Policía Nacional de Haití",
+        "relacion": "CONFIRMAR",
+        "objeto": "Puerto Príncipe"
+      },
+      {
+        "sujeto": "PNH",
+        "relacion": "CONFIRMAR",
+        "objeto": "Teleco"
+      },
+      {
+        "sujeto": "PNH",
+        "relacion": "CONFIRMAR",
+        "objeto": "Kenscoff"
+      },
+      {
+        "sujeto": "PNH",
+        "relacion": "CONFIRMAR",
+        "objeto": "Puerto Príncipe"
+      },
+      {
+        "sujeto": "Lionel Lazare",
+        "relacion": "CONFIRMAR",
+        "objeto": "Teleco"
+      },
+      {
+        "sujeto": "Lionel Lazare",
+        "relacion": "CONFIRMAR",
+        "objeto": "Kenscoff"
+      },
+      {
+        "sujeto": "Lionel Lazare",
+        "relacion": "CONFIRMAR",
+        "objeto": "Puerto Príncipe"
+      },
+      {
+        "sujeto": "Policía Nacional de Haití",
+        "relacion": "CONTINUAR_COMUNICAR",
+        "objeto": "Lazare"
+      },
+      {
+        "sujeto": "Policía Nacional de Haití",
+        "relacion": "CONTINUAR_COMUNICAR",
+        "objeto": "EFE"
+      },
+      {
+        "sujeto": "Lazare",
+        "relacion": "COMUNICAR",
+        "objeto": "EFE"
+      },
+      {
+        "sujeto": "Vivre Ensemble",
+        "relacion": "ATACAR",
+        "objeto": "Kenscoff"
+      },
+      {
+        "sujeto": "Policía Nacional de Haití",
+        "relacion": "ATACAR",
+        "objeto": "Vivre Ensemble"
+      },
+      {
+        "sujeto": "Policía Nacional de Haití",
+        "relacion": "ATACAR",
+        "objeto": "Kenscoff"
+      },
+      {
+        "sujeto": "Kenscoff",
+        "relacion": "TOMAR_BUSCAR",
+        "objeto": "Petion-ville"
+      },
+      {
+        "sujeto": "Delmas",
+        "relacion": "TOMAR_BUSCAR",
+        "objeto": "Kenscoff"
+      },
+      {
+        "sujeto": "Kenscoff",
+        "relacion": "TOMAR_BUSCAR",
+        "objeto": "Puerto Príncipe"
+      },
+      {
+        "sujeto": "Delmas",
+        "relacion": "CONTROLAR_FACILITAR_BUSCAR",
+        "objeto": "Petion-ville"
+      },
+      {
+        "sujeto": "Petion-ville",
+        "relacion": "CONTROLAR_FACILITAR_BUSCAR",
+        "objeto": "Puerto Príncipe"
+      },
+      {
+        "sujeto": "Delmas",
+        "relacion": "POSTERIORMENTE_CONTROLAR_FACILITAR_BUSCAR",
+        "objeto": "Puerto Príncipe"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.5423,
+    "pos": 0.0,
+    "neu": 0.985,
+    "neg": 0.015,
+    "label": "negative"
+  }
+}

@@ -1,0 +1,814 @@
+{
+  "url": "https://www.telesurtv.net/arrestan-a-mas-de-40-migrantes-en-operativos-antimigrantes-en-los-angeles-ee-uu/",
+  "title": "Arrestan a más de 40 personas en redadas antinmigrantes en Los Ángeles, EE.UU. - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "EEUU",
+    "Los Ángeles",
+    "Migrantes Detenidois",
+    "Migrantes Detenidos",
+    "Redadas Antimigrantes"
+  ],
+  "text": "Decenas de personas fueron arrestadas el viernes en múltiples operativos de inmigración en Los Ángeles, en los que participaron las Investigaciones de Seguridad Nacional (HSI), la DEA y el FBI.\nLas redadas ocurrieron en el Distrito Westlake, el centro y el sur de Los Ángeles, provocando protestas en apoyo a los migrantes en varias zonas de la ciudad.\nLa portavoz del Servicio de Inmigración y Control de Aduanas, Yasmeen Pitts O’Keefe, confirmó a los medios locales que alrededor de 44 personas fueron arrestadas en los operativos.\n“Aproximadamente 44 personas fueron arrestadas administrativamente y una por obstrucción. La investigación continúa y se actualizará según corresponda” añadió O’Keefe.\nDesde la Coalición por los Derechos Humanos de los Inmigrantes (Chirla), un grupo de defensa de los derechos de los inmigrantes, también estimó que al menos 45 personas habían sido detenidas.\nEn uno de los operativos, el Sindicato Internacional de Empleados de Servicio-Trabajadores de Servicio Unidos Oeste informó que su presidente, David Huerta, fue detenido.\nA través de un comunicado, el sindicato indicó que el líder gremial resultó herido durante el arresto y fue atendido en el Hospital General de Los Ángeles antes de ser dado de alta y trasladado al Centro de Detención Metropolitano en el centro de Los Ángeles.\nEl gobernador de California, Gavin Newsom calificó de arbitrarias e improcedentes las redadas antimigrantes.\n“El caos de Donald Trump está erosionando la confianza, separando a las familias y socavando a los trabajadores y las industrias que impulsan la economía de EE.UU.“, crítica Newson la gestión del presidente estadounidense.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/arrestan-a-mas-de-40-migrantes-en-operativos-antimigrantes-en-los-angeles-ee-uu/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-06.json",
+    "message_index": 1890,
+    "message_id": 95792,
+    "date": "2025-06-07T09:55:12+00:00",
+    "text": "teleSUR\nArrestan a más de 40 migrantes en operativos antimigrantes en Los Ángeles, EE.UU.\nhttps://www.telesurtv.net/arrestan-a-mas-de-40-migrantes-en-operativos-antimigrantes-en-los-angeles-ee-uu/",
+    "photo_path": null,
+    "views": 1949,
+    "reactions": {
+      "👎": 32,
+      "💩": 8,
+      "❤": 1,
+      "👍": 1
+    },
+    "total_reactions": 42
+  },
+  "preprocessing": {
+    "cleaned": "decenas de personas fueron arrestadas el viernes en múltiples operativos de inmigración en los ángeles, en los que participaron las investigaciones de seguridad nacional (hsi), la dea y el fbi. las redadas ocurrieron en el distrito westlake, el centro y el sur de los ángeles, provocando protestas en apoyo a los migrantes en varias zonas de la ciudad. la portavoz del servicio de inmigración y control de aduanas, yasmeen pitts o’keefe, confirmó a los medios locales que alrededor de 44 personas fueron arrestadas en los operativos. “aproximadamente 44 personas fueron arrestadas administrativamente y una por obstrucción. la investigación continúa y se actualizará según corresponda” añadió o’keefe. desde la coalición por los derechos humanos de los inmigrantes (chirla), un grupo de defensa de los derechos de los inmigrantes, también estimó que al menos 45 personas habían sido detenidas. en uno de los operativos, el sindicato internacional de empleados de servicio-trabajadores de servicio unidos oeste informó que su presidente, david huerta, fue detenido. a través de un comunicado, el sindicato indicó que el líder gremial resultó herido durante el arresto y fue atendido en el hospital general de los ángeles antes de ser dado de alta y trasladado al centro de detención metropolitano en el centro de los ángeles. el gobernador de california, gavin newsom calificó de arbitrarias e improcedentes las redadas antimigrantes. “el caos de donald trump está erosionando la confianza, separando a las familias y socavando a los trabajadores y las industrias que impulsan la economía de ee.uu.“, crítica newson la gestión del presidente estadounidense.",
+    "tokens": [
+      "decenas",
+      "personas",
+      "arrestadas",
+      "viernes",
+      "múltiples",
+      "operativos",
+      "inmigración",
+      "ángeles",
+      ",",
+      "participaron",
+      "investigaciones",
+      "seguridad",
+      "nacional",
+      "(",
+      "hsi",
+      ")",
+      ",",
+      "dea",
+      "fbi",
+      ".",
+      "redadas",
+      "ocurrieron",
+      "distrito",
+      "westlake",
+      ",",
+      "centro",
+      "sur",
+      "ángeles",
+      ",",
+      "provocando",
+      "protestas",
+      "apoyo",
+      "migrantes",
+      "varias",
+      "zonas",
+      "ciudad",
+      ".",
+      "portavoz",
+      "servicio",
+      "inmigración",
+      "control",
+      "aduanas",
+      ",",
+      "yasmeen",
+      "pitts",
+      "’",
+      "keefe",
+      ",",
+      "confirmó",
+      "medios",
+      "locales",
+      "alrededor",
+      "44",
+      "personas",
+      "arrestadas",
+      "operativos",
+      ".",
+      "“",
+      "aproximadamente",
+      "44",
+      "personas",
+      "arrestadas",
+      "administrativamente",
+      "obstrucción",
+      ".",
+      "investigación",
+      "continúa",
+      "actualizará",
+      "según",
+      "corresponda",
+      "”",
+      "añadió",
+      "’",
+      "keefe",
+      ".",
+      "coalición",
+      "derechos",
+      "humanos",
+      "inmigrantes",
+      "(",
+      "chirla",
+      ")",
+      ",",
+      "grupo",
+      "defensa",
+      "derechos",
+      "inmigrantes",
+      ",",
+      "estimó",
+      "menos",
+      "45",
+      "personas",
+      "sido",
+      "detenidas",
+      ".",
+      "operativos",
+      ",",
+      "sindicato",
+      "internacional",
+      "empleados",
+      "servicio-trabajadores",
+      "servicio",
+      "unidos",
+      "oeste",
+      "informó",
+      "presidente",
+      ",",
+      "david",
+      "huerta",
+      ",",
+      "detenido",
+      ".",
+      "través",
+      "comunicado",
+      ",",
+      "sindicato",
+      "indicó",
+      "líder",
+      "gremial",
+      "resultó",
+      "herido",
+      "arresto",
+      "atendido",
+      "hospital",
+      "general",
+      "ángeles",
+      "ser",
+      "dado",
+      "alta",
+      "trasladado",
+      "centro",
+      "detención",
+      "metropolitano",
+      "centro",
+      "ángeles",
+      ".",
+      "gobernador",
+      "california",
+      ",",
+      "gavin",
+      "newsom",
+      "calificó",
+      "arbitrarias",
+      "improcedentes",
+      "redadas",
+      "antimigrantes",
+      ".",
+      "“",
+      "caos",
+      "donald",
+      "trump",
+      "erosionando",
+      "confianza",
+      ",",
+      "separando",
+      "familias",
+      "socavando",
+      "trabajadores",
+      "industrias",
+      "impulsan",
+      "economía",
+      "ee.uu.",
+      "“",
+      ",",
+      "crítica",
+      "newson",
+      "gestión",
+      "presidente",
+      "estadounidense",
+      "."
+    ],
+    "token_count": 170,
+    "sentence_count": 10
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 63,
+      "FW": 58,
+      "NN": 59,
+      "NNS": 12,
+      "VBP": 6,
+      "IN": 13,
+      "JJ": 19,
+      "VBZ": 4,
+      "CD": 3,
+      "VBD": 2,
+      "RBR": 1
+    },
+    "bigram_freq": {
+      "NNP-NNP": 31,
+      "NNP-FW": 12,
+      "FW-NN": 9,
+      "NN-NNS": 5,
+      "NNS-VBP": 6,
+      "VBP-NNS": 1,
+      "NNS-IN": 2,
+      "IN-NNS": 1,
+      "NNS-FW": 1,
+      "FW-FW": 29,
+      "FW-NNP": 16,
+      "NN-NN": 28,
+      "NN-JJ": 2,
+      "JJ-NNP": 2,
+      "NNP-VBZ": 3,
+      "VBZ-NNP": 1,
+      "VBZ-FW": 1,
+      "NN-FW": 8,
+      "NN-IN": 6,
+      "IN-NNP": 4,
+      "NNP-NN": 10,
+      "IN-JJ": 2,
+      "JJ-NN": 11,
+      "VBP-JJ": 5,
+      "JJ-FW": 2,
+      "NNP-IN": 4,
+      "NNS-VBZ": 1,
+      "VBZ-JJ": 1,
+      "IN-CD": 1,
+      "CD-NNS": 2,
+      "FW-JJ": 2,
+      "NNP-CD": 1,
+      "CD-NN": 1,
+      "NN-NNP": 7,
+      "IN-FW": 5,
+      "NNP-JJ": 1,
+      "FW-NNS": 2,
+      "NN-VBD": 1,
+      "VBD-CD": 1,
+      "NNS-JJ": 1,
+      "JJ-JJ": 3,
+      "NNP-VBD": 1,
+      "VBD-JJ": 1,
+      "NN-RBR": 1,
+      "RBR-JJ": 1,
+      "VBZ-IN": 1,
+      "JJ-NNS": 1,
+      "NNS-NNP": 1
+    },
+    "trigram_freq": {
+      "NNP-NNP-FW": 7,
+      "NNP-FW-NN": 4,
+      "FW-NN-NNS": 2,
+      "NN-NNS-VBP": 3,
+      "NNS-VBP-NNS": 1,
+      "VBP-NNS-IN": 1,
+      "NNS-IN-NNS": 1,
+      "IN-NNS-FW": 1,
+      "NNS-FW-FW": 1,
+      "FW-FW-FW": 17,
+      "FW-FW-NNP": 6,
+      "FW-NNP-NNP": 11,
+      "FW-NN-NN": 3,
+      "NN-NN-NN": 16,
+      "NN-NN-JJ": 2,
+      "NN-JJ-NNP": 1,
+      "JJ-NNP-FW": 1,
+      "NNP-FW-NNP": 5,
+      "NNP-NNP-NNP": 10,
+      "NNP-NNP-VBZ": 3,
+      "NNP-VBZ-NNP": 1,
+      "VBZ-NNP-NNP": 1,
+      "NNP-VBZ-FW": 1,
+      "VBZ-FW-FW": 1,
+      "FW-NN-FW": 3,
+      "NN-FW-NN": 2,
+      "FW-NN-IN": 1,
+      "NN-IN-NNP": 1,
+      "IN-NNP-NNP": 3,
+      "NNP-NNP-NN": 6,
+      "NNP-NN-NNS": 1,
+      "NN-NNS-IN": 1,
+      "NNS-IN-JJ": 1,
+      "IN-JJ-NN": 2,
+      "JJ-NN-NNS": 1,
+      "NNS-VBP-JJ": 5,
+      "VBP-JJ-FW": 2,
+      "JJ-FW-FW": 2,
+      "FW-NNP-FW": 3,
+      "NNP-FW-FW": 3,
+      "NNP-NNP-IN": 3,
+      "NNP-IN-NNP": 3,
+      "NNP-NN-NN": 4,
+      "NN-NN-NNS": 1,
+      "NN-NNS-VBZ": 1,
+      "NNS-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 1,
+      "JJ-NN-IN": 3,
+      "NN-IN-CD": 1,
+      "IN-CD-NNS": 1,
+      "CD-NNS-VBP": 1,
+      "FW-FW-JJ": 1,
+      "FW-JJ-NNP": 1,
+      "JJ-NNP-CD": 1,
+      "NNP-CD-NN": 1,
+      "CD-NN-NN": 1,
+      "NN-JJ-NN": 1,
+      "JJ-NN-NN": 4,
+      "NN-NN-NNP": 4,
+      "NN-NNP-NN": 2,
+      "NN-NNP-NNP": 5,
+      "NNP-IN-FW": 1,
+      "IN-FW-NNP": 2,
+      "NNP-NNP-JJ": 1,
+      "NNP-JJ-NN": 1,
+      "NN-IN-FW": 3,
+      "IN-FW-FW": 2,
+      "FW-FW-NNS": 2,
+      "FW-NNS-VBP": 2,
+      "VBP-JJ-NN": 1,
+      "NN-NN-VBD": 1,
+      "NN-VBD-CD": 1,
+      "VBD-CD-NNS": 1,
+      "CD-NNS-JJ": 1,
+      "NNS-JJ-JJ": 1,
+      "JJ-JJ-NN": 2,
+      "JJ-NN-NNP": 2,
+      "NNP-NN-IN": 1,
+      "IN-FW-JJ": 1,
+      "FW-JJ-NN": 1,
+      "FW-NNP-IN": 1,
+      "IN-NNP-FW": 1,
+      "NNP-NNP-VBD": 1,
+      "NNP-VBD-JJ": 1,
+      "VBD-JJ-NN": 1,
+      "NN-IN-JJ": 1,
+      "NN-NN-RBR": 1,
+      "NN-RBR-JJ": 1,
+      "RBR-JJ-NN": 1,
+      "NN-NN-FW": 1,
+      "NN-NN-IN": 1,
+      "NNP-VBZ-IN": 1,
+      "VBZ-IN-FW": 1,
+      "FW-FW-NN": 3,
+      "NN-FW-NNP": 3,
+      "NNP-NN-FW": 3,
+      "NN-FW-FW": 3,
+      "VBP-JJ-NNS": 1,
+      "JJ-NNS-NNP": 1,
+      "NNS-NNP-NN": 1,
+      "VBP-JJ-JJ": 1,
+      "JJ-JJ-JJ": 1,
+      "JJ-NN-FW": 1,
+      "FW-NNP-NN": 1,
+      "NNP-NN-NNP": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NNP": 63,
+        "NN": 59,
+        "FW": 58,
+        "JJ": 19,
+        "IN": 13
+      },
+      "top_bigrams": {
+        "NNP-NNP": 31,
+        "FW-FW": 29,
+        "NN-NN": 28,
+        "FW-NNP": 16,
+        "NNP-FW": 12
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 17,
+        "NN-NN-NN": 16,
+        "FW-NNP-NNP": 11,
+        "NNP-NNP-NNP": 10,
+        "NNP-NNP-FW": 7
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 10,
+    "chunk_counts": {
+      "NP": 73,
+      "VP": 14,
+      "PP": 7,
+      "ADJP": 1
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 5,
+        "weight": 0.0476
+      },
+      {
+        "rule": "NP -> ('Los', 'NNP') ('Ángeles', 'NNP')",
+        "frequency": 3,
+        "weight": 0.0286
+      },
+      {
+        "rule": "NP -> ('La', 'NNP')",
+        "frequency": 2,
+        "weight": 0.019
+      },
+      {
+        "rule": "NP -> ('personas', 'NNS')",
+        "frequency": 2,
+        "weight": 0.019
+      },
+      {
+        "rule": "S -> NP ('personas', 'FW') NP VP PP ('operativos', 'FW') ('de', 'FW') ('inmigración', 'FW') ('en', 'FW') NP (',', ',') ('en', 'FW') ('los', 'FW') NP PP ('(', '(') NP (')', ')') (',', ',') ('la', 'FW') NP ('y', 'CC') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0095
+      },
+      {
+        "rule": "NP -> ('Decenas', 'NNP') ('de', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0095
+      },
+      {
+        "rule": "NP -> ('fueron', 'NN') ('arrestadas', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0095
+      },
+      {
+        "rule": "VP -> ('el', 'VBP') NP",
+        "frequency": 1,
+        "weight": 0.0095
+      },
+      {
+        "rule": "NP -> ('viernes', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0095
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 1,
+        "weight": 0.0095
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Decenas de"
+      },
+      {
+        "label": "NP",
+        "text": "fueron arrestadas"
+      },
+      {
+        "label": "VP",
+        "text": "el viernes"
+      },
+      {
+        "label": "NP",
+        "text": "viernes"
+      },
+      {
+        "label": "PP",
+        "text": "en múltiples"
+      },
+      {
+        "label": "NP",
+        "text": "múltiples"
+      },
+      {
+        "label": "NP",
+        "text": "Los Ángeles"
+      },
+      {
+        "label": "NP",
+        "text": "que participaron las Investigaciones"
+      },
+      {
+        "label": "PP",
+        "text": "de Seguridad Nacional"
+      },
+      {
+        "label": "NP",
+        "text": "Seguridad Nacional"
+      },
+      {
+        "label": "NP",
+        "text": "HSI"
+      },
+      {
+        "label": "NP",
+        "text": "DEA"
+      },
+      {
+        "label": "NP",
+        "text": "el FBI"
+      },
+      {
+        "label": "NP",
+        "text": "Las"
+      },
+      {
+        "label": "VP",
+        "text": "redadas"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Decenas/NNP de/NNP)\n  personas/FW\n  (NP fueron/NN arrestadas/NNS)\n  (VP el/VBP (NP viernes/NNS))\n  (PP en/IN (NP múltiples/NNS))\n  operativos/FW\n  de/FW\n  inmigración/FW\n  en/FW\n  (NP Los/NNP Ángeles/NNP)\n  ,/,\n  en/FW\n  los/FW\n  (NP que/JJ participaron/NN las/NN Investigaciones/NNP)\n  (PP de/IN (NP Seguridad/NNP Nacional/NNP))\n  (/(\n  (NP HSI/NNP)\n  )/)\n  ,/,\n  la/FW\n  (NP DEA/NNP)\n  y/CC\n  (NP el/JJ FBI/NNP)\n  ./.)",
+      "(S\n  (NP Las/NNP)\n  (VP redadas/VBZ)\n  ocurrieron/FW\n  en/FW\n  el/FW\n  (NP Distrito/NNP Westlake/NNP)\n  ,/,\n  el/FW\n  (NP centro/NN y/NN)\n  el/FW\n  (NP sur/NN)\n  (PP de/IN (NP Los/NNP Ángeles/NNP))\n  ,/,\n  (NP provocando/NN protestas/NNS)\n  (VP en/VBP)\n  (PP apoyo/IN (NP a/DT los/NN))\n  (VP migrantes/VBZ)\n  en/IN\n  varias/FW\n  zonas/FW\n  de/FW\n  la/FW\n  (NP ciudad/NN)\n  ./.)",
+      "(S\n  (NP La/NNP)\n  (VP portavoz/VBZ)\n  del/FW\n  (NP Servicio/NNP)\n  de/FW\n  (NP Inmigración/NNP)\n  y/CC\n  (NP Control/NNP de/NNP Aduanas/NNP)\n  ,/,\n  (NP Yasmeen/NNP Pitts/NNP O/NNP ’/NNP Keefe/NNP)\n  ,/,\n  (VP\n    confirmó/VBZ\n    (NP a/DT los/JJ medios/JJ locales/NNS)\n    (NP que/JJ alrededor/NN))\n  de/IN\n  44/CD\n  (NP personas/NNS)\n  (VP fueron/VBP arrestadas/JJ)\n  en/FW\n  (NP los/NN operativos/NN)\n  ./.)",
+      "(S\n  (NP “/JJ Aproximadamente/NNP)\n  44/CD\n  (NP\n    personas/NN\n    fueron/NN\n    arrestadas/NN\n    administrativamente/NN\n    y/NNP)\n  (NP una/JJ por/NN obstrucción/NN)\n  ./.)",
+      "(S\n  (NP La/NNP)\n  (VP\n    investigación/VBZ\n    (NP\n      continúa/JJ\n      y/NN\n      se/NN\n      actualizará/NN\n      según/NN\n      corresponda/NN\n      ”/NNP\n      añadió/NN\n      O/NNP\n      ’/NNP\n      Keefe/NNP))\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "GOBIERNOS_OFICIALES",
+      "CANTIDADES_NUMERICAS",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "ORGANIZACIONES_SOCIALES",
+      "JUSTICIA_SOCIAL",
+      "LOCALIZACIONES_ESPECIFICAS",
+      "INFRAESTRUCTURA_SERVICIOS",
+      "JURIDICO_LEGISLATIVO_CORRUPCION"
+    ],
+    "matches": [
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "informó",
+        "position": [
+          1010,
+          1017
+        ],
+        "start": 1010,
+        "end": 1017
+      },
+      {
+        "category": "JURIDICO_LEGISLATIVO_CORRUPCION",
+        "matched_text": "defensa",
+        "position": [
+          787,
+          794
+        ],
+        "start": 787,
+        "end": 794
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente estadounidense",
+        "position": [
+          1630,
+          1655
+        ],
+        "start": 1630,
+        "end": 1655
+      },
+      {
+        "category": "ORGANIZACIONES_SOCIALES",
+        "matched_text": "sindicato internacional de empleados",
+        "position": [
+          923,
+          959
+        ],
+        "start": 923,
+        "end": 959
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "hospital",
+        "position": [
+          1188,
+          1196
+        ],
+        "start": 1188,
+        "end": 1196
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "centro y el",
+        "position": [
+          245,
+          256
+        ],
+        "start": 245,
+        "end": 256
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "hospital general",
+        "position": [
+          1188,
+          1204
+        ],
+        "start": 1188,
+        "end": 1204
+      },
+      {
+        "category": "JUSTICIA_SOCIAL",
+        "matched_text": "derechos humanos",
+        "position": [
+          729,
+          745
+        ],
+        "start": 729,
+        "end": 745
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "44 personas",
+        "position": [
+          485,
+          496
+        ],
+        "start": 485,
+        "end": 496
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "45 personas",
+        "position": [
+          859,
+          870
+        ],
+        "start": 859,
+        "end": 870
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "alrededor de 44",
+        "position": [
+          472,
+          487
+        ],
+        "start": 472,
+        "end": 487
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "aproximadamente 44",
+        "position": [
+          535,
+          553
+        ],
+        "start": 535,
+        "end": 553
+      }
+    ],
+    "match_count": 12
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "EE.UU.",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Hospital General de Los Ángeles",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Coalición por los Derechos Humanos de los Inmigrantes",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Distrito Westlake",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "David Huerta",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Sindicato Internacional de Empleados de Servicio-Trabajadores de Servicio Unidos Oeste",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Gavin Newsom",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Yasmeen Pitts O’Keefe",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Los Ángeles",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Centro",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Newson",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "FBI",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "O’Keefe",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Investigaciones de Seguridad Nacional",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Detención Metropolitano",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "DEA",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "HSI",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Chirla",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Donald Trump",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "California",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Servicio de Inmigración",
+        "tipo": "Organizacion"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Sindicato Internacional de Empleados de Servicio-Trabajadores de Servicio Unidos Oeste",
+        "relacion": "INFORMAR",
+        "objeto": "David Huerta"
+      },
+      {
+        "sujeto": "Hospital General de Los Ángeles",
+        "relacion": "ATENDER_RESULTAR_INDICAR",
+        "objeto": "Centro"
+      },
+      {
+        "sujeto": "Hospital General de Los Ángeles",
+        "relacion": "ATENDER_RESULTAR_INDICAR",
+        "objeto": "Detención Metropolitano"
+      },
+      {
+        "sujeto": "Hospital General de Los Ángeles",
+        "relacion": "ATENDER_RESULTAR_INDICAR",
+        "objeto": "Los Ángeles"
+      },
+      {
+        "sujeto": "Centro",
+        "relacion": "TRASLADAR_DAR_ANTES_ATENDER_RESULTAR_INDICAR",
+        "objeto": "Los Ángeles"
+      },
+      {
+        "sujeto": "Detención Metropolitano",
+        "relacion": "TRASLADAR_DAR_ANTES_ATENDER_RESULTAR_INDICAR",
+        "objeto": "Los Ángeles"
+      },
+      {
+        "sujeto": "Gavin Newsom",
+        "relacion": "CALIFICAR",
+        "objeto": "California"
+      },
+      {
+        "sujeto": "Donald Trump",
+        "relacion": "EROSIONAR",
+        "objeto": "EE.UU."
+      },
+      {
+        "sujeto": "Donald Trump",
+        "relacion": "EROSIONAR",
+        "objeto": "Newson"
+      },
+      {
+        "sujeto": "EE.UU.",
+        "relacion": "IMPULSAR_SOCAVAR_SEPARAR_EROSIONAR",
+        "objeto": "Newson"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.0,
+    "pos": 0.0,
+    "neu": 1.0,
+    "neg": 0.0,
+    "label": "neutral"
+  }
+}

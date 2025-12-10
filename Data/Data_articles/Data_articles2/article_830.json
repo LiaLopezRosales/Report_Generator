@@ -1,0 +1,727 @@
+{
+  "url": "https://www.telesurtv.net/donald-trump-autoriza-al-ejercito-a-ocupar-terrenos-fronterizos/",
+  "title": "Donald Trump autoriza al ejército a ocupar terrenos fronterizos - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "EE.UU.",
+    "Ejército",
+    "Migración"
+  ],
+  "text": "Donald Trump autorizó esta semana al ejército estadounidense a ocupar un tramo del terreno fronterizo que limita con México, con el fin de implementar de manera efectiva su política migratoria.\nLa transferencia de estas tierras, que se llevará a cabo en los próximos 45 días, se fundamenta en un documento emitido por la Casa Blanca. En este, el mandatario de EE. UU. solicita a los secretarios de Defensa, Seguridad Nacional, Interior y Agricultura que faciliten las actividades militares, las cuales aún no han sido especificadas, pero que están alineadas con la estrategia gubernamental.\nEl área en cuestión es la Reserva Roosevelt, que comprende una estrecha franja de terreno de 20 metros de ancho, situada paralelamente a la frontera con México, a lo largo de aproximadamente 1.000 kilómetros, desde Nuevo México hasta California.\nLa presencia del ejército en la frontera y la posibilidad de arrestar migrantes subrayan, por un lado, la creciente intervención del Pentágono en la gestión de los organismos migratorios y, por otro lado, despiertan inquietudes sobre la legalidad de que los soldados detengan a individuos en territorio estadounidense.Es importante destacar que, a mediados de marzo, el medio The Washington Post publicó un artículo sobre la autorización que estaba otorgando el gobierno para permitir al Ejército de EE. UU. detener a migrantes que crucen la frontera de manera irregular.Todo esto es consecuencia del gran número de individuos provenientes de naciones latinoamericanas que han cruzado la frontera sur de Estados Unidos.\nDesde la toma de posesión de Trump, el flujo de migrantes ha disminuido considerablemente, pasando de más de 124.000 arrestos en diciembre, antes de su presidencia, a menos de 30.000 en febrero.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/donald-trump-autoriza-al-ejercito-a-ocupar-terrenos-fronterizos/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-04.json",
+    "message_index": 1225,
+    "message_id": 91696,
+    "date": "2025-04-12T05:55:08+00:00",
+    "text": "teleSUR\nDonald Trump autoriza al ejército a ocupar terrenos fronterizos\nhttps://www.telesurtv.net/donald-trump-autoriza-al-ejercito-a-ocupar-terrenos-fronterizos/",
+    "photo_path": null,
+    "views": 1928,
+    "reactions": {
+      "💩": 28,
+      "🤯": 15,
+      "🤬": 5,
+      "👎": 1
+    },
+    "total_reactions": 49
+  },
+  "preprocessing": {
+    "cleaned": "donald trump autorizó esta semana al ejército estadounidense a ocupar un tramo del terreno fronterizo que limita con méxico, con el fin de implementar de manera efectiva su política migratoria. la transferencia de estas tierras, que se llevará a cabo en los próximos 45 días, se fundamenta en un documento emitido por la casa blanca. en este, el mandatario de ee. uu. solicita a los secretarios de defensa, seguridad nacional, interior y agricultura que faciliten las actividades militares, las cuales aún no han sido especificadas, pero que están alineadas con la estrategia gubernamental. el área en cuestión es la reserva roosevelt, que comprende una estrecha franja de terreno de 20 metros de ancho, situada paralelamente a la frontera con méxico, a lo largo de aproximadamente 1.000 kilómetros, desde nuevo méxico hasta california. la presencia del ejército en la frontera y la posibilidad de arrestar migrantes subrayan, por un lado, la creciente intervención del pentágono en la gestión de los organismos migratorios y, por otro lado, despiertan inquietudes sobre la legalidad de que los soldados detengan a individuos en territorio estadounidense.es importante destacar que, a mediados de marzo, el medio the washington post publicó un artículo sobre la autorización que estaba otorgando el gobierno para permitir al ejército de ee. uu. detener a migrantes que crucen la frontera de manera irregular.todo esto es consecuencia del gran número de individuos provenientes de naciones latinoamericanas que han cruzado la frontera sur de estados unidos. desde la toma de posesión de trump, el flujo de migrantes ha disminuido considerablemente, pasando de más de 124.000 arrestos en diciembre, antes de su presidencia, a menos de 30.000 en febrero.",
+    "tokens": [
+      "donald",
+      "trump",
+      "autorizó",
+      "semana",
+      "ejército",
+      "estadounidense",
+      "ocupar",
+      "tramo",
+      "terreno",
+      "fronterizo",
+      "limita",
+      "méxico",
+      ",",
+      "fin",
+      "implementar",
+      "manera",
+      "efectiva",
+      "política",
+      "migratoria",
+      ".",
+      "transferencia",
+      "tierras",
+      ",",
+      "llevará",
+      "cabo",
+      "próximos",
+      "45",
+      "días",
+      ",",
+      "fundamenta",
+      "documento",
+      "emitido",
+      "casa",
+      "blanca",
+      ".",
+      ",",
+      "mandatario",
+      "ee",
+      ".",
+      "uu.",
+      "solicita",
+      "secretarios",
+      "defensa",
+      ",",
+      "seguridad",
+      "nacional",
+      ",",
+      "interior",
+      "agricultura",
+      "faciliten",
+      "actividades",
+      "militares",
+      ",",
+      "cuales",
+      "aún",
+      "sido",
+      "especificadas",
+      ",",
+      "alineadas",
+      "estrategia",
+      "gubernamental",
+      ".",
+      "área",
+      "cuestión",
+      "reserva",
+      "roosevelt",
+      ",",
+      "comprende",
+      "estrecha",
+      "franja",
+      "terreno",
+      "20",
+      "metros",
+      "ancho",
+      ",",
+      "situada",
+      "paralelamente",
+      "frontera",
+      "méxico",
+      ",",
+      "largo",
+      "aproximadamente",
+      "1.000",
+      "kilómetros",
+      ",",
+      "nuevo",
+      "méxico",
+      "california",
+      ".",
+      "presencia",
+      "ejército",
+      "frontera",
+      "posibilidad",
+      "arrestar",
+      "migrantes",
+      "subrayan",
+      ",",
+      "lado",
+      ",",
+      "creciente",
+      "intervención",
+      "pentágono",
+      "gestión",
+      "organismos",
+      "migratorios",
+      ",",
+      "lado",
+      ",",
+      "despiertan",
+      "inquietudes",
+      "legalidad",
+      "soldados",
+      "detengan",
+      "individuos",
+      "territorio",
+      "estadounidense.es",
+      "importante",
+      "destacar",
+      ",",
+      "mediados",
+      "marzo",
+      ",",
+      "medio",
+      "the",
+      "washington",
+      "post",
+      "publicó",
+      "artículo",
+      "autorización",
+      "otorgando",
+      "gobierno",
+      "permitir",
+      "ejército",
+      "ee",
+      ".",
+      "uu.",
+      "detener",
+      "migrantes",
+      "crucen",
+      "frontera",
+      "manera",
+      "irregular.todo",
+      "consecuencia",
+      "gran",
+      "número",
+      "individuos",
+      "provenientes",
+      "naciones",
+      "latinoamericanas",
+      "cruzado",
+      "frontera",
+      "sur",
+      "unidos",
+      ".",
+      "toma",
+      "posesión",
+      "trump",
+      ",",
+      "flujo",
+      "migrantes",
+      "disminuido",
+      "considerablemente",
+      ",",
+      "pasando",
+      "124.000",
+      "arrestos",
+      "diciembre",
+      ",",
+      "presidencia",
+      ",",
+      "menos",
+      "30.000",
+      "febrero",
+      "."
+    ],
+    "token_count": 174,
+    "sentence_count": 8
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 34,
+      "NN": 95,
+      "JJ": 24,
+      "IN": 15,
+      "FW": 54,
+      "NNS": 17,
+      "VBP": 9,
+      "CD": 5,
+      "VBD": 2,
+      "DT": 2,
+      "VBZ": 1,
+      "CC": 1,
+      "VB": 1,
+      "RB": 1
+    },
+    "bigram_freq": {
+      "NNP-NNP": 17,
+      "NNP-NN": 9,
+      "NN-NN": 62,
+      "NN-JJ": 4,
+      "JJ-NN": 11,
+      "NN-NNP": 7,
+      "NN-IN": 11,
+      "IN-FW": 7,
+      "FW-FW": 31,
+      "FW-NN": 10,
+      "NNP-FW": 6,
+      "FW-NNS": 3,
+      "NNS-VBP": 9,
+      "VBP-JJ": 7,
+      "IN-JJ": 2,
+      "JJ-JJ": 3,
+      "JJ-CD": 1,
+      "CD-NN": 2,
+      "IN-NNP": 4,
+      "NNP-VBD": 1,
+      "VBD-JJ": 2,
+      "JJ-NNS": 4,
+      "NNS-IN": 3,
+      "NN-VBD": 1,
+      "NNS-NNS": 2,
+      "VBP-NNS": 1,
+      "VBP-DT": 1,
+      "DT-NN": 1,
+      "NN-VBZ": 1,
+      "VBZ-JJ": 1,
+      "NN-FW": 6,
+      "FW-JJ": 3,
+      "JJ-NNP": 2,
+      "FW-CD": 4,
+      "CD-NNS": 3,
+      "NNS-FW": 1,
+      "NNS-JJ": 1,
+      "FW-NNP": 2,
+      "NN-NNS": 2,
+      "JJ-FW": 3,
+      "FW-CC": 1,
+      "CC-VB": 1,
+      "VB-DT": 1,
+      "DT-NNP": 1,
+      "NNP-IN": 1,
+      "IN-NNS": 2,
+      "NNS-RB": 1,
+      "RB-JJ": 1
+    },
+    "trigram_freq": {
+      "NNP-NNP-NN": 7,
+      "NNP-NN-NN": 6,
+      "NN-NN-NN": 37,
+      "NN-NN-JJ": 4,
+      "NN-JJ-NN": 3,
+      "JJ-NN-NN": 9,
+      "JJ-NN-NNP": 1,
+      "NN-NNP-NN": 2,
+      "NN-NN-IN": 9,
+      "NN-IN-FW": 6,
+      "IN-FW-FW": 3,
+      "FW-FW-FW": 19,
+      "FW-FW-NN": 4,
+      "FW-NN-NN": 8,
+      "NN-NN-NNP": 5,
+      "NN-NNP-FW": 1,
+      "NNP-FW-FW": 3,
+      "FW-FW-NNS": 2,
+      "FW-NNS-VBP": 2,
+      "NNS-VBP-JJ": 7,
+      "VBP-JJ-NN": 4,
+      "NN-IN-JJ": 2,
+      "IN-JJ-JJ": 1,
+      "JJ-JJ-CD": 1,
+      "JJ-CD-NN": 1,
+      "CD-NN-NN": 2,
+      "IN-JJ-NN": 1,
+      "NN-NNP-NNP": 3,
+      "NNP-NNP-NNP": 6,
+      "NN-IN-NNP": 2,
+      "IN-NNP-NNP": 4,
+      "NNP-NNP-VBD": 1,
+      "NNP-VBD-JJ": 1,
+      "VBD-JJ-NNS": 2,
+      "JJ-NNS-IN": 2,
+      "NNS-IN-NNP": 1,
+      "NNP-NN-VBD": 1,
+      "NN-VBD-JJ": 1,
+      "JJ-NNS-NNS": 1,
+      "NNS-NNS-VBP": 2,
+      "NNS-VBP-NNS": 1,
+      "VBP-NNS-VBP": 1,
+      "NNS-VBP-DT": 1,
+      "VBP-DT-NN": 1,
+      "DT-NN-VBZ": 1,
+      "NN-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 1,
+      "NN-NN-FW": 5,
+      "NN-FW-JJ": 1,
+      "FW-JJ-NNP": 1,
+      "JJ-NNP-NNP": 2,
+      "NNP-NNP-FW": 3,
+      "NNP-FW-NN": 3,
+      "NN-JJ-JJ": 1,
+      "JJ-JJ-NN": 2,
+      "JJ-NN-IN": 1,
+      "FW-FW-CD": 3,
+      "FW-CD-NNS": 3,
+      "CD-NNS-FW": 1,
+      "NNS-FW-FW": 1,
+      "FW-NN-FW": 1,
+      "NN-FW-NN": 2,
+      "IN-FW-CD": 1,
+      "CD-NNS-JJ": 1,
+      "NNS-JJ-NNP": 1,
+      "NNP-NN-NNP": 1,
+      "IN-FW-NN": 1,
+      "NN-FW-FW": 2,
+      "VBP-JJ-JJ": 1,
+      "NN-FW-NNP": 1,
+      "FW-NNP-FW": 2,
+      "FW-FW-JJ": 1,
+      "FW-JJ-NNS": 1,
+      "JJ-NNS-VBP": 1,
+      "NN-NN-NNS": 1,
+      "NN-NNS-VBP": 2,
+      "VBP-JJ-FW": 2,
+      "JJ-FW-FW": 3,
+      "FW-FW-CC": 1,
+      "FW-CC-VB": 1,
+      "CC-VB-DT": 1,
+      "VB-DT-NNP": 1,
+      "DT-NNP-NNP": 1,
+      "NN-NNP-IN": 1,
+      "NNP-IN-NNP": 1,
+      "NNP-NN-NNS": 1,
+      "IN-FW-NNS": 1,
+      "FW-NNS-IN": 1,
+      "NNS-IN-NNS": 1,
+      "IN-NNS-NNS": 1,
+      "FW-FW-NNP": 1,
+      "FW-NN-IN": 1,
+      "NN-IN-NNS": 1,
+      "IN-NNS-VBP": 1,
+      "CD-NNS-RB": 1,
+      "NNS-RB-JJ": 1,
+      "RB-JJ-NNS": 1,
+      "NNS-IN-FW": 1,
+      "IN-FW-JJ": 1,
+      "FW-JJ-FW": 1,
+      "FW-CD-NN": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 95,
+        "FW": 54,
+        "NNP": 34,
+        "JJ": 24,
+        "NNS": 17
+      },
+      "top_bigrams": {
+        "NN-NN": 62,
+        "FW-FW": 31,
+        "NNP-NNP": 17,
+        "JJ-NN": 11,
+        "NN-IN": 11
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 37,
+        "FW-FW-FW": 19,
+        "JJ-NN-NN": 9,
+        "NN-NN-IN": 9,
+        "FW-NN-NN": 8
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 8,
+    "chunk_counts": {
+      "NP": 65,
+      "VP": 13,
+      "ADJP": 2,
+      "PP": 6
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 5,
+        "weight": 0.0532
+      },
+      {
+        "rule": "NP -> ('La', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0213
+      },
+      {
+        "rule": "NP -> ('EE', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0213
+      },
+      {
+        "rule": "NP -> ('UU.', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0213
+      },
+      {
+        "rule": "NP -> ('migrantes', 'NNS')",
+        "frequency": 2,
+        "weight": 0.0213
+      },
+      {
+        "rule": "S -> NP VP (',', ',') NP ('de', 'IN') ('implementar', 'FW') ('de', 'FW') ('manera', 'FW') ('efectiva', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0106
+      },
+      {
+        "rule": "NP -> ('Donald', 'NNP') ('Trump', 'NNP') ('autorizó', 'NN') ('esta', 'NN') ('semana', 'NN') ('al', 'NN') ('ejército', 'NN')",
+        "frequency": 1,
+        "weight": 0.0106
+      },
+      {
+        "rule": "VP -> ('estadounidense', 'VBP') NP NP",
+        "frequency": 1,
+        "weight": 0.0106
+      },
+      {
+        "rule": "NP -> ('a', 'DT') ('ocupar', 'JJ') ('un', 'JJ') ('tramo', 'NN') ('del', 'NN') ('terreno', 'NN') ('fronterizo', 'NN') ('que', 'NN')",
+        "frequency": 1,
+        "weight": 0.0106
+      },
+      {
+        "rule": "NP -> ('limita', 'JJ') ('con', 'NN') ('México', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0106
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Donald Trump autorizó esta semana al ejército"
+      },
+      {
+        "label": "VP",
+        "text": "estadounidense a ocupar un tramo del terreno fronterizo que limita con México"
+      },
+      {
+        "label": "NP",
+        "text": "a ocupar un tramo del terreno fronterizo que"
+      },
+      {
+        "label": "NP",
+        "text": "limita con México"
+      },
+      {
+        "label": "NP",
+        "text": "con el fin"
+      },
+      {
+        "label": "NP",
+        "text": "su política migratoria"
+      },
+      {
+        "label": "NP",
+        "text": "La"
+      },
+      {
+        "label": "NP",
+        "text": "tierras"
+      },
+      {
+        "label": "NP",
+        "text": "que se"
+      },
+      {
+        "label": "VP",
+        "text": "llevará a cabo"
+      },
+      {
+        "label": "NP",
+        "text": "a cabo"
+      },
+      {
+        "label": "ADJP",
+        "text": "los"
+      },
+      {
+        "label": "ADJP",
+        "text": "próximos"
+      },
+      {
+        "label": "NP",
+        "text": "días"
+      },
+      {
+        "label": "NP",
+        "text": "fundamenta"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP\n    Donald/NNP\n    Trump/NNP\n    autorizó/NN\n    esta/NN\n    semana/NN\n    al/NN\n    ejército/NN)\n  (VP\n    estadounidense/VBP\n    (NP\n      a/DT\n      ocupar/JJ\n      un/JJ\n      tramo/NN\n      del/NN\n      terreno/NN\n      fronterizo/NN\n      que/NN)\n    (NP limita/JJ con/NN México/NNP))\n  ,/,\n  (NP con/NN el/NN fin/NN)\n  de/IN\n  implementar/FW\n  de/FW\n  manera/FW\n  efectiva/FW\n  (NP su/NN política/NN migratoria/NN)\n  ./.)",
+      "(S\n  (NP La/NNP)\n  transferencia/FW\n  de/FW\n  estas/FW\n  (NP tierras/NNS)\n  ,/,\n  (NP que/NN se/NN)\n  (VP llevará/VBZ (NP a/DT cabo/NN))\n  en/IN\n  (ADJP los/JJ)\n  (ADJP próximos/JJ)\n  45/CD\n  (NP días/NN)\n  ,/,\n  se/FW\n  (NP fundamenta/NN)\n  en/FW\n  (NP un/JJ documento/NN emitido/NN por/NN la/NN Casa/NNP Blanca/NNP)\n  ./.)",
+      "(S (NP En/NNP este/NN) ,/, el/FW mandatario/FW de/FW (NP EE/NNP) ./.)",
+      "(S\n  (NP UU./NNP)\n  (VP solicita/VBD (NP a/DT los/JJ secretarios/NN))\n  (PP de/IN (NP Defensa/NNP))\n  ,/,\n  (NP Seguridad/NNP Nacional/NNP)\n  ,/,\n  (NP Interior/NNP y/NNP Agricultura/NNP que/NN)\n  (VP faciliten/VBD (NP las/JJ actividades/NNS militares/NNS))\n  ,/,\n  (NP las/NNS cuales/NNS)\n  (VP aún/VBP (NP no/DT han/NN sido/NN especificadas/NN))\n  ,/,\n  (NP pero/NN que/NN están/NN)\n  (NP alineadas/JJ con/NN la/NN)\n  (NP estrategia/JJ gubernamental/NN)\n  ./.)",
+      "(S\n  (NP El/NNP área/NNP)\n  en/FW\n  (NP cuestión/NN es/NN la/NN Reserva/NNP Roosevelt/NNP)\n  ,/,\n  (NP que/NN comprende/NN)\n  (NP una/JJ estrecha/JJ franja/NN)\n  de/IN\n  terreno/FW\n  de/FW\n  20/CD\n  (NP metros/NNS)\n  de/FW\n  ancho/FW\n  ,/,\n  situada/FW\n  paralelamente/FW\n  (NP a/DT la/NN frontera/NN con/NN México/NNP)\n  ,/,\n  (NP a/DT lo/JJ largo/NN)\n  de/IN\n  aproximadamente/FW\n  1.000/CD\n  (NP kilómetros/NNS)\n  ,/,\n  (NP desde/NN Nuevo/NNP México/NNP hasta/NN California/NNP)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "APROBACION_RECHAZO",
+      "TIEMPO_RELATIVO",
+      "CANTIDADES_NUMERICAS",
+      "REGIONES_PROVINCIAS",
+      "PAISES",
+      "JURIDICO_LEGISLATIVO_CORRUPCION",
+      "POLITICAS_PUBLICAS"
+    ],
+    "matches": [
+      {
+        "category": "JURIDICO_LEGISLATIVO_CORRUPCION",
+        "matched_text": "defensa",
+        "position": [
+          398,
+          405
+        ],
+        "start": 398,
+        "end": 405
+      },
+      {
+        "category": "APROBACION_RECHAZO",
+        "matched_text": "autorizó",
+        "position": [
+          13,
+          21
+        ],
+        "start": 13,
+        "end": 21
+      },
+      {
+        "category": "POLITICAS_PUBLICAS",
+        "matched_text": "estrategia gubernamental",
+        "position": [
+          565,
+          589
+        ],
+        "start": 565,
+        "end": 589
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "estados unidos",
+        "position": [
+          1541,
+          1555
+        ],
+        "start": 1541,
+        "end": 1555
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "méxico",
+        "position": [
+          117,
+          123
+        ],
+        "start": 117,
+        "end": 123
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "área en",
+        "position": [
+          594,
+          601
+        ],
+        "start": 594,
+        "end": 601
+      },
+      {
+        "category": "TIEMPO_RELATIVO",
+        "matched_text": "esta semana",
+        "position": [
+          22,
+          33
+        ],
+        "start": 22,
+        "end": 33
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "aproximadamente 1.000",
+        "position": [
+          766,
+          787
+        ],
+        "start": 766,
+        "end": 787
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "más de 124.000",
+        "position": [
+          1659,
+          1673
+        ],
+        "start": 1659,
+        "end": 1673
+      }
+    ],
+    "match_count": 9
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Seguridad Nacional",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Casa Blanca",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Pentágono",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Trump",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Estados Unidos",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Nuevo México",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "The Washington Post",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Defensa,",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Donald Trump",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "California",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Reserva Roosevelt",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "EE. UU.",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "México",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Donald Trump",
+        "relacion": "AUTORIZAR",
+        "objeto": "México"
+      },
+      {
+        "sujeto": "EE. UU.",
+        "relacion": "SOLICITAR",
+        "objeto": "Defensa,"
+      },
+      {
+        "sujeto": "EE. UU.",
+        "relacion": "SOLICITAR",
+        "objeto": "Seguridad Nacional"
+      },
+      {
+        "sujeto": "México",
+        "relacion": "COMPRENDER",
+        "objeto": "Nuevo México"
+      },
+      {
+        "sujeto": "México",
+        "relacion": "COMPRENDER",
+        "objeto": "California"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.0516,
+    "pos": 0.009,
+    "neu": 0.983,
+    "neg": 0.008,
+    "label": "positive"
+  }
+}

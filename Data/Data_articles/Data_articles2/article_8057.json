@@ -1,0 +1,714 @@
+{
+  "url": "https://www.telesurtv.net/autoridades-libanesas-reportan-16-victimas-mortales-tras-ataque-israeli/",
+  "title": "Autoridades libanesas reportan 16 víctimas mortales tras ataque israelí - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Ataque israelí",
+    "Beirut",
+    "Ministerio de Salud Pública libanés"
+  ],
+  "text": "Un ataque israelí efectuado esta madrugada contra un edificio de ocho plantas en el barrio de Basta, en el centro de Beirut, dejó un saldo de al menos 16 muertos y 63 personas heridas, como lo informa el más reciente balance del Ministerio de Salud Pública sobre el hecho.\nDe acuerdo con el comunicado de la entidad sanitaria, han identificado una gran cantidad de partes del cuerpo. Sin embargo, “El número final de muertos se determinará después de que se realicen pruebas de ADN”, refiere el texto.\nEn la zona afectada, el uso de bombas rompe-búnkeres dejó un profundo cráter. Este ataque ocurrió luego de que aviones del Ejército israelí protagonizaran una intensa ofensiva en la zona sur de Beirut, especialmente en los alrededores de Tiro.\nPor su parte, la Agencia Nacional de Noticias del Líbano informó que aviones de guerra israelíes lanzaron un nuevo ataque sobre Hadath. Asimismo, reportaron bombardeos en la zona de al-Ruwais.\nAntes de ambos hechos, el Ejército sionista emitió amenazas de evacuación forzada para los residentes en las zonas de Hadath y Burj al-Barajneh en los suburbios del sur de Beirut.\nEl Ministerio de Salud Pública libanés ha registrado, desde que inició la ocupación israelí a su territorio, un total de 3.645 muertos y 15.355 heridos, como consecuencia del conflicto.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/autoridades-libanesas-reportan-16-victimas-mortales-tras-ataque-israeli/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-11.json",
+    "message_index": 457,
+    "message_id": 81012,
+    "date": "2024-11-23T14:55:07+00:00",
+    "text": "teleSUR\nAutoridades libanesas reportan 16 víctimas mortales tras ataque israelí\nhttps://www.telesurtv.net/autoridades-libanesas-reportan-16-victimas-mortales-tras-ataque-israeli/",
+    "photo_path": null,
+    "views": 2969,
+    "reactions": {
+      "🤬": 34,
+      "💩": 4,
+      "👍": 1,
+      "👎": 1,
+      "😁": 1
+    },
+    "total_reactions": 41
+  },
+  "preprocessing": {
+    "cleaned": "un ataque israelí efectuado esta madrugada contra un edificio de ocho plantas en el barrio de basta, en el centro de beirut, dejó un saldo de al menos 16 muertos y 63 personas heridas, como lo informa el más reciente balance del ministerio de salud pública sobre el hecho. de acuerdo con el comunicado de la entidad sanitaria, han identificado una gran cantidad de partes del cuerpo. sin embargo, “el número final de muertos se determinará después de que se realicen pruebas de adn”, refiere el texto. en la zona afectada, el uso de bombas rompe-búnkeres dejó un profundo cráter. este ataque ocurrió luego de que aviones del ejército israelí protagonizaran una intensa ofensiva en la zona sur de beirut, especialmente en los alrededores de tiro. por su parte, la agencia nacional de noticias del líbano informó que aviones de guerra israelíes lanzaron un nuevo ataque sobre hadath. asimismo, reportaron bombardeos en la zona de al-ruwais. antes de ambos hechos, el ejército sionista emitió amenazas de evacuación forzada para los residentes en las zonas de hadath y burj al-barajneh en los suburbios del sur de beirut. el ministerio de salud pública libanés ha registrado, desde que inició la ocupación israelí a su territorio, un total de 3.645 muertos y 15.355 heridos, como consecuencia del conflicto.",
+    "tokens": [
+      "ataque",
+      "israelí",
+      "efectuado",
+      "madrugada",
+      "edificio",
+      "ocho",
+      "plantas",
+      "barrio",
+      "basta",
+      ",",
+      "centro",
+      "beirut",
+      ",",
+      "dejó",
+      "saldo",
+      "menos",
+      "16",
+      "muertos",
+      "63",
+      "personas",
+      "heridas",
+      ",",
+      "informa",
+      "reciente",
+      "balance",
+      "ministerio",
+      "salud",
+      "pública",
+      "hecho",
+      ".",
+      "acuerdo",
+      "comunicado",
+      "entidad",
+      "sanitaria",
+      ",",
+      "identificado",
+      "gran",
+      "cantidad",
+      "partes",
+      "cuerpo",
+      ".",
+      "embargo",
+      ",",
+      "“",
+      "número",
+      "final",
+      "muertos",
+      "determinará",
+      "después",
+      "realicen",
+      "pruebas",
+      "adn",
+      "”",
+      ",",
+      "refiere",
+      "texto",
+      ".",
+      "zona",
+      "afectada",
+      ",",
+      "uso",
+      "bombas",
+      "rompe-búnkeres",
+      "dejó",
+      "profundo",
+      "cráter",
+      ".",
+      "ataque",
+      "ocurrió",
+      "luego",
+      "aviones",
+      "ejército",
+      "israelí",
+      "protagonizaran",
+      "intensa",
+      "ofensiva",
+      "zona",
+      "sur",
+      "beirut",
+      ",",
+      "especialmente",
+      "alrededores",
+      "tiro",
+      ".",
+      "parte",
+      ",",
+      "agencia",
+      "nacional",
+      "noticias",
+      "líbano",
+      "informó",
+      "aviones",
+      "guerra",
+      "israelíes",
+      "lanzaron",
+      "nuevo",
+      "ataque",
+      "hadath",
+      ".",
+      "asimismo",
+      ",",
+      "reportaron",
+      "bombardeos",
+      "zona",
+      "al-ruwais",
+      ".",
+      "ambos",
+      "hechos",
+      ",",
+      "ejército",
+      "sionista",
+      "emitió",
+      "amenazas",
+      "evacuación",
+      "forzada",
+      "residentes",
+      "zonas",
+      "hadath",
+      "burj",
+      "al-barajneh",
+      "suburbios",
+      "sur",
+      "beirut",
+      ".",
+      "ministerio",
+      "salud",
+      "pública",
+      "libanés",
+      "registrado",
+      ",",
+      "inició",
+      "ocupación",
+      "israelí",
+      "territorio",
+      ",",
+      "total",
+      "3.645",
+      "muertos",
+      "15.355",
+      "heridos",
+      ",",
+      "consecuencia",
+      "conflicto",
+      "."
+    ],
+    "token_count": 144,
+    "sentence_count": 9
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 32,
+      "NN": 62,
+      "JJ": 27,
+      "FW": 46,
+      "NNS": 11,
+      "IN": 17,
+      "CD": 4,
+      "VBD": 2,
+      "VBP": 3,
+      "CC": 2,
+      "RB": 1,
+      "VBZ": 4
+    },
+    "bigram_freq": {
+      "NNP-NN": 9,
+      "NN-NN": 32,
+      "NN-JJ": 7,
+      "JJ-JJ": 5,
+      "JJ-FW": 3,
+      "FW-FW": 25,
+      "FW-NNS": 4,
+      "NNS-IN": 3,
+      "IN-FW": 10,
+      "FW-NN": 5,
+      "NN-IN": 10,
+      "IN-NNP": 5,
+      "NNP-FW": 4,
+      "FW-NNP": 7,
+      "JJ-NN": 15,
+      "FW-CD": 1,
+      "CD-NNS": 4,
+      "NNS-CD": 2,
+      "NNS-JJ": 2,
+      "NN-NNP": 8,
+      "NNP-IN": 3,
+      "NNP-NNP": 8,
+      "NNP-VBD": 2,
+      "VBD-JJ": 2,
+      "NN-FW": 2,
+      "NNS-VBP": 3,
+      "VBP-JJ": 3,
+      "IN-NNS": 1,
+      "JJ-NNP": 3,
+      "NNP-CC": 2,
+      "CC-JJ": 1,
+      "NNP-RB": 1,
+      "RB-VBZ": 1,
+      "VBZ-NN": 1,
+      "NNP-VBZ": 2,
+      "VBZ-JJ": 2,
+      "NNS-FW": 1,
+      "CC-FW": 1,
+      "FW-JJ": 4,
+      "JJ-NNS": 1,
+      "NN-NNS": 1,
+      "NN-VBZ": 1,
+      "VBZ-IN": 1,
+      "NNP-JJ": 1,
+      "IN-CD": 1
+    },
+    "trigram_freq": {
+      "NNP-NN-NN": 6,
+      "NN-NN-NN": 15,
+      "NN-NN-JJ": 4,
+      "NN-JJ-JJ": 2,
+      "JJ-JJ-FW": 2,
+      "JJ-FW-FW": 3,
+      "FW-FW-FW": 16,
+      "FW-FW-NNS": 3,
+      "FW-NNS-IN": 1,
+      "NNS-IN-FW": 2,
+      "IN-FW-NN": 2,
+      "FW-NN-IN": 2,
+      "NN-IN-NNP": 2,
+      "IN-NNP-FW": 1,
+      "NNP-FW-FW": 1,
+      "FW-FW-NNP": 4,
+      "FW-NNP-NN": 3,
+      "NNP-NN-JJ": 1,
+      "NN-JJ-NN": 4,
+      "JJ-NN-IN": 2,
+      "NN-IN-FW": 6,
+      "IN-FW-FW": 5,
+      "FW-FW-CD": 1,
+      "FW-CD-NNS": 1,
+      "CD-NNS-CD": 2,
+      "NNS-CD-NNS": 2,
+      "CD-NNS-JJ": 2,
+      "NNS-JJ-NN": 1,
+      "JJ-NN-NN": 9,
+      "NN-NN-NNP": 3,
+      "NN-NNP-IN": 1,
+      "NNP-IN-NNP": 2,
+      "IN-NNP-NNP": 4,
+      "NNP-NNP-VBD": 2,
+      "NNP-VBD-JJ": 2,
+      "VBD-JJ-NN": 2,
+      "JJ-NN-NNP": 2,
+      "NN-NNP-FW": 1,
+      "NNP-FW-NN": 1,
+      "FW-NN-FW": 1,
+      "NN-FW-NN": 2,
+      "FW-NNS-VBP": 2,
+      "NNS-VBP-JJ": 3,
+      "VBP-JJ-JJ": 1,
+      "JJ-JJ-NN": 3,
+      "NN-NN-IN": 6,
+      "NN-IN-NNS": 1,
+      "IN-NNS-VBP": 1,
+      "VBP-JJ-NNP": 1,
+      "JJ-NNP-NN": 1,
+      "NNP-NN-NNP": 2,
+      "NN-NNP-CC": 1,
+      "NNP-CC-JJ": 1,
+      "CC-JJ-FW": 1,
+      "FW-NNP-RB": 1,
+      "NNP-RB-VBZ": 1,
+      "RB-VBZ-NN": 1,
+      "VBZ-NN-NNP": 1,
+      "NN-NNP-NN": 3,
+      "NN-NNP-VBZ": 1,
+      "NNP-VBZ-JJ": 2,
+      "VBZ-JJ-JJ": 1,
+      "VBP-JJ-NN": 1,
+      "IN-FW-NNS": 1,
+      "FW-NNS-FW": 1,
+      "NNS-FW-NNP": 1,
+      "FW-NNP-CC": 1,
+      "NNP-CC-FW": 1,
+      "CC-FW-JJ": 1,
+      "FW-JJ-NNS": 1,
+      "JJ-NNS-IN": 1,
+      "NNS-IN-NNP": 1,
+      "NN-NNP-NNP": 1,
+      "NNP-NNP-FW": 1,
+      "NNP-FW-NNP": 2,
+      "FW-NNP-FW": 1,
+      "NN-NN-NNS": 1,
+      "NN-NNS-IN": 1,
+      "IN-FW-JJ": 2,
+      "FW-JJ-NN": 2,
+      "JJ-NN-JJ": 2,
+      "NN-JJ-NNP": 1,
+      "JJ-NNP-NNP": 1,
+      "NNP-NNP-NN": 1,
+      "FW-FW-JJ": 1,
+      "FW-JJ-NNP": 1,
+      "JJ-NNP-IN": 1,
+      "NNP-IN-FW": 1,
+      "FW-NN-NN": 2,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-IN": 1,
+      "VBZ-IN-FW": 1,
+      "FW-NNP-NNP": 1,
+      "NNP-NNP-JJ": 1,
+      "NNP-JJ-NN": 1,
+      "NNP-NNP-NNP": 1,
+      "NNP-NNP-IN": 1,
+      "NNP-NNP-VBZ": 1,
+      "VBZ-JJ-NN": 1,
+      "NN-NN-FW": 1,
+      "NN-IN-CD": 1,
+      "IN-CD-NNS": 1,
+      "NNS-JJ-JJ": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 62,
+        "FW": 46,
+        "NNP": 32,
+        "JJ": 27,
+        "IN": 17
+      },
+      "top_bigrams": {
+        "NN-NN": 32,
+        "FW-FW": 25,
+        "JJ-NN": 15,
+        "IN-FW": 10,
+        "NN-IN": 10
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 16,
+        "NN-NN-NN": 15,
+        "JJ-NN-NN": 9,
+        "NNP-NN-NN": 6,
+        "NN-IN-FW": 6
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 9,
+    "chunk_counts": {
+      "NP": 64,
+      "ADJP": 5,
+      "PP": 7,
+      "VP": 7
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 7,
+        "weight": 0.0761
+      },
+      {
+        "rule": "NP -> ('Beirut', 'NNP')",
+        "frequency": 3,
+        "weight": 0.0326
+      },
+      {
+        "rule": "NP -> ('muertos', 'NNS')",
+        "frequency": 2,
+        "weight": 0.0217
+      },
+      {
+        "rule": "NP -> ('Salud', 'NNP') ('Pública', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0217
+      },
+      {
+        "rule": "S -> NP ADJP ADJP ('edificio', 'FW') ('de', 'FW') ('ocho', 'FW') NP ('en', 'IN') ('el', 'FW') NP PP (',', ',') ('en', 'FW') ('el', 'FW') ('centro', 'FW') ('de', 'FW') NP (',', ',') NP NP ('de', 'IN') ('al', 'FW') ('menos', 'FW') ('16', 'CD') NP ('y', 'RB') ('63', 'CD') NP ('heridas', 'RB') (',', ',') NP PP VP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0109
+      },
+      {
+        "rule": "NP -> ('Un', 'NNP') ('ataque', 'NN') ('israelí', 'NN') ('efectuado', 'NN') ('esta', 'NN') ('madrugada', 'NN')",
+        "frequency": 1,
+        "weight": 0.0109
+      },
+      {
+        "rule": "ADJP -> ('contra', 'JJ')",
+        "frequency": 1,
+        "weight": 0.0109
+      },
+      {
+        "rule": "ADJP -> ('un', 'JJ')",
+        "frequency": 1,
+        "weight": 0.0109
+      },
+      {
+        "rule": "NP -> ('plantas', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0109
+      },
+      {
+        "rule": "NP -> ('barrio', 'NN')",
+        "frequency": 1,
+        "weight": 0.0109
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Un ataque israelí efectuado esta madrugada"
+      },
+      {
+        "label": "ADJP",
+        "text": "contra"
+      },
+      {
+        "label": "ADJP",
+        "text": "un"
+      },
+      {
+        "label": "NP",
+        "text": "plantas"
+      },
+      {
+        "label": "NP",
+        "text": "barrio"
+      },
+      {
+        "label": "PP",
+        "text": "de Basta"
+      },
+      {
+        "label": "NP",
+        "text": "Basta"
+      },
+      {
+        "label": "NP",
+        "text": "Beirut"
+      },
+      {
+        "label": "NP",
+        "text": "dejó"
+      },
+      {
+        "label": "NP",
+        "text": "un saldo"
+      },
+      {
+        "label": "NP",
+        "text": "muertos"
+      },
+      {
+        "label": "NP",
+        "text": "personas"
+      },
+      {
+        "label": "NP",
+        "text": "como lo informa el más reciente balance del Ministerio"
+      },
+      {
+        "label": "PP",
+        "text": "de Salud Pública"
+      },
+      {
+        "label": "NP",
+        "text": "Salud Pública"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Un/NNP ataque/NN israelí/NN efectuado/NN esta/NN madrugada/NN)\n  (ADJP contra/JJ)\n  (ADJP un/JJ)\n  edificio/FW\n  de/FW\n  ocho/FW\n  (NP plantas/NNS)\n  en/IN\n  el/FW\n  (NP barrio/NN)\n  (PP de/IN (NP Basta/NNP))\n  ,/,\n  en/FW\n  el/FW\n  centro/FW\n  de/FW\n  (NP Beirut/NNP)\n  ,/,\n  (NP dejó/NN)\n  (NP un/JJ saldo/NN)\n  de/IN\n  al/FW\n  menos/FW\n  16/CD\n  (NP muertos/NNS)\n  y/RB\n  63/CD\n  (NP personas/NNS)\n  heridas/RB\n  ,/,\n  (NP\n    como/NN\n    lo/NN\n    informa/NN\n    el/NN\n    más/NN\n    reciente/NN\n    balance/NN\n    del/NN\n    Ministerio/NNP)\n  (PP de/IN (NP Salud/NNP Pública/NNP))\n  (VP sobre/VBD (NP el/JJ hecho/NN))\n  ./.)",
+      "(S\n  (NP De/NNP)\n  acuerdo/FW\n  (NP con/NN)\n  el/FW\n  (NP comunicado/NN)\n  de/IN\n  la/FW\n  entidad/FW\n  (NP sanitaria/NN)\n  ,/,\n  (NP han/NN identificado/NN)\n  (NP una/JJ gran/NN cantidad/NN)\n  (PP de/IN (NP partes/NNS))\n  (VP del/VBP (NP cuerpo/NN))\n  ./.)",
+      "(S\n  (NP Sin/NNP embargo/NN)\n  ,/,\n  (NP “/NNP El/NNP)\n  (ADJP número/JJ)\n  (ADJP final/JJ)\n  de/FW\n  muertos/FW\n  se/FW\n  determinará/FW\n  después/FW\n  de/FW\n  que/FW\n  se/FW\n  realicen/FW\n  pruebas/FW\n  de/FW\n  (NP ADN/NNP ”/NNP)\n  ,/,\n  refiere/RB\n  (NP el/JJ texto/NN)\n  ./.)",
+      "(S\n  (NP En/NNP la/NN zona/NNP afectada/NN)\n  ,/,\n  (ADJP el/JJ)\n  uso/FW\n  de/FW\n  bombas/FW\n  (NP rompe-búnkeres/NNS)\n  (VP dejó/VBP (NP un/JJ profundo/NN cráter/NN))\n  ./.)",
+      "(S\n  (NP Este/NN ataque/NN)\n  (NP ocurrió/JJ luego/NN)\n  de/IN\n  que/FW\n  (NP aviones/NNS)\n  del/FW\n  (NP Ejército/NNP israelí/NN protagonizaran/NN)\n  (NP una/JJ intensa/NN ofensiva/NN)\n  en/IN\n  la/FW\n  zona/FW\n  sur/FW\n  de/FW\n  (NP Beirut/NNP)\n  ,/,\n  (NP especialmente/NN)\n  en/FW\n  (NP los/NN alrededores/NNS)\n  (PP de/IN (NP Tiro/NNP))\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "CANTIDADES_NUMERICAS",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "ANTIIMPERIALISMO_SOBERANIA",
+      "REGIONES_PROVINCIAS",
+      "PAISES",
+      "LOCALIZACIONES_ESPECIFICAS",
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "CONFLICTOS_ARMADOS_OPERACIONES"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "ocupación israelí a su territorio",
+        "position": [
+          1193,
+          1226
+        ],
+        "start": 1193,
+        "end": 1226
+      },
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "evacuación forzada",
+        "position": [
+          1002,
+          1020
+        ],
+        "start": 1002,
+        "end": 1020
+      },
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "ataque ocurrió luego de que aviones del ejército",
+        "position": [
+          585,
+          633
+        ],
+        "start": 585,
+        "end": 633
+      },
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "guerra israelíes lanzaron un nuevo ataque sobre hadath. asimismo, reportaron bombardeos en la",
+        "position": [
+          826,
+          919
+        ],
+        "start": 826,
+        "end": 919
+      },
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "ocupación",
+        "position": [
+          1193,
+          1202
+        ],
+        "start": 1193,
+        "end": 1202
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "informó",
+        "position": [
+          803,
+          810
+        ],
+        "start": 803,
+        "end": 810
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "israelí",
+        "position": [
+          10,
+          17
+        ],
+        "start": 10,
+        "end": 17
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "zona afectada",
+        "position": [
+          508,
+          521
+        ],
+        "start": 508,
+        "end": 521
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "barrio de",
+        "position": [
+          84,
+          93
+        ],
+        "start": 84,
+        "end": 93
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "edificio de",
+        "position": [
+          53,
+          64
+        ],
+        "start": 53,
+        "end": 64
+      },
+      {
+        "category": "ANTIIMPERIALISMO_SOBERANIA",
+        "matched_text": "embargo",
+        "position": [
+          388,
+          395
+        ],
+        "start": 388,
+        "end": 395
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "63 personas",
+        "position": [
+          164,
+          175
+        ],
+        "start": 164,
+        "end": 175
+      }
+    ],
+    "match_count": 12
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Hadath",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Burj al-Barajneh",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "al-Ruwais",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Hadath",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Ministerio de Salud Pública libanés",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Basta",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Agencia Nacional de Noticias del Líbano",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Tiro",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Ministerio de Salud Pública",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Beirut",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Basta",
+        "relacion": "DEJAR",
+        "objeto": "Ministerio de Salud Pública"
+      },
+      {
+        "sujeto": "Beirut",
+        "relacion": "DEJAR",
+        "objeto": "Ministerio de Salud Pública"
+      },
+      {
+        "sujeto": "Beirut",
+        "relacion": "PROTAGONIZAR_LUEGO_OCURRIR",
+        "objeto": "Tiro"
+      },
+      {
+        "sujeto": "Agencia Nacional de Noticias del Líbano",
+        "relacion": "INFORMAR",
+        "objeto": "Hadath"
+      },
+      {
+        "sujeto": "Burj al-Barajneh",
+        "relacion": "AL_BARAJNEH_EMITIR",
+        "objeto": "Beirut"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.296,
+    "pos": 0.011,
+    "neu": 0.972,
+    "neg": 0.017,
+    "label": "negative"
+  }
+}

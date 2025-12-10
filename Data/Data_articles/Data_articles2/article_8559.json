@@ -1,0 +1,699 @@
+{
+  "url": "https://www.telesurtv.net/ayuda-del-gobierno-colombiano-llega-al-departamento-del-choco-tras-intensas-lluvias/",
+  "title": "Ayuda del Gobierno colombiano llega al departamento del Chocó tras intensas lluvias - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "Ayuda",
+    "Colombia",
+    "Gobierno",
+    "lluvias"
+  ],
+  "text": "El Gobierno de Colombia entregó este lunes ayuda al departamento del Chocó tras el desbordamiento del río Baudó y las lluvias que han afectado el país.\nEl presidente colombiano, Gustavo Petro, desde su cuenta en Twitter confirmó la llegada de las ayudas sociales al municipio de Alto Baudó, Chocó (noroeste), tras haber anunciado el viernes la emergencia.\n“Llegan ayudas al alto Baudó. Lo importante es que podamos resolver de manera más permanente los problemas duraderos”, dijo el presidente colombiano.\nLa gobernadora del Chocó, Nubia Carolina Córdoba, acotó que se trata de ocho toneladas de alimentos para la población afectada, las cuales “han sido movilizadas con apoyo del Ejército Nacional debido a las dificultades de acceso en este municipio”.\nEl territorio ha sido gravemente afectado por las lluvias y el desbordamiento del río Baudó y 10 de sus afluentes y ha impactado a 7.500 familias de la región.\nEl jefe de Estado declaró situación de desastre en todo el territorio nacional debido a las emergencias climáticas causadas por las fuertes lluvias.\nDe igual manera indicó que la temporada de lluvias se extenderá por todo el mes de diciembre y precisó que la declaración de desastre se centrará en tres zonas: Alta Guajira, Chocó y Bogotá.\nLa gobernadora también anunció el despliegue de ayuda para otros municipios afectados por las lluvias, mientras se coordina con la Unidad Nacional para la Gestión del Riesgo de Desastres (UNGRD) para complementar las ayudas.\n",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/ayuda-del-gobierno-colombiano-llega-al-departamento-del-choco-tras-intensas-lluvias/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-11.json",
+    "message_index": 1209,
+    "message_id": 80214,
+    "date": "2024-11-12T01:55:18+00:00",
+    "text": "teleSUR\nAyuda del Gobierno colombiano llega al departamento del Chocó tras intensas lluvias\nhttps://www.telesurtv.net/ayuda-del-gobierno-colombiano-llega-al-departamento-del-choco-tras-intensas-lluvias/",
+    "photo_path": null,
+    "views": 3029,
+    "reactions": {
+      "👍": 37,
+      "🥰": 7,
+      "👏": 4
+    },
+    "total_reactions": 48
+  },
+  "preprocessing": {
+    "cleaned": "el gobierno de colombia entregó este lunes ayuda al departamento del chocó tras el desbordamiento del río baudó y las lluvias que han afectado el país. el presidente colombiano, gustavo petro, desde su cuenta en twitter confirmó la llegada de las ayudas sociales al municipio de alto baudó, chocó (noroeste), tras haber anunciado el viernes la emergencia. “llegan ayudas al alto baudó. lo importante es que podamos resolver de manera más permanente los problemas duraderos”, dijo el presidente colombiano. la gobernadora del chocó, nubia carolina córdoba, acotó que se trata de ocho toneladas de alimentos para la población afectada, las cuales “han sido movilizadas con apoyo del ejército nacional debido a las dificultades de acceso en este municipio”. el territorio ha sido gravemente afectado por las lluvias y el desbordamiento del río baudó y 10 de sus afluentes y ha impactado a 7.500 familias de la región. el jefe de estado declaró situación de desastre en todo el territorio nacional debido a las emergencias climáticas causadas por las fuertes lluvias. de igual manera indicó que la temporada de lluvias se extenderá por todo el mes de diciembre y precisó que la declaración de desastre se centrará en tres zonas: alta guajira, chocó y bogotá. la gobernadora también anunció el despliegue de ayuda para otros municipios afectados por las lluvias, mientras se coordina con la unidad nacional para la gestión del riesgo de desastres (ungrd) para complementar las ayudas.",
+    "tokens": [
+      "gobierno",
+      "colombia",
+      "entregó",
+      "lunes",
+      "ayuda",
+      "departamento",
+      "chocó",
+      "tras",
+      "desbordamiento",
+      "río",
+      "baudó",
+      "lluvias",
+      "afectado",
+      "país",
+      ".",
+      "presidente",
+      "colombiano",
+      ",",
+      "gustavo",
+      "petro",
+      ",",
+      "cuenta",
+      "twitter",
+      "confirmó",
+      "llegada",
+      "ayudas",
+      "sociales",
+      "municipio",
+      "alto",
+      "baudó",
+      ",",
+      "chocó",
+      "(",
+      "noroeste",
+      ")",
+      ",",
+      "tras",
+      "haber",
+      "anunciado",
+      "viernes",
+      "emergencia",
+      ".",
+      "“",
+      "llegan",
+      "ayudas",
+      "alto",
+      "baudó",
+      ".",
+      "importante",
+      "podamos",
+      "resolver",
+      "manera",
+      "permanente",
+      "problemas",
+      "duraderos",
+      "”",
+      ",",
+      "dijo",
+      "presidente",
+      "colombiano",
+      ".",
+      "gobernadora",
+      "chocó",
+      ",",
+      "nubia",
+      "carolina",
+      "córdoba",
+      ",",
+      "acotó",
+      "trata",
+      "ocho",
+      "toneladas",
+      "alimentos",
+      "población",
+      "afectada",
+      ",",
+      "cuales",
+      "“",
+      "sido",
+      "movilizadas",
+      "apoyo",
+      "ejército",
+      "nacional",
+      "debido",
+      "dificultades",
+      "acceso",
+      "municipio",
+      "”",
+      ".",
+      "territorio",
+      "sido",
+      "gravemente",
+      "afectado",
+      "lluvias",
+      "desbordamiento",
+      "río",
+      "baudó",
+      "10",
+      "afluentes",
+      "impactado",
+      "7.500",
+      "familias",
+      "región",
+      ".",
+      "jefe",
+      "declaró",
+      "situación",
+      "desastre",
+      "territorio",
+      "nacional",
+      "debido",
+      "emergencias",
+      "climáticas",
+      "causadas",
+      "fuertes",
+      "lluvias",
+      ".",
+      "igual",
+      "manera",
+      "indicó",
+      "temporada",
+      "lluvias",
+      "extenderá",
+      "mes",
+      "diciembre",
+      "precisó",
+      "declaración",
+      "desastre",
+      "centrará",
+      "tres",
+      "zonas",
+      ":",
+      "alta",
+      "guajira",
+      ",",
+      "chocó",
+      "bogotá",
+      ".",
+      "gobernadora",
+      "anunció",
+      "despliegue",
+      "ayuda",
+      "municipios",
+      "afectados",
+      "lluvias",
+      ",",
+      "mientras",
+      "coordina",
+      "unidad",
+      "nacional",
+      "gestión",
+      "riesgo",
+      "desastres",
+      "(",
+      "ungrd",
+      ")",
+      "complementar",
+      "ayudas",
+      "."
+    ],
+    "token_count": 159,
+    "sentence_count": 9
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 38,
+      "IN": 7,
+      "CC": 1,
+      "NN": 75,
+      "NNS": 14,
+      "VBP": 12,
+      "JJ": 12,
+      "VBZ": 5,
+      "FW": 61,
+      "MD": 1,
+      "VB": 1,
+      "CD": 2
+    },
+    "bigram_freq": {
+      "NNP-NNP": 15,
+      "NNP-IN": 1,
+      "IN-NNP": 2,
+      "NNP-CC": 1,
+      "CC-NN": 1,
+      "NN-NNS": 8,
+      "NNS-VBP": 12,
+      "VBP-JJ": 9,
+      "JJ-NN": 7,
+      "NN-NN": 39,
+      "NN-NNP": 9,
+      "NNP-VBZ": 2,
+      "VBZ-FW": 3,
+      "FW-NN": 15,
+      "VBZ-JJ": 1,
+      "NNP-NN": 11,
+      "NN-IN": 4,
+      "NN-FW": 13,
+      "FW-FW": 33,
+      "FW-NNS": 3,
+      "NNS-NNS": 1,
+      "VBP-FW": 2,
+      "FW-NNP": 9,
+      "JJ-NNP": 2,
+      "NNP-MD": 1,
+      "MD-VB": 1,
+      "VB-JJ": 1,
+      "IN-FW": 4,
+      "NNP-FW": 6,
+      "JJ-NNS": 2,
+      "NNS-VBZ": 1,
+      "VBZ-IN": 1,
+      "NNP-CD": 1,
+      "CD-IN": 1,
+      "IN-NN": 1,
+      "JJ-CD": 1,
+      "CD-NN": 1,
+      "NN-JJ": 1,
+      "NN-VBZ": 1,
+      "FW-VBZ": 1
+    },
+    "trigram_freq": {
+      "NNP-NNP-IN": 1,
+      "NNP-IN-NNP": 1,
+      "IN-NNP-CC": 1,
+      "NNP-CC-NN": 1,
+      "CC-NN-NNS": 1,
+      "NN-NNS-VBP": 7,
+      "NNS-VBP-JJ": 9,
+      "VBP-JJ-NN": 5,
+      "JJ-NN-NN": 4,
+      "NN-NN-NNP": 8,
+      "NN-NNP-VBZ": 2,
+      "NNP-VBZ-FW": 1,
+      "VBZ-FW-NN": 1,
+      "FW-NN-NN": 5,
+      "NN-NN-NN": 22,
+      "NNP-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 1,
+      "NN-NNP-NN": 2,
+      "NNP-NN-NN": 8,
+      "NN-NNP-NNP": 2,
+      "NNP-NNP-NN": 7,
+      "NN-NN-IN": 2,
+      "NN-IN-NNP": 1,
+      "IN-NNP-NN": 1,
+      "NN-NN-FW": 4,
+      "NN-FW-FW": 7,
+      "FW-FW-FW": 21,
+      "FW-FW-NNS": 2,
+      "FW-NNS-NNS": 1,
+      "NNS-NNS-VBP": 1,
+      "NNS-VBP-FW": 2,
+      "VBP-FW-FW": 2,
+      "FW-FW-NNP": 3,
+      "FW-NNP-NNP": 5,
+      "NNP-NNP-NNP": 6,
+      "NNP-NN-NNS": 2,
+      "JJ-NN-NNS": 2,
+      "VBP-JJ-NNP": 1,
+      "JJ-NNP-MD": 1,
+      "NNP-MD-VB": 1,
+      "MD-VB-JJ": 1,
+      "VB-JJ-NNP": 1,
+      "JJ-NNP-NNP": 1,
+      "NN-IN-FW": 3,
+      "IN-FW-NN": 2,
+      "NN-NNP-FW": 2,
+      "NNP-FW-FW": 1,
+      "NN-FW-NN": 2,
+      "FW-NN-FW": 7,
+      "FW-FW-NN": 7,
+      "FW-NNS-VBP": 2,
+      "VBP-JJ-NNS": 2,
+      "JJ-NNS-VBP": 2,
+      "JJ-NN-NNP": 1,
+      "NN-NNS-VBZ": 1,
+      "NNS-VBZ-IN": 1,
+      "VBZ-IN-FW": 1,
+      "IN-FW-FW": 2,
+      "NN-NN-NNS": 2,
+      "NN-NNP-CD": 1,
+      "NNP-CD-IN": 1,
+      "CD-IN-NN": 1,
+      "IN-NN-NNS": 1,
+      "VBP-JJ-CD": 1,
+      "JJ-CD-NN": 1,
+      "CD-NN-FW": 1,
+      "FW-NNP-NN": 1,
+      "NNP-NN-FW": 1,
+      "NN-FW-NNP": 2,
+      "FW-NNP-FW": 3,
+      "NNP-FW-NN": 3,
+      "FW-NN-IN": 2,
+      "FW-NN-JJ": 1,
+      "NN-JJ-NN": 1,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-FW": 1,
+      "VBZ-FW-NNP": 2,
+      "NN-FW-VBZ": 1,
+      "FW-VBZ-FW": 1,
+      "NNP-NNP-FW": 1,
+      "NN-FW-NNS": 1,
+      "NNP-FW-NNP": 2
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 75,
+        "FW": 61,
+        "NNP": 38,
+        "NNS": 14,
+        "VBP": 12
+      },
+      "top_bigrams": {
+        "NN-NN": 39,
+        "FW-FW": 33,
+        "NNP-NNP": 15,
+        "FW-NN": 15,
+        "NN-FW": 13
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 22,
+        "FW-FW-FW": 21,
+        "NNS-VBP-JJ": 9,
+        "NN-NN-NNP": 8,
+        "NNP-NN-NN": 8
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 9,
+    "chunk_counts": {
+      "NP": 62,
+      "PP": 3,
+      "VP": 14,
+      "ADJP": 1
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0225
+      },
+      {
+        "rule": "NP -> ('La', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0225
+      },
+      {
+        "rule": "NP -> ('para', 'NN')",
+        "frequency": 2,
+        "weight": 0.0225
+      },
+      {
+        "rule": "S -> NP PP ('entregó', 'CC') NP VP VP ('el', 'FW') NP VP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0112
+      },
+      {
+        "rule": "NP -> ('El', 'NNP') ('Gobierno', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0112
+      },
+      {
+        "rule": "NP -> ('Colombia', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0112
+      },
+      {
+        "rule": "NP -> ('este', 'NN') ('lunes', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0112
+      },
+      {
+        "rule": "VP -> ('ayuda', 'VBP') NP",
+        "frequency": 1,
+        "weight": 0.0112
+      },
+      {
+        "rule": "NP -> ('al', 'JJ') ('departamento', 'NN') ('del', 'NN') ('Chocó', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0112
+      },
+      {
+        "rule": "VP -> ('tras', 'VBZ')",
+        "frequency": 1,
+        "weight": 0.0112
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El Gobierno"
+      },
+      {
+        "label": "PP",
+        "text": "de Colombia"
+      },
+      {
+        "label": "NP",
+        "text": "Colombia"
+      },
+      {
+        "label": "NP",
+        "text": "este lunes"
+      },
+      {
+        "label": "VP",
+        "text": "ayuda al departamento del Chocó"
+      },
+      {
+        "label": "NP",
+        "text": "al departamento del Chocó"
+      },
+      {
+        "label": "VP",
+        "text": "tras"
+      },
+      {
+        "label": "NP",
+        "text": "desbordamiento del río Baudó y"
+      },
+      {
+        "label": "VP",
+        "text": "las lluvias que han afectado el país"
+      },
+      {
+        "label": "NP",
+        "text": "lluvias que han afectado el país"
+      },
+      {
+        "label": "NP",
+        "text": "El presidente colombiano"
+      },
+      {
+        "label": "NP",
+        "text": "Gustavo Petro"
+      },
+      {
+        "label": "NP",
+        "text": "desde su cuenta"
+      },
+      {
+        "label": "PP",
+        "text": "en Twitter confirmó la"
+      },
+      {
+        "label": "NP",
+        "text": "Twitter confirmó la"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP El/NNP Gobierno/NNP)\n  (PP de/IN (NP Colombia/NNP))\n  entregó/CC\n  (NP este/NN lunes/NNS)\n  (VP ayuda/VBP (NP al/JJ departamento/NN del/NN Chocó/NNP))\n  (VP tras/VBZ)\n  el/FW\n  (NP desbordamiento/NN del/NN río/NN Baudó/NNP y/NNP)\n  (VP\n    las/VBZ\n    (NP lluvias/JJ que/NN han/NN afectado/NN el/NN país/NN))\n  ./.)",
+      "(S\n  (NP El/NNP presidente/NN colombiano/NN)\n  ,/,\n  (NP Gustavo/NNP Petro/NNP)\n  ,/,\n  (NP desde/NN su/NN cuenta/NN)\n  (PP en/IN (NP Twitter/NNP confirmó/NN la/NN))\n  llegada/FW\n  de/FW\n  las/FW\n  (NP ayudas/NNS sociales/NNS)\n  (VP al/VBP)\n  municipio/FW\n  de/FW\n  (NP Alto/NNP Baudó/NNP)\n  ,/,\n  (NP Chocó/NNP)\n  (/(\n  (NP noroeste/NN)\n  )/)\n  ,/,\n  (NP tras/JJ haber/NN anunciado/NN el/NN viernes/NNS)\n  la/RBR\n  emergencia/RB\n  ./.)",
+      "(S\n  (NP “/NN Llegan/NNP)\n  (VP ayudas/VBZ (NP al/JJ alto/NN Baudó/NNP))\n  ./.)",
+      "(S\n  (NP Lo/NNP importante/NN es/NN que/NN podamos/NN resolver/NN)\n  de/IN\n  manera/FW\n  (NP más/NN permanente/NN los/NN problemas/NN duraderos/NN ”/NNP)\n  ,/,\n  (NP dijo/NN el/NN presidente/NN colombiano/NN)\n  ./.)",
+      "(S\n  (NP La/NNP)\n  gobernadora/FW\n  (NP del/NN Chocó/NNP)\n  ,/,\n  (NP Nubia/NNP Carolina/NNP Córdoba/NNP)\n  ,/,\n  (NP acotó/NN que/NN)\n  se/FW\n  (NP trata/NN)\n  de/FW\n  ocho/FW\n  toneladas/FW\n  de/FW\n  alimentos/FW\n  (NP para/NN)\n  la/FW\n  población/FW\n  (NP afectada/NN)\n  ,/,\n  (NP las/JJ cuales/NNS)\n  (VP “/VBP (NP han/JJ sido/NN movilizadas/NNS))\n  (VP con/VBP (NP apoyo/JJ del/NN Ejército/NNP Nacional/NNP))\n  (VP debido/VBZ)\n  a/DT\n  (ADJP las/JJ)\n  dificultades/FW\n  de/FW\n  acceso/FW\n  en/FW\n  (NP este/NN municipio/NN ”/NN)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "CIUDADES_CAPITALES",
+      "GOBIERNOS_OFICIALES",
+      "RECURSOS_NATURALES",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "REGIONES_PROVINCIAS",
+      "INSTITUCIONES_EDUCATIVAS",
+      "PAISES"
+    ],
+    "matches": [
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "declaró",
+        "position": [
+          933,
+          940
+        ],
+        "start": 933,
+        "end": 940
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "anunció",
+        "position": [
+          1278,
+          1285
+        ],
+        "start": 1278,
+        "end": 1285
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "precisó",
+        "position": [
+          1159,
+          1166
+        ],
+        "start": 1159,
+        "end": 1166
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "gobierno de colombia entregó",
+        "position": [
+          3,
+          31
+        ],
+        "start": 3,
+        "end": 31
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente colombiano",
+        "position": [
+          155,
+          176
+        ],
+        "start": 155,
+        "end": 176
+      },
+      {
+        "category": "INSTITUCIONES_EDUCATIVAS",
+        "matched_text": "departamento del chocó",
+        "position": [
+          52,
+          74
+        ],
+        "start": 52,
+        "end": 74
+      },
+      {
+        "category": "RECURSOS_NATURALES",
+        "matched_text": "río",
+        "position": [
+          102,
+          105
+        ],
+        "start": 102,
+        "end": 105
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "colombia",
+        "position": [
+          15,
+          23
+        ],
+        "start": 15,
+        "end": 23
+      },
+      {
+        "category": "CIUDADES_CAPITALES",
+        "matched_text": "bogotá",
+        "position": [
+          1247,
+          1253
+        ],
+        "start": 1247,
+        "end": 1253
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "departamento del",
+        "position": [
+          52,
+          68
+        ],
+        "start": 52,
+        "end": 68
+      }
+    ],
+    "match_count": 10
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "departamento del Chocó",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Alto Baudó",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "río Baudó",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Chocó",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Nubia Carolina Córdoba",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Unidad Nacional para la Gestión del Riesgo de Desastres",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "UNGRD",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Gustavo Petro",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Bogotá",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Alta Guajira",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Gobierno de Colombia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Ejército Nacional",
+        "tipo": "Organizacion"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Gobierno de Colombia",
+        "relacion": "ENTREGAR",
+        "objeto": "departamento del Chocó"
+      },
+      {
+        "sujeto": "Gobierno de Colombia",
+        "relacion": "ENTREGAR",
+        "objeto": "río Baudó"
+      },
+      {
+        "sujeto": "departamento del Chocó",
+        "relacion": "ENTREGAR",
+        "objeto": "río Baudó"
+      },
+      {
+        "sujeto": "Gustavo Petro",
+        "relacion": "CONFIRMAR",
+        "objeto": "Alto Baudó"
+      },
+      {
+        "sujeto": "Gustavo Petro",
+        "relacion": "CONFIRMAR",
+        "objeto": "Chocó"
+      },
+      {
+        "sujeto": "Chocó",
+        "relacion": "ACOTAR",
+        "objeto": "Ejército Nacional"
+      },
+      {
+        "sujeto": "Nubia Carolina Córdoba",
+        "relacion": "ACOTAR",
+        "objeto": "Ejército Nacional"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.6705,
+    "pos": 0.028,
+    "neu": 0.972,
+    "neg": 0.0,
+    "label": "positive"
+  }
+}

@@ -1,0 +1,709 @@
+{
+  "url": "https://www.telesurtv.net/putin-y-xi-jinping-refuerzan-su-alianza/",
+  "title": "Putin y Xi sostienen conversación telefónica para abordar situación en Medio Oriente - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "China",
+    "Conflicto",
+    "conflicto destacada",
+    "Moscú",
+    "Pekín",
+    "Rusia"
+  ],
+  "text": "El presidente ruso, Vladímir Putin, y su homólogo chino, Xi Jinping, sostuvieron este jueves una conversación telefónica centrada en la situación en Medio Oriente y la coordinación estratégica entre Moscú y Pekín, según informó el Kremlin.\n\nDurante el diálogo, Putin reafirmó la disposición de Rusia a actuar como mediador en el conflicto relacionado con Irán, en medio de una creciente tensión en la región. Ambos líderes manifestaron además su intención de coordinar posturas sobre Asia Central, una zona clave para la seguridad y la influencia regional de ambos países.\nPutin y Xi también abordaron los resultados de la reciente cumbre del G7 en Canadá, destacando lo que calificaron como “deficiencias” del bloque occidental ante los desafíos globales actuales.\nLa conversación, que se prolongó durante una hora, se desarrolló en un tono “cálido y amistoso”, y anticipa una agenda bilateral intensa.\nLos mandatarios se encontrarán nuevamente en septiembre en Pekín, durante los actos por el 80.º aniversario de la victoria sobre Japón y en el marco de la cumbre de la Organización de Cooperación de Shanghái, que se celebrará entre finales de agosto y principios de ese mes.\n\n",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/putin-y-xi-jinping-refuerzan-su-alianza/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-06.json",
+    "message_index": 880,
+    "message_id": 96900,
+    "date": "2025-06-19T14:55:07+00:00",
+    "text": "teleSUR\nPutin y Xi sostienen conversación telefónica para abordar situación en Medio Oriente\nhttps://www.telesurtv.net/putin-y-xi-jinping-refuerzan-su-alianza/",
+    "photo_path": null,
+    "views": 2644,
+    "reactions": {
+      "👍": 66,
+      "❤": 8,
+      "🕊": 2,
+      "🤨": 1
+    },
+    "total_reactions": 77
+  },
+  "preprocessing": {
+    "cleaned": "el presidente ruso, vladímir putin, y su homólogo chino, xi jinping, sostuvieron este jueves una conversación telefónica centrada en la situación en medio oriente y la coordinación estratégica entre moscú y pekín, según informó el kremlin. durante el diálogo, putin reafirmó la disposición de rusia a actuar como mediador en el conflicto relacionado con irán, en medio de una creciente tensión en la región. ambos líderes manifestaron además su intención de coordinar posturas sobre asia central, una zona clave para la seguridad y la influencia regional de ambos países. putin y xi también abordaron los resultados de la reciente cumbre del g7 en canadá, destacando lo que calificaron como “deficiencias” del bloque occidental ante los desafíos globales actuales. la conversación, que se prolongó durante una hora, se desarrolló en un tono “cálido y amistoso”, y anticipa una agenda bilateral intensa. los mandatarios se encontrarán nuevamente en septiembre en pekín, durante los actos por el 80.º aniversario de la victoria sobre japón y en el marco de la cumbre de la organización de cooperación de shanghái, que se celebrará entre finales de agosto y principios de ese mes.",
+    "tokens": [
+      "presidente",
+      "ruso",
+      ",",
+      "vladímir",
+      "putin",
+      ",",
+      "homólogo",
+      "chino",
+      ",",
+      "xi",
+      "jinping",
+      ",",
+      "sostuvieron",
+      "jueves",
+      "conversación",
+      "telefónica",
+      "centrada",
+      "situación",
+      "medio",
+      "oriente",
+      "coordinación",
+      "estratégica",
+      "moscú",
+      "pekín",
+      ",",
+      "según",
+      "informó",
+      "kremlin",
+      ".",
+      "diálogo",
+      ",",
+      "putin",
+      "reafirmó",
+      "disposición",
+      "rusia",
+      "actuar",
+      "mediador",
+      "conflicto",
+      "relacionado",
+      "irán",
+      ",",
+      "medio",
+      "creciente",
+      "tensión",
+      "región",
+      ".",
+      "ambos",
+      "líderes",
+      "manifestaron",
+      "además",
+      "intención",
+      "coordinar",
+      "posturas",
+      "asia",
+      "central",
+      ",",
+      "zona",
+      "clave",
+      "seguridad",
+      "influencia",
+      "regional",
+      "ambos",
+      "países",
+      ".",
+      "putin",
+      "xi",
+      "abordaron",
+      "resultados",
+      "reciente",
+      "cumbre",
+      "g7",
+      "canadá",
+      ",",
+      "destacando",
+      "calificaron",
+      "“",
+      "deficiencias",
+      "”",
+      "bloque",
+      "occidental",
+      "desafíos",
+      "globales",
+      "actuales",
+      ".",
+      "conversación",
+      ",",
+      "prolongó",
+      "hora",
+      ",",
+      "desarrolló",
+      "tono",
+      "“",
+      "cálido",
+      "amistoso",
+      "”",
+      ",",
+      "anticipa",
+      "agenda",
+      "bilateral",
+      "intensa",
+      ".",
+      "mandatarios",
+      "encontrarán",
+      "nuevamente",
+      "septiembre",
+      "pekín",
+      ",",
+      "actos",
+      "80.º",
+      "aniversario",
+      "victoria",
+      "japón",
+      "marco",
+      "cumbre",
+      "organización",
+      "cooperación",
+      "shanghái",
+      ",",
+      "celebrará",
+      "finales",
+      "agosto",
+      "principios",
+      "mes",
+      "."
+    ],
+    "token_count": 124,
+    "sentence_count": 6
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 29,
+      "NN": 66,
+      "NNS": 8,
+      "JJ": 17,
+      "IN": 10,
+      "FW": 37,
+      "VBP": 4,
+      "VBD": 2,
+      "VBZ": 2,
+      "VBN": 1,
+      "CD": 1
+    },
+    "bigram_freq": {
+      "NNP-NN": 11,
+      "NN-NN": 35,
+      "NN-NNP": 6,
+      "NNP-NNP": 8,
+      "NN-NNS": 3,
+      "NNS-JJ": 1,
+      "JJ-NN": 13,
+      "NN-IN": 8,
+      "IN-FW": 5,
+      "FW-FW": 20,
+      "FW-NNP": 10,
+      "NN-VBP": 2,
+      "VBP-NNP": 2,
+      "NNP-VBD": 1,
+      "VBD-JJ": 1,
+      "NNP-FW": 6,
+      "FW-NN": 5,
+      "NN-FW": 3,
+      "IN-JJ": 4,
+      "NNP-VBZ": 1,
+      "VBZ-FW": 1,
+      "IN-NN": 1,
+      "NNS-VBP": 2,
+      "NNP-JJ": 1,
+      "VBP-VBN": 1,
+      "VBN-FW": 1,
+      "FW-JJ": 1,
+      "JJ-FW": 1,
+      "FW-NNS": 1,
+      "NNS-NNP": 1,
+      "NN-JJ": 8,
+      "NNS-VBZ": 1,
+      "VBZ-NNP": 1,
+      "NNP-NNS": 1,
+      "VBP-JJ": 1,
+      "NN-VBD": 1,
+      "VBD-CD": 1,
+      "CD-NN": 1,
+      "JJ-NNS": 3,
+      "NNS-IN": 2
+    },
+    "trigram_freq": {
+      "NNP-NN-NN": 11,
+      "NN-NN-NNP": 3,
+      "NN-NNP-NNP": 3,
+      "NNP-NNP-NN": 4,
+      "NN-NN-NN": 16,
+      "NN-NN-NNS": 2,
+      "NN-NNS-JJ": 1,
+      "NNS-JJ-NN": 1,
+      "JJ-NN-NN": 6,
+      "NN-NN-IN": 5,
+      "NN-IN-FW": 5,
+      "IN-FW-FW": 4,
+      "FW-FW-FW": 12,
+      "FW-FW-NNP": 6,
+      "FW-NNP-NNP": 1,
+      "NNP-NNP-NNP": 1,
+      "NN-NN-VBP": 1,
+      "NN-VBP-NNP": 1,
+      "VBP-NNP-NNP": 2,
+      "NNP-NNP-VBD": 1,
+      "NNP-VBD-JJ": 1,
+      "VBD-JJ-NN": 1,
+      "JJ-NN-NNP": 2,
+      "NNP-NNP-FW": 1,
+      "NNP-FW-NN": 2,
+      "FW-NN-NNP": 1,
+      "NN-NNP-NN": 1,
+      "NN-NN-FW": 1,
+      "NN-FW-FW": 1,
+      "FW-NNP-NN": 4,
+      "IN-FW-NN": 1,
+      "FW-NN-NN": 2,
+      "NN-NNP-FW": 1,
+      "FW-NN-IN": 1,
+      "NN-IN-JJ": 2,
+      "IN-JJ-NN": 2,
+      "FW-NNP-VBZ": 1,
+      "NNP-VBZ-FW": 1,
+      "VBZ-FW-NN": 1,
+      "NN-IN-NN": 1,
+      "IN-NN-NNS": 1,
+      "NN-NNS-VBP": 1,
+      "NNS-VBP-NNP": 1,
+      "NNP-NNP-JJ": 1,
+      "NNP-JJ-NN": 1,
+      "JJ-NN-VBP": 1,
+      "NN-VBP-VBN": 1,
+      "VBP-VBN-FW": 1,
+      "VBN-FW-FW": 1,
+      "FW-FW-JJ": 1,
+      "FW-JJ-FW": 1,
+      "JJ-FW-FW": 1,
+      "FW-FW-NNS": 1,
+      "FW-NNS-NNP": 1,
+      "NNS-NNP-NNP": 1,
+      "NN-NN-JJ": 7,
+      "NN-JJ-NN": 7,
+      "JJ-NN-IN": 1,
+      "FW-NNP-FW": 4,
+      "NNP-FW-NNP": 3,
+      "NN-NNS-VBZ": 1,
+      "NNS-VBZ-NNP": 1,
+      "VBZ-NNP-NN": 1,
+      "JJ-NN-JJ": 1,
+      "NN-NNP-NNS": 1,
+      "NNP-NNS-VBP": 1,
+      "NNS-VBP-JJ": 1,
+      "VBP-JJ-NN": 1,
+      "JJ-NN-FW": 1,
+      "NN-FW-NN": 1,
+      "FW-NN-FW": 1,
+      "NN-FW-NNP": 1,
+      "JJ-NN-VBD": 1,
+      "NN-VBD-CD": 1,
+      "VBD-CD-NN": 1,
+      "CD-NN-IN": 1,
+      "NNP-FW-FW": 1,
+      "NN-JJ-NNS": 1,
+      "JJ-NNS-IN": 2,
+      "NNS-IN-JJ": 2,
+      "IN-JJ-NNS": 2
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 66,
+        "FW": 37,
+        "NNP": 29,
+        "JJ": 17,
+        "IN": 10
+      },
+      "top_bigrams": {
+        "NN-NN": 35,
+        "FW-FW": 20,
+        "JJ-NN": 13,
+        "NNP-NN": 11,
+        "FW-NNP": 10
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 16,
+        "FW-FW-FW": 12,
+        "NNP-NN-NN": 11,
+        "NN-NN-JJ": 7,
+        "NN-JJ-NN": 7
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 6,
+    "chunk_counts": {
+      "NP": 52,
+      "VP": 12,
+      "PP": 3,
+      "ADJP": 3
+    },
+    "top_rules": [
+      {
+        "rule": "NP -> ('y', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0263
+      },
+      {
+        "rule": "NP -> ('Putin', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0263
+      },
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0263
+      },
+      {
+        "rule": "S -> NP (',', ',') NP (',', ',') NP VP (',', ',') NP (',', ',') NP NP ('en', 'IN') ('la', 'FW') ('situación', 'FW') ('en', 'FW') NP VP (',', ',') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0132
+      },
+      {
+        "rule": "NP -> ('El', 'NNP') ('presidente', 'NN') ('ruso', 'NN')",
+        "frequency": 1,
+        "weight": 0.0132
+      },
+      {
+        "rule": "NP -> ('Vladímir', 'NNP') ('Putin', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0132
+      },
+      {
+        "rule": "VP -> ('su', 'VBD') NP",
+        "frequency": 1,
+        "weight": 0.0132
+      },
+      {
+        "rule": "NP -> ('homólogo', 'NN') ('chino', 'NN')",
+        "frequency": 1,
+        "weight": 0.0132
+      },
+      {
+        "rule": "NP -> ('Xi', 'NNP') ('Jinping', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0132
+      },
+      {
+        "rule": "NP -> ('sostuvieron', 'NN') ('este', 'NN') ('jueves', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0132
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El presidente ruso"
+      },
+      {
+        "label": "NP",
+        "text": "Vladímir Putin"
+      },
+      {
+        "label": "NP",
+        "text": "y"
+      },
+      {
+        "label": "VP",
+        "text": "su homólogo chino"
+      },
+      {
+        "label": "NP",
+        "text": "homólogo chino"
+      },
+      {
+        "label": "NP",
+        "text": "Xi Jinping"
+      },
+      {
+        "label": "NP",
+        "text": "sostuvieron este jueves"
+      },
+      {
+        "label": "NP",
+        "text": "una conversación telefónica centrada"
+      },
+      {
+        "label": "NP",
+        "text": "Medio Oriente y la coordinación estratégica"
+      },
+      {
+        "label": "VP",
+        "text": "entre Moscú y Pekín"
+      },
+      {
+        "label": "NP",
+        "text": "Moscú y Pekín"
+      },
+      {
+        "label": "NP",
+        "text": "según informó el Kremlin"
+      },
+      {
+        "label": "NP",
+        "text": "Durante el diálogo"
+      },
+      {
+        "label": "NP",
+        "text": "Putin"
+      },
+      {
+        "label": "VP",
+        "text": "reafirmó"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP El/NNP presidente/NN ruso/NN)\n  ,/,\n  (NP Vladímir/NNP Putin/NNP)\n  ,/,\n  (NP y/NNP)\n  (VP su/VBD (NP homólogo/NN chino/NN))\n  ,/,\n  (NP Xi/NNP Jinping/NNP)\n  ,/,\n  (NP sostuvieron/NN este/NN jueves/NNS)\n  (NP una/JJ conversación/NN telefónica/NN centrada/NN)\n  en/IN\n  la/FW\n  situación/FW\n  en/FW\n  (NP\n    Medio/NNP\n    Oriente/NNP\n    y/NNP\n    la/NNP\n    coordinación/NN\n    estratégica/NN)\n  (VP entre/VBP (NP Moscú/NNP y/NNP Pekín/NNP))\n  ,/,\n  (NP según/NN informó/NN el/NN Kremlin/NNP)\n  ./.)",
+      "(S\n  (NP Durante/NNP el/NN diálogo/NN)\n  ,/,\n  (NP Putin/NNP)\n  (VP reafirmó/VBZ)\n  la/FW\n  disposición/FW\n  de/FW\n  Rusia/FW\n  (NP a/DT actuar/NN como/NN mediador/NN)\n  en/IN\n  el/FW\n  (NP conflicto/NN relacionado/NN con/NN Irán/NNP)\n  ,/,\n  en/FW\n  medio/FW\n  de/FW\n  una/FW\n  (NP creciente/NN tensión/NN)\n  (PP en/IN (NP la/NN región/NN))\n  ./.)",
+      "(S\n  (NP Ambos/NNP)\n  (VP líderes/VBZ)\n  manifestaron/FW\n  (NP además/NN su/NN intención/NN)\n  (PP de/IN (NP coordinar/NN posturas/NNS))\n  (VP sobre/VBP (NP Asia/NNP Central/NNP))\n  ,/,\n  (NP una/JJ zona/NN)\n  (VP clave/VBP)\n  (VP para/VBN la/JJ)\n  seguridad/FW\n  (NP y/NN)\n  la/FW\n  (ADJP influencia/JJ)\n  (ADJP regional/JJ)\n  de/FW\n  ambos/FW\n  (NP países/NNS)\n  ./.)",
+      "(S\n  (NP Putin/NNP)\n  y/PRP\n  (NP Xi/NNP)\n  (VP también/VBD)\n  abordaron/RP\n  (NP los/JJ resultados/NN)\n  de/IN\n  la/FW\n  reciente/FW\n  cumbre/FW\n  del/FW\n  (NP G7/NNP)\n  en/FW\n  (NP Canadá/NNP)\n  ,/,\n  (NP\n    destacando/NN\n    lo/NN\n    que/NN\n    calificaron/NN\n    como/NN\n    “/NNP\n    deficiencias/NN\n    ”/NNP)\n  del/FW\n  (NP bloque/NN)\n  (NP\n    occidental/JJ\n    ante/NN\n    los/NN\n    desafíos/NN\n    globales/NNS\n    actuales/NNS)\n  ./.)",
+      "(S\n  (NP La/NNP conversación/NN)\n  ,/,\n  (ADJP que/JJ)\n  se/FW\n  (NP prolongó/NN durante/NN)\n  (NP una/JJ hora/NN)\n  ,/,\n  se/FW\n  (NP desarrolló/NN)\n  en/FW\n  un/FW\n  tono/FW\n  “/FW\n  (NP cálido/NN y/NN amistoso/NN ”/NNP)\n  ,/,\n  (NP y/NNP)\n  (VP anticipa/VBZ una/JJ agenda/RB (NP bilateral/JJ intensa/NN))\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "CIUDADES_CAPITALES",
+      "GOBIERNOS_OFICIALES",
+      "APROBACION_RECHAZO",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "REGIONES_PROVINCIAS",
+      "PAISES",
+      "CONFLICTOS_ARMADOS_OPERACIONES",
+      "RELACIONES_INTERNACIONALES"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "conflicto relacionado con irán, en medio",
+        "position": [
+          329,
+          369
+        ],
+        "start": 329,
+        "end": 369
+      },
+      {
+        "category": "RELACIONES_INTERNACIONALES",
+        "matched_text": "cooperación de shanghái, que se celebrará entre finales de agosto y principios",
+        "position": [
+          1088,
+          1166
+        ],
+        "start": 1088,
+        "end": 1166
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "informó",
+        "position": [
+          220,
+          227
+        ],
+        "start": 220,
+        "end": 227
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente ruso",
+        "position": [
+          3,
+          18
+        ],
+        "start": 3,
+        "end": 18
+      },
+      {
+        "category": "APROBACION_RECHAZO",
+        "matched_text": "reafirmó",
+        "position": [
+          267,
+          275
+        ],
+        "start": 267,
+        "end": 275
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "rusia",
+        "position": [
+          294,
+          299
+        ],
+        "start": 294,
+        "end": 299
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "canadá",
+        "position": [
+          649,
+          655
+        ],
+        "start": 649,
+        "end": 655
+      },
+      {
+        "category": "CIUDADES_CAPITALES",
+        "matched_text": "moscú",
+        "position": [
+          199,
+          204
+        ],
+        "start": 199,
+        "end": 204
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "región. ambos",
+        "position": [
+          401,
+          414
+        ],
+        "start": 401,
+        "end": 414
+      }
+    ],
+    "match_count": 9
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Putin",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Irán",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Pekín",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "G7",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Rusia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Kremlin",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Xi Jinping",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Asia Central",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Canadá",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Organización de Cooperación de Shanghái",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Moscú",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Vladímir Putin",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Xi",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Japón",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Vladímir Putin",
+        "relacion": "SOSTENER",
+        "objeto": "Moscú"
+      },
+      {
+        "sujeto": "Vladímir Putin",
+        "relacion": "SOSTENER",
+        "objeto": "Pekín"
+      },
+      {
+        "sujeto": "Kremlin",
+        "relacion": "SOSTENER",
+        "objeto": "Vladímir Putin"
+      },
+      {
+        "sujeto": "Xi Jinping",
+        "relacion": "SOSTENER",
+        "objeto": "Moscú"
+      },
+      {
+        "sujeto": "Xi Jinping",
+        "relacion": "SOSTENER",
+        "objeto": "Pekín"
+      },
+      {
+        "sujeto": "Kremlin",
+        "relacion": "SOSTENER",
+        "objeto": "Xi Jinping"
+      },
+      {
+        "sujeto": "Kremlin",
+        "relacion": "SOSTENER",
+        "objeto": "Moscú"
+      },
+      {
+        "sujeto": "Kremlin",
+        "relacion": "SOSTENER",
+        "objeto": "Pekín"
+      },
+      {
+        "sujeto": "Putin",
+        "relacion": "REAFIRMAR",
+        "objeto": "Rusia"
+      },
+      {
+        "sujeto": "Putin",
+        "relacion": "REAFIRMAR",
+        "objeto": "Irán"
+      },
+      {
+        "sujeto": "Putin",
+        "relacion": "ABORDAR",
+        "objeto": "G7"
+      },
+      {
+        "sujeto": "Putin",
+        "relacion": "ABORDAR",
+        "objeto": "Canadá"
+      },
+      {
+        "sujeto": "Xi",
+        "relacion": "ABORDAR",
+        "objeto": "G7"
+      },
+      {
+        "sujeto": "Xi",
+        "relacion": "ABORDAR",
+        "objeto": "Canadá"
+      },
+      {
+        "sujeto": "Pekín",
+        "relacion": "ENCONTRAR",
+        "objeto": "Japón"
+      },
+      {
+        "sujeto": "Pekín",
+        "relacion": "ENCONTRAR",
+        "objeto": "Organización de Cooperación de Shanghái"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.0,
+    "pos": 0.0,
+    "neu": 1.0,
+    "neg": 0.0,
+    "label": "neutral"
+  }
+}

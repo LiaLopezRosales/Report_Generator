@@ -1,0 +1,615 @@
+{
+  "url": "https://www.telesurtv.net/ejercito-israeli-viola-el-alto-el-fuego-y-ataca-el-sur-libanes/",
+  "title": "Ejército israelí viola el alto el fuego y ataca el sur libanés - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Cese al fuego",
+    "Israel",
+    "Soldados Israelíes",
+    "Violaciones"
+  ],
+  "text": "Las tropas israelíes este viernes han violado el acuerdo de alto el fuego con el Líbano en siete ocasiones más. Mientras, Naim Qassem, líder de Hezbolá, en representación del movimiento chií declaró que están de acuerdo en continuar las conversaciones indirectas para un cese de todas las agresiones.\nDe acuerdo con Anadolu, un tanque sionista disparó un proyectil contra una casa en la zona de Tel Nahas, en las afueras de la ciudad de Burj Al-Moulouk, cuando el propietario regresaba a su residencia, quien logró sobrevivir al ataque.\nOtros proyectiles de artillería fueron disparados a las afueras de las ciudades de Markaba y Talloussa, mientras que cuatro tanques israelíes penetraron en el distrito de Khiam.\nA propósito, la cadena Al Mayadeen reporta que en Khiam los soldados israelíes abrieron fuego contra los residentes mientras celebraban el funeral de un vecino de la localidad.\nLos ocupantes peinaron el poblado con sus ametralladoras e impactaron directamente al pueblo.\nEn el barrio de Abbara, en la ciudad de Kfarkela, las tropas ocupantes arrasaron con tierras agrícolas y arrancaron olivos.\nEn total, se han registrado al menos 18 violaciones de Israel al cese al fuego en el sur libanés, que han dejado al menos dos heridos.\n\n",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/ejercito-israeli-viola-el-alto-el-fuego-y-ataca-el-sur-libanes/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-11.json",
+    "message_index": 43,
+    "message_id": 81450,
+    "date": "2024-11-29T22:55:19+00:00",
+    "text": "teleSUR\nEjército israelí viola el alto el fuego y ataca el sur libanés\nhttps://www.telesurtv.net/ejercito-israeli-viola-el-alto-el-fuego-y-ataca-el-sur-libanes/",
+    "photo_path": null,
+    "views": 2270,
+    "reactions": {
+      "💩": 35,
+      "🤬": 19
+    },
+    "total_reactions": 54
+  },
+  "preprocessing": {
+    "cleaned": "las tropas israelíes este viernes han violado el acuerdo de alto el fuego con el líbano en siete ocasiones más. mientras, naim qassem, líder de hezbolá, en representación del movimiento chií declaró que están de acuerdo en continuar las conversaciones indirectas para un cese de todas las agresiones. de acuerdo con anadolu, un tanque sionista disparó un proyectil contra una casa en la zona de tel nahas, en las afueras de la ciudad de burj al-moulouk, cuando el propietario regresaba a su residencia, quien logró sobrevivir al ataque. otros proyectiles de artillería fueron disparados a las afueras de las ciudades de markaba y talloussa, mientras que cuatro tanques israelíes penetraron en el distrito de khiam. a propósito, la cadena al mayadeen reporta que en khiam los soldados israelíes abrieron fuego contra los residentes mientras celebraban el funeral de un vecino de la localidad. los ocupantes peinaron el poblado con sus ametralladoras e impactaron directamente al pueblo. en el barrio de abbara, en la ciudad de kfarkela, las tropas ocupantes arrasaron con tierras agrícolas y arrancaron olivos. en total, se han registrado al menos 18 violaciones de israel al cese al fuego en el sur libanés, que han dejado al menos dos heridos.",
+    "tokens": [
+      "tropas",
+      "israelíes",
+      "viernes",
+      "violado",
+      "acuerdo",
+      "alto",
+      "fuego",
+      "líbano",
+      "siete",
+      "ocasiones",
+      ".",
+      "mientras",
+      ",",
+      "naim",
+      "qassem",
+      ",",
+      "líder",
+      "hezbolá",
+      ",",
+      "representación",
+      "movimiento",
+      "chií",
+      "declaró",
+      "acuerdo",
+      "continuar",
+      "conversaciones",
+      "indirectas",
+      "cese",
+      "todas",
+      "agresiones",
+      ".",
+      "acuerdo",
+      "anadolu",
+      ",",
+      "tanque",
+      "sionista",
+      "disparó",
+      "proyectil",
+      "casa",
+      "zona",
+      "tel",
+      "nahas",
+      ",",
+      "afueras",
+      "ciudad",
+      "burj",
+      "al-moulouk",
+      ",",
+      "propietario",
+      "regresaba",
+      "residencia",
+      ",",
+      "logró",
+      "sobrevivir",
+      "ataque",
+      ".",
+      "proyectiles",
+      "artillería",
+      "disparados",
+      "afueras",
+      "ciudades",
+      "markaba",
+      "talloussa",
+      ",",
+      "mientras",
+      "cuatro",
+      "tanques",
+      "israelíes",
+      "penetraron",
+      "distrito",
+      "khiam",
+      ".",
+      "propósito",
+      ",",
+      "cadena",
+      "mayadeen",
+      "reporta",
+      "khiam",
+      "soldados",
+      "israelíes",
+      "abrieron",
+      "fuego",
+      "residentes",
+      "mientras",
+      "celebraban",
+      "funeral",
+      "vecino",
+      "localidad",
+      ".",
+      "ocupantes",
+      "peinaron",
+      "poblado",
+      "ametralladoras",
+      "impactaron",
+      "directamente",
+      "pueblo",
+      ".",
+      "barrio",
+      "abbara",
+      ",",
+      "ciudad",
+      "kfarkela",
+      ",",
+      "tropas",
+      "ocupantes",
+      "arrasaron",
+      "tierras",
+      "agrícolas",
+      "arrancaron",
+      "olivos",
+      ".",
+      "total",
+      ",",
+      "registrado",
+      "menos",
+      "18",
+      "violaciones",
+      "israel",
+      "cese",
+      "fuego",
+      "sur",
+      "libanés",
+      ",",
+      "dejado",
+      "menos",
+      "dos",
+      "heridos",
+      "."
+    ],
+    "token_count": 128,
+    "sentence_count": 8
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 25,
+      "NN": 65,
+      "NNS": 12,
+      "VBP": 9,
+      "JJ": 21,
+      "IN": 9,
+      "FW": 47,
+      "VBZ": 4,
+      "CC": 1,
+      "VBD": 1,
+      "$": 1,
+      "CD": 1
+    },
+    "bigram_freq": {
+      "NNP-NN": 6,
+      "NN-NN": 38,
+      "NN-NNS": 5,
+      "NNS-VBP": 8,
+      "VBP-JJ": 4,
+      "JJ-JJ": 5,
+      "JJ-NN": 10,
+      "NN-IN": 5,
+      "IN-FW": 4,
+      "FW-FW": 28,
+      "FW-JJ": 3,
+      "NN-NNP": 6,
+      "NNP-VBZ": 3,
+      "VBZ-JJ": 2,
+      "JJ-NNS": 4,
+      "NNS-FW": 1,
+      "FW-NNP": 8,
+      "NNP-NNP": 6,
+      "NN-FW": 4,
+      "NNP-FW": 7,
+      "FW-NN": 7,
+      "NNS-NNP": 1,
+      "NNP-JJ": 1,
+      "NN-JJ": 4,
+      "VBZ-FW": 1,
+      "JJ-FW": 2,
+      "FW-NNS": 1,
+      "NNS-IN": 2,
+      "IN-NNP": 3,
+      "VBP-NN": 4,
+      "VBZ-VBP": 1,
+      "NN-VBZ": 1,
+      "NNP-CC": 1,
+      "CC-JJ": 1,
+      "NN-VBD": 1,
+      "VBD-$": 1,
+      "$-CD": 1,
+      "CD-NNS": 1,
+      "NNP-IN": 1,
+      "IN-JJ": 1,
+      "VBP-IN": 1,
+      "IN-NNS": 1
+    },
+    "trigram_freq": {
+      "NNP-NN-NN": 5,
+      "NN-NN-NN": 22,
+      "NN-NN-NNS": 3,
+      "NN-NNS-VBP": 5,
+      "NNS-VBP-JJ": 3,
+      "VBP-JJ-JJ": 3,
+      "JJ-JJ-NN": 3,
+      "JJ-NN-IN": 3,
+      "NN-IN-FW": 3,
+      "IN-FW-FW": 3,
+      "FW-FW-JJ": 1,
+      "FW-JJ-NN": 2,
+      "JJ-NN-NN": 5,
+      "NN-NN-NNP": 5,
+      "NN-NNP-VBZ": 2,
+      "NNP-VBZ-JJ": 1,
+      "VBZ-JJ-NNS": 1,
+      "JJ-NNS-FW": 1,
+      "NNS-FW-NNP": 1,
+      "FW-NNP-NNP": 3,
+      "NNP-NNP-NNP": 1,
+      "NNP-NNP-NN": 3,
+      "NNP-NN-FW": 1,
+      "NN-FW-NNP": 2,
+      "FW-NNP-FW": 2,
+      "NNP-FW-NN": 4,
+      "FW-NN-NN": 5,
+      "NN-NN-FW": 2,
+      "NN-FW-FW": 2,
+      "FW-FW-FW": 18,
+      "FW-FW-NN": 3,
+      "IN-FW-JJ": 1,
+      "FW-JJ-NNS": 1,
+      "JJ-NNS-NNP": 1,
+      "NNS-NNP-FW": 1,
+      "FW-NN-NNP": 1,
+      "NN-NNP-JJ": 1,
+      "NNP-JJ-NN": 1,
+      "NN-NN-JJ": 3,
+      "NN-JJ-NN": 2,
+      "JJ-NN-JJ": 1,
+      "NN-JJ-JJ": 1,
+      "FW-FW-NNP": 5,
+      "NNP-NNP-FW": 2,
+      "NNP-FW-FW": 2,
+      "NNP-VBZ-FW": 1,
+      "VBZ-FW-FW": 1,
+      "NN-JJ-FW": 1,
+      "JJ-FW-FW": 2,
+      "FW-FW-NNS": 1,
+      "FW-NNS-IN": 1,
+      "NNS-IN-NNP": 2,
+      "IN-NNP-NNP": 1,
+      "NNS-VBP-NN": 4,
+      "VBP-NN-FW": 1,
+      "FW-NNP-NN": 1,
+      "NN-NNP-NNP": 1,
+      "NNP-FW-JJ": 1,
+      "JJ-NN-NNS": 1,
+      "JJ-JJ-JJ": 1,
+      "JJ-JJ-FW": 1,
+      "FW-NNP-VBZ": 1,
+      "NNP-VBZ-VBP": 1,
+      "VBZ-VBP-JJ": 1,
+      "VBP-JJ-NN": 1,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 1,
+      "NN-NNP-FW": 1,
+      "FW-NN-IN": 1,
+      "NN-IN-NNP": 1,
+      "IN-NNP-FW": 1,
+      "FW-NNP-CC": 1,
+      "NNP-CC-JJ": 1,
+      "CC-JJ-NNS": 1,
+      "JJ-NNS-VBP": 2,
+      "VBP-NN-NNS": 1,
+      "VBP-NN-NN": 1,
+      "NN-NNP-NN": 1,
+      "NN-NN-VBD": 1,
+      "NN-VBD-$": 1,
+      "VBD-$-CD": 1,
+      "$-CD-NNS": 1,
+      "CD-NNS-IN": 1,
+      "IN-NNP-IN": 1,
+      "NNP-IN-JJ": 1,
+      "IN-JJ-NNS": 1,
+      "NNS-VBP-IN": 1,
+      "VBP-IN-FW": 1,
+      "NN-NN-IN": 1,
+      "NN-IN-NNS": 1,
+      "IN-NNS-VBP": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 65,
+        "FW": 47,
+        "NNP": 25,
+        "JJ": 21,
+        "NNS": 12
+      },
+      "top_bigrams": {
+        "NN-NN": 38,
+        "FW-FW": 28,
+        "JJ-NN": 10,
+        "NNS-VBP": 8,
+        "FW-NNP": 8
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 22,
+        "FW-FW-FW": 18,
+        "NNP-NN-NN": 5,
+        "NN-NNS-VBP": 5,
+        "JJ-NN-NN": 5
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 8,
+    "chunk_counts": {
+      "NP": 54,
+      "VP": 16,
+      "PP": 5
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 3,
+        "weight": 0.0361
+      },
+      {
+        "rule": "NP -> ('Khiam', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0241
+      },
+      {
+        "rule": "PP -> ('al', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0241
+      },
+      {
+        "rule": "S -> NP VP ('de', 'IN') ('alto', 'FW') ('el', 'FW') NP VP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.012
+      },
+      {
+        "rule": "NP -> ('Las', 'NNP') ('tropas', 'NN') ('israelíes', 'NN') ('este', 'NN') ('viernes', 'NNS')",
+        "frequency": 1,
+        "weight": 0.012
+      },
+      {
+        "rule": "VP -> ('han', 'VBP') NP",
+        "frequency": 1,
+        "weight": 0.012
+      },
+      {
+        "rule": "NP -> ('violado', 'JJ') ('el', 'JJ') ('acuerdo', 'NN')",
+        "frequency": 1,
+        "weight": 0.012
+      },
+      {
+        "rule": "NP -> ('fuego', 'JJ') ('con', 'NN') ('el', 'NN') ('Líbano', 'NNP')",
+        "frequency": 1,
+        "weight": 0.012
+      },
+      {
+        "rule": "VP -> ('en', 'VBZ') NP",
+        "frequency": 1,
+        "weight": 0.012
+      },
+      {
+        "rule": "NP -> ('siete', 'JJ') ('ocasiones', 'NNS') ('más', 'NN')",
+        "frequency": 1,
+        "weight": 0.012
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Las tropas israelíes este viernes"
+      },
+      {
+        "label": "VP",
+        "text": "han violado el acuerdo"
+      },
+      {
+        "label": "NP",
+        "text": "violado el acuerdo"
+      },
+      {
+        "label": "NP",
+        "text": "fuego con el Líbano"
+      },
+      {
+        "label": "VP",
+        "text": "en siete ocasiones más"
+      },
+      {
+        "label": "NP",
+        "text": "siete ocasiones más"
+      },
+      {
+        "label": "NP",
+        "text": "Mientras"
+      },
+      {
+        "label": "NP",
+        "text": "Naim Qassem"
+      },
+      {
+        "label": "NP",
+        "text": "líder"
+      },
+      {
+        "label": "NP",
+        "text": "Hezbolá"
+      },
+      {
+        "label": "NP",
+        "text": "chií declaró que"
+      },
+      {
+        "label": "NP",
+        "text": "continuar las conversaciones"
+      },
+      {
+        "label": "VP",
+        "text": "indirectas para un cese"
+      },
+      {
+        "label": "NP",
+        "text": "para un cese"
+      },
+      {
+        "label": "NP",
+        "text": "las agresiones"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Las/NNP tropas/NN israelíes/NN este/NN viernes/NNS)\n  (VP han/VBP (NP violado/JJ el/JJ acuerdo/NN))\n  de/IN\n  alto/FW\n  el/FW\n  (NP fuego/JJ con/NN el/NN Líbano/NNP)\n  (VP en/VBZ (NP siete/JJ ocasiones/NNS más/NN))\n  ./.)",
+      "(S\n  (NP Mientras/NNP)\n  ,/,\n  (NP Naim/NNP Qassem/NNP)\n  ,/,\n  (NP líder/NN)\n  de/FW\n  (NP Hezbolá/NNP)\n  ,/,\n  en/FW\n  representación/FW\n  del/FW\n  movimiento/FW\n  (NP chií/NN declaró/NN que/NN)\n  están/FW\n  de/FW\n  acuerdo/FW\n  en/FW\n  (NP continuar/NN las/NN conversaciones/NNS)\n  (VP indirectas/VBP (NP para/JJ un/JJ cese/NN))\n  de/IN\n  todas/FW\n  (NP las/JJ agresiones/NNS)\n  ./.)",
+      "(S\n  (NP De/NNP)\n  acuerdo/FW\n  (NP con/NN Anadolu/NNP)\n  ,/,\n  (NP un/JJ tanque/NN sionista/NN disparó/NN)\n  (NP un/JJ proyectil/NN)\n  (NP contra/JJ una/JJ casa/NN)\n  en/IN\n  la/FW\n  zona/FW\n  de/FW\n  (NP Tel/NNP Nahas/NNP)\n  ,/,\n  en/FW\n  las/FW\n  afueras/FW\n  de/FW\n  la/FW\n  ciudad/FW\n  de/FW\n  (NP Burj/NNP Al-Moulouk/NNP)\n  ,/,\n  (NP cuando/NN el/NN propietario/NN)\n  (VP regresaba/VBZ (NP a/DT su/NN residencia/NN))\n  ,/,\n  (NP quien/JJ logró/NN sobrevivir/NN al/NN ataque/NN)\n  ./.)",
+      "(S\n  (NP Otros/NNP)\n  (VP proyectiles/VBZ)\n  de/FW\n  artillería/FW\n  (NP fueron/NN)\n  (VP disparados/VBZ (NP a/DT las/JJ afueras/NN))\n  de/IN\n  las/FW\n  (NP ciudades/NNS)\n  (PP de/IN (NP Markaba/NNP y/NNP Talloussa/NNP))\n  ,/,\n  mientras/FW\n  que/FW\n  (NP cuatro/NN tanques/NNS)\n  (VP israelíes/VBP (NP penetraron/NN))\n  en/FW\n  el/FW\n  distrito/FW\n  de/FW\n  (NP Khiam/NNP)\n  ./.)",
+      "(S\n  (NP A/DT propósito/NN)\n  ,/,\n  la/FW\n  cadena/FW\n  (NP Al/NNP Mayadeen/NNP reporta/NN que/NN)\n  en/FW\n  (NP Khiam/NNP)\n  los/FW\n  (NP soldados/JJ israelíes/NN abrieron/NN fuego/NN)\n  (NP contra/JJ los/NN residentes/NNS)\n  (VP mientras/VBP celebraban/JJ el/JJ funeral/JJ)\n  de/FW\n  un/FW\n  vecino/FW\n  de/FW\n  la/FW\n  localidad/FW\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "REGIONES_PROVINCIAS",
+      "LOCALIZACIONES_ESPECIFICAS",
+      "PAISES",
+      "CONFLICTOS_ARMADOS_OPERACIONES"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "disparó",
+        "position": [
+          344,
+          351
+        ],
+        "start": 344,
+        "end": 351
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "declaró",
+        "position": [
+          191,
+          198
+        ],
+        "start": 191,
+        "end": 198
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "líbano",
+        "position": [
+          81,
+          87
+        ],
+        "start": 81,
+        "end": 87
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "zona de",
+        "position": [
+          387,
+          394
+        ],
+        "start": 387,
+        "end": 394
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "barrio de",
+        "position": [
+          992,
+          1001
+        ],
+        "start": 992,
+        "end": 1001
+      }
+    ],
+    "match_count": 5
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Talloussa",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Hezbolá",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Burj Al-Moulouk",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Abbara",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Mayadeen",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Tel Nahas",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Khiam",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Naim Qassem",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "el Líbano",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Markaba",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Israel",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Kfarkela",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Anadolu",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Anadolu",
+        "relacion": "DISPARAR",
+        "objeto": "Tel Nahas"
+      },
+      {
+        "sujeto": "Anadolu",
+        "relacion": "DISPARAR",
+        "objeto": "Burj Al-Moulouk"
+      },
+      {
+        "sujeto": "Tel Nahas",
+        "relacion": "DISPARAR",
+        "objeto": "Burj Al-Moulouk"
+      },
+      {
+        "sujeto": "Mayadeen",
+        "relacion": "REPORTAR",
+        "objeto": "Khiam"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.3612,
+    "pos": 0.0,
+    "neu": 0.987,
+    "neg": 0.013,
+    "label": "negative"
+  }
+}

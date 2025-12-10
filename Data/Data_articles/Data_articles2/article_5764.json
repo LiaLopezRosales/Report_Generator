@@ -1,0 +1,807 @@
+{
+  "url": "https://www.telesurtv.net/argentina-profundiza-represion-protestas/",
+  "title": "Se profundiza la represión en Argentina durante el 2025",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "Heridos",
+    "Javier Milei",
+    "Violencia"
+  ],
+  "text": "El primer semestre del 2025 en Argentina se ha visto marcado por la represión, la cifra de 1.251 personas entre heridas y detenidas en movilizaciones en Buenos Aires representa un número mayor al de todo el año pasado, según un informe de la Comisión Provincial por la Memoria (CPM).\nLa CPM indagó sobre las protestas que se produjeron desde que Javier Milei es presidente de Argentina para la elaboración del informe.\nEl documento fue presentado ante militantes políticos, sindicales y de derechos humanos en el anfiteatro de la sede de la Asociación de Trabajadores del Estado (ATE) nacional.\n“Todo lo relevado a lo largo de estos 18 meses de trabajo, de monitoreo sobre las movilizaciones sociales, permite dar cuenta de la profundización del proceso represivo y la intensificación de la violencia estatal ejercida sobre los manifestantes por parte de las fuerzas de seguridad federales y de la Ciudad de Buenos Aires”, informó el CPM con el documento.\n“Además, permite advertir que se trata de prácticas sistemáticas que dan cuenta de una política planificada para limitar el ejercicio del derecho a la expresión y la manifestación pública de determinados sectores, movimientos sociales, políticos y sindicales”, agregó.\nDe igual manera, “los grupos particularmente vulnerables representados por las diferentes organizaciones de jubilados y jubiladas que se reúnen, en las inmediaciones del Congreso de la Nación, a fin de reclamar por sus derechos cercenados o suprimidos”, también se ven reprimidos.\nPor otra parte, el informe destacó que existió un “incremento exponencial de los hechos de represión que ocurrieron en 5 de cada 10 movilizaciones en el primer semestre de 2025, contra 3 de cada 10 movilizaciones durante 2024”.\nEste hecho “da cuenta de la decisión del Gobierno nacional de profundizar el camino represivo por sobre el diálogo y la construcción democrática”.\nDurante el 2024 hubo un total de 1.216 individuos heridos y violentados por el estado, mientras que en seis meses del 2025 se registró la cifra de 1.251, “es decir, 35 personas más” sin concluir el año.\n",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/argentina-profundiza-represion-protestas/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-07.json",
+    "message_index": 653,
+    "message_id": 99797,
+    "date": "2025-07-24T07:55:07+00:00",
+    "text": "teleSUR\nSe profundiza la represión en Argentina al superar la cifras del 2024 en lo que va del año\nhttps://www.telesurtv.net/argentina-profundiza-represion-protestas/",
+    "photo_path": null,
+    "views": 1561,
+    "reactions": {
+      "👎": 23,
+      "🤬": 11,
+      "❤": 2
+    },
+    "total_reactions": 36
+  },
+  "preprocessing": {
+    "cleaned": "el primer semestre del 2025 en argentina se ha visto marcado por la represión, la cifra de 1.251 personas entre heridas y detenidas en movilizaciones en buenos aires representa un número mayor al de todo el año pasado, según un informe de la comisión provincial por la memoria (cpm). la cpm indagó sobre las protestas que se produjeron desde que javier milei es presidente de argentina para la elaboración del informe. el documento fue presentado ante militantes políticos, sindicales y de derechos humanos en el anfiteatro de la sede de la asociación de trabajadores del estado (ate) nacional. “todo lo relevado a lo largo de estos 18 meses de trabajo, de monitoreo sobre las movilizaciones sociales, permite dar cuenta de la profundización del proceso represivo y la intensificación de la violencia estatal ejercida sobre los manifestantes por parte de las fuerzas de seguridad federales y de la ciudad de buenos aires”, informó el cpm con el documento. “además, permite advertir que se trata de prácticas sistemáticas que dan cuenta de una política planificada para limitar el ejercicio del derecho a la expresión y la manifestación pública de determinados sectores, movimientos sociales, políticos y sindicales”, agregó. de igual manera, “los grupos particularmente vulnerables representados por las diferentes organizaciones de jubilados y jubiladas que se reúnen, en las inmediaciones del congreso de la nación, a fin de reclamar por sus derechos cercenados o suprimidos”, también se ven reprimidos. por otra parte, el informe destacó que existió un “incremento exponencial de los hechos de represión que ocurrieron en 5 de cada 10 movilizaciones en el primer semestre de 2025, contra 3 de cada 10 movilizaciones durante 2024”. este hecho “da cuenta de la decisión del gobierno nacional de profundizar el camino represivo por sobre el diálogo y la construcción democrática”. durante el 2024 hubo un total de 1.216 individuos heridos y violentados por el estado, mientras que en seis meses del 2025 se registró la cifra de 1.251, “es decir, 35 personas más” sin concluir el año.",
+    "tokens": [
+      "primer",
+      "semestre",
+      "2025",
+      "argentina",
+      "visto",
+      "marcado",
+      "represión",
+      ",",
+      "cifra",
+      "1.251",
+      "personas",
+      "heridas",
+      "detenidas",
+      "movilizaciones",
+      "buenos",
+      "aires",
+      "representa",
+      "número",
+      "mayor",
+      "año",
+      "pasado",
+      ",",
+      "según",
+      "informe",
+      "comisión",
+      "provincial",
+      "memoria",
+      "(",
+      "cpm",
+      ")",
+      ".",
+      "cpm",
+      "indagó",
+      "protestas",
+      "produjeron",
+      "javier",
+      "milei",
+      "presidente",
+      "argentina",
+      "elaboración",
+      "informe",
+      ".",
+      "documento",
+      "presentado",
+      "militantes",
+      "políticos",
+      ",",
+      "sindicales",
+      "derechos",
+      "humanos",
+      "anfiteatro",
+      "sede",
+      "asociación",
+      "trabajadores",
+      "(",
+      "ate",
+      ")",
+      "nacional",
+      ".",
+      "“",
+      "relevado",
+      "largo",
+      "18",
+      "meses",
+      "trabajo",
+      ",",
+      "monitoreo",
+      "movilizaciones",
+      "sociales",
+      ",",
+      "permite",
+      "dar",
+      "cuenta",
+      "profundización",
+      "proceso",
+      "represivo",
+      "intensificación",
+      "violencia",
+      "estatal",
+      "ejercida",
+      "manifestantes",
+      "parte",
+      "fuerzas",
+      "seguridad",
+      "federales",
+      "ciudad",
+      "buenos",
+      "aires",
+      "”",
+      ",",
+      "informó",
+      "cpm",
+      "documento",
+      ".",
+      "“",
+      "además",
+      ",",
+      "permite",
+      "advertir",
+      "trata",
+      "prácticas",
+      "sistemáticas",
+      "dan",
+      "cuenta",
+      "política",
+      "planificada",
+      "limitar",
+      "ejercicio",
+      "derecho",
+      "expresión",
+      "manifestación",
+      "pública",
+      "determinados",
+      "sectores",
+      ",",
+      "movimientos",
+      "sociales",
+      ",",
+      "políticos",
+      "sindicales",
+      "”",
+      ",",
+      "agregó",
+      ".",
+      "igual",
+      "manera",
+      ",",
+      "“",
+      "grupos",
+      "particularmente",
+      "vulnerables",
+      "representados",
+      "diferentes",
+      "organizaciones",
+      "jubilados",
+      "jubiladas",
+      "reúnen",
+      ",",
+      "inmediaciones",
+      "congreso",
+      "nación",
+      ",",
+      "fin",
+      "reclamar",
+      "derechos",
+      "cercenados",
+      "suprimidos",
+      "”",
+      ",",
+      "ven",
+      "reprimidos",
+      ".",
+      "parte",
+      ",",
+      "informe",
+      "destacó",
+      "existió",
+      "“",
+      "incremento",
+      "exponencial",
+      "hechos",
+      "represión",
+      "ocurrieron",
+      "5",
+      "cada",
+      "10",
+      "movilizaciones",
+      "primer",
+      "semestre",
+      "2025",
+      ",",
+      "3",
+      "cada",
+      "10",
+      "movilizaciones",
+      "2024",
+      "”",
+      ".",
+      "hecho",
+      "“",
+      "da",
+      "cuenta",
+      "decisión",
+      "gobierno",
+      "nacional",
+      "profundizar",
+      "camino",
+      "represivo",
+      "diálogo",
+      "construcción",
+      "democrática",
+      "”",
+      ".",
+      "2024",
+      "total",
+      "1.216",
+      "individuos",
+      "heridos",
+      "violentados",
+      ",",
+      "mientras",
+      "seis",
+      "meses",
+      "2025",
+      "registró",
+      "cifra",
+      "1.251",
+      ",",
+      "“",
+      "decir",
+      ",",
+      "35",
+      "personas",
+      "”",
+      "concluir",
+      "año",
+      "."
+    ],
+    "token_count": 217,
+    "sentence_count": 9
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 31,
+      "NN": 99,
+      "CD": 12,
+      "IN": 18,
+      "FW": 95,
+      "NNS": 20,
+      "JJ": 25,
+      "VBP": 11,
+      "VBZ": 3,
+      "VBD": 2,
+      "RB": 1,
+      "MD": 1,
+      "VB": 1
+    },
+    "bigram_freq": {
+      "NNP-NN": 10,
+      "NN-NN": 55,
+      "NN-CD": 3,
+      "CD-IN": 1,
+      "IN-NNP": 3,
+      "NNP-FW": 8,
+      "FW-NN": 14,
+      "NN-FW": 11,
+      "FW-FW": 60,
+      "FW-CD": 4,
+      "CD-NNS": 4,
+      "NNS-JJ": 2,
+      "JJ-NNS": 3,
+      "NNS-VBP": 11,
+      "VBP-JJ": 6,
+      "NNS-IN": 2,
+      "NNP-NNP": 8,
+      "NNP-VBZ": 2,
+      "VBZ-JJ": 2,
+      "JJ-JJ": 2,
+      "JJ-NN": 16,
+      "NN-IN": 14,
+      "IN-FW": 10,
+      "FW-JJ": 2,
+      "FW-NNP": 11,
+      "NN-NNP": 5,
+      "NN-NNS": 5,
+      "VBP-NNS": 3,
+      "NNS-FW": 4,
+      "FW-NNS": 4,
+      "JJ-FW": 1,
+      "NNP-JJ": 1,
+      "JJ-NNP": 2,
+      "NN-JJ": 3,
+      "NNS-NNS": 1,
+      "NN-VBZ": 1,
+      "VBZ-FW": 1,
+      "VBP-IN": 1,
+      "IN-JJ": 2,
+      "NN-VBD": 1,
+      "VBD-RB": 1,
+      "RB-JJ": 1,
+      "NNP-MD": 1,
+      "MD-VB": 1,
+      "VB-JJ": 1,
+      "IN-CD": 3,
+      "CD-NN": 4,
+      "JJ-CD": 1,
+      "CD-NNP": 1,
+      "NNP-VBD": 1,
+      "VBD-JJ": 1,
+      "CD-JJ": 2,
+      "VBP-CD": 1
+    },
+    "trigram_freq": {
+      "NNP-NN-NN": 8,
+      "NN-NN-NN": 33,
+      "NN-NN-CD": 1,
+      "NN-CD-IN": 1,
+      "CD-IN-NNP": 1,
+      "IN-NNP-FW": 1,
+      "NNP-FW-NN": 3,
+      "FW-NN-NN": 6,
+      "NN-NN-FW": 6,
+      "NN-FW-FW": 7,
+      "FW-FW-FW": 42,
+      "FW-FW-CD": 2,
+      "FW-CD-NNS": 4,
+      "CD-NNS-JJ": 2,
+      "NNS-JJ-NNS": 1,
+      "JJ-NNS-VBP": 1,
+      "NNS-VBP-JJ": 6,
+      "VBP-JJ-NNS": 1,
+      "JJ-NNS-IN": 1,
+      "NNS-IN-NNP": 1,
+      "IN-NNP-NNP": 1,
+      "NNP-NNP-VBZ": 2,
+      "NNP-VBZ-JJ": 1,
+      "VBZ-JJ-JJ": 1,
+      "JJ-JJ-NN": 2,
+      "JJ-NN-NN": 6,
+      "NN-NN-IN": 3,
+      "NN-IN-FW": 9,
+      "IN-FW-FW": 6,
+      "FW-FW-JJ": 2,
+      "FW-JJ-NN": 2,
+      "JJ-NN-IN": 8,
+      "IN-FW-NNP": 1,
+      "FW-NNP-NNP": 3,
+      "NNP-NNP-NN": 2,
+      "NN-NN-NNP": 4,
+      "NN-NNP-NNP": 2,
+      "NNP-NNP-NNP": 2,
+      "NN-NN-NNS": 3,
+      "NN-NNS-VBP": 5,
+      "VBP-JJ-NN": 4,
+      "NNP-NNP-FW": 1,
+      "FW-NN-IN": 2,
+      "NN-IN-NNP": 1,
+      "IN-NNP-NN": 1,
+      "FW-FW-NN": 7,
+      "FW-NN-NNP": 1,
+      "NN-NNP-NN": 3,
+      "NNS-VBP-NNS": 3,
+      "VBP-NNS-FW": 2,
+      "NNS-FW-FW": 2,
+      "FW-FW-NNS": 3,
+      "FW-NNS-VBP": 3,
+      "VBP-JJ-FW": 1,
+      "JJ-FW-FW": 1,
+      "FW-FW-NNP": 4,
+      "FW-NNP-FW": 6,
+      "NNP-FW-NNP": 3,
+      "NNP-NNP-JJ": 1,
+      "NNP-JJ-NNP": 1,
+      "JJ-NNP-NN": 1,
+      "NN-NN-JJ": 2,
+      "NN-JJ-NN": 2,
+      "IN-FW-CD": 2,
+      "CD-NNS-FW": 1,
+      "FW-NNS-NNS": 1,
+      "NNS-NNS-VBP": 1,
+      "FW-NN-FW": 4,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 1,
+      "NNP-VBZ-FW": 1,
+      "VBZ-FW-NNP": 1,
+      "FW-NNP-NN": 2,
+      "NN-FW-NN": 4,
+      "VBP-NNS-VBP": 1,
+      "NNS-FW-NNP": 2,
+      "JJ-NN-NNS": 1,
+      "NNS-VBP-IN": 1,
+      "VBP-IN-FW": 1,
+      "IN-FW-NNS": 1,
+      "NN-IN-JJ": 1,
+      "IN-JJ-NNS": 1,
+      "JJ-NNS-FW": 1,
+      "NNP-FW-FW": 2,
+      "NNP-NN-FW": 1,
+      "NN-NN-VBD": 1,
+      "NN-VBD-RB": 1,
+      "VBD-RB-JJ": 1,
+      "RB-JJ-NNP": 1,
+      "JJ-NNP-MD": 1,
+      "NNP-MD-VB": 1,
+      "MD-VB-JJ": 1,
+      "VB-JJ-NN": 1,
+      "NN-JJ-JJ": 1,
+      "CD-NNS-IN": 1,
+      "NNS-IN-JJ": 1,
+      "IN-JJ-NN": 1,
+      "NN-IN-CD": 3,
+      "IN-CD-NN": 1,
+      "CD-NN-IN": 1,
+      "NNS-JJ-CD": 1,
+      "JJ-CD-NNP": 1,
+      "CD-NNP-VBD": 1,
+      "NNP-VBD-JJ": 1,
+      "VBD-JJ-NN": 1,
+      "NNP-NN-CD": 1,
+      "NN-CD-NN": 2,
+      "CD-NN-JJ": 1,
+      "IN-CD-JJ": 2,
+      "CD-JJ-NN": 2,
+      "FW-NN-NNS": 1,
+      "NNS-VBP-CD": 1,
+      "VBP-CD-NN": 1,
+      "CD-NN-NN": 2,
+      "JJ-NN-CD": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 99,
+        "FW": 95,
+        "NNP": 31,
+        "JJ": 25,
+        "NNS": 20
+      },
+      "top_bigrams": {
+        "FW-FW": 60,
+        "NN-NN": 55,
+        "JJ-NN": 16,
+        "FW-NN": 14,
+        "NN-IN": 14
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 42,
+        "NN-NN-NN": 33,
+        "NN-IN-FW": 9,
+        "NNP-NN-NN": 8,
+        "JJ-NN-IN": 8
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 9,
+    "chunk_counts": {
+      "NP": 82,
+      "PP": 5,
+      "VP": 17,
+      "ADJP": 2
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 3,
+        "weight": 0.0261
+      },
+      {
+        "rule": "NP -> ('movilizaciones', 'NNS')",
+        "frequency": 3,
+        "weight": 0.0261
+      },
+      {
+        "rule": "NP -> ('personas', 'NNS')",
+        "frequency": 2,
+        "weight": 0.0174
+      },
+      {
+        "rule": "NP -> ('“', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0174
+      },
+      {
+        "rule": "S -> NP ('2025', 'CD') PP ('se', 'FW') NP (',', ',') ('la', 'FW') ('cifra', 'FW') ('de', 'FW') ('1.251', 'CD') NP NP VP ('en', 'FW') NP PP VP ('de', 'IN') ('todo', 'FW') ('el', 'FW') NP (',', ',') NP ('de', 'IN') ('la', 'FW') NP ('(', '(') NP (')', ')') ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0087
+      },
+      {
+        "rule": "NP -> ('El', 'NNP') ('primer', 'NN') ('semestre', 'NN') ('del', 'NN')",
+        "frequency": 1,
+        "weight": 0.0087
+      },
+      {
+        "rule": "NP -> ('Argentina', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0087
+      },
+      {
+        "rule": "NP -> ('ha', 'NN') ('visto', 'NN') ('marcado', 'NN') ('por', 'NN') ('la', 'NN') ('represión', 'NN')",
+        "frequency": 1,
+        "weight": 0.0087
+      },
+      {
+        "rule": "NP -> ('entre', 'JJ') ('heridas', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0087
+      },
+      {
+        "rule": "VP -> ('y', 'VBP') ('detenidas', 'JJ')",
+        "frequency": 1,
+        "weight": 0.0087
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El primer semestre del"
+      },
+      {
+        "label": "PP",
+        "text": "en Argentina"
+      },
+      {
+        "label": "NP",
+        "text": "Argentina"
+      },
+      {
+        "label": "NP",
+        "text": "ha visto marcado por la represión"
+      },
+      {
+        "label": "NP",
+        "text": "personas"
+      },
+      {
+        "label": "NP",
+        "text": "entre heridas"
+      },
+      {
+        "label": "VP",
+        "text": "y detenidas"
+      },
+      {
+        "label": "NP",
+        "text": "movilizaciones"
+      },
+      {
+        "label": "PP",
+        "text": "en Buenos Aires"
+      },
+      {
+        "label": "NP",
+        "text": "Buenos Aires"
+      },
+      {
+        "label": "VP",
+        "text": "representa un número mayor al"
+      },
+      {
+        "label": "NP",
+        "text": "un número mayor al"
+      },
+      {
+        "label": "NP",
+        "text": "año pasado"
+      },
+      {
+        "label": "NP",
+        "text": "según un informe"
+      },
+      {
+        "label": "NP",
+        "text": "Comisión Provincial por la Memoria"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP El/NNP primer/NN semestre/NN del/NN)\n  2025/CD\n  (PP en/IN (NP Argentina/NNP))\n  se/FW\n  (NP ha/NN visto/NN marcado/NN por/NN la/NN represión/NN)\n  ,/,\n  la/FW\n  cifra/FW\n  de/FW\n  1.251/CD\n  (NP personas/NNS)\n  (NP entre/JJ heridas/NNS)\n  (VP y/VBP detenidas/JJ)\n  en/FW\n  (NP movilizaciones/NNS)\n  (PP en/IN (NP Buenos/NNP Aires/NNP))\n  (VP representa/VBZ (NP un/JJ número/JJ mayor/NN al/NN))\n  de/IN\n  todo/FW\n  el/FW\n  (NP año/NN pasado/NN)\n  ,/,\n  (NP según/JJ un/JJ informe/NN)\n  de/IN\n  la/FW\n  (NP Comisión/NNP Provincial/NNP por/NN la/NN Memoria/NNP)\n  (/(\n  (NP CPM/NNP)\n  )/)\n  ./.)",
+      "(S\n  (NP La/NNP CPM/NNP indagó/NN sobre/NN las/NN protestas/NNS)\n  (VP\n    que/VBP\n    (NP se/JJ produjeron/NN desde/NN que/NN Javier/NNP Milei/NNP))\n  es/FW\n  (NP presidente/NN)\n  (PP de/IN (NP Argentina/NNP para/NN la/NN))\n  elaboración/FW\n  del/FW\n  (NP informe/NN)\n  ./.)",
+      "(S\n  (NP\n    El/NNP\n    documento/NN\n    fue/NN\n    presentado/NN\n    ante/NN\n    militantes/NNS)\n  (VP políticos/VBP)\n  ,/,\n  (NP sindicales/NNS)\n  (VP y/VBP)\n  de/IN\n  derechos/FW\n  (NP humanos/NNS)\n  (VP en/VBP el/JJ)\n  anfiteatro/FW\n  de/FW\n  la/FW\n  sede/FW\n  de/FW\n  la/FW\n  (NP Asociación/NNP)\n  de/FW\n  (NP Trabajadores/NNP)\n  del/FW\n  (NP Estado/NNP)\n  (/(\n  (NP ATE/NNP)\n  )/)\n  (NP nacional/NN)\n  ./.)",
+      "(S\n  (NP “/JJ Todo/NNP lo/NN)\n  (VP relevado/VBZ (NP a/DT lo/JJ largo/NN))\n  de/IN\n  estos/FW\n  18/CD\n  (NP meses/NNS)\n  de/FW\n  trabajo/FW\n  ,/,\n  de/FW\n  monitoreo/FW\n  sobre/FW\n  las/FW\n  (NP movilizaciones/NNS sociales/NNS)\n  ,/,\n  (NP permite/JJ dar/NN cuenta/NN)\n  de/IN\n  la/FW\n  profundización/FW\n  del/FW\n  proceso/FW\n  represivo/FW\n  y/FW\n  la/FW\n  intensificación/FW\n  de/FW\n  la/FW\n  violencia/FW\n  (NP estatal/JJ ejercida/NN sobre/NN los/NN)\n  (VP manifestantes/VBZ (NP por/JJ parte/NN))\n  de/IN\n  las/FW\n  fuerzas/FW\n  de/FW\n  seguridad/FW\n  (NP federales/NNS)\n  y/FW\n  de/FW\n  la/FW\n  (NP Ciudad/NNP)\n  de/FW\n  (NP Buenos/NNP Aires/NNP ”/NNP)\n  ,/,\n  (NP informó/NN el/NN CPM/NNP con/NN el/NN documento/NN)\n  ./.)",
+      "(S\n  (NP “/NN Además/NNP)\n  ,/,\n  (NP permite/JJ advertir/NN que/NN)\n  se/FW\n  (NP trata/NN)\n  de/FW\n  prácticas/FW\n  (NP sistemáticas/NN que/NN dan/NN cuenta/NN)\n  de/IN\n  una/FW\n  política/FW\n  planificada/FW\n  para/FW\n  limitar/FW\n  el/FW\n  ejercicio/FW\n  del/FW\n  derecho/FW\n  (NP a/DT la/NN)\n  expresión/FW\n  (NP y/NN)\n  la/FW\n  manifestación/FW\n  pública/FW\n  de/FW\n  determinados/FW\n  (NP sectores/NNS)\n  ,/,\n  (NP movimientos/NN sociales/NNS)\n  ,/,\n  (NP políticos/NN y/NN sindicales/NNS)\n  (VP ”/VBP)\n  ,/,\n  (NP agregó/NN)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "CIUDADES_CAPITALES",
+      "GOBIERNOS_OFICIALES",
+      "APROBACION_RECHAZO",
+      "TIEMPO_RELATIVO",
+      "CANTIDADES_NUMERICAS",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "REGIONES_PROVINCIAS",
+      "ORGANIZACIONES_SOCIALES",
+      "JUSTICIA_SOCIAL",
+      "PAISES",
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "POLITICAS_PUBLICAS"
+    ],
+    "matches": [
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "trabajo",
+        "position": [
+          645,
+          652
+        ],
+        "start": 645,
+        "end": 652
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "informó",
+        "position": [
+          923,
+          930
+        ],
+        "start": 923,
+        "end": 930
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente de argentina",
+        "position": [
+          362,
+          385
+        ],
+        "start": 362,
+        "end": 385
+      },
+      {
+        "category": "ORGANIZACIONES_SOCIALES",
+        "matched_text": "asociación de trabajadores",
+        "position": [
+          541,
+          567
+        ],
+        "start": 541,
+        "end": 567
+      },
+      {
+        "category": "APROBACION_RECHAZO",
+        "matched_text": "destacó",
+        "position": [
+          1533,
+          1540
+        ],
+        "start": 1533,
+        "end": 1540
+      },
+      {
+        "category": "POLITICAS_PUBLICAS",
+        "matched_text": "política planificada para limitar el ejercicio del derecho a la expresión y la manifestación pública",
+        "position": [
+          1043,
+          1143
+        ],
+        "start": 1043,
+        "end": 1143
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "argentina",
+        "position": [
+          31,
+          40
+        ],
+        "start": 31,
+        "end": 40
+      },
+      {
+        "category": "CIUDADES_CAPITALES",
+        "matched_text": "buenos aires",
+        "position": [
+          153,
+          165
+        ],
+        "start": 153,
+        "end": 165
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "estado (ate",
+        "position": [
+          572,
+          583
+        ],
+        "start": 572,
+        "end": 583
+      },
+      {
+        "category": "TIEMPO_RELATIVO",
+        "matched_text": "el año pasado",
+        "position": [
+          204,
+          217
+        ],
+        "start": 204,
+        "end": 217
+      },
+      {
+        "category": "JUSTICIA_SOCIAL",
+        "matched_text": "derechos humanos",
+        "position": [
+          490,
+          506
+        ],
+        "start": 490,
+        "end": 506
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "251 personas",
+        "position": [
+          93,
+          105
+        ],
+        "start": 93,
+        "end": 105
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "1.251 personas",
+        "position": [
+          91,
+          105
+        ],
+        "start": 91,
+        "end": 105
+      }
+    ],
+    "match_count": 13
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "ATE",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Ciudad de Buenos Aires",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Asociación de Trabajadores del Estado",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Argentina",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Buenos Aires",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Gobierno nacional de profundizar el camino",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Comisión Provincial por la Memoria",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Javier Milei",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Congreso de la Nación",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Argentina",
+        "relacion": "VER",
+        "objeto": "Buenos Aires"
+      },
+      {
+        "sujeto": "Argentina",
+        "relacion": "VER",
+        "objeto": "Comisión Provincial por la Memoria"
+      },
+      {
+        "sujeto": "Buenos Aires",
+        "relacion": "REPRESENTAR_VER",
+        "objeto": "Comisión Provincial por la Memoria"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.296,
+    "pos": 0.007,
+    "neu": 0.981,
+    "neg": 0.011,
+    "label": "negative"
+  }
+}

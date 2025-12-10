@@ -1,0 +1,824 @@
+{
+  "url": "https://www.telesurtv.net/insrael-intensifica-agresion-iran-ataques-universidades-prisiones/",
+  "title": "Israel intensifica agresión militar contra Irán con ataques a la radiodifusión estatal y prisiones - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Agresión",
+    "Irán",
+    "Israel",
+    "Objetivos civiles",
+    "prisión de Evin",
+    "Sionismo"
+  ],
+  "text": "\nEntre los objetivos atacados se encuentran la sede de la radiodifusión estatal iraní, IRIB, que fue bombardeada por segunda vez, así como instalaciones cercanas a la planta nuclear de Fordow, al norte de Qom. Testigos describieron grandes columnas de humo en las zonas afectadas.\nUn vídeo publicado por IRIB muestra los daños sufridos por la entrada de la prisión de Evin, en Teherán, tras un ataque israelí. Esta penitenciaría alberga a muchos presos políticos vinculados a Israel y al espionaje. Es probable que el ataque tuviera como objetivo derribar los muros de la instalación y facilitar una fuga de presos para avivar aún más los disturbios en Irán. Sin embargo, el intento fracasó y la situación está ahora totalmente bajo control.\nSegún fuentes israelíes, más de 100 bombas han sido lanzadas sobre Teherán en las últimas horas, afectando también bases militares en Karaj y Shahr-e Rey, así como una central eléctrica en la capital. Los cortes de electricidad fueron reportados tras el ataque a la central energética.\nPor su parte, Irán ha respondido con una serie de misiles balísticos dirigidos contra objetivos israelíes, incluyendo una central eléctrica en la ciudad sureña de Ashdod. El ataque causó la interrupción del suministro eléctrico en alrededor de 8.000 hogares, según informó el ministro de Energía israelí.\n\n\nEl ministro de Defensa israelí, Israel Katz, aseguró que continuarán con “toda la fuerza posible”. Sin embargo, el conflicto ya ha cobrado un alto costo en vidas humanas.\nSegún grupos de derechos humanos, más de 950 personas han muerto en Irán desde el inicio de los ataques israelíes, y al menos 3.450 han resultado heridas. Aunque las cifras oficiales del Ministerio de Salud de Irán son algo más bajas, con 430 muertos y más de 3,500 heridos, el impacto humanitario del conflicto es evidente.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/insrael-intensifica-agresion-iran-ataques-universidades-prisiones/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-06.json",
+    "message_index": 564,
+    "message_id": 97231,
+    "date": "2025-06-23T13:55:14+00:00",
+    "text": "teleSUR\nIsrael intensifica agresión militar contra Irán con ataques a universidades y prisiones\nhttps://www.telesurtv.net/insrael-intensifica-agresion-iran-ataques-universidades-prisiones/",
+    "photo_path": null,
+    "views": 3020,
+    "reactions": {
+      "🤬": 58,
+      "❤": 3,
+      "👍": 2,
+      "🥰": 1,
+      "💩": 1
+    },
+    "total_reactions": 65
+  },
+  "preprocessing": {
+    "cleaned": "entre los objetivos atacados se encuentran la sede de la radiodifusión estatal iraní, irib, que fue bombardeada por segunda vez, así como instalaciones cercanas a la planta nuclear de fordow, al norte de qom. testigos describieron grandes columnas de humo en las zonas afectadas. un vídeo publicado por irib muestra los daños sufridos por la entrada de la prisión de evin, en teherán, tras un ataque israelí. esta penitenciaría alberga a muchos presos políticos vinculados a israel y al espionaje. es probable que el ataque tuviera como objetivo derribar los muros de la instalación y facilitar una fuga de presos para avivar aún más los disturbios en irán. sin embargo, el intento fracasó y la situación está ahora totalmente bajo control. según fuentes israelíes, más de 100 bombas han sido lanzadas sobre teherán en las últimas horas, afectando también bases militares en karaj y shahr-e rey, así como una central eléctrica en la capital. los cortes de electricidad fueron reportados tras el ataque a la central energética. por su parte, irán ha respondido con una serie de misiles balísticos dirigidos contra objetivos israelíes, incluyendo una central eléctrica en la ciudad sureña de ashdod. el ataque causó la interrupción del suministro eléctrico en alrededor de 8.000 hogares, según informó el ministro de energía israelí. el ministro de defensa israelí, israel katz, aseguró que continuarán con “toda la fuerza posible”. sin embargo, el conflicto ya ha cobrado un alto costo en vidas humanas. según grupos de derechos humanos, más de 950 personas han muerto en irán desde el inicio de los ataques israelíes, y al menos 3.450 han resultado heridas. aunque las cifras oficiales del ministerio de salud de irán son algo más bajas, con 430 muertos y más de 3,500 heridos, el impacto humanitario del conflicto es evidente.",
+    "tokens": [
+      "objetivos",
+      "atacados",
+      "encuentran",
+      "sede",
+      "radiodifusión",
+      "estatal",
+      "iraní",
+      ",",
+      "irib",
+      ",",
+      "bombardeada",
+      "segunda",
+      "vez",
+      ",",
+      "así",
+      "instalaciones",
+      "cercanas",
+      "planta",
+      "nuclear",
+      "fordow",
+      ",",
+      "norte",
+      "qom",
+      ".",
+      "testigos",
+      "describieron",
+      "grandes",
+      "columnas",
+      "humo",
+      "zonas",
+      "afectadas",
+      ".",
+      "vídeo",
+      "publicado",
+      "irib",
+      "muestra",
+      "daños",
+      "sufridos",
+      "entrada",
+      "prisión",
+      "evin",
+      ",",
+      "teherán",
+      ",",
+      "tras",
+      "ataque",
+      "israelí",
+      ".",
+      "penitenciaría",
+      "alberga",
+      "presos",
+      "políticos",
+      "vinculados",
+      "israel",
+      "espionaje",
+      ".",
+      "probable",
+      "ataque",
+      "objetivo",
+      "derribar",
+      "muros",
+      "instalación",
+      "facilitar",
+      "fuga",
+      "presos",
+      "avivar",
+      "aún",
+      "disturbios",
+      "irán",
+      ".",
+      "embargo",
+      ",",
+      "intento",
+      "fracasó",
+      "situación",
+      "ahora",
+      "totalmente",
+      "bajo",
+      "control",
+      ".",
+      "según",
+      "fuentes",
+      "israelíes",
+      ",",
+      "100",
+      "bombas",
+      "sido",
+      "lanzadas",
+      "teherán",
+      "últimas",
+      "horas",
+      ",",
+      "afectando",
+      "bases",
+      "militares",
+      "karaj",
+      "shahr-e",
+      "rey",
+      ",",
+      "así",
+      "central",
+      "eléctrica",
+      "capital",
+      ".",
+      "cortes",
+      "electricidad",
+      "reportados",
+      "tras",
+      "ataque",
+      "central",
+      "energética",
+      ".",
+      "parte",
+      ",",
+      "irán",
+      "respondido",
+      "serie",
+      "misiles",
+      "balísticos",
+      "dirigidos",
+      "objetivos",
+      "israelíes",
+      ",",
+      "incluyendo",
+      "central",
+      "eléctrica",
+      "ciudad",
+      "sureña",
+      "ashdod",
+      ".",
+      "ataque",
+      "causó",
+      "interrupción",
+      "suministro",
+      "eléctrico",
+      "alrededor",
+      "8.000",
+      "hogares",
+      ",",
+      "según",
+      "informó",
+      "ministro",
+      "energía",
+      "israelí",
+      ".",
+      "ministro",
+      "defensa",
+      "israelí",
+      ",",
+      "israel",
+      "katz",
+      ",",
+      "aseguró",
+      "continuarán",
+      "“",
+      "toda",
+      "fuerza",
+      "posible",
+      "”",
+      ".",
+      "embargo",
+      ",",
+      "conflicto",
+      "cobrado",
+      "alto",
+      "costo",
+      "vidas",
+      "humanas",
+      ".",
+      "según",
+      "grupos",
+      "derechos",
+      "humanos",
+      ",",
+      "950",
+      "personas",
+      "muerto",
+      "irán",
+      "inicio",
+      "ataques",
+      "israelíes",
+      ",",
+      "menos",
+      "3.450",
+      "resultado",
+      "heridas",
+      ".",
+      "aunque",
+      "cifras",
+      "oficiales",
+      "ministerio",
+      "salud",
+      "irán",
+      "bajas",
+      ",",
+      "430",
+      "muertos",
+      "3,500",
+      "heridos",
+      ",",
+      "impacto",
+      "humanitario",
+      "conflicto",
+      "evidente",
+      "."
+    ],
+    "token_count": 205,
+    "sentence_count": 14
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 39,
+      "VBZ": 7,
+      "JJ": 36,
+      "NN": 105,
+      "VBD": 2,
+      "FW": 57,
+      "NNS": 14,
+      "VBP": 7,
+      "IN": 13,
+      "CD": 6,
+      "RBR": 1
+    },
+    "bigram_freq": {
+      "NNP-VBZ": 6,
+      "VBZ-JJ": 4,
+      "JJ-NN": 18,
+      "NN-NN": 62,
+      "NN-VBD": 1,
+      "VBD-JJ": 2,
+      "JJ-FW": 3,
+      "FW-FW": 34,
+      "FW-JJ": 2,
+      "NN-NNP": 11,
+      "NNP-NN": 14,
+      "NN-NNS": 3,
+      "NNS-VBP": 6,
+      "VBP-NN": 1,
+      "NN-JJ": 9,
+      "JJ-JJ": 9,
+      "FW-NNP": 10,
+      "NNP-FW": 5,
+      "NNP-NNP": 9,
+      "NNP-NNS": 1,
+      "VBP-IN": 1,
+      "IN-FW": 7,
+      "NNP-VBD": 1,
+      "NN-FW": 5,
+      "NN-IN": 11,
+      "IN-NNP": 3,
+      "NNP-VBP": 1,
+      "VBP-JJ": 4,
+      "JJ-NNP": 3,
+      "NNP-JJ": 1,
+      "FW-NN": 7,
+      "JJ-NNS": 3,
+      "VBP-NNP": 1,
+      "IN-CD": 3,
+      "CD-NNS": 4,
+      "NNS-JJ": 4,
+      "VBZ-FW": 2,
+      "NNS-VBZ": 1,
+      "VBZ-NN": 1,
+      "FW-NNS": 3,
+      "NNP-IN": 1,
+      "NN-RBR": 1,
+      "RBR-JJ": 1,
+      "NNS-NNP": 1,
+      "FW-CD": 1,
+      "NNS-CD": 1,
+      "CD-NN": 2,
+      "NNS-FW": 1,
+      "NN-CD": 1
+    },
+    "trigram_freq": {
+      "NNP-VBZ-JJ": 3,
+      "VBZ-JJ-NN": 2,
+      "JJ-NN-NN": 10,
+      "NN-NN-VBD": 1,
+      "NN-VBD-JJ": 1,
+      "VBD-JJ-FW": 1,
+      "JJ-FW-FW": 2,
+      "FW-FW-FW": 23,
+      "FW-FW-JJ": 1,
+      "FW-JJ-NN": 2,
+      "JJ-NN-NNP": 2,
+      "NN-NNP-NN": 4,
+      "NNP-NN-NN": 11,
+      "NN-NN-NN": 37,
+      "NN-NN-NNS": 2,
+      "NN-NNS-VBP": 2,
+      "NNS-VBP-NN": 1,
+      "VBP-NN-JJ": 1,
+      "NN-JJ-JJ": 3,
+      "JJ-JJ-FW": 2,
+      "JJ-FW-NNP": 1,
+      "FW-NNP-FW": 5,
+      "NNP-FW-FW": 1,
+      "FW-FW-NNP": 5,
+      "FW-NNP-NNP": 2,
+      "NNP-NNP-NNP": 2,
+      "NNP-NNP-NNS": 1,
+      "NNP-NNS-VBP": 1,
+      "NNS-VBP-IN": 1,
+      "VBP-IN-FW": 1,
+      "IN-FW-FW": 2,
+      "FW-NNP-NN": 3,
+      "NN-NN-NNP": 5,
+      "NN-NNP-NNP": 3,
+      "NNP-NNP-VBD": 1,
+      "NNP-VBD-JJ": 1,
+      "VBD-JJ-NN": 1,
+      "NN-NN-FW": 4,
+      "NN-FW-FW": 4,
+      "NNP-FW-NNP": 3,
+      "NNP-FW-JJ": 1,
+      "NN-NN-IN": 4,
+      "NN-IN-NNP": 2,
+      "IN-NNP-VBP": 1,
+      "NNP-VBP-JJ": 1,
+      "VBP-JJ-NNP": 1,
+      "JJ-NNP-JJ": 1,
+      "NNP-JJ-NN": 1,
+      "NN-NN-JJ": 6,
+      "NN-JJ-NN": 5,
+      "FW-FW-NN": 4,
+      "FW-NN-JJ": 1,
+      "JJ-NN-IN": 6,
+      "NN-IN-FW": 6,
+      "IN-FW-NN": 2,
+      "FW-NN-NN": 2,
+      "NN-JJ-NNS": 1,
+      "JJ-NNS-VBP": 1,
+      "NNS-VBP-NNP": 1,
+      "VBP-NNP-NNP": 1,
+      "NNP-NNP-NN": 3,
+      "FW-NN-NNP": 2,
+      "NN-NNP-VBZ": 4,
+      "NN-IN-CD": 3,
+      "IN-CD-NNS": 3,
+      "CD-NNS-JJ": 4,
+      "NNS-JJ-JJ": 3,
+      "JJ-JJ-NN": 6,
+      "NNP-VBZ-FW": 2,
+      "VBZ-FW-FW": 2,
+      "FW-NN-NNS": 1,
+      "NN-NNS-VBZ": 1,
+      "NNS-VBZ-JJ": 1,
+      "VBZ-JJ-NNP": 1,
+      "JJ-NNP-NNP": 1,
+      "NNP-NNP-VBZ": 1,
+      "NNP-VBZ-NN": 1,
+      "VBZ-NN-JJ": 1,
+      "NNS-VBP-JJ": 3,
+      "VBP-JJ-JJ": 2,
+      "JJ-JJ-JJ": 1,
+      "IN-FW-NNS": 3,
+      "FW-NNS-VBP": 2,
+      "NN-FW-NN": 1,
+      "FW-NN-IN": 1,
+      "NNP-NN-NNP": 2,
+      "NNP-NNP-IN": 1,
+      "NNP-IN-NNP": 1,
+      "IN-NNP-NN": 2,
+      "NN-NN-RBR": 1,
+      "NN-RBR-JJ": 1,
+      "RBR-JJ-NNP": 1,
+      "JJ-NNP-NN": 1,
+      "FW-NNS-NNP": 1,
+      "NNS-NNP-NN": 1,
+      "NNP-NN-FW": 1,
+      "FW-FW-CD": 1,
+      "FW-CD-NNS": 1,
+      "NNS-JJ-NN": 1,
+      "VBP-JJ-NNS": 1,
+      "JJ-NNS-CD": 1,
+      "NNS-CD-NN": 1,
+      "CD-NN-NN": 2,
+      "VBZ-JJ-NNS": 1,
+      "JJ-NNS-FW": 1,
+      "NNS-FW-NNP": 1,
+      "NN-NN-CD": 1,
+      "NN-CD-NN": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 105,
+        "FW": 57,
+        "NNP": 39,
+        "JJ": 36,
+        "NNS": 14
+      },
+      "top_bigrams": {
+        "NN-NN": 62,
+        "FW-FW": 34,
+        "JJ-NN": 18,
+        "NNP-NN": 14,
+        "NN-NNP": 11
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 37,
+        "FW-FW-FW": 23,
+        "NNP-NN-NN": 11,
+        "JJ-NN-NN": 10,
+        "NN-NN-JJ": 6
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 14,
+    "chunk_counts": {
+      "NP": 84,
+      "VP": 18,
+      "ADJP": 1,
+      "PP": 5
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 4,
+        "weight": 0.0328
+      },
+      {
+        "rule": "NP -> ('Irán', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0164
+      },
+      {
+        "rule": "NP -> ('Sin', 'NNP') ('embargo', 'NN')",
+        "frequency": 2,
+        "weight": 0.0164
+      },
+      {
+        "rule": "S -> NP VP VP ('sede', 'FW') ('de', 'FW') ('la', 'FW') ('radiodifusión', 'FW') NP (',', ',') NP (',', ',') NP (',', ',') NP VP ('de', 'FW') NP (',', ',') ADJP ('norte', 'FW') ('de', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0082
+      },
+      {
+        "rule": "NP -> ('Entre', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0082
+      },
+      {
+        "rule": "VP -> ('los', 'VBZ') NP",
+        "frequency": 1,
+        "weight": 0.0082
+      },
+      {
+        "rule": "NP -> ('objetivos', 'JJ') ('atacados', 'NN') ('se', 'NN')",
+        "frequency": 1,
+        "weight": 0.0082
+      },
+      {
+        "rule": "VP -> ('encuentran', 'VBD') ('la', 'JJ')",
+        "frequency": 1,
+        "weight": 0.0082
+      },
+      {
+        "rule": "NP -> ('estatal', 'JJ') ('iraní', 'NN')",
+        "frequency": 1,
+        "weight": 0.0082
+      },
+      {
+        "rule": "NP -> ('IRIB', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0082
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Entre"
+      },
+      {
+        "label": "VP",
+        "text": "los objetivos atacados se"
+      },
+      {
+        "label": "NP",
+        "text": "objetivos atacados se"
+      },
+      {
+        "label": "VP",
+        "text": "encuentran la"
+      },
+      {
+        "label": "NP",
+        "text": "estatal iraní"
+      },
+      {
+        "label": "NP",
+        "text": "IRIB"
+      },
+      {
+        "label": "NP",
+        "text": "que fue bombardeada por segunda vez"
+      },
+      {
+        "label": "NP",
+        "text": "así como instalaciones"
+      },
+      {
+        "label": "VP",
+        "text": "cercanas a la planta nuclear"
+      },
+      {
+        "label": "NP",
+        "text": "a la"
+      },
+      {
+        "label": "NP",
+        "text": "Fordow"
+      },
+      {
+        "label": "ADJP",
+        "text": "al"
+      },
+      {
+        "label": "NP",
+        "text": "Qom"
+      },
+      {
+        "label": "NP",
+        "text": "Testigos describieron grandes"
+      },
+      {
+        "label": "VP",
+        "text": "columnas"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Entre/NNP)\n  (VP los/VBZ (NP objetivos/JJ atacados/NN se/NN))\n  (VP encuentran/VBD la/JJ)\n  sede/FW\n  de/FW\n  la/FW\n  radiodifusión/FW\n  (NP estatal/JJ iraní/NN)\n  ,/,\n  (NP IRIB/NNP)\n  ,/,\n  (NP que/NN fue/NN bombardeada/NN por/NN segunda/NN vez/NN)\n  ,/,\n  (NP así/JJ como/NN instalaciones/NNS)\n  (VP cercanas/VBP (NP a/DT la/NN) planta/JJ nuclear/JJ)\n  de/FW\n  (NP Fordow/NNP)\n  ,/,\n  (ADJP al/JJ)\n  norte/FW\n  de/FW\n  (NP Qom/NNP)\n  ./.)",
+      "(S\n  (NP Testigos/NNP describieron/NN grandes/NNS)\n  (VP columnas/VBP)\n  de/IN\n  humo/FW\n  en/FW\n  las/FW\n  zonas/FW\n  (NP afectadas/NNS)\n  ./.)",
+      "(S\n  (NP Un/NNP vídeo/NN publicado/NN por/NN IRIB/NNP muestra/NNP)\n  (VP los/VBD (NP daños/JJ sufridos/NN por/NN))\n  la/FW\n  entrada/FW\n  de/FW\n  la/FW\n  prisión/FW\n  de/FW\n  (NP Evin/NNP)\n  ,/,\n  en/FW\n  (NP Teherán/NNP)\n  ,/,\n  (VP tras/VBZ (NP un/JJ ataque/NN israelí/NN))\n  ./.)",
+      "(S\n  (NP Esta/NNP penitenciaría/NN)\n  (VP alberga/VBZ (NP a/DT muchos/NN presos/NN políticos/NN))\n  (VP vinculados/VBZ (NP a/DT Israel/NNP y/NNP al/NN espionaje/NN))\n  ./.)",
+      "(S\n  (NP Es/NNP)\n  (NP probable/JJ que/NN el/NN ataque/NN tuviera/NN como/NN)\n  (NP objetivo/JJ derribar/NN los/NN)\n  muros/FW\n  de/FW\n  la/FW\n  instalación/FW\n  y/FW\n  (NP facilitar/NN)\n  (NP una/JJ fuga/NN)\n  de/IN\n  presos/FW\n  (NP para/NN avivar/NN aún/NN más/NN)\n  (NP los/JJ disturbios/NNS)\n  (PP en/IN (NP Irán/NNP))\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "GOBIERNOS_OFICIALES",
+      "CANTIDADES_NUMERICAS",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "ANTIIMPERIALISMO_SOBERANIA",
+      "JUSTICIA_SOCIAL",
+      "PAISES",
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "CONFLICTOS_ARMADOS_OPERACIONES",
+      "INFRAESTRUCTURA_SERVICIOS",
+      "JURIDICO_LEGISLATIVO_CORRUPCION"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "conflicto ya ha cobrado un alto costo en vidas",
+        "position": [
+          1450,
+          1496
+        ],
+        "start": 1450,
+        "end": 1496
+      },
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "ataques israelíes",
+        "position": [
+          1602,
+          1619
+        ],
+        "start": 1602,
+        "end": 1619
+      },
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "capital",
+        "position": [
+          934,
+          941
+        ],
+        "start": 934,
+        "end": 941
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "resultado heridas. aunque las cifras oficiales",
+        "position": [
+          1642,
+          1688
+        ],
+        "start": 1642,
+        "end": 1688
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "informó",
+        "position": [
+          1293,
+          1300
+        ],
+        "start": 1293,
+        "end": 1300
+      },
+      {
+        "category": "JURIDICO_LEGISLATIVO_CORRUPCION",
+        "matched_text": "defensa",
+        "position": [
+          1350,
+          1357
+        ],
+        "start": 1350,
+        "end": 1357
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "ministro de energía israelí",
+        "position": [
+          1304,
+          1331
+        ],
+        "start": 1304,
+        "end": 1331
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "electricidad",
+        "position": [
+          957,
+          969
+        ],
+        "start": 957,
+        "end": 969
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "israelí",
+        "position": [
+          401,
+          408
+        ],
+        "start": 401,
+        "end": 408
+      },
+      {
+        "category": "ANTIIMPERIALISMO_SOBERANIA",
+        "matched_text": "embargo",
+        "position": [
+          663,
+          670
+        ],
+        "start": 663,
+        "end": 670
+      },
+      {
+        "category": "JUSTICIA_SOCIAL",
+        "matched_text": "derechos humanos",
+        "position": [
+          1522,
+          1538
+        ],
+        "start": 1522,
+        "end": 1538
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "950 personas",
+        "position": [
+          1547,
+          1559
+        ],
+        "start": 1547,
+        "end": 1559
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "más de 100",
+        "position": [
+          767,
+          777
+        ],
+        "start": 767,
+        "end": 777
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "alrededor de 8.000",
+        "position": [
+          1259,
+          1277
+        ],
+        "start": 1259,
+        "end": 1277
+      }
+    ],
+    "match_count": 14
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Irán",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Israel Katz",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Qom",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Testigos",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Fordow",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Shahr-e Rey",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Energía israelí",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Ashdod",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Evin",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Israel",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Teherán",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "IRIB",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Karaj",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Ministerio de Salud de Irán",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "IRIB",
+        "relacion": "MOSTRAR",
+        "objeto": "Evin"
+      },
+      {
+        "sujeto": "IRIB",
+        "relacion": "MOSTRAR",
+        "objeto": "Teherán"
+      },
+      {
+        "sujeto": "Teherán",
+        "relacion": "LANZAR",
+        "objeto": "Karaj"
+      },
+      {
+        "sujeto": "Teherán",
+        "relacion": "LANZAR",
+        "objeto": "Shahr-e Rey"
+      },
+      {
+        "sujeto": "Irán",
+        "relacion": "RESPONDER",
+        "objeto": "Ashdod"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.5267,
+    "pos": 0.016,
+    "neu": 0.959,
+    "neg": 0.024,
+    "label": "negative"
+  }
+}

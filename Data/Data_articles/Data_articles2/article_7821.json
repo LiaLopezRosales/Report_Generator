@@ -1,0 +1,650 @@
+{
+  "url": "https://www.telesurtv.net/inundaciones-repentinas-y-deslaves-de-tierra-dejan-15-muertos-en-uganda/",
+  "title": "Inundaciones repentinas y deslaves de tierra dejan 15 muertos en Uganda - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Inundaciones repentinas y deslaves de tierra",
+    "Uganda"
+  ],
+  "text": "Autoridades de Uganda informaron que al menos 15 personas murieron y más de 100 desaparecieron a causa de los deslizamientos de tierra por la intensa lluvia en el distrito montañoso de Bulambuli, a 280 kilómetros al este de Kampala, la capital de la nación africana.\n“Las fuerzas de seguridad y los rescatistas locales en el este de Uganda están buscando al menos a 113 personas después de que inundaciones repentinas y deslaves devastaran cinco aldeas en el distrito de Balambuli, matando al menos a 15 lugareños”, publicaron medios locales.\nEl desastre afectó a varias localidades, entre ellas Masugu, Namachele, Natola, Nmagugu y Tagalu, situadas en la misma región, cerca de la frontera con Kenia.\nDebido al mal estado de las carreteras, los socorristas tienen dificultades para encontrar a los desaparecidos. Las autoridades consideran que la mayoría de las víctimas pueden ser niños.\nLa Sociedad de la Cruz Roja de Uganda informó que se habían recuperado 13 cuerpos tras los deslizamientos de tierra, y que continúan los esfuerzos de rescate. Según reportes de los medios locales, las autoridades estiman que el número de víctimas fatales podría alcanzar los 30 muertos.\nLos damnificados solicitaron al Gobierno que preste ayuda necesaria y responda con agilidad al desastre natural.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/inundaciones-repentinas-y-deslaves-de-tierra-dejan-15-muertos-en-uganda/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-11.json",
+    "message_index": 99,
+    "message_id": 81391,
+    "date": "2024-11-29T02:55:22+00:00",
+    "text": "teleSUR\nInundaciones repentinas y deslaves de tierra dejan 15 muertos en Uganda\nhttps://www.telesurtv.net/inundaciones-repentinas-y-deslaves-de-tierra-dejan-15-muertos-en-uganda/",
+    "photo_path": null,
+    "views": 2140,
+    "reactions": {
+      "😢": 22,
+      "🙏": 16,
+      "😱": 6
+    },
+    "total_reactions": 44
+  },
+  "preprocessing": {
+    "cleaned": "autoridades de uganda informaron que al menos 15 personas murieron y más de 100 desaparecieron a causa de los deslizamientos de tierra por la intensa lluvia en el distrito montañoso de bulambuli, a 280 kilómetros al este de kampala, la capital de la nación africana. “las fuerzas de seguridad y los rescatistas locales en el este de uganda están buscando al menos a 113 personas después de que inundaciones repentinas y deslaves devastaran cinco aldeas en el distrito de balambuli, matando al menos a 15 lugareños”, publicaron medios locales. el desastre afectó a varias localidades, entre ellas masugu, namachele, natola, nmagugu y tagalu, situadas en la misma región, cerca de la frontera con kenia. debido al mal estado de las carreteras, los socorristas tienen dificultades para encontrar a los desaparecidos. las autoridades consideran que la mayoría de las víctimas pueden ser niños. la sociedad de la cruz roja de uganda informó que se habían recuperado 13 cuerpos tras los deslizamientos de tierra, y que continúan los esfuerzos de rescate. según reportes de los medios locales, las autoridades estiman que el número de víctimas fatales podría alcanzar los 30 muertos. los damnificados solicitaron al gobierno que preste ayuda necesaria y responda con agilidad al desastre natural.",
+    "tokens": [
+      "autoridades",
+      "uganda",
+      "informaron",
+      "menos",
+      "15",
+      "personas",
+      "murieron",
+      "100",
+      "desaparecieron",
+      "causa",
+      "deslizamientos",
+      "tierra",
+      "intensa",
+      "lluvia",
+      "distrito",
+      "montañoso",
+      "bulambuli",
+      ",",
+      "280",
+      "kilómetros",
+      "kampala",
+      ",",
+      "capital",
+      "nación",
+      "africana",
+      ".",
+      "“",
+      "fuerzas",
+      "seguridad",
+      "rescatistas",
+      "locales",
+      "uganda",
+      "buscando",
+      "menos",
+      "113",
+      "personas",
+      "después",
+      "inundaciones",
+      "repentinas",
+      "deslaves",
+      "devastaran",
+      "cinco",
+      "aldeas",
+      "distrito",
+      "balambuli",
+      ",",
+      "matando",
+      "menos",
+      "15",
+      "lugareños",
+      "”",
+      ",",
+      "publicaron",
+      "medios",
+      "locales",
+      ".",
+      "desastre",
+      "afectó",
+      "varias",
+      "localidades",
+      ",",
+      "masugu",
+      ",",
+      "namachele",
+      ",",
+      "natola",
+      ",",
+      "nmagugu",
+      "tagalu",
+      ",",
+      "situadas",
+      "misma",
+      "región",
+      ",",
+      "cerca",
+      "frontera",
+      "kenia",
+      ".",
+      "debido",
+      "mal",
+      "carreteras",
+      ",",
+      "socorristas",
+      "dificultades",
+      "encontrar",
+      "desaparecidos",
+      ".",
+      "autoridades",
+      "consideran",
+      "mayoría",
+      "víctimas",
+      "pueden",
+      "ser",
+      "niños",
+      ".",
+      "sociedad",
+      "cruz",
+      "roja",
+      "uganda",
+      "informó",
+      "recuperado",
+      "13",
+      "cuerpos",
+      "tras",
+      "deslizamientos",
+      "tierra",
+      ",",
+      "continúan",
+      "esfuerzos",
+      "rescate",
+      ".",
+      "según",
+      "reportes",
+      "medios",
+      "locales",
+      ",",
+      "autoridades",
+      "estiman",
+      "número",
+      "víctimas",
+      "fatales",
+      "podría",
+      "alcanzar",
+      "30",
+      "muertos",
+      ".",
+      "damnificados",
+      "solicitaron",
+      "gobierno",
+      "preste",
+      "ayuda",
+      "necesaria",
+      "responda",
+      "agilidad",
+      "desastre",
+      "natural",
+      "."
+    ],
+    "token_count": 137,
+    "sentence_count": 8
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 25,
+      "FW": 43,
+      "NN": 51,
+      "VBD": 5,
+      "$": 1,
+      "CD": 7,
+      "IN": 13,
+      "NNS": 17,
+      "JJ": 16,
+      "VBP": 8,
+      "VBZ": 7
+    },
+    "bigram_freq": {
+      "NNP-FW": 4,
+      "FW-NNP": 4,
+      "NNP-NN": 6,
+      "NN-NN": 21,
+      "NN-VBD": 3,
+      "VBD-$": 1,
+      "$-CD": 1,
+      "CD-NN": 4,
+      "NN-IN": 9,
+      "IN-CD": 1,
+      "IN-FW": 6,
+      "FW-FW": 28,
+      "NNP-CD": 1,
+      "CD-NNS": 2,
+      "NNS-JJ": 1,
+      "JJ-NN": 12,
+      "IN-NNP": 4,
+      "NNP-NNP": 8,
+      "FW-NNS": 5,
+      "NNS-NNS": 1,
+      "NNS-VBP": 8,
+      "VBP-JJ": 6,
+      "FW-NN": 6,
+      "VBD-CD": 2,
+      "NNS-FW": 1,
+      "VBP-NNS": 1,
+      "NNS-VBD": 1,
+      "VBD-JJ": 2,
+      "JJ-NNS": 2,
+      "NN-NNS": 5,
+      "NNS-CD": 1,
+      "CD-JJ": 1,
+      "NNS-VBZ": 2,
+      "VBZ-NNP": 1,
+      "NN-VBZ": 2,
+      "VBZ-JJ": 4,
+      "NNS-NNP": 1,
+      "NNP-VBD": 1,
+      "NN-FW": 3,
+      "NN-NNP": 6,
+      "NNP-VBZ": 3,
+      "JJ-FW": 1,
+      "NNP-IN": 2,
+      "VBP-NN": 1,
+      "NN-JJ": 1,
+      "IN-NN": 1,
+      "VBZ-IN": 1,
+      "VBZ-NNS": 1,
+      "NNS-IN": 1,
+      "IN-JJ": 1,
+      "NN-CD": 1
+    },
+    "trigram_freq": {
+      "NNP-FW-NNP": 1,
+      "FW-NNP-NN": 1,
+      "NNP-NN-NN": 5,
+      "NN-NN-VBD": 3,
+      "NN-VBD-$": 1,
+      "VBD-$-CD": 1,
+      "$-CD-NN": 1,
+      "CD-NN-NN": 2,
+      "NN-NN-NN": 7,
+      "NN-NN-IN": 4,
+      "NN-IN-CD": 1,
+      "IN-CD-NN": 1,
+      "NN-IN-FW": 4,
+      "IN-FW-FW": 3,
+      "FW-FW-FW": 20,
+      "FW-FW-NNP": 2,
+      "FW-NNP-CD": 1,
+      "NNP-CD-NNS": 1,
+      "CD-NNS-JJ": 1,
+      "NNS-JJ-NN": 1,
+      "JJ-NN-IN": 4,
+      "NN-IN-NNP": 3,
+      "IN-NNP-NNP": 1,
+      "NNP-NNP-NN": 1,
+      "NNP-NN-IN": 1,
+      "FW-NNP-FW": 1,
+      "NNP-FW-FW": 1,
+      "FW-FW-NNS": 3,
+      "FW-NNS-NNS": 1,
+      "NNS-NNS-VBP": 1,
+      "NNS-VBP-JJ": 6,
+      "VBP-JJ-NN": 6,
+      "IN-NNP-FW": 2,
+      "NNP-FW-NN": 2,
+      "FW-NN-NN": 4,
+      "NN-VBD-CD": 2,
+      "VBD-CD-NNS": 1,
+      "CD-NNS-FW": 1,
+      "NNS-FW-FW": 1,
+      "FW-NNS-VBP": 3,
+      "NNS-VBP-NNS": 1,
+      "VBP-NNS-VBD": 1,
+      "NNS-VBD-JJ": 1,
+      "VBD-JJ-NNS": 1,
+      "JJ-NNS-VBP": 1,
+      "FW-NN-NNS": 1,
+      "NN-NNS-CD": 1,
+      "NNS-CD-JJ": 1,
+      "CD-JJ-NN": 1,
+      "JJ-NN-NNS": 2,
+      "NN-NNS-VBZ": 1,
+      "NNS-VBZ-NNP": 1,
+      "VBZ-NNP-NN": 1,
+      "NN-NN-VBZ": 2,
+      "NN-VBZ-JJ": 2,
+      "VBZ-JJ-NNS": 1,
+      "JJ-NNS-NNP": 1,
+      "NNS-NNP-NNP": 1,
+      "NNP-NNP-NNP": 3,
+      "NNP-NNP-VBD": 1,
+      "NNP-VBD-JJ": 1,
+      "VBD-JJ-NN": 1,
+      "JJ-NN-FW": 2,
+      "NN-FW-NN": 1,
+      "FW-FW-NN": 3,
+      "FW-NN-NNP": 1,
+      "NN-NNP-NNP": 2,
+      "NNP-NNP-VBZ": 1,
+      "NNP-VBZ-JJ": 2,
+      "VBZ-JJ-FW": 1,
+      "JJ-FW-FW": 1,
+      "NN-NNS-VBP": 3,
+      "JJ-NN-NN": 3,
+      "NN-NN-NNP": 3,
+      "NN-NNP-VBZ": 2,
+      "VBZ-JJ-NN": 1,
+      "NN-FW-FW": 2,
+      "NNP-NNP-IN": 2,
+      "NNP-IN-FW": 1,
+      "IN-FW-NNP": 1,
+      "FW-NNP-NNP": 1,
+      "NNP-IN-NNP": 1,
+      "IN-NNP-NN": 1,
+      "VBD-CD-NN": 1,
+      "CD-NN-NNS": 1,
+      "NNS-VBP-NN": 1,
+      "VBP-NN-FW": 1,
+      "NN-NN-JJ": 1,
+      "NN-JJ-NN": 1,
+      "NN-IN-NN": 1,
+      "IN-NN-NNP": 1,
+      "NNP-VBZ-IN": 1,
+      "VBZ-IN-FW": 1,
+      "IN-FW-NNS": 2,
+      "FW-NNS-VBZ": 1,
+      "NNS-VBZ-NNS": 1,
+      "VBZ-NNS-IN": 1,
+      "NNS-IN-JJ": 1,
+      "IN-JJ-NN": 1,
+      "JJ-NN-CD": 1,
+      "NN-CD-NN": 1,
+      "CD-NN-NNP": 1,
+      "NN-NNP-NN": 2,
+      "NN-NN-NNS": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 51,
+        "FW": 43,
+        "NNP": 25,
+        "NNS": 17,
+        "JJ": 16
+      },
+      "top_bigrams": {
+        "FW-FW": 28,
+        "NN-NN": 21,
+        "JJ-NN": 12,
+        "NN-IN": 9,
+        "NNP-NNP": 8
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 20,
+        "NN-NN-NN": 7,
+        "NNS-VBP-JJ": 6,
+        "VBP-JJ-NN": 6,
+        "NNP-NN-NN": 5
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 8,
+    "chunk_counts": {
+      "NP": 60,
+      "VP": 19,
+      "PP": 6
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 5,
+        "weight": 0.0538
+      },
+      {
+        "rule": "VP -> ('en', 'VBP') NP",
+        "frequency": 2,
+        "weight": 0.0215
+      },
+      {
+        "rule": "VP -> ('menos', 'VBD')",
+        "frequency": 2,
+        "weight": 0.0215
+      },
+      {
+        "rule": "S -> NP ('de', 'FW') NP VP ('menos', '$') ('15', 'CD') NP ('de', 'IN') ('100', 'CD') NP NP ('de', 'IN') ('los', 'FW') ('deslizamientos', 'FW') ('de', 'FW') ('tierra', 'FW') ('por', 'FW') ('la', 'FW') ('intensa', 'FW') ('lluvia', 'FW') ('en', 'FW') ('el', 'FW') ('distrito', 'FW') ('montañoso', 'FW') ('de', 'FW') NP (',', ',') ('a', 'DT') ('280', 'CD') NP NP PP (',', ',') NP ('de', 'IN') ('la', 'FW') ('nación', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0108
+      },
+      {
+        "rule": "NP -> ('Autoridades', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0108
+      },
+      {
+        "rule": "NP -> ('Uganda', 'NNP') ('informaron', 'NN') ('que', 'NN')",
+        "frequency": 1,
+        "weight": 0.0108
+      },
+      {
+        "rule": "VP -> ('al', 'VBD')",
+        "frequency": 1,
+        "weight": 0.0108
+      },
+      {
+        "rule": "NP -> ('personas', 'NN') ('murieron', 'NN') ('y', 'NN') ('más', 'NN')",
+        "frequency": 1,
+        "weight": 0.0108
+      },
+      {
+        "rule": "NP -> ('desaparecieron', 'NN')",
+        "frequency": 1,
+        "weight": 0.0108
+      },
+      {
+        "rule": "NP -> ('a', 'DT') ('causa', 'NN')",
+        "frequency": 1,
+        "weight": 0.0108
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Autoridades"
+      },
+      {
+        "label": "NP",
+        "text": "Uganda informaron que"
+      },
+      {
+        "label": "VP",
+        "text": "al"
+      },
+      {
+        "label": "NP",
+        "text": "personas murieron y más"
+      },
+      {
+        "label": "NP",
+        "text": "desaparecieron"
+      },
+      {
+        "label": "NP",
+        "text": "a causa"
+      },
+      {
+        "label": "NP",
+        "text": "Bulambuli"
+      },
+      {
+        "label": "NP",
+        "text": "kilómetros"
+      },
+      {
+        "label": "NP",
+        "text": "al este"
+      },
+      {
+        "label": "PP",
+        "text": "de Kampala"
+      },
+      {
+        "label": "NP",
+        "text": "Kampala"
+      },
+      {
+        "label": "NP",
+        "text": "la capital"
+      },
+      {
+        "label": "NP",
+        "text": "africana"
+      },
+      {
+        "label": "NP",
+        "text": "“ Las fuerzas"
+      },
+      {
+        "label": "NP",
+        "text": "rescatistas locales"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Autoridades/NNP)\n  de/FW\n  (NP Uganda/NNP informaron/NN que/NN)\n  (VP al/VBD)\n  menos/$\n  15/CD\n  (NP personas/NN murieron/NN y/NN más/NN)\n  de/IN\n  100/CD\n  (NP desaparecieron/NN)\n  (NP a/DT causa/NN)\n  de/IN\n  los/FW\n  deslizamientos/FW\n  de/FW\n  tierra/FW\n  por/FW\n  la/FW\n  intensa/FW\n  lluvia/FW\n  en/FW\n  el/FW\n  distrito/FW\n  montañoso/FW\n  de/FW\n  (NP Bulambuli/NNP)\n  ,/,\n  a/DT\n  280/CD\n  (NP kilómetros/NNS)\n  (NP al/JJ este/NN)\n  (PP de/IN (NP Kampala/NNP))\n  ,/,\n  (NP la/JJ capital/NN)\n  de/IN\n  la/FW\n  nación/FW\n  (NP africana/NN)\n  ./.)",
+      "(S\n  (NP “/JJ Las/NNP fuerzas/NN)\n  de/FW\n  seguridad/FW\n  y/FW\n  los/FW\n  (NP rescatistas/NNS locales/NNS)\n  (VP en/VBP (NP el/JJ este/NN))\n  (PP de/IN (NP Uganda/NNP))\n  están/FW\n  (NP buscando/NN al/NN)\n  (VP menos/VBD)\n  a/DT\n  113/CD\n  (NP personas/JJ después/NN)\n  de/IN\n  que/FW\n  (NP inundaciones/NNS)\n  (VP repentinas/VBP (NP y/JJ deslaves/NNS))\n  (VP devastaran/VBD (NP cinco/JJ aldeas/NNS))\n  (VP en/VBP (NP el/JJ distrito/NN))\n  (PP de/IN (NP Balambuli/NNP))\n  ,/,\n  (NP matando/NN al/NN)\n  (VP menos/VBD)\n  a/DT\n  15/CD\n  (NP lugareños/NN ”/NN)\n  ,/,\n  (NP publicaron/NN medios/NNS locales/NNS)\n  ./.)",
+      "(S\n  (NP El/NNP)\n  (VP desastre/VBZ)\n  afectó/RP\n  (NP a/DT varias/NN)\n  (VP localidades/VBZ)\n  ,/,\n  entre/FW\n  ellas/FW\n  (NP Masugu/NNP)\n  ,/,\n  (NP Namachele/NNP)\n  ,/,\n  (NP Natola/NNP)\n  ,/,\n  (NP Nmagugu/NNP y/NNP Tagalu/NNP)\n  ,/,\n  (VP situadas/VBD (NP en/JJ la/NN misma/NN región/NN))\n  ,/,\n  (NP cerca/NN)\n  de/FW\n  la/FW\n  frontera/FW\n  (NP con/NN Kenia/NNP)\n  ./.)",
+      "(S\n  (NP Debido/NNP)\n  (VP al/VBZ mal/JJ)\n  estado/FW\n  de/FW\n  las/FW\n  (NP carreteras/NNS)\n  ,/,\n  (NP los/JJ socorristas/JJ tienen/NN dificultades/NNS)\n  (VP para/VBP)\n  (VP encontrar/VB (NP a/DT los/JJ desaparecidos/NN))\n  ./.)",
+      "(S\n  (NP Las/NNP)\n  (VP autoridades/VBZ (NP consideran/JJ que/NN))\n  la/FW\n  mayoría/FW\n  de/FW\n  las/FW\n  víctimas/FW\n  pueden/FW\n  (NP ser/NN niños/NN)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "DESASTRES_ACCIDENTES_EMERGENCIAS",
+      "CANTIDADES_NUMERICAS",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "REGIONES_PROVINCIAS",
+      "ECONOMIA_COMERCIO_FINANZAS"
+    ],
+    "matches": [
+      {
+        "category": "DESASTRES_ACCIDENTES_EMERGENCIAS",
+        "matched_text": "deslizamientos de tierra",
+        "position": [
+          110,
+          134
+        ],
+        "start": 110,
+        "end": 134
+      },
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "capital",
+        "position": [
+          236,
+          243
+        ],
+        "start": 236,
+        "end": 243
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "informó",
+        "position": [
+          928,
+          935
+        ],
+        "start": 928,
+        "end": 935
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "región, cerca",
+        "position": [
+          662,
+          675
+        ],
+        "start": 662,
+        "end": 675
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "15 personas",
+        "position": [
+          46,
+          57
+        ],
+        "start": 46,
+        "end": 57
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "113 personas",
+        "position": [
+          366,
+          378
+        ],
+        "start": 366,
+        "end": 378
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "más de 100",
+        "position": [
+          69,
+          79
+        ],
+        "start": 69,
+        "end": 79
+      }
+    ],
+    "match_count": 7
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Balambuli",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Kampala",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Namachele",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Tagalu",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Kenia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "La Sociedad de la Cruz Roja",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Natola",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Nmagugu",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Gobierno",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Bulambuli",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Uganda",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Uganda",
+        "relacion": "INFORMAR",
+        "objeto": "Bulambuli"
+      },
+      {
+        "sujeto": "Uganda",
+        "relacion": "INFORMAR",
+        "objeto": "Kampala"
+      },
+      {
+        "sujeto": "Uganda",
+        "relacion": "BUSCAR_PUBLICAR",
+        "objeto": "Balambuli"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.3612,
+    "pos": 0.013,
+    "neu": 0.987,
+    "neg": 0.0,
+    "label": "positive"
+  }
+}

@@ -1,0 +1,678 @@
+{
+  "url": "https://www.telesurtv.net/brasil-dona-republic-dominicana-vacuna-tuberc/",
+  "title": "Brasil donó a República Dominicana 192 mil dosis de vacuna BCG para combatir la tuberculosis - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "Brasil",
+    "donacion",
+    "República Dominicana",
+    "vacunas"
+  ],
+  "text": "República Dominicana (RD) recibió una vital donación de 192 mil dosis de la vacuna BCG por parte del Gobierno de Brasil, destinada a combatir las formas más graves de tuberculosis en la primera infancia. Así lo informó el Ministerio de Relaciones Exteriores (MIREX) dominicano.\nEn una nota, la Cancillería expresó su profundo agradecimiento a Brasil, destacando que esta entrega no solo es un acto de amistad y respeto mutuo, sino también la expresión del “compromiso compartido con la salud pública y el bienestar de la niñez”.\n\nEl lote, entregado por el embajador brasileño en RD, Carlos Pérez, fortalece la voluntad de la República Dominicana de impulsar iniciativas conjuntas que favorezcan el desarrollo sostenible y el mejoramiento de su sistema de salud.\nEl Ministerio de Salud dominicano reiteró su compromiso con el avance en la lucha para eliminar la tuberculosis, especialmente en los grupos poblacionales más vulnerables.\nCifras recientes alertan sobre la persistencia de la enfermedad en el país. En 2023 se diagnosticaron 4.628 casos, y en el primer trimestre de este año ya se contabilizaban 763 personas con la enfermedad, así como 2.182 pacientes en tratamiento.\nLa tuberculosis, enfermedad que afecta principalmente los pulmones, se transmite por vía aérea y puede causar síntomas como tos con sangre, dolor en el pecho, fatiga y fiebre.\n\n\nEn la lucha contra este padecimiento, el Ministerio de Salud Pública dominicano ya había entregado al Sistema Nacional de Salud (SNS) dos equipos Genexpert-XDR para mejorar y ampliar el acceso al diagnóstico de la tuberculosis en diversas provincias.\n",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/brasil-dona-republic-dominicana-vacuna-tuberc/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-06.json",
+    "message_index": 603,
+    "message_id": 97191,
+    "date": "2025-06-22T23:55:07+00:00",
+    "text": "teleSUR\nBrasil donó a República Dominicana 192 mil dosis de vacuna BCG para combatir la tuberculosis\nhttps://www.telesurtv.net/brasil-dona-republic-dominicana-vacuna-tuberc/",
+    "photo_path": null,
+    "views": 3969,
+    "reactions": {
+      "👏": 54,
+      "❤": 6,
+      "👍": 6,
+      "👎": 1,
+      "👌": 1
+    },
+    "total_reactions": 68
+  },
+  "preprocessing": {
+    "cleaned": "república dominicana (rd) recibió una vital donación de 192 mil dosis de la vacuna bcg por parte del gobierno de brasil, destinada a combatir las formas más graves de tuberculosis en la primera infancia. así lo informó el ministerio de relaciones exteriores (mirex) dominicano. en una nota, la cancillería expresó su profundo agradecimiento a brasil, destacando que esta entrega no solo es un acto de amistad y respeto mutuo, sino también la expresión del “compromiso compartido con la salud pública y el bienestar de la niñez”. el lote, entregado por el embajador brasileño en rd, carlos pérez, fortalece la voluntad de la república dominicana de impulsar iniciativas conjuntas que favorezcan el desarrollo sostenible y el mejoramiento de su sistema de salud. el ministerio de salud dominicano reiteró su compromiso con el avance en la lucha para eliminar la tuberculosis, especialmente en los grupos poblacionales más vulnerables. cifras recientes alertan sobre la persistencia de la enfermedad en el país. en 2023 se diagnosticaron 4.628 casos, y en el primer trimestre de este año ya se contabilizaban 763 personas con la enfermedad, así como 2.182 pacientes en tratamiento. la tuberculosis, enfermedad que afecta principalmente los pulmones, se transmite por vía aérea y puede causar síntomas como tos con sangre, dolor en el pecho, fatiga y fiebre. en la lucha contra este padecimiento, el ministerio de salud pública dominicano ya había entregado al sistema nacional de salud (sns) dos equipos genexpert-xdr para mejorar y ampliar el acceso al diagnóstico de la tuberculosis en diversas provincias.",
+    "tokens": [
+      "república",
+      "dominicana",
+      "(",
+      "rd",
+      ")",
+      "recibió",
+      "vital",
+      "donación",
+      "192",
+      "mil",
+      "dosis",
+      "vacuna",
+      "bcg",
+      "parte",
+      "gobierno",
+      "brasil",
+      ",",
+      "destinada",
+      "combatir",
+      "formas",
+      "graves",
+      "tuberculosis",
+      "primera",
+      "infancia",
+      ".",
+      "así",
+      "informó",
+      "ministerio",
+      "relaciones",
+      "exteriores",
+      "(",
+      "mirex",
+      ")",
+      "dominicano",
+      ".",
+      "nota",
+      ",",
+      "cancillería",
+      "expresó",
+      "profundo",
+      "agradecimiento",
+      "brasil",
+      ",",
+      "destacando",
+      "entrega",
+      "solo",
+      "acto",
+      "amistad",
+      "respeto",
+      "mutuo",
+      ",",
+      "sino",
+      "expresión",
+      "“",
+      "compromiso",
+      "compartido",
+      "salud",
+      "pública",
+      "bienestar",
+      "niñez",
+      "”",
+      ".",
+      "lote",
+      ",",
+      "entregado",
+      "embajador",
+      "brasileño",
+      "rd",
+      ",",
+      "carlos",
+      "pérez",
+      ",",
+      "fortalece",
+      "voluntad",
+      "república",
+      "dominicana",
+      "impulsar",
+      "iniciativas",
+      "conjuntas",
+      "favorezcan",
+      "desarrollo",
+      "sostenible",
+      "mejoramiento",
+      "sistema",
+      "salud",
+      ".",
+      "ministerio",
+      "salud",
+      "dominicano",
+      "reiteró",
+      "compromiso",
+      "avance",
+      "lucha",
+      "eliminar",
+      "tuberculosis",
+      ",",
+      "especialmente",
+      "grupos",
+      "poblacionales",
+      "vulnerables",
+      ".",
+      "cifras",
+      "recientes",
+      "alertan",
+      "persistencia",
+      "enfermedad",
+      "país",
+      ".",
+      "2023",
+      "diagnosticaron",
+      "4.628",
+      "casos",
+      ",",
+      "primer",
+      "trimestre",
+      "año",
+      "contabilizaban",
+      "763",
+      "personas",
+      "enfermedad",
+      ",",
+      "así",
+      "2.182",
+      "pacientes",
+      "tratamiento",
+      ".",
+      "tuberculosis",
+      ",",
+      "enfermedad",
+      "afecta",
+      "principalmente",
+      "pulmones",
+      ",",
+      "transmite",
+      "vía",
+      "aérea",
+      "puede",
+      "causar",
+      "síntomas",
+      "tos",
+      "sangre",
+      ",",
+      "dolor",
+      "pecho",
+      ",",
+      "fatiga",
+      "fiebre",
+      ".",
+      "lucha",
+      "padecimiento",
+      ",",
+      "ministerio",
+      "salud",
+      "pública",
+      "dominicano",
+      "entregado",
+      "sistema",
+      "nacional",
+      "salud",
+      "(",
+      "sns",
+      ")",
+      "dos",
+      "equipos",
+      "genexpert-xdr",
+      "mejorar",
+      "ampliar",
+      "acceso",
+      "diagnóstico",
+      "tuberculosis",
+      "diversas",
+      "provincias",
+      "."
+    ],
+    "token_count": 173,
+    "sentence_count": 9
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 35,
+      "NN": 95,
+      "JJ": 22,
+      "IN": 16,
+      "CD": 5,
+      "FW": 53,
+      "VBZ": 6,
+      "NNS": 6,
+      "VBP": 4,
+      "DT": 1
+    },
+    "bigram_freq": {
+      "NNP-NNP": 11,
+      "NNP-NN": 12,
+      "NN-JJ": 3,
+      "JJ-JJ": 4,
+      "JJ-NN": 11,
+      "NN-IN": 10,
+      "IN-CD": 1,
+      "CD-JJ": 2,
+      "IN-FW": 7,
+      "FW-FW": 33,
+      "FW-NNP": 8,
+      "NN-NN": 57,
+      "NN-FW": 9,
+      "NNP-FW": 2,
+      "NN-VBZ": 2,
+      "VBZ-JJ": 6,
+      "JJ-NNS": 3,
+      "NNS-IN": 2,
+      "IN-NN": 2,
+      "FW-NN": 10,
+      "NN-NNP": 8,
+      "NNP-VBZ": 4,
+      "JJ-FW": 2,
+      "NNP-IN": 4,
+      "IN-NNP": 5,
+      "NN-VBP": 1,
+      "VBP-JJ": 3,
+      "JJ-DT": 1,
+      "DT-NN": 1,
+      "NNP-VBP": 1,
+      "FW-JJ": 2,
+      "NNS-JJ": 1,
+      "IN-JJ": 1,
+      "NNS-VBP": 2,
+      "VBP-NNS": 1,
+      "NNS-NNP": 1,
+      "NNP-CD": 1,
+      "CD-NN": 2,
+      "NN-CD": 3,
+      "CD-NNS": 1,
+      "NN-NNS": 1,
+      "JJ-NNP": 1
+    },
+    "trigram_freq": {
+      "NNP-NNP-NNP": 3,
+      "NNP-NNP-NN": 4,
+      "NNP-NN-JJ": 1,
+      "NN-JJ-JJ": 1,
+      "JJ-JJ-NN": 2,
+      "JJ-NN-IN": 3,
+      "NN-IN-CD": 1,
+      "IN-CD-JJ": 1,
+      "CD-JJ-NN": 2,
+      "NN-IN-FW": 6,
+      "IN-FW-FW": 5,
+      "FW-FW-NNP": 4,
+      "FW-NNP-NN": 2,
+      "NNP-NN-NN": 10,
+      "NN-NN-FW": 6,
+      "NN-FW-NNP": 1,
+      "FW-NNP-FW": 1,
+      "NNP-FW-NNP": 2,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-JJ": 2,
+      "VBZ-JJ-JJ": 1,
+      "JJ-JJ-NNS": 2,
+      "JJ-NNS-IN": 1,
+      "NNS-IN-NN": 2,
+      "IN-NN-FW": 1,
+      "NN-FW-FW": 5,
+      "FW-FW-FW": 22,
+      "FW-FW-NN": 7,
+      "FW-NN-NNP": 2,
+      "NN-NNP-VBZ": 2,
+      "NNP-VBZ-JJ": 4,
+      "VBZ-JJ-FW": 2,
+      "JJ-FW-NNP": 1,
+      "FW-NNP-IN": 1,
+      "NNP-IN-NNP": 3,
+      "IN-NNP-NNP": 3,
+      "NNP-NN-NNP": 1,
+      "NN-NNP-NN": 3,
+      "NN-NN-NN": 33,
+      "NN-NN-NNP": 4,
+      "VBZ-JJ-NN": 2,
+      "NN-IN-NNP": 2,
+      "IN-NNP-NN": 2,
+      "NN-NN-VBP": 1,
+      "NN-VBP-JJ": 1,
+      "VBP-JJ-DT": 1,
+      "JJ-DT-NN": 1,
+      "DT-NN-VBZ": 1,
+      "JJ-FW-FW": 1,
+      "FW-NN-NN": 5,
+      "NN-FW-NN": 3,
+      "FW-NN-IN": 1,
+      "FW-NNP-VBP": 1,
+      "NNP-VBP-JJ": 1,
+      "VBP-JJ-NN": 2,
+      "JJ-NN-NN": 8,
+      "NN-NN-IN": 6,
+      "FW-NNP-NNP": 3,
+      "NNP-NNP-IN": 2,
+      "NNP-IN-FW": 1,
+      "IN-FW-JJ": 2,
+      "FW-JJ-NNS": 1,
+      "JJ-NNS-JJ": 1,
+      "NNS-JJ-JJ": 1,
+      "NN-NN-JJ": 2,
+      "NN-JJ-NN": 2,
+      "NN-IN-JJ": 1,
+      "IN-JJ-JJ": 1,
+      "JJ-NNS-VBP": 1,
+      "NNS-VBP-NNS": 1,
+      "VBP-NNS-NNP": 1,
+      "NNS-NNP-VBZ": 1,
+      "NN-NNP-CD": 1,
+      "NNP-CD-NN": 1,
+      "CD-NN-NN": 1,
+      "NN-NN-CD": 2,
+      "NN-CD-NN": 1,
+      "CD-NN-FW": 1,
+      "FW-NN-CD": 1,
+      "NN-CD-JJ": 1,
+      "NN-CD-NNS": 1,
+      "CD-NNS-IN": 1,
+      "IN-NN-NNP": 1,
+      "NN-NN-NNS": 1,
+      "NN-NNS-VBP": 1,
+      "NNS-VBP-JJ": 1,
+      "FW-JJ-NN": 1,
+      "NN-NNP-IN": 1,
+      "NN-NNP-NNP": 1,
+      "NNP-NNP-FW": 1,
+      "NNP-NNP-VBZ": 1,
+      "VBZ-JJ-NNP": 1,
+      "JJ-NNP-NN": 1,
+      "FW-NN-FW": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 95,
+        "FW": 53,
+        "NNP": 35,
+        "JJ": 22,
+        "IN": 16
+      },
+      "top_bigrams": {
+        "NN-NN": 57,
+        "FW-FW": 33,
+        "NNP-NN": 12,
+        "NNP-NNP": 11,
+        "JJ-NN": 11
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 33,
+        "FW-FW-FW": 22,
+        "NNP-NN-NN": 10,
+        "JJ-NN-NN": 8,
+        "FW-FW-NN": 7
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 9,
+    "chunk_counts": {
+      "NP": 67,
+      "VP": 7,
+      "PP": 5,
+      "ADJP": 2
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 3,
+        "weight": 0.0333
+      },
+      {
+        "rule": "NP -> ('tuberculosis', 'NN')",
+        "frequency": 3,
+        "weight": 0.0333
+      },
+      {
+        "rule": "NP -> ('República', 'NNP') ('Dominicana', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0222
+      },
+      {
+        "rule": "NP -> ('RD', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0222
+      },
+      {
+        "rule": "NP -> ('Ministerio', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0222
+      },
+      {
+        "rule": "S -> NP ('(', '(') NP (')', ')') NP NP ('de', 'IN') ('192', 'CD') NP ('de', 'IN') ('la', 'FW') ('vacuna', 'FW') NP ('del', 'FW') NP ('de', 'FW') NP (',', ',') VP PP ('en', 'FW') ('la', 'FW') ('primera', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0111
+      },
+      {
+        "rule": "NP -> ('recibió', 'NN')",
+        "frequency": 1,
+        "weight": 0.0111
+      },
+      {
+        "rule": "NP -> ('una', 'JJ') ('vital', 'JJ') ('donación', 'NN')",
+        "frequency": 1,
+        "weight": 0.0111
+      },
+      {
+        "rule": "NP -> ('mil', 'JJ') ('dosis', 'NN')",
+        "frequency": 1,
+        "weight": 0.0111
+      },
+      {
+        "rule": "NP -> ('BCG', 'NNP') ('por', 'NN') ('parte', 'NN')",
+        "frequency": 1,
+        "weight": 0.0111
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "República Dominicana"
+      },
+      {
+        "label": "NP",
+        "text": "RD"
+      },
+      {
+        "label": "NP",
+        "text": "recibió"
+      },
+      {
+        "label": "NP",
+        "text": "una vital donación"
+      },
+      {
+        "label": "NP",
+        "text": "mil dosis"
+      },
+      {
+        "label": "NP",
+        "text": "BCG por parte"
+      },
+      {
+        "label": "NP",
+        "text": "Gobierno"
+      },
+      {
+        "label": "NP",
+        "text": "Brasil"
+      },
+      {
+        "label": "VP",
+        "text": "destinada a combatir las formas más graves"
+      },
+      {
+        "label": "NP",
+        "text": "a combatir las formas"
+      },
+      {
+        "label": "NP",
+        "text": "más graves"
+      },
+      {
+        "label": "PP",
+        "text": "de tuberculosis"
+      },
+      {
+        "label": "NP",
+        "text": "tuberculosis"
+      },
+      {
+        "label": "NP",
+        "text": "infancia"
+      },
+      {
+        "label": "NP",
+        "text": "Así"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP República/NNP Dominicana/NNP)\n  (/(\n  (NP RD/NNP)\n  )/)\n  (NP recibió/NN)\n  (NP una/JJ vital/JJ donación/NN)\n  de/IN\n  192/CD\n  (NP mil/JJ dosis/NN)\n  de/IN\n  la/FW\n  vacuna/FW\n  (NP BCG/NNP por/NN parte/NN)\n  del/FW\n  (NP Gobierno/NNP)\n  de/FW\n  (NP Brasil/NNP)\n  ,/,\n  (VP\n    destinada/VBZ\n    (NP a/DT combatir/NN las/NN formas/NN)\n    (NP más/JJ graves/NNS))\n  (PP de/IN (NP tuberculosis/NN))\n  en/FW\n  la/FW\n  primera/FW\n  (NP infancia/NN)\n  ./.)",
+      "(S\n  (NP Así/NNP)\n  (VP lo/VBZ informó/JJ)\n  el/FW\n  (NP Ministerio/NNP)\n  (PP de/IN (NP Relaciones/NNP Exteriores/NNP))\n  (/(\n  (NP MIREX/NNP)\n  )/)\n  (NP dominicano/NN)\n  ./.)",
+      "(S\n  (NP En/NNP)\n  (NP una/JJ nota/NN)\n  ,/,\n  la/FW\n  (NP Cancillería/NNP)\n  expresó/FW\n  (NP su/NN profundo/NN)\n  (PP agradecimiento/IN (NP a/DT Brasil/NNP))\n  ,/,\n  (NP destacando/NN que/NN)\n  (VP esta/VBP entrega/JJ (NP no/DT solo/NN))\n  (VP es/VBZ un/JJ)\n  acto/FW\n  de/FW\n  amistad/FW\n  y/FW\n  (NP respeto/NN mutuo/NN)\n  ,/,\n  (NP sino/NN también/NN la/NN)\n  expresión/FW\n  del/FW\n  “/FW\n  (NP\n    compromiso/NN\n    compartido/NN\n    con/NN\n    la/NN\n    salud/NN\n    pública/NN\n    y/NN)\n  (NP el/JJ bienestar/NN)\n  de/IN\n  la/FW\n  (NP niñez/JJ ”/NN)\n  ./.)",
+      "(S\n  (NP El/NNP lote/NN)\n  ,/,\n  entregado/FW\n  por/FW\n  el/FW\n  embajador/FW\n  (NP brasileño/NN)\n  en/FW\n  (NP RD/NNP)\n  ,/,\n  (NP Carlos/NNP Pérez/NNP)\n  ,/,\n  (ADJP fortalece/RB la/JJ)\n  voluntad/FW\n  de/FW\n  la/FW\n  (NP República/NNP Dominicana/NNP)\n  de/IN\n  impulsar/FW\n  (NP iniciativas/JJ conjuntas/NNS)\n  (NP que/JJ favorezcan/JJ el/NN desarrollo/NN)\n  (NP sostenible/JJ y/NN el/NN)\n  mejoramiento/FW\n  de/FW\n  su/FW\n  sistema/FW\n  de/FW\n  salud/FW\n  ./.)",
+      "(S\n  (NP El/NNP Ministerio/NNP)\n  (PP\n    de/IN\n    (NP\n      Salud/NNP\n      dominicano/NN\n      reiteró/NN\n      su/NN\n      compromiso/NN\n      con/NN\n      el/NN\n      avance/NN))\n  en/IN\n  la/FW\n  lucha/FW\n  para/FW\n  eliminar/FW\n  la/FW\n  (NP tuberculosis/NN)\n  ,/,\n  especialmente/FW\n  en/FW\n  los/FW\n  (NP grupos/JJ poblacionales/NNS)\n  (VP más/VBP (NP vulnerables/NNS))\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "GOBIERNOS_OFICIALES",
+      "CANTIDADES_NUMERICAS",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "PAISES",
+      "VIOLENCIA_CRIMEN_DERECHOS_HUMANOS"
+    ],
+    "matches": [
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "expresó",
+        "position": [
+          306,
+          313
+        ],
+        "start": 306,
+        "end": 313
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "informó",
+        "position": [
+          211,
+          218
+        ],
+        "start": 211,
+        "end": 218
+      },
+      {
+        "category": "VIOLENCIA_CRIMEN_DERECHOS_HUMANOS",
+        "matched_text": "salud pública dominicano ya había entregado al sistema nacional de salud (sns) dos equipos genexpert-xdr para mejorar y ampliar el acceso",
+        "position": [
+          1413,
+          1550
+        ],
+        "start": 1413,
+        "end": 1550
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "gobierno de brasil",
+        "position": [
+          101,
+          119
+        ],
+        "start": 101,
+        "end": 119
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "brasil",
+        "position": [
+          113,
+          119
+        ],
+        "start": 113,
+        "end": 119
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "república dominicana",
+        "position": [
+          0,
+          20
+        ],
+        "start": 0,
+        "end": 20
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "763 personas",
+        "position": [
+          1107,
+          1119
+        ],
+        "start": 1107,
+        "end": 1119
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "192 mil",
+        "position": [
+          56,
+          63
+        ],
+        "start": 56,
+        "end": 63
+      }
+    ],
+    "match_count": 8
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "SNS",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Sistema Nacional de Salud",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Carlos Pérez",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Ministerio de Relaciones Exteriores",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Gobierno de Brasil",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Ministerio de Salud Pública",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Ministerio de Salud",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "República Dominicana",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Brasil",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "República Dominicana",
+        "relacion": "RECIBIR",
+        "objeto": "Gobierno de Brasil"
+      },
+      {
+        "sujeto": "Carlos Pérez",
+        "relacion": "FORTALECER",
+        "objeto": "República Dominicana"
+      },
+      {
+        "sujeto": "Ministerio de Salud Pública",
+        "relacion": "ENTREGAR",
+        "objeto": "Sistema Nacional de Salud"
+      },
+      {
+        "sujeto": "Ministerio de Salud Pública",
+        "relacion": "ENTREGAR",
+        "objeto": "SNS"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.296,
+    "pos": 0.009,
+    "neu": 0.973,
+    "neg": 0.018,
+    "label": "negative"
+  }
+}

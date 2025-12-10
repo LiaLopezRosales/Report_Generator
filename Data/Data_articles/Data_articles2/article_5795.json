@@ -1,0 +1,949 @@
+{
+  "url": "https://www.telesurtv.net/protestas-tel-aviv-contra-guerra-hambre-gaza/",
+  "title": "Protestas en Tel Aviv contra la guerra y el hambre en Gaza - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "conflicto destacado",
+    "Crisis humanitaria",
+    "Gaza",
+    "genocidio",
+    "hambre",
+    "Israel",
+    "Tel Aviv"
+  ],
+  "text": "La movilizaciones que partió desde la plaza Habima, ubicada en el centro de la ciudad de Tel Aviv, capital de Israel, culminó frente al cuartel general de las Fuerzas de Defensa de Israel (FDI). La jornada estuvo encabezada por ciudadanos que cargaban bolsas de harina y fotografías de niños palestinos que perdieron la vida a causa de los niveles de desnutrición que sufrían, debido a la falta de acceso a insumos alimenticios ante el persistente bloqueo impuesto por el régimen de ocupación israelí.\n\n“Murieron simplemente de hambre”, denunció Alon Lee-Green, uno de los organizadores de esta movilización que tiene como objetivo principal denunciar el persistente impedimento de Israel para que familias palestinas pueden acceder a insumos necesarios para la vida, desencadenando en el fallecimiento de miles de niños inocentes: “Estamos aquí para decir basta”.\nA pesar de los múltiples informes que advierten sobre una emergencia alimentaria en el enclave, el Gobierno israelí ha negado la existencia de una hambruna generalizada y sostiene que sigue permitiendo el ingreso de asistencia humanitaria.\n“Nos mienten. Dicen que no hay hambre, pero estas fotos lo desmienten”, expresó otro manifestante, mostrando imágenes de menores visiblemente desnutridos. La manifestación transcurrió de forma pacífica y no se reportaron detenciones.\n\n\n\nDe forma paralela a esta protesta, decenas de activistas se congregaron en las afueras de la sede de la embajada de Estados Unidos, donde pidieron tanto al primer ministro israelí, Benjamín Netanyahu, como al presidente estadounidense, Donald Trump, un acuerdo de rehenes.\nEstas movilizaciones se producen tras las declaraciones de Trump, en las que insinuó que diez rehenes serían liberados “muy pronto”, sin dar más detalles sobre el avance de las negociaciones entre Israel y el Movimiento de Resistencia Palestina Hamás.\nEl Ministerio de Sanidad de Gaza ha registrado 101 muertes de palestinos por desnutrición durante los últimos días, 15 de ellas en un período de 24 horas. Según la información disponible, al menos 80 de los 101 son niños, sin embargo, la Oficina del Alto Comisionado para los Derechos Humanos precisó que es posible que muchos más estén muriendo sin que se reporte.\n\n",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/protestas-tel-aviv-contra-guerra-hambre-gaza/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-07.json",
+    "message_index": 696,
+    "message_id": 99733,
+    "date": "2025-07-23T16:55:18+00:00",
+    "text": "teleSUR\nProtestas en Tel Aviv contra la guerra y el hambre en Gaza\nhttps://www.telesurtv.net/protestas-tel-aviv-contra-guerra-hambre-gaza/",
+    "photo_path": null,
+    "views": 1972,
+    "reactions": {
+      "❤": 27,
+      "👍": 13,
+      "🤔": 6,
+      "😭": 1
+    },
+    "total_reactions": 47
+  },
+  "preprocessing": {
+    "cleaned": "la movilizaciones que partió desde la plaza habima, ubicada en el centro de la ciudad de tel aviv, capital de israel, culminó frente al cuartel general de las fuerzas de defensa de israel (fdi). la jornada estuvo encabezada por ciudadanos que cargaban bolsas de harina y fotografías de niños palestinos que perdieron la vida a causa de los niveles de desnutrición que sufrían, debido a la falta de acceso a insumos alimenticios ante el persistente bloqueo impuesto por el régimen de ocupación israelí. “murieron simplemente de hambre”, denunció alon lee-green, uno de los organizadores de esta movilización que tiene como objetivo principal denunciar el persistente impedimento de israel para que familias palestinas pueden acceder a insumos necesarios para la vida, desencadenando en el fallecimiento de miles de niños inocentes: “estamos aquí para decir basta”. a pesar de los múltiples informes que advierten sobre una emergencia alimentaria en el enclave, el gobierno israelí ha negado la existencia de una hambruna generalizada y sostiene que sigue permitiendo el ingreso de asistencia humanitaria. “nos mienten. dicen que no hay hambre, pero estas fotos lo desmienten”, expresó otro manifestante, mostrando imágenes de menores visiblemente desnutridos. la manifestación transcurrió de forma pacífica y no se reportaron detenciones. de forma paralela a esta protesta, decenas de activistas se congregaron en las afueras de la sede de la embajada de estados unidos, donde pidieron tanto al primer ministro israelí, benjamín netanyahu, como al presidente estadounidense, donald trump, un acuerdo de rehenes. estas movilizaciones se producen tras las declaraciones de trump, en las que insinuó que diez rehenes serían liberados “muy pronto”, sin dar más detalles sobre el avance de las negociaciones entre israel y el movimiento de resistencia palestina hamás. el ministerio de sanidad de gaza ha registrado 101 muertes de palestinos por desnutrición durante los últimos días, 15 de ellas en un período de 24 horas. según la información disponible, al menos 80 de los 101 son niños, sin embargo, la oficina del alto comisionado para los derechos humanos precisó que es posible que muchos más estén muriendo sin que se reporte.",
+    "tokens": [
+      "movilizaciones",
+      "partió",
+      "plaza",
+      "habima",
+      ",",
+      "ubicada",
+      "centro",
+      "ciudad",
+      "tel",
+      "aviv",
+      ",",
+      "capital",
+      "israel",
+      ",",
+      "culminó",
+      "frente",
+      "cuartel",
+      "general",
+      "fuerzas",
+      "defensa",
+      "israel",
+      "(",
+      "fdi",
+      ")",
+      ".",
+      "jornada",
+      "encabezada",
+      "ciudadanos",
+      "cargaban",
+      "bolsas",
+      "harina",
+      "fotografías",
+      "niños",
+      "palestinos",
+      "perdieron",
+      "vida",
+      "causa",
+      "niveles",
+      "desnutrición",
+      "sufrían",
+      ",",
+      "debido",
+      "falta",
+      "acceso",
+      "insumos",
+      "alimenticios",
+      "persistente",
+      "bloqueo",
+      "impuesto",
+      "régimen",
+      "ocupación",
+      "israelí",
+      ".",
+      "“",
+      "murieron",
+      "simplemente",
+      "hambre",
+      "”",
+      ",",
+      "denunció",
+      "alon",
+      "lee-green",
+      ",",
+      "organizadores",
+      "movilización",
+      "objetivo",
+      "principal",
+      "denunciar",
+      "persistente",
+      "impedimento",
+      "israel",
+      "familias",
+      "palestinas",
+      "pueden",
+      "acceder",
+      "insumos",
+      "necesarios",
+      "vida",
+      ",",
+      "desencadenando",
+      "fallecimiento",
+      "miles",
+      "niños",
+      "inocentes",
+      ":",
+      "“",
+      "aquí",
+      "decir",
+      "basta",
+      "”",
+      ".",
+      "pesar",
+      "múltiples",
+      "informes",
+      "advierten",
+      "emergencia",
+      "alimentaria",
+      "enclave",
+      ",",
+      "gobierno",
+      "israelí",
+      "negado",
+      "existencia",
+      "hambruna",
+      "generalizada",
+      "sostiene",
+      "sigue",
+      "permitiendo",
+      "ingreso",
+      "asistencia",
+      "humanitaria",
+      ".",
+      "“",
+      "mienten",
+      ".",
+      "dicen",
+      "hambre",
+      ",",
+      "fotos",
+      "desmienten",
+      "”",
+      ",",
+      "expresó",
+      "manifestante",
+      ",",
+      "mostrando",
+      "imágenes",
+      "menores",
+      "visiblemente",
+      "desnutridos",
+      ".",
+      "manifestación",
+      "transcurrió",
+      "forma",
+      "pacífica",
+      "reportaron",
+      "detenciones",
+      ".",
+      "forma",
+      "paralela",
+      "protesta",
+      ",",
+      "decenas",
+      "activistas",
+      "congregaron",
+      "afueras",
+      "sede",
+      "embajada",
+      "unidos",
+      ",",
+      "pidieron",
+      "primer",
+      "ministro",
+      "israelí",
+      ",",
+      "benjamín",
+      "netanyahu",
+      ",",
+      "presidente",
+      "estadounidense",
+      ",",
+      "donald",
+      "trump",
+      ",",
+      "acuerdo",
+      "rehenes",
+      ".",
+      "movilizaciones",
+      "producen",
+      "tras",
+      "declaraciones",
+      "trump",
+      ",",
+      "insinuó",
+      "diez",
+      "rehenes",
+      "liberados",
+      "“",
+      "pronto",
+      "”",
+      ",",
+      "dar",
+      "detalles",
+      "avance",
+      "negociaciones",
+      "israel",
+      "movimiento",
+      "resistencia",
+      "palestina",
+      "hamás",
+      ".",
+      "ministerio",
+      "sanidad",
+      "gaza",
+      "registrado",
+      "101",
+      "muertes",
+      "palestinos",
+      "desnutrición",
+      "últimos",
+      "días",
+      ",",
+      "15",
+      "período",
+      "24",
+      "horas",
+      ".",
+      "según",
+      "información",
+      "disponible",
+      ",",
+      "menos",
+      "80",
+      "101",
+      "niños",
+      ",",
+      "embargo",
+      ",",
+      "oficina",
+      "alto",
+      "comisionado",
+      "derechos",
+      "humanos",
+      "precisó",
+      "posible",
+      "muriendo",
+      "reporte",
+      "."
+    ],
+    "token_count": 228,
+    "sentence_count": 11
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 47,
+      "NNS": 26,
+      "NN": 104,
+      "VBP": 13,
+      "FW": 84,
+      "IN": 19,
+      "JJ": 28,
+      "VBZ": 1,
+      "RB": 2,
+      "VBN": 1,
+      "DT": 2,
+      "VBD": 4,
+      "CD": 5
+    },
+    "bigram_freq": {
+      "NNP-NNS": 2,
+      "NNS-NN": 1,
+      "NN-VBP": 2,
+      "VBP-NN": 2,
+      "NN-NN": 59,
+      "NN-FW": 11,
+      "FW-NNP": 12,
+      "NNP-NNP": 16,
+      "NNP-FW": 9,
+      "FW-FW": 46,
+      "NNP-NN": 11,
+      "NN-IN": 10,
+      "IN-NNP": 4,
+      "NN-JJ": 7,
+      "JJ-FW": 2,
+      "NNP-IN": 3,
+      "NNP-VBZ": 1,
+      "VBZ-FW": 1,
+      "FW-JJ": 4,
+      "JJ-NNS": 6,
+      "NNS-JJ": 3,
+      "JJ-JJ": 3,
+      "JJ-NN": 14,
+      "IN-FW": 12,
+      "FW-NN": 14,
+      "NNS-VBP": 8,
+      "VBP-JJ": 6,
+      "NNS-IN": 4,
+      "JJ-NNP": 2,
+      "NN-NNP": 4,
+      "FW-NNS": 6,
+      "NNS-FW": 2,
+      "NN-NNS": 7,
+      "NNS-NNP": 5,
+      "NNS-NNS": 1,
+      "NNS-RB": 1,
+      "RB-VBP": 1,
+      "VBP-FW": 1,
+      "FW-VBP": 1,
+      "VBP-VBN": 1,
+      "VBN-NNP": 1,
+      "NNP-JJ": 2,
+      "NNP-VBP": 1,
+      "VBP-NNP": 2,
+      "NN-DT": 2,
+      "DT-NN": 2,
+      "VBP-RB": 1,
+      "RB-JJ": 1,
+      "IN-NNS": 2,
+      "NNS-VBD": 1,
+      "VBD-JJ": 2,
+      "NNP-VBD": 2,
+      "JJ-CD": 1,
+      "CD-NNS": 2,
+      "VBD-CD": 2,
+      "CD-IN": 2,
+      "IN-CD": 1,
+      "NN-VBD": 1,
+      "FW-CD": 1,
+      "CD-NN": 1
+    },
+    "trigram_freq": {
+      "NNP-NNS-NN": 1,
+      "NNS-NN-VBP": 1,
+      "NN-VBP-NN": 2,
+      "VBP-NN-NN": 1,
+      "NN-NN-FW": 8,
+      "NN-FW-NNP": 2,
+      "FW-NNP-NNP": 5,
+      "NNP-NNP-FW": 1,
+      "NNP-FW-FW": 2,
+      "FW-FW-FW": 30,
+      "FW-FW-NNP": 5,
+      "NNP-NNP-NN": 5,
+      "NNP-NN-IN": 1,
+      "NN-IN-NNP": 1,
+      "IN-NNP-NN": 1,
+      "NNP-NN-NN": 8,
+      "NN-NN-VBP": 1,
+      "VBP-NN-JJ": 1,
+      "NN-JJ-FW": 1,
+      "JJ-FW-FW": 1,
+      "FW-NNP-FW": 3,
+      "NNP-FW-NNP": 5,
+      "FW-NNP-IN": 1,
+      "NNP-IN-NNP": 2,
+      "IN-NNP-NNP": 1,
+      "NNP-NNP-NNP": 6,
+      "NNP-NNP-VBZ": 1,
+      "NNP-VBZ-FW": 1,
+      "VBZ-FW-JJ": 1,
+      "FW-JJ-NNS": 2,
+      "JJ-NNS-JJ": 3,
+      "NNS-JJ-JJ": 1,
+      "JJ-JJ-NN": 3,
+      "JJ-NN-IN": 5,
+      "NN-IN-FW": 7,
+      "IN-FW-FW": 5,
+      "FW-FW-NN": 7,
+      "FW-NN-NN": 7,
+      "NN-FW-NN": 3,
+      "FW-NN-IN": 3,
+      "NN-NN-NN": 33,
+      "NN-FW-FW": 6,
+      "FW-FW-JJ": 2,
+      "JJ-NNS-VBP": 1,
+      "NNS-VBP-JJ": 5,
+      "VBP-JJ-NN": 3,
+      "JJ-NN-NN": 7,
+      "NN-NN-JJ": 6,
+      "NN-JJ-NNS": 2,
+      "JJ-NNS-IN": 2,
+      "NNS-IN-FW": 2,
+      "IN-FW-JJ": 1,
+      "FW-JJ-NNP": 1,
+      "JJ-NNP-NN": 1,
+      "NNP-NN-FW": 1,
+      "FW-NN-NNP": 1,
+      "NN-NNP-NNP": 4,
+      "NNP-NNP-IN": 2,
+      "NNP-IN-FW": 1,
+      "IN-FW-NNS": 4,
+      "FW-NNS-FW": 2,
+      "NNS-FW-FW": 2,
+      "NN-JJ-NN": 4,
+      "FW-NNP-NN": 1,
+      "NNS-JJ-NN": 1,
+      "NN-NN-NNS": 6,
+      "NN-NNS-VBP": 5,
+      "VBP-JJ-FW": 1,
+      "JJ-FW-NN": 1,
+      "FW-NN-FW": 2,
+      "FW-FW-NNS": 2,
+      "FW-NNS-NNP": 2,
+      "NNS-NNP-NN": 2,
+      "NN-NN-IN": 1,
+      "FW-NNS-NNS": 1,
+      "NNS-NNS-RB": 1,
+      "NNS-RB-VBP": 1,
+      "RB-VBP-JJ": 1,
+      "VBP-JJ-JJ": 1,
+      "JJ-NN-NNS": 1,
+      "NNS-VBP-FW": 1,
+      "VBP-FW-VBP": 1,
+      "FW-VBP-VBN": 1,
+      "VBP-VBN-NNP": 1,
+      "VBN-NNP-JJ": 1,
+      "NNP-JJ-NN": 2,
+      "NNS-NNP-VBP": 1,
+      "NNP-VBP-NNP": 1,
+      "VBP-NNP-NN": 1,
+      "NNP-NN-DT": 1,
+      "NN-DT-NN": 2,
+      "DT-NN-NN": 2,
+      "NNS-VBP-RB": 1,
+      "VBP-RB-JJ": 1,
+      "RB-JJ-JJ": 1,
+      "NN-NNS-IN": 1,
+      "NNS-IN-NNS": 1,
+      "IN-NNS-VBP": 1,
+      "VBP-JJ-NNP": 1,
+      "JJ-NNP-FW": 1,
+      "NNP-FW-NN": 2,
+      "IN-FW-NN": 1,
+      "FW-NN-DT": 1,
+      "NN-NNS-NNP": 1,
+      "NNS-NNP-FW": 1,
+      "NN-NN-NNP": 3,
+      "NNP-NNP-JJ": 1,
+      "NN-IN-NNS": 1,
+      "IN-NNS-NNP": 1,
+      "NNS-NNP-NNS": 1,
+      "NNP-NNS-VBD": 1,
+      "NNS-VBD-JJ": 1,
+      "VBD-JJ-NNS": 1,
+      "NNS-JJ-NNS": 1,
+      "NNS-IN-NNP": 1,
+      "IN-NNP-FW": 2,
+      "FW-NNS-VBP": 1,
+      "NNS-VBP-NNP": 1,
+      "VBP-NNP-FW": 1,
+      "FW-NNP-VBD": 2,
+      "NNP-VBD-JJ": 1,
+      "VBD-JJ-CD": 1,
+      "JJ-CD-NNS": 1,
+      "CD-NNS-IN": 1,
+      "NNP-VBD-CD": 1,
+      "VBD-CD-IN": 2,
+      "CD-IN-FW": 2,
+      "FW-JJ-NN": 1,
+      "NN-IN-CD": 1,
+      "IN-CD-NNS": 1,
+      "CD-NNS-NNP": 1,
+      "JJ-NN-VBD": 1,
+      "NN-VBD-CD": 1,
+      "IN-FW-CD": 1,
+      "FW-CD-NN": 1,
+      "CD-NN-NN": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 104,
+        "FW": 84,
+        "NNP": 47,
+        "JJ": 28,
+        "NNS": 26
+      },
+      "top_bigrams": {
+        "NN-NN": 59,
+        "FW-FW": 46,
+        "NNP-NNP": 16,
+        "JJ-NN": 14,
+        "FW-NN": 14
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 33,
+        "FW-FW-FW": 30,
+        "NN-NN-FW": 8,
+        "NNP-NN-NN": 8,
+        "NN-IN-FW": 7
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 11,
+    "chunk_counts": {
+      "NP": 94,
+      "VP": 19,
+      "ADJP": 4,
+      "PP": 5
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 5,
+        "weight": 0.0376
+      },
+      {
+        "rule": "NP -> ('Israel', 'NNP')",
+        "frequency": 2,
+        "weight": 0.015
+      },
+      {
+        "rule": "S -> NP VP (',', ',') ADJP ('en', 'FW') ('el', 'FW') ('centro', 'FW') ('de', 'FW') ('la', 'FW') ('ciudad', 'FW') ('de', 'FW') NP (',', ',') NP PP (',', ',') NP VP ('de', 'FW') ('las', 'FW') NP ('de', 'FW') NP PP ('(', '(') NP (')', ')') ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0075
+      },
+      {
+        "rule": "NP -> ('La', 'NNP') ('movilizaciones', 'NNS') ('que', 'NN')",
+        "frequency": 1,
+        "weight": 0.0075
+      },
+      {
+        "rule": "VP -> ('partió', 'VBP') NP",
+        "frequency": 1,
+        "weight": 0.0075
+      },
+      {
+        "rule": "NP -> ('desde', 'NN') ('la', 'NN') ('plaza', 'NN') ('Habima', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0075
+      },
+      {
+        "rule": "ADJP -> ('ubicada', 'JJ')",
+        "frequency": 1,
+        "weight": 0.0075
+      },
+      {
+        "rule": "NP -> ('Tel', 'NNP') ('Aviv', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0075
+      },
+      {
+        "rule": "NP -> ('capital', 'NN')",
+        "frequency": 1,
+        "weight": 0.0075
+      },
+      {
+        "rule": "NP -> ('culminó', 'NN') ('frente', 'NN')",
+        "frequency": 1,
+        "weight": 0.0075
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "La movilizaciones que"
+      },
+      {
+        "label": "VP",
+        "text": "partió desde la plaza Habima"
+      },
+      {
+        "label": "NP",
+        "text": "desde la plaza Habima"
+      },
+      {
+        "label": "ADJP",
+        "text": "ubicada"
+      },
+      {
+        "label": "NP",
+        "text": "Tel Aviv"
+      },
+      {
+        "label": "NP",
+        "text": "capital"
+      },
+      {
+        "label": "PP",
+        "text": "de Israel"
+      },
+      {
+        "label": "NP",
+        "text": "Israel"
+      },
+      {
+        "label": "NP",
+        "text": "culminó frente"
+      },
+      {
+        "label": "VP",
+        "text": "al cuartel general"
+      },
+      {
+        "label": "NP",
+        "text": "cuartel"
+      },
+      {
+        "label": "NP",
+        "text": "Fuerzas"
+      },
+      {
+        "label": "NP",
+        "text": "Defensa"
+      },
+      {
+        "label": "PP",
+        "text": "de Israel"
+      },
+      {
+        "label": "NP",
+        "text": "Israel"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP La/NNP movilizaciones/NNS que/NN)\n  (VP partió/VBP (NP desde/NN la/NN plaza/NN Habima/NNP))\n  ,/,\n  (ADJP ubicada/JJ)\n  en/FW\n  el/FW\n  centro/FW\n  de/FW\n  la/FW\n  ciudad/FW\n  de/FW\n  (NP Tel/NNP Aviv/NNP)\n  ,/,\n  (NP capital/NN)\n  (PP de/IN (NP Israel/NNP))\n  ,/,\n  (NP culminó/NN frente/NN)\n  (VP al/VBP (NP cuartel/NN) general/JJ)\n  de/FW\n  las/FW\n  (NP Fuerzas/NNP)\n  de/FW\n  (NP Defensa/NNP)\n  (PP de/IN (NP Israel/NNP))\n  (/(\n  (NP FDI/NNP)\n  )/)\n  ./.)",
+      "(S\n  (NP La/NNP jornada/NNP)\n  (VP estuvo/VBZ)\n  encabezada/FW\n  (NP por/JJ ciudadanos/NNS)\n  (NP que/JJ cargaban/JJ bolsas/NN)\n  de/IN\n  harina/FW\n  y/FW\n  fotografías/FW\n  de/FW\n  niños/FW\n  palestinos/FW\n  que/FW\n  (NP perdieron/NN la/NN)\n  vida/FW\n  (NP a/DT causa/NN)\n  de/IN\n  los/FW\n  niveles/FW\n  de/FW\n  desnutrición/FW\n  (NP que/NN sufrían/NN)\n  ,/,\n  (VP debido/VBZ (NP a/DT la/NN falta/NN))\n  de/IN\n  acceso/FW\n  (NP a/DT insumos/JJ alimenticios/NNS)\n  (VP\n    ante/VBP\n    (NP el/JJ persistente/NN bloqueo/NN impuesto/NN por/NN)\n    (NP el/JJ régimen/NNS))\n  de/IN\n  ocupación/FW\n  (NP israelí/NN)\n  ./.)",
+      "(S\n  (NP “/JJ Murieron/NNP simplemente/NN)\n  de/FW\n  hambre/FW\n  ”/FW\n  ,/,\n  (NP denunció/JJ Alon/NNP Lee-Green/NNP)\n  ,/,\n  (NP uno/NNP)\n  de/FW\n  los/FW\n  (NP organizadores/NNS)\n  de/FW\n  esta/FW\n  movilización/FW\n  que/FW\n  (NP tiene/NN como/NN objetivo/NN)\n  (NP principal/JJ denunciar/NN el/NN persistente/NN)\n  impedimento/FW\n  de/FW\n  (NP Israel/NNP para/NN que/NN)\n  (NP familias/JJ palestinas/NNS)\n  (ADJP pueden/JJ)\n  (VP acceder/VBP (NP a/DT insumos/JJ necesarios/NNS))\n  (VP para/VBP (NP la/NN vida/NN))\n  ,/,\n  (NP desencadenando/NN)\n  en/FW\n  el/FW\n  fallecimiento/FW\n  de/FW\n  (NP miles/NNS)\n  de/FW\n  niños/FW\n  (NP inocentes/NNS)\n  :/:\n  (NP “/NN Estamos/NNP aquí/NN para/NN decir/NN basta/NN ”/NN)\n  ./.)",
+      "(S\n  (NP A/DT pesar/NN)\n  de/IN\n  los/FW\n  (NP múltiples/NNS informes/NNS)\n  que/RB\n  (VP\n    advierten/VBP\n    (NP sobre/JJ una/JJ emergencia/NN alimentaria/NNS))\n  (VP en/VBP (NP el/NN enclave/NN))\n  ,/,\n  el/FW\n  (NP Gobierno/NNP israelí/NN ha/NN)\n  (NP negado/JJ la/NN)\n  existencia/FW\n  de/FW\n  una/FW\n  (NP\n    hambruna/NN\n    generalizada/NN\n    y/NN\n    sostiene/NN\n    que/NN\n    sigue/NN\n    permitiendo/NN)\n  el/FW\n  (NP ingreso/NN)\n  de/IN\n  asistencia/FW\n  (NP humanitaria/NN)\n  ./.)",
+      "(S (NP “/JJ Nos/NNP mienten/NN) ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "GOBIERNOS_OFICIALES",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "ACCIONES_LEGALES",
+      "ANTIIMPERIALISMO_SOBERANIA",
+      "CRISIS_HUMANITARIA_SERVICIOS",
+      "JUSTICIA_SOCIAL",
+      "PAISES",
+      "PROTESTAS_CONFLICTOS_SOCIALES",
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "CONFLICTOS_ARMADOS_OPERACIONES",
+      "LOCALIZACIONES_ESPECIFICAS",
+      "JURIDICO_LEGISLATIVO_CORRUPCION"
+    ],
+    "matches": [
+      {
+        "category": "PROTESTAS_CONFLICTOS_SOCIALES",
+        "matched_text": "protesta, decenas de activistas se congregaron en las afueras de la sede de la embajada de estados unidos, donde pidieron tanto al primer ministro israelí, benjamín netanyahu, como al presidente",
+        "position": [
+          1367,
+          1561
+        ],
+        "start": 1367,
+        "end": 1561
+      },
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "denunció alon lee-green, uno de los organizadores de esta movilización que tiene como objetivo principal denunciar el persistente impedimento de israel para que familias palestinas pueden acceder a",
+        "position": [
+          537,
+          734
+        ],
+        "start": 537,
+        "end": 734
+      },
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "impuesto",
+        "position": [
+          456,
+          464
+        ],
+        "start": 456,
+        "end": 464
+      },
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "ingreso",
+        "position": [
+          1070,
+          1077
+        ],
+        "start": 1070,
+        "end": 1077
+      },
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "ocupación",
+        "position": [
+          483,
+          492
+        ],
+        "start": 483,
+        "end": 492
+      },
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "capital",
+        "position": [
+          99,
+          106
+        ],
+        "start": 99,
+        "end": 106
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "expresó",
+        "position": [
+          1177,
+          1184
+        ],
+        "start": 1177,
+        "end": 1184
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "precisó",
+        "position": [
+          2160,
+          2167
+        ],
+        "start": 2160,
+        "end": 2167
+      },
+      {
+        "category": "JURIDICO_LEGISLATIVO_CORRUPCION",
+        "matched_text": "defensa",
+        "position": [
+          170,
+          177
+        ],
+        "start": 170,
+        "end": 177
+      },
+      {
+        "category": "CRISIS_HUMANITARIA_SERVICIOS",
+        "matched_text": "asistencia humanitaria",
+        "position": [
+          1081,
+          1103
+        ],
+        "start": 1081,
+        "end": 1103
+      },
+      {
+        "category": "CRISIS_HUMANITARIA_SERVICIOS",
+        "matched_text": "emergencia alimentaria en el enclave, el gobierno israelí ha negado la existencia de una hambruna generalizada y sostiene que sigue permitiendo el ingreso de asistencia humanitaria",
+        "position": [
+          923,
+          1103
+        ],
+        "start": 923,
+        "end": 1103
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente estadounidense",
+        "position": [
+          1551,
+          1576
+        ],
+        "start": 1551,
+        "end": 1576
+      },
+      {
+        "category": "ACCIONES_LEGALES",
+        "matched_text": "denunció",
+        "position": [
+          537,
+          545
+        ],
+        "start": 537,
+        "end": 545
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "estados unidos",
+        "position": [
+          1458,
+          1472
+        ],
+        "start": 1458,
+        "end": 1472
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "israelí",
+        "position": [
+          493,
+          500
+        ],
+        "start": 493,
+        "end": 500
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "plaza habima",
+        "position": [
+          38,
+          50
+        ],
+        "start": 38,
+        "end": 50
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "centro de",
+        "position": [
+          66,
+          75
+        ],
+        "start": 66,
+        "end": 75
+      },
+      {
+        "category": "ANTIIMPERIALISMO_SOBERANIA",
+        "matched_text": "bloqueo",
+        "position": [
+          448,
+          455
+        ],
+        "start": 448,
+        "end": 455
+      },
+      {
+        "category": "JUSTICIA_SOCIAL",
+        "matched_text": "derechos humanos",
+        "position": [
+          2143,
+          2159
+        ],
+        "start": 2143,
+        "end": 2159
+      }
+    ],
+    "match_count": 19
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "plaza Habima",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Oficina del Alto Comisionado para los Derechos Humanos",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Alon Lee-Green",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Trump",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Dicen",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Estados Unidos",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Fuerzas de Defensa de Israel",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Israel",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Donald Trump",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "FDI",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Ministerio de Sanidad de Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Movimiento de Resistencia Palestina Hamás",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Gobierno israelí",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Tel Aviv",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Benjamín Netanyahu",
+        "tipo": "Persona"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "plaza Habima",
+        "relacion": "PARTIR_CULMINAR",
+        "objeto": "Fuerzas de Defensa de Israel"
+      },
+      {
+        "sujeto": "plaza Habima",
+        "relacion": "PARTIR_CULMINAR",
+        "objeto": "FDI"
+      },
+      {
+        "sujeto": "Tel Aviv",
+        "relacion": "PARTIR_CULMINAR",
+        "objeto": "Fuerzas de Defensa de Israel"
+      },
+      {
+        "sujeto": "Tel Aviv",
+        "relacion": "PARTIR_CULMINAR",
+        "objeto": "FDI"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "PARTIR_CULMINAR",
+        "objeto": "Fuerzas de Defensa de Israel"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "PARTIR_CULMINAR",
+        "objeto": "FDI"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.886,
+    "pos": 0.014,
+    "neu": 0.943,
+    "neg": 0.044,
+    "label": "negative"
+  }
+}

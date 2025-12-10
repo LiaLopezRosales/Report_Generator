@@ -1,0 +1,795 @@
+{
+  "url": "https://www.telesurtv.net/intensas-lluvias-profundizan-la-crisis-humanitaria-en-la-franja-de-gaza/",
+  "title": "Intensas lluvias profundizan la crisis humanitaria en la Franja de Gaza - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Crisis humanitaria",
+    "Gaza",
+    "lluvias"
+  ],
+  "text": "Una situación preocupante vuelve a afectar a los campamentos humanitarios en Gaza, ya que las intensas lluvias en la región han provocado inundaciones en estos espacios.\nLa Agencia de las Naciones Unidas para los Refugiados Palestinos (Unrwa) ha alertado que alrededor de 500.000 personas están en peligro debido a las inundaciones y a la falta de refugio adecuado.\nLas tiendas de campaña, que debieron ser un refugio temporal, están ahora en condiciones precarias debido a las lluvias, dejando a miles de familias vulnerables ante las inclemencias del tiempo sin ningún tipo de resguardo efectivo.\nAdemás, se ha registrado un incremento en los ataques aéreos israelíes, lo que ha llevado a una mayor destrucción en la zona.\nA esta ya crítica situación se suma la escasez de alimentos, agua potable y atención médica, lo que empuja a Gaza hacia una crisis aún más severa, con dos millones de personas en necesidad urgente, es fundamental implementar acciones que mitiguen este sufrimiento.\nEn medio de este desastre, el representante permanente de Rusia ante la ONU ha criticado a Estados Unidos por haber bloqueado una resolución del Consejo de Seguridad que proponía un alto el fuego en Gaza.\nEl director del Hospital Al-Quds de la Sociedad de la Media Luna Roja en la Franja de Gaza, Bashar MuraD, reveló que más de 10.000 tiendas de campaña en Mawasi Khan Yunis fueron arrastradas por los fuertes vientos y la lluvia, lo cual forzó a los civiles desplazados a trasladar sus tiendas a zonas alejadas de la playa en condiciones muy difíciles y duras.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/intensas-lluvias-profundizan-la-crisis-humanitaria-en-la-franja-de-gaza/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-11.json",
+    "message_index": 285,
+    "message_id": 81192,
+    "date": "2024-11-26T11:55:12+00:00",
+    "text": "teleSUR\nIntensas lluvias profundizan la crisis humanitaria en la Franja de Gaza\nhttps://www.telesurtv.net/intensas-lluvias-profundizan-la-crisis-humanitaria-en-la-franja-de-gaza/",
+    "photo_path": null,
+    "views": 2353,
+    "reactions": {
+      "😢": 32,
+      "🤬": 8,
+      "🙏": 4
+    },
+    "total_reactions": 44
+  },
+  "preprocessing": {
+    "cleaned": "una situación preocupante vuelve a afectar a los campamentos humanitarios en gaza, ya que las intensas lluvias en la región han provocado inundaciones en estos espacios. la agencia de las naciones unidas para los refugiados palestinos (unrwa) ha alertado que alrededor de 500.000 personas están en peligro debido a las inundaciones y a la falta de refugio adecuado. las tiendas de campaña, que debieron ser un refugio temporal, están ahora en condiciones precarias debido a las lluvias, dejando a miles de familias vulnerables ante las inclemencias del tiempo sin ningún tipo de resguardo efectivo. además, se ha registrado un incremento en los ataques aéreos israelíes, lo que ha llevado a una mayor destrucción en la zona. a esta ya crítica situación se suma la escasez de alimentos, agua potable y atención médica, lo que empuja a gaza hacia una crisis aún más severa, con dos millones de personas en necesidad urgente, es fundamental implementar acciones que mitiguen este sufrimiento. en medio de este desastre, el representante permanente de rusia ante la onu ha criticado a estados unidos por haber bloqueado una resolución del consejo de seguridad que proponía un alto el fuego en gaza. el director del hospital al-quds de la sociedad de la media luna roja en la franja de gaza, bashar murad, reveló que más de 10.000 tiendas de campaña en mawasi khan yunis fueron arrastradas por los fuertes vientos y la lluvia, lo cual forzó a los civiles desplazados a trasladar sus tiendas a zonas alejadas de la playa en condiciones muy difíciles y duras.",
+    "tokens": [
+      "situación",
+      "preocupante",
+      "vuelve",
+      "afectar",
+      "campamentos",
+      "humanitarios",
+      "gaza",
+      ",",
+      "intensas",
+      "lluvias",
+      "región",
+      "provocado",
+      "inundaciones",
+      "espacios",
+      ".",
+      "agencia",
+      "naciones",
+      "unidas",
+      "refugiados",
+      "palestinos",
+      "(",
+      "unrwa",
+      ")",
+      "alertado",
+      "alrededor",
+      "500.000",
+      "personas",
+      "peligro",
+      "debido",
+      "inundaciones",
+      "falta",
+      "refugio",
+      "adecuado",
+      ".",
+      "tiendas",
+      "campaña",
+      ",",
+      "debieron",
+      "ser",
+      "refugio",
+      "temporal",
+      ",",
+      "ahora",
+      "condiciones",
+      "precarias",
+      "debido",
+      "lluvias",
+      ",",
+      "dejando",
+      "miles",
+      "familias",
+      "vulnerables",
+      "inclemencias",
+      "tiempo",
+      "ningún",
+      "tipo",
+      "resguardo",
+      "efectivo",
+      ".",
+      "además",
+      ",",
+      "registrado",
+      "incremento",
+      "ataques",
+      "aéreos",
+      "israelíes",
+      ",",
+      "llevado",
+      "mayor",
+      "destrucción",
+      "zona",
+      ".",
+      "crítica",
+      "situación",
+      "suma",
+      "escasez",
+      "alimentos",
+      ",",
+      "agua",
+      "potable",
+      "atención",
+      "médica",
+      ",",
+      "empuja",
+      "gaza",
+      "hacia",
+      "crisis",
+      "aún",
+      "severa",
+      ",",
+      "dos",
+      "millones",
+      "personas",
+      "necesidad",
+      "urgente",
+      ",",
+      "fundamental",
+      "implementar",
+      "acciones",
+      "mitiguen",
+      "sufrimiento",
+      ".",
+      "medio",
+      "desastre",
+      ",",
+      "representante",
+      "permanente",
+      "rusia",
+      "onu",
+      "criticado",
+      "unidos",
+      "haber",
+      "bloqueado",
+      "resolución",
+      "consejo",
+      "seguridad",
+      "proponía",
+      "alto",
+      "fuego",
+      "gaza",
+      ".",
+      "director",
+      "hospital",
+      "al-quds",
+      "sociedad",
+      "media",
+      "luna",
+      "roja",
+      "franja",
+      "gaza",
+      ",",
+      "bashar",
+      "murad",
+      ",",
+      "reveló",
+      "10.000",
+      "tiendas",
+      "campaña",
+      "mawasi",
+      "khan",
+      "yunis",
+      "arrastradas",
+      "fuertes",
+      "vientos",
+      "lluvia",
+      ",",
+      "forzó",
+      "civiles",
+      "desplazados",
+      "trasladar",
+      "tiendas",
+      "zonas",
+      "alejadas",
+      "playa",
+      "condiciones",
+      "difíciles",
+      "duras",
+      "."
+    ],
+    "token_count": 158,
+    "sentence_count": 7
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 34,
+      "NN": 73,
+      "FW": 54,
+      "NNS": 21,
+      "VBP": 13,
+      "JJ": 26,
+      "IN": 13,
+      "CD": 2,
+      "RB": 1,
+      "VBZ": 2,
+      "VB": 1,
+      "VBD": 1
+    },
+    "bigram_freq": {
+      "NNP-NN": 12,
+      "NN-NN": 38,
+      "NN-FW": 4,
+      "FW-NN": 6,
+      "NN-NNS": 8,
+      "NNS-VBP": 12,
+      "VBP-NNP": 1,
+      "VBP-JJ": 7,
+      "JJ-FW": 4,
+      "FW-FW": 32,
+      "NNS-IN": 2,
+      "IN-FW": 6,
+      "FW-NNS": 2,
+      "NNS-NNP": 1,
+      "NNP-NNP": 13,
+      "NNP-IN": 3,
+      "FW-NNP": 9,
+      "NN-NNP": 5,
+      "NN-JJ": 9,
+      "JJ-NN": 15,
+      "NN-IN": 7,
+      "IN-CD": 2,
+      "CD-NNS": 2,
+      "VBP-IN": 1,
+      "IN-NN": 2,
+      "NNP-FW": 5,
+      "JJ-JJ": 3,
+      "IN-NNS": 1,
+      "JJ-NNS": 3,
+      "NNS-RB": 1,
+      "RB-VBP": 1,
+      "VBP-NNS": 3,
+      "NNS-JJ": 1,
+      "FW-JJ": 5,
+      "JJ-NNP": 1,
+      "NNP-VBZ": 1,
+      "VBZ-VB": 1,
+      "VB-JJ": 1,
+      "IN-NNP": 2,
+      "NN-VBD": 1,
+      "VBD-NNP": 1,
+      "NNS-FW": 2,
+      "NN-VBZ": 1,
+      "VBZ-NNS": 1,
+      "VBP-FW": 1,
+      "NNS-NNS": 1
+    },
+    "trigram_freq": {
+      "NNP-NN-NN": 9,
+      "NN-NN-FW": 2,
+      "NN-FW-NN": 2,
+      "FW-NN-NN": 5,
+      "NN-NN-NN": 14,
+      "NN-NN-NNS": 5,
+      "NN-NNS-VBP": 7,
+      "NNS-VBP-NNP": 1,
+      "VBP-NNP-NN": 1,
+      "NNS-VBP-JJ": 7,
+      "VBP-JJ-FW": 2,
+      "JJ-FW-FW": 2,
+      "FW-FW-FW": 19,
+      "FW-FW-NN": 3,
+      "NN-NNS-IN": 1,
+      "NNS-IN-FW": 2,
+      "IN-FW-NNS": 1,
+      "FW-NNS-NNP": 1,
+      "NNS-NNP-NNP": 1,
+      "NNP-NNP-IN": 2,
+      "NNP-IN-FW": 2,
+      "IN-FW-NNP": 2,
+      "FW-NNP-NNP": 4,
+      "NNP-NNP-NN": 5,
+      "NN-NN-NNP": 5,
+      "NN-NNP-NNP": 2,
+      "NNP-NNP-NNP": 4,
+      "NN-NN-JJ": 7,
+      "NN-JJ-NN": 6,
+      "JJ-NN-IN": 3,
+      "NN-IN-CD": 2,
+      "IN-CD-NNS": 2,
+      "CD-NNS-VBP": 1,
+      "NNS-VBP-IN": 1,
+      "VBP-IN-NN": 1,
+      "IN-NN-NN": 1,
+      "FW-FW-NNP": 6,
+      "FW-NNP-FW": 4,
+      "NNP-FW-FW": 3,
+      "NN-JJ-JJ": 1,
+      "JJ-JJ-JJ": 1,
+      "JJ-JJ-NN": 2,
+      "JJ-NN-NN": 9,
+      "NN-NN-IN": 4,
+      "NN-IN-NNS": 1,
+      "IN-NNS-VBP": 1,
+      "VBP-JJ-NNS": 2,
+      "JJ-NNS-VBP": 1,
+      "JJ-NNS-RB": 1,
+      "NNS-RB-VBP": 1,
+      "RB-VBP-NNS": 1,
+      "VBP-NNS-VBP": 1,
+      "NNS-VBP-NNS": 2,
+      "VBP-NNS-JJ": 1,
+      "NNS-JJ-FW": 1,
+      "JJ-FW-JJ": 2,
+      "FW-JJ-NN": 4,
+      "JJ-NN-JJ": 1,
+      "NN-IN-FW": 2,
+      "IN-FW-FW": 3,
+      "NNP-FW-NN": 1,
+      "NN-IN-NN": 1,
+      "IN-NN-NNS": 1,
+      "VBP-JJ-NN": 3,
+      "FW-NN-FW": 1,
+      "NN-FW-FW": 2,
+      "FW-FW-JJ": 3,
+      "NN-JJ-NNP": 1,
+      "JJ-NNP-NN": 1,
+      "NNP-NN-JJ": 1,
+      "NN-JJ-NNS": 1,
+      "JJ-NNS-IN": 1,
+      "FW-JJ-FW": 1,
+      "JJ-NN-NNS": 2,
+      "NN-NNP-NN": 2,
+      "NNP-NN-FW": 1,
+      "FW-NNP-NN": 1,
+      "NNP-NNP-VBZ": 1,
+      "NNP-VBZ-VB": 1,
+      "VBZ-VB-JJ": 1,
+      "VB-JJ-JJ": 1,
+      "NN-NNP-IN": 1,
+      "NNP-IN-NNP": 1,
+      "IN-NNP-NN": 1,
+      "NN-IN-NNP": 1,
+      "IN-NNP-NNP": 1,
+      "NNP-NN-VBD": 1,
+      "NN-VBD-NNP": 1,
+      "VBD-NNP-NNP": 1,
+      "NNP-NNP-FW": 1,
+      "NNP-FW-NNP": 1,
+      "CD-NNS-FW": 1,
+      "NNS-FW-FW": 2,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-NNS": 1,
+      "VBZ-NNS-FW": 1,
+      "NNS-VBP-FW": 1,
+      "VBP-FW-FW": 1,
+      "FW-FW-NNS": 1,
+      "FW-NNS-VBP": 1,
+      "VBP-NNS-NNS": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 73,
+        "FW": 54,
+        "NNP": 34,
+        "JJ": 26,
+        "NNS": 21
+      },
+      "top_bigrams": {
+        "NN-NN": 38,
+        "FW-FW": 32,
+        "JJ-NN": 15,
+        "NNP-NNP": 13,
+        "NNP-NN": 12
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 19,
+        "NN-NN-NN": 14,
+        "NNP-NN-NN": 9,
+        "JJ-NN-NN": 9,
+        "NN-NNS-VBP": 7
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 7,
+    "chunk_counts": {
+      "NP": 73,
+      "VP": 22,
+      "PP": 8,
+      "ADJP": 3
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 6,
+        "weight": 0.0531
+      },
+      {
+        "rule": "NP -> ('Gaza', 'NNP')",
+        "frequency": 3,
+        "weight": 0.0265
+      },
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0177
+      },
+      {
+        "rule": "S -> NP VP VP (',', ',') ('ya', 'RB') NP VP ('en', 'FW') ('la', 'FW') ('región', 'FW') NP PP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0088
+      },
+      {
+        "rule": "NP -> ('Una', 'NNP') ('situación', 'NN') ('preocupante', 'NN')",
+        "frequency": 1,
+        "weight": 0.0088
+      },
+      {
+        "rule": "VP -> ('vuelve', 'VBP') NP NP",
+        "frequency": 1,
+        "weight": 0.0088
+      },
+      {
+        "rule": "NP -> ('a', 'DT') ('afectar', 'NN')",
+        "frequency": 1,
+        "weight": 0.0088
+      },
+      {
+        "rule": "NP -> ('a', 'DT') ('los', 'NN') ('campamentos', 'NN') ('humanitarios', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0088
+      },
+      {
+        "rule": "VP -> ('en', 'VBP') NP",
+        "frequency": 1,
+        "weight": 0.0088
+      },
+      {
+        "rule": "NP -> ('que', 'JJ') ('las', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0088
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Una situación preocupante"
+      },
+      {
+        "label": "VP",
+        "text": "vuelve a afectar a los campamentos humanitarios"
+      },
+      {
+        "label": "NP",
+        "text": "a afectar"
+      },
+      {
+        "label": "NP",
+        "text": "a los campamentos humanitarios"
+      },
+      {
+        "label": "VP",
+        "text": "en Gaza"
+      },
+      {
+        "label": "NP",
+        "text": "Gaza"
+      },
+      {
+        "label": "NP",
+        "text": "que las"
+      },
+      {
+        "label": "VP",
+        "text": "intensas lluvias"
+      },
+      {
+        "label": "NP",
+        "text": "han provocado inundaciones"
+      },
+      {
+        "label": "PP",
+        "text": "en estos espacios"
+      },
+      {
+        "label": "NP",
+        "text": "estos espacios"
+      },
+      {
+        "label": "NP",
+        "text": "La Agencia"
+      },
+      {
+        "label": "NP",
+        "text": "Naciones Unidas para los Refugiados Palestinos"
+      },
+      {
+        "label": "NP",
+        "text": "Unrwa"
+      },
+      {
+        "label": "NP",
+        "text": "ha alertado"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Una/NNP situación/NN preocupante/NN)\n  (VP\n    vuelve/VBP\n    (NP a/DT afectar/NN)\n    (NP a/DT los/NN campamentos/NN humanitarios/NNS))\n  (VP en/VBP (NP Gaza/NNP))\n  ,/,\n  ya/RB\n  (NP que/JJ las/NNS)\n  (VP intensas/VBP lluvias/JJ)\n  en/FW\n  la/FW\n  región/FW\n  (NP han/NN provocado/NN inundaciones/NNS)\n  (PP en/IN (NP estos/JJ espacios/NNS))\n  ./.)",
+      "(S\n  (NP La/NNP Agencia/NNP)\n  de/IN\n  las/FW\n  (NP\n    Naciones/NNP\n    Unidas/NNP\n    para/NN\n    los/NN\n    Refugiados/NNP\n    Palestinos/NNP)\n  (/(\n  (NP Unrwa/NNP)\n  )/)\n  (NP ha/NN alertado/NN)\n  (NP que/JJ alrededor/NN)\n  de/IN\n  500.000/CD\n  (NP personas/NNS)\n  (VP están/VBP)\n  (PP en/IN (NP peligro/NN debido/NN))\n  (NP a/DT las/JJ inundaciones/NNS)\n  (VP y/VBP (NP a/DT la/NN falta/NN))\n  de/IN\n  refugio/FW\n  (NP adecuado/NN)\n  ./.)",
+      "(S\n  (NP Las/NNP tiendas/NN)\n  de/FW\n  (NP campaña/NN)\n  ,/,\n  (NP que/JJ debieron/NN ser/NN)\n  (ADJP un/JJ)\n  (ADJP refugio/JJ)\n  (ADJP temporal/JJ)\n  ,/,\n  (NP están/JJ ahora/NN)\n  (PP en/IN (NP condiciones/NNS precarias/NNS))\n  (VP debido/VBP (NP a/DT las/NN lluvias/NN))\n  ,/,\n  (VP dejando/VB (NP a/DT miles/NNS))\n  (PP de/IN (NP familias/NN vulnerables/NNS))\n  (VP ante/VBP (NP las/NNS) inclemencias/JJ)\n  del/FW\n  (NP tiempo/JJ sin/NN)\n  (NP ningún/JJ tipo/NN)\n  de/IN\n  resguardo/FW\n  (NP efectivo/NN)\n  ./.)",
+      "(S\n  (NP Además/NNP)\n  ,/,\n  (VP se/VBD (NP ha/JJ registrado/NN) (NP un/JJ incremento/NN))\n  (PP en/IN (NP los/NN ataques/NNS))\n  (VP aéreos/VBP (NP israelíes/NN))\n  ,/,\n  (NP lo/JJ que/NN ha/NN)\n  (VP llevado/VBZ (NP a/DT una/JJ mayor/NN destrucción/NN))\n  (PP en/IN (NP la/NN zona/NN))\n  ./.)",
+      "(S\n  (NP A/DT esta/JJ ya/NN crítica/NN situación/NN)\n  se/FW\n  (NP suma/NN)\n  la/FW\n  escasez/FW\n  de/FW\n  alimentos/FW\n  ,/,\n  agua/FW\n  (NP potable/JJ y/NN atención/NN médica/NN)\n  ,/,\n  (NP lo/JJ que/NN)\n  (VP\n    empuja/VBZ\n    (NP a/DT Gaza/NNP hacia/NN)\n    (NP una/JJ crisis/NN aún/NN más/NN severa/NN))\n  ,/,\n  (NP con/NN dos/NN millones/NNS)\n  de/IN\n  personas/FW\n  en/FW\n  necesidad/FW\n  (NP urgente/NN)\n  ,/,\n  (NP es/JJ fundamental/JJ implementar/NN acciones/NNS)\n  (VP que/VBP (NP mitiguen/JJ este/NN sufrimiento/NN))\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "RECURSOS_NATURALES",
+      "ORGANISMOS_INTERNACIONALES",
+      "CANTIDADES_NUMERICAS",
+      "REGIONES_PROVINCIAS",
+      "CRISIS_HUMANITARIA_SERVICIOS",
+      "PAISES",
+      "LOCALIZACIONES_ESPECIFICAS",
+      "INFRAESTRUCTURA_SERVICIOS",
+      "CONFLICTOS_ARMADOS_OPERACIONES"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "ataques aéreos israelíes",
+        "position": [
+          645,
+          669
+        ],
+        "start": 645,
+        "end": 669
+      },
+      {
+        "category": "CRISIS_HUMANITARIA_SERVICIOS",
+        "matched_text": "escasez de alimentos, agua potable y atención médica, lo que empuja a gaza hacia una crisis aún más severa, con dos millones",
+        "position": [
+          764,
+          888
+        ],
+        "start": 764,
+        "end": 888
+      },
+      {
+        "category": "CRISIS_HUMANITARIA_SERVICIOS",
+        "matched_text": "escasez de alimentos",
+        "position": [
+          764,
+          784
+        ],
+        "start": 764,
+        "end": 784
+      },
+      {
+        "category": "ORGANISMOS_INTERNACIONALES",
+        "matched_text": "naciones unidas",
+        "position": [
+          188,
+          203
+        ],
+        "start": 188,
+        "end": 203
+      },
+      {
+        "category": "RECURSOS_NATURALES",
+        "matched_text": "agua",
+        "position": [
+          786,
+          790
+        ],
+        "start": 786,
+        "end": 790
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "hospital",
+        "position": [
+          1211,
+          1219
+        ],
+        "start": 1211,
+        "end": 1219
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "agua potable",
+        "position": [
+          786,
+          798
+        ],
+        "start": 786,
+        "end": 798
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "estados unidos",
+        "position": [
+          1081,
+          1095
+        ],
+        "start": 1081,
+        "end": 1095
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "rusia",
+        "position": [
+          1048,
+          1053
+        ],
+        "start": 1048,
+        "end": 1053
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "región han",
+        "position": [
+          117,
+          127
+        ],
+        "start": 117,
+        "end": 127
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "hospital al",
+        "position": [
+          1211,
+          1222
+        ],
+        "start": 1211,
+        "end": 1222
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "000 personas",
+        "position": [
+          276,
+          288
+        ],
+        "start": 276,
+        "end": 288
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "500.000 personas",
+        "position": [
+          272,
+          288
+        ],
+        "start": 272,
+        "end": 288
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "alrededor de 500.000",
+        "position": [
+          259,
+          279
+        ],
+        "start": 259,
+        "end": 279
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "más de 10.000",
+        "position": [
+          1312,
+          1325
+        ],
+        "start": 1312,
+        "end": 1325
+      }
+    ],
+    "match_count": 15
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Consejo de Seguridad",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Franja de Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Sociedad de la Media Luna Roja",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Agencia de las Naciones Unidas para los Refugiados Palestinos",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Rusia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Estados Unidos",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Bashar MuraD",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "ONU",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Mawasi Khan Yunis",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Hospital Al-Quds",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Rusia",
+        "relacion": "CRITICAR",
+        "objeto": "Estados Unidos"
+      },
+      {
+        "sujeto": "Rusia",
+        "relacion": "CRITICAR",
+        "objeto": "Consejo de Seguridad"
+      },
+      {
+        "sujeto": "Rusia",
+        "relacion": "CRITICAR",
+        "objeto": "Gaza"
+      },
+      {
+        "sujeto": "ONU",
+        "relacion": "CRITICAR",
+        "objeto": "Estados Unidos"
+      },
+      {
+        "sujeto": "ONU",
+        "relacion": "CRITICAR",
+        "objeto": "Consejo de Seguridad"
+      },
+      {
+        "sujeto": "ONU",
+        "relacion": "CRITICAR",
+        "objeto": "Gaza"
+      },
+      {
+        "sujeto": "Estados Unidos",
+        "relacion": "CRITICAR",
+        "objeto": "Consejo de Seguridad"
+      },
+      {
+        "sujeto": "Estados Unidos",
+        "relacion": "CRITICAR",
+        "objeto": "Gaza"
+      },
+      {
+        "sujeto": "Hospital Al-Quds",
+        "relacion": "REVELAR",
+        "objeto": "Mawasi Khan Yunis"
+      },
+      {
+        "sujeto": "Sociedad de la Media Luna Roja",
+        "relacion": "REVELAR",
+        "objeto": "Mawasi Khan Yunis"
+      },
+      {
+        "sujeto": "Franja de Gaza",
+        "relacion": "REVELAR",
+        "objeto": "Mawasi Khan Yunis"
+      },
+      {
+        "sujeto": "Bashar MuraD",
+        "relacion": "REVELAR",
+        "objeto": "Mawasi Khan Yunis"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.0258,
+    "pos": 0.038,
+    "neu": 0.931,
+    "neg": 0.031,
+    "label": "neutral"
+  }
+}

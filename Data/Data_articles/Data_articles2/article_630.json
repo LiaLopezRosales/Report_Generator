@@ -1,0 +1,905 @@
+{
+  "url": "https://www.telesurtv.net/onu-afirma-que-gobierno-paralelo-en-sudan-no-facilitara-el-fin-conflicto/",
+  "title": "ONU afirma que gobierno paralelo en Sudán no facilitará el fin del conflicto en el país - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "António Guterres",
+    "gobierno paralelo",
+    "Organización de Naciones Unidas (ONU)"
+  ],
+  "text": "António Guterres, secretario general de la Organización de Naciones Unidas (ONU), afirmó el miércoles que la proclamación de un gobierno paralelo en Sudán realizada por el grupo terrorista, Fuerzas paramilitares de Apoyo Rápido (FAR), no va a propiciar el término de la guerra civil que ya ha durado dos años.\nEl líder terrorista Mohamed Hamdan Dagalo “Hemedti” anunció ese gobierno paralelo, afirmando que “representa el verdadero rostro de Sudán” y que, de acuerdo con él, funcionará “en todo Sudán” y no únicamente en las zonas bajo el control de las FAR.\nDe igual manera, dicha acción implica dar “pasos que pueden profundizar la fragmentación del país y agravar aún más la crisis”, afirmó la oficina del portavoz de Guterres, para quien la conservación de la unidad y la integridad territorial del país “es un principio fundamental para una solución sostenible del conflicto”.\nEl gobierno paralelo “no va a acercar a Sudán lo más mínimo a la solución del conflicto, alcanzable solo mediante un diálogo inclusivo”, agregó.\nActualmente, las FAR tienen el control de ciertas áreas de Kordofán (centro), junto con los cinco estados de la amplia región de Darfur, a excepción de Al Fasher, la capital del estado de Darfur Norte y el único bastión militar en la zona occidental del país, que tiene fronteras con Libia y Chad.\nLa situación presente en el campo hace que Al Fasher se transforme en un “punto crucial” en el conflicto, pues, de acuerdo con especialistas árabes y locales, podría funcionar como base para el gobierno paralelo de Hemedti si cae en manos de los paramilitares.\nDurante sus dos años, el conflicto ha provocado la muerte de decenas de miles de individuos y el desplazamiento de más de doce millones, de los cuales más de tres millones se refugiaron en naciones vecinas, especialmente Sudán del Sur, Chad y Egipto.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/onu-afirma-que-gobierno-paralelo-en-sudan-no-facilitara-el-fin-conflicto/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-04.json",
+    "message_index": 901,
+    "message_id": 92068,
+    "date": "2025-04-17T06:55:07+00:00",
+    "text": "teleSUR\nONU afirma que gobierno paralelo en Sudán no facilitará el fin conflicto\nhttps://www.telesurtv.net/onu-afirma-que-gobierno-paralelo-en-sudan-no-facilitara-el-fin-conflicto/",
+    "photo_path": null,
+    "views": 2089,
+    "reactions": {
+      "🤔": 34,
+      "🔥": 2
+    },
+    "total_reactions": 36
+  },
+  "preprocessing": {
+    "cleaned": "antónio guterres, secretario general de la organización de naciones unidas (onu), afirmó el miércoles que la proclamación de un gobierno paralelo en sudán realizada por el grupo terrorista, fuerzas paramilitares de apoyo rápido (far), no va a propiciar el término de la guerra civil que ya ha durado dos años. el líder terrorista mohamed hamdan dagalo “hemedti” anunció ese gobierno paralelo, afirmando que “representa el verdadero rostro de sudán” y que, de acuerdo con él, funcionará “en todo sudán” y no únicamente en las zonas bajo el control de las far. de igual manera, dicha acción implica dar “pasos que pueden profundizar la fragmentación del país y agravar aún más la crisis”, afirmó la oficina del portavoz de guterres, para quien la conservación de la unidad y la integridad territorial del país “es un principio fundamental para una solución sostenible del conflicto”. el gobierno paralelo “no va a acercar a sudán lo más mínimo a la solución del conflicto, alcanzable solo mediante un diálogo inclusivo”, agregó. actualmente, las far tienen el control de ciertas áreas de kordofán (centro), junto con los cinco estados de la amplia región de darfur, a excepción de al fasher, la capital del estado de darfur norte y el único bastión militar en la zona occidental del país, que tiene fronteras con libia y chad. la situación presente en el campo hace que al fasher se transforme en un “punto crucial” en el conflicto, pues, de acuerdo con especialistas árabes y locales, podría funcionar como base para el gobierno paralelo de hemedti si cae en manos de los paramilitares. durante sus dos años, el conflicto ha provocado la muerte de decenas de miles de individuos y el desplazamiento de más de doce millones, de los cuales más de tres millones se refugiaron en naciones vecinas, especialmente sudán del sur, chad y egipto.",
+    "tokens": [
+      "antónio",
+      "guterres",
+      ",",
+      "secretario",
+      "general",
+      "organización",
+      "naciones",
+      "unidas",
+      "(",
+      "onu",
+      ")",
+      ",",
+      "afirmó",
+      "miércoles",
+      "proclamación",
+      "gobierno",
+      "paralelo",
+      "sudán",
+      "realizada",
+      "grupo",
+      "terrorista",
+      ",",
+      "fuerzas",
+      "paramilitares",
+      "apoyo",
+      "rápido",
+      "(",
+      "far",
+      ")",
+      ",",
+      "va",
+      "propiciar",
+      "término",
+      "guerra",
+      "civil",
+      "durado",
+      "dos",
+      "años",
+      ".",
+      "líder",
+      "terrorista",
+      "mohamed",
+      "hamdan",
+      "dagalo",
+      "“",
+      "hemedti",
+      "”",
+      "anunció",
+      "gobierno",
+      "paralelo",
+      ",",
+      "afirmando",
+      "“",
+      "representa",
+      "verdadero",
+      "rostro",
+      "sudán",
+      "”",
+      ",",
+      "acuerdo",
+      ",",
+      "funcionará",
+      "“",
+      "sudán",
+      "”",
+      "únicamente",
+      "zonas",
+      "bajo",
+      "control",
+      "far",
+      ".",
+      "igual",
+      "manera",
+      ",",
+      "dicha",
+      "acción",
+      "implica",
+      "dar",
+      "“",
+      "pasos",
+      "pueden",
+      "profundizar",
+      "fragmentación",
+      "país",
+      "agravar",
+      "aún",
+      "crisis",
+      "”",
+      ",",
+      "afirmó",
+      "oficina",
+      "portavoz",
+      "guterres",
+      ",",
+      "conservación",
+      "unidad",
+      "integridad",
+      "territorial",
+      "país",
+      "“",
+      "principio",
+      "fundamental",
+      "solución",
+      "sostenible",
+      "conflicto",
+      "”",
+      ".",
+      "gobierno",
+      "paralelo",
+      "“",
+      "va",
+      "acercar",
+      "sudán",
+      "mínimo",
+      "solución",
+      "conflicto",
+      ",",
+      "alcanzable",
+      "solo",
+      "mediante",
+      "diálogo",
+      "inclusivo",
+      "”",
+      ",",
+      "agregó",
+      ".",
+      "actualmente",
+      ",",
+      "far",
+      "control",
+      "ciertas",
+      "áreas",
+      "kordofán",
+      "(",
+      "centro",
+      ")",
+      ",",
+      "junto",
+      "cinco",
+      "amplia",
+      "región",
+      "darfur",
+      ",",
+      "excepción",
+      "fasher",
+      ",",
+      "capital",
+      "darfur",
+      "norte",
+      "único",
+      "bastión",
+      "militar",
+      "zona",
+      "occidental",
+      "país",
+      ",",
+      "fronteras",
+      "libia",
+      "chad",
+      ".",
+      "situación",
+      "presente",
+      "campo",
+      "hace",
+      "fasher",
+      "transforme",
+      "“",
+      "punto",
+      "crucial",
+      "”",
+      "conflicto",
+      ",",
+      "pues",
+      ",",
+      "acuerdo",
+      "especialistas",
+      "árabes",
+      "locales",
+      ",",
+      "podría",
+      "funcionar",
+      "base",
+      "gobierno",
+      "paralelo",
+      "hemedti",
+      "si",
+      "cae",
+      "manos",
+      "paramilitares",
+      ".",
+      "dos",
+      "años",
+      ",",
+      "conflicto",
+      "provocado",
+      "muerte",
+      "decenas",
+      "miles",
+      "individuos",
+      "desplazamiento",
+      "doce",
+      "millones",
+      ",",
+      "cuales",
+      "tres",
+      "millones",
+      "refugiaron",
+      "naciones",
+      "vecinas",
+      ",",
+      "especialmente",
+      "sudán",
+      "sur",
+      ",",
+      "chad",
+      "egipto",
+      "."
+    ],
+    "token_count": 217,
+    "sentence_count": 7
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 47,
+      "VBD": 4,
+      "JJ": 30,
+      "FW": 75,
+      "VBZ": 6,
+      "NNS": 13,
+      "VBP": 6,
+      "NN": 97,
+      "DT": 3,
+      "IN": 11
+    },
+    "bigram_freq": {
+      "NNP-NNP": 17,
+      "NNP-VBD": 4,
+      "VBD-JJ": 4,
+      "JJ-FW": 6,
+      "FW-FW": 46,
+      "FW-NNP": 9,
+      "NNP-FW": 6,
+      "NNP-VBZ": 5,
+      "VBZ-JJ": 2,
+      "JJ-NNS": 2,
+      "NNS-VBP": 6,
+      "VBP-JJ": 3,
+      "NNP-NN": 8,
+      "NN-NN": 55,
+      "NN-NNP": 10,
+      "VBZ-FW": 2,
+      "NNP-DT": 2,
+      "DT-NN": 2,
+      "NN-VBZ": 1,
+      "JJ-NN": 20,
+      "NN-IN": 7,
+      "IN-FW": 4,
+      "FW-JJ": 5,
+      "NNP-IN": 2,
+      "IN-JJ": 2,
+      "NN-FW": 9,
+      "FW-NN": 11,
+      "IN-NNP": 4,
+      "DT-NNP": 1,
+      "NNP-JJ": 2,
+      "NN-JJ": 11,
+      "JJ-JJ": 1,
+      "NN-DT": 1,
+      "VBZ-NNP": 2,
+      "IN-NNS": 1,
+      "NNS-NNP": 2,
+      "JJ-IN": 1,
+      "NN-NNS": 3,
+      "NNS-IN": 1,
+      "VBP-NNS": 1,
+      "FW-NNS": 4,
+      "NNS-FW": 2,
+      "NNS-NNS": 2,
+      "VBP-NN": 1,
+      "VBP-NNP": 1
+    },
+    "trigram_freq": {
+      "NNP-NNP-VBD": 3,
+      "NNP-VBD-JJ": 4,
+      "VBD-JJ-FW": 4,
+      "JJ-FW-FW": 4,
+      "FW-FW-NNP": 6,
+      "FW-NNP-FW": 2,
+      "NNP-FW-NNP": 2,
+      "FW-NNP-NNP": 6,
+      "NNP-NNP-NNP": 7,
+      "NNP-NNP-VBZ": 2,
+      "NNP-VBZ-JJ": 1,
+      "VBZ-JJ-NNS": 1,
+      "JJ-NNS-VBP": 2,
+      "NNS-VBP-JJ": 3,
+      "VBP-JJ-FW": 1,
+      "FW-FW-FW": 29,
+      "FW-NNP-NN": 1,
+      "NNP-NN-NN": 7,
+      "NN-NN-NN": 32,
+      "NN-NN-NNP": 7,
+      "NN-NNP-VBZ": 3,
+      "NNP-VBZ-FW": 2,
+      "VBZ-FW-NNP": 1,
+      "NNP-NNP-DT": 1,
+      "NNP-DT-NN": 1,
+      "DT-NN-VBZ": 1,
+      "NN-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 1,
+      "JJ-NN-IN": 3,
+      "NN-IN-FW": 3,
+      "IN-FW-FW": 2,
+      "FW-FW-JJ": 3,
+      "FW-JJ-NN": 4,
+      "JJ-NN-NN": 12,
+      "NN-NNP-NN": 3,
+      "NN-NNP-NNP": 3,
+      "NNP-NNP-IN": 1,
+      "NNP-IN-JJ": 1,
+      "IN-JJ-NNS": 1,
+      "VBP-JJ-NN": 2,
+      "NN-NN-FW": 5,
+      "NN-FW-NN": 3,
+      "FW-NN-IN": 2,
+      "NN-IN-NNP": 3,
+      "IN-NNP-FW": 2,
+      "NNP-FW-FW": 3,
+      "FW-FW-NN": 4,
+      "FW-NN-NNP": 2,
+      "NNP-NN-FW": 1,
+      "NN-NNP-DT": 1,
+      "NNP-DT-NNP": 1,
+      "DT-NNP-FW": 1,
+      "FW-NN-FW": 3,
+      "NN-FW-FW": 6,
+      "NNP-NNP-JJ": 1,
+      "NNP-JJ-NN": 1,
+      "NN-NN-JJ": 6,
+      "NN-JJ-NN": 10,
+      "NNP-FW-NN": 1,
+      "JJ-NN-JJ": 4,
+      "NN-JJ-JJ": 1,
+      "JJ-JJ-NN": 1,
+      "NN-NN-DT": 1,
+      "NN-DT-NN": 1,
+      "DT-NN-NN": 1,
+      "VBZ-FW-NN": 1,
+      "FW-NN-JJ": 1,
+      "NNP-VBZ-NNP": 2,
+      "VBZ-NNP-JJ": 1,
+      "NNP-JJ-FW": 1,
+      "JJ-FW-NN": 1,
+      "NN-IN-NNS": 1,
+      "IN-NNS-NNP": 1,
+      "NNS-NNP-IN": 1,
+      "NNP-IN-NNP": 1,
+      "IN-NNP-NN": 1,
+      "IN-FW-JJ": 1,
+      "NNP-NNP-NN": 1,
+      "VBZ-NNP-NN": 1,
+      "NN-NN-IN": 2,
+      "JJ-NN-NNP": 1,
+      "FW-NN-NN": 2,
+      "JJ-FW-JJ": 1,
+      "FW-JJ-IN": 1,
+      "JJ-IN-JJ": 1,
+      "IN-JJ-NN": 1,
+      "NN-NN-NNS": 2,
+      "NN-NNS-IN": 1,
+      "NNS-IN-FW": 1,
+      "IN-FW-NN": 1,
+      "FW-NN-NNS": 1,
+      "NN-NNS-VBP": 1,
+      "NNS-VBP-NNS": 1,
+      "VBP-NNS-VBP": 1,
+      "IN-NNP-VBD": 1,
+      "FW-FW-NNS": 4,
+      "FW-NNS-NNP": 1,
+      "NNS-NNP-NN": 1,
+      "FW-NNS-FW": 2,
+      "NNS-FW-FW": 2,
+      "FW-NNS-NNS": 1,
+      "NNS-NNS-VBP": 2,
+      "NNS-VBP-NN": 1,
+      "VBP-NN-NN": 1,
+      "NN-NNS-NNS": 1,
+      "NNS-VBP-NNP": 1,
+      "VBP-NNP-FW": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 97,
+        "FW": 75,
+        "NNP": 47,
+        "JJ": 30,
+        "NNS": 13
+      },
+      "top_bigrams": {
+        "NN-NN": 55,
+        "FW-FW": 46,
+        "JJ-NN": 20,
+        "NNP-NNP": 17,
+        "FW-NN": 11
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 32,
+        "FW-FW-FW": 29,
+        "JJ-NN-NN": 12,
+        "NN-JJ-NN": 10,
+        "NNP-NNP-NNP": 7
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 7,
+    "chunk_counts": {
+      "NP": 83,
+      "ADJP": 1,
+      "VP": 14,
+      "PP": 7
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 6,
+        "weight": 0.0536
+      },
+      {
+        "rule": "NP -> ('FAR', 'NNP')",
+        "frequency": 3,
+        "weight": 0.0268
+      },
+      {
+        "rule": "NP -> ('no', 'DT') ('va', 'NN')",
+        "frequency": 2,
+        "weight": 0.0179
+      },
+      {
+        "rule": "NP -> ('control', 'NN')",
+        "frequency": 2,
+        "weight": 0.0179
+      },
+      {
+        "rule": "S -> NP (',', ',') NP ADJP ('de', 'FW') ('la', 'FW') NP ('de', 'FW') NP ('(', '(') NP (')', ')') (',', ',') NP VP ('proclamación', 'FW') ('de', 'FW') ('un', 'FW') ('gobierno', 'FW') ('paralelo', 'FW') ('en', 'FW') NP (',', ',') NP VP ('de', 'FW') NP ('(', '(') NP (')', ')') (',', ',') NP NP ('de', 'IN') ('la', 'FW') ('guerra', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0089
+      },
+      {
+        "rule": "NP -> ('António', 'NNP') ('Guterres', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0089
+      },
+      {
+        "rule": "NP -> ('secretario', 'NN')",
+        "frequency": 1,
+        "weight": 0.0089
+      },
+      {
+        "rule": "ADJP -> ('general', 'JJ')",
+        "frequency": 1,
+        "weight": 0.0089
+      },
+      {
+        "rule": "NP -> ('Organización', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0089
+      },
+      {
+        "rule": "NP -> ('Naciones', 'NNP') ('Unidas', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0089
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "António Guterres"
+      },
+      {
+        "label": "NP",
+        "text": "secretario"
+      },
+      {
+        "label": "ADJP",
+        "text": "general"
+      },
+      {
+        "label": "NP",
+        "text": "Organización"
+      },
+      {
+        "label": "NP",
+        "text": "Naciones Unidas"
+      },
+      {
+        "label": "NP",
+        "text": "ONU"
+      },
+      {
+        "label": "NP",
+        "text": "afirmó el miércoles"
+      },
+      {
+        "label": "VP",
+        "text": "que la"
+      },
+      {
+        "label": "NP",
+        "text": "Sudán realizada por el grupo terrorista"
+      },
+      {
+        "label": "NP",
+        "text": "Fuerzas"
+      },
+      {
+        "label": "VP",
+        "text": "paramilitares"
+      },
+      {
+        "label": "NP",
+        "text": "Apoyo Rápido"
+      },
+      {
+        "label": "NP",
+        "text": "FAR"
+      },
+      {
+        "label": "NP",
+        "text": "no va"
+      },
+      {
+        "label": "NP",
+        "text": "a propiciar el término"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP António/NNP Guterres/NNP)\n  ,/,\n  (NP secretario/NN)\n  (ADJP general/JJ)\n  de/FW\n  la/FW\n  (NP Organización/NNP)\n  de/FW\n  (NP Naciones/NNP Unidas/NNP)\n  (/(\n  (NP ONU/NNP)\n  )/)\n  ,/,\n  (NP afirmó/JJ el/NN miércoles/NNS)\n  (VP que/VBP la/JJ)\n  proclamación/FW\n  de/FW\n  un/FW\n  gobierno/FW\n  paralelo/FW\n  en/FW\n  (NP Sudán/NNP realizada/NN por/NN el/NN grupo/NN terrorista/NN)\n  ,/,\n  (NP Fuerzas/NNP)\n  (VP paramilitares/VBZ)\n  de/FW\n  (NP Apoyo/NNP Rápido/NNP)\n  (/(\n  (NP FAR/NNP)\n  )/)\n  ,/,\n  (NP no/DT va/NN)\n  (NP a/DT propiciar/NN el/NN término/NN)\n  de/IN\n  la/FW\n  guerra/FW\n  (NP civil/JJ que/NN ya/NN ha/NN durado/NN dos/NN años/NN)\n  ./.)",
+      "(S\n  (NP\n    El/NNP\n    líder/NN\n    terrorista/NN\n    Mohamed/NNP\n    Hamdan/NNP\n    Dagalo/NNP\n    “/NNP\n    Hemedti/NNP\n    ”/NNP)\n  (PP anunció/IN (NP ese/JJ gobierno/NN paralelo/NN))\n  ,/,\n  (NP afirmando/JJ que/NN “/NNP representa/NN el/NN)\n  verdadero/FW\n  (NP rostro/NN)\n  (PP de/IN (NP Sudán/NNP ”/NNP y/NNP que/NN))\n  ,/,\n  de/FW\n  acuerdo/FW\n  (NP con/NN él/NN)\n  ,/,\n  (NP funcionará/JJ “/NNP)\n  en/FW\n  (NP todo/NN Sudán/NNP ”/NNP)\n  (VP y/VBZ (NP no/DT únicamente/NNP))\n  en/FW\n  las/FW\n  zonas/FW\n  bajo/FW\n  el/FW\n  (NP control/NN)\n  de/FW\n  las/FW\n  (NP FAR/NNP)\n  ./.)",
+      "(S\n  (NP De/NNP)\n  (NP igual/JJ manera/NN)\n  ,/,\n  (NP dicha/NN acción/NN implica/NN dar/NN “/NNP pasos/NN que/NN)\n  (NP pueden/JJ profundizar/NN la/NN)\n  (NP\n    fragmentación/JJ\n    del/NN\n    país/NN\n    y/NN\n    agravar/NN\n    aún/NN\n    más/NN\n    la/NN\n    crisis/NN\n    ”/NNP)\n  ,/,\n  (NP afirmó/NN la/NN)\n  oficina/FW\n  del/FW\n  portavoz/FW\n  de/FW\n  (NP Guterres/NNP)\n  ,/,\n  (NP para/NN quien/NN)\n  la/FW\n  conservación/FW\n  de/FW\n  la/FW\n  unidad/FW\n  y/FW\n  la/FW\n  integridad/FW\n  (NP territorial/JJ del/NN país/NN “/NNP)\n  (VP\n    es/VBZ\n    (NP un/JJ principio/NN)\n    (NP fundamental/JJ para/NN)\n    (NP una/JJ solución/NN)\n    (NP sostenible/JJ del/NN conflicto/NN ”/NN))\n  ./.)",
+      "(S\n  (NP El/NNP gobierno/NN paralelo/NN)\n  (VP\n    “/VBZ\n    (NP no/DT va/NN)\n    (NP a/DT acercar/NN)\n    (NP a/DT Sudán/NNP lo/NN más/NN))\n  (VP mínimo/VBD (NP a/DT la/NN solución/NN del/NN conflicto/NN))\n  ,/,\n  (NP alcanzable/JJ solo/NN mediante/NN)\n  (NP un/JJ diálogo/NN inclusivo/NN ”/NNP)\n  ,/,\n  (NP agregó/NN)\n  ./.)",
+      "(S\n  (NP Actualmente/NNP)\n  ,/,\n  (VP las/VBZ (NP FAR/NNP) tienen/JJ)\n  el/FW\n  (NP control/NN)\n  (PP de/IN (NP ciertas/NNS áreas/NNP))\n  (PP de/IN (NP Kordofán/NNP))\n  (/(\n  (NP centro/NN)\n  )/)\n  ,/,\n  (NP junto/JJ con/NN los/NN)\n  (NP cinco/JJ estados/NN)\n  de/IN\n  la/FW\n  (NP amplia/JJ región/NN)\n  (PP de/IN (NP Darfur/NNP))\n  ,/,\n  (NP a/DT excepción/NN)\n  (PP de/IN (NP Al/NNP Fasher/NNP))\n  ,/,\n  (NP la/JJ capital/NN del/NN)\n  estado/FW\n  de/FW\n  (NP Darfur/NNP Norte/NNP y/NNP)\n  (VP el/VBZ (NP único/NNP bastión/NN militar/NN))\n  en/IN\n  la/FW\n  zona/FW\n  (NP occidental/JJ del/NN país/NN)\n  ,/,\n  (NP que/JJ tiene/NN fronteras/NNS)\n  (VP con/VBP (NP Libia/NNP y/NN Chad/NNP))\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "ORGANISMOS_INTERNACIONALES",
+      "TIEMPO_RELATIVO",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "REGIONES_PROVINCIAS",
+      "LOCALIZACIONES_ESPECIFICAS",
+      "PROTESTAS_CONFLICTOS_SOCIALES",
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "CONFLICTOS_ARMADOS_OPERACIONES",
+      "RELACIONES_INTERNACIONALES"
+    ],
+    "matches": [
+      {
+        "category": "PROTESTAS_CONFLICTOS_SOCIALES",
+        "matched_text": "conflicto, pues, de acuerdo con especialistas árabes y locales, podría funcionar como base para el gobierno",
+        "position": [
+          1420,
+          1527
+        ],
+        "start": 1420,
+        "end": 1527
+      },
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "control de ciertas áreas de kordofán (centro), junto con los cinco estados de la amplia región de darfur, a excepción de al fasher, la capital del estado de darfur norte y el único bastión militar en la zona",
+        "position": [
+          1058,
+          1265
+        ],
+        "start": 1058,
+        "end": 1265
+      },
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "conflicto, pues, de acuerdo con especialistas árabes y locales, podría funcionar como base para el gobierno paralelo de hemedti si cae en manos",
+        "position": [
+          1420,
+          1563
+        ],
+        "start": 1420,
+        "end": 1563
+      },
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "capital",
+        "position": [
+          1193,
+          1200
+        ],
+        "start": 1193,
+        "end": 1200
+      },
+      {
+        "category": "RELACIONES_INTERNACIONALES",
+        "matched_text": "acuerdo con él, funcionará “en todo sudán” y no",
+        "position": [
+          459,
+          506
+        ],
+        "start": 459,
+        "end": 506
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "afirmó",
+        "position": [
+          82,
+          88
+        ],
+        "start": 82,
+        "end": 88
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "anunció",
+        "position": [
+          362,
+          369
+        ],
+        "start": 362,
+        "end": 369
+      },
+      {
+        "category": "ORGANISMOS_INTERNACIONALES",
+        "matched_text": "naciones unidas",
+        "position": [
+          59,
+          74
+        ],
+        "start": 59,
+        "end": 74
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "región de",
+        "position": [
+          1146,
+          1155
+        ],
+        "start": 1146,
+        "end": 1155
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "centro), junto",
+        "position": [
+          1096,
+          1110
+        ],
+        "start": 1096,
+        "end": 1110
+      },
+      {
+        "category": "TIEMPO_RELATIVO",
+        "matched_text": "actualmente",
+        "position": [
+          1027,
+          1038
+        ],
+        "start": 1027,
+        "end": 1038
+      }
+    ],
+    "match_count": 11
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Darfur",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Sudán del Sur",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Fuerzas paramilitares de Apoyo Rápido",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Guterres",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Darfur Norte",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Sudán",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Egipto",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Libia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Hemedti",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Organización de Naciones Unidas",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "António Guterres",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "ONU",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Mohamed Hamdan Dagalo",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Chad",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "FAR",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Al Fasher",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Kordofán",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "António Guterres",
+        "relacion": "AFIRMAR",
+        "objeto": "Sudán"
+      },
+      {
+        "sujeto": "António Guterres",
+        "relacion": "AFIRMAR",
+        "objeto": "Fuerzas paramilitares de Apoyo Rápido"
+      },
+      {
+        "sujeto": "António Guterres",
+        "relacion": "AFIRMAR",
+        "objeto": "FAR"
+      },
+      {
+        "sujeto": "Organización de Naciones Unidas",
+        "relacion": "AFIRMAR",
+        "objeto": "Sudán"
+      },
+      {
+        "sujeto": "Organización de Naciones Unidas",
+        "relacion": "AFIRMAR",
+        "objeto": "Fuerzas paramilitares de Apoyo Rápido"
+      },
+      {
+        "sujeto": "Organización de Naciones Unidas",
+        "relacion": "AFIRMAR",
+        "objeto": "FAR"
+      },
+      {
+        "sujeto": "ONU",
+        "relacion": "AFIRMAR",
+        "objeto": "Sudán"
+      },
+      {
+        "sujeto": "ONU",
+        "relacion": "AFIRMAR",
+        "objeto": "Fuerzas paramilitares de Apoyo Rápido"
+      },
+      {
+        "sujeto": "ONU",
+        "relacion": "AFIRMAR",
+        "objeto": "FAR"
+      },
+      {
+        "sujeto": "Mohamed Hamdan Dagalo",
+        "relacion": "ANUNCIAR",
+        "objeto": "Sudán"
+      },
+      {
+        "sujeto": "Mohamed Hamdan Dagalo",
+        "relacion": "ANUNCIAR",
+        "objeto": "FAR"
+      },
+      {
+        "sujeto": "Sudán",
+        "relacion": "REPRESENTAR_AFIRMAR_ANUNCIAR",
+        "objeto": "FAR"
+      },
+      {
+        "sujeto": "Sudán",
+        "relacion": "FUNCIONAR_REPRESENTAR_AFIRMAR_ANUNCIAR",
+        "objeto": "FAR"
+      },
+      {
+        "sujeto": "FAR",
+        "relacion": "TENER",
+        "objeto": "Kordofán"
+      },
+      {
+        "sujeto": "FAR",
+        "relacion": "TENER",
+        "objeto": "Darfur"
+      },
+      {
+        "sujeto": "FAR",
+        "relacion": "TENER",
+        "objeto": "Al Fasher"
+      },
+      {
+        "sujeto": "FAR",
+        "relacion": "TENER",
+        "objeto": "Darfur Norte"
+      },
+      {
+        "sujeto": "FAR",
+        "relacion": "TENER",
+        "objeto": "Libia"
+      },
+      {
+        "sujeto": "FAR",
+        "relacion": "TENER",
+        "objeto": "Chad"
+      },
+      {
+        "sujeto": "Kordofán",
+        "relacion": "TENER",
+        "objeto": "Darfur"
+      },
+      {
+        "sujeto": "Kordofán",
+        "relacion": "TENER",
+        "objeto": "Al Fasher"
+      },
+      {
+        "sujeto": "Kordofán",
+        "relacion": "TENER",
+        "objeto": "Darfur Norte"
+      },
+      {
+        "sujeto": "Kordofán",
+        "relacion": "TENER",
+        "objeto": "Libia"
+      },
+      {
+        "sujeto": "Kordofán",
+        "relacion": "TENER",
+        "objeto": "Chad"
+      },
+      {
+        "sujeto": "Al Fasher",
+        "relacion": "TRANSFORMAR_HACER",
+        "objeto": "Hemedti"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.1027,
+    "pos": 0.016,
+    "neu": 0.969,
+    "neg": 0.015,
+    "label": "positive"
+  }
+}

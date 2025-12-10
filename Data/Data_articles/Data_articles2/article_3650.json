@@ -1,0 +1,790 @@
+{
+  "url": "https://www.telesurtv.net/regimen-sionista-convoca-gabinete-seguridad-ataques-iran/",
+  "title": "Régimen sionista convoca gabinete de seguridad tras ataques a Irán - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "ataques",
+    "conflicto destacado",
+    "Irán",
+    "régimen sionista"
+  ],
+  "text": "El primer ministro israelí, Benjamin Netanyahu, convocó una reunión de su gabinete de seguridad, en medio de los ataques israelíes contra Irán, que han generado alertas en la región.\nSegún el periódico Times of Israel, la convocatoria del gabinete de seguridad ocurre en el momento en el que se intensifican las operaciones militares israelíes en suelo iraní. Testigos en Teherán, registraron las explosiones y la activación de sistemas de defensa aérea, aunque las autoridades iraníes no han confirmado oficialmente los detalles de los incidentes.\nPor su parte, el secretario de Estado de EE. UU., Marco Rubio, aseguró que su país no está involucrado en los ataques. “Israel lanzó una operación unilateral contra Irán y no estamos participando en este ataque”, declaró Rubio, en un intento por deslindar a Washington de la escalada militar.\nMientras tanto, altos funcionarios iraníes contactados por la agencia Reuters indicaron que los líderes del país convocaron una reunión de seguridad de alto nivel para evaluar la situación y definir posibles respuestas.\nEn Israel, los medios de comunicación locales han emitido instrucciones a la población para que se mantenga cerca de refugios y cuartos fortificados, ante la posibilidad de una escalada en los próximos días. El Canal 13 israelí reportó que el Comando del Frente Interno emitió alertas especiales, aunque no se han registrado ataques contra territorio israelí hasta el momento.\nDe acuerdo con fuentes cercanas al ejército israelí, las operaciones militares en Irán habrían tenido como objetivo a figuras prominentes del régimen iraní. El Canal 13 aseguró que “el ejército israelí asesinó a destacadas figuras iraníes”, aunque no proporcionó nombres ni detalles adicionales sobre los objetivos.\nEntre los incidentes reportados se encuentran explosiones en la casa del jefe del Estado Mayor iraní, aunque las autoridades iraníes no han confirmado esta información.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/regimen-sionista-convoca-gabinete-seguridad-ataques-iran/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-06.json",
+    "message_index": 1481,
+    "message_id": 96231,
+    "date": "2025-06-13T01:55:08+00:00",
+    "text": "teleSUR\nRégimen sionista convoca gabinete de seguridad tras ataques a Irán\nhttps://www.telesurtv.net/regimen-sionista-convoca-gabinete-seguridad-ataques-iran/",
+    "photo_path": null,
+    "views": 2677,
+    "reactions": {
+      "🤮": 46,
+      "🤬": 20,
+      "🔥": 4,
+      "💩": 3,
+      "👍": 1
+    },
+    "total_reactions": 74
+  },
+  "preprocessing": {
+    "cleaned": "el primer ministro israelí, benjamin netanyahu, convocó una reunión de su gabinete de seguridad, en medio de los ataques israelíes contra irán, que han generado alertas en la región. según el periódico times of israel, la convocatoria del gabinete de seguridad ocurre en el momento en el que se intensifican las operaciones militares israelíes en suelo iraní. testigos en teherán, registraron las explosiones y la activación de sistemas de defensa aérea, aunque las autoridades iraníes no han confirmado oficialmente los detalles de los incidentes. por su parte, el secretario de estado de ee. uu., marco rubio, aseguró que su país no está involucrado en los ataques. “israel lanzó una operación unilateral contra irán y no estamos participando en este ataque”, declaró rubio, en un intento por deslindar a washington de la escalada militar. mientras tanto, altos funcionarios iraníes contactados por la agencia reuters indicaron que los líderes del país convocaron una reunión de seguridad de alto nivel para evaluar la situación y definir posibles respuestas. en israel, los medios de comunicación locales han emitido instrucciones a la población para que se mantenga cerca de refugios y cuartos fortificados, ante la posibilidad de una escalada en los próximos días. el canal 13 israelí reportó que el comando del frente interno emitió alertas especiales, aunque no se han registrado ataques contra territorio israelí hasta el momento. de acuerdo con fuentes cercanas al ejército israelí, las operaciones militares en irán habrían tenido como objetivo a figuras prominentes del régimen iraní. el canal 13 aseguró que “el ejército israelí asesinó a destacadas figuras iraníes”, aunque no proporcionó nombres ni detalles adicionales sobre los objetivos. entre los incidentes reportados se encuentran explosiones en la casa del jefe del estado mayor iraní, aunque las autoridades iraníes no han confirmado esta información.",
+    "tokens": [
+      "primer",
+      "ministro",
+      "israelí",
+      ",",
+      "benjamin",
+      "netanyahu",
+      ",",
+      "convocó",
+      "reunión",
+      "gabinete",
+      "seguridad",
+      ",",
+      "medio",
+      "ataques",
+      "israelíes",
+      "irán",
+      ",",
+      "generado",
+      "alertas",
+      "región",
+      ".",
+      "según",
+      "periódico",
+      "times",
+      "of",
+      "israel",
+      ",",
+      "convocatoria",
+      "gabinete",
+      "seguridad",
+      "ocurre",
+      "momento",
+      "intensifican",
+      "operaciones",
+      "militares",
+      "israelíes",
+      "suelo",
+      "iraní",
+      ".",
+      "testigos",
+      "teherán",
+      ",",
+      "registraron",
+      "explosiones",
+      "activación",
+      "sistemas",
+      "defensa",
+      "aérea",
+      ",",
+      "aunque",
+      "autoridades",
+      "iraníes",
+      "confirmado",
+      "oficialmente",
+      "detalles",
+      "incidentes",
+      ".",
+      "parte",
+      ",",
+      "secretario",
+      "ee",
+      ".",
+      "uu.",
+      ",",
+      "marco",
+      "rubio",
+      ",",
+      "aseguró",
+      "país",
+      "involucrado",
+      "ataques",
+      ".",
+      "“",
+      "israel",
+      "lanzó",
+      "operación",
+      "unilateral",
+      "irán",
+      "participando",
+      "ataque",
+      "”",
+      ",",
+      "declaró",
+      "rubio",
+      ",",
+      "intento",
+      "deslindar",
+      "washington",
+      "escalada",
+      "militar",
+      ".",
+      "mientras",
+      ",",
+      "altos",
+      "funcionarios",
+      "iraníes",
+      "contactados",
+      "agencia",
+      "reuters",
+      "indicaron",
+      "líderes",
+      "país",
+      "convocaron",
+      "reunión",
+      "seguridad",
+      "alto",
+      "nivel",
+      "evaluar",
+      "situación",
+      "definir",
+      "posibles",
+      "respuestas",
+      ".",
+      "israel",
+      ",",
+      "medios",
+      "comunicación",
+      "locales",
+      "emitido",
+      "instrucciones",
+      "población",
+      "mantenga",
+      "cerca",
+      "refugios",
+      "cuartos",
+      "fortificados",
+      ",",
+      "posibilidad",
+      "escalada",
+      "próximos",
+      "días",
+      ".",
+      "canal",
+      "13",
+      "israelí",
+      "reportó",
+      "comando",
+      "frente",
+      "interno",
+      "emitió",
+      "alertas",
+      "especiales",
+      ",",
+      "aunque",
+      "registrado",
+      "ataques",
+      "territorio",
+      "israelí",
+      "momento",
+      ".",
+      "acuerdo",
+      "fuentes",
+      "cercanas",
+      "ejército",
+      "israelí",
+      ",",
+      "operaciones",
+      "militares",
+      "irán",
+      "objetivo",
+      "figuras",
+      "prominentes",
+      "régimen",
+      "iraní",
+      ".",
+      "canal",
+      "13",
+      "aseguró",
+      "“",
+      "ejército",
+      "israelí",
+      "asesinó",
+      "destacadas",
+      "figuras",
+      "iraníes",
+      "”",
+      ",",
+      "aunque",
+      "proporcionó",
+      "nombres",
+      "detalles",
+      "adicionales",
+      "objetivos",
+      ".",
+      "incidentes",
+      "reportados",
+      "encuentran",
+      "explosiones",
+      "casa",
+      "jefe",
+      "mayor",
+      "iraní",
+      ",",
+      "aunque",
+      "autoridades",
+      "iraníes",
+      "confirmado",
+      "información",
+      "."
+    ],
+    "token_count": 199,
+    "sentence_count": 12
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 36,
+      "NN": 85,
+      "JJ": 32,
+      "IN": 15,
+      "FW": 54,
+      "NNS": 27,
+      "VBP": 16,
+      "VBD": 4,
+      "VBZ": 10,
+      "DT": 6,
+      "CD": 2
+    },
+    "bigram_freq": {
+      "NNP-NN": 11,
+      "NN-NN": 42,
+      "NN-NNP": 9,
+      "NNP-NNP": 10,
+      "NN-JJ": 3,
+      "JJ-NN": 14,
+      "NN-IN": 8,
+      "IN-FW": 6,
+      "FW-FW": 36,
+      "FW-NNS": 4,
+      "NNS-VBP": 15,
+      "VBP-JJ": 9,
+      "JJ-NNP": 2,
+      "NN-NNS": 14,
+      "VBP-FW": 2,
+      "FW-NNP": 5,
+      "NNP-IN": 2,
+      "IN-NNP": 3,
+      "NNP-VBD": 4,
+      "VBD-JJ": 3,
+      "FW-JJ": 3,
+      "JJ-FW": 2,
+      "NNS-NNS": 3,
+      "VBP-IN": 1,
+      "IN-NN": 4,
+      "NNP-VBZ": 2,
+      "VBZ-NNP": 1,
+      "FW-NN": 6,
+      "NNS-IN": 4,
+      "IN-JJ": 2,
+      "JJ-DT": 4,
+      "DT-NN": 5,
+      "NN-VBZ": 6,
+      "VBZ-JJ": 7,
+      "JJ-JJ": 4,
+      "JJ-NNS": 5,
+      "NNS-NNP": 2,
+      "NNP-FW": 3,
+      "VBZ-DT": 1,
+      "NNP-DT": 1,
+      "DT-JJ": 1,
+      "NNP-VBP": 1,
+      "VBZ-FW": 1,
+      "VBP-NNP": 3,
+      "VBD-NNS": 1,
+      "NNS-FW": 2,
+      "NNP-CD": 2,
+      "CD-NN": 2,
+      "NN-FW": 2,
+      "NNS-VBZ": 1,
+      "VBP-NN": 1,
+      "JJ-VBZ": 1
+    },
+    "trigram_freq": {
+      "NNP-NN-NN": 8,
+      "NN-NN-NN": 21,
+      "NN-NN-NNP": 6,
+      "NN-NNP-NNP": 3,
+      "NNP-NNP-NN": 4,
+      "NNP-NN-JJ": 1,
+      "NN-JJ-NN": 2,
+      "JJ-NN-IN": 4,
+      "NN-IN-FW": 4,
+      "IN-FW-FW": 3,
+      "FW-FW-FW": 26,
+      "FW-FW-NNS": 2,
+      "FW-NNS-VBP": 3,
+      "NNS-VBP-JJ": 8,
+      "VBP-JJ-NNP": 1,
+      "JJ-NNP-NN": 2,
+      "NN-NN-NNS": 6,
+      "NN-NNS-VBP": 7,
+      "NNS-VBP-FW": 2,
+      "VBP-FW-FW": 2,
+      "FW-FW-NNP": 2,
+      "FW-NNP-NN": 1,
+      "NN-NNP-IN": 2,
+      "NNP-IN-NNP": 1,
+      "IN-NNP-NNP": 1,
+      "NNP-NNP-VBD": 2,
+      "NNP-VBD-JJ": 3,
+      "VBD-JJ-NN": 2,
+      "IN-FW-JJ": 1,
+      "FW-JJ-FW": 1,
+      "JJ-FW-FW": 2,
+      "FW-FW-JJ": 2,
+      "FW-JJ-NN": 2,
+      "JJ-NN-NNS": 2,
+      "NN-NNS-NNS": 2,
+      "NNS-NNS-VBP": 3,
+      "NNS-VBP-IN": 1,
+      "VBP-IN-NN": 1,
+      "IN-NN-NN": 3,
+      "NN-NNP-VBZ": 2,
+      "NNP-VBZ-NNP": 1,
+      "VBZ-NNP-NN": 1,
+      "FW-FW-NN": 4,
+      "FW-NN-NNS": 3,
+      "NN-NNS-IN": 3,
+      "NNS-IN-JJ": 2,
+      "IN-JJ-DT": 2,
+      "JJ-DT-NN": 4,
+      "DT-NN-VBZ": 4,
+      "NN-VBZ-JJ": 4,
+      "VBZ-JJ-JJ": 1,
+      "JJ-JJ-NNS": 1,
+      "JJ-NNS-IN": 1,
+      "NNS-IN-FW": 1,
+      "IN-FW-NNS": 2,
+      "FW-NNS-NNP": 1,
+      "NNS-NNP-VBD": 2,
+      "JJ-NN-NN": 4,
+      "NN-NN-IN": 4,
+      "NN-IN-NNP": 2,
+      "IN-NNP-FW": 1,
+      "NNP-FW-NNP": 2,
+      "FW-NNP-NNP": 2,
+      "NNP-NNP-NNP": 2,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-DT": 1,
+      "VBZ-DT-NN": 1,
+      "DT-NN-NN": 1,
+      "NN-IN-NN": 2,
+      "IN-NN-NNS": 1,
+      "NN-NNS-NNP": 1,
+      "VBD-JJ-JJ": 1,
+      "JJ-JJ-JJ": 1,
+      "JJ-JJ-NN": 1,
+      "JJ-NN-NNP": 2,
+      "NN-NNP-DT": 1,
+      "NNP-DT-JJ": 1,
+      "DT-JJ-NN": 1,
+      "NNP-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 2,
+      "NNP-IN-FW": 1,
+      "FW-NN-NNP": 1,
+      "NN-NNP-NN": 1,
+      "VBP-JJ-NN": 4,
+      "IN-NNP-VBP": 1,
+      "NNP-VBP-JJ": 1,
+      "JJ-NN-VBZ": 1,
+      "NN-VBZ-FW": 1,
+      "VBZ-FW-NN": 1,
+      "FW-NN-NN": 2,
+      "NN-NN-JJ": 2,
+      "NNS-VBP-NNP": 3,
+      "VBP-NNP-NNP": 2,
+      "NNP-VBD-NNS": 1,
+      "VBD-NNS-FW": 1,
+      "NNS-FW-FW": 2,
+      "VBP-JJ-NNS": 1,
+      "JJ-NNS-FW": 1,
+      "VBP-JJ-FW": 1,
+      "NNP-NNP-CD": 2,
+      "NNP-CD-NN": 2,
+      "CD-NN-NN": 2,
+      "NN-NN-FW": 2,
+      "NN-FW-NNP": 1,
+      "FW-NNP-FW": 2,
+      "NNP-NN-NNS": 2,
+      "NN-NNS-VBZ": 1,
+      "NNS-VBZ-JJ": 1,
+      "VBZ-JJ-DT": 1,
+      "VBZ-JJ-NNS": 3,
+      "JJ-NNS-VBP": 2,
+      "NNS-VBP-NN": 1,
+      "VBP-NN-NN": 1,
+      "NN-FW-FW": 1,
+      "NNP-FW-NN": 1,
+      "VBP-NNP-NN": 1,
+      "NN-JJ-VBZ": 1,
+      "JJ-VBZ-JJ": 1,
+      "VBP-JJ-DT": 1,
+      "JJ-NNS-NNS": 1,
+      "VBP-JJ-JJ": 1,
+      "JJ-JJ-NNP": 1,
+      "NNS-IN-NN": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 85,
+        "FW": 54,
+        "NNP": 36,
+        "JJ": 32,
+        "NNS": 27
+      },
+      "top_bigrams": {
+        "NN-NN": 42,
+        "FW-FW": 36,
+        "NNS-VBP": 15,
+        "JJ-NN": 14,
+        "NN-NNS": 14
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 26,
+        "NN-NN-NN": 21,
+        "NNP-NN-NN": 8,
+        "NNS-VBP-JJ": 8,
+        "NN-NNS-VBP": 7
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 12,
+    "chunk_counts": {
+      "NP": 77,
+      "VP": 24,
+      "PP": 8,
+      "ADJP": 4
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 4,
+        "weight": 0.032
+      },
+      {
+        "rule": "NP -> ('una', 'JJ') ('reunión', 'NN')",
+        "frequency": 2,
+        "weight": 0.016
+      },
+      {
+        "rule": "VP -> ('en', 'VBP') NP",
+        "frequency": 2,
+        "weight": 0.016
+      },
+      {
+        "rule": "NP -> ('aunque', 'JJ') ('las', 'NNS')",
+        "frequency": 2,
+        "weight": 0.016
+      },
+      {
+        "rule": "ADJP -> ('iraníes', 'JJ')",
+        "frequency": 2,
+        "weight": 0.016
+      },
+      {
+        "rule": "NP -> ('no', 'DT') ('han', 'NN')",
+        "frequency": 2,
+        "weight": 0.016
+      },
+      {
+        "rule": "VP -> ('confirmado', 'VBZ') NP",
+        "frequency": 2,
+        "weight": 0.016
+      },
+      {
+        "rule": "NP -> ('El', 'NNP') ('Canal', 'NNP')",
+        "frequency": 2,
+        "weight": 0.016
+      },
+      {
+        "rule": "VP -> ('aunque', 'VBZ') NP",
+        "frequency": 2,
+        "weight": 0.016
+      },
+      {
+        "rule": "S -> NP (',', ',') NP (',', ',') NP NP ('de', 'IN') ('su', 'FW') ('gabinete', 'FW') ('de', 'FW') ('seguridad', 'FW') (',', ',') ('en', 'FW') ('medio', 'FW') ('de', 'FW') ('los', 'FW') NP VP (',', ',') NP VP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.008
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El primer ministro israelí"
+      },
+      {
+        "label": "NP",
+        "text": "Benjamin Netanyahu"
+      },
+      {
+        "label": "NP",
+        "text": "convocó"
+      },
+      {
+        "label": "NP",
+        "text": "una reunión"
+      },
+      {
+        "label": "NP",
+        "text": "ataques"
+      },
+      {
+        "label": "VP",
+        "text": "israelíes contra Irán"
+      },
+      {
+        "label": "NP",
+        "text": "contra Irán"
+      },
+      {
+        "label": "NP",
+        "text": "que han generado alertas"
+      },
+      {
+        "label": "VP",
+        "text": "en la región"
+      },
+      {
+        "label": "NP",
+        "text": "la región"
+      },
+      {
+        "label": "NP",
+        "text": "Según el periódico Times"
+      },
+      {
+        "label": "PP",
+        "text": "of Israel"
+      },
+      {
+        "label": "NP",
+        "text": "Israel"
+      },
+      {
+        "label": "NP",
+        "text": "intensifican las operaciones militares"
+      },
+      {
+        "label": "VP",
+        "text": "israelíes"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP El/NNP primer/NN ministro/NN israelí/NN)\n  ,/,\n  (NP Benjamin/NNP Netanyahu/NNP)\n  ,/,\n  (NP convocó/NN)\n  (NP una/JJ reunión/NN)\n  de/IN\n  su/FW\n  gabinete/FW\n  de/FW\n  seguridad/FW\n  ,/,\n  en/FW\n  medio/FW\n  de/FW\n  los/FW\n  (NP ataques/NNS)\n  (VP israelíes/VBP (NP contra/JJ Irán/NNP))\n  ,/,\n  (NP que/NN han/NN generado/NN alertas/NNS)\n  (VP en/VBP (NP la/NN región/NN))\n  ./.)",
+      "(S\n  (NP Según/NNP el/NN periódico/NN Times/NNP)\n  (PP of/IN (NP Israel/NNP))\n  ,/,\n  la/FW\n  convocatoria/FW\n  del/FW\n  gabinete/FW\n  de/FW\n  seguridad/FW\n  ocurre/FW\n  en/FW\n  el/FW\n  momento/FW\n  en/FW\n  el/FW\n  que/FW\n  se/FW\n  (NP intensifican/JJ las/NN operaciones/NNS militares/NNS)\n  (VP israelíes/VBP)\n  (PP en/IN (NP suelo/NN iraní/NN))\n  ./.)",
+      "(S\n  (NP Testigos/NNP)\n  en/FW\n  (NP Teherán/NNP)\n  ,/,\n  (NP registraron/NN las/NN explosiones/NNS)\n  y/RB\n  (VP la/VBP)\n  activación/FW\n  de/FW\n  sistemas/FW\n  de/FW\n  defensa/FW\n  (NP aérea/NN)\n  ,/,\n  (NP aunque/JJ las/NNS)\n  autoridades/IN\n  (ADJP iraníes/JJ)\n  (NP no/DT han/NN)\n  (VP confirmado/VBZ (NP oficialmente/JJ los/JJ detalles/NNS))\n  de/IN\n  los/FW\n  (NP incidentes/NNS)\n  ./.)",
+      "(S\n  (NP Por/NNP su/NN parte/NN)\n  ,/,\n  el/FW\n  (NP secretario/NN)\n  (PP de/IN (NP Estado/NNP))\n  de/FW\n  (NP EE/NNP)\n  ./.)",
+      "(S\n  (NP UU./NNP)\n  ,/,\n  (NP Marco/NNP Rubio/NNP)\n  ,/,\n  (NP aseguró/NN que/NN su/NN)\n  (VP país/VBZ (NP no/DT está/NN involucrado/NN))\n  (PP en/IN (NP los/NN ataques/NNS))\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "LEYES_NORMATIVAS",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "MEDIOS_COMUNICACION",
+      "REGIONES_PROVINCIAS",
+      "PAISES",
+      "CONFLICTOS_ARMADOS_OPERACIONES",
+      "JURIDICO_LEGISLATIVO_CORRUPCION"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "ataque”, declaró rubio, en un intento por deslindar a washington de la escalada militar",
+        "position": [
+          753,
+          840
+        ],
+        "start": 753,
+        "end": 840
+      },
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "ataques israelíes",
+        "position": [
+          113,
+          130
+        ],
+        "start": 113,
+        "end": 130
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "declaró",
+        "position": [
+          762,
+          769
+        ],
+        "start": 762,
+        "end": 769
+      },
+      {
+        "category": "JURIDICO_LEGISLATIVO_CORRUPCION",
+        "matched_text": "defensa",
+        "position": [
+          440,
+          447
+        ],
+        "start": 440,
+        "end": 447
+      },
+      {
+        "category": "MEDIOS_COMUNICACION",
+        "matched_text": "periódico times of",
+        "position": [
+          192,
+          210
+        ],
+        "start": 192,
+        "end": 210
+      },
+      {
+        "category": "LEYES_NORMATIVAS",
+        "matched_text": "acuerdo con fuentes cercanas al ejército israelí, las operaciones militares en irán habrían tenido como objetivo a figuras prominentes del régimen iraní. el canal 13",
+        "position": [
+          1442,
+          1607
+        ],
+        "start": 1442,
+        "end": 1607
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "israelí",
+        "position": [
+          19,
+          26
+        ],
+        "start": 19,
+        "end": 26
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "estado de",
+        "position": [
+          580,
+          589
+        ],
+        "start": 580,
+        "end": 589
+      }
+    ],
+    "match_count": 8
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Irán",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "El Canal 13 israelí",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Benjamin Netanyahu",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Times of Israel",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Washington",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Testigos",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Estado Mayor",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Israel",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Teherán",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Rubio",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "El Canal 13",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "agencia Reuters",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Marco Rubio",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Comando del Frente Interno",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Estado de EE. UU.",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Benjamin Netanyahu",
+        "relacion": "CONVOCAR",
+        "objeto": "Irán"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "LANZAR_DECLARAR",
+        "objeto": "Irán"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "LANZAR_DECLARAR",
+        "objeto": "Rubio"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "LANZAR_DECLARAR",
+        "objeto": "Washington"
+      },
+      {
+        "sujeto": "Rubio",
+        "relacion": "LANZAR_DECLARAR",
+        "objeto": "Irán"
+      },
+      {
+        "sujeto": "Irán",
+        "relacion": "LANZAR_DECLARAR",
+        "objeto": "Washington"
+      },
+      {
+        "sujeto": "Rubio",
+        "relacion": "DECLARAR",
+        "objeto": "Washington"
+      },
+      {
+        "sujeto": "El Canal 13 israelí",
+        "relacion": "REPORTAR",
+        "objeto": "Comando del Frente Interno"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.8807,
+    "pos": 0.0,
+    "neu": 0.955,
+    "neg": 0.045,
+    "label": "negative"
+  }
+}

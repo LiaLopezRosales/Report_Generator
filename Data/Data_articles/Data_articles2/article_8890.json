@@ -1,0 +1,746 @@
+{
+  "url": "https://www.telesurtv.net/marchan-por-el-mal-manejo-de-la-crisis-energetica-en-ecuador/",
+  "title": "Marchan por el mal manejo de la crisis energética en Ecuador - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "Ecuador",
+    "manejo de la crisis",
+    "Marcha"
+  ],
+  "text": "Una multitudinaria marcha avanzó por la avenida 10 de agosto en Quito, capital de Ecuador, este jueves hasta el Palacio de Gobierno, en protesta por el manejo de la crisis energética en la nación.\nDurante la marcha, los participantes corearon consignas como: “Fuera Noboa, fuera, se va a caer”. De igual forma, reclamaron una vida digna, y manifestaron estar hartos de la crisis que no solo es energética sino también económica y de seguridad.\nTambién realizaron un plantón en los exteriores de la Universidad Central, demandando que el Gobierno  no les permite trabajar, y lo califican de “mentiroso, cínico, que los engaña, maquiavélico”. Asimismo, insistieron en que “ya basta, basta el Ecuador tiene que reaccionar”.\n“Somos país de lucha, somos mujeres guerreras, necesitamos que reaccionamos, que votemos bien, no al neoliberalismo”, acotó una manifestante.\nLa manifestante Ximena Jurado aseguró que “lo que se quiere es trabajo, salud, calidad de la educación”.\nEl Gobierno ecuatoriano, dispuso suspender la jornada de trabajo en todo el territorio nacional, para el sector público y privado debido a los apagones hasta de 14 horas diarias.\nLa crisis de generación eléctrica del Ecuador empeoró por el nivel hidrológico bajo, puesto que el 72 por ciento de la matriz energética de la nación se basa en fuentes de agua.\nEl embalse, localizado en el río Paute, se encuentra en niveles críticos por la situación climática extrema, que provocó la peor sequía en Ecuador en los últimos 61 años.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/marchan-por-el-mal-manejo-de-la-crisis-energetica-en-ecuador/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-11.json",
+    "message_index": 1749,
+    "message_id": 79638,
+    "date": "2024-11-01T01:55:12+00:00",
+    "text": "teleSUR\nMarchan por el mal manejo de la crisis energética en Ecuador\nhttps://www.telesurtv.net/marchan-por-el-mal-manejo-de-la-crisis-energetica-en-ecuador/",
+    "photo_path": null,
+    "views": 2839,
+    "reactions": {
+      "👍": 36,
+      "🔥": 16,
+      "😁": 3,
+      "👏": 1
+    },
+    "total_reactions": 56
+  },
+  "preprocessing": {
+    "cleaned": "una multitudinaria marcha avanzó por la avenida 10 de agosto en quito, capital de ecuador, este jueves hasta el palacio de gobierno, en protesta por el manejo de la crisis energética en la nación. durante la marcha, los participantes corearon consignas como: “fuera noboa, fuera, se va a caer”. de igual forma, reclamaron una vida digna, y manifestaron estar hartos de la crisis que no solo es energética sino también económica y de seguridad. también realizaron un plantón en los exteriores de la universidad central, demandando que el gobierno no les permite trabajar, y lo califican de “mentiroso, cínico, que los engaña, maquiavélico”. asimismo, insistieron en que “ya basta, basta el ecuador tiene que reaccionar”. “somos país de lucha, somos mujeres guerreras, necesitamos que reaccionamos, que votemos bien, no al neoliberalismo”, acotó una manifestante. la manifestante ximena jurado aseguró que “lo que se quiere es trabajo, salud, calidad de la educación”. el gobierno ecuatoriano, dispuso suspender la jornada de trabajo en todo el territorio nacional, para el sector público y privado debido a los apagones hasta de 14 horas diarias. la crisis de generación eléctrica del ecuador empeoró por el nivel hidrológico bajo, puesto que el 72 por ciento de la matriz energética de la nación se basa en fuentes de agua. el embalse, localizado en el río paute, se encuentra en niveles críticos por la situación climática extrema, que provocó la peor sequía en ecuador en los últimos 61 años.",
+    "tokens": [
+      "multitudinaria",
+      "marcha",
+      "avanzó",
+      "avenida",
+      "10",
+      "agosto",
+      "quito",
+      ",",
+      "capital",
+      "ecuador",
+      ",",
+      "jueves",
+      "palacio",
+      "gobierno",
+      ",",
+      "protesta",
+      "manejo",
+      "crisis",
+      "energética",
+      "nación",
+      ".",
+      "marcha",
+      ",",
+      "participantes",
+      "corearon",
+      "consignas",
+      ":",
+      "“",
+      "noboa",
+      ",",
+      ",",
+      "va",
+      "caer",
+      "”",
+      ".",
+      "igual",
+      "forma",
+      ",",
+      "reclamaron",
+      "vida",
+      "digna",
+      ",",
+      "manifestaron",
+      "hartos",
+      "crisis",
+      "solo",
+      "energética",
+      "sino",
+      "económica",
+      "seguridad",
+      ".",
+      "realizaron",
+      "plantón",
+      "exteriores",
+      "universidad",
+      "central",
+      ",",
+      "demandando",
+      "gobierno",
+      "permite",
+      "trabajar",
+      ",",
+      "califican",
+      "“",
+      "mentiroso",
+      ",",
+      "cínico",
+      ",",
+      "engaña",
+      ",",
+      "maquiavélico",
+      "”",
+      ".",
+      "asimismo",
+      ",",
+      "insistieron",
+      "“",
+      "basta",
+      ",",
+      "basta",
+      "ecuador",
+      "reaccionar",
+      "”",
+      ".",
+      "“",
+      "país",
+      "lucha",
+      ",",
+      "mujeres",
+      "guerreras",
+      ",",
+      "necesitamos",
+      "reaccionamos",
+      ",",
+      "votemos",
+      "bien",
+      ",",
+      "neoliberalismo",
+      "”",
+      ",",
+      "acotó",
+      "manifestante",
+      ".",
+      "manifestante",
+      "ximena",
+      "jurado",
+      "aseguró",
+      "“",
+      "quiere",
+      "trabajo",
+      ",",
+      "salud",
+      ",",
+      "calidad",
+      "educación",
+      "”",
+      ".",
+      "gobierno",
+      "ecuatoriano",
+      ",",
+      "dispuso",
+      "suspender",
+      "jornada",
+      "trabajo",
+      "territorio",
+      "nacional",
+      ",",
+      "sector",
+      "público",
+      "privado",
+      "debido",
+      "apagones",
+      "14",
+      "horas",
+      "diarias",
+      ".",
+      "crisis",
+      "generación",
+      "eléctrica",
+      "ecuador",
+      "empeoró",
+      "nivel",
+      "hidrológico",
+      "bajo",
+      ",",
+      "puesto",
+      "72",
+      "ciento",
+      "matriz",
+      "energética",
+      "nación",
+      "basa",
+      "fuentes",
+      "agua",
+      ".",
+      "embalse",
+      ",",
+      "localizado",
+      "río",
+      "paute",
+      ",",
+      "encuentra",
+      "niveles",
+      "críticos",
+      "situación",
+      "climática",
+      "extrema",
+      ",",
+      "provocó",
+      "peor",
+      "sequía",
+      "ecuador",
+      "últimos",
+      "61",
+      "años",
+      "."
+    ],
+    "token_count": 176,
+    "sentence_count": 10
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 28,
+      "NN": 96,
+      "VBD": 2,
+      "CD": 4,
+      "IN": 9,
+      "FW": 52,
+      "NNS": 9,
+      "VBP": 7,
+      "JJ": 17,
+      "DT": 3,
+      "RB": 4,
+      "VBZ": 3,
+      "$": 1
+    },
+    "bigram_freq": {
+      "NNP-NN": 12,
+      "NN-NN": 59,
+      "NN-VBD": 2,
+      "VBD-CD": 2,
+      "CD-IN": 1,
+      "IN-FW": 7,
+      "FW-FW": 26,
+      "FW-NNP": 11,
+      "NN-FW": 10,
+      "NN-NNS": 4,
+      "NNS-VBP": 5,
+      "VBP-JJ": 4,
+      "JJ-NNP": 2,
+      "NNP-FW": 6,
+      "FW-NN": 11,
+      "NN-IN": 6,
+      "NNP-NNP": 7,
+      "VBP-NNS": 1,
+      "VBP-NNP": 2,
+      "NN-NNP": 5,
+      "NNP-JJ": 1,
+      "JJ-NN": 9,
+      "NN-JJ": 3,
+      "NN-DT": 1,
+      "DT-NN": 2,
+      "IN-JJ": 1,
+      "JJ-NNS": 1,
+      "NNS-IN": 1,
+      "NN-VBP": 1,
+      "NNP-DT": 1,
+      "DT-NNS": 1,
+      "NNS-RB": 1,
+      "RB-VBP": 1,
+      "JJ-JJ": 2,
+      "JJ-FW": 3,
+      "NN-VBZ": 1,
+      "VBZ-DT": 1,
+      "NN-RB": 2,
+      "RB-JJ": 2,
+      "NNS-NN": 1,
+      "IN-CD": 1,
+      "CD-NNS": 1,
+      "NNS-JJ": 1,
+      "FW-JJ": 2,
+      "CD-NN": 2,
+      "FW-VBZ": 1,
+      "VBZ-IN": 1,
+      "NNP-RB": 1,
+      "RB-VBZ": 1,
+      "VBZ-JJ": 1,
+      "FW-NNS": 1,
+      "NN-$": 1,
+      "$-CD": 1
+    },
+    "trigram_freq": {
+      "NNP-NN-NN": 8,
+      "NN-NN-NN": 38,
+      "NN-NN-VBD": 2,
+      "NN-VBD-CD": 2,
+      "VBD-CD-IN": 1,
+      "CD-IN-FW": 1,
+      "IN-FW-FW": 4,
+      "FW-FW-NNP": 6,
+      "FW-NNP-NN": 3,
+      "NNP-NN-FW": 3,
+      "NN-FW-NNP": 2,
+      "NNP-NN-NNS": 1,
+      "NN-NNS-VBP": 3,
+      "NNS-VBP-JJ": 3,
+      "VBP-JJ-NNP": 1,
+      "JJ-NNP-FW": 1,
+      "NNP-FW-NNP": 1,
+      "FW-NNP-FW": 4,
+      "NNP-FW-NN": 4,
+      "FW-NN-NN": 4,
+      "NN-NN-FW": 4,
+      "NN-FW-FW": 5,
+      "FW-FW-FW": 15,
+      "FW-FW-NN": 5,
+      "NN-NN-IN": 5,
+      "NN-IN-FW": 4,
+      "FW-NNP-NNP": 3,
+      "NNP-NNP-FW": 1,
+      "FW-NN-NNS": 2,
+      "NNS-VBP-NNS": 1,
+      "VBP-NNS-VBP": 1,
+      "NNS-VBP-NNP": 1,
+      "VBP-NNP-NNP": 1,
+      "NNP-NNP-NN": 4,
+      "NN-NN-NNP": 3,
+      "NN-NNP-JJ": 1,
+      "NNP-JJ-NN": 1,
+      "JJ-NN-NN": 7,
+      "NN-NN-JJ": 2,
+      "NN-JJ-NN": 3,
+      "IN-FW-NN": 1,
+      "NN-NN-DT": 1,
+      "NN-DT-NN": 1,
+      "DT-NN-NN": 1,
+      "NN-IN-JJ": 1,
+      "IN-JJ-NNS": 1,
+      "JJ-NNS-IN": 1,
+      "NNS-IN-FW": 1,
+      "IN-FW-NNP": 2,
+      "NN-NN-VBP": 1,
+      "NN-VBP-NNP": 1,
+      "VBP-NNP-DT": 1,
+      "NNP-DT-NNS": 1,
+      "DT-NNS-RB": 1,
+      "NNS-RB-VBP": 1,
+      "RB-VBP-JJ": 1,
+      "VBP-JJ-JJ": 1,
+      "JJ-JJ-FW": 1,
+      "JJ-FW-FW": 2,
+      "JJ-NN-NNP": 2,
+      "NN-NNP-NN": 3,
+      "VBP-JJ-NN": 2,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-DT": 1,
+      "VBZ-DT-NN": 1,
+      "DT-NN-RB": 1,
+      "NN-RB-JJ": 2,
+      "RB-JJ-JJ": 1,
+      "JJ-JJ-NN": 1,
+      "NN-NNP-NNP": 1,
+      "NNP-NNP-NNP": 2,
+      "NN-NN-RB": 1,
+      "RB-JJ-NN": 1,
+      "FW-NN-JJ": 1,
+      "NN-NN-NNS": 1,
+      "NN-NNS-NN": 1,
+      "NNS-NN-IN": 1,
+      "NN-IN-CD": 1,
+      "IN-CD-NNS": 1,
+      "CD-NNS-JJ": 1,
+      "NNS-JJ-NNP": 1,
+      "JJ-NNP-NN": 1,
+      "FW-NN-FW": 3,
+      "NN-FW-JJ": 1,
+      "FW-JJ-NN": 1,
+      "VBD-CD-NN": 1,
+      "CD-NN-NN": 1,
+      "NN-FW-VBZ": 1,
+      "FW-VBZ-IN": 1,
+      "VBZ-IN-FW": 1,
+      "FW-NNP-RB": 1,
+      "NNP-RB-VBZ": 1,
+      "RB-VBZ-JJ": 1,
+      "VBZ-JJ-FW": 1,
+      "NNP-FW-JJ": 1,
+      "FW-JJ-FW": 1,
+      "JJ-FW-NNS": 1,
+      "FW-NNS-VBP": 1,
+      "NN-FW-NN": 1,
+      "FW-NN-$": 1,
+      "NN-$-CD": 1,
+      "$-CD-NN": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 96,
+        "FW": 52,
+        "NNP": 28,
+        "JJ": 17,
+        "IN": 9
+      },
+      "top_bigrams": {
+        "NN-NN": 59,
+        "FW-FW": 26,
+        "NNP-NN": 12,
+        "FW-NNP": 11,
+        "FW-NN": 11
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 38,
+        "FW-FW-FW": 15,
+        "NNP-NN-NN": 8,
+        "JJ-NN-NN": 7,
+        "FW-FW-NNP": 6
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 10,
+    "chunk_counts": {
+      "NP": 74,
+      "VP": 8,
+      "PP": 4,
+      "ADJP": 4
+    },
+    "top_rules": [
+      {
+        "rule": "NP -> ('Ecuador', 'NNP')",
+        "frequency": 3,
+        "weight": 0.03
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 3,
+        "weight": 0.03
+      },
+      {
+        "rule": "NP -> ('Gobierno', 'NNP')",
+        "frequency": 2,
+        "weight": 0.02
+      },
+      {
+        "rule": "S -> NP VP ('10', 'CD') ('de', 'IN') ('agosto', 'FW') ('en', 'FW') NP (',', ',') NP ('de', 'FW') NP (',', ',') NP VP ('de', 'FW') NP (',', ',') ('en', 'FW') ('protesta', 'FW') ('por', 'FW') ('el', 'FW') ('manejo', 'FW') ('de', 'FW') ('la', 'FW') NP PP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.01
+      },
+      {
+        "rule": "NP -> ('Una', 'NNP') ('multitudinaria', 'NN') ('marcha', 'NN') ('avanzó', 'NN') ('por', 'NN') ('la', 'NN')",
+        "frequency": 1,
+        "weight": 0.01
+      },
+      {
+        "rule": "VP -> ('avenida', 'VBD')",
+        "frequency": 1,
+        "weight": 0.01
+      },
+      {
+        "rule": "NP -> ('Quito', 'NNP')",
+        "frequency": 1,
+        "weight": 0.01
+      },
+      {
+        "rule": "NP -> ('capital', 'NN')",
+        "frequency": 1,
+        "weight": 0.01
+      },
+      {
+        "rule": "NP -> ('este', 'NN') ('jueves', 'NNS')",
+        "frequency": 1,
+        "weight": 0.01
+      },
+      {
+        "rule": "VP -> ('hasta', 'VBP') NP",
+        "frequency": 1,
+        "weight": 0.01
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Una multitudinaria marcha avanzó por la"
+      },
+      {
+        "label": "VP",
+        "text": "avenida"
+      },
+      {
+        "label": "NP",
+        "text": "Quito"
+      },
+      {
+        "label": "NP",
+        "text": "capital"
+      },
+      {
+        "label": "NP",
+        "text": "Ecuador"
+      },
+      {
+        "label": "NP",
+        "text": "este jueves"
+      },
+      {
+        "label": "VP",
+        "text": "hasta el Palacio"
+      },
+      {
+        "label": "NP",
+        "text": "el Palacio"
+      },
+      {
+        "label": "NP",
+        "text": "Gobierno"
+      },
+      {
+        "label": "NP",
+        "text": "crisis energética"
+      },
+      {
+        "label": "PP",
+        "text": "en la nación"
+      },
+      {
+        "label": "NP",
+        "text": "la nación"
+      },
+      {
+        "label": "NP",
+        "text": "Durante la marcha"
+      },
+      {
+        "label": "NP",
+        "text": "los participantes"
+      },
+      {
+        "label": "VP",
+        "text": "corearon consignas como"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Una/NNP multitudinaria/NN marcha/NN avanzó/NN por/NN la/NN)\n  (VP avenida/VBD)\n  10/CD\n  de/IN\n  agosto/FW\n  en/FW\n  (NP Quito/NNP)\n  ,/,\n  (NP capital/NN)\n  de/FW\n  (NP Ecuador/NNP)\n  ,/,\n  (NP este/NN jueves/NNS)\n  (VP hasta/VBP (NP el/JJ Palacio/NNP))\n  de/FW\n  (NP Gobierno/NNP)\n  ,/,\n  en/FW\n  protesta/FW\n  por/FW\n  el/FW\n  manejo/FW\n  de/FW\n  la/FW\n  (NP crisis/NN energética/NN)\n  (PP en/IN (NP la/NN nación/NN))\n  ./.)",
+      "(S\n  (NP Durante/NNP la/NNP marcha/NNP)\n  ,/,\n  (NP los/NN participantes/NNS)\n  (VP corearon/VBP (NP consignas/JJ como/NN))\n  :/:\n  (NP “/JJ Fuera/NNP Noboa/NNP)\n  ,/,\n  (NP fuera/NN)\n  ,/,\n  se/FW\n  va/FW\n  (NP a/DT caer/NN ”/NN)\n  ./.)",
+      "(S\n  (NP De/NNP)\n  (NP igual/JJ forma/NN)\n  ,/,\n  (NP reclamaron/NN)\n  (NP una/JJ vida/NN digna/NN)\n  ,/,\n  y/CC\n  (NP manifestaron/NN estar/NN hartos/NN)\n  de/IN\n  la/FW\n  (NP crisis/NN que/NN)\n  (NP no/DT solo/NN es/NN energética/NN sino/NN también/NN)\n  económica/FW\n  y/FW\n  de/FW\n  seguridad/FW\n  ./.)",
+      "(S\n  (NP También/NNP realizaron/NN un/NN plantón/NN)\n  (PP en/IN (NP los/JJ exteriores/NNS))\n  de/IN\n  la/FW\n  (NP Universidad/NNP Central/NNP)\n  ,/,\n  (NP demandando/NN que/NN)\n  (VP\n    el/VBP\n    (NP Gobierno/NNP)\n    (NP no/DT les/NNS)\n    permite/RB\n    (NP trabajar/NNS))\n  ,/,\n  y/CC\n  (ADJP lo/JJ)\n  (ADJP califican/JJ)\n  de/FW\n  “/FW\n  (NP mentiroso/NN)\n  ,/,\n  (NP cínico/NN)\n  ,/,\n  (NP que/JJ los/NN engaña/NN)\n  ,/,\n  (NP maquiavélico/NN ”/NN)\n  ./.)",
+      "(S\n  (NP Asimismo/NNP)\n  ,/,\n  (NP insistieron/NN)\n  en/FW\n  (NP que/NN “/NNP ya/NN basta/NN)\n  ,/,\n  (NP basta/NN el/NN Ecuador/NNP tiene/NN que/NN reaccionar/NN ”/NN)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "CIUDADES_CAPITALES",
+      "GRUPOS_ESPECIFICOS",
+      "RECURSOS_NATURALES",
+      "CRISIS_HUMANITARIA_SERVICIOS",
+      "INSTITUCIONES_EDUCATIVAS",
+      "PAISES",
+      "PROTESTAS_CONFLICTOS_SOCIALES",
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "INFRAESTRUCTURA_SERVICIOS",
+      "LOCALIZACIONES_ESPECIFICAS"
+    ],
+    "matches": [
+      {
+        "category": "PROTESTAS_CONFLICTOS_SOCIALES",
+        "matched_text": "marcha avanzó por la avenida 10 de agosto en quito, capital de ecuador, este jueves hasta el palacio de gobierno",
+        "position": [
+          19,
+          131
+        ],
+        "start": 19,
+        "end": 131
+      },
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "trabajo",
+        "position": [
+          926,
+          933
+        ],
+        "start": 926,
+        "end": 933
+      },
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "capital",
+        "position": [
+          71,
+          78
+        ],
+        "start": 71,
+        "end": 78
+      },
+      {
+        "category": "CRISIS_HUMANITARIA_SERVICIOS",
+        "matched_text": "crisis energética",
+        "position": [
+          165,
+          182
+        ],
+        "start": 165,
+        "end": 182
+      },
+      {
+        "category": "GRUPOS_ESPECIFICOS",
+        "matched_text": "mujeres",
+        "position": [
+          749,
+          756
+        ],
+        "start": 749,
+        "end": 756
+      },
+      {
+        "category": "INSTITUCIONES_EDUCATIVAS",
+        "matched_text": "universidad central",
+        "position": [
+          498,
+          517
+        ],
+        "start": 498,
+        "end": 517
+      },
+      {
+        "category": "RECURSOS_NATURALES",
+        "matched_text": "agua",
+        "position": [
+          1319,
+          1323
+        ],
+        "start": 1319,
+        "end": 1323
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "avenida",
+        "position": [
+          40,
+          47
+        ],
+        "start": 40,
+        "end": 47
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "universidad",
+        "position": [
+          498,
+          509
+        ],
+        "start": 498,
+        "end": 509
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "ecuador",
+        "position": [
+          82,
+          89
+        ],
+        "start": 82,
+        "end": 89
+      },
+      {
+        "category": "CIUDADES_CAPITALES",
+        "matched_text": "quito",
+        "position": [
+          64,
+          69
+        ],
+        "start": 64,
+        "end": 69
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "avenida 10 de",
+        "position": [
+          40,
+          53
+        ],
+        "start": 40,
+        "end": 53
+      }
+    ],
+    "match_count": 12
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "río Paute",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Ecuador",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Noboa",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Quito",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Ximena Jurado",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Gobierno ecuatoriano",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Universidad Central",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Gobierno",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Palacio de Gobierno",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Quito",
+        "relacion": "AVANZAR",
+        "objeto": "Palacio de Gobierno"
+      },
+      {
+        "sujeto": "Ecuador",
+        "relacion": "AVANZAR",
+        "objeto": "Palacio de Gobierno"
+      },
+      {
+        "sujeto": "Gobierno",
+        "relacion": "REALIZAR",
+        "objeto": "Universidad Central"
+      },
+      {
+        "sujeto": "río Paute",
+        "relacion": "ENCONTRAR",
+        "objeto": "Ecuador"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.9578,
+    "pos": 0.0,
+    "neu": 0.924,
+    "neg": 0.076,
+    "label": "negative"
+  }
+}

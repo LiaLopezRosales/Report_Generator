@@ -1,0 +1,807 @@
+{
+  "url": "https://www.telesurtv.net/ecuador-denuncia-mas-treinta-desaparecidos/",
+  "title": "CIDH recibe denuncia de 33 desaparecidos en Ecuador",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "Comisión Interamericana de Derechos Humanos (CIDH)",
+    "Desaparecidos",
+    "familias"
+  ],
+  "text": "El defensor de derechos humanos, Fernando Bastias denunció el miércoles las 33 desapariciones forzadas registradas en Ecuador durante el 2024 durante el conflicto armado interno decretado por el Gobierno.\nDichas desapariciones fueron documentadas por el Comité Permanente por la Defensa de los Derechos Humanos (CDH).\n“El CDH ha documentado al menos 33 víctimas de desaparición forzada en el 2024 en manos de militares. Muchas de ellas sin avances en sus procesos“, destacó en la reunión virtual que se llevó a cabo en presencia de familiares que defienden la necesidad de que el Estado ecuatoriano investigue y ejerza la justicia.\nBastias argumentó que, aún hoy, se desconoce el número de individuos desaparecidos bajo el mando militar, mientras que la Fiscalía registra los informes como desapariciones voluntarias o secuestros, en situaciones donde hay señales de implicación de las Fuerzas Armadas, impactando así el tratamiento legal.\nAsimismo, afirmó que, por esta razón, la Comisión Interamericana de Derechos Humanos (CIDH) debe poner en alerta acerca de la presencia de un subregistro de estas desapariciones forzadas.\nEspecíficamente, destacó que el caso de cuatro menores desaparecidos después de ser capturados por una patrulla militar en la ciudad de Guayaquil (suroeste), en diciembre del año pasado, quienes posteriormente fueron asesinados, motivó a otras familias a reportar sus casos, “revelando un subregistro” de desapariciones.\nEn relación al “Caso de las Malvinas“, denominación que adoptó para el sector de residencia de los menores, expresó que “demuestra cómo en nombre del combate a la inseguridad, las Fuerzas Armadas han actuado ilegalmente con el respaldo de la impunidad del Gobierno actual“.\nEn abril del año pasado, el CDH manifestó su “profunda preocupación” ante el incremento constante de reportes de desapariciones forzadas, homicidios extrajudiciales y otras serias infracciones a los derechos humanos que se imputan a los miembros de la seguridad pública estatal.\n",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/ecuador-denuncia-mas-treinta-desaparecidos/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-07.json",
+    "message_index": 651,
+    "message_id": 99799,
+    "date": "2025-07-24T09:55:08+00:00",
+    "text": "teleSUR\nCIDH recibe denuncia de 33 desaparecidos en Ecuador durante el 2024\nhttps://www.telesurtv.net/ecuador-denuncia-mas-treinta-desaparecidos/",
+    "photo_path": null,
+    "views": 1602,
+    "reactions": {
+      "👍": 21,
+      "😱": 3
+    },
+    "total_reactions": 24
+  },
+  "preprocessing": {
+    "cleaned": "el defensor de derechos humanos, fernando bastias denunció el miércoles las 33 desapariciones forzadas registradas en ecuador durante el 2024 durante el conflicto armado interno decretado por el gobierno. dichas desapariciones fueron documentadas por el comité permanente por la defensa de los derechos humanos (cdh). “el cdh ha documentado al menos 33 víctimas de desaparición forzada en el 2024 en manos de militares. muchas de ellas sin avances en sus procesos“, destacó en la reunión virtual que se llevó a cabo en presencia de familiares que defienden la necesidad de que el estado ecuatoriano investigue y ejerza la justicia. bastias argumentó que, aún hoy, se desconoce el número de individuos desaparecidos bajo el mando militar, mientras que la fiscalía registra los informes como desapariciones voluntarias o secuestros, en situaciones donde hay señales de implicación de las fuerzas armadas, impactando así el tratamiento legal. asimismo, afirmó que, por esta razón, la comisión interamericana de derechos humanos (cidh) debe poner en alerta acerca de la presencia de un subregistro de estas desapariciones forzadas. específicamente, destacó que el caso de cuatro menores desaparecidos después de ser capturados por una patrulla militar en la ciudad de guayaquil (suroeste), en diciembre del año pasado, quienes posteriormente fueron asesinados, motivó a otras familias a reportar sus casos, “revelando un subregistro” de desapariciones. en relación al “caso de las malvinas“, denominación que adoptó para el sector de residencia de los menores, expresó que “demuestra cómo en nombre del combate a la inseguridad, las fuerzas armadas han actuado ilegalmente con el respaldo de la impunidad del gobierno actual“. en abril del año pasado, el cdh manifestó su “profunda preocupación” ante el incremento constante de reportes de desapariciones forzadas, homicidios extrajudiciales y otras serias infracciones a los derechos humanos que se imputan a los miembros de la seguridad pública estatal.",
+    "tokens": [
+      "defensor",
+      "derechos",
+      "humanos",
+      ",",
+      "fernando",
+      "bastias",
+      "denunció",
+      "miércoles",
+      "33",
+      "desapariciones",
+      "forzadas",
+      "registradas",
+      "ecuador",
+      "2024",
+      "conflicto",
+      "armado",
+      "interno",
+      "decretado",
+      "gobierno",
+      ".",
+      "dichas",
+      "desapariciones",
+      "documentadas",
+      "comité",
+      "permanente",
+      "defensa",
+      "derechos",
+      "humanos",
+      "(",
+      "cdh",
+      ")",
+      ".",
+      "“",
+      "cdh",
+      "documentado",
+      "menos",
+      "33",
+      "víctimas",
+      "desaparición",
+      "forzada",
+      "2024",
+      "manos",
+      "militares",
+      ".",
+      "muchas",
+      "avances",
+      "procesos",
+      "“",
+      ",",
+      "destacó",
+      "reunión",
+      "virtual",
+      "llevó",
+      "cabo",
+      "presencia",
+      "familiares",
+      "defienden",
+      "necesidad",
+      "ecuatoriano",
+      "investigue",
+      "ejerza",
+      "justicia",
+      ".",
+      "bastias",
+      "argumentó",
+      ",",
+      "aún",
+      "hoy",
+      ",",
+      "desconoce",
+      "número",
+      "individuos",
+      "desaparecidos",
+      "bajo",
+      "mando",
+      "militar",
+      ",",
+      "mientras",
+      "fiscalía",
+      "registra",
+      "informes",
+      "desapariciones",
+      "voluntarias",
+      "secuestros",
+      ",",
+      "situaciones",
+      "señales",
+      "implicación",
+      "fuerzas",
+      "armadas",
+      ",",
+      "impactando",
+      "así",
+      "tratamiento",
+      "legal",
+      ".",
+      "asimismo",
+      ",",
+      "afirmó",
+      ",",
+      "razón",
+      ",",
+      "comisión",
+      "interamericana",
+      "derechos",
+      "humanos",
+      "(",
+      "cidh",
+      ")",
+      "debe",
+      "poner",
+      "alerta",
+      "acerca",
+      "presencia",
+      "subregistro",
+      "desapariciones",
+      "forzadas",
+      ".",
+      "específicamente",
+      ",",
+      "destacó",
+      "caso",
+      "cuatro",
+      "menores",
+      "desaparecidos",
+      "después",
+      "ser",
+      "capturados",
+      "patrulla",
+      "militar",
+      "ciudad",
+      "guayaquil",
+      "(",
+      "suroeste",
+      ")",
+      ",",
+      "diciembre",
+      "año",
+      "pasado",
+      ",",
+      "posteriormente",
+      "asesinados",
+      ",",
+      "motivó",
+      "familias",
+      "reportar",
+      "casos",
+      ",",
+      "“",
+      "revelando",
+      "subregistro",
+      "”",
+      "desapariciones",
+      ".",
+      "relación",
+      "“",
+      "caso",
+      "malvinas",
+      "“",
+      ",",
+      "denominación",
+      "adoptó",
+      "sector",
+      "residencia",
+      "menores",
+      ",",
+      "expresó",
+      "“",
+      "demuestra",
+      "cómo",
+      "nombre",
+      "combate",
+      "inseguridad",
+      ",",
+      "fuerzas",
+      "armadas",
+      "actuado",
+      "ilegalmente",
+      "respaldo",
+      "impunidad",
+      "gobierno",
+      "actual",
+      "“",
+      ".",
+      "abril",
+      "año",
+      "pasado",
+      ",",
+      "cdh",
+      "manifestó",
+      "“",
+      "profunda",
+      "preocupación",
+      "”",
+      "incremento",
+      "constante",
+      "reportes",
+      "desapariciones",
+      "forzadas",
+      ",",
+      "homicidios",
+      "extrajudiciales",
+      "serias",
+      "infracciones",
+      "derechos",
+      "humanos",
+      "imputan",
+      "miembros",
+      "seguridad",
+      "pública",
+      "estatal",
+      "."
+    ],
+    "token_count": 212,
+    "sentence_count": 9
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 36,
+      "NN": 105,
+      "FW": 67,
+      "VBZ": 3,
+      "JJ": 25,
+      "NNS": 21,
+      "VBP": 13,
+      "CD": 4,
+      "IN": 16,
+      "VBD": 1,
+      "$": 1
+    },
+    "bigram_freq": {
+      "NNP-NN": 14,
+      "NN-FW": 14,
+      "FW-FW": 39,
+      "FW-NNP": 8,
+      "NNP-NNP": 12,
+      "NNP-VBZ": 3,
+      "VBZ-JJ": 2,
+      "JJ-NNS": 6,
+      "NNS-VBP": 13,
+      "VBP-CD": 1,
+      "CD-NNS": 1,
+      "NNS-JJ": 1,
+      "NNS-IN": 1,
+      "IN-NNP": 2,
+      "NN-NN": 60,
+      "NN-CD": 1,
+      "CD-NN": 2,
+      "FW-NN": 11,
+      "NN-NNP": 7,
+      "VBZ-NN": 1,
+      "NN-NNS": 5,
+      "VBP-JJ": 7,
+      "JJ-NNP": 3,
+      "NNP-IN": 3,
+      "IN-FW": 10,
+      "NN-VBD": 1,
+      "VBD-$": 1,
+      "$-CD": 1,
+      "FW-CD": 1,
+      "CD-IN": 1,
+      "NNP-FW": 3,
+      "VBP-NN": 3,
+      "NN-IN": 11,
+      "FW-JJ": 4,
+      "JJ-NN": 14,
+      "FW-NNS": 4,
+      "JJ-JJ": 2,
+      "VBP-NNS": 1,
+      "NNS-NNS": 3,
+      "NNS-FW": 1,
+      "IN-JJ": 3,
+      "VBP-NNP": 1,
+      "NN-JJ": 5,
+      "IN-NNS": 1,
+      "NNS-NNP": 2,
+      "NNP-JJ": 1
+    },
+    "trigram_freq": {
+      "NNP-NN-FW": 2,
+      "NN-FW-FW": 6,
+      "FW-FW-FW": 25,
+      "FW-FW-NNP": 5,
+      "FW-NNP-NNP": 3,
+      "NNP-NNP-VBZ": 2,
+      "NNP-VBZ-JJ": 2,
+      "VBZ-JJ-NNS": 1,
+      "JJ-NNS-VBP": 3,
+      "NNS-VBP-CD": 1,
+      "VBP-CD-NNS": 1,
+      "CD-NNS-JJ": 1,
+      "NNS-JJ-NNS": 1,
+      "JJ-NNS-IN": 1,
+      "NNS-IN-NNP": 1,
+      "IN-NNP-NN": 1,
+      "NNP-NN-NN": 12,
+      "NN-NN-CD": 1,
+      "NN-CD-NN": 1,
+      "CD-NN-FW": 2,
+      "NN-FW-NN": 5,
+      "FW-NN-NN": 4,
+      "NN-NN-NN": 35,
+      "NN-NN-NNP": 6,
+      "NN-NNP-NNP": 2,
+      "NNP-VBZ-NN": 1,
+      "VBZ-NN-NNS": 1,
+      "NN-NNS-VBP": 5,
+      "NNS-VBP-JJ": 7,
+      "VBP-JJ-NNP": 1,
+      "JJ-NNP-NNP": 1,
+      "NNP-NNP-NN": 5,
+      "NN-NNP-IN": 2,
+      "NNP-IN-FW": 2,
+      "IN-FW-NNP": 2,
+      "NNP-NNP-NNP": 4,
+      "NN-NN-VBD": 1,
+      "NN-VBD-$": 1,
+      "VBD-$-CD": 1,
+      "$-CD-NN": 1,
+      "FW-FW-CD": 1,
+      "FW-CD-IN": 1,
+      "CD-IN-FW": 1,
+      "IN-FW-FW": 6,
+      "FW-NNP-FW": 3,
+      "NNP-FW-FW": 1,
+      "FW-FW-NN": 3,
+      "FW-NN-NNS": 3,
+      "NNS-VBP-NN": 3,
+      "VBP-NN-NN": 2,
+      "NN-NN-IN": 7,
+      "NN-IN-FW": 7,
+      "FW-FW-JJ": 1,
+      "FW-JJ-NN": 4,
+      "JJ-NN-NN": 7,
+      "NN-NN-FW": 4,
+      "FW-FW-NNS": 4,
+      "FW-NNS-VBP": 3,
+      "VBP-JJ-NN": 2,
+      "JJ-NN-FW": 3,
+      "NNP-FW-NN": 2,
+      "NN-NNP-VBZ": 1,
+      "VBZ-JJ-JJ": 1,
+      "JJ-JJ-NN": 2,
+      "FW-NN-FW": 3,
+      "NN-FW-NNP": 1,
+      "NNS-VBP-NNS": 1,
+      "VBP-NNS-NNS": 1,
+      "NNS-NNS-VBP": 2,
+      "VBP-JJ-NNS": 3,
+      "JJ-NNS-FW": 1,
+      "NNS-FW-FW": 1,
+      "NN-IN-JJ": 3,
+      "IN-JJ-NNP": 1,
+      "JJ-NNP-NN": 2,
+      "NNP-NNP-IN": 1,
+      "NNP-IN-NNP": 1,
+      "IN-NNP-NNP": 1,
+      "IN-JJ-NN": 2,
+      "JJ-NN-IN": 3,
+      "NNS-VBP-NNP": 1,
+      "VBP-NNP-NN": 1,
+      "VBP-NN-IN": 1,
+      "IN-FW-NN": 1,
+      "NN-NN-JJ": 5,
+      "NN-JJ-NN": 4,
+      "FW-NNP-NN": 2,
+      "NN-NN-NNS": 1,
+      "NN-FW-JJ": 2,
+      "NN-IN-NNS": 1,
+      "IN-NNS-NNP": 1,
+      "NNS-NNP-NN": 1,
+      "VBP-JJ-JJ": 1,
+      "NN-JJ-NNS": 1,
+      "JJ-NNS-NNP": 1,
+      "NNS-NNP-NNP": 1,
+      "IN-FW-JJ": 1,
+      "JJ-NN-NNP": 1,
+      "NN-NNP-JJ": 1,
+      "NNP-JJ-NNP": 1,
+      "NN-NNP-NN": 1,
+      "FW-NNS-NNS": 1,
+      "NNS-NNS-NNS": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 105,
+        "FW": 67,
+        "NNP": 36,
+        "JJ": 25,
+        "NNS": 21
+      },
+      "top_bigrams": {
+        "NN-NN": 60,
+        "FW-FW": 39,
+        "NNP-NN": 14,
+        "NN-FW": 14,
+        "JJ-NN": 14
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 35,
+        "FW-FW-FW": 25,
+        "NNP-NN-NN": 12,
+        "NNS-VBP-JJ": 7,
+        "NN-NN-IN": 7
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 9,
+    "chunk_counts": {
+      "NP": 84,
+      "VP": 18,
+      "PP": 4,
+      "ADJP": 1
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 3,
+        "weight": 0.0259
+      },
+      {
+        "rule": "NP -> ('desapariciones', 'NNS')",
+        "frequency": 2,
+        "weight": 0.0172
+      },
+      {
+        "rule": "NP -> ('Derechos', 'NNP') ('Humanos', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0172
+      },
+      {
+        "rule": "NP -> ('CDH', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0172
+      },
+      {
+        "rule": "S -> NP ('de', 'FW') ('derechos', 'FW') NP (',', ',') NP VP VP ('33', 'CD') NP NP PP ('2024', 'CD') NP ('el', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0086
+      },
+      {
+        "rule": "NP -> ('El', 'NNP') ('defensor', 'NN')",
+        "frequency": 1,
+        "weight": 0.0086
+      },
+      {
+        "rule": "NP -> ('humanos', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0086
+      },
+      {
+        "rule": "NP -> ('Fernando', 'NNP') ('Bastias', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0086
+      },
+      {
+        "rule": "VP -> ('denunció', 'VBZ') NP",
+        "frequency": 1,
+        "weight": 0.0086
+      },
+      {
+        "rule": "NP -> ('el', 'JJ') ('miércoles', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0086
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El defensor"
+      },
+      {
+        "label": "NP",
+        "text": "humanos"
+      },
+      {
+        "label": "NP",
+        "text": "Fernando Bastias"
+      },
+      {
+        "label": "VP",
+        "text": "denunció el miércoles"
+      },
+      {
+        "label": "NP",
+        "text": "el miércoles"
+      },
+      {
+        "label": "VP",
+        "text": "las"
+      },
+      {
+        "label": "NP",
+        "text": "desapariciones"
+      },
+      {
+        "label": "NP",
+        "text": "forzadas registradas"
+      },
+      {
+        "label": "PP",
+        "text": "en Ecuador durante el"
+      },
+      {
+        "label": "NP",
+        "text": "Ecuador durante el"
+      },
+      {
+        "label": "NP",
+        "text": "durante"
+      },
+      {
+        "label": "NP",
+        "text": "conflicto armado interno decretado por el Gobierno"
+      },
+      {
+        "label": "NP",
+        "text": "Dichas desapariciones"
+      },
+      {
+        "label": "VP",
+        "text": "fueron documentadas por el Comité Permanente por la Defensa"
+      },
+      {
+        "label": "NP",
+        "text": "documentadas por el Comité Permanente por la Defensa"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP El/NNP defensor/NN)\n  de/FW\n  derechos/FW\n  (NP humanos/NNS)\n  ,/,\n  (NP Fernando/NNP Bastias/NNP)\n  (VP denunció/VBZ (NP el/JJ miércoles/NNS))\n  (VP las/VBP)\n  33/CD\n  (NP desapariciones/NNS)\n  (NP forzadas/JJ registradas/NNS)\n  (PP en/IN (NP Ecuador/NNP durante/NN el/NN))\n  2024/CD\n  (NP durante/NN)\n  el/FW\n  (NP\n    conflicto/NN\n    armado/NN\n    interno/NN\n    decretado/NN\n    por/NN\n    el/NN\n    Gobierno/NNP)\n  ./.)",
+      "(S\n  (NP Dichas/NNP desapariciones/NNS)\n  (VP\n    fueron/VBP\n    (NP\n      documentadas/JJ\n      por/NN\n      el/NN\n      Comité/NNP\n      Permanente/NNP\n      por/NN\n      la/NN\n      Defensa/NNP))\n  de/IN\n  los/FW\n  (NP Derechos/NNP Humanos/NNP)\n  (/(\n  (NP CDH/NNP)\n  )/)\n  ./.)",
+      "(S\n  (NP “/JJ El/NNP CDH/NNP ha/NN documentado/NN)\n  (VP al/VBD)\n  menos/$\n  33/CD\n  (NP víctimas/NN)\n  de/FW\n  desaparición/FW\n  forzada/FW\n  en/FW\n  el/FW\n  2024/CD\n  en/IN\n  manos/FW\n  de/FW\n  (NP militares/NNS)\n  ./.)",
+      "(S\n  (NP Muchas/NNP)\n  de/FW\n  ellas/FW\n  (NP sin/NN avances/NNS)\n  (VP en/VBP (NP sus/NN procesos/NN “/NNP))\n  ,/,\n  (NP destacó/NN)\n  en/FW\n  la/FW\n  reunión/FW\n  (NP virtual/JJ que/NN se/NN)\n  (VP llevó/VBZ (NP a/DT cabo/NN))\n  en/FW\n  presencia/FW\n  de/FW\n  (NP familiares/NNS)\n  (VP que/VBP (NP defienden/JJ la/NN))\n  necesidad/FW\n  de/FW\n  que/FW\n  el/FW\n  (NP Estado/NNP)\n  ecuatoriano/FW\n  (NP investigue/NN y/NN ejerza/NN la/NN justicia/NN)\n  ./.)",
+      "(S\n  (NP Bastias/NNP argumentó/NN que/NN)\n  ,/,\n  (NP aún/JJ hoy/NN)\n  ,/,\n  se/FW\n  desconoce/FW\n  el/FW\n  número/FW\n  de/FW\n  individuos/FW\n  desaparecidos/FW\n  bajo/FW\n  el/FW\n  mando/FW\n  (NP militar/NN)\n  ,/,\n  mientras/FW\n  (NP que/NN)\n  la/FW\n  (NP Fiscalía/NNP)\n  registra/FW\n  (NP los/NN informes/NNS)\n  (VP como/VBP (NP desapariciones/NNS voluntarias/NNS))\n  (VP o/VBP (NP secuestros/NNS))\n  ,/,\n  en/FW\n  (NP situaciones/NNS)\n  (VP donde/VBP (NP hay/JJ señales/NNS))\n  de/FW\n  implicación/FW\n  de/FW\n  las/FW\n  (NP Fuerzas/NNP Armadas/NNP)\n  ,/,\n  (NP impactando/NN así/NN el/NN)\n  tratamiento/IN\n  (ADJP legal/JJ)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "CIUDADES_CAPITALES",
+      "APROBACION_RECHAZO",
+      "TIEMPO_RELATIVO",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "ACCIONES_LEGALES",
+      "REGIONES_PROVINCIAS",
+      "JUSTICIA_SOCIAL",
+      "PAISES",
+      "PROTESTAS_CONFLICTOS_SOCIALES",
+      "CONFLICTOS_ARMADOS_OPERACIONES",
+      "RELACIONES_INTERNACIONALES",
+      "JURIDICO_LEGISLATIVO_CORRUPCION",
+      "VIOLENCIA_CRIMEN_DERECHOS_HUMANOS"
+    ],
+    "matches": [
+      {
+        "category": "PROTESTAS_CONFLICTOS_SOCIALES",
+        "matched_text": "conflicto armado interno decretado por el gobierno",
+        "position": [
+          153,
+          203
+        ],
+        "start": 153,
+        "end": 203
+      },
+      {
+        "category": "PROTESTAS_CONFLICTOS_SOCIALES",
+        "matched_text": "manifestó",
+        "position": [
+          1755,
+          1764
+        ],
+        "start": 1755,
+        "end": 1764
+      },
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "víctimas de desaparición forzada en el 2024 en manos de militares",
+        "position": [
+          353,
+          418
+        ],
+        "start": 353,
+        "end": 418
+      },
+      {
+        "category": "RELACIONES_INTERNACIONALES",
+        "matched_text": "respaldo de la impunidad del gobierno",
+        "position": [
+          1676,
+          1713
+        ],
+        "start": 1676,
+        "end": 1713
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "afirmó",
+        "position": [
+          950,
+          956
+        ],
+        "start": 950,
+        "end": 956
+      },
+      {
+        "category": "JURIDICO_LEGISLATIVO_CORRUPCION",
+        "matched_text": "defensa",
+        "position": [
+          279,
+          286
+        ],
+        "start": 279,
+        "end": 286
+      },
+      {
+        "category": "VIOLENCIA_CRIMEN_DERECHOS_HUMANOS",
+        "matched_text": "desaparición forzada",
+        "position": [
+          365,
+          385
+        ],
+        "start": 365,
+        "end": 385
+      },
+      {
+        "category": "APROBACION_RECHAZO",
+        "matched_text": "destacó",
+        "position": [
+          466,
+          473
+        ],
+        "start": 466,
+        "end": 473
+      },
+      {
+        "category": "ACCIONES_LEGALES",
+        "matched_text": "denunció",
+        "position": [
+          50,
+          58
+        ],
+        "start": 50,
+        "end": 58
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "ecuador",
+        "position": [
+          118,
+          125
+        ],
+        "start": 118,
+        "end": 125
+      },
+      {
+        "category": "CIUDADES_CAPITALES",
+        "matched_text": "guayaquil",
+        "position": [
+          1264,
+          1273
+        ],
+        "start": 1264,
+        "end": 1273
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "estado ecuatoriano",
+        "position": [
+          580,
+          598
+        ],
+        "start": 580,
+        "end": 598
+      },
+      {
+        "category": "TIEMPO_RELATIVO",
+        "matched_text": "hoy",
+        "position": [
+          659,
+          662
+        ],
+        "start": 659,
+        "end": 662
+      },
+      {
+        "category": "JUSTICIA_SOCIAL",
+        "matched_text": "derechos humanos",
+        "position": [
+          15,
+          31
+        ],
+        "start": 15,
+        "end": 31
+      }
+    ],
+    "match_count": 14
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Bastias",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Ecuador",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Comité Permanente por la Defensa de los Derechos Humanos",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Guayaquil",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Comisión Interamericana de Derechos Humanos",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Gobierno",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Fernando Bastias",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "CDH",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Fiscalía",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Fuerzas Armadas",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Estado ecuatoriano",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "CIDH",
+        "tipo": "Organizacion"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Fernando Bastias",
+        "relacion": "DENUNCIAR",
+        "objeto": "Ecuador"
+      },
+      {
+        "sujeto": "Fernando Bastias",
+        "relacion": "DENUNCIAR",
+        "objeto": "Gobierno"
+      },
+      {
+        "sujeto": "Fiscalía",
+        "relacion": "REGISTRAR",
+        "objeto": "Fuerzas Armadas"
+      },
+      {
+        "sujeto": "Fuerzas Armadas",
+        "relacion": "ACTUAR_DEMOSTRAR_EXPRESAR",
+        "objeto": "Gobierno"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.1779,
+    "pos": 0.013,
+    "neu": 0.975,
+    "neg": 0.012,
+    "label": "negative"
+  }
+}

@@ -1,0 +1,757 @@
+{
+  "url": "https://www.telesurtv.net/familias-de-rehenes-israelies-en-gaza-denuncian-obstaculos-de-benjamin-netanyahu/",
+  "title": "Familias de rehenes israelíes en Gaza denuncian obstáculos de Benjamin Netanyahu - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Benjamín Netanyahu",
+    "Hamas",
+    "Israel"
+  ],
+  "text": "La Autoridad de Familias de Prisioneros Israelíes en Gaza imputó al primer ministro de Israel, Benjamín Netanyahu, de impedir el pacto de intercambio con el movimiento palestino de la resistencia islámica Hamas con el fin de satisfacer a sus aliados de coalición, a expensas de las vidas de los rehenes.\n“Es increíble que el presidente de Estados Unidos, Donald Trump, y su enviado, Steve Witkoff, estén más comprometidos con la devolución de los presos que Netanyahu”, indicó la entidad en un anuncio.\nAdemás, señaló que 63 personas se mantienen como rehenes desde hace 505 días, y denunció los constantes esfuerzos por obstaculizar la segunda etapa del acuerdo de intercambio y dejar a aquellos que continúan en prisión.\nEl comunicado se dirigió a Netanyahu con las siguientes expresiones: “Sabemos que hay quienes intentan convencerle de la necesidad de destruir el gobierno de Hamas, pero esto conducirá inevitablemente a la ejecución de los prisioneros”.\nEn ese contexto, resaltó la necesidad de recuperar primero a los rehenes y luego tratar de solucionar los demás problemas, enfatizando que los reclusos no deben asumir el costo de los fallos gubernamentales.\nIgualmente, pidió al gobierno de Israel acelerar la segunda etapa del acuerdo de canje y pidió al mandatario de Estados Unidos ejercer presión sobre Netanyahu en relación con el tema.\n“El gobierno está desconectado de la realidad, trabaja en contra de la voluntad del pueblo y amenaza con el regreso de la guerra en lugar de concluir un acuerdo integral”, añadió la Autoridad de Familias de Prisioneros.\nAdemás, propuso mantener el movimiento y la protesta hasta que todos los reclusos sean liberados, sin retraso y en un único periodo.\nLuego de indicar que Hamas está preparado para liberar a los prisioneros de una única vez a cambio de finalizar la guerra, pidió a Israel que aceptara este pacto.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/familias-de-rehenes-israelies-en-gaza-denuncian-obstaculos-de-benjamin-netanyahu/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-02.json",
+    "message_index": 446,
+    "message_id": 87509,
+    "date": "2025-02-23T08:55:17+00:00",
+    "text": "teleSUR\nFamilias de rehenes israelíes en Gaza denuncian obstáculos de Benjamin Netanyahu\nhttps://www.telesurtv.net/familias-de-rehenes-israelies-en-gaza-denuncian-obstaculos-de-benjamin-netanyahu/",
+    "photo_path": null,
+    "views": 1859,
+    "reactions": {
+      "👍": 39,
+      "🤬": 6,
+      "🤔": 4
+    },
+    "total_reactions": 49
+  },
+  "preprocessing": {
+    "cleaned": "la autoridad de familias de prisioneros israelíes en gaza imputó al primer ministro de israel, benjamín netanyahu, de impedir el pacto de intercambio con el movimiento palestino de la resistencia islámica hamas con el fin de satisfacer a sus aliados de coalición, a expensas de las vidas de los rehenes. “es increíble que el presidente de estados unidos, donald trump, y su enviado, steve witkoff, estén más comprometidos con la devolución de los presos que netanyahu”, indicó la entidad en un anuncio. además, señaló que 63 personas se mantienen como rehenes desde hace 505 días, y denunció los constantes esfuerzos por obstaculizar la segunda etapa del acuerdo de intercambio y dejar a aquellos que continúan en prisión. el comunicado se dirigió a netanyahu con las siguientes expresiones: “sabemos que hay quienes intentan convencerle de la necesidad de destruir el gobierno de hamas, pero esto conducirá inevitablemente a la ejecución de los prisioneros”. en ese contexto, resaltó la necesidad de recuperar primero a los rehenes y luego tratar de solucionar los demás problemas, enfatizando que los reclusos no deben asumir el costo de los fallos gubernamentales. igualmente, pidió al gobierno de israel acelerar la segunda etapa del acuerdo de canje y pidió al mandatario de estados unidos ejercer presión sobre netanyahu en relación con el tema. “el gobierno está desconectado de la realidad, trabaja en contra de la voluntad del pueblo y amenaza con el regreso de la guerra en lugar de concluir un acuerdo integral”, añadió la autoridad de familias de prisioneros. además, propuso mantener el movimiento y la protesta hasta que todos los reclusos sean liberados, sin retraso y en un único periodo. luego de indicar que hamas está preparado para liberar a los prisioneros de una única vez a cambio de finalizar la guerra, pidió a israel que aceptara este pacto.",
+    "tokens": [
+      "autoridad",
+      "familias",
+      "prisioneros",
+      "israelíes",
+      "gaza",
+      "imputó",
+      "primer",
+      "ministro",
+      "israel",
+      ",",
+      "benjamín",
+      "netanyahu",
+      ",",
+      "impedir",
+      "pacto",
+      "intercambio",
+      "movimiento",
+      "palestino",
+      "resistencia",
+      "islámica",
+      "hamas",
+      "fin",
+      "satisfacer",
+      "aliados",
+      "coalición",
+      ",",
+      "expensas",
+      "vidas",
+      "rehenes",
+      ".",
+      "“",
+      "increíble",
+      "presidente",
+      "unidos",
+      ",",
+      "donald",
+      "trump",
+      ",",
+      "enviado",
+      ",",
+      "steve",
+      "witkoff",
+      ",",
+      "comprometidos",
+      "devolución",
+      "presos",
+      "netanyahu",
+      "”",
+      ",",
+      "indicó",
+      "entidad",
+      "anuncio",
+      ".",
+      "además",
+      ",",
+      "señaló",
+      "63",
+      "personas",
+      "mantienen",
+      "rehenes",
+      "hace",
+      "505",
+      "días",
+      ",",
+      "denunció",
+      "constantes",
+      "esfuerzos",
+      "obstaculizar",
+      "segunda",
+      "etapa",
+      "acuerdo",
+      "intercambio",
+      "dejar",
+      "aquellos",
+      "continúan",
+      "prisión",
+      ".",
+      "comunicado",
+      "dirigió",
+      "netanyahu",
+      "siguientes",
+      "expresiones",
+      ":",
+      "“",
+      "sabemos",
+      "intentan",
+      "convencerle",
+      "necesidad",
+      "destruir",
+      "gobierno",
+      "hamas",
+      ",",
+      "conducirá",
+      "inevitablemente",
+      "ejecución",
+      "prisioneros",
+      "”",
+      ".",
+      "contexto",
+      ",",
+      "resaltó",
+      "necesidad",
+      "recuperar",
+      "primero",
+      "rehenes",
+      "luego",
+      "tratar",
+      "solucionar",
+      "demás",
+      "problemas",
+      ",",
+      "enfatizando",
+      "reclusos",
+      "deben",
+      "asumir",
+      "costo",
+      "fallos",
+      "gubernamentales",
+      ".",
+      "igualmente",
+      ",",
+      "pidió",
+      "gobierno",
+      "israel",
+      "acelerar",
+      "segunda",
+      "etapa",
+      "acuerdo",
+      "canje",
+      "pidió",
+      "mandatario",
+      "unidos",
+      "ejercer",
+      "presión",
+      "netanyahu",
+      "relación",
+      "tema",
+      ".",
+      "“",
+      "gobierno",
+      "desconectado",
+      "realidad",
+      ",",
+      "trabaja",
+      "voluntad",
+      "pueblo",
+      "amenaza",
+      "regreso",
+      "guerra",
+      "lugar",
+      "concluir",
+      "acuerdo",
+      "integral",
+      "”",
+      ",",
+      "añadió",
+      "autoridad",
+      "familias",
+      "prisioneros",
+      ".",
+      "además",
+      ",",
+      "propuso",
+      "mantener",
+      "movimiento",
+      "protesta",
+      "reclusos",
+      "liberados",
+      ",",
+      "retraso",
+      "único",
+      "periodo",
+      ".",
+      "luego",
+      "indicar",
+      "hamas",
+      "preparado",
+      "liberar",
+      "prisioneros",
+      "única",
+      "vez",
+      "cambio",
+      "finalizar",
+      "guerra",
+      ",",
+      "pidió",
+      "israel",
+      "aceptara",
+      "pacto",
+      "."
+    ],
+    "token_count": 190,
+    "sentence_count": 9
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 39,
+      "FW": 93,
+      "NN": 106,
+      "IN": 16,
+      "NNS": 7,
+      "JJ": 15,
+      "CD": 2,
+      "VBD": 1,
+      "VBZ": 4,
+      "DT": 1,
+      "RB": 1,
+      "VBP": 1
+    },
+    "bigram_freq": {
+      "NNP-NNP": 10,
+      "NNP-FW": 6,
+      "FW-NNP": 9,
+      "NNP-NN": 17,
+      "NN-NN": 61,
+      "NN-IN": 14,
+      "IN-NNP": 3,
+      "NNP-IN": 2,
+      "IN-FW": 10,
+      "FW-FW": 66,
+      "FW-NN": 11,
+      "NN-NNP": 11,
+      "FW-NNS": 3,
+      "NNS-NNP": 4,
+      "NNP-JJ": 2,
+      "JJ-NN": 10,
+      "NN-FW": 10,
+      "FW-JJ": 3,
+      "NN-CD": 2,
+      "CD-NN": 2,
+      "NN-NNS": 2,
+      "NNS-VBD": 1,
+      "VBD-NN": 1,
+      "NN-VBZ": 2,
+      "VBZ-JJ": 2,
+      "IN-NN": 2,
+      "VBZ-NNS": 1,
+      "NNS-JJ": 1,
+      "NNS-FW": 1,
+      "FW-VBZ": 1,
+      "VBZ-DT": 1,
+      "DT-NN": 1,
+      "NN-RB": 1,
+      "RB-JJ": 1,
+      "JJ-NNS": 1,
+      "NNP-VBP": 1,
+      "VBP-NN": 1,
+      "NNP-VBZ": 1,
+      "JJ-JJ": 3,
+      "NN-JJ": 2,
+      "IN-JJ": 1,
+      "JJ-NNP": 1
+    },
+    "trigram_freq": {
+      "NNP-NNP-FW": 2,
+      "NNP-FW-NNP": 5,
+      "FW-NNP-FW": 3,
+      "FW-NNP-NNP": 3,
+      "FW-NNP-NN": 3,
+      "NNP-NN-NN": 16,
+      "NN-NN-NN": 32,
+      "NN-NN-IN": 8,
+      "NN-IN-NNP": 3,
+      "IN-NNP-NNP": 2,
+      "NNP-NNP-NNP": 3,
+      "NNP-NNP-IN": 1,
+      "NNP-IN-FW": 1,
+      "IN-FW-FW": 8,
+      "FW-FW-FW": 51,
+      "FW-FW-NN": 6,
+      "FW-NN-NN": 3,
+      "NN-IN-FW": 9,
+      "FW-NN-NNP": 2,
+      "NN-NNP-NN": 7,
+      "FW-FW-NNS": 3,
+      "FW-NNS-NNP": 2,
+      "NNS-NNP-JJ": 2,
+      "NNP-JJ-NN": 2,
+      "JJ-NN-NN": 6,
+      "NNP-NNP-NN": 4,
+      "NN-NN-NNP": 6,
+      "NN-NNP-NNP": 1,
+      "NN-NN-FW": 7,
+      "NN-FW-FW": 7,
+      "FW-FW-JJ": 2,
+      "FW-JJ-NN": 1,
+      "JJ-NN-NNP": 1,
+      "FW-FW-NNP": 3,
+      "NN-NN-CD": 1,
+      "NN-CD-NN": 2,
+      "CD-NN-NN": 2,
+      "NN-NN-NNS": 2,
+      "NN-NNS-VBD": 1,
+      "NNS-VBD-NN": 1,
+      "VBD-NN-CD": 1,
+      "NN-NN-VBZ": 2,
+      "NN-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 2,
+      "NN-FW-NN": 3,
+      "FW-NN-IN": 3,
+      "NN-IN-NN": 1,
+      "IN-NN-NNP": 1,
+      "NN-VBZ-NNS": 1,
+      "VBZ-NNS-NNP": 1,
+      "NNS-NNP-NN": 2,
+      "NN-NNS-JJ": 1,
+      "NNS-JJ-NN": 1,
+      "JJ-NN-IN": 3,
+      "FW-NNS-FW": 1,
+      "NNS-FW-NN": 1,
+      "FW-FW-VBZ": 1,
+      "FW-VBZ-DT": 1,
+      "VBZ-DT-NN": 1,
+      "DT-NN-RB": 1,
+      "NN-RB-JJ": 1,
+      "RB-JJ-NN": 1,
+      "IN-FW-JJ": 1,
+      "FW-JJ-NNS": 1,
+      "JJ-NNS-NNP": 1,
+      "IN-NNP-VBP": 1,
+      "NNP-VBP-NN": 1,
+      "VBP-NN-NN": 1,
+      "NN-NNP-VBZ": 1,
+      "NNP-VBZ-JJ": 1,
+      "FW-NN-FW": 3,
+      "FW-JJ-JJ": 1,
+      "JJ-JJ-JJ": 1,
+      "JJ-JJ-NN": 2,
+      "NN-NNP-FW": 1,
+      "NN-NN-JJ": 2,
+      "NN-JJ-JJ": 1,
+      "NN-IN-JJ": 1,
+      "IN-JJ-NNP": 1,
+      "JJ-NNP-NN": 1,
+      "NNP-NN-NNP": 1,
+      "NN-NNP-IN": 1,
+      "NNP-IN-NN": 1,
+      "IN-NN-NN": 1,
+      "NN-JJ-NN": 1,
+      "IN-FW-NNP": 1,
+      "NNP-FW-NN": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 106,
+        "FW": 93,
+        "NNP": 39,
+        "IN": 16,
+        "JJ": 15
+      },
+      "top_bigrams": {
+        "FW-FW": 66,
+        "NN-NN": 61,
+        "NNP-NN": 17,
+        "NN-IN": 14,
+        "FW-NN": 11
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 51,
+        "NN-NN-NN": 32,
+        "NNP-NN-NN": 16,
+        "NN-IN-FW": 9,
+        "NN-NN-IN": 8
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 9,
+    "chunk_counts": {
+      "NP": 76,
+      "PP": 6,
+      "VP": 16,
+      "ADJP": 1
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 4,
+        "weight": 0.037
+      },
+      {
+        "rule": "NP -> ('Familias', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0185
+      },
+      {
+        "rule": "NP -> ('Israel', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0185
+      },
+      {
+        "rule": "NP -> ('Además', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0185
+      },
+      {
+        "rule": "NP -> ('acuerdo', 'NN')",
+        "frequency": 2,
+        "weight": 0.0185
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0185
+      },
+      {
+        "rule": "S -> NP ('de', 'FW') NP ('de', 'FW') NP ('en', 'FW') NP PP (',', ',') NP (',', ',') ('de', 'FW') ('impedir', 'FW') ('el', 'FW') ('pacto', 'FW') ('de', 'FW') ('intercambio', 'FW') NP ('de', 'IN') ('la', 'FW') ('resistencia', 'FW') NP ('de', 'FW') ('satisfacer', 'FW') NP PP (',', ',') NP ('de', 'IN') ('las', 'FW') ('vidas', 'FW') ('de', 'FW') ('los', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0093
+      },
+      {
+        "rule": "NP -> ('La', 'NNP') ('Autoridad', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0093
+      },
+      {
+        "rule": "NP -> ('Prisioneros', 'NNP') ('Israelíes', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0093
+      },
+      {
+        "rule": "NP -> ('Gaza', 'NNP') ('imputó', 'NN') ('al', 'NN') ('primer', 'NN') ('ministro', 'NN')",
+        "frequency": 1,
+        "weight": 0.0093
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "La Autoridad"
+      },
+      {
+        "label": "NP",
+        "text": "Familias"
+      },
+      {
+        "label": "NP",
+        "text": "Prisioneros Israelíes"
+      },
+      {
+        "label": "NP",
+        "text": "Gaza imputó al primer ministro"
+      },
+      {
+        "label": "PP",
+        "text": "de Israel"
+      },
+      {
+        "label": "NP",
+        "text": "Israel"
+      },
+      {
+        "label": "NP",
+        "text": "Benjamín Netanyahu"
+      },
+      {
+        "label": "NP",
+        "text": "con el movimiento palestino"
+      },
+      {
+        "label": "NP",
+        "text": "islámica Hamas con el fin"
+      },
+      {
+        "label": "NP",
+        "text": "a sus aliados"
+      },
+      {
+        "label": "PP",
+        "text": "de coalición"
+      },
+      {
+        "label": "NP",
+        "text": "coalición"
+      },
+      {
+        "label": "NP",
+        "text": "a expensas"
+      },
+      {
+        "label": "NP",
+        "text": "rehenes"
+      },
+      {
+        "label": "NP",
+        "text": "“ Es"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP La/NNP Autoridad/NNP)\n  de/FW\n  (NP Familias/NNP)\n  de/FW\n  (NP Prisioneros/NNP Israelíes/NNP)\n  en/FW\n  (NP Gaza/NNP imputó/NN al/NN primer/NN ministro/NN)\n  (PP de/IN (NP Israel/NNP))\n  ,/,\n  (NP Benjamín/NNP Netanyahu/NNP)\n  ,/,\n  de/FW\n  impedir/FW\n  el/FW\n  pacto/FW\n  de/FW\n  intercambio/FW\n  (NP con/NN el/NN movimiento/NN palestino/NN)\n  de/IN\n  la/FW\n  resistencia/FW\n  (NP islámica/NN Hamas/NNP con/NN el/NN fin/NN)\n  de/FW\n  satisfacer/FW\n  (NP a/DT sus/NN aliados/NN)\n  (PP de/IN (NP coalición/NN))\n  ,/,\n  (NP a/DT expensas/NN)\n  de/IN\n  las/FW\n  vidas/FW\n  de/FW\n  los/FW\n  (NP rehenes/NNS)\n  ./.)",
+      "(S\n  (NP “/JJ Es/NNP)\n  (NP increíble/JJ que/NN el/NN presidente/NN)\n  (PP de/IN (NP Estados/NNP Unidos/NNP))\n  ,/,\n  (NP Donald/NNP Trump/NNP)\n  ,/,\n  (NP y/NNP su/NN enviado/NN)\n  ,/,\n  (NP Steve/NNP Witkoff/NNP)\n  ,/,\n  (VP estén/VBZ (NP más/JJ comprometidos/NNS))\n  (VP con/VBP la/JJ)\n  devolución/FW\n  de/FW\n  los/FW\n  (NP presos/JJ que/NN Netanyahu/NNP ”/NNP)\n  ,/,\n  (NP indicó/NN la/NN)\n  entidad/FW\n  en/FW\n  (NP un/JJ anuncio/NN)\n  ./.)",
+      "(S\n  (NP Además/NNP)\n  ,/,\n  (VP señaló/VBD que/JJ)\n  63/CD\n  (NP personas/NNS)\n  (NP se/JJ mantienen/NN como/NN rehenes/NNS)\n  (VP desde/VBD (NP hace/NN))\n  505/CD\n  (NP días/NN)\n  ,/,\n  y/CC\n  (NP denunció/JJ los/NN constantes/NNS)\n  (VP\n    esfuerzos/VBP\n    (NP por/JJ obstaculizar/NN la/NN segunda/NN etapa/NN))\n  del/FW\n  (NP acuerdo/NN)\n  de/IN\n  intercambio/FW\n  y/FW\n  dejar/FW\n  (NP a/DT aquellos/NN que/NN continúan/NN)\n  (PP en/IN (NP prisión/NN))\n  ./.)",
+      "(S\n  (NP El/NNP comunicado/NN se/NN)\n  (VP dirigió/VBZ (NP a/DT Netanyahu/NNP con/NN las/NN))\n  (VP siguientes/VBZ (NP expresiones/NNS))\n  :/:\n  (NP “/NN Sabemos/NNP que/NN hay/NN quienes/NNS)\n  (NP intentan/JJ convencerle/NN)\n  de/IN\n  la/FW\n  necesidad/FW\n  de/FW\n  destruir/FW\n  el/FW\n  gobierno/FW\n  de/FW\n  (NP Hamas/NNP)\n  ,/,\n  (NP pero/NN esto/NN conducirá/NN)\n  (VP inevitablemente/VBZ (NP a/DT la/NN))\n  ejecución/FW\n  de/FW\n  los/FW\n  (NP prisioneros/JJ ”/NN)\n  ./.)",
+      "(S\n  (NP En/NNP)\n  (NP ese/JJ contexto/NN)\n  ,/,\n  (VP resaltó/VB)\n  la/FW\n  necesidad/FW\n  de/FW\n  recuperar/FW\n  primero/FW\n  (NP a/DT los/NN)\n  (VP rehenes/VBZ)\n  y/CC\n  (NP luego/JJ tratar/NN)\n  de/IN\n  solucionar/FW\n  los/FW\n  (NP demás/NN problemas/NN)\n  ,/,\n  (NP enfatizando/NN que/NN los/NN)\n  (VP reclusos/VBZ (NP no/DT deben/NN) asumir/RB (NP el/JJ costo/NN))\n  de/IN\n  los/FW\n  (NP fallos/JJ gubernamentales/NNS)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "GOBIERNOS_OFICIALES",
+      "CANTIDADES_NUMERICAS",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "ACCIONES_LEGALES",
+      "PAISES",
+      "CONFLICTOS_ARMADOS_OPERACIONES"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "guerra en lugar",
+        "position": [
+          1474,
+          1489
+        ],
+        "start": 1474,
+        "end": 1489
+      },
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "denunció los constantes esfuerzos por obstaculizar la segunda etapa del acuerdo de intercambio y dejar a",
+        "position": [
+          583,
+          687
+        ],
+        "start": 583,
+        "end": 687
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "señaló",
+        "position": [
+          511,
+          517
+        ],
+        "start": 511,
+        "end": 517
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "gobierno de hamas",
+        "position": [
+          869,
+          886
+        ],
+        "start": 869,
+        "end": 886
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente de estados",
+        "position": [
+          325,
+          346
+        ],
+        "start": 325,
+        "end": 346
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "ministro de israel",
+        "position": [
+          75,
+          93
+        ],
+        "start": 75,
+        "end": 93
+      },
+      {
+        "category": "ACCIONES_LEGALES",
+        "matched_text": "denunció",
+        "position": [
+          583,
+          591
+        ],
+        "start": 583,
+        "end": 591
+      },
+      {
+        "category": "ACCIONES_LEGALES",
+        "matched_text": "imputó",
+        "position": [
+          58,
+          64
+        ],
+        "start": 58,
+        "end": 64
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "estados unidos",
+        "position": [
+          339,
+          353
+        ],
+        "start": 339,
+        "end": 353
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "63 personas",
+        "position": [
+          522,
+          533
+        ],
+        "start": 522,
+        "end": 533
+      }
+    ],
+    "match_count": 10
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Netanyahu",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Hamas",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Estados Unidos",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Israel",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Autoridad de Familias de Prisioneros Israelíes",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Donald Trump",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Autoridad de Familias de Prisioneros",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Steve Witkoff",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Benjamín Netanyahu",
+        "tipo": "Persona"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Autoridad de Familias de Prisioneros Israelíes",
+        "relacion": "IMPUTAR",
+        "objeto": "Israel"
+      },
+      {
+        "sujeto": "Autoridad de Familias de Prisioneros Israelíes",
+        "relacion": "IMPUTAR",
+        "objeto": "Benjamín Netanyahu"
+      },
+      {
+        "sujeto": "Autoridad de Familias de Prisioneros Israelíes",
+        "relacion": "IMPUTAR",
+        "objeto": "Hamas"
+      },
+      {
+        "sujeto": "Gaza",
+        "relacion": "IMPUTAR",
+        "objeto": "Israel"
+      },
+      {
+        "sujeto": "Gaza",
+        "relacion": "IMPUTAR",
+        "objeto": "Benjamín Netanyahu"
+      },
+      {
+        "sujeto": "Gaza",
+        "relacion": "IMPUTAR",
+        "objeto": "Hamas"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "IMPUTAR",
+        "objeto": "Hamas"
+      },
+      {
+        "sujeto": "Benjamín Netanyahu",
+        "relacion": "IMPUTAR",
+        "objeto": "Hamas"
+      },
+      {
+        "sujeto": "Netanyahu",
+        "relacion": "DIRIGIR",
+        "objeto": "Hamas"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "PEDIR",
+        "objeto": "Estados Unidos"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "PEDIR",
+        "objeto": "Netanyahu"
+      },
+      {
+        "sujeto": "Estados Unidos",
+        "relacion": "PEDIR_PEDIR",
+        "objeto": "Netanyahu"
+      },
+      {
+        "sujeto": "Hamas",
+        "relacion": "INDICAR_LUEGO_PEDIR",
+        "objeto": "Israel"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.7003,
+    "pos": 0.0,
+    "neu": 0.98,
+    "neg": 0.02,
+    "label": "negative"
+  }
+}

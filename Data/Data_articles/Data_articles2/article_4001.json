@@ -1,0 +1,706 @@
+{
+  "url": "https://www.telesurtv.net/ucrania-ataca-centro-entrenamiento-zaporiyia/",
+  "title": "Ucrania atacó de nuevo centro de entrenamiento de la central nuclear de Zaporiyia - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "centro entrenamiento",
+    "tensiones",
+    "terrorismo",
+    "Ucrania",
+    "zaporiyia"
+  ],
+  "text": "Las Fuerzas Armadas de Ucrania perpetraron un nuevo ataque contra la Central Nuclear de Zaporiyia, utilizando drones para impactar en las instalaciones del centro de entrenamiento especializado, según informó la administración local. El incidente ha generado preocupación sobre la seguridad de la planta, la más grande de Europa.\n\nSegún los informes, los drones alcanzaron el techo del Edificio G, que forma parte del complejo educativo y de simulación de la central. Este edificio es utilizado para la capacitación del personal, que recibe formación continua para mantener sus cualificaciones y practicar los protocolos de emergencia.\nAfortunadamente, no se reportaron víctimas ni daños graves como consecuencia del ataque. Sin embargo, el incidente eleva las tensiones en la zona y plantea interrogantes sobre la protección de la infraestructura nuclear.\nCabe destacar que el Edificio G alberga el único simulador de sala de reactor a escala real del mundo, donde el personal simula acciones reales para entrenarse.\n\n\nEl centro de entrenamiento, ubicado en las cercanías de la central nuclear, desempeña un papel crucial en la preparación del personal. Los trabajadores de la planta reciben formación periódica para mantener sus habilidades y simular situaciones de emergencia, garantizando la seguridad y el correcto funcionamiento de la central.\nEste nuevo ataque se suma a una serie de incidentes similares que han tenido lugar en los últimos meses, generando preocupación en la comunidad internacional sobre el riesgo de un accidente nuclear. Organismos internacionales han instado a ambas partes a evitar acciones que puedan poner en peligro la seguridad de la central y a buscar una solución pacífica al conflicto.\nDe acuerdo con medios locales, actualmente cerca del 75% de la región de Zaporiyia está bajo control ruso, mientras el centro regional está bajo control ucraniano.\n",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/ucrania-ataca-centro-entrenamiento-zaporiyia/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-06.json",
+    "message_index": 1993,
+    "message_id": 95683,
+    "date": "2025-06-05T16:55:07+00:00",
+    "text": "teleSUR\nUcrania atacó de nuevo centro de entrenamiento de la central nuclear de Zaporiyia\nhttps://www.telesurtv.net/ucrania-ataca-centro-entrenamiento-zaporiyia/",
+    "photo_path": null,
+    "views": 1462,
+    "reactions": {
+      "🔥": 17,
+      "👎": 13,
+      "🤮": 3,
+      "❤": 1,
+      "👏": 1,
+      "🤯": 1
+    },
+    "total_reactions": 36
+  },
+  "preprocessing": {
+    "cleaned": "las fuerzas armadas de ucrania perpetraron un nuevo ataque contra la central nuclear de zaporiyia, utilizando drones para impactar en las instalaciones del centro de entrenamiento especializado, según informó la administración local. el incidente ha generado preocupación sobre la seguridad de la planta, la más grande de europa. según los informes, los drones alcanzaron el techo del edificio g, que forma parte del complejo educativo y de simulación de la central. este edificio es utilizado para la capacitación del personal, que recibe formación continua para mantener sus cualificaciones y practicar los protocolos de emergencia. afortunadamente, no se reportaron víctimas ni daños graves como consecuencia del ataque. sin embargo, el incidente eleva las tensiones en la zona y plantea interrogantes sobre la protección de la infraestructura nuclear. cabe destacar que el edificio g alberga el único simulador de sala de reactor a escala real del mundo, donde el personal simula acciones reales para entrenarse. el centro de entrenamiento, ubicado en las cercanías de la central nuclear, desempeña un papel crucial en la preparación del personal. los trabajadores de la planta reciben formación periódica para mantener sus habilidades y simular situaciones de emergencia, garantizando la seguridad y el correcto funcionamiento de la central. este nuevo ataque se suma a una serie de incidentes similares que han tenido lugar en los últimos meses, generando preocupación en la comunidad internacional sobre el riesgo de un accidente nuclear. organismos internacionales han instado a ambas partes a evitar acciones que puedan poner en peligro la seguridad de la central y a buscar una solución pacífica al conflicto. de acuerdo con medios locales, actualmente cerca del 75% de la región de zaporiyia está bajo control ruso, mientras el centro regional está bajo control ucraniano.",
+    "tokens": [
+      "fuerzas",
+      "armadas",
+      "ucrania",
+      "perpetraron",
+      "nuevo",
+      "ataque",
+      "central",
+      "nuclear",
+      "zaporiyia",
+      ",",
+      "utilizando",
+      "drones",
+      "impactar",
+      "instalaciones",
+      "centro",
+      "entrenamiento",
+      "especializado",
+      ",",
+      "según",
+      "informó",
+      "administración",
+      "local",
+      ".",
+      "incidente",
+      "generado",
+      "preocupación",
+      "seguridad",
+      "planta",
+      ",",
+      "grande",
+      "europa",
+      ".",
+      "según",
+      "informes",
+      ",",
+      "drones",
+      "alcanzaron",
+      "techo",
+      "edificio",
+      "g",
+      ",",
+      "forma",
+      "parte",
+      "complejo",
+      "educativo",
+      "simulación",
+      "central",
+      ".",
+      "edificio",
+      "utilizado",
+      "capacitación",
+      "personal",
+      ",",
+      "recibe",
+      "formación",
+      "continua",
+      "mantener",
+      "cualificaciones",
+      "practicar",
+      "protocolos",
+      "emergencia",
+      ".",
+      "afortunadamente",
+      ",",
+      "reportaron",
+      "víctimas",
+      "daños",
+      "graves",
+      "consecuencia",
+      "ataque",
+      ".",
+      "embargo",
+      ",",
+      "incidente",
+      "eleva",
+      "tensiones",
+      "zona",
+      "plantea",
+      "interrogantes",
+      "protección",
+      "infraestructura",
+      "nuclear",
+      ".",
+      "cabe",
+      "destacar",
+      "edificio",
+      "g",
+      "alberga",
+      "único",
+      "simulador",
+      "sala",
+      "reactor",
+      "escala",
+      "real",
+      "mundo",
+      ",",
+      "personal",
+      "simula",
+      "acciones",
+      "reales",
+      "entrenarse",
+      ".",
+      "centro",
+      "entrenamiento",
+      ",",
+      "ubicado",
+      "cercanías",
+      "central",
+      "nuclear",
+      ",",
+      "desempeña",
+      "papel",
+      "crucial",
+      "preparación",
+      "personal",
+      ".",
+      "trabajadores",
+      "planta",
+      "reciben",
+      "formación",
+      "periódica",
+      "mantener",
+      "habilidades",
+      "simular",
+      "situaciones",
+      "emergencia",
+      ",",
+      "garantizando",
+      "seguridad",
+      "correcto",
+      "funcionamiento",
+      "central",
+      ".",
+      "nuevo",
+      "ataque",
+      "suma",
+      "serie",
+      "incidentes",
+      "similares",
+      "lugar",
+      "últimos",
+      "meses",
+      ",",
+      "generando",
+      "preocupación",
+      "comunidad",
+      "internacional",
+      "riesgo",
+      "accidente",
+      "nuclear",
+      ".",
+      "organismos",
+      "internacionales",
+      "instado",
+      "ambas",
+      "partes",
+      "evitar",
+      "acciones",
+      "puedan",
+      "poner",
+      "peligro",
+      "seguridad",
+      "central",
+      "buscar",
+      "solución",
+      "pacífica",
+      "conflicto",
+      ".",
+      "acuerdo",
+      "medios",
+      "locales",
+      ",",
+      "actualmente",
+      "cerca",
+      "75",
+      "%",
+      "región",
+      "zaporiyia",
+      "bajo",
+      "control",
+      "ruso",
+      ",",
+      "mientras",
+      "centro",
+      "regional",
+      "bajo",
+      "control",
+      "ucraniano",
+      "."
+    ],
+    "token_count": 189,
+    "sentence_count": 12
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 24,
+      "IN": 10,
+      "NN": 87,
+      "JJ": 45,
+      "NNS": 18,
+      "VBP": 11,
+      "FW": 68,
+      "RB": 1,
+      "DT": 1,
+      "VBZ": 5,
+      "VBD": 1,
+      "CD": 1,
+      "CC": 1,
+      "VB": 1
+    },
+    "bigram_freq": {
+      "NNP-NNP": 4,
+      "NNP-IN": 2,
+      "IN-NNP": 2,
+      "NNP-NN": 12,
+      "NN-NN": 43,
+      "NN-JJ": 7,
+      "JJ-JJ": 11,
+      "JJ-NNP": 8,
+      "NNP-JJ": 1,
+      "JJ-NNS": 3,
+      "NNS-VBP": 9,
+      "VBP-NN": 1,
+      "NN-FW": 13,
+      "FW-FW": 45,
+      "FW-NNS": 1,
+      "NNS-FW": 1,
+      "FW-NN": 7,
+      "FW-JJ": 11,
+      "FW-NNP": 4,
+      "NN-NNS": 8,
+      "VBP-NNS": 2,
+      "NNS-RB": 1,
+      "RB-VBP": 1,
+      "VBP-JJ": 8,
+      "JJ-NN": 19,
+      "NN-NNP": 5,
+      "NNS-NN": 1,
+      "NN-IN": 5,
+      "IN-FW": 3,
+      "NNP-DT": 1,
+      "DT-NN": 1,
+      "NN-VBZ": 3,
+      "VBZ-JJ": 4,
+      "NNS-IN": 2,
+      "IN-NN": 2,
+      "JJ-FW": 4,
+      "NN-VBP": 1,
+      "NNS-NNS": 2,
+      "NNP-VBZ": 1,
+      "VBZ-FW": 1,
+      "IN-NNS": 1,
+      "IN-JJ": 2,
+      "NNP-NNS": 1,
+      "NNS-JJ": 1,
+      "NNP-FW": 1,
+      "NNS-VBZ": 1,
+      "NN-VBD": 1,
+      "VBD-CD": 1,
+      "CD-IN": 1,
+      "NNP-CC": 1,
+      "CC-VB": 1,
+      "VB-NN": 1
+    },
+    "trigram_freq": {
+      "NNP-NNP-NNP": 1,
+      "NNP-NNP-IN": 2,
+      "NNP-IN-NNP": 2,
+      "IN-NNP-NN": 1,
+      "NNP-NN-NN": 8,
+      "NN-NN-NN": 25,
+      "NN-NN-JJ": 4,
+      "NN-JJ-JJ": 2,
+      "JJ-JJ-NNP": 3,
+      "JJ-NNP-NNP": 1,
+      "IN-NNP-JJ": 1,
+      "NNP-JJ-NNS": 1,
+      "JJ-NNS-VBP": 2,
+      "NNS-VBP-NN": 1,
+      "VBP-NN-FW": 1,
+      "NN-FW-FW": 8,
+      "FW-FW-NNS": 1,
+      "FW-NNS-FW": 1,
+      "NNS-FW-NN": 1,
+      "FW-NN-FW": 3,
+      "FW-FW-FW": 31,
+      "FW-FW-NN": 3,
+      "NN-FW-JJ": 3,
+      "FW-JJ-JJ": 2,
+      "JJ-NNP-NN": 5,
+      "NN-NN-FW": 6,
+      "FW-FW-NNP": 2,
+      "FW-NNP-NNP": 1,
+      "NNP-NNP-NN": 1,
+      "NNP-NN-NNS": 1,
+      "NN-NNS-VBP": 4,
+      "NNS-VBP-NNS": 2,
+      "VBP-NNS-RB": 1,
+      "NNS-RB-VBP": 1,
+      "RB-VBP-JJ": 1,
+      "VBP-JJ-NN": 5,
+      "JJ-NN-NNP": 2,
+      "NN-NNP-NN": 4,
+      "FW-FW-JJ": 8,
+      "FW-JJ-NNP": 4,
+      "NN-JJ-NN": 5,
+      "JJ-NN-NN": 8,
+      "FW-JJ-NN": 3,
+      "NN-NN-NNS": 2,
+      "NN-NNS-NN": 1,
+      "NNS-NN-JJ": 1,
+      "JJ-NN-IN": 3,
+      "NN-IN-FW": 1,
+      "IN-FW-NNP": 1,
+      "FW-NNP-DT": 1,
+      "NNP-DT-NN": 1,
+      "DT-NN-VBZ": 1,
+      "NN-VBZ-JJ": 3,
+      "VBZ-JJ-JJ": 1,
+      "JJ-JJ-NN": 5,
+      "JJ-NN-NNS": 3,
+      "NNS-VBP-JJ": 6,
+      "NN-NN-NNP": 2,
+      "NN-FW-NN": 1,
+      "FW-NN-NNS": 2,
+      "NN-NNS-IN": 1,
+      "NNS-IN-NN": 1,
+      "IN-NN-NNP": 1,
+      "NNP-NN-VBZ": 1,
+      "VBZ-JJ-FW": 1,
+      "JJ-FW-FW": 4,
+      "NN-FW-NNP": 1,
+      "FW-NNP-NN": 1,
+      "NNP-NN-FW": 2,
+      "FW-JJ-FW": 2,
+      "FW-NN-VBP": 1,
+      "NN-VBP-JJ": 1,
+      "NN-NNS-NNS": 1,
+      "NNS-NNS-VBP": 2,
+      "VBP-JJ-NNP": 1,
+      "JJ-NN-JJ": 2,
+      "JJ-JJ-JJ": 2,
+      "JJ-NNP-VBZ": 1,
+      "NNP-VBZ-FW": 1,
+      "VBZ-FW-FW": 1,
+      "FW-NN-NN": 1,
+      "NN-NN-VBZ": 1,
+      "VBZ-JJ-NNS": 1,
+      "JJ-NNS-IN": 1,
+      "NNS-IN-FW": 1,
+      "IN-FW-NN": 1,
+      "NN-IN-NNS": 1,
+      "IN-NNS-NNS": 1,
+      "NN-NN-IN": 2,
+      "NN-IN-JJ": 2,
+      "IN-JJ-JJ": 2,
+      "JJ-JJ-NNS": 1,
+      "VBP-JJ-FW": 1,
+      "JJ-NNP-NNS": 1,
+      "NNP-NNS-VBP": 1,
+      "VBP-NNS-JJ": 1,
+      "NNS-JJ-JJ": 1,
+      "NN-IN-NN": 1,
+      "IN-NN-FW": 1,
+      "NN-NNP-FW": 1,
+      "NNP-FW-NN": 1,
+      "NN-NNS-VBZ": 1,
+      "NNS-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 1,
+      "JJ-NN-VBD": 1,
+      "NN-VBD-CD": 1,
+      "VBD-CD-IN": 1,
+      "CD-IN-FW": 1,
+      "IN-FW-FW": 1,
+      "FW-NNP-CC": 1,
+      "NNP-CC-VB": 1,
+      "CC-VB-NN": 1,
+      "VB-NN-NN": 1,
+      "VBP-JJ-JJ": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 87,
+        "FW": 68,
+        "JJ": 45,
+        "NNP": 24,
+        "NNS": 18
+      },
+      "top_bigrams": {
+        "FW-FW": 45,
+        "NN-NN": 43,
+        "JJ-NN": 19,
+        "NN-FW": 13,
+        "NNP-NN": 12
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 31,
+        "NN-NN-NN": 25,
+        "NNP-NN-NN": 8,
+        "NN-FW-FW": 8,
+        "FW-FW-JJ": 8
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 12,
+    "chunk_counts": {
+      "NP": 64,
+      "PP": 6,
+      "VP": 20,
+      "ADJP": 14
+    },
+    "top_rules": [
+      {
+        "rule": "ADJP -> ('central', 'JJ')",
+        "frequency": 4,
+        "weight": 0.0345
+      },
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 3,
+        "weight": 0.0259
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 3,
+        "weight": 0.0259
+      },
+      {
+        "rule": "ADJP -> ('nuclear', 'JJ')",
+        "frequency": 3,
+        "weight": 0.0259
+      },
+      {
+        "rule": "NP -> ('Zaporiyia', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0172
+      },
+      {
+        "rule": "VP -> ('para', 'VBP') NP",
+        "frequency": 2,
+        "weight": 0.0172
+      },
+      {
+        "rule": "ADJP -> ('personal', 'JJ')",
+        "frequency": 2,
+        "weight": 0.0172
+      },
+      {
+        "rule": "S -> NP PP NP PP (',', ',') NP VP ('en', 'FW') ('las', 'FW') NP ('del', 'FW') NP ('de', 'FW') ('entrenamiento', 'FW') NP (',', ',') NP ADJP ADJP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0086
+      },
+      {
+        "rule": "NP -> ('Las', 'NNP') ('Fuerzas', 'NNP') ('Armadas', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0086
+      },
+      {
+        "rule": "NP -> ('Ucrania', 'NNP') ('perpetraron', 'NN') ('un', 'NN') ('nuevo', 'NN') ('ataque', 'NN')",
+        "frequency": 1,
+        "weight": 0.0086
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Las Fuerzas Armadas"
+      },
+      {
+        "label": "PP",
+        "text": "de Ucrania perpetraron un nuevo ataque"
+      },
+      {
+        "label": "NP",
+        "text": "Ucrania perpetraron un nuevo ataque"
+      },
+      {
+        "label": "NP",
+        "text": "contra la Central Nuclear"
+      },
+      {
+        "label": "PP",
+        "text": "de Zaporiyia"
+      },
+      {
+        "label": "NP",
+        "text": "Zaporiyia"
+      },
+      {
+        "label": "NP",
+        "text": "utilizando drones"
+      },
+      {
+        "label": "VP",
+        "text": "para impactar"
+      },
+      {
+        "label": "NP",
+        "text": "impactar"
+      },
+      {
+        "label": "NP",
+        "text": "instalaciones"
+      },
+      {
+        "label": "NP",
+        "text": "centro"
+      },
+      {
+        "label": "NP",
+        "text": "especializado"
+      },
+      {
+        "label": "NP",
+        "text": "según informó la"
+      },
+      {
+        "label": "ADJP",
+        "text": "administración"
+      },
+      {
+        "label": "ADJP",
+        "text": "local"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Las/NNP Fuerzas/NNP Armadas/NNP)\n  (PP de/IN (NP Ucrania/NNP perpetraron/NN un/NN nuevo/NN ataque/NN))\n  (NP contra/JJ la/JJ Central/NNP Nuclear/NNP)\n  (PP de/IN (NP Zaporiyia/NNP))\n  ,/,\n  (NP utilizando/JJ drones/NNS)\n  (VP para/VBP (NP impactar/NN))\n  en/FW\n  las/FW\n  (NP instalaciones/NNS)\n  del/FW\n  (NP centro/NN)\n  de/FW\n  entrenamiento/FW\n  (NP especializado/NN)\n  ,/,\n  (NP según/JJ informó/NN la/NN)\n  (ADJP administración/JJ)\n  (ADJP local/JJ)\n  ./.)",
+      "(S\n  (NP El/NNP incidente/NN ha/NN generado/NN preocupación/NN sobre/NN)\n  la/FW\n  seguridad/FW\n  de/FW\n  la/FW\n  planta/FW\n  ,/,\n  la/FW\n  más/FW\n  grande/FW\n  de/FW\n  (NP Europa/NNP)\n  ./.)",
+      "(S\n  (NP Según/NNP los/NN informes/NNS)\n  ,/,\n  (NP los/JJ drones/NNS)\n  (VP alcanzaron/VBP (NP el/JJ techo/JJ del/NN Edificio/NNP G/NNP))\n  ,/,\n  (NP que/NN)\n  (NP forma/JJ parte/NN del/NN complejo/NN)\n  (NP educativo/JJ y/NN)\n  de/IN\n  simulación/FW\n  de/FW\n  la/FW\n  (ADJP central/JJ)\n  ./.)",
+      "(S\n  (NP Este/NN)\n  edificio/''\n  (NP es/JJ utilizado/JJ para/NN la/NN capacitación/NN)\n  del/FW\n  (ADJP personal/JJ)\n  ,/,\n  (NP\n    que/JJ\n    recibe/NN\n    formación/NN\n    continua/NN\n    para/NN\n    mantener/NN\n    sus/NN\n    cualificaciones/NNS)\n  y/RB\n  (VP practicar/VBP (NP los/JJ protocolos/NN))\n  de/IN\n  emergencia/FW\n  ./.)",
+      "(S\n  (NP Afortunadamente/NNP)\n  ,/,\n  (NP no/DT se/NN)\n  (VP reportaron/VBZ (NP víctimas/JJ ni/JJ daños/NN graves/NNS))\n  (VP como/VBP (NP consecuencia/JJ del/NN ataque/NN))\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "LEYES_NORMATIVAS",
+      "TIEMPO_RELATIVO",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "ANTIIMPERIALISMO_SOBERANIA",
+      "REGIONES_PROVINCIAS",
+      "ORGANIZACIONES_SOCIALES",
+      "PAISES",
+      "LOCALIZACIONES_ESPECIFICAS"
+    ],
+    "matches": [
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "informó",
+        "position": [
+          201,
+          208
+        ],
+        "start": 201,
+        "end": 208
+      },
+      {
+        "category": "ORGANIZACIONES_SOCIALES",
+        "matched_text": "central nuclear, desempeña un papel crucial en la preparación del personal. los trabajadores",
+        "position": [
+          1079,
+          1171
+        ],
+        "start": 1079,
+        "end": 1171
+      },
+      {
+        "category": "LEYES_NORMATIVAS",
+        "matched_text": "acuerdo con medios locales, actualmente cerca del 75",
+        "position": [
+          1726,
+          1778
+        ],
+        "start": 1726,
+        "end": 1778
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "ucrania",
+        "position": [
+          23,
+          30
+        ],
+        "start": 23,
+        "end": 30
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "zona y plantea",
+        "position": [
+          777,
+          791
+        ],
+        "start": 777,
+        "end": 791
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "centro de",
+        "position": [
+          156,
+          165
+        ],
+        "start": 156,
+        "end": 165
+      },
+      {
+        "category": "TIEMPO_RELATIVO",
+        "matched_text": "actualmente",
+        "position": [
+          1754,
+          1765
+        ],
+        "start": 1754,
+        "end": 1765
+      },
+      {
+        "category": "ANTIIMPERIALISMO_SOBERANIA",
+        "matched_text": "embargo",
+        "position": [
+          729,
+          736
+        ],
+        "start": 729,
+        "end": 736
+      }
+    ],
+    "match_count": 8
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Central Nuclear de Zaporiyia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Zaporiyia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Fuerzas Armadas de Ucrania",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Organismos internacionales",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Europa",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Edificio G",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Fuerzas Armadas de Ucrania",
+        "relacion": "PERPETRAR",
+        "objeto": "Central Nuclear de Zaporiyia"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.6808,
+    "pos": 0.009,
+    "neu": 0.963,
+    "neg": 0.028,
+    "label": "negative"
+  }
+}

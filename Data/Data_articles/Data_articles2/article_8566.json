@@ -1,0 +1,698 @@
+{
+  "url": "https://www.telesurtv.net/mas-de-una-decena-de-muertos-deja-ataque-israeli-en-el-norte-del-libano/",
+  "title": "Más de una decena de muertos deja ataque israelí en el norte del Líbano - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Ataque israelí",
+    "decena de muertos",
+    "norte del Líbano"
+  ],
+  "text": "Autoridades locales del Líbano informaron que aproximadamente 28 personas murieron en un ataque aéreo de Israel sobre la localidad de Ain Yaaqoub, ubicada en el norte del Líbano.\n“Según los datos preliminares, 28 personas murieron como resultado del ataque aéreo contra un edificio en Ain Yaaqoub”, informó la agencia oficial del Líbano (NNA).\nDe igual manera, comunicó que la edificación quedó totalmente destruida por el ataque aéreo del Ejército de Israel. Se trataba de un sitio que alojaba personas refugiadas procedentes del sur y este del Líbano, y también algunos de origen sirio.\nPreviamente, Israel atacó la región libanesa de Baalbek-Hermel en el este y causó al menos cinco muertos.\nAsimismo, el Centro de Operaciones de Emergencia de Salud Pública del Ministerio de Salud Pública emitió este lunes el informe diario sobre el resultado y las repercusiones de la agresión israelí en el Líbano. En él se indicó que de las incursiones israelíes en la víspera resultaron en 54 muertos y 56 heridos.\nLas autoridades reportaron que, desde octubre de 2023, han muerto en el Líbano alrededor de 3.900 personas, la mayor parte de las víctimas son después de septiembre, cuando Israel comenzó una campaña de bombardeos indiscriminados y una invasión terrestre contra el Líbano.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/mas-de-una-decena-de-muertos-deja-ataque-israeli-en-el-norte-del-libano/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-11.json",
+    "message_index": 1220,
+    "message_id": 80203,
+    "date": "2024-11-11T22:55:07+00:00",
+    "text": "teleSUR\nMás de una decena de muertos deja ataque israelí en el norte del Líbano\nhttps://www.telesurtv.net/mas-de-una-decena-de-muertos-deja-ataque-israeli-en-el-norte-del-libano/",
+    "photo_path": null,
+    "views": 3083,
+    "reactions": {
+      "🤮": 19,
+      "👍": 10,
+      "😢": 7,
+      "🤬": 5,
+      "🔥": 1
+    },
+    "total_reactions": 42
+  },
+  "preprocessing": {
+    "cleaned": "autoridades locales del líbano informaron que aproximadamente 28 personas murieron en un ataque aéreo de israel sobre la localidad de ain yaaqoub, ubicada en el norte del líbano. “según los datos preliminares, 28 personas murieron como resultado del ataque aéreo contra un edificio en ain yaaqoub”, informó la agencia oficial del líbano (nna). de igual manera, comunicó que la edificación quedó totalmente destruida por el ataque aéreo del ejército de israel. se trataba de un sitio que alojaba personas refugiadas procedentes del sur y este del líbano, y también algunos de origen sirio. previamente, israel atacó la región libanesa de baalbek-hermel en el este y causó al menos cinco muertos. asimismo, el centro de operaciones de emergencia de salud pública del ministerio de salud pública emitió este lunes el informe diario sobre el resultado y las repercusiones de la agresión israelí en el líbano. en él se indicó que de las incursiones israelíes en la víspera resultaron en 54 muertos y 56 heridos. las autoridades reportaron que, desde octubre de 2023, han muerto en el líbano alrededor de 3.900 personas, la mayor parte de las víctimas son después de septiembre, cuando israel comenzó una campaña de bombardeos indiscriminados y una invasión terrestre contra el líbano.",
+    "tokens": [
+      "autoridades",
+      "locales",
+      "líbano",
+      "informaron",
+      "aproximadamente",
+      "28",
+      "personas",
+      "murieron",
+      "ataque",
+      "aéreo",
+      "israel",
+      "localidad",
+      "ain",
+      "yaaqoub",
+      ",",
+      "ubicada",
+      "norte",
+      "líbano",
+      ".",
+      "“",
+      "según",
+      "datos",
+      "preliminares",
+      ",",
+      "28",
+      "personas",
+      "murieron",
+      "resultado",
+      "ataque",
+      "aéreo",
+      "edificio",
+      "ain",
+      "yaaqoub",
+      "”",
+      ",",
+      "informó",
+      "agencia",
+      "oficial",
+      "líbano",
+      "(",
+      "nna",
+      ")",
+      ".",
+      "igual",
+      "manera",
+      ",",
+      "comunicó",
+      "edificación",
+      "quedó",
+      "totalmente",
+      "destruida",
+      "ataque",
+      "aéreo",
+      "ejército",
+      "israel",
+      ".",
+      "trataba",
+      "sitio",
+      "alojaba",
+      "personas",
+      "refugiadas",
+      "procedentes",
+      "sur",
+      "líbano",
+      ",",
+      "origen",
+      "sirio",
+      ".",
+      "previamente",
+      ",",
+      "israel",
+      "atacó",
+      "región",
+      "libanesa",
+      "baalbek-hermel",
+      "causó",
+      "menos",
+      "cinco",
+      "muertos",
+      ".",
+      "asimismo",
+      ",",
+      "centro",
+      "operaciones",
+      "emergencia",
+      "salud",
+      "pública",
+      "ministerio",
+      "salud",
+      "pública",
+      "emitió",
+      "lunes",
+      "informe",
+      "diario",
+      "resultado",
+      "repercusiones",
+      "agresión",
+      "israelí",
+      "líbano",
+      ".",
+      "indicó",
+      "incursiones",
+      "israelíes",
+      "víspera",
+      "resultaron",
+      "54",
+      "muertos",
+      "56",
+      "heridos",
+      ".",
+      "autoridades",
+      "reportaron",
+      ",",
+      "octubre",
+      "2023",
+      ",",
+      "muerto",
+      "líbano",
+      "alrededor",
+      "3.900",
+      "personas",
+      ",",
+      "mayor",
+      "parte",
+      "víctimas",
+      "después",
+      "septiembre",
+      ",",
+      "israel",
+      "comenzó",
+      "campaña",
+      "bombardeos",
+      "indiscriminados",
+      "invasión",
+      "terrestre",
+      "líbano",
+      "."
+    ],
+    "token_count": 137,
+    "sentence_count": 8
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNS": 15,
+      "VBP": 6,
+      "NNP": 36,
+      "NN": 58,
+      "VBD": 3,
+      "CD": 6,
+      "IN": 13,
+      "JJ": 18,
+      "FW": 40,
+      "VBZ": 3,
+      "VB": 1
+    },
+    "bigram_freq": {
+      "NNS-NNS": 1,
+      "NNS-VBP": 4,
+      "VBP-NNP": 1,
+      "NNP-NN": 6,
+      "NN-NN": 30,
+      "NN-VBD": 1,
+      "VBD-CD": 1,
+      "CD-NNS": 5,
+      "NNS-NN": 2,
+      "NN-IN": 10,
+      "IN-JJ": 2,
+      "JJ-JJ": 4,
+      "JJ-NN": 10,
+      "IN-NNP": 2,
+      "NNP-NNP": 13,
+      "NNP-FW": 9,
+      "FW-FW": 19,
+      "FW-NNP": 10,
+      "NNP-VBZ": 3,
+      "VBZ-JJ": 1,
+      "JJ-NNS": 2,
+      "NNS-CD": 2,
+      "NN-JJ": 4,
+      "NN-NNP": 7,
+      "NN-VBP": 2,
+      "VBP-JJ": 2,
+      "NNP-JJ": 1,
+      "NN-FW": 3,
+      "FW-NN": 7,
+      "NNP-IN": 1,
+      "VBP-NNS": 2,
+      "NNS-VB": 1,
+      "VB-NNS": 1,
+      "NNS-FW": 1,
+      "FW-JJ": 2,
+      "IN-FW": 6,
+      "NNP-VBD": 2,
+      "VBD-FW": 1,
+      "IN-NNS": 1,
+      "NNS-NNP": 2,
+      "VBZ-NN": 2,
+      "NN-NNS": 1,
+      "NNS-IN": 1,
+      "VBD-JJ": 1,
+      "FW-NNS": 1,
+      "VBP-IN": 1,
+      "FW-CD": 1,
+      "IN-CD": 2,
+      "CD-NN": 1,
+      "JJ-NNP": 1,
+      "NNS-JJ": 1,
+      "JJ-FW": 1
+    },
+    "trigram_freq": {
+      "NNS-NNS-VBP": 1,
+      "NNS-VBP-NNP": 1,
+      "VBP-NNP-NN": 1,
+      "NNP-NN-NN": 3,
+      "NN-NN-VBD": 1,
+      "NN-VBD-CD": 1,
+      "VBD-CD-NNS": 1,
+      "CD-NNS-NN": 2,
+      "NNS-NN-IN": 1,
+      "NN-IN-JJ": 2,
+      "IN-JJ-JJ": 1,
+      "JJ-JJ-NN": 3,
+      "JJ-NN-IN": 3,
+      "NN-IN-NNP": 1,
+      "IN-NNP-NNP": 2,
+      "NNP-NNP-FW": 3,
+      "NNP-FW-FW": 3,
+      "FW-FW-FW": 11,
+      "FW-FW-NNP": 4,
+      "FW-NNP-NNP": 5,
+      "NNP-NNP-NNP": 3,
+      "NNP-NNP-VBZ": 2,
+      "NNP-VBZ-JJ": 1,
+      "VBZ-JJ-NNS": 1,
+      "JJ-NNS-CD": 1,
+      "NNS-CD-NNS": 2,
+      "NNS-NN-NN": 1,
+      "NN-NN-NN": 15,
+      "NN-NN-JJ": 3,
+      "NN-JJ-JJ": 1,
+      "JJ-JJ-JJ": 1,
+      "JJ-NN-NN": 5,
+      "NN-NN-NNP": 3,
+      "NN-NNP-NNP": 3,
+      "NNP-NNP-NN": 2,
+      "NN-NN-VBP": 2,
+      "NN-VBP-JJ": 1,
+      "VBP-JJ-NN": 2,
+      "JJ-NN-NNP": 2,
+      "NNP-NNP-JJ": 1,
+      "NNP-JJ-NN": 1,
+      "NN-NN-FW": 1,
+      "NN-FW-NN": 1,
+      "FW-NN-NN": 4,
+      "NN-NNP-IN": 1,
+      "NNP-IN-NNP": 1,
+      "NNP-NN-FW": 1,
+      "NN-FW-FW": 1,
+      "FW-FW-NN": 4,
+      "NN-VBP-NNS": 1,
+      "VBP-NNS-VB": 1,
+      "NNS-VB-NNS": 1,
+      "VB-NNS-FW": 1,
+      "NNS-FW-JJ": 1,
+      "FW-JJ-NN": 1,
+      "NN-NNP-NN": 2,
+      "NN-NN-IN": 5,
+      "NN-IN-FW": 4,
+      "IN-FW-NN": 2,
+      "FW-NN-NNP": 2,
+      "NNP-NNP-VBD": 2,
+      "NNP-VBD-FW": 1,
+      "VBD-FW-FW": 1,
+      "FW-NNP-FW": 5,
+      "NN-IN-NNS": 1,
+      "IN-NNS-VBP": 1,
+      "NNS-VBP-NNS": 1,
+      "VBP-NNS-NNP": 1,
+      "NNS-NNP-FW": 1,
+      "NNP-FW-NNP": 6,
+      "NNP-VBZ-NN": 2,
+      "VBZ-NN-NNS": 1,
+      "NN-NNS-VBP": 1,
+      "NNS-VBP-JJ": 1,
+      "NN-JJ-NNS": 1,
+      "JJ-NNS-IN": 1,
+      "NNS-IN-FW": 1,
+      "IN-FW-FW": 2,
+      "NNP-VBD-JJ": 1,
+      "VBD-JJ-NN": 1,
+      "IN-FW-NNS": 1,
+      "FW-NNS-VBP": 1,
+      "NNS-VBP-IN": 1,
+      "VBP-IN-FW": 1,
+      "FW-NN-FW": 1,
+      "NN-FW-CD": 1,
+      "FW-CD-NNS": 1,
+      "CD-NNS-CD": 1,
+      "CD-NNS-NNP": 1,
+      "NNS-NNP-VBZ": 1,
+      "VBZ-NN-NN": 1,
+      "NN-IN-CD": 2,
+      "IN-CD-NN": 1,
+      "CD-NN-NN": 1,
+      "IN-JJ-NNP": 1,
+      "JJ-NNP-NN": 1,
+      "NNP-NN-IN": 1,
+      "IN-CD-NNS": 1,
+      "CD-NNS-JJ": 1,
+      "NNS-JJ-FW": 1,
+      "JJ-FW-FW": 1,
+      "NNP-NN-JJ": 1,
+      "NN-JJ-NN": 2,
+      "IN-FW-JJ": 1,
+      "FW-JJ-JJ": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 58,
+        "FW": 40,
+        "NNP": 36,
+        "JJ": 18,
+        "NNS": 15
+      },
+      "top_bigrams": {
+        "NN-NN": 30,
+        "FW-FW": 19,
+        "NNP-NNP": 13,
+        "NN-IN": 10,
+        "JJ-NN": 10
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 15,
+        "FW-FW-FW": 11,
+        "NNP-FW-NNP": 6,
+        "FW-NNP-NNP": 5,
+        "JJ-NN-NN": 5
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 8,
+    "chunk_counts": {
+      "NP": 59,
+      "VP": 15,
+      "PP": 4,
+      "ADJP": 3
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0225
+      },
+      {
+        "rule": "NP -> ('Líbano', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0225
+      },
+      {
+        "rule": "NP -> ('Israel', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0225
+      },
+      {
+        "rule": "NP -> ('personas', 'NNS')",
+        "frequency": 2,
+        "weight": 0.0225
+      },
+      {
+        "rule": "NP -> ('muertos', 'NNS')",
+        "frequency": 2,
+        "weight": 0.0225
+      },
+      {
+        "rule": "NP -> ('Salud', 'NNP') ('Pública', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0225
+      },
+      {
+        "rule": "S -> NP VP VP ('28', 'CD') NP PP PP ('la', 'FW') ('localidad', 'FW') ('de', 'FW') NP (',', ',') ADJP ('en', 'FW') ('el', 'FW') ('norte', 'FW') ('del', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0112
+      },
+      {
+        "rule": "NP -> ('Autoridades', 'NNS') ('locales', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0112
+      },
+      {
+        "rule": "VP -> ('del', 'VBP') NP",
+        "frequency": 1,
+        "weight": 0.0112
+      },
+      {
+        "rule": "NP -> ('Líbano', 'NNP') ('informaron', 'NN') ('que', 'NN')",
+        "frequency": 1,
+        "weight": 0.0112
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Autoridades locales"
+      },
+      {
+        "label": "VP",
+        "text": "del Líbano informaron que"
+      },
+      {
+        "label": "NP",
+        "text": "Líbano informaron que"
+      },
+      {
+        "label": "VP",
+        "text": "aproximadamente"
+      },
+      {
+        "label": "NP",
+        "text": "personas murieron"
+      },
+      {
+        "label": "PP",
+        "text": "en un ataque aéreo"
+      },
+      {
+        "label": "NP",
+        "text": "un ataque aéreo"
+      },
+      {
+        "label": "PP",
+        "text": "de Israel sobre"
+      },
+      {
+        "label": "NP",
+        "text": "Israel sobre"
+      },
+      {
+        "label": "NP",
+        "text": "Ain Yaaqoub"
+      },
+      {
+        "label": "ADJP",
+        "text": "ubicada"
+      },
+      {
+        "label": "NP",
+        "text": "Líbano"
+      },
+      {
+        "label": "NP",
+        "text": "“ Según"
+      },
+      {
+        "label": "VP",
+        "text": "los datos preliminares"
+      },
+      {
+        "label": "NP",
+        "text": "datos preliminares"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Autoridades/NNS locales/NNS)\n  (VP del/VBP (NP Líbano/NNP informaron/NN que/NN))\n  (VP aproximadamente/VBD)\n  28/CD\n  (NP personas/NNS murieron/NN)\n  (PP en/IN (NP un/JJ ataque/JJ aéreo/NN))\n  (PP de/IN (NP Israel/NNP sobre/NNP))\n  la/FW\n  localidad/FW\n  de/FW\n  (NP Ain/NNP Yaaqoub/NNP)\n  ,/,\n  (ADJP ubicada/JJ)\n  en/FW\n  el/FW\n  norte/FW\n  del/FW\n  (NP Líbano/NNP)\n  ./.)",
+      "(S\n  (NP “/NN Según/NNP)\n  (VP los/VBZ (NP datos/JJ preliminares/NNS))\n  ,/,\n  28/CD\n  (NP personas/NNS murieron/NN como/NN resultado/NN del/NN ataque/NN)\n  (NP\n    aéreo/JJ\n    contra/JJ\n    un/JJ\n    edificio/NN\n    en/NN\n    Ain/NNP\n    Yaaqoub/NNP\n    ”/NNP)\n  ,/,\n  (NP informó/NN la/NN)\n  (VP agencia/VBP (NP oficial/JJ del/NN Líbano/NNP))\n  (/(\n  (NP NNA/NNP)\n  )/)\n  ./.)",
+      "(S\n  (NP De/NNP)\n  (NP igual/JJ manera/NN)\n  ,/,\n  (NP comunicó/NN que/NN la/NN)\n  edificación/FW\n  (NP\n    quedó/NN\n    totalmente/NN\n    destruida/NN\n    por/NN\n    el/NN\n    ataque/NN\n    aéreo/NN\n    del/NN\n    Ejército/NNP)\n  (PP de/IN (NP Israel/NNP))\n  ./.)",
+      "(S\n  (NP Se/NNP trataba/NN)\n  de/FW\n  un/FW\n  (NP sitio/NN que/NN)\n  (VP alojaba/VBP (NP personas/NNS))\n  (VP refugiadas/VB (NP procedentes/NNS))\n  del/FW\n  (NP sur/NN y/NN este/NN del/NN Líbano/NNP)\n  ,/,\n  (NP y/NNP)\n  (VP también/VBD)\n  algunos/FW\n  de/FW\n  origen/FW\n  (NP sirio/NN)\n  ./.)",
+      "(S\n  (NP Previamente/NNP)\n  ,/,\n  (NP Israel/NNP)\n  (VP atacó/VBZ)\n  la/FW\n  (ADJP región/JJ)\n  libanesa/FW\n  de/FW\n  (NP Baalbek-Hermel/NNP)\n  en/FW\n  el/FW\n  (NP este/NN y/NN causó/NN)\n  (PP al/IN (NP menos/NNS))\n  (VP cinco/VBP (NP muertos/NNS))\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "CANTIDADES_NUMERICAS",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "MEDIOS_COMUNICACION",
+      "REGIONES_PROVINCIAS",
+      "PAISES",
+      "LOCALIZACIONES_ESPECIFICAS",
+      "CONFLICTOS_ARMADOS_OPERACIONES"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "ataque aéreo",
+        "position": [
+          89,
+          101
+        ],
+        "start": 89,
+        "end": 101
+      },
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "atacó",
+        "position": [
+          609,
+          614
+        ],
+        "start": 609,
+        "end": 614
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "informó",
+        "position": [
+          299,
+          306
+        ],
+        "start": 299,
+        "end": 306
+      },
+      {
+        "category": "MEDIOS_COMUNICACION",
+        "matched_text": "diario sobre el",
+        "position": [
+          822,
+          837
+        ],
+        "start": 822,
+        "end": 837
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "líbano",
+        "position": [
+          24,
+          30
+        ],
+        "start": 24,
+        "end": 30
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "región libanesa",
+        "position": [
+          618,
+          633
+        ],
+        "start": 618,
+        "end": 633
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "edificio en",
+        "position": [
+          273,
+          284
+        ],
+        "start": 273,
+        "end": 284
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "28 personas",
+        "position": [
+          62,
+          73
+        ],
+        "start": 62,
+        "end": 73
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "3.900 personas",
+        "position": [
+          1099,
+          1113
+        ],
+        "start": 1099,
+        "end": 1113
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "aproximadamente 28",
+        "position": [
+          46,
+          64
+        ],
+        "start": 46,
+        "end": 64
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "alrededor de 3.900",
+        "position": [
+          1086,
+          1104
+        ],
+        "start": 1086,
+        "end": 1104
+      }
+    ],
+    "match_count": 11
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Ain Yaaqoub",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Baalbek-Hermel",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Líbano",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Israel",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Centro",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "el Líbano",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Líbano",
+        "relacion": "INFORMAR",
+        "objeto": "Israel"
+      },
+      {
+        "sujeto": "Líbano",
+        "relacion": "INFORMAR",
+        "objeto": "Ain Yaaqoub"
+      },
+      {
+        "sujeto": "Ain Yaaqoub",
+        "relacion": "MORIR_INFORMAR",
+        "objeto": "Líbano"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "ATACAR",
+        "objeto": "Baalbek-Hermel"
+      },
+      {
+        "sujeto": "Centro",
+        "relacion": "EMITIR",
+        "objeto": "Líbano"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "MORIR_REPORTAR",
+        "objeto": "el Líbano"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "COMENZAR_DESPU_S_MORIR_REPORTAR",
+        "objeto": "el Líbano"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.0,
+    "pos": 0.0,
+    "neu": 1.0,
+    "neg": 0.0,
+    "label": "neutral"
+  }
+}

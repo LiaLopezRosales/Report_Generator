@@ -1,0 +1,713 @@
+{
+  "url": "https://www.telesurtv.net/arriban-a-venezuela-205-migrantes-connacionales/",
+  "title": "Arriban a Venezuela 205 migrantes connacionales - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "Migración",
+    "Plan Vuelta a la Patria",
+    "Venezuela"
+  ],
+  "text": "Gracias al Plan Vuelta a la Patria, un total de 205 ciudadanos venezolanos regresaron este miércoles a su país. Este grupo, que retornó desde Estados Unidos, vía Honduras, está compuesto por 171 hombres y 34 mujeres.\nLos ciudadanos que retornaron cumplieron rigurosamente los protocolos de seguridad y salubridad, según informó el Ministerio del Poder Popular para Relaciones Interiores, Justicia y Paz.\nLa llegada de los repatriados fue anunciada el miércoles 30 de julio por el vicepresidente sectorial para Política, Seguridad Ciudadana y Paz, Diosdado Cabello, quien puntualizó que “nosotros los buscamos en el aeropuerto, y el que tiene su solicitud de los Cuerpos Policiales ahí se queda”.\nDurante su intervención en el programa Con el Mazo Dando, Cabello comentó sobre el grupo de 252 venezolanos que retornaron de El Salvador, que decían pertenecían a la extinta organización Tren de Aragua. Añadió que solo siete de ellos enfrentaban delitos graves y en total 20 se encontraban requeridos por las autoridades.\nLos migrantes que regresaron este miércoles fueron recibidos por personal del sector salud y funcionarios estatales, quienes les realizaron breves entrevistas para verificar los datos de sus solicitudes de retorno. Posteriormente, se les trasladó a sus respectivos hogares.\nDe acuerdo con datos oficiales, julio ha sido hasta ahora el mes con mayor número de retornos, registrando 13 llegadas; seguido por mayo con 12, junio con nueve, abril con ocho, y tanto marzo como febrero con cuatro retornos cada uno.\nDesde la reanudación del Plan Vuelta a la Patria, en febrero pasado, más de nueve mil ciudadanos venezolanos regresaron a su país, de acuerdo con cifras oficiales.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/arriban-a-venezuela-205-migrantes-connacionales/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-07.json",
+    "message_index": 42,
+    "message_id": 100582,
+    "date": "2025-07-31T10:55:18+00:00",
+    "text": "teleSUR\nArriban a Venezuela 205 migrantes  connacionales\nhttps://www.telesurtv.net/arriban-a-venezuela-205-migrantes-connacionales/",
+    "photo_path": null,
+    "views": 1550,
+    "reactions": {
+      "👍": 33,
+      "❤": 7
+    },
+    "total_reactions": 40
+  },
+  "preprocessing": {
+    "cleaned": "gracias al plan vuelta a la patria, un total de 205 ciudadanos venezolanos regresaron este miércoles a su país. este grupo, que retornó desde estados unidos, vía honduras, está compuesto por 171 hombres y 34 mujeres. los ciudadanos que retornaron cumplieron rigurosamente los protocolos de seguridad y salubridad, según informó el ministerio del poder popular para relaciones interiores, justicia y paz. la llegada de los repatriados fue anunciada el miércoles 30 de julio por el vicepresidente sectorial para política, seguridad ciudadana y paz, diosdado cabello, quien puntualizó que “nosotros los buscamos en el aeropuerto, y el que tiene su solicitud de los cuerpos policiales ahí se queda”. durante su intervención en el programa con el mazo dando, cabello comentó sobre el grupo de 252 venezolanos que retornaron de el salvador, que decían pertenecían a la extinta organización tren de aragua. añadió que solo siete de ellos enfrentaban delitos graves y en total 20 se encontraban requeridos por las autoridades. los migrantes que regresaron este miércoles fueron recibidos por personal del sector salud y funcionarios estatales, quienes les realizaron breves entrevistas para verificar los datos de sus solicitudes de retorno. posteriormente, se les trasladó a sus respectivos hogares. de acuerdo con datos oficiales, julio ha sido hasta ahora el mes con mayor número de retornos, registrando 13 llegadas; seguido por mayo con 12, junio con nueve, abril con ocho, y tanto marzo como febrero con cuatro retornos cada uno. desde la reanudación del plan vuelta a la patria, en febrero pasado, más de nueve mil ciudadanos venezolanos regresaron a su país, de acuerdo con cifras oficiales.",
+    "tokens": [
+      "gracias",
+      "plan",
+      "vuelta",
+      "patria",
+      ",",
+      "total",
+      "205",
+      "ciudadanos",
+      "venezolanos",
+      "regresaron",
+      "miércoles",
+      "país",
+      ".",
+      "grupo",
+      ",",
+      "retornó",
+      "unidos",
+      ",",
+      "vía",
+      "honduras",
+      ",",
+      "compuesto",
+      "171",
+      "hombres",
+      "34",
+      "mujeres",
+      ".",
+      "ciudadanos",
+      "retornaron",
+      "cumplieron",
+      "rigurosamente",
+      "protocolos",
+      "seguridad",
+      "salubridad",
+      ",",
+      "según",
+      "informó",
+      "ministerio",
+      "poder",
+      "popular",
+      "relaciones",
+      "interiores",
+      ",",
+      "justicia",
+      "paz",
+      ".",
+      "llegada",
+      "repatriados",
+      "anunciada",
+      "miércoles",
+      "30",
+      "julio",
+      "vicepresidente",
+      "sectorial",
+      "política",
+      ",",
+      "seguridad",
+      "ciudadana",
+      "paz",
+      ",",
+      "diosdado",
+      "cabello",
+      ",",
+      "puntualizó",
+      "“",
+      "buscamos",
+      "aeropuerto",
+      ",",
+      "solicitud",
+      "cuerpos",
+      "policiales",
+      "ahí",
+      "queda",
+      "”",
+      ".",
+      "intervención",
+      "programa",
+      "mazo",
+      "dando",
+      ",",
+      "cabello",
+      "comentó",
+      "grupo",
+      "252",
+      "venezolanos",
+      "retornaron",
+      "salvador",
+      ",",
+      "decían",
+      "pertenecían",
+      "extinta",
+      "organización",
+      "tren",
+      "aragua",
+      ".",
+      "añadió",
+      "solo",
+      "siete",
+      "enfrentaban",
+      "delitos",
+      "graves",
+      "total",
+      "20",
+      "encontraban",
+      "requeridos",
+      "autoridades",
+      ".",
+      "migrantes",
+      "regresaron",
+      "miércoles",
+      "recibidos",
+      "personal",
+      "sector",
+      "salud",
+      "funcionarios",
+      "estatales",
+      ",",
+      "realizaron",
+      "breves",
+      "entrevistas",
+      "verificar",
+      "datos",
+      "solicitudes",
+      "retorno",
+      ".",
+      "posteriormente",
+      ",",
+      "trasladó",
+      "respectivos",
+      "hogares",
+      ".",
+      "acuerdo",
+      "datos",
+      "oficiales",
+      ",",
+      "julio",
+      "sido",
+      "ahora",
+      "mes",
+      "mayor",
+      "número",
+      "retornos",
+      ",",
+      "registrando",
+      "13",
+      "llegadas",
+      ";",
+      "seguido",
+      "mayo",
+      "12",
+      ",",
+      "junio",
+      "nueve",
+      ",",
+      "abril",
+      "ocho",
+      ",",
+      "marzo",
+      "febrero",
+      "cuatro",
+      "retornos",
+      "cada",
+      ".",
+      "reanudación",
+      "plan",
+      "vuelta",
+      "patria",
+      ",",
+      "febrero",
+      "pasado",
+      ",",
+      "nueve",
+      "mil",
+      "ciudadanos",
+      "venezolanos",
+      "regresaron",
+      "país",
+      ",",
+      "acuerdo",
+      "cifras",
+      "oficiales",
+      "."
+    ],
+    "token_count": 182,
+    "sentence_count": 10
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 41,
+      "NN": 93,
+      "FW": 29,
+      "JJ": 25,
+      "IN": 14,
+      "CD": 8,
+      "NNS": 17,
+      "VBP": 13,
+      "VBZ": 9,
+      "VBD": 2
+    },
+    "bigram_freq": {
+      "NNP-NN": 10,
+      "NN-NNP": 9,
+      "NNP-NNP": 17,
+      "NNP-FW": 6,
+      "FW-NNP": 4,
+      "NNP-JJ": 1,
+      "JJ-NN": 16,
+      "NN-IN": 12,
+      "IN-CD": 2,
+      "CD-NNS": 5,
+      "NNS-JJ": 3,
+      "JJ-VBP": 1,
+      "VBP-NN": 8,
+      "NN-NNS": 6,
+      "NNS-VBP": 7,
+      "VBP-JJ": 3,
+      "JJ-NNP": 3,
+      "NN-NN": 47,
+      "NNP-VBZ": 6,
+      "VBZ-NN": 2,
+      "NN-CD": 2,
+      "NNS-CD": 2,
+      "NNS-NNP": 1,
+      "NNP-VBP": 1,
+      "NN-FW": 3,
+      "FW-NN": 7,
+      "IN-FW": 7,
+      "FW-JJ": 4,
+      "VBZ-NNP": 4,
+      "FW-FW": 11,
+      "CD-IN": 1,
+      "IN-NN": 2,
+      "NN-VBP": 4,
+      "NN-JJ": 6,
+      "VBZ-JJ": 2,
+      "IN-JJ": 1,
+      "IN-NNP": 2,
+      "NN-VBD": 2,
+      "VBD-JJ": 2,
+      "JJ-FW": 1,
+      "JJ-CD": 1,
+      "CD-JJ": 1,
+      "JJ-JJ": 2,
+      "JJ-NNS": 1,
+      "NNS-NNS": 3,
+      "VBP-NNS": 1,
+      "FW-VBZ": 1,
+      "VBZ-FW": 1,
+      "NN-VBZ": 2,
+      "FW-CD": 1,
+      "CD-NN": 1,
+      "VBP-IN": 1,
+      "FW-NNS": 1
+    },
+    "trigram_freq": {
+      "NNP-NN-NNP": 3,
+      "NN-NNP-NNP": 4,
+      "NNP-NNP-FW": 2,
+      "NNP-FW-NNP": 2,
+      "FW-NNP-JJ": 1,
+      "NNP-JJ-NN": 1,
+      "JJ-NN-IN": 4,
+      "NN-IN-CD": 2,
+      "IN-CD-NNS": 2,
+      "CD-NNS-JJ": 3,
+      "NNS-JJ-VBP": 1,
+      "JJ-VBP-NN": 1,
+      "VBP-NN-NNS": 1,
+      "NN-NNS-VBP": 4,
+      "NNS-VBP-JJ": 2,
+      "VBP-JJ-NNP": 1,
+      "JJ-NNP-NN": 2,
+      "NNP-NN-NN": 6,
+      "NN-NN-NN": 21,
+      "NN-NN-NNP": 3,
+      "NNP-NNP-NN": 6,
+      "NN-NNP-VBZ": 4,
+      "NNP-VBZ-NN": 1,
+      "VBZ-NN-NN": 2,
+      "NN-NN-CD": 2,
+      "NN-CD-NNS": 1,
+      "CD-NNS-CD": 1,
+      "NNS-CD-NNS": 1,
+      "CD-NNS-NNP": 1,
+      "NNS-NNP-VBP": 1,
+      "NNP-VBP-NN": 1,
+      "VBP-NN-NN": 5,
+      "NN-NN-FW": 3,
+      "NN-FW-NN": 2,
+      "FW-NN-IN": 2,
+      "NN-IN-FW": 7,
+      "IN-FW-JJ": 2,
+      "FW-JJ-NN": 3,
+      "JJ-NN-NN": 7,
+      "NNP-VBZ-NNP": 3,
+      "VBZ-NNP-NNP": 2,
+      "NNP-NNP-NNP": 8,
+      "NNP-FW-FW": 1,
+      "FW-FW-FW": 6,
+      "FW-FW-NN": 1,
+      "FW-NN-NNS": 2,
+      "NN-NNS-CD": 1,
+      "NNS-CD-IN": 1,
+      "CD-IN-NN": 1,
+      "IN-NN-NN": 2,
+      "NN-NN-VBP": 4,
+      "NN-VBP-JJ": 1,
+      "VBP-JJ-NN": 1,
+      "JJ-NN-NNP": 3,
+      "NN-NN-JJ": 4,
+      "NN-JJ-NN": 4,
+      "NN-NN-IN": 6,
+      "IN-FW-NNP": 1,
+      "FW-NNP-NNP": 2,
+      "NNP-NNP-VBZ": 1,
+      "NNP-VBZ-JJ": 2,
+      "VBZ-JJ-NN": 2,
+      "NN-NNP-NN": 1,
+      "NN-IN-JJ": 1,
+      "IN-JJ-NN": 1,
+      "NNS-JJ-NN": 1,
+      "NN-IN-NNP": 2,
+      "IN-NNP-NNP": 1,
+      "NN-FW-JJ": 1,
+      "FW-JJ-NNP": 1,
+      "JJ-NNP-FW": 1,
+      "NNP-NN-VBD": 1,
+      "NN-VBD-JJ": 2,
+      "VBD-JJ-FW": 1,
+      "JJ-FW-FW": 1,
+      "FW-FW-JJ": 1,
+      "JJ-NN-NNS": 2,
+      "VBP-JJ-CD": 1,
+      "JJ-CD-JJ": 1,
+      "CD-JJ-NN": 1,
+      "IN-NNP-VBZ": 1,
+      "NN-NN-NNS": 1,
+      "NNS-VBP-NN": 4,
+      "VBP-NN-JJ": 2,
+      "NN-JJ-JJ": 1,
+      "JJ-JJ-NN": 2,
+      "NN-NN-VBD": 1,
+      "VBD-JJ-NNS": 1,
+      "JJ-NNS-NNS": 1,
+      "NNS-NNS-NNS": 1,
+      "NNS-NNS-VBP": 1,
+      "NNS-VBP-NNS": 1,
+      "VBP-NNS-VBP": 1,
+      "IN-FW-FW": 3,
+      "FW-FW-NNP": 1,
+      "FW-NNP-FW": 1,
+      "NNP-FW-VBZ": 1,
+      "FW-VBZ-FW": 1,
+      "VBZ-FW-NN": 1,
+      "FW-NN-NN": 3,
+      "NN-NN-VBZ": 2,
+      "NN-VBZ-NNP": 1,
+      "VBZ-NNP-FW": 2,
+      "NNP-FW-NN": 2,
+      "NN-VBZ-NN": 1,
+      "FW-FW-CD": 1,
+      "FW-CD-NNS": 1,
+      "NNS-JJ-JJ": 1,
+      "NN-CD-NN": 1,
+      "CD-NN-NN": 1,
+      "NN-VBP-NN": 2,
+      "NN-VBP-IN": 1,
+      "VBP-IN-NN": 1,
+      "NN-JJ-NNP": 1,
+      "FW-FW-NNS": 1,
+      "FW-NNS-VBP": 1,
+      "IN-FW-NN": 1,
+      "NN-NNS-NNS": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 93,
+        "NNP": 41,
+        "FW": 29,
+        "JJ": 25,
+        "NNS": 17
+      },
+      "top_bigrams": {
+        "NN-NN": 47,
+        "NNP-NNP": 17,
+        "JJ-NN": 16,
+        "NN-IN": 12,
+        "FW-FW": 11
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 21,
+        "NNP-NNP-NNP": 8,
+        "NN-IN-FW": 7,
+        "JJ-NN-NN": 7,
+        "NNP-NN-NN": 6
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 10,
+    "chunk_counts": {
+      "NP": 76,
+      "ADJP": 2,
+      "VP": 23,
+      "PP": 5
+    },
+    "top_rules": [
+      {
+        "rule": "NP -> ('a', 'DT') ('la', 'NN') ('Patria', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0172
+      },
+      {
+        "rule": "NP -> ('ciudadanos', 'NNS')",
+        "frequency": 2,
+        "weight": 0.0172
+      },
+      {
+        "rule": "NP -> ('a', 'DT') ('su', 'NN') ('país', 'NN')",
+        "frequency": 2,
+        "weight": 0.0172
+      },
+      {
+        "rule": "NP -> ('Los', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0172
+      },
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0172
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0172
+      },
+      {
+        "rule": "S -> NP NP (',', ',') NP ('de', 'IN') ('205', 'CD') NP ADJP VP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0086
+      },
+      {
+        "rule": "NP -> ('Gracias', 'NNP') ('al', 'NN') ('Plan', 'NNP') ('Vuelta', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0086
+      },
+      {
+        "rule": "NP -> ('un', 'JJ') ('total', 'NN')",
+        "frequency": 1,
+        "weight": 0.0086
+      },
+      {
+        "rule": "ADJP -> ('venezolanos', 'JJ')",
+        "frequency": 1,
+        "weight": 0.0086
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Gracias al Plan Vuelta"
+      },
+      {
+        "label": "NP",
+        "text": "a la Patria"
+      },
+      {
+        "label": "NP",
+        "text": "un total"
+      },
+      {
+        "label": "NP",
+        "text": "ciudadanos"
+      },
+      {
+        "label": "ADJP",
+        "text": "venezolanos"
+      },
+      {
+        "label": "VP",
+        "text": "regresaron este miércoles a su país"
+      },
+      {
+        "label": "NP",
+        "text": "este miércoles"
+      },
+      {
+        "label": "NP",
+        "text": "a su país"
+      },
+      {
+        "label": "NP",
+        "text": "Este grupo"
+      },
+      {
+        "label": "NP",
+        "text": "que retornó desde Estados Unidos"
+      },
+      {
+        "label": "NP",
+        "text": "vía Honduras"
+      },
+      {
+        "label": "VP",
+        "text": "está compuesto por"
+      },
+      {
+        "label": "NP",
+        "text": "compuesto por"
+      },
+      {
+        "label": "NP",
+        "text": "hombres"
+      },
+      {
+        "label": "NP",
+        "text": "mujeres"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Gracias/NNP al/NN Plan/NNP Vuelta/NNP)\n  (NP a/DT la/NN Patria/NNP)\n  ,/,\n  (NP un/JJ total/NN)\n  de/IN\n  205/CD\n  (NP ciudadanos/NNS)\n  (ADJP venezolanos/JJ)\n  (VP\n    regresaron/VBP\n    (NP este/NN miércoles/NNS)\n    (NP a/DT su/NN país/NN))\n  ./.)",
+      "(S\n  (NP Este/NN grupo/NN)\n  ,/,\n  (NP que/JJ retornó/NN desde/NN Estados/NNP Unidos/NNP)\n  ,/,\n  (NP vía/NN Honduras/NNP)\n  ,/,\n  (VP está/VBZ (NP compuesto/NN por/NN))\n  171/CD\n  (NP hombres/NNS)\n  y/RB\n  34/CD\n  (NP mujeres/NNS)\n  ./.)",
+      "(S\n  (NP Los/NNP)\n  (NP\n    ciudadanos/JJ\n    que/NN\n    retornaron/NN\n    cumplieron/NN\n    rigurosamente/NN)\n  los/FW\n  (NP protocolos/NN)\n  de/IN\n  seguridad/FW\n  y/FW\n  (NP salubridad/NN)\n  ,/,\n  (NP según/JJ informó/NN el/NN Ministerio/NNP)\n  (VP\n    del/VBZ\n    (NP Poder/NNP Popular/NNP para/NN Relaciones/NNP Interiores/NNP))\n  ,/,\n  (NP Justicia/NNP y/NNP Paz/NNP)\n  ./.)",
+      "(S\n  (NP La/NNP llegada/NNP)\n  de/IN\n  los/FW\n  (NP repatriados/JJ fue/NN anunciada/NN el/NN)\n  (VP miércoles/VBZ)\n  30/CD\n  (PP de/IN (NP julio/NN por/NN el/NN))\n  (VP vicepresidente/VBP (NP sectorial/JJ para/NN Política/NNP))\n  ,/,\n  (NP Seguridad/NNP Ciudadana/NNP y/NNP Paz/NNP)\n  ,/,\n  (NP Diosdado/NNP Cabello/NNP)\n  ,/,\n  (NP quien/NN puntualizó/NN que/NN “/NNP)\n  nosotros/CC\n  (NP los/JJ buscamos/NN)\n  (PP en/IN (NP el/NN aeropuerto/NN))\n  ,/,\n  y/CC\n  (NP el/JJ que/NN tiene/NN)\n  (NP su/JJ solicitud/NN)\n  de/IN\n  los/FW\n  (NP Cuerpos/NNP Policiales/NNP)\n  (VP ahí/VBZ (NP se/JJ queda/NN ”/NN))\n  ./.)",
+      "(S\n  (NP Durante/NNP su/NN intervención/NN)\n  (PP en/IN (NP el/JJ programa/NN Con/NNP))\n  (VP el/VBZ (NP Mazo/NNP Dando/NNP))\n  ,/,\n  (NP Cabello/NNP)\n  (VP comentó/VBZ (NP sobre/JJ el/JJ grupo/NN))\n  de/IN\n  252/CD\n  (NP venezolanos/NNS)\n  (NP que/JJ retornaron/NN)\n  (PP de/IN (NP El/NNP Salvador/NNP))\n  ,/,\n  (NP que/NN decían/NN)\n  (VP pertenecían/VBZ (NP a/DT la/NN))\n  extinta/FW\n  (NP organización/JJ Tren/NNP)\n  de/FW\n  (NP Aragua/NNP)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "GRUPOS_ESPECIFICOS",
+      "LEYES_NORMATIVAS",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "PAISES",
+      "INFRAESTRUCTURA_SERVICIOS",
+      "RELACIONES_INTERNACIONALES",
+      "FECHAS_ESPECIFICAS"
+    ],
+    "matches": [
+      {
+        "category": "RELACIONES_INTERNACIONALES",
+        "matched_text": "acuerdo con datos oficiales, julio ha sido hasta ahora el mes con mayor número de retornos, registrando 13 llegadas; seguido por mayo con 12, junio con nueve, abril con ocho, y tanto",
+        "position": [
+          1296,
+          1478
+        ],
+        "start": 1296,
+        "end": 1478
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "informó",
+        "position": [
+          320,
+          327
+        ],
+        "start": 320,
+        "end": 327
+      },
+      {
+        "category": "GRUPOS_ESPECIFICOS",
+        "matched_text": "mujeres",
+        "position": [
+          208,
+          215
+        ],
+        "start": 208,
+        "end": 215
+      },
+      {
+        "category": "LEYES_NORMATIVAS",
+        "matched_text": "acuerdo con datos oficiales, julio ha sido hasta ahora el mes con mayor número de retornos, registrando 13",
+        "position": [
+          1296,
+          1402
+        ],
+        "start": 1296,
+        "end": 1402
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "aeropuerto",
+        "position": [
+          615,
+          625
+        ],
+        "start": 615,
+        "end": 625
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "estados unidos",
+        "position": [
+          142,
+          156
+        ],
+        "start": 142,
+        "end": 156
+      },
+      {
+        "category": "FECHAS_ESPECIFICAS",
+        "matched_text": "miércoles 30 de julio",
+        "position": [
+          451,
+          472
+        ],
+        "start": 451,
+        "end": 472
+      }
+    ],
+    "match_count": 7
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Tren de Aragua",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Cuerpos Policiales",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Diosdado Cabello",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Añadió",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Paz",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Estados Unidos",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Honduras",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "El Salvador",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Plan Vuelta a la Patria",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Ministerio del Poder Popular para Relaciones Interiores",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Cabello",
+        "tipo": "Persona"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Estados Unidos",
+        "relacion": "RETORNAR",
+        "objeto": "Honduras"
+      },
+      {
+        "sujeto": "Cabello",
+        "relacion": "COMENTAR",
+        "objeto": "El Salvador"
+      },
+      {
+        "sujeto": "Cabello",
+        "relacion": "COMENTAR",
+        "objeto": "Tren de Aragua"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.4588,
+    "pos": 0.02,
+    "neu": 0.971,
+    "neg": 0.009,
+    "label": "positive"
+  }
+}

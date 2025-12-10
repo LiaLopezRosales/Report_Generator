@@ -1,0 +1,814 @@
+{
+  "url": "https://www.telesurtv.net/putin-aprobo-suministro-de-combustible-a-cuba/",
+  "title": "Putin aprobó suministro de 80.000 toneladas de combustible a Cuba - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "combustible",
+    "Crisis energética",
+    "Cuba",
+    "Rusia"
+  ],
+  "text": "\nRusia manifestó su disposición para suministrar 80.000 toneladas de combustible diésel a Cuba, valoradas en 60 millones de dólares, como respuesta a la crisis energética que afecta a la isla caribeña.\nEl anuncio del suministro de combustible ruso se realizó durante la Reunión de los Copresidentes de la Comisión Intergubernamental para la Colaboración Económico-Comercial y Científico-Técnica, que inició sesiones en La Habana. El encuentro bilateral está encabezado por el Vicepresidente del Gobierno de Rusia, Dmitri Chernyshenko, y el Viceprimer Ministro de Cuba, Ricardo Cabrisas.\n“Siguiendo instrucciones de nuestro presidente, Vladímir Putin, Rusia está dispuesta a brindar asistencia de emergencia a la hermana Cuba en relación con la situación actual en el sector energético”, declaró Chernishenko durante el encuentro bilateral.\nLa ayuda rusa llega tras un colapso significativo del sistema electroenergético cubano, ocurrido el 18 de octubre, que dejó a gran parte del país sin electricidad durante aproximadamente 72 horas. El servicio eléctrico no se restableció hasta la madrugada del 21 de octubre.\nSegún el último reporte de las autoridades energéticas cubanas, emitido el 1 de noviembre, la isla continúa experimentando un déficit en la generación eléctrica, aunque han descartado la posibilidad de una nueva desconexión de la red nacional.\nLa asistencia rusa, autorizada directamente por el presidente Vladimir Putin, representa un esfuerzo internacional para estabilizar el sector energético cubano, que ha enfrentado serios desafíos debido a la falta de combustible y el deterioro de sus instalaciones generadoras de electricidad a causa del bloqueo económico impuesto por el gobierno de Estados Unidos.\n",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/putin-aprobo-suministro-de-combustible-a-cuba/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-11.json",
+    "message_index": 1301,
+    "message_id": 80118,
+    "date": "2024-11-09T01:55:07+00:00",
+    "text": "teleSUR\nPutin aprobó suministro de 80.000 toneladas de combustible a Cuba\nhttps://www.telesurtv.net/putin-aprobo-suministro-de-combustible-a-cuba/",
+    "photo_path": null,
+    "views": 3862,
+    "reactions": {
+      "❤": 105,
+      "👍": 30,
+      "👏": 12
+    },
+    "total_reactions": 147
+  },
+  "preprocessing": {
+    "cleaned": "rusia manifestó su disposición para suministrar 80.000 toneladas de combustible diésel a cuba, valoradas en 60 millones de dólares, como respuesta a la crisis energética que afecta a la isla caribeña. el anuncio del suministro de combustible ruso se realizó durante la reunión de los copresidentes de la comisión intergubernamental para la colaboración económico-comercial y científico-técnica, que inició sesiones en la habana. el encuentro bilateral está encabezado por el vicepresidente del gobierno de rusia, dmitri chernyshenko, y el viceprimer ministro de cuba, ricardo cabrisas. “siguiendo instrucciones de nuestro presidente, vladímir putin, rusia está dispuesta a brindar asistencia de emergencia a la hermana cuba en relación con la situación actual en el sector energético”, declaró chernishenko durante el encuentro bilateral. la ayuda rusa llega tras un colapso significativo del sistema electroenergético cubano, ocurrido el 18 de octubre, que dejó a gran parte del país sin electricidad durante aproximadamente 72 horas. el servicio eléctrico no se restableció hasta la madrugada del 21 de octubre. según el último reporte de las autoridades energéticas cubanas, emitido el 1 de noviembre, la isla continúa experimentando un déficit en la generación eléctrica, aunque han descartado la posibilidad de una nueva desconexión de la red nacional. la asistencia rusa, autorizada directamente por el presidente vladimir putin, representa un esfuerzo internacional para estabilizar el sector energético cubano, que ha enfrentado serios desafíos debido a la falta de combustible y el deterioro de sus instalaciones generadoras de electricidad a causa del bloqueo económico impuesto por el gobierno de estados unidos.",
+    "tokens": [
+      "rusia",
+      "manifestó",
+      "disposición",
+      "suministrar",
+      "80.000",
+      "toneladas",
+      "combustible",
+      "diésel",
+      "cuba",
+      ",",
+      "valoradas",
+      "60",
+      "millones",
+      "dólares",
+      ",",
+      "respuesta",
+      "crisis",
+      "energética",
+      "afecta",
+      "isla",
+      "caribeña",
+      ".",
+      "anuncio",
+      "suministro",
+      "combustible",
+      "ruso",
+      "realizó",
+      "reunión",
+      "copresidentes",
+      "comisión",
+      "intergubernamental",
+      "colaboración",
+      "económico-comercial",
+      "científico-técnica",
+      ",",
+      "inició",
+      "sesiones",
+      "habana",
+      ".",
+      "encuentro",
+      "bilateral",
+      "encabezado",
+      "vicepresidente",
+      "gobierno",
+      "rusia",
+      ",",
+      "dmitri",
+      "chernyshenko",
+      ",",
+      "viceprimer",
+      "ministro",
+      "cuba",
+      ",",
+      "ricardo",
+      "cabrisas",
+      ".",
+      "“",
+      "siguiendo",
+      "instrucciones",
+      "presidente",
+      ",",
+      "vladímir",
+      "putin",
+      ",",
+      "rusia",
+      "dispuesta",
+      "brindar",
+      "asistencia",
+      "emergencia",
+      "hermana",
+      "cuba",
+      "relación",
+      "situación",
+      "actual",
+      "sector",
+      "energético",
+      "”",
+      ",",
+      "declaró",
+      "chernishenko",
+      "encuentro",
+      "bilateral",
+      ".",
+      "ayuda",
+      "rusa",
+      "llega",
+      "tras",
+      "colapso",
+      "significativo",
+      "sistema",
+      "electroenergético",
+      "cubano",
+      ",",
+      "ocurrido",
+      "18",
+      "octubre",
+      ",",
+      "dejó",
+      "gran",
+      "parte",
+      "país",
+      "electricidad",
+      "aproximadamente",
+      "72",
+      "horas",
+      ".",
+      "servicio",
+      "eléctrico",
+      "restableció",
+      "madrugada",
+      "21",
+      "octubre",
+      ".",
+      "según",
+      "último",
+      "reporte",
+      "autoridades",
+      "energéticas",
+      "cubanas",
+      ",",
+      "emitido",
+      "1",
+      "noviembre",
+      ",",
+      "isla",
+      "continúa",
+      "experimentando",
+      "déficit",
+      "generación",
+      "eléctrica",
+      ",",
+      "aunque",
+      "descartado",
+      "posibilidad",
+      "nueva",
+      "desconexión",
+      "red",
+      "nacional",
+      ".",
+      "asistencia",
+      "rusa",
+      ",",
+      "autorizada",
+      "directamente",
+      "presidente",
+      "vladimir",
+      "putin",
+      ",",
+      "representa",
+      "esfuerzo",
+      "internacional",
+      "estabilizar",
+      "sector",
+      "energético",
+      "cubano",
+      ",",
+      "enfrentado",
+      "serios",
+      "desafíos",
+      "debido",
+      "falta",
+      "combustible",
+      "deterioro",
+      "instalaciones",
+      "generadoras",
+      "electricidad",
+      "causa",
+      "bloqueo",
+      "económico",
+      "impuesto",
+      "gobierno",
+      "unidos",
+      "."
+    ],
+    "token_count": 173,
+    "sentence_count": 8
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 37,
+      "NN": 79,
+      "VBD": 7,
+      "CD": 5,
+      "FW": 59,
+      "JJ": 25,
+      "NNS": 9,
+      "VBP": 6,
+      "VBZ": 4,
+      "IN": 7,
+      "DT": 1
+    },
+    "bigram_freq": {
+      "NNP-NN": 8,
+      "NN-NN": 53,
+      "NN-VBD": 6,
+      "VBD-CD": 4,
+      "CD-NN": 1,
+      "NN-FW": 6,
+      "FW-JJ": 7,
+      "JJ-NN": 12,
+      "NN-NNP": 5,
+      "CD-NNS": 2,
+      "NNS-FW": 2,
+      "FW-NNS": 3,
+      "NNS-VBP": 4,
+      "VBP-JJ": 3,
+      "NN-JJ": 2,
+      "NNP-VBZ": 4,
+      "VBZ-FW": 2,
+      "FW-FW": 33,
+      "FW-NNP": 10,
+      "NNP-FW": 7,
+      "NNP-IN": 2,
+      "IN-FW": 5,
+      "NNP-NNP": 13,
+      "NNP-JJ": 1,
+      "JJ-NNP": 4,
+      "NN-NNS": 2,
+      "NNS-IN": 1,
+      "IN-NNP": 2,
+      "VBZ-JJ": 1,
+      "VBZ-NNP": 1,
+      "NN-IN": 3,
+      "FW-NN": 5,
+      "NN-VBP": 2,
+      "JJ-FW": 2,
+      "VBD-JJ": 3,
+      "JJ-JJ": 6,
+      "NNS-JJ": 1,
+      "CD-IN": 1,
+      "NNS-NNP": 1,
+      "NNP-VBD": 1,
+      "JJ-DT": 1,
+      "DT-JJ": 1,
+      "FW-CD": 1,
+      "CD-FW": 1,
+      "VBP-NNS": 2,
+      "VBP-FW": 1
+    },
+    "trigram_freq": {
+      "NNP-NN-NN": 5,
+      "NN-NN-NN": 35,
+      "NN-NN-VBD": 5,
+      "NN-VBD-CD": 4,
+      "VBD-CD-NN": 1,
+      "CD-NN-FW": 1,
+      "NN-FW-JJ": 2,
+      "FW-JJ-NN": 4,
+      "JJ-NN-NNP": 2,
+      "NN-NNP-NN": 1,
+      "NNP-NN-VBD": 1,
+      "VBD-CD-NNS": 2,
+      "CD-NNS-FW": 1,
+      "NNS-FW-NNS": 1,
+      "FW-NNS-VBP": 2,
+      "NNS-VBP-JJ": 2,
+      "VBP-JJ-NN": 1,
+      "JJ-NN-NN": 8,
+      "NN-NN-JJ": 1,
+      "NN-JJ-NN": 1,
+      "NN-NNP-VBZ": 1,
+      "NNP-VBZ-FW": 2,
+      "VBZ-FW-FW": 2,
+      "FW-FW-FW": 20,
+      "FW-FW-JJ": 4,
+      "NN-NN-FW": 4,
+      "NN-FW-NNP": 1,
+      "FW-NNP-FW": 5,
+      "NNP-FW-FW": 2,
+      "FW-FW-NNP": 5,
+      "FW-NNP-IN": 1,
+      "NNP-IN-FW": 1,
+      "IN-FW-NNP": 1,
+      "FW-NNP-NNP": 4,
+      "NNP-NNP-NN": 3,
+      "NN-NN-NNP": 3,
+      "NN-NNP-JJ": 1,
+      "NNP-JJ-NNP": 1,
+      "JJ-NNP-NN": 3,
+      "NN-NN-NNS": 2,
+      "NN-NNS-IN": 1,
+      "NNS-IN-NNP": 1,
+      "IN-NNP-NNP": 2,
+      "NNP-NNP-NNP": 5,
+      "NNP-NNP-VBZ": 3,
+      "NNP-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 1,
+      "NN-NNP-FW": 1,
+      "NNP-FW-NNP": 3,
+      "NNP-VBZ-NNP": 1,
+      "VBZ-NNP-NNP": 1,
+      "NNP-NNP-IN": 1,
+      "NNP-IN-NNP": 1,
+      "NN-NN-IN": 1,
+      "NN-IN-FW": 3,
+      "IN-FW-FW": 2,
+      "NNP-FW-NN": 2,
+      "FW-NN-NN": 5,
+      "NN-NN-VBP": 2,
+      "NN-VBP-JJ": 1,
+      "VBP-JJ-FW": 2,
+      "JJ-FW-NN": 1,
+      "NN-VBD-JJ": 2,
+      "VBD-JJ-NNP": 1,
+      "NNP-NN-FW": 1,
+      "FW-JJ-JJ": 3,
+      "JJ-JJ-NNP": 2,
+      "JJ-NNP-FW": 1,
+      "NN-NNS-JJ": 1,
+      "NNS-JJ-JJ": 1,
+      "JJ-JJ-NN": 3,
+      "VBD-CD-IN": 1,
+      "CD-IN-FW": 1,
+      "IN-FW-JJ": 1,
+      "CD-NNS-NNP": 1,
+      "NNS-NNP-VBD": 1,
+      "NNP-VBD-JJ": 1,
+      "VBD-JJ-DT": 1,
+      "JJ-DT-JJ": 1,
+      "DT-JJ-NN": 1,
+      "NN-FW-FW": 3,
+      "FW-FW-CD": 1,
+      "FW-CD-FW": 1,
+      "CD-FW-FW": 1,
+      "FW-FW-NNS": 1,
+      "NNS-VBP-NNS": 1,
+      "VBP-NNS-VBP": 2,
+      "NNS-VBP-FW": 1,
+      "VBP-FW-FW": 1,
+      "JJ-NN-IN": 2,
+      "FW-FW-NN": 2,
+      "NN-NNP-NNP": 1,
+      "NNP-NN-JJ": 1,
+      "NN-JJ-JJ": 1,
+      "JJ-JJ-JJ": 1,
+      "VBD-JJ-NN": 1,
+      "NN-VBP-NNS": 1,
+      "JJ-FW-FW": 1,
+      "IN-FW-NNS": 1,
+      "FW-NNS-FW": 1,
+      "NNS-FW-FW": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 79,
+        "FW": 59,
+        "NNP": 37,
+        "JJ": 25,
+        "NNS": 9
+      },
+      "top_bigrams": {
+        "NN-NN": 53,
+        "FW-FW": 33,
+        "NNP-NNP": 13,
+        "JJ-NN": 12,
+        "FW-NNP": 10
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 35,
+        "FW-FW-FW": 20,
+        "JJ-NN-NN": 8,
+        "NNP-NN-NN": 5,
+        "NN-NN-VBD": 5
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 8,
+    "chunk_counts": {
+      "NP": 62,
+      "VP": 19,
+      "PP": 3,
+      "ADJP": 2
+    },
+    "top_rules": [
+      {
+        "rule": "NP -> ('El', 'NNP')",
+        "frequency": 3,
+        "weight": 0.0319
+      },
+      {
+        "rule": "NP -> ('Rusia', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0213
+      },
+      {
+        "rule": "NP -> ('La', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0213
+      },
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0213
+      },
+      {
+        "rule": "S -> NP VP ('80.000', 'CD') NP ('de', 'FW') NP NP (',', ',') VP ('60', 'CD') NP ('de', 'FW') NP (',', ',') NP NP VP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0106
+      },
+      {
+        "rule": "NP -> ('Rusia', 'NNP') ('manifestó', 'NN') ('su', 'NN') ('disposición', 'NN') ('para', 'NN')",
+        "frequency": 1,
+        "weight": 0.0106
+      },
+      {
+        "rule": "VP -> ('suministrar', 'VBD')",
+        "frequency": 1,
+        "weight": 0.0106
+      },
+      {
+        "rule": "NP -> ('toneladas', 'NN')",
+        "frequency": 1,
+        "weight": 0.0106
+      },
+      {
+        "rule": "NP -> ('combustible', 'JJ') ('diésel', 'NN')",
+        "frequency": 1,
+        "weight": 0.0106
+      },
+      {
+        "rule": "NP -> ('a', 'DT') ('Cuba', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0106
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Rusia manifestó su disposición para"
+      },
+      {
+        "label": "VP",
+        "text": "suministrar"
+      },
+      {
+        "label": "NP",
+        "text": "toneladas"
+      },
+      {
+        "label": "NP",
+        "text": "combustible diésel"
+      },
+      {
+        "label": "NP",
+        "text": "a Cuba"
+      },
+      {
+        "label": "VP",
+        "text": "valoradas en"
+      },
+      {
+        "label": "NP",
+        "text": "millones"
+      },
+      {
+        "label": "NP",
+        "text": "dólares"
+      },
+      {
+        "label": "NP",
+        "text": "como respuesta"
+      },
+      {
+        "label": "NP",
+        "text": "a la crisis energética que"
+      },
+      {
+        "label": "VP",
+        "text": "afecta a la isla caribeña"
+      },
+      {
+        "label": "NP",
+        "text": "a la isla caribeña"
+      },
+      {
+        "label": "NP",
+        "text": "El"
+      },
+      {
+        "label": "VP",
+        "text": "anuncio"
+      },
+      {
+        "label": "NP",
+        "text": "combustible ruso se realizó durante"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Rusia/NNP manifestó/NN su/NN disposición/NN para/NN)\n  (VP suministrar/VBD)\n  80.000/CD\n  (NP toneladas/NN)\n  de/FW\n  (NP combustible/JJ diésel/NN)\n  (NP a/DT Cuba/NNP)\n  ,/,\n  (VP valoradas/VBD en/RB)\n  60/CD\n  (NP millones/NNS)\n  de/FW\n  (NP dólares/NNS)\n  ,/,\n  (NP como/NN respuesta/NN)\n  (NP a/DT la/NN crisis/NN energética/NN que/NN)\n  (VP afecta/VBZ (NP a/DT la/NN isla/NN caribeña/NN))\n  ./.)",
+      "(S\n  (NP El/NNP)\n  (VP anuncio/VBZ)\n  del/FW\n  suministro/FW\n  de/FW\n  (NP combustible/JJ ruso/NN se/NN realizó/NN durante/NN)\n  la/FW\n  (NP Reunión/NNP)\n  de/FW\n  los/FW\n  (NP Copresidentes/NNP)\n  de/IN\n  la/FW\n  (NP\n    Comisión/NNP\n    Intergubernamental/NNP\n    para/NN\n    la/NN\n    Colaboración/NNP)\n  (NP Económico-Comercial/JJ y/NN Científico-Técnica/NNP)\n  ,/,\n  (NP que/NN inició/NN sesiones/NNS)\n  (PP en/IN (NP La/NNP Habana/NNP))\n  ./.)",
+      "(S\n  (NP El/NNP)\n  (VP\n    encuentro/VBZ\n    (NP\n      bilateral/JJ\n      está/NN\n      encabezado/NN\n      por/NN\n      el/NN\n      Vicepresidente/NNP))\n  del/FW\n  (NP Gobierno/NNP)\n  de/FW\n  (NP Rusia/NNP)\n  ,/,\n  (NP Dmitri/NNP Chernyshenko/NNP)\n  ,/,\n  (NP y/NNP)\n  (VP el/VBZ (NP Viceprimer/NNP Ministro/NNP))\n  de/FW\n  (NP Cuba/NNP)\n  ,/,\n  (NP Ricardo/NNP Cabrisas/NNP)\n  ./.)",
+      "(S\n  (NP “/JJ Siguiendo/NNP instrucciones/NNS)\n  de/FW\n  nuestro/FW\n  (NP presidente/NN)\n  ,/,\n  (NP Vladímir/NNP Putin/NNP)\n  ,/,\n  (NP Rusia/NNP)\n  (VP está/VBZ)\n  (VP dispuesta/VB (NP a/DT brindar/NN asistencia/NN))\n  de/IN\n  emergencia/FW\n  (NP a/DT la/NN hermana/NN Cuba/NNP)\n  (VP en/VBZ)\n  relación/FW\n  (NP con/NN)\n  la/FW\n  situación/FW\n  (ADJP actual/JJ)\n  en/FW\n  (NP el/NN sector/NN energético/NN ”/NNP)\n  ,/,\n  (NP declaró/NN Chernishenko/NNP durante/NN)\n  el/FW\n  (NP encuentro/JJ bilateral/NN)\n  ./.)",
+      "(S\n  (NP La/NNP)\n  (VP\n    ayuda/VBZ\n    (NP rusa/JJ llega/JJ tras/NNS)\n    (NP\n      un/JJ\n      colapso/JJ\n      significativo/NN\n      del/NN\n      sistema/NN\n      electroenergético/NN\n      cubano/NN))\n  ,/,\n  (ADJP ocurrido/JJ)\n  el/FW\n  18/CD\n  de/FW\n  octubre/FW\n  ,/,\n  que/FW\n  (VP\n    dejó/VBZ\n    (NP\n      a/DT\n      gran/NN\n      parte/NN\n      del/NN\n      país/NN\n      sin/NN\n      electricidad/NN\n      durante/NN))\n  (VP aproximadamente/VBD)\n  72/CD\n  (NP horas/NNS)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "CIUDADES_CAPITALES",
+      "GOBIERNOS_OFICIALES",
+      "LEYES_NORMATIVAS",
+      "CANTIDADES_NUMERICAS",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "ANTIIMPERIALISMO_SOBERANIA",
+      "CRISIS_HUMANITARIA_SERVICIOS",
+      "PAISES",
+      "PROTESTAS_CONFLICTOS_SOCIALES",
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "CONFLICTOS_ARMADOS_OPERACIONES",
+      "INFRAESTRUCTURA_SERVICIOS",
+      "MONETARIOS"
+    ],
+    "matches": [
+      {
+        "category": "PROTESTAS_CONFLICTOS_SOCIALES",
+        "matched_text": "manifestó",
+        "position": [
+          7,
+          16
+        ],
+        "start": 7,
+        "end": 16
+      },
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "bloqueo económico",
+        "position": [
+          1663,
+          1680
+        ],
+        "start": 1663,
+        "end": 1680
+      },
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "impuesto",
+        "position": [
+          1681,
+          1689
+        ],
+        "start": 1681,
+        "end": 1689
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "declaró",
+        "position": [
+          787,
+          794
+        ],
+        "start": 787,
+        "end": 794
+      },
+      {
+        "category": "CRISIS_HUMANITARIA_SERVICIOS",
+        "matched_text": "crisis energética",
+        "position": [
+          153,
+          170
+        ],
+        "start": 153,
+        "end": 170
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "gobierno de rusia",
+        "position": [
+          495,
+          512
+        ],
+        "start": 495,
+        "end": 512
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente vladimir putin",
+        "position": [
+          1410,
+          1435
+        ],
+        "start": 1410,
+        "end": 1435
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "ministro de cuba",
+        "position": [
+          551,
+          567
+        ],
+        "start": 551,
+        "end": 567
+      },
+      {
+        "category": "LEYES_NORMATIVAS",
+        "matched_text": "disposición para suministrar 80",
+        "position": [
+          20,
+          51
+        ],
+        "start": 20,
+        "end": 51
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "electricidad",
+        "position": [
+          990,
+          1002
+        ],
+        "start": 990,
+        "end": 1002
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "cuba",
+        "position": [
+          90,
+          94
+        ],
+        "start": 90,
+        "end": 94
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "estados unidos",
+        "position": [
+          1709,
+          1723
+        ],
+        "start": 1709,
+        "end": 1723
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "rusia",
+        "position": [
+          1,
+          6
+        ],
+        "start": 1,
+        "end": 6
+      },
+      {
+        "category": "CIUDADES_CAPITALES",
+        "matched_text": "la habana",
+        "position": [
+          419,
+          428
+        ],
+        "start": 419,
+        "end": 428
+      },
+      {
+        "category": "ANTIIMPERIALISMO_SOBERANIA",
+        "matched_text": "bloqueo",
+        "position": [
+          1663,
+          1670
+        ],
+        "start": 1663,
+        "end": 1670
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "60 millones",
+        "position": [
+          109,
+          120
+        ],
+        "start": 109,
+        "end": 120
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "aproximadamente 72",
+        "position": [
+          1011,
+          1029
+        ],
+        "start": 1011,
+        "end": 1029
+      },
+      {
+        "category": "MONETARIOS",
+        "matched_text": "60 millones de dólares",
+        "position": [
+          109,
+          131
+        ],
+        "start": 109,
+        "end": 131
+      }
+    ],
+    "match_count": 18
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Comisión Intergubernamental para la Colaboración Económico-Comercial",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Rusia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Vicepresidente del Gobierno de Rusia",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Estados Unidos",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Ricardo Cabrisas",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Vladimir Putin",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Vladímir Putin",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "La Habana",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Cuba",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Chernishenko",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Dmitri Chernyshenko",
+        "tipo": "Persona"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Rusia",
+        "relacion": "MANIFESTAR",
+        "objeto": "Cuba"
+      },
+      {
+        "sujeto": "Vicepresidente del Gobierno de Rusia",
+        "relacion": "ES",
+        "objeto": "Dmitri Chernyshenko"
+      },
+      {
+        "sujeto": "Chernishenko",
+        "relacion": "SEGUIR_DECLARAR",
+        "objeto": "Vladímir Putin"
+      },
+      {
+        "sujeto": "Rusia",
+        "relacion": "DECLARAR",
+        "objeto": "Chernishenko"
+      },
+      {
+        "sujeto": "Chernishenko",
+        "relacion": "BRINDAR_DECLARAR",
+        "objeto": "Cuba"
+      },
+      {
+        "sujeto": "Vladimir Putin",
+        "relacion": "REPRESENTAR",
+        "objeto": "Estados Unidos"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.8176,
+    "pos": 0.01,
+    "neu": 0.95,
+    "neg": 0.04,
+    "label": "negative"
+  }
+}

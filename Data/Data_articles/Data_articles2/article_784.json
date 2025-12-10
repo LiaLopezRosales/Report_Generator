@@ -1,0 +1,750 @@
+{
+  "url": "https://www.telesurtv.net/cne-ecuador-reporta-el-sufragio-del-41-de-electores-en-segunda-vuelta-presidencial/",
+  "title": "CNE Ecuador reporta el sufragio del 41% de electores en segunda vuelta presidencial - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "CNE Ecuador",
+    "Diana Atamaint"
+  ],
+  "text": "En comparecencia televisiva, la presidenta del Consejo Nacional Electoral de la República de Ecuador, Diana Atamaint, confirmó que el 41 por ciento del total de electores residentes en la nación sudamericana ya ejerció su derecho al voto, de acuerdo con el más reciente boletín informativo de la entidad que hizo un corte 13H00 (hora local).\n\nLEA TAMBIÉN\nEcuador: Anomalías electorales y el peligro de un proceso amañado\n\nLa máxima autoridad electoral también notificó el cierre de la jornada en 41 zonas electorales ubicadas en el exterior, mientras que en otros 50 puntos continúa la jornada de sufragio debido a su huso horario.\nPor su parte, el representante de las Fuerzas Armadas de Ecuador, Nilo Estrada, hizo referencia a los operativos que realiza la institución durante la jornada de sufragio. Al respecto, indicó el despliegue a escala nacional más de 59 mil efectivos.\n\nHasta el momento, la Policía Nacional detalló el registro de 16 personas detenidas por boletas de captura y apremio. Asimismo, se reportaron dos emergencias médicas en centros educativos, una atención prehospitalaria del Cuerpo de Bomberos y un corte de energía en la Unidad Educativa Luxemburgo.\nEn horas de la mañana, los candidatos a la presidencia, Luisa González y Daniel Noboa, ejercieron el derecho al sufragio. Asimismo, lo hizo el aspirante a la vicepresidencia por Revolución Ciudadana, Diego Borja.\nCon un estado de excepción vigente en Quito y otras siete provincias, así como otras irregularidades dispuestas por el Gobierno, más de 13.7 millones de ecuatorianos acuden a los centros de votación, hasta las 17H00 (hora local) para decidir el destino de la nación durante los próximos cuatro años.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/cne-ecuador-reporta-el-sufragio-del-41-de-electores-en-segunda-vuelta-presidencial/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-04.json",
+    "message_index": 1141,
+    "message_id": 91809,
+    "date": "2025-04-13T18:55:07+00:00",
+    "text": "teleSUR\nCNE Ecuador reporta el sufragio del 41% de electores en segunda vuelta presidencial\nhttps://www.telesurtv.net/cne-ecuador-reporta-el-sufragio-del-41-de-electores-en-segunda-vuelta-presidencial/",
+    "photo_path": null,
+    "views": 2296,
+    "reactions": {
+      "👍": 26,
+      "🤔": 9
+    },
+    "total_reactions": 35
+  },
+  "preprocessing": {
+    "cleaned": "en comparecencia televisiva, la presidenta del consejo nacional electoral de la república de ecuador, diana atamaint, confirmó que el 41 por ciento del total de electores residentes en la nación sudamericana ya ejerció su derecho al voto, de acuerdo con el más reciente boletín informativo de la entidad que hizo un corte 13h00 (hora local). la máxima autoridad electoral también notificó el cierre de la jornada en 41 zonas electorales ubicadas en el exterior, mientras que en otros 50 puntos continúa la jornada de sufragio debido a su huso horario. por su parte, el representante de las fuerzas armadas de ecuador, nilo estrada, hizo referencia a los operativos que realiza la institución durante la jornada de sufragio. al respecto, indicó el despliegue a escala nacional más de 59 mil efectivos. hasta el momento, la policía nacional detalló el registro de 16 personas detenidas por boletas de captura y apremio. asimismo, se reportaron dos emergencias médicas en centros educativos, una atención prehospitalaria del cuerpo de bomberos y un corte de energía en la unidad educativa luxemburgo. en horas de la mañana, los candidatos a la presidencia, luisa gonzález y daniel noboa, ejercieron el derecho al sufragio. asimismo, lo hizo el aspirante a la vicepresidencia por revolución ciudadana, diego borja. con un estado de excepción vigente en quito y otras siete provincias, así como otras irregularidades dispuestas por el gobierno, más de 13.7 millones de ecuatorianos acuden a los centros de votación, hasta las 17h00 (hora local) para decidir el destino de la nación durante los próximos cuatro años.",
+    "tokens": [
+      "comparecencia",
+      "televisiva",
+      ",",
+      "presidenta",
+      "consejo",
+      "nacional",
+      "electoral",
+      "república",
+      "ecuador",
+      ",",
+      "diana",
+      "atamaint",
+      ",",
+      "confirmó",
+      "41",
+      "ciento",
+      "total",
+      "electores",
+      "residentes",
+      "nación",
+      "sudamericana",
+      "ejerció",
+      "derecho",
+      "voto",
+      ",",
+      "acuerdo",
+      "reciente",
+      "boletín",
+      "informativo",
+      "entidad",
+      "hizo",
+      "corte",
+      "13h00",
+      "(",
+      "hora",
+      "local",
+      ")",
+      ".",
+      "máxima",
+      "autoridad",
+      "electoral",
+      "notificó",
+      "cierre",
+      "jornada",
+      "41",
+      "zonas",
+      "electorales",
+      "ubicadas",
+      "exterior",
+      ",",
+      "mientras",
+      "50",
+      "puntos",
+      "continúa",
+      "jornada",
+      "sufragio",
+      "debido",
+      "huso",
+      "horario",
+      ".",
+      "parte",
+      ",",
+      "representante",
+      "fuerzas",
+      "armadas",
+      "ecuador",
+      ",",
+      "nilo",
+      "estrada",
+      ",",
+      "hizo",
+      "referencia",
+      "operativos",
+      "realiza",
+      "institución",
+      "jornada",
+      "sufragio",
+      ".",
+      "respecto",
+      ",",
+      "indicó",
+      "despliegue",
+      "escala",
+      "nacional",
+      "59",
+      "mil",
+      "efectivos",
+      ".",
+      "momento",
+      ",",
+      "policía",
+      "nacional",
+      "detalló",
+      "registro",
+      "16",
+      "personas",
+      "detenidas",
+      "boletas",
+      "captura",
+      "apremio",
+      ".",
+      "asimismo",
+      ",",
+      "reportaron",
+      "dos",
+      "emergencias",
+      "médicas",
+      "centros",
+      "educativos",
+      ",",
+      "atención",
+      "prehospitalaria",
+      "cuerpo",
+      "bomberos",
+      "corte",
+      "energía",
+      "unidad",
+      "educativa",
+      "luxemburgo",
+      ".",
+      "horas",
+      "mañana",
+      ",",
+      "candidatos",
+      "presidencia",
+      ",",
+      "luisa",
+      "gonzález",
+      "daniel",
+      "noboa",
+      ",",
+      "ejercieron",
+      "derecho",
+      "sufragio",
+      ".",
+      "asimismo",
+      ",",
+      "hizo",
+      "aspirante",
+      "vicepresidencia",
+      "revolución",
+      "ciudadana",
+      ",",
+      "diego",
+      "borja",
+      ".",
+      "excepción",
+      "vigente",
+      "quito",
+      "siete",
+      "provincias",
+      ",",
+      "así",
+      "irregularidades",
+      "dispuestas",
+      "gobierno",
+      ",",
+      "13.7",
+      "millones",
+      "ecuatorianos",
+      "acuden",
+      "centros",
+      "votación",
+      ",",
+      "17h00",
+      "(",
+      "hora",
+      "local",
+      ")",
+      "decidir",
+      "destino",
+      "nación",
+      "próximos",
+      "cuatro",
+      "años",
+      "."
+    ],
+    "token_count": 176,
+    "sentence_count": 9
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 44,
+      "NN": 72,
+      "FW": 74,
+      "VBD": 1,
+      "CD": 8,
+      "JJ": 25,
+      "VBZ": 4,
+      "IN": 15,
+      "NNS": 9,
+      "VBP": 6
+    },
+    "bigram_freq": {
+      "NNP-NN": 8,
+      "NN-NN": 33,
+      "NN-FW": 14,
+      "FW-NN": 15,
+      "NN-NNP": 6,
+      "NNP-NNP": 23,
+      "NNP-FW": 7,
+      "FW-NNP": 10,
+      "NN-VBD": 1,
+      "VBD-CD": 1,
+      "CD-NN": 1,
+      "FW-JJ": 6,
+      "JJ-FW": 4,
+      "FW-FW": 39,
+      "FW-VBZ": 1,
+      "VBZ-IN": 1,
+      "IN-FW": 9,
+      "NN-IN": 11,
+      "NN-JJ": 2,
+      "JJ-NN": 13,
+      "NN-CD": 1,
+      "CD-JJ": 2,
+      "JJ-JJ": 4,
+      "JJ-NNP": 3,
+      "NNP-VBZ": 3,
+      "VBZ-FW": 1,
+      "IN-CD": 4,
+      "CD-NNS": 5,
+      "NNS-NNS": 1,
+      "NNS-VBP": 3,
+      "VBP-IN": 1,
+      "FW-CD": 1,
+      "NNS-JJ": 3,
+      "NNP-IN": 1,
+      "IN-NNP": 1,
+      "NN-VBP": 3,
+      "VBP-JJ": 4,
+      "IN-NN": 1,
+      "VBP-NN": 1,
+      "NNP-JJ": 2,
+      "FW-NNS": 2,
+      "VBZ-JJ": 2,
+      "NNS-IN": 1,
+      "JJ-NNS": 1,
+      "NNS-CD": 1
+    },
+    "trigram_freq": {
+      "NNP-NN-NN": 6,
+      "NN-NN-NN": 14,
+      "NN-NN-FW": 7,
+      "NN-FW-NN": 7,
+      "FW-NN-NNP": 1,
+      "NN-NNP-NNP": 2,
+      "NNP-NNP-NNP": 14,
+      "NNP-NNP-FW": 2,
+      "NNP-FW-NNP": 3,
+      "FW-NNP-FW": 5,
+      "FW-NNP-NNP": 4,
+      "NNP-NNP-NN": 3,
+      "NN-NN-VBD": 1,
+      "NN-VBD-CD": 1,
+      "VBD-CD-NN": 1,
+      "CD-NN-NN": 1,
+      "NN-FW-JJ": 1,
+      "FW-JJ-FW": 2,
+      "JJ-FW-FW": 2,
+      "FW-FW-VBZ": 1,
+      "FW-VBZ-IN": 1,
+      "VBZ-IN-FW": 1,
+      "IN-FW-FW": 5,
+      "FW-FW-FW": 26,
+      "FW-FW-NN": 4,
+      "FW-NN-NN": 4,
+      "NN-NN-IN": 3,
+      "NN-IN-FW": 6,
+      "NN-NN-JJ": 2,
+      "NN-JJ-NN": 2,
+      "JJ-NN-CD": 1,
+      "NN-CD-JJ": 1,
+      "CD-JJ-JJ": 2,
+      "JJ-JJ-NNP": 1,
+      "JJ-NNP-NNP": 2,
+      "NNP-NNP-VBZ": 2,
+      "NNP-VBZ-FW": 1,
+      "VBZ-FW-FW": 1,
+      "FW-FW-NNP": 6,
+      "NNP-FW-JJ": 2,
+      "FW-JJ-JJ": 1,
+      "JJ-JJ-NN": 3,
+      "JJ-NN-NN": 7,
+      "FW-NN-IN": 3,
+      "IN-FW-NN": 1,
+      "NN-IN-CD": 4,
+      "IN-CD-NNS": 4,
+      "CD-NNS-NNS": 1,
+      "NNS-NNS-VBP": 1,
+      "NNS-VBP-IN": 1,
+      "VBP-IN-FW": 1,
+      "IN-FW-JJ": 3,
+      "JJ-FW-NN": 2,
+      "FW-NN-FW": 5,
+      "NN-FW-FW": 4,
+      "FW-FW-CD": 1,
+      "FW-CD-NNS": 1,
+      "CD-NNS-JJ": 3,
+      "NNS-JJ-FW": 1,
+      "NN-NN-NNP": 4,
+      "NN-NNP-NN": 3,
+      "NNP-NNP-IN": 1,
+      "NNP-IN-NNP": 1,
+      "IN-NNP-NNP": 1,
+      "NNP-FW-NN": 1,
+      "FW-NN-VBP": 2,
+      "NN-VBP-JJ": 2,
+      "VBP-JJ-NN": 3,
+      "JJ-NN-IN": 4,
+      "NNS-JJ-NNP": 1,
+      "JJ-NNP-NN": 1,
+      "NNP-NN-FW": 1,
+      "NNS-JJ-JJ": 1,
+      "NN-IN-NN": 1,
+      "IN-NN-NN": 1,
+      "NN-NN-VBP": 1,
+      "NN-VBP-NN": 1,
+      "VBP-NN-FW": 1,
+      "NN-FW-NNP": 1,
+      "FW-NNP-JJ": 1,
+      "NNP-JJ-NN": 2,
+      "NNP-FW-FW": 1,
+      "FW-FW-NNS": 1,
+      "FW-NNS-VBP": 2,
+      "NNS-VBP-JJ": 2,
+      "VBP-JJ-NNP": 1,
+      "NNP-VBZ-JJ": 2,
+      "VBZ-JJ-NN": 1,
+      "NN-NNP-VBZ": 1,
+      "VBZ-JJ-FW": 1,
+      "NNP-NNP-JJ": 1,
+      "FW-JJ-NN": 2,
+      "NN-FW-NNS": 1,
+      "JJ-NN-NNP": 1,
+      "NNP-NN-IN": 1,
+      "CD-NNS-IN": 1,
+      "NNS-IN-FW": 1,
+      "FW-JJ-NNS": 1,
+      "JJ-NNS-CD": 1,
+      "NNS-CD-JJ": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "FW": 74,
+        "NN": 72,
+        "NNP": 44,
+        "JJ": 25,
+        "IN": 15
+      },
+      "top_bigrams": {
+        "FW-FW": 39,
+        "NN-NN": 33,
+        "NNP-NNP": 23,
+        "FW-NN": 15,
+        "NN-FW": 14
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 26,
+        "NN-NN-NN": 14,
+        "NNP-NNP-NNP": 14,
+        "NN-NN-FW": 7,
+        "NN-FW-NN": 7
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 9,
+    "chunk_counts": {
+      "NP": 70,
+      "VP": 18,
+      "ADJP": 2,
+      "PP": 3
+    },
+    "top_rules": [
+      {
+        "rule": "NP -> ('Ecuador', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0196
+      },
+      {
+        "rule": "NP -> ('un', 'JJ') ('corte', 'NN')",
+        "frequency": 2,
+        "weight": 0.0196
+      },
+      {
+        "rule": "VP -> ('hora', 'VB') ('local', 'JJ')",
+        "frequency": 2,
+        "weight": 0.0196
+      },
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0196
+      },
+      {
+        "rule": "NP -> ('Asimismo', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0196
+      },
+      {
+        "rule": "S -> NP (',', ',') ('la', 'FW') ('presidenta', 'FW') ('del', 'FW') NP ('la', 'FW') NP ('de', 'FW') NP (',', ',') NP (',', ',') NP VP ('41', 'CD') NP ('del', 'FW') ADJP ('de', 'FW') ('electores', 'FW') VP ('en', 'IN') ('la', 'FW') ('nación', 'FW') ('sudamericana', 'FW') ('ya', 'FW') ('ejerció', 'FW') ('su', 'FW') ('derecho', 'FW') NP (',', ',') ('de', 'FW') ('acuerdo', 'FW') NP ('de', 'IN') ('la', 'FW') ('entidad', 'FW') NP NP ('13H00', 'CD') ('(', '(') VP (')', ')') ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0098
+      },
+      {
+        "rule": "NP -> ('En', 'NNP') ('comparecencia', 'NN') ('televisiva', 'NN')",
+        "frequency": 1,
+        "weight": 0.0098
+      },
+      {
+        "rule": "NP -> ('Consejo', 'NNP') ('Nacional', 'NNP') ('Electoral', 'NNP') ('de', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0098
+      },
+      {
+        "rule": "NP -> ('República', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0098
+      },
+      {
+        "rule": "NP -> ('Diana', 'NNP') ('Atamaint', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0098
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "En comparecencia televisiva"
+      },
+      {
+        "label": "NP",
+        "text": "Consejo Nacional Electoral de"
+      },
+      {
+        "label": "NP",
+        "text": "República"
+      },
+      {
+        "label": "NP",
+        "text": "Ecuador"
+      },
+      {
+        "label": "NP",
+        "text": "Diana Atamaint"
+      },
+      {
+        "label": "NP",
+        "text": "confirmó que"
+      },
+      {
+        "label": "VP",
+        "text": "el"
+      },
+      {
+        "label": "NP",
+        "text": "por ciento"
+      },
+      {
+        "label": "ADJP",
+        "text": "total"
+      },
+      {
+        "label": "VP",
+        "text": "residentes"
+      },
+      {
+        "label": "NP",
+        "text": "al voto"
+      },
+      {
+        "label": "NP",
+        "text": "con el más reciente boletín informativo"
+      },
+      {
+        "label": "NP",
+        "text": "que hizo"
+      },
+      {
+        "label": "NP",
+        "text": "un corte"
+      },
+      {
+        "label": "VP",
+        "text": "hora local"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP En/NNP comparecencia/NN televisiva/NN)\n  ,/,\n  la/FW\n  presidenta/FW\n  del/FW\n  (NP Consejo/NNP Nacional/NNP Electoral/NNP de/NNP)\n  la/FW\n  (NP República/NNP)\n  de/FW\n  (NP Ecuador/NNP)\n  ,/,\n  (NP Diana/NNP Atamaint/NNP)\n  ,/,\n  (NP confirmó/NN que/NN)\n  (VP el/VBD)\n  41/CD\n  (NP por/NN ciento/NN)\n  del/FW\n  (ADJP total/JJ)\n  de/FW\n  electores/FW\n  (VP residentes/VBZ)\n  en/IN\n  la/FW\n  nación/FW\n  sudamericana/FW\n  ya/FW\n  ejerció/FW\n  su/FW\n  derecho/FW\n  (NP al/NN voto/NN)\n  ,/,\n  de/FW\n  acuerdo/FW\n  (NP con/NN el/NN más/NN reciente/NN boletín/NN informativo/NN)\n  de/IN\n  la/FW\n  entidad/FW\n  (NP que/NN hizo/NN)\n  (NP un/JJ corte/NN)\n  13H00/CD\n  (/(\n  (VP hora/VB local/JJ)\n  )/)\n  ./.)",
+      "(S\n  (NP LEA/NNP TAMBIÉN/NNP Ecuador/NNP)\n  :/:\n  (NP Anomalías/NNP)\n  (VP electorales/VBZ y/RB (NP el/JJ peligro/NN))\n  (PP de/IN (NP un/JJ proceso/NN amañado/NN La/NNP máxima/NNP))\n  (VP\n    autoridad/VBZ\n    (NP electoral/JJ también/NNS)\n    (NP notificó/JJ el/JJ cierre/NN))\n  de/IN\n  la/FW\n  (NP jornada/NN)\n  en/IN\n  41/CD\n  (NP zonas/NNS electorales/NNS)\n  (VP ubicadas/VBP)\n  (PP en/IN (NP el/NN exterior/NN))\n  ,/,\n  mientras/FW\n  (NP que/NN)\n  en/FW\n  otros/FW\n  50/CD\n  (NP puntos/NNS)\n  (ADJP continúa/JJ)\n  la/FW\n  jornada/FW\n  de/FW\n  sufragio/FW\n  (VP debido/VB (NP a/DT su/NN huso/NN horario/NN))\n  ./.)",
+      "(S\n  (NP Por/NNP su/NN parte/NN)\n  ,/,\n  (NP el/JJ representante/NN)\n  de/IN\n  las/FW\n  (NP Fuerzas/NNP Armadas/NNP)\n  de/FW\n  (NP Ecuador/NNP)\n  ,/,\n  (NP Nilo/NNP Estrada/NNP)\n  ,/,\n  (NP hizo/NN)\n  (VP\n    referencia/VBD\n    (NP a/DT los/JJ operativos/NN que/NN realiza/NN la/NN))\n  institución/FW\n  (NP durante/NN)\n  la/FW\n  jornada/FW\n  de/FW\n  sufragio/FW\n  ./.)",
+      "(S\n  (NP Al/NNP respecto/NN)\n  ,/,\n  (NP indicó/JJ el/NN despliegue/NN)\n  (NP a/DT escala/JJ nacional/JJ más/NN)\n  de/IN\n  59/CD\n  (NP mil/NNS)\n  efectivos/RB\n  ./.)",
+      "(S\n  (NP Hasta/NNP el/NN momento/NN)\n  ,/,\n  la/FW\n  (NP Policía/NNP Nacional/NNP detalló/NN)\n  el/FW\n  (NP registro/NN)\n  de/IN\n  16/CD\n  (NP personas/NNS)\n  (NP detenidas/JJ por/JJ boletas/NN)\n  (PP de/IN (NP captura/NN y/NN apremio/NN))\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "CIUDADES_CAPITALES",
+      "GOBIERNOS_OFICIALES",
+      "CANTIDADES_NUMERICAS",
+      "TIEMPO_RELATIVO",
+      "REGIONES_PROVINCIAS",
+      "PAISES",
+      "INFRAESTRUCTURA_SERVICIOS"
+    ],
+    "matches": [
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidenta del consejo",
+        "position": [
+          32,
+          54
+        ],
+        "start": 32,
+        "end": 54
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "energía",
+        "position": [
+          1136,
+          1143
+        ],
+        "start": 1136,
+        "end": 1143
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "ecuador",
+        "position": [
+          93,
+          100
+        ],
+        "start": 93,
+        "end": 100
+      },
+      {
+        "category": "CIUDADES_CAPITALES",
+        "matched_text": "quito",
+        "position": [
+          1430,
+          1435
+        ],
+        "start": 1430,
+        "end": 1435
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "estado de",
+        "position": [
+          1399,
+          1408
+        ],
+        "start": 1399,
+        "end": 1408
+      },
+      {
+        "category": "TIEMPO_RELATIVO",
+        "matched_text": "mañana",
+        "position": [
+          1194,
+          1200
+        ],
+        "start": 1194,
+        "end": 1200
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "16 personas",
+        "position": [
+          943,
+          954
+        ],
+        "start": 943,
+        "end": 954
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "59 mil",
+        "position": [
+          863,
+          869
+        ],
+        "start": 863,
+        "end": 869
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "más de 59",
+        "position": [
+          856,
+          865
+        ],
+        "start": 856,
+        "end": 865
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "50 puntos",
+        "position": [
+          564,
+          573
+        ],
+        "start": 564,
+        "end": 573
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "más de 13",
+        "position": [
+          1521,
+          1530
+        ],
+        "start": 1521,
+        "end": 1530
+      }
+    ],
+    "match_count": 11
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Ecuador",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "República de Ecuador",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Fuerzas Armadas de Ecuador",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Luisa González",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Consejo Nacional Electoral",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Unidad Educativa Luxemburgo",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Nilo Estrada",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Revolución Ciudadana",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Quito",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Diana Atamaint",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Policía Nacional",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Cuerpo de Bomberos",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Diego Borja",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Gobierno",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Anomalías",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Daniel Noboa",
+        "tipo": "Persona"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Ecuador",
+        "relacion": "ES",
+        "objeto": "Anomalías"
+      },
+      {
+        "sujeto": "Ecuador",
+        "relacion": "NOTIFICAR_HACER",
+        "objeto": "Fuerzas Armadas de Ecuador"
+      },
+      {
+        "sujeto": "Ecuador",
+        "relacion": "NOTIFICAR_HACER",
+        "objeto": "Nilo Estrada"
+      },
+      {
+        "sujeto": "Anomalías",
+        "relacion": "NOTIFICAR_HACER",
+        "objeto": "Fuerzas Armadas de Ecuador"
+      },
+      {
+        "sujeto": "Anomalías",
+        "relacion": "NOTIFICAR_HACER",
+        "objeto": "Nilo Estrada"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.0,
+    "pos": 0.0,
+    "neu": 1.0,
+    "neg": 0.0,
+    "label": "neutral"
+  }
+}

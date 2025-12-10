@@ -1,0 +1,536 @@
+{
+  "url": "https://www.telesurtv.net/atentado-bomba-deja-al-menos-siete-muertos-y-15-heridos-en-pakistan/",
+  "title": "Atentado bomba deja al menos siete muertos y 15 heridos en Pakistán - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Atentado Bomba",
+    "Estudiantes Muertas",
+    "provincia de Baluchistán"
+  ],
+  "text": "Un atentado bomba en el oeste de Pakistán dejó este viernes al menos siete muertos y alrededor de 15 heridos en la provincia de Baluchistán.\nLEA TAMBÍEN:\nAl menos un policía muerto tras atentado a diplomáticos extranjeros en Pakistán\nFuentes policiales indicaron que la explosión del artefacto bomba ocurrió frente a un instituto femenino en la ciudad de Mastung y añadieron que entre los fallecidos se encuentran cinco estudiantes.\nTambién informaron que además de las alumnas, un agente de policía y un transeúnte murieron en el atentado bomba.\nSegún la Policía, las estudiantes que fallecieron viajaban en un auto al momento de la explosión de la bomba, que estaba colocada en una motocicleta y tenía como objetivo un vehículo policial que se encontraba en la zona.\nEl primer ministro paquistaní, Shehbaz Sharif, condenó el atentado y ordenó a las autoridades “atrapar a sus responsables y someterlos a un justo castigo”.\nHasta el momento, ningún grupo armado ha reivindicado el ataque.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/atentado-bomba-deja-al-menos-siete-muertos-y-15-heridos-en-pakistan/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-11.json",
+    "message_index": 1737,
+    "message_id": 79650,
+    "date": "2024-11-01T09:55:07+00:00",
+    "text": "teleSUR\nAtentado bomba deja al menos siete muertos y 15 heridos en Pakistán\nhttps://www.telesurtv.net/atentado-bomba-deja-al-menos-siete-muertos-y-15-heridos-en-pakistan/",
+    "photo_path": null,
+    "views": 2585,
+    "reactions": {
+      "🤬": 39,
+      "😁": 2,
+      "👌": 2,
+      "🤨": 1
+    },
+    "total_reactions": 44
+  },
+  "preprocessing": {
+    "cleaned": "un atentado bomba en el oeste de pakistán dejó este viernes al menos siete muertos y alrededor de 15 heridos en la provincia de baluchistán. lea tambíen: al menos un policía muerto tras atentado a diplomáticos extranjeros en pakistán fuentes policiales indicaron que la explosión del artefacto bomba ocurrió frente a un instituto femenino en la ciudad de mastung y añadieron que entre los fallecidos se encuentran cinco estudiantes. también informaron que además de las alumnas, un agente de policía y un transeúnte murieron en el atentado bomba. según la policía, las estudiantes que fallecieron viajaban en un auto al momento de la explosión de la bomba, que estaba colocada en una motocicleta y tenía como objetivo un vehículo policial que se encontraba en la zona. el primer ministro paquistaní, shehbaz sharif, condenó el atentado y ordenó a las autoridades “atrapar a sus responsables y someterlos a un justo castigo”. hasta el momento, ningún grupo armado ha reivindicado el ataque.",
+    "tokens": [
+      "atentado",
+      "bomba",
+      "oeste",
+      "pakistán",
+      "dejó",
+      "viernes",
+      "menos",
+      "siete",
+      "muertos",
+      "alrededor",
+      "15",
+      "heridos",
+      "provincia",
+      "baluchistán",
+      ".",
+      "lea",
+      "tambíen",
+      ":",
+      "menos",
+      "policía",
+      "muerto",
+      "tras",
+      "atentado",
+      "diplomáticos",
+      "extranjeros",
+      "pakistán",
+      "fuentes",
+      "policiales",
+      "indicaron",
+      "explosión",
+      "artefacto",
+      "bomba",
+      "ocurrió",
+      "frente",
+      "instituto",
+      "femenino",
+      "ciudad",
+      "mastung",
+      "añadieron",
+      "fallecidos",
+      "encuentran",
+      "cinco",
+      "estudiantes",
+      ".",
+      "informaron",
+      "además",
+      "alumnas",
+      ",",
+      "agente",
+      "policía",
+      "transeúnte",
+      "murieron",
+      "atentado",
+      "bomba",
+      ".",
+      "según",
+      "policía",
+      ",",
+      "estudiantes",
+      "fallecieron",
+      "viajaban",
+      "auto",
+      "momento",
+      "explosión",
+      "bomba",
+      ",",
+      "colocada",
+      "motocicleta",
+      "objetivo",
+      "vehículo",
+      "policial",
+      "encontraba",
+      "zona",
+      ".",
+      "primer",
+      "ministro",
+      "paquistaní",
+      ",",
+      "shehbaz",
+      "sharif",
+      ",",
+      "condenó",
+      "atentado",
+      "ordenó",
+      "autoridades",
+      "“",
+      "atrapar",
+      "responsables",
+      "someterlos",
+      "justo",
+      "castigo",
+      "”",
+      ".",
+      "momento",
+      ",",
+      "ningún",
+      "grupo",
+      "armado",
+      "reivindicado",
+      "ataque",
+      "."
+    ],
+    "token_count": 101,
+    "sentence_count": 6
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 16,
+      "NN": 51,
+      "IN": 7,
+      "JJ": 18,
+      "NNS": 9,
+      "VBP": 6,
+      "CD": 1,
+      "FW": 37,
+      "VBZ": 4
+    },
+    "bigram_freq": {
+      "NNP-NN": 5,
+      "NN-NN": 27,
+      "NN-IN": 6,
+      "IN-JJ": 2,
+      "JJ-NN": 12,
+      "IN-NNP": 1,
+      "NN-NNS": 3,
+      "NNS-VBP": 6,
+      "VBP-JJ": 3,
+      "JJ-JJ": 2,
+      "JJ-NNS": 2,
+      "VBP-IN": 1,
+      "IN-CD": 1,
+      "CD-NNS": 1,
+      "NNS-JJ": 2,
+      "JJ-FW": 2,
+      "FW-FW": 20,
+      "FW-NNP": 5,
+      "NNP-NNP": 5,
+      "NNP-FW": 4,
+      "FW-JJ": 4,
+      "VBP-NNP": 1,
+      "NNP-VBZ": 2,
+      "VBZ-FW": 2,
+      "FW-NN": 6,
+      "NN-FW": 7,
+      "NN-JJ": 4,
+      "NN-VBZ": 1,
+      "VBZ-NNP": 1,
+      "IN-FW": 2,
+      "FW-NNS": 1,
+      "FW-VBZ": 1,
+      "VBZ-JJ": 1,
+      "NN-NNP": 2,
+      "IN-NNS": 1,
+      "NNS-NNS": 1,
+      "VBP-NN": 1
+    },
+    "trigram_freq": {
+      "NNP-NN-NN": 5,
+      "NN-NN-IN": 5,
+      "NN-IN-JJ": 2,
+      "IN-JJ-NN": 2,
+      "JJ-NN-IN": 1,
+      "NN-IN-NNP": 1,
+      "IN-NNP-NN": 1,
+      "NN-NN-NNS": 2,
+      "NN-NNS-VBP": 3,
+      "NNS-VBP-JJ": 3,
+      "VBP-JJ-JJ": 1,
+      "JJ-JJ-NNS": 1,
+      "JJ-NNS-VBP": 2,
+      "NNS-VBP-IN": 1,
+      "VBP-IN-CD": 1,
+      "IN-CD-NNS": 1,
+      "CD-NNS-JJ": 1,
+      "NNS-JJ-FW": 2,
+      "JJ-FW-FW": 2,
+      "FW-FW-FW": 13,
+      "FW-FW-NNP": 4,
+      "FW-NNP-NNP": 1,
+      "NNP-NNP-NNP": 2,
+      "NNP-NNP-FW": 1,
+      "NNP-FW-JJ": 1,
+      "FW-JJ-NN": 4,
+      "JJ-NN-NN": 10,
+      "VBP-JJ-NNS": 1,
+      "NNS-VBP-NNP": 1,
+      "VBP-NNP-NNP": 1,
+      "NNP-NNP-VBZ": 1,
+      "NNP-VBZ-FW": 2,
+      "VBZ-FW-NN": 1,
+      "FW-NN-FW": 3,
+      "NN-FW-FW": 4,
+      "FW-FW-NN": 2,
+      "FW-NN-NN": 2,
+      "NN-NN-NN": 10,
+      "NN-NN-JJ": 2,
+      "NN-JJ-NN": 3,
+      "NN-NN-FW": 4,
+      "FW-NNP-NN": 1,
+      "NN-FW-NN": 2,
+      "FW-NN-JJ": 1,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-NNP": 1,
+      "VBZ-NNP-NN": 1,
+      "NN-IN-FW": 2,
+      "IN-FW-NNS": 1,
+      "FW-NNS-JJ": 1,
+      "FW-FW-JJ": 1,
+      "FW-NNP-FW": 3,
+      "NNP-FW-NNP": 1,
+      "NNP-FW-VBZ": 1,
+      "FW-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 1,
+      "NN-FW-JJ": 1,
+      "NN-JJ-JJ": 1,
+      "JJ-JJ-NN": 1,
+      "JJ-NN-JJ": 1,
+      "IN-FW-FW": 1,
+      "NNP-FW-NN": 1,
+      "NN-NN-NNP": 2,
+      "NN-NNP-NNP": 1,
+      "NNP-NNP-NN": 1,
+      "NN-IN-NNS": 1,
+      "IN-NNS-NNS": 1,
+      "NNS-NNS-VBP": 1,
+      "NNS-VBP-NN": 1,
+      "VBP-NN-NNS": 1,
+      "VBP-JJ-NN": 1,
+      "NN-NNP-VBZ": 1,
+      "VBZ-FW-JJ": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 51,
+        "FW": 37,
+        "JJ": 18,
+        "NNP": 16,
+        "NNS": 9
+      },
+      "top_bigrams": {
+        "NN-NN": 27,
+        "FW-FW": 20,
+        "JJ-NN": 12,
+        "NN-FW": 7,
+        "NN-IN": 6
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 13,
+        "JJ-NN-NN": 10,
+        "NN-NN-NN": 10,
+        "NNP-NN-NN": 5,
+        "NN-NN-IN": 5
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 6,
+    "chunk_counts": {
+      "NP": 40,
+      "PP": 7,
+      "VP": 9,
+      "ADJP": 1
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 4,
+        "weight": 0.0635
+      },
+      {
+        "rule": "S -> NP PP PP VP ('de', 'IN') ('15', 'CD') NP ADJP ('la', 'FW') ('provincia', 'FW') ('de', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0159
+      },
+      {
+        "rule": "NP -> ('Un', 'NNP') ('atentado', 'NN') ('bomba', 'NN')",
+        "frequency": 1,
+        "weight": 0.0159
+      },
+      {
+        "rule": "NP -> ('el', 'JJ') ('oeste', 'NN')",
+        "frequency": 1,
+        "weight": 0.0159
+      },
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 1,
+        "weight": 0.0159
+      },
+      {
+        "rule": "NP -> ('Pakistán', 'NNP') ('dejó', 'NN') ('este', 'NN') ('viernes', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0159
+      },
+      {
+        "rule": "VP -> ('al', 'VBP') NP",
+        "frequency": 1,
+        "weight": 0.0159
+      },
+      {
+        "rule": "NP -> ('menos', 'JJ') ('siete', 'JJ') ('muertos', 'NN') ('y', 'NN') ('alrededor', 'NN')",
+        "frequency": 1,
+        "weight": 0.0159
+      },
+      {
+        "rule": "NP -> ('heridos', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0159
+      },
+      {
+        "rule": "ADJP -> ('en', 'JJ')",
+        "frequency": 1,
+        "weight": 0.0159
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Un atentado bomba"
+      },
+      {
+        "label": "PP",
+        "text": "en el oeste"
+      },
+      {
+        "label": "NP",
+        "text": "el oeste"
+      },
+      {
+        "label": "PP",
+        "text": "de Pakistán dejó este viernes"
+      },
+      {
+        "label": "NP",
+        "text": "Pakistán dejó este viernes"
+      },
+      {
+        "label": "VP",
+        "text": "al menos siete muertos y alrededor"
+      },
+      {
+        "label": "NP",
+        "text": "menos siete muertos y alrededor"
+      },
+      {
+        "label": "NP",
+        "text": "heridos"
+      },
+      {
+        "label": "ADJP",
+        "text": "en"
+      },
+      {
+        "label": "NP",
+        "text": "Baluchistán"
+      },
+      {
+        "label": "NP",
+        "text": "LEA TAMBÍEN"
+      },
+      {
+        "label": "NP",
+        "text": "Al"
+      },
+      {
+        "label": "VP",
+        "text": "un policía muerto tras"
+      },
+      {
+        "label": "NP",
+        "text": "policía muerto tras"
+      },
+      {
+        "label": "VP",
+        "text": "atentado a diplomáticos extranjeros"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Un/NNP atentado/NN bomba/NN)\n  (PP en/IN (NP el/JJ oeste/NN))\n  (PP de/IN (NP Pakistán/NNP dejó/NN este/NN viernes/NNS))\n  (VP al/VBP (NP menos/JJ siete/JJ muertos/NN y/NN alrededor/NN))\n  de/IN\n  15/CD\n  (NP heridos/NNS)\n  (ADJP en/JJ)\n  la/FW\n  provincia/FW\n  de/FW\n  (NP Baluchistán/NNP)\n  ./.)",
+      "(S\n  (NP LEA/NNP TAMBÍEN/NNP)\n  :/:\n  (NP Al/NNP)\n  menos/MD\n  (VP un/VB (NP policía/JJ muerto/NN tras/NNS))\n  (VP atentado/VBP (NP a/DT diplomáticos/NN extranjeros/NN))\n  (PP en/IN (NP Pakistán/NNP Fuentes/NNP))\n  (VP policiales/VBZ)\n  indicaron/FW\n  (NP que/NN)\n  la/FW\n  explosión/FW\n  del/FW\n  artefacto/FW\n  (NP bomba/NN ocurrió/NN)\n  (VP frente/VBD (NP a/DT un/JJ instituto/NN femenino/NN))\n  en/FW\n  la/FW\n  ciudad/FW\n  de/FW\n  (NP Mastung/NNP)\n  y/CC\n  (NP añadieron/NN que/NN)\n  entre/FW\n  (NP los/NN)\n  (NP fallecidos/JJ se/NN encuentran/NN cinco/NN estudiantes/NNS)\n  ./.)",
+      "(S\n  (NP También/NNP informaron/NN que/NN además/NN)\n  de/IN\n  las/FW\n  (NP alumnas/NNS)\n  ,/,\n  (NP un/JJ agente/NN)\n  de/IN\n  policía/FW\n  y/FW\n  (NP un/JJ transeúnte/NN murieron/NN)\n  en/FW\n  el/FW\n  (NP atentado/NN bomba/NN)\n  ./.)",
+      "(S\n  (NP Según/NNP la/NN Policía/NNP)\n  ,/,\n  (NP las/NN estudiantes/NNS)\n  (VP que/VBP (NP fallecieron/JJ viajaban/NN))\n  (PP en/IN (NP un/JJ auto/NN al/NN))\n  momento/FW\n  de/FW\n  la/FW\n  explosión/FW\n  de/FW\n  la/FW\n  bomba/FW\n  ,/,\n  que/FW\n  estaba/FW\n  (NP colocada/NN)\n  en/FW\n  (NP una/JJ motocicleta/NN y/NN tenía/NN como/NN)\n  (NP objetivo/JJ un/JJ vehículo/NN)\n  (NP policial/JJ que/NN se/NN encontraba/NN)\n  (PP en/IN (NP la/NN zona/NN))\n  ./.)",
+      "(S\n  (NP El/NNP primer/NN ministro/NN paquistaní/NN)\n  ,/,\n  (NP Shehbaz/NNP Sharif/NNP)\n  ,/,\n  (NP condenó/NN el/NN atentado/NN y/NN)\n  (PP ordenó/IN (NP a/DT las/JJ autoridades/NNS))\n  (VP “/VBP)\n  (PP atrapar/IN (NP a/DT sus/NN))\n  (VP responsables/VBZ y/RB)\n  (VP someterlos/VB (NP a/DT un/JJ justo/NN castigo/NN ”/NN))\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "GRUPOS_ESPECIFICOS",
+      "APROBACION_RECHAZO",
+      "CANTIDADES_NUMERICAS",
+      "REGIONES_PROVINCIAS",
+      "INSTITUCIONES_EDUCATIVAS",
+      "CONFLICTOS_ARMADOS_OPERACIONES"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "vehículo policial",
+        "position": [
+          721,
+          738
+        ],
+        "start": 721,
+        "end": 738
+      },
+      {
+        "category": "GRUPOS_ESPECIFICOS",
+        "matched_text": "estudiantes",
+        "position": [
+          420,
+          431
+        ],
+        "start": 420,
+        "end": 431
+      },
+      {
+        "category": "INSTITUCIONES_EDUCATIVAS",
+        "matched_text": "instituto femenino en",
+        "position": [
+          320,
+          341
+        ],
+        "start": 320,
+        "end": 341
+      },
+      {
+        "category": "APROBACION_RECHAZO",
+        "matched_text": "condenó",
+        "position": [
+          816,
+          823
+        ],
+        "start": 816,
+        "end": 823
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "provincia de",
+        "position": [
+          115,
+          127
+        ],
+        "start": 115,
+        "end": 127
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "alrededor de 15",
+        "position": [
+          85,
+          100
+        ],
+        "start": 85,
+        "end": 100
+      }
+    ],
+    "match_count": 6
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Pakistán\nFuentes",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Baluchistán",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Pakistán",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Shehbaz Sharif",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Mastung",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Policía",
+        "tipo": "Organizacion"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Pakistán",
+        "relacion": "DEJAR",
+        "objeto": "Baluchistán"
+      },
+      {
+        "sujeto": "Pakistán\nFuentes",
+        "relacion": "INDICAR",
+        "objeto": "Mastung"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.34,
+    "pos": 0.016,
+    "neu": 0.984,
+    "neg": 0.0,
+    "label": "positive"
+  }
+}

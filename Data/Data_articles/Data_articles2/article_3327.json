@@ -1,0 +1,774 @@
+{
+  "url": "https://www.telesurtv.net/albatcp-venezuela-revisan-avances-agroalba/",
+  "title": "ALBA-TCP y Venezuela revisan avances del proyecto AgroALBA - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "AgroAlba",
+    "ALBA-TCP",
+    "Venezuela"
+  ],
+  "text": "El secretario ejecutivo del ALBA-TCP, Rander Peña, y el ministro de Industrias y Producción Nacional de Venezuela, Alex Saab, sostuvieron una reunión este jueves en Caracas, capital venezolana, para revisar los avances del proyecto AgroALBA, una iniciativa estratégica diseñada para robustecer la soberanía alimentaria entre los países miembros del bloque.\nAmbos funcionarios enfatizaron la importancia del macroproyecto para impulsar el intercambio de conocimientos, tecnologías y experiencias en producción agrícola, investigación y desarrollo.\n\n\nAgroALBA busca no solo incrementar la productividad agrícola, sino también promover la producción de alimentos sanos y nutritivos mediante la implementación de tecnologías agrícolas sostenibles y buenas prácticas.\nAdicionalmente, el proyecto tiene como objetivo fomentar una mayor variedad de cultivos, y facilitar el comercio de productos agroalimentarios entre las naciones de la plataforma de integración regional.\n\nEste esfuerzo se alinea con la reciente aprobación del Proyecto de Ley de Cooperación Agrícola del ALBA-TCP por parte de la Asamblea Nacional de Venezuela, una ley que busca promover las inversiones y el intercambio comercial entre esta nación y los demás países de la región.\nA principios de junio, durante la inauguración de la primera Expoferia AgroALBA 2025 en Caracas, el canciller venezolano, Yván Gil, resaltó el carácter estratégico de esta iniciativa. Concebida por los líderes Fidel Castro y Hugo Chávez, AgroALBA se perfila como una herramienta fundamental para la integración regional y la garantía de la soberanía alimentaria en América Latina y el Caribe.\n\n",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/albatcp-venezuela-revisan-avances-agroalba/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-06.json",
+    "message_index": 847,
+    "message_id": 96934,
+    "date": "2025-06-19T22:55:07+00:00",
+    "text": "teleSUR\nALBA-TCP y Venezuela revisan avances del proyecto AgroALBA\nhttps://www.telesurtv.net/albatcp-venezuela-revisan-avances-agroalba/",
+    "photo_path": null,
+    "views": 2625,
+    "reactions": {
+      "👍": 54,
+      "❤": 4,
+      "🤡": 2
+    },
+    "total_reactions": 60
+  },
+  "preprocessing": {
+    "cleaned": "el secretario ejecutivo del alba-tcp, rander peña, y el ministro de industrias y producción nacional de venezuela, alex saab, sostuvieron una reunión este jueves en caracas, capital venezolana, para revisar los avances del proyecto agroalba, una iniciativa estratégica diseñada para robustecer la soberanía alimentaria entre los países miembros del bloque. ambos funcionarios enfatizaron la importancia del macroproyecto para impulsar el intercambio de conocimientos, tecnologías y experiencias en producción agrícola, investigación y desarrollo. agroalba busca no solo incrementar la productividad agrícola, sino también promover la producción de alimentos sanos y nutritivos mediante la implementación de tecnologías agrícolas sostenibles y buenas prácticas. adicionalmente, el proyecto tiene como objetivo fomentar una mayor variedad de cultivos, y facilitar el comercio de productos agroalimentarios entre las naciones de la plataforma de integración regional. este esfuerzo se alinea con la reciente aprobación del proyecto de ley de cooperación agrícola del alba-tcp por parte de la asamblea nacional de venezuela, una ley que busca promover las inversiones y el intercambio comercial entre esta nación y los demás países de la región. a principios de junio, durante la inauguración de la primera expoferia agroalba 2025 en caracas, el canciller venezolano, yván gil, resaltó el carácter estratégico de esta iniciativa. concebida por los líderes fidel castro y hugo chávez, agroalba se perfila como una herramienta fundamental para la integración regional y la garantía de la soberanía alimentaria en américa latina y el caribe.",
+    "tokens": [
+      "secretario",
+      "ejecutivo",
+      "alba-tcp",
+      ",",
+      "rander",
+      "peña",
+      ",",
+      "ministro",
+      "industrias",
+      "producción",
+      "nacional",
+      "venezuela",
+      ",",
+      "alex",
+      "saab",
+      ",",
+      "sostuvieron",
+      "reunión",
+      "jueves",
+      "caracas",
+      ",",
+      "capital",
+      "venezolana",
+      ",",
+      "revisar",
+      "avances",
+      "proyecto",
+      "agroalba",
+      ",",
+      "iniciativa",
+      "estratégica",
+      "diseñada",
+      "robustecer",
+      "soberanía",
+      "alimentaria",
+      "países",
+      "miembros",
+      "bloque",
+      ".",
+      "ambos",
+      "funcionarios",
+      "enfatizaron",
+      "importancia",
+      "macroproyecto",
+      "impulsar",
+      "intercambio",
+      "conocimientos",
+      ",",
+      "tecnologías",
+      "experiencias",
+      "producción",
+      "agrícola",
+      ",",
+      "investigación",
+      "desarrollo",
+      ".",
+      "agroalba",
+      "busca",
+      "solo",
+      "incrementar",
+      "productividad",
+      "agrícola",
+      ",",
+      "sino",
+      "promover",
+      "producción",
+      "alimentos",
+      "sanos",
+      "nutritivos",
+      "mediante",
+      "implementación",
+      "tecnologías",
+      "agrícolas",
+      "sostenibles",
+      "buenas",
+      "prácticas",
+      ".",
+      "adicionalmente",
+      ",",
+      "proyecto",
+      "objetivo",
+      "fomentar",
+      "mayor",
+      "variedad",
+      "cultivos",
+      ",",
+      "facilitar",
+      "comercio",
+      "productos",
+      "agroalimentarios",
+      "naciones",
+      "plataforma",
+      "integración",
+      "regional",
+      ".",
+      "esfuerzo",
+      "alinea",
+      "reciente",
+      "aprobación",
+      "proyecto",
+      "ley",
+      "cooperación",
+      "agrícola",
+      "alba-tcp",
+      "parte",
+      "asamblea",
+      "nacional",
+      "venezuela",
+      ",",
+      "ley",
+      "busca",
+      "promover",
+      "inversiones",
+      "intercambio",
+      "comercial",
+      "nación",
+      "demás",
+      "países",
+      "región",
+      ".",
+      "principios",
+      "junio",
+      ",",
+      "inauguración",
+      "primera",
+      "expoferia",
+      "agroalba",
+      "2025",
+      "caracas",
+      ",",
+      "canciller",
+      "venezolano",
+      ",",
+      "yván",
+      "gil",
+      ",",
+      "resaltó",
+      "carácter",
+      "estratégico",
+      "iniciativa",
+      ".",
+      "concebida",
+      "líderes",
+      "fidel",
+      "castro",
+      "hugo",
+      "chávez",
+      ",",
+      "agroalba",
+      "perfila",
+      "herramienta",
+      "fundamental",
+      "integración",
+      "regional",
+      "garantía",
+      "soberanía",
+      "alimentaria",
+      "américa",
+      "latina",
+      "caribe",
+      "."
+    ],
+    "token_count": 161,
+    "sentence_count": 7
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 39,
+      "NN": 62,
+      "VBZ": 4,
+      "FW": 65,
+      "JJ": 20,
+      "NNS": 10,
+      "VBP": 10,
+      "IN": 7,
+      "DT": 1,
+      "CD": 1,
+      "VBD": 2
+    },
+    "bigram_freq": {
+      "NNP-NN": 6,
+      "NN-NN": 31,
+      "NN-VBZ": 2,
+      "VBZ-NNP": 2,
+      "NNP-NNP": 16,
+      "NNP-FW": 8,
+      "FW-FW": 40,
+      "FW-NNP": 11,
+      "NNP-JJ": 2,
+      "JJ-NN": 12,
+      "NN-NNS": 3,
+      "NNS-VBP": 7,
+      "VBP-NNP": 1,
+      "VBP-JJ": 6,
+      "JJ-NNP": 3,
+      "NN-VBP": 2,
+      "VBP-NN": 2,
+      "NN-FW": 11,
+      "FW-NN": 10,
+      "NN-NNP": 2,
+      "NNP-NNS": 1,
+      "JJ-JJ": 3,
+      "NN-IN": 4,
+      "IN-FW": 5,
+      "NNP-VBZ": 1,
+      "VBZ-DT": 1,
+      "DT-NN": 1,
+      "FW-NNS": 3,
+      "NNS-NNS": 1,
+      "NN-JJ": 7,
+      "JJ-NNS": 1,
+      "NNS-IN": 2,
+      "FW-JJ": 1,
+      "VBP-NNS": 1,
+      "JJ-VBZ": 1,
+      "VBZ-FW": 1,
+      "NNP-CD": 1,
+      "CD-IN": 1,
+      "IN-NNP": 2,
+      "NNP-VBP": 1,
+      "NNP-VBD": 2,
+      "VBD-JJ": 1,
+      "VBD-NNP": 1
+    },
+    "trigram_freq": {
+      "NNP-NN-NN": 6,
+      "NN-NN-VBZ": 2,
+      "NN-VBZ-NNP": 2,
+      "VBZ-NNP-NNP": 2,
+      "NNP-NNP-NNP": 7,
+      "NNP-NNP-FW": 4,
+      "NNP-FW-FW": 2,
+      "FW-FW-FW": 30,
+      "FW-FW-NNP": 5,
+      "FW-NNP-NNP": 5,
+      "NNP-FW-NNP": 5,
+      "NNP-NNP-JJ": 1,
+      "NNP-JJ-NN": 2,
+      "JJ-NN-NN": 6,
+      "NN-NN-NNS": 2,
+      "NN-NNS-VBP": 3,
+      "NNS-VBP-NNP": 1,
+      "VBP-NNP-NN": 1,
+      "NN-NN-NN": 14,
+      "NNS-VBP-JJ": 6,
+      "VBP-JJ-NNP": 2,
+      "JJ-NNP-NN": 1,
+      "NN-NN-VBP": 2,
+      "NN-VBP-NN": 1,
+      "VBP-NN-NN": 2,
+      "NN-NN-FW": 5,
+      "NN-FW-NN": 5,
+      "FW-NN-FW": 5,
+      "FW-NN-NNS": 1,
+      "VBP-JJ-NN": 1,
+      "JJ-NN-NNP": 1,
+      "NN-NNP-NNS": 1,
+      "NNP-NNS-VBP": 1,
+      "VBP-JJ-JJ": 2,
+      "JJ-JJ-NN": 3,
+      "FW-NN-IN": 2,
+      "NN-IN-FW": 4,
+      "IN-FW-NN": 2,
+      "NN-FW-FW": 6,
+      "FW-NNP-VBZ": 1,
+      "NNP-VBZ-DT": 1,
+      "VBZ-DT-NN": 1,
+      "DT-NN-NN": 1,
+      "FW-NN-NN": 2,
+      "FW-FW-NNS": 2,
+      "FW-NNS-NNS": 1,
+      "NNS-NNS-VBP": 1,
+      "JJ-NNP-FW": 2,
+      "NNP-FW-NN": 1,
+      "NN-NN-JJ": 3,
+      "NN-JJ-NN": 5,
+      "JJ-NN-JJ": 4,
+      "NN-NN-IN": 2,
+      "IN-FW-NNS": 1,
+      "FW-NNS-VBP": 1,
+      "VBP-JJ-NNS": 1,
+      "JJ-NNS-IN": 1,
+      "NNS-IN-FW": 1,
+      "IN-FW-FW": 1,
+      "FW-FW-JJ": 1,
+      "FW-JJ-NNP": 1,
+      "FW-FW-NN": 2,
+      "FW-NNP-FW": 2,
+      "FW-NNP-NN": 2,
+      "IN-FW-NNP": 1,
+      "FW-NNP-JJ": 1,
+      "NN-VBP-NNS": 1,
+      "VBP-NNS-VBP": 1,
+      "NN-JJ-VBZ": 1,
+      "JJ-VBZ-FW": 1,
+      "VBZ-FW-FW": 1,
+      "NNP-NNP-CD": 1,
+      "NNP-CD-IN": 1,
+      "CD-IN-NNP": 1,
+      "IN-NNP-VBP": 1,
+      "NNP-VBP-NN": 1,
+      "NN-NN-NNP": 1,
+      "NN-NNP-NNP": 1,
+      "NNP-NNP-NN": 1,
+      "NNP-NNP-VBD": 2,
+      "NNP-VBD-JJ": 1,
+      "VBD-JJ-NN": 1,
+      "NN-JJ-JJ": 1,
+      "JJ-NN-FW": 1,
+      "FW-NNS-IN": 1,
+      "NNS-IN-NNP": 1,
+      "IN-NNP-NNP": 1,
+      "NNP-VBD-NNP": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "FW": 65,
+        "NN": 62,
+        "NNP": 39,
+        "JJ": 20,
+        "NNS": 10
+      },
+      "top_bigrams": {
+        "FW-FW": 40,
+        "NN-NN": 31,
+        "NNP-NNP": 16,
+        "JJ-NN": 12,
+        "FW-NNP": 11
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 30,
+        "NN-NN-NN": 14,
+        "NNP-NNP-NNP": 7,
+        "NNP-NN-NN": 6,
+        "JJ-NN-NN": 6
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 7,
+    "chunk_counts": {
+      "NP": 69,
+      "VP": 14,
+      "PP": 4,
+      "ADJP": 1
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 3,
+        "weight": 0.0316
+      },
+      {
+        "rule": "NP -> ('Venezuela', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0211
+      },
+      {
+        "rule": "NP -> ('AgroALBA', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0211
+      },
+      {
+        "rule": "S -> NP (',', ',') NP (',', ',') NP ('el', 'FW') ('ministro', 'FW') ('de', 'FW') NP ('y', 'CC') NP ('de', 'FW') NP (',', ',') NP (',', ',') NP NP VP (',', ',') NP (',', ',') NP VP (',', ',') NP ('soberanía', 'FW') NP ('entre', 'FW') NP VP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0105
+      },
+      {
+        "rule": "NP -> ('El', 'NNP') ('secretario', 'NN') ('ejecutivo', 'NN') ('del', 'NN') ('ALBA-TCP', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0105
+      },
+      {
+        "rule": "NP -> ('Rander', 'NNP') ('Peña', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0105
+      },
+      {
+        "rule": "NP -> ('y', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0105
+      },
+      {
+        "rule": "NP -> ('Industrias', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0105
+      },
+      {
+        "rule": "NP -> ('Producción', 'NNP') ('Nacional', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0105
+      },
+      {
+        "rule": "NP -> ('Alex', 'NNP') ('Saab', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0105
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El secretario ejecutivo del ALBA-TCP"
+      },
+      {
+        "label": "NP",
+        "text": "Rander Peña"
+      },
+      {
+        "label": "NP",
+        "text": "y"
+      },
+      {
+        "label": "NP",
+        "text": "Industrias"
+      },
+      {
+        "label": "NP",
+        "text": "Producción Nacional"
+      },
+      {
+        "label": "NP",
+        "text": "Venezuela"
+      },
+      {
+        "label": "NP",
+        "text": "Alex Saab"
+      },
+      {
+        "label": "NP",
+        "text": "sostuvieron"
+      },
+      {
+        "label": "NP",
+        "text": "una reunión este jueves"
+      },
+      {
+        "label": "VP",
+        "text": "en Caracas"
+      },
+      {
+        "label": "NP",
+        "text": "Caracas"
+      },
+      {
+        "label": "NP",
+        "text": "capital venezolana"
+      },
+      {
+        "label": "NP",
+        "text": "para revisar los avances"
+      },
+      {
+        "label": "VP",
+        "text": "del proyecto AgroALBA"
+      },
+      {
+        "label": "NP",
+        "text": "proyecto AgroALBA"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP El/NNP secretario/NN ejecutivo/NN del/NN ALBA-TCP/NNP)\n  ,/,\n  (NP Rander/NNP Peña/NNP)\n  ,/,\n  (NP y/NNP)\n  el/FW\n  ministro/FW\n  de/FW\n  (NP Industrias/NNP)\n  y/CC\n  (NP Producción/NNP Nacional/NNP)\n  de/FW\n  (NP Venezuela/NNP)\n  ,/,\n  (NP Alex/NNP Saab/NNP)\n  ,/,\n  (NP sostuvieron/NN)\n  (NP una/JJ reunión/NN este/NN jueves/NNS)\n  (VP en/VBP (NP Caracas/NNP))\n  ,/,\n  (NP capital/NN venezolana/NN)\n  ,/,\n  (NP para/NN revisar/NN los/NN avances/NNS)\n  (VP del/VBP (NP proyecto/JJ AgroALBA/NNP))\n  ,/,\n  (NP\n    una/JJ\n    iniciativa/NN\n    estratégica/NN\n    diseñada/NN\n    para/NN\n    robustecer/NN\n    la/NN)\n  soberanía/FW\n  (NP alimentaria/NN)\n  entre/FW\n  (NP los/NN países/NNS)\n  (VP miembros/VBP (NP del/JJ bloque/NN))\n  ./.)",
+      "(S\n  (NP Ambos/NNP funcionarios/NNS)\n  (VP\n    enfatizaron/VBP\n    (NP\n      la/JJ\n      importancia/JJ\n      del/NN\n      macroproyecto/NN\n      para/NN\n      impulsar/NN))\n  el/FW\n  (NP intercambio/NN)\n  (PP de/IN (NP conocimientos/NN))\n  ,/,\n  (NP tecnologías/JJ y/NN experiencias/NN)\n  en/FW\n  (NP producción/NN agrícola/NN)\n  ,/,\n  (NP investigación/JJ y/NN desarrollo/NN)\n  ./.)",
+      "(S\n  (NP AgroALBA/NNP)\n  (VP\n    busca/VBZ\n    (NP\n      no/DT\n      solo/NN\n      incrementar/NN\n      la/NN\n      productividad/NN\n      agrícola/NN))\n  ,/,\n  (NP sino/NN también/NN promover/NN)\n  la/FW\n  producción/FW\n  de/FW\n  alimentos/FW\n  sanos/FW\n  y/FW\n  nutritivos/FW\n  mediante/FW\n  la/FW\n  implementación/FW\n  de/FW\n  tecnologías/FW\n  (NP agrícolas/NNS sostenibles/NNS)\n  y/RB\n  (VP buenas/VBP (NP prácticas/NN))\n  ./.)",
+      "(S\n  (NP Adicionalmente/NNP)\n  ,/,\n  el/FW\n  proyecto/FW\n  (NP tiene/NN como/NN)\n  (NP objetivo/JJ fomentar/NN)\n  (NP una/JJ mayor/NN variedad/NN)\n  (PP de/IN (NP cultivos/NN))\n  ,/,\n  y/CC\n  (NP facilitar/NN)\n  (VP el/VBP (NP comercio/NN))\n  de/FW\n  productos/FW\n  (NP agroalimentarios/NNS)\n  (VP entre/VBP (NP las/JJ naciones/NNS))\n  de/IN\n  la/FW\n  plataforma/FW\n  de/FW\n  integración/FW\n  (ADJP regional/JJ)\n  ./.)",
+      "(S\n  (NP Este/NN)\n  esfuerzo/FW\n  se/FW\n  alinea/FW\n  (NP con/NN)\n  la/FW\n  reciente/FW\n  aprobación/FW\n  del/FW\n  (NP Proyecto/NNP)\n  de/FW\n  (NP Ley/NNP)\n  de/FW\n  (NP Cooperación/NNP Agrícola/NNP)\n  del/FW\n  (NP ALBA-TCP/NNP por/NN parte/NN)\n  de/IN\n  la/FW\n  (NP Asamblea/NNP Nacional/NNP)\n  de/FW\n  (NP Venezuela/NNP)\n  ,/,\n  (NP una/JJ ley/NN que/NN busca/NN promover/NN)\n  (VP las/VBP (NP inversiones/NNS) y/RB)\n  (VP\n    el/VBP\n    (NP intercambio/JJ comercial/JJ entre/NN esta/NN)\n    (NP nación/JJ y/NN los/NN)\n    demás/JJ)\n  (VP países/VBZ)\n  de/FW\n  la/FW\n  región/FW\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "CIUDADES_CAPITALES",
+      "GOBIERNOS_OFICIALES",
+      "ORGANISMOS_INTERNACIONALES",
+      "LEYES_NORMATIVAS",
+      "REGIONES_PROVINCIAS",
+      "PAISES",
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "RELACIONES_INTERNACIONALES",
+      "JURIDICO_LEGISLATIVO_CORRUPCION"
+    ],
+    "matches": [
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "capital",
+        "position": [
+          174,
+          181
+        ],
+        "start": 174,
+        "end": 181
+      },
+      {
+        "category": "RELACIONES_INTERNACIONALES",
+        "matched_text": "cooperación agrícola del alba-tcp por parte de la asamblea nacional de venezuela, una ley que busca promover las inversiones y el intercambio comercial entre esta nación y los",
+        "position": [
+          1042,
+          1217
+        ],
+        "start": 1042,
+        "end": 1217
+      },
+      {
+        "category": "RELACIONES_INTERNACIONALES",
+        "matched_text": "cooperación agrícola del alba-tcp por parte de la asamblea nacional de venezuela, una ley que busca promover las inversiones y el intercambio comercial entre esta nación y los demás países",
+        "position": [
+          1042,
+          1230
+        ],
+        "start": 1042,
+        "end": 1230
+      },
+      {
+        "category": "JURIDICO_LEGISLATIVO_CORRUPCION",
+        "matched_text": "aprobación del proyecto de ley",
+        "position": [
+          1008,
+          1038
+        ],
+        "start": 1008,
+        "end": 1038
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "ministro de industrias y",
+        "position": [
+          56,
+          80
+        ],
+        "start": 56,
+        "end": 80
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "asamblea nacional",
+        "position": [
+          1092,
+          1109
+        ],
+        "start": 1092,
+        "end": 1109
+      },
+      {
+        "category": "ORGANISMOS_INTERNACIONALES",
+        "matched_text": "alba",
+        "position": [
+          28,
+          32
+        ],
+        "start": 28,
+        "end": 32
+      },
+      {
+        "category": "LEYES_NORMATIVAS",
+        "matched_text": "proyecto de ley",
+        "position": [
+          1023,
+          1038
+        ],
+        "start": 1023,
+        "end": 1038
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "venezuela",
+        "position": [
+          104,
+          113
+        ],
+        "start": 104,
+        "end": 113
+      },
+      {
+        "category": "CIUDADES_CAPITALES",
+        "matched_text": "caracas",
+        "position": [
+          165,
+          172
+        ],
+        "start": 165,
+        "end": 172
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "caribe",
+        "position": [
+          1630,
+          1636
+        ],
+        "start": 1630,
+        "end": 1636
+      }
+    ],
+    "match_count": 11
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Producción Nacional de Venezuela",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "AgroALBA",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Fidel Castro",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Caracas",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Alex Saab",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Hugo Chávez",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Yván Gil",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Asamblea Nacional de Venezuela",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "AgroALBA",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "el Caribe",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "América",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Expoferia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Rander Peña",
+        "tipo": "Persona"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Rander Peña",
+        "relacion": "SOSTENER",
+        "objeto": "Caracas"
+      },
+      {
+        "sujeto": "Rander Peña",
+        "relacion": "SOSTENER",
+        "objeto": "AgroALBA"
+      },
+      {
+        "sujeto": "Producción Nacional de Venezuela",
+        "relacion": "SOSTENER",
+        "objeto": "Caracas"
+      },
+      {
+        "sujeto": "Producción Nacional de Venezuela",
+        "relacion": "SOSTENER",
+        "objeto": "AgroALBA"
+      },
+      {
+        "sujeto": "Alex Saab",
+        "relacion": "SOSTENER",
+        "objeto": "Caracas"
+      },
+      {
+        "sujeto": "Alex Saab",
+        "relacion": "SOSTENER",
+        "objeto": "AgroALBA"
+      },
+      {
+        "sujeto": "Caracas",
+        "relacion": "SOSTENER",
+        "objeto": "AgroALBA"
+      },
+      {
+        "sujeto": "Expoferia",
+        "relacion": "RESALTAR",
+        "objeto": "Yván Gil"
+      },
+      {
+        "sujeto": "Caracas",
+        "relacion": "RESALTAR",
+        "objeto": "Yván Gil"
+      },
+      {
+        "sujeto": "AgroALBA",
+        "relacion": "AGROALBA_PERFILAR",
+        "objeto": "Fidel Castro"
+      },
+      {
+        "sujeto": "Fidel Castro",
+        "relacion": "AGROALBA_PERFILAR",
+        "objeto": "América"
+      },
+      {
+        "sujeto": "Fidel Castro",
+        "relacion": "AGROALBA_PERFILAR",
+        "objeto": "el Caribe"
+      },
+      {
+        "sujeto": "AgroALBA",
+        "relacion": "AGROALBA_PERFILAR",
+        "objeto": "Hugo Chávez"
+      },
+      {
+        "sujeto": "Hugo Chávez",
+        "relacion": "AGROALBA_PERFILAR",
+        "objeto": "América"
+      },
+      {
+        "sujeto": "Hugo Chávez",
+        "relacion": "AGROALBA_PERFILAR",
+        "objeto": "el Caribe"
+      },
+      {
+        "sujeto": "AgroALBA",
+        "relacion": "AGROALBA_PERFILAR",
+        "objeto": "América"
+      },
+      {
+        "sujeto": "AgroALBA",
+        "relacion": "AGROALBA_PERFILAR",
+        "objeto": "el Caribe"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.296,
+    "pos": 0.0,
+    "neu": 0.99,
+    "neg": 0.01,
+    "label": "negative"
+  }
+}

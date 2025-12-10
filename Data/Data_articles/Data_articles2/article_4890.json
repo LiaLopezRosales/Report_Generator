@@ -1,0 +1,758 @@
+{
+  "url": "https://www.telesurtv.net/mexico-exige-a-ee-uu-responsabilizarse-con-detencion-de-venta-de-drogas-y-trafico-de-armas/",
+  "title": "México exige a EE.UU. responsabilizarse con detención de venta de drogas y tráfico de armas - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "drogas",
+    "EE.UU.",
+    "Fentalino",
+    "México",
+    "tráfico de armas",
+    "venta"
+  ],
+  "text": "La presidenta de México, Claudia Sheinbaum, exigió este jueves al Gobierno de Estados Unidos (EE.UU.) que el país debe responsabilizarse con la detención con la venta de drogas y el tráfico de armas.\n“Que EE.UU. haga su trabajo para las detenciones, para evitar la venta de estupefacientes en su país, y el tráfico de armas de ese país a México”, refirió la mandataria en conferencia de prensa.\nAsimismo, la jefa de Estado puntualizó que “en EEUU también hay delincuencia organizada y hay estadounidenses que vienen a México a realizar estas actividades ilícitas”.\n“Pasa la droga de un lado a otro, de México a EE.UU., y también las armas de EE.UU. a México. Es evidente que hay ciudadanos involucrados de estas y probablemente otras nacionalidades”, refirió Sheinbaum.\nEntre tanto, la presidenta se refirió en particular al tráfico del opiáceo sintético Fentanilo en las ciudades estadounidenses, una droga que, de acuerdo a los reportes, ha ocasionado más de 100.000 muertes por sobredosis.\n“El asunto no solamente es que pase droga de México. En EEUU hay quien distribuye esa droga para el gran consumo, en particular de fentanilo. Lo cierto es que el consumo principal de la droga en el mundo está en EEUU”, insistió.\nEn 2021 México inició una demanda en una corte federal de EE.UU. en contra de los fabricantes de armas de ese país, mientras que el 4 de marzo habrá una audiencia en la Suprema Corte estadounidense por este caso.\nPor su parte la Agencia de Alcohol, Tabaco, Armas de Fuego y Explosivos de EE.UU. reportó que se estima que anualmente se trafican ilegalmente alrededor de 200.000 armas hacia México.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/mexico-exige-a-ee-uu-responsabilizarse-con-detencion-de-venta-de-drogas-y-trafico-de-armas/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-02.json",
+    "message_index": 1018,
+    "message_id": 86880,
+    "date": "2025-02-14T01:55:13+00:00",
+    "text": "teleSUR\nMéxico exige a EE.UU. responsabilizarse con detención de venta de drogas y tráfico de armas\nhttps://www.telesurtv.net/mexico-exige-a-ee-uu-responsabilizarse-con-detencion-de-venta-de-drogas-y-trafico-de-armas/",
+    "photo_path": null,
+    "views": 2388,
+    "reactions": {
+      "💯": 30,
+      "👍": 14,
+      "👏": 1
+    },
+    "total_reactions": 45
+  },
+  "preprocessing": {
+    "cleaned": "la presidenta de méxico, claudia sheinbaum, exigió este jueves al gobierno de estados unidos (ee.uu.) que el país debe responsabilizarse con la detención con la venta de drogas y el tráfico de armas. “que ee.uu. haga su trabajo para las detenciones, para evitar la venta de estupefacientes en su país, y el tráfico de armas de ese país a méxico”, refirió la mandataria en conferencia de prensa. asimismo, la jefa de estado puntualizó que “en eeuu también hay delincuencia organizada y hay estadounidenses que vienen a méxico a realizar estas actividades ilícitas”. “pasa la droga de un lado a otro, de méxico a ee.uu., y también las armas de ee.uu. a méxico. es evidente que hay ciudadanos involucrados de estas y probablemente otras nacionalidades”, refirió sheinbaum. entre tanto, la presidenta se refirió en particular al tráfico del opiáceo sintético fentanilo en las ciudades estadounidenses, una droga que, de acuerdo a los reportes, ha ocasionado más de 100.000 muertes por sobredosis. “el asunto no solamente es que pase droga de méxico. en eeuu hay quien distribuye esa droga para el gran consumo, en particular de fentanilo. lo cierto es que el consumo principal de la droga en el mundo está en eeuu”, insistió. en 2021 méxico inició una demanda en una corte federal de ee.uu. en contra de los fabricantes de armas de ese país, mientras que el 4 de marzo habrá una audiencia en la suprema corte estadounidense por este caso. por su parte la agencia de alcohol, tabaco, armas de fuego y explosivos de ee.uu. reportó que se estima que anualmente se trafican ilegalmente alrededor de 200.000 armas hacia méxico.",
+    "tokens": [
+      "presidenta",
+      "méxico",
+      ",",
+      "claudia",
+      "sheinbaum",
+      ",",
+      "exigió",
+      "jueves",
+      "gobierno",
+      "unidos",
+      "(",
+      "ee.uu.",
+      ")",
+      "país",
+      "debe",
+      "responsabilizarse",
+      "detención",
+      "venta",
+      "drogas",
+      "tráfico",
+      "armas",
+      ".",
+      "“",
+      "ee.uu.",
+      "haga",
+      "trabajo",
+      "detenciones",
+      ",",
+      "evitar",
+      "venta",
+      "estupefacientes",
+      "país",
+      ",",
+      "tráfico",
+      "armas",
+      "país",
+      "méxico",
+      "”",
+      ",",
+      "refirió",
+      "mandataria",
+      "conferencia",
+      "prensa",
+      ".",
+      "asimismo",
+      ",",
+      "jefa",
+      "puntualizó",
+      "“",
+      "eeuu",
+      "delincuencia",
+      "organizada",
+      "estadounidenses",
+      "vienen",
+      "méxico",
+      "realizar",
+      "actividades",
+      "ilícitas",
+      "”",
+      ".",
+      "“",
+      "pasa",
+      "droga",
+      "lado",
+      ",",
+      "méxico",
+      "ee.uu.",
+      ",",
+      "armas",
+      "ee.uu.",
+      "méxico",
+      ".",
+      "evidente",
+      "ciudadanos",
+      "involucrados",
+      "probablemente",
+      "nacionalidades",
+      "”",
+      ",",
+      "refirió",
+      "sheinbaum",
+      ".",
+      ",",
+      "presidenta",
+      "refirió",
+      "particular",
+      "tráfico",
+      "opiáceo",
+      "sintético",
+      "fentanilo",
+      "ciudades",
+      "estadounidenses",
+      ",",
+      "droga",
+      ",",
+      "acuerdo",
+      "reportes",
+      ",",
+      "ocasionado",
+      "100.000",
+      "muertes",
+      "sobredosis",
+      ".",
+      "“",
+      "asunto",
+      "solamente",
+      "pase",
+      "droga",
+      "méxico",
+      ".",
+      "eeuu",
+      "distribuye",
+      "droga",
+      "gran",
+      "consumo",
+      ",",
+      "particular",
+      "fentanilo",
+      ".",
+      "cierto",
+      "consumo",
+      "principal",
+      "droga",
+      "mundo",
+      "eeuu",
+      "”",
+      ",",
+      "insistió",
+      ".",
+      "2021",
+      "méxico",
+      "inició",
+      "demanda",
+      "corte",
+      "federal",
+      "ee.uu.",
+      "fabricantes",
+      "armas",
+      "país",
+      ",",
+      "mientras",
+      "4",
+      "marzo",
+      "audiencia",
+      "suprema",
+      "corte",
+      "estadounidense",
+      "caso",
+      ".",
+      "parte",
+      "agencia",
+      "alcohol",
+      ",",
+      "tabaco",
+      ",",
+      "armas",
+      "fuego",
+      "explosivos",
+      "ee.uu.",
+      "reportó",
+      "estima",
+      "anualmente",
+      "trafican",
+      "ilegalmente",
+      "alrededor",
+      "200.000",
+      "armas",
+      "hacia",
+      "méxico",
+      "."
+    ],
+    "token_count": 170,
+    "sentence_count": 11
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 44,
+      "FW": 72,
+      "VBZ": 6,
+      "NN": 79,
+      "NNS": 9,
+      "VBP": 5,
+      "JJ": 19,
+      "IN": 18,
+      "CD": 3,
+      "DT": 1,
+      "RB": 1
+    },
+    "bigram_freq": {
+      "NNP-FW": 5,
+      "FW-FW": 47,
+      "FW-NNP": 13,
+      "NNP-NNP": 15,
+      "NNP-VBZ": 3,
+      "VBZ-NN": 1,
+      "NN-NNS": 3,
+      "NNS-VBP": 4,
+      "VBP-NNP": 2,
+      "NNP-NN": 16,
+      "NN-NN": 43,
+      "NN-FW": 9,
+      "FW-NN": 6,
+      "VBP-JJ": 2,
+      "JJ-FW": 3,
+      "FW-IN": 1,
+      "IN-FW": 7,
+      "NN-VBZ": 1,
+      "VBZ-JJ": 3,
+      "JJ-NN": 11,
+      "NN-NNP": 5,
+      "NNS-VBZ": 2,
+      "JJ-NNP": 2,
+      "NN-IN": 13,
+      "IN-JJ": 4,
+      "JJ-JJ": 3,
+      "IN-NNP": 5,
+      "NN-JJ": 3,
+      "FW-NNS": 4,
+      "NNP-IN": 3,
+      "VBZ-FW": 1,
+      "IN-CD": 2,
+      "CD-NNS": 2,
+      "NNS-JJ": 2,
+      "VBZ-DT": 1,
+      "DT-NN": 1,
+      "NN-RB": 1,
+      "RB-JJ": 1,
+      "NN-VBP": 1,
+      "VBP-NN": 1,
+      "NNP-CD": 1,
+      "CD-NNP": 1,
+      "NNS-IN": 1,
+      "FW-JJ": 1
+    },
+    "trigram_freq": {
+      "NNP-FW-FW": 2,
+      "FW-FW-NNP": 7,
+      "FW-NNP-NNP": 5,
+      "NNP-NNP-NNP": 5,
+      "NNP-NNP-VBZ": 1,
+      "NNP-VBZ-NN": 1,
+      "VBZ-NN-NNS": 1,
+      "NN-NNS-VBP": 2,
+      "NNS-VBP-NNP": 2,
+      "VBP-NNP-FW": 1,
+      "NNP-FW-NNP": 2,
+      "NNP-NNP-NN": 6,
+      "NNP-NN-NN": 13,
+      "NN-NN-NN": 25,
+      "NN-NN-FW": 6,
+      "NN-FW-NN": 1,
+      "FW-NN-FW": 3,
+      "NN-FW-FW": 5,
+      "FW-FW-FW": 34,
+      "NN-NN-NNS": 1,
+      "NNS-VBP-JJ": 2,
+      "VBP-JJ-FW": 1,
+      "JJ-FW-FW": 2,
+      "FW-FW-IN": 1,
+      "FW-IN-FW": 1,
+      "IN-FW-FW": 4,
+      "FW-NNP-NN": 5,
+      "FW-NNP-FW": 3,
+      "NN-FW-NNP": 2,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 2,
+      "JJ-NN-NNP": 2,
+      "NN-NNP-NN": 2,
+      "NNP-NN-NNS": 1,
+      "NN-NNS-VBZ": 1,
+      "NNS-VBZ-JJ": 2,
+      "VBZ-JJ-NNP": 1,
+      "JJ-NNP-NN": 1,
+      "NN-NN-IN": 6,
+      "NN-IN-JJ": 4,
+      "IN-JJ-JJ": 2,
+      "JJ-JJ-NN": 1,
+      "JJ-NN-IN": 5,
+      "NN-IN-NNP": 3,
+      "IN-NNP-NNP": 4,
+      "NN-NN-JJ": 1,
+      "NN-JJ-NN": 3,
+      "NN-IN-FW": 4,
+      "IN-FW-NN": 1,
+      "NN-FW-NNS": 1,
+      "FW-NNS-VBP": 2,
+      "VBP-NNP-NNP": 1,
+      "NNP-NNP-IN": 3,
+      "NNP-IN-FW": 1,
+      "FW-FW-NN": 3,
+      "FW-NN-IN": 2,
+      "IN-JJ-NN": 1,
+      "JJ-NN-NN": 4,
+      "NN-NN-NNP": 2,
+      "NN-NNP-VBZ": 2,
+      "NNP-VBZ-FW": 1,
+      "VBZ-FW-NNS": 1,
+      "FW-NNS-VBZ": 1,
+      "FW-FW-NNS": 1,
+      "VBP-JJ-NN": 1,
+      "NN-IN-CD": 2,
+      "IN-CD-NNS": 2,
+      "CD-NNS-JJ": 2,
+      "NNS-JJ-NN": 1,
+      "NNP-VBZ-DT": 1,
+      "VBZ-DT-NN": 1,
+      "DT-NN-RB": 1,
+      "NN-RB-JJ": 1,
+      "RB-JJ-NN": 1,
+      "NN-NN-VBP": 1,
+      "NN-VBP-NN": 1,
+      "VBP-NN-NN": 1,
+      "IN-JJ-FW": 1,
+      "NNP-NN-NNP": 1,
+      "NN-NNP-CD": 1,
+      "NNP-CD-NNP": 1,
+      "CD-NNP-NN": 1,
+      "NNP-NN-JJ": 1,
+      "JJ-JJ-JJ": 1,
+      "JJ-JJ-FW": 1,
+      "JJ-FW-NNP": 1,
+      "NNP-FW-NN": 1,
+      "IN-FW-NNS": 1,
+      "FW-NNS-IN": 1,
+      "NNS-IN-FW": 1,
+      "FW-NN-JJ": 1,
+      "IN-FW-NNP": 1,
+      "NNP-IN-NNP": 2,
+      "IN-NNP-NN": 1,
+      "FW-FW-JJ": 1,
+      "FW-JJ-NN": 1,
+      "NNS-JJ-NNP": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 79,
+        "FW": 72,
+        "NNP": 44,
+        "JJ": 19,
+        "IN": 18
+      },
+      "top_bigrams": {
+        "FW-FW": 47,
+        "NN-NN": 43,
+        "NNP-NN": 16,
+        "NNP-NNP": 15,
+        "FW-NNP": 13
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 34,
+        "NN-NN-NN": 25,
+        "NNP-NN-NN": 13,
+        "FW-FW-NNP": 7,
+        "NNP-NNP-NN": 6
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 11,
+    "chunk_counts": {
+      "NP": 71,
+      "VP": 11,
+      "PP": 5,
+      "ADJP": 6
+    },
+    "top_rules": [
+      {
+        "rule": "NP -> ('México', 'NNP')",
+        "frequency": 3,
+        "weight": 0.0288
+      },
+      {
+        "rule": "NP -> ('EE.UU.', 'NNP')",
+        "frequency": 3,
+        "weight": 0.0288
+      },
+      {
+        "rule": "NP -> ('que', 'NN')",
+        "frequency": 3,
+        "weight": 0.0288
+      },
+      {
+        "rule": "NP -> ('país', 'NN')",
+        "frequency": 2,
+        "weight": 0.0192
+      },
+      {
+        "rule": "NP -> ('a', 'DT') ('México', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0192
+      },
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0192
+      },
+      {
+        "rule": "S -> NP ('presidenta', 'FW') ('de', 'FW') NP (',', ',') NP (',', ',') NP VP ('de', 'FW') NP ('(', '(') NP (')', ')') NP NP ('detención', 'FW') NP ('la', 'FW') ('venta', 'FW') ('de', 'FW') ('drogas', 'FW') ('y', 'FW') ('el', 'FW') ('tráfico', 'FW') ('de', 'FW') ('armas', 'FW') ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0096
+      },
+      {
+        "rule": "NP -> ('La', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0096
+      },
+      {
+        "rule": "NP -> ('Claudia', 'NNP') ('Sheinbaum', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0096
+      },
+      {
+        "rule": "NP -> ('exigió', 'JJ') ('este', 'NN') ('jueves', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0096
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "La"
+      },
+      {
+        "label": "NP",
+        "text": "México"
+      },
+      {
+        "label": "NP",
+        "text": "Claudia Sheinbaum"
+      },
+      {
+        "label": "NP",
+        "text": "exigió este jueves"
+      },
+      {
+        "label": "VP",
+        "text": "al Gobierno"
+      },
+      {
+        "label": "NP",
+        "text": "Gobierno"
+      },
+      {
+        "label": "NP",
+        "text": "Estados Unidos"
+      },
+      {
+        "label": "NP",
+        "text": "EE.UU."
+      },
+      {
+        "label": "NP",
+        "text": "que"
+      },
+      {
+        "label": "NP",
+        "text": "el país debe responsabilizarse con la"
+      },
+      {
+        "label": "NP",
+        "text": "con"
+      },
+      {
+        "label": "NP",
+        "text": "“ Que EE.UU. haga su trabajo para las detenciones"
+      },
+      {
+        "label": "NP",
+        "text": "para evitar"
+      },
+      {
+        "label": "NP",
+        "text": "país"
+      },
+      {
+        "label": "NP",
+        "text": "el tráfico"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP La/NNP)\n  presidenta/FW\n  de/FW\n  (NP México/NNP)\n  ,/,\n  (NP Claudia/NNP Sheinbaum/NNP)\n  ,/,\n  (NP exigió/JJ este/NN jueves/NNS)\n  (VP al/VBP (NP Gobierno/NNP))\n  de/FW\n  (NP Estados/NNP Unidos/NNP)\n  (/(\n  (NP EE.UU./NNP)\n  )/)\n  (NP que/NN)\n  (NP el/JJ país/NN debe/NN responsabilizarse/NN con/NN la/NN)\n  detención/FW\n  (NP con/NN)\n  la/FW\n  venta/FW\n  de/FW\n  drogas/FW\n  y/FW\n  el/FW\n  tráfico/FW\n  de/FW\n  armas/FW\n  ./.)",
+      "(S\n  (NP\n    “/NN\n    Que/NNP\n    EE.UU./NNP\n    haga/NN\n    su/NN\n    trabajo/NN\n    para/NN\n    las/NN\n    detenciones/NNS)\n  ,/,\n  (NP para/NN evitar/NN)\n  la/FW\n  venta/FW\n  de/FW\n  estupefacientes/FW\n  en/FW\n  su/FW\n  (NP país/NN)\n  ,/,\n  y/CC\n  (NP el/JJ tráfico/NN)\n  de/IN\n  armas/FW\n  de/FW\n  ese/FW\n  (VP país/VB (NP a/DT México/NNP ”/NN))\n  ,/,\n  (VP refirió/VB)\n  la/FW\n  mandataria/FW\n  en/FW\n  conferencia/FW\n  de/FW\n  prensa/FW\n  ./.)",
+      "(S\n  (NP Asimismo/NNP)\n  ,/,\n  la/FW\n  jefa/FW\n  de/FW\n  (NP Estado/NNP puntualizó/NN que/NN “/NNP)\n  (VP\n    en/VBZ\n    (NP\n      EEUU/NNP\n      también/NN\n      hay/NN\n      delincuencia/NN\n      organizada/NN\n      y/NN\n      hay/NN))\n  (VP estadounidenses/VBZ que/JJ)\n  (PP vienen/IN (NP a/DT México/NNP))\n  (NP a/DT realizar/NN estas/NN actividades/NNS)\n  (VP ilícitas/VBP (NP ”/NN))\n  ./.)",
+      "(S\n  (NP “/JJ Pasa/NNP la/NN droga/NN)\n  de/IN\n  (ADJP un/JJ)\n  lado/FW\n  (NP a/DT otro/NN)\n  ,/,\n  de/FW\n  (NP México/NNP)\n  (NP a/DT EE.UU./NNP)\n  ,/,\n  y/RB\n  (NP también/JJ las/NNS)\n  (VP armas/VBP)\n  de/FW\n  (NP EE.UU./NNP)\n  (NP a/DT México/NNP)\n  ./.)",
+      "(S\n  (NP Es/NNP evidente/NN que/NN hay/NN)\n  (NP ciudadanos/JJ involucrados/NN)\n  de/IN\n  estas/FW\n  y/FW\n  probablemente/FW\n  otras/FW\n  (NP nacionalidades/NNS)\n  (VP ”/VBP)\n  ,/,\n  (NP refirió/JJ Sheinbaum/NNP)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "GOBIERNOS_OFICIALES",
+      "LEYES_NORMATIVAS",
+      "CANTIDADES_NUMERICAS",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "REGIONES_PROVINCIAS",
+      "PAISES",
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "VIOLENCIA_CRIMEN_DERECHOS_HUMANOS"
+    ],
+    "matches": [
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "trabajo",
+        "position": [
+          220,
+          227
+        ],
+        "start": 220,
+        "end": 227
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "conferencia de prensa",
+        "position": [
+          372,
+          393
+        ],
+        "start": 372,
+        "end": 393
+      },
+      {
+        "category": "VIOLENCIA_CRIMEN_DERECHOS_HUMANOS",
+        "matched_text": "tráfico de armas",
+        "position": [
+          182,
+          198
+        ],
+        "start": 182,
+        "end": 198
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "gobierno de estados unidos",
+        "position": [
+          66,
+          92
+        ],
+        "start": 66,
+        "end": 92
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidenta de méxico",
+        "position": [
+          3,
+          23
+        ],
+        "start": 3,
+        "end": 23
+      },
+      {
+        "category": "LEYES_NORMATIVAS",
+        "matched_text": "acuerdo a los reportes, ha ocasionado más de 100",
+        "position": [
+          916,
+          964
+        ],
+        "start": 916,
+        "end": 964
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "estados unidos",
+        "position": [
+          78,
+          92
+        ],
+        "start": 78,
+        "end": 92
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "méxico",
+        "position": [
+          17,
+          23
+        ],
+        "start": 17,
+        "end": 23
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "estado puntualizó",
+        "position": [
+          416,
+          433
+        ],
+        "start": 416,
+        "end": 433
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "más de 100.000",
+        "position": [
+          954,
+          968
+        ],
+        "start": 954,
+        "end": 968
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "alrededor de 200.000",
+        "position": [
+          1578,
+          1598
+        ],
+        "start": 1578,
+        "end": 1598
+      }
+    ],
+    "match_count": 11
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "EEUU",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "EE.UU.",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Agencia de Alcohol",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Tabaco",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Sheinbaum",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Fentanilo",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Armas de Fuego",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Suprema Corte",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "México",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Gobierno de Estados Unidos",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Claudia Sheinbaum",
+        "tipo": "Persona"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "México",
+        "relacion": "EXIGIR",
+        "objeto": "Gobierno de Estados Unidos"
+      },
+      {
+        "sujeto": "México",
+        "relacion": "EXIGIR",
+        "objeto": "EE.UU."
+      },
+      {
+        "sujeto": "Claudia Sheinbaum",
+        "relacion": "EXIGIR",
+        "objeto": "Gobierno de Estados Unidos"
+      },
+      {
+        "sujeto": "Claudia Sheinbaum",
+        "relacion": "EXIGIR",
+        "objeto": "EE.UU."
+      },
+      {
+        "sujeto": "EE.UU.",
+        "relacion": "HACER_REFERIR",
+        "objeto": "México"
+      },
+      {
+        "sujeto": "EEUU",
+        "relacion": "HABER_PUNTUALIZAR",
+        "objeto": "México"
+      },
+      {
+        "sujeto": "México",
+        "relacion": "INICIAR",
+        "objeto": "EE.UU."
+      },
+      {
+        "sujeto": "Agencia de Alcohol",
+        "relacion": "REPORTAR",
+        "objeto": "México"
+      },
+      {
+        "sujeto": "Tabaco",
+        "relacion": "REPORTAR",
+        "objeto": "México"
+      },
+      {
+        "sujeto": "Armas de Fuego",
+        "relacion": "REPORTAR",
+        "objeto": "México"
+      },
+      {
+        "sujeto": "EE.UU.",
+        "relacion": "REPORTAR",
+        "objeto": "México"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.0516,
+    "pos": 0.009,
+    "neu": 0.982,
+    "neg": 0.008,
+    "label": "positive"
+  }
+}

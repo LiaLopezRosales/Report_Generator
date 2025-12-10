@@ -1,0 +1,799 @@
+{
+  "url": "https://www.telesurtv.net/policia-brasilena-confirma-que-explosiones-en-la-plaza-de-los-tres-poderes-fueron-un-ataque-suicida/",
+  "title": "Confirman en Brasil que explosiones en la Plaza de los Tres Poderes fueron un ataque suicida - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "Ataque Suicida",
+    "explosiones",
+    "Policía Brasileña"
+  ],
+  "text": "La Policía brasileña confirmó el miércoles que las explosiones registradas en la sede del Tribunal Supremo y cerca de la Cámara de los Diputados fueron causadas por un ataque suicida.\nUn portavoz policial explicó a medios locales que el autor del ataque se quitó la vida haciendo accionar un aparato explosivo, aparentemente de fabricación casera, junto a una estatua frente a la corte suprema.\n“El ciudadano se aproximó al Supremo Tribunal Federal, intentó entrar, no lo logró y ocurrió la explosión en la puerta”, dijo en conferencia de prensa la gobernadora de Brasilia, Celina Leão, quien aseguró que por ahora no es posible determinar la identidad de la persona porque el cuerpo “todavía tiene artefactos encima”.\nDespués de esa detonación, se produjo una segunda explosión en un automóvil que estaba aparcado cerca de la Cámara de los Diputados.\nSegún las primeras investigaciones de la Policía, se puede afirmar que ambas explosiones están relacionadas.\nLas explosiones ocurrieron al comienzo de la noche del miércoles, cuando llegaba a su fin una sesión plenaria en el tribunal y hasta el momento se desconocen las razones de lo ocurrido.\nLas fuerzas de seguridad de Brasil se encuentran en el lugar de los hechos y han aislado la Plaza de los Tres Poderes, donde también se encuentra la sede del Legislativo y el palacio de Planalto, sede de la Presidencia del país.\nLa Policía Federal asumió la investigación del caso y llevará a cabo las pesquisas “con rigor y celeridad”, según afirmó el abogado general de Brasil, Jorge Messias, en un mensaje en las redes sociales.\nEstas acciones ocurrieron antes de que Brasil acoja la cumbre de líderes del G20 en Río de Janeiro, los próximos 18 y 19 de noviembre.\nEl día 20, Lula tiene previsto recibir en Brasilia a su par chino, Xi Jinping.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/policia-brasilena-confirma-que-explosiones-en-la-plaza-de-los-tres-poderes-fueron-un-ataque-suicida/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-11.json",
+    "message_index": 1051,
+    "message_id": 80378,
+    "date": "2024-11-14T07:55:07+00:00",
+    "text": "teleSUR\nPolicía brasileña confirma que explosiones en la Plaza de los Tres Poderes fueron un ataque suicida\nhttps://www.telesurtv.net/policia-brasilena-confirma-que-explosiones-en-la-plaza-de-los-tres-poderes-fueron-un-ataque-suicida/",
+    "photo_path": null,
+    "views": 2323,
+    "reactions": {
+      "👍": 16,
+      "🤔": 8,
+      "👀": 3,
+      "😁": 2,
+      "😱": 1
+    },
+    "total_reactions": 30
+  },
+  "preprocessing": {
+    "cleaned": "la policía brasileña confirmó el miércoles que las explosiones registradas en la sede del tribunal supremo y cerca de la cámara de los diputados fueron causadas por un ataque suicida. un portavoz policial explicó a medios locales que el autor del ataque se quitó la vida haciendo accionar un aparato explosivo, aparentemente de fabricación casera, junto a una estatua frente a la corte suprema. “el ciudadano se aproximó al supremo tribunal federal, intentó entrar, no lo logró y ocurrió la explosión en la puerta”, dijo en conferencia de prensa la gobernadora de brasilia, celina leão, quien aseguró que por ahora no es posible determinar la identidad de la persona porque el cuerpo “todavía tiene artefactos encima”. después de esa detonación, se produjo una segunda explosión en un automóvil que estaba aparcado cerca de la cámara de los diputados. según las primeras investigaciones de la policía, se puede afirmar que ambas explosiones están relacionadas. las explosiones ocurrieron al comienzo de la noche del miércoles, cuando llegaba a su fin una sesión plenaria en el tribunal y hasta el momento se desconocen las razones de lo ocurrido. las fuerzas de seguridad de brasil se encuentran en el lugar de los hechos y han aislado la plaza de los tres poderes, donde también se encuentra la sede del legislativo y el palacio de planalto, sede de la presidencia del país. la policía federal asumió la investigación del caso y llevará a cabo las pesquisas “con rigor y celeridad”, según afirmó el abogado general de brasil, jorge messias, en un mensaje en las redes sociales. estas acciones ocurrieron antes de que brasil acoja la cumbre de líderes del g20 en río de janeiro, los próximos 18 y 19 de noviembre. el día 20, lula tiene previsto recibir en brasilia a su par chino, xi jinping.",
+    "tokens": [
+      "policía",
+      "brasileña",
+      "confirmó",
+      "miércoles",
+      "explosiones",
+      "registradas",
+      "sede",
+      "tribunal",
+      "supremo",
+      "cerca",
+      "cámara",
+      "diputados",
+      "causadas",
+      "ataque",
+      "suicida",
+      ".",
+      "portavoz",
+      "policial",
+      "explicó",
+      "medios",
+      "locales",
+      "autor",
+      "ataque",
+      "quitó",
+      "vida",
+      "haciendo",
+      "accionar",
+      "aparato",
+      "explosivo",
+      ",",
+      "aparentemente",
+      "fabricación",
+      "casera",
+      ",",
+      "junto",
+      "estatua",
+      "frente",
+      "corte",
+      "suprema",
+      ".",
+      "“",
+      "ciudadano",
+      "aproximó",
+      "supremo",
+      "tribunal",
+      "federal",
+      ",",
+      "intentó",
+      "entrar",
+      ",",
+      "logró",
+      "ocurrió",
+      "explosión",
+      "puerta",
+      "”",
+      ",",
+      "dijo",
+      "conferencia",
+      "prensa",
+      "gobernadora",
+      "brasilia",
+      ",",
+      "celina",
+      "leão",
+      ",",
+      "aseguró",
+      "ahora",
+      "posible",
+      "determinar",
+      "identidad",
+      "persona",
+      "cuerpo",
+      "“",
+      "todavía",
+      "artefactos",
+      "encima",
+      "”",
+      ".",
+      "después",
+      "detonación",
+      ",",
+      "produjo",
+      "segunda",
+      "explosión",
+      "automóvil",
+      "aparcado",
+      "cerca",
+      "cámara",
+      "diputados",
+      ".",
+      "según",
+      "primeras",
+      "investigaciones",
+      "policía",
+      ",",
+      "puede",
+      "afirmar",
+      "ambas",
+      "explosiones",
+      "relacionadas",
+      ".",
+      "explosiones",
+      "ocurrieron",
+      "comienzo",
+      "noche",
+      "miércoles",
+      ",",
+      "llegaba",
+      "fin",
+      "sesión",
+      "plenaria",
+      "tribunal",
+      "momento",
+      "desconocen",
+      "razones",
+      "ocurrido",
+      ".",
+      "fuerzas",
+      "seguridad",
+      "brasil",
+      "encuentran",
+      "lugar",
+      "hechos",
+      "aislado",
+      "plaza",
+      "tres",
+      "poderes",
+      ",",
+      "encuentra",
+      "sede",
+      "legislativo",
+      "palacio",
+      "planalto",
+      ",",
+      "sede",
+      "presidencia",
+      "país",
+      ".",
+      "policía",
+      "federal",
+      "asumió",
+      "investigación",
+      "caso",
+      "llevará",
+      "cabo",
+      "pesquisas",
+      "“",
+      "rigor",
+      "celeridad",
+      "”",
+      ",",
+      "según",
+      "afirmó",
+      "abogado",
+      "general",
+      "brasil",
+      ",",
+      "jorge",
+      "messias",
+      ",",
+      "mensaje",
+      "redes",
+      "sociales",
+      ".",
+      "acciones",
+      "ocurrieron",
+      "brasil",
+      "acoja",
+      "cumbre",
+      "líderes",
+      "g20",
+      "río",
+      "janeiro",
+      ",",
+      "próximos",
+      "18",
+      "19",
+      "noviembre",
+      ".",
+      "día",
+      "20",
+      ",",
+      "lula",
+      "previsto",
+      "recibir",
+      "brasilia",
+      "par",
+      "chino",
+      ",",
+      "xi",
+      "jinping",
+      "."
+    ],
+    "token_count": 192,
+    "sentence_count": 10
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 44,
+      "NN": 93,
+      "VBZ": 10,
+      "JJ": 27,
+      "NNS": 15,
+      "VBP": 9,
+      "IN": 14,
+      "FW": 68,
+      "DT": 2,
+      "RB": 1,
+      "VBD": 1,
+      "CD": 3
+    },
+    "bigram_freq": {
+      "NNP-NNP": 13,
+      "NNP-NN": 10,
+      "NN-NN": 48,
+      "NN-VBZ": 4,
+      "VBZ-JJ": 5,
+      "JJ-NNS": 3,
+      "NNS-NNS": 2,
+      "NNS-VBP": 7,
+      "VBP-IN": 1,
+      "IN-FW": 9,
+      "FW-FW": 34,
+      "FW-NNP": 17,
+      "NN-IN": 9,
+      "NNP-FW": 12,
+      "NN-JJ": 10,
+      "JJ-NN": 17,
+      "NN-NNP": 6,
+      "NNP-VBZ": 4,
+      "NN-NNS": 4,
+      "NNS-VBZ": 1,
+      "JJ-JJ": 3,
+      "NN-FW": 11,
+      "FW-NN": 13,
+      "VBZ-DT": 2,
+      "DT-NN": 2,
+      "JJ-NNP": 2,
+      "FW-JJ": 2,
+      "IN-JJ": 2,
+      "NNS-IN": 2,
+      "VBP-JJ": 4,
+      "NNP-NNS": 2,
+      "NNS-RB": 1,
+      "RB-VBP": 1,
+      "VBP-NN": 2,
+      "FW-NNS": 2,
+      "VBZ-NN": 1,
+      "NN-VBP": 1,
+      "JJ-FW": 1,
+      "NNS-NNP": 1,
+      "VBP-VBZ": 1,
+      "VBZ-IN": 1,
+      "IN-NNS": 1,
+      "VBP-NNP": 1,
+      "NNP-IN": 1,
+      "IN-NNP": 2,
+      "NNP-VBD": 1,
+      "VBD-JJ": 1,
+      "JJ-CD": 1,
+      "CD-CD": 1,
+      "CD-NNS": 1,
+      "NNS-FW": 1,
+      "VBZ-CD": 1,
+      "CD-NNP": 1
+    },
+    "trigram_freq": {
+      "NNP-NNP-NN": 5,
+      "NNP-NN-NN": 8,
+      "NN-NN-NN": 21,
+      "NN-NN-VBZ": 2,
+      "NN-VBZ-JJ": 2,
+      "VBZ-JJ-NNS": 2,
+      "JJ-NNS-NNS": 1,
+      "NNS-NNS-VBP": 1,
+      "NNS-VBP-IN": 1,
+      "VBP-IN-FW": 1,
+      "IN-FW-FW": 3,
+      "FW-FW-FW": 19,
+      "FW-FW-NNP": 9,
+      "FW-NNP-NNP": 5,
+      "NNP-NN-IN": 1,
+      "NN-IN-FW": 5,
+      "IN-FW-NNP": 4,
+      "FW-NNP-FW": 8,
+      "NNP-FW-FW": 7,
+      "FW-NNP-NN": 2,
+      "NN-NN-JJ": 9,
+      "NN-JJ-NN": 8,
+      "JJ-NN-NN": 11,
+      "NN-NN-NNP": 4,
+      "NN-NNP-VBZ": 1,
+      "NNP-VBZ-JJ": 2,
+      "VBZ-JJ-NN": 2,
+      "JJ-NN-NNS": 2,
+      "NN-NNS-VBZ": 1,
+      "NNS-VBZ-JJ": 1,
+      "VBZ-JJ-JJ": 1,
+      "JJ-JJ-NN": 3,
+      "NN-NN-FW": 5,
+      "NN-FW-NN": 5,
+      "FW-NN-FW": 5,
+      "NN-FW-FW": 5,
+      "FW-FW-NN": 4,
+      "FW-NN-NN": 7,
+      "NN-NN-IN": 5,
+      "IN-FW-NN": 1,
+      "NN-NNP-NN": 1,
+      "NN-NNP-NNP": 3,
+      "NNP-NNP-NNP": 4,
+      "NNP-NN-VBZ": 1,
+      "NN-VBZ-DT": 2,
+      "VBZ-DT-NN": 2,
+      "DT-NN-VBZ": 1,
+      "JJ-NN-FW": 1,
+      "DT-NN-JJ": 1,
+      "NN-JJ-NNP": 1,
+      "JJ-NNP-FW": 1,
+      "FW-FW-JJ": 1,
+      "FW-JJ-NN": 2,
+      "NN-IN-JJ": 2,
+      "IN-JJ-JJ": 1,
+      "JJ-NN-IN": 2,
+      "NNP-NNP-VBZ": 2,
+      "JJ-NNS-IN": 2,
+      "NNS-IN-FW": 2,
+      "NNP-FW-NN": 3,
+      "NN-NN-NNS": 2,
+      "NN-NNS-VBP": 3,
+      "NNS-VBP-JJ": 4,
+      "VBP-JJ-NNP": 1,
+      "JJ-NNP-NNS": 1,
+      "NNP-NNS-RB": 1,
+      "NNS-RB-VBP": 1,
+      "RB-VBP-NN": 1,
+      "VBP-NN-IN": 1,
+      "FW-FW-NNS": 1,
+      "FW-NNS-VBP": 1,
+      "VBP-JJ-NN": 2,
+      "VBP-JJ-JJ": 1,
+      "NN-JJ-NNS": 1,
+      "NN-FW-NNP": 1,
+      "NNP-VBZ-NN": 1,
+      "VBZ-NN-NN": 1,
+      "JJ-NN-VBP": 1,
+      "NN-VBP-NN": 1,
+      "VBP-NN-NNP": 1,
+      "NN-NNP-FW": 1,
+      "FW-NN-NNP": 1,
+      "IN-JJ-FW": 1,
+      "JJ-FW-NNP": 1,
+      "NNP-NNP-FW": 1,
+      "NNP-FW-JJ": 1,
+      "IN-FW-NNS": 1,
+      "FW-NNS-NNS": 1,
+      "NNS-NNS-NNP": 1,
+      "NNS-NNP-NNS": 1,
+      "NNP-NNS-VBP": 1,
+      "NNS-VBP-VBZ": 1,
+      "VBP-VBZ-IN": 1,
+      "VBZ-IN-FW": 1,
+      "NN-IN-NNS": 1,
+      "IN-NNS-VBP": 1,
+      "NNS-VBP-NNP": 1,
+      "VBP-NNP-FW": 1,
+      "NNP-FW-NNP": 1,
+      "FW-NNP-IN": 1,
+      "NNP-IN-NNP": 1,
+      "IN-NNP-VBD": 1,
+      "NNP-VBD-JJ": 1,
+      "VBD-JJ-CD": 1,
+      "JJ-CD-CD": 1,
+      "CD-CD-NNS": 1,
+      "CD-NNS-FW": 1,
+      "NNS-FW-NNP": 1,
+      "FW-NNP-VBZ": 1,
+      "NNP-VBZ-CD": 1,
+      "VBZ-CD-NNP": 1,
+      "CD-NNP-NN": 1,
+      "NN-IN-NNP": 1,
+      "IN-NNP-NN": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 93,
+        "FW": 68,
+        "NNP": 44,
+        "JJ": 27,
+        "NNS": 15
+      },
+      "top_bigrams": {
+        "NN-NN": 48,
+        "FW-FW": 34,
+        "FW-NNP": 17,
+        "JJ-NN": 17,
+        "NNP-NNP": 13
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 21,
+        "FW-FW-FW": 19,
+        "JJ-NN-NN": 11,
+        "FW-FW-NNP": 9,
+        "NN-NN-JJ": 9
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 10,
+    "chunk_counts": {
+      "NP": 81,
+      "VP": 21,
+      "PP": 3,
+      "ADJP": 2
+    },
+    "top_rules": [
+      {
+        "rule": "NP -> ('Cámara', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0171
+      },
+      {
+        "rule": "NP -> ('Brasilia', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0171
+      },
+      {
+        "rule": "NP -> ('Brasil', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0171
+      },
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0171
+      },
+      {
+        "rule": "S -> NP VP VP ('en', 'IN') ('la', 'FW') ('sede', 'FW') ('del', 'FW') NP ('de', 'IN') ('la', 'FW') NP ('de', 'FW') ('los', 'FW') NP NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0085
+      },
+      {
+        "rule": "NP -> ('La', 'NNP') ('Policía', 'NNP') ('brasileña', 'NN') ('confirmó', 'NN') ('el', 'NN')",
+        "frequency": 1,
+        "weight": 0.0085
+      },
+      {
+        "rule": "VP -> ('miércoles', 'VBZ') NP",
+        "frequency": 1,
+        "weight": 0.0085
+      },
+      {
+        "rule": "NP -> ('que', 'JJ') ('las', 'NNS') ('explosiones', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0085
+      },
+      {
+        "rule": "VP -> ('registradas', 'VBP')",
+        "frequency": 1,
+        "weight": 0.0085
+      },
+      {
+        "rule": "NP -> ('Tribunal', 'NNP') ('Supremo', 'NNP') ('y', 'NNP') ('cerca', 'NN')",
+        "frequency": 1,
+        "weight": 0.0085
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "La Policía brasileña confirmó el"
+      },
+      {
+        "label": "VP",
+        "text": "miércoles que las explosiones"
+      },
+      {
+        "label": "NP",
+        "text": "que las explosiones"
+      },
+      {
+        "label": "VP",
+        "text": "registradas"
+      },
+      {
+        "label": "NP",
+        "text": "Tribunal Supremo y cerca"
+      },
+      {
+        "label": "NP",
+        "text": "Cámara"
+      },
+      {
+        "label": "NP",
+        "text": "Diputados fueron causadas por"
+      },
+      {
+        "label": "NP",
+        "text": "un ataque suicida"
+      },
+      {
+        "label": "NP",
+        "text": "Un"
+      },
+      {
+        "label": "VP",
+        "text": "portavoz policial explicó a medios locales"
+      },
+      {
+        "label": "NP",
+        "text": "policial explicó"
+      },
+      {
+        "label": "NP",
+        "text": "a medios locales"
+      },
+      {
+        "label": "VP",
+        "text": "que el autor del ataque"
+      },
+      {
+        "label": "NP",
+        "text": "el autor del ataque"
+      },
+      {
+        "label": "NP",
+        "text": "quitó"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP La/NNP Policía/NNP brasileña/NN confirmó/NN el/NN)\n  (VP miércoles/VBZ (NP que/JJ las/NNS explosiones/NNS))\n  (VP registradas/VBP)\n  en/IN\n  la/FW\n  sede/FW\n  del/FW\n  (NP Tribunal/NNP Supremo/NNP y/NNP cerca/NN)\n  de/IN\n  la/FW\n  (NP Cámara/NNP)\n  de/FW\n  los/FW\n  (NP Diputados/NNP fueron/NN causadas/NN por/NN)\n  (NP un/JJ ataque/NN suicida/NN)\n  ./.)",
+      "(S\n  (NP Un/NNP)\n  (VP\n    portavoz/VBZ\n    (NP policial/JJ explicó/NN)\n    (NP a/DT medios/JJ locales/NNS))\n  (VP que/VBP (NP el/JJ autor/NN del/NN ataque/NN))\n  se/FW\n  (NP quitó/NN)\n  la/FW\n  vida/FW\n  (NP haciendo/NN accionar/NN)\n  (NP un/JJ aparato/NN explosivo/NN)\n  ,/,\n  aparentemente/FW\n  de/FW\n  fabricación/FW\n  (NP casera/NN)\n  ,/,\n  (VP junto/VBZ (NP a/DT una/JJ estatua/NN))\n  (VP frente/VBD (NP a/DT la/NN corte/NN suprema/NN))\n  ./.)",
+      "(S\n  (NP\n    “/JJ\n    El/NNP\n    ciudadano/NN\n    se/NN\n    aproximó/NN\n    al/NN\n    Supremo/NNP\n    Tribunal/NNP\n    Federal/NNP)\n  ,/,\n  (NP intentó/NN entrar/NN)\n  ,/,\n  (NP no/DT lo/NN)\n  (VP logró/VBZ y/RB (NP ocurrió/JJ la/NN))\n  explosión/FW\n  en/FW\n  la/FW\n  puerta/FW\n  ”/FW\n  ,/,\n  dijo/FW\n  en/FW\n  conferencia/FW\n  de/FW\n  prensa/FW\n  la/FW\n  gobernadora/FW\n  de/FW\n  (NP Brasilia/NNP)\n  ,/,\n  (NP Celina/NNP Leão/NNP)\n  ,/,\n  (NP quien/NN aseguró/NN que/NN por/NN)\n  (VP ahora/VBZ (NP no/DT es/NN) (NP posible/JJ determinar/NN la/NN))\n  identidad/FW\n  de/FW\n  la/FW\n  persona/FW\n  (NP porque/NN)\n  el/FW\n  (NP\n    cuerpo/NN\n    “/NNP\n    todavía/NN\n    tiene/NN\n    artefactos/NN\n    encima/NN\n    ”/NN)\n  ./.)",
+      "(S\n  (NP Después/NNP)\n  de/FW\n  esa/FW\n  (NP detonación/NN)\n  ,/,\n  se/FW\n  produjo/FW\n  (NP una/JJ segunda/NN explosión/NN)\n  (PP en/IN (NP un/JJ automóvil/JJ que/NN estaba/NN))\n  (NP aparcado/JJ cerca/NN)\n  de/IN\n  la/FW\n  (NP Cámara/NNP)\n  de/FW\n  los/FW\n  (NP Diputados/NNP)\n  ./.)",
+      "(S\n  (NP Según/NNP)\n  (VP las/VBZ (NP primeras/JJ investigaciones/NNS))\n  de/IN\n  la/FW\n  (NP Policía/NNP)\n  ,/,\n  (NP se/NN puede/NN afirmar/NN que/NN ambas/NN explosiones/NNS)\n  (VP están/VBP (NP relacionadas/NNS))\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "CIUDADES_CAPITALES",
+      "RECURSOS_NATURALES",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "PAISES",
+      "LOCALIZACIONES_ESPECIFICAS",
+      "CONFLICTOS_ARMADOS_OPERACIONES"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "policía brasileña confirmó el miércoles que las explosiones registradas en la sede del tribunal supremo y cerca de la cámara de los diputados fueron causadas por un ataque",
+        "position": [
+          3,
+          174
+        ],
+        "start": 3,
+        "end": 174
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "conferencia de prensa",
+        "position": [
+          524,
+          545
+        ],
+        "start": 524,
+        "end": 545
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "afirmó",
+        "position": [
+          1490,
+          1496
+        ],
+        "start": 1490,
+        "end": 1496
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "explicó",
+        "position": [
+          205,
+          212
+        ],
+        "start": 205,
+        "end": 212
+      },
+      {
+        "category": "RECURSOS_NATURALES",
+        "matched_text": "río",
+        "position": [
+          1663,
+          1666
+        ],
+        "start": 1663,
+        "end": 1666
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "brasil",
+        "position": [
+          1175,
+          1181
+        ],
+        "start": 1175,
+        "end": 1181
+      },
+      {
+        "category": "CIUDADES_CAPITALES",
+        "matched_text": "brasilia",
+        "position": [
+          564,
+          572
+        ],
+        "start": 564,
+        "end": 572
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "plaza de",
+        "position": [
+          1239,
+          1247
+        ],
+        "start": 1239,
+        "end": 1247
+      }
+    ],
+    "match_count": 8
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Lula",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Tribunal Supremo",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Celina Leão",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Jorge Messias",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Cámara de los Diputados",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Policía Federal",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "G20",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Xi Jinping",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "palacio de Planalto",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Legislativo",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Río de Janeiro",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Brasilia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Brasil",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Plaza de los Tres Poderes",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Policía",
+        "tipo": "Organizacion"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Policía",
+        "relacion": "CONFIRMAR",
+        "objeto": "Tribunal Supremo"
+      },
+      {
+        "sujeto": "Policía",
+        "relacion": "CONFIRMAR",
+        "objeto": "Cámara de los Diputados"
+      },
+      {
+        "sujeto": "Brasil",
+        "relacion": "ENCONTRAR",
+        "objeto": "Plaza de los Tres Poderes"
+      },
+      {
+        "sujeto": "Brasil",
+        "relacion": "ENCONTRAR",
+        "objeto": "Legislativo"
+      },
+      {
+        "sujeto": "Brasil",
+        "relacion": "ENCONTRAR",
+        "objeto": "palacio de Planalto"
+      },
+      {
+        "sujeto": "Policía Federal",
+        "relacion": "ASUMIR",
+        "objeto": "Brasil"
+      },
+      {
+        "sujeto": "Policía Federal",
+        "relacion": "ASUMIR",
+        "objeto": "Jorge Messias"
+      },
+      {
+        "sujeto": "Brasil",
+        "relacion": "ACOGER_ANTES_OCURRIR",
+        "objeto": "G20"
+      },
+      {
+        "sujeto": "Brasil",
+        "relacion": "ACOGER_ANTES_OCURRIR",
+        "objeto": "Río de Janeiro"
+      },
+      {
+        "sujeto": "G20",
+        "relacion": "ACOGER_ANTES_OCURRIR",
+        "objeto": "Río de Janeiro"
+      },
+      {
+        "sujeto": "Lula",
+        "relacion": "TENER",
+        "objeto": "Brasilia"
+      },
+      {
+        "sujeto": "Lula",
+        "relacion": "TENER",
+        "objeto": "Xi Jinping"
+      },
+      {
+        "sujeto": "Brasilia",
+        "relacion": "RECIBIR_TENER",
+        "objeto": "Xi Jinping"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.34,
+    "pos": 0.02,
+    "neu": 0.965,
+    "neg": 0.015,
+    "label": "positive"
+  }
+}

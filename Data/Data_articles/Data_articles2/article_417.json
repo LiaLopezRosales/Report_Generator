@@ -1,0 +1,784 @@
+{
+  "url": "https://www.telesurtv.net/onu-alerta-sobre-un-estado-de-no-retorno-por-creciente-violencia-en-haiti/",
+  "title": "ONU alerta sobre un estado de no retorno por creciente violencia en Haití - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "bandas criminales",
+    "María Isabel Salvador Crespo",
+    "Organización de Naciones Unidas (ONU)",
+    "Violencia"
+  ],
+  "text": "“Nos acercamos a un punto de no retorno. Mientras la violencia de las pandillas sigue extendiéndose a nuevas zonas del país, los haitianos viven en una vulnerabilidad cada vez mayor y son cada vez más escépticos sobre la capacidad del Estado para responder a sus necesidades”, alertó la representante especial de la ONU en Haití,  María Isabel Salvador Crespo durante el Consejo de Seguridad de la ONU.\nSalvador Crespo aseguró que “sin una ayuda internacional decisiva, concreta y oportuna, la situación de seguridad en Haití podría no cambiar“, luego de describir los ataques coordinados realizados por las pandillas con el fin de consolidar aún más su dominio en la capital Puerto Príncipe, y otras zonas.\nAsimismo, Salvador solicitó al Consejo de Seguridad que intervenga para “satisfacer las necesidades urgentes del país y de su población“. “Su rápida respuesta podría ser parte de la solución a un deterioro tan extremo”, cuestionó.\nRespecto a la desafortunada situación humanitaria, la diplomática de Ecuador manifestó su inquietud por la falta de recursos financieros, sumado a los recortes presupuestarios implementados por Estados Unidos en su asistencia internacional.\nPor otra parte, la ONU disminuyó su presencia en la capital, que está en un 85 por ciento bajo el control de las bandas, por motivos de seguridad.\n“Sin una financiación suficiente y previsible, incluso una presencia mínima de la ONU podría resultar insostenible”, cuando “el país más nos necesita”, afirmó.\nEl país caribeño ha padecido por un largo período la agresión de grupos delictivos, imputados de homicidios, violaciones, hurtos y secuestros, en un escenario de inestabilidad política.\nDesde la mitad de febrero, ha ocurrido una nueva escalada de la violencia en la nación. Las bandas han aumentado sus agresiones en diversos sectores que hasta ahora habían estado exentos de la violencia.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/onu-alerta-sobre-un-estado-de-no-retorno-por-creciente-violencia-en-haiti/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-04.json",
+    "message_index": 583,
+    "message_id": 92432,
+    "date": "2025-04-22T08:55:07+00:00",
+    "text": "teleSUR\nONU alerta sobre un estado de no retorno por  creciente violencia en Haití\nhttps://www.telesurtv.net/onu-alerta-sobre-un-estado-de-no-retorno-por-creciente-violencia-en-haiti/",
+    "photo_path": null,
+    "views": 1740,
+    "reactions": {
+      "💩": 22,
+      "😡": 6,
+      "🤔": 2
+    },
+    "total_reactions": 30
+  },
+  "preprocessing": {
+    "cleaned": "“nos acercamos a un punto de no retorno. mientras la violencia de las pandillas sigue extendiéndose a nuevas zonas del país, los haitianos viven en una vulnerabilidad cada vez mayor y son cada vez más escépticos sobre la capacidad del estado para responder a sus necesidades”, alertó la representante especial de la onu en haití, maría isabel salvador crespo durante el consejo de seguridad de la onu. salvador crespo aseguró que “sin una ayuda internacional decisiva, concreta y oportuna, la situación de seguridad en haití podría no cambiar“, luego de describir los ataques coordinados realizados por las pandillas con el fin de consolidar aún más su dominio en la capital puerto príncipe, y otras zonas. asimismo, salvador solicitó al consejo de seguridad que intervenga para “satisfacer las necesidades urgentes del país y de su población“. “su rápida respuesta podría ser parte de la solución a un deterioro tan extremo”, cuestionó. respecto a la desafortunada situación humanitaria, la diplomática de ecuador manifestó su inquietud por la falta de recursos financieros, sumado a los recortes presupuestarios implementados por estados unidos en su asistencia internacional. por otra parte, la onu disminuyó su presencia en la capital, que está en un 85 por ciento bajo el control de las bandas, por motivos de seguridad. “sin una financiación suficiente y previsible, incluso una presencia mínima de la onu podría resultar insostenible”, cuando “el país más nos necesita”, afirmó. el país caribeño ha padecido por un largo período la agresión de grupos delictivos, imputados de homicidios, violaciones, hurtos y secuestros, en un escenario de inestabilidad política. desde la mitad de febrero, ha ocurrido una nueva escalada de la violencia en la nación. las bandas han aumentado sus agresiones en diversos sectores que hasta ahora habían estado exentos de la violencia.",
+    "tokens": [
+      "“",
+      "acercamos",
+      "punto",
+      "retorno",
+      ".",
+      "mientras",
+      "violencia",
+      "pandillas",
+      "sigue",
+      "extendiéndose",
+      "nuevas",
+      "zonas",
+      "país",
+      ",",
+      "haitianos",
+      "viven",
+      "vulnerabilidad",
+      "cada",
+      "vez",
+      "mayor",
+      "cada",
+      "vez",
+      "escépticos",
+      "capacidad",
+      "responder",
+      "necesidades",
+      "”",
+      ",",
+      "alertó",
+      "representante",
+      "especial",
+      "onu",
+      "haití",
+      ",",
+      "maría",
+      "isabel",
+      "salvador",
+      "crespo",
+      "consejo",
+      "seguridad",
+      "onu",
+      ".",
+      "salvador",
+      "crespo",
+      "aseguró",
+      "“",
+      "ayuda",
+      "internacional",
+      "decisiva",
+      ",",
+      "concreta",
+      "oportuna",
+      ",",
+      "situación",
+      "seguridad",
+      "haití",
+      "podría",
+      "cambiar",
+      "“",
+      ",",
+      "luego",
+      "describir",
+      "ataques",
+      "coordinados",
+      "realizados",
+      "pandillas",
+      "fin",
+      "consolidar",
+      "aún",
+      "dominio",
+      "capital",
+      "puerto",
+      "príncipe",
+      ",",
+      "zonas",
+      ".",
+      "asimismo",
+      ",",
+      "salvador",
+      "solicitó",
+      "consejo",
+      "seguridad",
+      "intervenga",
+      "“",
+      "satisfacer",
+      "necesidades",
+      "urgentes",
+      "país",
+      "población",
+      "“",
+      ".",
+      "“",
+      "rápida",
+      "respuesta",
+      "podría",
+      "ser",
+      "parte",
+      "solución",
+      "deterioro",
+      "tan",
+      "extremo",
+      "”",
+      ",",
+      "cuestionó",
+      ".",
+      "respecto",
+      "desafortunada",
+      "situación",
+      "humanitaria",
+      ",",
+      "diplomática",
+      "ecuador",
+      "manifestó",
+      "inquietud",
+      "falta",
+      "recursos",
+      "financieros",
+      ",",
+      "sumado",
+      "recortes",
+      "presupuestarios",
+      "implementados",
+      "unidos",
+      "asistencia",
+      "internacional",
+      ".",
+      "parte",
+      ",",
+      "onu",
+      "disminuyó",
+      "presencia",
+      "capital",
+      ",",
+      "85",
+      "ciento",
+      "bajo",
+      "control",
+      "bandas",
+      ",",
+      "motivos",
+      "seguridad",
+      ".",
+      "“",
+      "financiación",
+      "suficiente",
+      "previsible",
+      ",",
+      "incluso",
+      "presencia",
+      "mínima",
+      "onu",
+      "podría",
+      "resultar",
+      "insostenible",
+      "”",
+      ",",
+      "“",
+      "país",
+      "necesita",
+      "”",
+      ",",
+      "afirmó",
+      ".",
+      "país",
+      "caribeño",
+      "padecido",
+      "largo",
+      "período",
+      "agresión",
+      "grupos",
+      "delictivos",
+      ",",
+      "imputados",
+      "homicidios",
+      ",",
+      "violaciones",
+      ",",
+      "hurtos",
+      "secuestros",
+      ",",
+      "escenario",
+      "inestabilidad",
+      "política",
+      ".",
+      "mitad",
+      "febrero",
+      ",",
+      "ocurrido",
+      "nueva",
+      "escalada",
+      "violencia",
+      "nación",
+      ".",
+      "bandas",
+      "aumentado",
+      "agresiones",
+      "diversos",
+      "sectores",
+      "ahora",
+      "exentos",
+      "violencia",
+      "."
+    ],
+    "token_count": 202,
+    "sentence_count": 11
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 36,
+      "VBP": 13,
+      "JJ": 32,
+      "NN": 95,
+      "IN": 14,
+      "DT": 2,
+      "FW": 66,
+      "NNS": 14,
+      "RB": 1,
+      "VBZ": 2,
+      "MD": 2,
+      "VB": 2,
+      "VBD": 2,
+      "CD": 1
+    },
+    "bigram_freq": {
+      "NNP-VBP": 1,
+      "VBP-JJ": 10,
+      "JJ-NN": 15,
+      "NN-IN": 12,
+      "IN-DT": 1,
+      "DT-NN": 1,
+      "NN-NNP": 7,
+      "NNP-NNP": 12,
+      "NNP-FW": 9,
+      "FW-FW": 38,
+      "FW-NNS": 5,
+      "NNS-VBP": 10,
+      "JJ-JJ": 7,
+      "NN-NN": 58,
+      "NN-JJ": 8,
+      "JJ-RB": 1,
+      "RB-VBP": 1,
+      "NNP-NN": 9,
+      "NN-NNS": 4,
+      "JJ-FW": 4,
+      "FW-NNP": 13,
+      "NN-FW": 4,
+      "NNP-VBZ": 1,
+      "VBZ-DT": 1,
+      "DT-JJ": 1,
+      "IN-FW": 8,
+      "IN-NN": 2,
+      "FW-NN": 8,
+      "NNP-MD": 2,
+      "MD-VB": 2,
+      "VB-NNP": 1,
+      "NNP-VBD": 2,
+      "VBD-JJ": 1,
+      "JJ-NNP": 2,
+      "NN-VBZ": 1,
+      "VBZ-NNS": 1,
+      "NNS-JJ": 1,
+      "FW-JJ": 1,
+      "VBD-NNS": 1,
+      "NNS-FW": 1,
+      "JJ-NNS": 2,
+      "IN-JJ": 3,
+      "VB-FW": 1,
+      "JJ-CD": 1,
+      "CD-NN": 1,
+      "VBP-FW": 1,
+      "NNS-NNS": 1,
+      "VBP-IN": 1,
+      "NN-VBP": 1,
+      "VBP-NN": 1,
+      "NNS-IN": 1
+    },
+    "trigram_freq": {
+      "NNP-VBP-JJ": 1,
+      "VBP-JJ-NN": 4,
+      "JJ-NN-IN": 4,
+      "NN-IN-DT": 1,
+      "IN-DT-NN": 1,
+      "DT-NN-NNP": 1,
+      "NN-NNP-NNP": 4,
+      "NNP-NNP-FW": 2,
+      "NNP-FW-FW": 3,
+      "FW-FW-FW": 23,
+      "FW-FW-NNS": 4,
+      "FW-NNS-VBP": 4,
+      "NNS-VBP-JJ": 8,
+      "VBP-JJ-JJ": 3,
+      "JJ-JJ-NN": 4,
+      "JJ-NN-NN": 7,
+      "NN-NN-NN": 37,
+      "NN-NN-JJ": 7,
+      "NN-JJ-RB": 1,
+      "JJ-RB-VBP": 1,
+      "RB-VBP-JJ": 1,
+      "NN-NN-NNP": 3,
+      "NN-NNP-NN": 2,
+      "NNP-NN-NN": 9,
+      "NN-NN-NNS": 1,
+      "NN-NNS-VBP": 3,
+      "JJ-JJ-FW": 2,
+      "JJ-FW-FW": 3,
+      "FW-FW-NNP": 8,
+      "FW-NNP-FW": 5,
+      "NNP-FW-NNP": 3,
+      "FW-NNP-NNP": 2,
+      "NNP-NNP-NNP": 5,
+      "NNP-NNP-NN": 2,
+      "NN-NNP-FW": 1,
+      "NN-JJ-JJ": 3,
+      "JJ-JJ-JJ": 1,
+      "NN-NN-FW": 4,
+      "NN-FW-FW": 3,
+      "FW-NNP-VBZ": 1,
+      "NNP-VBZ-DT": 1,
+      "VBZ-DT-JJ": 1,
+      "DT-JJ-NN": 1,
+      "NN-IN-FW": 8,
+      "IN-FW-FW": 4,
+      "JJ-NN-NNS": 1,
+      "NN-IN-NN": 1,
+      "IN-NN-NN": 1,
+      "NN-NN-IN": 5,
+      "IN-FW-NN": 2,
+      "FW-NN-NNP": 1,
+      "NNP-NNP-MD": 1,
+      "NNP-MD-VB": 2,
+      "MD-VB-NNP": 1,
+      "VB-NNP-NNP": 1,
+      "NNP-NNP-VBD": 2,
+      "NNP-VBD-JJ": 1,
+      "VBD-JJ-NNP": 1,
+      "JJ-NNP-FW": 1,
+      "FW-NNP-NN": 5,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-NNS": 1,
+      "VBZ-NNS-JJ": 1,
+      "NNS-JJ-FW": 1,
+      "JJ-FW-NN": 1,
+      "FW-NN-IN": 3,
+      "FW-FW-JJ": 1,
+      "FW-JJ-NN": 1,
+      "NNP-VBD-NNS": 1,
+      "VBD-NNS-FW": 1,
+      "NNS-FW-FW": 1,
+      "NNP-FW-NN": 3,
+      "FW-NN-NN": 3,
+      "VBP-JJ-NNS": 2,
+      "JJ-NNS-VBP": 2,
+      "JJ-NN-NNP": 2,
+      "NN-IN-JJ": 2,
+      "IN-JJ-NNP": 1,
+      "JJ-NNP-MD": 1,
+      "MD-VB-FW": 1,
+      "VB-FW-NNP": 1,
+      "IN-JJ-CD": 1,
+      "JJ-CD-NN": 1,
+      "CD-NN-NN": 1,
+      "NN-FW-NN": 1,
+      "IN-FW-NNS": 1,
+      "NNS-VBP-FW": 1,
+      "VBP-FW-FW": 1,
+      "NN-JJ-NN": 4,
+      "JJ-NN-JJ": 1,
+      "IN-FW-NNP": 1,
+      "FW-NNS-NNS": 1,
+      "NNS-NNS-VBP": 1,
+      "NNS-VBP-IN": 1,
+      "VBP-IN-JJ": 1,
+      "IN-JJ-NN": 1,
+      "FW-FW-NN": 1,
+      "FW-NN-VBP": 1,
+      "NN-VBP-NN": 1,
+      "VBP-NN-NNS": 1,
+      "NN-NNS-IN": 1,
+      "NNS-IN-NN": 1,
+      "IN-NN-NNS": 1,
+      "VBP-JJ-FW": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 95,
+        "FW": 66,
+        "NNP": 36,
+        "JJ": 32,
+        "IN": 14
+      },
+      "top_bigrams": {
+        "NN-NN": 58,
+        "FW-FW": 38,
+        "JJ-NN": 15,
+        "FW-NNP": 13,
+        "NN-IN": 12
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 37,
+        "FW-FW-FW": 23,
+        "NNP-NN-NN": 9,
+        "NNS-VBP-JJ": 8,
+        "FW-FW-NNP": 8
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 11,
+    "chunk_counts": {
+      "NP": 71,
+      "VP": 19,
+      "PP": 5,
+      "ADJP": 7
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 3,
+        "weight": 0.0265
+      },
+      {
+        "rule": "NP -> ('ONU', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0177
+      },
+      {
+        "rule": "NP -> ('Haití', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0177
+      },
+      {
+        "rule": "S -> NP VP PP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0088
+      },
+      {
+        "rule": "NP -> ('“', 'JJ') ('Nos', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0088
+      },
+      {
+        "rule": "VP -> ('acercamos', 'VBZ') NP",
+        "frequency": 1,
+        "weight": 0.0088
+      },
+      {
+        "rule": "NP -> ('a', 'DT') ('un', 'JJ') ('punto', 'NN')",
+        "frequency": 1,
+        "weight": 0.0088
+      },
+      {
+        "rule": "NP -> ('no', 'DT') ('retorno', 'NN')",
+        "frequency": 1,
+        "weight": 0.0088
+      },
+      {
+        "rule": "S -> NP ('violencia', 'FW') ('de', 'FW') ('las', 'FW') NP VP VP (',', ',') NP ('en', 'FW') NP NP VP (',', ',') NP VP ('de', 'FW') ('la', 'FW') NP ('en', 'FW') NP (',', ',') NP ('de', 'FW') NP ('de', 'FW') ('la', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0088
+      },
+      {
+        "rule": "NP -> ('Mientras', 'NNP') ('la', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0088
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "“ Nos"
+      },
+      {
+        "label": "VP",
+        "text": "acercamos a un punto"
+      },
+      {
+        "label": "NP",
+        "text": "a un punto"
+      },
+      {
+        "label": "PP",
+        "text": "de no retorno"
+      },
+      {
+        "label": "NP",
+        "text": "no retorno"
+      },
+      {
+        "label": "NP",
+        "text": "Mientras la"
+      },
+      {
+        "label": "NP",
+        "text": "pandillas"
+      },
+      {
+        "label": "VP",
+        "text": "sigue"
+      },
+      {
+        "label": "VP",
+        "text": "extendiéndose a nuevas zonas del país"
+      },
+      {
+        "label": "NP",
+        "text": "a nuevas zonas del país"
+      },
+      {
+        "label": "NP",
+        "text": "los haitianos viven"
+      },
+      {
+        "label": "NP",
+        "text": "una vulnerabilidad cada vez mayor y son cada vez más escépticos sobre la capacidad del Estado para responder"
+      },
+      {
+        "label": "NP",
+        "text": "a sus"
+      },
+      {
+        "label": "VP",
+        "text": "necesidades ”"
+      },
+      {
+        "label": "NP",
+        "text": "”"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP “/JJ Nos/NNP)\n  (VP acercamos/VBZ (NP a/DT un/JJ punto/NN))\n  (PP de/IN (NP no/DT retorno/NN))\n  ./.)",
+      "(S\n  (NP Mientras/NNP la/NNP)\n  violencia/FW\n  de/FW\n  las/FW\n  (NP pandillas/NNS)\n  (VP sigue/VBP)\n  (VP extendiéndose/VB (NP a/DT nuevas/JJ zonas/NN del/NN país/NN))\n  ,/,\n  (NP los/JJ haitianos/JJ viven/NN)\n  en/FW\n  (NP\n    una/JJ\n    vulnerabilidad/NN\n    cada/NN\n    vez/NN\n    mayor/NN\n    y/NN\n    son/NN\n    cada/NN\n    vez/NN\n    más/NN\n    escépticos/NN\n    sobre/NN\n    la/NN\n    capacidad/NN\n    del/NN\n    Estado/NNP\n    para/NN\n    responder/NN)\n  (NP a/DT sus/NN)\n  (VP necesidades/VBZ (NP ”/NNP))\n  ,/,\n  (NP alertó/NN la/NN)\n  (VP representante/VBP especial/JJ)\n  de/FW\n  la/FW\n  (NP ONU/NNP)\n  en/FW\n  (NP Haití/NNP)\n  ,/,\n  (NP\n    María/NNP\n    Isabel/NNP\n    Salvador/NNP\n    Crespo/NNP\n    durante/NN\n    el/NN\n    Consejo/NNP)\n  de/FW\n  (NP Seguridad/NNP)\n  de/FW\n  la/FW\n  (NP ONU/NNP)\n  ./.)",
+      "(S\n  (NP Salvador/NNP Crespo/NNP aseguró/NN que/NN “/NNP sin/NN una/NN)\n  (PP ayuda/IN (NP internacional/JJ decisiva/NN))\n  ,/,\n  (NP concreta/NN y/NN oportuna/NN)\n  ,/,\n  la/FW\n  situación/FW\n  de/FW\n  seguridad/FW\n  en/FW\n  (NP Haití/NNP)\n  (VP podría/VBZ (NP no/DT cambiar/NN “/NN))\n  ,/,\n  luego/FW\n  de/FW\n  describir/FW\n  los/FW\n  (NP ataques/NNS)\n  (VP coordinados/VBP (NP realizados/JJ por/NN las/NNS))\n  (VP pandillas/VBP (NP con/JJ el/JJ fin/NN))\n  (PP de/IN (NP consolidar/NN aún/NN más/NN su/NN dominio/NN))\n  en/IN\n  la/FW\n  (NP capital/NN Puerto/NNP Príncipe/NNP)\n  ,/,\n  (NP y/NN otras/NNS)\n  (VP zonas/VBP)\n  ./.)",
+      "(S\n  (NP Asimismo/NNP)\n  ,/,\n  (NP Salvador/NNP)\n  (VP solicitó/VBD (NP al/JJ Consejo/NNP))\n  de/FW\n  (NP\n    Seguridad/NNP\n    que/NN\n    intervenga/NN\n    para/NN\n    “/NNP\n    satisfacer/NN\n    las/NNS)\n  necesidades/IN\n  (ADJP urgentes/JJ)\n  del/FW\n  (ADJP país/JJ)\n  y/FW\n  de/FW\n  su/FW\n  (NP población/NN “/NN)\n  ./.)",
+      "(S\n  (NP “/JJ Su/NNP rápida/NN respuesta/NN podría/NN ser/NN parte/NN)\n  de/IN\n  la/FW\n  solución/FW\n  (NP a/DT un/JJ deterioro/NN tan/NN extremo/NN ”/NNP)\n  ,/,\n  (NP cuestionó/NN)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "ORGANISMOS_INTERNACIONALES",
+      "APROBACION_RECHAZO",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "REGIONES_PROVINCIAS",
+      "PAISES",
+      "PROTESTAS_CONFLICTOS_SOCIALES",
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "INFRAESTRUCTURA_SERVICIOS"
+    ],
+    "matches": [
+      {
+        "category": "PROTESTAS_CONFLICTOS_SOCIALES",
+        "matched_text": "manifestó",
+        "position": [
+          1016,
+          1025
+        ],
+        "start": 1016,
+        "end": 1025
+      },
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "capital",
+        "position": [
+          668,
+          675
+        ],
+        "start": 668,
+        "end": 675
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "afirmó",
+        "position": [
+          1479,
+          1485
+        ],
+        "start": 1479,
+        "end": 1485
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "alertó",
+        "position": [
+          277,
+          283
+        ],
+        "start": 277,
+        "end": 283
+      },
+      {
+        "category": "ORGANISMOS_INTERNACIONALES",
+        "matched_text": "onu",
+        "position": [
+          316,
+          319
+        ],
+        "start": 316,
+        "end": 319
+      },
+      {
+        "category": "APROBACION_RECHAZO",
+        "matched_text": "cuestionó",
+        "position": [
+          928,
+          937
+        ],
+        "start": 928,
+        "end": 937
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "puerto",
+        "position": [
+          676,
+          682
+        ],
+        "start": 676,
+        "end": 682
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "ecuador",
+        "position": [
+          1008,
+          1015
+        ],
+        "start": 1008,
+        "end": 1015
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "estados unidos",
+        "position": [
+          1133,
+          1147
+        ],
+        "start": 1133,
+        "end": 1147
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "estado para",
+        "position": [
+          235,
+          246
+        ],
+        "start": 235,
+        "end": 246
+      }
+    ],
+    "match_count": 10
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "María Isabel Salvador Crespo",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Consejo de Seguridad",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Ecuador",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Haití",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Salvador Crespo",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Estados Unidos",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Consejo de Seguridad de la ONU",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "ONU",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Puerto Príncipe",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Estado",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Salvador",
+        "tipo": "Persona"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Estado",
+        "relacion": "VIVIR_ALERTAR",
+        "objeto": "ONU"
+      },
+      {
+        "sujeto": "Estado",
+        "relacion": "VIVIR_ALERTAR",
+        "objeto": "Haití"
+      },
+      {
+        "sujeto": "Estado",
+        "relacion": "VIVIR_ALERTAR",
+        "objeto": "María Isabel Salvador Crespo"
+      },
+      {
+        "sujeto": "Estado",
+        "relacion": "VIVIR_ALERTAR",
+        "objeto": "Consejo de Seguridad de la ONU"
+      },
+      {
+        "sujeto": "Salvador Crespo",
+        "relacion": "ASEGURAR",
+        "objeto": "Haití"
+      },
+      {
+        "sujeto": "Salvador Crespo",
+        "relacion": "ASEGURAR",
+        "objeto": "Puerto Príncipe"
+      },
+      {
+        "sujeto": "Haití",
+        "relacion": "CAMBIAR_ASEGURAR",
+        "objeto": "Puerto Príncipe"
+      },
+      {
+        "sujeto": "Salvador",
+        "relacion": "SOLICITAR",
+        "objeto": "Consejo de Seguridad"
+      },
+      {
+        "sujeto": "Ecuador",
+        "relacion": "MANIFESTAR",
+        "objeto": "Estados Unidos"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.1027,
+    "pos": 0.017,
+    "neu": 0.968,
+    "neg": 0.015,
+    "label": "positive"
+  }
+}

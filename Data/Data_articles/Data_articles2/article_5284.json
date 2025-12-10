@@ -1,0 +1,940 @@
+{
+  "url": "https://www.telesurtv.net/cinco-funcionarios-son-secuestrados-en-el-noreste-de-kenia/",
+  "title": "Cinco funcionarios son secuestrados en el noreste de Kenia - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Kenia",
+    "secuestro"
+  ],
+  "text": "Las autoridades kenianas informaron que cinco oficiales del gobierno fueron secuestrados este lunes por supuestos integrantes del grupo somalí Al Shabab en el noreste de Kenia, en el condado de Mandera.\n“Hacia las 8.30 de la mañana (5.30 GMT), presuntos militantes de Al Shabab secuestraron un vehículo que transportaba a funcionarios hacia la localidad de Elwak, en el área de Eres-Suki”, declaró a medios locales el comandante de Policía del subcondado de Mandera Sur, Julius Njeru.\n“Cinco responsables están desaparecidos, además del vehículo”, añadió Njeru, al explicar que diversas fuerzas de seguridad, entre ellas el Ejército keniano, han sido enviadas al lugar para rastrear a los atacantes.\nDe acuerdo con medios kenianos, el secuestro tuvo lugar un día antes de que el presidente del país, William Ruto, comenzara su gira por la región.\nEl suceso volvió a centrar la atención en las zonas fronterizas de Kenia con Somalia, que abarcan también los condados de Lamu, Wajir y Garissa. En años recientes, estas regiones han padecido ataques yihadistas que han provocado la muerte de integrantes de las fuerzas de seguridad y personas civiles.\nPor ejemplo, en junio pasado, cuatro trabajadores que estaban remodelando un centro de salud perdieron la vida en un ataque realizado en Garissa por supuestos integrantes de Al Shabab.\nEn julio de 2022, el Gobierno de Kenia decidió posponer la apertura gradual de la frontera con el país vecino, que se anunció en mayo de 2023, después de haber estado cerrada durante doce años, desde octubre de 2011.\nAsí, después de varios secuestros atribuidos a Al Shabab en su territorio, el Ejército de Kenia se unió a las tropas de la Unión Africana (UA) que luchan contra los terroristas en colaboración con el Ejército somalí.\nFrecuentemente, Al Shabab realiza ataques en la capital somalí, Mogadiscio, y otras zonas de Somalia con el objetivo de derrocar al Gobierno central -apoyado por la comunidad global- e instaurar un Estado de tendencia wahabí (ultraconservador).",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/cinco-funcionarios-son-secuestrados-en-el-noreste-de-kenia/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-02.json",
+    "message_index": 1664,
+    "message_id": 86183,
+    "date": "2025-02-04T08:55:07+00:00",
+    "text": "teleSUR\nCinco funcionarios son secuestrados en el noreste de Kenia\nhttps://www.telesurtv.net/cinco-funcionarios-son-secuestrados-en-el-noreste-de-kenia/",
+    "photo_path": null,
+    "views": 2257,
+    "reactions": {
+      "😱": 21,
+      "👍": 11,
+      "😁": 2,
+      "🤔": 2,
+      "💩": 2
+    },
+    "total_reactions": 38
+  },
+  "preprocessing": {
+    "cleaned": "las autoridades kenianas informaron que cinco oficiales del gobierno fueron secuestrados este lunes por supuestos integrantes del grupo somalí al shabab en el noreste de kenia, en el condado de mandera. “hacia las 8.30 de la mañana (5.30 gmt), presuntos militantes de al shabab secuestraron un vehículo que transportaba a funcionarios hacia la localidad de elwak, en el área de eres-suki”, declaró a medios locales el comandante de policía del subcondado de mandera sur, julius njeru. “cinco responsables están desaparecidos, además del vehículo”, añadió njeru, al explicar que diversas fuerzas de seguridad, entre ellas el ejército keniano, han sido enviadas al lugar para rastrear a los atacantes. de acuerdo con medios kenianos, el secuestro tuvo lugar un día antes de que el presidente del país, william ruto, comenzara su gira por la región. el suceso volvió a centrar la atención en las zonas fronterizas de kenia con somalia, que abarcan también los condados de lamu, wajir y garissa. en años recientes, estas regiones han padecido ataques yihadistas que han provocado la muerte de integrantes de las fuerzas de seguridad y personas civiles. por ejemplo, en junio pasado, cuatro trabajadores que estaban remodelando un centro de salud perdieron la vida en un ataque realizado en garissa por supuestos integrantes de al shabab. en julio de 2022, el gobierno de kenia decidió posponer la apertura gradual de la frontera con el país vecino, que se anunció en mayo de 2023, después de haber estado cerrada durante doce años, desde octubre de 2011. así, después de varios secuestros atribuidos a al shabab en su territorio, el ejército de kenia se unió a las tropas de la unión africana (ua) que luchan contra los terroristas en colaboración con el ejército somalí. frecuentemente, al shabab realiza ataques en la capital somalí, mogadiscio, y otras zonas de somalia con el objetivo de derrocar al gobierno central -apoyado por la comunidad global- e instaurar un estado de tendencia wahabí (ultraconservador).",
+    "tokens": [
+      "autoridades",
+      "kenianas",
+      "informaron",
+      "cinco",
+      "oficiales",
+      "gobierno",
+      "secuestrados",
+      "lunes",
+      "supuestos",
+      "integrantes",
+      "grupo",
+      "somalí",
+      "shabab",
+      "noreste",
+      "kenia",
+      ",",
+      "condado",
+      "mandera",
+      ".",
+      "“",
+      "hacia",
+      "8.30",
+      "mañana",
+      "(",
+      "5.30",
+      "gmt",
+      ")",
+      ",",
+      "presuntos",
+      "militantes",
+      "shabab",
+      "secuestraron",
+      "vehículo",
+      "transportaba",
+      "funcionarios",
+      "hacia",
+      "localidad",
+      "elwak",
+      ",",
+      "área",
+      "eres-suki",
+      "”",
+      ",",
+      "declaró",
+      "medios",
+      "locales",
+      "comandante",
+      "policía",
+      "subcondado",
+      "mandera",
+      "sur",
+      ",",
+      "julius",
+      "njeru",
+      ".",
+      "“",
+      "cinco",
+      "responsables",
+      "desaparecidos",
+      ",",
+      "además",
+      "vehículo",
+      "”",
+      ",",
+      "añadió",
+      "njeru",
+      ",",
+      "explicar",
+      "diversas",
+      "fuerzas",
+      "seguridad",
+      ",",
+      "ejército",
+      "keniano",
+      ",",
+      "sido",
+      "enviadas",
+      "lugar",
+      "rastrear",
+      "atacantes",
+      ".",
+      "acuerdo",
+      "medios",
+      "kenianos",
+      ",",
+      "secuestro",
+      "lugar",
+      "día",
+      "presidente",
+      "país",
+      ",",
+      "william",
+      "ruto",
+      ",",
+      "comenzara",
+      "gira",
+      "región",
+      ".",
+      "suceso",
+      "volvió",
+      "centrar",
+      "atención",
+      "zonas",
+      "fronterizas",
+      "kenia",
+      "somalia",
+      ",",
+      "abarcan",
+      "condados",
+      "lamu",
+      ",",
+      "wajir",
+      "garissa",
+      ".",
+      "años",
+      "recientes",
+      ",",
+      "regiones",
+      "padecido",
+      "ataques",
+      "yihadistas",
+      "provocado",
+      "muerte",
+      "integrantes",
+      "fuerzas",
+      "seguridad",
+      "personas",
+      "civiles",
+      ".",
+      "ejemplo",
+      ",",
+      "junio",
+      "pasado",
+      ",",
+      "cuatro",
+      "trabajadores",
+      "remodelando",
+      "centro",
+      "salud",
+      "perdieron",
+      "vida",
+      "ataque",
+      "realizado",
+      "garissa",
+      "supuestos",
+      "integrantes",
+      "shabab",
+      ".",
+      "julio",
+      "2022",
+      ",",
+      "gobierno",
+      "kenia",
+      "decidió",
+      "posponer",
+      "apertura",
+      "gradual",
+      "frontera",
+      "país",
+      "vecino",
+      ",",
+      "anunció",
+      "mayo",
+      "2023",
+      ",",
+      "después",
+      "haber",
+      "cerrada",
+      "doce",
+      "años",
+      ",",
+      "octubre",
+      "2011.",
+      "así",
+      ",",
+      "después",
+      "varios",
+      "secuestros",
+      "atribuidos",
+      "shabab",
+      "territorio",
+      ",",
+      "ejército",
+      "kenia",
+      "unió",
+      "tropas",
+      "unión",
+      "africana",
+      "(",
+      "ua",
+      ")",
+      "luchan",
+      "terroristas",
+      "colaboración",
+      "ejército",
+      "somalí",
+      ".",
+      "frecuentemente",
+      ",",
+      "shabab",
+      "realiza",
+      "ataques",
+      "capital",
+      "somalí",
+      ",",
+      "mogadiscio",
+      ",",
+      "zonas",
+      "somalia",
+      "objetivo",
+      "derrocar",
+      "gobierno",
+      "central",
+      "-apoyado",
+      "comunidad",
+      "global-",
+      "instaurar",
+      "tendencia",
+      "wahabí",
+      "(",
+      "ultraconservador",
+      ")",
+      "."
+    ],
+    "token_count": 223,
+    "sentence_count": 10
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 53,
+      "VBZ": 9,
+      "FW": 74,
+      "NN": 103,
+      "NNS": 14,
+      "VBP": 13,
+      "JJ": 25,
+      "VBD": 2,
+      "CD": 5,
+      "IN": 15
+    },
+    "bigram_freq": {
+      "NNP-VBZ": 2,
+      "VBZ-FW": 3,
+      "FW-NN": 11,
+      "NN-NN": 58,
+      "NN-VBZ": 6,
+      "NN-NNS": 6,
+      "NNS-VBP": 9,
+      "VBP-JJ": 9,
+      "JJ-NNS": 5,
+      "JJ-NN": 14,
+      "NN-NNP": 8,
+      "NNP-NNP": 18,
+      "NNP-FW": 12,
+      "FW-FW": 45,
+      "FW-NNP": 11,
+      "NNP-VBD": 1,
+      "VBD-CD": 1,
+      "CD-IN": 1,
+      "IN-FW": 6,
+      "FW-CD": 2,
+      "CD-NNP": 2,
+      "NNP-NN": 17,
+      "VBZ-IN": 3,
+      "IN-NNP": 7,
+      "NN-JJ": 6,
+      "JJ-FW": 2,
+      "NNS-VBZ": 1,
+      "VBZ-JJ": 3,
+      "NN-IN": 10,
+      "FW-JJ": 3,
+      "NN-VBP": 3,
+      "VBP-NN": 2,
+      "NNS-NNP": 2,
+      "NN-FW": 4,
+      "FW-NNS": 2,
+      "NNS-NNS": 1,
+      "NNP-VBP": 1,
+      "VBP-FW": 1,
+      "JJ-JJ": 1,
+      "IN-CD": 2,
+      "CD-JJ": 1,
+      "JJ-NNP": 3,
+      "CD-NN": 1,
+      "VBP-NNP": 1,
+      "NNP-IN": 1,
+      "NNS-FW": 1,
+      "NNP-JJ": 1,
+      "NN-VBD": 1,
+      "VBD-JJ": 1
+    },
+    "trigram_freq": {
+      "NNP-VBZ-FW": 2,
+      "VBZ-FW-NN": 2,
+      "FW-NN-NN": 8,
+      "NN-NN-NN": 33,
+      "NN-NN-VBZ": 2,
+      "NN-VBZ-FW": 1,
+      "NN-NN-NNS": 1,
+      "NN-NNS-VBP": 5,
+      "NNS-VBP-JJ": 7,
+      "VBP-JJ-NNS": 2,
+      "JJ-NNS-VBP": 3,
+      "VBP-JJ-NN": 5,
+      "JJ-NN-NNP": 1,
+      "NN-NNP-NNP": 2,
+      "NNP-NNP-FW": 2,
+      "NNP-FW-FW": 6,
+      "FW-FW-FW": 27,
+      "FW-FW-NNP": 10,
+      "FW-NNP-FW": 2,
+      "FW-NNP-NNP": 3,
+      "NNP-NNP-VBD": 1,
+      "NNP-VBD-CD": 1,
+      "VBD-CD-IN": 1,
+      "CD-IN-FW": 1,
+      "IN-FW-FW": 5,
+      "FW-FW-CD": 2,
+      "FW-CD-NNP": 1,
+      "CD-NNP-NN": 1,
+      "NNP-NN-VBZ": 2,
+      "NN-VBZ-IN": 3,
+      "VBZ-IN-NNP": 2,
+      "IN-NNP-NNP": 4,
+      "NNP-NNP-NN": 6,
+      "NNP-NN-NN": 9,
+      "NN-NN-JJ": 3,
+      "NN-JJ-NNS": 1,
+      "VBP-JJ-FW": 2,
+      "JJ-FW-FW": 2,
+      "FW-NNP-NN": 5,
+      "NNP-NN-NNS": 2,
+      "NN-NNS-VBZ": 1,
+      "NNS-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 1,
+      "JJ-NN-IN": 2,
+      "NN-IN-NNP": 4,
+      "IN-NNP-FW": 3,
+      "NNP-FW-NN": 4,
+      "FW-NN-IN": 1,
+      "NNP-NNP-NNP": 8,
+      "NNP-NNP-VBZ": 1,
+      "VBZ-FW-JJ": 1,
+      "FW-JJ-NN": 2,
+      "JJ-NN-NN": 7,
+      "NN-NN-NNP": 5,
+      "NN-NNP-NN": 4,
+      "NN-NN-IN": 5,
+      "NN-IN-FW": 4,
+      "NN-NN-VBP": 3,
+      "NN-VBP-NN": 1,
+      "VBP-NN-NN": 1,
+      "NN-VBP-JJ": 2,
+      "JJ-NNS-NNP": 1,
+      "NNS-NNP-FW": 1,
+      "FW-NN-NNS": 1,
+      "NN-JJ-NN": 4,
+      "JJ-NN-VBZ": 1,
+      "VBZ-IN-FW": 1,
+      "NNP-NN-NNP": 2,
+      "NNP-NN-JJ": 1,
+      "NN-VBZ-JJ": 2,
+      "VBZ-JJ-NNS": 1,
+      "NNS-VBP-NN": 1,
+      "VBP-NN-NNS": 1,
+      "NN-NN-FW": 4,
+      "NN-FW-FW": 4,
+      "FW-FW-NNS": 2,
+      "FW-NNS-NNS": 1,
+      "NNS-NNS-NNP": 1,
+      "NNS-NNP-VBP": 1,
+      "NNP-VBP-FW": 1,
+      "VBP-FW-NN": 1,
+      "VBZ-JJ-JJ": 1,
+      "JJ-JJ-NN": 1,
+      "JJ-NN-JJ": 2,
+      "IN-FW-NN": 1,
+      "FW-FW-JJ": 1,
+      "FW-NN-VBZ": 1,
+      "NNP-NN-IN": 1,
+      "NN-IN-CD": 2,
+      "IN-CD-JJ": 1,
+      "CD-JJ-NNP": 1,
+      "JJ-NNP-FW": 2,
+      "NNP-FW-NNP": 1,
+      "FW-FW-NN": 3,
+      "FW-CD-NN": 1,
+      "CD-NN-IN": 1,
+      "IN-CD-NNP": 1,
+      "CD-NNP-FW": 1,
+      "FW-NNS-VBP": 1,
+      "NNS-VBP-NNP": 1,
+      "VBP-NNP-NNP": 1,
+      "NN-NNP-IN": 1,
+      "NNP-IN-NNP": 1,
+      "NNP-FW-JJ": 1,
+      "FW-JJ-NNS": 1,
+      "JJ-NNS-FW": 1,
+      "NNS-FW-FW": 1,
+      "JJ-NN-NNS": 1,
+      "NN-NNP-FW": 1,
+      "FW-NNP-JJ": 1,
+      "NNP-JJ-NNP": 1,
+      "JJ-NNP-NN": 1,
+      "NN-NN-VBD": 1,
+      "NN-VBD-JJ": 1,
+      "VBD-JJ-NN": 1,
+      "NN-JJ-NNP": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 103,
+        "FW": 74,
+        "NNP": 53,
+        "JJ": 25,
+        "IN": 15
+      },
+      "top_bigrams": {
+        "NN-NN": 58,
+        "FW-FW": 45,
+        "NNP-NNP": 18,
+        "NNP-NN": 17,
+        "JJ-NN": 14
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 33,
+        "FW-FW-FW": 27,
+        "FW-FW-NNP": 10,
+        "NNP-NN-NN": 9,
+        "FW-NN-NN": 8
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 10,
+    "chunk_counts": {
+      "NP": 86,
+      "VP": 23,
+      "ADJP": 4,
+      "PP": 4
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 3,
+        "weight": 0.0236
+      },
+      {
+        "rule": "NP -> ('Kenia', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0157
+      },
+      {
+        "rule": "NP -> ('Gobierno', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0157
+      },
+      {
+        "rule": "VP -> ('en', 'VBP') NP",
+        "frequency": 2,
+        "weight": 0.0157
+      },
+      {
+        "rule": "S -> NP VP ('kenianas', 'FW') NP VP ('del', 'FW') NP VP VP ('en', 'FW') ('el', 'FW') ('noreste', 'FW') ('de', 'FW') NP (',', ',') ('en', 'FW') ('el', 'FW') ('condado', 'FW') ('de', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0079
+      },
+      {
+        "rule": "NP -> ('Las', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0079
+      },
+      {
+        "rule": "VP -> ('autoridades', 'VBZ')",
+        "frequency": 1,
+        "weight": 0.0079
+      },
+      {
+        "rule": "NP -> ('informaron', 'NN') ('que', 'NN') ('cinco', 'NN')",
+        "frequency": 1,
+        "weight": 0.0079
+      },
+      {
+        "rule": "VP -> ('oficiales', 'VBZ')",
+        "frequency": 1,
+        "weight": 0.0079
+      },
+      {
+        "rule": "NP -> ('gobierno', 'NN') ('fueron', 'NN') ('secuestrados', 'NN') ('este', 'NN') ('lunes', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0079
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Las"
+      },
+      {
+        "label": "VP",
+        "text": "autoridades"
+      },
+      {
+        "label": "NP",
+        "text": "informaron que cinco"
+      },
+      {
+        "label": "VP",
+        "text": "oficiales"
+      },
+      {
+        "label": "NP",
+        "text": "gobierno fueron secuestrados este lunes"
+      },
+      {
+        "label": "VP",
+        "text": "por supuestos integrantes"
+      },
+      {
+        "label": "NP",
+        "text": "supuestos integrantes"
+      },
+      {
+        "label": "VP",
+        "text": "del grupo somalí Al Shabab"
+      },
+      {
+        "label": "NP",
+        "text": "grupo somalí Al Shabab"
+      },
+      {
+        "label": "NP",
+        "text": "Kenia"
+      },
+      {
+        "label": "NP",
+        "text": "Mandera"
+      },
+      {
+        "label": "NP",
+        "text": "“ Hacia"
+      },
+      {
+        "label": "VP",
+        "text": "las"
+      },
+      {
+        "label": "NP",
+        "text": "GMT"
+      },
+      {
+        "label": "ADJP",
+        "text": "presuntos"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Las/NNP)\n  (VP autoridades/VBZ)\n  kenianas/FW\n  (NP informaron/NN que/NN cinco/NN)\n  (VP oficiales/VBZ)\n  del/FW\n  (NP gobierno/NN fueron/NN secuestrados/NN este/NN lunes/NNS)\n  (VP por/VBP (NP supuestos/JJ integrantes/NNS))\n  (VP del/VBP (NP grupo/JJ somalí/NN Al/NNP Shabab/NNP))\n  en/FW\n  el/FW\n  noreste/FW\n  de/FW\n  (NP Kenia/NNP)\n  ,/,\n  en/FW\n  el/FW\n  condado/FW\n  de/FW\n  (NP Mandera/NNP)\n  ./.)",
+      "(S\n  (NP “/JJ Hacia/NNP)\n  (VP las/VBD)\n  8.30/CD\n  de/IN\n  la/FW\n  mañana/FW\n  (/(\n  5.30/CD\n  (NP GMT/NNP)\n  )/)\n  ,/,\n  (ADJP presuntos/JJ)\n  militantes/FW\n  de/FW\n  (NP Al/NNP Shabab/NNP secuestraron/NN un/NN vehículo/NN que/NN)\n  (VP transportaba/VBD (NP a/DT funcionarios/JJ hacia/NN la/NN))\n  localidad/FW\n  de/FW\n  (NP Elwak/NNP)\n  ,/,\n  en/FW\n  el/FW\n  área/FW\n  de/FW\n  (NP Eres-Suki/NNP ”/NNP)\n  ,/,\n  (VP declaró/VBZ (NP a/DT medios/JJ locales/NNS))\n  (VP el/VBP (NP comandante/NN))\n  de/FW\n  (NP Policía/NNP)\n  del/FW\n  (NP subcondado/NN)\n  (PP de/IN (NP Mandera/NNP Sur/NNP))\n  ,/,\n  (NP Julius/NNP Njeru/NNP)\n  ./.)",
+      "(S\n  (NP “/NN Cinco/NNP)\n  (VP responsables/VBZ)\n  están/FW\n  (NP desaparecidos/NN)\n  ,/,\n  (NP además/JJ del/NN vehículo/NN ”/NNP)\n  ,/,\n  (NP añadió/NN Njeru/NNP)\n  ,/,\n  (NP al/NN explicar/NN que/NN diversas/NN fuerzas/NN)\n  de/IN\n  seguridad/FW\n  ,/,\n  entre/FW\n  ellas/FW\n  el/FW\n  (NP Ejército/NNP keniano/NN)\n  ,/,\n  (NP han/NN sido/NN)\n  (VP enviadas/VBP (NP al/NN lugar/NN para/NN))\n  (VP rastrear/VBP (NP a/DT los/NN))\n  (VP atacantes/VBZ)\n  ./.)",
+      "(S\n  (NP De/NNP)\n  acuerdo/FW\n  (NP con/NN medios/NNS kenianos/NNS)\n  ,/,\n  el/FW\n  secuestro/FW\n  (NP tuvo/NN lugar/NN)\n  (NP un/JJ día/NN)\n  (VP antes/VBZ)\n  de/IN\n  que/FW\n  el/FW\n  presidente/FW\n  del/FW\n  (NP país/NN)\n  ,/,\n  (NP William/NNP Ruto/NNP)\n  ,/,\n  (NP comenzara/NN su/NN gira/NN por/NN la/NN región/NN)\n  ./.)",
+      "(S\n  (NP El/NNP suceso/NN volvió/NN)\n  (NP a/DT centrar/NN la/NN atención/NN)\n  en/IN\n  las/FW\n  zonas/FW\n  fronterizas/FW\n  de/FW\n  (NP Kenia/NNP con/NN Somalia/NNP)\n  ,/,\n  (NP que/JJ abarcan/JJ también/NN los/NN condados/NN)\n  (PP de/IN (NP Lamu/NNP))\n  ,/,\n  (NP Wajir/NNP y/NNP Garissa/NNP)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "GOBIERNOS_OFICIALES",
+      "TIEMPO_RELATIVO",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "REGIONES_PROVINCIAS",
+      "LOCALIZACIONES_ESPECIFICAS",
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "INFRAESTRUCTURA_SERVICIOS"
+    ],
+    "matches": [
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "trabajadores que estaban remodelando un centro de salud perdieron",
+        "position": [
+          1186,
+          1251
+        ],
+        "start": 1186,
+        "end": 1251
+      },
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "capital",
+        "position": [
+          1816,
+          1823
+        ],
+        "start": 1816,
+        "end": 1823
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "declaró",
+        "position": [
+          390,
+          397
+        ],
+        "start": 390,
+        "end": 397
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "anunció",
+        "position": [
+          1452,
+          1459
+        ],
+        "start": 1452,
+        "end": 1459
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "gobierno de kenia decidió",
+        "position": [
+          1355,
+          1380
+        ],
+        "start": 1355,
+        "end": 1380
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente del país",
+        "position": [
+          779,
+          798
+        ],
+        "start": 779,
+        "end": 798
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "centro de salud",
+        "position": [
+          1226,
+          1241
+        ],
+        "start": 1226,
+        "end": 1241
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "área de",
+        "position": [
+          370,
+          377
+        ],
+        "start": 370,
+        "end": 377
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "centro de",
+        "position": [
+          1226,
+          1235
+        ],
+        "start": 1226,
+        "end": 1235
+      },
+      {
+        "category": "TIEMPO_RELATIVO",
+        "matched_text": "mañana",
+        "position": [
+          225,
+          231
+        ],
+        "start": 225,
+        "end": 231
+      }
+    ],
+    "match_count": 10
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Elwak",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "condado de Mandera",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Mandera Sur",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Garissa",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Al Shabab",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Somalia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Unión Africana",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "William Ruto",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Ejército de Kenia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Eres-Suki",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Njeru",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Mogadiscio",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Gobierno de Kenia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Gobierno central",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Julius Njeru",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Estado",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Wajir",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Kenia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Lamu",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "UA",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Policía",
+        "tipo": "Organizacion"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Al Shabab",
+        "relacion": "SECUESTRAR_DECLARAR",
+        "objeto": "Elwak"
+      },
+      {
+        "sujeto": "Al Shabab",
+        "relacion": "SECUESTRAR_DECLARAR",
+        "objeto": "Eres-Suki"
+      },
+      {
+        "sujeto": "Al Shabab",
+        "relacion": "SECUESTRAR_DECLARAR",
+        "objeto": "Policía"
+      },
+      {
+        "sujeto": "Al Shabab",
+        "relacion": "SECUESTRAR_DECLARAR",
+        "objeto": "Mandera Sur"
+      },
+      {
+        "sujeto": "Al Shabab",
+        "relacion": "SECUESTRAR_DECLARAR",
+        "objeto": "Julius Njeru"
+      },
+      {
+        "sujeto": "Elwak",
+        "relacion": "TRANSPORTAR_SECUESTRAR_DECLARAR",
+        "objeto": "Policía"
+      },
+      {
+        "sujeto": "Elwak",
+        "relacion": "TRANSPORTAR_SECUESTRAR_DECLARAR",
+        "objeto": "Mandera Sur"
+      },
+      {
+        "sujeto": "Elwak",
+        "relacion": "TRANSPORTAR_SECUESTRAR_DECLARAR",
+        "objeto": "Julius Njeru"
+      },
+      {
+        "sujeto": "Eres-Suki",
+        "relacion": "TRANSPORTAR_SECUESTRAR_DECLARAR",
+        "objeto": "Policía"
+      },
+      {
+        "sujeto": "Eres-Suki",
+        "relacion": "TRANSPORTAR_SECUESTRAR_DECLARAR",
+        "objeto": "Mandera Sur"
+      },
+      {
+        "sujeto": "Eres-Suki",
+        "relacion": "TRANSPORTAR_SECUESTRAR_DECLARAR",
+        "objeto": "Julius Njeru"
+      },
+      {
+        "sujeto": "Gobierno de Kenia",
+        "relacion": "PERDER",
+        "objeto": "Garissa"
+      },
+      {
+        "sujeto": "Gobierno de Kenia",
+        "relacion": "PERDER",
+        "objeto": "Al Shabab"
+      },
+      {
+        "sujeto": "Ejército de Kenia",
+        "relacion": "DESPU_S_UNIR",
+        "objeto": "Al Shabab"
+      },
+      {
+        "sujeto": "Al Shabab",
+        "relacion": "DESPU_S_UNIR",
+        "objeto": "Unión Africana"
+      },
+      {
+        "sujeto": "Al Shabab",
+        "relacion": "DESPU_S_UNIR",
+        "objeto": "UA"
+      },
+      {
+        "sujeto": "Ejército de Kenia",
+        "relacion": "UNIR",
+        "objeto": "Unión Africana"
+      },
+      {
+        "sujeto": "Ejército de Kenia",
+        "relacion": "UNIR",
+        "objeto": "UA"
+      },
+      {
+        "sujeto": "Al Shabab",
+        "relacion": "REALIZAR",
+        "objeto": "Mogadiscio"
+      },
+      {
+        "sujeto": "Al Shabab",
+        "relacion": "REALIZAR",
+        "objeto": "Somalia"
+      },
+      {
+        "sujeto": "Al Shabab",
+        "relacion": "REALIZAR",
+        "objeto": "Gobierno central"
+      },
+      {
+        "sujeto": "Al Shabab",
+        "relacion": "REALIZAR",
+        "objeto": "Estado"
+      },
+      {
+        "sujeto": "Mogadiscio",
+        "relacion": "REALIZAR",
+        "objeto": "Gobierno central"
+      },
+      {
+        "sujeto": "Mogadiscio",
+        "relacion": "REALIZAR",
+        "objeto": "Estado"
+      },
+      {
+        "sujeto": "Somalia",
+        "relacion": "REALIZAR",
+        "objeto": "Gobierno central"
+      },
+      {
+        "sujeto": "Somalia",
+        "relacion": "REALIZAR",
+        "objeto": "Estado"
+      },
+      {
+        "sujeto": "Gobierno central",
+        "relacion": "DERROCAR_REALIZAR",
+        "objeto": "Estado"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.0,
+    "pos": 0.0,
+    "neu": 1.0,
+    "neg": 0.0,
+    "label": "neutral"
+  }
+}

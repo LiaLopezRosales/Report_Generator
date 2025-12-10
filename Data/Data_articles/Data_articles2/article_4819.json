@@ -1,0 +1,917 @@
+{
+  "url": "https://www.telesurtv.net/alemania-rechaza-injerencia-del-vicepresidente-estadounidense-en-sus-elecciones/",
+  "title": "Alemania rechaza injerencia del vicepresidente estadounidense en sus elecciones - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "AFD",
+    "canciller alemán",
+    "cordón sanitario",
+    "Elecciones generales",
+    "Olaf Scholz",
+    "partidos de ultraderecha"
+  ],
+  "text": "\nScholz rechazó el apoyo del segundo jefe norteamericano a la candidata de ultraderecha, Alice Weidel, líder del partido Alternativa para Alemania (AfD), y aseguró que su país no permitirá que actores externos intervengan en sus elecciones: “La dirección que tomará nuestra democracia la decidimos nosotros. ¡Nosotros y nadie más!”, enfatizó.\nEl funcionario alemán aseveró: “AfD es un partido que desde sus filas trivializa como ‘cagada de pájaro’ de la historia alemana el nacionalsocialismo y sus monstruosos crímenes —crímenes contra la humanidad—, como los cometidos en el campo de concentración nazi de Dachau”.\nA propósito, dijo que Vance había vitado precisamente dicho lugar en el noroeste de Múnich, en el cual murieron de hambre, enfermedades, torturas y asesinatos al menos 41.500 personas, y había afirmado que debía trabajarse para que eso no volviera ocurrir en la historia del mundo. De modo que le recordó a Vance que el compromsio con el “¡nunca más!” al fascismo no es compatible con apoyar a AfD.\nTambién rechazaron las declaraciones de Vance otros políticos como Friedrich Merz, jefe de la oposición conservadora y quien lidera las encuestas locales de cara a las elecciones generales; Robert Habeck, ministro de Economía alemán, y Annalena Baerbock, ministra de Exteriores.\nMerz declaró: “Respetamos los resultados de las elecciones presidenciales y de las elecciones al Congreso en EEUU y esperamos que EE.UU. respete nuestros resultados”, y afirmó que las relaciones entre ambos bloques están en un momento crítico.\nCabe destacar que Vance no es la primera figura del gobierno de Donald Trump que defiende el partido ultraderechista AfD y a su candidata. En múltiples ocasiones, el multimillonario Elon Musk —quien dirige el Departamento de Eficiencia Gubernamental (DOGE) creado por el mandatario estadounidense sin que mediara decisión popular alguna— ha expresado su total respaldo al partido de ultraderecha alemán y ha intentado provocar el voto hacia este.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/alemania-rechaza-injerencia-del-vicepresidente-estadounidense-en-sus-elecciones/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-02.json",
+    "message_index": 918,
+    "message_id": 86983,
+    "date": "2025-02-15T23:55:12+00:00",
+    "text": "teleSUR\nAlemania rechaza injerencia del vicepresidente estadounidense en sus elecciones\nhttps://www.telesurtv.net/alemania-rechaza-injerencia-del-vicepresidente-estadounidense-en-sus-elecciones/",
+    "photo_path": null,
+    "views": 2224,
+    "reactions": {
+      "🤣": 33,
+      "👍": 17,
+      "🥴": 5,
+      "❤": 1
+    },
+    "total_reactions": 56
+  },
+  "preprocessing": {
+    "cleaned": "scholz rechazó el apoyo del segundo jefe norteamericano a la candidata de ultraderecha, alice weidel, líder del partido alternativa para alemania (afd), y aseguró que su país no permitirá que actores externos intervengan en sus elecciones: “la dirección que tomará nuestra democracia la decidimos nosotros. ¡nosotros y nadie más!”, enfatizó. el funcionario alemán aseveró: “afd es un partido que desde sus filas trivializa como ‘cagada de pájaro’ de la historia alemana el nacionalsocialismo y sus monstruosos crímenes —crímenes contra la humanidad—, como los cometidos en el campo de concentración nazi de dachau”. a propósito, dijo que vance había vitado precisamente dicho lugar en el noroeste de múnich, en el cual murieron de hambre, enfermedades, torturas y asesinatos al menos 41.500 personas, y había afirmado que debía trabajarse para que eso no volviera ocurrir en la historia del mundo. de modo que le recordó a vance que el compromsio con el “¡nunca más!” al fascismo no es compatible con apoyar a afd. también rechazaron las declaraciones de vance otros políticos como friedrich merz, jefe de la oposición conservadora y quien lidera las encuestas locales de cara a las elecciones generales; robert habeck, ministro de economía alemán, y annalena baerbock, ministra de exteriores. merz declaró: “respetamos los resultados de las elecciones presidenciales y de las elecciones al congreso en eeuu y esperamos que ee.uu. respete nuestros resultados”, y afirmó que las relaciones entre ambos bloques están en un momento crítico. cabe destacar que vance no es la primera figura del gobierno de donald trump que defiende el partido ultraderechista afd y a su candidata. en múltiples ocasiones, el multimillonario elon musk —quien dirige el departamento de eficiencia gubernamental (doge) creado por el mandatario estadounidense sin que mediara decisión popular alguna— ha expresado su total respaldo al partido de ultraderecha alemán y ha intentado provocar el voto hacia este.",
+    "tokens": [
+      "scholz",
+      "rechazó",
+      "apoyo",
+      "segundo",
+      "jefe",
+      "norteamericano",
+      "candidata",
+      "ultraderecha",
+      ",",
+      "alice",
+      "weidel",
+      ",",
+      "líder",
+      "partido",
+      "alternativa",
+      "alemania",
+      "(",
+      "afd",
+      ")",
+      ",",
+      "aseguró",
+      "país",
+      "permitirá",
+      "actores",
+      "externos",
+      "intervengan",
+      "elecciones",
+      ":",
+      "“",
+      "dirección",
+      "tomará",
+      "democracia",
+      "decidimos",
+      ".",
+      "¡nosotros",
+      "nadie",
+      "!",
+      "”",
+      ",",
+      "enfatizó",
+      ".",
+      "funcionario",
+      "alemán",
+      "aseveró",
+      ":",
+      "“",
+      "afd",
+      "partido",
+      "filas",
+      "trivializa",
+      "‘",
+      "cagada",
+      "pájaro",
+      "’",
+      "historia",
+      "alemana",
+      "nacionalsocialismo",
+      "monstruosos",
+      "crímenes",
+      "—crímenes",
+      "humanidad—",
+      ",",
+      "cometidos",
+      "campo",
+      "concentración",
+      "nazi",
+      "dachau",
+      "”",
+      ".",
+      "propósito",
+      ",",
+      "dijo",
+      "vance",
+      "vitado",
+      "precisamente",
+      "dicho",
+      "lugar",
+      "noroeste",
+      "múnich",
+      ",",
+      "murieron",
+      "hambre",
+      ",",
+      "enfermedades",
+      ",",
+      "torturas",
+      "asesinatos",
+      "menos",
+      "41.500",
+      "personas",
+      ",",
+      "afirmado",
+      "debía",
+      "trabajarse",
+      "volviera",
+      "ocurrir",
+      "historia",
+      "mundo",
+      ".",
+      "modo",
+      "recordó",
+      "vance",
+      "compromsio",
+      "“",
+      "¡nunca",
+      "!",
+      "”",
+      "fascismo",
+      "compatible",
+      "apoyar",
+      "afd",
+      ".",
+      "rechazaron",
+      "declaraciones",
+      "vance",
+      "políticos",
+      "friedrich",
+      "merz",
+      ",",
+      "jefe",
+      "oposición",
+      "conservadora",
+      "lidera",
+      "encuestas",
+      "locales",
+      "cara",
+      "elecciones",
+      "generales",
+      ";",
+      "robert",
+      "habeck",
+      ",",
+      "ministro",
+      "economía",
+      "alemán",
+      ",",
+      "annalena",
+      "baerbock",
+      ",",
+      "ministra",
+      "exteriores",
+      ".",
+      "merz",
+      "declaró",
+      ":",
+      "“",
+      "respetamos",
+      "resultados",
+      "elecciones",
+      "presidenciales",
+      "elecciones",
+      "congreso",
+      "eeuu",
+      "esperamos",
+      "ee.uu.",
+      "respete",
+      "resultados",
+      "”",
+      ",",
+      "afirmó",
+      "relaciones",
+      "ambos",
+      "bloques",
+      "momento",
+      "crítico",
+      ".",
+      "cabe",
+      "destacar",
+      "vance",
+      "primera",
+      "figura",
+      "gobierno",
+      "donald",
+      "trump",
+      "defiende",
+      "partido",
+      "ultraderechista",
+      "afd",
+      "candidata",
+      ".",
+      "múltiples",
+      "ocasiones",
+      ",",
+      "multimillonario",
+      "elon",
+      "musk",
+      "—quien",
+      "dirige",
+      "departamento",
+      "eficiencia",
+      "gubernamental",
+      "(",
+      "doge",
+      ")",
+      "creado",
+      "mandatario",
+      "estadounidense",
+      "mediara",
+      "decisión",
+      "popular",
+      "alguna—",
+      "expresado",
+      "total",
+      "respaldo",
+      "partido",
+      "ultraderecha",
+      "alemán",
+      "intentado",
+      "provocar",
+      "voto",
+      "hacia",
+      "."
+    ],
+    "token_count": 212,
+    "sentence_count": 9
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 45,
+      "NN": 117,
+      "FW": 47,
+      "VBZ": 10,
+      "DT": 4,
+      "JJ": 21,
+      "NNS": 18,
+      "VBP": 11,
+      "IN": 10,
+      "$": 1,
+      "CD": 1,
+      "MD": 1,
+      "VB": 1,
+      "RB": 1
+    },
+    "bigram_freq": {
+      "NNP-NN": 19,
+      "NN-NN": 72,
+      "NN-FW": 3,
+      "FW-NN": 5,
+      "FW-FW": 26,
+      "FW-NNP": 9,
+      "NNP-NNP": 13,
+      "NN-NNP": 15,
+      "NN-VBZ": 6,
+      "VBZ-DT": 3,
+      "DT-NN": 4,
+      "VBZ-JJ": 3,
+      "JJ-JJ": 2,
+      "JJ-FW": 1,
+      "NN-NNS": 6,
+      "NNS-NNP": 2,
+      "NN-JJ": 6,
+      "JJ-NN": 14,
+      "FW-JJ": 2,
+      "JJ-NNS": 2,
+      "NNS-VBP": 10,
+      "VBP-JJ": 5,
+      "NNP-VBZ": 3,
+      "NN-IN": 8,
+      "IN-FW": 5,
+      "NNS-NNS": 3,
+      "IN-JJ": 3,
+      "IN-NNP": 2,
+      "NNP-FW": 8,
+      "FW-NNS": 5,
+      "VBP-NNS": 1,
+      "VBP-$": 1,
+      "$-CD": 1,
+      "CD-NN": 1,
+      "VBZ-IN": 1,
+      "NNS-FW": 2,
+      "NNP-MD": 1,
+      "MD-VB": 1,
+      "VB-NN": 1,
+      "VBP-NN": 1,
+      "JJ-VBZ": 1,
+      "VBZ-FW": 2,
+      "VBP-NNP": 2,
+      "VBP-IN": 1,
+      "NNP-DT": 1,
+      "JJ-NNP": 1,
+      "VBZ-NNS": 1,
+      "NNS-RB": 1,
+      "RB-VBP": 1
+    },
+    "trigram_freq": {
+      "NNP-NN-NN": 15,
+      "NN-NN-NN": 42,
+      "NN-NN-FW": 3,
+      "NN-FW-NN": 1,
+      "FW-NN-NN": 3,
+      "NN-FW-FW": 1,
+      "FW-FW-FW": 16,
+      "FW-FW-NNP": 4,
+      "FW-NNP-NNP": 4,
+      "NNP-NNP-NN": 8,
+      "NN-NN-NNP": 10,
+      "NN-NNP-NN": 7,
+      "NNP-NN-NNP": 2,
+      "NN-NNP-NNP": 3,
+      "NN-NN-VBZ": 4,
+      "NN-VBZ-DT": 3,
+      "VBZ-DT-NN": 3,
+      "DT-NN-NN": 1,
+      "NN-VBZ-JJ": 2,
+      "VBZ-JJ-JJ": 1,
+      "JJ-JJ-FW": 1,
+      "JJ-FW-NN": 1,
+      "FW-NN-NNS": 1,
+      "NN-NNS-NNP": 1,
+      "NNS-NNP-NN": 1,
+      "NN-NN-JJ": 5,
+      "NN-JJ-NN": 4,
+      "JJ-NN-NN": 9,
+      "NN-FW-JJ": 1,
+      "FW-JJ-NNS": 1,
+      "JJ-NNS-VBP": 2,
+      "NNS-VBP-JJ": 5,
+      "VBP-JJ-NN": 4,
+      "JJ-NN-NNP": 1,
+      "NN-NNP-VBZ": 3,
+      "NNP-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 2,
+      "NN-NN-NNS": 3,
+      "NN-NNS-VBP": 2,
+      "JJ-NN-IN": 3,
+      "NN-IN-FW": 4,
+      "IN-FW-FW": 4,
+      "FW-FW-NN": 1,
+      "NN-NNS-NNS": 2,
+      "NNS-NNS-VBP": 2,
+      "NN-NN-IN": 4,
+      "FW-NNP-NN": 1,
+      "NN-IN-JJ": 2,
+      "IN-JJ-NN": 2,
+      "NN-IN-NNP": 2,
+      "IN-NNP-FW": 1,
+      "NNP-FW-FW": 2,
+      "FW-FW-JJ": 1,
+      "FW-JJ-NN": 1,
+      "IN-FW-NNS": 1,
+      "FW-NNS-VBP": 3,
+      "NNS-VBP-NNS": 1,
+      "VBP-NNS-VBP": 1,
+      "NNS-VBP-$": 1,
+      "VBP-$-CD": 1,
+      "$-CD-NN": 1,
+      "CD-NN-NN": 1,
+      "DT-NN-VBZ": 2,
+      "NN-VBZ-IN": 1,
+      "VBZ-IN-FW": 1,
+      "FW-NNP-FW": 3,
+      "NNP-FW-NN": 2,
+      "DT-NN-JJ": 1,
+      "NN-NNS-FW": 1,
+      "NNS-FW-NNP": 1,
+      "FW-NNP-MD": 1,
+      "NNP-MD-VB": 1,
+      "MD-VB-NN": 1,
+      "VB-NN-NNP": 1,
+      "NNP-NN-IN": 1,
+      "FW-FW-NNS": 4,
+      "NNS-VBP-NN": 1,
+      "VBP-NN-NN": 1,
+      "NN-JJ-VBZ": 1,
+      "JJ-VBZ-FW": 1,
+      "VBZ-FW-FW": 2,
+      "FW-NNS-NNS": 1,
+      "NNS-NNS-NNP": 1,
+      "NNS-NNP-NNP": 1,
+      "NNP-NNP-FW": 2,
+      "NNP-FW-NNP": 4,
+      "NNP-NNP-NNP": 3,
+      "NNP-VBZ-FW": 1,
+      "FW-NNS-FW": 1,
+      "NNS-FW-FW": 1,
+      "NNS-VBP-NNP": 1,
+      "VBP-NNP-FW": 1,
+      "FW-NN-NNP": 1,
+      "NNP-NN-NNS": 1,
+      "JJ-NN-NNS": 1,
+      "VBP-JJ-NNS": 1,
+      "NNS-VBP-IN": 1,
+      "VBP-IN-JJ": 1,
+      "NN-NNP-DT": 1,
+      "NNP-DT-NN": 1,
+      "IN-NNP-NNP": 1,
+      "NN-JJ-NNP": 1,
+      "JJ-NNP-NN": 1,
+      "NNP-VBZ-NNS": 1,
+      "VBZ-NNS-RB": 1,
+      "NNS-RB-VBP": 1,
+      "RB-VBP-NNP": 1,
+      "VBP-NNP-NNP": 1,
+      "NN-NNP-FW": 1,
+      "IN-JJ-JJ": 1,
+      "JJ-JJ-NN": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 117,
+        "FW": 47,
+        "NNP": 45,
+        "JJ": 21,
+        "NNS": 18
+      },
+      "top_bigrams": {
+        "NN-NN": 72,
+        "FW-FW": 26,
+        "NNP-NN": 19,
+        "NN-NNP": 15,
+        "JJ-NN": 14
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 42,
+        "FW-FW-FW": 16,
+        "NNP-NN-NN": 15,
+        "NN-NN-NNP": 10,
+        "JJ-NN-NN": 9
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 9,
+    "chunk_counts": {
+      "NP": 80,
+      "PP": 7,
+      "VP": 22
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 4,
+        "weight": 0.0339
+      },
+      {
+        "rule": "VP -> ('y', 'VBP') NP",
+        "frequency": 2,
+        "weight": 0.0169
+      },
+      {
+        "rule": "NP -> ('”', 'NN')",
+        "frequency": 2,
+        "weight": 0.0169
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0169
+      },
+      {
+        "rule": "NP -> ('no', 'DT') ('es', 'NN')",
+        "frequency": 2,
+        "weight": 0.0169
+      },
+      {
+        "rule": "S -> NP ('del', 'FW') NP PP ('de', 'IN') ('ultraderecha', 'FW') (',', ',') NP (',', ',') NP ('(', '(') NP (')', ')') (',', ',') NP VP VP ('en', 'FW') NP (':', ':') NP NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0085
+      },
+      {
+        "rule": "NP -> ('Scholz', 'NNP') ('rechazó', 'NN') ('el', 'NN') ('apoyo', 'NN')",
+        "frequency": 1,
+        "weight": 0.0085
+      },
+      {
+        "rule": "NP -> ('segundo', 'NN') ('jefe', 'NN')",
+        "frequency": 1,
+        "weight": 0.0085
+      },
+      {
+        "rule": "PP -> ('norteamericano', 'IN') NP",
+        "frequency": 1,
+        "weight": 0.0085
+      },
+      {
+        "rule": "NP -> ('a', 'DT') ('la', 'NN') ('candidata', 'NN')",
+        "frequency": 1,
+        "weight": 0.0085
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Scholz rechazó el apoyo"
+      },
+      {
+        "label": "NP",
+        "text": "segundo jefe"
+      },
+      {
+        "label": "PP",
+        "text": "norteamericano a la candidata"
+      },
+      {
+        "label": "NP",
+        "text": "a la candidata"
+      },
+      {
+        "label": "NP",
+        "text": "Alice Weidel"
+      },
+      {
+        "label": "NP",
+        "text": "líder del partido Alternativa para Alemania"
+      },
+      {
+        "label": "NP",
+        "text": "AfD"
+      },
+      {
+        "label": "NP",
+        "text": "y aseguró que su"
+      },
+      {
+        "label": "VP",
+        "text": "país no permitirá que"
+      },
+      {
+        "label": "NP",
+        "text": "no permitirá que"
+      },
+      {
+        "label": "VP",
+        "text": "actores externos intervengan"
+      },
+      {
+        "label": "NP",
+        "text": "sus elecciones"
+      },
+      {
+        "label": "NP",
+        "text": "“ La dirección que tomará"
+      },
+      {
+        "label": "NP",
+        "text": "nuestra democracia la decidimos nosotros"
+      },
+      {
+        "label": "NP",
+        "text": "¡Nosotros"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Scholz/NNP rechazó/NN el/NN apoyo/NN)\n  del/FW\n  (NP segundo/NN jefe/NN)\n  (PP norteamericano/IN (NP a/DT la/NN candidata/NN))\n  de/IN\n  ultraderecha/FW\n  ,/,\n  (NP Alice/NNP Weidel/NNP)\n  ,/,\n  (NP\n    líder/JJR\n    del/NN\n    partido/NN\n    Alternativa/NNP\n    para/NN\n    Alemania/NNP)\n  (/(\n  (NP AfD/NNP)\n  )/)\n  ,/,\n  (NP y/JJ aseguró/NN que/NN su/NN)\n  (VP país/VBZ (NP no/DT permitirá/NN que/NN))\n  (VP actores/VBZ externos/JJ intervengan/JJ)\n  en/FW\n  (NP sus/NN elecciones/NNS)\n  :/:\n  (NP “/NN La/NNP dirección/NN que/NN tomará/NN)\n  (NP nuestra/JJ democracia/NN la/NN decidimos/NN nosotros/NNS)\n  ./.)",
+      "(S\n  (NP ¡Nosotros/NNS)\n  (VP y/VBP (NP nadie/JJ más/NN))\n  !/.\n  (NP ”/NN)\n  ,/,\n  (NP enfatizó/NN)\n  ./.)",
+      "(S\n  (NP El/NNP funcionario/NN alemán/NN aseveró/NN)\n  :/:\n  (NP “/JJ AfD/NNP es/NN)\n  (NP un/JJ partido/NN que/NN desde/NN sus/NN filas/NNS)\n  (VP trivializa/VBP (NP como/NN ‘/NNP cagada/NN))\n  de/FW\n  pájaro/FW\n  ’/FW\n  de/FW\n  la/FW\n  historia/FW\n  alemana/FW\n  el/FW\n  nacionalsocialismo/FW\n  y/FW\n  (NP sus/NN monstruosos/NN crímenes/NNS —crímenes/NNS)\n  (VP contra/VBP (NP la/JJ humanidad—/NN))\n  ,/,\n  (NP como/NN los/NN cometidos/NN)\n  en/IN\n  el/FW\n  campo/FW\n  de/FW\n  concentración/FW\n  nazi/FW\n  de/FW\n  (NP Dachau/NNP ”/NNP)\n  ./.)",
+      "(S\n  (NP A/DT propósito/NN)\n  ,/,\n  (NP\n    dijo/NN\n    que/NN\n    Vance/NNP\n    había/NN\n    vitado/NN\n    precisamente/NN\n    dicho/NN\n    lugar/NN)\n  (PP en/IN (NP el/JJ noroeste/NN))\n  (PP de/IN (NP Múnich/NNP))\n  ,/,\n  en/FW\n  el/FW\n  (NP cual/JJ murieron/NN)\n  (PP de/IN (NP hambre/NN))\n  ,/,\n  (NP enfermedades/NNS)\n  ,/,\n  (NP torturas/NNS)\n  (VP y/VBP (NP asesinatos/NNS))\n  (VP al/VBP)\n  menos/$\n  41.500/CD\n  (NP personas/NN)\n  ,/,\n  y/CC\n  (NP\n    había/NN\n    afirmado/NN\n    que/NN\n    debía/NN\n    trabajarse/NN\n    para/NN\n    que/NN)\n  (VP eso/VBZ (NP no/DT volviera/NN))\n  (VP ocurrir/VBZ)\n  en/IN\n  la/FW\n  historia/FW\n  del/FW\n  (NP mundo/NN)\n  ./.)",
+      "(S\n  (NP De/NNP)\n  modo/FW\n  (NP que/NN le/NN)\n  (VP\n    recordó/VBZ\n    (NP\n      a/DT\n      Vance/NNP\n      que/NN\n      el/NN\n      compromsio/NN\n      con/NN\n      el/NN\n      “/NNP\n      ¡nunca/NNP\n      más/NN))\n  !/.\n  (NP ”/JJ al/JJ fascismo/NN)\n  (NP no/DT es/NN)\n  (NP compatible/JJ con/NN)\n  (VP apoyar/VBZ (NP a/DT AfD/NNP))\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "GOBIERNOS_OFICIALES",
+      "APROBACION_RECHAZO",
+      "CANTIDADES_NUMERICAS",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "REGIONES_PROVINCIAS",
+      "INSTITUCIONES_EDUCATIVAS",
+      "PAISES",
+      "RELACIONES_INTERNACIONALES"
+    ],
+    "matches": [
+      {
+        "category": "RELACIONES_INTERNACIONALES",
+        "matched_text": "apoyo del segundo jefe norteamericano a la candidata de ultraderecha, alice weidel, líder del partido alternativa para alemania (afd), y aseguró que su país",
+        "position": [
+          19,
+          175
+        ],
+        "start": 19,
+        "end": 175
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "declaró",
+        "position": [
+          1300,
+          1307
+        ],
+        "start": 1300,
+        "end": 1307
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "gobierno de donald trump",
+        "position": [
+          1591,
+          1615
+        ],
+        "start": 1591,
+        "end": 1615
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "ministro de economía alemán",
+        "position": [
+          1221,
+          1248
+        ],
+        "start": 1221,
+        "end": 1248
+      },
+      {
+        "category": "INSTITUCIONES_EDUCATIVAS",
+        "matched_text": "departamento de eficiencia",
+        "position": [
+          1748,
+          1774
+        ],
+        "start": 1748,
+        "end": 1774
+      },
+      {
+        "category": "APROBACION_RECHAZO",
+        "matched_text": "rechazó",
+        "position": [
+          8,
+          15
+        ],
+        "start": 8,
+        "end": 15
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "alemania",
+        "position": [
+          138,
+          146
+        ],
+        "start": 138,
+        "end": 146
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "departamento de",
+        "position": [
+          1748,
+          1763
+        ],
+        "start": 1748,
+        "end": 1763
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "500 personas",
+        "position": [
+          788,
+          800
+        ],
+        "start": 788,
+        "end": 800
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "41.500 personas",
+        "position": [
+          785,
+          800
+        ],
+        "start": 785,
+        "end": 800
+      }
+    ],
+    "match_count": 10
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Exteriores",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Múnich",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "EE.UU.",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Elon Musk",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "partido Alternativa para",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Dachau",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Robert Habeck",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Departamento de Eficiencia Gubernamental",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Alice Weidel",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "EEUU",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Vance",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Annalena Baerbock",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Merz",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Congreso",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "AfD",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Alemania",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Economía alemán",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Scholz",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Donald Trump",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Friedrich Merz",
+        "tipo": "Persona"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Scholz",
+        "relacion": "RECHAZAR",
+        "objeto": "Alice Weidel"
+      },
+      {
+        "sujeto": "Scholz",
+        "relacion": "RECHAZAR",
+        "objeto": "partido Alternativa para"
+      },
+      {
+        "sujeto": "Scholz",
+        "relacion": "RECHAZAR",
+        "objeto": "Alemania"
+      },
+      {
+        "sujeto": "Scholz",
+        "relacion": "RECHAZAR",
+        "objeto": "AfD"
+      },
+      {
+        "sujeto": "partido Alternativa para",
+        "relacion": "ES",
+        "objeto": "AfD"
+      },
+      {
+        "sujeto": "Vance",
+        "relacion": "VETAR_DECIR",
+        "objeto": "Múnich"
+      },
+      {
+        "sujeto": "Vance",
+        "relacion": "RECORDAR_RECHAZAR",
+        "objeto": "Friedrich Merz"
+      },
+      {
+        "sujeto": "Vance",
+        "relacion": "RECORDAR_RECHAZAR",
+        "objeto": "Robert Habeck"
+      },
+      {
+        "sujeto": "Vance",
+        "relacion": "RECORDAR_RECHAZAR",
+        "objeto": "Economía alemán"
+      },
+      {
+        "sujeto": "Vance",
+        "relacion": "RECORDAR_RECHAZAR",
+        "objeto": "Annalena Baerbock"
+      },
+      {
+        "sujeto": "Vance",
+        "relacion": "RECORDAR_RECHAZAR",
+        "objeto": "Exteriores"
+      },
+      {
+        "sujeto": "Vance",
+        "relacion": "RECHAZAR",
+        "objeto": "Friedrich Merz"
+      },
+      {
+        "sujeto": "Vance",
+        "relacion": "RECHAZAR",
+        "objeto": "Robert Habeck"
+      },
+      {
+        "sujeto": "Vance",
+        "relacion": "RECHAZAR",
+        "objeto": "Economía alemán"
+      },
+      {
+        "sujeto": "Vance",
+        "relacion": "RECHAZAR",
+        "objeto": "Annalena Baerbock"
+      },
+      {
+        "sujeto": "Vance",
+        "relacion": "RECHAZAR",
+        "objeto": "Exteriores"
+      },
+      {
+        "sujeto": "Friedrich Merz",
+        "relacion": "RECHAZAR",
+        "objeto": "Robert Habeck"
+      },
+      {
+        "sujeto": "Friedrich Merz",
+        "relacion": "RECHAZAR",
+        "objeto": "Economía alemán"
+      },
+      {
+        "sujeto": "Friedrich Merz",
+        "relacion": "RECHAZAR",
+        "objeto": "Annalena Baerbock"
+      },
+      {
+        "sujeto": "Friedrich Merz",
+        "relacion": "RECHAZAR",
+        "objeto": "Exteriores"
+      },
+      {
+        "sujeto": "Merz",
+        "relacion": "DECLARAR",
+        "objeto": "Congreso"
+      },
+      {
+        "sujeto": "Merz",
+        "relacion": "DECLARAR",
+        "objeto": "EEUU"
+      },
+      {
+        "sujeto": "Merz",
+        "relacion": "DECLARAR",
+        "objeto": "EE.UU."
+      },
+      {
+        "sujeto": "EE.UU.",
+        "relacion": "RESPETAR_DECLARAR",
+        "objeto": "Congreso"
+      },
+      {
+        "sujeto": "EE.UU.",
+        "relacion": "RESPETAR_DECLARAR",
+        "objeto": "EEUU"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.658,
+    "pos": 0.025,
+    "neu": 0.932,
+    "neg": 0.043,
+    "label": "negative"
+  }
+}

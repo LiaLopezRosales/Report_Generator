@@ -1,0 +1,705 @@
+{
+  "url": "https://www.telesurtv.net/gaza-ataques-israel-mas-cuarenta-muertos/",
+  "title": "Ataques israelíes contra Gaza han dejado más de 40 muertos",
+  "section": "Mundo",
+  "tags": [
+    "Ataques Israel",
+    "Franja de Gaza",
+    "Palestinos Muertos"
+  ],
+  "text": "Alrededor de 44 palestinos fallecieron en las primeras horas de este jueves, mientras las fuerzas israelíes llevaban a cabo intensos ataques aéreos y bombardeos de artillería en varias zonas de la Franja de Gaza.\nDe acuerdo a medios palestinos, al menos 27 civiles perecieron en las gobernaciones de la ciudad de Gaza y del norte de Gaza, 14 en la localidad de Khan Yunis en el sur del territorio palestino y tres en la región central de la Franja de Gaza.\nAl menos 21 personas murieron al ser atacadas por las fuerzas israelíes la escuela Amr ibn al As, ubicada en el barrio de Sheikh Radwan de Ciudad de Gaza.\nLa escuela servía de refugio para personas desplazadas del norte de la Franja de Gaza que escapaban de la violencia. Los muertos fueron trasladados al hospital Al Shifa, en el oeste de la capital gazatí.\nEn otro hecho, cuatro civiles murieron en un ataque contra un grupo de personas en el barrio de Zeitoun, al sureste de la ciudad de Gaza. También se reportó el fallecimiento de una mujer durante un ataque de artillería israelí contra el barrio de Al-Tuffah.\nOtros tres civiles murieron en un ataque israelí contra la ciudad de Jabalia, al norte del territorio palestino.\nUn total de 56.156 palestinos han muerto y más de 132.000 heridos en la Franja de Gaza, desde el inicio de la actual operación genocida de Israel contra el territorio palestino.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/gaza-ataques-israel-mas-cuarenta-muertos/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-06.json",
+    "message_index": 314,
+    "message_id": 97506,
+    "date": "2025-06-26T10:55:08+00:00",
+    "text": "teleSUR\nAtaques israelíes contra Gaza de las últimas horas han dejado más de 40 muertos\nhttps://www.telesurtv.net/gaza-ataques-israel-mas-cuarenta-muertos/",
+    "photo_path": null,
+    "views": 2554,
+    "reactions": {
+      "🤬": 54,
+      "😡": 11,
+      "🕊": 3,
+      "❤": 1
+    },
+    "total_reactions": 69
+  },
+  "preprocessing": {
+    "cleaned": "alrededor de 44 palestinos fallecieron en las primeras horas de este jueves, mientras las fuerzas israelíes llevaban a cabo intensos ataques aéreos y bombardeos de artillería en varias zonas de la franja de gaza. de acuerdo a medios palestinos, al menos 27 civiles perecieron en las gobernaciones de la ciudad de gaza y del norte de gaza, 14 en la localidad de khan yunis en el sur del territorio palestino y tres en la región central de la franja de gaza. al menos 21 personas murieron al ser atacadas por las fuerzas israelíes la escuela amr ibn al as, ubicada en el barrio de sheikh radwan de ciudad de gaza. la escuela servía de refugio para personas desplazadas del norte de la franja de gaza que escapaban de la violencia. los muertos fueron trasladados al hospital al shifa, en el oeste de la capital gazatí. en otro hecho, cuatro civiles murieron en un ataque contra un grupo de personas en el barrio de zeitoun, al sureste de la ciudad de gaza. también se reportó el fallecimiento de una mujer durante un ataque de artillería israelí contra el barrio de al-tuffah. otros tres civiles murieron en un ataque israelí contra la ciudad de jabalia, al norte del territorio palestino. un total de 56.156 palestinos han muerto y más de 132.000 heridos en la franja de gaza, desde el inicio de la actual operación genocida de israel contra el territorio palestino.",
+    "tokens": [
+      "alrededor",
+      "44",
+      "palestinos",
+      "fallecieron",
+      "primeras",
+      "horas",
+      "jueves",
+      ",",
+      "mientras",
+      "fuerzas",
+      "israelíes",
+      "llevaban",
+      "cabo",
+      "intensos",
+      "ataques",
+      "aéreos",
+      "bombardeos",
+      "artillería",
+      "varias",
+      "zonas",
+      "franja",
+      "gaza",
+      ".",
+      "acuerdo",
+      "medios",
+      "palestinos",
+      ",",
+      "menos",
+      "27",
+      "civiles",
+      "perecieron",
+      "gobernaciones",
+      "ciudad",
+      "gaza",
+      "norte",
+      "gaza",
+      ",",
+      "14",
+      "localidad",
+      "khan",
+      "yunis",
+      "sur",
+      "territorio",
+      "palestino",
+      "tres",
+      "región",
+      "central",
+      "franja",
+      "gaza",
+      ".",
+      "menos",
+      "21",
+      "personas",
+      "murieron",
+      "ser",
+      "atacadas",
+      "fuerzas",
+      "israelíes",
+      "escuela",
+      "amr",
+      "ibn",
+      "as",
+      ",",
+      "ubicada",
+      "barrio",
+      "sheikh",
+      "radwan",
+      "ciudad",
+      "gaza",
+      ".",
+      "escuela",
+      "servía",
+      "refugio",
+      "personas",
+      "desplazadas",
+      "norte",
+      "franja",
+      "gaza",
+      "escapaban",
+      "violencia",
+      ".",
+      "muertos",
+      "trasladados",
+      "hospital",
+      "shifa",
+      ",",
+      "oeste",
+      "capital",
+      "gazatí",
+      ".",
+      "hecho",
+      ",",
+      "cuatro",
+      "civiles",
+      "murieron",
+      "ataque",
+      "grupo",
+      "personas",
+      "barrio",
+      "zeitoun",
+      ",",
+      "sureste",
+      "ciudad",
+      "gaza",
+      ".",
+      "reportó",
+      "fallecimiento",
+      "mujer",
+      "ataque",
+      "artillería",
+      "israelí",
+      "barrio",
+      "al-tuffah",
+      ".",
+      "tres",
+      "civiles",
+      "murieron",
+      "ataque",
+      "israelí",
+      "ciudad",
+      "jabalia",
+      ",",
+      "norte",
+      "territorio",
+      "palestino",
+      ".",
+      "total",
+      "56.156",
+      "palestinos",
+      "muerto",
+      "132.000",
+      "heridos",
+      "franja",
+      "gaza",
+      ",",
+      "inicio",
+      "actual",
+      "operación",
+      "genocida",
+      "israel",
+      "territorio",
+      "palestino",
+      "."
+    ],
+    "token_count": 143,
+    "sentence_count": 9
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 34,
+      "FW": 66,
+      "CD": 6,
+      "NNS": 14,
+      "VBP": 9,
+      "JJ": 28,
+      "NN": 54,
+      "RB": 1,
+      "IN": 17,
+      "VBZ": 2,
+      "VBD": 2
+    },
+    "bigram_freq": {
+      "NNP-FW": 13,
+      "FW-CD": 1,
+      "CD-NNS": 5,
+      "NNS-VBP": 6,
+      "VBP-JJ": 7,
+      "JJ-NN": 17,
+      "NN-NNS": 4,
+      "NNS-FW": 2,
+      "FW-FW": 38,
+      "FW-NNS": 2,
+      "NN-JJ": 4,
+      "NN-NN": 23,
+      "VBP-FW": 1,
+      "FW-NNP": 16,
+      "NNP-NNP": 9,
+      "JJ-NNS": 2,
+      "NNS-CD": 1,
+      "NNS-RB": 1,
+      "RB-VBP": 1,
+      "NNS-IN": 1,
+      "IN-FW": 6,
+      "NNP-CD": 1,
+      "CD-NN": 1,
+      "NN-FW": 2,
+      "FW-NN": 5,
+      "NN-VBZ": 1,
+      "VBZ-JJ": 1,
+      "JJ-FW": 4,
+      "FW-JJ": 4,
+      "JJ-JJ": 4,
+      "NNP-VBD": 2,
+      "VBD-CD": 1,
+      "NNS-NN": 1,
+      "NN-VBP": 1,
+      "VBP-NN": 1,
+      "NNP-NN": 5,
+      "NN-IN": 15,
+      "IN-JJ": 3,
+      "JJ-IN": 1,
+      "IN-NNP": 5,
+      "NNP-JJ": 2,
+      "IN-NN": 1,
+      "NN-NNP": 3,
+      "VBD-JJ": 1,
+      "NNP-VBZ": 1,
+      "VBZ-NNS": 1,
+      "NNP-VBP": 1,
+      "IN-CD": 2,
+      "NNS-JJ": 2
+    },
+    "trigram_freq": {
+      "NNP-FW-CD": 1,
+      "FW-CD-NNS": 1,
+      "CD-NNS-VBP": 1,
+      "NNS-VBP-JJ": 5,
+      "VBP-JJ-NN": 4,
+      "JJ-NN-NNS": 1,
+      "NN-NNS-FW": 1,
+      "NNS-FW-FW": 2,
+      "FW-FW-FW": 25,
+      "FW-FW-NNS": 1,
+      "FW-NNS-VBP": 2,
+      "JJ-NN-JJ": 1,
+      "NN-JJ-NN": 4,
+      "JJ-NN-NN": 9,
+      "NN-NN-NN": 6,
+      "NN-NN-NNS": 3,
+      "NN-NNS-VBP": 3,
+      "NNS-VBP-FW": 1,
+      "VBP-FW-FW": 1,
+      "FW-FW-NNP": 8,
+      "FW-NNP-FW": 6,
+      "NNP-FW-NNP": 6,
+      "FW-NNP-NNP": 5,
+      "NNP-NNP-FW": 6,
+      "NNP-FW-NNS": 1,
+      "VBP-JJ-NNS": 2,
+      "JJ-NNS-CD": 1,
+      "NNS-CD-NNS": 1,
+      "CD-NNS-RB": 1,
+      "NNS-RB-VBP": 1,
+      "RB-VBP-JJ": 1,
+      "JJ-NNS-IN": 1,
+      "NNS-IN-FW": 1,
+      "IN-FW-FW": 4,
+      "NNP-FW-FW": 3,
+      "FW-NNP-CD": 1,
+      "NNP-CD-NN": 1,
+      "CD-NN-FW": 1,
+      "NN-FW-FW": 1,
+      "FW-FW-NN": 3,
+      "FW-NN-NN": 3,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-JJ": 1,
+      "VBZ-JJ-FW": 1,
+      "JJ-FW-JJ": 1,
+      "FW-JJ-JJ": 2,
+      "JJ-JJ-FW": 1,
+      "JJ-FW-FW": 2,
+      "NNP-NNP-VBD": 2,
+      "NNP-VBD-CD": 1,
+      "VBD-CD-NNS": 1,
+      "CD-NNS-NN": 1,
+      "NNS-NN-VBP": 1,
+      "NN-VBP-NN": 1,
+      "VBP-NN-NN": 1,
+      "JJ-NN-FW": 1,
+      "NN-FW-NNP": 1,
+      "FW-NNP-NN": 3,
+      "NNP-NN-NN": 4,
+      "NN-NN-IN": 7,
+      "NN-IN-JJ": 2,
+      "IN-JJ-IN": 1,
+      "JJ-IN-JJ": 1,
+      "IN-JJ-NN": 2,
+      "JJ-NN-IN": 5,
+      "NN-IN-NNP": 5,
+      "IN-NNP-NNP": 3,
+      "NNP-FW-NN": 2,
+      "FW-NN-IN": 2,
+      "NN-IN-FW": 5,
+      "FW-NNP-JJ": 1,
+      "NNP-JJ-FW": 1,
+      "NN-IN-NN": 1,
+      "IN-NN-NNP": 1,
+      "NN-NNP-NNP": 1,
+      "NN-NN-NNP": 2,
+      "NN-NNP-NN": 2,
+      "VBP-JJ-JJ": 1,
+      "JJ-JJ-NN": 3,
+      "NN-NN-JJ": 3,
+      "IN-NNP-JJ": 1,
+      "NNP-JJ-NN": 1,
+      "NNP-VBD-JJ": 1,
+      "VBD-JJ-NN": 1,
+      "IN-FW-JJ": 2,
+      "NNP-NNP-VBZ": 1,
+      "NNP-VBZ-NNS": 1,
+      "VBZ-NNS-FW": 1,
+      "FW-FW-JJ": 1,
+      "FW-JJ-NN": 2,
+      "IN-NNP-VBP": 1,
+      "NNP-VBP-JJ": 1,
+      "NNP-NN-IN": 1,
+      "NN-IN-CD": 2,
+      "IN-CD-NNS": 2,
+      "CD-NNS-JJ": 2,
+      "NNS-JJ-JJ": 1,
+      "NNS-JJ-FW": 1,
+      "JJ-FW-NNP": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "FW": 66,
+        "NN": 54,
+        "NNP": 34,
+        "JJ": 28,
+        "IN": 17
+      },
+      "top_bigrams": {
+        "FW-FW": 38,
+        "NN-NN": 23,
+        "JJ-NN": 17,
+        "FW-NNP": 16,
+        "NN-IN": 15
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 25,
+        "JJ-NN-NN": 9,
+        "FW-FW-NNP": 8,
+        "NN-NN-IN": 7,
+        "NN-NN-NN": 6
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 9,
+    "chunk_counts": {
+      "NP": 68,
+      "VP": 14,
+      "ADJP": 7,
+      "PP": 8
+    },
+    "top_rules": [
+      {
+        "rule": "NP -> ('Gaza', 'NNP')",
+        "frequency": 8,
+        "weight": 0.0755
+      },
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 7,
+        "weight": 0.066
+      },
+      {
+        "rule": "NP -> ('Franja', 'NNP')",
+        "frequency": 4,
+        "weight": 0.0377
+      },
+      {
+        "rule": "NP -> ('civiles', 'NNS')",
+        "frequency": 3,
+        "weight": 0.0283
+      },
+      {
+        "rule": "NP -> ('palestinos', 'NNS')",
+        "frequency": 2,
+        "weight": 0.0189
+      },
+      {
+        "rule": "NP -> ('barrio', 'NN')",
+        "frequency": 2,
+        "weight": 0.0189
+      },
+      {
+        "rule": "S -> NP ('de', 'FW') ('44', 'CD') NP VP ('horas', 'FW') ('de', 'FW') ('este', 'FW') NP (',', ',') NP VP VP ('de', 'IN') ('artillería', 'FW') ('en', 'FW') ('varias', 'FW') ('zonas', 'FW') ('de', 'FW') ('la', 'FW') NP ('de', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0094
+      },
+      {
+        "rule": "NP -> ('Alrededor', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0094
+      },
+      {
+        "rule": "VP -> ('fallecieron', 'VBP') NP",
+        "frequency": 1,
+        "weight": 0.0094
+      },
+      {
+        "rule": "NP -> ('en', 'JJ') ('las', 'NN') ('primeras', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0094
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Alrededor"
+      },
+      {
+        "label": "NP",
+        "text": "palestinos"
+      },
+      {
+        "label": "VP",
+        "text": "fallecieron en las primeras"
+      },
+      {
+        "label": "NP",
+        "text": "en las primeras"
+      },
+      {
+        "label": "NP",
+        "text": "jueves"
+      },
+      {
+        "label": "NP",
+        "text": "mientras"
+      },
+      {
+        "label": "VP",
+        "text": "las fuerzas israelíes llevaban a cabo intensos ataques"
+      },
+      {
+        "label": "NP",
+        "text": "fuerzas israelíes llevaban"
+      },
+      {
+        "label": "NP",
+        "text": "a cabo intensos ataques"
+      },
+      {
+        "label": "VP",
+        "text": "aéreos y bombardeos"
+      },
+      {
+        "label": "NP",
+        "text": "y bombardeos"
+      },
+      {
+        "label": "NP",
+        "text": "Franja"
+      },
+      {
+        "label": "NP",
+        "text": "Gaza"
+      },
+      {
+        "label": "NP",
+        "text": "De"
+      },
+      {
+        "label": "VP",
+        "text": "acuerdo a medios palestinos"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Alrededor/NNP)\n  de/FW\n  44/CD\n  (NP palestinos/NNS)\n  (VP fallecieron/VBP (NP en/JJ las/NN primeras/NNS))\n  horas/FW\n  de/FW\n  este/FW\n  (NP jueves/NNS)\n  ,/,\n  (NP mientras/NNS)\n  (VP\n    las/VBP\n    (NP fuerzas/JJ israelíes/JJ llevaban/NN)\n    (NP a/DT cabo/NN intensos/NN ataques/NNS))\n  (VP aéreos/VBP (NP y/JJ bombardeos/NN))\n  de/IN\n  artillería/FW\n  en/FW\n  varias/FW\n  zonas/FW\n  de/FW\n  la/FW\n  (NP Franja/NNP)\n  de/FW\n  (NP Gaza/NNP)\n  ./.)",
+      "(S\n  (NP De/NNP)\n  (VP acuerdo/VBZ (NP a/DT medios/JJ palestinos/NN))\n  ,/,\n  (ADJP al/JJ)\n  menos/FW\n  27/CD\n  (NP civiles/NNS)\n  perecieron/RB\n  (VP en/VBP (NP las/JJ gobernaciones/NNS))\n  de/IN\n  la/FW\n  ciudad/FW\n  de/FW\n  (NP Gaza/NNP)\n  y/CC\n  (NP del/JJ norte/NN)\n  (PP de/IN (NP Gaza/NNP))\n  ,/,\n  14/CD\n  (NP en/NN)\n  la/FW\n  localidad/FW\n  de/FW\n  (NP Khan/NNP Yunis/NNP)\n  en/FW\n  el/FW\n  sur/FW\n  del/FW\n  (NP territorio/NN palestino/NN y/NN)\n  (VP tres/VBZ en/JJ)\n  la/FW\n  (ADJP región/JJ)\n  (ADJP central/JJ)\n  de/FW\n  la/FW\n  (NP Franja/NNP)\n  de/FW\n  (NP Gaza/NNP)\n  ./.)",
+      "(S\n  (NP Al/NNP)\n  (VP menos/VBD)\n  21/CD\n  (NP personas/NNS murieron/NN)\n  (VP al/VBP (NP ser/NN atacadas/NN por/NN las/NNS))\n  (VP fuerzas/VBP (NP israelíes/JJ la/NN))\n  escuela/FW\n  (NP Amr/NNP ibn/NN al/NN)\n  As/IN\n  ,/,\n  (ADJP ubicada/JJ)\n  en/FW\n  el/FW\n  (NP barrio/NN)\n  (PP de/IN (NP Sheikh/NNP Radwan/NNP))\n  de/FW\n  (NP Ciudad/NNP)\n  de/FW\n  (NP Gaza/NNP)\n  ./.)",
+      "(S\n  (NP La/NNP)\n  escuela/FW\n  (NP servía/NN)\n  de/IN\n  refugio/FW\n  para/FW\n  personas/FW\n  desplazadas/FW\n  del/FW\n  norte/FW\n  de/FW\n  la/FW\n  (NP Franja/NNP)\n  de/FW\n  (NP Gaza/NNP)\n  (ADJP que/JJ)\n  escapaban/FW\n  de/FW\n  la/FW\n  violencia/FW\n  ./.)",
+      "(S\n  (NP Los/NNP muertos/NN fueron/NN trasladados/NN)\n  (PP al/IN (NP hospital/NN Al/NNP Shifa/NNP))\n  ,/,\n  en/FW\n  el/FW\n  oeste/FW\n  de/FW\n  la/FW\n  (NP capital/NN gazatí/NN)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "LEYES_NORMATIVAS",
+      "CANTIDADES_NUMERICAS",
+      "REGIONES_PROVINCIAS",
+      "INSTITUCIONES_EDUCATIVAS",
+      "PAISES",
+      "LOCALIZACIONES_ESPECIFICAS",
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "INFRAESTRUCTURA_SERVICIOS"
+    ],
+    "matches": [
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "capital",
+        "position": [
+          800,
+          807
+        ],
+        "start": 800,
+        "end": 807
+      },
+      {
+        "category": "INSTITUCIONES_EDUCATIVAS",
+        "matched_text": "escuela amr ibn",
+        "position": [
+          532,
+          547
+        ],
+        "start": 532,
+        "end": 547
+      },
+      {
+        "category": "LEYES_NORMATIVAS",
+        "matched_text": "acuerdo a medios palestinos, al menos 27",
+        "position": [
+          216,
+          256
+        ],
+        "start": 216,
+        "end": 256
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "hospital",
+        "position": [
+          763,
+          771
+        ],
+        "start": 763,
+        "end": 771
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "escuela",
+        "position": [
+          532,
+          539
+        ],
+        "start": 532,
+        "end": 539
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "israelí",
+        "position": [
+          1035,
+          1042
+        ],
+        "start": 1035,
+        "end": 1042
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "región central",
+        "position": [
+          420,
+          434
+        ],
+        "start": 420,
+        "end": 434
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "barrio de",
+        "position": [
+          569,
+          578
+        ],
+        "start": 569,
+        "end": 578
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "escuela amr",
+        "position": [
+          532,
+          543
+        ],
+        "start": 532,
+        "end": 543
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "21 personas",
+        "position": [
+          466,
+          477
+        ],
+        "start": 466,
+        "end": 477
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "alrededor de 44",
+        "position": [
+          0,
+          15
+        ],
+        "start": 0,
+        "end": 15
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "más de 132.000",
+        "position": [
+          1230,
+          1244
+        ],
+        "start": 1230,
+        "end": 1244
+      }
+    ],
+    "match_count": 12
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Franja de Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Sheikh Radwan",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Jabalia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Al Shifa",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Israel",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Zeitoun",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Amr ibn al",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Khan Yunis",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Al-Tuffah",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Ciudad de Gaza",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Gaza",
+        "relacion": "PERECER",
+        "objeto": "Franja de Gaza"
+      },
+      {
+        "sujeto": "Khan Yunis",
+        "relacion": "PERECER",
+        "objeto": "Franja de Gaza"
+      },
+      {
+        "sujeto": "Franja de Gaza",
+        "relacion": "MORIR",
+        "objeto": "Israel"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.0,
+    "pos": 0.0,
+    "neu": 1.0,
+    "neg": 0.0,
+    "label": "neutral"
+  }
+}

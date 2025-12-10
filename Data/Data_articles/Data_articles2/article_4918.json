@@ -1,0 +1,735 @@
+{
+  "url": "https://www.telesurtv.net/papa-francisco-califica-de-indignante-el-deportar-migrantes/",
+  "title": "Papa Francisco califica de indignante el deportar migrantes - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "EE.UU.",
+    "Migración",
+    "Papa Francisco"
+  ],
+  "text": "El papa Francisco envió una misiva a los obispos de Estados Unidos (EE.UU.) en la que se pronuncia con fuerza contra el plan de deportaciones en masa implementado por el presidente Donald Trump, que “lastima la dignidad” de millones de migrantes.\nEl sumo pontífice pidió a los fieles que “no cedan ante las narrativas que discriminan y hacen sufrir innecesariamente a los migrantes y refugiados porque todos estamos llamados a vivir en solidaridad”.\n“He seguido con atención la importante crisis que está teniendo lugar en los Estados Unidos con motivo del inicio de un programa de deportaciones masivas”, sostuvo. Además, abogó por “expresar su desacuerdo con cualquier medida que identifique, de manera tácita o explícita, la condición ilegal de algunos migrantes con la criminalidad”.\n“El acto de deportar personas que en muchos casos han dejado su propia tierra por motivos de pobreza extrema, de inseguridad, de explotación, de persecución o por el grave deterioro del medio ambiente, lastima la dignidad de muchos hombres y mujeres, de familias enteras, y los coloca en un estado de especial vulnerabilidad e indefensión”, sostiene Francisco.\nInsistió en que “un auténtico Estado de derecho se verifica precisamente en el trato digno que merecen todas las personas, en especial, los más pobres y marginados”.\n“Lo que se construye a base de fuerza, y no a partir de la verdad sobre la igual dignidad de todo ser humano, mal comienza y mal terminará”, advirtió. Igualmente, cuestiona el “criterio ideológico” que se oculta tras las acciones del republicano.\nDirigiéndose a los obispos del país, el Papa les invita a trabajar “a favor de la protección y defensa de quienes son considerados menos valiosos, menos importantes o menos humanos”, al tiempo que reclama “evitar muros de ignominia”.\nLa misiva termina pidiendo a la Virgen de Guadalupe “que proteja a las personas y a las familias que viven con temor o con dolor, la migración y/o la deportación”.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/papa-francisco-califica-de-indignante-el-deportar-migrantes/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-02.json",
+    "message_index": 1070,
+    "message_id": 86820,
+    "date": "2025-02-13T11:55:07+00:00",
+    "text": "teleSUR\nPapa Francisco califica de indignante el deportar migrantes\nhttps://www.telesurtv.net/papa-francisco-califica-de-indignante-el-deportar-migrantes/",
+    "photo_path": null,
+    "views": 2289,
+    "reactions": {
+      "👏": 49,
+      "💩": 2,
+      "🥴": 1
+    },
+    "total_reactions": 52
+  },
+  "preprocessing": {
+    "cleaned": "el papa francisco envió una misiva a los obispos de estados unidos (ee.uu.) en la que se pronuncia con fuerza contra el plan de deportaciones en masa implementado por el presidente donald trump, que “lastima la dignidad” de millones de migrantes. el sumo pontífice pidió a los fieles que “no cedan ante las narrativas que discriminan y hacen sufrir innecesariamente a los migrantes y refugiados porque todos estamos llamados a vivir en solidaridad”. “he seguido con atención la importante crisis que está teniendo lugar en los estados unidos con motivo del inicio de un programa de deportaciones masivas”, sostuvo. además, abogó por “expresar su desacuerdo con cualquier medida que identifique, de manera tácita o explícita, la condición ilegal de algunos migrantes con la criminalidad”. “el acto de deportar personas que en muchos casos han dejado su propia tierra por motivos de pobreza extrema, de inseguridad, de explotación, de persecución o por el grave deterioro del medio ambiente, lastima la dignidad de muchos hombres y mujeres, de familias enteras, y los coloca en un estado de especial vulnerabilidad e indefensión”, sostiene francisco. insistió en que “un auténtico estado de derecho se verifica precisamente en el trato digno que merecen todas las personas, en especial, los más pobres y marginados”. “lo que se construye a base de fuerza, y no a partir de la verdad sobre la igual dignidad de todo ser humano, mal comienza y mal terminará”, advirtió. igualmente, cuestiona el “criterio ideológico” que se oculta tras las acciones del republicano. dirigiéndose a los obispos del país, el papa les invita a trabajar “a favor de la protección y defensa de quienes son considerados menos valiosos, menos importantes o menos humanos”, al tiempo que reclama “evitar muros de ignominia”. la misiva termina pidiendo a la virgen de guadalupe “que proteja a las personas y a las familias que viven con temor o con dolor, la migración y/o la deportación”.",
+    "tokens": [
+      "papa",
+      "francisco",
+      "envió",
+      "misiva",
+      "obispos",
+      "unidos",
+      "(",
+      "ee.uu.",
+      ")",
+      "pronuncia",
+      "fuerza",
+      "plan",
+      "deportaciones",
+      "masa",
+      "implementado",
+      "presidente",
+      "donald",
+      "trump",
+      ",",
+      "“",
+      "lastima",
+      "dignidad",
+      "”",
+      "millones",
+      "migrantes",
+      ".",
+      "sumo",
+      "pontífice",
+      "pidió",
+      "fieles",
+      "“",
+      "cedan",
+      "narrativas",
+      "discriminan",
+      "hacen",
+      "sufrir",
+      "innecesariamente",
+      "migrantes",
+      "refugiados",
+      "llamados",
+      "vivir",
+      "solidaridad",
+      "”",
+      ".",
+      "“",
+      "seguido",
+      "atención",
+      "importante",
+      "crisis",
+      "lugar",
+      "unidos",
+      "motivo",
+      "inicio",
+      "programa",
+      "deportaciones",
+      "masivas",
+      "”",
+      ",",
+      "sostuvo",
+      ".",
+      "además",
+      ",",
+      "abogó",
+      "“",
+      "expresar",
+      "desacuerdo",
+      "cualquier",
+      "medida",
+      "identifique",
+      ",",
+      "manera",
+      "tácita",
+      "explícita",
+      ",",
+      "condición",
+      "ilegal",
+      "migrantes",
+      "criminalidad",
+      "”",
+      ".",
+      "“",
+      "acto",
+      "deportar",
+      "personas",
+      "casos",
+      "dejado",
+      "propia",
+      "tierra",
+      "motivos",
+      "pobreza",
+      "extrema",
+      ",",
+      "inseguridad",
+      ",",
+      "explotación",
+      ",",
+      "persecución",
+      "grave",
+      "deterioro",
+      "medio",
+      "ambiente",
+      ",",
+      "lastima",
+      "dignidad",
+      "hombres",
+      "mujeres",
+      ",",
+      "familias",
+      "enteras",
+      ",",
+      "coloca",
+      "especial",
+      "vulnerabilidad",
+      "indefensión",
+      "”",
+      ",",
+      "sostiene",
+      "francisco",
+      ".",
+      "insistió",
+      "“",
+      "auténtico",
+      "derecho",
+      "verifica",
+      "precisamente",
+      "trato",
+      "digno",
+      "merecen",
+      "todas",
+      "personas",
+      ",",
+      "especial",
+      ",",
+      "pobres",
+      "marginados",
+      "”",
+      ".",
+      "“",
+      "construye",
+      "base",
+      "fuerza",
+      ",",
+      "partir",
+      "verdad",
+      "igual",
+      "dignidad",
+      "ser",
+      "humano",
+      ",",
+      "mal",
+      "comienza",
+      "mal",
+      "terminará",
+      "”",
+      ",",
+      "advirtió",
+      ".",
+      "igualmente",
+      ",",
+      "cuestiona",
+      "“",
+      "criterio",
+      "ideológico",
+      "”",
+      "oculta",
+      "tras",
+      "acciones",
+      "republicano",
+      ".",
+      "dirigiéndose",
+      "obispos",
+      "país",
+      ",",
+      "papa",
+      "invita",
+      "trabajar",
+      "“",
+      "favor",
+      "protección",
+      "defensa",
+      "considerados",
+      "menos",
+      "valiosos",
+      ",",
+      "menos",
+      "importantes",
+      "menos",
+      "humanos",
+      "”",
+      ",",
+      "tiempo",
+      "reclama",
+      "“",
+      "evitar",
+      "muros",
+      "ignominia",
+      "”",
+      ".",
+      "misiva",
+      "termina",
+      "pidiendo",
+      "virgen",
+      "guadalupe",
+      "“",
+      "proteja",
+      "personas",
+      "familias",
+      "viven",
+      "temor",
+      "dolor",
+      ",",
+      "migración",
+      "y/o",
+      "deportación",
+      "”",
+      "."
+    ],
+    "token_count": 216,
+    "sentence_count": 10
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 22,
+      "NN": 121,
+      "FW": 69,
+      "JJ": 27,
+      "IN": 15,
+      "NNS": 14,
+      "VBP": 11,
+      "DT": 2,
+      "VBZ": 7,
+      "PRP": 1,
+      "VBN": 1,
+      "JJR": 1,
+      "RB": 1
+    },
+    "bigram_freq": {
+      "NNP-NN": 10,
+      "NN-NNP": 7,
+      "NN-NN": 76,
+      "NN-FW": 11,
+      "FW-JJ": 5,
+      "JJ-FW": 2,
+      "FW-FW": 41,
+      "FW-NNP": 5,
+      "NNP-NNP": 5,
+      "NNP-FW": 5,
+      "FW-NN": 12,
+      "NN-IN": 11,
+      "IN-NNS": 2,
+      "NNS-IN": 1,
+      "IN-NN": 1,
+      "NN-NNS": 4,
+      "NNS-VBP": 9,
+      "VBP-DT": 1,
+      "DT-NN": 2,
+      "NN-VBZ": 3,
+      "VBZ-NNS": 1,
+      "NNS-JJ": 1,
+      "JJ-JJ": 2,
+      "JJ-NN": 18,
+      "VBZ-VBP": 1,
+      "VBP-JJ": 5,
+      "NN-PRP": 1,
+      "PRP-VBZ": 1,
+      "VBZ-JJ": 4,
+      "NN-JJ": 6,
+      "IN-JJ": 3,
+      "JJ-NNP": 3,
+      "NNS-NNS": 1,
+      "VBP-NNP": 1,
+      "IN-FW": 9,
+      "FW-NNS": 3,
+      "FW-VBP": 1,
+      "VBP-VBN": 1,
+      "VBN-NN": 1,
+      "NNS-VBZ": 1,
+      "VBZ-IN": 1,
+      "VBP-IN": 2,
+      "FW-DT": 1,
+      "FW-JJR": 1,
+      "JJR-NN": 1,
+      "VBP-NNS": 1,
+      "NNS-FW": 1,
+      "NNP-VBZ": 2,
+      "JJ-NNS": 2,
+      "NN-RB": 1,
+      "RB-JJ": 1
+    },
+    "trigram_freq": {
+      "NNP-NN-NNP": 1,
+      "NN-NNP-NN": 3,
+      "NNP-NN-NN": 8,
+      "NN-NN-FW": 8,
+      "NN-FW-JJ": 2,
+      "FW-JJ-FW": 2,
+      "JJ-FW-FW": 2,
+      "FW-FW-NNP": 3,
+      "FW-NNP-NNP": 1,
+      "NNP-NNP-NNP": 1,
+      "NNP-NNP-FW": 2,
+      "NNP-FW-NN": 2,
+      "FW-NN-FW": 3,
+      "NN-FW-FW": 4,
+      "FW-FW-FW": 29,
+      "FW-FW-NN": 5,
+      "FW-NN-NN": 5,
+      "NN-NN-NN": 50,
+      "NN-NN-IN": 4,
+      "NN-IN-NNS": 2,
+      "IN-NNS-IN": 1,
+      "NNS-IN-NN": 1,
+      "IN-NN-NN": 1,
+      "NN-NN-NNP": 3,
+      "NN-NNP-NNP": 2,
+      "NNP-NNP-NN": 2,
+      "FW-NNP-NN": 2,
+      "NN-NN-NNS": 4,
+      "NN-NNS-VBP": 4,
+      "NNS-VBP-DT": 1,
+      "VBP-DT-NN": 1,
+      "DT-NN-VBZ": 1,
+      "NN-VBZ-NNS": 1,
+      "VBZ-NNS-JJ": 1,
+      "NNS-JJ-JJ": 1,
+      "JJ-JJ-NN": 1,
+      "JJ-NN-NN": 11,
+      "NN-NN-VBZ": 2,
+      "NN-VBZ-VBP": 1,
+      "VBZ-VBP-JJ": 1,
+      "VBP-JJ-NN": 4,
+      "NN-FW-NN": 4,
+      "FW-NN-PRP": 1,
+      "NN-PRP-VBZ": 1,
+      "PRP-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 2,
+      "NN-NN-JJ": 3,
+      "NN-JJ-NN": 5,
+      "NN-IN-JJ": 2,
+      "IN-JJ-NNP": 1,
+      "JJ-NNP-NNP": 1,
+      "FW-NN-IN": 1,
+      "IN-JJ-NN": 2,
+      "JJ-NN-IN": 4,
+      "IN-NNS-NNS": 1,
+      "NNS-NNS-VBP": 1,
+      "NNS-VBP-NNP": 1,
+      "VBP-NNP-NN": 1,
+      "NN-IN-FW": 7,
+      "IN-FW-JJ": 1,
+      "FW-JJ-NN": 3,
+      "IN-FW-NNS": 2,
+      "FW-NNS-VBP": 2,
+      "NNS-VBP-JJ": 4,
+      "JJ-NN-NNP": 2,
+      "NNP-NN-IN": 1,
+      "IN-FW-FW": 4,
+      "FW-FW-VBP": 1,
+      "FW-VBP-VBN": 1,
+      "VBP-VBN-NN": 1,
+      "VBN-NN-NN": 1,
+      "FW-FW-NNS": 1,
+      "FW-NNS-VBZ": 1,
+      "NNS-VBZ-IN": 1,
+      "VBZ-IN-FW": 1,
+      "FW-FW-JJ": 2,
+      "FW-NN-JJ": 1,
+      "NN-JJ-JJ": 1,
+      "JJ-JJ-NNP": 1,
+      "JJ-NNP-FW": 1,
+      "NNP-FW-FW": 2,
+      "NNS-VBP-IN": 2,
+      "VBP-IN-JJ": 1,
+      "NN-VBZ-JJ": 1,
+      "VBZ-JJ-NNP": 1,
+      "JJ-NNP-NN": 1,
+      "IN-FW-DT": 1,
+      "FW-DT-NN": 1,
+      "DT-NN-IN": 1,
+      "IN-FW-JJR": 1,
+      "FW-JJR-NN": 1,
+      "JJR-NN-JJ": 1,
+      "JJ-NN-JJ": 1,
+      "NNS-VBP-NNS": 1,
+      "VBP-NNS-FW": 1,
+      "NNS-FW-NN": 1,
+      "FW-NN-NNP": 1,
+      "NN-NNP-VBZ": 2,
+      "NNP-VBZ-JJ": 2,
+      "VBZ-JJ-NNS": 1,
+      "JJ-NNS-VBP": 2,
+      "VBP-IN-FW": 1,
+      "VBP-JJ-NNS": 1,
+      "FW-NNP-FW": 2,
+      "NN-FW-NNP": 1,
+      "NNP-FW-NNP": 1,
+      "NN-NN-RB": 1,
+      "NN-RB-JJ": 1,
+      "RB-JJ-NN": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 121,
+        "FW": 69,
+        "JJ": 27,
+        "NNP": 22,
+        "IN": 15
+      },
+      "top_bigrams": {
+        "NN-NN": 76,
+        "FW-FW": 41,
+        "JJ-NN": 18,
+        "FW-NN": 12,
+        "NN-FW": 11
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 50,
+        "FW-FW-FW": 29,
+        "JJ-NN-NN": 11,
+        "NNP-NN-NN": 8,
+        "NN-NN-FW": 8
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 10,
+    "chunk_counts": {
+      "NP": 81,
+      "VP": 26,
+      "PP": 8,
+      "ADJP": 3
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 5,
+        "weight": 0.0391
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 3,
+        "weight": 0.0234
+      },
+      {
+        "rule": "NP -> ('que', 'NN') ('“', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0156
+      },
+      {
+        "rule": "NP -> ('migrantes', 'NNS')",
+        "frequency": 2,
+        "weight": 0.0156
+      },
+      {
+        "rule": "NP -> ('”', 'NN')",
+        "frequency": 2,
+        "weight": 0.0156
+      },
+      {
+        "rule": "S -> NP VP PP ('(', '(') NP (')', ')') ('en', 'FW') ('la', 'FW') ('que', 'FW') ('se', 'FW') ('pronuncia', 'FW') NP PP PP (',', ',') NP VP ('la', 'FW') ('dignidad', 'FW') ('”', 'FW') ('de', 'FW') ('millones', 'FW') ('de', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0078
+      },
+      {
+        "rule": "NP -> ('El', 'NNP') ('papa', 'NN') ('Francisco', 'NNP') ('envió', 'NN') ('una', 'NN')",
+        "frequency": 1,
+        "weight": 0.0078
+      },
+      {
+        "rule": "VP -> ('misiva', 'VBD') NP",
+        "frequency": 1,
+        "weight": 0.0078
+      },
+      {
+        "rule": "NP -> ('a', 'DT') ('los', 'JJ') ('obispos', 'NN')",
+        "frequency": 1,
+        "weight": 0.0078
+      },
+      {
+        "rule": "NP -> ('Estados', 'NNP') ('Unidos', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0078
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El papa Francisco envió una"
+      },
+      {
+        "label": "VP",
+        "text": "misiva a los obispos"
+      },
+      {
+        "label": "NP",
+        "text": "a los obispos"
+      },
+      {
+        "label": "PP",
+        "text": "de Estados Unidos"
+      },
+      {
+        "label": "NP",
+        "text": "Estados Unidos"
+      },
+      {
+        "label": "NP",
+        "text": "EE.UU."
+      },
+      {
+        "label": "NP",
+        "text": "con fuerza contra el plan"
+      },
+      {
+        "label": "PP",
+        "text": "de deportaciones"
+      },
+      {
+        "label": "NP",
+        "text": "deportaciones"
+      },
+      {
+        "label": "PP",
+        "text": "en masa implementado por el presidente Donald Trump"
+      },
+      {
+        "label": "NP",
+        "text": "masa implementado por el presidente Donald Trump"
+      },
+      {
+        "label": "NP",
+        "text": "que “"
+      },
+      {
+        "label": "VP",
+        "text": "lastima"
+      },
+      {
+        "label": "NP",
+        "text": "migrantes"
+      },
+      {
+        "label": "NP",
+        "text": "El sumo pontífice"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP El/NNP papa/NN Francisco/NNP envió/NN una/NN)\n  (VP misiva/VBD (NP a/DT los/JJ obispos/NN))\n  (PP de/IN (NP Estados/NNP Unidos/NNP))\n  (/(\n  (NP EE.UU./NNP)\n  )/)\n  en/FW\n  la/FW\n  que/FW\n  se/FW\n  pronuncia/FW\n  (NP con/NN fuerza/NN contra/NN el/NN plan/NN)\n  (PP de/IN (NP deportaciones/NNS))\n  (PP\n    en/IN\n    (NP\n      masa/NN\n      implementado/NN\n      por/NN\n      el/NN\n      presidente/NN\n      Donald/NNP\n      Trump/NNP))\n  ,/,\n  (NP que/NN “/NNP)\n  (VP lastima/VBZ)\n  la/FW\n  dignidad/FW\n  ”/FW\n  de/FW\n  millones/FW\n  de/FW\n  (NP migrantes/NNS)\n  ./.)",
+      "(S\n  (NP El/NNP sumo/NN pontífice/NN)\n  (VP pidió/VBD (NP a/DT los/JJ fieles/NNS))\n  (VP que/VBP “/JJ (NP no/DT cedan/NN))\n  (VP\n    ante/VBZ\n    (NP las/NNS)\n    (NP narrativas/JJ que/JJ discriminan/NN y/NN hacen/NN sufrir/NN))\n  (VP innecesariamente/VBZ (NP a/DT los/NN))\n  (VP migrantes/VBZ (NP y/JJ refugiados/NN porque/NN todos/NN))\n  (VP estamos/VBP)\n  (VP llamados/VBZ (NP a/DT vivir/NN))\n  (PP en/IN (NP solidaridad/NN ”/NN))\n  ./.)",
+      "(S\n  (NP “/NN)\n  He/PRP\n  (VP\n    seguido/VBZ\n    (NP con/JJ atención/NN la/NN)\n    (NP importante/JJ crisis/NN que/NN))\n  está/FW\n  (NP teniendo/NN lugar/NN)\n  (PP en/IN (NP los/JJ Estados/NNP Unidos/NNP con/NN motivo/NN))\n  del/FW\n  (NP inicio/NN)\n  (PP de/IN (NP un/JJ programa/NN))\n  (PP de/IN (NP deportaciones/NNS masivas/NNP ”/NNP))\n  ,/,\n  (NP sostuvo/NN)\n  ./.)",
+      "(S\n  (NP Además/NNP)\n  ,/,\n  (NP abogó/NN por/NN “/NNP)\n  (VP\n    expresar/VBZ\n    (NP\n      su/JJ\n      desacuerdo/JJ\n      con/NN\n      cualquier/NN\n      medida/NN\n      que/NN\n      identifique/NN))\n  ,/,\n  de/FW\n  manera/FW\n  (NP tácita/NN o/NN explícita/NN)\n  ,/,\n  la/FW\n  (NP condición/JJ ilegal/NN)\n  de/IN\n  algunos/FW\n  (NP migrantes/NNS)\n  (VP con/VBP (NP la/JJ criminalidad/NN ”/NN))\n  ./.)",
+      "(S\n  (NP “/JJ El/NNP acto/NN)\n  de/IN\n  deportar/FW\n  (NP personas/NNS)\n  (VP\n    que/VBP\n    (NP\n      en/JJ\n      muchos/NN\n      casos/NN\n      han/NN\n      dejado/NN\n      su/NN\n      propia/NN\n      tierra/NN\n      por/NN\n      motivos/NN))\n  de/IN\n  pobreza/FW\n  (NP extrema/NN)\n  ,/,\n  de/FW\n  inseguridad/FW\n  ,/,\n  de/FW\n  explotación/FW\n  ,/,\n  de/FW\n  persecución/FW\n  o/FW\n  por/FW\n  el/FW\n  (VP grave/VBP)\n  (VP deterioro/VBN (NP del/NN medio/NN ambiente/NN))\n  ,/,\n  (ADJP lastima/JJ)\n  la/FW\n  dignidad/FW\n  de/FW\n  muchos/FW\n  (NP hombres/NNS)\n  y/CD\n  (NP mujeres/NNS)\n  ,/,\n  de/FW\n  familias/FW\n  enteras/FW\n  ,/,\n  y/FW\n  los/FW\n  (NP coloca/NN)\n  en/FW\n  (ADJP un/JJ)\n  estado/FW\n  de/FW\n  especial/FW\n  vulnerabilidad/FW\n  e/FW\n  (NP indefensión/NN ”/NN)\n  ,/,\n  (NP sostiene/JJ Francisco/NNP)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "GOBIERNOS_OFICIALES",
+      "GRUPOS_ESPECIFICOS",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "REGIONES_PROVINCIAS",
+      "PAISES",
+      "JURIDICO_LEGISLATIVO_CORRUPCION"
+    ],
+    "matches": [
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "sostuvo",
+        "position": [
+          606,
+          613
+        ],
+        "start": 606,
+        "end": 613
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "advirtió",
+        "position": [
+          1456,
+          1464
+        ],
+        "start": 1456,
+        "end": 1464
+      },
+      {
+        "category": "JURIDICO_LEGISLATIVO_CORRUPCION",
+        "matched_text": "defensa",
+        "position": [
+          1657,
+          1664
+        ],
+        "start": 1657,
+        "end": 1664
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente donald trump",
+        "position": [
+          170,
+          193
+        ],
+        "start": 170,
+        "end": 193
+      },
+      {
+        "category": "GRUPOS_ESPECIFICOS",
+        "matched_text": "mujeres",
+        "position": [
+          1030,
+          1037
+        ],
+        "start": 1030,
+        "end": 1037
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "estados unidos",
+        "position": [
+          52,
+          66
+        ],
+        "start": 52,
+        "end": 66
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "estado de",
+        "position": [
+          1079,
+          1088
+        ],
+        "start": 1079,
+        "end": 1088
+      }
+    ],
+    "match_count": 7
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Papa",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "EE.UU.",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "los Estados Unidos",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "la Virgen",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Estados Unidos",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "papa Francisco",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Donald Trump",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Estado",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Francisco",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Guadalupe",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "papa Francisco",
+        "relacion": "ENVIAR",
+        "objeto": "Estados Unidos"
+      },
+      {
+        "sujeto": "papa Francisco",
+        "relacion": "ENVIAR",
+        "objeto": "EE.UU."
+      },
+      {
+        "sujeto": "papa Francisco",
+        "relacion": "ENVIAR",
+        "objeto": "Donald Trump"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.7351,
+    "pos": 0.009,
+    "neu": 0.961,
+    "neg": 0.03,
+    "label": "negative"
+  }
+}

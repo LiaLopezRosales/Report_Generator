@@ -1,0 +1,960 @@
+{
+  "url": "https://www.telesurtv.net/venezuela-exporta-toneladas-cacao-a-rusia/",
+  "title": "Venezuela exporta las primeras 50 toneladas de cacao en grano a Rusia - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "Alianza económica",
+    "Cacao",
+    "Exportación",
+    "Nueva Producción de Cacao",
+    "relaciones bilaterales",
+    "Rusia",
+    "Venezuela"
+  ],
+  "text": "Venezuela exportó este martes 22 de julio, su primer cargamento de 50 toneladas de cacao en grano a Rusia, según informó el Ministerio del Poder Popular para la Agricultura Productiva y Tierras de Venezuela. De acuerdo con el organismo, esta iniciativa, enmarcada en la recuperación económica del país, forma parte de una estrategia que busca impulsar la producción agrícola de la nación caribeña a través de nuevas alianzas económicas.\nLa operación se realizó en colaboración con la empresa rusa Nueva Producción de Cacao, dentro de un acuerdo estratégico que también contempla la rehabilitación y puesta en marcha de plantas de procesamiento de cacao en Venezuela.\n\n\n\n\nEl Ministerio confirmó que este envío inicial de cacao, proveniente del estado Miranda, es el resultado de un esfuerzo conjunto entre el Ministerio del Poder Popular para la Agricultura Productiva y Tierras, el Centro Internacional de Inversión Productiva y el Ministerio del Poder Popular para el Comercio Exterior.\nEsta exportación representa el inicio de una nueva fase en las relaciones bilaterales entre Venezuela y Rusia, posicionando al cacao venezolano, reconocido por su calidad, en los mercados internacionales. El ministro de Agricultura Productiva y Tierras, Julio León, anunció que se proyecta la exportación de 3.000 toneladas de cacao venezolano al mercado ruso durante este año.\n\n\nLa cooperación entre ambas naciones se ha intensificado, con la firma de un Acuerdo de Asociación Estratégica el pasado 7 de mayo entre el presidente Nicolás Maduro y su homólogo ruso, Vladímir Putin, que establece una hoja de ruta para reforzar la colaboración en sectores clave como la economía, energía y minería.\nHasta la fecha, Caracas y Moscú han suscrito más de 350 documentos bilaterales en el marco de esta alianza. Solo en el mes de noviembre pasado las naciones concretaron 17 acuerdos enfocados en el desarrollo hasta el año 2030. Las relaciones entre Venezuela y Rusia se establecieron el 14 de marzo de 1945 y se han fortalecido a lo largo de los años.\n",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/venezuela-exporta-toneladas-cacao-a-rusia/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-07.json",
+    "message_index": 745,
+    "message_id": 99663,
+    "date": "2025-07-22T21:55:12+00:00",
+    "text": "teleSUR\nVenezuela exporta las primeras 50 toneladas de cacao en grano a Rusia\nhttps://www.telesurtv.net/venezuela-exporta-toneladas-cacao-a-rusia/",
+    "photo_path": null,
+    "views": 1418,
+    "reactions": {
+      "👍": 37,
+      "❤": 6,
+      "👏": 6,
+      "🤮": 1
+    },
+    "total_reactions": 50
+  },
+  "preprocessing": {
+    "cleaned": "venezuela exportó este martes 22 de julio, su primer cargamento de 50 toneladas de cacao en grano a rusia, según informó el ministerio del poder popular para la agricultura productiva y tierras de venezuela. de acuerdo con el organismo, esta iniciativa, enmarcada en la recuperación económica del país, forma parte de una estrategia que busca impulsar la producción agrícola de la nación caribeña a través de nuevas alianzas económicas. la operación se realizó en colaboración con la empresa rusa nueva producción de cacao, dentro de un acuerdo estratégico que también contempla la rehabilitación y puesta en marcha de plantas de procesamiento de cacao en venezuela. el ministerio confirmó que este envío inicial de cacao, proveniente del estado miranda, es el resultado de un esfuerzo conjunto entre el ministerio del poder popular para la agricultura productiva y tierras, el centro internacional de inversión productiva y el ministerio del poder popular para el comercio exterior. esta exportación representa el inicio de una nueva fase en las relaciones bilaterales entre venezuela y rusia, posicionando al cacao venezolano, reconocido por su calidad, en los mercados internacionales. el ministro de agricultura productiva y tierras, julio león, anunció que se proyecta la exportación de 3.000 toneladas de cacao venezolano al mercado ruso durante este año. la cooperación entre ambas naciones se ha intensificado, con la firma de un acuerdo de asociación estratégica el pasado 7 de mayo entre el presidente nicolás maduro y su homólogo ruso, vladímir putin, que establece una hoja de ruta para reforzar la colaboración en sectores clave como la economía, energía y minería. hasta la fecha, caracas y moscú han suscrito más de 350 documentos bilaterales en el marco de esta alianza. solo en el mes de noviembre pasado las naciones concretaron 17 acuerdos enfocados en el desarrollo hasta el año 2030. las relaciones entre venezuela y rusia se establecieron el 14 de marzo de 1945 y se han fortalecido a lo largo de los años.",
+    "tokens": [
+      "venezuela",
+      "exportó",
+      "martes",
+      "22",
+      "julio",
+      ",",
+      "primer",
+      "cargamento",
+      "50",
+      "toneladas",
+      "cacao",
+      "grano",
+      "rusia",
+      ",",
+      "según",
+      "informó",
+      "ministerio",
+      "poder",
+      "popular",
+      "agricultura",
+      "productiva",
+      "tierras",
+      "venezuela",
+      ".",
+      "acuerdo",
+      "organismo",
+      ",",
+      "iniciativa",
+      ",",
+      "enmarcada",
+      "recuperación",
+      "económica",
+      "país",
+      ",",
+      "forma",
+      "parte",
+      "estrategia",
+      "busca",
+      "impulsar",
+      "producción",
+      "agrícola",
+      "nación",
+      "caribeña",
+      "través",
+      "nuevas",
+      "alianzas",
+      "económicas",
+      ".",
+      "operación",
+      "realizó",
+      "colaboración",
+      "empresa",
+      "rusa",
+      "nueva",
+      "producción",
+      "cacao",
+      ",",
+      "dentro",
+      "acuerdo",
+      "estratégico",
+      "contempla",
+      "rehabilitación",
+      "puesta",
+      "marcha",
+      "plantas",
+      "procesamiento",
+      "cacao",
+      "venezuela",
+      ".",
+      "ministerio",
+      "confirmó",
+      "envío",
+      "inicial",
+      "cacao",
+      ",",
+      "proveniente",
+      "miranda",
+      ",",
+      "resultado",
+      "esfuerzo",
+      "conjunto",
+      "ministerio",
+      "poder",
+      "popular",
+      "agricultura",
+      "productiva",
+      "tierras",
+      ",",
+      "centro",
+      "internacional",
+      "inversión",
+      "productiva",
+      "ministerio",
+      "poder",
+      "popular",
+      "comercio",
+      "exterior",
+      ".",
+      "exportación",
+      "representa",
+      "inicio",
+      "nueva",
+      "fase",
+      "relaciones",
+      "bilaterales",
+      "venezuela",
+      "rusia",
+      ",",
+      "posicionando",
+      "cacao",
+      "venezolano",
+      ",",
+      "reconocido",
+      "calidad",
+      ",",
+      "mercados",
+      "internacionales",
+      ".",
+      "ministro",
+      "agricultura",
+      "productiva",
+      "tierras",
+      ",",
+      "julio",
+      "león",
+      ",",
+      "anunció",
+      "proyecta",
+      "exportación",
+      "3.000",
+      "toneladas",
+      "cacao",
+      "venezolano",
+      "mercado",
+      "ruso",
+      "año",
+      ".",
+      "cooperación",
+      "ambas",
+      "naciones",
+      "intensificado",
+      ",",
+      "firma",
+      "acuerdo",
+      "asociación",
+      "estratégica",
+      "pasado",
+      "7",
+      "mayo",
+      "presidente",
+      "nicolás",
+      "maduro",
+      "homólogo",
+      "ruso",
+      ",",
+      "vladímir",
+      "putin",
+      ",",
+      "establece",
+      "hoja",
+      "ruta",
+      "reforzar",
+      "colaboración",
+      "sectores",
+      "clave",
+      "economía",
+      ",",
+      "energía",
+      "minería",
+      ".",
+      "fecha",
+      ",",
+      "caracas",
+      "moscú",
+      "suscrito",
+      "350",
+      "documentos",
+      "bilaterales",
+      "marco",
+      "alianza",
+      ".",
+      "solo",
+      "mes",
+      "noviembre",
+      "pasado",
+      "naciones",
+      "concretaron",
+      "17",
+      "acuerdos",
+      "enfocados",
+      "desarrollo",
+      "año",
+      "2030.",
+      "relaciones",
+      "venezuela",
+      "rusia",
+      "establecieron",
+      "14",
+      "marzo",
+      "1945",
+      "fortalecido",
+      "largo",
+      "años",
+      "."
+    ],
+    "token_count": 204,
+    "sentence_count": 10
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 58,
+      "CC": 1,
+      "NN": 85,
+      "NNS": 12,
+      "CD": 8,
+      "IN": 14,
+      "FW": 103,
+      "VBZ": 3,
+      "JJ": 16,
+      "VBP": 6,
+      "VBN": 1,
+      "VBD": 2
+    },
+    "bigram_freq": {
+      "NNP-CC": 1,
+      "CC-NN": 1,
+      "NN-NNS": 2,
+      "NNS-CD": 1,
+      "CD-IN": 1,
+      "IN-NN": 1,
+      "NN-NN": 48,
+      "NN-IN": 11,
+      "IN-CD": 3,
+      "CD-NNS": 3,
+      "NNS-FW": 2,
+      "FW-FW": 65,
+      "FW-NN": 14,
+      "NN-NNP": 7,
+      "NNP-NN": 12,
+      "NNP-VBZ": 3,
+      "VBZ-NNP": 2,
+      "NNP-NNP": 25,
+      "NNP-FW": 13,
+      "FW-NNP": 16,
+      "IN-FW": 7,
+      "FW-JJ": 3,
+      "JJ-NN": 8,
+      "IN-JJ": 2,
+      "NN-FW": 12,
+      "NNP-IN": 1,
+      "IN-NNP": 1,
+      "NN-JJ": 3,
+      "JJ-JJ": 3,
+      "JJ-FW": 3,
+      "VBZ-JJ": 1,
+      "FW-NNS": 3,
+      "NNS-NNS": 2,
+      "NNS-VBP": 6,
+      "VBP-NNP": 2,
+      "JJ-NNS": 1,
+      "NNS-NNP": 1,
+      "FW-CD": 1,
+      "VBP-JJ": 2,
+      "VBP-VBN": 1,
+      "VBN-JJ": 1,
+      "JJ-NNP": 1,
+      "VBP-CD": 1,
+      "CD-JJ": 1,
+      "NN-CD": 1,
+      "CD-NNP": 1,
+      "NNP-NNS": 1,
+      "NNP-VBD": 2,
+      "VBD-NNP": 1,
+      "VBD-CD": 1,
+      "CD-FW": 1,
+      "FW-IN": 1,
+      "CD-NN": 1
+    },
+    "trigram_freq": {
+      "NNP-CC-NN": 1,
+      "CC-NN-NNS": 1,
+      "NN-NNS-CD": 1,
+      "NNS-CD-IN": 1,
+      "CD-IN-NN": 1,
+      "IN-NN-NN": 1,
+      "NN-NN-NN": 27,
+      "NN-NN-IN": 5,
+      "NN-IN-CD": 2,
+      "IN-CD-NNS": 2,
+      "CD-NNS-FW": 2,
+      "NNS-FW-FW": 2,
+      "FW-FW-FW": 42,
+      "FW-FW-NN": 7,
+      "FW-NN-NNP": 2,
+      "NN-NNP-NN": 1,
+      "NNP-NN-NN": 12,
+      "NN-NN-NNP": 5,
+      "NN-NNP-VBZ": 1,
+      "NNP-VBZ-NNP": 2,
+      "VBZ-NNP-NNP": 1,
+      "NNP-NNP-NN": 9,
+      "NN-NNP-NNP": 5,
+      "NNP-NNP-NNP": 7,
+      "NNP-NNP-FW": 5,
+      "NNP-FW-NNP": 6,
+      "FW-NNP-NNP": 10,
+      "NNP-FW-NN": 2,
+      "FW-NN-NN": 5,
+      "NN-IN-FW": 7,
+      "IN-FW-FW": 5,
+      "FW-FW-JJ": 2,
+      "FW-JJ-NN": 2,
+      "JJ-NN-IN": 5,
+      "NN-IN-JJ": 2,
+      "IN-JJ-NN": 1,
+      "JJ-NN-NN": 2,
+      "NN-NN-FW": 6,
+      "NN-FW-FW": 7,
+      "FW-FW-NNP": 10,
+      "FW-NNP-FW": 5,
+      "NNP-FW-FW": 5,
+      "FW-NN-FW": 5,
+      "NN-FW-NN": 4,
+      "NNP-NNP-IN": 1,
+      "NNP-IN-NNP": 1,
+      "IN-NNP-FW": 1,
+      "NN-NN-JJ": 3,
+      "NN-JJ-JJ": 1,
+      "JJ-JJ-FW": 1,
+      "JJ-FW-FW": 3,
+      "NNP-NNP-VBZ": 2,
+      "VBZ-NNP-FW": 1,
+      "NNP-VBZ-JJ": 1,
+      "VBZ-JJ-FW": 1,
+      "JJ-NN-FW": 1,
+      "FW-FW-NNS": 2,
+      "FW-NNS-NNS": 1,
+      "NNS-NNS-VBP": 2,
+      "NNS-VBP-NNP": 2,
+      "VBP-NNP-NNP": 2,
+      "IN-JJ-JJ": 1,
+      "JJ-JJ-NNS": 1,
+      "JJ-NNS-NNP": 1,
+      "NNS-NNP-FW": 1,
+      "FW-FW-CD": 1,
+      "FW-CD-NNS": 1,
+      "FW-NNP-NN": 1,
+      "NN-NN-NNS": 1,
+      "NN-NNS-VBP": 1,
+      "NNS-VBP-JJ": 2,
+      "VBP-JJ-JJ": 1,
+      "JJ-JJ-NN": 1,
+      "FW-NN-IN": 1,
+      "NN-JJ-NN": 2,
+      "NN-FW-NNS": 1,
+      "FW-NNS-VBP": 2,
+      "NNS-VBP-VBN": 1,
+      "VBP-VBN-JJ": 1,
+      "VBN-JJ-FW": 1,
+      "CD-NNS-NNS": 1,
+      "VBP-JJ-NN": 1,
+      "IN-FW-JJ": 1,
+      "FW-JJ-NNP": 1,
+      "JJ-NNP-NN": 1,
+      "NNS-VBP-CD": 1,
+      "VBP-CD-JJ": 1,
+      "CD-JJ-NN": 1,
+      "NN-NN-CD": 1,
+      "NN-CD-NNP": 1,
+      "CD-NNP-NNS": 1,
+      "NNP-NNS-VBP": 1,
+      "NNP-NNP-VBD": 1,
+      "NNP-VBD-NNP": 1,
+      "VBD-NNP-VBD": 1,
+      "NNP-VBD-CD": 1,
+      "VBD-CD-FW": 1,
+      "CD-FW-FW": 1,
+      "FW-FW-IN": 1,
+      "FW-IN-CD": 1,
+      "IN-CD-NN": 1,
+      "CD-NN-NN": 1,
+      "IN-FW-NN": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "FW": 103,
+        "NN": 85,
+        "NNP": 58,
+        "JJ": 16,
+        "IN": 14
+      },
+      "top_bigrams": {
+        "FW-FW": 65,
+        "NN-NN": 48,
+        "NNP-NNP": 25,
+        "FW-NNP": 16,
+        "FW-NN": 14
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 42,
+        "NN-NN-NN": 27,
+        "NNP-NN-NN": 12,
+        "FW-NNP-NNP": 10,
+        "FW-FW-NNP": 10
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 10,
+    "chunk_counts": {
+      "NP": 78,
+      "PP": 4,
+      "VP": 17,
+      "ADJP": 3
+    },
+    "top_rules": [
+      {
+        "rule": "NP -> ('Venezuela', 'NNP')",
+        "frequency": 3,
+        "weight": 0.0268
+      },
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 3,
+        "weight": 0.0268
+      },
+      {
+        "rule": "NP -> ('toneladas', 'NNS')",
+        "frequency": 2,
+        "weight": 0.0179
+      },
+      {
+        "rule": "VP -> ('del', 'VBZ') NP",
+        "frequency": 2,
+        "weight": 0.0179
+      },
+      {
+        "rule": "VP -> ('entre', 'VBP') NP",
+        "frequency": 2,
+        "weight": 0.0179
+      },
+      {
+        "rule": "S -> NP ('exportó', 'CC') NP ('22', 'CD') PP (',', ',') NP ('de', 'IN') ('50', 'CD') NP ('de', 'FW') ('cacao', 'FW') ('en', 'FW') ('grano', 'FW') NP (',', ',') NP VP ('de', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0089
+      },
+      {
+        "rule": "NP -> ('este', 'NN') ('martes', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0089
+      },
+      {
+        "rule": "NP -> ('julio', 'NN')",
+        "frequency": 1,
+        "weight": 0.0089
+      },
+      {
+        "rule": "NP -> ('su', 'JJ') ('primer', 'NN') ('cargamento', 'NN')",
+        "frequency": 1,
+        "weight": 0.0089
+      },
+      {
+        "rule": "NP -> ('a', 'DT') ('Rusia', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0089
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Venezuela"
+      },
+      {
+        "label": "NP",
+        "text": "este martes"
+      },
+      {
+        "label": "PP",
+        "text": "de julio"
+      },
+      {
+        "label": "NP",
+        "text": "julio"
+      },
+      {
+        "label": "NP",
+        "text": "su primer cargamento"
+      },
+      {
+        "label": "NP",
+        "text": "toneladas"
+      },
+      {
+        "label": "NP",
+        "text": "a Rusia"
+      },
+      {
+        "label": "NP",
+        "text": "según informó el Ministerio"
+      },
+      {
+        "label": "VP",
+        "text": "del Poder Popular para la Agricultura Productiva y Tierras"
+      },
+      {
+        "label": "NP",
+        "text": "Poder Popular para la Agricultura Productiva y Tierras"
+      },
+      {
+        "label": "NP",
+        "text": "Venezuela"
+      },
+      {
+        "label": "NP",
+        "text": "De"
+      },
+      {
+        "label": "NP",
+        "text": "con el organismo"
+      },
+      {
+        "label": "NP",
+        "text": "esta iniciativa"
+      },
+      {
+        "label": "NP",
+        "text": "país"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Venezuela/NNP)\n  exportó/CC\n  (NP este/NN martes/NNS)\n  22/CD\n  (PP de/IN (NP julio/NN))\n  ,/,\n  (NP su/JJ primer/NN cargamento/NN)\n  de/IN\n  50/CD\n  (NP toneladas/NNS)\n  de/FW\n  cacao/FW\n  en/FW\n  grano/FW\n  (NP a/DT Rusia/NNP)\n  ,/,\n  (NP según/NN informó/NN el/NN Ministerio/NNP)\n  (VP\n    del/VBZ\n    (NP\n      Poder/NNP\n      Popular/NNP\n      para/NN\n      la/NN\n      Agricultura/NNP\n      Productiva/NNP\n      y/NNP\n      Tierras/NNP))\n  de/FW\n  (NP Venezuela/NNP)\n  ./.)",
+      "(S\n  (NP De/NNP)\n  acuerdo/FW\n  (NP con/NN el/NN organismo/NN)\n  ,/,\n  (NP esta/JJ iniciativa/NN)\n  ,/,\n  enmarcada/FW\n  en/FW\n  la/FW\n  recuperación/FW\n  económica/FW\n  del/FW\n  (NP país/NN)\n  ,/,\n  (NP forma/JJ parte/NN)\n  (PP\n    de/IN\n    (NP una/JJ estrategia/NN que/NN busca/NN impulsar/NN la/NN))\n  producción/FW\n  agrícola/FW\n  de/FW\n  la/FW\n  nación/FW\n  (VP caribeña/VBP (NP a/DT través/NN))\n  de/IN\n  nuevas/FW\n  (NP alianzas/JJ económicas/NN)\n  ./.)",
+      "(S\n  (NP La/NNP)\n  operación/MD\n  (VP se/VB (NP realizó/NN))\n  (PP en/IN (NP colaboración/NN con/NN la/NN))\n  empresa/FW\n  (NP rusa/NN Nueva/NNP Producción/NNP)\n  de/FW\n  (NP Cacao/NNP)\n  ,/,\n  (NP dentro/NN)\n  de/FW\n  un/FW\n  acuerdo/FW\n  estratégico/FW\n  (NP\n    que/NN\n    también/NN\n    contempla/NN\n    la/NN\n    rehabilitación/NN\n    y/NN\n    puesta/NN)\n  en/FW\n  marcha/FW\n  de/FW\n  plantas/FW\n  de/FW\n  procesamiento/FW\n  de/FW\n  cacao/FW\n  en/FW\n  (NP Venezuela/NNP)\n  ./.)",
+      "(S\n  (NP El/NNP Ministerio/NNP confirmó/NN que/NN este/NN)\n  (ADJP envío/JJ)\n  (ADJP inicial/JJ)\n  de/FW\n  (NP cacao/NN)\n  ,/,\n  (ADJP proveniente/JJ)\n  del/FW\n  (NP estado/NN Miranda/NNP)\n  ,/,\n  (VP es/VBZ (NP el/JJ resultado/NN))\n  (PP\n    de/IN\n    (NP un/JJ esfuerzo/NN conjunto/NN entre/NN el/NN Ministerio/NNP))\n  (VP\n    del/VBZ\n    (NP\n      Poder/NNP\n      Popular/NNP\n      para/NN\n      la/NN\n      Agricultura/NNP\n      Productiva/NNP\n      y/NN\n      Tierras/NNP))\n  ,/,\n  el/FW\n  (NP Centro/NNP Internacional/NNP)\n  de/FW\n  (NP Inversión/NNP Productiva/NNP y/NNP)\n  (VP el/VBZ (NP Ministerio/NNP))\n  del/FW\n  (NP Poder/NNP Popular/NNP para/NN el/NN Comercio/NNP Exterior/NNP)\n  ./.)",
+      "(S\n  (NP Esta/NNP)\n  (VP exportación/VBZ representa/JJ)\n  el/FW\n  inicio/FW\n  de/FW\n  una/FW\n  (NP nueva/JJ fase/NN)\n  en/FW\n  las/FW\n  (NP relaciones/NNS bilaterales/NNS)\n  (VP entre/VBP (NP Venezuela/NNP y/NN Rusia/NNP))\n  ,/,\n  (NP posicionando/NN al/NN cacao/NN venezolano/NN)\n  ,/,\n  (NP reconocido/NN por/NN su/NN calidad/NN)\n  ,/,\n  en/FW\n  los/FW\n  (NP mercados/JJ internacionales/NNS)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "FECHAS_HORAS",
+      "CIUDADES_CAPITALES",
+      "GOBIERNOS_OFICIALES",
+      "LEYES_NORMATIVAS",
+      "CANTIDADES_NUMERICAS",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "REGIONES_PROVINCIAS",
+      "PERIODOS_TEMPORALES",
+      "PAISES",
+      "LOCALIZACIONES_ESPECIFICAS",
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "INFRAESTRUCTURA_SERVICIOS",
+      "RELACIONES_INTERNACIONALES",
+      "FECHAS_ESPECIFICAS"
+    ],
+    "matches": [
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "inversión",
+        "position": [
+          906,
+          915
+        ],
+        "start": 906,
+        "end": 915
+      },
+      {
+        "category": "RELACIONES_INTERNACIONALES",
+        "matched_text": "firma de un acuerdo",
+        "position": [
+          1432,
+          1451
+        ],
+        "start": 1432,
+        "end": 1451
+      },
+      {
+        "category": "RELACIONES_INTERNACIONALES",
+        "matched_text": "cooperación entre ambas naciones se ha intensificado, con la firma de un acuerdo de asociación estratégica el pasado 7 de mayo entre el presidente nicolás maduro y su",
+        "position": [
+          1371,
+          1537
+        ],
+        "start": 1371,
+        "end": 1537
+      },
+      {
+        "category": "RELACIONES_INTERNACIONALES",
+        "matched_text": "relaciones bilaterales",
+        "position": [
+          1051,
+          1073
+        ],
+        "start": 1051,
+        "end": 1073
+      },
+      {
+        "category": "RELACIONES_INTERNACIONALES",
+        "matched_text": "cooperación entre ambas naciones",
+        "position": [
+          1371,
+          1403
+        ],
+        "start": 1371,
+        "end": 1403
+      },
+      {
+        "category": "RELACIONES_INTERNACIONALES",
+        "matched_text": "asociación estratégica",
+        "position": [
+          1455,
+          1477
+        ],
+        "start": 1455,
+        "end": 1477
+      },
+      {
+        "category": "RELACIONES_INTERNACIONALES",
+        "matched_text": "firma de un acuerdo de asociación estratégica el pasado 7 de mayo entre el presidente nicolás maduro y",
+        "position": [
+          1432,
+          1534
+        ],
+        "start": 1432,
+        "end": 1534
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "informó",
+        "position": [
+          113,
+          120
+        ],
+        "start": 113,
+        "end": 120
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente nicolás maduro",
+        "position": [
+          1507,
+          1532
+        ],
+        "start": 1507,
+        "end": 1532
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "ministro de agricultura productiva",
+        "position": [
+          1196,
+          1230
+        ],
+        "start": 1196,
+        "end": 1230
+      },
+      {
+        "category": "LEYES_NORMATIVAS",
+        "matched_text": "acuerdo de asociación estratégica el pasado 7",
+        "position": [
+          1444,
+          1489
+        ],
+        "start": 1444,
+        "end": 1489
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "ruta",
+        "position": [
+          1595,
+          1599
+        ],
+        "start": 1595,
+        "end": 1599
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "energía",
+        "position": [
+          1666,
+          1673
+        ],
+        "start": 1666,
+        "end": 1673
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "venezuela",
+        "position": [
+          0,
+          9
+        ],
+        "start": 0,
+        "end": 9
+      },
+      {
+        "category": "CIUDADES_CAPITALES",
+        "matched_text": "caracas",
+        "position": [
+          1701,
+          1708
+        ],
+        "start": 1701,
+        "end": 1708
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "estado miranda",
+        "position": [
+          743,
+          757
+        ],
+        "start": 743,
+        "end": 757
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "centro internacional",
+        "position": [
+          882,
+          902
+        ],
+        "start": 882,
+        "end": 902
+      },
+      {
+        "category": "FECHAS_ESPECIFICAS",
+        "matched_text": "14 de marzo de 1945",
+        "position": [
+          1970,
+          1989
+        ],
+        "start": 1970,
+        "end": 1989
+      },
+      {
+        "category": "FECHAS_ESPECIFICAS",
+        "matched_text": "martes 22 de julio",
+        "position": [
+          23,
+          41
+        ],
+        "start": 23,
+        "end": 41
+      },
+      {
+        "category": "FECHAS_ESPECIFICAS",
+        "matched_text": "año 2030",
+        "position": [
+          1901,
+          1909
+        ],
+        "start": 1901,
+        "end": 1909
+      },
+      {
+        "category": "PERIODOS_TEMPORALES",
+        "matched_text": "en el mes",
+        "position": [
+          1798,
+          1807
+        ],
+        "start": 1798,
+        "end": 1807
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "más de 350",
+        "position": [
+          1730,
+          1740
+        ],
+        "start": 1730,
+        "end": 1740
+      },
+      {
+        "category": "FECHAS_HORAS",
+        "matched_text": "el año 2030",
+        "position": [
+          1898,
+          1909
+        ],
+        "start": 1898,
+        "end": 1909
+      }
+    ],
+    "match_count": 23
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Ministerio del Poder Popular para la Agricultura Productiva y Tierras",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Nicolás Maduro",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Venezuela",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Ministerio del Poder Popular para el Comercio Exterior",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Acuerdo de Asociación Estratégica",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Ministerio del Poder Popular para la Agricultura Productiva",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Rusia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Ministerio",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Caracas",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Moscú",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Vladímir Putin",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Julio León",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Centro Internacional de Inversión Productiva",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "estado Miranda",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Nueva Producción de Cacao",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Tierras de Venezuela",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Venezuela",
+        "relacion": "EXPORTAR",
+        "objeto": "Rusia"
+      },
+      {
+        "sujeto": "Venezuela",
+        "relacion": "EXPORTAR",
+        "objeto": "Ministerio del Poder Popular para la Agricultura Productiva"
+      },
+      {
+        "sujeto": "Venezuela",
+        "relacion": "EXPORTAR",
+        "objeto": "Tierras de Venezuela"
+      },
+      {
+        "sujeto": "Ministerio del Poder Popular para la Agricultura Productiva",
+        "relacion": "EXPORTAR",
+        "objeto": "Rusia"
+      },
+      {
+        "sujeto": "Rusia",
+        "relacion": "EXPORTAR",
+        "objeto": "Tierras de Venezuela"
+      },
+      {
+        "sujeto": "Nueva Producción de Cacao",
+        "relacion": "REALIZAR",
+        "objeto": "Venezuela"
+      },
+      {
+        "sujeto": "Ministerio",
+        "relacion": "CONFIRMAR",
+        "objeto": "estado Miranda"
+      },
+      {
+        "sujeto": "Ministerio",
+        "relacion": "CONFIRMAR",
+        "objeto": "Ministerio del Poder Popular para la Agricultura Productiva y Tierras"
+      },
+      {
+        "sujeto": "Ministerio",
+        "relacion": "CONFIRMAR",
+        "objeto": "Centro Internacional de Inversión Productiva"
+      },
+      {
+        "sujeto": "Ministerio",
+        "relacion": "CONFIRMAR",
+        "objeto": "Ministerio del Poder Popular para el Comercio Exterior"
+      },
+      {
+        "sujeto": "Acuerdo de Asociación Estratégica",
+        "relacion": "INTENSIFICAR",
+        "objeto": "Nicolás Maduro"
+      },
+      {
+        "sujeto": "Acuerdo de Asociación Estratégica",
+        "relacion": "INTENSIFICAR",
+        "objeto": "Vladímir Putin"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.8689,
+    "pos": 0.034,
+    "neu": 0.966,
+    "neg": 0.0,
+    "label": "positive"
+  }
+}

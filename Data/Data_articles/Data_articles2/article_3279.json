@@ -1,0 +1,808 @@
+{
+  "url": "https://www.telesurtv.net/muere-manifestante-en-panama-en-protestas/",
+  "title": "Panamá: muere manifestante durante protestas contra reforma de pensiones - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "manifestantes",
+    "Panamá",
+    "represión"
+  ],
+  "text": "Una persona murió en la localidad de Rambala, en la provincia caribeña de Bocas del Toro, tras una nueva jornada de protestas el jueves 19 de junio contra la reforma al sistema de pensiones en Panamá.\nLa víctima, cuyo nombre no ha sido divulgado, fue hallada con una herida en la espalda luego de choques entre manifestantes y fuerzas policiales. El viceministro de Seguridad, Luis Felipe Icaza, confirmó el fallecimiento, aunque negó que la Policía haya utilizado armas de fuego.\n\nLEA TAMBIÉN\nMulino cierra la puerta al diálogo con huelguistas en Panamá\n\nDe acuerdo con testigos y medios locales, la represión incluyó gases lacrimógenos y choques directos en las calles. La persona herida fue atendida por paramédicos en el lugar, pero murió tras ser trasladada a un hospital. El hecho ha sido calificado como un “crimen” por organizaciones estudiantiles, que acusan directamente al Gobierno del presidente José Raúl Mulino de la violencia.\n\n\nLas manifestaciones llevan más de un mes y han sido protagonizadas por sindicatos de la construcción, docentes y comunidades indígenas. Todos exigen la derogación de una reforma aprobada en marzo, que eleva la edad de jubilación y abre la puerta a la privatización de los fondos de pensiones. El rechazo ha sido generalizado en varias regiones del país.\nEn respuesta a los bloqueos y disturbios, el Gobierno desplegó 1.300 policías en Bocas del Toro y reportó más de 500 personas detenidas. Desde el sábado, grupos encapuchados han bloqueado carreteras usando troncos y piedras. Mientras tanto, la tensión crece en todo el país ante la falta de diálogo y el aumento de la represión.\n",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/muere-manifestante-en-panama-en-protestas/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-06.json",
+    "message_index": 776,
+    "message_id": 97009,
+    "date": "2025-06-20T23:55:12+00:00",
+    "text": "teleSUR\nPanamá: muere manifestante durante protestas contra reforma de pensiones\nhttps://www.telesurtv.net/muere-manifestante-en-panama-en-protestas/",
+    "photo_path": null,
+    "views": 2746,
+    "reactions": {
+      "🤬": 47,
+      "😱": 7,
+      "😢": 2,
+      "👍": 1
+    },
+    "total_reactions": 57
+  },
+  "preprocessing": {
+    "cleaned": "una persona murió en la localidad de rambala, en la provincia caribeña de bocas del toro, tras una nueva jornada de protestas el jueves 19 de junio contra la reforma al sistema de pensiones en panamá. la víctima, cuyo nombre no ha sido divulgado, fue hallada con una herida en la espalda luego de choques entre manifestantes y fuerzas policiales. el viceministro de seguridad, luis felipe icaza, confirmó el fallecimiento, aunque negó que la policía haya utilizado armas de fuego. de acuerdo con testigos y medios locales, la represión incluyó gases lacrimógenos y choques directos en las calles. la persona herida fue atendida por paramédicos en el lugar, pero murió tras ser trasladada a un hospital. el hecho ha sido calificado como un “crimen” por organizaciones estudiantiles, que acusan directamente al gobierno del presidente josé raúl mulino de la violencia. las manifestaciones llevan más de un mes y han sido protagonizadas por sindicatos de la construcción, docentes y comunidades indígenas. todos exigen la derogación de una reforma aprobada en marzo, que eleva la edad de jubilación y abre la puerta a la privatización de los fondos de pensiones. el rechazo ha sido generalizado en varias regiones del país. en respuesta a los bloqueos y disturbios, el gobierno desplegó 1.300 policías en bocas del toro y reportó más de 500 personas detenidas. desde el sábado, grupos encapuchados han bloqueado carreteras usando troncos y piedras. mientras tanto, la tensión crece en todo el país ante la falta de diálogo y el aumento de la represión.",
+    "tokens": [
+      "persona",
+      "murió",
+      "localidad",
+      "rambala",
+      ",",
+      "provincia",
+      "caribeña",
+      "bocas",
+      "toro",
+      ",",
+      "tras",
+      "nueva",
+      "jornada",
+      "protestas",
+      "jueves",
+      "19",
+      "junio",
+      "reforma",
+      "sistema",
+      "pensiones",
+      "panamá",
+      ".",
+      "víctima",
+      ",",
+      "cuyo",
+      "nombre",
+      "sido",
+      "divulgado",
+      ",",
+      "hallada",
+      "herida",
+      "espalda",
+      "luego",
+      "choques",
+      "manifestantes",
+      "fuerzas",
+      "policiales",
+      ".",
+      "viceministro",
+      "seguridad",
+      ",",
+      "luis",
+      "felipe",
+      "icaza",
+      ",",
+      "confirmó",
+      "fallecimiento",
+      ",",
+      "aunque",
+      "negó",
+      "policía",
+      "utilizado",
+      "armas",
+      "fuego",
+      ".",
+      "acuerdo",
+      "testigos",
+      "medios",
+      "locales",
+      ",",
+      "represión",
+      "incluyó",
+      "gases",
+      "lacrimógenos",
+      "choques",
+      "directos",
+      "calles",
+      ".",
+      "persona",
+      "herida",
+      "atendida",
+      "paramédicos",
+      "lugar",
+      ",",
+      "murió",
+      "tras",
+      "ser",
+      "trasladada",
+      "hospital",
+      ".",
+      "hecho",
+      "sido",
+      "calificado",
+      "“",
+      "crimen",
+      "”",
+      "organizaciones",
+      "estudiantiles",
+      ",",
+      "acusan",
+      "directamente",
+      "gobierno",
+      "presidente",
+      "josé",
+      "raúl",
+      "mulino",
+      "violencia",
+      ".",
+      "manifestaciones",
+      "llevan",
+      "mes",
+      "sido",
+      "protagonizadas",
+      "sindicatos",
+      "construcción",
+      ",",
+      "docentes",
+      "comunidades",
+      "indígenas",
+      ".",
+      "exigen",
+      "derogación",
+      "reforma",
+      "aprobada",
+      "marzo",
+      ",",
+      "eleva",
+      "edad",
+      "jubilación",
+      "abre",
+      "puerta",
+      "privatización",
+      "fondos",
+      "pensiones",
+      ".",
+      "rechazo",
+      "sido",
+      "generalizado",
+      "varias",
+      "regiones",
+      "país",
+      ".",
+      "respuesta",
+      "bloqueos",
+      "disturbios",
+      ",",
+      "gobierno",
+      "desplegó",
+      "1.300",
+      "policías",
+      "bocas",
+      "toro",
+      "reportó",
+      "500",
+      "personas",
+      "detenidas",
+      ".",
+      "sábado",
+      ",",
+      "grupos",
+      "encapuchados",
+      "bloqueado",
+      "carreteras",
+      "usando",
+      "troncos",
+      "piedras",
+      ".",
+      "mientras",
+      ",",
+      "tensión",
+      "crece",
+      "país",
+      "falta",
+      "diálogo",
+      "aumento",
+      "represión",
+      "."
+    ],
+    "token_count": 167,
+    "sentence_count": 12
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 33,
+      "NN": 76,
+      "IN": 13,
+      "FW": 66,
+      "NNS": 25,
+      "JJ": 19,
+      "CD": 3,
+      "VBZ": 2,
+      "DT": 1,
+      "VBP": 12,
+      "JJR": 1,
+      "VBD": 1
+    },
+    "bigram_freq": {
+      "NNP-NN": 12,
+      "NN-NN": 40,
+      "NN-IN": 9,
+      "IN-FW": 6,
+      "FW-FW": 43,
+      "FW-NNP": 10,
+      "NNP-FW": 6,
+      "FW-NN": 9,
+      "IN-NNP": 2,
+      "NNP-NNS": 2,
+      "NNS-JJ": 3,
+      "JJ-JJ": 3,
+      "JJ-NN": 9,
+      "FW-JJ": 1,
+      "JJ-NNS": 6,
+      "NNS-CD": 1,
+      "CD-IN": 1,
+      "IN-NN": 2,
+      "NN-JJ": 6,
+      "IN-NNS": 1,
+      "NNS-FW": 2,
+      "NNP-NNP": 10,
+      "NN-VBZ": 1,
+      "VBZ-DT": 1,
+      "DT-NN": 1,
+      "FW-NNS": 3,
+      "NNS-VBP": 11,
+      "VBP-NNS": 4,
+      "NNS-NNP": 3,
+      "NN-FW": 8,
+      "NN-NNS": 6,
+      "NNS-IN": 1,
+      "NNS-VBZ": 1,
+      "VBZ-JJR": 1,
+      "JJR-JJ": 1,
+      "VBP-JJ": 4,
+      "NNP-VBP": 1,
+      "VBP-NN": 2,
+      "NN-NNP": 4,
+      "NNS-NNS": 2,
+      "NNP-IN": 2,
+      "NNS-VBD": 1,
+      "VBD-FW": 1,
+      "VBP-NNP": 2,
+      "IN-JJ": 1,
+      "NN-CD": 1,
+      "CD-NN": 1,
+      "IN-CD": 1,
+      "CD-NNS": 1,
+      "JJ-NNP": 1
+    },
+    "trigram_freq": {
+      "NNP-NN-NN": 9,
+      "NN-NN-IN": 4,
+      "NN-IN-FW": 4,
+      "IN-FW-FW": 4,
+      "FW-FW-FW": 33,
+      "FW-FW-NNP": 4,
+      "FW-NNP-FW": 2,
+      "NNP-FW-FW": 2,
+      "FW-FW-NN": 3,
+      "FW-NN-IN": 1,
+      "NN-IN-NNP": 1,
+      "IN-NNP-FW": 1,
+      "NNP-FW-NNP": 2,
+      "FW-NNP-NNS": 2,
+      "NNP-NNS-JJ": 1,
+      "NNS-JJ-JJ": 2,
+      "JJ-JJ-NN": 2,
+      "JJ-NN-IN": 4,
+      "IN-FW-JJ": 1,
+      "FW-JJ-NNS": 1,
+      "JJ-NNS-CD": 1,
+      "NNS-CD-IN": 1,
+      "CD-IN-NN": 1,
+      "IN-NN-JJ": 1,
+      "NN-JJ-NN": 4,
+      "JJ-NN-NN": 2,
+      "NN-NN-JJ": 4,
+      "NN-IN-NNS": 1,
+      "IN-NNS-FW": 1,
+      "NNS-FW-NNP": 1,
+      "FW-NNP-NNP": 3,
+      "NNP-NNP-NNP": 5,
+      "NNP-NNP-NN": 3,
+      "NNP-NN-VBZ": 1,
+      "NN-VBZ-DT": 1,
+      "VBZ-DT-NN": 1,
+      "DT-NN-NN": 1,
+      "NN-NN-NN": 23,
+      "FW-FW-NNS": 3,
+      "FW-NNS-VBP": 2,
+      "NNS-VBP-NNS": 4,
+      "VBP-NNS-VBP": 2,
+      "VBP-NNS-NNP": 1,
+      "NNS-NNP-FW": 1,
+      "NN-NN-FW": 4,
+      "NN-FW-NN": 3,
+      "FW-NN-FW": 2,
+      "NN-FW-NNP": 2,
+      "FW-NNP-NN": 3,
+      "NNP-NN-JJ": 1,
+      "IN-FW-NNP": 1,
+      "FW-NN-NN": 3,
+      "NN-NN-NNS": 4,
+      "NN-NNS-IN": 1,
+      "NNS-IN-NNP": 1,
+      "IN-NNP-NNP": 1,
+      "NNP-NNP-FW": 1,
+      "NNP-FW-NN": 2,
+      "NN-NNS-VBZ": 1,
+      "NNS-VBZ-JJR": 1,
+      "VBZ-JJR-JJ": 1,
+      "JJR-JJ-NN": 1,
+      "JJ-NN-NNS": 2,
+      "NN-NNS-VBP": 2,
+      "NNS-VBP-JJ": 4,
+      "VBP-JJ-NN": 2,
+      "NN-NNS-NNP": 1,
+      "NNS-NNP-VBP": 1,
+      "NNP-VBP-NN": 1,
+      "VBP-NN-NN": 1,
+      "NN-IN-NN": 1,
+      "IN-NN-NN": 1,
+      "VBP-JJ-JJ": 1,
+      "JJ-NN-NNP": 1,
+      "NN-NNP-NN": 2,
+      "NN-JJ-NNS": 2,
+      "JJ-NNS-VBP": 3,
+      "VBP-NNS-NNS": 1,
+      "NNS-NNS-VBP": 2,
+      "NN-NN-NNP": 1,
+      "NN-NNP-FW": 1,
+      "FW-NN-NNP": 2,
+      "NN-NNP-NNP": 1,
+      "NNP-NNP-IN": 1,
+      "NNP-IN-FW": 2,
+      "NNP-NNS-VBD": 1,
+      "NNS-VBD-FW": 1,
+      "VBD-FW-FW": 1,
+      "VBP-JJ-NNS": 1,
+      "NNS-VBP-NN": 1,
+      "VBP-NN-FW": 1,
+      "NN-FW-FW": 3,
+      "FW-NNS-NNS": 1,
+      "NNS-VBP-NNP": 2,
+      "VBP-NNP-NN": 2,
+      "NN-IN-JJ": 1,
+      "IN-JJ-NNS": 1,
+      "JJ-NNS-FW": 1,
+      "NNS-FW-NN": 1,
+      "NNP-NN-CD": 1,
+      "NN-CD-NN": 1,
+      "CD-NN-FW": 1,
+      "NN-IN-CD": 1,
+      "IN-CD-NNS": 1,
+      "CD-NNS-JJ": 1,
+      "NNS-JJ-NNP": 1,
+      "JJ-NNP-NN": 1,
+      "NN-NNS-JJ": 1,
+      "JJ-JJ-NNS": 1,
+      "JJ-NNS-NNP": 1,
+      "NNS-NNP-IN": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 76,
+        "FW": 66,
+        "NNP": 33,
+        "NNS": 25,
+        "JJ": 19
+      },
+      "top_bigrams": {
+        "FW-FW": 43,
+        "NN-NN": 40,
+        "NNP-NN": 12,
+        "NNS-VBP": 11,
+        "FW-NNP": 10
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 33,
+        "NN-NN-NN": 23,
+        "NNP-NN-NN": 9,
+        "NNP-NNP-NNP": 5,
+        "NN-NN-IN": 4
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 12,
+    "chunk_counts": {
+      "NP": 72,
+      "PP": 8,
+      "VP": 16,
+      "ADJP": 2
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 4,
+        "weight": 0.0364
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 4,
+        "weight": 0.0364
+      },
+      {
+        "rule": "NP -> ('Bocas', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0182
+      },
+      {
+        "rule": "NP -> ('Toro', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0182
+      },
+      {
+        "rule": "NP -> ('pensiones', 'NNS')",
+        "frequency": 2,
+        "weight": 0.0182
+      },
+      {
+        "rule": "NP -> ('choques', 'NNS')",
+        "frequency": 2,
+        "weight": 0.0182
+      },
+      {
+        "rule": "VP -> ('y', 'VBP') NP",
+        "frequency": 2,
+        "weight": 0.0182
+      },
+      {
+        "rule": "S -> NP ('en', 'IN') ('la', 'FW') ('localidad', 'FW') ('de', 'FW') NP (',', ',') ('en', 'FW') ('la', 'FW') ('provincia', 'FW') NP PP ('del', 'FW') NP (',', ',') VP ('de', 'IN') ('protestas', 'FW') NP ('19', 'CD') PP NP NP PP PP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0091
+      },
+      {
+        "rule": "NP -> ('Una', 'NNP') ('persona', 'NN') ('murió', 'NN')",
+        "frequency": 1,
+        "weight": 0.0091
+      },
+      {
+        "rule": "NP -> ('Rambala', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0091
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Una persona murió"
+      },
+      {
+        "label": "NP",
+        "text": "Rambala"
+      },
+      {
+        "label": "NP",
+        "text": "caribeña"
+      },
+      {
+        "label": "PP",
+        "text": "de Bocas"
+      },
+      {
+        "label": "NP",
+        "text": "Bocas"
+      },
+      {
+        "label": "NP",
+        "text": "Toro"
+      },
+      {
+        "label": "VP",
+        "text": "tras una nueva jornada"
+      },
+      {
+        "label": "NP",
+        "text": "una nueva jornada"
+      },
+      {
+        "label": "NP",
+        "text": "el jueves"
+      },
+      {
+        "label": "PP",
+        "text": "de junio"
+      },
+      {
+        "label": "NP",
+        "text": "junio"
+      },
+      {
+        "label": "NP",
+        "text": "contra la reforma"
+      },
+      {
+        "label": "NP",
+        "text": "al sistema"
+      },
+      {
+        "label": "PP",
+        "text": "de pensiones"
+      },
+      {
+        "label": "NP",
+        "text": "pensiones"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Una/NNP persona/NN murió/NN)\n  en/IN\n  la/FW\n  localidad/FW\n  de/FW\n  (NP Rambala/NNP)\n  ,/,\n  en/FW\n  la/FW\n  provincia/FW\n  (NP caribeña/NN)\n  (PP de/IN (NP Bocas/NNP))\n  del/FW\n  (NP Toro/NNP)\n  ,/,\n  (VP tras/VBZ (NP una/JJ nueva/JJ jornada/NN))\n  de/IN\n  protestas/FW\n  (NP el/JJ jueves/NNS)\n  19/CD\n  (PP de/IN (NP junio/NN))\n  (NP contra/JJ la/NN reforma/NN)\n  (NP al/JJ sistema/NN)\n  (PP de/IN (NP pensiones/NNS))\n  (PP en/IN (NP Panamá/NNP))\n  ./.)",
+      "(S\n  (NP La/NNP víctima/NN)\n  ,/,\n  (NP cuyo/NN)\n  (ADJP nombre/JJ)\n  (NP no/DT ha/NN sido/NN divulgado/NN)\n  ,/,\n  (VP fue/VBP (NP hallada/JJ con/NN) (NP una/JJ herida/NN))\n  en/IN\n  la/FW\n  espalda/FW\n  luego/FW\n  de/FW\n  (NP choques/NNS)\n  (VP entre/VBP (NP manifestantes/NNS))\n  (VP y/VBP (NP fuerzas/JJ policiales/NNS))\n  ./.)",
+      "(S\n  (NP El/NNP viceministro/NN)\n  de/FW\n  (NP Seguridad/NNP)\n  ,/,\n  (NP Luis/NNP Felipe/NNP Icaza/NNP)\n  ,/,\n  (NP confirmó/NN el/NN fallecimiento/NN)\n  ,/,\n  (ADJP aunque/JJ)\n  negó/FW\n  (NP que/NN)\n  la/FW\n  (NP Policía/NNP haya/NN)\n  (NP utilizado/JJ armas/NN)\n  (PP de/IN (NP fuego/NN))\n  ./.)",
+      "(S\n  (NP LEA/NNP TAMBIÉN/NNP Mulino/NNP cierra/NN la/NN)\n  puerta/FW\n  (NP al/NN diálogo/NN con/NN huelguistas/NNS)\n  (PP en/IN (NP Panamá/NNP De/NNP))\n  acuerdo/FW\n  (NP con/NN testigos/NN y/NN medios/NNS locales/NNS)\n  ,/,\n  la/FW\n  represión/FW\n  (NP incluyó/NN gases/NNS)\n  (VP lacrimógenos/VBP y/RB (NP choques/NNS))\n  (VP directos/VBP (NP en/JJ las/NN calles/NNS))\n  ./.)",
+      "(S\n  (NP La/NNP)\n  (VP\n    persona/VBZ\n    (NP herida/JJ fue/NN atendida/NN por/NN paramédicos/NN))\n  (PP en/IN (NP el/NN lugar/NN))\n  ,/,\n  (NP pero/NN murió/NN tras/NNS)\n  (VP ser/VBP)\n  (VP trasladada/VB (NP a/DT un/JJ hospital/NN))\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "GOBIERNOS_OFICIALES",
+      "GRUPOS_ESPECIFICOS",
+      "APROBACION_RECHAZO",
+      "CANTIDADES_NUMERICAS",
+      "REGIONES_PROVINCIAS",
+      "PAISES",
+      "PROTESTAS_CONFLICTOS_SOCIALES",
+      "LOCALIZACIONES_ESPECIFICAS",
+      "INFRAESTRUCTURA_SERVICIOS",
+      "RELACIONES_INTERNACIONALES",
+      "FECHAS_ESPECIFICAS",
+      "NEOLIBERALISMO_MERCADO"
+    ],
+    "matches": [
+      {
+        "category": "PROTESTAS_CONFLICTOS_SOCIALES",
+        "matched_text": "disturbios, el gobierno",
+        "position": [
+          1328,
+          1351
+        ],
+        "start": 1328,
+        "end": 1351
+      },
+      {
+        "category": "PROTESTAS_CONFLICTOS_SOCIALES",
+        "matched_text": "choques entre manifestantes",
+        "position": [
+          297,
+          324
+        ],
+        "start": 297,
+        "end": 324
+      },
+      {
+        "category": "RELACIONES_INTERNACIONALES",
+        "matched_text": "acuerdo con testigos y medios",
+        "position": [
+          559,
+          588
+        ],
+        "start": 559,
+        "end": 588
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "gobierno del presidente josé",
+        "position": [
+          884,
+          912
+        ],
+        "start": 884,
+        "end": 912
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente josé raúl",
+        "position": [
+          897,
+          917
+        ],
+        "start": 897,
+        "end": 917
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "viceministro de seguridad",
+        "position": [
+          350,
+          375
+        ],
+        "start": 350,
+        "end": 375
+      },
+      {
+        "category": "GRUPOS_ESPECIFICOS",
+        "matched_text": "docentes",
+        "position": [
+          1046,
+          1054
+        ],
+        "start": 1046,
+        "end": 1054
+      },
+      {
+        "category": "GRUPOS_ESPECIFICOS",
+        "matched_text": "indígenas",
+        "position": [
+          1069,
+          1078
+        ],
+        "start": 1069,
+        "end": 1078
+      },
+      {
+        "category": "APROBACION_RECHAZO",
+        "matched_text": "negó",
+        "position": [
+          430,
+          434
+        ],
+        "start": 430,
+        "end": 434
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "hospital",
+        "position": [
+          768,
+          776
+        ],
+        "start": 768,
+        "end": 776
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "panamá",
+        "position": [
+          193,
+          199
+        ],
+        "start": 193,
+        "end": 199
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "provincia caribeña",
+        "position": [
+          52,
+          70
+        ],
+        "start": 52,
+        "end": 70
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "hospital. el",
+        "position": [
+          768,
+          780
+        ],
+        "start": 768,
+        "end": 780
+      },
+      {
+        "category": "FECHAS_ESPECIFICAS",
+        "matched_text": "jueves 19 de junio",
+        "position": [
+          129,
+          147
+        ],
+        "start": 129,
+        "end": 147
+      },
+      {
+        "category": "NEOLIBERALISMO_MERCADO",
+        "matched_text": "privatización",
+        "position": [
+          1195,
+          1208
+        ],
+        "start": 1195,
+        "end": 1208
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "500 personas",
+        "position": [
+          1411,
+          1423
+        ],
+        "start": 1411,
+        "end": 1423
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "más de 500",
+        "position": [
+          1404,
+          1414
+        ],
+        "start": 1404,
+        "end": 1414
+      }
+    ],
+    "match_count": 17
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Rambala",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Luis Felipe Icaza",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Panamá",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Mulino",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Bocas del Toro",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Gobierno del presidente",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "LEA",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Gobierno",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "José Raúl Mulino",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Policía",
+        "tipo": "Organizacion"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Rambala",
+        "relacion": "MORIR",
+        "objeto": "Panamá"
+      },
+      {
+        "sujeto": "Bocas del Toro",
+        "relacion": "MORIR",
+        "objeto": "Panamá"
+      },
+      {
+        "sujeto": "Policía",
+        "relacion": "CONFIRMAR",
+        "objeto": "Luis Felipe Icaza"
+      },
+      {
+        "sujeto": "LEA",
+        "relacion": "CERRAR",
+        "objeto": "Panamá"
+      },
+      {
+        "sujeto": "Mulino",
+        "relacion": "CERRAR",
+        "objeto": "Panamá"
+      },
+      {
+        "sujeto": "Gobierno",
+        "relacion": "DESPLEGAR",
+        "objeto": "Bocas del Toro"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.6124,
+    "pos": 0.028,
+    "neu": 0.963,
+    "neg": 0.009,
+    "label": "positive"
+  }
+}

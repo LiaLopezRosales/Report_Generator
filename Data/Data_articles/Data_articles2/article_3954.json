@@ -1,0 +1,839 @@
+{
+  "url": "https://www.telesurtv.net/libano-advierte-con-romper-cooperacion-israel/",
+  "title": "Líbano advierte con romper cooperación en la tregua si persisten ataques israelíes - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "comité internacional",
+    "Guerra",
+    "Israel",
+    "Líbano"
+  ],
+  "text": "El Ejército del Líbano advirtió este viernes que podría suspender toda colaboración con el comité internacional encargado de supervisar el alto el fuego con Israel, en respuesta a los reiterados ataques israelíes contra su territorio.\n\nNawaf Salam, primer ministro del Líbano, condenó los ataques israelíes y anunció avances económicos, judiciales y de reconstrucción en el día 100 de su Gobierno. Su advertencia llegó tras una nueva ofensiva israelí, ocurrida la noche anterior, que tuvo como blanco suburbios del sur de Beirut.\nSegún las autoridades libanesas, los bombardeos afectaron zonas cercanas al barrio de Dahye, donde presuntamente operan instalaciones de Hizbulá.\n“Las continuas violaciones de Israel y su falta de cooperación con el comité internacional debilitan nuestras funciones y podrían obligarnos a interrumpir las inspecciones conjuntas”, señaló el comunicado oficial de las Fuerzas Armadas libanesas.\n\n\nEl mecanismo de supervisión forma parte de los compromisos adquiridos tras el cese de hostilidades alcanzado en noviembre de 2024, bajo la Resolución 1701 del Consejo de Seguridad de la ONU. Entre sus objetivos figura el desarme de grupos armados no estatales y el despliegue del Ejército en todo el sur del país, aunque Israel mantiene posiciones militares activas en cinco zonas fronterizas de las que se niega a retirarse.\nEl mando libanés subrayó que los ataques más recientes -ejecutados justo antes del inicio del Aíd al Adha- buscan desestabilizar al país y frustrar los esfuerzos por consolidar la seguridad. Reiteró su compromiso con el acuerdo de alto el fuego y la defensa de la soberanía nacional frente a lo que calificó como “agresiones diarias”.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/libano-advierte-con-romper-cooperacion-israel/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-06.json",
+    "message_index": 1931,
+    "message_id": 95749,
+    "date": "2025-06-06T15:55:13+00:00",
+    "text": "teleSUR\nLíbano advierte con romper cooperación en la tregua si persisten ataques israelíes\nhttps://www.telesurtv.net/libano-advierte-con-romper-cooperacion-israel/",
+    "photo_path": null,
+    "views": 1989,
+    "reactions": {
+      "👍": 39,
+      "❤": 1,
+      "🤔": 1,
+      "🤡": 1,
+      "😐": 1
+    },
+    "total_reactions": 43
+  },
+  "preprocessing": {
+    "cleaned": "el ejército del líbano advirtió este viernes que podría suspender toda colaboración con el comité internacional encargado de supervisar el alto el fuego con israel, en respuesta a los reiterados ataques israelíes contra su territorio. nawaf salam, primer ministro del líbano, condenó los ataques israelíes y anunció avances económicos, judiciales y de reconstrucción en el día 100 de su gobierno. su advertencia llegó tras una nueva ofensiva israelí, ocurrida la noche anterior, que tuvo como blanco suburbios del sur de beirut. según las autoridades libanesas, los bombardeos afectaron zonas cercanas al barrio de dahye, donde presuntamente operan instalaciones de hizbulá. “las continuas violaciones de israel y su falta de cooperación con el comité internacional debilitan nuestras funciones y podrían obligarnos a interrumpir las inspecciones conjuntas”, señaló el comunicado oficial de las fuerzas armadas libanesas. el mecanismo de supervisión forma parte de los compromisos adquiridos tras el cese de hostilidades alcanzado en noviembre de 2024, bajo la resolución 1701 del consejo de seguridad de la onu. entre sus objetivos figura el desarme de grupos armados no estatales y el despliegue del ejército en todo el sur del país, aunque israel mantiene posiciones militares activas en cinco zonas fronterizas de las que se niega a retirarse. el mando libanés subrayó que los ataques más recientes -ejecutados justo antes del inicio del aíd al adha- buscan desestabilizar al país y frustrar los esfuerzos por consolidar la seguridad. reiteró su compromiso con el acuerdo de alto el fuego y la defensa de la soberanía nacional frente a lo que calificó como “agresiones diarias”.",
+    "tokens": [
+      "ejército",
+      "líbano",
+      "advirtió",
+      "viernes",
+      "podría",
+      "suspender",
+      "toda",
+      "colaboración",
+      "comité",
+      "internacional",
+      "encargado",
+      "supervisar",
+      "alto",
+      "fuego",
+      "israel",
+      ",",
+      "respuesta",
+      "reiterados",
+      "ataques",
+      "israelíes",
+      "territorio",
+      ".",
+      "nawaf",
+      "salam",
+      ",",
+      "primer",
+      "ministro",
+      "líbano",
+      ",",
+      "condenó",
+      "ataques",
+      "israelíes",
+      "anunció",
+      "avances",
+      "económicos",
+      ",",
+      "judiciales",
+      "reconstrucción",
+      "día",
+      "100",
+      "gobierno",
+      ".",
+      "advertencia",
+      "llegó",
+      "tras",
+      "nueva",
+      "ofensiva",
+      "israelí",
+      ",",
+      "ocurrida",
+      "noche",
+      "anterior",
+      ",",
+      "blanco",
+      "suburbios",
+      "sur",
+      "beirut",
+      ".",
+      "según",
+      "autoridades",
+      "libanesas",
+      ",",
+      "bombardeos",
+      "afectaron",
+      "zonas",
+      "cercanas",
+      "barrio",
+      "dahye",
+      ",",
+      "presuntamente",
+      "operan",
+      "instalaciones",
+      "hizbulá",
+      ".",
+      "“",
+      "continuas",
+      "violaciones",
+      "israel",
+      "falta",
+      "cooperación",
+      "comité",
+      "internacional",
+      "debilitan",
+      "funciones",
+      "podrían",
+      "obligarnos",
+      "interrumpir",
+      "inspecciones",
+      "conjuntas",
+      "”",
+      ",",
+      "señaló",
+      "comunicado",
+      "oficial",
+      "fuerzas",
+      "armadas",
+      "libanesas",
+      ".",
+      "mecanismo",
+      "supervisión",
+      "forma",
+      "parte",
+      "compromisos",
+      "adquiridos",
+      "tras",
+      "cese",
+      "hostilidades",
+      "alcanzado",
+      "noviembre",
+      "2024",
+      ",",
+      "bajo",
+      "resolución",
+      "1701",
+      "consejo",
+      "seguridad",
+      "onu",
+      ".",
+      "objetivos",
+      "figura",
+      "desarme",
+      "grupos",
+      "armados",
+      "estatales",
+      "despliegue",
+      "ejército",
+      "sur",
+      "país",
+      ",",
+      "aunque",
+      "israel",
+      "mantiene",
+      "posiciones",
+      "militares",
+      "activas",
+      "cinco",
+      "zonas",
+      "fronterizas",
+      "niega",
+      "retirarse",
+      ".",
+      "mando",
+      "libanés",
+      "subrayó",
+      "ataques",
+      "recientes",
+      "-ejecutados",
+      "justo",
+      "inicio",
+      "aíd",
+      "adha-",
+      "buscan",
+      "desestabilizar",
+      "país",
+      "frustrar",
+      "esfuerzos",
+      "consolidar",
+      "seguridad",
+      ".",
+      "reiteró",
+      "compromiso",
+      "acuerdo",
+      "alto",
+      "fuego",
+      "defensa",
+      "soberanía",
+      "nacional",
+      "frente",
+      "calificó",
+      "“",
+      "agresiones",
+      "diarias",
+      "”",
+      "."
+    ],
+    "token_count": 174,
+    "sentence_count": 9
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 31,
+      "FW": 45,
+      "VBP": 16,
+      "NN": 85,
+      "NNS": 23,
+      "JJ": 28,
+      "IN": 9,
+      "CD": 3,
+      "VBZ": 5,
+      "VBD": 2,
+      "DT": 1
+    },
+    "bigram_freq": {
+      "NNP-NNP": 9,
+      "NNP-FW": 4,
+      "FW-NNP": 7,
+      "NNP-VBP": 1,
+      "VBP-NN": 3,
+      "NN-NNS": 11,
+      "NNS-VBP": 13,
+      "VBP-JJ": 10,
+      "JJ-NN": 18,
+      "NN-NN": 49,
+      "NN-VBP": 2,
+      "NN-IN": 6,
+      "IN-FW": 5,
+      "FW-FW": 27,
+      "FW-NN": 3,
+      "NN-NNP": 9,
+      "NNP-NN": 8,
+      "JJ-NNS": 2,
+      "VBP-NNS": 2,
+      "NNS-FW": 1,
+      "FW-CD": 2,
+      "CD-FW": 1,
+      "NNP-VBZ": 5,
+      "VBZ-JJ": 2,
+      "NNS-JJ": 2,
+      "JJ-JJ": 5,
+      "NN-FW": 5,
+      "FW-JJ": 6,
+      "VBZ-NNS": 1,
+      "IN-NNP": 3,
+      "NN-VBD": 1,
+      "VBD-NNS": 1,
+      "NNS-IN": 2,
+      "NNP-VBD": 1,
+      "VBD-NN": 1,
+      "NNS-NNS": 4,
+      "JJ-FW": 2,
+      "VBZ-NNP": 2,
+      "CD-NN": 2,
+      "NNP-CD": 1,
+      "NN-JJ": 2,
+      "JJ-DT": 1,
+      "DT-NNS": 1,
+      "NNP-NNS": 1,
+      "VBP-IN": 1,
+      "IN-NN": 1,
+      "NNP-JJ": 1
+    },
+    "trigram_freq": {
+      "NNP-NNP-FW": 1,
+      "NNP-FW-NNP": 2,
+      "FW-NNP-VBP": 1,
+      "NNP-VBP-NN": 1,
+      "VBP-NN-NNS": 2,
+      "NN-NNS-VBP": 7,
+      "NNS-VBP-JJ": 8,
+      "VBP-JJ-NN": 7,
+      "JJ-NN-NN": 10,
+      "NN-NN-NN": 28,
+      "NN-NN-VBP": 2,
+      "NN-VBP-JJ": 2,
+      "JJ-NN-IN": 3,
+      "NN-IN-FW": 5,
+      "IN-FW-FW": 2,
+      "FW-FW-FW": 17,
+      "FW-FW-NN": 2,
+      "FW-NN-NN": 2,
+      "NN-NN-NNP": 5,
+      "NN-NNP-NNP": 3,
+      "NNP-NNP-NN": 4,
+      "NNP-NN-NN": 7,
+      "NN-NN-NNS": 6,
+      "NN-NNP-NN": 2,
+      "VBP-JJ-NNS": 1,
+      "JJ-NNS-VBP": 1,
+      "NNS-VBP-NNS": 2,
+      "VBP-NNS-FW": 1,
+      "NNS-FW-FW": 1,
+      "FW-FW-CD": 2,
+      "FW-CD-FW": 1,
+      "CD-FW-FW": 1,
+      "FW-FW-NNP": 3,
+      "FW-NNP-NNP": 4,
+      "NNP-NNP-VBZ": 3,
+      "NNP-VBZ-JJ": 2,
+      "VBZ-JJ-NNS": 1,
+      "JJ-NNS-JJ": 1,
+      "NNS-JJ-JJ": 2,
+      "JJ-JJ-NN": 3,
+      "NN-NN-FW": 3,
+      "NN-FW-JJ": 1,
+      "FW-JJ-NN": 5,
+      "NNS-VBP-NN": 2,
+      "VBP-NN-FW": 1,
+      "NN-FW-NNP": 2,
+      "NNP-VBZ-NNS": 1,
+      "VBZ-NNS-JJ": 1,
+      "NN-NN-IN": 2,
+      "NN-IN-NNP": 1,
+      "IN-NNP-NN": 1,
+      "NN-NN-VBD": 1,
+      "NN-VBD-NNS": 1,
+      "VBD-NNS-IN": 1,
+      "NNS-IN-NNP": 2,
+      "IN-NNP-NNP": 1,
+      "NNP-NN-NNS": 1,
+      "NN-NNS-IN": 1,
+      "IN-NNP-VBD": 1,
+      "NNP-VBD-NN": 1,
+      "VBD-NN-IN": 1,
+      "IN-FW-NN": 1,
+      "JJ-NN-NNS": 2,
+      "NN-NNS-NNS": 3,
+      "NNS-NNS-VBP": 3,
+      "VBP-JJ-JJ": 1,
+      "JJ-JJ-JJ": 1,
+      "JJ-JJ-FW": 1,
+      "JJ-FW-FW": 2,
+      "NNP-VBZ-NNP": 2,
+      "VBZ-NNP-FW": 1,
+      "NNP-FW-FW": 2,
+      "FW-FW-JJ": 3,
+      "IN-FW-JJ": 2,
+      "VBP-JJ-FW": 1,
+      "FW-CD-NN": 1,
+      "CD-NN-NN": 1,
+      "NN-NNP-CD": 1,
+      "NNP-CD-NN": 1,
+      "CD-NN-NNP": 1,
+      "NN-NNP-FW": 1,
+      "FW-NNP-FW": 1,
+      "NN-NN-JJ": 2,
+      "NN-JJ-NN": 2,
+      "FW-JJ-DT": 1,
+      "JJ-DT-NNS": 1,
+      "DT-NNS-VBP": 1,
+      "JJ-NN-NNP": 3,
+      "NN-NNP-VBZ": 2,
+      "VBZ-JJ-JJ": 1,
+      "NNP-NNP-NNS": 1,
+      "NNP-NNS-NNS": 1,
+      "NNS-VBP-IN": 1,
+      "VBP-IN-NN": 1,
+      "IN-NN-NN": 1,
+      "VBP-NNS-VBP": 1,
+      "VBZ-NNP-JJ": 1,
+      "NNP-JJ-NN": 1,
+      "FW-NNP-NN": 1,
+      "NN-FW-FW": 2,
+      "FW-NN-FW": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 85,
+        "FW": 45,
+        "NNP": 31,
+        "JJ": 28,
+        "NNS": 23
+      },
+      "top_bigrams": {
+        "NN-NN": 49,
+        "FW-FW": 27,
+        "JJ-NN": 18,
+        "NNS-VBP": 13,
+        "NN-NNS": 11
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 28,
+        "FW-FW-FW": 17,
+        "JJ-NN-NN": 10,
+        "NNS-VBP-JJ": 8,
+        "NN-NNS-VBP": 7
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 9,
+    "chunk_counts": {
+      "NP": 61,
+      "VP": 23,
+      "PP": 5,
+      "ADJP": 2
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 4,
+        "weight": 0.04
+      },
+      {
+        "rule": "VP -> ('israelíes', 'VBP') NP",
+        "frequency": 2,
+        "weight": 0.02
+      },
+      {
+        "rule": "VP -> ('del', 'VBP') NP",
+        "frequency": 2,
+        "weight": 0.02
+      },
+      {
+        "rule": "S -> NP ('del', 'FW') NP VP VP VP ('de', 'IN') ('supervisar', 'FW') ('el', 'FW') ('alto', 'FW') ('el', 'FW') NP (',', ',') ('en', 'FW') ('respuesta', 'FW') NP VP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.01
+      },
+      {
+        "rule": "NP -> ('El', 'NNP') ('Ejército', 'NNP')",
+        "frequency": 1,
+        "weight": 0.01
+      },
+      {
+        "rule": "NP -> ('Líbano', 'NNP')",
+        "frequency": 1,
+        "weight": 0.01
+      },
+      {
+        "rule": "VP -> ('advirtió', 'VBP') NP",
+        "frequency": 1,
+        "weight": 0.01
+      },
+      {
+        "rule": "NP -> ('este', 'NN') ('viernes', 'NNS')",
+        "frequency": 1,
+        "weight": 0.01
+      },
+      {
+        "rule": "VP -> ('que', 'VBP') NP",
+        "frequency": 1,
+        "weight": 0.01
+      },
+      {
+        "rule": "NP -> ('podría', 'JJ') ('suspender', 'NN') ('toda', 'NN') ('colaboración', 'NN') ('con', 'NN') ('el', 'NN')",
+        "frequency": 1,
+        "weight": 0.01
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El Ejército"
+      },
+      {
+        "label": "NP",
+        "text": "Líbano"
+      },
+      {
+        "label": "VP",
+        "text": "advirtió este viernes"
+      },
+      {
+        "label": "NP",
+        "text": "este viernes"
+      },
+      {
+        "label": "VP",
+        "text": "que podría suspender toda colaboración con el"
+      },
+      {
+        "label": "NP",
+        "text": "podría suspender toda colaboración con el"
+      },
+      {
+        "label": "VP",
+        "text": "comité internacional encargado"
+      },
+      {
+        "label": "NP",
+        "text": "internacional encargado"
+      },
+      {
+        "label": "NP",
+        "text": "fuego con Israel"
+      },
+      {
+        "label": "NP",
+        "text": "a los reiterados ataques"
+      },
+      {
+        "label": "VP",
+        "text": "israelíes contra su territorio"
+      },
+      {
+        "label": "NP",
+        "text": "contra su territorio"
+      },
+      {
+        "label": "NP",
+        "text": "Nawaf Salam"
+      },
+      {
+        "label": "NP",
+        "text": "primer ministro del Líbano"
+      },
+      {
+        "label": "NP",
+        "text": "condenó los ataques"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP El/NNP Ejército/NNP)\n  del/FW\n  (NP Líbano/NNP)\n  (VP advirtió/VBP (NP este/NN viernes/NNS))\n  (VP\n    que/VBP\n    (NP podría/JJ suspender/NN toda/NN colaboración/NN con/NN el/NN))\n  (VP comité/VBP (NP internacional/JJ encargado/NN))\n  de/IN\n  supervisar/FW\n  el/FW\n  alto/FW\n  el/FW\n  (NP fuego/NN con/NN Israel/NNP)\n  ,/,\n  en/FW\n  respuesta/FW\n  (NP a/DT los/NN reiterados/NN ataques/NNS)\n  (VP israelíes/VBP (NP contra/JJ su/NN territorio/NN))\n  ./.)",
+      "(S\n  (NP Nawaf/NNP Salam/NNP)\n  ,/,\n  (NP primer/NN ministro/NN del/NN Líbano/NNP)\n  ,/,\n  (NP condenó/NN los/NN ataques/NNS)\n  (VP israelíes/VBP (NP y/JJ anunció/NN avances/NNS))\n  (VP económicos/VBP)\n  ,/,\n  (NP judiciales/NNS)\n  (VP y/VBP)\n  de/IN\n  reconstrucción/FW\n  en/FW\n  el/FW\n  día/FW\n  100/CD\n  de/FW\n  su/FW\n  (NP Gobierno/NNP)\n  ./.)",
+      "(S\n  (NP Su/NNP advertencia/NN llegó/NN tras/NNS)\n  (NP una/JJ nueva/JJ ofensiva/NN israelí/NN)\n  ,/,\n  (NP ocurrida/JJ la/NN noche/NN)\n  anterior/RB\n  ,/,\n  (NP que/JJ tuvo/NN como/NN blanco/NN suburbios/NNS)\n  (VP del/VBP (NP sur/NN))\n  (PP de/IN (NP Beirut/NNP))\n  ./.)",
+      "(S\n  (NP Según/NNP)\n  (VP las/VBZ (NP autoridades/NNS libanesas/NN))\n  ,/,\n  (NP\n    los/JJ\n    bombardeos/NN\n    afectaron/NN\n    zonas/NN\n    cercanas/NN\n    al/NN\n    barrio/NN)\n  (PP de/IN (NP Dahye/NNP))\n  ,/,\n  (NP donde/NN presuntamente/NN)\n  (VP operan/VBD (NP instalaciones/NNS))\n  (PP de/IN (NP Hizbulá/NNP))\n  ./.)",
+      "(S\n  (NP “/JJ Las/NNP continuas/NN violaciones/NNS)\n  (PP de/IN (NP Israel/NNP y/NNP))\n  (VP su/VBD falta/JJ)\n  de/FW\n  cooperación/FW\n  (NP con/NN el/NN)\n  (VP\n    comité/VBP\n    (NP internacional/JJ debilitan/NN nuestras/NNS funciones/NNS)\n    y/RB)\n  (VP podrían/VBP)\n  obligarnos/RP\n  (NP a/DT interrumpir/NN las/NN inspecciones/NNS conjuntas/NNS)\n  ”/RB\n  ,/,\n  (NP señaló/JJ el/NN comunicado/NN)\n  (ADJP oficial/JJ)\n  de/FW\n  las/FW\n  (NP Fuerzas/NNP Armadas/NNP libanesas/NN)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "GOBIERNOS_OFICIALES",
+      "ORGANISMOS_INTERNACIONALES",
+      "APROBACION_RECHAZO",
+      "LEYES_NORMATIVAS",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "ANTIIMPERIALISMO_SOBERANIA",
+      "PERIODOS_TEMPORALES",
+      "PAISES",
+      "LOCALIZACIONES_ESPECIFICAS",
+      "CONFLICTOS_ARMADOS_OPERACIONES",
+      "RELACIONES_INTERNACIONALES",
+      "JURIDICO_LEGISLATIVO_CORRUPCION"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "cese de hostilidades",
+        "position": [
+          1003,
+          1023
+        ],
+        "start": 1003,
+        "end": 1023
+      },
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "ataques israelíes",
+        "position": [
+          195,
+          212
+        ],
+        "start": 195,
+        "end": 212
+      },
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "ejército del líbano advirtió este viernes que podría suspender toda colaboración con el comité internacional encargado de supervisar el alto el fuego con israel, en respuesta a los reiterados ataques israelíes contra su territorio",
+        "position": [
+          3,
+          233
+        ],
+        "start": 3,
+        "end": 233
+      },
+      {
+        "category": "RELACIONES_INTERNACIONALES",
+        "matched_text": "cooperación con el comité internacional",
+        "position": [
+          727,
+          766
+        ],
+        "start": 727,
+        "end": 766
+      },
+      {
+        "category": "RELACIONES_INTERNACIONALES",
+        "matched_text": "condenó los ataques israelíes y anunció avances económicos, judiciales y de reconstrucción en el día 100 de su gobierno. su",
+        "position": [
+          277,
+          400
+        ],
+        "start": 277,
+        "end": 400
+      },
+      {
+        "category": "RELACIONES_INTERNACIONALES",
+        "matched_text": "cooperación con el comité internacional debilitan nuestras funciones y podrían obligarnos",
+        "position": [
+          727,
+          816
+        ],
+        "start": 727,
+        "end": 816
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "señaló",
+        "position": [
+          860,
+          866
+        ],
+        "start": 860,
+        "end": 866
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "anunció",
+        "position": [
+          309,
+          316
+        ],
+        "start": 309,
+        "end": 316
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "advirtió",
+        "position": [
+          23,
+          31
+        ],
+        "start": 23,
+        "end": 31
+      },
+      {
+        "category": "JURIDICO_LEGISLATIVO_CORRUPCION",
+        "matched_text": "defensa",
+        "position": [
+          1601,
+          1608
+        ],
+        "start": 1601,
+        "end": 1608
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "ministro del líbano",
+        "position": [
+          256,
+          275
+        ],
+        "start": 256,
+        "end": 275
+      },
+      {
+        "category": "ORGANISMOS_INTERNACIONALES",
+        "matched_text": "onu",
+        "position": [
+          1111,
+          1114
+        ],
+        "start": 1111,
+        "end": 1114
+      },
+      {
+        "category": "APROBACION_RECHAZO",
+        "matched_text": "condenó",
+        "position": [
+          277,
+          284
+        ],
+        "start": 277,
+        "end": 284
+      },
+      {
+        "category": "APROBACION_RECHAZO",
+        "matched_text": "subrayó",
+        "position": [
+          1368,
+          1375
+        ],
+        "start": 1368,
+        "end": 1375
+      },
+      {
+        "category": "LEYES_NORMATIVAS",
+        "matched_text": "resolución 1701",
+        "position": [
+          1064,
+          1079
+        ],
+        "start": 1064,
+        "end": 1079
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "líbano",
+        "position": [
+          16,
+          22
+        ],
+        "start": 16,
+        "end": 22
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "barrio de",
+        "position": [
+          606,
+          615
+        ],
+        "start": 606,
+        "end": 615
+      },
+      {
+        "category": "PERIODOS_TEMPORALES",
+        "matched_text": "en el día",
+        "position": [
+          368,
+          377
+        ],
+        "start": 368,
+        "end": 377
+      },
+      {
+        "category": "ANTIIMPERIALISMO_SOBERANIA",
+        "matched_text": "soberanía nacional",
+        "position": [
+          1615,
+          1633
+        ],
+        "start": 1615,
+        "end": 1633
+      }
+    ],
+    "match_count": 19
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Nawaf Salam",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Resolución",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "comité internacional",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "comité internacional encargado de supervisar el alto el fuego",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Consejo de Seguridad de la ONU",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Líbano",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Israel",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Gobierno",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Hizbulá",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Fuerzas Armadas libanesas",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Ejército del Líbano",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Beirut",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Aíd",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Dahye",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Ejército del Líbano",
+        "relacion": "ADVERTIR",
+        "objeto": "comité internacional encargado de supervisar el alto el fuego"
+      },
+      {
+        "sujeto": "Ejército del Líbano",
+        "relacion": "ADVERTIR",
+        "objeto": "Israel"
+      },
+      {
+        "sujeto": "Nawaf Salam",
+        "relacion": "CONDENAR",
+        "objeto": "Gobierno"
+      },
+      {
+        "sujeto": "Líbano",
+        "relacion": "CONDENAR",
+        "objeto": "Gobierno"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "DEBILITAR_SE_ALAR",
+        "objeto": "Fuerzas Armadas libanesas"
+      },
+      {
+        "sujeto": "comité internacional",
+        "relacion": "DEBILITAR_SE_ALAR",
+        "objeto": "Fuerzas Armadas libanesas"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.296,
+    "pos": 0.0,
+    "neu": 0.991,
+    "neg": 0.009,
+    "label": "negative"
+  }
+}

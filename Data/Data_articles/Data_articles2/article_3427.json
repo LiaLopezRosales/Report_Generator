@@ -1,0 +1,739 @@
+{
+  "url": "https://www.telesurtv.net/guerra-abierta-iran-misiles-territorio-israel/",
+  "title": "Guerra abierta: Irán lanza 30 misiles en dos minutos contra territorios de Israel - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "conflicto destacado",
+    "Guerra abierta",
+    "Irán",
+    "Israel",
+    "Misiles",
+    "Ofensiva"
+  ],
+  "text": "Las Fuerzas Armadas de Irán continúan respondiendo a los ataques de Tel Aviv con una nueva ofensiva. Medios locales aseguran que Teherán ha logrado lanzar al menos 30 misiles en dos minutos, lo que demuestra la capacidad de respuesta del lado iraní.\nEn paralelo, se registran alarmas de sirenas antiaéreas que han sonado en varios territorios de Israel durante la noche de este martes.\nAsimismo, medios locales reportan el cruce de misiles por el espacio aéreo de la capital israelí. Al tiempo que, de la parte del régimen sionista, se han detectado ataques contra los territorios de Haifa y los lugares circundantes.\nEntretanto, se registra la caída de misiles en los territorios de Jerusalén y Sharon sin que se hubieran activado alarmas previas. Así como ataques en el centro de Israel.\nLa reunión de evaluación de la situación del régimen israelí con los líderes de seguridad, concluyó poco después de los primeros reportes de impacto.\nAunque no se proporcionaron detalles inmediatos sobre víctimas, las explosiones afectaron tanto el norte como el sur de Israel, con un enfoque particular en el centro del país.\nLa respuesta de Teherán busca busca desmantelar infraestructura militar clave, al tiempo que el asesor del comandante del Cuerpo de la Guardia Revolucionaria Islámica (CGRI), general Ahmad Vahidides asegura que “no h(an) utilizado nuestras capacidades estratégicas“.\nLa escalada comenzó con ataques aéreos sorpresa de Israel en Irán en la madrugada del pasado viernes, y la República Islámica se defendió con misiles.\nEste intercambio ha generado preocupación internacional por sus posibles repercusiones en la estabilidad regional y el suministro energético. Irán ha dejado claro que esta operación es una respuesta a los bombardeos de Israel.\n",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/guerra-abierta-iran-misiles-territorio-israel/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-06.json",
+    "message_index": 1003,
+    "message_id": 96765,
+    "date": "2025-06-17T22:55:18+00:00",
+    "text": "teleSUR\nGuerra abierta: Irán lanza 30 misiles en dos minutos contra territorios de Israel\nhttps://www.telesurtv.net/guerra-abierta-iran-misiles-territorio-israel/",
+    "photo_path": null,
+    "views": 3409,
+    "reactions": {
+      "👏": 76,
+      "❤": 16,
+      "🔥": 8,
+      "🏆": 4,
+      "🫡": 3
+    },
+    "total_reactions": 107
+  },
+  "preprocessing": {
+    "cleaned": "las fuerzas armadas de irán continúan respondiendo a los ataques de tel aviv con una nueva ofensiva. medios locales aseguran que teherán ha logrado lanzar al menos 30 misiles en dos minutos, lo que demuestra la capacidad de respuesta del lado iraní. en paralelo, se registran alarmas de sirenas antiaéreas que han sonado en varios territorios de israel durante la noche de este martes. asimismo, medios locales reportan el cruce de misiles por el espacio aéreo de la capital israelí. al tiempo que, de la parte del régimen sionista, se han detectado ataques contra los territorios de haifa y los lugares circundantes. entretanto, se registra la caída de misiles en los territorios de jerusalén y sharon sin que se hubieran activado alarmas previas. así como ataques en el centro de israel. la reunión de evaluación de la situación del régimen israelí con los líderes de seguridad, concluyó poco después de los primeros reportes de impacto. aunque no se proporcionaron detalles inmediatos sobre víctimas, las explosiones afectaron tanto el norte como el sur de israel, con un enfoque particular en el centro del país. la respuesta de teherán busca busca desmantelar infraestructura militar clave, al tiempo que el asesor del comandante del cuerpo de la guardia revolucionaria islámica (cgri), general ahmad vahidides asegura que “no h(an) utilizado nuestras capacidades estratégicas“. la escalada comenzó con ataques aéreos sorpresa de israel en irán en la madrugada del pasado viernes, y la república islámica se defendió con misiles. este intercambio ha generado preocupación internacional por sus posibles repercusiones en la estabilidad regional y el suministro energético. irán ha dejado claro que esta operación es una respuesta a los bombardeos de israel.",
+    "tokens": [
+      "fuerzas",
+      "armadas",
+      "irán",
+      "continúan",
+      "respondiendo",
+      "ataques",
+      "tel",
+      "aviv",
+      "nueva",
+      "ofensiva",
+      ".",
+      "medios",
+      "locales",
+      "aseguran",
+      "teherán",
+      "logrado",
+      "lanzar",
+      "menos",
+      "30",
+      "misiles",
+      "dos",
+      "minutos",
+      ",",
+      "demuestra",
+      "capacidad",
+      "respuesta",
+      "lado",
+      "iraní",
+      ".",
+      "paralelo",
+      ",",
+      "registran",
+      "alarmas",
+      "sirenas",
+      "antiaéreas",
+      "sonado",
+      "varios",
+      "territorios",
+      "israel",
+      "noche",
+      "martes",
+      ".",
+      "asimismo",
+      ",",
+      "medios",
+      "locales",
+      "reportan",
+      "cruce",
+      "misiles",
+      "espacio",
+      "aéreo",
+      "capital",
+      "israelí",
+      ".",
+      "tiempo",
+      ",",
+      "parte",
+      "régimen",
+      "sionista",
+      ",",
+      "detectado",
+      "ataques",
+      "territorios",
+      "haifa",
+      "lugares",
+      "circundantes",
+      ".",
+      "entretanto",
+      ",",
+      "registra",
+      "caída",
+      "misiles",
+      "territorios",
+      "jerusalén",
+      "sharon",
+      "activado",
+      "alarmas",
+      "previas",
+      ".",
+      "así",
+      "ataques",
+      "centro",
+      "israel",
+      ".",
+      "reunión",
+      "evaluación",
+      "situación",
+      "régimen",
+      "israelí",
+      "líderes",
+      "seguridad",
+      ",",
+      "concluyó",
+      "después",
+      "primeros",
+      "reportes",
+      "impacto",
+      ".",
+      "aunque",
+      "proporcionaron",
+      "detalles",
+      "inmediatos",
+      "víctimas",
+      ",",
+      "explosiones",
+      "afectaron",
+      "norte",
+      "sur",
+      "israel",
+      ",",
+      "enfoque",
+      "particular",
+      "centro",
+      "país",
+      ".",
+      "respuesta",
+      "teherán",
+      "busca",
+      "busca",
+      "desmantelar",
+      "infraestructura",
+      "militar",
+      "clave",
+      ",",
+      "tiempo",
+      "asesor",
+      "comandante",
+      "cuerpo",
+      "guardia",
+      "revolucionaria",
+      "islámica",
+      "(",
+      "cgri",
+      ")",
+      ",",
+      "general",
+      "ahmad",
+      "vahidides",
+      "asegura",
+      "“",
+      "h",
+      "(",
+      "an",
+      ")",
+      "utilizado",
+      "capacidades",
+      "estratégicas",
+      "“",
+      ".",
+      "escalada",
+      "comenzó",
+      "ataques",
+      "aéreos",
+      "sorpresa",
+      "israel",
+      "irán",
+      "madrugada",
+      "pasado",
+      "viernes",
+      ",",
+      "república",
+      "islámica",
+      "defendió",
+      "misiles",
+      ".",
+      "intercambio",
+      "generado",
+      "preocupación",
+      "internacional",
+      "posibles",
+      "repercusiones",
+      "estabilidad",
+      "regional",
+      "suministro",
+      "energético",
+      ".",
+      "irán",
+      "dejado",
+      "claro",
+      "operación",
+      "respuesta",
+      "bombardeos",
+      "israel",
+      "."
+    ],
+    "token_count": 184,
+    "sentence_count": 13
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 40,
+      "IN": 15,
+      "NN": 77,
+      "NNS": 22,
+      "JJ": 27,
+      "VBZ": 5,
+      "RB": 1,
+      "VBD": 3,
+      "$": 1,
+      "CD": 1,
+      "FW": 61,
+      "VBP": 14,
+      "DT": 3,
+      "VBN": 1
+    },
+    "bigram_freq": {
+      "NNP-NNP": 12,
+      "NNP-IN": 1,
+      "IN-NNP": 7,
+      "NNP-NN": 13,
+      "NN-NN": 36,
+      "NN-NNS": 8,
+      "NNS-IN": 6,
+      "NN-JJ": 8,
+      "JJ-JJ": 2,
+      "JJ-NN": 16,
+      "NN-NNP": 6,
+      "NNP-VBZ": 1,
+      "VBZ-RB": 1,
+      "RB-JJ": 1,
+      "JJ-NNP": 2,
+      "NN-VBD": 2,
+      "VBD-$": 1,
+      "$-CD": 1,
+      "CD-NNS": 1,
+      "NNS-FW": 1,
+      "FW-FW": 37,
+      "FW-JJ": 3,
+      "JJ-FW": 3,
+      "FW-NN": 9,
+      "VBD-FW": 1,
+      "FW-NNS": 5,
+      "NNS-VBP": 11,
+      "VBP-JJ": 8,
+      "NN-IN": 7,
+      "IN-FW": 6,
+      "NNP-FW": 7,
+      "NNS-NNP": 2,
+      "NNP-NNS": 1,
+      "NNS-VBZ": 1,
+      "VBZ-JJ": 1,
+      "IN-NNS": 1,
+      "NN-FW": 5,
+      "JJ-NNS": 4,
+      "NN-VBZ": 2,
+      "VBZ-VBZ": 1,
+      "VBZ-NNP": 1,
+      "FW-NNP": 7,
+      "NNP-DT": 1,
+      "DT-NN": 1,
+      "VBP-IN": 1,
+      "IN-NN": 1,
+      "NN-VBP": 2,
+      "VBP-VBN": 1,
+      "VBN-JJ": 1,
+      "NNP-JJ": 1,
+      "NN-DT": 1,
+      "DT-DT": 1,
+      "DT-JJ": 1,
+      "NNS-NNS": 1,
+      "VBP-NNP": 2,
+      "VBP-FW": 1,
+      "NNP-VBD": 1,
+      "VBD-JJ": 1,
+      "NNP-VBP": 1,
+      "VBP-NN": 1,
+      "VBZ-NNS": 1
+    },
+    "trigram_freq": {
+      "NNP-NNP-NNP": 3,
+      "NNP-NNP-IN": 1,
+      "NNP-IN-NNP": 1,
+      "IN-NNP-NN": 3,
+      "NNP-NN-NN": 9,
+      "NN-NN-NN": 15,
+      "NN-NN-NNS": 5,
+      "NN-NNS-IN": 1,
+      "NNS-IN-NNP": 3,
+      "IN-NNP-NNP": 3,
+      "NNP-NNP-NN": 4,
+      "NNP-NN-JJ": 1,
+      "NN-JJ-JJ": 1,
+      "JJ-JJ-NN": 1,
+      "JJ-NN-NNP": 1,
+      "NN-NNP-VBZ": 1,
+      "NNP-VBZ-RB": 1,
+      "VBZ-RB-JJ": 1,
+      "RB-JJ-NNP": 1,
+      "JJ-NNP-NN": 1,
+      "NN-NN-VBD": 2,
+      "NN-VBD-$": 1,
+      "VBD-$-CD": 1,
+      "$-CD-NNS": 1,
+      "CD-NNS-FW": 1,
+      "NNS-FW-FW": 1,
+      "FW-FW-FW": 25,
+      "FW-FW-JJ": 2,
+      "FW-JJ-FW": 2,
+      "JJ-FW-FW": 1,
+      "FW-FW-NN": 2,
+      "FW-NN-NNP": 2,
+      "NN-NNP-NN": 3,
+      "NN-VBD-FW": 1,
+      "VBD-FW-FW": 1,
+      "FW-FW-NNS": 4,
+      "FW-NNS-VBP": 3,
+      "NNS-VBP-JJ": 7,
+      "VBP-JJ-NN": 5,
+      "JJ-NN-IN": 4,
+      "NN-IN-FW": 3,
+      "IN-FW-NNS": 1,
+      "FW-NNS-IN": 1,
+      "NNP-NNP-FW": 2,
+      "NNP-FW-FW": 5,
+      "FW-NNS-NNP": 1,
+      "NNS-NNP-NNS": 1,
+      "NNP-NNS-VBZ": 1,
+      "NNS-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 1,
+      "JJ-NN-NN": 6,
+      "NN-NN-IN": 2,
+      "NN-IN-NNS": 1,
+      "IN-NNS-VBP": 1,
+      "VBP-JJ-FW": 1,
+      "JJ-FW-NN": 2,
+      "FW-NN-IN": 1,
+      "IN-FW-NN": 2,
+      "FW-NN-NN": 4,
+      "NN-NN-NNP": 3,
+      "NN-NNP-NNP": 1,
+      "NNP-NN-FW": 1,
+      "NN-FW-FW": 2,
+      "NN-NNS-VBP": 6,
+      "VBP-JJ-NNS": 1,
+      "JJ-NNS-IN": 3,
+      "NNP-NN-VBZ": 1,
+      "NN-VBZ-VBZ": 1,
+      "VBZ-VBZ-NNP": 1,
+      "VBZ-NNP-NN": 1,
+      "NN-NN-FW": 2,
+      "FW-FW-NNP": 4,
+      "FW-NNP-NNP": 2,
+      "NNP-NN-NNS": 1,
+      "NN-IN-NNP": 3,
+      "VBP-JJ-JJ": 1,
+      "JJ-JJ-NNS": 1,
+      "NNS-IN-FW": 3,
+      "IN-FW-JJ": 1,
+      "FW-JJ-NNS": 1,
+      "IN-FW-NNP": 1,
+      "FW-NNP-DT": 1,
+      "NNP-DT-NN": 1,
+      "DT-NN-NN": 1,
+      "NNS-VBP-IN": 1,
+      "VBP-IN-NN": 1,
+      "IN-NN-JJ": 1,
+      "NN-JJ-NN": 7,
+      "JJ-NN-JJ": 3,
+      "NN-NN-JJ": 3,
+      "JJ-NN-FW": 1,
+      "NN-FW-NN": 2,
+      "FW-NN-FW": 1,
+      "NN-NNP-FW": 1,
+      "FW-NNP-NN": 1,
+      "NN-NN-VBP": 2,
+      "NN-VBP-VBN": 1,
+      "VBP-VBN-JJ": 1,
+      "VBN-JJ-NN": 1,
+      "NN-FW-NNP": 1,
+      "FW-NNP-FW": 3,
+      "NNP-NNP-JJ": 1,
+      "NNP-JJ-NNP": 1,
+      "JJ-NNP-NNP": 1,
+      "NN-NN-DT": 1,
+      "NN-DT-DT": 1,
+      "DT-DT-JJ": 1,
+      "DT-JJ-NNS": 1,
+      "JJ-NNS-NNS": 1,
+      "NNS-NNS-VBP": 1,
+      "NNS-VBP-NNP": 2,
+      "VBP-NNP-FW": 1,
+      "NNP-FW-NN": 1,
+      "NNS-VBP-FW": 1,
+      "VBP-FW-FW": 1,
+      "NNP-FW-NNP": 1,
+      "FW-NN-NNS": 1,
+      "VBP-NNP-NNP": 1,
+      "NNP-NNP-VBD": 1,
+      "NNP-VBD-JJ": 1,
+      "VBD-JJ-NN": 1,
+      "JJ-NN-NNS": 1,
+      "NN-NNS-NNP": 1,
+      "NNS-NNP-VBP": 1,
+      "NNP-VBP-NN": 1,
+      "VBP-NN-NN": 1,
+      "NN-VBP-JJ": 1,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-NNS": 1,
+      "VBZ-NNS-IN": 1,
+      "IN-FW-FW": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 77,
+        "FW": 61,
+        "NNP": 40,
+        "JJ": 27,
+        "NNS": 22
+      },
+      "top_bigrams": {
+        "FW-FW": 37,
+        "NN-NN": 36,
+        "JJ-NN": 16,
+        "NNP-NN": 13,
+        "NNP-NNP": 12
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 25,
+        "NN-NN-NN": 15,
+        "NNP-NN-NN": 9,
+        "NNS-VBP-JJ": 7,
+        "NN-JJ-NN": 7
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 13,
+    "chunk_counts": {
+      "NP": 82,
+      "PP": 10,
+      "VP": 20,
+      "ADJP": 1
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 10,
+        "weight": 0.0794
+      },
+      {
+        "rule": "NP -> ('Israel', 'NNP')",
+        "frequency": 4,
+        "weight": 0.0317
+      },
+      {
+        "rule": "NP -> ('La', 'NNP')",
+        "frequency": 3,
+        "weight": 0.0238
+      },
+      {
+        "rule": "NP -> ('Irán', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0159
+      },
+      {
+        "rule": "NP -> ('misiles', 'NNS')",
+        "frequency": 2,
+        "weight": 0.0159
+      },
+      {
+        "rule": "NP -> ('régimen', 'NNS')",
+        "frequency": 2,
+        "weight": 0.0159
+      },
+      {
+        "rule": "S -> NP PP VP VP PP NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0079
+      },
+      {
+        "rule": "NP -> ('Las', 'NNP') ('Fuerzas', 'NNP') ('Armadas', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0079
+      },
+      {
+        "rule": "VP -> ('continúan', 'VBP')",
+        "frequency": 1,
+        "weight": 0.0079
+      },
+      {
+        "rule": "VP -> ('respondiendo', 'VB') NP",
+        "frequency": 1,
+        "weight": 0.0079
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Las Fuerzas Armadas"
+      },
+      {
+        "label": "PP",
+        "text": "de Irán"
+      },
+      {
+        "label": "NP",
+        "text": "Irán"
+      },
+      {
+        "label": "VP",
+        "text": "continúan"
+      },
+      {
+        "label": "VP",
+        "text": "respondiendo a los ataques"
+      },
+      {
+        "label": "NP",
+        "text": "a los ataques"
+      },
+      {
+        "label": "PP",
+        "text": "de Tel Aviv con"
+      },
+      {
+        "label": "NP",
+        "text": "Tel Aviv con"
+      },
+      {
+        "label": "NP",
+        "text": "una nueva ofensiva"
+      },
+      {
+        "label": "NP",
+        "text": "Medios"
+      },
+      {
+        "label": "VP",
+        "text": "locales aseguran que Teherán ha logrado lanzar"
+      },
+      {
+        "label": "NP",
+        "text": "aseguran que Teherán ha logrado lanzar"
+      },
+      {
+        "label": "VP",
+        "text": "al"
+      },
+      {
+        "label": "NP",
+        "text": "misiles"
+      },
+      {
+        "label": "NP",
+        "text": "dos minutos"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Las/NNP Fuerzas/NNP Armadas/NNP)\n  (PP de/IN (NP Irán/NNP))\n  (VP continúan/VBP)\n  (VP respondiendo/VB (NP a/DT los/JJ ataques/NNS))\n  (PP de/IN (NP Tel/NNP Aviv/NNP con/NN))\n  (NP una/JJ nueva/JJ ofensiva/NN)\n  ./.)",
+      "(S\n  (NP Medios/NNS)\n  (VP\n    locales/VBZ\n    (NP aseguran/JJ que/NN Teherán/NNP ha/NN logrado/NN lanzar/NN))\n  (VP al/VBD)\n  menos/$\n  30/CD\n  (NP misiles/NNS)\n  en/FW\n  (NP dos/NN minutos/NN)\n  ,/,\n  (NP lo/JJ que/NN demuestra/NN)\n  la/FW\n  capacidad/FW\n  de/FW\n  respuesta/FW\n  del/FW\n  lado/FW\n  (NP iraní/NN)\n  ./.)",
+      "(S\n  (NP En/NNP paralelo/NN)\n  ,/,\n  se/FW\n  (NP registran/NN)\n  alarmas/FW\n  de/FW\n  sirenas/FW\n  (NP antiaéreas/NNS)\n  (VP que/VBP (NP han/JJ sonado/NN))\n  en/IN\n  varios/FW\n  (NP territorios/NNS)\n  (PP de/IN (NP Israel/NNP durante/NNP))\n  la/FW\n  noche/FW\n  de/FW\n  este/FW\n  (NP martes/NNS)\n  ./.)",
+      "(S\n  (NP Asimismo/NNP)\n  ,/,\n  (NP medios/NNS locales/NNS)\n  (VP reportan/VBP (NP el/JJ cruce/NN))\n  (PP de/IN (NP misiles/NNS))\n  (VP por/VBP el/JJ)\n  espacio/FW\n  (NP aéreo/NN)\n  de/IN\n  la/FW\n  (NP capital/NN israelí/NN)\n  ./.)",
+      "(S\n  (NP Al/NNP tiempo/NN que/NN)\n  ,/,\n  de/FW\n  la/FW\n  parte/FW\n  del/FW\n  (NP régimen/NNS)\n  (VP sionista/VBP)\n  ,/,\n  se/FW\n  (NP han/NN detectado/NN ataques/NNS)\n  (VP contra/VBP (NP los/JJ territorios/NNS))\n  (PP de/IN (NP Haifa/NNP y/NNP los/NN))\n  (VP lugares/VBZ (NP circundantes/NNS))\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "PERIODOS_TEMPORALES",
+      "LOCALIZACIONES_ESPECIFICAS",
+      "PAISES",
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "CONFLICTOS_ARMADOS_OPERACIONES"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "defendió",
+        "position": [
+          1513,
+          1521
+        ],
+        "start": 1513,
+        "end": 1521
+      },
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "capital",
+        "position": [
+          467,
+          474
+        ],
+        "start": 467,
+        "end": 474
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "israelí",
+        "position": [
+          475,
+          482
+        ],
+        "start": 475,
+        "end": 482
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "centro de",
+        "position": [
+          772,
+          781
+        ],
+        "start": 772,
+        "end": 781
+      },
+      {
+        "category": "PERIODOS_TEMPORALES",
+        "matched_text": "durante la noche",
+        "position": [
+          353,
+          369
+        ],
+        "start": 353,
+        "end": 369
+      }
+    ],
+    "match_count": 5
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Irán",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Fuerzas Armadas de Irán",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Ahmad Vahidides",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "República Islámica",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Sharon",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Israel",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Haifa",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Cuerpo de la Guardia Revolucionaria Islámica",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Teherán",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Jerusalén",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Tel Aviv",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Fuerzas Armadas de Irán",
+        "relacion": "CONTINUAR",
+        "objeto": "Tel Aviv"
+      },
+      {
+        "sujeto": "Teherán",
+        "relacion": "BUSCAR",
+        "objeto": "Cuerpo de la Guardia Revolucionaria Islámica"
+      },
+      {
+        "sujeto": "Teherán",
+        "relacion": "BUSCAR",
+        "objeto": "Ahmad Vahidides"
+      },
+      {
+        "sujeto": "República Islámica",
+        "relacion": "COMENZAR",
+        "objeto": "Israel"
+      },
+      {
+        "sujeto": "República Islámica",
+        "relacion": "COMENZAR",
+        "objeto": "Irán"
+      },
+      {
+        "sujeto": "Irán",
+        "relacion": "DEJAR",
+        "objeto": "Israel"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.1027,
+    "pos": 0.026,
+    "neu": 0.953,
+    "neg": 0.021,
+    "label": "positive"
+  }
+}

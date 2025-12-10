@@ -1,0 +1,670 @@
+{
+  "url": "https://www.telesurtv.net/universitarios-en-estados-unidos-se-manifiestan-en-solidaridad-a-la-franja-de-gaza/",
+  "title": "Universitarios en Estados Unidos se manifiestan en solidaridad a la Franja de Gaza - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Estudiantes",
+    "Manisfestaciones",
+    "Universidad de California en Los Ángeles"
+  ],
+  "text": "Alumnos de la Universidad de California en Los Ángeles, en Estados Unidos (EE. UU.), participaron en la jornada de protesta contra el genocidio en la Franja de Gaza y expresaron su solidaridad con la huelga de los trabajadores universitarios.\nEn las protestas, los estudiantes se manifestaron en contra de los vínculos académicos y económicos que la institución educativa sostiene con entidades involucradas en la ocupación de territorios palestinos.\nAsimismo, expusieron su desacuerdo con compañías productoras de armas empleadas en el genocidio perpetrado por las fuerzas de Israel contra la población palestina y por la máquina de guerra estadounidense en otras regiones del planeta.\nDichas manifestaciones forman parte de una huelga nacional de estudiantes en contra del conflicto de Gaza, que se realiza en varios campus universitarios de EE. UU. durante la presente semana.\nPon otra parte, la manifestación representa también un gesto de solidaridad con los empleados de servicios de esta institución, quienes mañana comenzarán una huelga para manifestar el fracaso de las negociaciones fracasadas entre su sindicato y las autoridades universitarias.\nEl principal vínculo entre ambas manifestaciones es una exigencia conjunta entre los alumnos y los empleados, porque ambos colectivos demandan a la universidad que desinvierta de la empresa de fondos BlackRock y emplear dichos recursos para potenciar las prestaciones de los empleados universitarios, tales como seguros médicos y fondos para vivienda.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/universitarios-en-estados-unidos-se-manifiestan-en-solidaridad-a-la-franja-de-gaza/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-11.json",
+    "message_index": 688,
+    "message_id": 80761,
+    "date": "2024-11-20T06:55:08+00:00",
+    "text": "teleSUR\nUniversitarios en Estados Unidos se manifiestan en solidaridad a la Franja de Gaza\nhttps://www.telesurtv.net/universitarios-en-estados-unidos-se-manifiestan-en-solidaridad-a-la-franja-de-gaza/",
+    "photo_path": null,
+    "views": 2240,
+    "reactions": {
+      "👍": 53,
+      "❤": 7,
+      "🔥": 1
+    },
+    "total_reactions": 61
+  },
+  "preprocessing": {
+    "cleaned": "alumnos de la universidad de california en los ángeles, en estados unidos (ee. uu.), participaron en la jornada de protesta contra el genocidio en la franja de gaza y expresaron su solidaridad con la huelga de los trabajadores universitarios. en las protestas, los estudiantes se manifestaron en contra de los vínculos académicos y económicos que la institución educativa sostiene con entidades involucradas en la ocupación de territorios palestinos. asimismo, expusieron su desacuerdo con compañías productoras de armas empleadas en el genocidio perpetrado por las fuerzas de israel contra la población palestina y por la máquina de guerra estadounidense en otras regiones del planeta. dichas manifestaciones forman parte de una huelga nacional de estudiantes en contra del conflicto de gaza, que se realiza en varios campus universitarios de ee. uu. durante la presente semana. pon otra parte, la manifestación representa también un gesto de solidaridad con los empleados de servicios de esta institución, quienes mañana comenzarán una huelga para manifestar el fracaso de las negociaciones fracasadas entre su sindicato y las autoridades universitarias. el principal vínculo entre ambas manifestaciones es una exigencia conjunta entre los alumnos y los empleados, porque ambos colectivos demandan a la universidad que desinvierta de la empresa de fondos blackrock y emplear dichos recursos para potenciar las prestaciones de los empleados universitarios, tales como seguros médicos y fondos para vivienda.",
+    "tokens": [
+      "alumnos",
+      "universidad",
+      "california",
+      "ángeles",
+      ",",
+      "unidos",
+      "(",
+      "ee",
+      ".",
+      "uu.",
+      ")",
+      ",",
+      "participaron",
+      "jornada",
+      "protesta",
+      "genocidio",
+      "franja",
+      "gaza",
+      "expresaron",
+      "solidaridad",
+      "huelga",
+      "trabajadores",
+      "universitarios",
+      ".",
+      "protestas",
+      ",",
+      "estudiantes",
+      "manifestaron",
+      "vínculos",
+      "académicos",
+      "económicos",
+      "institución",
+      "educativa",
+      "sostiene",
+      "entidades",
+      "involucradas",
+      "ocupación",
+      "territorios",
+      "palestinos",
+      ".",
+      "asimismo",
+      ",",
+      "expusieron",
+      "desacuerdo",
+      "compañías",
+      "productoras",
+      "armas",
+      "empleadas",
+      "genocidio",
+      "perpetrado",
+      "fuerzas",
+      "israel",
+      "población",
+      "palestina",
+      "máquina",
+      "guerra",
+      "estadounidense",
+      "regiones",
+      "planeta",
+      ".",
+      "dichas",
+      "manifestaciones",
+      "forman",
+      "parte",
+      "huelga",
+      "nacional",
+      "estudiantes",
+      "conflicto",
+      "gaza",
+      ",",
+      "realiza",
+      "varios",
+      "campus",
+      "universitarios",
+      "ee",
+      ".",
+      "uu.",
+      "presente",
+      "semana",
+      ".",
+      "pon",
+      "parte",
+      ",",
+      "manifestación",
+      "representa",
+      "gesto",
+      "solidaridad",
+      "empleados",
+      "servicios",
+      "institución",
+      ",",
+      "mañana",
+      "comenzarán",
+      "huelga",
+      "manifestar",
+      "fracaso",
+      "negociaciones",
+      "fracasadas",
+      "sindicato",
+      "autoridades",
+      "universitarias",
+      ".",
+      "principal",
+      "vínculo",
+      "ambas",
+      "manifestaciones",
+      "exigencia",
+      "conjunta",
+      "alumnos",
+      "empleados",
+      ",",
+      "ambos",
+      "colectivos",
+      "demandan",
+      "universidad",
+      "desinvierta",
+      "empresa",
+      "fondos",
+      "blackrock",
+      "emplear",
+      "dichos",
+      "recursos",
+      "potenciar",
+      "prestaciones",
+      "empleados",
+      "universitarios",
+      ",",
+      "tales",
+      "seguros",
+      "médicos",
+      "fondos",
+      "vivienda",
+      "."
+    ],
+    "token_count": 133,
+    "sentence_count": 8
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 24,
+      "FW": 71,
+      "NN": 59,
+      "JJ": 24,
+      "IN": 10,
+      "CC": 1,
+      "NNS": 15,
+      "VBP": 10,
+      "VBZ": 1
+    },
+    "bigram_freq": {
+      "NNP-NNP": 8,
+      "NNP-FW": 8,
+      "FW-NNP": 11,
+      "NNP-NN": 5,
+      "NN-NN": 28,
+      "NN-FW": 11,
+      "FW-FW": 40,
+      "FW-JJ": 5,
+      "JJ-NN": 14,
+      "NN-IN": 7,
+      "IN-FW": 7,
+      "NNP-CC": 1,
+      "CC-JJ": 1,
+      "FW-NNS": 4,
+      "NNS-VBP": 9,
+      "VBP-NNP": 1,
+      "VBP-NNS": 1,
+      "VBP-NN": 1,
+      "FW-NN": 11,
+      "NN-JJ": 6,
+      "JJ-JJ": 2,
+      "NN-VBZ": 1,
+      "VBZ-JJ": 1,
+      "JJ-IN": 1,
+      "IN-NNP": 1,
+      "NNS-FW": 2,
+      "NN-NNP": 1,
+      "NNP-NNS": 1,
+      "NNS-JJ": 1,
+      "JJ-FW": 3,
+      "IN-NNS": 1,
+      "VBP-JJ": 7,
+      "JJ-NNS": 3,
+      "NN-NNS": 4,
+      "NNS-IN": 2,
+      "IN-JJ": 1,
+      "JJ-NNP": 1,
+      "NNP-VBP": 1,
+      "NNS-NNS": 1
+    },
+    "trigram_freq": {
+      "NNP-NNP-FW": 3,
+      "NNP-FW-NNP": 5,
+      "FW-NNP-FW": 4,
+      "FW-NNP-NNP": 3,
+      "NNP-NNP-NNP": 3,
+      "NNP-NNP-NN": 2,
+      "NNP-NN-NN": 5,
+      "NN-NN-FW": 8,
+      "NN-FW-FW": 7,
+      "FW-FW-FW": 29,
+      "FW-FW-JJ": 3,
+      "FW-JJ-NN": 2,
+      "JJ-NN-NN": 10,
+      "NN-NN-IN": 3,
+      "NN-IN-FW": 5,
+      "IN-FW-NNP": 1,
+      "FW-NNP-CC": 1,
+      "NNP-CC-JJ": 1,
+      "CC-JJ-NN": 1,
+      "FW-FW-NNS": 2,
+      "FW-NNS-VBP": 3,
+      "NNS-VBP-NNP": 1,
+      "VBP-NNP-FW": 1,
+      "NNP-FW-NNS": 1,
+      "NNS-VBP-NNS": 1,
+      "VBP-NNS-VBP": 1,
+      "NNS-VBP-NN": 1,
+      "VBP-NN-FW": 1,
+      "NN-FW-NN": 4,
+      "FW-NN-IN": 2,
+      "IN-FW-JJ": 2,
+      "NN-NN-NN": 11,
+      "NN-NN-JJ": 3,
+      "NN-JJ-JJ": 1,
+      "JJ-JJ-NN": 1,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-JJ": 1,
+      "VBZ-JJ-IN": 1,
+      "JJ-IN-FW": 1,
+      "IN-FW-FW": 2,
+      "FW-FW-NNP": 4,
+      "FW-NNP-NN": 2,
+      "FW-FW-NN": 2,
+      "FW-NN-NN": 2,
+      "NN-JJ-NN": 4,
+      "JJ-NN-IN": 2,
+      "NN-IN-NNP": 1,
+      "IN-NNP-NNP": 1,
+      "NNP-FW-NN": 2,
+      "FW-NNS-FW": 1,
+      "NNS-FW-NN": 2,
+      "FW-NN-NNP": 1,
+      "NN-NNP-NNS": 1,
+      "NNP-NNS-JJ": 1,
+      "NNS-JJ-FW": 1,
+      "JJ-FW-FW": 2,
+      "FW-JJ-JJ": 1,
+      "JJ-JJ-FW": 1,
+      "NN-IN-NNS": 1,
+      "IN-NNS-VBP": 1,
+      "NNS-VBP-JJ": 6,
+      "VBP-JJ-FW": 1,
+      "JJ-FW-NNP": 1,
+      "FW-NN-FW": 2,
+      "FW-NN-JJ": 2,
+      "IN-FW-NN": 1,
+      "FW-JJ-NNS": 2,
+      "JJ-NNS-FW": 1,
+      "IN-FW-NNS": 1,
+      "VBP-JJ-NN": 6,
+      "NN-NN-NNS": 1,
+      "NN-NNS-IN": 1,
+      "NNS-IN-JJ": 1,
+      "IN-JJ-NNP": 1,
+      "JJ-NNP-NN": 1,
+      "FW-NN-NNS": 2,
+      "NN-NNS-VBP": 3,
+      "JJ-NN-NNS": 1,
+      "JJ-NN-JJ": 1,
+      "FW-NNP-VBP": 1,
+      "NNP-VBP-JJ": 1,
+      "NN-JJ-NNS": 1,
+      "JJ-NNS-IN": 1,
+      "NNS-IN-FW": 1,
+      "JJ-NNS-NNS": 1,
+      "NNS-NNS-VBP": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "FW": 71,
+        "NN": 59,
+        "NNP": 24,
+        "JJ": 24,
+        "NNS": 15
+      },
+      "top_bigrams": {
+        "FW-FW": 40,
+        "NN-NN": 28,
+        "JJ-NN": 14,
+        "FW-NNP": 11,
+        "NN-FW": 11
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 29,
+        "NN-NN-NN": 11,
+        "JJ-NN-NN": 10,
+        "NN-NN-FW": 8,
+        "NN-FW-FW": 7
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 8,
+    "chunk_counts": {
+      "NP": 57,
+      "VP": 11,
+      "PP": 2,
+      "ADJP": 4
+    },
+    "top_rules": [
+      {
+        "rule": "NP -> ('EE', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0244
+      },
+      {
+        "rule": "NP -> ('Gaza', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0244
+      },
+      {
+        "rule": "S -> NP ('la', 'FW') NP ('de', 'FW') NP ('en', 'FW') NP (',', ',') ('en', 'FW') NP ('(', '(') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0122
+      },
+      {
+        "rule": "NP -> ('Alumnos', 'NNP') ('de', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0122
+      },
+      {
+        "rule": "NP -> ('Universidad', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0122
+      },
+      {
+        "rule": "NP -> ('California', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0122
+      },
+      {
+        "rule": "NP -> ('Los', 'NNP') ('Ángeles', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0122
+      },
+      {
+        "rule": "NP -> ('Estados', 'NNP') ('Unidos', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0122
+      },
+      {
+        "rule": "S -> NP (')', ')') (',', ',') ('participaron', 'FW') ('en', 'FW') ('la', 'FW') ('jornada', 'FW') ('de', 'FW') ('protesta', 'FW') NP ('en', 'IN') ('la', 'FW') NP ('de', 'FW') NP ('y', 'CC') NP VP ('huelga', 'FW') ('de', 'FW') ('los', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0122
+      },
+      {
+        "rule": "NP -> ('UU.', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0122
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Alumnos de"
+      },
+      {
+        "label": "NP",
+        "text": "Universidad"
+      },
+      {
+        "label": "NP",
+        "text": "California"
+      },
+      {
+        "label": "NP",
+        "text": "Los Ángeles"
+      },
+      {
+        "label": "NP",
+        "text": "Estados Unidos"
+      },
+      {
+        "label": "NP",
+        "text": "EE"
+      },
+      {
+        "label": "NP",
+        "text": "UU."
+      },
+      {
+        "label": "NP",
+        "text": "contra el genocidio"
+      },
+      {
+        "label": "NP",
+        "text": "Franja"
+      },
+      {
+        "label": "NP",
+        "text": "Gaza"
+      },
+      {
+        "label": "NP",
+        "text": "expresaron"
+      },
+      {
+        "label": "VP",
+        "text": "su solidaridad con la"
+      },
+      {
+        "label": "NP",
+        "text": "solidaridad con la"
+      },
+      {
+        "label": "NP",
+        "text": "trabajadores universitarios"
+      },
+      {
+        "label": "NP",
+        "text": "En las protestas"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Alumnos/NNP de/NNP)\n  la/FW\n  (NP Universidad/NNP)\n  de/FW\n  (NP California/NNP)\n  en/FW\n  (NP Los/NNP Ángeles/NNP)\n  ,/,\n  en/FW\n  (NP Estados/NNP Unidos/NNP)\n  (/(\n  (NP EE/NNP)\n  ./.)",
+      "(S\n  (NP UU./NNP)\n  )/)\n  ,/,\n  participaron/FW\n  en/FW\n  la/FW\n  jornada/FW\n  de/FW\n  protesta/FW\n  (NP contra/JJ el/NN genocidio/NN)\n  en/IN\n  la/FW\n  (NP Franja/NNP)\n  de/FW\n  (NP Gaza/NNP)\n  y/CC\n  (NP expresaron/NNP)\n  (VP su/VBP (NP solidaridad/JJ con/NN la/NN))\n  huelga/FW\n  de/FW\n  los/FW\n  (NP trabajadores/NNS universitarios/NNS)\n  ./.)",
+      "(S\n  (NP En/NNP las/NN protestas/NNS)\n  ,/,\n  (NP los/NN estudiantes/NNS)\n  (VP se/VBP (NP manifestaron/NN))\n  en/FW\n  (NP contra/NN)\n  de/IN\n  los/FW\n  (NP vínculos/JJ académicos/NN y/NN económicos/NN que/NN la/NN)\n  (NP institución/JJ educativa/JJ sostiene/NN con/NN)\n  (VP entidades/VBZ involucradas/JJ)\n  en/IN\n  la/FW\n  ocupación/FW\n  de/FW\n  territorios/FW\n  (NP palestinos/NNS)\n  ./.)",
+      "(S\n  (NP Asimismo/NNP)\n  ,/,\n  (NP expusieron/NN su/NN desacuerdo/NN con/NN compañías/NN)\n  productoras/FW\n  de/FW\n  armas/FW\n  empleadas/FW\n  en/FW\n  el/FW\n  (NP genocidio/NN perpetrado/NN por/NN)\n  (NP las/JJ fuerzas/NN)\n  (PP de/IN (NP Israel/NNP contra/NNP la/NNP))\n  población/FW\n  (NP palestina/NN y/NN por/NN)\n  la/FW\n  máquina/FW\n  de/FW\n  guerra/FW\n  estadounidense/FW\n  en/FW\n  otras/FW\n  (NP regiones/NNS)\n  del/FW\n  (NP planeta/NN)\n  ./.)",
+      "(S\n  (NP Dichas/NNP manifestaciones/NNS)\n  (ADJP forman/JJ)\n  parte/FW\n  de/FW\n  una/FW\n  (ADJP huelga/JJ)\n  (ADJP nacional/JJ)\n  de/FW\n  estudiantes/FW\n  en/FW\n  contra/FW\n  del/FW\n  conflicto/FW\n  de/FW\n  (NP Gaza/NNP)\n  ,/,\n  (NP que/NN se/NN realiza/NN)\n  (PP en/IN (NP varios/NNS))\n  (VP campus/VBP universitarios/JJ)\n  de/FW\n  (NP EE/NNP)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "GRUPOS_ESPECIFICOS",
+      "TIEMPO_RELATIVO",
+      "CRISIS_HUMANITARIA_SERVICIOS",
+      "INSTITUCIONES_EDUCATIVAS",
+      "PAISES",
+      "PROTESTAS_CONFLICTOS_SOCIALES",
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "CONFLICTOS_ARMADOS_OPERACIONES",
+      "INFRAESTRUCTURA_SERVICIOS",
+      "LOCALIZACIONES_ESPECIFICAS"
+    ],
+    "matches": [
+      {
+        "category": "PROTESTAS_CONFLICTOS_SOCIALES",
+        "matched_text": "protesta contra el genocidio en la franja de gaza y expresaron su solidaridad con la huelga de los trabajadores",
+        "position": [
+          115,
+          226
+        ],
+        "start": 115,
+        "end": 226
+      },
+      {
+        "category": "PROTESTAS_CONFLICTOS_SOCIALES",
+        "matched_text": "protesta contra el genocidio en la franja de gaza",
+        "position": [
+          115,
+          164
+        ],
+        "start": 115,
+        "end": 164
+      },
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "guerra estadounidense en otras",
+        "position": [
+          634,
+          664
+        ],
+        "start": 634,
+        "end": 664
+      },
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "genocidio perpetrado por las fuerzas de israel contra la población palestina",
+        "position": [
+          537,
+          613
+        ],
+        "start": 537,
+        "end": 613
+      },
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "ocupación",
+        "position": [
+          414,
+          423
+        ],
+        "start": 414,
+        "end": 423
+      },
+      {
+        "category": "CRISIS_HUMANITARIA_SERVICIOS",
+        "matched_text": "genocidio en la franja de gaza",
+        "position": [
+          134,
+          164
+        ],
+        "start": 134,
+        "end": 164
+      },
+      {
+        "category": "GRUPOS_ESPECIFICOS",
+        "matched_text": "universitarios",
+        "position": [
+          227,
+          241
+        ],
+        "start": 227,
+        "end": 241
+      },
+      {
+        "category": "INSTITUCIONES_EDUCATIVAS",
+        "matched_text": "universidad de california",
+        "position": [
+          14,
+          39
+        ],
+        "start": 14,
+        "end": 39
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "universidad",
+        "position": [
+          14,
+          25
+        ],
+        "start": 14,
+        "end": 25
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "estados unidos",
+        "position": [
+          59,
+          73
+        ],
+        "start": 59,
+        "end": 73
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "palestina",
+        "position": [
+          604,
+          613
+        ],
+        "start": 604,
+        "end": 613
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "universidad de",
+        "position": [
+          14,
+          28
+        ],
+        "start": 14,
+        "end": 28
+      },
+      {
+        "category": "TIEMPO_RELATIVO",
+        "matched_text": "mañana",
+        "position": [
+          1016,
+          1022
+        ],
+        "start": 1016,
+        "end": 1022
+      }
+    ],
+    "match_count": 13
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Franja de Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Los Ángeles",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Estados Unidos",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "BlackRock",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Universidad de California",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Israel",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "EE. UU.",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Universidad de California",
+        "relacion": "PARTICIPAR",
+        "objeto": "Franja de Gaza"
+      },
+      {
+        "sujeto": "Los Ángeles",
+        "relacion": "PARTICIPAR",
+        "objeto": "Franja de Gaza"
+      },
+      {
+        "sujeto": "Estados Unidos",
+        "relacion": "PARTICIPAR",
+        "objeto": "Franja de Gaza"
+      },
+      {
+        "sujeto": "EE. UU.",
+        "relacion": "PARTICIPAR",
+        "objeto": "Franja de Gaza"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.0,
+    "pos": 0.0,
+    "neu": 1.0,
+    "neg": 0.0,
+    "label": "neutral"
+  }
+}

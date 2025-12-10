@@ -1,0 +1,797 @@
+{
+  "url": "https://www.telesurtv.net/movimientos-sociales-brasil-protestas-arancel/",
+  "title": "Movimientos sociales de Brasil convocan protestas contra aranceles de Trump - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "Brasil",
+    "EE.UU.",
+    "Manifestación",
+    "Movimientos Sociales"
+  ],
+  "text": "Movimientos sociales de Brasil convocaron una jornada nacional para el viernes 1 de agosto en rechazo los aranceles del 50 por ciento impuestos por el presidente de Estados Unidos (EE.UU.) Donald Trump, a productos exportados a ese país norteamericano y en denuncia a agresiones a la democracia del país.\nEn la víspera, Trump firmó una orden que establece los aranceles del 50 por ciento a exportaciones brasileñas, con excepciones en sectores estratégicos.\nLa medida, efectiva desde el 6 de agosto, impacta especialmente a los sectores agrícola y tecnológico. Analistas interpretan los aranceles como sanciones políticas, diseñadas para obtener ventajas en el acceso a tierras raras, el sistema financiero que sustituye a Pix y la no regulación de grandes tecnológicas. Además, señalan la posible influencia de Eduardo Bolsonaro en la decisión.\n“El pueblo brasileño no aceptará injerencias extranjeras en nuestra democracia ni en nuestra economía. Estos aranceles son un ataque directo al país”, afirmó un portavoz de la Unión Nacional de Estudiantes (UNE), según el comunicado de los organizadores, citado por la prensa local.\nLas movilizaciones confirmadas incluyen eventos en:\nLas organizaciones convocantes denuncian que los aranceles representan un intento de interferir en el sistema judicial brasileño para proteger al expresidente ultraderechista, Jair Bolsonaro, acusado de liderar un fallido golpe de Estado contra el actual presidente Luiz Inácio Lula da Silva.\nLa medida también busca presionar al país en áreas estratégicas, según analistas, afectando la soberanía económica y política de Brasil.\nAnte ello, la jornada nacional busca visibilizar el rechazo a las políticas de Trump y reafirmar la autonomía del pueblo brasileño. Los movimientos sociales llaman a una participación masiva en las protestas, que se desarrollarán de forma pacífica en defensa de la democracia y contra el impacto económico de los aranceles.\n",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/movimientos-sociales-brasil-protestas-arancel/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-07.json",
+    "message_index": 2,
+    "message_id": 100624,
+    "date": "2025-07-31T23:55:08+00:00",
+    "text": "teleSUR\nMovimientos sociales de Brasil convocan protestas contra aranceles de Trump\nhttps://www.telesurtv.net/movimientos-sociales-brasil-protestas-arancel/",
+    "photo_path": null,
+    "views": 1604,
+    "reactions": {
+      "❤": 24,
+      "👍": 14,
+      "👏": 2
+    },
+    "total_reactions": 40
+  },
+  "preprocessing": {
+    "cleaned": "movimientos sociales de brasil convocaron una jornada nacional para el viernes 1 de agosto en rechazo los aranceles del 50 por ciento impuestos por el presidente de estados unidos (ee.uu.) donald trump, a productos exportados a ese país norteamericano y en denuncia a agresiones a la democracia del país. en la víspera, trump firmó una orden que establece los aranceles del 50 por ciento a exportaciones brasileñas, con excepciones en sectores estratégicos. la medida, efectiva desde el 6 de agosto, impacta especialmente a los sectores agrícola y tecnológico. analistas interpretan los aranceles como sanciones políticas, diseñadas para obtener ventajas en el acceso a tierras raras, el sistema financiero que sustituye a pix y la no regulación de grandes tecnológicas. además, señalan la posible influencia de eduardo bolsonaro en la decisión. “el pueblo brasileño no aceptará injerencias extranjeras en nuestra democracia ni en nuestra economía. estos aranceles son un ataque directo al país”, afirmó un portavoz de la unión nacional de estudiantes (une), según el comunicado de los organizadores, citado por la prensa local. las movilizaciones confirmadas incluyen eventos en: las organizaciones convocantes denuncian que los aranceles representan un intento de interferir en el sistema judicial brasileño para proteger al expresidente ultraderechista, jair bolsonaro, acusado de liderar un fallido golpe de estado contra el actual presidente luiz inácio lula da silva. la medida también busca presionar al país en áreas estratégicas, según analistas, afectando la soberanía económica y política de brasil. ante ello, la jornada nacional busca visibilizar el rechazo a las políticas de trump y reafirmar la autonomía del pueblo brasileño. los movimientos sociales llaman a una participación masiva en las protestas, que se desarrollarán de forma pacífica en defensa de la democracia y contra el impacto económico de los aranceles.",
+    "tokens": [
+      "movimientos",
+      "sociales",
+      "brasil",
+      "convocaron",
+      "jornada",
+      "nacional",
+      "viernes",
+      "1",
+      "agosto",
+      "rechazo",
+      "aranceles",
+      "50",
+      "ciento",
+      "impuestos",
+      "presidente",
+      "unidos",
+      "(",
+      "ee.uu.",
+      ")",
+      "donald",
+      "trump",
+      ",",
+      "productos",
+      "exportados",
+      "país",
+      "norteamericano",
+      "denuncia",
+      "agresiones",
+      "democracia",
+      "país",
+      ".",
+      "víspera",
+      ",",
+      "trump",
+      "firmó",
+      "orden",
+      "establece",
+      "aranceles",
+      "50",
+      "ciento",
+      "exportaciones",
+      "brasileñas",
+      ",",
+      "excepciones",
+      "sectores",
+      "estratégicos",
+      ".",
+      "medida",
+      ",",
+      "efectiva",
+      "6",
+      "agosto",
+      ",",
+      "impacta",
+      "especialmente",
+      "sectores",
+      "agrícola",
+      "tecnológico",
+      ".",
+      "analistas",
+      "interpretan",
+      "aranceles",
+      "sanciones",
+      "políticas",
+      ",",
+      "diseñadas",
+      "obtener",
+      "ventajas",
+      "acceso",
+      "tierras",
+      "raras",
+      ",",
+      "sistema",
+      "financiero",
+      "sustituye",
+      "pix",
+      "regulación",
+      "grandes",
+      "tecnológicas",
+      ".",
+      "además",
+      ",",
+      "señalan",
+      "posible",
+      "influencia",
+      "eduardo",
+      "bolsonaro",
+      "decisión",
+      ".",
+      "“",
+      "pueblo",
+      "brasileño",
+      "aceptará",
+      "injerencias",
+      "extranjeras",
+      "democracia",
+      "economía",
+      ".",
+      "aranceles",
+      "ataque",
+      "directo",
+      "país",
+      "”",
+      ",",
+      "afirmó",
+      "portavoz",
+      "unión",
+      "nacional",
+      "estudiantes",
+      "(",
+      "une",
+      ")",
+      ",",
+      "según",
+      "comunicado",
+      "organizadores",
+      ",",
+      "citado",
+      "prensa",
+      "local",
+      ".",
+      "movilizaciones",
+      "confirmadas",
+      "incluyen",
+      "eventos",
+      ":",
+      "organizaciones",
+      "convocantes",
+      "denuncian",
+      "aranceles",
+      "representan",
+      "intento",
+      "interferir",
+      "sistema",
+      "judicial",
+      "brasileño",
+      "proteger",
+      "expresidente",
+      "ultraderechista",
+      ",",
+      "jair",
+      "bolsonaro",
+      ",",
+      "acusado",
+      "liderar",
+      "fallido",
+      "golpe",
+      "actual",
+      "presidente",
+      "luiz",
+      "inácio",
+      "lula",
+      "da",
+      "silva",
+      ".",
+      "medida",
+      "busca",
+      "presionar",
+      "país",
+      "áreas",
+      "estratégicas",
+      ",",
+      "según",
+      "analistas",
+      ",",
+      "afectando",
+      "soberanía",
+      "económica",
+      "política",
+      "brasil",
+      ".",
+      "ello",
+      ",",
+      "jornada",
+      "nacional",
+      "busca",
+      "visibilizar",
+      "rechazo",
+      "políticas",
+      "trump",
+      "reafirmar",
+      "autonomía",
+      "pueblo",
+      "brasileño",
+      ".",
+      "movimientos",
+      "sociales",
+      "llaman",
+      "participación",
+      "masiva",
+      "protestas",
+      ",",
+      "desarrollarán",
+      "forma",
+      "pacífica",
+      "defensa",
+      "democracia",
+      "impacto",
+      "económico",
+      "aranceles",
+      "."
+    ],
+    "token_count": 201,
+    "sentence_count": 11
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 35,
+      "VBZ": 6,
+      "FW": 60,
+      "NN": 81,
+      "JJ": 35,
+      "NNS": 19,
+      "IN": 13,
+      "VBP": 16,
+      "CD": 2,
+      "RB": 2,
+      "DT": 2,
+      "RBR": 1,
+      "VBD": 1
+    },
+    "bigram_freq": {
+      "NNP-VBZ": 3,
+      "VBZ-FW": 1,
+      "FW-NNP": 9,
+      "NNP-NN": 9,
+      "NN-NN": 37,
+      "NN-JJ": 7,
+      "JJ-NN": 22,
+      "NN-NNS": 7,
+      "NNS-IN": 2,
+      "IN-FW": 7,
+      "FW-FW": 34,
+      "FW-NN": 7,
+      "NNS-VBP": 13,
+      "VBP-CD": 2,
+      "CD-NN": 2,
+      "NN-FW": 8,
+      "NNP-NNP": 12,
+      "NN-VBZ": 2,
+      "VBZ-JJ": 3,
+      "JJ-NNS": 5,
+      "NNS-RB": 1,
+      "RB-VBP": 1,
+      "VBP-JJ": 11,
+      "NNS-FW": 1,
+      "NNP-FW": 7,
+      "JJ-JJ": 2,
+      "NN-RB": 1,
+      "RB-JJ": 1,
+      "IN-NNS": 1,
+      "VBP-NNP": 1,
+      "JJ-NNP": 3,
+      "VBP-NNS": 1,
+      "NN-IN": 11,
+      "FW-JJ": 7,
+      "NN-NNP": 5,
+      "VBZ-DT": 1,
+      "DT-NN": 2,
+      "NN-RBR": 1,
+      "RBR-JJ": 1,
+      "IN-NNP": 4,
+      "NN-DT": 1,
+      "VBZ-NN": 1,
+      "NNP-VBD": 1,
+      "VBD-JJ": 1,
+      "FW-NNS": 3,
+      "NNP-NNS": 2,
+      "NNS-VBZ": 1,
+      "NN-VBP": 1,
+      "VBP-NN": 1,
+      "NNP-JJ": 1,
+      "JJ-VBP": 1,
+      "IN-JJ": 1,
+      "JJ-FW": 2
+    },
+    "trigram_freq": {
+      "NNP-VBZ-FW": 1,
+      "VBZ-FW-NNP": 1,
+      "FW-NNP-NN": 3,
+      "NNP-NN-NN": 4,
+      "NN-NN-NN": 17,
+      "NN-NN-JJ": 4,
+      "NN-JJ-NN": 5,
+      "JJ-NN-NN": 12,
+      "NN-NN-NNS": 5,
+      "NN-NNS-IN": 1,
+      "NNS-IN-FW": 1,
+      "IN-FW-FW": 2,
+      "FW-FW-FW": 22,
+      "FW-FW-NN": 3,
+      "FW-NN-NNS": 2,
+      "NN-NNS-VBP": 6,
+      "NNS-VBP-CD": 2,
+      "VBP-CD-NN": 2,
+      "CD-NN-NN": 2,
+      "NN-NN-FW": 2,
+      "NN-FW-NN": 2,
+      "FW-NN-FW": 3,
+      "NN-FW-NNP": 2,
+      "FW-NNP-NNP": 3,
+      "NNP-NNP-NNP": 4,
+      "NNP-NNP-NN": 2,
+      "NNP-NN-VBZ": 2,
+      "NN-VBZ-JJ": 2,
+      "VBZ-JJ-NNS": 1,
+      "JJ-NNS-RB": 1,
+      "NNS-RB-VBP": 1,
+      "RB-VBP-JJ": 1,
+      "VBP-JJ-NNS": 2,
+      "JJ-NNS-FW": 1,
+      "NNS-FW-FW": 1,
+      "FW-FW-NNP": 4,
+      "FW-NNP-FW": 1,
+      "NNP-FW-FW": 5,
+      "NNP-NN-JJ": 1,
+      "NN-JJ-JJ": 1,
+      "JJ-JJ-NN": 2,
+      "JJ-NN-RB": 1,
+      "NN-RB-JJ": 1,
+      "RB-JJ-NNS": 1,
+      "JJ-NNS-VBP": 2,
+      "NNS-VBP-JJ": 9,
+      "JJ-NNS-IN": 1,
+      "NNS-IN-NNS": 1,
+      "IN-NNS-VBP": 1,
+      "NNS-VBP-NNP": 1,
+      "VBP-NNP-FW": 1,
+      "VBP-JJ-NNP": 1,
+      "JJ-NNP-NN": 1,
+      "NNS-VBP-NNS": 1,
+      "VBP-NNS-VBP": 1,
+      "VBP-JJ-NN": 8,
+      "NN-NN-IN": 5,
+      "NN-IN-FW": 6,
+      "IN-FW-JJ": 1,
+      "FW-JJ-NNS": 1,
+      "NN-NN-NNP": 2,
+      "NN-NNP-VBZ": 1,
+      "NNP-VBZ-DT": 1,
+      "VBZ-DT-NN": 1,
+      "DT-NN-FW": 1,
+      "NN-FW-FW": 3,
+      "FW-NN-NNP": 1,
+      "NN-NNP-NN": 2,
+      "NNP-NN-RBR": 1,
+      "NN-RBR-JJ": 1,
+      "RBR-JJ-NN": 1,
+      "JJ-NN-IN": 6,
+      "NN-IN-NNP": 4,
+      "IN-NNP-NNP": 2,
+      "NNP-NNP-FW": 5,
+      "NN-NN-DT": 1,
+      "NN-DT-NN": 1,
+      "DT-NN-NN": 1,
+      "FW-NNP-VBZ": 1,
+      "NNP-VBZ-NN": 1,
+      "VBZ-NN-JJ": 1,
+      "IN-FW-NNP": 1,
+      "NNP-FW-NNP": 1,
+      "NNP-NNP-VBD": 1,
+      "NNP-VBD-JJ": 1,
+      "VBD-JJ-NN": 1,
+      "IN-FW-NNS": 2,
+      "FW-NNS-VBP": 2,
+      "JJ-NN-FW": 2,
+      "NN-FW-JJ": 1,
+      "FW-JJ-NNP": 1,
+      "JJ-NNP-NNS": 1,
+      "NNP-NNS-VBP": 1,
+      "FW-NNP-NNS": 1,
+      "NNP-NNS-VBZ": 1,
+      "NNS-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 1,
+      "FW-FW-JJ": 4,
+      "FW-JJ-NN": 3,
+      "NN-NN-VBP": 1,
+      "NN-VBP-NN": 1,
+      "VBP-NN-JJ": 1,
+      "NN-JJ-NNP": 1,
+      "JJ-NNP-NNP": 1,
+      "IN-NNP-JJ": 1,
+      "NNP-JJ-VBP": 1,
+      "JJ-VBP-JJ": 1,
+      "JJ-NN-NNP": 1,
+      "NN-NNP-NNP": 2,
+      "NNP-NN-NNP": 1,
+      "NNP-FW-NN": 1,
+      "FW-NN-NN": 1,
+      "NN-IN-JJ": 1,
+      "IN-JJ-NN": 1,
+      "IN-NNP-NN": 1,
+      "VBZ-JJ-JJ": 1,
+      "IN-FW-NN": 1,
+      "FW-JJ-FW": 2,
+      "JJ-FW-JJ": 1,
+      "JJ-FW-FW": 1,
+      "FW-FW-NNS": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 81,
+        "FW": 60,
+        "NNP": 35,
+        "JJ": 35,
+        "NNS": 19
+      },
+      "top_bigrams": {
+        "NN-NN": 37,
+        "FW-FW": 34,
+        "JJ-NN": 22,
+        "NNS-VBP": 13,
+        "NNP-NNP": 12
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 22,
+        "NN-NN-NN": 17,
+        "JJ-NN-NN": 12,
+        "NNS-VBP-JJ": 9,
+        "VBP-JJ-NN": 8
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 11,
+    "chunk_counts": {
+      "NP": 84,
+      "VP": 24,
+      "PP": 7,
+      "ADJP": 6
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 4,
+        "weight": 0.0303
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 3,
+        "weight": 0.0227
+      },
+      {
+        "rule": "VP -> ('sociales', 'VBZ')",
+        "frequency": 2,
+        "weight": 0.0152
+      },
+      {
+        "rule": "VP -> ('del', 'VBP')",
+        "frequency": 2,
+        "weight": 0.0152
+      },
+      {
+        "rule": "ADJP -> ('contra', 'JJ')",
+        "frequency": 2,
+        "weight": 0.0152
+      },
+      {
+        "rule": "S -> NP VP ('de', 'FW') NP NP ('1', 'CD') ('de', 'IN') ('agosto', 'FW') ('en', 'FW') ('rechazo', 'FW') NP VP ('50', 'CD') NP ('el', 'FW') NP ('de', 'FW') NP ('(', '(') NP (')', ')') NP (',', ',') NP VP ('en', 'FW') VP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0076
+      },
+      {
+        "rule": "NP -> ('Movimientos', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0076
+      },
+      {
+        "rule": "NP -> ('Brasil', 'NNP') ('convocaron', 'NN') ('una', 'NN') ('jornada', 'NN')",
+        "frequency": 1,
+        "weight": 0.0076
+      },
+      {
+        "rule": "NP -> ('nacional', 'JJ') ('para', 'NN') ('el', 'NN') ('viernes', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0076
+      },
+      {
+        "rule": "NP -> ('los', 'NN') ('aranceles', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0076
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Movimientos"
+      },
+      {
+        "label": "VP",
+        "text": "sociales"
+      },
+      {
+        "label": "NP",
+        "text": "Brasil convocaron una jornada"
+      },
+      {
+        "label": "NP",
+        "text": "nacional para el viernes"
+      },
+      {
+        "label": "NP",
+        "text": "los aranceles"
+      },
+      {
+        "label": "VP",
+        "text": "del"
+      },
+      {
+        "label": "NP",
+        "text": "por ciento impuestos por"
+      },
+      {
+        "label": "NP",
+        "text": "presidente"
+      },
+      {
+        "label": "NP",
+        "text": "Estados Unidos"
+      },
+      {
+        "label": "NP",
+        "text": "EE.UU."
+      },
+      {
+        "label": "NP",
+        "text": "Donald Trump"
+      },
+      {
+        "label": "NP",
+        "text": "a productos"
+      },
+      {
+        "label": "VP",
+        "text": "exportados a ese país norteamericano y"
+      },
+      {
+        "label": "NP",
+        "text": "a ese país norteamericano y"
+      },
+      {
+        "label": "VP",
+        "text": "denuncia a agresiones a la democracia del país"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Movimientos/NNP)\n  (VP sociales/VBZ)\n  de/FW\n  (NP Brasil/NNP convocaron/NN una/NN jornada/NN)\n  (NP nacional/JJ para/NN el/NN viernes/NNS)\n  1/CD\n  de/IN\n  agosto/FW\n  en/FW\n  rechazo/FW\n  (NP los/NN aranceles/NNS)\n  (VP del/VBP)\n  50/CD\n  (NP por/NN ciento/NN impuestos/NN por/NN)\n  el/FW\n  (NP presidente/NN)\n  de/FW\n  (NP Estados/NNP Unidos/NNP)\n  (/(\n  (NP EE.UU./NNP)\n  )/)\n  (NP Donald/NNP Trump/NNP)\n  ,/,\n  (NP a/DT productos/NN)\n  (VP exportados/VBZ (NP a/DT ese/JJ país/NN norteamericano/NN y/NN))\n  en/FW\n  (VP\n    denuncia/VBZ\n    (NP a/DT agresiones/NNS)\n    (NP a/DT la/NN democracia/NN del/NN país/NN))\n  ./.)",
+      "(S\n  (NP En/NNP la/NN víspera/NN)\n  ,/,\n  (NP Trump/NNP)\n  (VP\n    firmó/VBZ\n    (NP una/JJ orden/JJ que/NN)\n    establece/RB\n    (NP los/JJ aranceles/NNS))\n  (VP del/VBP)\n  50/CD\n  (NP por/NN ciento/NN)\n  (NP a/DT exportaciones/JJ brasileñas/NN)\n  ,/,\n  (NP con/NN excepciones/NNS)\n  (PP en/IN (NP sectores/NNS))\n  (VP estratégicos/VBP)\n  ./.)",
+      "(S\n  (NP La/NNP medida/NN)\n  ,/,\n  efectiva/FW\n  (NP desde/NN)\n  el/FW\n  6/CD\n  de/FW\n  agosto/FW\n  ,/,\n  (VP impacta/VBP)\n  (VP especialmente/VB (NP a/DT los/NN))\n  (VP sectores/VBZ)\n  agrícola/RP\n  (NP y/JJ tecnológico/NN)\n  ./.)",
+      "(S\n  (NP Analistas/NNP)\n  (NP interpretan/JJ los/NN aranceles/NNS)\n  (VP como/VBP (NP sanciones/NNS políticas/NNS))\n  ,/,\n  (NP diseñadas/NNS)\n  (VP para/VBP obtener/JJR ventajas/JJ)\n  en/FW\n  el/FW\n  acceso/FW\n  (NP a/DT tierras/NN raras/NN)\n  ,/,\n  el/FW\n  (NP sistema/NN financiero/NN que/NN)\n  (VP sustituye/VBD (NP a/DT Pix/NNP y/NNP))\n  (VP la/VBZ (NP no/DT regulación/NN))\n  de/FW\n  grandes/FW\n  (NP tecnológicas/NN)\n  ./.)",
+      "(S\n  (NP Además/NNP)\n  ,/,\n  (NP señalan/NN)\n  la/RBR\n  (NP posible/JJ influencia/NN)\n  (PP de/IN (NP Eduardo/NNP Bolsonaro/NNP))\n  en/FW\n  (NP la/NN decisión/NN)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "GOBIERNOS_OFICIALES",
+      "GRUPOS_ESPECIFICOS",
+      "LEYES_NORMATIVAS",
+      "FECHAS_ESPECIFICAS",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "REGIONES_PROVINCIAS",
+      "PAISES",
+      "PROTESTAS_CONFLICTOS_SOCIALES",
+      "RELACIONES_INTERNACIONALES",
+      "JURIDICO_LEGISLATIVO_CORRUPCION"
+    ],
+    "matches": [
+      {
+        "category": "PROTESTAS_CONFLICTOS_SOCIALES",
+        "matched_text": "sociales llaman",
+        "position": [
+          1759,
+          1774
+        ],
+        "start": 1759,
+        "end": 1774
+      },
+      {
+        "category": "RELACIONES_INTERNACIONALES",
+        "matched_text": "rechazo a las políticas",
+        "position": [
+          1663,
+          1686
+        ],
+        "start": 1663,
+        "end": 1686
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "afirmó",
+        "position": [
+          997,
+          1003
+        ],
+        "start": 997,
+        "end": 1003
+      },
+      {
+        "category": "JURIDICO_LEGISLATIVO_CORRUPCION",
+        "matched_text": "defensa",
+        "position": [
+          1862,
+          1869
+        ],
+        "start": 1862,
+        "end": 1869
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente de estados",
+        "position": [
+          151,
+          172
+        ],
+        "start": 151,
+        "end": 172
+      },
+      {
+        "category": "GRUPOS_ESPECIFICOS",
+        "matched_text": "estudiantes",
+        "position": [
+          1040,
+          1051
+        ],
+        "start": 1040,
+        "end": 1051
+      },
+      {
+        "category": "LEYES_NORMATIVAS",
+        "matched_text": "regulación",
+        "position": [
+          735,
+          745
+        ],
+        "start": 735,
+        "end": 745
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "brasil",
+        "position": [
+          24,
+          30
+        ],
+        "start": 24,
+        "end": 30
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "estados unidos",
+        "position": [
+          165,
+          179
+        ],
+        "start": 165,
+        "end": 179
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "estado contra",
+        "position": [
+          1412,
+          1425
+        ],
+        "start": 1412,
+        "end": 1425
+      },
+      {
+        "category": "FECHAS_ESPECIFICAS",
+        "matched_text": "viernes 1 de agosto",
+        "position": [
+          71,
+          90
+        ],
+        "start": 71,
+        "end": 90
+      }
+    ],
+    "match_count": 11
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "EE.UU.",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Analistas",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "UNE",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Pix",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Trump",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Jair Bolsonaro",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Estados Unidos",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Donald Trump",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Eduardo Bolsonaro",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Unión Nacional de Estudiantes",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Luiz Inácio Lula da Silva",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Brasil",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Brasil",
+        "relacion": "CONVOCAR",
+        "objeto": "Estados Unidos"
+      },
+      {
+        "sujeto": "Brasil",
+        "relacion": "CONVOCAR",
+        "objeto": "EE.UU."
+      },
+      {
+        "sujeto": "Brasil",
+        "relacion": "CONVOCAR",
+        "objeto": "Donald Trump"
+      },
+      {
+        "sujeto": "Analistas",
+        "relacion": "INTERPRETAR",
+        "objeto": "Pix"
+      },
+      {
+        "sujeto": "Jair Bolsonaro",
+        "relacion": "PROTEGER_INTERFERIR_REPRESENTAR_DENUNCIAR_INCLUIR",
+        "objeto": "Luiz Inácio Lula da Silva"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.5267,
+    "pos": 0.0,
+    "neu": 0.984,
+    "neg": 0.016,
+    "label": "negative"
+  }
+}

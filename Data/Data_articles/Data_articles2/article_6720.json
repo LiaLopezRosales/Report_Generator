@@ -1,0 +1,853 @@
+{
+  "url": "https://www.telesurtv.net/otra-masacre-en-gaza/",
+  "title": "Nuevos bombardeos en zonas \"seguras\" de Gaza dejan decenas de civiles muertos - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Catástrofe humanitaria",
+    "Gaza",
+    "Israel",
+    "muerte",
+    "Palestina",
+    "Sionismo"
+  ],
+  "text": "La Franja de Gaza volvió a ser escenario de una ofensiva letal por parte del ejército israelí. Desde la madrugada del miércoles 2 de julio, múltiples bombardeos impactaron en zonas consideradas “seguras” por las autoridades de ocupación, dejando decenas de muertos y heridos, muchos de ellos niños y desplazados internos.\n\nUno de los ataques más graves ocurrió en Al-Mawasi, Khan Yunis, donde fueron alcanzadas tiendas de campaña que albergaban a familias desplazadas. Seis personas murieron en el acto y al menos diez más resultaron heridas, según reportó la agencia palestina WAFA. Esta zona había sido designada como refugio seguro, pero ha sido bombardeada reiteradamente en las últimas semanas.\nOtro ataque aéreo golpeó una vivienda familiar en la calle Jaffa, en pleno centro de la ciudad de Gaza. La casa fue destruida casi por completo y provocó la muerte de cuatro miembros de la familia Zeno: el padre, Ahmed Ayyad; la madre, Ayat; y sus dos hijas, Zahra y Obaida. Equipos de emergencia continúan removiendo escombros ante el temor de que haya más víctimas bajo las ruinas.\nEn Deir al-Balah, drones israelíes atacaron otra tienda de desplazados cerca del Hospital de los Mártires de Al-Aqsa, dejando al menos diez heridos. Además, se registraron disparos de drones en el barrio de Al-Karama, al noroeste de Gaza capital, que también causaron múltiples heridos.\nEl martes 1 de julio había sido especialmente sangriento: más de 100 personas murieron por ataques aéreos y fuego directo del ejército israelí, en lo que medios palestinos describen como una jornada de masacres.\n\n\nDesde el 7 de octubre de 2023, el saldo de víctimas palestinas en Gaza asciende a 56.647 muertos y más de 134.000 heridos, según la agencia de noticias palestina Wafa. La mayoría de los ataques han impactado sobre zonas densamente pobladas, hospitales, escuelas y campamentos de desplazados, profundizando una catástrofe humanitaria sin precedentes.\n",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/otra-masacre-en-gaza/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-07.json",
+    "message_index": 2104,
+    "message_id": 98000,
+    "date": "2025-07-02T16:55:13+00:00",
+    "text": "teleSUR\nNuevos bombardeos en zonas «seguras» de Gaza dejan decenas de civiles muertos\nhttps://www.telesurtv.net/otra-masacre-en-gaza/",
+    "photo_path": null,
+    "views": 1622,
+    "reactions": {
+      "🤬": 31,
+      "😢": 2,
+      "😭": 2,
+      "❤": 1
+    },
+    "total_reactions": 36
+  },
+  "preprocessing": {
+    "cleaned": "la franja de gaza volvió a ser escenario de una ofensiva letal por parte del ejército israelí. desde la madrugada del miércoles 2 de julio, múltiples bombardeos impactaron en zonas consideradas “seguras” por las autoridades de ocupación, dejando decenas de muertos y heridos, muchos de ellos niños y desplazados internos. uno de los ataques más graves ocurrió en al-mawasi, khan yunis, donde fueron alcanzadas tiendas de campaña que albergaban a familias desplazadas. seis personas murieron en el acto y al menos diez más resultaron heridas, según reportó la agencia palestina wafa. esta zona había sido designada como refugio seguro, pero ha sido bombardeada reiteradamente en las últimas semanas. otro ataque aéreo golpeó una vivienda familiar en la calle jaffa, en pleno centro de la ciudad de gaza. la casa fue destruida casi por completo y provocó la muerte de cuatro miembros de la familia zeno: el padre, ahmed ayyad; la madre, ayat; y sus dos hijas, zahra y obaida. equipos de emergencia continúan removiendo escombros ante el temor de que haya más víctimas bajo las ruinas. en deir al-balah, drones israelíes atacaron otra tienda de desplazados cerca del hospital de los mártires de al-aqsa, dejando al menos diez heridos. además, se registraron disparos de drones en el barrio de al-karama, al noroeste de gaza capital, que también causaron múltiples heridos. el martes 1 de julio había sido especialmente sangriento: más de 100 personas murieron por ataques aéreos y fuego directo del ejército israelí, en lo que medios palestinos describen como una jornada de masacres. desde el 7 de octubre de 2023, el saldo de víctimas palestinas en gaza asciende a 56.647 muertos y más de 134.000 heridos, según la agencia de noticias palestina wafa. la mayoría de los ataques han impactado sobre zonas densamente pobladas, hospitales, escuelas y campamentos de desplazados, profundizando una catástrofe humanitaria sin precedentes.",
+    "tokens": [
+      "franja",
+      "gaza",
+      "volvió",
+      "ser",
+      "escenario",
+      "ofensiva",
+      "letal",
+      "parte",
+      "ejército",
+      "israelí",
+      ".",
+      "madrugada",
+      "miércoles",
+      "2",
+      "julio",
+      ",",
+      "múltiples",
+      "bombardeos",
+      "impactaron",
+      "zonas",
+      "consideradas",
+      "“",
+      "seguras",
+      "”",
+      "autoridades",
+      "ocupación",
+      ",",
+      "dejando",
+      "decenas",
+      "muertos",
+      "heridos",
+      ",",
+      "niños",
+      "desplazados",
+      "internos",
+      ".",
+      "ataques",
+      "graves",
+      "ocurrió",
+      "al-mawasi",
+      ",",
+      "khan",
+      "yunis",
+      ",",
+      "alcanzadas",
+      "tiendas",
+      "campaña",
+      "albergaban",
+      "familias",
+      "desplazadas",
+      ".",
+      "seis",
+      "personas",
+      "murieron",
+      "acto",
+      "menos",
+      "diez",
+      "resultaron",
+      "heridas",
+      ",",
+      "según",
+      "reportó",
+      "agencia",
+      "palestina",
+      "wafa",
+      ".",
+      "zona",
+      "sido",
+      "designada",
+      "refugio",
+      "seguro",
+      ",",
+      "sido",
+      "bombardeada",
+      "reiteradamente",
+      "últimas",
+      "semanas",
+      ".",
+      "ataque",
+      "aéreo",
+      "golpeó",
+      "vivienda",
+      "familiar",
+      "calle",
+      "jaffa",
+      ",",
+      "pleno",
+      "centro",
+      "ciudad",
+      "gaza",
+      ".",
+      "casa",
+      "destruida",
+      "casi",
+      "completo",
+      "provocó",
+      "muerte",
+      "cuatro",
+      "miembros",
+      "familia",
+      "zeno",
+      ":",
+      "padre",
+      ",",
+      "ahmed",
+      "ayyad",
+      ";",
+      "madre",
+      ",",
+      "ayat",
+      ";",
+      "dos",
+      "hijas",
+      ",",
+      "zahra",
+      "obaida",
+      ".",
+      "equipos",
+      "emergencia",
+      "continúan",
+      "removiendo",
+      "escombros",
+      "temor",
+      "víctimas",
+      "bajo",
+      "ruinas",
+      ".",
+      "deir",
+      "al-balah",
+      ",",
+      "drones",
+      "israelíes",
+      "atacaron",
+      "tienda",
+      "desplazados",
+      "cerca",
+      "hospital",
+      "mártires",
+      "al-aqsa",
+      ",",
+      "dejando",
+      "menos",
+      "diez",
+      "heridos",
+      ".",
+      "además",
+      ",",
+      "registraron",
+      "disparos",
+      "drones",
+      "barrio",
+      "al-karama",
+      ",",
+      "noroeste",
+      "gaza",
+      "capital",
+      ",",
+      "causaron",
+      "múltiples",
+      "heridos",
+      ".",
+      "martes",
+      "1",
+      "julio",
+      "sido",
+      "especialmente",
+      "sangriento",
+      ":",
+      "100",
+      "personas",
+      "murieron",
+      "ataques",
+      "aéreos",
+      "fuego",
+      "directo",
+      "ejército",
+      "israelí",
+      ",",
+      "medios",
+      "palestinos",
+      "describen",
+      "jornada",
+      "masacres",
+      ".",
+      "7",
+      "octubre",
+      "2023",
+      ",",
+      "saldo",
+      "víctimas",
+      "palestinas",
+      "gaza",
+      "asciende",
+      "56.647",
+      "muertos",
+      "134.000",
+      "heridos",
+      ",",
+      "según",
+      "agencia",
+      "noticias",
+      "palestina",
+      "wafa",
+      ".",
+      "mayoría",
+      "ataques",
+      "impactado",
+      "zonas",
+      "densamente",
+      "pobladas",
+      ",",
+      "hospitales",
+      ",",
+      "escuelas",
+      "campamentos",
+      "desplazados",
+      ",",
+      "profundizando",
+      "catástrofe",
+      "humanitaria",
+      "precedentes",
+      "."
+    ],
+    "token_count": 222,
+    "sentence_count": 13
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 40,
+      "IN": 20,
+      "FW": 81,
+      "NN": 87,
+      "JJ": 23,
+      "NNS": 20,
+      "VBP": 15,
+      "VBZ": 1,
+      "CD": 4,
+      "VBD": 1
+    },
+    "bigram_freq": {
+      "NNP-NNP": 14,
+      "NNP-IN": 3,
+      "IN-NNP": 6,
+      "NNP-FW": 11,
+      "FW-NN": 9,
+      "NN-NN": 51,
+      "NN-IN": 11,
+      "IN-JJ": 1,
+      "JJ-JJ": 2,
+      "JJ-NN": 14,
+      "NN-NNP": 4,
+      "FW-FW": 51,
+      "FW-NNS": 5,
+      "NNS-VBP": 12,
+      "VBP-NN": 3,
+      "NN-FW": 7,
+      "VBP-JJ": 7,
+      "JJ-NNS": 2,
+      "NNS-IN": 3,
+      "IN-IN": 1,
+      "IN-FW": 6,
+      "FW-JJ": 4,
+      "JJ-FW": 4,
+      "FW-NNP": 10,
+      "VBP-NNS": 1,
+      "VBP-IN": 1,
+      "NNP-NN": 7,
+      "NN-JJ": 5,
+      "IN-NN": 2,
+      "NN-VBP": 2,
+      "VBP-NNP": 3,
+      "NNP-VBP": 1,
+      "NN-NNS": 7,
+      "NNP-JJ": 2,
+      "JJ-NNP": 1,
+      "IN-NNS": 2,
+      "NNP-VBZ": 1,
+      "VBZ-FW": 1,
+      "IN-CD": 2,
+      "CD-NNS": 3,
+      "NNS-NN": 1,
+      "NNS-NNP": 1,
+      "FW-IN": 1,
+      "CD-JJ": 1,
+      "NNP-VBD": 1,
+      "VBD-CD": 1,
+      "NNS-FW": 1,
+      "FW-CD": 1,
+      "NNS-JJ": 1
+    },
+    "trigram_freq": {
+      "NNP-NNP-IN": 2,
+      "NNP-IN-NNP": 2,
+      "IN-NNP-FW": 1,
+      "NNP-FW-NN": 2,
+      "FW-NN-NN": 4,
+      "NN-NN-IN": 4,
+      "NN-IN-JJ": 1,
+      "IN-JJ-JJ": 1,
+      "JJ-JJ-JJ": 1,
+      "JJ-JJ-NN": 1,
+      "JJ-NN-NN": 8,
+      "NN-NN-NN": 30,
+      "NN-NN-NNP": 2,
+      "NN-NNP-NNP": 4,
+      "NNP-NNP-NNP": 5,
+      "NNP-NNP-FW": 3,
+      "NNP-FW-FW": 7,
+      "FW-FW-FW": 35,
+      "FW-FW-NNS": 5,
+      "FW-NNS-VBP": 4,
+      "NNS-VBP-NN": 3,
+      "VBP-NN-FW": 2,
+      "NN-FW-FW": 4,
+      "NNS-VBP-JJ": 5,
+      "VBP-JJ-NNS": 1,
+      "JJ-NNS-IN": 1,
+      "NNS-IN-IN": 1,
+      "IN-IN-FW": 1,
+      "IN-FW-JJ": 3,
+      "FW-JJ-FW": 1,
+      "JJ-FW-FW": 3,
+      "FW-FW-NNP": 6,
+      "FW-NNP-FW": 5,
+      "NNS-VBP-NNS": 1,
+      "VBP-NNS-VBP": 1,
+      "NNS-VBP-IN": 1,
+      "VBP-IN-NNP": 1,
+      "IN-NNP-NNP": 1,
+      "NNP-NNP-NN": 2,
+      "NNP-NN-NN": 7,
+      "NN-NN-JJ": 2,
+      "NN-JJ-NN": 5,
+      "JJ-NN-IN": 4,
+      "NN-IN-FW": 3,
+      "FW-JJ-NN": 3,
+      "NN-NN-FW": 4,
+      "NN-FW-NNP": 2,
+      "NNP-FW-NNP": 2,
+      "FW-FW-NN": 2,
+      "NN-IN-NN": 2,
+      "IN-NN-NNP": 1,
+      "FW-NNP-NN": 2,
+      "JJ-NN-JJ": 2,
+      "NN-NN-VBP": 2,
+      "NN-VBP-NNP": 1,
+      "VBP-NNP-FW": 1,
+      "FW-NNP-NNP": 2,
+      "NNP-NNP-VBP": 1,
+      "NNP-VBP-JJ": 1,
+      "VBP-JJ-NN": 4,
+      "FW-NN-NNP": 1,
+      "NNP-IN-FW": 1,
+      "IN-FW-NN": 3,
+      "NN-VBP-JJ": 1,
+      "VBP-JJ-FW": 1,
+      "JJ-FW-NN": 1,
+      "FW-NN-IN": 3,
+      "NN-NN-NNS": 7,
+      "NN-NNS-VBP": 6,
+      "NNS-VBP-NNP": 2,
+      "VBP-NNP-NNP": 1,
+      "NNP-NNP-JJ": 1,
+      "NNP-JJ-NNS": 1,
+      "JJ-NNS-VBP": 1,
+      "VBP-NN-JJ": 1,
+      "FW-NN-FW": 1,
+      "FW-NNP-IN": 1,
+      "IN-NNP-NN": 2,
+      "VBP-JJ-NNP": 1,
+      "JJ-NNP-NN": 1,
+      "NN-IN-NNS": 2,
+      "IN-NNS-IN": 1,
+      "NNS-IN-FW": 1,
+      "NN-IN-NNP": 2,
+      "IN-NNP-JJ": 1,
+      "NNP-JJ-NN": 1,
+      "VBP-NNP-VBZ": 1,
+      "NNP-VBZ-FW": 1,
+      "VBZ-FW-FW": 1,
+      "NN-FW-NN": 1,
+      "NN-IN-CD": 1,
+      "IN-CD-NNS": 1,
+      "CD-NNS-NN": 1,
+      "NNS-NN-NN": 1,
+      "IN-NN-NN": 1,
+      "IN-NNS-NNP": 1,
+      "NNS-NNP-FW": 1,
+      "FW-FW-IN": 1,
+      "FW-IN-CD": 1,
+      "IN-CD-JJ": 1,
+      "CD-JJ-FW": 1,
+      "FW-NNS-IN": 1,
+      "NNS-IN-NNP": 1,
+      "IN-NNP-VBD": 1,
+      "NNP-VBD-CD": 1,
+      "VBD-CD-NNS": 1,
+      "CD-NNS-FW": 1,
+      "NNS-FW-FW": 1,
+      "FW-FW-CD": 1,
+      "FW-CD-NNS": 1,
+      "CD-NNS-JJ": 1,
+      "NNS-JJ-FW": 1,
+      "FW-FW-JJ": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 87,
+        "FW": 81,
+        "NNP": 40,
+        "JJ": 23,
+        "IN": 20
+      },
+      "top_bigrams": {
+        "NN-NN": 51,
+        "FW-FW": 51,
+        "NNP-NNP": 14,
+        "JJ-NN": 14,
+        "NNS-VBP": 12
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 35,
+        "NN-NN-NN": 30,
+        "JJ-NN-NN": 8,
+        "NNP-FW-FW": 7,
+        "NNP-NN-NN": 7
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 13,
+    "chunk_counts": {
+      "NP": 84,
+      "PP": 13,
+      "VP": 20,
+      "ADJP": 3
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 10,
+        "weight": 0.0752
+      },
+      {
+        "rule": "NP -> ('Gaza', 'NNP')",
+        "frequency": 3,
+        "weight": 0.0226
+      },
+      {
+        "rule": "NP -> ('heridos', 'NN')",
+        "frequency": 2,
+        "weight": 0.015
+      },
+      {
+        "rule": "NP -> ('ataques', 'NNS')",
+        "frequency": 2,
+        "weight": 0.015
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.015
+      },
+      {
+        "rule": "NP -> ('drones', 'NNS')",
+        "frequency": 2,
+        "weight": 0.015
+      },
+      {
+        "rule": "S -> NP PP VP PP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0075
+      },
+      {
+        "rule": "NP -> ('La', 'NNP') ('Franja', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0075
+      },
+      {
+        "rule": "VP -> ('volvió', 'VBD') NP",
+        "frequency": 1,
+        "weight": 0.0075
+      },
+      {
+        "rule": "NP -> ('a', 'DT') ('ser', 'NN') ('escenario', 'NN')",
+        "frequency": 1,
+        "weight": 0.0075
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "La Franja"
+      },
+      {
+        "label": "PP",
+        "text": "de Gaza"
+      },
+      {
+        "label": "NP",
+        "text": "Gaza"
+      },
+      {
+        "label": "VP",
+        "text": "volvió a ser escenario"
+      },
+      {
+        "label": "NP",
+        "text": "a ser escenario"
+      },
+      {
+        "label": "PP",
+        "text": "de una ofensiva letal por parte del ejército israelí"
+      },
+      {
+        "label": "NP",
+        "text": "una ofensiva letal por parte del ejército israelí"
+      },
+      {
+        "label": "NP",
+        "text": "Desde la madrugada"
+      },
+      {
+        "label": "VP",
+        "text": "del miércoles"
+      },
+      {
+        "label": "NP",
+        "text": "miércoles"
+      },
+      {
+        "label": "PP",
+        "text": "de julio"
+      },
+      {
+        "label": "NP",
+        "text": "julio"
+      },
+      {
+        "label": "NP",
+        "text": "múltiples"
+      },
+      {
+        "label": "VP",
+        "text": "bombardeos impactaron"
+      },
+      {
+        "label": "NP",
+        "text": "impactaron"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP La/NNP Franja/NNP)\n  (PP de/IN (NP Gaza/NNP))\n  (VP volvió/VBD (NP a/DT ser/NN escenario/NN))\n  (PP\n    de/IN\n    (NP\n      una/JJ\n      ofensiva/JJ\n      letal/JJ\n      por/NN\n      parte/NN\n      del/NN\n      ejército/NN\n      israelí/NN))\n  ./.)",
+      "(S\n  (NP Desde/NNP la/NNP madrugada/NNP)\n  (VP del/VBD (NP miércoles/NNS))\n  2/CD\n  (PP de/IN (NP julio/NN))\n  ,/,\n  (NP múltiples/NNS)\n  (VP bombardeos/VBP (NP impactaron/NN))\n  en/FW\n  zonas/FW\n  (NP consideradas/NNS)\n  (VP “/VBP (NP seguras/JJ ”/NNP por/NN las/NNS))\n  autoridades/IN\n  (PP de/IN (NP ocupación/NN))\n  ,/,\n  (ADJP dejando/JJ)\n  decenas/FW\n  de/FW\n  muertos/FW\n  y/FW\n  (NP heridos/NN)\n  ,/,\n  muchos/FW\n  de/FW\n  ellos/FW\n  niños/FW\n  y/FW\n  desplazados/FW\n  (NP internos/NNS)\n  ./.)",
+      "(S\n  (NP Uno/NNP)\n  de/FW\n  los/FW\n  (NP ataques/NNS)\n  (VP más/VBP (NP graves/NNS))\n  (VP ocurrió/VBP)\n  (PP en/IN (NP Al-Mawasi/NNP))\n  ,/,\n  (NP Khan/NNP Yunis/NNP)\n  ,/,\n  (NP donde/NN fueron/NN)\n  (NP alcanzadas/JJ tiendas/NN)\n  de/IN\n  campaña/FW\n  (ADJP que/JJ)\n  (VP albergaban/VBP (NP a/DT familias/JJ desplazadas/NN))\n  ./.)",
+      "(S\n  (NP Seis/NNP personas/NN murieron/NN)\n  en/FW\n  el/FW\n  acto/FW\n  y/FW\n  al/FW\n  menos/FW\n  diez/FW\n  más/FW\n  (NP resultaron/NN heridas/NN)\n  ,/,\n  (NP según/JJ reportó/NN la/NN)\n  (PP agencia/IN (NP palestina/NN WAFA/NNP))\n  ./.)",
+      "(S\n  (NP\n    Esta/NNP\n    zona/NNP\n    había/NN\n    sido/NN\n    designada/NN\n    como/NN\n    refugio/NN\n    seguro/NN)\n  ,/,\n  (NP pero/NN ha/NN sido/NN bombardeada/NN reiteradamente/NN)\n  en/FW\n  las/FW\n  últimas/FW\n  (NP semanas/NNS)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "CANTIDADES_NUMERICAS",
+      "REGIONES_PROVINCIAS",
+      "CRISIS_HUMANITARIA_SERVICIOS",
+      "PAISES",
+      "LOCALIZACIONES_ESPECIFICAS",
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "INFRAESTRUCTURA_SERVICIOS",
+      "CONFLICTOS_ARMADOS_OPERACIONES",
+      "FECHAS_ESPECIFICAS"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "ofensiva letal por parte del ejército",
+        "position": [
+          48,
+          85
+        ],
+        "start": 48,
+        "end": 85
+      },
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "ocupación",
+        "position": [
+          227,
+          236
+        ],
+        "start": 227,
+        "end": 236
+      },
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "capital",
+        "position": [
+          1322,
+          1329
+        ],
+        "start": 1322,
+        "end": 1329
+      },
+      {
+        "category": "CRISIS_HUMANITARIA_SERVICIOS",
+        "matched_text": "catástrofe humanitaria",
+        "position": [
+          1895,
+          1917
+        ],
+        "start": 1895,
+        "end": 1917
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "calle",
+        "position": [
+          753,
+          758
+        ],
+        "start": 753,
+        "end": 758
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "hospital",
+        "position": [
+          1165,
+          1173
+        ],
+        "start": 1165,
+        "end": 1173
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "israelí",
+        "position": [
+          86,
+          93
+        ],
+        "start": 86,
+        "end": 93
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "zona había",
+        "position": [
+          589,
+          599
+        ],
+        "start": 589,
+        "end": 599
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "calle jaffa",
+        "position": [
+          753,
+          764
+        ],
+        "start": 753,
+        "end": 764
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "centro de",
+        "position": [
+          775,
+          784
+        ],
+        "start": 775,
+        "end": 784
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "hospital de",
+        "position": [
+          1165,
+          1176
+        ],
+        "start": 1165,
+        "end": 1176
+      },
+      {
+        "category": "FECHAS_ESPECIFICAS",
+        "matched_text": "7 de octubre de 2023",
+        "position": [
+          1594,
+          1614
+        ],
+        "start": 1594,
+        "end": 1614
+      },
+      {
+        "category": "FECHAS_ESPECIFICAS",
+        "matched_text": "miércoles 2 de julio",
+        "position": [
+          118,
+          138
+        ],
+        "start": 118,
+        "end": 138
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "100 personas",
+        "position": [
+          1436,
+          1448
+        ],
+        "start": 1436,
+        "end": 1448
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "más de 100",
+        "position": [
+          1429,
+          1439
+        ],
+        "start": 1429,
+        "end": 1439
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "más de 134.000",
+        "position": [
+          1684,
+          1698
+        ],
+        "start": 1684,
+        "end": 1698
+      }
+    ],
+    "match_count": 16
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Franja de Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Zeno",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Obaida",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Zahra",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Wafa",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Al-Mawasi",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Al-Karama",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Jaffa",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Ayat",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Khan Yunis",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Ahmed Ayyad",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Deir al-Balah",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Hospital de los Mártires de Al-Aqsa",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Jaffa",
+        "relacion": "GOLPEAR",
+        "objeto": "Gaza"
+      },
+      {
+        "sujeto": "Deir al-Balah",
+        "relacion": "ATACAR",
+        "objeto": "Hospital de los Mártires de Al-Aqsa"
+      },
+      {
+        "sujeto": "Gaza",
+        "relacion": "ASCENDER",
+        "objeto": "Wafa"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.5267,
+    "pos": 0.008,
+    "neu": 0.972,
+    "neg": 0.02,
+    "label": "negative"
+  }
+}

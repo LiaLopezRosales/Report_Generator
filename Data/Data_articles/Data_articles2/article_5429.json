@@ -1,0 +1,805 @@
+{
+  "url": "https://www.telesurtv.net/nueva-masacre-de-israel-en-la-franja-de-gaza-deja-mas-de-50-asesinados/",
+  "title": "Nueva masacre de Israel en la Franja de Gaza deja más de 50 asesinados - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "asesinatos",
+    "Conflicto",
+    "conflicto destacado",
+    "Gaza",
+    "Israel"
+  ],
+  "text": "\nLa urgente búsqueda de alimentos por parte de los desplazados internos en la Franja de Gaza se convirtió este miércoles en un trágico escenario que cobró la vida de más de 50 personas mientras esperaban asistencia alimentaria, a manos de las fuerzas armadas de la ocupación israelí.\nLa matanza ocurrió en horas de la tarde del miércoles, cuando numerosos ciudadanos se acercaron a los camiones de ayuda humanitaria desplegados en la zona de Zikim, próxima a Sudaniya.\nLos heridos fueron conducidos al Hospital de Campaña Saraya, operado por la Sociedad de la Media Luna Roja Palestina, la cual confirmó haber atendido a 30 individuos lesionados que aguardaban auxilio en el área noroeste de Beit Lahia, situada en el norte de Gaza.\nA este hecho se suma que, según informes médicos, el balance de víctimas en las últimas 24 horas supera el medio centenar de fallecidos, mientras que el número de heridos sobrepasa las 150 personas.\nEsta nueva tragedia eleva a 1.239 el total de ciudadanos que han perdido la vida en su intento por sobrevivir, y a más de 8.152 los que han resultado afectados físicamente.\nDe acuerdo con los reportes del Ministerio de Salud de Gaza, la cifra de víctimas relacionadas con la lucha por subsistir ha alcanzado en su mayoría a mujeres y menores de edad, en un contexto donde la emergencia humanitaria se agrava cada día más.\nEn ese mismo sentido, la Agencia de las Naciones Unidas para los Refugiados de Palestina (UNRWA) denunció la necesidad de que la ONU desarrolle sus operaciones en Gaza, para evitar el aumento de víctimas para poner fin a un genocidio.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/nueva-masacre-de-israel-en-la-franja-de-gaza-deja-mas-de-50-asesinados/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-07.json",
+    "message_index": 39,
+    "message_id": 100585,
+    "date": "2025-07-31T11:55:07+00:00",
+    "text": "teleSUR\nNueva masacre de Israel en la Franja de Gaza deja más de 50 asesinados\nhttps://www.telesurtv.net/nueva-masacre-de-israel-en-la-franja-de-gaza-deja-mas-de-50-asesinados/",
+    "photo_path": null,
+    "views": 1998,
+    "reactions": {
+      "🤬": 38,
+      "😭": 4,
+      "❤": 1
+    },
+    "total_reactions": 43
+  },
+  "preprocessing": {
+    "cleaned": "la urgente búsqueda de alimentos por parte de los desplazados internos en la franja de gaza se convirtió este miércoles en un trágico escenario que cobró la vida de más de 50 personas mientras esperaban asistencia alimentaria, a manos de las fuerzas armadas de la ocupación israelí. la matanza ocurrió en horas de la tarde del miércoles, cuando numerosos ciudadanos se acercaron a los camiones de ayuda humanitaria desplegados en la zona de zikim, próxima a sudaniya. los heridos fueron conducidos al hospital de campaña saraya, operado por la sociedad de la media luna roja palestina, la cual confirmó haber atendido a 30 individuos lesionados que aguardaban auxilio en el área noroeste de beit lahia, situada en el norte de gaza. a este hecho se suma que, según informes médicos, el balance de víctimas en las últimas 24 horas supera el medio centenar de fallecidos, mientras que el número de heridos sobrepasa las 150 personas. esta nueva tragedia eleva a 1.239 el total de ciudadanos que han perdido la vida en su intento por sobrevivir, y a más de 8.152 los que han resultado afectados físicamente. de acuerdo con los reportes del ministerio de salud de gaza, la cifra de víctimas relacionadas con la lucha por subsistir ha alcanzado en su mayoría a mujeres y menores de edad, en un contexto donde la emergencia humanitaria se agrava cada día más. en ese mismo sentido, la agencia de las naciones unidas para los refugiados de palestina (unrwa) denunció la necesidad de que la onu desarrolle sus operaciones en gaza, para evitar el aumento de víctimas para poner fin a un genocidio.",
+    "tokens": [
+      "urgente",
+      "búsqueda",
+      "alimentos",
+      "parte",
+      "desplazados",
+      "internos",
+      "franja",
+      "gaza",
+      "convirtió",
+      "miércoles",
+      "trágico",
+      "escenario",
+      "cobró",
+      "vida",
+      "50",
+      "personas",
+      "mientras",
+      "esperaban",
+      "asistencia",
+      "alimentaria",
+      ",",
+      "manos",
+      "fuerzas",
+      "armadas",
+      "ocupación",
+      "israelí",
+      ".",
+      "matanza",
+      "ocurrió",
+      "horas",
+      "tarde",
+      "miércoles",
+      ",",
+      "numerosos",
+      "ciudadanos",
+      "acercaron",
+      "camiones",
+      "ayuda",
+      "humanitaria",
+      "desplegados",
+      "zona",
+      "zikim",
+      ",",
+      "próxima",
+      "sudaniya",
+      ".",
+      "heridos",
+      "conducidos",
+      "hospital",
+      "campaña",
+      "saraya",
+      ",",
+      "operado",
+      "sociedad",
+      "media",
+      "luna",
+      "roja",
+      "palestina",
+      ",",
+      "confirmó",
+      "haber",
+      "atendido",
+      "30",
+      "individuos",
+      "lesionados",
+      "aguardaban",
+      "auxilio",
+      "área",
+      "noroeste",
+      "beit",
+      "lahia",
+      ",",
+      "situada",
+      "norte",
+      "gaza",
+      ".",
+      "hecho",
+      "suma",
+      ",",
+      "según",
+      "informes",
+      "médicos",
+      ",",
+      "balance",
+      "víctimas",
+      "últimas",
+      "24",
+      "horas",
+      "supera",
+      "medio",
+      "centenar",
+      "fallecidos",
+      ",",
+      "mientras",
+      "número",
+      "heridos",
+      "sobrepasa",
+      "150",
+      "personas",
+      ".",
+      "nueva",
+      "tragedia",
+      "eleva",
+      "1.239",
+      "total",
+      "ciudadanos",
+      "perdido",
+      "vida",
+      "intento",
+      "sobrevivir",
+      ",",
+      "8.152",
+      "resultado",
+      "afectados",
+      "físicamente",
+      ".",
+      "acuerdo",
+      "reportes",
+      "ministerio",
+      "salud",
+      "gaza",
+      ",",
+      "cifra",
+      "víctimas",
+      "relacionadas",
+      "lucha",
+      "subsistir",
+      "alcanzado",
+      "mayoría",
+      "mujeres",
+      "menores",
+      "edad",
+      ",",
+      "contexto",
+      "emergencia",
+      "humanitaria",
+      "agrava",
+      "cada",
+      "día",
+      ".",
+      "mismo",
+      ",",
+      "agencia",
+      "naciones",
+      "unidas",
+      "refugiados",
+      "palestina",
+      "(",
+      "unrwa",
+      ")",
+      "denunció",
+      "necesidad",
+      "onu",
+      "desarrolle",
+      "operaciones",
+      "gaza",
+      ",",
+      "evitar",
+      "aumento",
+      "víctimas",
+      "poner",
+      "fin",
+      "genocidio",
+      "."
+    ],
+    "token_count": 164,
+    "sentence_count": 7
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 34,
+      "JJ": 24,
+      "NN": 69,
+      "IN": 13,
+      "FW": 86,
+      "NNS": 11,
+      "VBP": 5,
+      "CD": 6,
+      "MD": 2,
+      "VB": 2,
+      "RB": 1,
+      "VBD": 3,
+      "VBZ": 3
+    },
+    "bigram_freq": {
+      "NNP-JJ": 4,
+      "JJ-NN": 17,
+      "NN-IN": 9,
+      "IN-FW": 9,
+      "FW-JJ": 5,
+      "FW-NNP": 12,
+      "NNP-FW": 10,
+      "FW-NN": 10,
+      "NN-NN": 34,
+      "NN-NNS": 4,
+      "NNS-VBP": 5,
+      "VBP-JJ": 3,
+      "NN-FW": 8,
+      "FW-FW": 53,
+      "FW-CD": 4,
+      "CD-NNS": 3,
+      "NNS-JJ": 2,
+      "JJ-JJ": 2,
+      "NNS-FW": 1,
+      "JJ-FW": 1,
+      "NN-NNP": 5,
+      "NNP-NNP": 10,
+      "NNP-MD": 2,
+      "MD-VB": 2,
+      "VB-FW": 1,
+      "FW-NNS": 2,
+      "JJ-NNS": 2,
+      "VBP-RB": 1,
+      "RB-JJ": 1,
+      "NNS-IN": 2,
+      "VBP-IN": 1,
+      "NNP-NN": 6,
+      "NN-JJ": 4,
+      "JJ-NNP": 2,
+      "VB-JJ": 1,
+      "NN-VBD": 2,
+      "VBD-CD": 2,
+      "CD-JJ": 2,
+      "IN-NNP": 3,
+      "NNP-VBD": 1,
+      "VBD-FW": 1,
+      "NNS-NNP": 1,
+      "CD-NN": 1,
+      "NN-VBZ": 2,
+      "VBZ-FW": 2,
+      "IN-NN": 1,
+      "VBZ-VBZ": 1,
+      "NNP-IN": 1
+    },
+    "trigram_freq": {
+      "NNP-JJ-NN": 4,
+      "JJ-NN-IN": 7,
+      "NN-IN-FW": 7,
+      "IN-FW-JJ": 3,
+      "FW-JJ-NN": 4,
+      "IN-FW-NNP": 1,
+      "FW-NNP-FW": 7,
+      "NNP-FW-NNP": 4,
+      "NNP-FW-NN": 3,
+      "FW-NN-NN": 6,
+      "NN-NN-NNS": 2,
+      "NN-NNS-VBP": 2,
+      "NNS-VBP-JJ": 3,
+      "VBP-JJ-NN": 2,
+      "JJ-NN-NN": 6,
+      "NN-NN-NN": 15,
+      "NN-NN-FW": 6,
+      "NN-FW-FW": 5,
+      "FW-FW-FW": 37,
+      "FW-FW-CD": 4,
+      "FW-CD-NNS": 3,
+      "CD-NNS-JJ": 2,
+      "NNS-JJ-JJ": 2,
+      "JJ-JJ-NN": 2,
+      "JJ-NN-NNS": 1,
+      "NN-NNS-FW": 1,
+      "NNS-FW-FW": 1,
+      "FW-FW-JJ": 2,
+      "FW-JJ-FW": 1,
+      "JJ-FW-FW": 1,
+      "FW-FW-NN": 4,
+      "FW-NN-NNP": 1,
+      "NN-NNP-NNP": 2,
+      "NNP-NNP-MD": 2,
+      "NNP-MD-VB": 2,
+      "MD-VB-FW": 1,
+      "VB-FW-FW": 1,
+      "FW-FW-NNS": 1,
+      "FW-NNS-VBP": 2,
+      "VBP-JJ-NNS": 1,
+      "JJ-NNS-VBP": 1,
+      "NNS-VBP-RB": 1,
+      "VBP-RB-JJ": 1,
+      "RB-JJ-NNS": 1,
+      "JJ-NNS-IN": 1,
+      "NNS-IN-FW": 1,
+      "IN-FW-NNS": 1,
+      "NNS-VBP-IN": 1,
+      "VBP-IN-FW": 1,
+      "IN-FW-FW": 3,
+      "FW-FW-NNP": 5,
+      "FW-NNP-NN": 2,
+      "NNP-NN-NNP": 1,
+      "NNP-NNP-NN": 3,
+      "NNP-NN-NN": 5,
+      "NN-NN-JJ": 4,
+      "NN-JJ-NNP": 1,
+      "JJ-NNP-FW": 2,
+      "FW-NNP-NNP": 3,
+      "MD-VB-JJ": 1,
+      "VB-JJ-NNP": 1,
+      "NNP-FW-FW": 3,
+      "NNP-NNP-NNP": 3,
+      "NNP-NNP-JJ": 1,
+      "NN-NN-VBD": 1,
+      "NN-VBD-CD": 2,
+      "VBD-CD-JJ": 2,
+      "CD-JJ-NN": 2,
+      "NN-JJ-NN": 3,
+      "NN-IN-NNP": 1,
+      "IN-NNP-NNP": 2,
+      "NNP-NNP-VBD": 1,
+      "NNP-VBD-FW": 1,
+      "VBD-FW-FW": 1,
+      "NN-NN-IN": 2,
+      "CD-NNS-NNP": 1,
+      "NNS-NNP-JJ": 1,
+      "JJ-NN-VBD": 1,
+      "IN-FW-NN": 1,
+      "FW-CD-NN": 1,
+      "CD-NN-NN": 1,
+      "JJ-NN-NNP": 1,
+      "NN-NNP-FW": 1,
+      "NN-NN-VBZ": 2,
+      "NN-VBZ-FW": 1,
+      "VBZ-FW-NNP": 1,
+      "FW-NN-FW": 2,
+      "NN-IN-NN": 1,
+      "IN-NN-NN": 1,
+      "NN-VBZ-VBZ": 1,
+      "VBZ-VBZ-FW": 1,
+      "VBZ-FW-FW": 1,
+      "NN-FW-NN": 2,
+      "NN-NN-NNP": 2,
+      "NN-NNP-JJ": 1,
+      "NN-FW-NNP": 1,
+      "NN-NNP-IN": 1,
+      "NNP-IN-NNP": 1,
+      "FW-NN-NNS": 1,
+      "NN-NNS-IN": 1,
+      "NNS-IN-NNP": 1,
+      "IN-NNP-NN": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "FW": 86,
+        "NN": 69,
+        "NNP": 34,
+        "JJ": 24,
+        "IN": 13
+      },
+      "top_bigrams": {
+        "FW-FW": 53,
+        "NN-NN": 34,
+        "JJ-NN": 17,
+        "FW-NNP": 12,
+        "NNP-FW": 10
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 37,
+        "NN-NN-NN": 15,
+        "JJ-NN-IN": 7,
+        "NN-IN-FW": 7,
+        "FW-NNP-FW": 7
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 7,
+    "chunk_counts": {
+      "NP": 73,
+      "VP": 10,
+      "ADJP": 1,
+      "PP": 6
+    },
+    "top_rules": [
+      {
+        "rule": "NP -> ('Gaza', 'NNP')",
+        "frequency": 4,
+        "weight": 0.0412
+      },
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 3,
+        "weight": 0.0309
+      },
+      {
+        "rule": "NP -> ('La', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0206
+      },
+      {
+        "rule": "NP -> ('personas', 'NNS')",
+        "frequency": 2,
+        "weight": 0.0206
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0206
+      },
+      {
+        "rule": "S -> NP NP ('de', 'IN') ('alimentos', 'FW') NP ('de', 'IN') ('los', 'FW') NP ('en', 'IN') ('la', 'FW') NP ('de', 'FW') NP ('se', 'FW') NP VP ('la', 'FW') ('vida', 'FW') ('de', 'FW') ('más', 'FW') ('de', 'FW') ('50', 'CD') NP NP (',', ',') ('a', 'DT') ('manos', 'FW') ('de', 'FW') ('las', 'FW') ADJP ('armadas', 'FW') ('de', 'FW') ('la', 'FW') ('ocupación', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0103
+      },
+      {
+        "rule": "NP -> ('urgente', 'JJ') ('búsqueda', 'NN')",
+        "frequency": 1,
+        "weight": 0.0103
+      },
+      {
+        "rule": "NP -> ('por', 'JJ') ('parte', 'NN')",
+        "frequency": 1,
+        "weight": 0.0103
+      },
+      {
+        "rule": "NP -> ('desplazados', 'JJ') ('internos', 'NN')",
+        "frequency": 1,
+        "weight": 0.0103
+      },
+      {
+        "rule": "NP -> ('Franja', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0103
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "La"
+      },
+      {
+        "label": "NP",
+        "text": "urgente búsqueda"
+      },
+      {
+        "label": "NP",
+        "text": "por parte"
+      },
+      {
+        "label": "NP",
+        "text": "desplazados internos"
+      },
+      {
+        "label": "NP",
+        "text": "Franja"
+      },
+      {
+        "label": "NP",
+        "text": "Gaza"
+      },
+      {
+        "label": "NP",
+        "text": "convirtió este miércoles"
+      },
+      {
+        "label": "VP",
+        "text": "en un trágico escenario que cobró"
+      },
+      {
+        "label": "NP",
+        "text": "un trágico escenario que cobró"
+      },
+      {
+        "label": "NP",
+        "text": "personas"
+      },
+      {
+        "label": "NP",
+        "text": "mientras esperaban asistencia alimentaria"
+      },
+      {
+        "label": "ADJP",
+        "text": "fuerzas"
+      },
+      {
+        "label": "NP",
+        "text": "israelí"
+      },
+      {
+        "label": "NP",
+        "text": "La"
+      },
+      {
+        "label": "VP",
+        "text": "ocurrió en"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP La/NNP)\n  (NP urgente/JJ búsqueda/NN)\n  de/IN\n  alimentos/FW\n  (NP por/JJ parte/NN)\n  de/IN\n  los/FW\n  (NP desplazados/JJ internos/NN)\n  en/IN\n  la/FW\n  (NP Franja/NNP)\n  de/FW\n  (NP Gaza/NNP)\n  se/FW\n  (NP convirtió/NN este/NN miércoles/NNS)\n  (VP en/VBP (NP un/JJ trágico/NN escenario/NN que/NN cobró/NN))\n  la/FW\n  vida/FW\n  de/FW\n  más/FW\n  de/FW\n  50/CD\n  (NP personas/NNS)\n  (NP mientras/JJ esperaban/JJ asistencia/NN alimentaria/NN)\n  ,/,\n  a/DT\n  manos/FW\n  de/FW\n  las/FW\n  (ADJP fuerzas/JJ)\n  armadas/FW\n  de/FW\n  la/FW\n  ocupación/FW\n  (NP israelí/NN)\n  ./.)",
+      "(S\n  (NP La/NNP)\n  matanza/PRP\n  (VP ocurrió/VBP en/JJ)\n  horas/FW\n  de/FW\n  la/FW\n  tarde/FW\n  (NP del/NN miércoles/NNS)\n  ,/,\n  (NP cuando/NN)\n  (NP numerosos/JJ ciudadanos/NNS)\n  (VP se/VBP)\n  (PP acercaron/IN (NP a/DT los/JJ camiones/NNS))\n  de/IN\n  ayuda/FW\n  (NP humanitaria/NNS)\n  (VP desplegados/VBP)\n  en/IN\n  la/FW\n  zona/FW\n  de/FW\n  (NP Zikim/NNP)\n  ,/,\n  (VP próxima/VBZ (NP a/DT Sudaniya/NNP))\n  ./.)",
+      "(S\n  (NP Los/NNP heridos/NN fueron/NN conducidos/NN)\n  (NP al/JJ Hospital/NNP)\n  de/FW\n  (NP Campaña/NNP Saraya/NNP)\n  ,/,\n  operado/FW\n  (NP por/NN)\n  la/FW\n  (NP Sociedad/NNP)\n  de/FW\n  la/FW\n  (NP Media/NNP Luna/NNP Roja/NNP Palestina/NNP)\n  ,/,\n  la/FW\n  (NP cual/JJ confirmó/NN haber/NN)\n  (VP atendido/VBD)\n  a/DT\n  30/CD\n  (NP individuos/NN lesionados/NN)\n  (NP que/JJ aguardaban/JJ auxilio/NN)\n  en/IN\n  el/FW\n  (NP área/JJ noroeste/NN)\n  (PP de/IN (NP Beit/NNP Lahia/NNP))\n  ,/,\n  (NP situada/NN)\n  en/FW\n  el/FW\n  norte/FW\n  de/FW\n  (NP Gaza/NNP)\n  ./.)",
+      "(S\n  (NP A/DT este/NN hecho/NN se/NN suma/NN que/NN)\n  ,/,\n  (NP según/JJ informes/NNS médicos/NNS)\n  ,/,\n  (NP el/JJ balance/NN)\n  de/IN\n  víctimas/FW\n  en/FW\n  las/FW\n  últimas/FW\n  24/CD\n  (NP horas/NNS)\n  (NP supera/JJ el/JJ medio/NN centenar/NN)\n  (PP de/IN (NP fallecidos/NN))\n  ,/,\n  mientras/FW\n  (NP que/NN)\n  el/FW\n  número/FW\n  de/FW\n  heridos/FW\n  sobrepasa/FW\n  las/FW\n  150/CD\n  (NP personas/NNS)\n  ./.)",
+      "(S\n  (NP Esta/NNP)\n  (NP nueva/JJ tragedia/NN)\n  (VP eleva/VBD)\n  a/DT\n  1.239/CD\n  (NP el/JJ total/NN)\n  de/IN\n  ciudadanos/FW\n  (NP que/NN han/NN perdido/NN la/NN)\n  vida/FW\n  en/FW\n  su/FW\n  intento/FW\n  (NP por/NN sobrevivir/NN)\n  ,/,\n  (VP y/VB (NP a/DT más/NN))\n  de/IN\n  8.152/CD\n  (NP los/JJ que/NN han/NN resultado/NN afectados/NN físicamente/NN)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "GRUPOS_ESPECIFICOS",
+      "ORGANISMOS_INTERNACIONALES",
+      "CANTIDADES_NUMERICAS",
+      "ACCIONES_LEGALES",
+      "REGIONES_PROVINCIAS",
+      "CRISIS_HUMANITARIA_SERVICIOS",
+      "PAISES",
+      "LOCALIZACIONES_ESPECIFICAS",
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "CONFLICTOS_ARMADOS_OPERACIONES",
+      "RELACIONES_INTERNACIONALES",
+      "INFRAESTRUCTURA_SERVICIOS"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "denunció la necesidad de que la onu desarrolle sus operaciones en gaza, para evitar el aumento de víctimas para poner fin a",
+        "position": [
+          1451,
+          1574
+        ],
+        "start": 1451,
+        "end": 1574
+      },
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "ocupación",
+        "position": [
+          265,
+          274
+        ],
+        "start": 265,
+        "end": 274
+      },
+      {
+        "category": "RELACIONES_INTERNACIONALES",
+        "matched_text": "acuerdo con los reportes del ministerio de salud de gaza, la cifra de víctimas relacionadas con la lucha por subsistir ha alcanzado en su mayoría a mujeres y menores",
+        "position": [
+          1108,
+          1273
+        ],
+        "start": 1108,
+        "end": 1273
+      },
+      {
+        "category": "CRISIS_HUMANITARIA_SERVICIOS",
+        "matched_text": "ayuda humanitaria",
+        "position": [
+          398,
+          415
+        ],
+        "start": 398,
+        "end": 415
+      },
+      {
+        "category": "CRISIS_HUMANITARIA_SERVICIOS",
+        "matched_text": "emergencia humanitaria",
+        "position": [
+          1307,
+          1329
+        ],
+        "start": 1307,
+        "end": 1329
+      },
+      {
+        "category": "ORGANISMOS_INTERNACIONALES",
+        "matched_text": "naciones unidas",
+        "position": [
+          1394,
+          1409
+        ],
+        "start": 1394,
+        "end": 1409
+      },
+      {
+        "category": "GRUPOS_ESPECIFICOS",
+        "matched_text": "mujeres",
+        "position": [
+          1256,
+          1263
+        ],
+        "start": 1256,
+        "end": 1263
+      },
+      {
+        "category": "ACCIONES_LEGALES",
+        "matched_text": "denunció",
+        "position": [
+          1451,
+          1459
+        ],
+        "start": 1451,
+        "end": 1459
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "hospital",
+        "position": [
+          502,
+          510
+        ],
+        "start": 502,
+        "end": 510
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "israelí",
+        "position": [
+          275,
+          282
+        ],
+        "start": 275,
+        "end": 282
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "zona de",
+        "position": [
+          434,
+          441
+        ],
+        "start": 434,
+        "end": 441
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "hospital de",
+        "position": [
+          502,
+          513
+        ],
+        "start": 502,
+        "end": 513
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "50 personas",
+        "position": [
+          173,
+          184
+        ],
+        "start": 173,
+        "end": 184
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "150 personas",
+        "position": [
+          918,
+          930
+        ],
+        "start": 918,
+        "end": 930
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "más de 50",
+        "position": [
+          166,
+          175
+        ],
+        "start": 166,
+        "end": 175
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "más de 8.152",
+        "position": [
+          1047,
+          1059
+        ],
+        "start": 1047,
+        "end": 1059
+      }
+    ],
+    "match_count": 16
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Zikim",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Franja de Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Hospital de Campaña Saraya",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "UNRWA",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Ministerio de Salud de Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Beit Lahia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Agencia de las Naciones Unidas para los Refugiados de Palestina",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Sudaniya",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "ONU",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Sociedad de la Media Luna Roja Palestina",
+        "tipo": "Organizacion"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Hospital de Campaña Saraya",
+        "relacion": "CONDUCIR",
+        "objeto": "Beit Lahia"
+      },
+      {
+        "sujeto": "Hospital de Campaña Saraya",
+        "relacion": "CONDUCIR",
+        "objeto": "Gaza"
+      },
+      {
+        "sujeto": "Sociedad de la Media Luna Roja Palestina",
+        "relacion": "CONDUCIR",
+        "objeto": "Beit Lahia"
+      },
+      {
+        "sujeto": "Sociedad de la Media Luna Roja Palestina",
+        "relacion": "CONDUCIR",
+        "objeto": "Gaza"
+      },
+      {
+        "sujeto": "Agencia de las Naciones Unidas para los Refugiados de Palestina",
+        "relacion": "DENUNCIAR",
+        "objeto": "ONU"
+      },
+      {
+        "sujeto": "Agencia de las Naciones Unidas para los Refugiados de Palestina",
+        "relacion": "DENUNCIAR",
+        "objeto": "Gaza"
+      },
+      {
+        "sujeto": "ONU",
+        "relacion": "DENUNCIAR",
+        "objeto": "UNRWA"
+      },
+      {
+        "sujeto": "UNRWA",
+        "relacion": "DENUNCIAR",
+        "objeto": "Gaza"
+      },
+      {
+        "sujeto": "ONU",
+        "relacion": "DESARROLLAR_DENUNCIAR",
+        "objeto": "Gaza"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.34,
+    "pos": 0.009,
+    "neu": 0.991,
+    "neg": 0.0,
+    "label": "positive"
+  }
+}

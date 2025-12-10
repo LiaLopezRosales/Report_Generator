@@ -1,0 +1,739 @@
+{
+  "url": "https://www.telesurtv.net/sismo-sacude-panama-costa-rica/",
+  "title": "Sismo sacude territorio de Panamá fronterizo con Costa Rica",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "actividad geológica",
+    "Centroamérica",
+    "Costa Rica",
+    "Panamá",
+    "Sismo",
+    "Terremoto"
+  ],
+  "text": "Un terremoto de magnitud 6.4 sacudió este lunes al océano Pacífico, justo a 206 kilómetros al sur de Punta Burica, en la provincia de Chiriquí, territorio de Panamá fronterizo con Costa Rica, según el Servicio Geológico de Estados Unidos.\n\nLEA TAMBIÉN\nGuatemala enfrenta continua actividad sísmica sin fecha de cese confirmada\n\nEl movimiento telúrico ocurrió a las 11H53 (hora local), con una profundidad de 10 kilómetros, y se sintió en la región occidental de Panamá.\nAutoridades descartan por ahora alerta de tsunami, aunque mantienen monitoreo nacional. Este evento se suma a la actividad sísmica frecuente en la zona, como un fenómeno similar en marzo pasado.\n\n\nAsí lo aseguró Omar Smith, director del Sistema Nacional de Protección Civil de Panamá, quien además dijo que “se mantiene monitorización en el nivel nacional”.\nEl epicentro del terremoto se localizó en el océano, lejos de la costa, lo que redujo el impacto inmediato en tierra firme. La cercanía con Costa Rica también permitió que el sismo fuera percibido en esa nación centroamericana.\nPor su parte, el Instituto de Geociencias de la Universidad de Panamá también emitió un reporte preliminar, confirmando los detalles del evento.\nVale acotar que la zona del Pacífico panameño es propensa a terremotos debido a su ubicación en la placa tectónica del Caribe, donde convergen varias fallas geológicas.\n\n\nEste terremoto ocurre en un contexto de alta actividad geológica en Centroamérica. En Guatemala, por ejemplo, esta semana ocurrieron varios movimientos telúricos y con una separación tiempo muy breve entre unos y otros.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/sismo-sacude-panama-costa-rica/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-07.json",
+    "message_index": 1272,
+    "message_id": 99006,
+    "date": "2025-07-15T02:55:07+00:00",
+    "text": "teleSUR\nSismo sacude territorio de Panamá fronterizo con Costa Rica\nhttps://www.telesurtv.net/sismo-sacude-panama-costa-rica/",
+    "photo_path": null,
+    "views": 1615,
+    "reactions": {
+      "😱": 24,
+      "🔥": 2,
+      "❤": 1
+    },
+    "total_reactions": 27
+  },
+  "preprocessing": {
+    "cleaned": "un terremoto de magnitud 6.4 sacudió este lunes al océano pacífico, justo a 206 kilómetros al sur de punta burica, en la provincia de chiriquí, territorio de panamá fronterizo con costa rica, según el servicio geológico de estados unidos. el movimiento telúrico ocurrió a las 11h53 (hora local), con una profundidad de 10 kilómetros, y se sintió en la región occidental de panamá. autoridades descartan por ahora alerta de tsunami, aunque mantienen monitoreo nacional. este evento se suma a la actividad sísmica frecuente en la zona, como un fenómeno similar en marzo pasado. así lo aseguró omar smith, director del sistema nacional de protección civil de panamá, quien además dijo que “se mantiene monitorización en el nivel nacional”. el epicentro del terremoto se localizó en el océano, lejos de la costa, lo que redujo el impacto inmediato en tierra firme. la cercanía con costa rica también permitió que el sismo fuera percibido en esa nación centroamericana. por su parte, el instituto de geociencias de la universidad de panamá también emitió un reporte preliminar, confirmando los detalles del evento. vale acotar que la zona del pacífico panameño es propensa a terremotos debido a su ubicación en la placa tectónica del caribe, donde convergen varias fallas geológicas. este terremoto ocurre en un contexto de alta actividad geológica en centroamérica. en guatemala, por ejemplo, esta semana ocurrieron varios movimientos telúricos y con una separación tiempo muy breve entre unos y otros.",
+    "tokens": [
+      "terremoto",
+      "magnitud",
+      "6.4",
+      "sacudió",
+      "lunes",
+      "océano",
+      "pacífico",
+      ",",
+      "justo",
+      "206",
+      "kilómetros",
+      "sur",
+      "punta",
+      "burica",
+      ",",
+      "provincia",
+      "chiriquí",
+      ",",
+      "territorio",
+      "panamá",
+      "fronterizo",
+      "costa",
+      "rica",
+      ",",
+      "según",
+      "servicio",
+      "geológico",
+      "unidos",
+      ".",
+      "movimiento",
+      "telúrico",
+      "ocurrió",
+      "11h53",
+      "(",
+      "hora",
+      "local",
+      ")",
+      ",",
+      "profundidad",
+      "10",
+      "kilómetros",
+      ",",
+      "sintió",
+      "región",
+      "occidental",
+      "panamá",
+      ".",
+      "autoridades",
+      "descartan",
+      "ahora",
+      "alerta",
+      "tsunami",
+      ",",
+      "aunque",
+      "mantienen",
+      "monitoreo",
+      "nacional",
+      ".",
+      "evento",
+      "suma",
+      "actividad",
+      "sísmica",
+      "frecuente",
+      "zona",
+      ",",
+      "fenómeno",
+      "similar",
+      "marzo",
+      "pasado",
+      ".",
+      "así",
+      "aseguró",
+      "omar",
+      "smith",
+      ",",
+      "director",
+      "sistema",
+      "nacional",
+      "protección",
+      "civil",
+      "panamá",
+      ",",
+      "además",
+      "dijo",
+      "“",
+      "mantiene",
+      "monitorización",
+      "nivel",
+      "nacional",
+      "”",
+      ".",
+      "epicentro",
+      "terremoto",
+      "localizó",
+      "océano",
+      ",",
+      "lejos",
+      "costa",
+      ",",
+      "redujo",
+      "impacto",
+      "inmediato",
+      "tierra",
+      "firme",
+      ".",
+      "cercanía",
+      "costa",
+      "rica",
+      "permitió",
+      "sismo",
+      "percibido",
+      "nación",
+      "centroamericana",
+      ".",
+      "parte",
+      ",",
+      "instituto",
+      "geociencias",
+      "universidad",
+      "panamá",
+      "emitió",
+      "reporte",
+      "preliminar",
+      ",",
+      "confirmando",
+      "detalles",
+      "evento",
+      ".",
+      "vale",
+      "acotar",
+      "zona",
+      "pacífico",
+      "panameño",
+      "propensa",
+      "terremotos",
+      "debido",
+      "ubicación",
+      "placa",
+      "tectónica",
+      "caribe",
+      ",",
+      "convergen",
+      "varias",
+      "fallas",
+      "geológicas",
+      ".",
+      "terremoto",
+      "ocurre",
+      "contexto",
+      "alta",
+      "actividad",
+      "geológica",
+      "centroamérica",
+      ".",
+      "guatemala",
+      ",",
+      "ejemplo",
+      ",",
+      "semana",
+      "ocurrieron",
+      "varios",
+      "movimientos",
+      "telúricos",
+      "separación",
+      "tiempo",
+      "breve",
+      "."
+    ],
+    "token_count": 167,
+    "sentence_count": 11
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 44,
+      "NN": 94,
+      "IN": 15,
+      "FW": 35,
+      "CD": 4,
+      "NNS": 8,
+      "VBP": 6,
+      "JJ": 30,
+      "VBZ": 5,
+      "$": 1
+    },
+    "bigram_freq": {
+      "NNP-NN": 15,
+      "NN-IN": 13,
+      "IN-FW": 5,
+      "FW-CD": 1,
+      "CD-NN": 1,
+      "NN-NN": 55,
+      "NN-NNS": 4,
+      "NNS-VBP": 4,
+      "VBP-JJ": 3,
+      "JJ-NNP": 6,
+      "NN-CD": 1,
+      "CD-NNS": 2,
+      "NNS-JJ": 2,
+      "JJ-FW": 2,
+      "FW-FW": 20,
+      "FW-NNP": 9,
+      "NNP-NNP": 14,
+      "NNP-FW": 7,
+      "IN-NNP": 4,
+      "NNP-JJ": 1,
+      "JJ-NN": 16,
+      "NN-NNP": 8,
+      "NNP-VBZ": 5,
+      "VBZ-FW": 1,
+      "NNP-IN": 2,
+      "VBZ-NN": 2,
+      "IN-JJ": 4,
+      "JJ-NNS": 2,
+      "NNS-NNP": 1,
+      "NN-VBP": 2,
+      "VBP-$": 1,
+      "$-CD": 1,
+      "CD-JJ": 1,
+      "JJ-JJ": 4,
+      "NN-JJ": 11,
+      "IN-CD": 1,
+      "IN-NN": 1,
+      "FW-NN": 3,
+      "VBZ-JJ": 2,
+      "FW-JJ": 2,
+      "VBP-NNP": 1,
+      "VBP-NN": 1
+    },
+    "trigram_freq": {
+      "NNP-NN-IN": 2,
+      "NN-IN-FW": 5,
+      "IN-FW-CD": 1,
+      "FW-CD-NN": 1,
+      "CD-NN-NN": 1,
+      "NN-NN-NNS": 4,
+      "NN-NNS-VBP": 4,
+      "NNS-VBP-JJ": 3,
+      "VBP-JJ-NNP": 2,
+      "JJ-NNP-NN": 3,
+      "NNP-NN-CD": 1,
+      "NN-CD-NNS": 1,
+      "CD-NNS-JJ": 2,
+      "NNS-JJ-FW": 1,
+      "JJ-FW-FW": 2,
+      "FW-FW-NNP": 4,
+      "FW-NNP-NNP": 4,
+      "NNP-NNP-FW": 2,
+      "NNP-FW-FW": 3,
+      "FW-FW-FW": 13,
+      "FW-NNP-NN": 3,
+      "NN-IN-NNP": 2,
+      "IN-NNP-JJ": 1,
+      "NNP-JJ-NN": 1,
+      "JJ-NN-NNP": 2,
+      "NN-NNP-NNP": 3,
+      "NNP-NNP-VBZ": 3,
+      "NNP-VBZ-FW": 1,
+      "VBZ-FW-NNP": 1,
+      "NNP-NNP-IN": 2,
+      "NNP-IN-NNP": 2,
+      "IN-NNP-NNP": 2,
+      "NNP-NNP-NNP": 4,
+      "NNP-VBZ-NN": 2,
+      "VBZ-NN-NN": 1,
+      "NN-NN-NN": 32,
+      "NN-NN-IN": 7,
+      "NN-IN-JJ": 4,
+      "IN-JJ-NNS": 1,
+      "JJ-NNS-NNP": 1,
+      "NNS-NNP-NN": 1,
+      "NNP-NN-NN": 12,
+      "NN-NN-VBP": 2,
+      "NN-VBP-$": 1,
+      "VBP-$-CD": 1,
+      "$-CD-JJ": 1,
+      "CD-JJ-JJ": 1,
+      "JJ-JJ-NN": 1,
+      "JJ-NN-JJ": 3,
+      "NN-JJ-NN": 8,
+      "JJ-NN-IN": 4,
+      "NN-IN-CD": 1,
+      "IN-CD-NNS": 1,
+      "NNS-JJ-NN": 1,
+      "IN-FW-FW": 2,
+      "NNP-NNP-NN": 3,
+      "NN-NN-JJ": 6,
+      "NN-IN-NN": 1,
+      "IN-NN-NN": 1,
+      "NN-JJ-JJ": 1,
+      "JJ-JJ-NNP": 2,
+      "JJ-NNP-FW": 2,
+      "FW-FW-NN": 2,
+      "FW-NN-JJ": 1,
+      "JJ-NN-NN": 7,
+      "NN-NN-NNP": 4,
+      "NN-NNP-VBZ": 2,
+      "NNP-VBZ-JJ": 2,
+      "VBZ-JJ-NNP": 1,
+      "JJ-NNP-NNP": 1,
+      "NNP-FW-NNP": 4,
+      "IN-NNP-NN": 1,
+      "IN-FW-JJ": 1,
+      "FW-JJ-JJ": 1,
+      "IN-JJ-JJ": 1,
+      "JJ-JJ-FW": 1,
+      "FW-FW-JJ": 1,
+      "FW-JJ-NN": 1,
+      "IN-JJ-NN": 2,
+      "VBZ-NN-NNP": 1,
+      "VBZ-JJ-NN": 1,
+      "FW-NN-NNP": 1,
+      "NN-NNP-NN": 2,
+      "NN-JJ-NNP": 1,
+      "FW-NNP-FW": 2,
+      "NN-NNP-FW": 1,
+      "NNS-VBP-NNP": 1,
+      "VBP-NNP-NN": 1,
+      "IN-FW-NN": 1,
+      "FW-NN-NN": 1,
+      "VBP-JJ-NN": 1,
+      "NN-VBP-NN": 1,
+      "VBP-NN-JJ": 1,
+      "NN-JJ-NNS": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 94,
+        "NNP": 44,
+        "FW": 35,
+        "JJ": 30,
+        "IN": 15
+      },
+      "top_bigrams": {
+        "NN-NN": 55,
+        "FW-FW": 20,
+        "JJ-NN": 16,
+        "NNP-NN": 15,
+        "NNP-NNP": 14
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 32,
+        "FW-FW-FW": 13,
+        "NNP-NN-NN": 12,
+        "NN-JJ-NN": 8,
+        "NN-NN-IN": 7
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 11,
+    "chunk_counts": {
+      "NP": 70,
+      "VP": 13,
+      "ADJP": 3,
+      "PP": 7
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 4,
+        "weight": 0.0385
+      },
+      {
+        "rule": "NP -> ('Panamá', 'NNP')",
+        "frequency": 3,
+        "weight": 0.0288
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 3,
+        "weight": 0.0288
+      },
+      {
+        "rule": "NP -> ('kilómetros', 'NNS')",
+        "frequency": 2,
+        "weight": 0.0192
+      },
+      {
+        "rule": "S -> NP ('de', 'IN') ('magnitud', 'FW') ('6.4', 'CD') NP VP (',', ',') VP ('a', 'DT') ('206', 'CD') NP ADJP ('sur', 'FW') ('de', 'FW') NP (',', ',') ('en', 'FW') ('la', 'FW') ('provincia', 'FW') ('de', 'FW') NP (',', ',') NP PP NP (',', ',') NP PP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0096
+      },
+      {
+        "rule": "NP -> ('Un', 'NNP') ('terremoto', 'NN')",
+        "frequency": 1,
+        "weight": 0.0096
+      },
+      {
+        "rule": "NP -> ('sacudió', 'NN') ('este', 'NN') ('lunes', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0096
+      },
+      {
+        "rule": "VP -> ('al', 'VBP') NP",
+        "frequency": 1,
+        "weight": 0.0096
+      },
+      {
+        "rule": "NP -> ('océano', 'JJ') ('Pacífico', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0096
+      },
+      {
+        "rule": "VP -> ('justo', 'VBZ')",
+        "frequency": 1,
+        "weight": 0.0096
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Un terremoto"
+      },
+      {
+        "label": "NP",
+        "text": "sacudió este lunes"
+      },
+      {
+        "label": "VP",
+        "text": "al océano Pacífico"
+      },
+      {
+        "label": "NP",
+        "text": "océano Pacífico"
+      },
+      {
+        "label": "VP",
+        "text": "justo"
+      },
+      {
+        "label": "NP",
+        "text": "kilómetros"
+      },
+      {
+        "label": "ADJP",
+        "text": "al"
+      },
+      {
+        "label": "NP",
+        "text": "Punta Burica"
+      },
+      {
+        "label": "NP",
+        "text": "Chiriquí"
+      },
+      {
+        "label": "NP",
+        "text": "territorio"
+      },
+      {
+        "label": "PP",
+        "text": "de Panamá"
+      },
+      {
+        "label": "NP",
+        "text": "Panamá"
+      },
+      {
+        "label": "NP",
+        "text": "fronterizo con Costa Rica"
+      },
+      {
+        "label": "NP",
+        "text": "según el Servicio Geológico"
+      },
+      {
+        "label": "PP",
+        "text": "de Estados Unidos"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Un/NNP terremoto/NN)\n  de/IN\n  magnitud/FW\n  6.4/CD\n  (NP sacudió/NN este/NN lunes/NNS)\n  (VP al/VBP (NP océano/JJ Pacífico/NNP))\n  ,/,\n  (VP justo/VBZ)\n  a/DT\n  206/CD\n  (NP kilómetros/NNS)\n  (ADJP al/JJ)\n  sur/FW\n  de/FW\n  (NP Punta/NNP Burica/NNP)\n  ,/,\n  en/FW\n  la/FW\n  provincia/FW\n  de/FW\n  (NP Chiriquí/NNP)\n  ,/,\n  (NP territorio/NN)\n  (PP de/IN (NP Panamá/NNP))\n  (NP fronterizo/JJ con/NN Costa/NNP Rica/NNP)\n  ,/,\n  (NP según/NN el/NN Servicio/NNP Geológico/NNP)\n  (PP de/IN (NP Estados/NNP Unidos/NNP))\n  ./.)",
+      "(S\n  (NP LEA/NNP TAMBIÉN/NNP Guatemala/NNP)\n  (VP\n    enfrenta/VBZ\n    (NP continua/NN actividad/NN sísmica/NN sin/NN fecha/NN))\n  (PP\n    de/IN\n    (NP cese/JJ confirmada/NNS El/NNP movimiento/NN telúrico/NN))\n  ocurrió/IN\n  a/DT\n  (ADJP las/JJ)\n  11H53/CD\n  (/(\n  (VP hora/VB local/JJ)\n  )/)\n  ,/,\n  (NP con/JJ una/JJ profundidad/NN)\n  de/IN\n  10/CD\n  (NP kilómetros/NNS)\n  ,/,\n  y/FW\n  se/FW\n  sintió/FW\n  en/FW\n  la/FW\n  región/FW\n  occidental/FW\n  de/FW\n  (NP Panamá/NNP)\n  ./.)",
+      "(S\n  (NP Autoridades/NNP descartan/NN por/NN)\n  (NP ahora/JJ alerta/NN)\n  (PP de/IN (NP tsunami/NN))\n  ,/,\n  (NP aunque/JJ mantienen/NN monitoreo/NN)\n  (ADJP nacional/JJ)\n  ./.)",
+      "(S\n  (NP Este/NN)\n  evento/FW\n  se/FW\n  suma/FW\n  (NP a/DT la/NN actividad/NN sísmica/NN frecuente/NN)\n  en/FW\n  (NP la/NN zona/NN)\n  ,/,\n  (NP como/NN)\n  (NP un/JJ fenómeno/NN)\n  (NP similar/JJ en/NN marzo/NN pasado/NN)\n  ./.)",
+      "(S\n  (NP Así/NNP)\n  (VP lo/VBZ (NP aseguró/JJ Omar/NNP Smith/NNP))\n  ,/,\n  (NP director/NN del/NN Sistema/NNP Nacional/NNP)\n  de/FW\n  (NP Protección/NNP Civil/NNP)\n  de/FW\n  (NP Panamá/NNP)\n  ,/,\n  (NP quien/NN además/NN dijo/NN que/NN “/NNP)\n  (VP se/VBZ (NP mantiene/JJ monitorización/NNS))\n  en/IN\n  el/FW\n  (NP nivel/JJ nacional/JJ ”/NN)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "CIUDADES_CAPITALES",
+      "DESASTRES_ACCIDENTES_EMERGENCIAS",
+      "TIEMPO_RELATIVO",
+      "REGIONES_PROVINCIAS",
+      "INSTITUCIONES_EDUCATIVAS",
+      "PAISES",
+      "LOCALIZACIONES_ESPECIFICAS",
+      "INFRAESTRUCTURA_SERVICIOS"
+    ],
+    "matches": [
+      {
+        "category": "DESASTRES_ACCIDENTES_EMERGENCIAS",
+        "matched_text": "terremoto de magnitud 6.4",
+        "position": [
+          3,
+          28
+        ],
+        "start": 3,
+        "end": 28
+      },
+      {
+        "category": "INSTITUCIONES_EDUCATIVAS",
+        "matched_text": "instituto de geociencias",
+        "position": [
+          1073,
+          1097
+        ],
+        "start": 1073,
+        "end": 1097
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "universidad",
+        "position": [
+          1104,
+          1115
+        ],
+        "start": 1104,
+        "end": 1115
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "costa rica",
+        "position": [
+          180,
+          190
+        ],
+        "start": 180,
+        "end": 190
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "estados unidos",
+        "position": [
+          223,
+          237
+        ],
+        "start": 223,
+        "end": 237
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "panamá",
+        "position": [
+          158,
+          164
+        ],
+        "start": 158,
+        "end": 164
+      },
+      {
+        "category": "CIUDADES_CAPITALES",
+        "matched_text": "guatemala",
+        "position": [
+          252,
+          261
+        ],
+        "start": 252,
+        "end": 261
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "pacífico",
+        "position": [
+          58,
+          66
+        ],
+        "start": 58,
+        "end": 66
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "provincia de",
+        "position": [
+          121,
+          133
+        ],
+        "start": 121,
+        "end": 133
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "universidad de",
+        "position": [
+          1104,
+          1118
+        ],
+        "start": 1104,
+        "end": 1118
+      },
+      {
+        "category": "TIEMPO_RELATIVO",
+        "matched_text": "esta semana",
+        "position": [
+          1482,
+          1493
+        ],
+        "start": 1482,
+        "end": 1493
+      }
+    ],
+    "match_count": 11
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Costa Rica",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Instituto de Geociencias",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Pacífico",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "provincia de Chiriquí",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Servicio Geológico de Estados Unidos",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Universidad de Panamá",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Guatemala",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Panamá",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Omar Smith",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Centroamérica",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Punta Burica",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "La",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Sistema Nacional de Protección Civil",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "océano Pacífico",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Caribe",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "océano Pacífico",
+        "relacion": "SACUDIR",
+        "objeto": "Punta Burica"
+      },
+      {
+        "sujeto": "océano Pacífico",
+        "relacion": "SACUDIR",
+        "objeto": "provincia de Chiriquí"
+      },
+      {
+        "sujeto": "océano Pacífico",
+        "relacion": "SACUDIR",
+        "objeto": "Panamá"
+      },
+      {
+        "sujeto": "océano Pacífico",
+        "relacion": "SACUDIR",
+        "objeto": "Costa Rica"
+      },
+      {
+        "sujeto": "océano Pacífico",
+        "relacion": "SACUDIR",
+        "objeto": "Servicio Geológico de Estados Unidos"
+      },
+      {
+        "sujeto": "Guatemala",
+        "relacion": "ENFRENTAR",
+        "objeto": "Panamá"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.5574,
+    "pos": 0.0,
+    "neu": 0.985,
+    "neg": 0.015,
+    "label": "negative"
+  }
+}

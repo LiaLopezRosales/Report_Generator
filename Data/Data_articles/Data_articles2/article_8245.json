@@ -1,0 +1,705 @@
+{
+  "url": "https://www.telesurtv.net/gobierno-haitiano-inaugura-nueva-base-militar-en-puerto-principe/",
+  "title": "Gobierno haitiano inaugura nueva base militar en Puerto Príncipe - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "Base militar",
+    "Crisis de seguridad",
+    "Haiti",
+    "Pandillas",
+    "soldados",
+    "Violencia"
+  ],
+  "text": "El presidente del Consejo Presidencial de Transición (CPT), Leslie Voltaire, a través de un comunicado anunció la inauguración de la base militar en Puerto Príncipe, en respuesta al creciente problema de inseguridad en el país.\nLa nueva sede militar tiene la capacidad de albergar a unos 2.000 soldados y fue calificado por Voltaire como un “proyecto estructurante”, el cual estaba previsto desde la toma de posesión del CPT en abril pasado.\nDurante la ceremonia se realizó la entrega oficial de la base militar al Alto Estado Mayor de las Fuerzas Armadas Haitianas, ocasión en que el presidente del CPT aprovechó para informar que, en los próximos meses, 2.500 nuevos reclutas recibirán su formación militar inicial en esta base, que también tiene espacio para helicópteros.\n“Los jóvenes haitianos aprenderán a servir a su país hasta el sacrificio, para que este país permanezca, para que su dignidad sea preservada y para que la bandera azul y roja siga ondeando”, afirmó Voltaire.\nEl funcionario también hizo alusión a la necesidad de construir un Ejército “moderno”, que ayude a Haití a obtener su “segunda independencia nacional”.\nLa inauguración de la base militar se produce una semana después de que las bandas armadas de la coalición Vivre Ensemble (Vivir Juntos), liderada por el expolicía Jimmy Cherizier, alias ‘Barbecue’, acrecentaran el clima de inseguridad en el área metropolitana de Puerto Príncipe.\nSegún el Programa Mundial de Alimentos (PAM) en Haití, alrededor de 600 000 personas están desplazadas por la violencia, y la mitad son niños.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/gobierno-haitiano-inaugura-nueva-base-militar-en-puerto-principe/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-11.json",
+    "message_index": 742,
+    "message_id": 80705,
+    "date": "2024-11-19T13:55:18+00:00",
+    "text": "teleSUR\nGobierno haitiano inaugura nueva base militar en Puerto Príncipe\nhttps://www.telesurtv.net/gobierno-haitiano-inaugura-nueva-base-militar-en-puerto-principe/",
+    "photo_path": null,
+    "views": 2365,
+    "reactions": {
+      "💩": 30,
+      "🤔": 6,
+      "👎": 2
+    },
+    "total_reactions": 38
+  },
+  "preprocessing": {
+    "cleaned": "el presidente del consejo presidencial de transición (cpt), leslie voltaire, a través de un comunicado anunció la inauguración de la base militar en puerto príncipe, en respuesta al creciente problema de inseguridad en el país. la nueva sede militar tiene la capacidad de albergar a unos 2.000 soldados y fue calificado por voltaire como un “proyecto estructurante”, el cual estaba previsto desde la toma de posesión del cpt en abril pasado. durante la ceremonia se realizó la entrega oficial de la base militar al alto estado mayor de las fuerzas armadas haitianas, ocasión en que el presidente del cpt aprovechó para informar que, en los próximos meses, 2.500 nuevos reclutas recibirán su formación militar inicial en esta base, que también tiene espacio para helicópteros. “los jóvenes haitianos aprenderán a servir a su país hasta el sacrificio, para que este país permanezca, para que su dignidad sea preservada y para que la bandera azul y roja siga ondeando”, afirmó voltaire. el funcionario también hizo alusión a la necesidad de construir un ejército “moderno”, que ayude a haití a obtener su “segunda independencia nacional”. la inauguración de la base militar se produce una semana después de que las bandas armadas de la coalición vivre ensemble (vivir juntos), liderada por el expolicía jimmy cherizier, alias ‘barbecue’, acrecentaran el clima de inseguridad en el área metropolitana de puerto príncipe. según el programa mundial de alimentos (pam) en haití, alrededor de 600 000 personas están desplazadas por la violencia, y la mitad son niños.",
+    "tokens": [
+      "presidente",
+      "consejo",
+      "presidencial",
+      "transición",
+      "(",
+      "cpt",
+      ")",
+      ",",
+      "leslie",
+      "voltaire",
+      ",",
+      "través",
+      "comunicado",
+      "anunció",
+      "inauguración",
+      "base",
+      "militar",
+      "puerto",
+      "príncipe",
+      ",",
+      "respuesta",
+      "creciente",
+      "problema",
+      "inseguridad",
+      "país",
+      ".",
+      "nueva",
+      "sede",
+      "militar",
+      "capacidad",
+      "albergar",
+      "2.000",
+      "soldados",
+      "calificado",
+      "voltaire",
+      "“",
+      "proyecto",
+      "estructurante",
+      "”",
+      ",",
+      "previsto",
+      "toma",
+      "posesión",
+      "cpt",
+      "abril",
+      "pasado",
+      ".",
+      "ceremonia",
+      "realizó",
+      "entrega",
+      "oficial",
+      "base",
+      "militar",
+      "alto",
+      "mayor",
+      "fuerzas",
+      "armadas",
+      "haitianas",
+      ",",
+      "ocasión",
+      "presidente",
+      "cpt",
+      "aprovechó",
+      "informar",
+      ",",
+      "próximos",
+      "meses",
+      ",",
+      "2.500",
+      "nuevos",
+      "reclutas",
+      "recibirán",
+      "formación",
+      "militar",
+      "inicial",
+      "base",
+      ",",
+      "espacio",
+      "helicópteros",
+      ".",
+      "“",
+      "jóvenes",
+      "haitianos",
+      "aprenderán",
+      "servir",
+      "país",
+      "sacrificio",
+      ",",
+      "país",
+      "permanezca",
+      ",",
+      "dignidad",
+      "preservada",
+      "bandera",
+      "azul",
+      "roja",
+      "siga",
+      "ondeando",
+      "”",
+      ",",
+      "afirmó",
+      "voltaire",
+      ".",
+      "funcionario",
+      "hizo",
+      "alusión",
+      "necesidad",
+      "construir",
+      "ejército",
+      "“",
+      "moderno",
+      "”",
+      ",",
+      "ayude",
+      "haití",
+      "obtener",
+      "“",
+      "segunda",
+      "independencia",
+      "nacional",
+      "”",
+      ".",
+      "inauguración",
+      "base",
+      "militar",
+      "produce",
+      "semana",
+      "después",
+      "bandas",
+      "armadas",
+      "coalición",
+      "vivre",
+      "ensemble",
+      "(",
+      "vivir",
+      "juntos",
+      ")",
+      ",",
+      "liderada",
+      "expolicía",
+      "jimmy",
+      "cherizier",
+      ",",
+      "alias",
+      "‘",
+      "barbecue",
+      "’",
+      ",",
+      "acrecentaran",
+      "clima",
+      "inseguridad",
+      "área",
+      "metropolitana",
+      "puerto",
+      "príncipe",
+      ".",
+      "según",
+      "programa",
+      "mundial",
+      "alimentos",
+      "(",
+      "pam",
+      ")",
+      "haití",
+      ",",
+      "alrededor",
+      "600",
+      "000",
+      "personas",
+      "desplazadas",
+      "violencia",
+      ",",
+      "mitad",
+      "niños",
+      "."
+    ],
+    "token_count": 175,
+    "sentence_count": 7
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 42,
+      "NN": 95,
+      "FW": 52,
+      "IN": 6,
+      "JJ": 19,
+      "CD": 4,
+      "VBP": 6,
+      "MD": 1,
+      "VB": 1,
+      "NNS": 7,
+      "VBD": 2,
+      "VBZ": 3
+    },
+    "bigram_freq": {
+      "NNP-NN": 10,
+      "NN-NN": 65,
+      "NN-NNP": 7,
+      "NNP-NNP": 19,
+      "NNP-FW": 7,
+      "FW-NNP": 8,
+      "NN-FW": 7,
+      "FW-FW": 31,
+      "FW-NN": 10,
+      "NN-IN": 5,
+      "IN-NNP": 1,
+      "IN-FW": 4,
+      "FW-JJ": 2,
+      "JJ-CD": 1,
+      "CD-JJ": 2,
+      "JJ-NN": 9,
+      "NN-JJ": 5,
+      "NN-VBP": 3,
+      "VBP-JJ": 3,
+      "JJ-JJ": 3,
+      "JJ-FW": 1,
+      "NNP-IN": 1,
+      "NNP-MD": 1,
+      "MD-VB": 1,
+      "VB-NN": 1,
+      "IN-JJ": 1,
+      "JJ-NNS": 3,
+      "NNS-CD": 1,
+      "NNS-VBP": 3,
+      "NN-NNS": 1,
+      "NNS-NNP": 1,
+      "NNP-NNS": 1,
+      "NNS-VBD": 1,
+      "VBD-JJ": 1,
+      "JJ-NNP": 2,
+      "VBP-NNP": 1,
+      "FW-NNS": 1,
+      "VBP-FW": 2,
+      "NNP-VBZ": 3,
+      "VBZ-JJ": 1,
+      "VBZ-NNP": 2,
+      "NN-VBD": 1,
+      "VBD-CD": 1,
+      "CD-CD": 1,
+      "CD-NNS": 1,
+      "NNS-JJ": 1
+    },
+    "trigram_freq": {
+      "NNP-NN-NN": 7,
+      "NN-NN-NNP": 6,
+      "NN-NNP-NNP": 5,
+      "NNP-NNP-FW": 4,
+      "NNP-FW-NNP": 3,
+      "FW-NNP-NNP": 5,
+      "NNP-NNP-NNP": 7,
+      "NNP-NNP-NN": 3,
+      "NNP-NN-FW": 1,
+      "NN-FW-FW": 5,
+      "FW-FW-NN": 6,
+      "FW-NN-NN": 8,
+      "NN-NN-FW": 4,
+      "FW-FW-FW": 20,
+      "NN-NN-IN": 5,
+      "NN-IN-NNP": 1,
+      "IN-NNP-NNP": 1,
+      "NNP-FW-NN": 3,
+      "NN-NN-NN": 41,
+      "NN-IN-FW": 3,
+      "IN-FW-FW": 2,
+      "FW-NN-NNP": 1,
+      "NN-NNP-FW": 1,
+      "FW-FW-JJ": 2,
+      "FW-JJ-CD": 1,
+      "JJ-CD-JJ": 1,
+      "CD-JJ-NN": 1,
+      "JJ-NN-NN": 9,
+      "NN-NNP-NN": 1,
+      "NNP-NN-JJ": 1,
+      "NN-JJ-NN": 3,
+      "NN-NN-VBP": 3,
+      "NN-VBP-JJ": 2,
+      "VBP-JJ-NN": 3,
+      "FW-FW-NNP": 3,
+      "FW-NNP-FW": 1,
+      "NN-NN-JJ": 4,
+      "NN-JJ-JJ": 2,
+      "JJ-JJ-FW": 1,
+      "JJ-FW-FW": 1,
+      "NNP-NNP-IN": 1,
+      "NNP-IN-FW": 1,
+      "IN-FW-NNP": 1,
+      "NNP-NNP-MD": 1,
+      "NNP-MD-VB": 1,
+      "MD-VB-NN": 1,
+      "VB-NN-FW": 1,
+      "NN-FW-NN": 1,
+      "FW-NN-FW": 1,
+      "NN-FW-NNP": 1,
+      "FW-NNP-NN": 2,
+      "NN-IN-JJ": 1,
+      "IN-JJ-JJ": 1,
+      "JJ-JJ-NNS": 1,
+      "JJ-NNS-CD": 1,
+      "NNS-CD-JJ": 1,
+      "CD-JJ-NNS": 1,
+      "JJ-NNS-VBP": 2,
+      "NNS-VBP-JJ": 1,
+      "NN-NN-NNS": 1,
+      "NN-NNS-NNP": 1,
+      "NNS-NNP-NNS": 1,
+      "NNP-NNS-VBD": 1,
+      "NNS-VBD-JJ": 1,
+      "VBD-JJ-NN": 1,
+      "FW-JJ-NNP": 1,
+      "JJ-NNP-NN": 1,
+      "NN-VBP-NNP": 1,
+      "VBP-NNP-NN": 1,
+      "JJ-JJ-NNP": 1,
+      "JJ-NNP-FW": 1,
+      "NNP-FW-FW": 1,
+      "IN-FW-NNS": 1,
+      "FW-NNS-VBP": 1,
+      "NNS-VBP-FW": 2,
+      "VBP-FW-FW": 2,
+      "NNP-NNP-VBZ": 3,
+      "NNP-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 1,
+      "NNP-VBZ-NNP": 2,
+      "VBZ-NNP-NN": 1,
+      "VBZ-NNP-NNP": 1,
+      "NNP-NN-VBD": 1,
+      "NN-VBD-CD": 1,
+      "VBD-CD-CD": 1,
+      "CD-CD-NNS": 1,
+      "CD-NNS-JJ": 1,
+      "NNS-JJ-NNS": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 95,
+        "FW": 52,
+        "NNP": 42,
+        "JJ": 19,
+        "NNS": 7
+      },
+      "top_bigrams": {
+        "NN-NN": 65,
+        "FW-FW": 31,
+        "NNP-NNP": 19,
+        "NNP-NN": 10,
+        "FW-NN": 10
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 41,
+        "FW-FW-FW": 20,
+        "JJ-NN-NN": 9,
+        "FW-NN-NN": 8,
+        "NNP-NN-NN": 7
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 7,
+    "chunk_counts": {
+      "NP": 62,
+      "PP": 2,
+      "ADJP": 4,
+      "VP": 11
+    },
+    "top_rules": [
+      {
+        "rule": "NP -> ('CPT', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0233
+      },
+      {
+        "rule": "NP -> ('Puerto', 'NNP') ('Príncipe', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0233
+      },
+      {
+        "rule": "NP -> ('La', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0233
+      },
+      {
+        "rule": "S -> NP ('de', 'FW') NP ('(', '(') NP (')', ')') (',', ',') NP (',', ',') NP PP ('la', 'FW') ('inauguración', 'FW') ('de', 'FW') ('la', 'FW') NP PP (',', ',') ('en', 'FW') ('respuesta', 'FW') ('al', 'FW') NP ('problema', 'FW') ('de', 'FW') ('inseguridad', 'FW') ('en', 'FW') ('el', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0116
+      },
+      {
+        "rule": "NP -> ('El', 'NNP') ('presidente', 'NN') ('del', 'NN') ('Consejo', 'NNP') ('Presidencial', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0116
+      },
+      {
+        "rule": "NP -> ('Transición', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0116
+      },
+      {
+        "rule": "NP -> ('Leslie', 'NNP') ('Voltaire', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0116
+      },
+      {
+        "rule": "NP -> ('a', 'DT') ('través', 'NN')",
+        "frequency": 1,
+        "weight": 0.0116
+      },
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 1,
+        "weight": 0.0116
+      },
+      {
+        "rule": "NP -> ('un', 'JJ') ('comunicado', 'NN') ('anunció', 'NN')",
+        "frequency": 1,
+        "weight": 0.0116
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El presidente del Consejo Presidencial"
+      },
+      {
+        "label": "NP",
+        "text": "Transición"
+      },
+      {
+        "label": "NP",
+        "text": "CPT"
+      },
+      {
+        "label": "NP",
+        "text": "Leslie Voltaire"
+      },
+      {
+        "label": "NP",
+        "text": "a través"
+      },
+      {
+        "label": "PP",
+        "text": "de un comunicado anunció"
+      },
+      {
+        "label": "NP",
+        "text": "un comunicado anunció"
+      },
+      {
+        "label": "NP",
+        "text": "base militar"
+      },
+      {
+        "label": "PP",
+        "text": "en Puerto Príncipe"
+      },
+      {
+        "label": "NP",
+        "text": "Puerto Príncipe"
+      },
+      {
+        "label": "NP",
+        "text": "creciente"
+      },
+      {
+        "label": "NP",
+        "text": "país"
+      },
+      {
+        "label": "NP",
+        "text": "La"
+      },
+      {
+        "label": "NP",
+        "text": "sede militar tiene"
+      },
+      {
+        "label": "ADJP",
+        "text": "unos"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP El/NNP presidente/NN del/NN Consejo/NNP Presidencial/NNP)\n  de/FW\n  (NP Transición/NNP)\n  (/(\n  (NP CPT/NNP)\n  )/)\n  ,/,\n  (NP Leslie/NNP Voltaire/NNP)\n  ,/,\n  (NP a/DT través/NN)\n  (PP de/IN (NP un/JJ comunicado/NN anunció/NN))\n  la/FW\n  inauguración/FW\n  de/FW\n  la/FW\n  (NP base/NN militar/NN)\n  (PP en/IN (NP Puerto/NNP Príncipe/NNP))\n  ,/,\n  en/FW\n  respuesta/FW\n  al/FW\n  (NP creciente/NN)\n  problema/FW\n  de/FW\n  inseguridad/FW\n  en/FW\n  el/FW\n  (NP país/NN)\n  ./.)",
+      "(S\n  (NP La/NNP)\n  nueva/CC\n  (NP sede/JJ militar/NN tiene/NN)\n  la/FW\n  capacidad/FW\n  de/FW\n  albergar/FW\n  a/DT\n  (ADJP unos/JJ)\n  2.000/CD\n  (NP\n    soldados/JJ\n    y/NN\n    fue/NN\n    calificado/NN\n    por/NN\n    Voltaire/NNP\n    como/NN)\n  (NP un/JJ “/NNP proyecto/NN estructurante/NN ”/NNP)\n  ,/,\n  (VP el/VBP (NP cual/JJ estaba/NN previsto/NN desde/NN))\n  la/FW\n  toma/FW\n  de/FW\n  posesión/FW\n  del/FW\n  (NP CPT/NNP)\n  en/FW\n  (NP abril/NN pasado/NN)\n  ./.)",
+      "(S\n  (NP Durante/NNP la/NNP ceremonia/NN se/NN realizó/NN la/NN)\n  (ADJP entrega/JJ)\n  (ADJP oficial/JJ)\n  de/FW\n  la/FW\n  base/FW\n  (NP militar/NN al/NN Alto/NNP Estado/NNP Mayor/NNP)\n  de/IN\n  las/FW\n  (NP Fuerzas/NNP Armadas/NNP Haitianas/NNP)\n  ,/,\n  (NP ocasión/NN)\n  en/FW\n  (NP que/NN)\n  el/FW\n  (NP presidente/NN)\n  del/FW\n  (NP CPT/NNP aprovechó/NN para/NN informar/NN que/NN)\n  ,/,\n  en/FW\n  los/FW\n  (NP próximos/NN meses/NNS)\n  ,/,\n  2.500/CD\n  (NP nuevos/NN reclutas/NNS)\n  (VP\n    recibirán/VBP\n    (NP su/JJ formación/NN militar/NN)\n    (NP inicial/JJ en/NN esta/NN base/NN))\n  ,/,\n  (NP que/JJ también/NN tiene/NN)\n  (VP espacio/VBP (NP para/NN helicópteros/NN))\n  ./.)",
+      "(S\n  (NP “/JJ Los/NNP jóvenes/NNS)\n  (VP haitianos/VBD)\n  aprenderán/RP\n  (NP a/DT servir/NN)\n  (NP a/DT su/NN país/NN hasta/NN el/NN sacrificio/NN)\n  ,/,\n  (NP para/NN que/NN este/NN país/NN permanezca/NN)\n  ,/,\n  (NP\n    para/NN\n    que/NN\n    su/NN\n    dignidad/NN\n    sea/NN\n    preservada/NN\n    y/NN\n    para/NN\n    que/NN\n    la/NN\n    bandera/NN\n    azul/NN\n    y/NN\n    roja/NN\n    siga/NN\n    ondeando/NN\n    ”/NNP)\n  ,/,\n  (NP afirmó/NN Voltaire/NNP)\n  ./.)",
+      "(S\n  (NP El/NNP funcionario/NN también/NN hizo/NN)\n  (VP alusión/VBZ (NP a/DT la/NN))\n  necesidad/FW\n  de/FW\n  construir/FW\n  (NP un/JJ Ejército/NNP “/NNP moderno/NN ”/NNP)\n  ,/,\n  (ADJP que/JJ)\n  (VP\n    ayude/VBP\n    (NP a/DT Haití/NNP)\n    (NP a/DT obtener/NN su/NN “/NNP segunda/NN independencia/NN)\n    (NP nacional/JJ ”/NN))\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "GOBIERNOS_OFICIALES",
+      "GRUPOS_ESPECIFICOS",
+      "CANTIDADES_NUMERICAS",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "ANTIIMPERIALISMO_SOBERANIA",
+      "REGIONES_PROVINCIAS",
+      "INFRAESTRUCTURA_SERVICIOS"
+    ],
+    "matches": [
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "afirmó",
+        "position": [
+          967,
+          973
+        ],
+        "start": 967,
+        "end": 973
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "anunció",
+        "position": [
+          103,
+          110
+        ],
+        "start": 103,
+        "end": 110
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente del consejo",
+        "position": [
+          3,
+          25
+        ],
+        "start": 3,
+        "end": 25
+      },
+      {
+        "category": "GRUPOS_ESPECIFICOS",
+        "matched_text": "jóvenes",
+        "position": [
+          781,
+          788
+        ],
+        "start": 781,
+        "end": 788
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "puerto",
+        "position": [
+          149,
+          155
+        ],
+        "start": 149,
+        "end": 155
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "estado mayor",
+        "position": [
+          520,
+          532
+        ],
+        "start": 520,
+        "end": 532
+      },
+      {
+        "category": "ANTIIMPERIALISMO_SOBERANIA",
+        "matched_text": "independencia nacional",
+        "position": [
+          1111,
+          1133
+        ],
+        "start": 1111,
+        "end": 1133
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "000 personas",
+        "position": [
+          1489,
+          1501
+        ],
+        "start": 1489,
+        "end": 1501
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "alrededor de 600",
+        "position": [
+          1472,
+          1488
+        ],
+        "start": 1472,
+        "end": 1488
+      }
+    ],
+    "match_count": 9
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Alto Estado Mayor",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Vivre Ensemble",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Consejo Presidencial de Transición",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Haití",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Jimmy Cherizier",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Fuerzas Armadas Haitianas",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Leslie Voltaire",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Puerto Príncipe",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Voltaire",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "PAM",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Barbecue",
+        "tipo": "Persona"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Consejo Presidencial de Transición",
+        "relacion": "ANUNCIAR",
+        "objeto": "Puerto Príncipe"
+      },
+      {
+        "sujeto": "Leslie Voltaire",
+        "relacion": "ANUNCIAR",
+        "objeto": "Puerto Príncipe"
+      },
+      {
+        "sujeto": "Vivre Ensemble",
+        "relacion": "ACRECENTARAN_DESPU_S_PRODUCIR",
+        "objeto": "Puerto Príncipe"
+      },
+      {
+        "sujeto": "Jimmy Cherizier",
+        "relacion": "ACRECENTARAN_DESPU_S_PRODUCIR",
+        "objeto": "Puerto Príncipe"
+      },
+      {
+        "sujeto": "Barbecue",
+        "relacion": "ACRECENTARAN_DESPU_S_PRODUCIR",
+        "objeto": "Puerto Príncipe"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.0,
+    "pos": 0.0,
+    "neu": 1.0,
+    "neg": 0.0,
+    "label": "neutral"
+  }
+}

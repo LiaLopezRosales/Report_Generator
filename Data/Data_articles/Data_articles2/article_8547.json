@@ -1,0 +1,671 @@
+{
+  "url": "https://www.telesurtv.net/genocidio-israeli-en-gaza-ha-dejado-43-603-muertos/",
+  "title": "Genocidio israelí en Gaza ha dejado 43.603 muertos - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Ataques Israelíes",
+    "bombardeos",
+    "Desplazados",
+    "Gaza"
+  ],
+  "text": "La escalada bélica en Gaza continúa dejando una estela de muerte y destrucción. En un nuevo acto de violencia, las fuerzas militares israelíes bombardearon varios lugares en el norte de la Franja.\nEste lunes se reportó que dos viviendas en Beit Hanoun, ubicadas al norte del enclave costero, fueron víctimas de ataques israelíes, atentado que causó la muerte de 10 personas, en otra masacre en la región.\nSegún el Ministerio de Salud palestino, el saldo de la ofensiva israelí en Gaza ha ascendido a 43.603 fallecidos y 102.929 heridos.\nNo solo se contabilizan las víctimas mortales, sino que también se denuncian atrocidades como el cerco a una escuela que albergaba a 130 familias desplazadas en medio de los bombardeos.\nEl Ejército israelí, por su parte, reconoció la muerte de 4 soldados durante enfrentamientos con la resistencia palestina en Beit Lahia.\nLa violencia no se limita a Beit Hanoun al noreste de la Franja de Gaza. Ocho palestinos resultaron heridos tras un bombardeo israelí al noroeste del campo de Nuseirat.\nEn la zona sur, la situación es aún más crítica, ya que al menos diez civiles perdieron la vida y otros sufrieron heridas en un ataque aéreo israelí contra una tienda de campaña que albergaba a personas desplazadas al oeste de Khan Yunis.\nFuentes médicas denunciaron que aviones de combate israelíes atacaron directamente la tienda donde los desplazados se habían congregado para acceder a internet.\n",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/genocidio-israeli-en-gaza-ha-dejado-43-603-muertos/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-11.json",
+    "message_index": 1194,
+    "message_id": 80229,
+    "date": "2024-11-12T11:55:07+00:00",
+    "text": "teleSUR\nGenocidio israelí en Gaza ha dejado 43.603 muertos\nhttps://www.telesurtv.net/genocidio-israeli-en-gaza-ha-dejado-43-603-muertos/",
+    "photo_path": null,
+    "views": 2507,
+    "reactions": {
+      "🤬": 27,
+      "🤮": 12,
+      "😭": 4,
+      "🥴": 2,
+      "😡": 1
+    },
+    "total_reactions": 46
+  },
+  "preprocessing": {
+    "cleaned": "la escalada bélica en gaza continúa dejando una estela de muerte y destrucción. en un nuevo acto de violencia, las fuerzas militares israelíes bombardearon varios lugares en el norte de la franja. este lunes se reportó que dos viviendas en beit hanoun, ubicadas al norte del enclave costero, fueron víctimas de ataques israelíes, atentado que causó la muerte de 10 personas, en otra masacre en la región. según el ministerio de salud palestino, el saldo de la ofensiva israelí en gaza ha ascendido a 43.603 fallecidos y 102.929 heridos. no solo se contabilizan las víctimas mortales, sino que también se denuncian atrocidades como el cerco a una escuela que albergaba a 130 familias desplazadas en medio de los bombardeos. el ejército israelí, por su parte, reconoció la muerte de 4 soldados durante enfrentamientos con la resistencia palestina en beit lahia. la violencia no se limita a beit hanoun al noreste de la franja de gaza. ocho palestinos resultaron heridos tras un bombardeo israelí al noroeste del campo de nuseirat. en la zona sur, la situación es aún más crítica, ya que al menos diez civiles perdieron la vida y otros sufrieron heridas en un ataque aéreo israelí contra una tienda de campaña que albergaba a personas desplazadas al oeste de khan yunis. fuentes médicas denunciaron que aviones de combate israelíes atacaron directamente la tienda donde los desplazados se habían congregado para acceder a internet.",
+    "tokens": [
+      "escalada",
+      "bélica",
+      "gaza",
+      "continúa",
+      "dejando",
+      "estela",
+      "muerte",
+      "destrucción",
+      ".",
+      "nuevo",
+      "acto",
+      "violencia",
+      ",",
+      "fuerzas",
+      "militares",
+      "israelíes",
+      "bombardearon",
+      "varios",
+      "lugares",
+      "norte",
+      "franja",
+      ".",
+      "lunes",
+      "reportó",
+      "dos",
+      "viviendas",
+      "beit",
+      "hanoun",
+      ",",
+      "ubicadas",
+      "norte",
+      "enclave",
+      "costero",
+      ",",
+      "víctimas",
+      "ataques",
+      "israelíes",
+      ",",
+      "atentado",
+      "causó",
+      "muerte",
+      "10",
+      "personas",
+      ",",
+      "masacre",
+      "región",
+      ".",
+      "según",
+      "ministerio",
+      "salud",
+      "palestino",
+      ",",
+      "saldo",
+      "ofensiva",
+      "israelí",
+      "gaza",
+      "ascendido",
+      "43.603",
+      "fallecidos",
+      "102.929",
+      "heridos",
+      ".",
+      "solo",
+      "contabilizan",
+      "víctimas",
+      "mortales",
+      ",",
+      "sino",
+      "denuncian",
+      "atrocidades",
+      "cerco",
+      "escuela",
+      "albergaba",
+      "130",
+      "familias",
+      "desplazadas",
+      "medio",
+      "bombardeos",
+      ".",
+      "ejército",
+      "israelí",
+      ",",
+      "parte",
+      ",",
+      "reconoció",
+      "muerte",
+      "4",
+      "soldados",
+      "enfrentamientos",
+      "resistencia",
+      "palestina",
+      "beit",
+      "lahia",
+      ".",
+      "violencia",
+      "limita",
+      "beit",
+      "hanoun",
+      "noreste",
+      "franja",
+      "gaza",
+      ".",
+      "ocho",
+      "palestinos",
+      "resultaron",
+      "heridos",
+      "tras",
+      "bombardeo",
+      "israelí",
+      "noroeste",
+      "campo",
+      "nuseirat",
+      ".",
+      "zona",
+      "sur",
+      ",",
+      "situación",
+      "aún",
+      "crítica",
+      ",",
+      "menos",
+      "diez",
+      "civiles",
+      "perdieron",
+      "vida",
+      "sufrieron",
+      "heridas",
+      "ataque",
+      "aéreo",
+      "israelí",
+      "tienda",
+      "campaña",
+      "albergaba",
+      "personas",
+      "desplazadas",
+      "oeste",
+      "khan",
+      "yunis",
+      ".",
+      "fuentes",
+      "médicas",
+      "denunciaron",
+      "aviones",
+      "combate",
+      "israelíes",
+      "atacaron",
+      "directamente",
+      "tienda",
+      "desplazados",
+      "congregado",
+      "acceder",
+      "internet",
+      "."
+    ],
+    "token_count": 153,
+    "sentence_count": 10
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 29,
+      "NN": 74,
+      "FW": 56,
+      "JJ": 22,
+      "IN": 10,
+      "NNS": 11,
+      "VBP": 9,
+      "VBZ": 5,
+      "CD": 4,
+      "VBD": 3,
+      "DT": 1
+    },
+    "bigram_freq": {
+      "NNP-NNP": 11,
+      "NNP-NN": 8,
+      "NN-FW": 10,
+      "FW-NNP": 10,
+      "NN-NN": 34,
+      "NN-JJ": 7,
+      "JJ-NN": 16,
+      "NN-IN": 9,
+      "IN-FW": 5,
+      "FW-NN": 8,
+      "NN-NNP": 2,
+      "FW-FW": 33,
+      "NN-NNS": 5,
+      "NNS-VBP": 6,
+      "VBP-NN": 4,
+      "NNS-VBZ": 1,
+      "VBZ-JJ": 2,
+      "JJ-FW": 1,
+      "NNP-VBZ": 2,
+      "VBZ-FW": 1,
+      "IN-NNP": 3,
+      "NNP-JJ": 1,
+      "NN-VBP": 1,
+      "FW-CD": 1,
+      "CD-NNS": 2,
+      "NNS-IN": 1,
+      "IN-JJ": 1,
+      "NNP-FW": 4,
+      "NN-CD": 2,
+      "CD-NN": 2,
+      "NN-VBZ": 2,
+      "JJ-NNS": 2,
+      "VBP-JJ": 4,
+      "NN-VBD": 1,
+      "VBD-CD": 1,
+      "NNS-JJ": 2,
+      "JJ-JJ": 2,
+      "FW-JJ": 3,
+      "JJ-NNP": 1,
+      "VBZ-DT": 1,
+      "DT-NN": 1,
+      "VBZ-NNP": 1,
+      "NNP-VBD": 2,
+      "VBD-FW": 1,
+      "NNP-VBP": 1,
+      "IN-NNS": 1,
+      "VBP-NNS": 1,
+      "VBD-NN": 1,
+      "NNS-FW": 1,
+      "FW-VBP": 1
+    },
+    "trigram_freq": {
+      "NNP-NNP-NN": 2,
+      "NNP-NN-FW": 2,
+      "NN-FW-NNP": 2,
+      "FW-NNP-NN": 4,
+      "NNP-NN-NN": 6,
+      "NN-NN-JJ": 5,
+      "NN-JJ-NN": 5,
+      "JJ-NN-IN": 5,
+      "NN-IN-FW": 5,
+      "IN-FW-NN": 1,
+      "FW-NN-NNP": 1,
+      "NN-NNP-NN": 2,
+      "NN-FW-FW": 7,
+      "FW-FW-FW": 22,
+      "FW-FW-NN": 5,
+      "FW-NN-NNS": 1,
+      "NN-NNS-VBP": 2,
+      "NNS-VBP-NN": 2,
+      "VBP-NN-NNS": 1,
+      "NN-NNS-VBZ": 1,
+      "NNS-VBZ-JJ": 1,
+      "VBZ-JJ-FW": 1,
+      "JJ-FW-FW": 1,
+      "FW-FW-NNP": 4,
+      "FW-NNP-NNP": 3,
+      "NNP-NNP-VBZ": 2,
+      "NNP-VBZ-FW": 1,
+      "VBZ-FW-NN": 1,
+      "FW-NN-NN": 3,
+      "NN-NN-NN": 15,
+      "NN-NN-IN": 4,
+      "NN-IN-NNP": 3,
+      "IN-NNP-NNP": 3,
+      "NNP-NNP-JJ": 1,
+      "NNP-JJ-NN": 1,
+      "JJ-NN-JJ": 2,
+      "JJ-NN-VBP": 1,
+      "NN-VBP-NN": 1,
+      "VBP-NN-NN": 2,
+      "NN-NN-FW": 4,
+      "FW-NN-FW": 3,
+      "FW-FW-CD": 1,
+      "FW-CD-NNS": 1,
+      "CD-NNS-IN": 1,
+      "NNS-IN-JJ": 1,
+      "IN-JJ-NN": 1,
+      "IN-FW-FW": 2,
+      "FW-NNP-FW": 3,
+      "NNP-FW-NNP": 4,
+      "NN-NN-CD": 1,
+      "NN-CD-NN": 2,
+      "CD-NN-CD": 1,
+      "CD-NN-NNP": 1,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-JJ": 1,
+      "VBZ-JJ-NNS": 1,
+      "JJ-NNS-VBP": 2,
+      "NNS-VBP-JJ": 3,
+      "VBP-JJ-NN": 4,
+      "JJ-NN-NN": 7,
+      "NN-JJ-NNS": 1,
+      "NN-NN-VBD": 1,
+      "NN-VBD-CD": 1,
+      "VBD-CD-NNS": 1,
+      "CD-NNS-JJ": 1,
+      "NNS-JJ-JJ": 1,
+      "JJ-JJ-NN": 2,
+      "IN-FW-JJ": 2,
+      "FW-JJ-NNP": 1,
+      "JJ-NNP-NNP": 1,
+      "NNP-NNP-NNP": 2,
+      "NNP-VBZ-DT": 1,
+      "VBZ-DT-NN": 1,
+      "DT-NN-VBZ": 1,
+      "NN-VBZ-NNP": 1,
+      "VBZ-NNP-NNP": 1,
+      "NNP-NNP-VBD": 2,
+      "NNP-VBD-FW": 1,
+      "VBD-FW-FW": 1,
+      "NNP-NNP-VBP": 1,
+      "NNP-VBP-NN": 1,
+      "NN-NN-NNS": 2,
+      "NN-NNS-JJ": 1,
+      "NNS-JJ-NN": 1,
+      "NNP-NNP-FW": 1,
+      "NN-IN-NNS": 1,
+      "IN-NNS-VBP": 1,
+      "NNS-VBP-NNS": 1,
+      "VBP-NNS-VBP": 1,
+      "VBP-NN-FW": 1,
+      "FW-FW-JJ": 1,
+      "FW-JJ-NN": 2,
+      "NN-JJ-JJ": 1,
+      "JJ-NN-NNS": 1,
+      "NNP-VBD-NN": 1,
+      "VBD-NN-NN": 1,
+      "NN-NNS-FW": 1,
+      "NNS-FW-VBP": 1,
+      "FW-VBP-JJ": 1,
+      "NN-FW-NN": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 74,
+        "FW": 56,
+        "NNP": 29,
+        "JJ": 22,
+        "NNS": 11
+      },
+      "top_bigrams": {
+        "NN-NN": 34,
+        "FW-FW": 33,
+        "JJ-NN": 16,
+        "NNP-NNP": 11,
+        "NN-FW": 10
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 22,
+        "NN-NN-NN": 15,
+        "NN-FW-FW": 7,
+        "JJ-NN-NN": 7,
+        "NNP-NN-NN": 6
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 10,
+    "chunk_counts": {
+      "NP": 69,
+      "VP": 21,
+      "PP": 6
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 4,
+        "weight": 0.0377
+      },
+      {
+        "rule": "NP -> ('Franja', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0189
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0189
+      },
+      {
+        "rule": "S -> NP ('en', 'FW') NP NP ('de', 'IN') ('muerte', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0094
+      },
+      {
+        "rule": "NP -> ('La', 'NNP') ('escalada', 'NNP') ('bélica', 'NN')",
+        "frequency": 1,
+        "weight": 0.0094
+      },
+      {
+        "rule": "NP -> ('Gaza', 'NNP') ('continúa', 'NN') ('dejando', 'NN')",
+        "frequency": 1,
+        "weight": 0.0094
+      },
+      {
+        "rule": "NP -> ('una', 'JJ') ('estela', 'NN')",
+        "frequency": 1,
+        "weight": 0.0094
+      },
+      {
+        "rule": "NP -> ('y', 'JJ') ('destrucción', 'NN')",
+        "frequency": 1,
+        "weight": 0.0094
+      },
+      {
+        "rule": "S -> NP NP ('de', 'IN') ('violencia', 'FW') (',', ',') ('las', 'FW') NP VP VP ('el', 'FW') ('norte', 'FW') ('de', 'FW') ('la', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0094
+      },
+      {
+        "rule": "NP -> ('En', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0094
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "La escalada bélica"
+      },
+      {
+        "label": "NP",
+        "text": "Gaza continúa dejando"
+      },
+      {
+        "label": "NP",
+        "text": "una estela"
+      },
+      {
+        "label": "NP",
+        "text": "y destrucción"
+      },
+      {
+        "label": "NP",
+        "text": "En"
+      },
+      {
+        "label": "NP",
+        "text": "un nuevo acto"
+      },
+      {
+        "label": "NP",
+        "text": "fuerzas militares"
+      },
+      {
+        "label": "VP",
+        "text": "israelíes bombardearon varios"
+      },
+      {
+        "label": "NP",
+        "text": "bombardearon varios"
+      },
+      {
+        "label": "VP",
+        "text": "lugares en"
+      },
+      {
+        "label": "NP",
+        "text": "Franja"
+      },
+      {
+        "label": "NP",
+        "text": "Este lunes"
+      },
+      {
+        "label": "VP",
+        "text": "se reportó que dos viviendas"
+      },
+      {
+        "label": "NP",
+        "text": "reportó que dos viviendas"
+      },
+      {
+        "label": "PP",
+        "text": "en Beit Hanoun"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP La/NNP escalada/NNP bélica/NN)\n  en/FW\n  (NP Gaza/NNP continúa/NN dejando/NN)\n  (NP una/JJ estela/NN)\n  de/IN\n  muerte/FW\n  (NP y/JJ destrucción/NN)\n  ./.)",
+      "(S\n  (NP En/NNP)\n  (NP un/JJ nuevo/JJ acto/NN)\n  de/IN\n  violencia/FW\n  ,/,\n  las/FW\n  (NP fuerzas/JJ militares/NNS)\n  (VP israelíes/VBP (NP bombardearon/NN varios/NNS))\n  (VP lugares/VBZ en/JJ)\n  el/FW\n  norte/FW\n  de/FW\n  la/FW\n  (NP Franja/NNP)\n  ./.)",
+      "(S\n  (NP Este/NN lunes/NNS)\n  (VP se/VBP (NP reportó/JJ que/NN dos/NN viviendas/NN))\n  (PP en/IN (NP Beit/NNP Hanoun/NNP))\n  ,/,\n  (NP ubicadas/JJ al/NN)\n  (NP norte/JJ del/NN enclave/NN costero/NN)\n  ,/,\n  (NP fueron/NN víctimas/NN)\n  (PP de/IN (NP ataques/NNS israelíes/NNS))\n  ,/,\n  (NP atentado/NN que/NN causó/NN)\n  la/FW\n  muerte/FW\n  de/FW\n  10/CD\n  (NP personas/NNS)\n  ,/,\n  en/FW\n  otra/FW\n  masacre/FW\n  en/FW\n  la/FW\n  región/FW\n  ./.)",
+      "(S\n  (NP Según/NNP)\n  el/CC\n  (NP Ministerio/NNP)\n  (PP de/IN (NP Salud/NNP palestino/NN))\n  ,/,\n  (NP el/JJ saldo/NN)\n  de/IN\n  la/FW\n  ofensiva/FW\n  (NP israelí/NN)\n  en/FW\n  (NP Gaza/NNP ha/NN)\n  (VP ascendido/VBD)\n  a/DT\n  43.603/CD\n  (NP fallecidos/NN y/NN)\n  102.929/CD\n  (NP heridos/NN)\n  ./.)",
+      "(S\n  (NP No/DT solo/NN se/NN contabilizan/NN)\n  (VP las/VBZ (NP víctimas/JJ mortales/NNS))\n  ,/,\n  (NP sino/NN que/NN también/NN se/NN)\n  (NP denuncian/JJ atrocidades/NNS)\n  (VP\n    como/VBP\n    (NP el/JJ cerco/NN)\n    (NP a/DT una/JJ escuela/NN que/NN))\n  (VP albergaba/VBD)\n  a/DT\n  130/CD\n  (NP familias/NN desplazadas/NNS)\n  (PP en/IN (NP medio/NN))\n  de/IN\n  los/FW\n  (NP bombardeos/NN)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "CANTIDADES_NUMERICAS",
+      "ACCIONES_LEGALES",
+      "REGIONES_PROVINCIAS",
+      "INSTITUCIONES_EDUCATIVAS",
+      "PAISES",
+      "LOCALIZACIONES_ESPECIFICAS",
+      "INFRAESTRUCTURA_SERVICIOS",
+      "CONFLICTOS_ARMADOS_OPERACIONES"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "ataque aéreo",
+        "position": [
+          1157,
+          1169
+        ],
+        "start": 1157,
+        "end": 1169
+      },
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "ataques israelíes",
+        "position": [
+          311,
+          328
+        ],
+        "start": 311,
+        "end": 328
+      },
+      {
+        "category": "INSTITUCIONES_EDUCATIVAS",
+        "matched_text": "escuela que albergaba",
+        "position": [
+          646,
+          667
+        ],
+        "start": 646,
+        "end": 667
+      },
+      {
+        "category": "ACCIONES_LEGALES",
+        "matched_text": "denunciaron",
+        "position": [
+          1284,
+          1295
+        ],
+        "start": 1284,
+        "end": 1295
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "escuela",
+        "position": [
+          646,
+          653
+        ],
+        "start": 646,
+        "end": 653
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "israelí",
+        "position": [
+          469,
+          476
+        ],
+        "start": 469,
+        "end": 476
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "zona sur",
+        "position": [
+          1035,
+          1043
+        ],
+        "start": 1035,
+        "end": 1043
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "escuela que",
+        "position": [
+          646,
+          657
+        ],
+        "start": 646,
+        "end": 657
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "10 personas",
+        "position": [
+          362,
+          373
+        ],
+        "start": 362,
+        "end": 373
+      }
+    ],
+    "match_count": 9
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Franja de Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Beit Lahia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Franja",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Beit Hanoun",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Ministerio de Salud palestino",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Nuseirat",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Khan Yunis",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Gaza",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Ministerio de Salud palestino",
+        "relacion": "ASCENDER",
+        "objeto": "Gaza"
+      },
+      {
+        "sujeto": "Beit Hanoun",
+        "relacion": "LIMITAR",
+        "objeto": "Franja de Gaza"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.25,
+    "pos": 0.011,
+    "neu": 0.97,
+    "neg": 0.019,
+    "label": "negative"
+  }
+}

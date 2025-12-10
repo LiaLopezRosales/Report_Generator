@@ -1,0 +1,818 @@
+{
+  "url": "https://www.telesurtv.net/bombardeos-israelies-contra-la-capital-del-libano-dejan-mas-de-50-muertos-en-24-horas/",
+  "title": "Bombardeos israelíes contra la capital del Líbano dejan más de 50 muertos en 24 horas - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Ataques Israel",
+    "Beirut",
+    "Bombardeos Israelíes",
+    "Hezbolá"
+  ],
+  "text": "Los intensos bombardeos de Israel contra el centro y suburbios del este y sur de la capital del Líbano dejaron más de 50 muertos y decenas de heridos en las últimas 24 horas.\nEn el centro de la ciudad de Beirut, al menos 20 personas fallecieron el sábado a causa del ataque israelí y 38 civiles fueron masacrados en el este y el sur de la capital libanesa por las bombas israelíes.\nEl sábado por la mañana, fuertes explosiones remecieron Beirut, donde los bombardeos israelíes destruyeron un edificio y dejaron un enorme cráter en el barrio de Basta.\nDe acuerdo al Ministerio de Salud libanés los ataques israelíes contra el centro de Beirut dejaron alrededor 66 heridos, precisando que era un balance provisional.\nPor su parte una fuente de seguridad libanesa indicó que el objetivo de los ataques era asesinar un alto mando de la resistencia libanesa Hezbolá.\nSin embargo, el diputado de Hezbolá Amin Sherri negó que un dirigente del movimiento de resistencia estuviera en el lugar al momento de los bombardeos.\nEl ejército israelí afirmó que los bombardeos contra zonas del este y sur de Beirut buscaban impactar supuestos centros de mando de Hezbolá.\nSegún la Agencia Nacional de Noticias (NNA) libanesa el ejército israelí trata de tomar el control de Jiam, localidad del sur cerca de la frontera, donde libran duros combates con Hezbolá.\nEl objetivo de la campaña israelí es alejar a Hezbolá de las zonas fronterizas y permitir el regreso de 60.000 desplazados del norte de Israel por los combates contra la resistencia libanesa, que también provocaron la huida de decenas de miles de habitantes del sur de Líbano.\nMás de 3.670 personas han muerto en Líbano desde el 2023, la mayoría desde septiembre de este año, según el Ministerio de Salud libanés.\n",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/bombardeos-israelies-contra-la-capital-del-libano-dejan-mas-de-50-muertos-en-24-horas/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-11.json",
+    "message_index": 433,
+    "message_id": 81036,
+    "date": "2024-11-24T04:55:07+00:00",
+    "text": "teleSUR\nBombardeos israelíes contra la capital del Líbano dejan más de 50 muertos en 24 horas\nhttps://www.telesurtv.net/bombardeos-israelies-contra-la-capital-del-libano-dejan-mas-de-50-muertos-en-24-horas/",
+    "photo_path": null,
+    "views": 2555,
+    "reactions": {
+      "🤬": 56,
+      "💩": 3,
+      "👍": 2,
+      "😢": 1,
+      "🙏": 1
+    },
+    "total_reactions": 63
+  },
+  "preprocessing": {
+    "cleaned": "los intensos bombardeos de israel contra el centro y suburbios del este y sur de la capital del líbano dejaron más de 50 muertos y decenas de heridos en las últimas 24 horas. en el centro de la ciudad de beirut, al menos 20 personas fallecieron el sábado a causa del ataque israelí y 38 civiles fueron masacrados en el este y el sur de la capital libanesa por las bombas israelíes. el sábado por la mañana, fuertes explosiones remecieron beirut, donde los bombardeos israelíes destruyeron un edificio y dejaron un enorme cráter en el barrio de basta. de acuerdo al ministerio de salud libanés los ataques israelíes contra el centro de beirut dejaron alrededor 66 heridos, precisando que era un balance provisional. por su parte una fuente de seguridad libanesa indicó que el objetivo de los ataques era asesinar un alto mando de la resistencia libanesa hezbolá. sin embargo, el diputado de hezbolá amin sherri negó que un dirigente del movimiento de resistencia estuviera en el lugar al momento de los bombardeos. el ejército israelí afirmó que los bombardeos contra zonas del este y sur de beirut buscaban impactar supuestos centros de mando de hezbolá. según la agencia nacional de noticias (nna) libanesa el ejército israelí trata de tomar el control de jiam, localidad del sur cerca de la frontera, donde libran duros combates con hezbolá. el objetivo de la campaña israelí es alejar a hezbolá de las zonas fronterizas y permitir el regreso de 60.000 desplazados del norte de israel por los combates contra la resistencia libanesa, que también provocaron la huida de decenas de miles de habitantes del sur de líbano. más de 3.670 personas han muerto en líbano desde el 2023, la mayoría desde septiembre de este año, según el ministerio de salud libanés.",
+    "tokens": [
+      "intensos",
+      "bombardeos",
+      "israel",
+      "centro",
+      "suburbios",
+      "sur",
+      "capital",
+      "líbano",
+      "dejaron",
+      "50",
+      "muertos",
+      "decenas",
+      "heridos",
+      "últimas",
+      "24",
+      "horas",
+      ".",
+      "centro",
+      "ciudad",
+      "beirut",
+      ",",
+      "menos",
+      "20",
+      "personas",
+      "fallecieron",
+      "sábado",
+      "causa",
+      "ataque",
+      "israelí",
+      "38",
+      "civiles",
+      "masacrados",
+      "sur",
+      "capital",
+      "libanesa",
+      "bombas",
+      "israelíes",
+      ".",
+      "sábado",
+      "mañana",
+      ",",
+      "fuertes",
+      "explosiones",
+      "remecieron",
+      "beirut",
+      ",",
+      "bombardeos",
+      "israelíes",
+      "destruyeron",
+      "edificio",
+      "dejaron",
+      "enorme",
+      "cráter",
+      "barrio",
+      "basta",
+      ".",
+      "acuerdo",
+      "ministerio",
+      "salud",
+      "libanés",
+      "ataques",
+      "israelíes",
+      "centro",
+      "beirut",
+      "dejaron",
+      "alrededor",
+      "66",
+      "heridos",
+      ",",
+      "precisando",
+      "balance",
+      "provisional",
+      ".",
+      "parte",
+      "fuente",
+      "seguridad",
+      "libanesa",
+      "indicó",
+      "objetivo",
+      "ataques",
+      "asesinar",
+      "alto",
+      "mando",
+      "resistencia",
+      "libanesa",
+      "hezbolá",
+      ".",
+      "embargo",
+      ",",
+      "diputado",
+      "hezbolá",
+      "amin",
+      "sherri",
+      "negó",
+      "dirigente",
+      "movimiento",
+      "resistencia",
+      "lugar",
+      "momento",
+      "bombardeos",
+      ".",
+      "ejército",
+      "israelí",
+      "afirmó",
+      "bombardeos",
+      "zonas",
+      "sur",
+      "beirut",
+      "buscaban",
+      "impactar",
+      "supuestos",
+      "centros",
+      "mando",
+      "hezbolá",
+      ".",
+      "según",
+      "agencia",
+      "nacional",
+      "noticias",
+      "(",
+      "nna",
+      ")",
+      "libanesa",
+      "ejército",
+      "israelí",
+      "trata",
+      "tomar",
+      "control",
+      "jiam",
+      ",",
+      "localidad",
+      "sur",
+      "cerca",
+      "frontera",
+      ",",
+      "libran",
+      "duros",
+      "combates",
+      "hezbolá",
+      ".",
+      "objetivo",
+      "campaña",
+      "israelí",
+      "alejar",
+      "hezbolá",
+      "zonas",
+      "fronterizas",
+      "permitir",
+      "regreso",
+      "60.000",
+      "desplazados",
+      "norte",
+      "israel",
+      "combates",
+      "resistencia",
+      "libanesa",
+      ",",
+      "provocaron",
+      "huida",
+      "decenas",
+      "miles",
+      "habitantes",
+      "sur",
+      "líbano",
+      ".",
+      "3.670",
+      "personas",
+      "muerto",
+      "líbano",
+      "2023",
+      ",",
+      "mayoría",
+      "septiembre",
+      "año",
+      ",",
+      "según",
+      "ministerio",
+      "salud",
+      "libanés",
+      "."
+    ],
+    "token_count": 180,
+    "sentence_count": 10
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 39,
+      "JJ": 28,
+      "NN": 77,
+      "IN": 19,
+      "FW": 80,
+      "NNS": 15,
+      "VBP": 8,
+      "CD": 8,
+      "VBD": 2,
+      "$": 1,
+      "VBZ": 5,
+      "RB": 1,
+      "CC": 3,
+      "MD": 1,
+      "VB": 1
+    },
+    "bigram_freq": {
+      "NNP-JJ": 1,
+      "JJ-NN": 13,
+      "NN-IN": 16,
+      "IN-NNP": 10,
+      "NNP-NNP": 13,
+      "NNP-FW": 6,
+      "FW-NN": 14,
+      "NN-NNS": 2,
+      "NNS-VBP": 7,
+      "VBP-NN": 4,
+      "NN-NN": 36,
+      "IN-FW": 7,
+      "NN-NNP": 4,
+      "NNP-NN": 8,
+      "IN-CD": 2,
+      "CD-NNS": 6,
+      "NNS-FW": 2,
+      "FW-FW": 51,
+      "FW-CD": 2,
+      "NNS-NNP": 1,
+      "FW-NNP": 6,
+      "NNP-VBD": 2,
+      "VBD-$": 1,
+      "$-CD": 1,
+      "CD-JJ": 1,
+      "NN-VBZ": 2,
+      "VBZ-CD": 1,
+      "NNS-RB": 1,
+      "RB-VBP": 1,
+      "VBP-JJ": 4,
+      "JJ-FW": 4,
+      "NN-FW": 8,
+      "JJ-NNP": 4,
+      "FW-VBZ": 1,
+      "VBZ-NNS": 1,
+      "NNS-NN": 1,
+      "NNP-VBZ": 2,
+      "VBZ-JJ": 2,
+      "JJ-JJ": 4,
+      "NN-JJ": 7,
+      "NNP-IN": 3,
+      "NNP-CC": 3,
+      "CC-JJ": 2,
+      "JJ-NNS": 3,
+      "VBD-CD": 1,
+      "NNS-JJ": 3,
+      "FW-NNS": 3,
+      "NNP-MD": 1,
+      "MD-VB": 1,
+      "VB-JJ": 1,
+      "FW-JJ": 3,
+      "VBZ-FW": 1,
+      "CC-FW": 1,
+      "NN-CD": 1,
+      "CD-NN": 1
+    },
+    "trigram_freq": {
+      "NNP-JJ-NN": 1,
+      "JJ-NN-IN": 5,
+      "NN-IN-NNP": 8,
+      "IN-NNP-NNP": 5,
+      "NNP-NNP-FW": 4,
+      "NNP-FW-NN": 3,
+      "FW-NN-NNS": 1,
+      "NN-NNS-VBP": 2,
+      "NNS-VBP-NN": 4,
+      "VBP-NN-NN": 2,
+      "NN-NN-IN": 6,
+      "NN-IN-FW": 7,
+      "IN-FW-NN": 2,
+      "FW-NN-NN": 6,
+      "NN-NN-NNP": 2,
+      "NN-NNP-NN": 1,
+      "NNP-NN-NN": 7,
+      "NN-IN-CD": 1,
+      "IN-CD-NNS": 2,
+      "CD-NNS-FW": 1,
+      "NNS-FW-FW": 1,
+      "FW-FW-FW": 36,
+      "FW-FW-CD": 2,
+      "FW-CD-NNS": 2,
+      "CD-NNS-NNP": 1,
+      "NNS-NNP-FW": 1,
+      "FW-NN-IN": 4,
+      "IN-FW-FW": 4,
+      "FW-FW-NNP": 5,
+      "FW-NNP-VBD": 1,
+      "NNP-VBD-$": 1,
+      "VBD-$-CD": 1,
+      "$-CD-JJ": 1,
+      "CD-JJ-NN": 1,
+      "JJ-NN-NN": 5,
+      "NN-NN-NN": 16,
+      "NN-NN-VBZ": 2,
+      "NN-VBZ-CD": 1,
+      "VBZ-CD-NNS": 1,
+      "CD-NNS-RB": 1,
+      "NNS-RB-VBP": 1,
+      "RB-VBP-JJ": 1,
+      "VBP-JJ-FW": 3,
+      "JJ-FW-NN": 3,
+      "FW-NN-FW": 2,
+      "NN-FW-FW": 6,
+      "FW-FW-NN": 5,
+      "NN-NN-NNS": 1,
+      "NNS-VBP-JJ": 3,
+      "VBP-JJ-NNP": 1,
+      "JJ-NNP-NN": 3,
+      "NN-NN-FW": 4,
+      "NN-FW-VBZ": 1,
+      "FW-VBZ-NNS": 1,
+      "VBZ-NNS-NN": 1,
+      "NNS-NN-NNP": 1,
+      "NN-NNP-VBZ": 1,
+      "NNP-VBZ-JJ": 1,
+      "VBZ-JJ-JJ": 1,
+      "JJ-JJ-NN": 3,
+      "NN-NN-JJ": 4,
+      "NN-JJ-NN": 4,
+      "FW-NN-NNP": 1,
+      "NN-NNP-IN": 2,
+      "NNP-IN-NNP": 2,
+      "IN-NNP-CC": 2,
+      "NNP-CC-JJ": 2,
+      "CC-JJ-NNS": 2,
+      "JJ-NNS-VBP": 3,
+      "NNP-NNP-VBD": 1,
+      "NNP-VBD-CD": 1,
+      "VBD-CD-NNS": 1,
+      "CD-NNS-JJ": 3,
+      "NNS-JJ-JJ": 1,
+      "JJ-NN-JJ": 2,
+      "NN-JJ-NNP": 1,
+      "FW-FW-NNS": 2,
+      "FW-NNS-VBP": 2,
+      "VBP-NN-JJ": 1,
+      "NN-JJ-JJ": 2,
+      "FW-NNP-NNP": 3,
+      "NNP-NNP-NN": 1,
+      "NNP-NNP-NNP": 4,
+      "NNP-NNP-MD": 1,
+      "NNP-MD-VB": 1,
+      "MD-VB-JJ": 1,
+      "VB-JJ-NN": 1,
+      "JJ-NN-FW": 1,
+      "FW-FW-JJ": 1,
+      "FW-JJ-NNP": 1,
+      "JJ-JJ-NNS": 1,
+      "IN-NNP-NN": 3,
+      "NNP-FW-NNP": 1,
+      "NNP-NNP-VBZ": 1,
+      "NNP-VBZ-FW": 1,
+      "VBZ-FW-FW": 1,
+      "NNP-CC-FW": 1,
+      "CC-FW-JJ": 1,
+      "FW-JJ-NN": 2,
+      "NN-VBZ-JJ": 1,
+      "VBZ-JJ-NNP": 1,
+      "JJ-NNP-NNP": 1,
+      "NNP-FW-FW": 2,
+      "FW-NNP-FW": 1,
+      "NNS-JJ-FW": 1,
+      "JJ-FW-FW": 1,
+      "FW-NNP-CC": 1,
+      "FW-NNS-FW": 1,
+      "NNS-FW-NNS": 1,
+      "VBP-NN-IN": 1,
+      "NNP-NNP-IN": 1,
+      "NNP-IN-CD": 1,
+      "NNS-JJ-NN": 1,
+      "NN-NN-CD": 1,
+      "NN-CD-NN": 1,
+      "CD-NN-FW": 1,
+      "NN-FW-NN": 1,
+      "IN-FW-JJ": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "FW": 80,
+        "NN": 77,
+        "NNP": 39,
+        "JJ": 28,
+        "IN": 19
+      },
+      "top_bigrams": {
+        "FW-FW": 51,
+        "NN-NN": 36,
+        "NN-IN": 16,
+        "FW-NN": 14,
+        "JJ-NN": 13
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 36,
+        "NN-NN-NN": 16,
+        "NN-IN-NNP": 8,
+        "NN-IN-FW": 7,
+        "NNP-NN-NN": 7
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 10,
+    "chunk_counts": {
+      "NP": 83,
+      "PP": 9,
+      "VP": 16,
+      "ADJP": 3
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 8,
+        "weight": 0.0661
+      },
+      {
+        "rule": "VP -> ('del', 'VBP') NP",
+        "frequency": 3,
+        "weight": 0.0248
+      },
+      {
+        "rule": "NP -> ('este', 'NN') ('y', 'NN') ('sur', 'NN')",
+        "frequency": 2,
+        "weight": 0.0165
+      },
+      {
+        "rule": "NP -> ('centro', 'NN')",
+        "frequency": 2,
+        "weight": 0.0165
+      },
+      {
+        "rule": "NP -> ('personas', 'NNS')",
+        "frequency": 2,
+        "weight": 0.0165
+      },
+      {
+        "rule": "NP -> ('Hezbolá', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0165
+      },
+      {
+        "rule": "NP -> ('El', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0165
+      },
+      {
+        "rule": "S -> NP NP PP ('el', 'FW') NP VP ('de', 'IN') ('la', 'FW') NP ('de', 'IN') ('50', 'CD') NP ADJP ('decenas', 'FW') ('de', 'FW') ('heridos', 'FW') ('en', 'FW') ('las', 'FW') ('últimas', 'FW') ('24', 'CD') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0083
+      },
+      {
+        "rule": "NP -> ('Los', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0083
+      },
+      {
+        "rule": "NP -> ('intensos', 'JJ') ('bombardeos', 'NN')",
+        "frequency": 1,
+        "weight": 0.0083
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Los"
+      },
+      {
+        "label": "NP",
+        "text": "intensos bombardeos"
+      },
+      {
+        "label": "PP",
+        "text": "de Israel contra"
+      },
+      {
+        "label": "NP",
+        "text": "Israel contra"
+      },
+      {
+        "label": "NP",
+        "text": "centro y suburbios"
+      },
+      {
+        "label": "VP",
+        "text": "del este y sur"
+      },
+      {
+        "label": "NP",
+        "text": "este y sur"
+      },
+      {
+        "label": "NP",
+        "text": "capital del Líbano dejaron más"
+      },
+      {
+        "label": "NP",
+        "text": "muertos"
+      },
+      {
+        "label": "ADJP",
+        "text": "y"
+      },
+      {
+        "label": "NP",
+        "text": "horas"
+      },
+      {
+        "label": "NP",
+        "text": "En"
+      },
+      {
+        "label": "NP",
+        "text": "centro"
+      },
+      {
+        "label": "NP",
+        "text": "Beirut"
+      },
+      {
+        "label": "VP",
+        "text": "al menos"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Los/NNP)\n  (NP intensos/JJ bombardeos/NN)\n  (PP de/IN (NP Israel/NNP contra/NNP))\n  el/FW\n  (NP centro/NN y/NN suburbios/NNS)\n  (VP del/VBP (NP este/NN y/NN sur/NN))\n  de/IN\n  la/FW\n  (NP capital/NN del/NN Líbano/NNP dejaron/NN más/NN)\n  de/IN\n  50/CD\n  (NP muertos/NNS)\n  (ADJP y/JJ)\n  decenas/FW\n  de/FW\n  heridos/FW\n  en/FW\n  las/FW\n  últimas/FW\n  24/CD\n  (NP horas/NNS)\n  ./.)",
+      "(S\n  (NP En/NNP)\n  el/FW\n  (NP centro/NN)\n  de/IN\n  la/FW\n  ciudad/FW\n  de/FW\n  (NP Beirut/NNP)\n  ,/,\n  (VP al/VBD menos/JJ)\n  20/CD\n  (NP personas/NNS)\n  (VP\n    fallecieron/VBP\n    (NP el/JJ sábado/NN)\n    (NP a/DT causa/NN del/NN ataque/NN israelí/NN))\n  y/$\n  38/CD\n  (NP civiles/NNS)\n  fueron/RB\n  (VP masacrados/VBP en/JJ)\n  el/FW\n  (NP este/NN y/NN)\n  el/FW\n  sur/FW\n  de/FW\n  la/FW\n  (NP capital/NN libanesa/NN por/NN las/NNS)\n  (VP bombas/VBP (NP israelíes/NN))\n  ./.)",
+      "(S\n  (NP El/NNP sábado/NN por/NN la/NN mañana/NN)\n  ,/,\n  (VP fuertes/VBZ (NP explosiones/NNS remecieron/NN Beirut/NNP))\n  ,/,\n  (VP\n    donde/VBZ\n    (NP los/JJ bombardeos/JJ israelíes/NN destruyeron/NN)\n    (NP un/JJ edificio/NN y/NN dejaron/NN)\n    (NP un/JJ enorme/NN cráter/NN))\n  en/IN\n  el/FW\n  (NP barrio/NN)\n  (PP de/IN (NP Basta/NNP))\n  ./.)",
+      "(S\n  (NP De/NNP)\n  acuerdo/FW\n  (NP al/NN Ministerio/NNP)\n  (PP de/IN (NP Salud/NNP))\n  libanés/CC\n  (NP los/JJ ataques/NNS)\n  (VP israelíes/VBP contra/JJ)\n  el/FW\n  (NP centro/NN)\n  (PP de/IN (NP Beirut/NNP dejaron/NNP))\n  (VP alrededor/VBD)\n  66/CD\n  (NP heridos/NN)\n  ,/,\n  (NP precisando/NN que/NN era/NN)\n  (NP un/JJ balance/NN provisional/NN)\n  ./.)",
+      "(S\n  (NP Por/NNP su/NN parte/NN)\n  (NP una/JJ fuente/NN)\n  de/IN\n  seguridad/FW\n  libanesa/FW\n  (NP indicó/NN que/NN)\n  el/FW\n  objetivo/FW\n  de/FW\n  los/FW\n  (NP ataques/NNS)\n  (VP era/VBP (NP asesinar/NN) (NP un/JJ alto/JJ mando/NN))\n  de/IN\n  la/FW\n  resistencia/FW\n  libanesa/FW\n  (NP Hezbolá/NNP)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "LEYES_NORMATIVAS",
+      "APROBACION_RECHAZO",
+      "TIEMPO_RELATIVO",
+      "CANTIDADES_NUMERICAS",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "ANTIIMPERIALISMO_SOBERANIA",
+      "CRISIS_HUMANITARIA_SERVICIOS",
+      "PAISES",
+      "LOCALIZACIONES_ESPECIFICAS",
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "CONFLICTOS_ARMADOS_OPERACIONES"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "ataque israelí y 38 civiles fueron masacrados en el este y el sur de la capital libanesa por las bombas israelíes",
+        "position": [
+          267,
+          380
+        ],
+        "start": 267,
+        "end": 380
+      },
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "capital",
+        "position": [
+          84,
+          91
+        ],
+        "start": 84,
+        "end": 91
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "afirmó",
+        "position": [
+          1034,
+          1040
+        ],
+        "start": 1034,
+        "end": 1040
+      },
+      {
+        "category": "CRISIS_HUMANITARIA_SERVICIOS",
+        "matched_text": "desplazados del norte de israel por los combates contra la resistencia libanesa, que también provocaron la huida de decenas de miles",
+        "position": [
+          1455,
+          1587
+        ],
+        "start": 1455,
+        "end": 1587
+      },
+      {
+        "category": "APROBACION_RECHAZO",
+        "matched_text": "negó",
+        "position": [
+          910,
+          914
+        ],
+        "start": 910,
+        "end": 914
+      },
+      {
+        "category": "LEYES_NORMATIVAS",
+        "matched_text": "acuerdo al ministerio de salud libanés los ataques israelíes contra el centro de beirut dejaron alrededor 66",
+        "position": [
+          554,
+          662
+        ],
+        "start": 554,
+        "end": 662
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "líbano",
+        "position": [
+          96,
+          102
+        ],
+        "start": 96,
+        "end": 102
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "barrio de",
+        "position": [
+          534,
+          543
+        ],
+        "start": 534,
+        "end": 543
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "centro y suburbios",
+        "position": [
+          44,
+          62
+        ],
+        "start": 44,
+        "end": 62
+      },
+      {
+        "category": "TIEMPO_RELATIVO",
+        "matched_text": "mañana",
+        "position": [
+          399,
+          405
+        ],
+        "start": 399,
+        "end": 405
+      },
+      {
+        "category": "ANTIIMPERIALISMO_SOBERANIA",
+        "matched_text": "embargo",
+        "position": [
+          866,
+          873
+        ],
+        "start": 866,
+        "end": 873
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "20 personas",
+        "position": [
+          221,
+          232
+        ],
+        "start": 221,
+        "end": 232
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "3.670 personas",
+        "position": [
+          1628,
+          1642
+        ],
+        "start": 1628,
+        "end": 1642
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "más de 50",
+        "position": [
+          111,
+          120
+        ],
+        "start": 111,
+        "end": 120
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "más de 3.670",
+        "position": [
+          1621,
+          1633
+        ],
+        "start": 1621,
+        "end": 1633
+      }
+    ],
+    "match_count": 15
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Agencia Nacional de Noticias",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Hezbolá",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Basta",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Líbano",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Israel",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Beirut",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Jiam",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Ministerio de Salud",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Amin Sherri",
+        "tipo": "Persona"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Ministerio de Salud",
+        "relacion": "DEJAR",
+        "objeto": "Beirut"
+      },
+      {
+        "sujeto": "Beirut",
+        "relacion": "BUSCAR_AFIRMAR",
+        "objeto": "Hezbolá"
+      },
+      {
+        "sujeto": "Agencia Nacional de Noticias",
+        "relacion": "TRATAR",
+        "objeto": "Jiam"
+      },
+      {
+        "sujeto": "Agencia Nacional de Noticias",
+        "relacion": "TRATAR",
+        "objeto": "Hezbolá"
+      },
+      {
+        "sujeto": "Hezbolá",
+        "relacion": "ALEJAR_SER",
+        "objeto": "Israel"
+      },
+      {
+        "sujeto": "Hezbolá",
+        "relacion": "ALEJAR_SER",
+        "objeto": "Líbano"
+      },
+      {
+        "sujeto": "Líbano",
+        "relacion": "MORIR",
+        "objeto": "Ministerio de Salud"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.5574,
+    "pos": 0.0,
+    "neu": 0.988,
+    "neg": 0.012,
+    "label": "negative"
+  }
+}

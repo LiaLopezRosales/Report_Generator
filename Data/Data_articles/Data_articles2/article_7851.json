@@ -1,0 +1,642 @@
+{
+  "url": "https://www.telesurtv.net/bombardeo-israeli-provoca-la-muerte-de-nueve-personas-en-la-franja-de-gaza/",
+  "title": "Bombardeo israelí provoca la muerte de nueve personas en la Franja de Gaza - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Ataque israelí",
+    "Franja de Gaza",
+    "muerte"
+  ],
+  "text": "Este jueves se produjo un bombardeo de la ocupación en el campamento de Nuseirat, ubicado en el corazón de la Franja de Gaza dejando nueve palestinos muertos.\nSegún fuentes locales, la artillería de ocupación efectuó un fuerte bombardeo contra el recién establecido campamento de Nuseirat, en el centro del territorio palestino, causando lesiones a un grupo de civiles palestinos.\nAsimismo, el Ministerio de Salud palestino informó que desde el 7 de octubre de 2023 el número de fallecimientos en la Franja de Gaza se ha incrementado a más de 44.200, predominando mujeres y niños.\nPor su parte el Fondo de Naciones Unidas para la Infancia (Unicef) expresó que el conflicto militar le ha causado la muerte “a más de 240 niños, hirió a unos 1.400 y trastocó la vida de muchos otros”.\nPor otra parte, la directora Ejecutiva de la entidad, Catherine Russell subrayó que “la protección de los niños y sus familias debe seguir siendo el centro de todos los esfuerzos para estabilizar la situación y apoyar la recuperación”.\nLa cifra de heridos ascendió a 104.880, desde el comienzo de la agresión, y miles de víctimas continúan atrapadas en los escombros.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/bombardeo-israeli-provoca-la-muerte-de-nueve-personas-en-la-franja-de-gaza/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-11.json",
+    "message_index": 157,
+    "message_id": 81329,
+    "date": "2024-11-28T10:55:07+00:00",
+    "text": "teleSUR\nBombardeo israelí provoca la muerte de nueve personas en la Franja de Gaza\nhttps://www.telesurtv.net/bombardeo-israeli-provoca-la-muerte-de-nueve-personas-en-la-franja-de-gaza/",
+    "photo_path": null,
+    "views": 2091,
+    "reactions": {
+      "🤬": 40,
+      "💩": 8,
+      "😢": 2,
+      "👍": 1
+    },
+    "total_reactions": 51
+  },
+  "preprocessing": {
+    "cleaned": "este jueves se produjo un bombardeo de la ocupación en el campamento de nuseirat, ubicado en el corazón de la franja de gaza dejando nueve palestinos muertos. según fuentes locales, la artillería de ocupación efectuó un fuerte bombardeo contra el recién establecido campamento de nuseirat, en el centro del territorio palestino, causando lesiones a un grupo de civiles palestinos. asimismo, el ministerio de salud palestino informó que desde el 7 de octubre de 2023 el número de fallecimientos en la franja de gaza se ha incrementado a más de 44.200, predominando mujeres y niños. por su parte el fondo de naciones unidas para la infancia (unicef) expresó que el conflicto militar le ha causado la muerte “a más de 240 niños, hirió a unos 1.400 y trastocó la vida de muchos otros”. por otra parte, la directora ejecutiva de la entidad, catherine russell subrayó que “la protección de los niños y sus familias debe seguir siendo el centro de todos los esfuerzos para estabilizar la situación y apoyar la recuperación”. la cifra de heridos ascendió a 104.880, desde el comienzo de la agresión, y miles de víctimas continúan atrapadas en los escombros.",
+    "tokens": [
+      "jueves",
+      "produjo",
+      "bombardeo",
+      "ocupación",
+      "campamento",
+      "nuseirat",
+      ",",
+      "ubicado",
+      "corazón",
+      "franja",
+      "gaza",
+      "dejando",
+      "nueve",
+      "palestinos",
+      "muertos",
+      ".",
+      "según",
+      "fuentes",
+      "locales",
+      ",",
+      "artillería",
+      "ocupación",
+      "efectuó",
+      "fuerte",
+      "bombardeo",
+      "recién",
+      "establecido",
+      "campamento",
+      "nuseirat",
+      ",",
+      "centro",
+      "territorio",
+      "palestino",
+      ",",
+      "causando",
+      "lesiones",
+      "grupo",
+      "civiles",
+      "palestinos",
+      ".",
+      "asimismo",
+      ",",
+      "ministerio",
+      "salud",
+      "palestino",
+      "informó",
+      "7",
+      "octubre",
+      "2023",
+      "número",
+      "fallecimientos",
+      "franja",
+      "gaza",
+      "incrementado",
+      "44.200",
+      ",",
+      "predominando",
+      "mujeres",
+      "niños",
+      ".",
+      "parte",
+      "fondo",
+      "naciones",
+      "unidas",
+      "infancia",
+      "(",
+      "unicef",
+      ")",
+      "expresó",
+      "conflicto",
+      "militar",
+      "causado",
+      "muerte",
+      "“",
+      "240",
+      "niños",
+      ",",
+      "hirió",
+      "1.400",
+      "trastocó",
+      "vida",
+      "”",
+      ".",
+      "parte",
+      ",",
+      "directora",
+      "ejecutiva",
+      "entidad",
+      ",",
+      "catherine",
+      "russell",
+      "subrayó",
+      "“",
+      "protección",
+      "niños",
+      "familias",
+      "debe",
+      "seguir",
+      "siendo",
+      "centro",
+      "esfuerzos",
+      "estabilizar",
+      "situación",
+      "apoyar",
+      "recuperación",
+      "”",
+      ".",
+      "cifra",
+      "heridos",
+      "ascendió",
+      "104.880",
+      ",",
+      "comienzo",
+      "agresión",
+      ",",
+      "miles",
+      "víctimas",
+      "continúan",
+      "atrapadas",
+      "escombros",
+      "."
+    ],
+    "token_count": 121,
+    "sentence_count": 6
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NN": 54,
+      "NNS": 7,
+      "VBP": 4,
+      "JJ": 13,
+      "IN": 7,
+      "FW": 65,
+      "NNP": 21,
+      "VBZ": 3,
+      "CD": 5,
+      "RB": 2
+    },
+    "bigram_freq": {
+      "NN-NNS": 4,
+      "NNS-VBP": 2,
+      "VBP-JJ": 1,
+      "JJ-JJ": 1,
+      "JJ-NN": 5,
+      "NN-IN": 6,
+      "IN-FW": 3,
+      "FW-FW": 38,
+      "FW-NNP": 12,
+      "NNP-JJ": 1,
+      "JJ-FW": 5,
+      "NNP-FW": 9,
+      "NNP-NN": 4,
+      "NN-VBP": 1,
+      "VBP-NN": 1,
+      "NN-NN": 31,
+      "NN-NNP": 2,
+      "NNP-VBZ": 3,
+      "VBZ-NNS": 1,
+      "NNS-FW": 1,
+      "FW-JJ": 3,
+      "NN-JJ": 2,
+      "IN-NNP": 1,
+      "FW-NN": 8,
+      "NNS-JJ": 1,
+      "FW-NNS": 1,
+      "NNS-NNP": 1,
+      "NNP-VBP": 1,
+      "VBP-NNP": 2,
+      "NN-FW": 8,
+      "FW-IN": 1,
+      "IN-CD": 2,
+      "CD-JJ": 2,
+      "CD-NN": 3,
+      "NNP-NNP": 3,
+      "VBZ-JJ": 2,
+      "FW-CD": 1,
+      "JJ-CD": 1,
+      "FW-RB": 1,
+      "RB-CD": 1,
+      "JJ-NNS": 1,
+      "NNS-RB": 1,
+      "RB-FW": 1,
+      "IN-NN": 1
+    },
+    "trigram_freq": {
+      "NN-NNS-VBP": 2,
+      "NNS-VBP-JJ": 1,
+      "VBP-JJ-JJ": 1,
+      "JJ-JJ-NN": 1,
+      "JJ-NN-IN": 1,
+      "NN-IN-FW": 3,
+      "IN-FW-FW": 2,
+      "FW-FW-FW": 23,
+      "FW-FW-NNP": 7,
+      "FW-NNP-JJ": 1,
+      "NNP-JJ-FW": 1,
+      "JJ-FW-FW": 4,
+      "FW-NNP-FW": 7,
+      "NNP-FW-NNP": 4,
+      "FW-NNP-NN": 2,
+      "NNP-NN-VBP": 1,
+      "NN-VBP-NN": 1,
+      "VBP-NN-NN": 1,
+      "NN-NN-NNP": 2,
+      "NN-NNP-VBZ": 1,
+      "NNP-VBZ-NNS": 1,
+      "VBZ-NNS-FW": 1,
+      "NNS-FW-FW": 1,
+      "FW-FW-JJ": 2,
+      "FW-JJ-NN": 2,
+      "JJ-NN-NN": 3,
+      "NN-NN-JJ": 1,
+      "NN-JJ-NN": 1,
+      "NN-NN-NN": 17,
+      "NN-NN-IN": 4,
+      "NN-IN-NNP": 1,
+      "IN-NNP-FW": 1,
+      "NNP-FW-FW": 3,
+      "FW-FW-NN": 2,
+      "FW-NN-NN": 5,
+      "NN-NN-NNS": 1,
+      "NN-NNS-JJ": 1,
+      "NNS-JJ-FW": 1,
+      "FW-FW-NNS": 1,
+      "FW-NNS-NNP": 1,
+      "NNS-NNP-VBP": 1,
+      "NNP-VBP-NNP": 1,
+      "VBP-NNP-FW": 1,
+      "NNP-NN-NN": 3,
+      "NN-NN-FW": 6,
+      "NN-FW-FW": 5,
+      "FW-FW-IN": 1,
+      "FW-IN-CD": 1,
+      "IN-CD-JJ": 1,
+      "CD-JJ-FW": 1,
+      "NNP-FW-NN": 2,
+      "NN-IN-CD": 1,
+      "IN-CD-NN": 1,
+      "CD-NN-NNS": 1,
+      "NNS-VBP-NNP": 1,
+      "VBP-NNP-NN": 1,
+      "NN-FW-NNP": 1,
+      "FW-NNP-NNP": 2,
+      "NNP-NNP-NN": 1,
+      "NN-NNP-NNP": 1,
+      "NNP-NNP-VBZ": 2,
+      "NNP-VBZ-JJ": 2,
+      "VBZ-JJ-FW": 2,
+      "JJ-FW-NN": 1,
+      "FW-FW-CD": 1,
+      "FW-CD-JJ": 1,
+      "CD-JJ-NN": 1,
+      "JJ-NN-JJ": 1,
+      "NN-JJ-CD": 1,
+      "JJ-CD-NN": 1,
+      "CD-NN-NN": 2,
+      "FW-NN-FW": 2,
+      "NN-FW-NN": 2,
+      "FW-NN-IN": 1,
+      "FW-FW-RB": 1,
+      "FW-RB-CD": 1,
+      "RB-CD-NN": 1,
+      "IN-FW-JJ": 1,
+      "FW-JJ-NNS": 1,
+      "JJ-NNS-RB": 1,
+      "NNS-RB-FW": 1,
+      "RB-FW-NN": 1,
+      "NN-IN-NN": 1,
+      "IN-NN-NNS": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "FW": 65,
+        "NN": 54,
+        "NNP": 21,
+        "JJ": 13,
+        "NNS": 7
+      },
+      "top_bigrams": {
+        "FW-FW": 38,
+        "NN-NN": 31,
+        "FW-NNP": 12,
+        "NNP-FW": 9,
+        "FW-NN": 8
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 23,
+        "NN-NN-NN": 17,
+        "FW-FW-NNP": 7,
+        "FW-NNP-FW": 7,
+        "NN-NN-FW": 6
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 6,
+    "chunk_counts": {
+      "NP": 44,
+      "VP": 11,
+      "ADJP": 3,
+      "PP": 3
+    },
+    "top_rules": [
+      {
+        "rule": "NP -> ('Nuseirat', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0299
+      },
+      {
+        "rule": "NP -> ('Franja', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0299
+      },
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0299
+      },
+      {
+        "rule": "NP -> ('a', 'DT') ('más', 'NN')",
+        "frequency": 2,
+        "weight": 0.0299
+      },
+      {
+        "rule": "S -> NP VP ('de', 'IN') ('la', 'FW') ('ocupación', 'FW') ('en', 'FW') ('el', 'FW') ('campamento', 'FW') ('de', 'FW') NP (',', ',') ADJP ('en', 'FW') ('el', 'FW') ('corazón', 'FW') ('de', 'FW') ('la', 'FW') NP ('de', 'FW') NP VP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0149
+      },
+      {
+        "rule": "NP -> ('Este', 'NN') ('jueves', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0149
+      },
+      {
+        "rule": "VP -> ('se', 'VBP') NP",
+        "frequency": 1,
+        "weight": 0.0149
+      },
+      {
+        "rule": "NP -> ('produjo', 'JJ') ('un', 'JJ') ('bombardeo', 'NN')",
+        "frequency": 1,
+        "weight": 0.0149
+      },
+      {
+        "rule": "ADJP -> ('ubicado', 'JJ')",
+        "frequency": 1,
+        "weight": 0.0149
+      },
+      {
+        "rule": "NP -> ('Gaza', 'NNP') ('dejando', 'NN')",
+        "frequency": 1,
+        "weight": 0.0149
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Este jueves"
+      },
+      {
+        "label": "VP",
+        "text": "se produjo un bombardeo"
+      },
+      {
+        "label": "NP",
+        "text": "produjo un bombardeo"
+      },
+      {
+        "label": "NP",
+        "text": "Nuseirat"
+      },
+      {
+        "label": "ADJP",
+        "text": "ubicado"
+      },
+      {
+        "label": "NP",
+        "text": "Franja"
+      },
+      {
+        "label": "NP",
+        "text": "Gaza dejando"
+      },
+      {
+        "label": "VP",
+        "text": "nueve palestinos muertos"
+      },
+      {
+        "label": "NP",
+        "text": "palestinos muertos"
+      },
+      {
+        "label": "NP",
+        "text": "Según"
+      },
+      {
+        "label": "VP",
+        "text": "fuentes locales"
+      },
+      {
+        "label": "NP",
+        "text": "locales"
+      },
+      {
+        "label": "NP",
+        "text": "un fuerte bombardeo"
+      },
+      {
+        "label": "NP",
+        "text": "contra el recién establecido campamento"
+      },
+      {
+        "label": "PP",
+        "text": "de Nuseirat"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Este/NN jueves/NNS)\n  (VP se/VBP (NP produjo/JJ un/JJ bombardeo/NN))\n  de/IN\n  la/FW\n  ocupación/FW\n  en/FW\n  el/FW\n  campamento/FW\n  de/FW\n  (NP Nuseirat/NNP)\n  ,/,\n  (ADJP ubicado/JJ)\n  en/FW\n  el/FW\n  corazón/FW\n  de/FW\n  la/FW\n  (NP Franja/NNP)\n  de/FW\n  (NP Gaza/NNP dejando/NN)\n  (VP nueve/VBP (NP palestinos/NN muertos/NN))\n  ./.)",
+      "(S\n  (NP Según/NNP)\n  (VP fuentes/VBZ (NP locales/NNS))\n  ,/,\n  la/FW\n  artillería/FW\n  de/FW\n  ocupación/FW\n  efectuó/FW\n  (NP un/JJ fuerte/NN bombardeo/NN)\n  (NP contra/JJ el/NN recién/NN establecido/NN campamento/NN)\n  (PP de/IN (NP Nuseirat/NNP))\n  ,/,\n  en/FW\n  el/FW\n  (NP centro/NN del/NN territorio/NN palestino/NN)\n  ,/,\n  (NP causando/NN lesiones/NNS)\n  (NP a/DT un/JJ grupo/NN)\n  (PP de/IN (NP civiles/NNS palestinos/NNS))\n  ./.)",
+      "(S\n  (NP Asimismo/NNP)\n  ,/,\n  el/FW\n  (NP Ministerio/NNP)\n  de/FW\n  (NP Salud/NNP palestino/NN informó/NN que/NN desde/NN)\n  (VP el/VBD)\n  7/CD\n  de/FW\n  octubre/FW\n  de/IN\n  2023/CD\n  (ADJP el/JJ)\n  número/FW\n  de/FW\n  fallecimientos/FW\n  en/FW\n  la/FW\n  (NP Franja/NNP)\n  de/FW\n  (NP Gaza/NNP)\n  se/FW\n  (NP ha/NN)\n  (VP incrementado/VBP (NP a/DT más/NN))\n  de/IN\n  44.200/CD\n  ,/,\n  (NP predominando/NN mujeres/NNS)\n  (VP y/VBP niños/RB)\n  ./.)",
+      "(S\n  (NP Por/NNP su/NN parte/NN)\n  el/FW\n  (NP Fondo/NNP)\n  de/FW\n  (NP Naciones/NNP Unidas/NNP para/NN la/NN Infancia/NNP)\n  (/(\n  (NP Unicef/NNP)\n  )/)\n  (VP expresó/VBP que/JJ)\n  el/FW\n  (NP conflicto/NN militar/NN le/NN ha/NN causado/NN la/NN)\n  muerte/FW\n  (VP “/VBZ (NP a/DT más/NN))\n  de/IN\n  240/CD\n  (NP niños/NNS)\n  ,/,\n  hirió/PDT\n  a/DT\n  (ADJP unos/JJ)\n  1.400/CD\n  (NP y/NN trastocó/NN)\n  la/FW\n  vida/FW\n  de/FW\n  muchos/FW\n  otros/FW\n  ”/FW\n  ./.)",
+      "(S\n  (NP Por/NNP)\n  otra/MD\n  (VP parte/VB)\n  ,/,\n  la/FW\n  directora/FW\n  (NP Ejecutiva/NNP)\n  de/FW\n  la/FW\n  entidad/FW\n  ,/,\n  (NP Catherine/NNP Russell/NNP)\n  (VP subrayó/VBZ (NP que/JJ “/NNP la/NN protección/NN))\n  de/IN\n  los/FW\n  (NP niños/JJ y/NN sus/NN familias/NN debe/NN seguir/NN siendo/NN)\n  el/FW\n  (NP centro/NN)\n  de/IN\n  todos/FW\n  los/FW\n  esfuerzos/FW\n  (NP para/NN estabilizar/NN la/NN)\n  situación/FW\n  (NP y/NN apoyar/NN la/NN recuperación/NN ”/NN)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "GRUPOS_ESPECIFICOS",
+      "ORGANISMOS_INTERNACIONALES",
+      "APROBACION_RECHAZO",
+      "CANTIDADES_NUMERICAS",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "LOCALIZACIONES_ESPECIFICAS",
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "CONFLICTOS_ARMADOS_OPERACIONES",
+      "FECHAS_ESPECIFICAS"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "ocupación efectuó un fuerte bombardeo contra el recién establecido campamento de nuseirat, en el centro del territorio",
+        "position": [
+          199,
+          317
+        ],
+        "start": 199,
+        "end": 317
+      },
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "ocupación",
+        "position": [
+          42,
+          51
+        ],
+        "start": 42,
+        "end": 51
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "expresó",
+        "position": [
+          648,
+          655
+        ],
+        "start": 648,
+        "end": 655
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "informó",
+        "position": [
+          424,
+          431
+        ],
+        "start": 424,
+        "end": 431
+      },
+      {
+        "category": "ORGANISMOS_INTERNACIONALES",
+        "matched_text": "naciones unidas",
+        "position": [
+          606,
+          621
+        ],
+        "start": 606,
+        "end": 621
+      },
+      {
+        "category": "ORGANISMOS_INTERNACIONALES",
+        "matched_text": "unicef",
+        "position": [
+          640,
+          646
+        ],
+        "start": 640,
+        "end": 646
+      },
+      {
+        "category": "GRUPOS_ESPECIFICOS",
+        "matched_text": "mujeres",
+        "position": [
+          564,
+          571
+        ],
+        "start": 564,
+        "end": 571
+      },
+      {
+        "category": "APROBACION_RECHAZO",
+        "matched_text": "subrayó",
+        "position": [
+          854,
+          861
+        ],
+        "start": 854,
+        "end": 861
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "centro del",
+        "position": [
+          296,
+          306
+        ],
+        "start": 296,
+        "end": 306
+      },
+      {
+        "category": "FECHAS_ESPECIFICAS",
+        "matched_text": "7 de octubre de 2023",
+        "position": [
+          445,
+          465
+        ],
+        "start": 445,
+        "end": 465
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "más de 44.200",
+        "position": [
+          536,
+          549
+        ],
+        "start": 536,
+        "end": 549
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "más de 240",
+        "position": [
+          708,
+          718
+        ],
+        "start": 708,
+        "end": 718
+      }
+    ],
+    "match_count": 12
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Franja de Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Catherine Russell",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Nuseirat",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Ejecutiva",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Fondo de Naciones Unidas para la Infancia",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Ministerio de Salud",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Unicef",
+        "tipo": "Organizacion"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Ministerio de Salud",
+        "relacion": "INFORMAR",
+        "objeto": "Franja de Gaza"
+      },
+      {
+        "sujeto": "Catherine Russell",
+        "relacion": "SUBRAYAR",
+        "objeto": "Ejecutiva"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.5859,
+    "pos": 0.026,
+    "neu": 0.974,
+    "neg": 0.0,
+    "label": "positive"
+  }
+}

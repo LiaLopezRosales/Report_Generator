@@ -1,0 +1,753 @@
+{
+  "url": "https://www.telesurtv.net/camara-de-diputados-de-mexico-aprueba-lista-de-candidatos-para-eleccion-judicial/",
+  "title": "Cámara de Diputados de México aprueba lista de candidatos para elección judicial - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "Cámara Diputados",
+    "Elección Judicial",
+    "Poder Judicial"
+  ],
+  "text": "La Cámara de Diputados de México aprobó el miércoles la lista de los 1.412 aspirantes a cargos en el Poder Judicial del país norteamericano.\nLa lista fue aprobada por 321 votos a favor, 112 en contra y una abstención.\nEl listado, elaborado por el Comité de Evaluación del Poder Legislativo, será utilizado en las elecciones del 1 de junio de 2025, cuando se someterán a voto popular los cargos de ministros de la Suprema Corte de Justicia de la Nación (SCJN), magistrados y jueces en todo el país.\nEl proceso de selección de los aspirantes incluyó una insaculación pública evaluados por el comité, lo que, de acuerdo con el diputado Leonel Godoy, del oficialista Movimiento Regeneración Nacional (Morena), “garantizó transparencia”.\nLa lista incluye a 657 mujeres y 755 hombres que aspiran a cargos como ministros de la Suprema Corte de Justicia de la Nación, magistrados del Tribunal de Disciplina Judicial, magistrados del Tribunal Electoral del Poder Judicial de la Federación y sus salas regionales, magistrados de circuito y jueces de distrito.\nTras su aprobación, la lista será enviada al Senado mexicano para continuar con el proceso de registro de candidatos ante el Instituto Nacional Electoral (INE), de cara a las elecciones judiciales del próximo 1 de junio.\nEste proceso electoral son parte de una reforma judicial que busca transformar la forma en que se eligen jueces y magistrados en México, permitiendo que sean seleccionados por voto popular.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/camara-de-diputados-de-mexico-aprueba-lista-de-candidatos-para-eleccion-judicial/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-02.json",
+    "message_index": 1514,
+    "message_id": 86350,
+    "date": "2025-02-06T06:55:07+00:00",
+    "text": "teleSUR\nCámara de Diputados de México aprueba lista de candidatos para elección judicial\nhttps://www.telesurtv.net/camara-de-diputados-de-mexico-aprueba-lista-de-candidatos-para-eleccion-judicial/",
+    "photo_path": null,
+    "views": 2092,
+    "reactions": {
+      "🤔": 18,
+      "👍": 15,
+      "👏": 4
+    },
+    "total_reactions": 37
+  },
+  "preprocessing": {
+    "cleaned": "la cámara de diputados de méxico aprobó el miércoles la lista de los 1.412 aspirantes a cargos en el poder judicial del país norteamericano. la lista fue aprobada por 321 votos a favor, 112 en contra y una abstención. el listado, elaborado por el comité de evaluación del poder legislativo, será utilizado en las elecciones del 1 de junio de 2025, cuando se someterán a voto popular los cargos de ministros de la suprema corte de justicia de la nación (scjn), magistrados y jueces en todo el país. el proceso de selección de los aspirantes incluyó una insaculación pública evaluados por el comité, lo que, de acuerdo con el diputado leonel godoy, del oficialista movimiento regeneración nacional (morena), “garantizó transparencia”. la lista incluye a 657 mujeres y 755 hombres que aspiran a cargos como ministros de la suprema corte de justicia de la nación, magistrados del tribunal de disciplina judicial, magistrados del tribunal electoral del poder judicial de la federación y sus salas regionales, magistrados de circuito y jueces de distrito. tras su aprobación, la lista será enviada al senado mexicano para continuar con el proceso de registro de candidatos ante el instituto nacional electoral (ine), de cara a las elecciones judiciales del próximo 1 de junio. este proceso electoral son parte de una reforma judicial que busca transformar la forma en que se eligen jueces y magistrados en méxico, permitiendo que sean seleccionados por voto popular.",
+    "tokens": [
+      "cámara",
+      "diputados",
+      "méxico",
+      "aprobó",
+      "miércoles",
+      "lista",
+      "1.412",
+      "aspirantes",
+      "cargos",
+      "poder",
+      "judicial",
+      "país",
+      "norteamericano",
+      ".",
+      "lista",
+      "aprobada",
+      "321",
+      "votos",
+      "favor",
+      ",",
+      "112",
+      "abstención",
+      ".",
+      "listado",
+      ",",
+      "elaborado",
+      "comité",
+      "evaluación",
+      "poder",
+      "legislativo",
+      ",",
+      "utilizado",
+      "elecciones",
+      "1",
+      "junio",
+      "2025",
+      ",",
+      "someterán",
+      "voto",
+      "popular",
+      "cargos",
+      "ministros",
+      "suprema",
+      "corte",
+      "justicia",
+      "nación",
+      "(",
+      "scjn",
+      ")",
+      ",",
+      "magistrados",
+      "jueces",
+      "país",
+      ".",
+      "proceso",
+      "selección",
+      "aspirantes",
+      "incluyó",
+      "insaculación",
+      "pública",
+      "evaluados",
+      "comité",
+      ",",
+      ",",
+      "acuerdo",
+      "diputado",
+      "leonel",
+      "godoy",
+      ",",
+      "oficialista",
+      "movimiento",
+      "regeneración",
+      "nacional",
+      "(",
+      "morena",
+      ")",
+      ",",
+      "“",
+      "garantizó",
+      "transparencia",
+      "”",
+      ".",
+      "lista",
+      "incluye",
+      "657",
+      "mujeres",
+      "755",
+      "hombres",
+      "aspiran",
+      "cargos",
+      "ministros",
+      "suprema",
+      "corte",
+      "justicia",
+      "nación",
+      ",",
+      "magistrados",
+      "tribunal",
+      "disciplina",
+      "judicial",
+      ",",
+      "magistrados",
+      "tribunal",
+      "electoral",
+      "poder",
+      "judicial",
+      "federación",
+      "salas",
+      "regionales",
+      ",",
+      "magistrados",
+      "circuito",
+      "jueces",
+      "distrito",
+      ".",
+      "tras",
+      "aprobación",
+      ",",
+      "lista",
+      "enviada",
+      "senado",
+      "mexicano",
+      "continuar",
+      "proceso",
+      "registro",
+      "candidatos",
+      "instituto",
+      "nacional",
+      "electoral",
+      "(",
+      "ine",
+      ")",
+      ",",
+      "cara",
+      "elecciones",
+      "judiciales",
+      "próximo",
+      "1",
+      "junio",
+      ".",
+      "proceso",
+      "electoral",
+      "parte",
+      "reforma",
+      "judicial",
+      "busca",
+      "transformar",
+      "forma",
+      "eligen",
+      "jueces",
+      "magistrados",
+      "méxico",
+      ",",
+      "permitiendo",
+      "seleccionados",
+      "voto",
+      "popular",
+      "."
+    ],
+    "token_count": 158,
+    "sentence_count": 7
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 46,
+      "FW": 58,
+      "IN": 8,
+      "VBP": 10,
+      "JJ": 19,
+      "NNS": 14,
+      "CD": 6,
+      "NN": 58,
+      "VBZ": 3,
+      "VBD": 1
+    },
+    "bigram_freq": {
+      "NNP-NNP": 17,
+      "NNP-FW": 15,
+      "FW-NNP": 19,
+      "NNP-IN": 2,
+      "IN-NNP": 2,
+      "NNP-VBP": 1,
+      "VBP-JJ": 3,
+      "JJ-NNS": 3,
+      "NNS-VBP": 8,
+      "VBP-FW": 1,
+      "FW-FW": 24,
+      "FW-CD": 1,
+      "CD-NNS": 4,
+      "VBP-IN": 2,
+      "IN-FW": 4,
+      "FW-NN": 8,
+      "NN-NN": 30,
+      "NN-NNP": 7,
+      "NNP-VBZ": 3,
+      "VBZ-JJ": 2,
+      "VBP-CD": 2,
+      "CD-JJ": 1,
+      "JJ-NN": 10,
+      "NN-JJ": 5,
+      "VBZ-FW": 1,
+      "NN-FW": 9,
+      "NNP-VBD": 1,
+      "VBD-JJ": 1,
+      "JJ-FW": 1,
+      "FW-NNS": 3,
+      "NNS-FW": 3,
+      "FW-IN": 1,
+      "IN-CD": 1,
+      "CD-NN": 1,
+      "NN-IN": 3,
+      "NNP-NN": 7,
+      "NN-NNS": 3,
+      "NN-VBP": 1,
+      "VBP-NN": 2,
+      "JJ-CD": 1,
+      "NNS-CD": 1,
+      "NNS-JJ": 1,
+      "JJ-JJ": 3,
+      "FW-JJ": 2,
+      "NNS-NNS": 1,
+      "IN-JJ": 1
+    },
+    "trigram_freq": {
+      "NNP-NNP-FW": 7,
+      "NNP-FW-NNP": 8,
+      "FW-NNP-IN": 1,
+      "NNP-IN-NNP": 1,
+      "IN-NNP-VBP": 1,
+      "NNP-VBP-JJ": 1,
+      "VBP-JJ-NNS": 1,
+      "JJ-NNS-VBP": 2,
+      "NNS-VBP-FW": 1,
+      "VBP-FW-FW": 1,
+      "FW-FW-FW": 11,
+      "FW-FW-CD": 1,
+      "FW-CD-NNS": 1,
+      "CD-NNS-VBP": 2,
+      "NNS-VBP-IN": 2,
+      "VBP-IN-FW": 1,
+      "IN-FW-NNP": 1,
+      "FW-NNP-NNP": 9,
+      "NNP-FW-NN": 3,
+      "FW-NN-NN": 3,
+      "NN-NN-NNP": 4,
+      "NN-NNP-VBZ": 3,
+      "NNP-VBZ-JJ": 2,
+      "VBZ-JJ-NNS": 1,
+      "NNS-VBP-CD": 2,
+      "VBP-CD-NNS": 1,
+      "VBP-CD-JJ": 1,
+      "CD-JJ-NN": 1,
+      "JJ-NN-JJ": 1,
+      "NN-JJ-NN": 4,
+      "JJ-NN-NNP": 1,
+      "NNP-VBZ-FW": 1,
+      "VBZ-FW-NN": 1,
+      "FW-NN-FW": 3,
+      "NN-FW-NNP": 2,
+      "FW-NNP-FW": 8,
+      "NNP-NNP-VBD": 1,
+      "NNP-VBD-JJ": 1,
+      "VBD-JJ-FW": 1,
+      "JJ-FW-FW": 1,
+      "FW-FW-NNS": 3,
+      "FW-NNS-FW": 2,
+      "NNS-FW-FW": 3,
+      "FW-FW-IN": 1,
+      "FW-IN-CD": 1,
+      "IN-CD-NN": 1,
+      "CD-NN-NN": 1,
+      "NN-NN-NN": 13,
+      "NN-NN-JJ": 4,
+      "JJ-NN-NN": 8,
+      "NN-NN-IN": 3,
+      "NN-IN-FW": 2,
+      "IN-FW-FW": 1,
+      "FW-FW-NNP": 8,
+      "NNP-FW-FW": 3,
+      "NNP-NNP-NN": 3,
+      "NNP-NN-NNS": 1,
+      "NN-NNS-VBP": 2,
+      "NNS-VBP-JJ": 2,
+      "VBP-JJ-NN": 2,
+      "NN-NNP-NN": 2,
+      "NNP-NN-FW": 2,
+      "NN-FW-FW": 4,
+      "FW-NNS-VBP": 1,
+      "NN-NN-VBP": 1,
+      "NN-VBP-NN": 1,
+      "VBP-NN-NN": 1,
+      "IN-FW-NN": 1,
+      "NN-NNP-NNP": 2,
+      "FW-NN-NNP": 2,
+      "NNP-NNP-NNP": 5,
+      "NNP-NN-NN": 4,
+      "VBZ-JJ-CD": 1,
+      "JJ-CD-NNS": 1,
+      "CD-NNS-CD": 1,
+      "NNS-CD-NNS": 1,
+      "CD-NNS-JJ": 1,
+      "NNS-JJ-JJ": 1,
+      "JJ-JJ-NN": 2,
+      "NN-NN-FW": 3,
+      "FW-NNP-NN": 1,
+      "NN-NN-NNS": 2,
+      "NN-NNS-FW": 1,
+      "NN-FW-NN": 3,
+      "NNP-NNP-IN": 1,
+      "NNP-IN-FW": 1,
+      "IN-FW-JJ": 1,
+      "FW-JJ-NNS": 1,
+      "JJ-NNS-NNS": 1,
+      "NNS-NNS-VBP": 1,
+      "NNS-VBP-NN": 1,
+      "VBP-NN-FW": 1,
+      "NNP-FW-JJ": 1,
+      "FW-JJ-NN": 1,
+      "NN-IN-JJ": 1,
+      "IN-JJ-JJ": 1,
+      "JJ-JJ-JJ": 1,
+      "VBP-IN-NNP": 1,
+      "IN-NNP-NN": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "FW": 58,
+        "NN": 58,
+        "NNP": 46,
+        "JJ": 19,
+        "NNS": 14
+      },
+      "top_bigrams": {
+        "NN-NN": 30,
+        "FW-FW": 24,
+        "FW-NNP": 19,
+        "NNP-NNP": 17,
+        "NNP-FW": 15
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 13,
+        "FW-FW-FW": 11,
+        "FW-NNP-NNP": 9,
+        "NNP-FW-NNP": 8,
+        "FW-NNP-FW": 8
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 7,
+    "chunk_counts": {
+      "NP": 65,
+      "PP": 3,
+      "VP": 14,
+      "ADJP": 5
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 3,
+        "weight": 0.0319
+      },
+      {
+        "rule": "NP -> ('México', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0213
+      },
+      {
+        "rule": "NP -> ('La', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0213
+      },
+      {
+        "rule": "NP -> ('Suprema', 'NNP') ('Corte', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0213
+      },
+      {
+        "rule": "NP -> ('Justicia', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0213
+      },
+      {
+        "rule": "NP -> ('Nación', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0213
+      },
+      {
+        "rule": "ADJP -> ('magistrados', 'JJ')",
+        "frequency": 2,
+        "weight": 0.0213
+      },
+      {
+        "rule": "S -> NP ('de', 'FW') NP PP VP VP ('lista', 'FW') ('de', 'FW') ('los', 'FW') ('1.412', 'CD') VP ('en', 'IN') ('el', 'FW') NP ('del', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0106
+      },
+      {
+        "rule": "NP -> ('La', 'NNP') ('Cámara', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0106
+      },
+      {
+        "rule": "NP -> ('Diputados', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0106
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "La Cámara"
+      },
+      {
+        "label": "NP",
+        "text": "Diputados"
+      },
+      {
+        "label": "PP",
+        "text": "de México"
+      },
+      {
+        "label": "NP",
+        "text": "México"
+      },
+      {
+        "label": "VP",
+        "text": "aprobó el miércoles"
+      },
+      {
+        "label": "NP",
+        "text": "el miércoles"
+      },
+      {
+        "label": "VP",
+        "text": "la"
+      },
+      {
+        "label": "VP",
+        "text": "aspirantes a cargos"
+      },
+      {
+        "label": "NP",
+        "text": "a cargos"
+      },
+      {
+        "label": "NP",
+        "text": "Poder Judicial"
+      },
+      {
+        "label": "NP",
+        "text": "país norteamericano"
+      },
+      {
+        "label": "NP",
+        "text": "La"
+      },
+      {
+        "label": "VP",
+        "text": "lista fue aprobada"
+      },
+      {
+        "label": "NP",
+        "text": "fue aprobada"
+      },
+      {
+        "label": "VP",
+        "text": "por"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP La/NNP Cámara/NNP)\n  de/FW\n  (NP Diputados/NNP)\n  (PP de/IN (NP México/NNP))\n  (VP aprobó/VBP (NP el/JJ miércoles/NNS))\n  (VP la/VBP)\n  lista/FW\n  de/FW\n  los/FW\n  1.412/CD\n  (VP aspirantes/VBZ (NP a/DT cargos/NN))\n  en/IN\n  el/FW\n  (NP Poder/NNP Judicial/NNP)\n  del/FW\n  (NP país/NN norteamericano/NN)\n  ./.)",
+      "(S\n  (NP La/NNP)\n  (VP lista/VBZ (NP fue/JJ aprobada/NNS))\n  (VP por/VBP)\n  321/CD\n  (NP votos/NNS)\n  (NP a/DT favor/NN)\n  ,/,\n  112/CD\n  (NP en/NN contra/NN y/NN)\n  (NP una/JJ abstención/NN)\n  ./.)",
+      "(S\n  (NP El/NNP listado/NN)\n  ,/,\n  elaborado/FW\n  por/FW\n  el/FW\n  (NP Comité/NNP)\n  de/FW\n  (NP Evaluación/NNP)\n  del/FW\n  (NP Poder/NNP Legislativo/NNP)\n  ,/,\n  (NP será/NN)\n  (ADJP utilizado/JJ)\n  en/FW\n  las/FW\n  (NP elecciones/NNS)\n  del/FW\n  1/CD\n  de/FW\n  junio/FW\n  de/IN\n  2025/CD\n  ,/,\n  cuando/FW\n  se/FW\n  someterán/FW\n  (NP a/DT voto/NN)\n  (NP popular/JJ los/NN cargos/NN)\n  de/IN\n  ministros/FW\n  de/FW\n  la/FW\n  (NP Suprema/NNP Corte/NNP)\n  de/FW\n  (NP Justicia/NNP)\n  de/FW\n  la/FW\n  (NP Nación/NNP)\n  (/(\n  (NP SCJN/NNP)\n  )/)\n  ,/,\n  (NP magistrados/JJ y/NN jueces/NNS)\n  (VP en/VBP (NP todo/JJ el/NN país/NN))\n  ./.)",
+      "(S\n  (NP El/NNP proceso/NN)\n  de/FW\n  selección/FW\n  de/FW\n  los/FW\n  (NP aspirantes/NNS)\n  (VP incluyó/VBP (NP una/JJ insaculación/NN pública/NN))\n  (VP evaluados/VBP (NP por/NN el/NN comité/NN))\n  ,/,\n  (NP lo/NN que/NN)\n  ,/,\n  de/FW\n  acuerdo/FW\n  (NP con/NN el/NN diputado/NN Leonel/NNP Godoy/NNP)\n  ,/,\n  (NP\n    del/NN\n    oficialista/NN\n    Movimiento/NNP\n    Regeneración/NNP\n    Nacional/NNP)\n  (/(\n  (NP Morena/NNP)\n  )/)\n  ,/,\n  (NP “/JJ garantizó/NN transparencia/NN ”/NN)\n  ./.)",
+      "(S\n  (NP La/NNP)\n  (VP lista/VBZ)\n  (VP incluye/VB)\n  a/DT\n  657/CD\n  (NP mujeres/NNS)\n  y/RB\n  755/CD\n  (NP hombres/NNS)\n  (ADJP que/JJ)\n  (VP aspiran/VBD (NP a/DT cargos/NN como/NN))\n  ministros/FW\n  de/FW\n  la/FW\n  (NP Suprema/NNP Corte/NNP)\n  de/FW\n  (NP Justicia/NNP)\n  de/FW\n  la/FW\n  (NP Nación/NNP)\n  ,/,\n  (ADJP magistrados/JJ)\n  del/FW\n  (NP Tribunal/NNP)\n  de/FW\n  (NP Disciplina/NNP Judicial/NNP)\n  ,/,\n  (ADJP magistrados/JJ)\n  del/FW\n  (NP Tribunal/JJ Electoral/NNP)\n  del/FW\n  (NP Poder/NNP Judicial/NNP de/NNP)\n  la/FW\n  (NP Federación/NNP)\n  y/CC\n  (NP sus/NN salas/NN regionales/NNS)\n  ,/,\n  magistrados/FW\n  de/FW\n  circuito/FW\n  y/FW\n  (NP jueces/NNS)\n  de/FW\n  distrito/FW\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "CULTURA_DEPORTE_SOCIEDAD",
+      "GOBIERNOS_OFICIALES",
+      "GRUPOS_ESPECIFICOS",
+      "FECHAS_ESPECIFICAS",
+      "APROBACION_RECHAZO",
+      "CANTIDADES_NUMERICAS",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "INSTITUCIONES_EDUCATIVAS",
+      "PAISES",
+      "JURIDICO_LEGISLATIVO_CORRUPCION"
+    ],
+    "matches": [
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "proceso electoral son parte de una reforma",
+        "position": [
+          1276,
+          1318
+        ],
+        "start": 1276,
+        "end": 1318
+      },
+      {
+        "category": "JURIDICO_LEGISLATIVO_CORRUPCION",
+        "matched_text": "cámara de diputados de méxico aprobó",
+        "position": [
+          3,
+          39
+        ],
+        "start": 3,
+        "end": 39
+      },
+      {
+        "category": "CULTURA_DEPORTE_SOCIEDAD",
+        "matched_text": "selección de los aspirantes incluyó una insaculación pública evaluados por el comité, lo que, de acuerdo con el diputado leonel godoy, del oficialista movimiento regeneración nacional",
+        "position": [
+          512,
+          695
+        ],
+        "start": 512,
+        "end": 695
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "corte de justicia",
+        "position": [
+          421,
+          438
+        ],
+        "start": 421,
+        "end": 438
+      },
+      {
+        "category": "GRUPOS_ESPECIFICOS",
+        "matched_text": "mujeres",
+        "position": [
+          756,
+          763
+        ],
+        "start": 756,
+        "end": 763
+      },
+      {
+        "category": "INSTITUCIONES_EDUCATIVAS",
+        "matched_text": "instituto nacional electoral",
+        "position": [
+          1175,
+          1203
+        ],
+        "start": 1175,
+        "end": 1203
+      },
+      {
+        "category": "APROBACION_RECHAZO",
+        "matched_text": "aprobó",
+        "position": [
+          33,
+          39
+        ],
+        "start": 33,
+        "end": 39
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "méxico",
+        "position": [
+          26,
+          32
+        ],
+        "start": 26,
+        "end": 32
+      },
+      {
+        "category": "FECHAS_ESPECIFICAS",
+        "matched_text": "1 de junio de 2025",
+        "position": [
+          328,
+          346
+        ],
+        "start": 328,
+        "end": 346
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "321 votos",
+        "position": [
+          167,
+          176
+        ],
+        "start": 167,
+        "end": 176
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "112 en contra",
+        "position": [
+          186,
+          199
+        ],
+        "start": 186,
+        "end": 199
+      }
+    ],
+    "match_count": 11
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Morena",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Cámara de Diputados",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "SCJN",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Tribunal Electoral del Poder Judicial de la Federación",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Senado",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Leonel Godoy",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Tribunal de Disciplina Judicial",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "comité",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Poder Judicial del país norteamericano",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Suprema Corte de Justicia de la Nación",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "INE",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Instituto Nacional Electoral",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Comité de Evaluación del Poder Legislativo",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "México",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Movimiento Regeneración Nacional",
+        "tipo": "Organizacion"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Cámara de Diputados",
+        "relacion": "APROBAR",
+        "objeto": "Poder Judicial del país norteamericano"
+      },
+      {
+        "sujeto": "México",
+        "relacion": "APROBAR",
+        "objeto": "Poder Judicial del país norteamericano"
+      },
+      {
+        "sujeto": "Comité de Evaluación del Poder Legislativo",
+        "relacion": "UTILIZAR",
+        "objeto": "Suprema Corte de Justicia de la Nación"
+      },
+      {
+        "sujeto": "Comité de Evaluación del Poder Legislativo",
+        "relacion": "UTILIZAR",
+        "objeto": "SCJN"
+      },
+      {
+        "sujeto": "comité",
+        "relacion": "INCLUIR",
+        "objeto": "Leonel Godoy"
+      },
+      {
+        "sujeto": "comité",
+        "relacion": "INCLUIR",
+        "objeto": "Movimiento Regeneración Nacional"
+      },
+      {
+        "sujeto": "comité",
+        "relacion": "INCLUIR",
+        "objeto": "Morena"
+      },
+      {
+        "sujeto": "Senado",
+        "relacion": "ENVIAR",
+        "objeto": "Instituto Nacional Electoral"
+      },
+      {
+        "sujeto": "Senado",
+        "relacion": "ENVIAR",
+        "objeto": "INE"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.8074,
+    "pos": 0.036,
+    "neu": 0.964,
+    "neg": 0.0,
+    "label": "positive"
+  }
+}

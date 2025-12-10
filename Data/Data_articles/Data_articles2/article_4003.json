@@ -1,0 +1,709 @@
+{
+  "url": "https://www.telesurtv.net/harvard-denuncia-visa-estudiantes-extranjeros/",
+  "title": "Harvard denuncia ilegal suspensión de visados para estudiantes extranjeros - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "DDHH",
+    "EE.UU.",
+    "estudiantes extranjeros",
+    "Harvard",
+    "universidad",
+    "Visa estudiantil"
+  ],
+  "text": "La Administración de Trump ordenó a la Secretaría de Estado estadounidense que estudie revocar los visados que ya han sido otorgados para los alumnos de la institución, así como suspender durante los próximos seis meses la concesión de nuevos visados a estudiantes que pretendan participar en los cursos de la universidad o en sus programas de intercambio.\nLa institución calificó la acción como “ilegal”, al afirmar que “viola los derechos” de la universidad, al tiempo reafirmó su compromiso de proteger a su alumnado internacional: “Este es otro paso más de represalia ilegal de la Administración que viola los derechos de la Primera Enmienda de Harvard.\n\n\nLa Casa Blanca justificó esta decisión en la supuesta la necesidad de “salvaguardar la seguridad nacional”, alegando que Harvard ha “demostrado un historial de vínculos extranjeros preocupantes y radicalismo”.\nLa Administración republicana ya había intentado previamente prohibir a Harvard la admisión de estudiantes extranjeros, pero esa restricción fue bloqueada por una jueza federal el pasado 29 de mayo. En su comunicado, Harvard enfatizó que esa decisión judicial le permite “seguir admitiendo a estudiantes y académicos internacionales mientras avanza el caso”, y reiteró que seguirá tomando medidas para proteger los derechos de estos miembros de su comunidad, a quienes considera “vitales para la misión académica de la universidad” y cuya presencia “beneficia a nuestro país de manera inconmensurable”.\n\n\n\n\nEl Gobierno de Estados Unidos, que también ha congelado subvenciones a la universidad, ha enmarcado sus acciones contra Harvard como una lucha por los derechos civiles. En este marco acusa a la universidad de tener un sesgo progresista, de seguir aplicando consideraciones raciales en sus políticas de admisión y de tolerar comportamientos antisemitas en el campus. Por su parte, Harvard defiende que está siendo víctima de represalias injustas y asegura que no permitirá que el presidente le imponga condiciones sobre cómo operar la institución.\n",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/harvard-denuncia-visa-estudiantes-extranjeros/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-06.json",
+    "message_index": 1996,
+    "message_id": 95679,
+    "date": "2025-06-05T15:55:18+00:00",
+    "text": "teleSUR\nHarvard denuncia ilegal suspensión de visados para estudiantes extranjeros\nhttps://www.telesurtv.net/harvard-denuncia-visa-estudiantes-extranjeros/",
+    "photo_path": null,
+    "views": 1726,
+    "reactions": {
+      "💯": 28,
+      "❤": 3,
+      "🤔": 3
+    },
+    "total_reactions": 34
+  },
+  "preprocessing": {
+    "cleaned": "la administración de trump ordenó a la secretaría de estado estadounidense que estudie revocar los visados que ya han sido otorgados para los alumnos de la institución, así como suspender durante los próximos seis meses la concesión de nuevos visados a estudiantes que pretendan participar en los cursos de la universidad o en sus programas de intercambio. la institución calificó la acción como “ilegal”, al afirmar que “viola los derechos” de la universidad, al tiempo reafirmó su compromiso de proteger a su alumnado internacional: “este es otro paso más de represalia ilegal de la administración que viola los derechos de la primera enmienda de harvard. la casa blanca justificó esta decisión en la supuesta la necesidad de “salvaguardar la seguridad nacional”, alegando que harvard ha “demostrado un historial de vínculos extranjeros preocupantes y radicalismo”. la administración republicana ya había intentado previamente prohibir a harvard la admisión de estudiantes extranjeros, pero esa restricción fue bloqueada por una jueza federal el pasado 29 de mayo. en su comunicado, harvard enfatizó que esa decisión judicial le permite “seguir admitiendo a estudiantes y académicos internacionales mientras avanza el caso”, y reiteró que seguirá tomando medidas para proteger los derechos de estos miembros de su comunidad, a quienes considera “vitales para la misión académica de la universidad” y cuya presencia “beneficia a nuestro país de manera inconmensurable”. el gobierno de estados unidos, que también ha congelado subvenciones a la universidad, ha enmarcado sus acciones contra harvard como una lucha por los derechos civiles. en este marco acusa a la universidad de tener un sesgo progresista, de seguir aplicando consideraciones raciales en sus políticas de admisión y de tolerar comportamientos antisemitas en el campus. por su parte, harvard defiende que está siendo víctima de represalias injustas y asegura que no permitirá que el presidente le imponga condiciones sobre cómo operar la institución.",
+    "tokens": [
+      "administración",
+      "trump",
+      "ordenó",
+      "secretaría",
+      "estadounidense",
+      "estudie",
+      "revocar",
+      "visados",
+      "sido",
+      "otorgados",
+      "alumnos",
+      "institución",
+      ",",
+      "así",
+      "suspender",
+      "próximos",
+      "seis",
+      "meses",
+      "concesión",
+      "nuevos",
+      "visados",
+      "estudiantes",
+      "pretendan",
+      "participar",
+      "cursos",
+      "universidad",
+      "programas",
+      "intercambio",
+      ".",
+      "institución",
+      "calificó",
+      "acción",
+      "“",
+      "ilegal",
+      "”",
+      ",",
+      "afirmar",
+      "“",
+      "viola",
+      "derechos",
+      "”",
+      "universidad",
+      ",",
+      "tiempo",
+      "reafirmó",
+      "compromiso",
+      "proteger",
+      "alumnado",
+      "internacional",
+      ":",
+      "“",
+      "paso",
+      "represalia",
+      "ilegal",
+      "administración",
+      "viola",
+      "derechos",
+      "primera",
+      "enmienda",
+      "harvard",
+      ".",
+      "casa",
+      "blanca",
+      "justificó",
+      "decisión",
+      "supuesta",
+      "necesidad",
+      "“",
+      "salvaguardar",
+      "seguridad",
+      "nacional",
+      "”",
+      ",",
+      "alegando",
+      "harvard",
+      "“",
+      "demostrado",
+      "historial",
+      "vínculos",
+      "extranjeros",
+      "preocupantes",
+      "radicalismo",
+      "”",
+      ".",
+      "administración",
+      "republicana",
+      "intentado",
+      "previamente",
+      "prohibir",
+      "harvard",
+      "admisión",
+      "estudiantes",
+      "extranjeros",
+      ",",
+      "restricción",
+      "bloqueada",
+      "jueza",
+      "federal",
+      "pasado",
+      "29",
+      "mayo",
+      ".",
+      "comunicado",
+      ",",
+      "harvard",
+      "enfatizó",
+      "decisión",
+      "judicial",
+      "permite",
+      "“",
+      "seguir",
+      "admitiendo",
+      "estudiantes",
+      "académicos",
+      "internacionales",
+      "mientras",
+      "avanza",
+      "caso",
+      "”",
+      ",",
+      "reiteró",
+      "seguirá",
+      "tomando",
+      "medidas",
+      "proteger",
+      "derechos",
+      "miembros",
+      "comunidad",
+      ",",
+      "considera",
+      "“",
+      "vitales",
+      "misión",
+      "académica",
+      "universidad",
+      "”",
+      "cuya",
+      "presencia",
+      "“",
+      "beneficia",
+      "país",
+      "manera",
+      "inconmensurable",
+      "”",
+      ".",
+      "gobierno",
+      "unidos",
+      ",",
+      "congelado",
+      "subvenciones",
+      "universidad",
+      ",",
+      "enmarcado",
+      "acciones",
+      "harvard",
+      "lucha",
+      "derechos",
+      "civiles",
+      ".",
+      "marco",
+      "acusa",
+      "universidad",
+      "tener",
+      "sesgo",
+      "progresista",
+      ",",
+      "seguir",
+      "aplicando",
+      "consideraciones",
+      "raciales",
+      "políticas",
+      "admisión",
+      "tolerar",
+      "comportamientos",
+      "antisemitas",
+      "campus",
+      ".",
+      "parte",
+      ",",
+      "harvard",
+      "defiende",
+      "siendo",
+      "víctima",
+      "represalias",
+      "injustas",
+      "asegura",
+      "permitirá",
+      "presidente",
+      "imponga",
+      "condiciones",
+      "cómo",
+      "operar",
+      "institución",
+      "."
+    ],
+    "token_count": 194,
+    "sentence_count": 8
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 28,
+      "IN": 15,
+      "MD": 1,
+      "VB": 1,
+      "FW": 70,
+      "NN": 109,
+      "JJ": 36,
+      "NNS": 14,
+      "VBP": 11,
+      "VBZ": 2,
+      "VBD": 1,
+      "CD": 1,
+      "DT": 1
+    },
+    "bigram_freq": {
+      "NNP-NNP": 8,
+      "NNP-IN": 2,
+      "IN-NNP": 2,
+      "NNP-MD": 1,
+      "MD-VB": 1,
+      "VB-NNP": 1,
+      "NNP-FW": 5,
+      "FW-NNP": 7,
+      "NNP-NN": 12,
+      "NN-NN": 65,
+      "NN-JJ": 11,
+      "JJ-FW": 5,
+      "FW-FW": 40,
+      "FW-NN": 8,
+      "JJ-NN": 22,
+      "NN-NNS": 7,
+      "NNS-VBP": 10,
+      "VBP-FW": 1,
+      "FW-VBZ": 1,
+      "VBZ-JJ": 2,
+      "NN-IN": 11,
+      "IN-JJ": 1,
+      "IN-FW": 12,
+      "FW-JJ": 12,
+      "NN-FW": 7,
+      "JJ-JJ": 3,
+      "JJ-NNP": 2,
+      "NN-NNP": 4,
+      "JJ-NNS": 3,
+      "VBP-NNP": 2,
+      "NN-VBD": 1,
+      "VBD-CD": 1,
+      "CD-IN": 1,
+      "NN-VBP": 1,
+      "VBP-JJ": 7,
+      "NN-VBZ": 1,
+      "NNS-NNS": 2,
+      "NNS-NN": 1,
+      "NNS-NNP": 1,
+      "FW-NNS": 2,
+      "VBP-IN": 1,
+      "JJ-DT": 1,
+      "DT-NN": 1
+    },
+    "trigram_freq": {
+      "NNP-NNP-IN": 2,
+      "NNP-IN-NNP": 2,
+      "IN-NNP-MD": 1,
+      "NNP-MD-VB": 1,
+      "MD-VB-NNP": 1,
+      "VB-NNP-FW": 1,
+      "NNP-FW-NNP": 2,
+      "FW-NNP-NN": 3,
+      "NNP-NN-NN": 11,
+      "NN-NN-NN": 40,
+      "NN-NN-JJ": 8,
+      "NN-JJ-FW": 1,
+      "JJ-FW-FW": 4,
+      "FW-FW-FW": 28,
+      "FW-FW-NN": 4,
+      "FW-NN-NN": 2,
+      "NN-JJ-NN": 10,
+      "JJ-NN-NNS": 1,
+      "NN-NNS-VBP": 5,
+      "NNS-VBP-FW": 1,
+      "VBP-FW-FW": 1,
+      "FW-FW-VBZ": 1,
+      "FW-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 1,
+      "JJ-NN-NN": 11,
+      "NN-NN-IN": 3,
+      "NN-IN-JJ": 1,
+      "IN-JJ-NN": 1,
+      "JJ-NN-IN": 8,
+      "NN-IN-FW": 10,
+      "IN-FW-JJ": 7,
+      "FW-JJ-FW": 3,
+      "JJ-FW-NN": 1,
+      "FW-NN-FW": 3,
+      "NN-FW-FW": 3,
+      "FW-FW-NNP": 2,
+      "FW-NNP-FW": 2,
+      "NNP-FW-NN": 1,
+      "FW-NN-JJ": 1,
+      "NN-NN-FW": 4,
+      "NN-FW-JJ": 2,
+      "FW-JJ-NN": 5,
+      "FW-JJ-JJ": 1,
+      "JJ-JJ-JJ": 1,
+      "JJ-JJ-NNP": 1,
+      "JJ-NNP-FW": 1,
+      "NNP-FW-FW": 2,
+      "IN-FW-NNP": 2,
+      "FW-NNP-NNP": 2,
+      "NNP-NNP-FW": 1,
+      "NNP-NNP-NNP": 2,
+      "NNP-NNP-NN": 3,
+      "FW-FW-JJ": 3,
+      "NN-NN-NNP": 3,
+      "NN-NNP-NN": 4,
+      "FW-JJ-NNS": 2,
+      "JJ-NNS-VBP": 1,
+      "NNS-VBP-NNP": 2,
+      "VBP-NNP-NNP": 1,
+      "NN-FW-NNP": 1,
+      "NN-FW-NN": 1,
+      "JJ-NN-JJ": 1,
+      "JJ-NN-VBD": 1,
+      "NN-VBD-CD": 1,
+      "VBD-CD-IN": 1,
+      "CD-IN-FW": 1,
+      "NN-NN-VBP": 1,
+      "NN-VBP-JJ": 1,
+      "VBP-JJ-JJ": 1,
+      "JJ-JJ-NN": 1,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-JJ": 1,
+      "VBZ-JJ-NNS": 1,
+      "JJ-NNS-NNS": 2,
+      "NNS-NNS-VBP": 2,
+      "NNS-VBP-JJ": 6,
+      "VBP-JJ-NN": 4,
+      "IN-FW-FW": 2,
+      "FW-NN-NNS": 1,
+      "NN-NNS-NN": 1,
+      "NNS-NN-NNS": 1,
+      "VBP-JJ-FW": 1,
+      "FW-JJ-NNP": 1,
+      "JJ-NNP-NNP": 1,
+      "IN-NNP-NNP": 1,
+      "NN-NN-NNS": 4,
+      "VBP-NNP-NN": 1,
+      "NNP-NN-JJ": 1,
+      "NN-NNS-NNP": 1,
+      "NNS-NNP-NN": 1,
+      "FW-FW-NNS": 2,
+      "FW-NNS-VBP": 2,
+      "NNS-VBP-IN": 1,
+      "VBP-IN-FW": 1,
+      "IN-FW-NN": 1,
+      "FW-NN-NNP": 1,
+      "VBP-JJ-DT": 1,
+      "JJ-DT-NN": 1,
+      "DT-NN-NN": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 109,
+        "FW": 70,
+        "JJ": 36,
+        "NNP": 28,
+        "IN": 15
+      },
+      "top_bigrams": {
+        "NN-NN": 65,
+        "FW-FW": 40,
+        "JJ-NN": 22,
+        "NNP-NN": 12,
+        "IN-FW": 12
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 40,
+        "FW-FW-FW": 28,
+        "NNP-NN-NN": 11,
+        "JJ-NN-NN": 11,
+        "NN-JJ-NN": 10
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 8,
+    "chunk_counts": {
+      "NP": 72,
+      "PP": 8,
+      "VP": 22,
+      "ADJP": 5
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 5,
+        "weight": 0.0435
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 3,
+        "weight": 0.0261
+      },
+      {
+        "rule": "NP -> ('Harvard', 'NNP')",
+        "frequency": 3,
+        "weight": 0.0261
+      },
+      {
+        "rule": "NP -> ('a', 'DT') ('estudiantes', 'NNS')",
+        "frequency": 2,
+        "weight": 0.0174
+      },
+      {
+        "rule": "NP -> ('los', 'JJ') ('derechos', 'NN')",
+        "frequency": 2,
+        "weight": 0.0174
+      },
+      {
+        "rule": "VP -> ('y', 'VBP') NP",
+        "frequency": 2,
+        "weight": 0.0174
+      },
+      {
+        "rule": "S -> NP PP VP PP ADJP ('alumnos', 'FW') ('de', 'FW') ('la', 'FW') ('institución', 'FW') (',', ',') ('así', 'FW') NP NP VP ('concesión', 'FW') ('de', 'FW') ('nuevos', 'FW') ('visados', 'FW') NP NP PP ('de', 'IN') ('la', 'FW') NP PP PP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0087
+      },
+      {
+        "rule": "NP -> ('La', 'NNP') ('Administración', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0087
+      },
+      {
+        "rule": "NP -> ('Trump', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0087
+      },
+      {
+        "rule": "VP -> ('ordenó', 'VBD') NP",
+        "frequency": 1,
+        "weight": 0.0087
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "La Administración"
+      },
+      {
+        "label": "PP",
+        "text": "de Trump"
+      },
+      {
+        "label": "NP",
+        "text": "Trump"
+      },
+      {
+        "label": "VP",
+        "text": "ordenó a la Secretaría"
+      },
+      {
+        "label": "NP",
+        "text": "a la Secretaría"
+      },
+      {
+        "label": "PP",
+        "text": "de Estado estadounidense que estudie revocar los visados que ya han sido otorgados para"
+      },
+      {
+        "label": "NP",
+        "text": "Estado estadounidense que estudie revocar los visados que ya han sido otorgados para"
+      },
+      {
+        "label": "ADJP",
+        "text": "los"
+      },
+      {
+        "label": "NP",
+        "text": "como suspender durante los"
+      },
+      {
+        "label": "NP",
+        "text": "próximos seis meses"
+      },
+      {
+        "label": "VP",
+        "text": "la"
+      },
+      {
+        "label": "NP",
+        "text": "a estudiantes"
+      },
+      {
+        "label": "NP",
+        "text": "que pretendan participar"
+      },
+      {
+        "label": "PP",
+        "text": "en los cursos"
+      },
+      {
+        "label": "NP",
+        "text": "los cursos"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP La/NNP Administración/NNP)\n  (PP de/IN (NP Trump/NNP))\n  (VP ordenó/VBD (NP a/DT la/NN Secretaría/NNP))\n  (PP\n    de/IN\n    (NP\n      Estado/NNP\n      estadounidense/NN\n      que/NN\n      estudie/NN\n      revocar/NN\n      los/NN\n      visados/NN\n      que/NN\n      ya/NN\n      han/NN\n      sido/NN\n      otorgados/NN\n      para/NN))\n  (ADJP los/JJ)\n  alumnos/FW\n  de/FW\n  la/FW\n  institución/FW\n  ,/,\n  así/FW\n  (NP como/NN suspender/NN durante/NN los/NN)\n  (NP próximos/JJ seis/NN meses/NNS)\n  (VP la/VBP)\n  concesión/FW\n  de/FW\n  nuevos/FW\n  visados/FW\n  (NP a/DT estudiantes/NNS)\n  (NP que/JJ pretendan/JJ participar/NN)\n  (PP en/IN (NP los/JJ cursos/NN))\n  de/IN\n  la/FW\n  (NP universidad/JJ o/NN)\n  (PP en/IN (NP sus/NN programas/NN))\n  (PP de/IN (NP intercambio/NN))\n  ./.)",
+      "(S\n  (NP La/NNP)\n  (VP\n    institución/VBZ\n    (NP calificó/JJ la/NN acción/NN como/NN “/NNP ilegal/NN ”/NNP))\n  ,/,\n  (NP al/JJ afirmar/NN que/NN “/NNP viola/NNP)\n  (VP los/VBZ (NP derechos/JJ ”/NNP))\n  de/FW\n  la/FW\n  universidad/FW\n  ,/,\n  al/FW\n  (NP tiempo/JJ reafirmó/NN su/NN compromiso/NN)\n  de/IN\n  proteger/FW\n  (NP a/DT su/NN)\n  (ADJP alumnado/JJ)\n  (ADJP internacional/JJ)\n  :/:\n  (NP “/JJ Este/NNP)\n  es/FW\n  otro/FW\n  paso/FW\n  más/FW\n  de/FW\n  represalia/FW\n  ilegal/FW\n  de/FW\n  la/FW\n  (NP Administración/NNP que/NN viola/NN)\n  (NP los/JJ derechos/NN)\n  de/IN\n  la/FW\n  (NP Primera/NNP Enmienda/NNP)\n  de/FW\n  (NP Harvard/NNP)\n  ./.)",
+      "(S\n  (NP La/NNP Casa/NNP Blanca/NNP justificó/NN esta/NN decisión/NN)\n  en/IN\n  la/FW\n  (ADJP supuesta/JJ)\n  la/FW\n  necesidad/FW\n  de/FW\n  “/FW\n  (NP salvaguardar/NN la/NN)\n  (VP seguridad/VBD (NP nacional/JJ ”/NN))\n  ,/,\n  (NP alegando/JJ que/NN Harvard/NNP ha/NN “/NNP demostrado/NN)\n  (NP un/JJ historial/NN)\n  de/IN\n  vínculos/FW\n  (NP extranjeros/JJ preocupantes/NNS)\n  (VP y/VBP (NP radicalismo/JJ ”/NN))\n  ./.)",
+      "(S\n  (NP\n    La/NNP\n    Administración/NNP\n    republicana/NN\n    ya/NN\n    había/NN\n    intentado/NN\n    previamente/NN)\n  (VP prohibir/VBZ (NP a/DT Harvard/NNP la/NN))\n  admisión/FW\n  de/FW\n  estudiantes/FW\n  (NP extranjeros/NNS)\n  ,/,\n  (NP pero/NN esa/NN restricción/NN fue/NN bloqueada/NN por/NN)\n  (NP una/JJ jueza/NN)\n  (NP federal/JJ el/NN)\n  (VP pasado/VBD)\n  29/CD\n  (PP de/IN (NP mayo/NN))\n  ./.)",
+      "(S\n  (NP En/NNP su/NN comunicado/NN)\n  ,/,\n  (NP Harvard/NNP)\n  (VP\n    enfatizó/VBZ\n    (NP que/JJ esa/JJ decisión/NN)\n    (NP judicial/JJ le/NN permite/NN “/NNP))\n  (VP seguir/VBZ)\n  admitiendo/RP\n  (NP a/DT estudiantes/NNS)\n  (VP y/VBP (NP académicos/JJ internacionales/NNS mientras/NNS))\n  (VP avanza/VBP (NP el/JJ caso/NN ”/NN))\n  ,/,\n  y/CC\n  (NP\n    reiteró/NN\n    que/NN\n    seguirá/NN\n    tomando/NN\n    medidas/NN\n    para/NN\n    proteger/NN)\n  (NP los/JJ derechos/NN)\n  de/IN\n  estos/FW\n  miembros/FW\n  de/FW\n  su/FW\n  (NP comunidad/NN)\n  ,/,\n  (NP a/DT quienes/NNS considera/NN “/NN vitales/NNS)\n  (VP para/VBP la/JJ)\n  misión/FW\n  académica/FW\n  de/FW\n  la/FW\n  (NP universidad/JJ ”/NNP y/NN cuya/NN presencia/NN “/NNP)\n  (VP beneficia/VBZ (NP a/DT nuestro/JJ país/NN))\n  de/IN\n  manera/FW\n  (NP inconmensurable/JJ ”/NN)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "GOBIERNOS_OFICIALES",
+      "GRUPOS_ESPECIFICOS",
+      "APROBACION_RECHAZO",
+      "REGIONES_PROVINCIAS",
+      "INSTITUCIONES_EDUCATIVAS",
+      "PAISES",
+      "LOCALIZACIONES_ESPECIFICAS",
+      "INFRAESTRUCTURA_SERVICIOS"
+    ],
+    "matches": [
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "gobierno de estados unidos",
+        "position": [
+          1480,
+          1506
+        ],
+        "start": 1480,
+        "end": 1506
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente le imponga",
+        "position": [
+          1956,
+          1977
+        ],
+        "start": 1956,
+        "end": 1977
+      },
+      {
+        "category": "GRUPOS_ESPECIFICOS",
+        "matched_text": "estudiantes",
+        "position": [
+          253,
+          264
+        ],
+        "start": 253,
+        "end": 264
+      },
+      {
+        "category": "INSTITUCIONES_EDUCATIVAS",
+        "matched_text": "universidad o en sus",
+        "position": [
+          310,
+          330
+        ],
+        "start": 310,
+        "end": 330
+      },
+      {
+        "category": "APROBACION_RECHAZO",
+        "matched_text": "reafirmó",
+        "position": [
+          471,
+          479
+        ],
+        "start": 471,
+        "end": 479
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "universidad",
+        "position": [
+          310,
+          321
+        ],
+        "start": 310,
+        "end": 321
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "estados unidos",
+        "position": [
+          1492,
+          1506
+        ],
+        "start": 1492,
+        "end": 1506
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "estado estadounidense",
+        "position": [
+          53,
+          74
+        ],
+        "start": 53,
+        "end": 74
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "universidad o en",
+        "position": [
+          310,
+          326
+        ],
+        "start": 310,
+        "end": 326
+      }
+    ],
+    "match_count": 9
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Harvard",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Administración",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "La Casa Blanca",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Trump",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Secretaría de Estado estadounidense",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Gobierno de Estados Unidos",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Administración",
+        "relacion": "ORDENAR",
+        "objeto": "Secretaría de Estado estadounidense"
+      },
+      {
+        "sujeto": "Trump",
+        "relacion": "ORDENAR",
+        "objeto": "Secretaría de Estado estadounidense"
+      },
+      {
+        "sujeto": "La Casa Blanca",
+        "relacion": "JUSTIFICAR",
+        "objeto": "Harvard"
+      },
+      {
+        "sujeto": "Gobierno de Estados Unidos",
+        "relacion": "ENMARCAR",
+        "objeto": "Harvard"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.6124,
+    "pos": 0.024,
+    "neu": 0.968,
+    "neg": 0.007,
+    "label": "positive"
+  }
+}

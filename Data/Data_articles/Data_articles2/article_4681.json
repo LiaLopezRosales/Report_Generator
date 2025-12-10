@@ -1,0 +1,632 @@
+{
+  "url": "https://www.telesurtv.net/uruguay-acoge-27-edicion-del-festival-de-cine-punta-del-este/",
+  "title": "Uruguay acoge 27 edición del Festival de Cine Punta del Este - teleSUR",
+  "section": "Cultura",
+  "tags": [
+    "cine",
+    "Patrimonio",
+    "Uruguay"
+  ],
+  "text": "La edición 27 del Festival de Cine Punta del Este, en Uruguay,  estará abierta al público hasta el próximo 21 de febrero, lo cual brinda a los interesados la oportunidad de ayudar al sector audiovisual y establecer espacios de contacto con el público extranjero.\nEn esta gran cita con el séptimo arte, la competencia de largometrajes de distintos géneros, acompañada de premios otorgados por el Jurado Internacional y el público, busca demostrar que estas muestras representan la realidad y que un filme puede destacarse sobre otro en relación con el refLejo de la realidad.\nEste evento está organizado por la Intendencia de Maldonado, que ha trabajado en su preparación para ampliar el acceso al cine y asegurar su continuidad y sostenibilidad en materia económica, convirtiéndose en un evento distintivo del patrimonio cultural del departamento.\nEntre las propuestas, se destaca una amplia muestra de cine iberoamericano, que incluye títulos como “El ladrón de perros” y “Patio de Chacales”, donde la primera es la ópera prima del director Vinko Tomicic, que aborda la historia de un adolescente huérfano que se gana la vida en la calle como lustrabotas.\nEste filme construye su trama alrededor del niño, quien, creyendo saber quién es el hombre que lo abandonó al nacer, idea un plan para robarle su perro, que es lo que más quiere.\nOtro filme que se menciona es “Rita”, película donde la actriz Paz Vega debuta como directora, narrando la vida de una niña en la década de los 80 del siglo pasado y replicando la mirada del mundo desde los ojos de una infante.\nEstos filmes forman parte de un corpus de 16 películas que se distribuyen de acuerdo con las pautas del festival entre documentales y ficción, provenientes de casi todos los países del continente.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/uruguay-acoge-27-edicion-del-festival-de-cine-punta-del-este/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-02.json",
+    "message_index": 718,
+    "message_id": 87201,
+    "date": "2025-02-19T10:55:07+00:00",
+    "text": "teleSUR\nUruguay acoge 27 edición del Festival de Cine Punta del Este\nhttps://www.telesurtv.net/uruguay-acoge-27-edicion-del-festival-de-cine-punta-del-este/",
+    "photo_path": null,
+    "views": 2288,
+    "reactions": {
+      "👏": 24
+    },
+    "total_reactions": 24
+  },
+  "preprocessing": {
+    "cleaned": "la edición 27 del festival de cine punta del este, en uruguay, estará abierta al público hasta el próximo 21 de febrero, lo cual brinda a los interesados la oportunidad de ayudar al sector audiovisual y establecer espacios de contacto con el público extranjero. en esta gran cita con el séptimo arte, la competencia de largometrajes de distintos géneros, acompañada de premios otorgados por el jurado internacional y el público, busca demostrar que estas muestras representan la realidad y que un filme puede destacarse sobre otro en relación con el reflejo de la realidad. este evento está organizado por la intendencia de maldonado, que ha trabajado en su preparación para ampliar el acceso al cine y asegurar su continuidad y sostenibilidad en materia económica, convirtiéndose en un evento distintivo del patrimonio cultural del departamento. entre las propuestas, se destaca una amplia muestra de cine iberoamericano, que incluye títulos como “el ladrón de perros” y “patio de chacales”, donde la primera es la ópera prima del director vinko tomicic, que aborda la historia de un adolescente huérfano que se gana la vida en la calle como lustrabotas. este filme construye su trama alrededor del niño, quien, creyendo saber quién es el hombre que lo abandonó al nacer, idea un plan para robarle su perro, que es lo que más quiere. otro filme que se menciona es “rita”, película donde la actriz paz vega debuta como directora, narrando la vida de una niña en la década de los 80 del siglo pasado y replicando la mirada del mundo desde los ojos de una infante. estos filmes forman parte de un corpus de 16 películas que se distribuyen de acuerdo con las pautas del festival entre documentales y ficción, provenientes de casi todos los países del continente.",
+    "tokens": [
+      "edición",
+      "27",
+      "festival",
+      "cine",
+      "punta",
+      ",",
+      "uruguay",
+      ",",
+      "abierta",
+      "público",
+      "próximo",
+      "21",
+      "febrero",
+      ",",
+      "brinda",
+      "interesados",
+      "oportunidad",
+      "ayudar",
+      "sector",
+      "audiovisual",
+      "establecer",
+      "espacios",
+      "contacto",
+      "público",
+      "extranjero",
+      ".",
+      "gran",
+      "cita",
+      "séptimo",
+      "arte",
+      ",",
+      "competencia",
+      "largometrajes",
+      "distintos",
+      "géneros",
+      ",",
+      "acompañada",
+      "premios",
+      "otorgados",
+      "jurado",
+      "internacional",
+      "público",
+      ",",
+      "busca",
+      "demostrar",
+      "muestras",
+      "representan",
+      "realidad",
+      "filme",
+      "puede",
+      "destacarse",
+      "relación",
+      "reflejo",
+      "realidad",
+      ".",
+      "evento",
+      "organizado",
+      "intendencia",
+      "maldonado",
+      ",",
+      "trabajado",
+      "preparación",
+      "ampliar",
+      "acceso",
+      "cine",
+      "asegurar",
+      "continuidad",
+      "sostenibilidad",
+      "materia",
+      "económica",
+      ",",
+      "convirtiéndose",
+      "evento",
+      "distintivo",
+      "patrimonio",
+      "cultural",
+      "departamento",
+      ".",
+      "propuestas",
+      ",",
+      "destaca",
+      "amplia",
+      "muestra",
+      "cine",
+      "iberoamericano",
+      ",",
+      "incluye",
+      "títulos",
+      "“",
+      "ladrón",
+      "perros",
+      "”",
+      "“",
+      "patio",
+      "chacales",
+      "”",
+      ",",
+      "primera",
+      "ópera",
+      "prima",
+      "director",
+      "vinko",
+      "tomicic",
+      ",",
+      "aborda",
+      "historia",
+      "adolescente",
+      "huérfano",
+      "gana",
+      "vida",
+      "calle",
+      "lustrabotas",
+      ".",
+      "filme",
+      "construye",
+      "trama",
+      "alrededor",
+      "niño",
+      ",",
+      ",",
+      "creyendo",
+      "saber",
+      "quién",
+      "hombre",
+      "abandonó",
+      "nacer",
+      ",",
+      "idea",
+      "plan",
+      "robarle",
+      "perro",
+      ",",
+      "quiere",
+      ".",
+      "filme",
+      "menciona",
+      "“",
+      "rita",
+      "”",
+      ",",
+      "película",
+      "actriz",
+      "paz",
+      "vega",
+      "debuta",
+      "directora",
+      ",",
+      "narrando",
+      "vida",
+      "niña",
+      "década",
+      "80",
+      "siglo",
+      "pasado",
+      "replicando",
+      "mirada",
+      "mundo",
+      "ojos",
+      "infante",
+      ".",
+      "filmes",
+      "forman",
+      "parte",
+      "corpus",
+      "16",
+      "películas",
+      "distribuyen",
+      "acuerdo",
+      "pautas",
+      "festival",
+      "documentales",
+      "ficción",
+      ",",
+      "provenientes",
+      "casi",
+      "países",
+      "continente",
+      "."
+    ],
+    "token_count": 178,
+    "sentence_count": 7
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 25,
+      "VBZ": 4,
+      "CD": 4,
+      "NN": 124,
+      "FW": 72,
+      "VBP": 9,
+      "JJ": 27,
+      "IN": 10,
+      "NNS": 9,
+      "RB": 1
+    },
+    "bigram_freq": {
+      "NNP-VBZ": 4,
+      "VBZ-CD": 1,
+      "CD-NN": 2,
+      "NN-NNP": 8,
+      "NNP-FW": 7,
+      "FW-NNP": 9,
+      "NNP-NNP": 4,
+      "FW-NN": 12,
+      "NN-NN": 78,
+      "NN-VBP": 3,
+      "VBP-JJ": 4,
+      "JJ-CD": 1,
+      "CD-IN": 1,
+      "IN-NN": 4,
+      "NN-JJ": 9,
+      "JJ-JJ": 6,
+      "JJ-NN": 17,
+      "NN-FW": 12,
+      "FW-FW": 48,
+      "JJ-FW": 2,
+      "NNP-NN": 9,
+      "NN-NNS": 5,
+      "NNS-VBP": 5,
+      "NN-IN": 7,
+      "IN-JJ": 3,
+      "IN-FW": 2,
+      "VBP-IN": 1,
+      "VBZ-NNS": 1,
+      "NNS-JJ": 2,
+      "VBZ-FW": 1,
+      "FW-JJ": 2,
+      "NNS-NNP": 1,
+      "NNP-VBP": 1,
+      "VBP-NN": 2,
+      "NN-RB": 1,
+      "RB-NNP": 1,
+      "JJ-NNP": 1,
+      "FW-CD": 1,
+      "VBZ-JJ": 1,
+      "IN-CD": 1,
+      "CD-NNS": 1,
+      "VBP-NNS": 2,
+      "NNS-IN": 1
+    },
+    "trigram_freq": {
+      "NNP-VBZ-CD": 1,
+      "VBZ-CD-NN": 1,
+      "CD-NN-NNP": 1,
+      "NN-NNP-FW": 1,
+      "NNP-FW-NNP": 5,
+      "FW-NNP-NNP": 2,
+      "NNP-NNP-FW": 1,
+      "FW-NNP-FW": 5,
+      "NNP-FW-NN": 2,
+      "FW-NN-NN": 4,
+      "NN-NN-NN": 50,
+      "NN-NN-VBP": 3,
+      "NN-VBP-JJ": 2,
+      "VBP-JJ-CD": 1,
+      "JJ-CD-IN": 1,
+      "CD-IN-NN": 1,
+      "IN-NN-JJ": 1,
+      "NN-JJ-JJ": 3,
+      "JJ-JJ-NN": 4,
+      "JJ-NN-NN": 12,
+      "NN-NN-JJ": 8,
+      "NN-JJ-NN": 5,
+      "JJ-NN-FW": 2,
+      "NN-FW-FW": 7,
+      "FW-FW-FW": 37,
+      "FW-FW-NN": 6,
+      "JJ-JJ-FW": 1,
+      "JJ-FW-FW": 2,
+      "NN-NN-NNP": 5,
+      "NN-NNP-NN": 4,
+      "NNP-NN-NN": 8,
+      "NN-NN-FW": 5,
+      "FW-FW-NNP": 3,
+      "NNP-NNP-NN": 3,
+      "NN-NN-NNS": 2,
+      "NN-NNS-VBP": 4,
+      "NNS-VBP-JJ": 2,
+      "VBP-JJ-NN": 3,
+      "NN-NN-IN": 4,
+      "NN-IN-JJ": 2,
+      "IN-JJ-NN": 3,
+      "NN-IN-FW": 2,
+      "IN-FW-FW": 1,
+      "FW-NN-FW": 4,
+      "NN-FW-NN": 3,
+      "NN-FW-NNP": 1,
+      "FW-NNP-NN": 1,
+      "NN-IN-NN": 2,
+      "IN-NN-NN": 2,
+      "NN-VBP-IN": 1,
+      "VBP-IN-JJ": 1,
+      "NN-NNP-VBZ": 2,
+      "NNP-VBZ-NNS": 1,
+      "VBZ-NNS-JJ": 1,
+      "NNS-JJ-JJ": 2,
+      "JJ-JJ-JJ": 1,
+      "NNP-NN-FW": 1,
+      "FW-NNP-VBZ": 1,
+      "NNP-VBZ-FW": 1,
+      "VBZ-FW-FW": 1,
+      "FW-NN-NNP": 2,
+      "NN-NNP-NNP": 1,
+      "FW-FW-JJ": 1,
+      "FW-JJ-NN": 1,
+      "FW-NN-NNS": 2,
+      "NN-NNS-NNP": 1,
+      "NNS-NNP-VBP": 1,
+      "NNP-VBP-NN": 1,
+      "VBP-NN-NN": 1,
+      "NN-NN-RB": 1,
+      "NN-RB-NNP": 1,
+      "RB-NNP-NN": 1,
+      "NN-JJ-NNP": 1,
+      "JJ-NNP-NNP": 1,
+      "NN-FW-JJ": 1,
+      "FW-JJ-FW": 1,
+      "FW-FW-CD": 1,
+      "FW-CD-NN": 1,
+      "CD-NN-NN": 1,
+      "NNP-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 1,
+      "JJ-NN-IN": 3,
+      "NN-IN-CD": 1,
+      "IN-CD-NNS": 1,
+      "CD-NNS-JJ": 1,
+      "IN-FW-NN": 1,
+      "NNS-VBP-NNS": 2,
+      "VBP-NNS-IN": 1,
+      "NNS-IN-NN": 1,
+      "IN-NN-NNS": 1,
+      "VBP-NNS-VBP": 1,
+      "NNS-VBP-NN": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 124,
+        "FW": 72,
+        "JJ": 27,
+        "NNP": 25,
+        "IN": 10
+      },
+      "top_bigrams": {
+        "NN-NN": 78,
+        "FW-FW": 48,
+        "JJ-NN": 17,
+        "FW-NN": 12,
+        "NN-FW": 12
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 50,
+        "FW-FW-FW": 37,
+        "JJ-NN-NN": 12,
+        "NN-NN-JJ": 8,
+        "NNP-NN-NN": 8
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 7,
+    "chunk_counts": {
+      "NP": 61,
+      "VP": 10,
+      "PP": 4,
+      "ADJP": 4
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 3,
+        "weight": 0.0349
+      },
+      {
+        "rule": "S -> NP VP ('27', 'CD') NP ('de', 'FW') NP ('del', 'FW') NP (',', ',') ('en', 'FW') NP (',', ',') VP VP ('21', 'CD') ('de', 'FW') NP (',', ',') NP NP ('oportunidad', 'FW') ('de', 'FW') ('ayudar', 'FW') NP NP ('espacios', 'FW') ('de', 'FW') ('contacto', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0116
+      },
+      {
+        "rule": "NP -> ('La', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0116
+      },
+      {
+        "rule": "VP -> ('edición', 'VBZ')",
+        "frequency": 1,
+        "weight": 0.0116
+      },
+      {
+        "rule": "NP -> ('del', 'NN') ('Festival', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0116
+      },
+      {
+        "rule": "NP -> ('Cine', 'NNP') ('Punta', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0116
+      },
+      {
+        "rule": "NP -> ('Este', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0116
+      },
+      {
+        "rule": "NP -> ('Uruguay', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0116
+      },
+      {
+        "rule": "VP -> ('estará', 'VBZ') NP",
+        "frequency": 1,
+        "weight": 0.0116
+      },
+      {
+        "rule": "NP -> ('abierta', 'JJ') ('al', 'NN') ('público', 'NN') ('hasta', 'NN')",
+        "frequency": 1,
+        "weight": 0.0116
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "La"
+      },
+      {
+        "label": "VP",
+        "text": "edición"
+      },
+      {
+        "label": "NP",
+        "text": "del Festival"
+      },
+      {
+        "label": "NP",
+        "text": "Cine Punta"
+      },
+      {
+        "label": "NP",
+        "text": "Este"
+      },
+      {
+        "label": "NP",
+        "text": "Uruguay"
+      },
+      {
+        "label": "VP",
+        "text": "estará abierta al público hasta"
+      },
+      {
+        "label": "NP",
+        "text": "abierta al público hasta"
+      },
+      {
+        "label": "VP",
+        "text": "el próximo"
+      },
+      {
+        "label": "NP",
+        "text": "febrero"
+      },
+      {
+        "label": "NP",
+        "text": "lo cual brinda"
+      },
+      {
+        "label": "NP",
+        "text": "a los interesados la"
+      },
+      {
+        "label": "NP",
+        "text": "al sector"
+      },
+      {
+        "label": "NP",
+        "text": "audiovisual y establecer"
+      },
+      {
+        "label": "NP",
+        "text": "con el público extranjero"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP La/NNP)\n  (VP edición/VBZ)\n  27/CD\n  (NP del/NN Festival/NNP)\n  de/FW\n  (NP Cine/NNP Punta/NNP)\n  del/FW\n  (NP Este/NNP)\n  ,/,\n  en/FW\n  (NP Uruguay/NNP)\n  ,/,\n  (VP estará/VBZ (NP abierta/JJ al/NN público/NN hasta/NN))\n  (VP el/VBP próximo/JJ)\n  21/CD\n  de/FW\n  (NP febrero/NN)\n  ,/,\n  (NP lo/JJ cual/JJ brinda/NN)\n  (NP a/DT los/JJ interesados/JJ la/NN)\n  oportunidad/FW\n  de/FW\n  ayudar/FW\n  (NP al/NN sector/NN)\n  (NP audiovisual/JJ y/JJ establecer/NN)\n  espacios/FW\n  de/FW\n  contacto/FW\n  (NP con/NN el/NN público/NN extranjero/NN)\n  ./.)",
+      "(S\n  (NP En/NNP esta/NN gran/NN)\n  (NP cita/JJ con/NN el/NN séptimo/NN arte/NN)\n  ,/,\n  la/FW\n  competencia/FW\n  de/FW\n  largometrajes/FW\n  de/FW\n  distintos/FW\n  (NP géneros/NNS)\n  ,/,\n  acompañada/FW\n  de/FW\n  premios/FW\n  otorgados/FW\n  por/FW\n  el/FW\n  (NP Jurado/NNP Internacional/NNP y/NN el/NN público/NN)\n  ,/,\n  (NP busca/NN demostrar/NN que/NN estas/NNS)\n  (VP\n    muestras/VBP\n    (NP representan/JJ la/NN realidad/NN y/NN que/NN)\n    (NP un/JJ filme/NN puede/NN destacarse/NN sobre/NN otro/NN))\n  (PP en/IN (NP relación/JJ con/NN el/NN refLejo/NN))\n  de/IN\n  la/FW\n  (NP realidad/NN)\n  ./.)",
+      "(S\n  (NP Este/NN)\n  evento/''\n  (NP está/JJ organizado/NN por/NN)\n  la/FW\n  (NP Intendencia/NNP)\n  de/FW\n  (NP Maldonado/NNP)\n  ,/,\n  (NP que/NN ha/NN trabajado/NN)\n  (PP\n    en/IN\n    (NP\n      su/NN\n      preparación/NN\n      para/NN\n      ampliar/NN\n      el/NN\n      acceso/NN\n      al/NN\n      cine/NN\n      y/NN\n      asegurar/NN\n      su/NN\n      continuidad/NN\n      y/NN\n      sostenibilidad/NN))\n  (PP en/IN (NP materia/NN económica/NN))\n  ,/,\n  (ADJP convirtiéndose/JJ)\n  en/FW\n  (NP un/JJ evento/NN distintivo/NN del/NN)\n  (NP patrimonio/JJ cultural/JJ del/NN departamento/NN)\n  ./.)",
+      "(S\n  (NP Entre/NNP las/NN propuestas/NNS)\n  ,/,\n  se/FW\n  destaca/FW\n  (ADJP una/JJ)\n  (ADJP amplia/JJ)\n  muestra/FW\n  de/FW\n  (NP cine/NN iberoamericano/NN)\n  ,/,\n  (NP que/JJ incluye/NN títulos/NN como/NN “/NNP El/NNP)\n  ladrón/FW\n  de/FW\n  perros/FW\n  ”/FW\n  y/FW\n  “/FW\n  (NP Patio/NNP)\n  de/FW\n  (NP Chacales/NNP ”/NNP)\n  ,/,\n  (NP\n    donde/NN\n    la/NN\n    primera/NN\n    es/NN\n    la/NN\n    ópera/NNP\n    prima/NN\n    del/NN\n    director/NN\n    Vinko/NNP\n    Tomicic/NNP)\n  ,/,\n  (NP que/NN aborda/NN)\n  la/FW\n  historia/FW\n  de/FW\n  un/FW\n  (NP adolescente/JJ huérfano/NN que/NN)\n  se/FW\n  (NP gana/NN)\n  la/FW\n  vida/FW\n  en/FW\n  la/FW\n  calle/FW\n  (NP como/NN lustrabotas/NNS)\n  ./.)",
+      "(S\n  (NP\n    Este/NN\n    filme/NN\n    construye/NN\n    su/NN\n    trama/NN\n    alrededor/NN\n    del/NN\n    niño/NN)\n  ,/,\n  (NP quien/NN)\n  ,/,\n  (NP\n    creyendo/JJ\n    saber/NN\n    quién/NN\n    es/NN\n    el/NN\n    hombre/NN\n    que/NN\n    lo/NN\n    abandonó/NN\n    al/NN\n    nacer/NN)\n  ,/,\n  (NP idea/NN un/NN plan/NN)\n  (VP para/VBP (NP robarle/JJ su/NN perro/NN))\n  ,/,\n  (NP que/JJ es/NN lo/NN que/NN más/NN)\n  quiere/RB\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "CULTURA_DEPORTE_SOCIEDAD",
+      "LOCALIZACIONES_ESPECIFICAS",
+      "PAISES",
+      "INFRAESTRUCTURA_SERVICIOS",
+      "RELACIONES_INTERNACIONALES"
+    ],
+    "matches": [
+      {
+        "category": "RELACIONES_INTERNACIONALES",
+        "matched_text": "acuerdo con las pautas del festival entre documentales y ficción, provenientes",
+        "position": [
+          1641,
+          1719
+        ],
+        "start": 1641,
+        "end": 1719
+      },
+      {
+        "category": "CULTURA_DEPORTE_SOCIEDAD",
+        "matched_text": "patrimonio cultural",
+        "position": [
+          810,
+          829
+        ],
+        "start": 810,
+        "end": 829
+      },
+      {
+        "category": "CULTURA_DEPORTE_SOCIEDAD",
+        "matched_text": "evento está organizado por la intendencia de maldonado, que ha trabajado en su preparación para ampliar el acceso al cine y asegurar su continuidad y sostenibilidad en materia económica, convirtiéndose en un evento distintivo del patrimonio cultural",
+        "position": [
+          580,
+          829
+        ],
+        "start": 580,
+        "end": 829
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "calle",
+        "position": [
+          1133,
+          1138
+        ],
+        "start": 1133,
+        "end": 1138
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "uruguay",
+        "position": [
+          54,
+          61
+        ],
+        "start": 54,
+        "end": 61
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "calle como",
+        "position": [
+          1133,
+          1143
+        ],
+        "start": 1133,
+        "end": 1143
+      }
+    ],
+    "match_count": 6
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Paz Vega",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Patio de Chacales",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Rita",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Jurado Internacional",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Festival de Cine Punta del Este",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Vinko Tomicic",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Uruguay",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Intendencia de Maldonado",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": []
+  },
+  "sentiment": {
+    "compound": 0.8316,
+    "pos": 0.03,
+    "neu": 0.97,
+    "neg": 0.0,
+    "label": "positive"
+  }
+}

@@ -1,0 +1,737 @@
+{
+  "url": "https://www.telesurtv.net/acuerdan-alto-el-fuego-tras-enfrentamientos-sectarios-en-pakistan/",
+  "title": "Acuerdan alto el fuego tras enfrentamientos sectarios en Pakistán - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Alto el fuego",
+    "Pakistán"
+  ],
+  "text": "\nAutoridades de Pakistán acordaron este domingo un alto el fuego, por siete días, después de que al menos 80 personas fueron asesinadas en el transcurso de la semana en medio de enfrentamientos sectarios.\nEl asesor del Ministro Principal en Información y Relaciones Públicas, Ali Saif, refirió que “ la delegación (consejo tribal) Jirga del gobierno, formada por el Primer Ministro de Khyber Pakhtunkhwa para una solución pacífica tras los incidentes en el distrito de Karam ha regresado a Peshawar después de completar una visita de dos días al distrito de Karam”.\nTambién aseguró que “las partes han acordado un alto el fuego de siete días y también han acordado devolver a los prisioneros y entregar los cadáveres”.\nEl  funcionario detalló que el primer día de la visita, la delegación Jirga se reunió con los líderes chiítas y el segundo día, con los líderes sunitas.\nEn este sentido aseveró  que “este es un paso importante hacia la solución de los problemas. El gobierno de Khyber Pakhtunkhwa está tomando medidas serias para poner fin a la tensión en el distrito”.\nEl pasado jueves, un convoy de aproximadamente 200 vehículos de pasajeros resultó atacado, hecho en el que murieron al menos 43 personas, gran parte de ellos chiíes, cuando pasaban por una carretera escoltados por fuerzas de seguridad.\nEn represalia al ataque, chiíes armados embistieron casas y tiendas de suníes, en las que murieron al menos 35 personas de ambos bandos y más de 50 resultaron heridas.\nPakistán tiene una historia de violencia sectaria, con un aumento de la cantidad de víctimas en los últimos tiempos. La minoría musulmana chií representa alrededor del 15 por ciento de los 240 millones de habitantes de la nación, de mayoría suní.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/acuerdan-alto-el-fuego-tras-enfrentamientos-sectarios-en-pakistan/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-11.json",
+    "message_index": 376,
+    "message_id": 81097,
+    "date": "2024-11-25T01:55:18+00:00",
+    "text": "teleSUR\nAcuerdan alto el fuego tras enfrentamientos sectarios en Pakistán\nhttps://www.telesurtv.net/acuerdan-alto-el-fuego-tras-enfrentamientos-sectarios-en-pakistan/",
+    "photo_path": null,
+    "views": 2761,
+    "reactions": {
+      "👍": 24,
+      "🤔": 2
+    },
+    "total_reactions": 26
+  },
+  "preprocessing": {
+    "cleaned": "autoridades de pakistán acordaron este domingo un alto el fuego, por siete días, después de que al menos 80 personas fueron asesinadas en el transcurso de la semana en medio de enfrentamientos sectarios. el asesor del ministro principal en información y relaciones públicas, ali saif, refirió que “ la delegación (consejo tribal) jirga del gobierno, formada por el primer ministro de khyber pakhtunkhwa para una solución pacífica tras los incidentes en el distrito de karam ha regresado a peshawar después de completar una visita de dos días al distrito de karam”. también aseguró que “las partes han acordado un alto el fuego de siete días y también han acordado devolver a los prisioneros y entregar los cadáveres”. el funcionario detalló que el primer día de la visita, la delegación jirga se reunió con los líderes chiítas y el segundo día, con los líderes sunitas. en este sentido aseveró que “este es un paso importante hacia la solución de los problemas. el gobierno de khyber pakhtunkhwa está tomando medidas serias para poner fin a la tensión en el distrito”. el pasado jueves, un convoy de aproximadamente 200 vehículos de pasajeros resultó atacado, hecho en el que murieron al menos 43 personas, gran parte de ellos chiíes, cuando pasaban por una carretera escoltados por fuerzas de seguridad. en represalia al ataque, chiíes armados embistieron casas y tiendas de suníes, en las que murieron al menos 35 personas de ambos bandos y más de 50 resultaron heridas. pakistán tiene una historia de violencia sectaria, con un aumento de la cantidad de víctimas en los últimos tiempos. la minoría musulmana chií representa alrededor del 15 por ciento de los 240 millones de habitantes de la nación, de mayoría suní.",
+    "tokens": [
+      "autoridades",
+      "pakistán",
+      "acordaron",
+      "domingo",
+      "alto",
+      "fuego",
+      ",",
+      "siete",
+      "días",
+      ",",
+      "después",
+      "menos",
+      "80",
+      "personas",
+      "asesinadas",
+      "transcurso",
+      "semana",
+      "medio",
+      "enfrentamientos",
+      "sectarios",
+      ".",
+      "asesor",
+      "ministro",
+      "principal",
+      "información",
+      "relaciones",
+      "públicas",
+      ",",
+      "ali",
+      "saif",
+      ",",
+      "refirió",
+      "“",
+      "delegación",
+      "(",
+      "consejo",
+      "tribal",
+      ")",
+      "jirga",
+      "gobierno",
+      ",",
+      "formada",
+      "primer",
+      "ministro",
+      "khyber",
+      "pakhtunkhwa",
+      "solución",
+      "pacífica",
+      "tras",
+      "incidentes",
+      "distrito",
+      "karam",
+      "regresado",
+      "peshawar",
+      "después",
+      "completar",
+      "visita",
+      "dos",
+      "días",
+      "distrito",
+      "karam",
+      "”",
+      ".",
+      "aseguró",
+      "“",
+      "partes",
+      "acordado",
+      "alto",
+      "fuego",
+      "siete",
+      "días",
+      "acordado",
+      "devolver",
+      "prisioneros",
+      "entregar",
+      "cadáveres",
+      "”",
+      ".",
+      "funcionario",
+      "detalló",
+      "primer",
+      "día",
+      "visita",
+      ",",
+      "delegación",
+      "jirga",
+      "reunió",
+      "líderes",
+      "chiítas",
+      "segundo",
+      "día",
+      ",",
+      "líderes",
+      "sunitas",
+      ".",
+      "aseveró",
+      "“",
+      "paso",
+      "importante",
+      "hacia",
+      "solución",
+      "problemas",
+      ".",
+      "gobierno",
+      "khyber",
+      "pakhtunkhwa",
+      "tomando",
+      "medidas",
+      "serias",
+      "poner",
+      "fin",
+      "tensión",
+      "distrito",
+      "”",
+      ".",
+      "pasado",
+      "jueves",
+      ",",
+      "convoy",
+      "aproximadamente",
+      "200",
+      "vehículos",
+      "pasajeros",
+      "resultó",
+      "atacado",
+      ",",
+      "hecho",
+      "murieron",
+      "menos",
+      "43",
+      "personas",
+      ",",
+      "gran",
+      "parte",
+      "chiíes",
+      ",",
+      "pasaban",
+      "carretera",
+      "escoltados",
+      "fuerzas",
+      "seguridad",
+      ".",
+      "represalia",
+      "ataque",
+      ",",
+      "chiíes",
+      "armados",
+      "embistieron",
+      "casas",
+      "tiendas",
+      "suníes",
+      ",",
+      "murieron",
+      "menos",
+      "35",
+      "personas",
+      "ambos",
+      "bandos",
+      "50",
+      "resultaron",
+      "heridas",
+      ".",
+      "pakistán",
+      "historia",
+      "violencia",
+      "sectaria",
+      ",",
+      "aumento",
+      "cantidad",
+      "víctimas",
+      "últimos",
+      "tiempos",
+      ".",
+      "minoría",
+      "musulmana",
+      "chií",
+      "representa",
+      "alrededor",
+      "15",
+      "ciento",
+      "240",
+      "millones",
+      "habitantes",
+      "nación",
+      ",",
+      "mayoría",
+      "suní",
+      "."
+    ],
+    "token_count": 188,
+    "sentence_count": 10
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 29,
+      "FW": 76,
+      "NN": 102,
+      "JJ": 19,
+      "IN": 15,
+      "NNS": 16,
+      "CD": 7,
+      "VBP": 5,
+      "VBZ": 4,
+      "RB": 2
+    },
+    "bigram_freq": {
+      "NNP-FW": 8,
+      "FW-NNP": 7,
+      "NNP-NN": 11,
+      "NN-NN": 59,
+      "NN-JJ": 8,
+      "JJ-NN": 14,
+      "NN-IN": 13,
+      "IN-FW": 10,
+      "FW-JJ": 1,
+      "JJ-NNS": 1,
+      "NNS-CD": 3,
+      "CD-NNS": 4,
+      "NNS-VBP": 4,
+      "VBP-JJ": 3,
+      "JJ-FW": 2,
+      "FW-FW": 48,
+      "FW-NNS": 2,
+      "NNS-NNP": 3,
+      "NN-NNP": 5,
+      "NNP-NNP": 9,
+      "JJ-NNP": 1,
+      "FW-NN": 15,
+      "NN-FW": 5,
+      "NNP-IN": 1,
+      "IN-NNP": 3,
+      "NN-NNS": 6,
+      "VBP-NNS": 1,
+      "NNS-IN": 1,
+      "IN-JJ": 2,
+      "NN-VBZ": 4,
+      "VBZ-JJ": 1,
+      "JJ-RB": 1,
+      "RB-JJ": 2,
+      "NN-VBP": 1,
+      "VBP-RB": 1,
+      "VBZ-NNS": 2,
+      "NNS-FW": 3,
+      "NNS-JJ": 2,
+      "FW-CD": 3,
+      "CD-NN": 3,
+      "VBZ-CD": 1
+    },
+    "trigram_freq": {
+      "NNP-FW-NNP": 2,
+      "FW-NNP-NN": 1,
+      "NNP-NN-NN": 7,
+      "NN-NN-NN": 33,
+      "NN-NN-JJ": 5,
+      "NN-JJ-NN": 7,
+      "JJ-NN-NN": 9,
+      "NN-NN-IN": 8,
+      "NN-IN-FW": 10,
+      "IN-FW-JJ": 1,
+      "FW-JJ-NNS": 1,
+      "JJ-NNS-CD": 1,
+      "NNS-CD-NNS": 3,
+      "CD-NNS-VBP": 1,
+      "NNS-VBP-JJ": 3,
+      "VBP-JJ-FW": 1,
+      "JJ-FW-FW": 2,
+      "FW-FW-FW": 38,
+      "FW-FW-NNS": 1,
+      "FW-NNS-NNP": 1,
+      "NNS-NNP-NN": 3,
+      "NN-NN-NNP": 3,
+      "NN-NNP-NNP": 1,
+      "NNP-NNP-FW": 2,
+      "FW-NNP-NNP": 3,
+      "NNP-NNP-NNP": 3,
+      "NNP-NNP-NN": 3,
+      "NN-JJ-NNP": 1,
+      "JJ-NNP-FW": 1,
+      "NNP-FW-NN": 5,
+      "FW-NN-NN": 8,
+      "NN-NN-FW": 3,
+      "NN-FW-NNP": 1,
+      "NNP-NNP-IN": 1,
+      "NNP-IN-NNP": 1,
+      "IN-NNP-NNP": 2,
+      "NNP-NN-JJ": 2,
+      "NN-NN-NNS": 2,
+      "NN-NNS-VBP": 2,
+      "NNS-VBP-NNS": 1,
+      "VBP-NNS-IN": 1,
+      "NNS-IN-JJ": 1,
+      "IN-JJ-NN": 2,
+      "JJ-NN-IN": 5,
+      "NN-IN-NNP": 2,
+      "IN-NNP-NN": 1,
+      "NN-NNP-NN": 3,
+      "NNP-NN-FW": 1,
+      "NN-FW-NN": 2,
+      "FW-NN-JJ": 1,
+      "IN-FW-NN": 2,
+      "NN-NN-VBZ": 4,
+      "NN-VBZ-JJ": 1,
+      "VBZ-JJ-RB": 1,
+      "JJ-RB-JJ": 1,
+      "RB-JJ-NN": 2,
+      "NN-IN-JJ": 1,
+      "NN-NN-VBP": 1,
+      "NN-VBP-RB": 1,
+      "VBP-RB-JJ": 1,
+      "NN-NNS-NNP": 1,
+      "IN-FW-FW": 3,
+      "FW-FW-NNP": 3,
+      "FW-NNP-FW": 3,
+      "NN-VBZ-NNS": 2,
+      "VBZ-NNS-FW": 1,
+      "NNS-FW-NN": 1,
+      "VBZ-NNS-NNP": 1,
+      "NN-FW-FW": 2,
+      "NNP-FW-FW": 1,
+      "FW-NN-NNS": 3,
+      "VBP-JJ-NN": 2,
+      "FW-NN-NNP": 2,
+      "NNP-NN-NNS": 1,
+      "NN-NNS-JJ": 1,
+      "NNS-JJ-NN": 1,
+      "IN-FW-CD": 2,
+      "FW-CD-NN": 2,
+      "CD-NN-FW": 1,
+      "FW-FW-NN": 5,
+      "NN-NNS-CD": 2,
+      "CD-NNS-JJ": 1,
+      "NNS-JJ-FW": 1,
+      "IN-FW-NNP": 1,
+      "CD-NNS-FW": 2,
+      "NNS-FW-FW": 2,
+      "FW-FW-CD": 1,
+      "CD-NN-NN": 2,
+      "IN-FW-NNS": 1,
+      "FW-NNS-VBP": 1,
+      "NN-NNP-FW": 1,
+      "NN-VBZ-CD": 1,
+      "VBZ-CD-NN": 1,
+      "FW-CD-NNS": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 102,
+        "FW": 76,
+        "NNP": 29,
+        "JJ": 19,
+        "NNS": 16
+      },
+      "top_bigrams": {
+        "NN-NN": 59,
+        "FW-FW": 48,
+        "FW-NN": 15,
+        "JJ-NN": 14,
+        "NN-IN": 13
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 38,
+        "NN-NN-NN": 33,
+        "NN-IN-FW": 10,
+        "JJ-NN-NN": 9,
+        "NN-NN-IN": 8
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 10,
+    "chunk_counts": {
+      "NP": 74,
+      "VP": 13,
+      "PP": 8,
+      "ADJP": 1
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 6,
+        "weight": 0.0566
+      },
+      {
+        "rule": "NP -> ('personas', 'NNS')",
+        "frequency": 3,
+        "weight": 0.0283
+      },
+      {
+        "rule": "NP -> ('un', 'JJ') ('alto', 'NN') ('el', 'NN') ('fuego', 'NN')",
+        "frequency": 2,
+        "weight": 0.0189
+      },
+      {
+        "rule": "NP -> ('Jirga', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0189
+      },
+      {
+        "rule": "NP -> ('al', 'NN') ('menos', 'NNS')",
+        "frequency": 2,
+        "weight": 0.0189
+      },
+      {
+        "rule": "S -> NP ('de', 'FW') NP NP (',', ',') NP (',', ',') ('después', 'FW') ('de', 'FW') ('que', 'FW') VP ('80', 'CD') NP VP ('en', 'FW') ('el', 'FW') ('transcurso', 'FW') ('de', 'FW') ('la', 'FW') ('semana', 'FW') ('en', 'FW') ('medio', 'FW') ('de', 'FW') ('enfrentamientos', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0094
+      },
+      {
+        "rule": "NP -> ('Autoridades', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0094
+      },
+      {
+        "rule": "NP -> ('Pakistán', 'NNP') ('acordaron', 'NN') ('este', 'NN') ('domingo', 'NN')",
+        "frequency": 1,
+        "weight": 0.0094
+      },
+      {
+        "rule": "NP -> ('por', 'JJ') ('siete', 'JJ') ('días', 'NN')",
+        "frequency": 1,
+        "weight": 0.0094
+      },
+      {
+        "rule": "VP -> ('al', 'VBP') NP",
+        "frequency": 1,
+        "weight": 0.0094
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Autoridades"
+      },
+      {
+        "label": "NP",
+        "text": "Pakistán acordaron este domingo"
+      },
+      {
+        "label": "NP",
+        "text": "un alto el fuego"
+      },
+      {
+        "label": "NP",
+        "text": "por siete días"
+      },
+      {
+        "label": "VP",
+        "text": "al menos"
+      },
+      {
+        "label": "NP",
+        "text": "menos"
+      },
+      {
+        "label": "NP",
+        "text": "personas"
+      },
+      {
+        "label": "VP",
+        "text": "fueron asesinadas"
+      },
+      {
+        "label": "NP",
+        "text": "sectarios"
+      },
+      {
+        "label": "NP",
+        "text": "El asesor del Ministro Principal"
+      },
+      {
+        "label": "NP",
+        "text": "Información y Relaciones Públicas"
+      },
+      {
+        "label": "NP",
+        "text": "Ali Saif"
+      },
+      {
+        "label": "NP",
+        "text": "refirió que “ la delegación"
+      },
+      {
+        "label": "NP",
+        "text": "consejo tribal"
+      },
+      {
+        "label": "NP",
+        "text": "Jirga"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Autoridades/NNP)\n  de/FW\n  (NP Pakistán/NNP acordaron/NN este/NN domingo/NN)\n  (NP un/JJ alto/NN el/NN fuego/NN)\n  ,/,\n  (NP por/JJ siete/JJ días/NN)\n  ,/,\n  después/FW\n  de/FW\n  que/FW\n  (VP al/VBP (NP menos/NNS))\n  80/CD\n  (NP personas/NNS)\n  (VP fueron/VBP asesinadas/JJ)\n  en/FW\n  el/FW\n  transcurso/FW\n  de/FW\n  la/FW\n  semana/FW\n  en/FW\n  medio/FW\n  de/FW\n  enfrentamientos/FW\n  (NP sectarios/NNS)\n  ./.)",
+      "(S\n  (NP El/NNP asesor/NN del/NN Ministro/NNP Principal/NNP)\n  en/FW\n  (NP Información/NNP y/NN Relaciones/NNP Públicas/NNP)\n  ,/,\n  (NP Ali/NNP Saif/NNP)\n  ,/,\n  (NP refirió/NN que/NN “/NNP la/NN delegación/NN)\n  (/(\n  (NP consejo/JJ tribal/NN)\n  )/)\n  (NP Jirga/NNP)\n  del/FW\n  (NP gobierno/NN)\n  ,/,\n  (NP formada/JJ por/NN el/NN Primer/NNP Ministro/NNP)\n  (PP de/IN (NP Khyber/NNP Pakhtunkhwa/NNP para/NN))\n  (NP una/JJ solución/NN pacífica/NN tras/NNS)\n  (VP los/VBP (NP incidentes/NNS))\n  (PP en/IN (NP el/JJ distrito/NN))\n  (PP de/IN (NP Karam/NNP ha/NN))\n  (VP regresado/VBZ (NP a/DT Peshawar/NNP después/NN))\n  de/FW\n  (NP completar/NN)\n  (NP una/JJ visita/NN)\n  de/IN\n  dos/FW\n  (NP días/NN al/NN distrito/NN)\n  (PP de/IN (NP Karam/NNP ”/NNP))\n  ./.)",
+      "(S\n  (NP También/NNP aseguró/NN que/NN “/NNP las/NN partes/NNS)\n  (VP han/VBP acordado/RB (NP un/JJ alto/NN el/NN fuego/NN))\n  (PP de/IN (NP siete/JJ días/NN y/NN también/NN han/NN))\n  (VP acordado/VBP)\n  (PP\n    devolver/IN\n    (NP a/DT los/JJ prisioneros/NN y/NN entregar/NN los/NN))\n  (VP cadáveres/VBZ (NP ”/NNP))\n  ./.)",
+      "(S\n  (NP El/NNP funcionario/NN detalló/NN que/NN)\n  el/FW\n  (NP primer/NN día/NN)\n  de/IN\n  la/FW\n  visita/FW\n  ,/,\n  la/FW\n  delegación/FW\n  (NP Jirga/NNP)\n  se/FW\n  (NP reunió/NN con/NN los/NN)\n  (VP líderes/VBZ (NP chiítas/NNS) y/RB)\n  (VP el/VBP (NP segundo/JJ día/NN))\n  ,/,\n  (NP con/NN los/NN)\n  (VP líderes/VBZ (NP sunitas/NNS))\n  ./.)",
+      "(S\n  (NP\n    En/NNP\n    este/NN\n    sentido/NN\n    aseveró/NN\n    que/NN\n    “/NNP\n    este/NN\n    es/NN)\n  (NP un/JJ paso/NN importante/NN hacia/NN)\n  la/FW\n  solución/FW\n  de/FW\n  los/FW\n  (NP problemas/NN)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "CANTIDADES_NUMERICAS",
+      "VIOLENCIA_CRIMEN_DERECHOS_HUMANOS",
+      "GOBIERNOS_OFICIALES",
+      "INFRAESTRUCTURA_SERVICIOS"
+    ],
+    "matches": [
+      {
+        "category": "VIOLENCIA_CRIMEN_DERECHOS_HUMANOS",
+        "matched_text": "violencia sectaria, con un aumento de la cantidad de víctimas en los últimos tiempos. la minoría musulmana chií representa alrededor del 15 por ciento de los 240 millones de habitantes de la nación",
+        "position": [
+          1507,
+          1704
+        ],
+        "start": 1507,
+        "end": 1704
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "gobierno de khyber pakhtunkhwa",
+        "position": [
+          968,
+          998
+        ],
+        "start": 968,
+        "end": 998
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "ministro de khyber pakhtunkhwa",
+        "position": [
+          373,
+          403
+        ],
+        "start": 373,
+        "end": 403
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "carretera",
+        "position": [
+          1261,
+          1270
+        ],
+        "start": 1261,
+        "end": 1270
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "80 personas",
+        "position": [
+          106,
+          117
+        ],
+        "start": 106,
+        "end": 117
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "240 millones",
+        "position": [
+          1665,
+          1677
+        ],
+        "start": 1665,
+        "end": 1677
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "43 personas",
+        "position": [
+          1197,
+          1208
+        ],
+        "start": 1197,
+        "end": 1208
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "aproximadamente 200",
+        "position": [
+          1103,
+          1122
+        ],
+        "start": 1103,
+        "end": 1122
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "más de 50",
+        "position": [
+          1446,
+          1455
+        ],
+        "start": 1446,
+        "end": 1455
+      }
+    ],
+    "match_count": 9
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Karam",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Jirga",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Karam",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Ministro Principal",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Ali Saif",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Pakistán",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Peshawar",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Información",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Ministro Principal",
+        "relacion": "REFERIR",
+        "objeto": "Jirga"
+      },
+      {
+        "sujeto": "Ministro Principal",
+        "relacion": "REFERIR",
+        "objeto": "Karam"
+      },
+      {
+        "sujeto": "Ministro Principal",
+        "relacion": "REFERIR",
+        "objeto": "Peshawar"
+      },
+      {
+        "sujeto": "Información",
+        "relacion": "REFERIR",
+        "objeto": "Jirga"
+      },
+      {
+        "sujeto": "Información",
+        "relacion": "REFERIR",
+        "objeto": "Karam"
+      },
+      {
+        "sujeto": "Información",
+        "relacion": "REFERIR",
+        "objeto": "Peshawar"
+      },
+      {
+        "sujeto": "Ali Saif",
+        "relacion": "REFERIR",
+        "objeto": "Jirga"
+      },
+      {
+        "sujeto": "Ali Saif",
+        "relacion": "REFERIR",
+        "objeto": "Karam"
+      },
+      {
+        "sujeto": "Ali Saif",
+        "relacion": "REFERIR",
+        "objeto": "Peshawar"
+      },
+      {
+        "sujeto": "Jirga",
+        "relacion": "REGRESAR_REFERIR",
+        "objeto": "Peshawar"
+      },
+      {
+        "sujeto": "Jirga",
+        "relacion": "REGRESAR_REFERIR",
+        "objeto": "Karam"
+      },
+      {
+        "sujeto": "Karam",
+        "relacion": "REGRESAR_REFERIR",
+        "objeto": "Peshawar"
+      },
+      {
+        "sujeto": "Peshawar",
+        "relacion": "REGRESAR_REFERIR",
+        "objeto": "Karam"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.34,
+    "pos": 0.009,
+    "neu": 0.991,
+    "neg": 0.0,
+    "label": "positive"
+  }
+}

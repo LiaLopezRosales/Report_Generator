@@ -1,0 +1,746 @@
+{
+  "url": "https://www.telesurtv.net/bombardeos-israelies-causan-mas-muertos-y-heridos-en-el-norte-de-gaza/",
+  "title": "Bombardeos israelíes causan más muertos y heridos en el norte de Gaza - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Gaza",
+    "genocidio",
+    "Israel",
+    "norte",
+    "Palestina"
+  ],
+  "text": "La ocupación israelí bombardeó este lunes varias zonas del norte y el centro de la Franja de Gaza, como resultado de los ataques murieron varias personas y otros tantos resultaron heridos.\nSegún fuentes locales, las viviendas bombardeadas estaban ubicadas en las inmediaciones del Hospital Kamal Adwan, lo que causó la muerte de varias personas.\nDurante la jornada falleció un niño en el Hospital Bautista, quien fue trasladado del Hospital Kamal Adwan, lo que resalta la vulnerabilidad de la población civil en medio de un conflicto que no cesa.\nLa zona de Saftawi, al norte de Gaza, también fue víctima de los ataques del Ejército de Israel, donde una persona perdió la vida.\nEn otro de los ataques, la entidad sionista bombardeó con aviones no tripulados dos viviendas de familias palestinas en el campamento de Al-Nuseirat, en el centro de la Franja de Gaza, donde murieron tres civiles.\nAsimismo, varios ciudadanos sufrieron heridas en un bombardeo de artillería dirigido contra las inmediaciones del parque Karameesh, donde un dron lanzó una bomba sobre la zona.\nLa Sociedad de la Media Luna Roja Palestina (MLRP) reportó que en horas de la noche de este domingo fueron evacuados del Hospital Kamal Adwan al Hospital Al-Shifa en la ciudad de Gaza 30 heridos y varios enfermos, junto a 33 acompañantes.\nLa operación se realizó en cooperación y coordinación con la Organización Mundial de la Salud.\nLa continua violencia en la región ha dejado a la población civil en una situación crítica, enfrentando no solo la amenaza de los bombardeos, sino también la escasez de atención médica adecuada.\nDesde el inicio de la ofensiva, la comunidad internacional ha expresado su preocupación por el impacto de estos ataques en la población civil.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/bombardeos-israelies-causan-mas-muertos-y-heridos-en-el-norte-de-gaza/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-11.json",
+    "message_index": 1584,
+    "message_id": 79807,
+    "date": "2024-11-04T17:55:18+00:00",
+    "text": "teleSUR\nBombardeos israelíes causan más muertos y heridos en el norte de Gaza\nhttps://www.telesurtv.net/bombardeos-israelies-causan-mas-muertos-y-heridos-en-el-norte-de-gaza/",
+    "photo_path": null,
+    "views": 2300,
+    "reactions": {
+      "🤬": 34,
+      "😭": 6,
+      "👎": 2,
+      "👍": 1
+    },
+    "total_reactions": 43
+  },
+  "preprocessing": {
+    "cleaned": "la ocupación israelí bombardeó este lunes varias zonas del norte y el centro de la franja de gaza, como resultado de los ataques murieron varias personas y otros tantos resultaron heridos. según fuentes locales, las viviendas bombardeadas estaban ubicadas en las inmediaciones del hospital kamal adwan, lo que causó la muerte de varias personas. durante la jornada falleció un niño en el hospital bautista, quien fue trasladado del hospital kamal adwan, lo que resalta la vulnerabilidad de la población civil en medio de un conflicto que no cesa. la zona de saftawi, al norte de gaza, también fue víctima de los ataques del ejército de israel, donde una persona perdió la vida. en otro de los ataques, la entidad sionista bombardeó con aviones no tripulados dos viviendas de familias palestinas en el campamento de al-nuseirat, en el centro de la franja de gaza, donde murieron tres civiles. asimismo, varios ciudadanos sufrieron heridas en un bombardeo de artillería dirigido contra las inmediaciones del parque karameesh, donde un dron lanzó una bomba sobre la zona. la sociedad de la media luna roja palestina (mlrp) reportó que en horas de la noche de este domingo fueron evacuados del hospital kamal adwan al hospital al-shifa en la ciudad de gaza 30 heridos y varios enfermos, junto a 33 acompañantes. la operación se realizó en cooperación y coordinación con la organización mundial de la salud. la continua violencia en la región ha dejado a la población civil en una situación crítica, enfrentando no solo la amenaza de los bombardeos, sino también la escasez de atención médica adecuada. desde el inicio de la ofensiva, la comunidad internacional ha expresado su preocupación por el impacto de estos ataques en la población civil.",
+    "tokens": [
+      "ocupación",
+      "israelí",
+      "bombardeó",
+      "lunes",
+      "varias",
+      "zonas",
+      "norte",
+      "centro",
+      "franja",
+      "gaza",
+      ",",
+      "resultado",
+      "ataques",
+      "murieron",
+      "varias",
+      "personas",
+      "tantos",
+      "resultaron",
+      "heridos",
+      ".",
+      "según",
+      "fuentes",
+      "locales",
+      ",",
+      "viviendas",
+      "bombardeadas",
+      "ubicadas",
+      "inmediaciones",
+      "hospital",
+      "kamal",
+      "adwan",
+      ",",
+      "causó",
+      "muerte",
+      "varias",
+      "personas",
+      ".",
+      "jornada",
+      "falleció",
+      "niño",
+      "hospital",
+      "bautista",
+      ",",
+      "trasladado",
+      "hospital",
+      "kamal",
+      "adwan",
+      ",",
+      "resalta",
+      "vulnerabilidad",
+      "población",
+      "civil",
+      "medio",
+      "conflicto",
+      "cesa",
+      ".",
+      "zona",
+      "saftawi",
+      ",",
+      "norte",
+      "gaza",
+      ",",
+      "víctima",
+      "ataques",
+      "ejército",
+      "israel",
+      ",",
+      "persona",
+      "perdió",
+      "vida",
+      ".",
+      "ataques",
+      ",",
+      "entidad",
+      "sionista",
+      "bombardeó",
+      "aviones",
+      "tripulados",
+      "dos",
+      "viviendas",
+      "familias",
+      "palestinas",
+      "campamento",
+      "al-nuseirat",
+      ",",
+      "centro",
+      "franja",
+      "gaza",
+      ",",
+      "murieron",
+      "tres",
+      "civiles",
+      ".",
+      "asimismo",
+      ",",
+      "varios",
+      "ciudadanos",
+      "sufrieron",
+      "heridas",
+      "bombardeo",
+      "artillería",
+      "dirigido",
+      "inmediaciones",
+      "parque",
+      "karameesh",
+      ",",
+      "dron",
+      "lanzó",
+      "bomba",
+      "zona",
+      ".",
+      "sociedad",
+      "media",
+      "luna",
+      "roja",
+      "palestina",
+      "(",
+      "mlrp",
+      ")",
+      "reportó",
+      "horas",
+      "noche",
+      "domingo",
+      "evacuados",
+      "hospital",
+      "kamal",
+      "adwan",
+      "hospital",
+      "al-shifa",
+      "ciudad",
+      "gaza",
+      "30",
+      "heridos",
+      "varios",
+      "enfermos",
+      ",",
+      "junto",
+      "33",
+      "acompañantes",
+      ".",
+      "operación",
+      "realizó",
+      "cooperación",
+      "coordinación",
+      "organización",
+      "mundial",
+      "salud",
+      ".",
+      "continua",
+      "violencia",
+      "región",
+      "dejado",
+      "población",
+      "civil",
+      "situación",
+      "crítica",
+      ",",
+      "enfrentando",
+      "solo",
+      "amenaza",
+      "bombardeos",
+      ",",
+      "sino",
+      "escasez",
+      "atención",
+      "médica",
+      "adecuada",
+      ".",
+      "inicio",
+      "ofensiva",
+      ",",
+      "comunidad",
+      "internacional",
+      "expresado",
+      "preocupación",
+      "impacto",
+      "ataques",
+      "población",
+      "civil",
+      "."
+    ],
+    "token_count": 180,
+    "sentence_count": 10
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 47,
+      "MD": 1,
+      "VB": 1,
+      "JJ": 21,
+      "NN": 68,
+      "NNS": 16,
+      "VBP": 11,
+      "CD": 3,
+      "FW": 94,
+      "IN": 10,
+      "VBZ": 4,
+      "DT": 3
+    },
+    "bigram_freq": {
+      "NNP-MD": 1,
+      "MD-VB": 1,
+      "VB-JJ": 1,
+      "JJ-NN": 9,
+      "NN-NNS": 2,
+      "NNS-VBP": 11,
+      "VBP-CD": 1,
+      "CD-NN": 2,
+      "NN-NN": 35,
+      "NN-FW": 15,
+      "FW-NN": 8,
+      "NN-IN": 6,
+      "IN-FW": 5,
+      "FW-NNP": 16,
+      "NNP-FW": 8,
+      "NNP-NN": 10,
+      "FW-NNS": 5,
+      "VBP-JJ": 5,
+      "JJ-NNS": 2,
+      "VBP-NNS": 1,
+      "JJ-NNP": 2,
+      "NNP-VBZ": 1,
+      "VBZ-NNS": 2,
+      "NNS-NNS": 2,
+      "NN-JJ": 3,
+      "JJ-FW": 5,
+      "FW-FW": 59,
+      "NNS-FW": 1,
+      "NNP-NNP": 19,
+      "JJ-JJ": 2,
+      "FW-JJ": 6,
+      "NN-DT": 1,
+      "DT-NN": 2,
+      "NN-NNP": 2,
+      "NNP-IN": 4,
+      "IN-NNP": 4,
+      "NNP-JJ": 2,
+      "VBP-NNP": 1,
+      "NN-VBZ": 3,
+      "VBZ-DT": 2,
+      "DT-JJ": 1,
+      "NNS-NNP": 2,
+      "NNP-NNS": 1,
+      "VBP-NN": 2,
+      "IN-JJ": 1,
+      "NNP-CD": 1,
+      "NN-CD": 1,
+      "CD-NNS": 1,
+      "VBP-FW": 1
+    },
+    "trigram_freq": {
+      "NNP-MD-VB": 1,
+      "MD-VB-JJ": 1,
+      "VB-JJ-NN": 1,
+      "JJ-NN-NNS": 1,
+      "NN-NNS-VBP": 2,
+      "NNS-VBP-CD": 1,
+      "VBP-CD-NN": 1,
+      "CD-NN-NN": 1,
+      "NN-NN-FW": 11,
+      "NN-FW-NN": 2,
+      "FW-NN-IN": 1,
+      "NN-IN-FW": 4,
+      "IN-FW-NNP": 2,
+      "FW-NNP-FW": 6,
+      "NNP-FW-NNP": 3,
+      "FW-NNP-NN": 3,
+      "NNP-NN-NN": 10,
+      "NN-NN-IN": 4,
+      "IN-FW-NNS": 1,
+      "FW-NNS-VBP": 4,
+      "NNS-VBP-JJ": 5,
+      "VBP-JJ-NNS": 1,
+      "JJ-NNS-VBP": 1,
+      "NNS-VBP-NNS": 1,
+      "VBP-NNS-VBP": 1,
+      "VBP-JJ-NNP": 2,
+      "JJ-NNP-VBZ": 1,
+      "NNP-VBZ-NNS": 1,
+      "VBZ-NNS-NNS": 1,
+      "NNS-NNS-VBP": 2,
+      "VBP-JJ-NN": 2,
+      "JJ-NN-JJ": 1,
+      "NN-JJ-FW": 1,
+      "JJ-FW-FW": 4,
+      "FW-FW-NNS": 4,
+      "FW-NNS-FW": 1,
+      "NNS-FW-NNP": 1,
+      "FW-NNP-NNP": 7,
+      "NNP-NNP-NNP": 8,
+      "NNP-NNP-NN": 6,
+      "NN-NN-NN": 13,
+      "NN-FW-FW": 9,
+      "FW-FW-FW": 40,
+      "FW-FW-NNP": 6,
+      "NNP-FW-NN": 1,
+      "FW-NN-NN": 5,
+      "NN-NN-JJ": 2,
+      "NN-JJ-JJ": 1,
+      "JJ-JJ-FW": 1,
+      "NN-FW-NNP": 4,
+      "FW-FW-JJ": 4,
+      "FW-JJ-FW": 2,
+      "FW-FW-NN": 5,
+      "NN-NN-DT": 1,
+      "NN-DT-NN": 1,
+      "DT-NN-NNP": 1,
+      "NN-NNP-NNP": 2,
+      "NNP-NNP-IN": 3,
+      "NNP-IN-NNP": 3,
+      "IN-NNP-JJ": 1,
+      "NNP-JJ-FW": 1,
+      "NNS-VBP-NNP": 1,
+      "VBP-NNP-IN": 1,
+      "IN-NNP-NNP": 2,
+      "NNP-NNP-JJ": 1,
+      "NNP-JJ-NN": 1,
+      "JJ-NN-NN": 5,
+      "NNP-FW-FW": 4,
+      "NN-NN-VBZ": 3,
+      "NN-VBZ-DT": 2,
+      "VBZ-DT-JJ": 1,
+      "DT-JJ-NN": 1,
+      "JJ-NN-FW": 1,
+      "NN-VBZ-NNS": 1,
+      "VBZ-NNS-NNP": 1,
+      "NNS-NNP-NNS": 1,
+      "NNP-NNS-VBP": 1,
+      "NNS-VBP-NN": 2,
+      "VBP-NN-NN": 1,
+      "NN-IN-JJ": 1,
+      "IN-JJ-NN": 1,
+      "JJ-NN-IN": 1,
+      "IN-FW-JJ": 1,
+      "FW-JJ-JJ": 1,
+      "JJ-JJ-NNS": 1,
+      "JJ-NNS-NNS": 1,
+      "JJ-NNP-NN": 1,
+      "NN-JJ-NN": 1,
+      "NNP-IN-FW": 1,
+      "NN-IN-NNP": 1,
+      "IN-NNP-CD": 1,
+      "NNP-CD-NN": 1,
+      "CD-NN-NNS": 1,
+      "VBP-NN-CD": 1,
+      "NN-CD-NNS": 1,
+      "CD-NNS-NNP": 1,
+      "NNS-NNP-FW": 1,
+      "FW-NN-FW": 2,
+      "NN-NN-NNP": 1,
+      "NNP-NNP-FW": 1,
+      "IN-FW-FW": 1,
+      "JJ-FW-JJ": 1,
+      "FW-JJ-NN": 2,
+      "VBZ-DT-NN": 1,
+      "DT-NN-FW": 1,
+      "NNS-VBP-FW": 1,
+      "VBP-FW-FW": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "FW": 94,
+        "NN": 68,
+        "NNP": 47,
+        "JJ": 21,
+        "NNS": 16
+      },
+      "top_bigrams": {
+        "FW-FW": 59,
+        "NN-NN": 35,
+        "NNP-NNP": 19,
+        "FW-NNP": 16,
+        "NN-FW": 15
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 40,
+        "NN-NN-NN": 13,
+        "NN-NN-FW": 11,
+        "NNP-NN-NN": 10,
+        "NN-FW-FW": 9
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 10,
+    "chunk_counts": {
+      "NP": 79,
+      "VP": 18,
+      "ADJP": 4,
+      "PP": 5
+    },
+    "top_rules": [
+      {
+        "rule": "NP -> ('Gaza', 'NNP')",
+        "frequency": 4,
+        "weight": 0.0345
+      },
+      {
+        "rule": "NP -> ('ataques', 'NNS')",
+        "frequency": 4,
+        "weight": 0.0345
+      },
+      {
+        "rule": "NP -> ('Hospital', 'NNP') ('Kamal', 'NNP') ('Adwan', 'NNP')",
+        "frequency": 3,
+        "weight": 0.0259
+      },
+      {
+        "rule": "ADJP -> ('civil', 'JJ')",
+        "frequency": 3,
+        "weight": 0.0259
+      },
+      {
+        "rule": "NP -> ('La', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0172
+      },
+      {
+        "rule": "NP -> ('Franja', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0172
+      },
+      {
+        "rule": "VP -> ('del', 'VBP') NP",
+        "frequency": 2,
+        "weight": 0.0172
+      },
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0172
+      },
+      {
+        "rule": "NP -> ('donde', 'NN')",
+        "frequency": 2,
+        "weight": 0.0172
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0172
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "La"
+      },
+      {
+        "label": "VP",
+        "text": "israelí bombardeó este lunes"
+      },
+      {
+        "label": "NP",
+        "text": "bombardeó este lunes"
+      },
+      {
+        "label": "VP",
+        "text": "varias"
+      },
+      {
+        "label": "NP",
+        "text": "del"
+      },
+      {
+        "label": "NP",
+        "text": "y"
+      },
+      {
+        "label": "NP",
+        "text": "centro"
+      },
+      {
+        "label": "NP",
+        "text": "Franja"
+      },
+      {
+        "label": "NP",
+        "text": "Gaza"
+      },
+      {
+        "label": "NP",
+        "text": "como resultado"
+      },
+      {
+        "label": "NP",
+        "text": "ataques"
+      },
+      {
+        "label": "VP",
+        "text": "murieron varias personas"
+      },
+      {
+        "label": "NP",
+        "text": "varias personas"
+      },
+      {
+        "label": "VP",
+        "text": "y otros tantos resultaron heridos"
+      },
+      {
+        "label": "NP",
+        "text": "otros tantos resultaron heridos"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP La/NNP)\n  ocupación/MD\n  (VP israelí/VB (NP bombardeó/JJ este/NN lunes/NNS))\n  (VP varias/VBP)\n  zonas/CD\n  (NP del/NN)\n  norte/CC\n  (NP y/NN)\n  el/FW\n  (NP centro/NN)\n  de/IN\n  la/FW\n  (NP Franja/NNP)\n  de/FW\n  (NP Gaza/NNP)\n  ,/,\n  (NP como/NN resultado/NN)\n  de/IN\n  los/FW\n  (NP ataques/NNS)\n  (VP murieron/VBP (NP varias/JJ personas/NNS))\n  (VP y/VBP (NP otros/JJ tantos/NN resultaron/NN heridos/NN))\n  ./.)",
+      "(S\n  (NP Según/NNP)\n  (VP fuentes/VBZ (NP locales/NNS))\n  ,/,\n  (NP las/NNS)\n  (VP viviendas/VBP (NP bombardeadas/JJ estaban/NN) ubicadas/JJ)\n  en/FW\n  las/FW\n  (NP inmediaciones/NNS)\n  del/FW\n  (NP Hospital/NNP Kamal/NNP Adwan/NNP)\n  ,/,\n  (NP lo/NN que/NN causó/NN)\n  la/FW\n  muerte/FW\n  de/FW\n  varias/FW\n  (NP personas/NNS)\n  ./.)",
+      "(S\n  (NP Durante/NNP la/NNP jornada/NNP)\n  (VP falleció/VBD un/JJ niño/JJ)\n  en/FW\n  el/FW\n  (NP Hospital/NNP Bautista/NNP)\n  ,/,\n  (NP quien/NN fue/NN trasladado/NN)\n  del/FW\n  (NP Hospital/NNP Kamal/NNP Adwan/NNP)\n  ,/,\n  (NP lo/NN que/NN resalta/NN)\n  la/FW\n  vulnerabilidad/FW\n  de/FW\n  la/FW\n  población/FW\n  (ADJP civil/JJ)\n  en/FW\n  medio/FW\n  de/FW\n  un/FW\n  (NP conflicto/NN que/NN)\n  (NP no/DT cesa/NN)\n  ./.)",
+      "(S\n  (NP La/NNP zona/NNP)\n  de/FW\n  (NP Saftawi/NNP)\n  ,/,\n  (ADJP al/JJ)\n  norte/FW\n  de/FW\n  (NP Gaza/NNP)\n  ,/,\n  (NP también/NN)\n  (NP fue/JJ víctima/NN)\n  de/IN\n  los/FW\n  (NP ataques/NNS)\n  (VP del/VBP (NP Ejército/NNP))\n  (PP de/IN (NP Israel/NNP))\n  ,/,\n  (NP donde/NN)\n  (NP una/JJ persona/NN perdió/NN la/NN vida/NN)\n  ./.)",
+      "(S\n  (NP En/NNP)\n  otro/FW\n  de/FW\n  los/FW\n  (NP ataques/NNS)\n  ,/,\n  la/FW\n  entidad/FW\n  (NP sionista/NN bombardeó/NN con/NN)\n  (VP aviones/VBZ (NP no/DT tripulados/JJ dos/NN))\n  viviendas/FW\n  de/FW\n  familias/FW\n  palestinas/FW\n  en/FW\n  el/FW\n  campamento/FW\n  de/FW\n  (NP Al-Nuseirat/NNP)\n  ,/,\n  en/FW\n  el/FW\n  centro/FW\n  de/FW\n  la/FW\n  (NP Franja/NNP)\n  de/FW\n  (NP Gaza/NNP)\n  ,/,\n  (NP donde/NN murieron/NN)\n  (VP tres/VBZ (NP civiles/NNS))\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "REGIONES_PROVINCIAS",
+      "PAISES",
+      "LOCALIZACIONES_ESPECIFICAS",
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "INFRAESTRUCTURA_SERVICIOS",
+      "CONFLICTOS_ARMADOS_OPERACIONES"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "bombardeo de artillería dirigido contra las inmediaciones del parque karameesh, donde un dron lanzó",
+        "position": [
+          944,
+          1043
+        ],
+        "start": 944,
+        "end": 1043
+      },
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "bombardeó",
+        "position": [
+          21,
+          30
+        ],
+        "start": 21,
+        "end": 30
+      },
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "ocupación",
+        "position": [
+          3,
+          12
+        ],
+        "start": 3,
+        "end": 12
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "hospital",
+        "position": [
+          281,
+          289
+        ],
+        "start": 281,
+        "end": 289
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "israelí",
+        "position": [
+          13,
+          20
+        ],
+        "start": 13,
+        "end": 20
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "zona de",
+        "position": [
+          550,
+          557
+        ],
+        "start": 550,
+        "end": 557
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "parque karameesh",
+        "position": [
+          1006,
+          1022
+        ],
+        "start": 1006,
+        "end": 1022
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "centro de",
+        "position": [
+          70,
+          79
+        ],
+        "start": 70,
+        "end": 79
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "hospital kamal",
+        "position": [
+          281,
+          295
+        ],
+        "start": 281,
+        "end": 295
+      }
+    ],
+    "match_count": 9
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Franja de Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "MLRP",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Hospital Al-Shifa",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Hospital Kamal Adwan",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Al-Nuseirat",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "La Sociedad de la Media Luna Roja Palestina",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Saftawi",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Hospital Bautista",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Organización Mundial de la Salud.",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "parque Karameesh",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "La Sociedad de la Media Luna Roja Palestina",
+        "relacion": "REPORTAR",
+        "objeto": "Hospital Kamal Adwan"
+      },
+      {
+        "sujeto": "La Sociedad de la Media Luna Roja Palestina",
+        "relacion": "REPORTAR",
+        "objeto": "Hospital Al-Shifa"
+      },
+      {
+        "sujeto": "La Sociedad de la Media Luna Roja Palestina",
+        "relacion": "REPORTAR",
+        "objeto": "Gaza"
+      },
+      {
+        "sujeto": "MLRP",
+        "relacion": "REPORTAR",
+        "objeto": "Hospital Kamal Adwan"
+      },
+      {
+        "sujeto": "MLRP",
+        "relacion": "REPORTAR",
+        "objeto": "Hospital Al-Shifa"
+      },
+      {
+        "sujeto": "MLRP",
+        "relacion": "REPORTAR",
+        "objeto": "Gaza"
+      },
+      {
+        "sujeto": "Hospital Kamal Adwan",
+        "relacion": "EVACUAR_REPORTAR",
+        "objeto": "Gaza"
+      },
+      {
+        "sujeto": "Hospital Al-Shifa",
+        "relacion": "EVACUAR_REPORTAR",
+        "objeto": "Gaza"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.2023,
+    "pos": 0.017,
+    "neu": 0.96,
+    "neg": 0.023,
+    "label": "negative"
+  }
+}

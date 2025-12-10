@@ -1,0 +1,688 @@
+{
+  "url": "https://www.telesurtv.net/contabilizan-dos-muertos-en-francia-por-disturbios-tras-victoria-del-psg/",
+  "title": "Contabilizan dos muertos en Francia por disturbios tras victoria del PSG - teleSUR",
+  "section": "Deporte",
+  "tags": [
+    "Champions League",
+    "Disturbios",
+    "Francia",
+    "muerte",
+    "PSG"
+  ],
+  "text": "El triunfo del club de fútbol Paris Saint-Germain (PSG) ante el Inter de Milán, en la final de la Champions League, desencadenó una serie de incidentes violentos, saqueos y la pérdida de dos vidas: una joven de 17 años falleció en un accidente de moto en la capital, y un joven fue apuñalado en el suroeste de Francia.\nDurante la transmisión en directo del encuentro deportivo, las autoridades ya habían informado sobre disturbios públicos provocados por los aficionados, especialmente tras el primer gol del club francés, momento en el que los hinchas lanzaron fuegos artificiales y morteros. El partido finalizó 5-0.\nSin embargo, al consagrarse como campeones de la UEFA Champions League, la situación se tornó caótica, y los actos vandálicos comenzaron a proliferar. Se registraron violaciones de la propiedad privada e irrupciones en comercios, entre otras actividades delictivas.\nHasta el momento, un total de 294 personas han sido detenidas por la Prefectura de Policía de Francia. Además, se desplegaron alrededor de 5.400 agentes en todo el país para controlar los desórdenes que se producían simultáneamente durante el desarrollo del partido.\nEn relación con estos acontecimientos, el ministro del Interior francés, Bruno Retailleau, instó a las fuerzas de seguridad a actuar “con firmeza” contra aquellos que están causando los disturbios, a quienes calificó de “bárbaros y matones”.\nPor lo tanto, los bomberos parisinos utilizaron la plataforma X para emitir un aviso en el que solicitaban a la población que liberara las líneas telefónicas, siempre que no se tratara de una emergencia, considerando los incidentes que se estaban desarrollando.\nLa jornada tumultuosa en Francia ha dejado un saldo de 92 personas heridas y se han reportado 692 incendios, de los cuales 264 afectaron a vehículos.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/contabilizan-dos-muertos-en-francia-por-disturbios-tras-victoria-del-psg/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-06.json",
+    "message_index": 2277,
+    "message_id": 95366,
+    "date": "2025-06-01T10:55:07+00:00",
+    "text": "teleSUR\nContabilizan dos muertos en Francia por disturbios tras victoria del PSG\nhttps://www.telesurtv.net/contabilizan-dos-muertos-en-francia-por-disturbios-tras-victoria-del-psg/",
+    "photo_path": null,
+    "views": 1815,
+    "reactions": {
+      "🔥": 26,
+      "👀": 8,
+      "❤": 3,
+      "🤔": 1,
+      "🙏": 1
+    },
+    "total_reactions": 39
+  },
+  "preprocessing": {
+    "cleaned": "el triunfo del club de fútbol paris saint-germain (psg) ante el inter de milán, en la final de la champions league, desencadenó una serie de incidentes violentos, saqueos y la pérdida de dos vidas: una joven de 17 años falleció en un accidente de moto en la capital, y un joven fue apuñalado en el suroeste de francia. durante la transmisión en directo del encuentro deportivo, las autoridades ya habían informado sobre disturbios públicos provocados por los aficionados, especialmente tras el primer gol del club francés, momento en el que los hinchas lanzaron fuegos artificiales y morteros. el partido finalizó 5-0. sin embargo, al consagrarse como campeones de la uefa champions league, la situación se tornó caótica, y los actos vandálicos comenzaron a proliferar. se registraron violaciones de la propiedad privada e irrupciones en comercios, entre otras actividades delictivas. hasta el momento, un total de 294 personas han sido detenidas por la prefectura de policía de francia. además, se desplegaron alrededor de 5.400 agentes en todo el país para controlar los desórdenes que se producían simultáneamente durante el desarrollo del partido. en relación con estos acontecimientos, el ministro del interior francés, bruno retailleau, instó a las fuerzas de seguridad a actuar “con firmeza” contra aquellos que están causando los disturbios, a quienes calificó de “bárbaros y matones”. por lo tanto, los bomberos parisinos utilizaron la plataforma x para emitir un aviso en el que solicitaban a la población que liberara las líneas telefónicas, siempre que no se tratara de una emergencia, considerando los incidentes que se estaban desarrollando. la jornada tumultuosa en francia ha dejado un saldo de 92 personas heridas y se han reportado 692 incendios, de los cuales 264 afectaron a vehículos.",
+    "tokens": [
+      "triunfo",
+      "club",
+      "fútbol",
+      "paris",
+      "saint-germain",
+      "(",
+      "psg",
+      ")",
+      "inter",
+      "milán",
+      ",",
+      "final",
+      "champions",
+      "league",
+      ",",
+      "desencadenó",
+      "serie",
+      "incidentes",
+      "violentos",
+      ",",
+      "saqueos",
+      "pérdida",
+      "dos",
+      "vidas",
+      ":",
+      "joven",
+      "17",
+      "años",
+      "falleció",
+      "accidente",
+      "moto",
+      "capital",
+      ",",
+      "joven",
+      "apuñalado",
+      "suroeste",
+      "francia",
+      ".",
+      "transmisión",
+      "directo",
+      "encuentro",
+      "deportivo",
+      ",",
+      "autoridades",
+      "informado",
+      "disturbios",
+      "públicos",
+      "provocados",
+      "aficionados",
+      ",",
+      "especialmente",
+      "tras",
+      "primer",
+      "gol",
+      "club",
+      "francés",
+      ",",
+      "momento",
+      "hinchas",
+      "lanzaron",
+      "fuegos",
+      "artificiales",
+      "morteros",
+      ".",
+      "partido",
+      "finalizó",
+      "5-0.",
+      "embargo",
+      ",",
+      "consagrarse",
+      "campeones",
+      "uefa",
+      "champions",
+      "league",
+      ",",
+      "situación",
+      "tornó",
+      "caótica",
+      ",",
+      "actos",
+      "vandálicos",
+      "comenzaron",
+      "proliferar",
+      ".",
+      "registraron",
+      "violaciones",
+      "propiedad",
+      "privada",
+      "irrupciones",
+      "comercios",
+      ",",
+      "actividades",
+      "delictivas",
+      ".",
+      "momento",
+      ",",
+      "total",
+      "294",
+      "personas",
+      "sido",
+      "detenidas",
+      "prefectura",
+      "policía",
+      "francia",
+      ".",
+      "además",
+      ",",
+      "desplegaron",
+      "alrededor",
+      "5.400",
+      "agentes",
+      "país",
+      "controlar",
+      "desórdenes",
+      "producían",
+      "simultáneamente",
+      "desarrollo",
+      "partido",
+      ".",
+      "relación",
+      "acontecimientos",
+      ",",
+      "ministro",
+      "interior",
+      "francés",
+      ",",
+      "bruno",
+      "retailleau",
+      ",",
+      "instó",
+      "fuerzas",
+      "seguridad",
+      "actuar",
+      "“",
+      "firmeza",
+      "”",
+      "aquellos",
+      "causando",
+      "disturbios",
+      ",",
+      "calificó",
+      "“",
+      "bárbaros",
+      "matones",
+      "”",
+      ".",
+      ",",
+      "bomberos",
+      "parisinos",
+      "utilizaron",
+      "plataforma",
+      "x",
+      "emitir",
+      "aviso",
+      "solicitaban",
+      "población",
+      "liberara",
+      "líneas",
+      "telefónicas",
+      ",",
+      "siempre",
+      "tratara",
+      "emergencia",
+      ",",
+      "considerando",
+      "incidentes",
+      "desarrollando",
+      ".",
+      "jornada",
+      "tumultuosa",
+      "francia",
+      "dejado",
+      "saldo",
+      "92",
+      "personas",
+      "heridas",
+      "reportado",
+      "692",
+      "incendios",
+      ",",
+      "cuales",
+      "264",
+      "afectaron",
+      "vehículos",
+      "."
+    ],
+    "token_count": 185,
+    "sentence_count": 10
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 31,
+      "NN": 102,
+      "IN": 18,
+      "JJ": 36,
+      "VBZ": 2,
+      "FW": 40,
+      "NNS": 22,
+      "VBP": 10,
+      "CD": 6,
+      "VBD": 2,
+      "DT": 1
+    },
+    "bigram_freq": {
+      "NNP-NN": 13,
+      "NN-NN": 53,
+      "NN-IN": 12,
+      "IN-JJ": 4,
+      "JJ-NNP": 2,
+      "NNP-NNP": 11,
+      "NNP-VBZ": 1,
+      "VBZ-FW": 1,
+      "FW-NNP": 9,
+      "NNP-FW": 5,
+      "FW-FW": 15,
+      "FW-JJ": 6,
+      "JJ-FW": 4,
+      "NN-JJ": 11,
+      "JJ-NN": 26,
+      "IN-NNS": 2,
+      "NNS-NNS": 1,
+      "NNS-VBP": 9,
+      "VBP-JJ": 6,
+      "IN-CD": 4,
+      "CD-NNS": 5,
+      "NNS-JJ": 3,
+      "IN-FW": 6,
+      "FW-NN": 7,
+      "IN-NNP": 1,
+      "NN-FW": 8,
+      "NN-NNS": 9,
+      "NNS-IN": 5,
+      "VBP-NNP": 2,
+      "NN-VBD": 1,
+      "VBD-JJ": 2,
+      "NN-NNP": 4,
+      "FW-NNS": 3,
+      "JJ-NNS": 2,
+      "JJ-JJ": 2,
+      "NNP-VBD": 1,
+      "IN-NN": 1,
+      "VBP-IN": 1,
+      "NNS-NN": 1,
+      "NNS-NNP": 1,
+      "NN-DT": 1,
+      "DT-JJ": 1,
+      "NN-VBZ": 1,
+      "VBZ-JJ": 1,
+      "NN-VBP": 1,
+      "VBP-CD": 1,
+      "NNS-FW": 1,
+      "NNS-CD": 1,
+      "CD-NN": 1
+    },
+    "trigram_freq": {
+      "NNP-NN-NN": 7,
+      "NN-NN-NN": 25,
+      "NN-NN-IN": 2,
+      "NN-IN-JJ": 3,
+      "IN-JJ-NNP": 1,
+      "JJ-NNP-NNP": 1,
+      "NNP-NNP-NNP": 4,
+      "NNP-NNP-VBZ": 1,
+      "NNP-VBZ-FW": 1,
+      "VBZ-FW-NNP": 1,
+      "FW-NNP-FW": 4,
+      "NNP-FW-NNP": 3,
+      "NNP-FW-FW": 1,
+      "FW-FW-JJ": 3,
+      "FW-JJ-FW": 1,
+      "JJ-FW-FW": 2,
+      "FW-FW-NNP": 2,
+      "FW-NNP-NNP": 3,
+      "NNP-NNP-NN": 4,
+      "NNP-NN-JJ": 1,
+      "NN-JJ-NN": 10,
+      "JJ-NN-IN": 9,
+      "NN-IN-NNS": 1,
+      "IN-NNS-NNS": 1,
+      "NNS-NNS-VBP": 1,
+      "NNS-VBP-JJ": 6,
+      "VBP-JJ-FW": 1,
+      "FW-FW-FW": 7,
+      "FW-JJ-NN": 5,
+      "NN-IN-CD": 4,
+      "IN-CD-NNS": 4,
+      "CD-NNS-JJ": 3,
+      "NNS-JJ-FW": 2,
+      "JJ-FW-JJ": 1,
+      "NN-IN-FW": 3,
+      "IN-FW-FW": 2,
+      "FW-FW-NN": 1,
+      "FW-NN-JJ": 1,
+      "JJ-NN-NN": 15,
+      "IN-JJ-NN": 3,
+      "NN-IN-NNP": 1,
+      "IN-NNP-NNP": 1,
+      "NNP-NNP-FW": 1,
+      "NNP-FW-NN": 1,
+      "FW-NN-FW": 1,
+      "NN-FW-NN": 4,
+      "FW-NN-NN": 4,
+      "NN-NN-NNS": 5,
+      "NN-NNS-IN": 3,
+      "NNS-IN-JJ": 1,
+      "NN-NNS-VBP": 6,
+      "VBP-JJ-NN": 4,
+      "NN-NN-JJ": 9,
+      "JJ-NN-NNS": 2,
+      "NN-NN-FW": 6,
+      "NN-FW-FW": 2,
+      "NNS-VBP-NNP": 2,
+      "VBP-NNP-NN": 2,
+      "NNP-NN-VBD": 1,
+      "NN-VBD-JJ": 1,
+      "VBD-JJ-NNP": 1,
+      "JJ-NNP-NN": 1,
+      "NNS-IN-FW": 2,
+      "IN-FW-NNP": 1,
+      "NN-NN-NNP": 3,
+      "NN-NNP-NN": 2,
+      "NNP-NN-NNS": 2,
+      "FW-FW-NNS": 2,
+      "FW-NNS-IN": 1,
+      "NNS-IN-NNS": 1,
+      "IN-NNS-VBP": 1,
+      "VBP-JJ-NNS": 1,
+      "JJ-NNS-VBP": 1,
+      "NNS-JJ-JJ": 1,
+      "JJ-JJ-NN": 2,
+      "NN-FW-NNP": 2,
+      "NNP-NNP-VBD": 1,
+      "NNP-VBD-JJ": 1,
+      "VBD-JJ-NN": 1,
+      "CD-NNS-IN": 1,
+      "NNS-IN-NN": 1,
+      "IN-NN-NN": 1,
+      "FW-NNP-NN": 2,
+      "NNP-NN-NNP": 1,
+      "NN-NNP-NNP": 2,
+      "NNS-VBP-IN": 1,
+      "VBP-IN-FW": 1,
+      "IN-FW-JJ": 2,
+      "NN-JJ-NNS": 1,
+      "JJ-NNS-NN": 1,
+      "NNS-NN-IN": 1,
+      "IN-FW-NNS": 1,
+      "FW-NNS-NNP": 1,
+      "NNS-NNP-NN": 1,
+      "NN-NN-DT": 1,
+      "NN-DT-JJ": 1,
+      "DT-JJ-NN": 1,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-JJ": 1,
+      "VBZ-JJ-JJ": 1,
+      "NNP-NN-FW": 1,
+      "JJ-FW-NN": 1,
+      "FW-NN-VBP": 1,
+      "NN-VBP-CD": 1,
+      "VBP-CD-NNS": 1,
+      "CD-NNS-FW": 1,
+      "NNS-FW-FW": 1,
+      "FW-NNS-CD": 1,
+      "NNS-CD-NN": 1,
+      "CD-NN-NN": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 102,
+        "FW": 40,
+        "JJ": 36,
+        "NNP": 31,
+        "NNS": 22
+      },
+      "top_bigrams": {
+        "NN-NN": 53,
+        "JJ-NN": 26,
+        "FW-FW": 15,
+        "NNP-NN": 13,
+        "NN-IN": 12
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 25,
+        "JJ-NN-NN": 15,
+        "NN-JJ-NN": 10,
+        "JJ-NN-IN": 9,
+        "NN-NN-JJ": 9
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 10,
+    "chunk_counts": {
+      "NP": 84,
+      "PP": 9,
+      "VP": 15,
+      "ADJP": 3
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 5,
+        "weight": 0.0413
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 3,
+        "weight": 0.0248
+      },
+      {
+        "rule": "NP -> ('Francia', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0165
+      },
+      {
+        "rule": "NP -> ('personas', 'NNS')",
+        "frequency": 2,
+        "weight": 0.0165
+      },
+      {
+        "rule": "VP -> ('que', 'VBP') NP",
+        "frequency": 2,
+        "weight": 0.0165
+      },
+      {
+        "rule": "S -> NP PP ('(', '(') NP (')', ')') VP ('de', 'FW') NP (',', ',') ('en', 'FW') ('la', 'FW') ADJP ('de', 'FW') ('la', 'FW') NP (',', ',') NP NP PP (',', ',') NP ('pérdida', 'FW') ('de', 'FW') ('dos', 'FW') NP (':', ':') NP ('de', 'IN') ('17', 'CD') NP ADJP ('en', 'FW') NP ('de', 'IN') ('moto', 'FW') ('en', 'FW') ('la', 'FW') NP (',', ',') ('y', 'CC') NP PP PP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0083
+      },
+      {
+        "rule": "NP -> ('El', 'NNP') ('triunfo', 'NN') ('del', 'NN') ('club', 'NN')",
+        "frequency": 1,
+        "weight": 0.0083
+      },
+      {
+        "rule": "NP -> ('fútbol', 'JJ') ('Paris', 'NNP') ('Saint-Germain', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0083
+      },
+      {
+        "rule": "NP -> ('PSG', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0083
+      },
+      {
+        "rule": "VP -> ('ante', 'VBP') NP",
+        "frequency": 1,
+        "weight": 0.0083
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El triunfo del club"
+      },
+      {
+        "label": "PP",
+        "text": "de fútbol Paris Saint-Germain"
+      },
+      {
+        "label": "NP",
+        "text": "fútbol Paris Saint-Germain"
+      },
+      {
+        "label": "NP",
+        "text": "PSG"
+      },
+      {
+        "label": "VP",
+        "text": "ante el Inter"
+      },
+      {
+        "label": "NP",
+        "text": "el Inter"
+      },
+      {
+        "label": "NP",
+        "text": "Milán"
+      },
+      {
+        "label": "ADJP",
+        "text": "final"
+      },
+      {
+        "label": "NP",
+        "text": "Champions League"
+      },
+      {
+        "label": "NP",
+        "text": "desencadenó"
+      },
+      {
+        "label": "NP",
+        "text": "una serie"
+      },
+      {
+        "label": "PP",
+        "text": "de incidentes violentos"
+      },
+      {
+        "label": "NP",
+        "text": "incidentes violentos"
+      },
+      {
+        "label": "NP",
+        "text": "saqueos y la"
+      },
+      {
+        "label": "NP",
+        "text": "vidas"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP El/NNP triunfo/NN del/NN club/NN)\n  (PP de/IN (NP fútbol/JJ Paris/NNP Saint-Germain/NNP))\n  (/(\n  (NP PSG/NNP)\n  )/)\n  (VP ante/VBP (NP el/JJ Inter/NNP))\n  de/FW\n  (NP Milán/NNP)\n  ,/,\n  en/FW\n  la/FW\n  (ADJP final/JJ)\n  de/FW\n  la/FW\n  (NP Champions/NNP League/NNP)\n  ,/,\n  (NP desencadenó/NN)\n  (NP una/JJ serie/NN)\n  (PP de/IN (NP incidentes/NNS violentos/NNS))\n  ,/,\n  (NP saqueos/JJ y/NN la/NN)\n  pérdida/FW\n  de/FW\n  dos/FW\n  (NP vidas/NNS)\n  :/:\n  (NP una/JJ joven/NN)\n  de/IN\n  17/CD\n  (NP años/NNS)\n  (ADJP falleció/JJ)\n  en/FW\n  (NP un/JJ accidente/NN)\n  de/IN\n  moto/FW\n  en/FW\n  la/FW\n  (NP capital/NN)\n  ,/,\n  y/CC\n  (NP un/JJ joven/NN fue/NN apuñalado/NN)\n  (PP en/IN (NP el/JJ suroeste/NN))\n  (PP de/IN (NP Francia/NNP))\n  ./.)",
+      "(S\n  (NP Durante/NNP la/NNP transmisión/NNP)\n  en/FW\n  (NP directo/NN)\n  del/FW\n  (NP encuentro/NN deportivo/NN)\n  ,/,\n  las/FW\n  (NP autoridades/NNS)\n  (VP ya/VBP (NP habían/JJ informado/NN sobre/NN disturbios/NNS))\n  (VP públicos/VBP (NP provocados/JJ por/NN los/NN aficionados/NN))\n  ,/,\n  (NP especialmente/JJ tras/NNS)\n  (VP el/VBP (NP primer/JJ gol/NN del/NN club/NN francés/NN))\n  ,/,\n  momento/FW\n  en/FW\n  el/FW\n  que/FW\n  los/FW\n  (NP hinchas/JJ lanzaron/NN fuegos/NN artificiales/NNS)\n  y/RB\n  (NP morteros/NNS)\n  ./.)",
+      "(S (NP El/NNP partido/NN) (VP finalizó/VBD) 5-0/CD ./.)",
+      "(S\n  (NP Sin/NNP embargo/NN)\n  ,/,\n  (NP al/JJ consagrarse/NN como/NN campeones/NNS)\n  de/IN\n  la/FW\n  (NP UEFA/NNP Champions/NNP League/NNP)\n  ,/,\n  (NP la/NN)\n  situación/FW\n  se/FW\n  (NP tornó/NN caótica/NN)\n  ,/,\n  y/CC\n  (NP los/JJ actos/NN vandálicos/NN)\n  (VP comenzaron/VBZ (NP a/DT proliferar/NN))\n  ./.)",
+      "(S\n  (NP Se/NNP registraron/NN violaciones/NNS)\n  de/IN\n  la/FW\n  propiedad/FW\n  privada/FW\n  e/FW\n  (NP irrupciones/NNS)\n  (PP en/IN (NP comercios/NNS))\n  ,/,\n  entre/FW\n  otras/FW\n  (NP actividades/NNS)\n  (VP delictivas/VBP)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "GOBIERNOS_OFICIALES",
+      "CANTIDADES_NUMERICAS",
+      "ANTIIMPERIALISMO_SOBERANIA",
+      "PAISES",
+      "ECONOMIA_COMERCIO_FINANZAS"
+    ],
+    "matches": [
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "capital",
+        "position": [
+          258,
+          265
+        ],
+        "start": 258,
+        "end": 265
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "ministro del interior francés",
+        "position": [
+          1194,
+          1223
+        ],
+        "start": 1194,
+        "end": 1223
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "francia",
+        "position": [
+          310,
+          317
+        ],
+        "start": 310,
+        "end": 317
+      },
+      {
+        "category": "ANTIIMPERIALISMO_SOBERANIA",
+        "matched_text": "embargo",
+        "position": [
+          623,
+          630
+        ],
+        "start": 623,
+        "end": 630
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "294 personas",
+        "position": [
+          915,
+          927
+        ],
+        "start": 915,
+        "end": 927
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "92 personas",
+        "position": [
+          1711,
+          1722
+        ],
+        "start": 1711,
+        "end": 1722
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "alrededor de 5.400",
+        "position": [
+          1011,
+          1029
+        ],
+        "start": 1011,
+        "end": 1029
+      }
+    ],
+    "match_count": 7
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Prefectura de Policía de Francia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Francia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "PSG",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Inter de Milán",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Paris Saint-Germain",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Bruno Retailleau",
+        "tipo": "Persona"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Paris Saint-Germain",
+        "relacion": "DESENCADENAR",
+        "objeto": "Francia"
+      },
+      {
+        "sujeto": "PSG",
+        "relacion": "DESENCADENAR",
+        "objeto": "Francia"
+      },
+      {
+        "sujeto": "Inter de Milán",
+        "relacion": "DESENCADENAR",
+        "objeto": "Francia"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.5267,
+    "pos": 0.033,
+    "neu": 0.946,
+    "neg": 0.021,
+    "label": "positive"
+  }
+}

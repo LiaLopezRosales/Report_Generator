@@ -1,0 +1,605 @@
+{
+  "url": "https://www.telesurtv.net/presidenta-de-mexico-presenta-campana-contra-la-violencia-de-genero/",
+  "title": "Presidenta de México presenta campaña contra la violencia de género - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "Claudia Sheinbaum",
+    "México",
+    "mujeres",
+    "Violencia"
+  ],
+  "text": "La presidenta de México, Claudia Sheinbaum, presentó este lunes una campaña permanente contra la violencia de género.\n“Tiempo de Mujeres Sin Violencia es parte de las acciones para proteger y garantizar los derechos plenos de las niñas, jóvenes y mujeres”, dijo la mandataria sobre esta iniciativa, que pretende además visibilizar acciones que aparentemente pasan desapercibidas, pero que constituyen acciones violentas.\nEsta iniciativa del Gobierno mexicano fue respaldada por representantes de las Naciones Unidas (ONU) y funcionarias del Gobierno federal, lo que refuerza su importancia.\nAdemás, la propuesta de reformas constitucionales y leyes secundarias en el Senado para garantizar la “impunidad cero” es prometedora, según lo dicho respecto a esta campaña.\nLa creación de una Fiscalía especializada para atender la violencia contra mujeres, particularmente el feminicidio, es otro de los pasos que dará el Gobierno para garantizar la protección de los derechos de las mujeres en el país.\nPor otro lado, se puntualizaron las estadísticas que exponen al menos diez mujeres asesinadas diariamente, lo que robustece el papel de la existencia de esta campaña.\nLa presentación de la iniciativa ocurre en paralelo al día en que se recuerda a las hermanas Mirabal, un símbolo de la lucha contra la violencia de género.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/presidenta-de-mexico-presenta-campana-contra-la-violencia-de-genero/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-11.json",
+    "message_index": 300,
+    "message_id": 81177,
+    "date": "2024-11-26T01:55:23+00:00",
+    "text": "teleSUR\nPresidenta de México presenta campaña contra la violencia de género\nhttps://www.telesurtv.net/presidenta-de-mexico-presenta-campana-contra-la-violencia-de-genero/",
+    "photo_path": null,
+    "views": 2361,
+    "reactions": {
+      "👍": 57,
+      "❤": 6,
+      "🙏": 3,
+      "🤔": 1
+    },
+    "total_reactions": 67
+  },
+  "preprocessing": {
+    "cleaned": "la presidenta de méxico, claudia sheinbaum, presentó este lunes una campaña permanente contra la violencia de género. “tiempo de mujeres sin violencia es parte de las acciones para proteger y garantizar los derechos plenos de las niñas, jóvenes y mujeres”, dijo la mandataria sobre esta iniciativa, que pretende además visibilizar acciones que aparentemente pasan desapercibidas, pero que constituyen acciones violentas. esta iniciativa del gobierno mexicano fue respaldada por representantes de las naciones unidas (onu) y funcionarias del gobierno federal, lo que refuerza su importancia. además, la propuesta de reformas constitucionales y leyes secundarias en el senado para garantizar la “impunidad cero” es prometedora, según lo dicho respecto a esta campaña. la creación de una fiscalía especializada para atender la violencia contra mujeres, particularmente el feminicidio, es otro de los pasos que dará el gobierno para garantizar la protección de los derechos de las mujeres en el país. por otro lado, se puntualizaron las estadísticas que exponen al menos diez mujeres asesinadas diariamente, lo que robustece el papel de la existencia de esta campaña. la presentación de la iniciativa ocurre en paralelo al día en que se recuerda a las hermanas mirabal, un símbolo de la lucha contra la violencia de género.",
+    "tokens": [
+      "presidenta",
+      "méxico",
+      ",",
+      "claudia",
+      "sheinbaum",
+      ",",
+      "presentó",
+      "lunes",
+      "campaña",
+      "permanente",
+      "violencia",
+      "género",
+      ".",
+      "“",
+      "tiempo",
+      "mujeres",
+      "violencia",
+      "parte",
+      "acciones",
+      "proteger",
+      "garantizar",
+      "derechos",
+      "plenos",
+      "niñas",
+      ",",
+      "jóvenes",
+      "mujeres",
+      "”",
+      ",",
+      "dijo",
+      "mandataria",
+      "iniciativa",
+      ",",
+      "pretende",
+      "además",
+      "visibilizar",
+      "acciones",
+      "aparentemente",
+      "pasan",
+      "desapercibidas",
+      ",",
+      "constituyen",
+      "acciones",
+      "violentas",
+      ".",
+      "iniciativa",
+      "gobierno",
+      "mexicano",
+      "respaldada",
+      "representantes",
+      "naciones",
+      "unidas",
+      "(",
+      "onu",
+      ")",
+      "funcionarias",
+      "gobierno",
+      "federal",
+      ",",
+      "refuerza",
+      "importancia",
+      ".",
+      "además",
+      ",",
+      "propuesta",
+      "reformas",
+      "constitucionales",
+      "leyes",
+      "secundarias",
+      "senado",
+      "garantizar",
+      "“",
+      "impunidad",
+      "cero",
+      "”",
+      "prometedora",
+      ",",
+      "según",
+      "dicho",
+      "respecto",
+      "campaña",
+      ".",
+      "creación",
+      "fiscalía",
+      "especializada",
+      "atender",
+      "violencia",
+      "mujeres",
+      ",",
+      "particularmente",
+      "feminicidio",
+      ",",
+      "pasos",
+      "dará",
+      "gobierno",
+      "garantizar",
+      "protección",
+      "derechos",
+      "mujeres",
+      "país",
+      ".",
+      "lado",
+      ",",
+      "puntualizaron",
+      "estadísticas",
+      "exponen",
+      "menos",
+      "diez",
+      "mujeres",
+      "asesinadas",
+      "diariamente",
+      ",",
+      "robustece",
+      "papel",
+      "existencia",
+      "campaña",
+      ".",
+      "presentación",
+      "iniciativa",
+      "ocurre",
+      "paralelo",
+      "día",
+      "recuerda",
+      "hermanas",
+      "mirabal",
+      ",",
+      "símbolo",
+      "lucha",
+      "violencia",
+      "género",
+      "."
+    ],
+    "token_count": 131,
+    "sentence_count": 7
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 23,
+      "FW": 63,
+      "NN": 60,
+      "NNS": 13,
+      "JJ": 18,
+      "IN": 4,
+      "RB": 1,
+      "VBP": 10,
+      "VBZ": 2,
+      "VBD": 1
+    },
+    "bigram_freq": {
+      "NNP-FW": 6,
+      "FW-FW": 41,
+      "FW-NNP": 7,
+      "NNP-NNP": 7,
+      "NNP-NN": 5,
+      "NN-NN": 36,
+      "NN-NNS": 4,
+      "NNS-JJ": 1,
+      "JJ-NN": 11,
+      "NN-FW": 8,
+      "FW-NN": 7,
+      "NN-IN": 3,
+      "IN-FW": 4,
+      "FW-NNS": 3,
+      "NNS-RB": 1,
+      "RB-VBP": 1,
+      "VBP-JJ": 8,
+      "NN-JJ": 2,
+      "FW-JJ": 4,
+      "JJ-NNS": 4,
+      "NNS-NNS": 2,
+      "NNS-VBP": 8,
+      "JJ-JJ": 1,
+      "NNS-NNP": 1,
+      "NNP-VBP": 1,
+      "VBP-NN": 1,
+      "NN-NNP": 6,
+      "NN-VBZ": 1,
+      "VBZ-IN": 1,
+      "NNP-VBD": 1,
+      "VBD-FW": 1,
+      "NNP-JJ": 2,
+      "JJ-FW": 2,
+      "NNP-VBZ": 1,
+      "VBZ-FW": 1,
+      "VBP-NNP": 1
+    },
+    "trigram_freq": {
+      "NNP-FW-FW": 3,
+      "FW-FW-NNP": 4,
+      "FW-NNP-NNP": 3,
+      "NNP-NNP-NNP": 3,
+      "NNP-NNP-NN": 1,
+      "NNP-NN-NN": 4,
+      "NN-NN-NNS": 2,
+      "NN-NNS-JJ": 1,
+      "NNS-JJ-NN": 1,
+      "JJ-NN-NN": 6,
+      "NN-NN-NN": 25,
+      "NN-NN-FW": 4,
+      "NN-FW-FW": 5,
+      "FW-FW-FW": 29,
+      "FW-NNP-FW": 2,
+      "NNP-FW-NNP": 1,
+      "NNP-NNP-FW": 2,
+      "NNP-FW-NN": 2,
+      "FW-NN-IN": 1,
+      "NN-IN-FW": 3,
+      "IN-FW-NNS": 1,
+      "FW-NNS-RB": 1,
+      "NNS-RB-VBP": 1,
+      "RB-VBP-JJ": 1,
+      "VBP-JJ-NN": 5,
+      "JJ-NN-JJ": 1,
+      "NN-JJ-NN": 1,
+      "JJ-NN-IN": 2,
+      "IN-FW-JJ": 1,
+      "FW-JJ-NNS": 2,
+      "JJ-NNS-NNS": 2,
+      "NNS-NNS-VBP": 1,
+      "NNS-VBP-JJ": 7,
+      "VBP-JJ-NNS": 1,
+      "JJ-NNS-VBP": 2,
+      "NN-NNS-VBP": 3,
+      "VBP-JJ-JJ": 1,
+      "JJ-JJ-NN": 1,
+      "NN-NN-JJ": 1,
+      "NN-JJ-NNS": 1,
+      "NNS-NNS-NNP": 1,
+      "NNS-NNP-VBP": 1,
+      "NNP-VBP-NN": 1,
+      "VBP-NN-NNP": 1,
+      "NN-NNP-NN": 3,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-IN": 1,
+      "VBZ-IN-FW": 1,
+      "IN-FW-NNP": 1,
+      "NNP-NNP-VBD": 1,
+      "NNP-VBD-FW": 1,
+      "VBD-FW-NNP": 1,
+      "FW-NNP-JJ": 1,
+      "NNP-JJ-NN": 2,
+      "NN-NN-NNP": 3,
+      "NN-NNP-NNP": 1,
+      "FW-FW-NNS": 2,
+      "FW-NNS-VBP": 2,
+      "VBP-JJ-FW": 1,
+      "JJ-FW-FW": 2,
+      "FW-NNP-NN": 1,
+      "NNP-NN-FW": 1,
+      "FW-NN-NN": 1,
+      "NN-FW-JJ": 1,
+      "JJ-NN-FW": 1,
+      "FW-FW-JJ": 2,
+      "FW-JJ-NN": 1,
+      "JJ-NN-NNP": 1,
+      "NN-NNP-VBZ": 1,
+      "NNP-VBZ-FW": 1,
+      "VBZ-FW-FW": 1,
+      "FW-FW-NN": 3,
+      "FW-NN-NNS": 2,
+      "FW-NN-NNP": 1,
+      "NN-NNP-FW": 1,
+      "FW-NN-FW": 2,
+      "NN-FW-NN": 2,
+      "NNS-VBP-NNP": 1,
+      "VBP-NNP-JJ": 1,
+      "IN-FW-FW": 1,
+      "FW-JJ-FW": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "FW": 63,
+        "NN": 60,
+        "NNP": 23,
+        "JJ": 18,
+        "NNS": 13
+      },
+      "top_bigrams": {
+        "FW-FW": 41,
+        "NN-NN": 36,
+        "JJ-NN": 11,
+        "NN-FW": 8,
+        "VBP-JJ": 8
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 29,
+        "NN-NN-NN": 25,
+        "NNS-VBP-JJ": 7,
+        "JJ-NN-NN": 6,
+        "NN-FW-FW": 5
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 7,
+    "chunk_counts": {
+      "NP": 50,
+      "VP": 10,
+      "ADJP": 2
+    },
+    "top_rules": [
+      {
+        "rule": "NP -> ('La', 'NNP')",
+        "frequency": 2,
+        "weight": 0.029
+      },
+      {
+        "rule": "VP -> ('y', 'VBP') NP",
+        "frequency": 2,
+        "weight": 0.029
+      },
+      {
+        "rule": "S -> NP ('presidenta', 'FW') ('de', 'FW') NP (',', ',') NP (',', ',') NP NP ('la', 'FW') ('violencia', 'FW') ('de', 'FW') ('género', 'FW') ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0145
+      },
+      {
+        "rule": "NP -> ('México', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0145
+      },
+      {
+        "rule": "NP -> ('Claudia', 'NNP') ('Sheinbaum', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0145
+      },
+      {
+        "rule": "NP -> ('presentó', 'NN') ('este', 'NN') ('lunes', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0145
+      },
+      {
+        "rule": "NP -> ('una', 'JJ') ('campaña', 'NN') ('permanente', 'NN') ('contra', 'NN')",
+        "frequency": 1,
+        "weight": 0.0145
+      },
+      {
+        "rule": "S -> NP ('de', 'FW') NP ('es', 'FW') NP ('de', 'IN') ('las', 'FW') NP ('para', 'RB') VP ('de', 'IN') ('las', 'FW') ('niñas', 'FW') (',', ',') NP VP (',', ',') NP ('mandataria', 'FW') NP (',', ',') NP VP (',', ',') NP NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0145
+      },
+      {
+        "rule": "NP -> ('“', 'JJ') ('Tiempo', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0145
+      },
+      {
+        "rule": "NP -> ('Mujeres', 'NNP') ('Sin', 'NNP') ('Violencia', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0145
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "La"
+      },
+      {
+        "label": "NP",
+        "text": "México"
+      },
+      {
+        "label": "NP",
+        "text": "Claudia Sheinbaum"
+      },
+      {
+        "label": "NP",
+        "text": "presentó este lunes"
+      },
+      {
+        "label": "NP",
+        "text": "una campaña permanente contra"
+      },
+      {
+        "label": "NP",
+        "text": "“ Tiempo"
+      },
+      {
+        "label": "NP",
+        "text": "Mujeres Sin Violencia"
+      },
+      {
+        "label": "NP",
+        "text": "parte"
+      },
+      {
+        "label": "NP",
+        "text": "acciones"
+      },
+      {
+        "label": "VP",
+        "text": "proteger y garantizar los derechos plenos"
+      },
+      {
+        "label": "NP",
+        "text": "y garantizar los"
+      },
+      {
+        "label": "NP",
+        "text": "derechos plenos"
+      },
+      {
+        "label": "NP",
+        "text": "jóvenes"
+      },
+      {
+        "label": "VP",
+        "text": "y mujeres ”"
+      },
+      {
+        "label": "NP",
+        "text": "mujeres ”"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP La/NNP)\n  presidenta/FW\n  de/FW\n  (NP México/NNP)\n  ,/,\n  (NP Claudia/NNP Sheinbaum/NNP)\n  ,/,\n  (NP presentó/NN este/NN lunes/NNS)\n  (NP una/JJ campaña/NN permanente/NN contra/NN)\n  la/FW\n  violencia/FW\n  de/FW\n  género/FW\n  ./.)",
+      "(S\n  (NP “/JJ Tiempo/NNP)\n  de/FW\n  (NP Mujeres/NNP Sin/NNP Violencia/NNP)\n  es/FW\n  (NP parte/NN)\n  de/IN\n  las/FW\n  (NP acciones/NNS)\n  para/RB\n  (VP\n    proteger/VBP\n    (NP y/JJ garantizar/NN los/NN)\n    (NP derechos/JJ plenos/NN))\n  de/IN\n  las/FW\n  niñas/FW\n  ,/,\n  (NP jóvenes/NNS)\n  (VP y/VBP (NP mujeres/NNS ”/NNP))\n  ,/,\n  (NP dijo/NN la/NN)\n  mandataria/FW\n  (NP sobre/NN esta/NN iniciativa/NN)\n  ,/,\n  (NP que/JJ pretende/NN además/NN visibilizar/NN acciones/NNS)\n  (VP que/VBP (NP aparentemente/JJ pasan/JJ desapercibidas/NN))\n  ,/,\n  (NP pero/NN que/NN)\n  (NP constituyen/JJ acciones/NNS violentas/NNS)\n  ./.)",
+      "(S\n  (NP Esta/NNP)\n  (NP\n    iniciativa/JJ\n    del/NN\n    Gobierno/NNP\n    mexicano/NN\n    fue/NN\n    respaldada/NN\n    por/NN)\n  (VP representantes/VBZ)\n  de/IN\n  las/FW\n  (NP Naciones/NNP Unidas/NNP)\n  (/(\n  (NP ONU/NNP)\n  )/)\n  (NP y/NN)\n  (NP funcionarias/JJ del/NN Gobierno/NNP)\n  (ADJP federal/JJ)\n  ,/,\n  (NP lo/JJ que/NN refuerza/NN su/NN importancia/NN)\n  ./.)",
+      "(S\n  (NP Además/NNP)\n  ,/,\n  la/FW\n  propuesta/FW\n  de/FW\n  reformas/FW\n  (NP constitucionales/NNS)\n  (VP y/VBP (NP leyes/JJ secundarias/NN))\n  en/FW\n  el/FW\n  (NP\n    Senado/NNP\n    para/NN\n    garantizar/NN\n    la/NN\n    “/NNP\n    impunidad/NN\n    cero/NN\n    ”/NNP\n    es/NN\n    prometedora/NN)\n  ,/,\n  (NP según/JJ lo/NN dicho/NN)\n  (VP respecto/VBZ (NP a/DT esta/JJ campaña/NN))\n  ./.)",
+      "(S\n  (NP La/NNP creación/NN)\n  de/FW\n  una/FW\n  (NP Fiscalía/NNP)\n  especializada/FW\n  (NP para/NN atender/NN la/NN)\n  violencia/FW\n  (NP contra/NN mujeres/NNS)\n  ,/,\n  (NP particularmente/NN el/NN feminicidio/NN)\n  ,/,\n  es/FW\n  otro/FW\n  de/FW\n  los/FW\n  (NP\n    pasos/JJ\n    que/NN\n    dará/NN\n    el/NN\n    Gobierno/NNP\n    para/NN\n    garantizar/NN)\n  la/FW\n  protección/FW\n  de/FW\n  los/FW\n  derechos/FW\n  de/FW\n  las/FW\n  (NP mujeres/NNS)\n  (VP en/VBP (NP el/JJ país/NN))\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "GOBIERNOS_OFICIALES",
+      "GRUPOS_ESPECIFICOS",
+      "ORGANISMOS_INTERNACIONALES",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "PAISES",
+      "VIOLENCIA_CRIMEN_DERECHOS_HUMANOS"
+    ],
+    "matches": [
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "onu) y funcionarias del gobierno federal, lo que refuerza su importancia",
+        "position": [
+          517,
+          589
+        ],
+        "start": 517,
+        "end": 589
+      },
+      {
+        "category": "VIOLENCIA_CRIMEN_DERECHOS_HUMANOS",
+        "matched_text": "feminicidio",
+        "position": [
+          869,
+          880
+        ],
+        "start": 869,
+        "end": 880
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidenta de méxico",
+        "position": [
+          3,
+          23
+        ],
+        "start": 3,
+        "end": 23
+      },
+      {
+        "category": "ORGANISMOS_INTERNACIONALES",
+        "matched_text": "naciones unidas",
+        "position": [
+          500,
+          515
+        ],
+        "start": 500,
+        "end": 515
+      },
+      {
+        "category": "GRUPOS_ESPECIFICOS",
+        "matched_text": "mujeres",
+        "position": [
+          129,
+          136
+        ],
+        "start": 129,
+        "end": 136
+      },
+      {
+        "category": "GRUPOS_ESPECIFICOS",
+        "matched_text": "jóvenes",
+        "position": [
+          237,
+          244
+        ],
+        "start": 237,
+        "end": 244
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "méxico",
+        "position": [
+          17,
+          23
+        ],
+        "start": 17,
+        "end": 23
+      }
+    ],
+    "match_count": 7
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Mirabal",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Senado",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Gobierno mexicano",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Naciones Unidas",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "ONU",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Gobierno",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Fiscalía",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Gobierno federal",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "México",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Claudia Sheinbaum",
+        "tipo": "Persona"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Gobierno mexicano",
+        "relacion": "RESPALDAR",
+        "objeto": "Naciones Unidas"
+      },
+      {
+        "sujeto": "Gobierno mexicano",
+        "relacion": "RESPALDAR",
+        "objeto": "ONU"
+      },
+      {
+        "sujeto": "Gobierno mexicano",
+        "relacion": "RESPALDAR",
+        "objeto": "Gobierno federal"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.5574,
+    "pos": 0.0,
+    "neu": 0.982,
+    "neg": 0.018,
+    "label": "negative"
+  }
+}

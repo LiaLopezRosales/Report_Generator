@@ -1,0 +1,752 @@
+{
+  "url": "https://www.telesurtv.net/incremento-suicidio-soldados-israel-gaza/",
+  "title": "Reportan incremento de suicidio entre soldados israelíes por estrés postraumático derivado de la guerra contra Gaza - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "guerra contra gaza",
+    "Soldados Israelíes",
+    "suicidios"
+  ],
+  "text": "Informes recientes desde Israel revelan un incremento en los suicidios entre soldados israelíes que padecen Trastorno de Estrés Postraumático (TEPT), una consecuencia directa de la guerra genocida que la entidad sionista inició el 7 de octubre de 2023 contra Palestina. Desde enero de 2025, dieciséis militares que participaron activamente en operaciones contra el pueblo palestino, se han quitado la vida.\nSegún datos difundidos por medios locales, las víctimas incluyen a ocho soldados regulares, siete reservistas y un recluta en servicio permanente. La censura militar ha permitido la difusión de casos específicos como el de Ariel Tamman, miembro de la Unidad de Investigación y Examen Forense, quien fue encontrado sin vida en su domicilio en Ofakim. Otro caso reciente es el de Daniel Adry, un reservista diagnosticado con TEPT que también se quitó la vida.\n\n\nFuentes oficiales han reconocido que 3.770 soldados sufren actualmente de TEPT, y más de la mitad de los 19.000 heridos de guerra están bajo tratamiento psicológico supervisado por el Ministerio de Defensa israelí. A pesar de estas cifras, el ejército ha intentado minimizar el impacto, afirmando que “es imposible asegurar un aumento general”.\nEn este sentido, se han implementado talleres y derivaciones a psicólogos para los soldados que regresan del combate. No obstante, especialistas en salud mental advierten que estas medidas son insuficientes y que urge la implementación de programas de seguimiento sostenidos y a largo plazo para prevenir futuras tragedias.\n\n\n\n\nAunado a esta crisis, recientemente tres solados de las Fuerzas de Defensa de Israel (FDI) fueron dados de baja y encarcelados tras negarse a combatir en la Franja de Gaza debido a la pérdida de compañeros y las duras experiencias vividas en los campos de batalla. Los militares entrevistados por medios locales manifestaron que entre dos y cinco palestinos son asesinados en los “centros de ayuda humanitaria” que han sido descritos como “trampas mortales”, describiendo que a los gazatíes se les dispara “como si fueran una fuerza de ataque“.\n\n",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/incremento-suicidio-soldados-israel-gaza/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-07.json",
+    "message_index": 187,
+    "message_id": 100414,
+    "date": "2025-07-29T16:55:07+00:00",
+    "text": "teleSUR\nReportan incremento de suicidio entre soldados israelíes por estrés postraumático derivado de la guerra contra Gaza\nhttps://www.telesurtv.net/incremento-suicidio-soldados-israel-gaza/",
+    "photo_path": null,
+    "views": 1669,
+    "reactions": {
+      "🎉": 22,
+      "👍": 10,
+      "😱": 4,
+      "🤷‍♂": 2
+    },
+    "total_reactions": 38
+  },
+  "preprocessing": {
+    "cleaned": "informes recientes desde israel revelan un incremento en los suicidios entre soldados israelíes que padecen trastorno de estrés postraumático (tept), una consecuencia directa de la guerra genocida que la entidad sionista inició el 7 de octubre de 2023 contra palestina. desde enero de 2025, dieciséis militares que participaron activamente en operaciones contra el pueblo palestino, se han quitado la vida. según datos difundidos por medios locales, las víctimas incluyen a ocho soldados regulares, siete reservistas y un recluta en servicio permanente. la censura militar ha permitido la difusión de casos específicos como el de ariel tamman, miembro de la unidad de investigación y examen forense, quien fue encontrado sin vida en su domicilio en ofakim. otro caso reciente es el de daniel adry, un reservista diagnosticado con tept que también se quitó la vida. fuentes oficiales han reconocido que 3.770 soldados sufren actualmente de tept, y más de la mitad de los 19.000 heridos de guerra están bajo tratamiento psicológico supervisado por el ministerio de defensa israelí. a pesar de estas cifras, el ejército ha intentado minimizar el impacto, afirmando que “es imposible asegurar un aumento general”. en este sentido, se han implementado talleres y derivaciones a psicólogos para los soldados que regresan del combate. no obstante, especialistas en salud mental advierten que estas medidas son insuficientes y que urge la implementación de programas de seguimiento sostenidos y a largo plazo para prevenir futuras tragedias. aunado a esta crisis, recientemente tres solados de las fuerzas de defensa de israel (fdi) fueron dados de baja y encarcelados tras negarse a combatir en la franja de gaza debido a la pérdida de compañeros y las duras experiencias vividas en los campos de batalla. los militares entrevistados por medios locales manifestaron que entre dos y cinco palestinos son asesinados en los “centros de ayuda humanitaria” que han sido descritos como “trampas mortales”, describiendo que a los gazatíes se les dispara “como si fueran una fuerza de ataque“.",
+    "tokens": [
+      "informes",
+      "recientes",
+      "israel",
+      "revelan",
+      "incremento",
+      "suicidios",
+      "soldados",
+      "israelíes",
+      "padecen",
+      "trastorno",
+      "estrés",
+      "postraumático",
+      "(",
+      "tept",
+      ")",
+      ",",
+      "consecuencia",
+      "directa",
+      "guerra",
+      "genocida",
+      "entidad",
+      "sionista",
+      "inició",
+      "7",
+      "octubre",
+      "2023",
+      "palestina",
+      ".",
+      "enero",
+      "2025",
+      ",",
+      "dieciséis",
+      "militares",
+      "participaron",
+      "activamente",
+      "operaciones",
+      "pueblo",
+      "palestino",
+      ",",
+      "quitado",
+      "vida",
+      ".",
+      "según",
+      "datos",
+      "difundidos",
+      "medios",
+      "locales",
+      ",",
+      "víctimas",
+      "incluyen",
+      "ocho",
+      "soldados",
+      "regulares",
+      ",",
+      "siete",
+      "reservistas",
+      "recluta",
+      "servicio",
+      "permanente",
+      ".",
+      "censura",
+      "militar",
+      "permitido",
+      "difusión",
+      "casos",
+      "específicos",
+      "ariel",
+      "tamman",
+      ",",
+      "miembro",
+      "unidad",
+      "investigación",
+      "examen",
+      "forense",
+      ",",
+      "encontrado",
+      "vida",
+      "domicilio",
+      "ofakim",
+      ".",
+      "caso",
+      "reciente",
+      "daniel",
+      "adry",
+      ",",
+      "reservista",
+      "diagnosticado",
+      "tept",
+      "quitó",
+      "vida",
+      ".",
+      "fuentes",
+      "oficiales",
+      "reconocido",
+      "3.770",
+      "soldados",
+      "sufren",
+      "actualmente",
+      "tept",
+      ",",
+      "mitad",
+      "19.000",
+      "heridos",
+      "guerra",
+      "bajo",
+      "tratamiento",
+      "psicológico",
+      "supervisado",
+      "ministerio",
+      "defensa",
+      "israelí",
+      ".",
+      "pesar",
+      "cifras",
+      ",",
+      "ejército",
+      "intentado",
+      "minimizar",
+      "impacto",
+      ",",
+      "afirmando",
+      "“",
+      "imposible",
+      "asegurar",
+      "aumento",
+      "general",
+      "”",
+      ".",
+      ",",
+      "implementado",
+      "talleres",
+      "derivaciones",
+      "psicólogos",
+      "soldados",
+      "regresan",
+      "combate",
+      ".",
+      "obstante",
+      ",",
+      "especialistas",
+      "salud",
+      "mental",
+      "advierten",
+      "medidas",
+      "insuficientes",
+      "urge",
+      "implementación",
+      "programas",
+      "seguimiento",
+      "sostenidos",
+      "largo",
+      "plazo",
+      "prevenir",
+      "futuras",
+      "tragedias",
+      ".",
+      "aunado",
+      "crisis",
+      ",",
+      "recientemente",
+      "tres",
+      "solados",
+      "fuerzas",
+      "defensa",
+      "israel",
+      "(",
+      "fdi",
+      ")",
+      "dados",
+      "baja",
+      "encarcelados",
+      "tras",
+      "negarse",
+      "combatir",
+      "franja",
+      "gaza",
+      "debido",
+      "pérdida",
+      "compañeros",
+      "duras",
+      "experiencias",
+      "vividas",
+      "campos",
+      "batalla",
+      ".",
+      "militares",
+      "entrevistados",
+      "medios",
+      "locales",
+      "manifestaron",
+      "dos",
+      "cinco",
+      "palestinos",
+      "asesinados",
+      "“",
+      "centros",
+      "ayuda",
+      "humanitaria",
+      "”",
+      "sido",
+      "descritos",
+      "“",
+      "trampas",
+      "mortales",
+      "”",
+      ",",
+      "describiendo",
+      "gazatíes",
+      "dispara",
+      "“",
+      "si",
+      "fuerza",
+      "ataque",
+      "“",
+      "."
+    ],
+    "token_count": 215,
+    "sentence_count": 11
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNS": 21,
+      "VBZ": 6,
+      "JJ": 30,
+      "NNP": 33,
+      "NN": 94,
+      "IN": 15,
+      "VBP": 13,
+      "FW": 87,
+      "CD": 4,
+      "VB": 1,
+      "VBD": 1,
+      "RB": 1
+    },
+    "bigram_freq": {
+      "NNS-VBZ": 3,
+      "VBZ-JJ": 2,
+      "JJ-NNP": 3,
+      "NNP-NN": 12,
+      "NN-JJ": 4,
+      "JJ-NN": 15,
+      "NN-IN": 9,
+      "IN-JJ": 3,
+      "JJ-NNS": 4,
+      "NNS-VBP": 13,
+      "VBP-JJ": 8,
+      "NN-NN": 51,
+      "NN-NNP": 4,
+      "NNP-IN": 2,
+      "IN-NNP": 3,
+      "NNP-NNP": 9,
+      "NNP-JJ": 2,
+      "IN-FW": 3,
+      "FW-FW": 59,
+      "FW-NN": 8,
+      "NN-FW": 14,
+      "FW-JJ": 1,
+      "JJ-FW": 3,
+      "FW-IN": 2,
+      "IN-CD": 2,
+      "CD-JJ": 2,
+      "CD-NN": 2,
+      "NN-NNS": 8,
+      "VBP-NN": 2,
+      "IN-NNS": 1,
+      "NNS-JJ": 2,
+      "JJ-JJ": 4,
+      "FW-NNP": 14,
+      "VBZ-NNS": 2,
+      "NNS-IN": 1,
+      "NN-VBZ": 3,
+      "NNP-FW": 6,
+      "IN-NN": 3,
+      "FW-NNS": 2,
+      "NNS-NNS": 2,
+      "VBP-VB": 1,
+      "VB-JJ": 1,
+      "JJ-CD": 1,
+      "VBP-FW": 1,
+      "FW-CD": 1,
+      "VBP-IN": 1,
+      "NNP-VBD": 1,
+      "VBD-FW": 1,
+      "NNP-NNS": 1,
+      "VBZ-NN": 1,
+      "VBZ-RB": 1,
+      "RB-JJ": 1
+    },
+    "trigram_freq": {
+      "NNS-VBZ-JJ": 1,
+      "VBZ-JJ-NNP": 1,
+      "JJ-NNP-NN": 2,
+      "NNP-NN-JJ": 1,
+      "NN-JJ-NN": 4,
+      "JJ-NN-IN": 2,
+      "NN-IN-JJ": 2,
+      "IN-JJ-NNS": 1,
+      "JJ-NNS-VBP": 2,
+      "NNS-VBP-JJ": 8,
+      "VBP-JJ-NN": 3,
+      "JJ-NN-NN": 10,
+      "NN-NN-NN": 25,
+      "NN-NN-NNP": 3,
+      "NN-NNP-IN": 1,
+      "NNP-IN-NNP": 2,
+      "IN-NNP-NNP": 3,
+      "NNP-NNP-NNP": 2,
+      "NNP-NNP-JJ": 2,
+      "NNP-JJ-NN": 2,
+      "NN-NN-IN": 6,
+      "NN-IN-FW": 2,
+      "IN-FW-FW": 1,
+      "FW-FW-FW": 42,
+      "FW-FW-NN": 6,
+      "FW-NN-FW": 4,
+      "NN-FW-FW": 10,
+      "FW-FW-JJ": 1,
+      "FW-JJ-FW": 1,
+      "JJ-FW-FW": 3,
+      "FW-FW-IN": 2,
+      "FW-IN-CD": 1,
+      "IN-CD-JJ": 1,
+      "CD-JJ-NNP": 1,
+      "JJ-NNP-NNP": 1,
+      "NNP-NNP-NN": 3,
+      "NNP-NN-IN": 1,
+      "NN-IN-CD": 1,
+      "IN-CD-NN": 1,
+      "CD-NN-NNS": 1,
+      "NN-NNS-VBP": 7,
+      "NNS-VBP-NN": 2,
+      "VBP-NN-NN": 1,
+      "NN-IN-NNS": 1,
+      "IN-NNS-JJ": 1,
+      "NNS-JJ-JJ": 1,
+      "JJ-JJ-NN": 4,
+      "NN-NN-FW": 8,
+      "NN-FW-NNP": 2,
+      "FW-NNP-NN": 4,
+      "NNP-NN-NN": 9,
+      "NN-NN-NNS": 5,
+      "NN-NNS-VBZ": 1,
+      "NNS-VBZ-NNS": 1,
+      "VBZ-NNS-IN": 1,
+      "NNS-IN-JJ": 1,
+      "IN-JJ-JJ": 1,
+      "JJ-NN-VBZ": 1,
+      "NN-VBZ-JJ": 1,
+      "VBZ-JJ-NNS": 1,
+      "JJ-NNS-JJ": 1,
+      "NNS-JJ-NN": 1,
+      "JJ-NN-FW": 1,
+      "FW-NN-NNP": 1,
+      "NN-NNP-NN": 3,
+      "FW-FW-NNP": 6,
+      "FW-NNP-NNP": 3,
+      "NNP-NNP-FW": 1,
+      "NNP-FW-FW": 2,
+      "FW-NNP-FW": 5,
+      "NNP-FW-NNP": 4,
+      "NN-IN-NN": 2,
+      "IN-NN-NN": 2,
+      "NN-IN-NNP": 1,
+      "NN-FW-NN": 2,
+      "FW-FW-NNS": 1,
+      "FW-NNS-NNS": 1,
+      "NNS-NNS-VBP": 2,
+      "NNS-VBP-VB": 1,
+      "VBP-VB-JJ": 1,
+      "VB-JJ-CD": 1,
+      "JJ-CD-JJ": 1,
+      "CD-JJ-NNS": 1,
+      "NNS-VBP-FW": 1,
+      "VBP-FW-NNP": 1,
+      "FW-FW-CD": 1,
+      "FW-CD-NN": 1,
+      "CD-NN-FW": 1,
+      "FW-IN-NN": 1,
+      "IN-FW-NNS": 1,
+      "FW-NNS-VBP": 1,
+      "FW-NN-NN": 3,
+      "NN-NN-JJ": 2,
+      "IN-JJ-NNP": 1,
+      "NN-NN-VBZ": 2,
+      "NN-VBZ-NNS": 1,
+      "VBZ-NNS-NNS": 1,
+      "VBP-JJ-JJ": 2,
+      "JJ-NN-JJ": 1,
+      "NNP-NN-NNS": 1,
+      "VBP-NN-NNS": 1,
+      "VBP-JJ-FW": 2,
+      "NNS-VBP-IN": 1,
+      "VBP-IN-FW": 1,
+      "IN-FW-NNP": 1,
+      "FW-NNP-IN": 1,
+      "NNP-NNP-VBD": 1,
+      "NNP-VBD-FW": 1,
+      "VBD-FW-FW": 1,
+      "FW-NNP-NNS": 1,
+      "NNP-NNS-VBP": 1,
+      "VBP-JJ-NNS": 1,
+      "JJ-NNS-VBZ": 1,
+      "NNS-VBZ-NN": 1,
+      "VBZ-NN-NN": 1,
+      "NN-VBZ-RB": 1,
+      "VBZ-RB-JJ": 1,
+      "RB-JJ-NN": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 94,
+        "FW": 87,
+        "NNP": 33,
+        "JJ": 30,
+        "NNS": 21
+      },
+      "top_bigrams": {
+        "FW-FW": 59,
+        "NN-NN": 51,
+        "JJ-NN": 15,
+        "NN-FW": 14,
+        "FW-NNP": 14
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 42,
+        "NN-NN-NN": 25,
+        "JJ-NN-NN": 10,
+        "NN-FW-FW": 10,
+        "NNP-NN-NN": 9
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 11,
+    "chunk_counts": {
+      "NP": 84,
+      "VP": 25,
+      "PP": 9
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 4,
+        "weight": 0.031
+      },
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 3,
+        "weight": 0.0233
+      },
+      {
+        "rule": "NP -> ('TEPT', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0155
+      },
+      {
+        "rule": "VP -> ('y', 'VBP') NP",
+        "frequency": 2,
+        "weight": 0.0155
+      },
+      {
+        "rule": "S -> NP VP PP VP PP ('(', '(') NP (')', ')') (',', ',') NP ('de', 'IN') ('la', 'FW') ('guerra', 'FW') ('genocida', 'FW') NP ('la', 'FW') ('entidad', 'FW') ('sionista', 'FW') NP ('el', 'FW') ('7', 'CD') ('de', 'FW') ('octubre', 'FW') ('de', 'IN') ('2023', 'CD') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0078
+      },
+      {
+        "rule": "NP -> ('Informes', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0078
+      },
+      {
+        "rule": "VP -> ('recientes', 'VBZ') NP NP",
+        "frequency": 1,
+        "weight": 0.0078
+      },
+      {
+        "rule": "NP -> ('desde', 'JJ') ('Israel', 'NNP') ('revelan', 'NN')",
+        "frequency": 1,
+        "weight": 0.0078
+      },
+      {
+        "rule": "NP -> ('un', 'JJ') ('incremento', 'NN')",
+        "frequency": 1,
+        "weight": 0.0078
+      },
+      {
+        "rule": "NP -> ('los', 'JJ') ('suicidios', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0078
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Informes"
+      },
+      {
+        "label": "VP",
+        "text": "recientes desde Israel revelan un incremento"
+      },
+      {
+        "label": "NP",
+        "text": "desde Israel revelan"
+      },
+      {
+        "label": "NP",
+        "text": "un incremento"
+      },
+      {
+        "label": "PP",
+        "text": "en los suicidios"
+      },
+      {
+        "label": "NP",
+        "text": "los suicidios"
+      },
+      {
+        "label": "VP",
+        "text": "entre soldados israelíes que padecen Trastorno"
+      },
+      {
+        "label": "NP",
+        "text": "soldados israelíes que padecen Trastorno"
+      },
+      {
+        "label": "PP",
+        "text": "de Estrés Postraumático"
+      },
+      {
+        "label": "NP",
+        "text": "Estrés Postraumático"
+      },
+      {
+        "label": "NP",
+        "text": "TEPT"
+      },
+      {
+        "label": "NP",
+        "text": "una consecuencia directa"
+      },
+      {
+        "label": "NP",
+        "text": "que"
+      },
+      {
+        "label": "NP",
+        "text": "inició"
+      },
+      {
+        "label": "NP",
+        "text": "contra Palestina"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Informes/NNS)\n  (VP\n    recientes/VBZ\n    (NP desde/JJ Israel/NNP revelan/NN)\n    (NP un/JJ incremento/NN))\n  (PP en/IN (NP los/JJ suicidios/NNS))\n  (VP\n    entre/VBP\n    (NP soldados/JJ israelíes/NN que/NN padecen/NN Trastorno/NNP))\n  (PP de/IN (NP Estrés/NNP Postraumático/NNP))\n  (/(\n  (NP TEPT/NNP)\n  )/)\n  ,/,\n  (NP una/JJ consecuencia/NN directa/NN)\n  de/IN\n  la/FW\n  guerra/FW\n  genocida/FW\n  (NP que/NN)\n  la/FW\n  entidad/FW\n  sionista/FW\n  (NP inició/NN)\n  el/FW\n  7/CD\n  de/FW\n  octubre/FW\n  de/IN\n  2023/CD\n  (NP contra/JJ Palestina/NNP)\n  ./.)",
+      "(S\n  (NP Desde/NNP enero/NN)\n  de/IN\n  2025/CD\n  ,/,\n  (NP dieciséis/NN militares/NNS)\n  (VP que/VBP (NP participaron/NN activamente/NN))\n  (PP en/IN (NP operaciones/NNS))\n  (NP contra/JJ el/JJ pueblo/NN palestino/NN)\n  ,/,\n  se/FW\n  han/FW\n  quitado/FW\n  la/FW\n  vida/FW\n  ./.)",
+      "(S\n  (NP Según/NNP datos/NN difundidos/NN por/NN medios/NNS locales/NNS)\n  ,/,\n  (NP las/NNS)\n  (VP víctimas/VBP)\n  (VP incluyen/VB (NP a/DT ocho/JJ soldados/NN regulares/NNS))\n  ,/,\n  (NP siete/JJ reservistas/NNS)\n  (VP y/VBP (NP un/JJ recluta/NN))\n  en/FW\n  (NP servicio/NN permanente/NN)\n  ./.)",
+      "(S\n  (NP La/NNP censura/NN militar/NN ha/NN permitido/NN)\n  la/FW\n  difusión/FW\n  de/FW\n  casos/FW\n  específicos/FW\n  (NP como/NN)\n  el/FW\n  de/FW\n  (NP Ariel/NNP Tamman/NNP)\n  ,/,\n  miembro/FW\n  de/FW\n  la/FW\n  (NP Unidad/NNP)\n  de/FW\n  (NP Investigación/NNP)\n  y/CC\n  (NP Examen/NNP Forense/NNP)\n  ,/,\n  (NP quien/NN fue/NN encontrado/NN sin/NN vida/NN)\n  (PP en/IN (NP su/NN domicilio/NN))\n  (PP en/IN (NP Ofakim/NNP))\n  ./.)",
+      "(S\n  (NP Otro/NNP caso/NN reciente/NN)\n  es/FW\n  el/FW\n  de/FW\n  (NP Daniel/NNP Adry/NNP)\n  ,/,\n  (NP\n    un/JJ\n    reservista/NN\n    diagnosticado/NN\n    con/NN\n    TEPT/NNP\n    que/NN\n    también/NN)\n  se/FW\n  (NP quitó/NN la/NN vida/NN)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "FECHAS_ESPECIFICAS",
+      "TIEMPO_RELATIVO",
+      "CRISIS_HUMANITARIA_SERVICIOS",
+      "PAISES",
+      "CONFLICTOS_ARMADOS_OPERACIONES",
+      "JURIDICO_LEGISLATIVO_CORRUPCION"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "guerra genocida que la entidad sionista inició el 7 de octubre de 2023 contra palestina",
+        "position": [
+          181,
+          268
+        ],
+        "start": 181,
+        "end": 268
+      },
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "baja y encarcelados tras negarse a combatir en la franja de gaza debido a la pérdida de compañeros y las duras experiencias vividas en los campos de batalla. los militares",
+        "position": [
+          1647,
+          1818
+        ],
+        "start": 1647,
+        "end": 1818
+      },
+      {
+        "category": "JURIDICO_LEGISLATIVO_CORRUPCION",
+        "matched_text": "defensa",
+        "position": [
+          1065,
+          1072
+        ],
+        "start": 1065,
+        "end": 1072
+      },
+      {
+        "category": "CRISIS_HUMANITARIA_SERVICIOS",
+        "matched_text": "ayuda humanitaria",
+        "position": [
+          1932,
+          1949
+        ],
+        "start": 1932,
+        "end": 1949
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "palestina",
+        "position": [
+          259,
+          268
+        ],
+        "start": 259,
+        "end": 268
+      },
+      {
+        "category": "FECHAS_ESPECIFICAS",
+        "matched_text": "7 de octubre de 2023",
+        "position": [
+          231,
+          251
+        ],
+        "start": 231,
+        "end": 251
+      },
+      {
+        "category": "TIEMPO_RELATIVO",
+        "matched_text": "actualmente",
+        "position": [
+          926,
+          937
+        ],
+        "start": 926,
+        "end": 937
+      }
+    ],
+    "match_count": 7
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Franja de Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Daniel Adry",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Ariel Tamman",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Ministerio de Defensa israelí",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Unidad de Investigación y Examen Forense",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Fuentes",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Fuerzas de Defensa de Israel",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Israel",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Palestina",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "FDI",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Ofakim",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Israel",
+        "relacion": "REVELAR",
+        "objeto": "Palestina"
+      },
+      {
+        "sujeto": "Fuentes",
+        "relacion": "RECONOCER",
+        "objeto": "Ministerio de Defensa israelí"
+      },
+      {
+        "sujeto": "Fuerzas de Defensa de Israel",
+        "relacion": "DAR",
+        "objeto": "Franja de Gaza"
+      },
+      {
+        "sujeto": "FDI",
+        "relacion": "DAR",
+        "objeto": "Franja de Gaza"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.7269,
+    "pos": 0.015,
+    "neu": 0.953,
+    "neg": 0.031,
+    "label": "negative"
+  }
+}

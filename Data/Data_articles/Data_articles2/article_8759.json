@@ -1,0 +1,805 @@
+{
+  "url": "https://www.telesurtv.net/casi-30-muertos-dejan-bombardeos-israelies-contra-varias-zonas-de-la-franja-de-gaza/",
+  "title": "Casi 30 muertos dejan bombardeos israelíes contra varias zonas de la Franja de Gaza - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Beit Lahiya",
+    "Bombardeos Israelíes",
+    "Franja de Gaza"
+  ],
+  "text": "Al menos 29 personas murieron este martes en varios puntos de la Franja de Gaza a causa de intensos bombardeos israelíes como parte de la ofensiva israelí contra el norte del territorio palestino.\nDe acuerdo a medios palestinos, alrededor de 20 civiles fallecieron en la ciudad de Beit Lahia, cuando las fuerzas israelíes bombardearon una vivienda en la que se acogía a personas desplazadas.\nLa agencia palestina Wafa también reportó la muerte de otras cuatro personas en Al Zawaida, en el centro de la Franja de Gaza por bombardeos contra tiendas de campaña que albergaban a refugiados y desplazados.\nSegún Wafa en los alrededores de la ciudad de Khan Younis en el sur del territorio palestino, al menos tres personas, incluyendo un menor de edad, murieron en bombardeos, mientras que otras dos personas fallecieron en la localidad de Deir al Balah, en el centro de la Franja de Gaza.\nDesde el inicio de la operación genocida de Israel contra la Franja de Gaza, más de 43.300 personas han muerto y unas 101.000 han resultado heridas, de acuerdo con las últimas cifras del Ministerio de Sanidad gazatí.\n\nEl norte de la Franja de Gaza ha estado sujeto desde hace casi un mes a un cerco militar que comenzó con una intensa campaña de bombardeos, seguida de una incursión militar, dejando al menos 1.800 personas muertas y 4.000 heridos.\nEn 12 meses de guerra, el 90 por ciento de la población gazatí ha sido víctima del desplazamiento forzado en medio de una grave escasez de alimentos, agua potable y medicinas.\nLa ONU ha revelado que alrededor del 60 por ciento de la infraestructura del territorio palestino ha sido dañada o totalmente destruida por los bombardeos y ataques israelíes.\n",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/casi-30-muertos-dejan-bombardeos-israelies-contra-varias-zonas-de-la-franja-de-gaza/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-11.json",
+    "message_index": 1548,
+    "message_id": 79845,
+    "date": "2024-11-05T04:55:07+00:00",
+    "text": "teleSUR\nCasi 30 muertos dejan bombardeos israelíes contra varias zonas de la Franja de Gaza\nhttps://www.telesurtv.net/casi-30-muertos-dejan-bombardeos-israelies-contra-varias-zonas-de-la-franja-de-gaza/",
+    "photo_path": null,
+    "views": 2644,
+    "reactions": {
+      "🤬": 46,
+      "😢": 4,
+      "👎": 2,
+      "❤": 1
+    },
+    "total_reactions": 53
+  },
+  "preprocessing": {
+    "cleaned": "al menos 29 personas murieron este martes en varios puntos de la franja de gaza a causa de intensos bombardeos israelíes como parte de la ofensiva israelí contra el norte del territorio palestino. de acuerdo a medios palestinos, alrededor de 20 civiles fallecieron en la ciudad de beit lahia, cuando las fuerzas israelíes bombardearon una vivienda en la que se acogía a personas desplazadas. la agencia palestina wafa también reportó la muerte de otras cuatro personas en al zawaida, en el centro de la franja de gaza por bombardeos contra tiendas de campaña que albergaban a refugiados y desplazados. según wafa en los alrededores de la ciudad de khan younis en el sur del territorio palestino, al menos tres personas, incluyendo un menor de edad, murieron en bombardeos, mientras que otras dos personas fallecieron en la localidad de deir al balah, en el centro de la franja de gaza. desde el inicio de la operación genocida de israel contra la franja de gaza, más de 43.300 personas han muerto y unas 101.000 han resultado heridas, de acuerdo con las últimas cifras del ministerio de sanidad gazatí. el norte de la franja de gaza ha estado sujeto desde hace casi un mes a un cerco militar que comenzó con una intensa campaña de bombardeos, seguida de una incursión militar, dejando al menos 1.800 personas muertas y 4.000 heridos. en 12 meses de guerra, el 90 por ciento de la población gazatí ha sido víctima del desplazamiento forzado en medio de una grave escasez de alimentos, agua potable y medicinas. la onu ha revelado que alrededor del 60 por ciento de la infraestructura del territorio palestino ha sido dañada o totalmente destruida por los bombardeos y ataques israelíes.",
+    "tokens": [
+      "menos",
+      "29",
+      "personas",
+      "murieron",
+      "martes",
+      "varios",
+      "puntos",
+      "franja",
+      "gaza",
+      "causa",
+      "intensos",
+      "bombardeos",
+      "israelíes",
+      "parte",
+      "ofensiva",
+      "israelí",
+      "norte",
+      "territorio",
+      "palestino",
+      ".",
+      "acuerdo",
+      "medios",
+      "palestinos",
+      ",",
+      "alrededor",
+      "20",
+      "civiles",
+      "fallecieron",
+      "ciudad",
+      "beit",
+      "lahia",
+      ",",
+      "fuerzas",
+      "israelíes",
+      "bombardearon",
+      "vivienda",
+      "acogía",
+      "personas",
+      "desplazadas",
+      ".",
+      "agencia",
+      "palestina",
+      "wafa",
+      "reportó",
+      "muerte",
+      "cuatro",
+      "personas",
+      "zawaida",
+      ",",
+      "centro",
+      "franja",
+      "gaza",
+      "bombardeos",
+      "tiendas",
+      "campaña",
+      "albergaban",
+      "refugiados",
+      "desplazados",
+      ".",
+      "según",
+      "wafa",
+      "alrededores",
+      "ciudad",
+      "khan",
+      "younis",
+      "sur",
+      "territorio",
+      "palestino",
+      ",",
+      "menos",
+      "tres",
+      "personas",
+      ",",
+      "incluyendo",
+      "menor",
+      "edad",
+      ",",
+      "murieron",
+      "bombardeos",
+      ",",
+      "mientras",
+      "dos",
+      "personas",
+      "fallecieron",
+      "localidad",
+      "deir",
+      "balah",
+      ",",
+      "centro",
+      "franja",
+      "gaza",
+      ".",
+      "inicio",
+      "operación",
+      "genocida",
+      "israel",
+      "franja",
+      "gaza",
+      ",",
+      "43.300",
+      "personas",
+      "muerto",
+      "unas",
+      "101.000",
+      "resultado",
+      "heridas",
+      ",",
+      "acuerdo",
+      "últimas",
+      "cifras",
+      "ministerio",
+      "sanidad",
+      "gazatí",
+      ".",
+      "norte",
+      "franja",
+      "gaza",
+      "sujeto",
+      "hace",
+      "casi",
+      "mes",
+      "cerco",
+      "militar",
+      "comenzó",
+      "intensa",
+      "campaña",
+      "bombardeos",
+      ",",
+      "seguida",
+      "incursión",
+      "militar",
+      ",",
+      "dejando",
+      "menos",
+      "1.800",
+      "personas",
+      "muertas",
+      "4.000",
+      "heridos",
+      ".",
+      "12",
+      "meses",
+      "guerra",
+      ",",
+      "90",
+      "ciento",
+      "población",
+      "gazatí",
+      "sido",
+      "víctima",
+      "desplazamiento",
+      "forzado",
+      "medio",
+      "grave",
+      "escasez",
+      "alimentos",
+      ",",
+      "agua",
+      "potable",
+      "medicinas",
+      ".",
+      "onu",
+      "revelado",
+      "alrededor",
+      "60",
+      "ciento",
+      "infraestructura",
+      "territorio",
+      "palestino",
+      "sido",
+      "dañada",
+      "totalmente",
+      "destruida",
+      "bombardeos",
+      "ataques",
+      "israelíes",
+      "."
+    ],
+    "token_count": 177,
+    "sentence_count": 8
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 33,
+      "VBD": 2,
+      "CD": 9,
+      "NNS": 16,
+      "VBP": 11,
+      "NN": 77,
+      "FW": 93,
+      "JJ": 19,
+      "IN": 11,
+      "RB": 1,
+      "VBZ": 2,
+      "$": 1
+    },
+    "bigram_freq": {
+      "NNP-VBD": 1,
+      "VBD-CD": 1,
+      "CD-NNS": 5,
+      "NNS-VBP": 7,
+      "VBP-NN": 2,
+      "NN-NNS": 6,
+      "VBP-NNS": 1,
+      "NNS-FW": 2,
+      "FW-FW": 59,
+      "FW-NNP": 17,
+      "NNP-FW": 15,
+      "NNP-NN": 8,
+      "NN-FW": 5,
+      "FW-NN": 10,
+      "FW-JJ": 3,
+      "JJ-JJ": 3,
+      "JJ-NN": 9,
+      "NN-JJ": 5,
+      "NN-NN": 43,
+      "NN-NNP": 5,
+      "FW-NNS": 1,
+      "NN-IN": 10,
+      "IN-CD": 1,
+      "NNS-RB": 1,
+      "RB-VBP": 1,
+      "VBP-JJ": 6,
+      "IN-NNP": 1,
+      "NNP-NNP": 7,
+      "IN-FW": 8,
+      "NNS-IN": 1,
+      "NN-VBP": 1,
+      "JJ-NNS": 3,
+      "JJ-FW": 2,
+      "NNP-VBZ": 1,
+      "VBZ-FW": 1,
+      "FW-CD": 2,
+      "NNS-JJ": 2,
+      "JJ-VBP": 1,
+      "JJ-CD": 1,
+      "CD-NN": 4,
+      "NN-VBD": 1,
+      "VBD-$": 1,
+      "$-CD": 1,
+      "NNS-CD": 1,
+      "NNS-NNP": 2,
+      "NNP-CD": 1,
+      "IN-NN": 1,
+      "FW-VBP": 1,
+      "VBP-FW": 1,
+      "NN-VBZ": 1,
+      "VBZ-CD": 1
+    },
+    "trigram_freq": {
+      "NNP-VBD-CD": 1,
+      "VBD-CD-NNS": 1,
+      "CD-NNS-VBP": 1,
+      "NNS-VBP-NN": 2,
+      "VBP-NN-NNS": 1,
+      "NN-NNS-VBP": 4,
+      "NNS-VBP-NNS": 1,
+      "VBP-NNS-FW": 1,
+      "NNS-FW-FW": 2,
+      "FW-FW-FW": 39,
+      "FW-FW-NNP": 9,
+      "FW-NNP-FW": 8,
+      "NNP-FW-NNP": 7,
+      "FW-NNP-NN": 5,
+      "NNP-NN-FW": 1,
+      "NN-FW-FW": 4,
+      "FW-FW-NN": 6,
+      "FW-NN-FW": 2,
+      "FW-FW-JJ": 2,
+      "FW-JJ-JJ": 1,
+      "JJ-JJ-NN": 3,
+      "JJ-NN-JJ": 1,
+      "NN-JJ-NN": 4,
+      "JJ-NN-NN": 4,
+      "NN-NN-NN": 27,
+      "NN-NN-NNP": 2,
+      "NN-NNP-FW": 2,
+      "NNP-FW-NNS": 1,
+      "FW-NNS-VBP": 1,
+      "VBP-NN-IN": 1,
+      "NN-IN-CD": 1,
+      "IN-CD-NNS": 1,
+      "CD-NNS-RB": 1,
+      "NNS-RB-VBP": 1,
+      "RB-VBP-JJ": 1,
+      "VBP-JJ-NN": 1,
+      "JJ-NN-IN": 4,
+      "NN-IN-NNP": 1,
+      "IN-NNP-NNP": 1,
+      "NNP-NNP-NN": 2,
+      "NNP-NN-NN": 5,
+      "NN-NN-JJ": 4,
+      "NN-IN-FW": 7,
+      "IN-FW-FW": 6,
+      "NNP-FW-NN": 2,
+      "FW-NN-NNP": 1,
+      "NN-NNP-NN": 1,
+      "NN-NN-FW": 1,
+      "FW-NNP-NNP": 4,
+      "NNP-NNP-FW": 5,
+      "NNP-FW-FW": 5,
+      "IN-FW-JJ": 1,
+      "FW-JJ-NN": 1,
+      "NN-NNP-NNP": 1,
+      "FW-NN-NNS": 3,
+      "NN-NNS-IN": 1,
+      "NNS-IN-FW": 1,
+      "FW-NN-NN": 4,
+      "NN-NN-VBP": 1,
+      "NN-VBP-JJ": 1,
+      "VBP-JJ-NNS": 1,
+      "JJ-NNS-VBP": 1,
+      "NNS-VBP-JJ": 3,
+      "VBP-JJ-JJ": 1,
+      "NN-FW-NN": 1,
+      "VBP-JJ-FW": 2,
+      "JJ-FW-FW": 1,
+      "NNP-NN-NNP": 2,
+      "NN-NNP-VBZ": 1,
+      "NNP-VBZ-FW": 1,
+      "VBZ-FW-FW": 1,
+      "FW-FW-CD": 2,
+      "FW-CD-NNS": 1,
+      "CD-NNS-JJ": 1,
+      "NNS-JJ-VBP": 1,
+      "JJ-VBP-JJ": 1,
+      "VBP-JJ-CD": 1,
+      "JJ-CD-NN": 1,
+      "CD-NN-NN": 3,
+      "NN-NN-IN": 5,
+      "IN-FW-NN": 1,
+      "JJ-FW-NNP": 1,
+      "NN-JJ-NNS": 1,
+      "JJ-NNS-JJ": 1,
+      "NNS-JJ-JJ": 1,
+      "NN-NN-VBD": 1,
+      "NN-VBD-$": 1,
+      "VBD-$-CD": 1,
+      "$-CD-NN": 1,
+      "CD-NN-NNS": 1,
+      "NN-NNS-CD": 1,
+      "NNS-CD-NNS": 1,
+      "CD-NNS-NNP": 1,
+      "NNS-NNP-CD": 1,
+      "NNP-CD-NNS": 1,
+      "CD-NNS-FW": 1,
+      "FW-CD-NN": 1,
+      "NN-IN-NN": 1,
+      "IN-NN-FW": 1,
+      "FW-FW-VBP": 1,
+      "FW-VBP-FW": 1,
+      "VBP-FW-FW": 1,
+      "FW-JJ-NNS": 1,
+      "JJ-NNS-NNP": 1,
+      "NNS-NNP-NNP": 1,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-CD": 1,
+      "VBZ-CD-NN": 1,
+      "NN-NN-NNS": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "FW": 93,
+        "NN": 77,
+        "NNP": 33,
+        "JJ": 19,
+        "NNS": 16
+      },
+      "top_bigrams": {
+        "FW-FW": 59,
+        "NN-NN": 43,
+        "FW-NNP": 17,
+        "NNP-FW": 15,
+        "FW-NN": 10
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 39,
+        "NN-NN-NN": 27,
+        "FW-FW-NNP": 9,
+        "FW-NNP-FW": 8,
+        "NNP-FW-NNP": 7
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 8,
+    "chunk_counts": {
+      "NP": 67,
+      "VP": 17,
+      "PP": 2,
+      "ADJP": 3
+    },
+    "top_rules": [
+      {
+        "rule": "NP -> ('Franja', 'NNP')",
+        "frequency": 5,
+        "weight": 0.0515
+      },
+      {
+        "rule": "NP -> ('Gaza', 'NNP')",
+        "frequency": 3,
+        "weight": 0.0309
+      },
+      {
+        "rule": "VP -> ('menos', 'VBD')",
+        "frequency": 2,
+        "weight": 0.0206
+      },
+      {
+        "rule": "NP -> ('personas', 'NNS')",
+        "frequency": 2,
+        "weight": 0.0206
+      },
+      {
+        "rule": "VP -> ('en', 'VBP') NP",
+        "frequency": 2,
+        "weight": 0.0206
+      },
+      {
+        "rule": "NP -> ('por', 'NN') ('ciento', 'NN')",
+        "frequency": 2,
+        "weight": 0.0206
+      },
+      {
+        "rule": "S -> NP VP ('29', 'CD') NP VP VP ('puntos', 'FW') ('de', 'FW') ('la', 'FW') NP ('de', 'FW') NP NP ('de', 'IN') ('intensos', 'FW') ('bombardeos', 'FW') ('israelíes', 'FW') NP ('parte', 'FW') ('de', 'FW') ('la', 'FW') ('ofensiva', 'FW') NP NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0103
+      },
+      {
+        "rule": "NP -> ('Al', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0103
+      },
+      {
+        "rule": "VP -> ('murieron', 'VBP') NP",
+        "frequency": 1,
+        "weight": 0.0103
+      },
+      {
+        "rule": "NP -> ('este', 'NN') ('martes', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0103
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Al"
+      },
+      {
+        "label": "VP",
+        "text": "menos"
+      },
+      {
+        "label": "NP",
+        "text": "personas"
+      },
+      {
+        "label": "VP",
+        "text": "murieron este martes"
+      },
+      {
+        "label": "NP",
+        "text": "este martes"
+      },
+      {
+        "label": "VP",
+        "text": "en varios"
+      },
+      {
+        "label": "NP",
+        "text": "varios"
+      },
+      {
+        "label": "NP",
+        "text": "Franja"
+      },
+      {
+        "label": "NP",
+        "text": "Gaza"
+      },
+      {
+        "label": "NP",
+        "text": "a causa"
+      },
+      {
+        "label": "NP",
+        "text": "como"
+      },
+      {
+        "label": "NP",
+        "text": "israelí contra el"
+      },
+      {
+        "label": "NP",
+        "text": "norte del territorio palestino"
+      },
+      {
+        "label": "NP",
+        "text": "De"
+      },
+      {
+        "label": "VP",
+        "text": "acuerdo a medios palestinos"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Al/NNP)\n  (VP menos/VBD)\n  29/CD\n  (NP personas/NNS)\n  (VP murieron/VBP (NP este/NN martes/NNS))\n  (VP en/VBP (NP varios/NNS))\n  puntos/FW\n  de/FW\n  la/FW\n  (NP Franja/NNP)\n  de/FW\n  (NP Gaza/NNP)\n  (NP a/DT causa/NN)\n  de/IN\n  intensos/FW\n  bombardeos/FW\n  israelíes/FW\n  (NP como/NN)\n  parte/FW\n  de/FW\n  la/FW\n  ofensiva/FW\n  (NP israelí/JJ contra/JJ el/NN)\n  (NP norte/JJ del/NN territorio/NN palestino/NN)\n  ./.)",
+      "(S\n  (NP De/NNP)\n  (VP acuerdo/VBZ (NP a/DT medios/JJ palestinos/NN))\n  ,/,\n  (NP alrededor/NN)\n  de/FW\n  20/CD\n  (NP civiles/NNS)\n  fallecieron/RB\n  (VP en/VBP (NP la/JJ ciudad/NN))\n  (PP de/IN (NP Beit/NNP Lahia/NNP))\n  ,/,\n  (NP cuando/NN las/NNS)\n  (VP\n    fuerzas/VBP\n    (NP israelíes/JJ bombardearon/NN)\n    (NP una/JJ vivienda/NN))\n  en/IN\n  la/FW\n  que/FW\n  se/FW\n  acogía/FW\n  (NP a/DT personas/NN desplazadas/NN)\n  ./.)",
+      "(S\n  (NP La/NNP)\n  (VP agencia/VBZ)\n  palestina/FW\n  (NP Wafa/NNP también/NN reportó/NN)\n  la/FW\n  muerte/FW\n  de/FW\n  otras/FW\n  cuatro/FW\n  personas/FW\n  en/FW\n  (NP Al/NNP Zawaida/NNP)\n  ,/,\n  en/FW\n  el/FW\n  centro/FW\n  de/FW\n  la/FW\n  (NP Franja/NNP)\n  de/FW\n  (NP Gaza/NNP por/NN bombardeos/NN)\n  (NP contra/JJ tiendas/NN)\n  de/IN\n  campaña/FW\n  (ADJP que/JJ)\n  (VP albergaban/VBP (NP a/DT refugiados/NN y/NN desplazados/NN))\n  ./.)",
+      "(S\n  (NP Según/NNP Wafa/NNP)\n  en/FW\n  (NP los/NN alrededores/NNS)\n  de/IN\n  la/FW\n  ciudad/FW\n  de/FW\n  (NP Khan/NNP Younis/NNP)\n  en/FW\n  el/FW\n  sur/FW\n  del/FW\n  (NP territorio/NN palestino/NN)\n  ,/,\n  (NP al/JJ menos/NN tres/NNS)\n  (VP personas/VBP)\n  ,/,\n  (NP incluyendo/JJ un/JJ menor/NN)\n  de/IN\n  edad/FW\n  ,/,\n  murieron/FW\n  en/FW\n  (NP bombardeos/NN)\n  ,/,\n  mientras/FW\n  (NP que/NN)\n  otras/FW\n  (NP dos/NN personas/NNS)\n  (VP fallecieron/VBP en/JJ)\n  la/FW\n  localidad/FW\n  de/FW\n  (NP Deir/NNP al/NN Balah/NNP)\n  ,/,\n  en/FW\n  el/FW\n  centro/FW\n  de/FW\n  la/FW\n  (NP Franja/NNP)\n  de/FW\n  (NP Gaza/NNP)\n  ./.)",
+      "(S\n  (NP Desde/NNP)\n  el/CC\n  inicio/FW\n  de/FW\n  la/FW\n  operación/FW\n  genocida/FW\n  de/FW\n  (NP Israel/NNP contra/NNP)\n  la/FW\n  (NP Franja/NNP)\n  de/FW\n  (NP Gaza/NNP)\n  ,/,\n  (NP más/NN)\n  de/FW\n  43.300/CD\n  (NP personas/NNS)\n  (ADJP han/JJ)\n  (VP muerto/VBP y/JJ unas/JJ)\n  101.000/CD\n  (NP han/NN resultado/NN heridas/NN)\n  ,/,\n  de/FW\n  acuerdo/FW\n  (NP con/NN las/NNS)\n  (VP últimas/VBP cifras/JJ)\n  del/FW\n  (NP Ministerio/NNP)\n  de/FW\n  (NP Sanidad/NNP gazatí/NN)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "LEYES_NORMATIVAS",
+      "RECURSOS_NATURALES",
+      "ORGANISMOS_INTERNACIONALES",
+      "CANTIDADES_NUMERICAS",
+      "REGIONES_PROVINCIAS",
+      "CRISIS_HUMANITARIA_SERVICIOS",
+      "PAISES",
+      "LOCALIZACIONES_ESPECIFICAS",
+      "CONFLICTOS_ARMADOS_OPERACIONES",
+      "INFRAESTRUCTURA_SERVICIOS"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "cerco militar",
+        "position": [
+          1179,
+          1192
+        ],
+        "start": 1179,
+        "end": 1192
+      },
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "guerra, el 90 por ciento de la población gazatí ha sido víctima del desplazamiento forzado en medio",
+        "position": [
+          1350,
+          1449
+        ],
+        "start": 1350,
+        "end": 1449
+      },
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "bombardeos israelíes",
+        "position": [
+          100,
+          120
+        ],
+        "start": 100,
+        "end": 120
+      },
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "genocida de israel contra la franja de gaza",
+        "position": [
+          918,
+          961
+        ],
+        "start": 918,
+        "end": 961
+      },
+      {
+        "category": "CRISIS_HUMANITARIA_SERVICIOS",
+        "matched_text": "escasez de alimentos",
+        "position": [
+          1463,
+          1483
+        ],
+        "start": 1463,
+        "end": 1483
+      },
+      {
+        "category": "ORGANISMOS_INTERNACIONALES",
+        "matched_text": "onu",
+        "position": [
+          1514,
+          1517
+        ],
+        "start": 1514,
+        "end": 1517
+      },
+      {
+        "category": "LEYES_NORMATIVAS",
+        "matched_text": "acuerdo a medios palestinos, alrededor de 20",
+        "position": [
+          200,
+          244
+        ],
+        "start": 200,
+        "end": 244
+      },
+      {
+        "category": "RECURSOS_NATURALES",
+        "matched_text": "agua",
+        "position": [
+          1485,
+          1489
+        ],
+        "start": 1485,
+        "end": 1489
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "agua potable",
+        "position": [
+          1485,
+          1497
+        ],
+        "start": 1485,
+        "end": 1497
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "israelí",
+        "position": [
+          147,
+          154
+        ],
+        "start": 147,
+        "end": 154
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "estado sujeto",
+        "position": [
+          1137,
+          1150
+        ],
+        "start": 1137,
+        "end": 1150
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "centro de",
+        "position": [
+          490,
+          499
+        ],
+        "start": 490,
+        "end": 499
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "29 personas",
+        "position": [
+          9,
+          20
+        ],
+        "start": 9,
+        "end": 20
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "43.300 personas",
+        "position": [
+          970,
+          985
+        ],
+        "start": 970,
+        "end": 985
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "alrededor de 20",
+        "position": [
+          229,
+          244
+        ],
+        "start": 229,
+        "end": 244
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "más de 43.300",
+        "position": [
+          963,
+          976
+        ],
+        "start": 963,
+        "end": 976
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "1.800 personas",
+        "position": [
+          1295,
+          1309
+        ],
+        "start": 1295,
+        "end": 1309
+      }
+    ],
+    "match_count": 17
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Franja de Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Ministerio de Sanidad",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Beit Lahia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Khan Younis",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Wafa",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Balah",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Israel",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "ONU",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Deir",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Al Zawaida",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Wafa",
+        "relacion": "REPORTAR",
+        "objeto": "Al Zawaida"
+      },
+      {
+        "sujeto": "Wafa",
+        "relacion": "REPORTAR",
+        "objeto": "Franja de Gaza"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "MORIR",
+        "objeto": "Ministerio de Sanidad"
+      },
+      {
+        "sujeto": "Franja de Gaza",
+        "relacion": "MORIR",
+        "objeto": "Ministerio de Sanidad"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.7184,
+    "pos": 0.034,
+    "neu": 0.957,
+    "neg": 0.009,
+    "label": "positive"
+  }
+}

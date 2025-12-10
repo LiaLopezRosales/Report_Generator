@@ -1,0 +1,818 @@
+{
+  "url": "https://www.telesurtv.net/guerra-abierta-iran-realiza-nuevo-ataque-de-represalia-contra-israel/",
+  "title": "Guerra abierta: Irán realiza ataque de represalia contra centro tecnológico y militar de Israel - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Conflicto",
+    "Irán",
+    "Israel"
+  ],
+  "text": "\nIrán llevó a cabo la mañana de este viernes un nuevo ataque defensivo contra distintos puntos del territorio israelí, en lo que sería la decimosexta oleada de misiles lanzados contra la ocupación sionista desde que comenzó la agresión contra la nación persa el pasado 13 de junio.\nSe informó que el misil iraní impactó contra un centro de alta tecnología, investigación y ciberseguridad en Beersheba.\nEl ejército israelí reconoció que un misil iraní cayó directamente en la ciudad de Beersheba, en el desierto del Néguev, que incluye la base aérea de Navatim y es un importante centro tecnológico y militar.\nA consecuencia de ello, se produjo un incendio, mientras que medios hebreos señalaron que 31 colonos resultaron heridos producto del impacto en Beersheba.\nLa Oficina de Ferrocarriles de Israel indicó que debido al impacto de un deslizamiento de tierra, la estación Beersheba Norte fue cerrada de manera temporal.\nVideos subidos a las redes sociales mostraron imágenes de incendios y grandes daños causados a edificios, viviendas y vehículos ​en la ocupada Beersheba.\nEste viernes, el régimen israelí realizó una nueva agresión contra zonas de la provincia de Teherán y otras regiones del norte de Irán, ante lo cual las defensas aéreas del país persa interceptaron varios drones.\nLos bombardeos alcanzaron Lavizan, Partishen y Damavand, al este de la capital iraní, así como el sector conocido como “Área 3”, en el norte de Teherán.\nLa agencia iraní Nour reportó una explosión cerca de la ciudad de Rasht, lo que indica que la ofensiva comenzó a extenderse hacia zonas rurales costeras del norte iraní.\nLas defensas aéreas iraníes interceptaron aeronaves de la ocupación en regiones centrales y orientales de Teherán, así como en la provincia de Golestán, frente al mar Caspio.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/guerra-abierta-iran-realiza-nuevo-ataque-de-represalia-contra-israel/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-06.json",
+    "message_index": 830,
+    "message_id": 96952,
+    "date": "2025-06-20T03:55:07+00:00",
+    "text": "teleSUR\nGuerra abierta: Irán realiza nuevo ataque de represalia contra Israel\nhttps://www.telesurtv.net/guerra-abierta-iran-realiza-nuevo-ataque-de-represalia-contra-israel/",
+    "photo_path": null,
+    "views": 2673,
+    "reactions": {
+      "👏": 73,
+      "❤": 20,
+      "👍": 8,
+      "🔥": 3,
+      "⚡": 2,
+      "🏆": 2,
+      "👌": 1
+    },
+    "total_reactions": 109
+  },
+  "preprocessing": {
+    "cleaned": "irán llevó a cabo la mañana de este viernes un nuevo ataque defensivo contra distintos puntos del territorio israelí, en lo que sería la decimosexta oleada de misiles lanzados contra la ocupación sionista desde que comenzó la agresión contra la nación persa el pasado 13 de junio. se informó que el misil iraní impactó contra un centro de alta tecnología, investigación y ciberseguridad en beersheba. el ejército israelí reconoció que un misil iraní cayó directamente en la ciudad de beersheba, en el desierto del néguev, que incluye la base aérea de navatim y es un importante centro tecnológico y militar. a consecuencia de ello, se produjo un incendio, mientras que medios hebreos señalaron que 31 colonos resultaron heridos producto del impacto en beersheba. la oficina de ferrocarriles de israel indicó que debido al impacto de un deslizamiento de tierra, la estación beersheba norte fue cerrada de manera temporal. videos subidos a las redes sociales mostraron imágenes de incendios y grandes daños causados a edificios, viviendas y vehículos ​en la ocupada beersheba. este viernes, el régimen israelí realizó una nueva agresión contra zonas de la provincia de teherán y otras regiones del norte de irán, ante lo cual las defensas aéreas del país persa interceptaron varios drones. los bombardeos alcanzaron lavizan, partishen y damavand, al este de la capital iraní, así como el sector conocido como “área 3”, en el norte de teherán. la agencia iraní nour reportó una explosión cerca de la ciudad de rasht, lo que indica que la ofensiva comenzó a extenderse hacia zonas rurales costeras del norte iraní. las defensas aéreas iraníes interceptaron aeronaves de la ocupación en regiones centrales y orientales de teherán, así como en la provincia de golestán, frente al mar caspio.",
+    "tokens": [
+      "irán",
+      "llevó",
+      "cabo",
+      "mañana",
+      "viernes",
+      "nuevo",
+      "ataque",
+      "defensivo",
+      "distintos",
+      "puntos",
+      "territorio",
+      "israelí",
+      ",",
+      "decimosexta",
+      "oleada",
+      "misiles",
+      "lanzados",
+      "ocupación",
+      "sionista",
+      "comenzó",
+      "agresión",
+      "nación",
+      "persa",
+      "pasado",
+      "13",
+      "junio",
+      ".",
+      "informó",
+      "misil",
+      "iraní",
+      "impactó",
+      "centro",
+      "alta",
+      "tecnología",
+      ",",
+      "investigación",
+      "ciberseguridad",
+      "beersheba",
+      ".",
+      "ejército",
+      "israelí",
+      "reconoció",
+      "misil",
+      "iraní",
+      "cayó",
+      "directamente",
+      "ciudad",
+      "beersheba",
+      ",",
+      "desierto",
+      "néguev",
+      ",",
+      "incluye",
+      "base",
+      "aérea",
+      "navatim",
+      "importante",
+      "centro",
+      "tecnológico",
+      "militar",
+      ".",
+      "consecuencia",
+      "ello",
+      ",",
+      "produjo",
+      "incendio",
+      ",",
+      "mientras",
+      "medios",
+      "hebreos",
+      "señalaron",
+      "31",
+      "colonos",
+      "resultaron",
+      "heridos",
+      "producto",
+      "impacto",
+      "beersheba",
+      ".",
+      "oficina",
+      "ferrocarriles",
+      "israel",
+      "indicó",
+      "debido",
+      "impacto",
+      "deslizamiento",
+      "tierra",
+      ",",
+      "estación",
+      "beersheba",
+      "norte",
+      "cerrada",
+      "manera",
+      "temporal",
+      ".",
+      "videos",
+      "subidos",
+      "redes",
+      "sociales",
+      "mostraron",
+      "imágenes",
+      "incendios",
+      "grandes",
+      "daños",
+      "causados",
+      "edificios",
+      ",",
+      "viviendas",
+      "vehículos",
+      "​en",
+      "ocupada",
+      "beersheba",
+      ".",
+      "viernes",
+      ",",
+      "régimen",
+      "israelí",
+      "realizó",
+      "nueva",
+      "agresión",
+      "zonas",
+      "provincia",
+      "teherán",
+      "regiones",
+      "norte",
+      "irán",
+      ",",
+      "defensas",
+      "aéreas",
+      "país",
+      "persa",
+      "interceptaron",
+      "varios",
+      "drones",
+      ".",
+      "bombardeos",
+      "alcanzaron",
+      "lavizan",
+      ",",
+      "partishen",
+      "damavand",
+      ",",
+      "capital",
+      "iraní",
+      ",",
+      "así",
+      "sector",
+      "conocido",
+      "“",
+      "área",
+      "3",
+      "”",
+      ",",
+      "norte",
+      "teherán",
+      ".",
+      "agencia",
+      "iraní",
+      "nour",
+      "reportó",
+      "explosión",
+      "cerca",
+      "ciudad",
+      "rasht",
+      ",",
+      "indica",
+      "ofensiva",
+      "comenzó",
+      "extenderse",
+      "hacia",
+      "zonas",
+      "rurales",
+      "costeras",
+      "norte",
+      "iraní",
+      ".",
+      "defensas",
+      "aéreas",
+      "iraníes",
+      "interceptaron",
+      "aeronaves",
+      "ocupación",
+      "regiones",
+      "centrales",
+      "orientales",
+      "teherán",
+      ",",
+      "así",
+      "provincia",
+      "golestán",
+      ",",
+      "frente",
+      "mar",
+      "caspio",
+      "."
+    ],
+    "token_count": 195,
+    "sentence_count": 10
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 33,
+      "VBZ": 4,
+      "JJ": 29,
+      "FW": 59,
+      "NNS": 20,
+      "NN": 95,
+      "VBP": 11,
+      "IN": 15,
+      "VBD": 3,
+      "CD": 2,
+      "CC": 1,
+      "VB": 1,
+      "RB": 1
+    },
+    "bigram_freq": {
+      "NNP-VBZ": 3,
+      "VBZ-JJ": 2,
+      "JJ-FW": 3,
+      "FW-FW": 35,
+      "FW-NNS": 3,
+      "NNS-JJ": 1,
+      "JJ-JJ": 5,
+      "JJ-NN": 13,
+      "NN-NN": 57,
+      "NN-JJ": 10,
+      "JJ-NNS": 4,
+      "NNS-VBP": 9,
+      "VBP-NN": 4,
+      "NN-IN": 9,
+      "IN-NN": 1,
+      "NN-FW": 9,
+      "FW-JJ": 3,
+      "FW-NN": 6,
+      "NN-VBD": 1,
+      "VBD-CD": 1,
+      "CD-IN": 1,
+      "IN-FW": 7,
+      "FW-NNP": 11,
+      "NNP-NN": 11,
+      "NN-VBP": 1,
+      "IN-NNP": 5,
+      "NNP-NNP": 8,
+      "NNP-FW": 3,
+      "NNP-CC": 1,
+      "CC-JJ": 1,
+      "NN-NNS": 4,
+      "VBP-NNS": 2,
+      "NN-CD": 1,
+      "CD-NN": 1,
+      "NNP-IN": 2,
+      "IN-JJ": 1,
+      "NNP-VBD": 2,
+      "VBD-NN": 2,
+      "JJ-NNP": 4,
+      "VBP-JJ": 5,
+      "NNS-IN": 3,
+      "IN-NNS": 1,
+      "NNS-NNS": 4,
+      "NNP-NNS": 1,
+      "NNS-FW": 2,
+      "NNS-NNP": 1,
+      "NN-NNP": 2,
+      "VBZ-VB": 1,
+      "VB-NNP": 1,
+      "NN-VBZ": 1,
+      "VBZ-NNS": 1,
+      "FW-RB": 1,
+      "RB-JJ": 1,
+      "NNP-VBP": 1
+    },
+    "trigram_freq": {
+      "NNP-VBZ-JJ": 2,
+      "VBZ-JJ-FW": 1,
+      "JJ-FW-FW": 3,
+      "FW-FW-FW": 22,
+      "FW-FW-NNS": 2,
+      "FW-NNS-JJ": 1,
+      "NNS-JJ-JJ": 1,
+      "JJ-JJ-NN": 5,
+      "JJ-NN-NN": 7,
+      "NN-NN-JJ": 9,
+      "NN-JJ-NNS": 1,
+      "JJ-NNS-VBP": 2,
+      "NNS-VBP-NN": 2,
+      "VBP-NN-NN": 3,
+      "NN-NN-NN": 32,
+      "NN-NN-IN": 4,
+      "NN-IN-NN": 1,
+      "IN-NN-NN": 1,
+      "NN-NN-FW": 4,
+      "NN-FW-FW": 4,
+      "FW-FW-JJ": 2,
+      "FW-JJ-FW": 1,
+      "FW-FW-NN": 1,
+      "FW-NN-NN": 5,
+      "NN-JJ-JJ": 3,
+      "JJ-NN-FW": 2,
+      "NN-FW-NN": 3,
+      "NN-NN-VBD": 1,
+      "NN-VBD-CD": 1,
+      "VBD-CD-IN": 1,
+      "CD-IN-FW": 1,
+      "IN-FW-NNP": 1,
+      "FW-NNP-NN": 5,
+      "NNP-NN-NN": 8,
+      "NN-NN-VBP": 1,
+      "NN-VBP-NN": 1,
+      "JJ-NN-IN": 3,
+      "NN-IN-FW": 5,
+      "IN-FW-NN": 2,
+      "NN-IN-NNP": 2,
+      "IN-NNP-NNP": 1,
+      "NNP-NNP-VBZ": 2,
+      "VBZ-JJ-NN": 1,
+      "NN-JJ-NN": 4,
+      "FW-FW-NNP": 8,
+      "FW-NNP-FW": 2,
+      "NNP-FW-FW": 2,
+      "IN-NNP-CC": 1,
+      "NNP-CC-JJ": 1,
+      "CC-JJ-NN": 1,
+      "IN-FW-FW": 3,
+      "FW-JJ-NN": 1,
+      "JJ-NN-NNS": 1,
+      "NN-NNS-VBP": 3,
+      "NNS-VBP-NNS": 2,
+      "VBP-NNS-VBP": 2,
+      "NN-NN-CD": 1,
+      "NN-CD-NN": 1,
+      "CD-NN-NN": 1,
+      "FW-NN-FW": 1,
+      "NN-FW-NNP": 2,
+      "FW-NNP-NNP": 4,
+      "NNP-NNP-NNP": 2,
+      "NNP-NNP-IN": 1,
+      "NNP-IN-NNP": 2,
+      "IN-NNP-IN": 1,
+      "IN-NNP-NN": 1,
+      "NN-IN-JJ": 1,
+      "IN-JJ-NN": 1,
+      "NNP-NNP-VBD": 2,
+      "NNP-VBD-NN": 2,
+      "VBD-NN-IN": 2,
+      "IN-FW-JJ": 1,
+      "FW-JJ-NNP": 1,
+      "JJ-NNP-NN": 3,
+      "NN-NN-NNS": 2,
+      "NNS-VBP-JJ": 5,
+      "VBP-JJ-NNS": 3,
+      "JJ-NNS-IN": 2,
+      "NNS-IN-NNS": 1,
+      "IN-NNS-NNS": 1,
+      "NNS-NNS-VBP": 1,
+      "VBP-JJ-NNP": 1,
+      "NNP-NN-FW": 1,
+      "NNP-NNP-NNS": 1,
+      "NNP-NNS-VBP": 1,
+      "VBP-JJ-JJ": 1,
+      "NN-JJ-FW": 1,
+      "NNP-FW-NNS": 1,
+      "FW-NNS-FW": 1,
+      "NNS-FW-FW": 1,
+      "NN-NNS-NNS": 1,
+      "NNS-NNS-NNP": 1,
+      "NNS-NNP-NN": 1,
+      "NN-NN-NNP": 2,
+      "NN-NNP-NNP": 1,
+      "NN-JJ-NNP": 1,
+      "JJ-NNP-FW": 1,
+      "NNP-VBZ-VB": 1,
+      "VBZ-VB-NNP": 1,
+      "VB-NNP-NN": 1,
+      "NNP-NN-JJ": 1,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-NNS": 1,
+      "VBZ-NNS-FW": 1,
+      "NNS-FW-RB": 1,
+      "FW-RB-JJ": 1,
+      "RB-JJ-NNP": 1,
+      "NNP-NN-NNS": 1,
+      "NNS-IN-FW": 1,
+      "FW-NNS-NNS": 1,
+      "NNS-NNS-NNS": 1,
+      "NNS-NNS-IN": 1,
+      "NNS-IN-NNP": 1,
+      "IN-NNP-VBP": 1,
+      "NNP-VBP-NN": 1,
+      "VBP-NN-FW": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 95,
+        "FW": 59,
+        "NNP": 33,
+        "JJ": 29,
+        "NNS": 20
+      },
+      "top_bigrams": {
+        "NN-NN": 57,
+        "FW-FW": 35,
+        "JJ-NN": 13,
+        "FW-NNP": 11,
+        "NNP-NN": 11
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 32,
+        "FW-FW-FW": 22,
+        "NN-NN-JJ": 9,
+        "NNP-NN-NN": 8,
+        "FW-FW-NNP": 8
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 10,
+    "chunk_counts": {
+      "NP": 78,
+      "VP": 21,
+      "ADJP": 2,
+      "PP": 8
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 6,
+        "weight": 0.0504
+      },
+      {
+        "rule": "NP -> ('Beersheba', 'NNP')",
+        "frequency": 3,
+        "weight": 0.0252
+      },
+      {
+        "rule": "NP -> ('Teherán', 'NNP')",
+        "frequency": 3,
+        "weight": 0.0252
+      },
+      {
+        "rule": "NP -> ('Irán', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0168
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0168
+      },
+      {
+        "rule": "VP -> ('y', 'VBP') NP",
+        "frequency": 2,
+        "weight": 0.0168
+      },
+      {
+        "rule": "S -> NP VP ('mañana', 'FW') ('de', 'FW') ('este', 'FW') NP NP NP VP (',', ',') ('en', 'FW') ('lo', 'FW') ('que', 'FW') ('sería', 'FW') ('la', 'FW') ('decimosexta', 'FW') ('oleada', 'FW') ('de', 'FW') ('misiles', 'FW') ('lanzados', 'FW') ADJP ('la', 'FW') ('ocupación', 'FW') NP NP ('nación', 'FW') NP VP ('13', 'CD') PP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0084
+      },
+      {
+        "rule": "VP -> ('llevó', 'VBZ') NP",
+        "frequency": 1,
+        "weight": 0.0084
+      },
+      {
+        "rule": "NP -> ('a', 'DT') ('cabo', 'NN') ('la', 'NN')",
+        "frequency": 1,
+        "weight": 0.0084
+      },
+      {
+        "rule": "NP -> ('viernes', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0084
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Irán"
+      },
+      {
+        "label": "VP",
+        "text": "llevó a cabo la"
+      },
+      {
+        "label": "NP",
+        "text": "a cabo la"
+      },
+      {
+        "label": "NP",
+        "text": "viernes"
+      },
+      {
+        "label": "NP",
+        "text": "un nuevo ataque defensivo"
+      },
+      {
+        "label": "NP",
+        "text": "contra distintos"
+      },
+      {
+        "label": "VP",
+        "text": "puntos del territorio israelí"
+      },
+      {
+        "label": "NP",
+        "text": "del territorio israelí"
+      },
+      {
+        "label": "ADJP",
+        "text": "contra"
+      },
+      {
+        "label": "NP",
+        "text": "sionista desde que comenzó la"
+      },
+      {
+        "label": "NP",
+        "text": "agresión contra la"
+      },
+      {
+        "label": "NP",
+        "text": "persa el"
+      },
+      {
+        "label": "VP",
+        "text": "pasado"
+      },
+      {
+        "label": "PP",
+        "text": "de junio"
+      },
+      {
+        "label": "NP",
+        "text": "junio"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Irán/NNP)\n  (VP llevó/VBZ (NP a/DT cabo/NN la/NN))\n  mañana/FW\n  de/FW\n  este/FW\n  (NP viernes/NNS)\n  (NP un/JJ nuevo/JJ ataque/NN defensivo/NN)\n  (NP contra/JJ distintos/NNS)\n  (VP puntos/VBP (NP del/NN territorio/NN israelí/NN))\n  ,/,\n  en/FW\n  lo/FW\n  que/FW\n  sería/FW\n  la/FW\n  decimosexta/FW\n  oleada/FW\n  de/FW\n  misiles/FW\n  lanzados/FW\n  (ADJP contra/JJ)\n  la/FW\n  ocupación/FW\n  (NP sionista/NN desde/NN que/NN comenzó/NN la/NN)\n  (NP agresión/JJ contra/JJ la/NN)\n  nación/FW\n  (NP persa/NN el/NN)\n  (VP pasado/VBD)\n  13/CD\n  (PP de/IN (NP junio/NN))\n  ./.)",
+      "(S\n  (NP Se/NNP informó/NN que/NN)\n  (VP\n    el/VBP\n    (NP misil/NN iraní/NN impactó/NN)\n    (NP contra/JJ un/JJ centro/NN))\n  de/IN\n  alta/FW\n  (NP tecnología/NN)\n  ,/,\n  (NP investigación/JJ y/NN ciberseguridad/NN)\n  (PP en/IN (NP Beersheba/NNP))\n  ./.)",
+      "(S\n  (NP El/NNP)\n  ejército/CC\n  (NP israelí/JJ reconoció/NN que/NN)\n  (NP un/JJ misil/NN iraní/NN cayó/NN directamente/NN)\n  en/FW\n  la/FW\n  ciudad/FW\n  de/FW\n  (NP Beersheba/NNP)\n  ,/,\n  en/FW\n  el/FW\n  desierto/FW\n  del/FW\n  (NP Néguev/NNP)\n  ,/,\n  (NP que/NN incluye/NN la/NN base/NN aérea/NN)\n  (PP de/IN (NP Navatim/NNP y/NNP))\n  (VP\n    es/VBZ\n    (NP un/JJ importante/JJ centro/NN tecnológico/NN y/NN militar/NN))\n  ./.)",
+      "(S\n  (NP A/DT consecuencia/NN)\n  de/IN\n  ello/FW\n  ,/,\n  se/FW\n  produjo/FW\n  (NP un/JJ incendio/NN)\n  ,/,\n  mientras/FW\n  (NP que/JJ medios/NNS)\n  (VP hebreos/VBP (NP señalaron/NN que/NN))\n  31/CD\n  (NP colonos/NN resultaron/NN heridos/NN producto/NN)\n  del/FW\n  (NP impacto/NN)\n  (PP en/IN (NP Beersheba/NNP))\n  ./.)",
+      "(S\n  (NP La/NNP Oficina/NNP)\n  (PP de/IN (NP Ferrocarriles/NNP))\n  (PP de/IN (NP Israel/NNP indicó/NN que/NN debido/NN))\n  (NP al/JJ impacto/NN)\n  (PP de/IN (NP un/JJ deslizamiento/NN))\n  (PP de/IN (NP tierra/NN))\n  ,/,\n  la/FW\n  estación/FW\n  (NP Beersheba/NNP Norte/NNP)\n  (VP fue/VBD (NP cerrada/NN))\n  de/IN\n  manera/FW\n  (ADJP temporal/JJ)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "RECURSOS_NATURALES",
+      "DESASTRES_ACCIDENTES_EMERGENCIAS",
+      "TIEMPO_RELATIVO",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "REGIONES_PROVINCIAS",
+      "PAISES",
+      "LOCALIZACIONES_ESPECIFICAS",
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "CONFLICTOS_ARMADOS_OPERACIONES",
+      "INFRAESTRUCTURA_SERVICIOS"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "misil iraní impactó",
+        "position": [
+          300,
+          319
+        ],
+        "start": 300,
+        "end": 319
+      },
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "impactó",
+        "position": [
+          312,
+          319
+        ],
+        "start": 312,
+        "end": 319
+      },
+      {
+        "category": "DESASTRES_ACCIDENTES_EMERGENCIAS",
+        "matched_text": "deslizamiento de tierra",
+        "position": [
+          837,
+          860
+        ],
+        "start": 837,
+        "end": 860
+      },
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "ocupación",
+        "position": [
+          187,
+          196
+        ],
+        "start": 187,
+        "end": 196
+      },
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "capital",
+        "position": [
+          1360,
+          1367
+        ],
+        "start": 1360,
+        "end": 1367
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "informó",
+        "position": [
+          285,
+          292
+        ],
+        "start": 285,
+        "end": 292
+      },
+      {
+        "category": "RECURSOS_NATURALES",
+        "matched_text": "mar",
+        "position": [
+          1775,
+          1778
+        ],
+        "start": 1775,
+        "end": 1778
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "estación",
+        "position": [
+          865,
+          873
+        ],
+        "start": 865,
+        "end": 873
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "israelí",
+        "position": [
+          110,
+          117
+        ],
+        "start": 110,
+        "end": 117
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "provincia de",
+        "position": [
+          1155,
+          1167
+        ],
+        "start": 1155,
+        "end": 1167
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "centro de",
+        "position": [
+          330,
+          339
+        ],
+        "start": 330,
+        "end": 339
+      },
+      {
+        "category": "TIEMPO_RELATIVO",
+        "matched_text": "mañana",
+        "position": [
+          22,
+          28
+        ],
+        "start": 22,
+        "end": 28
+      }
+    ],
+    "match_count": 12
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Irán",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "mar Caspio",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Beersheba Norte",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Oficina de Ferrocarriles de Israel",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Damavand",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "provincia de Golestán",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Lavizan",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Nour",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Beersheba",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "desierto del Néguev",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "provincia de Teherán",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Partishen",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Teherán",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Navatim",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Rasht",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Beersheba",
+        "relacion": "CAER_RECONOCER",
+        "objeto": "desierto del Néguev"
+      },
+      {
+        "sujeto": "Beersheba",
+        "relacion": "CAER_RECONOCER",
+        "objeto": "Navatim"
+      },
+      {
+        "sujeto": "Oficina de Ferrocarriles de Israel",
+        "relacion": "INDICAR",
+        "objeto": "Beersheba Norte"
+      },
+      {
+        "sujeto": "Nour",
+        "relacion": "REPORTAR",
+        "objeto": "Rasht"
+      },
+      {
+        "sujeto": "Teherán",
+        "relacion": "INTERCEPTAR",
+        "objeto": "provincia de Golestán"
+      },
+      {
+        "sujeto": "Teherán",
+        "relacion": "INTERCEPTAR",
+        "objeto": "mar Caspio"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.0,
+    "pos": 0.0,
+    "neu": 1.0,
+    "neg": 0.0,
+    "label": "neutral"
+  }
+}

@@ -1,0 +1,703 @@
+{
+  "url": "https://www.telesurtv.net/en-contra-del-genocidio-marchan-marruecos/",
+  "title": "En contra del genocidio: Marchan en Marruecos en apoyo a la causa palestina - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "apoyo",
+    "Gaza",
+    "Marcha",
+    "Marruecos"
+  ],
+  "text": "Miles de manifestantes se lanzaron este domingo a las calles de Rabat, capital de Marruecos en apoyo a la causa palestina y en contra del genocidio perpetrado por el régimen de Israel contra la Franja de Gaza.\nDe acuerdo con los medios árabes, los manifestantes contabilizados en “decenas de miles” llevaron a cabo una marcha en nombre de todo el pueblo marroquí demostrando así “su solidaridad con la firmeza del pueblo palestino frente a la destrucción y represión de la ocupación israelí”.\nAsimismo, los manifestantes condenaron el desplazamiento forzado de los nacionales palestinos, esto también como parte del genocidio llevado a cabo en el territorio gazatí y palestino en general.\n\nEn la marcha participaron además “destacados dirigentes políticos, de partidos y de la sociedad civil, así como sindicatos, asociaciones y organizaciones de base”, señalan los medios árabes.\nAsimismo, recalcaron que la manifestación que “la lucha por Palestina es una parte inseparable de la lucha más amplia por la liberación, la dignidad y la justicia en todo el mundo”.\nLos reclamos de los pueblos continúan, pues desde octubre de 2023 los crímenes de guerra de Israel en Gaza han dejado una cifra superior a los 50.944 muertos y 116.156 heridos, en una masacre extendida por 18 meses.\nMientras la manifestación se llevaba a cabo, Israel agredió los territorios de Deir al-Balah, Khan Yunis y Rafah.\nUn ataque de la ocupación cobró la vida de siete palestinos que viajaban en un auto en las inmediaciones de una planta desalinizadora, mientras un dron destruyó una carpa de desplazados en Al-Mawasi y dejó a otros fallecidos, muestras de la continuidad del genocidio y de la indiferencia del régimen de Tel Aviv.\n",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/en-contra-del-genocidio-marchan-marruecos/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-04.json",
+    "message_index": 1044,
+    "message_id": 91913,
+    "date": "2025-04-14T22:55:08+00:00",
+    "text": "teleSUR\nEn contra del genocidio: Marchan en Marruecos en apoyo a la causa palestina\nhttps://www.telesurtv.net/en-contra-del-genocidio-marchan-marruecos/",
+    "photo_path": null,
+    "views": 2336,
+    "reactions": {
+      "❤": 47,
+      "👍": 10,
+      "🙏": 8
+    },
+    "total_reactions": 65
+  },
+  "preprocessing": {
+    "cleaned": "miles de manifestantes se lanzaron este domingo a las calles de rabat, capital de marruecos en apoyo a la causa palestina y en contra del genocidio perpetrado por el régimen de israel contra la franja de gaza. de acuerdo con los medios árabes, los manifestantes contabilizados en “decenas de miles” llevaron a cabo una marcha en nombre de todo el pueblo marroquí demostrando así “su solidaridad con la firmeza del pueblo palestino frente a la destrucción y represión de la ocupación israelí”. asimismo, los manifestantes condenaron el desplazamiento forzado de los nacionales palestinos, esto también como parte del genocidio llevado a cabo en el territorio gazatí y palestino en general. en la marcha participaron además “destacados dirigentes políticos, de partidos y de la sociedad civil, así como sindicatos, asociaciones y organizaciones de base”, señalan los medios árabes. asimismo, recalcaron que la manifestación que “la lucha por palestina es una parte inseparable de la lucha más amplia por la liberación, la dignidad y la justicia en todo el mundo”. los reclamos de los pueblos continúan, pues desde octubre de 2023 los crímenes de guerra de israel en gaza han dejado una cifra superior a los 50.944 muertos y 116.156 heridos, en una masacre extendida por 18 meses. mientras la manifestación se llevaba a cabo, israel agredió los territorios de deir al-balah, khan yunis y rafah. un ataque de la ocupación cobró la vida de siete palestinos que viajaban en un auto en las inmediaciones de una planta desalinizadora, mientras un dron destruyó una carpa de desplazados en al-mawasi y dejó a otros fallecidos, muestras de la continuidad del genocidio y de la indiferencia del régimen de tel aviv.",
+    "tokens": [
+      "miles",
+      "manifestantes",
+      "lanzaron",
+      "domingo",
+      "calles",
+      "rabat",
+      ",",
+      "capital",
+      "marruecos",
+      "apoyo",
+      "causa",
+      "palestina",
+      "genocidio",
+      "perpetrado",
+      "régimen",
+      "israel",
+      "franja",
+      "gaza",
+      ".",
+      "acuerdo",
+      "medios",
+      "árabes",
+      ",",
+      "manifestantes",
+      "contabilizados",
+      "“",
+      "decenas",
+      "miles",
+      "”",
+      "llevaron",
+      "cabo",
+      "marcha",
+      "nombre",
+      "pueblo",
+      "marroquí",
+      "demostrando",
+      "así",
+      "“",
+      "solidaridad",
+      "firmeza",
+      "pueblo",
+      "palestino",
+      "frente",
+      "destrucción",
+      "represión",
+      "ocupación",
+      "israelí",
+      "”",
+      ".",
+      "asimismo",
+      ",",
+      "manifestantes",
+      "condenaron",
+      "desplazamiento",
+      "forzado",
+      "nacionales",
+      "palestinos",
+      ",",
+      "parte",
+      "genocidio",
+      "llevado",
+      "cabo",
+      "territorio",
+      "gazatí",
+      "palestino",
+      "general",
+      ".",
+      "marcha",
+      "participaron",
+      "además",
+      "“",
+      "destacados",
+      "dirigentes",
+      "políticos",
+      ",",
+      "partidos",
+      "sociedad",
+      "civil",
+      ",",
+      "así",
+      "sindicatos",
+      ",",
+      "asociaciones",
+      "organizaciones",
+      "base",
+      "”",
+      ",",
+      "señalan",
+      "medios",
+      "árabes",
+      ".",
+      "asimismo",
+      ",",
+      "recalcaron",
+      "manifestación",
+      "“",
+      "lucha",
+      "palestina",
+      "parte",
+      "inseparable",
+      "lucha",
+      "amplia",
+      "liberación",
+      ",",
+      "dignidad",
+      "justicia",
+      "mundo",
+      "”",
+      ".",
+      "reclamos",
+      "pueblos",
+      "continúan",
+      ",",
+      "pues",
+      "octubre",
+      "2023",
+      "crímenes",
+      "guerra",
+      "israel",
+      "gaza",
+      "dejado",
+      "cifra",
+      "superior",
+      "50.944",
+      "muertos",
+      "116.156",
+      "heridos",
+      ",",
+      "masacre",
+      "extendida",
+      "18",
+      "meses",
+      ".",
+      "mientras",
+      "manifestación",
+      "llevaba",
+      "cabo",
+      ",",
+      "israel",
+      "agredió",
+      "territorios",
+      "deir",
+      "al-balah",
+      ",",
+      "khan",
+      "yunis",
+      "rafah",
+      ".",
+      "ataque",
+      "ocupación",
+      "cobró",
+      "vida",
+      "siete",
+      "palestinos",
+      "viajaban",
+      "auto",
+      "inmediaciones",
+      "planta",
+      "desalinizadora",
+      ",",
+      "mientras",
+      "dron",
+      "destruyó",
+      "carpa",
+      "desplazados",
+      "al-mawasi",
+      "dejó",
+      "fallecidos",
+      ",",
+      "muestras",
+      "continuidad",
+      "genocidio",
+      "indiferencia",
+      "régimen",
+      "tel",
+      "aviv",
+      "."
+    ],
+    "token_count": 177,
+    "sentence_count": 8
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 25,
+      "FW": 92,
+      "NN": 67,
+      "JJ": 26,
+      "NNS": 17,
+      "IN": 14,
+      "VBP": 10,
+      "RB": 2,
+      "VBZ": 2,
+      "CD": 4
+    },
+    "bigram_freq": {
+      "NNP-FW": 8,
+      "FW-FW": 63,
+      "FW-NN": 11,
+      "NN-NN": 30,
+      "NN-JJ": 6,
+      "JJ-NNS": 6,
+      "NNS-IN": 6,
+      "IN-NNP": 3,
+      "NNP-NN": 7,
+      "NN-FW": 11,
+      "FW-NNP": 9,
+      "FW-JJ": 6,
+      "JJ-NN": 16,
+      "NN-IN": 7,
+      "IN-JJ": 5,
+      "NNP-NNP": 6,
+      "NN-NNS": 6,
+      "NNS-VBP": 7,
+      "VBP-JJ": 4,
+      "JJ-FW": 2,
+      "FW-NNS": 2,
+      "NNS-RB": 1,
+      "RB-VBP": 1,
+      "NN-NNP": 2,
+      "VBP-RB": 1,
+      "RB-JJ": 1,
+      "IN-FW": 4,
+      "JJ-NNP": 2,
+      "NN-VBZ": 1,
+      "VBZ-FW": 1,
+      "NNS-NNS": 1,
+      "IN-NN": 1,
+      "NN-VBP": 1,
+      "VBP-NNS": 1,
+      "VBP-NNP": 1,
+      "VBP-FW": 3,
+      "FW-IN": 1,
+      "IN-CD": 1,
+      "CD-JJ": 1,
+      "NN-CD": 3,
+      "CD-NN": 2,
+      "CD-NNS": 1,
+      "NNS-NNP": 1,
+      "NNP-VBP": 1,
+      "NNP-VBZ": 1,
+      "VBZ-JJ": 1,
+      "NNP-JJ": 1,
+      "NNS-JJ": 1
+    },
+    "trigram_freq": {
+      "NNP-FW-FW": 2,
+      "FW-FW-FW": 48,
+      "FW-FW-NN": 7,
+      "FW-NN-NN": 3,
+      "NN-NN-JJ": 4,
+      "NN-JJ-NNS": 2,
+      "JJ-NNS-IN": 5,
+      "NNS-IN-NNP": 3,
+      "IN-NNP-NN": 1,
+      "NNP-NN-FW": 2,
+      "NN-FW-NNP": 1,
+      "FW-NNP-FW": 5,
+      "NNP-FW-NN": 2,
+      "FW-NN-FW": 5,
+      "NN-FW-JJ": 3,
+      "FW-JJ-NN": 6,
+      "JJ-NN-IN": 5,
+      "NN-IN-JJ": 4,
+      "IN-JJ-NN": 3,
+      "JJ-NN-NN": 7,
+      "NN-NN-NN": 16,
+      "IN-NNP-NNP": 1,
+      "NNP-NNP-FW": 2,
+      "NNP-FW-NNP": 3,
+      "FW-NNP-NNP": 2,
+      "NN-NN-NNS": 3,
+      "NN-NNS-VBP": 4,
+      "NNS-VBP-JJ": 3,
+      "VBP-JJ-NNS": 1,
+      "JJ-NNS-VBP": 1,
+      "VBP-JJ-FW": 1,
+      "JJ-FW-FW": 2,
+      "FW-FW-NNS": 1,
+      "FW-NNS-RB": 1,
+      "NNS-RB-VBP": 1,
+      "RB-VBP-JJ": 1,
+      "VBP-JJ-NN": 2,
+      "JJ-NN-FW": 1,
+      "NN-FW-FW": 6,
+      "NN-NN-FW": 2,
+      "FW-NN-NNP": 2,
+      "NN-NNP-NN": 1,
+      "NNP-NN-NNS": 2,
+      "NNS-VBP-RB": 1,
+      "VBP-RB-JJ": 1,
+      "RB-JJ-NN": 1,
+      "NN-IN-FW": 3,
+      "IN-FW-NNS": 1,
+      "FW-NNS-VBP": 1,
+      "NN-NN-IN": 2,
+      "IN-FW-NN": 1,
+      "IN-JJ-NNP": 1,
+      "JJ-NNP-NN": 1,
+      "NNP-NN-NN": 3,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-FW": 1,
+      "VBZ-FW-FW": 1,
+      "FW-FW-JJ": 2,
+      "NN-NNS-NNS": 1,
+      "NNS-NNS-IN": 1,
+      "NNS-IN-NN": 1,
+      "IN-NN-NN": 1,
+      "NN-NN-VBP": 1,
+      "NN-VBP-NNS": 1,
+      "VBP-NNS-VBP": 1,
+      "NNS-VBP-NNP": 1,
+      "VBP-NNP-NN": 1,
+      "NN-FW-NN": 1,
+      "FW-FW-NNP": 5,
+      "NNP-FW-JJ": 1,
+      "JJ-NN-JJ": 2,
+      "NN-JJ-FW": 1,
+      "FW-NN-NNS": 1,
+      "NNS-VBP-FW": 2,
+      "VBP-FW-IN": 1,
+      "FW-IN-CD": 1,
+      "IN-CD-JJ": 1,
+      "CD-JJ-NNS": 1,
+      "NNS-IN-FW": 1,
+      "IN-FW-FW": 2,
+      "FW-NNP-NN": 2,
+      "NN-JJ-NN": 3,
+      "JJ-NN-CD": 1,
+      "NN-CD-NN": 2,
+      "CD-NN-CD": 1,
+      "CD-NN-FW": 1,
+      "NN-NN-CD": 1,
+      "NN-CD-NNS": 1,
+      "CD-NNS-NNP": 1,
+      "NNS-NNP-VBP": 1,
+      "NNP-VBP-FW": 1,
+      "VBP-FW-FW": 2,
+      "NN-NNP-VBZ": 1,
+      "NNP-VBZ-JJ": 1,
+      "VBZ-JJ-NNS": 1,
+      "IN-NNP-JJ": 1,
+      "NNP-JJ-NNP": 1,
+      "JJ-NNP-NNP": 1,
+      "NNP-NNP-NNP": 2,
+      "NNP-NNP-NN": 1,
+      "IN-JJ-NNS": 1,
+      "NNS-IN-JJ": 1,
+      "NN-NNS-JJ": 1,
+      "NNS-JJ-NN": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "FW": 92,
+        "NN": 67,
+        "JJ": 26,
+        "NNP": 25,
+        "NNS": 17
+      },
+      "top_bigrams": {
+        "FW-FW": 63,
+        "NN-NN": 30,
+        "JJ-NN": 16,
+        "FW-NN": 11,
+        "NN-FW": 11
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 48,
+        "NN-NN-NN": 16,
+        "FW-FW-NN": 7,
+        "JJ-NN-NN": 7,
+        "FW-JJ-NN": 6
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 8,
+    "chunk_counts": {
+      "NP": 74,
+      "VP": 13,
+      "PP": 8,
+      "ADJP": 4
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 4,
+        "weight": 0.0374
+      },
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 4,
+        "weight": 0.0374
+      },
+      {
+        "rule": "NP -> ('a', 'DT') ('cabo', 'NN')",
+        "frequency": 3,
+        "weight": 0.028
+      },
+      {
+        "rule": "NP -> ('los', 'NN') ('manifestantes', 'NNS')",
+        "frequency": 2,
+        "weight": 0.0187
+      },
+      {
+        "rule": "NP -> ('Asimismo', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0187
+      },
+      {
+        "rule": "NP -> ('Israel', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0187
+      },
+      {
+        "rule": "S -> NP ('de', 'FW') ('manifestantes', 'FW') ('se', 'FW') ('lanzaron', 'FW') NP VP ('de', 'FW') NP (',', ',') NP ('de', 'FW') NP ('en', 'FW') ('apoyo', 'FW') NP PP NP PP ('la', 'FW') NP ('de', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0093
+      },
+      {
+        "rule": "NP -> ('Miles', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0093
+      },
+      {
+        "rule": "NP -> ('este', 'NN')",
+        "frequency": 1,
+        "weight": 0.0093
+      },
+      {
+        "rule": "VP -> ('domingo', 'VBZ') NP",
+        "frequency": 1,
+        "weight": 0.0093
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Miles"
+      },
+      {
+        "label": "NP",
+        "text": "este"
+      },
+      {
+        "label": "VP",
+        "text": "domingo a las calles"
+      },
+      {
+        "label": "NP",
+        "text": "a las calles"
+      },
+      {
+        "label": "NP",
+        "text": "Rabat"
+      },
+      {
+        "label": "NP",
+        "text": "capital"
+      },
+      {
+        "label": "NP",
+        "text": "Marruecos"
+      },
+      {
+        "label": "NP",
+        "text": "a la causa palestina y"
+      },
+      {
+        "label": "PP",
+        "text": "en contra del genocidio perpetrado por"
+      },
+      {
+        "label": "NP",
+        "text": "contra del genocidio perpetrado por"
+      },
+      {
+        "label": "NP",
+        "text": "el régimen"
+      },
+      {
+        "label": "PP",
+        "text": "de Israel contra"
+      },
+      {
+        "label": "NP",
+        "text": "Israel contra"
+      },
+      {
+        "label": "NP",
+        "text": "Franja"
+      },
+      {
+        "label": "NP",
+        "text": "Gaza"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Miles/NNP)\n  de/FW\n  manifestantes/FW\n  se/FW\n  lanzaron/FW\n  (NP este/NN)\n  (VP domingo/VBZ (NP a/DT las/JJ calles/NNS))\n  de/FW\n  (NP Rabat/NNP)\n  ,/,\n  (NP capital/NN)\n  de/FW\n  (NP Marruecos/NNP)\n  en/FW\n  apoyo/FW\n  (NP a/DT la/NN causa/NN palestina/NN y/NN)\n  (PP en/IN (NP contra/JJ del/NN genocidio/NN perpetrado/NN por/NN))\n  (NP el/JJ régimen/NNS)\n  (PP de/IN (NP Israel/NNP contra/NNP))\n  la/FW\n  (NP Franja/NNP)\n  de/FW\n  (NP Gaza/NNP)\n  ./.)",
+      "(S\n  (NP De/NNP)\n  acuerdo/FW\n  (NP con/NN los/NN medios/NNS árabes/NNP)\n  ,/,\n  (NP los/NN manifestantes/NNS)\n  (VP contabilizados/VBP)\n  (PP en/IN (NP “/NNP))\n  decenas/FW\n  de/FW\n  (NP miles/NNS)\n  ”/RB\n  (VP llevaron/VBP (NP a/DT cabo/NN) (NP una/JJ marcha/NN))\n  en/FW\n  nombre/FW\n  de/FW\n  todo/FW\n  el/FW\n  pueblo/FW\n  marroquí/FW\n  demostrando/FW\n  así/FW\n  “/FW\n  su/FW\n  solidaridad/FW\n  (NP con/NN)\n  la/FW\n  (NP firmeza/JJ del/NN pueblo/NN palestino/NN)\n  (VP frente/VBP (NP a/DT la/NN destrucción/NN y/NN represión/NN))\n  de/IN\n  la/FW\n  ocupación/FW\n  (NP israelí/NN ”/NN)\n  ./.)",
+      "(S\n  (NP Asimismo/NNP)\n  ,/,\n  (NP los/NN manifestantes/NNS)\n  (VP condenaron/VBP el/RB (NP desplazamiento/JJ forzado/NN))\n  de/IN\n  los/FW\n  (NP nacionales/NNS palestinos/NNS)\n  ,/,\n  (VP esto/VBP (NP también/JJ como/NN parte/NN del/NN genocidio/NN))\n  (VP llevado/VBZ (NP a/DT cabo/NN))\n  en/IN\n  el/FW\n  (NP territorio/NN gazatí/NN y/NN palestino/NN)\n  en/IN\n  (ADJP general/JJ)\n  ./.)",
+      "(S\n  (NP\n    En/NNP\n    la/NN\n    marcha/NN\n    participaron/NN\n    además/NN\n    “/NNP\n    destacados/NN)\n  (VP dirigentes/VBZ (NP políticos/NNS))\n  ,/,\n  de/FW\n  partidos/FW\n  y/FW\n  de/FW\n  la/FW\n  sociedad/FW\n  (ADJP civil/JJ)\n  ,/,\n  (NP así/JJ como/NN sindicatos/NN)\n  ,/,\n  (NP asociaciones/NNS)\n  (VP y/VBP (NP organizaciones/NNS))\n  (PP de/IN (NP base/NN ”/NNP))\n  ,/,\n  (NP señalan/NN)\n  (NP los/JJ medios/NNS árabes/NNS)\n  ./.)",
+      "(S\n  (NP Asimismo/NNP)\n  ,/,\n  (NP recalcaron/NN que/NN la/NN)\n  manifestación/FW\n  (NP que/NN “/NNP la/NNP)\n  lucha/FW\n  (NP por/NN Palestina/NNP es/NN)\n  (NP una/JJ parte/NN)\n  (ADJP inseparable/JJ)\n  de/FW\n  la/FW\n  lucha/FW\n  más/FW\n  amplia/FW\n  (NP por/NN la/NN liberación/NN)\n  ,/,\n  la/FW\n  dignidad/FW\n  y/FW\n  la/FW\n  justicia/FW\n  en/FW\n  todo/FW\n  el/FW\n  mundo/FW\n  (NP ”/NN)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "PAISES",
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "CONFLICTOS_ARMADOS_OPERACIONES",
+      "RELACIONES_INTERNACIONALES"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "guerra de israel en gaza",
+        "position": [
+          1145,
+          1169
+        ],
+        "start": 1145,
+        "end": 1169
+      },
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "genocidio perpetrado por el régimen de israel contra la franja de gaza",
+        "position": [
+          138,
+          208
+        ],
+        "start": 138,
+        "end": 208
+      },
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "ocupación",
+        "position": [
+          473,
+          482
+        ],
+        "start": 473,
+        "end": 482
+      },
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "capital",
+        "position": [
+          71,
+          78
+        ],
+        "start": 71,
+        "end": 78
+      },
+      {
+        "category": "RELACIONES_INTERNACIONALES",
+        "matched_text": "acuerdo con los medios árabes, los manifestantes contabilizados en “decenas de miles” llevaron a cabo una marcha en nombre de todo el pueblo marroquí demostrando así “su solidaridad con la firmeza del pueblo palestino frente a la destrucción y represión de",
+        "position": [
+          213,
+          469
+        ],
+        "start": 213,
+        "end": 469
+      },
+      {
+        "category": "RELACIONES_INTERNACIONALES",
+        "matched_text": "solidaridad con la firmeza del pueblo palestino frente a",
+        "position": [
+          383,
+          439
+        ],
+        "start": 383,
+        "end": 439
+      },
+      {
+        "category": "RELACIONES_INTERNACIONALES",
+        "matched_text": "en apoyo a la causa palestina",
+        "position": [
+          92,
+          121
+        ],
+        "start": 92,
+        "end": 121
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "palestina",
+        "position": [
+          112,
+          121
+        ],
+        "start": 112,
+        "end": 121
+      }
+    ],
+    "match_count": 8
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Franja de Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Rabat",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Rafah",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Israel",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Al-Mawasi",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Deir al-Balah",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Palestina",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Marruecos",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Khan Yunis",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Tel Aviv",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Israel",
+        "relacion": "AGREDIR",
+        "objeto": "Deir al-Balah"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "AGREDIR",
+        "objeto": "Khan Yunis"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "AGREDIR",
+        "objeto": "Rafah"
+      },
+      {
+        "sujeto": "Al-Mawasi",
+        "relacion": "DESTRUIR_COBRAR",
+        "objeto": "Tel Aviv"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.5423,
+    "pos": 0.013,
+    "neu": 0.987,
+    "neg": 0.0,
+    "label": "positive"
+  }
+}

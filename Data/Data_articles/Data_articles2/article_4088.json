@@ -1,0 +1,835 @@
+{
+  "url": "https://www.telesurtv.net/proyecto-de-aborto-legal-entra-al-congreso-chileno/",
+  "title": "Proyecto de aborto legal entra al Congreso en Chile - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "aborto legal",
+    "Chile",
+    "Congreso",
+    "Congreso Chileno",
+    "derechos",
+    "VIOLACIÓN"
+  ],
+  "text": "El aborto en Chile es actualmente legal solo bajo tres motivos: peligro para la vida de la madre, inviabilidad fetal y embarazo por violación, con límites temporales específicos. Fuera de estas excepciones, la interrupción del embarazo sigue penalizada.\nEl pasado 28 de mayo, el Gobierno del presidente Gabriel Boric presentó un proyecto de ley para despenalizar el aborto voluntario hasta las 14 semanas de gestación, sin necesidad de justificar causales. La propuesta busca garantizar acceso en el sistema público de salud y reconoce el derecho de las mujeres a decidir sobre sus cuerpos.\n\nEste lunes 2 de junio, la iniciativa comenzó su camino legislativo en la Cámara de Diputados, donde se definió que será revisada en las comisiones de Salud, Constitución y Hacienda. El proyecto ingresó sin urgencia, y desde el Ejecutivo reconocen que su postura “es minoría”.\nLa ministra de la Mujer, Antonia Orellana, defendió el debate abierto y sin dramatismos, señalando que “no tememos al debate, aún en condiciones de minoría”, y que el Gobierno confía en sus argumentos, especialmente por los efectos negativos de la clandestinidad y la criminalización de mujeres.\n\n\nEl debate parlamentario ya mostró divisiones profundas. Desde el Gobierno se pidió que también se discutiera en la Comisión de Mujer y Equidad de Género, propuesta que no logró consenso. Mientras parlamentarias como Daniella Cicardini defendieron la participación de esa comisión, diputados de oposición como Henry Leal y Agustín Romero rechazaron la iniciativa, planteando objeciones desde la Constitución hasta el colapso del sistema de salud.\nA esto se suma la advertencia del diputado Tomás Lagomarsino, quien teme que la discusión abra la puerta a retrocesos en la ley de las tres causales. Según la última encuesta de Cadem, solo el 25% de los chilenos apoya el aborto sin restricciones hasta las 14 semanas.\n",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/proyecto-de-aborto-legal-entra-al-congreso-chileno/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-06.json",
+    "message_index": 2101,
+    "message_id": 95569,
+    "date": "2025-06-03T19:55:18+00:00",
+    "text": "teleSUR\nProyecto de aborto legal entra al Congreso en Chile\nhttps://www.telesurtv.net/proyecto-de-aborto-legal-entra-al-congreso-chileno/",
+    "photo_path": null,
+    "views": 1676,
+    "reactions": {
+      "👍": 18,
+      "👎": 2,
+      "😱": 2,
+      "👏": 1,
+      "🤮": 1
+    },
+    "total_reactions": 24
+  },
+  "preprocessing": {
+    "cleaned": "el aborto en chile es actualmente legal solo bajo tres motivos: peligro para la vida de la madre, inviabilidad fetal y embarazo por violación, con límites temporales específicos. fuera de estas excepciones, la interrupción del embarazo sigue penalizada. el pasado 28 de mayo, el gobierno del presidente gabriel boric presentó un proyecto de ley para despenalizar el aborto voluntario hasta las 14 semanas de gestación, sin necesidad de justificar causales. la propuesta busca garantizar acceso en el sistema público de salud y reconoce el derecho de las mujeres a decidir sobre sus cuerpos. este lunes 2 de junio, la iniciativa comenzó su camino legislativo en la cámara de diputados, donde se definió que será revisada en las comisiones de salud, constitución y hacienda. el proyecto ingresó sin urgencia, y desde el ejecutivo reconocen que su postura “es minoría”. la ministra de la mujer, antonia orellana, defendió el debate abierto y sin dramatismos, señalando que “no tememos al debate, aún en condiciones de minoría”, y que el gobierno confía en sus argumentos, especialmente por los efectos negativos de la clandestinidad y la criminalización de mujeres. el debate parlamentario ya mostró divisiones profundas. desde el gobierno se pidió que también se discutiera en la comisión de mujer y equidad de género, propuesta que no logró consenso. mientras parlamentarias como daniella cicardini defendieron la participación de esa comisión, diputados de oposición como henry leal y agustín romero rechazaron la iniciativa, planteando objeciones desde la constitución hasta el colapso del sistema de salud. a esto se suma la advertencia del diputado tomás lagomarsino, quien teme que la discusión abra la puerta a retrocesos en la ley de las tres causales. según la última encuesta de cadem, solo el 25% de los chilenos apoya el aborto sin restricciones hasta las 14 semanas.",
+    "tokens": [
+      "aborto",
+      "chile",
+      "actualmente",
+      "legal",
+      "solo",
+      "bajo",
+      "tres",
+      "motivos",
+      ":",
+      "peligro",
+      "vida",
+      "madre",
+      ",",
+      "inviabilidad",
+      "fetal",
+      "embarazo",
+      "violación",
+      ",",
+      "límites",
+      "temporales",
+      "específicos",
+      ".",
+      "excepciones",
+      ",",
+      "interrupción",
+      "embarazo",
+      "sigue",
+      "penalizada",
+      ".",
+      "pasado",
+      "28",
+      "mayo",
+      ",",
+      "gobierno",
+      "presidente",
+      "gabriel",
+      "boric",
+      "presentó",
+      "proyecto",
+      "ley",
+      "despenalizar",
+      "aborto",
+      "voluntario",
+      "14",
+      "semanas",
+      "gestación",
+      ",",
+      "necesidad",
+      "justificar",
+      "causales",
+      ".",
+      "propuesta",
+      "busca",
+      "garantizar",
+      "acceso",
+      "sistema",
+      "público",
+      "salud",
+      "reconoce",
+      "derecho",
+      "mujeres",
+      "decidir",
+      "cuerpos",
+      ".",
+      "lunes",
+      "2",
+      "junio",
+      ",",
+      "iniciativa",
+      "comenzó",
+      "camino",
+      "legislativo",
+      "cámara",
+      "diputados",
+      ",",
+      "definió",
+      "revisada",
+      "comisiones",
+      "salud",
+      ",",
+      "constitución",
+      "hacienda",
+      ".",
+      "proyecto",
+      "ingresó",
+      "urgencia",
+      ",",
+      "ejecutivo",
+      "reconocen",
+      "postura",
+      "“",
+      "minoría",
+      "”",
+      ".",
+      "ministra",
+      "mujer",
+      ",",
+      "antonia",
+      "orellana",
+      ",",
+      "defendió",
+      "debate",
+      "abierto",
+      "dramatismos",
+      ",",
+      "señalando",
+      "“",
+      "tememos",
+      "debate",
+      ",",
+      "aún",
+      "condiciones",
+      "minoría",
+      "”",
+      ",",
+      "gobierno",
+      "confía",
+      "argumentos",
+      ",",
+      "especialmente",
+      "efectos",
+      "negativos",
+      "clandestinidad",
+      "criminalización",
+      "mujeres",
+      ".",
+      "debate",
+      "parlamentario",
+      "mostró",
+      "divisiones",
+      "profundas",
+      ".",
+      "gobierno",
+      "pidió",
+      "discutiera",
+      "comisión",
+      "mujer",
+      "equidad",
+      "género",
+      ",",
+      "propuesta",
+      "logró",
+      "consenso",
+      ".",
+      "mientras",
+      "parlamentarias",
+      "daniella",
+      "cicardini",
+      "defendieron",
+      "participación",
+      "comisión",
+      ",",
+      "diputados",
+      "oposición",
+      "henry",
+      "leal",
+      "agustín",
+      "romero",
+      "rechazaron",
+      "iniciativa",
+      ",",
+      "planteando",
+      "objeciones",
+      "constitución",
+      "colapso",
+      "sistema",
+      "salud",
+      ".",
+      "suma",
+      "advertencia",
+      "diputado",
+      "tomás",
+      "lagomarsino",
+      ",",
+      "teme",
+      "discusión",
+      "abra",
+      "puerta",
+      "retrocesos",
+      "ley",
+      "tres",
+      "causales",
+      ".",
+      "según",
+      "última",
+      "encuesta",
+      "cadem",
+      ",",
+      "solo",
+      "25",
+      "%",
+      "chilenos",
+      "apoya",
+      "aborto",
+      "restricciones",
+      "14",
+      "semanas",
+      "."
+    ],
+    "token_count": 198,
+    "sentence_count": 12
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 41,
+      "NN": 102,
+      "JJ": 20,
+      "VBZ": 4,
+      "FW": 75,
+      "NNS": 13,
+      "CD": 4,
+      "IN": 15,
+      "VBD": 2,
+      "VBP": 5,
+      "DT": 2,
+      "RB": 1
+    },
+    "bigram_freq": {
+      "NNP-NN": 15,
+      "NN-NN": 58,
+      "NN-NNP": 11,
+      "NN-JJ": 4,
+      "JJ-JJ": 2,
+      "JJ-NN": 12,
+      "NN-VBZ": 2,
+      "VBZ-JJ": 1,
+      "NN-FW": 9,
+      "FW-FW": 41,
+      "FW-JJ": 6,
+      "VBZ-NNS": 1,
+      "NNS-FW": 3,
+      "FW-NNP": 11,
+      "NNP-FW": 8,
+      "FW-NNS": 3,
+      "FW-NN": 14,
+      "NNP-VBZ": 2,
+      "VBZ-CD": 1,
+      "CD-IN": 2,
+      "IN-FW": 11,
+      "NNP-NNP": 12,
+      "NN-IN": 10,
+      "NN-VBD": 1,
+      "VBD-CD": 1,
+      "CD-NNS": 2,
+      "NN-NNS": 4,
+      "NNS-NNP": 2,
+      "NNP-VBP": 1,
+      "VBP-JJ": 4,
+      "NNS-VBP": 4,
+      "VBZ-FW": 1,
+      "IN-JJ": 1,
+      "JJ-NNS": 1,
+      "NNS-IN": 2,
+      "IN-NNP": 2,
+      "NN-DT": 2,
+      "DT-NN": 2,
+      "NN-RB": 1,
+      "RB-NN": 1,
+      "IN-NNS": 1,
+      "JJ-FW": 2,
+      "VBP-NNP": 1,
+      "NNP-IN": 1,
+      "JJ-NNP": 1,
+      "NNP-JJ": 1,
+      "NNS-NNS": 1,
+      "NNP-VBD": 1,
+      "VBD-JJ": 1,
+      "JJ-CD": 2
+    },
+    "trigram_freq": {
+      "NNP-NN-NN": 10,
+      "NN-NN-NNP": 6,
+      "NN-NNP-NN": 4,
+      "NNP-NN-JJ": 2,
+      "NN-JJ-JJ": 1,
+      "JJ-JJ-NN": 2,
+      "JJ-NN-NN": 8,
+      "NN-NN-VBZ": 2,
+      "NN-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 1,
+      "NN-NN-FW": 6,
+      "NN-FW-FW": 3,
+      "FW-FW-FW": 29,
+      "FW-FW-JJ": 2,
+      "FW-JJ-JJ": 1,
+      "NN-NN-NN": 32,
+      "NN-VBZ-NNS": 1,
+      "VBZ-NNS-FW": 1,
+      "NNS-FW-NNP": 1,
+      "FW-NNP-FW": 6,
+      "NNP-FW-FW": 2,
+      "FW-FW-NNS": 3,
+      "FW-NNS-FW": 1,
+      "NNS-FW-FW": 2,
+      "FW-FW-NN": 4,
+      "FW-NN-NN": 6,
+      "NN-NNP-VBZ": 2,
+      "NNP-VBZ-CD": 1,
+      "VBZ-CD-IN": 1,
+      "CD-IN-FW": 2,
+      "IN-FW-FW": 3,
+      "FW-FW-NNP": 3,
+      "NNP-FW-NN": 3,
+      "FW-NN-NNP": 4,
+      "NN-NNP-NNP": 4,
+      "NNP-NNP-NN": 5,
+      "NN-JJ-NN": 3,
+      "JJ-NN-IN": 4,
+      "NN-IN-FW": 8,
+      "IN-FW-NN": 2,
+      "NN-NN-VBD": 1,
+      "NN-VBD-CD": 1,
+      "VBD-CD-NNS": 1,
+      "CD-NNS-FW": 1,
+      "FW-NN-NNS": 2,
+      "NN-NNS-NNP": 1,
+      "NNS-NNP-VBP": 1,
+      "NNP-VBP-JJ": 1,
+      "VBP-JJ-NN": 2,
+      "NN-NN-IN": 5,
+      "IN-FW-JJ": 4,
+      "FW-JJ-NN": 3,
+      "FW-NNS-VBP": 1,
+      "NNS-VBP-JJ": 3,
+      "NNP-VBZ-FW": 1,
+      "VBZ-FW-FW": 1,
+      "IN-FW-NNP": 2,
+      "NNP-FW-NNP": 3,
+      "NN-IN-JJ": 1,
+      "IN-JJ-NNS": 1,
+      "JJ-NNS-IN": 1,
+      "NNS-IN-NNP": 1,
+      "IN-NNP-NNP": 1,
+      "NNP-NNP-NNP": 5,
+      "NN-NN-JJ": 2,
+      "NN-FW-NN": 5,
+      "NN-NNP-FW": 1,
+      "FW-NNP-NNP": 2,
+      "NN-NN-DT": 2,
+      "NN-DT-NN": 2,
+      "DT-NN-RB": 1,
+      "NN-RB-NN": 1,
+      "RB-NN-NN": 1,
+      "NN-IN-NNS": 1,
+      "IN-NNS-IN": 1,
+      "NNS-IN-FW": 1,
+      "FW-JJ-FW": 2,
+      "JJ-FW-NNP": 1,
+      "FW-NNP-NN": 2,
+      "NNP-NN-FW": 2,
+      "JJ-FW-FW": 1,
+      "NN-NN-NNS": 2,
+      "NN-NNS-VBP": 3,
+      "NNS-VBP-NNP": 1,
+      "VBP-NNP-FW": 1,
+      "NNP-NNP-IN": 1,
+      "NNP-IN-NNP": 1,
+      "IN-NNP-NN": 1,
+      "DT-NN-NN": 1,
+      "VBP-JJ-NNP": 1,
+      "JJ-NNP-NN": 1,
+      "FW-NN-IN": 1,
+      "NNP-NNP-JJ": 1,
+      "NNP-JJ-NN": 1,
+      "FW-NN-FW": 1,
+      "FW-NNS-NNS": 1,
+      "NNS-NNS-NNP": 1,
+      "NNS-NNP-NN": 1,
+      "NNP-NN-NNP": 1,
+      "NN-FW-NNP": 1,
+      "FW-NNP-VBD": 1,
+      "NNP-VBD-JJ": 1,
+      "VBD-JJ-CD": 1,
+      "JJ-CD-IN": 1,
+      "VBP-JJ-CD": 1,
+      "JJ-CD-NNS": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 102,
+        "FW": 75,
+        "NNP": 41,
+        "JJ": 20,
+        "IN": 15
+      },
+      "top_bigrams": {
+        "NN-NN": 58,
+        "FW-FW": 41,
+        "NNP-NN": 15,
+        "FW-NN": 14,
+        "JJ-NN": 12
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 32,
+        "FW-FW-FW": 29,
+        "NNP-NN-NN": 10,
+        "JJ-NN-NN": 8,
+        "NN-IN-FW": 8
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 12,
+    "chunk_counts": {
+      "NP": 74,
+      "VP": 12,
+      "PP": 4
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 3,
+        "weight": 0.0294
+      },
+      {
+        "rule": "NP -> ('Gobierno', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0196
+      },
+      {
+        "rule": "NP -> ('semanas', 'NNS')",
+        "frequency": 2,
+        "weight": 0.0196
+      },
+      {
+        "rule": "NP -> ('Mujer', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0196
+      },
+      {
+        "rule": "S -> NP NP VP (':', ':') NP ('la', 'FW') ('vida', 'FW') ('de', 'FW') ('la', 'FW') ('madre', 'FW') (',', ',') NP (',', ',') NP ('específicos', 'RB') ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0098
+      },
+      {
+        "rule": "NP -> ('El', 'NNP') ('aborto', 'NN') ('en', 'NN') ('Chile', 'NNP') ('es', 'NN')",
+        "frequency": 1,
+        "weight": 0.0098
+      },
+      {
+        "rule": "NP -> ('actualmente', 'JJ') ('legal', 'JJ') ('solo', 'NN') ('bajo', 'NN')",
+        "frequency": 1,
+        "weight": 0.0098
+      },
+      {
+        "rule": "VP -> ('tres', 'VBZ') NP",
+        "frequency": 1,
+        "weight": 0.0098
+      },
+      {
+        "rule": "NP -> ('motivos', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0098
+      },
+      {
+        "rule": "NP -> ('peligro', 'NN') ('para', 'NN')",
+        "frequency": 1,
+        "weight": 0.0098
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El aborto en Chile es"
+      },
+      {
+        "label": "NP",
+        "text": "actualmente legal solo bajo"
+      },
+      {
+        "label": "VP",
+        "text": "tres motivos"
+      },
+      {
+        "label": "NP",
+        "text": "motivos"
+      },
+      {
+        "label": "NP",
+        "text": "peligro para"
+      },
+      {
+        "label": "NP",
+        "text": "inviabilidad fetal y embarazo por violación"
+      },
+      {
+        "label": "NP",
+        "text": "con límites temporales"
+      },
+      {
+        "label": "NP",
+        "text": "Fuera"
+      },
+      {
+        "label": "NP",
+        "text": "excepciones"
+      },
+      {
+        "label": "NP",
+        "text": "sigue penalizada"
+      },
+      {
+        "label": "NP",
+        "text": "El"
+      },
+      {
+        "label": "VP",
+        "text": "pasado"
+      },
+      {
+        "label": "NP",
+        "text": "Gobierno"
+      },
+      {
+        "label": "NP",
+        "text": "presidente Gabriel Boric presentó"
+      },
+      {
+        "label": "NP",
+        "text": "un proyecto"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP El/NNP aborto/NN en/NN Chile/NNP es/NN)\n  (NP actualmente/JJ legal/JJ solo/NN bajo/NN)\n  (VP tres/VBZ (NP motivos/NNS))\n  :/:\n  (NP peligro/NN para/NN)\n  la/FW\n  vida/FW\n  de/FW\n  la/FW\n  madre/FW\n  ,/,\n  (NP inviabilidad/JJ fetal/JJ y/NN embarazo/NN por/NN violación/NN)\n  ,/,\n  (NP con/NN límites/NNS temporales/NNS)\n  específicos/RB\n  ./.)",
+      "(S\n  (NP Fuera/NNP)\n  de/FW\n  estas/FW\n  (NP excepciones/NNS)\n  ,/,\n  la/FW\n  interrupción/FW\n  del/FW\n  embarazo/FW\n  (NP sigue/NN penalizada/NN)\n  ./.)",
+      "(S\n  (NP El/NNP)\n  (VP pasado/VBD)\n  28/CD\n  de/FW\n  mayo/FW\n  ,/,\n  el/FW\n  (NP Gobierno/NNP)\n  del/FW\n  (NP presidente/NN Gabriel/NNP Boric/NNP presentó/NN)\n  (NP un/JJ proyecto/NN)\n  de/IN\n  ley/FW\n  (NP para/NN despenalizar/NN el/NN aborto/NN voluntario/NN hasta/NN)\n  (VP las/VBD)\n  14/CD\n  (NP semanas/NNS)\n  de/FW\n  gestación/FW\n  ,/,\n  sin/FW\n  necesidad/FW\n  de/FW\n  (NP justificar/NN causales/NNS)\n  ./.)",
+      "(S\n  (NP La/NNP propuesta/NN busca/NN garantizar/NN acceso/NN)\n  en/IN\n  el/FW\n  (NP sistema/JJ público/NN)\n  de/IN\n  salud/FW\n  y/FW\n  reconoce/FW\n  el/FW\n  derecho/FW\n  de/FW\n  las/FW\n  (VP mujeres/VBZ (NP a/DT decidir/NN sobre/NN sus/NN cuerpos/NN))\n  ./.)",
+      "(S\n  (NP Este/NNP)\n  (VP lunes/VBZ)\n  2/CD\n  (NP de/NN junio/NN)\n  ,/,\n  la/FW\n  iniciativa/FW\n  (NP comenzó/NN su/NN camino/NN legislativo/NN)\n  en/IN\n  la/FW\n  (NP Cámara/NNP)\n  de/FW\n  (NP Diputados/NNP)\n  ,/,\n  (NP donde/NN se/NN definió/NN que/NN será/NN revisada/NN)\n  (PP en/IN (NP las/JJ comisiones/NNS))\n  (PP de/IN (NP Salud/NNP))\n  ,/,\n  (NP Constitución/NNP y/NNP Hacienda/NNP)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "GOBIERNOS_OFICIALES",
+      "GRUPOS_ESPECIFICOS",
+      "LEYES_NORMATIVAS",
+      "FECHAS_ESPECIFICAS",
+      "TIEMPO_RELATIVO",
+      "PAISES",
+      "CONFLICTOS_ARMADOS_OPERACIONES",
+      "JURIDICO_LEGISLATIVO_CORRUPCION",
+      "VIOLENCIA_CRIMEN_DERECHOS_HUMANOS"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "ingresó",
+        "position": [
+          786,
+          793
+        ],
+        "start": 786,
+        "end": 793
+      },
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "defendió",
+        "position": [
+          911,
+          919
+        ],
+        "start": 911,
+        "end": 919
+      },
+      {
+        "category": "JURIDICO_LEGISLATIVO_CORRUPCION",
+        "matched_text": "presentó un proyecto",
+        "position": [
+          317,
+          337
+        ],
+        "start": 317,
+        "end": 337
+      },
+      {
+        "category": "JURIDICO_LEGISLATIVO_CORRUPCION",
+        "matched_text": "diputados, donde se definió que será revisada en las comisiones de salud, constitución y hacienda. el proyecto",
+        "position": [
+          675,
+          785
+        ],
+        "start": 675,
+        "end": 785
+      },
+      {
+        "category": "VIOLENCIA_CRIMEN_DERECHOS_HUMANOS",
+        "matched_text": "salud y reconoce el derecho",
+        "position": [
+          519,
+          546
+        ],
+        "start": 519,
+        "end": 546
+      },
+      {
+        "category": "VIOLENCIA_CRIMEN_DERECHOS_HUMANOS",
+        "matched_text": "equidad",
+        "position": [
+          1301,
+          1308
+        ],
+        "start": 1301,
+        "end": 1308
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "gobierno del presidente gabriel",
+        "position": [
+          279,
+          310
+        ],
+        "start": 279,
+        "end": 310
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente gabriel boric",
+        "position": [
+          292,
+          316
+        ],
+        "start": 292,
+        "end": 316
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "ministra de la mujer",
+        "position": [
+          871,
+          891
+        ],
+        "start": 871,
+        "end": 891
+      },
+      {
+        "category": "GRUPOS_ESPECIFICOS",
+        "matched_text": "mujeres",
+        "position": [
+          554,
+          561
+        ],
+        "start": 554,
+        "end": 561
+      },
+      {
+        "category": "LEYES_NORMATIVAS",
+        "matched_text": "ley para despenalizar el aborto voluntario hasta las 14",
+        "position": [
+          341,
+          396
+        ],
+        "start": 341,
+        "end": 396
+      },
+      {
+        "category": "LEYES_NORMATIVAS",
+        "matched_text": "proyecto de ley",
+        "position": [
+          329,
+          344
+        ],
+        "start": 329,
+        "end": 344
+      },
+      {
+        "category": "LEYES_NORMATIVAS",
+        "matched_text": "constitución",
+        "position": [
+          749,
+          761
+        ],
+        "start": 749,
+        "end": 761
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "chile",
+        "position": [
+          13,
+          18
+        ],
+        "start": 13,
+        "end": 18
+      },
+      {
+        "category": "FECHAS_ESPECIFICAS",
+        "matched_text": "lunes 2 de junio",
+        "position": [
+          597,
+          613
+        ],
+        "start": 597,
+        "end": 613
+      },
+      {
+        "category": "TIEMPO_RELATIVO",
+        "matched_text": "actualmente",
+        "position": [
+          22,
+          33
+        ],
+        "start": 22,
+        "end": 33
+      }
+    ],
+    "match_count": 16
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Ejecutivo",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Cámara de Diputados",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Comisión de Mujer",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Equidad de Género",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Tomás Lagomarsino",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Daniella Cicardini",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Agustín Romero",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Henry Leal",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Gabriel Boric",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Gobierno del presidente",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Gobierno",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Antonia Orellana",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Chile",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Cadem",
+        "tipo": "Persona"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Gobierno",
+        "relacion": "DEFENDER",
+        "objeto": "Antonia Orellana"
+      },
+      {
+        "sujeto": "Gobierno",
+        "relacion": "PEDIR",
+        "objeto": "Comisión de Mujer"
+      },
+      {
+        "sujeto": "Gobierno",
+        "relacion": "PEDIR",
+        "objeto": "Equidad de Género"
+      },
+      {
+        "sujeto": "Daniella Cicardini",
+        "relacion": "MIENTRAS_DEFENDER_RECHAZAR",
+        "objeto": "Henry Leal"
+      },
+      {
+        "sujeto": "Daniella Cicardini",
+        "relacion": "MIENTRAS_DEFENDER_RECHAZAR",
+        "objeto": "Agustín Romero"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.9442,
+    "pos": 0.005,
+    "neu": 0.939,
+    "neg": 0.056,
+    "label": "negative"
+  }
+}

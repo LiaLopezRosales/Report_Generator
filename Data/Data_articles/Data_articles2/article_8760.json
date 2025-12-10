@@ -1,0 +1,637 @@
+{
+  "url": "https://www.telesurtv.net/federales-establecen-sistema-de-vigilancia-en-puestos-de-mando-ante-elecciones-en-ee-uu/",
+  "title": "Federales establecen sistema de vigilancia en puestos de mando ante elecciones en EE.UU. - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "EE.UU.",
+    "EE.UU. decide",
+    "elecciones",
+    "puestos de mando",
+    "Vigilancia"
+  ],
+  "text": "Medios locales en Estados Unidos (EE.UU.) aseguran que funcionarios federales están en vigilancia permanente en puestos de mando en el marco de las elecciones del país.\nPor su parte, el subdirector adjunto de la División de Investigación Criminal del Buró Federal de Investigaciones (FBI), James Barnacle, precisó que la agencia organiza un puesto de mando en torno a cada elección federal, pero el de este año “es más sólido”, con la participación de más organismos federales.\nEl puesto de mando instalado por las autoridades estadounidenses está agrupado por funcionarios del FBI, el Departamento de Justicia, el Servicio Secreto, la Policía del Capitolio, el Departamento de Seguridad Nacional y otros organismos.\nSegún Barnacle “estas amenazas incluyen amenazas criminales -como las amenazas a los trabajadores electorales-, influencia maligna extranjera, amenazas cibernéticas y actos de violencia doméstica”.\nDe igual manera, refirió que los funcionarios federales han visto “algunas operaciones de influencia maligna extranjera”, así como intentos de ataques cibernéticos “donde los adversarios están tratando de golpear a los secretarios de estado o gobiernos estatales o locales y causar problemas con su infraestructura”.\nMedios locales insisten que el puesto de mando funcionará 24 horas al día hasta el sábado 9 de noviembre, con unas 80 personas trabajando por turno.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/federales-establecen-sistema-de-vigilancia-en-puestos-de-mando-ante-elecciones-en-ee-uu/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-11.json",
+    "message_index": 1549,
+    "message_id": 79844,
+    "date": "2024-11-05T02:55:23+00:00",
+    "text": "teleSUR\nFederales establecen sistema de vigilancia en puestos de mando ante elecciones en EE.UU.\nhttps://www.telesurtv.net/federales-establecen-sistema-de-vigilancia-en-puestos-de-mando-ante-elecciones-en-ee-uu/",
+    "photo_path": null,
+    "views": 2883,
+    "reactions": {
+      "🤡": 40,
+      "👍": 6,
+      "🤮": 4,
+      "😁": 2,
+      "🔥": 1,
+      "🥱": 1
+    },
+    "total_reactions": 54
+  },
+  "preprocessing": {
+    "cleaned": "medios locales en estados unidos (ee.uu.) aseguran que funcionarios federales están en vigilancia permanente en puestos de mando en el marco de las elecciones del país. por su parte, el subdirector adjunto de la división de investigación criminal del buró federal de investigaciones (fbi), james barnacle, precisó que la agencia organiza un puesto de mando en torno a cada elección federal, pero el de este año “es más sólido”, con la participación de más organismos federales. el puesto de mando instalado por las autoridades estadounidenses está agrupado por funcionarios del fbi, el departamento de justicia, el servicio secreto, la policía del capitolio, el departamento de seguridad nacional y otros organismos. según barnacle “estas amenazas incluyen amenazas criminales -como las amenazas a los trabajadores electorales-, influencia maligna extranjera, amenazas cibernéticas y actos de violencia doméstica”. de igual manera, refirió que los funcionarios federales han visto “algunas operaciones de influencia maligna extranjera”, así como intentos de ataques cibernéticos “donde los adversarios están tratando de golpear a los secretarios de estado o gobiernos estatales o locales y causar problemas con su infraestructura”. medios locales insisten que el puesto de mando funcionará 24 horas al día hasta el sábado 9 de noviembre, con unas 80 personas trabajando por turno.",
+    "tokens": [
+      "medios",
+      "locales",
+      "unidos",
+      "(",
+      "ee.uu.",
+      ")",
+      "aseguran",
+      "funcionarios",
+      "federales",
+      "vigilancia",
+      "permanente",
+      "puestos",
+      "mando",
+      "marco",
+      "elecciones",
+      "país",
+      ".",
+      "parte",
+      ",",
+      "subdirector",
+      "adjunto",
+      "división",
+      "investigación",
+      "criminal",
+      "buró",
+      "federal",
+      "investigaciones",
+      "(",
+      "fbi",
+      ")",
+      ",",
+      "james",
+      "barnacle",
+      ",",
+      "precisó",
+      "agencia",
+      "organiza",
+      "puesto",
+      "mando",
+      "torno",
+      "cada",
+      "elección",
+      "federal",
+      ",",
+      "año",
+      "“",
+      "sólido",
+      "”",
+      ",",
+      "participación",
+      "organismos",
+      "federales",
+      ".",
+      "puesto",
+      "mando",
+      "instalado",
+      "autoridades",
+      "estadounidenses",
+      "agrupado",
+      "funcionarios",
+      "fbi",
+      ",",
+      "departamento",
+      "justicia",
+      ",",
+      "servicio",
+      "secreto",
+      ",",
+      "policía",
+      "capitolio",
+      ",",
+      "departamento",
+      "seguridad",
+      "nacional",
+      "organismos",
+      ".",
+      "según",
+      "barnacle",
+      "“",
+      "amenazas",
+      "incluyen",
+      "amenazas",
+      "criminales",
+      "-como",
+      "amenazas",
+      "trabajadores",
+      "electorales-",
+      ",",
+      "influencia",
+      "maligna",
+      "extranjera",
+      ",",
+      "amenazas",
+      "cibernéticas",
+      "actos",
+      "violencia",
+      "doméstica",
+      "”",
+      ".",
+      "igual",
+      "manera",
+      ",",
+      "refirió",
+      "funcionarios",
+      "federales",
+      "visto",
+      "“",
+      "operaciones",
+      "influencia",
+      "maligna",
+      "extranjera",
+      "”",
+      ",",
+      "así",
+      "intentos",
+      "ataques",
+      "cibernéticos",
+      "“",
+      "adversarios",
+      "tratando",
+      "golpear",
+      "secretarios",
+      "gobiernos",
+      "estatales",
+      "locales",
+      "causar",
+      "problemas",
+      "infraestructura",
+      "”",
+      ".",
+      "medios",
+      "locales",
+      "insisten",
+      "puesto",
+      "mando",
+      "funcionará",
+      "24",
+      "horas",
+      "día",
+      "sábado",
+      "9",
+      "noviembre",
+      ",",
+      "unas",
+      "80",
+      "personas",
+      "trabajando",
+      "turno",
+      "."
+    ],
+    "token_count": 149,
+    "sentence_count": 6
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNS": 20,
+      "VBZ": 3,
+      "IN": 13,
+      "NNP": 30,
+      "VBD": 1,
+      "JJ": 23,
+      "VBP": 10,
+      "NN": 47,
+      "FW": 42,
+      "MD": 1,
+      "VB": 2,
+      "$": 1,
+      "CD": 2,
+      "RB": 1
+    },
+    "bigram_freq": {
+      "NNS-VBZ": 1,
+      "VBZ-IN": 1,
+      "IN-NNP": 1,
+      "NNP-NNP": 14,
+      "NNP-VBD": 1,
+      "VBD-JJ": 1,
+      "JJ-NNS": 5,
+      "NNS-NNS": 3,
+      "NNS-VBP": 9,
+      "VBP-IN": 1,
+      "IN-NN": 1,
+      "NN-NN": 24,
+      "NN-FW": 3,
+      "FW-FW": 19,
+      "FW-NNS": 3,
+      "NNS-FW": 1,
+      "FW-NN": 7,
+      "NN-NNP": 2,
+      "NNP-NN": 3,
+      "NN-IN": 8,
+      "IN-FW": 9,
+      "FW-NNP": 10,
+      "NNP-FW": 10,
+      "NN-JJ": 4,
+      "JJ-NN": 11,
+      "NN-VBZ": 1,
+      "VBZ-JJ": 1,
+      "FW-JJ": 2,
+      "NNS-NNP": 1,
+      "NN-NNS": 4,
+      "VBP-NNS": 1,
+      "VBP-JJ": 6,
+      "VBP-NNP": 1,
+      "NNP-MD": 1,
+      "MD-VB": 1,
+      "VB-NNP": 1,
+      "JJ-IN": 1,
+      "IN-JJ": 1,
+      "NNS-JJ": 2,
+      "JJ-JJ": 5,
+      "NNS-IN": 2,
+      "IN-NNS": 1,
+      "VBP-NN": 1,
+      "NNP-VBZ": 1,
+      "VBZ-VB": 1,
+      "VB-JJ": 1,
+      "FW-$": 1,
+      "$-CD": 1,
+      "CD-NNS": 2,
+      "NNS-RB": 1,
+      "RB-VBP": 1,
+      "JJ-CD": 1
+    },
+    "trigram_freq": {
+      "NNS-VBZ-IN": 1,
+      "VBZ-IN-NNP": 1,
+      "IN-NNP-NNP": 1,
+      "NNP-NNP-NNP": 8,
+      "NNP-NNP-VBD": 1,
+      "NNP-VBD-JJ": 1,
+      "VBD-JJ-NNS": 1,
+      "JJ-NNS-NNS": 1,
+      "NNS-NNS-VBP": 2,
+      "NNS-VBP-IN": 1,
+      "VBP-IN-NN": 1,
+      "IN-NN-NN": 1,
+      "NN-NN-FW": 2,
+      "NN-FW-FW": 3,
+      "FW-FW-FW": 12,
+      "FW-FW-NNS": 2,
+      "FW-NNS-FW": 1,
+      "NNS-FW-NN": 1,
+      "FW-NN-NNP": 1,
+      "NN-NNP-NN": 1,
+      "NNP-NN-NN": 2,
+      "NN-NN-NN": 12,
+      "NN-NN-IN": 4,
+      "NN-IN-FW": 7,
+      "IN-FW-FW": 4,
+      "FW-FW-NNP": 2,
+      "FW-NNP-FW": 6,
+      "NNP-FW-NNP": 8,
+      "FW-NNP-NNP": 4,
+      "NNP-NNP-FW": 3,
+      "NNP-NNP-NN": 1,
+      "NN-NN-JJ": 2,
+      "NN-JJ-NN": 2,
+      "JJ-NN-JJ": 1,
+      "JJ-NN-IN": 3,
+      "FW-FW-NN": 3,
+      "FW-NN-VBZ": 1,
+      "NN-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 1,
+      "JJ-NN-NN": 5,
+      "IN-FW-JJ": 2,
+      "FW-JJ-NN": 1,
+      "FW-NNS-NNP": 1,
+      "NNS-NNP-NN": 1,
+      "NNP-NN-FW": 1,
+      "FW-NN-NN": 4,
+      "NN-NN-NNS": 2,
+      "NN-NNS-VBP": 4,
+      "NNS-VBP-NNS": 1,
+      "VBP-NNS-VBP": 1,
+      "NNS-VBP-JJ": 5,
+      "VBP-JJ-NN": 3,
+      "JJ-NN-NNS": 2,
+      "NNS-VBP-NNP": 1,
+      "VBP-NNP-FW": 1,
+      "NNP-NNP-MD": 1,
+      "NNP-MD-VB": 1,
+      "MD-VB-NNP": 1,
+      "VB-NNP-NNP": 1,
+      "NNP-FW-NN": 2,
+      "VBP-JJ-IN": 1,
+      "JJ-IN-JJ": 1,
+      "IN-JJ-NNS": 1,
+      "JJ-NNS-JJ": 1,
+      "NNS-JJ-JJ": 1,
+      "JJ-JJ-NN": 3,
+      "NN-JJ-JJ": 1,
+      "JJ-JJ-NNS": 2,
+      "JJ-NNS-VBP": 1,
+      "VBP-JJ-JJ": 2,
+      "JJ-NNS-IN": 2,
+      "NNS-IN-FW": 2,
+      "NN-IN-NNS": 1,
+      "IN-NNS-VBP": 1,
+      "NNS-VBP-NN": 1,
+      "VBP-NN-IN": 1,
+      "FW-JJ-NNS": 1,
+      "IN-FW-NNS": 1,
+      "FW-NNS-NNS": 1,
+      "NNS-NNS-NNS": 1,
+      "NN-NN-NNP": 1,
+      "NN-NNP-VBZ": 1,
+      "NNP-VBZ-VB": 1,
+      "VBZ-VB-JJ": 1,
+      "VB-JJ-JJ": 1,
+      "IN-FW-$": 1,
+      "FW-$-CD": 1,
+      "$-CD-NNS": 1,
+      "CD-NNS-RB": 1,
+      "NNS-RB-VBP": 1,
+      "RB-VBP-JJ": 1,
+      "IN-FW-NN": 1,
+      "FW-NN-JJ": 1,
+      "NN-JJ-CD": 1,
+      "JJ-CD-NNS": 1,
+      "CD-NNS-JJ": 1,
+      "NNS-JJ-NN": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 47,
+        "FW": 42,
+        "NNP": 30,
+        "JJ": 23,
+        "NNS": 20
+      },
+      "top_bigrams": {
+        "NN-NN": 24,
+        "FW-FW": 19,
+        "NNP-NNP": 14,
+        "JJ-NN": 11,
+        "FW-NNP": 10
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 12,
+        "NN-NN-NN": 12,
+        "NNP-NNP-NNP": 8,
+        "NNP-FW-NNP": 8,
+        "NN-IN-FW": 7
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 6,
+    "chunk_counts": {
+      "NP": 59,
+      "VP": 16,
+      "PP": 5,
+      "ADJP": 4
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0222
+      },
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0222
+      },
+      {
+        "rule": "NP -> ('FBI', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0222
+      },
+      {
+        "rule": "NP -> ('Departamento', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0222
+      },
+      {
+        "rule": "S -> NP VP PP ('(', '(') NP (')', ')') VP VP PP ('en', 'FW') ('puestos', 'FW') ('de', 'FW') ('mando', 'FW') ('en', 'FW') ('el', 'FW') ('marco', 'FW') ('de', 'FW') ('las', 'FW') NP ('del', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0111
+      },
+      {
+        "rule": "NP -> ('Medios', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0111
+      },
+      {
+        "rule": "VP -> ('locales', 'VBZ')",
+        "frequency": 1,
+        "weight": 0.0111
+      },
+      {
+        "rule": "NP -> ('Estados', 'NNP') ('Unidos', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0111
+      },
+      {
+        "rule": "NP -> ('EE.UU.', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0111
+      },
+      {
+        "rule": "VP -> ('aseguran', 'VBD') NP",
+        "frequency": 1,
+        "weight": 0.0111
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Medios"
+      },
+      {
+        "label": "VP",
+        "text": "locales"
+      },
+      {
+        "label": "PP",
+        "text": "en Estados Unidos"
+      },
+      {
+        "label": "NP",
+        "text": "Estados Unidos"
+      },
+      {
+        "label": "NP",
+        "text": "EE.UU."
+      },
+      {
+        "label": "VP",
+        "text": "aseguran que funcionarios federales"
+      },
+      {
+        "label": "NP",
+        "text": "que funcionarios federales"
+      },
+      {
+        "label": "VP",
+        "text": "están"
+      },
+      {
+        "label": "PP",
+        "text": "en vigilancia permanente"
+      },
+      {
+        "label": "NP",
+        "text": "vigilancia permanente"
+      },
+      {
+        "label": "NP",
+        "text": "elecciones"
+      },
+      {
+        "label": "NP",
+        "text": "país"
+      },
+      {
+        "label": "NP",
+        "text": "Por su parte"
+      },
+      {
+        "label": "NP",
+        "text": "el subdirector"
+      },
+      {
+        "label": "NP",
+        "text": "División"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Medios/NNS)\n  (VP locales/VBZ)\n  (PP en/IN (NP Estados/NNP Unidos/NNP))\n  (/(\n  (NP EE.UU./NNP)\n  )/)\n  (VP aseguran/VBD (NP que/JJ funcionarios/NNS federales/NNS))\n  (VP están/VBP)\n  (PP en/IN (NP vigilancia/NN permanente/NN))\n  en/FW\n  puestos/FW\n  de/FW\n  mando/FW\n  en/FW\n  el/FW\n  marco/FW\n  de/FW\n  las/FW\n  (NP elecciones/NNS)\n  del/FW\n  (NP país/NN)\n  ./.)",
+      "(S\n  (NP Por/NNP su/NN parte/NN)\n  ,/,\n  (NP el/JJ subdirector/NN)\n  adjunto/IN\n  de/FW\n  la/FW\n  (NP División/NNP)\n  de/FW\n  (NP Investigación/NNP Criminal/NNP)\n  del/FW\n  (NP Buró/NNP Federal/NNP)\n  (PP de/IN (NP Investigaciones/NNP))\n  (/(\n  (NP FBI/NNP)\n  )/)\n  ,/,\n  (NP James/NNP Barnacle/NNP)\n  ,/,\n  (NP precisó/NN que/NN la/NN)\n  (NP agencia/JJ organiza/NN)\n  (NP un/JJ puesto/NN)\n  de/IN\n  mando/FW\n  en/FW\n  torno/FW\n  (NP a/DT cada/NN)\n  (ADJP elección/JJ)\n  (ADJP federal/JJ)\n  ,/,\n  (ADJP pero/JJ)\n  el/FW\n  de/FW\n  este/FW\n  año/FW\n  “/FW\n  es/FW\n  más/FW\n  (NP sólido/NN ”/NN)\n  ,/,\n  (NP con/NN)\n  la/FW\n  participación/FW\n  de/FW\n  más/FW\n  (NP organismos/JJ federales/NNS)\n  ./.)",
+      "(S\n  (NP El/NNP puesto/NN)\n  de/FW\n  mando/FW\n  (NP instalado/NN por/NN las/NNS)\n  (VP autoridades/VBP (NP estadounidenses/NNS))\n  (VP está/VBP (NP agrupado/JJ por/NN funcionarios/NNS))\n  (VP del/VBP (NP FBI/NNP))\n  ,/,\n  el/FW\n  (NP Departamento/NNP)\n  de/FW\n  (NP Justicia/NNP)\n  ,/,\n  el/FW\n  (NP Servicio/NNP Secreto/NNP)\n  ,/,\n  (NP la/NN Policía/NNP del/NN Capitolio/NNP)\n  ,/,\n  el/FW\n  (NP Departamento/NNP)\n  de/FW\n  (NP Seguridad/NNP Nacional/NNP y/NN otros/NN organismos/NN)\n  ./.)",
+      "(S\n  (NP Según/NNP Barnacle/NNP “/NNP)\n  estas/FW\n  (NP amenazas/NN incluyen/NN amenazas/NN criminales/NNS)\n  (VP -como/VBP las/JJ)\n  (PP amenazas/IN (NP a/DT los/JJ trabajadores/NNS))\n  (ADJP electorales-/JJ)\n  ,/,\n  (NP influencia/JJ maligna/NN extranjera/NN)\n  ,/,\n  (NP amenazas/JJ cibernéticas/NN y/NN actos/NN)\n  de/IN\n  violencia/FW\n  (NP doméstica/NN ”/NN)\n  ./.)",
+      "(S\n  (NP De/NNP)\n  (NP igual/JJ manera/NN)\n  ,/,\n  (NP refirió/NN que/NN)\n  (NP los/JJ funcionarios/JJ federales/NNS)\n  (VP han/VBP (NP visto/JJ “/NNP algunas/NN operaciones/NNS))\n  de/IN\n  influencia/FW\n  maligna/FW\n  (NP extranjera/NN ”/NN)\n  ,/,\n  (NP así/JJ como/NN intentos/NN)\n  (PP de/IN (NP ataques/NNS))\n  (VP cibernéticos/VBP (NP “/NNP donde/NN los/NN adversarios/NNS))\n  (VP están/VBP (NP tratando/NN))\n  de/FW\n  golpear/FW\n  (NP a/DT los/JJ secretarios/NN)\n  de/IN\n  estado/FW\n  (NP o/JJ gobiernos/NNS estatales/NNS)\n  (VP o/VBP (NP locales/NNS) y/RB)\n  (VP\n    causar/VBP\n    (NP problemas/JJ con/NN su/NN infraestructura/NN ”/NNP))\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "CANTIDADES_NUMERICAS",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "REGIONES_PROVINCIAS",
+      "INSTITUCIONES_EDUCATIVAS",
+      "PAISES",
+      "FECHAS_ESPECIFICAS"
+    ],
+    "matches": [
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "precisó",
+        "position": [
+          306,
+          313
+        ],
+        "start": 306,
+        "end": 313
+      },
+      {
+        "category": "INSTITUCIONES_EDUCATIVAS",
+        "matched_text": "departamento de justicia",
+        "position": [
+          586,
+          610
+        ],
+        "start": 586,
+        "end": 610
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "estados unidos",
+        "position": [
+          18,
+          32
+        ],
+        "start": 18,
+        "end": 32
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "departamento de",
+        "position": [
+          586,
+          601
+        ],
+        "start": 586,
+        "end": 601
+      },
+      {
+        "category": "FECHAS_ESPECIFICAS",
+        "matched_text": "sábado 9 de noviembre",
+        "position": [
+          1315,
+          1336
+        ],
+        "start": 1315,
+        "end": 1336
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "80 personas",
+        "position": [
+          1347,
+          1358
+        ],
+        "start": 1347,
+        "end": 1358
+      }
+    ],
+    "match_count": 6
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "EE.UU.",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "División de Investigación Criminal del",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "en Estados Unidos",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "James Barnacle",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Departamento de Seguridad Nacional",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Servicio Secreto",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Departamento de Justicia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Policía del Capitolio",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Buró Federal de Investigaciones",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "FBI",
+        "tipo": "Organizacion"
+      }
+    ],
+    "relaciones": []
+  },
+  "sentiment": {
+    "compound": -0.5267,
+    "pos": 0.0,
+    "neu": 0.983,
+    "neg": 0.017,
+    "label": "negative"
+  }
+}

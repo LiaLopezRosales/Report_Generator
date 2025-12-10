@@ -1,0 +1,811 @@
+{
+  "url": "https://www.telesurtv.net/venezuela-ofrece-ayuda-a-colombia-ante-emergencia-climatica-por-lluvias/",
+  "title": "Venezuela ofrece ayuda a Colombia ante emergencia climática por lluvias - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "Ayuda",
+    "emergencia climática",
+    "lluvias"
+  ],
+  "text": "El Gobierno de Venezuela aseguró este martes que el país suramericano “se encuentra listo para brindar la ayuda necesaria que requiera Colombia”, ante la emergencia que desataron las grandes inundaciones que afectaron a 27 de los 32 departamentos.\n“Siguiendo instrucciones del Presidente Nicolás Maduro Moros transmitimos un mensaje de solidaridad al gobierno y pueblo colombiano, ante la emergencia ocasionada por la situación climática, principalmente en la Alta Guajira, El Chocó y Bogotá”, escribió el canciller venezolano, Yván Gil, en sus redes sociales.\nEn ese sentido, indicó que Venezuela pone a disposición de Colombia todas sus capacidades “para atender esta situación de emergencia”.\nEl pasado domingo, el presidente colombiano, Gustavo Petro, declaró situación de desastre natural en Colombia, “en virtud de la variabilidad climática generadora de impactos imprevisibles e inusuales, aumentando la vulnerabilidad en los territorios”.\nEn su discurso, el mandatario destacó que esta vulnerabilidad climática se agrava por impactos relacionados con la deforestación, las economías ilícitas y por la urbanización desaforada de la sabana de Bogotá (capital).\nLa medida del Gobierno colombiano tiene como propósito atender las emergencias mediante el traslado de presupuestos de entidades del país no vinculadas con la atención a desastres, a los sitios que han sido víctimas de la situación climática.\nSegún datos preliminares, en el departamento de Chocó, al noroeste de Colombia, unas 30.000 familias han resultado afectadas por las lluvias.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/venezuela-ofrece-ayuda-a-colombia-ante-emergencia-climatica-por-lluvias/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-11.json",
+    "message_index": 1157,
+    "message_id": 80268,
+    "date": "2024-11-12T20:55:07+00:00",
+    "text": "teleSUR\nVenezuela ofrece ayuda a Colombia ante emergencia climática por lluvias\nhttps://www.telesurtv.net/venezuela-ofrece-ayuda-a-colombia-ante-emergencia-climatica-por-lluvias/",
+    "photo_path": null,
+    "views": 2852,
+    "reactions": {
+      "👍": 53,
+      "👏": 2,
+      "❤": 1
+    },
+    "total_reactions": 56
+  },
+  "preprocessing": {
+    "cleaned": "el gobierno de venezuela aseguró este martes que el país suramericano “se encuentra listo para brindar la ayuda necesaria que requiera colombia”, ante la emergencia que desataron las grandes inundaciones que afectaron a 27 de los 32 departamentos. “siguiendo instrucciones del presidente nicolás maduro moros transmitimos un mensaje de solidaridad al gobierno y pueblo colombiano, ante la emergencia ocasionada por la situación climática, principalmente en la alta guajira, el chocó y bogotá”, escribió el canciller venezolano, yván gil, en sus redes sociales. en ese sentido, indicó que venezuela pone a disposición de colombia todas sus capacidades “para atender esta situación de emergencia”. el pasado domingo, el presidente colombiano, gustavo petro, declaró situación de desastre natural en colombia, “en virtud de la variabilidad climática generadora de impactos imprevisibles e inusuales, aumentando la vulnerabilidad en los territorios”. en su discurso, el mandatario destacó que esta vulnerabilidad climática se agrava por impactos relacionados con la deforestación, las economías ilícitas y por la urbanización desaforada de la sabana de bogotá (capital). la medida del gobierno colombiano tiene como propósito atender las emergencias mediante el traslado de presupuestos de entidades del país no vinculadas con la atención a desastres, a los sitios que han sido víctimas de la situación climática. según datos preliminares, en el departamento de chocó, al noroeste de colombia, unas 30.000 familias han resultado afectadas por las lluvias.",
+    "tokens": [
+      "gobierno",
+      "venezuela",
+      "aseguró",
+      "martes",
+      "país",
+      "suramericano",
+      "“",
+      "encuentra",
+      "listo",
+      "brindar",
+      "ayuda",
+      "necesaria",
+      "requiera",
+      "colombia",
+      "”",
+      ",",
+      "emergencia",
+      "desataron",
+      "grandes",
+      "inundaciones",
+      "afectaron",
+      "27",
+      "32",
+      "departamentos",
+      ".",
+      "“",
+      "siguiendo",
+      "instrucciones",
+      "presidente",
+      "nicolás",
+      "maduro",
+      "moros",
+      "transmitimos",
+      "mensaje",
+      "solidaridad",
+      "gobierno",
+      "pueblo",
+      "colombiano",
+      ",",
+      "emergencia",
+      "ocasionada",
+      "situación",
+      "climática",
+      ",",
+      "principalmente",
+      "alta",
+      "guajira",
+      ",",
+      "chocó",
+      "bogotá",
+      "”",
+      ",",
+      "escribió",
+      "canciller",
+      "venezolano",
+      ",",
+      "yván",
+      "gil",
+      ",",
+      "redes",
+      "sociales",
+      ".",
+      ",",
+      "indicó",
+      "venezuela",
+      "pone",
+      "disposición",
+      "colombia",
+      "todas",
+      "capacidades",
+      "“",
+      "atender",
+      "situación",
+      "emergencia",
+      "”",
+      ".",
+      "pasado",
+      "domingo",
+      ",",
+      "presidente",
+      "colombiano",
+      ",",
+      "gustavo",
+      "petro",
+      ",",
+      "declaró",
+      "situación",
+      "desastre",
+      "natural",
+      "colombia",
+      ",",
+      "“",
+      "virtud",
+      "variabilidad",
+      "climática",
+      "generadora",
+      "impactos",
+      "imprevisibles",
+      "inusuales",
+      ",",
+      "aumentando",
+      "vulnerabilidad",
+      "territorios",
+      "”",
+      ".",
+      "discurso",
+      ",",
+      "mandatario",
+      "destacó",
+      "vulnerabilidad",
+      "climática",
+      "agrava",
+      "impactos",
+      "relacionados",
+      "deforestación",
+      ",",
+      "economías",
+      "ilícitas",
+      "urbanización",
+      "desaforada",
+      "sabana",
+      "bogotá",
+      "(",
+      "capital",
+      ")",
+      ".",
+      "medida",
+      "gobierno",
+      "colombiano",
+      "propósito",
+      "atender",
+      "emergencias",
+      "mediante",
+      "traslado",
+      "presupuestos",
+      "entidades",
+      "país",
+      "vinculadas",
+      "atención",
+      "desastres",
+      ",",
+      "sitios",
+      "sido",
+      "víctimas",
+      "situación",
+      "climática",
+      ".",
+      "según",
+      "datos",
+      "preliminares",
+      ",",
+      "departamento",
+      "chocó",
+      ",",
+      "noroeste",
+      "colombia",
+      ",",
+      "unas",
+      "30.000",
+      "familias",
+      "resultado",
+      "afectadas",
+      "lluvias",
+      "."
+    ],
+    "token_count": 164,
+    "sentence_count": 7
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 31,
+      "FW": 53,
+      "CC": 2,
+      "NN": 76,
+      "NNS": 14,
+      "VBP": 10,
+      "JJ": 17,
+      "VBZ": 4,
+      "CD": 3,
+      "IN": 7,
+      "DT": 1
+    },
+    "bigram_freq": {
+      "NNP-NNP": 11,
+      "NNP-FW": 5,
+      "FW-NNP": 8,
+      "NNP-CC": 2,
+      "CC-NN": 2,
+      "NN-NNS": 5,
+      "NNS-VBP": 6,
+      "VBP-JJ": 8,
+      "JJ-NN": 9,
+      "NN-NN": 45,
+      "NN-JJ": 1,
+      "NN-FW": 7,
+      "FW-FW": 28,
+      "FW-NN": 11,
+      "NN-NNP": 6,
+      "NNP-VBZ": 2,
+      "VBZ-FW": 3,
+      "NN-CD": 1,
+      "CD-IN": 1,
+      "IN-FW": 5,
+      "FW-CD": 1,
+      "CD-NNS": 2,
+      "NNS-NNP": 3,
+      "NNP-NNS": 1,
+      "NNS-FW": 1,
+      "NNP-VBP": 1,
+      "NN-IN": 6,
+      "FW-JJ": 2,
+      "NNS-NNS": 2,
+      "NNP-JJ": 2,
+      "NNP-NN": 7,
+      "IN-NNP": 2,
+      "VBP-NN": 1,
+      "JJ-FW": 4,
+      "FW-NNS": 3,
+      "JJ-JJ": 1,
+      "NN-VBP": 2,
+      "NN-DT": 1,
+      "DT-JJ": 1,
+      "NN-VBZ": 2,
+      "VBZ-JJ": 1,
+      "JJ-NNS": 1,
+      "NNS-NN": 1,
+      "JJ-CD": 1,
+      "NNS-JJ": 1,
+      "JJ-VBP": 1
+    },
+    "trigram_freq": {
+      "NNP-NNP-FW": 3,
+      "NNP-FW-NNP": 2,
+      "FW-NNP-CC": 1,
+      "NNP-CC-NN": 2,
+      "CC-NN-NNS": 2,
+      "NN-NNS-VBP": 4,
+      "NNS-VBP-JJ": 4,
+      "VBP-JJ-NN": 4,
+      "JJ-NN-NN": 5,
+      "NN-NN-NN": 30,
+      "NN-NN-JJ": 1,
+      "NN-JJ-NN": 1,
+      "NN-NN-FW": 4,
+      "NN-FW-FW": 7,
+      "FW-FW-NN": 7,
+      "FW-NN-NN": 4,
+      "NN-NN-NNP": 4,
+      "NN-NNP-VBZ": 1,
+      "NNP-VBZ-FW": 2,
+      "VBZ-FW-FW": 2,
+      "NN-NN-NNS": 1,
+      "JJ-NN-CD": 1,
+      "NN-CD-IN": 1,
+      "CD-IN-FW": 1,
+      "IN-FW-CD": 1,
+      "FW-CD-NNS": 1,
+      "CD-NNS-NNP": 1,
+      "NNS-NNP-NNS": 1,
+      "NNP-NNS-FW": 1,
+      "NNS-FW-NNP": 1,
+      "FW-NNP-NNP": 2,
+      "NNP-NNP-NNP": 5,
+      "NNP-NNP-VBP": 1,
+      "NNP-VBP-JJ": 1,
+      "JJ-NN-IN": 2,
+      "NN-IN-FW": 4,
+      "IN-FW-JJ": 2,
+      "FW-JJ-NN": 1,
+      "FW-FW-FW": 15,
+      "FW-NN-FW": 3,
+      "FW-FW-NNP": 3,
+      "NNP-NNP-VBZ": 1,
+      "VBZ-FW-NN": 1,
+      "NN-NNP-NNP": 3,
+      "NNP-FW-NN": 2,
+      "FW-NN-NNS": 1,
+      "NN-NNS-NNS": 1,
+      "NNS-NNS-NNP": 1,
+      "NNS-NNP-JJ": 1,
+      "NNP-JJ-NN": 1,
+      "NN-NNP-NN": 2,
+      "NNP-NN-NN": 5,
+      "NN-NN-IN": 3,
+      "NN-IN-NNP": 2,
+      "IN-NNP-CC": 1,
+      "NNS-VBP-NN": 1,
+      "VBP-NN-NN": 1,
+      "IN-FW-NNP": 1,
+      "FW-NNP-NN": 3,
+      "NNP-NNP-NN": 1,
+      "FW-JJ-FW": 1,
+      "JJ-FW-NNP": 1,
+      "FW-NNP-FW": 2,
+      "NNP-FW-FW": 1,
+      "FW-FW-NNS": 3,
+      "FW-NNS-NNS": 1,
+      "NNS-NNS-VBP": 1,
+      "VBP-JJ-FW": 3,
+      "JJ-FW-FW": 2,
+      "FW-NNS-NNP": 1,
+      "NNS-NNP-NN": 1,
+      "FW-NNS-VBP": 1,
+      "VBP-JJ-JJ": 1,
+      "JJ-JJ-NN": 1,
+      "IN-FW-FW": 1,
+      "NNP-NN-NNP": 1,
+      "NN-NN-VBP": 1,
+      "NN-VBP-JJ": 2,
+      "JJ-FW-NN": 1,
+      "FW-NN-DT": 1,
+      "NN-DT-JJ": 1,
+      "DT-JJ-NN": 1,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-JJ": 1,
+      "VBZ-JJ-NNS": 1,
+      "JJ-NNS-NN": 1,
+      "NNS-NN-VBP": 1,
+      "FW-NN-NNP": 1,
+      "NNP-NN-VBZ": 1,
+      "NN-VBZ-FW": 1,
+      "FW-NN-IN": 1,
+      "IN-NNP-JJ": 1,
+      "NNP-JJ-CD": 1,
+      "JJ-CD-NNS": 1,
+      "CD-NNS-JJ": 1,
+      "NNS-JJ-VBP": 1,
+      "JJ-VBP-JJ": 1,
+      "JJ-NN-NNS": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 76,
+        "FW": 53,
+        "NNP": 31,
+        "JJ": 17,
+        "NNS": 14
+      },
+      "top_bigrams": {
+        "NN-NN": 45,
+        "FW-FW": 28,
+        "NNP-NNP": 11,
+        "FW-NN": 11,
+        "JJ-NN": 9
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 30,
+        "FW-FW-FW": 15,
+        "NN-FW-FW": 7,
+        "FW-FW-NN": 7,
+        "JJ-NN-NN": 5
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 7,
+    "chunk_counts": {
+      "NP": 60,
+      "VP": 12,
+      "ADJP": 4,
+      "PP": 3
+    },
+    "top_rules": [
+      {
+        "rule": "NP -> ('Colombia', 'NNP')",
+        "frequency": 3,
+        "weight": 0.0349
+      },
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0233
+      },
+      {
+        "rule": "NP -> ('climática', 'NN')",
+        "frequency": 2,
+        "weight": 0.0233
+      },
+      {
+        "rule": "S -> NP ('de', 'FW') NP ('aseguró', 'CC') NP VP ('ayuda', 'FW') ('necesaria', 'FW') NP (',', ',') NP ('la', 'FW') ('emergencia', 'FW') NP VP VP ('a', 'DT') ('27', 'CD') ('de', 'IN') ('los', 'FW') ('32', 'CD') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0116
+      },
+      {
+        "rule": "NP -> ('El', 'NNP') ('Gobierno', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0116
+      },
+      {
+        "rule": "NP -> ('Venezuela', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0116
+      },
+      {
+        "rule": "NP -> ('este', 'NN') ('martes', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0116
+      },
+      {
+        "rule": "VP -> ('que', 'VBP') NP",
+        "frequency": 1,
+        "weight": 0.0116
+      },
+      {
+        "rule": "NP -> ('el', 'JJ') ('país', 'NN') ('suramericano', 'NN') ('“', 'NNP') ('se', 'NN') ('encuentra', 'NN') ('listo', 'NN') ('para', 'NN') ('brindar', 'NN') ('la', 'NN')",
+        "frequency": 1,
+        "weight": 0.0116
+      },
+      {
+        "rule": "NP -> ('que', 'NN') ('requiera', 'NN') ('Colombia', 'NNP') ('”', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0116
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El Gobierno"
+      },
+      {
+        "label": "NP",
+        "text": "Venezuela"
+      },
+      {
+        "label": "NP",
+        "text": "este martes"
+      },
+      {
+        "label": "VP",
+        "text": "que el país suramericano “ se encuentra listo para brindar la"
+      },
+      {
+        "label": "NP",
+        "text": "el país suramericano “ se encuentra listo para brindar la"
+      },
+      {
+        "label": "NP",
+        "text": "que requiera Colombia ”"
+      },
+      {
+        "label": "NP",
+        "text": "ante"
+      },
+      {
+        "label": "NP",
+        "text": "que desataron las grandes"
+      },
+      {
+        "label": "VP",
+        "text": "inundaciones que"
+      },
+      {
+        "label": "VP",
+        "text": "afectaron"
+      },
+      {
+        "label": "NP",
+        "text": "departamentos"
+      },
+      {
+        "label": "NP",
+        "text": "“ Siguiendo instrucciones"
+      },
+      {
+        "label": "NP",
+        "text": "Presidente Nicolás Maduro Moros"
+      },
+      {
+        "label": "VP",
+        "text": "transmitimos un mensaje"
+      },
+      {
+        "label": "NP",
+        "text": "un mensaje"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP El/NNP Gobierno/NNP)\n  de/FW\n  (NP Venezuela/NNP)\n  aseguró/CC\n  (NP este/NN martes/NNS)\n  (VP\n    que/VBP\n    (NP\n      el/JJ\n      país/NN\n      suramericano/NN\n      “/NNP\n      se/NN\n      encuentra/NN\n      listo/NN\n      para/NN\n      brindar/NN\n      la/NN))\n  ayuda/FW\n  necesaria/FW\n  (NP que/NN requiera/NN Colombia/NNP ”/NNP)\n  ,/,\n  (NP ante/NN)\n  la/FW\n  emergencia/FW\n  (NP que/NN desataron/NN las/NN grandes/NNS)\n  (VP inundaciones/VBP que/JJ)\n  (VP afectaron/VBP)\n  a/DT\n  27/CD\n  de/IN\n  los/FW\n  32/CD\n  (NP departamentos/NN)\n  ./.)",
+      "(S\n  (NP “/JJ Siguiendo/NNP instrucciones/NNS)\n  del/FW\n  (NP Presidente/NNP Nicolás/NNP Maduro/NNP Moros/NNP)\n  (VP transmitimos/VBP (NP un/JJ mensaje/NN))\n  de/IN\n  solidaridad/FW\n  (NP al/JJ gobierno/NN y/NN pueblo/NN colombiano/NN)\n  ,/,\n  (ADJP ante/JJ)\n  la/FW\n  emergencia/FW\n  ocasionada/FW\n  (NP por/NN)\n  la/FW\n  (NP situación/NN climática/NN)\n  ,/,\n  (NP principalmente/NN)\n  en/FW\n  la/FW\n  (NP Alta/NNP Guajira/NNP)\n  ,/,\n  (NP El/NNP Chocó/NNP y/NNP Bogotá/NNP ”/NNP)\n  ,/,\n  (VP escribió/VBZ (NP el/JJ canciller/NN venezolano/NN))\n  ,/,\n  (NP Yván/NNP Gil/NNP)\n  ,/,\n  en/FW\n  (NP sus/NN redes/NNS sociales/NNS)\n  ./.)",
+      "(S\n  (NP En/NNP)\n  (NP ese/JJ sentido/NN)\n  ,/,\n  (NP indicó/JJ que/NN Venezuela/NNP pone/NN)\n  (NP a/DT disposición/NN)\n  (PP de/IN (NP Colombia/NNP))\n  todas/CC\n  (NP sus/NN capacidades/NNS)\n  (VP “/VBP (NP para/JJ atender/NN esta/NN situación/NN))\n  de/IN\n  emergencia/FW\n  (NP ”/NN)\n  ./.)",
+      "(S\n  (NP El/NNP pasado/NN domingo/NN)\n  ,/,\n  el/FW\n  (NP presidente/NN colombiano/NN)\n  ,/,\n  (NP Gustavo/NNP Petro/NNP)\n  ,/,\n  (NP declaró/JJ situación/NN)\n  de/IN\n  desastre/FW\n  (ADJP natural/JJ)\n  en/FW\n  (NP Colombia/NNP)\n  ,/,\n  (NP “/NNP)\n  en/FW\n  virtud/FW\n  de/FW\n  la/FW\n  variabilidad/FW\n  (NP climática/NN)\n  generadora/FW\n  de/FW\n  impactos/FW\n  (NP imprevisibles/NNS)\n  (VP e/VBP (NP inusuales/NNS))\n  ,/,\n  (NP aumentando/JJ la/NN vulnerabilidad/NN)\n  (PP en/IN (NP los/JJ territorios/NNS ”/NN))\n  ./.)",
+      "(S\n  (NP En/NNP su/NN discurso/NN)\n  ,/,\n  el/FW\n  (NP\n    mandatario/NN\n    destacó/NN\n    que/NN\n    esta/NN\n    vulnerabilidad/NN\n    climática/NN\n    se/NN\n    agrava/NN\n    por/NN\n    impactos/NN\n    relacionados/NN\n    con/NN\n    la/NN\n    deforestación/NN)\n  ,/,\n  (NP las/JJ economías/NN ilícitas/NNS)\n  (VP y/VBP (NP por/JJ la/NN) (NP urbanización/JJ desaforada/NN))\n  de/IN\n  la/FW\n  sabana/FW\n  de/FW\n  (NP Bogotá/NNP)\n  (/(\n  (NP capital/NN)\n  )/)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "CIUDADES_CAPITALES",
+      "GOBIERNOS_OFICIALES",
+      "APROBACION_RECHAZO",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "REGIONES_PROVINCIAS",
+      "CRISIS_HUMANITARIA_SERVICIOS",
+      "INSTITUCIONES_EDUCATIVAS",
+      "PAISES",
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "RELACIONES_INTERNACIONALES"
+    ],
+    "matches": [
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "capital",
+        "position": [
+          1157,
+          1164
+        ],
+        "start": 1157,
+        "end": 1164
+      },
+      {
+        "category": "RELACIONES_INTERNACIONALES",
+        "matched_text": "mensaje de solidaridad al gobierno",
+        "position": [
+          325,
+          359
+        ],
+        "start": 325,
+        "end": 359
+      },
+      {
+        "category": "RELACIONES_INTERNACIONALES",
+        "matched_text": "solidaridad al gobierno y pueblo colombiano, ante",
+        "position": [
+          336,
+          385
+        ],
+        "start": 336,
+        "end": 385
+      },
+      {
+        "category": "RELACIONES_INTERNACIONALES",
+        "matched_text": "solidaridad al gobierno",
+        "position": [
+          336,
+          359
+        ],
+        "start": 336,
+        "end": 359
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "declaró",
+        "position": [
+          756,
+          763
+        ],
+        "start": 756,
+        "end": 763
+      },
+      {
+        "category": "CRISIS_HUMANITARIA_SERVICIOS",
+        "matched_text": "deforestación",
+        "position": [
+          1062,
+          1075
+        ],
+        "start": 1062,
+        "end": 1075
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "gobierno de venezuela aseguró",
+        "position": [
+          3,
+          32
+        ],
+        "start": 3,
+        "end": 32
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente nicolás maduro",
+        "position": [
+          277,
+          302
+        ],
+        "start": 277,
+        "end": 302
+      },
+      {
+        "category": "INSTITUCIONES_EDUCATIVAS",
+        "matched_text": "departamento de chocó",
+        "position": [
+          1442,
+          1463
+        ],
+        "start": 1442,
+        "end": 1463
+      },
+      {
+        "category": "APROBACION_RECHAZO",
+        "matched_text": "destacó",
+        "position": [
+          977,
+          984
+        ],
+        "start": 977,
+        "end": 984
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "colombia",
+        "position": [
+          135,
+          143
+        ],
+        "start": 135,
+        "end": 143
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "venezuela",
+        "position": [
+          15,
+          24
+        ],
+        "start": 15,
+        "end": 24
+      },
+      {
+        "category": "CIUDADES_CAPITALES",
+        "matched_text": "bogotá",
+        "position": [
+          485,
+          491
+        ],
+        "start": 485,
+        "end": 491
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "departamento de",
+        "position": [
+          1442,
+          1457
+        ],
+        "start": 1442,
+        "end": 1457
+      }
+    ],
+    "match_count": 14
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Nicolás Maduro Moros",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Venezuela",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Gobierno de Venezuela",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "El Chocó",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Gobierno colombiano",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Presidente",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "departamento de Chocó",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Yván Gil",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Colombia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Alta Guajira",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Bogotá",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "de Colombia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Gustavo Petro",
+        "tipo": "Persona"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Gobierno de Venezuela",
+        "relacion": "ASEGURAR",
+        "objeto": "Colombia"
+      },
+      {
+        "sujeto": "Presidente",
+        "relacion": "ES",
+        "objeto": "Nicolás Maduro Moros"
+      },
+      {
+        "sujeto": "Presidente",
+        "relacion": "SEGUIR_TRANSMITIR_ESCRIBIR",
+        "objeto": "Alta Guajira"
+      },
+      {
+        "sujeto": "Presidente",
+        "relacion": "SEGUIR_TRANSMITIR_ESCRIBIR",
+        "objeto": "El Chocó"
+      },
+      {
+        "sujeto": "Presidente",
+        "relacion": "SEGUIR_TRANSMITIR_ESCRIBIR",
+        "objeto": "Bogotá"
+      },
+      {
+        "sujeto": "Presidente",
+        "relacion": "SEGUIR_TRANSMITIR_ESCRIBIR",
+        "objeto": "Yván Gil"
+      },
+      {
+        "sujeto": "Nicolás Maduro Moros",
+        "relacion": "SEGUIR_TRANSMITIR_ESCRIBIR",
+        "objeto": "Alta Guajira"
+      },
+      {
+        "sujeto": "Nicolás Maduro Moros",
+        "relacion": "SEGUIR_TRANSMITIR_ESCRIBIR",
+        "objeto": "El Chocó"
+      },
+      {
+        "sujeto": "Nicolás Maduro Moros",
+        "relacion": "SEGUIR_TRANSMITIR_ESCRIBIR",
+        "objeto": "Bogotá"
+      },
+      {
+        "sujeto": "Nicolás Maduro Moros",
+        "relacion": "SEGUIR_TRANSMITIR_ESCRIBIR",
+        "objeto": "Yván Gil"
+      },
+      {
+        "sujeto": "Alta Guajira",
+        "relacion": "PRINCIPALMENTE_TRANSMITIR_ESCRIBIR",
+        "objeto": "Yván Gil"
+      },
+      {
+        "sujeto": "El Chocó",
+        "relacion": "PRINCIPALMENTE_TRANSMITIR_ESCRIBIR",
+        "objeto": "Yván Gil"
+      },
+      {
+        "sujeto": "Bogotá",
+        "relacion": "PRINCIPALMENTE_TRANSMITIR_ESCRIBIR",
+        "objeto": "Yván Gil"
+      },
+      {
+        "sujeto": "Venezuela",
+        "relacion": "PONER_INDICAR",
+        "objeto": "de Colombia"
+      },
+      {
+        "sujeto": "Gustavo Petro",
+        "relacion": "DECLARAR",
+        "objeto": "Colombia"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.0772,
+    "pos": 0.011,
+    "neu": 0.979,
+    "neg": 0.01,
+    "label": "positive"
+  }
+}

@@ -1,0 +1,638 @@
+{
+  "url": "https://www.telesurtv.net/inflacion-alimentaria-en-argentina-se-corona-como-la-mas-alta-mundialmente/",
+  "title": "Inflación alimentaria en Argentina se corona como la más alta mundialmente - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "Argentina",
+    "Banco Mundial",
+    "inflación"
+  ],
+  "text": "El Banco Mundial afirmó este miércoles que el Gobierno de Javier Milei, con su plan motosierra, logró posicionar la inflación alimentaria en Argentina, durante 2023-2024, como la más alta globalmente.\nLEA TAMBIÉN:Universidades argentinas convocan otra Marcha Federal Educativa en defensa de la educación pública\nSegún el ente bancario mundial, los rubros ascendieron un 128 por ciento, mientras que los precios a un consumidor general experimentaron un crecimiento del 111 por ciento.\nEl informe presentado por el Banco Mundial forma parte del informe realizado con apoyo del Centro de Estudios Legales y Sociales (CELS).\nCabe destacar que luego de la toma de posesión de Milei, el consumo de alimentos se redujo en un 11 y 16 por ciento, esto debido a que la mayoría de políticas y precios que favorecían el derecho a la alimentación fueron afectadas.\nSumado a las subas y la inflación, el Gobierno de la “motosierra” ha también bajado sueldos y pensiones, como fue el caso de los jubilados, e igualmente ha impuesto recortes de empleos y despidos masivos.\nLa suma de todas estas directrices han logrado establecer una relación inversamente proporcional entre el poder adquisitivo de la población argentina y los precios, pues a medida que suben los precios de comida, combustible y suministros básicos, más ciudadanos pierden sus empleos.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/inflacion-alimentaria-en-argentina-se-corona-como-la-mas-alta-mundialmente/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-11.json",
+    "message_index": 1090,
+    "message_id": 80337,
+    "date": "2024-11-13T18:46:31+00:00",
+    "text": "Debes conocer estas tres noticias en nuestra web🌐  \n \n↕️ Rusia promete respuesta ante apertura de base militar estadounidense en Polonia\nhttps://www.telesurtv.net/rusia-promete-respuesta-ante-apertura-de-base-militar-estadounidense-en-polonia/ \n\n↕️ Denuncian asesinato de dos pacientes por autodefensas y policías haitianos\nhttps://www.telesurtv.net/organizacion-humanitaria-denuncia-asesinato-de-dos-pacientes-a-manos-de-la-policia-haitiana/ \n\n↕️ Inflación alimentaria en Argentina se corona como la más alta mundialmente\nhttps://www.telesurtv.net/inflacion-alimentaria-en-argentina-se-corona-como-la-mas-alta-mundialmente/",
+    "photo_path": null,
+    "views": 1975,
+    "reactions": {
+      "👍": 31,
+      "👀": 5,
+      "👎": 3,
+      "😱": 1
+    },
+    "total_reactions": 40
+  },
+  "preprocessing": {
+    "cleaned": "el banco mundial afirmó este miércoles que el gobierno de javier milei, con su plan motosierra, logró posicionar la inflación alimentaria en argentina, durante 2023-2024, como la más alta globalmente. según el ente bancario mundial, los rubros ascendieron un 128 por ciento, mientras que los precios a un consumidor general experimentaron un crecimiento del 111 por ciento. el informe presentado por el banco mundial forma parte del informe realizado con apoyo del centro de estudios legales y sociales (cels). cabe destacar que luego de la toma de posesión de milei, el consumo de alimentos se redujo en un 11 y 16 por ciento, esto debido a que la mayoría de políticas y precios que favorecían el derecho a la alimentación fueron afectadas. sumado a las subas y la inflación, el gobierno de la “motosierra” ha también bajado sueldos y pensiones, como fue el caso de los jubilados, e igualmente ha impuesto recortes de empleos y despidos masivos. la suma de todas estas directrices han logrado establecer una relación inversamente proporcional entre el poder adquisitivo de la población argentina y los precios, pues a medida que suben los precios de comida, combustible y suministros básicos, más ciudadanos pierden sus empleos.",
+    "tokens": [
+      "banco",
+      "mundial",
+      "afirmó",
+      "miércoles",
+      "gobierno",
+      "javier",
+      "milei",
+      ",",
+      "plan",
+      "motosierra",
+      ",",
+      "logró",
+      "posicionar",
+      "inflación",
+      "alimentaria",
+      "argentina",
+      ",",
+      "2023-2024",
+      ",",
+      "alta",
+      "globalmente",
+      ".",
+      "según",
+      "ente",
+      "bancario",
+      "mundial",
+      ",",
+      "rubros",
+      "ascendieron",
+      "128",
+      "ciento",
+      ",",
+      "mientras",
+      "precios",
+      "consumidor",
+      "general",
+      "experimentaron",
+      "crecimiento",
+      "111",
+      "ciento",
+      ".",
+      "informe",
+      "presentado",
+      "banco",
+      "mundial",
+      "forma",
+      "parte",
+      "informe",
+      "realizado",
+      "apoyo",
+      "centro",
+      "estudios",
+      "legales",
+      "sociales",
+      "(",
+      "cels",
+      ")",
+      ".",
+      "cabe",
+      "destacar",
+      "luego",
+      "toma",
+      "posesión",
+      "milei",
+      ",",
+      "consumo",
+      "alimentos",
+      "redujo",
+      "11",
+      "16",
+      "ciento",
+      ",",
+      "debido",
+      "mayoría",
+      "políticas",
+      "precios",
+      "favorecían",
+      "derecho",
+      "alimentación",
+      "afectadas",
+      ".",
+      "sumado",
+      "subas",
+      "inflación",
+      ",",
+      "gobierno",
+      "“",
+      "motosierra",
+      "”",
+      "bajado",
+      "sueldos",
+      "pensiones",
+      ",",
+      "caso",
+      "jubilados",
+      ",",
+      "igualmente",
+      "impuesto",
+      "recortes",
+      "empleos",
+      "despidos",
+      "masivos",
+      ".",
+      "suma",
+      "todas",
+      "directrices",
+      "logrado",
+      "establecer",
+      "relación",
+      "inversamente",
+      "proporcional",
+      "poder",
+      "adquisitivo",
+      "población",
+      "argentina",
+      "precios",
+      ",",
+      "pues",
+      "medida",
+      "suben",
+      "precios",
+      "comida",
+      ",",
+      "combustible",
+      "suministros",
+      "básicos",
+      ",",
+      "ciudadanos",
+      "pierden",
+      "empleos",
+      "."
+    ],
+    "token_count": 131,
+    "sentence_count": 6
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 27,
+      "NN": 71,
+      "NNS": 11,
+      "VBP": 8,
+      "JJ": 22,
+      "FW": 46,
+      "IN": 8,
+      "VBD": 1,
+      "CD": 4,
+      "VBZ": 2
+    },
+    "bigram_freq": {
+      "NNP-NNP": 12,
+      "NNP-NN": 5,
+      "NN-NN": 39,
+      "NN-NNS": 3,
+      "NNS-VBP": 7,
+      "VBP-JJ": 7,
+      "JJ-NNP": 1,
+      "NNP-FW": 7,
+      "FW-NNP": 7,
+      "NN-VBP": 1,
+      "JJ-NN": 12,
+      "NN-FW": 7,
+      "FW-NN": 9,
+      "NN-IN": 6,
+      "IN-NNP": 1,
+      "NNP-VBD": 1,
+      "VBD-JJ": 1,
+      "NN-NNP": 5,
+      "NNP-JJ": 1,
+      "JJ-JJ": 2,
+      "FW-FW": 26,
+      "NN-JJ": 7,
+      "JJ-CD": 2,
+      "CD-NN": 3,
+      "NNS-JJ": 1,
+      "NN-CD": 1,
+      "IN-FW": 4,
+      "IN-JJ": 1,
+      "CD-CD": 1,
+      "FW-NNS": 3,
+      "IN-NN": 2,
+      "NNP-VBZ": 1,
+      "VBZ-JJ": 1,
+      "JJ-FW": 2,
+      "FW-JJ": 1,
+      "NN-VBZ": 1,
+      "VBZ-IN": 1,
+      "NNS-NNS": 2,
+      "JJ-NNS": 3,
+      "NNS-IN": 1,
+      "VBP-NN": 1
+    },
+    "trigram_freq": {
+      "NNP-NNP-NNP": 6,
+      "NNP-NNP-NN": 4,
+      "NNP-NN-NN": 5,
+      "NN-NN-NNS": 3,
+      "NN-NNS-VBP": 2,
+      "NNS-VBP-JJ": 6,
+      "VBP-JJ-NNP": 1,
+      "JJ-NNP-FW": 1,
+      "NNP-FW-NNP": 2,
+      "FW-NNP-NNP": 2,
+      "NN-NN-NN": 17,
+      "NN-NN-VBP": 1,
+      "NN-VBP-JJ": 1,
+      "VBP-JJ-NN": 4,
+      "JJ-NN-NN": 7,
+      "NN-NN-FW": 7,
+      "NN-FW-NN": 4,
+      "FW-NN-IN": 4,
+      "NN-IN-NNP": 1,
+      "IN-NNP-VBD": 1,
+      "NNP-VBD-JJ": 1,
+      "VBD-JJ-NN": 1,
+      "FW-NN-NN": 5,
+      "NN-NN-NNP": 4,
+      "NN-NNP-NNP": 3,
+      "NNP-NNP-JJ": 1,
+      "NNP-JJ-JJ": 1,
+      "JJ-JJ-NN": 2,
+      "JJ-NN-NNP": 1,
+      "NNP-NNP-FW": 1,
+      "NNP-FW-FW": 3,
+      "FW-FW-FW": 17,
+      "FW-FW-NNP": 4,
+      "FW-NNP-FW": 5,
+      "NNP-FW-NN": 2,
+      "NN-NN-JJ": 2,
+      "NN-JJ-NN": 3,
+      "NN-JJ-CD": 1,
+      "JJ-CD-NN": 1,
+      "CD-NN-NN": 3,
+      "NN-NNS-JJ": 1,
+      "NNS-JJ-NN": 1,
+      "JJ-NN-JJ": 4,
+      "NN-NN-CD": 1,
+      "NN-CD-NN": 1,
+      "NN-NNP-NN": 1,
+      "NN-FW-NNP": 1,
+      "NN-FW-FW": 2,
+      "NN-IN-FW": 3,
+      "IN-FW-FW": 3,
+      "FW-FW-NN": 2,
+      "NN-IN-JJ": 1,
+      "IN-JJ-CD": 1,
+      "JJ-CD-CD": 1,
+      "CD-CD-NN": 1,
+      "FW-FW-NNS": 3,
+      "FW-NNS-VBP": 1,
+      "NN-NN-IN": 2,
+      "NN-IN-NN": 1,
+      "IN-NN-NN": 1,
+      "NN-NNP-VBZ": 1,
+      "NNP-VBZ-JJ": 1,
+      "VBZ-JJ-FW": 1,
+      "JJ-FW-FW": 1,
+      "VBP-JJ-FW": 1,
+      "JJ-FW-NN": 1,
+      "IN-FW-JJ": 1,
+      "FW-JJ-NN": 1,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-IN": 1,
+      "VBZ-IN-FW": 1,
+      "FW-NNS-NNS": 2,
+      "NNS-NNS-VBP": 2,
+      "NN-JJ-JJ": 1,
+      "NN-JJ-NNS": 2,
+      "JJ-NNS-IN": 1,
+      "NNS-IN-NN": 1,
+      "IN-NN-JJ": 1,
+      "JJ-NNS-VBP": 2,
+      "VBP-JJ-NNS": 1,
+      "NNS-VBP-NN": 1,
+      "VBP-NN-NN": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 71,
+        "FW": 46,
+        "NNP": 27,
+        "JJ": 22,
+        "NNS": 11
+      },
+      "top_bigrams": {
+        "NN-NN": 39,
+        "FW-FW": 26,
+        "NNP-NNP": 12,
+        "JJ-NN": 12,
+        "FW-NN": 9
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 17,
+        "FW-FW-FW": 17,
+        "JJ-NN-NN": 7,
+        "NN-NN-FW": 7,
+        "NNP-NNP-NNP": 6
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 6,
+    "chunk_counts": {
+      "NP": 54,
+      "VP": 11,
+      "PP": 2,
+      "ADJP": 3
+    },
+    "top_rules": [
+      {
+        "rule": "NP -> ('por', 'NN') ('ciento', 'NN')",
+        "frequency": 3,
+        "weight": 0.0395
+      },
+      {
+        "rule": "VP -> ('que', 'VBP') NP",
+        "frequency": 2,
+        "weight": 0.0263
+      },
+      {
+        "rule": "NP -> ('el', 'JJ') ('Gobierno', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0263
+      },
+      {
+        "rule": "ADJP -> ('un', 'JJ')",
+        "frequency": 2,
+        "weight": 0.0263
+      },
+      {
+        "rule": "NP -> ('precios', 'NNS')",
+        "frequency": 2,
+        "weight": 0.0263
+      },
+      {
+        "rule": "S -> NP VP ('de', 'FW') NP (',', ',') NP VP (',', ',') NP ('inflación', 'FW') NP PP (',', ',') ADJP ('2023-2024', 'CD') (',', ',') NP ('más', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0132
+      },
+      {
+        "rule": "NP -> ('El', 'NNP') ('Banco', 'NNP') ('Mundial', 'NNP') ('afirmó', 'NN') ('este', 'NN') ('miércoles', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0132
+      },
+      {
+        "rule": "NP -> ('Javier', 'NNP') ('Milei', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0132
+      },
+      {
+        "rule": "NP -> ('con', 'NN') ('su', 'NN') ('plan', 'NN')",
+        "frequency": 1,
+        "weight": 0.0132
+      },
+      {
+        "rule": "VP -> ('motosierra', 'VBP')",
+        "frequency": 1,
+        "weight": 0.0132
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El Banco Mundial afirmó este miércoles"
+      },
+      {
+        "label": "VP",
+        "text": "que el Gobierno"
+      },
+      {
+        "label": "NP",
+        "text": "el Gobierno"
+      },
+      {
+        "label": "NP",
+        "text": "Javier Milei"
+      },
+      {
+        "label": "NP",
+        "text": "con su plan"
+      },
+      {
+        "label": "VP",
+        "text": "motosierra"
+      },
+      {
+        "label": "NP",
+        "text": "logró posicionar la"
+      },
+      {
+        "label": "NP",
+        "text": "alimentaria"
+      },
+      {
+        "label": "PP",
+        "text": "en Argentina"
+      },
+      {
+        "label": "NP",
+        "text": "Argentina"
+      },
+      {
+        "label": "ADJP",
+        "text": "durante"
+      },
+      {
+        "label": "NP",
+        "text": "como la"
+      },
+      {
+        "label": "NP",
+        "text": "alta globalmente"
+      },
+      {
+        "label": "NP",
+        "text": "LEA TAMBIÉN"
+      },
+      {
+        "label": "NP",
+        "text": "Universidades"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP El/NNP Banco/NNP Mundial/NNP afirmó/NN este/NN miércoles/NNS)\n  (VP que/VBP (NP el/JJ Gobierno/NNP))\n  de/FW\n  (NP Javier/NNP Milei/NNP)\n  ,/,\n  (NP con/NN su/NN plan/NN)\n  (VP motosierra/VBP)\n  ,/,\n  (NP logró/JJ posicionar/NN la/NN)\n  inflación/FW\n  (NP alimentaria/NN)\n  (PP en/IN (NP Argentina/NNP))\n  ,/,\n  (ADJP durante/JJ)\n  2023-2024/CD\n  ,/,\n  (NP como/NN la/NN)\n  más/FW\n  (NP alta/NN globalmente/NN)\n  ./.)",
+      "(S\n  (NP LEA/NNP TAMBIÉN/NNP)\n  :/:\n  (NP Universidades/NNP)\n  (VP argentinas/VBP convocan/JJ)\n  (PP otra/IN (NP Marcha/NNP Federal/NNP Educativa/NNP))\n  en/FW\n  defensa/FW\n  de/FW\n  la/FW\n  educación/FW\n  pública/FW\n  (NP Según/NNP)\n  el/FW\n  (NP ente/NN bancario/NN mundial/NN)\n  ,/,\n  (NP los/JJ rubros/NN ascendieron/NN)\n  (ADJP un/JJ)\n  128/CD\n  (NP por/NN ciento/NN)\n  ,/,\n  mientras/FW\n  que/FW\n  los/FW\n  precios/FW\n  (NP a/DT un/JJ consumidor/NN)\n  (NP general/JJ experimentaron/NN un/NN crecimiento/NN del/NN)\n  111/CD\n  (NP por/NN ciento/NN)\n  ./.)",
+      "(S\n  (NP\n    El/NNP\n    informe/NN\n    presentado/NN\n    por/NN\n    el/NN\n    Banco/NNP\n    Mundial/NNP\n    forma/NN\n    parte/NN)\n  del/FW\n  (NP informe/NN realizado/NN con/NN apoyo/NN)\n  del/FW\n  (NP Centro/NNP)\n  de/FW\n  (NP Estudios/NNP Legales/NNP y/NN Sociales/NNP)\n  (/(\n  (NP CELS/NNP)\n  )/)\n  ./.)",
+      "(S\n  (NP Cabe/NNP destacar/NN que/NN)\n  luego/FW\n  de/FW\n  la/FW\n  toma/FW\n  de/FW\n  posesión/FW\n  de/FW\n  (NP Milei/NNP)\n  ,/,\n  (NP el/JJ consumo/NN)\n  de/IN\n  alimentos/FW\n  se/FW\n  (NP redujo/NN)\n  en/IN\n  (ADJP un/JJ)\n  11/CD\n  y/RB\n  16/CD\n  (NP por/NN ciento/NN)\n  ,/,\n  (VP esto/VBP)\n  (VP debido/VBZ (NP a/DT que/NN la/NN))\n  mayoría/FW\n  de/FW\n  políticas/FW\n  y/FW\n  (NP precios/NNS)\n  (VP que/VBP (NP favorecían/JJ el/NN))\n  (VP\n    derecho/VBZ\n    (NP a/DT la/NN alimentación/NN fueron/NN afectadas/NN))\n  ./.)",
+      "(S\n  (NP Sumado/NNP)\n  (NP a/DT las/JJ subas/NN y/NN la/NN inflación/NN)\n  ,/,\n  (NP el/JJ Gobierno/NNP)\n  de/FW\n  la/FW\n  “/FW\n  motosierra/FW\n  ”/FW\n  (NP ha/NN también/NN bajado/NN sueldos/NN y/NN pensiones/NNS)\n  ,/,\n  (NP como/NN fue/NN)\n  el/FW\n  (NP caso/NN)\n  de/IN\n  los/FW\n  (NP jubilados/NN)\n  ,/,\n  e/FW\n  (NP igualmente/JJ ha/NN impuesto/NN)\n  (VP recortes/VBZ)\n  de/IN\n  empleos/FW\n  y/FW\n  (NP despidos/NN masivos/NN)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "GOBIERNOS_OFICIALES",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "PAISES",
+      "LOCALIZACIONES_ESPECIFICAS",
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "JURIDICO_LEGISLATIVO_CORRUPCION"
+    ],
+    "matches": [
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "inflación alimentaria en argentina, durante 2023",
+        "position": [
+          116,
+          164
+        ],
+        "start": 116,
+        "end": 164
+      },
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "banco mundial",
+        "position": [
+          3,
+          16
+        ],
+        "start": 3,
+        "end": 16
+      },
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "inflación",
+        "position": [
+          116,
+          125
+        ],
+        "start": 116,
+        "end": 125
+      },
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "impuesto",
+        "position": [
+          1009,
+          1017
+        ],
+        "start": 1009,
+        "end": 1017
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "afirmó",
+        "position": [
+          17,
+          23
+        ],
+        "start": 17,
+        "end": 23
+      },
+      {
+        "category": "JURIDICO_LEGISLATIVO_CORRUPCION",
+        "matched_text": "defensa",
+        "position": [
+          280,
+          287
+        ],
+        "start": 280,
+        "end": 287
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "gobierno de javier milei",
+        "position": [
+          46,
+          70
+        ],
+        "start": 46,
+        "end": 70
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "argentina",
+        "position": [
+          141,
+          150
+        ],
+        "start": 141,
+        "end": 150
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "centro de",
+        "position": [
+          576,
+          585
+        ],
+        "start": 576,
+        "end": 585
+      }
+    ],
+    "match_count": 9
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Gobierno de Javier Milei",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Banco Mundial",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Argentina",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Estudios Legales y Sociales",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Gobierno de la “motosierra",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Centro",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "CELS",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Milei",
+        "tipo": "Persona"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Banco Mundial",
+        "relacion": "AFIRMAR",
+        "objeto": "Gobierno de Javier Milei"
+      },
+      {
+        "sujeto": "Banco Mundial",
+        "relacion": "AFIRMAR",
+        "objeto": "Argentina"
+      },
+      {
+        "sujeto": "Gobierno de Javier Milei",
+        "relacion": "LOGRAR_AFIRMAR",
+        "objeto": "Argentina"
+      },
+      {
+        "sujeto": "Banco Mundial",
+        "relacion": "FORMAR",
+        "objeto": "Centro"
+      },
+      {
+        "sujeto": "Banco Mundial",
+        "relacion": "FORMAR",
+        "objeto": "Estudios Legales y Sociales"
+      },
+      {
+        "sujeto": "Banco Mundial",
+        "relacion": "FORMAR",
+        "objeto": "CELS"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.5859,
+    "pos": 0.024,
+    "neu": 0.976,
+    "neg": 0.0,
+    "label": "positive"
+  }
+}

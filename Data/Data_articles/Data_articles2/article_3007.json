@@ -1,0 +1,868 @@
+{
+  "url": "https://www.telesurtv.net/iran-da-un-paso-clave-para-romper-oiea/",
+  "title": "Irán da un paso clave para romper con el organismo nuclear de la ONU - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Energía nuclear",
+    "Guardia Revolucionaria",
+    "Irán",
+    "Masud Pezeshkian",
+    "oiea",
+    "ONU"
+  ],
+  "text": "Irán está a punto de suspender su cooperación con el Organismo Internacional de Energía Atómica (OIEA). El Consejo de Guardianes, órgano clave del poder político-religioso iraní, aprobó el plan legislativo que ordena expulsar a los inspectores del organismo y cortar el acceso a información sobre el programa nuclear del país. Solo resta la firma del presidente Masud Pezeshkian para que la medida entre en vigor.\n\nEl plan, aprobado previamente por el Parlamento, prohíbe el ingreso del OIEA a las instalaciones nucleares iraníes y bloquea el intercambio de datos técnicos. La cooperación solo podría reanudarse si se garantiza la seguridad de los científicos e instalaciones del país, y se permite continuar el enriquecimiento de uranio. Al menos 11 científicos nucleares iraníes fueron asesinados en recientes bombardeos israelíes.\nLa decisión se enmarca en un clima de alta tensión. Teherán denunció como una agresión ilegal los recientes ataques de Estados Unidos contra sus instalaciones nucleares pacíficas, que se hallaban bajo supervisión de la OIEA, y acusó a Washington de violar su soberanía, la Carta de la ONU y el Tratado de No Proliferación Nuclear (TNP).\nEn paralelo, el Gobierno iraní evalúa un proyecto para abandonar directamente el TNP. Irán siempre ha afirmado no buscar el desarrollo de armas atómicas ni otras de exterminio masivo, y ya acumula más de 400 kilos de uranio enriquecido al 60 %.\nEse material fue conducido a un lugar seguro antes del bombardeo estadounidense contra las instalaciones de Natanz, Isfahán y Fordó el 22 de junio pasado. Recientes informaciones confirman que estos emplazamientos no sufrieron daños significativos, como alegaron EE.UU. e Israel, y que Teherán no enfrenta serios contratiempos para retomar en breve tiempo su programa nuclear con carácter pacífico.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/iran-da-un-paso-clave-para-romper-oiea/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-06.json",
+    "message_index": 300,
+    "message_id": 97523,
+    "date": "2025-06-26T14:55:18+00:00",
+    "text": "teleSUR\nIrán da un paso clave para romper con el organismo nuclear de la ONU\nhttps://www.telesurtv.net/iran-da-un-paso-clave-para-romper-oiea/",
+    "photo_path": null,
+    "views": 2271,
+    "reactions": {
+      "👍": 59,
+      "👏": 16,
+      "🍾": 6,
+      "👌": 2
+    },
+    "total_reactions": 83
+  },
+  "preprocessing": {
+    "cleaned": "irán está a punto de suspender su cooperación con el organismo internacional de energía atómica (oiea). el consejo de guardianes, órgano clave del poder político-religioso iraní, aprobó el plan legislativo que ordena expulsar a los inspectores del organismo y cortar el acceso a información sobre el programa nuclear del país. solo resta la firma del presidente masud pezeshkian para que la medida entre en vigor. el plan, aprobado previamente por el parlamento, prohíbe el ingreso del oiea a las instalaciones nucleares iraníes y bloquea el intercambio de datos técnicos. la cooperación solo podría reanudarse si se garantiza la seguridad de los científicos e instalaciones del país, y se permite continuar el enriquecimiento de uranio. al menos 11 científicos nucleares iraníes fueron asesinados en recientes bombardeos israelíes. la decisión se enmarca en un clima de alta tensión. teherán denunció como una agresión ilegal los recientes ataques de estados unidos contra sus instalaciones nucleares pacíficas, que se hallaban bajo supervisión de la oiea, y acusó a washington de violar su soberanía, la carta de la onu y el tratado de no proliferación nuclear (tnp). en paralelo, el gobierno iraní evalúa un proyecto para abandonar directamente el tnp. irán siempre ha afirmado no buscar el desarrollo de armas atómicas ni otras de exterminio masivo, y ya acumula más de 400 kilos de uranio enriquecido al 60 %. ese material fue conducido a un lugar seguro antes del bombardeo estadounidense contra las instalaciones de natanz, isfahán y fordó el 22 de junio pasado. recientes informaciones confirman que estos emplazamientos no sufrieron daños significativos, como alegaron ee.uu. e israel, y que teherán no enfrenta serios contratiempos para retomar en breve tiempo su programa nuclear con carácter pacífico.",
+    "tokens": [
+      "irán",
+      "punto",
+      "suspender",
+      "cooperación",
+      "organismo",
+      "internacional",
+      "energía",
+      "atómica",
+      "(",
+      "oiea",
+      ")",
+      ".",
+      "consejo",
+      "guardianes",
+      ",",
+      "órgano",
+      "clave",
+      "poder",
+      "político-religioso",
+      "iraní",
+      ",",
+      "aprobó",
+      "plan",
+      "legislativo",
+      "ordena",
+      "expulsar",
+      "inspectores",
+      "organismo",
+      "cortar",
+      "acceso",
+      "información",
+      "programa",
+      "nuclear",
+      "país",
+      ".",
+      "solo",
+      "resta",
+      "firma",
+      "presidente",
+      "masud",
+      "pezeshkian",
+      "medida",
+      "vigor",
+      ".",
+      "plan",
+      ",",
+      "aprobado",
+      "previamente",
+      "parlamento",
+      ",",
+      "prohíbe",
+      "ingreso",
+      "oiea",
+      "instalaciones",
+      "nucleares",
+      "iraníes",
+      "bloquea",
+      "intercambio",
+      "datos",
+      "técnicos",
+      ".",
+      "cooperación",
+      "solo",
+      "podría",
+      "reanudarse",
+      "si",
+      "garantiza",
+      "seguridad",
+      "científicos",
+      "instalaciones",
+      "país",
+      ",",
+      "permite",
+      "continuar",
+      "enriquecimiento",
+      "uranio",
+      ".",
+      "menos",
+      "11",
+      "científicos",
+      "nucleares",
+      "iraníes",
+      "asesinados",
+      "recientes",
+      "bombardeos",
+      "israelíes",
+      ".",
+      "decisión",
+      "enmarca",
+      "clima",
+      "alta",
+      "tensión",
+      ".",
+      "teherán",
+      "denunció",
+      "agresión",
+      "ilegal",
+      "recientes",
+      "ataques",
+      "unidos",
+      "instalaciones",
+      "nucleares",
+      "pacíficas",
+      ",",
+      "hallaban",
+      "bajo",
+      "supervisión",
+      "oiea",
+      ",",
+      "acusó",
+      "washington",
+      "violar",
+      "soberanía",
+      ",",
+      "carta",
+      "onu",
+      "tratado",
+      "proliferación",
+      "nuclear",
+      "(",
+      "tnp",
+      ")",
+      ".",
+      "paralelo",
+      ",",
+      "gobierno",
+      "iraní",
+      "evalúa",
+      "proyecto",
+      "abandonar",
+      "directamente",
+      "tnp",
+      ".",
+      "irán",
+      "siempre",
+      "afirmado",
+      "buscar",
+      "desarrollo",
+      "armas",
+      "atómicas",
+      "exterminio",
+      "masivo",
+      ",",
+      "acumula",
+      "400",
+      "kilos",
+      "uranio",
+      "enriquecido",
+      "60",
+      "%",
+      ".",
+      "material",
+      "conducido",
+      "lugar",
+      "seguro",
+      "bombardeo",
+      "estadounidense",
+      "instalaciones",
+      "natanz",
+      ",",
+      "isfahán",
+      "fordó",
+      "22",
+      "junio",
+      "pasado",
+      ".",
+      "recientes",
+      "informaciones",
+      "confirman",
+      "emplazamientos",
+      "sufrieron",
+      "daños",
+      "significativos",
+      ",",
+      "alegaron",
+      "ee.uu.",
+      "israel",
+      ",",
+      "teherán",
+      "enfrenta",
+      "serios",
+      "contratiempos",
+      "retomar",
+      "breve",
+      "tiempo",
+      "programa",
+      "nuclear",
+      "carácter",
+      "pacífico",
+      "."
+    ],
+    "token_count": 190,
+    "sentence_count": 12
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 44,
+      "VBD": 4,
+      "FW": 52,
+      "NN": 92,
+      "IN": 11,
+      "VBP": 6,
+      "VBN": 1,
+      "JJ": 28,
+      "VBZ": 8,
+      "NNS": 10,
+      "CD": 4,
+      "PRP$": 1,
+      "DT": 3,
+      "RB": 1
+    },
+    "bigram_freq": {
+      "NNP-VBD": 4,
+      "VBD-FW": 1,
+      "FW-FW": 33,
+      "FW-NN": 6,
+      "NN-NN": 52,
+      "NN-NNP": 11,
+      "NNP-NNP": 18,
+      "NNP-FW": 4,
+      "FW-NNP": 7,
+      "NNP-IN": 4,
+      "IN-NNP": 5,
+      "NNP-VBP": 1,
+      "VBP-VBN": 1,
+      "VBN-NN": 1,
+      "NN-JJ": 8,
+      "JJ-NN": 18,
+      "NN-VBZ": 7,
+      "VBZ-JJ": 4,
+      "JJ-JJ": 5,
+      "VBZ-FW": 2,
+      "FW-JJ": 4,
+      "NNP-NN": 9,
+      "NN-FW": 6,
+      "NNP-VBZ": 1,
+      "VBZ-NNS": 1,
+      "NNS-NNS": 2,
+      "NNS-VBP": 5,
+      "VBP-JJ": 4,
+      "NN-IN": 4,
+      "IN-FW": 4,
+      "JJ-NNP": 1,
+      "JJ-NNS": 3,
+      "NNS-FW": 1,
+      "VBD-CD": 2,
+      "CD-NN": 1,
+      "NN-NNS": 3,
+      "VBP-IN": 1,
+      "NNP-JJ": 1,
+      "VBD-PRP$": 1,
+      "PRP$-JJ": 1,
+      "JJ-DT": 1,
+      "DT-NN": 2,
+      "FW-CD": 1,
+      "CD-FW": 1,
+      "FW-RB": 1,
+      "RB-CD": 1,
+      "CD-NNP": 1,
+      "NNS-IN": 1,
+      "CD-IN": 1,
+      "IN-NN": 2,
+      "NNP-NNS": 1,
+      "NNS-NN": 1,
+      "VBZ-DT": 1,
+      "NNP-DT": 1,
+      "DT-JJ": 1
+    },
+    "trigram_freq": {
+      "NNP-VBD-FW": 1,
+      "VBD-FW-FW": 1,
+      "FW-FW-FW": 24,
+      "FW-FW-NN": 2,
+      "FW-NN-NN": 1,
+      "NN-NN-NN": 27,
+      "NN-NN-NNP": 8,
+      "NN-NNP-NNP": 3,
+      "NNP-NNP-FW": 1,
+      "NNP-FW-NNP": 2,
+      "FW-NNP-NNP": 2,
+      "NNP-NNP-NNP": 9,
+      "NNP-NNP-IN": 1,
+      "NNP-IN-NNP": 3,
+      "IN-NNP-NNP": 4,
+      "NNP-NNP-VBP": 1,
+      "NNP-VBP-VBN": 1,
+      "VBP-VBN-NN": 1,
+      "VBN-NN-JJ": 1,
+      "NN-JJ-NN": 6,
+      "JJ-NN-NN": 12,
+      "NN-NN-VBZ": 5,
+      "NN-VBZ-JJ": 4,
+      "VBZ-JJ-JJ": 1,
+      "JJ-JJ-NN": 4,
+      "NN-VBZ-FW": 2,
+      "VBZ-FW-JJ": 1,
+      "FW-JJ-NN": 2,
+      "NN-NN-JJ": 7,
+      "NN-NNP-NN": 5,
+      "NNP-NN-NN": 8,
+      "NNP-NNP-NN": 2,
+      "NN-NN-FW": 3,
+      "NN-FW-NN": 3,
+      "FW-NN-FW": 3,
+      "FW-NN-NNP": 2,
+      "NNP-NN-VBZ": 1,
+      "VBZ-JJ-NN": 3,
+      "NN-NNP-VBZ": 1,
+      "NNP-VBZ-NNS": 1,
+      "VBZ-NNS-NNS": 1,
+      "NNS-NNS-VBP": 2,
+      "NNS-VBP-JJ": 4,
+      "VBP-JJ-JJ": 2,
+      "JJ-NN-IN": 3,
+      "NN-IN-FW": 3,
+      "IN-FW-JJ": 1,
+      "FW-JJ-NNP": 1,
+      "JJ-NNP-NN": 1,
+      "NN-FW-FW": 2,
+      "FW-FW-JJ": 2,
+      "FW-JJ-NNS": 1,
+      "JJ-NNS-FW": 1,
+      "NNS-FW-FW": 1,
+      "FW-FW-NNP": 3,
+      "FW-NNP-VBD": 1,
+      "NNP-VBD-CD": 2,
+      "VBD-CD-NN": 1,
+      "CD-NN-NNS": 1,
+      "NN-NNS-VBP": 2,
+      "VBP-JJ-NN": 2,
+      "JJ-NN-NNP": 1,
+      "NN-NNP-FW": 1,
+      "NNP-FW-FW": 2,
+      "IN-FW-NN": 1,
+      "NN-JJ-JJ": 1,
+      "JJ-JJ-JJ": 1,
+      "JJ-NN-NNS": 2,
+      "NNS-VBP-IN": 1,
+      "VBP-IN-NNP": 1,
+      "NNP-NNP-JJ": 1,
+      "NNP-JJ-NN": 1,
+      "NN-NNS-NNS": 1,
+      "NN-NN-IN": 1,
+      "IN-FW-NNP": 1,
+      "FW-NNP-IN": 2,
+      "IN-NNP-IN": 1,
+      "NNP-IN-FW": 1,
+      "IN-FW-FW": 1,
+      "FW-NNP-FW": 2,
+      "NN-FW-NNP": 1,
+      "NNP-NNP-VBD": 2,
+      "NNP-VBD-PRP$": 1,
+      "VBD-PRP$-JJ": 1,
+      "PRP$-JJ-DT": 1,
+      "JJ-DT-NN": 1,
+      "DT-NN-VBZ": 1,
+      "VBZ-FW-FW": 1,
+      "FW-FW-CD": 1,
+      "FW-CD-FW": 1,
+      "CD-FW-FW": 1,
+      "FW-FW-RB": 1,
+      "FW-RB-CD": 1,
+      "RB-CD-NNP": 1,
+      "CD-NNP-NN": 1,
+      "NN-JJ-NNS": 1,
+      "JJ-NNS-IN": 1,
+      "NNS-IN-NNP": 1,
+      "VBD-CD-IN": 1,
+      "CD-IN-NN": 1,
+      "IN-NN-NN": 2,
+      "NN-NNP-NNS": 1,
+      "NNP-NNS-NN": 1,
+      "NNS-NN-NN": 1,
+      "NN-VBZ-DT": 1,
+      "VBZ-DT-NN": 1,
+      "DT-NN-NN": 1,
+      "NNP-NNP-DT": 1,
+      "NNP-DT-JJ": 1,
+      "DT-JJ-NNS": 1,
+      "JJ-NNS-VBP": 1,
+      "NN-IN-NN": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 92,
+        "FW": 52,
+        "NNP": 44,
+        "JJ": 28,
+        "IN": 11
+      },
+      "top_bigrams": {
+        "NN-NN": 52,
+        "FW-FW": 33,
+        "NNP-NNP": 18,
+        "JJ-NN": 18,
+        "NN-NNP": 11
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 27,
+        "FW-FW-FW": 24,
+        "JJ-NN-NN": 12,
+        "NNP-NNP-NNP": 9,
+        "NN-NN-NNP": 8
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 12,
+    "chunk_counts": {
+      "NP": 74,
+      "VP": 23,
+      "PP": 8,
+      "ADJP": 1
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 6,
+        "weight": 0.0508
+      },
+      {
+        "rule": "NP -> ('OIEA', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0169
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0169
+      },
+      {
+        "rule": "VP -> ('iraníes', 'VBP') NP",
+        "frequency": 2,
+        "weight": 0.0169
+      },
+      {
+        "rule": "S -> NP VP ('de', 'IN') ('suspender', 'FW') NP ('de', 'FW') NP ('(', '(') NP (')', ')') ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0085
+      },
+      {
+        "rule": "NP -> ('Irán', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0085
+      },
+      {
+        "rule": "VP -> ('está', 'VBZ') NP",
+        "frequency": 1,
+        "weight": 0.0085
+      },
+      {
+        "rule": "NP -> ('a', 'DT') ('punto', 'NN')",
+        "frequency": 1,
+        "weight": 0.0085
+      },
+      {
+        "rule": "NP -> ('su', 'NN') ('cooperación', 'NN') ('con', 'NN') ('el', 'NN') ('Organismo', 'NNP') ('Internacional', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0085
+      },
+      {
+        "rule": "NP -> ('Energía', 'NNP') ('Atómica', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0085
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Irán"
+      },
+      {
+        "label": "VP",
+        "text": "está a punto"
+      },
+      {
+        "label": "NP",
+        "text": "a punto"
+      },
+      {
+        "label": "NP",
+        "text": "su cooperación con el Organismo Internacional"
+      },
+      {
+        "label": "NP",
+        "text": "Energía Atómica"
+      },
+      {
+        "label": "NP",
+        "text": "OIEA"
+      },
+      {
+        "label": "NP",
+        "text": "El Consejo"
+      },
+      {
+        "label": "PP",
+        "text": "de Guardianes"
+      },
+      {
+        "label": "NP",
+        "text": "Guardianes"
+      },
+      {
+        "label": "NP",
+        "text": "órgano"
+      },
+      {
+        "label": "VP",
+        "text": "clave"
+      },
+      {
+        "label": "VP",
+        "text": "del poder político-religioso iraní"
+      },
+      {
+        "label": "NP",
+        "text": "poder político-religioso iraní"
+      },
+      {
+        "label": "VP",
+        "text": "aprobó el plan"
+      },
+      {
+        "label": "NP",
+        "text": "el plan"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Irán/NNP)\n  (VP está/VBZ (NP a/DT punto/NN))\n  de/IN\n  suspender/FW\n  (NP\n    su/NN\n    cooperación/NN\n    con/NN\n    el/NN\n    Organismo/NNP\n    Internacional/NNP)\n  de/FW\n  (NP Energía/NNP Atómica/NNP)\n  (/(\n  (NP OIEA/NNP)\n  )/)\n  ./.)",
+      "(S\n  (NP El/NNP Consejo/NNP)\n  (PP de/IN (NP Guardianes/NNP))\n  ,/,\n  (NP órgano/NNP)\n  (VP clave/VBP)\n  (VP del/VBN (NP poder/NN político-religioso/NN iraní/NN))\n  ,/,\n  (VP aprobó/VBP (NP el/JJ plan/NN))\n  (VP legislativo/VBZ (NP que/JJ ordena/NNS))\n  (VP expulsar/VBP (NP a/DT los/JJ inspectores/NNS))\n  (VP del/VBP (NP organismo/JJ y/NN cortar/NN el/NN))\n  (VP\n    acceso/VBZ\n    (NP a/DT información/JJ sobre/NN el/NN programa/NN)\n    (NP nuclear/JJ del/NN país/NN))\n  ./.)",
+      "(S\n  (NP Solo/NNP resta/NN la/NN)\n  (NP\n    firma/JJ\n    del/NN\n    presidente/NN\n    Masud/NNP\n    Pezeshkian/NNP\n    para/NN\n    que/NN\n    la/NN)\n  medida/FW\n  (NP entre/NN)\n  (PP en/IN (NP vigor/NN))\n  ./.)",
+      "(S\n  (NP El/NNP plan/NN)\n  ,/,\n  (NP aprobado/JJ previamente/NN por/NN el/NN Parlamento/NNP)\n  ,/,\n  (NP prohíbe/NN el/NN ingreso/NN del/NN OIEA/NNP)\n  (NP a/DT las/JJ instalaciones/NNS nucleares/NNS)\n  (VP iraníes/VBP (NP y/JJ bloquea/NN el/NN intercambio/NN))\n  de/IN\n  datos/FW\n  (NP técnicos/NN)\n  ./.)",
+      "(S\n  (NP La/NNP cooperación/NN solo/NN podría/NN reanudarse/NN si/NN)\n  se/FW\n  (NP garantiza/NN)\n  la/FW\n  seguridad/FW\n  de/FW\n  los/FW\n  (NP científicos/JJ e/NN instalaciones/NNS)\n  del/FW\n  (NP país/NN)\n  ,/,\n  y/FW\n  se/FW\n  permite/FW\n  (NP continuar/NN)\n  el/FW\n  enriquecimiento/FW\n  de/FW\n  uranio/FW\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "GOBIERNOS_OFICIALES",
+      "ORGANISMOS_INTERNACIONALES",
+      "APROBACION_RECHAZO",
+      "TIEMPO_RELATIVO",
+      "CANTIDADES_NUMERICAS",
+      "ACCIONES_LEGALES",
+      "REGIONES_PROVINCIAS",
+      "PAISES",
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "CONFLICTOS_ARMADOS_OPERACIONES",
+      "RELACIONES_INTERNACIONALES",
+      "INFRAESTRUCTURA_SERVICIOS"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "bombardeos israelíes",
+        "position": [
+          812,
+          832
+        ],
+        "start": 812,
+        "end": 832
+      },
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "denunció como una agresión ilegal los recientes ataques de estados unidos contra sus instalaciones nucleares pacíficas, que se hallaban bajo supervisión de la oiea, y acusó a",
+        "position": [
+          894,
+          1068
+        ],
+        "start": 894,
+        "end": 1068
+      },
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "ingreso",
+        "position": [
+          475,
+          482
+        ],
+        "start": 475,
+        "end": 482
+      },
+      {
+        "category": "RELACIONES_INTERNACIONALES",
+        "matched_text": "cooperación con el organismo internacional",
+        "position": [
+          34,
+          76
+        ],
+        "start": 34,
+        "end": 76
+      },
+      {
+        "category": "RELACIONES_INTERNACIONALES",
+        "matched_text": "cooperación con el organismo internacional de energía atómica (oiea). el consejo de guardianes, órgano clave del poder político-religioso iraní, aprobó el plan legislativo que ordena expulsar a los inspectores del organismo y cortar",
+        "position": [
+          34,
+          266
+        ],
+        "start": 34,
+        "end": 266
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente masud pezeshkian",
+        "position": [
+          351,
+          378
+        ],
+        "start": 351,
+        "end": 378
+      },
+      {
+        "category": "ORGANISMOS_INTERNACIONALES",
+        "matched_text": "onu",
+        "position": [
+          1119,
+          1122
+        ],
+        "start": 1119,
+        "end": 1122
+      },
+      {
+        "category": "APROBACION_RECHAZO",
+        "matched_text": "aprobó",
+        "position": [
+          179,
+          185
+        ],
+        "start": 179,
+        "end": 185
+      },
+      {
+        "category": "ACCIONES_LEGALES",
+        "matched_text": "denunció",
+        "position": [
+          894,
+          902
+        ],
+        "start": 894,
+        "end": 902
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "energía",
+        "position": [
+          80,
+          87
+        ],
+        "start": 80,
+        "end": 87
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "estados unidos",
+        "position": [
+          953,
+          967
+        ],
+        "start": 953,
+        "end": 967
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "pacífico",
+        "position": [
+          1805,
+          1813
+        ],
+        "start": 1805,
+        "end": 1813
+      },
+      {
+        "category": "TIEMPO_RELATIVO",
+        "matched_text": "en breve",
+        "position": [
+          1756,
+          1764
+        ],
+        "start": 1756,
+        "end": 1764
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "más de 400",
+        "position": [
+          1368,
+          1378
+        ],
+        "start": 1368,
+        "end": 1378
+      }
+    ],
+    "match_count": 14
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Irán",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "EE.UU.",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Gobierno iraní",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Washington",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Parlamento",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Estados Unidos",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Carta de la ONU",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Organismo Internacional de Energía Atómica",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Israel",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Teherán",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Isfahán",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Natanz",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Fordó",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "OIEA",
+        "tipo": "Organizacion"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Irán",
+        "relacion": "SUSPENDER",
+        "objeto": "Organismo Internacional de Energía Atómica"
+      },
+      {
+        "sujeto": "Irán",
+        "relacion": "SUSPENDER",
+        "objeto": "OIEA"
+      },
+      {
+        "sujeto": "Parlamento",
+        "relacion": "PROH_BIR",
+        "objeto": "OIEA"
+      },
+      {
+        "sujeto": "Teherán",
+        "relacion": "DENUNCIAR",
+        "objeto": "Estados Unidos"
+      },
+      {
+        "sujeto": "Teherán",
+        "relacion": "DENUNCIAR",
+        "objeto": "OIEA"
+      },
+      {
+        "sujeto": "Teherán",
+        "relacion": "DENUNCIAR",
+        "objeto": "Washington"
+      },
+      {
+        "sujeto": "Teherán",
+        "relacion": "DENUNCIAR",
+        "objeto": "Carta de la ONU"
+      },
+      {
+        "sujeto": "Estados Unidos",
+        "relacion": "DENUNCIAR",
+        "objeto": "Washington"
+      },
+      {
+        "sujeto": "Estados Unidos",
+        "relacion": "DENUNCIAR",
+        "objeto": "Carta de la ONU"
+      },
+      {
+        "sujeto": "OIEA",
+        "relacion": "HALLAR_DENUNCIAR",
+        "objeto": "Washington"
+      },
+      {
+        "sujeto": "OIEA",
+        "relacion": "HALLAR_DENUNCIAR",
+        "objeto": "Carta de la ONU"
+      },
+      {
+        "sujeto": "Washington",
+        "relacion": "ACUSAR_DENUNCIAR",
+        "objeto": "Carta de la ONU"
+      },
+      {
+        "sujeto": "EE.UU.",
+        "relacion": "ALEGAR_SUFRIR_CONFIRMAR",
+        "objeto": "Teherán"
+      },
+      {
+        "sujeto": "Teherán",
+        "relacion": "ALEGAR_SUFRIR_CONFIRMAR",
+        "objeto": "Israel"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.5106,
+    "pos": 0.016,
+    "neu": 0.951,
+    "neg": 0.032,
+    "label": "negative"
+  }
+}

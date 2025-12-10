@@ -1,0 +1,627 @@
+{
+  "url": "https://www.telesurtv.net/ataque-terrorista-atribuido-adf-mata-40-civiles-rd-congo/",
+  "title": "Ataque terrorista atribuido a las ADF mata a más de 40 civiles en la RD del Congo - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "ADF",
+    "RD del Congo",
+    "Violencia"
+  ],
+  "text": "Según reportes de medios locales e internacionales, el ataque tomó por sorpresa a los masacrados, en su mayoría feligreses católicos reunidos en un templo, quienes participaban en una vigilia. Una veintena de ellos fueron asesinados con arma blanca.\nTambién fueron atacadas varias personas en viviendas y establecimientos comerciales no lejos del lugar de culto. Algunos cuerpos y edificaciones fueron quemados. Aún se reportan varios desaparecidos.\nAnte el avance de las fuerzas de seguridad, alertadas del hecho, los integrantes de las ADF abandonaron Komanda, que atravesaba un periodo de calma, lo que provocó que muchos desplazados regresaran a rehacer sus vidas.\n\n\nA juicio de Christophe Munyanderu, coordinador de la Convención para el Respeto de los Derechos Humanos (CRDH) en la zona, lo ocurrido “fue un acto de sabotaje” orquestado por “las ADF en pleno centro comercial de Komanda (…). Perdimos a más de 40 personas, la mayoría de ellas, cristianas católicas”.\nEl activista pidió al Ejército y la Policía adoptar medidas de seguridad que permitan proteger a la población local, que ahora es presa de la tristeza y el pánico.\nEl grupo armado ADF es considerado de carácter terrorista. Se le atribuyen vínculos con el autodenominado Estado Islámico. Es de origen ugandés, con bases en las provincias congolesas de Ituri y Kivu del Norte. Fue acusado de varios atentados en Uganda, tras lo cual los Ejércitos de ambas naciones iniciaron un operativo conjunto en 2021 para eliminarlo.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/ataque-terrorista-atribuido-adf-mata-40-civiles-rd-congo/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-07.json",
+    "message_index": 359,
+    "message_id": 100184,
+    "date": "2025-07-27T16:55:07+00:00",
+    "text": "teleSUR\nAtaque terrorista atribuido a las ADF mata a más de 40 civiles en la RD del Congo\nhttps://www.telesurtv.net/ataque-terrorista-atribuido-adf-mata-40-civiles-rd-congo/",
+    "photo_path": null,
+    "views": 1118,
+    "reactions": {
+      "👍": 12,
+      "🤬": 6,
+      "❤": 2,
+      "🙏": 2
+    },
+    "total_reactions": 22
+  },
+  "preprocessing": {
+    "cleaned": "según reportes de medios locales e internacionales, el ataque tomó por sorpresa a los masacrados, en su mayoría feligreses católicos reunidos en un templo, quienes participaban en una vigilia. una veintena de ellos fueron asesinados con arma blanca. también fueron atacadas varias personas en viviendas y establecimientos comerciales no lejos del lugar de culto. algunos cuerpos y edificaciones fueron quemados. aún se reportan varios desaparecidos. ante el avance de las fuerzas de seguridad, alertadas del hecho, los integrantes de las adf abandonaron komanda, que atravesaba un periodo de calma, lo que provocó que muchos desplazados regresaran a rehacer sus vidas. a juicio de christophe munyanderu, coordinador de la convención para el respeto de los derechos humanos (crdh) en la zona, lo ocurrido “fue un acto de sabotaje” orquestado por “las adf en pleno centro comercial de komanda (…). perdimos a más de 40 personas, la mayoría de ellas, cristianas católicas”. el activista pidió al ejército y la policía adoptar medidas de seguridad que permitan proteger a la población local, que ahora es presa de la tristeza y el pánico. el grupo armado adf es considerado de carácter terrorista. se le atribuyen vínculos con el autodenominado estado islámico. es de origen ugandés, con bases en las provincias congolesas de ituri y kivu del norte. fue acusado de varios atentados en uganda, tras lo cual los ejércitos de ambas naciones iniciaron un operativo conjunto en 2021 para eliminarlo.",
+    "tokens": [
+      "según",
+      "reportes",
+      "medios",
+      "locales",
+      "internacionales",
+      ",",
+      "ataque",
+      "tomó",
+      "sorpresa",
+      "masacrados",
+      ",",
+      "mayoría",
+      "feligreses",
+      "católicos",
+      "reunidos",
+      "templo",
+      ",",
+      "participaban",
+      "vigilia",
+      ".",
+      "veintena",
+      "asesinados",
+      "arma",
+      "blanca",
+      ".",
+      "atacadas",
+      "varias",
+      "personas",
+      "viviendas",
+      "establecimientos",
+      "comerciales",
+      "lejos",
+      "lugar",
+      "culto",
+      ".",
+      "cuerpos",
+      "edificaciones",
+      "quemados",
+      ".",
+      "aún",
+      "reportan",
+      "varios",
+      "desaparecidos",
+      ".",
+      "avance",
+      "fuerzas",
+      "seguridad",
+      ",",
+      "alertadas",
+      "hecho",
+      ",",
+      "integrantes",
+      "adf",
+      "abandonaron",
+      "komanda",
+      ",",
+      "atravesaba",
+      "periodo",
+      "calma",
+      ",",
+      "provocó",
+      "desplazados",
+      "regresaran",
+      "rehacer",
+      "vidas",
+      ".",
+      "juicio",
+      "christophe",
+      "munyanderu",
+      ",",
+      "coordinador",
+      "convención",
+      "respeto",
+      "derechos",
+      "humanos",
+      "(",
+      "crdh",
+      ")",
+      "zona",
+      ",",
+      "ocurrido",
+      "“",
+      "acto",
+      "sabotaje",
+      "”",
+      "orquestado",
+      "“",
+      "adf",
+      "pleno",
+      "centro",
+      "comercial",
+      "komanda",
+      "(",
+      "…",
+      ")",
+      ".",
+      "perdimos",
+      "40",
+      "personas",
+      ",",
+      "mayoría",
+      ",",
+      "cristianas",
+      "católicas",
+      "”",
+      ".",
+      "activista",
+      "pidió",
+      "ejército",
+      "policía",
+      "adoptar",
+      "medidas",
+      "seguridad",
+      "permitan",
+      "proteger",
+      "población",
+      "local",
+      ",",
+      "ahora",
+      "presa",
+      "tristeza",
+      "pánico",
+      ".",
+      "grupo",
+      "armado",
+      "adf",
+      "considerado",
+      "carácter",
+      "terrorista",
+      ".",
+      "atribuyen",
+      "vínculos",
+      "autodenominado",
+      "islámico",
+      ".",
+      "origen",
+      "ugandés",
+      ",",
+      "bases",
+      "provincias",
+      "congolesas",
+      "ituri",
+      "kivu",
+      "norte",
+      ".",
+      "acusado",
+      "varios",
+      "atentados",
+      "uganda",
+      ",",
+      "tras",
+      "ejércitos",
+      "ambas",
+      "naciones",
+      "iniciaron",
+      "operativo",
+      "conjunto",
+      "2021",
+      "eliminarlo",
+      "."
+    ],
+    "token_count": 160,
+    "sentence_count": 13
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 35,
+      "VBZ": 5,
+      "FW": 54,
+      "NNS": 12,
+      "VBP": 10,
+      "JJ": 22,
+      "NN": 65,
+      "VBD": 1,
+      "IN": 17,
+      "DT": 1,
+      "CD": 2
+    },
+    "bigram_freq": {
+      "NNP-VBZ": 2,
+      "VBZ-FW": 1,
+      "FW-FW": 32,
+      "FW-NNS": 3,
+      "NNS-NNS": 1,
+      "NNS-VBP": 10,
+      "VBP-JJ": 6,
+      "JJ-NN": 17,
+      "NN-NN": 29,
+      "NN-VBD": 1,
+      "VBD-JJ": 1,
+      "JJ-JJ": 2,
+      "NN-VBZ": 2,
+      "VBZ-JJ": 2,
+      "NN-IN": 12,
+      "IN-JJ": 2,
+      "NN-NNS": 6,
+      "VBP-IN": 1,
+      "NN-NNP": 9,
+      "NNP-NN": 12,
+      "IN-FW": 9,
+      "FW-NN": 5,
+      "VBZ-DT": 1,
+      "DT-JJ": 1,
+      "FW-NNP": 8,
+      "JJ-NNP": 1,
+      "VBP-NNP": 2,
+      "NNP-FW": 7,
+      "NN-FW": 3,
+      "FW-VBZ": 1,
+      "VBZ-IN": 1,
+      "NN-JJ": 2,
+      "IN-NNP": 3,
+      "NNP-NNP": 11,
+      "NNP-IN": 3,
+      "FW-JJ": 5,
+      "IN-CD": 2,
+      "CD-NNS": 1,
+      "NNS-JJ": 1,
+      "JJ-FW": 1,
+      "VBP-FW": 1,
+      "IN-NN": 1,
+      "JJ-NNS": 1,
+      "CD-NN": 1
+    },
+    "trigram_freq": {
+      "NNP-VBZ-FW": 1,
+      "VBZ-FW-FW": 1,
+      "FW-FW-NNS": 3,
+      "FW-NNS-NNS": 1,
+      "NNS-NNS-VBP": 1,
+      "NNS-VBP-JJ": 6,
+      "VBP-JJ-NN": 4,
+      "JJ-NN-NN": 5,
+      "NN-NN-VBD": 1,
+      "NN-VBD-JJ": 1,
+      "VBD-JJ-JJ": 1,
+      "JJ-JJ-NN": 2,
+      "NN-NN-NN": 12,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 1,
+      "JJ-NN-IN": 5,
+      "NN-IN-JJ": 1,
+      "IN-JJ-NN": 2,
+      "JJ-NN-NNS": 3,
+      "NN-NNS-VBP": 6,
+      "NNS-VBP-IN": 1,
+      "VBP-IN-JJ": 1,
+      "JJ-NN-NNP": 3,
+      "NN-NNP-NN": 4,
+      "NNP-NN-IN": 2,
+      "NN-IN-FW": 6,
+      "IN-FW-NN": 1,
+      "FW-NN-NN": 2,
+      "NN-NN-NNP": 5,
+      "NNP-NN-NN": 8,
+      "NN-NN-NNS": 2,
+      "JJ-NN-VBZ": 1,
+      "NN-VBZ-DT": 1,
+      "VBZ-DT-JJ": 1,
+      "DT-JJ-NN": 1,
+      "NN-NN-IN": 4,
+      "IN-FW-NNP": 4,
+      "FW-NNP-NN": 4,
+      "NNP-NN-NNS": 1,
+      "VBP-JJ-NNP": 1,
+      "JJ-NNP-NN": 1,
+      "NNS-VBP-NNP": 2,
+      "VBP-NNP-FW": 1,
+      "NNP-FW-NN": 1,
+      "FW-NN-FW": 1,
+      "NN-FW-FW": 2,
+      "FW-FW-FW": 20,
+      "FW-FW-VBZ": 1,
+      "FW-VBZ-IN": 1,
+      "VBZ-IN-FW": 1,
+      "NNP-NN-NNP": 1,
+      "NN-NN-JJ": 1,
+      "NN-JJ-NN": 2,
+      "IN-FW-FW": 2,
+      "FW-FW-NN": 2,
+      "NN-NN-FW": 2,
+      "NN-FW-NN": 1,
+      "FW-NN-IN": 1,
+      "NN-IN-NNP": 3,
+      "IN-NNP-NNP": 3,
+      "NNP-NNP-NN": 2,
+      "NN-NNP-IN": 1,
+      "NNP-IN-FW": 2,
+      "FW-NNP-NNP": 2,
+      "NNP-NNP-NNP": 4,
+      "NNP-NNP-FW": 3,
+      "NNP-FW-FW": 5,
+      "FW-NN-JJ": 1,
+      "FW-FW-NNP": 3,
+      "FW-NNP-FW": 2,
+      "FW-FW-JJ": 3,
+      "FW-JJ-NN": 5,
+      "NNP-NNP-IN": 2,
+      "NNP-IN-CD": 1,
+      "IN-CD-NNS": 1,
+      "CD-NNS-JJ": 1,
+      "NNS-JJ-FW": 1,
+      "JJ-FW-FW": 1,
+      "FW-NNS-VBP": 2,
+      "VBP-NNP-NN": 1,
+      "NN-NNP-NNP": 2,
+      "IN-FW-JJ": 2,
+      "NNS-VBP-FW": 1,
+      "VBP-FW-FW": 1,
+      "NN-IN-NN": 1,
+      "IN-NN-NN": 1,
+      "NN-NNP-VBZ": 1,
+      "NNP-VBZ-JJ": 1,
+      "VBZ-JJ-NNS": 1,
+      "JJ-NNS-VBP": 1,
+      "VBP-JJ-JJ": 1,
+      "NNP-FW-NNP": 1,
+      "NN-NNP-FW": 1,
+      "NN-IN-CD": 1,
+      "IN-CD-NN": 1,
+      "CD-NN-NN": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 65,
+        "FW": 54,
+        "NNP": 35,
+        "JJ": 22,
+        "IN": 17
+      },
+      "top_bigrams": {
+        "FW-FW": 32,
+        "NN-NN": 29,
+        "JJ-NN": 17,
+        "NN-IN": 12,
+        "NNP-NN": 12
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 20,
+        "NN-NN-NN": 12,
+        "NNP-NN-NN": 8,
+        "NNS-VBP-JJ": 6,
+        "NN-NNS-VBP": 6
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 13,
+    "chunk_counts": {
+      "NP": 70,
+      "VP": 20,
+      "PP": 7,
+      "ADJP": 1
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 6,
+        "weight": 0.0541
+      },
+      {
+        "rule": "VP -> ('en', 'VBP') NP",
+        "frequency": 2,
+        "weight": 0.018
+      },
+      {
+        "rule": "S -> NP VP ('.', '.')",
+        "frequency": 2,
+        "weight": 0.018
+      },
+      {
+        "rule": "S -> NP VP ('de', 'FW') ('medios', 'FW') NP VP (',', ',') VP VP (',', ',') ('en', 'FW') ('su', 'FW') NP VP ('en', 'FW') NP (',', ',') NP VP PP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.009
+      },
+      {
+        "rule": "NP -> ('Según', 'NNP')",
+        "frequency": 1,
+        "weight": 0.009
+      },
+      {
+        "rule": "VP -> ('reportes', 'VBZ')",
+        "frequency": 1,
+        "weight": 0.009
+      },
+      {
+        "rule": "NP -> ('locales', 'NNS')",
+        "frequency": 1,
+        "weight": 0.009
+      },
+      {
+        "rule": "VP -> ('e', 'VBP') NP",
+        "frequency": 1,
+        "weight": 0.009
+      },
+      {
+        "rule": "NP -> ('internacionales', 'NNS')",
+        "frequency": 1,
+        "weight": 0.009
+      },
+      {
+        "rule": "VP -> ('el', 'VBP') NP",
+        "frequency": 1,
+        "weight": 0.009
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Según"
+      },
+      {
+        "label": "VP",
+        "text": "reportes"
+      },
+      {
+        "label": "NP",
+        "text": "locales"
+      },
+      {
+        "label": "VP",
+        "text": "e internacionales"
+      },
+      {
+        "label": "NP",
+        "text": "internacionales"
+      },
+      {
+        "label": "VP",
+        "text": "el ataque tomó por"
+      },
+      {
+        "label": "NP",
+        "text": "ataque tomó por"
+      },
+      {
+        "label": "VP",
+        "text": "sorpresa a los masacrados"
+      },
+      {
+        "label": "NP",
+        "text": "a los masacrados"
+      },
+      {
+        "label": "NP",
+        "text": "mayoría feligreses"
+      },
+      {
+        "label": "VP",
+        "text": "católicos reunidos"
+      },
+      {
+        "label": "NP",
+        "text": "un templo"
+      },
+      {
+        "label": "NP",
+        "text": "quienes"
+      },
+      {
+        "label": "VP",
+        "text": "participaban"
+      },
+      {
+        "label": "PP",
+        "text": "en una vigilia"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Según/NNP)\n  (VP reportes/VBZ)\n  de/FW\n  medios/FW\n  (NP locales/NNS)\n  (VP e/VBP (NP internacionales/NNS))\n  ,/,\n  (VP el/VBP (NP ataque/JJ tomó/NN por/NN))\n  (VP sorpresa/VBD (NP a/DT los/NN masacrados/NN))\n  ,/,\n  en/FW\n  su/FW\n  (NP mayoría/NN feligreses/NNS)\n  (VP católicos/VBP reunidos/JJ)\n  en/FW\n  (NP un/JJ templo/NN)\n  ,/,\n  (NP quienes/NNS)\n  (VP participaban/VBP)\n  (PP en/IN (NP una/JJ vigilia/NN))\n  ./.)",
+      "(S\n  (NP Una/NNP veintena/NN)\n  de/IN\n  ellos/FW\n  (NP fueron/NN asesinados/NN con/NN arma/NN blanca/NN)\n  ./.)",
+      "(S\n  (NP También/NNP fueron/NN atacadas/NN varias/NN personas/NNS)\n  (VP en/VBP (NP viviendas/JJ y/NN establecimientos/NN))\n  (VP comerciales/VBZ (NP no/DT lejos/JJ del/NN lugar/NN))\n  (PP de/IN (NP culto/NN))\n  ./.)",
+      "(S\n  (NP Algunos/NNP cuerpos/NN y/NN edificaciones/NNS)\n  (VP fueron/VBP (NP quemados/NN))\n  ./.)",
+      "(S\n  (NP Aún/NNP se/NN reportan/NN varios/NNS)\n  (VP desaparecidos/VBP)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "CANTIDADES_NUMERICAS",
+      "JUSTICIA_SOCIAL",
+      "LOCALIZACIONES_ESPECIFICAS",
+      "REGIONES_PROVINCIAS"
+    ],
+    "matches": [
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "zona, lo",
+        "position": [
+          788,
+          796
+        ],
+        "start": 788,
+        "end": 796
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "centro comercial",
+        "position": [
+          865,
+          881
+        ],
+        "start": 865,
+        "end": 881
+      },
+      {
+        "category": "JUSTICIA_SOCIAL",
+        "matched_text": "derechos humanos",
+        "position": [
+          758,
+          774
+        ],
+        "start": 758,
+        "end": 774
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "40 personas",
+        "position": [
+          916,
+          927
+        ],
+        "start": 916,
+        "end": 927
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "más de 40",
+        "position": [
+          909,
+          918
+        ],
+        "start": 909,
+        "end": 918
+      }
+    ],
+    "match_count": 5
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Ituri",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Kivu del Norte",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Convención para el Respeto de los Derechos Humanos",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Ejércitos de ambas naciones",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Estado Islámico",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "CRDH",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Komanda",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Uganda",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Christophe Munyanderu",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Policía",
+        "tipo": "Organizacion"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Ejércitos de ambas naciones",
+        "relacion": "ACUSAR",
+        "objeto": "Uganda"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.296,
+    "pos": 0.0,
+    "neu": 0.99,
+    "neg": 0.01,
+    "label": "negative"
+  }
+}

@@ -1,0 +1,806 @@
+{
+  "url": "https://www.telesurtv.net/conflicto-en-sudan-deja-al-menos-200-muertos-en-los-ultimos-tres-dias/",
+  "title": "Conflicto en Sudán deja al menos 200 muertos en los últimos tres días - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Conflicto",
+    "Muertos",
+    "Sudán"
+  ],
+  "text": "Activistas sudaneses de la organización Abogados de Emergencia confirmaron este martes que, luego de tres días de ataques paramilitares en aldeas cercanas a la ciudad de al-Gitaina, localizada en el estado de Nilo Blanco, la cifra de muertos en Sudán ya asciende a los 200.\nLa información subraya que el grupo paramilitar de las Fuerzas de Apoyo Rápido (FAR) “atacaron a civiles no armados en zonas sin presencia militar”.\nLos ataques se concentraron en las localidades de Al Kadaris y Al Khelwat, localizadas en el citado estado del sur de ese país africano.\nAsimismo, los abogados advierten que el grupo de las FAR realizó ejecuciones sumarias, secuestros y saqueos en el territorio sudanés, dejando también a cientos de heridos y desaparecidos.\nEn ese sentido, el Ministerio de Exteriores de Sudán denunció que las acciones del las FAR califican como “la peor cometida” contra civiles desde el inicio del conflicto en el que se encuentra inmerso Sudán desde abril del año 2023, cuando inició una disputa entre los paramilitares de las FAR y el Ejército nacional, dirigido por el comandante Abdel Fatah al Burhan.\nAdemás, este país figura en la lista de las naciones más pobres del mundo, lo que agrava la crítica situación que sucede allí.\nEl número de muertos ya se registra en miles, al tiempo que más de 12 millones de sudaneses se han visto obligados a salir del país, huyendo del conflicto.\nPor su parte, el Comité Internacional de Rescate ha calificado la situación en Sudán como “la mayor crisis humanitaria jamás registrada”.\nA propósito, Fattah al-Burhan, el Gobierno de Sudán y las Naciones Unidas colaboran de cerca para mitigar el dolor de la población y proporcionar ayuda humanitaria.\n",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/conflicto-en-sudan-deja-al-menos-200-muertos-en-los-ultimos-tres-dias/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-02.json",
+    "message_index": 744,
+    "message_id": 87174,
+    "date": "2025-02-18T21:55:18+00:00",
+    "text": "teleSUR\nConflicto en Sudán deja al menos 200 muertos en los últimos tres días\nhttps://www.telesurtv.net/conflicto-en-sudan-deja-al-menos-200-muertos-en-los-ultimos-tres-dias/",
+    "photo_path": null,
+    "views": 1979,
+    "reactions": {
+      "🤔": 9,
+      "🕊": 5,
+      "🤬": 4,
+      "🔥": 3,
+      "😁": 2
+    },
+    "total_reactions": 23
+  },
+  "preprocessing": {
+    "cleaned": "activistas sudaneses de la organización abogados de emergencia confirmaron este martes que, luego de tres días de ataques paramilitares en aldeas cercanas a la ciudad de al-gitaina, localizada en el estado de nilo blanco, la cifra de muertos en sudán ya asciende a los 200. la información subraya que el grupo paramilitar de las fuerzas de apoyo rápido (far) “atacaron a civiles no armados en zonas sin presencia militar”. los ataques se concentraron en las localidades de al kadaris y al khelwat, localizadas en el citado estado del sur de ese país africano. asimismo, los abogados advierten que el grupo de las far realizó ejecuciones sumarias, secuestros y saqueos en el territorio sudanés, dejando también a cientos de heridos y desaparecidos. en ese sentido, el ministerio de exteriores de sudán denunció que las acciones del las far califican como “la peor cometida” contra civiles desde el inicio del conflicto en el que se encuentra inmerso sudán desde abril del año 2023, cuando inició una disputa entre los paramilitares de las far y el ejército nacional, dirigido por el comandante abdel fatah al burhan. además, este país figura en la lista de las naciones más pobres del mundo, lo que agrava la crítica situación que sucede allí. el número de muertos ya se registra en miles, al tiempo que más de 12 millones de sudaneses se han visto obligados a salir del país, huyendo del conflicto. por su parte, el comité internacional de rescate ha calificado la situación en sudán como “la mayor crisis humanitaria jamás registrada”. a propósito, fattah al-burhan, el gobierno de sudán y las naciones unidas colaboran de cerca para mitigar el dolor de la población y proporcionar ayuda humanitaria.",
+    "tokens": [
+      "activistas",
+      "sudaneses",
+      "organización",
+      "abogados",
+      "emergencia",
+      "confirmaron",
+      "martes",
+      ",",
+      "luego",
+      "tres",
+      "días",
+      "ataques",
+      "paramilitares",
+      "aldeas",
+      "cercanas",
+      "ciudad",
+      "al-gitaina",
+      ",",
+      "localizada",
+      "nilo",
+      "blanco",
+      ",",
+      "cifra",
+      "muertos",
+      "sudán",
+      "asciende",
+      "200.",
+      "información",
+      "subraya",
+      "grupo",
+      "paramilitar",
+      "fuerzas",
+      "apoyo",
+      "rápido",
+      "(",
+      "far",
+      ")",
+      "“",
+      "atacaron",
+      "civiles",
+      "armados",
+      "zonas",
+      "presencia",
+      "militar",
+      "”",
+      ".",
+      "ataques",
+      "concentraron",
+      "localidades",
+      "kadaris",
+      "khelwat",
+      ",",
+      "localizadas",
+      "citado",
+      "sur",
+      "país",
+      "africano",
+      ".",
+      "asimismo",
+      ",",
+      "abogados",
+      "advierten",
+      "grupo",
+      "far",
+      "realizó",
+      "ejecuciones",
+      "sumarias",
+      ",",
+      "secuestros",
+      "saqueos",
+      "territorio",
+      "sudanés",
+      ",",
+      "dejando",
+      "cientos",
+      "heridos",
+      "desaparecidos",
+      ".",
+      ",",
+      "ministerio",
+      "exteriores",
+      "sudán",
+      "denunció",
+      "acciones",
+      "far",
+      "califican",
+      "“",
+      "peor",
+      "cometida",
+      "”",
+      "civiles",
+      "inicio",
+      "conflicto",
+      "encuentra",
+      "inmerso",
+      "sudán",
+      "abril",
+      "año",
+      "2023",
+      ",",
+      "inició",
+      "disputa",
+      "paramilitares",
+      "far",
+      "ejército",
+      "nacional",
+      ",",
+      "dirigido",
+      "comandante",
+      "abdel",
+      "fatah",
+      "burhan",
+      ".",
+      "además",
+      ",",
+      "país",
+      "figura",
+      "lista",
+      "naciones",
+      "pobres",
+      "mundo",
+      ",",
+      "agrava",
+      "crítica",
+      "situación",
+      "sucede",
+      "allí",
+      ".",
+      "número",
+      "muertos",
+      "registra",
+      "miles",
+      ",",
+      "tiempo",
+      "12",
+      "millones",
+      "sudaneses",
+      "visto",
+      "obligados",
+      "salir",
+      "país",
+      ",",
+      "huyendo",
+      "conflicto",
+      ".",
+      "parte",
+      ",",
+      "comité",
+      "internacional",
+      "rescate",
+      "calificado",
+      "situación",
+      "sudán",
+      "“",
+      "mayor",
+      "crisis",
+      "humanitaria",
+      "jamás",
+      "registrada",
+      "”",
+      ".",
+      "propósito",
+      ",",
+      "fattah",
+      "al-burhan",
+      ",",
+      "gobierno",
+      "sudán",
+      "naciones",
+      "unidas",
+      "colaboran",
+      "cerca",
+      "mitigar",
+      "dolor",
+      "población",
+      "proporcionar",
+      "ayuda",
+      "humanitaria",
+      "."
+    ],
+    "token_count": 179,
+    "sentence_count": 9
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "JJ": 20,
+      "NNS": 11,
+      "IN": 13,
+      "FW": 77,
+      "NNP": 42,
+      "NN": 85,
+      "VBZ": 7,
+      "VBP": 6,
+      "VBD": 1,
+      "$": 1,
+      "CD": 4,
+      "DT": 1,
+      "RB": 1,
+      "CC": 1
+    },
+    "bigram_freq": {
+      "JJ-NNS": 3,
+      "NNS-IN": 1,
+      "IN-FW": 8,
+      "FW-FW": 46,
+      "FW-NNP": 16,
+      "NNP-FW": 7,
+      "NNP-NN": 12,
+      "NN-NN": 44,
+      "NN-VBZ": 3,
+      "VBZ-JJ": 2,
+      "JJ-NN": 14,
+      "NN-IN": 10,
+      "IN-NNS": 1,
+      "NNS-FW": 5,
+      "FW-NNS": 4,
+      "NNS-VBP": 4,
+      "VBP-JJ": 5,
+      "JJ-IN": 1,
+      "IN-JJ": 1,
+      "NNP-NNP": 12,
+      "NNP-VBD": 1,
+      "VBD-$": 1,
+      "$-CD": 1,
+      "CD-NNP": 1,
+      "NNP-JJ": 5,
+      "NN-JJ": 5,
+      "VBZ-DT": 1,
+      "DT-NN": 1,
+      "VBZ-CD": 1,
+      "CD-NN": 2,
+      "NN-NNP": 10,
+      "NNP-VBZ": 3,
+      "VBZ-FW": 3,
+      "FW-NN": 11,
+      "NN-FW": 8,
+      "JJ-JJ": 1,
+      "NN-NNS": 2,
+      "NN-CD": 1,
+      "JJ-VBZ": 1,
+      "NN-VBP": 1,
+      "VBP-NN": 1,
+      "NNS-RB": 1,
+      "RB-VBP": 1,
+      "IN-CD": 1,
+      "CD-NNS": 1,
+      "IN-NNP": 2,
+      "NNP-IN": 1,
+      "NNP-CC": 1,
+      "CC-NNP": 1
+    },
+    "trigram_freq": {
+      "JJ-NNS-IN": 1,
+      "NNS-IN-FW": 1,
+      "IN-FW-FW": 6,
+      "FW-FW-NNP": 8,
+      "FW-NNP-FW": 4,
+      "NNP-FW-NNP": 6,
+      "FW-NNP-NN": 5,
+      "NNP-NN-NN": 7,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 1,
+      "JJ-NN-IN": 4,
+      "NN-IN-NNS": 1,
+      "IN-NNS-FW": 1,
+      "NNS-FW-FW": 4,
+      "FW-FW-FW": 28,
+      "FW-FW-NNS": 3,
+      "FW-NNS-VBP": 1,
+      "NNS-VBP-JJ": 4,
+      "VBP-JJ-NNS": 1,
+      "JJ-NNS-VBP": 1,
+      "VBP-JJ-IN": 1,
+      "JJ-IN-JJ": 1,
+      "IN-JJ-NN": 1,
+      "NN-IN-FW": 7,
+      "FW-NNP-NNP": 4,
+      "NNP-NNP-NNP": 4,
+      "NNP-NNP-FW": 2,
+      "NNP-FW-FW": 1,
+      "NNP-NNP-VBD": 1,
+      "NNP-VBD-$": 1,
+      "VBD-$-CD": 1,
+      "$-CD-NNP": 1,
+      "CD-NNP-JJ": 1,
+      "NNP-JJ-NN": 5,
+      "JJ-NN-NN": 8,
+      "NN-NN-NN": 23,
+      "NN-NN-JJ": 5,
+      "NN-JJ-NN": 3,
+      "IN-FW-NNP": 2,
+      "NNP-NNP-NN": 4,
+      "NNP-NN-VBZ": 1,
+      "NN-VBZ-DT": 1,
+      "VBZ-DT-NN": 1,
+      "DT-NN-VBZ": 1,
+      "NN-VBZ-CD": 1,
+      "VBZ-CD-NN": 1,
+      "CD-NN-NN": 2,
+      "NN-NN-NNP": 5,
+      "NN-NNP-VBZ": 2,
+      "NNP-VBZ-FW": 2,
+      "VBZ-FW-NN": 1,
+      "FW-NN-FW": 2,
+      "NN-FW-FW": 5,
+      "NNP-NNP-VBZ": 1,
+      "VBZ-FW-FW": 2,
+      "FW-FW-NN": 7,
+      "FW-NN-NNP": 2,
+      "NNP-VBZ-JJ": 1,
+      "VBZ-JJ-JJ": 1,
+      "JJ-JJ-NN": 1,
+      "NN-NN-IN": 5,
+      "NNP-NN-NNS": 1,
+      "NN-NNS-VBP": 2,
+      "VBP-JJ-NN": 3,
+      "JJ-NN-FW": 1,
+      "FW-NN-NN": 4,
+      "FW-NNP-JJ": 3,
+      "NN-NNP-FW": 1,
+      "NN-JJ-NNS": 1,
+      "JJ-NNS-FW": 1,
+      "NN-NN-FW": 3,
+      "NN-FW-NN": 3,
+      "NN-NN-NNS": 1,
+      "NN-NN-CD": 1,
+      "NN-CD-NN": 1,
+      "NN-JJ-VBZ": 1,
+      "JJ-VBZ-FW": 1,
+      "NN-NNP-NNP": 3,
+      "NNP-NN-NNP": 1,
+      "FW-NNS-FW": 2,
+      "NNS-FW-NNS": 1,
+      "FW-NN-VBP": 1,
+      "NN-VBP-NN": 1,
+      "VBP-NN-NNP": 1,
+      "NN-NNP-NN": 2,
+      "NNP-NN-FW": 2,
+      "FW-NNS-RB": 1,
+      "NNS-RB-VBP": 1,
+      "RB-VBP-JJ": 1,
+      "NN-IN-CD": 1,
+      "IN-CD-NNS": 1,
+      "CD-NNS-FW": 1,
+      "NN-IN-NNP": 1,
+      "IN-NNP-NN": 1,
+      "NN-NNP-JJ": 1,
+      "JJ-NN-NNP": 1,
+      "NN-NNP-IN": 1,
+      "NNP-IN-NNP": 1,
+      "IN-NNP-CC": 1,
+      "NNP-CC-NNP": 1,
+      "CC-NNP-NNP": 1,
+      "FW-NN-IN": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 85,
+        "FW": 77,
+        "NNP": 42,
+        "JJ": 20,
+        "IN": 13
+      },
+      "top_bigrams": {
+        "FW-FW": 46,
+        "NN-NN": 44,
+        "FW-NNP": 16,
+        "JJ-NN": 14,
+        "NNP-NN": 12
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 28,
+        "NN-NN-NN": 23,
+        "FW-FW-NNP": 8,
+        "JJ-NN-NN": 8,
+        "NNP-NN-NN": 7
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 9,
+    "chunk_counts": {
+      "NP": 71,
+      "VP": 15,
+      "PP": 3,
+      "ADJP": 2
+    },
+    "top_rules": [
+      {
+        "rule": "NP -> ('FAR', 'NNP')",
+        "frequency": 3,
+        "weight": 0.03
+      },
+      {
+        "rule": "NP -> ('Sudán', 'NNP')",
+        "frequency": 2,
+        "weight": 0.02
+      },
+      {
+        "rule": "ADJP -> ('los', 'JJ')",
+        "frequency": 2,
+        "weight": 0.02
+      },
+      {
+        "rule": "S -> NP ('de', 'IN') ('la', 'FW') ('organización', 'FW') NP ('de', 'FW') NP VP (',', ',') ('luego', 'FW') ('de', 'FW') ('tres', 'FW') ('días', 'FW') ('de', 'FW') ('ataques', 'FW') NP VP VP PP (',', ',') ('localizada', 'FW') ('en', 'FW') ('el', 'FW') ('estado', 'FW') ('de', 'FW') NP (',', ',') ('la', 'FW') ('cifra', 'FW') ('de', 'FW') ('muertos', 'FW') ('en', 'FW') NP ('ya', 'PRP') VP ('a', 'DT') ADJP ('200', 'CD') ('.', '.')",
+        "frequency": 1,
+        "weight": 0.01
+      },
+      {
+        "rule": "NP -> ('Activistas', 'JJ') ('sudaneses', 'NNS')",
+        "frequency": 1,
+        "weight": 0.01
+      },
+      {
+        "rule": "NP -> ('Abogados', 'NNP')",
+        "frequency": 1,
+        "weight": 0.01
+      },
+      {
+        "rule": "NP -> ('Emergencia', 'NNP') ('confirmaron', 'NN') ('este', 'NN')",
+        "frequency": 1,
+        "weight": 0.01
+      },
+      {
+        "rule": "VP -> ('martes', 'VBZ') ('que', 'RB')",
+        "frequency": 1,
+        "weight": 0.01
+      },
+      {
+        "rule": "NP -> ('paramilitares', 'NNS')",
+        "frequency": 1,
+        "weight": 0.01
+      },
+      {
+        "rule": "VP -> ('en', 'VBP') ('aldeas', 'JJ')",
+        "frequency": 1,
+        "weight": 0.01
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Activistas sudaneses"
+      },
+      {
+        "label": "NP",
+        "text": "Abogados"
+      },
+      {
+        "label": "NP",
+        "text": "Emergencia confirmaron este"
+      },
+      {
+        "label": "VP",
+        "text": "martes que"
+      },
+      {
+        "label": "NP",
+        "text": "paramilitares"
+      },
+      {
+        "label": "VP",
+        "text": "en aldeas"
+      },
+      {
+        "label": "VP",
+        "text": "cercanas a la ciudad"
+      },
+      {
+        "label": "NP",
+        "text": "a la ciudad"
+      },
+      {
+        "label": "PP",
+        "text": "de al-Gitaina"
+      },
+      {
+        "label": "NP",
+        "text": "al-Gitaina"
+      },
+      {
+        "label": "NP",
+        "text": "Nilo Blanco"
+      },
+      {
+        "label": "NP",
+        "text": "Sudán"
+      },
+      {
+        "label": "VP",
+        "text": "asciende"
+      },
+      {
+        "label": "ADJP",
+        "text": "los"
+      },
+      {
+        "label": "NP",
+        "text": "La"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Activistas/JJ sudaneses/NNS)\n  de/IN\n  la/FW\n  organización/FW\n  (NP Abogados/NNP)\n  de/FW\n  (NP Emergencia/NNP confirmaron/NN este/NN)\n  (VP martes/VBZ que/RB)\n  ,/,\n  luego/FW\n  de/FW\n  tres/FW\n  días/FW\n  de/FW\n  ataques/FW\n  (NP paramilitares/NNS)\n  (VP en/VBP aldeas/JJ)\n  (VP cercanas/VBP (NP a/DT la/NN ciudad/NN))\n  (PP de/IN (NP al-Gitaina/NN))\n  ,/,\n  localizada/FW\n  en/FW\n  el/FW\n  estado/FW\n  de/FW\n  (NP Nilo/NNP Blanco/NNP)\n  ,/,\n  la/FW\n  cifra/FW\n  de/FW\n  muertos/FW\n  en/FW\n  (NP Sudán/NNP)\n  ya/PRP\n  (VP asciende/VBD)\n  a/DT\n  (ADJP los/JJ)\n  200/CD\n  ./.)",
+      "(S\n  (NP La/NNP)\n  (VP\n    información/VBZ\n    (NP subraya/JJ que/NN el/NN)\n    (NP grupo/JJ paramilitar/NN))\n  de/IN\n  las/FW\n  (NP Fuerzas/NNP)\n  de/FW\n  (NP Apoyo/NNP Rápido/NNP)\n  (/(\n  (NP FAR/NNP)\n  )/)\n  (VP “/VBP)\n  atacaron/PDT\n  a/DT\n  (VP civiles/VBZ (NP no/DT armados/NN))\n  (VP en/VBZ)\n  zonas/CD\n  (NP sin/NN presencia/NN militar/NN ”/NNP)\n  ./.)",
+      "(S\n  (NP Los/NNP ataques/NNS)\n  (VP se/VBP (NP concentraron/NN))\n  en/FW\n  las/FW\n  localidades/FW\n  de/FW\n  (NP Al/NNP Kadaris/NNP y/NNP Al/NNP Khelwat/NNP)\n  ,/,\n  (VP localizadas/VBZ)\n  en/FW\n  el/FW\n  (NP citado/NN)\n  estado/FW\n  del/FW\n  sur/FW\n  de/FW\n  ese/FW\n  (NP país/JJ africano/NN)\n  ./.)",
+      "(S\n  (NP Asimismo/NNP)\n  ,/,\n  (VP los/VBZ (NP abogados/JJ advierten/JJ que/NN el/NN grupo/NN))\n  de/IN\n  las/FW\n  (NP FAR/NNP realizó/NN ejecuciones/NNS sumarias/NNS)\n  ,/,\n  (NP secuestros/NNS)\n  (VP y/VBP saqueos/JJ)\n  en/FW\n  el/FW\n  (NP territorio/NN sudanés/NN)\n  ,/,\n  (NP dejando/NN)\n  (VP también/VBD (NP a/DT cientos/NN))\n  de/IN\n  heridos/FW\n  (NP y/JJ desaparecidos/NN)\n  ./.)",
+      "(S\n  (NP En/NNP)\n  (NP ese/JJ sentido/NN)\n  ,/,\n  el/FW\n  (NP Ministerio/NNP)\n  de/FW\n  (NP Exteriores/NNP)\n  de/FW\n  (NP Sudán/NNP denunció/NN que/NN)\n  (NP las/JJ acciones/NNS)\n  del/FW\n  las/FW\n  (NP FAR/NNP)\n  (NP califican/JJ como/NN “/NNP la/NNP)\n  peor/FW\n  (NP cometida/NN ”/NN)\n  (NP contra/JJ civiles/NNS)\n  (VP desde/VBP (NP el/JJ inicio/NN del/NN conflicto/NN))\n  en/IN\n  el/FW\n  que/FW\n  se/FW\n  encuentra/FW\n  inmerso/FW\n  (NP Sudán/NNP desde/NN abril/NN del/NN año/NN)\n  2023/CD\n  ,/,\n  (NP cuando/NN inició/NN)\n  (NP una/JJ disputa/NN entre/NN)\n  (ADJP los/JJ)\n  (VP paramilitares/VBZ)\n  de/FW\n  las/FW\n  (NP FAR/NNP)\n  y/CC\n  (NP el/JJ Ejército/NNP nacional/NN)\n  ,/,\n  (NP\n    dirigido/NN\n    por/NN\n    el/NN\n    comandante/NN\n    Abdel/NNP\n    Fatah/NNP\n    al/NN\n    Burhan/NNP)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "GOBIERNOS_OFICIALES",
+      "ORGANISMOS_INTERNACIONALES",
+      "CANTIDADES_NUMERICAS",
+      "ACCIONES_LEGALES",
+      "REGIONES_PROVINCIAS",
+      "CRISIS_HUMANITARIA_SERVICIOS",
+      "CONFLICTOS_ARMADOS_OPERACIONES",
+      "FECHAS_ESPECIFICAS"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "conflicto en el",
+        "position": [
+          908,
+          923
+        ],
+        "start": 908,
+        "end": 923
+      },
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "denunció que las acciones del las far califican como “la peor cometida” contra civiles desde el inicio del conflicto en el que se encuentra inmerso sudán desde abril del año 2023, cuando inició una disputa entre los paramilitares de las far y el ejército nacional, dirigido por el comandante abdel fatah al",
+        "position": [
+          801,
+          1107
+        ],
+        "start": 801,
+        "end": 1107
+      },
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "conflicto en el que se encuentra inmerso sudán desde abril del año 2023, cuando inició una disputa entre los paramilitares de las far y",
+        "position": [
+          908,
+          1043
+        ],
+        "start": 908,
+        "end": 1043
+      },
+      {
+        "category": "CRISIS_HUMANITARIA_SERVICIOS",
+        "matched_text": "ayuda humanitaria",
+        "position": [
+          1683,
+          1700
+        ],
+        "start": 1683,
+        "end": 1700
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "gobierno de sudán y",
+        "position": [
+          1571,
+          1590
+        ],
+        "start": 1571,
+        "end": 1590
+      },
+      {
+        "category": "ORGANISMOS_INTERNACIONALES",
+        "matched_text": "naciones unidas",
+        "position": [
+          1595,
+          1610
+        ],
+        "start": 1595,
+        "end": 1610
+      },
+      {
+        "category": "ACCIONES_LEGALES",
+        "matched_text": "denunció",
+        "position": [
+          801,
+          809
+        ],
+        "start": 801,
+        "end": 809
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "estado de",
+        "position": [
+          199,
+          208
+        ],
+        "start": 199,
+        "end": 208
+      },
+      {
+        "category": "FECHAS_ESPECIFICAS",
+        "matched_text": "año 2023",
+        "position": [
+          971,
+          979
+        ],
+        "start": 971,
+        "end": 979
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "12 millones",
+        "position": [
+          1310,
+          1321
+        ],
+        "start": 1310,
+        "end": 1321
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "más de 12",
+        "position": [
+          1303,
+          1312
+        ],
+        "start": 1303,
+        "end": 1312
+      }
+    ],
+    "match_count": 11
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Burhan",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Naciones Unidas",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Al Khelwat",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Sudán",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Comité Internacional de Rescate",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Fattah al-Burhan",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Al Kadaris",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "al-Gitaina",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Gobierno de Sudán",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Abdel Fatah",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Fuerzas de Apoyo Rápido",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "FAR",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Abogados de Emergencia",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Ministerio de Exteriores de Sudán",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Abogados de Emergencia",
+        "relacion": "CONFIRMAR",
+        "objeto": "al-Gitaina"
+      },
+      {
+        "sujeto": "Abogados de Emergencia",
+        "relacion": "CONFIRMAR",
+        "objeto": "Sudán"
+      },
+      {
+        "sujeto": "al-Gitaina",
+        "relacion": "ASCENDER_CONFIRMAR",
+        "objeto": "Sudán"
+      },
+      {
+        "sujeto": "Ministerio de Exteriores de Sudán",
+        "relacion": "DENUNCIAR",
+        "objeto": "FAR"
+      },
+      {
+        "sujeto": "Ministerio de Exteriores de Sudán",
+        "relacion": "DENUNCIAR",
+        "objeto": "Sudán"
+      },
+      {
+        "sujeto": "Ministerio de Exteriores de Sudán",
+        "relacion": "DENUNCIAR",
+        "objeto": "Abdel Fatah"
+      },
+      {
+        "sujeto": "Ministerio de Exteriores de Sudán",
+        "relacion": "DENUNCIAR",
+        "objeto": "Burhan"
+      },
+      {
+        "sujeto": "FAR",
+        "relacion": "CALIFICAR_DENUNCIAR",
+        "objeto": "Sudán"
+      },
+      {
+        "sujeto": "FAR",
+        "relacion": "CALIFICAR_DENUNCIAR",
+        "objeto": "Abdel Fatah"
+      },
+      {
+        "sujeto": "FAR",
+        "relacion": "CALIFICAR_DENUNCIAR",
+        "objeto": "Burhan"
+      },
+      {
+        "sujeto": "Sudán",
+        "relacion": "CALIFICAR_DENUNCIAR",
+        "objeto": "FAR"
+      },
+      {
+        "sujeto": "Sudán",
+        "relacion": "CALIFICAR_DENUNCIAR",
+        "objeto": "Abdel Fatah"
+      },
+      {
+        "sujeto": "Sudán",
+        "relacion": "CALIFICAR_DENUNCIAR",
+        "objeto": "Burhan"
+      },
+      {
+        "sujeto": "Comité Internacional de Rescate",
+        "relacion": "CALIFICAR",
+        "objeto": "Sudán"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.8176,
+    "pos": 0.009,
+    "neu": 0.956,
+    "neg": 0.036,
+    "label": "negative"
+  }
+}

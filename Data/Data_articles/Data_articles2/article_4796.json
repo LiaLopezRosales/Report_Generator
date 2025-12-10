@@ -1,0 +1,712 @@
+{
+  "url": "https://www.telesurtv.net/gabinete-israeli-visitara-el-cairo-para-negociar-segunda-fase-de-alto-al-fuego-en-gaza/",
+  "title": "Gabinete israelí visitará El Cairo para negociar segunda fase de alto al fuego en Gaza - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Alto al Fuego",
+    "Benjamín Netanyahu",
+    "El Cairo",
+    "Hamás",
+    "Marco Rubio",
+    "Steve Witkoff"
+  ],
+  "text": "\nUna delegación del gabinete de Israel partirá hacia la capital egipcia este lunes para discutir la continuación de la primera fase del acuerdo de alto al fuego, entre las tropas de ese país y el Movimiento de Resistencia palestina (Hamás), así como el inicio de la segunda etapa.\nLEA TAMBIÉN\nAumenta la cifra de muertos y heridos en Gaza a pesar del acuerdo de alto al fuego\nDe acuerdo con el comunicado de la oficina del primer ministro israelí, Benjamín Netanyahu, el equipo  recibirá directivas para las negociaciones después de una reunión del gabinete israelí prevista para mañana.\nNetanyahu le comunicó la noticia al enviado estadounidense para Oriente Medio, Steve Witkoff, luego de sostener un encuentro con el secretario de Estado de Estados Unidos, Marco Rubio, quien aseguró que Hamás no puede continuar como fuerza militar o gubernamental y puso en duda la viabilidad del proceso de alto al fuego.\nCuando aún le quedan dos semanas a la fase uno, aumenta la fragilidad del acuerdo, pues Israel ha incumplido con la ejecución de bombardeos en varios puntos del territorio palestino ocupado, sobre todo en Cisjordania, mientras que los políticos israelíes de extrema derecha insisten en el reinicio de la masacre.\nLEA TAMBIÉN\nContinúa el genocidio: Bombardeo israelí ultima a tres civiles palestinos en Rafah\nEn función del acuerdo, Hamás deberá liberar, durante la segunda fase, a todos los cautivos que aún siguen con vida, en su mayoría soldados varones, a cambio de la liberación de cientos de palestinos más que se encuentran en prisiones israelíes. Además, Israel iniciaría su “retirada completa” de Gaza.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/gabinete-israeli-visitara-el-cairo-para-negociar-segunda-fase-de-alto-al-fuego-en-gaza/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-02.json",
+    "message_index": 882,
+    "message_id": 87019,
+    "date": "2025-02-16T18:55:13+00:00",
+    "text": "teleSUR\nGabinete israelí visitará El Cairo para negociar segunda fase de alto al fuego en Gaza\nhttps://www.telesurtv.net/gabinete-israeli-visitara-el-cairo-para-negociar-segunda-fase-de-alto-al-fuego-en-gaza/",
+    "photo_path": null,
+    "views": 2384,
+    "reactions": {
+      "🤔": 38,
+      "💩": 5,
+      "👍": 3
+    },
+    "total_reactions": 46
+  },
+  "preprocessing": {
+    "cleaned": "una delegación del gabinete de israel partirá hacia la capital egipcia este lunes para discutir la continuación de la primera fase del acuerdo de alto al fuego, entre las tropas de ese país y el movimiento de resistencia palestina (hamás), así como el inicio de la segunda etapa. de acuerdo con el comunicado de la oficina del primer ministro israelí, benjamín netanyahu, el equipo recibirá directivas para las negociaciones después de una reunión del gabinete israelí prevista para mañana. netanyahu le comunicó la noticia al enviado estadounidense para oriente medio, steve witkoff, luego de sostener un encuentro con el secretario de estado de estados unidos, marco rubio, quien aseguró que hamás no puede continuar como fuerza militar o gubernamental y puso en duda la viabilidad del proceso de alto al fuego. cuando aún le quedan dos semanas a la fase uno, aumenta la fragilidad del acuerdo, pues israel ha incumplido con la ejecución de bombardeos en varios puntos del territorio palestino ocupado, sobre todo en cisjordania, mientras que los políticos israelíes de extrema derecha insisten en el reinicio de la masacre. en función del acuerdo, hamás deberá liberar, durante la segunda fase, a todos los cautivos que aún siguen con vida, en su mayoría soldados varones, a cambio de la liberación de cientos de palestinos más que se encuentran en prisiones israelíes. además, israel iniciaría su “retirada completa” de gaza.",
+    "tokens": [
+      "delegación",
+      "gabinete",
+      "israel",
+      "partirá",
+      "hacia",
+      "capital",
+      "egipcia",
+      "lunes",
+      "discutir",
+      "continuación",
+      "primera",
+      "fase",
+      "acuerdo",
+      "alto",
+      "fuego",
+      ",",
+      "tropas",
+      "país",
+      "movimiento",
+      "resistencia",
+      "palestina",
+      "(",
+      "hamás",
+      ")",
+      ",",
+      "así",
+      "inicio",
+      "segunda",
+      "etapa",
+      ".",
+      "acuerdo",
+      "comunicado",
+      "oficina",
+      "primer",
+      "ministro",
+      "israelí",
+      ",",
+      "benjamín",
+      "netanyahu",
+      ",",
+      "equipo",
+      "recibirá",
+      "directivas",
+      "negociaciones",
+      "después",
+      "reunión",
+      "gabinete",
+      "israelí",
+      "prevista",
+      "mañana",
+      ".",
+      "netanyahu",
+      "comunicó",
+      "noticia",
+      "enviado",
+      "estadounidense",
+      "oriente",
+      "medio",
+      ",",
+      "steve",
+      "witkoff",
+      ",",
+      "luego",
+      "sostener",
+      "encuentro",
+      "secretario",
+      "unidos",
+      ",",
+      "marco",
+      "rubio",
+      ",",
+      "aseguró",
+      "hamás",
+      "puede",
+      "continuar",
+      "fuerza",
+      "militar",
+      "gubernamental",
+      "puso",
+      "duda",
+      "viabilidad",
+      "proceso",
+      "alto",
+      "fuego",
+      ".",
+      "aún",
+      "quedan",
+      "dos",
+      "semanas",
+      "fase",
+      ",",
+      "aumenta",
+      "fragilidad",
+      "acuerdo",
+      ",",
+      "pues",
+      "israel",
+      "incumplido",
+      "ejecución",
+      "bombardeos",
+      "varios",
+      "puntos",
+      "territorio",
+      "palestino",
+      "ocupado",
+      ",",
+      "cisjordania",
+      ",",
+      "mientras",
+      "políticos",
+      "israelíes",
+      "extrema",
+      "derecha",
+      "insisten",
+      "reinicio",
+      "masacre",
+      ".",
+      "función",
+      "acuerdo",
+      ",",
+      "hamás",
+      "deberá",
+      "liberar",
+      ",",
+      "segunda",
+      "fase",
+      ",",
+      "cautivos",
+      "aún",
+      "siguen",
+      "vida",
+      ",",
+      "mayoría",
+      "soldados",
+      "varones",
+      ",",
+      "cambio",
+      "liberación",
+      "cientos",
+      "palestinos",
+      "encuentran",
+      "prisiones",
+      "israelíes",
+      ".",
+      "además",
+      ",",
+      "israel",
+      "iniciaría",
+      "“",
+      "retirada",
+      "completa",
+      "”",
+      "gaza",
+      "."
+    ],
+    "token_count": 154,
+    "sentence_count": 6
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 37,
+      "NN": 87,
+      "IN": 13,
+      "FW": 77,
+      "NNS": 9,
+      "VBP": 7,
+      "JJ": 19,
+      "VBZ": 4,
+      "DT": 1
+    },
+    "bigram_freq": {
+      "NNP-NN": 12,
+      "NN-NN": 48,
+      "NN-IN": 11,
+      "IN-NNP": 5,
+      "NN-FW": 9,
+      "FW-NN": 11,
+      "NN-NNS": 4,
+      "NNS-VBP": 6,
+      "VBP-JJ": 2,
+      "JJ-FW": 4,
+      "FW-FW": 52,
+      "IN-FW": 6,
+      "FW-JJ": 5,
+      "JJ-NN": 12,
+      "NN-JJ": 8,
+      "IN-JJ": 1,
+      "JJ-NNS": 2,
+      "VBP-NNP": 2,
+      "NNP-FW": 5,
+      "FW-NNP": 7,
+      "NN-NNP": 6,
+      "NNP-VBZ": 4,
+      "VBZ-NN": 1,
+      "NNP-NNP": 14,
+      "VBZ-JJ": 3,
+      "NNS-FW": 1,
+      "NNP-DT": 1,
+      "DT-NN": 1,
+      "NNS-NNP": 1,
+      "NN-VBP": 1,
+      "VBP-NN": 1,
+      "FW-NNS": 2,
+      "JJ-NNP": 1,
+      "NNS-NNS": 1,
+      "VBP-IN": 2,
+      "IN-NN": 1
+    },
+    "trigram_freq": {
+      "NNP-NN-NN": 9,
+      "NN-NN-NN": 27,
+      "NN-NN-IN": 5,
+      "NN-IN-NNP": 4,
+      "IN-NNP-NN": 1,
+      "NN-NN-FW": 3,
+      "NN-FW-NN": 5,
+      "FW-NN-NN": 3,
+      "NN-NN-NNS": 4,
+      "NN-NNS-VBP": 2,
+      "NNS-VBP-JJ": 2,
+      "VBP-JJ-FW": 2,
+      "JJ-FW-FW": 3,
+      "FW-FW-FW": 41,
+      "FW-FW-NN": 3,
+      "FW-NN-FW": 4,
+      "FW-NN-IN": 3,
+      "NN-IN-FW": 5,
+      "IN-FW-JJ": 2,
+      "FW-JJ-NN": 4,
+      "JJ-NN-NN": 6,
+      "NN-NN-JJ": 5,
+      "NN-JJ-NN": 7,
+      "JJ-NN-IN": 3,
+      "NN-IN-JJ": 1,
+      "IN-JJ-NNS": 1,
+      "JJ-NNS-VBP": 1,
+      "NNS-VBP-NNP": 2,
+      "VBP-NNP-FW": 1,
+      "NNP-FW-NNP": 2,
+      "FW-NNP-NN": 3,
+      "NNP-NN-NNP": 1,
+      "NN-NNP-VBZ": 2,
+      "NNP-VBZ-NN": 1,
+      "VBZ-NN-JJ": 1,
+      "IN-FW-FW": 3,
+      "FW-FW-NNP": 5,
+      "FW-NNP-NNP": 4,
+      "NNP-NNP-NNP": 7,
+      "NNP-NNP-FW": 1,
+      "NNP-FW-FW": 1,
+      "JJ-NN-NNP": 1,
+      "NN-NNP-FW": 1,
+      "NNP-FW-NN": 2,
+      "NNP-NNP-VBZ": 2,
+      "NNP-VBZ-JJ": 3,
+      "VBZ-JJ-NN": 1,
+      "NN-NNS-FW": 1,
+      "NNS-FW-FW": 1,
+      "FW-FW-JJ": 2,
+      "NN-NN-NNP": 3,
+      "VBZ-JJ-FW": 1,
+      "FW-NN-NNP": 1,
+      "NN-NNP-NNP": 1,
+      "NNP-NNP-NN": 4,
+      "NNP-NN-FW": 1,
+      "NN-FW-FW": 3,
+      "FW-JJ-FW": 1,
+      "JJ-FW-NN": 1,
+      "IN-NNP-FW": 2,
+      "NN-NNP-DT": 1,
+      "NNP-DT-NN": 1,
+      "DT-NN-NN": 1,
+      "JJ-NN-JJ": 1,
+      "JJ-NN-FW": 1,
+      "NN-NNS-NNP": 1,
+      "NNS-NNP-NN": 1,
+      "NN-NN-VBP": 1,
+      "NN-VBP-NN": 1,
+      "VBP-NN-NN": 1,
+      "IN-FW-NNS": 1,
+      "FW-NNS-VBP": 2,
+      "VBZ-JJ-NNP": 1,
+      "JJ-NNP-NN": 1,
+      "NNP-NN-JJ": 1,
+      "NN-JJ-NNS": 1,
+      "JJ-NNS-NNS": 1,
+      "NNS-NNS-VBP": 1,
+      "NNS-VBP-IN": 2,
+      "VBP-IN-NNP": 1,
+      "IN-NNP-NNP": 1,
+      "NN-NNP-NN": 1,
+      "NN-FW-JJ": 1,
+      "NN-IN-NN": 1,
+      "IN-NN-NN": 1,
+      "VBP-IN-FW": 1,
+      "FW-FW-NNS": 1,
+      "VBP-NNP-NNP": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 87,
+        "FW": 77,
+        "NNP": 37,
+        "JJ": 19,
+        "IN": 13
+      },
+      "top_bigrams": {
+        "FW-FW": 52,
+        "NN-NN": 48,
+        "NNP-NNP": 14,
+        "NNP-NN": 12,
+        "JJ-NN": 12
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 41,
+        "NN-NN-NN": 27,
+        "NNP-NN-NN": 9,
+        "NN-JJ-NN": 7,
+        "NNP-NNP-NNP": 7
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 6,
+    "chunk_counts": {
+      "NP": 64,
+      "PP": 6,
+      "VP": 9,
+      "ADJP": 1
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 3,
+        "weight": 0.0349
+      },
+      {
+        "rule": "NP -> ('Gaza', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0233
+      },
+      {
+        "rule": "NP -> ('con', 'NN')",
+        "frequency": 2,
+        "weight": 0.0233
+      },
+      {
+        "rule": "VP -> ('el', 'VBZ') NP",
+        "frequency": 2,
+        "weight": 0.0233
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0233
+      },
+      {
+        "rule": "S -> NP PP ('la', 'FW') NP VP ('la', 'FW') ('continuación', 'FW') ('de', 'FW') ('la', 'FW') ('primera', 'FW') NP ('del', 'FW') NP ('de', 'IN') ('alto', 'FW') NP (',', ',') ('entre', 'FW') ('las', 'FW') ('tropas', 'FW') ('de', 'FW') ('ese', 'FW') ('país', 'FW') ('y', 'FW') ('el', 'FW') NP ('de', 'FW') NP ('(', '(') NP (')', ')') (',', ',') NP ('de', 'IN') ('la', 'FW') ('segunda', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0116
+      },
+      {
+        "rule": "NP -> ('Una', 'NNP') ('delegación', 'NN') ('del', 'NN') ('gabinete', 'NN')",
+        "frequency": 1,
+        "weight": 0.0116
+      },
+      {
+        "rule": "NP -> ('Israel', 'NNP') ('partirá', 'NN') ('hacia', 'NN')",
+        "frequency": 1,
+        "weight": 0.0116
+      },
+      {
+        "rule": "NP -> ('capital', 'NN') ('egipcia', 'NN') ('este', 'NN') ('lunes', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0116
+      },
+      {
+        "rule": "VP -> ('para', 'VBP') ('discutir', 'JJ')",
+        "frequency": 1,
+        "weight": 0.0116
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Una delegación del gabinete"
+      },
+      {
+        "label": "PP",
+        "text": "de Israel partirá hacia"
+      },
+      {
+        "label": "NP",
+        "text": "Israel partirá hacia"
+      },
+      {
+        "label": "NP",
+        "text": "capital egipcia este lunes"
+      },
+      {
+        "label": "VP",
+        "text": "para discutir"
+      },
+      {
+        "label": "NP",
+        "text": "fase"
+      },
+      {
+        "label": "NP",
+        "text": "acuerdo"
+      },
+      {
+        "label": "NP",
+        "text": "al fuego"
+      },
+      {
+        "label": "NP",
+        "text": "Movimiento"
+      },
+      {
+        "label": "NP",
+        "text": "Resistencia palestina"
+      },
+      {
+        "label": "NP",
+        "text": "Hamás"
+      },
+      {
+        "label": "NP",
+        "text": "así como el inicio"
+      },
+      {
+        "label": "NP",
+        "text": "etapa"
+      },
+      {
+        "label": "NP",
+        "text": "LEA TAMBIÉN Aumenta la"
+      },
+      {
+        "label": "NP",
+        "text": "heridos"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Una/NNP delegación/NN del/NN gabinete/NN)\n  (PP de/IN (NP Israel/NNP partirá/NN hacia/NN))\n  la/FW\n  (NP capital/NN egipcia/NN este/NN lunes/NNS)\n  (VP para/VBP discutir/JJ)\n  la/FW\n  continuación/FW\n  de/FW\n  la/FW\n  primera/FW\n  (NP fase/NN)\n  del/FW\n  (NP acuerdo/NN)\n  de/IN\n  alto/FW\n  (NP al/JJ fuego/NN)\n  ,/,\n  entre/FW\n  las/FW\n  tropas/FW\n  de/FW\n  ese/FW\n  país/FW\n  y/FW\n  el/FW\n  (NP Movimiento/NNP)\n  de/FW\n  (NP Resistencia/NNP palestina/NN)\n  (/(\n  (NP Hamás/NNP)\n  )/)\n  ,/,\n  (NP así/JJ como/NN el/NN inicio/NN)\n  de/IN\n  la/FW\n  segunda/FW\n  (NP etapa/NN)\n  ./.)",
+      "(S\n  (NP LEA/NNP TAMBIÉN/NNP Aumenta/NNP la/NNP)\n  cifra/FW\n  de/FW\n  muertos/FW\n  y/FW\n  (NP heridos/NN)\n  en/FW\n  (NP Gaza/NNP)\n  (NP a/DT pesar/NN del/NN acuerdo/NN)\n  de/IN\n  alto/FW\n  (NP al/JJ fuego/NN De/NNP)\n  acuerdo/FW\n  (NP con/NN)\n  el/FW\n  (NP comunicado/NN)\n  de/IN\n  la/FW\n  oficina/FW\n  del/FW\n  primer/FW\n  ministro/FW\n  (NP israelí/NN)\n  ,/,\n  (NP Benjamín/NNP Netanyahu/NNP)\n  ,/,\n  (VP\n    el/VBZ\n    (NP\n      equipo/JJ\n      recibirá/NN\n      directivas/NN\n      para/NN\n      las/NN\n      negociaciones/NNS))\n  después/FW\n  de/FW\n  una/FW\n  reunión/FW\n  del/FW\n  (NP gabinete/JJ israelí/NN prevista/NN para/NN mañana/NN)\n  ./.)",
+      "(S\n  (NP Netanyahu/NNP)\n  (VP le/VBZ comunicó/JJ)\n  la/FW\n  noticia/FW\n  al/FW\n  enviado/FW\n  estadounidense/FW\n  (NP para/NN Oriente/NNP Medio/NNP)\n  ,/,\n  (NP Steve/NNP Witkoff/NNP)\n  ,/,\n  (NP luego/NN)\n  de/FW\n  sostener/FW\n  (ADJP un/JJ)\n  encuentro/FW\n  (NP con/NN)\n  el/FW\n  (NP secretario/NN)\n  (PP de/IN (NP Estado/NNP))\n  de/FW\n  (NP Estados/NNP Unidos/NNP)\n  ,/,\n  (NP Marco/NNP Rubio/NNP)\n  ,/,\n  (NP quien/NN aseguró/NN que/NN Hamás/NNP)\n  (NP no/DT puede/NN continuar/NN como/NN)\n  (NP fuerza/JJ militar/NN)\n  (PP o/IN (NP gubernamental/JJ y/NN puso/NN))\n  en/FW\n  (NP duda/NN)\n  la/FW\n  viabilidad/FW\n  del/FW\n  proceso/FW\n  de/FW\n  alto/FW\n  (NP al/NN fuego/NN)\n  ./.)",
+      "(S\n  (NP Cuando/NNP aún/NN le/NN quedan/NN dos/NN)\n  (VP semanas/VBD (NP a/DT la/NN fase/NN uno/NN))\n  ,/,\n  (NP aumenta/JJ la/NN)\n  (NP fragilidad/JJ del/NN acuerdo/NN)\n  ,/,\n  (NP pues/NNS Israel/NNP ha/NN incumplido/NN con/NN)\n  la/FW\n  ejecución/FW\n  de/FW\n  bombardeos/FW\n  en/FW\n  varios/FW\n  puntos/FW\n  del/FW\n  (NP territorio/NN palestino/NN ocupado/NN)\n  ,/,\n  (NP sobre/JJ todo/NN)\n  (PP en/IN (NP Cisjordania/NNP))\n  ,/,\n  mientras/FW\n  que/FW\n  los/FW\n  (NP políticos/JJ israelíes/NN)\n  de/IN\n  extrema/FW\n  (NP derecha/NNS)\n  (VP insisten/VBP en/JJ)\n  el/FW\n  reinicio/FW\n  de/FW\n  la/FW\n  masacre/FW\n  ./.)",
+      "(S\n  (NP LEA/NNP TAMBIÉN/NNP Continúa/NNP)\n  (VP el/VBZ (NP genocidio/NN))\n  :/:\n  (NP Bombardeo/NNP)\n  (VP israelí/VBZ)\n  ultima/RP\n  (NP a/DT tres/NNS)\n  (VP civiles/VBZ (NP palestinos/NNS))\n  (PP en/IN (NP Rafah/NNP En/NNP función/NN del/NN acuerdo/NN))\n  ,/,\n  (NP Hamás/NNP deberá/NN liberar/NN)\n  ,/,\n  (NP durante/NN)\n  la/FW\n  (NP segunda/JJ fase/NN)\n  ,/,\n  (NP\n    a/DT\n    todos/JJ\n    los/NN\n    cautivos/NN\n    que/NN\n    aún/NN\n    siguen/NN\n    con/NN\n    vida/NN)\n  ,/,\n  en/FW\n  su/FW\n  mayoría/FW\n  (NP soldados/NN varones/NNS)\n  ,/,\n  (NP a/DT cambio/NN)\n  de/IN\n  la/FW\n  liberación/FW\n  de/FW\n  cientos/FW\n  de/FW\n  palestinos/FW\n  más/FW\n  que/FW\n  se/FW\n  encuentran/FW\n  en/FW\n  (NP prisiones/NNS israelíes/NN)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "GRUPOS_ESPECIFICOS",
+      "TIEMPO_RELATIVO",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "REGIONES_PROVINCIAS",
+      "PAISES",
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "CONFLICTOS_ARMADOS_OPERACIONES",
+      "RELACIONES_INTERNACIONALES"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "bombardeos en varios puntos del territorio palestino ocupado, sobre todo en cisjordania, mientras que los políticos israelíes",
+        "position": [
+          1040,
+          1165
+        ],
+        "start": 1040,
+        "end": 1165
+      },
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "capital",
+        "position": [
+          56,
+          63
+        ],
+        "start": 56,
+        "end": 63
+      },
+      {
+        "category": "RELACIONES_INTERNACIONALES",
+        "matched_text": "acuerdo de alto al fuego, entre las tropas de ese país y el",
+        "position": [
+          136,
+          195
+        ],
+        "start": 136,
+        "end": 195
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "comunicó",
+        "position": [
+          601,
+          609
+        ],
+        "start": 601,
+        "end": 609
+      },
+      {
+        "category": "GRUPOS_ESPECIFICOS",
+        "matched_text": "extrema derecha",
+        "position": [
+          1169,
+          1184
+        ],
+        "start": 1169,
+        "end": 1184
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "estados unidos",
+        "position": [
+          744,
+          758
+        ],
+        "start": 744,
+        "end": 758
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "palestina",
+        "position": [
+          222,
+          231
+        ],
+        "start": 222,
+        "end": 231
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "estado de",
+        "position": [
+          734,
+          743
+        ],
+        "start": 734,
+        "end": 743
+      },
+      {
+        "category": "TIEMPO_RELATIVO",
+        "matched_text": "mañana",
+        "position": [
+          580,
+          586
+        ],
+        "start": 580,
+        "end": 586
+      }
+    ],
+    "match_count": 9
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Movimiento de Resistencia palestina",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Marco Rubio",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Netanyahu",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Hamás",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Cisjordania",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Rafah",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Israel",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Estado de Estados Unidos",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Steve Witkoff",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Benjamín Netanyahu",
+        "tipo": "Persona"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Israel",
+        "relacion": "PARTIR",
+        "objeto": "Movimiento de Resistencia palestina"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "PARTIR",
+        "objeto": "Hamás"
+      },
+      {
+        "sujeto": "Gaza",
+        "relacion": "AUMENTAR",
+        "objeto": "Benjamín Netanyahu"
+      },
+      {
+        "sujeto": "Netanyahu",
+        "relacion": "COMUNICAR",
+        "objeto": "Steve Witkoff"
+      },
+      {
+        "sujeto": "Netanyahu",
+        "relacion": "COMUNICAR",
+        "objeto": "Estado de Estados Unidos"
+      },
+      {
+        "sujeto": "Netanyahu",
+        "relacion": "COMUNICAR",
+        "objeto": "Marco Rubio"
+      },
+      {
+        "sujeto": "Netanyahu",
+        "relacion": "COMUNICAR",
+        "objeto": "Hamás"
+      },
+      {
+        "sujeto": "Steve Witkoff",
+        "relacion": "COMUNICAR",
+        "objeto": "Estado de Estados Unidos"
+      },
+      {
+        "sujeto": "Steve Witkoff",
+        "relacion": "COMUNICAR",
+        "objeto": "Marco Rubio"
+      },
+      {
+        "sujeto": "Hamás",
+        "relacion": "COMUNICAR",
+        "objeto": "Steve Witkoff"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "INCUMPLIR",
+        "objeto": "Cisjordania"
+      },
+      {
+        "sujeto": "Hamás",
+        "relacion": "CONTINUAR",
+        "objeto": "Rafah"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "INICIAR",
+        "objeto": "Gaza"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.0516,
+    "pos": 0.009,
+    "neu": 0.982,
+    "neg": 0.009,
+    "label": "positive"
+  }
+}

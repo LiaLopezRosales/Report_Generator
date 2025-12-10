@@ -1,0 +1,724 @@
+{
+  "url": "https://www.telesurtv.net/detienen-a-11-personas-en-serbia-por-colapso-en-estacion-de-tren-que-dejo-15-muertos/",
+  "title": "Detienen a 11 personas en Serbia por colapso en estación de tren que dejó 15 muertos - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Accidente",
+    "estación",
+    "Novi Sad",
+    "serbia"
+  ],
+  "text": "Las autoridades de Serbia detuvieron este jueves a 11 sospechosos relacionados con el trágico accidente ocurrido a principios de mes en una estación de tren en la norteña ciudad de Novi Sad, cuyo techo se desplomó, lo que resultó en la muerte de 15 personas.\nLEA TAMBIÉN\nDía de luto en Serbia: Colapsa marquesina de estación de trenes y deja 14 muertos\nLa Fiscalía de Novi Sad anunció que los arrestos se realizaron bajo su orden y forman parte de una investigación más amplia sobre las circunstancias que rodearon el colapso de la estructura recientemente renovada.\nLos detenidos, cuyos nombres han sido revelados solo por sus iniciales, enfrentan serias acusaciones que incluyen la comisión de actos criminales contra la seguridad pública y la realización de trabajos de construcción irregulares.\n\nDesde el accidente, las autoridades han proporcionado información contradictoria respecto a si el techo formaba parte del proyecto de renovación de la edificación, lo que ha alimentado el descontento social.\nEl suceso ha desatado una ola de protestas. Los ciudadanos han señalado a la corrupción como la principal causa del siniestro.\nEn medio de la creciente presión pública, el ministro Comercio de Serbia, Tomislav Momirovic, y la directora de Infraestructura Ferroviaria, Jelena Tanaskovic, presentaron este miércoles su renuncia.\nLas dimisiones de Momirovic y Tanaskovic se suman a la de Goran Vesic, ahora exministro de Construcción, Transporte e Infraestructura, quien renunció días después del suceso.\nEn tanto, el presidente de Serbia, Aleksandar Vucic, calificó las manifestaciones de “terror” y “violencia brutal” por parte de ciertos sectores políticos. Pese a las críticas, Vucic afirmó que su Administración no cederá ante lo que considera “matones y abusadores”.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/detienen-a-11-personas-en-serbia-por-colapso-en-estacion-de-tren-que-dejo-15-muertos/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-11.json",
+    "message_index": 592,
+    "message_id": 80870,
+    "date": "2024-11-21T16:55:07+00:00",
+    "text": "teleSUR\nDetienen a 11 personas en Serbia por colapso en estación de tren que dejó 15 muertos\nhttps://www.telesurtv.net/detienen-a-11-personas-en-serbia-por-colapso-en-estacion-de-tren-que-dejo-15-muertos/",
+    "photo_path": null,
+    "views": 2545,
+    "reactions": {
+      "👍": 26,
+      "🤔": 10
+    },
+    "total_reactions": 36
+  },
+  "preprocessing": {
+    "cleaned": "las autoridades de serbia detuvieron este jueves a 11 sospechosos relacionados con el trágico accidente ocurrido a principios de mes en una estación de tren en la norteña ciudad de novi sad, cuyo techo se desplomó, lo que resultó en la muerte de 15 personas. la fiscalía de novi sad anunció que los arrestos se realizaron bajo su orden y forman parte de una investigación más amplia sobre las circunstancias que rodearon el colapso de la estructura recientemente renovada. los detenidos, cuyos nombres han sido revelados solo por sus iniciales, enfrentan serias acusaciones que incluyen la comisión de actos criminales contra la seguridad pública y la realización de trabajos de construcción irregulares. desde el accidente, las autoridades han proporcionado información contradictoria respecto a si el techo formaba parte del proyecto de renovación de la edificación, lo que ha alimentado el descontento social. el suceso ha desatado una ola de protestas. los ciudadanos han señalado a la corrupción como la principal causa del siniestro. en medio de la creciente presión pública, el ministro comercio de serbia, tomislav momirovic, y la directora de infraestructura ferroviaria, jelena tanaskovic, presentaron este miércoles su renuncia. las dimisiones de momirovic y tanaskovic se suman a la de goran vesic, ahora exministro de construcción, transporte e infraestructura, quien renunció días después del suceso. en tanto, el presidente de serbia, aleksandar vucic, calificó las manifestaciones de “terror” y “violencia brutal” por parte de ciertos sectores políticos. pese a las críticas, vucic afirmó que su administración no cederá ante lo que considera “matones y abusadores”.",
+    "tokens": [
+      "autoridades",
+      "serbia",
+      "detuvieron",
+      "jueves",
+      "11",
+      "sospechosos",
+      "relacionados",
+      "trágico",
+      "accidente",
+      "ocurrido",
+      "principios",
+      "mes",
+      "estación",
+      "tren",
+      "norteña",
+      "ciudad",
+      "novi",
+      "sad",
+      ",",
+      "cuyo",
+      "techo",
+      "desplomó",
+      ",",
+      "resultó",
+      "muerte",
+      "15",
+      "personas",
+      ".",
+      "fiscalía",
+      "novi",
+      "sad",
+      "anunció",
+      "arrestos",
+      "realizaron",
+      "bajo",
+      "orden",
+      "forman",
+      "parte",
+      "investigación",
+      "amplia",
+      "circunstancias",
+      "rodearon",
+      "colapso",
+      "estructura",
+      "recientemente",
+      "renovada",
+      ".",
+      "detenidos",
+      ",",
+      "cuyos",
+      "nombres",
+      "sido",
+      "revelados",
+      "solo",
+      "iniciales",
+      ",",
+      "enfrentan",
+      "serias",
+      "acusaciones",
+      "incluyen",
+      "comisión",
+      "actos",
+      "criminales",
+      "seguridad",
+      "pública",
+      "realización",
+      "trabajos",
+      "construcción",
+      "irregulares",
+      ".",
+      "accidente",
+      ",",
+      "autoridades",
+      "proporcionado",
+      "información",
+      "contradictoria",
+      "respecto",
+      "si",
+      "techo",
+      "formaba",
+      "parte",
+      "proyecto",
+      "renovación",
+      "edificación",
+      ",",
+      "alimentado",
+      "descontento",
+      "social",
+      ".",
+      "suceso",
+      "desatado",
+      "ola",
+      "protestas",
+      ".",
+      "ciudadanos",
+      "señalado",
+      "corrupción",
+      "principal",
+      "causa",
+      "siniestro",
+      ".",
+      "medio",
+      "creciente",
+      "presión",
+      "pública",
+      ",",
+      "ministro",
+      "comercio",
+      "serbia",
+      ",",
+      "tomislav",
+      "momirovic",
+      ",",
+      "directora",
+      "infraestructura",
+      "ferroviaria",
+      ",",
+      "jelena",
+      "tanaskovic",
+      ",",
+      "presentaron",
+      "miércoles",
+      "renuncia",
+      ".",
+      "dimisiones",
+      "momirovic",
+      "tanaskovic",
+      "suman",
+      "goran",
+      "vesic",
+      ",",
+      "ahora",
+      "exministro",
+      "construcción",
+      ",",
+      "transporte",
+      "infraestructura",
+      ",",
+      "renunció",
+      "días",
+      "después",
+      "suceso",
+      ".",
+      ",",
+      "presidente",
+      "serbia",
+      ",",
+      "aleksandar",
+      "vucic",
+      ",",
+      "calificó",
+      "manifestaciones",
+      "“",
+      "terror",
+      "”",
+      "“",
+      "violencia",
+      "brutal",
+      "”",
+      "parte",
+      "ciertos",
+      "sectores",
+      "políticos",
+      ".",
+      "pese",
+      "críticas",
+      ",",
+      "vucic",
+      "afirmó",
+      "administración",
+      "cederá",
+      "considera",
+      "“",
+      "matones",
+      "abusadores",
+      "”",
+      "."
+    ],
+    "token_count": 177,
+    "sentence_count": 10
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 42,
+      "VBZ": 3,
+      "FW": 58,
+      "NN": 90,
+      "CD": 3,
+      "JJ": 20,
+      "NNS": 19,
+      "IN": 11,
+      "VBP": 11,
+      "DT": 1,
+      "RB": 1
+    },
+    "bigram_freq": {
+      "NNP-VBZ": 1,
+      "VBZ-FW": 1,
+      "FW-NNP": 11,
+      "NNP-FW": 7,
+      "FW-NN": 3,
+      "NN-VBZ": 2,
+      "VBZ-CD": 1,
+      "CD-NN": 1,
+      "NN-NN": 60,
+      "NN-JJ": 6,
+      "JJ-NNS": 3,
+      "NNS-IN": 2,
+      "IN-NNS": 1,
+      "NNS-VBP": 10,
+      "VBP-JJ": 9,
+      "JJ-NN": 13,
+      "NN-IN": 8,
+      "IN-FW": 4,
+      "FW-FW": 39,
+      "NNP-NNP": 19,
+      "NNP-NN": 10,
+      "FW-CD": 1,
+      "CD-NNS": 2,
+      "NNS-NNP": 3,
+      "FW-NNS": 3,
+      "VBP-CD": 1,
+      "NNP-IN": 1,
+      "IN-NNP": 2,
+      "IN-JJ": 2,
+      "NN-NNS": 6,
+      "VBZ-JJ": 1,
+      "JJ-FW": 2,
+      "NN-FW": 4,
+      "NNP-VBP": 1,
+      "NNS-NNS": 2,
+      "JJ-NNP": 2,
+      "NNP-NNS": 2,
+      "NN-NNP": 3,
+      "NNS-FW": 1,
+      "FW-JJ": 1,
+      "IN-NN": 2,
+      "VBP-NNP": 1,
+      "NNP-DT": 1,
+      "DT-NN": 1,
+      "NN-RB": 1,
+      "RB-JJ": 1
+    },
+    "trigram_freq": {
+      "NNP-VBZ-FW": 1,
+      "VBZ-FW-NNP": 1,
+      "FW-NNP-FW": 2,
+      "NNP-FW-NN": 1,
+      "FW-NN-VBZ": 1,
+      "NN-VBZ-CD": 1,
+      "VBZ-CD-NN": 1,
+      "CD-NN-NN": 1,
+      "NN-NN-NN": 39,
+      "NN-NN-JJ": 6,
+      "NN-JJ-NNS": 1,
+      "JJ-NNS-IN": 1,
+      "NNS-IN-NNS": 1,
+      "IN-NNS-VBP": 1,
+      "NNS-VBP-JJ": 8,
+      "VBP-JJ-NN": 5,
+      "JJ-NN-IN": 2,
+      "NN-IN-FW": 4,
+      "IN-FW-FW": 3,
+      "FW-FW-FW": 27,
+      "FW-FW-NNP": 7,
+      "FW-NNP-NNP": 7,
+      "NNP-NNP-NN": 5,
+      "NNP-NN-NN": 9,
+      "NN-NN-IN": 6,
+      "FW-FW-CD": 1,
+      "FW-CD-NNS": 1,
+      "CD-NNS-NNP": 2,
+      "NNS-NNP-NNP": 2,
+      "NNP-NNP-NNP": 8,
+      "NNP-NNP-FW": 5,
+      "NNP-FW-FW": 4,
+      "FW-FW-NNS": 3,
+      "FW-NNS-VBP": 2,
+      "NNS-VBP-CD": 1,
+      "VBP-CD-NNS": 1,
+      "NNP-NNP-IN": 1,
+      "NNP-IN-NNP": 1,
+      "IN-NNP-NNP": 2,
+      "NN-JJ-NN": 5,
+      "JJ-NN-NN": 9,
+      "NN-IN-JJ": 2,
+      "IN-JJ-NN": 1,
+      "FW-NNP-NN": 1,
+      "NN-NN-NNS": 4,
+      "NN-NNS-VBP": 4,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 1,
+      "JJ-NN-NNS": 1,
+      "VBP-JJ-FW": 1,
+      "JJ-FW-FW": 2,
+      "NN-NN-FW": 2,
+      "NN-FW-FW": 3,
+      "FW-NNS-NNP": 1,
+      "NNS-NNP-VBP": 1,
+      "NNP-VBP-JJ": 1,
+      "VBP-JJ-NNS": 2,
+      "JJ-NNS-NNS": 1,
+      "NNS-NNS-VBP": 1,
+      "FW-FW-NN": 1,
+      "FW-NN-NN": 1,
+      "IN-JJ-NNP": 1,
+      "JJ-NNP-NN": 1,
+      "IN-FW-NNP": 1,
+      "FW-NNP-NNS": 1,
+      "NNP-NNS-VBP": 1,
+      "JJ-NN-FW": 1,
+      "NN-FW-NN": 1,
+      "FW-NN-NNP": 1,
+      "NN-NNP-NN": 2,
+      "NNP-NN-FW": 1,
+      "NNP-FW-NNP": 1,
+      "VBP-JJ-NNP": 1,
+      "JJ-NNP-NNS": 1,
+      "NNP-NNS-FW": 1,
+      "NNS-FW-NNP": 1,
+      "NNP-FW-JJ": 1,
+      "FW-JJ-FW": 1,
+      "NN-NN-NNP": 2,
+      "NN-IN-NNP": 1,
+      "NN-NNS-IN": 1,
+      "NNS-IN-NN": 1,
+      "IN-NN-NN": 1,
+      "NN-IN-NN": 1,
+      "IN-NN-NNS": 1,
+      "JJ-NNS-VBP": 1,
+      "NNS-VBP-NNP": 1,
+      "VBP-NNP-NN": 1,
+      "NN-NNP-DT": 1,
+      "NNP-DT-NN": 1,
+      "DT-NN-RB": 1,
+      "NN-RB-JJ": 1,
+      "RB-JJ-NN": 1,
+      "NN-NNS-NNS": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 90,
+        "FW": 58,
+        "NNP": 42,
+        "JJ": 20,
+        "NNS": 19
+      },
+      "top_bigrams": {
+        "NN-NN": 60,
+        "FW-FW": 39,
+        "NNP-NNP": 19,
+        "JJ-NN": 13,
+        "FW-NNP": 11
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 39,
+        "FW-FW-FW": 27,
+        "NNP-NN-NN": 9,
+        "JJ-NN-NN": 9,
+        "NNS-VBP-JJ": 8
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 10,
+    "chunk_counts": {
+      "NP": 72,
+      "VP": 15,
+      "PP": 7,
+      "ADJP": 3
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 6,
+        "weight": 0.0561
+      },
+      {
+        "rule": "NP -> ('Serbia', 'NNP')",
+        "frequency": 4,
+        "weight": 0.0374
+      },
+      {
+        "rule": "VP -> ('han', 'VBP') NP",
+        "frequency": 2,
+        "weight": 0.0187
+      },
+      {
+        "rule": "S -> NP VP ('de', 'FW') NP ('detuvieron', 'FW') NP VP ('a', 'DT') ('11', 'CD') NP PP ('de', 'IN') ('mes', 'FW') ('en', 'FW') ADJP ('estación', 'FW') ('de', 'FW') ('tren', 'FW') ('en', 'FW') ('la', 'FW') ('norteña', 'FW') ('ciudad', 'FW') ('de', 'FW') NP (',', ',') NP (',', ',') NP ('en', 'IN') ('la', 'FW') ('muerte', 'FW') ('de', 'FW') ('15', 'CD') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0093
+      },
+      {
+        "rule": "NP -> ('Las', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0093
+      },
+      {
+        "rule": "VP -> ('autoridades', 'VBZ')",
+        "frequency": 1,
+        "weight": 0.0093
+      },
+      {
+        "rule": "NP -> ('este', 'NN')",
+        "frequency": 1,
+        "weight": 0.0093
+      },
+      {
+        "rule": "VP -> ('jueves', 'VBZ')",
+        "frequency": 1,
+        "weight": 0.0093
+      },
+      {
+        "rule": "NP -> ('sospechosos', 'NN') ('relacionados', 'NN') ('con', 'NN') ('el', 'NN') ('trágico', 'NN') ('accidente', 'NN')",
+        "frequency": 1,
+        "weight": 0.0093
+      },
+      {
+        "rule": "PP -> ('ocurrido', 'IN') NP",
+        "frequency": 1,
+        "weight": 0.0093
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Las"
+      },
+      {
+        "label": "VP",
+        "text": "autoridades"
+      },
+      {
+        "label": "NP",
+        "text": "Serbia"
+      },
+      {
+        "label": "NP",
+        "text": "este"
+      },
+      {
+        "label": "VP",
+        "text": "jueves"
+      },
+      {
+        "label": "NP",
+        "text": "sospechosos relacionados con el trágico accidente"
+      },
+      {
+        "label": "PP",
+        "text": "ocurrido a principios"
+      },
+      {
+        "label": "NP",
+        "text": "a principios"
+      },
+      {
+        "label": "ADJP",
+        "text": "una"
+      },
+      {
+        "label": "NP",
+        "text": "Novi Sad"
+      },
+      {
+        "label": "NP",
+        "text": "cuyo techo se desplomó"
+      },
+      {
+        "label": "NP",
+        "text": "lo que resultó"
+      },
+      {
+        "label": "NP",
+        "text": "personas"
+      },
+      {
+        "label": "NP",
+        "text": "LEA TAMBIÉN Día"
+      },
+      {
+        "label": "NP",
+        "text": "Serbia"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Las/NNP)\n  (VP autoridades/VBZ)\n  de/FW\n  (NP Serbia/NNP)\n  detuvieron/FW\n  (NP este/NN)\n  (VP jueves/VBZ)\n  a/DT\n  11/CD\n  (NP\n    sospechosos/NN\n    relacionados/NN\n    con/NN\n    el/NN\n    trágico/NN\n    accidente/NN)\n  (PP ocurrido/IN (NP a/DT principios/NN))\n  de/IN\n  mes/FW\n  en/FW\n  (ADJP una/JJ)\n  estación/FW\n  de/FW\n  tren/FW\n  en/FW\n  la/FW\n  norteña/FW\n  ciudad/FW\n  de/FW\n  (NP Novi/NNP Sad/NNP)\n  ,/,\n  (NP cuyo/NN techo/NN se/NN desplomó/NN)\n  ,/,\n  (NP lo/JJ que/NN resultó/NN)\n  en/IN\n  la/FW\n  muerte/FW\n  de/FW\n  15/CD\n  (NP personas/NNS)\n  ./.)",
+      "(S\n  (NP LEA/NNP TAMBIÉN/NNP Día/NNP)\n  de/FW\n  luto/FW\n  en/FW\n  (NP Serbia/NNP)\n  :/:\n  (NP Colapsa/NNP)\n  marquesina/FW\n  de/FW\n  estación/FW\n  de/FW\n  trenes/FW\n  y/CC\n  (NP deja/NN)\n  14/CD\n  (NP muertos/NN La/NNP Fiscalía/NNP)\n  (PP\n    de/IN\n    (NP\n      Novi/NNP\n      Sad/NNP\n      anunció/NN\n      que/NN\n      los/NN\n      arrestos/NN\n      se/NN\n      realizaron/NN\n      bajo/NN\n      su/NN))\n  (NP orden/JJ y/NN)\n  (NP forman/JJ parte/NN)\n  (PP\n    de/IN\n    (NP\n      una/JJ\n      investigación/NN\n      más/NN\n      amplia/NN\n      sobre/NN\n      las/NN\n      circunstancias/NN))\n  (NP que/JJ rodearon/NN el/NN colapso/NN)\n  de/IN\n  la/FW\n  estructura/FW\n  recientemente/FW\n  (NP renovada/NN)\n  ./.)",
+      "(S\n  (NP Los/NNP detenidos/NN)\n  ,/,\n  (NP cuyos/NN nombres/NNS)\n  (VP\n    han/VBP\n    (NP sido/JJ revelados/NN solo/NN por/NN sus/NN iniciales/NNS))\n  ,/,\n  (NP enfrentan/JJ serias/NN acusaciones/NNS)\n  (VP que/VBP incluyen/JJ)\n  la/FW\n  comisión/FW\n  de/FW\n  actos/FW\n  (NP criminales/NNS)\n  (VP contra/VBP (NP la/JJ seguridad/NN pública/NN y/NN))\n  la/FW\n  realización/FW\n  de/FW\n  trabajos/FW\n  de/FW\n  construcción/FW\n  (NP irregulares/NNS)\n  ./.)",
+      "(S\n  (NP Desde/NNP el/NN accidente/NN)\n  ,/,\n  las/FW\n  (NP autoridades/NNS)\n  (VP han/VBP (NP proporcionado/JJ información/NN contradictoria/NN))\n  (VP\n    respecto/VBZ\n    (NP a/DT si/JJ el/NN techo/NN formaba/NN parte/NN))\n  del/FW\n  proyecto/FW\n  de/FW\n  renovación/FW\n  de/FW\n  la/FW\n  edificación/FW\n  ,/,\n  lo/FW\n  (NP que/NN ha/NN alimentado/NN el/NN)\n  descontento/IN\n  (ADJP social/JJ)\n  ./.)",
+      "(S\n  (NP El/NNP suceso/NN ha/NN desatado/NN)\n  (NP una/JJ ola/NN)\n  (PP de/IN (NP protestas/NNS))\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "FECHAS_HORAS",
+      "GOBIERNOS_OFICIALES",
+      "DESASTRES_ACCIDENTES_EMERGENCIAS",
+      "CANTIDADES_NUMERICAS",
+      "TIEMPO_RELATIVO",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "INFRAESTRUCTURA_SERVICIOS",
+      "JURIDICO_LEGISLATIVO_CORRUPCION"
+    ],
+    "matches": [
+      {
+        "category": "DESASTRES_ACCIDENTES_EMERGENCIAS",
+        "matched_text": "colapso de la estructura",
+        "position": [
+          518,
+          542
+        ],
+        "start": 518,
+        "end": 542
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "afirmó",
+        "position": [
+          1693,
+          1699
+        ],
+        "start": 1693,
+        "end": 1699
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "anunció",
+        "position": [
+          377,
+          384
+        ],
+        "start": 377,
+        "end": 384
+      },
+      {
+        "category": "JURIDICO_LEGISLATIVO_CORRUPCION",
+        "matched_text": "corrupción",
+        "position": [
+          1085,
+          1095
+        ],
+        "start": 1085,
+        "end": 1095
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente de serbia",
+        "position": [
+          1523,
+          1543
+        ],
+        "start": 1523,
+        "end": 1543
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "estación",
+        "position": [
+          140,
+          148
+        ],
+        "start": 140,
+        "end": 148
+      },
+      {
+        "category": "TIEMPO_RELATIVO",
+        "matched_text": "recientemente",
+        "position": [
+          543,
+          556
+        ],
+        "start": 543,
+        "end": 556
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "15 personas",
+        "position": [
+          246,
+          257
+        ],
+        "start": 246,
+        "end": 257
+      },
+      {
+        "category": "FECHAS_HORAS",
+        "matched_text": "después del suceso",
+        "position": [
+          1490,
+          1508
+        ],
+        "start": 1490,
+        "end": 1508
+      }
+    ],
+    "match_count": 9
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Construcción",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Jelena Tanaskovic",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Serbia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Vucic",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Novi Sad",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Tanaskovic",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Goran Vesic",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Administración",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Momirovic",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Comercio de Serbia",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Infraestructura Ferroviaria",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Tomislav Momirovic",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Aleksandar Vucic",
+        "tipo": "Persona"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Serbia",
+        "relacion": "DETENER",
+        "objeto": "Novi Sad"
+      },
+      {
+        "sujeto": "Momirovic",
+        "relacion": "SUMAR",
+        "objeto": "Goran Vesic"
+      },
+      {
+        "sujeto": "Momirovic",
+        "relacion": "SUMAR",
+        "objeto": "Construcción"
+      },
+      {
+        "sujeto": "Tanaskovic",
+        "relacion": "SUMAR",
+        "objeto": "Goran Vesic"
+      },
+      {
+        "sujeto": "Tanaskovic",
+        "relacion": "SUMAR",
+        "objeto": "Construcción"
+      },
+      {
+        "sujeto": "Vucic",
+        "relacion": "AFIRMAR",
+        "objeto": "Administración"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.5574,
+    "pos": 0.018,
+    "neu": 0.951,
+    "neg": 0.031,
+    "label": "negative"
+  }
+}

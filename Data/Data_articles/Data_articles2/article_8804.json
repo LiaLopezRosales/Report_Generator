@@ -1,0 +1,993 @@
+{
+  "url": "https://www.telesurtv.net/al-menos-54-paises-solicitan-embargo-de-armas-a-israel/",
+  "title": "Al menos 54 países solicitan embargo de armas a Israel - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "embargo de armas",
+    "genocidio",
+    "Israel",
+    "Türkiye"
+  ],
+  "text": "Este domingo 3 de noviembre, el ministro de Relaciones Exteriores turco, Hakan Fidan, comunicó que el 1 de noviembre su país envió a la Organización de Naciones Unidas un proyecto de resolución firmado por 54 países, con el fin de imponer un embargo de suministro de armas al Estado de Israel.\nEn el marco de la Tercera Conferencia Ministerial de Examen de la Alianza Türkiye-África celebrada en Djibouti, el canciller mencionó: “Hay un genocidio en Gaza. Netanyahu sigue adelante con este método y quiere eliminar por completo la solución de los dos Estados”.\nEn conferencia de prensa, Fidan agradeció a los países africanos su apoyo a la iniciativa. Si bien esta surgió de Türkiye, ya ha obtenido el respaldo de países como Colombia, Cuba, Bolivia, Brasil, Venezuela, Sudáfrica, México, Nicaragua, Rusia, Noruega, Senegal, Vietnam, así como de la Liga Árabe y la Organización de la Cooperación Islámica.\n“Tenemos que impedir que Israel compre armamento y munición. Tenemos que poner esta cuestión sobre la mesa en todos los foros. Debemos aprovechar cualquier oportunidad de decir que vender armas a Israel implica ser cómplice del genocidio”, aseveró Fidan.\nEl proyecto de resolución insta a todas las naciones a frenar el envío de cualquier suministro militar a Israel, mientras exista la duda de que pueda ser utilizado contra territorio palestino.\nLa carta que contiene dicha propuesta está remitida al secretario general de la ONU, António Guterres, a Reino Unido como presidente de turno del Consejo de Seguridad de la ONU, y al presidente de la Asamblea General del organismo internacional, Philemon Yang.\nLa misiva además insta a tomar en cuenta la opinión consultiva emitida por la Corte Internacional de Justicia el 19 de julio del presente año, que declara a Israel responsable de apartheid durante la ocupación de territorios palestinos, y que fuera recogido en una resolución de la Asamblea General de la ONU el 18 de septiembre tras el voto favorable de 124 países.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/al-menos-54-paises-solicitan-embargo-de-armas-a-israel/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-11.json",
+    "message_index": 1627,
+    "message_id": 79763,
+    "date": "2024-11-03T23:55:13+00:00",
+    "text": "teleSUR\nAl menos 54 países solicitan embargo de armas a Israel\nhttps://www.telesurtv.net/al-menos-54-paises-solicitan-embargo-de-armas-a-israel/",
+    "photo_path": null,
+    "views": 3480,
+    "reactions": {
+      "👍": 72,
+      "👏": 22,
+      "👌": 5
+    },
+    "total_reactions": 99
+  },
+  "preprocessing": {
+    "cleaned": "este domingo 3 de noviembre, el ministro de relaciones exteriores turco, hakan fidan, comunicó que el 1 de noviembre su país envió a la organización de naciones unidas un proyecto de resolución firmado por 54 países, con el fin de imponer un embargo de suministro de armas al estado de israel. en el marco de la tercera conferencia ministerial de examen de la alianza türkiye-áfrica celebrada en djibouti, el canciller mencionó: “hay un genocidio en gaza. netanyahu sigue adelante con este método y quiere eliminar por completo la solución de los dos estados”. en conferencia de prensa, fidan agradeció a los países africanos su apoyo a la iniciativa. si bien esta surgió de türkiye, ya ha obtenido el respaldo de países como colombia, cuba, bolivia, brasil, venezuela, sudáfrica, méxico, nicaragua, rusia, noruega, senegal, vietnam, así como de la liga árabe y la organización de la cooperación islámica. “tenemos que impedir que israel compre armamento y munición. tenemos que poner esta cuestión sobre la mesa en todos los foros. debemos aprovechar cualquier oportunidad de decir que vender armas a israel implica ser cómplice del genocidio”, aseveró fidan. el proyecto de resolución insta a todas las naciones a frenar el envío de cualquier suministro militar a israel, mientras exista la duda de que pueda ser utilizado contra territorio palestino. la carta que contiene dicha propuesta está remitida al secretario general de la onu, antónio guterres, a reino unido como presidente de turno del consejo de seguridad de la onu, y al presidente de la asamblea general del organismo internacional, philemon yang. la misiva además insta a tomar en cuenta la opinión consultiva emitida por la corte internacional de justicia el 19 de julio del presente año, que declara a israel responsable de apartheid durante la ocupación de territorios palestinos, y que fuera recogido en una resolución de la asamblea general de la onu el 18 de septiembre tras el voto favorable de 124 países.",
+    "tokens": [
+      "domingo",
+      "3",
+      "noviembre",
+      ",",
+      "ministro",
+      "relaciones",
+      "exteriores",
+      "turco",
+      ",",
+      "hakan",
+      "fidan",
+      ",",
+      "comunicó",
+      "1",
+      "noviembre",
+      "país",
+      "envió",
+      "organización",
+      "naciones",
+      "unidas",
+      "proyecto",
+      "resolución",
+      "firmado",
+      "54",
+      "países",
+      ",",
+      "fin",
+      "imponer",
+      "embargo",
+      "suministro",
+      "armas",
+      "israel",
+      ".",
+      "marco",
+      "tercera",
+      "conferencia",
+      "ministerial",
+      "examen",
+      "alianza",
+      "türkiye-áfrica",
+      "celebrada",
+      "djibouti",
+      ",",
+      "canciller",
+      "mencionó",
+      ":",
+      "“",
+      "genocidio",
+      "gaza",
+      ".",
+      "netanyahu",
+      "sigue",
+      "adelante",
+      "método",
+      "quiere",
+      "eliminar",
+      "completo",
+      "solución",
+      "dos",
+      "”",
+      ".",
+      "conferencia",
+      "prensa",
+      ",",
+      "fidan",
+      "agradeció",
+      "países",
+      "africanos",
+      "apoyo",
+      "iniciativa",
+      ".",
+      "si",
+      "bien",
+      "surgió",
+      "türkiye",
+      ",",
+      "obtenido",
+      "respaldo",
+      "países",
+      "colombia",
+      ",",
+      "cuba",
+      ",",
+      "bolivia",
+      ",",
+      "brasil",
+      ",",
+      "venezuela",
+      ",",
+      "sudáfrica",
+      ",",
+      "méxico",
+      ",",
+      "nicaragua",
+      ",",
+      "rusia",
+      ",",
+      "noruega",
+      ",",
+      "senegal",
+      ",",
+      "vietnam",
+      ",",
+      "así",
+      "liga",
+      "árabe",
+      "organización",
+      "cooperación",
+      "islámica",
+      ".",
+      "“",
+      "impedir",
+      "israel",
+      "compre",
+      "armamento",
+      "munición",
+      ".",
+      "poner",
+      "cuestión",
+      "mesa",
+      "foros",
+      ".",
+      "debemos",
+      "aprovechar",
+      "cualquier",
+      "oportunidad",
+      "decir",
+      "vender",
+      "armas",
+      "israel",
+      "implica",
+      "ser",
+      "cómplice",
+      "genocidio",
+      "”",
+      ",",
+      "aseveró",
+      "fidan",
+      ".",
+      "proyecto",
+      "resolución",
+      "insta",
+      "todas",
+      "naciones",
+      "frenar",
+      "envío",
+      "cualquier",
+      "suministro",
+      "militar",
+      "israel",
+      ",",
+      "mientras",
+      "exista",
+      "duda",
+      "pueda",
+      "ser",
+      "utilizado",
+      "territorio",
+      "palestino",
+      ".",
+      "carta",
+      "contiene",
+      "dicha",
+      "propuesta",
+      "remitida",
+      "secretario",
+      "general",
+      "onu",
+      ",",
+      "antónio",
+      "guterres",
+      ",",
+      "reino",
+      "unido",
+      "presidente",
+      "turno",
+      "consejo",
+      "seguridad",
+      "onu",
+      ",",
+      "presidente",
+      "asamblea",
+      "general",
+      "organismo",
+      "internacional",
+      ",",
+      "philemon",
+      "yang",
+      ".",
+      "misiva",
+      "además",
+      "insta",
+      "tomar",
+      "cuenta",
+      "opinión",
+      "consultiva",
+      "emitida",
+      "corte",
+      "internacional",
+      "justicia",
+      "19",
+      "julio",
+      "presente",
+      "año",
+      ",",
+      "declara",
+      "israel",
+      "responsable",
+      "apartheid",
+      "ocupación",
+      "territorios",
+      "palestinos",
+      ",",
+      "recogido",
+      "resolución",
+      "asamblea",
+      "general",
+      "onu",
+      "18",
+      "septiembre",
+      "tras",
+      "voto",
+      "favorable",
+      "124",
+      "países",
+      "."
+    ],
+    "token_count": 226,
+    "sentence_count": 11
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 76,
+      "NN": 83,
+      "FW": 91,
+      "VBZ": 3,
+      "JJ": 19,
+      "IN": 13,
+      "CD": 4,
+      "NNS": 6,
+      "VBP": 5,
+      "RB": 1,
+      "VBD": 3,
+      "JJR": 1
+    },
+    "bigram_freq": {
+      "NNP-NN": 14,
+      "NN-FW": 16,
+      "FW-FW": 49,
+      "FW-NNP": 21,
+      "NNP-NNP": 38,
+      "NNP-VBZ": 2,
+      "VBZ-NNP": 1,
+      "NN-NN": 43,
+      "NNP-FW": 15,
+      "NNP-JJ": 2,
+      "JJ-NN": 10,
+      "NN-IN": 9,
+      "IN-FW": 7,
+      "FW-JJ": 5,
+      "NN-CD": 1,
+      "CD-NNS": 2,
+      "NNS-VBP": 5,
+      "VBP-JJ": 3,
+      "JJ-FW": 4,
+      "NNP-IN": 2,
+      "IN-NNP": 4,
+      "FW-NN": 12,
+      "NN-NNP": 8,
+      "NN-RB": 1,
+      "RB-JJ": 1,
+      "JJ-NNP": 3,
+      "NN-NNS": 2,
+      "NNP-VBD": 3,
+      "VBD-JJ": 1,
+      "JJ-JJ": 2,
+      "FW-VBZ": 1,
+      "VBZ-NN": 2,
+      "NN-JJ": 3,
+      "VBP-NNS": 1,
+      "FW-JJR": 1,
+      "JJR-JJ": 1,
+      "VBD-CD": 2,
+      "CD-IN": 2,
+      "IN-NN": 1,
+      "IN-JJ": 1,
+      "FW-NNS": 1,
+      "VBP-NN": 1,
+      "FW-CD": 1
+    },
+    "trigram_freq": {
+      "NNP-NN-FW": 4,
+      "NN-FW-FW": 9,
+      "FW-FW-FW": 31,
+      "FW-FW-NNP": 10,
+      "FW-NNP-NNP": 10,
+      "NNP-NNP-VBZ": 2,
+      "NNP-VBZ-NNP": 1,
+      "VBZ-NNP-NNP": 1,
+      "NNP-NNP-NN": 7,
+      "NNP-NN-NN": 10,
+      "NN-NN-FW": 7,
+      "FW-NNP-FW": 7,
+      "NNP-FW-NNP": 5,
+      "NNP-NNP-JJ": 1,
+      "NNP-JJ-NN": 2,
+      "JJ-NN-IN": 4,
+      "NN-IN-FW": 5,
+      "IN-FW-JJ": 2,
+      "FW-JJ-NN": 1,
+      "JJ-NN-CD": 1,
+      "NN-CD-NNS": 1,
+      "CD-NNS-VBP": 1,
+      "NNS-VBP-JJ": 3,
+      "VBP-JJ-NN": 2,
+      "FW-JJ-FW": 1,
+      "JJ-FW-FW": 3,
+      "FW-NNP-IN": 1,
+      "NNP-IN-NNP": 1,
+      "IN-NNP-NNP": 4,
+      "NNP-NNP-FW": 7,
+      "NNP-FW-FW": 5,
+      "NNP-NNP-NNP": 19,
+      "NN-FW-NNP": 3,
+      "NNP-FW-NN": 4,
+      "FW-NN-NN": 5,
+      "NN-NN-NNP": 6,
+      "NN-NNP-JJ": 1,
+      "NN-IN-NNP": 3,
+      "NN-NN-NN": 23,
+      "NN-NN-RB": 1,
+      "NN-RB-JJ": 1,
+      "RB-JJ-NN": 1,
+      "JJ-NN-NN": 4,
+      "FW-FW-JJ": 2,
+      "FW-JJ-NNP": 2,
+      "JJ-NNP-NNP": 2,
+      "FW-NN-NNS": 2,
+      "NN-NNS-VBP": 2,
+      "FW-NNP-NN": 1,
+      "NN-NN-IN": 4,
+      "NNP-NNP-VBD": 1,
+      "NNP-VBD-JJ": 1,
+      "VBD-JJ-JJ": 1,
+      "JJ-JJ-NN": 1,
+      "JJ-NN-FW": 1,
+      "NN-FW-VBZ": 1,
+      "FW-VBZ-NN": 1,
+      "VBZ-NN-NNP": 1,
+      "NN-NNP-NNP": 2,
+      "NNP-VBZ-NN": 1,
+      "VBZ-NN-IN": 1,
+      "IN-FW-NNP": 3,
+      "NNP-NNP-IN": 1,
+      "NNP-IN-FW": 1,
+      "NN-NNP-NN": 4,
+      "NN-NN-JJ": 2,
+      "NN-JJ-NN": 1,
+      "JJ-NNP-NN": 1,
+      "FW-FW-NN": 5,
+      "NNS-VBP-NNS": 1,
+      "VBP-NNS-VBP": 1,
+      "VBP-JJ-FW": 1,
+      "FW-NN-NNP": 1,
+      "NN-NNP-FW": 1,
+      "FW-NN-FW": 4,
+      "FW-FW-JJR": 1,
+      "FW-JJR-JJ": 1,
+      "JJR-JJ-NN": 1,
+      "NN-JJ-FW": 2,
+      "IN-FW-FW": 1,
+      "NNP-FW-JJ": 1,
+      "FW-JJ-JJ": 1,
+      "JJ-JJ-NNP": 1,
+      "NN-FW-NN": 3,
+      "FW-NNP-VBD": 2,
+      "NNP-VBD-CD": 2,
+      "VBD-CD-IN": 2,
+      "CD-IN-NN": 1,
+      "IN-NN-NN": 1,
+      "NN-IN-JJ": 1,
+      "IN-JJ-NN": 1,
+      "CD-IN-FW": 1,
+      "IN-FW-NNS": 1,
+      "FW-NNS-VBP": 1,
+      "NNS-VBP-NN": 1,
+      "VBP-NN-JJ": 1,
+      "JJ-FW-CD": 1,
+      "FW-CD-NNS": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "FW": 91,
+        "NN": 83,
+        "NNP": 76,
+        "JJ": 19,
+        "IN": 13
+      },
+      "top_bigrams": {
+        "FW-FW": 49,
+        "NN-NN": 43,
+        "NNP-NNP": 38,
+        "FW-NNP": 21,
+        "NN-FW": 16
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 31,
+        "NN-NN-NN": 23,
+        "NNP-NNP-NNP": 19,
+        "FW-FW-NNP": 10,
+        "FW-NNP-NNP": 10
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 11,
+    "chunk_counts": {
+      "NP": 90,
+      "VP": 15,
+      "PP": 7,
+      "ADJP": 2
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 4,
+        "weight": 0.032
+      },
+      {
+        "rule": "VP -> ('el', 'VBD')",
+        "frequency": 3,
+        "weight": 0.024
+      },
+      {
+        "rule": "NP -> ('ONU', 'NNP')",
+        "frequency": 3,
+        "weight": 0.024
+      },
+      {
+        "rule": "NP -> ('países', 'NNS')",
+        "frequency": 2,
+        "weight": 0.016
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.016
+      },
+      {
+        "rule": "S -> NP VP ('3', 'CD') ('de', 'FW') ('noviembre', 'FW') (',', ',') ('el', 'FW') ('ministro', 'FW') ('de', 'FW') NP (',', ',') NP (',', ',') NP VP ('1', 'CD') ('de', 'IN') ('noviembre', 'FW') NP VP PP NP ('de', 'IN') ('resolución', 'FW') NP ('54', 'CD') NP (',', ',') NP ('de', 'IN') ('imponer', 'FW') ADJP ('embargo', 'FW') ('de', 'FW') ('suministro', 'FW') ('de', 'FW') ('armas', 'FW') ('al', 'FW') NP PP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.008
+      },
+      {
+        "rule": "NP -> ('Este', 'NNP')",
+        "frequency": 1,
+        "weight": 0.008
+      },
+      {
+        "rule": "VP -> ('domingo', 'VBD')",
+        "frequency": 1,
+        "weight": 0.008
+      },
+      {
+        "rule": "NP -> ('Relaciones', 'NNP') ('Exteriores', 'NNP') ('turco', 'NN')",
+        "frequency": 1,
+        "weight": 0.008
+      },
+      {
+        "rule": "NP -> ('Hakan', 'NNP') ('Fidan', 'NNP')",
+        "frequency": 1,
+        "weight": 0.008
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Este"
+      },
+      {
+        "label": "VP",
+        "text": "domingo"
+      },
+      {
+        "label": "NP",
+        "text": "Relaciones Exteriores turco"
+      },
+      {
+        "label": "NP",
+        "text": "Hakan Fidan"
+      },
+      {
+        "label": "NP",
+        "text": "comunicó que"
+      },
+      {
+        "label": "VP",
+        "text": "el"
+      },
+      {
+        "label": "NP",
+        "text": "su país"
+      },
+      {
+        "label": "VP",
+        "text": "envió a la Organización"
+      },
+      {
+        "label": "NP",
+        "text": "a la Organización"
+      },
+      {
+        "label": "PP",
+        "text": "de Naciones Unidas"
+      },
+      {
+        "label": "NP",
+        "text": "Naciones Unidas"
+      },
+      {
+        "label": "NP",
+        "text": "un proyecto"
+      },
+      {
+        "label": "NP",
+        "text": "firmado por"
+      },
+      {
+        "label": "NP",
+        "text": "países"
+      },
+      {
+        "label": "NP",
+        "text": "con el fin"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Este/NNP)\n  (VP domingo/VBD)\n  3/CD\n  de/FW\n  noviembre/FW\n  ,/,\n  el/FW\n  ministro/FW\n  de/FW\n  (NP Relaciones/NNP Exteriores/NNP turco/NN)\n  ,/,\n  (NP Hakan/NNP Fidan/NNP)\n  ,/,\n  (NP comunicó/NN que/NN)\n  (VP el/VBD)\n  1/CD\n  de/IN\n  noviembre/FW\n  (NP su/JJ país/NN)\n  (VP envió/VBZ (NP a/DT la/NN Organización/NNP))\n  (PP de/IN (NP Naciones/NNP Unidas/NNP))\n  (NP un/JJ proyecto/NN)\n  de/IN\n  resolución/FW\n  (NP firmado/JJ por/NN)\n  54/CD\n  (NP países/NNS)\n  ,/,\n  (NP con/NN el/NN fin/NN)\n  de/IN\n  imponer/FW\n  (ADJP un/JJ)\n  embargo/FW\n  de/FW\n  suministro/FW\n  de/FW\n  armas/FW\n  al/FW\n  (NP Estado/NNP)\n  (PP de/IN (NP Israel/NNP))\n  ./.)",
+      "(S\n  (NP En/NNP)\n  el/FW\n  marco/FW\n  de/FW\n  la/FW\n  (NP Tercera/NNP Conferencia/NNP Ministerial/NNP)\n  de/FW\n  (NP Examen/NNP)\n  de/FW\n  la/FW\n  (NP Alianza/NNP Türkiye-África/NNP celebrada/NN en/NN Djibouti/NNP)\n  ,/,\n  (VP el/VBZ (NP canciller/NN mencionó/NN))\n  :/:\n  (NP “/JJ Hay/NNP un/NN genocidio/NN)\n  (PP en/IN (NP Gaza/NNP))\n  ./.)",
+      "(S\n  (NP\n    Netanyahu/NNP\n    sigue/NN\n    adelante/NN\n    con/NN\n    este/NN\n    método/NN\n    y/NN)\n  quiere/RB\n  (NP eliminar/JJ por/NN completo/NN)\n  la/FW\n  solución/FW\n  de/FW\n  los/FW\n  (NP dos/JJ Estados/NNP ”/NNP)\n  ./.)",
+      "(S\n  (NP En/NNP conferencia/NN)\n  de/FW\n  prensa/FW\n  ,/,\n  (NP Fidan/NNP)\n  (VP agradeció/VBZ (NP a/DT los/JJ países/NNS))\n  (VP africanos/VBP su/JJ)\n  (PP apoyo/IN (NP a/DT la/NN iniciativa/NN))\n  ./.)",
+      "(S\n  (NP Si/NNP bien/NN esta/NN surgió/NN)\n  (PP de/IN (NP Türkiye/NNP))\n  ,/,\n  (NP ya/NNP)\n  (VP ha/VBZ (NP obtenido/JJ el/JJ respaldo/NN))\n  de/FW\n  (VP países/VBZ (NP como/NN Colombia/NNP))\n  ,/,\n  (NP Cuba/NNP)\n  ,/,\n  (NP Bolivia/NNP)\n  ,/,\n  (NP Brasil/NNP)\n  ,/,\n  (NP Venezuela/NNP)\n  ,/,\n  (NP Sudáfrica/NNP)\n  ,/,\n  (NP México/NNP)\n  ,/,\n  (NP Nicaragua/NNP)\n  ,/,\n  (NP Rusia/NNP)\n  ,/,\n  (NP Noruega/NNP)\n  ,/,\n  (NP Senegal/NNP)\n  ,/,\n  (NP Vietnam/NNP)\n  ,/,\n  (NP así/JJ como/NN)\n  de/IN\n  la/FW\n  (NP Liga/NNP Árabe/NNP y/NNP la/NNP Organización/NNP)\n  de/IN\n  la/FW\n  (NP Cooperación/NNP Islámica/NNP)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "GOBIERNOS_OFICIALES",
+      "ORGANISMOS_INTERNACIONALES",
+      "LEYES_NORMATIVAS",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "ANTIIMPERIALISMO_SOBERANIA",
+      "REGIONES_PROVINCIAS",
+      "CRISIS_HUMANITARIA_SERVICIOS",
+      "PAISES",
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "RELACIONES_INTERNACIONALES",
+      "FECHAS_ESPECIFICAS"
+    ],
+    "matches": [
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "ocupación",
+        "position": [
+          1815,
+          1824
+        ],
+        "start": 1815,
+        "end": 1824
+      },
+      {
+        "category": "RELACIONES_INTERNACIONALES",
+        "matched_text": "alianza türkiye-áfrica celebrada en djibouti, el canciller mencionó: “hay un genocidio en gaza. netanyahu sigue adelante con este método y quiere",
+        "position": [
+          360,
+          505
+        ],
+        "start": 360,
+        "end": 505
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "conferencia de prensa",
+        "position": [
+          564,
+          585
+        ],
+        "start": 564,
+        "end": 585
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "comunicó",
+        "position": [
+          86,
+          94
+        ],
+        "start": 86,
+        "end": 94
+      },
+      {
+        "category": "CRISIS_HUMANITARIA_SERVICIOS",
+        "matched_text": "genocidio en gaza",
+        "position": [
+          437,
+          454
+        ],
+        "start": 437,
+        "end": 454
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente de turno",
+        "position": [
+          1476,
+          1495
+        ],
+        "start": 1476,
+        "end": 1495
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "ministro de relaciones exteriores",
+        "position": [
+          32,
+          65
+        ],
+        "start": 32,
+        "end": 65
+      },
+      {
+        "category": "ORGANISMOS_INTERNACIONALES",
+        "matched_text": "naciones unidas",
+        "position": [
+          152,
+          167
+        ],
+        "start": 152,
+        "end": 167
+      },
+      {
+        "category": "LEYES_NORMATIVAS",
+        "matched_text": "resolución firmado por 54",
+        "position": [
+          183,
+          208
+        ],
+        "start": 183,
+        "end": 208
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "colombia",
+        "position": [
+          726,
+          734
+        ],
+        "start": 726,
+        "end": 734
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "méxico",
+        "position": [
+          781,
+          787
+        ],
+        "start": 781,
+        "end": 787
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "venezuela",
+        "position": [
+          759,
+          768
+        ],
+        "start": 759,
+        "end": 768
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "estado de",
+        "position": [
+          276,
+          285
+        ],
+        "start": 276,
+        "end": 285
+      },
+      {
+        "category": "FECHAS_ESPECIFICAS",
+        "matched_text": "domingo 3 de noviembre",
+        "position": [
+          5,
+          27
+        ],
+        "start": 5,
+        "end": 27
+      },
+      {
+        "category": "ANTIIMPERIALISMO_SOBERANIA",
+        "matched_text": "embargo",
+        "position": [
+          242,
+          249
+        ],
+        "start": 242,
+        "end": 249
+      }
+    ],
+    "match_count": 15
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Bolivia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Venezuela",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Fidan",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "António Guterres",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Nicaragua",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Noruega",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Türkiye",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Vietnam",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Asamblea General",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Senegal",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Organización de Naciones Unidas",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Djibouti",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Consejo de Seguridad de la ONU",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "ONU",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Philemon Yang",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Sudáfrica",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Brasil",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Rusia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Organización de la Cooperación Islámica",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Hakan Fidan",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Colombia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Estados",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Corte Internacional de Justicia",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Liga Árabe",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Netanyahu",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Estado de Israel",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Fidan",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Israel",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Reino Unido",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Asamblea General de la ONU",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Cuba",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "México",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Hakan Fidan",
+        "relacion": "COMUNICAR",
+        "objeto": "Organización de Naciones Unidas"
+      },
+      {
+        "sujeto": "Hakan Fidan",
+        "relacion": "COMUNICAR",
+        "objeto": "Estado de Israel"
+      },
+      {
+        "sujeto": "Organización de Naciones Unidas",
+        "relacion": "ENVIAR_COMUNICAR",
+        "objeto": "Estado de Israel"
+      },
+      {
+        "sujeto": "Djibouti",
+        "relacion": "MENCIONAR",
+        "objeto": "Gaza"
+      },
+      {
+        "sujeto": "Netanyahu",
+        "relacion": "SEGUIR",
+        "objeto": "Estados"
+      },
+      {
+        "sujeto": "Türkiye",
+        "relacion": "SURGIR_OBTENER",
+        "objeto": "Colombia"
+      },
+      {
+        "sujeto": "Türkiye",
+        "relacion": "SURGIR_OBTENER",
+        "objeto": "Cuba"
+      },
+      {
+        "sujeto": "Türkiye",
+        "relacion": "SURGIR_OBTENER",
+        "objeto": "Bolivia"
+      },
+      {
+        "sujeto": "Türkiye",
+        "relacion": "SURGIR_OBTENER",
+        "objeto": "Brasil"
+      },
+      {
+        "sujeto": "Türkiye",
+        "relacion": "SURGIR_OBTENER",
+        "objeto": "Venezuela"
+      },
+      {
+        "sujeto": "Türkiye",
+        "relacion": "SURGIR_OBTENER",
+        "objeto": "Sudáfrica"
+      },
+      {
+        "sujeto": "Türkiye",
+        "relacion": "SURGIR_OBTENER",
+        "objeto": "México"
+      },
+      {
+        "sujeto": "Türkiye",
+        "relacion": "SURGIR_OBTENER",
+        "objeto": "Nicaragua"
+      },
+      {
+        "sujeto": "Türkiye",
+        "relacion": "SURGIR_OBTENER",
+        "objeto": "Rusia"
+      },
+      {
+        "sujeto": "Türkiye",
+        "relacion": "SURGIR_OBTENER",
+        "objeto": "Noruega"
+      },
+      {
+        "sujeto": "Türkiye",
+        "relacion": "SURGIR_OBTENER",
+        "objeto": "Senegal"
+      },
+      {
+        "sujeto": "Türkiye",
+        "relacion": "SURGIR_OBTENER",
+        "objeto": "Vietnam"
+      },
+      {
+        "sujeto": "Türkiye",
+        "relacion": "SURGIR_OBTENER",
+        "objeto": "Liga Árabe"
+      },
+      {
+        "sujeto": "Türkiye",
+        "relacion": "SURGIR_OBTENER",
+        "objeto": "Organización de la Cooperación Islámica"
+      },
+      {
+        "sujeto": "Fidan",
+        "relacion": "VENDER_DECIR_APROVECHAR_ASEVERAR",
+        "objeto": "Israel"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "DECLARAR_TOMAR_INSTAR",
+        "objeto": "Asamblea General de la ONU"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.6705,
+    "pos": 0.018,
+    "neu": 0.982,
+    "neg": 0.0,
+    "label": "positive"
+  }
+}

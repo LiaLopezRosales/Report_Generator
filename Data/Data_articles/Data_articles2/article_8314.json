@@ -1,0 +1,503 @@
+{
+  "url": "https://www.telesurtv.net/en-imagenes-clausura-el-congreso-del-bloque-historico-con-resultados-trascendentales/",
+  "title": "En imágenes: Clausura el Congreso del Bloque Histórico con resultados trascendentales - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "Bloque Histórico",
+    "clausura",
+    "Congreso",
+    "Socialismo"
+  ],
+  "text": "Con una gran manifestación popular de apoyo a la construcción del Bloque Histórico culminó el Congreso que durante tres días se reunió para decidir cómo se realizará la transformación general de Venezuela.\nEn el acto de clausura, el Jefe de Estado resaltó la importancia de la unión popular ante los intereses contrarrevolucionarios de la derecha: “¿Cuándo la ultraderecha venezolana ha consultado a sus seguidores sobre algún tema? Si algo tiene la derecha es su carácter elitesco, excluyente y antidemocrático. Son los apellidos los que deciden, lo demás no importan”.\nEl mandatario denunció que el imperialismo busca afectar la estabilidad política de Venezuela y mantiene planes de conspiración, ante los cuales llamó al pueblo a mantenerse unidos y convertir al país en una potencia por encima de esos planes desestabilizadores.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/en-imagenes-clausura-el-congreso-del-bloque-historico-con-resultados-trascendentales/",
+    "json_file": "Data/teleSUR_tv/2024/mensajes_teleSUR_tv_2024-11.json",
+    "message_index": 844,
+    "message_id": 80592,
+    "date": "2024-11-17T23:55:07+00:00",
+    "text": "teleSUR\nEn imágenes: Clausura el Congreso del Bloque Histórico con resultados trascendentales\nhttps://www.telesurtv.net/en-imagenes-clausura-el-congreso-del-bloque-historico-con-resultados-trascendentales/",
+    "photo_path": null,
+    "views": 3229,
+    "reactions": {
+      "❤": 44,
+      "👍": 13,
+      "🤔": 2
+    },
+    "total_reactions": 59
+  },
+  "preprocessing": {
+    "cleaned": "con una gran manifestación popular de apoyo a la construcción del bloque histórico culminó el congreso que durante tres días se reunió para decidir cómo se realizará la transformación general de venezuela. en el acto de clausura, el jefe de estado resaltó la importancia de la unión popular ante los intereses contrarrevolucionarios de la derecha: “¿cuándo la ultraderecha venezolana ha consultado a sus seguidores sobre algún tema? si algo tiene la derecha es su carácter elitesco, excluyente y antidemocrático. son los apellidos los que deciden, lo demás no importan”. el mandatario denunció que el imperialismo busca afectar la estabilidad política de venezuela y mantiene planes de conspiración, ante los cuales llamó al pueblo a mantenerse unidos y convertir al país en una potencia por encima de esos planes desestabilizadores.",
+    "tokens": [
+      "gran",
+      "manifestación",
+      "popular",
+      "apoyo",
+      "construcción",
+      "bloque",
+      "histórico",
+      "culminó",
+      "congreso",
+      "tres",
+      "días",
+      "reunió",
+      "decidir",
+      "cómo",
+      "realizará",
+      "transformación",
+      "general",
+      "venezuela",
+      ".",
+      "acto",
+      "clausura",
+      ",",
+      "jefe",
+      "resaltó",
+      "importancia",
+      "unión",
+      "popular",
+      "intereses",
+      "contrarrevolucionarios",
+      "derecha",
+      ":",
+      "“",
+      "¿cuándo",
+      "ultraderecha",
+      "venezolana",
+      "consultado",
+      "seguidores",
+      "algún",
+      "tema",
+      "?",
+      "si",
+      "derecha",
+      "carácter",
+      "elitesco",
+      ",",
+      "excluyente",
+      "antidemocrático",
+      ".",
+      "apellidos",
+      "deciden",
+      ",",
+      "demás",
+      "importan",
+      "”",
+      ".",
+      "mandatario",
+      "denunció",
+      "imperialismo",
+      "busca",
+      "afectar",
+      "estabilidad",
+      "política",
+      "venezuela",
+      "mantiene",
+      "planes",
+      "conspiración",
+      ",",
+      "cuales",
+      "llamó",
+      "pueblo",
+      "mantenerse",
+      "unidos",
+      "convertir",
+      "país",
+      "potencia",
+      "encima",
+      "planes",
+      "desestabilizadores",
+      "."
+    ],
+    "token_count": 79,
+    "sentence_count": 5
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 13,
+      "JJ": 16,
+      "NN": 48,
+      "FW": 28,
+      "NNS": 6,
+      "VBP": 2,
+      "VBZ": 4,
+      "IN": 4,
+      "VBD": 1,
+      "DT": 1
+    },
+    "bigram_freq": {
+      "NNP-JJ": 1,
+      "JJ-NN": 10,
+      "NN-NN": 29,
+      "NN-JJ": 4,
+      "JJ-FW": 3,
+      "FW-FW": 16,
+      "FW-NNP": 6,
+      "NNP-NNP": 2,
+      "NNP-NN": 5,
+      "NN-NNP": 2,
+      "NN-NNS": 3,
+      "NNS-VBP": 2,
+      "VBP-JJ": 2,
+      "NN-FW": 5,
+      "FW-NN": 3,
+      "JJ-JJ": 2,
+      "NNP-FW": 3,
+      "FW-JJ": 2,
+      "NN-VBZ": 3,
+      "VBZ-NNS": 1,
+      "NNS-IN": 2,
+      "IN-FW": 1,
+      "VBZ-JJ": 2,
+      "NNP-VBZ": 1,
+      "NN-IN": 2,
+      "IN-NNP": 1,
+      "NNP-VBD": 1,
+      "VBD-JJ": 1,
+      "VBZ-DT": 1,
+      "DT-JJ": 1,
+      "JJ-NNP": 1,
+      "IN-NN": 1,
+      "IN-JJ": 1,
+      "FW-NNS": 1,
+      "NNS-NNS": 1
+    },
+    "trigram_freq": {
+      "NNP-JJ-NN": 1,
+      "JJ-NN-NN": 9,
+      "NN-NN-JJ": 3,
+      "NN-JJ-FW": 1,
+      "JJ-FW-FW": 2,
+      "FW-FW-FW": 10,
+      "FW-FW-NNP": 3,
+      "FW-NNP-NNP": 2,
+      "NNP-NNP-NN": 1,
+      "NNP-NN-NN": 4,
+      "NN-NN-NNP": 2,
+      "NN-NNP-NN": 1,
+      "NN-NN-NNS": 2,
+      "NN-NNS-VBP": 2,
+      "NNS-VBP-JJ": 2,
+      "VBP-JJ-NN": 2,
+      "NN-NN-NN": 13,
+      "NN-NN-FW": 4,
+      "NN-FW-NN": 2,
+      "FW-NN-NN": 2,
+      "NN-JJ-JJ": 1,
+      "JJ-JJ-FW": 1,
+      "JJ-FW-NNP": 1,
+      "NNP-NNP-FW": 1,
+      "NNP-FW-FW": 1,
+      "FW-NNP-FW": 2,
+      "NNP-FW-NNP": 1,
+      "FW-NNP-NN": 2,
+      "NN-FW-FW": 2,
+      "FW-FW-JJ": 1,
+      "FW-JJ-JJ": 1,
+      "JJ-JJ-NN": 1,
+      "NN-NN-VBZ": 3,
+      "NN-VBZ-NNS": 1,
+      "VBZ-NNS-IN": 1,
+      "NNS-IN-FW": 1,
+      "IN-FW-FW": 1,
+      "NNP-FW-JJ": 1,
+      "FW-JJ-NN": 1,
+      "NN-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 1,
+      "NN-NNP-VBZ": 1,
+      "NNP-VBZ-JJ": 1,
+      "VBZ-JJ-FW": 1,
+      "FW-FW-NN": 1,
+      "NN-NN-IN": 2,
+      "NN-IN-NNP": 1,
+      "IN-NNP-VBD": 1,
+      "NNP-VBD-JJ": 1,
+      "VBD-JJ-NN": 1,
+      "JJ-NN-JJ": 1,
+      "NN-JJ-NN": 2,
+      "NN-VBZ-DT": 1,
+      "VBZ-DT-JJ": 1,
+      "DT-JJ-NNP": 1,
+      "JJ-NNP-NN": 1,
+      "FW-NN-FW": 1,
+      "NN-FW-NNP": 1,
+      "NNP-NN-NNS": 1,
+      "NN-NNS-IN": 1,
+      "NNS-IN-NN": 1,
+      "IN-NN-NN": 1,
+      "NN-IN-JJ": 1,
+      "IN-JJ-NN": 1,
+      "FW-FW-NNS": 1,
+      "FW-NNS-NNS": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 48,
+        "FW": 28,
+        "JJ": 16,
+        "NNP": 13,
+        "NNS": 6
+      },
+      "top_bigrams": {
+        "NN-NN": 29,
+        "FW-FW": 16,
+        "JJ-NN": 10,
+        "FW-NNP": 6,
+        "NNP-NN": 5
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 13,
+        "FW-FW-FW": 10,
+        "JJ-NN-NN": 9,
+        "NNP-NN-NN": 4,
+        "NN-NN-FW": 4
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 5,
+    "chunk_counts": {
+      "NP": 34,
+      "ADJP": 3,
+      "VP": 7,
+      "PP": 2
+    },
+    "top_rules": [
+      {
+        "rule": "NP -> ('Venezuela', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0392
+      },
+      {
+        "rule": "S -> NP NP ADJP ('de', 'FW') ('apoyo', 'FW') NP VP ('se', 'FW') NP ADJP ADJP ('de', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0196
+      },
+      {
+        "rule": "NP -> ('Con', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0196
+      },
+      {
+        "rule": "NP -> ('una', 'JJ') ('gran', 'NN') ('manifestación', 'NN')",
+        "frequency": 1,
+        "weight": 0.0196
+      },
+      {
+        "rule": "ADJP -> ('popular', 'JJ')",
+        "frequency": 1,
+        "weight": 0.0196
+      },
+      {
+        "rule": "NP -> ('a', 'DT') ('la', 'NN') ('construcción', 'NN') ('del', 'NN') ('Bloque', 'NNP') ('Histórico', 'NNP') ('culminó', 'NN') ('el', 'NN') ('Congreso', 'NNP') ('que', 'NN') ('durante', 'NN') ('tres', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0196
+      },
+      {
+        "rule": "VP -> ('días', 'VBP') NP",
+        "frequency": 1,
+        "weight": 0.0196
+      },
+      {
+        "rule": "NP -> ('se', 'JJ') ('reunió', 'NN') ('para', 'NN') ('decidir', 'NN') ('cómo', 'NN')",
+        "frequency": 1,
+        "weight": 0.0196
+      },
+      {
+        "rule": "NP -> ('realizará', 'NN') ('la', 'NN')",
+        "frequency": 1,
+        "weight": 0.0196
+      },
+      {
+        "rule": "ADJP -> ('transformación', 'JJ')",
+        "frequency": 1,
+        "weight": 0.0196
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Con"
+      },
+      {
+        "label": "NP",
+        "text": "una gran manifestación"
+      },
+      {
+        "label": "ADJP",
+        "text": "popular"
+      },
+      {
+        "label": "NP",
+        "text": "a la construcción del Bloque Histórico culminó el Congreso que durante tres"
+      },
+      {
+        "label": "VP",
+        "text": "días se reunió para decidir cómo"
+      },
+      {
+        "label": "NP",
+        "text": "se reunió para decidir cómo"
+      },
+      {
+        "label": "NP",
+        "text": "realizará la"
+      },
+      {
+        "label": "ADJP",
+        "text": "transformación"
+      },
+      {
+        "label": "ADJP",
+        "text": "general"
+      },
+      {
+        "label": "NP",
+        "text": "Venezuela"
+      },
+      {
+        "label": "NP",
+        "text": "En"
+      },
+      {
+        "label": "NP",
+        "text": "Jefe"
+      },
+      {
+        "label": "NP",
+        "text": "Estado resaltó la"
+      },
+      {
+        "label": "NP",
+        "text": "unión popular ante los"
+      },
+      {
+        "label": "VP",
+        "text": "intereses contrarrevolucionarios"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Con/NNP)\n  (NP una/JJ gran/NN manifestación/NN)\n  (ADJP popular/JJ)\n  de/FW\n  apoyo/FW\n  (NP\n    a/DT\n    la/NN\n    construcción/NN\n    del/NN\n    Bloque/NNP\n    Histórico/NNP\n    culminó/NN\n    el/NN\n    Congreso/NNP\n    que/NN\n    durante/NN\n    tres/NNS)\n  (VP días/VBP (NP se/JJ reunió/NN para/NN decidir/NN cómo/NN))\n  se/FW\n  (NP realizará/NN la/NN)\n  (ADJP transformación/JJ)\n  (ADJP general/JJ)\n  de/FW\n  (NP Venezuela/NNP)\n  ./.)",
+      "(S\n  (NP En/NNP)\n  el/FW\n  acto/FW\n  de/FW\n  clausura/FW\n  ,/,\n  el/FW\n  (NP Jefe/NNP)\n  de/FW\n  (NP Estado/NNP resaltó/NN la/NN)\n  importancia/FW\n  de/FW\n  la/FW\n  (NP unión/JJ popular/JJ ante/NN los/NN)\n  (VP intereses/VBZ (NP contrarrevolucionarios/NNS))\n  de/IN\n  la/FW\n  (NP derecha/NN)\n  :/:\n  (NP “/JJ ¿Cuándo/NNP la/NN)\n  (NP ultraderecha/JJ venezolana/NN ha/NN)\n  (VP consultado/VBZ (NP a/DT sus/NN))\n  (VP seguidores/VBZ (NP sobre/JJ algún/NN tema/NN))\n  ?/.)",
+      "(S\n  (NP Si/NNP)\n  (VP algo/VBZ tiene/JJ)\n  la/FW\n  derecha/FW\n  es/FW\n  su/FW\n  (NP carácter/NN elitesco/NN)\n  ,/,\n  (NP excluyente/JJ y/NN antidemocrático/NN)\n  ./.)",
+      "(S\n  (NP Son/NNP)\n  (VP los/VBD (NP apellidos/JJ los/NN que/NN deciden/NN))\n  ,/,\n  (NP lo/JJ demás/NN)\n  (NP no/DT importan/JJ ”/NN)\n  ./.)",
+      "(S\n  (NP\n    El/NNP\n    mandatario/NN\n    denunció/NN\n    que/NN\n    el/NN\n    imperialismo/NN\n    busca/NN\n    afectar/NN\n    la/NN)\n  estabilidad/FW\n  (NP política/NN)\n  de/FW\n  (NP Venezuela/NNP)\n  y/CC\n  (NP mantiene/JJ planes/NNS)\n  (PP de/IN (NP conspiración/NN))\n  ,/,\n  (NP ante/JJ los/NN cuales/NNS)\n  (VP\n    llamó/VBP\n    (NP al/JJ pueblo/NN)\n    (NP a/DT mantenerse/NN)\n    (NP unidos/JJ y/NN convertir/NN al/NN país/NN))\n  (PP en/IN (NP una/JJ potencia/NN por/NN))\n  encima/FW\n  de/FW\n  esos/FW\n  (NP planes/NNS desestabilizadores/NNS)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "ANTIIMPERIALISMO_SOBERANIA",
+      "ACCIONES_LEGALES",
+      "REGIONES_PROVINCIAS",
+      "PAISES",
+      "PROTESTAS_CONFLICTOS_SOCIALES",
+      "CONFLICTOS_ARMADOS_OPERACIONES"
+    ],
+    "matches": [
+      {
+        "category": "PROTESTAS_CONFLICTOS_SOCIALES",
+        "matched_text": "manifestación popular de apoyo a la construcción",
+        "position": [
+          13,
+          61
+        ],
+        "start": 13,
+        "end": 61
+      },
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "denunció que el imperialismo busca afectar la estabilidad política de venezuela y mantiene planes de conspiración, ante los cuales llamó al",
+        "position": [
+          585,
+          724
+        ],
+        "start": 585,
+        "end": 724
+      },
+      {
+        "category": "ACCIONES_LEGALES",
+        "matched_text": "denunció",
+        "position": [
+          585,
+          593
+        ],
+        "start": 585,
+        "end": 593
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "venezuela",
+        "position": [
+          195,
+          204
+        ],
+        "start": 195,
+        "end": 204
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "estado resaltó",
+        "position": [
+          241,
+          255
+        ],
+        "start": 241,
+        "end": 255
+      },
+      {
+        "category": "ANTIIMPERIALISMO_SOBERANIA",
+        "matched_text": "imperialismo",
+        "position": [
+          601,
+          613
+        ],
+        "start": 601,
+        "end": 613
+      }
+    ],
+    "match_count": 6
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Congreso",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Bloque Histórico",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Jefe de Estado",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Venezuela",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Bloque Histórico",
+        "relacion": "CULMINAR",
+        "objeto": "Congreso"
+      },
+      {
+        "sujeto": "Bloque Histórico",
+        "relacion": "CULMINAR",
+        "objeto": "Venezuela"
+      },
+      {
+        "sujeto": "Congreso",
+        "relacion": "CULMINAR",
+        "objeto": "Venezuela"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.7003,
+    "pos": 0.062,
+    "neu": 0.921,
+    "neg": 0.017,
+    "label": "positive"
+  }
+}

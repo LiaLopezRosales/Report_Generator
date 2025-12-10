@@ -1,0 +1,742 @@
+{
+  "url": "https://www.telesurtv.net/egipto-y-catar-presentan-nueva-propuesta-de-tregua-en-gaza-con-garantias-internacionales/",
+  "title": "Egipto y Catar presentan nueva propuesta de tregua en Gaza con garantías internacionales - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Gaza",
+    "Hamas",
+    "Israel",
+    "Palestina",
+    "Qatar"
+  ],
+  "text": "Los gobiernos de Egipto y Catar, principales mediadores en el conflicto entre Israel y Hamás, han entregado al grupo palestino una nueva propuesta de tregua que contempla un alto el fuego de entre 5 y 7 años, la liberación de todos los rehenes en Gaza y la excarcelación de prisioneros palestinos en Israel.\nLEA TAMBIÉN:Hamas propone intercambio integral de prisioneros y exige fin del genocidio\nEl plan también exige la retirada del Ejército israelí de Gaza y la reconstrucción del enclave palestino con garantías internacionales. La organización palestina ha recibido los detalles del documento y, según la fuente, ha mostrado “flexibilidad sin precedentes” en torno a los términos de la propuesta.\nAdemás, Hamás ha expresado su disposición a entregar el poder en Gaza a una entidad palestina, que podría ser la Autoridad Nacional Palestina o un nuevo organismo administrativo, aunque aún no se han revelado más detalles sobre este punto.\nSe espera que una delegación de Hamás, liderada por su principal negociador Jalil al Haya, viaje a El Cairo este martes para discutir la nueva iniciativa con autoridades egipcias.\nLa propuesta llega tras la negativa de Hamás, a mediados de abril, a aceptar otro acuerdo que exigía el desarme total de la organización, condición que la formación palestina consideró “inaceptable”, reiterando su negativa a renunciar a las armas de la resistencia.\nActualmente, Hamás retiene a 59 israelíes en Gaza, de los cuales se estima que 24 continúan con vida. La liberación de los cautivos estaba prevista en la segunda fase de la tregua alcanzada en enero, pero Israel bloqueó el proceso a principios de marzo. En ese contexto, Hamás propuso en marzo la liberación del soldado Edan Alexander, de doble nacionalidad estadounidense-israelí, junto con los cuerpos de otras cuatro rehenes, a cambio de reanudar las negociaciones indirectas.\n",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/egipto-y-catar-presentan-nueva-propuesta-de-tregua-en-gaza-con-garantias-internacionales/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-04.json",
+    "message_index": 576,
+    "message_id": 92449,
+    "date": "2025-04-22T12:55:07+00:00",
+    "text": "teleSUR\nEgipto y Catar presentan nueva propuesta de tregua en Gaza con garantías internacionales\nhttps://www.telesurtv.net/egipto-y-catar-presentan-nueva-propuesta-de-tregua-en-gaza-con-garantias-internacionales/",
+    "photo_path": null,
+    "views": 2412,
+    "reactions": {
+      "🔥": 22,
+      "👍": 16,
+      "🤔": 6,
+      "👻": 1
+    },
+    "total_reactions": 45
+  },
+  "preprocessing": {
+    "cleaned": "los gobiernos de egipto y catar, principales mediadores en el conflicto entre israel y hamás, han entregado al grupo palestino una nueva propuesta de tregua que contempla un alto el fuego de entre 5 y 7 años, la liberación de todos los rehenes en gaza y la excarcelación de prisioneros palestinos en israel. el plan también exige la retirada del ejército israelí de gaza y la reconstrucción del enclave palestino con garantías internacionales. la organización palestina ha recibido los detalles del documento y, según la fuente, ha mostrado “flexibilidad sin precedentes” en torno a los términos de la propuesta. además, hamás ha expresado su disposición a entregar el poder en gaza a una entidad palestina, que podría ser la autoridad nacional palestina o un nuevo organismo administrativo, aunque aún no se han revelado más detalles sobre este punto. se espera que una delegación de hamás, liderada por su principal negociador jalil al haya, viaje a el cairo este martes para discutir la nueva iniciativa con autoridades egipcias. la propuesta llega tras la negativa de hamás, a mediados de abril, a aceptar otro acuerdo que exigía el desarme total de la organización, condición que la formación palestina consideró “inaceptable”, reiterando su negativa a renunciar a las armas de la resistencia. actualmente, hamás retiene a 59 israelíes en gaza, de los cuales se estima que 24 continúan con vida. la liberación de los cautivos estaba prevista en la segunda fase de la tregua alcanzada en enero, pero israel bloqueó el proceso a principios de marzo. en ese contexto, hamás propuso en marzo la liberación del soldado edan alexander, de doble nacionalidad estadounidense-israelí, junto con los cuerpos de otras cuatro rehenes, a cambio de reanudar las negociaciones indirectas.",
+    "tokens": [
+      "gobiernos",
+      "egipto",
+      "catar",
+      ",",
+      "principales",
+      "mediadores",
+      "conflicto",
+      "israel",
+      "hamás",
+      ",",
+      "entregado",
+      "grupo",
+      "palestino",
+      "nueva",
+      "propuesta",
+      "tregua",
+      "contempla",
+      "alto",
+      "fuego",
+      "5",
+      "7",
+      "años",
+      ",",
+      "liberación",
+      "rehenes",
+      "gaza",
+      "excarcelación",
+      "prisioneros",
+      "palestinos",
+      "israel",
+      ".",
+      "plan",
+      "exige",
+      "retirada",
+      "ejército",
+      "israelí",
+      "gaza",
+      "reconstrucción",
+      "enclave",
+      "palestino",
+      "garantías",
+      "internacionales",
+      ".",
+      "organización",
+      "palestina",
+      "recibido",
+      "detalles",
+      "documento",
+      ",",
+      "según",
+      "fuente",
+      ",",
+      "mostrado",
+      "“",
+      "flexibilidad",
+      "precedentes",
+      "”",
+      "torno",
+      "términos",
+      "propuesta",
+      ".",
+      "además",
+      ",",
+      "hamás",
+      "expresado",
+      "disposición",
+      "entregar",
+      "poder",
+      "gaza",
+      "entidad",
+      "palestina",
+      ",",
+      "podría",
+      "ser",
+      "autoridad",
+      "nacional",
+      "palestina",
+      "nuevo",
+      "organismo",
+      "administrativo",
+      ",",
+      "aunque",
+      "aún",
+      "revelado",
+      "detalles",
+      "punto",
+      ".",
+      "espera",
+      "delegación",
+      "hamás",
+      ",",
+      "liderada",
+      "principal",
+      "negociador",
+      "jalil",
+      ",",
+      "viaje",
+      "cairo",
+      "martes",
+      "discutir",
+      "nueva",
+      "iniciativa",
+      "autoridades",
+      "egipcias",
+      ".",
+      "propuesta",
+      "llega",
+      "tras",
+      "negativa",
+      "hamás",
+      ",",
+      "mediados",
+      "abril",
+      ",",
+      "aceptar",
+      "acuerdo",
+      "exigía",
+      "desarme",
+      "total",
+      "organización",
+      ",",
+      "condición",
+      "formación",
+      "palestina",
+      "consideró",
+      "“",
+      "inaceptable",
+      "”",
+      ",",
+      "reiterando",
+      "negativa",
+      "renunciar",
+      "armas",
+      "resistencia",
+      ".",
+      "actualmente",
+      ",",
+      "hamás",
+      "retiene",
+      "59",
+      "israelíes",
+      "gaza",
+      ",",
+      "cuales",
+      "estima",
+      "24",
+      "continúan",
+      "vida",
+      ".",
+      "liberación",
+      "cautivos",
+      "prevista",
+      "segunda",
+      "fase",
+      "tregua",
+      "alcanzada",
+      "enero",
+      ",",
+      "israel",
+      "bloqueó",
+      "proceso",
+      "principios",
+      "marzo",
+      ".",
+      "contexto",
+      ",",
+      "hamás",
+      "propuso",
+      "marzo",
+      "liberación",
+      "soldado",
+      "edan",
+      "alexander",
+      ",",
+      "doble",
+      "nacionalidad",
+      "estadounidense-israelí",
+      ",",
+      "junto",
+      "cuerpos",
+      "cuatro",
+      "rehenes",
+      ",",
+      "cambio",
+      "reanudar",
+      "negociaciones",
+      "indirectas",
+      "."
+    ],
+    "token_count": 188,
+    "sentence_count": 9
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 37,
+      "FW": 71,
+      "VBZ": 5,
+      "NNS": 14,
+      "IN": 13,
+      "NN": 88,
+      "JJ": 36,
+      "VBP": 8,
+      "DT": 1,
+      "CC": 1,
+      "VBD": 1,
+      "CD": 2
+    },
+    "bigram_freq": {
+      "NNP-FW": 9,
+      "FW-FW": 41,
+      "FW-NNP": 8,
+      "NNP-NNP": 11,
+      "NNP-VBZ": 1,
+      "VBZ-NNS": 1,
+      "NNS-IN": 3,
+      "IN-FW": 9,
+      "FW-NN": 8,
+      "NN-NN": 41,
+      "NN-NNP": 10,
+      "NNP-NN": 10,
+      "NN-JJ": 12,
+      "JJ-JJ": 5,
+      "JJ-NN": 21,
+      "NN-IN": 9,
+      "FW-JJ": 10,
+      "JJ-FW": 4,
+      "FW-NNS": 3,
+      "NNS-FW": 1,
+      "IN-NNP": 3,
+      "NN-VBZ": 4,
+      "VBZ-JJ": 2,
+      "FW-VBP": 1,
+      "VBP-NN": 3,
+      "NN-NNS": 5,
+      "NNS-NNP": 1,
+      "NNP-VBP": 1,
+      "NNS-VBP": 6,
+      "VBP-JJ": 3,
+      "VBZ-IN": 1,
+      "IN-NN": 1,
+      "NNP-JJ": 3,
+      "NN-FW": 6,
+      "VBZ-DT": 1,
+      "DT-NN": 1,
+      "NNP-CC": 1,
+      "CC-JJ": 1,
+      "JJ-NNP": 2,
+      "VBP-NNP": 1,
+      "JJ-NNS": 4,
+      "VBP-FW": 1,
+      "NNP-VBD": 1,
+      "VBD-CD": 1,
+      "CD-NN": 2,
+      "NN-CD": 1,
+      "NNS-NN": 1,
+      "NNS-NNS": 1
+    },
+    "trigram_freq": {
+      "NNP-FW-FW": 7,
+      "FW-FW-NNP": 6,
+      "FW-NNP-NNP": 3,
+      "NNP-NNP-VBZ": 1,
+      "NNP-VBZ-NNS": 1,
+      "VBZ-NNS-IN": 1,
+      "NNS-IN-FW": 2,
+      "IN-FW-NN": 1,
+      "FW-NN-NN": 4,
+      "NN-NN-NNP": 5,
+      "NN-NNP-NNP": 4,
+      "NNP-NNP-NN": 4,
+      "NNP-NN-NN": 4,
+      "NN-NN-NN": 20,
+      "NN-NN-JJ": 7,
+      "NN-JJ-JJ": 3,
+      "JJ-JJ-NN": 2,
+      "JJ-NN-IN": 5,
+      "NN-IN-FW": 7,
+      "IN-FW-JJ": 5,
+      "FW-JJ-NN": 4,
+      "JJ-NN-JJ": 2,
+      "NN-JJ-NN": 7,
+      "JJ-NN-NN": 9,
+      "NN-NN-IN": 3,
+      "FW-JJ-FW": 2,
+      "JJ-FW-FW": 4,
+      "FW-FW-FW": 25,
+      "FW-FW-NNS": 3,
+      "FW-NNS-FW": 1,
+      "NNS-FW-NNP": 1,
+      "FW-NNP-FW": 4,
+      "FW-NNS-IN": 1,
+      "NNS-IN-NNP": 1,
+      "IN-NNP-NNP": 1,
+      "NNP-NNP-NNP": 3,
+      "NNP-NN-JJ": 1,
+      "JJ-JJ-FW": 1,
+      "FW-FW-NN": 4,
+      "NN-NNP-NN": 5,
+      "NNP-NN-VBZ": 1,
+      "NN-VBZ-JJ": 2,
+      "VBZ-JJ-FW": 1,
+      "FW-FW-VBP": 1,
+      "FW-VBP-NN": 1,
+      "VBP-NN-NN": 3,
+      "NN-NN-NNS": 2,
+      "NN-NNS-NNP": 1,
+      "NNS-NNP-VBP": 1,
+      "NNP-VBP-NN": 1,
+      "NN-NNS-VBP": 4,
+      "NNS-VBP-JJ": 3,
+      "VBP-JJ-NN": 3,
+      "NN-NN-VBZ": 2,
+      "NN-VBZ-IN": 1,
+      "VBZ-IN-NN": 1,
+      "IN-NN-JJ": 1,
+      "IN-FW-FW": 2,
+      "NN-IN-NNP": 2,
+      "IN-NNP-JJ": 1,
+      "NNP-JJ-NN": 3,
+      "NN-NN-FW": 2,
+      "NN-FW-NN": 3,
+      "NNP-NNP-JJ": 1,
+      "NN-VBZ-DT": 1,
+      "VBZ-DT-NN": 1,
+      "DT-NN-VBZ": 1,
+      "VBZ-JJ-NN": 1,
+      "JJ-NN-NNS": 2,
+      "NNS-VBP-NN": 1,
+      "IN-NNP-CC": 1,
+      "NNP-CC-JJ": 1,
+      "CC-JJ-NN": 1,
+      "JJ-JJ-NNP": 1,
+      "JJ-NNP-NN": 1,
+      "NNP-NN-NNP": 2,
+      "NNP-NN-NNS": 1,
+      "JJ-NN-FW": 1,
+      "NN-FW-JJ": 1,
+      "NNS-VBP-NNP": 1,
+      "VBP-NNP-FW": 1,
+      "NNP-FW-JJ": 2,
+      "FW-JJ-NNS": 3,
+      "JJ-NNS-VBP": 1,
+      "NNS-VBP-FW": 1,
+      "VBP-FW-FW": 1,
+      "FW-FW-JJ": 2,
+      "FW-NN-FW": 2,
+      "NN-FW-FW": 2,
+      "NNP-NNP-VBD": 1,
+      "NNP-VBD-CD": 1,
+      "VBD-CD-NN": 1,
+      "CD-NN-JJ": 1,
+      "NN-JJ-NNP": 1,
+      "JJ-NNP-FW": 1,
+      "FW-NNS-VBP": 1,
+      "JJ-NN-CD": 1,
+      "NN-CD-NN": 1,
+      "CD-NN-NN": 1,
+      "NN-NNP-FW": 1,
+      "FW-NN-NNP": 2,
+      "NN-JJ-NNS": 1,
+      "JJ-NNS-IN": 1,
+      "IN-FW-NNP": 1,
+      "FW-NNP-JJ": 1,
+      "JJ-NN-NNP": 1,
+      "NNP-NN-FW": 1,
+      "NNP-NNP-FW": 1,
+      "FW-JJ-JJ": 1,
+      "JJ-JJ-JJ": 1,
+      "JJ-NNS-NN": 1,
+      "NNS-NN-IN": 1,
+      "JJ-NNS-NNS": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 88,
+        "FW": 71,
+        "NNP": 37,
+        "JJ": 36,
+        "NNS": 14
+      },
+      "top_bigrams": {
+        "FW-FW": 41,
+        "NN-NN": 41,
+        "JJ-NN": 21,
+        "NN-JJ": 12,
+        "NNP-NNP": 11
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 25,
+        "NN-NN-NN": 20,
+        "JJ-NN-NN": 9,
+        "NNP-FW-FW": 7,
+        "NN-NN-JJ": 7
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 9,
+    "chunk_counts": {
+      "NP": 86,
+      "VP": 19,
+      "PP": 3,
+      "ADJP": 3
+    },
+    "top_rules": [
+      {
+        "rule": "NP -> ('Hamás', 'NNP')",
+        "frequency": 4,
+        "weight": 0.0333
+      },
+      {
+        "rule": "NP -> ('Gaza', 'NNP')",
+        "frequency": 3,
+        "weight": 0.025
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0167
+      },
+      {
+        "rule": "NP -> ('La', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0167
+      },
+      {
+        "rule": "S -> NP ('gobiernos', 'FW') ('de', 'FW') NP (',', ',') VP ('en', 'IN') ('el', 'FW') NP (',', ',') NP NP ('de', 'IN') ('tregua', 'FW') NP NP ('de', 'IN') ('entre', 'FW') ('5', 'CD') NP ('7', 'CD') NP (',', ',') ('la', 'FW') ('liberación', 'FW') ('de', 'FW') ('todos', 'FW') ('los', 'FW') NP PP ('excarcelación', 'FW') ('de', 'FW') ('prisioneros', 'FW') NP PP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0083
+      },
+      {
+        "rule": "NP -> ('Los', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0083
+      },
+      {
+        "rule": "NP -> ('Egipto', 'NNP') ('y', 'NNP') ('Catar', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0083
+      },
+      {
+        "rule": "VP -> ('principales', 'VBZ') NP",
+        "frequency": 1,
+        "weight": 0.0083
+      },
+      {
+        "rule": "NP -> ('mediadores', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0083
+      },
+      {
+        "rule": "NP -> ('conflicto', 'NN') ('entre', 'NN') ('Israel', 'NNP') ('y', 'NNP') ('Hamás', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0083
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Los"
+      },
+      {
+        "label": "NP",
+        "text": "Egipto y Catar"
+      },
+      {
+        "label": "VP",
+        "text": "principales mediadores"
+      },
+      {
+        "label": "NP",
+        "text": "mediadores"
+      },
+      {
+        "label": "NP",
+        "text": "conflicto entre Israel y Hamás"
+      },
+      {
+        "label": "NP",
+        "text": "han entregado al grupo palestino"
+      },
+      {
+        "label": "NP",
+        "text": "una nueva propuesta"
+      },
+      {
+        "label": "NP",
+        "text": "que contempla"
+      },
+      {
+        "label": "NP",
+        "text": "un alto el fuego"
+      },
+      {
+        "label": "NP",
+        "text": "y"
+      },
+      {
+        "label": "NP",
+        "text": "años"
+      },
+      {
+        "label": "NP",
+        "text": "rehenes"
+      },
+      {
+        "label": "PP",
+        "text": "en Gaza y la"
+      },
+      {
+        "label": "NP",
+        "text": "Gaza y la"
+      },
+      {
+        "label": "NP",
+        "text": "palestinos"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Los/NNP)\n  gobiernos/FW\n  de/FW\n  (NP Egipto/NNP y/NNP Catar/NNP)\n  ,/,\n  (VP principales/VBZ (NP mediadores/NNS))\n  en/IN\n  el/FW\n  (NP conflicto/NN entre/NN Israel/NNP y/NNP Hamás/NNP)\n  ,/,\n  (NP han/NN entregado/NN al/NN grupo/NN palestino/NN)\n  (NP una/JJ nueva/JJ propuesta/NN)\n  de/IN\n  tregua/FW\n  (NP que/JJ contempla/NN)\n  (NP un/JJ alto/NN el/NN fuego/NN)\n  de/IN\n  entre/FW\n  5/CD\n  (NP y/NN)\n  7/CD\n  (NP años/NN)\n  ,/,\n  la/FW\n  liberación/FW\n  de/FW\n  todos/FW\n  los/FW\n  (NP rehenes/NNS)\n  (PP en/IN (NP Gaza/NNP y/NNP la/NNP))\n  excarcelación/FW\n  de/FW\n  prisioneros/FW\n  (NP palestinos/NNS)\n  (PP en/IN (NP Israel/NNP))\n  ./.)",
+      "(S\n  (NP LEA/NNP TAMBIÉN/NNP)\n  :/:\n  (NP Hamas/NNP propone/NN)\n  (ADJP intercambio/JJ)\n  (ADJP integral/JJ)\n  de/FW\n  prisioneros/FW\n  y/FW\n  exige/FW\n  (NP fin/NN del/NN genocidio/NN El/NNP plan/NN)\n  (VP también/VBZ exige/JJ)\n  la/FW\n  retirada/FW\n  del/FW\n  (NP Ejército/NNP)\n  israelí/FW\n  de/FW\n  (NP Gaza/NNP)\n  y/CC\n  (NP la/JJ reconstrucción/NN del/NN)\n  (VP\n    enclave/VBP\n    (NP palestino/NN con/NN garantías/NN internacionales/NNS))\n  ./.)",
+      "(S\n  (NP La/NNP)\n  organización/MD\n  (VP palestina/VB (NP ha/NN recibido/NN los/NN detalles/NNS))\n  (VP del/VBP (NP documento/NN y/NN))\n  ,/,\n  (NP según/JJ la/NN fuente/NN)\n  ,/,\n  (NP ha/NN mostrado/NN “/NNP flexibilidad/NN sin/NN)\n  (VP precedentes/VBZ (NP ”/NNP))\n  en/FW\n  (NP torno/NN)\n  (NP a/DT los/JJ términos/NN)\n  de/IN\n  la/FW\n  (NP propuesta/NN)\n  ./.)",
+      "(S\n  (NP Además/NNP)\n  ,/,\n  (NP Hamás/NNP)\n  (VP ha/VBZ)\n  expresado/FW\n  (NP su/NN)\n  (VP disposición/VBZ (NP a/DT entregar/NN el/NN poder/NN))\n  en/FW\n  (NP Gaza/NNP)\n  (NP a/DT una/JJ entidad/NN palestina/NN)\n  ,/,\n  (ADJP que/JJ)\n  podría/FW\n  (NP ser/NN la/NN Autoridad/NNP Nacional/NNP Palestina/NNP)\n  o/MD\n  (VP un/VB (NP nuevo/JJ organismo/NN administrativo/NN))\n  ,/,\n  (NP aunque/JJ aún/NN)\n  (NP no/DT se/NN)\n  (VP han/VBZ (NP revelado/JJ más/NN detalles/NNS))\n  (VP sobre/VBP (NP este/NN punto/NN))\n  ./.)",
+      "(S\n  (NP Se/NNP espera/NN que/NN)\n  (NP una/JJ delegación/NN)\n  (PP de/IN (NP Hamás/NNP))\n  ,/,\n  (VP\n    liderada/VBZ\n    (NP por/JJ su/NN)\n    (NP principal/JJ negociador/JJ Jalil/NNP al/NN Haya/NNP))\n  ,/,\n  (VP viaje/VBZ (NP a/DT El/NNP Cairo/NNP este/NN martes/NNS))\n  (VP para/VBP (NP discutir/JJ la/NN))\n  nueva/FW\n  (NP iniciativa/JJ con/NN autoridades/NNS)\n  (VP egipcias/VBP)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "TIEMPO_RELATIVO",
+      "PAISES",
+      "PROTESTAS_CONFLICTOS_SOCIALES",
+      "CONFLICTOS_ARMADOS_OPERACIONES"
+    ],
+    "matches": [
+      {
+        "category": "PROTESTAS_CONFLICTOS_SOCIALES",
+        "matched_text": "bloqueó",
+        "position": [
+          1599,
+          1606
+        ],
+        "start": 1599,
+        "end": 1606
+      },
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "conflicto entre israel",
+        "position": [
+          62,
+          84
+        ],
+        "start": 62,
+        "end": 84
+      },
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "conflicto entre israel y",
+        "position": [
+          62,
+          86
+        ],
+        "start": 62,
+        "end": 86
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "israelí",
+        "position": [
+          443,
+          450
+        ],
+        "start": 443,
+        "end": 450
+      },
+      {
+        "category": "TIEMPO_RELATIVO",
+        "matched_text": "actualmente",
+        "position": [
+          1387,
+          1398
+        ],
+        "start": 1387,
+        "end": 1398
+      }
+    ],
+    "match_count": 5
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "El Cairo",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Hamas",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Jalil",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Hamás",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Egipto",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Israel",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Edan Alexander",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Ejército israelí de Gaza",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Autoridad Nacional Palestina",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Catar",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Egipto",
+        "relacion": "ENTREGAR",
+        "objeto": "Gaza"
+      },
+      {
+        "sujeto": "Egipto",
+        "relacion": "ENTREGAR",
+        "objeto": "Israel"
+      },
+      {
+        "sujeto": "Catar",
+        "relacion": "ENTREGAR",
+        "objeto": "Gaza"
+      },
+      {
+        "sujeto": "Catar",
+        "relacion": "ENTREGAR",
+        "objeto": "Israel"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "ENTREGAR",
+        "objeto": "Gaza"
+      },
+      {
+        "sujeto": "Hamás",
+        "relacion": "ENTREGAR",
+        "objeto": "Gaza"
+      },
+      {
+        "sujeto": "Hamás",
+        "relacion": "ENTREGAR",
+        "objeto": "Israel"
+      },
+      {
+        "sujeto": "Hamas",
+        "relacion": "PROPONER",
+        "objeto": "Ejército israelí de Gaza"
+      },
+      {
+        "sujeto": "Hamás",
+        "relacion": "EXPRESAR",
+        "objeto": "Gaza"
+      },
+      {
+        "sujeto": "Hamás",
+        "relacion": "EXPRESAR",
+        "objeto": "Autoridad Nacional Palestina"
+      },
+      {
+        "sujeto": "Gaza",
+        "relacion": "ENTREGAR_EXPRESAR",
+        "objeto": "Autoridad Nacional Palestina"
+      },
+      {
+        "sujeto": "Hamás",
+        "relacion": "RETENER",
+        "objeto": "Gaza"
+      },
+      {
+        "sujeto": "Hamás",
+        "relacion": "PROPONER",
+        "objeto": "Edan Alexander"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.1027,
+    "pos": 0.025,
+    "neu": 0.954,
+    "neg": 0.02,
+    "label": "positive"
+  }
+}

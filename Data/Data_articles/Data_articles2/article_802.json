@@ -1,0 +1,876 @@
+{
+  "url": "https://www.telesurtv.net/recientes-ataques-terroristas-en-sudan-podrian-haber-dejado-mas-de-100-muertos/",
+  "title": "Recientes ataques terroristas en Sudán podrían haber dejado más de 100 muertos - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Ataques Terroritas",
+    "Darfur",
+    "OCHA",
+    "ONU"
+  ],
+  "text": "La ONU informó el sábado que más de 100 personas perdieron la vida el viernes en la ciudad de Darfur en el oeste de Sudán por ataques del grupo terrorista conocido como Fuerzas de Apoyo Rápido (FAR) contra dos campamentos de desplazados.\nDe acuerdo a la Oficina de coordinación de asuntos humanitarios de la ONU (Ocha) las FAR lanzaron “ataques terrestres y aéreos coordinados contra la ciudad de El Facher, así como contra los campamentos de desplazados de Zamzam y de Abu Chuk“.\nLa coordinadora de asuntos humanitarios de la ONU en Sudán, Clementine Nkweta-Salami, afirmó que “se teme que hayan muerto más de cien personas, entre ellas más de veinte niños“, en los ataques de las fuerzas afiliadas al grupo terrorista.\nEntre las víctimas de los ataques figuran nueve trabajadores humanitarios, que se encontraban en el sitio prestando ayuda a los más vulnerables.\n“Los colegas de una organización no gubernamental internacional fueron asesinados mientras operaban en uno de los pocos puestos de salud que quedan operativos en el campo”, añadió la funcionaria de la ONU.\nPor su parte, el comité local de resistencia registró un total de 57 civiles muertos en los ataques perpetrados por los terroristas.\nEl Ejército sudanés había ofrecido un balance de 74 muertos en El Facher, la última capital en el Darfur controlado por su tropas, y contra la que los terroristas del FAR intensificaron sus ataques en las últimas semanas después de retirarse de Jartum.\nPara Nkweta-Salami los recientes ataques de las FAR representan una nueva escalada en las agresiones contra personas desplazadas y trabajadores humanitarios en Sudán desde el inicio de este conflicto hace casi dos años.\nAnte esta situación la funcionaria de la ONU instó a quienes cometen tales actos a que desistan de inmediato. “No podemos mirar hacia otro lado ante estas atrocidades”, zanjó.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/recientes-ataques-terroristas-en-sudan-podrian-haber-dejado-mas-de-100-muertos/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-04.json",
+    "message_index": 1174,
+    "message_id": 91776,
+    "date": "2025-04-13T08:55:07+00:00",
+    "text": "teleSUR\nRecientes ataques terroristas en Sudán podrían haber dejado más de 100 muertos\nhttps://www.telesurtv.net/recientes-ataques-terroristas-en-sudan-podrian-haber-dejado-mas-de-100-muertos/",
+    "photo_path": null,
+    "views": 1830,
+    "reactions": {
+      "🤬": 37,
+      "😭": 3,
+      "👍": 1
+    },
+    "total_reactions": 41
+  },
+  "preprocessing": {
+    "cleaned": "la onu informó el sábado que más de 100 personas perdieron la vida el viernes en la ciudad de darfur en el oeste de sudán por ataques del grupo terrorista conocido como fuerzas de apoyo rápido (far) contra dos campamentos de desplazados. de acuerdo a la oficina de coordinación de asuntos humanitarios de la onu (ocha) las far lanzaron “ataques terrestres y aéreos coordinados contra la ciudad de el facher, así como contra los campamentos de desplazados de zamzam y de abu chuk“. la coordinadora de asuntos humanitarios de la onu en sudán, clementine nkweta-salami, afirmó que “se teme que hayan muerto más de cien personas, entre ellas más de veinte niños“, en los ataques de las fuerzas afiliadas al grupo terrorista. entre las víctimas de los ataques figuran nueve trabajadores humanitarios, que se encontraban en el sitio prestando ayuda a los más vulnerables. “los colegas de una organización no gubernamental internacional fueron asesinados mientras operaban en uno de los pocos puestos de salud que quedan operativos en el campo”, añadió la funcionaria de la onu. por su parte, el comité local de resistencia registró un total de 57 civiles muertos en los ataques perpetrados por los terroristas. el ejército sudanés había ofrecido un balance de 74 muertos en el facher, la última capital en el darfur controlado por su tropas, y contra la que los terroristas del far intensificaron sus ataques en las últimas semanas después de retirarse de jartum. para nkweta-salami los recientes ataques de las far representan una nueva escalada en las agresiones contra personas desplazadas y trabajadores humanitarios en sudán desde el inicio de este conflicto hace casi dos años. ante esta situación la funcionaria de la onu instó a quienes cometen tales actos a que desistan de inmediato. “no podemos mirar hacia otro lado ante estas atrocidades”, zanjó.",
+    "tokens": [
+      "onu",
+      "informó",
+      "sábado",
+      "100",
+      "personas",
+      "perdieron",
+      "vida",
+      "viernes",
+      "ciudad",
+      "darfur",
+      "oeste",
+      "sudán",
+      "ataques",
+      "grupo",
+      "terrorista",
+      "conocido",
+      "fuerzas",
+      "apoyo",
+      "rápido",
+      "(",
+      "far",
+      ")",
+      "dos",
+      "campamentos",
+      "desplazados",
+      ".",
+      "acuerdo",
+      "oficina",
+      "coordinación",
+      "asuntos",
+      "humanitarios",
+      "onu",
+      "(",
+      "ocha",
+      ")",
+      "far",
+      "lanzaron",
+      "“",
+      "ataques",
+      "terrestres",
+      "aéreos",
+      "coordinados",
+      "ciudad",
+      "facher",
+      ",",
+      "así",
+      "campamentos",
+      "desplazados",
+      "zamzam",
+      "abu",
+      "chuk",
+      "“",
+      ".",
+      "coordinadora",
+      "asuntos",
+      "humanitarios",
+      "onu",
+      "sudán",
+      ",",
+      "clementine",
+      "nkweta-salami",
+      ",",
+      "afirmó",
+      "“",
+      "teme",
+      "muerto",
+      "cien",
+      "personas",
+      ",",
+      "veinte",
+      "niños",
+      "“",
+      ",",
+      "ataques",
+      "fuerzas",
+      "afiliadas",
+      "grupo",
+      "terrorista",
+      ".",
+      "víctimas",
+      "ataques",
+      "figuran",
+      "nueve",
+      "trabajadores",
+      "humanitarios",
+      ",",
+      "encontraban",
+      "sitio",
+      "prestando",
+      "ayuda",
+      "vulnerables",
+      ".",
+      "“",
+      "colegas",
+      "organización",
+      "gubernamental",
+      "internacional",
+      "asesinados",
+      "mientras",
+      "operaban",
+      "pocos",
+      "puestos",
+      "salud",
+      "quedan",
+      "operativos",
+      "campo",
+      "”",
+      ",",
+      "añadió",
+      "funcionaria",
+      "onu",
+      ".",
+      "parte",
+      ",",
+      "comité",
+      "local",
+      "resistencia",
+      "registró",
+      "total",
+      "57",
+      "civiles",
+      "muertos",
+      "ataques",
+      "perpetrados",
+      "terroristas",
+      ".",
+      "ejército",
+      "sudanés",
+      "ofrecido",
+      "balance",
+      "74",
+      "muertos",
+      "facher",
+      ",",
+      "última",
+      "capital",
+      "darfur",
+      "controlado",
+      "tropas",
+      ",",
+      "terroristas",
+      "far",
+      "intensificaron",
+      "ataques",
+      "últimas",
+      "semanas",
+      "después",
+      "retirarse",
+      "jartum",
+      ".",
+      "nkweta-salami",
+      "recientes",
+      "ataques",
+      "far",
+      "representan",
+      "nueva",
+      "escalada",
+      "agresiones",
+      "personas",
+      "desplazadas",
+      "trabajadores",
+      "humanitarios",
+      "sudán",
+      "inicio",
+      "conflicto",
+      "hace",
+      "casi",
+      "dos",
+      "años",
+      ".",
+      "situación",
+      "funcionaria",
+      "onu",
+      "instó",
+      "cometen",
+      "tales",
+      "actos",
+      "desistan",
+      "inmediato",
+      ".",
+      "“",
+      "podemos",
+      "mirar",
+      "hacia",
+      "lado",
+      "atrocidades",
+      "”",
+      ",",
+      "zanjó",
+      "."
+    ],
+    "token_count": 190,
+    "sentence_count": 10
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 42,
+      "NN": 70,
+      "IN": 18,
+      "CD": 3,
+      "NNS": 24,
+      "VBP": 13,
+      "FW": 80,
+      "JJ": 33,
+      "VBD": 3,
+      "VBZ": 6,
+      "DT": 1,
+      "RB": 2
+    },
+    "bigram_freq": {
+      "NNP-NNP": 14,
+      "NNP-NN": 15,
+      "NN-NN": 32,
+      "NN-IN": 12,
+      "IN-CD": 3,
+      "CD-NNS": 3,
+      "NNS-VBP": 12,
+      "VBP-NN": 1,
+      "NN-FW": 4,
+      "FW-NN": 5,
+      "NN-NNS": 9,
+      "NNS-IN": 2,
+      "IN-FW": 11,
+      "FW-FW": 53,
+      "FW-NNP": 14,
+      "NNP-FW": 6,
+      "IN-NNP": 2,
+      "VBP-JJ": 8,
+      "JJ-NN": 16,
+      "NN-NNP": 5,
+      "NNP-IN": 1,
+      "NNP-JJ": 1,
+      "JJ-JJ": 7,
+      "NNP-VBD": 3,
+      "VBD-NNP": 1,
+      "NNS-VBZ": 2,
+      "VBZ-JJ": 2,
+      "JJ-NNS": 3,
+      "JJ-FW": 5,
+      "NN-JJ": 5,
+      "FW-NNS": 3,
+      "NNP-VBZ": 2,
+      "VBZ-FW": 1,
+      "NNS-NNP": 2,
+      "FW-IN": 1,
+      "IN-DT": 1,
+      "DT-JJ": 1,
+      "FW-JJ": 4,
+      "VBD-JJ": 2,
+      "NNS-NNS": 2,
+      "NNS-RB": 2,
+      "RB-VBP": 1,
+      "VBP-NNS": 3,
+      "RB-NNP": 1,
+      "VBP-NNP": 1,
+      "NN-VBZ": 2,
+      "VBZ-IN": 1,
+      "VBZ-NNS": 1,
+      "JJ-IN": 1,
+      "IN-JJ": 1,
+      "NNS-JJ": 2,
+      "JJ-NNP": 1,
+      "VBZ-NN": 1
+    },
+    "trigram_freq": {
+      "NNP-NNP-NN": 5,
+      "NNP-NN-NN": 9,
+      "NN-NN-NN": 15,
+      "NN-NN-IN": 4,
+      "NN-IN-CD": 3,
+      "IN-CD-NNS": 3,
+      "CD-NNS-VBP": 1,
+      "NNS-VBP-NN": 1,
+      "VBP-NN-FW": 1,
+      "NN-FW-NN": 1,
+      "FW-NN-NNS": 2,
+      "NN-NNS-IN": 1,
+      "NNS-IN-FW": 2,
+      "IN-FW-FW": 5,
+      "FW-FW-FW": 35,
+      "FW-FW-NNP": 10,
+      "FW-NNP-FW": 5,
+      "NNP-FW-FW": 4,
+      "FW-FW-NN": 3,
+      "FW-NN-IN": 1,
+      "NN-IN-NNP": 1,
+      "IN-NNP-NN": 1,
+      "NNP-NN-NNS": 3,
+      "NN-NNS-VBP": 4,
+      "NNS-VBP-JJ": 8,
+      "VBP-JJ-NN": 3,
+      "JJ-NN-NN": 7,
+      "NN-NN-NNP": 3,
+      "NN-NNP-IN": 1,
+      "NNP-IN-NNP": 1,
+      "IN-NNP-NNP": 1,
+      "NNP-NNP-NNP": 4,
+      "NNP-NNP-JJ": 1,
+      "NNP-JJ-JJ": 1,
+      "JJ-JJ-NN": 5,
+      "JJ-NN-IN": 7,
+      "NN-IN-FW": 8,
+      "IN-FW-NNP": 2,
+      "FW-NNP-NNP": 6,
+      "NNP-NNP-VBD": 3,
+      "NNP-VBD-NNP": 1,
+      "VBD-NNP-NN": 1,
+      "NN-NNS-VBZ": 2,
+      "NNS-VBZ-JJ": 1,
+      "VBZ-JJ-NNS": 1,
+      "JJ-NNS-VBP": 3,
+      "VBP-JJ-FW": 2,
+      "JJ-FW-FW": 5,
+      "NN-NN-JJ": 4,
+      "NN-JJ-JJ": 2,
+      "NNP-FW-NNP": 2,
+      "NNP-NNP-FW": 1,
+      "NN-JJ-NN": 3,
+      "IN-FW-NNS": 1,
+      "FW-NNS-VBP": 3,
+      "FW-NN-NNP": 1,
+      "NN-NNP-VBZ": 1,
+      "NNP-VBZ-FW": 1,
+      "VBZ-FW-FW": 1,
+      "FW-FW-NNS": 2,
+      "VBP-JJ-NNS": 1,
+      "VBP-JJ-JJ": 1,
+      "NN-NNS-NNP": 2,
+      "NNS-NNP-NN": 1,
+      "NNP-NN-FW": 1,
+      "NN-FW-FW": 3,
+      "FW-FW-IN": 1,
+      "FW-IN-DT": 1,
+      "IN-DT-JJ": 1,
+      "DT-JJ-JJ": 1,
+      "NN-NN-NNS": 3,
+      "FW-FW-JJ": 2,
+      "FW-JJ-NN": 4,
+      "IN-FW-JJ": 2,
+      "IN-FW-NN": 1,
+      "FW-NN-NN": 1,
+      "NN-NN-FW": 2,
+      "NNP-VBD-JJ": 2,
+      "VBD-JJ-NN": 1,
+      "JJ-NN-JJ": 1,
+      "JJ-JJ-FW": 1,
+      "CD-NNS-NNS": 1,
+      "NNS-NNS-RB": 1,
+      "NNS-RB-VBP": 1,
+      "RB-VBP-NNS": 1,
+      "VBP-NNS-VBP": 1,
+      "JJ-NN-NNS": 1,
+      "NNS-NNP-NNP": 1,
+      "VBD-JJ-JJ": 1,
+      "JJ-JJ-JJ": 1,
+      "CD-NNS-RB": 1,
+      "NNS-RB-NNP": 1,
+      "RB-NNP-NNP": 1,
+      "NNP-NN-NNP": 1,
+      "NN-NNP-NN": 3,
+      "NNS-VBP-NNP": 1,
+      "VBP-NNP-NN": 1,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-IN": 1,
+      "VBZ-IN-FW": 1,
+      "NNP-NN-VBZ": 1,
+      "NN-VBZ-NNS": 1,
+      "VBZ-NNS-IN": 1,
+      "FW-NNP-VBZ": 1,
+      "NNP-VBZ-JJ": 1,
+      "VBZ-JJ-IN": 1,
+      "JJ-IN-JJ": 1,
+      "IN-JJ-FW": 1,
+      "NNS-VBP-NNS": 2,
+      "VBP-NNS-JJ": 1,
+      "NNS-JJ-NNS": 1,
+      "VBP-JJ-NNP": 1,
+      "JJ-NNP-NN": 1,
+      "FW-NNP-NN": 2,
+      "VBP-NNS-NNS": 1,
+      "NNS-NNS-JJ": 1,
+      "NNS-JJ-FW": 1,
+      "NNS-VBZ-NN": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "FW": 80,
+        "NN": 70,
+        "NNP": 42,
+        "JJ": 33,
+        "NNS": 24
+      },
+      "top_bigrams": {
+        "FW-FW": 53,
+        "NN-NN": 32,
+        "JJ-NN": 16,
+        "NNP-NN": 15,
+        "NNP-NNP": 14
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 35,
+        "NN-NN-NN": 15,
+        "FW-FW-NNP": 10,
+        "NNP-NN-NN": 9,
+        "NNS-VBP-JJ": 8
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 10,
+    "chunk_counts": {
+      "NP": 74,
+      "VP": 24,
+      "PP": 7,
+      "ADJP": 4
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 6,
+        "weight": 0.0504
+      },
+      {
+        "rule": "NP -> ('ONU', 'NNP')",
+        "frequency": 4,
+        "weight": 0.0336
+      },
+      {
+        "rule": "NP -> ('ataques', 'NNS')",
+        "frequency": 3,
+        "weight": 0.0252
+      },
+      {
+        "rule": "NP -> ('personas', 'NNS')",
+        "frequency": 2,
+        "weight": 0.0168
+      },
+      {
+        "rule": "VP -> ('del', 'VBP') NP",
+        "frequency": 2,
+        "weight": 0.0168
+      },
+      {
+        "rule": "NP -> ('FAR', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0168
+      },
+      {
+        "rule": "VP -> ('contra', 'VBP') NP",
+        "frequency": 2,
+        "weight": 0.0168
+      },
+      {
+        "rule": "NP -> ('El', 'NNP') ('Facher', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0168
+      },
+      {
+        "rule": "S -> NP ('de', 'IN') ('100', 'CD') NP VP ('vida', 'FW') NP ('en', 'IN') ('la', 'FW') ('ciudad', 'FW') ('de', 'FW') NP ('en', 'FW') ('el', 'FW') NP PP VP PP ('(', '(') NP (')', ')') VP PP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0084
+      },
+      {
+        "rule": "NP -> ('La', 'NNP') ('ONU', 'NNP') ('informó', 'NN') ('el', 'NN') ('sábado', 'NN') ('que', 'NN') ('más', 'NN')",
+        "frequency": 1,
+        "weight": 0.0084
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "La ONU informó el sábado que más"
+      },
+      {
+        "label": "NP",
+        "text": "personas"
+      },
+      {
+        "label": "VP",
+        "text": "perdieron la"
+      },
+      {
+        "label": "NP",
+        "text": "la"
+      },
+      {
+        "label": "NP",
+        "text": "el viernes"
+      },
+      {
+        "label": "NP",
+        "text": "Darfur"
+      },
+      {
+        "label": "NP",
+        "text": "oeste"
+      },
+      {
+        "label": "PP",
+        "text": "de Sudán por ataques"
+      },
+      {
+        "label": "NP",
+        "text": "Sudán por ataques"
+      },
+      {
+        "label": "VP",
+        "text": "del grupo terrorista conocido como Fuerzas"
+      },
+      {
+        "label": "NP",
+        "text": "grupo terrorista conocido como Fuerzas"
+      },
+      {
+        "label": "PP",
+        "text": "de Apoyo Rápido"
+      },
+      {
+        "label": "NP",
+        "text": "Apoyo Rápido"
+      },
+      {
+        "label": "NP",
+        "text": "FAR"
+      },
+      {
+        "label": "VP",
+        "text": "contra dos campamentos"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP La/NNP ONU/NNP informó/NN el/NN sábado/NN que/NN más/NN)\n  de/IN\n  100/CD\n  (NP personas/NNS)\n  (VP perdieron/VBP (NP la/NN))\n  vida/FW\n  (NP el/NN viernes/NNS)\n  en/IN\n  la/FW\n  ciudad/FW\n  de/FW\n  (NP Darfur/NNP)\n  en/FW\n  el/FW\n  (NP oeste/NN)\n  (PP de/IN (NP Sudán/NNP por/NN ataques/NNS))\n  (VP\n    del/VBP\n    (NP grupo/JJ terrorista/NN conocido/NN como/NN Fuerzas/NNP))\n  (PP de/IN (NP Apoyo/NNP Rápido/NNP))\n  (/(\n  (NP FAR/NNP)\n  )/)\n  (VP contra/VBP (NP dos/JJ campamentos/NN))\n  (PP de/IN (NP desplazados/NN))\n  ./.)",
+      "(S\n  (NP De/NNP)\n  (VP acuerdo/VBZ (NP a/DT la/JJ Oficina/NNP))\n  de/FW\n  coordinación/FW\n  de/FW\n  asuntos/FW\n  humanitarios/FW\n  de/FW\n  la/FW\n  (NP ONU/NNP)\n  (/(\n  (NP Ocha/NNP)\n  )/)\n  (VP las/VBP (NP FAR/NNP lanzaron/NN “/NNP))\n  (VP ataques/VBZ (NP terrestres/NNS) y/PRP)\n  (VP aéreos/VBP (NP coordinados/JJ contra/JJ la/NN ciudad/NN))\n  (PP de/IN (NP El/NNP Facher/NNP))\n  ,/,\n  (NP así/NN como/NN)\n  (NP contra/JJ los/JJ campamentos/NN)\n  de/IN\n  desplazados/FW\n  de/FW\n  (NP Zamzam/NNP)\n  y/FW\n  de/FW\n  (NP Abu/NNP Chuk/NNP “/NNP)\n  ./.)",
+      "(S\n  (NP La/NNP)\n  coordinadora/FW\n  de/FW\n  asuntos/FW\n  humanitarios/FW\n  de/FW\n  la/FW\n  (NP ONU/NNP)\n  en/FW\n  (NP Sudán/NNP)\n  ,/,\n  (NP Clementine/NNP Nkweta-Salami/NNP)\n  ,/,\n  (NP afirmó/NN que/NN “/NNP se/NN teme/NN que/NN)\n  (NP hayan/JJ muerto/NN más/NN)\n  (PP de/IN (NP cien/NN personas/NNS))\n  ,/,\n  entre/FW\n  ellas/FW\n  más/FW\n  de/FW\n  veinte/FW\n  niños/FW\n  “/FW\n  ,/,\n  en/FW\n  los/FW\n  ataques/FW\n  de/FW\n  las/FW\n  fuerzas/FW\n  afiliadas/FW\n  al/FW\n  (NP grupo/NN terrorista/NN)\n  ./.)",
+      "(S\n  (NP Entre/NNP)\n  (VP las/VBZ)\n  víctimas/FW\n  de/FW\n  los/FW\n  (NP ataques/NNS)\n  (VP figuran/VBP (NP nueve/JJ trabajadores/NNS humanitarios/NNS))\n  ,/,\n  (NP que/NN)\n  (NP se/JJ encontraban/NN)\n  en/IN\n  el/FW\n  sitio/FW\n  prestando/FW\n  ayuda/FW\n  (NP a/DT los/NN más/NN vulnerables/NNS)\n  ./.)",
+      "(S\n  (NP “/JJ Los/NNP colegas/NN)\n  de/FW\n  una/FW\n  (PP\n    organización/IN\n    (NP\n      no/DT\n      gubernamental/JJ\n      internacional/JJ\n      fueron/NN\n      asesinados/NN\n      mientras/NNS))\n  (VP operaban/VBP en/JJ)\n  uno/FW\n  de/FW\n  los/FW\n  (NP pocos/JJ puestos/NN)\n  de/IN\n  salud/FW\n  (NP que/JJ quedan/NN operativos/NN)\n  en/IN\n  el/FW\n  (NP campo/NN ”/NN)\n  ,/,\n  (ADJP añadió/JJ)\n  la/FW\n  funcionaria/FW\n  de/FW\n  la/FW\n  (NP ONU/NNP)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "ORGANISMOS_INTERNACIONALES",
+      "CANTIDADES_NUMERICAS",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "ORGANIZACIONES_SOCIALES",
+      "ECONOMIA_COMERCIO_FINANZAS"
+    ],
+    "matches": [
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "capital",
+        "position": [
+          1289,
+          1296
+        ],
+        "start": 1289,
+        "end": 1296
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "afirmó",
+        "position": [
+          567,
+          573
+        ],
+        "start": 567,
+        "end": 573
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "informó",
+        "position": [
+          7,
+          14
+        ],
+        "start": 7,
+        "end": 14
+      },
+      {
+        "category": "ORGANISMOS_INTERNACIONALES",
+        "matched_text": "onu",
+        "position": [
+          3,
+          6
+        ],
+        "start": 3,
+        "end": 6
+      },
+      {
+        "category": "ORGANIZACIONES_SOCIALES",
+        "matched_text": "organización no gubernamental",
+        "position": [
+          886,
+          915
+        ],
+        "start": 886,
+        "end": 915
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "100 personas",
+        "position": [
+          36,
+          48
+        ],
+        "start": 36,
+        "end": 48
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "más de 100",
+        "position": [
+          29,
+          39
+        ],
+        "start": 29,
+        "end": 39
+      }
+    ],
+    "match_count": 7
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "El Facher",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Darfur",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Sudán",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Ocha",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "ONU",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Clementine Nkweta-Salami",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Zamzam",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Jartum",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Oficina",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Fuerzas de Apoyo Rápido",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Nkweta-Salami",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "FAR",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Abu Chuk",
+        "tipo": "Persona"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "ONU",
+        "relacion": "INFORMAR",
+        "objeto": "Darfur"
+      },
+      {
+        "sujeto": "ONU",
+        "relacion": "INFORMAR",
+        "objeto": "Sudán"
+      },
+      {
+        "sujeto": "ONU",
+        "relacion": "INFORMAR",
+        "objeto": "Fuerzas de Apoyo Rápido"
+      },
+      {
+        "sujeto": "ONU",
+        "relacion": "INFORMAR",
+        "objeto": "FAR"
+      },
+      {
+        "sujeto": "Darfur",
+        "relacion": "PERDER_INFORMAR",
+        "objeto": "Sudán"
+      },
+      {
+        "sujeto": "Darfur",
+        "relacion": "PERDER_INFORMAR",
+        "objeto": "Fuerzas de Apoyo Rápido"
+      },
+      {
+        "sujeto": "Darfur",
+        "relacion": "PERDER_INFORMAR",
+        "objeto": "FAR"
+      },
+      {
+        "sujeto": "Sudán",
+        "relacion": "PERDER_INFORMAR",
+        "objeto": "Fuerzas de Apoyo Rápido"
+      },
+      {
+        "sujeto": "Sudán",
+        "relacion": "PERDER_INFORMAR",
+        "objeto": "FAR"
+      },
+      {
+        "sujeto": "FAR",
+        "relacion": "LANZAR",
+        "objeto": "Oficina"
+      },
+      {
+        "sujeto": "Oficina",
+        "relacion": "LANZAR",
+        "objeto": "El Facher"
+      },
+      {
+        "sujeto": "Oficina",
+        "relacion": "LANZAR",
+        "objeto": "Zamzam"
+      },
+      {
+        "sujeto": "Oficina",
+        "relacion": "LANZAR",
+        "objeto": "Abu Chuk"
+      },
+      {
+        "sujeto": "FAR",
+        "relacion": "LANZAR",
+        "objeto": "ONU"
+      },
+      {
+        "sujeto": "ONU",
+        "relacion": "LANZAR",
+        "objeto": "El Facher"
+      },
+      {
+        "sujeto": "ONU",
+        "relacion": "LANZAR",
+        "objeto": "Zamzam"
+      },
+      {
+        "sujeto": "ONU",
+        "relacion": "LANZAR",
+        "objeto": "Abu Chuk"
+      },
+      {
+        "sujeto": "FAR",
+        "relacion": "LANZAR",
+        "objeto": "Ocha"
+      },
+      {
+        "sujeto": "Ocha",
+        "relacion": "LANZAR",
+        "objeto": "El Facher"
+      },
+      {
+        "sujeto": "Ocha",
+        "relacion": "LANZAR",
+        "objeto": "Zamzam"
+      },
+      {
+        "sujeto": "Ocha",
+        "relacion": "LANZAR",
+        "objeto": "Abu Chuk"
+      },
+      {
+        "sujeto": "FAR",
+        "relacion": "LANZAR",
+        "objeto": "El Facher"
+      },
+      {
+        "sujeto": "FAR",
+        "relacion": "LANZAR",
+        "objeto": "Zamzam"
+      },
+      {
+        "sujeto": "FAR",
+        "relacion": "LANZAR",
+        "objeto": "Abu Chuk"
+      },
+      {
+        "sujeto": "El Facher",
+        "relacion": "OFRECER",
+        "objeto": "FAR"
+      },
+      {
+        "sujeto": "El Facher",
+        "relacion": "OFRECER",
+        "objeto": "Jartum"
+      },
+      {
+        "sujeto": "Darfur",
+        "relacion": "OFRECER",
+        "objeto": "FAR"
+      },
+      {
+        "sujeto": "Darfur",
+        "relacion": "OFRECER",
+        "objeto": "Jartum"
+      },
+      {
+        "sujeto": "FAR",
+        "relacion": "INTENSIFICAR_OFRECER",
+        "objeto": "Jartum"
+      },
+      {
+        "sujeto": "Nkweta-Salami",
+        "relacion": "REPRESENTAR",
+        "objeto": "FAR"
+      },
+      {
+        "sujeto": "Nkweta-Salami",
+        "relacion": "REPRESENTAR",
+        "objeto": "Sudán"
+      },
+      {
+        "sujeto": "FAR",
+        "relacion": "REPRESENTAR",
+        "objeto": "Sudán"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.296,
+    "pos": 0.0,
+    "neu": 0.993,
+    "neg": 0.007,
+    "label": "negative"
+  }
+}

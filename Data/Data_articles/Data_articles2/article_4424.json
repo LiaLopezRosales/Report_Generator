@@ -1,0 +1,762 @@
+{
+  "url": "https://www.telesurtv.net/onu-condena-ataque-contra-sede-diplomatica-rusa-en-francia/",
+  "title": "ONU condena ataque contra sede diplomática rusa en Francia - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Ataque",
+    "condena",
+    "consulado",
+    "Francia",
+    "ONU",
+    "Rusia"
+  ],
+  "text": "El secretario general de la Organización de las Naciones Unidas (ONU), António Guterres, rechazó este viernes el ataque al Consulado General ruso de la ciudad francesa de Marsella.\nDe acuerdo con declaraciones del portavoz de Guterres a la agencia de noticias Sputnik, el secretario de la ONU subrayó que “los ataques a las misiones diplomáticas y a su personal son inaceptables y no tienen justificación”.\nSegún el Consulado ruso en la capital francesa, París, el domingo 23 de febrero en los frentes de la sede diplomática se desarrolló una manifestación antirrusa, y en esta jornada a las 07H30 (hora local) unos ciudadanos no identificados lanzaron cócteles molotov hacia el edificio consular.\n\nA pesar del ataque violento, no hubo diplomático heridos ni daños hacia la infraestructura de la instalación.\nPor su parte, la Fiscalía de Marsella comenzó un proceso investigativo a partir de los hechos para enjuiciar “daños causados por sustancias explosivas o incendiarias”, una investigación cedida al Departamento de Lucha contra la Delincuencia Organizada y Especializada.\nAnte el hecho, el portavoz del Kremlin, Dmitri Peskov dijo que su Gobierno reforzará la seguridad de sus diplomáticos que cumplen misión en el extranjero.\nA ello se le agrega que hace unos días la inteligencia de Rusia indicó que Ucrania podría estar detrás de ataques contra embajadas y sedes consulares rusas de los países europeos.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/onu-condena-ataque-contra-sede-diplomatica-rusa-en-francia/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-02.json",
+    "message_index": 309,
+    "message_id": 87665,
+    "date": "2025-02-25T02:59:02+00:00",
+    "text": "🌐 Noticias de la web que debes conocer\n\n▪️Juzgan a cirujano pedófilo por abuso y violencia contra 300 niños en Francia\nhttps://www.telesurtv.net/juzgan-a-cirujano-pedofilo-por-abuso-y-violencia-contra-300-ninos-en-francia/\n\n▪️Irán y Venezuela refuerzan su lucha contra el unilateralismo de EE.UU.\nhttps://www.telesurtv.net/iran-y-venezuela-refuerzan-su-lucha-contra-el-unilateralismo-de-ee-uu/\n\n▪️ONU condena ataque contra sede diplomática rusa en Francia\nhttps://www.telesurtv.net/onu-condena-ataque-contra-sede-diplomatica-rusa-en-francia/",
+    "photo_path": null,
+    "views": 2801,
+    "reactions": {
+      "👍": 21,
+      "👏": 3,
+      "🤔": 2,
+      "🤮": 2
+    },
+    "total_reactions": 28
+  },
+  "preprocessing": {
+    "cleaned": "el secretario general de la organización de las naciones unidas (onu), antónio guterres, rechazó este viernes el ataque al consulado general ruso de la ciudad francesa de marsella. de acuerdo con declaraciones del portavoz de guterres a la agencia de noticias sputnik, el secretario de la onu subrayó que “los ataques a las misiones diplomáticas y a su personal son inaceptables y no tienen justificación”. según el consulado ruso en la capital francesa, parís, el domingo 23 de febrero en los frentes de la sede diplomática se desarrolló una manifestación antirrusa, y en esta jornada a las 07h30 (hora local) unos ciudadanos no identificados lanzaron cócteles molotov hacia el edificio consular. a pesar del ataque violento, no hubo diplomático heridos ni daños hacia la infraestructura de la instalación. por su parte, la fiscalía de marsella comenzó un proceso investigativo a partir de los hechos para enjuiciar “daños causados por sustancias explosivas o incendiarias”, una investigación cedida al departamento de lucha contra la delincuencia organizada y especializada. ante el hecho, el portavoz del kremlin, dmitri peskov dijo que su gobierno reforzará la seguridad de sus diplomáticos que cumplen misión en el extranjero. a ello se le agrega que hace unos días la inteligencia de rusia indicó que ucrania podría estar detrás de ataques contra embajadas y sedes consulares rusas de los países europeos.",
+    "tokens": [
+      "secretario",
+      "general",
+      "organización",
+      "naciones",
+      "unidas",
+      "(",
+      "onu",
+      ")",
+      ",",
+      "antónio",
+      "guterres",
+      ",",
+      "rechazó",
+      "viernes",
+      "ataque",
+      "consulado",
+      "general",
+      "ruso",
+      "ciudad",
+      "francesa",
+      "marsella",
+      ".",
+      "acuerdo",
+      "declaraciones",
+      "portavoz",
+      "guterres",
+      "agencia",
+      "noticias",
+      "sputnik",
+      ",",
+      "secretario",
+      "onu",
+      "subrayó",
+      "“",
+      "ataques",
+      "misiones",
+      "diplomáticas",
+      "personal",
+      "inaceptables",
+      "justificación",
+      "”",
+      ".",
+      "según",
+      "consulado",
+      "ruso",
+      "capital",
+      "francesa",
+      ",",
+      "parís",
+      ",",
+      "domingo",
+      "23",
+      "febrero",
+      "frentes",
+      "sede",
+      "diplomática",
+      "desarrolló",
+      "manifestación",
+      "antirrusa",
+      ",",
+      "jornada",
+      "07h30",
+      "(",
+      "hora",
+      "local",
+      ")",
+      "ciudadanos",
+      "identificados",
+      "lanzaron",
+      "cócteles",
+      "molotov",
+      "hacia",
+      "edificio",
+      "consular",
+      ".",
+      "pesar",
+      "ataque",
+      "violento",
+      ",",
+      "diplomático",
+      "heridos",
+      "daños",
+      "hacia",
+      "infraestructura",
+      "instalación",
+      ".",
+      "parte",
+      ",",
+      "fiscalía",
+      "marsella",
+      "comenzó",
+      "proceso",
+      "investigativo",
+      "partir",
+      "hechos",
+      "enjuiciar",
+      "“",
+      "daños",
+      "causados",
+      "sustancias",
+      "explosivas",
+      "incendiarias",
+      "”",
+      ",",
+      "investigación",
+      "cedida",
+      "departamento",
+      "lucha",
+      "delincuencia",
+      "organizada",
+      "especializada",
+      ".",
+      "hecho",
+      ",",
+      "portavoz",
+      "kremlin",
+      ",",
+      "dmitri",
+      "peskov",
+      "dijo",
+      "gobierno",
+      "reforzará",
+      "seguridad",
+      "diplomáticos",
+      "cumplen",
+      "misión",
+      "extranjero",
+      ".",
+      "ello",
+      "agrega",
+      "hace",
+      "días",
+      "inteligencia",
+      "rusia",
+      "indicó",
+      "ucrania",
+      "podría",
+      "detrás",
+      "ataques",
+      "embajadas",
+      "sedes",
+      "consulares",
+      "rusas",
+      "países",
+      "europeos",
+      "."
+    ],
+    "token_count": 146,
+    "sentence_count": 7
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 32,
+      "NN": 72,
+      "IN": 12,
+      "FW": 42,
+      "VBZ": 5,
+      "NNS": 11,
+      "VBP": 8,
+      "JJ": 20,
+      "DT": 3,
+      "CD": 2,
+      "VBD": 1,
+      "VBN": 1
+    },
+    "bigram_freq": {
+      "NNP-NN": 11,
+      "NN-NN": 38,
+      "NN-IN": 9,
+      "IN-FW": 7,
+      "FW-NNP": 10,
+      "NNP-FW": 7,
+      "FW-FW": 21,
+      "NNP-NNP": 11,
+      "NNP-VBZ": 3,
+      "VBZ-NN": 1,
+      "NN-NNS": 4,
+      "NNS-VBP": 8,
+      "VBP-JJ": 4,
+      "JJ-NN": 12,
+      "NN-NNP": 8,
+      "FW-JJ": 4,
+      "IN-NNP": 1,
+      "FW-NN": 6,
+      "NNS-FW": 1,
+      "VBP-NNS": 1,
+      "JJ-JJ": 3,
+      "NN-VBZ": 2,
+      "VBZ-DT": 1,
+      "DT-NN": 3,
+      "VBZ-NNP": 1,
+      "NN-FW": 5,
+      "VBZ-JJ": 2,
+      "JJ-CD": 1,
+      "CD-IN": 1,
+      "IN-NN": 1,
+      "IN-JJ": 1,
+      "JJ-NNS": 3,
+      "NNS-IN": 1,
+      "NN-VBD": 1,
+      "VBD-CD": 1,
+      "CD-JJ": 1,
+      "VBP-DT": 1,
+      "NN-JJ": 4,
+      "IN-DT": 1,
+      "NN-VBN": 1,
+      "VBN-JJ": 1,
+      "JJ-FW": 1,
+      "IN-NNS": 1,
+      "NNS-NNS": 1,
+      "VBP-IN": 1,
+      "FW-NNS": 1
+    },
+    "trigram_freq": {
+      "NNP-NN-NN": 9,
+      "NN-NN-IN": 5,
+      "NN-IN-FW": 5,
+      "IN-FW-NNP": 2,
+      "FW-NNP-FW": 4,
+      "NNP-FW-FW": 2,
+      "FW-FW-NNP": 5,
+      "FW-NNP-NNP": 1,
+      "NNP-NNP-NNP": 6,
+      "NNP-NNP-VBZ": 1,
+      "NNP-VBZ-NN": 1,
+      "VBZ-NN-NNS": 1,
+      "NN-NNS-VBP": 3,
+      "NNS-VBP-JJ": 4,
+      "VBP-JJ-NN": 2,
+      "JJ-NN-NNP": 1,
+      "NN-NNP-NNP": 3,
+      "NNP-NNP-NN": 2,
+      "NNP-NN-IN": 1,
+      "IN-FW-JJ": 2,
+      "FW-JJ-NN": 4,
+      "JJ-NN-IN": 1,
+      "NN-IN-NNP": 1,
+      "IN-NNP-NNP": 1,
+      "NNP-NNP-FW": 2,
+      "NNP-FW-NN": 3,
+      "FW-NN-NNS": 1,
+      "NN-NNS-FW": 1,
+      "NNS-FW-FW": 1,
+      "FW-FW-FW": 13,
+      "FW-NN-IN": 1,
+      "FW-NNP-NN": 5,
+      "NN-NN-NN": 15,
+      "NN-NN-NNS": 2,
+      "NNS-VBP-NNS": 1,
+      "VBP-NNS-VBP": 1,
+      "VBP-JJ-JJ": 1,
+      "JJ-JJ-NN": 2,
+      "JJ-NN-VBZ": 1,
+      "NN-VBZ-DT": 1,
+      "VBZ-DT-NN": 1,
+      "DT-NN-NN": 2,
+      "NN-NN-NNP": 7,
+      "NN-NNP-VBZ": 2,
+      "NNP-VBZ-NNP": 1,
+      "VBZ-NNP-NN": 1,
+      "NN-NN-FW": 5,
+      "NN-FW-NN": 1,
+      "FW-NN-NN": 3,
+      "NNP-VBZ-JJ": 1,
+      "VBZ-JJ-CD": 1,
+      "JJ-CD-IN": 1,
+      "CD-IN-NN": 1,
+      "IN-NN-IN": 1,
+      "NN-IN-JJ": 1,
+      "IN-JJ-NNS": 1,
+      "JJ-NNS-IN": 1,
+      "NNS-IN-FW": 1,
+      "IN-FW-FW": 1,
+      "FW-FW-JJ": 2,
+      "JJ-NN-NN": 9,
+      "IN-FW-NN": 1,
+      "FW-NN-VBD": 1,
+      "NN-VBD-CD": 1,
+      "VBD-CD-JJ": 1,
+      "CD-JJ-JJ": 1,
+      "JJ-JJ-NNS": 1,
+      "JJ-NNS-VBP": 1,
+      "NNS-VBP-DT": 1,
+      "VBP-DT-NN": 1,
+      "NN-NN-JJ": 3,
+      "NN-JJ-NN": 4,
+      "NN-IN-DT": 1,
+      "IN-DT-NN": 1,
+      "DT-NN-VBZ": 1,
+      "NN-VBZ-JJ": 1,
+      "VBZ-JJ-JJ": 1,
+      "NN-FW-FW": 3,
+      "NN-FW-NNP": 1,
+      "NNP-FW-NNP": 2,
+      "NNP-NN-JJ": 1,
+      "NN-NNP-FW": 1,
+      "NN-NNP-NN": 2,
+      "FW-FW-NN": 1,
+      "NN-NN-VBN": 1,
+      "NN-VBN-JJ": 1,
+      "VBN-JJ-FW": 1,
+      "JJ-FW-FW": 1,
+      "NN-IN-NNS": 1,
+      "IN-NNS-VBP": 1,
+      "VBP-JJ-NNS": 1,
+      "JJ-NNS-NNS": 1,
+      "NNS-NNS-VBP": 1,
+      "NNS-VBP-IN": 1,
+      "VBP-IN-FW": 1,
+      "IN-FW-NNS": 1,
+      "FW-NNS-VBP": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 72,
+        "FW": 42,
+        "NNP": 32,
+        "JJ": 20,
+        "IN": 12
+      },
+      "top_bigrams": {
+        "NN-NN": 38,
+        "FW-FW": 21,
+        "JJ-NN": 12,
+        "NNP-NN": 11,
+        "NNP-NNP": 11
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 15,
+        "FW-FW-FW": 13,
+        "NNP-NN-NN": 9,
+        "JJ-NN-NN": 9,
+        "NN-NN-NNP": 7
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 7,
+    "chunk_counts": {
+      "NP": 51,
+      "VP": 15,
+      "PP": 4,
+      "ADJP": 1
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 3,
+        "weight": 0.0385
+      },
+      {
+        "rule": "S -> NP ('de', 'IN') ('la', 'FW') NP ('de', 'FW') ('las', 'FW') NP ('(', '(') NP (')', ')') (',', ',') NP (',', ',') NP VP ('de', 'IN') ('la', 'FW') NP PP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0128
+      },
+      {
+        "rule": "NP -> ('El', 'NNP') ('secretario', 'NN') ('general', 'NN')",
+        "frequency": 1,
+        "weight": 0.0128
+      },
+      {
+        "rule": "NP -> ('Organización', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0128
+      },
+      {
+        "rule": "NP -> ('Naciones', 'NNP') ('Unidas', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0128
+      },
+      {
+        "rule": "NP -> ('ONU', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0128
+      },
+      {
+        "rule": "NP -> ('António', 'NNP') ('Guterres', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0128
+      },
+      {
+        "rule": "NP -> ('rechazó', 'NN') ('este', 'NN') ('viernes', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0128
+      },
+      {
+        "rule": "VP -> ('el', 'VBP') NP",
+        "frequency": 1,
+        "weight": 0.0128
+      },
+      {
+        "rule": "NP -> ('ataque', 'JJ') ('al', 'NN') ('Consulado', 'NNP') ('General', 'NNP') ('ruso', 'NN')",
+        "frequency": 1,
+        "weight": 0.0128
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El secretario general"
+      },
+      {
+        "label": "NP",
+        "text": "Organización"
+      },
+      {
+        "label": "NP",
+        "text": "Naciones Unidas"
+      },
+      {
+        "label": "NP",
+        "text": "ONU"
+      },
+      {
+        "label": "NP",
+        "text": "António Guterres"
+      },
+      {
+        "label": "NP",
+        "text": "rechazó este viernes"
+      },
+      {
+        "label": "VP",
+        "text": "el ataque al Consulado General ruso"
+      },
+      {
+        "label": "NP",
+        "text": "ataque al Consulado General ruso"
+      },
+      {
+        "label": "NP",
+        "text": "ciudad francesa"
+      },
+      {
+        "label": "PP",
+        "text": "de Marsella"
+      },
+      {
+        "label": "NP",
+        "text": "Marsella"
+      },
+      {
+        "label": "NP",
+        "text": "De"
+      },
+      {
+        "label": "NP",
+        "text": "con declaraciones"
+      },
+      {
+        "label": "NP",
+        "text": "Sputnik"
+      },
+      {
+        "label": "NP",
+        "text": "ONU subrayó que “ los"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP El/NNP secretario/NN general/NN)\n  de/IN\n  la/FW\n  (NP Organización/NNP)\n  de/FW\n  las/FW\n  (NP Naciones/NNP Unidas/NNP)\n  (/(\n  (NP ONU/NNP)\n  )/)\n  ,/,\n  (NP António/NNP Guterres/NNP)\n  ,/,\n  (NP rechazó/NN este/NN viernes/NNS)\n  (VP el/VBP (NP ataque/JJ al/NN Consulado/NNP General/NNP ruso/NN))\n  de/IN\n  la/FW\n  (NP ciudad/JJ francesa/NN)\n  (PP de/IN (NP Marsella/NNP))\n  ./.)",
+      "(S\n  (NP De/NNP)\n  acuerdo/FW\n  (NP con/NN declaraciones/NNS)\n  del/FW\n  portavoz/FW\n  de/FW\n  Guterres/FW\n  a/DT\n  la/FW\n  agencia/FW\n  de/FW\n  noticias/FW\n  (NP Sputnik/NNP)\n  ,/,\n  el/FW\n  secretario/FW\n  de/FW\n  la/FW\n  (NP ONU/NNP subrayó/NN que/NN “/NNP los/NN)\n  (VP ataques/VBZ (NP a/DT las/JJ misiones/NNS))\n  (VP\n    diplomáticas/VBP\n    y/PRP\n    (NP a/DT su/JJ personal/JJ son/NN inaceptables/NNS))\n  (VP y/VBP (NP no/DT tienen/NN justificación/NN ”/NN))\n  ./.)",
+      "(S\n  (NP Según/NNP)\n  el/CC\n  (NP Consulado/NNP)\n  (VP ruso/VBP en/JJ)\n  la/FW\n  (NP capital/NN francesa/NN)\n  ,/,\n  (NP París/NNP)\n  ,/,\n  (VP el/VBD domingo/JJ)\n  23/CD\n  (PP de/IN (NP febrero/NN))\n  (PP en/IN (NP los/JJ frentes/NNS))\n  de/IN\n  la/FW\n  sede/FW\n  diplomática/FW\n  se/FW\n  desarrolló/FW\n  (NP una/JJ manifestación/NN antirrusa/NN)\n  ,/,\n  y/CC\n  en/FW\n  esta/FW\n  jornada/FW\n  (NP a/DT las/NN)\n  07H30/CD\n  (/(\n  (VP hora/VB local/JJ)\n  )/)\n  (ADJP unos/JJ)\n  (VP\n    ciudadanos/VBP\n    (NP no/DT identificados/NN lanzaron/NN cócteles/NNS))\n  (VP molotov/VBP (NP hacia/JJ el/NN edificio/NN consular/NN))\n  ./.)",
+      "(S\n  (NP A/DT pesar/NN del/NN ataque/NN violento/NN)\n  ,/,\n  (NP no/DT hubo/NN)\n  (VP diplomático/VBZ (NP heridos/JJ ni/JJ daños/NN hacia/NN la/NN))\n  infraestructura/FW\n  de/FW\n  la/FW\n  (NP instalación/NN)\n  ./.)",
+      "(S\n  (NP Por/NNP su/NN parte/NN)\n  ,/,\n  la/FW\n  (NP Fiscalía/NNP)\n  de/FW\n  (NP Marsella/NNP comenzó/NN)\n  (NP un/JJ proceso/NN)\n  (VP investigativo/VBZ (NP a/DT partir/NN))\n  de/IN\n  los/FW\n  (NP\n    hechos/JJ\n    para/NN\n    enjuiciar/NN\n    “/NNP\n    daños/NN\n    causados/NN\n    por/NN\n    sustancias/NN)\n  explosivas/FW\n  (NP o/NN incendiarias/NN ”/NNP)\n  ,/,\n  (NP una/JJ investigación/NN cedida/NN al/NN Departamento/NNP)\n  de/FW\n  (NP\n    Lucha/NNP\n    contra/NN\n    la/NN\n    Delincuencia/NNP\n    Organizada/NNP\n    y/NNP\n    Especializada/NNP)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "CIUDADES_CAPITALES",
+      "ORGANISMOS_INTERNACIONALES",
+      "APROBACION_RECHAZO",
+      "REGIONES_PROVINCIAS",
+      "INSTITUCIONES_EDUCATIVAS",
+      "PAISES",
+      "LOCALIZACIONES_ESPECIFICAS",
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "CONFLICTOS_ARMADOS_OPERACIONES",
+      "RELACIONES_INTERNACIONALES",
+      "FECHAS_ESPECIFICAS"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "ataque al consulado general ruso",
+        "position": [
+          113,
+          145
+        ],
+        "start": 113,
+        "end": 145
+      },
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "capital",
+        "position": [
+          437,
+          444
+        ],
+        "start": 437,
+        "end": 444
+      },
+      {
+        "category": "RELACIONES_INTERNACIONALES",
+        "matched_text": "acuerdo con declaraciones del portavoz de guterres a la agencia de noticias sputnik, el secretario de la onu subrayó que “los ataques a las misiones diplomáticas y a su",
+        "position": [
+          184,
+          352
+        ],
+        "start": 184,
+        "end": 352
+      },
+      {
+        "category": "ORGANISMOS_INTERNACIONALES",
+        "matched_text": "organización de las naciones unidas",
+        "position": [
+          28,
+          63
+        ],
+        "start": 28,
+        "end": 63
+      },
+      {
+        "category": "INSTITUCIONES_EDUCATIVAS",
+        "matched_text": "departamento de lucha",
+        "position": [
+          1005,
+          1026
+        ],
+        "start": 1005,
+        "end": 1026
+      },
+      {
+        "category": "APROBACION_RECHAZO",
+        "matched_text": "rechazó",
+        "position": [
+          89,
+          96
+        ],
+        "start": 89,
+        "end": 96
+      },
+      {
+        "category": "APROBACION_RECHAZO",
+        "matched_text": "subrayó",
+        "position": [
+          293,
+          300
+        ],
+        "start": 293,
+        "end": 300
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "rusia",
+        "position": [
+          1291,
+          1296
+        ],
+        "start": 1291,
+        "end": 1296
+      },
+      {
+        "category": "CIUDADES_CAPITALES",
+        "matched_text": "parís",
+        "position": [
+          455,
+          460
+        ],
+        "start": 455,
+        "end": 460
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "departamento de",
+        "position": [
+          1005,
+          1020
+        ],
+        "start": 1005,
+        "end": 1020
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "edificio consular",
+        "position": [
+          679,
+          696
+        ],
+        "start": 679,
+        "end": 696
+      },
+      {
+        "category": "FECHAS_ESPECIFICAS",
+        "matched_text": "domingo 23 de febrero",
+        "position": [
+          465,
+          486
+        ],
+        "start": 465,
+        "end": 486
+      }
+    ],
+    "match_count": 12
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Delincuencia Organizada y Especializada.",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Guterres",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Rusia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Marsella",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Kremlin",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Dmitri Peskov",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "París",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "António Guterres",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "ONU",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Ucrania",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Organización de las Naciones Unidas",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Departamento de Lucha",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Gobierno",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Fiscalía de Marsella",
+        "tipo": "Organizacion"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Organización de las Naciones Unidas",
+        "relacion": "RECHAZAR",
+        "objeto": "Marsella"
+      },
+      {
+        "sujeto": "ONU",
+        "relacion": "RECHAZAR",
+        "objeto": "Marsella"
+      },
+      {
+        "sujeto": "António Guterres",
+        "relacion": "RECHAZAR",
+        "objeto": "Marsella"
+      },
+      {
+        "sujeto": "Guterres",
+        "relacion": "SUBRAYAR",
+        "objeto": "ONU"
+      },
+      {
+        "sujeto": "Fiscalía de Marsella",
+        "relacion": "COMENZAR",
+        "objeto": "Departamento de Lucha"
+      },
+      {
+        "sujeto": "Fiscalía de Marsella",
+        "relacion": "COMENZAR",
+        "objeto": "Delincuencia Organizada y Especializada."
+      },
+      {
+        "sujeto": "Departamento de Lucha",
+        "relacion": "COMENZAR",
+        "objeto": "Delincuencia Organizada y Especializada."
+      },
+      {
+        "sujeto": "Dmitri Peskov",
+        "relacion": "DECIR",
+        "objeto": "Kremlin"
+      },
+      {
+        "sujeto": "Gobierno",
+        "relacion": "DECIR",
+        "objeto": "Kremlin"
+      },
+      {
+        "sujeto": "Dmitri Peskov",
+        "relacion": "DECIR",
+        "objeto": "Gobierno"
+      },
+      {
+        "sujeto": "Ucrania",
+        "relacion": "INDICAR_AGREGAR",
+        "objeto": "Rusia"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.6808,
+    "pos": 0.0,
+    "neu": 0.969,
+    "neg": 0.031,
+    "label": "negative"
+  }
+}

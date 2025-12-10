@@ -1,0 +1,880 @@
+{
+  "url": "https://www.telesurtv.net/bolivia-condena-ataque-eeuu-iran/",
+  "title": "Bolivia condena ataque de EE.UU. contra Irán - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "agresiones",
+    "Bolivia",
+    "EE.UU.",
+    "instalaciones nucleares",
+    "Irán",
+    "Israel"
+  ],
+  "text": "El Gobierno del Estado Plurinacional de Bolivia expresó una enérgica condena contra el reciente bombardeo ejecutado por Estados Unidos sobre instalaciones nucleares estratégicas en Irán.\nLEA TAMBIÉN\nTrump: EE.UU. acaba de bombardear sitios nucleares en Irán\nEl Ejecutivo que encabeza el presidente Luis Arce calificó dicho acto hostil como una amenaza directa a la paz mundial y una flagrante violación al Derecho Internacional.\nA través de sus redes sociales, Arce manifestó su rechazo a esta agresión, señalando que “bombardear objetivos de esta naturaleza no solo pone en riesgo la paz regional y global, sino que vulnera principios fundamentales del Derecho Internacional y la Carta de la ONU”.\nLa Cancillería boliviana, por su parte, emitió un comunicado en el que calificó la intervención militar de Washington como un acto injerencista que atenta contra la soberanía del pueblo iraní. “Esta acción constituye una violación grave al Derecho Internacional y a los principios establecidos en la Carta de las Naciones Unidas”, subrayó el documento.\nEl Ministerio de Relaciones Exteriores instó a detener las hostilidades y alertó sobre las consecuencias que estas acciones militares en la seguridad y el equilibrio en todo el Medio Oriente.\n“Bolivia reitera su firme compromiso con la paz, el diálogo entre las naciones y el respeto absoluto al Derecho Internacional”, concluyó la declaración oficial.\nEl ataque, llevado a cabo por las fuerzas armadas estadounidenses, apuntó a tres centros clave del programa nuclear iraní: Fordow, Natanz e Isfahán.\nLa operación fue anunciada horas antes por el presidente Donald Trump a través de sus redes sociales, dejando en evidencia la intención deliberada de escalar el conflicto en complicidad con el régimen sionista de Israel.\nLa postura boliviana se suma a una creciente ola de condenas internacionales que rechazan el uso de la fuerza como medio para imponer intereses geopolíticos, y respalda el derecho soberano de Irán a desarrollar su programa nuclear con fines pacíficos.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/bolivia-condena-ataque-eeuu-iran/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-06.json",
+    "message_index": 559,
+    "message_id": 97236,
+    "date": "2025-06-23T14:55:18+00:00",
+    "text": "teleSUR\nBolivia condena ataque de EE.UU. contra Irán\nhttps://www.telesurtv.net/bolivia-condena-ataque-eeuu-iran/",
+    "photo_path": null,
+    "views": 2947,
+    "reactions": {
+      "👏": 62,
+      "👍": 18,
+      "❤": 4
+    },
+    "total_reactions": 84
+  },
+  "preprocessing": {
+    "cleaned": "el gobierno del estado plurinacional de bolivia expresó una enérgica condena contra el reciente bombardeo ejecutado por estados unidos sobre instalaciones nucleares estratégicas en irán. el ejecutivo que encabeza el presidente luis arce calificó dicho acto hostil como una amenaza directa a la paz mundial y una flagrante violación al derecho internacional. a través de sus redes sociales, arce manifestó su rechazo a esta agresión, señalando que “bombardear objetivos de esta naturaleza no solo pone en riesgo la paz regional y global, sino que vulnera principios fundamentales del derecho internacional y la carta de la onu”. la cancillería boliviana, por su parte, emitió un comunicado en el que calificó la intervención militar de washington como un acto injerencista que atenta contra la soberanía del pueblo iraní. “esta acción constituye una violación grave al derecho internacional y a los principios establecidos en la carta de las naciones unidas”, subrayó el documento. el ministerio de relaciones exteriores instó a detener las hostilidades y alertó sobre las consecuencias que estas acciones militares en la seguridad y el equilibrio en todo el medio oriente. “bolivia reitera su firme compromiso con la paz, el diálogo entre las naciones y el respeto absoluto al derecho internacional”, concluyó la declaración oficial. el ataque, llevado a cabo por las fuerzas armadas estadounidenses, apuntó a tres centros clave del programa nuclear iraní: fordow, natanz e isfahán. la operación fue anunciada horas antes por el presidente donald trump a través de sus redes sociales, dejando en evidencia la intención deliberada de escalar el conflicto en complicidad con el régimen sionista de israel. la postura boliviana se suma a una creciente ola de condenas internacionales que rechazan el uso de la fuerza como medio para imponer intereses geopolíticos, y respalda el derecho soberano de irán a desarrollar su programa nuclear con fines pacíficos.",
+    "tokens": [
+      "gobierno",
+      "plurinacional",
+      "bolivia",
+      "expresó",
+      "enérgica",
+      "condena",
+      "reciente",
+      "bombardeo",
+      "ejecutado",
+      "unidos",
+      "instalaciones",
+      "nucleares",
+      "estratégicas",
+      "irán",
+      ".",
+      "ejecutivo",
+      "encabeza",
+      "presidente",
+      "luis",
+      "arce",
+      "calificó",
+      "dicho",
+      "acto",
+      "hostil",
+      "amenaza",
+      "directa",
+      "paz",
+      "mundial",
+      "flagrante",
+      "violación",
+      "derecho",
+      "internacional",
+      ".",
+      "través",
+      "redes",
+      "sociales",
+      ",",
+      "arce",
+      "manifestó",
+      "rechazo",
+      "agresión",
+      ",",
+      "señalando",
+      "“",
+      "bombardear",
+      "objetivos",
+      "naturaleza",
+      "solo",
+      "pone",
+      "riesgo",
+      "paz",
+      "regional",
+      "global",
+      ",",
+      "sino",
+      "vulnera",
+      "principios",
+      "fundamentales",
+      "derecho",
+      "internacional",
+      "carta",
+      "onu",
+      "”",
+      ".",
+      "cancillería",
+      "boliviana",
+      ",",
+      "parte",
+      ",",
+      "emitió",
+      "comunicado",
+      "calificó",
+      "intervención",
+      "militar",
+      "washington",
+      "acto",
+      "injerencista",
+      "atenta",
+      "soberanía",
+      "pueblo",
+      "iraní",
+      ".",
+      "“",
+      "acción",
+      "constituye",
+      "violación",
+      "grave",
+      "derecho",
+      "internacional",
+      "principios",
+      "establecidos",
+      "carta",
+      "naciones",
+      "unidas",
+      "”",
+      ",",
+      "subrayó",
+      "documento",
+      ".",
+      "ministerio",
+      "relaciones",
+      "exteriores",
+      "instó",
+      "detener",
+      "hostilidades",
+      "alertó",
+      "consecuencias",
+      "acciones",
+      "militares",
+      "seguridad",
+      "equilibrio",
+      "medio",
+      "oriente",
+      ".",
+      "“",
+      "bolivia",
+      "reitera",
+      "firme",
+      "compromiso",
+      "paz",
+      ",",
+      "diálogo",
+      "naciones",
+      "respeto",
+      "absoluto",
+      "derecho",
+      "internacional",
+      "”",
+      ",",
+      "concluyó",
+      "declaración",
+      "oficial",
+      ".",
+      "ataque",
+      ",",
+      "llevado",
+      "cabo",
+      "fuerzas",
+      "armadas",
+      "estadounidenses",
+      ",",
+      "apuntó",
+      "tres",
+      "centros",
+      "clave",
+      "programa",
+      "nuclear",
+      "iraní",
+      ":",
+      "fordow",
+      ",",
+      "natanz",
+      "isfahán",
+      ".",
+      "operación",
+      "anunciada",
+      "horas",
+      "presidente",
+      "donald",
+      "trump",
+      "través",
+      "redes",
+      "sociales",
+      ",",
+      "dejando",
+      "evidencia",
+      "intención",
+      "deliberada",
+      "escalar",
+      "conflicto",
+      "complicidad",
+      "régimen",
+      "sionista",
+      "israel",
+      ".",
+      "postura",
+      "boliviana",
+      "suma",
+      "creciente",
+      "ola",
+      "condenas",
+      "internacionales",
+      "rechazan",
+      "uso",
+      "fuerza",
+      "medio",
+      "imponer",
+      "intereses",
+      "geopolíticos",
+      ",",
+      "respalda",
+      "derecho",
+      "soberano",
+      "irán",
+      "desarrollar",
+      "programa",
+      "nuclear",
+      "fines",
+      "pacíficos",
+      "."
+    ],
+    "token_count": 200,
+    "sentence_count": 10
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 52,
+      "FW": 48,
+      "CC": 1,
+      "JJ": 33,
+      "NN": 104,
+      "NNS": 23,
+      "VBP": 15,
+      "IN": 9,
+      "DT": 1,
+      "VBZ": 4,
+      "VBN": 2,
+      "VBD": 1,
+      "RB": 1
+    },
+    "bigram_freq": {
+      "NNP-NNP": 26,
+      "NNP-FW": 8,
+      "FW-NNP": 8,
+      "NNP-CC": 1,
+      "CC-JJ": 1,
+      "JJ-NN": 21,
+      "NN-NN": 57,
+      "NN-NNP": 8,
+      "NNP-NN": 13,
+      "NN-NNS": 7,
+      "NNS-NNS": 7,
+      "NNS-VBP": 11,
+      "VBP-IN": 2,
+      "IN-NNP": 4,
+      "FW-FW": 22,
+      "FW-NNS": 4,
+      "VBP-NNP": 1,
+      "NN-JJ": 10,
+      "NN-VBP": 3,
+      "VBP-JJ": 6,
+      "JJ-JJ": 5,
+      "NN-FW": 10,
+      "NNS-NNP": 1,
+      "NN-IN": 6,
+      "IN-FW": 4,
+      "FW-JJ": 5,
+      "JJ-DT": 1,
+      "DT-NN": 1,
+      "FW-NN": 9,
+      "NNS-VBZ": 2,
+      "VBZ-FW": 1,
+      "VBP-VBN": 2,
+      "VBN-NNP": 1,
+      "NNP-VBD": 1,
+      "VBD-RB": 1,
+      "RB-JJ": 1,
+      "JJ-NNP": 2,
+      "NNP-IN": 1,
+      "NNP-VBP": 1,
+      "VBP-NN": 1,
+      "VBZ-JJ": 3,
+      "JJ-NNS": 4,
+      "VBP-FW": 2,
+      "IN-NN": 1,
+      "VBP-NNS": 1,
+      "VBN-JJ": 1,
+      "NN-VBZ": 2,
+      "NNS-FW": 1,
+      "NNP-JJ": 1,
+      "NNS-NN": 1
+    },
+    "trigram_freq": {
+      "NNP-NNP-FW": 6,
+      "NNP-FW-NNP": 3,
+      "FW-NNP-NNP": 5,
+      "FW-NNP-CC": 1,
+      "NNP-CC-JJ": 1,
+      "CC-JJ-NN": 1,
+      "JJ-NN-NN": 11,
+      "NN-NN-NN": 34,
+      "NN-NN-NNP": 7,
+      "NN-NNP-NNP": 7,
+      "NNP-NNP-NN": 9,
+      "NNP-NN-NNS": 2,
+      "NN-NNS-NNS": 1,
+      "NNS-NNS-VBP": 5,
+      "NNS-VBP-IN": 2,
+      "VBP-IN-NNP": 1,
+      "IN-NNP-NNP": 2,
+      "NNP-NNP-NNP": 8,
+      "NNP-FW-FW": 3,
+      "FW-FW-FW": 10,
+      "FW-FW-NNS": 4,
+      "FW-NNS-NNS": 3,
+      "NNS-VBP-NNP": 1,
+      "VBP-NNP-NNP": 1,
+      "NNP-NN-NN": 8,
+      "NN-NN-JJ": 8,
+      "NN-JJ-NN": 8,
+      "NN-NN-VBP": 2,
+      "NN-VBP-JJ": 2,
+      "VBP-JJ-JJ": 2,
+      "JJ-JJ-NN": 5,
+      "NNP-NN-FW": 2,
+      "NN-FW-FW": 5,
+      "NNS-NNS-NNP": 1,
+      "NNS-NNP-NN": 1,
+      "JJ-NN-IN": 5,
+      "NN-IN-FW": 3,
+      "IN-FW-JJ": 2,
+      "FW-JJ-DT": 1,
+      "JJ-DT-NN": 1,
+      "DT-NN-NN": 1,
+      "NN-NN-FW": 2,
+      "NN-FW-NN": 3,
+      "FW-NN-FW": 5,
+      "FW-FW-JJ": 1,
+      "FW-JJ-JJ": 1,
+      "NN-NN-NNS": 2,
+      "NN-NNS-VBZ": 2,
+      "NNS-VBZ-FW": 1,
+      "VBZ-FW-NNP": 1,
+      "FW-NNP-FW": 2,
+      "FW-FW-NNP": 3,
+      "IN-FW-FW": 1,
+      "FW-FW-NN": 4,
+      "NN-FW-JJ": 2,
+      "FW-JJ-NN": 2,
+      "NN-IN-NNP": 2,
+      "IN-NNP-NN": 1,
+      "NNP-NN-JJ": 1,
+      "NN-JJ-JJ": 1,
+      "NN-NNP-NN": 1,
+      "JJ-NN-VBP": 1,
+      "NN-VBP-VBN": 1,
+      "VBP-VBN-NNP": 1,
+      "VBN-NNP-NNP": 1,
+      "NN-NNS-VBP": 3,
+      "VBP-IN-FW": 1,
+      "IN-FW-NNP": 1,
+      "NNP-NNP-VBD": 1,
+      "NNP-VBD-RB": 1,
+      "VBD-RB-JJ": 1,
+      "RB-JJ-NNP": 1,
+      "JJ-NNP-NNP": 1,
+      "NNP-NNP-IN": 1,
+      "NNP-IN-NNP": 1,
+      "NNP-NNP-VBP": 1,
+      "NNP-VBP-NN": 1,
+      "VBP-NN-NNS": 1,
+      "NNS-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 3,
+      "JJ-NN-NNS": 2,
+      "NNS-VBP-JJ": 4,
+      "VBP-JJ-NNS": 2,
+      "JJ-NNS-NNS": 1,
+      "NNS-NNS-NNS": 1,
+      "NNS-VBP-FW": 2,
+      "VBP-FW-FW": 2,
+      "FW-NN-IN": 1,
+      "NN-IN-NN": 1,
+      "IN-NN-NN": 1,
+      "FW-JJ-NNS": 1,
+      "JJ-NNS-VBP": 2,
+      "VBP-JJ-NN": 1,
+      "VBP-JJ-NNP": 1,
+      "JJ-NNP-NN": 1,
+      "NNS-VBP-NNS": 1,
+      "VBP-NNS-NNS": 1,
+      "NNS-VBP-VBN": 1,
+      "VBP-VBN-JJ": 1,
+      "VBN-JJ-JJ": 1,
+      "JJ-NN-NNP": 1,
+      "NNP-FW-NN": 2,
+      "FW-NN-NN": 2,
+      "NN-NN-VBZ": 2,
+      "NN-VBZ-JJ": 2,
+      "NN-JJ-NNS": 1,
+      "JJ-NNS-FW": 1,
+      "NNS-FW-FW": 1,
+      "FW-NN-JJ": 1,
+      "JJ-NN-FW": 1,
+      "FW-NNS-VBP": 1,
+      "IN-NNP-JJ": 1,
+      "NNP-JJ-NN": 1,
+      "NN-NNS-NN": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 104,
+        "NNP": 52,
+        "FW": 48,
+        "JJ": 33,
+        "NNS": 23
+      },
+      "top_bigrams": {
+        "NN-NN": 57,
+        "NNP-NNP": 26,
+        "FW-FW": 22,
+        "JJ-NN": 21,
+        "NNP-NN": 13
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 34,
+        "JJ-NN-NN": 11,
+        "FW-FW-FW": 10,
+        "NNP-NNP-NN": 9,
+        "NNP-NNP-NNP": 8
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 10,
+    "chunk_counts": {
+      "NP": 82,
+      "VP": 24,
+      "ADJP": 3,
+      "PP": 5
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 4,
+        "weight": 0.0323
+      },
+      {
+        "rule": "NP -> ('redes', 'NNS') ('sociales', 'NNS')",
+        "frequency": 2,
+        "weight": 0.0161
+      },
+      {
+        "rule": "VP -> ('el', 'VBP') NP",
+        "frequency": 2,
+        "weight": 0.0161
+      },
+      {
+        "rule": "S -> NP ('del', 'FW') NP ('de', 'FW') NP ('expresó', 'CC') NP VP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0081
+      },
+      {
+        "rule": "NP -> ('El', 'NNP') ('Gobierno', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0081
+      },
+      {
+        "rule": "NP -> ('Estado', 'NNP') ('Plurinacional', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0081
+      },
+      {
+        "rule": "NP -> ('Bolivia', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0081
+      },
+      {
+        "rule": "NP -> ('una', 'JJ') ('enérgica', 'NN') ('condena', 'NN') ('contra', 'NN') ('el', 'NN') ('reciente', 'NN') ('bombardeo', 'NN') ('ejecutado', 'NN') ('por', 'NN') ('Estados', 'NNP') ('Unidos', 'NNP') ('sobre', 'NN') ('instalaciones', 'NNS') ('nucleares', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0081
+      },
+      {
+        "rule": "VP -> ('estratégicas', 'VBP') NP",
+        "frequency": 1,
+        "weight": 0.0081
+      },
+      {
+        "rule": "NP -> ('en', 'JJ') ('Irán', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0081
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El Gobierno"
+      },
+      {
+        "label": "NP",
+        "text": "Estado Plurinacional"
+      },
+      {
+        "label": "NP",
+        "text": "Bolivia"
+      },
+      {
+        "label": "NP",
+        "text": "una enérgica condena contra el reciente bombardeo ejecutado por Estados Unidos sobre instalaciones nucleares"
+      },
+      {
+        "label": "VP",
+        "text": "estratégicas en Irán"
+      },
+      {
+        "label": "NP",
+        "text": "en Irán"
+      },
+      {
+        "label": "NP",
+        "text": "LEA TAMBIÉN Trump"
+      },
+      {
+        "label": "NP",
+        "text": "EE.UU."
+      },
+      {
+        "label": "NP",
+        "text": "sitios nucleares"
+      },
+      {
+        "label": "VP",
+        "text": "en Irán El Ejecutivo que encabeza el presidente Luis Arce calificó dicho acto hostil como una amenaza"
+      },
+      {
+        "label": "NP",
+        "text": "Irán El Ejecutivo que encabeza el presidente Luis Arce calificó dicho acto hostil como"
+      },
+      {
+        "label": "NP",
+        "text": "una amenaza"
+      },
+      {
+        "label": "VP",
+        "text": "directa a la paz mundial y una flagrante violación al Derecho Internacional"
+      },
+      {
+        "label": "NP",
+        "text": "a la paz"
+      },
+      {
+        "label": "NP",
+        "text": "mundial y"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP El/NNP Gobierno/NNP)\n  del/FW\n  (NP Estado/NNP Plurinacional/NNP)\n  de/FW\n  (NP Bolivia/NNP)\n  expresó/CC\n  (NP\n    una/JJ\n    enérgica/NN\n    condena/NN\n    contra/NN\n    el/NN\n    reciente/NN\n    bombardeo/NN\n    ejecutado/NN\n    por/NN\n    Estados/NNP\n    Unidos/NNP\n    sobre/NN\n    instalaciones/NNS\n    nucleares/NNS)\n  (VP estratégicas/VBP (NP en/JJ Irán/NNP))\n  ./.)",
+      "(S\n  (NP LEA/NNP TAMBIÉN/NNP Trump/NNP)\n  :/:\n  (NP EE.UU./NNP)\n  acaba/FW\n  de/FW\n  bombardear/FW\n  (NP sitios/NNS nucleares/NNS)\n  (VP\n    en/VBP\n    (NP\n      Irán/NNP\n      El/NNP\n      Ejecutivo/NNP\n      que/NN\n      encabeza/NN\n      el/NN\n      presidente/NN\n      Luis/NNP\n      Arce/NNP\n      calificó/NN\n      dicho/NN\n      acto/NN\n      hostil/NN\n      como/NN)\n    (NP una/JJ amenaza/NN))\n  (VP\n    directa/VBZ\n    (NP a/DT la/NN paz/NN)\n    (NP mundial/JJ y/NN)\n    (NP\n      una/JJ\n      flagrante/NN\n      violación/NN\n      al/NN\n      Derecho/NNP\n      Internacional/NNP))\n  ./.)",
+      "(S\n  (NP A/DT través/NN)\n  de/IN\n  sus/FW\n  (NP redes/NNS sociales/NNS)\n  ,/,\n  (NP Arce/NNP manifestó/NN su/NN)\n  (VP rechazo/VBZ (NP a/DT esta/JJ agresión/NN))\n  ,/,\n  (NP señalando/NN que/NN)\n  “/CD\n  (ADJP bombardear/JJ)\n  objetivos/FW\n  de/FW\n  esta/FW\n  (ADJP naturaleza/JJ)\n  (NP no/DT solo/NN pone/NN)\n  en/FW\n  (NP riesgo/NN)\n  la/FW\n  paz/FW\n  (NP regional/JJ y/NN)\n  (ADJP global/JJ)\n  ,/,\n  (NP sino/JJ que/NN vulnera/NN principios/NNS)\n  (VP fundamentales/VBZ)\n  del/FW\n  (NP Derecho/NNP Internacional/NNP y/NNP la/NNP Carta/NNP)\n  de/IN\n  la/FW\n  (NP ONU/NNP ”/NNP)\n  ./.)",
+      "(S\n  (NP La/NNP Cancillería/NNP boliviana/NN)\n  ,/,\n  (NP por/NN su/NN parte/NN)\n  ,/,\n  (NP emitió/JJ un/JJ comunicado/NN)\n  en/IN\n  el/FW\n  que/FW\n  (NP calificó/NN)\n  la/FW\n  (NP intervención/JJ militar/NN)\n  (PP de/IN (NP Washington/NNP como/NN))\n  (NP un/JJ acto/NN injerencista/NN que/NN)\n  (NP\n    atenta/JJ\n    contra/JJ\n    la/NN\n    soberanía/NN\n    del/NN\n    pueblo/NN\n    iraní/NN)\n  ./.)",
+      "(S\n  (NP “/NN Esta/NNP acción/NN constituye/NN)\n  (NP una/JJ violación/NN)\n  (VP grave/VBP)\n  (VP\n    al/VBN\n    (NP Derecho/NNP Internacional/NNP)\n    y/PRP\n    (NP a/DT los/JJ principios/JJ establecidos/NN))\n  en/IN\n  la/FW\n  (NP Carta/NNP)\n  de/FW\n  las/FW\n  (NP Naciones/NNP Unidas/NNP ”/NNP)\n  ,/,\n  (NP subrayó/NN el/NN documento/NN)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "CIUDADES_CAPITALES",
+      "GOBIERNOS_OFICIALES",
+      "ORGANISMOS_INTERNACIONALES",
+      "APROBACION_RECHAZO",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "REGIONES_PROVINCIAS",
+      "PAISES",
+      "PROTESTAS_CONFLICTOS_SOCIALES",
+      "CONFLICTOS_ARMADOS_OPERACIONES"
+    ],
+    "matches": [
+      {
+        "category": "PROTESTAS_CONFLICTOS_SOCIALES",
+        "matched_text": "manifestó",
+        "position": [
+          466,
+          475
+        ],
+        "start": 466,
+        "end": 475
+      },
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "ataque, llevado a cabo por las fuerzas",
+        "position": [
+          1408,
+          1446
+        ],
+        "start": 1408,
+        "end": 1446
+      },
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "conflicto en complicidad",
+        "position": [
+          1715,
+          1739
+        ],
+        "start": 1715,
+        "end": 1739
+      },
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "intervención militar de washington como un acto injerencista que atenta contra la soberanía del pueblo iraní. “esta acción constituye una violación grave al derecho internacional",
+        "position": [
+          782,
+          960
+        ],
+        "start": 782,
+        "end": 960
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "soberanía del pueblo iraní. “esta acción constituye una violación grave al derecho",
+        "position": [
+          864,
+          946
+        ],
+        "start": 864,
+        "end": 946
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "expresó",
+        "position": [
+          48,
+          55
+        ],
+        "start": 48,
+        "end": 55
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "alertó",
+        "position": [
+          1126,
+          1132
+        ],
+        "start": 1126,
+        "end": 1132
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "gobierno del estado plurinacional",
+        "position": [
+          3,
+          36
+        ],
+        "start": 3,
+        "end": 36
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente luis arce",
+        "position": [
+          287,
+          307
+        ],
+        "start": 287,
+        "end": 307
+      },
+      {
+        "category": "ORGANISMOS_INTERNACIONALES",
+        "matched_text": "onu",
+        "position": [
+          693,
+          696
+        ],
+        "start": 693,
+        "end": 696
+      },
+      {
+        "category": "APROBACION_RECHAZO",
+        "matched_text": "subrayó",
+        "position": [
+          1030,
+          1037
+        ],
+        "start": 1030,
+        "end": 1037
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "bolivia",
+        "position": [
+          40,
+          47
+        ],
+        "start": 40,
+        "end": 47
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "estados unidos",
+        "position": [
+          120,
+          134
+        ],
+        "start": 120,
+        "end": 134
+      },
+      {
+        "category": "CIUDADES_CAPITALES",
+        "matched_text": "la paz",
+        "position": [
+          362,
+          368
+        ],
+        "start": 362,
+        "end": 368
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "estado plurinacional",
+        "position": [
+          16,
+          36
+        ],
+        "start": 16,
+        "end": 36
+      }
+    ],
+    "match_count": 15
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "EE.UU.",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Bolivia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Irán\nEl Ejecutivo",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Luis Arce",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Derecho Internacional",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Irán",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Carta de las Naciones Unidas",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Ministerio de Relaciones Exteriores",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Fordow",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Arce",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Trump",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Estados Unidos",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Isfahán",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Gobierno del Estado Plurinacional de Bolivia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Washington",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Carta de la ONU",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Israel",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Donald Trump",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Natanz",
+        "tipo": "Persona"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Gobierno del Estado Plurinacional de Bolivia",
+        "relacion": "EXPRESAR",
+        "objeto": "Estados Unidos"
+      },
+      {
+        "sujeto": "Gobierno del Estado Plurinacional de Bolivia",
+        "relacion": "EXPRESAR",
+        "objeto": "Irán"
+      },
+      {
+        "sujeto": "EE.UU.",
+        "relacion": "ACABAR",
+        "objeto": "Trump"
+      },
+      {
+        "sujeto": "Irán\nEl Ejecutivo",
+        "relacion": "ACABAR",
+        "objeto": "Trump"
+      },
+      {
+        "sujeto": "Trump",
+        "relacion": "ACABAR",
+        "objeto": "Luis Arce"
+      },
+      {
+        "sujeto": "EE.UU.",
+        "relacion": "ACABAR",
+        "objeto": "Irán\nEl Ejecutivo"
+      },
+      {
+        "sujeto": "EE.UU.",
+        "relacion": "ACABAR",
+        "objeto": "Luis Arce"
+      },
+      {
+        "sujeto": "Arce",
+        "relacion": "MANIFESTAR",
+        "objeto": "Derecho Internacional"
+      },
+      {
+        "sujeto": "Arce",
+        "relacion": "MANIFESTAR",
+        "objeto": "Carta de la ONU"
+      },
+      {
+        "sujeto": "Donald Trump",
+        "relacion": "ANUNCIAR",
+        "objeto": "Israel"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.5859,
+    "pos": 0.0,
+    "neu": 0.984,
+    "neg": 0.016,
+    "label": "negative"
+  }
+}
