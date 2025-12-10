@@ -13,7 +13,7 @@ uv.lock
 *.toml
 
 # Data files
-Data_articles/
+Data/teleSUR_tv
 data_example/
 *.session
 processed_articles.json

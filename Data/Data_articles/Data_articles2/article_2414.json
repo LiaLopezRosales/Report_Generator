@@ -1,0 +1,691 @@
+{
+  "url": "https://www.telesurtv.net/deslave-de-tierra-en-antioquia-colombia-deja-cinco-muertos/",
+  "title": "Deslave de tierra en Antioquia, Colombia, deja cinco muertos - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "Colombia",
+    "Deslizamiento de tierra",
+    "Muertos"
+  ],
+  "text": "\nUn deslizamiento de tierra ocurrido en el municipio de Sabaneta, situado en el departamento de Antioquia, en la zona noroccidental de Colombia, dejó un saldo de cinco personas fallecidas y al menos dos desaparecidas hasta la noche del jueves.\nEl deslave de tierra ocurrió como resultado de las intensas lluvias que azotaron la región y que también ocasionaron la crecida de ríos y la caída de árboles en varios municipios como Betulia y Ciudad Bolívar.\nEl deslizamiento sepultó varias viviendas en el noroeste del país, según los videos compartidos en redes sociales. En respuesta a la emergencia, se desplegaron equipos de salvamento y rescate para atender la situación.\nAndrés Julián Rendón, gobernador de Antioquia, brindó al municipio todo el respaldo del Departamento Administrativo de Gestión del Riesgo (Dagra). En paralelo, la administración municipal de Sabaneta, como parte de sus medidas para mitigar las pérdidas, habilitó refugios para las 23 familias que fueron evacuadas de manera urgente, así como para otros damnificados.\nAsimismo, el alcalde hizo un llamado a los ciudadanos para que donen alimentos no perecederos, insumos médicos, ropa, kits de higiene, linternas, colchonetas y sábanas, con el fin de aliviar las necesidades en este difícil contexto.\nHasta el momento, 87 municipios permanecen inundados de un total de 125. De estos, 72 han sido declarados en Alerta Roja por el Gobierno, ya que al inicio de las inundaciones, los niveles de los ríos en esas localidades alcanzaron índices críticos ante la posibilidad de desbordamiento.\nEl Dagra ha instado a la población a seguir las recomendaciones de seguridad y a no regresar a sus hogares hasta que se confirme la ausencia de cualquier riesgo, mientras se lleva a cabo un monitoreo de los niveles de inundación.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/deslave-de-tierra-en-antioquia-colombia-deja-cinco-muertos/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-05.json",
+    "message_index": 1475,
+    "message_id": 93719,
+    "date": "2025-05-09T08:55:07+00:00",
+    "text": "teleSUR\nDeslave de tierra en Antioquia, Colombia, deja cinco muertos\nhttps://www.telesurtv.net/deslave-de-tierra-en-antioquia-colombia-deja-cinco-muertos/",
+    "photo_path": null,
+    "views": 1741,
+    "reactions": {
+      "😢": 19,
+      "😱": 5,
+      "🔥": 3,
+      "👍": 2
+    },
+    "total_reactions": 29
+  },
+  "preprocessing": {
+    "cleaned": "un deslizamiento de tierra ocurrido en el municipio de sabaneta, situado en el departamento de antioquia, en la zona noroccidental de colombia, dejó un saldo de cinco personas fallecidas y al menos dos desaparecidas hasta la noche del jueves. el deslave de tierra ocurrió como resultado de las intensas lluvias que azotaron la región y que también ocasionaron la crecida de ríos y la caída de árboles en varios municipios como betulia y ciudad bolívar. el deslizamiento sepultó varias viviendas en el noroeste del país, según los videos compartidos en redes sociales. en respuesta a la emergencia, se desplegaron equipos de salvamento y rescate para atender la situación. andrés julián rendón, gobernador de antioquia, brindó al municipio todo el respaldo del departamento administrativo de gestión del riesgo (dagra). en paralelo, la administración municipal de sabaneta, como parte de sus medidas para mitigar las pérdidas, habilitó refugios para las 23 familias que fueron evacuadas de manera urgente, así como para otros damnificados. asimismo, el alcalde hizo un llamado a los ciudadanos para que donen alimentos no perecederos, insumos médicos, ropa, kits de higiene, linternas, colchonetas y sábanas, con el fin de aliviar las necesidades en este difícil contexto. hasta el momento, 87 municipios permanecen inundados de un total de 125. de estos, 72 han sido declarados en alerta roja por el gobierno, ya que al inicio de las inundaciones, los niveles de los ríos en esas localidades alcanzaron índices críticos ante la posibilidad de desbordamiento. el dagra ha instado a la población a seguir las recomendaciones de seguridad y a no regresar a sus hogares hasta que se confirme la ausencia de cualquier riesgo, mientras se lleva a cabo un monitoreo de los niveles de inundación.",
+    "tokens": [
+      "deslizamiento",
+      "tierra",
+      "ocurrido",
+      "municipio",
+      "sabaneta",
+      ",",
+      "situado",
+      "departamento",
+      "antioquia",
+      ",",
+      "zona",
+      "noroccidental",
+      "colombia",
+      ",",
+      "dejó",
+      "saldo",
+      "cinco",
+      "personas",
+      "fallecidas",
+      "menos",
+      "dos",
+      "desaparecidas",
+      "noche",
+      "jueves",
+      ".",
+      "deslave",
+      "tierra",
+      "ocurrió",
+      "resultado",
+      "intensas",
+      "lluvias",
+      "azotaron",
+      "región",
+      "ocasionaron",
+      "crecida",
+      "ríos",
+      "caída",
+      "árboles",
+      "varios",
+      "municipios",
+      "betulia",
+      "ciudad",
+      "bolívar",
+      ".",
+      "deslizamiento",
+      "sepultó",
+      "varias",
+      "viviendas",
+      "noroeste",
+      "país",
+      ",",
+      "según",
+      "videos",
+      "compartidos",
+      "redes",
+      "sociales",
+      ".",
+      "respuesta",
+      "emergencia",
+      ",",
+      "desplegaron",
+      "equipos",
+      "salvamento",
+      "rescate",
+      "atender",
+      "situación",
+      ".",
+      "andrés",
+      "julián",
+      "rendón",
+      ",",
+      "gobernador",
+      "antioquia",
+      ",",
+      "brindó",
+      "municipio",
+      "respaldo",
+      "departamento",
+      "administrativo",
+      "gestión",
+      "riesgo",
+      "(",
+      "dagra",
+      ")",
+      ".",
+      "paralelo",
+      ",",
+      "administración",
+      "municipal",
+      "sabaneta",
+      ",",
+      "parte",
+      "medidas",
+      "mitigar",
+      "pérdidas",
+      ",",
+      "habilitó",
+      "refugios",
+      "23",
+      "familias",
+      "evacuadas",
+      "manera",
+      "urgente",
+      ",",
+      "así",
+      "damnificados",
+      ".",
+      "asimismo",
+      ",",
+      "alcalde",
+      "hizo",
+      "llamado",
+      "ciudadanos",
+      "donen",
+      "alimentos",
+      "perecederos",
+      ",",
+      "insumos",
+      "médicos",
+      ",",
+      "ropa",
+      ",",
+      "kits",
+      "higiene",
+      ",",
+      "linternas",
+      ",",
+      "colchonetas",
+      "sábanas",
+      ",",
+      "fin",
+      "aliviar",
+      "necesidades",
+      "difícil",
+      "contexto",
+      ".",
+      "momento",
+      ",",
+      "87",
+      "municipios",
+      "permanecen",
+      "inundados",
+      "total",
+      "125.",
+      ",",
+      "72",
+      "sido",
+      "declarados",
+      "alerta",
+      "roja",
+      "gobierno",
+      ",",
+      "inicio",
+      "inundaciones",
+      ",",
+      "niveles",
+      "ríos",
+      "localidades",
+      "alcanzaron",
+      "índices",
+      "críticos",
+      "posibilidad",
+      "desbordamiento",
+      ".",
+      "dagra",
+      "instado",
+      "población",
+      "seguir",
+      "recomendaciones",
+      "seguridad",
+      "regresar",
+      "hogares",
+      "confirme",
+      "ausencia",
+      "cualquier",
+      "riesgo",
+      ",",
+      "mientras",
+      "lleva",
+      "cabo",
+      "monitoreo",
+      "niveles",
+      "inundación",
+      "."
+    ],
+    "token_count": 184,
+    "sentence_count": 10
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 29,
+      "NN": 88,
+      "FW": 77,
+      "JJ": 23,
+      "IN": 12,
+      "NNS": 18,
+      "VBP": 11,
+      "$": 2,
+      "CD": 4,
+      "VBZ": 4,
+      "DT": 2,
+      "JJR": 1
+    },
+    "bigram_freq": {
+      "NNP-NN": 12,
+      "NN-FW": 14,
+      "FW-FW": 45,
+      "FW-NNP": 8,
+      "NNP-FW": 4,
+      "FW-JJ": 4,
+      "JJ-NN": 12,
+      "NN-IN": 9,
+      "IN-FW": 8,
+      "FW-NNS": 7,
+      "NNS-VBP": 10,
+      "VBP-JJ": 5,
+      "JJ-NNS": 4,
+      "NN-NN": 50,
+      "NNS-NNP": 2,
+      "NNP-VBP": 1,
+      "VBP-FW": 1,
+      "FW-NN": 8,
+      "VBP-NNP": 1,
+      "NNP-NNP": 10,
+      "NN-JJ": 7,
+      "NNS-NNS": 2,
+      "NN-NNP": 3,
+      "NNP-IN": 1,
+      "IN-NNP": 2,
+      "JJ-JJ": 2,
+      "JJ-FW": 4,
+      "NN-NNS": 2,
+      "VBP-$": 1,
+      "$-CD": 2,
+      "CD-JJ": 1,
+      "IN-JJ": 1,
+      "JJ-NNP": 1,
+      "NN-VBZ": 3,
+      "VBZ-DT": 1,
+      "DT-NN": 2,
+      "VBZ-JJ": 2,
+      "NNS-IN": 2,
+      "IN-NN": 1,
+      "VBP-NN": 1,
+      "NNP-VBZ": 1,
+      "VBZ-$": 1,
+      "CD-NNS": 1,
+      "NNS-JJ": 1,
+      "FW-CD": 2,
+      "CD-NNP": 1,
+      "CD-NN": 1,
+      "VBP-NNS": 2,
+      "NNS-FW": 1,
+      "FW-DT": 1,
+      "FW-JJR": 1,
+      "JJR-NN": 1
+    },
+    "trigram_freq": {
+      "NNP-NN-FW": 3,
+      "NN-FW-FW": 8,
+      "FW-FW-FW": 29,
+      "FW-FW-NNP": 4,
+      "FW-NNP-NN": 3,
+      "FW-NNP-FW": 2,
+      "NNP-FW-FW": 1,
+      "NNP-FW-JJ": 1,
+      "FW-JJ-NN": 3,
+      "JJ-NN-IN": 3,
+      "NN-IN-FW": 7,
+      "IN-FW-NNS": 3,
+      "FW-NNS-VBP": 4,
+      "NNS-VBP-JJ": 5,
+      "VBP-JJ-NNS": 2,
+      "JJ-NNS-VBP": 2,
+      "VBP-JJ-NN": 2,
+      "JJ-NN-NN": 7,
+      "NN-NN-FW": 6,
+      "FW-FW-NNS": 3,
+      "FW-NNS-NNP": 1,
+      "NNS-NNP-VBP": 1,
+      "NNP-VBP-FW": 1,
+      "VBP-FW-FW": 1,
+      "FW-FW-NN": 5,
+      "FW-NN-NN": 5,
+      "NN-NN-IN": 6,
+      "IN-FW-JJ": 1,
+      "NN-NN-NN": 26,
+      "IN-FW-FW": 3,
+      "NNS-VBP-NNP": 1,
+      "VBP-NNP-NNP": 1,
+      "NNP-NNP-NNP": 4,
+      "NNP-NNP-NN": 5,
+      "NNP-NN-NN": 9,
+      "FW-NN-FW": 2,
+      "NN-FW-NN": 3,
+      "NN-NN-JJ": 6,
+      "NN-JJ-NN": 5,
+      "JJ-NN-FW": 2,
+      "NN-FW-NNS": 1,
+      "FW-NNS-NNS": 2,
+      "NNS-NNS-NNP": 1,
+      "NNS-NNP-NN": 1,
+      "NN-FW-NNP": 2,
+      "FW-NNP-NNP": 3,
+      "NN-NN-NNP": 3,
+      "NN-NNP-NNP": 1,
+      "NNP-NNP-IN": 1,
+      "NNP-IN-NNP": 1,
+      "IN-NNP-FW": 1,
+      "NNP-FW-NNP": 1,
+      "NN-JJ-JJ": 1,
+      "JJ-JJ-FW": 1,
+      "JJ-FW-NNP": 1,
+      "NN-NN-NNS": 1,
+      "NN-NNS-VBP": 2,
+      "NNS-VBP-$": 1,
+      "VBP-$-CD": 1,
+      "$-CD-JJ": 1,
+      "CD-JJ-NN": 1,
+      "FW-FW-JJ": 2,
+      "NN-IN-JJ": 1,
+      "IN-JJ-NNP": 1,
+      "JJ-NNP-NN": 1,
+      "NN-NN-VBZ": 2,
+      "NN-VBZ-DT": 1,
+      "VBZ-DT-NN": 1,
+      "DT-NN-VBZ": 1,
+      "NN-VBZ-JJ": 2,
+      "VBZ-JJ-JJ": 1,
+      "JJ-JJ-NNS": 1,
+      "JJ-NNS-IN": 2,
+      "NNS-IN-NN": 1,
+      "IN-NN-NNS": 1,
+      "NNS-NNS-VBP": 1,
+      "NNS-VBP-NN": 1,
+      "VBP-NN-NN": 1,
+      "NN-NNP-VBZ": 1,
+      "NNP-VBZ-$": 1,
+      "VBZ-$-CD": 1,
+      "$-CD-NNS": 1,
+      "CD-NNS-JJ": 1,
+      "NNS-JJ-FW": 1,
+      "JJ-FW-FW": 2,
+      "FW-JJ-FW": 1,
+      "JJ-FW-CD": 1,
+      "FW-CD-NNP": 1,
+      "CD-NNP-FW": 1,
+      "NNP-FW-CD": 1,
+      "FW-CD-NN": 1,
+      "CD-NN-NN": 1,
+      "NN-IN-NNP": 1,
+      "IN-NNP-NNP": 1,
+      "NN-NNP-NN": 1,
+      "NNS-VBP-NNS": 2,
+      "VBP-NNS-FW": 1,
+      "NNS-FW-FW": 1,
+      "VBP-NNS-VBP": 1,
+      "VBP-JJ-FW": 1,
+      "NN-JJ-NNS": 1,
+      "NNS-IN-FW": 1,
+      "IN-FW-DT": 1,
+      "FW-DT-NN": 1,
+      "DT-NN-NN": 1,
+      "VBZ-JJ-NN": 1,
+      "FW-FW-JJR": 1,
+      "FW-JJR-NN": 1,
+      "JJR-NN-FW": 1,
+      "FW-NN-JJ": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 88,
+        "FW": 77,
+        "NNP": 29,
+        "JJ": 23,
+        "NNS": 18
+      },
+      "top_bigrams": {
+        "NN-NN": 50,
+        "FW-FW": 45,
+        "NN-FW": 14,
+        "NNP-NN": 12,
+        "JJ-NN": 12
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 29,
+        "NN-NN-NN": 26,
+        "NNP-NN-NN": 9,
+        "NN-FW-FW": 8,
+        "NN-IN-FW": 7
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 10,
+    "chunk_counts": {
+      "NP": 73,
+      "VP": 18,
+      "PP": 3,
+      "ADJP": 3
+    },
+    "top_rules": [
+      {
+        "rule": "NP -> ('Sabaneta', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0187
+      },
+      {
+        "rule": "NP -> ('Antioquia', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0187
+      },
+      {
+        "rule": "NP -> ('municipios', 'NNS')",
+        "frequency": 2,
+        "weight": 0.0187
+      },
+      {
+        "rule": "S -> NP ('de', 'FW') ('tierra', 'FW') ('ocurrido', 'FW') ('en', 'FW') ('el', 'FW') ('municipio', 'FW') ('de', 'FW') NP (',', ',') NP ('en', 'FW') ('el', 'FW') ('departamento', 'FW') ('de', 'FW') NP (',', ',') ('en', 'FW') ('la', 'FW') ('zona', 'FW') ('noroccidental', 'FW') ('de', 'FW') NP (',', ',') NP NP ('de', 'IN') ('cinco', 'FW') NP VP VP ('noche', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0093
+      },
+      {
+        "rule": "NP -> ('Un', 'NNP') ('deslizamiento', 'NN')",
+        "frequency": 1,
+        "weight": 0.0093
+      },
+      {
+        "rule": "NP -> ('situado', 'NN')",
+        "frequency": 1,
+        "weight": 0.0093
+      },
+      {
+        "rule": "NP -> ('Colombia', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0093
+      },
+      {
+        "rule": "NP -> ('dejó', 'NN')",
+        "frequency": 1,
+        "weight": 0.0093
+      },
+      {
+        "rule": "NP -> ('un', 'JJ') ('saldo', 'NN')",
+        "frequency": 1,
+        "weight": 0.0093
+      },
+      {
+        "rule": "NP -> ('personas', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0093
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Un deslizamiento"
+      },
+      {
+        "label": "NP",
+        "text": "Sabaneta"
+      },
+      {
+        "label": "NP",
+        "text": "situado"
+      },
+      {
+        "label": "NP",
+        "text": "Antioquia"
+      },
+      {
+        "label": "NP",
+        "text": "Colombia"
+      },
+      {
+        "label": "NP",
+        "text": "dejó"
+      },
+      {
+        "label": "NP",
+        "text": "un saldo"
+      },
+      {
+        "label": "NP",
+        "text": "personas"
+      },
+      {
+        "label": "VP",
+        "text": "fallecidas y al menos"
+      },
+      {
+        "label": "NP",
+        "text": "y al menos"
+      },
+      {
+        "label": "VP",
+        "text": "dos desaparecidas hasta la"
+      },
+      {
+        "label": "NP",
+        "text": "desaparecidas hasta la"
+      },
+      {
+        "label": "NP",
+        "text": "del jueves"
+      },
+      {
+        "label": "NP",
+        "text": "El"
+      },
+      {
+        "label": "VP",
+        "text": "deslave"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Un/NNP deslizamiento/NN)\n  de/FW\n  tierra/FW\n  ocurrido/FW\n  en/FW\n  el/FW\n  municipio/FW\n  de/FW\n  (NP Sabaneta/NNP)\n  ,/,\n  (NP situado/NN)\n  en/FW\n  el/FW\n  departamento/FW\n  de/FW\n  (NP Antioquia/NNP)\n  ,/,\n  en/FW\n  la/FW\n  zona/FW\n  noroccidental/FW\n  de/FW\n  (NP Colombia/NNP)\n  ,/,\n  (NP dejó/NN)\n  (NP un/JJ saldo/NN)\n  de/IN\n  cinco/FW\n  (NP personas/NNS)\n  (VP fallecidas/VBP (NP y/JJ al/NN menos/NNS))\n  (VP dos/VBP (NP desaparecidas/JJ hasta/NN la/NN))\n  noche/FW\n  (NP del/NN jueves/NNS)\n  ./.)",
+      "(S\n  (NP El/NNP)\n  (VP deslave/VBP)\n  de/FW\n  tierra/FW\n  ocurrió/FW\n  (NP como/NN resultado/NN)\n  de/IN\n  las/FW\n  (NP\n    intensas/JJ\n    lluvias/NN\n    que/NN\n    azotaron/NN\n    la/NN\n    región/NN\n    y/NN\n    que/NN\n    también/NN\n    ocasionaron/NN\n    la/NN\n    crecida/NN)\n  de/IN\n  ríos/FW\n  y/CC\n  la/FW\n  caída/FW\n  de/FW\n  árboles/FW\n  en/FW\n  varios/FW\n  (NP municipios/NNS)\n  (VP como/VBP (NP Betulia/NNP y/NNP Ciudad/NNP Bolívar/NNP))\n  ./.)",
+      "(S\n  (NP El/NNP deslizamiento/NN sepultó/NN varias/NN)\n  viviendas/FW\n  en/FW\n  el/FW\n  (NP noroeste/NN del/NN país/NN)\n  ,/,\n  (NP según/JJ los/NN)\n  (NP videos/JJ compartidos/NN)\n  en/FW\n  (VP redes/VBZ (NP sociales/NNS))\n  ./.)",
+      "(S\n  (NP En/NNP)\n  (VP respuesta/VBZ (NP a/DT la/NN emergencia/NN))\n  ,/,\n  se/FW\n  desplegaron/FW\n  equipos/FW\n  de/FW\n  salvamento/FW\n  y/FW\n  (NP rescate/NN para/NN atender/NN la/NN situación/NN)\n  ./.)",
+      "(S\n  (NP Andrés/NNP Julián/NNP Rendón/NNP)\n  ,/,\n  (NP gobernador/NN)\n  de/FW\n  (NP Antioquia/NNP)\n  ,/,\n  (NP\n    brindó/NN\n    al/NN\n    municipio/NN\n    todo/NN\n    el/NN\n    respaldo/NN\n    del/NN\n    Departamento/NNP\n    Administrativo/NNP)\n  (PP de/IN (NP Gestión/NNP))\n  del/FW\n  (NP Riesgo/NNP)\n  (/(\n  (NP Dagra/NNP)\n  )/)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "INSTITUCIONES_EDUCATIVAS",
+      "PAISES",
+      "REGIONES_PROVINCIAS",
+      "DESASTRES_ACCIDENTES_EMERGENCIAS"
+    ],
+    "matches": [
+      {
+        "category": "DESASTRES_ACCIDENTES_EMERGENCIAS",
+        "matched_text": "deslizamiento de tierra",
+        "position": [
+          4,
+          27
+        ],
+        "start": 4,
+        "end": 27
+      },
+      {
+        "category": "INSTITUCIONES_EDUCATIVAS",
+        "matched_text": "departamento de antioquia",
+        "position": [
+          80,
+          105
+        ],
+        "start": 80,
+        "end": 105
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "colombia",
+        "position": [
+          135,
+          143
+        ],
+        "start": 135,
+        "end": 143
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "departamento de",
+        "position": [
+          80,
+          95
+        ],
+        "start": 80,
+        "end": 95
+      }
+    ],
+    "match_count": 4
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Departamento Administrativo de Gestión del Riesgo",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Alerta Roja",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Dagra",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Betulia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Sabaneta",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Gobierno",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "departamento de Antioquia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Antioquia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Ciudad Bolívar",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "El Dagra",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "de Colombia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Andrés Julián Rendón",
+        "tipo": "Persona"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Andrés Julián Rendón",
+        "relacion": "BRINDAR",
+        "objeto": "Departamento Administrativo de Gestión del Riesgo"
+      },
+      {
+        "sujeto": "Andrés Julián Rendón",
+        "relacion": "BRINDAR",
+        "objeto": "Dagra"
+      },
+      {
+        "sujeto": "Antioquia",
+        "relacion": "BRINDAR",
+        "objeto": "Departamento Administrativo de Gestión del Riesgo"
+      },
+      {
+        "sujeto": "Antioquia",
+        "relacion": "BRINDAR",
+        "objeto": "Dagra"
+      },
+      {
+        "sujeto": "Alerta Roja",
+        "relacion": "DECLARAR",
+        "objeto": "Gobierno"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.25,
+    "pos": 0.009,
+    "neu": 0.975,
+    "neg": 0.016,
+    "label": "negative"
+  }
+}

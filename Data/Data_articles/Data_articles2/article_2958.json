@@ -1,0 +1,872 @@
+{
+  "url": "https://www.telesurtv.net/israel-bombardea-al-sur-del-libano-un-muerto-y-11-heridos/",
+  "title": "Israel vuelve a bombardear al sur del Líbano: Un muerto y 11 heridos - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Ataque israelí",
+    "Fuerzas de Defensa de Israel (FDI)",
+    "Hezbolá",
+    "Israel"
+  ],
+  "text": "La Fuerza Aérea Israelí lanzó una nueva oleada de bombardeos contra puntos en Beaufort Ridge, en el sur del Líbano. Estos ataques fueron los terceros en una misma semana, tras la reactivación de las tensiones en Medio Oriente.\nSegún medios libaneses, los bombardeos alcanzaron un área residencial en la ciudad de Nabatiyeh. Durante los ataques aéreos una mujer civil fue asesinada, mientras once personas fueron heridas, según la agencia estatal de noticias del Líbano.\nSumado a esto, varias edificaciones e infraestructura civil en Nabatiyeh fue destruida o significativamente deñada debido a las bombas israelíes.\nLas FDI, alegaron que supuestamente el lugar bombardeado era “usado por Hezbolá” con el propósito de “gestionar su arsenal de fuego y defensa” en la región y “forma parte de un importante proyecto subterráneo que había quedado completamente fuera de servicio en ataques” previos.\n“La presencia de este sitio y los intentos de restablecerlo constituyen una flagrante violación de los acuerdos entre Israel y el Líbano“, intentó justificar la entidad sionista en el comunicado.\nEl texto finaliza advirtiendo que las tropas de Tel Aviv”no permitirán que Hezbolá intente operar en el sitio” y arremeterán contra él de nuevo para “eliminar cualquier amenaza contra el Estado de Israel”.\nEl conflicto entre Israel y Hezbolá se intensificó a lo largo de 2024, especialmente tras la apertura del frente norte por parte del grupo libanés en octubre de 2023, en apoyo a Hamás. La escalada incluyó bombardeos transfronterizos, desplazamientos masivos y numerosas víctimas civiles en ambos lados de la frontera.\nEl alto el fuego fue alcanzado el 26 de noviembre de 2024 y entró en vigor al día siguiente, tras una intensa mediación liderada por Estados Unidos,\nSin embargo durante las recientes agresiones israelíes contra Irán, Hezbolá reafirmó su postura de total apoyo a Teherán, esto desató amenazas desde Tel Aviv al grupo chiita.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/israel-bombardea-al-sur-del-libano-un-muerto-y-11-heridos/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-06.json",
+    "message_index": 239,
+    "message_id": 97595,
+    "date": "2025-06-27T12:55:07+00:00",
+    "text": "teleSUR\nIsrael bombardea al sur del Líbano: Un muerto y 11 heridos\nhttps://www.telesurtv.net/israel-bombardea-al-sur-del-libano-un-muerto-y-11-heridos/",
+    "photo_path": null,
+    "views": 2376,
+    "reactions": {
+      "🤬": 54,
+      "😢": 11,
+      "❤": 2,
+      "💩": 1
+    },
+    "total_reactions": 68
+  },
+  "preprocessing": {
+    "cleaned": "la fuerza aérea israelí lanzó una nueva oleada de bombardeos contra puntos en beaufort ridge, en el sur del líbano. estos ataques fueron los terceros en una misma semana, tras la reactivación de las tensiones en medio oriente. según medios libaneses, los bombardeos alcanzaron un área residencial en la ciudad de nabatiyeh. durante los ataques aéreos una mujer civil fue asesinada, mientras once personas fueron heridas, según la agencia estatal de noticias del líbano. sumado a esto, varias edificaciones e infraestructura civil en nabatiyeh fue destruida o significativamente deñada debido a las bombas israelíes. las fdi, alegaron que supuestamente el lugar bombardeado era “usado por hezbolá” con el propósito de “gestionar su arsenal de fuego y defensa” en la región y “forma parte de un importante proyecto subterráneo que había quedado completamente fuera de servicio en ataques” previos. “la presencia de este sitio y los intentos de restablecerlo constituyen una flagrante violación de los acuerdos entre israel y el líbano“, intentó justificar la entidad sionista en el comunicado. el texto finaliza advirtiendo que las tropas de tel aviv”no permitirán que hezbolá intente operar en el sitio” y arremeterán contra él de nuevo para “eliminar cualquier amenaza contra el estado de israel”. el conflicto entre israel y hezbolá se intensificó a lo largo de 2024, especialmente tras la apertura del frente norte por parte del grupo libanés en octubre de 2023, en apoyo a hamás. la escalada incluyó bombardeos transfronterizos, desplazamientos masivos y numerosas víctimas civiles en ambos lados de la frontera. el alto el fuego fue alcanzado el 26 de noviembre de 2024 y entró en vigor al día siguiente, tras una intensa mediación liderada por estados unidos, sin embargo durante las recientes agresiones israelíes contra irán, hezbolá reafirmó su postura de total apoyo a teherán, esto desató amenazas desde tel aviv al grupo chiita.",
+    "tokens": [
+      "fuerza",
+      "aérea",
+      "israelí",
+      "lanzó",
+      "nueva",
+      "oleada",
+      "bombardeos",
+      "puntos",
+      "beaufort",
+      "ridge",
+      ",",
+      "sur",
+      "líbano",
+      ".",
+      "ataques",
+      "terceros",
+      "misma",
+      "semana",
+      ",",
+      "tras",
+      "reactivación",
+      "tensiones",
+      "medio",
+      "oriente",
+      ".",
+      "según",
+      "medios",
+      "libaneses",
+      ",",
+      "bombardeos",
+      "alcanzaron",
+      "área",
+      "residencial",
+      "ciudad",
+      "nabatiyeh",
+      ".",
+      "ataques",
+      "aéreos",
+      "mujer",
+      "civil",
+      "asesinada",
+      ",",
+      "mientras",
+      "once",
+      "personas",
+      "heridas",
+      ",",
+      "según",
+      "agencia",
+      "estatal",
+      "noticias",
+      "líbano",
+      ".",
+      "sumado",
+      ",",
+      "varias",
+      "edificaciones",
+      "infraestructura",
+      "civil",
+      "nabatiyeh",
+      "destruida",
+      "significativamente",
+      "deñada",
+      "debido",
+      "bombas",
+      "israelíes",
+      ".",
+      "fdi",
+      ",",
+      "alegaron",
+      "supuestamente",
+      "lugar",
+      "bombardeado",
+      "“",
+      "usado",
+      "hezbolá",
+      "”",
+      "propósito",
+      "“",
+      "gestionar",
+      "arsenal",
+      "fuego",
+      "defensa",
+      "”",
+      "región",
+      "“",
+      "forma",
+      "parte",
+      "importante",
+      "proyecto",
+      "subterráneo",
+      "quedado",
+      "completamente",
+      "servicio",
+      "ataques",
+      "”",
+      "previos",
+      ".",
+      "“",
+      "presencia",
+      "sitio",
+      "intentos",
+      "restablecerlo",
+      "constituyen",
+      "flagrante",
+      "violación",
+      "acuerdos",
+      "israel",
+      "líbano",
+      "“",
+      ",",
+      "intentó",
+      "justificar",
+      "entidad",
+      "sionista",
+      "comunicado",
+      ".",
+      "texto",
+      "finaliza",
+      "advirtiendo",
+      "tropas",
+      "tel",
+      "aviv",
+      "”",
+      "permitirán",
+      "hezbolá",
+      "intente",
+      "operar",
+      "sitio",
+      "”",
+      "arremeterán",
+      "nuevo",
+      "“",
+      "eliminar",
+      "cualquier",
+      "amenaza",
+      "israel",
+      "”",
+      ".",
+      "conflicto",
+      "israel",
+      "hezbolá",
+      "intensificó",
+      "largo",
+      "2024",
+      ",",
+      "especialmente",
+      "tras",
+      "apertura",
+      "frente",
+      "norte",
+      "parte",
+      "grupo",
+      "libanés",
+      "octubre",
+      "2023",
+      ",",
+      "apoyo",
+      "hamás",
+      ".",
+      "escalada",
+      "incluyó",
+      "bombardeos",
+      "transfronterizos",
+      ",",
+      "desplazamientos",
+      "masivos",
+      "numerosas",
+      "víctimas",
+      "civiles",
+      "ambos",
+      "lados",
+      "frontera",
+      ".",
+      "alto",
+      "fuego",
+      "alcanzado",
+      "26",
+      "noviembre",
+      "2024",
+      "entró",
+      "vigor",
+      "día",
+      "siguiente",
+      ",",
+      "tras",
+      "intensa",
+      "mediación",
+      "liderada",
+      "unidos",
+      ",",
+      "embargo",
+      "recientes",
+      "agresiones",
+      "israelíes",
+      "irán",
+      ",",
+      "hezbolá",
+      "reafirmó",
+      "postura",
+      "total",
+      "apoyo",
+      "teherán",
+      ",",
+      "desató",
+      "amenazas",
+      "tel",
+      "aviv",
+      "grupo",
+      "chiita",
+      "."
+    ],
+    "token_count": 211,
+    "sentence_count": 11
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 45,
+      "VBZ": 5,
+      "JJ": 37,
+      "NN": 103,
+      "IN": 14,
+      "FW": 56,
+      "NNS": 14,
+      "VB": 1,
+      "VBP": 7,
+      "RB": 1,
+      "DT": 1,
+      "JJR": 1,
+      "VBD": 2,
+      "CD": 4
+    },
+    "bigram_freq": {
+      "NNP-NNP": 20,
+      "NNP-VBZ": 3,
+      "VBZ-JJ": 2,
+      "JJ-JJ": 8,
+      "JJ-NN": 18,
+      "NN-IN": 10,
+      "IN-FW": 6,
+      "FW-JJ": 4,
+      "JJ-NNS": 2,
+      "NNS-FW": 1,
+      "FW-NNP": 6,
+      "NNP-FW": 4,
+      "FW-FW": 33,
+      "VBZ-VB": 1,
+      "VB-JJ": 1,
+      "NNS-VBP": 7,
+      "VBP-JJ": 6,
+      "NN-NN": 60,
+      "NN-NNS": 7,
+      "VBP-FW": 1,
+      "FW-NNS": 3,
+      "NNS-IN": 1,
+      "IN-NNP": 3,
+      "NNP-NNS": 1,
+      "NNS-VBZ": 1,
+      "NN-JJ": 8,
+      "JJ-NNP": 6,
+      "NNP-NN": 14,
+      "NN-FW": 7,
+      "FW-RB": 1,
+      "RB-JJ": 1,
+      "JJ-FW": 3,
+      "NN-NNP": 8,
+      "IN-JJ": 2,
+      "NNS-NNP": 1,
+      "NNS-JJ": 3,
+      "FW-NN": 6,
+      "NNP-DT": 1,
+      "DT-NN": 1,
+      "FW-JJR": 1,
+      "JJR-JJ": 1,
+      "NNP-IN": 1,
+      "NNP-VBD": 1,
+      "VBD-JJ": 1,
+      "IN-CD": 2,
+      "CD-NN": 2,
+      "FW-CD": 1,
+      "CD-IN": 1,
+      "IN-NN": 1,
+      "NN-VBD": 1,
+      "VBD-CD": 1,
+      "CD-FW": 1,
+      "FW-IN": 1,
+      "NN-VBZ": 1,
+      "VBZ-NNS": 1,
+      "VBZ-NN": 1
+    },
+    "trigram_freq": {
+      "NNP-NNP-NNP": 5,
+      "NNP-NNP-VBZ": 3,
+      "NNP-VBZ-JJ": 1,
+      "VBZ-JJ-JJ": 2,
+      "JJ-JJ-NN": 5,
+      "JJ-NN-IN": 6,
+      "NN-IN-FW": 6,
+      "IN-FW-JJ": 2,
+      "FW-JJ-NNS": 1,
+      "JJ-NNS-FW": 1,
+      "NNS-FW-NNP": 1,
+      "FW-NNP-NNP": 4,
+      "NNP-NNP-FW": 2,
+      "NNP-FW-FW": 3,
+      "FW-FW-FW": 20,
+      "FW-FW-NNP": 4,
+      "NNP-VBZ-VB": 1,
+      "VBZ-VB-JJ": 1,
+      "VB-JJ-NNS": 1,
+      "JJ-NNS-VBP": 1,
+      "NNS-VBP-JJ": 6,
+      "VBP-JJ-NN": 3,
+      "JJ-NN-NN": 7,
+      "NN-NN-NNS": 4,
+      "NN-NNS-VBP": 6,
+      "NNS-VBP-FW": 1,
+      "VBP-FW-FW": 1,
+      "FW-FW-NNS": 3,
+      "FW-NNS-IN": 1,
+      "NNS-IN-NNP": 1,
+      "IN-NNP-NNP": 3,
+      "NNP-NNP-NNS": 1,
+      "NNP-NNS-VBZ": 1,
+      "NNS-VBZ-JJ": 1,
+      "JJ-NN-JJ": 2,
+      "NN-JJ-NNP": 3,
+      "JJ-NNP-NN": 2,
+      "NNP-NN-NN": 13,
+      "NN-NN-FW": 5,
+      "NN-FW-FW": 3,
+      "NNP-NNP-NN": 7,
+      "NNP-NN-NNS": 1,
+      "NN-JJ-NN": 5,
+      "NN-FW-RB": 1,
+      "FW-RB-JJ": 1,
+      "RB-JJ-NN": 1,
+      "NN-NN-NN": 34,
+      "NN-NN-JJ": 6,
+      "IN-FW-FW": 3,
+      "VBP-JJ-FW": 2,
+      "JJ-FW-NNP": 1,
+      "FW-NNP-NN": 2,
+      "VBP-JJ-NNP": 1,
+      "JJ-NNP-NNP": 3,
+      "JJ-NN-NNP": 2,
+      "NN-NNP-NN": 3,
+      "NN-NN-IN": 4,
+      "FW-JJ-NN": 3,
+      "FW-FW-JJ": 2,
+      "NN-IN-JJ": 2,
+      "IN-JJ-JJ": 2,
+      "FW-NNS-NNP": 1,
+      "NNS-NNP-FW": 1,
+      "FW-NNS-JJ": 1,
+      "NNS-JJ-JJ": 3,
+      "JJ-JJ-FW": 1,
+      "JJ-FW-FW": 2,
+      "NN-NNP-NNP": 4,
+      "NN-FW-NN": 3,
+      "FW-NN-FW": 1,
+      "FW-FW-NN": 1,
+      "FW-NN-NNP": 1,
+      "NN-IN-NNP": 1,
+      "NNP-NNP-DT": 1,
+      "NNP-DT-NN": 1,
+      "DT-NN-NN": 1,
+      "NN-NN-NNP": 4,
+      "IN-FW-NN": 1,
+      "FW-NN-NN": 4,
+      "JJ-NNP-FW": 1,
+      "FW-FW-JJR": 1,
+      "FW-JJR-JJ": 1,
+      "JJR-JJ-NN": 1,
+      "NN-NNP-IN": 1,
+      "NNP-IN-NNP": 1,
+      "NNP-NNP-VBD": 1,
+      "NNP-VBD-JJ": 1,
+      "VBD-JJ-JJ": 1,
+      "NN-IN-CD": 1,
+      "IN-CD-NN": 2,
+      "CD-NN-NNS": 1,
+      "FW-FW-CD": 1,
+      "FW-CD-IN": 1,
+      "CD-IN-NN": 1,
+      "IN-NN-NNP": 1,
+      "NNP-FW-NN": 1,
+      "JJ-NN-NNS": 1,
+      "NN-NN-VBD": 1,
+      "NN-VBD-CD": 1,
+      "VBD-CD-FW": 1,
+      "CD-FW-FW": 1,
+      "FW-FW-IN": 1,
+      "FW-IN-CD": 1,
+      "CD-NN-FW": 1,
+      "NN-NNS-JJ": 1,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-NNS": 1,
+      "VBZ-NNS-JJ": 1,
+      "JJ-JJ-NNP": 2,
+      "NNP-VBZ-NN": 1,
+      "VBZ-NN-NN": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 103,
+        "FW": 56,
+        "NNP": 45,
+        "JJ": 37,
+        "IN": 14
+      },
+      "top_bigrams": {
+        "NN-NN": 60,
+        "FW-FW": 33,
+        "NNP-NNP": 20,
+        "JJ-NN": 18,
+        "NNP-NN": 14
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 34,
+        "FW-FW-FW": 20,
+        "NNP-NN-NN": 13,
+        "JJ-NN-NN": 7,
+        "NNP-NNP-NN": 7
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 11,
+    "chunk_counts": {
+      "NP": 75,
+      "VP": 21,
+      "PP": 6,
+      "ADJP": 2
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 5,
+        "weight": 0.0435
+      },
+      {
+        "rule": "NP -> ('Líbano', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0174
+      },
+      {
+        "rule": "S -> NP VP ('de', 'IN') ('bombardeos', 'FW') NP ('en', 'FW') NP (',', ',') ('en', 'FW') ('el', 'FW') ('sur', 'FW') ('del', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0087
+      },
+      {
+        "rule": "NP -> ('La', 'NNP') ('Fuerza', 'NNP') ('Aérea', 'NNP') ('Israelí', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0087
+      },
+      {
+        "rule": "VP -> ('lanzó', 'VBZ') NP",
+        "frequency": 1,
+        "weight": 0.0087
+      },
+      {
+        "rule": "NP -> ('una', 'JJ') ('nueva', 'JJ') ('oleada', 'NN')",
+        "frequency": 1,
+        "weight": 0.0087
+      },
+      {
+        "rule": "NP -> ('contra', 'JJ') ('puntos', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0087
+      },
+      {
+        "rule": "NP -> ('Beaufort', 'NNP') ('Ridge', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0087
+      },
+      {
+        "rule": "S -> NP VP VP VP (',', ',') ('tras', 'EX') ('la', 'FW') ('reactivación', 'FW') ('de', 'FW') ('las', 'FW') NP PP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0087
+      },
+      {
+        "rule": "NP -> ('Estos', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0087
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "La Fuerza Aérea Israelí"
+      },
+      {
+        "label": "VP",
+        "text": "lanzó una nueva oleada"
+      },
+      {
+        "label": "NP",
+        "text": "una nueva oleada"
+      },
+      {
+        "label": "NP",
+        "text": "contra puntos"
+      },
+      {
+        "label": "NP",
+        "text": "Beaufort Ridge"
+      },
+      {
+        "label": "NP",
+        "text": "Líbano"
+      },
+      {
+        "label": "NP",
+        "text": "Estos"
+      },
+      {
+        "label": "VP",
+        "text": "ataques"
+      },
+      {
+        "label": "VP",
+        "text": "fueron los terceros"
+      },
+      {
+        "label": "NP",
+        "text": "los terceros"
+      },
+      {
+        "label": "VP",
+        "text": "en una misma semana"
+      },
+      {
+        "label": "NP",
+        "text": "una misma semana"
+      },
+      {
+        "label": "NP",
+        "text": "tensiones"
+      },
+      {
+        "label": "PP",
+        "text": "en Medio Oriente"
+      },
+      {
+        "label": "NP",
+        "text": "Medio Oriente"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP La/NNP Fuerza/NNP Aérea/NNP Israelí/NNP)\n  (VP lanzó/VBZ (NP una/JJ nueva/JJ oleada/NN))\n  de/IN\n  bombardeos/FW\n  (NP contra/JJ puntos/NNS)\n  en/FW\n  (NP Beaufort/NNP Ridge/NNP)\n  ,/,\n  en/FW\n  el/FW\n  sur/FW\n  del/FW\n  (NP Líbano/NNP)\n  ./.)",
+      "(S\n  (NP Estos/NNP)\n  (VP ataques/VBZ)\n  (VP fueron/VB (NP los/JJ terceros/NNS))\n  (VP en/VBP (NP una/JJ misma/NN semana/NN))\n  ,/,\n  tras/EX\n  la/FW\n  reactivación/FW\n  de/FW\n  las/FW\n  (NP tensiones/NNS)\n  (PP en/IN (NP Medio/NNP Oriente/NNP))\n  ./.)",
+      "(S\n  (NP Según/NNP medios/NNS)\n  (VP libaneses/VBZ)\n  ,/,\n  (NP los/JJ bombardeos/NN alcanzaron/NN)\n  (NP un/JJ área/NNP residencial/NN en/NN)\n  la/FW\n  ciudad/FW\n  de/FW\n  (NP Nabatiyeh/NNP)\n  ./.)",
+      "(S\n  (NP Durante/NNP los/NN ataques/NNS)\n  (VP\n    aéreos/VBP\n    (NP una/JJ mujer/NN)\n    (NP civil/JJ fue/NN asesinada/NN))\n  ,/,\n  mientras/FW\n  once/RB\n  (NP personas/JJ fueron/NN heridas/NN)\n  ,/,\n  (NP según/JJ la/NN)\n  (NP agencia/JJ estatal/NN)\n  de/IN\n  noticias/FW\n  del/FW\n  (NP Líbano/NNP)\n  ./.)",
+      "(S\n  (NP Sumado/NNP)\n  (NP a/DT esto/NN)\n  ,/,\n  (NP varias/JJ edificaciones/NNS)\n  (VP\n    e/VBP\n    (NP\n      infraestructura/JJ\n      civil/JJ\n      en/NN\n      Nabatiyeh/NNP\n      fue/NN\n      destruida/NN\n      o/NN\n      significativamente/NN\n      deñada/NN))\n  (VP debido/VBZ (NP a/DT las/JJ bombas/NN israelíes/NN))\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "FECHAS_ESPECIFICAS",
+      "APROBACION_RECHAZO",
+      "ANTIIMPERIALISMO_SOBERANIA",
+      "REGIONES_PROVINCIAS",
+      "PAISES",
+      "CONFLICTOS_ARMADOS_OPERACIONES",
+      "JURIDICO_LEGISLATIVO_CORRUPCION"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "conflicto entre israel",
+        "position": [
+          1301,
+          1323
+        ],
+        "start": 1301,
+        "end": 1323
+      },
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "víctimas civiles",
+        "position": [
+          1568,
+          1584
+        ],
+        "start": 1568,
+        "end": 1584
+      },
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "agresiones israelíes",
+        "position": [
+          1799,
+          1819
+        ],
+        "start": 1799,
+        "end": 1819
+      },
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "conflicto entre israel y",
+        "position": [
+          1301,
+          1325
+        ],
+        "start": 1301,
+        "end": 1325
+      },
+      {
+        "category": "JURIDICO_LEGISLATIVO_CORRUPCION",
+        "matched_text": "defensa",
+        "position": [
+          750,
+          757
+        ],
+        "start": 750,
+        "end": 757
+      },
+      {
+        "category": "APROBACION_RECHAZO",
+        "matched_text": "reafirmó",
+        "position": [
+          1841,
+          1849
+        ],
+        "start": 1841,
+        "end": 1849
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "estados unidos",
+        "position": [
+          1749,
+          1763
+        ],
+        "start": 1749,
+        "end": 1763
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "israelí",
+        "position": [
+          16,
+          23
+        ],
+        "start": 16,
+        "end": 23
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "área residencial",
+        "position": [
+          280,
+          296
+        ],
+        "start": 280,
+        "end": 296
+      },
+      {
+        "category": "FECHAS_ESPECIFICAS",
+        "matched_text": "26 de noviembre de 2024",
+        "position": [
+          1650,
+          1673
+        ],
+        "start": 1650,
+        "end": 1673
+      },
+      {
+        "category": "ANTIIMPERIALISMO_SOBERANIA",
+        "matched_text": "embargo",
+        "position": [
+          1769,
+          1776
+        ],
+        "start": 1769,
+        "end": 1776
+      }
+    ],
+    "match_count": 11
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Irán",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Fuerza Aérea Israelí",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Hezbolá",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Estado de Israel",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Hamás",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Tel Aviv”no",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Estados Unidos",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Líbano",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Israel",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Nabatiyeh",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Teherán",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "FDI",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Beaufort Ridge",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Tel Aviv",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Fuerza Aérea Israelí",
+        "relacion": "LANZAR",
+        "objeto": "Beaufort Ridge"
+      },
+      {
+        "sujeto": "Fuerza Aérea Israelí",
+        "relacion": "LANZAR",
+        "objeto": "Líbano"
+      },
+      {
+        "sujeto": "FDI",
+        "relacion": "ALEGAR",
+        "objeto": "Hezbolá"
+      },
+      {
+        "sujeto": "Hezbolá",
+        "relacion": "ADVERTIR_FINALIZAR",
+        "objeto": "Tel Aviv”no"
+      },
+      {
+        "sujeto": "Tel Aviv”no",
+        "relacion": "ADVERTIR_FINALIZAR",
+        "objeto": "Estado de Israel"
+      },
+      {
+        "sujeto": "Hezbolá",
+        "relacion": "INTENTAR_PERMITIR_FINALIZAR",
+        "objeto": "Estado de Israel"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "INTENSIFICAR",
+        "objeto": "Hamás"
+      },
+      {
+        "sujeto": "Hezbolá",
+        "relacion": "INTENSIFICAR",
+        "objeto": "Hamás"
+      },
+      {
+        "sujeto": "Estados Unidos",
+        "relacion": "ALCANZAR",
+        "objeto": "Irán"
+      },
+      {
+        "sujeto": "Hezbolá",
+        "relacion": "ALCANZAR",
+        "objeto": "Estados Unidos"
+      },
+      {
+        "sujeto": "Estados Unidos",
+        "relacion": "ALCANZAR",
+        "objeto": "Teherán"
+      },
+      {
+        "sujeto": "Estados Unidos",
+        "relacion": "ALCANZAR",
+        "objeto": "Tel Aviv"
+      },
+      {
+        "sujeto": "Hezbolá",
+        "relacion": "SIN_ALCANZAR",
+        "objeto": "Irán"
+      },
+      {
+        "sujeto": "Irán",
+        "relacion": "SIN_ALCANZAR",
+        "objeto": "Teherán"
+      },
+      {
+        "sujeto": "Irán",
+        "relacion": "SIN_ALCANZAR",
+        "objeto": "Tel Aviv"
+      },
+      {
+        "sujeto": "Hezbolá",
+        "relacion": "REAFIRMAR_ALCANZAR",
+        "objeto": "Teherán"
+      },
+      {
+        "sujeto": "Hezbolá",
+        "relacion": "REAFIRMAR_ALCANZAR",
+        "objeto": "Tel Aviv"
+      },
+      {
+        "sujeto": "Teherán",
+        "relacion": "REAFIRMAR_ALCANZAR",
+        "objeto": "Tel Aviv"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.3612,
+    "pos": 0.007,
+    "neu": 0.981,
+    "neg": 0.012,
+    "label": "negative"
+  }
+}

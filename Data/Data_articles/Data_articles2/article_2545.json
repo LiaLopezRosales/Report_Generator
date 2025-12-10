@@ -1,0 +1,700 @@
+{
+  "url": "https://www.telesurtv.net/opositores-extrema-derecha-embajada-argentina/",
+  "title": "Opositores de la extrema derecha abandonan embajada de Argentina en Caracas, Venezuela",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "Embajada Argentina en Caracas",
+    "extrema derecha",
+    "Venezuela"
+  ],
+  "text": "El Gobierno de Venezuela otorgó salvoconductos a varios opositores que se encontraban refugiados en la Embajada de Argentina en Caracas (capital), tras negociaciones de alto nivel, de acuerdo con información proporcionada por medios locales.\n“La salida de los asilados en la Embajada de Argentina en Caracas es una buena noticia”, afirmó en la red social X el periodista venezolano Vladimir Villegas.\nAsimismo, destacó que “indudablemente hubo una negociación” y acotó en el mensaje que “negociar no es traicionar”.\nSegún medios locales, los ultraderechistas que abandonaron la Embajada son colaboradores de la opositora María Corina Machado, y se nombran: Magalli Meda, Claudia Macero, Pedro Urruchurtu, Humberto Villalobos y Omar González, quienes fueron responsabilizados por el Ministerio Público por los delitos de traición a la patria y conspiración.\nTambién transcendió que, tras recibir los salvoconductos negociados con el Gobierno, los colaboradores de la extrema derecha venezolana abandonaron el territorio nacional.\nEn la misma red social, Villegas destacó también que “me cuentan que la Embajada de Brasil en Caracas no estuvo involucrada directamente en la salida de los asilados en la Embajada de Argentina, aunque no se descarta que Itamaraty haya tenido alguna participación”.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/opositores-extrema-derecha-embajada-argentina/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-05.json",
+    "message_index": 1664,
+    "message_id": 93510,
+    "date": "2025-05-07T01:55:07+00:00",
+    "text": "teleSUR\nOpositores de la extrema derecha abandonan embajada de Argentina en Caracas, Venezuela\nhttps://www.telesurtv.net/opositores-extrema-derecha-embajada-argentina/",
+    "photo_path": null,
+    "views": 2425,
+    "reactions": {
+      "👍": 23,
+      "🤬": 15,
+      "😈": 5,
+      "🤨": 4
+    },
+    "total_reactions": 47
+  },
+  "preprocessing": {
+    "cleaned": "el gobierno de venezuela otorgó salvoconductos a varios opositores que se encontraban refugiados en la embajada de argentina en caracas (capital), tras negociaciones de alto nivel, de acuerdo con información proporcionada por medios locales. “la salida de los asilados en la embajada de argentina en caracas es una buena noticia”, afirmó en la red social x el periodista venezolano vladimir villegas. asimismo, destacó que “indudablemente hubo una negociación” y acotó en el mensaje que “negociar no es traicionar”. según medios locales, los ultraderechistas que abandonaron la embajada son colaboradores de la opositora maría corina machado, y se nombran: magalli meda, claudia macero, pedro urruchurtu, humberto villalobos y omar gonzález, quienes fueron responsabilizados por el ministerio público por los delitos de traición a la patria y conspiración. también transcendió que, tras recibir los salvoconductos negociados con el gobierno, los colaboradores de la extrema derecha venezolana abandonaron el territorio nacional. en la misma red social, villegas destacó también que “me cuentan que la embajada de brasil en caracas no estuvo involucrada directamente en la salida de los asilados en la embajada de argentina, aunque no se descarta que itamaraty haya tenido alguna participación”.",
+    "tokens": [
+      "gobierno",
+      "venezuela",
+      "otorgó",
+      "salvoconductos",
+      "varios",
+      "opositores",
+      "encontraban",
+      "refugiados",
+      "embajada",
+      "argentina",
+      "caracas",
+      "(",
+      "capital",
+      ")",
+      ",",
+      "tras",
+      "negociaciones",
+      "alto",
+      "nivel",
+      ",",
+      "acuerdo",
+      "información",
+      "proporcionada",
+      "medios",
+      "locales",
+      ".",
+      "“",
+      "salida",
+      "asilados",
+      "embajada",
+      "argentina",
+      "caracas",
+      "buena",
+      "noticia",
+      "”",
+      ",",
+      "afirmó",
+      "red",
+      "social",
+      "x",
+      "periodista",
+      "venezolano",
+      "vladimir",
+      "villegas",
+      ".",
+      "asimismo",
+      ",",
+      "destacó",
+      "“",
+      "indudablemente",
+      "negociación",
+      "”",
+      "acotó",
+      "mensaje",
+      "“",
+      "negociar",
+      "traicionar",
+      "”",
+      ".",
+      "según",
+      "medios",
+      "locales",
+      ",",
+      "ultraderechistas",
+      "abandonaron",
+      "embajada",
+      "colaboradores",
+      "opositora",
+      "maría",
+      "corina",
+      "machado",
+      ",",
+      "nombran",
+      ":",
+      "magalli",
+      "meda",
+      ",",
+      "claudia",
+      "macero",
+      ",",
+      "pedro",
+      "urruchurtu",
+      ",",
+      "humberto",
+      "villalobos",
+      "omar",
+      "gonzález",
+      ",",
+      "responsabilizados",
+      "ministerio",
+      "público",
+      "delitos",
+      "traición",
+      "patria",
+      "conspiración",
+      ".",
+      "transcendió",
+      ",",
+      "tras",
+      "recibir",
+      "salvoconductos",
+      "negociados",
+      "gobierno",
+      ",",
+      "colaboradores",
+      "extrema",
+      "derecha",
+      "venezolana",
+      "abandonaron",
+      "territorio",
+      "nacional",
+      ".",
+      "misma",
+      "red",
+      "social",
+      ",",
+      "villegas",
+      "destacó",
+      "“",
+      "cuentan",
+      "embajada",
+      "brasil",
+      "caracas",
+      "involucrada",
+      "directamente",
+      "salida",
+      "asilados",
+      "embajada",
+      "argentina",
+      ",",
+      "aunque",
+      "descarta",
+      "itamaraty",
+      "alguna",
+      "participación",
+      "”",
+      "."
+    ],
+    "token_count": 137,
+    "sentence_count": 6
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 40,
+      "FW": 41,
+      "MD": 1,
+      "VB": 1,
+      "NNS": 7,
+      "VBZ": 6,
+      "JJ": 20,
+      "NN": 53,
+      "IN": 8,
+      "DT": 3,
+      "VBP": 3,
+      "PRP": 1
+    },
+    "bigram_freq": {
+      "NNP-NNP": 15,
+      "NNP-FW": 10,
+      "FW-NNP": 13,
+      "NNP-MD": 1,
+      "MD-VB": 1,
+      "VB-NNS": 1,
+      "NNS-VBZ": 3,
+      "VBZ-JJ": 3,
+      "JJ-JJ": 7,
+      "JJ-NN": 9,
+      "NN-NN": 27,
+      "NN-IN": 5,
+      "IN-FW": 5,
+      "NNP-NN": 10,
+      "NN-NNS": 4,
+      "NNS-IN": 2,
+      "FW-FW": 23,
+      "FW-NN": 4,
+      "VBZ-NNP": 1,
+      "FW-JJ": 1,
+      "IN-NN": 1,
+      "NN-JJ": 5,
+      "NN-NNP": 8,
+      "IN-DT": 1,
+      "DT-NN": 2,
+      "NNP-NNS": 2,
+      "NN-VBZ": 2,
+      "VBZ-IN": 1,
+      "NNS-VBP": 2,
+      "VBP-JJ": 3,
+      "NN-FW": 1,
+      "JJ-NNP": 2,
+      "IN-PRP": 1,
+      "PRP-VBP": 1,
+      "JJ-FW": 2,
+      "NNP-DT": 1,
+      "NNP-VBZ": 1,
+      "VBZ-DT": 1,
+      "DT-JJ": 1
+    },
+    "trigram_freq": {
+      "NNP-NNP-FW": 1,
+      "NNP-FW-NNP": 8,
+      "FW-NNP-MD": 1,
+      "NNP-MD-VB": 1,
+      "MD-VB-NNS": 1,
+      "VB-NNS-VBZ": 1,
+      "NNS-VBZ-JJ": 2,
+      "VBZ-JJ-JJ": 2,
+      "JJ-JJ-NN": 5,
+      "JJ-NN-NN": 6,
+      "NN-NN-IN": 3,
+      "NN-IN-FW": 2,
+      "IN-FW-NNP": 1,
+      "FW-NNP-FW": 8,
+      "FW-NNP-NN": 1,
+      "NNP-NN-NN": 8,
+      "NN-NN-NNS": 3,
+      "NN-NNS-IN": 2,
+      "NNS-IN-FW": 2,
+      "IN-FW-FW": 4,
+      "FW-FW-FW": 16,
+      "FW-FW-NN": 4,
+      "FW-NN-NN": 2,
+      "NN-NN-NN": 10,
+      "NN-NNS-VBZ": 1,
+      "NNS-VBZ-NNP": 1,
+      "VBZ-NNP-FW": 1,
+      "NNP-FW-FW": 1,
+      "FW-FW-NNP": 3,
+      "NNP-FW-JJ": 1,
+      "FW-JJ-NN": 1,
+      "NN-IN-NN": 1,
+      "IN-NN-JJ": 1,
+      "NN-JJ-JJ": 3,
+      "JJ-NN-JJ": 1,
+      "NN-JJ-NN": 1,
+      "JJ-NN-NNP": 1,
+      "NN-NNP-NNP": 3,
+      "NNP-NNP-NNP": 10,
+      "NNP-NNP-NN": 3,
+      "NN-NN-JJ": 3,
+      "JJ-NN-IN": 1,
+      "FW-NN-IN": 1,
+      "NN-IN-DT": 1,
+      "IN-DT-NN": 1,
+      "DT-NN-NN": 1,
+      "NN-NN-NNP": 6,
+      "NN-NNP-NNS": 1,
+      "NNP-NNS-VBZ": 1,
+      "NN-NNP-NN": 4,
+      "NNP-NN-VBZ": 1,
+      "NN-VBZ-IN": 1,
+      "VBZ-IN-FW": 1,
+      "FW-NNP-NNP": 1,
+      "NNP-NNP-NNS": 1,
+      "NNP-NNS-VBP": 1,
+      "NNS-VBP-JJ": 2,
+      "VBP-JJ-NN": 1,
+      "NN-NN-FW": 1,
+      "NN-FW-FW": 1,
+      "FW-NN-NNP": 1,
+      "NN-NNS-VBP": 1,
+      "VBP-JJ-JJ": 1,
+      "JJ-JJ-JJ": 1,
+      "NNP-NN-NNS": 1,
+      "NN-JJ-NNP": 1,
+      "JJ-NNP-NN": 2,
+      "JJ-JJ-NNP": 1,
+      "NN-IN-PRP": 1,
+      "IN-PRP-VBP": 1,
+      "PRP-VBP-JJ": 1,
+      "VBP-JJ-FW": 1,
+      "JJ-FW-NNP": 1,
+      "FW-NNP-DT": 1,
+      "NNP-DT-NN": 1,
+      "DT-NN-VBZ": 1,
+      "NN-VBZ-JJ": 1,
+      "VBZ-JJ-FW": 1,
+      "JJ-FW-FW": 1,
+      "FW-NNP-VBZ": 1,
+      "NNP-VBZ-DT": 1,
+      "VBZ-DT-JJ": 1,
+      "DT-JJ-NN": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 53,
+        "FW": 41,
+        "NNP": 40,
+        "JJ": 20,
+        "IN": 8
+      },
+      "top_bigrams": {
+        "NN-NN": 27,
+        "FW-FW": 23,
+        "NNP-NNP": 15,
+        "FW-NNP": 13,
+        "NNP-FW": 10
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 16,
+        "NN-NN-NN": 10,
+        "NNP-NNP-NNP": 10,
+        "NNP-FW-NNP": 8,
+        "FW-NNP-FW": 8
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 6,
+    "chunk_counts": {
+      "NP": 49,
+      "VP": 10,
+      "ADJP": 4
+    },
+    "top_rules": [
+      {
+        "rule": "NP -> ('Embajada', 'NNP')",
+        "frequency": 4,
+        "weight": 0.058
+      },
+      {
+        "rule": "NP -> ('Argentina', 'NNP')",
+        "frequency": 3,
+        "weight": 0.0435
+      },
+      {
+        "rule": "NP -> ('Caracas', 'NNP')",
+        "frequency": 3,
+        "weight": 0.0435
+      },
+      {
+        "rule": "S -> NP ('de', 'FW') NP ('otorgó', 'MD') VP VP ('en', 'IN') ('la', 'FW') NP ('de', 'FW') NP ('en', 'FW') NP ('(', '(') NP (')', ')') (',', ',') NP ('de', 'IN') ('alto', 'FW') ADJP (',', ',') ('de', 'FW') ('acuerdo', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0145
+      },
+      {
+        "rule": "NP -> ('El', 'NNP') ('Gobierno', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0145
+      },
+      {
+        "rule": "NP -> ('Venezuela', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0145
+      },
+      {
+        "rule": "VP -> ('salvoconductos', 'VB') NP",
+        "frequency": 1,
+        "weight": 0.0145
+      },
+      {
+        "rule": "NP -> ('a', 'DT') ('varios', 'JJ') ('opositores', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0145
+      },
+      {
+        "rule": "VP -> ('que', 'VBP') NP",
+        "frequency": 1,
+        "weight": 0.0145
+      },
+      {
+        "rule": "NP -> ('se', 'JJ') ('encontraban', 'JJ') ('refugiados', 'NN')",
+        "frequency": 1,
+        "weight": 0.0145
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El Gobierno"
+      },
+      {
+        "label": "NP",
+        "text": "Venezuela"
+      },
+      {
+        "label": "VP",
+        "text": "salvoconductos a varios opositores"
+      },
+      {
+        "label": "NP",
+        "text": "a varios opositores"
+      },
+      {
+        "label": "VP",
+        "text": "que se encontraban refugiados"
+      },
+      {
+        "label": "NP",
+        "text": "se encontraban refugiados"
+      },
+      {
+        "label": "NP",
+        "text": "Embajada"
+      },
+      {
+        "label": "NP",
+        "text": "Argentina"
+      },
+      {
+        "label": "NP",
+        "text": "Caracas"
+      },
+      {
+        "label": "NP",
+        "text": "capital"
+      },
+      {
+        "label": "NP",
+        "text": "tras negociaciones"
+      },
+      {
+        "label": "ADJP",
+        "text": "nivel"
+      },
+      {
+        "label": "NP",
+        "text": "con información proporcionada por medios locales"
+      },
+      {
+        "label": "NP",
+        "text": "“ La"
+      },
+      {
+        "label": "NP",
+        "text": "Embajada"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP El/NNP Gobierno/NNP)\n  de/FW\n  (NP Venezuela/NNP)\n  otorgó/MD\n  (VP salvoconductos/VB (NP a/DT varios/JJ opositores/NNS))\n  (VP que/VBP (NP se/JJ encontraban/JJ refugiados/NN))\n  en/IN\n  la/FW\n  (NP Embajada/NNP)\n  de/FW\n  (NP Argentina/NNP)\n  en/FW\n  (NP Caracas/NNP)\n  (/(\n  (NP capital/NN)\n  )/)\n  ,/,\n  (NP tras/JJ negociaciones/NNS)\n  de/IN\n  alto/FW\n  (ADJP nivel/JJ)\n  ,/,\n  de/FW\n  acuerdo/FW\n  (NP\n    con/NN\n    información/NN\n    proporcionada/NN\n    por/NN\n    medios/NNS\n    locales/NNS)\n  ./.)",
+      "(S\n  (NP “/JJ La/NNP)\n  salida/FW\n  de/FW\n  los/FW\n  asilados/FW\n  en/FW\n  la/FW\n  (NP Embajada/NNP)\n  de/FW\n  (NP Argentina/NNP)\n  en/FW\n  (NP Caracas/NNP)\n  es/FW\n  (NP una/JJ buena/NN noticia/NN ”/NNP)\n  ,/,\n  (NP afirmó/NN)\n  en/FW\n  (NP la/NN)\n  (NP\n    red/JJ\n    social/JJ\n    X/NNP\n    el/NN\n    periodista/NN\n    venezolano/NN\n    Vladimir/NNP\n    Villegas/NNP)\n  ./.)",
+      "(S\n  (NP Asimismo/NNP)\n  ,/,\n  (NP destacó/NN que/NN “/NNP indudablemente/NN hubo/NN)\n  (NP una/JJ negociación/JJ ”/NN y/NN acotó/NN)\n  en/IN\n  el/FW\n  mensaje/FW\n  (NP que/NN “/NNP)\n  (VP negociar/VBZ (NP no/DT es/NN traicionar/NN ”/NN))\n  ./.)",
+      "(S\n  (NP Según/NNP medios/NNS locales/NNS)\n  ,/,\n  (NP\n    los/JJ\n    ultraderechistas/JJ\n    que/NN\n    abandonaron/NN\n    la/NN\n    Embajada/NNP\n    son/NN)\n  (VP colaboradores/VBZ)\n  de/IN\n  la/FW\n  opositora/FW\n  (NP María/NNP Corina/NNP Machado/NNP)\n  ,/,\n  (NP y/NNP)\n  se/FW\n  (NP nombran/NN)\n  :/:\n  (NP Magalli/NNP Meda/NNP)\n  ,/,\n  (NP Claudia/NNP Macero/NNP)\n  ,/,\n  (NP Pedro/NNP Urruchurtu/NNP)\n  ,/,\n  (NP Humberto/NNP Villalobos/NNP y/NNP Omar/NNP González/NNP)\n  ,/,\n  (VP\n    quienes/VBZ\n    (NP\n      fueron/NN\n      responsabilizados/NN\n      por/NN\n      el/NN\n      Ministerio/NNP\n      Público/NNP\n      por/NN\n      los/NN\n      delitos/NN))\n  de/FW\n  traición/FW\n  a/DT\n  la/FW\n  patria/FW\n  y/FW\n  (NP conspiración/NN)\n  ./.)",
+      "(S\n  (NP También/NNP transcendió/NN que/NN)\n  ,/,\n  tras/EX\n  (VP\n    recibir/VB\n    (NP los/JJ salvoconductos/NNS)\n    (NP negociados/JJ con/NN el/NN Gobierno/NNP))\n  ,/,\n  (NP los/JJ colaboradores/NNS)\n  de/IN\n  la/FW\n  extrema/FW\n  derecha/FW\n  venezolana/FW\n  (NP abandonaron/NN el/NN territorio/NN)\n  (ADJP nacional/JJ)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "CIUDADES_CAPITALES",
+      "GOBIERNOS_OFICIALES",
+      "GRUPOS_ESPECIFICOS",
+      "APROBACION_RECHAZO",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "MEDIOS_COMUNICACION",
+      "PAISES",
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "CONFLICTOS_ARMADOS_OPERACIONES"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "negociaciones de alto nivel, de acuerdo",
+        "position": [
+          152,
+          191
+        ],
+        "start": 152,
+        "end": 191
+      },
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "capital",
+        "position": [
+          137,
+          144
+        ],
+        "start": 137,
+        "end": 144
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "afirmó",
+        "position": [
+          331,
+          337
+        ],
+        "start": 331,
+        "end": 337
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "gobierno de venezuela otorgó",
+        "position": [
+          3,
+          31
+        ],
+        "start": 3,
+        "end": 31
+      },
+      {
+        "category": "GRUPOS_ESPECIFICOS",
+        "matched_text": "extrema derecha",
+        "position": [
+          966,
+          981
+        ],
+        "start": 966,
+        "end": 981
+      },
+      {
+        "category": "MEDIOS_COMUNICACION",
+        "matched_text": "periodista venezolano vladimir",
+        "position": [
+          360,
+          390
+        ],
+        "start": 360,
+        "end": 390
+      },
+      {
+        "category": "APROBACION_RECHAZO",
+        "matched_text": "destacó",
+        "position": [
+          411,
+          418
+        ],
+        "start": 411,
+        "end": 418
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "argentina",
+        "position": [
+          115,
+          124
+        ],
+        "start": 115,
+        "end": 124
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "venezuela",
+        "position": [
+          15,
+          24
+        ],
+        "start": 15,
+        "end": 24
+      },
+      {
+        "category": "CIUDADES_CAPITALES",
+        "matched_text": "caracas",
+        "position": [
+          128,
+          135
+        ],
+        "start": 128,
+        "end": 135
+      }
+    ],
+    "match_count": 10
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Embajada de Argentina",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Gobierno de Venezuela",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Omar González",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Caracas",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Pedro Urruchurtu",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "María Corina Machado",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Villegas",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Itamaraty",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Ministerio Público",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Gobierno",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Embajada",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Humberto Villalobos",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Claudia Macero",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Vladimir Villegas",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Magalli Meda",
+        "tipo": "Persona"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Gobierno de Venezuela",
+        "relacion": "OTORGAR",
+        "objeto": "Embajada de Argentina"
+      },
+      {
+        "sujeto": "Gobierno de Venezuela",
+        "relacion": "OTORGAR",
+        "objeto": "Caracas"
+      },
+      {
+        "sujeto": "Embajada de Argentina",
+        "relacion": "AFIRMAR",
+        "objeto": "Vladimir Villegas"
+      },
+      {
+        "sujeto": "Caracas",
+        "relacion": "AFIRMAR",
+        "objeto": "Vladimir Villegas"
+      },
+      {
+        "sujeto": "Villegas",
+        "relacion": "DESTACAR",
+        "objeto": "Caracas"
+      },
+      {
+        "sujeto": "Villegas",
+        "relacion": "DESTACAR",
+        "objeto": "Embajada de Argentina"
+      },
+      {
+        "sujeto": "Villegas",
+        "relacion": "DESTACAR",
+        "objeto": "Itamaraty"
+      },
+      {
+        "sujeto": "Itamaraty",
+        "relacion": "CONTAR_DESTACAR",
+        "objeto": "Caracas"
+      },
+      {
+        "sujeto": "Itamaraty",
+        "relacion": "CONTAR_DESTACAR",
+        "objeto": "Embajada de Argentina"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.6808,
+    "pos": 0.0,
+    "neu": 0.965,
+    "neg": 0.035,
+    "label": "negative"
+  }
+}

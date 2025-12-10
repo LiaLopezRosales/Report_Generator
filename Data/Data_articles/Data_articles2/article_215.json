@@ -1,0 +1,648 @@
+{
+  "url": "https://www.telesurtv.net/educacion-logra-aumento-salarial-pernambuco/",
+  "title": "Sector educación logra aumento salarial en Pernambuco Brasil",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "aumento salarial",
+    "escuelas públicas"
+  ],
+  "text": "Escuelas públicas de Pernambuco, Brasil lograron conseguir un aumento salarial donde beneficia a empleados activos, jubilados, permanentes y temporales.\nEn este sentido, el Gobierno de Pernambuco y los profesores de la red pública de enseñanza estadual llegaron a un acuerdo sobre los ajustes salariales con una variación del 6,27 por ciento al 8,38 por ciento.\nCabe agregar que los analistas, técnicos administrativos y de apoyo escolar de la Secretaría de Educación del Estado tendrán un incremento lineal de 6.27 por ciento, al tiempo que quienes recibían menos del salario mínimo tendrán montos retroactivos por el periodo de enero a mayo.\nDe acuerdo a la plataforma Brasil de Fato, los profesores están representados por el Sindicato de Trabajadores de la Educación de Pernambuco (Sintepe). “Otros logros fueron la progresión de los rangos salariales (+1,5 por ciento del rango A al B y 2,5 por ciento de la clase I a la II) y la libertad para los analistas y administradores de organizar su jornada laboral entre 30 y 40 horas semanales”, puntualizó.\nLa presidenta del Sintepe, Ivete Caetano, declaró que “la acumulación de nuestra lucha, nuestro diálogo con la sociedad y la presión de la categoría trajeron un buen resultado”.\nEl sindicato de docentes se ha unido a los estudiantes de varias escuelas del estado con el fin de realizar manifestaciones públicas con el fin de mejorar las condiciones laborales y denunciando las existentes.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/educacion-logra-aumento-salarial-pernambuco/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-04.json",
+    "message_index": 311,
+    "message_id": 92742,
+    "date": "2025-04-26T02:55:07+00:00",
+    "text": "teleSUR\nSector educacional logra conseguir aumento salarial en Pernambuco, Brasil\nhttps://www.telesurtv.net/educacion-logra-aumento-salarial-pernambuco/",
+    "photo_path": null,
+    "views": 1579,
+    "reactions": {
+      "👏": 24
+    },
+    "total_reactions": 24
+  },
+  "preprocessing": {
+    "cleaned": "escuelas públicas de pernambuco, brasil lograron conseguir un aumento salarial donde beneficia a empleados activos, jubilados, permanentes y temporales. en este sentido, el gobierno de pernambuco y los profesores de la red pública de enseñanza estadual llegaron a un acuerdo sobre los ajustes salariales con una variación del 6,27 por ciento al 8,38 por ciento. cabe agregar que los analistas, técnicos administrativos y de apoyo escolar de la secretaría de educación del estado tendrán un incremento lineal de 6.27 por ciento, al tiempo que quienes recibían menos del salario mínimo tendrán montos retroactivos por el periodo de enero a mayo. de acuerdo a la plataforma brasil de fato, los profesores están representados por el sindicato de trabajadores de la educación de pernambuco (sintepe). “otros logros fueron la progresión de los rangos salariales (+1,5 por ciento del rango a al b y 2,5 por ciento de la clase i a la ii) y la libertad para los analistas y administradores de organizar su jornada laboral entre 30 y 40 horas semanales”, puntualizó. la presidenta del sintepe, ivete caetano, declaró que “la acumulación de nuestra lucha, nuestro diálogo con la sociedad y la presión de la categoría trajeron un buen resultado”. el sindicato de docentes se ha unido a los estudiantes de varias escuelas del estado con el fin de realizar manifestaciones públicas con el fin de mejorar las condiciones laborales y denunciando las existentes.",
+    "tokens": [
+      "escuelas",
+      "públicas",
+      "pernambuco",
+      ",",
+      "brasil",
+      "lograron",
+      "conseguir",
+      "aumento",
+      "salarial",
+      "beneficia",
+      "empleados",
+      "activos",
+      ",",
+      "jubilados",
+      ",",
+      "permanentes",
+      "temporales",
+      ".",
+      ",",
+      "gobierno",
+      "pernambuco",
+      "profesores",
+      "red",
+      "pública",
+      "enseñanza",
+      "estadual",
+      "llegaron",
+      "acuerdo",
+      "ajustes",
+      "salariales",
+      "variación",
+      "6,27",
+      "ciento",
+      "8,38",
+      "ciento",
+      ".",
+      "cabe",
+      "agregar",
+      "analistas",
+      ",",
+      "técnicos",
+      "administrativos",
+      "apoyo",
+      "escolar",
+      "secretaría",
+      "educación",
+      "incremento",
+      "lineal",
+      "6.27",
+      "ciento",
+      ",",
+      "tiempo",
+      "recibían",
+      "menos",
+      "salario",
+      "mínimo",
+      "montos",
+      "retroactivos",
+      "periodo",
+      "enero",
+      "mayo",
+      ".",
+      "acuerdo",
+      "plataforma",
+      "brasil",
+      "fato",
+      ",",
+      "profesores",
+      "representados",
+      "sindicato",
+      "trabajadores",
+      "educación",
+      "pernambuco",
+      "(",
+      "sintepe",
+      ")",
+      ".",
+      "“",
+      "logros",
+      "progresión",
+      "rangos",
+      "salariales",
+      "(",
+      "+1,5",
+      "ciento",
+      "rango",
+      "b",
+      "2,5",
+      "ciento",
+      "clase",
+      "i",
+      "ii",
+      ")",
+      "libertad",
+      "analistas",
+      "administradores",
+      "organizar",
+      "jornada",
+      "laboral",
+      "30",
+      "40",
+      "horas",
+      "semanales",
+      "”",
+      ",",
+      "puntualizó",
+      ".",
+      "presidenta",
+      "sintepe",
+      ",",
+      "ivete",
+      "caetano",
+      ",",
+      "declaró",
+      "“",
+      "acumulación",
+      "lucha",
+      ",",
+      "diálogo",
+      "sociedad",
+      "presión",
+      "categoría",
+      "trajeron",
+      "buen",
+      "resultado",
+      "”",
+      ".",
+      "sindicato",
+      "docentes",
+      "unido",
+      "estudiantes",
+      "varias",
+      "escuelas",
+      "fin",
+      "realizar",
+      "manifestaciones",
+      "públicas",
+      "fin",
+      "mejorar",
+      "condiciones",
+      "laborales",
+      "denunciando",
+      "existentes",
+      "."
+    ],
+    "token_count": 144,
+    "sentence_count": 7
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 25,
+      "NN": 65,
+      "FW": 57,
+      "JJ": 21,
+      "IN": 11,
+      "VBZ": 7,
+      "NNS": 14,
+      "VBP": 8,
+      "CD": 6,
+      "VBD": 1
+    },
+    "bigram_freq": {
+      "NNP-NN": 9,
+      "NN-FW": 8,
+      "FW-NNP": 13,
+      "NNP-NNP": 5,
+      "NN-NN": 30,
+      "NN-JJ": 6,
+      "JJ-IN": 1,
+      "IN-JJ": 1,
+      "JJ-NN": 15,
+      "NN-VBZ": 4,
+      "VBZ-NNS": 2,
+      "NNS-NNP": 1,
+      "NNP-FW": 10,
+      "NN-NNS": 3,
+      "NNS-IN": 2,
+      "IN-FW": 9,
+      "FW-JJ": 6,
+      "NN-IN": 7,
+      "NNS-VBP": 7,
+      "VBP-JJ": 6,
+      "NN-CD": 2,
+      "CD-NN": 3,
+      "NN-VBD": 1,
+      "VBD-CD": 1,
+      "NN-NNP": 4,
+      "FW-FW": 29,
+      "IN-CD": 1,
+      "CD-NNS": 2,
+      "FW-NN": 7,
+      "NNP-VBZ": 1,
+      "VBZ-VBP": 1,
+      "JJ-FW": 1,
+      "JJ-NNS": 4,
+      "VBZ-CD": 1,
+      "CD-CD": 1,
+      "NNS-NNS": 2,
+      "VBP-NNP": 1,
+      "FW-VBZ": 1,
+      "VBZ-JJ": 2,
+      "VBZ-IN": 1,
+      "FW-NNS": 1,
+      "VBP-NN": 1,
+      "NNS-VBZ": 1
+    },
+    "trigram_freq": {
+      "NNP-NN-FW": 2,
+      "NN-FW-NNP": 3,
+      "FW-NNP-NNP": 2,
+      "NNP-NNP-NN": 2,
+      "NNP-NN-NN": 5,
+      "NN-NN-JJ": 3,
+      "NN-JJ-IN": 1,
+      "JJ-IN-JJ": 1,
+      "IN-JJ-NN": 1,
+      "JJ-NN-NN": 9,
+      "NN-NN-NN": 12,
+      "NN-NN-VBZ": 3,
+      "NN-VBZ-NNS": 2,
+      "VBZ-NNS-NNP": 1,
+      "NNS-NNP-NN": 1,
+      "NN-NN-FW": 3,
+      "FW-NNP-FW": 8,
+      "NNP-FW-NNP": 6,
+      "FW-NNP-NN": 3,
+      "NNP-NN-NNS": 2,
+      "NN-NNS-IN": 1,
+      "NNS-IN-FW": 2,
+      "IN-FW-JJ": 3,
+      "FW-JJ-NN": 3,
+      "JJ-NN-IN": 2,
+      "NN-IN-FW": 6,
+      "JJ-NN-JJ": 2,
+      "NN-JJ-NN": 5,
+      "VBZ-NNS-VBP": 1,
+      "NNS-VBP-JJ": 5,
+      "VBP-JJ-NN": 5,
+      "NN-NN-CD": 1,
+      "NN-CD-NN": 1,
+      "CD-NN-NN": 3,
+      "NN-NN-VBD": 1,
+      "NN-VBD-CD": 1,
+      "VBD-CD-NN": 1,
+      "NN-NN-NNP": 3,
+      "NN-NNP-NN": 2,
+      "NN-NN-IN": 3,
+      "IN-FW-FW": 4,
+      "FW-FW-FW": 19,
+      "FW-FW-NNP": 4,
+      "NN-IN-CD": 1,
+      "IN-CD-NNS": 1,
+      "CD-NNS-VBP": 1,
+      "NN-NN-NNS": 1,
+      "NN-NNS-VBP": 2,
+      "NN-FW-NN": 2,
+      "FW-NN-IN": 2,
+      "NNP-FW-FW": 3,
+      "NN-NNP-FW": 1,
+      "NNP-NNP-NNP": 2,
+      "NNP-NNP-VBZ": 1,
+      "NNP-VBZ-VBP": 1,
+      "VBZ-VBP-JJ": 1,
+      "VBP-JJ-FW": 1,
+      "JJ-FW-FW": 1,
+      "FW-FW-JJ": 3,
+      "FW-JJ-NNS": 3,
+      "JJ-NNS-VBP": 1,
+      "NN-VBZ-CD": 1,
+      "VBZ-CD-NN": 1,
+      "IN-FW-NN": 1,
+      "FW-NN-FW": 3,
+      "JJ-NNS-IN": 1,
+      "JJ-NN-CD": 1,
+      "NN-CD-CD": 1,
+      "CD-CD-NNS": 1,
+      "CD-NNS-NNS": 1,
+      "NNS-NNS-VBP": 1,
+      "NNS-VBP-NNP": 1,
+      "VBP-NNP-FW": 1,
+      "NNP-FW-NN": 1,
+      "FW-NN-NNP": 1,
+      "NN-NNP-NNP": 1,
+      "NN-FW-FW": 2,
+      "FW-FW-NN": 3,
+      "FW-NN-JJ": 1,
+      "NN-FW-VBZ": 1,
+      "FW-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 1,
+      "JJ-NN-VBZ": 1,
+      "NN-VBZ-IN": 1,
+      "VBZ-IN-FW": 1,
+      "IN-FW-NNS": 1,
+      "FW-NNS-VBP": 1,
+      "NNS-VBP-NN": 1,
+      "VBP-NN-NN": 1,
+      "JJ-NNS-VBZ": 1,
+      "NNS-VBZ-JJ": 1,
+      "VBZ-JJ-NNS": 1,
+      "JJ-NNS-NNS": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 65,
+        "FW": 57,
+        "NNP": 25,
+        "JJ": 21,
+        "NNS": 14
+      },
+      "top_bigrams": {
+        "NN-NN": 30,
+        "FW-FW": 29,
+        "JJ-NN": 15,
+        "FW-NNP": 13,
+        "NNP-FW": 10
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 19,
+        "NN-NN-NN": 12,
+        "JJ-NN-NN": 9,
+        "FW-NNP-FW": 8,
+        "NNP-FW-NNP": 6
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 7,
+    "chunk_counts": {
+      "NP": 69,
+      "PP": 1,
+      "VP": 15,
+      "ADJP": 2
+    },
+    "top_rules": [
+      {
+        "rule": "NP -> ('por', 'NN') ('ciento', 'NN')",
+        "frequency": 4,
+        "weight": 0.0426
+      },
+      {
+        "rule": "NP -> ('Pernambuco', 'NNP')",
+        "frequency": 3,
+        "weight": 0.0319
+      },
+      {
+        "rule": "NP -> ('Educación', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0213
+      },
+      {
+        "rule": "NP -> ('Sintepe', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0213
+      },
+      {
+        "rule": "NP -> ('y', 'NN')",
+        "frequency": 2,
+        "weight": 0.0213
+      },
+      {
+        "rule": "S -> NP ('de', 'FW') NP (',', ',') NP PP NP (',', ',') NP (',', ',') VP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0106
+      },
+      {
+        "rule": "NP -> ('Escuelas', 'NNP') ('públicas', 'NN')",
+        "frequency": 1,
+        "weight": 0.0106
+      },
+      {
+        "rule": "NP -> ('Brasil', 'NNP') ('lograron', 'NNP') ('conseguir', 'NN') ('un', 'NN')",
+        "frequency": 1,
+        "weight": 0.0106
+      },
+      {
+        "rule": "PP -> ('aumento', 'IN') NP",
+        "frequency": 1,
+        "weight": 0.0106
+      },
+      {
+        "rule": "NP -> ('salarial', 'JJ') ('donde', 'NN') ('beneficia', 'NN')",
+        "frequency": 1,
+        "weight": 0.0106
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Escuelas públicas"
+      },
+      {
+        "label": "NP",
+        "text": "Pernambuco"
+      },
+      {
+        "label": "NP",
+        "text": "Brasil lograron conseguir un"
+      },
+      {
+        "label": "PP",
+        "text": "aumento salarial donde beneficia"
+      },
+      {
+        "label": "NP",
+        "text": "salarial donde beneficia"
+      },
+      {
+        "label": "NP",
+        "text": "a empleados activos"
+      },
+      {
+        "label": "NP",
+        "text": "jubilados"
+      },
+      {
+        "label": "VP",
+        "text": "permanentes y temporales"
+      },
+      {
+        "label": "NP",
+        "text": "y temporales"
+      },
+      {
+        "label": "NP",
+        "text": "En este sentido"
+      },
+      {
+        "label": "NP",
+        "text": "el Gobierno"
+      },
+      {
+        "label": "NP",
+        "text": "Pernambuco"
+      },
+      {
+        "label": "NP",
+        "text": "los profesores"
+      },
+      {
+        "label": "NP",
+        "text": "red pública"
+      },
+      {
+        "label": "NP",
+        "text": "estadual llegaron"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Escuelas/NNP públicas/NN)\n  de/FW\n  (NP Pernambuco/NNP)\n  ,/,\n  (NP Brasil/NNP lograron/NNP conseguir/NN un/NN)\n  (PP aumento/IN (NP salarial/JJ donde/NN beneficia/NN))\n  (NP a/DT empleados/NN activos/NN)\n  ,/,\n  (NP jubilados/NN)\n  ,/,\n  (VP permanentes/VBZ (NP y/JJ temporales/NNS))\n  ./.)",
+      "(S\n  (NP En/NNP este/NN sentido/NN)\n  ,/,\n  (NP el/JJ Gobierno/NNP)\n  de/FW\n  (NP Pernambuco/NNP)\n  y/CC\n  (NP los/JJ profesores/NNS)\n  de/IN\n  la/FW\n  (NP red/JJ pública/NN)\n  de/IN\n  enseñanza/FW\n  (NP estadual/JJ llegaron/NN)\n  (NP a/DT un/JJ acuerdo/NN sobre/NN los/NN)\n  (VP ajustes/VBZ (NP salariales/NNS))\n  (VP con/VBP (NP una/JJ variación/NN del/NN))\n  6,27/CD\n  (NP por/NN ciento/NN)\n  (VP al/VBD)\n  8,38/CD\n  (NP por/NN ciento/NN)\n  ./.)",
+      "(S\n  (NP Cabe/NNP agregar/NN que/NN los/NN analistas/NNS)\n  ,/,\n  técnicos/EX\n  (NP administrativos/JJ y/NN)\n  de/IN\n  apoyo/FW\n  escolar/FW\n  de/FW\n  la/FW\n  (NP Secretaría/NNP)\n  de/FW\n  (NP Educación/NNP)\n  del/FW\n  (NP Estado/NNP tendrán/NN un/NN)\n  (NP incremento/JJ lineal/NN)\n  de/IN\n  6.27/CD\n  (NP por/NN ciento/NN)\n  ,/,\n  (NP al/JJ tiempo/NN que/NN quienes/NNS)\n  (VP\n    recibían/VBP\n    (NP\n      menos/JJ\n      del/NN\n      salario/NN\n      mínimo/NN\n      tendrán/NN\n      montos/NN\n      retroactivos/NN\n      por/NN))\n  el/FW\n  (NP periodo/NN)\n  de/FW\n  enero/FW\n  (NP a/DT mayo/NN)\n  ./.)",
+      "(S\n  (NP De/NNP)\n  (VP acuerdo/VBZ (NP a/DT la/NN) (NP plataforma/JJ Brasil/NNP))\n  de/FW\n  (NP Fato/NNP)\n  ,/,\n  (NP los/NN profesores/NNS)\n  (VP están/VBP (NP representados/JJ por/NN el/NN Sindicato/NNP))\n  de/FW\n  (NP Trabajadores/NNP)\n  de/FW\n  la/FW\n  (NP Educación/NNP)\n  de/FW\n  (NP Pernambuco/NNP)\n  (/(\n  (NP Sintepe/NNP)\n  )/)\n  ./.)",
+      "(S\n  (NP “/JJ Otros/NNP logros/NN fueron/NN la/NN)\n  progresión/FW\n  de/FW\n  los/FW\n  (NP rangos/JJ salariales/NNS)\n  (/(\n  (NP +1,5/JJ por/NN ciento/NN del/NN)\n  (VP rango/VBZ (NP A/DT al/NN B/NNP y/NN))\n  2,5/CD\n  (NP por/NN ciento/NN)\n  de/IN\n  la/FW\n  (NP clase/NN)\n  I/PRP\n  a/DT\n  la/FW\n  (NP II/NNP)\n  )/)\n  (NP y/NN la/NN)\n  libertad/FW\n  para/FW\n  los/FW\n  (NP analistas/NNS)\n  (VP y/VBP (NP administradores/NNS))\n  de/FW\n  organizar/FW\n  su/FW\n  jornada/FW\n  (ADJP laboral/JJ)\n  entre/FW\n  30/CD\n  (NP y/NN)\n  40/CD\n  (NP horas/NN semanales/NNS)\n  (VP ”/VBP)\n  ,/,\n  (NP puntualizó/NN)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "GOBIERNOS_OFICIALES",
+      "GRUPOS_ESPECIFICOS",
+      "LEYES_NORMATIVAS",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "REGIONES_PROVINCIAS",
+      "ORGANIZACIONES_SOCIALES",
+      "PAISES",
+      "PROTESTAS_CONFLICTOS_SOCIALES",
+      "ECONOMIA_COMERCIO_FINANZAS"
+    ],
+    "matches": [
+      {
+        "category": "PROTESTAS_CONFLICTOS_SOCIALES",
+        "matched_text": "acuerdo a la plataforma brasil de fato, los profesores están representados por el sindicato de trabajadores de la educación de pernambuco (sintepe). “otros logros fueron la progresión de los rangos salariales (+1,5 por ciento del rango a al b y 2,5 por ciento de la clase i a la ii) y la libertad para los analistas y administradores de organizar su jornada laboral",
+        "position": [
+          647,
+          1012
+        ],
+        "start": 647,
+        "end": 1012
+      },
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "salario",
+        "position": [
+          569,
+          576
+        ],
+        "start": 569,
+        "end": 576
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "declaró",
+        "position": [
+          1099,
+          1106
+        ],
+        "start": 1099,
+        "end": 1106
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "gobierno de pernambuco y",
+        "position": [
+          173,
+          197
+        ],
+        "start": 173,
+        "end": 197
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidenta del sintepe",
+        "position": [
+          1060,
+          1082
+        ],
+        "start": 1060,
+        "end": 1082
+      },
+      {
+        "category": "ORGANIZACIONES_SOCIALES",
+        "matched_text": "sindicato de trabajadores",
+        "position": [
+          729,
+          754
+        ],
+        "start": 729,
+        "end": 754
+      },
+      {
+        "category": "GRUPOS_ESPECIFICOS",
+        "matched_text": "profesores",
+        "position": [
+          202,
+          212
+        ],
+        "start": 202,
+        "end": 212
+      },
+      {
+        "category": "LEYES_NORMATIVAS",
+        "matched_text": "acuerdo sobre los ajustes salariales con una variación del 6",
+        "position": [
+          267,
+          327
+        ],
+        "start": 267,
+        "end": 327
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "brasil",
+        "position": [
+          33,
+          39
+        ],
+        "start": 33,
+        "end": 39
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "estado tendrán",
+        "position": [
+          472,
+          486
+        ],
+        "start": 472,
+        "end": 486
+      }
+    ],
+    "match_count": 10
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Gobierno de Pernambuco",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Secretaría de Educación del Estado",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Pernambuco",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Sintepe",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Fato",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Sindicato de Trabajadores de la Educación de Pernambuco",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Ivete Caetano",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Brasil",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Brasil",
+        "relacion": "LOGRAR",
+        "objeto": "Pernambuco"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.34,
+    "pos": 0.011,
+    "neu": 0.989,
+    "neg": 0.0,
+    "label": "positive"
+  }
+}

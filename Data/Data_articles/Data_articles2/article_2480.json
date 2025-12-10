@@ -1,0 +1,782 @@
+{
+  "url": "https://www.telesurtv.net/ejercito-de-pakistan-es-autorizado-para-realizar-acciones-contra-india/",
+  "title": "Ejército de Pakistán es autorizado para realizar acciones contra India - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "India",
+    "Pakistán"
+  ],
+  "text": "\nEl Consejo de Seguridad Nacional de Pakistán convocó a una reunión urgente en la cual autorizó al Ejército responder militarmente a lo que denominaron una agresión india no provocada, mientras que el Gobierno de Nueva Delhi reiteró que su reciente operación militar en territorio paquistaní fue dirigida únicamente contra estructuras terroristas.\n“El enemigo confundió nuestro deseo de paz con debilidad. Un golpe se responderá con dos“, declaró el Consejo de Seguridad Nacional.\nAsimismo, fundamentaron legalmente las acciones bélicas con el artículo 51 de la Carta de las Naciones Unidas.\nEn la jornada, el portavoz del Ejército de Pakistán, general Ahmed Sharif, declaró que el número de víctimas del ataque indio a su nación del martes pasado incrementó a 26, en tanto que la respuesta a la agresión de Nueva Delhi por las fuerzas pakistaníes continúa.\nTambién informó que el Ejército de la India agredió seis lugares civiles en Pakistán, entre ellos edificios residenciales y mezquitas.\nComo respuesta al ataque de la India, la Fuerza Aérea de Pakistán abatió cinco aviones de la Fuerza Aérea de Nueva Delhi.\nPor su parte, el ministro indio de Defensa, Rajnath Singh, aseguró que el Ejército de su nación atacó con precisión dañando únicamente a los culpables del atentado terrorista del pasado mes de abril que mató al menos a 28 turistas en Pahalgam, en la región de Cachemira administrada por India.\nTambién añadió que la denominada Operación Sindoor fue una respuesta justificada y estratégica, dirigida únicamente a la infraestructura terrorista.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/ejercito-de-pakistan-es-autorizado-para-realizar-acciones-contra-india/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-05.json",
+    "message_index": 1571,
+    "message_id": 93607,
+    "date": "2025-05-08T08:55:07+00:00",
+    "text": "teleSUR\nEjército de Pakistán es autorizado para realizar acciones contra India\nhttps://www.telesurtv.net/ejercito-de-pakistan-es-autorizado-para-realizar-acciones-contra-india/",
+    "photo_path": null,
+    "views": 1567,
+    "reactions": {
+      "👎": 20,
+      "🔥": 7,
+      "👍": 2,
+      "🤔": 2,
+      "😱": 1
+    },
+    "total_reactions": 32
+  },
+  "preprocessing": {
+    "cleaned": "el consejo de seguridad nacional de pakistán convocó a una reunión urgente en la cual autorizó al ejército responder militarmente a lo que denominaron una agresión india no provocada, mientras que el gobierno de nueva delhi reiteró que su reciente operación militar en territorio paquistaní fue dirigida únicamente contra estructuras terroristas. “el enemigo confundió nuestro deseo de paz con debilidad. un golpe se responderá con dos“, declaró el consejo de seguridad nacional. asimismo, fundamentaron legalmente las acciones bélicas con el artículo 51 de la carta de las naciones unidas. en la jornada, el portavoz del ejército de pakistán, general ahmed sharif, declaró que el número de víctimas del ataque indio a su nación del martes pasado incrementó a 26, en tanto que la respuesta a la agresión de nueva delhi por las fuerzas pakistaníes continúa. también informó que el ejército de la india agredió seis lugares civiles en pakistán, entre ellos edificios residenciales y mezquitas. como respuesta al ataque de la india, la fuerza aérea de pakistán abatió cinco aviones de la fuerza aérea de nueva delhi. por su parte, el ministro indio de defensa, rajnath singh, aseguró que el ejército de su nación atacó con precisión dañando únicamente a los culpables del atentado terrorista del pasado mes de abril que mató al menos a 28 turistas en pahalgam, en la región de cachemira administrada por india. también añadió que la denominada operación sindoor fue una respuesta justificada y estratégica, dirigida únicamente a la infraestructura terrorista.",
+    "tokens": [
+      "consejo",
+      "seguridad",
+      "nacional",
+      "pakistán",
+      "convocó",
+      "reunión",
+      "urgente",
+      "autorizó",
+      "ejército",
+      "responder",
+      "militarmente",
+      "denominaron",
+      "agresión",
+      "india",
+      "provocada",
+      ",",
+      "mientras",
+      "gobierno",
+      "nueva",
+      "delhi",
+      "reiteró",
+      "reciente",
+      "operación",
+      "militar",
+      "territorio",
+      "paquistaní",
+      "dirigida",
+      "únicamente",
+      "estructuras",
+      "terroristas",
+      ".",
+      "“",
+      "enemigo",
+      "confundió",
+      "deseo",
+      "paz",
+      "debilidad",
+      ".",
+      "golpe",
+      "responderá",
+      "dos",
+      "“",
+      ",",
+      "declaró",
+      "consejo",
+      "seguridad",
+      "nacional",
+      ".",
+      "asimismo",
+      ",",
+      "fundamentaron",
+      "legalmente",
+      "acciones",
+      "bélicas",
+      "artículo",
+      "51",
+      "carta",
+      "naciones",
+      "unidas",
+      ".",
+      "jornada",
+      ",",
+      "portavoz",
+      "ejército",
+      "pakistán",
+      ",",
+      "general",
+      "ahmed",
+      "sharif",
+      ",",
+      "declaró",
+      "número",
+      "víctimas",
+      "ataque",
+      "indio",
+      "nación",
+      "martes",
+      "pasado",
+      "incrementó",
+      "26",
+      ",",
+      "respuesta",
+      "agresión",
+      "nueva",
+      "delhi",
+      "fuerzas",
+      "pakistaníes",
+      "continúa",
+      ".",
+      "informó",
+      "ejército",
+      "india",
+      "agredió",
+      "seis",
+      "lugares",
+      "civiles",
+      "pakistán",
+      ",",
+      "edificios",
+      "residenciales",
+      "mezquitas",
+      ".",
+      "respuesta",
+      "ataque",
+      "india",
+      ",",
+      "fuerza",
+      "aérea",
+      "pakistán",
+      "abatió",
+      "cinco",
+      "aviones",
+      "fuerza",
+      "aérea",
+      "nueva",
+      "delhi",
+      ".",
+      "parte",
+      ",",
+      "ministro",
+      "indio",
+      "defensa",
+      ",",
+      "rajnath",
+      "singh",
+      ",",
+      "aseguró",
+      "ejército",
+      "nación",
+      "atacó",
+      "precisión",
+      "dañando",
+      "únicamente",
+      "culpables",
+      "atentado",
+      "terrorista",
+      "pasado",
+      "mes",
+      "abril",
+      "mató",
+      "menos",
+      "28",
+      "turistas",
+      "pahalgam",
+      ",",
+      "región",
+      "cachemira",
+      "administrada",
+      "india",
+      ".",
+      "añadió",
+      "denominada",
+      "operación",
+      "sindoor",
+      "respuesta",
+      "justificada",
+      "estratégica",
+      ",",
+      "dirigida",
+      "únicamente",
+      "infraestructura",
+      "terrorista",
+      "."
+    ],
+    "token_count": 163,
+    "sentence_count": 9
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 53,
+      "IN": 13,
+      "FW": 47,
+      "NN": 80,
+      "JJ": 16,
+      "DT": 1,
+      "VBZ": 2,
+      "NNS": 11,
+      "VBP": 6,
+      "VBD": 3,
+      "CD": 3,
+      "CC": 1
+    },
+    "bigram_freq": {
+      "NNP-NNP": 18,
+      "NNP-IN": 4,
+      "IN-NNP": 6,
+      "NNP-FW": 10,
+      "FW-NNP": 15,
+      "NNP-NN": 16,
+      "NN-JJ": 4,
+      "JJ-NN": 6,
+      "JJ-FW": 2,
+      "FW-FW": 18,
+      "FW-JJ": 2,
+      "NN-NN": 46,
+      "NN-NNP": 8,
+      "JJ-IN": 1,
+      "IN-JJ": 1,
+      "JJ-DT": 1,
+      "DT-NN": 1,
+      "NN-VBZ": 2,
+      "VBZ-JJ": 1,
+      "JJ-JJ": 1,
+      "JJ-NNP": 3,
+      "NN-IN": 5,
+      "IN-NN": 1,
+      "NN-FW": 10,
+      "FW-NN": 9,
+      "NN-NNS": 3,
+      "NNS-VBP": 4,
+      "VBP-NNP": 1,
+      "IN-FW": 5,
+      "FW-NNS": 2,
+      "VBP-NN": 1,
+      "NN-VBD": 1,
+      "VBD-CD": 1,
+      "CD-IN": 1,
+      "NNP-JJ": 1,
+      "VBP-JJ": 3,
+      "JJ-CD": 1,
+      "CD-FW": 1,
+      "VBZ-NNS": 1,
+      "NNS-IN": 2,
+      "NNS-NNS": 2,
+      "NNS-NNP": 1,
+      "NNP-VBP": 1,
+      "JJ-NNS": 1,
+      "NNP-VBD": 2,
+      "VBD-JJ": 2,
+      "FW-VBP": 1,
+      "VBP-NNS": 1,
+      "NNS-CD": 1,
+      "CD-NNS": 1,
+      "NNS-FW": 1,
+      "NNP-CC": 1,
+      "CC-JJ": 1
+    },
+    "trigram_freq": {
+      "NNP-NNP-IN": 3,
+      "NNP-IN-NNP": 4,
+      "IN-NNP-NNP": 3,
+      "NNP-NNP-FW": 2,
+      "NNP-FW-NNP": 3,
+      "FW-NNP-NN": 3,
+      "NNP-NN-JJ": 1,
+      "NN-JJ-NN": 2,
+      "JJ-NN-JJ": 1,
+      "NN-JJ-FW": 1,
+      "JJ-FW-FW": 1,
+      "FW-FW-JJ": 1,
+      "FW-JJ-NN": 2,
+      "JJ-NN-NN": 3,
+      "NN-NN-NNP": 7,
+      "NN-NNP-NN": 5,
+      "NNP-NN-NN": 12,
+      "NN-NN-NN": 24,
+      "NN-NN-JJ": 2,
+      "NN-JJ-IN": 1,
+      "JJ-IN-JJ": 1,
+      "IN-JJ-DT": 1,
+      "JJ-DT-NN": 1,
+      "DT-NN-VBZ": 1,
+      "NN-VBZ-JJ": 1,
+      "VBZ-JJ-JJ": 1,
+      "JJ-JJ-NNP": 1,
+      "JJ-NNP-FW": 1,
+      "FW-NNP-NNP": 6,
+      "NNP-NNP-NN": 7,
+      "NN-NN-IN": 3,
+      "NN-IN-NN": 1,
+      "IN-NN-FW": 1,
+      "NN-FW-NN": 3,
+      "FW-NN-NN": 6,
+      "NNP-NN-NNS": 2,
+      "NN-NNS-VBP": 3,
+      "NNS-VBP-NNP": 1,
+      "VBP-NNP-FW": 1,
+      "NNP-FW-NN": 2,
+      "FW-NN-FW": 2,
+      "FW-NN-IN": 1,
+      "NN-IN-FW": 3,
+      "IN-FW-NN": 1,
+      "NN-NN-FW": 7,
+      "NN-FW-NNP": 3,
+      "FW-NNP-FW": 5,
+      "NNP-NNP-NNP": 4,
+      "NN-FW-NNS": 1,
+      "FW-NNS-VBP": 1,
+      "NNS-VBP-NN": 1,
+      "VBP-NN-NN": 1,
+      "NN-NN-VBD": 1,
+      "NN-VBD-CD": 1,
+      "VBD-CD-IN": 1,
+      "CD-IN-FW": 1,
+      "IN-FW-NNP": 3,
+      "NNP-FW-FW": 5,
+      "FW-FW-NNP": 5,
+      "NN-NNP-IN": 1,
+      "IN-NNP-JJ": 1,
+      "NNP-JJ-NNP": 1,
+      "JJ-NNP-NNP": 2,
+      "IN-FW-FW": 1,
+      "FW-FW-NN": 2,
+      "JJ-NN-NNS": 1,
+      "NNS-VBP-JJ": 2,
+      "VBP-JJ-CD": 1,
+      "JJ-CD-FW": 1,
+      "CD-FW-NN": 1,
+      "NN-FW-FW": 3,
+      "FW-FW-FW": 8,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-NNS": 1,
+      "VBZ-NNS-IN": 1,
+      "NNS-IN-NNP": 1,
+      "IN-NNP-FW": 1,
+      "FW-FW-NNS": 1,
+      "FW-NNS-NNS": 1,
+      "NNS-NNS-NNS": 1,
+      "NNS-NNS-NNP": 1,
+      "NNS-NNP-NN": 1,
+      "NNP-NN-NNP": 1,
+      "NN-NNP-NNP": 2,
+      "IN-NNP-VBP": 1,
+      "NNP-VBP-JJ": 1,
+      "VBP-JJ-NNS": 1,
+      "JJ-NNS-IN": 1,
+      "NNS-IN-FW": 1,
+      "NNP-NNP-VBD": 2,
+      "NNP-VBD-JJ": 2,
+      "VBD-JJ-FW": 1,
+      "JJ-FW-JJ": 1,
+      "JJ-NN-IN": 1,
+      "NN-IN-NNP": 1,
+      "VBP-JJ-NN": 1,
+      "FW-FW-VBP": 1,
+      "FW-VBP-NNS": 1,
+      "VBP-NNS-CD": 1,
+      "NNS-CD-NNS": 1,
+      "CD-NNS-FW": 1,
+      "NNS-FW-NNP": 1,
+      "FW-NNP-CC": 1,
+      "NNP-CC-JJ": 1,
+      "CC-JJ-NNP": 1,
+      "VBD-JJ-NN": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 80,
+        "NNP": 53,
+        "FW": 47,
+        "JJ": 16,
+        "IN": 13
+      },
+      "top_bigrams": {
+        "NN-NN": 46,
+        "NNP-NNP": 18,
+        "FW-FW": 18,
+        "NNP-NN": 16,
+        "FW-NNP": 15
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 24,
+        "NNP-NN-NN": 12,
+        "FW-FW-FW": 8,
+        "NN-NN-NNP": 7,
+        "NNP-NNP-NN": 7
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 9,
+    "chunk_counts": {
+      "NP": 65,
+      "PP": 7,
+      "VP": 13,
+      "ADJP": 1
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 5,
+        "weight": 0.0526
+      },
+      {
+        "rule": "NP -> ('Pakistán', 'NNP')",
+        "frequency": 4,
+        "weight": 0.0421
+      },
+      {
+        "rule": "NP -> ('Seguridad', 'NNP') ('Nacional', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0211
+      },
+      {
+        "rule": "NP -> ('que', 'NN')",
+        "frequency": 2,
+        "weight": 0.0211
+      },
+      {
+        "rule": "NP -> ('Ejército', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0211
+      },
+      {
+        "rule": "VP -> ('únicamente', 'VBD') NP",
+        "frequency": 2,
+        "weight": 0.0211
+      },
+      {
+        "rule": "S -> NP PP ('de', 'FW') NP VP ('en', 'FW') ('la', 'FW') NP VP ('agresión', 'IN') ADJP NP (',', ',') ('mientras', 'FW') NP ('el', 'FW') NP ('de', 'FW') NP PP ('en', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0105
+      },
+      {
+        "rule": "NP -> ('El', 'NNP') ('Consejo', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0105
+      },
+      {
+        "rule": "VP -> ('convocó', 'VBZ') NP ('urgente', 'JJ')",
+        "frequency": 1,
+        "weight": 0.0105
+      },
+      {
+        "rule": "NP -> ('a', 'DT') ('una', 'JJ') ('reunión', 'NN')",
+        "frequency": 1,
+        "weight": 0.0105
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El Consejo"
+      },
+      {
+        "label": "PP",
+        "text": "de Seguridad Nacional"
+      },
+      {
+        "label": "NP",
+        "text": "Seguridad Nacional"
+      },
+      {
+        "label": "NP",
+        "text": "Pakistán"
+      },
+      {
+        "label": "VP",
+        "text": "convocó a una reunión urgente"
+      },
+      {
+        "label": "NP",
+        "text": "a una reunión"
+      },
+      {
+        "label": "NP",
+        "text": "cual autorizó al Ejército responder"
+      },
+      {
+        "label": "VP",
+        "text": "militarmente a lo que denominaron una"
+      },
+      {
+        "label": "NP",
+        "text": "a lo que denominaron"
+      },
+      {
+        "label": "ADJP",
+        "text": "india"
+      },
+      {
+        "label": "NP",
+        "text": "no provocada"
+      },
+      {
+        "label": "NP",
+        "text": "que"
+      },
+      {
+        "label": "NP",
+        "text": "Gobierno"
+      },
+      {
+        "label": "NP",
+        "text": "Nueva Delhi reiteró que su reciente"
+      },
+      {
+        "label": "PP",
+        "text": "operación militar"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP El/NNP Consejo/NNP)\n  (PP de/IN (NP Seguridad/NNP Nacional/NNP))\n  de/FW\n  (NP Pakistán/NNP)\n  (VP convocó/VBZ (NP a/DT una/JJ reunión/NN) urgente/JJ)\n  en/FW\n  la/FW\n  (NP cual/JJ autorizó/NN al/NN Ejército/NNP responder/NN)\n  (VP militarmente/VBD (NP a/DT lo/NN que/NN denominaron/NN) una/JJ)\n  agresión/IN\n  (ADJP india/JJ)\n  (NP no/DT provocada/NN)\n  ,/,\n  mientras/FW\n  (NP que/NN)\n  el/FW\n  (NP Gobierno/NNP)\n  de/FW\n  (NP Nueva/NNP Delhi/NNP reiteró/NN que/NN su/NN reciente/NN)\n  (PP operación/IN (NP militar/NN))\n  en/FW\n  (NP\n    territorio/NN\n    paquistaní/NN\n    fue/NN\n    dirigida/NN\n    únicamente/NNP\n    contra/NN\n    estructuras/NNS\n    terroristas/NNS)\n  ./.)",
+      "(S\n  (NP “/JJ El/NNP enemigo/NN confundió/NN)\n  (NP nuestro/JJ deseo/NN)\n  de/IN\n  paz/FW\n  (NP con/NN debilidad/NN)\n  ./.)",
+      "(S\n  (NP Un/NNP golpe/NN se/NN responderá/NN con/NN dos/NN “/NNP)\n  ,/,\n  (NP declaró/NN el/NN Consejo/NNP)\n  (PP de/IN (NP Seguridad/NNP Nacional/NNP))\n  ./.)",
+      "(S\n  (NP Asimismo/NNP)\n  ,/,\n  (NP fundamentaron/NN legalmente/NN)\n  las/FW\n  (NP acciones/NNS)\n  (VP bélicas/VBP (NP con/NN el/NN))\n  (VP artículo/VBD)\n  51/CD\n  de/IN\n  la/FW\n  (NP Carta/NNP)\n  de/FW\n  las/FW\n  (NP Naciones/NNP Unidas/NNP)\n  ./.)",
+      "(S\n  (NP En/NNP la/NN jornada/NN)\n  ,/,\n  (NP el/JJ portavoz/NN del/NN Ejército/NNP)\n  (PP de/IN (NP Pakistán/NNP))\n  ,/,\n  (NP general/JJ Ahmed/NNP Sharif/NNP)\n  ,/,\n  (NP declaró/NN que/NN el/NN número/NN)\n  de/IN\n  víctimas/FW\n  del/FW\n  (NP ataque/NN indio/NN)\n  (NP a/DT su/JJ nación/JJ del/NN martes/NNS)\n  (VP pasado/VBP)\n  (VP incrementó/VB)\n  a/DT\n  26/CD\n  ,/,\n  en/FW\n  tanto/FW\n  (NP que/NN)\n  la/FW\n  respuesta/FW\n  a/DT\n  la/FW\n  agresión/FW\n  de/FW\n  (NP\n    Nueva/NNP\n    Delhi/NNP\n    por/NN\n    las/NN\n    fuerzas/NN\n    pakistaníes/NN\n    continúa/NN)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "GOBIERNOS_OFICIALES",
+      "ORGANISMOS_INTERNACIONALES",
+      "APROBACION_RECHAZO",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "REGIONES_PROVINCIAS",
+      "PERIODOS_TEMPORALES",
+      "CONFLICTOS_ARMADOS_OPERACIONES",
+      "JURIDICO_LEGISLATIVO_CORRUPCION"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "agresión india no provocada, mientras que el gobierno de nueva delhi reiteró que su reciente operación militar",
+        "position": [
+          156,
+          266
+        ],
+        "start": 156,
+        "end": 266
+      },
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "atacó",
+        "position": [
+          1211,
+          1216
+        ],
+        "start": 1211,
+        "end": 1216
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "declaró",
+        "position": [
+          439,
+          446
+        ],
+        "start": 439,
+        "end": 446
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "informó",
+        "position": [
+          866,
+          873
+        ],
+        "start": 866,
+        "end": 873
+      },
+      {
+        "category": "JURIDICO_LEGISLATIVO_CORRUPCION",
+        "matched_text": "defensa",
+        "position": [
+          1150,
+          1157
+        ],
+        "start": 1150,
+        "end": 1157
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "gobierno de nueva delhi",
+        "position": [
+          201,
+          224
+        ],
+        "start": 201,
+        "end": 224
+      },
+      {
+        "category": "ORGANISMOS_INTERNACIONALES",
+        "matched_text": "naciones unidas",
+        "position": [
+          575,
+          590
+        ],
+        "start": 575,
+        "end": 590
+      },
+      {
+        "category": "APROBACION_RECHAZO",
+        "matched_text": "autorizó",
+        "position": [
+          87,
+          95
+        ],
+        "start": 87,
+        "end": 95
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "región de",
+        "position": [
+          1365,
+          1374
+        ],
+        "start": 1365,
+        "end": 1374
+      },
+      {
+        "category": "PERIODOS_TEMPORALES",
+        "matched_text": "pasado mes",
+        "position": [
+          1294,
+          1304
+        ],
+        "start": 1294,
+        "end": 1304
+      }
+    ],
+    "match_count": 10
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "India",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Carta de las Naciones Unidas",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Nueva Delhi",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Fuerza Aérea",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Consejo de Seguridad Nacional",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Gobierno de Nueva Delhi",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Rajnath Singh",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Ahmed Sharif",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Fuerza Aérea de Pakistán",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Pahalgam",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Ejército de Pakistán",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Pakistán",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Defensa",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Cachemira",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Consejo de Seguridad Nacional de Pakistán",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "la India",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Ejército de Pakistán",
+        "relacion": "DECLARAR",
+        "objeto": "Nueva Delhi"
+      },
+      {
+        "sujeto": "Ahmed Sharif",
+        "relacion": "DECLARAR",
+        "objeto": "Nueva Delhi"
+      },
+      {
+        "sujeto": "la India",
+        "relacion": "ABATE_R",
+        "objeto": "Fuerza Aérea"
+      },
+      {
+        "sujeto": "la India",
+        "relacion": "ABATE_R",
+        "objeto": "Nueva Delhi"
+      },
+      {
+        "sujeto": "Fuerza Aérea de Pakistán",
+        "relacion": "ABATE_R",
+        "objeto": "Fuerza Aérea"
+      },
+      {
+        "sujeto": "Fuerza Aérea de Pakistán",
+        "relacion": "ABATE_R",
+        "objeto": "Nueva Delhi"
+      },
+      {
+        "sujeto": "Defensa",
+        "relacion": "ASEGURAR",
+        "objeto": "Pahalgam"
+      },
+      {
+        "sujeto": "Defensa",
+        "relacion": "ASEGURAR",
+        "objeto": "Cachemira"
+      },
+      {
+        "sujeto": "Defensa",
+        "relacion": "ASEGURAR",
+        "objeto": "India"
+      },
+      {
+        "sujeto": "Rajnath Singh",
+        "relacion": "ASEGURAR",
+        "objeto": "Pahalgam"
+      },
+      {
+        "sujeto": "Rajnath Singh",
+        "relacion": "ASEGURAR",
+        "objeto": "Cachemira"
+      },
+      {
+        "sujeto": "Rajnath Singh",
+        "relacion": "ASEGURAR",
+        "objeto": "India"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.296,
+    "pos": 0.0,
+    "neu": 0.991,
+    "neg": 0.009,
+    "label": "negative"
+  }
+}

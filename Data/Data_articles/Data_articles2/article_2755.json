@@ -1,0 +1,860 @@
+{
+  "url": "https://www.telesurtv.net/panama-sindicatos-demandas-laborales-sociales/",
+  "title": "Sindicatos panameños marcharon por demandas laborales y sociales",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "Panamá"
+  ],
+  "text": "Gremios docentes y trabajadores de Panamá, salieron a las calles este jueves a demandar los derechos laborales y sociales y a mostrar su desacuerdo con las decisiones del Gobierno del presidente José Raúl Mulino de las reformas de la Caja de Seguro Social aprobadas recientemente.\nEl Sindicato Único de Trabajadores de la Construcción y Similares (Suntracs) y los docentes aseguraron que seguirán en huelga indefinida.\nEn tanto, el secretario general de Suntracs, Saúl Méndez, manifestó que se presentó una querella contra la ministra de Trabajo Jackeline Muñoz, y es posible emprender acciones legales contra otros dos funcionarios, entre ellos el presidente Mulino.\nAsimismo, extendió una felicitación a los trabajadores y sostuvo que la huelga se mantiene, y dijo: “estamos obligados a mantener la huelga, pero también asistir al centro de trabajo, porque la huelga se hace en el centro de trabajo”.\nEl llamado es garantizar la huelga, también alertó la criminalización de la protesta y convocó a los padres de familias, docentes, estudiantes, población en general, y al sector de la salud que se juntaran el lunes.\nAdemás, Suntracs convocó a la Asamblea General, el día 5 de mayo a las 08H00 (hora local), en el parque Hurraca, para que la máxima directiva del gremio exprese su posición frente al Gobierno.\nLos movilizados en la jornada también condenaron los acuerdos con Estados Unidos (EE.UU.) que quebranta la soberanía del Canal de Panamá, así como un probable inicio de negociaciones con First Quantum para abrir la mina, después de la declaración de inconstitucionalidad de la Corte como consecuencia de la protesta realizada  a finales de 2023.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/panama-sindicatos-demandas-laborales-sociales/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-05.json",
+    "message_index": 1955,
+    "message_id": 93185,
+    "date": "2025-05-01T21:55:23+00:00",
+    "text": "teleSUR\nSindicatos panameños marcharon por demandas laborales y sociales\nhttps://www.telesurtv.net/panama-sindicatos-demandas-laborales-sociales/",
+    "photo_path": null,
+    "views": 1958,
+    "reactions": {
+      "👏": 42,
+      "👍": 5,
+      "❤": 2
+    },
+    "total_reactions": 49
+  },
+  "preprocessing": {
+    "cleaned": "gremios docentes y trabajadores de panamá, salieron a las calles este jueves a demandar los derechos laborales y sociales y a mostrar su desacuerdo con las decisiones del gobierno del presidente josé raúl mulino de las reformas de la caja de seguro social aprobadas recientemente. el sindicato único de trabajadores de la construcción y similares (suntracs) y los docentes aseguraron que seguirán en huelga indefinida. en tanto, el secretario general de suntracs, saúl méndez, manifestó que se presentó una querella contra la ministra de trabajo jackeline muñoz, y es posible emprender acciones legales contra otros dos funcionarios, entre ellos el presidente mulino. asimismo, extendió una felicitación a los trabajadores y sostuvo que la huelga se mantiene, y dijo: “estamos obligados a mantener la huelga, pero también asistir al centro de trabajo, porque la huelga se hace en el centro de trabajo”. el llamado es garantizar la huelga, también alertó la criminalización de la protesta y convocó a los padres de familias, docentes, estudiantes, población en general, y al sector de la salud que se juntaran el lunes. además, suntracs convocó a la asamblea general, el día 5 de mayo a las 08h00 (hora local), en el parque hurraca, para que la máxima directiva del gremio exprese su posición frente al gobierno. los movilizados en la jornada también condenaron los acuerdos con estados unidos (ee.uu.) que quebranta la soberanía del canal de panamá, así como un probable inicio de negociaciones con first quantum para abrir la mina, después de la declaración de inconstitucionalidad de la corte como consecuencia de la protesta realizada a finales de 2023.",
+    "tokens": [
+      "gremios",
+      "docentes",
+      "trabajadores",
+      "panamá",
+      ",",
+      "salieron",
+      "calles",
+      "jueves",
+      "demandar",
+      "derechos",
+      "laborales",
+      "sociales",
+      "mostrar",
+      "desacuerdo",
+      "decisiones",
+      "gobierno",
+      "presidente",
+      "josé",
+      "raúl",
+      "mulino",
+      "reformas",
+      "caja",
+      "seguro",
+      "social",
+      "aprobadas",
+      "recientemente",
+      ".",
+      "sindicato",
+      "único",
+      "trabajadores",
+      "construcción",
+      "similares",
+      "(",
+      "suntracs",
+      ")",
+      "docentes",
+      "aseguraron",
+      "seguirán",
+      "huelga",
+      "indefinida",
+      ".",
+      ",",
+      "secretario",
+      "general",
+      "suntracs",
+      ",",
+      "saúl",
+      "méndez",
+      ",",
+      "manifestó",
+      "presentó",
+      "querella",
+      "ministra",
+      "trabajo",
+      "jackeline",
+      "muñoz",
+      ",",
+      "posible",
+      "emprender",
+      "acciones",
+      "legales",
+      "dos",
+      "funcionarios",
+      ",",
+      "presidente",
+      "mulino",
+      ".",
+      "asimismo",
+      ",",
+      "extendió",
+      "felicitación",
+      "trabajadores",
+      "sostuvo",
+      "huelga",
+      "mantiene",
+      ",",
+      "dijo",
+      ":",
+      "“",
+      "obligados",
+      "mantener",
+      "huelga",
+      ",",
+      "asistir",
+      "centro",
+      "trabajo",
+      ",",
+      "huelga",
+      "hace",
+      "centro",
+      "trabajo",
+      "”",
+      ".",
+      "llamado",
+      "garantizar",
+      "huelga",
+      ",",
+      "alertó",
+      "criminalización",
+      "protesta",
+      "convocó",
+      "padres",
+      "familias",
+      ",",
+      "docentes",
+      ",",
+      "estudiantes",
+      ",",
+      "población",
+      "general",
+      ",",
+      "sector",
+      "salud",
+      "juntaran",
+      "lunes",
+      ".",
+      "además",
+      ",",
+      "suntracs",
+      "convocó",
+      "asamblea",
+      "general",
+      ",",
+      "día",
+      "5",
+      "mayo",
+      "08h00",
+      "(",
+      "hora",
+      "local",
+      ")",
+      ",",
+      "parque",
+      "hurraca",
+      ",",
+      "máxima",
+      "directiva",
+      "gremio",
+      "exprese",
+      "posición",
+      "frente",
+      "gobierno",
+      ".",
+      "movilizados",
+      "jornada",
+      "condenaron",
+      "acuerdos",
+      "unidos",
+      "(",
+      "ee.uu.",
+      ")",
+      "quebranta",
+      "soberanía",
+      "canal",
+      "panamá",
+      ",",
+      "así",
+      "probable",
+      "inicio",
+      "negociaciones",
+      "first",
+      "quantum",
+      "abrir",
+      "mina",
+      ",",
+      "después",
+      "declaración",
+      "inconstitucionalidad",
+      "corte",
+      "consecuencia",
+      "protesta",
+      "realizada",
+      "finales",
+      "2023",
+      "."
+    ],
+    "token_count": 175,
+    "sentence_count": 7
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 43,
+      "VBZ": 8,
+      "NNS": 14,
+      "IN": 11,
+      "NN": 69,
+      "VBP": 7,
+      "JJ": 21,
+      "FW": 68,
+      "VBD": 1,
+      "$": 1,
+      "CD": 2
+    },
+    "bigram_freq": {
+      "NNP-VBZ": 3,
+      "VBZ-NNS": 2,
+      "NNS-IN": 1,
+      "IN-NNP": 1,
+      "NNP-NNP": 20,
+      "NNP-NN": 10,
+      "NN-NNS": 6,
+      "NNS-VBP": 5,
+      "VBP-NNS": 2,
+      "VBP-JJ": 4,
+      "JJ-NN": 15,
+      "NNS-VBZ": 3,
+      "NNS-JJ": 1,
+      "JJ-JJ": 3,
+      "NN-NN": 35,
+      "NNS-FW": 1,
+      "FW-NNP": 11,
+      "NNP-FW": 8,
+      "FW-NN": 7,
+      "NN-NNP": 7,
+      "NNP-IN": 1,
+      "IN-FW": 6,
+      "FW-FW": 46,
+      "NNP-VBD": 1,
+      "VBD-JJ": 1,
+      "JJ-NNP": 1,
+      "NN-VBZ": 2,
+      "VBZ-IN": 2,
+      "IN-NN": 2,
+      "NN-IN": 6,
+      "NN-JJ": 6,
+      "JJ-FW": 1,
+      "NN-FW": 6,
+      "VBZ-JJ": 3,
+      "JJ-NNS": 1,
+      "NN-VBP": 1,
+      "FW-NNS": 1,
+      "VBZ-VBP": 1,
+      "VBP-IN": 1,
+      "IN-JJ": 1,
+      "NNS-NNP": 2,
+      "FW-$": 1,
+      "$-CD": 1,
+      "CD-JJ": 1,
+      "FW-JJ": 1,
+      "IN-NNS": 1,
+      "NNS-NNS": 1,
+      "FW-CD": 1
+    },
+    "trigram_freq": {
+      "NNP-VBZ-NNS": 1,
+      "VBZ-NNS-IN": 1,
+      "NNS-IN-NNP": 1,
+      "IN-NNP-NNP": 1,
+      "NNP-NNP-NN": 6,
+      "NNP-NN-NNS": 1,
+      "NN-NNS-VBP": 2,
+      "NNS-VBP-NNS": 2,
+      "VBP-NNS-VBP": 2,
+      "NNS-VBP-JJ": 3,
+      "VBP-JJ-NN": 4,
+      "JJ-NN-NNS": 2,
+      "NN-NNS-VBZ": 2,
+      "NNS-VBZ-NNS": 1,
+      "VBZ-NNS-JJ": 1,
+      "NNS-JJ-JJ": 1,
+      "JJ-JJ-NN": 3,
+      "JJ-NN-NN": 10,
+      "NN-NN-NNS": 3,
+      "NN-NNS-FW": 1,
+      "NNS-FW-NNP": 1,
+      "FW-NNP-FW": 5,
+      "NNP-FW-NN": 2,
+      "FW-NN-NNP": 1,
+      "NN-NNP-NNP": 5,
+      "NNP-NNP-NNP": 7,
+      "NNP-NNP-IN": 1,
+      "NNP-IN-FW": 1,
+      "IN-FW-FW": 3,
+      "FW-FW-FW": 34,
+      "FW-FW-NNP": 6,
+      "NNP-FW-NNP": 3,
+      "FW-NNP-NNP": 4,
+      "NNP-NNP-VBD": 1,
+      "NNP-VBD-JJ": 1,
+      "VBD-JJ-NNP": 1,
+      "JJ-NNP-NNP": 1,
+      "NNP-NNP-FW": 3,
+      "NNP-FW-FW": 3,
+      "NNP-NN-VBZ": 1,
+      "NN-VBZ-IN": 2,
+      "VBZ-IN-NN": 1,
+      "IN-NN-NN": 2,
+      "NN-NN-IN": 3,
+      "NN-IN-NN": 1,
+      "NN-NN-NNP": 5,
+      "NN-NNP-NN": 2,
+      "NNP-NN-NN": 8,
+      "NN-NN-NN": 12,
+      "NN-NN-JJ": 6,
+      "NN-JJ-FW": 1,
+      "JJ-FW-NNP": 1,
+      "NN-JJ-NN": 4,
+      "NN-NN-FW": 4,
+      "NN-FW-FW": 6,
+      "NNP-NNP-VBZ": 2,
+      "NNP-VBZ-JJ": 2,
+      "VBZ-JJ-NN": 2,
+      "NNS-VBZ-JJ": 1,
+      "VBZ-JJ-NNS": 1,
+      "JJ-NNS-VBP": 1,
+      "NN-NN-VBP": 1,
+      "NN-VBP-JJ": 1,
+      "JJ-NN-IN": 2,
+      "NN-IN-FW": 4,
+      "IN-FW-NN": 1,
+      "FW-NN-FW": 2,
+      "FW-FW-NN": 4,
+      "FW-NN-NN": 3,
+      "NN-NN-VBZ": 1,
+      "VBZ-IN-FW": 1,
+      "IN-FW-NNS": 1,
+      "FW-NNS-VBZ": 1,
+      "NNS-VBZ-VBP": 1,
+      "VBZ-VBP-IN": 1,
+      "VBP-IN-JJ": 1,
+      "IN-JJ-NN": 1,
+      "NN-NNS-NNP": 1,
+      "NNS-NNP-NNP": 2,
+      "FW-NN-IN": 1,
+      "IN-FW-$": 1,
+      "FW-$-CD": 1,
+      "$-CD-JJ": 1,
+      "CD-JJ-JJ": 1,
+      "FW-FW-JJ": 1,
+      "FW-JJ-NN": 1,
+      "JJ-NN-NNP": 1,
+      "FW-NNP-NN": 2,
+      "NN-JJ-JJ": 1,
+      "NN-IN-NNS": 1,
+      "IN-NNS-NNS": 1,
+      "NNS-NNS-NNP": 1,
+      "FW-FW-CD": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 69,
+        "FW": 68,
+        "NNP": 43,
+        "JJ": 21,
+        "NNS": 14
+      },
+      "top_bigrams": {
+        "FW-FW": 46,
+        "NN-NN": 35,
+        "NNP-NNP": 20,
+        "JJ-NN": 15,
+        "FW-NNP": 11
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 34,
+        "NN-NN-NN": 12,
+        "JJ-NN-NN": 10,
+        "NNP-NN-NN": 8,
+        "NNP-NNP-NNP": 7
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 7,
+    "chunk_counts": {
+      "NP": 73,
+      "VP": 20,
+      "PP": 5,
+      "ADJP": 3
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 4,
+        "weight": 0.037
+      },
+      {
+        "rule": "NP -> ('Suntracs', 'NNP')",
+        "frequency": 3,
+        "weight": 0.0278
+      },
+      {
+        "rule": "NP -> ('Panamá', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0185
+      },
+      {
+        "rule": "ADJP -> ('general', 'JJ')",
+        "frequency": 2,
+        "weight": 0.0185
+      },
+      {
+        "rule": "S -> NP VP PP (',', ',') VP VP VP VP ('y', 'CC') VP ('y', 'CC') NP NP ('del', 'FW') NP ('del', 'FW') NP ('de', 'IN') ('las', 'FW') ('reformas', 'FW') ('de', 'FW') ('la', 'FW') NP ('de', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0093
+      },
+      {
+        "rule": "NP -> ('Gremios', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0093
+      },
+      {
+        "rule": "VP -> ('docentes', 'VBZ') NP",
+        "frequency": 1,
+        "weight": 0.0093
+      },
+      {
+        "rule": "NP -> ('y', 'JJ') ('trabajadores', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0093
+      },
+      {
+        "rule": "VP -> ('salieron', 'VBD') NP",
+        "frequency": 1,
+        "weight": 0.0093
+      },
+      {
+        "rule": "NP -> ('a', 'DT') ('las', 'JJ') ('calles', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0093
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Gremios"
+      },
+      {
+        "label": "VP",
+        "text": "docentes y trabajadores"
+      },
+      {
+        "label": "NP",
+        "text": "y trabajadores"
+      },
+      {
+        "label": "PP",
+        "text": "de Panamá"
+      },
+      {
+        "label": "NP",
+        "text": "Panamá"
+      },
+      {
+        "label": "VP",
+        "text": "salieron a las calles"
+      },
+      {
+        "label": "NP",
+        "text": "a las calles"
+      },
+      {
+        "label": "VP",
+        "text": "este"
+      },
+      {
+        "label": "VP",
+        "text": "jueves a demandar los derechos"
+      },
+      {
+        "label": "NP",
+        "text": "a demandar los derechos"
+      },
+      {
+        "label": "VP",
+        "text": "laborales"
+      },
+      {
+        "label": "VP",
+        "text": "sociales"
+      },
+      {
+        "label": "NP",
+        "text": "a mostrar su desacuerdo con"
+      },
+      {
+        "label": "NP",
+        "text": "las decisiones"
+      },
+      {
+        "label": "NP",
+        "text": "Gobierno"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Gremios/NNP)\n  (VP docentes/VBZ (NP y/JJ trabajadores/NNS))\n  (PP de/IN (NP Panamá/NNP))\n  ,/,\n  (VP salieron/VBD (NP a/DT las/JJ calles/NNS))\n  (VP este/VBP)\n  (VP jueves/VBZ (NP a/DT demandar/NN los/NN derechos/NN))\n  (VP laborales/VBZ)\n  y/CC\n  (VP sociales/VBZ)\n  y/CC\n  (NP a/DT mostrar/NN su/NN desacuerdo/NN con/NN)\n  (NP las/JJ decisiones/NNS)\n  del/FW\n  (NP Gobierno/NNP)\n  del/FW\n  (NP presidente/NN José/NNP Raúl/NNP Mulino/NNP)\n  de/IN\n  las/FW\n  reformas/FW\n  de/FW\n  la/FW\n  (NP Caja/NNP)\n  de/FW\n  (NP Seguro/NNP Social/NNP aprobadas/NN recientemente/NN)\n  ./.)",
+      "(S\n  (NP El/NNP Sindicato/NNP Único/NNP)\n  de/FW\n  (NP Trabajadores/NNP)\n  de/FW\n  la/FW\n  (NP Construcción/NNP y/NN Similares/NNP)\n  (/(\n  (NP Suntracs/NNP)\n  )/)\n  (VP y/VBP (NP los/JJ docentes/NNS))\n  (VP aseguraron/VBP (NP que/JJ seguirán/NN))\n  (PP en/IN (NP huelga/NN indefinida/NN))\n  ./.)",
+      "(S\n  (NP En/NNP tanto/NN)\n  ,/,\n  el/FW\n  (ADJP secretario/JJ)\n  (ADJP general/JJ)\n  de/FW\n  (NP Suntracs/NNP)\n  ,/,\n  (NP Saúl/NNP Méndez/NNP)\n  ,/,\n  (NP manifestó/NN que/NN se/NN presentó/NN)\n  (NP una/JJ querella/NN contra/NN)\n  la/FW\n  ministra/FW\n  de/FW\n  (NP Trabajo/NNP Jackeline/NNP Muñoz/NNP)\n  ,/,\n  (NP y/NNP)\n  (VP es/VBZ (NP posible/JJ emprender/NN acciones/NNS))\n  (VP legales/VBZ (NP contra/JJ otros/NNS))\n  (VP dos/VBP (NP funcionarios/NNS))\n  ,/,\n  entre/FW\n  ellos/FW\n  el/FW\n  (NP presidente/NN Mulino/NNP)\n  ./.)",
+      "(S\n  (NP Asimismo/NNP)\n  ,/,\n  (VP extendió/VBZ (NP una/JJ felicitación/NN) (NP a/DT los/NN))\n  (VP trabajadores/VBZ (NP y/JJR sostuvo/NN que/NN la/NN))\n  huelga/FW\n  (NP se/JJ mantiene/NN)\n  ,/,\n  (NP y/JJ dijo/NN)\n  :/:\n  (NP “/JJ estamos/NNS)\n  (VP obligados/VBP (NP a/DT mantener/NN la/NN huelga/NN))\n  ,/,\n  (NP pero/NN también/NN asistir/NN)\n  (NP al/JJ centro/NN)\n  (PP de/IN (NP trabajo/NN))\n  ,/,\n  (NP porque/NN la/NN)\n  huelga/FW\n  se/FW\n  (NP hace/NN)\n  en/FW\n  el/FW\n  centro/FW\n  de/FW\n  trabajo/FW\n  (NP ”/NN)\n  ./.)",
+      "(S\n  (NP El/NNP)\n  (VP llamado/VBZ)\n  es/FW\n  (NP garantizar/NN la/NN huelga/NN)\n  ,/,\n  (NP también/NN alertó/NN)\n  la/FW\n  criminalización/FW\n  de/FW\n  la/FW\n  protesta/FW\n  y/FW\n  (VP convocó/VB (NP a/DT los/JJ padres/NNS))\n  (PP de/IN (NP familias/NN))\n  ,/,\n  (NP docentes/NNS)\n  ,/,\n  (NP estudiantes/NNS)\n  ,/,\n  (NP población/NN)\n  en/IN\n  (ADJP general/JJ)\n  ,/,\n  (NP y/JJ al/NN sector/NN)\n  de/IN\n  la/FW\n  salud/FW\n  que/FW\n  se/FW\n  (NP juntaran/NN el/NN lunes/NNS)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "GOBIERNOS_OFICIALES",
+      "GRUPOS_ESPECIFICOS",
+      "TIEMPO_RELATIVO",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "MEDIOS_COMUNICACION",
+      "ACCIONES_LEGALES",
+      "ORGANIZACIONES_SOCIALES",
+      "PAISES",
+      "PROTESTAS_CONFLICTOS_SOCIALES",
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "LOCALIZACIONES_ESPECIFICAS"
+    ],
+    "matches": [
+      {
+        "category": "PROTESTAS_CONFLICTOS_SOCIALES",
+        "matched_text": "huelga, también alertó la criminalización de la protesta y convocó a los padres de familias, docentes, estudiantes, población en general, y al sector",
+        "position": [
+          931,
+          1080
+        ],
+        "start": 931,
+        "end": 1080
+      },
+      {
+        "category": "PROTESTAS_CONFLICTOS_SOCIALES",
+        "matched_text": "manifestó",
+        "position": [
+          477,
+          486
+        ],
+        "start": 477,
+        "end": 486
+      },
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "trabajo",
+        "position": [
+          538,
+          545
+        ],
+        "start": 538,
+        "end": 545
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "sostuvo",
+        "position": [
+          725,
+          732
+        ],
+        "start": 725,
+        "end": 732
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "alertó",
+        "position": [
+          947,
+          953
+        ],
+        "start": 947,
+        "end": 953
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "gobierno del presidente josé",
+        "position": [
+          171,
+          199
+        ],
+        "start": 171,
+        "end": 199
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente josé raúl",
+        "position": [
+          184,
+          204
+        ],
+        "start": 184,
+        "end": 204
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "ministra de trabajo jackeline",
+        "position": [
+          526,
+          555
+        ],
+        "start": 526,
+        "end": 555
+      },
+      {
+        "category": "ORGANIZACIONES_SOCIALES",
+        "matched_text": "sindicato único de trabajadores",
+        "position": [
+          284,
+          315
+        ],
+        "start": 284,
+        "end": 315
+      },
+      {
+        "category": "GRUPOS_ESPECIFICOS",
+        "matched_text": "docentes",
+        "position": [
+          8,
+          16
+        ],
+        "start": 8,
+        "end": 16
+      },
+      {
+        "category": "MEDIOS_COMUNICACION",
+        "matched_text": "canal de panamá",
+        "position": [
+          1433,
+          1448
+        ],
+        "start": 1433,
+        "end": 1448
+      },
+      {
+        "category": "ACCIONES_LEGALES",
+        "matched_text": "presentó una querella",
+        "position": [
+          494,
+          515
+        ],
+        "start": 494,
+        "end": 515
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "estados unidos",
+        "position": [
+          1378,
+          1392
+        ],
+        "start": 1378,
+        "end": 1392
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "panamá",
+        "position": [
+          35,
+          41
+        ],
+        "start": 35,
+        "end": 41
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "parque hurraca",
+        "position": [
+          1216,
+          1230
+        ],
+        "start": 1216,
+        "end": 1230
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "centro de",
+        "position": [
+          833,
+          842
+        ],
+        "start": 833,
+        "end": 842
+      },
+      {
+        "category": "TIEMPO_RELATIVO",
+        "matched_text": "recientemente",
+        "position": [
+          266,
+          279
+        ],
+        "start": 266,
+        "end": 279
+      }
+    ],
+    "match_count": 17
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "EE.UU.",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Corte",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Canal de Panamá",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Asamblea General",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Hurraca",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Panamá",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Suntracs",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Caja de Seguro Social",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Suntracs",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Mulino",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Estados Unidos",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Gobierno del presidente José Raúl Mulino",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Saúl Méndez",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Gobierno",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "El Sindicato Único de Trabajadores de la Construcción y Similares",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Trabajo Jackeline Muñoz",
+        "tipo": "Persona"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Panamá",
+        "relacion": "SALIR",
+        "objeto": "Gobierno del presidente José Raúl Mulino"
+      },
+      {
+        "sujeto": "Panamá",
+        "relacion": "SALIR",
+        "objeto": "Caja de Seguro Social"
+      },
+      {
+        "sujeto": "Suntracs",
+        "relacion": "MANIFESTAR",
+        "objeto": "Trabajo Jackeline Muñoz"
+      },
+      {
+        "sujeto": "Suntracs",
+        "relacion": "MANIFESTAR",
+        "objeto": "Mulino"
+      },
+      {
+        "sujeto": "Saúl Méndez",
+        "relacion": "MANIFESTAR",
+        "objeto": "Trabajo Jackeline Muñoz"
+      },
+      {
+        "sujeto": "Saúl Méndez",
+        "relacion": "MANIFESTAR",
+        "objeto": "Mulino"
+      },
+      {
+        "sujeto": "Trabajo Jackeline Muñoz",
+        "relacion": "PRESENTAR_MANIFESTAR",
+        "objeto": "Mulino"
+      },
+      {
+        "sujeto": "Suntracs",
+        "relacion": "CONVOCAR",
+        "objeto": "Asamblea General"
+      },
+      {
+        "sujeto": "Suntracs",
+        "relacion": "CONVOCAR",
+        "objeto": "Hurraca"
+      },
+      {
+        "sujeto": "Suntracs",
+        "relacion": "CONVOCAR",
+        "objeto": "Gobierno"
+      },
+      {
+        "sujeto": "Asamblea General",
+        "relacion": "CONVOCAR",
+        "objeto": "Hurraca"
+      },
+      {
+        "sujeto": "Asamblea General",
+        "relacion": "CONVOCAR",
+        "objeto": "Gobierno"
+      },
+      {
+        "sujeto": "Estados Unidos",
+        "relacion": "CONDENAR",
+        "objeto": "Corte"
+      },
+      {
+        "sujeto": "EE.UU.",
+        "relacion": "CONDENAR",
+        "objeto": "Corte"
+      },
+      {
+        "sujeto": "Canal de Panamá",
+        "relacion": "QUEBRANTAR_CONDENAR",
+        "objeto": "Corte"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.0,
+    "pos": 0.0,
+    "neu": 1.0,
+    "neg": 0.0,
+    "label": "neutral"
+  }
+}

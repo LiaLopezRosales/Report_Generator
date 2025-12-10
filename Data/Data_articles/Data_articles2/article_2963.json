@@ -1,0 +1,844 @@
+{
+  "url": "https://www.telesurtv.net/donald-trump-deportar-millon-migrantes-anual/",
+  "title": "Donald Trump busca deportar a un millón de migrantes por año",
+  "section": "Mundo",
+  "tags": [
+    "deportaciones",
+    "Donald Trump",
+    "MIgrantes",
+    "política migratoria"
+  ],
+  "text": "El presidente estadounidense, Donald Trump, anunció el jueves su intención de deportar a al menos un millón migrantes por año como parte de su política migratoria.\nEl plan de endurecer las deportaciones masivas está enmarcado en el proyecto legislativo que Donald Trump bautizó como ‘Gran y hermoso proyecto de ley‘ (‘Big Beautiful Bill’, en inglés), presentado ante el Congreso y respaldado por la Casa Blanca.\n“Vamos a financiar completamente las secciones finales del muro fronterizo y propondremos un nuevo impuesto sobre las remesas de dinero enviadas a países extranjeros. Y aumentaremos drásticamente las deportaciones a un mínimo de un millón de inmigrantes ilegales al año“, dijo Trump durante un discurso en la Casa Blanca.\nLa iniciativa contempla el refuerzo del aparato migratorio, incluyendo la contratación de 10.000 nuevos agentes del Servicio de Inmigración y Control de Aduanas (ICE, por sus siglas en inglés), 5.000 oficiales adicionales para la Patrulla Fronteriza y la construcción de más centros de detención de migrantes.\nTambién prevé más fondos para vuelos de deportación y operativos en ciudades que limitan su cooperación con las autoridades migratorias federales.\nComo parte de la política migratoria de Donald Trump, el Pentágono anunció el jueves que contempla la creación de dos nuevas zonas militarizadas a lo largo de la frontera con México que elevan a cuatro las áreas en las que el personal militar puede detener a migrantes.\nUna fuente del Departamento de Defensa confirmó que el secretario, Pete Hegseth, ordenó a las Fuerzas Aéreas y la Marina tomar las medidas necesarias para incrementar en esa linde las llamadas Áreas de Defensa Nacional (NDA, por sus siglas en inglés).\nEl pasado 11 de abril, el presidente Trump autorizó al Ejército estadounidense a apoderarse de terrenos federales en la frontera con México con el fin de avanzar en su política migratoria.\nLa toma de control del terreno por parte del Ejército se suma a la cada vez mayor presencia del Pentágono en la gestión de los organismos de migración.\n",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/donald-trump-deportar-millon-migrantes-anual/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-06.json",
+    "message_index": 246,
+    "message_id": 97587,
+    "date": "2025-06-27T07:55:07+00:00",
+    "text": "teleSUR\nDonald Trump pretende deportar a un millón de migrantes por año\nhttps://www.telesurtv.net/donald-trump-deportar-millon-migrantes-anual/",
+    "photo_path": null,
+    "views": 2260,
+    "reactions": {
+      "🤬": 47,
+      "❤": 4,
+      "🤣": 3,
+      "👍": 1
+    },
+    "total_reactions": 55
+  },
+  "preprocessing": {
+    "cleaned": "el presidente estadounidense, donald trump, anunció el jueves su intención de deportar a al menos un millón migrantes por año como parte de su política migratoria. el plan de endurecer las deportaciones masivas está enmarcado en el proyecto legislativo que donald trump bautizó como ‘gran y hermoso proyecto de ley‘ (‘big beautiful bill’, en inglés), presentado ante el congreso y respaldado por la casa blanca. “vamos a financiar completamente las secciones finales del muro fronterizo y propondremos un nuevo impuesto sobre las remesas de dinero enviadas a países extranjeros. y aumentaremos drásticamente las deportaciones a un mínimo de un millón de inmigrantes ilegales al año“, dijo trump durante un discurso en la casa blanca. la iniciativa contempla el refuerzo del aparato migratorio, incluyendo la contratación de 10.000 nuevos agentes del servicio de inmigración y control de aduanas (ice, por sus siglas en inglés), 5.000 oficiales adicionales para la patrulla fronteriza y la construcción de más centros de detención de migrantes. también prevé más fondos para vuelos de deportación y operativos en ciudades que limitan su cooperación con las autoridades migratorias federales. como parte de la política migratoria de donald trump, el pentágono anunció el jueves que contempla la creación de dos nuevas zonas militarizadas a lo largo de la frontera con méxico que elevan a cuatro las áreas en las que el personal militar puede detener a migrantes. una fuente del departamento de defensa confirmó que el secretario, pete hegseth, ordenó a las fuerzas aéreas y la marina tomar las medidas necesarias para incrementar en esa linde las llamadas áreas de defensa nacional (nda, por sus siglas en inglés). el pasado 11 de abril, el presidente trump autorizó al ejército estadounidense a apoderarse de terrenos federales en la frontera con méxico con el fin de avanzar en su política migratoria. la toma de control del terreno por parte del ejército se suma a la cada vez mayor presencia del pentágono en la gestión de los organismos de migración.",
+    "tokens": [
+      "presidente",
+      "estadounidense",
+      ",",
+      "donald",
+      "trump",
+      ",",
+      "anunció",
+      "jueves",
+      "intención",
+      "deportar",
+      "menos",
+      "millón",
+      "migrantes",
+      "año",
+      "parte",
+      "política",
+      "migratoria",
+      ".",
+      "plan",
+      "endurecer",
+      "deportaciones",
+      "masivas",
+      "enmarcado",
+      "proyecto",
+      "legislativo",
+      "donald",
+      "trump",
+      "bautizó",
+      "‘",
+      "gran",
+      "hermoso",
+      "proyecto",
+      "ley",
+      "‘",
+      "(",
+      "‘",
+      "big",
+      "beautiful",
+      "bill",
+      "’",
+      ",",
+      "inglés",
+      ")",
+      ",",
+      "presentado",
+      "congreso",
+      "respaldado",
+      "casa",
+      "blanca",
+      ".",
+      "“",
+      "vamos",
+      "financiar",
+      "completamente",
+      "secciones",
+      "finales",
+      "muro",
+      "fronterizo",
+      "propondremos",
+      "nuevo",
+      "impuesto",
+      "remesas",
+      "dinero",
+      "enviadas",
+      "países",
+      "extranjeros",
+      ".",
+      "aumentaremos",
+      "drásticamente",
+      "deportaciones",
+      "mínimo",
+      "millón",
+      "inmigrantes",
+      "ilegales",
+      "año",
+      "“",
+      ",",
+      "dijo",
+      "trump",
+      "discurso",
+      "casa",
+      "blanca",
+      ".",
+      "iniciativa",
+      "contempla",
+      "refuerzo",
+      "aparato",
+      "migratorio",
+      ",",
+      "incluyendo",
+      "contratación",
+      "10.000",
+      "nuevos",
+      "agentes",
+      "servicio",
+      "inmigración",
+      "control",
+      "aduanas",
+      "(",
+      "ice",
+      ",",
+      "siglas",
+      "inglés",
+      ")",
+      ",",
+      "5.000",
+      "oficiales",
+      "adicionales",
+      "patrulla",
+      "fronteriza",
+      "construcción",
+      "centros",
+      "detención",
+      "migrantes",
+      ".",
+      "prevé",
+      "fondos",
+      "vuelos",
+      "deportación",
+      "operativos",
+      "ciudades",
+      "limitan",
+      "cooperación",
+      "autoridades",
+      "migratorias",
+      "federales",
+      ".",
+      "parte",
+      "política",
+      "migratoria",
+      "donald",
+      "trump",
+      ",",
+      "pentágono",
+      "anunció",
+      "jueves",
+      "contempla",
+      "creación",
+      "dos",
+      "nuevas",
+      "zonas",
+      "militarizadas",
+      "largo",
+      "frontera",
+      "méxico",
+      "elevan",
+      "cuatro",
+      "áreas",
+      "personal",
+      "militar",
+      "puede",
+      "detener",
+      "migrantes",
+      ".",
+      "fuente",
+      "departamento",
+      "defensa",
+      "confirmó",
+      "secretario",
+      ",",
+      "pete",
+      "hegseth",
+      ",",
+      "ordenó",
+      "fuerzas",
+      "aéreas",
+      "marina",
+      "tomar",
+      "medidas",
+      "necesarias",
+      "incrementar",
+      "linde",
+      "llamadas",
+      "áreas",
+      "defensa",
+      "nacional",
+      "(",
+      "nda",
+      ",",
+      "siglas",
+      "inglés",
+      ")",
+      ".",
+      "pasado",
+      "11",
+      "abril",
+      ",",
+      "presidente",
+      "trump",
+      "autorizó",
+      "ejército",
+      "estadounidense",
+      "apoderarse",
+      "terrenos",
+      "federales",
+      "frontera",
+      "méxico",
+      "fin",
+      "avanzar",
+      "política",
+      "migratoria",
+      ".",
+      "toma",
+      "control",
+      "terreno",
+      "parte",
+      "ejército",
+      "suma",
+      "cada",
+      "vez",
+      "mayor",
+      "presencia",
+      "pentágono",
+      "gestión",
+      "organismos",
+      "migración",
+      "."
+    ],
+    "token_count": 217,
+    "sentence_count": 10
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 52,
+      "NN": 93,
+      "NNS": 20,
+      "VBP": 11,
+      "FW": 85,
+      "JJ": 24,
+      "IN": 15,
+      "VBZ": 3,
+      "VBD": 2,
+      "CD": 3,
+      "MD": 1,
+      "VB": 1
+    },
+    "bigram_freq": {
+      "NNP-NN": 19,
+      "NN-NN": 47,
+      "NN-NNP": 12,
+      "NNP-NNP": 20,
+      "NN-NNS": 5,
+      "NNS-VBP": 10,
+      "VBP-NN": 1,
+      "NN-FW": 9,
+      "FW-FW": 55,
+      "FW-JJ": 2,
+      "JJ-NN": 14,
+      "VBP-JJ": 8,
+      "NN-IN": 11,
+      "IN-FW": 10,
+      "FW-NNP": 12,
+      "FW-NNS": 4,
+      "NNS-FW": 1,
+      "FW-NN": 11,
+      "NNP-VBZ": 1,
+      "VBZ-JJ": 2,
+      "NNP-VBD": 2,
+      "VBD-JJ": 2,
+      "JJ-NNS": 5,
+      "NNS-NNS": 5,
+      "NN-JJ": 4,
+      "JJ-JJ": 1,
+      "NNS-JJ": 1,
+      "JJ-FW": 2,
+      "NNP-FW": 7,
+      "IN-CD": 1,
+      "CD-JJ": 1,
+      "VBP-NNP": 1,
+      "NNP-IN": 1,
+      "IN-NNP": 1,
+      "NNS-IN": 2,
+      "IN-NN": 1,
+      "NN-CD": 2,
+      "CD-NNS": 1,
+      "JJ-NNP": 2,
+      "IN-JJ": 2,
+      "NNS-NNP": 1,
+      "NN-VBZ": 2,
+      "NN-VBP": 1,
+      "VBZ-NNP": 1,
+      "NNP-MD": 1,
+      "MD-VB": 1,
+      "VB-NNP": 1,
+      "CD-IN": 1,
+      "NNP-JJ": 1,
+      "VBP-FW": 1
+    },
+    "trigram_freq": {
+      "NNP-NN-NN": 15,
+      "NN-NN-NNP": 8,
+      "NN-NNP-NNP": 5,
+      "NNP-NNP-NN": 4,
+      "NN-NN-NNS": 3,
+      "NN-NNS-VBP": 3,
+      "NNS-VBP-NN": 1,
+      "VBP-NN-FW": 1,
+      "NN-FW-FW": 3,
+      "FW-FW-FW": 41,
+      "FW-FW-JJ": 1,
+      "FW-JJ-NN": 1,
+      "JJ-NN-NNS": 2,
+      "NNS-VBP-JJ": 7,
+      "VBP-JJ-NN": 6,
+      "JJ-NN-NN": 8,
+      "NN-NN-IN": 6,
+      "NN-IN-FW": 9,
+      "IN-FW-FW": 6,
+      "FW-FW-NNP": 5,
+      "FW-NNP-NN": 6,
+      "NNP-NN-FW": 1,
+      "FW-FW-NNS": 3,
+      "FW-NNS-FW": 1,
+      "NNS-FW-FW": 1,
+      "FW-FW-NN": 4,
+      "FW-NN-NNP": 3,
+      "NN-NNP-NN": 5,
+      "IN-FW-NNP": 2,
+      "FW-NNP-NNP": 5,
+      "NNP-NNP-NNP": 7,
+      "NNP-NNP-VBZ": 1,
+      "NNP-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 2,
+      "NN-NN-FW": 5,
+      "NN-FW-NNP": 2,
+      "NN-NN-NN": 20,
+      "NNP-NNP-VBD": 2,
+      "NNP-VBD-JJ": 2,
+      "VBD-JJ-NNS": 2,
+      "JJ-NNS-NNS": 1,
+      "NNS-NNS-NNS": 1,
+      "NNS-NNS-VBP": 3,
+      "NN-NN-JJ": 3,
+      "NN-JJ-JJ": 1,
+      "JJ-JJ-NN": 1,
+      "NN-JJ-NN": 3,
+      "JJ-NN-IN": 3,
+      "IN-FW-JJ": 1,
+      "FW-JJ-NNS": 1,
+      "JJ-NNS-VBP": 2,
+      "NN-NNS-NNS": 1,
+      "NNS-NNS-JJ": 1,
+      "NNS-JJ-FW": 1,
+      "JJ-FW-FW": 1,
+      "FW-NNS-NNS": 1,
+      "JJ-NN-NNP": 1,
+      "NNP-NN-JJ": 1,
+      "NNP-NNP-FW": 4,
+      "NNP-FW-NN": 2,
+      "FW-NN-NN": 4,
+      "NN-FW-NN": 4,
+      "FW-NN-IN": 1,
+      "NN-IN-CD": 1,
+      "IN-CD-JJ": 1,
+      "CD-JJ-NNS": 1,
+      "NNS-VBP-NNP": 1,
+      "VBP-NNP-FW": 1,
+      "NNP-FW-NNP": 3,
+      "NNP-NNP-IN": 1,
+      "NNP-IN-NNP": 1,
+      "IN-NNP-NNP": 1,
+      "JJ-NNS-IN": 1,
+      "NNS-IN-NN": 1,
+      "IN-NN-CD": 1,
+      "NN-CD-NNS": 1,
+      "CD-NNS-NNS": 1,
+      "VBP-JJ-NNP": 1,
+      "JJ-NNP-NNP": 1,
+      "NNP-FW-FW": 2,
+      "FW-NNS-VBP": 2,
+      "NN-NNS-IN": 1,
+      "NNS-IN-JJ": 1,
+      "IN-JJ-NNS": 1,
+      "JJ-NNS-NNP": 1,
+      "NNS-NNP-NN": 1,
+      "NNP-NN-IN": 1,
+      "NN-NN-VBZ": 2,
+      "NN-VBZ-JJ": 1,
+      "VBP-JJ-FW": 1,
+      "JJ-FW-NN": 1,
+      "FW-NN-VBP": 1,
+      "NN-VBP-JJ": 1,
+      "NN-VBZ-NNP": 1,
+      "VBZ-NNP-NN": 1,
+      "NN-NNP-FW": 1,
+      "NNP-NNP-MD": 1,
+      "NNP-MD-VB": 1,
+      "MD-VB-NNP": 1,
+      "VB-NNP-NNP": 1,
+      "NN-IN-JJ": 1,
+      "IN-JJ-NNP": 1,
+      "JJ-NNP-NN": 1,
+      "NNP-NN-CD": 1,
+      "NN-CD-IN": 1,
+      "CD-IN-FW": 1,
+      "NN-NNP-JJ": 1,
+      "NNP-JJ-NN": 1,
+      "IN-FW-NNS": 1,
+      "NNS-VBP-FW": 1,
+      "VBP-FW-FW": 1,
+      "FW-NN-FW": 2,
+      "FW-NNP-FW": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 93,
+        "FW": 85,
+        "NNP": 52,
+        "JJ": 24,
+        "NNS": 20
+      },
+      "top_bigrams": {
+        "FW-FW": 55,
+        "NN-NN": 47,
+        "NNP-NNP": 20,
+        "NNP-NN": 19,
+        "JJ-NN": 14
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 41,
+        "NN-NN-NN": 20,
+        "NNP-NN-NN": 15,
+        "NN-IN-FW": 9,
+        "NN-NN-NNP": 8
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 10,
+    "chunk_counts": {
+      "NP": 75,
+      "VP": 19,
+      "ADJP": 2,
+      "PP": 5
+    },
+    "top_rules": [
+      {
+        "rule": "NP -> ('inglés', 'NN')",
+        "frequency": 3,
+        "weight": 0.027
+      },
+      {
+        "rule": "NP -> ('Donald', 'NNP') ('Trump', 'NNP')",
+        "frequency": 2,
+        "weight": 0.018
+      },
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.018
+      },
+      {
+        "rule": "NP -> ('por', 'NN') ('sus', 'NN') ('siglas', 'NN')",
+        "frequency": 2,
+        "weight": 0.018
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.018
+      },
+      {
+        "rule": "S -> NP (',', ',') NP (',', ',') NP VP ('de', 'FW') ('deportar', 'FW') NP NP VP ('de', 'IN') ('su', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.009
+      },
+      {
+        "rule": "NP -> ('El', 'NNP') ('presidente', 'NN') ('estadounidense', 'NN')",
+        "frequency": 1,
+        "weight": 0.009
+      },
+      {
+        "rule": "NP -> ('anunció', 'NN') ('el', 'NN') ('jueves', 'NNS')",
+        "frequency": 1,
+        "weight": 0.009
+      },
+      {
+        "rule": "VP -> ('su', 'VBP') NP",
+        "frequency": 1,
+        "weight": 0.009
+      },
+      {
+        "rule": "NP -> ('intención', 'NN')",
+        "frequency": 1,
+        "weight": 0.009
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El presidente estadounidense"
+      },
+      {
+        "label": "NP",
+        "text": "Donald Trump"
+      },
+      {
+        "label": "NP",
+        "text": "anunció el jueves"
+      },
+      {
+        "label": "VP",
+        "text": "su intención"
+      },
+      {
+        "label": "NP",
+        "text": "intención"
+      },
+      {
+        "label": "NP",
+        "text": "a al menos"
+      },
+      {
+        "label": "NP",
+        "text": "un millón migrantes"
+      },
+      {
+        "label": "VP",
+        "text": "por año como parte"
+      },
+      {
+        "label": "NP",
+        "text": "año como parte"
+      },
+      {
+        "label": "NP",
+        "text": "política migratoria"
+      },
+      {
+        "label": "NP",
+        "text": "El plan"
+      },
+      {
+        "label": "NP",
+        "text": "deportaciones"
+      },
+      {
+        "label": "NP",
+        "text": "que Donald Trump bautizó como ‘ Gran y"
+      },
+      {
+        "label": "VP",
+        "text": "hermoso"
+      },
+      {
+        "label": "NP",
+        "text": "Big Beautiful Bill ’"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP El/NNP presidente/NN estadounidense/NN)\n  ,/,\n  (NP Donald/NNP Trump/NNP)\n  ,/,\n  (NP anunció/NN el/NN jueves/NNS)\n  (VP su/VBP (NP intención/NN))\n  de/FW\n  deportar/FW\n  (NP a/DT al/NN menos/NN)\n  (NP un/JJ millón/NN migrantes/NNS)\n  (VP por/VBP (NP año/JJ como/NN parte/NN))\n  de/IN\n  su/FW\n  (NP política/NN migratoria/NN)\n  ./.)",
+      "(S\n  (NP El/NNP plan/NN)\n  de/FW\n  endurecer/FW\n  las/FW\n  (NP deportaciones/NNS)\n  masivas/FW\n  está/FW\n  enmarcado/FW\n  en/FW\n  el/FW\n  proyecto/FW\n  legislativo/FW\n  (NP\n    que/NN\n    Donald/NNP\n    Trump/NNP\n    bautizó/NN\n    como/NN\n    ‘/NNP\n    Gran/NNP\n    y/NNP)\n  (VP hermoso/VBD)\n  proyecto/FW\n  de/FW\n  ley/FW\n  ‘/FW\n  (/(\n  ‘/FW\n  (NP Big/NNP Beautiful/NNP Bill/NNP ’/NNP)\n  ,/,\n  en/FW\n  (NP inglés/NN)\n  )/)\n  ,/,\n  (NP\n    presentado/JJ\n    ante/NN\n    el/NN\n    Congreso/NNP\n    y/NNP\n    respaldado/NN\n    por/NN\n    la/NN\n    Casa/NNP\n    Blanca/NNP)\n  ./.)",
+      "(S\n  (NP “/JJ Vamos/NNP)\n  (NP\n    a/DT\n    financiar/JJ\n    completamente/NN\n    las/NNS\n    secciones/NNS\n    finales/NNS)\n  (VP\n    del/VBP\n    (NP muro/JJ fronterizo/NN y/NN propondremos/NN)\n    (NP un/JJ nuevo/JJ impuesto/NN sobre/NN)\n    (NP las/JJ remesas/NN))\n  de/IN\n  dinero/FW\n  enviadas/FW\n  (NP a/DT países/NNS extranjeros/NN)\n  ./.)",
+      "(S\n  (NP Y/NNP aumentaremos/NN drásticamente/NN)\n  (VP las/VBP)\n  (VP deportaciones/VBZ (NP a/DT un/JJ mínimo/NN))\n  de/IN\n  (ADJP un/JJ)\n  millón/FW\n  de/FW\n  (NP inmigrantes/NNS ilegales/NNS)\n  (VP al/VBP (NP año/JJ “/NNP))\n  ,/,\n  (NP dijo/JJ Trump/NNP durante/NN)\n  (NP un/JJ discurso/NN)\n  en/IN\n  la/FW\n  (NP Casa/NNP Blanca/NNP)\n  ./.)",
+      "(S\n  (NP La/NNP)\n  iniciativa/FW\n  (NP contempla/NN el/NN refuerzo/NN del/NN aparato/NN migratorio/NN)\n  ,/,\n  (ADJP incluyendo/JJ)\n  la/FW\n  contratación/FW\n  de/FW\n  10.000/CD\n  (NP nuevos/JJ agentes/NNS)\n  (VP del/VBP (NP Servicio/NNP))\n  de/FW\n  (NP Inmigración/NNP)\n  y/CC\n  (NP Control/NNP)\n  (PP de/IN (NP Aduanas/NNP))\n  (/(\n  (NP ICE/NNP)\n  ,/,\n  (NP por/NN sus/NN siglas/NN)\n  (PP en/IN (NP inglés/NN))\n  )/)\n  ,/,\n  5.000/CD\n  (NP oficiales/NNS adicionales/NNS)\n  (VP para/VBP (NP la/JJ Patrulla/NNP Fronteriza/NNP y/NNP la/NNP))\n  construcción/FW\n  de/FW\n  más/FW\n  centros/FW\n  de/FW\n  detención/FW\n  de/FW\n  (NP migrantes/NNS)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "GOBIERNOS_OFICIALES",
+      "LEYES_NORMATIVAS",
+      "APROBACION_RECHAZO",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "REGIONES_PROVINCIAS",
+      "INSTITUCIONES_EDUCATIVAS",
+      "PAISES",
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "JURIDICO_LEGISLATIVO_CORRUPCION"
+    ],
+    "matches": [
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "impuesto",
+        "position": [
+          511,
+          519
+        ],
+        "start": 511,
+        "end": 519
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "anunció",
+        "position": [
+          44,
+          51
+        ],
+        "start": 44,
+        "end": 51
+      },
+      {
+        "category": "JURIDICO_LEGISLATIVO_CORRUPCION",
+        "matched_text": "defensa",
+        "position": [
+          1492,
+          1499
+        ],
+        "start": 1492,
+        "end": 1499
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente estadounidense",
+        "position": [
+          3,
+          28
+        ],
+        "start": 3,
+        "end": 28
+      },
+      {
+        "category": "INSTITUCIONES_EDUCATIVAS",
+        "matched_text": "departamento de defensa",
+        "position": [
+          1476,
+          1499
+        ],
+        "start": 1476,
+        "end": 1499
+      },
+      {
+        "category": "APROBACION_RECHAZO",
+        "matched_text": "autorizó",
+        "position": [
+          1756,
+          1764
+        ],
+        "start": 1756,
+        "end": 1764
+      },
+      {
+        "category": "LEYES_NORMATIVAS",
+        "matched_text": "proyecto legislativo que donald trump bautizó como ‘gran y hermoso proyecto de ley",
+        "position": [
+          232,
+          314
+        ],
+        "start": 232,
+        "end": 314
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "méxico",
+        "position": [
+          1366,
+          1372
+        ],
+        "start": 1366,
+        "end": 1372
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "departamento de",
+        "position": [
+          1476,
+          1491
+        ],
+        "start": 1476,
+        "end": 1491
+      }
+    ],
+    "match_count": 9
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Áreas de Defensa Nacional",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "México",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Congreso",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Casa Blanca",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Pentágono",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Trump",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "NDA",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Donald Trump",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Pete Hegseth",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Departamento de Defensa",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Servicio de Inmigración",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Patrulla Fronteriza",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Fuerzas Aéreas y la Marina",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "la Casa Blanca",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Donald Trump",
+        "relacion": "BAUTIZAR",
+        "objeto": "Congreso"
+      },
+      {
+        "sujeto": "Donald Trump",
+        "relacion": "BAUTIZAR",
+        "objeto": "Casa Blanca"
+      },
+      {
+        "sujeto": "Trump",
+        "relacion": "DECIR",
+        "objeto": "la Casa Blanca"
+      },
+      {
+        "sujeto": "Pentágono",
+        "relacion": "ANUNCIAR",
+        "objeto": "Donald Trump"
+      },
+      {
+        "sujeto": "Donald Trump",
+        "relacion": "ANUNCIAR",
+        "objeto": "México"
+      },
+      {
+        "sujeto": "Pentágono",
+        "relacion": "ANUNCIAR",
+        "objeto": "México"
+      },
+      {
+        "sujeto": "Departamento de Defensa",
+        "relacion": "CONFIRMAR",
+        "objeto": "Pete Hegseth"
+      },
+      {
+        "sujeto": "Departamento de Defensa",
+        "relacion": "CONFIRMAR",
+        "objeto": "Fuerzas Aéreas y la Marina"
+      },
+      {
+        "sujeto": "Departamento de Defensa",
+        "relacion": "CONFIRMAR",
+        "objeto": "Áreas de Defensa Nacional"
+      },
+      {
+        "sujeto": "Departamento de Defensa",
+        "relacion": "CONFIRMAR",
+        "objeto": "NDA"
+      },
+      {
+        "sujeto": "Pete Hegseth",
+        "relacion": "ORDENAR_CONFIRMAR",
+        "objeto": "Fuerzas Aéreas y la Marina"
+      },
+      {
+        "sujeto": "Pete Hegseth",
+        "relacion": "ORDENAR_CONFIRMAR",
+        "objeto": "Áreas de Defensa Nacional"
+      },
+      {
+        "sujeto": "Pete Hegseth",
+        "relacion": "ORDENAR_CONFIRMAR",
+        "objeto": "NDA"
+      },
+      {
+        "sujeto": "Fuerzas Aéreas y la Marina",
+        "relacion": "ORDENAR_CONFIRMAR",
+        "objeto": "Áreas de Defensa Nacional"
+      },
+      {
+        "sujeto": "Fuerzas Aéreas y la Marina",
+        "relacion": "ORDENAR_CONFIRMAR",
+        "objeto": "NDA"
+      },
+      {
+        "sujeto": "Trump",
+        "relacion": "AUTORIZAR",
+        "objeto": "México"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.5994,
+    "pos": 0.012,
+    "neu": 0.988,
+    "neg": 0.0,
+    "label": "positive"
+  }
+}

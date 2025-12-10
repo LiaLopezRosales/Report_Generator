@@ -1,0 +1,730 @@
+{
+  "url": "https://www.telesurtv.net/serbia-enfrentamientos-protestas-belgrado-policias-heridos/",
+  "title": "Serbia: Enfrentamientos durante protestas en Belgrado dejan 48 policías heridos - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Aleksandar Vucic",
+    "Enfrentamientos en Belgrado",
+    "Estudiantes",
+    "Ivica Dacic.",
+    "opositores",
+    "protestas",
+    "serbia"
+  ],
+  "text": "En total, 48 efectivos sufrieron lesiones, incluyendo 38 integrantes de la Gendarmería, entre otras unidades. Uno de los policías heridos se encuentra en estado grave.\n\nLos enfrentamientos ocurrieron alrededor de las 21H30 hora local, cuando una multitud de estudiantes y simpatizantes de la oposición comenzó a lanzar petardos y diversos objetos contra los cordones policiales desplegados frente a la sede ejecutiva del presidente, Aleksandar Vucic.\nLa policía respondió dispersando a los manifestantes con porras y gases lacrimógenos. El Ministerio del Interior serbio indicó que la protesta reunió a unos 36.000 participantes.\n\n\nLos estudiantes, que llevan siete meses bloqueando universidades, habían convocado a una protesta masiva en el centro de Belgrado. La tensión se elevó al expirar, a las 21H00, el ultimátum que la oposición emitió el 25 de junio, cuando exigió se convoque a elecciones parlamentarias anticipadas y se retire la acampada de simpatizantes del Presidente serbio de la plaza frente a la Asamblea Nacional.\nEl presidente Vucic, por su parte, descartó adelantar las elecciones parlamentarias. Las autoridades serbias sostienen que estas protestas buscan derrocar al Gobierno y a Vucic, y que detrás de ellas operan organizaciones y medios financiados desde el extranjero, con una inversión de 3.000 millones de euros en 10 años.\nLo que inició como una protesta por el colapso de una marquesina en Novi Sad, bajo el lema “Justicia para Novi Sad”, varió en una crisis política prolongada. Actualmente, los manifestantes reclaman directamente la renuncia del presidente Vucic, elecciones parlamentarias anticipadas y el fin de lo que describen como un Gobierno autoritario.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/serbia-enfrentamientos-protestas-belgrado-policias-heridos/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-06.json",
+    "message_index": 82,
+    "message_id": 97790,
+    "date": "2025-06-29T17:55:12+00:00",
+    "text": "teleSUR\nSerbia: Enfrentamientos durante protestas en Belgrado dejan 48 policías heridos\nhttps://www.telesurtv.net/serbia-enfrentamientos-protestas-belgrado-policias-heridos/",
+    "photo_path": null,
+    "views": 2486,
+    "reactions": {
+      "😱": 31,
+      "👏": 7,
+      "🤔": 4,
+      "👍": 1
+    },
+    "total_reactions": 43
+  },
+  "preprocessing": {
+    "cleaned": "en total, 48 efectivos sufrieron lesiones, incluyendo 38 integrantes de la gendarmería, entre otras unidades. uno de los policías heridos se encuentra en estado grave. los enfrentamientos ocurrieron alrededor de las 21h30 hora local, cuando una multitud de estudiantes y simpatizantes de la oposición comenzó a lanzar petardos y diversos objetos contra los cordones policiales desplegados frente a la sede ejecutiva del presidente, aleksandar vucic. la policía respondió dispersando a los manifestantes con porras y gases lacrimógenos. el ministerio del interior serbio indicó que la protesta reunió a unos 36.000 participantes. los estudiantes, que llevan siete meses bloqueando universidades, habían convocado a una protesta masiva en el centro de belgrado. la tensión se elevó al expirar, a las 21h00, el ultimátum que la oposición emitió el 25 de junio, cuando exigió se convoque a elecciones parlamentarias anticipadas y se retire la acampada de simpatizantes del presidente serbio de la plaza frente a la asamblea nacional. el presidente vucic, por su parte, descartó adelantar las elecciones parlamentarias. las autoridades serbias sostienen que estas protestas buscan derrocar al gobierno y a vucic, y que detrás de ellas operan organizaciones y medios financiados desde el extranjero, con una inversión de 3.000 millones de euros en 10 años. lo que inició como una protesta por el colapso de una marquesina en novi sad, bajo el lema “justicia para novi sad”, varió en una crisis política prolongada. actualmente, los manifestantes reclaman directamente la renuncia del presidente vucic, elecciones parlamentarias anticipadas y el fin de lo que describen como un gobierno autoritario.",
+    "tokens": [
+      "total",
+      ",",
+      "48",
+      "efectivos",
+      "sufrieron",
+      "lesiones",
+      ",",
+      "incluyendo",
+      "38",
+      "integrantes",
+      "gendarmería",
+      ",",
+      "unidades",
+      ".",
+      "policías",
+      "heridos",
+      "encuentra",
+      "grave",
+      ".",
+      "enfrentamientos",
+      "ocurrieron",
+      "alrededor",
+      "21h30",
+      "hora",
+      "local",
+      ",",
+      "multitud",
+      "estudiantes",
+      "simpatizantes",
+      "oposición",
+      "comenzó",
+      "lanzar",
+      "petardos",
+      "diversos",
+      "objetos",
+      "cordones",
+      "policiales",
+      "desplegados",
+      "frente",
+      "sede",
+      "ejecutiva",
+      "presidente",
+      ",",
+      "aleksandar",
+      "vucic",
+      ".",
+      "policía",
+      "respondió",
+      "dispersando",
+      "manifestantes",
+      "porras",
+      "gases",
+      "lacrimógenos",
+      ".",
+      "ministerio",
+      "interior",
+      "serbio",
+      "indicó",
+      "protesta",
+      "reunió",
+      "36.000",
+      "participantes",
+      ".",
+      "estudiantes",
+      ",",
+      "llevan",
+      "siete",
+      "meses",
+      "bloqueando",
+      "universidades",
+      ",",
+      "convocado",
+      "protesta",
+      "masiva",
+      "centro",
+      "belgrado",
+      ".",
+      "tensión",
+      "elevó",
+      "expirar",
+      ",",
+      "21h00",
+      ",",
+      "ultimátum",
+      "oposición",
+      "emitió",
+      "25",
+      "junio",
+      ",",
+      "exigió",
+      "convoque",
+      "elecciones",
+      "parlamentarias",
+      "anticipadas",
+      "retire",
+      "acampada",
+      "simpatizantes",
+      "presidente",
+      "serbio",
+      "plaza",
+      "frente",
+      "asamblea",
+      "nacional",
+      ".",
+      "presidente",
+      "vucic",
+      ",",
+      "parte",
+      ",",
+      "descartó",
+      "adelantar",
+      "elecciones",
+      "parlamentarias",
+      ".",
+      "autoridades",
+      "serbias",
+      "sostienen",
+      "protestas",
+      "buscan",
+      "derrocar",
+      "gobierno",
+      "vucic",
+      ",",
+      "detrás",
+      "operan",
+      "organizaciones",
+      "medios",
+      "financiados",
+      "extranjero",
+      ",",
+      "inversión",
+      "3.000",
+      "millones",
+      "euros",
+      "10",
+      "años",
+      ".",
+      "inició",
+      "protesta",
+      "colapso",
+      "marquesina",
+      "novi",
+      "sad",
+      ",",
+      "bajo",
+      "lema",
+      "“",
+      "justicia",
+      "novi",
+      "sad",
+      "”",
+      ",",
+      "varió",
+      "crisis",
+      "política",
+      "prolongada",
+      ".",
+      "actualmente",
+      ",",
+      "manifestantes",
+      "reclaman",
+      "directamente",
+      "renuncia",
+      "presidente",
+      "vucic",
+      ",",
+      "elecciones",
+      "parlamentarias",
+      "anticipadas",
+      "fin",
+      "describen",
+      "gobierno",
+      "autoritario",
+      "."
+    ],
+    "token_count": 174,
+    "sentence_count": 11
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 30,
+      "JJ": 31,
+      "CD": 8,
+      "NN": 74,
+      "VBZ": 3,
+      "RB": 1,
+      "NNS": 17,
+      "IN": 10,
+      "FW": 54,
+      "VBP": 11
+    },
+    "bigram_freq": {
+      "NNP-JJ": 1,
+      "JJ-CD": 2,
+      "CD-NN": 3,
+      "NN-NN": 38,
+      "NN-VBZ": 2,
+      "VBZ-RB": 1,
+      "RB-CD": 1,
+      "CD-NNS": 3,
+      "NNS-IN": 2,
+      "IN-FW": 7,
+      "FW-NNP": 7,
+      "NNP-FW": 7,
+      "FW-FW": 28,
+      "FW-JJ": 5,
+      "JJ-NNP": 2,
+      "JJ-NN": 15,
+      "NN-JJ": 8,
+      "JJ-FW": 3,
+      "FW-VBP": 1,
+      "VBP-NNP": 3,
+      "NNP-NN": 10,
+      "NN-IN": 8,
+      "FW-CD": 4,
+      "CD-JJ": 1,
+      "JJ-JJ": 5,
+      "FW-NNS": 1,
+      "FW-NN": 8,
+      "JJ-NNS": 4,
+      "NNS-NNS": 3,
+      "NNS-VBP": 10,
+      "VBP-JJ": 8,
+      "NNP-NNP": 9,
+      "VBZ-JJ": 2,
+      "NNS-NNP": 1,
+      "NNP-VBZ": 1,
+      "NN-FW": 7,
+      "CD-FW": 1,
+      "NN-NNS": 4,
+      "NN-NNP": 6,
+      "NNP-NNS": 2,
+      "IN-CD": 1,
+      "NNS-FW": 1,
+      "IN-JJ": 1,
+      "IN-NNP": 1
+    },
+    "trigram_freq": {
+      "NNP-JJ-CD": 1,
+      "JJ-CD-NN": 1,
+      "CD-NN-NN": 2,
+      "NN-NN-VBZ": 2,
+      "NN-VBZ-RB": 1,
+      "VBZ-RB-CD": 1,
+      "RB-CD-NNS": 1,
+      "CD-NNS-IN": 1,
+      "NNS-IN-FW": 2,
+      "IN-FW-NNP": 1,
+      "FW-NNP-FW": 3,
+      "NNP-FW-FW": 4,
+      "FW-FW-JJ": 2,
+      "FW-JJ-NNP": 1,
+      "JJ-NNP-FW": 1,
+      "FW-JJ-NN": 3,
+      "JJ-NN-NN": 9,
+      "NN-NN-JJ": 7,
+      "NN-JJ-FW": 1,
+      "JJ-FW-FW": 3,
+      "FW-FW-VBP": 1,
+      "FW-VBP-NNP": 1,
+      "VBP-NNP-NN": 1,
+      "NNP-NN-NN": 5,
+      "NN-NN-NN": 18,
+      "NN-NN-IN": 3,
+      "NN-IN-FW": 5,
+      "IN-FW-CD": 1,
+      "FW-CD-JJ": 1,
+      "CD-JJ-JJ": 1,
+      "JJ-JJ-NN": 2,
+      "JJ-NN-JJ": 1,
+      "NN-JJ-NN": 4,
+      "JJ-NN-IN": 4,
+      "IN-FW-NNS": 1,
+      "FW-NNS-IN": 1,
+      "IN-FW-FW": 2,
+      "FW-FW-NN": 3,
+      "FW-NN-NN": 4,
+      "NN-JJ-JJ": 1,
+      "JJ-JJ-NNS": 2,
+      "JJ-NNS-NNS": 3,
+      "NNS-NNS-VBP": 3,
+      "NNS-VBP-JJ": 8,
+      "VBP-JJ-FW": 2,
+      "FW-FW-FW": 16,
+      "FW-FW-NNP": 4,
+      "FW-NNP-NNP": 3,
+      "NNP-NNP-NNP": 2,
+      "NNP-NNP-FW": 3,
+      "NNP-FW-NN": 2,
+      "NN-VBZ-JJ": 1,
+      "VBZ-JJ-NNS": 1,
+      "NNS-VBP-NNP": 2,
+      "VBP-NNP-NNP": 1,
+      "NNP-FW-NNP": 1,
+      "NN-JJ-CD": 1,
+      "JJ-CD-NNS": 1,
+      "CD-NNS-NNP": 1,
+      "NNS-NNP-VBZ": 1,
+      "NNP-VBZ-JJ": 1,
+      "VBZ-JJ-JJ": 1,
+      "JJ-JJ-JJ": 1,
+      "JJ-NNS-VBP": 1,
+      "VBP-JJ-NN": 5,
+      "FW-FW-CD": 2,
+      "FW-CD-NN": 2,
+      "NN-NN-FW": 3,
+      "NN-FW-NN": 3,
+      "FW-NN-FW": 3,
+      "NN-FW-CD": 1,
+      "FW-CD-FW": 1,
+      "CD-FW-FW": 1,
+      "NN-NN-NNS": 2,
+      "NN-NNS-VBP": 4,
+      "NN-FW-FW": 1,
+      "NN-FW-NNP": 1,
+      "NNP-NNP-NN": 4,
+      "NNP-NN-NNP": 2,
+      "NN-NNP-NN": 4,
+      "VBP-NNP-NNS": 1,
+      "NNP-NNS-VBP": 2,
+      "JJ-NN-NNS": 1,
+      "NN-NN-NNP": 3,
+      "NN-NNP-NNP": 2,
+      "IN-FW-JJ": 2,
+      "FW-JJ-NNS": 1,
+      "NN-IN-CD": 1,
+      "IN-CD-NNS": 1,
+      "CD-NNS-FW": 1,
+      "NNS-FW-FW": 1,
+      "CD-NN-NNP": 1,
+      "FW-NN-IN": 1,
+      "NN-IN-JJ": 1,
+      "IN-JJ-NN": 1,
+      "NN-IN-NNP": 1,
+      "IN-NNP-NNP": 1,
+      "NNP-NN-FW": 1,
+      "NN-FW-JJ": 1,
+      "NNP-NN-NNS": 1,
+      "FW-NNP-NNS": 1,
+      "VBP-JJ-JJ": 1,
+      "NN-JJ-NNP": 1,
+      "JJ-NNP-NN": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 74,
+        "FW": 54,
+        "JJ": 31,
+        "NNP": 30,
+        "NNS": 17
+      },
+      "top_bigrams": {
+        "NN-NN": 38,
+        "FW-FW": 28,
+        "JJ-NN": 15,
+        "NNP-NN": 10,
+        "NNS-VBP": 10
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 18,
+        "FW-FW-FW": 16,
+        "JJ-NN-NN": 9,
+        "NNS-VBP-JJ": 8,
+        "NN-NN-JJ": 7
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 11,
+    "chunk_counts": {
+      "NP": 72,
+      "VP": 18,
+      "ADJP": 5,
+      "PP": 2
+    },
+    "top_rules": [
+      {
+        "rule": "S -> NP (',', ',') ('48', 'CD') NP (',', ',') VP ('38', 'CD') NP ('de', 'IN') ('la', 'FW') NP (',', ',') VP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0093
+      },
+      {
+        "rule": "NP -> ('En', 'NNP') ('total', 'NN')",
+        "frequency": 1,
+        "weight": 0.0093
+      },
+      {
+        "rule": "NP -> ('efectivos', 'NN') ('sufrieron', 'NN') ('lesiones', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0093
+      },
+      {
+        "rule": "VP -> ('incluyendo', 'VBP')",
+        "frequency": 1,
+        "weight": 0.0093
+      },
+      {
+        "rule": "NP -> ('integrantes', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0093
+      },
+      {
+        "rule": "NP -> ('Gendarmería', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0093
+      },
+      {
+        "rule": "VP -> ('entre', 'VBZ') NP",
+        "frequency": 1,
+        "weight": 0.0093
+      },
+      {
+        "rule": "NP -> ('otras', 'JJ') ('unidades', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0093
+      },
+      {
+        "rule": "S -> NP ('de', 'FW') ('los', 'FW') NP ADJP ('en', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0093
+      },
+      {
+        "rule": "NP -> ('Uno', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0093
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "En total"
+      },
+      {
+        "label": "NP",
+        "text": "efectivos sufrieron lesiones"
+      },
+      {
+        "label": "VP",
+        "text": "incluyendo"
+      },
+      {
+        "label": "NP",
+        "text": "integrantes"
+      },
+      {
+        "label": "NP",
+        "text": "Gendarmería"
+      },
+      {
+        "label": "VP",
+        "text": "entre otras unidades"
+      },
+      {
+        "label": "NP",
+        "text": "otras unidades"
+      },
+      {
+        "label": "NP",
+        "text": "Uno"
+      },
+      {
+        "label": "NP",
+        "text": "policías heridos se"
+      },
+      {
+        "label": "ADJP",
+        "text": "encuentra"
+      },
+      {
+        "label": "NP",
+        "text": "estado grave"
+      },
+      {
+        "label": "NP",
+        "text": "Los enfrentamientos ocurrieron alrededor"
+      },
+      {
+        "label": "ADJP",
+        "text": "hora"
+      },
+      {
+        "label": "ADJP",
+        "text": "local"
+      },
+      {
+        "label": "NP",
+        "text": "cuando una multitud"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP En/NNP total/NN)\n  ,/,\n  48/CD\n  (NP efectivos/NN sufrieron/NN lesiones/NNS)\n  ,/,\n  (VP incluyendo/VBP)\n  38/CD\n  (NP integrantes/NNS)\n  de/IN\n  la/FW\n  (NP Gendarmería/NNP)\n  ,/,\n  (VP entre/VBZ (NP otras/JJ unidades/NNS))\n  ./.)",
+      "(S\n  (NP Uno/NNP)\n  de/FW\n  los/FW\n  (NP policías/JJ heridos/NN se/NN)\n  (ADJP encuentra/JJ)\n  en/FW\n  (NP estado/NN grave/NN)\n  ./.)",
+      "(S\n  (NP Los/NNP enfrentamientos/NN ocurrieron/NN alrededor/NN)\n  de/IN\n  las/FW\n  21H30/CD\n  (ADJP hora/JJ)\n  (ADJP local/JJ)\n  ,/,\n  (NP cuando/JJ una/JJ multitud/NN)\n  de/IN\n  estudiantes/FW\n  (NP y/JJ simpatizantes/NNS)\n  de/IN\n  la/FW\n  oposición/FW\n  (VP\n    comenzó/VBP\n    (NP a/DT lanzar/JJ petardos/NN y/NN diversos/NN objetos/NN)\n    (NP contra/JJ los/JJ cordones/NNS policiales/NNS))\n  (VP desplegados/VBP)\n  (VP frente/VB (NP a/DT la/NN sede/NN))\n  ejecutiva/FW\n  (NP del/NN presidente/NN)\n  ,/,\n  (NP Aleksandar/NNP Vucic/NNP)\n  ./.)",
+      "(S\n  (NP La/NNP policía/NN respondió/NN)\n  (VP dispersando/VBZ (NP a/DT los/NN))\n  (VP manifestantes/VBZ (NP con/JJ porras/NNS))\n  (VP y/VBP (NP gases/NNS lacrimógenos/NNS))\n  ./.)",
+      "(S\n  (NP El/NNP Ministerio/NNP)\n  del/FW\n  (NP Interior/NNP)\n  serbio/FW\n  (NP indicó/NN que/NN la/NN protesta/NN)\n  (VP reunió/VBZ)\n  a/DT\n  (ADJP unos/JJ)\n  36.000/CD\n  (NP participantes/NNS)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "GOBIERNOS_OFICIALES",
+      "GRUPOS_ESPECIFICOS",
+      "CANTIDADES_NUMERICAS",
+      "TIEMPO_RELATIVO",
+      "REGIONES_PROVINCIAS",
+      "LOCALIZACIONES_ESPECIFICAS",
+      "PROTESTAS_CONFLICTOS_SOCIALES",
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "MONETARIOS"
+    ],
+    "matches": [
+      {
+        "category": "PROTESTAS_CONFLICTOS_SOCIALES",
+        "matched_text": "protesta masiva en el centro de belgrado. la tensión se elevó al expirar, a las 21h00, el ultimátum que la oposición emitió el 25 de junio, cuando exigió se convoque a elecciones parlamentarias anticipadas y se retire la acampada de simpatizantes del presidente",
+        "position": [
+          721,
+          982
+        ],
+        "start": 721,
+        "end": 982
+      },
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "inversión",
+        "position": [
+          1305,
+          1314
+        ],
+        "start": 1305,
+        "end": 1314
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente serbio de",
+        "position": [
+          972,
+          992
+        ],
+        "start": 972,
+        "end": 992
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "asamblea nacional",
+        "position": [
+          1014,
+          1031
+        ],
+        "start": 1014,
+        "end": 1031
+      },
+      {
+        "category": "GRUPOS_ESPECIFICOS",
+        "matched_text": "estudiantes",
+        "position": [
+          258,
+          269
+        ],
+        "start": 258,
+        "end": 269
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "estado grave",
+        "position": [
+          154,
+          166
+        ],
+        "start": 154,
+        "end": 166
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "plaza frente",
+        "position": [
+          996,
+          1008
+        ],
+        "start": 996,
+        "end": 1008
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "centro de",
+        "position": [
+          743,
+          752
+        ],
+        "start": 743,
+        "end": 752
+      },
+      {
+        "category": "TIEMPO_RELATIVO",
+        "matched_text": "actualmente",
+        "position": [
+          1512,
+          1523
+        ],
+        "start": 1512,
+        "end": 1523
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "000 millones",
+        "position": [
+          1320,
+          1332
+        ],
+        "start": 1320,
+        "end": 1332
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "38 integrantes",
+        "position": [
+          54,
+          68
+        ],
+        "start": 54,
+        "end": 68
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "48 efectivos",
+        "position": [
+          10,
+          22
+        ],
+        "start": 10,
+        "end": 22
+      },
+      {
+        "category": "MONETARIOS",
+        "matched_text": "3.000 millones de euros",
+        "position": [
+          1318,
+          1341
+        ],
+        "start": 1318,
+        "end": 1341
+      },
+      {
+        "category": "MONETARIOS",
+        "matched_text": "inversión de 3",
+        "position": [
+          1305,
+          1319
+        ],
+        "start": 1305,
+        "end": 1319
+      }
+    ],
+    "match_count": 14
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Asamblea Nacional",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Vucic",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Novi Sad",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Belgrado",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Gobierno",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Aleksandar Vucic",
+        "tipo": "Persona"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Gobierno",
+        "relacion": "DERROCAR_BUSCAR_SOSTENER",
+        "objeto": "Vucic"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.8689,
+    "pos": 0.0,
+    "neu": 0.96,
+    "neg": 0.04,
+    "label": "negative"
+  }
+}

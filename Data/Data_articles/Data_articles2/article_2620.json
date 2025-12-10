@@ -1,0 +1,876 @@
+{
+  "url": "https://www.telesurtv.net/ataques-israelies-beithanoun/",
+  "title": "Ataques aéreos israelíes asesinan más civiles en Beit Hanoun y Khan Yunis - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "asesinatos",
+    "ataques",
+    "Crisis",
+    "DDHH",
+    "Gaza",
+    "Ofensiva",
+    "Palestina",
+    "Sionistas"
+  ],
+  "text": "Este lunes 5 de mayo, alrededor de 8 civiles en la Franja de Gaza fueron asesinados según informaron fuentes locales. Además, aproximadamente cuatro ciudadanos murieron y seis resultaron heridos cuando unos aviones de combate israelíes atacaron una zona residencial ubicada en la calle Omar Al-Mukhtar, en la ciudad de Gaza.\nSimultáneamente, otro ataque aéreo israelí tuvo como objetivo la ciudad de Beit Hanoun, al norte de la Franja, asesinando a más de una persona, mientras que otras también fueron martirizadas en ataques aéreos israelíes contra la zona de Qizan Rashwan, al suroeste de Khan Yunis, en el sur de la Franja de Gaza.\nAsimismo, se reportaron varias víctimas después de que un dron israelí bombardeara un área cercana a la mezquita Bir al-Saba’, en el barrio Sheikh Radwan, al norte de la ciudad de Gaza y paralelo a los ataques aéreos, aviones de combate israelíes abrieron fuego, junto con proyectiles de artillería y disparos de tanques, contra la zona de Al-Mawasi, al oeste de Rafah, en el sur de la Franja. La artillería israelí también bombardeó otras áreas al sur de Khan Yunis.\n\n\nDesde el 7 de octubre de 2023, la ofensiva israelí contra la Franja de Gaza ha causado los asesinatos de al menos 52.535 palestinos, en su mayoría niños y mujeres, y ha dejado cerca de 118.491 heridos, a su vez ha impuesto un bloqueo total a la entrada de ayuda humanitaria, electricidad, alimentos, agua y otros suministros esenciales a Gaza condenando a millones de habitantes a una muerte inminente por inanición y enfermedades.\n",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/ataques-israelies-beithanoun/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-05.json",
+    "message_index": 1767,
+    "message_id": 93401,
+    "date": "2025-05-05T13:55:18+00:00",
+    "text": "teleSUR\nAtaques aéreos israelíes asesinan más civiles en Beit Hanoun y Khan Yunis\nhttps://www.telesurtv.net/ataques-israelies-beithanoun/",
+    "photo_path": null,
+    "views": 2087,
+    "reactions": {
+      "🤬": 49,
+      "👍": 1
+    },
+    "total_reactions": 50
+  },
+  "preprocessing": {
+    "cleaned": "este lunes 5 de mayo, alrededor de 8 civiles en la franja de gaza fueron asesinados según informaron fuentes locales. además, aproximadamente cuatro ciudadanos murieron y seis resultaron heridos cuando unos aviones de combate israelíes atacaron una zona residencial ubicada en la calle omar al-mukhtar, en la ciudad de gaza. simultáneamente, otro ataque aéreo israelí tuvo como objetivo la ciudad de beit hanoun, al norte de la franja, asesinando a más de una persona, mientras que otras también fueron martirizadas en ataques aéreos israelíes contra la zona de qizan rashwan, al suroeste de khan yunis, en el sur de la franja de gaza. asimismo, se reportaron varias víctimas después de que un dron israelí bombardeara un área cercana a la mezquita bir al-saba’, en el barrio sheikh radwan, al norte de la ciudad de gaza y paralelo a los ataques aéreos, aviones de combate israelíes abrieron fuego, junto con proyectiles de artillería y disparos de tanques, contra la zona de al-mawasi, al oeste de rafah, en el sur de la franja. la artillería israelí también bombardeó otras áreas al sur de khan yunis. desde el 7 de octubre de 2023, la ofensiva israelí contra la franja de gaza ha causado los asesinatos de al menos 52.535 palestinos, en su mayoría niños y mujeres, y ha dejado cerca de 118.491 heridos, a su vez ha impuesto un bloqueo total a la entrada de ayuda humanitaria, electricidad, alimentos, agua y otros suministros esenciales a gaza condenando a millones de habitantes a una muerte inminente por inanición y enfermedades.",
+    "tokens": [
+      "lunes",
+      "5",
+      "mayo",
+      ",",
+      "alrededor",
+      "8",
+      "civiles",
+      "franja",
+      "gaza",
+      "asesinados",
+      "según",
+      "informaron",
+      "fuentes",
+      "locales",
+      ".",
+      "además",
+      ",",
+      "aproximadamente",
+      "cuatro",
+      "ciudadanos",
+      "murieron",
+      "seis",
+      "resultaron",
+      "heridos",
+      "aviones",
+      "combate",
+      "israelíes",
+      "atacaron",
+      "zona",
+      "residencial",
+      "ubicada",
+      "calle",
+      "omar",
+      "al-mukhtar",
+      ",",
+      "ciudad",
+      "gaza",
+      ".",
+      "simultáneamente",
+      ",",
+      "ataque",
+      "aéreo",
+      "israelí",
+      "objetivo",
+      "ciudad",
+      "beit",
+      "hanoun",
+      ",",
+      "norte",
+      "franja",
+      ",",
+      "asesinando",
+      "persona",
+      ",",
+      "mientras",
+      "martirizadas",
+      "ataques",
+      "aéreos",
+      "israelíes",
+      "zona",
+      "qizan",
+      "rashwan",
+      ",",
+      "suroeste",
+      "khan",
+      "yunis",
+      ",",
+      "sur",
+      "franja",
+      "gaza",
+      ".",
+      "asimismo",
+      ",",
+      "reportaron",
+      "varias",
+      "víctimas",
+      "después",
+      "dron",
+      "israelí",
+      "bombardeara",
+      "área",
+      "cercana",
+      "mezquita",
+      "bir",
+      "al-saba",
+      "’",
+      ",",
+      "barrio",
+      "sheikh",
+      "radwan",
+      ",",
+      "norte",
+      "ciudad",
+      "gaza",
+      "paralelo",
+      "ataques",
+      "aéreos",
+      ",",
+      "aviones",
+      "combate",
+      "israelíes",
+      "abrieron",
+      "fuego",
+      ",",
+      "junto",
+      "proyectiles",
+      "artillería",
+      "disparos",
+      "tanques",
+      ",",
+      "zona",
+      "al-mawasi",
+      ",",
+      "oeste",
+      "rafah",
+      ",",
+      "sur",
+      "franja",
+      ".",
+      "artillería",
+      "israelí",
+      "bombardeó",
+      "áreas",
+      "sur",
+      "khan",
+      "yunis",
+      ".",
+      "7",
+      "octubre",
+      "2023",
+      ",",
+      "ofensiva",
+      "israelí",
+      "franja",
+      "gaza",
+      "causado",
+      "asesinatos",
+      "menos",
+      "52.535",
+      "palestinos",
+      ",",
+      "mayoría",
+      "niños",
+      "mujeres",
+      ",",
+      "dejado",
+      "cerca",
+      "118.491",
+      "heridos",
+      ",",
+      "vez",
+      "impuesto",
+      "bloqueo",
+      "total",
+      "entrada",
+      "ayuda",
+      "humanitaria",
+      ",",
+      "electricidad",
+      ",",
+      "alimentos",
+      ",",
+      "agua",
+      "suministros",
+      "esenciales",
+      "gaza",
+      "condenando",
+      "millones",
+      "habitantes",
+      "muerte",
+      "inminente",
+      "inanición",
+      "enfermedades",
+      "."
+    ],
+    "token_count": 174,
+    "sentence_count": 6
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 35,
+      "NNS": 17,
+      "FW": 55,
+      "NN": 63,
+      "VBZ": 3,
+      "VBP": 9,
+      "JJ": 30,
+      "IN": 16,
+      "MD": 1,
+      "VB": 1,
+      "VBD": 4,
+      "CC": 1,
+      "CD": 3
+    },
+    "bigram_freq": {
+      "NNP-NNS": 1,
+      "NNS-FW": 3,
+      "FW-FW": 34,
+      "FW-NNP": 8,
+      "NNP-FW": 6,
+      "NNP-NN": 8,
+      "NN-NN": 31,
+      "NN-VBZ": 2,
+      "VBZ-NNS": 1,
+      "NNS-NNP": 2,
+      "NNP-VBP": 1,
+      "VBP-JJ": 7,
+      "JJ-NNS": 5,
+      "NNS-VBP": 6,
+      "JJ-NN": 16,
+      "NN-JJ": 9,
+      "FW-VBP": 2,
+      "JJ-NNP": 4,
+      "NN-IN": 11,
+      "IN-FW": 4,
+      "FW-JJ": 4,
+      "NNP-NNP": 10,
+      "IN-NNP": 7,
+      "NNP-MD": 1,
+      "MD-VB": 1,
+      "VB-JJ": 1,
+      "NNP-VBD": 4,
+      "VBD-FW": 2,
+      "FW-NN": 4,
+      "NN-FW": 5,
+      "IN-NNS": 2,
+      "JJ-JJ": 4,
+      "NN-NNP": 3,
+      "NNP-IN": 2,
+      "VBD-NN": 2,
+      "NNP-CC": 1,
+      "CC-JJ": 1,
+      "VBP-NNS": 2,
+      "VBZ-IN": 1,
+      "JJ-FW": 1,
+      "NNP-VBZ": 1,
+      "VBZ-JJ": 1,
+      "IN-JJ": 1,
+      "FW-CD": 2,
+      "CD-NN": 1,
+      "CD-NNS": 2,
+      "NNS-IN": 2,
+      "IN-NN": 1,
+      "IN-CD": 1,
+      "NNS-JJ": 2,
+      "FW-NNS": 1,
+      "NNS-NNS": 1,
+      "NN-NNS": 2
+    },
+    "trigram_freq": {
+      "NNP-NNS-FW": 1,
+      "NNS-FW-FW": 1,
+      "FW-FW-FW": 23,
+      "FW-FW-NNP": 6,
+      "FW-NNP-FW": 3,
+      "NNP-FW-NNP": 2,
+      "FW-NNP-NN": 2,
+      "NNP-NN-NN": 7,
+      "NN-NN-NN": 13,
+      "NN-NN-VBZ": 2,
+      "NN-VBZ-NNS": 1,
+      "VBZ-NNS-NNP": 1,
+      "NNS-NNP-VBP": 1,
+      "NNP-VBP-JJ": 1,
+      "VBP-JJ-NNS": 2,
+      "JJ-NNS-VBP": 3,
+      "NNS-VBP-JJ": 4,
+      "VBP-JJ-NN": 4,
+      "JJ-NN-NN": 8,
+      "NN-NN-JJ": 7,
+      "NN-JJ-NNS": 2,
+      "JJ-NNS-FW": 1,
+      "NNS-FW-VBP": 2,
+      "FW-VBP-JJ": 2,
+      "JJ-NN-JJ": 2,
+      "NN-JJ-NNP": 3,
+      "JJ-NNP-NN": 3,
+      "NN-NN-IN": 6,
+      "NN-IN-FW": 3,
+      "IN-FW-JJ": 2,
+      "FW-JJ-NNP": 1,
+      "JJ-NNP-NNP": 1,
+      "NNP-NNP-NN": 1,
+      "NN-IN-NNP": 5,
+      "IN-NNP-NNP": 5,
+      "NNP-NNP-MD": 1,
+      "NNP-MD-VB": 1,
+      "MD-VB-JJ": 1,
+      "VB-JJ-NN": 1,
+      "NN-JJ-NN": 4,
+      "NNP-NNP-VBD": 4,
+      "NNP-VBD-FW": 2,
+      "VBD-FW-FW": 2,
+      "NNP-FW-FW": 4,
+      "FW-FW-NN": 1,
+      "FW-NN-FW": 2,
+      "NN-FW-NN": 3,
+      "FW-NN-NN": 1,
+      "NN-IN-NNS": 1,
+      "IN-NNS-VBP": 1,
+      "VBP-JJ-JJ": 1,
+      "JJ-JJ-NN": 4,
+      "JJ-NN-NNP": 2,
+      "NN-NNP-IN": 2,
+      "NNP-IN-NNP": 2,
+      "NNP-VBD-NN": 2,
+      "VBD-NN-IN": 1,
+      "NNP-NNP-FW": 2,
+      "FW-NNP-NNP": 2,
+      "VBD-NN-NN": 1,
+      "NN-NN-FW": 1,
+      "FW-NN-IN": 1,
+      "FW-JJ-NN": 1,
+      "NN-NN-NNP": 1,
+      "NN-NNP-NNP": 1,
+      "FW-NNP-CC": 1,
+      "NNP-CC-JJ": 1,
+      "CC-JJ-NNS": 1,
+      "NNS-VBP-NNS": 2,
+      "VBP-NNS-FW": 1,
+      "NN-VBZ-IN": 1,
+      "VBZ-IN-FW": 1,
+      "IN-FW-FW": 2,
+      "FW-FW-JJ": 1,
+      "FW-JJ-FW": 1,
+      "JJ-FW-FW": 1,
+      "IN-NNP-FW": 1,
+      "NNP-NNP-VBZ": 1,
+      "NNP-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 1,
+      "NN-IN-JJ": 1,
+      "IN-JJ-JJ": 1,
+      "JJ-NN-IN": 3,
+      "NNP-NNP-NNP": 1,
+      "FW-FW-CD": 2,
+      "FW-CD-NN": 1,
+      "CD-NN-FW": 1,
+      "NN-FW-JJ": 1,
+      "FW-JJ-JJ": 1,
+      "IN-NNP-NN": 1,
+      "FW-CD-NNS": 1,
+      "CD-NNS-IN": 1,
+      "NNS-IN-NN": 1,
+      "IN-NN-NN": 1,
+      "NN-IN-CD": 1,
+      "IN-CD-NNS": 1,
+      "CD-NNS-JJ": 1,
+      "NNS-JJ-JJ": 1,
+      "JJ-NN-FW": 1,
+      "NN-FW-FW": 1,
+      "FW-FW-NNS": 1,
+      "FW-NNS-VBP": 1,
+      "VBP-NNS-VBP": 1,
+      "JJ-NNS-NNS": 1,
+      "NNS-NNS-NNP": 1,
+      "NNS-NNP-NN": 1,
+      "NNP-NN-NNS": 1,
+      "NN-NNS-IN": 1,
+      "NNS-IN-NNS": 1,
+      "IN-NNS-JJ": 1,
+      "NNS-JJ-NN": 1,
+      "NN-NN-NNS": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 63,
+        "FW": 55,
+        "NNP": 35,
+        "JJ": 30,
+        "NNS": 17
+      },
+      "top_bigrams": {
+        "FW-FW": 34,
+        "NN-NN": 31,
+        "JJ-NN": 16,
+        "NN-IN": 11,
+        "NNP-NNP": 10
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 23,
+        "NN-NN-NN": 13,
+        "JJ-NN-NN": 8,
+        "NNP-NN-NN": 7,
+        "NN-NN-JJ": 7
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 6,
+    "chunk_counts": {
+      "NP": 71,
+      "VP": 16,
+      "PP": 8,
+      "ADJP": 4
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 6,
+        "weight": 0.0571
+      },
+      {
+        "rule": "NP -> ('Franja', 'NNP')",
+        "frequency": 5,
+        "weight": 0.0476
+      },
+      {
+        "rule": "NP -> ('Gaza', 'NNP')",
+        "frequency": 2,
+        "weight": 0.019
+      },
+      {
+        "rule": "ADJP -> ('al', 'JJ')",
+        "frequency": 2,
+        "weight": 0.019
+      },
+      {
+        "rule": "NP -> ('Khan', 'NNP') ('Yunis', 'NNP')",
+        "frequency": 2,
+        "weight": 0.019
+      },
+      {
+        "rule": "NP -> ('a', 'DT') ('la', 'NN')",
+        "frequency": 2,
+        "weight": 0.019
+      },
+      {
+        "rule": "ADJP -> ('contra', 'JJ')",
+        "frequency": 2,
+        "weight": 0.019
+      },
+      {
+        "rule": "S -> NP VP ('5', 'CD') NP (',', ',') NP ('de', 'FW') ('8', 'CD') NP ('en', 'RB') ('la', 'FW') NP ('de', 'FW') NP VP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0095
+      },
+      {
+        "rule": "NP -> ('Este', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0095
+      },
+      {
+        "rule": "VP -> ('lunes', 'VBZ')",
+        "frequency": 1,
+        "weight": 0.0095
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Este"
+      },
+      {
+        "label": "VP",
+        "text": "lunes"
+      },
+      {
+        "label": "NP",
+        "text": "de mayo"
+      },
+      {
+        "label": "NP",
+        "text": "alrededor"
+      },
+      {
+        "label": "NP",
+        "text": "civiles"
+      },
+      {
+        "label": "NP",
+        "text": "Franja"
+      },
+      {
+        "label": "NP",
+        "text": "Gaza fueron asesinados según informaron"
+      },
+      {
+        "label": "VP",
+        "text": "fuentes locales"
+      },
+      {
+        "label": "NP",
+        "text": "locales"
+      },
+      {
+        "label": "NP",
+        "text": "Además"
+      },
+      {
+        "label": "NP",
+        "text": "aproximadamente cuatro ciudadanos"
+      },
+      {
+        "label": "VP",
+        "text": "murieron y seis resultaron heridos cuando unos aviones"
+      },
+      {
+        "label": "NP",
+        "text": "y seis resultaron heridos cuando"
+      },
+      {
+        "label": "NP",
+        "text": "unos aviones"
+      },
+      {
+        "label": "VP",
+        "text": "combate israelíes atacaron una zona residencial ubicada"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Este/NNP)\n  (VP lunes/VBZ)\n  5/CD\n  (NP de/NN mayo/NN)\n  ,/,\n  (NP alrededor/NN)\n  de/FW\n  8/CD\n  (NP civiles/NNS)\n  en/RB\n  la/FW\n  (NP Franja/NNP)\n  de/FW\n  (NP Gaza/NNP fueron/NN asesinados/NN según/NN informaron/NN)\n  (VP fuentes/VBZ (NP locales/NNS))\n  ./.)",
+      "(S\n  (NP Además/NNP)\n  ,/,\n  (NP aproximadamente/JJ cuatro/NN ciudadanos/NNS)\n  (VP\n    murieron/VBP\n    (NP y/JJ seis/NN resultaron/NN heridos/NN cuando/NN)\n    (NP unos/JJ aviones/NNS))\n  de/FW\n  (VP\n    combate/VBP\n    (NP israelíes/JJ atacaron/NN)\n    (NP una/JJ zona/NNP residencial/NN ubicada/NN))\n  en/IN\n  la/FW\n  (NP calle/JJ Omar/NNP Al-Mukhtar/NNP)\n  ,/,\n  en/FW\n  la/FW\n  ciudad/FW\n  de/FW\n  (NP Gaza/NNP)\n  ./.)",
+      "(S\n  (NP Simultáneamente/NNP)\n  ,/,\n  (NP otro/JJ ataque/NN aéreo/NN israelí/NN tuvo/NN como/NN)\n  (NP objetivo/JJ la/NN ciudad/NN)\n  (PP de/IN (NP Beit/NNP Hanoun/NNP))\n  ,/,\n  (ADJP al/JJ)\n  norte/FW\n  de/FW\n  la/FW\n  (NP Franja/NNP)\n  ,/,\n  (VP asesinando/VBZ (NP a/DT más/NN))\n  (PP de/IN (NP una/JJ persona/NN))\n  ,/,\n  mientras/FW\n  (NP que/NN)\n  otras/FW\n  (NP también/NN fueron/NN martirizadas/NN)\n  (PP en/IN (NP ataques/NNS))\n  (VP aéreos/VBP (NP israelíes/JJ contra/JJ la/NN zona/NNP))\n  (PP de/IN (NP Qizan/NNP Rashwan/NNP))\n  ,/,\n  (NP al/JJ suroeste/NN)\n  (PP de/IN (NP Khan/NNP Yunis/NNP))\n  ,/,\n  en/FW\n  el/FW\n  sur/FW\n  de/FW\n  la/FW\n  (NP Franja/NNP)\n  de/FW\n  (NP Gaza/NNP)\n  ./.)",
+      "(S\n  (NP Asimismo/NNP)\n  ,/,\n  (VP se/VBD (NP reportaron/NN varias/NN))\n  víctimas/FW\n  (NP después/NN)\n  de/IN\n  que/FW\n  (NP un/JJ dron/NN israelí/NN bombardeara/NN)\n  (NP un/JJ área/NNP cercana/NN)\n  (NP a/DT la/NN)\n  (NP mezquita/JJ Bir/NNP al-Saba/NN ’/NN)\n  ,/,\n  en/FW\n  el/FW\n  (NP barrio/NN Sheikh/NNP Radwan/NNP)\n  ,/,\n  (ADJP al/JJ)\n  norte/FW\n  de/FW\n  la/FW\n  ciudad/FW\n  de/FW\n  (NP Gaza/NNP y/NNP)\n  (VP paralelo/VBD (NP a/DT los/NN))\n  (VP ataques/VBZ (NP aéreos/NNS))\n  ,/,\n  (NP aviones/NNS)\n  de/FW\n  (VP combate/VBP (NP israelíes/JJ abrieron/NN fuego/NN))\n  ,/,\n  (NP junto/NN con/NN)\n  (VP proyectiles/VBZ)\n  de/IN\n  artillería/FW\n  y/FW\n  disparos/FW\n  de/FW\n  (NP tanques/NNS)\n  ,/,\n  (ADJP contra/JJ)\n  la/FW\n  zona/FW\n  de/FW\n  (NP Al-Mawasi/NNP)\n  ,/,\n  (NP al/JJ oeste/NN)\n  (PP de/IN (NP Rafah/NNP))\n  ,/,\n  en/FW\n  el/FW\n  sur/FW\n  de/FW\n  la/FW\n  (NP Franja/NNP)\n  ./.)",
+      "(S\n  (NP La/NNP)\n  (VP artillería/VBZ (NP israelí/JJ también/NN bombardeó/NN))\n  (PP otras/IN (NP áreas/JJ al/JJ sur/NN))\n  (PP de/IN (NP Khan/NNP Yunis/NNP))\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "GRUPOS_ESPECIFICOS",
+      "RECURSOS_NATURALES",
+      "CANTIDADES_NUMERICAS",
+      "ANTIIMPERIALISMO_SOBERANIA",
+      "REGIONES_PROVINCIAS",
+      "CRISIS_HUMANITARIA_SERVICIOS",
+      "PAISES",
+      "LOCALIZACIONES_ESPECIFICAS",
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "CONFLICTOS_ARMADOS_OPERACIONES",
+      "INFRAESTRUCTURA_SERVICIOS",
+      "FECHAS_ESPECIFICAS"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "ataque aéreo",
+        "position": [
+          347,
+          359
+        ],
+        "start": 347,
+        "end": 359
+      },
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "ataque aéreo israelí tuvo como objetivo la ciudad de beit hanoun, al norte de la franja, asesinando a más de una persona, mientras que otras también fueron martirizadas en ataques aéreos israelíes",
+        "position": [
+          347,
+          543
+        ],
+        "start": 347,
+        "end": 543
+      },
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "bombardeó",
+        "position": [
+          1060,
+          1069
+        ],
+        "start": 1060,
+        "end": 1069
+      },
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "impuesto",
+        "position": [
+          1320,
+          1328
+        ],
+        "start": 1320,
+        "end": 1328
+      },
+      {
+        "category": "CRISIS_HUMANITARIA_SERVICIOS",
+        "matched_text": "bloqueo total a la entrada de ayuda humanitaria, electricidad, alimentos, agua y otros suministros esenciales a gaza",
+        "position": [
+          1332,
+          1448
+        ],
+        "start": 1332,
+        "end": 1448
+      },
+      {
+        "category": "CRISIS_HUMANITARIA_SERVICIOS",
+        "matched_text": "ayuda humanitaria",
+        "position": [
+          1362,
+          1379
+        ],
+        "start": 1362,
+        "end": 1379
+      },
+      {
+        "category": "GRUPOS_ESPECIFICOS",
+        "matched_text": "mujeres",
+        "position": [
+          1261,
+          1268
+        ],
+        "start": 1261,
+        "end": 1268
+      },
+      {
+        "category": "RECURSOS_NATURALES",
+        "matched_text": "agua",
+        "position": [
+          1406,
+          1410
+        ],
+        "start": 1406,
+        "end": 1410
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "calle",
+        "position": [
+          280,
+          285
+        ],
+        "start": 280,
+        "end": 285
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "electricidad",
+        "position": [
+          1381,
+          1393
+        ],
+        "start": 1381,
+        "end": 1393
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "israelí",
+        "position": [
+          360,
+          367
+        ],
+        "start": 360,
+        "end": 367
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "zona residencial",
+        "position": [
+          249,
+          265
+        ],
+        "start": 249,
+        "end": 265
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "calle omar",
+        "position": [
+          280,
+          290
+        ],
+        "start": 280,
+        "end": 290
+      },
+      {
+        "category": "FECHAS_ESPECIFICAS",
+        "matched_text": "7 de octubre de 2023",
+        "position": [
+          1115,
+          1135
+        ],
+        "start": 1115,
+        "end": 1135
+      },
+      {
+        "category": "FECHAS_ESPECIFICAS",
+        "matched_text": "lunes 5 de mayo",
+        "position": [
+          5,
+          20
+        ],
+        "start": 5,
+        "end": 20
+      },
+      {
+        "category": "ANTIIMPERIALISMO_SOBERANIA",
+        "matched_text": "bloqueo",
+        "position": [
+          1332,
+          1339
+        ],
+        "start": 1332,
+        "end": 1339
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "alrededor de 8",
+        "position": [
+          22,
+          36
+        ],
+        "start": 22,
+        "end": 36
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "cerca de 118.491",
+        "position": [
+          1282,
+          1298
+        ],
+        "start": 1282,
+        "end": 1298
+      }
+    ],
+    "match_count": 18
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Franja de Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Sheikh Radwan",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Franja",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Bir al-Saba",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Beit Hanoun",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Qizan Rashwan",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Rafah",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Khan Yunis",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Al-Mawasi",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Khan Yunis",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Omar Al-Mukhtar",
+        "tipo": "Persona"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Bir al-Saba",
+        "relacion": "AL_SAR_BOMBARDEAR_DESPU_S_REPORTAR",
+        "objeto": "Sheikh Radwan"
+      },
+      {
+        "sujeto": "Bir al-Saba",
+        "relacion": "AL_SAR_BOMBARDEAR_DESPU_S_REPORTAR",
+        "objeto": "Gaza"
+      },
+      {
+        "sujeto": "Bir al-Saba",
+        "relacion": "AL_SAR_BOMBARDEAR_DESPU_S_REPORTAR",
+        "objeto": "Al-Mawasi"
+      },
+      {
+        "sujeto": "Bir al-Saba",
+        "relacion": "AL_SAR_BOMBARDEAR_DESPU_S_REPORTAR",
+        "objeto": "Rafah"
+      },
+      {
+        "sujeto": "Bir al-Saba",
+        "relacion": "AL_SAR_BOMBARDEAR_DESPU_S_REPORTAR",
+        "objeto": "Franja"
+      },
+      {
+        "sujeto": "Sheikh Radwan",
+        "relacion": "ABRIR_REPORTAR",
+        "objeto": "Gaza"
+      },
+      {
+        "sujeto": "Sheikh Radwan",
+        "relacion": "ABRIR_REPORTAR",
+        "objeto": "Al-Mawasi"
+      },
+      {
+        "sujeto": "Sheikh Radwan",
+        "relacion": "ABRIR_REPORTAR",
+        "objeto": "Rafah"
+      },
+      {
+        "sujeto": "Sheikh Radwan",
+        "relacion": "ABRIR_REPORTAR",
+        "objeto": "Franja"
+      },
+      {
+        "sujeto": "Gaza",
+        "relacion": "ABRIR_REPORTAR",
+        "objeto": "Al-Mawasi"
+      },
+      {
+        "sujeto": "Gaza",
+        "relacion": "ABRIR_REPORTAR",
+        "objeto": "Rafah"
+      },
+      {
+        "sujeto": "Gaza",
+        "relacion": "ABRIR_REPORTAR",
+        "objeto": "Franja"
+      },
+      {
+        "sujeto": "Franja de Gaza",
+        "relacion": "CAUSAR",
+        "objeto": "Gaza"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.7351,
+    "pos": 0.03,
+    "neu": 0.97,
+    "neg": 0.0,
+    "label": "positive"
+  }
+}

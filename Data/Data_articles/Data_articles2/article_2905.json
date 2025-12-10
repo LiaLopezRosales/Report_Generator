@@ -1,0 +1,745 @@
+{
+  "url": "https://www.telesurtv.net/putin-muestra-disposicion-reunirse-trump/",
+  "title": "Putin muestra disposición de reunirse con Trump en pos de una relación Rusia-EE.UU. más constructiva - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Estados Unidos",
+    "geopolítica",
+    "Putin",
+    "Relación bilateral",
+    "Rusia",
+    "Trump"
+  ],
+  "text": "El presidente ruso, Vladímir Putin, se mostró dispuesto a reunirse con su homólogo estadounidense, Donald Trump. Putin declaró que está abierto a reuniones y que sabe que Trump también ha expresado su interés en un encuentro.\n“Al igual que él, considero que estos encuentros deben ser preparados adecuadamente. Basándonos en los resultados, deberíamos alcanzar nuevas fronteras de cooperación“, puntualizó el mandatario ruso.\n\nPutin expresó su respeto por Trump, a quien describió como un “hombre valiente” que ha superado grandes desafíos para regresar al poder. El jefe de Estado también aplaudió los esfuerzos del Presidente de Estados Unidos para buscar una solución a la crisis en Ucrania, señalando que el inquilino de la Casa Blanca “busca sinceramente una solución al conflicto“.\nSegún el Presidente de la nación euroasiática, las relaciones entre Rusia y Estados Unidos comenzaron a normalizarse desde que Trump asumió la presidencia el 20 de enero. Aunque aún existen desafíos diplomáticos, el líder ruso señaló que ya se han dado los primeros pasos hacia una relación más constructiva.\n\n\nEsta disposición al diálogo contrasta con la postura de la anterior Administración estadounidense, liderada por el expresidente Joe Biden (2021–2025), que cortó casi por completo las relaciones con Moscú tras el inicio de la operación militar especial de Rusia en Ucrania en febrero de 2022.\nDesde que asumió el cargo, el presidente Trump ha mantenido cinco conversaciones telefónicas con Putin, con la más reciente el 14 de junio.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/putin-muestra-disposicion-reunirse-trump/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-06.json",
+    "message_index": 165,
+    "message_id": 97693,
+    "date": "2025-06-28T11:55:08+00:00",
+    "text": "teleSUR\nPutin muestra disposición de reunirse con Trump en pos de una relación Rusia-EE.UU. más constructiva\nhttps://www.telesurtv.net/putin-muestra-disposicion-reunirse-trump/",
+    "photo_path": null,
+    "views": 2079,
+    "reactions": {
+      "👍": 25,
+      "🤔": 10,
+      "🤮": 3
+    },
+    "total_reactions": 38
+  },
+  "preprocessing": {
+    "cleaned": "el presidente ruso, vladímir putin, se mostró dispuesto a reunirse con su homólogo estadounidense, donald trump. putin declaró que está abierto a reuniones y que sabe que trump también ha expresado su interés en un encuentro. “al igual que él, considero que estos encuentros deben ser preparados adecuadamente. basándonos en los resultados, deberíamos alcanzar nuevas fronteras de cooperación“, puntualizó el mandatario ruso. putin expresó su respeto por trump, a quien describió como un “hombre valiente” que ha superado grandes desafíos para regresar al poder. el jefe de estado también aplaudió los esfuerzos del presidente de estados unidos para buscar una solución a la crisis en ucrania, señalando que el inquilino de la casa blanca “busca sinceramente una solución al conflicto“. según el presidente de la nación euroasiática, las relaciones entre rusia y estados unidos comenzaron a normalizarse desde que trump asumió la presidencia el 20 de enero. aunque aún existen desafíos diplomáticos, el líder ruso señaló que ya se han dado los primeros pasos hacia una relación más constructiva. esta disposición al diálogo contrasta con la postura de la anterior administración estadounidense, liderada por el expresidente joe biden (2021–2025), que cortó casi por completo las relaciones con moscú tras el inicio de la operación militar especial de rusia en ucrania en febrero de 2022. desde que asumió el cargo, el presidente trump ha mantenido cinco conversaciones telefónicas con putin, con la más reciente el 14 de junio.",
+    "tokens": [
+      "presidente",
+      "ruso",
+      ",",
+      "vladímir",
+      "putin",
+      ",",
+      "mostró",
+      "dispuesto",
+      "reunirse",
+      "homólogo",
+      "estadounidense",
+      ",",
+      "donald",
+      "trump",
+      ".",
+      "putin",
+      "declaró",
+      "abierto",
+      "reuniones",
+      "sabe",
+      "trump",
+      "expresado",
+      "interés",
+      "encuentro",
+      ".",
+      "“",
+      "igual",
+      ",",
+      "considero",
+      "encuentros",
+      "deben",
+      "ser",
+      "preparados",
+      "adecuadamente",
+      ".",
+      "basándonos",
+      "resultados",
+      ",",
+      "deberíamos",
+      "alcanzar",
+      "nuevas",
+      "fronteras",
+      "cooperación",
+      "“",
+      ",",
+      "puntualizó",
+      "mandatario",
+      "ruso",
+      ".",
+      "putin",
+      "expresó",
+      "respeto",
+      "trump",
+      ",",
+      "describió",
+      "“",
+      "hombre",
+      "valiente",
+      "”",
+      "superado",
+      "grandes",
+      "desafíos",
+      "regresar",
+      "poder",
+      ".",
+      "jefe",
+      "aplaudió",
+      "esfuerzos",
+      "presidente",
+      "unidos",
+      "buscar",
+      "solución",
+      "crisis",
+      "ucrania",
+      ",",
+      "señalando",
+      "inquilino",
+      "casa",
+      "blanca",
+      "“",
+      "busca",
+      "sinceramente",
+      "solución",
+      "conflicto",
+      "“",
+      ".",
+      "según",
+      "presidente",
+      "nación",
+      "euroasiática",
+      ",",
+      "relaciones",
+      "rusia",
+      "unidos",
+      "comenzaron",
+      "normalizarse",
+      "trump",
+      "asumió",
+      "presidencia",
+      "20",
+      "enero",
+      ".",
+      "aunque",
+      "aún",
+      "existen",
+      "desafíos",
+      "diplomáticos",
+      ",",
+      "líder",
+      "ruso",
+      "señaló",
+      "dado",
+      "primeros",
+      "pasos",
+      "hacia",
+      "relación",
+      "constructiva",
+      ".",
+      "disposición",
+      "diálogo",
+      "contrasta",
+      "postura",
+      "anterior",
+      "administración",
+      "estadounidense",
+      ",",
+      "liderada",
+      "expresidente",
+      "joe",
+      "biden",
+      "(",
+      "2021–2025",
+      ")",
+      ",",
+      "cortó",
+      "casi",
+      "completo",
+      "relaciones",
+      "moscú",
+      "tras",
+      "inicio",
+      "operación",
+      "militar",
+      "especial",
+      "rusia",
+      "ucrania",
+      "febrero",
+      "2022.",
+      "asumió",
+      "cargo",
+      ",",
+      "presidente",
+      "trump",
+      "mantenido",
+      "cinco",
+      "conversaciones",
+      "telefónicas",
+      "putin",
+      ",",
+      "reciente",
+      "14",
+      "junio",
+      "."
+    ],
+    "token_count": 163,
+    "sentence_count": 10
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 38,
+      "NN": 113,
+      "VBD": 1,
+      "JJ": 15,
+      "NNS": 7,
+      "VBP": 9,
+      "IN": 5,
+      "VBZ": 3,
+      "JJR": 1,
+      "FW": 31,
+      "$": 1,
+      "CD": 4,
+      "RB": 1,
+      "VB": 1
+    },
+    "bigram_freq": {
+      "NNP-NN": 18,
+      "NN-NN": 76,
+      "NN-NNP": 15,
+      "NNP-NNP": 9,
+      "NNP-VBD": 1,
+      "VBD-JJ": 1,
+      "JJ-NN": 11,
+      "NN-NNS": 4,
+      "NNS-VBP": 7,
+      "VBP-JJ": 3,
+      "NN-IN": 4,
+      "IN-JJ": 1,
+      "NNP-JJ": 1,
+      "NN-VBZ": 1,
+      "VBZ-VBP": 1,
+      "VBP-JJR": 1,
+      "JJR-NN": 1,
+      "IN-NNP": 1,
+      "NNP-FW": 5,
+      "FW-NN": 5,
+      "NN-JJ": 5,
+      "JJ-FW": 1,
+      "FW-FW": 16,
+      "NN-FW": 5,
+      "FW-NNP": 7,
+      "IN-FW": 2,
+      "NNP-VBZ": 1,
+      "VBZ-NNP": 1,
+      "FW-NNS": 1,
+      "VBP-NNP": 2,
+      "NN-VBP": 1,
+      "VBP-$": 1,
+      "$-CD": 1,
+      "CD-IN": 1,
+      "NNP-RB": 1,
+      "RB-VBZ": 1,
+      "VBZ-JJ": 1,
+      "NN-VB": 1,
+      "VB-JJ": 1,
+      "JJ-NNS": 1,
+      "JJ-JJ": 1,
+      "FW-JJ": 1,
+      "JJ-NNP": 1,
+      "NNP-CD": 1,
+      "CD-NN": 1,
+      "NNP-NNS": 1,
+      "VBP-FW": 1,
+      "IN-CD": 1,
+      "CD-NNP": 1,
+      "VBP-NN": 1,
+      "FW-CD": 1,
+      "CD-FW": 1
+    },
+    "trigram_freq": {
+      "NNP-NN-NN": 17,
+      "NN-NN-NNP": 10,
+      "NN-NNP-NNP": 3,
+      "NNP-NNP-VBD": 1,
+      "NNP-VBD-JJ": 1,
+      "VBD-JJ-NN": 1,
+      "JJ-NN-NN": 7,
+      "NN-NN-NN": 49,
+      "NNP-NNP-NNP": 2,
+      "NNP-NNP-NN": 4,
+      "NN-NN-NNS": 4,
+      "NN-NNS-VBP": 4,
+      "NNS-VBP-JJ": 3,
+      "VBP-JJ-NN": 2,
+      "JJ-NN-NNP": 4,
+      "NN-NNP-NN": 9,
+      "NN-NN-IN": 2,
+      "NN-IN-JJ": 1,
+      "IN-JJ-NN": 1,
+      "NN-NNP-JJ": 1,
+      "NNP-JJ-NN": 1,
+      "NN-NN-VBZ": 1,
+      "NN-VBZ-VBP": 1,
+      "VBZ-VBP-JJR": 1,
+      "VBP-JJR-NN": 1,
+      "JJR-NN-IN": 1,
+      "NN-IN-NNP": 1,
+      "IN-NNP-FW": 1,
+      "NNP-FW-NN": 2,
+      "FW-NN-NN": 2,
+      "NN-NN-JJ": 5,
+      "NN-JJ-FW": 1,
+      "JJ-FW-FW": 1,
+      "FW-FW-FW": 12,
+      "FW-FW-NN": 1,
+      "NN-JJ-NN": 4,
+      "NNP-NN-FW": 1,
+      "NN-FW-NNP": 2,
+      "FW-NNP-NN": 2,
+      "NN-NNP-FW": 1,
+      "NNP-FW-NNP": 2,
+      "FW-NNP-NNP": 2,
+      "NN-NN-FW": 3,
+      "NN-IN-FW": 1,
+      "IN-FW-NNP": 2,
+      "NN-NNP-VBZ": 1,
+      "NNP-VBZ-NNP": 1,
+      "VBZ-NNP-NNP": 1,
+      "NNP-NNP-FW": 1,
+      "NNP-FW-FW": 1,
+      "FW-FW-NNS": 1,
+      "FW-NNS-VBP": 1,
+      "NNS-VBP-NNP": 2,
+      "VBP-NNP-NNP": 1,
+      "NN-NN-VBP": 1,
+      "NN-VBP-$": 1,
+      "VBP-$-CD": 1,
+      "$-CD-IN": 1,
+      "CD-IN-FW": 1,
+      "FW-NNP-RB": 1,
+      "NNP-RB-VBZ": 1,
+      "RB-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 1,
+      "NN-NN-VB": 1,
+      "NN-VB-JJ": 1,
+      "VB-JJ-NNS": 1,
+      "JJ-NNS-VBP": 1,
+      "VBP-JJ-JJ": 1,
+      "JJ-JJ-NN": 1,
+      "NN-FW-FW": 1,
+      "FW-FW-JJ": 1,
+      "FW-JJ-NNP": 1,
+      "JJ-NNP-NN": 1,
+      "NNP-NNP-CD": 1,
+      "NNP-CD-NN": 1,
+      "CD-NN-NN": 1,
+      "VBP-NNP-NNS": 1,
+      "NNP-NNS-VBP": 1,
+      "NNS-VBP-FW": 1,
+      "VBP-FW-FW": 1,
+      "FW-FW-NNP": 1,
+      "FW-NNP-FW": 2,
+      "FW-NN-IN": 1,
+      "NN-IN-CD": 1,
+      "IN-CD-NNP": 1,
+      "CD-NNP-NN": 1,
+      "NNS-VBP-NN": 1,
+      "VBP-NN-NNP": 1,
+      "NN-FW-NN": 1,
+      "FW-NN-FW": 1,
+      "NN-FW-CD": 1,
+      "FW-CD-FW": 1,
+      "CD-FW-NN": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 113,
+        "NNP": 38,
+        "FW": 31,
+        "JJ": 15,
+        "VBP": 9
+      },
+      "top_bigrams": {
+        "NN-NN": 76,
+        "NNP-NN": 18,
+        "FW-FW": 16,
+        "NN-NNP": 15,
+        "JJ-NN": 11
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 49,
+        "NNP-NN-NN": 17,
+        "FW-FW-FW": 12,
+        "NN-NN-NNP": 10,
+        "NN-NNP-NN": 9
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 10,
+    "chunk_counts": {
+      "NP": 57,
+      "VP": 14,
+      "PP": 4,
+      "ADJP": 1
+    },
+    "top_rules": [
+      {
+        "rule": "NP -> ('Ucrania', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0233
+      },
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0233
+      },
+      {
+        "rule": "S -> NP (',', ',') NP (',', ',') VP (',', ',') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0116
+      },
+      {
+        "rule": "NP -> ('El', 'NNP') ('presidente', 'NN') ('ruso', 'NN')",
+        "frequency": 1,
+        "weight": 0.0116
+      },
+      {
+        "rule": "NP -> ('Vladímir', 'NNP') ('Putin', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0116
+      },
+      {
+        "rule": "VP -> ('se', 'VBD') NP NP",
+        "frequency": 1,
+        "weight": 0.0116
+      },
+      {
+        "rule": "NP -> ('mostró', 'JJ') ('dispuesto', 'NN')",
+        "frequency": 1,
+        "weight": 0.0116
+      },
+      {
+        "rule": "NP -> ('a', 'DT') ('reunirse', 'JJ') ('con', 'NN') ('su', 'NN') ('homólogo', 'NN') ('estadounidense', 'NN')",
+        "frequency": 1,
+        "weight": 0.0116
+      },
+      {
+        "rule": "NP -> ('Donald', 'NNP') ('Trump', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0116
+      },
+      {
+        "rule": "S -> NP VP PP ('y', 'CC') NP PP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0116
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El presidente ruso"
+      },
+      {
+        "label": "NP",
+        "text": "Vladímir Putin"
+      },
+      {
+        "label": "VP",
+        "text": "se mostró dispuesto a reunirse con su homólogo estadounidense"
+      },
+      {
+        "label": "NP",
+        "text": "mostró dispuesto"
+      },
+      {
+        "label": "NP",
+        "text": "a reunirse con su homólogo estadounidense"
+      },
+      {
+        "label": "NP",
+        "text": "Donald Trump"
+      },
+      {
+        "label": "NP",
+        "text": "Putin declaró que"
+      },
+      {
+        "label": "VP",
+        "text": "está"
+      },
+      {
+        "label": "PP",
+        "text": "abierto a reuniones"
+      },
+      {
+        "label": "NP",
+        "text": "a reuniones"
+      },
+      {
+        "label": "NP",
+        "text": "que sabe que Trump también ha expresado su interés"
+      },
+      {
+        "label": "PP",
+        "text": "en un encuentro"
+      },
+      {
+        "label": "NP",
+        "text": "un encuentro"
+      },
+      {
+        "label": "NP",
+        "text": "“ Al"
+      },
+      {
+        "label": "NP",
+        "text": "igual que él"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP El/NNP presidente/NN ruso/NN)\n  ,/,\n  (NP Vladímir/NNP Putin/NNP)\n  ,/,\n  (VP\n    se/VBD\n    (NP mostró/JJ dispuesto/NN)\n    (NP a/DT reunirse/JJ con/NN su/NN homólogo/NN estadounidense/NN))\n  ,/,\n  (NP Donald/NNP Trump/NNP)\n  ./.)",
+      "(S\n  (NP Putin/NNP declaró/NN que/NN)\n  (VP está/VBP)\n  (PP abierto/IN (NP a/DT reuniones/NNS))\n  y/CC\n  (NP\n    que/JJ\n    sabe/NN\n    que/NN\n    Trump/NNP\n    también/NN\n    ha/NN\n    expresado/NN\n    su/NN\n    interés/NN)\n  (PP en/IN (NP un/JJ encuentro/NN))\n  ./.)",
+      "(S\n  (NP “/JJ Al/NNP)\n  (NP igual/JJ que/NN él/NNP)\n  ,/,\n  (NP considero/NN que/NN estos/NN)\n  (VP encuentros/VBZ)\n  (VP deben/VBP (NP ser/JJR preparados/NN adecuadamente/NN))\n  ./.)",
+      "(S\n  (NP Basándonos/NNP)\n  en/CC\n  (NP los/JJ resultados/NN)\n  ,/,\n  (NP deberíamos/JJ alcanzar/NN)\n  (ADJP nuevas/JJ)\n  fronteras/FW\n  de/FW\n  cooperación/FW\n  “/FW\n  ,/,\n  puntualizó/FW\n  el/FW\n  (NP mandatario/NN ruso/NN)\n  ./.)",
+      "(S\n  (NP Putin/NNP expresó/NN su/NN respeto/NN por/NN Trump/NNP)\n  ,/,\n  (NP a/DT quien/NN describió/NN como/NN)\n  (NP\n    un/JJ\n    “/NNP\n    hombre/NN\n    valiente/NN\n    ”/NNP\n    que/NN\n    ha/NN\n    superado/NN\n    grandes/NNS)\n  (VP desafíos/VBP (NP para/JJ regresar/NN al/NN poder/NN))\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "CIUDADES_CAPITALES",
+      "GOBIERNOS_OFICIALES",
+      "LEYES_NORMATIVAS",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "REGIONES_PROVINCIAS",
+      "PAISES",
+      "PROTESTAS_CONFLICTOS_SOCIALES",
+      "RELACIONES_INTERNACIONALES"
+    ],
+    "matches": [
+      {
+        "category": "PROTESTAS_CONFLICTOS_SOCIALES",
+        "matched_text": "cortó",
+        "position": [
+          1254,
+          1259
+        ],
+        "start": 1254,
+        "end": 1259
+      },
+      {
+        "category": "RELACIONES_INTERNACIONALES",
+        "matched_text": "relaciones entre rusia y estados unidos comenzaron a normalizarse desde que trump asumió la presidencia el 20 de enero. aunque aún existen desafíos diplomáticos",
+        "position": [
+          839,
+          999
+        ],
+        "start": 839,
+        "end": 999
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "declaró",
+        "position": [
+          119,
+          126
+        ],
+        "start": 119,
+        "end": 126
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente ruso",
+        "position": [
+          3,
+          18
+        ],
+        "start": 3,
+        "end": 18
+      },
+      {
+        "category": "LEYES_NORMATIVAS",
+        "matched_text": "disposición al diálogo contrasta con la postura de la anterior administración estadounidense, liderada por el expresidente joe biden (2021",
+        "position": [
+          1104,
+          1242
+        ],
+        "start": 1104,
+        "end": 1242
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "estados unidos",
+        "position": [
+          631,
+          645
+        ],
+        "start": 631,
+        "end": 645
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "ucrania",
+        "position": [
+          686,
+          693
+        ],
+        "start": 686,
+        "end": 693
+      },
+      {
+        "category": "CIUDADES_CAPITALES",
+        "matched_text": "moscú",
+        "position": [
+          1297,
+          1302
+        ],
+        "start": 1297,
+        "end": 1302
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "estado también",
+        "position": [
+          575,
+          589
+        ],
+        "start": 575,
+        "end": 589
+      }
+    ],
+    "match_count": 9
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Vladímir Putin",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Casa Blanca",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Rusia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Trump",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Presidente",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Estados Unidos",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Ucrania",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Donald Trump",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Presidente de Estados Unidos",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Joe Biden",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Moscú",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Putin",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Administración estadounidense",
+        "tipo": "Organizacion"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Vladímir Putin",
+        "relacion": "MOSTRAR",
+        "objeto": "Donald Trump"
+      },
+      {
+        "sujeto": "Putin",
+        "relacion": "DECLARAR",
+        "objeto": "Trump"
+      },
+      {
+        "sujeto": "Putin",
+        "relacion": "EXPRESAR",
+        "objeto": "Trump"
+      },
+      {
+        "sujeto": "Presidente de Estados Unidos",
+        "relacion": "APLAUDIR",
+        "objeto": "Casa Blanca"
+      },
+      {
+        "sujeto": "Ucrania",
+        "relacion": "BUSCAR_APLAUDIR",
+        "objeto": "Casa Blanca"
+      },
+      {
+        "sujeto": "Presidente",
+        "relacion": "COMENZAR",
+        "objeto": "Rusia"
+      },
+      {
+        "sujeto": "Presidente",
+        "relacion": "COMENZAR",
+        "objeto": "Estados Unidos"
+      },
+      {
+        "sujeto": "Trump",
+        "relacion": "COMENZAR",
+        "objeto": "Presidente"
+      },
+      {
+        "sujeto": "Trump",
+        "relacion": "COMENZAR",
+        "objeto": "Rusia"
+      },
+      {
+        "sujeto": "Trump",
+        "relacion": "COMENZAR",
+        "objeto": "Estados Unidos"
+      },
+      {
+        "sujeto": "Trump",
+        "relacion": "MANTENER",
+        "objeto": "Putin"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.2732,
+    "pos": 0.03,
+    "neu": 0.952,
+    "neg": 0.017,
+    "label": "positive"
+  }
+}

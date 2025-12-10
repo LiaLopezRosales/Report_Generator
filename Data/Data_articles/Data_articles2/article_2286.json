@@ -1,0 +1,826 @@
+{
+  "url": "https://www.telesurtv.net/brote-colera-angola-deja-casi-600-fallecidos/",
+  "title": "Brote de Cólera en Angola deja casi 600 fallecidos - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "brote",
+    "cólera",
+    "letalidad",
+    "Muertos",
+    "OMS",
+    "Vacunación"
+  ],
+  "text": "El organismo sanitario detalló que la enfermedad se ha propagado a 17 de las 21 provincias del país, dejando además 18.000 casos hasta principios de mayo.\nA pesar de los esfuerzos del Ministerio de Salud de Angola y sus socios, incluyendo la Organización Mundial de la Salud (OMS), que incluyen la detección de casos, el despliegue de equipos de respuesta rápida y campañas de concienciación comunitaria con altavoces, la tasa de letalidad del brote se sitúa en un preocupante 3,2%, superando el umbral del 1% que indica un tratamiento temprano y adecuado.\nEn febrero 2025, se lanzó una campaña de vacunación que alcanzó a un millón de personas, sin embargo, no ha sido suficiente para contener la propagación. La situación es especialmente ardua para los trabajadores de primera línea.\n\n\n\n\nFlávio Njinga, agente de desarrollo comunitario y salud (Adeco), expresó el agotamiento del personal ante la constante visión de muertes y pacientes afectados. “Estamos cansados ​​de ver muertes, estamos cansados ​​de ver pacientes con estos problemas… Queremos al menos un día de descanso, pero no podemos. Somos el equipo de respuesta rápida y no pararemos hasta que esto termine”, declaró.\nEste brote afecta a personas de todas las edades, con una especial incidencia en menores de 20 años. La última gran epidemia de cólera en Angola, en 2006, causó la muerte de más de 2.700 personas, desde entonces, el país ha experimentado brotes periódicos, particularmente durante la temporada de lluvias.\n\n\n\nDe acuerdo con el Fondo de las Naciones Unidas para la Infancia (UNICEF), entre enero de 2024 y marzo de 2025 se confirmaron más de 178.000 casos de cólera en África oriental y meridional, siendo Sudán del Sur y Angola los países que enfrentan los brotes más severos, por ello se ha intensificado el despliegue para la detección, prevención y tratamiento de la misma.\n",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/brote-colera-angola-deja-casi-600-fallecidos/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-05.json",
+    "message_index": 1285,
+    "message_id": 93950,
+    "date": "2025-05-12T16:55:29+00:00",
+    "text": "teleSUR\nBrote de Cólera en Angola deja casi 600 fallecidos\nhttps://www.telesurtv.net/brote-colera-angola-deja-casi-600-fallecidos/",
+    "photo_path": null,
+    "views": 1883,
+    "reactions": {
+      "😢": 27,
+      "😱": 9,
+      "👍": 2
+    },
+    "total_reactions": 38
+  },
+  "preprocessing": {
+    "cleaned": "el organismo sanitario detalló que la enfermedad se ha propagado a 17 de las 21 provincias del país, dejando además 18.000 casos hasta principios de mayo. a pesar de los esfuerzos del ministerio de salud de angola y sus socios, incluyendo la organización mundial de la salud (oms), que incluyen la detección de casos, el despliegue de equipos de respuesta rápida y campañas de concienciación comunitaria con altavoces, la tasa de letalidad del brote se sitúa en un preocupante 3,2%, superando el umbral del 1% que indica un tratamiento temprano y adecuado. en febrero 2025, se lanzó una campaña de vacunación que alcanzó a un millón de personas, sin embargo, no ha sido suficiente para contener la propagación. la situación es especialmente ardua para los trabajadores de primera línea. flávio njinga, agente de desarrollo comunitario y salud (adeco), expresó el agotamiento del personal ante la constante visión de muertes y pacientes afectados. “estamos cansados ​​de ver muertes, estamos cansados ​​de ver pacientes con estos problemas… queremos al menos un día de descanso, pero no podemos. somos el equipo de respuesta rápida y no pararemos hasta que esto termine”, declaró. este brote afecta a personas de todas las edades, con una especial incidencia en menores de 20 años. la última gran epidemia de cólera en angola, en 2006, causó la muerte de más de 2.700 personas, desde entonces, el país ha experimentado brotes periódicos, particularmente durante la temporada de lluvias. de acuerdo con el fondo de las naciones unidas para la infancia (unicef), entre enero de 2024 y marzo de 2025 se confirmaron más de 178.000 casos de cólera en áfrica oriental y meridional, siendo sudán del sur y angola los países que enfrentan los brotes más severos, por ello se ha intensificado el despliegue para la detección, prevención y tratamiento de la misma.",
+    "tokens": [
+      "organismo",
+      "sanitario",
+      "detalló",
+      "enfermedad",
+      "propagado",
+      "17",
+      "21",
+      "provincias",
+      "país",
+      ",",
+      "dejando",
+      "además",
+      "18.000",
+      "casos",
+      "principios",
+      "mayo",
+      ".",
+      "pesar",
+      "esfuerzos",
+      "ministerio",
+      "salud",
+      "angola",
+      "socios",
+      ",",
+      "incluyendo",
+      "organización",
+      "mundial",
+      "salud",
+      "(",
+      "oms",
+      ")",
+      ",",
+      "incluyen",
+      "detección",
+      "casos",
+      ",",
+      "despliegue",
+      "equipos",
+      "respuesta",
+      "rápida",
+      "campañas",
+      "concienciación",
+      "comunitaria",
+      "altavoces",
+      ",",
+      "tasa",
+      "letalidad",
+      "brote",
+      "sitúa",
+      "preocupante",
+      "3,2",
+      "%",
+      ",",
+      "superando",
+      "umbral",
+      "1",
+      "%",
+      "indica",
+      "tratamiento",
+      "temprano",
+      "adecuado",
+      ".",
+      "febrero",
+      "2025",
+      ",",
+      "lanzó",
+      "campaña",
+      "vacunación",
+      "alcanzó",
+      "millón",
+      "personas",
+      ",",
+      "embargo",
+      ",",
+      "sido",
+      "suficiente",
+      "contener",
+      "propagación",
+      ".",
+      "situación",
+      "especialmente",
+      "ardua",
+      "trabajadores",
+      "primera",
+      "línea",
+      ".",
+      "flávio",
+      "njinga",
+      ",",
+      "agente",
+      "desarrollo",
+      "comunitario",
+      "salud",
+      "(",
+      "adeco",
+      ")",
+      ",",
+      "expresó",
+      "agotamiento",
+      "personal",
+      "constante",
+      "visión",
+      "muertes",
+      "pacientes",
+      "afectados",
+      ".",
+      "“",
+      "cansados",
+      "​​de",
+      "ver",
+      "muertes",
+      ",",
+      "cansados",
+      "​​de",
+      "ver",
+      "pacientes",
+      "problemas…",
+      "queremos",
+      "menos",
+      "día",
+      "descanso",
+      ",",
+      "podemos",
+      ".",
+      "equipo",
+      "respuesta",
+      "rápida",
+      "pararemos",
+      "termine",
+      "”",
+      ",",
+      "declaró",
+      ".",
+      "brote",
+      "afecta",
+      "personas",
+      "todas",
+      "edades",
+      ",",
+      "especial",
+      "incidencia",
+      "menores",
+      "20",
+      "años",
+      ".",
+      "última",
+      "gran",
+      "epidemia",
+      "cólera",
+      "angola",
+      ",",
+      "2006",
+      ",",
+      "causó",
+      "muerte",
+      "2.700",
+      "personas",
+      ",",
+      "entonces",
+      ",",
+      "país",
+      "experimentado",
+      "brotes",
+      "periódicos",
+      ",",
+      "particularmente",
+      "temporada",
+      "lluvias",
+      ".",
+      "acuerdo",
+      "fondo",
+      "naciones",
+      "unidas",
+      "infancia",
+      "(",
+      "unicef",
+      ")",
+      ",",
+      "enero",
+      "2024",
+      "marzo",
+      "2025",
+      "confirmaron",
+      "178.000",
+      "casos",
+      "cólera",
+      "áfrica",
+      "oriental",
+      "meridional",
+      ",",
+      "siendo",
+      "sudán",
+      "sur",
+      "angola",
+      "países",
+      "enfrentan",
+      "brotes",
+      "severos",
+      ",",
+      "ello",
+      "intensificado",
+      "despliegue",
+      "detección",
+      ",",
+      "prevención",
+      "tratamiento",
+      "misma",
+      "."
+    ],
+    "token_count": 208,
+    "sentence_count": 10
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 32,
+      "MD": 1,
+      "VB": 1,
+      "NN": 92,
+      "FW": 76,
+      "CD": 11,
+      "IN": 15,
+      "JJ": 24,
+      "VBD": 2,
+      "NNS": 14,
+      "VBP": 10,
+      "DT": 3,
+      "VBZ": 6,
+      "RB": 1
+    },
+    "bigram_freq": {
+      "NNP-MD": 1,
+      "MD-VB": 1,
+      "VB-NN": 1,
+      "NN-NN": 41,
+      "NN-FW": 10,
+      "FW-FW": 42,
+      "FW-NN": 12,
+      "NN-CD": 3,
+      "CD-IN": 1,
+      "IN-FW": 9,
+      "FW-CD": 3,
+      "CD-JJ": 1,
+      "JJ-FW": 2,
+      "NN-VBD": 1,
+      "VBD-CD": 1,
+      "CD-NN": 8,
+      "NN-NNS": 6,
+      "NNS-IN": 2,
+      "FW-NNP": 10,
+      "NNP-FW": 9,
+      "NNP-NN": 10,
+      "NNS-VBP": 9,
+      "VBP-JJ": 5,
+      "JJ-NNP": 1,
+      "NNP-NNP": 8,
+      "NN-IN": 11,
+      "FW-NNS": 3,
+      "NNS-NN": 1,
+      "VBP-FW": 1,
+      "FW-JJ": 3,
+      "JJ-NN": 14,
+      "NN-JJ": 6,
+      "JJ-JJ": 3,
+      "NN-NNP": 9,
+      "NN-DT": 2,
+      "DT-NN": 3,
+      "JJ-NNS": 4,
+      "IN-NN": 1,
+      "VBP-NNP": 2,
+      "NN-VBZ": 2,
+      "VBZ-JJ": 3,
+      "VBP-RB": 1,
+      "RB-VBZ": 1,
+      "NNS-JJ": 2,
+      "NNP-VBZ": 1,
+      "VBZ-FW": 2,
+      "FW-VBZ": 2,
+      "VBZ-DT": 1,
+      "NNP-VBD": 1,
+      "VBD-FW": 1,
+      "NNP-IN": 1,
+      "IN-CD": 4,
+      "CD-NNS": 1,
+      "IN-NNP": 1,
+      "NNP-JJ": 1,
+      "NN-VBP": 1,
+      "VBP-NN": 1
+    },
+    "trigram_freq": {
+      "NNP-MD-VB": 1,
+      "MD-VB-NN": 1,
+      "VB-NN-NN": 1,
+      "NN-NN-NN": 17,
+      "NN-NN-FW": 6,
+      "NN-FW-FW": 6,
+      "FW-FW-NN": 4,
+      "FW-NN-NN": 6,
+      "NN-NN-CD": 1,
+      "NN-CD-IN": 1,
+      "CD-IN-FW": 1,
+      "IN-FW-CD": 1,
+      "FW-CD-JJ": 1,
+      "CD-JJ-FW": 1,
+      "JJ-FW-NN": 1,
+      "NN-NN-VBD": 1,
+      "NN-VBD-CD": 1,
+      "VBD-CD-NN": 1,
+      "CD-NN-NN": 3,
+      "NN-NN-NNS": 1,
+      "NN-NNS-IN": 1,
+      "NNS-IN-FW": 1,
+      "IN-FW-FW": 3,
+      "FW-FW-FW": 27,
+      "FW-FW-NNP": 5,
+      "FW-NNP-FW": 5,
+      "NNP-FW-NNP": 4,
+      "FW-NNP-NN": 1,
+      "NNP-NN-NNS": 3,
+      "NN-NNS-VBP": 4,
+      "NNS-VBP-JJ": 5,
+      "VBP-JJ-NNP": 1,
+      "JJ-NNP-NNP": 1,
+      "NNP-NNP-NNP": 1,
+      "NNP-NNP-FW": 3,
+      "FW-NNP-NNP": 3,
+      "NNP-NNP-NN": 3,
+      "NNP-NN-NN": 4,
+      "FW-NN-IN": 4,
+      "NN-IN-FW": 7,
+      "IN-FW-NNS": 1,
+      "FW-NNS-NN": 1,
+      "NNS-NN-NNS": 1,
+      "NNS-VBP-FW": 1,
+      "VBP-FW-FW": 1,
+      "FW-FW-JJ": 1,
+      "FW-JJ-NN": 3,
+      "JJ-NN-CD": 1,
+      "NN-CD-NN": 2,
+      "CD-NN-JJ": 1,
+      "NN-JJ-JJ": 1,
+      "JJ-JJ-NN": 3,
+      "JJ-NN-NN": 6,
+      "NN-NN-JJ": 4,
+      "NN-JJ-NN": 3,
+      "NN-NN-NNP": 5,
+      "NN-NNP-NN": 4,
+      "NNP-NN-CD": 1,
+      "JJ-NN-IN": 3,
+      "IN-FW-JJ": 2,
+      "JJ-NN-JJ": 1,
+      "IN-FW-NN": 2,
+      "NN-NN-DT": 1,
+      "NN-DT-NN": 2,
+      "DT-NN-NN": 2,
+      "NNP-FW-NN": 3,
+      "NN-JJ-NNS": 1,
+      "JJ-NNS-IN": 1,
+      "NNS-IN-NN": 1,
+      "IN-NN-NN": 1,
+      "NN-NNP-NNP": 3,
+      "NNP-FW-FW": 2,
+      "NN-NN-IN": 3,
+      "NN-JJ-FW": 1,
+      "JJ-FW-FW": 1,
+      "FW-FW-NNS": 2,
+      "FW-NNS-VBP": 2,
+      "NNS-VBP-NNP": 2,
+      "VBP-NNP-NN": 2,
+      "NNP-NN-NNP": 1,
+      "NNP-NN-VBZ": 1,
+      "NN-VBZ-JJ": 2,
+      "VBZ-JJ-NNS": 2,
+      "JJ-NNS-VBP": 3,
+      "NNS-VBP-RB": 1,
+      "VBP-RB-VBZ": 1,
+      "RB-VBZ-JJ": 1,
+      "NN-NNS-JJ": 1,
+      "NNS-JJ-NN": 1,
+      "FW-NN-DT": 1,
+      "DT-NN-NNP": 1,
+      "NN-NNP-VBZ": 1,
+      "NNP-VBZ-FW": 1,
+      "VBZ-FW-FW": 1,
+      "FW-FW-VBZ": 1,
+      "FW-VBZ-DT": 1,
+      "VBZ-DT-NN": 1,
+      "NN-FW-NN": 2,
+      "VBP-JJ-JJ": 1,
+      "JJ-NN-FW": 1,
+      "NN-FW-VBZ": 1,
+      "FW-VBZ-FW": 1,
+      "VBZ-FW-CD": 1,
+      "FW-CD-NN": 1,
+      "CD-NN-NNP": 1,
+      "NNP-NNP-VBD": 1,
+      "NNP-VBD-FW": 1,
+      "VBD-FW-FW": 1,
+      "FW-NNP-IN": 1,
+      "NNP-IN-CD": 1,
+      "IN-CD-NN": 4,
+      "CD-NN-FW": 2,
+      "FW-FW-CD": 1,
+      "FW-CD-NNS": 1,
+      "CD-NNS-JJ": 1,
+      "NNS-JJ-NNS": 1,
+      "VBP-JJ-NN": 3,
+      "NN-NN-VBZ": 1,
+      "VBZ-JJ-NN": 1,
+      "FW-NN-FW": 1,
+      "NN-FW-NNP": 1,
+      "NN-IN-CD": 3,
+      "CD-NN-IN": 1,
+      "NN-IN-NNP": 1,
+      "IN-NNP-JJ": 1,
+      "NNP-JJ-JJ": 1,
+      "JJ-NN-NNP": 1,
+      "NN-NNP-FW": 1,
+      "JJ-NN-NNS": 1,
+      "NN-NN-VBP": 1,
+      "NN-VBP-NN": 1,
+      "VBP-NN-NN": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 92,
+        "FW": 76,
+        "NNP": 32,
+        "JJ": 24,
+        "IN": 15
+      },
+      "top_bigrams": {
+        "FW-FW": 42,
+        "NN-NN": 41,
+        "JJ-NN": 14,
+        "FW-NN": 12,
+        "NN-IN": 11
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 27,
+        "NN-NN-NN": 17,
+        "NN-IN-FW": 7,
+        "NN-NN-FW": 6,
+        "NN-FW-FW": 6
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 10,
+    "chunk_counts": {
+      "NP": 82,
+      "VP": 19,
+      "PP": 5,
+      "ADJP": 6
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 4,
+        "weight": 0.0328
+      },
+      {
+        "rule": "NP -> ('Salud', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0164
+      },
+      {
+        "rule": "NP -> ('Angola', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0164
+      },
+      {
+        "rule": "NP -> ('con', 'NN')",
+        "frequency": 2,
+        "weight": 0.0164
+      },
+      {
+        "rule": "S -> NP ('organismo', 'MD') VP ('enfermedad', 'FW') ('se', 'FW') NP VP ('a', 'DT') ('17', 'CD') ('de', 'IN') ('las', 'FW') ('21', 'CD') NP (',', ',') NP VP ('18.000', 'CD') NP PP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0082
+      },
+      {
+        "rule": "NP -> ('El', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0082
+      },
+      {
+        "rule": "VP -> ('sanitario', 'VB') NP",
+        "frequency": 1,
+        "weight": 0.0082
+      },
+      {
+        "rule": "NP -> ('detalló', 'NN') ('que', 'NN') ('la', 'NN')",
+        "frequency": 1,
+        "weight": 0.0082
+      },
+      {
+        "rule": "NP -> ('ha', 'NN')",
+        "frequency": 1,
+        "weight": 0.0082
+      },
+      {
+        "rule": "VP -> ('propagado', 'VBD')",
+        "frequency": 1,
+        "weight": 0.0082
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El"
+      },
+      {
+        "label": "VP",
+        "text": "sanitario detalló que la"
+      },
+      {
+        "label": "NP",
+        "text": "detalló que la"
+      },
+      {
+        "label": "NP",
+        "text": "ha"
+      },
+      {
+        "label": "VP",
+        "text": "propagado"
+      },
+      {
+        "label": "NP",
+        "text": "provincias del país"
+      },
+      {
+        "label": "NP",
+        "text": "dejando"
+      },
+      {
+        "label": "VP",
+        "text": "además"
+      },
+      {
+        "label": "NP",
+        "text": "casos hasta principios"
+      },
+      {
+        "label": "PP",
+        "text": "de mayo"
+      },
+      {
+        "label": "NP",
+        "text": "mayo"
+      },
+      {
+        "label": "NP",
+        "text": "A pesar"
+      },
+      {
+        "label": "NP",
+        "text": "esfuerzos del Ministerio"
+      },
+      {
+        "label": "PP",
+        "text": "de Salud"
+      },
+      {
+        "label": "NP",
+        "text": "Salud"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP El/NNP)\n  organismo/MD\n  (VP sanitario/VB (NP detalló/NN que/NN la/NN))\n  enfermedad/FW\n  se/FW\n  (NP ha/NN)\n  (VP propagado/VBD)\n  a/DT\n  17/CD\n  de/IN\n  las/FW\n  21/CD\n  (NP provincias/JJ del/NN país/NN)\n  ,/,\n  (NP dejando/NN)\n  (VP además/VBD)\n  18.000/CD\n  (NP casos/NN hasta/NN principios/NNS)\n  (PP de/IN (NP mayo/NN))\n  ./.)",
+      "(S\n  (NP A/DT pesar/NN)\n  de/IN\n  los/FW\n  (NP esfuerzos/JJ del/NN Ministerio/NNP)\n  (PP de/IN (NP Salud/NNP))\n  de/FW\n  (NP Angola/NNP)\n  y/CC\n  (NP sus/NN socios/NNS)\n  ,/,\n  (NP incluyendo/JJ la/NN Organización/NNP Mundial/NNP de/NNP)\n  la/FW\n  (NP Salud/NNP)\n  (/(\n  (NP OMS/NNP)\n  )/)\n  ,/,\n  (NP que/JJ incluyen/JJ la/NN)\n  detección/FW\n  de/FW\n  casos/FW\n  ,/,\n  el/FW\n  (NP despliegue/NN)\n  de/IN\n  equipos/FW\n  de/FW\n  respuesta/FW\n  rápida/FW\n  y/FW\n  campañas/FW\n  de/FW\n  concienciación/FW\n  (NP comunitaria/NNS con/NN altavoces/NNS)\n  ,/,\n  la/FW\n  tasa/FW\n  de/FW\n  letalidad/FW\n  del/FW\n  brote/FW\n  se/FW\n  sitúa/FW\n  en/FW\n  (ADJP un/JJ)\n  (VP preocupante/VBP)\n  3,2/CD\n  (NP %/NN)\n  ,/,\n  (ADJP superando/JJ)\n  (ADJP el/JJ)\n  (ADJP umbral/JJ)\n  del/FW\n  1/CD\n  (NP %/NN que/NN indica/NN)\n  (NP un/JJ tratamiento/NN temprano/NN y/NN adecuado/NN)\n  ./.)",
+      "(S\n  (NP En/NNP febrero/NN)\n  2025/CD\n  ,/,\n  se/FW\n  lanzó/FW\n  (NP una/JJ campaña/NN)\n  de/IN\n  vacunación/FW\n  (NP que/NN)\n  (VP alcanzó/VBZ (NP a/DT un/JJ millón/NN))\n  de/IN\n  personas/FW\n  ,/,\n  (NP sin/NN embargo/NN)\n  ,/,\n  (NP\n    no/DT\n    ha/NN\n    sido/NN\n    suficiente/NN\n    para/NN\n    contener/NN\n    la/NN\n    propagación/NN)\n  ./.)",
+      "(S\n  (NP La/NNP)\n  (VP\n    situación/VBD\n    (NP es/JJ especialmente/NN ardua/NN para/NN)\n    (NP los/JJ trabajadores/NNS))\n  (PP de/IN (NP primera/NN línea/NN))\n  ./.)",
+      "(S\n  (NP Flávio/NNP Njinga/NNP)\n  ,/,\n  (NP agente/NN)\n  de/FW\n  desarrollo/FW\n  (NP comunitario/NN y/NN salud/NN)\n  (/(\n  (NP Adeco/NNP)\n  )/)\n  ,/,\n  (NP expresó/JJ el/NN agotamiento/NN)\n  del/FW\n  (NP personal/JJ ante/NN la/NN)\n  (ADJP constante/JJ)\n  visión/FW\n  de/FW\n  muertes/FW\n  y/FW\n  (NP pacientes/NNS)\n  (VP afectados/VBP)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "LEYES_NORMATIVAS",
+      "ORGANISMOS_INTERNACIONALES",
+      "CANTIDADES_NUMERICAS",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "ANTIIMPERIALISMO_SOBERANIA",
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "RELACIONES_INTERNACIONALES"
+    ],
+    "matches": [
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "tasa",
+        "position": [
+          422,
+          426
+        ],
+        "start": 422,
+        "end": 426
+      },
+      {
+        "category": "RELACIONES_INTERNACIONALES",
+        "matched_text": "acuerdo con el fondo de las naciones unidas para la infancia (unicef), entre enero de 2024 y marzo",
+        "position": [
+          1496,
+          1594
+        ],
+        "start": 1496,
+        "end": 1594
+      },
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "expresó",
+        "position": [
+          856,
+          863
+        ],
+        "start": 856,
+        "end": 863
+      },
+      {
+        "category": "ORGANISMOS_INTERNACIONALES",
+        "matched_text": "naciones unidas",
+        "position": [
+          1524,
+          1539
+        ],
+        "start": 1524,
+        "end": 1539
+      },
+      {
+        "category": "ORGANISMOS_INTERNACIONALES",
+        "matched_text": "oms",
+        "position": [
+          276,
+          279
+        ],
+        "start": 276,
+        "end": 279
+      },
+      {
+        "category": "LEYES_NORMATIVAS",
+        "matched_text": "acuerdo con el fondo de las naciones unidas para la infancia (unicef), entre enero de 2024",
+        "position": [
+          1496,
+          1586
+        ],
+        "start": 1496,
+        "end": 1586
+      },
+      {
+        "category": "ANTIIMPERIALISMO_SOBERANIA",
+        "matched_text": "embargo",
+        "position": [
+          650,
+          657
+        ],
+        "start": 650,
+        "end": 657
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "700 personas",
+        "position": [
+          1367,
+          1379
+        ],
+        "start": 1367,
+        "end": 1379
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "2.700 personas",
+        "position": [
+          1365,
+          1379
+        ],
+        "start": 1365,
+        "end": 1379
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "más de 2.700",
+        "position": [
+          1358,
+          1370
+        ],
+        "start": 1358,
+        "end": 1370
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "más de 178.000",
+        "position": [
+          1618,
+          1632
+        ],
+        "start": 1618,
+        "end": 1632
+      }
+    ],
+    "match_count": 11
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "África",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Sudán del Sur",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Fondo de las Naciones Unidas para la Infancia",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Flávio Njinga",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Angola",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "UNICEF",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Organización Mundial de la Salud",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Adeco",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "OMS",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Ministerio de Salud de Angola",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Fondo de las Naciones Unidas para la Infancia",
+        "relacion": "CONFIRMAR",
+        "objeto": "África"
+      },
+      {
+        "sujeto": "Sudán del Sur",
+        "relacion": "CONFIRMAR",
+        "objeto": "Fondo de las Naciones Unidas para la Infancia"
+      },
+      {
+        "sujeto": "Fondo de las Naciones Unidas para la Infancia",
+        "relacion": "CONFIRMAR",
+        "objeto": "Angola"
+      },
+      {
+        "sujeto": "UNICEF",
+        "relacion": "CONFIRMAR",
+        "objeto": "África"
+      },
+      {
+        "sujeto": "Sudán del Sur",
+        "relacion": "CONFIRMAR",
+        "objeto": "UNICEF"
+      },
+      {
+        "sujeto": "UNICEF",
+        "relacion": "CONFIRMAR",
+        "objeto": "Angola"
+      },
+      {
+        "sujeto": "Sudán del Sur",
+        "relacion": "CONFIRMAR",
+        "objeto": "África"
+      },
+      {
+        "sujeto": "África",
+        "relacion": "CONFIRMAR",
+        "objeto": "Angola"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.1531,
+    "pos": 0.032,
+    "neu": 0.934,
+    "neg": 0.034,
+    "label": "negative"
+  }
+}

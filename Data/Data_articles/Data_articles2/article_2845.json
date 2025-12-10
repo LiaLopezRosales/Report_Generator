@@ -1,0 +1,825 @@
+{
+  "url": "https://www.telesurtv.net/estudio-cifra-de-palestinos-asesinados-por-guerra-genocida-israeli-contra-gaza-llegaria-a-casi-100-000/",
+  "title": "Estudio: cifra de palestinos asesinados por guerra genocida israelí contra Gaza llegaría a casi 100.000 - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Conflicto",
+    "conflicto destacado",
+    "Exterminio sionista",
+    "Gaza"
+  ],
+  "text": "\nLas autoridades palestinas de Salud señalan que la cifra de asesinados por la guerra genocida israelí contra la Franja de Gaza supera los 56.500, sin embargo un estudio indica que el número de muertos sería de casi 100.000 desde que comenzó la agresión sionista el 7 de octubre de 2023.\nLa cifra se publicó en el estudio dirigido por el economista y profesor de la Universidad de Londres, Michael Spagat, y el politólogo palestino Jalil Shikaki, quienes apuntaron el recuento de muertes del Ministerio de Salud en Gaza es muy inferior a las reales y que el número real de asesinados se acerca a 100.000.\nLos autores del trabajo encuestaron a 2.000 hogares en la sitiada Franja de Gaza, con casi 10.000 habitantes.\nLos investigadores concluyeron que, hasta enero de 2025, unas 75.200 personas murieron de forma violenta en el territorio costero palestino durante la agresión israelí, iniciada el 7 de octubre de 2023, la gran mayoría causadas por municiones israelíes, junto con 8.540 fallecidas de forma no violenta.\nTambién puntualizan que la proporción de muertos en relación con la población ronda el 4 por ciento, añadiendo que el 56 por ciento de los fallecidos eran niños de hasta 18 años o mujeres.\nLos investigadores señalan que la proporción de mujeres y niños asesinados por Israel en la Franja de Gaza es más del doble que en casi todos los demás conflictos recientes, una cifra excepcional en comparación con casi todos los demás conflictos desde la Segunda Guerra Mundial.\nLa intensificación de la agresión israelí y el bloqueo total de alimentos impuesto por el régimen ha llevado a la Franja al borde del colapso. La Organización de las Naciones Unidas ha alertado de una crisis humanitaria sin precedentes en Gaza, pues 2.1 millones de personas sufren inseguridad alimentaria y están al borde de la hambruna.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/estudio-cifra-de-palestinos-asesinados-por-guerra-genocida-israeli-contra-gaza-llegaria-a-casi-100-000/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-06.json",
+    "message_index": 58,
+    "message_id": 97815,
+    "date": "2025-06-30T10:55:13+00:00",
+    "text": "teleSUR\nEstudio: cifra de palestinos asesinados por guerra genocida israelí contra Gaza llegaría a casi 100.000\nhttps://www.telesurtv.net/estudio-cifra-de-palestinos-asesinados-por-guerra-genocida-israeli-contra-gaza-llegaria-a-casi-100-000/",
+    "photo_path": null,
+    "views": 2418,
+    "reactions": {
+      "🤬": 45,
+      "😢": 12,
+      "❤": 2,
+      "😈": 2
+    },
+    "total_reactions": 61
+  },
+  "preprocessing": {
+    "cleaned": "las autoridades palestinas de salud señalan que la cifra de asesinados por la guerra genocida israelí contra la franja de gaza supera los 56.500, sin embargo un estudio indica que el número de muertos sería de casi 100.000 desde que comenzó la agresión sionista el 7 de octubre de 2023. la cifra se publicó en el estudio dirigido por el economista y profesor de la universidad de londres, michael spagat, y el politólogo palestino jalil shikaki, quienes apuntaron el recuento de muertes del ministerio de salud en gaza es muy inferior a las reales y que el número real de asesinados se acerca a 100.000. los autores del trabajo encuestaron a 2.000 hogares en la sitiada franja de gaza, con casi 10.000 habitantes. los investigadores concluyeron que, hasta enero de 2025, unas 75.200 personas murieron de forma violenta en el territorio costero palestino durante la agresión israelí, iniciada el 7 de octubre de 2023, la gran mayoría causadas por municiones israelíes, junto con 8.540 fallecidas de forma no violenta. también puntualizan que la proporción de muertos en relación con la población ronda el 4 por ciento, añadiendo que el 56 por ciento de los fallecidos eran niños de hasta 18 años o mujeres. los investigadores señalan que la proporción de mujeres y niños asesinados por israel en la franja de gaza es más del doble que en casi todos los demás conflictos recientes, una cifra excepcional en comparación con casi todos los demás conflictos desde la segunda guerra mundial. la intensificación de la agresión israelí y el bloqueo total de alimentos impuesto por el régimen ha llevado a la franja al borde del colapso. la organización de las naciones unidas ha alertado de una crisis humanitaria sin precedentes en gaza, pues 2.1 millones de personas sufren inseguridad alimentaria y están al borde de la hambruna.",
+    "tokens": [
+      "autoridades",
+      "palestinas",
+      "salud",
+      "señalan",
+      "cifra",
+      "asesinados",
+      "guerra",
+      "genocida",
+      "israelí",
+      "franja",
+      "gaza",
+      "supera",
+      "56.500",
+      ",",
+      "embargo",
+      "estudio",
+      "indica",
+      "número",
+      "muertos",
+      "casi",
+      "100.000",
+      "comenzó",
+      "agresión",
+      "sionista",
+      "7",
+      "octubre",
+      "2023.",
+      "cifra",
+      "publicó",
+      "estudio",
+      "dirigido",
+      "economista",
+      "profesor",
+      "universidad",
+      "londres",
+      ",",
+      "michael",
+      "spagat",
+      ",",
+      "politólogo",
+      "palestino",
+      "jalil",
+      "shikaki",
+      ",",
+      "apuntaron",
+      "recuento",
+      "muertes",
+      "ministerio",
+      "salud",
+      "gaza",
+      "inferior",
+      "reales",
+      "número",
+      "real",
+      "asesinados",
+      "acerca",
+      "100.000.",
+      "autores",
+      "trabajo",
+      "encuestaron",
+      "2.000",
+      "hogares",
+      "sitiada",
+      "franja",
+      "gaza",
+      ",",
+      "casi",
+      "10.000",
+      "habitantes",
+      ".",
+      "investigadores",
+      "concluyeron",
+      ",",
+      "enero",
+      "2025",
+      ",",
+      "unas",
+      "75.200",
+      "personas",
+      "murieron",
+      "forma",
+      "violenta",
+      "territorio",
+      "costero",
+      "palestino",
+      "agresión",
+      "israelí",
+      ",",
+      "iniciada",
+      "7",
+      "octubre",
+      "2023",
+      ",",
+      "gran",
+      "mayoría",
+      "causadas",
+      "municiones",
+      "israelíes",
+      ",",
+      "junto",
+      "8.540",
+      "fallecidas",
+      "forma",
+      "violenta",
+      ".",
+      "puntualizan",
+      "proporción",
+      "muertos",
+      "relación",
+      "población",
+      "ronda",
+      "4",
+      "ciento",
+      ",",
+      "añadiendo",
+      "56",
+      "ciento",
+      "fallecidos",
+      "niños",
+      "18",
+      "años",
+      "mujeres",
+      ".",
+      "investigadores",
+      "señalan",
+      "proporción",
+      "mujeres",
+      "niños",
+      "asesinados",
+      "israel",
+      "franja",
+      "gaza",
+      "doble",
+      "casi",
+      "demás",
+      "conflictos",
+      "recientes",
+      ",",
+      "cifra",
+      "excepcional",
+      "comparación",
+      "casi",
+      "demás",
+      "conflictos",
+      "segunda",
+      "guerra",
+      "mundial",
+      ".",
+      "intensificación",
+      "agresión",
+      "israelí",
+      "bloqueo",
+      "total",
+      "alimentos",
+      "impuesto",
+      "régimen",
+      "llevado",
+      "franja",
+      "borde",
+      "colapso",
+      ".",
+      "organización",
+      "naciones",
+      "unidas",
+      "alertado",
+      "crisis",
+      "humanitaria",
+      "precedentes",
+      "gaza",
+      ",",
+      "pues",
+      "2.1",
+      "millones",
+      "personas",
+      "sufren",
+      "inseguridad",
+      "alimentaria",
+      "borde",
+      "hambruna",
+      "."
+    ],
+    "token_count": 180,
+    "sentence_count": 8
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 34,
+      "VBZ": 7,
+      "FW": 96,
+      "NN": 75,
+      "JJ": 24,
+      "CD": 13,
+      "IN": 10,
+      "NNS": 15,
+      "RB": 3,
+      "VBP": 7,
+      "VBD": 3,
+      "VB": 2,
+      "DT": 1,
+      "CC": 1
+    },
+    "bigram_freq": {
+      "NNP-VBZ": 5,
+      "VBZ-FW": 1,
+      "FW-FW": 63,
+      "FW-NNP": 13,
+      "NNP-NN": 5,
+      "NN-NN": 41,
+      "NN-FW": 9,
+      "FW-JJ": 3,
+      "JJ-FW": 5,
+      "NNP-FW": 10,
+      "NN-CD": 3,
+      "CD-NN": 5,
+      "NN-JJ": 3,
+      "JJ-NN": 10,
+      "NN-IN": 7,
+      "IN-FW": 7,
+      "FW-CD": 4,
+      "IN-JJ": 2,
+      "CD-NNP": 2,
+      "FW-NN": 10,
+      "NNP-NNP": 9,
+      "VBZ-NN": 2,
+      "NN-NNP": 6,
+      "NNP-NNS": 2,
+      "NNS-RB": 1,
+      "RB-VBP": 1,
+      "VBP-NN": 1,
+      "JJ-NNS": 2,
+      "NNS-NNS": 1,
+      "NNS-VBP": 6,
+      "VBP-RB": 1,
+      "RB-JJ": 1,
+      "JJ-JJ": 4,
+      "FW-RB": 1,
+      "RB-CD": 1,
+      "VBP-JJ": 3,
+      "CD-NNS": 4,
+      "NNS-JJ": 1,
+      "NNS-NNP": 2,
+      "IN-CD": 1,
+      "CD-JJ": 2,
+      "JJ-CD": 1,
+      "NN-VBD": 2,
+      "VBD-JJ": 1,
+      "VBP-NNS": 2,
+      "NNS-VB": 2,
+      "VB-NNS": 1,
+      "VB-CD": 1,
+      "NNS-IN": 2,
+      "JJ-DT": 1,
+      "DT-NN": 1,
+      "VBD-CD": 1,
+      "NN-NNS": 1,
+      "VBZ-JJ": 3,
+      "NNP-CC": 1,
+      "CC-JJ": 1,
+      "NN-VBZ": 2,
+      "FW-NNS": 2,
+      "NNP-IN": 1,
+      "NNP-VBD": 1,
+      "VBD-FW": 1,
+      "JJ-NNP": 1,
+      "VBZ-CD": 1
+    },
+    "trigram_freq": {
+      "NNP-VBZ-FW": 1,
+      "VBZ-FW-FW": 1,
+      "FW-FW-NNP": 3,
+      "FW-NNP-NN": 3,
+      "NNP-NN-NN": 5,
+      "NN-NN-FW": 4,
+      "NN-FW-FW": 7,
+      "FW-FW-FW": 46,
+      "FW-FW-JJ": 2,
+      "FW-JJ-FW": 2,
+      "JJ-FW-NNP": 1,
+      "FW-NNP-FW": 7,
+      "NNP-FW-NNP": 7,
+      "NN-NN-CD": 2,
+      "NN-CD-NN": 1,
+      "CD-NN-NN": 3,
+      "NN-NN-JJ": 1,
+      "NN-JJ-NN": 2,
+      "JJ-NN-NN": 2,
+      "NN-NN-NN": 24,
+      "NN-NN-IN": 5,
+      "NN-IN-FW": 5,
+      "IN-FW-FW": 2,
+      "FW-FW-CD": 4,
+      "FW-CD-NN": 3,
+      "NN-IN-JJ": 1,
+      "IN-JJ-FW": 1,
+      "JJ-FW-FW": 4,
+      "FW-CD-NNP": 1,
+      "CD-NNP-FW": 1,
+      "NNP-FW-FW": 2,
+      "FW-FW-NN": 6,
+      "FW-NN-NN": 5,
+      "IN-FW-NNP": 2,
+      "FW-NNP-NNP": 2,
+      "NNP-NNP-NNP": 3,
+      "NNP-NNP-VBZ": 1,
+      "NNP-VBZ-NN": 2,
+      "VBZ-NN-NN": 2,
+      "NN-NN-NNP": 2,
+      "NN-NNP-NNP": 4,
+      "NNP-NNP-NNS": 1,
+      "NNP-NNS-RB": 1,
+      "NNS-RB-VBP": 1,
+      "RB-VBP-NN": 1,
+      "VBP-NN-FW": 1,
+      "NNP-FW-NN": 1,
+      "FW-NN-JJ": 1,
+      "NN-JJ-NNS": 1,
+      "JJ-NNS-NNS": 1,
+      "NNS-NNS-VBP": 1,
+      "NNS-VBP-RB": 1,
+      "VBP-RB-JJ": 1,
+      "RB-JJ-JJ": 1,
+      "JJ-JJ-FW": 1,
+      "FW-FW-RB": 1,
+      "FW-RB-CD": 1,
+      "RB-CD-NNP": 1,
+      "CD-NNP-NNS": 1,
+      "NNP-NNS-VBP": 1,
+      "NNS-VBP-JJ": 3,
+      "VBP-JJ-NN": 3,
+      "JJ-NN-CD": 1,
+      "NN-CD-NNS": 2,
+      "CD-NNS-JJ": 1,
+      "NNS-JJ-FW": 1,
+      "CD-NNS-NNP": 1,
+      "NNS-NNP-VBZ": 2,
+      "NN-IN-CD": 1,
+      "IN-CD-JJ": 1,
+      "CD-JJ-CD": 1,
+      "JJ-CD-JJ": 1,
+      "CD-JJ-NN": 1,
+      "JJ-NN-IN": 2,
+      "CD-NN-VBD": 1,
+      "NN-VBD-JJ": 1,
+      "VBD-JJ-NNS": 1,
+      "JJ-NNS-VBP": 1,
+      "NNS-VBP-NNS": 2,
+      "VBP-NNS-VB": 1,
+      "NNS-VB-NNS": 1,
+      "VB-NNS-VB": 1,
+      "NNS-VB-CD": 1,
+      "VB-CD-NNS": 1,
+      "CD-NNS-IN": 2,
+      "NNS-IN-JJ": 1,
+      "IN-JJ-DT": 1,
+      "JJ-DT-NN": 1,
+      "DT-NN-NNP": 1,
+      "NN-NNP-NN": 2,
+      "FW-NN-FW": 1,
+      "NN-NN-VBD": 1,
+      "NN-VBD-CD": 1,
+      "VBD-CD-NN": 1,
+      "IN-FW-JJ": 1,
+      "FW-JJ-NN": 1,
+      "JJ-NN-FW": 3,
+      "CD-NN-NNS": 1,
+      "NN-NNS-NNP": 1,
+      "NNP-VBZ-JJ": 1,
+      "VBZ-JJ-JJ": 2,
+      "JJ-JJ-NN": 2,
+      "FW-NN-NNP": 2,
+      "NNP-NNP-FW": 2,
+      "FW-NNP-CC": 1,
+      "NNP-CC-JJ": 1,
+      "CC-JJ-NN": 1,
+      "JJ-NN-JJ": 1,
+      "NN-FW-NN": 2,
+      "NN-NN-VBZ": 2,
+      "NN-VBZ-JJ": 2,
+      "JJ-JJ-JJ": 1,
+      "FW-FW-NNS": 1,
+      "FW-NNS-VBP": 2,
+      "JJ-NN-NNP": 1,
+      "NNP-NNP-IN": 1,
+      "NNP-IN-FW": 1,
+      "NNP-NNP-VBD": 1,
+      "NNP-VBD-FW": 1,
+      "VBD-FW-FW": 1,
+      "VBZ-JJ-NNP": 1,
+      "JJ-NNP-VBZ": 1,
+      "NNP-VBZ-CD": 1,
+      "VBZ-CD-NNS": 1,
+      "NNS-IN-FW": 1,
+      "IN-FW-NNS": 1,
+      "VBP-NNS-VBP": 1,
+      "IN-FW-NN": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "FW": 96,
+        "NN": 75,
+        "NNP": 34,
+        "JJ": 24,
+        "NNS": 15
+      },
+      "top_bigrams": {
+        "FW-FW": 63,
+        "NN-NN": 41,
+        "FW-NNP": 13,
+        "NNP-FW": 10,
+        "JJ-NN": 10
+      },
+      "top_trigrams": {
+        "FW-FW-FW": 46,
+        "NN-NN-NN": 24,
+        "NN-FW-FW": 7,
+        "FW-NNP-FW": 7,
+        "NNP-FW-NNP": 7
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 8,
+    "chunk_counts": {
+      "NP": 69,
+      "VP": 21,
+      "ADJP": 7,
+      "PP": 1
+    },
+    "top_rules": [
+      {
+        "rule": "NP -> ('Franja', 'NNP')",
+        "frequency": 3,
+        "weight": 0.0283
+      },
+      {
+        "rule": "NP -> ('Gaza', 'NNP')",
+        "frequency": 3,
+        "weight": 0.0283
+      },
+      {
+        "rule": "NP -> ('Los', 'NNP')",
+        "frequency": 3,
+        "weight": 0.0283
+      },
+      {
+        "rule": "VP -> ('investigadores', 'VBZ') NP",
+        "frequency": 2,
+        "weight": 0.0189
+      },
+      {
+        "rule": "NP -> ('por', 'NN') ('ciento', 'NN')",
+        "frequency": 2,
+        "weight": 0.0189
+      },
+      {
+        "rule": "S -> NP VP ('palestinas', 'FW') ('de', 'FW') NP ('la', 'FW') ('cifra', 'FW') ('de', 'FW') ('asesinados', 'FW') ('por', 'FW') ('la', 'FW') ('guerra', 'FW') ('genocida', 'FW') ('israelí', 'FW') ADJP ('la', 'FW') NP ('de', 'FW') NP ('56.500', 'CD') (',', ',') NP NP ('de', 'IN') ('muertos', 'FW') ('sería', 'FW') ('de', 'FW') ('casi', 'FW') ('100.000', 'CD') NP ('agresión', 'IN') ADJP ADJP ('7', 'CD') ('de', 'FW') ('octubre', 'FW') ('de', 'IN') ('2023', 'CD') ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0094
+      },
+      {
+        "rule": "NP -> ('Las', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0094
+      },
+      {
+        "rule": "VP -> ('autoridades', 'VBZ')",
+        "frequency": 1,
+        "weight": 0.0094
+      },
+      {
+        "rule": "NP -> ('Salud', 'NNP') ('señalan', 'NN') ('que', 'NN')",
+        "frequency": 1,
+        "weight": 0.0094
+      },
+      {
+        "rule": "ADJP -> ('contra', 'JJ')",
+        "frequency": 1,
+        "weight": 0.0094
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Las"
+      },
+      {
+        "label": "VP",
+        "text": "autoridades"
+      },
+      {
+        "label": "NP",
+        "text": "Salud señalan que"
+      },
+      {
+        "label": "ADJP",
+        "text": "contra"
+      },
+      {
+        "label": "NP",
+        "text": "Franja"
+      },
+      {
+        "label": "NP",
+        "text": "Gaza supera los"
+      },
+      {
+        "label": "NP",
+        "text": "sin embargo"
+      },
+      {
+        "label": "NP",
+        "text": "un estudio indica que el número"
+      },
+      {
+        "label": "NP",
+        "text": "desde que comenzó la"
+      },
+      {
+        "label": "ADJP",
+        "text": "sionista"
+      },
+      {
+        "label": "ADJP",
+        "text": "el"
+      },
+      {
+        "label": "NP",
+        "text": "La cifra se publicó"
+      },
+      {
+        "label": "PP",
+        "text": "en el estudio dirigido por el economista y profesor"
+      },
+      {
+        "label": "NP",
+        "text": "el estudio dirigido por el economista y profesor"
+      },
+      {
+        "label": "NP",
+        "text": "Universidad"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Las/NNP)\n  (VP autoridades/VBZ)\n  palestinas/FW\n  de/FW\n  (NP Salud/NNP señalan/NN que/NN)\n  la/FW\n  cifra/FW\n  de/FW\n  asesinados/FW\n  por/FW\n  la/FW\n  guerra/FW\n  genocida/FW\n  israelí/FW\n  (ADJP contra/JJ)\n  la/FW\n  (NP Franja/NNP)\n  de/FW\n  (NP Gaza/NNP supera/NN los/NN)\n  56.500/CD\n  ,/,\n  (NP sin/NN embargo/NN)\n  (NP un/JJ estudio/NN indica/NN que/NN el/NN número/NN)\n  de/IN\n  muertos/FW\n  sería/FW\n  de/FW\n  casi/FW\n  100.000/CD\n  (NP desde/NN que/NN comenzó/NN la/NN)\n  agresión/IN\n  (ADJP sionista/JJ)\n  (ADJP el/JJ)\n  7/CD\n  de/FW\n  octubre/FW\n  de/IN\n  2023/CD\n  ./.)",
+      "(S\n  (NP La/NNP cifra/NN se/NN publicó/NN)\n  (PP\n    en/IN\n    (NP\n      el/NN\n      estudio/NN\n      dirigido/NN\n      por/NN\n      el/NN\n      economista/NN\n      y/NN\n      profesor/NN))\n  de/IN\n  la/FW\n  (NP Universidad/NNP)\n  de/FW\n  (NP Londres/NNP)\n  ,/,\n  (NP Michael/NNP Spagat/NNP)\n  ,/,\n  (NP y/NNP)\n  (VP el/VBZ (NP politólogo/NN palestino/NN Jalil/NNP Shikaki/NNP))\n  ,/,\n  (VP quienes/VBZ (NP apuntaron/NN el/NN recuento/NN))\n  de/FW\n  muertes/FW\n  del/FW\n  (NP Ministerio/NNP)\n  de/FW\n  (NP Salud/NNP)\n  en/FW\n  (NP Gaza/NNP)\n  es/FW\n  (NP muy/NN)\n  (VP inferior/VBZ (NP a/DT las/JJ reales/NNS))\n  (VP y/VBP (NP que/JJ el/NN) número/JJ real/JJ)\n  de/FW\n  asesinados/FW\n  se/FW\n  (VP acerca/VBP)\n  a/DT\n  100.000/CD\n  ./.)",
+      "(S\n  (NP Los/NNP)\n  (VP autores/VBZ)\n  del/FW\n  (NP trabajo/NN)\n  (VP encuestaron/VBD)\n  a/DT\n  2.000/CD\n  (NP hogares/NNS)\n  (ADJP en/JJ)\n  la/FW\n  sitiada/FW\n  (NP Franja/NNP)\n  de/FW\n  (NP Gaza/NNP)\n  ,/,\n  (NP con/NN casi/NN)\n  10.000/CD\n  (NP habitantes/NNS)\n  ./.)",
+      "(S\n  (NP Los/NNP)\n  (VP investigadores/VBZ (NP concluyeron/NN que/NN))\n  ,/,\n  (NP hasta/JJ enero/NN)\n  de/IN\n  2025/CD\n  ,/,\n  (ADJP unas/JJ)\n  75.200/CD\n  (NP personas/JJ murieron/NN)\n  de/IN\n  forma/FW\n  violenta/FW\n  en/FW\n  el/FW\n  (NP territorio/NN costero/NN palestino/NN durante/NN)\n  la/FW\n  agresión/FW\n  (NP israelí/NN)\n  ,/,\n  (ADJP iniciada/JJ)\n  el/FW\n  7/CD\n  de/FW\n  octubre/FW\n  de/IN\n  2023/CD\n  ,/,\n  la/FW\n  gran/FW\n  mayoría/FW\n  (NP causadas/NNS)\n  (VP por/VBP (NP municiones/NNS israelíes/NNS))\n  ,/,\n  (NP junto/NN con/NN)\n  8.540/CD\n  (NP fallecidas/NN)\n  de/FW\n  forma/FW\n  (NP no/DT violenta/NN)\n  ./.)",
+      "(S\n  (NP También/NNP puntualizan/NN que/NN)\n  la/FW\n  proporción/FW\n  de/FW\n  muertos/FW\n  en/FW\n  relación/FW\n  (NP con/NN)\n  la/FW\n  población/FW\n  (NP ronda/NN)\n  (VP el/VBP)\n  4/CD\n  (NP por/NN ciento/NN)\n  ,/,\n  (NP añadiendo/JJ que/NN)\n  (VP el/VBD)\n  56/CD\n  (NP por/NN ciento/NN)\n  de/IN\n  los/FW\n  (NP fallecidos/JJ eran/NN)\n  niños/FW\n  de/FW\n  hasta/FW\n  18/CD\n  (NP años/NN o/NN mujeres/NNS)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "GRUPOS_ESPECIFICOS",
+      "ORGANISMOS_INTERNACIONALES",
+      "CANTIDADES_NUMERICAS",
+      "ANTIIMPERIALISMO_SOBERANIA",
+      "CRISIS_HUMANITARIA_SERVICIOS",
+      "INSTITUCIONES_EDUCATIVAS",
+      "PAISES",
+      "LOCALIZACIONES_ESPECIFICAS",
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "CONFLICTOS_ARMADOS_OPERACIONES",
+      "INFRAESTRUCTURA_SERVICIOS",
+      "FECHAS_ESPECIFICAS"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "guerra genocida israelí contra la",
+        "position": [
+          79,
+          112
+        ],
+        "start": 79,
+        "end": 112
+      },
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "municiones",
+        "position": [
+          947,
+          957
+        ],
+        "start": 947,
+        "end": 957
+      },
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "genocida israelí contra la franja de gaza",
+        "position": [
+          86,
+          127
+        ],
+        "start": 86,
+        "end": 127
+      },
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "impuesto",
+        "position": [
+          1561,
+          1569
+        ],
+        "start": 1561,
+        "end": 1569
+      },
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "trabajo",
+        "position": [
+          621,
+          628
+        ],
+        "start": 621,
+        "end": 628
+      },
+      {
+        "category": "CRISIS_HUMANITARIA_SERVICIOS",
+        "matched_text": "bloqueo total de alimentos impuesto por el régimen ha llevado a la franja al borde del colapso. la organización de las naciones unidas ha alertado de una crisis humanitaria sin precedentes en gaza",
+        "position": [
+          1534,
+          1730
+        ],
+        "start": 1534,
+        "end": 1730
+      },
+      {
+        "category": "ORGANISMOS_INTERNACIONALES",
+        "matched_text": "organización de las naciones unidas",
+        "position": [
+          1633,
+          1668
+        ],
+        "start": 1633,
+        "end": 1668
+      },
+      {
+        "category": "GRUPOS_ESPECIFICOS",
+        "matched_text": "mujeres",
+        "position": [
+          1198,
+          1205
+        ],
+        "start": 1198,
+        "end": 1205
+      },
+      {
+        "category": "INSTITUCIONES_EDUCATIVAS",
+        "matched_text": "universidad de londres",
+        "position": [
+          366,
+          388
+        ],
+        "start": 366,
+        "end": 388
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "universidad",
+        "position": [
+          366,
+          377
+        ],
+        "start": 366,
+        "end": 377
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "israelí",
+        "position": [
+          95,
+          102
+        ],
+        "start": 95,
+        "end": 102
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "universidad de",
+        "position": [
+          366,
+          380
+        ],
+        "start": 366,
+        "end": 380
+      },
+      {
+        "category": "FECHAS_ESPECIFICAS",
+        "matched_text": "7 de octubre de 2023",
+        "position": [
+          266,
+          286
+        ],
+        "start": 266,
+        "end": 286
+      },
+      {
+        "category": "ANTIIMPERIALISMO_SOBERANIA",
+        "matched_text": "embargo",
+        "position": [
+          151,
+          158
+        ],
+        "start": 151,
+        "end": 158
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "200 personas",
+        "position": [
+          780,
+          792
+        ],
+        "start": 780,
+        "end": 792
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "1 millones",
+        "position": [
+          1739,
+          1749
+        ],
+        "start": 1739,
+        "end": 1749
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "75.200 personas",
+        "position": [
+          777,
+          792
+        ],
+        "start": 777,
+        "end": 792
+      }
+    ],
+    "match_count": 17
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Franja de Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Franja",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Israel",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Universidad de Londres",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Salud",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Michael Spagat",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Ministerio de Salud",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Jalil Shikaki",
+        "tipo": "Persona"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Salud",
+        "relacion": "SE_ALAR",
+        "objeto": "Franja de Gaza"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.9081,
+    "pos": 0.016,
+    "neu": 0.931,
+    "neg": 0.053,
+    "label": "negative"
+  }
+}

@@ -1,0 +1,907 @@
+{
+  "url": "https://www.telesurtv.net/estados-unidos-asesina-15-personas-mas-yemen/",
+  "title": "EE.UU. intensifica ataques en Yemen: 15 civiles heridos tras nuevos bombardeos - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "ataques",
+    "Bombardeo",
+    "Estados Unidos",
+    "Palestina",
+    "víctimas civiles",
+    "Yemen"
+  ],
+  "text": "Una nueva ofensiva aérea de Estados Unidos sobre Yemen ha dejado al menos 15 civiles heridos en las últimas horas, incluyendo un ataque directo a una zona comercial en Saná, la capital del país. Según el Ministerio de Salud yemení, uno de los bombardeos se dirigió al distrito de Shuab, donde varias tiendas resultaron dañadas y 14 personas también sufrieron heridas.\nLos ataques, realizados en la madrugada de este lunes 5 de mayo también sacudieron otros distritos densamente poblados de Saná, como Bani Matar, Bani Hushaysh y Bani Al-Harith. En este último, se reportó al menos un herido adicional. Las autoridades yemeníes han condenado estas acciones, calificándolas de violaciones graves del derecho internacional humanitario y de la Carta de las Naciones Unidas.\nAdemás de la capital, aviones de combate estadounidenses bombardearon la ciudad de Saada, en el noroeste del país, una de las regiones más golpeadas por la campaña militar de Washington. También se registraron ataques en zonas de las gobernaciones de Marib y Al-Jawf.\nEstas nuevas agresiones se producen tras una operación misilística de Yemen contra los territorios ocupados palestinos, que alcanzó el aeropuerto Ben Gurion de Israel el pasado domingo, causando al menos ocho heridos y obligando a suspender numerosos vuelos. El ejército israelí admitió que no logró interceptar el misil yemení, el cual describieron como balístico e hipersónico.\nComo principal aliado de Israel, Estados Unidos ha escalado sus bombardeos sobre Yemen desde el 15 de marzo, intentando quebrar el bloqueo marítimo y aéreo que Saná ha impuesto al régimen israelí. El portavoz del Consejo de Seguridad Nacional de EE.UU., James Hewitt, reveló que su ejército ha llevado a cabo más de mil ataques y aseguró que continuarán en coordinación con el gobierno sionista de Tel Aviv.\nEn respuesta, las autoridades yemeníes han reiterado su compromiso de seguir atacando objetivos israelíes y buques vinculados al régimen en el mar Rojo, hasta que cesen los bombardeos sobre la Franja de Gaza y se levante el bloqueo total que pesa sobre el enclave palestino desde octubre de 2023.\n",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/estados-unidos-asesina-15-personas-mas-yemen/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-05.json",
+    "message_index": 1765,
+    "message_id": 93403,
+    "date": "2025-05-05T14:55:07+00:00",
+    "text": "teleSUR\nEE.UU. intensifica ataques en Yemen: 15 civiles heridos tras nuevos bombardeos\nhttps://www.telesurtv.net/estados-unidos-asesina-15-personas-mas-yemen/",
+    "photo_path": null,
+    "views": 2099,
+    "reactions": {
+      "🤬": 40,
+      "😈": 2
+    },
+    "total_reactions": 42
+  },
+  "preprocessing": {
+    "cleaned": "una nueva ofensiva aérea de estados unidos sobre yemen ha dejado al menos 15 civiles heridos en las últimas horas, incluyendo un ataque directo a una zona comercial en saná, la capital del país. según el ministerio de salud yemení, uno de los bombardeos se dirigió al distrito de shuab, donde varias tiendas resultaron dañadas y 14 personas también sufrieron heridas. los ataques, realizados en la madrugada de este lunes 5 de mayo también sacudieron otros distritos densamente poblados de saná, como bani matar, bani hushaysh y bani al-harith. en este último, se reportó al menos un herido adicional. las autoridades yemeníes han condenado estas acciones, calificándolas de violaciones graves del derecho internacional humanitario y de la carta de las naciones unidas. además de la capital, aviones de combate estadounidenses bombardearon la ciudad de saada, en el noroeste del país, una de las regiones más golpeadas por la campaña militar de washington. también se registraron ataques en zonas de las gobernaciones de marib y al-jawf. estas nuevas agresiones se producen tras una operación misilística de yemen contra los territorios ocupados palestinos, que alcanzó el aeropuerto ben gurion de israel el pasado domingo, causando al menos ocho heridos y obligando a suspender numerosos vuelos. el ejército israelí admitió que no logró interceptar el misil yemení, el cual describieron como balístico e hipersónico. como principal aliado de israel, estados unidos ha escalado sus bombardeos sobre yemen desde el 15 de marzo, intentando quebrar el bloqueo marítimo y aéreo que saná ha impuesto al régimen israelí. el portavoz del consejo de seguridad nacional de ee.uu., james hewitt, reveló que su ejército ha llevado a cabo más de mil ataques y aseguró que continuarán en coordinación con el gobierno sionista de tel aviv. en respuesta, las autoridades yemeníes han reiterado su compromiso de seguir atacando objetivos israelíes y buques vinculados al régimen en el mar rojo, hasta que cesen los bombardeos sobre la franja de gaza y se levante el bloqueo total que pesa sobre el enclave palestino desde octubre de 2023.",
+    "tokens": [
+      "nueva",
+      "ofensiva",
+      "aérea",
+      "unidos",
+      "yemen",
+      "dejado",
+      "menos",
+      "15",
+      "civiles",
+      "heridos",
+      "últimas",
+      "horas",
+      ",",
+      "incluyendo",
+      "ataque",
+      "directo",
+      "zona",
+      "comercial",
+      "saná",
+      ",",
+      "capital",
+      "país",
+      ".",
+      "según",
+      "ministerio",
+      "salud",
+      "yemení",
+      ",",
+      "bombardeos",
+      "dirigió",
+      "distrito",
+      "shuab",
+      ",",
+      "varias",
+      "tiendas",
+      "resultaron",
+      "dañadas",
+      "14",
+      "personas",
+      "sufrieron",
+      "heridas",
+      ".",
+      "ataques",
+      ",",
+      "realizados",
+      "madrugada",
+      "lunes",
+      "5",
+      "mayo",
+      "sacudieron",
+      "distritos",
+      "densamente",
+      "poblados",
+      "saná",
+      ",",
+      "bani",
+      "matar",
+      ",",
+      "bani",
+      "hushaysh",
+      "bani",
+      "al-harith",
+      ".",
+      "último",
+      ",",
+      "reportó",
+      "menos",
+      "herido",
+      "adicional",
+      ".",
+      "autoridades",
+      "yemeníes",
+      "condenado",
+      "acciones",
+      ",",
+      "calificándolas",
+      "violaciones",
+      "graves",
+      "derecho",
+      "internacional",
+      "humanitario",
+      "carta",
+      "naciones",
+      "unidas",
+      ".",
+      "además",
+      "capital",
+      ",",
+      "aviones",
+      "combate",
+      "estadounidenses",
+      "bombardearon",
+      "ciudad",
+      "saada",
+      ",",
+      "noroeste",
+      "país",
+      ",",
+      "regiones",
+      "golpeadas",
+      "campaña",
+      "militar",
+      "washington",
+      ".",
+      "registraron",
+      "ataques",
+      "zonas",
+      "gobernaciones",
+      "marib",
+      "al-jawf",
+      ".",
+      "nuevas",
+      "agresiones",
+      "producen",
+      "tras",
+      "operación",
+      "misilística",
+      "yemen",
+      "territorios",
+      "ocupados",
+      "palestinos",
+      ",",
+      "alcanzó",
+      "aeropuerto",
+      "ben",
+      "gurion",
+      "israel",
+      "pasado",
+      "domingo",
+      ",",
+      "causando",
+      "menos",
+      "ocho",
+      "heridos",
+      "obligando",
+      "suspender",
+      "numerosos",
+      "vuelos",
+      ".",
+      "ejército",
+      "israelí",
+      "admitió",
+      "logró",
+      "interceptar",
+      "misil",
+      "yemení",
+      ",",
+      "describieron",
+      "balístico",
+      "hipersónico",
+      ".",
+      "principal",
+      "aliado",
+      "israel",
+      ",",
+      "unidos",
+      "escalado",
+      "bombardeos",
+      "yemen",
+      "15",
+      "marzo",
+      ",",
+      "intentando",
+      "quebrar",
+      "bloqueo",
+      "marítimo",
+      "aéreo",
+      "saná",
+      "impuesto",
+      "régimen",
+      "israelí",
+      ".",
+      "portavoz",
+      "consejo",
+      "seguridad",
+      "nacional",
+      "ee.uu.",
+      ",",
+      "james",
+      "hewitt",
+      ",",
+      "reveló",
+      "ejército",
+      "llevado",
+      "cabo",
+      "mil",
+      "ataques",
+      "aseguró",
+      "continuarán",
+      "coordinación",
+      "gobierno",
+      "sionista",
+      "tel",
+      "aviv",
+      ".",
+      "respuesta",
+      ",",
+      "autoridades",
+      "yemeníes",
+      "reiterado",
+      "compromiso",
+      "seguir",
+      "atacando",
+      "objetivos",
+      "israelíes",
+      "buques",
+      "vinculados",
+      "régimen",
+      "mar",
+      "rojo",
+      ",",
+      "cesen",
+      "bombardeos",
+      "franja",
+      "gaza",
+      "levante",
+      "bloqueo",
+      "total",
+      "pesa",
+      "enclave",
+      "palestino",
+      "octubre",
+      "2023",
+      "."
+    ],
+    "token_count": 224,
+    "sentence_count": 12
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 60,
+      "CC": 1,
+      "JJ": 38,
+      "NN": 112,
+      "IN": 26,
+      "VBD": 3,
+      "NNS": 25,
+      "CD": 4,
+      "RB": 1,
+      "VBP": 16,
+      "FW": 33,
+      "VBZ": 1,
+      "VB": 2,
+      "MD": 1,
+      "DT": 1
+    },
+    "bigram_freq": {
+      "NNP-CC": 1,
+      "CC-JJ": 1,
+      "JJ-NN": 23,
+      "NN-IN": 16,
+      "IN-NNP": 11,
+      "NNP-NNP": 24,
+      "NNP-VBD": 2,
+      "VBD-NNP": 1,
+      "VBD-JJ": 1,
+      "JJ-JJ": 7,
+      "JJ-NNS": 2,
+      "NNS-CD": 1,
+      "CD-NNS": 1,
+      "NNS-RB": 1,
+      "RB-VBP": 1,
+      "VBP-JJ": 11,
+      "JJ-NNP": 4,
+      "NNP-FW": 7,
+      "FW-NN": 9,
+      "NN-JJ": 4,
+      "NN-NN": 61,
+      "NNP-NN": 16,
+      "NN-NNP": 11,
+      "NNP-IN": 5,
+      "IN-FW": 8,
+      "FW-JJ": 5,
+      "NN-VBP": 3,
+      "VBP-NN": 2,
+      "NN-CD": 1,
+      "CD-NN": 1,
+      "NNP-VBZ": 1,
+      "VBZ-VB": 1,
+      "VB-JJ": 2,
+      "JJ-FW": 2,
+      "FW-FW": 9,
+      "FW-NNS": 4,
+      "NNS-IN": 4,
+      "NN-NNS": 10,
+      "NNS-VBP": 12,
+      "FW-NNP": 6,
+      "IN-NNS": 4,
+      "NNS-JJ": 2,
+      "NNP-NNS": 1,
+      "NNS-NNS": 3,
+      "NNS-FW": 2,
+      "NN-FW": 4,
+      "VBP-FW": 1,
+      "NNP-MD": 1,
+      "MD-VB": 1,
+      "NNP-JJ": 2,
+      "VBP-NNP": 2,
+      "NN-DT": 1,
+      "DT-JJ": 1,
+      "NN-VBD": 1,
+      "VBD-CD": 1,
+      "CD-IN": 1,
+      "IN-JJ": 2,
+      "IN-CD": 1
+    },
+    "trigram_freq": {
+      "NNP-CC-JJ": 1,
+      "CC-JJ-NN": 1,
+      "JJ-NN-IN": 7,
+      "NN-IN-NNP": 7,
+      "IN-NNP-NNP": 8,
+      "NNP-NNP-VBD": 1,
+      "NNP-VBD-NNP": 1,
+      "VBD-NNP-VBD": 1,
+      "NNP-VBD-JJ": 1,
+      "VBD-JJ-JJ": 1,
+      "JJ-JJ-NNS": 1,
+      "JJ-NNS-CD": 1,
+      "NNS-CD-NNS": 1,
+      "CD-NNS-RB": 1,
+      "NNS-RB-VBP": 1,
+      "RB-VBP-JJ": 1,
+      "VBP-JJ-NNP": 1,
+      "JJ-NNP-FW": 1,
+      "NNP-FW-NN": 3,
+      "FW-NN-JJ": 2,
+      "NN-JJ-NN": 1,
+      "JJ-NN-NN": 10,
+      "NN-NN-JJ": 2,
+      "NN-JJ-NNP": 2,
+      "JJ-NNP-NN": 2,
+      "NNP-NN-NN": 12,
+      "NN-NN-NNP": 7,
+      "NN-NNP-NNP": 3,
+      "NNP-NNP-NN": 6,
+      "NN-NN-NN": 35,
+      "NN-NNP-NN": 4,
+      "NNP-NN-NNP": 3,
+      "NN-NNP-IN": 2,
+      "NNP-IN-NNP": 3,
+      "NNP-NNP-NNP": 11,
+      "NNP-NNP-IN": 3,
+      "NNP-IN-FW": 2,
+      "IN-FW-JJ": 4,
+      "FW-JJ-NN": 5,
+      "NN-NN-IN": 9,
+      "IN-NNP-NN": 1,
+      "NN-NN-VBP": 3,
+      "NN-VBP-NN": 2,
+      "VBP-NN-NN": 2,
+      "NN-NN-CD": 1,
+      "NN-CD-NN": 1,
+      "CD-NN-NN": 1,
+      "NN-NNP-VBZ": 1,
+      "NNP-VBZ-VB": 1,
+      "VBZ-VB-JJ": 1,
+      "VB-JJ-FW": 1,
+      "JJ-FW-FW": 2,
+      "FW-FW-FW": 3,
+      "FW-FW-NNS": 2,
+      "FW-NNS-IN": 2,
+      "NNS-IN-FW": 1,
+      "JJ-NN-NNS": 5,
+      "NN-NNS-VBP": 7,
+      "NNS-VBP-JJ": 9,
+      "VBP-JJ-FW": 1,
+      "FW-FW-NNP": 2,
+      "FW-NNP-NN": 1,
+      "NN-IN-NNS": 3,
+      "IN-NNS-JJ": 1,
+      "NNS-JJ-JJ": 2,
+      "JJ-JJ-JJ": 1,
+      "JJ-JJ-NNP": 1,
+      "JJ-NNP-NNS": 1,
+      "NNP-NNS-VBP": 1,
+      "VBP-JJ-NN": 6,
+      "NN-NNS-NNS": 1,
+      "NNS-NNS-NNS": 1,
+      "NNS-NNS-IN": 1,
+      "NNS-IN-NNS": 1,
+      "IN-NNS-NNS": 1,
+      "NNS-NNS-VBP": 1,
+      "VBP-JJ-JJ": 2,
+      "JJ-JJ-NN": 4,
+      "NN-IN-FW": 4,
+      "IN-FW-NNP": 1,
+      "FW-NNP-FW": 3,
+      "NNP-FW-FW": 2,
+      "FW-NNP-NNP": 2,
+      "IN-FW-NN": 1,
+      "FW-NN-NNS": 3,
+      "NN-NNS-FW": 1,
+      "NNS-FW-NN": 1,
+      "IN-NNP-FW": 1,
+      "FW-FW-NN": 2,
+      "FW-NN-FW": 3,
+      "NN-FW-NN": 2,
+      "FW-NN-NN": 1,
+      "IN-FW-NNS": 2,
+      "FW-NNS-FW": 1,
+      "NNS-FW-FW": 1,
+      "NN-FW-JJ": 1,
+      "NNP-NNP-FW": 2,
+      "NNS-VBP-FW": 1,
+      "VBP-FW-FW": 1,
+      "NNS-IN-NNP": 1,
+      "NNP-NNP-MD": 1,
+      "NNP-MD-VB": 1,
+      "MD-VB-JJ": 1,
+      "VB-JJ-NN": 1,
+      "NN-NNS-JJ": 1,
+      "IN-NNP-JJ": 1,
+      "NNP-JJ-NN": 2,
+      "IN-NNS-VBP": 2,
+      "NNS-VBP-NNP": 2,
+      "VBP-NNP-NN": 2,
+      "NN-NN-DT": 1,
+      "NN-DT-JJ": 1,
+      "DT-JJ-NN": 1,
+      "NN-VBP-JJ": 1,
+      "NN-NNP-JJ": 1,
+      "NNP-NN-VBD": 1,
+      "NN-VBD-CD": 1,
+      "VBD-CD-IN": 1,
+      "CD-IN-FW": 1,
+      "NNP-FW-NNP": 2,
+      "FW-NNS-VBP": 1,
+      "NN-IN-JJ": 1,
+      "IN-JJ-NN": 2,
+      "NN-NN-NNS": 2,
+      "VBP-JJ-NNS": 1,
+      "JJ-NNS-IN": 1,
+      "NNS-IN-JJ": 1,
+      "JJ-NN-NNP": 1,
+      "NN-NN-FW": 1,
+      "NN-FW-NNP": 1,
+      "NN-JJ-JJ": 1,
+      "NN-IN-CD": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 112,
+        "NNP": 60,
+        "JJ": 38,
+        "FW": 33,
+        "IN": 26
+      },
+      "top_bigrams": {
+        "NN-NN": 61,
+        "NNP-NNP": 24,
+        "JJ-NN": 23,
+        "NN-IN": 16,
+        "NNP-NN": 16
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 35,
+        "NNP-NN-NN": 12,
+        "NNP-NNP-NNP": 11,
+        "JJ-NN-NN": 10,
+        "NN-NN-IN": 9
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 12,
+    "chunk_counts": {
+      "NP": 95,
+      "PP": 15,
+      "VP": 22,
+      "ADJP": 1
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 11,
+        "weight": 0.0759
+      },
+      {
+        "rule": "NP -> ('Yemen', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0138
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0138
+      },
+      {
+        "rule": "S -> NP ('nueva', 'CC') NP PP VP VP ('15', 'CD') NP ('heridos', 'RB') VP (',', ',') NP VP (',', ',') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0069
+      },
+      {
+        "rule": "NP -> ('Una', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0069
+      },
+      {
+        "rule": "NP -> ('ofensiva', 'JJ') ('aérea', 'NN')",
+        "frequency": 1,
+        "weight": 0.0069
+      },
+      {
+        "rule": "NP -> ('Estados', 'NNP') ('Unidos', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0069
+      },
+      {
+        "rule": "VP -> ('sobre', 'VBD') NP",
+        "frequency": 1,
+        "weight": 0.0069
+      },
+      {
+        "rule": "VP -> ('ha', 'VBD') NP",
+        "frequency": 1,
+        "weight": 0.0069
+      },
+      {
+        "rule": "NP -> ('dejado', 'JJ') ('al', 'JJ') ('menos', 'NNS')",
+        "frequency": 1,
+        "weight": 0.0069
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Una"
+      },
+      {
+        "label": "NP",
+        "text": "ofensiva aérea"
+      },
+      {
+        "label": "PP",
+        "text": "de Estados Unidos"
+      },
+      {
+        "label": "NP",
+        "text": "Estados Unidos"
+      },
+      {
+        "label": "VP",
+        "text": "sobre Yemen"
+      },
+      {
+        "label": "NP",
+        "text": "Yemen"
+      },
+      {
+        "label": "VP",
+        "text": "ha dejado al menos"
+      },
+      {
+        "label": "NP",
+        "text": "dejado al menos"
+      },
+      {
+        "label": "NP",
+        "text": "civiles"
+      },
+      {
+        "label": "VP",
+        "text": "en las últimas horas"
+      },
+      {
+        "label": "NP",
+        "text": "las últimas horas"
+      },
+      {
+        "label": "NP",
+        "text": "incluyendo un ataque"
+      },
+      {
+        "label": "VP",
+        "text": "directo a una zona comercial en Saná"
+      },
+      {
+        "label": "NP",
+        "text": "a una zona"
+      },
+      {
+        "label": "NP",
+        "text": "comercial en Saná"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Una/NNP)\n  nueva/CC\n  (NP ofensiva/JJ aérea/NN)\n  (PP de/IN (NP Estados/NNP Unidos/NNP))\n  (VP sobre/VBD (NP Yemen/NNP))\n  (VP ha/VBD (NP dejado/JJ al/JJ menos/NNS))\n  15/CD\n  (NP civiles/NNS)\n  heridos/RB\n  (VP en/VBP (NP las/JJ últimas/NNP horas/NN))\n  ,/,\n  (NP incluyendo/JJ un/JJ ataque/NN)\n  (VP\n    directo/VBZ\n    (NP a/DT una/JJ zona/NN)\n    (NP comercial/JJ en/NN Saná/NNP))\n  ,/,\n  (NP la/JJ capital/NN del/NN país/NN)\n  ./.)",
+      "(S\n  (NP Según/NNP)\n  el/CC\n  (NP Ministerio/NNP)\n  (PP de/IN (NP Salud/NNP yemení/NN))\n  ,/,\n  uno/FW\n  de/FW\n  los/FW\n  bombardeos/FW\n  se/FW\n  dirigió/FW\n  al/FW\n  distrito/FW\n  de/FW\n  (NP Shuab/NNP)\n  ,/,\n  (NP donde/NN varias/NN)\n  (VP tiendas/VBP (NP resultaron/NN dañadas/NN))\n  y/$\n  14/CD\n  (NP personas/NN también/NN sufrieron/NN heridas/NN)\n  ./.)",
+      "(S\n  (NP Los/NNP ataques/NNS)\n  ,/,\n  (VP realizados/VBP)\n  en/FW\n  la/FW\n  madrugada/FW\n  de/FW\n  este/FW\n  (NP lunes/NNS)\n  5/CD\n  de/IN\n  mayo/FW\n  (NP también/JJ sacudieron/NN otros/NNS)\n  (VP distritos/VBP densamente/JJ)\n  poblados/FW\n  de/FW\n  (NP Saná/NNP)\n  ,/,\n  (NP como/NN Bani/NNP Matar/NNP)\n  ,/,\n  (NP Bani/NNP Hushaysh/NNP)\n  y/PRP\n  (NP Bani/NNP Al-Harith/NNP)\n  ./.)",
+      "(S\n  (NP En/NNP este/NN último/NNP)\n  ,/,\n  (VP\n    se/VBD\n    (NP reportó/JJ al/JJ menos/NNS)\n    (NP un/JJ herido/JJ adicional/NN))\n  ./.)",
+      "(S\n  (NP Las/NNP)\n  (VP\n    autoridades/VBZ\n    (NP yemeníes/JJR han/NN condenado/NN)\n    (NP estas/JJ acciones/NNS))\n  ,/,\n  (NP calificándolas/NNS)\n  (PP de/IN (NP violaciones/NNS graves/NNS))\n  (VP del/VBP (NP derecho/JJ internacional/JJ humanitario/NN y/NN))\n  de/IN\n  la/FW\n  (NP Carta/NNP)\n  de/FW\n  las/FW\n  (NP Naciones/NNP Unidas/NNP)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "RECURSOS_NATURALES",
+      "ORGANISMOS_INTERNACIONALES",
+      "CANTIDADES_NUMERICAS",
+      "ANTIIMPERIALISMO_SOBERANIA",
+      "REGIONES_PROVINCIAS",
+      "PERIODOS_TEMPORALES",
+      "PAISES",
+      "ECONOMIA_COMERCIO_FINANZAS",
+      "INFRAESTRUCTURA_SERVICIOS",
+      "FECHAS_ESPECIFICAS"
+    ],
+    "matches": [
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "impuesto",
+        "position": [
+          1586,
+          1594
+        ],
+        "start": 1586,
+        "end": 1594
+      },
+      {
+        "category": "ECONOMIA_COMERCIO_FINANZAS",
+        "matched_text": "capital",
+        "position": [
+          177,
+          184
+        ],
+        "start": 177,
+        "end": 184
+      },
+      {
+        "category": "ORGANISMOS_INTERNACIONALES",
+        "matched_text": "naciones unidas",
+        "position": [
+          753,
+          768
+        ],
+        "start": 753,
+        "end": 768
+      },
+      {
+        "category": "RECURSOS_NATURALES",
+        "matched_text": "mar",
+        "position": [
+          1969,
+          1972
+        ],
+        "start": 1969,
+        "end": 1972
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "aeropuerto",
+        "position": [
+          1173,
+          1183
+        ],
+        "start": 1173,
+        "end": 1183
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "estados unidos",
+        "position": [
+          28,
+          42
+        ],
+        "start": 28,
+        "end": 42
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "israelí",
+        "position": [
+          1309,
+          1316
+        ],
+        "start": 1309,
+        "end": 1316
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "zona comercial",
+        "position": [
+          150,
+          164
+        ],
+        "start": 150,
+        "end": 164
+      },
+      {
+        "category": "FECHAS_ESPECIFICAS",
+        "matched_text": "lunes 5 de mayo",
+        "position": [
+          416,
+          431
+        ],
+        "start": 416,
+        "end": 431
+      },
+      {
+        "category": "PERIODOS_TEMPORALES",
+        "matched_text": "en la madrugada",
+        "position": [
+          392,
+          407
+        ],
+        "start": 392,
+        "end": 407
+      },
+      {
+        "category": "ANTIIMPERIALISMO_SOBERANIA",
+        "matched_text": "bloqueo",
+        "position": [
+          1549,
+          1556
+        ],
+        "start": 1549,
+        "end": 1556
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "14 personas",
+        "position": [
+          329,
+          340
+        ],
+        "start": 329,
+        "end": 340
+      }
+    ],
+    "match_count": 12
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "James Hewitt",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Franja de Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Saada",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Shuab",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Tel Aviv",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Carta de las Naciones Unidas",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Saná",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Consejo de Seguridad Nacional de EE.UU.",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Yemen",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Estados Unidos",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "mar Rojo",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Bani Al-Harith",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Bani Matar",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Bani Hushaysh",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "aeropuerto Ben Gurion",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Washington",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Marib",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Israel",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Al-Jawf",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Estados Unidos",
+        "relacion": "DEJAR",
+        "objeto": "Saná"
+      },
+      {
+        "sujeto": "Yemen",
+        "relacion": "DEJAR",
+        "objeto": "Saná"
+      },
+      {
+        "sujeto": "Estados Unidos",
+        "relacion": "ESCALAR",
+        "objeto": "Israel"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "ESCALAR",
+        "objeto": "Yemen"
+      },
+      {
+        "sujeto": "Saná",
+        "relacion": "ESCALAR",
+        "objeto": "Israel"
+      },
+      {
+        "sujeto": "Estados Unidos",
+        "relacion": "ESCALAR",
+        "objeto": "Yemen"
+      },
+      {
+        "sujeto": "Estados Unidos",
+        "relacion": "ESCALAR",
+        "objeto": "Saná"
+      },
+      {
+        "sujeto": "Saná",
+        "relacion": "ESCALAR",
+        "objeto": "Yemen"
+      },
+      {
+        "sujeto": "Consejo de Seguridad Nacional de EE.UU.",
+        "relacion": "REVELAR",
+        "objeto": "Tel Aviv"
+      },
+      {
+        "sujeto": "James Hewitt",
+        "relacion": "REVELAR",
+        "objeto": "Tel Aviv"
+      },
+      {
+        "sujeto": "mar Rojo",
+        "relacion": "ATACAR_SEGUIR_REITERAR",
+        "objeto": "Franja de Gaza"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.6369,
+    "pos": 0.029,
+    "neu": 0.958,
+    "neg": 0.013,
+    "label": "positive"
+  }
+}

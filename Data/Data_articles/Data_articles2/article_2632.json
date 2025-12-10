@@ -1,0 +1,678 @@
+{
+  "url": "https://www.telesurtv.net/eleccion-papal-ultiman-detalles-para-celebracion-del-conclave-en-la-capilla-sixtina/",
+  "title": "Elección papal: Ultiman detalles para celebración del cónclave en la capilla Sixtina - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Capilla Sixtina",
+    "Cónclave",
+    "fumata blanca",
+    "pontífice"
+  ],
+  "text": "\nCon miras a la celebración del cónclave programado para el próximo miércoles 7 de mayo, se están ultimando los preparativos en la Capilla Sixtina del Vaticano, el recinto que acogerá al Colegio de Cardenales para la elección de un nuevo pontífice.\nLa oficina de prensa de la Santa Sede informó que los trabajadores han instalado en el lugar dos estufas y una chimenea, que en días posteriores enviará la esperada señal de humo blanco, la cual indicará al mundo que se ha designado un sucesor del recientemente fallecido papa Francisco.\nEn caso de que no se haya alcanzado un consenso, el humo emitido será de color negro, hecho que se llevará a cabo por un control electrónico.\nNo obstante, será necesaria la presencia de un especialista que controle la producción del humo, en caso de algún imprevisto.\nAsimismo, se dispondrá una plataforma que nivelará el suelo de mármol, proporcionando uniformidad y facilitando el acceso al recinto para los 133 cardenales convocados a las votaciones. Además, se instalarán mesas y bancos, así como asientos con los nombres identificativos de cada uno de los participantes.\nPor otro lado, la ambientación también recibirá especial atención, ya que los detalles decorativos relacionados con la floristería serán gestionados por el equipo floral del Vaticano, encargado de todos los elementos decorativos del balcón de la logia central de la basílica de San Pedro.\nEl proceso electoral constará de cuatro votaciones diarias, dos por la mañana y dos por la tarde. Después de la 33ª o 34ª votación, si es necesario, se llevará a cabo una segunda vuelta directa y obligatoria entre los dos cardenales que hayan obtenido más votos en la última ronda. Sin embargo, siempre será requerida una mayoría de dos tercios.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/eleccion-papal-ultiman-detalles-para-celebracion-del-conclave-en-la-capilla-sixtina/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-05.json",
+    "message_index": 1783,
+    "message_id": 93384,
+    "date": "2025-05-05T06:55:07+00:00",
+    "text": "teleSUR\nElección papal: Ultiman detalles para celebración del Cónclave en la capilla Sixtina\nhttps://www.telesurtv.net/eleccion-papal-ultiman-detalles-para-celebracion-del-conclave-en-la-capilla-sixtina/",
+    "photo_path": null,
+    "views": 2102,
+    "reactions": {
+      "👍": 31,
+      "💩": 2,
+      "👏": 1
+    },
+    "total_reactions": 34
+  },
+  "preprocessing": {
+    "cleaned": "con miras a la celebración del cónclave programado para el próximo miércoles 7 de mayo, se están ultimando los preparativos en la capilla sixtina del vaticano, el recinto que acogerá al colegio de cardenales para la elección de un nuevo pontífice. la oficina de prensa de la santa sede informó que los trabajadores han instalado en el lugar dos estufas y una chimenea, que en días posteriores enviará la esperada señal de humo blanco, la cual indicará al mundo que se ha designado un sucesor del recientemente fallecido papa francisco. en caso de que no se haya alcanzado un consenso, el humo emitido será de color negro, hecho que se llevará a cabo por un control electrónico. no obstante, será necesaria la presencia de un especialista que controle la producción del humo, en caso de algún imprevisto. asimismo, se dispondrá una plataforma que nivelará el suelo de mármol, proporcionando uniformidad y facilitando el acceso al recinto para los 133 cardenales convocados a las votaciones. además, se instalarán mesas y bancos, así como asientos con los nombres identificativos de cada uno de los participantes. por otro lado, la ambientación también recibirá especial atención, ya que los detalles decorativos relacionados con la floristería serán gestionados por el equipo floral del vaticano, encargado de todos los elementos decorativos del balcón de la logia central de la basílica de san pedro. el proceso electoral constará de cuatro votaciones diarias, dos por la mañana y dos por la tarde. después de la 33ª o 34ª votación, si es necesario, se llevará a cabo una segunda vuelta directa y obligatoria entre los dos cardenales que hayan obtenido más votos en la última ronda. sin embargo, siempre será requerida una mayoría de dos tercios.",
+    "tokens": [
+      "miras",
+      "celebración",
+      "cónclave",
+      "programado",
+      "próximo",
+      "miércoles",
+      "7",
+      "mayo",
+      ",",
+      "ultimando",
+      "preparativos",
+      "capilla",
+      "sixtina",
+      "vaticano",
+      ",",
+      "recinto",
+      "acogerá",
+      "colegio",
+      "cardenales",
+      "elección",
+      "nuevo",
+      "pontífice",
+      ".",
+      "oficina",
+      "prensa",
+      "santa",
+      "sede",
+      "informó",
+      "trabajadores",
+      "instalado",
+      "lugar",
+      "dos",
+      "estufas",
+      "chimenea",
+      ",",
+      "días",
+      "posteriores",
+      "enviará",
+      "esperada",
+      "señal",
+      "humo",
+      "blanco",
+      ",",
+      "indicará",
+      "mundo",
+      "designado",
+      "sucesor",
+      "recientemente",
+      "fallecido",
+      "papa",
+      "francisco",
+      ".",
+      "caso",
+      "alcanzado",
+      "consenso",
+      ",",
+      "humo",
+      "emitido",
+      "color",
+      "negro",
+      ",",
+      "hecho",
+      "llevará",
+      "cabo",
+      "control",
+      "electrónico",
+      ".",
+      "obstante",
+      ",",
+      "necesaria",
+      "presencia",
+      "especialista",
+      "controle",
+      "producción",
+      "humo",
+      ",",
+      "caso",
+      "algún",
+      "imprevisto",
+      ".",
+      "asimismo",
+      ",",
+      "dispondrá",
+      "plataforma",
+      "nivelará",
+      "suelo",
+      "mármol",
+      ",",
+      "proporcionando",
+      "uniformidad",
+      "facilitando",
+      "acceso",
+      "recinto",
+      "133",
+      "cardenales",
+      "convocados",
+      "votaciones",
+      ".",
+      "además",
+      ",",
+      "instalarán",
+      "mesas",
+      "bancos",
+      ",",
+      "así",
+      "asientos",
+      "nombres",
+      "identificativos",
+      "cada",
+      "participantes",
+      ".",
+      "lado",
+      ",",
+      "ambientación",
+      "recibirá",
+      "especial",
+      "atención",
+      ",",
+      "detalles",
+      "decorativos",
+      "relacionados",
+      "floristería",
+      "gestionados",
+      "equipo",
+      "floral",
+      "vaticano",
+      ",",
+      "encargado",
+      "elementos",
+      "decorativos",
+      "balcón",
+      "logia",
+      "central",
+      "basílica",
+      "san",
+      "pedro",
+      ".",
+      "proceso",
+      "electoral",
+      "constará",
+      "cuatro",
+      "votaciones",
+      "diarias",
+      ",",
+      "dos",
+      "mañana",
+      "dos",
+      "tarde",
+      ".",
+      "después",
+      "33ª",
+      "34ª",
+      "votación",
+      ",",
+      "si",
+      "necesario",
+      ",",
+      "llevará",
+      "cabo",
+      "segunda",
+      "vuelta",
+      "directa",
+      "obligatoria",
+      "dos",
+      "cardenales",
+      "obtenido",
+      "votos",
+      "última",
+      "ronda",
+      ".",
+      "embargo",
+      ",",
+      "siempre",
+      "requerida",
+      "mayoría",
+      "dos",
+      "tercios",
+      "."
+    ],
+    "token_count": 178,
+    "sentence_count": 10
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 23,
+      "NNS": 13,
+      "VBP": 12,
+      "JJ": 33,
+      "NN": 115,
+      "VBN": 1,
+      "IN": 10,
+      "FW": 59,
+      "CC": 1,
+      "DT": 2,
+      "VBZ": 2,
+      "VBD": 2,
+      "CD": 3
+    },
+    "bigram_freq": {
+      "NNP-NNS": 1,
+      "NNS-VBP": 9,
+      "VBP-JJ": 8,
+      "JJ-NN": 23,
+      "NN-VBP": 2,
+      "VBP-VBN": 1,
+      "VBN-NN": 1,
+      "NN-NN": 72,
+      "NN-NNS": 7,
+      "NNS-IN": 1,
+      "IN-FW": 9,
+      "FW-FW": 31,
+      "FW-JJ": 6,
+      "NN-IN": 8,
+      "FW-NNP": 6,
+      "NNP-NNP": 7,
+      "NNP-FW": 6,
+      "FW-NN": 11,
+      "NN-JJ": 12,
+      "JJ-NNP": 3,
+      "NNP-CC": 1,
+      "CC-JJ": 1,
+      "JJ-FW": 3,
+      "NN-NNP": 4,
+      "NNP-NN": 5,
+      "NN-FW": 8,
+      "VBP-FW": 2,
+      "FW-DT": 1,
+      "DT-NN": 1,
+      "IN-NN": 1,
+      "NN-VBZ": 1,
+      "VBZ-DT": 1,
+      "DT-JJ": 1,
+      "JJ-JJ": 3,
+      "NN-VBD": 1,
+      "VBD-CD": 1,
+      "CD-NNS": 1,
+      "JJ-NNS": 1,
+      "NNS-NNP": 2,
+      "NNP-VBD": 1,
+      "VBD-JJ": 1,
+      "VBP-IN": 1,
+      "FW-NNS": 3,
+      "NNP-VBP": 1,
+      "NNP-VBZ": 1,
+      "VBZ-JJ": 1,
+      "FW-CD": 1,
+      "CD-CD": 1,
+      "CD-NN": 1
+    },
+    "trigram_freq": {
+      "NNP-NNS-VBP": 1,
+      "NNS-VBP-JJ": 6,
+      "VBP-JJ-NN": 6,
+      "JJ-NN-VBP": 1,
+      "NN-VBP-VBN": 1,
+      "VBP-VBN-NN": 1,
+      "VBN-NN-NN": 1,
+      "NN-NN-NN": 46,
+      "NN-NN-NNS": 5,
+      "NN-NNS-IN": 1,
+      "NNS-IN-FW": 1,
+      "IN-FW-FW": 2,
+      "FW-FW-FW": 20,
+      "FW-FW-JJ": 3,
+      "FW-JJ-NN": 4,
+      "JJ-NN-NN": 16,
+      "NN-NN-IN": 3,
+      "NN-IN-FW": 7,
+      "IN-FW-NNP": 2,
+      "FW-NNP-NNP": 3,
+      "NNP-NNP-FW": 3,
+      "NNP-FW-NNP": 2,
+      "FW-NNP-FW": 1,
+      "NNP-FW-NN": 1,
+      "FW-NN-NN": 3,
+      "NN-NN-JJ": 11,
+      "NN-JJ-NNP": 2,
+      "JJ-NNP-FW": 1,
+      "FW-NNP-CC": 1,
+      "NNP-CC-JJ": 1,
+      "CC-JJ-FW": 1,
+      "JJ-FW-FW": 3,
+      "FW-FW-NN": 4,
+      "FW-NN-NNP": 1,
+      "NN-NNP-NNP": 2,
+      "NNP-FW-FW": 2,
+      "FW-FW-NNP": 2,
+      "NNP-NNP-NN": 2,
+      "NNP-NN-NN": 3,
+      "NN-NNS-VBP": 6,
+      "VBP-JJ-FW": 1,
+      "NN-NN-FW": 4,
+      "NN-FW-NN": 5,
+      "FW-NN-NNS": 1,
+      "NNS-VBP-FW": 2,
+      "VBP-FW-FW": 2,
+      "FW-NN-FW": 3,
+      "NN-FW-JJ": 1,
+      "NN-JJ-NN": 8,
+      "NN-NN-NNP": 1,
+      "NNP-NN-IN": 1,
+      "IN-FW-DT": 1,
+      "FW-DT-NN": 1,
+      "DT-NN-NN": 1,
+      "NN-IN-NN": 1,
+      "IN-NN-NN": 1,
+      "JJ-NN-VBZ": 1,
+      "NN-VBZ-DT": 1,
+      "VBZ-DT-JJ": 1,
+      "DT-JJ-NN": 1,
+      "JJ-NN-NNS": 1,
+      "NN-FW-FW": 2,
+      "FW-NN-IN": 2,
+      "IN-FW-JJ": 2,
+      "FW-JJ-NNP": 1,
+      "JJ-NNP-NN": 1,
+      "NN-JJ-JJ": 2,
+      "JJ-JJ-NN": 2,
+      "JJ-NN-IN": 2,
+      "IN-FW-NN": 1,
+      "FW-NN-JJ": 1,
+      "NN-NN-VBD": 1,
+      "NN-VBD-CD": 1,
+      "VBD-CD-NNS": 1,
+      "CD-NNS-VBP": 1,
+      "VBP-JJ-NNS": 1,
+      "JJ-NNS-NNP": 1,
+      "NNS-NNP-VBD": 1,
+      "NNP-VBD-JJ": 1,
+      "VBD-JJ-NN": 1,
+      "NNS-VBP-IN": 1,
+      "VBP-IN-FW": 1,
+      "FW-FW-NNS": 2,
+      "FW-NNS-NNP": 1,
+      "NNS-NNP-VBP": 1,
+      "NNP-VBP-JJ": 1,
+      "NN-NN-VBP": 1,
+      "NN-VBP-JJ": 1,
+      "JJ-NN-NNP": 1,
+      "NN-NNP-FW": 1,
+      "FW-JJ-JJ": 1,
+      "JJ-JJ-FW": 1,
+      "NNP-NNP-NNP": 1,
+      "NNP-NNP-VBZ": 1,
+      "NNP-VBZ-JJ": 1,
+      "VBZ-JJ-NN": 1,
+      "JJ-NN-FW": 1,
+      "FW-NNS-VBP": 1,
+      "JJ-NNP-NNP": 1,
+      "NNP-FW-CD": 1,
+      "FW-CD-CD": 1,
+      "CD-CD-NN": 1,
+      "CD-NN-NN": 1,
+      "FW-NNP-NN": 1,
+      "NNP-NN-NNP": 1,
+      "NN-NNP-NN": 1,
+      "IN-FW-NNS": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 115,
+        "FW": 59,
+        "JJ": 33,
+        "NNP": 23,
+        "NNS": 13
+      },
+      "top_bigrams": {
+        "NN-NN": 72,
+        "FW-FW": 31,
+        "JJ-NN": 23,
+        "NN-JJ": 12,
+        "FW-NN": 11
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 46,
+        "FW-FW-FW": 20,
+        "JJ-NN-NN": 16,
+        "NN-NN-JJ": 11,
+        "NN-JJ-NN": 8
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 10,
+    "chunk_counts": {
+      "NP": 70,
+      "VP": 21,
+      "ADJP": 4
+    },
+    "top_rules": [
+      {
+        "rule": "VP -> ('llevará', 'VBZ') NP NP",
+        "frequency": 2,
+        "weight": 0.019
+      },
+      {
+        "rule": "VP -> ('que', 'VBP') NP",
+        "frequency": 2,
+        "weight": 0.019
+      },
+      {
+        "rule": "S -> NP VP VP VP VP ('7', 'CD') NP (',', ',') ('se', 'FW') ('están', 'FW') NP ('en', 'IN') ('la', 'FW') NP ('del', 'FW') NP (',', ',') VP ('de', 'FW') NP ('para', 'CC') ADJP ('elección', 'FW') ('de', 'FW') ('un', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0095
+      },
+      {
+        "rule": "NP -> ('Con', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0095
+      },
+      {
+        "rule": "VP -> ('miras', 'VBZ') NP",
+        "frequency": 1,
+        "weight": 0.0095
+      },
+      {
+        "rule": "NP -> ('a', 'DT') ('la', 'NN') ('celebración', 'NN') ('del', 'NN')",
+        "frequency": 1,
+        "weight": 0.0095
+      },
+      {
+        "rule": "VP -> ('cónclave', 'VBP')",
+        "frequency": 1,
+        "weight": 0.0095
+      },
+      {
+        "rule": "VP -> ('programado', 'VBN') NP",
+        "frequency": 1,
+        "weight": 0.0095
+      },
+      {
+        "rule": "NP -> ('para', 'NN') ('el', 'NN') ('próximo', 'NN')",
+        "frequency": 1,
+        "weight": 0.0095
+      },
+      {
+        "rule": "VP -> ('miércoles', 'VBZ')",
+        "frequency": 1,
+        "weight": 0.0095
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Con"
+      },
+      {
+        "label": "VP",
+        "text": "miras a la celebración del"
+      },
+      {
+        "label": "NP",
+        "text": "a la celebración del"
+      },
+      {
+        "label": "VP",
+        "text": "cónclave"
+      },
+      {
+        "label": "VP",
+        "text": "programado para el próximo"
+      },
+      {
+        "label": "NP",
+        "text": "para el próximo"
+      },
+      {
+        "label": "VP",
+        "text": "miércoles"
+      },
+      {
+        "label": "NP",
+        "text": "de mayo"
+      },
+      {
+        "label": "NP",
+        "text": "ultimando los preparativos"
+      },
+      {
+        "label": "NP",
+        "text": "Capilla Sixtina"
+      },
+      {
+        "label": "NP",
+        "text": "Vaticano"
+      },
+      {
+        "label": "VP",
+        "text": "el recinto que acogerá al Colegio"
+      },
+      {
+        "label": "NP",
+        "text": "recinto que acogerá"
+      },
+      {
+        "label": "NP",
+        "text": "al Colegio"
+      },
+      {
+        "label": "NP",
+        "text": "Cardenales"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Con/NNP)\n  (VP miras/VBZ (NP a/DT la/NN celebración/NN del/NN))\n  (VP cónclave/VBP)\n  (VP programado/VBN (NP para/NN el/NN próximo/NN))\n  (VP miércoles/VBZ)\n  7/CD\n  (NP de/NN mayo/NN)\n  ,/,\n  se/FW\n  están/FW\n  (NP ultimando/JJ los/NN preparativos/NN)\n  en/IN\n  la/FW\n  (NP Capilla/NNP Sixtina/NNP)\n  del/FW\n  (NP Vaticano/NNP)\n  ,/,\n  (VP\n    el/VBZ\n    (NP recinto/NN que/NN acogerá/NN)\n    (NP al/JJ Colegio/NNP))\n  de/FW\n  (NP Cardenales/NNP)\n  para/CC\n  (ADJP la/JJ)\n  elección/FW\n  de/FW\n  un/FW\n  (NP nuevo/JJ pontífice/NN)\n  ./.)",
+      "(S\n  (NP La/NNP)\n  oficina/FW\n  de/FW\n  prensa/FW\n  de/FW\n  la/FW\n  (NP Santa/NNP Sede/NNP informó/NN que/NN los/NN trabajadores/NNS)\n  (VP han/VBP instalado/JJ)\n  en/FW\n  el/FW\n  lugar/FW\n  dos/FW\n  estufas/FW\n  y/FW\n  (NP una/JJ chimenea/NN)\n  ,/,\n  (NP que/NN)\n  en/FW\n  (NP días/NN posteriores/NNS)\n  (VP enviará/VBP)\n  la/FW\n  esperada/FW\n  señal/FW\n  de/FW\n  humo/FW\n  (NP blanco/NN)\n  ,/,\n  la/FW\n  (NP\n    cual/JJ\n    indicará/NN\n    al/NN\n    mundo/NN\n    que/NN\n    se/NN\n    ha/NN\n    designado/NN)\n  (NP\n    un/JJ\n    sucesor/NN\n    del/NN\n    recientemente/NN\n    fallecido/NN\n    papa/NN\n    Francisco/NNP)\n  ./.)",
+      "(S\n  (NP En/NNP caso/NN)\n  de/IN\n  que/FW\n  (NP no/DT se/NN haya/NN alcanzado/NN)\n  (NP un/JJ consenso/NN)\n  ,/,\n  el/FW\n  (NP humo/NN)\n  emitido/FW\n  será/FW\n  de/FW\n  (NP color/NN negro/NN)\n  ,/,\n  (NP hecho/JJ que/NN se/NN)\n  (VP\n    llevará/VBZ\n    (NP a/DT cabo/NN por/NN)\n    (NP un/JJ control/NN electrónico/NN))\n  ./.)",
+      "(S\n  (NP No/DT obstante/NN)\n  ,/,\n  será/FW\n  (NP necesaria/NNS)\n  (VP la/VBP)\n  presencia/FW\n  de/FW\n  un/FW\n  especialista/FW\n  (NP que/JJ controle/NN la/NN)\n  producción/FW\n  (NP del/NN humo/NN)\n  ,/,\n  en/FW\n  caso/FW\n  de/FW\n  algún/FW\n  (NP imprevisto/NN)\n  ./.)",
+      "(S\n  (NP Asimismo/NNP)\n  ,/,\n  (VP\n    se/VBD\n    (NP dispondrá/JJ una/JJ plataforma/NN que/NN)\n    (NP nivelará/JJ el/JJ suelo/NN))\n  de/IN\n  mármol/FW\n  ,/,\n  proporcionando/FW\n  (ADJP uniformidad/JJ)\n  y/FW\n  (NP facilitando/NN)\n  el/FW\n  (NP acceso/NN al/NN recinto/NN para/NN)\n  (VP los/VBD)\n  133/CD\n  (NP cardenales/NNS)\n  (VP convocados/VBP (NP a/DT las/JJ votaciones/NNS))\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "TIEMPO_RELATIVO",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "ANTIIMPERIALISMO_SOBERANIA",
+      "INSTITUCIONES_EDUCATIVAS",
+      "LOCALIZACIONES_ESPECIFICAS",
+      "INFRAESTRUCTURA_SERVICIOS",
+      "FECHAS_ESPECIFICAS"
+    ],
+    "matches": [
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "informó",
+        "position": [
+          287,
+          294
+        ],
+        "start": 287,
+        "end": 294
+      },
+      {
+        "category": "INSTITUCIONES_EDUCATIVAS",
+        "matched_text": "colegio de cardenales",
+        "position": [
+          187,
+          208
+        ],
+        "start": 187,
+        "end": 208
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "colegio",
+        "position": [
+          187,
+          194
+        ],
+        "start": 187,
+        "end": 194
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "colegio de",
+        "position": [
+          187,
+          197
+        ],
+        "start": 187,
+        "end": 197
+      },
+      {
+        "category": "FECHAS_ESPECIFICAS",
+        "matched_text": "miércoles 7 de mayo",
+        "position": [
+          68,
+          87
+        ],
+        "start": 68,
+        "end": 87
+      },
+      {
+        "category": "TIEMPO_RELATIVO",
+        "matched_text": "mañana",
+        "position": [
+          1473,
+          1479
+        ],
+        "start": 1473,
+        "end": 1479
+      },
+      {
+        "category": "TIEMPO_RELATIVO",
+        "matched_text": "recientemente",
+        "position": [
+          497,
+          510
+        ],
+        "start": 497,
+        "end": 510
+      },
+      {
+        "category": "ANTIIMPERIALISMO_SOBERANIA",
+        "matched_text": "embargo",
+        "position": [
+          1688,
+          1695
+        ],
+        "start": 1688,
+        "end": 1695
+      }
+    ],
+    "match_count": 8
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Colegio de Cardenales",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "basílica de San Pedro",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Vaticano",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Santa Sede",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Francisco",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Capilla Sixtina",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Santa Sede",
+        "relacion": "INFORMAR",
+        "objeto": "Francisco"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.6808,
+    "pos": 0.008,
+    "neu": 0.963,
+    "neg": 0.028,
+    "label": "negative"
+  }
+}

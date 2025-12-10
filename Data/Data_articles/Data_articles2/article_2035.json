@@ -1,0 +1,925 @@
+{
+  "url": "https://www.telesurtv.net/comienza-cumbre-de-la-liga-arabe-en-bagdad-irak/",
+  "title": "Comienza cumbre de la Liga Árabe en Bagdad, Irak - teleSUR",
+  "section": "Mundo",
+  "tags": [
+    "Gaza",
+    "Irak",
+    "Liga Árabe"
+  ],
+  "text": "La cumbre número 34 de la Liga Árabe dio inicio este sábado en Bagdad, Irak, donde, ante la escalada de la guerra de exterminio de Israel contra la Franja de Gaza, se prevé que sea adoptada una postura unificada por parte de los Estados participantes en busca de una solución.\nEste evento anual congrega a un total de 22 países miembros en el Palacio de Gobierno de Bagdad, en su 34 edición, donde se confirmó la ausencia del nuevo presidente interino de Siria, Ahmed al Sharaa, quien delegó sus funciones en el ministro de Exteriores, Asaad al Shaibani.\nAntes de abordar los temas de esta convención, los invitados, entre los que se encuentran el presidente del Gobierno español, Pedro Sánchez, y el secretario general de las Naciones Unidas (ONU), António Guterres, fueron recibidos por el primer ministro iraquí, Mohamed Shia al Sudani.\nLa agenda de la Liga incluye la declaración de Gaza como una “zona libre”, aunque no se especifica en qué contexto se plantea, lo que hace que esta afirmación resulte demasiado ambigua, especialmente tras las declaraciones de Benjamín Netanyahu, primer ministro de Israel, quien ha manifestado su intención de transformar la Franja en una nueva ciudad después de reubicar a todos sus habitantes.\nAsimismo, la atención también se centrará en los conflictos, donde los organismos internacionales catalogan la situación como una de las peores crisis humanitarias, alimentarias y migratorias a nivel global como Sudán.\nEsta cumbre representa un preludio a la conferencia programada para el próximo junio en Riad, copresidida por Francia y Arabia Saudí, enfocada en la solución del conflicto palestino-israelí de los dos Estados.\nDurante el desarrollo de esta reunión, se prevé la creación de un centro árabe antiterrorista y otro antinarcóticos para abordar dos de los principales problemas que enfrenta la región.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/comienza-cumbre-de-la-liga-arabe-en-bagdad-irak/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-05.json",
+    "message_index": 960,
+    "message_id": 94302,
+    "date": "2025-05-17T11:55:07+00:00",
+    "text": "teleSUR\nComienza cumbre de la Liga Árabe en Bagdad, Irak\nhttps://www.telesurtv.net/comienza-cumbre-de-la-liga-arabe-en-bagdad-irak/",
+    "photo_path": null,
+    "views": 1914,
+    "reactions": {
+      "👍": 30,
+      "🥴": 4,
+      "🤔": 3,
+      "👾": 3,
+      "🔥": 1
+    },
+    "total_reactions": 41
+  },
+  "preprocessing": {
+    "cleaned": "la cumbre número 34 de la liga árabe dio inicio este sábado en bagdad, irak, donde, ante la escalada de la guerra de exterminio de israel contra la franja de gaza, se prevé que sea adoptada una postura unificada por parte de los estados participantes en busca de una solución. este evento anual congrega a un total de 22 países miembros en el palacio de gobierno de bagdad, en su 34 edición, donde se confirmó la ausencia del nuevo presidente interino de siria, ahmed al sharaa, quien delegó sus funciones en el ministro de exteriores, asaad al shaibani. antes de abordar los temas de esta convención, los invitados, entre los que se encuentran el presidente del gobierno español, pedro sánchez, y el secretario general de las naciones unidas (onu), antónio guterres, fueron recibidos por el primer ministro iraquí, mohamed shia al sudani. la agenda de la liga incluye la declaración de gaza como una “zona libre”, aunque no se especifica en qué contexto se plantea, lo que hace que esta afirmación resulte demasiado ambigua, especialmente tras las declaraciones de benjamín netanyahu, primer ministro de israel, quien ha manifestado su intención de transformar la franja en una nueva ciudad después de reubicar a todos sus habitantes. asimismo, la atención también se centrará en los conflictos, donde los organismos internacionales catalogan la situación como una de las peores crisis humanitarias, alimentarias y migratorias a nivel global como sudán. esta cumbre representa un preludio a la conferencia programada para el próximo junio en riad, copresidida por francia y arabia saudí, enfocada en la solución del conflicto palestino-israelí de los dos estados. durante el desarrollo de esta reunión, se prevé la creación de un centro árabe antiterrorista y otro antinarcóticos para abordar dos de los principales problemas que enfrenta la región.",
+    "tokens": [
+      "cumbre",
+      "número",
+      "34",
+      "liga",
+      "árabe",
+      "dio",
+      "inicio",
+      "sábado",
+      "bagdad",
+      ",",
+      "irak",
+      ",",
+      ",",
+      "escalada",
+      "guerra",
+      "exterminio",
+      "israel",
+      "franja",
+      "gaza",
+      ",",
+      "prevé",
+      "adoptada",
+      "postura",
+      "unificada",
+      "parte",
+      "participantes",
+      "busca",
+      "solución",
+      ".",
+      "evento",
+      "anual",
+      "congrega",
+      "total",
+      "22",
+      "países",
+      "miembros",
+      "palacio",
+      "gobierno",
+      "bagdad",
+      ",",
+      "34",
+      "edición",
+      ",",
+      "confirmó",
+      "ausencia",
+      "nuevo",
+      "presidente",
+      "interino",
+      "siria",
+      ",",
+      "ahmed",
+      "sharaa",
+      ",",
+      "delegó",
+      "funciones",
+      "ministro",
+      "exteriores",
+      ",",
+      "asaad",
+      "shaibani",
+      ".",
+      "abordar",
+      "temas",
+      "convención",
+      ",",
+      "invitados",
+      ",",
+      "encuentran",
+      "presidente",
+      "gobierno",
+      "español",
+      ",",
+      "pedro",
+      "sánchez",
+      ",",
+      "secretario",
+      "general",
+      "naciones",
+      "unidas",
+      "(",
+      "onu",
+      ")",
+      ",",
+      "antónio",
+      "guterres",
+      ",",
+      "recibidos",
+      "primer",
+      "ministro",
+      "iraquí",
+      ",",
+      "mohamed",
+      "shia",
+      "sudani",
+      ".",
+      "agenda",
+      "liga",
+      "incluye",
+      "declaración",
+      "gaza",
+      "“",
+      "zona",
+      "libre",
+      "”",
+      ",",
+      "aunque",
+      "especifica",
+      "contexto",
+      "plantea",
+      ",",
+      "hace",
+      "afirmación",
+      "resulte",
+      "demasiado",
+      "ambigua",
+      ",",
+      "especialmente",
+      "tras",
+      "declaraciones",
+      "benjamín",
+      "netanyahu",
+      ",",
+      "primer",
+      "ministro",
+      "israel",
+      ",",
+      "manifestado",
+      "intención",
+      "transformar",
+      "franja",
+      "nueva",
+      "ciudad",
+      "después",
+      "reubicar",
+      "habitantes",
+      ".",
+      "asimismo",
+      ",",
+      "atención",
+      "centrará",
+      "conflictos",
+      ",",
+      "organismos",
+      "internacionales",
+      "catalogan",
+      "situación",
+      "peores",
+      "crisis",
+      "humanitarias",
+      ",",
+      "alimentarias",
+      "migratorias",
+      "nivel",
+      "global",
+      "sudán",
+      ".",
+      "cumbre",
+      "representa",
+      "preludio",
+      "conferencia",
+      "programada",
+      "próximo",
+      "junio",
+      "riad",
+      ",",
+      "copresidida",
+      "francia",
+      "arabia",
+      "saudí",
+      ",",
+      "enfocada",
+      "solución",
+      "conflicto",
+      "palestino-israelí",
+      "dos",
+      ".",
+      "desarrollo",
+      "reunión",
+      ",",
+      "prevé",
+      "creación",
+      "centro",
+      "árabe",
+      "antiterrorista",
+      "antinarcóticos",
+      "abordar",
+      "dos",
+      "principales",
+      "problemas",
+      "enfrenta",
+      "región",
+      "."
+    ],
+    "token_count": 192,
+    "sentence_count": 7
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 51,
+      "NN": 108,
+      "CD": 3,
+      "IN": 20,
+      "FW": 59,
+      "JJ": 24,
+      "VBZ": 8,
+      "VBP": 7,
+      "NNS": 8,
+      "DT": 1
+    },
+    "bigram_freq": {
+      "NNP-NN": 12,
+      "NN-NN": 65,
+      "NN-CD": 2,
+      "CD-IN": 1,
+      "IN-FW": 11,
+      "FW-NNP": 17,
+      "NNP-NNP": 20,
+      "NN-IN": 15,
+      "IN-NNP": 3,
+      "NN-FW": 4,
+      "FW-FW": 29,
+      "NNP-FW": 11,
+      "FW-NN": 6,
+      "IN-JJ": 2,
+      "JJ-NN": 18,
+      "NN-JJ": 8,
+      "NNP-VBZ": 6,
+      "VBZ-FW": 1,
+      "NNP-VBP": 1,
+      "VBP-JJ": 3,
+      "IN-CD": 1,
+      "CD-NNS": 1,
+      "NNS-VBP": 5,
+      "VBP-IN": 1,
+      "CD-NN": 1,
+      "NN-NNP": 7,
+      "NN-NNS": 3,
+      "NNS-IN": 1,
+      "VBZ-NNP": 2,
+      "NNP-IN": 1,
+      "FW-JJ": 5,
+      "VBZ-JJ": 4,
+      "JJ-JJ": 2,
+      "JJ-FW": 2,
+      "NN-DT": 1,
+      "DT-NN": 1,
+      "NN-VBZ": 1,
+      "VBZ-IN": 1,
+      "IN-NN": 3,
+      "VBP-NNS": 1,
+      "NNS-FW": 1,
+      "VBP-VBZ": 1,
+      "JJ-NNS": 1,
+      "FW-NNS": 2,
+      "NNS-NN": 1,
+      "NN-VBP": 1,
+      "VBP-NN": 1,
+      "JJ-NNP": 1
+    },
+    "trigram_freq": {
+      "NNP-NN-NN": 9,
+      "NN-NN-CD": 1,
+      "NN-CD-IN": 1,
+      "CD-IN-FW": 1,
+      "IN-FW-NNP": 3,
+      "FW-NNP-NNP": 7,
+      "NNP-NNP-NN": 6,
+      "NN-NN-NN": 38,
+      "NN-NN-IN": 10,
+      "NN-IN-NNP": 3,
+      "IN-NNP-NNP": 2,
+      "NN-NN-FW": 3,
+      "NN-FW-FW": 3,
+      "FW-FW-FW": 18,
+      "FW-FW-NNP": 7,
+      "NNP-NNP-FW": 5,
+      "NNP-FW-NNP": 5,
+      "FW-NNP-FW": 6,
+      "NNP-FW-NN": 3,
+      "FW-NN-NN": 2,
+      "NN-IN-JJ": 2,
+      "IN-JJ-NN": 2,
+      "JJ-NN-JJ": 2,
+      "NN-JJ-NN": 7,
+      "JJ-NN-NN": 11,
+      "NN-IN-FW": 7,
+      "FW-NNP-VBZ": 1,
+      "NNP-VBZ-FW": 1,
+      "VBZ-FW-FW": 1,
+      "FW-NNP-VBP": 1,
+      "NNP-VBP-JJ": 1,
+      "VBP-JJ-NN": 2,
+      "JJ-NN-IN": 4,
+      "NN-IN-CD": 1,
+      "IN-CD-NNS": 1,
+      "CD-NNS-VBP": 1,
+      "NNS-VBP-IN": 1,
+      "VBP-IN-FW": 1,
+      "FW-NN-CD": 1,
+      "NN-CD-NN": 1,
+      "CD-NN-NN": 1,
+      "NN-NN-JJ": 5,
+      "NNP-NN-NNP": 2,
+      "NN-NNP-NN": 2,
+      "NN-NN-NNS": 2,
+      "NN-NNS-IN": 1,
+      "NNS-IN-FW": 1,
+      "IN-FW-FW": 3,
+      "NNP-NNP-VBZ": 4,
+      "NNP-VBZ-NNP": 1,
+      "VBZ-NNP-NNP": 2,
+      "NNP-NNP-IN": 1,
+      "NNP-IN-FW": 1,
+      "IN-FW-JJ": 3,
+      "FW-JJ-NN": 4,
+      "NN-FW-NNP": 1,
+      "NNP-VBZ-JJ": 4,
+      "VBZ-JJ-JJ": 2,
+      "JJ-JJ-FW": 1,
+      "JJ-FW-FW": 1,
+      "NNP-NNP-NNP": 4,
+      "VBZ-JJ-NN": 2,
+      "NN-NN-NNP": 3,
+      "NN-NNP-NNP": 4,
+      "NNP-FW-FW": 3,
+      "FW-NNP-NN": 2,
+      "NNP-NN-JJ": 1,
+      "NN-NN-DT": 1,
+      "NN-DT-NN": 1,
+      "DT-NN-VBZ": 1,
+      "NN-VBZ-IN": 1,
+      "VBZ-IN-NN": 1,
+      "IN-NN-NN": 2,
+      "NN-NNS-VBP": 2,
+      "NNS-VBP-NNS": 1,
+      "VBP-NNS-FW": 1,
+      "NNS-FW-NNP": 1,
+      "NN-IN-NN": 2,
+      "NN-NNP-VBZ": 1,
+      "JJ-JJ-NN": 1,
+      "IN-NN-NNS": 1,
+      "NNS-VBP-VBZ": 1,
+      "VBP-VBZ-NNP": 1,
+      "NN-JJ-NNS": 1,
+      "JJ-NNS-VBP": 1,
+      "NNS-VBP-JJ": 2,
+      "VBP-JJ-FW": 1,
+      "JJ-FW-NN": 1,
+      "IN-FW-NNS": 2,
+      "FW-NNS-NN": 1,
+      "NNS-NN-NN": 1,
+      "FW-FW-JJ": 2,
+      "JJ-NN-NNP": 1,
+      "NN-NN-VBP": 1,
+      "NN-VBP-NN": 1,
+      "VBP-NN-NN": 1,
+      "IN-NNP-NN": 1,
+      "FW-JJ-NNP": 1,
+      "JJ-NNP-NNP": 1,
+      "FW-NN-IN": 1,
+      "FW-FW-NN": 2,
+      "FW-NN-FW": 1,
+      "FW-NN-NNP": 1,
+      "FW-NNS-VBP": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 108,
+        "FW": 59,
+        "NNP": 51,
+        "JJ": 24,
+        "IN": 20
+      },
+      "top_bigrams": {
+        "NN-NN": 65,
+        "FW-FW": 29,
+        "NNP-NNP": 20,
+        "JJ-NN": 18,
+        "FW-NNP": 17
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 38,
+        "FW-FW-FW": 18,
+        "JJ-NN-NN": 11,
+        "NN-NN-IN": 10,
+        "NNP-NN-NN": 9
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 7,
+    "chunk_counts": {
+      "NP": 80,
+      "PP": 8,
+      "ADJP": 2,
+      "VP": 12
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 4,
+        "weight": 0.0367
+      },
+      {
+        "rule": "NP -> ('Bagdad', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0183
+      },
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0183
+      },
+      {
+        "rule": "S -> NP ('34', 'CD') ('de', 'IN') ('la', 'FW') NP PP (',', ',') NP (',', ',') NP (',', ',') ADJP ('la', 'FW') ('escalada', 'FW') ('de', 'FW') ('la', 'FW') ('guerra', 'FW') ('de', 'FW') ('exterminio', 'FW') ('de', 'FW') NP ('la', 'FW') NP ('de', 'FW') NP (',', ',') VP PP NP ('de', 'IN') ('los', 'FW') NP VP ('en', 'FW') ('busca', 'FW') ('de', 'FW') ('una', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0092
+      },
+      {
+        "rule": "NP -> ('La', 'NNP') ('cumbre', 'NN') ('número', 'NN')",
+        "frequency": 1,
+        "weight": 0.0092
+      },
+      {
+        "rule": "NP -> ('Liga', 'NNP') ('Árabe', 'NNP') ('dio', 'NN') ('inicio', 'NN') ('este', 'NN') ('sábado', 'NN')",
+        "frequency": 1,
+        "weight": 0.0092
+      },
+      {
+        "rule": "NP -> ('Irak', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0092
+      },
+      {
+        "rule": "NP -> ('donde', 'NN')",
+        "frequency": 1,
+        "weight": 0.0092
+      },
+      {
+        "rule": "ADJP -> ('ante', 'JJ')",
+        "frequency": 1,
+        "weight": 0.0092
+      },
+      {
+        "rule": "NP -> ('Israel', 'NNP') ('contra', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0092
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "La cumbre número"
+      },
+      {
+        "label": "NP",
+        "text": "Liga Árabe dio inicio este sábado"
+      },
+      {
+        "label": "PP",
+        "text": "en Bagdad"
+      },
+      {
+        "label": "NP",
+        "text": "Bagdad"
+      },
+      {
+        "label": "NP",
+        "text": "Irak"
+      },
+      {
+        "label": "NP",
+        "text": "donde"
+      },
+      {
+        "label": "ADJP",
+        "text": "ante"
+      },
+      {
+        "label": "NP",
+        "text": "Israel contra"
+      },
+      {
+        "label": "NP",
+        "text": "Franja"
+      },
+      {
+        "label": "NP",
+        "text": "Gaza"
+      },
+      {
+        "label": "VP",
+        "text": "se prevé que sea"
+      },
+      {
+        "label": "NP",
+        "text": "prevé que sea"
+      },
+      {
+        "label": "PP",
+        "text": "adoptada una postura"
+      },
+      {
+        "label": "NP",
+        "text": "una postura"
+      },
+      {
+        "label": "NP",
+        "text": "unificada por parte"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP La/NNP cumbre/NN número/NN)\n  34/CD\n  de/IN\n  la/FW\n  (NP Liga/NNP Árabe/NNP dio/NN inicio/NN este/NN sábado/NN)\n  (PP en/IN (NP Bagdad/NNP))\n  ,/,\n  (NP Irak/NNP)\n  ,/,\n  (NP donde/NN)\n  ,/,\n  (ADJP ante/JJ)\n  la/FW\n  escalada/FW\n  de/FW\n  la/FW\n  guerra/FW\n  de/FW\n  exterminio/FW\n  de/FW\n  (NP Israel/NNP contra/NNP)\n  la/FW\n  (NP Franja/NNP)\n  de/FW\n  (NP Gaza/NNP)\n  ,/,\n  (VP se/VBD (NP prevé/NN que/NN sea/NN))\n  (PP adoptada/IN (NP una/JJ postura/NN))\n  (NP unificada/JJ por/NN parte/NN)\n  de/IN\n  los/FW\n  (NP Estados/NNP)\n  (VP participantes/VBZ)\n  en/FW\n  busca/FW\n  de/FW\n  una/FW\n  (NP solución/NN)\n  ./.)",
+      "(S\n  (NP Este/NN)\n  evento/''\n  (NP anual/JJ congrega/NN)\n  (NP a/DT un/JJ total/NN)\n  de/IN\n  22/CD\n  (NP países/NNS)\n  (VP miembros/VBP)\n  en/IN\n  el/FW\n  (NP Palacio/NNP)\n  de/FW\n  (NP Gobierno/NNP)\n  de/FW\n  (NP Bagdad/NNP)\n  ,/,\n  en/FW\n  su/FW\n  34/CD\n  (NP edición/NN)\n  ,/,\n  donde/FW\n  se/FW\n  (NP confirmó/NN)\n  la/FW\n  ausencia/FW\n  del/FW\n  nuevo/FW\n  presidente/FW\n  interino/FW\n  de/FW\n  (NP Siria/NNP)\n  ,/,\n  (NP Ahmed/NNP al/NN Sharaa/NNP)\n  ,/,\n  (NP quien/NN delegó/NN sus/NN funciones/NNS)\n  en/IN\n  el/FW\n  ministro/FW\n  de/FW\n  (NP Exteriores/NNP)\n  ,/,\n  (NP Asaad/NNP)\n  (VP al/VBZ (NP Shaibani/NNP))\n  ./.)",
+      "(S\n  (NP Antes/NNS)\n  de/IN\n  abordar/FW\n  (NP los/JJ temas/NN)\n  de/IN\n  esta/FW\n  (NP convención/NN)\n  ,/,\n  (NP los/JJ invitados/NN)\n  ,/,\n  entre/FW\n  los/FW\n  que/FW\n  se/FW\n  encuentran/FW\n  el/FW\n  presidente/FW\n  del/FW\n  (NP Gobierno/NNP español/NN)\n  ,/,\n  (NP Pedro/NNP Sánchez/NNP)\n  ,/,\n  (NP y/NNP)\n  (VP el/VBZ secretario/JJ general/JJ)\n  de/FW\n  las/FW\n  (NP Naciones/NNP Unidas/NNP)\n  (/(\n  (NP ONU/NNP)\n  )/)\n  ,/,\n  (NP António/NNP Guterres/NNP)\n  ,/,\n  (NP fueron/NN recibidos/NN por/NN)\n  el/FW\n  (NP primer/NN ministro/NN iraquí/NN)\n  ,/,\n  (NP Mohamed/NNP Shia/NNP al/NN Sudani/NNP)\n  ./.)",
+      "(S\n  (NP La/NNP)\n  agenda/FW\n  de/FW\n  la/FW\n  (NP Liga/NNP incluye/NN la/NN)\n  declaración/FW\n  de/FW\n  (NP Gaza/NNP como/NN)\n  (NP una/JJ “/NNP zona/NNP libre/NN ”/NNP)\n  ,/,\n  (VP aunque/VBZ (NP no/DT se/NN))\n  (VP especifica/VBZ)\n  (PP en/IN (NP qué/NN contexto/NN se/NN plantea/NN))\n  ,/,\n  (NP\n    lo/JJ\n    que/NN\n    hace/NN\n    que/NN\n    esta/NN\n    afirmación/NN\n    resulte/NN\n    demasiado/NN\n    ambigua/NN)\n  ,/,\n  (NP especialmente/JJ tras/NNS)\n  (NP las/JJ declaraciones/NNS)\n  (PP de/IN (NP Benjamín/NNP Netanyahu/NNP))\n  ,/,\n  (ADJP primer/JJ)\n  ministro/FW\n  de/FW\n  (NP Israel/NNP)\n  ,/,\n  (NP quien/NN ha/NN manifestado/NN)\n  (NP su/JJ intención/NN)\n  (PP de/IN (NP transformar/NN la/NN Franja/NNP))\n  (VP en/VBZ (NP una/JJ nueva/JJ ciudad/NN después/NN))\n  de/IN\n  reubicar/FW\n  (NP a/DT todos/NN sus/NN habitantes/NNS)\n  ./.)",
+      "(S\n  (NP Asimismo/NNP)\n  ,/,\n  (NP la/NN atención/NN también/NN se/NN centrará/NN)\n  (PP en/IN (NP los/NN conflictos/NN))\n  ,/,\n  (VP donde/VB (NP los/JJ organismos/JJ internacionales/NNS))\n  (VP catalogan/VBP la/JJ)\n  situación/FW\n  (NP como/NN una/NN)\n  de/IN\n  las/FW\n  (NP peores/NNS crisis/NN humanitarias/NN)\n  ,/,\n  (NP alimentarias/JJ y/NN)\n  (VP migratorias/VBD (NP a/DT nivel/JJ global/JJ como/NN Sudán/NNP))\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "GOBIERNOS_OFICIALES",
+      "ORGANISMOS_INTERNACIONALES",
+      "REGIONES_PROVINCIAS",
+      "PAISES",
+      "LOCALIZACIONES_ESPECIFICAS",
+      "CONFLICTOS_ARMADOS_OPERACIONES"
+    ],
+    "matches": [
+      {
+        "category": "CONFLICTOS_ARMADOS_OPERACIONES",
+        "matched_text": "guerra de exterminio de israel contra la",
+        "position": [
+          107,
+          147
+        ],
+        "start": 107,
+        "end": 147
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "gobierno de bagdad",
+        "position": [
+          354,
+          372
+        ],
+        "start": 354,
+        "end": 372
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "presidente interino de",
+        "position": [
+          432,
+          454
+        ],
+        "start": 432,
+        "end": 454
+      },
+      {
+        "category": "GOBIERNOS_OFICIALES",
+        "matched_text": "ministro de exteriores",
+        "position": [
+          512,
+          534
+        ],
+        "start": 512,
+        "end": 534
+      },
+      {
+        "category": "ORGANISMOS_INTERNACIONALES",
+        "matched_text": "naciones unidas",
+        "position": [
+          727,
+          742
+        ],
+        "start": 727,
+        "end": 742
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "francia",
+        "position": [
+          1565,
+          1572
+        ],
+        "start": 1565,
+        "end": 1572
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "zona libre",
+        "position": [
+          902,
+          912
+        ],
+        "start": 902,
+        "end": 912
+      },
+      {
+        "category": "LOCALIZACIONES_ESPECIFICAS",
+        "matched_text": "centro árabe",
+        "position": [
+          1731,
+          1743
+        ],
+        "start": 1731,
+        "end": 1743
+      }
+    ],
+    "match_count": 8
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Franja de Gaza",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Ahmed al Sharaa",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Sudán",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Asaad",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "António Guterres",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Palacio de Gobierno de Bagdad",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Sudani",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "los Estados",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Francia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "ONU",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "ministro de Exteriores",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "la Liga",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Arabia Saudí",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Riad",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Pedro Sánchez",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Mohamed Shia",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Estados",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Irak",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Benjamín Netanyahu",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Liga Árabe",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Shaibani",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Naciones Unidas",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Gobierno español",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Franja",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Israel",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Siria",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Bagdad",
+        "tipo": "Lugar"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Liga Árabe",
+        "relacion": "DAR",
+        "objeto": "Bagdad"
+      },
+      {
+        "sujeto": "Liga Árabe",
+        "relacion": "DAR",
+        "objeto": "Irak"
+      },
+      {
+        "sujeto": "Liga Árabe",
+        "relacion": "DAR",
+        "objeto": "Israel"
+      },
+      {
+        "sujeto": "Liga Árabe",
+        "relacion": "DAR",
+        "objeto": "Franja de Gaza"
+      },
+      {
+        "sujeto": "Liga Árabe",
+        "relacion": "DAR",
+        "objeto": "los Estados"
+      },
+      {
+        "sujeto": "Israel",
+        "relacion": "PREVER_DAR",
+        "objeto": "los Estados"
+      },
+      {
+        "sujeto": "Franja de Gaza",
+        "relacion": "PREVER_DAR",
+        "objeto": "los Estados"
+      },
+      {
+        "sujeto": "Palacio de Gobierno de Bagdad",
+        "relacion": "CONGREGAR",
+        "objeto": "Siria"
+      },
+      {
+        "sujeto": "Palacio de Gobierno de Bagdad",
+        "relacion": "CONGREGAR",
+        "objeto": "Ahmed al Sharaa"
+      },
+      {
+        "sujeto": "Palacio de Gobierno de Bagdad",
+        "relacion": "CONGREGAR",
+        "objeto": "ministro de Exteriores"
+      },
+      {
+        "sujeto": "Palacio de Gobierno de Bagdad",
+        "relacion": "CONGREGAR",
+        "objeto": "Asaad"
+      },
+      {
+        "sujeto": "Palacio de Gobierno de Bagdad",
+        "relacion": "CONGREGAR",
+        "objeto": "Shaibani"
+      },
+      {
+        "sujeto": "ministro de Exteriores",
+        "relacion": "ES",
+        "objeto": "Asaad"
+      },
+      {
+        "sujeto": "Gobierno español",
+        "relacion": "ENCONTRAR_ABORDAR_ANTES_RECIBIR",
+        "objeto": "Naciones Unidas"
+      },
+      {
+        "sujeto": "Gobierno español",
+        "relacion": "ENCONTRAR_ABORDAR_ANTES_RECIBIR",
+        "objeto": "ONU"
+      },
+      {
+        "sujeto": "Gobierno español",
+        "relacion": "ENCONTRAR_ABORDAR_ANTES_RECIBIR",
+        "objeto": "António Guterres"
+      },
+      {
+        "sujeto": "Gobierno español",
+        "relacion": "ENCONTRAR_ABORDAR_ANTES_RECIBIR",
+        "objeto": "Mohamed Shia"
+      },
+      {
+        "sujeto": "Gobierno español",
+        "relacion": "ENCONTRAR_ABORDAR_ANTES_RECIBIR",
+        "objeto": "Sudani"
+      },
+      {
+        "sujeto": "Pedro Sánchez",
+        "relacion": "ENCONTRAR_ABORDAR_ANTES_RECIBIR",
+        "objeto": "Naciones Unidas"
+      },
+      {
+        "sujeto": "Pedro Sánchez",
+        "relacion": "ENCONTRAR_ABORDAR_ANTES_RECIBIR",
+        "objeto": "ONU"
+      },
+      {
+        "sujeto": "Pedro Sánchez",
+        "relacion": "ENCONTRAR_ABORDAR_ANTES_RECIBIR",
+        "objeto": "António Guterres"
+      },
+      {
+        "sujeto": "Pedro Sánchez",
+        "relacion": "ENCONTRAR_ABORDAR_ANTES_RECIBIR",
+        "objeto": "Mohamed Shia"
+      },
+      {
+        "sujeto": "Pedro Sánchez",
+        "relacion": "ENCONTRAR_ABORDAR_ANTES_RECIBIR",
+        "objeto": "Sudani"
+      },
+      {
+        "sujeto": "Naciones Unidas",
+        "relacion": "RECIBIR",
+        "objeto": "Mohamed Shia"
+      },
+      {
+        "sujeto": "Naciones Unidas",
+        "relacion": "RECIBIR",
+        "objeto": "Sudani"
+      },
+      {
+        "sujeto": "ONU",
+        "relacion": "RECIBIR",
+        "objeto": "Mohamed Shia"
+      },
+      {
+        "sujeto": "ONU",
+        "relacion": "RECIBIR",
+        "objeto": "Sudani"
+      },
+      {
+        "sujeto": "António Guterres",
+        "relacion": "RECIBIR",
+        "objeto": "Mohamed Shia"
+      },
+      {
+        "sujeto": "António Guterres",
+        "relacion": "RECIBIR",
+        "objeto": "Sudani"
+      },
+      {
+        "sujeto": "la Liga",
+        "relacion": "INCLUIR",
+        "objeto": "Benjamín Netanyahu"
+      },
+      {
+        "sujeto": "la Liga",
+        "relacion": "INCLUIR",
+        "objeto": "Israel"
+      },
+      {
+        "sujeto": "la Liga",
+        "relacion": "INCLUIR",
+        "objeto": "Franja"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": -0.5994,
+    "pos": 0.008,
+    "neu": 0.97,
+    "neg": 0.021,
+    "label": "negative"
+  }
+}

@@ -1,0 +1,654 @@
+{
+  "url": "https://www.telesurtv.net/exigen-justicia-ante-el-secuestro-y-asesinato-de-mineros-en-peru/",
+  "title": "Exigen justicia ante el secuestro y asesinato de mineros en Perú - teleSUR",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "Crimen",
+    "Minería",
+    "pataz",
+    "Perú"
+  ],
+  "text": "El asesinato de 13 trabajadores en la mina de oro Poderosa, ubicada en la provincia de Pataz, en el norte de Perú, desató un clima de terror, atribuido a los presuntos perpetradores que pertenecerían a redes de la minería ilegal.\nLos mineros habían sido secuestrados por la organización criminal una semana antes, y su fallecimiento se confirmó este domingo. Con esto, se eleva a 39 el número de muertes vinculadas a este tipo de crimen organizado en la provincia de Pataz.\nAnte esta situación, los familiares de las víctimas, junto con la Sociedad Nacional de Minería, Petróleo y Energía, instaronn a las autoridades a actuar con prontitud. Solicitan la identificación de los responsables para que enfrenten las consecuencias legales correspondientes.\nLa asociación enfatiza la necesidad urgente de que tanto la Policía Nacional como el Gobierno implementen una estrategia eficaz para combatir estos delitos y desmantelar dichas organizaciones criminales. Se ha demostrado que el problema no se resuelve con la declaración de Estado de Emergencia, como ha sucedido en Pataz.\nAdemás, la misma Sociedad declaró que “el secuestro y asesinato de estos trabajadores pone de manifiesto que las economías ilegales buscan intimidar a la sociedad peruana y apoderarse de la propiedad pública y privada, como es el caso de concesiones y operaciones mineras formales”.\nAdemás, este incidente no es el único episodio de violencia vinculado a la actividad minera en Pataz. El sábado, una agresión orquestada por supuestos mineros informales contra empleados del yacimiento Aracoto, resultó en ocho lesionados, incluyendo dos agentes policiales, que requirieron evacuación aérea.",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/exigen-justicia-ante-el-secuestro-y-asesinato-de-mineros-en-peru/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-05.json",
+    "message_index": 1778,
+    "message_id": 93389,
+    "date": "2025-05-05T10:55:07+00:00",
+    "text": "teleSUR\nExigen justicia ante el secuestro y asesinato de mineros en Perú\nhttps://www.telesurtv.net/exigen-justicia-ante-el-secuestro-y-asesinato-de-mineros-en-peru/",
+    "photo_path": null,
+    "views": 1978,
+    "reactions": {
+      "👍": 30,
+      "😢": 9
+    },
+    "total_reactions": 39
+  },
+  "preprocessing": {
+    "cleaned": "el asesinato de 13 trabajadores en la mina de oro poderosa, ubicada en la provincia de pataz, en el norte de perú, desató un clima de terror, atribuido a los presuntos perpetradores que pertenecerían a redes de la minería ilegal. los mineros habían sido secuestrados por la organización criminal una semana antes, y su fallecimiento se confirmó este domingo. con esto, se eleva a 39 el número de muertes vinculadas a este tipo de crimen organizado en la provincia de pataz. ante esta situación, los familiares de las víctimas, junto con la sociedad nacional de minería, petróleo y energía, instaronn a las autoridades a actuar con prontitud. solicitan la identificación de los responsables para que enfrenten las consecuencias legales correspondientes. la asociación enfatiza la necesidad urgente de que tanto la policía nacional como el gobierno implementen una estrategia eficaz para combatir estos delitos y desmantelar dichas organizaciones criminales. se ha demostrado que el problema no se resuelve con la declaración de estado de emergencia, como ha sucedido en pataz. además, la misma sociedad declaró que “el secuestro y asesinato de estos trabajadores pone de manifiesto que las economías ilegales buscan intimidar a la sociedad peruana y apoderarse de la propiedad pública y privada, como es el caso de concesiones y operaciones mineras formales”. además, este incidente no es el único episodio de violencia vinculado a la actividad minera en pataz. el sábado, una agresión orquestada por supuestos mineros informales contra empleados del yacimiento aracoto, resultó en ocho lesionados, incluyendo dos agentes policiales, que requirieron evacuación aérea.",
+    "tokens": [
+      "asesinato",
+      "13",
+      "trabajadores",
+      "mina",
+      "oro",
+      "poderosa",
+      ",",
+      "ubicada",
+      "provincia",
+      "pataz",
+      ",",
+      "norte",
+      "perú",
+      ",",
+      "desató",
+      "clima",
+      "terror",
+      ",",
+      "atribuido",
+      "presuntos",
+      "perpetradores",
+      "pertenecerían",
+      "redes",
+      "minería",
+      "ilegal",
+      ".",
+      "mineros",
+      "sido",
+      "secuestrados",
+      "organización",
+      "criminal",
+      "semana",
+      ",",
+      "fallecimiento",
+      "confirmó",
+      "domingo",
+      ".",
+      ",",
+      "eleva",
+      "39",
+      "número",
+      "muertes",
+      "vinculadas",
+      "tipo",
+      "crimen",
+      "organizado",
+      "provincia",
+      "pataz",
+      ".",
+      "situación",
+      ",",
+      "familiares",
+      "víctimas",
+      ",",
+      "junto",
+      "sociedad",
+      "nacional",
+      "minería",
+      ",",
+      "petróleo",
+      "energía",
+      ",",
+      "instaronn",
+      "autoridades",
+      "actuar",
+      "prontitud",
+      ".",
+      "solicitan",
+      "identificación",
+      "responsables",
+      "enfrenten",
+      "consecuencias",
+      "legales",
+      "correspondientes",
+      ".",
+      "asociación",
+      "enfatiza",
+      "necesidad",
+      "urgente",
+      "policía",
+      "nacional",
+      "gobierno",
+      "implementen",
+      "estrategia",
+      "eficaz",
+      "combatir",
+      "delitos",
+      "desmantelar",
+      "dichas",
+      "organizaciones",
+      "criminales",
+      ".",
+      "demostrado",
+      "problema",
+      "resuelve",
+      "declaración",
+      "emergencia",
+      ",",
+      "sucedido",
+      "pataz",
+      ".",
+      "además",
+      ",",
+      "misma",
+      "sociedad",
+      "declaró",
+      "“",
+      "secuestro",
+      "asesinato",
+      "trabajadores",
+      "pone",
+      "manifiesto",
+      "economías",
+      "ilegales",
+      "buscan",
+      "intimidar",
+      "sociedad",
+      "peruana",
+      "apoderarse",
+      "propiedad",
+      "pública",
+      "privada",
+      ",",
+      "caso",
+      "concesiones",
+      "operaciones",
+      "mineras",
+      "formales",
+      "”",
+      ".",
+      "además",
+      ",",
+      "incidente",
+      "único",
+      "episodio",
+      "violencia",
+      "vinculado",
+      "actividad",
+      "minera",
+      "pataz",
+      ".",
+      "sábado",
+      ",",
+      "agresión",
+      "orquestada",
+      "supuestos",
+      "mineros",
+      "informales",
+      "empleados",
+      "yacimiento",
+      "aracoto",
+      ",",
+      "resultó",
+      "ocho",
+      "lesionados",
+      ",",
+      "incluyendo",
+      "dos",
+      "agentes",
+      "policiales",
+      ",",
+      "requirieron",
+      "evacuación",
+      "aérea",
+      "."
+    ],
+    "token_count": 165,
+    "sentence_count": 10
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 30,
+      "NN": 81,
+      "IN": 14,
+      "CD": 2,
+      "NNS": 18,
+      "JJ": 21,
+      "FW": 54,
+      "VBZ": 5,
+      "VBD": 2,
+      "VBP": 10,
+      "DT": 2,
+      "VB": 1,
+      "RB": 1
+    },
+    "bigram_freq": {
+      "NNP-NN": 12,
+      "NN-IN": 11,
+      "IN-CD": 1,
+      "CD-NNS": 1,
+      "NNS-JJ": 1,
+      "JJ-FW": 2,
+      "FW-FW": 31,
+      "FW-NNP": 10,
+      "NNP-NNP": 9,
+      "NNP-FW": 6,
+      "NN-JJ": 2,
+      "JJ-NN": 13,
+      "IN-NN": 1,
+      "NN-NN": 42,
+      "NN-VBZ": 4,
+      "VBZ-JJ": 4,
+      "JJ-JJ": 3,
+      "JJ-NNS": 2,
+      "NNS-IN": 1,
+      "IN-FW": 7,
+      "FW-JJ": 3,
+      "JJ-NNP": 1,
+      "IN-JJ": 1,
+      "NN-NNP": 5,
+      "NN-VBD": 1,
+      "VBD-CD": 1,
+      "CD-JJ": 1,
+      "IN-NNS": 3,
+      "NNS-VBP": 8,
+      "VBP-NN": 3,
+      "VBP-IN": 1,
+      "FW-NN": 7,
+      "VBZ-IN": 1,
+      "NN-FW": 7,
+      "FW-NNS": 3,
+      "VBP-JJ": 4,
+      "VBP-NNS": 1,
+      "NNS-NNS": 5,
+      "NNS-NNP": 3,
+      "NNP-VBP": 1,
+      "NNP-VBZ": 1,
+      "NN-NNS": 3,
+      "NN-VBP": 1,
+      "NN-DT": 2,
+      "DT-NN": 2,
+      "NN-VB": 1,
+      "VB-NN": 1,
+      "IN-NNP": 1,
+      "VBP-FW": 1,
+      "NN-RB": 1,
+      "RB-JJ": 1,
+      "NNP-VBD": 1,
+      "VBD-JJ": 1
+    },
+    "trigram_freq": {
+      "NNP-NN-IN": 1,
+      "NN-IN-CD": 1,
+      "IN-CD-NNS": 1,
+      "CD-NNS-JJ": 1,
+      "NNS-JJ-FW": 1,
+      "JJ-FW-FW": 2,
+      "FW-FW-FW": 20,
+      "FW-FW-NNP": 5,
+      "FW-NNP-NNP": 5,
+      "NNP-NNP-FW": 4,
+      "NNP-FW-FW": 2,
+      "FW-NNP-FW": 2,
+      "FW-NNP-NN": 3,
+      "NNP-NN-JJ": 1,
+      "NN-JJ-NN": 2,
+      "JJ-NN-IN": 5,
+      "NN-IN-NN": 1,
+      "IN-NN-NN": 1,
+      "NN-NN-NN": 21,
+      "NN-NN-VBZ": 3,
+      "NN-VBZ-JJ": 3,
+      "VBZ-JJ-JJ": 1,
+      "JJ-JJ-NNS": 2,
+      "JJ-NNS-IN": 1,
+      "NNS-IN-FW": 1,
+      "IN-FW-FW": 4,
+      "FW-FW-JJ": 1,
+      "FW-JJ-NNP": 1,
+      "JJ-NNP-NN": 1,
+      "NNP-NN-NN": 9,
+      "NN-NN-IN": 4,
+      "NN-IN-JJ": 1,
+      "IN-JJ-JJ": 1,
+      "JJ-JJ-NN": 1,
+      "JJ-NN-VBZ": 1,
+      "VBZ-JJ-NN": 3,
+      "JJ-NN-NN": 6,
+      "NN-NN-NNP": 5,
+      "NN-NNP-NN": 3,
+      "NN-NN-VBD": 1,
+      "NN-VBD-CD": 1,
+      "VBD-CD-JJ": 1,
+      "CD-JJ-NN": 1,
+      "NN-IN-NNS": 3,
+      "IN-NNS-VBP": 2,
+      "NNS-VBP-NN": 2,
+      "VBP-NN-NN": 2,
+      "NNS-VBP-IN": 1,
+      "VBP-IN-FW": 1,
+      "NNP-FW-NN": 1,
+      "FW-NN-NN": 3,
+      "NN-VBZ-IN": 1,
+      "VBZ-IN-FW": 1,
+      "FW-FW-NN": 4,
+      "FW-NN-FW": 2,
+      "NN-FW-NNP": 2,
+      "NNP-FW-NNP": 3,
+      "NNP-NNP-NNP": 2,
+      "NNP-NNP-NN": 2,
+      "NN-IN-FW": 4,
+      "IN-FW-NNS": 2,
+      "FW-NNS-VBP": 3,
+      "NNS-VBP-JJ": 3,
+      "VBP-JJ-JJ": 1,
+      "JJ-NNS-VBP": 1,
+      "NNS-VBP-NNS": 1,
+      "VBP-NNS-NNS": 1,
+      "NNS-NNS-NNP": 3,
+      "NNS-NNP-VBP": 1,
+      "NNP-VBP-JJ": 1,
+      "VBP-JJ-NN": 3,
+      "JJ-NN-JJ": 1,
+      "IN-FW-NN": 1,
+      "NN-NNP-NNP": 1,
+      "NN-NNP-VBZ": 1,
+      "NNP-VBZ-JJ": 1,
+      "NN-NN-NNS": 2,
+      "NN-NNS-NNS": 1,
+      "NNS-NNP-NN": 2,
+      "NN-NN-VBP": 1,
+      "NN-VBP-NN": 1,
+      "VBP-NN-DT": 1,
+      "NN-DT-NN": 2,
+      "DT-NN-VB": 1,
+      "NN-VB-NN": 1,
+      "VB-NN-FW": 1,
+      "NN-FW-FW": 2,
+      "NN-IN-NNP": 1,
+      "IN-NNP-NNP": 1,
+      "NN-NN-FW": 3,
+      "NN-FW-JJ": 2,
+      "FW-JJ-NN": 1,
+      "NNS-VBP-FW": 1,
+      "VBP-FW-FW": 1,
+      "FW-FW-NNS": 1,
+      "FW-JJ-FW": 1,
+      "NN-FW-NN": 1,
+      "FW-NN-IN": 1,
+      "IN-NNS-NNS": 1,
+      "NNS-NNS-NNS": 2,
+      "NN-NN-DT": 1,
+      "DT-NN-RB": 1,
+      "NN-RB-JJ": 1,
+      "RB-JJ-NN": 1,
+      "NNP-NNP-VBD": 1,
+      "NNP-VBD-JJ": 1,
+      "VBD-JJ-NN": 1,
+      "NN-NNS-VBP": 2,
+      "NNP-NN-FW": 1,
+      "FW-NN-NNS": 1
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 81,
+        "FW": 54,
+        "NNP": 30,
+        "JJ": 21,
+        "NNS": 18
+      },
+      "top_bigrams": {
+        "NN-NN": 42,
+        "FW-FW": 31,
+        "JJ-NN": 13,
+        "NNP-NN": 12,
+        "NN-IN": 11
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 21,
+        "FW-FW-FW": 20,
+        "NNP-NN-NN": 9,
+        "JJ-NN-NN": 6,
+        "FW-FW-NNP": 5
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 10,
+    "chunk_counts": {
+      "NP": 71,
+      "ADJP": 2,
+      "PP": 7,
+      "VP": 20
+    },
+    "top_rules": [
+      {
+        "rule": "NP -> ('Pataz', 'NNP')",
+        "frequency": 4,
+        "weight": 0.0364
+      },
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 4,
+        "weight": 0.0364
+      },
+      {
+        "rule": "NP -> ('trabajadores', 'NNS')",
+        "frequency": 2,
+        "weight": 0.0182
+      },
+      {
+        "rule": "PP -> ('en', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.0182
+      },
+      {
+        "rule": "NP -> ('Además', 'NNP')",
+        "frequency": 2,
+        "weight": 0.0182
+      },
+      {
+        "rule": "S -> NP ('de', 'IN') ('13', 'CD') NP ADJP ('la', 'FW') ('mina', 'FW') ('de', 'FW') ('oro', 'FW') NP (',', ',') ADJP ('en', 'FW') ('la', 'FW') ('provincia', 'FW') ('de', 'FW') NP (',', ',') ('en', 'FW') ('el', 'FW') ('norte', 'FW') ('de', 'FW') NP (',', ',') NP NP PP (',', ',') VP VP ('pertenecerían', 'IN') ('a', 'DT') ('redes', 'FW') ('de', 'FW') ('la', 'FW') ('minería', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.0091
+      },
+      {
+        "rule": "NP -> ('El', 'NNP') ('asesinato', 'NN')",
+        "frequency": 1,
+        "weight": 0.0091
+      },
+      {
+        "rule": "ADJP -> ('en', 'JJ')",
+        "frequency": 1,
+        "weight": 0.0091
+      },
+      {
+        "rule": "NP -> ('Poderosa', 'NNP')",
+        "frequency": 1,
+        "weight": 0.0091
+      },
+      {
+        "rule": "ADJP -> ('ubicada', 'JJ')",
+        "frequency": 1,
+        "weight": 0.0091
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "El asesinato"
+      },
+      {
+        "label": "NP",
+        "text": "trabajadores"
+      },
+      {
+        "label": "ADJP",
+        "text": "en"
+      },
+      {
+        "label": "NP",
+        "text": "Poderosa"
+      },
+      {
+        "label": "ADJP",
+        "text": "ubicada"
+      },
+      {
+        "label": "NP",
+        "text": "Pataz"
+      },
+      {
+        "label": "NP",
+        "text": "Perú"
+      },
+      {
+        "label": "NP",
+        "text": "desató"
+      },
+      {
+        "label": "NP",
+        "text": "un clima"
+      },
+      {
+        "label": "PP",
+        "text": "de terror"
+      },
+      {
+        "label": "NP",
+        "text": "terror"
+      },
+      {
+        "label": "VP",
+        "text": "atribuido a los presuntos"
+      },
+      {
+        "label": "NP",
+        "text": "a los presuntos"
+      },
+      {
+        "label": "VP",
+        "text": "perpetradores que"
+      },
+      {
+        "label": "NP",
+        "text": "ilegal"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP El/NNP asesinato/NN)\n  de/IN\n  13/CD\n  (NP trabajadores/NNS)\n  (ADJP en/JJ)\n  la/FW\n  mina/FW\n  de/FW\n  oro/FW\n  (NP Poderosa/NNP)\n  ,/,\n  (ADJP ubicada/JJ)\n  en/FW\n  la/FW\n  provincia/FW\n  de/FW\n  (NP Pataz/NNP)\n  ,/,\n  en/FW\n  el/FW\n  norte/FW\n  de/FW\n  (NP Perú/NNP)\n  ,/,\n  (NP desató/NN)\n  (NP un/JJ clima/NN)\n  (PP de/IN (NP terror/NN))\n  ,/,\n  (VP atribuido/VB (NP a/DT los/NN presuntos/NN))\n  (VP perpetradores/VBZ que/JJ)\n  pertenecerían/IN\n  a/DT\n  redes/FW\n  de/FW\n  la/FW\n  minería/FW\n  (NP ilegal/NN)\n  ./.)",
+      "(S\n  (NP Los/NNP mineros/NNS)\n  (VP habían/VBP (NP sido/JJ secuestrados/NN por/NN la/NN))\n  (PP organización/IN (NP criminal/JJ una/JJ semana/NN antes/NNS))\n  ,/,\n  y/CC\n  (NP su/NN fallecimiento/NN se/NN confirmó/NN este/NN domingo/NN)\n  ./.)",
+      "(S\n  (NP Con/NNP esto/NN)\n  ,/,\n  se/FW\n  (VP eleva/VBZ)\n  a/DT\n  39/CD\n  (NP el/NN número/NN)\n  (PP de/IN (NP muertes/NNS))\n  (VP vinculadas/VBP (NP a/DT este/NN tipo/NN))\n  (PP de/IN (NP crimen/NNS))\n  (VP organizado/VBP)\n  en/IN\n  la/FW\n  provincia/FW\n  de/FW\n  (NP Pataz/NNP)\n  ./.)",
+      "(S\n  (NP Ante/NNP esta/NN situación/NN)\n  ,/,\n  (NP los/JJ familiares/NNS)\n  de/IN\n  las/FW\n  (NP víctimas/NN)\n  ,/,\n  (NP junto/NN con/NN la/NN Sociedad/NNP Nacional/NNP)\n  de/FW\n  (NP Minería/NNP)\n  ,/,\n  (NP Petróleo/NNP y/NNP Energía/NNP)\n  ,/,\n  (VP instaronn/VBZ (NP a/DT las/NN))\n  (VP autoridades/VBZ (NP a/DT actuar/JJ con/NN prontitud/NN))\n  ./.)",
+      "(S\n  (NP Solicitan/NNP la/NN identificación/NN)\n  de/IN\n  los/FW\n  (NP responsables/NNS)\n  (VP para/VBP (NP que/JJ enfrenten/JJ las/NNS))\n  (VP consecuencias/VBP (NP legales/NNS correspondientes/NNS))\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "CANTIDADES_NUMERICAS",
+      "ELECCIONES_PROCESOS_POLITICOS",
+      "REGIONES_PROVINCIAS",
+      "PAISES",
+      "INFRAESTRUCTURA_SERVICIOS"
+    ],
+    "matches": [
+      {
+        "category": "ELECCIONES_PROCESOS_POLITICOS",
+        "matched_text": "declaró",
+        "position": [
+          1102,
+          1109
+        ],
+        "start": 1102,
+        "end": 1109
+      },
+      {
+        "category": "INFRAESTRUCTURA_SERVICIOS",
+        "matched_text": "energía",
+        "position": [
+          581,
+          588
+        ],
+        "start": 581,
+        "end": 588
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "perú",
+        "position": [
+          109,
+          113
+        ],
+        "start": 109,
+        "end": 113
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "provincia de",
+        "position": [
+          74,
+          86
+        ],
+        "start": 74,
+        "end": 86
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "13 trabajadores",
+        "position": [
+          16,
+          31
+        ],
+        "start": 16,
+        "end": 31
+      }
+    ],
+    "match_count": 5
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "provincia de Pataz",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Sociedad",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Energía",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Solicitan",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Aracoto",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Policía Nacional",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Perú",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Petróleo",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Gobierno",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Pataz",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Sociedad Nacional de Minería",
+        "tipo": "Organizacion"
+      }
+    ],
+    "relaciones": []
+  },
+  "sentiment": {
+    "compound": -0.7506,
+    "pos": 0.019,
+    "neu": 0.936,
+    "neg": 0.045,
+    "label": "negative"
+  }
+}

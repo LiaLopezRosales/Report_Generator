@@ -1,0 +1,640 @@
+{
+  "url": "https://www.telesurtv.net/colombia-aumentan-muertos-alud-antioquia/",
+  "title": "Elevan a 16 los fallecidos por un deslizamiento en Colombia",
+  "section": "América Latina y El Caribe",
+  "tags": [
+    "Alud",
+    "Antioquia",
+    "Deslizamiento de tierra",
+    "Municipio de Bello"
+  ],
+  "text": "Las autoridades del municipio colombiano de Bello, elevaron a 16 el saldo de fallecidos por un deslizamiento de tierra ocurrido a inicios de esta semana.\nEl gobernador del departamento de Antioquia, Andrés Julián Rendón, confirmó en la red X, la nueva cifra de fallecidos y añadió que hasta el jueves al menos ocho personas se encuentran desaparecidas. El martes la cifra inicial fue de 10 víctimas mortales.\nPor su parte la alcaldesa de Bello, Lorena González, aseguró que “la tierra todavía está inestable” y “hay mucho riesgo” para los rescatistas.\nEquipos de rescatistas continúan las labores de búsqueda y rescate entre toneladas de barro y tierra para encontrar sobrevivientes o cuerpos de víctimas en una montaña.\nLas intensas lluvias caídas en la zona desbordaron un río cercano causando el derrumbe.\nEl alud de lodo y tierra sepultó varias viviendas. Alrededor de 1.000 personas evacuaron sus hogares y fueron ubicadas en albergues temporales, ante alertas de posibles nuevos deslizamientos.\nLa temporada de lluvias en Colombia afectó este año a por lo menos 120.000 familias, según un balance de la estatal Unidad Nacional para la Gestión del Riesgo de Desastres.\n",
+  "source_metadata": {
+    "url": "https://www.telesurtv.net/colombia-aumentan-muertos-alud-antioquia/",
+    "json_file": "Data/teleSUR_tv/2025/mensajes_teleSUR_tv_2025-06.json",
+    "message_index": 248,
+    "message_id": 97585,
+    "date": "2025-06-27T05:55:07+00:00",
+    "text": "teleSUR\nElevan a 16 los fallecidos por un deslizamiento de tierra en Antioquia, Colombia\nhttps://www.telesurtv.net/colombia-aumentan-muertos-alud-antioquia/",
+    "photo_path": null,
+    "views": 2301,
+    "reactions": {
+      "😱": 31,
+      "🙏": 6,
+      "😭": 4,
+      "❤": 3
+    },
+    "total_reactions": 44
+  },
+  "preprocessing": {
+    "cleaned": "las autoridades del municipio colombiano de bello, elevaron a 16 el saldo de fallecidos por un deslizamiento de tierra ocurrido a inicios de esta semana. el gobernador del departamento de antioquia, andrés julián rendón, confirmó en la red x, la nueva cifra de fallecidos y añadió que hasta el jueves al menos ocho personas se encuentran desaparecidas. el martes la cifra inicial fue de 10 víctimas mortales. por su parte la alcaldesa de bello, lorena gonzález, aseguró que “la tierra todavía está inestable” y “hay mucho riesgo” para los rescatistas. equipos de rescatistas continúan las labores de búsqueda y rescate entre toneladas de barro y tierra para encontrar sobrevivientes o cuerpos de víctimas en una montaña. las intensas lluvias caídas en la zona desbordaron un río cercano causando el derrumbe. el alud de lodo y tierra sepultó varias viviendas. alrededor de 1.000 personas evacuaron sus hogares y fueron ubicadas en albergues temporales, ante alertas de posibles nuevos deslizamientos. la temporada de lluvias en colombia afectó este año a por lo menos 120.000 familias, según un balance de la estatal unidad nacional para la gestión del riesgo de desastres.",
+    "tokens": [
+      "autoridades",
+      "municipio",
+      "colombiano",
+      "bello",
+      ",",
+      "elevaron",
+      "16",
+      "saldo",
+      "fallecidos",
+      "deslizamiento",
+      "tierra",
+      "ocurrido",
+      "inicios",
+      "semana",
+      ".",
+      "gobernador",
+      "departamento",
+      "antioquia",
+      ",",
+      "andrés",
+      "julián",
+      "rendón",
+      ",",
+      "confirmó",
+      "red",
+      "x",
+      ",",
+      "nueva",
+      "cifra",
+      "fallecidos",
+      "añadió",
+      "jueves",
+      "menos",
+      "ocho",
+      "personas",
+      "encuentran",
+      "desaparecidas",
+      ".",
+      "martes",
+      "cifra",
+      "inicial",
+      "10",
+      "víctimas",
+      "mortales",
+      ".",
+      "parte",
+      "alcaldesa",
+      "bello",
+      ",",
+      "lorena",
+      "gonzález",
+      ",",
+      "aseguró",
+      "“",
+      "tierra",
+      "todavía",
+      "inestable",
+      "”",
+      "“",
+      "riesgo",
+      "”",
+      "rescatistas",
+      ".",
+      "equipos",
+      "rescatistas",
+      "continúan",
+      "labores",
+      "búsqueda",
+      "rescate",
+      "toneladas",
+      "barro",
+      "tierra",
+      "encontrar",
+      "sobrevivientes",
+      "cuerpos",
+      "víctimas",
+      "montaña",
+      ".",
+      "intensas",
+      "lluvias",
+      "caídas",
+      "zona",
+      "desbordaron",
+      "río",
+      "cercano",
+      "causando",
+      "derrumbe",
+      ".",
+      "alud",
+      "lodo",
+      "tierra",
+      "sepultó",
+      "varias",
+      "viviendas",
+      ".",
+      "alrededor",
+      "1.000",
+      "personas",
+      "evacuaron",
+      "hogares",
+      "ubicadas",
+      "albergues",
+      "temporales",
+      ",",
+      "alertas",
+      "posibles",
+      "nuevos",
+      "deslizamientos",
+      ".",
+      "temporada",
+      "lluvias",
+      "colombia",
+      "afectó",
+      "año",
+      "menos",
+      "120.000",
+      "familias",
+      ",",
+      "según",
+      "balance",
+      "estatal",
+      "unidad",
+      "nacional",
+      "gestión",
+      "riesgo",
+      "desastres",
+      "."
+    ],
+    "token_count": 127,
+    "sentence_count": 9
+  },
+  "pos_analysis": {
+    "tag_freq": {
+      "NNP": 24,
+      "VBZ": 4,
+      "FW": 34,
+      "JJ": 19,
+      "NN": 52,
+      "IN": 13,
+      "VBD": 3,
+      "CD": 4,
+      "NNS": 12,
+      "VBP": 10,
+      "RB": 1,
+      "$": 1
+    },
+    "bigram_freq": {
+      "NNP-VBZ": 2,
+      "VBZ-FW": 2,
+      "FW-JJ": 8,
+      "JJ-NN": 11,
+      "NN-IN": 7,
+      "IN-NNP": 2,
+      "NNP-VBD": 1,
+      "VBD-CD": 1,
+      "CD-JJ": 2,
+      "IN-FW": 9,
+      "FW-FW": 12,
+      "JJ-NNS": 1,
+      "NNS-IN": 2,
+      "JJ-NNP": 3,
+      "NNP-NN": 7,
+      "NN-NN": 25,
+      "NNP-NNP": 7,
+      "NN-JJ": 4,
+      "NN-FW": 6,
+      "FW-NN": 7,
+      "NN-VBP": 2,
+      "VBP-NNS": 3,
+      "NNS-VBP": 5,
+      "VBP-JJ": 2,
+      "NN-VBD": 2,
+      "VBD-NNS": 1,
+      "NNS-NNP": 2,
+      "JJ-JJ": 3,
+      "IN-CD": 1,
+      "CD-NNS": 2,
+      "NNS-NNS": 2,
+      "FW-NNP": 5,
+      "NNP-FW": 4,
+      "NN-VBZ": 2,
+      "VBZ-IN": 1,
+      "VBZ-VBP": 1,
+      "VBP-IN": 2,
+      "NN-NNP": 3,
+      "FW-CD": 1,
+      "VBP-NN": 2,
+      "NN-NNS": 1,
+      "JJ-FW": 1,
+      "FW-NNS": 1,
+      "IN-NNS": 1,
+      "NNS-RB": 1,
+      "RB-VBP": 1,
+      "VBP-NNP": 1,
+      "NNP-IN": 1,
+      "NNP-VBP": 1,
+      "VBD-$": 1,
+      "$-CD": 1
+    },
+    "trigram_freq": {
+      "NNP-VBZ-FW": 2,
+      "VBZ-FW-JJ": 2,
+      "FW-JJ-NN": 4,
+      "JJ-NN-IN": 5,
+      "NN-IN-NNP": 2,
+      "IN-NNP-VBD": 1,
+      "NNP-VBD-CD": 1,
+      "VBD-CD-JJ": 1,
+      "CD-JJ-NN": 1,
+      "NN-IN-FW": 4,
+      "IN-FW-FW": 4,
+      "FW-FW-JJ": 2,
+      "IN-FW-JJ": 4,
+      "FW-JJ-NNS": 1,
+      "JJ-NNS-IN": 1,
+      "NNS-IN-FW": 1,
+      "FW-JJ-NNP": 2,
+      "JJ-NNP-NN": 1,
+      "NNP-NN-NN": 6,
+      "NN-NN-NN": 11,
+      "NN-NN-IN": 1,
+      "IN-NNP-NNP": 1,
+      "NNP-NNP-NNP": 3,
+      "NNP-NNP-NN": 3,
+      "NN-NN-JJ": 3,
+      "NN-JJ-NN": 3,
+      "JJ-NN-FW": 1,
+      "NN-FW-NN": 1,
+      "FW-NN-IN": 1,
+      "JJ-NN-NN": 3,
+      "NN-NN-VBP": 2,
+      "NN-VBP-NNS": 1,
+      "VBP-NNS-VBP": 2,
+      "NNS-VBP-NNS": 2,
+      "NNS-VBP-JJ": 2,
+      "VBP-JJ-NN": 1,
+      "JJ-NN-VBD": 1,
+      "NN-VBD-NNS": 1,
+      "VBD-NNS-NNP": 1,
+      "NNS-NNP-VBZ": 1,
+      "FW-JJ-JJ": 1,
+      "JJ-JJ-NN": 2,
+      "NN-IN-CD": 1,
+      "IN-CD-NNS": 1,
+      "CD-NNS-NNS": 1,
+      "NNS-NNS-NNP": 1,
+      "NNS-NNP-NN": 1,
+      "NN-NN-FW": 3,
+      "NN-FW-FW": 4,
+      "FW-FW-FW": 3,
+      "FW-FW-NNP": 2,
+      "FW-NNP-NNP": 1,
+      "FW-FW-NN": 5,
+      "FW-NN-NN": 4,
+      "NN-JJ-NNP": 1,
+      "JJ-NNP-FW": 1,
+      "NNP-FW-FW": 1,
+      "NN-NN-VBZ": 2,
+      "NN-VBZ-IN": 1,
+      "VBZ-IN-FW": 1,
+      "IN-FW-NN": 1,
+      "FW-NN-FW": 1,
+      "NN-VBZ-VBP": 1,
+      "VBZ-VBP-IN": 1,
+      "VBP-IN-FW": 2,
+      "JJ-NN-NNP": 1,
+      "NN-NNP-NN": 2,
+      "NN-VBP-IN": 1,
+      "FW-NN-JJ": 1,
+      "NN-NN-NNP": 2,
+      "NNP-NN-FW": 1,
+      "NN-FW-NNP": 1,
+      "FW-NNP-FW": 2,
+      "NNP-FW-CD": 1,
+      "FW-CD-NNS": 1,
+      "CD-NNS-VBP": 1,
+      "NNS-VBP-NN": 1,
+      "VBP-NN-NNS": 1,
+      "NN-NNS-VBP": 1,
+      "VBP-JJ-FW": 1,
+      "JJ-FW-NNS": 1,
+      "FW-NNS-NNS": 1,
+      "NNS-NNS-VBP": 1,
+      "VBP-NNS-IN": 1,
+      "NNS-IN-NNS": 1,
+      "IN-NNS-RB": 1,
+      "NNS-RB-VBP": 1,
+      "RB-VBP-NNP": 1,
+      "VBP-NNP-NNP": 1,
+      "NNP-NNP-IN": 1,
+      "NNP-IN-FW": 1,
+      "FW-NNP-VBP": 1,
+      "NNP-VBP-NN": 1,
+      "VBP-NN-NN": 1,
+      "NN-NN-VBD": 1,
+      "NN-VBD-$": 1,
+      "VBD-$-CD": 1,
+      "$-CD-JJ": 1,
+      "CD-JJ-JJ": 1,
+      "JJ-JJ-JJ": 1,
+      "JJ-NNP-NNP": 1,
+      "NN-NNP-FW": 1,
+      "NNP-FW-NNP": 2
+    },
+    "top_patterns": {
+      "top_tags": {
+        "NN": 52,
+        "FW": 34,
+        "NNP": 24,
+        "JJ": 19,
+        "IN": 13
+      },
+      "top_bigrams": {
+        "NN-NN": 25,
+        "FW-FW": 12,
+        "JJ-NN": 11,
+        "IN-FW": 9,
+        "FW-JJ": 8
+      },
+      "top_trigrams": {
+        "NN-NN-NN": 11,
+        "NNP-NN-NN": 6,
+        "JJ-NN-IN": 5,
+        "FW-FW-NN": 5,
+        "FW-JJ-NN": 4
+      }
+    }
+  },
+  "grammar_analysis": {
+    "sentence_count": 9,
+    "chunk_counts": {
+      "NP": 51,
+      "VP": 14,
+      "PP": 2,
+      "ADJP": 1
+    },
+    "top_rules": [
+      {
+        "rule": "PP -> ('de', 'IN') NP",
+        "frequency": 2,
+        "weight": 0.026
+      },
+      {
+        "rule": "NP -> ('Bello', 'NNP')",
+        "frequency": 2,
+        "weight": 0.026
+      },
+      {
+        "rule": "S -> NP VP ('del', 'FW') NP PP (',', ',') VP ('a', 'DT') ('16', 'CD') NP ('de', 'IN') ('fallecidos', 'FW') ('por', 'FW') NP ('de', 'IN') ('tierra', 'FW') ('ocurrido', 'FW') ('a', 'DT') ('inicios', 'FW') ('de', 'FW') ('esta', 'FW') NP ('.', '.')",
+        "frequency": 1,
+        "weight": 0.013
+      },
+      {
+        "rule": "NP -> ('Las', 'NNP')",
+        "frequency": 1,
+        "weight": 0.013
+      },
+      {
+        "rule": "VP -> ('autoridades', 'VBZ')",
+        "frequency": 1,
+        "weight": 0.013
+      },
+      {
+        "rule": "NP -> ('municipio', 'JJ') ('colombiano', 'NN')",
+        "frequency": 1,
+        "weight": 0.013
+      },
+      {
+        "rule": "VP -> ('elevaron', 'VBZ')",
+        "frequency": 1,
+        "weight": 0.013
+      },
+      {
+        "rule": "NP -> ('el', 'NN') ('saldo', 'NN')",
+        "frequency": 1,
+        "weight": 0.013
+      },
+      {
+        "rule": "NP -> ('un', 'JJ') ('deslizamiento', 'NN')",
+        "frequency": 1,
+        "weight": 0.013
+      },
+      {
+        "rule": "NP -> ('semana', 'NN')",
+        "frequency": 1,
+        "weight": 0.013
+      }
+    ],
+    "sample_chunks": [
+      {
+        "label": "NP",
+        "text": "Las"
+      },
+      {
+        "label": "VP",
+        "text": "autoridades"
+      },
+      {
+        "label": "NP",
+        "text": "municipio colombiano"
+      },
+      {
+        "label": "PP",
+        "text": "de Bello"
+      },
+      {
+        "label": "NP",
+        "text": "Bello"
+      },
+      {
+        "label": "VP",
+        "text": "elevaron"
+      },
+      {
+        "label": "NP",
+        "text": "el saldo"
+      },
+      {
+        "label": "NP",
+        "text": "un deslizamiento"
+      },
+      {
+        "label": "NP",
+        "text": "semana"
+      },
+      {
+        "label": "NP",
+        "text": "El gobernador del departamento"
+      },
+      {
+        "label": "PP",
+        "text": "de Antioquia"
+      },
+      {
+        "label": "NP",
+        "text": "Antioquia"
+      },
+      {
+        "label": "NP",
+        "text": "Andrés Julián Rendón"
+      },
+      {
+        "label": "NP",
+        "text": "confirmó"
+      },
+      {
+        "label": "NP",
+        "text": "la"
+      }
+    ],
+    "clause_structures": [
+      "(S\n  (NP Las/NNP)\n  (VP autoridades/VBZ)\n  del/FW\n  (NP municipio/JJ colombiano/NN)\n  (PP de/IN (NP Bello/NNP))\n  ,/,\n  (VP elevaron/VBZ)\n  a/DT\n  16/CD\n  (NP el/NN saldo/NN)\n  de/IN\n  fallecidos/FW\n  por/FW\n  (NP un/JJ deslizamiento/NN)\n  de/IN\n  tierra/FW\n  ocurrido/FW\n  a/DT\n  inicios/FW\n  de/FW\n  esta/FW\n  (NP semana/NN)\n  ./.)",
+      "(S\n  (NP El/NNP gobernador/NN del/NN departamento/NN)\n  (PP de/IN (NP Antioquia/NNP))\n  ,/,\n  (NP Andrés/NNP Julián/NNP Rendón/NNP)\n  ,/,\n  (NP confirmó/NN)\n  en/FW\n  (NP la/NN)\n  (NP red/JJ X/NNP)\n  ,/,\n  la/FW\n  nueva/FW\n  (NP cifra/NN)\n  de/IN\n  fallecidos/FW\n  y/FW\n  añadió/FW\n  (NP que/NN hasta/NN)\n  (VP el/VBP (NP jueves/NNS))\n  (VP al/VBP (NP menos/NNS))\n  (VP ocho/VBP (NP personas/JJ se/NN encuentran/NN desaparecidas/NN))\n  ./.)",
+      "(S\n  (NP El/NNP)\n  (VP martes/VBZ)\n  la/FW\n  (NP cifra/JJ inicial/JJ fue/NN)\n  de/IN\n  10/CD\n  (NP víctimas/NN mortales/NNS)\n  ./.)",
+      "(S\n  (NP Por/NNP su/NN parte/NN)\n  la/FW\n  alcaldesa/FW\n  de/FW\n  (NP Bello/NNP)\n  ,/,\n  (NP Lorena/NNP González/NNP)\n  ,/,\n  (NP aseguró/NN que/NN “/NNP la/NNP tierra/NNP todavía/NN está/NN)\n  (NP\n    inestable/JJ\n    ”/JJ\n    y/NN\n    “/NNP\n    hay/NN\n    mucho/NN\n    riesgo/NN\n    ”/NNP\n    para/NN\n    los/NN\n    rescatistas/NNS)\n  ./.)",
+      "(S\n  (NP Equipos/NNP)\n  de/FW\n  rescatistas/FW\n  (NP continúan/NN las/NN)\n  (VP labores/VBZ)\n  de/IN\n  búsqueda/FW\n  (NP y/JJ rescate/NN entre/NN toneladas/NN)\n  de/IN\n  barro/FW\n  y/FW\n  (NP tierra/NN para/NN encontrar/NN)\n  (VP sobrevivientes/VBZ (NP o/JJ cuerpos/NN))\n  de/IN\n  víctimas/FW\n  en/FW\n  (NP una/JJ montaña/NN)\n  ./.)"
+    ]
+  },
+  "regex_annotations": {
+    "categories": [
+      "RECURSOS_NATURALES",
+      "DESASTRES_ACCIDENTES_EMERGENCIAS",
+      "TIEMPO_RELATIVO",
+      "CANTIDADES_NUMERICAS",
+      "REGIONES_PROVINCIAS",
+      "INSTITUCIONES_EDUCATIVAS",
+      "PAISES"
+    ],
+    "matches": [
+      {
+        "category": "DESASTRES_ACCIDENTES_EMERGENCIAS",
+        "matched_text": "deslizamiento de tierra",
+        "position": [
+          95,
+          118
+        ],
+        "start": 95,
+        "end": 118
+      },
+      {
+        "category": "INSTITUCIONES_EDUCATIVAS",
+        "matched_text": "departamento de antioquia",
+        "position": [
+          172,
+          197
+        ],
+        "start": 172,
+        "end": 197
+      },
+      {
+        "category": "RECURSOS_NATURALES",
+        "matched_text": "río",
+        "position": [
+          775,
+          778
+        ],
+        "start": 775,
+        "end": 778
+      },
+      {
+        "category": "PAISES",
+        "matched_text": "colombia",
+        "position": [
+          1028,
+          1036
+        ],
+        "start": 1028,
+        "end": 1036
+      },
+      {
+        "category": "REGIONES_PROVINCIAS",
+        "matched_text": "departamento de",
+        "position": [
+          172,
+          187
+        ],
+        "start": 172,
+        "end": 187
+      },
+      {
+        "category": "TIEMPO_RELATIVO",
+        "matched_text": "esta semana",
+        "position": [
+          141,
+          152
+        ],
+        "start": 141,
+        "end": 152
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "000 personas",
+        "position": [
+          875,
+          887
+        ],
+        "start": 875,
+        "end": 887
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "1.000 personas",
+        "position": [
+          873,
+          887
+        ],
+        "start": 873,
+        "end": 887
+      },
+      {
+        "category": "CANTIDADES_NUMERICAS",
+        "matched_text": "alrededor de 1.000",
+        "position": [
+          860,
+          878
+        ],
+        "start": 860,
+        "end": 878
+      }
+    ],
+    "match_count": 9
+  },
+  "knowledge_graph": {
+    "entidades": [
+      {
+        "nombre": "Bello",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Lorena González",
+        "tipo": "Persona"
+      },
+      {
+        "nombre": "Colombia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "departamento de Antioquia",
+        "tipo": "Lugar"
+      },
+      {
+        "nombre": "Unidad Nacional para la Gestión del Riesgo de Desastres",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Equipos",
+        "tipo": "Organizacion"
+      },
+      {
+        "nombre": "Andrés Julián Rendón",
+        "tipo": "Persona"
+      }
+    ],
+    "relaciones": [
+      {
+        "sujeto": "Colombia",
+        "relacion": "AFECTAR",
+        "objeto": "Unidad Nacional para la Gestión del Riesgo de Desastres"
+      }
+    ]
+  },
+  "sentiment": {
+    "compound": 0.0,
+    "pos": 0.0,
+    "neu": 1.0,
+    "neg": 0.0,
+    "label": "neutral"
+  }
+}
