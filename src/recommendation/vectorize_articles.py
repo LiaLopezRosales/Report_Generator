@@ -21,6 +21,48 @@ from src.recommendation.vectorizer import NewsVectorizer
 logger = logging.getLogger(__name__)
 
 
+def load_articles_with_vectors(directory_path: str) -> List[Dict[str, Any]]:
+    """
+    Carga artículos desde un directorio, asegurando que tengan vectores pre-calculados.
+    Si un artículo no tiene vector, lo omite (ya debería estar vectorizado).
+    
+    Args:
+        directory_path: Ruta al directorio con artículos JSON
+        
+    Returns:
+        Lista de artículos que tienen vectores pre-calculados
+    """
+    articles = []
+    
+    if not os.path.exists(directory_path):
+        logger.warning(f"Directorio no existe: {directory_path}")
+        return []
+    
+    try:
+        for filename in sorted(os.listdir(directory_path)):
+            if filename.endswith('.json') and filename.startswith('article_'):
+                file_path = os.path.join(directory_path, filename)
+                try:
+                    with open(file_path, 'r', encoding='utf-8') as f:
+                        article = json.load(f)
+                        
+                        # Verificar que tiene vector pre-calculado
+                        if 'vector' in article and isinstance(article.get('vector'), list):
+                            article['_file_path'] = file_path
+                            articles.append(article)
+                        else:
+                            logger.debug(f"Artículo sin vector: {filename}")
+                except Exception as e:
+                    logger.warning(f"Error cargando {file_path}: {e}")
+                    continue
+    except Exception as e:
+        logger.error(f"Error procesando directorio {directory_path}: {e}")
+        return []
+    
+    logger.info(f"✅ {len(articles)} artículos cargados con vectores desde {directory_path}")
+    return articles
+
+
 def extract_clean_text_from_article(article: Dict[str, Any]) -> Optional[str]:
     """
     Extrae el texto limpio de un artículo usando preprocessing existente
