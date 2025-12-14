@@ -13,7 +13,7 @@ import spacy
 
 nlp  = spacy.load('es_core_news_lg')
 
-path = 'Data_articles'
+path = 'Data/Data_articles'
 data_dirs = [x for x in os.listdir(path) if not x.startswith(".")]
 
 def load_raw_data(limit=None):
