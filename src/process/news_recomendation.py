@@ -77,8 +77,6 @@ def get_sorted_article_directories(base_path: str = "Data/Data_articles") -> Lis
 
 def process_user_input(
     user_input: str,
-    text_processor: TextPreprocessor,
-    annotator: RegexAnnotator,
     nlp=None
 ) -> Dict[str, Any]:
     """
@@ -107,6 +105,9 @@ def process_user_input(
         }
     
     try:
+        text_processor = TextPreprocessor(use_spacy=False, remove_stopwords=True)
+        annotator = RegexAnnotator()
+        
         # Preprocesar texto (similar a process_single_article en main.py)
         clean_tokens = text_processor.preprocess(user_input, return_tokens=True)
         clean_text = ' '.join(clean_tokens)
@@ -459,8 +460,6 @@ def find_relevant_articles_with_time_strategy(
 def generate_report_recommendations(
     user_input: str,
     user_id: str,
-    text_processor: TextPreprocessor,
-    annotator: RegexAnnotator,
     profile_vectorizer: UserProfileVectorizer,
     matcher: NewsMatcher,
     nlp=None,
@@ -513,8 +512,6 @@ def generate_report_recommendations(
     # 2. Procesar input del usuario
     processed_input = process_user_input(
         user_input,
-        text_processor,
-        annotator,
         nlp=nlp
     )
     

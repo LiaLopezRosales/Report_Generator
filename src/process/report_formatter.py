@@ -250,8 +250,6 @@ def _transform_matches_for_report(
 def generate_report_from_user_query(
     user_id: str,
     user_query: str,
-    text_processor,
-    annotator,
     profile_vectorizer,
     matcher,
     summarizer: Optional[PersonalizedSummarizer] = None,
@@ -290,8 +288,6 @@ def generate_report_from_user_query(
     recommendations = generate_report_recommendations(
         user_input=user_query,
         user_id=user_id,
-        text_processor=text_processor,
-        annotator=annotator,
         profile_vectorizer=profile_vectorizer,
         matcher=matcher,
         nlp=nlp,
