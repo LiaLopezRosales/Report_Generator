@@ -87,7 +87,9 @@ class ArticleLoader:
             'section': article.get('section', ''),
             'tags': article.get('tags', []),
             'text': article.get('text', ''),
-            'source_metadata': article.get('source_metadata', {})
+            'source_metadata': article.get('source_metadata', {}),
+            'preprocessing': article.get('preprocessing', {}),
+            'regex_annotations': article.get('regex_annotations', {})
         }
         
         # Asegurar que tags es una lista
