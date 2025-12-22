@@ -497,6 +497,7 @@ body {
     font-family: inherit;
     outline: none;
     resize: none;
+    color: #000; /* texto negro para mejor contraste */
 }
 
 #sendBtn {
@@ -512,6 +513,11 @@ body {
     justify-content: center;
     transition: transform 0.2s;
     flex-shrink: 0;
+    position: relative;
+}
+
+#sendBtn.loading {
+    cursor: wait;
 }
 
 #sendBtn:hover:not(:disabled) {
@@ -526,6 +532,20 @@ body {
 #sendBtn svg {
     width: 20px;
     height: 20px;
+}
+
+#sendBtn .spinner {
+    animation: spin 1s linear infinite;
+}
+
+#sendBtn .spinner .path {
+    stroke: white;
+    stroke-linecap: round;
+}
+
+@keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
 }
 
 /* Scrollbar Styling */
