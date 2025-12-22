@@ -106,7 +106,7 @@ async function loadAndDisplayMessages() {
  */
 function displayMessage(message: SessionMessage) {
     const messagesContainer = document.getElementById('messagesContainer');
-    if (!messagesContainer) return;
+    if (!messagesContainer) return null;
     
     if (message.type === 'request') {
         // User request - right side
@@ -133,16 +133,21 @@ function displayMessage(message: SessionMessage) {
         
         reportDiv.innerHTML = `
             <div class="report-content">
+                ${message.report_data ? 
+                    `<button class="btn-download" onclick="downloadReport(${JSON.stringify(message.report_data).replace(/"/g, '&quot;')})">` : 
+                    ''}
                 ${reportHtml}
                 <div class="report-actions">
-                    <button class="btn-download" onclick="downloadReport(${JSON.stringify(message.report_data).replace(/"/g, '&quot;')})">
-                        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                            <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path>
-                            <polyline points="7 10 12 15 17 10"></polyline>
-                            <line x1="12" y1="15" x2="12" y2="3"></line>
-                        </svg>
-                        Descargar PDF
-                    </button>
+                    ${message.report_data ? 
+                        `<button class="btn-download" onclick="downloadReport(${JSON.stringify(message.report_data).replace(/"/g, '&quot;')})">
+                            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path>
+                                <polyline points="7 10 12 15 17 10"></polyline>
+                                <line x1="12" y1="15" x2="12" y2="3"></line>
+                            </svg>
+                            Descargar PDF
+                        </button>` : 
+                        ''}
                 </div>
                 <span class="message-time">${formatTime(message.timestamp)}</span>
             </div>
@@ -151,6 +156,7 @@ function displayMessage(message: SessionMessage) {
     }
     
     scrollToBottom();
+    return messagesContainer.lastElementChild as HTMLElement | null;
 }
 
 /**
@@ -210,7 +216,7 @@ function renderReport(report: any): string {
 async function handleSendMessage() {
     const messageInput = document.getElementById('messageInput') as HTMLInputElement;
     const sendBtn = document.getElementById('sendBtn') as HTMLButtonElement;
-    
+
     if (!messageInput || !sendBtn) return;
     
     const message = messageInput.value.trim();
@@ -218,16 +224,16 @@ async function handleSendMessage() {
     
     // Clear input
     messageInput.value = '';
-    
+        
     // Add user message to session
     await addMessage('request', message);
+    console.log('[UI] send click -> mensaje añadido a la sesión');
     // Reload session to display the message
     await loadAndDisplayMessages();
-    
+
     // Show loading state
-    isLoading = true;
-    sendBtn.disabled = true;
-    messageInput.disabled = true;
+    console.log('[UI] send click -> loading');
+    setLoadingState(true);
     
     // Show loading message
     const loadingMessage: SessionMessage = {
@@ -235,48 +241,46 @@ async function handleSendMessage() {
         content: 'Generando reporte...',
         timestamp: new Date().toISOString()
     };
-    displayMessage(loadingMessage);
+    loadingMessageEl = displayMessage(loadingMessage);
     
     try {
-        // Get user profile text
-        const profileText = currentUser?.profile_text || message;
-        
-        // Send request to API
-        const response = await fetch(`${API_URL}/recommendations/generate`, {
+        console.log('[API] start generate-text-report');
+        const t0 = performance.now();
+        console.log('[API] start generate-from-input - sending request');
+        // Send request to API (endpoint con estructura de respuesta correcta)
+        const response = await fetch(`${API_URL}/recommendations/generate-text-report`, {
             method: 'POST',
             headers: {
                 'Content-Type': 'application/json',
             },
             body: JSON.stringify({
-                profile_text: profileText,
-                max_articles: 10
+                user_id: currentUser?.number || currentUser?.name,
+                user_input: message,
+                max_articles: 10,
+                input_weight: 0.7,
+                prioritize_recent: true
             })
         });
+
+        console.log('[API] generate-text-report ended successfully');
         
         if (!response.ok) {
             throw new Error(`Error: ${response.statusText}`);
         }
         
         const data = await response.json();
-        const report = data.report;
+        console.log('[API] done', { elapsed_ms: Math.round(performance.now() - t0), status: data.status });
         
-        // Remove loading message
-        const messagesContainer = document.getElementById('messagesContainer');
-        if (messagesContainer && messagesContainer.lastElementChild) {
-            messagesContainer.removeChild(messagesContainer.lastElementChild);
-        }
+        removeLoadingMessage();
         
-        // Add report message to session
-        await addMessage('report', 'Reporte generado exitosamente', report);
+        // Add text report message to session
+        await addMessage('report', 'Reporte generado exitosamente', data.text_report);
         // Reload session to display the report
         await loadAndDisplayMessages();
         
     } catch (error: any) {
-        // Remove loading message
-        const messagesContainer = document.getElementById('messagesContainer');
-        if (messagesContainer && messagesContainer.lastElementChild) {
-            messagesContainer.removeChild(messagesContainer.lastElementChild);
-        }
+        console.error('[API] error', error);
+        removeLoadingMessage();
         
         // Add error message to session
         const errorContent = `Error: ${error.message || 'No se pudo generar el reporte'}`;
@@ -284,9 +288,7 @@ async function handleSendMessage() {
         // Reload session to display the error
         await loadAndDisplayMessages();
     } finally {
-        isLoading = false;
-        sendBtn.disabled = false;
-        messageInput.disabled = false;
+        setLoadingState(false);
         messageInput.focus();
     }
 }
@@ -352,7 +354,6 @@ function scrollToBottom() {
     }
 }
 
-
 function setLoadingState(loading: boolean) {
     isLoading = loading;
     const sendBtn = document.getElementById('sendBtn') as HTMLButtonElement | null;
@@ -389,13 +390,11 @@ function removeLoadingMessage() {
     loadingMessageEl = null;
 }
 
-
 // Initialize app when DOM is ready
 if (document.readyState === 'loading') {
     document.addEventListener('DOMContentLoaded', init);
 } else {
     init();
 }
-
 
 export {};
