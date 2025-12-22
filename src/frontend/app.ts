@@ -10,6 +10,7 @@ const API_URL = 'http://localhost:8000';
 
 let currentUser: User | null = null;
 let isLoading = false;
+let loadingMessageEl: HTMLElement | null = null;
 
 /**
  * Initialize the application
@@ -351,6 +352,44 @@ function scrollToBottom() {
     }
 }
 
+
+function setLoadingState(loading: boolean) {
+    isLoading = loading;
+    const sendBtn = document.getElementById('sendBtn') as HTMLButtonElement | null;
+    const messageInput = document.getElementById('messageInput') as HTMLInputElement | null;
+    if (!sendBtn || !messageInput) return;
+    
+    sendBtn.disabled = loading;
+    // messageInput.disabled = loading;
+    
+    if (loading) {
+        sendBtn.classList.add('loading');
+        sendBtn.innerHTML = `
+            <svg class="spinner" viewBox="0 0 50 50">
+                <circle class="path" cx="25" cy="25" r="20" fill="none" stroke-width="5"></circle>
+            </svg>
+        `;
+    } else {
+        sendBtn.classList.remove('loading');
+        sendBtn.innerHTML = `
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <line x1="22" y1="2" x2="11" y2="13"></line>
+                <polygon points="22 2 15 22 11 13 2 9 22 2"></polygon>
+            </svg>
+        `;
+    }
+}
+
+function removeLoadingMessage() {
+    if (!loadingMessageEl) return;
+    const messagesContainer = document.getElementById('messagesContainer');
+    if (messagesContainer && messagesContainer.contains(loadingMessageEl)) {
+        messagesContainer.removeChild(loadingMessageEl);
+    }
+    loadingMessageEl = null;
+}
+
+
 // Initialize app when DOM is ready
 if (document.readyState === 'loading') {
     document.addEventListener('DOMContentLoaded', init);
@@ -358,3 +397,5 @@ if (document.readyState === 'loading') {
     init();
 }
 
+
+export {};
