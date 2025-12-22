@@ -11,7 +11,7 @@ import threading
 import time
 from datetime import datetime
 from pathlib import Path
-from typing import Any, Dict, List, Literal, Optional
+from typing import Any, Dict, List, Literal, Optional, Tuple
 
 import spacy
 from fastapi import FastAPI, HTTPException
@@ -19,10 +19,12 @@ from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import FileResponse
 from pydantic import BaseModel, Field
 
-from src.data.loader import ArticleLoader
+import os
+
 from src.nlp.preprocessing import TextPreprocessor
 from src.nlp.regex_annotator import RegexAnnotator
 from src.process.profile_process import create_complete_user_profile
+from src.process.report_formatter import generate_report_from_user_query
 from src.recommendation.matcher import NewsMatcher
 from src.recommendation.report_generator import ReportGenerator
 from src.recommendation.user_profile import UserProfileManager
@@ -50,14 +52,21 @@ _profile_vectorizer: Optional[UserProfileVectorizer] = None
 _profile_manager: Optional[UserProfileManager] = None
 _matcher: Optional[NewsMatcher] = None
 _report_generator: Optional[ReportGenerator] = None
-_text_preprocessor = TextPreprocessor(use_spacy=False)
-_regex_annotator = RegexAnnotator()
+_text_preprocessor: Optional[TextPreprocessor] = None
+_regex_annotator: Optional[RegexAnnotator] = None
 
-try:
-    _spacy_nlp = spacy.load("es_core_news_sm")
-except Exception:  # pragma: no cover - optional dependency
-    _spacy_nlp = None
-    logger.warning("spaCy spanish model not found; entities will be empty.")
+_spacy_nlp: Optional[Any] = None
+
+def _load_spacy_model() -> Optional[Any]:
+    """Carga el modelo de spaCy de forma lazy."""
+    global _spacy_nlp
+    if _spacy_nlp is not None:
+        return _spacy_nlp
+    try:
+        _spacy_nlp = spacy.load("es_core_news_sm")
+    except Exception:
+        logger.warning("spaCy spanish model not found; entities will be empty.")
+    return _spacy_nlp
 
 
 def _try_auto_update_news() -> None:
@@ -111,6 +120,15 @@ def _ensure_base_files() -> None:
             ),
             encoding="utf-8",
         )
+    else:
+        try:
+            with open(SESSION_FILE, 'r', encoding='utf-8') as f:
+                session = json.load(f)
+                user_id = session.get("user_id")
+                clean_session = _create_empty_session(user_id)
+                _save_session(clean_session)
+        except json.JSONDecodeError as e:
+            logger.error(f"Error decodificando JSON en {file_path}: {e}")
 
     PDF_OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 
@@ -150,7 +168,8 @@ def _slugify(value: str) -> str:
 
 
 def _create_empty_session(user_id: str) -> Dict[str, Any]:
-    now = datetime.utcnow().isoformat()
+    # Hora local para que el frontend muestre hora correcta del sistema
+    now = datetime.now().isoformat()
     return {"user_id": user_id, "messages": [], "created_at": now, "updated_at": now}
 
 
@@ -167,23 +186,21 @@ def _save_session(session: Dict[str, Any]) -> None:
         _write_json(SESSION_FILE, session)
 
 
-def _ensure_profile_components() -> None:
+def _ensure_profile_components() -> tuple[UserProfileVectorizer, UserProfileManager]:
     """
-    Initialize only the components needed for user profile creation.
-    Does NOT load articles - only creates vectorizers for profile processing.
-    Uses generic Spanish text to initialize the vectorizer vocabulary.
+    Inicializa solo los componentes necesarios para crear perfiles de usuario.
+    No carga artículos, solo crea vectorizadores para procesamiento de perfiles.
+    Retorna los componentes listos para usar.
     """
     global _news_vectorizer, _profile_vectorizer, _profile_manager
 
     if _profile_manager and _profile_vectorizer and _news_vectorizer:
-        return
+        return _profile_vectorizer, _profile_manager
 
     with _articles_lock:
         if _profile_manager and _profile_vectorizer and _news_vectorizer:
-            return
+            return _profile_vectorizer, _profile_manager
 
-        # Create a basic vectorizer with relaxed parameters for profile-only use
-        # Use min_df=1 instead of 2 since we have few generic texts
         from sklearn.feature_extraction.text import TfidfVectorizer
         
         basic_vectorizer = TfidfVectorizer(
@@ -191,14 +208,12 @@ def _ensure_profile_components() -> None:
             ngram_range=(1, 2),
             stop_words=None,
             lowercase=True,
-            min_df=1,  # Allow terms that appear in just 1 document (needed for small vocab)
+            min_df=1,
             max_df=0.95,
             sublinear_tf=True,
             norm='l2',
         )
         
-        # Fit with expanded generic Spanish text to initialize vocabulary
-        # Repeat terms to ensure they appear multiple times
         generic_texts = [
             "política economía internacional derechos humanos tecnología deportes cultura salud medio ambiente educación ciencia sociedad",
             "política economía internacional derechos humanos tecnología deportes cultura salud medio ambiente educación ciencia sociedad noticias",
@@ -209,7 +224,6 @@ def _ensure_profile_components() -> None:
         ]
         basic_vectorizer.fit(generic_texts)
         
-        # Wrap in NewsVectorizer-compatible object
         vectorizer = NewsVectorizer(max_features=4000, ngram_range=(1, 2))
         vectorizer.vectorizer = basic_vectorizer
         vectorizer.fitted = True
@@ -221,40 +235,81 @@ def _ensure_profile_components() -> None:
         _profile_vectorizer = profile_vectorizer
         _profile_manager = profile_manager
 
-        logger.info("Profile components initialized (no articles loaded).")
+        logger.info("Profile components initialized.")
+        return profile_vectorizer, profile_manager
 
 
-def _ensure_recommendation_stack() -> None:
+def _ensure_recommendation_stack() -> tuple[ReportGenerator]:
     """
-    Lazily load and cache articles, vectorizers, and generators.
-    Runs once and is shared across requests.
+    Carga y cachea artículos (sin preprocesamiento).
+    El preprocesamiento, matcheo y recomendaciones se hacen en src/process.
+    Se ejecuta una sola vez y se comparte entre requests.
+    Retorna: (report_generator,)
     """
-    global _articles_cache, _news_vectorizer, _profile_vectorizer
-    global _profile_manager, _matcher, _report_generator
+    global _report_generator
 
-    if _articles_cache and _news_vectorizer and _profile_manager and _matcher:
-        return
+    if _report_generator:
+        return (_report_generator,)
 
     with _articles_lock:
-        if _articles_cache and _news_vectorizer and _profile_manager and _matcher:
-            return
+        if _report_generator:
+            return (_report_generator,)
 
         if not ARTICLES_DIR.exists():
             raise HTTPException(status_code=500, detail="Articles directory not found.")
 
+        from src.data.loader import ArticleLoader
+        
+        loader = ArticleLoader(str(ARTICLES_DIR))
+        articles = loader.load_all_articles(recursive=True)
+        if not articles:
+            raise HTTPException(status_code=500, detail="No articles found.")
+
+        base_summarizer = TextRankSummarizer(language="spanish")
+        personalized_summarizer = PersonalizedSummarizer(base_summarizer)
+        report_generator = ReportGenerator(personalized_summarizer)
+
+        _report_generator = report_generator
+
+        logger.info("Report generator initialized (%s articles available).", len(articles))
+        return (_report_generator,)
+
+
+def _ensure_matching_components() -> tuple[UserProfileVectorizer, NewsMatcher]:
+    """
+    Inicializa profile_vectorizer y matcher necesarios para generate_report_from_user_query.
+    Carga artículos con preprocesamiento completo para el matcheo.
+    Se ejecuta una sola vez y se comparte entre requests.
+    Retorna: (profile_vectorizer, matcher)
+    """
+    global _profile_vectorizer, _matcher
+
+    print("globales inicializados en _ensure_matching_components")
+
+    if _profile_vectorizer and _matcher:
+        print("ya fueron cargadas las variables")
+        return _profile_vectorizer, _matcher
+
+    with _articles_lock:
+        if _profile_vectorizer and _matcher:
+            return _profile_vectorizer, _matcher
+
+        if not ARTICLES_DIR.exists():
+            raise HTTPException(status_code=500, detail="Articles directory not found.")
+
+        from src.data.loader import ArticleLoader
+        
         loader = ArticleLoader(str(ARTICLES_DIR))
         raw_articles = loader.load_all_articles(recursive=True)
         if not raw_articles:
-            raise HTTPException(status_code=500, detail="No articles found to process.")
+            raise HTTPException(status_code=500, detail="No articles found.")
 
         processed_articles: List[Dict[str, Any]] = []
         clean_texts: List[str] = []
 
         for idx, article in enumerate(raw_articles):
-            text = article.get("text", "") or ""
-            clean_tokens = _text_preprocessor.preprocess(text, return_tokens=True)
-            clean_text = " ".join(clean_tokens)
-            annotations = _regex_annotator.annotate(text)
+            clean_text = article.get('preprocessing', {}).get('cleaned', "")
+            annotations = article.get('regex_annotations', {})
 
             processed = {
                 **article,
@@ -266,27 +321,22 @@ def _ensure_recommendation_stack() -> None:
             processed_articles.append(processed)
             clean_texts.append(clean_text)
 
+        print("todos los artículos han sido cargados")
+
         vectorizer = NewsVectorizer(max_features=4000, ngram_range=(1, 2))
         article_matrix = vectorizer.fit_transform0(clean_texts)
         for i, article in enumerate(processed_articles):
             article["vector"] = article_matrix[i].tolist()
+        
+        print("vectorizador entrenado")
 
         profile_vectorizer = UserProfileVectorizer(vectorizer)
-        profile_manager = UserProfileManager(profile_vectorizer)
         matcher = NewsMatcher.from_articles(processed_articles, vectorizer=vectorizer)
 
-        base_summarizer = TextRankSummarizer(language="spanish")
-        personalized_summarizer = PersonalizedSummarizer(base_summarizer)
-        report_generator = ReportGenerator(personalized_summarizer)
-
-        _articles_cache = processed_articles
-        _news_vectorizer = vectorizer
         _profile_vectorizer = profile_vectorizer
-        _profile_manager = profile_manager
         _matcher = matcher
-        _report_generator = report_generator
 
-        logger.info("Articles and recommendation stack initialized (%s articles).", len(_articles_cache))
+        logger.info("Matching components initialized (%s articles processed).", len(processed_articles))
 
 
 # Request models
@@ -318,6 +368,15 @@ class RecommendationRequest(BaseModel):
     max_articles: int = 10
 
 
+class UserInputRecommendationRequest(BaseModel):
+    """Request para generar recomendaciones desde input del usuario"""
+    user_id: str
+    user_input: str
+    max_articles: int = 10
+    input_weight: float = 0.7
+    prioritize_recent: bool = True
+
+
 class PDFRequest(BaseModel):
     report: Dict[str, Any]
     user_name: Optional[str] = None
@@ -339,6 +398,7 @@ def startup_event() -> None:
     _ensure_base_files()
     # Ejecutar actualización automática de noticias en background (best-effort)
     _try_auto_update_news()
+    _ensure_matching_components()
 
 
 @app.get("/health")
@@ -358,30 +418,31 @@ def login(payload: LoginRequest) -> Dict[str, Any]:
     users = _load_users()
     for user in users:
         if user.get("name") == payload.name and user.get("password") == payload.password:
+            session = _create_empty_session(user.get("number"))
+            _save_session(session)
             return {"user": user}
     raise HTTPException(status_code=401, detail="Invalid credentials")
 
 
 @app.post("/api/users/register")
 def register(payload: RegisterRequest) -> Dict[str, Any]:
-    # Only initialize profile components, not the full recommendation stack
-    _ensure_profile_components()
+    profile_vectorizer, profile_manager = _ensure_profile_components()
     users = _load_users()
 
     # Check if user with same name already exists
     if any(u.get("name") == payload.name for u in users):
         raise HTTPException(status_code=400, detail="User with this name already exists")
 
-    # Process user profile using the improved pipeline
+    nlp = _load_spacy_model()
     profile_data = create_complete_user_profile(
         selected_categories=payload.selected_categories,
         additional_interests=payload.additional_interests or "",
-        profile_manager=_profile_manager,
-        profile_vectorizer=_profile_vectorizer,
-        nlp=_spacy_nlp
+        profile_manager=profile_manager,
+        profile_vectorizer=profile_vectorizer,
+        nlp=nlp
     )
 
-    now = datetime.utcnow().isoformat()
+    now = datetime.now().isoformat()
     # Generate internal user number (not shown to user)
     number = f"user_{int(time.time()*1000)}"
 
@@ -400,6 +461,8 @@ def register(payload: RegisterRequest) -> Dict[str, Any]:
 
     users.append(new_user)
     _save_users(users)
+    session = _create_empty_session(number)
+    _save_session(session)
     return {"user": new_user}
 
 
@@ -422,7 +485,7 @@ def add_session_message(payload: SessionMessageRequest) -> Dict[str, Any]:
     message = {
         "type": payload.type,
         "content": payload.content,
-        "timestamp": datetime.utcnow().isoformat(),
+        "timestamp": datetime.now().isoformat(),  # hora local
     }
     if payload.report_data is not None:
         message["report_data"] = payload.report_data
@@ -441,29 +504,65 @@ def clear_session(payload: ClearSessionRequest) -> Dict[str, Any]:
 
 
 # Recommendation and reports
-@app.post("/recommendations/generate")
-def generate_recommendations(payload: RecommendationRequest) -> Dict[str, Any]:
-    _ensure_recommendation_stack()
+@app.post("/recommendations/generate-text-report")
+def generate_text_report(payload: UserInputRecommendationRequest) -> Dict[str, str]:
+    """
+    Genera un reporte en texto plano usando generate_report_from_user_query().
+    Devuelve texto plano para mostrar en el scroller del frontend.
+    """
+    print("se hizo la llamada")
+    t_start = time.monotonic()
+    logger.info("=" * 80)
+    logger.info("generate-text-report | REQUEST RECEIVED")
+    logger.info("generate-text-report | user_id=%s", payload.user_id)
+    logger.info("generate-text-report | user_input length=%d", len(payload.user_input))
+    logger.info("generate-text-report | max_articles=%d", payload.max_articles)
 
-    profile_data = _profile_manager.create_profile(payload.profile_text, nlp=_spacy_nlp)
-    matches = _matcher.match_articles(
-        profile_data,
-        _articles_cache,
-        top_k=payload.max_articles,
-    )
-    report = _report_generator.generate_report(matches, profile_data, max_articles=payload.max_articles)
-    return {"report": report}
+    print("logguers informations trowns")
+
+    nlp = _load_spacy_model()
+
+    print("inicializado nlp")
+
+    users_file_path = str(USERS_FILE)
+
+    print("establecida dirección del archivo de usuario")
+    
+    try:
+        # Generar reporte en texto plano usando la función de report_formatter
+        text_report = generate_report_from_user_query(
+            user_id=payload.user_id,
+            user_query=payload.user_input,
+            profile_vectorizer=_profile_vectorizer,
+            matcher=_matcher,
+            nlp=nlp,
+            max_articles=payload.max_articles,
+            users_file_path=users_file_path
+        )
+
+        print("se generó el reporte a partir de la query del usuario")
+        
+        logger.info("generate-text-report | completed in %.2fs total", time.monotonic() - t_start)
+        
+        return {
+            "text_report": text_report,
+            "status": "success"
+        }
+        
+    except Exception as e:
+        logger.error("generate-text-report | error: %s", str(e))
+        raise HTTPException(status_code=500, detail=f"Error generating text report: {str(e)}")
 
 
 @app.post("/reports/generate-pdf")
 def generate_pdf(payload: PDFRequest):
-    _ensure_recommendation_stack()
+    (report_generator,) = _ensure_recommendation_stack()
     if not payload.report:
         raise HTTPException(status_code=400, detail="Report payload is required.")
 
     user_slug = _slugify(payload.user_name or "usuario")
     filename = PDF_OUTPUT_DIR / f"reporte_{user_slug}_{int(time.time())}.pdf"
-    ok = _report_generator.generate_pdf(payload.report, str(filename), payload.user_name)
+    ok = report_generator.generate_pdf(payload.report, str(filename), payload.user_name)
 
     if not ok or not filename.exists():
         raise HTTPException(status_code=500, detail="Could not generate PDF.")
