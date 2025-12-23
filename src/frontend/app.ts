@@ -170,7 +170,10 @@ function renderReport(report: any): string {
             <h3>📰 Reporte Personalizado</h3>
             <p class="report-meta">
                 Generado: ${new Date(report.generated_at).toLocaleString('es-ES')} | 
-                Artículos: ${report.articles_in_report || 0} / ${report.total_articles || 0}
+                Artículos: ${report.articles_stats[0] || 0} / ${report.articles_stats[1] || 0} |
+                Categorías de Interés: ${report.categories_of_interest.map((cat: string) => 
+                                `<span class="category-tag">${escapeHtml(cat)}</span>`
+                            ).join('')}
             </p>
         </div>
     `;
@@ -181,20 +184,14 @@ function renderReport(report: any): string {
                 <div class="article-card">
                     <div class="article-title">${index + 1}. ${escapeHtml(article.title || 'Sin título')}</div>
                     <div class="article-meta">
-                        Sección: ${escapeHtml(article.section || 'N/A')} | 
-                        Score: <span class="score">${article.score?.toFixed(3) || '0.000'}</span>
+                        Sección: ${escapeHtml(article.section || 'N/A')} 
+                    </div>
+                    <div class="article_date">
+                        Fecha de la noticia: ${new Date(report.date).toLocaleString('es-ES')}
                     </div>
                     <div class="article-summary">
                         <strong>Resumen:</strong> ${escapeHtml(article.summary || 'Sin resumen')}
                     </div>
-                    ${article.justification?.matching_categories?.length > 0 ? `
-                        <div class="article-justification">
-                            <strong>Categorías coincidentes:</strong>
-                            ${article.justification.matching_categories.map((cat: string) => 
-                                `<span class="category-tag">${escapeHtml(cat)}</span>`
-                            ).join('')}
-                        </div>
-                    ` : ''}
                     ${article.url ? `
                         <div class="article-link">
                             <a href="${escapeHtml(article.url)}" target="_blank">Ver artículo completo →</a>
@@ -273,8 +270,8 @@ async function handleSendMessage() {
         
         removeLoadingMessage();
         
-        // Add text report message to session
-        await addMessage('report', 'Reporte generado exitosamente', data.text_report);
+        // Add structured report message to session
+        await addMessage('report', 'Reporte generado exitosamente', data.structured_report);
         // Reload session to display the report
         await loadAndDisplayMessages();
         
