@@ -120,15 +120,15 @@ def _ensure_base_files() -> None:
             ),
             encoding="utf-8",
         )
-    else:
-        try:
-            with open(SESSION_FILE, 'r', encoding='utf-8') as f:
-                session = json.load(f)
-                user_id = session.get("user_id")
-                clean_session = _create_empty_session(user_id)
-                _save_session(clean_session)
-        except json.JSONDecodeError as e:
-            logger.error(f"Error decodificando JSON en {file_path}: {e}")
+    # else:
+    #     try:
+    #         with open(SESSION_FILE, 'r', encoding='utf-8') as f:
+    #             session = json.load(f)
+    #             user_id = session.get("user_id")
+    #             clean_session = _create_empty_session(user_id)
+    #             _save_session(clean_session)
+    #     except json.JSONDecodeError as e:
+    #         logger.error(f"Error decodificando JSON en {file_path}: {e}")
 
     PDF_OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 
@@ -418,8 +418,8 @@ def login(payload: LoginRequest) -> Dict[str, Any]:
     users = _load_users()
     for user in users:
         if user.get("name") == payload.name and user.get("password") == payload.password:
-            session = _create_empty_session(user.get("number"))
-            _save_session(session)
+            # session = _create_empty_session(user.get("number"))
+            # _save_session(session)
             return {"user": user}
     raise HTTPException(status_code=401, detail="Invalid credentials")
 
@@ -461,8 +461,8 @@ def register(payload: RegisterRequest) -> Dict[str, Any]:
 
     users.append(new_user)
     _save_users(users)
-    session = _create_empty_session(number)
-    _save_session(session)
+    # session = _create_empty_session(number)
+    # _save_session(session)
     return {"user": new_user}
 
 
@@ -505,7 +505,7 @@ def clear_session(payload: ClearSessionRequest) -> Dict[str, Any]:
 
 # Recommendation and reports
 @app.post("/recommendations/generate-text-report")
-def generate_text_report(payload: UserInputRecommendationRequest) -> Dict[str, str]:
+def generate_text_report(payload: UserInputRecommendationRequest) -> Dict[str, Any]:
     """
     Genera un reporte en texto plano usando generate_report_from_user_query().
     Devuelve texto plano para mostrar en el scroller del frontend.
