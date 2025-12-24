@@ -114,9 +114,6 @@ function displayMessage(message) {
         }
         reportDiv.innerHTML = `
             <div class="report-content">
-                ${message.report_data ?
-            `<button class="btn-download" onclick="downloadReport(${JSON.stringify(message.report_data).replace(/"/g, '&quot;')})">` :
-            ''}
                 ${reportHtml}
                 <div class="report-actions">
                     ${message.report_data ?
@@ -147,11 +144,14 @@ function renderReport(report) {
     let html = `
         <div class="report-header">
             <h3>📰 Reporte Personalizado</h3>
-            <p class="report-meta">
-                Generado: ${new Date(report.generated_at).toLocaleString('es-ES')} | 
-                Artículos: ${report.articles_stats[0] || 0} / ${report.articles_stats[1] || 0} |
-                Categorías de Interés: ${report.categories_of_interest.map((cat) => `<span class="category-tag">${escapeHtml(cat)}</span>`).join('')}
-            </p>
+            <div class="report-meta">
+                <div class="meta-line">Generado: ${new Date(report.generated_at).toLocaleString('es-ES')}</div>
+                <div class="meta-line">Total de artículos en este reporte: ${report.articles_stats[1] || 0}</div>
+                <div class="meta-line">Total de artículos relevantes encontrados: ${report.articles_stats[0] || 0}</div>
+                <div class="meta-line">
+                    Categorías de Interés: ${report.categories_of_interest.map((cat) => `<span class="category-tag">${escapeHtml(cat)}</span>`).join('')}
+                </div>
+            </div>
         </div>
     `;
     if (report.articles && report.articles.length > 0) {
@@ -159,7 +159,7 @@ function renderReport(report) {
             html += `
                 <div class="article-card">
                     <div class="article-title">${index + 1}. ${escapeHtml(article.title || 'Sin título')}</div>
-                    <div class="article-meta">
+                    <div class="article_date">
                         Sección: ${escapeHtml(article.section || 'N/A')} 
                     </div>
                     <div class="article_date">

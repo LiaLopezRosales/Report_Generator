@@ -333,7 +333,7 @@ body {
 }
 
 .report-content {
-    background: white;
+    background: #e2c1ff;
     border-radius: 8px;
     padding: 20px;
     box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
@@ -348,52 +348,65 @@ body {
 
 .report-header h3 {
     color: #333;
-    margin-bottom: 10px;
-    font-size: 20px;
+    margin-bottom: 15px;
+    font-size: 24px;
+    font-weight: 700;
 }
 
 .report-meta {
     color: #666;
-    font-size: 14px;
+    font-size: 20px;
+    line-height: 1.6;
+}
+
+.meta-line {
+    margin-bottom: 8px;
+    display: block;
 }
 
 .article-card {
-    background: #f8f9fa;
-    border-left: 4px solid #667eea;
+    background: #e8c7ff;
+    border-left: 4px solid #cb8bff;
     padding: 20px;
     margin-bottom: 20px;
     border-radius: 5px;
+    width: 100%;
+    box-sizing: border-box;
 }
 
 .article-title {
-    font-size: 18px;
+    font-size: 19px;
     font-weight: 600;
     color: #333;
     margin-bottom: 10px;
+    line-height: 1.4;
+    width: 100%;
 }
 
 .article-meta {
     color: #666;
-    font-size: 14px;
-    margin-bottom: 10px;
-}
-
-.article-summary {
-    color: #555;
-    line-height: 1.6;
+    font-size: 20px;
     margin-bottom: 15px;
 }
 
-.article-justification {
-    background: white;
-    padding: 15px;
-    border-radius: 5px;
-    margin-top: 10px;
+.article-summary {
+    color: #292929;
+    line-height: 1.6;
+    margin-bottom: 15px;
+    width: 100%;
+    text-align: justify;
+    font-size: 17px;
+}
+
+.article_date {
+    color: #666;
+    font-size: 17px;
+    margin-bottom: 8px;
 }
 
 .category-tag {
     display: inline-block;
-    background: #667eea;
+    background: #cb8bff;
     color: white;
     padding: 4px 10px;
     border-radius: 3px;
@@ -405,7 +418,7 @@ body {
 .score {
     font-size: 16px;
     font-weight: 600;
-    color: #667eea;
+    color: #cb8bff;
 }
 
 .article-link {
@@ -413,9 +426,10 @@ body {
 }
 
 .article-link a {
-    color: #667eea;
+    color: #cb8bff;
     text-decoration: none;
     font-weight: 500;
+    font-size: 14px;
 }
 
 .article-link a:hover {
@@ -599,6 +613,22 @@ body {
     
     .messages-container {
         padding: 15px;
+    }
+    
+    .report-content {
+        padding: 15px;
+    }
+    
+    .article-card {
+        padding: 15px;
+    }
+    
+    .article-title {
+        font-size: 16px;
+    }
+    
+    .article-summary {
+        font-size: 14px;
     }
 }
 
