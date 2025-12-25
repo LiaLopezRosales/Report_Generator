@@ -7,8 +7,7 @@ from typing import Dict, List, Tuple, Any, Optional
 from datetime import datetime
 
 from src.recommendation.report_generator import ReportGenerator
-from src.summarization.summarizer import PersonalizedSummarizer
-from src.process.news_recomendation import generate_report_recommendations
+from src.process.news_recomendation import generate_report_recommendations, find_user_profile_by_id
 
 logger = logging.getLogger(__name__)
 
@@ -18,7 +17,7 @@ def format_article_date(date_str: Optional[str]) -> str:
     Formatea una fecha de artículo a un formato legible.
     
     Args:
-        date_str: Fecha en formato ISO (puede ser None o con timezone)
+        date_str: Fecha en formato ISO con timezone (ej: "2025-12-22T15:55:13+00:00") o None
         
     Returns:
         Fecha formateada como 'dd/mm/yyyy HH:MM' o 'Fecha no disponible'
@@ -27,12 +26,17 @@ def format_article_date(date_str: Optional[str]) -> str:
         return 'Fecha no disponible'
     
     try:
-        # La fecha ya viene en formato ISO con timezone, solo parsear y formatear
+        # Intentar parsear el formato ISO con timezone primero (formato real de los datos)
         dt = datetime.fromisoformat(date_str)
         return dt.strftime('%d/%m/%Y %H:%M')
-    except (ValueError, TypeError) as e:
-        logger.warning(f"Error formateando fecha '{date_str}': {e}")
-        return 'Fecha no disponible'
+    except (ValueError, TypeError) as e1:
+        try:
+            # Si falla, intentar con formato dd/mm/yyyy HH:MM como fallback
+            dt = datetime.strptime(date_str, '%d/%m/%Y %H:%M')
+            return dt.strftime('%d/%m/%Y %H:%M')
+        except ValueError as e2:
+            logger.warning(f"Error formateando fecha '{date_str}': ISO error={e1}, strptime error={e2}")
+            return 'Fecha no disponible'
 
 
 def generate_text_report(
@@ -67,8 +71,8 @@ def generate_text_report(
     # Transformar matches al formato esperado por ReportGenerator
     transformed_matches = _transform_matches_for_report(matches)
     
-    # Generar reporte (sin summarizer por ahora)
-    report_generator = ReportGenerator(summarizer=None)
+    # Generar reporte
+    report_generator = ReportGenerator()
     report = report_generator.generate_report(
         matched_articles=transformed_matches,
         user_profile=user_profile,
@@ -315,7 +319,6 @@ def generate_report_from_user_query(
     Returns:
         Texto plano del reporte formateado
     """
-    from src.process.news_recomendation import find_user_profile_by_id
     
     # Obtener nombre del usuario
     user_profile = find_user_profile_by_id(user_id, users_file_path)
@@ -331,7 +334,7 @@ def generate_report_from_user_query(
         top_k=max_articles,
         users_file_path=users_file_path
     )
-    
+  
     # Generar reporte en texto plano
     return generate_text_report(
         recommendations,

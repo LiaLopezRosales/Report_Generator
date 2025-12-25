@@ -136,14 +136,23 @@ function displayMessage(message: SessionMessage) {
                 ${reportHtml}
                 <div class="report-actions">
                     ${message.report_data ? 
-                        `<button class="btn-download" onclick="downloadReport(${JSON.stringify(message.report_data).replace(/"/g, '&quot;')})">
-                            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                                <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path>
-                                <polyline points="7 10 12 15 17 10"></polyline>
-                                <line x1="12" y1="15" x2="12" y2="3"></line>
-                            </svg>
-                            Descargar PDF
-                        </button>` : 
+                        `<div class="report-buttons">
+                            <button class="btn-download" onclick="downloadReport(${JSON.stringify(message.report_data).replace(/"/g, '&quot;')})">
+                                <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                    <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path>
+                                    <polyline points="7 10 12 15 17 10"></polyline>
+                                    <line x1="12" y1="15" x2="12" y2="3"></line>
+                                </svg>
+                                Descargar PDF
+                            </button>
+                            <button class="btn-view" onclick="viewReport(${JSON.stringify(message.report_data).replace(/"/g, '&quot;')})">
+                                <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                    <path d="M1 12s4-8 11-8 11 8 11 8-4 8-11 8-11-8-11-8z"></path>
+                                    <circle cx="12" cy="12" r="3"></circle>
+                                </svg>
+                                Ver en Navegador
+                            </button>
+                        </div>` : 
                         ''}
                 </div>
                 <span class="message-time">${formatTime(message.timestamp)}</span>
@@ -271,7 +280,11 @@ async function handleSendMessage() {
         removeLoadingMessage();
         
         // Add structured report message to session
-        await addMessage('report', 'Reporte generado exitosamente', data.structured_report);
+        const reportDataWithQuery = {
+            ...data.structured_report,
+            user_query: message  // Guardar la query original del usuario
+        };
+        await addMessage('report', 'Reporte generado exitosamente', reportDataWithQuery);
         // Reload session to display the report
         await loadAndDisplayMessages();
         
@@ -299,6 +312,9 @@ async function handleSendMessage() {
         return;
     }
     
+    // Pedir ubicación personalizada
+    const customPath = await showPathDialog();
+    
     try {
         // Call API to generate PDF
         const response = await fetch(`${API_URL}/reports/generate-pdf`, {
@@ -308,7 +324,10 @@ async function handleSendMessage() {
             },
             body: JSON.stringify({
                 report: reportData,
-                user_name: currentUser?.name
+                user_name: currentUser?.name,
+                user_query: reportData.user_query || '',
+                custom_path: customPath || null,
+                browser_mode: false
             })
         });
         
@@ -316,19 +335,148 @@ async function handleSendMessage() {
             throw new Error('Error al generar PDF');
         }
         
-        const blob = await response.blob();
-        const url = window.URL.createObjectURL(blob);
-        const a = document.createElement('a');
-        a.href = url;
-        a.download = `reporte_${currentUser?.name || 'usuario'}_${Date.now()}.pdf`;
-        document.body.appendChild(a);
-        a.click();
-        document.body.removeChild(a);
-        window.URL.revokeObjectURL(url);
+        const result = await response.json();
+        
+        if (result.success) {
+            // Descargar el PDF generado
+            const downloadResponse = await fetch(`${API_URL}/reports/download-pdf?filename=${result.filename}`);
+            const blob = await downloadResponse.blob();
+            const url = window.URL.createObjectURL(blob);
+            const a = document.createElement('a');
+            a.href = url;
+            a.download = result.filename;
+            document.body.appendChild(a);
+            a.click();
+            document.body.removeChild(a);
+            window.URL.revokeObjectURL(url);
+            
+            // Mostrar información del archivo
+            alert(`PDF generado exitosamente:\nArchivo: ${result.filename}\nTamaño: ${(result.size / 1024).toFixed(2)} KB`);
+        }
+        
     } catch (error: any) {
         alert(`Error al descargar PDF: ${error.message}`);
     }
 };
+
+/**
+ * View report in browser
+ */
+(window as any).viewReport = async function(reportData: any) {
+    if (!reportData) {
+        alert('No hay datos del reporte para visualizar');
+        return;
+    }
+    
+    try {
+        // Call API to generate PDF for browser viewing
+        const response = await fetch(`${API_URL}/reports/generate-pdf`, {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json',
+            },
+            body: JSON.stringify({
+                report: reportData,
+                user_name: currentUser?.name,
+                user_query: reportData.user_query || '',
+                browser_mode: true
+            })
+        });
+        
+        if (!response.ok) {
+            throw new Error('Error al generar PDF para visualización');
+        }
+        
+        const blob = await response.blob();
+        const url = window.URL.createObjectURL(blob);
+        
+        // Abrir PDF en nueva pestaña
+        window.open(url, '_blank');
+        
+        // Limpiar URL después de un tiempo
+        setTimeout(() => {
+            window.URL.revokeObjectURL(url);
+        }, 60000);
+        
+    } catch (error: any) {
+        alert(`Error al visualizar PDF: ${error.message}`);
+    }
+};
+
+/**
+ * Show dialog for custom path input
+ */
+async function showPathDialog(): Promise<string | null> {
+    return new Promise((resolve) => {
+        const modal = document.createElement('div');
+        modal.style.cssText = `
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(0, 0, 0, 0.5);
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            z-index: 1000;
+        `;
+        
+        const dialog = document.createElement('div');
+        dialog.style.cssText = `
+            background: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            max-width: 500px;
+            width: 90%;
+        `;
+        
+        dialog.innerHTML = `
+            <h3 style="margin: 0 0 15px 0; color: #333;">Configurar Ubicación del PDF</h3>
+            <p style="margin: 0 0 15px 0; color: #666;">Deje en blanco para usar la ubicación por defecto o ingrese una ruta personalizada:</p>
+            <input type="text" id="customPathInput" placeholder="Ej: /home/user/mis_reportes/reporte_personalizado.pdf" 
+                   style="width: 100%; padding: 8px; border: 1px solid #ddd; border-radius: 4px; margin-bottom: 15px; box-sizing: border-box;">
+            <div style="text-align: right;">
+                <button id="cancelBtn" style="margin-right: 10px; padding: 8px 16px; border: 1px solid #ddd; background: #f5f5f5; border-radius: 4px; cursor: pointer;">Cancelar</button>
+                <button id="acceptBtn" style="padding: 8px 16px; border: none; background: #007bff; color: white; border-radius: 4px; cursor: pointer;">Aceptar</button>
+            </div>
+        `;
+        
+        modal.appendChild(dialog);
+        document.body.appendChild(modal);
+        
+        const input = dialog.querySelector('#customPathInput') as HTMLInputElement;
+        const cancelBtn = dialog.querySelector('#cancelBtn') as HTMLButtonElement;
+        const acceptBtn = dialog.querySelector('#acceptBtn') as HTMLButtonElement;
+        
+        const cleanup = () => {
+            document.body.removeChild(modal);
+        };
+        
+        const handleAccept = () => {
+            const path = input.value.trim() || null;
+            cleanup();
+            resolve(path);
+        };
+        
+        const handleCancel = () => {
+            cleanup();
+            resolve(null);
+        };
+        
+        acceptBtn.addEventListener('click', handleAccept);
+        cancelBtn.addEventListener('click', handleCancel);
+        input.addEventListener('keypress', (e) => {
+            if (e.key === 'Enter') {
+                handleAccept();
+            }
+        });
+        
+        // Focus en el input
+        setTimeout(() => input.focus(), 100);
+    });
+}
 
 /**
  * Utility functions

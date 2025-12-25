@@ -239,40 +239,6 @@ def _ensure_profile_components() -> tuple[UserProfileVectorizer, UserProfileMana
         return profile_vectorizer, profile_manager
 
 
-def _ensure_recommendation_stack() -> tuple[ReportGenerator]:
-    """
-    Carga y cachea artículos (sin preprocesamiento).
-    El preprocesamiento, matcheo y recomendaciones se hacen en src/process.
-    Se ejecuta una sola vez y se comparte entre requests.
-    Retorna: (report_generator,)
-    """
-    global _report_generator
-
-    if _report_generator:
-        return (_report_generator,)
-
-    with _articles_lock:
-        if _report_generator:
-            return (_report_generator,)
-
-        if not ARTICLES_DIR.exists():
-            raise HTTPException(status_code=500, detail="Articles directory not found.")
-
-        from src.data.loader import ArticleLoader
-        
-        loader = ArticleLoader(str(ARTICLES_DIR))
-        articles = loader.load_all_articles(recursive=True)
-        if not articles:
-            raise HTTPException(status_code=500, detail="No articles found.")
-
-        base_summarizer = TextRankSummarizer(language="spanish")
-        personalized_summarizer = PersonalizedSummarizer(base_summarizer)
-        report_generator = ReportGenerator(personalized_summarizer)
-
-        _report_generator = report_generator
-
-        logger.info("Report generator initialized (%s articles available).", len(articles))
-        return (_report_generator,)
 
 
 def _ensure_matching_components() -> tuple[UserProfileVectorizer, NewsMatcher]:
@@ -380,6 +346,9 @@ class UserInputRecommendationRequest(BaseModel):
 class PDFRequest(BaseModel):
     report: Dict[str, Any]
     user_name: Optional[str] = None
+    user_query: Optional[str] = None
+    custom_path: Optional[str] = None
+    browser_mode: bool = False
 
 
 app = FastAPI(title="Report Generator API", version="0.1.0")
@@ -518,7 +487,7 @@ def generate_text_report(payload: UserInputRecommendationRequest) -> Dict[str, A
     logger.info("generate-text-report | user_input length=%d", len(payload.user_input))
     logger.info("generate-text-report | max_articles=%d", payload.max_articles)
 
-    print("logguers informations trowns")
+    print("loggers information trows")
 
     nlp = _load_spacy_model()
 
@@ -555,23 +524,68 @@ def generate_text_report(payload: UserInputRecommendationRequest) -> Dict[str, A
         raise HTTPException(status_code=500, detail=f"Error generating text report: {str(e)}")
 
 
+@app.get("/reports/download-pdf")
+def download_pdf(filename: str):
+    """Endpoint para descargar un PDF generado previamente"""
+    file_path = PDF_OUTPUT_DIR / filename
+    
+    if not file_path.exists():
+        raise HTTPException(status_code=404, detail="PDF file not found")
+    
+    return FileResponse(
+        path=file_path,
+        media_type="application/pdf",
+        filename=filename
+    )
+
+
 @app.post("/reports/generate-pdf")
 def generate_pdf(payload: PDFRequest):
-    (report_generator,) = _ensure_recommendation_stack()
+    # Inicializar report generator si no existe
+    global _report_generator
+    if not _report_generator:
+        _report_generator = ReportGenerator()
+        logger.info("Report generator initialized.")
+    
+    report_generator = _report_generator
     if not payload.report:
         raise HTTPException(status_code=400, detail="Report payload is required.")
 
-    user_slug = _slugify(payload.user_name or "usuario")
-    filename = PDF_OUTPUT_DIR / f"reporte_{user_slug}_{int(time.time())}.pdf"
-    ok = report_generator.generate_pdf(payload.report, str(filename), payload.user_name)
+    # Determinar ruta de salida
+    if payload.custom_path:
+        filename = Path(payload.custom_path)
+        # Asegurar que tenga extensión .pdf
+        if not filename.suffix.lower() == '.pdf':
+            filename = filename.with_suffix('.pdf')
+    else:
+        user_slug = _slugify(payload.user_name or "usuario")
+        filename = PDF_OUTPUT_DIR / f"reporte_{user_slug}_{int(time.time())}.pdf"
+    
+    # Generar PDF con nueva estructura
+    ok = report_generator.generate_pdf(
+        report=payload.report,
+        output_path=str(filename),
+        user_name=payload.user_name,
+        user_query=payload.user_query
+    )
 
     if not ok or not filename.exists():
         raise HTTPException(status_code=500, detail="Could not generate PDF.")
 
-    return FileResponse(
-        path=filename,
-        media_type="application/pdf",
-        filename=filename.name,
-    )
+    if payload.browser_mode:
+        # Devolver PDF para visualización en navegador
+        return FileResponse(
+            path=filename,
+            media_type="application/pdf",
+            filename=filename.name,
+        )
+    else:
+        # Devolver información del archivo generado
+        return {
+            "success": True,
+            "filename": filename.name,
+            "path": str(filename),
+            "size": filename.stat().st_size
+        }
 
 
