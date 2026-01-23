@@ -107,7 +107,13 @@ class ReportGenerator:
                     'matching_entities': justification.get('matching_entities', []),
                     'article_categories': justification.get('article_categories', []),
                     'sentiment': justification.get('sentiment'),
-                    'score_breakdown': justification.get('score', 0)
+                    'score_breakdown': justification.get('score', 0),
+                    'keyword_score': justification.get('keyword_score', 0),
+                    'semantic_score': justification.get('semantic_score', 0),
+                    'category_score': justification.get('category_score', 0),
+                    'time_score': justification.get('time_score', 0),
+                    'entity_score': justification.get('entity_score', 0),
+                    'final_score': justification.get('final_score', score)
                 },
                 'date': article.get('source_metadata', {}).get('date'),
                 'tags': article.get('tags', []),

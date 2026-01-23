@@ -116,7 +116,9 @@ def generate_text_report(
                 "date": format_article_date(article.get('date')),
                 "summary": article.get('summary', ''),
                 "url": article.get('url', ''),
-                "generated_by_model": article.get('generated_by_model', False)
+                "generated_by_model": article.get('generated_by_model', False),
+                "score": article.get('score'),
+                "justification": article.get('justification', {})
             } for article in articles
         ]
     }
@@ -276,6 +278,7 @@ def _transform_matches_for_report(
             'article_categories': article.get('categories', []),
             'sentiment': article.get('sentiment', {}).get('label') if isinstance(article.get('sentiment'), dict) else None,
             'score': score,
+            'keyword_score': details.get('keyword_score', 0),
             'semantic_score': details.get('semantic_score', 0),
             'category_score': details.get('category_score', 0),
             'time_score': details.get('time_score', 0),

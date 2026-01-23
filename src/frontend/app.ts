@@ -177,6 +177,16 @@ function renderReport(report: any): string {
         ? report.categories_of_interest
         : [];
 
+    const usedCategoriesSet = new Set<string>();
+    articles.forEach((a: any) => {
+        const just: any = (a as any).justification || {};
+        const artCats: string[] = Array.isArray(just?.article_categories) ? just.article_categories : [];
+        const matchCats: string[] = Array.isArray(just?.matching_categories) ? just.matching_categories : [];
+        artCats.forEach((c: string) => usedCategoriesSet.add(c));
+        matchCats.forEach((c: string) => usedCategoriesSet.add(c));
+    });
+    const usedCategories: string[] = Array.from(usedCategoriesSet);
+
     const totalInReport = articles.length;
     const totalRelevant = typeof articlesStats[0] === 'number' ? articlesStats[0] : totalInReport;
     const totalShown = typeof articlesStats[1] === 'number' ? articlesStats[1] : totalInReport;
@@ -191,6 +201,11 @@ function renderReport(report: any): string {
                 ${categoriesOfInterest.length > 0
         ? `<div class="meta-line">Categorías de Interés: ${categoriesOfInterest
             .map((cat: string) => `<span class="category-tag">${escapeHtml(cat)}</span>`)
+            .join('')}</div>`
+        : ''}
+                ${usedCategories.length > 0
+        ? `<div class="meta-line">Categorías usadas en la búsqueda: ${usedCategories
+            .map((cat: string) => `<span class=\"category-tag\">${escapeHtml(cat)}</span>`)
             .join('')}</div>`
         : ''}
             </div>
@@ -211,6 +226,55 @@ function renderReport(report: any): string {
         });
 
         sortedArticles.forEach((article: any, index: number) => {
+            const scoreVal = typeof article.score === 'number'
+                ? article.score
+                : (typeof (article as any).final_score === 'number' ? (article as any).final_score : undefined);
+            const scoreHtml = typeof scoreVal === 'number'
+                ? `<div class="article-score"><strong>Puntuación:</strong> ${(scoreVal * 100).toFixed(1)}%</div>`
+                : '';
+
+            const just: any = (article as any).justification || {};
+            const matchingCategories: string[] = Array.isArray(just.matching_categories) ? just.matching_categories : [];
+            const matchingEntities: string[] = Array.isArray(just.matching_entities) ? just.matching_entities : [];
+            const articleCategories: string[] = Array.isArray(just.article_categories) ? just.article_categories : [];
+            const sentimentLabel: string | null = typeof just.sentiment === 'string' ? just.sentiment : null;
+
+            const breakdownPairs: Array<[string, string]> = [
+                ['semantic_score', 'Semántico'],
+                ['keyword_score', 'Palabras clave'],
+                ['category_score', 'Categorías'],
+                ['time_score', 'Recencia'],
+                ['entity_score', 'Entidades'],
+            ];
+            const breakdownParts: string[] = [];
+            breakdownPairs.forEach(([key, label]) => {
+                const v = typeof just[key] === 'number' ? just[key] : undefined;
+                if (typeof v === 'number') breakdownParts.push(`${label}: ${(v * 100).toFixed(0)}%`);
+            });
+            const breakdownHtml = breakdownParts.length
+                ? `<div class="article-score-breakdown">${breakdownParts.join(' · ')}</div>`
+                : '';
+
+            const categoriesHtml = matchingCategories.length
+                ? `<div class="article-matching-cats"><strong>Categorías coincidentes:</strong> ${matchingCategories.map((c: string) => `<span class="category-tag">${escapeHtml(c)}</span>`).join('')}</div>`
+                : '';
+
+            const entitiesHtml = matchingEntities.length
+                ? `<div class="article-matching-ents"><strong>Entidades de tu interés:</strong> ${matchingEntities.map((e: string) => `<span class="category-tag">${escapeHtml(e)}</span>`).join('')}</div>`
+                : '';
+
+            const articleCatsHtml = articleCategories.length
+                ? `<div class="article-article-cats"><strong>Categorías del artículo:</strong> ${articleCategories.map((c: string) => `<span class="category-tag">${escapeHtml(c)}</span>`).join('')}</div>`
+                : '';
+
+            const sentimentHtml = sentimentLabel
+                ? `<div class="article-sentiment"><strong>Sentimiento:</strong> ${escapeHtml(sentimentLabel)}</div>`
+                : '';
+
+            const justificationHtml = (scoreHtml || breakdownHtml || categoriesHtml || entitiesHtml || articleCatsHtml || sentimentHtml)
+                ? `<div class="article-justification">${scoreHtml}${breakdownHtml}${categoriesHtml}${entitiesHtml}${articleCatsHtml}${sentimentHtml}</div>`
+                : '';
+
             html += `
                 <div class="article-card">
                     <div class="article-title">${index + 1}. ${escapeHtml(article.title || 'Sin título')}</div>
@@ -223,6 +287,7 @@ function renderReport(report: any): string {
                     <div class="article-summary">
                         <strong>Resumen:</strong> ${escapeHtml(article.summary || 'Sin resumen')}
                     </div>
+                    ${justificationHtml}
                     ${article.url ? `
                         <div class="article-link">
                             <a href="${escapeHtml(article.url)}" target="_blank">Ver artículo completo →</a>
