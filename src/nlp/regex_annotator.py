@@ -3,7 +3,9 @@ Sistema de anotación con expresiones regulares
 """
 import logging
 from typing import List, Dict, Set
+
 from src.nlp.regex_patterns import regex_extraccion
+from src.nlp.preprocessing import TextPreprocessor
 
 logger = logging.getLogger(__name__)
 
@@ -11,9 +13,25 @@ logger = logging.getLogger(__name__)
 class RegexAnnotator:
     """Anotador de texto usando expresiones regulares"""
     
-    def __init__(self):
+    def __init__(self, use_lemmatization: bool = True):
         """Inicializa el anotador con los patrones compilados"""
         self.patterns = regex_extraccion
+        self.use_lemmatization = use_lemmatization
+        self.preprocessor = None
+
+        if self.use_lemmatization:
+            try:
+                # No eliminar stopwords aquí para conservar el máximo contexto semántico
+                self.preprocessor = TextPreprocessor(use_spacy=True, remove_stopwords=False)
+                if not self.preprocessor.nlp:
+                    # spaCy no disponible, desactivar lematización
+                    self.use_lemmatization = False
+                    self.preprocessor = None
+                    logger.warning("RegexAnnotator: spaCy no disponible, se desactiva la lematización")
+            except Exception as e:
+                logger.warning(f"RegexAnnotator: no se pudo inicializar TextPreprocessor, se desactiva la lematización: {e}")
+                self.use_lemmatization = False
+                self.preprocessor = None
     
     def annotate(self, text: str) -> Dict:
         """
@@ -32,8 +50,28 @@ class RegexAnnotator:
                 'match_count': 0
             }
         
-        # Convertir a minúsculas para matching
-        text_lower = text.lower()
+        # Texto base en minúsculas para matching
+        text_for_match = text.lower()
+
+        # Opcionalmente, ampliar el texto con una versión lematizada
+        if self.use_lemmatization and self.preprocessor and self.preprocessor.nlp:
+            try:
+                # Usar remove_noise para limpiar sin perder estructura
+                cleaned = self.preprocessor.remove_noise(text)
+                doc = self.preprocessor.nlp(cleaned)
+                lemmas = []
+                for token in doc:
+                    if token.is_space or token.is_punct:
+                        continue
+                    lemma = (token.lemma_ or token.text).lower()
+                    if lemma:
+                        lemmas.append(lemma)
+                if lemmas:
+                    # Añadir los lemas al final del texto base para mejorar el recall
+                    text_for_match = text_for_match + " " + " ".join(lemmas)
+            except Exception as e:
+                logger.error(f"RegexAnnotator: error durante la lematización, se continúa sin lemas: {e}")
+        
         
         categories_detected: Set[str] = set()
         matches: List[Dict] = []
@@ -42,8 +80,8 @@ class RegexAnnotator:
         # Iterar sobre todas las categorías y patrones
         for category, patterns in self.patterns.items():
             for pattern in patterns:
-                # Buscar todas las coincidencias
-                for match in pattern.finditer(text_lower):
+                # Buscar todas las coincidencias sobre el texto ampliado
+                for match in pattern.finditer(text_for_match):
                     text_match = match.group().strip()
                     
                     # Evitar duplicados exactos

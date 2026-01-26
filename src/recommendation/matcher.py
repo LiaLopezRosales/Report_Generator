@@ -1,10 +1,6 @@
-"""
-Motor de matching simplificado v6
-- Factor de tiempo incluido
-- Entidades más estrictas (solo PER, ORG, LOC, GPE con longitud mínima)
-- Pesos simples y claros
-"""
+"""\nMotor de matching simplificado v6\n- Factor de tiempo incluido\n- Entidades más estrictas (solo PER, ORG, LOC, GPE con longitud mínima)\n- Pesos simples y claros\n"""
 import math
+import re
 from datetime import datetime, timezone
 from typing import List, Dict, Tuple, Optional, Set, TYPE_CHECKING
 from collections import Counter
@@ -314,16 +310,48 @@ class SimpleMatcher:
         if query_terms:
             matches = 0
             for term in query_terms:
-                if term.lower() in combined_article_content:
+                term_norm = term.strip().lower()
+                if not term_norm:
+                    continue
+
+                # Coincidencia por palabra/frase completa usando límites de palabra
+                pattern = r"\b" + re.escape(term_norm) + r"\b"
+
+                match_obj = re.search(pattern, combined_article_content)
+                if match_obj:
+                    # Debug específico para entender por qué matchea "bola"
+                    if len(term) > 3 and term_norm == "bola":
+                        print("=== DEBUG KEYWORD 'bola' ===")
+                        print("ARTICLE TITLE:", article.get('title', ''))
+                        print("RAW TERM:", term)
+
+                        # Buscar la oración del texto original que contiene "bola"
+                        original_text = article.get('text', '') or article.get('clean_text', '')
+                        if isinstance(original_text, str) and original_text:
+                            # Separar aproximadamente por oraciones usando puntuación básica
+                            sentences = re.split(r'(?<=[.!?])\s+', original_text)
+                            for sent in sentences:
+                                try:
+                                    if 'bola' in sent.lower():
+                                        print("SENTENCE:", sent.strip())
+                                        break
+                                except Exception:
+                                    continue
+                        print("==============================")
+
                     matches += 1
             if matches > 0:
                 # Logaritmo para que tener muchos matches no dispare el score linealmente
                 keyword_score = min(1.0, 0.4 + 0.3 * math.log2(matches + 1))
         
-        # Boost si el término principal está en el título
+        # Boost si el término principal está en el título (por palabra completa)
         title_boost = 1.0
-        if query_terms and query_terms[0].lower() in article_title:
-            title_boost = 1.2
+        if query_terms:
+            main_term = query_terms[0].strip().lower()
+            if main_term:
+                title_pattern = r"\b" + re.escape(main_term) + r"\b"
+                if re.search(title_pattern, article_title):
+                    title_boost = 1.2
         
         # 1. Score semántico
         semantic = self._calculate_semantic_score(user_vector, article_vector)
@@ -335,7 +363,8 @@ class SimpleMatcher:
         )
         
         # 3. Score de tiempo (artículos recientes tienen más peso)
-        time_score = self._calculate_time_score(article)
+        # time_score = self._calculate_time_score(article)
+        time_score = 0
         
         # 4. Score de entidades (solo como señal adicional, no determinante)
         user_ents = self._extract_quality_entities(user_profile.get('entities', []))
