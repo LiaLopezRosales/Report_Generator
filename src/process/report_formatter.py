@@ -60,10 +60,20 @@ def generate_text_report(
         summarizer: Objeto summarizer (opcional)
         
     Returns:
-        Texto plano formateado del reporte
+        Tupla (structured_report, text_report), incluso en caso de error
     """
     if 'error' in recommendations_result:
-        return f"Error: {recommendations_result['error']}"
+        # Mantener la misma interfaz de salida incluso cuando hay error,
+        # para que las capas superiores no fallen al desempaquetar.
+        error_msg = str(recommendations_result.get('error', 'Error desconocido'))
+        structured_report = {
+            "generated_at": datetime.utcnow().isoformat(),
+            "articles": [],
+            "error": error_msg,
+            "search_stats": recommendations_result.get('search_stats', {})
+        }
+        text_report = f"Error: {error_msg}"
+        return structured_report, text_report
     
     # Extraer datos
     matches = recommendations_result.get('matches', [])

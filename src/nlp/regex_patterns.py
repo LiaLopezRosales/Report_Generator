@@ -25,7 +25,13 @@ regex_eventos = {
         r'\b(protestó|manifestó|marchó|movilizó)\b',
         r'\b(bloqueó|cortó|interrumpió|obstruyó)\b',
         r'\b(ocupó|tomó|ingresó)\b.*?\b(edificio|instalación)\b',
-        r'\b(convocó|llamó|citó|invitó)\b.*?\b(movilización|protesta)\b'
+        r'\b(convocó|llamó|citó|invitó)\b.*?\b(movilización|protesta)\b',
+        # Patrones simples por palabras clave de protesta/movilización
+        r'\b(protestas?|manifestaciones?|marchas?|movilizaciones?)\b',
+        r'\b(huelgas?|paros?|piquetes?)\b',
+        r'\b(cortes? de ruta|cortes? de calles?)\b',
+        r'\b(represión policial|represión)\b',
+        r'\b(movilización social|conflicto social)\b',
     ],
 
     "CONFLICTOS_ARMADOS_OPERACIONES": [
@@ -70,7 +76,12 @@ regex_eventos = {
             r'\b(atacó|bombardeó|disparó|impactó)\b',
             r'\b(desplegó|movilizó|desplazó|trasladó)\b.*?\b(tropas|efectivos)\b',
             r'\b(intervino|incursionó|penetró|ingresó)\b',
-            r'\b(defendió|protegió|resguardó|custodió)\b'
+            r'\b(defendió|protegió|resguardó|custodió)\b',
+        # Patrones simples por palabras clave de conflicto armado
+        r'\b(guerra|conflicto armado|ofensiva militar)\b',
+        r'\b(bombardeos?|ataques?)\b',
+        r'\b(ejército|fuerzas armadas|tropas)\b',
+        r'\b(operación militar|operativo militar)\b',
     ],
 
     "DESASTRES_ACCIDENTES_EMERGENCIAS": [
@@ -94,7 +105,13 @@ regex_eventos = {
         r'\b(derrumbe|colapso|hundimiento)\b.*?\b(estructura|construcción|edificio)\b',
         r'\b(choque|colisión|volcamiento)\b.*?\b(vehicular|automovilístico|tránsito)\b',
         r'\b(intoxicación|envenenamiento)\b.*?\b(masivo|colectivo|alimentos)\b',
-        r'\b(conservación|protección|preservación)\b.*?\b(ambiental|ecológica|natural)\b.*?\b(programa|proyecto|plan)\b'
+        r'\b(conservación|protección|preservación)\b.*?\b(ambiental|ecológica|natural)\b.*?\b(programa|proyecto|plan)\b',
+        # Patrones simples por palabras clave de desastres/accidentes
+        r'\b(sismo|terremoto|temblor)\b',
+        r'\b(inundación|inundaciones|lluvias intensas?)\b',
+        r'\b(huracán|ciclón|tormenta)\b',
+        r'\b(desastre natural|catástrofe)\b',
+        r'\b(accidente|tragedia|siniestro)\b',
     ],
 
     "ECONOMIA_COMERCIO_FINANZAS": [
@@ -119,13 +136,18 @@ regex_eventos = {
         r'\b(producción|manufactura|industria)\b.*?\b(aumenta|crece|disminuye)\b.*?\b(porcentaje|tasa|índice)\b',
         r'\b(mercado|bolsa|valores)\b.*?\b(crece|sube|baja)\b.*?\b(puntos|porcentaje|índice)\b',
         r'\b(riesgo país|fuga de capitales|default|cesación de pagos|corralito|FMI|Banco Mundial)\b',
-              r'\b(inflación|deflación|precios|costo de vida)\b',
-            r'\b(impuesto|tasa|contribución|gravamen)\b',
-            r'\b(salario|sueldo|remuneración|ingreso)\b',
-            r'\b(empleo|trabajo|ocupación|desempleo)\b',
-            r'\b(inversión|capital|financiamiento|crédito)\b',
-            r'\b(crecimiento económico inclusivo|desarrollo económico)\b',
-r'\b(países? en desarrollo|naciones? en desarrollo)\b.*?\b(costo|impacto)\b',
+        # Patrones simples por palabra clave económica
+        r'\beconom(ía|ico|ica|icos|icas)\b',
+        r'\b(finanzas?|financiero|financiera|financieros|financieras)\b',
+        r'\b(producto interno bruto|pib|pbi)\b',
+        r'\b(banco central|reservas? internacionales?)\b',
+        r'\b(inflación|deflación|precios|costo de vida)\b',
+        r'\b(impuesto|tasa|contribución|gravamen)\b',
+        r'\b(salario|sueldo|remuneración|ingreso)\b',
+        r'\b(empleo|trabajo|ocupación|desempleo)\b',
+        r'\b(inversión|capital|financiamiento|crédito)\b',
+        r'\b(crecimiento económico inclusivo|desarrollo económico)\b',
+        r'\b(países? en desarrollo|naciones? en desarrollo)\b.*?\b(costo|impacto)\b',
     ],
 
     "RELACIONES_INTERNACIONALES": [
@@ -162,11 +184,15 @@ r'\b(países? en desarrollo|naciones? en desarrollo)\b.*?\b(costo|impacto)\b',
         r'\b(hermandad|cooperación|colaboración)\b.*?\b(entre|con)\b.*?\b(pueblos?|países?)\b',
         r'\b(rechazo|condena|repudio)\b.*?\b(declaraciones?|acciones?|políticas?)\b',
         r'\b(aniversario|conmemoración)\b.*?\b(histórico|batalla|evento)\b.*?\b(entre|con)\b.*?\b(países?)\b',
-         r'\b(acordaron|convencieron|pactaron|concordaron)\b.*?\b(cooperar|colaborar|trabajar juntos)\b',
-            r'\b(alianza|asociación|consorcio|consorcio)\b.*?\b(estratégica|estratégico)\b',
-            r'\b(firma|suscribión)\b.*?\b(convenio|acuerdo|memorándum)\b.*?\b(entre)\b.*?\b(y)\b',
-            r'\b(a favor de|en apoyo a|solidaridad con)\b.*?\b(palestina|libano|gaza)\b',
-r'\b(manifestaciones?|protestas?)\b.*?\b(en|desde)\b.*?\b([A-Z][a-z]+)\b.*?\b(a favor de|en apoyo)\b',
+        r'\b(acordaron|convencieron|pactaron|concordaron)\b.*?\b(cooperar|colaborar|trabajar juntos)\b',
+        r'\b(alianza|asociación|consorcio|consorcio)\b.*?\b(estratégica|estratégico)\b',
+        r'\b(firma|suscribión)\b.*?\b(convenio|acuerdo|memorándum)\b.*?\b(entre)\b.*?\b(y)\b',
+        r'\b(a favor de|en apoyo a|solidaridad con)\b.*?\b(palestina|libano|gaza)\b',
+        r'\b(manifestaciones?|protestas?)\b.*?\b(en|desde)\b.*?\b([A-Z][a-z]+)\b.*?\b(a favor de|en apoyo)\b',
+        # Patrones simples por palabras clave diplomáticas/internacionales
+        r'\b(relaciones? internacionales?|diplomacia|diplomático|diplomática)\b',
+        r'\b(cumbre|encuentro|reunión)\b.*?\b(presidencial|diplomátic[ao])\b',
+        r'\b(alianza estratégica|cooperación internacional)\b',
     ],
 
     "ELECCIONES_PROCESOS_POLITICOS": [
@@ -197,7 +223,12 @@ r'\b(manifestaciones?|protestas?)\b.*?\b(en|desde)\b.*?\b([A-Z][a-z]+)\b.*?\b(a 
         r'\b(soberanía|independencia|autodeterminación)\b.*?\b(principio|derecho|valor)\b',
         r'\b(declaró|afirmó|señaló|manifestó|expresó|sostuvo)\b',
         r'\b(anunció|informó|comunicó|divulgó|difundió)\b',
-        r'\b(advirtió|alertó|precisó|aclaró|explicó)\b'
+        r'\b(advirtió|alertó|precisó|aclaró|explicó)\b',
+        # Patrones simples por palabras clave electorales/políticas
+        r'\b(elecciones?|comicios?|votaciones?)\b',
+        r'\b(campaña electoral|proceso electoral)\b',
+        r'\b(urna(s)?|voto|votar)\b',
+        r'\b(referéndum|plebiscito)\b',
     ],
 
     "CIENCIA_TECNOLOGIA_SALUD": [
@@ -257,7 +288,12 @@ r'\b(manifestaciones?|protestas?)\b.*?\b(en|desde)\b.*?\b([A-Z][a-z]+)\b.*?\b(a 
         r'\b(debido proceso|defensa|tutela judicial efectiva)\b',
         r'\b(igualdad|no discriminación|integridad)\b.*?\b(personal|física|moral)\b',
         r'\b(sentencia|fallo|resolución)\b.*?\b(condenatoria|absolutoria|definitiva)\b',    
-            r'\b(abuso|negligencia|omisión|comisión)\b.*?\b(funciones?|deberes?)\b'           
+            r'\b(abuso|negligencia|omisión|comisión)\b.*?\b(funciones?|deberes?)\b',
+        # Patrones simples por palabras clave jurídico/legislativas/corrupción
+        r'\b(leyes?|reformas?|decretos?)\b',
+        r'\b(parlamento|congreso|asamblea legislativa)\b',
+        r'\b(corrupción|sobornos?|malversación|cohecho)\b',
+        r'\b(juicio|proceso judicial|causa penal)\b',
     ],
 
     "VIOLENCIA_CRIMEN_DERECHOS_HUMANOS": [
@@ -298,9 +334,12 @@ r'\b(manifestaciones?|protestas?)\b.*?\b(en|desde)\b.*?\b([A-Z][a-z]+)\b.*?\b(a 
         r'\b(negocios?|propiedades?)\b.*?\b(destruidos?|dañados?)\b',
         r'\b(derecho|garantía|libertad)\b.*?\b(humano|fundamental|constitucional)\b',
         r'\b(educación|salud|vivienda|trabajo)\b.*?\b(derecho|acceso)\b',
-        r'\b(igualdad|equidad|no discriminación|inclusión)\b'
-
-
+        r'\b(igualdad|equidad|no discriminación|inclusión)\b',
+        # Patrones simples por palabras clave de violencia/crimen/DDHH
+        r'\b(violencia|inseguridad|criminalidad|delincuencia)\b',
+        r'\b(derechos? humanos?)\b',
+        r'\b(masacres?|homicidios?|asesinatos?)\b',
+        r'\b(represión|represiones?)\b',
     ],
 
     "CRISIS_HUMANITARIA_SERVICIOS": [
@@ -326,6 +365,11 @@ r'\b(manifestaciones?|protestas?)\b.*?\b(en|desde)\b.*?\b([A-Z][a-z]+)\b.*?\b(a 
         r'\b(poblaciones? vulnerables?|países? en desarrollo)\b.*?\b(pobreza|hambre|daños?)\b',
         r'\b(objetivos? de desarrollo sostenible|ods)\b',
         r'\b(fin de la pobreza|hambre cero|salud y bienestar)\b',
+        # Patrones simples por palabras clave de crisis humanitaria/servicios
+        r'\b(crisis humanitaria|emergencia humanitaria)\b',
+        r'\b(refugiados?|desplazados?|migrantes?)\b',
+        r'\b(servicios? básicos?|agua potable|electricidad)\b',
+        r'\b(apagones?|cortes? de luz)\b',
     ],
 
     "CULTURA_DEPORTE_SOCIEDAD": [
@@ -345,11 +389,16 @@ r'\b(manifestaciones?|protestas?)\b.*?\b(en|desde)\b.*?\b([A-Z][a-z]+)\b.*?\b(a 
         r'\b(equipo|delegación|selección)\b.*?\b(nacional|internacional)\b.*?\b(victoria|derrota|empate)\b',
         r'\b(festival|celebración|conmemoración)\b.*?\b(cultural|artístico|tradicional)\b.*?\b(realiza|organiza|celebra)\b',
         r'\b(premio|reconocimiento|galardón)\b.*?\b(cultural|artístico|deportivo)\b.*?\b(otorga|recibe|gana)\b',
-          r'\b(premio|reconocimiento|galardón)\b.*?\b(cultural|artístico|deportivo)\b.*?\b(otorga|recibe|gana)\b',
-    r'\b(copa|mundial|campeonato)\b.*?\b(béisbol|deporte|competencia)\b',
-    r'\b(debut|participación|presentación)\b.*?\b(deportiva|cultural|artística)\b',
-    r'\b(evento|actividad|jornada)\b.*?\b(deportivo|cultural|recreativo)\b',
-    r'\b(equipo|delegación|selección)\b.*?\b(nacional|internacional)\b'
+        r'\b(premio|reconocimiento|galardón)\b.*?\b(cultural|artístico|deportivo)\b.*?\b(otorga|recibe|gana)\b',
+        r'\b(copa|mundial|campeonato)\b.*?\b(béisbol|deporte|competencia)\b',
+        r'\b(debut|participación|presentación)\b.*?\b(deportiva|cultural|artística)\b',
+        r'\b(evento|actividad|jornada)\b.*?\b(deportivo|cultural|recreativo)\b',
+        r'\b(equipo|delegación|selección)\b.*?\b(nacional|internacional)\b',
+        # Patrones simples por palabras clave de cultura/deporte/sociedad
+        r'\b(cultura|cultural(es)?)\b',
+        r'\b(arte|música|teatro|cine|literatura)\b',
+        r'\b(deportes?|deportivo|deportiva|deportista)\b',
+        r'\b(festival(es)?|conciertos?|espectáculos?)\b',
     ]
 }
 
